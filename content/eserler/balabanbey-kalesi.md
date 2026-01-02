@@ -1,18 +1,17 @@
 ---
-title: "Balabanbey Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:00+03:00
+title: "Balabanbey Kalesi"
+date: "2025-12-25T01:26:00+03:00"
 slug: "balabanbey-kalesi"
 description: "## Balabanbey Kalesi: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.0725555,40.1743393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balabanbey Kalesi: Bursa'nın Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Saliha Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:07:36+03:00
+title: "Saliha Sultan Çeşmesi"
+date: "2025-12-25T10:07:36+03:00"
 slug: "saliha-sultan-cesmesi"
 description: "### Saliha Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Saliha_Sultan_Fountain,_İstanbul_(13080114393).jpg/1200px-Saliha_Sultan_Fountain,_İstanbul_(13080114393).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.968638888,41.025388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Saliha Sultan Çeşmesi

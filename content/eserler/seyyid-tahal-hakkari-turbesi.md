@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Taha’l Hakkari Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:10+03:00
+title: "Seyyid Taha’l Hakkari Türbesi"
+date: "2025-12-25T14:21:10+03:00"
 slug: "seyyid-tahal-hakkari-turbesi"
 description: "## Seyyid Taha’l Hakkari Türbesi..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Şemdinli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "44.5211,37.29"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Taha’l Hakkari Türbesi

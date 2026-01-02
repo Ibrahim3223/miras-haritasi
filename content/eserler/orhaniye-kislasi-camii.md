@@ -1,18 +1,17 @@
 ---
-title: "Orhaniye Kışlası Camii | Miras Haritası"
-date: 2025-12-24T21:38:05+03:00
+title: "Orhaniye Kışlası Camii"
+date: "2025-12-24T21:38:05+03:00"
 slug: "orhaniye-kislasi-camii"
 description: "### Orhaniye Kışlası Camii..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Mecidiye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.017527777,41.052305555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Orhaniye Kışlası Camii

@@ -1,18 +1,17 @@
 ---
-title: "Timurtaş Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:42:42+03:00
+title: "Timurtaş Paşa Camii"
+date: "2025-12-24T21:42:42+03:00"
 slug: "timurtas-pasa-camii"
 description: "# Timurtaş Paşa Camii: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Takvacılar_dış.JPG/1200px-Takvacılar_dış.JPG"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.976083333,39.419638888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Timurtaş Paşa Camii: Kütahya'nın Tarihi Bir Mirası

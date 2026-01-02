@@ -1,18 +1,17 @@
 ---
-title: "İngiliz Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:59:50+03:00
+title: "İngiliz Mezarlığı"
+date: "2025-12-25T15:59:50+03:00"
 slug: "ingiliz-mezarligi"
 description: "## İngiliz Mezarlığı: Çanakkale'nin Anıtsal Mirası..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.41523,40.14592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İngiliz Mezarlığı: Çanakkale'nin Anıtsal Mirası

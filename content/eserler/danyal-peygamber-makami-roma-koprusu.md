@@ -1,18 +1,17 @@
 ---
-title: "Danyal Peygamber Makamı Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:48:02+03:00
+title: "Danyal Peygamber Makamı Roma Köprüsü"
+date: "2025-12-25T02:48:02+03:00"
 slug: "danyal-peygamber-makami-roma-koprusu"
 description: "## Danyal Peygamber Makamı Roma Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.897225653,36.917101044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Danyal Peygamber Makamı Roma Köprüsü

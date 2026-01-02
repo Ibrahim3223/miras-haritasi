@@ -1,18 +1,17 @@
 ---
-title: "Ora Arena | Miras Haritası"
-date: 2025-12-25T16:17:07+03:00
+title: "Ora Arena"
+date: "2025-12-25T16:17:07+03:00"
 slug: "ora-arena"
 description: "## Ora Arena: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bayrampaşa"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.886908,41.043067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ora Arena: İstanbul'un Gizli Mirası

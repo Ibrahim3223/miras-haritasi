@@ -1,18 +1,17 @@
 ---
-title: "Ukkaşe Türbesi | Miras Haritası"
-date: 2025-12-25T15:08:01+03:00
+title: "Ukkaşe Türbesi"
+date: "2025-12-25T15:08:01+03:00"
 slug: "ukkase-turbesi"
 description: "## Ukkaşe Türbesi: Gaziantep'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.837982706,37.080362233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ukkaşe Türbesi: Gaziantep'in Gizli Cenneti

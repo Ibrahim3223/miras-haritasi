@@ -1,18 +1,17 @@
 ---
-title: "Şehzadeler Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:21+03:00
+title: "Şehzadeler Müzesi"
+date: "2025-12-25T04:01:21+03:00"
 slug: "sehzadeler-muzesi"
 description: "**Şehzadeler Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Şehzadeler_Müzesi.jpg/1200px-Şehzadeler_Müzesi.jpg"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.830322271,40.652355772"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Şehzadeler Müzesi**

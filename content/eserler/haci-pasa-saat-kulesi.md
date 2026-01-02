@@ -1,18 +1,17 @@
 ---
-title: "Hacı Paşa Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:50+03:00
+title: "Hacı Paşa Saat Kulesi"
+date: "2025-12-25T17:17:50+03:00"
 slug: "haci-pasa-saat-kulesi"
 description: "## Hacı Paşa Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hacı_Paşa_Saat_Kulesi.JPG/1200px-Hacı_Paşa_Saat_Kulesi.JPG"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "33.88027778,36.31833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Paşa Saat Kulesi

@@ -1,18 +1,17 @@
 ---
-title: "Aziz Mahmud Hüdayi Camii, Sivrihisar | Miras Haritası"
-date: 2025-12-25T00:31:16+03:00
+title: "Aziz Mahmud Hüdayi Camii, Sivrihisar"
+date: "2025-12-25T00:31:16+03:00"
 slug: "aziz-mahmud-hudayi-camii-sivrihisar"
 description: "## Aziz Mahmud Hüdayi Camii: Sivrihisar'ın Kutsal Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5350609,39.4506683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Mahmud Hüdayi Camii: Sivrihisar'ın Kutsal Mirası

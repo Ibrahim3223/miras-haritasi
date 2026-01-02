@@ -1,18 +1,17 @@
 ---
-title: "Aphrodisias Stadium | Miras Haritası"
-date: 2025-12-25T08:31:31+03:00
+title: "Aphrodisias Stadium"
+date: "2025-12-25T08:31:31+03:00"
 slug: "aphrodisias-stadium"
 description: "### Aphrodisias Stadyumu: Antik Dönemin Altın Vuruşları..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.721989132,37.712525985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aphrodisias Stadyumu: Antik Dönemin Altın Vuruşları

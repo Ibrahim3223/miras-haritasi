@@ -1,18 +1,17 @@
 ---
-title: "Taptık Gürlüktepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:36:05+03:00
+title: "Taptık Gürlüktepe Tümülüsü"
+date: "2025-12-25T07:36:05+03:00"
 slug: "taptik-gurluktepe-tumulusu"
 description: "**Taptık Gürlüktepe Tümülüsü**..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9149017,41.5669785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Taptık Gürlüktepe Tümülüsü**

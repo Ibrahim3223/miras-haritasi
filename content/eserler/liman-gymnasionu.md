@@ -1,18 +1,17 @@
 ---
-title: "Liman Gymnasionu | Miras Haritası"
-date: 2025-12-25T08:20:34+03:00
+title: "Liman Gymnasionu"
+date: "2025-12-25T08:20:34+03:00"
 slug: "liman-gymnasionu"
 description: "### Liman Gymnasionu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.338250315,37.943299856"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Liman Gymnasionu

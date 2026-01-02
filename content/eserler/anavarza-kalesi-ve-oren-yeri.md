@@ -1,18 +1,17 @@
 ---
-title: "Anavarza Kalesi ve Ören Yeri | Miras Haritası"
-date: 2025-12-25T01:30:26+03:00
+title: "Anavarza Kalesi ve Ören Yeri"
+date: "2025-12-25T01:30:26+03:00"
 slug: "anavarza-kalesi-ve-oren-yeri"
 description: "## Anavarza Kalesi ve Ören Yeri..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.905766,37.254619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anavarza Kalesi ve Ören Yeri

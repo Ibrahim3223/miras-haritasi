@@ -1,18 +1,17 @@
 ---
-title: "Şerif Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T17:15:33+03:00
+title: "Şerif Paşa Hamamı"
+date: "2025-12-25T17:15:33+03:00"
 slug: "serif-pasa-hamami"
 description: "**Şerif Paşa Hamamı**..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Sındırgı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.1747456,39.2367401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şerif Paşa Hamamı**

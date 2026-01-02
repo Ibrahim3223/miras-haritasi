@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmet Ağa Çeşmesi, Bayramören | Miras Haritası"
-date: 2025-12-25T12:34:13+03:00
+title: "Hacı Mehmet Ağa Çeşmesi, Bayramören"
+date: "2025-12-25T12:34:13+03:00"
 slug: "haci-mehmet-aga-cesmesi-bayramoren"
 description: "### Hacı Mehmet Ağa Çeşmesi, Bayramören..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Bayramören"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.203604021,40.943399052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Mehmet Ağa Çeşmesi, Bayramören

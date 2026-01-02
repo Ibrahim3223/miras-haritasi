@@ -1,18 +1,17 @@
 ---
-title: "Ödemiş Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:06:25+03:00
+title: "Ödemiş Ulu Camii"
+date: "2025-12-24T22:06:25+03:00"
 slug: "odemis-ulu-camii"
 description: "### Ödemiş Ulu Camii: İzmir'in Değerli Tarihi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.969666666,38.228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ödemiş Ulu Camii: İzmir'in Değerli Tarihi

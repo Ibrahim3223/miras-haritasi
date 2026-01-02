@@ -1,18 +1,17 @@
 ---
-title: "Sazlıdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:46+03:00
+title: "Sazlıdere Köprüsü"
+date: "2025-12-25T02:26:46+03:00"
 slug: "sazlidere-koprusu"
 description: "### Sazlıdere Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.671185,41.599343"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sazlıdere Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Merkez Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:58+03:00
+title: "Anemurium Merkez Kilisesi"
+date: "2025-12-25T09:27:58+03:00"
 slug: "anemurium-merkez-kilisesi"
 description: "### Anemurium Merkez Kilisesi: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.8036652,36.0237503"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Anemurium Merkez Kilisesi: Mersin'in Tarihi ve Kültürel Mirası

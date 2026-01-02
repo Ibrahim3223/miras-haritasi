@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Işıkkent | Miras Haritası"
-date: 2025-12-25T12:04:25+03:00
+title: "Çeşme, Işıkkent"
+date: "2025-12-25T12:04:25+03:00"
 slug: "cesme-isikkent"
 description: "### Işıkkent Çeşmesi: Bornova, İzmir'de Bir Altın Değer..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2318668,38.4238205"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Işıkkent Çeşmesi: Bornova, İzmir'de Bir Altın Değer

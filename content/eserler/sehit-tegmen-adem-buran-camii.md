@@ -1,18 +1,17 @@
 ---
-title: "Şehit Teğmen Adem Buran Camii | Miras Haritası"
-date: 2025-12-25T01:00:22+03:00
+title: "Şehit Teğmen Adem Buran Camii"
+date: "2025-12-25T01:00:22+03:00"
 slug: "sehit-tegmen-adem-buran-camii"
 description: "### Şehit Teğmen Adem Buran Camii..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.417154,37.828811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şehit Teğmen Adem Buran Camii

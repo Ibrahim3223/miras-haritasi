@@ -1,18 +1,17 @@
 ---
-title: "Gazi Ahmet Paşa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:00+03:00
+title: "Gazi Ahmet Paşa Camii Şadırvanı"
+date: "2025-12-25T10:02:00+03:00"
 slug: "gazi-ahmet-pasa-camii-sadirvani"
 description: "## Gazi Ahmet Paşa Camii Şadırvanı: İstanbul'un Gizli Çeşme Öncüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9290981,41.0212555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazi Ahmet Paşa Camii Şadırvanı: İstanbul'un Gizli Çeşme Öncüsü

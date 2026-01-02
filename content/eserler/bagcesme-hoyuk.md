@@ -1,18 +1,17 @@
 ---
-title: "Bağçesme Höyük | Miras Haritası"
-date: 2025-12-25T05:44:10+03:00
+title: "Bağçesme Höyük"
+date: "2025-12-25T05:44:10+03:00"
 slug: "bagcesme-hoyuk"
 description: "### Bağçesme Höyük: Manisa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.781319,38.997645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bağçesme Höyük: Manisa'nın Gizli Kahramanı

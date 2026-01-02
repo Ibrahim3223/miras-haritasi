@@ -1,18 +1,17 @@
 ---
-title: "Fatih Çeşmesi (Üsküdar) | Miras Haritası"
-date: 2025-12-25T10:10:38+03:00
+title: "Fatih Çeşmesi (Üsküdar)"
+date: "2025-12-25T10:10:38+03:00"
 slug: "fatih-cesmesi-uskudar"
 description: "**Fatih Çeşmesi: Üsküdar'daki Tarihî Bir Çeşme**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fatih_Çeşmesi_(Salacak,_Üsküdar).jpg/1200px-Fatih_Çeşmesi_(Salacak,_Üsküdar).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.008185248,41.020600892"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Fatih Çeşmesi: Üsküdar'daki Tarihî Bir Çeşme**

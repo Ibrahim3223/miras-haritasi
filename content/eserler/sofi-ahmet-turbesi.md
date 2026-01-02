@@ -1,18 +1,17 @@
 ---
-title: "Sofi Ahmet Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:02+03:00
+title: "Sofi Ahmet Türbesi"
+date: "2025-12-25T14:16:02+03:00"
 slug: "sofi-ahmet-turbesi"
 description: "## Sofi Ahmet Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Narman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.8679,40.3441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sofi Ahmet Türbesi

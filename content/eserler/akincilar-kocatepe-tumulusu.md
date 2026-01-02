@@ -1,18 +1,17 @@
 ---
-title: "Akıncılar Kocatepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:00:52+03:00
+title: "Akıncılar Kocatepe Tümülüsü"
+date: "2025-12-25T08:00:52+03:00"
 slug: "akincilar-kocatepe-tumulusu"
 description: "**Akıncılar Kocatepe Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6534252,41.451088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akıncılar Kocatepe Tümülüsü**

@@ -1,18 +1,17 @@
 ---
-title: "Gömeç Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:38+03:00
+title: "Gömeç Hatun Türbesi"
+date: "2025-12-25T15:05:38+03:00"
 slug: "gomec-hatun-turbesi"
 description: "### Gömeç Hatun Türbesi: Konya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/GÖMEÇ_HATUN_TÜRBESİ_(KIZKULESİ)_-_panoramio.jpg/1200px-GÖMEÇ_HATUN_TÜRBESİ_(KIZKULESİ)_-_panoramio.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4943708,37.8820297"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Gömeç Hatun Türbesi: Konya'nın Gizli Cenneti

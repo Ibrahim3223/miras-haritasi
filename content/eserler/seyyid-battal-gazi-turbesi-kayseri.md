@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Battal Gazi Türbesi, Kayseri | Miras Haritası"
-date: 2025-12-25T15:35:00+03:00
+title: "Seyyid Battal Gazi Türbesi, Kayseri"
+date: "2025-12-25T15:35:00+03:00"
 slug: "seyyid-battal-gazi-turbesi-kayseri"
 description: "## Seyyid Battal Gazi Türbesi, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.480287539,38.706848174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Battal Gazi Türbesi, Kayseri

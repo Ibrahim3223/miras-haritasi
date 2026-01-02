@@ -1,18 +1,17 @@
 ---
-title: "Mercan Köprüsü 2 | Miras Haritası"
-date: 2025-12-25T03:04:12+03:00
+title: "Mercan Köprüsü 2"
+date: "2025-12-25T03:04:12+03:00"
 slug: "mercan-koprusu-2"
 description: "## Mercan Köprüsü 2: Edirne'nin Gizli Çehresinin İncisi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6013374,40.7685814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mercan Köprüsü 2: Edirne'nin Gizli Çehresinin İncisi

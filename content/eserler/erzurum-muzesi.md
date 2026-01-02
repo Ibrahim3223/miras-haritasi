@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Müzesi | Miras Haritası"
-date: 2025-12-25T04:02:11+03:00
+title: "Erzurum Müzesi"
+date: "2025-12-25T04:02:11+03:00"
 slug: "erzurum-muzesi"
 description: "## Erzurum Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Eruzum_Arkeoloji_Müzesi_-_Archaeological_Museum_of_Erzurum_01.jpg/1200px-Eruzum_Arkeoloji_Müzesi_-_Archaeological_Museum_of_Erzurum_01.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "41.27744,39.90335"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Erzurum Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Şehidiye Camii | Miras Haritası"
-date: 2025-12-24T23:08:39+03:00
+title: "Şehidiye Camii"
+date: "2025-12-24T23:08:39+03:00"
 slug: "sehidiye-camii"
 description: "## Şehidiye Camii: Mardin'in Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mardin"
+province: "Mardin"
+iller: '["Mardin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.743206,37.3140068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehidiye Camii: Mardin'in Tarihi Mirası

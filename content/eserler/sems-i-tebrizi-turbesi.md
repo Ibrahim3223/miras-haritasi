@@ -1,18 +1,17 @@
 ---
-title: "Şems-i Tebrizi Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:25+03:00
+title: "Şems-i Tebrizi Türbesi"
+date: "2025-12-25T14:16:25+03:00"
 slug: "sems-i-tebrizi-turbesi"
 description: "## Şems-i Tebrizi Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4974937,37.8736801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şems-i Tebrizi Türbesi

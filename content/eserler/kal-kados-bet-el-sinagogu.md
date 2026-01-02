@@ -1,18 +1,17 @@
 ---
-title: "Kal Kadoş Bet El Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:38+03:00
+title: "Kal Kadoş Bet El Sinagogu"
+date: "2025-12-25T16:14:38+03:00"
 slug: "kal-kados-bet-el-sinagogu"
 description: "## Kal Kadoş Bet El Sinagogu Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.0671692,40.9726143"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kal Kadoş Bet El Sinagogu Tanıtımı

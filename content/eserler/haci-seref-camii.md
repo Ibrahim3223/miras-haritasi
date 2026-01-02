@@ -1,18 +1,17 @@
 ---
-title: "Hacı Şeref Camii | Miras Haritası"
-date: 2025-12-24T23:29:04+03:00
+title: "Hacı Şeref Camii"
+date: "2025-12-24T23:29:04+03:00"
 slug: "haci-seref-camii"
 description: "## Hacı Şeref Camii..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Muş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4891241,38.7299241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Şeref Camii

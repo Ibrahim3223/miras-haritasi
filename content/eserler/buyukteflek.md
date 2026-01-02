@@ -1,18 +1,17 @@
 ---
-title: "Büyükteflek | Miras Haritası"
-date: 2025-12-25T06:04:59+03:00
+title: "Büyükteflek"
+date: "2025-12-25T06:04:59+03:00"
 slug: "buyukteflek"
 description: "## Büyükteflek Arkeolojik Sit..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3420258,39.6346741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükteflek Arkeolojik Sit

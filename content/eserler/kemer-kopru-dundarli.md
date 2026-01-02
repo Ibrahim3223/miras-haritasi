@@ -1,18 +1,17 @@
 ---
-title: "Kemer Köprü, Dündarlı | Miras Haritası"
-date: 2025-12-25T02:54:30+03:00
+title: "Kemer Köprü, Dündarlı"
+date: "2025-12-25T02:54:30+03:00"
 slug: "kemer-kopru-dundarli"
 description: "## Kemer Köprü, Dündarlı: Antikçağın Gizli Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7697582,38.0112228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemer Köprü, Dündarlı: Antikçağın Gizli Harikası

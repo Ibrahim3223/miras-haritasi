@@ -1,18 +1,17 @@
 ---
-title: "Baltacı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:18+03:00
+title: "Baltacı Baba Türbesi"
+date: "2025-12-25T14:23:18+03:00"
 slug: "baltaci-baba-turbesi"
 description: "## Baltacı Baba Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Haliliye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.785834,37.156895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baltacı Baba Türbesi

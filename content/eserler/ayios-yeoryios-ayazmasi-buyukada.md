@@ -1,18 +1,17 @@
 ---
-title: "Ayios Yeoryios Ayazması, Büyükada | Miras Haritası"
-date: 2025-12-25T12:41:30+03:00
+title: "Ayios Yeoryios Ayazması, Büyükada"
+date: "2025-12-25T12:41:30+03:00"
 slug: "ayios-yeoryios-ayazmasi-buyukada"
 description: "## Ayios Yeoryios Ayazması: Büyükada'nın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1186543,40.8486137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Yeoryios Ayazması: Büyükada'nın Gizli Cenneti

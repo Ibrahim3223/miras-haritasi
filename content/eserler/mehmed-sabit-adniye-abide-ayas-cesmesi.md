@@ -1,18 +1,17 @@
 ---
-title: "Mehmed Sabit Adniye Abide Ayas Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:46:14+03:00
+title: "Mehmed Sabit Adniye Abide Ayas Çeşmesi"
+date: "2025-12-25T11:46:14+03:00"
 slug: "mehmed-sabit-adniye-abide-ayas-cesmesi"
 description: "## Mehmed Sabit Adniye Abide Ayas Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mehmed_Sabit_Adniye_Abide_Ayas_Çeşmesi.jpg/1200px-Mehmed_Sabit_Adniye_Abide_Ayas_Çeşmesi.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Göztepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0725479,40.9777412"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mehmed Sabit Adniye Abide Ayas Çeşmesi

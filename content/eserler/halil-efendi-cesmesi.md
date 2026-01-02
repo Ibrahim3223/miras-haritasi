@@ -1,18 +1,17 @@
 ---
-title: "Halil Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:43:03+03:00
+title: "Halil Efendi Çeşmesi"
+date: "2025-12-25T10:43:03+03:00"
 slug: "halil-efendi-cesmesi"
 description: "**Halil Efendi Çeşmesi**..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.2234802,37.1784363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Halil Efendi Çeşmesi**

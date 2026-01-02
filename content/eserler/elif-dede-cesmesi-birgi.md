@@ -1,18 +1,17 @@
 ---
-title: "Elif Dede Çeşmesi, Birgi | Miras Haritası"
-date: 2025-12-25T12:07:46+03:00
+title: "Elif Dede Çeşmesi, Birgi"
+date: "2025-12-25T12:07:46+03:00"
 slug: "elif-dede-cesmesi-birgi"
 description: "### Elif Dede Çeşmesi: Birgi'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0647297,38.2557602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Elif Dede Çeşmesi: Birgi'nin Tarihi ve Kültürel Mirası

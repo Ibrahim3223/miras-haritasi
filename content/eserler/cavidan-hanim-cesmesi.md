@@ -1,18 +1,17 @@
 ---
-title: "Cavidan Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:40:08+03:00
+title: "Cavidan Hanım Çeşmesi"
+date: "2025-12-25T11:40:08+03:00"
 slug: "cavidan-hanim-cesmesi"
 description: "## Cavidan Hanım Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.5415306,41.6885147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cavidan Hanım Çeşmesi

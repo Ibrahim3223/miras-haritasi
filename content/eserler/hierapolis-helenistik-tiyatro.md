@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Helenistik Tiyatro | Miras Haritası"
-date: 2025-12-25T08:22:37+03:00
+title: "Hierapolis Helenistik Tiyatro"
+date: "2025-12-25T08:22:37+03:00"
 slug: "hierapolis-helenistik-tiyatro"
 description: "## Hierapolis Helenistik Tiyatro..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1254501,37.9334068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hierapolis Helenistik Tiyatro

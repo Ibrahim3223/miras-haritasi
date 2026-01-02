@@ -1,18 +1,17 @@
 ---
-title: "Kozan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:19:57+03:00
+title: "Kozan Köprüsü"
+date: "2025-12-25T02:19:57+03:00"
 slug: "kozan-koprusu"
 description: "## Kozan Köprüsü: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.8080292,37.4499855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kozan Köprüsü: Tarihî Bir Mirasın Gizemi

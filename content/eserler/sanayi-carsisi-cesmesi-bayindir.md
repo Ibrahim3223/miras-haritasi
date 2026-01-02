@@ -1,18 +1,17 @@
 ---
-title: "Sanayi Çarşısı Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:53:12+03:00
+title: "Sanayi Çarşısı Çeşmesi, Bayındır"
+date: "2025-12-25T12:53:12+03:00"
 slug: "sanayi-carsisi-cesmesi-bayindir"
 description: "# Sanayi Çarşısı Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6539822,38.2198486"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sanayi Çarşısı Çeşmesi, Bayındır

@@ -1,18 +1,17 @@
 ---
-title: "Velioğlu Camii | Miras Haritası"
-date: 2025-12-24T23:43:14+03:00
+title: "Velioğlu Camii"
+date: "2025-12-24T23:43:14+03:00"
 slug: "velioglu-camii"
 description: "## Velioğlu Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4233017,38.6116791"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Velioğlu Camii

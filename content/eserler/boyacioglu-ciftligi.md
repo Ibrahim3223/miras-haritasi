@@ -1,18 +1,17 @@
 ---
-title: "Boyacıoğlu Çiftliği | Miras Haritası"
-date: 2025-12-25T05:28:15+03:00
+title: "Boyacıoğlu Çiftliği"
+date: "2025-12-25T05:28:15+03:00"
 slug: "boyacioglu-ciftligi"
 description: "## Boyacıoğlu Çiftliği: Eskişehir'in Tarihî Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.379477,39.769254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boyacıoğlu Çiftliği: Eskişehir'in Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Asri Mezarlık Çeşmesi, Tire | Miras Haritası"
-date: 2025-12-25T12:50:20+03:00
+title: "Asri Mezarlık Çeşmesi, Tire"
+date: "2025-12-25T12:50:20+03:00"
 slug: "asri-mezarlik-cesmesi-tire"
 description: "## Asri Mezarlık Çeşmesi: Tire'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.746336,38.0909576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asri Mezarlık Çeşmesi: Tire'nin Gizli Çeşmesi

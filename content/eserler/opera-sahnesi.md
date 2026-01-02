@@ -1,18 +1,17 @@
 ---
-title: "Opera Sahnesi | Miras Haritası"
-date: 2025-12-25T16:19:10+03:00
+title: "Opera Sahnesi"
+date: "2025-12-25T16:19:10+03:00"
 slug: "opera-sahnesi"
 description: "### Ankara'nın Eskişehir Yolu'nda Bulunan Antik Opera Sahnesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AnkaraStateOpera2.JPG/1200px-AnkaraStateOpera2.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.853467,39.935167"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ankara'nın Eskişehir Yolu'nda Bulunan Antik Opera Sahnesi

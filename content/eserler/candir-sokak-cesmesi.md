@@ -1,18 +1,17 @@
 ---
-title: "Çandır Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:39:25+03:00
+title: "Çandır Sokak Çeşmesi"
+date: "2025-12-25T11:39:25+03:00"
 slug: "candir-sokak-cesmesi"
 description: "### Çandır Sokak Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4308739,37.8498611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çandır Sokak Çeşmesi

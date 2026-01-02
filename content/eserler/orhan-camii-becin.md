@@ -1,18 +1,17 @@
 ---
-title: "Orhan Camii, Beçin | Miras Haritası"
-date: 2025-12-25T00:52:50+03:00
+title: "Orhan Camii, Beçin"
+date: "2025-12-25T00:52:50+03:00"
 slug: "orhan-camii-becin"
 description: "## Orhan Camii, Beçin..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7885551,37.2727814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orhan Camii, Beçin

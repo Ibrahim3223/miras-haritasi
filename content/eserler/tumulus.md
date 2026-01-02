@@ -1,18 +1,17 @@
 ---
-title: "Tümülüs | Miras Haritası"
-date: 2025-12-25T07:23:30+03:00
+title: "Tümülüs"
+date: "2025-12-25T07:23:30+03:00"
 slug: "tumulus"
 description: "### Tümülüs: Marmara Ereğlisi'ndeki Antik Bir Miras..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Marmaraereğlisi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7841854,41.015934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tümülüs: Marmara Ereğlisi'ndeki Antik Bir Miras

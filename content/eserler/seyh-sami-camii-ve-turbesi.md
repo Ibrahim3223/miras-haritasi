@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Şami Camii ve Türbesi | Miras Haritası"
-date: 2025-12-24T22:23:24+03:00
+title: "Şeyh Şami Camii ve Türbesi"
+date: "2025-12-24T22:23:24+03:00"
 slug: "seyh-sami-camii-ve-turbesi"
 description: "## Şeyh Şami Camii ve Türbesi..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Sulakyurt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.715972222,40.155444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Şami Camii ve Türbesi

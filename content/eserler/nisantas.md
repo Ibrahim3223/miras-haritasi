@@ -1,18 +1,17 @@
 ---
-title: "Nişantaş | Miras Haritası"
-date: 2025-12-25T15:40:30+03:00
+title: "Nişantaş"
+date: "2025-12-25T15:40:30+03:00"
 slug: "nisantas"
 description: "## Nişantaş Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hattusa_Nisantas_Luvian_inscription.JPG/1200px-Hattusa_Nisantas_Luvian_inscription.JPG"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Boğazkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.617542,40.013058"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nişantaş Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Panagia Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:02+03:00
+title: "Panagia Kilisesi"
+date: "2025-12-25T09:37:02+03:00"
 slug: "panagia-kilisesi"
 description: "## Panagia Kilisesi: Talas'ın Gizli Çehresinde Bir Kahramanlık..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.575389,38.65498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panagia Kilisesi: Talas'ın Gizli Çehresinde Bir Kahramanlık

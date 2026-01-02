@@ -1,18 +1,17 @@
 ---
-title: "Kara Hasan Camii | Miras Haritası"
-date: 2025-12-24T23:42:01+03:00
+title: "Kara Hasan Camii"
+date: "2025-12-24T23:42:01+03:00"
 slug: "kara-hasan-camii"
 description: "## Kara Hasan Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kara_Hasan_Camii.jpg/1200px-Kara_Hasan_Camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.732851,38.0848083"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kara Hasan Camii

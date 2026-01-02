@@ -1,18 +1,17 @@
 ---
-title: "Hatice Sultan Sebili | Miras Haritası"
-date: 2025-12-25T13:03:22+03:00
+title: "Hatice Sultan Sebili"
+date: "2025-12-25T13:03:22+03:00"
 slug: "hatice-sultan-sebili"
 description: "## Hatice Sultan Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9425087,41.0400162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Sultan Sebili

@@ -1,18 +1,17 @@
 ---
-title: "Fırıncılar Mescidi | Miras Haritası"
-date: 2025-12-25T00:42:06+03:00
+title: "Fırıncılar Mescidi"
+date: "2025-12-25T00:42:06+03:00"
 slug: "firincilar-mescidi"
 description: "### Fırıncılar Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.982586233,41.009705982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fırıncılar Mescidi

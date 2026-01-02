@@ -1,18 +1,17 @@
 ---
-title: "Tell Kurdu Höyüğü | Miras Haritası"
-date: 2025-12-25T07:12:25+03:00
+title: "Tell Kurdu Höyüğü"
+date: "2025-12-25T07:12:25+03:00"
 slug: "tell-kurdu-hoyugu"
 description: "## Tell Kurdu Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.445,36.330278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tell Kurdu Höyüğü

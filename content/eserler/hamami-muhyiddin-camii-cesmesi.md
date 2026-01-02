@@ -1,18 +1,17 @@
 ---
-title: "Hamamı Muhyiddin Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:54+03:00
+title: "Hamamı Muhyiddin Camii Çeşmesi"
+date: "2025-12-25T11:43:54+03:00"
 slug: "hamami-muhyiddin-camii-cesmesi"
 description: "### Hamamı Muhyiddin Camii Çeşmesi Tanıtımı..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9431839,41.0311584"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamamı Muhyiddin Camii Çeşmesi Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmut Han Çeşmesi, Çukur Sokak | Miras Haritası"
-date: 2025-12-25T12:10:53+03:00
+title: "II. Mahmut Han Çeşmesi, Çukur Sokak"
+date: "2025-12-25T12:10:53+03:00"
 slug: "ii-mahmut-han-cesmesi-cukur-sokak"
 description: "## II. Mahmut Han Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.977894,41.037518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Mahmut Han Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi

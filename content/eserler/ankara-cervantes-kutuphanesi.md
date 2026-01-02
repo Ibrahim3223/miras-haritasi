@@ -1,18 +1,17 @@
 ---
-title: "Ankara Cervantes Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:35+03:00
+title: "Ankara Cervantes Kütüphanesi"
+date: "2025-12-25T17:48:35+03:00"
 slug: "ankara-cervantes-kutuphanesi"
 description: "## Ankara Cervantes Kütüphanesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "32.854951,39.925127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Cervantes Kütüphanesi

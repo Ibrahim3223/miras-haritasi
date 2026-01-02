@@ -1,18 +1,17 @@
 ---
-title: "Byzantion Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:21:27+03:00
+title: "Byzantion Antik Tiyatrosu"
+date: "2025-12-25T08:21:27+03:00"
 slug: "byzantion-antik-tiyatrosu"
 description: "**Byzantion Antik Tiyatrosu: İstanbul'un Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.985339,41.014459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Byzantion Antik Tiyatrosu: İstanbul'un Tarihi ve Kültürel Mirası**

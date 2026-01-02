@@ -1,18 +1,17 @@
 ---
-title: "Poyra Köyü Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:33:40+03:00
+title: "Poyra Köyü Tümülüsü"
+date: "2025-12-25T07:33:40+03:00"
 slug: "poyra-koyu-tumulusu"
 description: "## Poyra Köyü Tümülüsü: Bozüyük'te Yüzyıllar Önceki Gizem..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.1936703,39.8769417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Poyra Köyü Tümülüsü: Bozüyük'te Yüzyıllar Önceki Gizem

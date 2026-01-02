@@ -1,18 +1,17 @@
 ---
-title: "Çınarlı Çeşme | Miras Haritası"
-date: 2025-12-25T10:53:39+03:00
+title: "Çınarlı Çeşme"
+date: "2025-12-25T10:53:39+03:00"
 slug: "cinarli-cesme"
 description: "## Çınarlı Çeşme: Mudanya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mudanya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.7940617,40.3924828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çınarlı Çeşme: Mudanya'nın Tarihi Bir Mirası

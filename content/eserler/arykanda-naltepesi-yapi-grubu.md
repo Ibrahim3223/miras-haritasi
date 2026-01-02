@@ -1,18 +1,17 @@
 ---
-title: "Arykanda Naltepesi Yapı Grubu | Miras Haritası"
-date: 2025-12-25T17:11:17+03:00
+title: "Arykanda Naltepesi Yapı Grubu"
+date: "2025-12-25T17:11:17+03:00"
 slug: "arykanda-naltepesi-yapi-grubu"
 description: "## Arykanda Naltepesi Yapı Grubu: Finike'nin Gizli Kâğıt Yüzü..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.0587711,36.5124207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arykanda Naltepesi Yapı Grubu: Finike'nin Gizli Kâğıt Yüzü

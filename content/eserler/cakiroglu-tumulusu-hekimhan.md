@@ -1,18 +1,17 @@
 ---
-title: "Çakıroğlu Tümülüsü, Hekimhan | Miras Haritası"
-date: 2025-12-25T07:45:26+03:00
+title: "Çakıroğlu Tümülüsü, Hekimhan"
+date: "2025-12-25T07:45:26+03:00"
 slug: "cakiroglu-tumulusu-hekimhan"
 description: "## Çakıroğlu Tümülüsü: Malatya'nın Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1362076,38.8249741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakıroğlu Tümülüsü: Malatya'nın Gizli Tarihî Mirası

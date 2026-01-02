@@ -1,18 +1,17 @@
 ---
-title: "Tipaso | Miras Haritası"
-date: 2025-12-25T04:49:31+03:00
+title: "Tipaso"
+date: "2025-12-25T04:49:31+03:00"
 slug: "tipaso"
 description: "## Tipaso: Afrika'nın En Eski Roma Kentlerinden Biri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.693272,41.240282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tipaso: Afrika'nın En Eski Roma Kentlerinden Biri

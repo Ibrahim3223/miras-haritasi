@@ -1,18 +1,17 @@
 ---
-title: "Konuralp Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:25+03:00
+title: "Konuralp Türbesi"
+date: "2025-12-25T14:56:25+03:00"
 slug: "konuralp-turbesi"
 description: "## Konuralp Türbesi: Düzce'nin Gizli Anıtı..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.1476803,40.9051476"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Konuralp Türbesi: Düzce'nin Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Küçükkale Tümülüsü, Tire | Miras Haritası"
-date: 2025-12-25T08:06:04+03:00
+title: "Küçükkale Tümülüsü, Tire"
+date: "2025-12-25T08:06:04+03:00"
 slug: "kucukkale-tumulusu-tire"
 description: "## Küçükkale Tümülüsü: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5247002,38.0312996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçükkale Tümülüsü: Tarihi ve Kültürel Mirasın Gizemi

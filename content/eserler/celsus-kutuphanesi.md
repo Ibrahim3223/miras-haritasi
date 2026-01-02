@@ -1,18 +1,17 @@
 ---
-title: "Celsus Kütüphanesi | Miras Haritası"
-date: 2025-12-25T06:51:57+03:00
+title: "Celsus Kütüphanesi"
+date: "2025-12-25T06:51:57+03:00"
 slug: "celsus-kutuphanesi"
 description: "## Celsus Kütüphanesi: Eski Çağın Gizemli Bünyesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ephesus_Celsus_Library_Façade.jpg/1200px-Ephesus_Celsus_Library_Façade.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.34075,37.939138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Celsus Kütüphanesi: Eski Çağın Gizemli Bünyesi

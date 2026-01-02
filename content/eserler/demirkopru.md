@@ -1,18 +1,17 @@
 ---
-title: "Demirköprü | Miras Haritası"
-date: 2025-12-25T03:05:59+03:00
+title: "Demirköprü"
+date: "2025-12-25T03:05:59+03:00"
 slug: "demirkopru"
 description: "## Demirköprü: Seyhan Nehri Üzerinde Tarihi Bir Köprü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Demirköprü_railway_bridge_in_Adana.png/1200px-Demirköprü_railway_bridge_in_Adana.png"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.335,37.0074"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Demirköprü: Seyhan Nehri Üzerinde Tarihi Bir Köprü

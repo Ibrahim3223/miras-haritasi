@@ -1,18 +1,17 @@
 ---
-title: "İsmet İnönü Heykeli, Mersin | Miras Haritası"
-date: 2025-12-25T15:50:54+03:00
+title: "İsmet İnönü Heykeli, Mersin"
+date: "2025-12-25T15:50:54+03:00"
 slug: "ismet-inonu-heykeli-mersin"
 description: "## İsmet İnönü Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/İsmet_İnönü_Heykeli,_Mersin_2025-10-15.jpg/1200px-İsmet_İnönü_Heykeli,_Mersin_2025-10-15.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6340714,36.8022499"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İsmet İnönü Heykeli

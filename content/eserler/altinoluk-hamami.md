@@ -1,18 +1,17 @@
 ---
-title: "Altınoluk Hamamı | Miras Haritası"
-date: 2025-12-25T16:56:52+03:00
+title: "Altınoluk Hamamı"
+date: "2025-12-25T16:56:52+03:00"
 slug: "altinoluk-hamami"
 description: "## Altınoluk Hamamı: Edremit'in Tarihi Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tarihi_hamam_-_panoramio.jpg/1200px-Tarihi_hamam_-_panoramio.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.7387676,39.5796089"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Altınoluk Hamamı: Edremit'in Tarihi Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Apamea Myrlea | Miras Haritası"
-date: 2025-12-25T04:19:11+03:00
+title: "Apamea Myrlea"
+date: "2025-12-25T04:19:11+03:00"
 slug: "apamea-myrlea"
 description: "### Apamea Myrlea: Bursa'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.8833,40.3764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Apamea Myrlea: Bursa'nın Gizli Cenneti

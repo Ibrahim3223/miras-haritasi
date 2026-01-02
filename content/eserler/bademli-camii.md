@@ -1,18 +1,17 @@
 ---
-title: "Bademli Camii | Miras Haritası"
-date: 2025-12-24T22:12:48+03:00
+title: "Bademli Camii"
+date: "2025-12-24T22:12:48+03:00"
 slug: "bademli-camii"
 description: "# Bademli Camii: Dinar'ın Gizli İncisi..."
 featured_image: ""
 province: "Dinar ilçesi"
-iller: ["Dinar ilçesi"]
+iller: '["Dinar ilçesi"]'
 district: "Dinar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0851002,37.9653015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bademli Camii: Dinar'ın Gizli İncisi

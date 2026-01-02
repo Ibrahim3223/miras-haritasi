@@ -1,18 +1,17 @@
 ---
-title: "Kilyos Kalesi | Miras Haritası"
-date: 2025-12-25T01:31:35+03:00
+title: "Kilyos Kalesi"
+date: "2025-12-25T01:31:35+03:00"
 slug: "kilyos-kalesi"
 description: "## Kilyos Kalesi: Sarıyer'in Tarihi Çelik Yumurtası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.035621,41.249217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilyos Kalesi: Sarıyer'in Tarihi Çelik Yumurtası

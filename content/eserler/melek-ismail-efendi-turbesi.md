@@ -1,18 +1,17 @@
 ---
-title: "Melek İsmail Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:21+03:00
+title: "Melek İsmail Efendi Türbesi"
+date: "2025-12-25T15:14:21+03:00"
 slug: "melek-ismail-efendi-turbesi"
 description: "## Melek İsmail Efendi Türbesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.441388,40.864973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Melek İsmail Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Palu Surp Lusaroviç Kilisesi | Miras Haritası"
-date: 2025-12-25T09:30:39+03:00
+title: "Palu Surp Lusaroviç Kilisesi"
+date: "2025-12-25T09:30:39+03:00"
 slug: "palu-surp-lusarovic-kilisesi"
 description: "## Palu Surp Lusaroviç Kilisesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Palu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.9558296,38.6991692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palu Surp Lusaroviç Kilisesi

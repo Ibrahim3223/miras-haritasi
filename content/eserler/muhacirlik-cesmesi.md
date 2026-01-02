@@ -1,18 +1,17 @@
 ---
-title: "Muhacirlik Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:33:28+03:00
+title: "Muhacirlik Çeşmesi"
+date: "2025-12-25T11:33:28+03:00"
 slug: "muhacirlik-cesmesi"
 description: "## Muhacirlik Çeşmesi: Muğla'nın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0946465,36.5760651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muhacirlik Çeşmesi: Muğla'nın Tarihî Bir Çeşmesi

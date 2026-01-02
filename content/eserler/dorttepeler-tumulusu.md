@@ -1,18 +1,17 @@
 ---
-title: "Dörttepeler Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:27+03:00
+title: "Dörttepeler Tümülüsü"
+date: "2025-12-25T07:40:27+03:00"
 slug: "dorttepeler-tumulusu"
 description: "### Dörttepeler Tümülüsü: İznik'in Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.717886,40.4800606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dörttepeler Tümülüsü: İznik'in Gizli Mirası

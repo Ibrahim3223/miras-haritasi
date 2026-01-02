@@ -1,18 +1,17 @@
 ---
-title: "Saint Benoît Latin Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T08:45:12+03:00
+title: "Saint Benoît Latin Katolik Kilisesi"
+date: "2025-12-25T08:45:12+03:00"
 slug: "saint-benot-latin-katolik-kilisesi"
 description: "## Saint Benoît Latin Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Saint_Benoit_Istanbul_01.jpg/1200px-Saint_Benoit_Istanbul_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9766,41.025"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Saint Benoît Latin Katolik Kilisesi

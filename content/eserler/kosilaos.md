@@ -1,18 +1,17 @@
 ---
-title: "Kosilaos | Miras Haritası"
-date: 2025-12-25T04:45:47+03:00
+title: "Kosilaos"
+date: "2025-12-25T04:45:47+03:00"
 slug: "kosilaos"
 description: "# Kosilaos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.243551,40.874011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kosilaos Arkeolojik Sit

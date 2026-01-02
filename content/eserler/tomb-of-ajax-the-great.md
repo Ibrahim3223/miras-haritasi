@@ -1,18 +1,17 @@
 ---
-title: "Tomb of Ajax the Great | Miras Haritası"
-date: 2025-12-25T15:09:02+03:00
+title: "Tomb of Ajax the Great"
+date: "2025-12-25T15:09:02+03:00"
 slug: "tomb-of-ajax-the-great"
 description: "### Tomb of Ajax the Great..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.242033997,39.991605569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tomb of Ajax the Great

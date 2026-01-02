@@ -1,18 +1,17 @@
 ---
-title: "Yalıköy Köprüsü, İyidere | Miras Haritası"
-date: 2025-12-25T02:54:39+03:00
+title: "Yalıköy Köprüsü, İyidere"
+date: "2025-12-25T02:54:39+03:00"
 slug: "yalikoy-koprusu-iyidere"
 description: "## Yalıköy Köprüsü: İyidere'nin Tarihi Bir Çökertisi..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İyidere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.380852,41.019141"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalıköy Köprüsü: İyidere'nin Tarihi Bir Çökertisi

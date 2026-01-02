@@ -1,18 +1,17 @@
 ---
-title: "Mısır Çarşısı Yeni Camii Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:42+03:00
+title: "Mısır Çarşısı Yeni Camii Kapısı"
+date: "2025-12-25T15:37:42+03:00"
 slug: "misir-carsisi-yeni-camii-kapisi"
 description: "## Mısır Çarşısı Yeni Camii Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9711246,41.0162277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mısır Çarşısı Yeni Camii Kapısı

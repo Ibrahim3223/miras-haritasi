@@ -1,18 +1,17 @@
 ---
-title: "Belentepe Antik Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:10:05+03:00
+title: "Belentepe Antik Yerleşimi"
+date: "2025-12-25T06:10:05+03:00"
 slug: "belentepe-antik-yerlesimi"
 description: "## Belentepe Antik Yerleşimi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9314518,37.0993805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belentepe Antik Yerleşimi

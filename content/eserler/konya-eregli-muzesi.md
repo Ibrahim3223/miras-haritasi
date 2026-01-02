@@ -1,18 +1,17 @@
 ---
-title: "Konya Ereğli Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:51+03:00
+title: "Konya Ereğli Müzesi"
+date: "2025-12-25T03:13:51+03:00"
 slug: "konya-eregli-muzesi"
 description: "### Konya Ereğli Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ereğli_Museum.jpg/1200px-Ereğli_Museum.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ereğli"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.0473,37.51583"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Konya Ereğli Müzesi

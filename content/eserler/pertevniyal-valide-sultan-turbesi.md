@@ -1,18 +1,17 @@
 ---
-title: "Pertevniyal Valide Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:09+03:00
+title: "Pertevniyal Valide Sultan Türbesi"
+date: "2025-12-25T14:35:09+03:00"
 slug: "pertevniyal-valide-sultan-turbesi"
 description: "## Pertevniyal Valide Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9522743,41.0099754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pertevniyal Valide Sultan Türbesi

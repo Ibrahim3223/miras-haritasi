@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:20:31+03:00
+title: "Kütahya Saat Kulesi"
+date: "2025-12-25T17:20:31+03:00"
 slug: "kutahya-saat-kulesi"
 description: "### Kütahya Saat Kulesi: Bir Kentin Vezinliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kütahya_Clock_Tower.jpg/1200px-Kütahya_Clock_Tower.jpg"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "29.986305555,39.419361111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kütahya Saat Kulesi: Bir Kentin Vezinliği

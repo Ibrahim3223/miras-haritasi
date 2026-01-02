@@ -1,18 +1,17 @@
 ---
-title: "Orta Çeşme, Kanlıca | Miras Haritası"
-date: 2025-12-25T11:52:14+03:00
+title: "Orta Çeşme, Kanlıca"
+date: "2025-12-25T11:52:14+03:00"
 slug: "orta-cesme-kanlica"
 description: "## Orta Çeşme, Kanlıca..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.067273,41.10074"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Çeşme, Kanlıca

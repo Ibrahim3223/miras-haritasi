@@ -1,18 +1,17 @@
 ---
-title: "Hıdırlık Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:25+03:00
+title: "Hıdırlık Türbesi"
+date: "2025-12-25T14:55:25+03:00"
 slug: "hidirlik-turbesi"
 description: "# Hıdırlık Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8670082,39.9462242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hıdırlık Türbesi

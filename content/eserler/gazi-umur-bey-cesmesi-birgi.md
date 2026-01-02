@@ -1,18 +1,17 @@
 ---
-title: "Gazi Umur Bey Çeşmesi, Birgi | Miras Haritası"
-date: 2025-12-25T12:03:35+03:00
+title: "Gazi Umur Bey Çeşmesi, Birgi"
+date: "2025-12-25T12:03:35+03:00"
 slug: "gazi-umur-bey-cesmesi-birgi"
 description: "### Gazi Umur Bey Çeşmesi, Birgi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0645103,38.253933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Umur Bey Çeşmesi, Birgi

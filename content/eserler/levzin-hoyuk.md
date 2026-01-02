@@ -1,18 +1,17 @@
 ---
-title: "Levzin Höyük | Miras Haritası"
-date: 2025-12-25T07:04:43+03:00
+title: "Levzin Höyük"
+date: "2025-12-25T07:04:43+03:00"
 slug: "levzin-hoyuk"
 description: "# Levzin Höyük Arkeolojik Sit..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Besni"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.922401428,37.581997288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Levzin Höyük Arkeolojik Sit

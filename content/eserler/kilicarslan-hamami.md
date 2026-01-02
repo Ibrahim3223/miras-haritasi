@@ -1,18 +1,17 @@
 ---
-title: "Kılıçarslan Hamamı | Miras Haritası"
-date: 2025-12-25T17:15:04+03:00
+title: "Kılıçarslan Hamamı"
+date: "2025-12-25T17:15:04+03:00"
 slug: "kilicarslan-hamami"
 description: "### Kılıçarslan Hamamı: Afyonkarahisar'ın Tarihi bir Ören Yeri..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sinanpaşa"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.3424664,38.7324448"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kılıçarslan Hamamı: Afyonkarahisar'ın Tarihi bir Ören Yeri

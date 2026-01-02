@@ -1,18 +1,17 @@
 ---
-title: "Evliya Camii, Kars | Miras Haritası"
-date: 2025-12-25T00:01:47+03:00
+title: "Evliya Camii, Kars"
+date: "2025-12-25T00:01:47+03:00"
 slug: "evliya-camii-kars"
 description: "## Evliya Camii: Kars'ta Bir Tarih Öreni..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.0916176,40.6106796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evliya Camii: Kars'ta Bir Tarih Öreni

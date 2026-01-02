@@ -1,18 +1,17 @@
 ---
-title: "Kyaneai | Miras Haritası"
-date: 2025-12-25T04:24:28+03:00
+title: "Kyaneai"
+date: "2025-12-25T04:24:28+03:00"
 slug: "kyaneai"
 description: "## Kyaneai: Antik Şehir ve Itsiz Kaya Mezarları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kyaneai_Theater.JPG/1200px-Kyaneai_Theater.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.81777778,36.2475"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kyaneai: Antik Şehir ve Itsiz Kaya Mezarları

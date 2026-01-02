@@ -1,18 +1,17 @@
 ---
-title: "Vaniköy Süleyman Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:01+03:00
+title: "Vaniköy Süleyman Bey Çeşmesi"
+date: "2025-12-25T11:05:01+03:00"
 slug: "vanikoy-suleyman-bey-cesmesi"
 description: "## Vaniköy Süleyman Bey Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.055505,41.063945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vaniköy Süleyman Bey Çeşmesi

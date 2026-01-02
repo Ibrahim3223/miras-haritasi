@@ -1,18 +1,17 @@
 ---
-title: "Çaybaşı Hamamı | Miras Haritası"
-date: 2025-12-25T16:59:32+03:00
+title: "Çaybaşı Hamamı"
+date: "2025-12-25T16:59:32+03:00"
 slug: "caybasi-hamami"
 description: "## Çaybaşı Hamamı: Antalya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Korkuteli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.1805077,37.076107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaybaşı Hamamı: Antalya'nın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Tahta Hamamı | Miras Haritası"
-date: 2025-12-25T16:41:20+03:00
+title: "Tahta Hamamı"
+date: "2025-12-25T16:41:20+03:00"
 slug: "tahta-hamami"
 description: "## Tahta Hamamı: Erzurum'un Tarihi bir Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "41.2824974,39.9096832"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahta Hamamı: Erzurum'un Tarihi bir Hamamı

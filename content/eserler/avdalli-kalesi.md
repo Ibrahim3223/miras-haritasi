@@ -1,18 +1,17 @@
 ---
-title: "Avdallı Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:44+03:00
+title: "Avdallı Kalesi"
+date: "2025-12-25T01:40:44+03:00"
 slug: "avdalli-kalesi"
 description: "# Avdallı Kalesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Halkapınar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.241848,37.4548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Avdallı Kalesi

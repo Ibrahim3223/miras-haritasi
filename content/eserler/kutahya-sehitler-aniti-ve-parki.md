@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Şehitler Anıtı ve Parkı | Miras Haritası"
-date: 2025-12-25T15:57:20+03:00
+title: "Kütahya Şehitler Anıtı ve Parkı"
+date: "2025-12-25T15:57:20+03:00"
 slug: "kutahya-sehitler-aniti-ve-parki"
 description: "## Kütahya Şehitler Anıtı ve Parkı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.019558,39.4117622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kütahya Şehitler Anıtı ve Parkı

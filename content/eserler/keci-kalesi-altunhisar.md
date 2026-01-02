@@ -1,18 +1,17 @@
 ---
-title: "Keçi Kalesi, Altunhisar | Miras Haritası"
-date: 2025-12-25T01:35:52+03:00
+title: "Keçi Kalesi, Altunhisar"
+date: "2025-12-25T01:35:52+03:00"
 slug: "keci-kalesi-altunhisar"
 description: "**Keçi Kalesi, Altunhisar**..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Altunhisar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.0975876,38.0622597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Keçi Kalesi, Altunhisar**

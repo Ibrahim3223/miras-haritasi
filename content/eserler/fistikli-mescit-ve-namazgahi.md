@@ -1,18 +1,17 @@
 ---
-title: "Fıstıklı Mescit ve Namazgahı | Miras Haritası"
-date: 2025-12-25T00:40:46+03:00
+title: "Fıstıklı Mescit ve Namazgahı"
+date: "2025-12-25T00:40:46+03:00"
 slug: "fistikli-mescit-ve-namazgahi"
 description: "### Fıstıklı Mescit ve Namazgahı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0482635,41.0338211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fıstıklı Mescit ve Namazgahı

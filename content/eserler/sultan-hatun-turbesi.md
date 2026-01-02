@@ -1,18 +1,17 @@
 ---
-title: "Sultan Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T13:52:59+03:00
+title: "Sultan Hatun Türbesi"
+date: "2025-12-25T13:52:59+03:00"
 slug: "sultan-hatun-turbesi"
 description: "## Sultan Hatun Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.846494683,37.416946809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Hatun Türbesi

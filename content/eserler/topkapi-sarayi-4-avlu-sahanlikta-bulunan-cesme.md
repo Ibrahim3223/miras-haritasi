@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı 4. Avlu Sahanlıkta Bulunan Çeşme | Miras Haritası"
-date: 2025-12-25T11:13:39+03:00
+title: "Topkapı Sarayı 4. Avlu Sahanlıkta Bulunan Çeşme"
+date: "2025-12-25T11:13:39+03:00"
 slug: "topkapi-sarayi-4-avlu-sahanlikta-bulunan-cesme"
 description: "# Topkapı Sarayı 4. Avlu Sahanlıkta Bulunan Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.984391,41.013801"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 # Topkapı Sarayı 4. Avlu Sahanlıkta Bulunan Çeşme

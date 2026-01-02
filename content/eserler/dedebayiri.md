@@ -1,18 +1,17 @@
 ---
-title: "Dedebayırı | Miras Haritası"
-date: 2025-12-25T05:56:47+03:00
+title: "Dedebayırı"
+date: "2025-12-25T05:56:47+03:00"
 slug: "dedebayiri"
 description: "## Dedebayırı: Karacabey'in Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3721046,40.2557526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedebayırı: Karacabey'in Gizli Mirası

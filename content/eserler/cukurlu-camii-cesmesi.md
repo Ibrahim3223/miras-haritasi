@@ -1,18 +1,17 @@
 ---
-title: "Çukurlu Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:57+03:00
+title: "Çukurlu Camii Çeşmesi"
+date: "2025-12-25T10:51:57+03:00"
 slug: "cukurlu-camii-cesmesi"
 description: "## Çukurlu Camii Çeşmesi: Kayseri'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.476368,38.720768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukurlu Camii Çeşmesi: Kayseri'nin Tarihî Bir Mirası

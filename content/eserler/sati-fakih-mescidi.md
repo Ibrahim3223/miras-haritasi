@@ -1,18 +1,17 @@
 ---
-title: "Satı Fakih Mescidi | Miras Haritası"
-date: 2025-12-25T01:05:45+03:00
+title: "Satı Fakih Mescidi"
+date: "2025-12-25T01:05:45+03:00"
 slug: "sati-fakih-mescidi"
 description: "### Satı Fakih Mescidi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0545044,40.1853294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Satı Fakih Mescidi

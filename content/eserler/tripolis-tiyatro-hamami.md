@@ -1,18 +1,17 @@
 ---
-title: "Tripolis Tiyatro Hamamı | Miras Haritası"
-date: 2025-12-25T16:57:00+03:00
+title: "Tripolis Tiyatro Hamamı"
+date: "2025-12-25T16:57:00+03:00"
 slug: "tripolis-tiyatro-hamami"
 description: "## Tripolis Tiyatro Hamamı: Denizli'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Buldan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9498043,38.0391121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tripolis Tiyatro Hamamı: Denizli'nin Gizli Çehresini Keşfetmek

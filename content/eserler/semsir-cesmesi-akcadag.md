@@ -1,18 +1,17 @@
 ---
-title: "Şemşir Çeşmesi, Akçadağ | Miras Haritası"
-date: 2025-12-25T12:28:06+03:00
+title: "Şemşir Çeşmesi, Akçadağ"
+date: "2025-12-25T12:28:06+03:00"
 slug: "semsir-cesmesi-akcadag"
 description: "**Şemşir Çeşmesi, Akçadağ**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.984288075,38.445040171"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şemşir Çeşmesi, Akçadağ**

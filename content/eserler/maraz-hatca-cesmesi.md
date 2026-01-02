@@ -1,18 +1,17 @@
 ---
-title: "Maraz Hatça Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:13:14+03:00
+title: "Maraz Hatça Çeşmesi"
+date: "2025-12-25T10:13:14+03:00"
 slug: "maraz-hatca-cesmesi"
 description: "## Maraz Hatça Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9572945,40.5491028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maraz Hatça Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Orhan Camii | Miras Haritası"
-date: 2025-12-24T22:02:55+03:00
+title: "Orhan Camii"
+date: "2025-12-24T22:02:55+03:00"
 slug: "orhan-camii"
 description: "## Orhan Camii: İzmit'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/İzmit_Orhan_cami_(1)_02.jpg/1200px-İzmit_Orhan_cami_(1)_02.jpg"
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.919631,40.768515"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Orhan Camii: İzmit'in Tarihi Bir Mirası

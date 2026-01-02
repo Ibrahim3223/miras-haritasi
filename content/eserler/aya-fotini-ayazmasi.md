@@ -1,18 +1,17 @@
 ---
-title: "Aya Fotini Ayazması | Miras Haritası"
-date: 2025-12-25T12:43:29+03:00
+title: "Aya Fotini Ayazması"
+date: "2025-12-25T12:43:29+03:00"
 slug: "aya-fotini-ayazmasi"
 description: "## Aya Fotini Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0479317,40.9057312"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Fotini Ayazması

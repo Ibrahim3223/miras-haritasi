@@ -1,18 +1,17 @@
 ---
-title: "Değirmenyanı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:38:42+03:00
+title: "Değirmenyanı Köprüsü"
+date: "2025-12-25T02:38:42+03:00"
 slug: "degirmenyani-koprusu"
 description: "## Değirmenyanı Köprüsü..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Gülyalı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.057566,40.915541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmenyanı Köprüsü

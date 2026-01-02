@@ -1,18 +1,17 @@
 ---
-title: "Tarlabaşı Meryemana Metropolitlik Kilisesi | Miras Haritası"
-date: 2025-12-25T08:46:22+03:00
+title: "Tarlabaşı Meryemana Metropolitlik Kilisesi"
+date: "2025-12-25T08:46:22+03:00"
 slug: "tarlabasi-meryemana-metropolitlik-kilisesi"
 description: "### Tarlabaşı Meryemana Metropolitlik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aramäische_Mutter-Maria-Kirche.jpg/1200px-Aramäische_Mutter-Maria-Kirche.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Tarlabaşı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.978555,41.037027"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Tarlabaşı Meryemana Metropolitlik Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Veznedar Camii | Miras Haritası"
-date: 2025-12-24T23:42:30+03:00
+title: "Veznedar Camii"
+date: "2025-12-24T23:42:30+03:00"
 slug: "veznedar-camii"
 description: "## Veznedar Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kastamonu"
+province: "Kastamonu"
+iller: '["Kastamonu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.3269196,41.2425957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veznedar Camii

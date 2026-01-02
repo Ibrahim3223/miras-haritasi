@@ -1,18 +1,17 @@
 ---
-title: "Palu Küçük Cami | Miras Haritası"
-date: 2025-12-24T23:24:13+03:00
+title: "Palu Küçük Cami"
+date: "2025-12-24T23:24:13+03:00"
 slug: "palu-kucuk-cami"
 description: "### Palu Küçük Cami Tanıtımı..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Palu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.9528622,38.6994146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Palu Küçük Cami Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Haldun Taner Müze Evi | Miras Haritası"
-date: 2025-12-25T04:01:59+03:00
+title: "Haldun Taner Müze Evi"
+date: "2025-12-25T04:01:59+03:00"
 slug: "haldun-taner-muze-evi"
 description: "### Haldun Taner Müze Evi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.047121,40.9762039"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haldun Taner Müze Evi

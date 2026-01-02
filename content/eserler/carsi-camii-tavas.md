@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Tavas | Miras Haritası"
-date: 2025-12-24T23:18:28+03:00
+title: "Çarşı Camii, Tavas"
+date: "2025-12-24T23:18:28+03:00"
 slug: "carsi-camii-tavas"
 description: "### Çarşı Camii, Tavas: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0698776,37.5750198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çarşı Camii, Tavas: Tarihi ve Kültürel Bir Miras

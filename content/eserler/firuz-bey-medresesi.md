@@ -1,18 +1,17 @@
 ---
-title: "Firuz Bey Medresesi | Miras Haritası"
-date: 2025-12-25T17:39:00+03:00
+title: "Firuz Bey Medresesi"
+date: "2025-12-25T17:39:00+03:00"
 slug: "firuz-bey-medresesi"
 description: "### Firuz Bey Medresesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.7801437,37.3175392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Firuz Bey Medresesi

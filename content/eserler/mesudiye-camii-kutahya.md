@@ -1,18 +1,17 @@
 ---
-title: "Mesudiye Camii, Kütahya | Miras Haritası"
-date: 2025-12-25T00:07:38+03:00
+title: "Mesudiye Camii, Kütahya"
+date: "2025-12-25T00:07:38+03:00"
 slug: "mesudiye-camii-kutahya"
 description: "## Mesudiye Camii: Kütahya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.977911,39.420517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mesudiye Camii: Kütahya'nın Tarihî Bir Mirası

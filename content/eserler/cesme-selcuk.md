@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Selçuk | Miras Haritası"
-date: 2025-12-25T12:56:00+03:00
+title: "Çeşme, Selçuk"
+date: "2025-12-25T12:56:00+03:00"
 slug: "cesme-selcuk"
 description: "### Selçuk'taki Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3668079,37.9477463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selçuk'taki Çeşme

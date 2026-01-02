@@ -1,18 +1,17 @@
 ---
-title: "Devrim Erbil Çağdaş Sanatlar Müzesi ve Kent Arşivi | Miras Haritası"
-date: 2025-12-25T03:48:37+03:00
+title: "Devrim Erbil Çağdaş Sanatlar Müzesi ve Kent Arşivi"
+date: "2025-12-25T03:48:37+03:00"
 slug: "devrim-erbil-cagdas-sanatlar-muzesi-ve-kent-arsivi"
 description: "## Devrim Erbil Çağdaş Sanatlar Müzesi ve Kent Arşivi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.8867855,39.6485291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Devrim Erbil Çağdaş Sanatlar Müzesi ve Kent Arşivi

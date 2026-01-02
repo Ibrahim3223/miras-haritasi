@@ -1,18 +1,17 @@
 ---
-title: "Şişli Camii | Miras Haritası"
-date: 2025-12-24T21:48:38+03:00
+title: "Şişli Camii"
+date: "2025-12-24T21:48:38+03:00"
 slug: "sisli-camii"
 description: "# Şişli Camii: Osmanlı Dönemi'nin Önemli Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sislicamii.jpg/1200px-Sislicamii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.987777777,41.061388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Şişli Camii: Osmanlı Dönemi'nin Önemli Bir Mirası

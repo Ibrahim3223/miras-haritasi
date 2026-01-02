@@ -1,18 +1,17 @@
 ---
-title: "Keçeciler Hamamı Kalıntısı | Miras Haritası"
-date: 2025-12-25T16:53:12+03:00
+title: "Keçeciler Hamamı Kalıntısı"
+date: "2025-12-25T16:53:12+03:00"
 slug: "kececiler-hamami-kalintisi"
 description: "**Keçeciler Hamamı Kalıntısı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9359856,41.0222511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Keçeciler Hamamı Kalıntısı**

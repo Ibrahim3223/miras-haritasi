@@ -1,18 +1,17 @@
 ---
-title: "Tiflis Camii | Miras Haritası"
-date: 2025-12-25T00:45:14+03:00
+title: "Tiflis Camii"
+date: "2025-12-25T00:45:14+03:00"
 slug: "tiflis-camii"
 description: "## Tiflis Camii: Ankara'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8580017,39.9403496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tiflis Camii: Ankara'nın Gizli Çiçeği

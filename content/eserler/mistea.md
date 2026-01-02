@@ -1,18 +1,17 @@
 ---
-title: "Mistea | Miras Haritası"
-date: 2025-12-25T05:13:50+03:00
+title: "Mistea"
+date: "2025-12-25T05:13:50+03:00"
 slug: "mistea"
 description: "### Mistea Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.7261111,37.6763889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mistea Arkeolojik Sit

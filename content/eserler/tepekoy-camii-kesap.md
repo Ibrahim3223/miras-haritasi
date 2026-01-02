@@ -1,18 +1,17 @@
 ---
-title: "Tepeköy Camii (Keşap) | Miras Haritası"
-date: 2025-12-25T00:02:45+03:00
+title: "Tepeköy Camii (Keşap)"
+date: "2025-12-25T00:02:45+03:00"
 slug: "tepekoy-camii-kesap"
 description: "### Tepeköy Camii (Keşap): Giresun'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Keşap"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.563033,40.919575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tepeköy Camii (Keşap): Giresun'un Tarihî Bir Mirası

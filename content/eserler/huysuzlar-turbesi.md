@@ -1,18 +1,17 @@
 ---
-title: "Huysuzlar Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:43+03:00
+title: "Huysuzlar Türbesi"
+date: "2025-12-25T15:26:43+03:00"
 slug: "huysuzlar-turbesi"
 description: "## Huysuzlar Türbesi: İznik'in Gizli Çarşısı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.720089,40.4329033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Huysuzlar Türbesi: İznik'in Gizli Çarşısı

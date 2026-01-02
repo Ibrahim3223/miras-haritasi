@@ -1,18 +1,17 @@
 ---
-title: "Rabat Kalesi, Mardin | Miras Haritası"
-date: 2025-12-25T01:32:11+03:00
+title: "Rabat Kalesi, Mardin"
+date: "2025-12-25T01:32:11+03:00"
 slug: "rabat-kalesi-mardin"
 description: "## Rabat Kalesi, Mardin: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Derik"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.198782,37.404426"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rabat Kalesi, Mardin: Tarihinin ve Mimarisinin Gizemi

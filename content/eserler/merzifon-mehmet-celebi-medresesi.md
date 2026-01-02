@@ -1,18 +1,17 @@
 ---
-title: "Merzifon Mehmet Çelebi Medresesi | Miras Haritası"
-date: 2025-12-25T17:23:13+03:00
+title: "Merzifon Mehmet Çelebi Medresesi"
+date: "2025-12-25T17:23:13+03:00"
 slug: "merzifon-mehmet-celebi-medresesi"
 description: "### Merzifon Mehmet Çelebi Medresesi: Amasya'nın Gizli Çağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Merzifon_Çelebi_Sultan_Medresesi_ve_saat_kulesi_(7).jpg/1200px-Merzifon_Çelebi_Sultan_Medresesi_ve_saat_kulesi_(7).jpg"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.4615631,40.8740311"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Merzifon Mehmet Çelebi Medresesi: Amasya'nın Gizli Çağı

@@ -1,18 +1,17 @@
 ---
-title: "Sümer Camii | Miras Haritası"
-date: 2025-12-24T23:08:55+03:00
+title: "Sümer Camii"
+date: "2025-12-24T23:08:55+03:00"
 slug: "sumer-camii"
 description: "## Sümer Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.6156044,40.7836952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sümer Camii

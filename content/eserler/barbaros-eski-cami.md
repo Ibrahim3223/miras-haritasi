@@ -1,18 +1,17 @@
 ---
-title: "Barbaros Eski Cami | Miras Haritası"
-date: 2025-12-24T22:13:08+03:00
+title: "Barbaros Eski Cami"
+date: "2025-12-24T22:13:08+03:00"
 slug: "barbaros-eski-cami"
 description: "# Barbaros Eski Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5821342,38.3241501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Barbaros Eski Cami

@@ -1,18 +1,17 @@
 ---
-title: "Karapınar Höyük | Miras Haritası"
-date: 2025-12-25T06:17:18+03:00
+title: "Karapınar Höyük"
+date: "2025-12-25T06:17:18+03:00"
 slug: "karapinar-hoyuk"
 description: "## Karapınar Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Sarız"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.5900972,38.6113334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karapınar Höyük: Tarihî Bir Mirasın İzleri

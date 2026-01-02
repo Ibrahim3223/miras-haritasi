@@ -1,18 +1,17 @@
 ---
-title: "Kozlu Kahve Mescidi, Karabağlar Yaylası | Miras Haritası"
-date: 2025-12-25T00:51:13+03:00
+title: "Kozlu Kahve Mescidi, Karabağlar Yaylası"
+date: "2025-12-25T00:51:13+03:00"
 slug: "kozlu-kahve-mescidi-karabaglar-yaylasi"
 description: "# Kozlu Kahve Mescidi: Karabağlar Yaylası'nda Gizemli Bir Cami..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3915997,37.1735001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kozlu Kahve Mescidi: Karabağlar Yaylası'nda Gizemli Bir Cami

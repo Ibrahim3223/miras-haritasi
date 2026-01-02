@@ -1,18 +1,17 @@
 ---
-title: "İnönü Cd. Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:49:03+03:00
+title: "İnönü Cd. Çeşmesi"
+date: "2025-12-25T11:49:03+03:00"
 slug: "inonu-cd-cesmesi"
 description: "## İnönü Cd. Çeşmesi: Sarıyer, İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9915905,41.1790619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnönü Cd. Çeşmesi: Sarıyer, İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Elmalı III Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:16:51+03:00
+title: "Elmalı III Tümülüsü"
+date: "2025-12-25T08:16:51+03:00"
 slug: "elmali-iii-tumulusu"
 description: "## Elmalı III Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.900148833,41.187940184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elmalı III Tümülüsü

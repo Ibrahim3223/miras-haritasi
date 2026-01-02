@@ -1,18 +1,17 @@
 ---
-title: "Alacahisar Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:33+03:00
+title: "Alacahisar Kilisesi"
+date: "2025-12-25T09:38:33+03:00"
 slug: "alacahisar-kilisesi"
 description: "## Alacahisar Kilisesi: Demre'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.9019909,36.328289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alacahisar Kilisesi: Demre'nin Tarihî ve Kültürel Mirası

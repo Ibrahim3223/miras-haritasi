@@ -1,18 +1,17 @@
 ---
-title: "Jale Kuşhan Balmumu Heykel Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:56+03:00
+title: "Jale Kuşhan Balmumu Heykel Müzesi"
+date: "2025-12-25T03:49:56+03:00"
 slug: "jale-kushan-balmumu-heykel-muzesi"
 description: "### Jale Kuşhan Balmumu Heykel Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.007109,41.084951"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Jale Kuşhan Balmumu Heykel Müzesi

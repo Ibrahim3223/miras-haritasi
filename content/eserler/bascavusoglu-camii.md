@@ -1,18 +1,17 @@
 ---
-title: "Başçavuşoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:12:37+03:00
+title: "Başçavuşoğlu Camii"
+date: "2025-12-24T22:12:37+03:00"
 slug: "bascavusoglu-camii"
 description: "## Yozgat'ta Tarihi Bir Olanak: Başçavuşoğlu Camii..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8017921,39.8227501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yozgat'ta Tarihi Bir Olanak: Başçavuşoğlu Camii

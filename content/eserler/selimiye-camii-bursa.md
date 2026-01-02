@@ -1,18 +1,17 @@
 ---
-title: "Selimiye Camii (Bursa) | Miras Haritası"
-date: 2025-12-25T00:30:30+03:00
+title: "Selimiye Camii (Bursa)"
+date: "2025-12-25T00:30:30+03:00"
 slug: "selimiye-camii-bursa"
 description: "## Selimiye Camii (Bursa)..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0533657,40.1915703"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Selimiye Camii (Bursa)

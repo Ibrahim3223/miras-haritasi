@@ -1,18 +1,17 @@
 ---
-title: "Sülecik A Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:56+03:00
+title: "Sülecik A Tümülüsü"
+date: "2025-12-25T08:05:56+03:00"
 slug: "sulecik-a-tumulusu"
 description: "## Sülecik A Tümülüsü: Edirne'nin Gizli Tarihi Eseri..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.846632,41.803997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sülecik A Tümülüsü: Edirne'nin Gizli Tarihi Eseri

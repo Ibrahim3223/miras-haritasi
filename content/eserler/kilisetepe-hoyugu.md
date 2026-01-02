@@ -1,18 +1,17 @@
 ---
-title: "Kilisetepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:10:30+03:00
+title: "Kilisetepe Höyüğü"
+date: "2025-12-25T06:10:30+03:00"
 slug: "kilisetepe-hoyugu"
 description: "### Kilisetepe Höyüğü: Malatya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3520775,38.6312141"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kilisetepe Höyüğü: Malatya'nın Gizli Kahramanı

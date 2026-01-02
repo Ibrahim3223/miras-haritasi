@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale 1915 Savaş Malzemeleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:00+03:00
+title: "Çanakkale 1915 Savaş Malzemeleri Müzesi"
+date: "2025-12-25T03:28:00+03:00"
 slug: "canakkale-1915-savas-malzemeleri-muzesi"
 description: "## Çanakkale 1915 Savaş Malzemeleri Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale 1915 Savaş Malzemeleri Müzesi

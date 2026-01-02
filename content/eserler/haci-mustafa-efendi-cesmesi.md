@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mustafa Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:50+03:00
+title: "Hacı Mustafa Efendi Çeşmesi"
+date: "2025-12-25T11:17:50+03:00"
 slug: "haci-mustafa-efendi-cesmesi"
 description: "## Hacı Mustafa Efendi Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.042567,41.161333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mustafa Efendi Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi

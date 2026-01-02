@@ -1,18 +1,17 @@
 ---
-title: "El-Hisn Camii | Miras Haritası"
-date: 2025-12-24T21:51:49+03:00
+title: "El-Hisn Camii"
+date: "2025-12-24T21:51:49+03:00"
 slug: "el-hisn-camii"
 description: "## El-Hisn Camii: Tarihi ve Kültürel Mirasının Örnekleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## El-Hisn Camii: Tarihi ve Kültürel Mirasının Örnekleri

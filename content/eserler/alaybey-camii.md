@@ -1,18 +1,17 @@
 ---
-title: "Alaybey Camii | Miras Haritası"
-date: 2025-12-24T23:16:22+03:00
+title: "Alaybey Camii"
+date: "2025-12-24T23:16:22+03:00"
 slug: "alaybey-camii"
 description: "## Alaybey Camii: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4389019,38.614254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaybey Camii: Manisa'nın Tarihi ve Kültürel Mirası

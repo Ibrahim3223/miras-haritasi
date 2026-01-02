@@ -1,18 +1,17 @@
 ---
-title: "Ozanlı Kalesi, Çayırlı | Miras Haritası"
-date: 2025-12-25T01:40:59+03:00
+title: "Ozanlı Kalesi, Çayırlı"
+date: "2025-12-25T01:40:59+03:00"
 slug: "ozanli-kalesi-cayirli"
 description: "## Ozanlı Kalesi, Çayırlı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Çayırlı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.9230614,39.8152084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ozanlı Kalesi, Çayırlı: Tarihi ve Kültürel Miras

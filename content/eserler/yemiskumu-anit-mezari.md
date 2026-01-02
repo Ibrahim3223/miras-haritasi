@@ -1,18 +1,17 @@
 ---
-title: "Yemişkumu Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:09:55+03:00
+title: "Yemişkumu Anıt Mezarı"
+date: "2025-12-25T14:09:55+03:00"
 slug: "yemiskumu-anit-mezari"
 description: "## Yemişkumu Anıt Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1818695,36.4992027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yemişkumu Anıt Mezarı

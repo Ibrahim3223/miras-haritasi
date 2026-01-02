@@ -1,18 +1,17 @@
 ---
-title: "Düz Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:45:16+03:00
+title: "Düz Mahallesi Kilisesi"
+date: "2025-12-25T09:45:16+03:00"
 slug: "duz-mahallesi-kilisesi"
 description: "## Düz Mahallesi Kilisesi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.876006,40.986645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düz Mahallesi Kilisesi

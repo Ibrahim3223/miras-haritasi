@@ -1,18 +1,17 @@
 ---
-title: "Sinan Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:33:35+03:00
+title: "Sinan Paşa Hamamı"
+date: "2025-12-25T16:33:35+03:00"
 slug: "sinan-pasa-hamami"
 description: "**Sinan Paşa Hamamı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.004281,41.041438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sinan Paşa Hamamı**

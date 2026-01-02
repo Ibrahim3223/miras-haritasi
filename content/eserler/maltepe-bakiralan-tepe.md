@@ -1,18 +1,17 @@
 ---
-title: "Maltepe (Bakıralan Tepe) | Miras Haritası"
-date: 2025-12-25T05:53:44+03:00
+title: "Maltepe (Bakıralan Tepe)"
+date: "2025-12-25T05:53:44+03:00"
 slug: "maltepe-bakiralan-tepe"
 description: "## Maltepe (Bakıralan Tepe): Manisa'nın Gizli Hazinesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.724867,39.08375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltepe (Bakıralan Tepe): Manisa'nın Gizli Hazinesi

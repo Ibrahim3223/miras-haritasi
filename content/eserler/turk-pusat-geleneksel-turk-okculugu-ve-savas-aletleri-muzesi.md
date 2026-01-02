@@ -1,18 +1,17 @@
 ---
-title: "Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:00+03:00
+title: "Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi"
+date: "2025-12-25T04:05:00+03:00"
 slug: "turk-pusat-geleneksel-turk-okculugu-ve-savas-aletleri-muzesi"
 description: "# Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.862666772,39.938365858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi

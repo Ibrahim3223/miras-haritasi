@@ -1,18 +1,17 @@
 ---
-title: "Hürriyet Hamamı | Miras Haritası"
-date: 2025-12-25T16:38:50+03:00
+title: "Hürriyet Hamamı"
+date: "2025-12-25T16:38:50+03:00"
 slug: "hurriyet-hamami"
 description: "### Hürriyet Hamamı: İstanbul'un Tarihi Bir Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.979235,41.039539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hürriyet Hamamı: İstanbul'un Tarihi Bir Hamamı

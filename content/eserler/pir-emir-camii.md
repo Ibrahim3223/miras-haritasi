@@ -1,18 +1,17 @@
 ---
-title: "Pir Emir Camii | Miras Haritası"
-date: 2025-12-24T22:40:24+03:00
+title: "Pir Emir Camii"
+date: "2025-12-24T22:40:24+03:00"
 slug: "pir-emir-camii"
 description: "# Pir Emir Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Piremir_sultan_camii_bursa_-_panoramio_(5).jpg/1200px-Piremir_sultan_camii_bursa_-_panoramio_(5).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0854454,40.1755562"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Pir Emir Camii

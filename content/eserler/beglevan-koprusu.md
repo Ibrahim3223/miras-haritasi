@@ -1,18 +1,17 @@
 ---
-title: "Beğlevan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:05+03:00
+title: "Beğlevan Köprüsü"
+date: "2025-12-25T02:24:05+03:00"
 slug: "beglevan-koprusu"
 description: "## Beğlevan Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.64405,41.45129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beğlevan Köprüsü

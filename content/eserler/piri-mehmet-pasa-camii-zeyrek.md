@@ -1,18 +1,17 @@
 ---
-title: "Piri Mehmet Paşa Camii, Zeyrek | Miras Haritası"
-date: 2025-12-24T22:16:30+03:00
+title: "Piri Mehmet Paşa Camii, Zeyrek"
+date: "2025-12-24T22:16:30+03:00"
 slug: "piri-mehmet-pasa-camii-zeyrek"
 description: "## Piri Mehmet Paşa Camii, Zeyrek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Piri_Mehmed_Pasha_Mosque_02.jpg/1200px-Piri_Mehmed_Pasha_Mosque_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9582825,41.0201225"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Piri Mehmet Paşa Camii, Zeyrek

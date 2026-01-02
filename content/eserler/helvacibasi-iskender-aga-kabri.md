@@ -1,18 +1,17 @@
 ---
-title: "Helvacıbaşı İskender Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:58:52+03:00
+title: "Helvacıbaşı İskender Ağa Kabri"
+date: "2025-12-25T13:58:52+03:00"
 slug: "helvacibasi-iskender-aga-kabri"
 description: "**Helvacıbaşı İskender Ağa Kabri**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9768238,41.0130196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Helvacıbaşı İskender Ağa Kabri**

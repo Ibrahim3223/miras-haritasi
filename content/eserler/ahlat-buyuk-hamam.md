@@ -1,18 +1,17 @@
 ---
-title: "Ahlat Büyük Hamam | Miras Haritası"
-date: 2025-12-25T16:44:59+03:00
+title: "Ahlat Büyük Hamam"
+date: "2025-12-25T16:44:59+03:00"
 slug: "ahlat-buyuk-hamam"
 description: "**Ahlat Büyük Hamam**..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "42.499054,38.7537575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ahlat Büyük Hamam**

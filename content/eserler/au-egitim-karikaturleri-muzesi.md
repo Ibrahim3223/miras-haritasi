@@ -1,18 +1,17 @@
 ---
-title: "A.Ü. Eğitim Karikatürleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:09+03:00
+title: "A.Ü. Eğitim Karikatürleri Müzesi"
+date: "2025-12-25T03:26:09+03:00"
 slug: "au-egitim-karikaturleri-muzesi"
 description: "## A.Ü. Eğitim Karikatürleri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eskişehir_Caricature_Museum_building.jpg/1200px-Eskişehir_Caricature_Museum_building.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.52555556,39.76583333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## A.Ü. Eğitim Karikatürleri Müzesi

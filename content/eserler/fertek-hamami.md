@@ -1,18 +1,17 @@
 ---
-title: "Fertek Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:21+03:00
+title: "Fertek Hamamı"
+date: "2025-12-25T17:10:21+03:00"
 slug: "fertek-hamami"
 description: "## Fertek Hamamı: Niğde'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.6212883,37.9682274"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fertek Hamamı: Niğde'nin Tarihi Bir Mirası

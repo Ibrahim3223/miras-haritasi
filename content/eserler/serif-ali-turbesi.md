@@ -1,18 +1,17 @@
 ---
-title: "Şerif Ali Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:59+03:00
+title: "Şerif Ali Türbesi"
+date: "2025-12-25T14:54:59+03:00"
 slug: "serif-ali-turbesi"
 description: "## Şerif Ali Türbesi: Niğde'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6739578,37.9695091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şerif Ali Türbesi: Niğde'nin Tarihi ve Kültürel Mirası

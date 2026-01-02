@@ -1,18 +1,17 @@
 ---
-title: "Olympos Akropolü | Miras Haritası"
-date: 2025-12-25T05:25:34+03:00
+title: "Olympos Akropolü"
+date: "2025-12-25T05:25:34+03:00"
 slug: "olympos-akropolu"
 description: "### Olympos Akropolü: Antalya'nın Gizli Çarpısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Olympos_Akropolü.jpg/1200px-Olympos_Akropolü.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.4753342,36.39711"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Olympos Akropolü: Antalya'nın Gizli Çarpısı

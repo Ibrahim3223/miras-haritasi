@@ -1,18 +1,17 @@
 ---
-title: "Bademli Deniz Ilıcası | Miras Haritası"
-date: 2025-12-25T16:31:39+03:00
+title: "Bademli Deniz Ilıcası"
+date: "2025-12-25T16:31:39+03:00"
 slug: "bademli-deniz-ilicasi"
 description: "## Bademli Deniz Ilıcası: Dikili, İzmir'de Bir Tarihsel Hamam..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.799387,38.99658"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bademli Deniz Ilıcası: Dikili, İzmir'de Bir Tarihsel Hamam

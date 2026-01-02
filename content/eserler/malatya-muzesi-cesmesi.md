@@ -1,18 +1,17 @@
 ---
-title: "Malatya Müzesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:24:45+03:00
+title: "Malatya Müzesi Çeşmesi"
+date: "2025-12-25T12:24:45+03:00"
 slug: "malatya-muzesi-cesmesi"
 description: "## Malatya Müzesi Çeşmesi: Tarihi ve Kültürel Miras Değerinde Bir Çeşme..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.324689779,38.343118168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malatya Müzesi Çeşmesi: Tarihi ve Kültürel Miras Değerinde Bir Çeşme

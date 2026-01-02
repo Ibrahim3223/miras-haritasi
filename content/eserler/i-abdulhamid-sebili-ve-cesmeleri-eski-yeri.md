@@ -1,18 +1,17 @@
 ---
-title: "I. Abdülhamid Sebili ve Çeşmeleri (Eski Yeri) | Miras Haritası"
-date: 2025-12-25T13:08:45+03:00
+title: "I. Abdülhamid Sebili ve Çeşmeleri (Eski Yeri)"
+date: "2025-12-25T13:08:45+03:00"
 slug: "i-abdulhamid-sebili-ve-cesmeleri-eski-yeri"
 description: "### I. Abdülhamid Sebili ve Çeşmeleri (Eski Yeri)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9742603,41.0156822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### I. Abdülhamid Sebili ve Çeşmeleri (Eski Yeri)

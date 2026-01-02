@@ -1,18 +1,17 @@
 ---
-title: "İshak Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:57+03:00
+title: "İshak Paşa Hamamı"
+date: "2025-12-25T16:34:57+03:00"
 slug: "ishak-pasa-hamami"
 description: "**İshak Paşa Hamamı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/İshak_Paşa_Hamamı.jpg/1200px-İshak_Paşa_Hamamı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.981254,41.006545"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **İshak Paşa Hamamı**

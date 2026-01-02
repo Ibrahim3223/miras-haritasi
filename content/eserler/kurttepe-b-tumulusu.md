@@ -1,18 +1,17 @@
 ---
-title: "Kurttepe B Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:01+03:00
+title: "Kurttepe B Tümülüsü"
+date: "2025-12-25T08:05:01+03:00"
 slug: "kurttepe-b-tumulusu"
 description: "## Kurttepe B Tümülüsü: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7073708,41.365509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurttepe B Tümülüsü: Edirne'nin Gizli Anıtı

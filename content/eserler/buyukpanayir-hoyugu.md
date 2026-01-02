@@ -1,18 +1,17 @@
 ---
-title: "Büyükpanayır Höyüğü | Miras Haritası"
-date: 2025-12-25T06:11:17+03:00
+title: "Büyükpanayır Höyüğü"
+date: "2025-12-25T06:11:17+03:00"
 slug: "buyukpanayir-hoyugu"
 description: "## Büyükpanayır Höyüğü: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9853001,37.6511993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükpanayır Höyüğü: Aydın'ın Gizli Cenneti

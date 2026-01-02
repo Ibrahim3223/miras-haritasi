@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Hulusi Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:49+03:00
+title: "Ahmet Hulusi Paşa Çeşmesi"
+date: "2025-12-25T10:59:49+03:00"
 slug: "ahmet-hulusi-pasa-cesmesi"
 description: "## Ahmet Hulusi Paşa Çeşmesi: İskenderpaşa'nın Tarihî Bir Cephesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.949413,41.013676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Hulusi Paşa Çeşmesi: İskenderpaşa'nın Tarihî Bir Cephesi

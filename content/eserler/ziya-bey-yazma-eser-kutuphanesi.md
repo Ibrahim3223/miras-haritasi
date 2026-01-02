@@ -1,18 +1,17 @@
 ---
-title: "Ziya Bey Yazma Eser Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:52:10+03:00
+title: "Ziya Bey Yazma Eser Kütüphanesi"
+date: "2025-12-25T17:52:10+03:00"
 slug: "ziya-bey-yazma-eser-kutuphanesi"
 description: "## Ziya Bey Yazma Eser Kütüphanesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "37.0194855,39.7505646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ziya Bey Yazma Eser Kütüphanesi

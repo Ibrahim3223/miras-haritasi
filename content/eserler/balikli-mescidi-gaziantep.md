@@ -1,18 +1,17 @@
 ---
-title: "Balıklı Mescidi, Gaziantep | Miras Haritası"
-date: 2025-12-25T01:09:03+03:00
+title: "Balıklı Mescidi, Gaziantep"
+date: "2025-12-25T01:09:03+03:00"
 slug: "balikli-mescidi-gaziantep"
 description: "# Balıklı Mescidi, Gaziantep..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3805847,37.0610886"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Balıklı Mescidi, Gaziantep

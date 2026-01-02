@@ -1,18 +1,17 @@
 ---
-title: "Karasu Köprüsü, Hatay | Miras Haritası"
-date: 2025-12-25T02:58:44+03:00
+title: "Karasu Köprüsü, Hatay"
+date: "2025-12-25T02:58:44+03:00"
 slug: "karasu-koprusu-hatay"
 description: "## Karasu Köprüsü: Hatay'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.422062,36.54052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karasu Köprüsü: Hatay'ın Tarihi ve Kültürel Mirası

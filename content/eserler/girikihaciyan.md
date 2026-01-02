@@ -1,18 +1,17 @@
 ---
-title: "Girikihaciyan | Miras Haritası"
-date: 2025-12-25T07:05:22+03:00
+title: "Girikihaciyan"
+date: "2025-12-25T07:05:22+03:00"
 slug: "girikihaciyan"
 description: "## Girikihaciyan Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Girikihaciyan Arkeolojik Sit

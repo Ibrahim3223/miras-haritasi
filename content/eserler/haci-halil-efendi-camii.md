@@ -1,18 +1,17 @@
 ---
-title: "Hacı Halil Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:41:13+03:00
+title: "Hacı Halil Efendi Camii"
+date: "2025-12-24T23:41:13+03:00"
 slug: "haci-halil-efendi-camii"
 description: "**Hacı Halil Efendi Camii**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.133688,38.4133873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hacı Halil Efendi Camii**

@@ -1,18 +1,17 @@
 ---
-title: "Mismarcı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:13:24+03:00
+title: "Mismarcı Çeşmesi"
+date: "2025-12-25T11:13:24+03:00"
 slug: "mismarci-cesmesi"
 description: "## Mismarcı Çeşmesi: Fatih'te Bir Ölümsüz Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.952431,41.027949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mismarcı Çeşmesi: Fatih'te Bir Ölümsüz Çeşme

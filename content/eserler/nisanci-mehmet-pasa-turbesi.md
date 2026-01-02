@@ -1,18 +1,17 @@
 ---
-title: "Nişancı Mehmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:13+03:00
+title: "Nişancı Mehmet Paşa Türbesi"
+date: "2025-12-25T14:38:13+03:00"
 slug: "nisanci-mehmet-pasa-turbesi"
 description: "### Nişancı Mehmet Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.944992,41.024304"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nişancı Mehmet Paşa Türbesi

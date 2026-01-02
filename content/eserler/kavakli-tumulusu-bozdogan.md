@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Tümülüsü, Bozdoğan | Miras Haritası"
-date: 2025-12-25T07:39:08+03:00
+title: "Kavaklı Tümülüsü, Bozdoğan"
+date: "2025-12-25T07:39:08+03:00"
 slug: "kavakli-tumulusu-bozdogan"
 description: "### Kavaklı Tümülüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3036995,37.7514992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kavaklı Tümülüsü

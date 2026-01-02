@@ -1,18 +1,17 @@
 ---
-title: "Keçiçayırı Höyüğü 3 | Miras Haritası"
-date: 2025-12-25T06:37:59+03:00
+title: "Keçiçayırı Höyüğü 3"
+date: "2025-12-25T06:37:59+03:00"
 slug: "kecicayiri-hoyugu-3"
 description: "### Keçiçayırı Höyüğü 3: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.762920379,39.279839159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Keçiçayırı Höyüğü 3: Eskişehir'in Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Çiğdemli Camii | Miras Haritası"
-date: 2025-12-24T22:33:44+03:00
+title: "Çiğdemli Camii"
+date: "2025-12-24T22:33:44+03:00"
 slug: "cigdemli-camii"
 description: "## Çiğdemli Camii: Karaman'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.1282196,37.2350273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiğdemli Camii: Karaman'ın Tarihi ve Kültürel Mirasının Bir Parçası

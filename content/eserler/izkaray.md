@@ -1,18 +1,17 @@
 ---
-title: "İZKARAY | Miras Haritası"
-date: 2025-12-25T03:04:39+03:00
+title: "İZKARAY"
+date: "2025-12-25T03:04:39+03:00"
 slug: "izkaray"
 description: "## İzkaray: İzmir'in Tarihi Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzkaray: İzmir'in Tarihi Köprüsü

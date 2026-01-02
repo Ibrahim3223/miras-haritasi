@@ -1,18 +1,17 @@
 ---
-title: "Ada Boğazı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:29:26+03:00
+title: "Ada Boğazı Kilisesi"
+date: "2025-12-25T09:29:26+03:00"
 slug: "ada-bogazi-kilisesi"
 description: "## Ada Boğazı Kilisesi: Marmaris'in Gizli Şansı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.0386982,36.6738319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ada Boğazı Kilisesi: Marmaris'in Gizli Şansı

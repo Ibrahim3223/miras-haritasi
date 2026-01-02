@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Güzelbeyli | Miras Haritası"
-date: 2025-12-25T02:46:52+03:00
+title: "Roma Köprüsü, Güzelbeyli"
+date: "2025-12-25T02:46:52+03:00"
 slug: "roma-koprusu-guzelbeyli"
 description: "## Roma Köprüsü, Güzelbeyli: Aydın'ın Tarihi Bir Harikası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.6717072,37.7067184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Güzelbeyli: Aydın'ın Tarihi Bir Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Kethüda Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:57+03:00
+title: "Ahmet Kethüda Çeşmesi"
+date: "2025-12-25T10:58:57+03:00"
 slug: "ahmet-kethuda-cesmesi"
 description: "## Ahmet Kethüda Çeşmesi: Fatih'in Gizli Öteki Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Molla Fenari"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.973658,41.010235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Kethüda Çeşmesi: Fatih'in Gizli Öteki Çeşmesi

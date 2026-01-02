@@ -1,18 +1,17 @@
 ---
-title: "Otağ-ı Hümâyun | Miras Haritası"
-date: 2025-12-25T13:13:43+03:00
+title: "Otağ-ı Hümâyun"
+date: "2025-12-25T13:13:43+03:00"
 slug: "otag-i-humyun"
 description: "## Otağ-ı Hümâyun: Osmanlı Döneminin Gizlenmiş İhtişamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Otağ-ı_Hümayun–IMG_7509~2.jpg/1200px-Otağ-ı_Hümayun–IMG_7509~2.jpg"
-province: "Esenler"
-iller: ["Esenler"]
-district: "Davutpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Esenler"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.8938,41.0199"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Otağ-ı Hümâyun: Osmanlı Döneminin Gizlenmiş İhtişamı

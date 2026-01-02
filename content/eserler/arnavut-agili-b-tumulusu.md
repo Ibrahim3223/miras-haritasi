@@ -1,18 +1,17 @@
 ---
-title: "Arnavut Ağılı B Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:26+03:00
+title: "Arnavut Ağılı B Tümülüsü"
+date: "2025-12-25T08:03:26+03:00"
 slug: "arnavut-agili-b-tumulusu"
 description: "## Arnavut Ağılı B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8277245,41.5411873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arnavut Ağılı B Tümülüsü

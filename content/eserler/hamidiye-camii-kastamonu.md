@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Kastamonu | Miras Haritası"
-date: 2025-12-25T00:05:09+03:00
+title: "Hamidiye Camii, Kastamonu"
+date: "2025-12-25T00:05:09+03:00"
 slug: "hamidiye-camii-kastamonu"
 description: "# Hamidiye Camii, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7846527,41.3788872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamidiye Camii, Kastamonu

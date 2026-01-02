@@ -1,18 +1,17 @@
 ---
-title: "Helvacı Baba Türbesi, Ereğli | Miras Haritası"
-date: 2025-12-25T15:35:08+03:00
+title: "Helvacı Baba Türbesi, Ereğli"
+date: "2025-12-25T15:35:08+03:00"
 slug: "helvaci-baba-turbesi-eregli"
 description: "## Helvacı Baba Türbesi, Ereğli..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ereğli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.053344603,37.516326575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Helvacı Baba Türbesi, Ereğli

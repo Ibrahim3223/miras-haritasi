@@ -1,18 +1,17 @@
 ---
-title: "Kapkirli Tarihi Hamam | Miras Haritası"
-date: 2025-12-25T16:23:20+03:00
+title: "Kapkirli Tarihi Hamam"
+date: "2025-12-25T16:23:20+03:00"
 slug: "kapkirli-tarihi-hamam"
 description: "## Kapkirli Tarihi Hamam: Akçakoca'da Bir Geçmişe Dokunan Eser..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.118584,41.083292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapkirli Tarihi Hamam: Akçakoca'da Bir Geçmişe Dokunan Eser

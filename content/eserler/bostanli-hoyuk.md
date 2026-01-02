@@ -1,18 +1,17 @@
 ---
-title: "Bostanlı Höyük | Miras Haritası"
-date: 2025-12-25T13:44:35+03:00
+title: "Bostanlı Höyük"
+date: "2025-12-25T13:44:35+03:00"
 slug: "bostanli-hoyuk"
 description: "### Bostanlı Höyük: Boğazlıyan'da Gizemli Bir Geçmiş..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.2471045,39.075106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bostanlı Höyük: Boğazlıyan'da Gizemli Bir Geçmiş

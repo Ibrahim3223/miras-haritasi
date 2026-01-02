@@ -1,18 +1,17 @@
 ---
-title: "Kutman Şarap Müzesi | Miras Haritası"
-date: 2025-12-25T03:21:18+03:00
+title: "Kutman Şarap Müzesi"
+date: "2025-12-25T03:21:18+03:00"
 slug: "kutman-sarap-muzesi"
 description: "### Kutman Şarap Müzesi: Şarköy'de Etkileyici Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/KutmanWineMuseum_(1).jpg/1200px-KutmanWineMuseum_(1).jpg"
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.245,40.666111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kutman Şarap Müzesi: Şarköy'de Etkileyici Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Adnan Saygun Heykeli | Miras Haritası"
-date: 2025-12-25T15:52:32+03:00
+title: "Ahmet Adnan Saygun Heykeli"
+date: "2025-12-25T15:52:32+03:00"
 slug: "ahmet-adnan-saygun-heykeli"
 description: "### Ahmet Adnan Saygun Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.029816,41.068584"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Adnan Saygun Heykeli

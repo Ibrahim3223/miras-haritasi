@@ -1,18 +1,17 @@
 ---
-title: "Subaşı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:55+03:00
+title: "Subaşı Köprüsü"
+date: "2025-12-25T02:08:55+03:00"
 slug: "subasi-koprusu"
 description: "## Subaşı Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0272064,37.7292633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Subaşı Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

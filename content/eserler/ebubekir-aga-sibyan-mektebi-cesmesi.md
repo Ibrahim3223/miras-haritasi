@@ -1,18 +1,17 @@
 ---
-title: "Ebubekir Ağa Sıbyan Mektebi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:49+03:00
+title: "Ebubekir Ağa Sıbyan Mektebi Çeşmesi"
+date: "2025-12-25T10:33:49+03:00"
 slug: "ebubekir-aga-sibyan-mektebi-cesmesi"
 description: "## Ebubekir Ağa Sıbyan Mektebi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.950216,41.008934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebubekir Ağa Sıbyan Mektebi Çeşmesi

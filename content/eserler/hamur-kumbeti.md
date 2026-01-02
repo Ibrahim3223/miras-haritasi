@@ -1,18 +1,17 @@
 ---
-title: "Hamur Kümbeti | Miras Haritası"
-date: 2025-12-25T14:01:08+03:00
+title: "Hamur Kümbeti"
+date: "2025-12-25T14:01:08+03:00"
 slug: "hamur-kumbeti"
 description: "# Hamur Kümbeti: Ağrı'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Hamur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.9931417,39.6106311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamur Kümbeti: Ağrı'nın Tarihi Mirası

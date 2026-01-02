@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mehmed Emin Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:50+03:00
+title: "Şeyh Mehmed Emin Efendi Türbesi"
+date: "2025-12-25T15:23:50+03:00"
 slug: "seyh-mehmed-emin-efendi-turbesi"
 description: "**Şeyh Mehmed Emin Efendi Türbesi**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0615253,40.1794052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Mehmed Emin Efendi Türbesi**

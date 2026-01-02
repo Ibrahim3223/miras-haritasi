@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:08:41+03:00
+title: "Hüsrev Paşa Camii"
+date: "2025-12-24T22:08:41+03:00"
 slug: "husrev-pasa-camii"
 description: "## Hüsrev Paşa Camii: Diyarbakır'ın Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Diyarbakır_Hüsrev_Paşa_Mosque7956.jpg/1200px-Diyarbakır_Hüsrev_Paşa_Mosque7956.jpg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.237136,37.907125"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hüsrev Paşa Camii: Diyarbakır'ın Tarihi Bir Anıtı

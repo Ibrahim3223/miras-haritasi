@@ -1,18 +1,17 @@
 ---
-title: "Yazıbaşı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:45:04+03:00
+title: "Yazıbaşı Höyüğü"
+date: "2025-12-25T06:45:04+03:00"
 slug: "yazibasi-hoyugu"
 description: "### Yazıbaşı Höyüğü..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.8784014,40.0658784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yazıbaşı Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Sefer Tepe | Miras Haritası"
-date: 2025-12-25T08:28:55+03:00
+title: "Sefer Tepe"
+date: "2025-12-25T08:28:55+03:00"
 slug: "sefer-tepe"
 description: "### Sefer Tepe: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sefer Tepe: Tarihî ve Kültürel Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "Neapolis (İyonya) | Miras Haritası"
-date: 2025-12-25T04:32:19+03:00
+title: "Neapolis (İyonya)"
+date: "2025-12-25T04:32:19+03:00"
 slug: "neapolis-iyonya"
 description: "## Neapolis (İyonya)..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2502995,37.8254967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neapolis (İyonya)

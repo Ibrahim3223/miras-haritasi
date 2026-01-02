@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Ilıcaboğazı | Miras Haritası"
-date: 2025-12-25T17:05:16+03:00
+title: "Hamam, Ilıcaboğazı"
+date: "2025-12-25T17:05:16+03:00"
 slug: "hamam-ilicabogazi"
 description: "**Ilıcaboğazı Hamamı: Balıkesir'in Tarihi Bir Anıtı**..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Susurluk"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.1330452,40.0938911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ilıcaboğazı Hamamı: Balıkesir'in Tarihi Bir Anıtı**

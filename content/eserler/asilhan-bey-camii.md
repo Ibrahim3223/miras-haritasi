@@ -1,18 +1,17 @@
 ---
-title: "Asılhan Bey Camii | Miras Haritası"
-date: 2025-12-24T22:15:17+03:00
+title: "Asılhan Bey Camii"
+date: "2025-12-24T22:15:17+03:00"
 slug: "asilhan-bey-camii"
 description: "## Asılhan Bey Camii: Çanakkale'nin Değerli İmar Eseri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.2351818,39.7590332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asılhan Bey Camii: Çanakkale'nin Değerli İmar Eseri

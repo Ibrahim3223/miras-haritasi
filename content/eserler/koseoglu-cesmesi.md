@@ -1,18 +1,17 @@
 ---
-title: "Köseoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:48+03:00
+title: "Köseoğlu Çeşmesi"
+date: "2025-12-25T10:27:48+03:00"
 slug: "koseoglu-cesmesi"
 description: "## Köseoğlu Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6068001,37.7282982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köseoğlu Çeşmesi

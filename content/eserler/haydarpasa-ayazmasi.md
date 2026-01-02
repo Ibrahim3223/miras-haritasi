@@ -1,18 +1,17 @@
 ---
-title: "Haydarpaşa Ayazması | Miras Haritası"
-date: 2025-12-25T12:38:16+03:00
+title: "Haydarpaşa Ayazması"
+date: "2025-12-25T12:38:16+03:00"
 slug: "haydarpasa-ayazmasi"
 description: "## Haydarpaşa Ayazması: Kadıköy'de Bir Geçmişin İzleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.022979554,40.999201815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haydarpaşa Ayazması: Kadıköy'de Bir Geçmişin İzleri

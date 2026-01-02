@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Emin Ağa Sebili | Miras Haritası"
-date: 2025-12-25T13:06:19+03:00
+title: "Mehmet Emin Ağa Sebili"
+date: "2025-12-25T13:06:19+03:00"
 slug: "mehmet-emin-aga-sebili"
 description: "### Mehmet Emin Ağa Sebili..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mehmet_Emin_Ağa_Sebili_IMG_7991.jpg/1200px-Mehmet_Emin_Ağa_Sebili_IMG_7991.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Vişnezade"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9947014,41.0371742"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mehmet Emin Ağa Sebili

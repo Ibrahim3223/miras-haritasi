@@ -1,18 +1,17 @@
 ---
-title: "Sakarya 12. Grup Şehitliği | Miras Haritası"
-date: 2025-12-25T14:09:08+03:00
+title: "Sakarya 12. Grup Şehitliği"
+date: "2025-12-25T14:09:08+03:00"
 slug: "sakarya-12-grup-sehitligi"
 description: "## Sakarya 12. Grup Şehitliği..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.0800171,39.5087967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarya 12. Grup Şehitliği

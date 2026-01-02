@@ -1,18 +1,17 @@
 ---
-title: "Hacı Yamak Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:06:36+03:00
+title: "Hacı Yamak Sokak Çeşmesi"
+date: "2025-12-25T10:06:36+03:00"
 slug: "haci-yamak-sokak-cesmesi"
 description: "# Hacı Yamak Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/808.109-Hacı_Yamak_Sokak_Çeşmesi-1851_01.jpg/1200px-808.109-Hacı_Yamak_Sokak_Çeşmesi-1851_01.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.18090556,39.120975"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hacı Yamak Sokak Çeşmesi

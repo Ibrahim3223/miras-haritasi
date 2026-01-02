@@ -1,18 +1,17 @@
 ---
-title: "Modrene | Miras Haritası"
-date: 2025-12-25T04:50:39+03:00
+title: "Modrene"
+date: "2025-12-25T04:50:39+03:00"
 slug: "modrene"
 description: "## Modrene Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bolu"
+province: "Bolu"
+iller: '["Bolu"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.143478,40.488963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Modrene Arkeolojik Sit

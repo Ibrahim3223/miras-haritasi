@@ -1,18 +1,17 @@
 ---
-title: "Bitlis Şerefiye Camii | Miras Haritası"
-date: 2025-12-24T22:28:12+03:00
+title: "Bitlis Şerefiye Camii"
+date: "2025-12-24T22:28:12+03:00"
 slug: "bitlis-serefiye-camii"
 description: "## Bitlis Şerefiye Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.1072464,38.3995247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bitlis Şerefiye Camii

@@ -1,18 +1,17 @@
 ---
-title: "Panagia Kilisesi (Gemir) | Miras Haritası"
-date: 2025-12-25T09:34:04+03:00
+title: "Panagia Kilisesi (Gemir)"
+date: "2025-12-25T09:34:04+03:00"
 slug: "panagia-kilisesi-gemir"
 description: "## Panagia Kilisesi (Gemir)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Germir_panagia_kilisesi.jpg/1200px-Germir_panagia_kilisesi.jpg"
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.560762,38.737003"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Panagia Kilisesi (Gemir)

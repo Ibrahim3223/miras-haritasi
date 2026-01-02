@@ -1,18 +1,17 @@
 ---
-title: "Darülkurra | Miras Haritası"
-date: 2025-12-25T17:38:26+03:00
+title: "Darülkurra"
+date: "2025-12-25T17:38:26+03:00"
 slug: "darulkurra"
 description: "### Darülkurra Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.2191734,38.4671822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Darülkurra Medresesi

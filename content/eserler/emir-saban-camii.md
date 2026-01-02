@@ -1,18 +1,17 @@
 ---
-title: "Emir Şaban Camii | Miras Haritası"
-date: 2025-12-24T23:01:37+03:00
+title: "Emir Şaban Camii"
+date: "2025-12-24T23:01:37+03:00"
 slug: "emir-saban-camii"
 description: "## Emir Şaban Camii: Hakkari'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Çukurca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.6121979,37.2464523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Şaban Camii: Hakkari'nin Tarihi ve Kültürel Mirası

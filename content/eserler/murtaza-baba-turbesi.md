@@ -1,18 +1,17 @@
 ---
-title: "Murtaza Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:04+03:00
+title: "Murtaza Baba Türbesi"
+date: "2025-12-25T15:28:04+03:00"
 slug: "murtaza-baba-turbesi"
 description: "### Murtaza Baba Türbesi: Tarsus'un Şövalye Kalesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.0502052,36.975399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Murtaza Baba Türbesi: Tarsus'un Şövalye Kalesi

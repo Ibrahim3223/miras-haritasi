@@ -1,18 +1,17 @@
 ---
-title: "Carullah bin Süleyman Camii | Miras Haritası"
-date: 2025-12-24T22:27:45+03:00
+title: "Carullah bin Süleyman Camii"
+date: "2025-12-24T22:27:45+03:00"
 slug: "carullah-bin-suleyman-camii"
 description: "## Carullah bin Süleyman Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.5236397,38.6239777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Carullah bin Süleyman Camii

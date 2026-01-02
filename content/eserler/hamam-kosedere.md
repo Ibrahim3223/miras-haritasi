@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Kösedere | Miras Haritası"
-date: 2025-12-25T17:07:36+03:00
+title: "Hamam, Kösedere"
+date: "2025-12-25T17:07:36+03:00"
 slug: "hamam-kosedere"
 description: "## Hamam, Kösedere..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.1838722,39.6291237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamam, Kösedere

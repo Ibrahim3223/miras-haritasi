@@ -1,18 +1,17 @@
 ---
-title: "Istlada | Miras Haritası"
-date: 2025-12-25T04:57:09+03:00
+title: "Istlada"
+date: "2025-12-25T04:57:09+03:00"
 slug: "istlada"
 description: "## Istlada Arkeolojik Sit: Demre'nin Gizli Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.8877,36.2185"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Istlada Arkeolojik Sit: Demre'nin Gizli Harikası

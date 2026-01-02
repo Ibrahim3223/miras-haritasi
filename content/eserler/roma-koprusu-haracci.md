@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Haraççı | Miras Haritası"
-date: 2025-12-25T02:53:00+03:00
+title: "Roma Köprüsü, Haraççı"
+date: "2025-12-25T02:53:00+03:00"
 slug: "roma-koprusu-haracci"
 description: "## Roma Köprüsü, Haraççı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Arnavutköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.696608,41.185753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Haraççı

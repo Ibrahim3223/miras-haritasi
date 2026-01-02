@@ -1,18 +1,17 @@
 ---
-title: "Delfinion (Milet) | Miras Haritası"
-date: 2025-12-25T08:19:00+03:00
+title: "Delfinion (Milet)"
+date: "2025-12-25T08:19:00+03:00"
 slug: "delfinion-milet"
 description: "## Delfinion (Milet): Aydın'ın Tarihi ve Kültürel Mirasının Gizli Çırağı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.280833333,37.53"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Delfinion (Milet): Aydın'ın Tarihi ve Kültürel Mirasının Gizli Çırağı

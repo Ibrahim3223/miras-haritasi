@@ -1,18 +1,17 @@
 ---
-title: "Doğanhisar Camii | Miras Haritası"
-date: 2025-12-24T22:03:20+03:00
+title: "Doğanhisar Camii"
+date: "2025-12-24T22:03:20+03:00"
 slug: "doganhisar-camii"
 description: "## Doğanhisar Camii: Konya'nın Gizli Çehresini Açığa Katarak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Doğanhisar_Ulu_Cami_Nisan_2025_05.jpg/1200px-Doğanhisar_Ulu_Cami_Nisan_2025_05.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Doğanhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.674611111,38.143611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Doğanhisar Camii: Konya'nın Gizli Çehresini Açığa Katarak

@@ -1,18 +1,17 @@
 ---
-title: "Kale Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:30:35+03:00
+title: "Kale Camii Çeşmesi"
+date: "2025-12-25T12:30:35+03:00"
 slug: "kale-camii-cesmesi"
 description: "## Kale Camii Çeşmesi: Kayseri'nin Gizli Çehresi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.488282469,38.721202116"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Camii Çeşmesi: Kayseri'nin Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – İnönü, 2051 Sokak | Miras Haritası"
-date: 2025-12-25T12:56:52+03:00
+title: "Çeşme – İnönü, 2051 Sokak"
+date: "2025-12-25T12:56:52+03:00"
 slug: "cesme-inonu-2051-sokak"
 description: "### Çeşme – İnönü, 2051 Sokak Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3080006,38.3228989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme – İnönü, 2051 Sokak Çeşme

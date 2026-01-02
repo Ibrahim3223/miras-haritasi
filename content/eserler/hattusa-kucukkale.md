@@ -1,18 +1,17 @@
 ---
-title: "Hattuşa Küçükkale | Miras Haritası"
-date: 2025-12-25T01:20:43+03:00
+title: "Hattuşa Küçükkale"
+date: "2025-12-25T01:20:43+03:00"
 slug: "hattusa-kucukkale"
 description: "## Hattuşa Küçükkale: Türkiye'nin Tarihî Efsanelerinin Kapısı..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Boğazkale"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.6192322,40.0139008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hattuşa Küçükkale: Türkiye'nin Tarihî Efsanelerinin Kapısı

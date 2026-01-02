@@ -1,18 +1,17 @@
 ---
-title: "Telmessos Lahit Mezarları | Miras Haritası"
-date: 2025-12-25T05:42:02+03:00
+title: "Telmessos Lahit Mezarları"
+date: "2025-12-25T05:42:02+03:00"
 slug: "telmessos-lahit-mezarlari"
 description: "## Telmessos Lahit Mezarları..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1176929,36.6204796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Telmessos Lahit Mezarları

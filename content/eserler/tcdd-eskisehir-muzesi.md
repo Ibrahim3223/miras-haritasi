@@ -1,18 +1,17 @@
 ---
-title: "TCDD Eskişehir Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:19+03:00
+title: "TCDD Eskişehir Müzesi"
+date: "2025-12-25T03:10:19+03:00"
 slug: "tcdd-eskisehir-muzesi"
 description: "### TCDD Eskişehir Müzesi: Eskişehir'in Tarihi ve Kültürel Mirasının Yeri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.506356016,39.778740394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### TCDD Eskişehir Müzesi: Eskişehir'in Tarihi ve Kültürel Mirasının Yeri

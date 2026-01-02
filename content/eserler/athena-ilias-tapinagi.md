@@ -1,18 +1,17 @@
 ---
-title: "Athena Ilias Tapınağı | Miras Haritası"
-date: 2025-12-25T08:28:30+03:00
+title: "Athena Ilias Tapınağı"
+date: "2025-12-25T08:28:30+03:00"
 slug: "athena-ilias-tapinagi"
 description: "## Athena Ilias Tapınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Troy_forecourt_of_the_Athena_temple_7711.jpg/1200px-Troy_forecourt_of_the_Athena_temple_7711.jpg"
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.2392134,39.9577892"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Athena Ilias Tapınağı

@@ -1,18 +1,17 @@
 ---
-title: "Tekke Camii (Trabzon) | Miras Haritası"
-date: 2025-12-25T00:24:37+03:00
+title: "Tekke Camii (Trabzon)"
+date: "2025-12-25T00:24:37+03:00"
 slug: "tekke-camii-trabzon"
 description: "**Tekke Camii: Trabzon'un Gizli Çehresinin En Güzel Anıtları Arasındaki Bir Zenginlik**..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.7293739,41.0037651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tekke Camii: Trabzon'un Gizli Çehresinin En Güzel Anıtları Arasındaki Bir Zenginlik**

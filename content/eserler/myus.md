@@ -1,18 +1,17 @@
 ---
-title: "Myus | Miras Haritası"
-date: 2025-12-25T04:21:03+03:00
+title: "Myus"
+date: "2025-12-25T04:21:03+03:00"
 slug: "myus"
 description: "## Myus Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Myus1.jpg/1200px-Myus1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.42777778,37.59444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Myus Arkeolojik Sit

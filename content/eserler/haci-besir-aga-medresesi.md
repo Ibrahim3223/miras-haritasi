@@ -1,18 +1,17 @@
 ---
-title: "Hacı Beşir Ağa Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:24+03:00
+title: "Hacı Beşir Ağa Medresesi"
+date: "2025-12-25T17:27:24+03:00"
 slug: "haci-besir-aga-medresesi"
 description: "### Hacı Beşir Ağa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hacı_Beşir_Ağa_Medresesi.jpg/1200px-Hacı_Beşir_Ağa_Medresesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.976985,41.010749"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hacı Beşir Ağa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

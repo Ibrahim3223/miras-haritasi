@@ -1,18 +1,17 @@
 ---
-title: "Tomtom Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:24+03:00
+title: "Tomtom Çeşmesi"
+date: "2025-12-25T10:59:24+03:00"
 slug: "tomtom-cesmesi"
 description: "## Tomtom Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979053,41.030434"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tomtom Çeşmesi

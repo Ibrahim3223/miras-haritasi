@@ -1,18 +1,17 @@
 ---
-title: "Seki Çeşme Hamamı | Miras Haritası"
-date: 2025-12-25T16:44:35+03:00
+title: "Seki Çeşme Hamamı"
+date: "2025-12-25T16:44:35+03:00"
 slug: "seki-cesme-hamami"
 description: "### Seki Çeşme Hamamı..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.222023,37.1800728"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seki Çeşme Hamamı

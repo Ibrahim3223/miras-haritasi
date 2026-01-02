@@ -1,18 +1,17 @@
 ---
-title: "Pirömer Köyü Höyüğü | Miras Haritası"
-date: 2025-12-25T06:35:06+03:00
+title: "Pirömer Köyü Höyüğü"
+date: "2025-12-25T06:35:06+03:00"
 slug: "piromer-koyu-hoyugu"
 description: "# Pirömer Köyü Höyüğü..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Patnos"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "42.9850006,39.1269913"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pirömer Köyü Höyüğü

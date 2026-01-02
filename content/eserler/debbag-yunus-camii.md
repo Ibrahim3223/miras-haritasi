@@ -1,18 +1,17 @@
 ---
-title: "Debbağ Yunus Camii | Miras Haritası"
-date: 2025-12-24T22:50:32+03:00
+title: "Debbağ Yunus Camii"
+date: "2025-12-24T22:50:32+03:00"
 slug: "debbag-yunus-camii"
 description: "### Debbağ Yunus Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.953228,41.0272446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Debbağ Yunus Camii

@@ -1,18 +1,17 @@
 ---
-title: "Kahraman Tıbbiyeliler Anıtı | Miras Haritası"
-date: 2025-12-25T15:47:00+03:00
+title: "Kahraman Tıbbiyeliler Anıtı"
+date: "2025-12-25T15:47:00+03:00"
 slug: "kahraman-tibbiyeliler-aniti"
 description: "## Kahraman Tıbbiyeliler Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0238247,41.0057411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kahraman Tıbbiyeliler Anıtı

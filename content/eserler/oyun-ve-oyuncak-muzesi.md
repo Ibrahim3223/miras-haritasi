@@ -1,18 +1,17 @@
 ---
-title: "Oyun ve Oyuncak Müzesi | Miras Haritası"
-date: 2025-12-25T03:55:11+03:00
+title: "Oyun ve Oyuncak Müzesi"
+date: "2025-12-25T03:55:11+03:00"
 slug: "oyun-ve-oyuncak-muzesi"
 description: "## Oyun ve Oyuncak Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.3773,37.0614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oyun ve Oyuncak Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Armene | Miras Haritası"
-date: 2025-12-25T08:28:06+03:00
+title: "Armene"
+date: "2025-12-25T08:28:06+03:00"
 slug: "armene"
 description: "## Armene: Sinop'un Gizli Harikası..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.041878,42.049231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Armene: Sinop'un Gizli Harikası

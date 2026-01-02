@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Salih Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:27+03:00
+title: "Şeyh Salih Efendi Türbesi"
+date: "2025-12-25T14:26:27+03:00"
 slug: "seyh-salih-efendi-turbesi"
 description: "## Şeyh Salih Efendi Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.978176,39.420428"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Salih Efendi Türbesi

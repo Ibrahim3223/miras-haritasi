@@ -1,18 +1,17 @@
 ---
-title: "Bakırköy Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:37+03:00
+title: "Bakırköy Sinagogu"
+date: "2025-12-25T16:13:37+03:00"
 slug: "bakirkoy-sinagogu"
 description: "# Bakırköy Sinagogu..."
 featured_image: ""
-province: "Bakırköy"
-iller: ["Bakırköy"]
-district: "Zeytinlik"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bakırköy"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.870922453,40.978284715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bakırköy Sinagogu

@@ -1,18 +1,17 @@
 ---
-title: "Günyayla Şiker Camii | Miras Haritası"
-date: 2025-12-25T00:15:01+03:00
+title: "Günyayla Şiker Camii"
+date: "2025-12-25T00:15:01+03:00"
 slug: "gunyayla-siker-camii"
 description: "## Günyayla Şiker Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5270654,40.8106038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Günyayla Şiker Camii: Artvin'in Gizli Cenneti

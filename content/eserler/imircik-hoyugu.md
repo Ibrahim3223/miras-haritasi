@@ -1,18 +1,17 @@
 ---
-title: "İmircik Höyüğü | Miras Haritası"
-date: 2025-12-25T06:30:25+03:00
+title: "İmircik Höyüğü"
+date: "2025-12-25T06:30:25+03:00"
 slug: "imircik-hoyugu"
 description: "**İmircik Höyüğü: Konya'nın Gizli Öyküsü**..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Kadınhanı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.2022583,38.4775814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İmircik Höyüğü: Konya'nın Gizli Öyküsü**

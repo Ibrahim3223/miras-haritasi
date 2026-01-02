@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Saray Koleksiyonları Müzesi | Miras Haritası"
-date: 2025-12-25T03:40:22+03:00
+title: "İstanbul Saray Koleksiyonları Müzesi"
+date: "2025-12-25T03:40:22+03:00"
 slug: "istanbul-saray-koleksiyonlari-muzesi"
 description: "## İstanbul Saray Koleksiyonları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Istanbul_saray_koleksiyonları_müzesi.jpg/1200px-Istanbul_saray_koleksiyonları_müzesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.00406254,41.041251887"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İstanbul Saray Koleksiyonları Müzesi

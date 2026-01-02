@@ -1,18 +1,17 @@
 ---
-title: "Körmen Höyük | Miras Haritası"
-date: 2025-12-25T06:41:45+03:00
+title: "Körmen Höyük"
+date: "2025-12-25T06:41:45+03:00"
 slug: "kormen-hoyuk"
 description: "## Körmen Höyük: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.6988717,39.3876188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Körmen Höyük: Tarihî ve Kültürel Bir Miras

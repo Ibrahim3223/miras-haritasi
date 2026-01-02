@@ -1,18 +1,17 @@
 ---
-title: "Gercin Höyük | Miras Haritası"
-date: 2025-12-25T06:12:53+03:00
+title: "Gercin Höyük"
+date: "2025-12-25T06:12:53+03:00"
 slug: "gercin-hoyuk"
 description: "## Gercin Höyük..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.7514229,37.1353493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gercin Höyük

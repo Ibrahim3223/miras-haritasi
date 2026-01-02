@@ -1,18 +1,17 @@
 ---
-title: "Sobuca Camii | Miras Haritası"
-date: 2025-12-24T23:05:04+03:00
+title: "Sobuca Camii"
+date: "2025-12-24T23:05:04+03:00"
 slug: "sobuca-camii"
 description: "## Sobuca Camii: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6797543,37.7619858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sobuca Camii: Aydın'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Mehmetçik Anıtı | Miras Haritası"
-date: 2025-12-25T15:40:42+03:00
+title: "Mehmetçik Anıtı"
+date: "2025-12-25T15:40:42+03:00"
 slug: "mehmetcik-aniti"
 description: "## Mehmetçik Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mehmetçik_Monument.jpg/1200px-Mehmetçik_Monument.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.0605,39.5747"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mehmetçik Anıtı

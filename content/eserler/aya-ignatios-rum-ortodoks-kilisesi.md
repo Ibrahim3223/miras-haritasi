@@ -1,18 +1,17 @@
 ---
-title: "Aya Ignatios Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:59+03:00
+title: "Aya Ignatios Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:26:59+03:00"
 slug: "aya-ignatios-rum-ortodoks-kilisesi"
 description: "## Aya Ignatios Rum Ortodoks Kilisesi: Kadıköy'ün Gizli Çehresinde Bir İhtişam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0476265,40.999176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Ignatios Rum Ortodoks Kilisesi: Kadıköy'ün Gizli Çehresinde Bir İhtişam

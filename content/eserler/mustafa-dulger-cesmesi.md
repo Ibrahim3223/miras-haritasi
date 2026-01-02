@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Dülger Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:30:29+03:00
+title: "Mustafa Dülger Çeşmesi"
+date: "2025-12-25T10:30:29+03:00"
 slug: "mustafa-dulger-cesmesi"
 description: "## Mustafa Dülger Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3753643,37.5872078"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Dülger Çeşmesi

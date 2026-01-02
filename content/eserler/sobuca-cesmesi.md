@@ -1,18 +1,17 @@
 ---
-title: "Sobuca Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:30:07+03:00
+title: "Sobuca Çeşmesi"
+date: "2025-12-25T10:30:07+03:00"
 slug: "sobuca-cesmesi"
 description: "## Sobuca Çeşmesi: Aydın'ın Değerli Mimari Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6737003,37.7652016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sobuca Çeşmesi: Aydın'ın Değerli Mimari Mirası

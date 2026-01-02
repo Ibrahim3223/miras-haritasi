@@ -1,18 +1,17 @@
 ---
-title: "İsa Baba Camii | Miras Haritası"
-date: 2025-12-24T23:36:49+03:00
+title: "İsa Baba Camii"
+date: "2025-12-24T23:36:49+03:00"
 slug: "isa-baba-camii"
 description: "### İsa Baba Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.3310814,41.307148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsa Baba Camii

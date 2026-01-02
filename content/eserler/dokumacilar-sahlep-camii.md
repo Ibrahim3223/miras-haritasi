@@ -1,18 +1,17 @@
 ---
-title: "Dokumacılar Sahlep Camii | Miras Haritası"
-date: 2025-12-25T01:03:46+03:00
+title: "Dokumacılar Sahlep Camii"
+date: "2025-12-25T01:03:46+03:00"
 slug: "dokumacilar-sahlep-camii"
 description: "## Dokumacılar Sahlep Camii: Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3857507,40.718228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokumacılar Sahlep Camii: Tarihi ve Kültür Mirası

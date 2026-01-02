@@ -1,18 +1,17 @@
 ---
-title: "Eşrefoğlu Süleyman Bey Türbesi | Miras Haritası"
-date: 2025-12-25T13:53:18+03:00
+title: "Eşrefoğlu Süleyman Bey Türbesi"
+date: "2025-12-25T13:53:18+03:00"
 slug: "esrefoglu-suleyman-bey-turbesi"
 description: "## Eşrefoğlu Süleyman Bey Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.718835773,37.683483466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eşrefoğlu Süleyman Bey Türbesi

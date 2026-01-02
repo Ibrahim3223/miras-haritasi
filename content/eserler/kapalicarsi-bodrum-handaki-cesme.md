@@ -1,18 +1,17 @@
 ---
-title: "Kapalıçarşı Bodrum Handaki Çeşme | Miras Haritası"
-date: 2025-12-25T11:22:59+03:00
+title: "Kapalıçarşı Bodrum Handaki Çeşme"
+date: "2025-12-25T11:22:59+03:00"
 slug: "kapalicarsi-bodrum-handaki-cesme"
 description: "## Kapalıçarşı Bodrum Handaki Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Beyazıt"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9665642,41.010231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapalıçarşı Bodrum Handaki Çeşme

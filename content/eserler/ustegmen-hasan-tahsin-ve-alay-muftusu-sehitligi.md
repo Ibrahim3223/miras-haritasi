@@ -1,18 +1,17 @@
 ---
-title: "Üsteğmen Hasan Tahsin ve Alay Müftüsü Şehitliği | Miras Haritası"
-date: 2025-12-25T16:04:21+03:00
+title: "Üsteğmen Hasan Tahsin ve Alay Müftüsü Şehitliği"
+date: "2025-12-25T16:04:21+03:00"
 slug: "ustegmen-hasan-tahsin-ve-alay-muftusu-sehitligi"
 description: "## Üsteğmen Hasan Tahsin ve Alay Müftüsü Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.324522,40.2822685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üsteğmen Hasan Tahsin ve Alay Müftüsü Şehitliği

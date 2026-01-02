@@ -1,18 +1,17 @@
 ---
-title: "Koimesis Tis Theotokos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:25+03:00
+title: "Koimesis Tis Theotokos Kilisesi"
+date: "2025-12-25T09:23:25+03:00"
 slug: "koimesis-tis-theotokos-kilisesi"
 description: "### Koimesis Tis Theotokos Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.7723503,40.1509743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koimesis Tis Theotokos Kilisesi

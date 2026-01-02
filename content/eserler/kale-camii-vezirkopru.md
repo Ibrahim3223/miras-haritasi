@@ -1,18 +1,17 @@
 ---
-title: "Kale Camii, Vezirköprü | Miras Haritası"
-date: 2025-12-24T23:22:37+03:00
+title: "Kale Camii, Vezirköprü"
+date: "2025-12-24T23:22:37+03:00"
 slug: "kale-camii-vezirkopru"
 description: "### Kale Camii, Vezirköprü..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Vezirköprü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4575462,41.1422653"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kale Camii, Vezirköprü

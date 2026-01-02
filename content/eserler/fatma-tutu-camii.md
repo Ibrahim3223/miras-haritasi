@@ -1,18 +1,17 @@
 ---
-title: "Fatma Tutu Camii | Miras Haritası"
-date: 2025-12-25T01:00:09+03:00
+title: "Fatma Tutu Camii"
+date: "2025-12-25T01:00:09+03:00"
 slug: "fatma-tutu-camii"
 description: "## Fatma Tutu Camii: Bursa'nın Gizemli Camisi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1691875,40.2238045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatma Tutu Camii: Bursa'nın Gizemli Camisi

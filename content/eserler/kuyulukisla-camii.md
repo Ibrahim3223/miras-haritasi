@@ -1,18 +1,17 @@
 ---
-title: "Kuyulukışla Camii | Miras Haritası"
-date: 2025-12-25T01:02:15+03:00
+title: "Kuyulukışla Camii"
+date: "2025-12-25T01:02:15+03:00"
 slug: "kuyulukisla-camii"
 description: "## Kuyulukışla Camii: Tarih ve Kültür Mirasının Gizli Çehresi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Kuyulukışla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.725571962,38.877737724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuyulukışla Camii: Tarih ve Kültür Mirasının Gizli Çehresi

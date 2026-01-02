@@ -1,18 +1,17 @@
 ---
-title: "Demirköy Camii | Miras Haritası"
-date: 2025-12-25T01:01:20+03:00
+title: "Demirköy Camii"
+date: "2025-12-25T01:01:20+03:00"
 slug: "demirkoy-camii"
 description: "## Demirköy Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.6768001,40.997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirköy Camii: Artvin'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Kurtbaba Höyüğü | Miras Haritası"
-date: 2025-12-25T06:32:48+03:00
+title: "Kurtbaba Höyüğü"
+date: "2025-12-25T06:32:48+03:00"
 slug: "kurtbaba-hoyugu"
 description: "## Kurtbaba Höyüğü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.5334552,38.4014358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurtbaba Höyüğü

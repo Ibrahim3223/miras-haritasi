@@ -1,18 +1,17 @@
 ---
-title: "Akmescit Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:34+03:00
+title: "Akmescit Camii Çeşmesi"
+date: "2025-12-25T10:33:34+03:00"
 slug: "akmescit-camii-cesmesi"
 description: "## Akmescit Camii Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8491688,37.8457794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akmescit Camii Çeşmesi

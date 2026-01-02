@@ -1,18 +1,17 @@
 ---
-title: "Sitti Sultan Camii | Miras Haritası"
-date: 2025-12-24T23:04:51+03:00
+title: "Sitti Sultan Camii"
+date: "2025-12-24T23:04:51+03:00"
 slug: "sitti-sultan-camii"
 description: "## Sitti Sultan Camii: Edirne'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sitti_Sultan_Camii_22.JPG/1200px-Sitti_Sultan_Camii_22.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5593834,41.6734581"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sitti Sultan Camii: Edirne'nin Gizli Cenneti

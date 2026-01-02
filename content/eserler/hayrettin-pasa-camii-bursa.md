@@ -1,18 +1,17 @@
 ---
-title: "Hayrettin Paşa Camii (Bursa) | Miras Haritası"
-date: 2025-12-25T00:31:12+03:00
+title: "Hayrettin Paşa Camii (Bursa)"
+date: "2025-12-25T00:31:12+03:00"
 slug: "hayrettin-pasa-camii-bursa"
 description: "## Hayrettin Paşa Camii: Bursa'nın Yüzyılın En İyisi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0667591,40.1851807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hayrettin Paşa Camii: Bursa'nın Yüzyılın En İyisi

@@ -1,18 +1,17 @@
 ---
-title: "Ulu Cami Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:27:58+03:00
+title: "Ulu Cami Çeşmesi, Arapgir"
+date: "2025-12-25T12:27:58+03:00"
 slug: "ulu-cami-cesmesi-arapgir"
 description: "### Ulu Cami Çeşmesi: Arapgir'in Ziyaretçi Cenneti..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.479132397,39.062074333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ulu Cami Çeşmesi: Arapgir'in Ziyaretçi Cenneti

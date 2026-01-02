@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahman Paşa Çeşmesi, Darende | Miras Haritası"
-date: 2025-12-25T12:29:07+03:00
+title: "Abdurrahman Paşa Çeşmesi, Darende"
+date: "2025-12-25T12:29:07+03:00"
 slug: "abdurrahman-pasa-cesmesi-darende"
 description: "## Abdurrahman Paşa Çeşmesi, Darende..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Darende"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.584658834,38.467767221"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdurrahman Paşa Çeşmesi, Darende

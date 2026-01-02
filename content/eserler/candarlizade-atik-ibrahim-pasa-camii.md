@@ -1,18 +1,17 @@
 ---
-title: "Çandarlızade Atik İbrahim Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:18:29+03:00
+title: "Çandarlızade Atik İbrahim Paşa Camii"
+date: "2025-12-24T22:18:29+03:00"
 slug: "candarlizade-atik-ibrahim-pasa-camii"
 description: "### Çandarlızade Atik İbrahim Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Çandarlızade_Atik_İbrahim_Pasha_Mosque_(3).jpg/1200px-Çandarlızade_Atik_İbrahim_Pasha_Mosque_(3).jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mercan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9681487,41.0147317"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çandarlızade Atik İbrahim Paşa Camii

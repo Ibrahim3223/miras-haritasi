@@ -1,18 +1,17 @@
 ---
-title: "Taşçılar Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:44:30+03:00
+title: "Taşçılar Merkez Camii"
+date: "2025-12-25T00:44:30+03:00"
 slug: "tascilar-merkez-camii"
 description: "## Taşçılar Merkez Camii: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Dernekpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2113,40.7719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşçılar Merkez Camii: Trabzon'un Tarihi Bir Mirası

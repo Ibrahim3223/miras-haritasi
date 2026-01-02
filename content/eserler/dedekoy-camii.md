@@ -1,18 +1,17 @@
 ---
-title: "Dedeköy Camii | Miras Haritası"
-date: 2025-12-24T22:34:13+03:00
+title: "Dedeköy Camii"
+date: "2025-12-24T22:34:13+03:00"
 slug: "dedekoy-camii"
 description: "## Dedeköy Camii: Denizli'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.7857323,38.2922516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedeköy Camii: Denizli'nin Tarihi Bir Mirası

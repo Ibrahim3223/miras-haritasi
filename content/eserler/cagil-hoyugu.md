@@ -1,18 +1,17 @@
 ---
-title: "Çağıl Höyüğü | Miras Haritası"
-date: 2025-12-25T06:13:53+03:00
+title: "Çağıl Höyüğü"
+date: "2025-12-25T06:13:53+03:00"
 slug: "cagil-hoyugu"
 description: "# Çağıl Höyüğü..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.678661404,37.122125263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çağıl Höyüğü

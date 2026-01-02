@@ -1,18 +1,17 @@
 ---
-title: "Dineksaray Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:12+03:00
+title: "Dineksaray Köprüsü"
+date: "2025-12-25T02:24:12+03:00"
 slug: "dineksaray-koprusu"
 description: "### Dineksaray Köprüsü: Türkiye'nin Eski Bir Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.6062248,37.3883233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dineksaray Köprüsü: Türkiye'nin Eski Bir Köprüsü

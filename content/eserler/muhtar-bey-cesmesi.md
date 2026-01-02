@@ -1,18 +1,17 @@
 ---
-title: "Muhtar Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:36+03:00
+title: "Muhtar Bey Çeşmesi"
+date: "2025-12-25T10:15:36+03:00"
 slug: "muhtar-bey-cesmesi"
 description: "## Muhtar Bey Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.423361,40.911546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muhtar Bey Çeşmesi

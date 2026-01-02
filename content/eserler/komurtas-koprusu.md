@@ -1,18 +1,17 @@
 ---
-title: "Kömürtaş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:40+03:00
+title: "Kömürtaş Köprüsü"
+date: "2025-12-25T02:40:40+03:00"
 slug: "komurtas-koprusu"
 description: "### Kömürtaş Köprüsü: Ergani'nin Efsanesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Ergani"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.7949753,38.2325363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kömürtaş Köprüsü: Ergani'nin Efsanesi

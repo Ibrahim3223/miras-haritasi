@@ -1,18 +1,17 @@
 ---
-title: "Sürekli Höyük | Miras Haritası"
-date: 2025-12-25T06:15:48+03:00
+title: "Sürekli Höyük"
+date: "2025-12-25T06:15:48+03:00"
 slug: "surekli-hoyuk"
 description: "## Sürekli Höyük: Tarihî ve Kültürel Değerlerin Kalesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.399067767,37.197963602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sürekli Höyük: Tarihî ve Kültürel Değerlerin Kalesi

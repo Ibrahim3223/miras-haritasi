@@ -1,18 +1,17 @@
 ---
-title: "UEFA Kupası Anıtı | Miras Haritası"
-date: 2025-12-25T15:43:33+03:00
+title: "UEFA Kupası Anıtı"
+date: "2025-12-25T15:43:33+03:00"
 slug: "uefa-kupasi-aniti"
 description: "## UEFA Kupası Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/UEFA_Kupası_Anıtı.jpg/1200px-UEFA_Kupası_Anıtı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bahçelievler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## UEFA Kupası Anıtı

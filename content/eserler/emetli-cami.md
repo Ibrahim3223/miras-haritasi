@@ -1,18 +1,17 @@
 ---
-title: "Emetli Cami | Miras Haritası"
-date: 2025-12-24T22:34:59+03:00
+title: "Emetli Cami"
+date: "2025-12-24T22:34:59+03:00"
 slug: "emetli-cami"
 description: "## Emetli Cami..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.844635,38.9218903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emetli Cami

@@ -1,18 +1,17 @@
 ---
-title: "Sultaniçe Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:07:51+03:00
+title: "Sultaniçe Köyü Camii"
+date: "2025-12-24T23:07:51+03:00"
 slug: "sultanice-koyu-camii"
 description: "## Sultaniçe Köyü Camii: Edirne'nin Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.1543922,40.625351"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultaniçe Köyü Camii: Edirne'nin Gizli Cenneti

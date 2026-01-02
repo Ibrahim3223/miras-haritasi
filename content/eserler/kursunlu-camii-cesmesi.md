@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:56+03:00
+title: "Kurşunlu Camii Çeşmesi"
+date: "2025-12-25T11:42:56+03:00"
 slug: "kursunlu-camii-cesmesi"
 description: "## Kurşunlu Camii Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2755203,39.9087257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Camii Çeşmesi

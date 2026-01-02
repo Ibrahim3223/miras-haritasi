@@ -1,18 +1,17 @@
 ---
-title: "Latife Hanım Köşkü Anı Evi | Miras Haritası"
-date: 2025-12-25T03:16:55+03:00
+title: "Latife Hanım Köşkü Anı Evi"
+date: "2025-12-25T03:16:55+03:00"
 slug: "latife-hanim-kosku-ani-evi"
 description: "### Latife Hanım Köşkü Anı Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Latife_Hanım_Köşkü_06.jpg/1200px-Latife_Hanım_Köşkü_06.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.1135,38.458388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Latife Hanım Köşkü Anı Evi

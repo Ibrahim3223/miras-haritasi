@@ -1,18 +1,17 @@
 ---
-title: "Çakırca Höyük | Miras Haritası"
-date: 2025-12-25T05:28:19+03:00
+title: "Çakırca Höyük"
+date: "2025-12-25T05:28:19+03:00"
 slug: "cakirca-hoyuk"
 description: "## Çakırca Höyük: İznik'in Gizli Tarihi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.685033,40.462683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakırca Höyük: İznik'in Gizli Tarihi

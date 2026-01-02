@@ -1,18 +1,17 @@
 ---
-title: "Bayındır Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:52+03:00
+title: "Bayındır Ermeni Kilisesi"
+date: "2025-12-25T08:50:52+03:00"
 slug: "bayindir-ermeni-kilisesi"
 description: "## Bayındır Ermeni Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.650222222,38.223111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayındır Ermeni Kilisesi

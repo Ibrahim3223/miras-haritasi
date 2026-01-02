@@ -1,18 +1,17 @@
 ---
-title: "Sarıçiçek Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:43:40+03:00
+title: "Sarıçiçek Köyü Camii"
+date: "2025-12-24T22:43:40+03:00"
 slug: "saricicek-koyu-camii"
 description: "### Sarıçiçek Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.8552475,40.4435768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarıçiçek Köyü Camii

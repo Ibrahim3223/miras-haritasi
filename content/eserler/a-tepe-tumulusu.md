@@ -1,18 +1,17 @@
 ---
-title: "A Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:16:44+03:00
+title: "A Tepe Tümülüsü"
+date: "2025-12-25T07:16:44+03:00"
 slug: "a-tepe-tumulusu"
 description: "## A Tepe Tümülüsü: İzmir'in Gizli Öreni..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.19285,39.11677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## A Tepe Tümülüsü: İzmir'in Gizli Öreni

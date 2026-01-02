@@ -1,18 +1,17 @@
 ---
-title: "Sultan I. Ahmet Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:36:49+03:00
+title: "Sultan I. Ahmet Çeşmesi"
+date: "2025-12-25T10:36:49+03:00"
 slug: "sultan-i-ahmet-cesmesi"
 description: "### Sultan I. Ahmet Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sultan_I._Ahmet_Çeşmesi_(2).jpg/1200px-Sultan_I._Ahmet_Çeşmesi_(2).jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9787583,41.0105333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sultan I. Ahmet Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Ahmetoluğu | Miras Haritası"
-date: 2025-12-25T03:01:46+03:00
+title: "Roma Köprüsü, Ahmetoluğu"
+date: "2025-12-25T03:01:46+03:00"
 slug: "roma-koprusu-ahmetolugu"
 description: "## Roma Köprüsü, Ahmetoluğu..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.03622,39.5046844"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Ahmetoluğu

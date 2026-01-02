@@ -1,18 +1,17 @@
 ---
-title: "Feridun Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:17:30+03:00
+title: "Feridun Paşa Camii"
+date: "2025-12-24T22:17:30+03:00"
 slug: "feridun-pasa-camii"
 description: "## Feridun Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Feridun_Paşa_Camii1,_Koşuyolu,_Kadıköy_2025.jpg/1200px-Feridun_Paşa_Camii1,_Koşuyolu,_Kadıköy_2025.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Koşuyolu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.033222222,41.0055"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Feridun Paşa Camii

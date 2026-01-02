@@ -1,18 +1,17 @@
 ---
-title: "III. Mehmed Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:26+03:00
+title: "III. Mehmed Türbesi"
+date: "2025-12-25T15:05:26+03:00"
 slug: "iii-mehmed-turbesi"
 description: "## III. Mehmed Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tomb_of_Sultan_Mehmed_III_-_14.JPG/1200px-Tomb_of_Sultan_Mehmed_III_-_14.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.979887,41.00779"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## III. Mehmed Türbesi

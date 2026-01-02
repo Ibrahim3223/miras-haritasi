@@ -1,18 +1,17 @@
 ---
-title: "İmam Hüsrev Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:30:44+03:00
+title: "İmam Hüsrev Baba Kabri"
+date: "2025-12-25T13:30:44+03:00"
 slug: "imam-husrev-baba-kabri"
 description: "## İmam Hüsrev Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9679565,41.0392799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmam Hüsrev Baba Kabri

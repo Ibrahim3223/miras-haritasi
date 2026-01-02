@@ -1,18 +1,17 @@
 ---
-title: "Tavşantepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:14:56+03:00
+title: "Tavşantepe Tümülüsü"
+date: "2025-12-25T07:14:56+03:00"
 slug: "tavsantepe-tumulusu"
 description: "## Tavşantepe Tümülüsü: İzmir'in Gizli İncisi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.19472,39.11514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavşantepe Tümülüsü: İzmir'in Gizli İncisi

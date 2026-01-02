@@ -1,18 +1,17 @@
 ---
-title: "Phaselis Küçük Hamam | Miras Haritası"
-date: 2025-12-25T17:14:20+03:00
+title: "Phaselis Küçük Hamam"
+date: "2025-12-25T17:14:20+03:00"
 slug: "phaselis-kucuk-hamam"
 description: "## Phaselis Küçük Hamamı: Antik Bir Evin İzleri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5523643,36.5239334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phaselis Küçük Hamamı: Antik Bir Evin İzleri

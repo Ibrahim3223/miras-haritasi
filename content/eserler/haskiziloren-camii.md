@@ -1,18 +1,17 @@
 ---
-title: "Haskızılören Camii | Miras Haritası"
-date: 2025-12-25T00:16:54+03:00
+title: "Haskızılören Camii"
+date: "2025-12-25T00:16:54+03:00"
 slug: "haskiziloren-camii"
 description: "## Haskızılören Camii: Serik'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.977993,37.293019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haskızılören Camii: Serik'in Tarihi Bir Mirası

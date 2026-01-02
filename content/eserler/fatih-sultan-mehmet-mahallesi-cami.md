@@ -1,18 +1,17 @@
 ---
-title: "Fatih Sultan Mehmet Mahallesi Cami | Miras Haritası"
-date: 2025-12-24T22:10:27+03:00
+title: "Fatih Sultan Mehmet Mahallesi Cami"
+date: "2025-12-24T22:10:27+03:00"
 slug: "fatih-sultan-mehmet-mahallesi-cami"
 description: "## Fatih Sultan Mehmet Mahallesi Cami: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Istanbul_Fatih_Sultan_Mehmet_Mahallesi_Mosque_1.jpg/1200px-Istanbul_Fatih_Sultan_Mehmet_Mahallesi_Mosque_1.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.03188,41.09321"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fatih Sultan Mehmet Mahallesi Cami: İstanbul'un Gizli Cenneti

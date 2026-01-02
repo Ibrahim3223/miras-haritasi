@@ -1,18 +1,17 @@
 ---
-title: "Eziniz Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:08+03:00
+title: "Eziniz Kalesi"
+date: "2025-12-25T01:37:08+03:00"
 slug: "eziniz-kalesi"
 description: "### Eziniz Kalesi: Tarihî Bir Yerleşim..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Tortum"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.2431374,40.4814835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eziniz Kalesi: Tarihî Bir Yerleşim

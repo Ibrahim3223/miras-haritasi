@@ -1,18 +1,17 @@
 ---
-title: "Çamlıbel Mahallesi Camii | Miras Haritası"
-date: 2025-12-25T00:39:38+03:00
+title: "Çamlıbel Mahallesi Camii"
+date: "2025-12-25T00:39:38+03:00"
 slug: "camlibel-mahallesi-camii"
 description: "## Çamlıbel Mahallesi Camii: Trabzon'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Çaykara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.226114363,40.681120382"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamlıbel Mahallesi Camii: Trabzon'un Gizli Çeşmesi

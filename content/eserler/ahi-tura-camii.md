@@ -1,18 +1,17 @@
 ---
-title: "Ahi Tura Camii | Miras Haritası"
-date: 2025-12-24T22:59:06+03:00
+title: "Ahi Tura Camii"
+date: "2025-12-24T22:59:06+03:00"
 slug: "ahi-tura-camii"
 description: "## Ahi Evran Camii (Ahi Tura Camii)..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8581886,39.9431"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Evran Camii (Ahi Tura Camii)

@@ -1,18 +1,17 @@
 ---
-title: "Hassek Höyük | Miras Haritası"
-date: 2025-12-25T07:09:10+03:00
+title: "Hassek Höyük"
+date: "2025-12-25T07:09:10+03:00"
 slug: "hassek-hoyuk"
 description: "## Hassek Höyük: Şanlıurfa'da Bir Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hassek Höyük: Şanlıurfa'da Bir Arkeolojik Sit

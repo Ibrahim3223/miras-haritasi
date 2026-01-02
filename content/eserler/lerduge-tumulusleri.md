@@ -1,18 +1,17 @@
 ---
-title: "Lerdüge Tümülüsleri | Miras Haritası"
-date: 2025-12-25T07:44:46+03:00
+title: "Lerdüge Tümülüsleri"
+date: "2025-12-25T07:44:46+03:00"
 slug: "lerduge-tumulusleri"
 description: "## Lerdüge Tümülüsleri..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Havza"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.6550026,40.9726868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lerdüge Tümülüsleri

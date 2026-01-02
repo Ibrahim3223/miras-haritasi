@@ -1,18 +1,17 @@
 ---
-title: "Mort Şimuni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:20:13+03:00
+title: "Mort Şimuni Kilisesi"
+date: "2025-12-25T09:20:13+03:00"
 slug: "mort-simuni-kilisesi"
 description: "## Mort Şimuni Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.7441826,37.3125648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mort Şimuni Kilisesi

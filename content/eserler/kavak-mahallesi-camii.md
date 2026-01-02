@@ -1,18 +1,17 @@
 ---
-title: "Kavak Mahallesi Camii | Miras Haritası"
-date: 2025-12-25T00:21:39+03:00
+title: "Kavak Mahallesi Camii"
+date: "2025-12-25T00:21:39+03:00"
 slug: "kavak-mahallesi-camii"
 description: "## Kavak Mahallesi Camii: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.016952079,41.050092853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavak Mahallesi Camii: Rize'nin Tarihi ve Kültürel Mirası

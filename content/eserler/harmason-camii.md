@@ -1,18 +1,17 @@
 ---
-title: "Harmason Camii | Miras Haritası"
-date: 2025-12-24T23:31:22+03:00
+title: "Harmason Camii"
+date: "2025-12-24T23:31:22+03:00"
 slug: "harmason-camii"
 description: "## Harmason Camii: Kastamonu'nun Gizli İncisi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Abana"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.9956894,41.9781036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harmason Camii: Kastamonu'nun Gizli İncisi

@@ -1,18 +1,17 @@
 ---
-title: "Hacı İshak Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:29:37+03:00
+title: "Hacı İshak Paşa Camii"
+date: "2025-12-24T23:29:37+03:00"
 slug: "haci-ishak-pasa-camii"
 description: "### Hacı İshak Paşa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8843689,40.3026199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı İshak Paşa Camii

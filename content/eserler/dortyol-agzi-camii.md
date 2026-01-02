@@ -1,18 +1,17 @@
 ---
-title: "Dörtyol Ağzı Camii | Miras Haritası"
-date: 2025-12-24T22:36:35+03:00
+title: "Dörtyol Ağzı Camii"
+date: "2025-12-24T22:36:35+03:00"
 slug: "dortyol-agzi-camii"
 description: "### Dörtyol Ağzı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dörtyol_ağzı_camii.jpg/1200px-Dörtyol_ağzı_camii.jpg"
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Kemaliye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.4951515,39.2622299"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Dörtyol Ağzı Camii

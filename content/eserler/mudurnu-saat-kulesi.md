@@ -1,18 +1,17 @@
 ---
-title: "Mudurnu Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:05+03:00
+title: "Mudurnu Saat Kulesi"
+date: "2025-12-25T17:19:05+03:00"
 slug: "mudurnu-saat-kulesi"
 description: "## Mudurnu Saat Kulesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bolu"
+province: "Bolu"
+iller: '["Bolu"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "31.212583333,40.464833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mudurnu Saat Kulesi

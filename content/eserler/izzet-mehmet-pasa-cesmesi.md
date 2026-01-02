@@ -1,18 +1,17 @@
 ---
-title: "İzzet Mehmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:51+03:00
+title: "İzzet Mehmet Paşa Çeşmesi"
+date: "2025-12-25T11:06:51+03:00"
 slug: "izzet-mehmet-pasa-cesmesi"
 description: "### İzzet Mehmet Paşa Çeşmesi..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Arnavutköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.042651,41.070313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İzzet Mehmet Paşa Çeşmesi

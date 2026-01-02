@@ -1,18 +1,17 @@
 ---
-title: "Seddülbahir Eski Cami | Miras Haritası"
-date: 2025-12-24T22:42:25+03:00
+title: "Seddülbahir Eski Cami"
+date: "2025-12-24T22:42:25+03:00"
 slug: "seddulbahir-eski-cami"
 description: "### Seddülbahir Eski Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.189064,40.042942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seddülbahir Eski Cami

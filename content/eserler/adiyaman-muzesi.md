@@ -1,18 +1,17 @@
 ---
-title: "Adıyaman Müzesi | Miras Haritası"
-date: 2025-12-25T03:09:02+03:00
+title: "Adıyaman Müzesi"
+date: "2025-12-25T03:09:02+03:00"
 slug: "adiyaman-muzesi"
 description: "## Adıyaman Müzesi: Tarih, Kültür ve Mirasın Tam Kaptanlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Museum_Adıyaman_Außenansicht.jpg/1200px-Museum_Adıyaman_Außenansicht.jpg"
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.27805556,37.76277778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Adıyaman Müzesi: Tarih, Kültür ve Mirasın Tam Kaptanlığı

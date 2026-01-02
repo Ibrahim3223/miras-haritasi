@@ -1,18 +1,17 @@
 ---
-title: "Çıplak Ada Kalesi | Miras Haritası"
-date: 2025-12-25T01:39:52+03:00
+title: "Çıplak Ada Kalesi"
+date: "2025-12-25T01:39:52+03:00"
 slug: "ciplak-ada-kalesi"
 description: "## Çıplak Ada Kalesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.598206,39.282925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çıplak Ada Kalesi

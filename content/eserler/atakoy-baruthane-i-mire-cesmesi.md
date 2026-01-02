@@ -1,18 +1,17 @@
 ---
-title: "Ataköy Baruthane-i Âmire Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:45:09+03:00
+title: "Ataköy Baruthane-i Âmire Çeşmesi"
+date: "2025-12-25T11:45:09+03:00"
 slug: "atakoy-baruthane-i-mire-cesmesi"
 description: "## Ataköy Baruthane-i Âmire Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ataköy_Baruthane-i_Âmire_Çeşmesi_IMG_0156.jpg/1200px-Ataköy_Baruthane-i_Âmire_Çeşmesi_IMG_0156.jpg"
-province: "Bakırköy"
-iller: ["Bakırköy"]
-district: "Ataköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bakırköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.8587399,40.9742737"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ataköy Baruthane-i Âmire Çeşmesi

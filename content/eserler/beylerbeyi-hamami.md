@@ -1,18 +1,17 @@
 ---
-title: "Beylerbeyi Hamamı | Miras Haritası"
-date: 2025-12-25T16:23:55+03:00
+title: "Beylerbeyi Hamamı"
+date: "2025-12-25T16:23:55+03:00"
 slug: "beylerbeyi-hamami"
 description: "## Beylerbeyi Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Istanbul_-_Beylerbeyi_Hamam_-_20250405124951.jpg/1200px-Istanbul_-_Beylerbeyi_Hamam_-_20250405124951.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.045944444,41.044944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Beylerbeyi Hamamı

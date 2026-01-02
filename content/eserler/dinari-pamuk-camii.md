@@ -1,18 +1,17 @@
 ---
-title: "Dinari Pamuk Camii | Miras Haritası"
-date: 2025-12-25T00:40:21+03:00
+title: "Dinari Pamuk Camii"
+date: "2025-12-25T00:40:21+03:00"
 slug: "dinari-pamuk-camii"
 description: "## Dinari Pamuk Camii: Mardin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.738264,37.313221"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dinari Pamuk Camii: Mardin'in Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Milyon taşı | Miras Haritası"
-date: 2025-12-25T14:03:15+03:00
+title: "Milyon taşı"
+date: "2025-12-25T14:03:15+03:00"
 slug: "milyon-tasi"
 description: "## Milyon Taşı Anıtının Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Milion_2007.jpg/1200px-Milion_2007.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.978066,41.008043"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Milyon Taşı Anıtının Tarihi ve Kültürel Mirası

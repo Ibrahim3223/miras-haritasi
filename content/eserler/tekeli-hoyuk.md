@@ -1,18 +1,17 @@
 ---
-title: "Tekeli Höyük | Miras Haritası"
-date: 2025-12-25T06:12:48+03:00
+title: "Tekeli Höyük"
+date: "2025-12-25T06:12:48+03:00"
 slug: "tekeli-hoyuk"
 description: "### Tekeli Höyük: Kırşehir'in Gizli Ören Yeri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırşehir"
+province: "Kırşehir"
+iller: '["Kırşehir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2301712,38.9206085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tekeli Höyük: Kırşehir'in Gizli Ören Yeri

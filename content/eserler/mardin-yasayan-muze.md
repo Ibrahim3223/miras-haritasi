@@ -1,18 +1,17 @@
 ---
-title: "Mardin Yaşayan Müze | Miras Haritası"
-date: 2025-12-25T04:00:40+03:00
+title: "Mardin Yaşayan Müze"
+date: "2025-12-25T04:00:40+03:00"
 slug: "mardin-yasayan-muze"
 description: "## Mardin Yaşayan Müze..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.7416208,37.314330353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mardin Yaşayan Müze

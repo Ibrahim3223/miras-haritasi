@@ -1,18 +1,17 @@
 ---
-title: "Veysel Karani Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:18+03:00
+title: "Veysel Karani Türbesi"
+date: "2025-12-25T14:34:18+03:00"
 slug: "veysel-karani-turbesi"
 description: "## Veysel Karani Türbesi..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Baykan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.7158987,38.1314264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veysel Karani Türbesi

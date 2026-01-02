@@ -1,18 +1,17 @@
 ---
-title: "Germanicia | Miras Haritası"
-date: 2025-12-25T04:32:15+03:00
+title: "Germanicia"
+date: "2025-12-25T04:32:15+03:00"
 slug: "germanicia"
 description: "## Germanicia: Kahramanmaraş'ın Tarihî Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.945611111,37.576111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Germanicia: Kahramanmaraş'ın Tarihî Mirası

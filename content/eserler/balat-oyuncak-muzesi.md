@@ -1,18 +1,17 @@
 ---
-title: "Balat Oyuncak Müzesi | Miras Haritası"
-date: 2025-12-25T03:47:22+03:00
+title: "Balat Oyuncak Müzesi"
+date: "2025-12-25T03:47:22+03:00"
 slug: "balat-oyuncak-muzesi"
 description: "### Balat Oyuncak Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Müze-önü-fotoğrafı_01.jpg/1200px-Müze-önü-fotoğrafı_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Balat Oyuncak Müzesi

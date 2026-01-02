@@ -1,18 +1,17 @@
 ---
-title: "Maden Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:11+03:00
+title: "Maden Dede Türbesi"
+date: "2025-12-25T14:53:11+03:00"
 slug: "maden-dede-turbesi"
 description: "## Maden Dede Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7715874,41.3770218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maden Dede Türbesi

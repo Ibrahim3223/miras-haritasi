@@ -1,18 +1,17 @@
 ---
-title: "Kybeleia | Miras Haritası"
-date: 2025-12-25T04:56:07+03:00
+title: "Kybeleia"
+date: "2025-12-25T04:56:07+03:00"
 slug: "kybeleia"
 description: "## Kybeleia: İzmir'in Gizli Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karaburun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.358056,38.610607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kybeleia: İzmir'in Gizli Harikası

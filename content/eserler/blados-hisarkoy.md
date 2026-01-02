@@ -1,18 +1,17 @@
 ---
-title: "Blados, Hisarköy | Miras Haritası"
-date: 2025-12-25T08:32:28+03:00
+title: "Blados, Hisarköy"
+date: "2025-12-25T08:32:28+03:00"
 slug: "blados-hisarkoy"
 description: "## Blados, Hisarköy: Bigadiç'in Gizli Arkeolojik Şehri..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bigadiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.293529,39.427508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Blados, Hisarköy: Bigadiç'in Gizli Arkeolojik Şehri

@@ -1,18 +1,17 @@
 ---
-title: "Ağalar Camii, Serinhisar | Miras Haritası"
-date: 2025-12-25T00:30:11+03:00
+title: "Ağalar Camii, Serinhisar"
+date: "2025-12-25T00:30:11+03:00"
 slug: "agalar-camii-serinhisar"
 description: "## Ağalar Camii: Serinhisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Serinhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2599888,37.5773735"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağalar Camii: Serinhisar'ın Tarihi Bir Mirası

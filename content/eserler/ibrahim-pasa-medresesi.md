@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:39:28+03:00
+title: "İbrahim Paşa Medresesi"
+date: "2025-12-25T17:39:28+03:00"
 slug: "ibrahim-pasa-medresesi"
 description: "## İbrahim Paşa Medresesi: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.974226,41.0131569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Paşa Medresesi: Tarihi ve Kültürel Mirası

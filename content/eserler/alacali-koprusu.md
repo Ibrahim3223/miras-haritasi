@@ -1,18 +1,17 @@
 ---
-title: "Alacalı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:20:05+03:00
+title: "Alacalı Köprüsü"
+date: "2025-12-25T02:20:05+03:00"
 slug: "alacali-koprusu"
 description: "### Alacalı Köprüsü..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Doğubayazıt"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "44.1572952,39.5677528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alacalı Köprüsü

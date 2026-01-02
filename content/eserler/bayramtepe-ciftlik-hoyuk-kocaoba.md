@@ -1,18 +1,17 @@
 ---
-title: "Bayramtepe Çiftlik Höyük, Kocaoba | Miras Haritası"
-date: 2025-12-25T05:52:55+03:00
+title: "Bayramtepe Çiftlik Höyük, Kocaoba"
+date: "2025-12-25T05:52:55+03:00"
 slug: "bayramtepe-ciftlik-hoyuk-kocaoba"
 description: "## Bayramtepe Çiftlik Höyük: Dikili'nin Gizli Öztürkçesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9926564,39.065984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayramtepe Çiftlik Höyük: Dikili'nin Gizli Öztürkçesi

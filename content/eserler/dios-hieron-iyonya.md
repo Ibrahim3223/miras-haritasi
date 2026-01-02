@@ -1,18 +1,17 @@
 ---
-title: "Dios Hieron (İyonya) | Miras Haritası"
-date: 2025-12-25T04:38:45+03:00
+title: "Dios Hieron (İyonya)"
+date: "2025-12-25T04:38:45+03:00"
 slug: "dios-hieron-iyonya"
 description: "## Dios Hieron (İyonya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.08106,38.029393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dios Hieron (İyonya)

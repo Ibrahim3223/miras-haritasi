@@ -1,18 +1,17 @@
 ---
-title: "Gümüşkol Köyü Çeşme 2 | Miras Haritası"
-date: 2025-12-25T10:21:45+03:00
+title: "Gümüşkol Köyü Çeşme 2"
+date: "2025-12-25T10:21:45+03:00"
 slug: "gumuskol-koyu-cesme-2"
 description: "## Gümüşkol Köyü Çeşme 2: Ülkemizin Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1631184,38.4690208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüşkol Köyü Çeşme 2: Ülkemizin Kültürel Mirasının Bir Parçası

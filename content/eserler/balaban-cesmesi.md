@@ -1,18 +1,17 @@
 ---
-title: "Balaban Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:47+03:00
+title: "Balaban Çeşmesi"
+date: "2025-12-25T10:45:47+03:00"
 slug: "balaban-cesmesi"
 description: "## Balaban Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.5420437,39.4495087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balaban Çeşmesi

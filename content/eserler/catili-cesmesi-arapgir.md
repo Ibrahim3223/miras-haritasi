@@ -1,18 +1,17 @@
 ---
-title: "Çatılı Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:25:12+03:00
+title: "Çatılı Çeşmesi, Arapgir"
+date: "2025-12-25T12:25:12+03:00"
 slug: "catili-cesmesi-arapgir"
 description: "### Çatılı Çeşmesi: Arapgir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.624744113,39.076902252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çatılı Çeşmesi: Arapgir'in Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Tunceli Müzesi | Miras Haritası"
-date: 2025-12-25T03:43:25+03:00
+title: "Tunceli Müzesi"
+date: "2025-12-25T03:43:25+03:00"
 slug: "tunceli-muzesi"
 description: "## Tunceli Müzesi: Doğu Anadolu'nun Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Tunceli"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.5478096,39.104229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tunceli Müzesi: Doğu Anadolu'nun Değerli Kültürel Mirası

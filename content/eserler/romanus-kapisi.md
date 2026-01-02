@@ -1,18 +1,17 @@
 ---
-title: "Romanus Kapısı | Miras Haritası"
-date: 2025-12-25T13:18:47+03:00
+title: "Romanus Kapısı"
+date: "2025-12-25T13:18:47+03:00"
 slug: "romanus-kapisi"
 description: "### Romanus Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Rom_kap_splj.jpg/1200px-Rom_kap_splj.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.926297,41.021655"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Romanus Kapısı

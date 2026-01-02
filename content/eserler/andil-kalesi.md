@@ -1,18 +1,17 @@
 ---
-title: "Andıl Kalesi | Miras Haritası"
-date: 2025-12-25T01:19:11+03:00
+title: "Andıl Kalesi"
+date: "2025-12-25T01:19:11+03:00"
 slug: "andil-kalesi"
 description: "### Andıl Kalesi: Kozan'ın Tarihi Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.7999992,37.5841827"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Andıl Kalesi: Kozan'ın Tarihi Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Düzlen | Miras Haritası"
-date: 2025-12-25T02:53:12+03:00
+title: "Roma Köprüsü, Düzlen"
+date: "2025-12-25T02:53:12+03:00"
 slug: "roma-koprusu-duzlen"
 description: "### Roma Köprüsü, Düzlen..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.1420262,38.7575811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Düzlen

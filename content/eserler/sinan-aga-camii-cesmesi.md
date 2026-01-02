@@ -1,18 +1,17 @@
 ---
-title: "Sinan Ağa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:39+03:00
+title: "Sinan Ağa Camii Çeşmesi"
+date: "2025-12-25T11:06:39+03:00"
 slug: "sinan-aga-camii-cesmesi"
 description: "## Sinan Ağa Camii Çeşmesi: Beykoz'un Tarihî Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0972919,41.1196747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Ağa Camii Çeşmesi: Beykoz'un Tarihî Çeşmesi

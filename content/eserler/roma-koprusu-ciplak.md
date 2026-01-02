@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Çıplak | Miras Haritası"
-date: 2025-12-25T02:50:03+03:00
+title: "Roma Köprüsü, Çıplak"
+date: "2025-12-25T02:50:03+03:00"
 slug: "roma-koprusu-ciplak"
 description: "## Roma Köprüsü, Çıplak: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.261286304,39.927022329"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Çıplak: Çanakkale'nin Gizli Cenneti

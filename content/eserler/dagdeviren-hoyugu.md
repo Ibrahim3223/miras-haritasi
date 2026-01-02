@@ -1,18 +1,17 @@
 ---
-title: "Dağdeviren Höyüğü | Miras Haritası"
-date: 2025-12-25T06:04:51+03:00
+title: "Dağdeviren Höyüğü"
+date: "2025-12-25T06:04:51+03:00"
 slug: "dagdeviren-hoyugu"
 description: "**Dağdeviren Höyüğü: Manisa'nın Gizemli Arkeolojik Sit**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7947674,38.9040184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Dağdeviren Höyüğü: Manisa'nın Gizemli Arkeolojik Sit**

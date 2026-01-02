@@ -1,18 +1,17 @@
 ---
-title: "Mardin Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:20+03:00
+title: "Mardin Müzesi"
+date: "2025-12-25T03:28:20+03:00"
 slug: "mardin-muzesi"
 description: "# Mardin Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mardin_P1050137_20080426105032.JPG/1200px-Mardin_P1050137_20080426105032.JPG"
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.068055555,37.313611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Mardin Müzesi

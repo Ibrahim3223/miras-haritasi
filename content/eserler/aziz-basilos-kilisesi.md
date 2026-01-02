@@ -1,18 +1,17 @@
 ---
-title: "Aziz Basilos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:11:12+03:00
+title: "Aziz Basilos Kilisesi"
+date: "2025-12-25T09:11:12+03:00"
 slug: "aziz-basilos-kilisesi"
 description: "### Aziz Basilos Kilisesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.897947,38.59"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aziz Basilos Kilisesi

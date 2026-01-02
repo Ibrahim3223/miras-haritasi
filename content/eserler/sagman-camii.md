@@ -1,18 +1,17 @@
 ---
-title: "Sağman Camii | Miras Haritası"
-date: 2025-12-24T22:40:12+03:00
+title: "Sağman Camii"
+date: "2025-12-24T22:40:12+03:00"
 slug: "sagman-camii"
 description: "## Sağman Camii..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Pertek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.2975578,38.9189072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sağman Camii

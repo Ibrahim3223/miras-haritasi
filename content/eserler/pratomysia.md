@@ -1,18 +1,17 @@
 ---
-title: "Pratomysia | Miras Haritası"
-date: 2025-12-25T04:48:00+03:00
+title: "Pratomysia"
+date: "2025-12-25T04:48:00+03:00"
 slug: "pratomysia"
 description: "## Pratomysia: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.343911,40.611226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pratomysia: Tarihi ve Kültürel Mirasın Gizemi

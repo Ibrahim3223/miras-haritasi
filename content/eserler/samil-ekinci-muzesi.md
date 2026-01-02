@@ -1,18 +1,17 @@
 ---
-title: "Şamil Ekinci Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:26+03:00
+title: "Şamil Ekinci Müzesi"
+date: "2025-12-25T03:19:26+03:00"
 slug: "samil-ekinci-muzesi"
 description: "## Şamil Ekinci Müzesi Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Samilekincimuzesi.JPG/1200px-Samilekincimuzesi.JPG"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Trabzon"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.72782,41.00614"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şamil Ekinci Müzesi Tanıtımı

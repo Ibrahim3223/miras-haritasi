@@ -1,18 +1,17 @@
 ---
-title: "Hamza Baba Camii, Kırklareli | Miras Haritası"
-date: 2025-12-25T00:41:50+03:00
+title: "Hamza Baba Camii, Kırklareli"
+date: "2025-12-25T00:41:50+03:00"
 slug: "hamza-baba-camii-kirklareli"
 description: "# Hamza Baba Camii, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.228153948,41.739122084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamza Baba Camii, Kırklareli

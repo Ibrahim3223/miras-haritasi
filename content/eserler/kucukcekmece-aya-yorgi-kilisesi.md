@@ -1,18 +1,17 @@
 ---
-title: "Küçükçekmece Aya Yorgi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:35+03:00
+title: "Küçükçekmece Aya Yorgi Kilisesi"
+date: "2025-12-25T09:27:35+03:00"
 slug: "kucukcekmece-aya-yorgi-kilisesi"
 description: "### Küçükçekmece Aya Yorgi Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.7712173,40.9901161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küçükçekmece Aya Yorgi Kilisesi: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Darülkurrası | Miras Haritası"
-date: 2025-12-25T17:38:13+03:00
+title: "Kütahya Darülkurrası"
+date: "2025-12-25T17:38:13+03:00"
 slug: "kutahya-darulkurrasi"
 description: "## Kütahya Darülkurrası: Geçmişten Geleceğe Uzanan Bir Medrese..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.979929,39.4198914"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kütahya Darülkurrası: Geçmişten Geleceğe Uzanan Bir Medrese

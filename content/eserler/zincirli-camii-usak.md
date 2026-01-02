@@ -1,18 +1,17 @@
 ---
-title: "Zincirli Camii, Uşak | Miras Haritası"
-date: 2025-12-24T23:21:13+03:00
+title: "Zincirli Camii, Uşak"
+date: "2025-12-24T23:21:13+03:00"
 slug: "zincirli-camii-usak"
 description: "## Zincirli Camii, Uşak..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4028263,38.6781807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zincirli Camii, Uşak

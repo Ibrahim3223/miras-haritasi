@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Yanık Kale, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:47:55+03:00
+title: "Hamidiye Yanık Kale, Kırklareli"
+date: "2025-12-25T01:47:55+03:00"
 slug: "hamidiye-yanik-kale-kirklareli"
 description: "## Hamidiye Yanık Kale..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.9608574,41.6838989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Yanık Kale

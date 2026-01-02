@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Kozdere | Miras Haritası"
-date: 2025-12-25T10:32:26+03:00
+title: "Çeşme – Kozdere"
+date: "2025-12-25T10:32:26+03:00"
 slug: "cesme-kozdere"
 description: "## Çeşme – Kozdere: Aydın'ın Doğal Güzelliğini Yansıtan Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4694614,37.9921646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Kozdere: Aydın'ın Doğal Güzelliğini Yansıtan Bir Çeşme

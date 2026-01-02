@@ -1,18 +1,17 @@
 ---
-title: "İlyakut Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:37:50+03:00
+title: "İlyakut Köyü Camii"
+date: "2025-12-24T23:37:50+03:00"
 slug: "ilyakut-koyu-camii"
 description: "## İlyakut Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4918671,40.067009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlyakut Köyü Camii: Ankara'nın Gizli Cenneti

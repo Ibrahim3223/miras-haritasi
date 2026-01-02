@@ -1,18 +1,17 @@
 ---
-title: "Aydın Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:18+03:00
+title: "Aydın Baba Türbesi"
+date: "2025-12-25T14:18:18+03:00"
 slug: "aydin-baba-turbesi"
 description: "## Aydın Baba Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.38817,37.056962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aydın Baba Türbesi

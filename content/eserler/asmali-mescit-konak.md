@@ -1,18 +1,17 @@
 ---
-title: "Asmalı Mescit, Konak | Miras Haritası"
-date: 2025-12-25T00:46:40+03:00
+title: "Asmalı Mescit, Konak"
+date: "2025-12-25T00:46:40+03:00"
 slug: "asmali-mescit-konak"
 description: "## Asmalı Mescit: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1357231,38.4166718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asmalı Mescit: Tarihi ve Kültürel Miras

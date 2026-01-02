@@ -1,18 +1,17 @@
 ---
-title: "Conkbayırı Atatürk Zafer Anıtı | Miras Haritası"
-date: 2025-12-25T14:13:29+03:00
+title: "Conkbayırı Atatürk Zafer Anıtı"
+date: "2025-12-25T14:13:29+03:00"
 slug: "conkbayiri-ataturk-zafer-aniti"
 description: "### Conkbayırı Atatürk Zafer Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Statue_of_Mustafa_Kemal_at_Chunuk_Bair.jpg/1200px-Statue_of_Mustafa_Kemal_at_Chunuk_Bair.jpg"
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.308379,40.252375"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Conkbayırı Atatürk Zafer Anıtı

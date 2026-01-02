@@ -1,18 +1,17 @@
 ---
-title: "Tepeyolu Höyüğü | Miras Haritası"
-date: 2025-12-25T06:45:24+03:00
+title: "Tepeyolu Höyüğü"
+date: "2025-12-25T06:45:24+03:00"
 slug: "tepeyolu-hoyugu"
 description: "## Tepeyolu Höyüğü: Şanlıurfa'nın Eski Kenti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Viranşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.8911274,37.2301058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepeyolu Höyüğü: Şanlıurfa'nın Eski Kenti

@@ -1,18 +1,17 @@
 ---
-title: "Kavacık Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:01:41+03:00
+title: "Kavacık Tümülüsü"
+date: "2025-12-25T08:01:41+03:00"
 slug: "kavacik-tumulusu"
 description: "## Kavacık Tümülüsü: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6735039,41.1856613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavacık Tümülüsü: Edirne'nin Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Aralık Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:15:51+03:00
+title: "Aralık Köyü Camii"
+date: "2025-12-24T22:15:51+03:00"
 slug: "aralik-koyu-camii"
 description: "## Aralık Köyü Camii: Eynesil'deki bir Klasik Örnek..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Eynesil"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.116594,41.038341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aralık Köyü Camii: Eynesil'deki bir Klasik Örnek

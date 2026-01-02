@@ -1,18 +1,17 @@
 ---
-title: "Kadı Mürsel Camii | Miras Haritası"
-date: 2025-12-24T23:38:48+03:00
+title: "Kadı Mürsel Camii"
+date: "2025-12-24T23:38:48+03:00"
 slug: "kadi-mursel-camii"
 description: "### Kadı Mürsel Camii: Konya'nın Gizli Çatısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4941139,37.8709183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadı Mürsel Camii: Konya'nın Gizli Çatısı

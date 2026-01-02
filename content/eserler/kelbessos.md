@@ -1,18 +1,17 @@
 ---
-title: "Kelbessos | Miras Haritası"
-date: 2025-12-25T05:40:45+03:00
+title: "Kelbessos"
+date: "2025-12-25T05:40:45+03:00"
 slug: "kelbessos"
 description: "## Kelbessos: Antik Çağın Gizli Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.43889,36.89532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kelbessos: Antik Çağın Gizli Harikası

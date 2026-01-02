@@ -1,18 +1,17 @@
 ---
-title: "Zeytinli Bahçe Camii | Miras Haritası"
-date: 2025-12-24T23:50:36+03:00
+title: "Zeytinli Bahçe Camii"
+date: "2025-12-24T23:50:36+03:00"
 slug: "zeytinli-bahce-camii"
 description: "## Zeytinli Bahçe Camii: İzmit'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9240856,40.7691727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeytinli Bahçe Camii: İzmit'in Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Örentepe Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:57+03:00
+title: "Örentepe Kilisesi"
+date: "2025-12-25T09:35:57+03:00"
 slug: "orentepe-kilisesi"
 description: "# Örentepe Kilisesi: Bucak'taki Bir Gizem..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.4864445,37.265461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Örentepe Kilisesi: Bucak'taki Bir Gizem

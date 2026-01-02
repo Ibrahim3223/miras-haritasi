@@ -1,18 +1,17 @@
 ---
-title: "Köprü 4, Bozdoğan | Miras Haritası"
-date: 2025-12-25T02:47:12+03:00
+title: "Köprü 4, Bozdoğan"
+date: "2025-12-25T02:47:12+03:00"
 slug: "kopru-4-bozdogan"
 description: "## Köprü 4, Bozdoğan: Aydın'ın Etkileyici Tarihi Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3097115,37.6744804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprü 4, Bozdoğan: Aydın'ın Etkileyici Tarihi Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kayacık Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:44:43+03:00
+title: "Kayacık Tümülüsü"
+date: "2025-12-25T07:44:43+03:00"
 slug: "kayacik-tumulusu"
 description: "# Kayacık Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1521626,41.9613724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kayacık Tümülüsü

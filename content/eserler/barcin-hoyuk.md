@@ -1,18 +1,17 @@
 ---
-title: "Barcın Höyük | Miras Haritası"
-date: 2025-12-25T07:06:36+03:00
+title: "Barcın Höyük"
+date: "2025-12-25T07:06:36+03:00"
 slug: "barcin-hoyuk"
 description: "# Barcın Höyük: Bursa'nın Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.6021,40.2666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Barcın Höyük: Bursa'nın Gizli Mirası

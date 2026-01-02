@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, Eskişehir | Miras Haritası"
-date: 2025-12-25T01:03:11+03:00
+title: "Kurşunlu Camii, Eskişehir"
+date: "2025-12-25T01:03:11+03:00"
 slug: "kursunlu-camii-eskisehir"
 description: "## Kurşunlu Camii: Eskişehir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.525826226,39.763049569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Camii: Eskişehir'in Tarihî Bir Mirası

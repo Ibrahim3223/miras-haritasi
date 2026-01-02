@@ -1,18 +1,17 @@
 ---
-title: "Akçalı Höyük | Miras Haritası"
-date: 2025-12-25T13:48:00+03:00
+title: "Akçalı Höyük"
+date: "2025-12-25T13:48:00+03:00"
 slug: "akcali-hoyuk"
 description: "# Akçalı Höyük..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.2705148,39.1987812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Akçalı Höyük

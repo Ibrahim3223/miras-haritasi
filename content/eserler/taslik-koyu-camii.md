@@ -1,18 +1,17 @@
 ---
-title: "Taşlık Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:42:45+03:00
+title: "Taşlık Köyü Camii"
+date: "2025-12-25T00:42:45+03:00"
 slug: "taslik-koyu-camii"
 description: "## Taşlık Köyü Camii: Kayseri'nin Tarihi ve Kültürel Mirasının Göz Alıcı Örneği..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Özvatan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.80256785,39.173441813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlık Köyü Camii: Kayseri'nin Tarihi ve Kültürel Mirasının Göz Alıcı Örneği

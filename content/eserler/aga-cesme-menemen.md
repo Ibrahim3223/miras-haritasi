@@ -1,18 +1,17 @@
 ---
-title: "Ağa Çeşme, Menemen | Miras Haritası"
-date: 2025-12-25T12:51:15+03:00
+title: "Ağa Çeşme, Menemen"
+date: "2025-12-25T12:51:15+03:00"
 slug: "aga-cesme-menemen"
 description: "## Ağa Çeşme, Menemen: Bir Çağdaş Örnek..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: ["Menemen (ilçe)"]
+iller: '["Menemen (ilçe)"]'
 district: "Menemen"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.0639019,38.6073341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağa Çeşme, Menemen: Bir Çağdaş Örnek

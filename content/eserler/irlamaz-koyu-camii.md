@@ -1,18 +1,17 @@
 ---
-title: "Irlamaz Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:33:39+03:00
+title: "Irlamaz Köyü Camii"
+date: "2025-12-24T23:33:39+03:00"
 slug: "irlamaz-koyu-camii"
 description: "### Irlamaz Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7097511,38.4603615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Irlamaz Köyü Camii

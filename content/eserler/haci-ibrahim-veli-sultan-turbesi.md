@@ -1,18 +1,17 @@
 ---
-title: "Hacı İbrahim Veli Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:35+03:00
+title: "Hacı İbrahim Veli Sultan Türbesi"
+date: "2025-12-25T15:32:35+03:00"
 slug: "haci-ibrahim-veli-sultan-turbesi"
 description: "## Hacı İbrahim Veli Sultan Türbesi: Akşehir'in Şifalı Sultansı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.424235,38.413976"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı İbrahim Veli Sultan Türbesi: Akşehir'in Şifalı Sultansı

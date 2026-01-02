@@ -1,18 +1,17 @@
 ---
-title: "Emoddi | Miras Haritası"
-date: 2025-12-25T05:41:21+03:00
+title: "Emoddi"
+date: "2025-12-25T05:41:21+03:00"
 slug: "emoddi"
 description: "## Emoddi Arkeolojik Sitinin Tanıtımı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.579284,38.673395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emoddi Arkeolojik Sitinin Tanıtımı

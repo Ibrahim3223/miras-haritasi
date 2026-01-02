@@ -1,18 +1,17 @@
 ---
-title: "Yarbaşı Camii | Miras Haritası"
-date: 2025-12-25T00:23:10+03:00
+title: "Yarbaşı Camii"
+date: "2025-12-25T00:23:10+03:00"
 slug: "yarbasi-camii"
 description: "## Yarbaşı Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7406474,40.9676042"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarbaşı Camii

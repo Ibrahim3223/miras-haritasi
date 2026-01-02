@@ -1,18 +1,17 @@
 ---
-title: "Koruköy Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:47:13+03:00
+title: "Koruköy Kalesi, Kırklareli"
+date: "2025-12-25T01:47:13+03:00"
 slug: "korukoy-kalesi-kirklareli"
 description: "# Koruköy Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3541546,41.8755341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Koruköy Kalesi, Kırklareli

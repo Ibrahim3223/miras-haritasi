@@ -1,18 +1,17 @@
 ---
-title: "Tophisar Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:40+03:00
+title: "Tophisar Kalesi"
+date: "2025-12-25T01:44:40+03:00"
 slug: "tophisar-kalesi"
 description: "**Tophisar Kalesi: Karacabey'in Yüzyıllar Önceki Tarihi**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.1704674,40.2239265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tophisar Kalesi: Karacabey'in Yüzyıllar Önceki Tarihi**

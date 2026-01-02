@@ -1,18 +1,17 @@
 ---
-title: "Merdivenli Medrese | Miras Haritası"
-date: 2025-12-25T17:43:04+03:00
+title: "Merdivenli Medrese"
+date: "2025-12-25T17:43:04+03:00"
 slug: "merdivenli-medrese"
 description: "## Merdivenli Medrese: İzmir'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.1422997,38.4192009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merdivenli Medrese: İzmir'in Tarihî Mirası

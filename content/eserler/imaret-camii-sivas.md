@@ -1,18 +1,17 @@
 ---
-title: "İmaret Camii, Sivas | Miras Haritası"
-date: 2025-12-25T00:27:20+03:00
+title: "İmaret Camii, Sivas"
+date: "2025-12-25T00:27:20+03:00"
 slug: "imaret-camii-sivas"
 description: "## İmaret Camii, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0227547,39.7419968"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmaret Camii, Sivas

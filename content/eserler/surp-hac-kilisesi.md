@@ -1,18 +1,17 @@
 ---
-title: "Surp Haç Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:22+03:00
+title: "Surp Haç Kilisesi"
+date: "2025-12-25T08:50:22+03:00"
 slug: "surp-hac-kilisesi"
 description: "## Surp Haç Kilisesi: İnceleme ve Tanıtım..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Surp_Hac_Kilisesi.jpg/1200px-Surp_Hac_Kilisesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.030601,41.024812"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Haç Kilisesi: İnceleme ve Tanıtım

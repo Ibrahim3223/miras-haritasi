@@ -1,18 +1,17 @@
 ---
-title: "Şurahbil Bin Hasene Camii | Miras Haritası"
-date: 2025-12-24T23:12:52+03:00
+title: "Şurahbil Bin Hasene Camii"
+date: "2025-12-24T23:12:52+03:00"
 slug: "surahbil-bin-hasene-camii"
 description: "# Şurahbil Bin Hasene Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.1229477,36.7225533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şurahbil Bin Hasene Camii

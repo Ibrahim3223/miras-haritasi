@@ -1,18 +1,17 @@
 ---
-title: "Belce Höyük | Miras Haritası"
-date: 2025-12-25T05:37:28+03:00
+title: "Belce Höyük"
+date: "2025-12-25T05:37:28+03:00"
 slug: "belce-hoyuk"
 description: "**Belce Höyük: Tarihî Mirasının Gizli Anıtı**..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Sivaslı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.556467,38.588783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Belce Höyük: Tarihî Mirasının Gizli Anıtı**

@@ -1,18 +1,17 @@
 ---
-title: "Zipoetium | Miras Haritası"
-date: 2025-12-25T04:34:12+03:00
+title: "Zipoetium"
+date: "2025-12-25T04:34:12+03:00"
 slug: "zipoetium"
 description: "## Zipoetium Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zipoetium Arkeolojik Sit

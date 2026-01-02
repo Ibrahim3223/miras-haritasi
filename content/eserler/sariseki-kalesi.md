@@ -1,18 +1,17 @@
 ---
-title: "Sarıseki Kalesi | Miras Haritası"
-date: 2025-12-25T01:30:07+03:00
+title: "Sarıseki Kalesi"
+date: "2025-12-25T01:30:07+03:00"
 slug: "sariseki-kalesi"
 description: "## Sarıseki Kalesi: Hatay'ın Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.219762633,36.659340729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıseki Kalesi: Hatay'ın Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Alemdar Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:31:11+03:00
+title: "Alemdar Baba Türbesi"
+date: "2025-12-25T15:31:11+03:00"
 slug: "alemdar-baba-turbesi"
 description: "**Alemdar Baba Türbesi: İstanbul'un Gizli Kahramanı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çekmeköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.2104454,41.0589676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Alemdar Baba Türbesi: İstanbul'un Gizli Kahramanı**

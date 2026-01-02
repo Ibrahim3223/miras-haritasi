@@ -1,18 +1,17 @@
 ---
-title: "Yanıklar Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:11:27+03:00
+title: "Yanıklar Sokak Çeşmesi"
+date: "2025-12-25T13:11:27+03:00"
 slug: "yaniklar-sokak-cesmesi"
 description: "### Yanıklar Sokak Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4688911,40.7368469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yanıklar Sokak Çeşmesi

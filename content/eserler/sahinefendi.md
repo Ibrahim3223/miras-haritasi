@@ -1,18 +1,17 @@
 ---
-title: "Şahinefendi | Miras Haritası"
-date: 2025-12-25T07:10:16+03:00
+title: "Şahinefendi"
+date: "2025-12-25T07:10:16+03:00"
 slug: "sahinefendi"
 description: "## Şahinefendi Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Sebastos_byzantinische_Kirche.JPG/1200px-Sebastos_byzantinische_Kirche.JPG"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.9475,38.471111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şahinefendi Arkeolojik Sit

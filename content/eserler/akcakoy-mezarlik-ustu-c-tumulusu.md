@@ -1,18 +1,17 @@
 ---
-title: "Akçaköy Mezarlık Üstü C Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:24:15+03:00
+title: "Akçaköy Mezarlık Üstü C Tümülüsü"
+date: "2025-12-25T07:24:15+03:00"
 slug: "akcakoy-mezarlik-ustu-c-tumulusu"
 description: "### Akçaköy Mezarlık Üstü C Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5742149,41.3712502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçaköy Mezarlık Üstü C Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Kerar Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:33+03:00
+title: "Kerar Kalesi"
+date: "2025-12-25T01:28:33+03:00"
 slug: "kerar-kalesi"
 description: "## Kerar Kalesi: Pütürge'nin Tarihî Ören Yeri..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Pütürge"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.8162193,38.2323494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kerar Kalesi: Pütürge'nin Tarihî Ören Yeri

@@ -1,18 +1,17 @@
 ---
-title: "Seslikaya Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:38:25+03:00
+title: "Seslikaya Köyü Camii"
+date: "2025-12-25T00:38:25+03:00"
 slug: "seslikaya-koyu-camii"
 description: "## Seslikaya Köyü Camii: Ardeşen'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.030764258,41.146675765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seslikaya Köyü Camii: Ardeşen'in Tarihi ve Kültürel Mirası

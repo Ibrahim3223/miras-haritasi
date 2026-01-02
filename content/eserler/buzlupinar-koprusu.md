@@ -1,18 +1,17 @@
 ---
-title: "Buzlupınar Köprüsü | Miras Haritası"
-date: 2025-12-25T03:05:14+03:00
+title: "Buzlupınar Köprüsü"
+date: "2025-12-25T03:05:14+03:00"
 slug: "buzlupinar-koprusu"
 description: "# Buzlupınar Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.7831232,41.0070695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Buzlupınar Köprüsü

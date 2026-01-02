@@ -1,18 +1,17 @@
 ---
-title: "Sinda (Pisidya) | Miras Haritası"
-date: 2025-12-25T04:39:45+03:00
+title: "Sinda (Pisidya)"
+date: "2025-12-25T04:39:45+03:00"
 slug: "sinda-pisidya"
 description: "## Sinda (Pisidya): Tarihinin Gizemi ve Mimarisinin Büyüklüğü..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Gölhisar (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.6045,37.120499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinda (Pisidya): Tarihinin Gizemi ve Mimarisinin Büyüklüğü

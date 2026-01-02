@@ -1,18 +1,17 @@
 ---
-title: "Muradiye Külliyesi Çeşmesi-1 | Miras Haritası"
-date: 2025-12-25T11:28:03+03:00
+title: "Muradiye Külliyesi Çeşmesi-1"
+date: "2025-12-25T11:28:03+03:00"
 slug: "muradiye-kulliyesi-cesmesi-1"
 description: "### Muradiye Külliyesi Çeşmesi-1: Manisa'nın Tarihi bir Simgesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4288158,38.610424"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muradiye Külliyesi Çeşmesi-1: Manisa'nın Tarihi bir Simgesi

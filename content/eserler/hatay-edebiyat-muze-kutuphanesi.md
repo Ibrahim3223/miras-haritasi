@@ -1,18 +1,17 @@
 ---
-title: "Hatay Edebiyat Müze Kütüphanesi | Miras Haritası"
-date: 2025-12-25T04:01:28+03:00
+title: "Hatay Edebiyat Müze Kütüphanesi"
+date: "2025-12-25T04:01:28+03:00"
 slug: "hatay-edebiyat-muze-kutuphanesi"
 description: "# Hatay Edebiyat Müze Kütüphanesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.16045674,36.199864561"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hatay Edebiyat Müze Kütüphanesi

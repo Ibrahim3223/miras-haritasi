@@ -1,18 +1,17 @@
 ---
-title: "Ebüssüade Hüseyin Ağa Camii | Miras Haritası"
-date: 2025-12-25T00:37:49+03:00
+title: "Ebüssüade Hüseyin Ağa Camii"
+date: "2025-12-25T00:37:49+03:00"
 slug: "ebussuade-huseyin-aga-camii"
 description: "## Ebüssüade Hüseyin Ağa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.96882,41.00953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebüssüade Hüseyin Ağa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Lala Baba Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:53:29+03:00
+title: "Lala Baba Mezarlığı"
+date: "2025-12-25T15:53:29+03:00"
 slug: "lala-baba-mezarligi"
 description: "## Lala Baba Mezarlığı..."
 featured_image: ""
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Küçükanafarta"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2397,40.29"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lala Baba Mezarlığı

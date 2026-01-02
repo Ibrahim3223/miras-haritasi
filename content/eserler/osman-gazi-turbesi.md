@@ -1,18 +1,17 @@
 ---
-title: "Osman Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T09:42:29+03:00
+title: "Osman Gazi Türbesi"
+date: "2025-12-25T09:42:29+03:00"
 slug: "osman-gazi-turbesi"
 description: "## Osman Gazi Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.05732,40.186759"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osman Gazi Türbesi

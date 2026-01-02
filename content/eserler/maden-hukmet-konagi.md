@@ -1,18 +1,17 @@
 ---
-title: "Maden Hükûmet Konağı | Miras Haritası"
-date: 2025-12-25T08:37:44+03:00
+title: "Maden Hükûmet Konağı"
+date: "2025-12-25T08:37:44+03:00"
 slug: "maden-hukmet-konagi"
 description: "### Maden Hükûmet Konağı..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Maden"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "39.666027777,38.393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Maden Hükûmet Konağı

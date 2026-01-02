@@ -1,18 +1,17 @@
 ---
-title: "Dicle Köprüsü | Miras Haritası"
-date: 2025-12-25T01:55:40+03:00
+title: "Dicle Köprüsü"
+date: "2025-12-25T01:55:40+03:00"
 slug: "dicle-koprusu"
 description: "## Dicle Köprüsü: Diyarbakır'ın Tarihî ve Kültürel Devleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dehderî.jpg/1200px-Dehderî.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.22882,37.88719"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dicle Köprüsü: Diyarbakır'ın Tarihî ve Kültürel Devleri

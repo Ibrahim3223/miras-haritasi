@@ -1,18 +1,17 @@
 ---
-title: "Zağnos Paşa Camii Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:40:16+03:00
+title: "Zağnos Paşa Camii Güneş Saati"
+date: "2025-12-25T13:40:16+03:00"
 slug: "zagnos-pasa-camii-gunes-saati"
 description: "## Zağnos Paşa Camii Güneş Saati: Balıkesir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.879773891,39.648435191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zağnos Paşa Camii Güneş Saati: Balıkesir'in Tarihi Bir Mirası

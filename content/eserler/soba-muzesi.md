@@ -1,18 +1,17 @@
 ---
-title: "Soba Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:30+03:00
+title: "Soba Müzesi"
+date: "2025-12-25T04:06:30+03:00"
 slug: "soba-muzesi"
 description: "## Soba Müzesi: Çamlıdere'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çamlıdere"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.4693451,40.4895897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soba Müzesi: Çamlıdere'nin Tarihi Bir Mirası

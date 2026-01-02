@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Sinan Camii | Miras Haritası"
-date: 2025-12-24T23:52:01+03:00
+title: "Şeyh Sinan Camii"
+date: "2025-12-24T23:52:01+03:00"
 slug: "seyh-sinan-camii"
 description: "### Şeyh Sinan Camii: Alaşehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.5185375,38.345047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Sinan Camii: Alaşehir'in Tarihi Bir Mirası

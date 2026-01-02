@@ -1,18 +1,17 @@
 ---
-title: "Gazi Süleyman Paşa Cami, Lapseki | Miras Haritası"
-date: 2025-12-25T00:05:36+03:00
+title: "Gazi Süleyman Paşa Cami, Lapseki"
+date: "2025-12-25T00:05:36+03:00"
 slug: "gazi-suleyman-pasa-cami-lapseki"
 description: "### Gazi Süleyman Paşa Cami, Lapseki..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Lapseki"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6856995,40.3438492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Süleyman Paşa Cami, Lapseki

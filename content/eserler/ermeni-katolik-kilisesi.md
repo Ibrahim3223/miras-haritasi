@@ -1,18 +1,17 @@
 ---
-title: "Ermeni Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T08:56:27+03:00
+title: "Ermeni Katolik Kilisesi"
+date: "2025-12-25T08:56:27+03:00"
 slug: "ermeni-katolik-kilisesi"
 description: "## Ermeni Katolik Kilisesi: Diyarbakır'ın Gizli Ölümsüzü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.2385938,37.908534"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ermeni Katolik Kilisesi: Diyarbakır'ın Gizli Ölümsüzü

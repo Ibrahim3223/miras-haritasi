@@ -1,18 +1,17 @@
 ---
-title: "Şerafettin Türbesi, Konya | Miras Haritası"
-date: 2025-12-25T13:57:12+03:00
+title: "Şerafettin Türbesi, Konya"
+date: "2025-12-25T13:57:12+03:00"
 slug: "serafettin-turbesi-konya"
 description: "## Şerafettin Türbesi, Konya..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4986839,37.8722076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şerafettin Türbesi, Konya

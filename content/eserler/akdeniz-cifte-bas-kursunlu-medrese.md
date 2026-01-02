@@ -1,18 +1,17 @@
 ---
-title: "Akdeniz Çifte Baş Kurşunlu Medrese | Miras Haritası"
-date: 2025-12-25T17:27:45+03:00
+title: "Akdeniz Çifte Baş Kurşunlu Medrese"
+date: "2025-12-25T17:27:45+03:00"
 slug: "akdeniz-cifte-bas-kursunlu-medrese"
 description: "# Akdeniz Çifte Baş Kurşunlı Medrese: İstanbul'un Gizli Öyküsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9487553,41.0189285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Akdeniz Çifte Baş Kurşunlı Medrese: İstanbul'un Gizli Öyküsü

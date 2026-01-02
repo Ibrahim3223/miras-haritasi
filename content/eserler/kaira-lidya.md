@@ -1,18 +1,17 @@
 ---
-title: "Kaira (Lidya) | Miras Haritası"
-date: 2025-12-25T05:05:20+03:00
+title: "Kaira (Lidya)"
+date: "2025-12-25T05:05:20+03:00"
 slug: "kaira-lidya"
 description: "## Kaira (Lidya) Arkeolojik Sitesi..."
 featured_image: ""
 province: "Tire (ilçe)"
-iller: ["Tire (ilçe)"]
+iller: '["Tire (ilçe)"]'
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.883825,38.089037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaira (Lidya) Arkeolojik Sitesi

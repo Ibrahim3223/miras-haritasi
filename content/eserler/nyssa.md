@@ -1,18 +1,17 @@
 ---
-title: "Nyssa | Miras Haritası"
-date: 2025-12-25T06:57:57+03:00
+title: "Nyssa"
+date: "2025-12-25T06:57:57+03:00"
 slug: "nyssa"
 description: "# Nyssa Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.959229,38.954295"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Nyssa Arkeolojik Sit

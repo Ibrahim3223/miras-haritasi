@@ -1,18 +1,17 @@
 ---
-title: "Pulur Höyük | Miras Haritası"
-date: 2025-12-25T06:41:37+03:00
+title: "Pulur Höyük"
+date: "2025-12-25T06:41:37+03:00"
 slug: "pulur-hoyuk"
 description: "## Pulur Höyük: Aziziye'nin Gizli Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Aziziye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.1308679,39.9073455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pulur Höyük: Aziziye'nin Gizli Mirası

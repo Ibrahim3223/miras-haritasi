@@ -1,18 +1,17 @@
 ---
-title: "Lala Mustafa Paşa Camii | Miras Haritası"
-date: 2025-12-25T00:00:29+03:00
+title: "Lala Mustafa Paşa Camii"
+date: "2025-12-25T00:00:29+03:00"
 slug: "lala-mustafa-pasa-camii"
 description: "## Lala Mustafa Paşa Camii..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ilgın"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.916214,38.2800522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lala Mustafa Paşa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Iasos Balık Pazarı Açık Hava Müzesi | Miras Haritası"
-date: 2025-12-25T04:00:04+03:00
+title: "Iasos Balık Pazarı Açık Hava Müzesi"
+date: "2025-12-25T04:00:04+03:00"
 slug: "iasos-balik-pazari-acik-hava-muzesi"
 description: "### Iasos Balık Pazarı Açık Hava Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.5829144,37.2816849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Iasos Balık Pazarı Açık Hava Müzesi

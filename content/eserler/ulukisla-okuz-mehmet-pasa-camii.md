@@ -1,18 +1,17 @@
 ---
-title: "Ulukışla Öküz Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:17:54+03:00
+title: "Ulukışla Öküz Mehmet Paşa Camii"
+date: "2025-12-24T23:17:54+03:00"
 slug: "ulukisla-okuz-mehmet-pasa-camii"
 description: "## Ulukışla Öküz Mehmet Paşa Camii..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Ulukışla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.4823341,37.5467072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulukışla Öküz Mehmet Paşa Camii

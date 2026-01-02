@@ -1,18 +1,17 @@
 ---
-title: "Kossuth Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:21:37+03:00
+title: "Kossuth Evi Müzesi"
+date: "2025-12-25T03:21:37+03:00"
 slug: "kossuth-evi-muzesi"
 description: "## Kossuth Evi Müzesi: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kossuth_Lajos_statue.JPG/1200px-Kossuth_Lajos_statue.JPG"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.987015,39.422624"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kossuth Evi Müzesi: Kütahya'nın Tarihi Bir Mirası

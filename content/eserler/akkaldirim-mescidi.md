@@ -1,18 +1,17 @@
 ---
-title: "Akkaldırım Mescidi | Miras Haritası"
-date: 2025-12-24T22:58:17+03:00
+title: "Akkaldırım Mescidi"
+date: "2025-12-24T22:58:17+03:00"
 slug: "akkaldirim-mescidi"
 description: "## Akkaldırım Mescidi: Bilecik'in Tarihsel Özelliklerini Barındıran Bir Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bilecik"
+province: "Bilecik"
+iller: '["Bilecik"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9821815,40.1423225"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akkaldırım Mescidi: Bilecik'in Tarihsel Özelliklerini Barındıran Bir Cami

@@ -1,18 +1,17 @@
 ---
-title: "Refia Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:13:31+03:00
+title: "Refia Hanım Çeşmesi"
+date: "2025-12-25T11:13:31+03:00"
 slug: "refia-hanim-cesmesi"
 description: "## Refia Hanım Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.947834,41.007562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Refia Hanım Çeşmesi

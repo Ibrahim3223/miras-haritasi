@@ -1,18 +1,17 @@
 ---
-title: "Kırım Savaşı Anıtı | Miras Haritası"
-date: 2025-12-25T15:49:43+03:00
+title: "Kırım Savaşı Anıtı"
+date: "2025-12-25T15:49:43+03:00"
 slug: "kirim-savasi-aniti"
 description: "## Kırım Savaşı Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0183563,41.0013046"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırım Savaşı Anıtı

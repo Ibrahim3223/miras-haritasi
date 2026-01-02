@@ -1,18 +1,17 @@
 ---
-title: "Spradon | Miras Haritası"
-date: 2025-12-25T05:24:20+03:00
+title: "Spradon"
+date: "2025-12-25T05:24:20+03:00"
 slug: "spradon"
 description: "### Spradon Arkeolojik Sit..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Avcılar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.7079105,41.0666428"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Spradon Arkeolojik Sit

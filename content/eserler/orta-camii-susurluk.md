@@ -1,18 +1,17 @@
 ---
-title: "Orta Camii (Susurluk) | Miras Haritası"
-date: 2025-12-25T00:27:12+03:00
+title: "Orta Camii (Susurluk)"
+date: "2025-12-25T00:27:12+03:00"
 slug: "orta-camii-susurluk"
 description: "## Orta Camii (Susurluk)..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Susurluk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1602669,39.9142952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Camii (Susurluk)

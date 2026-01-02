@@ -1,18 +1,17 @@
 ---
-title: "Alaybey Camii, Tire | Miras Haritası"
-date: 2025-12-24T23:19:07+03:00
+title: "Alaybey Camii, Tire"
+date: "2025-12-24T23:19:07+03:00"
 slug: "alaybey-camii-tire"
 description: "### Alaybey Camii: Tire'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7315845,38.0853157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alaybey Camii: Tire'nin Tarihi Bir Mirası

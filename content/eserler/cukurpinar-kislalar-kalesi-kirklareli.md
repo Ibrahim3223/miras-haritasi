@@ -1,18 +1,17 @@
 ---
-title: "Çukurpınar Kışlalar Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:48:15+03:00
+title: "Çukurpınar Kışlalar Kalesi, Kırklareli"
+date: "2025-12-25T01:48:15+03:00"
 slug: "cukurpinar-kislalar-kalesi-kirklareli"
 description: "## Çukurpınar Kışlalar Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3992119,41.8317795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukurpınar Kışlalar Kalesi, Kırklareli

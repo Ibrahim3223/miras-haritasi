@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Davut Türbesi | Miras Haritası"
-date: 2025-12-25T14:59:13+03:00
+title: "Şeyh Davut Türbesi"
+date: "2025-12-25T14:59:13+03:00"
 slug: "seyh-davut-turbesi"
 description: "### Şeyh Davut Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.967144,41.0171623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Davut Türbesi

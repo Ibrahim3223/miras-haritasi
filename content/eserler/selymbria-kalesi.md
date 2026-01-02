@@ -1,18 +1,17 @@
 ---
-title: "Selymbria Kalesi | Miras Haritası"
-date: 2025-12-25T01:21:33+03:00
+title: "Selymbria Kalesi"
+date: "2025-12-25T01:21:33+03:00"
 slug: "selymbria-kalesi"
 description: "## Selymbria Kalesi: Silivri'nin Tarihi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.248745,41.0698624"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selymbria Kalesi: Silivri'nin Tarihi Mirası

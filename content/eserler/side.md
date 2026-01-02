@@ -1,18 +1,17 @@
 ---
-title: "Side | Miras Haritası"
-date: 2025-12-25T08:09:36+03:00
+title: "Side"
+date: "2025-12-25T08:09:36+03:00"
 slug: "side"
 description: "## Side Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Side.Great_Gate(02).jpg/1200px-Side.Great_Gate(02).jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.388611111,36.766666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Side Arkeolojik Sit

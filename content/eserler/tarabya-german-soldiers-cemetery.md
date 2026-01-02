@@ -1,18 +1,17 @@
 ---
-title: "Tarabya German soldiers cemetery | Miras Haritası"
-date: 2025-12-25T13:19:19+03:00
+title: "Tarabya German soldiers cemetery"
+date: "2025-12-25T13:19:19+03:00"
 slug: "tarabya-german-soldiers-cemetery"
 description: "**Tarabya Alman askerlerinin Mezarlığı**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.06076,41.13551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tarabya Alman askerlerinin Mezarlığı**

@@ -1,18 +1,17 @@
 ---
-title: "Kaleköy Camii | Miras Haritası"
-date: 2025-12-25T00:59:05+03:00
+title: "Kaleköy Camii"
+date: "2025-12-25T00:59:05+03:00"
 slug: "kalekoy-camii"
 description: "## Kaleköy Camii: Demre'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.8624916,36.1909065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleköy Camii: Demre'nin Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Yukarıçağlar Camii | Miras Haritası"
-date: 2025-12-24T23:46:47+03:00
+title: "Yukarıçağlar Camii"
+date: "2025-12-24T23:46:47+03:00"
 slug: "yukaricaglar-camii"
 description: "## Yukarıçağlar Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8005714,36.7130165"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarıçağlar Camii

@@ -1,18 +1,17 @@
 ---
-title: "Adıyaman Yenikale | Miras Haritası"
-date: 2025-12-25T03:42:21+03:00
+title: "Adıyaman Yenikale"
+date: "2025-12-25T03:42:21+03:00"
 slug: "adiyaman-yenikale"
 description: "## Adıyaman Yenikale: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Kâhta"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adıyaman Yenikale: Tarihî ve Kültürel Bir Miras

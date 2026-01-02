@@ -1,18 +1,17 @@
 ---
-title: "Yanal Kilisesi | Miras Haritası"
-date: 2025-12-25T08:45:56+03:00
+title: "Yanal Kilisesi"
+date: "2025-12-25T08:45:56+03:00"
 slug: "yanal-kilisesi"
 description: "## Yanal Kilisesi: Başkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Başkale"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "44.2523333,38.2629654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yanal Kilisesi: Başkale'nin Gizli Cenneti

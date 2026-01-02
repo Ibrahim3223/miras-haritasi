@@ -1,18 +1,18 @@
 ---
-title: "Orhan Gazi Camii | Miras Haritası"
-date: 2025-12-24T21:39:55+03:00
+title: "Orhan Gazi Camii"
+date: "2025-12-24T21:39:55+03:00"
 slug: "orhan-gazi-camii"
 description: "### Orhan Gazi Camii: Bilecik'in Tarihi ve Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bursa_Orhan_Gazi_Mosque.jpg/1200px-Bursa_Orhan_Gazi_Mosque.jpg"
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.987833333,40.143055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bursa_Orhan_Gazi_Mosque.jpg/1200px-Bursa_Orhan_Gazi_Mosque.jpg"
 ---
 
 ### Orhan Gazi Camii: Bilecik'in Tarihi ve Kültürel Mirası

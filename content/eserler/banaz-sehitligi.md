@@ -1,18 +1,17 @@
 ---
-title: "Banaz Şehitliği | Miras Haritası"
-date: 2025-12-25T14:06:41+03:00
+title: "Banaz Şehitliği"
+date: "2025-12-25T14:06:41+03:00"
 slug: "banaz-sehitligi"
 description: "## Banaz Şehitliği: Bir Anı Tutkusu..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Banaz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.7619896,38.7358665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Banaz Şehitliği: Bir Anı Tutkusu

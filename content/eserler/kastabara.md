@@ -1,18 +1,17 @@
 ---
-title: "Kastabara | Miras Haritası"
-date: 2025-12-25T04:56:49+03:00
+title: "Kastabara"
+date: "2025-12-25T04:56:49+03:00"
 slug: "kastabara"
 description: "# Kastabala: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.5566,36.6234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kastabala: Antik Çağın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Balaban Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:50:55+03:00
+title: "Balaban Ağa Camii"
+date: "2025-12-24T21:50:55+03:00"
 slug: "balaban-aga-camii"
 description: "## Balaban Ağa Camii: Fatih'te Bir Önemli Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mpalampan_Aga.jpg/1200px-Mpalampan_Aga.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9583,41.011"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Balaban Ağa Camii: Fatih'te Bir Önemli Kültür Mirası

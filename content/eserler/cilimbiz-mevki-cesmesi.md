@@ -1,18 +1,17 @@
 ---
-title: "Cılımbız Mevki Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:51+03:00
+title: "Cılımbız Mevki Çeşmesi"
+date: "2025-12-25T10:29:51+03:00"
 slug: "cilimbiz-mevki-cesmesi"
 description: "### Cılımbız Mevki Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7165146,37.881916"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cılımbız Mevki Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası

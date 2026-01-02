@@ -1,18 +1,17 @@
 ---
-title: "Uluyol Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:36+03:00
+title: "Uluyol Köprüsü"
+date: "2025-12-25T02:21:36+03:00"
 slug: "uluyol-koprusu"
 description: "## Uluyol Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Buca"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.2535992,38.3409004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uluyol Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Rumelihisarı Hisar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:35:56+03:00
+title: "Rumelihisarı Hisar Çeşmesi"
+date: "2025-12-25T10:35:56+03:00"
 slug: "rumelihisari-hisar-cesmesi"
 description: "# Rumelihisarı Hisar Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Rumelihisarı_Hisar_Çeşmesi_IMG_7551.jpg/1200px-Rumelihisarı_Hisar_Çeşmesi_IMG_7551.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.056692,41.084358"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Rumelihisarı Hisar Çeşmesi

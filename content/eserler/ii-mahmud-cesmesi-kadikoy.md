@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmud Çeşmesi (Kadıköy) | Miras Haritası"
-date: 2025-12-25T10:10:27+03:00
+title: "II. Mahmud Çeşmesi (Kadıköy)"
+date: "2025-12-25T10:10:27+03:00"
 slug: "ii-mahmud-cesmesi-kadikoy"
 description: "### II. Mahmud Çeşmesi (Kadıköy)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/II._Mahmud_Çeşmesi,_Bostancı,_Kadıköy.jpg/1200px-II._Mahmud_Çeşmesi,_Bostancı,_Kadıköy.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Bostancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.095584888,40.953143888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### II. Mahmud Çeşmesi (Kadıköy)

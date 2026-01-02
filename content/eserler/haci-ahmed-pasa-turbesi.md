@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ahmed Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:32:12+03:00
+title: "Hacı Ahmed Paşa Türbesi"
+date: "2025-12-25T14:32:12+03:00"
 slug: "haci-ahmed-pasa-turbesi"
 description: "## Hacı Ahmed Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hacı_Ahmed_Paşa_Türbesi.jpg/1200px-Hacı_Ahmed_Paşa_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0118484,41.0194206"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Ahmed Paşa Türbesi

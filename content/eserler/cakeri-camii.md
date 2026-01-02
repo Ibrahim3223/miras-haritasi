@@ -1,18 +1,17 @@
 ---
-title: "Çakeri Camii | Miras Haritası"
-date: 2025-12-24T22:31:04+03:00
+title: "Çakeri Camii"
+date: "2025-12-24T22:31:04+03:00"
 slug: "cakeri-camii"
 description: "## Çakeri Camii: Şanlıurfa'da Bir Tarihi Örnektir..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7940674,37.1459579"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakeri Camii: Şanlıurfa'da Bir Tarihi Örnektir

@@ -1,18 +1,17 @@
 ---
-title: "Gül Baba Türbesi, Burhaniye | Miras Haritası"
-date: 2025-12-25T13:36:24+03:00
+title: "Gül Baba Türbesi, Burhaniye"
+date: "2025-12-25T13:36:24+03:00"
 slug: "gul-baba-turbesi-burhaniye"
 description: "## Gül Baba Türbesi, Burhaniye..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.047544507,41.02907645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gül Baba Türbesi, Burhaniye

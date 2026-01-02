@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Bayezid Türbesi | Miras Haritası"
-date: 2025-12-25T14:11:40+03:00
+title: "Yıldırım Bayezid Türbesi"
+date: "2025-12-25T14:11:40+03:00"
 slug: "yildirim-bayezid-turbesi"
 description: "# Yıldırım Bayezid Türbesi: Bursa'nın Ölümsüz Anıtı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0824947,40.188118"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yıldırım Bayezid Türbesi: Bursa'nın Ölümsüz Anıtı

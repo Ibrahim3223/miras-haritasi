@@ -1,18 +1,17 @@
 ---
-title: "Kebrene | Miras Haritası"
-date: 2025-12-25T08:07:03+03:00
+title: "Kebrene"
+date: "2025-12-25T08:07:03+03:00"
 slug: "kebrene"
 description: "## Kebrene Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.566389,39.744167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kebrene Arkeolojik Sit

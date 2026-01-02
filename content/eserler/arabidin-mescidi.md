@@ -1,18 +1,17 @@
 ---
-title: "Arabıdın Mescidi | Miras Haritası"
-date: 2025-12-25T00:41:25+03:00
+title: "Arabıdın Mescidi"
+date: "2025-12-25T00:41:25+03:00"
 slug: "arabidin-mescidi"
 description: "## Arabıdın Mescidi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.44495912,38.82448731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arabıdın Mescidi: Kayseri'nin Tarihi ve Kültürel Mirası

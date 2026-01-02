@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs T33 – K-III | Miras Haritası"
-date: 2025-12-25T07:55:54+03:00
+title: "Gordion Tümülüs T33 – K-III"
+date: "2025-12-25T07:55:54+03:00"
 slug: "gordion-tumulus-t33-k-iii"
 description: "## Gordion Tümülüs T33 – K-III..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.995392,39.652538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gordion Tümülüs T33 – K-III

@@ -1,18 +1,17 @@
 ---
-title: "Ters Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T08:19:47+03:00
+title: "Ters Tepe Höyüğü"
+date: "2025-12-25T08:19:47+03:00"
 slug: "ters-tepe-hoyugu"
 description: "## Ters Tepe Höyüğü: Manisa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Selendi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.841533,38.7372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ters Tepe Höyüğü: Manisa'nın Gizli Kahramanı

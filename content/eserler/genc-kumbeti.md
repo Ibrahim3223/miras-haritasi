@@ -1,18 +1,17 @@
 ---
-title: "Genç Kümbeti | Miras Haritası"
-date: 2025-12-25T13:58:03+03:00
+title: "Genç Kümbeti"
+date: "2025-12-25T13:58:03+03:00"
 slug: "genc-kumbeti"
 description: "### Genç Kümbeti..."
 featured_image: ""
 province: "Bingöl"
-iller: ["Bingöl"]
+iller: '["Bingöl"]'
 district: "Genç"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.5767708,38.7562523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Genç Kümbeti

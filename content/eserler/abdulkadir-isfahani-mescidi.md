@@ -1,18 +1,17 @@
 ---
-title: "Abdülkadir İsfahani Mescidi | Miras Haritası"
-date: 2025-12-24T22:09:18+03:00
+title: "Abdülkadir İsfahani Mescidi"
+date: "2025-12-24T22:09:18+03:00"
 slug: "abdulkadir-isfahani-mescidi"
 description: "### Abdülkadir İsfahani Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Abdülkadir_İsfahani_Mescidi,_2019_03.jpg/1200px-Abdülkadir_İsfahani_Mescidi,_2019_03.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.860833333,39.9425"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Abdülkadir İsfahani Mescidi

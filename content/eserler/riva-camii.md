@@ -1,18 +1,17 @@
 ---
-title: "Riva Camii | Miras Haritası"
-date: 2025-12-25T00:34:58+03:00
+title: "Riva Camii"
+date: "2025-12-25T00:34:58+03:00"
 slug: "riva-camii"
 description: "### Riva Camii: Beykoz'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.217672281,41.223681839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Riva Camii: Beykoz'un Tarihî ve Kültürel Mirası

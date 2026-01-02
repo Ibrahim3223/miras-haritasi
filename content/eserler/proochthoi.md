@@ -1,18 +1,17 @@
 ---
-title: "Proochthoi | Miras Haritası"
-date: 2025-12-25T04:48:04+03:00
+title: "Proochthoi"
+date: "2025-12-25T04:48:04+03:00"
 slug: "proochthoi"
 description: "## Proochthoi: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.058352,41.074114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Proochthoi: Türkiye'nin Gizli Arkeolojik Sitleri

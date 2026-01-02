@@ -1,18 +1,17 @@
 ---
-title: "Ahmed Şefik Midhat Paşa Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:03:30+03:00
+title: "Ahmed Şefik Midhat Paşa Anıt Mezarı"
+date: "2025-12-25T14:03:30+03:00"
 slug: "ahmed-sefik-midhat-pasa-anit-mezari"
 description: "## Ahmed Şefik Midhat Paşa Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9817829,41.0678711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmed Şefik Midhat Paşa Anıt Mezarı

@@ -1,18 +1,17 @@
 ---
-title: "Koziri Şapeli | Miras Haritası"
-date: 2025-12-25T09:42:49+03:00
+title: "Koziri Şapeli"
+date: "2025-12-25T09:42:49+03:00"
 slug: "koziri-sapeli"
 description: "## Koziri Şapeli: Borçka'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Borçka"
-iller: ["Borçka"]
+iller: '["Borçka"]'
 district: "Aralık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.693227777,41.405238888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koziri Şapeli: Borçka'nın Gizli Mücevheri

@@ -1,18 +1,17 @@
 ---
-title: "Karacalar Camii | Miras Haritası"
-date: 2025-12-24T23:39:45+03:00
+title: "Karacalar Camii"
+date: "2025-12-24T23:39:45+03:00"
 slug: "karacalar-camii"
 description: "## Karacalar Camii: Bilecik'te Bir Önemli Cami..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9855995,40.1406593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karacalar Camii: Bilecik'te Bir Önemli Cami

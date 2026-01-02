@@ -1,18 +1,17 @@
 ---
-title: "Theotokos Ayazması | Miras Haritası"
-date: 2025-12-25T12:43:59+03:00
+title: "Theotokos Ayazması"
+date: "2025-12-25T12:43:59+03:00"
 slug: "theotokos-ayazmasi"
 description: "## Theotokos Ayazması: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9798698,41.0046463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Theotokos Ayazması: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Hamamkarahisar Camii | Miras Haritası"
-date: 2025-12-24T23:31:14+03:00
+title: "Hamamkarahisar Camii"
+date: "2025-12-24T23:31:14+03:00"
 slug: "hamamkarahisar-camii"
 description: "## Hamamkarahisar Camii: Sivrihisar'ın Tarihi Bir Zümrütü..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.7226791,39.4418373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamamkarahisar Camii: Sivrihisar'ın Tarihi Bir Zümrütü

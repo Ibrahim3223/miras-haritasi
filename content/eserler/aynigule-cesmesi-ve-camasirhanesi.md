@@ -1,18 +1,17 @@
 ---
-title: "Aynıgüle Çeşmesi ve Çamaşırhanesi | Miras Haritası"
-date: 2025-12-25T12:51:34+03:00
+title: "Aynıgüle Çeşmesi ve Çamaşırhanesi"
+date: "2025-12-25T12:51:34+03:00"
 slug: "aynigule-cesmesi-ve-camasirhanesi"
 description: "### Aynıgüle Çeşmesi ve Çamaşırhanesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.8354988,38.8126526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aynıgüle Çeşmesi ve Çamaşırhanesi

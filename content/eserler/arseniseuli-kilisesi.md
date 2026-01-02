@@ -1,18 +1,17 @@
 ---
-title: "Arseniseuli Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:53+03:00
+title: "Arseniseuli Kilisesi"
+date: "2025-12-25T09:04:53+03:00"
 slug: "arseniseuli-kilisesi"
 description: "## Arseniseuli Kilisesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Yusufeli"
-iller: ["Yusufeli"]
+iller: '["Yusufeli"]'
 district: "Tekkale"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.457186111,40.814241666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arseniseuli Kilisesi: Tarihi ve Kültürel Mirasımız

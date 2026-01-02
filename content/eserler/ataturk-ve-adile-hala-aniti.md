@@ -1,18 +1,17 @@
 ---
-title: "Atatürk ve Adile Hala Anıtı | Miras Haritası"
-date: 2025-12-25T15:45:24+03:00
+title: "Atatürk ve Adile Hala Anıtı"
+date: "2025-12-25T15:45:24+03:00"
 slug: "ataturk-ve-adile-hala-aniti"
 description: "## Atatürk ve Adile Hala Anıtı: Tarsus'taki Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.8865547,36.9201813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk ve Adile Hala Anıtı: Tarsus'taki Bir Anıtın Öyküsü

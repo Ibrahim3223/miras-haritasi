@@ -1,18 +1,17 @@
 ---
-title: "Iran Turkey border crossing #2883 | Miras Haritası"
-date: 2025-12-25T08:35:12+03:00
+title: "Iran Turkey border crossing #2883"
+date: "2025-12-25T08:35:12+03:00"
 slug: "iran-turkey-border-crossing-2883"
 description: "## İran-Türkiye sınır geçidi #2883: Bir Kervansarayın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "44.3182356,38.496075146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İran-Türkiye sınır geçidi #2883: Bir Kervansarayın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Saruhan Köyü Kalesi | Miras Haritası"
-date: 2025-12-25T01:43:04+03:00
+title: "Saruhan Köyü Kalesi"
+date: "2025-12-25T01:43:04+03:00"
 slug: "saruhan-koyu-kalesi"
 description: "## Saruhan Köyü Kalesi: Bir Bayburt'tan Tarih Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.105217,40.066281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saruhan Köyü Kalesi: Bir Bayburt'tan Tarih Mirası

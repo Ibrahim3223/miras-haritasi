@@ -1,18 +1,17 @@
 ---
-title: "Keçikale Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:25:21+03:00
+title: "Keçikale Kalesi, Kırklareli"
+date: "2025-12-25T01:25:21+03:00"
 slug: "kecikale-kalesi-kirklareli"
 description: "# Keçikale Kalesi: Kırklareli'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.2142258,41.8087273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Keçikale Kalesi: Kırklareli'nin Tarihî Bir Mirası

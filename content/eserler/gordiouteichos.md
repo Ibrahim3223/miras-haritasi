@@ -1,18 +1,17 @@
 ---
-title: "Gordiouteichos | Miras Haritası"
-date: 2025-12-25T05:22:45+03:00
+title: "Gordiouteichos"
+date: "2025-12-25T05:22:45+03:00"
 slug: "gordiouteichos"
 description: "## Gordiouteichos: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.609,37.685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gordiouteichos: Aydın'ın Gizli Cenneti

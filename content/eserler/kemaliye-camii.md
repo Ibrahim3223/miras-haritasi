@@ -1,18 +1,17 @@
 ---
-title: "Kemaliye Camii | Miras Haritası"
-date: 2025-12-24T23:58:12+03:00
+title: "Kemaliye Camii"
+date: "2025-12-24T23:58:12+03:00"
 slug: "kemaliye-camii"
 description: "### Kemaliye Camii..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.4790993,40.4595375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kemaliye Camii

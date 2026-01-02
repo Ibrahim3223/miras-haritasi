@@ -1,18 +1,17 @@
 ---
-title: "Karacasu Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:55+03:00
+title: "Karacasu Hamamı"
+date: "2025-12-25T17:03:55+03:00"
 slug: "karacasu-hamami"
 description: "## Karacasu Hamamı: Aydın'ın Ölümsüz Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.6075993,37.7294998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karacasu Hamamı: Aydın'ın Ölümsüz Hamamı

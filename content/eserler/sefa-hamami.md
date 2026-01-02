@@ -1,18 +1,17 @@
 ---
-title: "Sefa Hamamı | Miras Haritası"
-date: 2025-12-25T16:37:33+03:00
+title: "Sefa Hamamı"
+date: "2025-12-25T16:37:33+03:00"
 slug: "sefa-hamami"
 description: "## Sefa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.929813,41.019809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sefa Hamamı

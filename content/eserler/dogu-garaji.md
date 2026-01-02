@@ -1,18 +1,17 @@
 ---
-title: "Doğu Garajı | Miras Haritası"
-date: 2025-12-25T07:13:55+03:00
+title: "Doğu Garajı"
+date: "2025-12-25T07:13:55+03:00"
 slug: "dogu-garaji"
 description: "## Doğu Garajı: Kırsal Alanın Gizli Çehresi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.7125,36.88805556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Doğu Garajı: Kırsal Alanın Gizli Çehresi

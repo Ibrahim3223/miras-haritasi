@@ -1,18 +1,17 @@
 ---
-title: "Balıkesir Ulusal Fotoğraf Müzesi | Miras Haritası"
-date: 2025-12-25T03:25:13+03:00
+title: "Balıkesir Ulusal Fotoğraf Müzesi"
+date: "2025-12-25T03:25:13+03:00"
 slug: "balikesir-ulusal-fotograf-muzesi"
 description: "## Balıkesir Ulusal Fotoğraf Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.882366,39.668892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balıkesir Ulusal Fotoğraf Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Konut Duvarına Bitişik Çeşme | Miras Haritası"
-date: 2025-12-25T10:57:46+03:00
+title: "Konut Duvarına Bitişik Çeşme"
+date: "2025-12-25T10:57:46+03:00"
 slug: "konut-duvarina-bitisik-cesme"
 description: "## Konut Duvarına Bitişik Çeşme: Şarköy'de Bir Ölümsüz..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2512817,40.6931648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Konut Duvarına Bitişik Çeşme: Şarköy'de Bir Ölümsüz

@@ -1,18 +1,17 @@
 ---
-title: "Alican Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:36:27+03:00
+title: "Alican Sınır Kapısı"
+date: "2025-12-25T08:36:27+03:00"
 slug: "alican-sinir-kapisi"
 description: "### Alican Sınır Kapısı: Karakoyunlu'nun Gizli Mirası..."
 featured_image: ""
 province: "Iğdır"
-iller: ["Iğdır"]
+iller: '["Iğdır"]'
 district: "Karakoyunlu"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "44.17893,40.02822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alican Sınır Kapısı: Karakoyunlu'nun Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mala Abdullah Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:12+03:00
+title: "Şeyh Mala Abdullah Türbesi"
+date: "2025-12-25T15:21:12+03:00"
 slug: "seyh-mala-abdullah-turbesi"
 description: "**Şeyh Mala Abdullah Türbesi**..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Uludere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.8372917,37.4505272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Mala Abdullah Türbesi**

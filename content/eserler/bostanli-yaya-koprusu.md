@@ -1,18 +1,17 @@
 ---
-title: "Bostanlı Yaya Köprüsü | Miras Haritası"
-date: 2025-12-25T03:06:03+03:00
+title: "Bostanlı Yaya Köprüsü"
+date: "2025-12-25T03:06:03+03:00"
 slug: "bostanli-yaya-koprusu"
 description: "## Bostanlı Yaya Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karşıyaka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.093083333,38.455361111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bostanlı Yaya Köprüsü

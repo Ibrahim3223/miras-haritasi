@@ -1,18 +1,17 @@
 ---
-title: "Cumalıkızık Camii | Miras Haritası"
-date: 2025-12-24T22:30:40+03:00
+title: "Cumalıkızık Camii"
+date: "2025-12-24T22:30:40+03:00"
 slug: "cumalikizik-camii"
 description: "## Cumalıkızık Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1720257,40.1748619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumalıkızık Camii: Bursa'nın Tarihi Bir Mirası

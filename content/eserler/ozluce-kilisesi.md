@@ -1,18 +1,17 @@
 ---
-title: "Özlüce Kilisesi | Miras Haritası"
-date: 2025-12-25T01:01:03+03:00
+title: "Özlüce Kilisesi"
+date: "2025-12-25T01:01:03+03:00"
 slug: "ozluce-kilisesi"
 description: "## Özlüce Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/20251008_Özlüce_Camii_(Eski_kilise)_03.jpg/1200px-20251008_Özlüce_Camii_(Eski_kilise)_03.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.90755998,40.238082412"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Özlüce Kilisesi

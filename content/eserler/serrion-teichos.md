@@ -1,18 +1,17 @@
 ---
-title: "Serrion Teichos | Miras Haritası"
-date: 2025-12-25T04:34:41+03:00
+title: "Serrion Teichos"
+date: "2025-12-25T04:34:41+03:00"
 slug: "serrion-teichos"
 description: "## Serrion Teichos: Şarköy'ün Gizli Öncesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.324357,40.750541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Serrion Teichos: Şarköy'ün Gizli Öncesi

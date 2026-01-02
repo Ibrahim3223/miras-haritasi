@@ -1,18 +1,17 @@
 ---
-title: "Haseki Hafsa Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:23+03:00
+title: "Haseki Hafsa Sultan Türbesi"
+date: "2025-12-25T14:28:23+03:00"
 slug: "haseki-hafsa-sultan-turbesi"
 description: "### Haseki Hafsa Sultan Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ayse-hafsa-valide-sultan-turbesi.jpg/1200px-Ayse-hafsa-valide-sultan-turbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9518151,41.0263101"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Haseki Hafsa Sultan Türbesi

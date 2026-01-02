@@ -1,18 +1,17 @@
 ---
-title: "Sırıklı Tümülüsü, Bekilli | Miras Haritası"
-date: 2025-12-25T07:36:25+03:00
+title: "Sırıklı Tümülüsü, Bekilli"
+date: "2025-12-25T07:36:25+03:00"
 slug: "sirikli-tumulusu-bekilli"
 description: "**Sırıklı Tümülüsü, Bekilli**..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Bekilli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.5361996,38.2840996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sırıklı Tümülüsü, Bekilli**

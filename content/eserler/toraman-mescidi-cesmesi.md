@@ -1,18 +1,17 @@
 ---
-title: "Toraman Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:53:08+03:00
+title: "Toraman Mescidi Çeşmesi"
+date: "2025-12-25T12:53:08+03:00"
 slug: "toraman-mescidi-cesmesi"
 description: "### Toraman Mescidi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1362724,38.415451"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Toraman Mescidi Çeşmesi

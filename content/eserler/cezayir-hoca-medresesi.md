@@ -1,18 +1,17 @@
 ---
-title: "Cezayir Hoca Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:12+03:00
+title: "Cezayir Hoca Medresesi"
+date: "2025-12-25T17:44:12+03:00"
 slug: "cezayir-hoca-medresesi"
 description: "## Cezayir Hoca Medresesi: Pamukkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0863781,37.7713013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cezayir Hoca Medresesi: Pamukkale'nin Gizli Cenneti

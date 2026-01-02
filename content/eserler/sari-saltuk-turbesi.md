@@ -1,18 +1,17 @@
 ---
-title: "Sarı Saltuk Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:10+03:00
+title: "Sarı Saltuk Türbesi"
+date: "2025-12-25T14:34:10+03:00"
 slug: "sari-saltuk-turbesi"
 description: "## Sarı Saltuk Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sarı_saltuk.jpg/1200px-Sarı_saltuk.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.734073,40.428521"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sarı Saltuk Türbesi

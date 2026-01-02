@@ -1,18 +1,17 @@
 ---
-title: "Çevreli Uluçam Camii | Miras Haritası"
-date: 2025-12-25T01:03:30+03:00
+title: "Çevreli Uluçam Camii"
+date: "2025-12-25T01:03:30+03:00"
 slug: "cevreli-ulucam-camii"
 description: "## Çevreli Uluçam Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.46349,40.766723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çevreli Uluçam Camii

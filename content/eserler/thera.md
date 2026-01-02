@@ -1,18 +1,17 @@
 ---
-title: "Thera | Miras Haritası"
-date: 2025-12-25T08:32:50+03:00
+title: "Thera"
+date: "2025-12-25T08:32:50+03:00"
 slug: "thera"
 description: "## Thera: Menteşe'deki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3556919,37.120163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Thera: Menteşe'deki Gizemli Arkeolojik Sit

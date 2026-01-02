@@ -1,18 +1,17 @@
 ---
-title: "Mazı Yeraltı Şehri | Miras Haritası"
-date: 2025-12-25T07:12:33+03:00
+title: "Mazı Yeraltı Şehri"
+date: "2025-12-25T07:12:33+03:00"
 slug: "mazi-yeralti-sehri"
 description: "## Mazı Yeraltı Şehri: Tarihin Gizli Bir Evi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8389111,38.4699909"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mazı Yeraltı Şehri: Tarihin Gizli Bir Evi

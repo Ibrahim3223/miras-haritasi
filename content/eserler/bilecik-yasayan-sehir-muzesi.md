@@ -1,18 +1,17 @@
 ---
-title: "Bilecik Yaşayan Şehir Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:59+03:00
+title: "Bilecik Yaşayan Şehir Müzesi"
+date: "2025-12-25T03:51:59+03:00"
 slug: "bilecik-yasayan-sehir-muzesi"
 description: "## Bilecik Yaşayan Şehir Müzesi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9775887,40.1561661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bilecik Yaşayan Şehir Müzesi

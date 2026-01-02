@@ -1,18 +1,17 @@
 ---
-title: "Ekmekçibaşı Ali Ağa Kabri ve Haziresi | Miras Haritası"
-date: 2025-12-25T16:05:32+03:00
+title: "Ekmekçibaşı Ali Ağa Kabri ve Haziresi"
+date: "2025-12-25T16:05:32+03:00"
 slug: "ekmekcibasi-ali-aga-kabri-ve-haziresi"
 description: "### Ekmekçibaşı Ali Ağa Kabri ve Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9801769,41.0299377"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ekmekçibaşı Ali Ağa Kabri ve Haziresi

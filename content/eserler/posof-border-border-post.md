@@ -1,18 +1,17 @@
 ---
-title: "Posof border border post | Miras Haritası"
-date: 2025-12-25T08:34:19+03:00
+title: "Posof border border post"
+date: "2025-12-25T08:34:19+03:00"
 slug: "posof-border-border-post"
 description: "## Posof Sınır Kapısı: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "42.8184843,41.587715597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Posof Sınır Kapısı: Tarihi ve Kültürel Mirasımız

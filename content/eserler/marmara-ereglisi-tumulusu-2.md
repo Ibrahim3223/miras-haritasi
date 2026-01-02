@@ -1,18 +1,17 @@
 ---
-title: "Marmara Ereğlisi Tümülüsü 2 | Miras Haritası"
-date: 2025-12-25T07:23:38+03:00
+title: "Marmara Ereğlisi Tümülüsü 2"
+date: "2025-12-25T07:23:38+03:00"
 slug: "marmara-ereglisi-tumulusu-2"
 description: "## Marmara Ereğlisi Tümülüsü 2: Tekirdağ'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Marmaraereğlisi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.930489813,41.004023924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marmara Ereğlisi Tümülüsü 2: Tekirdağ'ın Gizli Hazinesi

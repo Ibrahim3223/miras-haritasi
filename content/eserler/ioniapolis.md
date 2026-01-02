@@ -1,18 +1,17 @@
 ---
-title: "İoniapolis | Miras Haritası"
-date: 2025-12-25T04:55:25+03:00
+title: "İoniapolis"
+date: "2025-12-25T04:55:25+03:00"
 slug: "ioniapolis"
 description: "## İoniapolis: Milas'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.508324,37.474596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İoniapolis: Milas'ın Gizli Kahramanı

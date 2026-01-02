@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Atmaca, İncirli Mescit Caddesi | Miras Haritası"
-date: 2025-12-25T10:05:29+03:00
+title: "Çeşme – Atmaca, İncirli Mescit Caddesi"
+date: "2025-12-25T10:05:29+03:00"
 slug: "cesme-atmaca-incirli-mescit-caddesi"
 description: "**Çeşme – Atmaca, İncirli Mescit Caddesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/323.19-İncirli_Mescit_Sokağı_Çeşmesi-19.yy_01.jpg/1200px-323.19-İncirli_Mescit_Sokağı_Çeşmesi-19.yy_01.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1775894,39.1207314"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Çeşme – Atmaca, İncirli Mescit Caddesi**

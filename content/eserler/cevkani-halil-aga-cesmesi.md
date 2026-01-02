@@ -1,18 +1,17 @@
 ---
-title: "Cevkani Halil Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:31+03:00
+title: "Cevkani Halil Ağa Çeşmesi"
+date: "2025-12-25T10:59:31+03:00"
 slug: "cevkani-halil-aga-cesmesi"
 description: "## Cevkani Halil Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.934254,41.041225"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevkani Halil Ağa Çeşmesi

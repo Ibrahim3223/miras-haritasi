@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mustafa Kabuli Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T13:26:28+03:00
+title: "Şeyh Mustafa Kabuli Efendi Türbesi"
+date: "2025-12-25T13:26:28+03:00"
 slug: "seyh-mustafa-kabuli-efendi-turbesi"
 description: "## Şeyh Mustafa Kabuli Efendi Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.562807,41.679222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Mustafa Kabuli Efendi Türbesi

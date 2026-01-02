@@ -1,18 +1,17 @@
 ---
-title: "Surp Stepanos Kilisesi (Yeşilköy) | Miras Haritası"
-date: 2025-12-25T09:10:27+03:00
+title: "Surp Stepanos Kilisesi (Yeşilköy)"
+date: "2025-12-25T09:10:27+03:00"
 slug: "surp-stepanos-kilisesi-yesilkoy"
 description: "## Surp Stepanos Kilisesi: İstanbul'un Gizli Çarpıcılarından Birisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SurpStepanosArmenianChurchInYesilkoy01.jpg/1200px-SurpStepanosArmenianChurchInYesilkoy01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.820611,40.957058"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Stepanos Kilisesi: İstanbul'un Gizli Çarpıcılarından Birisi

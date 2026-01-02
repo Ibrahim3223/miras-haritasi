@@ -1,18 +1,17 @@
 ---
-title: "TESK Anıtı | Miras Haritası"
-date: 2025-12-25T15:55:49+03:00
+title: "TESK Anıtı"
+date: "2025-12-25T15:55:49+03:00"
 slug: "tesk-aniti"
 description: "### TESK Anıtı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.854754061,39.912866915"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### TESK Anıtı

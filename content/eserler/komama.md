@@ -1,18 +1,17 @@
 ---
-title: "Komama | Miras Haritası"
-date: 2025-12-25T08:31:55+03:00
+title: "Komama"
+date: "2025-12-25T08:31:55+03:00"
 slug: "komama"
 description: "## Komama: Bucak'ın Gizemi..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.312,37.32"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Komama: Bucak'ın Gizemi

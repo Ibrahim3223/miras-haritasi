@@ -1,18 +1,17 @@
 ---
-title: "Ayastradi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:30:44+03:00
+title: "Ayastradi Kilisesi"
+date: "2025-12-25T09:30:44+03:00"
 slug: "ayastradi-kilisesi"
 description: "### Ayastradi Kilisesi: Gökçeada'nın Gizli Gözdeleri..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.7714005,40.1388016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayastradi Kilisesi: Gökçeada'nın Gizli Gözdeleri

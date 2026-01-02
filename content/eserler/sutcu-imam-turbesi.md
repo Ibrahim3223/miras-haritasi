@@ -1,18 +1,17 @@
 ---
-title: "Sütçü İmam Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:08+03:00
+title: "Sütçü İmam Türbesi"
+date: "2025-12-25T15:25:08+03:00"
 slug: "sutcu-imam-turbesi"
 description: "## Sütçü İmam Türbesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.9276581,37.587986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sütçü İmam Türbesi

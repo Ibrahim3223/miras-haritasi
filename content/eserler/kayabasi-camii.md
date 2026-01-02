@@ -1,18 +1,17 @@
 ---
-title: "Kayabaşı Camii | Miras Haritası"
-date: 2025-12-24T23:58:16+03:00
+title: "Kayabaşı Camii"
+date: "2025-12-24T23:58:16+03:00"
 slug: "kayabasi-camii"
 description: "## Kayabaşı Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8708382,39.9400215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayabaşı Camii

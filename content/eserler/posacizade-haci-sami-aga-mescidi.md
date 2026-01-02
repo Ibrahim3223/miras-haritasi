@@ -1,18 +1,17 @@
 ---
-title: "Posacızade Hacı Sami Ağa Mescidi | Miras Haritası"
-date: 2025-12-25T00:46:44+03:00
+title: "Posacızade Hacı Sami Ağa Mescidi"
+date: "2025-12-25T00:46:44+03:00"
 slug: "posacizade-haci-sami-aga-mescidi"
 description: "## Posacızade Hacı Sami Ağa Mescidi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0068493,37.7944832"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Posacızade Hacı Sami Ağa Mescidi

@@ -1,18 +1,17 @@
 ---
-title: "Hersekzade Ahmed Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:35:41+03:00
+title: "Hersekzade Ahmed Paşa Camii"
+date: "2025-12-24T23:35:41+03:00"
 slug: "hersekzade-ahmed-pasa-camii"
 description: "## Hersekzade Ahmed Paşa Camii: Edirne'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6284237,40.8545113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hersekzade Ahmed Paşa Camii: Edirne'nin Gizli Çiçeği

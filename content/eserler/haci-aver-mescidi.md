@@ -1,18 +1,17 @@
 ---
-title: "Hacı Aver Mescidi | Miras Haritası"
-date: 2025-12-24T22:53:22+03:00
+title: "Hacı Aver Mescidi"
+date: "2025-12-24T22:53:22+03:00"
 slug: "haci-aver-mescidi"
 description: "# Hacı Aver Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9681301,41.0259094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Aver Mescidi

@@ -1,18 +1,17 @@
 ---
-title: "Malhun Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:17+03:00
+title: "Malhun Hatun Türbesi"
+date: "2025-12-25T14:54:17+03:00"
 slug: "malhun-hatun-turbesi"
 description: "## Malhun Hatun Türbesi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9883862,40.1437149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malhun Hatun Türbesi

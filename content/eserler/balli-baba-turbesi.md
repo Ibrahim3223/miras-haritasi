@@ -1,18 +1,17 @@
 ---
-title: "Ballı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:25+03:00
+title: "Ballı Baba Türbesi"
+date: "2025-12-25T15:26:25+03:00"
 slug: "balli-baba-turbesi"
 description: "### Ballı Baba Türbesi..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Balışeyh"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7178612,39.9234314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ballı Baba Türbesi

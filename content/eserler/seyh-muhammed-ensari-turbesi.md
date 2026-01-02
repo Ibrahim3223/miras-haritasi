@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhammed Ensari Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:02+03:00
+title: "Şeyh Muhammed Ensari Türbesi"
+date: "2025-12-25T14:21:02+03:00"
 slug: "seyh-muhammed-ensari-turbesi"
 description: "## Şeyh Muhammed Ensari Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.112344,36.714238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Muhammed Ensari Türbesi

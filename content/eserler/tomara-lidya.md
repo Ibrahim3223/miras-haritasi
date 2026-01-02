@@ -1,18 +1,17 @@
 ---
-title: "Tomara (Lidya) | Miras Haritası"
-date: 2025-12-25T05:17:03+03:00
+title: "Tomara (Lidya)"
+date: "2025-12-25T05:17:03+03:00"
 slug: "tomara-lidya"
 description: "### Tomara (Lidya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.066301,38.881219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tomara (Lidya)

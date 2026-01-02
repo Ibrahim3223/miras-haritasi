@@ -1,18 +1,17 @@
 ---
-title: "Ayia Anna Ayazması, Fener | Miras Haritası"
-date: 2025-12-25T12:35:02+03:00
+title: "Ayia Anna Ayazması, Fener"
+date: "2025-12-25T12:35:02+03:00"
 slug: "ayia-anna-ayazmasi-fener"
 description: "# Ayia Anna Ayazması: Fener'in Tarihsel Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9488125,41.0296402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ayia Anna Ayazması: Fener'in Tarihsel Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Bostancılar Gomelt Camii | Miras Haritası"
-date: 2025-12-25T01:00:05+03:00
+title: "Bostancılar Gomelt Camii"
+date: "2025-12-25T01:00:05+03:00"
 slug: "bostancilar-gomelt-camii"
 description: "## Bostancılar Gomelt Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4899223,41.0308905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bostancılar Gomelt Camii

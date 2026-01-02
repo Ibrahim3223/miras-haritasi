@@ -1,18 +1,17 @@
 ---
-title: "Walma | Miras Haritası"
-date: 2025-12-25T04:32:51+03:00
+title: "Walma"
+date: "2025-12-25T04:32:51+03:00"
 slug: "walma"
 description: "## Walma: Tarihi Mirasın Gizli Anıtı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Walma: Tarihi Mirasın Gizli Anıtı

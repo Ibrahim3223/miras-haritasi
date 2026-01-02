@@ -1,18 +1,17 @@
 ---
-title: "Yassıhöyük, Bayındır | Miras Haritası"
-date: 2025-12-25T05:58:54+03:00
+title: "Yassıhöyük, Bayındır"
+date: "2025-12-25T05:58:54+03:00"
 slug: "yassihoyuk-bayindir"
 description: "## Yassıhöyük, Bayındır: Türkiye'nin Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2975388,38.6082916"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yassıhöyük, Bayındır: Türkiye'nin Gizemli Arkeolojik Sitleri

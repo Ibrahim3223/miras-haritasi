@@ -1,18 +1,17 @@
 ---
-title: "Labraunda Bizans Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:16+03:00
+title: "Labraunda Bizans Kilisesi"
+date: "2025-12-25T09:25:16+03:00"
 slug: "labraunda-bizans-kilisesi"
 description: "## Labraunda Bizans Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.820816,37.4186134"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Labraunda Bizans Kilisesi

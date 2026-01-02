@@ -1,18 +1,17 @@
 ---
-title: "Dilşikar Hatun Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:25:53+03:00
+title: "Dilşikar Hatun Camii Çeşmesi"
+date: "2025-12-25T11:25:53+03:00"
 slug: "dilsikar-hatun-camii-cesmesi"
 description: "## Dilşikar Hatun Camii Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4398022,38.6124611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dilşikar Hatun Camii Çeşmesi

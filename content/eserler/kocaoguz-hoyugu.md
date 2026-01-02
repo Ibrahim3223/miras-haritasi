@@ -1,18 +1,17 @@
 ---
-title: "Kocaoğuz Höyüğü | Miras Haritası"
-date: 2025-12-25T06:33:18+03:00
+title: "Kocaoğuz Höyüğü"
+date: "2025-12-25T06:33:18+03:00"
 slug: "kocaoguz-hoyugu"
 description: "## Kocaoğuz Höyüğü: Afyonkarahisar'ın Gizli Klasik Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sultandağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.160058,38.6128901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocaoğuz Höyüğü: Afyonkarahisar'ın Gizli Klasik Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kara Kilise | Miras Haritası"
-date: 2025-12-25T09:45:08+03:00
+title: "Kara Kilise"
+date: "2025-12-25T09:45:08+03:00"
 slug: "kara-kilise"
 description: "## Kara Kilise: Adana'nın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kara_Kilise_2.jpg/1200px-Kara_Kilise_2.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Feke"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.943018817,37.85114629"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kara Kilise: Adana'nın Gizli Çehresi

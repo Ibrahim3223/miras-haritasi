@@ -1,18 +1,17 @@
 ---
-title: "Bitenas | Miras Haritası"
-date: 2025-12-25T04:52:58+03:00
+title: "Bitenas"
+date: "2025-12-25T04:52:58+03:00"
 slug: "bitenas"
 description: "## Bitenas Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2808381,40.9367528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bitenas Arkeolojik Sit

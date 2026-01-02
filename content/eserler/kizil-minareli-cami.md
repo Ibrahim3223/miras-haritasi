@@ -1,18 +1,17 @@
 ---
-title: "Kızıl Minareli Cami | Miras Haritası"
-date: 2025-12-25T00:39:42+03:00
+title: "Kızıl Minareli Cami"
+date: "2025-12-25T00:39:42+03:00"
 slug: "kizil-minareli-cami"
 description: "## Kızıl Minareli Cami: Van'ın Tarihi Mirası..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "İpekyolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.341926261,38.500552816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızıl Minareli Cami: Van'ın Tarihi Mirası

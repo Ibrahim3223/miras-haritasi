@@ -1,18 +1,17 @@
 ---
-title: "Hocabali Hamamı | Miras Haritası"
-date: 2025-12-25T17:14:40+03:00
+title: "Hocabali Hamamı"
+date: "2025-12-25T17:14:40+03:00"
 slug: "hocabali-hamami"
 description: "## Hocabali Hamamı..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.2839203,37.7141266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hocabali Hamamı

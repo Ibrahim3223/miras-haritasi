@@ -1,18 +1,17 @@
 ---
-title: "Küçük Ayasofya Mescidi, Akşehir | Miras Haritası"
-date: 2025-12-25T00:33:00+03:00
+title: "Küçük Ayasofya Mescidi, Akşehir"
+date: "2025-12-25T00:33:00+03:00"
 slug: "kucuk-ayasofya-mescidi-aksehir"
 description: "## Küçük Ayasofya Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.4094296,38.3566895"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Küçük Ayasofya Mescidi

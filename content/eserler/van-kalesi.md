@@ -1,18 +1,17 @@
 ---
-title: "Van Kalesi | Miras Haritası"
-date: 2025-12-25T01:47:22+03:00
+title: "Van Kalesi"
+date: "2025-12-25T01:47:22+03:00"
 slug: "van-kalesi"
 description: "## Van Kalesi: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Van_Fortress_From_Northwest.JPG/1200px-Van_Fortress_From_Northwest.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.34,38.5025"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Van Kalesi: Türkiye'nin Tarihi ve Kültürel Mirası

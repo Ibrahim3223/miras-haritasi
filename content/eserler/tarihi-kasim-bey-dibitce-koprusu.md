@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Kasım Bey (Dibitçe) Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:30+03:00
+title: "Tarihi Kasım Bey (Dibitçe) Köprüsü"
+date: "2025-12-25T02:26:30+03:00"
 slug: "tarihi-kasim-bey-dibitce-koprusu"
 description: "## Tarihi Kasım Bey (Dibitçe) Köprüsü..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Yayladağı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.056206,35.908386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Kasım Bey (Dibitçe) Köprüsü

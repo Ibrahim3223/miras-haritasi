@@ -1,18 +1,17 @@
 ---
-title: "Dağ Kapı | Miras Haritası"
-date: 2025-12-25T13:42:19+03:00
+title: "Dağ Kapı"
+date: "2025-12-25T13:42:19+03:00"
 slug: "dag-kapi"
 description: "### Dağ Kapı: Diyarbakır'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Diyarbakir-Town_Wall_Northern_Gate.jpeg/1200px-Diyarbakir-Town_Wall_Northern_Gate.jpeg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.23671,37.916215"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Dağ Kapı: Diyarbakır'ın Tarihî Mirası

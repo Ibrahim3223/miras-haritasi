@@ -1,18 +1,17 @@
 ---
-title: "İmaret Camii | Miras Haritası"
-date: 2025-12-24T21:41:13+03:00
+title: "İmaret Camii"
+date: "2025-12-24T21:41:13+03:00"
 slug: "imaret-camii"
 description: "## İmaret Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/İmaret_Camii_28.jpg/1200px-İmaret_Camii_28.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.416111111,38.35475"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İmaret Camii Tanıtımı

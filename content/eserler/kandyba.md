@@ -1,18 +1,17 @@
 ---
-title: "Kandyba | Miras Haritası"
-date: 2025-12-25T06:47:53+03:00
+title: "Kandyba"
+date: "2025-12-25T06:47:53+03:00"
 slug: "kandyba"
 description: "## Kandyba: Antik Kentin Gizemi..."
 featured_image: ""
 province: "Kaş ilçesi"
-iller: ["Kaş ilçesi"]
+iller: '["Kaş ilçesi"]'
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.673804,36.318976388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kandyba: Antik Kentin Gizemi

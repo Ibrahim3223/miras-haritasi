@@ -1,18 +1,17 @@
 ---
-title: "Hilmi Abbas Camii | Miras Haritası"
-date: 2025-12-24T22:56:01+03:00
+title: "Hilmi Abbas Camii"
+date: "2025-12-24T22:56:01+03:00"
 slug: "hilmi-abbas-camii"
 description: "## Hilmi Abbas Camii: Pendik, İstanbul'un Tarihi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Pendik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2342774,40.8811934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hilmi Abbas Camii: Pendik, İstanbul'un Tarihi Mirası

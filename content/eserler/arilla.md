@@ -1,18 +1,17 @@
 ---
-title: "Arilla | Miras Haritası"
-date: 2025-12-25T05:08:03+03:00
+title: "Arilla"
+date: "2025-12-25T05:08:03+03:00"
 slug: "arilla"
 description: "### Arilla: Manisa'nın Gizli Tarihi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.086448,38.627775"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arilla: Manisa'nın Gizli Tarihi

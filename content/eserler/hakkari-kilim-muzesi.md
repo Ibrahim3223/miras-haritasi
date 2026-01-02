@@ -1,18 +1,17 @@
 ---
-title: "Hakkari Kilim Müzesi | Miras Haritası"
-date: 2025-12-25T04:07:54+03:00
+title: "Hakkari Kilim Müzesi"
+date: "2025-12-25T04:07:54+03:00"
 slug: "hakkari-kilim-muzesi"
 description: "### Hakkâri Kilim Müzesi..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Hakkâri"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "43.7366905,37.5777092"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hakkâri Kilim Müzesi

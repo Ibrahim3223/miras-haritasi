@@ -1,18 +1,17 @@
 ---
-title: "Anonim Türbe (1) | Miras Haritası"
-date: 2025-12-25T14:48:41+03:00
+title: "Anonim Türbe (1)"
+date: "2025-12-25T14:48:41+03:00"
 slug: "anonim-turbe-1"
 description: "## Anonim Türbe (1)..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3631134,37.9489822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anonim Türbe (1)

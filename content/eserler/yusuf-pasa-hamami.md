@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:56:37+03:00
+title: "Yusuf Paşa Hamamı"
+date: "2025-12-25T16:56:37+03:00"
 slug: "yusuf-pasa-hamami"
 description: "# Yusuf Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.5801373,41.0220718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yusuf Paşa Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Kerebi Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:05+03:00
+title: "Kerebi Gazi Türbesi"
+date: "2025-12-25T15:14:05+03:00"
 slug: "kerebi-gazi-turbesi"
 description: "## Kerebi Gazi Türbesi: Çorum'un Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.9418259,40.5475629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kerebi Gazi Türbesi: Çorum'un Tarihî Mirası

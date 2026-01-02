@@ -1,18 +1,17 @@
 ---
-title: "Yalı Hamamı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:55:49+03:00
+title: "Yalı Hamamı Çeşmesi"
+date: "2025-12-25T10:55:49+03:00"
 slug: "yali-hamami-cesmesi"
 description: "## Yalı Hamamı Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5207233,40.9788017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalı Hamamı Çeşmesi

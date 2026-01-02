@@ -1,18 +1,17 @@
 ---
-title: "Haydar Kethüda Camii | Miras Haritası"
-date: 2025-12-24T22:54:38+03:00
+title: "Haydar Kethüda Camii"
+date: "2025-12-24T22:54:38+03:00"
 slug: "haydar-kethuda-camii"
 description: "**Haydar Kethüda Camii**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9376431,41.0055237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Haydar Kethüda Camii**

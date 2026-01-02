@@ -1,18 +1,17 @@
 ---
-title: "Kuşadası Oleatrium'u | Miras Haritası"
-date: 2025-12-25T04:00:20+03:00
+title: "Kuşadası Oleatrium'u"
+date: "2025-12-25T04:00:20+03:00"
 slug: "kusadasi-oleatriumu"
 description: "### Kuşadası Oleatrium'u..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kuşadası_2013-03-28a.jpg/1200px-Kuşadası_2013-03-28a.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.289523,37.759428"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kuşadası Oleatrium'u

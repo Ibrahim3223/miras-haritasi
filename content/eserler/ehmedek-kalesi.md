@@ -1,18 +1,17 @@
 ---
-title: "Ehmedek Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:01+03:00
+title: "Ehmedek Kalesi"
+date: "2025-12-25T01:28:01+03:00"
 slug: "ehmedek-kalesi"
 description: "## Ehmedek Kalesi: Alanya'nın Gizli Gözdeleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/View_of_Ehmedek_Castle_from_the_Southwest,_Alanya,_Türkiye.jpg/1200px-View_of_Ehmedek_Castle_from_the_Southwest,_Alanya,_Türkiye.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "31.9927387,36.5368042"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ehmedek Kalesi: Alanya'nın Gizli Gözdeleri

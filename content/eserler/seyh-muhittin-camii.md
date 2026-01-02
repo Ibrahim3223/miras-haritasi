@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhittin Camii | Miras Haritası"
-date: 2025-12-25T00:11:21+03:00
+title: "Şeyh Muhittin Camii"
+date: "2025-12-25T00:11:21+03:00"
 slug: "seyh-muhittin-camii"
 description: "## Şeyh Muhittin Camii: Beyşehir'in Gizli Çehresi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.77788,37.72035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Muhittin Camii: Beyşehir'in Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Üğcektepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:45:38+03:00
+title: "Üğcektepe Tümülüsü"
+date: "2025-12-25T07:45:38+03:00"
 slug: "ugcektepe-tumulusu"
 description: "## Üğcektepe Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.3925838,40.9936447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üğcektepe Tümülüsü

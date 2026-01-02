@@ -1,18 +1,17 @@
 ---
-title: "Ulukonak Ortatepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:51:33+03:00
+title: "Ulukonak Ortatepe Tümülüsü"
+date: "2025-12-25T07:51:33+03:00"
 slug: "ulukonak-ortatepe-tumulusu"
 description: "### Ulukonak Ortatepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.000988,41.6377411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ulukonak Ortatepe Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Saracın Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:49+03:00
+title: "Saracın Türbesi"
+date: "2025-12-25T15:22:49+03:00"
 slug: "saracin-turbesi"
 description: "## Saracın Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.118721,39.3709564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saracın Türbesi

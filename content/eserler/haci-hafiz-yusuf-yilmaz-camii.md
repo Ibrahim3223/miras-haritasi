@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hafız Yusuf Yılmaz Camii | Miras Haritası"
-date: 2025-12-25T01:07:21+03:00
+title: "Hacı Hafız Yusuf Yılmaz Camii"
+date: "2025-12-25T01:07:21+03:00"
 slug: "haci-hafiz-yusuf-yilmaz-camii"
 description: "### Hacı Hafız Yusuf Yılmaz Camii..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Hafız Yusuf Yılmaz Camii

@@ -1,18 +1,17 @@
 ---
-title: "Köprübaşı Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:38:50+03:00
+title: "Köprübaşı Köyü Camii"
+date: "2025-12-25T00:38:50+03:00"
 slug: "koprubasi-koyu-camii"
 description: "## Köprübaşı Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.00947214,41.072840269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprübaşı Köyü Camii

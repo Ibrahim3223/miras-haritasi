@@ -1,18 +1,17 @@
 ---
-title: "Yaylabaşı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:29:44+03:00
+title: "Yaylabaşı Kilisesi"
+date: "2025-12-25T09:29:44+03:00"
 slug: "yaylabasi-kilisesi"
 description: "# Yaylabaşı Kilisesi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.5226173,39.6366959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yaylabaşı Kilisesi

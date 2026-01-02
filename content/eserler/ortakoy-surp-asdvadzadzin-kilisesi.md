@@ -1,18 +1,17 @@
 ---
-title: "Ortaköy Surp Asdvadzadzin Kilisesi | Miras Haritası"
-date: 2025-12-25T08:46:49+03:00
+title: "Ortaköy Surp Asdvadzadzin Kilisesi"
+date: "2025-12-25T08:46:49+03:00"
 slug: "ortakoy-surp-asdvadzadzin-kilisesi"
 description: "### Ortaköy Surp Asdvadzadzin Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.023031,41.049796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ortaköy Surp Asdvadzadzin Kilisesi

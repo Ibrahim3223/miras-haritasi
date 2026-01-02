@@ -1,18 +1,18 @@
 ---
-title: "Tabakhane Köprüsü | Miras Haritası"
-date: 2025-12-25T02:47:08+03:00
+title: "Tabakhane Köprüsü"
+date: "2025-12-25T02:47:08+03:00"
 slug: "tabakhane-koprusu"
 description: "### Tabakhane Köprüsü..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tabakhane_Bridge,_Trabzon.jpg/1200px-Tabakhane_Bridge,_Trabzon.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.860836,39.9430199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tabakhane_Bridge,_Trabzon.jpg/1200px-Tabakhane_Bridge,_Trabzon.jpg"
 ---
 
 ### Tabakhane Köprüsü

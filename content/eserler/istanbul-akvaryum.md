@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Akvaryum | Miras Haritası"
-date: 2025-12-25T03:11:55+03:00
+title: "İstanbul Akvaryum"
+date: "2025-12-25T03:11:55+03:00"
 slug: "istanbul-akvaryum"
 description: "## İstanbul Akvaryum..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/İstanbul_Akvaryumun_girişi.jpg/1200px-İstanbul_Akvaryumun_girişi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.8,40.96416667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İstanbul Akvaryum

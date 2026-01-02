@@ -1,18 +1,17 @@
 ---
-title: "Kaygıllı Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:20+03:00
+title: "Kaygıllı Kalesi"
+date: "2025-12-25T01:26:20+03:00"
 slug: "kaygilli-kalesi"
 description: "## Kaygıllı Kalesi: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.6131897,37.6264267"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaygıllı Kalesi: Tarihi ve Mimari Özellikleri

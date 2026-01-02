@@ -1,18 +1,17 @@
 ---
-title: "Köprülü Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:06:08+03:00
+title: "Köprülü Köyü Köprüsü"
+date: "2025-12-25T02:06:08+03:00"
 slug: "koprulu-koyu-koprusu"
 description: "## Köprülü Köyü Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.518,40.985017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprülü Köyü Köprüsü

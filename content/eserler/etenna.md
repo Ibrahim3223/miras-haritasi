@@ -1,18 +1,17 @@
 ---
-title: "Etenna | Miras Haritası"
-date: 2025-12-25T04:21:15+03:00
+title: "Etenna"
+date: "2025-12-25T04:21:15+03:00"
 slug: "etenna"
 description: "## Etenna Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.44916667,37.00166667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Etenna Arkeolojik Sit

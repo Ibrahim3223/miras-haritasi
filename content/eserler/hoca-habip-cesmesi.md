@@ -1,18 +1,17 @@
 ---
-title: "Hoca Habip Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:39:21+03:00
+title: "Hoca Habip Çeşmesi"
+date: "2025-12-25T11:39:21+03:00"
 slug: "hoca-habip-cesmesi"
 description: "## Hoca Habip Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5020447,37.8732071"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Habip Çeşmesi

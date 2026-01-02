@@ -1,18 +1,17 @@
 ---
-title: "Arasa Hamamı | Miras Haritası"
-date: 2025-12-25T16:51:29+03:00
+title: "Arasa Hamamı"
+date: "2025-12-25T16:51:29+03:00"
 slug: "arasa-hamami"
 description: "## Arasa Hamamı: Şanlıurfa'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.7890663,37.1491623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arasa Hamamı: Şanlıurfa'nın Tarihî ve Kültürel Mirası

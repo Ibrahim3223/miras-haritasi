@@ -1,18 +1,17 @@
 ---
-title: "Bayafşar Camii | Miras Haritası"
-date: 2025-12-25T00:09:07+03:00
+title: "Bayafşar Camii"
+date: "2025-12-25T00:09:07+03:00"
 slug: "bayafsar-camii"
 description: "## Bayafşar Camii: Beyşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.799599241,37.580418998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayafşar Camii: Beyşehir'in Gizli Cenneti

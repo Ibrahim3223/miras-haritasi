@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ahmet Camii, Burhaniye | Miras Haritası"
-date: 2025-12-24T23:53:40+03:00
+title: "Hacı Ahmet Camii, Burhaniye"
+date: "2025-12-24T23:53:40+03:00"
 slug: "haci-ahmet-camii-burhaniye"
 description: "### Hacı Ahmet Camii, Burhaniye..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Burhaniye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9833965,39.5008163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Ahmet Camii, Burhaniye

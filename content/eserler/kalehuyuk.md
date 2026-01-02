@@ -1,18 +1,17 @@
 ---
-title: "Kalehüyük | Miras Haritası"
-date: 2025-12-25T05:34:33+03:00
+title: "Kalehüyük"
+date: "2025-12-25T05:34:33+03:00"
 slug: "kalehuyuk"
 description: "### Kalehüyük: Sakarya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Söğütlü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.145633,40.051483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kalehüyük: Sakarya'nın Gizli Cenneti

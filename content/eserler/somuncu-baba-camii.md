@@ -1,18 +1,17 @@
 ---
-title: "Somuncu Baba Camii | Miras Haritası"
-date: 2025-12-24T23:09:54+03:00
+title: "Somuncu Baba Camii"
+date: "2025-12-24T23:09:54+03:00"
 slug: "somuncu-baba-camii"
 description: "## Somuncu Baba Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0588856,40.1777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Somuncu Baba Camii

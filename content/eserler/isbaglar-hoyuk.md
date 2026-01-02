@@ -1,18 +1,17 @@
 ---
-title: "İsbağlar Höyük | Miras Haritası"
-date: 2025-12-25T06:39:44+03:00
+title: "İsbağlar Höyük"
+date: "2025-12-25T06:39:44+03:00"
 slug: "isbaglar-hoyuk"
 description: "**İsbağlar Höyük: Aksaray'ın Gizli Kahramanı**..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ağaçören ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8565052,38.9147782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İsbağlar Höyük: Aksaray'ın Gizli Kahramanı**

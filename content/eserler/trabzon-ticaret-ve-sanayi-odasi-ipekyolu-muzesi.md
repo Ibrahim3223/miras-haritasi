@@ -1,18 +1,17 @@
 ---
-title: "Trabzon Ticaret ve Sanayi Odası İpekyolu Müzesi | Miras Haritası"
-date: 2025-12-25T03:29:56+03:00
+title: "Trabzon Ticaret ve Sanayi Odası İpekyolu Müzesi"
+date: "2025-12-25T03:29:56+03:00"
 slug: "trabzon-ticaret-ve-sanayi-odasi-ipekyolu-muzesi"
 description: "## Trabzon Ticaret ve Sanayi Odası İpekyolu Müzesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.719591,41.008633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Trabzon Ticaret ve Sanayi Odası İpekyolu Müzesi

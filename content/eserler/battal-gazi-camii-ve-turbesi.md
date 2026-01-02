@@ -1,18 +1,17 @@
 ---
-title: "Battal Gazi Camii ve Türbesi | Miras Haritası"
-date: 2025-12-24T22:12:53+03:00
+title: "Battal Gazi Camii ve Türbesi"
+date: "2025-12-24T22:12:53+03:00"
 slug: "battal-gazi-camii-ve-turbesi"
 description: "## Battal Gazi Camii ve Türbesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4803467,38.7067451"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Battal Gazi Camii ve Türbesi

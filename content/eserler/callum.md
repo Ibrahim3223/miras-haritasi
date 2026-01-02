@@ -1,18 +1,17 @@
 ---
-title: "Callum | Miras Haritası"
-date: 2025-12-25T04:49:21+03:00
+title: "Callum"
+date: "2025-12-25T04:49:21+03:00"
 slug: "callum"
 description: "## Callum Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.418437,41.051365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Callum Arkeolojik Sit

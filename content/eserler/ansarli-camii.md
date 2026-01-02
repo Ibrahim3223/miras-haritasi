@@ -1,18 +1,17 @@
 ---
-title: "Ansarlı Camii | Miras Haritası"
-date: 2025-12-24T22:13:35+03:00
+title: "Ansarlı Camii"
+date: "2025-12-24T22:13:35+03:00"
 slug: "ansarli-camii"
 description: "# Ansarlı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1774998,39.1239014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ansarlı Camii

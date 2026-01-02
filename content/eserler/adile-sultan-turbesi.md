@@ -1,18 +1,17 @@
 ---
-title: "Adile Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:31+03:00
+title: "Adile Sultan Türbesi"
+date: "2025-12-25T14:28:31+03:00"
 slug: "adile-sultan-turbesi"
 description: "## Adile Sultan Türbesi: Eyüp Sultan'da Bir Ünlü Kadının Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9355793,41.0484047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adile Sultan Türbesi: Eyüp Sultan'da Bir Ünlü Kadının Anıtı

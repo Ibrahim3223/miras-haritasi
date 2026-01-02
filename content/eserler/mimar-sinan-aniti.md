@@ -1,18 +1,17 @@
 ---
-title: "Mimar Sinan Anıtı | Miras Haritası"
-date: 2025-12-25T15:41:46+03:00
+title: "Mimar Sinan Anıtı"
+date: "2025-12-25T15:41:46+03:00"
 slug: "mimar-sinan-aniti"
 description: "## Mimar Sinan Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8551483,39.9303589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mimar Sinan Anıtı

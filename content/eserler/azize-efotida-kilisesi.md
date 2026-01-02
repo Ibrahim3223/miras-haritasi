@@ -1,18 +1,17 @@
 ---
-title: "Azize Efotida Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:06+03:00
+title: "Azize Efotida Kilisesi"
+date: "2025-12-25T09:38:06+03:00"
 slug: "azize-efotida-kilisesi"
 description: "## Azize Efotida Kilisesi: Kırklareli'nin Gizli Çehresi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.1622391,41.7659416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Azize Efotida Kilisesi: Kırklareli'nin Gizli Çehresi

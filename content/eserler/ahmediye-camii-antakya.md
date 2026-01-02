@@ -1,18 +1,17 @@
 ---
-title: "Ahmediye Camii, Antakya | Miras Haritası"
-date: 2025-12-24T23:55:53+03:00
+title: "Ahmediye Camii, Antakya"
+date: "2025-12-24T23:55:53+03:00"
 slug: "ahmediye-camii-antakya"
 description: "## Ahmediye Camii: Antakya'da Bir Tarihi Miras..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1633568,36.203495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmediye Camii: Antakya'da Bir Tarihi Miras

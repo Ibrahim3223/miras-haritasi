@@ -1,18 +1,17 @@
 ---
-title: "Koruköy Tavşantepe Güney Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:23+03:00
+title: "Koruköy Tavşantepe Güney Tümülüsü"
+date: "2025-12-25T07:52:23+03:00"
 slug: "korukoy-tavsantepe-guney-tumulusu"
 description: "### Koruköy Tavşantepe Güney Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3138561,41.8492088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koruköy Tavşantepe Güney Tümülüsü

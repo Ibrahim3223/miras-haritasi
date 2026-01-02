@@ -1,18 +1,17 @@
 ---
-title: "Kürkçübaşı Hacı Hüseyin Ağa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:16+03:00
+title: "Kürkçübaşı Hacı Hüseyin Ağa Camii Çeşmesi"
+date: "2025-12-25T11:08:16+03:00"
 slug: "kurkcubasi-haci-huseyin-aga-camii-cesmesi"
 description: "### Kürkçübaşı Hacı Hüseyin Ağa Camii Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yedikule"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.924503,40.994289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kürkçübaşı Hacı Hüseyin Ağa Camii Çeşmesi

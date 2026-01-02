@@ -1,18 +1,17 @@
 ---
-title: "Değirmenköy Kilisesi | Miras Haritası"
-date: 2025-12-25T09:28:30+03:00
+title: "Değirmenköy Kilisesi"
+date: "2025-12-25T09:28:30+03:00"
 slug: "degirmenkoy-kilisesi"
 description: "## Değirmenköy Kilisesi: Erzincan'ın Eski Bir Kültürel Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.617363,39.6312943"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmenköy Kilisesi: Erzincan'ın Eski Bir Kültürel Mirası

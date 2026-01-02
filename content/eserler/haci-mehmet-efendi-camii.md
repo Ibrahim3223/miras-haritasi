@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmet Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:28:32+03:00
+title: "Hacı Mehmet Efendi Camii"
+date: "2025-12-24T23:28:32+03:00"
 slug: "haci-mehmet-efendi-camii"
 description: "## Hacı Mehmet Efendi Camii..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2881737,38.419342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mehmet Efendi Camii

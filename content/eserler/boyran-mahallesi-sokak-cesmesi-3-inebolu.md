@@ -1,18 +1,17 @@
 ---
-title: "Boyran Mahallesi Sokak Çeşmesi 3, İnebolu | Miras Haritası"
-date: 2025-12-25T12:58:38+03:00
+title: "Boyran Mahallesi Sokak Çeşmesi 3, İnebolu"
+date: "2025-12-25T12:58:38+03:00"
 slug: "boyran-mahallesi-sokak-cesmesi-3-inebolu"
 description: "## Boyran Mahallesi Sokak Çeşmesi 3, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.755495218,41.977653949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boyran Mahallesi Sokak Çeşmesi 3, İnebolu

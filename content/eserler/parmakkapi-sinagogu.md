@@ -1,18 +1,17 @@
 ---
-title: "Parmakkapı Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:57+03:00
+title: "Parmakkapı Sinagogu"
+date: "2025-12-25T16:12:57+03:00"
 slug: "parmakkapi-sinagogu"
 description: "## Parmakkapı Sinagogu: Beyoğlu'nun Gizli Kahramanı..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Keçeci Piri"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.952222222,41.040388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parmakkapı Sinagogu: Beyoğlu'nun Gizli Kahramanı

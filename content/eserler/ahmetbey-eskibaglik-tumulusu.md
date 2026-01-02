@@ -1,18 +1,17 @@
 ---
-title: "Ahmetbey Eskibağlık Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:26:17+03:00
+title: "Ahmetbey Eskibağlık Tümülüsü"
+date: "2025-12-25T07:26:17+03:00"
 slug: "ahmetbey-eskibaglik-tumulusu"
 description: "## Ahmetbey Eskibağlık Tümülüsü: Lüleburgaz'ın Gizli Öreni..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5809021,41.4557877"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmetbey Eskibağlık Tümülüsü: Lüleburgaz'ın Gizli Öreni

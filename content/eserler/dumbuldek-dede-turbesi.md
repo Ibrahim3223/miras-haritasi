@@ -1,18 +1,17 @@
 ---
-title: "Dümbüldek Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:43+03:00
+title: "Dümbüldek Dede Türbesi"
+date: "2025-12-25T15:25:43+03:00"
 slug: "dumbuldek-dede-turbesi"
 description: "### Dümbüldek Dede Türbesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Derince"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.8094711,40.9771004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dümbüldek Dede Türbesi

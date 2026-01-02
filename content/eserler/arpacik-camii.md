@@ -1,18 +1,17 @@
 ---
-title: "Arpacık Camii | Miras Haritası"
-date: 2025-12-25T00:57:59+03:00
+title: "Arpacık Camii"
+date: "2025-12-25T00:57:59+03:00"
 slug: "arpacik-camii"
 description: "## Arpacık Camii: Artvin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7401,40.7511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arpacık Camii: Artvin'in Gizli Çeşmesi

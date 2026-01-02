@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mustafa Niyazi Kabri | Miras Haritası"
-date: 2025-12-25T13:30:59+03:00
+title: "Şeyh Mustafa Niyazi Kabri"
+date: "2025-12-25T13:30:59+03:00"
 slug: "seyh-mustafa-niyazi-kabri"
 description: "## Şeyh Mustafa Niyazi Kabri: Fatih'in Gizli Şehri'nin Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9322128,41.0192032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Mustafa Niyazi Kabri: Fatih'in Gizli Şehri'nin Gizemi

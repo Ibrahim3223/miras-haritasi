@@ -1,18 +1,17 @@
 ---
-title: "Karatekin Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:10+03:00
+title: "Karatekin Türbesi"
+date: "2025-12-25T14:57:10+03:00"
 slug: "karatekin-turbesi"
 description: "## Karatekin Türbesi: Çankırı'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.616642,40.6082001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karatekin Türbesi: Çankırı'nın Gizli Mücevheri

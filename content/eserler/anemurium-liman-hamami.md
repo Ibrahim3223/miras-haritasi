@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Liman Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:27+03:00
+title: "Anemurium Liman Hamamı"
+date: "2025-12-25T17:03:27+03:00"
 slug: "anemurium-liman-hamami"
 description: "## Anemurium Liman Hamamı: Mersin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8035316,36.022419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anemurium Liman Hamamı: Mersin'in Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Dumanlı Köyü Terzili Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:16:23+03:00
+title: "Dumanlı Köyü Terzili Mahallesi Kilisesi"
+date: "2025-12-25T09:16:23+03:00"
 slug: "dumanli-koyu-terzili-mahallesi-kilisesi"
 description: "## Dumanlı Köyü Terzili Mahallesi Kilisesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.805517,40.67359"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumanlı Köyü Terzili Mahallesi Kilisesi

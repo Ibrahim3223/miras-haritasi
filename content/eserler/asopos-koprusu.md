@@ -1,18 +1,17 @@
 ---
-title: "Asopos Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:09+03:00
+title: "Asopos Köprüsü"
+date: "2025-12-25T02:24:09+03:00"
 slug: "asopos-koprusu"
 description: "## Asopos Köprüsü: Pamukkale'nin Gizemli Köprüsü..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.099667,37.838829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asopos Köprüsü: Pamukkale'nin Gizemli Köprüsü

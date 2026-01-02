@@ -1,18 +1,17 @@
 ---
-title: "Mocasura | Miras Haritası"
-date: 2025-12-25T04:49:26+03:00
+title: "Mocasura"
+date: "2025-12-25T04:49:26+03:00"
 slug: "mocasura"
 description: "# Mocasura..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6654854,41.0388715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mocasura

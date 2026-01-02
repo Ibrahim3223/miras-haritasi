@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:38+03:00
+title: "Çarşı Hamamı"
+date: "2025-12-25T16:29:38+03:00"
 slug: "carsi-hamami"
 description: "### Çarşı Hamamı: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.3300071,36.9840354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çarşı Hamamı: Tarihi ve Kültürel Mirasımız

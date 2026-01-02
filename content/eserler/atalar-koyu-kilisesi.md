@@ -1,18 +1,17 @@
 ---
-title: "Atalar Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:15:51+03:00
+title: "Atalar Köyü Kilisesi"
+date: "2025-12-25T09:15:51+03:00"
 slug: "atalar-koyu-kilisesi"
 description: "## Atalar Köyü Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.457341,40.584696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atalar Köyü Kilisesi: Tarihi ve Kültürel Miras

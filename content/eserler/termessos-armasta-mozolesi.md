@@ -1,18 +1,17 @@
 ---
-title: "Termessos Armasta Mozolesi | Miras Haritası"
-date: 2025-12-25T14:03:11+03:00
+title: "Termessos Armasta Mozolesi"
+date: "2025-12-25T14:03:11+03:00"
 slug: "termessos-armasta-mozolesi"
 description: "# Termessos Armasta Mozolesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.466202,36.981766"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Termessos Armasta Mozolesi

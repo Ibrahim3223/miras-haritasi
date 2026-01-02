@@ -1,18 +1,17 @@
 ---
-title: "Yedi Sekiz Hasan Paşa Kabri | Miras Haritası"
-date: 2025-12-25T13:33:46+03:00
+title: "Yedi Sekiz Hasan Paşa Kabri"
+date: "2025-12-25T13:33:46+03:00"
 slug: "yedi-sekiz-hasan-pasa-kabri"
 description: "**Yedi Sekiz Hasan Paşa Kabri: Beşiktaş'ta Bir Anıt**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0180607,41.0466156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yedi Sekiz Hasan Paşa Kabri: Beşiktaş'ta Bir Anıt**

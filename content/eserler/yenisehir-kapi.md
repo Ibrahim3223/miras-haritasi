@@ -1,18 +1,17 @@
 ---
-title: "Yenişehir Kapı | Miras Haritası"
-date: 2025-12-25T13:16:26+03:00
+title: "Yenişehir Kapı"
+date: "2025-12-25T13:16:26+03:00"
 slug: "yenisehir-kapi"
 description: "## Yenişehir Kapı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.7192383,40.4235039"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenişehir Kapı

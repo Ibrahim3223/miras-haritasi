@@ -1,18 +1,17 @@
 ---
-title: "Sazgın Höyük | Miras Haritası"
-date: 2025-12-25T13:46:15+03:00
+title: "Sazgın Höyük"
+date: "2025-12-25T13:46:15+03:00"
 slug: "sazgin-hoyuk"
 description: "## Sazgın Höyük: Tarihî Mirasın Gizli Cenneti..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.4616652,36.9412792"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sazgın Höyük: Tarihî Mirasın Gizli Cenneti

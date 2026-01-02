@@ -1,18 +1,17 @@
 ---
-title: "Eskihisar Köprüsü (1) | Miras Haritası"
-date: 2025-12-25T02:14:09+03:00
+title: "Eskihisar Köprüsü (1)"
+date: "2025-12-25T02:14:09+03:00"
 slug: "eskihisar-koprusu-1"
 description: "## Eskihisar Köprüsü: Aydın'ın Tarihi Çandırı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.136694,37.8927536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskihisar Köprüsü: Aydın'ın Tarihi Çandırı

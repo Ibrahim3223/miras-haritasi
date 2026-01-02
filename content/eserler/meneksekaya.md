@@ -1,18 +1,17 @@
 ---
-title: "Menekşekaya | Miras Haritası"
-date: 2025-12-25T06:34:06+03:00
+title: "Menekşekaya"
+date: "2025-12-25T06:34:06+03:00"
 slug: "meneksekaya"
 description: "### Menekşekaya Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.509159,39.07119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Menekşekaya Arkeolojik Sit

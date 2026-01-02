@@ -1,18 +1,17 @@
 ---
-title: "Hatuniye Camii | Miras Haritası"
-date: 2025-12-24T21:39:47+03:00
+title: "Hatuniye Camii"
+date: "2025-12-24T21:39:47+03:00"
 slug: "hatuniye-camii"
 description: "### Hatuniye Camii: Amasya'nın Tarihî Bir Çandır..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amasya-Mosque.JPG/1200px-Amasya-Mosque.JPG"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.829416666,40.652027777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hatuniye Camii: Amasya'nın Tarihî Bir Çandır

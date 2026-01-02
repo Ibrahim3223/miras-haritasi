@@ -1,18 +1,17 @@
 ---
-title: "Beylerbeyi Camii Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:16:31+03:00
+title: "Beylerbeyi Camii Çeşmeleri"
+date: "2025-12-25T11:16:31+03:00"
 slug: "beylerbeyi-camii-cesmeleri"
 description: "## Beylerbeyi Camii Çeşmeleri..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Beylerbeyi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.046268,41.0448428"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beylerbeyi Camii Çeşmeleri

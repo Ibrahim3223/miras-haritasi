@@ -1,18 +1,17 @@
 ---
-title: "Yahya Kemal Enstitüsü ve Müzesi | Miras Haritası"
-date: 2025-12-25T03:46:04+03:00
+title: "Yahya Kemal Enstitüsü ve Müzesi"
+date: "2025-12-25T03:46:04+03:00"
 slug: "yahya-kemal-enstitusu-ve-muzesi"
 description: "## Yahya Kemal Enstitüsü ve Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9675694,41.008522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahya Kemal Enstitüsü ve Müzesi

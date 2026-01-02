@@ -1,18 +1,17 @@
 ---
-title: "Kab Camii | Miras Haritası"
-date: 2025-12-24T23:36:53+03:00
+title: "Kab Camii"
+date: "2025-12-24T23:36:53+03:00"
 slug: "kab-camii"
 description: "### Kab Camii: Adıyaman'ın Zengini..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.2791367,37.759594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kab Camii: Adıyaman'ın Zengini

@@ -1,18 +1,17 @@
 ---
-title: "Yaşar Höyük | Miras Haritası"
-date: 2025-12-25T06:16:40+03:00
+title: "Yaşar Höyük"
+date: "2025-12-25T06:16:40+03:00"
 slug: "yasar-hoyuk"
 description: "# Yaşar Höyük: Kızıltepe'nin Gizemli Yerleşimi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.544860699,37.085682605"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yaşar Höyük: Kızıltepe'nin Gizemli Yerleşimi

@@ -1,18 +1,17 @@
 ---
-title: "Ziporea | Miras Haritası"
-date: 2025-12-25T05:20:18+03:00
+title: "Ziporea"
+date: "2025-12-25T05:20:18+03:00"
 slug: "ziporea"
 description: "**Ziporea Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.1191805,41.5715265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ziporea Arkeolojik Sit**

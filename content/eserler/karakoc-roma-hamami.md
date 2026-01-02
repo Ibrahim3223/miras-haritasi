@@ -1,18 +1,17 @@
 ---
-title: "Karakoç Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:58:48+03:00
+title: "Karakoç Roma Hamamı"
+date: "2025-12-25T16:58:48+03:00"
 slug: "karakoc-roma-hamami"
 description: "## Karakoç Roma Hamamı: Seferihisar'ın Eskişehirindeki Tarihi bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.9160671,38.0889282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakoç Roma Hamamı: Seferihisar'ın Eskişehirindeki Tarihi bir Mirası

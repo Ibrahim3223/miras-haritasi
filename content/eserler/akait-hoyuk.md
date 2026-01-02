@@ -1,18 +1,17 @@
 ---
-title: "Akait Höyük | Miras Haritası"
-date: 2025-12-25T05:56:56+03:00
+title: "Akait Höyük"
+date: "2025-12-25T05:56:56+03:00"
 slug: "akait-hoyuk"
 description: "## Akait Höyük: Konya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.5343437,38.2853355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akait Höyük: Konya'nın Gizli Kahramanı

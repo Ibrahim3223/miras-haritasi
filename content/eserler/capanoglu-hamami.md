@@ -1,18 +1,17 @@
 ---
-title: "Çapanoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:34+03:00
+title: "Çapanoğlu Hamamı"
+date: "2025-12-25T16:29:34+03:00"
 slug: "capanoglu-hamami"
 description: "## Çapanoğlu Hamamı..."
 featured_image: ""
-province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: "Ankara Vilayeti"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.8062347,39.8215746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çapanoğlu Hamamı

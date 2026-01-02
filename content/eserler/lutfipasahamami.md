@@ -1,18 +1,17 @@
 ---
-title: "Lütfi Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T17:00:04+03:00
+title: "Lütfi Paşa Hamamı"
+date: "2025-12-25T17:00:04+03:00"
 slug: "lutfipasahamami"
 description: "## Lütfi Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9386768,41.014286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lütfi Paşa Hamamı

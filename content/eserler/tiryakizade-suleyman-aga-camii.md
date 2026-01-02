@@ -1,18 +1,17 @@
 ---
-title: "Tiryakizade Süleyman Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:15:43+03:00
+title: "Tiryakizade Süleyman Ağa Camii"
+date: "2025-12-24T23:15:43+03:00"
 slug: "tiryakizade-suleyman-aga-camii"
 description: "## Tiryakizade Süleyman Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5239029,39.7646446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tiryakizade Süleyman Ağa Camii

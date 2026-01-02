@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Tercan | Miras Haritası"
-date: 2025-12-25T02:59:17+03:00
+title: "Roma Köprüsü, Tercan"
+date: "2025-12-25T02:59:17+03:00"
 slug: "roma-koprusu-tercan"
 description: "## Roma Köprüsü, Tercan..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Tercan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.4202093,39.7799299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Tercan

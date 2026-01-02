@@ -1,18 +1,17 @@
 ---
-title: "Halil Çevkan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:09+03:00
+title: "Halil Çevkan Çeşmesi"
+date: "2025-12-25T11:02:09+03:00"
 slug: "halil-cevkan-cesmesi"
 description: "## Halil Çevkan Çeşmesi: Fatih, İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Halil_Çevkan_Çeşmesi.jpg/1200px-Halil_Çevkan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9614182,41.0054169"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Halil Çevkan Çeşmesi: Fatih, İstanbul'un Gizli Çeşmesi

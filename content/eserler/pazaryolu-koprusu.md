@@ -1,18 +1,17 @@
 ---
-title: "Pazaryolu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:59+03:00
+title: "Pazaryolu Köprüsü"
+date: "2025-12-25T02:33:59+03:00"
 slug: "pazaryolu-koprusu"
 description: "## Pazaryolu Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Düzköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.34922,40.839112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazaryolu Köprüsü

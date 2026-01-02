@@ -1,18 +1,17 @@
 ---
-title: "Lamos Kalesi | Miras Haritası"
-date: 2025-12-25T01:50:25+03:00
+title: "Lamos Kalesi"
+date: "2025-12-25T01:50:25+03:00"
 slug: "lamos-kalesi"
 description: "### Lamos Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LamosKalesi1.jpg/1200px-LamosKalesi1.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.24111111,36.55722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Lamos Kalesi

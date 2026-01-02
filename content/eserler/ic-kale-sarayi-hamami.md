@@ -1,18 +1,17 @@
 ---
-title: "İç Kale Sarayı Hamamı | Miras Haritası"
-date: 2025-12-25T16:57:13+03:00
+title: "İç Kale Sarayı Hamamı"
+date: "2025-12-25T16:57:13+03:00"
 slug: "ic-kale-sarayi-hamami"
 description: "### İç Kale Sarayı Hamamı..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.7192612,41.0014267"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İç Kale Sarayı Hamamı

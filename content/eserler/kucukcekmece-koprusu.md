@@ -1,18 +1,17 @@
 ---
-title: "Küçükçekmece Köprüsü | Miras Haritası"
-date: 2025-12-25T01:58:57+03:00
+title: "Küçükçekmece Köprüsü"
+date: "2025-12-25T01:58:57+03:00"
 slug: "kucukcekmece-koprusu"
 description: "### Küçükçekmece Köprüsü: Tarihî ve Kültürel Mirasın Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/KüçükçekmeceBridge_(2).jpg/1200px-KüçükçekmeceBridge_(2).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.77006,40.98917"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Küçükçekmece Köprüsü: Tarihî ve Kültürel Mirasın Bir Parçası

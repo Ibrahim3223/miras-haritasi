@@ -1,18 +1,17 @@
 ---
-title: "Kasım Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:08:29+03:00
+title: "Kasım Efendi Camii"
+date: "2025-12-24T22:08:29+03:00"
 slug: "kasim-efendi-camii"
 description: "## Kasım Efendi Camii..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.512222222,40.076666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasım Efendi Camii

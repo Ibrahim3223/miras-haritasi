@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Dumanlı | Miras Haritası"
-date: 2025-12-25T02:54:43+03:00
+title: "Roma Köprüsü, Dumanlı"
+date: "2025-12-25T02:54:43+03:00"
 slug: "roma-koprusu-dumanli"
 description: "### Roma Köprüsü, Dumanlı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Derik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.157631,37.330059"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Dumanlı

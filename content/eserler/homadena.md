@@ -1,18 +1,17 @@
 ---
-title: "Homadena | Miras Haritası"
-date: 2025-12-25T05:07:27+03:00
+title: "Homadena"
+date: "2025-12-25T05:07:27+03:00"
 slug: "homadena"
 description: "**Homadena Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.992079,38.236415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Homadena Arkeolojik Sit**

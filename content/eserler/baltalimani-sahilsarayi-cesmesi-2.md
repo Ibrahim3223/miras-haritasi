@@ -1,18 +1,17 @@
 ---
-title: "Baltalimanı Sahilsarayı Çeşmesi (2) | Miras Haritası"
-date: 2025-12-25T13:00:24+03:00
+title: "Baltalimanı Sahilsarayı Çeşmesi (2)"
+date: "2025-12-25T13:00:24+03:00"
 slug: "baltalimani-sahilsarayi-cesmesi-2"
 description: "## Baltalimanı Sahilsarayı Çeşmesi (2)..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Baltalimanı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0537357,41.0972862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baltalimanı Sahilsarayı Çeşmesi (2)

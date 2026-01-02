@@ -1,18 +1,17 @@
 ---
-title: "Şifa Yokuşu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:42+03:00
+title: "Şifa Yokuşu Çeşmesi"
+date: "2025-12-25T11:19:42+03:00"
 slug: "sifa-yokusu-cesmesi"
 description: "## Şifa Yokuşu Çeşmesi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Düğmeciler"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.929418,41.045674"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şifa Yokuşu Çeşmesi

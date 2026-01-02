@@ -1,18 +1,17 @@
 ---
-title: "Tamburacılar Camii | Miras Haritası"
-date: 2025-12-24T23:14:59+03:00
+title: "Tamburacılar Camii"
+date: "2025-12-24T23:14:59+03:00"
 slug: "tamburacilar-camii"
 description: "# Tamburacılar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tamburacılar_Camii.jpg/1200px-Tamburacılar_Camii.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5529938,41.6737823"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Tamburacılar Camii

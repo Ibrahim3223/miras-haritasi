@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Merkez Camii | Miras Haritası"
-date: 2025-12-24T23:42:21+03:00
+title: "Kavaklı Merkez Camii"
+date: "2025-12-24T23:42:21+03:00"
 slug: "kavakli-merkez-camii"
 description: "## Kavaklı Merkez Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1715603,41.6561737"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavaklı Merkez Camii

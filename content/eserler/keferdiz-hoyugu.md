@@ -1,18 +1,17 @@
 ---
-title: "Keferdiz Höyüğü | Miras Haritası"
-date: 2025-12-25T06:45:43+03:00
+title: "Keferdiz Höyüğü"
+date: "2025-12-25T06:45:43+03:00"
 slug: "keferdiz-hoyugu"
 description: "## Keferdiz Höyüğü: Gaziantep'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Nurdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9271131,37.1982169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keferdiz Höyüğü: Gaziantep'in Tarihi ve Kültürel Mirası

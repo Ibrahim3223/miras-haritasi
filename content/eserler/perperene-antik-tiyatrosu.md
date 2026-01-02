@@ -1,18 +1,17 @@
 ---
-title: "Perperene Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:17+03:00
+title: "Perperene Antik Tiyatrosu"
+date: "2025-12-25T04:14:17+03:00"
 slug: "perperene-antik-tiyatrosu"
 description: "## Perperene Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9722958,39.2705154"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perperene Antik Tiyatrosu

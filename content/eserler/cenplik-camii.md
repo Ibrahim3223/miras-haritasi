@@ -1,18 +1,17 @@
 ---
-title: "Çenplik Camii | Miras Haritası"
-date: 2025-12-24T22:50:43+03:00
+title: "Çenplik Camii"
+date: "2025-12-24T22:50:43+03:00"
 slug: "cenplik-camii"
 description: "## Çenplik Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıdemir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.965593,41.020379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çenplik Camii

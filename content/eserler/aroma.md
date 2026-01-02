@@ -1,18 +1,17 @@
 ---
-title: "Aroma | Miras Haritası"
-date: 2025-12-25T05:10:37+03:00
+title: "Aroma"
+date: "2025-12-25T05:10:37+03:00"
 slug: "aroma"
 description: "### Aroma Arkeolojik Sit..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.138317,37.912227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aroma Arkeolojik Sit

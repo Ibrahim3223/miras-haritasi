@@ -1,18 +1,17 @@
 ---
-title: "Hovvi Church (Ani) | Miras Haritası"
-date: 2025-12-25T08:46:46+03:00
+title: "Hovvi Church (Ani)"
+date: "2025-12-25T08:46:46+03:00"
 slug: "hovvi-church-ani"
 description: "### Hovvi Church (Ani)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Church_of_Hovvi_Ani_1920.jpg/1200px-Church_of_Hovvi_Ani_1920.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hovvi Church (Ani)

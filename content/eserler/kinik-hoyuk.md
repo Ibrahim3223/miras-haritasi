@@ -1,18 +1,18 @@
 ---
-title: "Kınık Höyük | Miras Haritası"
-date: 2025-12-25T05:55:16+03:00
+title: "Kınık Höyük"
+date: "2025-12-25T05:55:16+03:00"
 slug: "kinik-hoyuk"
 description: "### Kınık Höyük: Niğde'nin Gizli Cenneti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kınık_Höyük_09.jpg/1200px-Kınık_Höyük_09.jpg"
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.363464,37.931759"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kınık_Höyük_09.jpg/1200px-Kınık_Höyük_09.jpg"
 ---
 
 ### Kınık Höyük: Niğde'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Gümüşdere Rum Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:39+03:00
+title: "Gümüşdere Rum Kilisesi"
+date: "2025-12-25T09:31:39+03:00"
 slug: "gumusdere-rum-kilisesi"
 description: "## Gümüşdere Rum Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9856892,41.2354202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüşdere Rum Kilisesi

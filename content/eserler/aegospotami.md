@@ -1,18 +1,17 @@
 ---
-title: "Aegospotami | Miras Haritası"
-date: 2025-12-25T06:46:46+03:00
+title: "Aegospotami"
+date: "2025-12-25T06:46:46+03:00"
 slug: "aegospotami"
 description: "## Aegospotami: Gelibolu'nun Gizemli Eski Kenti..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.630833333,40.364072222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aegospotami: Gelibolu'nun Gizemli Eski Kenti

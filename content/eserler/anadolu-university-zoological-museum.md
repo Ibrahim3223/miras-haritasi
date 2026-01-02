@@ -1,18 +1,17 @@
 ---
-title: "Anadolu University Zoological Museum | Miras Haritası"
-date: 2025-12-25T03:27:48+03:00
+title: "Anadolu University Zoological Museum"
+date: "2025-12-25T03:27:48+03:00"
 slug: "anadolu-university-zoological-museum"
 description: "## Anadolu Üniversitesi Zoolojik Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Eskişehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anadolu Üniversitesi Zoolojik Müzesi

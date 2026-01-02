@@ -1,18 +1,17 @@
 ---
-title: "Müsellim Camii | Miras Haritası"
-date: 2025-12-25T17:50:31+03:00
+title: "Müsellim Camii"
+date: "2025-12-25T17:50:31+03:00"
 slug: "musellim-camii"
 description: "## Müsellim Camii: Antalya'nın Tarihi ve Kültürel Mirasının Gizli Çehresini Açıklarken..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.7039814,36.8882446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müsellim Camii: Antalya'nın Tarihi ve Kültürel Mirasının Gizli Çehresini Açıklarken

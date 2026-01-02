@@ -1,18 +1,17 @@
 ---
-title: "Bıçakcılar Yet Camii | Miras Haritası"
-date: 2025-12-25T00:59:42+03:00
+title: "Bıçakcılar Yet Camii"
+date: "2025-12-25T00:59:42+03:00"
 slug: "bicakcilar-yet-camii"
 description: "### Bıçakcılar Yet Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4295143,41.0547821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bıçakcılar Yet Camii

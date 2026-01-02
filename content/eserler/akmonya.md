@@ -1,18 +1,17 @@
 ---
-title: "Akmonya | Miras Haritası"
-date: 2025-12-25T04:36:14+03:00
+title: "Akmonya"
+date: "2025-12-25T04:36:14+03:00"
 slug: "akmonya"
 description: "**Akmonya: Uşak'ta Bir Antik Kentin İzleri**..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.7714539,38.658994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akmonya: Uşak'ta Bir Antik Kentin İzleri**

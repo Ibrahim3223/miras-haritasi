@@ -1,18 +1,17 @@
 ---
-title: "Baltasarılar Höyük | Miras Haritası"
-date: 2025-12-25T06:42:37+03:00
+title: "Baltasarılar Höyük"
+date: "2025-12-25T06:42:37+03:00"
 slug: "baltasarilar-hoyuk"
 description: "## Baltasarılar Höyük: Yozgat'ın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6973449,39.9387474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baltasarılar Höyük: Yozgat'ın Gizemli Arkeolojik Sitleri

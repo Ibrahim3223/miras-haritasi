@@ -1,18 +1,17 @@
 ---
-title: "Lankena | Miras Haritası"
-date: 2025-12-25T05:07:42+03:00
+title: "Lankena"
+date: "2025-12-25T05:07:42+03:00"
 slug: "lankena"
 description: "## Lankena Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.906358,38.876554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lankena Arkeolojik Sit

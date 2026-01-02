@@ -1,18 +1,17 @@
 ---
-title: "Balıkhane Kapısı | Miras Haritası"
-date: 2025-12-25T13:17:36+03:00
+title: "Balıkhane Kapısı"
+date: "2025-12-25T13:17:36+03:00"
 slug: "balikhane-kapisi"
 description: "## Balıkhane Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9850731,41.0063286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balıkhane Kapısı

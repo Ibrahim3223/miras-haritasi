@@ -1,18 +1,17 @@
 ---
-title: "Seymenlik Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:30+03:00
+title: "Seymenlik Hamamı"
+date: "2025-12-25T16:50:30+03:00"
 slug: "seymenlik-hamami"
 description: "### Seymenlik Hamamı: Milas'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.7900352,37.2711601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seymenlik Hamamı: Milas'ın Tarihi Bir Mirası

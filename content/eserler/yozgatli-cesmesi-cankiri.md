@@ -1,18 +1,17 @@
 ---
-title: "Yozgatlı Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:29:43+03:00
+title: "Yozgatlı Çeşmesi, Çankırı"
+date: "2025-12-25T12:29:43+03:00"
 slug: "yozgatli-cesmesi-cankiri"
 description: "## Yozgatlı Çeşmesi: Çankırı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.611636881,40.60518751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yozgatlı Çeşmesi: Çankırı'nın Tarihi ve Kültürel Mirası

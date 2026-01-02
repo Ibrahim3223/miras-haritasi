@@ -1,18 +1,17 @@
 ---
-title: "Balak Gazi Anıtı | Miras Haritası"
-date: 2025-12-25T15:47:42+03:00
+title: "Balak Gazi Anıtı"
+date: "2025-12-25T15:47:42+03:00"
 slug: "balak-gazi-aniti"
 description: "# Balak Gazi Anıtı..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.2503166,38.7015228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Balak Gazi Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Kaşgari Murtaza Efendi Camii | Miras Haritası"
-date: 2025-12-24T21:58:28+03:00
+title: "Kaşgari Murtaza Efendi Camii"
+date: "2025-12-24T21:58:28+03:00"
 slug: "kasgari-murtaza-efendi-camii"
 description: "**Kaşgari Murtaza Efendi Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kaşgari_Murteza_Efendi_Cami.jpg/1200px-Kaşgari_Murteza_Efendi_Cami.jpg"
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Merkez"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.931944444,41.051916666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Kaşgari Murtaza Efendi Camii**

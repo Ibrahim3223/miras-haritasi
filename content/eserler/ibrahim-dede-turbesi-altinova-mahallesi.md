@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Dede Türbesi (Altınova Mahallesi) | Miras Haritası"
-date: 2025-12-25T15:11:31+03:00
+title: "İbrahim Dede Türbesi (Altınova Mahallesi)"
+date: "2025-12-25T15:11:31+03:00"
 slug: "ibrahim-dede-turbesi-altinova-mahallesi"
 description: "## İbrahim Dede Türbesi: Ayvalık'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.774125,39.222419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Dede Türbesi: Ayvalık'ın Tarihî Bir Mirası

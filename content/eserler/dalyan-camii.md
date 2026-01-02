@@ -1,18 +1,17 @@
 ---
-title: "Dalyan Camii | Miras Haritası"
-date: 2025-12-24T22:31:54+03:00
+title: "Dalyan Camii"
+date: "2025-12-24T22:31:54+03:00"
 slug: "dalyan-camii"
 description: "## Dalyan Camii..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ortaca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6416035,36.8341217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dalyan Camii

@@ -1,18 +1,17 @@
 ---
-title: "Şemsiyetepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:08:50+03:00
+title: "Şemsiyetepe Höyüğü"
+date: "2025-12-25T07:08:50+03:00"
 slug: "semsiyetepe-hoyugu"
 description: "## Şemsiyetepe Höyüğü: Elazığ'ın Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Elazığ"
+province: "Elazığ"
+iller: '["Elazığ"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3742218,38.5754242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şemsiyetepe Höyüğü: Elazığ'ın Tarihi Mirası

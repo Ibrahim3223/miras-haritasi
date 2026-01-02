@@ -1,18 +1,17 @@
 ---
-title: "Mevlana Fevzullah Çingilli Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:08:32+03:00
+title: "Mevlana Fevzullah Çingilli Dede Türbesi"
+date: "2025-12-25T15:08:32+03:00"
 slug: "mevlana-fevzullah-cingilli-dede-turbesi"
 description: "## Mevlana Fevzullah Çingilli Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.326666666,37.901666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mevlana Fevzullah Çingilli Dede Türbesi

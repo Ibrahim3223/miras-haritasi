@@ -1,18 +1,17 @@
 ---
-title: "Amcazade Hüseyin Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:40:51+03:00
+title: "Amcazade Hüseyin Paşa Medresesi"
+date: "2025-12-25T17:40:51+03:00"
 slug: "amcazade-huseyin-pasa-medresesi"
 description: "# Amcazade Hüseyin Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9519329,41.0152397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Amcazade Hüseyin Paşa Medresesi

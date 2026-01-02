@@ -1,18 +1,17 @@
 ---
-title: "Aziz Simeon Kilisesi | Miras Haritası"
-date: 2025-12-25T08:42:48+03:00
+title: "Aziz Simeon Kilisesi"
+date: "2025-12-25T08:42:48+03:00"
 slug: "aziz-simeon-kilisesi"
 description: "## Aziz Simeon Kilisesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Simeon Kilisesi

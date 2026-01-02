@@ -1,18 +1,17 @@
 ---
-title: "Körtik Tepe | Miras Haritası"
-date: 2025-12-25T06:45:31+03:00
+title: "Körtik Tepe"
+date: "2025-12-25T06:45:31+03:00"
 slug: "kortik-tepe"
 description: "## Körtik Tepe Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.989503503,37.813993453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Körtik Tepe Arkeolojik Sit

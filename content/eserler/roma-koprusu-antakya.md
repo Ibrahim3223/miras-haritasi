@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Antakya | Miras Haritası"
-date: 2025-12-25T02:48:46+03:00
+title: "Roma Köprüsü, Antakya"
+date: "2025-12-25T02:48:46+03:00"
 slug: "roma-koprusu-antakya"
 description: "## Roma Köprüsü, Antakya..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.1608925,36.2023659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Antakya

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Kaleköy | Miras Haritası"
-date: 2025-12-25T02:57:07+03:00
+title: "Roma Köprüsü, Kaleköy"
+date: "2025-12-25T02:57:07+03:00"
 slug: "roma-koprusu-kalekoy"
 description: "## Roma Köprüsü, Kaleköy: Karaman'ın Tarihî Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ayrancı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.612796,37.4572475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Kaleköy: Karaman'ın Tarihî Mirası

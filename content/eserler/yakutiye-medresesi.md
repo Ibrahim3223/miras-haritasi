@@ -1,18 +1,17 @@
 ---
-title: "Yakutiye Medresesi | Miras Haritası"
-date: 2025-12-25T13:52:55+03:00
+title: "Yakutiye Medresesi"
+date: "2025-12-25T13:52:55+03:00"
 slug: "yakutiye-medresesi"
 description: "## Yakutiye Medresesi: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erzurum,_madrasa_yakutiye,_1310,_esterno_01.jpg/1200px-Erzurum,_madrasa_yakutiye,_1310,_esterno_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.272049,39.906395"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yakutiye Medresesi: Erzurum'un Tarihi ve Kültürel Mirası

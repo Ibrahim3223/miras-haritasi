@@ -1,18 +1,17 @@
 ---
-title: "Nebi Yahya Nebi Hamza Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:00+03:00
+title: "Nebi Yahya Nebi Hamza Türbesi"
+date: "2025-12-25T15:25:00+03:00"
 slug: "nebi-yahya-nebi-hamza-turbesi"
 description: "### Nebi Yahya Nebi Hamza Türbesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.9852448,36.0630989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nebi Yahya Nebi Hamza Türbesi

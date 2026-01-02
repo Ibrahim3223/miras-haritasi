@@ -1,18 +1,17 @@
 ---
-title: "Polonezköy Açık Hava Ahşap Heykel Müzesi | Miras Haritası"
-date: 2025-12-25T03:47:43+03:00
+title: "Polonezköy Açık Hava Ahşap Heykel Müzesi"
+date: "2025-12-25T03:47:43+03:00"
 slug: "polonezkoy-acik-hava-ahsap-heykel-muzesi"
 description: "## Polonezköy Açık Hava Ahşap Heykel Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.2111702,41.1099434"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Polonezköy Açık Hava Ahşap Heykel Müzesi

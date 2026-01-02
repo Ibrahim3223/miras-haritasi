@@ -1,18 +1,17 @@
 ---
-title: "Kocaeli Arkeoloji ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:07+03:00
+title: "Kocaeli Arkeoloji ve Etnografya Müzesi"
+date: "2025-12-25T03:27:07+03:00"
 slug: "kocaeli-arkeoloji-ve-etnografya-muzesi"
 description: "# Kocaeli Arkeoloji ve Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kocaeli_Arkeoloji_ve_Etnografya_Müzesi_ana_bina_soldan.jpg/1200px-Kocaeli_Arkeoloji_ve_Etnografya_Müzesi_ana_bina_soldan.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.915833333,40.7625"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kocaeli Arkeoloji ve Etnografya Müzesi

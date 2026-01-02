@@ -1,18 +1,17 @@
 ---
-title: "Bozburun Tümülüsü, Merkezefendi | Miras Haritası"
-date: 2025-12-25T07:59:51+03:00
+title: "Bozburun Tümülüsü, Merkezefendi"
+date: "2025-12-25T07:59:51+03:00"
 slug: "bozburun-tumulusu-merkezefendi"
 description: "## Bozburun Tümülüsü: Denizli'nin Gizli İhtişamı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0482998,37.8302994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozburun Tümülüsü: Denizli'nin Gizli İhtişamı

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Lütfiye | Miras Haritası"
-date: 2025-12-25T02:57:53+03:00
+title: "Roma Köprüsü, Lütfiye"
+date: "2025-12-25T02:57:53+03:00"
 slug: "roma-koprusu-lutfiye"
 description: "### Roma Köprüsü, Lütfiye..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.352133,39.40337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Lütfiye

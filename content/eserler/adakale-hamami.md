@@ -1,18 +1,17 @@
 ---
-title: "Adakale Hamamı | Miras Haritası"
-date: 2025-12-25T16:22:46+03:00
+title: "Adakale Hamamı"
+date: "2025-12-25T16:22:46+03:00"
 slug: "adakale-hamami"
 description: "## Adakale Hamamı: Kars Oblastı'nda Bir Tarih Öreni..."
 featured_image: ""
 province: "Kars Oblastı"
-iller: ["Kars Oblastı"]
+iller: '["Kars Oblastı"]'
 district: "Ardanuç"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "42.057833333,41.127861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adakale Hamamı: Kars Oblastı'nda Bir Tarih Öreni

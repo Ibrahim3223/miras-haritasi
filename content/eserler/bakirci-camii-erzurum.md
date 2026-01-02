@@ -1,18 +1,17 @@
 ---
-title: "Bakırcı Camii (Erzurum) | Miras Haritası"
-date: 2025-12-24T21:42:06+03:00
+title: "Bakırcı Camii (Erzurum)"
+date: "2025-12-24T21:42:06+03:00"
 slug: "bakirci-camii-erzurum"
 description: "## Bakırcı Camii: Erzurum'un Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Erzurum_Bakırcı_Camii.jpg/1200px-Erzurum_Bakırcı_Camii.jpg"
-province: "Erzurum Eyaleti"
-iller: ["Erzurum Eyaleti"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: "Erzurum Eyaleti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.272555555,39.908972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bakırcı Camii: Erzurum'un Tarihi Bir Anıtı

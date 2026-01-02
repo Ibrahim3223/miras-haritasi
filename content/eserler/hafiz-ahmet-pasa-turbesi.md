@@ -1,18 +1,17 @@
 ---
-title: "Hafız Ahmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:31+03:00
+title: "Hafız Ahmet Paşa Türbesi"
+date: "2025-12-25T14:29:31+03:00"
 slug: "hafiz-ahmet-pasa-turbesi"
 description: "**Hafız Ahmet Paşa Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.947667,41.0217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hafız Ahmet Paşa Türbesi**

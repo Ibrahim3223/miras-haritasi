@@ -1,18 +1,17 @@
 ---
-title: "Byzantion | Miras Haritası"
-date: 2025-12-25T04:15:57+03:00
+title: "Byzantion"
+date: "2025-12-25T04:15:57+03:00"
 slug: "byzantion"
 description: "## Byzantion: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/1784_Bocage_Map_of_The_Bosphorus_and_the_City_of_Byzantium_-_Istanbul_-_Constantinople_-_Geographicus_-_Bosphorus-white-1793.jpg/1200px-1784_Bocage_Map_of_The_Bosphorus_and_the_City_of_Byzantium_-_Istanbul_-_Constantinople_-_Geographicus_-_Bosphorus-white-1793.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.983638888,41.013416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Byzantion: İstanbul'un Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Vaniköy Çeşmesi (Eski) | Miras Haritası"
-date: 2025-12-25T12:09:36+03:00
+title: "Vaniköy Çeşmesi (Eski)"
+date: "2025-12-25T12:09:36+03:00"
 slug: "vanikoy-cesmesi-eski"
 description: "## Vaniköy Çeşmesi (Eski)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.055594,41.063847"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vaniköy Çeşmesi (Eski)

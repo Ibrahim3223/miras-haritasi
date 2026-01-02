@@ -1,18 +1,17 @@
 ---
-title: "Silvan Ulu Camii | Miras Haritası"
-date: 2025-12-25T01:10:19+03:00
+title: "Silvan Ulu Camii"
+date: "2025-12-25T01:10:19+03:00"
 slug: "silvan-ulu-camii"
 description: "# Silvan Ulu Camii: Tarihi ve Kültürel Miras Değerinde Bir Örnek..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.005083333,38.1425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Silvan Ulu Camii: Tarihi ve Kültürel Miras Değerinde Bir Örnek

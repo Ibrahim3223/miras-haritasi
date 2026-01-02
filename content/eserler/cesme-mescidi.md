@@ -1,18 +1,17 @@
 ---
-title: "Çeşme Mescidi | Miras Haritası"
-date: 2025-12-25T00:48:43+03:00
+title: "Çeşme Mescidi"
+date: "2025-12-25T00:48:43+03:00"
 slug: "cesme-mescidi"
 description: "## Çeşme Mescidi: Altındağ'ın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8709183,39.9375725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme Mescidi: Altındağ'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Karamusa Höyüğü | Miras Haritası"
-date: 2025-12-25T07:01:33+03:00
+title: "Karamusa Höyüğü"
+date: "2025-12-25T07:01:33+03:00"
 slug: "karamusa-hoyugu"
 description: "### Karamusa Höyük: Geçmişten Günümüze Eski Çağlar..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karamusa Höyük: Geçmişten Günümüze Eski Çağlar

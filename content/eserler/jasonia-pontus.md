@@ -1,18 +1,17 @@
 ---
-title: "Jasonia (Pontus) | Miras Haritası"
-date: 2025-12-25T04:39:29+03:00
+title: "Jasonia (Pontus)"
+date: "2025-12-25T04:39:29+03:00"
 slug: "jasonia-pontus"
 description: "## Jasonia (Pontus): Ege Denizi'nin Güzeli..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Perşembe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.682777777,41.136111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Jasonia (Pontus): Ege Denizi'nin Güzeli

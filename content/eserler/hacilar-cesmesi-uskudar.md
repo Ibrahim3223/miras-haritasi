@@ -1,18 +1,17 @@
 ---
-title: "Hacılar Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T11:58:50+03:00
+title: "Hacılar Çeşmesi, Üsküdar"
+date: "2025-12-25T11:58:50+03:00"
 slug: "hacilar-cesmesi-uskudar"
 description: "## Hacılar Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0304489,41.0098305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacılar Çeşmesi, Üsküdar

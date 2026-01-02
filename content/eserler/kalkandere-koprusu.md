@@ -1,18 +1,17 @@
 ---
-title: "Kalkandere Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:09+03:00
+title: "Kalkandere Köprüsü"
+date: "2025-12-25T03:02:09+03:00"
 slug: "kalkandere-koprusu"
 description: "## Kalkandere Köprüsü: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "Kalkandere"
-iller: ["Kalkandere"]
+iller: '["Kalkandere"]'
 district: "Kalkandere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.441183,40.928167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalkandere Köprüsü: Tarihi ve Kültürel Mirası Tanıtımı

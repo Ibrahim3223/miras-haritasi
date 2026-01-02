@@ -1,18 +1,17 @@
 ---
-title: "Çıldır Akçakale Kalesi | Miras Haritası"
-date: 2025-12-25T01:46:07+03:00
+title: "Çıldır Akçakale Kalesi"
+date: "2025-12-25T01:46:07+03:00"
 slug: "cildir-akcakale-kalesi"
 description: "### Çıldır Akçakale Kalesi..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Çıldır"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.2847595,41.0788918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çıldır Akçakale Kalesi

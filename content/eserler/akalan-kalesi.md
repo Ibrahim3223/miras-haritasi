@@ -1,18 +1,17 @@
 ---
-title: "Akalan Kalesi | Miras Haritası"
-date: 2025-12-25T07:03:48+03:00
+title: "Akalan Kalesi"
+date: "2025-12-25T07:03:48+03:00"
 slug: "akalan-kalesi"
 description: "## Akalan Kalesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.1570358,41.2720009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akalan Kalesi

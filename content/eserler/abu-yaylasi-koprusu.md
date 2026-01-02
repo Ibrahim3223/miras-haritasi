@@ -1,18 +1,17 @@
 ---
-title: "Abu Yaylası Köprüsü | Miras Haritası"
-date: 2025-12-25T02:02:16+03:00
+title: "Abu Yaylası Köprüsü"
+date: "2025-12-25T02:02:16+03:00"
 slug: "abu-yaylasi-koprusu"
 description: "## Abu Yaylası Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.2004995,41.1016773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abu Yaylası Köprüsü

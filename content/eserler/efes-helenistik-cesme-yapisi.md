@@ -1,18 +1,17 @@
 ---
-title: "Efes Helenistik Çeşme Yapısı | Miras Haritası"
-date: 2025-12-25T12:05:30+03:00
+title: "Efes Helenistik Çeşme Yapısı"
+date: "2025-12-25T12:05:30+03:00"
 slug: "efes-helenistik-cesme-yapisi"
 description: "### Efes Helenistik Çeşme Yapısı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3421383,37.9413147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Efes Helenistik Çeşme Yapısı

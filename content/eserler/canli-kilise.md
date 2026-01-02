@@ -1,18 +1,17 @@
 ---
-title: "Çanlı Kilise | Miras Haritası"
-date: 2025-12-25T08:44:00+03:00
+title: "Çanlı Kilise"
+date: "2025-12-25T08:44:00+03:00"
 slug: "canli-kilise"
 description: "**Çanlı Kilise: Aksaray'ın Tarihi bir Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canli-kilise.JPG/1200px-Canli-kilise.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.13527778,38.29861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Çanlı Kilise: Aksaray'ın Tarihi bir Mirası**

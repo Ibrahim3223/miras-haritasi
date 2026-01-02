@@ -1,18 +1,17 @@
 ---
-title: "Enüş Peygamber Türbesi | Miras Haritası"
-date: 2025-12-25T14:12:46+03:00
+title: "Enüş Peygamber Türbesi"
+date: "2025-12-25T14:12:46+03:00"
 slug: "enus-peygamber-turbesi"
 description: "## Enüş Peygamber Türbesi: Ergani'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Ergani"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.6679,38.1929"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Enüş Peygamber Türbesi: Ergani'nin Tarihi ve Kültürel Mirası

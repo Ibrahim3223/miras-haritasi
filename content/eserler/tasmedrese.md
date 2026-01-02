@@ -1,18 +1,17 @@
 ---
-title: "Taşmedrese | Miras Haritası"
-date: 2025-12-25T17:24:48+03:00
+title: "Taşmedrese"
+date: "2025-12-25T17:24:48+03:00"
 slug: "tasmedrese"
 description: "### Taşmedrese: Konya'nın Akşehir'ini İncitiren Bir Medrese..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Taşmedrese,_Akşehir.jpg/1200px-Taşmedrese,_Akşehir.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Taşmedrese: Konya'nın Akşehir'ini İncitiren Bir Medrese

@@ -1,18 +1,17 @@
 ---
-title: "Mezar Altı Höyük | Miras Haritası"
-date: 2025-12-25T06:40:02+03:00
+title: "Mezar Altı Höyük"
+date: "2025-12-25T06:40:02+03:00"
 slug: "mezar-alti-hoyuk"
 description: "**Mezar Altı Höyük: Bir Arkeolojik Harika**..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2936891,39.6440774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mezar Altı Höyük: Bir Arkeolojik Harika**

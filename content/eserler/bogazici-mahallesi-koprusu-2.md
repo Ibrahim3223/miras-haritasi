@@ -1,18 +1,17 @@
 ---
-title: "Boğaziçi Mahallesi Köprüsü 2 | Miras Haritası"
-date: 2025-12-25T02:34:07+03:00
+title: "Boğaziçi Mahallesi Köprüsü 2"
+date: "2025-12-25T02:34:07+03:00"
 slug: "bogazici-mahallesi-koprusu-2"
 description: "# Boğaziçi Mahallesi Köprüsü 2..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.177567,41.136051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Boğaziçi Mahallesi Köprüsü 2

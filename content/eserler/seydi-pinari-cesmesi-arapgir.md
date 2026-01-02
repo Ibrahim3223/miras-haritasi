@@ -1,18 +1,17 @@
 ---
-title: "Seydi Pınarı Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:24:33+03:00
+title: "Seydi Pınarı Çeşmesi, Arapgir"
+date: "2025-12-25T12:24:33+03:00"
 slug: "seydi-pinari-cesmesi-arapgir"
 description: "## Seydi Pınarı Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.470128886,39.055496691"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seydi Pınarı Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Kite Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:40+03:00
+title: "Kite Kalesi"
+date: "2025-12-25T01:26:40+03:00"
 slug: "kite-kalesi"
 description: "# Kite Kalesi: Bursa'nın Eski Kaleleri Arasındaki Bir Ören..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Nilüfer"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.8783493,40.1988258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kite Kalesi: Bursa'nın Eski Kaleleri Arasındaki Bir Ören

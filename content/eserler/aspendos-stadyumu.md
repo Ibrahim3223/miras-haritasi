@@ -1,18 +1,17 @@
 ---
-title: "Aspendos Stadyumu | Miras Haritası"
-date: 2025-12-25T06:55:05+03:00
+title: "Aspendos Stadyumu"
+date: "2025-12-25T06:55:05+03:00"
 slug: "aspendos-stadyumu"
 description: "## Aspendos Stadyumu: Antikçağın En Büyüleyici Spor Tesisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/J22_146_Aspendos,_Stadion.jpg/1200px-J22_146_Aspendos,_Stadion.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.1716219,36.9419069"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Aspendos Stadyumu: Antikçağın En Büyüleyici Spor Tesisi

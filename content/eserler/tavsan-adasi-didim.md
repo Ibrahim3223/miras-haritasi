@@ -1,18 +1,17 @@
 ---
-title: "Tavşan Adası, Didim | Miras Haritası"
-date: 2025-12-25T05:49:56+03:00
+title: "Tavşan Adası, Didim"
+date: "2025-12-25T05:49:56+03:00"
 slug: "tavsan-adasi-didim"
 description: "## Tavşan Adası, Didim: Bir Arkeolojik Mirasın Gizemi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.216217,37.41975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavşan Adası, Didim: Bir Arkeolojik Mirasın Gizemi

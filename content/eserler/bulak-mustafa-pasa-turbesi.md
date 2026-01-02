@@ -1,18 +1,17 @@
 ---
-title: "Bulak Mustafa Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:47+03:00
+title: "Bulak Mustafa Paşa Türbesi"
+date: "2025-12-25T14:29:47+03:00"
 slug: "bulak-mustafa-pasa-turbesi"
 description: "## Bulak Mustafa Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.933675,41.0476859"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bulak Mustafa Paşa Türbesi

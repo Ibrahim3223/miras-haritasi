@@ -1,18 +1,17 @@
 ---
-title: "Gümüşova Camii | Miras Haritası"
-date: 2025-12-24T23:27:37+03:00
+title: "Gümüşova Camii"
+date: "2025-12-24T23:27:37+03:00"
 slug: "gumusova-camii"
 description: "### Gümüşova Camii: Alaçam'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Alaçam"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.5233994,41.3176994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşova Camii: Alaçam'ın Tarihi ve Kültürel Mirası

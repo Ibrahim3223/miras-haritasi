@@ -1,18 +1,17 @@
 ---
-title: "Yakup Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:40+03:00
+title: "Yakup Paşa Çeşmesi"
+date: "2025-12-25T10:29:40+03:00"
 slug: "yakup-pasa-cesmesi"
 description: "### Yakup Paşa Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuyucak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4618988,37.9145851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yakup Paşa Çeşmesi

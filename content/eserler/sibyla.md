@@ -1,18 +1,17 @@
 ---
-title: "Sibyla | Miras Haritası"
-date: 2025-12-25T05:14:53+03:00
+title: "Sibyla"
+date: "2025-12-25T05:14:53+03:00"
 slug: "sibyla"
 description: "## Sibyla: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.4662,36.713385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sibyla: Antik Çağın Gizemi

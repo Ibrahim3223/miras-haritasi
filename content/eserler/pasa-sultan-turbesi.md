@@ -1,18 +1,17 @@
 ---
-title: "Paşa Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:27+03:00
+title: "Paşa Sultan Türbesi"
+date: "2025-12-25T15:21:27+03:00"
 slug: "pasa-sultan-turbesi"
 description: "## Paşa Sultan Türbesi: Balıkesir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8776684,39.6482964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Sultan Türbesi: Balıkesir'in Gizli Kahramanı

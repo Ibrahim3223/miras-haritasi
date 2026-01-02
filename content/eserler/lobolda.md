@@ -1,18 +1,17 @@
 ---
-title: "Lobolda | Miras Haritası"
-date: 2025-12-25T04:53:58+03:00
+title: "Lobolda"
+date: "2025-12-25T04:53:58+03:00"
 slug: "lobolda"
 description: "## Lobolda: Tarihçe ve Kültür Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.993909,37.293237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lobolda: Tarihçe ve Kültür Mirası

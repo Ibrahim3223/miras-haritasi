@@ -1,18 +1,17 @@
 ---
-title: "Halil Öztürk Hayrat Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:36:24+03:00
+title: "Halil Öztürk Hayrat Çeşmesi"
+date: "2025-12-25T12:36:24+03:00"
 slug: "halil-ozturk-hayrat-cesmesi"
 description: "## Halil Öztürk Hayrat Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.703227,38.364936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Öztürk Hayrat Çeşmesi

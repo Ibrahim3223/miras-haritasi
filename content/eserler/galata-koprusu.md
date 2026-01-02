@@ -1,18 +1,17 @@
 ---
-title: "Galata Köprüsü | Miras Haritası"
-date: 2025-12-25T01:53:09+03:00
+title: "Galata Köprüsü"
+date: "2025-12-25T01:53:09+03:00"
 slug: "galata-koprusu"
 description: "## Galata Köprüsü: İstanbul'un Sembolü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/00_0566_Istanbul_-_Galata-Brücke_(erbaut_1910).jpg/1200px-00_0566_Istanbul_-_Galata-Brücke_(erbaut_1910).jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Karaköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.973055555,41.02"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Galata Köprüsü: İstanbul'un Sembolü

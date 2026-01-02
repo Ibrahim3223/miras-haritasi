@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Havuzlu Camii | Miras Haritası"
-date: 2025-12-25T00:15:54+03:00
+title: "Aşağı Havuzlu Camii"
+date: "2025-12-25T00:15:54+03:00"
 slug: "asagi-havuzlu-camii"
 description: "### Aşağı Havuzlu Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7121,40.889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşağı Havuzlu Camii

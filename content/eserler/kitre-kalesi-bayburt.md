@@ -1,18 +1,17 @@
 ---
-title: "Kitre Kalesi, Bayburt | Miras Haritası"
-date: 2025-12-25T01:45:36+03:00
+title: "Kitre Kalesi, Bayburt"
+date: "2025-12-25T01:45:36+03:00"
 slug: "kitre-kalesi-bayburt"
 description: "## Kitre Kalesi: Bayburt'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.853631,40.312528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kitre Kalesi: Bayburt'un Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Çaldere Merkez Eski Cami | Miras Haritası"
-date: 2025-12-24T22:31:19+03:00
+title: "Çaldere Merkez Eski Cami"
+date: "2025-12-24T22:31:19+03:00"
 slug: "caldere-merkez-eski-cami"
 description: "## Çaldere Merkez Eski Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ordu"
+province: "Ordu"
+iller: '["Ordu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9967003,40.8005981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaldere Merkez Eski Cami

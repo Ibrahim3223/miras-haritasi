@@ -1,18 +1,17 @@
 ---
-title: "Nasuhbaba Türbesi ve Haziresi | Miras Haritası"
-date: 2025-12-25T15:24:33+03:00
+title: "Nasuhbaba Türbesi ve Haziresi"
+date: "2025-12-25T15:24:33+03:00"
 slug: "nasuhbaba-turbesi-ve-haziresi"
 description: "## Nasuhbaba Türbesi ve Haziresi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Kapaklı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8640003,41.368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nasuhbaba Türbesi ve Haziresi

@@ -1,18 +1,17 @@
 ---
-title: "Mossynea | Miras Haritası"
-date: 2025-12-25T05:12:41+03:00
+title: "Mossynea"
+date: "2025-12-25T05:12:41+03:00"
 slug: "mossynea"
 description: "**Giriş**..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Gölpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.375942,40.301383"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Giriş**

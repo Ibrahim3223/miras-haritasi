@@ -1,18 +1,17 @@
 ---
-title: "Osman Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:50+03:00
+title: "Osman Efendi Çeşmesi"
+date: "2025-12-25T11:44:50+03:00"
 slug: "osman-efendi-cesmesi"
 description: "### Osman Efendi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Kalenderhane"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9605274,41.0123863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Osman Efendi Çeşmesi

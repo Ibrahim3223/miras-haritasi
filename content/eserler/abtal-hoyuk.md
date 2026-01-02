@@ -1,18 +1,17 @@
 ---
-title: "Abtal Höyük | Miras Haritası"
-date: 2025-12-25T08:08:26+03:00
+title: "Abtal Höyük"
+date: "2025-12-25T08:08:26+03:00"
 slug: "abtal-hoyuk"
 description: "# Abtal Höyük: Hatay'ın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.511774,36.2967956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abtal Höyük: Hatay'ın Gizemli Arkeolojik Sitleri

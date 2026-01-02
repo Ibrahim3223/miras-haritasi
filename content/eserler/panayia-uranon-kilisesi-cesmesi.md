@@ -1,18 +1,17 @@
 ---
-title: "Panayia Uranon Kilisesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:47:56+03:00
+title: "Panayia Uranon Kilisesi Çeşmesi"
+date: "2025-12-25T11:47:56+03:00"
 slug: "panayia-uranon-kilisesi-cesmesi"
 description: "## Panayia Uranon Kilisesi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Derviş Ali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9396744,41.0299683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panayia Uranon Kilisesi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ağıllar Tepesi | Miras Haritası"
-date: 2025-12-25T06:23:42+03:00
+title: "Ağıllar Tepesi"
+date: "2025-12-25T06:23:42+03:00"
 slug: "agillar-tepesi"
 description: "## Ağıllar Tepesi: Sivas'ın Gizli Cenneti..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.2661561,39.8099083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağıllar Tepesi: Sivas'ın Gizli Cenneti

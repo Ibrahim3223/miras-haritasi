@@ -1,18 +1,17 @@
 ---
-title: "Tabaklar Camii (Bolu) | Miras Haritası"
-date: 2025-12-24T23:53:03+03:00
+title: "Tabaklar Camii (Bolu)"
+date: "2025-12-24T23:53:03+03:00"
 slug: "tabaklar-camii-bolu"
 description: "## Tabaklar Camii: Bolu'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.6022263,40.730217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabaklar Camii: Bolu'nin Tarihi ve Kültürel Mirası

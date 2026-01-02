@@ -1,18 +1,17 @@
 ---
-title: "Kazımkarabekir Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:04:14+03:00
+title: "Kazımkarabekir Ulu Camii"
+date: "2025-12-24T22:04:14+03:00"
 slug: "kazimkarabekir-ulu-camii"
 description: "## Kazımkarabekir Ulu Camii..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Kazımkarabekir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.957166666,37.22625"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazımkarabekir Ulu Camii

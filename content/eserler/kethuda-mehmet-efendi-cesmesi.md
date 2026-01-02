@@ -1,18 +1,17 @@
 ---
-title: "Kethüda Mehmet Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:38:39+03:00
+title: "Kethüda Mehmet Efendi Çeşmesi"
+date: "2025-12-25T10:38:39+03:00"
 slug: "kethuda-mehmet-efendi-cesmesi"
 description: "### Kethüda Mehmet Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kethüda_Mehmet_Efendi_Çeşmesi_04.jpg/1200px-Kethüda_Mehmet_Efendi_Çeşmesi_04.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971156923,41.028538446"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kethüda Mehmet Efendi Çeşmesi

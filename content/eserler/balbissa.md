@@ -1,18 +1,17 @@
 ---
-title: "Balbissa | Miras Haritası"
-date: 2025-12-25T06:58:46+03:00
+title: "Balbissa"
+date: "2025-12-25T06:58:46+03:00"
 slug: "balbissa"
 description: "**Balbissa: Niğde'nin Tarihî Kenti**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Niğde"
+province: "Niğde"
+iller: '["Niğde"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.673625,38.094563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Balbissa: Niğde'nin Tarihî Kenti**

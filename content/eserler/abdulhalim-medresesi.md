@@ -1,18 +1,17 @@
 ---
-title: "Abdülhalim Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:32+03:00
+title: "Abdülhalim Medresesi"
+date: "2025-12-25T17:27:32+03:00"
 slug: "abdulhalim-medresesi"
 description: "## Abdülhalim Medresesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.94944,41.022465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdülhalim Medresesi: Fatih'in Gizli Çeşmesi

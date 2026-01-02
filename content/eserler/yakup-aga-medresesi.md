@@ -1,18 +1,17 @@
 ---
-title: "Yakup Ağa Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:19+03:00
+title: "Yakup Ağa Medresesi"
+date: "2025-12-25T17:32:19+03:00"
 slug: "yakup-aga-medresesi"
 description: "### Yakup Ağa Medresesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "33.7718735,41.3767586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yakup Ağa Medresesi

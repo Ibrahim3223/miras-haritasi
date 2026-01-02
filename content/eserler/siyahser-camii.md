@@ -1,18 +1,17 @@
 ---
-title: "Siyahser Camii | Miras Haritası"
-date: 2025-12-24T23:05:41+03:00
+title: "Siyahser Camii"
+date: "2025-12-24T23:05:41+03:00"
 slug: "siyahser-camii"
 description: "## Siyahser Camii: Karaman'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.218732,37.172803"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siyahser Camii: Karaman'ın Tarihi Bir Mirası

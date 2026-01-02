@@ -1,18 +1,17 @@
 ---
-title: "Göynük Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:20:35+03:00
+title: "Göynük Saat Kulesi"
+date: "2025-12-25T17:20:35+03:00"
 slug: "goynuk-saat-kulesi"
 description: "## Göynük Saat Kulesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Göynük"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "30.785527777,40.400333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göynük Saat Kulesi

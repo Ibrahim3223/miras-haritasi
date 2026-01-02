@@ -1,18 +1,17 @@
 ---
-title: "Belen Camii | Miras Haritası"
-date: 2025-12-24T22:23:00+03:00
+title: "Belen Camii"
+date: "2025-12-24T22:23:00+03:00"
 slug: "belen-camii"
 description: "## Belen Camii: Milas'ta Bir Geç Çağdaş Camii..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7811508,37.3160553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belen Camii: Milas'ta Bir Geç Çağdaş Camii

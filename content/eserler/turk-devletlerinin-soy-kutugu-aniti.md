@@ -1,18 +1,17 @@
 ---
-title: "Türk Devletlerinin Soy Kütüğü Anıtı | Miras Haritası"
-date: 2025-12-25T15:43:53+03:00
+title: "Türk Devletlerinin Soy Kütüğü Anıtı"
+date: "2025-12-25T15:43:53+03:00"
 slug: "turk-devletlerinin-soy-kutugu-aniti"
 description: "## Türk Devletlerinin Soy Kütüğü Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1817398,40.8870811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk Devletlerinin Soy Kütüğü Anıtı

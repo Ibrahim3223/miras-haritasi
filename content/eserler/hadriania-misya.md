@@ -1,18 +1,17 @@
 ---
-title: "Hadriania (Misya) | Miras Haritası"
-date: 2025-12-25T04:45:33+03:00
+title: "Hadriania (Misya)"
+date: "2025-12-25T04:45:33+03:00"
 slug: "hadriania-misya"
 description: "## Hadriania (Misya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.63295,39.58831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadriania (Misya)

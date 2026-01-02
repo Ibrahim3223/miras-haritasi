@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Yürükçal | Miras Haritası"
-date: 2025-12-25T03:01:13+03:00
+title: "Roma Köprüsü, Yürükçal"
+date: "2025-12-25T03:01:13+03:00"
 slug: "roma-koprusu-yurukcal"
 description: "### Roma Köprüsü, Yürükçal..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Vezirköprü"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.5428819,41.1526231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Yürükçal

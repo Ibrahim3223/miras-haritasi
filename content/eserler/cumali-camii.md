@@ -1,18 +1,17 @@
 ---
-title: "Cumalı Camii | Miras Haritası"
-date: 2025-12-25T00:16:58+03:00
+title: "Cumalı Camii"
+date: "2025-12-25T00:16:58+03:00"
 slug: "cumali-camii"
 description: "**Cumalı Camii: Serik'in Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0706571,36.9161924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Cumalı Camii: Serik'in Tarihi ve Kültürel Mirası**

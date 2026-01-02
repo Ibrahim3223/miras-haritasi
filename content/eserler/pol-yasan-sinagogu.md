@@ -1,18 +1,17 @@
 ---
-title: "Pol Yaşan Sinagogu | Miras Haritası"
-date: 2025-12-25T16:11:18+03:00
+title: "Pol Yaşan Sinagogu"
+date: "2025-12-25T16:11:18+03:00"
 slug: "pol-yasan-sinagogu"
 description: "## Pol Yaşan Sinagogu: Ayvansaray'da Bir Geçmiş Ören..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.946472222,41.035138888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pol Yaşan Sinagogu: Ayvansaray'da Bir Geçmiş Ören

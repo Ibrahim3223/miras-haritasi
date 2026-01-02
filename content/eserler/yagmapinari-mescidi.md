@@ -1,18 +1,17 @@
 ---
-title: "Yağmapınarı Mescidi | Miras Haritası"
-date: 2025-12-24T23:42:13+03:00
+title: "Yağmapınarı Mescidi"
+date: "2025-12-24T23:42:13+03:00"
 slug: "yagmapinari-mescidi"
 description: "## Yağmapınarı Mescidi: Konya'nın Tarihî bir Camisi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7322273,37.8231621"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yağmapınarı Mescidi: Konya'nın Tarihî bir Camisi

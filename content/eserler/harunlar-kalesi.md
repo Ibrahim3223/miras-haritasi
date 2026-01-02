@@ -1,18 +1,17 @@
 ---
-title: "Harunlar Kalesi | Miras Haritası"
-date: 2025-12-25T01:21:50+03:00
+title: "Harunlar Kalesi"
+date: "2025-12-25T01:21:50+03:00"
 slug: "harunlar-kalesi"
 description: "## Harunlar Kalesi Tanıtımı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Yunak"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "31.9135056,38.6186104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harunlar Kalesi Tanıtımı

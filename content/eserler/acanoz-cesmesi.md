@@ -1,18 +1,17 @@
 ---
-title: "Acanoz Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:36:57+03:00
+title: "Acanoz Çeşmesi"
+date: "2025-12-25T12:36:57+03:00"
 slug: "acanoz-cesmesi"
 description: "## Acanoz Çeşmesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.70548,38.364724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acanoz Çeşmesi: Tarihi ve Kültürel Miras

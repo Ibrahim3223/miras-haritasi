@@ -1,18 +1,17 @@
 ---
-title: "Eskihisar Köprüsü (2) | Miras Haritası"
-date: 2025-12-25T02:15:00+03:00
+title: "Eskihisar Köprüsü (2)"
+date: "2025-12-25T02:15:00+03:00"
 slug: "eskihisar-koprusu-2"
 description: "## Eskihisar Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1339054,37.8986473"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskihisar Köprüsü

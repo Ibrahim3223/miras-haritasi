@@ -1,18 +1,17 @@
 ---
-title: "Yeşil Mescit | Miras Haritası"
-date: 2025-12-24T22:25:04+03:00
+title: "Yeşil Mescit"
+date: "2025-12-24T22:25:04+03:00"
 slug: "yesil-mescit"
 description: "## Yeşil Mescit: Tepebağ'ın Tarihsel Çatısı..."
 featured_image: ""
 province: "Seyhan"
-iller: ["Seyhan"]
+iller: '["Seyhan"]'
 district: "Tepebağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.329527777,36.987222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşil Mescit: Tepebağ'ın Tarihsel Çatısı

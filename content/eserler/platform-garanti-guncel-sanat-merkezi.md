@@ -1,18 +1,17 @@
 ---
-title: "Platform Garanti Güncel Sanat Merkezi | Miras Haritası"
-date: 2025-12-25T04:10:56+03:00
+title: "Platform Garanti Güncel Sanat Merkezi"
+date: "2025-12-25T04:10:56+03:00"
 slug: "platform-garanti-guncel-sanat-merkezi"
 description: "### Platform Garanti Güncel Sanat Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Platform_Garanti.jpg/1200px-Platform_Garanti.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Platform Garanti Güncel Sanat Merkezi

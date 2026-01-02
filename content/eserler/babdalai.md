@@ -1,18 +1,17 @@
 ---
-title: "Babdalai | Miras Haritası"
-date: 2025-12-25T05:01:16+03:00
+title: "Babdalai"
+date: "2025-12-25T05:01:16+03:00"
 slug: "babdalai"
 description: "### Babadalai Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.538588,38.543079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Babadalai Arkeolojik Sit

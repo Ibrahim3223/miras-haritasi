@@ -1,18 +1,17 @@
 ---
-title: "Aziz Theologos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:03+03:00
+title: "Aziz Theologos Kilisesi"
+date: "2025-12-25T09:32:03+03:00"
 slug: "aziz-theologos-kilisesi"
 description: "## Aziz Theologos Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0589676,40.1869354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Theologos Kilisesi

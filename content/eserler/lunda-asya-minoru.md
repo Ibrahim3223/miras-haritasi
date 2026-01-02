@@ -1,18 +1,17 @@
 ---
-title: "Lunda (Asya Minörü) | Miras Haritası"
-date: 2025-12-25T04:41:00+03:00
+title: "Lunda (Asya Minörü)"
+date: "2025-12-25T04:41:00+03:00"
 slug: "lunda-asya-minoru"
 description: "## Lunda (Asya Minörü): Aşağıseyit'te Gizli Bir Şehirdir..."
 featured_image: ""
 province: "Çal"
-iller: ["Çal"]
+iller: '["Çal"]'
 district: "Aşağıseyit"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.455009,38.0296065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lunda (Asya Minörü): Aşağıseyit'te Gizli Bir Şehirdir

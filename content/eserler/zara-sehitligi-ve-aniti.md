@@ -1,18 +1,17 @@
 ---
-title: "Zara Şehitliği ve Anıtı | Miras Haritası"
-date: 2025-12-25T15:57:55+03:00
+title: "Zara Şehitliği ve Anıtı"
+date: "2025-12-25T15:57:55+03:00"
 slug: "zara-sehitligi-ve-aniti"
 description: "## Zara Şehitliği ve Anıtı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Zara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.7455063,39.8919373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zara Şehitliği ve Anıtı

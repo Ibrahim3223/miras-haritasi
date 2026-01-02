@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ömer Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:29:00+03:00
+title: "Hacı Ömer Ağa Camii"
+date: "2025-12-24T23:29:00+03:00"
 slug: "haci-omer-aga-camii"
 description: "## Hacı Ömer Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5585728,37.3615608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ömer Ağa Camii

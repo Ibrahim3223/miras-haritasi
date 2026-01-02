@@ -1,18 +1,17 @@
 ---
-title: "Selâmi Çeşme | Miras Haritası"
-date: 2025-12-25T10:11:53+03:00
+title: "Selâmi Çeşme"
+date: "2025-12-25T10:11:53+03:00"
 slug: "selmi-cesme"
 description: "**Selâmi Çeşme: Kadıköy'un Eski ve Önemli Hazinesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Salami_Fountain_in_İstanbul_22.03.2025_02.jpg/1200px-Salami_Fountain_in_İstanbul_22.03.2025_02.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.051927777,40.975558333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Selâmi Çeşme: Kadıköy'un Eski ve Önemli Hazinesi**

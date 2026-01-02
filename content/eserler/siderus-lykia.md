@@ -1,18 +1,17 @@
 ---
-title: "Siderus (Lykia) | Miras Haritası"
-date: 2025-12-25T05:40:57+03:00
+title: "Siderus (Lykia)"
+date: "2025-12-25T05:40:57+03:00"
 slug: "siderus-lykia"
 description: "### Siderus (Lykia)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.502508,36.3656731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Siderus (Lykia)

@@ -1,18 +1,17 @@
 ---
-title: "Gökçeli Höyük | Miras Haritası"
-date: 2025-12-25T13:47:06+03:00
+title: "Gökçeli Höyük"
+date: "2025-12-25T13:47:06+03:00"
 slug: "gokceli-hoyuk"
 description: "### Gökçeli Höyük: Gaziantep'in Gizli Kutsalı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Nizip"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.7056545,36.8802823"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökçeli Höyük: Gaziantep'in Gizli Kutsalı

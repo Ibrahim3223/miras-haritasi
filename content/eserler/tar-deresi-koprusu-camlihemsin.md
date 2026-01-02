@@ -1,18 +1,17 @@
 ---
-title: "Tar Deresi Köprüsü, Çamlıhemşin | Miras Haritası"
-date: 2025-12-25T02:52:52+03:00
+title: "Tar Deresi Köprüsü, Çamlıhemşin"
+date: "2025-12-25T02:52:52+03:00"
 slug: "tar-deresi-koprusu-camlihemsin"
 description: "## Tar Deresi Köprüsü: Çamlıhemşin'in Tarihî ve Mimarî Harikası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.059309,40.997025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tar Deresi Köprüsü: Çamlıhemşin'in Tarihî ve Mimarî Harikası

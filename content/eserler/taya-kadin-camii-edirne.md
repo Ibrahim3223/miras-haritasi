@@ -1,18 +1,17 @@
 ---
-title: "Taya Kadın Camii, Edirne | Miras Haritası"
-date: 2025-12-25T00:06:55+03:00
+title: "Taya Kadın Camii, Edirne"
+date: "2025-12-25T00:06:55+03:00"
 slug: "taya-kadin-camii-edirne"
 description: "## Taya Kadın Camii: Edirne'nin Gizli Çehresi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.561657,41.6837044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taya Kadın Camii: Edirne'nin Gizli Çehresi

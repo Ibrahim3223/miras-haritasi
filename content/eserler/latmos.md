@@ -1,18 +1,17 @@
 ---
-title: "Latmos | Miras Haritası"
-date: 2025-12-25T08:06:48+03:00
+title: "Latmos"
+date: "2025-12-25T08:06:48+03:00"
 slug: "latmos"
 description: "### Latmos: Kapıkırı'daki Antik Miras..."
 featured_image: ""
 province: "Milas"
-iller: ["Milas"]
+iller: '["Milas"]'
 district: "Kapıkırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5386,37.5023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Latmos: Kapıkırı'daki Antik Miras

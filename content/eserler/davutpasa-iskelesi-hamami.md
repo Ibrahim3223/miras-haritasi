@@ -1,18 +1,17 @@
 ---
-title: "Davutpaşa İskelesi Hamamı | Miras Haritası"
-date: 2025-12-25T16:33:15+03:00
+title: "Davutpaşa İskelesi Hamamı"
+date: "2025-12-25T16:33:15+03:00"
 slug: "davutpasa-iskelesi-hamami"
 description: "## Davutpaşa İskelesi Hamamı: Istanbul'un Gizli Bir Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.944138,41.003736"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Davutpaşa İskelesi Hamamı: Istanbul'un Gizli Bir Cenneti

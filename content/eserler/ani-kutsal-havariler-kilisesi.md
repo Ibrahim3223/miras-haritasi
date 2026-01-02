@@ -1,18 +1,17 @@
 ---
-title: "Ani Kutsal Havariler Kilisesi | Miras Haritası"
-date: 2025-12-25T08:39:54+03:00
+title: "Ani Kutsal Havariler Kilisesi"
+date: "2025-12-25T08:39:54+03:00"
 slug: "ani-kutsal-havariler-kilisesi"
 description: "### Ani Kutsal Havariler Kilisesi: Doğu Anadolu'nun Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ani_həvarilər_kilsəsi_(10).jpg/1200px-Ani_həvarilər_kilsəsi_(10).jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.5707,40.5087"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ani Kutsal Havariler Kilisesi: Doğu Anadolu'nun Gizli Çehresi

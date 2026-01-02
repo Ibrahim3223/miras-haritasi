@@ -1,18 +1,17 @@
 ---
-title: "Ekmekçi Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:20:05+03:00
+title: "Ekmekçi Tümülüsü"
+date: "2025-12-25T07:20:05+03:00"
 slug: "ekmekci-tumulusu"
 description: "## Ekmekçi Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.4616127,41.7340279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ekmekçi Tümülüsü

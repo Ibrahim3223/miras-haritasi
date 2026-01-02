@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 2 | Miras Haritası"
-date: 2025-12-25T07:14:41+03:00
+title: "Bin Tepeler Tümülüsü 2"
+date: "2025-12-25T07:14:41+03:00"
 slug: "bin-tepeler-tumulusu-2"
 description: "## Bin Tepeler Tümülüsü 2: Antik Çağ'ın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.042919,38.566288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bin Tepeler Tümülüsü 2: Antik Çağ'ın Gizemi

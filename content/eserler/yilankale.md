@@ -1,18 +1,17 @@
 ---
-title: "Yılankale | Miras Haritası"
-date: 2025-12-25T01:50:06+03:00
+title: "Yılankale"
+date: "2025-12-25T01:50:06+03:00"
 slug: "yilankale"
 description: "### Yılankale..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yilankale1.jpg/1200px-Yilankale1.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Ceyhan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.74777778,37.01444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yılankale

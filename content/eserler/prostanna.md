@@ -1,18 +1,17 @@
 ---
-title: "Prostanna | Miras Haritası"
-date: 2025-12-25T05:11:45+03:00
+title: "Prostanna"
+date: "2025-12-25T05:11:45+03:00"
 slug: "prostanna"
 description: "### Prostanna: Eğirdir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.84905,37.87414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Prostanna: Eğirdir'in Gizli Kahramanı

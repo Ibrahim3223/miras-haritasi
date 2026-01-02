@@ -1,18 +1,17 @@
 ---
-title: "Arap Hamamı | Miras Haritası"
-date: 2025-12-25T16:53:52+03:00
+title: "Arap Hamamı"
+date: "2025-12-25T16:53:52+03:00"
 slug: "arap-hamami"
 description: "### Giriş..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gemlik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.1223984,40.4780579"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

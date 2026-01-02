@@ -1,18 +1,17 @@
 ---
-title: "Ağıllı Höyük | Miras Haritası"
-date: 2025-12-25T06:33:10+03:00
+title: "Ağıllı Höyük"
+date: "2025-12-25T06:33:10+03:00"
 slug: "agilli-hoyuk"
 description: "## Ağıllı Höyük: Türkiye'nin Eski Kültür Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Acıgöl"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4796646,38.480291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağıllı Höyük: Türkiye'nin Eski Kültür Mirası

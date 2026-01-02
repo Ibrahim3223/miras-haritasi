@@ -1,18 +1,17 @@
 ---
-title: "Aktekke İbrahim Bey Camii | Miras Haritası"
-date: 2025-12-24T22:58:13+03:00
+title: "Aktekke İbrahim Bey Camii"
+date: "2025-12-24T22:58:13+03:00"
 slug: "aktekke-ibrahim-bey-camii"
 description: "### Kastamonu'nun Gizli Cenneti: Aktekke İbrahim Bey Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kastamonu"
+province: "Kastamonu"
+iller: '["Kastamonu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7808571,41.3799553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kastamonu'nun Gizli Cenneti: Aktekke İbrahim Bey Camii

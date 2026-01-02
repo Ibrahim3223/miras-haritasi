@@ -1,18 +1,17 @@
 ---
-title: "Bolaman Kalesi | Miras Haritası"
-date: 2025-12-25T01:14:24+03:00
+title: "Bolaman Kalesi"
+date: "2025-12-25T01:14:24+03:00"
 slug: "bolaman-kalesi"
 description: "### Bolaman Kalesi: Fatsa'nın Tarihî Bir Şansı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hazinedaroğlu_Mansion,_Fatsa.jpg/1200px-Hazinedaroğlu_Mansion,_Fatsa.jpg"
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Fatsa"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.5911,41.0367"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bolaman Kalesi: Fatsa'nın Tarihî Bir Şansı

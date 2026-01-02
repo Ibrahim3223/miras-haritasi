@@ -1,18 +1,17 @@
 ---
-title: "Gedik Ahmet Paşa Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:32+03:00
+title: "Gedik Ahmet Paşa Halk Kütüphanesi"
+date: "2025-12-25T17:51:32+03:00"
 slug: "gedik-ahmet-pasa-halk-kutuphanesi"
 description: "## Gedik Ahmet Paşa Halk Kütüphanesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.5351944,38.7549248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gedik Ahmet Paşa Halk Kütüphanesi

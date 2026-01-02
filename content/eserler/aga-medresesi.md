@@ -1,18 +1,17 @@
 ---
-title: "Ağa Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:57+03:00
+title: "Ağa Medresesi"
+date: "2025-12-25T17:37:57+03:00"
 slug: "aga-medresesi"
 description: "### Ağa Medresesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "32.8577843,39.9345703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağa Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Sinan Paşa Camii Şadırvanı, Beşiktaş | Miras Haritası"
-date: 2025-12-25T10:03:58+03:00
+title: "Sinan Paşa Camii Şadırvanı, Beşiktaş"
+date: "2025-12-25T10:03:58+03:00"
 slug: "sinan-pasa-camii-sadirvani-besiktas"
 description: "## Sinan Paşa Camii Şadırvanı, Beşiktaş..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Sinanpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0060368,41.0424309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Paşa Camii Şadırvanı, Beşiktaş

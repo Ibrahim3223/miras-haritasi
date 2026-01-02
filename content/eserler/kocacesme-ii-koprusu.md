@@ -1,18 +1,17 @@
 ---
-title: "Kocaçeşme II Köprüsü | Miras Haritası"
-date: 2025-12-25T02:47:00+03:00
+title: "Kocaçeşme II Köprüsü"
+date: "2025-12-25T02:47:00+03:00"
 slug: "kocacesme-ii-koprusu"
 description: "## Kocaçeşme II Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.8234825,40.6512871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocaçeşme II Köprüsü

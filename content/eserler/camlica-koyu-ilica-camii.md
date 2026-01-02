@@ -1,18 +1,17 @@
 ---
-title: "Çamlıca Köyü Ilıca Camii | Miras Haritası"
-date: 2025-12-24T22:29:15+03:00
+title: "Çamlıca Köyü Ilıca Camii"
+date: "2025-12-24T22:29:15+03:00"
 slug: "camlica-koyu-ilica-camii"
 description: "## Çamlıca Köyü Ilıca Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Güneysu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.641552,40.9400139"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamlıca Köyü Ilıca Camii

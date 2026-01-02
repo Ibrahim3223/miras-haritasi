@@ -1,18 +1,17 @@
 ---
-title: "Köçekli Höyük | Miras Haritası"
-date: 2025-12-25T06:23:50+03:00
+title: "Köçekli Höyük"
+date: "2025-12-25T06:23:50+03:00"
 slug: "kocekli-hoyuk"
 description: "### Köçekli Höyük: Kırşehir'in Gizli Harikası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2646783,39.3043921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köçekli Höyük: Kırşehir'in Gizli Harikası

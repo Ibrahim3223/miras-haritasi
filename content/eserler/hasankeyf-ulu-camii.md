@@ -1,18 +1,17 @@
 ---
-title: "Hasankeyf Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:59:30+03:00
+title: "Hasankeyf Ulu Camii"
+date: "2025-12-24T21:59:30+03:00"
 slug: "hasankeyf-ulu-camii"
 description: "## Hasankeyf Ulu Camii: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Hasankeyf"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.407972222,37.711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasankeyf Ulu Camii: Tarihî Bir Mirasın Gizemi

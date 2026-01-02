@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs K-I | Miras Haritası"
-date: 2025-12-25T07:57:09+03:00
+title: "Gordion Tümülüs K-I"
+date: "2025-12-25T07:57:09+03:00"
 slug: "gordion-tumulus-k-i"
 description: "## Gordion Tümülüs K-I: Polatlı'da Antik Bir Miras..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.990845,39.651184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gordion Tümülüs K-I: Polatlı'da Antik Bir Miras

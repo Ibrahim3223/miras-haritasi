@@ -1,18 +1,17 @@
 ---
-title: "Samandağ St.İlyas Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:12+03:00
+title: "Samandağ St.İlyas Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:25:12+03:00"
 slug: "samandag-stilyas-rum-ortodoks-kilisesi"
 description: "## Samandağ St.İlyas Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.9916382,36.0976639"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samandağ St.İlyas Rum Ortodoks Kilisesi

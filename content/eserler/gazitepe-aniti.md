@@ -1,18 +1,17 @@
 ---
-title: "Gazitepe Anıtı | Miras Haritası"
-date: 2025-12-25T14:10:25+03:00
+title: "Gazitepe Anıtı"
+date: "2025-12-25T14:10:25+03:00"
 slug: "gazitepe-aniti"
 description: "## Gazitepe Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.2494011,39.2555504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazitepe Anıtı

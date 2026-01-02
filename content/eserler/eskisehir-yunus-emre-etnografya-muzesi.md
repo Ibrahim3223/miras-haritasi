@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Yunus Emre Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:47+03:00
+title: "Eskişehir Yunus Emre Etnografya Müzesi"
+date: "2025-12-25T03:53:47+03:00"
 slug: "eskisehir-yunus-emre-etnografya-muzesi"
 description: "## Eskişehir Yunus Emre Etnografya Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.5266876,39.7630615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir Yunus Emre Etnografya Müzesi

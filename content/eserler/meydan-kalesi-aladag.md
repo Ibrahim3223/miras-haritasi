@@ -1,18 +1,17 @@
 ---
-title: "Meydan Kalesi, Aladağ | Miras Haritası"
-date: 2025-12-25T01:38:50+03:00
+title: "Meydan Kalesi, Aladağ"
+date: "2025-12-25T01:38:50+03:00"
 slug: "meydan-kalesi-aladag"
 description: "**Meydan Kalesi: Aladağ'ın Gizli Çehresi**..."
 featured_image: ""
 province: "Akdeniz Bölgesi"
-iller: ["Akdeniz Bölgesi"]
+iller: '["Akdeniz Bölgesi"]'
 district: "Aladağ"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.3573875,37.512001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Meydan Kalesi: Aladağ'ın Gizli Çehresi**

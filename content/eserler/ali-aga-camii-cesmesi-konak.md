@@ -1,18 +1,17 @@
 ---
-title: "Ali Ağa Camii Çeşmesi, Konak | Miras Haritası"
-date: 2025-12-25T12:47:20+03:00
+title: "Ali Ağa Camii Çeşmesi, Konak"
+date: "2025-12-25T12:47:20+03:00"
 slug: "ali-aga-camii-cesmesi-konak"
 description: "## Ali Ağa Camii Çeşmesi: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1304474,38.4142494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Ağa Camii Çeşmesi: İzmir'in Tarihi Bir Mirası

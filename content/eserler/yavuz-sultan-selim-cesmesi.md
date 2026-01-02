@@ -1,18 +1,17 @@
 ---
-title: "Yavuz Sultan Selim Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:56+03:00
+title: "Yavuz Sultan Selim Çeşmesi"
+date: "2025-12-25T11:35:56+03:00"
 slug: "yavuz-sultan-selim-cesmesi"
 description: "# Yavuz Sultan Selim Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4979019,37.8742714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yavuz Sultan Selim Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası

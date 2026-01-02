@@ -1,18 +1,17 @@
 ---
-title: "Kaya Halil Kümbeti | Miras Haritası"
-date: 2025-12-25T13:54:44+03:00
+title: "Kaya Halil Kümbeti"
+date: "2025-12-25T13:54:44+03:00"
 slug: "kaya-halil-kumbeti"
 description: "**Kaya Halil Kümbeti: Karaman'ın Gizli Anıtı**..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.22347964,37.178493698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kaya Halil Kümbeti: Karaman'ın Gizli Anıtı**

@@ -1,18 +1,17 @@
 ---
-title: "Binbirkilise | Miras Haritası"
-date: 2025-12-25T06:50:21+03:00
+title: "Binbirkilise"
+date: "2025-12-25T06:50:21+03:00"
 slug: "binbirkilise"
 description: "## Binbirkilise..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Binbirkilise1.jpg/1200px-Binbirkilise1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.14416667,37.43722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Binbirkilise

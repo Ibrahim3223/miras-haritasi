@@ -1,18 +1,17 @@
 ---
-title: "Karcıkaya Camii | Miras Haritası"
-date: 2025-12-24T23:44:45+03:00
+title: "Karcıkaya Camii"
+date: "2025-12-24T23:44:45+03:00"
 slug: "karcikaya-camii"
 description: "## Karcıkaya Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9145603,40.1721535"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karcıkaya Camii

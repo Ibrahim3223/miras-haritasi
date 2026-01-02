@@ -1,18 +1,17 @@
 ---
-title: "Ayvalı Çiftehöyük A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:11+03:00
+title: "Ayvalı Çiftehöyük A Tümülüsü"
+date: "2025-12-25T07:40:11+03:00"
 slug: "ayvali-ciftehoyuk-a-tumulusu"
 description: "**Ayvalı Çiftehöyük A Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2935448,41.4389191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayvalı Çiftehöyük A Tümülüsü**

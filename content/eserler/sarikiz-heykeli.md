@@ -1,18 +1,17 @@
 ---
-title: "Sarıkız heykeli | Miras Haritası"
-date: 2025-12-25T15:55:19+03:00
+title: "Sarıkız heykeli"
+date: "2025-12-25T15:55:19+03:00"
 slug: "sarikiz-heykeli"
 description: "## Sarıkız Heykeli: Ankara'nın Sembolik Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20240601_Sarı_Kız_heykeli,_Ankara_01.jpg/1200px-20240601_Sarı_Kız_heykeli,_Ankara_01.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8650513,39.927227"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sarıkız Heykeli: Ankara'nın Sembolik Anıtı

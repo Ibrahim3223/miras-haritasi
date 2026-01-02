@@ -1,18 +1,17 @@
 ---
-title: "Cengerli Kalesi | Miras Haritası"
-date: 2025-12-25T13:20:19+03:00
+title: "Cengerli Kalesi"
+date: "2025-12-25T13:20:19+03:00"
 slug: "cengerli-kalesi"
 description: "## Cengerli Kalesi: Refahiye'nin Tarihi Zirvesinde..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Refahiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.8714409,39.806057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cengerli Kalesi: Refahiye'nin Tarihi Zirvesinde

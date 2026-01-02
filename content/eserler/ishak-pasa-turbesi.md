@@ -1,18 +1,17 @@
 ---
-title: "İshak Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:59+03:00
+title: "İshak Paşa Türbesi"
+date: "2025-12-25T14:52:59+03:00"
 slug: "ishak-pasa-turbesi"
 description: "## İshak Paşa Türbesi: Karatay, Konya'daki Bir Geçmiş Gizem..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4976845,37.8739319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İshak Paşa Türbesi: Karatay, Konya'daki Bir Geçmiş Gizem

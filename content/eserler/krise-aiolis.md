@@ -1,18 +1,17 @@
 ---
-title: "Krise (Aiolis) | Miras Haritası"
-date: 2025-12-25T05:00:57+03:00
+title: "Krise (Aiolis)"
+date: "2025-12-25T05:00:57+03:00"
 slug: "krise-aiolis"
 description: "### Krise (Aiolis)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.928091,39.585106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Krise (Aiolis)

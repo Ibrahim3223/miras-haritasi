@@ -1,18 +1,17 @@
 ---
-title: "Peri Camii | Miras Haritası"
-date: 2025-12-24T22:40:16+03:00
+title: "Peri Camii"
+date: "2025-12-24T22:40:16+03:00"
 slug: "peri-camii"
 description: "## Peri Camii: Tunceli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Mazgirt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.6774979,38.8494797"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Peri Camii: Tunceli'nin Gizli Cenneti

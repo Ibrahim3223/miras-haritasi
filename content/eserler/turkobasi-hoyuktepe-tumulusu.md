@@ -1,18 +1,17 @@
 ---
-title: "Türkobası Höyüktepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:42+03:00
+title: "Türkobası Höyüktepe Tümülüsü"
+date: "2025-12-25T08:03:42+03:00"
 slug: "turkobasi-hoyuktepe-tumulusu"
 description: "## Türkobası Höyüktepe Tümülüsü: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6186752,41.0899734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türkobası Höyüktepe Tümülüsü: Edirne'nin Gizli Anıtı

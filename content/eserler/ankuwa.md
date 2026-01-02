@@ -1,18 +1,17 @@
 ---
-title: "Ankuwa | Miras Haritası"
-date: 2025-12-25T04:15:47+03:00
+title: "Ankuwa"
+date: "2025-12-25T04:15:47+03:00"
 slug: "ankuwa"
 description: "## Ankuwa Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kultorte.png/1200px-Kultorte.png"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.5,40.083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ankuwa Arkeolojik Sit

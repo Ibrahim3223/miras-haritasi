@@ -1,18 +1,17 @@
 ---
-title: "Balıklıova Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:29:18+03:00
+title: "Balıklıova Çeşmesi"
+date: "2025-12-25T12:29:18+03:00"
 slug: "balikliova-cesmesi"
 description: "### Balıklıova Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.569137,38.420893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balıklıova Çeşmesi

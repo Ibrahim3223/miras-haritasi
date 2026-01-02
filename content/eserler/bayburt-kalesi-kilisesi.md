@@ -1,18 +1,17 @@
 ---
-title: "Bayburt Kalesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:29+03:00
+title: "Bayburt Kalesi Kilisesi"
+date: "2025-12-25T09:17:29+03:00"
 slug: "bayburt-kalesi-kilisesi"
 description: "## Bayburt Kalesi Kilisesi..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.234232,40.258296"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayburt Kalesi Kilisesi

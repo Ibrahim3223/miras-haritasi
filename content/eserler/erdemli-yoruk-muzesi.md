@@ -1,18 +1,17 @@
 ---
-title: "Erdemli Yörük Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:39+03:00
+title: "Erdemli Yörük Müzesi"
+date: "2025-12-25T03:30:39+03:00"
 slug: "erdemli-yoruk-muzesi"
 description: "## Erdemli Yörük Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erdemli Yörük Müzesi

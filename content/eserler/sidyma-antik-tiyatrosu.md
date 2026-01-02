@@ -1,18 +1,17 @@
 ---
-title: "Sidyma Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:20:47+03:00
+title: "Sidyma Antik Tiyatrosu"
+date: "2025-12-25T08:20:47+03:00"
 slug: "sidyma-antik-tiyatrosu"
 description: "### Sidyma Antik Tiyatrosu: Muğla'nın Tarihi Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1939812,36.4094925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sidyma Antik Tiyatrosu: Muğla'nın Tarihi Mirası

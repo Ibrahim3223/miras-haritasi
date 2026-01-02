@@ -1,18 +1,17 @@
 ---
-title: "II. Murat Camii | Miras Haritası"
-date: 2025-12-24T23:35:49+03:00
+title: "II. Murat Camii"
+date: "2025-12-24T23:35:49+03:00"
 slug: "ii-murat-camii"
 description: "## II. Murat Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2718906,37.7486877"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Murat Camii Tanıtımı

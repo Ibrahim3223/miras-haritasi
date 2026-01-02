@@ -1,18 +1,17 @@
 ---
-title: "Odon (Lidya) | Miras Haritası"
-date: 2025-12-25T05:14:22+03:00
+title: "Odon (Lidya)"
+date: "2025-12-25T05:14:22+03:00"
 slug: "odon-lidya"
 description: "## Odon (Lidya) Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Köprübaşı (Manisa)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.507199,38.723103"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Odon (Lidya) Arkeolojik Sit

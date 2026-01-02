@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Paşa Çeşmesi,Türbe Arkası | Miras Haritası"
-date: 2025-12-25T12:17:23+03:00
+title: "Ahmet Paşa Çeşmesi,Türbe Arkası"
+date: "2025-12-25T12:17:23+03:00"
 slug: "ahmet-pasa-cesmesiturbe-arkasi"
 description: "### Ahmet Paşa Çeşmesi, Türbe Arkası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fatih_Mosque_cemetery_entrance_DSCF6749.jpg/1200px-Fatih_Mosque_cemetery_entrance_DSCF6749.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9499332,41.0190634"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ahmet Paşa Çeşmesi, Türbe Arkası

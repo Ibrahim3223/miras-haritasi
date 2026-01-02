@@ -1,18 +1,17 @@
 ---
-title: "Sumaki Höyük | Miras Haritası"
-date: 2025-12-25T07:03:20+03:00
+title: "Sumaki Höyük"
+date: "2025-12-25T07:03:20+03:00"
 slug: "sumaki-hoyuk"
 description: "## Sumaki Höyük: Batman'ın Gizli Kıvılcımı..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Beşiri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.3041992,37.9171104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sumaki Höyük: Batman'ın Gizli Kıvılcımı

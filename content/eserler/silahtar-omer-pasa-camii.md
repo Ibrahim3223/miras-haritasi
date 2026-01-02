@@ -1,18 +1,17 @@
 ---
-title: "Silahtar Ömer Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:46:54+03:00
+title: "Silahtar Ömer Paşa Camii"
+date: "2025-12-24T21:46:54+03:00"
 slug: "silahtar-omer-pasa-camii"
 description: "## Silahtar Ömer Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Erbaa-akca-fidi-silahtar-omer-pasa-camii_76_0_0.jpg/1200px-Erbaa-akca-fidi-silahtar-omer-pasa-camii_76_0_0.jpg"
 province: "Erbaa"
-iller: ["Erbaa"]
+iller: '["Erbaa"]'
 district: "Akça"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.45083333,40.705"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Silahtar Ömer Paşa Camii

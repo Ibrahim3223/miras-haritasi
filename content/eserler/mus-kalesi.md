@@ -1,18 +1,17 @@
 ---
-title: "Muş Kalesi | Miras Haritası"
-date: 2025-12-25T01:50:10+03:00
+title: "Muş Kalesi"
+date: "2025-12-25T01:50:10+03:00"
 slug: "mus-kalesi"
 description: "## Muş Kalesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muş"
+province: "Muş"
+iller: '["Muş"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muş Kalesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

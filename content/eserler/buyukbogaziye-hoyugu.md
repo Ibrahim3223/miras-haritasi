@@ -1,18 +1,17 @@
 ---
-title: "Büyükboğaziye Höyüğü | Miras Haritası"
-date: 2025-12-25T06:11:05+03:00
+title: "Büyükboğaziye Höyüğü"
+date: "2025-12-25T06:11:05+03:00"
 slug: "buyukbogaziye-hoyugu"
 description: "## Büyükboğaziye Höyüğü..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.296633149,36.966088783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükboğaziye Höyüğü

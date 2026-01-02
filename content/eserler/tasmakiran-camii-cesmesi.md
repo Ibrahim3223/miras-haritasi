@@ -1,18 +1,17 @@
 ---
-title: "Tasmakıran Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:15+03:00
+title: "Tasmakıran Camii Çeşmesi"
+date: "2025-12-25T10:48:15+03:00"
 slug: "tasmakiran-camii-cesmesi"
 description: "## Tasmakıran Camii Çeşmesi: Kayseri'nin Büyüleyici Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4802933,38.7177696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tasmakıran Camii Çeşmesi: Kayseri'nin Büyüleyici Çeşmesi

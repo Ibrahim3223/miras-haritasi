@@ -1,18 +1,17 @@
 ---
-title: "Salim Mutlu Özel Harp Anıları Müzesi | Miras Haritası"
-date: 2025-12-25T03:56:14+03:00
+title: "Salim Mutlu Özel Harp Anıları Müzesi"
+date: "2025-12-25T03:56:14+03:00"
 slug: "salim-mutlu-ozel-harp-anilari-muzesi"
 description: "# Salim Mutlu Özel Harp Anıları Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.225258,40.094801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Salim Mutlu Özel Harp Anıları Müzesi

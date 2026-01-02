@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Şehitliği, Sarıyer | Miras Haritası"
-date: 2025-12-25T15:57:58+03:00
+title: "Yeniköy Şehitliği, Sarıyer"
+date: "2025-12-25T15:57:58+03:00"
 slug: "yenikoy-sehitligi-sariyer"
 description: "### Yeniköy Şehitliği: Sarıyer'in Anıtsal Mezarlığı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0588531,41.1187134"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeniköy Şehitliği: Sarıyer'in Anıtsal Mezarlığı

@@ -1,18 +1,17 @@
 ---
-title: "Akçakoyun Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:50+03:00
+title: "Akçakoyun Şehitliği"
+date: "2025-12-25T16:03:50+03:00"
 slug: "akcakoyun-sehitligi"
 description: "**Akçakoyun Şehitliği**..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Yenice (Çanakkale)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.151514994,39.800397889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akçakoyun Şehitliği**

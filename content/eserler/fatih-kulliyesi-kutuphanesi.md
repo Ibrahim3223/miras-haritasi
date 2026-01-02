@@ -1,18 +1,17 @@
 ---
-title: "Fatih Külliyesi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:53:39+03:00
+title: "Fatih Külliyesi Kütüphanesi"
+date: "2025-12-25T17:53:39+03:00"
 slug: "fatih-kulliyesi-kutuphanesi"
 description: "## Fatih Külliyesi Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.948717,41.020451"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Külliyesi Kütüphanesi

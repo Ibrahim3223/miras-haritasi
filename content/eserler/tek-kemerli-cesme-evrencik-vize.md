@@ -1,18 +1,17 @@
 ---
-title: "Tek Kemerli Çeşme (Evrencik, Vize) | Miras Haritası"
-date: 2025-12-25T11:46:06+03:00
+title: "Tek Kemerli Çeşme (Evrencik, Vize)"
+date: "2025-12-25T11:46:06+03:00"
 slug: "tek-kemerli-cesme-evrencik-vize"
 description: "## Tek Kemerli Çeşme (Evrencik, Vize)..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.713611111,41.651944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tek Kemerli Çeşme (Evrencik, Vize)

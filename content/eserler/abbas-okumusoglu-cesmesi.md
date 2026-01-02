@@ -1,18 +1,17 @@
 ---
-title: "Abbas Okumuşoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:11:21+03:00
+title: "Abbas Okumuşoğlu Çeşmesi"
+date: "2025-12-25T11:11:21+03:00"
 slug: "abbas-okumusoglu-cesmesi"
 description: "**Abbas Okumuşoğlu Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Abbas_Okumuşoğlu_Çeşmesi_IMG_1318.jpg/1200px-Abbas_Okumuşoğlu_Çeşmesi_IMG_1318.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0576869,41.1692539"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Abbas Okumuşoğlu Çeşmesi**

@@ -1,18 +1,17 @@
 ---
-title: "Ferhatpaşa Hamamı Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:27:29+03:00
+title: "Ferhatpaşa Hamamı Duvar Çeşmesi"
+date: "2025-12-25T12:27:29+03:00"
 slug: "ferhatpasa-hamami-duvar-cesmesi"
 description: "# Ferhatpaşa Hamamı Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.464049577,41.1382047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ferhatpaşa Hamamı Duvar Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ballıkaya Kaya Mezarları ve Cebrail Freski | Miras Haritası"
-date: 2025-12-25T13:22:28+03:00
+title: "Ballıkaya Kaya Mezarları ve Cebrail Freski"
+date: "2025-12-25T13:22:28+03:00"
 slug: "ballikaya-kaya-mezarlari-ve-cebrail-freski"
 description: "## Ballıkaya Kaya Mezarları ve Cebrail Freski..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7431507,37.8789444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ballıkaya Kaya Mezarları ve Cebrail Freski

@@ -1,18 +1,17 @@
 ---
-title: "Muğla Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:53+03:00
+title: "Muğla Saat Kulesi"
+date: "2025-12-25T17:18:53+03:00"
 slug: "mugla-saat-kulesi"
 description: "# Muğla Saat Kulesi: Tarih, Mimarisi ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Muğla"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "28.365587604,37.217911323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Muğla Saat Kulesi: Tarih, Mimarisi ve Ziyaret Bilgileri

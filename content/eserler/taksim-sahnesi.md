@@ -1,18 +1,17 @@
 ---
-title: "Taksim Sahnesi | Miras Haritası"
-date: 2025-12-25T16:16:44+03:00
+title: "Taksim Sahnesi"
+date: "2025-12-25T16:16:44+03:00"
 slug: "taksim-sahnesi"
 description: "## Taksim Sahnesi: Beyoğlu'ndaki Antik Tiyatro..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.985055555,41.036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taksim Sahnesi: Beyoğlu'ndaki Antik Tiyatro

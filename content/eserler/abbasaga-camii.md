@@ -1,18 +1,17 @@
 ---
-title: "Abbasağa Camii | Miras Haritası"
-date: 2025-12-24T22:57:01+03:00
+title: "Abbasağa Camii"
+date: "2025-12-24T22:57:01+03:00"
 slug: "abbasaga-camii"
 description: "## Abbasağa Camii: Van'ın Tarihî Mirası..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "İpekyolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.3363533,38.5018158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abbasağa Camii: Van'ın Tarihî Mirası

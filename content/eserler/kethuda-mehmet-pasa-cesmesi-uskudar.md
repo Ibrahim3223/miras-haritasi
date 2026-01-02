@@ -1,18 +1,17 @@
 ---
-title: "Kethüda Mehmet Paşa Çeşmesi (Üsküdar) | Miras Haritası"
-date: 2025-12-25T12:23:30+03:00
+title: "Kethüda Mehmet Paşa Çeşmesi (Üsküdar)"
+date: "2025-12-25T12:23:30+03:00"
 slug: "kethuda-mehmet-pasa-cesmesi-uskudar"
 description: "## Kethüda Mehmet Paşa Çeşmesi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0145187,41.0225983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kethüda Mehmet Paşa Çeşmesi: Üsküdar'ın Gizli Çeşmesi

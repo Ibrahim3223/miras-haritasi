@@ -1,18 +1,17 @@
 ---
-title: "Harım Höyük | Miras Haritası"
-date: 2025-12-25T06:21:08+03:00
+title: "Harım Höyük"
+date: "2025-12-25T06:21:08+03:00"
 slug: "harim-hoyuk"
 description: "## Harım Höyük: Mucur'un Tarihî Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4532645,39.0418112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harım Höyük: Mucur'un Tarihî Mirası

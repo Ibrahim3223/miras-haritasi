@@ -1,18 +1,17 @@
 ---
-title: "Söylemez Baba Kümbeti, Karayazı | Miras Haritası"
-date: 2025-12-25T13:55:55+03:00
+title: "Söylemez Baba Kümbeti, Karayazı"
+date: "2025-12-25T13:55:55+03:00"
 slug: "soylemez-baba-kumbeti-karayazi"
 description: "## Söylemez Baba Kümbeti..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Karayazı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.7956543,39.6320038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söylemez Baba Kümbeti

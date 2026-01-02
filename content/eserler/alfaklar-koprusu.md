@@ -1,18 +1,17 @@
 ---
-title: "Alfaklar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:49+03:00
+title: "Alfaklar Köprüsü"
+date: "2025-12-25T02:12:49+03:00"
 slug: "alfaklar-koprusu"
 description: "### Alfaklar Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Karahallı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.5458775,38.4242592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alfaklar Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Hatıpoğlutolu Höyük | Miras Haritası"
-date: 2025-12-25T06:25:43+03:00
+title: "Hatıpoğlutolu Höyük"
+date: "2025-12-25T06:25:43+03:00"
 slug: "hatipoglutolu-hoyuk"
 description: "## Hatıpoğlutolu Höyük: Aksaray'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8762301,38.3988633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatıpoğlutolu Höyük: Aksaray'ın Tarihî Bir Mirası

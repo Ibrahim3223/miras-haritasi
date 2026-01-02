@@ -1,18 +1,17 @@
 ---
-title: "Vosgeperan Ermeni Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:16+03:00
+title: "Vosgeperan Ermeni Katolik Kilisesi"
+date: "2025-12-25T09:10:16+03:00"
 slug: "vosgeperan-ermeni-katolik-kilisesi"
 description: "## Vosgeperan Ermeni Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9831138,41.0364375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vosgeperan Ermeni Katolik Kilisesi

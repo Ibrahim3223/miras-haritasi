@@ -1,18 +1,17 @@
 ---
-title: "Eyüp Çelebi Camii | Miras Haritası"
-date: 2025-12-24T23:00:52+03:00
+title: "Eyüp Çelebi Camii"
+date: "2025-12-24T23:00:52+03:00"
 slug: "eyup-celebi-camii"
 description: "## Eyüp Çelebi Camii: Merzifon'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4662399,40.8729019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eyüp Çelebi Camii: Merzifon'un Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Dorukome | Miras Haritası"
-date: 2025-12-25T05:10:55+03:00
+title: "Dorukome"
+date: "2025-12-25T05:10:55+03:00"
 slug: "dorukome"
 description: "## Dorukome Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.576944444,38.586666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dorukome Arkeolojik Sit

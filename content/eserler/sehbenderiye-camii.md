@@ -1,18 +1,17 @@
 ---
-title: "Şehbenderiye Camii | Miras Haritası"
-date: 2025-12-24T23:10:42+03:00
+title: "Şehbenderiye Camii"
+date: "2025-12-24T23:10:42+03:00"
 slug: "sehbenderiye-camii"
 description: "## Şehbenderiye Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7894249,37.1596718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehbenderiye Camii

@@ -1,18 +1,17 @@
 ---
-title: "Gökçe Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:02:35+03:00
+title: "Gökçe Köyü Camii"
+date: "2025-12-24T23:02:35+03:00"
 slug: "gokce-koyu-camii"
 description: "### Gökçe Köyü Camii: Karaman'ın Gizli Çatısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2904587,37.0651093"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökçe Köyü Camii: Karaman'ın Gizli Çatısı

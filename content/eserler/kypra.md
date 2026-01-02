@@ -1,18 +1,17 @@
 ---
-title: "Kypra | Miras Haritası"
-date: 2025-12-25T04:44:17+03:00
+title: "Kypra"
+date: "2025-12-25T04:44:17+03:00"
 slug: "kypra"
 description: "## Kypra Arkeolojik Sit..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Derince"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.91593,40.900645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kypra Arkeolojik Sit

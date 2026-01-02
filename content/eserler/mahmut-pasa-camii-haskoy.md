@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Paşa Camii, Hasköy | Miras Haritası"
-date: 2025-12-25T01:11:11+03:00
+title: "Mahmut Paşa Camii, Hasköy"
+date: "2025-12-25T01:11:11+03:00"
 slug: "mahmut-pasa-camii-haskoy"
 description: "# Mahmut Paşa Camii, Hasköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Havsa_-_Mahmut_Paşa_Camii,_Hasköy_-_20250601122946.jpg/1200px-Havsa_-_Mahmut_Paşa_Camii,_Hasköy_-_20250601122946.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8587112,41.643013"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Mahmut Paşa Camii, Hasköy

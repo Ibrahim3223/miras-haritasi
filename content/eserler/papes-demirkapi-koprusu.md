@@ -1,18 +1,17 @@
 ---
-title: "Papes Demirkapı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:31+03:00
+title: "Papes Demirkapı Köprüsü"
+date: "2025-12-25T02:04:31+03:00"
 slug: "papes-demirkapi-koprusu"
 description: "## Papes Demirkapı Köprüsü: İkizdere'nin Tarihi Bir Örneği..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.564083,40.772933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Papes Demirkapı Köprüsü: İkizdere'nin Tarihi Bir Örneği

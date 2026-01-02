@@ -1,18 +1,17 @@
 ---
-title: "Edirne Müzesi | Miras Haritası"
-date: 2025-12-25T03:18:23+03:00
+title: "Edirne Müzesi"
+date: "2025-12-25T03:18:23+03:00"
 slug: "edirne-muzesi"
 description: "### Edirne Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gravestones-and-museum-at-Selimiye-Mosque.jpg/1200px-Gravestones-and-museum-at-Selimiye-Mosque.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.560555555,41.678888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Edirne Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer

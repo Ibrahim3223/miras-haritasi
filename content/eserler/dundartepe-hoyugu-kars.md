@@ -1,18 +1,17 @@
 ---
-title: "Dündartepe Höyüğü (Kars) | Miras Haritası"
-date: 2025-12-25T07:01:54+03:00
+title: "Dündartepe Höyüğü (Kars)"
+date: "2025-12-25T07:01:54+03:00"
 slug: "dundartepe-hoyugu-kars"
 description: "### Dündartepe Höyüğü: Kars'ta Gizli Bir Geçmiş..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dündartepe Höyüğü: Kars'ta Gizli Bir Geçmiş

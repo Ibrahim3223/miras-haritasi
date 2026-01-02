@@ -1,18 +1,17 @@
 ---
-title: "Ayasofya Sebili | Miras Haritası"
-date: 2025-12-25T13:05:44+03:00
+title: "Ayasofya Sebili"
+date: "2025-12-25T13:05:44+03:00"
 slug: "ayasofya-sebili"
 description: "# Ayasofya Sebili: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9797668,41.0076637"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 # Ayasofya Sebili: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

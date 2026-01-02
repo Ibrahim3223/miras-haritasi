@@ -1,18 +1,17 @@
 ---
-title: "Prof. Dr. Turan Yazgan Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:56:42+03:00
+title: "Prof. Dr. Turan Yazgan Etnografya Müzesi"
+date: "2025-12-25T03:56:42+03:00"
 slug: "prof-dr-turan-yazgan-etnografya-muzesi"
 description: "**Turan Yazgan Etnografya Müzesi**..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.550891,37.755049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Turan Yazgan Etnografya Müzesi**

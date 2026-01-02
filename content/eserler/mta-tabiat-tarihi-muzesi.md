@@ -1,18 +1,17 @@
 ---
-title: "MTA Tabiat Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:48:10+03:00
+title: "MTA Tabiat Tarihi Müzesi"
+date: "2025-12-25T03:48:10+03:00"
 slug: "mta-tabiat-tarihi-muzesi"
 description: "## MTA Tabiat Tarihi Müzesi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.798719,39.902129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## MTA Tabiat Tarihi Müzesi: Ankara'nın Gizli Cenneti

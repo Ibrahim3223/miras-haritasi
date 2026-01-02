@@ -1,18 +1,17 @@
 ---
-title: "İncili Çavuş Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:00:20+03:00
+title: "İncili Çavuş Sokak Çeşmesi"
+date: "2025-12-25T13:00:20+03:00"
 slug: "incili-cavus-sokak-cesmesi"
 description: "## İncili Çavuş Sokak Çeşmesi: Fatih'ten Bir Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.976877,41.0081989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncili Çavuş Sokak Çeşmesi: Fatih'ten Bir Kültürel Miras

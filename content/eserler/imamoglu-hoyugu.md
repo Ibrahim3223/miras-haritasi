@@ -1,18 +1,17 @@
 ---
-title: "İmamoğlu Höyüğü | Miras Haritası"
-date: 2025-12-25T05:51:42+03:00
+title: "İmamoğlu Höyüğü"
+date: "2025-12-25T05:51:42+03:00"
 slug: "imamoglu-hoyugu"
 description: "### İmamoğlu Höyüğü: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.4543381,38.4752121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İmamoğlu Höyüğü: Malatya'nın Gizli Mirası

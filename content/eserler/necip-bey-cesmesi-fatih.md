@@ -1,18 +1,17 @@
 ---
-title: "Necip Bey Çeşmesi, Fatih | Miras Haritası"
-date: 2025-12-25T12:16:28+03:00
+title: "Necip Bey Çeşmesi, Fatih"
+date: "2025-12-25T12:16:28+03:00"
 slug: "necip-bey-cesmesi-fatih"
 description: "## Necip Bey Çeşmesi: Fatih'in Değerli Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.949154,41.021274"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Necip Bey Çeşmesi: Fatih'in Değerli Kültürel Mirası

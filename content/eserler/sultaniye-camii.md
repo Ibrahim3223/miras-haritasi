@@ -1,18 +1,17 @@
 ---
-title: "Sultaniye Camii | Miras Haritası"
-date: 2025-12-24T23:09:11+03:00
+title: "Sultaniye Camii"
+date: "2025-12-24T23:09:11+03:00"
 slug: "sultaniye-camii"
 description: "## Sultaniye Camii: Bitlis'in Gizemli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.1070557,38.3984108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultaniye Camii: Bitlis'in Gizemli Mirası

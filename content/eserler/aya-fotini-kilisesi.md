@@ -1,18 +1,17 @@
 ---
-title: "Aya Fotini Kilisesi | Miras Haritası"
-date: 2025-12-25T08:52:14+03:00
+title: "Aya Fotini Kilisesi"
+date: "2025-12-25T08:52:14+03:00"
 slug: "aya-fotini-kilisesi"
 description: "## Aya Fotini Kilisesi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St.fotini.smyrna.bell.jpg/1200px-St.fotini.smyrna.bell.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.134722222,38.424722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aya Fotini Kilisesi: İzmir'in Tarihi ve Kültürel Mirası

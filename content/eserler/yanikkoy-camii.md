@@ -1,18 +1,17 @@
 ---
-title: "Yanıkköy Camii | Miras Haritası"
-date: 2025-12-24T23:42:38+03:00
+title: "Yanıkköy Camii"
+date: "2025-12-24T23:42:38+03:00"
 slug: "yanikkoy-camii"
 description: "## Yanıkköy Camii: Menemen'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menemen"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0815125,38.6547356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yanıkköy Camii: Menemen'in Tarihi Bir Mirası

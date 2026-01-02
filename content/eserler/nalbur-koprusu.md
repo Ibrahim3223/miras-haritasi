@@ -1,18 +1,17 @@
 ---
-title: "Nalbur Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:18+03:00
+title: "Nalbur Köprüsü"
+date: "2025-12-25T02:40:18+03:00"
 slug: "nalbur-koprusu"
 description: "# Nalbur Köprüsü: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.7840786,41.5749207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Nalbur Köprüsü: Edirne'nin Tarihi Bir Mirası

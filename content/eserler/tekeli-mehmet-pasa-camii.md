@@ -1,18 +1,17 @@
 ---
-title: "Tekeli Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:37:46+03:00
+title: "Tekeli Mehmet Paşa Camii"
+date: "2025-12-24T21:37:46+03:00"
 slug: "tekeli-mehmet-pasa-camii"
 description: "### Tekeli Mehmet Paşa Camii: Antalya'nın Tarihi Çağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Antalya_clock.jpg/1200px-Antalya_clock.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7058,36.8865"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Tekeli Mehmet Paşa Camii: Antalya'nın Tarihi Çağı

@@ -1,18 +1,17 @@
 ---
-title: "Vefikiye Camii | Miras Haritası"
-date: 2025-12-25T01:03:14+03:00
+title: "Vefikiye Camii"
+date: "2025-12-25T01:03:14+03:00"
 slug: "vefikiye-camii"
 description: "## Vefikiye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vefikiye_camii_bursa_-_panoramio.jpg/1200px-Vefikiye_camii_bursa_-_panoramio.jpg"
 province: "Yıldırım"
-iller: ["Yıldırım"]
+iller: '["Yıldırım"]'
 district: "Mollaarap"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.070623172,40.174403644"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Vefikiye Camii

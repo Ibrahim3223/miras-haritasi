@@ -1,18 +1,17 @@
 ---
-title: "Beyzade Mehmet Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:45:36+03:00
+title: "Beyzade Mehmet Efendi Çeşmesi"
+date: "2025-12-25T11:45:36+03:00"
 slug: "beyzade-mehmet-efendi-cesmesi"
 description: "### Beyzade Mehmet Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.932878,41.043213"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beyzade Mehmet Efendi Çeşmesi

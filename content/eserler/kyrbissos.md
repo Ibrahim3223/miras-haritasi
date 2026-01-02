@@ -1,18 +1,17 @@
 ---
-title: "Kyrbissos | Miras Haritası"
-date: 2025-12-25T08:07:40+03:00
+title: "Kyrbissos"
+date: "2025-12-25T08:07:40+03:00"
 slug: "kyrbissos"
 description: "# Kyrbissos: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kyrbissos: Antik Bir Kentin İzleri

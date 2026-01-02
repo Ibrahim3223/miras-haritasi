@@ -1,18 +1,17 @@
 ---
-title: "Eşek Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:46+03:00
+title: "Eşek Köprüsü"
+date: "2025-12-25T02:29:46+03:00"
 slug: "esek-koprusu"
 description: "# Eşek Köprüsü: Mersin'in Efsanevi Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.1342812,36.6219406"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Eşek Köprüsü: Mersin'in Efsanevi Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Parmak Batıran Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:49:35+03:00
+title: "Parmak Batıran Çeşmesi, Bergama"
+date: "2025-12-25T12:49:35+03:00"
 slug: "parmak-batiran-cesmesi-bergama"
 description: "### Parmak Batıran Çeşmesi: Bergama'nın Görsel Zirvesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1867008,39.1225014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Parmak Batıran Çeşmesi: Bergama'nın Görsel Zirvesi

@@ -1,18 +1,17 @@
 ---
-title: "Arif Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:13:23+03:00
+title: "Arif Ağa Camii"
+date: "2025-12-24T22:13:23+03:00"
 slug: "arif-aga-camii"
 description: "## Arif Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Arif_Ağa_Camii_30.JPG/1200px-Arif_Ağa_Camii_30.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5535374,41.6806946"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Arif Ağa Camii

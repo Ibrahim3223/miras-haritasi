@@ -1,18 +1,17 @@
 ---
-title: "Maltahöyüğü | Miras Haritası"
-date: 2025-12-25T06:45:35+03:00
+title: "Maltahöyüğü"
+date: "2025-12-25T06:45:35+03:00"
 slug: "maltahoyugu"
 description: "### Maltahöyüğü: Hatay'ın Gizli Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.3896647,36.4549101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Maltahöyüğü: Hatay'ın Gizli Mirası

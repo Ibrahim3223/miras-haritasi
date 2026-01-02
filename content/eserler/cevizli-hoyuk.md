@@ -1,18 +1,17 @@
 ---
-title: "Cevizli Höyük | Miras Haritası"
-date: 2025-12-25T13:44:55+03:00
+title: "Cevizli Höyük"
+date: "2025-12-25T13:44:55+03:00"
 slug: "cevizli-hoyuk"
 description: "## Cevizli Höyük Tanıtımı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.2193209,39.2587948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevizli Höyük Tanıtımı

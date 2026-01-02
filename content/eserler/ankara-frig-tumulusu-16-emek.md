@@ -1,18 +1,17 @@
 ---
-title: "Ankara Frig Tümülüsü 16, Emek | Miras Haritası"
-date: 2025-12-25T07:29:04+03:00
+title: "Ankara Frig Tümülüsü 16, Emek"
+date: "2025-12-25T07:29:04+03:00"
 slug: "ankara-frig-tumulusu-16-emek"
 description: "## Ankara Frig Tümülüsü 16, Emek..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8237953,39.9171715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Frig Tümülüsü 16, Emek

@@ -1,18 +1,17 @@
 ---
-title: "Kilise | Miras Haritası"
-date: 2025-12-25T09:45:57+03:00
+title: "Kilise"
+date: "2025-12-25T09:45:57+03:00"
 slug: "kilise"
 description: "## Büyükçekmece Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.5770378,41.0232086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükçekmece Kilisesi

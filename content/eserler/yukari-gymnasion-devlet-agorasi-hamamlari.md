@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Gymnasion / Devlet Agorası Hamamları | Miras Haritası"
-date: 2025-12-25T05:35:37+03:00
+title: "Yukarı Gymnasion / Devlet Agorası Hamamları"
+date: "2025-12-25T05:35:37+03:00"
 slug: "yukari-gymnasion-devlet-agorasi-hamamlari"
 description: "# Yukarı Gymnasion / Devlet Agorası Hamamları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/1.2_Baths'_ruins_in_Ephesus.JPG/1200px-1.2_Baths'_ruins_in_Ephesus.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.345680271,37.936479603"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Yukarı Gymnasion / Devlet Agorası Hamamları

@@ -1,18 +1,17 @@
 ---
-title: "Höyüktepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:45:12+03:00
+title: "Höyüktepe Höyüğü"
+date: "2025-12-25T06:45:12+03:00"
 slug: "hoyuktepe-hoyugu"
 description: "### Höyüktepe Höyüğü..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8913219,39.4837948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Höyüktepe Höyüğü

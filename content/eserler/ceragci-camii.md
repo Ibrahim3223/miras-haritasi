@@ -1,18 +1,17 @@
 ---
-title: "Çerağcı Camii | Miras Haritası"
-date: 2025-12-25T00:04:57+03:00
+title: "Çerağcı Camii"
+date: "2025-12-25T00:04:57+03:00"
 slug: "ceragci-camii"
 description: "## Çerağcı Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.951786,41.025135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çerağcı Camii

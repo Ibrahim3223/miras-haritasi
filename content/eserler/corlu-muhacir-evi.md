@@ -1,18 +1,17 @@
 ---
-title: "Çorlu Muhacir Evi | Miras Haritası"
-date: 2025-12-25T04:03:06+03:00
+title: "Çorlu Muhacir Evi"
+date: "2025-12-25T04:03:06+03:00"
 slug: "corlu-muhacir-evi"
 description: "### Çorlu Muhacir Evi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.8018742,41.1637077"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çorlu Muhacir Evi

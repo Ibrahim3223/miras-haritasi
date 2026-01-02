@@ -1,18 +1,17 @@
 ---
-title: "Aziz Pavlus Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T08:55:25+03:00
+title: "Aziz Pavlus Ortodoks Kilisesi"
+date: "2025-12-25T08:55:25+03:00"
 slug: "aziz-pavlus-ortodoks-kilisesi"
 description: "## Aziz Pavlus Ortodoks Kilisesi: Antakya'nın Tarihî Bir Ölümsüzlüğü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ANTAKYA_EYLÜL_2011_-_panoramio_(1).jpg/1200px-ANTAKYA_EYLÜL_2011_-_panoramio_(1).jpg"
 province: "Antakya İlçesi"
-iller: ["Antakya İlçesi"]
+iller: '["Antakya İlçesi"]'
 district: "Zenginler"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.160722222,36.199944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Pavlus Ortodoks Kilisesi: Antakya'nın Tarihî Bir Ölümsüzlüğü

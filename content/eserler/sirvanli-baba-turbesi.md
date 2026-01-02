@@ -1,18 +1,17 @@
 ---
-title: "Şirvanlı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:59+03:00
+title: "Şirvanlı Baba Türbesi"
+date: "2025-12-25T15:19:59+03:00"
 slug: "sirvanli-baba-turbesi"
 description: "### Şirvanlı Baba Türbesi: Amasya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8309,40.6613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şirvanlı Baba Türbesi: Amasya'nın Gizli Cenneti

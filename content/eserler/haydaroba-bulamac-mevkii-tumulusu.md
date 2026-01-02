@@ -1,18 +1,17 @@
 ---
-title: "Haydaroba Bulamaç Mevkii Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:14:43+03:00
+title: "Haydaroba Bulamaç Mevkii Tümülüsü"
+date: "2025-12-25T08:14:43+03:00"
 slug: "haydaroba-bulamac-mevkii-tumulusu"
 description: "## Haydaroba Bulamaç Mevkii Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Yenice (Çanakkale)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.430216009,39.906648403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haydaroba Bulamaç Mevkii Tümülüsü

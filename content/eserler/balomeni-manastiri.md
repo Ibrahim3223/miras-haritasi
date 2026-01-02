@@ -1,18 +1,17 @@
 ---
-title: "Balomeni Manastırı | Miras Haritası"
-date: 2025-12-25T09:57:13+03:00
+title: "Balomeni Manastırı"
+date: "2025-12-25T09:57:13+03:00"
 slug: "balomeni-manastiri"
 description: "## Balomeni Manastırı: Gökçeada'nın Gizli Öyküsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.7691994,40.1960983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balomeni Manastırı: Gökçeada'nın Gizli Öyküsü

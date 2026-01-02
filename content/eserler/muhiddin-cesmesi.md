@@ -1,18 +1,17 @@
 ---
-title: "Muhiddin Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:19:13+03:00
+title: "Muhiddin Çeşmesi"
+date: "2025-12-25T10:19:13+03:00"
 slug: "muhiddin-cesmesi"
 description: "## Muhiddin Çeşmesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.2208176,37.1796799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muhiddin Çeşmesi

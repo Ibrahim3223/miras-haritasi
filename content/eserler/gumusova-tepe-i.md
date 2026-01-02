@@ -1,18 +1,17 @@
 ---
-title: "Gümüşova Tepe I | Miras Haritası"
-date: 2025-12-25T05:51:18+03:00
+title: "Gümüşova Tepe I"
+date: "2025-12-25T05:51:18+03:00"
 slug: "gumusova-tepe-i"
 description: "### Gümüşova Tepe I: Bergama'nın Gizli Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.240667,39.053083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşova Tepe I: Bergama'nın Gizli Harikası

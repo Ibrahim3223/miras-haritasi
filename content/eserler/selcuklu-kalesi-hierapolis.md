@@ -1,18 +1,17 @@
 ---
-title: "Selçuklu Kalesi, Hierapolis | Miras Haritası"
-date: 2025-12-25T01:51:25+03:00
+title: "Selçuklu Kalesi, Hierapolis"
+date: "2025-12-25T01:51:25+03:00"
 slug: "selcuklu-kalesi-hierapolis"
 description: "### Selçuklu Kalesi, Hierapolis..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.1221695,37.924633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selçuklu Kalesi, Hierapolis

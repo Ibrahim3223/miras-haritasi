@@ -1,18 +1,17 @@
 ---
-title: "Kal Kadoş Çorapçı Han Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:45+03:00
+title: "Kal Kadoş Çorapçı Han Sinagogu"
+date: "2025-12-25T16:13:45+03:00"
 slug: "kal-kados-corapci-han-sinagogu"
 description: "## Kal Kadoş Çorapçı Han Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.969861111,41.014333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kal Kadoş Çorapçı Han Sinagogu

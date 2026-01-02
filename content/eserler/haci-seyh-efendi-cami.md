@@ -1,18 +1,17 @@
 ---
-title: "Hacı Şeyh Efendi Cami | Miras Haritası"
-date: 2025-12-24T23:28:28+03:00
+title: "Hacı Şeyh Efendi Cami"
+date: "2025-12-24T23:28:28+03:00"
 slug: "haci-seyh-efendi-cami"
 description: "## Hacı Şeyh Efendi Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Nevşehir"
+province: "Nevşehir"
+iller: '["Nevşehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.7118301,38.6229057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Şeyh Efendi Cami

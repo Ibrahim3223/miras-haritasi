@@ -1,18 +1,17 @@
 ---
-title: "Karagündüz Höyük | Miras Haritası"
-date: 2025-12-25T08:13:43+03:00
+title: "Karagündüz Höyük"
+date: "2025-12-25T08:13:43+03:00"
 slug: "karagunduz-hoyuk"
 description: "## Karagündüz Höyük: Tarihi ve Kültürel Değerleri..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "İpekyolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.6445618,38.6959038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagündüz Höyük: Tarihi ve Kültürel Değerleri

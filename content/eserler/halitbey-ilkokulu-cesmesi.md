@@ -1,18 +1,17 @@
 ---
-title: "Halitbey İlkokulu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:58:46+03:00
+title: "Halitbey İlkokulu Çeşmesi"
+date: "2025-12-25T11:58:46+03:00"
 slug: "halitbey-ilkokulu-cesmesi"
 description: "## Halitbey İlkokulu Çeşmesi: İzmir'in Tarihî Diyarı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.127449,38.4108276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halitbey İlkokulu Çeşmesi: İzmir'in Tarihî Diyarı

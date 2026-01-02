@@ -1,18 +1,17 @@
 ---
-title: "Charax Alexandri | Miras Haritası"
-date: 2025-12-25T04:42:34+03:00
+title: "Charax Alexandri"
+date: "2025-12-25T04:42:34+03:00"
 slug: "charax-alexandri"
 description: "## Charax Alexandri: Antik Çağın Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Charax Alexandri: Antik Çağın Gizli Harikası

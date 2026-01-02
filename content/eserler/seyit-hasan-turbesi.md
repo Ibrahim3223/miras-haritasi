@@ -1,18 +1,17 @@
 ---
-title: "Seyit Hasan Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:29+03:00
+title: "Seyit Hasan Türbesi"
+date: "2025-12-25T14:52:29+03:00"
 slug: "seyit-hasan-turbesi"
 description: "### Seyit Hasan Türbesi..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2969398,37.7719955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyit Hasan Türbesi

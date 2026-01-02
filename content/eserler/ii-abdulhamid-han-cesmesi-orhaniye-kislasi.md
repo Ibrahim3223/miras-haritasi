@@ -1,18 +1,17 @@
 ---
-title: "II. Abdülhamid Han Çeşmesi, Orhaniye Kışlası | Miras Haritası"
-date: 2025-12-25T13:10:41+03:00
+title: "II. Abdülhamid Han Çeşmesi, Orhaniye Kışlası"
+date: "2025-12-25T13:10:41+03:00"
 slug: "ii-abdulhamid-han-cesmesi-orhaniye-kislasi"
 description: "## II. Abdülhamid Han Çeşmesi, Orhaniye Kışlası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0168686,41.0520363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Abdülhamid Han Çeşmesi, Orhaniye Kışlası

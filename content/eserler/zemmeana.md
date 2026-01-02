@@ -1,18 +1,17 @@
 ---
-title: "Zemmeana | Miras Haritası"
-date: 2025-12-25T05:19:59+03:00
+title: "Zemmeana"
+date: "2025-12-25T05:19:59+03:00"
 slug: "zemmeana"
 description: "### Zemmeana Arkeolojik Sit Tanıtımı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0826,39.108401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zemmeana Arkeolojik Sit Tanıtımı

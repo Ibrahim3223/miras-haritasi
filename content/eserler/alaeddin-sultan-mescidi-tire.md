@@ -1,18 +1,17 @@
 ---
-title: "Alaeddin Sultan Mescidi, Tire | Miras Haritası"
-date: 2025-12-25T00:48:39+03:00
+title: "Alaeddin Sultan Mescidi, Tire"
+date: "2025-12-25T00:48:39+03:00"
 slug: "alaeddin-sultan-mescidi-tire"
 description: "### Alaeddin Sultan Mescidi: Tire'de Bir Ölümsüz Cami..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7292042,38.08358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alaeddin Sultan Mescidi: Tire'de Bir Ölümsüz Cami

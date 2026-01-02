@@ -1,18 +1,17 @@
 ---
-title: "II. Bayezid Medresesi | Miras Haritası"
-date: 2025-12-25T17:34:15+03:00
+title: "II. Bayezid Medresesi"
+date: "2025-12-25T17:34:15+03:00"
 slug: "ii-bayezid-medresesi"
 description: "## II. Bayezid Medresesi: Amasya'nın Tarihi Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.8263855,40.6500702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Bayezid Medresesi: Amasya'nın Tarihi Mirası

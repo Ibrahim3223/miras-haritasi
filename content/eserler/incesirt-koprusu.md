@@ -1,18 +1,17 @@
 ---
-title: "İncesırt Köprüsü | Miras Haritası"
-date: 2025-12-25T02:00:14+03:00
+title: "İncesırt Köprüsü"
+date: "2025-12-25T02:00:14+03:00"
 slug: "incesirt-koprusu"
 description: "## İncesırt Köprüsü: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.7733,41.0646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncesırt Köprüsü: Rize'nin Tarihi Bir Mirası

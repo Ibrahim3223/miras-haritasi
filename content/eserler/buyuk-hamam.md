@@ -1,18 +1,17 @@
 ---
-title: "Büyük Hamam | Miras Haritası"
-date: 2025-12-25T16:42:09+03:00
+title: "Büyük Hamam"
+date: "2025-12-25T16:42:09+03:00"
 slug: "buyuk-hamam"
 description: "## Büyük Hamam: Altınordu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.8925896,40.9448738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Hamam: Altınordu'nun Tarihi Bir Mirası

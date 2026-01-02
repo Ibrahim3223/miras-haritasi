@@ -1,18 +1,17 @@
 ---
-title: "Gebizli Cami | Miras Haritası"
-date: 2025-12-24T23:02:28+03:00
+title: "Gebizli Cami"
+date: "2025-12-24T23:02:28+03:00"
 slug: "gebizli-cami"
 description: "## Gebizli Cami - Antalya'nın Gizli Çağırağandan..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7283249,36.8860207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gebizli Cami - Antalya'nın Gizli Çağırağandan

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mehmet Hekim Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:41+03:00
+title: "Şeyh Mehmet Hekim Türbesi"
+date: "2025-12-25T14:45:41+03:00"
 slug: "seyh-mehmet-hekim-turbesi"
 description: "## Şeyh Mehmet Hekim Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.736381,37.325915"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Mehmet Hekim Türbesi

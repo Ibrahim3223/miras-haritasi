@@ -1,18 +1,17 @@
 ---
-title: "Hasan Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:22:04+03:00
+title: "Hasan Ağa Camii"
+date: "2025-12-24T22:22:04+03:00"
 slug: "hasan-aga-camii"
 description: "### Hasan Ağa Camii..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.003194444,41.031611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hasan Ağa Camii

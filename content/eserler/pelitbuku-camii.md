@@ -1,18 +1,17 @@
 ---
-title: "Pelitbükü Camii | Miras Haritası"
-date: 2025-12-24T22:36:12+03:00
+title: "Pelitbükü Camii"
+date: "2025-12-24T22:36:12+03:00"
 slug: "pelitbuku-camii"
 description: "## Pelitbükü Camii: Alaçam'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Alaçam"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4556999,41.3918991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pelitbükü Camii: Alaçam'ın Tarihi ve Kültürel Mirası

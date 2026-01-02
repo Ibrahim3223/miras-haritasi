@@ -1,18 +1,17 @@
 ---
-title: "Yalnız Kale, Göksun | Miras Haritası"
-date: 2025-12-25T01:41:06+03:00
+title: "Yalnız Kale, Göksun"
+date: "2025-12-25T01:41:06+03:00"
 slug: "yalniz-kale-goksun"
 description: "## Yalnız Kale, Göksun..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Göksun"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.429985,37.9217339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalnız Kale, Göksun

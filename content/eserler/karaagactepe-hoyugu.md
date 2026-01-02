@@ -1,18 +1,17 @@
 ---
-title: "Karaağaçtepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:06:17+03:00
+title: "Karaağaçtepe Höyüğü"
+date: "2025-12-25T07:06:17+03:00"
 slug: "karaagactepe-hoyugu"
 description: "### Karaağaçtepe Höyüğü: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.192917,40.058233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaağaçtepe Höyüğü: Çanakkale'nin Gizli Mirası

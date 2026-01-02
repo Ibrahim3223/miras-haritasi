@@ -1,18 +1,17 @@
 ---
-title: "Mostene | Miras Haritası"
-date: 2025-12-25T05:16:59+03:00
+title: "Mostene"
+date: "2025-12-25T05:16:59+03:00"
 slug: "mostene"
 description: "### Mostene: Antik İyonya'nın Gizli Kahramanı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5437397,38.510416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mostene: Antik İyonya'nın Gizli Kahramanı

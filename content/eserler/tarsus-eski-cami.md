@@ -1,18 +1,17 @@
 ---
-title: "Tarsus Eski Cami | Miras Haritası"
-date: 2025-12-24T21:58:36+03:00
+title: "Tarsus Eski Cami"
+date: "2025-12-24T21:58:36+03:00"
 slug: "tarsus-eski-cami"
 description: "## Tarsus Eski Cami: Tarihî bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tarsus_Old_Mosque.jpg/1200px-Tarsus_Old_Mosque.jpg"
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.897778,36.917778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tarsus Eski Cami: Tarihî bir Mirasın Gizemi

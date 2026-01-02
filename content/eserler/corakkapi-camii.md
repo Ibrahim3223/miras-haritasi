@@ -1,18 +1,17 @@
 ---
-title: "Çorakkapı Camii | Miras Haritası"
-date: 2025-12-24T22:02:02+03:00
+title: "Çorakkapı Camii"
+date: "2025-12-24T22:02:02+03:00"
 slug: "corakkapi-camii"
 description: "## Çorakkapı Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Basmane_Çorakkapı_Mosque_20070724.jpg/1200px-Basmane_Çorakkapı_Mosque_20070724.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.143805555,38.421805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çorakkapı Camii Tanıtımı

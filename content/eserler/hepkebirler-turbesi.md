@@ -1,18 +1,17 @@
 ---
-title: "Hepkebirler Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:11+03:00
+title: "Hepkebirler Türbesi"
+date: "2025-12-25T15:10:11+03:00"
 slug: "hepkebirler-turbesi"
 description: "## Hepkebirler Türbesi: Kastamonu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7730249,41.374836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hepkebirler Türbesi: Kastamonu'nun Gizli Cenneti

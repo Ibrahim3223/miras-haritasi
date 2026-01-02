@@ -1,18 +1,17 @@
 ---
-title: "İzmir Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:23:07+03:00
+title: "İzmir Etnografya Müzesi"
+date: "2025-12-25T03:23:07+03:00"
 slug: "izmir-etnografya-muzesi"
 description: "## İzmir Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Izmir_Ethnography_Museum.jpg/1200px-Izmir_Ethnography_Museum.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.1285,38.413722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İzmir Etnografya Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Şehitlik Anıtı, Ulamış | Miras Haritası"
-date: 2025-12-25T15:51:56+03:00
+title: "Şehitlik Anıtı, Ulamış"
+date: "2025-12-25T15:51:56+03:00"
 slug: "sehitlik-aniti-ulamis"
 description: "## Şehitlik Anıtı, Ulamış: Seferihisar'ın Tarihî Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.8337994,38.2489014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehitlik Anıtı, Ulamış: Seferihisar'ın Tarihî Anıtı

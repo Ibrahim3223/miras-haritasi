@@ -1,18 +1,17 @@
 ---
-title: "Pir Hüseyin Höyüğü | Miras Haritası"
-date: 2025-12-25T06:29:05+03:00
+title: "Pir Hüseyin Höyüğü"
+date: "2025-12-25T06:29:05+03:00"
 slug: "pir-huseyin-hoyugu"
 description: "# Pir Hüseyin Höyüğü: Diyarbakır'ın Gizli Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.3875502,38.1113137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pir Hüseyin Höyüğü: Diyarbakır'ın Gizli Mirası

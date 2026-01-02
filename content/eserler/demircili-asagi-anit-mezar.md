@@ -1,18 +1,17 @@
 ---
-title: "Demircili Aşağı Anıt Mezar | Miras Haritası"
-date: 2025-12-25T14:10:02+03:00
+title: "Demircili Aşağı Anıt Mezar"
+date: "2025-12-25T14:10:02+03:00"
 slug: "demircili-asagi-anit-mezar"
 description: "# Demircili Aşağı Anıt Mezar..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9554672,36.4374924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Demircili Aşağı Anıt Mezar

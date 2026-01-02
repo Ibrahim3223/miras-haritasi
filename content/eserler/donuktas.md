@@ -1,18 +1,17 @@
 ---
-title: "Donuktaş | Miras Haritası"
-date: 2025-12-25T04:24:36+03:00
+title: "Donuktaş"
+date: "2025-12-25T04:24:36+03:00"
 slug: "donuktas"
 description: "### Donuktaş..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Donuktaş_gate.jpg/1200px-Donuktaş_gate.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.903333,36.916389"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Donuktaş

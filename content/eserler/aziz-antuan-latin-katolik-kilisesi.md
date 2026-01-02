@@ -1,18 +1,17 @@
 ---
-title: "Aziz Antuan Latin Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:45:49+03:00
+title: "Aziz Antuan Latin Katolik Kilisesi"
+date: "2025-12-25T09:45:49+03:00"
 slug: "aziz-antuan-latin-katolik-kilisesi"
 description: "# Aziz Antuan Latin Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Catholic_Church_of_Mersin.jpg/1200px-Catholic_Church_of_Mersin.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.63388889,36.80111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Aziz Antuan Latin Katolik Kilisesi

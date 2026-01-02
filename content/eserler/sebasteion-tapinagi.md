@@ -1,18 +1,17 @@
 ---
-title: "Sebasteion Tapınağı | Miras Haritası"
-date: 2025-12-25T05:50:16+03:00
+title: "Sebasteion Tapınağı"
+date: "2025-12-25T05:50:16+03:00"
 slug: "sebasteion-tapinagi"
 description: "## Sebasteion Tapınağı: Aydın'ın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aphrodisias_-_Sebasteion.jpg/1200px-Aphrodisias_-_Sebasteion.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.72578364,37.708504692"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sebasteion Tapınağı: Aydın'ın Gizli Kahramanı

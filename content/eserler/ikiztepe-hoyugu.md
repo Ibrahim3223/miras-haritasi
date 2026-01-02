@@ -1,18 +1,17 @@
 ---
-title: "İkiztepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:04:20+03:00
+title: "İkiztepe Höyüğü"
+date: "2025-12-25T07:04:20+03:00"
 slug: "ikiztepe-hoyugu"
 description: "## İkiztepe Höyüğü: Samsun'un Gizli Klasik Çağ Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.87058,41.61401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkiztepe Höyüğü: Samsun'un Gizli Klasik Çağ Mirası

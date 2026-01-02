@@ -1,18 +1,17 @@
 ---
-title: "Setüstü Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:12+03:00
+title: "Setüstü Sokak Çeşmesi"
+date: "2025-12-25T11:05:12+03:00"
 slug: "setustu-sokak-cesmesi"
 description: "## Setüstü Sokak Çeşmesi: Beykoz'un Tarihi Bir Çeşmesi..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Anadolu Hisarı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.067815,41.083377"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Setüstü Sokak Çeşmesi: Beykoz'un Tarihi Bir Çeşmesi

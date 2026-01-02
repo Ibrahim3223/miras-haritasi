@@ -1,18 +1,17 @@
 ---
-title: "Lale Camii | Miras Haritası"
-date: 2025-12-25T00:00:41+03:00
+title: "Lale Camii"
+date: "2025-12-25T00:00:41+03:00"
 slug: "lale-camii"
 description: "## Lale Camii: Kırşehir'in Muhteşem Camii..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.1628494,39.1440659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lale Camii: Kırşehir'in Muhteşem Camii

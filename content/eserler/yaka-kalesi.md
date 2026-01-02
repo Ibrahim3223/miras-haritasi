@@ -1,18 +1,17 @@
 ---
-title: "Yaka Kalesi | Miras Haritası"
-date: 2025-12-25T01:18:55+03:00
+title: "Yaka Kalesi"
+date: "2025-12-25T01:18:55+03:00"
 slug: "yaka-kalesi"
 description: "## Yaka Kalesi: Mersin'in Tarihsel Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Yaka_Castle,_Mersin,_Turkey.JPG/1200px-Yaka_Castle,_Mersin,_Turkey.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.734444444,36.861111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yaka Kalesi: Mersin'in Tarihsel Ören Yeri

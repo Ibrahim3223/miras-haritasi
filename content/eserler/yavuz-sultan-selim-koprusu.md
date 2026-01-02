@@ -1,18 +1,17 @@
 ---
-title: "Yavuz Sultan Selim Köprüsü | Miras Haritası"
-date: 2025-12-25T01:55:52+03:00
+title: "Yavuz Sultan Selim Köprüsü"
+date: "2025-12-25T01:55:52+03:00"
 slug: "yavuz-sultan-selim-koprusu"
 description: "## Yavuz Sultan Selim Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Yavuz_Sultan_Selim_Bridge1.JPG/1200px-Yavuz_Sultan_Selim_Bridge1.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.111666666,41.203055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yavuz Sultan Selim Köprüsü

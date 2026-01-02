@@ -1,18 +1,17 @@
 ---
-title: "Fransız Lape Hastanesi Şapeli | Miras Haritası"
-date: 2025-12-25T09:41:51+03:00
+title: "Fransız Lape Hastanesi Şapeli"
+date: "2025-12-25T09:41:51+03:00"
 slug: "fransiz-lape-hastanesi-sapeli"
 description: "### Fransız Lape Hastanesi Şapeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9906235,41.0617371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fransız Lape Hastanesi Şapeli

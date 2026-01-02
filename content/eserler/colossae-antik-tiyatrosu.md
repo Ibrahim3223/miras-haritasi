@@ -1,18 +1,17 @@
 ---
-title: "Colossae Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:22:17+03:00
+title: "Colossae Antik Tiyatrosu"
+date: "2025-12-25T16:22:17+03:00"
 slug: "colossae-antik-tiyatrosu"
 description: "## Colossae Antik Tiyatrosu..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "29.2612316,37.7865637"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Colossae Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Validesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:16+03:00
+title: "Hekimoğlu Ali Paşa Validesi Çeşmesi"
+date: "2025-12-25T11:10:16+03:00"
 slug: "hekimoglu-ali-pasa-validesi-cesmesi"
 description: "### Hekimoğlu Ali Paşa Validesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hekimoğlu_Ali_Paşa_Validesi_Çeşmesi.jpg/1200px-Hekimoğlu_Ali_Paşa_Validesi_Çeşmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979616,41.003203"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hekimoğlu Ali Paşa Validesi Çeşmesi

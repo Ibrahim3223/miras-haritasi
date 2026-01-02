@@ -1,18 +1,17 @@
 ---
-title: "Phiela | Miras Haritası"
-date: 2025-12-25T04:45:59+03:00
+title: "Phiela"
+date: "2025-12-25T04:45:59+03:00"
 slug: "phiela"
 description: "## Phiela: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.067372,41.091332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phiela: Bir Arkeolojik Sitin Gizemi

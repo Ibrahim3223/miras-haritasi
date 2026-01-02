@@ -1,18 +1,17 @@
 ---
-title: "Soa | Miras Haritası"
-date: 2025-12-25T05:16:14+03:00
+title: "Soa"
+date: "2025-12-25T05:16:14+03:00"
 slug: "soa"
 description: "### Soa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.216813,39.076771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Soa Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Bouleuterion/Odeion | Miras Haritası"
-date: 2025-12-25T08:10:37+03:00
+title: "Bouleuterion/Odeion"
+date: "2025-12-25T08:10:37+03:00"
 slug: "bouleuterionodeion"
 description: "### Bouleuterion/Odeion: İzmir'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Efez4.jpg/1200px-Efez4.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.34495,37.9369"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bouleuterion/Odeion: İzmir'in Tarihi Bir Mirası

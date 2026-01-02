@@ -1,18 +1,17 @@
 ---
-title: "Karanday Ağa Kümbeti | Miras Haritası"
-date: 2025-12-25T13:55:03+03:00
+title: "Karanday Ağa Kümbeti"
+date: "2025-12-25T13:55:03+03:00"
 slug: "karanday-aga-kumbeti"
 description: "### Karanday Ağa Kümbeti..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Güroymak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.024498,38.5770683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karanday Ağa Kümbeti

@@ -1,18 +1,17 @@
 ---
-title: "Kapıköy Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:35:04+03:00
+title: "Kapıköy Sınır Kapısı"
+date: "2025-12-25T08:35:04+03:00"
 slug: "kapikoy-sinir-kapisi"
 description: "## Kapıköy Sınır Kapısı: Türkiye'nin Tarihi Bir Kervansarayı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "44.321079,38.497534097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapıköy Sınır Kapısı: Türkiye'nin Tarihi Bir Kervansarayı

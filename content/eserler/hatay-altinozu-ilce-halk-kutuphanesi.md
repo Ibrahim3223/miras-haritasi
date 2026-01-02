@@ -1,18 +1,17 @@
 ---
-title: "Hatay Altınözü İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:49:44+03:00
+title: "Hatay Altınözü İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:49:44+03:00"
 slug: "hatay-altinozu-ilce-halk-kutuphanesi"
 description: "## Hatay Altınözü İlçe Halk Kütüphanesi: Bilgi Deposu ve Kültür Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Altınözü"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatay Altınözü İlçe Halk Kütüphanesi: Bilgi Deposu ve Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Türkiye İstiklal Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:37+03:00
+title: "Türkiye İstiklal Çeşmesi"
+date: "2025-12-25T10:51:37+03:00"
 slug: "turkiye-istiklal-cesmesi"
 description: "## Türkiye İstiklal Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7113724,38.6243019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türkiye İstiklal Çeşmesi

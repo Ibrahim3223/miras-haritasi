@@ -1,18 +1,17 @@
 ---
-title: "Taslı Çeşme, Konak | Miras Haritası"
-date: 2025-12-25T12:53:53+03:00
+title: "Taslı Çeşme, Konak"
+date: "2025-12-25T12:53:53+03:00"
 slug: "tasli-cesme-konak"
 description: "### Taslı Çeşme: Konak'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1437817,38.4182854"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taslı Çeşme: Konak'ın Gizli Çeşmesi

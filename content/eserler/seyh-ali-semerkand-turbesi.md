@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ali Semerkandî Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:41+03:00
+title: "Şeyh Ali Semerkandî Türbesi"
+date: "2025-12-25T15:17:41+03:00"
 slug: "seyh-ali-semerkand-turbesi"
 description: "# Şeyh Ali Semerkandî Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çamlıdere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4691,40.486"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyh Ali Semerkandî Türbesi

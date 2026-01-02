@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Abdurrahman Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:44+03:00
+title: "Şeyh Abdurrahman Çelebi Türbesi"
+date: "2025-12-25T15:16:44+03:00"
 slug: "seyh-abdurrahman-celebi-turbesi"
 description: "## Şeyh Abdurrahman Çelebi Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.838333,40.653754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Abdurrahman Çelebi Türbesi

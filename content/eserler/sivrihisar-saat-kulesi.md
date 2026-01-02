@@ -1,18 +1,17 @@
 ---
-title: "Sivrihisar Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:20:03+03:00
+title: "Sivrihisar Saat Kulesi"
+date: "2025-12-25T17:20:03+03:00"
 slug: "sivrihisar-saat-kulesi"
 description: "### Sivrihisar Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sivrihisar_Saat_Kulesi.jpg/1200px-Sivrihisar_Saat_Kulesi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "31.537138888,39.452888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sivrihisar Saat Kulesi

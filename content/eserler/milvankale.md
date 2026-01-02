@@ -1,18 +1,17 @@
 ---
-title: "Milvankale | Miras Haritası"
-date: 2025-12-25T01:19:46+03:00
+title: "Milvankale"
+date: "2025-12-25T01:19:46+03:00"
 slug: "milvankale"
 description: "## Milvankale: Adana'nın Gizli Tarihi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Karaisalı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.9765816,37.307457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milvankale: Adana'nın Gizli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Ali Çavuş Kabri | Miras Haritası"
-date: 2025-12-25T13:51:29+03:00
+title: "Ali Çavuş Kabri"
+date: "2025-12-25T13:51:29+03:00"
 slug: "ali-cavus-kabri"
 description: "## Ali Çavuş Kabri: İstanbul'un Ölümsüz Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9299374,41.0502663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Çavuş Kabri: İstanbul'un Ölümsüz Anıtı

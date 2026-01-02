@@ -1,18 +1,17 @@
 ---
-title: "Ahşap Eserler Müzesi | Miras Haritası"
-date: 2025-12-25T03:29:03+03:00
+title: "Ahşap Eserler Müzesi"
+date: "2025-12-25T03:29:03+03:00"
 slug: "ahsap-eserler-muzesi"
 description: "## Ahşap Eserler Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Eskişehir_Woodworking_Museum_2.jpg/1200px-Eskişehir_Woodworking_Museum_2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.52527778,39.76277778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahşap Eserler Müzesi

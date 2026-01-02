@@ -1,18 +1,17 @@
 ---
-title: "Zileli Muharrem Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:46:34+03:00
+title: "Zileli Muharrem Çeşmesi"
+date: "2025-12-25T11:46:34+03:00"
 slug: "zileli-muharrem-cesmesi"
 description: "## Zileli Muharrem Çeşmesi: Bir Çeşmenin Öyküsü..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Erenköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0756168,40.9734306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zileli Muharrem Çeşmesi: Bir Çeşmenin Öyküsü

@@ -1,18 +1,17 @@
 ---
-title: "Bartın Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:47:26+03:00
+title: "Bartın Kent Müzesi"
+date: "2025-12-25T03:47:26+03:00"
 slug: "bartin-kent-muzesi"
 description: "## Bartın Kent Müzesi..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Bartın"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.337162,41.633194"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bartın Kent Müzesi

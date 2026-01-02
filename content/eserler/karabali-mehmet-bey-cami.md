@@ -1,18 +1,17 @@
 ---
-title: "Karabali Mehmet Bey Cami | Miras Haritası"
-date: 2025-12-24T23:40:00+03:00
+title: "Karabali Mehmet Bey Cami"
+date: "2025-12-24T23:40:00+03:00"
 slug: "karabali-mehmet-bey-cami"
 description: "## Karabali Mehmet Bey Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.6183243,40.6943436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabali Mehmet Bey Cami

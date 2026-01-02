@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Sokak Çeşmesi (Eski Yeri) | Miras Haritası"
-date: 2025-12-25T11:08:01+03:00
+title: "Ayazma Sokak Çeşmesi (Eski Yeri)"
+date: "2025-12-25T11:08:01+03:00"
 slug: "ayazma-sokak-cesmesi-eski-yeri"
 description: "## Ayazma Sokak Çeşmesi (Eski Yeri)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.76991,40.991694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayazma Sokak Çeşmesi (Eski Yeri)

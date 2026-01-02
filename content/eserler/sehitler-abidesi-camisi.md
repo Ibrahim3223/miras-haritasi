@@ -1,18 +1,17 @@
 ---
-title: "Şehitler Abidesi Camisi | Miras Haritası"
-date: 2025-12-24T22:21:33+03:00
+title: "Şehitler Abidesi Camisi"
+date: "2025-12-24T22:21:33+03:00"
 slug: "sehitler-abidesi-camisi"
 description: "## Şehitler Abidesi Camisi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Seddülbahir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.220111111,40.050805555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehitler Abidesi Camisi

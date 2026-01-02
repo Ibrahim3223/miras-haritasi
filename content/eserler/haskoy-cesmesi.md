@@ -1,18 +1,17 @@
 ---
-title: "Hasköy Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:38:36+03:00
+title: "Hasköy Çeşmesi"
+date: "2025-12-25T10:38:36+03:00"
 slug: "haskoy-cesmesi"
 description: "## Hasköy Çeşmesi: Beyoğlu'ndaki Bir Çeşme Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hasköy_Fountain.jpg/1200px-Hasköy_Fountain.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Hasköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.951138888,41.040583333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hasköy Çeşmesi: Beyoğlu'ndaki Bir Çeşme Eseri

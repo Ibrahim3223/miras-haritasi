@@ -1,18 +1,17 @@
 ---
-title: "Altuntaş Hamamı | Miras Haritası"
-date: 2025-12-25T16:55:11+03:00
+title: "Altuntaş Hamamı"
+date: "2025-12-25T16:55:11+03:00"
 slug: "altuntas-hamami"
 description: "## Altuntaş Hamamı: Amasya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.8262749,40.6518936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altuntaş Hamamı: Amasya'nın Tarihi ve Kültürel Mirası

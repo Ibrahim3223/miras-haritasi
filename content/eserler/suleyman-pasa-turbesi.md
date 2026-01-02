@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:38+03:00
+title: "Süleyman Paşa Türbesi"
+date: "2025-12-25T14:43:38+03:00"
 slug: "suleyman-pasa-turbesi"
 description: "## Süleyman Paşa Türbesi: Ardanuç'un Gizli Cenneti..."
 featured_image: ""
 province: "Kars Eyaleti"
-iller: ["Kars Eyaleti"]
+iller: '["Kars Eyaleti"]'
 district: "Ardanuç"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.057975,41.128005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Paşa Türbesi: Ardanuç'un Gizli Cenneti

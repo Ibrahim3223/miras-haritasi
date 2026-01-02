@@ -1,18 +1,17 @@
 ---
-title: "Bayram Paşa Camii | Miras Haritası"
-date: 2025-12-25T14:31:54+03:00
+title: "Bayram Paşa Camii"
+date: "2025-12-25T14:31:54+03:00"
 slug: "bayram-pasa-camii"
 description: "# Bayram Paşa Camii: İstanbul'un Gizli Çehresini İfade Edecek Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.942352,41.008715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bayram Paşa Camii: İstanbul'un Gizli Çehresini İfade Edecek Bir Anıt

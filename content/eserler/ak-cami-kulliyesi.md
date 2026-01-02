@@ -1,18 +1,17 @@
 ---
-title: "Ak Cami Külliyesi | Miras Haritası"
-date: 2025-12-25T16:59:55+03:00
+title: "Ak Cami Külliyesi"
+date: "2025-12-25T16:59:55+03:00"
 slug: "ak-cami-kulliyesi"
 description: "## Ak Cami Külliyesi: Bozyazı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Bozyazı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.9340515,36.1473885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ak Cami Külliyesi: Bozyazı'nın Tarihi ve Kültürel Mirası

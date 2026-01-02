@@ -1,18 +1,17 @@
 ---
-title: "Şerâfeddin Câmi | Miras Haritası"
-date: 2025-12-24T22:18:21+03:00
+title: "Şerâfeddin Câmi"
+date: "2025-12-24T22:18:21+03:00"
 slug: "serfeddin-cmi"
 description: "## Şerâfeddin Câmi: Konya'nın Önemli Camileri Arasındaki Bir Harika..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Konya_Şerafettin_Mosque_2531.jpg/1200px-Konya_Şerafettin_Mosque_2531.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.498611111,37.872361111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şerâfeddin Câmi: Konya'nın Önemli Camileri Arasındaki Bir Harika

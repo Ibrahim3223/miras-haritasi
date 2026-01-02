@@ -1,18 +1,17 @@
 ---
-title: "Arpalı Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:28+03:00
+title: "Arpalı Köyü Çeşmesi"
+date: "2025-12-25T10:12:28+03:00"
 slug: "arpali-koyu-cesmesi"
 description: "# Arpalı Köyü Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.1374207,40.5355186"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arpalı Köyü Çeşmesi

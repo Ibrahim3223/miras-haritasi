@@ -1,18 +1,17 @@
 ---
-title: "Akşemsettin Camii, Beypazarı | Miras Haritası"
-date: 2025-12-24T23:54:10+03:00
+title: "Akşemsettin Camii, Beypazarı"
+date: "2025-12-24T23:54:10+03:00"
 slug: "aksemsettin-camii-beypazari"
 description: "**Akşemsettin Camii, Beypazarı**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.922245,40.1682091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akşemsettin Camii, Beypazarı**

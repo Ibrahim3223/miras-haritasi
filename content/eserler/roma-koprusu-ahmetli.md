@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Ahmetli | Miras Haritası"
-date: 2025-12-25T03:00:20+03:00
+title: "Roma Köprüsü, Ahmetli"
+date: "2025-12-25T03:00:20+03:00"
 slug: "roma-koprusu-ahmetli"
 description: "## Roma Köprüsü, Ahmetli..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Ahmetli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.94021,38.51481"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Ahmetli

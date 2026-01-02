@@ -1,18 +1,17 @@
 ---
-title: "Tastepe Deliklitaş Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:36+03:00
+title: "Tastepe Deliklitaş Tümülüsü"
+date: "2025-12-25T07:40:36+03:00"
 slug: "tastepe-deliklitas-tumulusu"
 description: "## Tastepe Deliklitaş Tümülüsü: Tarihî Bir Anıt..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1279049,41.9571762"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tastepe Deliklitaş Tümülüsü: Tarihî Bir Anıt

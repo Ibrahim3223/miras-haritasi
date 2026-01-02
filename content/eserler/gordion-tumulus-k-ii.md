@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs K-II | Miras Haritası"
-date: 2025-12-25T07:59:39+03:00
+title: "Gordion Tümülüs K-II"
+date: "2025-12-25T07:59:39+03:00"
 slug: "gordion-tumulus-k-ii"
 description: "## Gordion Tümülüs K-II: Antik Makedonya'nın Gizemli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.990044,39.652035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gordion Tümülüs K-II: Antik Makedonya'nın Gizemli Mirası

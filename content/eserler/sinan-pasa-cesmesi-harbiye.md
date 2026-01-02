@@ -1,18 +1,17 @@
 ---
-title: "Sinan Paşa Çeşmesi, Harbiye | Miras Haritası"
-date: 2025-12-25T12:14:48+03:00
+title: "Sinan Paşa Çeşmesi, Harbiye"
+date: "2025-12-25T12:14:48+03:00"
 slug: "sinan-pasa-cesmesi-harbiye"
 description: "## Sinan Paşa Çeşmesi, Harbiye..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.98966,41.046585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Paşa Çeşmesi, Harbiye

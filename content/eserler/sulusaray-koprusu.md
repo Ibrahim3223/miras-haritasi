@@ -1,18 +1,17 @@
 ---
-title: "Sulusaray Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:58+03:00
+title: "Sulusaray Köprüsü"
+date: "2025-12-25T02:25:58+03:00"
 slug: "sulusaray-koprusu"
 description: "## Sulusaray Köprüsü: Tarihî Bir Köprüün Gizemi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Sulusaray"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.0818111,40.0017072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sulusaray Köprüsü: Tarihî Bir Köprüün Gizemi

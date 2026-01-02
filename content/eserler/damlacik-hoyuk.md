@@ -1,18 +1,17 @@
 ---
-title: "Damlacık Höyük | Miras Haritası"
-date: 2025-12-25T13:46:54+03:00
+title: "Damlacık Höyük"
+date: "2025-12-25T13:46:54+03:00"
 slug: "damlacik-hoyuk"
 description: "## Damlacık Höyük: Yozgat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1404357,39.0638672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damlacık Höyük: Yozgat'ın Tarihî Mirası

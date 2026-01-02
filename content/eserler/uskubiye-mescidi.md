@@ -1,18 +1,17 @@
 ---
-title: "Üskübiye Mescidi | Miras Haritası"
-date: 2025-12-24T22:25:07+03:00
+title: "Üskübiye Mescidi"
+date: "2025-12-24T22:25:07+03:00"
 slug: "uskubiye-mescidi"
 description: "# Üskübiye Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Alemdar_-_Üskübiye_Mescidi_-_20250413191417.jpg/1200px-Alemdar_-_Üskübiye_Mescidi_-_20250413191417.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Alemdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.977483,41.009111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Üskübiye Mescidi

@@ -1,18 +1,17 @@
 ---
-title: "Abrank Surp Tavit Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:38+03:00
+title: "Abrank Surp Tavit Manastırı"
+date: "2025-12-25T09:53:38+03:00"
 slug: "abrank-surp-tavit-manastiri"
 description: "## Abrank Surp Tavit Manastırı..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Tercan"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "40.2887981,39.6615962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abrank Surp Tavit Manastırı

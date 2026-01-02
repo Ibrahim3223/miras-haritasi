@@ -1,18 +1,18 @@
 ---
-title: "İshak Paşa Camii | Miras Haritası"
-date: 2025-12-25T00:00:21+03:00
+title: "İshak Paşa Camii"
+date: "2025-12-25T00:00:21+03:00"
 slug: "ishak-pasa-camii"
 description: "## İshak Paşa Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Istanbul_Province_-_İshak_Paşa_Camii_-_20250413182637.jpg/1200px-Istanbul_Province_-_İshak_Paşa_Camii_-_20250413182637.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5120296,40.0784683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Istanbul_Province_-_İshak_Paşa_Camii_-_20250413182637.jpg/1200px-Istanbul_Province_-_İshak_Paşa_Camii_-_20250413182637.jpg"
 ---
 
 ## İshak Paşa Camii

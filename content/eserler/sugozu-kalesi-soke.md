@@ -1,18 +1,17 @@
 ---
-title: "Sugözü Kalesi, Söke | Miras Haritası"
-date: 2025-12-25T01:29:43+03:00
+title: "Sugözü Kalesi, Söke"
+date: "2025-12-25T01:29:43+03:00"
 slug: "sugozu-kalesi-soke"
 description: "## Sugözü Kalesi: Aydın'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4493999,37.7953987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sugözü Kalesi: Aydın'ın Gizli Kahramanı

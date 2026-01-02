@@ -1,18 +1,17 @@
 ---
-title: "Çukurköy Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:57:57+03:00
+title: "Çukurköy Camii Çeşmesi"
+date: "2025-12-25T11:57:57+03:00"
 slug: "cukurkoy-camii-cesmesi"
 description: "### Çukurköy Camii Çeşmesi: Menemen, İzmir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menemen"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1180019,38.6961517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çukurköy Camii Çeşmesi: Menemen, İzmir'in Gizli Çeşmesi

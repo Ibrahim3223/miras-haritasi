@@ -1,18 +1,17 @@
 ---
-title: "Dilşikar Hatun Camii | Miras Haritası"
-date: 2025-12-25T00:53:40+03:00
+title: "Dilşikar Hatun Camii"
+date: "2025-12-25T00:53:40+03:00"
 slug: "dilsikar-hatun-camii"
 description: "## Dilşikar Hatun Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4399319,38.6123085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dilşikar Hatun Camii: Manisa'nın Tarihi Bir Mirası

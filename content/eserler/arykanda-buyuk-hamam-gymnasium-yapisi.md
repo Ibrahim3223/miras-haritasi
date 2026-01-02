@@ -1,18 +1,17 @@
 ---
-title: "Arykanda Büyük Hamam Gymnasium Yapısı | Miras Haritası"
-date: 2025-12-25T16:47:11+03:00
+title: "Arykanda Büyük Hamam Gymnasium Yapısı"
+date: "2025-12-25T16:47:11+03:00"
 slug: "arykanda-buyuk-hamam-gymnasium-yapisi"
 description: "## Arykanda Büyük Hamam Gymnasium Yapısı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.0606327,36.5127144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arykanda Büyük Hamam Gymnasium Yapısı

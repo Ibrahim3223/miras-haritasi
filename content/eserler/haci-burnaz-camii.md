@@ -1,18 +1,17 @@
 ---
-title: "Hacı Burnaz Camii | Miras Haritası"
-date: 2025-12-24T23:26:41+03:00
+title: "Hacı Burnaz Camii"
+date: "2025-12-24T23:26:41+03:00"
 slug: "haci-burnaz-camii"
 description: "## Hacı Burnaz Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5447807,41.6754112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Burnaz Camii

@@ -1,18 +1,17 @@
 ---
-title: "Aya Marini Ayazması, Tarabya | Miras Haritası"
-date: 2025-12-25T12:42:27+03:00
+title: "Aya Marini Ayazması, Tarabya"
+date: "2025-12-25T12:42:27+03:00"
 slug: "aya-marini-ayazmasi-tarabya"
 description: "## Aya Marini Ayazması: Tarabya'da Bir İmparatorluk Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.05126,41.1386223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Marini Ayazması: Tarabya'da Bir İmparatorluk Çeşmesi

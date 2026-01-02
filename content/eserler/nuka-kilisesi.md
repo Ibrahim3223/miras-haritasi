@@ -1,18 +1,17 @@
 ---
-title: "Nuka Kilisesi | Miras Haritası"
-date: 2025-12-25T08:46:57+03:00
+title: "Nuka Kilisesi"
+date: "2025-12-25T08:46:57+03:00"
 slug: "nuka-kilisesi"
 description: "## Nuka Kilisesi: Artvin'in Gizli Çağılan..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Alabalık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.088222222,41.256666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nuka Kilisesi: Artvin'in Gizli Çağılan

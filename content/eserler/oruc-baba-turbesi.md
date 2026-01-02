@@ -1,18 +1,17 @@
 ---
-title: "Oruç Baba Türbesi | Miras Haritası"
-date: 2025-12-25T13:35:39+03:00
+title: "Oruç Baba Türbesi"
+date: "2025-12-25T13:35:39+03:00"
 slug: "oruc-baba-turbesi"
 description: "## Oruç Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.93016,41.01817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oruç Baba Türbesi

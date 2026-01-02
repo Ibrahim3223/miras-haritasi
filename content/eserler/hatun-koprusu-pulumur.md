@@ -1,18 +1,17 @@
 ---
-title: "Hatun Köprüsü, Pülümür | Miras Haritası"
-date: 2025-12-25T03:01:30+03:00
+title: "Hatun Köprüsü, Pülümür"
+date: "2025-12-25T03:01:30+03:00"
 slug: "hatun-koprusu-pulumur"
 description: "## Hatun Köprüsü: Pülümür'un Eski Bir Mirası..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Pülümür"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.9076881,39.4711876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatun Köprüsü: Pülümür'un Eski Bir Mirası

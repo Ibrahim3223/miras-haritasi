@@ -1,18 +1,17 @@
 ---
-title: "Olympos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:13:48+03:00
+title: "Olympos Antik Tiyatrosu"
+date: "2025-12-25T04:13:48+03:00"
 slug: "olympos-antik-tiyatrosu"
 description: "**Olympos Antik Tiyatrosu**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.473434,36.395275"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Olympos Antik Tiyatrosu**

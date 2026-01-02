@@ -1,18 +1,17 @@
 ---
-title: "Midyat Belediyesi Telkari Müzesi | Miras Haritası"
-date: 2025-12-25T04:00:28+03:00
+title: "Midyat Belediyesi Telkari Müzesi"
+date: "2025-12-25T04:00:28+03:00"
 slug: "midyat-belediyesi-telkari-muzesi"
 description: "## Mıdıtan Belediyesi Telkari Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer..."
 featured_image: ""
 province: "Midyat"
-iller: ["Midyat"]
+iller: '["Midyat"]'
 district: "Midyat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mıdıtan Belediyesi Telkari Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer

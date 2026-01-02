@@ -1,18 +1,17 @@
 ---
-title: "Tepecik Hamamı | Miras Haritası"
-date: 2025-12-25T16:53:32+03:00
+title: "Tepecik Hamamı"
+date: "2025-12-25T16:53:32+03:00"
 slug: "tepecik-hamami"
 description: "## Tepecik Hamamı: Bodrum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4254017,37.0364075"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepecik Hamamı: Bodrum'un Tarihi ve Kültürel Mirası

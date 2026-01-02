@@ -1,18 +1,17 @@
 ---
-title: "Giri Tiltapam Höyük | Miras Haritası"
-date: 2025-12-25T08:31:23+03:00
+title: "Giri Tiltapam Höyük"
+date: "2025-12-25T08:31:23+03:00"
 slug: "giri-tiltapam-hoyuk"
 description: "## Giri Tiltapam Höyük: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kocaköy"
-iller: ["Kocaköy"]
+iller: '["Kocaköy"]'
 district: "Suçıktı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.583603,38.196064"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Giri Tiltapam Höyük: Türkiye'nin Gizli Kahramanı

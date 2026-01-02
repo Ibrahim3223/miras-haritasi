@@ -1,18 +1,17 @@
 ---
-title: "Anadynata | Miras Haritası"
-date: 2025-12-25T05:09:20+03:00
+title: "Anadynata"
+date: "2025-12-25T05:09:20+03:00"
 slug: "anadynata"
 description: "### Anadynata: Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.259993,40.840048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Anadynata: Tarihi ve Kültürel Mirasının Gizemi

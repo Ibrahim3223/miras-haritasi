@@ -1,18 +1,17 @@
 ---
-title: "Derviş Mehmet Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:52:32+03:00
+title: "Derviş Mehmet Paşa Kütüphanesi"
+date: "2025-12-25T17:52:32+03:00"
 slug: "dervis-mehmet-pasa-kutuphanesi"
 description: "## Derviş Mehmet Paşa Kütüphanesi..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.2839413,37.7143822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derviş Mehmet Paşa Kütüphanesi

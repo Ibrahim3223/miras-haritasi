@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Bedreddin Türbesi, Şenköy | Miras Haritası"
-date: 2025-12-25T15:32:03+03:00
+title: "Şeyh Bedreddin Türbesi, Şenköy"
+date: "2025-12-25T15:32:03+03:00"
 slug: "seyh-bedreddin-turbesi-senkoy"
 description: "### Şeyh Bedreddin Türbesi, Şenköy..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.6067429,37.4394646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Bedreddin Türbesi, Şenköy

@@ -1,18 +1,17 @@
 ---
-title: "Antakya Antik Yapıları | Miras Haritası"
-date: 2025-12-25T16:51:18+03:00
+title: "Antakya Antik Yapıları"
+date: "2025-12-25T16:51:18+03:00"
 slug: "antakya-antik-yapilari"
 description: "### Antakya Antik Yapıları: Antik Hamam..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.173584,36.2113953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Antakya Antik Yapıları: Antik Hamam

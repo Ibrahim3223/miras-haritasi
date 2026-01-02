@@ -1,18 +1,17 @@
 ---
-title: "Ahi Şorba Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:25+03:00
+title: "Ahi Şorba Türbesi"
+date: "2025-12-25T15:28:25+03:00"
 slug: "ahi-sorba-turbesi"
 description: "## Ahi Şorba Türbesi: Kastamonu'nun Gizli Anıtı..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7730331,41.3712082"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Şorba Türbesi: Kastamonu'nun Gizli Anıtı

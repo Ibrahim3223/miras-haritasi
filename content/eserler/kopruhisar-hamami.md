@@ -1,18 +1,17 @@
 ---
-title: "Köprühisar Hamamı | Miras Haritası"
-date: 2025-12-25T17:05:32+03:00
+title: "Köprühisar Hamamı"
+date: "2025-12-25T17:05:32+03:00"
 slug: "kopruhisar-hamami"
 description: "**Köprühisar Hamamı: Tarihi ve Kültürel Mirasın Bir Parçası**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.786619115,40.278762685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Köprühisar Hamamı: Tarihi ve Kültürel Mirasın Bir Parçası**

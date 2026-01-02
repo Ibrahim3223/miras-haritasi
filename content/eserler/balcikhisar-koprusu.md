@@ -1,18 +1,17 @@
 ---
-title: "Balçıkhisar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:50+03:00
+title: "Balçıkhisar Köprüsü"
+date: "2025-12-25T02:44:50+03:00"
 slug: "balcikhisar-koprusu"
 description: "## Balçıkhisar Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.65315358,37.433396049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balçıkhisar Köprüsü

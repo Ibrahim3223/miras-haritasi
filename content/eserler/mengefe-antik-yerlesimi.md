@@ -1,18 +1,17 @@
 ---
-title: "Mengefe Antik Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:07:05+03:00
+title: "Mengefe Antik Yerleşimi"
+date: "2025-12-25T06:07:05+03:00"
 slug: "mengefe-antik-yerlesimi"
 description: "# Mengefe Antik Yerleşimi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9451504,37.0832443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mengefe Antik Yerleşimi

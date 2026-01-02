@@ -1,18 +1,17 @@
 ---
-title: "Yayla Fakih Mescidi, Tire | Miras Haritası"
-date: 2025-12-25T00:50:54+03:00
+title: "Yayla Fakih Mescidi, Tire"
+date: "2025-12-25T00:50:54+03:00"
 slug: "yayla-fakih-mescidi-tire"
 description: "## Yayla Fakih Mescidi: Tire'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Yayla_Fakih_Mescidi.jpg/1200px-Yayla_Fakih_Mescidi.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7325172,38.0833206"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yayla Fakih Mescidi: Tire'nin Tarihi Bir Mirası

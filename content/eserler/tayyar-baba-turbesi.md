@@ -1,18 +1,17 @@
 ---
-title: "Tayyar Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:06+03:00
+title: "Tayyar Baba Türbesi"
+date: "2025-12-25T15:26:06+03:00"
 slug: "tayyar-baba-turbesi"
 description: "## Tayyar Baba Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.247776,38.7062531"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tayyar Baba Türbesi

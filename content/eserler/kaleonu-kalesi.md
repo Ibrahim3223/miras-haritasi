@@ -1,18 +1,17 @@
 ---
-title: "Kaleönü Kalesi | Miras Haritası"
-date: 2025-12-25T01:43:24+03:00
+title: "Kaleönü Kalesi"
+date: "2025-12-25T01:43:24+03:00"
 slug: "kaleonu-kalesi"
 description: "### Kaleönü Kalesi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Fatsa"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.4672928,41.0091019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaleönü Kalesi

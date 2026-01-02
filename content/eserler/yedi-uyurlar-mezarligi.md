@@ -1,18 +1,17 @@
 ---
-title: "Yedi Uyurlar Mezarlığı | Miras Haritası"
-date: 2025-12-25T06:52:47+03:00
+title: "Yedi Uyurlar Mezarlığı"
+date: "2025-12-25T06:52:47+03:00"
 slug: "yedi-uyurlar-mezarligi"
 description: "## Yedi Uyurlar Mezarlığı: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.353705574,37.943738522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yedi Uyurlar Mezarlığı: İzmir'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Geçitağzı Alayçeşme Güney A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:22:08+03:00
+title: "Geçitağzı Alayçeşme Güney A Tümülüsü"
+date: "2025-12-25T07:22:08+03:00"
 slug: "gecitagzi-alaycesme-guney-a-tumulusu"
 description: "### Geçitağzı Alayçeşme Güney A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3372383,41.9386444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Geçitağzı Alayçeşme Güney A Tümülüsü

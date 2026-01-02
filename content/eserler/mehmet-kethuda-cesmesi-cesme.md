@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Kethüda Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:22:46+03:00
+title: "Mehmet Kethüda Çeşmesi, Çeşme"
+date: "2025-12-25T12:22:46+03:00"
 slug: "mehmet-kethuda-cesmesi-cesme"
 description: "## Mehmet Kethüda Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3057194,38.3228493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Kethüda Çeşmesi

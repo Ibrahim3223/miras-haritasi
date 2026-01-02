@@ -1,18 +1,17 @@
 ---
-title: "Sutansuyu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:28+03:00
+title: "Sutansuyu Köprüsü"
+date: "2025-12-25T02:44:28+03:00"
 slug: "sutansuyu-koprusu"
 description: "### Sutansuyu Köprüsü..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.0616989,38.3384514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sutansuyu Köprüsü

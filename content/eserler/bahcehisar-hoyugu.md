@@ -1,18 +1,17 @@
 ---
-title: "Bahçehisar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:41:52+03:00
+title: "Bahçehisar Höyüğü"
+date: "2025-12-25T06:41:52+03:00"
 slug: "bahcehisar-hoyugu"
 description: "## Bahçehisar Höyüğü: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.0711088,39.0184647"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahçehisar Höyüğü: Konya'nın Gizli Mirası

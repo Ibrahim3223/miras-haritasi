@@ -1,18 +1,17 @@
 ---
-title: "Malandasa | Miras Haritası"
-date: 2025-12-25T05:14:57+03:00
+title: "Malandasa"
+date: "2025-12-25T05:14:57+03:00"
 slug: "malandasa"
 description: "## Malandasa: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.39368,38.2111435"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malandasa: Türkiye'nin Gizli Arkeolojik Sitleri

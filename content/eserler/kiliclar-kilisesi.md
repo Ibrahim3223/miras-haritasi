@@ -1,18 +1,17 @@
 ---
-title: "Kılıçlar Kilisesi | Miras Haritası"
-date: 2025-12-25T09:09:36+03:00
+title: "Kılıçlar Kilisesi"
+date: "2025-12-25T09:09:36+03:00"
 slug: "kiliclar-kilisesi"
 description: "## Kılıçlar Kilisesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.845202267,38.642039696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılıçlar Kilisesi

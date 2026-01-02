@@ -1,18 +1,17 @@
 ---
-title: "Aya Georgi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:39+03:00
+title: "Aya Georgi Kilisesi"
+date: "2025-12-25T09:36:39+03:00"
 slug: "aya-georgi-kilisesi"
 description: "### Aya Georgi Kilisesi: Kırklareli'nin Tarihî Bir Harikası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.4403362,41.9228516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Georgi Kilisesi: Kırklareli'nin Tarihî Bir Harikası

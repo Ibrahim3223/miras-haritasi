@@ -1,18 +1,17 @@
 ---
-title: "Ayn-i Ali Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:49+03:00
+title: "Ayn-i Ali Türbesi"
+date: "2025-12-25T14:26:49+03:00"
 slug: "ayn-i-ali-turbesi"
 description: "## Ayn-i Ali Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4214,38.6134"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayn-i Ali Türbesi

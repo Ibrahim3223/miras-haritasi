@@ -1,18 +1,17 @@
 ---
-title: "Ayşe Kadın Camii | Miras Haritası"
-date: 2025-12-24T22:13:12+03:00
+title: "Ayşe Kadın Camii"
+date: "2025-12-24T22:13:12+03:00"
 slug: "ayse-kadin-camii"
 description: "#### Ayşe Kadın Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5986938,38.5182381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 #### Ayşe Kadın Camii Tanıtımı

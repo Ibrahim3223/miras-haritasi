@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Çelebi Camii, İznik | Miras Haritası"
-date: 2025-12-24T23:58:48+03:00
+title: "Mahmut Çelebi Camii, İznik"
+date: "2025-12-24T23:58:48+03:00"
 slug: "mahmut-celebi-camii-iznik"
 description: "## Mahmut Çelebi Camii: İznik'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.71982,40.428051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Çelebi Camii: İznik'in Gizli Çeşmesi

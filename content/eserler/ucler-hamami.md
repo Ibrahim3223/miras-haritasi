@@ -1,18 +1,17 @@
 ---
-title: "Üçler Hamamı | Miras Haritası"
-date: 2025-12-25T17:12:12+03:00
+title: "Üçler Hamamı"
+date: "2025-12-25T17:12:12+03:00"
 slug: "ucler-hamami"
 description: "## Üçler Hamamı: Osmanlı Döneminin Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9728031,41.0045547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçler Hamamı: Osmanlı Döneminin Gizli Çehresi

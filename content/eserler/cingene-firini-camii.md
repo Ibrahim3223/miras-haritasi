@@ -1,18 +1,17 @@
 ---
-title: "Çingene Fırını Camii | Miras Haritası"
-date: 2025-12-24T22:44:28+03:00
+title: "Çingene Fırını Camii"
+date: "2025-12-24T22:44:28+03:00"
 slug: "cingene-firini-camii"
 description: "## Çingene Fırını Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Karakadı_Alaattin_Camii_-_panoramio.jpg/1200px-Karakadı_Alaattin_Camii_-_panoramio.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.018305555,41.024055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çingene Fırını Camii

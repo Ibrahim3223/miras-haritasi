@@ -1,18 +1,17 @@
 ---
-title: "Askeri Müze | Miras Haritası"
-date: 2025-12-24T21:53:52+03:00
+title: "Askeri Müze"
+date: "2025-12-24T21:53:52+03:00"
 slug: "askeri-muze"
 description: "## Askeri Müze: Şişli'nin Gizli Çehresini Açığa Çıkaran Tarihi Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Askeri_Müze_970.jpg/1200px-Askeri_Müze_970.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9883,41.0484"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Askeri Müze: Şişli'nin Gizli Çehresini Açığa Çıkaran Tarihi Bir Anıt

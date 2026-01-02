@@ -1,18 +1,17 @@
 ---
-title: "Güneş Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:20:12+03:00
+title: "Güneş Sokak Çeşmesi"
+date: "2025-12-25T10:20:12+03:00"
 slug: "gunes-sokak-cesmesi"
 description: "## Güneş Sokak Çeşmesi: Uşak'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4027023,38.6797485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güneş Sokak Çeşmesi: Uşak'ın Gizli Çeşmesi

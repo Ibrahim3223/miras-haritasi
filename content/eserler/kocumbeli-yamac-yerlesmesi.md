@@ -1,18 +1,17 @@
 ---
-title: "Koçumbeli Yamaç Yerleşmesi | Miras Haritası"
-date: 2025-12-25T07:08:21+03:00
+title: "Koçumbeli Yamaç Yerleşmesi"
+date: "2025-12-25T07:08:21+03:00"
 slug: "kocumbeli-yamac-yerlesmesi"
 description: "## Koçumbeli Yamaç Yerleşmesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koçumbeli Yamaç Yerleşmesi

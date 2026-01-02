@@ -1,18 +1,17 @@
 ---
-title: "Silifke Atatürk Evi ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:57:59+03:00
+title: "Silifke Atatürk Evi ve Etnografya Müzesi"
+date: "2025-12-25T03:57:59+03:00"
 slug: "silifke-ataturk-evi-ve-etnografya-muzesi"
 description: "## Silifke Atatürk Evi ve Etnografya Müzesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.928104,36.376972"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Silifke Atatürk Evi ve Etnografya Müzesi

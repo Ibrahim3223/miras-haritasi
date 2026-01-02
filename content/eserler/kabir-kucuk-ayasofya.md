@@ -1,18 +1,17 @@
 ---
-title: "Kabir, Küçük Ayasofya | Miras Haritası"
-date: 2025-12-25T13:28:14+03:00
+title: "Kabir, Küçük Ayasofya"
+date: "2025-12-25T13:28:14+03:00"
 slug: "kabir-kucuk-ayasofya"
 description: "## Kabir, Küçük Ayasofya..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.970787,41.0059433"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Kabir, Küçük Ayasofya

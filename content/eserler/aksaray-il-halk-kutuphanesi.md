@@ -1,18 +1,17 @@
 ---
-title: "Aksaray İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:54:10+03:00
+title: "Aksaray İl Halk Kütüphanesi"
+date: "2025-12-25T17:54:10+03:00"
 slug: "aksaray-il-halk-kutuphanesi"
 description: "### Aksaray İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "34.0291214,38.3736191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aksaray İl Halk Kütüphanesi

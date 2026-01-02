@@ -1,18 +1,17 @@
 ---
-title: "Maydos Kilisetepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:08:46+03:00
+title: "Maydos Kilisetepe Höyüğü"
+date: "2025-12-25T07:08:46+03:00"
 slug: "maydos-kilisetepe-hoyugu"
 description: "## Maydos Kilisetepe Höyüğü: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.355983,40.1849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maydos Kilisetepe Höyüğü: Çanakkale'nin Gizli Mirası

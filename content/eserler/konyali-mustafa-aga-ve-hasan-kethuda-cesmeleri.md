@@ -1,18 +1,17 @@
 ---
-title: "Konyalı Mustafa Ağa ve Hasan Kethüda Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:58:39+03:00
+title: "Konyalı Mustafa Ağa ve Hasan Kethüda Çeşmeleri"
+date: "2025-12-25T11:58:39+03:00"
 slug: "konyali-mustafa-aga-ve-hasan-kethuda-cesmeleri"
 description: "## Konyalı Mustafa Ağa ve Hasan Kethüda Çeşmeleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.352438,38.2321739"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Konyalı Mustafa Ağa ve Hasan Kethüda Çeşmeleri

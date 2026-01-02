@@ -1,18 +1,17 @@
 ---
-title: "Stele of Gölpınar | Miras Haritası"
-date: 2025-12-25T14:14:01+03:00
+title: "Stele of Gölpınar"
+date: "2025-12-25T14:14:01+03:00"
 slug: "stele-of-golpinar"
 description: "## Stele of Gölpınar: İçsel Güç ve Tarihî Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Urfa_Museum_Schutzgott_Gölpınar.jpg/1200px-Urfa_Museum_Schutzgott_Gölpınar.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Stele of Gölpınar: İçsel Güç ve Tarihî Miras

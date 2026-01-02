@@ -1,18 +1,17 @@
 ---
-title: "Sakabaşı Mescidi | Miras Haritası"
-date: 2025-12-25T00:43:09+03:00
+title: "Sakabaşı Mescidi"
+date: "2025-12-25T00:43:09+03:00"
 slug: "sakabasi-mescidi"
 description: "## Sakabaşı Mescidi: Beyoğlu'ndaki Bir Önemli Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.984234859,41.029103226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakabaşı Mescidi: Beyoğlu'ndaki Bir Önemli Cami

@@ -1,18 +1,17 @@
 ---
-title: "Koca Camii, Burhaniye | Miras Haritası"
-date: 2025-12-24T23:54:35+03:00
+title: "Koca Camii, Burhaniye"
+date: "2025-12-24T23:54:35+03:00"
 slug: "koca-camii-burhaniye"
 description: "## Koca Camii, Burhaniye..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Burhaniye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9817619,39.5035591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Camii, Burhaniye

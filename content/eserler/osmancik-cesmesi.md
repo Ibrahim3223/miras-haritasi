@@ -1,18 +1,17 @@
 ---
-title: "Osmancık Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:47:38+03:00
+title: "Osmancık Çeşmesi"
+date: "2025-12-25T10:47:38+03:00"
 slug: "osmancik-cesmesi"
 description: "## Osmancık Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.5405731,39.4465218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmancık Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Hamamı, Havsa | Miras Haritası"
-date: 2025-12-25T16:26:56+03:00
+title: "Sokullu Mehmet Paşa Hamamı, Havsa"
+date: "2025-12-25T16:26:56+03:00"
 slug: "sokullu-mehmet-pasa-hamami-havsa"
 description: "# Sokullu Mehmet Paşa Hamamı, Havsa..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mimar_Sinan_Havsa_Hamam.jpg/1200px-Mimar_Sinan_Havsa_Hamam.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.822437531,41.550023817"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Sokullu Mehmet Paşa Hamamı, Havsa

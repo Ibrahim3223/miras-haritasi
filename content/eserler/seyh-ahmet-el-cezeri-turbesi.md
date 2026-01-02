@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ahmet El-Cezeri Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:11+03:00
+title: "Şeyh Ahmet El-Cezeri Türbesi"
+date: "2025-12-25T14:44:11+03:00"
 slug: "seyh-ahmet-el-cezeri-turbesi"
 description: "### Şeyh Ahmet El-Cezeri Türbesi..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.1880989,37.3249779"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Ahmet El-Cezeri Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Karacaören Höyük | Miras Haritası"
-date: 2025-12-25T06:11:25+03:00
+title: "Karacaören Höyük"
+date: "2025-12-25T06:11:25+03:00"
 slug: "karacaoren-hoyuk"
 description: "## Karacaören Höyük: Çorum'un Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.9548187,40.6503334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karacaören Höyük: Çorum'un Gizemi

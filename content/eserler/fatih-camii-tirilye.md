@@ -1,18 +1,17 @@
 ---
-title: "Fatih Camii, Tirilye | Miras Haritası"
-date: 2025-12-24T21:50:03+03:00
+title: "Fatih Camii, Tirilye"
+date: "2025-12-24T21:50:03+03:00"
 slug: "fatih-camii-tirilye"
 description: "## Fatih Camii, Tirilye..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fatih_Cami.JPG/1200px-Fatih_Cami.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.7969,40.3931"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fatih Camii, Tirilye

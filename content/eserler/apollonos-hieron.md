@@ -1,18 +1,17 @@
 ---
-title: "Apollonos Hieron | Miras Haritası"
-date: 2025-12-25T04:43:17+03:00
+title: "Apollonos Hieron"
+date: "2025-12-25T04:43:17+03:00"
 slug: "apollonos-hieron"
 description: "## Apollonos Hieron: Kıbrıs'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.83055556,38.045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apollonos Hieron: Kıbrıs'ın Tarihi ve Kültürel Mirası

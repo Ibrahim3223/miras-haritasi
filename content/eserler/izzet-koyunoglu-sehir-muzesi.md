@@ -1,18 +1,17 @@
 ---
-title: "İzzet Koyunoğlu Şehir Müzesi | Miras Haritası"
-date: 2025-12-25T03:11:28+03:00
+title: "İzzet Koyunoğlu Şehir Müzesi"
+date: "2025-12-25T03:11:28+03:00"
 slug: "izzet-koyunoglu-sehir-muzesi"
 description: "## İzzet Koyunoğlu Şehir Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Konya_İzzet_Koyunoğlu_Şehir_Müzesi_Ottoman_interior_3384.jpg/1200px-Konya_İzzet_Koyunoğlu_Şehir_Müzesi_Ottoman_interior_3384.jpg"
-province: "Konya Vilayeti"
-iller: ["Konya Vilayeti"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: "Konya Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.510687496,37.866328621"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İzzet Koyunoğlu Şehir Müzesi

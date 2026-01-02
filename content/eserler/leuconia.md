@@ -1,18 +1,17 @@
 ---
-title: "Leuconia | Miras Haritası"
-date: 2025-12-25T05:03:03+03:00
+title: "Leuconia"
+date: "2025-12-25T05:03:03+03:00"
 slug: "leuconia"
 description: "## Leuconia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Leuconia Arkeolojik Sit

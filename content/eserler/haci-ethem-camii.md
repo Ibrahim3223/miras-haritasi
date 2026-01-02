@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ethem Camii | Miras Haritası"
-date: 2025-12-24T23:29:08+03:00
+title: "Hacı Ethem Camii"
+date: "2025-12-24T23:29:08+03:00"
 slug: "haci-ethem-camii"
 description: "### Hacı Ethem Camii: İzmir'in Önemli Tarihî Eserleri Arasındaki Bir Ölümsüz..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1246166,38.4131203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Ethem Camii: İzmir'in Önemli Tarihî Eserleri Arasındaki Bir Ölümsüz

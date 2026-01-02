@@ -1,18 +1,17 @@
 ---
-title: "Barbaros Hayrettin Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:18:53+03:00
+title: "Barbaros Hayrettin Paşa Camii"
+date: "2025-12-24T22:18:53+03:00"
 slug: "barbaros-hayrettin-pasa-camii"
 description: "## Barbaros Hayrettin Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Barbaros_Hayrettin_Pasha_Mosque_in_March_2024.jpg/1200px-Barbaros_Hayrettin_Pasha_Mosque_in_March_2024.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.014472222,41.078527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Barbaros Hayrettin Paşa Camii

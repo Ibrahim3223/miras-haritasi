@@ -1,18 +1,17 @@
 ---
-title: "Harmanlı Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:33+03:00
+title: "Harmanlı Mahallesi Çeşmesi"
+date: "2025-12-25T10:22:33+03:00"
 slug: "harmanli-mahallesi-cesmesi"
 description: "## Trabzon'un Gizli Çeşmesi: Harmanlı Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Arsin"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.908614,40.928181"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Trabzon'un Gizli Çeşmesi: Harmanlı Mahallesi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Saint Stefanos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:34+03:00
+title: "Saint Stefanos Kilisesi"
+date: "2025-12-25T09:39:34+03:00"
 slug: "saint-stefanos-kilisesi"
 description: "### Saint Stefanos Kilisesi: Van'ın Eski Kentinde Gizli Bir Cennet..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Muradiye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.7397728,39.0016327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saint Stefanos Kilisesi: Van'ın Eski Kentinde Gizli Bir Cennet

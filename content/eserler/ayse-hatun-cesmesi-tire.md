@@ -1,18 +1,17 @@
 ---
-title: "Ayşe Hatun Çeşmesi, Tire | Miras Haritası"
-date: 2025-12-25T12:46:04+03:00
+title: "Ayşe Hatun Çeşmesi, Tire"
+date: "2025-12-25T12:46:04+03:00"
 slug: "ayse-hatun-cesmesi-tire"
 description: "## Ayşe Hatun Çeşmesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.750124,38.0831718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayşe Hatun Çeşmesi: Tarihi ve Kültürel Miras

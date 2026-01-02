@@ -1,18 +1,17 @@
 ---
-title: "Çınarlı Camii, Ayvalık | Miras Haritası"
-date: 2025-12-24T23:24:53+03:00
+title: "Çınarlı Camii, Ayvalık"
+date: "2025-12-24T23:24:53+03:00"
 slug: "cinarli-camii-ayvalik"
 description: "## Çınarlı Camii, Ayvalık: Türkiye'nin Eski Şehirleri Arasındaki Bir Özellik..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.695534,39.317875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çınarlı Camii, Ayvalık: Türkiye'nin Eski Şehirleri Arasındaki Bir Özellik

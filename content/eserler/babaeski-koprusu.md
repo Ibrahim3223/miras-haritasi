@@ -1,18 +1,17 @@
 ---
-title: "Babaeski Köprüsü | Miras Haritası"
-date: 2025-12-25T01:54:26+03:00
+title: "Babaeski Köprüsü"
+date: "2025-12-25T01:54:26+03:00"
 slug: "babaeski-koprusu"
 description: "### Babaeski Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Babaeski_Koprusu.JPG/1200px-Babaeski_Koprusu.JPG"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.09885,41.42766944"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Babaeski Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Mecidiye Kasrı Hamamı | Miras Haritası"
-date: 2025-12-25T17:07:27+03:00
+title: "Mecidiye Kasrı Hamamı"
+date: "2025-12-25T17:07:27+03:00"
 slug: "mecidiye-kasri-hamami"
 description: "## Mecidiye Kasrı Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.080311528,41.138311147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mecidiye Kasrı Hamamı

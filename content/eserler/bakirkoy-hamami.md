@@ -1,18 +1,17 @@
 ---
-title: "Bakırköy Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:36+03:00
+title: "Bakırköy Hamamı"
+date: "2025-12-25T16:40:36+03:00"
 slug: "bakirkoy-hamami"
 description: "**Bakırköy Hamamı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.875364,40.978582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bakırköy Hamamı**

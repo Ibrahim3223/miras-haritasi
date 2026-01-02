@@ -1,18 +1,17 @@
 ---
-title: "Salsal Camii | Miras Haritası"
-date: 2025-12-25T00:41:40+03:00
+title: "Salsal Camii"
+date: "2025-12-25T00:41:40+03:00"
 slug: "salsal-camii"
 description: "## Salsal Camii: Mardin'in Gizli Çehresini İleri Söyleyen Bir Cami..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.741403,37.312608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salsal Camii: Mardin'in Gizli Çehresini İleri Söyleyen Bir Cami

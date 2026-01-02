@@ -1,18 +1,17 @@
 ---
-title: "Çifte Gelinler Haziresi | Miras Haritası"
-date: 2025-12-25T16:05:36+03:00
+title: "Çifte Gelinler Haziresi"
+date: "2025-12-25T16:05:36+03:00"
 slug: "cifte-gelinler-haziresi"
 description: "## Çifte Gelinler Haziresi: İstanbulluğun Güzelliğini Yansıtan Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9641334,41.0051182"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çifte Gelinler Haziresi: İstanbulluğun Güzelliğini Yansıtan Bir Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Abdülmecit Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:25+03:00
+title: "Abdülmecit Çeşmesi"
+date: "2025-12-25T11:00:25+03:00"
 slug: "abdulmecit-cesmesi"
 description: "## Abdülmecit Çeşmesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kocatepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.982613,41.039898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdülmecit Çeşmesi

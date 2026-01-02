@@ -1,18 +1,17 @@
 ---
-title: "Kumbağlar 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:49+03:00
+title: "Kumbağlar 1 Tümülüsü"
+date: "2025-12-25T08:04:49+03:00"
 slug: "kumbaglar-1-tumulusu"
 description: "## Kumbağlar 1 Tümülüsü: Şarköy'de Bir Arkeolojik Harikalar Diyarı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.181036,40.8000069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumbağlar 1 Tümülüsü: Şarköy'de Bir Arkeolojik Harikalar Diyarı

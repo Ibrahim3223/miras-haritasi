@@ -1,18 +1,17 @@
 ---
-title: "İhsaniye Camii, Seferihisar | Miras Haritası"
-date: 2025-12-25T00:31:32+03:00
+title: "İhsaniye Camii, Seferihisar"
+date: "2025-12-25T00:31:32+03:00"
 slug: "ihsaniye-camii-seferihisar"
 description: "## İhsaniye Camii Hakkında Bilgi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8095169,38.2744904"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İhsaniye Camii Hakkında Bilgi

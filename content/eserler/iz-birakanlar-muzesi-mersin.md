@@ -1,18 +1,17 @@
 ---
-title: "İz Bırakanlar Müzesi, Mersin | Miras Haritası"
-date: 2025-12-25T03:57:32+03:00
+title: "İz Bırakanlar Müzesi, Mersin"
+date: "2025-12-25T03:57:32+03:00"
 slug: "iz-birakanlar-muzesi-mersin"
 description: "## İz Bırakanlar Müzesi, Mersin..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.6265259,36.8022308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İz Bırakanlar Müzesi, Mersin

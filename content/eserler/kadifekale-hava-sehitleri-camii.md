@@ -1,18 +1,17 @@
 ---
-title: "Kadifekale Hava Şehitleri Camii | Miras Haritası"
-date: 2025-12-24T22:11:00+03:00
+title: "Kadifekale Hava Şehitleri Camii"
+date: "2025-12-24T22:11:00+03:00"
 slug: "kadifekale-hava-sehitleri-camii"
 description: "## Kadifekale Hava Şehitleri Camii: İzmir'in Tarihi ve Dini Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Σμύρνη_-_Θέα_από_το_Kadife_Kale_-_panoramio.jpg/1200px-Σμύρνη_-_Θέα_από_το_Kadife_Kale_-_panoramio.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.143055555,38.413611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kadifekale Hava Şehitleri Camii: İzmir'in Tarihi ve Dini Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Comitanassus | Miras Haritası"
-date: 2025-12-25T05:00:41+03:00
+title: "Comitanassus"
+date: "2025-12-25T05:00:41+03:00"
 slug: "comitanassus"
 description: "## Comitanassus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.3633795,38.1404025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Comitanassus Arkeolojik Sit

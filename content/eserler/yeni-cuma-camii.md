@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cuma Camii | Miras Haritası"
-date: 2025-12-24T21:53:19+03:00
+title: "Yeni Cuma Camii"
+date: "2025-12-24T21:53:19+03:00"
 slug: "yeni-cuma-camii"
 description: "## Yeni Cuma Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Trebisonda,_ex-chiesa_di_sant'eugenio,_oggi_nuova_moschea_del_venerdì,_esterno_02.jpg/1200px-Trebisonda,_ex-chiesa_di_sant'eugenio,_oggi_nuova_moschea_del_venerdì,_esterno_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Trabzon"
+province: "Trabzon"
+iller: '["Trabzon"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.7225,41.0011"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yeni Cuma Camii

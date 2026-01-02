@@ -1,18 +1,17 @@
 ---
-title: "Çoban Mustafa Paşa Külliyesi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:53:51+03:00
+title: "Çoban Mustafa Paşa Külliyesi Kütüphanesi"
+date: "2025-12-25T17:53:51+03:00"
 slug: "coban-mustafa-pasa-kulliyesi-kutuphanesi"
 description: "**Çoban Mustafa Paşa Külliyesi Kütüphanesi**..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.4311447,40.799572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çoban Mustafa Paşa Külliyesi Kütüphanesi**

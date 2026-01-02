@@ -1,18 +1,17 @@
 ---
-title: "Saraçhane Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:25:21+03:00
+title: "Saraçhane Çeşmesi"
+date: "2025-12-25T11:25:21+03:00"
 slug: "sarachane-cesmesi"
 description: "## Saraçhane Çeşmesi: Manisa'nın Büyüleyici Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4356079,38.6128731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraçhane Çeşmesi: Manisa'nın Büyüleyici Çeşmesi

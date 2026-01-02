@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü 2 | Miras Haritası"
-date: 2025-12-25T02:12:45+03:00
+title: "Taş Köprü 2"
+date: "2025-12-25T02:12:45+03:00"
 slug: "tas-kopru-2"
 description: "## Taş Köprü 2: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6122227,38.4096107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Köprü 2: İzmir'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Anazarbos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:25:40+03:00
+title: "Anazarbos Antik Tiyatrosu"
+date: "2025-12-25T08:25:40+03:00"
 slug: "anazarbos-antik-tiyatrosu"
 description: "## Anazarbos Antik Tiyatrosu..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.900493,37.248244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anazarbos Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Karamanoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:31:15+03:00
+title: "Karamanoğlu Hamamı"
+date: "2025-12-25T16:31:15+03:00"
 slug: "karamanoglu-hamami"
 description: "### Karamanoğlu Hamamı..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ermenek"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8905247,36.6408977"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karamanoğlu Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Yeni Çeşme, Çeşme | Miras Haritası"
-date: 2025-12-25T12:38:36+03:00
+title: "Yeni Çeşme, Çeşme"
+date: "2025-12-25T12:38:36+03:00"
 slug: "yeni-cesme-cesme"
 description: "## Yeni Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.307669429,38.323345726"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Çeşme

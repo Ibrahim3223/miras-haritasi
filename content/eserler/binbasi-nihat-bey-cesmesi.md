@@ -1,18 +1,17 @@
 ---
-title: "Binbaşı Nihat Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:38+03:00
+title: "Binbaşı Nihat Bey Çeşmesi"
+date: "2025-12-25T10:16:38+03:00"
 slug: "binbasi-nihat-bey-cesmesi"
 description: "### Binbaşı Nihat Bey Çeşmesi: Bulancak'ta Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Bulancak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.2333946,40.9382019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Binbaşı Nihat Bey Çeşmesi: Bulancak'ta Bir Tarihi Çeşme

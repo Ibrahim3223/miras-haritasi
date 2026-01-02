@@ -1,18 +1,17 @@
 ---
-title: "Nakkaşzade Seyyid İbrahim Camii | Miras Haritası"
-date: 2025-12-25T00:34:54+03:00
+title: "Nakkaşzade Seyyid İbrahim Camii"
+date: "2025-12-25T00:34:54+03:00"
 slug: "nakkaszade-seyyid-ibrahim-camii"
 description: "# Nakkaşzade Seyyid İbrahim Camii..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.102558174,39.930631962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Nakkaşzade Seyyid İbrahim Camii

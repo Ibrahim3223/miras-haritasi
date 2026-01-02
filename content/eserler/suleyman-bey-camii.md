@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Bey Camii | Miras Haritası"
-date: 2025-12-24T23:09:50+03:00
+title: "Süleyman Bey Camii"
+date: "2025-12-24T23:09:50+03:00"
 slug: "suleyman-bey-camii"
 description: "## Süleyman Bey Camii: Bozüyük'te Bir Geçmişe Sahip Önemli Cami..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0377998,39.9095001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Bey Camii: Bozüyük'te Bir Geçmişe Sahip Önemli Cami

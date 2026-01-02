@@ -1,18 +1,17 @@
 ---
-title: "Korikos, İyonya | Miras Haritası"
-date: 2025-12-25T08:09:19+03:00
+title: "Korikos, İyonya"
+date: "2025-12-25T08:09:19+03:00"
 slug: "korikos-iyonya"
 description: "## Korikos, İyonya: Bir Antik Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.585833333,38.146388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Korikos, İyonya: Bir Antik Kentin Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Halitpaşa I | Miras Haritası"
-date: 2025-12-25T05:32:18+03:00
+title: "Halitpaşa I"
+date: "2025-12-25T05:32:18+03:00"
 slug: "halitpasa-i"
 description: "# Halitpaşa I: Tarihinin ve Kültürünün Güzelliği..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.708367,38.692683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Halitpaşa I: Tarihinin ve Kültürünün Güzelliği

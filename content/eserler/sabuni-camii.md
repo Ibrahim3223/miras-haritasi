@@ -1,18 +1,17 @@
 ---
-title: "Sabuni Camii | Miras Haritası"
-date: 2025-12-24T22:39:37+03:00
+title: "Sabuni Camii"
+date: "2025-12-24T22:39:37+03:00"
 slug: "sabuni-camii"
 description: "## Sabuni Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8687019,39.9355965"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sabuni Camii

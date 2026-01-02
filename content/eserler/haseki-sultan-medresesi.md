@@ -1,18 +1,17 @@
 ---
-title: "Haseki Sultan Medresesi | Miras Haritası"
-date: 2025-12-25T17:45:08+03:00
+title: "Haseki Sultan Medresesi"
+date: "2025-12-25T17:45:08+03:00"
 slug: "haseki-sultan-medresesi"
 description: "### Haseki Sultan Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9419,41.0089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haseki Sultan Medresesi

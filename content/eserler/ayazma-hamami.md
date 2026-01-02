@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Hamamı | Miras Haritası"
-date: 2025-12-25T16:23:28+03:00
+title: "Ayazma Hamamı"
+date: "2025-12-25T16:23:28+03:00"
 slug: "ayazma-hamami"
 description: "## Ayazma Hamamı: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.009866187,41.023608282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayazma Hamamı: İstanbul'un Gizli Çeşmesi

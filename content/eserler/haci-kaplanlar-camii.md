@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kaplanlar Camii | Miras Haritası"
-date: 2025-12-24T23:30:00+03:00
+title: "Hacı Kaplanlar Camii"
+date: "2025-12-24T23:30:00+03:00"
 slug: "haci-kaplanlar-camii"
 description: "## Hacı Kaplanlar Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0925751,37.7749481"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kaplanlar Camii

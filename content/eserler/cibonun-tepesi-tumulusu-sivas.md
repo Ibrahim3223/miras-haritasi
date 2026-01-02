@@ -1,18 +1,17 @@
 ---
-title: "Cibo’nun Tepesi Tümülüsü, Sivas | Miras Haritası"
-date: 2025-12-25T07:25:22+03:00
+title: "Cibo’nun Tepesi Tümülüsü, Sivas"
+date: "2025-12-25T07:25:22+03:00"
 slug: "cibonun-tepesi-tumulusu-sivas"
 description: "## Cibo’nun Tepesi Tümülüsü, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.2112503,39.7028999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cibo’nun Tepesi Tümülüsü, Sivas

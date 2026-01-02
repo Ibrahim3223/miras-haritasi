@@ -1,18 +1,17 @@
 ---
-title: "Sitte Melik Kümbeti, Divriği | Miras Haritası"
-date: 2025-12-25T13:56:39+03:00
+title: "Sitte Melik Kümbeti, Divriği"
+date: "2025-12-25T13:56:39+03:00"
 slug: "sitte-melik-kumbeti-divrigi"
 description: "## Sitte Melik Kümbeti, Divriği..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.1191177,39.3736687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sitte Melik Kümbeti, Divriği

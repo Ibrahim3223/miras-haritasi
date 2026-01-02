@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Usta Kabri | Miras Haritası"
-date: 2025-12-25T13:52:27+03:00
+title: "Ahmet Usta Kabri"
+date: "2025-12-25T13:52:27+03:00"
 slug: "ahmet-usta-kabri"
 description: "## Ahmet Usta Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9221077,40.9939651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Usta Kabri: Fatih'in Gizli Anıtı

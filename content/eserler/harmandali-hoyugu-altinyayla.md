@@ -1,18 +1,17 @@
 ---
-title: "Harmandalı Höyüğü, Altınyayla | Miras Haritası"
-date: 2025-12-25T05:53:32+03:00
+title: "Harmandalı Höyüğü, Altınyayla"
+date: "2025-12-25T05:53:32+03:00"
 slug: "harmandali-hoyugu-altinyayla"
 description: "## Harmandalı Höyüğü: Altınyayla'nın Eski Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Altınyayla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8327827,39.180191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harmandalı Höyüğü: Altınyayla'nın Eski Mirası

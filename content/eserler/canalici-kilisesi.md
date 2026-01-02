@@ -1,18 +1,17 @@
 ---
-title: "Canalıcı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:41:28+03:00
+title: "Canalıcı Kilisesi"
+date: "2025-12-25T09:41:28+03:00"
 slug: "canalici-kilisesi"
 description: "## Canalıcı Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9514828,41.0160294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canalıcı Kilisesi

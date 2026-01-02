@@ -1,18 +1,17 @@
 ---
-title: "Lysander statue at Ephesus | Miras Haritası"
-date: 2025-12-25T13:40:43+03:00
+title: "Lysander statue at Ephesus"
+date: "2025-12-25T13:40:43+03:00"
 slug: "lysander-statue-at-ephesus"
 description: "### Lysander Heykeli: Efeze'nin Gizli Kahramanı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3637,37.9497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Lysander Heykeli: Efeze'nin Gizli Kahramanı

@@ -1,18 +1,17 @@
 ---
-title: "Helvacı Dede Türbe Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:01:39+03:00
+title: "Helvacı Dede Türbe Çeşmesi"
+date: "2025-12-25T12:01:39+03:00"
 slug: "helvaci-dede-turbe-cesmesi"
 description: "## Helvacı Dede Türbe Çeşmesi: Bergama'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1733837,39.1258507"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Helvacı Dede Türbe Çeşmesi: Bergama'nın Gizli Çeşmesi

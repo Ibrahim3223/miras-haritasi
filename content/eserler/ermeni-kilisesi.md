@@ -1,18 +1,17 @@
 ---
-title: "Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:20+03:00
+title: "Ermeni Kilisesi"
+date: "2025-12-25T09:39:20+03:00"
 slug: "ermeni-kilisesi"
 description: "## Ermeni Kilisesi: Kemaliye'nin Gizli Çağı..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Kemaliye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.4983788,39.2599945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ermeni Kilisesi: Kemaliye'nin Gizli Çağı

@@ -1,18 +1,17 @@
 ---
-title: "Yalınlı | Miras Haritası"
-date: 2025-12-25T05:26:32+03:00
+title: "Yalınlı"
+date: "2025-12-25T05:26:32+03:00"
 slug: "yalinli"
 description: "**Yalınlı Arkeolojik Sit**..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Beylikova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.380364,39.696964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yalınlı Arkeolojik Sit**

@@ -1,18 +1,17 @@
 ---
-title: "Avarak Kalesi | Miras Haritası"
-date: 2025-12-25T01:45:00+03:00
+title: "Avarak Kalesi"
+date: "2025-12-25T01:45:00+03:00"
 slug: "avarak-kalesi"
 description: "## Avarak Kalesi: Giresun'un Gizli Çandırı..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çamoluk"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.6659088,40.1357346"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avarak Kalesi: Giresun'un Gizli Çandırı

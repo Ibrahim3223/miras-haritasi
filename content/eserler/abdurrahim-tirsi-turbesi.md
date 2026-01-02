@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahim Tırsi Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:42+03:00
+title: "Abdurrahim Tırsi Türbesi"
+date: "2025-12-25T15:19:42+03:00"
 slug: "abdurrahim-tirsi-turbesi"
 description: "# Abdurrahim Tırsi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Mudurnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.211,40.4643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdurrahim Tırsi Türbesi

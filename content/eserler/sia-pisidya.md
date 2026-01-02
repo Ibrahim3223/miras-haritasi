@@ -1,18 +1,17 @@
 ---
-title: "Sia (Pisidya) | Miras Haritası"
-date: 2025-12-25T05:11:20+03:00
+title: "Sia (Pisidya)"
+date: "2025-12-25T05:11:20+03:00"
 slug: "sia-pisidya"
 description: "## Sia (Pisidya) Arkeolojik Sit..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.60218,37.262066"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sia (Pisidya) Arkeolojik Sit

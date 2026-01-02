@@ -1,18 +1,17 @@
 ---
-title: "Kariye Camii | Miras Haritası"
-date: 2025-12-24T21:36:31+03:00
+title: "Kariye Camii"
+date: "2025-12-24T21:36:31+03:00"
 slug: "kariye-camii"
 description: "## Kariye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Chora_Church_2024.jpg/1200px-Chora_Church_2024.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.939167,41.031111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kariye Camii

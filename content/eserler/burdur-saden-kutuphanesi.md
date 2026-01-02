@@ -1,18 +1,17 @@
 ---
-title: "Burdur Saden Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:55+03:00
+title: "Burdur Saden Kütüphanesi"
+date: "2025-12-25T17:51:55+03:00"
 slug: "burdur-saden-kutuphanesi"
 description: "## Burdur Saden Kütüphanesi..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.2894993,37.7149582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burdur Saden Kütüphanesi

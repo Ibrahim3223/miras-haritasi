@@ -1,18 +1,17 @@
 ---
-title: "Kılıçbayırı Şehitliği | Miras Haritası"
-date: 2025-12-25T16:01:17+03:00
+title: "Kılıçbayırı Şehitliği"
+date: "2025-12-25T16:01:17+03:00"
 slug: "kilicbayiri-sehitligi"
 description: "### Kılıçbayırı Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2950745,40.2436142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kılıçbayırı Şehitliği

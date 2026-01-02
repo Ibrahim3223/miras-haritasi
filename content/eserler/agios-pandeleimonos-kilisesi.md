@@ -1,18 +1,17 @@
 ---
-title: "Agios Pandeleimonos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:00+03:00
+title: "Agios Pandeleimonos Kilisesi"
+date: "2025-12-25T09:12:00+03:00"
 slug: "agios-pandeleimonos-kilisesi"
 description: "## Agios Pandeleimonos Kilisesi: Ayvalık'ın Gizli Çehresini Açıklamak..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.659001,39.336958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Agios Pandeleimonos Kilisesi: Ayvalık'ın Gizli Çehresini Açıklamak

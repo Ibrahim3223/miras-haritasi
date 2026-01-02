@@ -1,18 +1,17 @@
 ---
-title: "Demir Yalayan Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:41+03:00
+title: "Demir Yalayan Türbesi"
+date: "2025-12-25T15:12:41+03:00"
 slug: "demir-yalayan-turbesi"
 description: "## Demir Yalayan Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5403766,38.7614368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demir Yalayan Türbesi

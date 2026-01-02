@@ -1,18 +1,17 @@
 ---
-title: "Nazilli Büyük Menderes Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:44+03:00
+title: "Nazilli Büyük Menderes Köprüsü"
+date: "2025-12-25T02:11:44+03:00"
 slug: "nazilli-buyuk-menderes-koprusu"
 description: "## Nazilli Büyük Menderes Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3275299,37.8758965"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nazilli Büyük Menderes Köprüsü

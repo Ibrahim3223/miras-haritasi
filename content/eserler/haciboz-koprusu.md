@@ -1,18 +1,17 @@
 ---
-title: "Hacıboz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:39:50+03:00
+title: "Hacıboz Köprüsü"
+date: "2025-12-25T02:39:50+03:00"
 slug: "haciboz-koprusu"
 description: "### Hacıboz Köprüsü: Tokat'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.5307922,40.2134666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacıboz Köprüsü: Tokat'ın Tarihî Bir Mirası

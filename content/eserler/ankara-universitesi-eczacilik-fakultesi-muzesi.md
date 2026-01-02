@@ -1,18 +1,17 @@
 ---
-title: "Ankara Üniversitesi Eczacılık Fakültesi Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:40+03:00
+title: "Ankara Üniversitesi Eczacılık Fakültesi Müzesi"
+date: "2025-12-25T04:05:40+03:00"
 slug: "ankara-universitesi-eczacilik-fakultesi-muzesi"
 description: "## Ankara Üniversitesi Eczacılık Fakültesi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.834463288,39.93594835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Üniversitesi Eczacılık Fakültesi Müzesi

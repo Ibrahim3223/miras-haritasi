@@ -1,18 +1,17 @@
 ---
-title: "Kars Atatürk Çocuk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:28+03:00
+title: "Kars Atatürk Çocuk Kütüphanesi"
+date: "2025-12-25T17:55:28+03:00"
 slug: "kars-ataturk-cocuk-kutuphanesi"
 description: "## Kars Atatürk Çocuk Kütüphanesi: Kültür ve Bilgi Merkezi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "43.0918541,40.6080475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kars Atatürk Çocuk Kütüphanesi: Kültür ve Bilgi Merkezi

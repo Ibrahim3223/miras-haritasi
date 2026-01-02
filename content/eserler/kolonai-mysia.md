@@ -1,18 +1,17 @@
 ---
-title: "Kolonai (Mysia) | Miras Haritası"
-date: 2025-12-25T04:37:57+03:00
+title: "Kolonai (Mysia)"
+date: "2025-12-25T04:37:57+03:00"
 slug: "kolonai-mysia"
 description: "### Kolonai (Mysia): Türkiye'nin Eski Çağ Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9108,40.2808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kolonai (Mysia): Türkiye'nin Eski Çağ Mirası

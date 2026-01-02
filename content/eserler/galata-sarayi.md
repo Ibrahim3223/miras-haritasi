@@ -1,18 +1,17 @@
 ---
-title: "Galata Sarayı | Miras Haritası"
-date: 2025-12-25T13:11:51+03:00
+title: "Galata Sarayı"
+date: "2025-12-25T13:11:51+03:00"
 slug: "galata-sarayi"
 description: "## Galata Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.9727116,41.0245476"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Galata Sarayı

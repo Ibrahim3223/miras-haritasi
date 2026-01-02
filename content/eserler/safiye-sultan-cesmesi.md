@@ -1,18 +1,17 @@
 ---
-title: "Safiye Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:10:53+03:00
+title: "Safiye Sultan Çeşmesi"
+date: "2025-12-25T10:10:53+03:00"
 slug: "safiye-sultan-cesmesi"
 description: "## Safiye Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Safiye_Sultan_Çeşmesi.jpg/1200px-Safiye_Sultan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.017725053,41.021963622"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Safiye Sultan Çeşmesi

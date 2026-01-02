@@ -1,18 +1,17 @@
 ---
-title: "Çiçekliköy Camii | Miras Haritası"
-date: 2025-12-24T22:32:36+03:00
+title: "Çiçekliköy Camii"
+date: "2025-12-24T22:32:36+03:00"
 slug: "ciceklikoy-camii"
 description: "## Çiçekliköy Camii..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2839775,38.4992943"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiçekliköy Camii

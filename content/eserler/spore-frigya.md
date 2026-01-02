@@ -1,18 +1,17 @@
 ---
-title: "Spore (Frigya) | Miras Haritası"
-date: 2025-12-25T05:14:41+03:00
+title: "Spore (Frigya)"
+date: "2025-12-25T05:14:41+03:00"
 slug: "spore-frigya"
 description: "### Spore (Frigya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.869114,39.243112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Spore (Frigya)

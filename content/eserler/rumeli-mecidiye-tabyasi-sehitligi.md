@@ -1,18 +1,17 @@
 ---
-title: "Rumeli Mecidiye Tabyası Şehitliği | Miras Haritası"
-date: 2025-12-25T16:04:25+03:00
+title: "Rumeli Mecidiye Tabyası Şehitliği"
+date: "2025-12-25T16:04:25+03:00"
 slug: "rumeli-mecidiye-tabyasi-sehitligi"
 description: "### Rumeli Mecidiye Tabyası Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3748798,40.1413498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rumeli Mecidiye Tabyası Şehitliği

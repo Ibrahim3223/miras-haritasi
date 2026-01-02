@@ -1,18 +1,17 @@
 ---
-title: "Sadabad Sarayı | Miras Haritası"
-date: 2025-12-25T13:14:54+03:00
+title: "Sadabad Sarayı"
+date: "2025-12-25T13:14:54+03:00"
 slug: "sadabad-sarayi"
 description: "## Sadabad Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kağıthane"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.963722219,41.07158333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sadabad Sarayı

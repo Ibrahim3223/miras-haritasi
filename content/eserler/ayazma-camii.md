@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Camii | Miras Haritası"
-date: 2025-12-24T21:53:23+03:00
+title: "Ayazma Camii"
+date: "2025-12-24T21:53:23+03:00"
 slug: "ayazma-camii"
 description: "## Ayazma Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ayazma_Mosque_DSCF4198.jpg/1200px-Ayazma_Mosque_DSCF4198.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.008882,41.022657"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayazma Camii

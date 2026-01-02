@@ -1,18 +1,17 @@
 ---
-title: "Malatyalı İsmail Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:06:25+03:00
+title: "Malatyalı İsmail Ağa Çeşmesi"
+date: "2025-12-25T10:06:25+03:00"
 slug: "malatyali-ismail-aga-cesmesi"
 description: "## Malatyalı İsmail Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Malatyalı_İsmail_Ağa_Çeşmesi.jpg/1200px-Malatyalı_İsmail_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.016861111,41.018666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Malatyalı İsmail Ağa Çeşmesi

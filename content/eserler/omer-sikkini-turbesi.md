@@ -1,18 +1,17 @@
 ---
-title: "Ömer Sıkkini Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:01+03:00
+title: "Ömer Sıkkini Türbesi"
+date: "2025-12-25T15:16:01+03:00"
 slug: "omer-sikkini-turbesi"
 description: "## Ömer Sıkkini Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Göynük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.7902,40.4016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömer Sıkkini Türbesi

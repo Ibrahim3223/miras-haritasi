@@ -1,18 +1,17 @@
 ---
-title: "Ayvalı Kilise | Miras Haritası"
-date: 2025-12-25T09:08:31+03:00
+title: "Ayvalı Kilise"
+date: "2025-12-25T09:08:31+03:00"
 slug: "ayvali-kilise"
 description: "# Ayvalı Kilisesi: Göbeklitepe'nin Yakınında Gizli Bir Anıtlar..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.858385324,38.654231401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ayvalı Kilisesi: Göbeklitepe'nin Yakınında Gizli Bir Anıtlar

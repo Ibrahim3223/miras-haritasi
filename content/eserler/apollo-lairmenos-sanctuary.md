@@ -1,18 +1,17 @@
 ---
-title: "Apollo Lairmenos sanctuary | Miras Haritası"
-date: 2025-12-25T08:20:51+03:00
+title: "Apollo Lairmenos sanctuary"
+date: "2025-12-25T08:20:51+03:00"
 slug: "apollo-lairmenos-sanctuary"
 description: "### Apollo Lairmenos Tapınağı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.28035,38.2148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Apollo Lairmenos Tapınağı

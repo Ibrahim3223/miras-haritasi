@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Şehir Tiyatroları | Miras Haritası"
-date: 2025-12-25T16:16:23+03:00
+title: "İstanbul Şehir Tiyatroları"
+date: "2025-12-25T16:16:23+03:00"
 slug: "istanbul-sehir-tiyatrolari"
 description: "### İstanbul Şehir Tiyatroları..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.985833333,41.045833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İstanbul Şehir Tiyatroları

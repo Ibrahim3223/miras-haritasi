@@ -1,18 +1,17 @@
 ---
-title: "Vani Mehmet Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:19:03+03:00
+title: "Vani Mehmet Efendi Camii"
+date: "2025-12-24T23:19:03+03:00"
 slug: "vani-mehmet-efendi-camii"
 description: "## Vani Mehmet Efendi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2131348,40.2004814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vani Mehmet Efendi Camii

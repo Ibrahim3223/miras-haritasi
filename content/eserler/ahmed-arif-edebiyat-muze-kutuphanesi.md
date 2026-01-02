@@ -1,18 +1,17 @@
 ---
-title: "Ahmed Arif Edebiyat Müze Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:36+03:00
+title: "Ahmed Arif Edebiyat Müze Kütüphanesi"
+date: "2025-12-25T17:51:36+03:00"
 slug: "ahmed-arif-edebiyat-muze-kutuphanesi"
 description: "## Ahmed Arif Edebiyat Müze Kütüphanesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "40.236941,37.913731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmed Arif Edebiyat Müze Kütüphanesi

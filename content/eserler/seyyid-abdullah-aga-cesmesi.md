@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Abdullah Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:12:46+03:00
+title: "Seyyid Abdullah Ağa Çeşmesi"
+date: "2025-12-25T11:12:46+03:00"
 slug: "seyyid-abdullah-aga-cesmesi"
 description: "## Seyyid Abdullah Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Seyyid_Abdullah_Ağa_Çeşmesi_IMG_1079.jpg/1200px-Seyyid_Abdullah_Ağa_Çeşmesi_IMG_1079.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Halıcıoğlu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.947497,41.045357"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Seyyid Abdullah Ağa Çeşmesi

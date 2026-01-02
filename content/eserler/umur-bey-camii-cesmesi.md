@@ -1,18 +1,17 @@
 ---
-title: "Umur Bey Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:18+03:00
+title: "Umur Bey Camii Çeşmesi"
+date: "2025-12-25T10:56:18+03:00"
 slug: "umur-bey-camii-cesmesi"
 description: "## Umur Bey Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/UMURBEY_CAMİSİ_-_panoramio_(1).jpg/1200px-UMURBEY_CAMİSİ_-_panoramio_(1).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0712185,40.1774864"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Umur Bey Camii Çeşmesi

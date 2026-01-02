@@ -1,18 +1,17 @@
 ---
-title: "Ana Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:23+03:00
+title: "Ana Sultan Türbesi"
+date: "2025-12-25T14:40:23+03:00"
 slug: "ana-sultan-turbesi"
 description: "### Ana Sultan Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0942497,39.2569427"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ana Sultan Türbesi

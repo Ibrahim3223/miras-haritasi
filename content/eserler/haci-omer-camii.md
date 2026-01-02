@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ömer Camii | Miras Haritası"
-date: 2025-12-25T01:10:29+03:00
+title: "Hacı Ömer Camii"
+date: "2025-12-25T01:10:29+03:00"
 slug: "haci-omer-camii"
 description: "### Hacı Ömer Camii Tanıtımı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7908764,40.3990707"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Ömer Camii Tanıtımı

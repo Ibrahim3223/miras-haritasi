@@ -1,18 +1,17 @@
 ---
-title: "Yeni Zelanda Twelve Tree Copse Anıtı | Miras Haritası"
-date: 2025-12-25T14:02:04+03:00
+title: "Yeni Zelanda Twelve Tree Copse Anıtı"
+date: "2025-12-25T14:02:04+03:00"
 slug: "yeni-zelanda-twelve-tree-copse-aniti"
 description: "## Yeni Zelanda Twelve Tree Copse Anıtı..."
 featured_image: ""
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Alçıtepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.21432,40.08809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Zelanda Twelve Tree Copse Anıtı

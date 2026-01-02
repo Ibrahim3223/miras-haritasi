@@ -1,18 +1,17 @@
 ---
-title: "Gordion Müzesi | Miras Haritası"
-date: 2025-12-25T03:12:53+03:00
+title: "Gordion Müzesi"
+date: "2025-12-25T03:12:53+03:00"
 slug: "gordion-muzesi"
 description: "## Gordion Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gordion4.JPG/1200px-Gordion4.JPG"
 province: "Polatlı"
-iller: ["Polatlı"]
+iller: '["Polatlı"]'
 district: "Yassıhüyük"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.99602778,39.65267222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gordion Müzesi

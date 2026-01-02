@@ -1,18 +1,17 @@
 ---
-title: "Çukurca Höyük, Pertek | Miras Haritası"
-date: 2025-12-25T05:59:31+03:00
+title: "Çukurca Höyük, Pertek"
+date: "2025-12-25T05:59:31+03:00"
 slug: "cukurca-hoyuk-pertek"
 description: "### Çukurca Höyük: Tunceli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Pertek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.0752106,38.9195671"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çukurca Höyük: Tunceli'nin Gizli Anıtı

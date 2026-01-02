@@ -1,18 +1,17 @@
 ---
-title: "Umur Bey At Pazarı Camii | Miras Haritası"
-date: 2025-12-25T00:53:01+03:00
+title: "Umur Bey At Pazarı Camii"
+date: "2025-12-25T00:53:01+03:00"
 slug: "umur-bey-at-pazari-camii"
 description: "## Umur Bey At Pazarı Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.537466,38.7580109"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Umur Bey At Pazarı Camii

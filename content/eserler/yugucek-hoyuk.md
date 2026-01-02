@@ -1,18 +1,17 @@
 ---
-title: "Yüğücek Höyük | Miras Haritası"
-date: 2025-12-25T06:59:39+03:00
+title: "Yüğücek Höyük"
+date: "2025-12-25T06:59:39+03:00"
 slug: "yugucek-hoyuk"
 description: "# Yüğücek Höyük: Bursa'nın Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.720663,40.41901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yüğücek Höyük: Bursa'nın Gizli Mirası

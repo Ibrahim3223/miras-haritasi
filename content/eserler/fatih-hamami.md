@@ -1,18 +1,17 @@
 ---
-title: "Fatih Hamamı | Miras Haritası"
-date: 2025-12-25T16:45:51+03:00
+title: "Fatih Hamamı"
+date: "2025-12-25T16:45:51+03:00"
 slug: "fatih-hamami"
 description: "## Fatih Hamamı: Trabzon'un Tarihi Bir Hamamı..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.7235985,41.0039558"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Hamamı: Trabzon'un Tarihi Bir Hamamı

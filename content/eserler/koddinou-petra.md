@@ -1,18 +1,17 @@
 ---
-title: "Koddinou Petra | Miras Haritası"
-date: 2025-12-25T05:07:58+03:00
+title: "Koddinou Petra"
+date: "2025-12-25T05:07:58+03:00"
 slug: "koddinou-petra"
 description: "## Koddinou Petra: Kıbrıs'ta Bir Gizli Şehri Keşfetmek..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.503594,38.585627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koddinou Petra: Kıbrıs'ta Bir Gizli Şehri Keşfetmek

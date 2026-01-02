@@ -1,18 +1,17 @@
 ---
-title: "Hoca Kiriş Mescidi, Beypazarı | Miras Haritası"
-date: 2025-12-25T01:05:22+03:00
+title: "Hoca Kiriş Mescidi, Beypazarı"
+date: "2025-12-25T01:05:22+03:00"
 slug: "hoca-kiris-mescidi-beypazari"
 description: "## Hoca Kiriş Mescidi, Beypazarı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9181976,40.1713371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Kiriş Mescidi, Beypazarı

@@ -1,18 +1,17 @@
 ---
-title: "Cherronesos | Miras Haritası"
-date: 2025-12-25T04:37:25+03:00
+title: "Cherronesos"
+date: "2025-12-25T04:37:25+03:00"
 slug: "cherronesos"
 description: "### Cherronesos: Antik Yunanistan'ın Gizli Evi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cherronesos: Antik Yunanistan'ın Gizli Evi

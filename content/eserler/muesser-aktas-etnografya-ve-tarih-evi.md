@@ -1,18 +1,17 @@
 ---
-title: "Müesser Aktaş Etnografya ve Tarih Evi | Miras Haritası"
-date: 2025-12-25T03:57:25+03:00
+title: "Müesser Aktaş Etnografya ve Tarih Evi"
+date: "2025-12-25T03:57:25+03:00"
 slug: "muesser-aktas-etnografya-ve-tarih-evi"
 description: "## Müesser Aktaş Etnografya ve Tarih Evi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karaburun"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.5991707,38.5181236"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müesser Aktaş Etnografya ve Tarih Evi

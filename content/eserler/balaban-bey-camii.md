@@ -1,18 +1,17 @@
 ---
-title: "Balaban Bey Camii | Miras Haritası"
-date: 2025-12-24T22:12:25+03:00
+title: "Balaban Bey Camii"
+date: "2025-12-24T22:12:25+03:00"
 slug: "balaban-bey-camii"
 description: "## Balaban Bey Camii: Kiğı'nın Tarihî Mirası..."
 featured_image: ""
 province: "Bingöl"
-iller: ["Bingöl"]
+iller: '["Bingöl"]'
 district: "Kiğı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.3492622,39.3164406"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balaban Bey Camii: Kiğı'nın Tarihî Mirası

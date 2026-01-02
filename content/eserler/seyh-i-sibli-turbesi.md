@@ -1,18 +1,17 @@
 ---
-title: "Şeyh-i Şibli Türbesi | Miras Haritası"
-date: 2025-12-25T14:11:36+03:00
+title: "Şeyh-i Şibli Türbesi"
+date: "2025-12-25T14:11:36+03:00"
 slug: "seyh-i-sibli-turbesi"
 description: "## Şeyh-i Şibli Türbesi: Düzce'nin Efsanevi Anıtı..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.148,40.9052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh-i Şibli Türbesi: Düzce'nin Efsanevi Anıtı

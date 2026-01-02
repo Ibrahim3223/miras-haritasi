@@ -1,18 +1,17 @@
 ---
-title: "Yeşilköy Kaya Mezarları Salıpazarı | Miras Haritası"
-date: 2025-12-25T13:22:48+03:00
+title: "Yeşilköy Kaya Mezarları Salıpazarı"
+date: "2025-12-25T13:22:48+03:00"
 slug: "yesilkoy-kaya-mezarlari-salipazari"
 description: "# Yeşilköy Kaya Mezarları Salıpazarı..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Salıpazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.853417,41.064626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yeşilköy Kaya Mezarları Salıpazarı

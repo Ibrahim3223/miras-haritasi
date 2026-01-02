@@ -1,18 +1,17 @@
 ---
-title: "Beştepeler I Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:08+03:00
+title: "Beştepeler I Tümülüsü"
+date: "2025-12-25T08:05:08+03:00"
 slug: "bestepeler-i-tumulusu"
 description: "### Beştepeler I Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9460831,41.1865692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beştepeler I Tümülüsü

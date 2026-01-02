@@ -1,18 +1,17 @@
 ---
-title: "Nevşehir Müzesi | Miras Haritası"
-date: 2025-12-25T03:22:44+03:00
+title: "Nevşehir Müzesi"
+date: "2025-12-25T03:22:44+03:00"
 slug: "nevsehir-muzesi"
 description: "## Nevşehir Müzesi: Geçmişten Geleceğe Bir Yolculuk..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nevşehir_museum_in_2019_1556.jpg/1200px-Nevşehir_museum_in_2019_1556.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.725,38.628055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nevşehir Müzesi: Geçmişten Geleceğe Bir Yolculuk

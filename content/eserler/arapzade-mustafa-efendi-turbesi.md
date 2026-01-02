@@ -1,18 +1,17 @@
 ---
-title: "Arapzade Mustafa Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:03+03:00
+title: "Arapzade Mustafa Efendi Türbesi"
+date: "2025-12-25T14:25:03+03:00"
 slug: "arapzade-mustafa-efendi-turbesi"
 description: "# Arapzade Mustafa Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.970097,41.0384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arapzade Mustafa Efendi Türbesi

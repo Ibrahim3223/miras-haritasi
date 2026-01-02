@@ -1,18 +1,17 @@
 ---
-title: "Sivriler 3 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:33:59+03:00
+title: "Sivriler 3 Tümülüsü"
+date: "2025-12-25T07:33:59+03:00"
 slug: "sivriler-3-tumulusu"
 description: "## Sivriler 3 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9351616,41.815094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivriler 3 Tümülüsü

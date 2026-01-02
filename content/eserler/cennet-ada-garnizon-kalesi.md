@@ -1,18 +1,17 @@
 ---
-title: "Cennet Ada Garnizon Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:30+03:00
+title: "Cennet Ada Garnizon Kalesi"
+date: "2025-12-25T01:22:30+03:00"
 slug: "cennet-ada-garnizon-kalesi"
 description: "## Cennet Ada Garnizon Kalesi: Marmaris'in Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.287899,36.8037987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cennet Ada Garnizon Kalesi: Marmaris'in Gizli Kahramanı

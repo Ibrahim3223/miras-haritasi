@@ -1,18 +1,17 @@
 ---
-title: "Topkoru 4 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:44:22+03:00
+title: "Topkoru 4 Tümülüsü"
+date: "2025-12-25T07:44:22+03:00"
 slug: "topkoru-4-tumulusu"
 description: "## Topkoru 4 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1621513,42.0077972"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topkoru 4 Tümülüsü

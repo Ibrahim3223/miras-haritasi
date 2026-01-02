@@ -1,18 +1,17 @@
 ---
-title: "Ayios Minas Ayazması, Fener | Miras Haritası"
-date: 2025-12-25T12:38:44+03:00
+title: "Ayios Minas Ayazması, Fener"
+date: "2025-12-25T12:38:44+03:00"
 slug: "ayios-minas-ayazmasi-fener"
 description: "## Ayios Minas Ayazması, Fener..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9494591,41.030674"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Minas Ayazması, Fener

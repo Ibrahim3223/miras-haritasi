@@ -1,18 +1,17 @@
 ---
-title: "Seyit Onbaşı Anıtı, Havran şehir merkezi | Miras Haritası"
-date: 2025-12-25T15:51:36+03:00
+title: "Seyit Onbaşı Anıtı, Havran şehir merkezi"
+date: "2025-12-25T15:51:36+03:00"
 slug: "seyit-onbasi-aniti-havran-sehir-merkezi"
 description: "## Seyit Onbaşı Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Havran"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.0964661,39.5553131"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyit Onbaşı Anıtı

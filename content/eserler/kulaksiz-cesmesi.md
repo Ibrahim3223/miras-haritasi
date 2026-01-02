@@ -1,18 +1,17 @@
 ---
-title: "Kulaksız Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:24:01+03:00
+title: "Kulaksız Çeşmesi"
+date: "2025-12-25T11:24:01+03:00"
 slug: "kulaksiz-cesmesi"
 description: "## Kulaksız Çeşmesi: Beyoğlu'nun Eski Günlerine Dair Bir Anıt..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kulaksız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.962254,41.038832"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kulaksız Çeşmesi: Beyoğlu'nun Eski Günlerine Dair Bir Anıt

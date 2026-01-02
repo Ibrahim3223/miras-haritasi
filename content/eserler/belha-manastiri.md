@@ -1,18 +1,17 @@
 ---
-title: "Belha Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:58+03:00
+title: "Belha Manastırı"
+date: "2025-12-25T09:53:58+03:00"
 slug: "belha-manastiri"
 description: "### Belha Manastırı..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "34.8242552,38.7907196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Belha Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Şadırvanaltı Camii | Miras Haritası"
-date: 2025-12-24T21:47:29+03:00
+title: "Şadırvanaltı Camii"
+date: "2025-12-24T21:47:29+03:00"
 slug: "sadirvanalti-camii"
 description: "## Şadırvanaltı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/IzİzmirŞadırvanaltıMoschee01.jpg/1200px-IzİzmirŞadırvanaltıMoschee01.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.135111111,38.421166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şadırvanaltı Camii

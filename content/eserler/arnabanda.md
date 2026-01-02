@@ -1,18 +1,17 @@
 ---
-title: "Arnabanda | Miras Haritası"
-date: 2025-12-25T04:56:11+03:00
+title: "Arnabanda"
+date: "2025-12-25T04:56:11+03:00"
 slug: "arnabanda"
 description: "# Arnabanda: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.90196,36.32842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arnabanda: Tarihî Bir Arkeolojik Sit

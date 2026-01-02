@@ -1,18 +1,17 @@
 ---
-title: "Pazaryeri 1 | Miras Haritası"
-date: 2025-12-25T05:35:54+03:00
+title: "Pazaryeri 1"
+date: "2025-12-25T05:35:54+03:00"
 slug: "pazaryeri-1"
 description: "## Pazaryeri 1: Bilecik'te Eski Bir Kentin İzleri..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Pazaryeri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.92955,39.99045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazaryeri 1: Bilecik'te Eski Bir Kentin İzleri

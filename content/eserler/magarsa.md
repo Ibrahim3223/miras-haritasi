@@ -1,18 +1,17 @@
 ---
-title: "Magarsa | Miras Haritası"
-date: 2025-12-25T04:33:23+03:00
+title: "Magarsa"
+date: "2025-12-25T04:33:23+03:00"
 slug: "magarsa"
 description: "# Magarsa Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Magarsus_March_2015_6680_panorama.jpg/1200px-Magarsus_March_2015_6680_panorama.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Karataş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.34619,36.54423"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Magarsa Arkeolojik Sit

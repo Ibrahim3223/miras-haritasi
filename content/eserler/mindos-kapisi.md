@@ -1,18 +1,17 @@
 ---
-title: "Mindos Kapısı | Miras Haritası"
-date: 2025-12-25T13:39:18+03:00
+title: "Mindos Kapısı"
+date: "2025-12-25T13:39:18+03:00"
 slug: "mindos-kapisi"
 description: "## Mindos Kapısı: Bodrum'un Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Myndos_Gate_2.jpg/1200px-Myndos_Gate_2.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.413412,37.037658"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mindos Kapısı: Bodrum'un Gizemli Anıtı

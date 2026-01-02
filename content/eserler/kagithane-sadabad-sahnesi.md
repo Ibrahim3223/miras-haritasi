@@ -1,18 +1,17 @@
 ---
-title: "Kağıthane Sadabad Sahnesi | Miras Haritası"
-date: 2025-12-25T16:19:26+03:00
+title: "Kağıthane Sadabad Sahnesi"
+date: "2025-12-25T16:19:26+03:00"
 slug: "kagithane-sadabad-sahnesi"
 description: "## Kağıthane Sadabad Sahnesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kağıthane"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.97169135,41.07985904"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kağıthane Sadabad Sahnesi

@@ -1,18 +1,17 @@
 ---
-title: "Yağcılar Camii | Miras Haritası"
-date: 2025-12-25T00:18:14+03:00
+title: "Yağcılar Camii"
+date: "2025-12-25T00:18:14+03:00"
 slug: "yagcilar-camii"
 description: "## Yağcılar Camii: Artvin'in Yüzyıllardır Bakılan Göz Bebekleri..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7451998,40.9436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yağcılar Camii: Artvin'in Yüzyıllardır Bakılan Göz Bebekleri

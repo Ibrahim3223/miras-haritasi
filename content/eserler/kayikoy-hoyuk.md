@@ -1,18 +1,17 @@
 ---
-title: "Kayıköy Höyük | Miras Haritası"
-date: 2025-12-25T05:28:53+03:00
+title: "Kayıköy Höyük"
+date: "2025-12-25T05:28:53+03:00"
 slug: "kayikoy-hoyuk"
 description: "## Kayıköy Höyük: Kütahya'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Tavşanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.5411,39.512617"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayıköy Höyük: Kütahya'nın Gizli Ören Yeri

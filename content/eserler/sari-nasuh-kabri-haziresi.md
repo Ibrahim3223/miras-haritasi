@@ -1,18 +1,17 @@
 ---
-title: "Sarı Nasuh Kabri Haziresi | Miras Haritası"
-date: 2025-12-25T16:07:06+03:00
+title: "Sarı Nasuh Kabri Haziresi"
+date: "2025-12-25T16:07:06+03:00"
 slug: "sari-nasuh-kabri-haziresi"
 description: "### Sarı Nasuh Kabri Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.942931,41.016924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarı Nasuh Kabri Haziresi

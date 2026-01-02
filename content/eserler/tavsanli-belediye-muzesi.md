@@ -1,18 +1,17 @@
 ---
-title: "Tavşanlı Belediye Müzesi | Miras Haritası"
-date: 2025-12-25T03:55:15+03:00
+title: "Tavşanlı Belediye Müzesi"
+date: "2025-12-25T03:55:15+03:00"
 slug: "tavsanli-belediye-muzesi"
 description: "### Tavşanlı Belediye Müzesi: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Tavşanlı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.491108,39.544009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tavşanlı Belediye Müzesi: Kütahya'nın Tarihi ve Kültürel Mirası

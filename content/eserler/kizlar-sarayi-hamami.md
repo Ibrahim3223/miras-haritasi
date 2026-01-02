@@ -1,18 +1,17 @@
 ---
-title: "Kızlar Sarayı Hamamı | Miras Haritası"
-date: 2025-12-25T16:49:21+03:00
+title: "Kızlar Sarayı Hamamı"
+date: "2025-12-25T16:49:21+03:00"
 slug: "kizlar-sarayi-hamami"
 description: "### Kızlar Sarayı Hamamı..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.8308372,40.6528511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızlar Sarayı Hamamı

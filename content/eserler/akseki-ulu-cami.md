@@ -1,18 +1,17 @@
 ---
-title: "Akseki Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:03:19+03:00
+title: "Akseki Ulu Cami"
+date: "2025-12-24T23:03:19+03:00"
 slug: "akseki-ulu-cami"
 description: "### Akseki Ulu Cami..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Akseki"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.7899399,37.0476379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akseki Ulu Cami

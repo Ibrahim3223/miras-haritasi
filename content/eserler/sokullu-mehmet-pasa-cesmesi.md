@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:20:13+03:00
+title: "Sokullu Mehmet Paşa Çeşmesi"
+date: "2025-12-25T12:20:13+03:00"
 slug: "sokullu-mehmet-pasa-cesmesi"
 description: "## Sokullu Mehmet Paşa Çeşmesi: İstanbul'un Gizli Çeşme Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9342709,41.0473557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokullu Mehmet Paşa Çeşmesi: İstanbul'un Gizli Çeşme Mirası

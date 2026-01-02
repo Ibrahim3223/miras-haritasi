@@ -1,18 +1,17 @@
 ---
-title: "Taşçılar Mescidi | Miras Haritası"
-date: 2025-12-24T23:15:27+03:00
+title: "Taşçılar Mescidi"
+date: "2025-12-24T23:15:27+03:00"
 slug: "tascilar-mescidi"
 description: "### Taşçılar Mescidi: Manisa'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4319382,38.6121101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taşçılar Mescidi: Manisa'nın Tarihî Bir Mirası

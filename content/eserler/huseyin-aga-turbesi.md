@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:26+03:00
+title: "Hüseyin Ağa Türbesi"
+date: "2025-12-25T14:33:26+03:00"
 slug: "huseyin-aga-turbesi"
 description: "**Hüseyin Ağa Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.95625,41.024149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hüseyin Ağa Türbesi**

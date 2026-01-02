@@ -1,18 +1,17 @@
 ---
-title: "Boyacıoğlu Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:43:18+03:00
+title: "Boyacıoğlu Çeşmesi 1"
+date: "2025-12-25T10:43:18+03:00"
 slug: "boyacioglu-cesmesi-1"
 description: "## Boyacıoğlu Çeşmesi 1: Afyonkarahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5391502,38.7600098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boyacıoğlu Çeşmesi 1: Afyonkarahisar'ın Tarihi ve Kültürel Mirası

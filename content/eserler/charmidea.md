@@ -1,18 +1,17 @@
 ---
-title: "Charmidea | Miras Haritası"
-date: 2025-12-25T04:47:14+03:00
+title: "Charmidea"
+date: "2025-12-25T04:47:14+03:00"
 slug: "charmidea"
 description: "## Charmidea Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.294538,40.459405"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Charmidea Arkeolojik Sit

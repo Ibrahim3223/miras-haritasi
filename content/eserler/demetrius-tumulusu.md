@@ -1,18 +1,17 @@
 ---
-title: "Demetrius Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:26:56+03:00
+title: "Demetrius Tümülüsü"
+date: "2025-12-25T07:26:56+03:00"
 slug: "demetrius-tumulusu"
 description: "### Demetrius Tümülüsü..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.1681671,39.9607887"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Demetrius Tümülüsü

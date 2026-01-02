@@ -1,18 +1,17 @@
 ---
-title: "Türkiye İş Bankası Resim Heykel Müzesi | Miras Haritası"
-date: 2025-12-25T03:47:30+03:00
+title: "Türkiye İş Bankası Resim Heykel Müzesi"
+date: "2025-12-25T03:47:30+03:00"
 slug: "turkiye-is-bankasi-resim-heykel-muzesi"
 description: "## Türkiye İş Bankası Resim Heykel Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9757328,41.0315399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türkiye İş Bankası Resim Heykel Müzesi

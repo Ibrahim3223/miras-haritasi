@@ -1,18 +1,17 @@
 ---
-title: "Beyci Köyiçi Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:43+03:00
+title: "Beyci Köyiçi Tümülüsü"
+date: "2025-12-25T07:40:43+03:00"
 slug: "beyci-koyici-tumulusu"
 description: "# Beyci Köyiçi Tümülüsü: Tarih, Kültür ve Doğa Harmanlanmış Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0797787,42.0490265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Beyci Köyiçi Tümülüsü: Tarih, Kültür ve Doğa Harmanlanmış Bir Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Kuruçeşme Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:59:20+03:00
+title: "Kuruçeşme Tümülüsü"
+date: "2025-12-25T07:59:20+03:00"
 slug: "kurucesme-tumulusu"
 description: "**Kuruçeşme Tümülüsü: Tekirdağ'ın Gizli Cenneti**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8108807,41.4797211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kuruçeşme Tümülüsü: Tekirdağ'ın Gizli Cenneti**

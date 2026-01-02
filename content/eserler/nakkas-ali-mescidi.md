@@ -1,18 +1,17 @@
 ---
-title: "Nakkaş Ali Mescidi | Miras Haritası"
-date: 2025-12-25T01:04:36+03:00
+title: "Nakkaş Ali Mescidi"
+date: "2025-12-25T01:04:36+03:00"
 slug: "nakkas-ali-mescidi"
 description: "### Nakkaş Ali Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nakkaş_ali_mescidi_bursa_-_panoramio.jpg/1200px-Nakkaş_ali_mescidi_bursa_-_panoramio.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0536938,40.1855392"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Nakkaş Ali Mescidi

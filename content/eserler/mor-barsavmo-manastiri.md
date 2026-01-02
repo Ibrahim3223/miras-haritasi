@@ -1,18 +1,17 @@
 ---
-title: "Mor Barsavmo Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:29+03:00
+title: "Mor Barsavmo Manastırı"
+date: "2025-12-25T09:55:29+03:00"
 slug: "mor-barsavmo-manastiri"
 description: "### Mor Barsavmo Manastırı..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "İdil"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.6285515,37.305542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mor Barsavmo Manastırı

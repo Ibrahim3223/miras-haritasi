@@ -1,18 +1,17 @@
 ---
-title: "Karşıkır Mevkii | Miras Haritası"
-date: 2025-12-25T05:32:22+03:00
+title: "Karşıkır Mevkii"
+date: "2025-12-25T05:32:22+03:00"
 slug: "karsikir-mevkii"
 description: "## Karşıkır Mevkii: Afyonkarahisar'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.185267,38.476433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karşıkır Mevkii: Afyonkarahisar'ın Gizli Hazinesi

@@ -1,18 +1,17 @@
 ---
-title: "Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:21+03:00
+title: "Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi"
+date: "2025-12-25T15:26:21+03:00"
 slug: "pir-i-san-cerkesli-haci-mustafa-efendi-turbesi"
 description: "## Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çerkeş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8942108,40.813942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi

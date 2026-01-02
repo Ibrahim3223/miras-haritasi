@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Cibali | Miras Haritası"
-date: 2025-12-25T11:58:17+03:00
+title: "Çeşme, Cibali"
+date: "2025-12-25T11:58:17+03:00"
 slug: "cesme-cibali"
 description: "## Çeşme, Cibali: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9584312,41.0244598"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Cibali: İstanbul'un Gizli Çeşmesi

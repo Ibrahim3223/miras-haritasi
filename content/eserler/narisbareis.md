@@ -1,18 +1,17 @@
 ---
-title: "Narisbareis | Miras Haritası"
-date: 2025-12-25T08:09:31+03:00
+title: "Narisbareis"
+date: "2025-12-25T08:09:31+03:00"
 slug: "narisbareis"
 description: "## Narisbareis: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Narisbareis: Bir Arkeolojik Sitin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Üçbaş Medresesi | Miras Haritası"
-date: 2025-12-25T17:28:24+03:00
+title: "Üçbaş Medresesi"
+date: "2025-12-25T17:28:24+03:00"
 slug: "ucbas-medresesi"
 description: "## Üçbaş Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.943113,41.025025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçbaş Medresesi

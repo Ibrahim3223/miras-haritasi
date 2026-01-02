@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:09:35+03:00
+title: "Ayazma Sokak Çeşmesi"
+date: "2025-12-25T10:09:35+03:00"
 slug: "ayazma-sokak-cesmesi"
 description: "### Ayazma Sokak Çeşmesi: Küçükçekmece'de Bir Tarihî Anıtsal Abide..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ayazma_Sokak_Çeşmesi.jpg/1200px-Ayazma_Sokak_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.771225,40.9897766"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ayazma Sokak Çeşmesi: Küçükçekmece'de Bir Tarihî Anıtsal Abide

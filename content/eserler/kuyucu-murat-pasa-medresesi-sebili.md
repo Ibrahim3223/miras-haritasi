@@ -1,18 +1,17 @@
 ---
-title: "Kuyucu Murat Paşa Medresesi Sebili | Miras Haritası"
-date: 2025-12-25T13:05:21+03:00
+title: "Kuyucu Murat Paşa Medresesi Sebili"
+date: "2025-12-25T13:05:21+03:00"
 slug: "kuyucu-murat-pasa-medresesi-sebili"
 description: "**Kuyucu Murat Paşa Medresesi Sebili**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.960343,41.011372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kuyucu Murat Paşa Medresesi Sebili**

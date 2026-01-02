@@ -1,18 +1,17 @@
 ---
-title: "İnegöl Mobilya Ağaç Sanayi Müzesi | Miras Haritası"
-date: 2025-12-25T03:45:42+03:00
+title: "İnegöl Mobilya Ağaç Sanayi Müzesi"
+date: "2025-12-25T03:45:42+03:00"
 slug: "inegol-mobilya-agac-sanayi-muzesi"
 description: "## İnegöl Mobilya Ağaç Sanayi Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.5130463,40.0782242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnegöl Mobilya Ağaç Sanayi Müzesi

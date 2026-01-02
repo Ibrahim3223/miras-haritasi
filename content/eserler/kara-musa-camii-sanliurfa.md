@@ -1,18 +1,17 @@
 ---
-title: "Kara Musa Camii, Şanlıurfa | Miras Haritası"
-date: 2025-12-25T01:10:58+03:00
+title: "Kara Musa Camii, Şanlıurfa"
+date: "2025-12-25T01:10:58+03:00"
 slug: "kara-musa-camii-sanliurfa"
 description: "## Kara Musa Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7968597,37.1512489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Musa Camii

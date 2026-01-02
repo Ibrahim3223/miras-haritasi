@@ -1,18 +1,17 @@
 ---
-title: "Mihal Gazi Hamamı | Miras Haritası"
-date: 2025-12-25T16:47:35+03:00
+title: "Mihal Gazi Hamamı"
+date: "2025-12-25T16:47:35+03:00"
 slug: "mihal-gazi-hamami"
 description: "**Mihal Gazi Hamamı**..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Gölpazarı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.3179626,40.2832146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mihal Gazi Hamamı**

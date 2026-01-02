@@ -1,18 +1,17 @@
 ---
-title: "Şeytan Köprüsü, Sille | Miras Haritası"
-date: 2025-12-25T02:53:53+03:00
+title: "Şeytan Köprüsü, Sille"
+date: "2025-12-25T02:53:53+03:00"
 slug: "seytan-koprusu-sille"
 description: "## Şeytan Köprüsü: Konya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Şeytan_Köprüsü,_Sille.jpg/1200px-Şeytan_Köprüsü,_Sille.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.4121284,37.9292793"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeytan Köprüsü: Konya'nın Gizli Cenneti

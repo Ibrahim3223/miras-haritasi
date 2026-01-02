@@ -1,18 +1,17 @@
 ---
-title: "Kurunta Kabartması | Miras Haritası"
-date: 2025-12-25T13:41:16+03:00
+title: "Kurunta Kabartması"
+date: "2025-12-25T13:41:16+03:00"
 slug: "kurunta-kabartmasi"
 description: "### Kurunta Kabartması..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Relief_von_Hatip_02.jpg/1200px-Relief_von_Hatip_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kurunta Kabartması

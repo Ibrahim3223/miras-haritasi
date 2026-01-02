@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İzzettin İsmail Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:22+03:00
+title: "Şeyh İzzettin İsmail Efendi Türbesi"
+date: "2025-12-25T14:45:22+03:00"
 slug: "seyh-izzettin-ismail-efendi-turbesi"
 description: "## Şeyh İzzettin İsmail Efendi Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Hendek"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.665777706,40.807834086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh İzzettin İsmail Efendi Türbesi

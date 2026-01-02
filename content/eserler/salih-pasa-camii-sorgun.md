@@ -1,18 +1,17 @@
 ---
-title: "Salih Paşa Camii, Sorgun | Miras Haritası"
-date: 2025-12-25T00:31:28+03:00
+title: "Salih Paşa Camii, Sorgun"
+date: "2025-12-25T00:31:28+03:00"
 slug: "salih-pasa-camii-sorgun"
 description: "**Salih Paşa Camii: Sorgun'un Tarihî Mirası**..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sorgun"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1827965,39.8107224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Salih Paşa Camii: Sorgun'un Tarihî Mirası**

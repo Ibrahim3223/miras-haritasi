@@ -1,18 +1,17 @@
 ---
-title: "Şaraga Höyük | Miras Haritası"
-date: 2025-12-25T05:53:48+03:00
+title: "Şaraga Höyük"
+date: "2025-12-25T05:53:48+03:00"
 slug: "saraga-hoyuk"
 description: "## Şaraga Höyük: Gaziantep'in Gizli Çarıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Karkamış"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0010091,36.9195807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şaraga Höyük: Gaziantep'in Gizli Çarıtı

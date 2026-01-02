@@ -1,18 +1,17 @@
 ---
-title: "İlyasbey Köy Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:14+03:00
+title: "İlyasbey Köy Hamamı"
+date: "2025-12-25T16:46:14+03:00"
 slug: "ilyasbey-koy-hamami"
 description: "## İlyasbey Köy Hamamı: Bilecik'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.8683434,40.2180824"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlyasbey Köy Hamamı: Bilecik'in Tarihi Bir Mirası

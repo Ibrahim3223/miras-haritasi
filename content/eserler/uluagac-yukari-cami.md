@@ -1,18 +1,17 @@
 ---
-title: "Uluağaç Yukarı Cami | Miras Haritası"
-date: 2025-12-24T23:17:01+03:00
+title: "Uluağaç Yukarı Cami"
+date: "2025-12-24T23:17:01+03:00"
 slug: "uluagac-yukari-cami"
 description: "### Uluağaç Yukarı Cami..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8363647,38.0452652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uluağaç Yukarı Cami

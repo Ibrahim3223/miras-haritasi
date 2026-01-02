@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Köprüsü, Çorlu | Miras Haritası"
-date: 2025-12-25T03:03:20+03:00
+title: "Sokullu Mehmet Paşa Köprüsü, Çorlu"
+date: "2025-12-25T03:03:20+03:00"
 slug: "sokullu-mehmet-pasa-koprusu-corlu"
 description: "## Sokullu Mehmet Paşa Köprüsü: Ergene Nehrinin Tarihî Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Ergene"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7772503,41.1808586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokullu Mehmet Paşa Köprüsü: Ergene Nehrinin Tarihî Köprüsü

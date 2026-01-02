@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Paşa Camii, Geyve | Miras Haritası"
-date: 2025-12-25T01:06:59+03:00
+title: "Süleyman Paşa Camii, Geyve"
+date: "2025-12-25T01:06:59+03:00"
 slug: "suleyman-pasa-camii-geyve"
 description: "## Süleyman Paşa Camii, Geyve..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Geyve"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2917213,40.5072441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Paşa Camii, Geyve

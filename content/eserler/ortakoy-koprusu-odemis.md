@@ -1,18 +1,17 @@
 ---
-title: "Ortaköy Köprüsü, Ödemiş | Miras Haritası"
-date: 2025-12-25T02:49:01+03:00
+title: "Ortaköy Köprüsü, Ödemiş"
+date: "2025-12-25T02:49:01+03:00"
 slug: "ortakoy-koprusu-odemis"
 description: "## Ortaköy Köprüsü: Ödemiş'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.9230003,38.2556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaköy Köprüsü: Ödemiş'in Tarihî ve Kültürel Mirası

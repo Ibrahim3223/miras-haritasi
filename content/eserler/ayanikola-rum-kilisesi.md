@@ -1,18 +1,17 @@
 ---
-title: "Ayanikola Rum Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:32+03:00
+title: "Ayanikola Rum Kilisesi"
+date: "2025-12-25T09:12:32+03:00"
 slug: "ayanikola-rum-kilisesi"
 description: "## Ayanikola Rum Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.068575,41.120354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayanikola Rum Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Sekbanbaşı Camii | Miras Haritası"
-date: 2025-12-24T21:54:46+03:00
+title: "Sekbanbaşı Camii"
+date: "2025-12-24T21:54:46+03:00"
 slug: "sekbanbasi-camii"
 description: "## Sekbanbaşı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sekban_basi.jpg/1200px-Sekban_basi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.955805555,41.016527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sekbanbaşı Camii

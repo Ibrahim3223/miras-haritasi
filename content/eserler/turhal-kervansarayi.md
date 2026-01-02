@@ -1,18 +1,17 @@
 ---
-title: "Turhal Kervansarayı | Miras Haritası"
-date: 2025-12-25T13:39:26+03:00
+title: "Turhal Kervansarayı"
+date: "2025-12-25T13:39:26+03:00"
 slug: "turhal-kervansarayi"
 description: "### Turhal Kervansarayı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Turhal Kervansarayı

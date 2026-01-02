@@ -1,18 +1,17 @@
 ---
-title: "Ankara Kalesi | Miras Haritası"
-date: 2025-12-25T01:13:43+03:00
+title: "Ankara Kalesi"
+date: "2025-12-25T01:13:43+03:00"
 slug: "ankara-kalesi"
 description: "## Ankara Kalesi: Tarihe Adanan Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ankara_Castle.jpg/1200px-Ankara_Castle.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.865,39.94166667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ankara Kalesi: Tarihe Adanan Bir Miras

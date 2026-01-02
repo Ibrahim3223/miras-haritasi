@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Lale Vakfı Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:19+03:00
+title: "İstanbul Lale Vakfı Müzesi"
+date: "2025-12-25T03:49:19+03:00"
 slug: "istanbul-lale-vakfi-muzesi"
 description: "## İstanbul Lale Vakfı Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.053421767,41.10676182"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Lale Vakfı Müzesi

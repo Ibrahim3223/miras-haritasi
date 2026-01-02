@@ -1,18 +1,17 @@
 ---
-title: "Kır Çeşme | Miras Haritası"
-date: 2025-12-25T10:29:12+03:00
+title: "Kır Çeşme"
+date: "2025-12-25T10:29:12+03:00"
 slug: "kir-cesme"
 description: "## Kır Çeşme: Aydın'ın Tarihi Çeşmesinde Gizlenen Özellikler..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.1083641,37.8857193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kır Çeşme: Aydın'ın Tarihi Çeşmesinde Gizlenen Özellikler

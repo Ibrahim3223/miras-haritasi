@@ -1,18 +1,17 @@
 ---
-title: "İnece Koyunbaba Yolu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:35+03:00
+title: "İnece Koyunbaba Yolu Tümülüsü"
+date: "2025-12-25T07:52:35+03:00"
 slug: "inece-koyunbaba-yolu-tumulusu"
 description: "## İnece Koyunbaba Yolu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0706329,41.696579"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnece Koyunbaba Yolu Tümülüsü

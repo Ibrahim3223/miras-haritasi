@@ -1,18 +1,17 @@
 ---
-title: "Küçük Sinan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:39:52+03:00
+title: "Küçük Sinan Çeşmesi"
+date: "2025-12-25T11:39:52+03:00"
 slug: "kucuk-sinan-cesmesi"
 description: "## Küçük Sinan Çeşmesi: Karatay, Konya'nın Göz Alıcı Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5073166,37.8864441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Sinan Çeşmesi: Karatay, Konya'nın Göz Alıcı Çeşmesi

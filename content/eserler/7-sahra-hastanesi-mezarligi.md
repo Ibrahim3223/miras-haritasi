@@ -1,18 +1,17 @@
 ---
-title: "7. Sahra Hastanesi Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:54:07+03:00
+title: "7. Sahra Hastanesi Mezarlığı"
+date: "2025-12-25T15:54:07+03:00"
 slug: "7-sahra-hastanesi-mezarligi"
 description: "### 7. Sahra Hastanesi Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/7th_Field_Ambulance_Cemetery.jpg/1200px-7th_Field_Ambulance_Cemetery.jpg"
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Büyükanafarta"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.281175,40.26155"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### 7. Sahra Hastanesi Mezarlığı

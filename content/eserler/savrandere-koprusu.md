@@ -1,18 +1,17 @@
 ---
-title: "Savrandere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:04+03:00
+title: "Savrandere Köprüsü"
+date: "2025-12-25T02:18:04+03:00"
 slug: "savrandere-koprusu"
 description: "## Savrandere Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.881218,37.7462425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Savrandere Köprüsü

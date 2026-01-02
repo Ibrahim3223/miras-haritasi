@@ -1,18 +1,17 @@
 ---
-title: "Sille Ak Camii | Miras Haritası"
-date: 2025-12-24T23:05:29+03:00
+title: "Sille Ak Camii"
+date: "2025-12-24T23:05:29+03:00"
 slug: "sille-ak-camii"
 description: "## Sille Ak Camii: Konya'nın Bir Ören Yeri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4197807,37.9283638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sille Ak Camii: Konya'nın Bir Ören Yeri

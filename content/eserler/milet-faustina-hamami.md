@@ -1,18 +1,17 @@
 ---
-title: "Milet Faustina Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:51+03:00
+title: "Milet Faustina Hamamı"
+date: "2025-12-25T16:46:51+03:00"
 slug: "milet-faustina-hamami"
 description: "## Milet Faustina Hamamı: İyonya'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.2766933,37.5284462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milet Faustina Hamamı: İyonya'nın Gizli Çarpıntısı

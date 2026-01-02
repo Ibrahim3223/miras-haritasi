@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Sinan Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:08:18+03:00
+title: "Aşağı Sinan Ağa Çeşmesi"
+date: "2025-12-25T10:08:18+03:00"
 slug: "asagi-sinan-aga-cesmesi"
 description: "### Aşağı Sinan Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aşağı_Sinan_Ağa_Çeşmesi.jpg/1200px-Aşağı_Sinan_Ağa_Çeşmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.944882,41.036177"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Aşağı Sinan Ağa Çeşmesi

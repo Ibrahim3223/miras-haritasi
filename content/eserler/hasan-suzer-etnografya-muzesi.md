@@ -1,18 +1,17 @@
 ---
-title: "Hasan Süzer Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:18:19+03:00
+title: "Hasan Süzer Etnografya Müzesi"
+date: "2025-12-25T03:18:19+03:00"
 slug: "hasan-suzer-etnografya-muzesi"
 description: "## Hasan Süzer Etnografya Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.37753,37.06144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Süzer Etnografya Müzesi

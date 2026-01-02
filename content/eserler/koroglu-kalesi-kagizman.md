@@ -1,18 +1,17 @@
 ---
-title: "Köroğlu Kalesi, Kağızman | Miras Haritası"
-date: 2025-12-25T01:43:48+03:00
+title: "Köroğlu Kalesi, Kağızman"
+date: "2025-12-25T01:43:48+03:00"
 slug: "koroglu-kalesi-kagizman"
 description: "## Köroğlu Kalesi..."
 featured_image: ""
 province: "Kars Oblastı"
-iller: ["Kars Oblastı"]
+iller: '["Kars Oblastı"]'
 district: "Kağızman"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.9853325,40.2405243"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köroğlu Kalesi

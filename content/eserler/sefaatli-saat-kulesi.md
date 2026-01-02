@@ -1,18 +1,17 @@
 ---
-title: "Şefaatli Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:22:33+03:00
+title: "Şefaatli Saat Kulesi"
+date: "2025-12-25T17:22:33+03:00"
 slug: "sefaatli-saat-kulesi"
 description: "## Şefaatli Saat Kulesi: Yozgat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Şefaatli"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "34.758083333,39.499444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şefaatli Saat Kulesi: Yozgat'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sivri Kulübeler Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:36:01+03:00
+title: "Sivri Kulübeler Tümülüsü"
+date: "2025-12-25T07:36:01+03:00"
 slug: "sivri-kulubeler-tumulusu"
 description: "## Sivri Kulübeler Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.929296811,41.828801831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivri Kulübeler Tümülüsü

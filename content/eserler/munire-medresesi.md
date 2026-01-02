@@ -1,18 +1,17 @@
 ---
-title: "Münire Medresesi | Miras Haritası"
-date: 2025-12-25T17:42:20+03:00
+title: "Münire Medresesi"
+date: "2025-12-25T17:42:20+03:00"
 slug: "munire-medresesi"
 description: "**Münire Medresesi**..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "33.7752991,41.3768883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Münire Medresesi**

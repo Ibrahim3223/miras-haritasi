@@ -1,18 +1,17 @@
 ---
-title: "Bektaş Höyük | Miras Haritası"
-date: 2025-12-25T06:14:29+03:00
+title: "Bektaş Höyük"
+date: "2025-12-25T06:14:29+03:00"
 slug: "bektas-hoyuk"
 description: "# Bektaş Höyük: Geçmişin İzleri Mardin'de..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.44104265,37.124539109"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bektaş Höyük: Geçmişin İzleri Mardin'de

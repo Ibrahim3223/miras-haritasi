@@ -1,18 +1,17 @@
 ---
-title: "Esirüddin Ebheri Kümbeti | Miras Haritası"
-date: 2025-12-25T13:53:11+03:00
+title: "Esirüddin Ebheri Kümbeti"
+date: "2025-12-25T13:53:11+03:00"
 slug: "esiruddin-ebheri-kumbeti"
 description: "## Esirüddin Ebheri Kümbeti: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Çay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.1184525,38.5990673"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esirüddin Ebheri Kümbeti: Afyonkarahisar'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Manyas Kalesi | Miras Haritası"
-date: 2025-12-25T05:24:58+03:00
+title: "Manyas Kalesi"
+date: "2025-12-25T05:24:58+03:00"
 slug: "manyas-kalesi"
 description: "## Manyas Kalesi: Tarihin Gizemi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Manyas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0518799,40.0040169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manyas Kalesi: Tarihin Gizemi

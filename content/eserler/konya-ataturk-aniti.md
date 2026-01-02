@@ -1,18 +1,17 @@
 ---
-title: "Konya Atatürk Anıtı | Miras Haritası"
-date: 2025-12-25T15:41:58+03:00
+title: "Konya Atatürk Anıtı"
+date: "2025-12-25T15:41:58+03:00"
 slug: "konya-ataturk-aniti"
 description: "## Konya Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Konya_Atatürk_Anıtı.jpg/1200px-Konya_Atatürk_Anıtı.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.48525,37.867694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Konya Atatürk Anıtı

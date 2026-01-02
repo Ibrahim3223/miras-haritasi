@@ -1,18 +1,17 @@
 ---
-title: "Gömeniç Kalesi | Miras Haritası"
-date: 2025-12-25T01:38:02+03:00
+title: "Gömeniç Kalesi"
+date: "2025-12-25T01:38:02+03:00"
 slug: "gomenic-kalesi"
 description: "## Gömeniç Kalesi: Balıkesir'in Gizli Şöhreti..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "İvrindi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5717697,39.6380348"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gömeniç Kalesi: Balıkesir'in Gizli Şöhreti

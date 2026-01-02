@@ -1,18 +1,17 @@
 ---
-title: "Jurassic Land | Miras Haritası"
-date: 2025-12-25T04:02:23+03:00
+title: "Jurassic Land"
+date: "2025-12-25T04:02:23+03:00"
 slug: "jurassic-land"
 description: "## Jurassic Land Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Jurassic Land Müzesi

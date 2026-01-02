@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Sinaneddin Türbesi | Miras Haritası"
-date: 2025-12-25T15:02:10+03:00
+title: "Yusuf Sinaneddin Türbesi"
+date: "2025-12-25T15:02:10+03:00"
 slug: "yusuf-sinaneddin-turbesi"
 description: "### Yusuf Sinaneddin Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8246155,40.6489716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yusuf Sinaneddin Türbesi

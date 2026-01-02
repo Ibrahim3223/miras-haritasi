@@ -1,18 +1,17 @@
 ---
-title: "Aşağıseyit Höyüğü | Miras Haritası"
-date: 2025-12-25T05:59:39+03:00
+title: "Aşağıseyit Höyüğü"
+date: "2025-12-25T05:59:39+03:00"
 slug: "asagiseyit-hoyugu"
 description: "## Aşağıseyit Höyükleri: Denizli'nin Gizli Tarihi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.4778767,38.0533028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağıseyit Höyükleri: Denizli'nin Gizli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Ferahşad Bey Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:23+03:00
+title: "Ferahşad Bey Medresesi"
+date: "2025-12-25T17:32:23+03:00"
 slug: "ferahsad-bey-medresesi"
 description: "## Ferahşad Bey Medresesi: Demirözü'de Bir Kültür Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Demirözü"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "39.7510452,40.133709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferahşad Bey Medresesi: Demirözü'de Bir Kültür Mirası

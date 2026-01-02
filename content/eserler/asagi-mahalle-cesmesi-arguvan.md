@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Mahalle Çeşmesi, Arguvan | Miras Haritası"
-date: 2025-12-25T12:27:22+03:00
+title: "Aşağı Mahalle Çeşmesi, Arguvan"
+date: "2025-12-25T12:27:22+03:00"
 slug: "asagi-mahalle-cesmesi-arguvan"
 description: "## Aşağı Mahalle Çeşmesi, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.326957469,38.754153282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Mahalle Çeşmesi, Arguvan

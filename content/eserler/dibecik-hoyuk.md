@@ -1,18 +1,17 @@
 ---
-title: "Dibecik Höyük | Miras Haritası"
-date: 2025-12-25T06:23:13+03:00
+title: "Dibecik Höyük"
+date: "2025-12-25T06:23:13+03:00"
 slug: "dibecik-hoyuk"
 description: "## Dibecik Höyük: Gaziantep'in Gizli İncisi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.6495338,36.816514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dibecik Höyük: Gaziantep'in Gizli İncisi

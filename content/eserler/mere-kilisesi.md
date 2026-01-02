@@ -1,18 +1,17 @@
 ---
-title: "Mere Kilisesi | Miras Haritası"
-date: 2025-12-25T08:56:19+03:00
+title: "Mere Kilisesi"
+date: "2025-12-25T08:56:19+03:00"
 slug: "mere-kilisesi"
 description: "### Mere Kilisesi: Posof'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mere_Kilisesi.jpg/1200px-Mere_Kilisesi.jpg"
 province: "Posof"
-iller: ["Posof"]
+iller: '["Posof"]'
 district: "Çakırkoç"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.717145073,41.495787677"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mere Kilisesi: Posof'un Gizli Cenneti

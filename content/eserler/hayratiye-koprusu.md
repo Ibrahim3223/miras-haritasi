@@ -1,18 +1,17 @@
 ---
-title: "Hayratiye Köprüsü | Miras Haritası"
-date: 2025-12-25T02:19:41+03:00
+title: "Hayratiye Köprüsü"
+date: "2025-12-25T02:19:41+03:00"
 slug: "hayratiye-koprusu"
 description: "## Hayratiye Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9665489,41.0247841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hayratiye Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Vakıflar Hamamı | Miras Haritası"
-date: 2025-12-25T16:58:32+03:00
+title: "Vakıflar Hamamı"
+date: "2025-12-25T16:58:32+03:00"
 slug: "vakiflar-hamami"
 description: "## Vakıflar Hamamı: Muğla'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.3660316,37.2179108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vakıflar Hamamı: Muğla'nın Tarihi Bir Mirası

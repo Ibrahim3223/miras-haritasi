@@ -1,18 +1,17 @@
 ---
-title: "Tepedelen Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:09:31+03:00
+title: "Tepedelen Çeşmesi"
+date: "2025-12-25T11:09:31+03:00"
 slug: "tepedelen-cesmesi"
 description: "## Tepedelen Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tepedelen_Fountain_05.jpg/1200px-Tepedelen_Fountain_05.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cibali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.958381,41.021986"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tepedelen Çeşmesi

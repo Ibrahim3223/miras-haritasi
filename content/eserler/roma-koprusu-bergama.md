@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Bergama | Miras Haritası"
-date: 2025-12-25T02:45:53+03:00
+title: "Roma Köprüsü, Bergama"
+date: "2025-12-25T02:45:53+03:00"
 slug: "roma-koprusu-bergama"
 description: "## Roma Köprüsü, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.1473885,39.0767746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Bergama

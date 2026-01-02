@@ -1,18 +1,17 @@
 ---
-title: "Tahtalı Köy Müzesi | Miras Haritası"
-date: 2025-12-25T03:41:42+03:00
+title: "Tahtalı Köy Müzesi"
+date: "2025-12-25T03:41:42+03:00"
 slug: "tahtali-koy-muzesi"
 description: "## Tahtalı Köy Müzesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Karamürsel"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.6497822,40.5752831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahtalı Köy Müzesi

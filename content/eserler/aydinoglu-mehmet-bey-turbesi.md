@@ -1,18 +1,17 @@
 ---
-title: "Aydınoğlu Mehmet Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:17+03:00
+title: "Aydınoğlu Mehmet Bey Türbesi"
+date: "2025-12-25T14:19:17+03:00"
 slug: "aydinoglu-mehmet-bey-turbesi"
 description: "### Aydınoğlu Mehmet Bey Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.0669994,38.2565536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aydınoğlu Mehmet Bey Türbesi

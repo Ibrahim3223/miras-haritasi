@@ -1,18 +1,17 @@
 ---
-title: "Dardanos (antik kent) | Miras Haritası"
-date: 2025-12-25T06:48:14+03:00
+title: "Dardanos (antik kent)"
+date: "2025-12-25T06:48:14+03:00"
 slug: "dardanos-antik-kent"
 description: "## Dardanos: Antik Kentin Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Çanakkale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.362777777,40.075833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dardanos: Antik Kentin Gizemi

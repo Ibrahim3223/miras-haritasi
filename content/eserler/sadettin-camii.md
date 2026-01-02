@@ -1,18 +1,17 @@
 ---
-title: "Sadettin Camii | Miras Haritası"
-date: 2025-12-24T22:38:27+03:00
+title: "Sadettin Camii"
+date: "2025-12-24T22:38:27+03:00"
 slug: "sadettin-camii"
 description: "## Sadettin Camii: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.9806976,37.0325089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sadettin Camii: Şanlıurfa'nın Tarihi Bir Mirası

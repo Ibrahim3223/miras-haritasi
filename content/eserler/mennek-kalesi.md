@@ -1,18 +1,17 @@
 ---
-title: "Mennek Kalesi | Miras Haritası"
-date: 2025-12-25T01:42:49+03:00
+title: "Mennek Kalesi"
+date: "2025-12-25T01:42:49+03:00"
 slug: "mennek-kalesi"
 description: "## Mennek Kalesi: Geçmişin Gizemi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karapınar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.7883568,37.7710266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mennek Kalesi: Geçmişin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Çinili Cami Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:48:31+03:00
+title: "Çinili Cami Çeşmeleri"
+date: "2025-12-25T11:48:31+03:00"
 slug: "cinili-cami-cesmeleri"
 description: "## Çinili Cami Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0294666,41.0199165"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çinili Cami Çeşmeleri

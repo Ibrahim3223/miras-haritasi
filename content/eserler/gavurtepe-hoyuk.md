@@ -1,18 +1,17 @@
 ---
-title: "Gavurtepe Höyük | Miras Haritası"
-date: 2025-12-25T07:09:33+03:00
+title: "Gavurtepe Höyük"
+date: "2025-12-25T07:09:33+03:00"
 slug: "gavurtepe-hoyuk"
 description: "### Gavurtepe Höyük..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.520033,38.3391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gavurtepe Höyük

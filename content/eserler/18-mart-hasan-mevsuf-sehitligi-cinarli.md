@@ -1,18 +1,17 @@
 ---
-title: "18 Mart Hasan Mevsuf Şehitliği, Çınarlı | Miras Haritası"
-date: 2025-12-25T15:56:37+03:00
+title: "18 Mart Hasan Mevsuf Şehitliği, Çınarlı"
+date: "2025-12-25T15:56:37+03:00"
 slug: "18-mart-hasan-mevsuf-sehitligi-cinarli"
 description: "### 18 Mart Hasan Mevsuf Şehitliği, Çınarlı Anıtının Tanıtımı..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.371685,40.0855255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### 18 Mart Hasan Mevsuf Şehitliği, Çınarlı Anıtının Tanıtımı

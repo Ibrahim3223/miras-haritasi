@@ -1,18 +1,17 @@
 ---
-title: "Cafer Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:32+03:00
+title: "Cafer Dede Türbesi"
+date: "2025-12-25T14:56:32+03:00"
 slug: "cafer-dede-turbesi"
 description: "## Cafer Dede Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9828281,39.4171257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cafer Dede Türbesi

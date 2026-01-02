@@ -1,18 +1,17 @@
 ---
-title: "Saint Ohan Chapel | Miras Haritası"
-date: 2025-12-25T08:52:39+03:00
+title: "Saint Ohan Chapel"
+date: "2025-12-25T08:52:39+03:00"
 slug: "saint-ohan-chapel"
 description: "## Saint Ohan Chapel..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saint Ohan Chapel

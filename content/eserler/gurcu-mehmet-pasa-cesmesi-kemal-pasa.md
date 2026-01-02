@@ -1,18 +1,17 @@
 ---
-title: "Gürcü Mehmet Paşa Çeşmesi, Kemal Paşa | Miras Haritası"
-date: 2025-12-25T12:03:50+03:00
+title: "Gürcü Mehmet Paşa Çeşmesi, Kemal Paşa"
+date: "2025-12-25T12:03:50+03:00"
 slug: "gurcu-mehmet-pasa-cesmesi-kemal-pasa"
 description: "## Gürcü Mehmet Paşa Çeşmesi, Kemal Paşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.954237,41.0143738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gürcü Mehmet Paşa Çeşmesi, Kemal Paşa

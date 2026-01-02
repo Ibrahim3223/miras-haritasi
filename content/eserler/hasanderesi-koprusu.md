@@ -1,18 +1,17 @@
 ---
-title: "Hasanderesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:29+03:00
+title: "Hasanderesi Köprüsü"
+date: "2025-12-25T02:15:29+03:00"
 slug: "hasanderesi-koprusu"
 description: "## Hasanderesi Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Başakşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.7568493,41.062088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasanderesi Köprüsü

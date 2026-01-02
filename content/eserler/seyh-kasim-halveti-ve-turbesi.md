@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Kasım Halveti ve Türbesi | Miras Haritası"
-date: 2025-12-25T14:48:30+03:00
+title: "Şeyh Kasım Halveti ve Türbesi"
+date: "2025-12-25T14:48:30+03:00"
 slug: "seyh-kasim-halveti-ve-turbesi"
 description: "### Şeyh Kasım Halveti ve Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.736603,37.310602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Kasım Halveti ve Türbesi

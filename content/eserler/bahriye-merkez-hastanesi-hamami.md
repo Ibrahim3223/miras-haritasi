@@ -1,18 +1,17 @@
 ---
-title: "Bahriye Merkez Hastanesi Hamamı | Miras Haritası"
-date: 2025-12-25T17:12:08+03:00
+title: "Bahriye Merkez Hastanesi Hamamı"
+date: "2025-12-25T17:12:08+03:00"
 slug: "bahriye-merkez-hastanesi-hamami"
 description: "## Bahriye Merkez Hastanesi Hamamı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.963448015,41.03327545"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahriye Merkez Hastanesi Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Hamzeti kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:09+03:00
+title: "Hamzeti kilisesi"
+date: "2025-12-25T08:58:09+03:00"
 slug: "hamzeti-kilisesi"
 description: "## Hamzeti Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.548083333,40.812611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamzeti Kilisesi

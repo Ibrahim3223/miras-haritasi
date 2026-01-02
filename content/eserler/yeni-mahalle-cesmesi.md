@@ -1,18 +1,17 @@
 ---
-title: "Yeni Mahalle Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:53+03:00
+title: "Yeni Mahalle Çeşmesi"
+date: "2025-12-25T10:22:53+03:00"
 slug: "yeni-mahalle-cesmesi"
 description: "## Yeni Mahalle Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "25.9120541,40.1967773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Mahalle Çeşmesi

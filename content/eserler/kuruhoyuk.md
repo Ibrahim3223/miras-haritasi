@@ -1,18 +1,17 @@
 ---
-title: "Kuruhöyük | Miras Haritası"
-date: 2025-12-25T06:19:31+03:00
+title: "Kuruhöyük"
+date: "2025-12-25T06:19:31+03:00"
 slug: "kuruhoyuk"
 description: "## Kuruhöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.5664591,39.3297519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuruhöyük Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Abrnesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:06:26+03:00
+title: "Abrnesi Kilisesi"
+date: "2025-12-25T09:06:26+03:00"
 slug: "abrnesi-kilisesi"
 description: "## Abrnesi Kilisesi: Tortum'un Gizli Cenneti..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: ["Tortum ilçesi"]
+iller: '["Tortum ilçesi"]'
 district: "Suyatağı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.512616666,40.453975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abrnesi Kilisesi: Tortum'un Gizli Cenneti

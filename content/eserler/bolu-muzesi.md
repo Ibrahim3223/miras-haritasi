@@ -1,18 +1,17 @@
 ---
-title: "Bolu Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:02+03:00
+title: "Bolu Müzesi"
+date: "2025-12-25T03:14:02+03:00"
 slug: "bolu-muzesi"
 description: "### Bolu Müzesi: Tarihi ve Kültürel Mirasını Tanıyarak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TR_Bolu_asv2021-10_img14_Bolu_Museum.jpg/1200px-TR_Bolu_asv2021-10_img14_Bolu_Museum.jpg"
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.606944444,40.733055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bolu Müzesi: Tarihi ve Kültürel Mirasını Tanıyarak

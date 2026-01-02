@@ -1,18 +1,17 @@
 ---
-title: "Büyükismailçe II Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:21:09+03:00
+title: "Büyükismailçe II Tümülüsü"
+date: "2025-12-25T07:21:09+03:00"
 slug: "buyukismailce-ii-tumulusu"
 description: "### Büyükismailçe II Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.4726276,41.8190308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Büyükismailçe II Tümülüsü

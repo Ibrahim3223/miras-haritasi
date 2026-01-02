@@ -1,18 +1,17 @@
 ---
-title: "Miletopolis | Miras Haritası"
-date: 2025-12-25T07:11:30+03:00
+title: "Miletopolis"
+date: "2025-12-25T07:11:30+03:00"
 slug: "miletopolis"
 description: "## Miletopolis: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mustafakemalpaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3608046,40.2097627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Miletopolis: Bursa'nın Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Bekirli Köyü Eski Cami | Miras Haritası"
-date: 2025-12-24T22:47:42+03:00
+title: "Bekirli Köyü Eski Cami"
+date: "2025-12-24T22:47:42+03:00"
 slug: "bekirli-koyu-eski-cami"
 description: "## Bekirli Köyü Eski Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3001213,41.2261429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekirli Köyü Eski Cami

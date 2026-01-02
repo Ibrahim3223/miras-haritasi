@@ -1,18 +1,17 @@
 ---
-title: "Morkaya Derebaşı Camii | Miras Haritası"
-date: 2025-12-25T00:19:56+03:00
+title: "Morkaya Derebaşı Camii"
+date: "2025-12-25T00:19:56+03:00"
 slug: "morkaya-derebasi-camii"
 description: "## Morkaya Derebaşı Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.1259399,40.840228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Morkaya Derebaşı Camii

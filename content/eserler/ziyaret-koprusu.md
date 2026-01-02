@@ -1,18 +1,17 @@
 ---
-title: "Ziyaret Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:03+03:00
+title: "Ziyaret Köprüsü"
+date: "2025-12-25T02:42:03+03:00"
 slug: "ziyaret-koprusu"
 description: "# Ziyaret Köprüsü: Tarih ve Müzik Anıtı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.6302757,37.2494659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ziyaret Köprüsü: Tarih ve Müzik Anıtı

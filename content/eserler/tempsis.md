@@ -1,18 +1,17 @@
 ---
-title: "Tempsis | Miras Haritası"
-date: 2025-12-25T05:18:23+03:00
+title: "Tempsis"
+date: "2025-12-25T05:18:23+03:00"
 slug: "tempsis"
 description: "## Tempsis: Ödemiş'in Gizli Çarpıntısı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.81408,38.34712"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tempsis: Ödemiş'in Gizli Çarpıntısı

@@ -1,18 +1,17 @@
 ---
-title: "Tacettin İbrahim Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:22:44+03:00
+title: "Tacettin İbrahim Paşa Camii"
+date: "2025-12-24T22:22:44+03:00"
 slug: "tacettin-ibrahim-pasa-camii"
 description: "## Tacettin İbrahim Paşa Camii..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.464972222,40.872388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tacettin İbrahim Paşa Camii

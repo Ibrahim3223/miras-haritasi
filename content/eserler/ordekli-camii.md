@@ -1,18 +1,17 @@
 ---
-title: "Ördekli Camii | Miras Haritası"
-date: 2025-12-25T00:38:59+03:00
+title: "Ördekli Camii"
+date: "2025-12-25T00:38:59+03:00"
 slug: "ordekli-camii"
 description: "## Ördekli Camii: Ankara'nın Gizli Çehresinde Bir Ören..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8604469,39.9434242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ördekli Camii: Ankara'nın Gizli Çehresinde Bir Ören

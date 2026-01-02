@@ -1,18 +1,17 @@
 ---
-title: "Karacabey İmaret Camii | Miras Haritası"
-date: 2025-12-24T23:41:50+03:00
+title: "Karacabey İmaret Camii"
+date: "2025-12-24T23:41:50+03:00"
 slug: "karacabey-imaret-camii"
 description: "## Karacabey İmaret Camii: Bursa'nın Tarihi Bir Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3643398,40.2240143"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karacabey İmaret Camii: Bursa'nın Tarihi Bir Anıtı

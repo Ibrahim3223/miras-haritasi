@@ -1,18 +1,17 @@
 ---
-title: "Pekmez Höyük | Miras Haritası"
-date: 2025-12-25T05:53:11+03:00
+title: "Pekmez Höyük"
+date: "2025-12-25T05:53:11+03:00"
 slug: "pekmez-hoyuk"
 description: "## Pekmez Höyük: Denizli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.811083,38.265133"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pekmez Höyük: Denizli'nin Gizli Anıtı

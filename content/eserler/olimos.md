@@ -1,18 +1,17 @@
 ---
-title: "Olimos | Miras Haritası"
-date: 2025-12-25T04:37:02+03:00
+title: "Olimos"
+date: "2025-12-25T04:37:02+03:00"
 slug: "olimos"
 description: "## Olimos Arkeolojik Siti: Antik Çağın Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.735578,37.378561"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olimos Arkeolojik Siti: Antik Çağın Gizli Mirası

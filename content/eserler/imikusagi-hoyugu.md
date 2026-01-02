@@ -1,18 +1,17 @@
 ---
-title: "İmikuşağı Höyüğü | Miras Haritası"
-date: 2025-12-25T05:50:29+03:00
+title: "İmikuşağı Höyüğü"
+date: "2025-12-25T05:50:29+03:00"
 slug: "imikusagi-hoyugu"
 description: "## İmikuşağı Höyüğü: Elazığ'ın Eski Uygarlığın Gizemi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Baskil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.4503904,38.5253795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmikuşağı Höyüğü: Elazığ'ın Eski Uygarlığın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Kanlı Köprü | Miras Haritası"
-date: 2025-12-25T02:15:21+03:00
+title: "Kanlı Köprü"
+date: "2025-12-25T02:15:21+03:00"
 slug: "kanli-kopru"
 description: "## Kanlı Köprü: Tavas'ta Bir Tarihî Efsane..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9671516,37.5495148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanlı Köprü: Tavas'ta Bir Tarihî Efsane

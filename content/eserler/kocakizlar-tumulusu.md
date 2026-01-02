@@ -1,18 +1,17 @@
 ---
-title: "Kocakızlar Tümülüsü | Miras Haritası"
-date: 2025-12-25T13:15:46+03:00
+title: "Kocakızlar Tümülüsü"
+date: "2025-12-25T13:15:46+03:00"
 slug: "kocakizlar-tumulusu"
 description: "## Kocakızlar Tümülüsü..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Alpu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.9453526,39.780117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocakızlar Tümülüsü

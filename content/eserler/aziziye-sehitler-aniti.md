@@ -1,18 +1,17 @@
 ---
-title: "Aziziye Şehitler Anıtı | Miras Haritası"
-date: 2025-12-25T15:45:13+03:00
+title: "Aziziye Şehitler Anıtı"
+date: "2025-12-25T15:45:13+03:00"
 slug: "aziziye-sehitler-aniti"
 description: "## Aziziye Şehitler Anıtı: Erzurum'un Gizli Şehri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Erzurum_Aziziye_Şehitler_Anıtı.jpg/1200px-Erzurum_Aziziye_Şehitler_Anıtı.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Palandöken"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.3090706,39.914032"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziziye Şehitler Anıtı: Erzurum'un Gizli Şehri

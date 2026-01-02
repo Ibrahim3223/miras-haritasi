@@ -1,18 +1,17 @@
 ---
-title: "Gaz Lambası Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:15+03:00
+title: "Gaz Lambası Müzesi"
+date: "2025-12-25T04:06:15+03:00"
 slug: "gaz-lambasi-muzesi"
 description: "## Gaz Lambası Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.921686631,40.170709341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaz Lambası Müzesi

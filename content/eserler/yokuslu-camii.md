@@ -1,18 +1,17 @@
 ---
-title: "Yokuşlu Camii | Miras Haritası"
-date: 2025-12-25T00:20:17+03:00
+title: "Yokuşlu Camii"
+date: "2025-12-25T00:20:17+03:00"
 slug: "yokuslu-camii"
 description: "### Yokuşlu Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3331,40.6497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yokuşlu Camii: Artvin'in Tarihi Bir Mirası

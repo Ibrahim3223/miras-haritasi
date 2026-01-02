@@ -1,18 +1,17 @@
 ---
-title: "Aynalıkavak Kasrı Bahçesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:04+03:00
+title: "Aynalıkavak Kasrı Bahçesi Çeşmesi"
+date: "2025-12-25T11:43:04+03:00"
 slug: "aynalikavak-kasri-bahcesi-cesmesi"
 description: "## Aynalıkavak Kasrı Bahçesi Çeşmesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Camiikebir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9553318,41.0381241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aynalıkavak Kasrı Bahçesi Çeşmesi: Tarihi ve Kültürel Mirasımız

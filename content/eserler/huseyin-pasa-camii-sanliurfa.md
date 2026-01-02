@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Paşa Camii, Şanlıurfa | Miras Haritası"
-date: 2025-12-25T01:06:12+03:00
+title: "Hüseyin Paşa Camii, Şanlıurfa"
+date: "2025-12-25T01:06:12+03:00"
 slug: "huseyin-pasa-camii-sanliurfa"
 description: "## Hüseyin Paşa Camii, Şanlıurfa..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7906113,37.1526299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Paşa Camii, Şanlıurfa

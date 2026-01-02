@@ -1,18 +1,17 @@
 ---
-title: "Kahraman Asker Çeşmesi, Konak | Miras Haritası"
-date: 2025-12-25T12:02:07+03:00
+title: "Kahraman Asker Çeşmesi, Konak"
+date: "2025-12-25T12:02:07+03:00"
 slug: "kahraman-asker-cesmesi-konak"
 description: "## Kahraman Asker Çeşmesi: İzmir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1528797,38.4283142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kahraman Asker Çeşmesi: İzmir'in Tarihi Bir Çeşmesi

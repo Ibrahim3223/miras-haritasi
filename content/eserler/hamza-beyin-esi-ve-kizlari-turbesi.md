@@ -1,18 +1,17 @@
 ---
-title: "Hamza Bey’in Eşi ve Kızları Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:06+03:00
+title: "Hamza Bey’in Eşi ve Kızları Türbesi"
+date: "2025-12-25T15:21:06+03:00"
 slug: "hamza-beyin-esi-ve-kizlari-turbesi"
 description: "## Hamza Bey’in Eşi ve Kızları Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0415421,40.1921501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamza Bey’in Eşi ve Kızları Türbesi

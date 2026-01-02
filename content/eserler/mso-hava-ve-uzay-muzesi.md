@@ -1,18 +1,17 @@
 ---
-title: "M.S.Ö. Hava ve Uzay Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:11+03:00
+title: "M.S.Ö. Hava ve Uzay Müzesi"
+date: "2025-12-25T03:10:11+03:00"
 slug: "mso-hava-ve-uzay-muzesi"
 description: "# M.S.Ö. Hava ve Uzay Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.494027777,39.299802777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # M.S.Ö. Hava ve Uzay Müzesi

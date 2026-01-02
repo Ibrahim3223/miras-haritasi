@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Mimar Hayrettin | Miras Haritası"
-date: 2025-12-25T12:07:35+03:00
+title: "Çeşme, Mimar Hayrettin"
+date: "2025-12-25T12:07:35+03:00"
 slug: "cesme-mimar-hayrettin"
 description: "## Çeşme, Mimar Hayrettin: Fatih'te Bir İhtişamlı Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9656868,41.0055809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Mimar Hayrettin: Fatih'te Bir İhtişamlı Çeşme

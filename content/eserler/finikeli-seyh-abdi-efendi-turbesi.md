@@ -1,18 +1,17 @@
 ---
-title: "Finikeli Şeyh Abdi Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:01+03:00
+title: "Finikeli Şeyh Abdi Efendi Türbesi"
+date: "2025-12-25T14:56:01+03:00"
 slug: "finikeli-seyh-abdi-efendi-turbesi"
 description: "## Finikeli Şeyh Abdi Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9200535,41.0158691"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Finikeli Şeyh Abdi Efendi Türbesi

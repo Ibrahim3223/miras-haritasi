@@ -1,18 +1,17 @@
 ---
-title: "Ergenuşağı Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:12+03:00
+title: "Ergenuşağı Kalesi"
+date: "2025-12-25T01:40:12+03:00"
 slug: "ergenusagi-kalesi"
 description: "# Ergenuşağı Kalesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.6061211,37.6370506"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ergenuşağı Kalesi

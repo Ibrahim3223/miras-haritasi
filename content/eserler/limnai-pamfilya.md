@@ -1,18 +1,17 @@
 ---
-title: "Limnai (Pamfilya) | Miras Haritası"
-date: 2025-12-25T04:50:42+03:00
+title: "Limnai (Pamfilya)"
+date: "2025-12-25T04:50:42+03:00"
 slug: "limnai-pamfilya"
 description: "# Limnai (Pamfilya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.790833333,36.8825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Limnai (Pamfilya)

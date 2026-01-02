@@ -1,18 +1,17 @@
 ---
-title: "II. Abdülhamid Han Çeşmesi, Rumelikavağı | Miras Haritası"
-date: 2025-12-25T12:08:10+03:00
+title: "II. Abdülhamid Han Çeşmesi, Rumelikavağı"
+date: "2025-12-25T12:08:10+03:00"
 slug: "ii-abdulhamid-han-cesmesi-rumelikavagi"
 description: "## II. Abdülhamid Han Çeşmesi, Rumelikavağı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0763474,41.1845589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Abdülhamid Han Çeşmesi, Rumelikavağı

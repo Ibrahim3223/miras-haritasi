@@ -1,18 +1,17 @@
 ---
-title: "Güpür Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:04+03:00
+title: "Güpür Hamamı"
+date: "2025-12-25T16:29:04+03:00"
 slug: "gupur-hamami"
 description: "## Güpür Hamamı: Çorum'un Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.9534264,40.5512009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güpür Hamamı: Çorum'un Tarihi Bir Mirası

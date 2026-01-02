@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Gökçebayır | Miras Haritası"
-date: 2025-12-25T17:09:57+03:00
+title: "Hamam, Gökçebayır"
+date: "2025-12-25T17:09:57+03:00"
 slug: "hamam-gokcebayir"
 description: "## Hamam, Gökçebayır: Ezine'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.255797785,39.790763785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamam, Gökçebayır: Ezine'nin Tarihi Bir Mirası

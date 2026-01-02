@@ -1,18 +1,17 @@
 ---
-title: "Üryan Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:43+03:00
+title: "Üryan Baba Türbesi"
+date: "2025-12-25T14:21:43+03:00"
 slug: "uryan-baba-turbesi"
 description: "### Üryan Baba Türbesi: Seyitgazi'nin Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.734349,39.495649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üryan Baba Türbesi: Seyitgazi'nin Gizli Cenneti

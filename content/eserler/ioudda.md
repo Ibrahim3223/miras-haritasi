@@ -1,18 +1,17 @@
 ---
-title: "Ioudda | Miras Haritası"
-date: 2025-12-25T05:07:38+03:00
+title: "Ioudda"
+date: "2025-12-25T05:07:38+03:00"
 slug: "ioudda"
 description: "## Ioudda Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.385837,38.66591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ioudda Arkeolojik Sit

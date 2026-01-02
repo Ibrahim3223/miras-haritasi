@@ -1,18 +1,17 @@
 ---
-title: "Pakistan Pavyonu | Miras Haritası"
-date: 2025-12-25T17:20:18+03:00
+title: "Pakistan Pavyonu"
+date: "2025-12-25T17:20:18+03:00"
 slug: "pakistan-pavyonu"
 description: "## Pakistan Pavyonu: İzmir'in Tarihi Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pakistan_Pavilion.jpg/1200px-Pakistan_Pavilion.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "27.143333333,38.43"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pakistan Pavyonu: İzmir'in Tarihi Saat Kulesi

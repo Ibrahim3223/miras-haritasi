@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:56:56+03:00
+title: "Mahmut Paşa Kütüphanesi"
+date: "2025-12-25T17:56:56+03:00"
 slug: "mahmut-pasa-kutuphanesi"
 description: "### Mahmut Paşa Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mahmut Paşa Kütüphanesi

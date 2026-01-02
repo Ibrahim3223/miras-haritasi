@@ -1,18 +1,17 @@
 ---
-title: "Samsat Höyük | Miras Haritası"
-date: 2025-12-25T08:14:22+03:00
+title: "Samsat Höyük"
+date: "2025-12-25T08:14:22+03:00"
 slug: "samsat-hoyuk"
 description: "## Samsat Höyük: Adıyaman'ın Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adıyaman"
+province: "Adıyaman"
+iller: '["Adıyaman"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samsat Höyük: Adıyaman'ın Gizemi

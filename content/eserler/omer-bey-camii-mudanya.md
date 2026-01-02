@@ -1,18 +1,17 @@
 ---
-title: "Ömer Bey Camii (Mudanya) | Miras Haritası"
-date: 2025-12-25T00:37:42+03:00
+title: "Ömer Bey Camii (Mudanya)"
+date: "2025-12-25T00:37:42+03:00"
 slug: "omer-bey-camii-mudanya"
 description: "## Ömer Bey Camii (Mudanya): Tarihi ve Kültürel Mirasın Işığında..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mudanya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.886602,40.375353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömer Bey Camii (Mudanya): Tarihi ve Kültürel Mirasın Işığında

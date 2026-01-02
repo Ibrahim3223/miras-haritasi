@@ -1,18 +1,17 @@
 ---
-title: "Gazi Hasan Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:31:53+03:00
+title: "Gazi Hasan Paşa Çeşmesi"
+date: "2025-12-25T11:31:53+03:00"
 slug: "gazi-hasan-pasa-cesmesi"
 description: "### Gazi Hasan Paşa Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: ["Bodrum"]
+iller: '["Bodrum"]'
 district: "Turgutreis"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2497063,37.0333366"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Hasan Paşa Çeşmesi

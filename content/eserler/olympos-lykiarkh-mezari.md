@@ -1,18 +1,17 @@
 ---
-title: "Olympos Lykiarkh Mezarı | Miras Haritası"
-date: 2025-12-25T14:10:45+03:00
+title: "Olympos Lykiarkh Mezarı"
+date: "2025-12-25T14:10:45+03:00"
 slug: "olympos-lykiarkh-mezari"
 description: "## Olympos Lykiarkh Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4743958,36.3972054"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olympos Lykiarkh Mezarı

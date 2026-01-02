@@ -1,18 +1,17 @@
 ---
-title: "Kumkapı Süryani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:18:30+03:00
+title: "Kumkapı Süryani Kilisesi"
+date: "2025-12-25T09:18:30+03:00"
 slug: "kumkapi-suryani-kilisesi"
 description: "### Kumkapı Süryani Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9653683,41.0060043"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kumkapı Süryani Kilisesi

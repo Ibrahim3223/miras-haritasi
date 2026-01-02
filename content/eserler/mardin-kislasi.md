@@ -1,18 +1,17 @@
 ---
-title: "Mardin Kışlası | Miras Haritası"
-date: 2025-12-25T03:38:39+03:00
+title: "Mardin Kışlası"
+date: "2025-12-25T03:38:39+03:00"
 slug: "mardin-kislasi"
 description: "## Mardin Kışlası: Bir Tarihî Eserin Gizemi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.7460899,37.3145256"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mardin Kışlası: Bir Tarihî Eserin Gizemi

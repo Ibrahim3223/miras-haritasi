@@ -1,18 +1,17 @@
 ---
-title: "Süt Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:48:45+03:00
+title: "Süt Dede Türbesi"
+date: "2025-12-25T14:48:45+03:00"
 slug: "sut-dede-turbesi"
 description: "### Süt Dede Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5372505,38.7519035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Süt Dede Türbesi

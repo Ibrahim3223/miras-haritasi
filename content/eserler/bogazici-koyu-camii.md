@@ -1,18 +1,17 @@
 ---
-title: "Boğaziçi Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:19:25+03:00
+title: "Boğaziçi Köyü Camii"
+date: "2025-12-25T00:19:25+03:00"
 slug: "bogazici-koyu-camii"
 description: "**Boğaziçi Köyü Camii: Rize'nin Kültürel Mirası**..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.960927453,41.058524241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Boğaziçi Köyü Camii: Rize'nin Kültürel Mirası**

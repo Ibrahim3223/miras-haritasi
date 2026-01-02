@@ -1,18 +1,17 @@
 ---
-title: "Göksu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:49:59+03:00
+title: "Göksu Köprüsü"
+date: "2025-12-25T02:49:59+03:00"
 slug: "goksu-koprusu"
 description: "### Göksu Köprüsü: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Besni"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.1634865,37.4462585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Göksu Köprüsü: Tarih ve Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Emir Saltuk Kümbeti | Miras Haritası"
-date: 2025-12-25T15:05:47+03:00
+title: "Emir Saltuk Kümbeti"
+date: "2025-12-25T15:05:47+03:00"
 slug: "emir-saltuk-kumbeti"
 description: "## Emir Saltuk Kümbeti: Erzurum'un Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Erzurum,_tomba_dell'emiro_saltuk,_xii_secolo,_02.jpg/1200px-Erzurum,_tomba_dell'emiro_saltuk,_xii_secolo,_02.jpg"
-province: "Erzurum Eyaleti"
-iller: ["Erzurum Eyaleti"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: "Erzurum Eyaleti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.27861023,39.9038887"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Emir Saltuk Kümbeti: Erzurum'un Güzelliği

@@ -1,18 +1,17 @@
 ---
-title: "Köroğlu Kalesi, Bayat | Miras Haritası"
-date: 2025-12-25T01:36:04+03:00
+title: "Köroğlu Kalesi, Bayat"
+date: "2025-12-25T01:36:04+03:00"
 slug: "koroglu-kalesi-bayat"
 description: "## Köroğlu Kalesi, Bayat..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bayat"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.8809242,38.9482803"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köroğlu Kalesi, Bayat

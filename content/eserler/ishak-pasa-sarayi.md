@@ -1,18 +1,17 @@
 ---
-title: "İshak Paşa Sarayı | Miras Haritası"
-date: 2025-12-25T13:12:12+03:00
+title: "İshak Paşa Sarayı"
+date: "2025-12-25T13:12:12+03:00"
 slug: "ishak-pasa-sarayi"
 description: "### İshak Paşa Sarayı Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/00_3411_İshak_Paşa_Sarayı_-_Turkey.jpg/1200px-00_3411_İshak_Paşa_Sarayı_-_Turkey.jpg"
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Doğubayazıt"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "44.1289258,39.52059504"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### İshak Paşa Sarayı Tanıtımı

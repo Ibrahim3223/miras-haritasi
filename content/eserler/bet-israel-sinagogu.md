@@ -1,18 +1,18 @@
 ---
-title: "Bet İsrael Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:36+03:00
+title: "Bet İsrael Sinagogu"
+date: "2025-12-25T16:12:36+03:00"
 slug: "bet-israel-sinagogu"
 description: "## Bet İsrael Sinagogu..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TR_Izmir_asv2020-02_img51_Bet_Israel_Synagogue.jpg/1200px-TR_Izmir_asv2020-02_img51_Bet_Israel_Synagogue.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.985722921,41.054376808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/TR_Izmir_asv2020-02_img51_Bet_Israel_Synagogue.jpg/1200px-TR_Izmir_asv2020-02_img51_Bet_Israel_Synagogue.jpg"
 ---
 
 ## Bet İsrael Sinagogu

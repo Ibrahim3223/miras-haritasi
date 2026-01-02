@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Piriştina Kent Arşivi ve Müzesi | Miras Haritası"
-date: 2025-12-25T04:10:30+03:00
+title: "Ahmet Piriştina Kent Arşivi ve Müzesi"
+date: "2025-12-25T04:10:30+03:00"
 slug: "ahmet-piristina-kent-arsivi-ve-muzesi"
 description: "## Ahmet Piriştina Kent Arşivi ve Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ahmet_Piriştina_City_Archives_and_Museum_01.jpg/1200px-Ahmet_Piriştina_City_Archives_and_Museum_01.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.138055555,38.425"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahmet Piriştina Kent Arşivi ve Müzesi

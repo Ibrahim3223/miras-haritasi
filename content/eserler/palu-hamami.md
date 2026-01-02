@@ -1,18 +1,17 @@
 ---
-title: "Palu Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:29+03:00
+title: "Palu Hamamı"
+date: "2025-12-25T16:34:29+03:00"
 slug: "palu-hamami"
 description: "### Palu Hamamı: Elazığ'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Palu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.9534064,38.699876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Palu Hamamı: Elazığ'da Bir Tarihî Miras

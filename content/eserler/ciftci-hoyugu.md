@@ -1,18 +1,17 @@
 ---
-title: "Çiftçi Höyüğü | Miras Haritası"
-date: 2025-12-25T06:24:50+03:00
+title: "Çiftçi Höyüğü"
+date: "2025-12-25T06:24:50+03:00"
 slug: "ciftci-hoyugu"
 description: "**Çiftçi Höyüğü: Kırşehir'in Gizli Kahramanı**..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.5556974,39.3743289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çiftçi Höyüğü: Kırşehir'in Gizli Kahramanı**

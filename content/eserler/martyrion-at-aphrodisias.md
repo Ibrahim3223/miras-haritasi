@@ -1,18 +1,17 @@
 ---
-title: "Martyrion at Aphrodisias | Miras Haritası"
-date: 2025-12-25T08:27:08+03:00
+title: "Martyrion at Aphrodisias"
+date: "2025-12-25T08:27:08+03:00"
 slug: "martyrion-at-aphrodisias"
 description: "### Martyrion at Aphrodisias..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.723044137,37.706168589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Martyrion at Aphrodisias

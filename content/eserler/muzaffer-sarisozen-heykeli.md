@@ -1,18 +1,17 @@
 ---
-title: "Muzaffer Sarısözen Heykeli | Miras Haritası"
-date: 2025-12-25T16:10:39+03:00
+title: "Muzaffer Sarısözen Heykeli"
+date: "2025-12-25T16:10:39+03:00"
 slug: "muzaffer-sarisozen-heykeli"
 description: "## Muzaffer Sarısözen Heykeli..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8528595,39.9327927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muzaffer Sarısözen Heykeli

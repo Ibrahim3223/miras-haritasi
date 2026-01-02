@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İzzettin Türbesi, Altındağ | Miras Haritası"
-date: 2025-12-25T13:58:39+03:00
+title: "Şeyh İzzettin Türbesi, Altındağ"
+date: "2025-12-25T13:58:39+03:00"
 slug: "seyh-izzettin-turbesi-altindag"
 description: "## Şeyh İzzettin Türbesi, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8601608,39.9441071"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh İzzettin Türbesi, Altındağ

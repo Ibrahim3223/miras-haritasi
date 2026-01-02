@@ -1,18 +1,17 @@
 ---
-title: "Yeniyurt Kalesi | Miras Haritası"
-date: 2025-12-25T08:09:43+03:00
+title: "Yeniyurt Kalesi"
+date: "2025-12-25T08:09:43+03:00"
 slug: "yeniyurt-kalesi"
 description: "# Yeniyurt Kalesi: Mersin'in Gizli Kırlangıçları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yeniyurt_Kale_03.jpg/1200px-Yeniyurt_Kale_03.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.130277777,36.626388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Yeniyurt Kalesi: Mersin'in Gizli Kırlangıçları

@@ -1,18 +1,17 @@
 ---
-title: "Dia | Miras Haritası"
-date: 2025-12-25T05:43:16+03:00
+title: "Dia"
+date: "2025-12-25T05:43:16+03:00"
 slug: "dia"
 description: "## Dia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.123807,41.087499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dia Arkeolojik Sit

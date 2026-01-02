@@ -1,18 +1,17 @@
 ---
-title: "Nafia Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:10+03:00
+title: "Nafia Köprüsü"
+date: "2025-12-25T02:21:10+03:00"
 slug: "nafia-koprusu"
 description: "## Nafia Köprüsü: Edirne'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6326332,41.3392296"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nafia Köprüsü: Edirne'nin Tarihi ve Kültürel Mirası

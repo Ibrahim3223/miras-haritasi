@@ -1,18 +1,17 @@
 ---
-title: "Sancaklı Camii | Miras Haritası"
-date: 2025-12-24T22:43:06+03:00
+title: "Sancaklı Camii"
+date: "2025-12-24T22:43:06+03:00"
 slug: "sancakli-camii"
 description: "## Sancaklı Camii: Osmaniye'nin Tarihi bir Camisi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Osmaniye"
+province: "Osmaniye"
+iller: '["Osmaniye"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.2677345,37.0569839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sancaklı Camii: Osmaniye'nin Tarihi bir Camisi

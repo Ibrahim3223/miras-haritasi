@@ -1,18 +1,17 @@
 ---
-title: "Emir Nureddin Türbesi | Miras Haritası"
-date: 2025-12-25T13:53:38+03:00
+title: "Emir Nureddin Türbesi"
+date: "2025-12-25T13:53:38+03:00"
 slug: "emir-nureddin-turbesi"
 description: "## Emir Nureddin Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.49757,37.8683167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Nureddin Türbesi

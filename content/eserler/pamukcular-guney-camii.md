@@ -1,18 +1,17 @@
 ---
-title: "Pamukçular Güney Camii | Miras Haritası"
-date: 2025-12-25T00:21:24+03:00
+title: "Pamukçular Güney Camii"
+date: "2025-12-25T00:21:24+03:00"
 slug: "pamukcular-guney-camii"
 description: "**Pamukçular Güney Camii: Artvin'in Gizli Çeşmesi**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.835035,40.787996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Pamukçular Güney Camii: Artvin'in Gizli Çeşmesi**

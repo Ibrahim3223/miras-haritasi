@@ -1,18 +1,17 @@
 ---
-title: "Mahmutköy Höyüğü | Miras Haritası"
-date: 2025-12-25T06:16:28+03:00
+title: "Mahmutköy Höyüğü"
+date: "2025-12-25T06:16:28+03:00"
 slug: "mahmutkoy-hoyugu"
 description: "## Mahmutköy Höyüğü: Edirne'nin Eski İnsanının Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.723341,40.7624588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmutköy Höyüğü: Edirne'nin Eski İnsanının Mirası

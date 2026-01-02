@@ -1,18 +1,17 @@
 ---
-title: "Kalgay Girayhan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:53:01+03:00
+title: "Kalgay Girayhan Çeşmesi"
+date: "2025-12-25T12:53:01+03:00"
 slug: "kalgay-girayhan-cesmesi"
 description: "### Giriş..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3013153,38.3192139"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

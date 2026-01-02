@@ -1,18 +1,17 @@
 ---
-title: "Şerefiye Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:56+03:00
+title: "Şerefiye Kalesi"
+date: "2025-12-25T01:23:56+03:00"
 slug: "serefiye-kalesi"
 description: "## Şerefiye Kalesi: Kayseri'nin Gizli Zirvesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Pınarbaşı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.6707649,38.9431458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şerefiye Kalesi: Kayseri'nin Gizli Zirvesi

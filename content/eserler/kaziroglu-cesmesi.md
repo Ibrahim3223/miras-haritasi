@@ -1,18 +1,17 @@
 ---
-title: "Kaziroğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:45:56+03:00
+title: "Kaziroğlu Çeşmesi"
+date: "2025-12-25T12:45:56+03:00"
 slug: "kaziroglu-cesmesi"
 description: "## Kaziroğlu Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7336636,38.0827522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaziroğlu Çeşmesi

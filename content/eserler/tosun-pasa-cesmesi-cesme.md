@@ -1,18 +1,17 @@
 ---
-title: "Tosun Paşa Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:52:10+03:00
+title: "Tosun Paşa Çeşmesi, Çeşme"
+date: "2025-12-25T12:52:10+03:00"
 slug: "tosun-pasa-cesmesi-cesme"
 description: "## Tosun Paşa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3616009,38.3082008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tosun Paşa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Filibeli Tevfik Mehmet Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:46+03:00
+title: "Filibeli Tevfik Mehmet Türbesi"
+date: "2025-12-25T15:18:46+03:00"
 slug: "filibeli-tevfik-mehmet-turbesi"
 description: "## Filibeli Tevfik Mehmet Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Mudurnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.1976,40.4708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Filibeli Tevfik Mehmet Türbesi

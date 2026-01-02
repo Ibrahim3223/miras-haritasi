@@ -1,18 +1,17 @@
 ---
-title: "Oba Camii | Miras Haritası"
-date: 2025-12-25T00:14:58+03:00
+title: "Oba Camii"
+date: "2025-12-25T00:14:58+03:00"
 slug: "oba-camii"
 description: "**Oba Camii: Serik'in Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.9302662,37.0702719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Oba Camii: Serik'in Tarihi Bir Mirası**

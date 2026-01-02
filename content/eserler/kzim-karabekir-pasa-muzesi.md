@@ -1,18 +1,17 @@
 ---
-title: "Kâzım Karabekir Paşa Müzesi | Miras Haritası"
-date: 2025-12-25T03:16:59+03:00
+title: "Kâzım Karabekir Paşa Müzesi"
+date: "2025-12-25T03:16:59+03:00"
 slug: "kzim-karabekir-pasa-muzesi"
 description: "## Kâzım Karabekir Paşa Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2021-02-01_Karabekir_Museum_3.jpg/1200px-2021-02-01_Karabekir_Museum_3.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.078587,40.968249"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kâzım Karabekir Paşa Müzesi

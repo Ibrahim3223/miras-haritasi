@@ -1,18 +1,17 @@
 ---
-title: "Güneş Saati, Mihrimah Sultan Camii | Miras Haritası"
-date: 2025-12-25T13:42:46+03:00
+title: "Güneş Saati, Mihrimah Sultan Camii"
+date: "2025-12-25T13:42:46+03:00"
 slug: "gunes-saati-mihrimah-sultan-camii"
 description: "## Güneş Saati, Mihrimah Sultan Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0159569,41.0266151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güneş Saati, Mihrimah Sultan Camii

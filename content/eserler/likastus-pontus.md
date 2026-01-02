@@ -1,18 +1,17 @@
 ---
-title: "Likastus (Pontus) | Miras Haritası"
-date: 2025-12-25T04:38:30+03:00
+title: "Likastus (Pontus)"
+date: "2025-12-25T04:38:30+03:00"
 slug: "likastus-pontus"
 description: "### Likastus (Pontus)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.450833333,41.2525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Likastus (Pontus)

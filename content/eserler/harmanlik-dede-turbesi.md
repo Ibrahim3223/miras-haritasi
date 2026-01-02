@@ -1,18 +1,17 @@
 ---
-title: "Harmanlık Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:51+03:00
+title: "Harmanlık Dede Türbesi"
+date: "2025-12-25T14:56:51+03:00"
 slug: "harmanlik-dede-turbesi"
 description: "## Harmanlık Dede Türbesi: Bursa'nın Gizli Hazinesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gemlik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1175861,40.4771118"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harmanlık Dede Türbesi: Bursa'nın Gizli Hazinesi

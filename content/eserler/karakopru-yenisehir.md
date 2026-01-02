@@ -1,18 +1,17 @@
 ---
-title: "Karaköprü, Yenişehir | Miras Haritası"
-date: 2025-12-25T02:56:21+03:00
+title: "Karaköprü, Yenişehir"
+date: "2025-12-25T02:56:21+03:00"
 slug: "karakopru-yenisehir"
 description: "# Karaköprü, Yenişehir: Tarihi ve Kültürel Önemleri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Yenişehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.141471,38.067032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karaköprü, Yenişehir: Tarihi ve Kültürel Önemleri

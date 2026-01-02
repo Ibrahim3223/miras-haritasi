@@ -1,18 +1,17 @@
 ---
-title: "Dışkapı Höyüğü, Hafik | Miras Haritası"
-date: 2025-12-25T06:09:28+03:00
+title: "Dışkapı Höyüğü, Hafik"
+date: "2025-12-25T06:09:28+03:00"
 slug: "diskapi-hoyugu-hafik"
 description: "## Dışkapı Höyüğü, Hafik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Diskapi-Hoyugu-2.jpg/1200px-Diskapi-Hoyugu-2.jpg"
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.4056168,39.8496056"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dışkapı Höyüğü, Hafik

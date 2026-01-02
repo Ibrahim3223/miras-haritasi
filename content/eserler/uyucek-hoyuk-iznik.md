@@ -1,18 +1,17 @@
 ---
-title: "Üyücek Höyük, İznik | Miras Haritası"
-date: 2025-12-25T05:29:41+03:00
+title: "Üyücek Höyük, İznik"
+date: "2025-12-25T05:29:41+03:00"
 slug: "uyucek-hoyuk-iznik"
 description: "### Üyücek Höyük: İznik'in Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.766833,40.419567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üyücek Höyük: İznik'in Gizli Mirası

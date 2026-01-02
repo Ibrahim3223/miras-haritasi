@@ -1,18 +1,17 @@
 ---
-title: "Feke Kalesi | Miras Haritası"
-date: 2025-12-25T01:11:42+03:00
+title: "Feke Kalesi"
+date: "2025-12-25T01:11:42+03:00"
 slug: "feke-kalesi"
 description: "**Feke Kalesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası**..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Feke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.9518576,37.8602728"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Feke Kalesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası**

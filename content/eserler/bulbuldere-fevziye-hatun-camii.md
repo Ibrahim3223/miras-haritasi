@@ -1,18 +1,17 @@
 ---
-title: "Bülbüldere Fevziye Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:49:40+03:00
+title: "Bülbüldere Fevziye Hatun Camii"
+date: "2025-12-24T22:49:40+03:00"
 slug: "bulbuldere-fevziye-hatun-camii"
 description: "### Bülbüldere Fevziye Hatun Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fevziye_Hatun_Camii_(1).jpg/1200px-Fevziye_Hatun_Camii_(1).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0228748,41.0263138"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bülbüldere Fevziye Hatun Camii

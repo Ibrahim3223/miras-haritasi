@@ -1,18 +1,17 @@
 ---
-title: "Beşkonaklar Etnografya Müzesi ve Geleneksel Malatya Evi | Miras Haritası"
-date: 2025-12-25T03:33:32+03:00
+title: "Beşkonaklar Etnografya Müzesi ve Geleneksel Malatya Evi"
+date: "2025-12-25T03:33:32+03:00"
 slug: "beskonaklar-etnografya-muzesi-ve-geleneksel-malatya-evi"
 description: "## Beşkonaklar Etnografya Müzesi ve Geleneksel Malatya Evi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşkonaklar Etnografya Müzesi ve Geleneksel Malatya Evi

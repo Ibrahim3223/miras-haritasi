@@ -1,18 +1,17 @@
 ---
-title: "Yunus Emre Camii ve Türbesi | Miras Haritası"
-date: 2025-12-25T00:53:43+03:00
+title: "Yunus Emre Camii ve Türbesi"
+date: "2025-12-25T00:53:43+03:00"
 slug: "yunus-emre-camii-ve-turbesi"
 description: "## Yunus Emre Camii ve Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2204285,37.1823807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yunus Emre Camii ve Türbesi

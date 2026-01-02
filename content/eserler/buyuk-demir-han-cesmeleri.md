@@ -1,18 +1,17 @@
 ---
-title: "Büyük Demir Han Çeşmeleri | Miras Haritası"
-date: 2025-12-25T12:08:21+03:00
+title: "Büyük Demir Han Çeşmeleri"
+date: "2025-12-25T12:08:21+03:00"
 slug: "buyuk-demir-han-cesmeleri"
 description: "## Büyük Demir Han Çeşmeleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1341591,38.4202995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Demir Han Çeşmeleri

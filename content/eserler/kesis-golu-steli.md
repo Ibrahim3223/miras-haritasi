@@ -1,18 +1,17 @@
 ---
-title: "Keşiş Gölü Steli | Miras Haritası"
-date: 2025-12-25T14:12:30+03:00
+title: "Keşiş Gölü Steli"
+date: "2025-12-25T14:12:30+03:00"
 slug: "kesis-golu-steli"
 description: "## Keşiş Gölü Steli..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.62111111,38.53055556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keşiş Gölü Steli

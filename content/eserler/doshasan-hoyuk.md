@@ -1,18 +1,17 @@
 ---
-title: "Döşhasan Höyük | Miras Haritası"
-date: 2025-12-25T06:34:50+03:00
+title: "Döşhasan Höyük"
+date: "2025-12-25T06:34:50+03:00"
 slug: "doshasan-hoyuk"
 description: "## Döşhasan Höyük: Hatay'ın Gizli Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.479004,36.468971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Döşhasan Höyük: Hatay'ın Gizli Mirası

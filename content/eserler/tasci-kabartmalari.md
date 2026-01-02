@@ -1,18 +1,17 @@
 ---
-title: "Taşçı Kabartmaları | Miras Haritası"
-date: 2025-12-25T13:40:56+03:00
+title: "Taşçı Kabartmaları"
+date: "2025-12-25T13:40:56+03:00"
 slug: "tasci-kabartmalari"
 description: "### Taşçı Kabartmaları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tasci3.jpg/1200px-Tasci3.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.78111111,38.19875"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Taşçı Kabartmaları

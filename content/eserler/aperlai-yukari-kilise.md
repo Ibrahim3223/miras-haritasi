@@ -1,18 +1,17 @@
 ---
-title: "Aperlai Yukarı Kilise | Miras Haritası"
-date: 2025-12-25T09:37:45+03:00
+title: "Aperlai Yukarı Kilise"
+date: "2025-12-25T09:37:45+03:00"
 slug: "aperlai-yukari-kilise"
 description: "## Aperlai Yukarı Kilisesi: Tarihi Bir Miras..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.7814484,36.1599808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aperlai Yukarı Kilisesi: Tarihi Bir Miras

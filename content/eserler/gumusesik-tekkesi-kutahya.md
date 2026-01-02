@@ -1,18 +1,17 @@
 ---
-title: "Gümüşeşik Tekkesi, Kütahya | Miras Haritası"
-date: 2025-12-25T15:31:31+03:00
+title: "Gümüşeşik Tekkesi, Kütahya"
+date: "2025-12-25T15:31:31+03:00"
 slug: "gumusesik-tekkesi-kutahya"
 description: "### Gümüşeşik Tekkesi: Kütahya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9864883,39.4164658"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşeşik Tekkesi: Kütahya'nın Tarihî Bir Mirası

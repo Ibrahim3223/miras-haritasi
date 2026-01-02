@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:23+03:00
+title: "Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi"
+date: "2025-12-25T15:25:23+03:00"
 slug: "seyh-mehmet-izz-bedreddin-efendi-acik-turbesi"
 description: "# Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0140228,41.0221863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi

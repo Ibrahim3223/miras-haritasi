@@ -1,18 +1,17 @@
 ---
-title: "Türkmen Güzeli Heykeli | Miras Haritası"
-date: 2025-12-25T16:08:26+03:00
+title: "Türkmen Güzeli Heykeli"
+date: "2025-12-25T16:08:26+03:00"
 slug: "turkmen-guzeli-heykeli"
 description: "## Türkmen Güzeli Heykeli..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9253387,36.379921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türkmen Güzeli Heykeli

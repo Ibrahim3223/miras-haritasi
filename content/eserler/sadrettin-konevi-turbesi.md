@@ -1,18 +1,17 @@
 ---
-title: "Sadrettin Konevi Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:54+03:00
+title: "Sadrettin Konevi Türbesi"
+date: "2025-12-25T14:34:54+03:00"
 slug: "sadrettin-konevi-turbesi"
 description: "## Sadrettin Konevi Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.278869,39.910681"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sadrettin Konevi Türbesi

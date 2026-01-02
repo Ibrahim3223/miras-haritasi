@@ -1,18 +1,17 @@
 ---
-title: "Karataş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:47+03:00
+title: "Karataş Köprüsü"
+date: "2025-12-25T02:22:47+03:00"
 slug: "karatas-koprusu"
 description: "### Karataş Köprüsü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.1257401,38.4101562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karataş Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

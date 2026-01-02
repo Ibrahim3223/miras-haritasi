@@ -1,18 +1,17 @@
 ---
-title: "Prymnessus | Miras Haritası"
-date: 2025-12-25T04:41:25+03:00
+title: "Prymnessus"
+date: "2025-12-25T04:41:25+03:00"
 slug: "prymnessus"
 description: "## Prymnessus Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.569147,38.697462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Prymnessus Arkeolojik Sit

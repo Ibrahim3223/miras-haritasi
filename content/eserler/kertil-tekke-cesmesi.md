@@ -1,18 +1,17 @@
 ---
-title: "Kertil Tekke Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:37+03:00
+title: "Kertil Tekke Çeşmesi"
+date: "2025-12-25T10:45:37+03:00"
 slug: "kertil-tekke-cesmesi"
 description: "## Kertil Tekke Çeşmesi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9263973,40.7691841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kertil Tekke Çeşmesi

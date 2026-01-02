@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:04+03:00
+title: "Hüseyin Bey Türbesi"
+date: "2025-12-25T14:40:04+03:00"
 slug: "huseyin-bey-turbesi"
 description: "## Hüseyin Bey Türbesi: Tekirdağ'daki Bir Tarihî Anıt..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2814636,40.9356842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Bey Türbesi: Tekirdağ'daki Bir Tarihî Anıt

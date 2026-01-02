@@ -1,18 +1,17 @@
 ---
-title: "Çakıltepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:24:59+03:00
+title: "Çakıltepe Tümülüsü"
+date: "2025-12-25T07:24:59+03:00"
 slug: "cakiltepe-tumulusu"
 description: "### Çakıltepe Tümülüsü..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.8195,38.3494682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çakıltepe Tümülüsü

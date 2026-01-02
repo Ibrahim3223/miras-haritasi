@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mehmed Amadin Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:22+03:00
+title: "Şeyh Mehmed Amadin Türbesi"
+date: "2025-12-25T14:18:22+03:00"
 slug: "seyh-mehmed-amadin-turbesi"
 description: "### Şeyh Mehmed Amadin Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.112367,36.714295"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Mehmed Amadin Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Kumkale Kalesi Hamamı | Miras Haritası"
-date: 2025-12-25T17:06:41+03:00
+title: "Kumkale Kalesi Hamamı"
+date: "2025-12-25T17:06:41+03:00"
 slug: "kumkale-kalesi-hamami"
 description: "## Kumkale Kalesi Hamamı..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.19981,40.0061417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumkale Kalesi Hamamı

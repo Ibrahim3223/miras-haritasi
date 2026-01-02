@@ -1,18 +1,17 @@
 ---
-title: "Uzuntarla Mahallesi Karaçam Camii | Miras Haritası"
-date: 2025-12-25T00:43:55+03:00
+title: "Uzuntarla Mahallesi Karaçam Camii"
+date: "2025-12-25T00:43:55+03:00"
 slug: "uzuntarla-mahallesi-karacam-camii"
 description: "### Uzuntarla Mahallesi Karaçam Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Çaykara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.179716199,40.599953245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uzuntarla Mahallesi Karaçam Camii

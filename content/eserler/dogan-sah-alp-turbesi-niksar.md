@@ -1,18 +1,17 @@
 ---
-title: "Doğan Şah Alp Türbesi, Niksar | Miras Haritası"
-date: 2025-12-25T03:57:08+03:00
+title: "Doğan Şah Alp Türbesi, Niksar"
+date: "2025-12-25T03:57:08+03:00"
 slug: "dogan-sah-alp-turbesi-niksar"
 description: "### Doğan Şah Alp Türbesi, Niksar..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.9641876,40.5912018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doğan Şah Alp Türbesi, Niksar

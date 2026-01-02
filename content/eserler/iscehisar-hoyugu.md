@@ -1,18 +1,17 @@
 ---
-title: "İscehisar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:41:41+03:00
+title: "İscehisar Höyüğü"
+date: "2025-12-25T06:41:41+03:00"
 slug: "iscehisar-hoyugu"
 description: "### İscehisar Höyüğü: Tarihin Eski Kenti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İscehisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.7521755,38.8624604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İscehisar Höyüğü: Tarihin Eski Kenti

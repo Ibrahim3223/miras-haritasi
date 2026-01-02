@@ -1,18 +1,17 @@
 ---
-title: "Hoşan Taş Köprü | Miras Haritası"
-date: 2025-12-25T02:43:09+03:00
+title: "Hoşan Taş Köprü"
+date: "2025-12-25T02:43:09+03:00"
 slug: "hosan-tas-kopru"
 description: "## Hoşan Taş Köprü: Ergani'nin Tarihi Bir Muhteşemliği..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Ergani"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.7949982,38.2324905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoşan Taş Köprü: Ergani'nin Tarihi Bir Muhteşemliği

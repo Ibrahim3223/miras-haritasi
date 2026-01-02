@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Demokrasi Anıtı | Miras Haritası"
-date: 2025-12-25T15:51:29+03:00
+title: "Atatürk Demokrasi Anıtı"
+date: "2025-12-25T15:51:29+03:00"
 slug: "ataturk-demokrasi-aniti"
 description: "### Atatürk Demokrasi Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.007299,41.042636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Atatürk Demokrasi Anıtı

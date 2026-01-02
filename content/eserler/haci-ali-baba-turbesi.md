@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ali Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:06+03:00
+title: "Hacı Ali Baba Türbesi"
+date: "2025-12-25T14:21:06+03:00"
 slug: "haci-ali-baba-turbesi"
 description: "## Hacı Ali Baba Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.122736,36.722583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ali Baba Türbesi

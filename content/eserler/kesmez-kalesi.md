@@ -1,18 +1,17 @@
 ---
-title: "Kesmez Kalesi | Miras Haritası"
-date: 2025-12-25T01:42:29+03:00
+title: "Kesmez Kalesi"
+date: "2025-12-25T01:42:29+03:00"
 slug: "kesmez-kalesi"
 description: "### Kesmez Kalesi: Konya'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karapınar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.7425308,37.7247925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kesmez Kalesi: Konya'nın Gizli Mücevheri

@@ -1,18 +1,17 @@
 ---
-title: "Zeytinli Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:49:00+03:00
+title: "Zeytinli Köyü Camii"
+date: "2025-12-24T23:49:00+03:00"
 slug: "zeytinli-koyu-camii"
 description: "## Zeytinli Köyü Camii: Edremit'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9485397,39.6140175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeytinli Köyü Camii: Edremit'in Gizli Cenneti

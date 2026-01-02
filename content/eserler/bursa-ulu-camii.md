@@ -1,18 +1,17 @@
 ---
-title: "Bursa Ulu Camii | Miras Haritası"
-date: 2025-12-24T20:37:30+03:00
+title: "Bursa Ulu Camii"
+date: "2025-12-24T20:37:30+03:00"
 slug: "bursa-ulu-camii"
 description: "## Bursa Ulu Camii: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/71_Bursa_la_Grande_Moschea_(Edited).jpg/1200px-71_Bursa_la_Grande_Moschea_(Edited).jpg"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.061944444,40.183888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bursa Ulu Camii: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

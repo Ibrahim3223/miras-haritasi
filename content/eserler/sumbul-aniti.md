@@ -1,18 +1,17 @@
 ---
-title: "Sümbül Anıtı | Miras Haritası"
-date: 2025-12-25T15:53:32+03:00
+title: "Sümbül Anıtı"
+date: "2025-12-25T15:53:32+03:00"
 slug: "sumbul-aniti"
 description: "## Sümbül Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.7133217,39.1971207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sümbül Anıtı

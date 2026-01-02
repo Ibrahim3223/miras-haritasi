@@ -1,18 +1,17 @@
 ---
-title: "Ermenek Meydan Camii | Miras Haritası"
-date: 2025-12-24T23:00:06+03:00
+title: "Ermenek Meydan Camii"
+date: "2025-12-24T23:00:06+03:00"
 slug: "ermenek-meydan-camii"
 description: "## Ermenek Meydan Camii: Karaman'ın Tarihî Bir Mimarî Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.885006,36.6403389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ermenek Meydan Camii: Karaman'ın Tarihî Bir Mimarî Harikası

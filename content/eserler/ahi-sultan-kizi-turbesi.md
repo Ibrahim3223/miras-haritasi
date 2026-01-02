@@ -1,18 +1,17 @@
 ---
-title: "Ahi Sultan Kızı Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:38+03:00
+title: "Ahi Sultan Kızı Türbesi"
+date: "2025-12-25T15:19:38+03:00"
 slug: "ahi-sultan-kizi-turbesi"
 description: "## Ahi Sultan Kızı Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.703822,36.88559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Sultan Kızı Türbesi

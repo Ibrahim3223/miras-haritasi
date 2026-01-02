@@ -1,18 +1,17 @@
 ---
-title: "Aydul Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:38+03:00
+title: "Aydul Baba Türbesi"
+date: "2025-12-25T15:15:38+03:00"
 slug: "aydul-baba-turbesi"
 description: "## Aydul Baba Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Haymana"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.587626,39.37063"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aydul Baba Türbesi

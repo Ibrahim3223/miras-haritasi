@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Çarşı Camii | Miras Haritası"
-date: 2025-12-24T23:00:48+03:00
+title: "Eskişehir Çarşı Camii"
+date: "2025-12-24T23:00:48+03:00"
 slug: "eskisehir-carsi-camii"
 description: "## Eskişehir Çarşı Camii: Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5192146,39.7739639"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir Çarşı Camii: Tarihi ve Kültürel Miras

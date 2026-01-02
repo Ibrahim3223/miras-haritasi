@@ -1,18 +1,17 @@
 ---
-title: "Kadirhane Camii | Miras Haritası"
-date: 2025-12-24T23:39:40+03:00
+title: "Kadirhane Camii"
+date: "2025-12-24T23:39:40+03:00"
 slug: "kadirhane-camii"
 description: "### Kadirhane Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2184486,37.1821938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadirhane Camii

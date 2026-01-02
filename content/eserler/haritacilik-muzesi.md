@@ -1,18 +1,17 @@
 ---
-title: "Haritacılık Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:53+03:00
+title: "Haritacılık Müzesi"
+date: "2025-12-25T03:24:53+03:00"
 slug: "haritacilik-muzesi"
 description: "## Haritacılık Müzesi: Ankara'nın Harita Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.882311,39.932475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haritacılık Müzesi: Ankara'nın Harita Mirası

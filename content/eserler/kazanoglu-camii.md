@@ -1,18 +1,17 @@
 ---
-title: "Kazanoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:58:04+03:00
+title: "Kazanoğlu Camii"
+date: "2025-12-24T23:58:04+03:00"
 slug: "kazanoglu-camii"
 description: "### Kazanoğlu Camii..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7503052,38.086338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kazanoğlu Camii

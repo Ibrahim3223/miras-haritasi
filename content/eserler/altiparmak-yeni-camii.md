@@ -1,18 +1,17 @@
 ---
-title: "Altıparmak Yeni Camii | Miras Haritası"
-date: 2025-12-25T00:57:19+03:00
+title: "Altıparmak Yeni Camii"
+date: "2025-12-25T00:57:19+03:00"
 slug: "altiparmak-yeni-camii"
 description: "## Altıparmak Yeni Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.389494,40.970234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altıparmak Yeni Camii

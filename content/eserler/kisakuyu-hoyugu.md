@@ -1,18 +1,17 @@
 ---
-title: "Kısakuyu Höyüğü | Miras Haritası"
-date: 2025-12-25T06:27:34+03:00
+title: "Kısakuyu Höyüğü"
+date: "2025-12-25T06:27:34+03:00"
 slug: "kisakuyu-hoyugu"
 description: "## Kısakuyu Höyüğü: Şanlıurfa'da Bir Arkeolojik Harika..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.2216663,37.1217983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kısakuyu Höyüğü: Şanlıurfa'da Bir Arkeolojik Harika

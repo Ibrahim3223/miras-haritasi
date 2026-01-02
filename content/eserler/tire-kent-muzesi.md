@@ -1,18 +1,17 @@
 ---
-title: "Tire Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:47+03:00
+title: "Tire Kent Müzesi"
+date: "2025-12-25T03:28:47+03:00"
 slug: "tire-kent-muzesi"
 description: "## Tire Kent Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.73222222,38.08833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tire Kent Müzesi

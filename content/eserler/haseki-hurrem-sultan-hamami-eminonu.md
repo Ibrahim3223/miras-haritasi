@@ -1,18 +1,17 @@
 ---
-title: "Haseki Hürrem Sultan Hamamı, Eminönü | Miras Haritası"
-date: 2025-12-25T16:31:21+03:00
+title: "Haseki Hürrem Sultan Hamamı, Eminönü"
+date: "2025-12-25T16:31:21+03:00"
 slug: "haseki-hurrem-sultan-hamami-eminonu"
 description: "### Haseki Hürrem Sultan Hamamı: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.972032,41.015651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haseki Hürrem Sultan Hamamı: İstanbul'un Gizli Çeşmesi

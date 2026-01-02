@@ -1,18 +1,17 @@
 ---
-title: "Eserli Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:15:26+03:00
+title: "Eserli Mahallesi Kilisesi"
+date: "2025-12-25T09:15:26+03:00"
 slug: "eserli-mahallesi-kilisesi"
 description: "### Eserli Mahallesi Kilisesi: Görele'nin Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.970825,40.882914"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eserli Mahallesi Kilisesi: Görele'nin Gizli Cenneti

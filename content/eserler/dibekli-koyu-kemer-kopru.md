@@ -1,18 +1,17 @@
 ---
-title: "Dibekli Köyü Kemer Köprü | Miras Haritası"
-date: 2025-12-25T02:31:15+03:00
+title: "Dibekli Köyü Kemer Köprü"
+date: "2025-12-25T02:31:15+03:00"
 slug: "dibekli-koyu-kemer-kopru"
 description: "# Dibekli Köyü Kemer Köprü..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.37127,40.47223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dibekli Köyü Kemer Köprü

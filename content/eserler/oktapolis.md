@@ -1,18 +1,17 @@
 ---
-title: "Oktapolis | Miras Haritası"
-date: 2025-12-25T04:27:50+03:00
+title: "Oktapolis"
+date: "2025-12-25T04:27:50+03:00"
 slug: "oktapolis"
 description: "## Oktapolis: Muğla'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Dalaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.930005,36.815349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oktapolis: Muğla'nın Gizli Kahramanı

@@ -1,18 +1,17 @@
 ---
-title: "Alemşah Kümbeti | Miras Haritası"
-date: 2025-12-25T13:53:26+03:00
+title: "Alemşah Kümbeti"
+date: "2025-12-25T13:53:26+03:00"
 slug: "alemsah-kumbeti"
 description: "## Alemşah Kümbeti: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.5374223,39.4510981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alemşah Kümbeti: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

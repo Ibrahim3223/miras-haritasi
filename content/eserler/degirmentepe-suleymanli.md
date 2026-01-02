@@ -1,18 +1,17 @@
 ---
-title: "Değirmentepe, Süleymanlı | Miras Haritası"
-date: 2025-12-25T05:47:55+03:00
+title: "Değirmentepe, Süleymanlı"
+date: "2025-12-25T05:47:55+03:00"
 slug: "degirmentepe-suleymanli"
 description: "## Değirmentepe Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.793067,38.991933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmentepe Arkeolojik Sit

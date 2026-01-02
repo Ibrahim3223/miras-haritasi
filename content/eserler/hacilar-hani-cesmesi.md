@@ -1,18 +1,17 @@
 ---
-title: "Hacılar Hanı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:41:07+03:00
+title: "Hacılar Hanı Çeşmesi"
+date: "2025-12-25T11:41:07+03:00"
 slug: "hacilar-hani-cesmesi"
 description: "## Hacılar Hanı Çeşmesi: Yakutiye'nin Gizemli Abidesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2752113,39.9110527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacılar Hanı Çeşmesi: Yakutiye'nin Gizemli Abidesi

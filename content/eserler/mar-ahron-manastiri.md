@@ -1,18 +1,17 @@
 ---
-title: "Mar Ahron Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:16+03:00
+title: "Mar Ahron Manastırı"
+date: "2025-12-25T09:51:16+03:00"
 slug: "mar-ahron-manastiri"
 description: "# Mar Ahron Manastırı..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Baskil"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "38.3987885,38.615242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mar Ahron Manastırı

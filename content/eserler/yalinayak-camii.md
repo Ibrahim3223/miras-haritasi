@@ -1,18 +1,17 @@
 ---
-title: "Yalınayak Camii | Miras Haritası"
-date: 2025-12-24T23:43:45+03:00
+title: "Yalınayak Camii"
+date: "2025-12-24T23:43:45+03:00"
 slug: "yalinayak-camii"
 description: "## Yalınayak Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7322674,38.082962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalınayak Camii: İzmir'in Gizli Cenneti

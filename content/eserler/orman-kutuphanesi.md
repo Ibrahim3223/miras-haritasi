@@ -1,18 +1,17 @@
 ---
-title: "Orman Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:49:12+03:00
+title: "Orman Kütüphanesi"
+date: "2025-12-25T17:49:12+03:00"
 slug: "orman-kutuphanesi"
 description: "## Orman Kütüphanesi: Kocaeli'nin Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ormanya_Orman_Kütüphanesi_giriş.jpg/1200px-Ormanya_Orman_Kütüphanesi_giriş.jpg"
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Kartepe"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.163378915,40.736342789"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Orman Kütüphanesi: Kocaeli'nin Gizli Çehresi

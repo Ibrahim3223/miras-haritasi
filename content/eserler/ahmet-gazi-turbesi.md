@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:51+03:00
+title: "Ahmet Gazi Türbesi"
+date: "2025-12-25T15:21:51+03:00"
 slug: "ahmet-gazi-turbesi"
 description: "## Ahmet Gazi Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1161556,36.6195869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Gazi Türbesi

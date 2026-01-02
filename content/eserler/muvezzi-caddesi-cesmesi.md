@@ -1,18 +1,17 @@
 ---
-title: "Müvezzi Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:34:41+03:00
+title: "Müvezzi Caddesi Çeşmesi"
+date: "2025-12-25T12:34:41+03:00"
 slug: "muvezzi-caddesi-cesmesi"
 description: "## Müvezzi Caddesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0133324,41.0451698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müvezzi Caddesi Çeşmesi

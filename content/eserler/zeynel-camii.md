@@ -1,18 +1,17 @@
 ---
-title: "Zeynel Camii | Miras Haritası"
-date: 2025-12-24T23:24:40+03:00
+title: "Zeynel Camii"
+date: "2025-12-24T23:24:40+03:00"
 slug: "zeynel-camii"
 description: "## Zeynel Camii: Erzurum'un Gizli Çehresini Açılan Bir Harikası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2747765,39.9099998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeynel Camii: Erzurum'un Gizli Çehresini Açılan Bir Harikası

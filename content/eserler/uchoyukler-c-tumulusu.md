@@ -1,18 +1,17 @@
 ---
-title: "Üçhöyükler C Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:47+03:00
+title: "Üçhöyükler C Tümülüsü"
+date: "2025-12-25T08:03:47+03:00"
 slug: "uchoyukler-c-tumulusu"
 description: "## Üçhöyükler C Tümülüsü: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9006252,41.7036743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçhöyükler C Tümülüsü: Edirne'nin Gizli Anıtı

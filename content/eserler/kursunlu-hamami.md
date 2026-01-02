@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:28:28+03:00
+title: "Kurşunlu Hamamı"
+date: "2025-12-25T16:28:28+03:00"
 slug: "kursunlu-hamami"
 description: "## Kurşunlu Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.0208025,39.7467959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Hamamı

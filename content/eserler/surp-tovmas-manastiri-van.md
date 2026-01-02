@@ -1,18 +1,17 @@
 ---
-title: "Surp Tovmas Manastırı (Van) | Miras Haritası"
-date: 2025-12-25T08:55:52+03:00
+title: "Surp Tovmas Manastırı (Van)"
+date: "2025-12-25T08:55:52+03:00"
 slug: "surp-tovmas-manastiri-van"
 description: "## Surp Tovmas Manastırı: Van'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Harun_reşit_sapıtmaz.jpg/1200px-Harun_reşit_sapıtmaz.jpg"
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gevaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.874162,38.416797"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Tovmas Manastırı: Van'ın Gizli Cenneti

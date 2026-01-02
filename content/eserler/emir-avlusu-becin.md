@@ -1,18 +1,17 @@
 ---
-title: "Emir Avlusu, Beçin | Miras Haritası"
-date: 2025-12-25T01:29:36+03:00
+title: "Emir Avlusu, Beçin"
+date: "2025-12-25T01:29:36+03:00"
 slug: "emir-avlusu-becin"
 description: "## Emir Avlusu, Beçin: Milas'ta Bir Orta Çağ Kale İmkânı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.7885647,37.270256"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Avlusu, Beçin: Milas'ta Bir Orta Çağ Kale İmkânı

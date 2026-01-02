@@ -1,18 +1,17 @@
 ---
-title: "Sallar Höyük | Miras Haritası"
-date: 2025-12-25T06:37:23+03:00
+title: "Sallar Höyük"
+date: "2025-12-25T06:37:23+03:00"
 slug: "sallar-hoyuk"
 description: "### Sallar Höyük: Gümüşhacıköy'ün Gizli Kutsal Yeri..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Gümüşhacıköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.1664129,40.9197148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sallar Höyük: Gümüşhacıköy'ün Gizli Kutsal Yeri

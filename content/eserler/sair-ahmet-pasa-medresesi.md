@@ -1,18 +1,17 @@
 ---
-title: "Şair Ahmet Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:40:35+03:00
+title: "Şair Ahmet Paşa Medresesi"
+date: "2025-12-25T17:40:35+03:00"
 slug: "sair-ahmet-pasa-medresesi"
 description: "## Şair Ahmet Paşa Medresesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0459003,40.1918869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şair Ahmet Paşa Medresesi

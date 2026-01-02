@@ -1,18 +1,17 @@
 ---
-title: "Divarlı Höyük | Miras Haritası"
-date: 2025-12-25T06:44:03+03:00
+title: "Divarlı Höyük"
+date: "2025-12-25T06:44:03+03:00"
 slug: "divarli-hoyuk"
 description: "### Divarlı Höyük: Niğde'nin Gizli Kutsalı..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Çiftlik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4652821,38.2070582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Divarlı Höyük: Niğde'nin Gizli Kutsalı

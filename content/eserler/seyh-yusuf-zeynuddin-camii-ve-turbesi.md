@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Yusuf Zeynüddin Camii ve Türbesi | Miras Haritası"
-date: 2025-12-25T00:54:04+03:00
+title: "Şeyh Yusuf Zeynüddin Camii ve Türbesi"
+date: "2025-12-25T00:54:04+03:00"
 slug: "seyh-yusuf-zeynuddin-camii-ve-turbesi"
 description: "## Şeyh Yusuf Zeynüddin Camii ve Türbesi: Tekkeköy'de Bir Kültür Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Tekkeköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.4608459,41.2115211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Yusuf Zeynüddin Camii ve Türbesi: Tekkeköy'de Bir Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Valide Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:06+03:00
+title: "Valide Köprüsü"
+date: "2025-12-25T02:07:06+03:00"
 slug: "valide-koprusu"
 description: "### Valide Köprüsü..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Karamürsel"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.52591,40.605119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Valide Köprüsü

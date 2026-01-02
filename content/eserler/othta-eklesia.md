@@ -1,18 +1,17 @@
 ---
-title: "Othta Eklesia | Miras Haritası"
-date: 2025-12-25T09:46:34+03:00
+title: "Othta Eklesia"
+date: "2025-12-25T09:46:34+03:00"
 slug: "othta-eklesia"
 description: "## Othta Eklesia: Artvin'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dörtkilise-in2.jpg/1200px-Dörtkilise-in2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.471111111,40.814166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Othta Eklesia: Artvin'in Gizli Cenneti

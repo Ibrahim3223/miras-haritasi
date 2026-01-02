@@ -1,18 +1,17 @@
 ---
-title: "Sağlık Müzesi | Miras Haritası"
-date: 2025-12-25T03:20:59+03:00
+title: "Sağlık Müzesi"
+date: "2025-12-25T03:20:59+03:00"
 slug: "saglik-muzesi"
 description: "## Sağlık Müzesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.975266,41.008225"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sağlık Müzesi: İstanbul'un Tarihi ve Kültürel Mirası

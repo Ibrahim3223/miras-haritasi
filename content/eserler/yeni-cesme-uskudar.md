@@ -1,18 +1,17 @@
 ---
-title: "Yeni Çeşme, Üsküdar | Miras Haritası"
-date: 2025-12-25T12:01:15+03:00
+title: "Yeni Çeşme, Üsküdar"
+date: "2025-12-25T12:01:15+03:00"
 slug: "yeni-cesme-uskudar"
 description: "## Yeni Çeşme, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0161648,41.0220413"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Çeşme, Üsküdar

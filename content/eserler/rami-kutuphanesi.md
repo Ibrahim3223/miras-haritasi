@@ -1,18 +1,17 @@
 ---
-title: "Rami Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:32+03:00
+title: "Rami Kütüphanesi"
+date: "2025-12-25T17:48:32+03:00"
 slug: "rami-kutuphanesi"
 description: "## Rami Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rami_Kütüphanesi_2023.jpg/1200px-Rami_Kütüphanesi_2023.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.915624306,41.049054651"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Rami Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Dadaşeni Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:00+03:00
+title: "Dadaşeni Kilisesi"
+date: "2025-12-25T08:57:00+03:00"
 slug: "dadaseni-kilisesi"
 description: "## Dadaşeni Kilisesi: Göle İlçesindeki Bir Tarihi Çanak Çömlek..."
 featured_image: ""
 province: "Göle İlçesi"
-iller: ["Göle İlçesi"]
+iller: '["Göle İlçesi"]'
 district: "Dedeşen"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.534888888,40.905055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dadaşeni Kilisesi: Göle İlçesindeki Bir Tarihi Çanak Çömlek

@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Kadın Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:02+03:00
+title: "İstanbul Kadın Müzesi"
+date: "2025-12-25T03:26:02+03:00"
 slug: "istanbul-kadin-muzesi"
 description: "## İstanbul Kadın Müzesi: Kadının Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.981369444,41.011638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Kadın Müzesi: Kadının Tarihi ve Kültürel Mirası

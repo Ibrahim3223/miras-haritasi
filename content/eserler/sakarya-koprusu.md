@@ -1,18 +1,17 @@
 ---
-title: "Sakarya Köprüsü | Miras Haritası"
-date: 2025-12-25T02:51:43+03:00
+title: "Sakarya Köprüsü"
+date: "2025-12-25T02:51:43+03:00"
 slug: "sakarya-koprusu"
 description: "## Sakarya Köprüsü: Türkiye'nin Tarihi ve Teknolojik Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.436779,40.7957306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarya Köprüsü: Türkiye'nin Tarihi ve Teknolojik Mirası

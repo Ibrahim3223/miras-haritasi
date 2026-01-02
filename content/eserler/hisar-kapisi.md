@@ -1,18 +1,17 @@
 ---
-title: "Hisar Kapısı | Miras Haritası"
-date: 2025-12-25T13:15:09+03:00
+title: "Hisar Kapısı"
+date: "2025-12-25T13:15:09+03:00"
 slug: "hisar-kapisi"
 description: "### Hisar Kapısı: Bursa'nın Tarihi Anıtı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0579052,40.1855431"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hisar Kapısı: Bursa'nın Tarihi Anıtı

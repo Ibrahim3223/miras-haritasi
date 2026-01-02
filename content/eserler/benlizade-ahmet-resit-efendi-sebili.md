@@ -1,18 +1,17 @@
 ---
-title: "Benlizade Ahmet Reşit Efendi Sebili | Miras Haritası"
-date: 2025-12-25T13:08:49+03:00
+title: "Benlizade Ahmet Reşit Efendi Sebili"
+date: "2025-12-25T13:08:49+03:00"
 slug: "benlizade-ahmet-resit-efendi-sebili"
 description: "**Benlizade Ahmet Reşit Efendi Sebili**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9486885,41.0236969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Benlizade Ahmet Reşit Efendi Sebili**

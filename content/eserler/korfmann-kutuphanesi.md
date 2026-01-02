@@ -1,18 +1,17 @@
 ---
-title: "Korfmann Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:59+03:00
+title: "Korfmann Kütüphanesi"
+date: "2025-12-25T17:51:59+03:00"
 slug: "korfmann-kutuphanesi"
 description: "## Korfmann Kütüphanesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "26.4031982,40.1457672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Korfmann Kütüphanesi

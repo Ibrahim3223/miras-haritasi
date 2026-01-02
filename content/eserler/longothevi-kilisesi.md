@@ -1,18 +1,17 @@
 ---
-title: "Longothevi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:12+03:00
+title: "Longothevi Kilisesi"
+date: "2025-12-25T09:04:12+03:00"
 slug: "longothevi-kilisesi"
 description: "## Longothevi Kilisesi..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Bulanık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.172813888,41.070572222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Longothevi Kilisesi

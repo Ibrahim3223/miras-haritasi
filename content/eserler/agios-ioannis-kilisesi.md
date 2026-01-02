@@ -1,18 +1,17 @@
 ---
-title: "Agios İoannis Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:35+03:00
+title: "Agios İoannis Kilisesi"
+date: "2025-12-25T09:33:35+03:00"
 slug: "agios-ioannis-kilisesi"
 description: "**Agios İoannis Kilisesi: Talas'ta Bir Tarihî Çanak**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.585516,38.640739"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Agios İoannis Kilisesi: Talas'ta Bir Tarihî Çanak**

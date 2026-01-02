@@ -1,18 +1,17 @@
 ---
-title: "Muradiye Külliyesi Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T11:01:15+03:00
+title: "Muradiye Külliyesi Çeşmesi 2"
+date: "2025-12-25T11:01:15+03:00"
 slug: "muradiye-kulliyesi-cesmesi-2"
 description: "## Muradiye Külliyesi Çeşmesi 2: Bursa'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0472679,40.1907692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muradiye Külliyesi Çeşmesi 2: Bursa'nın Tarihi Bir Çeşmesi

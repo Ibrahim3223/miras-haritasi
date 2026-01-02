@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:55:53+03:00
+title: "Kavaklı Camii Çeşmesi"
+date: "2025-12-25T10:55:53+03:00"
 slug: "kavakli-camii-cesmesi"
 description: "### Kavaklı Camii Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KAVAKLI_CAMİİ_ÇEŞMESİ_BURSA_-_panoramio_(1).jpg/1200px-KAVAKLI_CAMİİ_ÇEŞMESİ_BURSA_-_panoramio_(1).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0571156,40.1841698"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kavaklı Camii Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası

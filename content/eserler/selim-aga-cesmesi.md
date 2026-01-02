@@ -1,18 +1,17 @@
 ---
-title: "Selim Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:46+03:00
+title: "Selim Ağa Çeşmesi"
+date: "2025-12-25T11:20:46+03:00"
 slug: "selim-aga-cesmesi"
 description: "## Selim Ağa Çeşmesi: Üsküdar'da Bir Çeşme Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.016746,41.024767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selim Ağa Çeşmesi: Üsküdar'da Bir Çeşme Mirası

@@ -1,18 +1,17 @@
 ---
-title: "İçme yarışmasının evi | Miras Haritası"
-date: 2025-12-25T06:55:41+03:00
+title: "İçme yarışmasının evi"
+date: "2025-12-25T06:55:41+03:00"
 slug: "icme-yarismasinin-evi"
 description: "## İçme Yarışmasının Evi: Samandağ'ın Tarihi Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.92265278,36.12075278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İçme Yarışmasının Evi: Samandağ'ın Tarihi Mirası

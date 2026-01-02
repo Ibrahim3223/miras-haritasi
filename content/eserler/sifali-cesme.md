@@ -1,18 +1,17 @@
 ---
-title: "Şifalı Çeşme | Miras Haritası"
-date: 2025-12-25T11:13:35+03:00
+title: "Şifalı Çeşme"
+date: "2025-12-25T11:13:35+03:00"
 slug: "sifali-cesme"
 description: "## Şifalı Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Zeyrek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.951718,41.019398"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şifalı Çeşme

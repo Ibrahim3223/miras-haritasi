@@ -1,18 +1,17 @@
 ---
-title: "Acı Çeşme, Yakacık | Miras Haritası"
-date: 2025-12-25T11:57:34+03:00
+title: "Acı Çeşme, Yakacık"
+date: "2025-12-25T11:57:34+03:00"
 slug: "aci-cesme-yakacik"
 description: "## Acı Çeşme, Yakacık: Kartal'da Bir Osmanlı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ac_eme_Yakack_1761583838.jpg/1200px-Ac_eme_Yakack_1761583838.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.227817,40.918882"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Acı Çeşme, Yakacık: Kartal'da Bir Osmanlı Çeşmesi

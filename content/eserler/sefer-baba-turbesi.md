@@ -1,18 +1,17 @@
 ---
-title: "Sefer Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:29+03:00
+title: "Sefer Baba Türbesi"
+date: "2025-12-25T14:23:29+03:00"
 slug: "sefer-baba-turbesi"
 description: "**Sefer Baba Türbesi: Beyoğlu'ndaki Tarihi Bir Anıt**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.972559,41.038383"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sefer Baba Türbesi: Beyoğlu'ndaki Tarihi Bir Anıt**

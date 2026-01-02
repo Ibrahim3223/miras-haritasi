@@ -1,18 +1,17 @@
 ---
-title: "Ali Demirsoy Doğal Tarih Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:46+03:00
+title: "Ali Demirsoy Doğal Tarih Müzesi"
+date: "2025-12-25T03:10:46+03:00"
 slug: "ali-demirsoy-dogal-tarih-muzesi"
 description: "## Ali Demirsoy Doğal Tarih Müzesi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemaliye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.4975,39.260833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Demirsoy Doğal Tarih Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Halilbeyli | Miras Haritası"
-date: 2025-12-25T12:00:15+03:00
+title: "Çeşme, Halilbeyli"
+date: "2025-12-25T12:00:15+03:00"
 slug: "cesme-halilbeyli"
 description: "## Halilbeyli Çeşmesi: Aydın'ın Eski Çağdan Kalan Değerli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7366333,37.7666283"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halilbeyli Çeşmesi: Aydın'ın Eski Çağdan Kalan Değerli Çeşmesi

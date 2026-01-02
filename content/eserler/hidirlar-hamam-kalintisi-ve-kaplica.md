@@ -1,18 +1,17 @@
 ---
-title: "Hıdırlar Hamam Kalıntısı ve Kaplıca | Miras Haritası"
-date: 2025-12-25T16:42:52+03:00
+title: "Hıdırlar Hamam Kalıntısı ve Kaplıca"
+date: "2025-12-25T16:42:52+03:00"
 slug: "hidirlar-hamam-kalintisi-ve-kaplica"
 description: "### Hıdırlar Hamamı: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Yenice (Çanakkale)"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1555786,39.8449593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hıdırlar Hamamı: Tarihi ve Kültürel Mirasın Gizemi

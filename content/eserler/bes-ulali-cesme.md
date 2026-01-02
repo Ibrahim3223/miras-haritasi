@@ -1,18 +1,17 @@
 ---
-title: "Beş Ulalı Çeşme | Miras Haritası"
-date: 2025-12-25T11:28:10+03:00
+title: "Beş Ulalı Çeşme"
+date: "2025-12-25T11:28:10+03:00"
 slug: "bes-ulali-cesme"
 description: "### Beş Ulalı Çeşme..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6465282,38.5451622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beş Ulalı Çeşme

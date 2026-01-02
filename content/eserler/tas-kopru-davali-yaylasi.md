@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Davalı Yaylası | Miras Haritası"
-date: 2025-12-25T02:48:42+03:00
+title: "Taş Köprü, Davalı Yaylası"
+date: "2025-12-25T02:48:42+03:00"
 slug: "tas-kopru-davali-yaylasi"
 description: "## Taş Köprü, Davalı Yaylası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Taş_Köprü,_Davalı_Yaylası_2.jpg/1200px-Taş_Köprü,_Davalı_Yaylası_2.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "İspir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.1394577,40.791729"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Taş Köprü, Davalı Yaylası

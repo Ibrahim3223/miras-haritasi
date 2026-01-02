@@ -1,18 +1,17 @@
 ---
-title: "Krom Vadisi Zemberek Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:09+03:00
+title: "Krom Vadisi Zemberek Kilisesi"
+date: "2025-12-25T09:17:09+03:00"
 slug: "krom-vadisi-zemberek-kilisesi"
 description: "## Krom Vadisi Zemberek Kilisesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.578397,40.556055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Krom Vadisi Zemberek Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Bey Camii, Kozluk | Miras Haritası"
-date: 2025-12-25T00:03:27+03:00
+title: "İbrahim Bey Camii, Kozluk"
+date: "2025-12-25T00:03:27+03:00"
 slug: "ibrahim-bey-camii-kozluk"
 description: "## İbrahim Bey Camii, Kozluk..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.490345,38.1935921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Bey Camii, Kozluk

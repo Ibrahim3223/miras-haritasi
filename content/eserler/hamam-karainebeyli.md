@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Karainebeyli | Miras Haritası"
-date: 2025-12-25T17:14:36+03:00
+title: "Hamam, Karainebeyli"
+date: "2025-12-25T17:14:36+03:00"
 slug: "hamam-karainebeyli"
 description: "# Hamam, Karainebeyli..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.4317112,40.3492508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamam, Karainebeyli

@@ -1,18 +1,17 @@
 ---
-title: "Sevinç Köprüsü | Miras Haritası"
-date: 2025-12-25T02:39:05+03:00
+title: "Sevinç Köprüsü"
+date: "2025-12-25T02:39:05+03:00"
 slug: "sevinc-koprusu"
 description: "## Sevinç Köprüsü: Yağlıdere'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.627395,40.840156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sevinç Köprüsü: Yağlıdere'nin Tarihi ve Kültürel Mirası

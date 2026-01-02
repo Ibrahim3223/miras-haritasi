@@ -1,18 +1,17 @@
 ---
-title: "Parion Odeon | Miras Haritası"
-date: 2025-12-25T08:25:01+03:00
+title: "Parion Odeon"
+date: "2025-12-25T08:25:01+03:00"
 slug: "parion-odeon"
 description: "## Parion Odeon: Biga'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.068,40.424192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parion Odeon: Biga'nın Gizemli Arkeolojik Sitleri

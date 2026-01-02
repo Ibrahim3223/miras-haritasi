@@ -1,18 +1,17 @@
 ---
-title: "İbni Melek Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:03+03:00
+title: "İbni Melek Türbesi"
+date: "2025-12-25T15:10:03+03:00"
 slug: "ibni-melek-turbesi"
 description: "## İbni Melek Türbesi: Tarihî ve Kültürel Mirasın Değerli Armağanı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7317286,38.0861771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbni Melek Türbesi: Tarihî ve Kültürel Mirasın Değerli Armağanı

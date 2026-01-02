@@ -1,18 +1,17 @@
 ---
-title: "Alamadan Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:59+03:00
+title: "Alamadan Dede Türbesi"
+date: "2025-12-25T14:16:59+03:00"
 slug: "alamadan-dede-turbesi"
 description: "## Alamadan Dede Türbesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.726354,38.083517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alamadan Dede Türbesi: Tarihi ve Kültürel Miras

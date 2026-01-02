@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Seyfettin Çeşmesi (Mimar Sinan Mah.) | Miras Haritası"
-date: 2025-12-25T12:19:35+03:00
+title: "Şehzade Seyfettin Çeşmesi (Mimar Sinan Mah.)"
+date: "2025-12-25T12:19:35+03:00"
 slug: "sehzade-seyfettin-cesmesi-mimar-sinan-mah"
 description: "**Şehzade Seyfettin Çeşmesi: Üsküdar'da Bir Mimar Sinan Eseri**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.018484,41.021175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şehzade Seyfettin Çeşmesi: Üsküdar'da Bir Mimar Sinan Eseri**

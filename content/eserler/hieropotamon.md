@@ -1,18 +1,17 @@
 ---
-title: "Hieropotamon | Miras Haritası"
-date: 2025-12-25T05:04:43+03:00
+title: "Hieropotamon"
+date: "2025-12-25T05:04:43+03:00"
 slug: "hieropotamon"
 description: "## Hieropotamon: Antik Çağın Gizemli Evi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.690195,40.082671"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hieropotamon: Antik Çağın Gizemli Evi

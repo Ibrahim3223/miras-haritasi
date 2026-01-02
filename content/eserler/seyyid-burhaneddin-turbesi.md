@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Burhaneddin Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:07+03:00
+title: "Seyyid Burhaneddin Türbesi"
+date: "2025-12-25T15:33:07+03:00"
 slug: "seyyid-burhaneddin-turbesi"
 description: "### Seyyid Burhaneddin Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.497545785,38.716288241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyyid Burhaneddin Türbesi

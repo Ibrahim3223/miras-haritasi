@@ -1,18 +1,17 @@
 ---
-title: "Fevzipaşa Mahalle Çeşmesi, Foça | Miras Haritası"
-date: 2025-12-25T11:58:53+03:00
+title: "Fevzipaşa Mahalle Çeşmesi, Foça"
+date: "2025-12-25T11:58:53+03:00"
 slug: "fevzipasa-mahalle-cesmesi-foca"
 description: "## Fevzipaşa Mahalle Çeşmesi, Foça..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7554703,38.6682549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fevzipaşa Mahalle Çeşmesi, Foça

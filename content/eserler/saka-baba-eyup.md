@@ -1,18 +1,17 @@
 ---
-title: "Saka Baba, Eyüp | Miras Haritası"
-date: 2025-12-25T13:25:14+03:00
+title: "Saka Baba, Eyüp"
+date: "2025-12-25T13:25:14+03:00"
 slug: "saka-baba-eyup"
 description: "**Saka Baba Anıtı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9285851,41.0433044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Saka Baba Anıtı**

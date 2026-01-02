@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Yazır | Miras Haritası"
-date: 2025-12-25T12:28:33+03:00
+title: "Çeşme, Yazır"
+date: "2025-12-25T12:28:33+03:00"
 slug: "cesme-yazir"
 description: "## Çeşme, Yazır: Kumluca, Antalya'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.4262,36.3759"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Yazır: Kumluca, Antalya'nın Gizli Çeşmesi

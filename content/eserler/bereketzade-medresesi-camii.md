@@ -1,18 +1,17 @@
 ---
-title: "Bereketzade Medresesi Camii | Miras Haritası"
-date: 2025-12-24T22:46:14+03:00
+title: "Bereketzade Medresesi Camii"
+date: "2025-12-24T22:46:14+03:00"
 slug: "bereketzade-medresesi-camii"
 description: "### Bereketzade Medresesi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bereketzade_Medresesi_Camii_IMG_0880.jpg/1200px-Bereketzade_Medresesi_Camii_IMG_0880.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9735527,41.0231361"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bereketzade Medresesi Camii

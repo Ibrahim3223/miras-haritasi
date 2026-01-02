@@ -1,18 +1,17 @@
 ---
-title: "Soandos | Miras Haritası"
-date: 2025-12-25T05:11:53+03:00
+title: "Soandos"
+date: "2025-12-25T05:11:53+03:00"
 slug: "soandos"
 description: "## Soandos: Geçmişin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.878905,38.344286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soandos: Geçmişin Gizemi

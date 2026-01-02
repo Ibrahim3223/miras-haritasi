@@ -1,18 +1,17 @@
 ---
-title: "Baykuştepe | Miras Haritası"
-date: 2025-12-25T05:41:01+03:00
+title: "Baykuştepe"
+date: "2025-12-25T05:41:01+03:00"
 slug: "baykustepe"
 description: "## Baykuştepe: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.600123,38.651344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baykuştepe: Tarihî ve Kültürel Bir Miras

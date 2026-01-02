@@ -1,18 +1,17 @@
 ---
-title: "Nişancı Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T17:04:22+03:00
+title: "Nişancı Paşa Hamamı"
+date: "2025-12-25T17:04:22+03:00"
 slug: "nisanci-pasa-hamami"
 description: "## Nişancı Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9308376,41.0405388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nişancı Paşa Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:33+03:00
+title: "Ağa Hamamı"
+date: "2025-12-25T16:25:33+03:00"
 slug: "aga-hamami"
 description: "### Ağa Hamamı: İstanbul'un Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Tarihi_Ağa_Hamamı.jpg/1200px-Tarihi_Ağa_Hamamı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.98184,41.03316"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ağa Hamamı: İstanbul'un Gizli Kahramanı

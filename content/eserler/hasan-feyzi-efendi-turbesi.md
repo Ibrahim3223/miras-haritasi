@@ -1,18 +1,17 @@
 ---
-title: "Hasan Feyzi Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:14:49+03:00
+title: "Hasan Feyzi Efendi Türbesi"
+date: "2025-12-25T14:14:49+03:00"
 slug: "hasan-feyzi-efendi-turbesi"
 description: "## Hasan Feyzi Efendi Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.082286,37.764384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Feyzi Efendi Türbesi

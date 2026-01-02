@@ -1,18 +1,17 @@
 ---
-title: "TBMM Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:20+03:00
+title: "TBMM Kütüphanesi"
+date: "2025-12-25T17:48:20+03:00"
 slug: "tbmm-kutuphanesi"
 description: "## TBMM Kütüphanesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "32.851111111,39.911666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## TBMM Kütüphanesi

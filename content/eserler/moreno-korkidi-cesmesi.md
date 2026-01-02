@@ -1,18 +1,17 @@
 ---
-title: "Moreno Korkidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:03:13+03:00
+title: "Moreno Korkidi Çeşmesi"
+date: "2025-12-25T12:03:13+03:00"
 slug: "moreno-korkidi-cesmesi"
 description: "## Moreno Korkidi Çeşmesi: Bergama'nın Tarihi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1834507,39.1220665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Moreno Korkidi Çeşmesi: Bergama'nın Tarihi Çeşmesi

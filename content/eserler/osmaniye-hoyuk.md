@@ -1,18 +1,17 @@
 ---
-title: "Osmaniye Höyük | Miras Haritası"
-date: 2025-12-25T05:27:40+03:00
+title: "Osmaniye Höyük"
+date: "2025-12-25T05:27:40+03:00"
 slug: "osmaniye-hoyuk"
 description: "## Osmaniye Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.902767,39.85335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmaniye Höyük: Eskişehir'in Gizli Mirası

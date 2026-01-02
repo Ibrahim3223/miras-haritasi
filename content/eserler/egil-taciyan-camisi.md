@@ -1,18 +1,17 @@
 ---
-title: "Eğil Tacıyan Camisi | Miras Haritası"
-date: 2025-12-25T01:10:14+03:00
+title: "Eğil Tacıyan Camisi"
+date: "2025-12-25T01:10:14+03:00"
 slug: "egil-taciyan-camisi"
 description: "### Eğil Tacıyan Camisi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Eğil"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.093194444,38.254388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eğil Tacıyan Camisi

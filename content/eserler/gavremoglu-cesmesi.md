@@ -1,18 +1,17 @@
 ---
-title: "Gavremoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:14+03:00
+title: "Gavremoğlu Çeşmesi"
+date: "2025-12-25T10:51:14+03:00"
 slug: "gavremoglu-cesmesi"
 description: "### Gavremoğlu Çeşmesi: Melikgazi'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4924164,38.720108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gavremoğlu Çeşmesi: Melikgazi'nin Tarihi Bir Çeşmesi

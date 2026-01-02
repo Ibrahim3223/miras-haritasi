@@ -1,18 +1,17 @@
 ---
-title: "Yedek Camii | Miras Haritası"
-date: 2025-12-25T00:22:05+03:00
+title: "Yedek Camii"
+date: "2025-12-25T00:22:05+03:00"
 slug: "yedek-camii"
 description: "## Yedek Camii: Develi'nin Değerli Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.492856304,38.359360468"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yedek Camii: Develi'nin Değerli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Gözene Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:03:02+03:00
+title: "Gözene Köyü Camii"
+date: "2025-12-24T23:03:02+03:00"
 slug: "gozene-koyu-camii"
 description: "### Gözene Köyü Camii: Malatya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yeşilyurt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.0508652,38.1822281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gözene Köyü Camii: Malatya'nın Tarihi Bir Mirası

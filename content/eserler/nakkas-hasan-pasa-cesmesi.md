@@ -1,18 +1,17 @@
 ---
-title: "Nakkaş Hasan Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:35:49+03:00
+title: "Nakkaş Hasan Paşa Çeşmesi"
+date: "2025-12-25T10:35:49+03:00"
 slug: "nakkas-hasan-pasa-cesmesi"
 description: "### Nakkaş Hasan Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.935205,41.045044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nakkaş Hasan Paşa Çeşmesi

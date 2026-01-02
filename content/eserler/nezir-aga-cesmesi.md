@@ -1,18 +1,17 @@
 ---
-title: "Nezir Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:18:24+03:00
+title: "Nezir Ağa Çeşmesi"
+date: "2025-12-25T11:18:24+03:00"
 slug: "nezir-aga-cesmesi"
 description: "# Nezir Ağa Çeşmesi: Beyoğlu'ndaki Bir Tarihsel Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Nezir_Ağa_Çeşmesi_IMG_7753.jpg/1200px-Nezir_Ağa_Çeşmesi_IMG_7753.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kulaksız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.961518,41.03704"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Nezir Ağa Çeşmesi: Beyoğlu'ndaki Bir Tarihsel Çeşme

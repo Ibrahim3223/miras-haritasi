@@ -1,18 +1,17 @@
 ---
-title: "Edirnekapı Şehitliği | Miras Haritası"
-date: 2025-12-25T15:57:51+03:00
+title: "Edirnekapı Şehitliği"
+date: "2025-12-25T15:57:51+03:00"
 slug: "edirnekapi-sehitligi"
 description: "## Edirnekapı Şehitliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Edirnekapı_şehitliği5.JPG/1200px-Edirnekapı_şehitliği5.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.930575,41.032194"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Edirnekapı Şehitliği

@@ -1,18 +1,17 @@
 ---
-title: "Köprü 7, Altıntaş | Miras Haritası"
-date: 2025-12-25T02:48:14+03:00
+title: "Köprü 7, Altıntaş"
+date: "2025-12-25T02:48:14+03:00"
 slug: "kopru-7-altintas"
 description: "## Köprü 7, Altıntaş: Aydın'ın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3084888,37.6123619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprü 7, Altıntaş: Aydın'ın Gizli Çehresini Keşfetmek

@@ -1,18 +1,17 @@
 ---
-title: "Anıt Çeşme, Koyulhisar | Miras Haritası"
-date: 2025-12-25T12:51:11+03:00
+title: "Anıt Çeşme, Koyulhisar"
+date: "2025-12-25T12:51:11+03:00"
 slug: "anit-cesme-koyulhisar"
 description: "## Anıt Çeşme, Koyulhisar..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Koyulhisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.8309822,40.301487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anıt Çeşme, Koyulhisar

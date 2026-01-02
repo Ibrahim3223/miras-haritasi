@@ -1,18 +1,17 @@
 ---
-title: "Avcı Mehmet Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:47:28+03:00
+title: "Avcı Mehmet Çeşmesi"
+date: "2025-12-25T11:47:28+03:00"
 slug: "avci-mehmet-cesmesi"
 description: "## Avcı Mehmet Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Avcı_Mehmet_Fountain_-_20250531170058.jpg/1200px-Avcı_Mehmet_Fountain_-_20250531170058.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.353888888,41.409166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Avcı Mehmet Çeşmesi

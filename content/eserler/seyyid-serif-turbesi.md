@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Şerif Türbesi | Miras Haritası"
-date: 2025-12-25T15:34:48+03:00
+title: "Seyyid Şerif Türbesi"
+date: "2025-12-25T15:34:48+03:00"
 slug: "seyyid-serif-turbesi"
 description: "## Seyyid Şerif Türbesi: Develi'nin Tarihi Çehresini Taşıyan Bir Anıt..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.495077486,38.360600687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Şerif Türbesi: Develi'nin Tarihi Çehresini Taşıyan Bir Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Alpullu Kilisesi (2) Torul | Miras Haritası"
-date: 2025-12-25T09:13:28+03:00
+title: "Alpullu Kilisesi (2) Torul"
+date: "2025-12-25T09:13:28+03:00"
 slug: "alpullu-kilisesi-2-torul"
 description: "### Alpullu Kilisesi (2) Torul: Gümüşhane'nin Gizli Çağı..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.4945107,40.5753517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alpullu Kilisesi (2) Torul: Gümüşhane'nin Gizli Çağı

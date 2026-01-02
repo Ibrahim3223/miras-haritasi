@@ -1,18 +1,17 @@
 ---
-title: "Tahire Fesçi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:07:13+03:00
+title: "Tahire Fesçi Çeşmesi"
+date: "2025-12-25T12:07:13+03:00"
 slug: "tahire-fesci-cesmesi"
 description: "## Tahire Fesçi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.140543,38.4197578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahire Fesçi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Sultanhanı Höyük | Miras Haritası"
-date: 2025-12-25T06:03:49+03:00
+title: "Sultanhanı Höyük"
+date: "2025-12-25T06:03:49+03:00"
 slug: "sultanhani-hoyuk"
 description: "### Sultanhanı Höyük: Geç Antik Dönem'in Gizemi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Bünyan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.900177,38.9797249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultanhanı Höyük: Geç Antik Dönem'in Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Agbunar monastery | Miras Haritası"
-date: 2025-12-25T09:50:31+03:00
+title: "Agbunar monastery"
+date: "2025-12-25T09:50:31+03:00"
 slug: "agbunar-monastery"
 description: "### Agbunar Manastırı: Kars'ın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Agbunar Manastırı: Kars'ın Gizli Cenneti

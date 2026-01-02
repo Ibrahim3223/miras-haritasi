@@ -1,18 +1,17 @@
 ---
-title: "Zengibar Kalesi, Yeşilhisar | Miras Haritası"
-date: 2025-12-25T01:41:26+03:00
+title: "Zengibar Kalesi, Yeşilhisar"
+date: "2025-12-25T01:41:26+03:00"
 slug: "zengibar-kalesi-yesilhisar"
 description: "## Zengibar Kalesi: Yeşilhisar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Yeşilhisar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.0605583,38.3296776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zengibar Kalesi: Yeşilhisar'ın Tarihî Mirası

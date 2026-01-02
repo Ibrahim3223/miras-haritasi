@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Höyüğü | Miras Haritası"
-date: 2025-12-25T06:28:41+03:00
+title: "Yeniköy Höyüğü"
+date: "2025-12-25T06:28:41+03:00"
 slug: "yenikoy-hoyugu"
 description: "## Yeniköy Höyüğü: Tokat'ta Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Turhal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.0768404,40.2480575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeniköy Höyüğü: Tokat'ta Bir Arkeolojik Sitin Gizemi

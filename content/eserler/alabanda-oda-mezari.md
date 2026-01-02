@@ -1,18 +1,17 @@
 ---
-title: "Alabanda Oda Mezarı | Miras Haritası"
-date: 2025-12-25T14:02:40+03:00
+title: "Alabanda Oda Mezarı"
+date: "2025-12-25T14:02:40+03:00"
 slug: "alabanda-oda-mezari"
 description: "## Alabanda Oda Mezarı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.985323,37.5959549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alabanda Oda Mezarı

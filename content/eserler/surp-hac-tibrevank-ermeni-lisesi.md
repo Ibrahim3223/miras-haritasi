@@ -1,18 +1,17 @@
 ---
-title: "Surp Haç Tıbrevank Ermeni Lisesi | Miras Haritası"
-date: 2025-12-25T09:48:18+03:00
+title: "Surp Haç Tıbrevank Ermeni Lisesi"
+date: "2025-12-25T09:48:18+03:00"
 slug: "surp-hac-tibrevank-ermeni-lisesi"
 description: "## Surp Haç Tıbrevank Ermeni Lisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Surp_Haç_Ermeni_Lisesi_(2013)-1.jpg/1200px-Surp_Haç_Ermeni_Lisesi_(2013)-1.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.03105,41.0243"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Haç Tıbrevank Ermeni Lisesi

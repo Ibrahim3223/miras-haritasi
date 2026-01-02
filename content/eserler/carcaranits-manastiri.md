@@ -1,18 +1,17 @@
 ---
-title: "Çarçaranits Manastırı | Miras Haritası"
-date: 2025-12-25T09:57:09+03:00
+title: "Çarçaranits Manastırı"
+date: "2025-12-25T09:57:09+03:00"
 slug: "carcaranits-manastiri"
 description: "## Çarçaranits Manastırı: Erzurum Vilayeti'nin Gizli Çehresini Açıklamaya Değer Bir Miras..."
 featured_image: ""
-province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: "Erzurum Vilayeti"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "39.6969299,39.5833282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarçaranits Manastırı: Erzurum Vilayeti'nin Gizli Çehresini Açıklamaya Değer Bir Miras

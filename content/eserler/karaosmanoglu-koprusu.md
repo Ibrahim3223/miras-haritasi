@@ -1,18 +1,17 @@
 ---
-title: "Karaosmanoğlu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:23+03:00
+title: "Karaosmanoğlu Köprüsü"
+date: "2025-12-25T02:18:23+03:00"
 slug: "karaosmanoglu-koprusu"
 description: "# Karaosmanoğlu Köprüsü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kınık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.4522266,39.0580101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karaosmanoğlu Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

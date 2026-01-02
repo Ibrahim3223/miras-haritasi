@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Kethüda Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:51+03:00
+title: "Hüsrev Kethüda Çeşmesi"
+date: "2025-12-25T10:53:51+03:00"
 slug: "husrev-kethuda-cesmesi"
 description: "## Hüsrev Kethüda Çeşmesi: Malkara'da Bir Öne Çıkan Çeşme..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Malkara"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.9017048,40.891098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsrev Kethüda Çeşmesi: Malkara'da Bir Öne Çıkan Çeşme

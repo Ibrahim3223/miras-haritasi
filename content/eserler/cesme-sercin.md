@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Serçin | Miras Haritası"
-date: 2025-12-25T12:03:10+03:00
+title: "Çeşme, Serçin"
+date: "2025-12-25T12:03:10+03:00"
 slug: "cesme-sercin"
 description: "### Söke'nin Eski Şehri'nde Gizli Bir Çeşme: Serçin Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3901005,37.5455017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Söke'nin Eski Şehri'nde Gizli Bir Çeşme: Serçin Çeşmesi

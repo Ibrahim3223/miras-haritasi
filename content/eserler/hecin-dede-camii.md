@@ -1,18 +1,17 @@
 ---
-title: "Hecin Dede Camii | Miras Haritası"
-date: 2025-12-24T23:33:26+03:00
+title: "Hecin Dede Camii"
+date: "2025-12-24T23:33:26+03:00"
 slug: "hecin-dede-camii"
 description: "## Hecin Dede Camii: Burdur'un Tarihi Öreni..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Burdur"
+province: "Burdur"
+iller: '["Burdur"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2923527,37.7157364"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hecin Dede Camii: Burdur'un Tarihi Öreni

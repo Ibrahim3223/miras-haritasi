@@ -1,18 +1,17 @@
 ---
-title: "Berber İni Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:21:41+03:00
+title: "Berber İni Kaya Mezarı"
+date: "2025-12-25T13:21:41+03:00"
 slug: "berber-ini-kaya-mezari"
 description: "### Berber İni Kaya Mezarı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7660122,37.2857323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Berber İni Kaya Mezarı

@@ -1,18 +1,17 @@
 ---
-title: "Selahaddin Eyyubi Camii | Miras Haritası"
-date: 2025-12-24T22:20:53+03:00
+title: "Selahaddin Eyyubi Camii"
+date: "2025-12-24T22:20:53+03:00"
 slug: "selahaddin-eyyubi-camii"
 description: "### Selahaddin Eyyubi Camii..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Yenişehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.227944444,37.919333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selahaddin Eyyubi Camii

@@ -1,18 +1,17 @@
 ---
-title: "Altıntaş Yılanlı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:41:49+03:00
+title: "Altıntaş Yılanlı Tümülüsü"
+date: "2025-12-25T07:41:49+03:00"
 slug: "altintas-yilanli-tumulusu"
 description: "# Altıntaş Yılanlı Tümülüsü: Edirne'nin Gizemi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7258854,40.9692688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Altıntaş Yılanlı Tümülüsü: Edirne'nin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Ahmediye Camii | Miras Haritası"
-date: 2025-12-24T21:46:42+03:00
+title: "Ahmediye Camii"
+date: "2025-12-24T21:46:42+03:00"
 slug: "ahmediye-camii"
 description: "## Ahmediye Camii: İstanbul'un Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ahmediye_Mosque_9029.jpg/1200px-Ahmediye_Mosque_9029.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.946694444,41.014972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahmediye Camii: İstanbul'un Tarihi Mirası

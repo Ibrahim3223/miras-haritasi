@@ -1,18 +1,17 @@
 ---
-title: "Bayram Paşa Külliyesi Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:01:07+03:00
+title: "Bayram Paşa Külliyesi Şadırvanı"
+date: "2025-12-25T10:01:07+03:00"
 slug: "bayram-pasa-kulliyesi-sadirvani"
 description: "### Bayram Paşa Külliyesi Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.942295,41.008591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayram Paşa Külliyesi Şadırvanı

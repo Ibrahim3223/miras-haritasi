@@ -1,18 +1,17 @@
 ---
-title: "Rehabula Kadın Sebili | Miras Haritası"
-date: 2025-12-25T13:06:16+03:00
+title: "Rehabula Kadın Sebili"
+date: "2025-12-25T13:06:16+03:00"
 slug: "rehabula-kadin-sebili"
 description: "## Rehabula Kadın Sebili: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.960361,41.017034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rehabula Kadın Sebili: Fatih'in Gizli Çeşmesi

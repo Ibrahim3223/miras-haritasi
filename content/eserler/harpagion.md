@@ -1,18 +1,17 @@
 ---
-title: "Harpagion | Miras Haritası"
-date: 2025-12-25T08:07:50+03:00
+title: "Harpagion"
+date: "2025-12-25T08:07:50+03:00"
 slug: "harpagion"
 description: "### Harpagion: Biga'nın Gizli Arkeolojik Ören Yeri..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.391984,40.334274"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Harpagion: Biga'nın Gizli Arkeolojik Ören Yeri

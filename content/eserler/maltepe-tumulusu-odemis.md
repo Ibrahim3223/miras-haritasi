@@ -1,18 +1,17 @@
 ---
-title: "Maltepe Tümülüsü, Ödemiş | Miras Haritası"
-date: 2025-12-25T07:59:28+03:00
+title: "Maltepe Tümülüsü, Ödemiş"
+date: "2025-12-25T07:59:28+03:00"
 slug: "maltepe-tumulusu-odemis"
 description: "## Maltepe Tümülüsü: Ödemiş'in Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9328003,38.2528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltepe Tümülüsü: Ödemiş'in Gizli Kahramanı

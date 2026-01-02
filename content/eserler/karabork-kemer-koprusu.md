@@ -1,18 +1,17 @@
 ---
-title: "Karabörk Kemer Köprüsü | Miras Haritası"
-date: 2025-12-25T02:34:45+03:00
+title: "Karabörk Kemer Köprüsü"
+date: "2025-12-25T02:34:45+03:00"
 slug: "karabork-kemer-koprusu"
 description: "## Karabörk Kemer Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çanakçı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.037153,40.873201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabörk Kemer Köprüsü

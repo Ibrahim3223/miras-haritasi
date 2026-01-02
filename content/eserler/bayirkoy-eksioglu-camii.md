@@ -1,18 +1,17 @@
 ---
-title: "Bayırköy (Ekşioğlu) Camii | Miras Haritası"
-date: 2025-12-24T22:11:48+03:00
+title: "Bayırköy (Ekşioğlu) Camii"
+date: "2025-12-24T22:11:48+03:00"
 slug: "bayirkoy-eksioglu-camii"
 description: "### Bayırköy (Ekşioğlu) Camii: Rize'nin Tarihi Bir Öreni..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.586527,40.752399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayırköy (Ekşioğlu) Camii: Rize'nin Tarihi Bir Öreni

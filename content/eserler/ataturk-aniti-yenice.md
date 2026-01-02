@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Yenice | Miras Haritası"
-date: 2025-12-25T15:43:57+03:00
+title: "Atatürk Anıtı, Yenice"
+date: "2025-12-25T15:43:57+03:00"
 slug: "ataturk-aniti-yenice"
 description: "## Atatürk Anıtı, Yenice: Tarsus'un Ölümsüz Anıtı..."
 featured_image: ""
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.0519028,36.9733543"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı, Yenice: Tarsus'un Ölümsüz Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Yavukluoğlu Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:22+03:00
+title: "Yavukluoğlu Medresesi"
+date: "2025-12-25T17:41:22+03:00"
 slug: "yavukluoglu-medresesi"
 description: "### Yavukluoğlu Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.7262688,38.0810966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yavukluoğlu Medresesi

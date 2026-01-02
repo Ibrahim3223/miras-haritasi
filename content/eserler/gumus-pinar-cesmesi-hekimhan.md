@@ -1,18 +1,17 @@
 ---
-title: "Gümüş Pınar Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:18:54+03:00
+title: "Gümüş Pınar Çeşmesi, Hekimhan"
+date: "2025-12-25T12:18:54+03:00"
 slug: "gumus-pinar-cesmesi-hekimhan"
 description: "## Gümüş Pınar Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.936198456,38.813099242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüş Pınar Çeşmesi, Hekimhan

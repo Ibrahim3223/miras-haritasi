@@ -1,18 +1,17 @@
 ---
-title: "Merkez Hamamı | Miras Haritası"
-date: 2025-12-25T16:31:58+03:00
+title: "Merkez Hamamı"
+date: "2025-12-25T16:31:58+03:00"
 slug: "merkez-hamami"
 description: "## Merkez Hamamı: Dikili'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.93417,38.935047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merkez Hamamı: Dikili'nin Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Cyptasia | Miras Haritası"
-date: 2025-12-25T05:03:40+03:00
+title: "Cyptasia"
+date: "2025-12-25T05:03:40+03:00"
 slug: "cyptasia"
 description: "## Cyptasia: Türkiye'nin Gizli Çarpıntısı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.068707,41.92842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cyptasia: Türkiye'nin Gizli Çarpıntısı

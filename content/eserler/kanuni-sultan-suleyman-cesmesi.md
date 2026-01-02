@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Sultan Süleyman Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:06:14+03:00
+title: "Kanuni Sultan Süleyman Çeşmesi"
+date: "2025-12-25T10:06:14+03:00"
 slug: "kanuni-sultan-suleyman-cesmesi"
 description: "## Kanuni Sultan Süleyman Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kanuni_Sultan_Süleyman_Çeşmesi.JPG/1200px-Kanuni_Sultan_Süleyman_Çeşmesi.JPG"
-province: "Büyükçekmece"
-iller: ["Büyükçekmece"]
-district: "Dizdariye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.575722222,41.022305555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kanuni Sultan Süleyman Çeşmesi

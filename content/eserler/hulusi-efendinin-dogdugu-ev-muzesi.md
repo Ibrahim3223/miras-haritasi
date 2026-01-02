@@ -1,18 +1,17 @@
 ---
-title: "Hulusi Efendi’nin Doğduğu Ev Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:17+03:00
+title: "Hulusi Efendi’nin Doğduğu Ev Müzesi"
+date: "2025-12-25T04:01:17+03:00"
 slug: "hulusi-efendinin-dogdugu-ev-muzesi"
 description: "## Hulusi Efendi’nin Doğduğu Ev Müzesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Malatya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.481001372,38.60748917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hulusi Efendi’nin Doğduğu Ev Müzesi

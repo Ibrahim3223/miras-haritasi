@@ -1,18 +1,17 @@
 ---
-title: "Kadın Anıtı | Miras Haritası"
-date: 2025-12-25T15:55:58+03:00
+title: "Kadın Anıtı"
+date: "2025-12-25T15:55:58+03:00"
 slug: "kadin-aniti"
 description: "## Kadın Anıtı: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.128361111,38.417777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadın Anıtı: İzmir'in Tarihi ve Kültürel Mirası

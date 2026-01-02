@@ -1,18 +1,17 @@
 ---
-title: "Duhanizade Mescidi | Miras Haritası"
-date: 2025-12-24T22:51:07+03:00
+title: "Duhanizade Mescidi"
+date: "2025-12-24T22:51:07+03:00"
 slug: "duhanizade-mescidi"
 description: "## Duhanizade Mescidi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.928382,41.001911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Duhanizade Mescidi: İstanbul'un Gizli Çeşmesi

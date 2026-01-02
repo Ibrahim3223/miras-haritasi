@@ -1,18 +1,17 @@
 ---
-title: "Şirin Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:13:12+03:00
+title: "Şirin Sokak Çeşmesi"
+date: "2025-12-25T11:13:12+03:00"
 slug: "sirin-sokak-cesmesi"
 description: "## Şirin Sokak Çeşmesi: Emirgan'ın Gizli Çeşmesi..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Emirgan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0506682,41.1012946"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şirin Sokak Çeşmesi: Emirgan'ın Gizli Çeşmesi

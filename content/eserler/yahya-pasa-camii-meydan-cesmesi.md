@@ -1,18 +1,17 @@
 ---
-title: "Yahya Paşa Camii Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:29+03:00
+title: "Yahya Paşa Camii Meydan Çeşmesi"
+date: "2025-12-25T10:33:29+03:00"
 slug: "yahya-pasa-camii-meydan-cesmesi"
 description: "## Yahya Paşa Camii Meydan Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3248405,37.9022141"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahya Paşa Camii Meydan Çeşmesi

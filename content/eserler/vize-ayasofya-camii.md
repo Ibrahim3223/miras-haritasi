@@ -1,18 +1,17 @@
 ---
-title: "Vize Ayasofya Camii | Miras Haritası"
-date: 2025-12-24T22:02:10+03:00
+title: "Vize Ayasofya Camii"
+date: "2025-12-24T22:02:10+03:00"
 slug: "vize-ayasofya-camii"
 description: "### Vize Ayasofya Camii: Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Vize_Hagia_Sophia_-_P1020915.JPG/1200px-Vize_Hagia_Sophia_-_P1020915.JPG"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7672,41.5764"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Vize Ayasofya Camii: Tarihi ve Kültürel Mirası

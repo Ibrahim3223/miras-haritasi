@@ -1,18 +1,17 @@
 ---
-title: "III. Murat Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:58+03:00
+title: "III. Murat Çeşmesi"
+date: "2025-12-25T10:34:58+03:00"
 slug: "iii-murat-cesmesi"
 description: "## III. Murat Çeşmesi: Beyoğlu'ndaki Bir Tarihi Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/III._Murat_Çeşmesi_IMG_5777.jpg/1200px-III._Murat_Çeşmesi_IMG_5777.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.965582,41.034084"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## III. Murat Çeşmesi: Beyoğlu'ndaki Bir Tarihi Çeşme

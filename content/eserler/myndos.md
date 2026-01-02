@@ -1,18 +1,17 @@
 ---
-title: "Myndos | Miras Haritası"
-date: 2025-12-25T07:16:07+03:00
+title: "Myndos"
+date: "2025-12-25T07:16:07+03:00"
 slug: "myndos"
 description: "### Myndos: Muğla'daki Antik Bir Şehrin Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Myndos.jpg/1200px-Myndos.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.228055555,37.054722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Myndos: Muğla'daki Antik Bir Şehrin Mirası

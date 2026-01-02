@@ -1,18 +1,17 @@
 ---
-title: "Acemler Camii | Miras Haritası"
-date: 2025-12-25T00:43:16+03:00
+title: "Acemler Camii"
+date: "2025-12-25T00:43:16+03:00"
 slug: "acemler-camii"
 description: "## Acemler Camii Tanıtımı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.063795096,40.188008131"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acemler Camii Tanıtımı

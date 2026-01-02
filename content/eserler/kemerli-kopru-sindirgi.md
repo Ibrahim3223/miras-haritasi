@@ -1,18 +1,17 @@
 ---
-title: "Kemerli Köprü, Sındırgı | Miras Haritası"
-date: 2025-12-25T02:49:19+03:00
+title: "Kemerli Köprü, Sındırgı"
+date: "2025-12-25T02:49:19+03:00"
 slug: "kemerli-kopru-sindirgi"
 description: "## Kemerli Köprü, Sındırgı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Sındırgı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1748276,39.236969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemerli Köprü, Sındırgı

@@ -1,18 +1,17 @@
 ---
-title: "Karakurt Camii | Miras Haritası"
-date: 2025-12-24T23:44:13+03:00
+title: "Karakurt Camii"
+date: "2025-12-24T23:44:13+03:00"
 slug: "karakurt-camii"
 description: "### Karakurt Camii: Kırşehir'in Tarihî ve Mimari Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir ili genel seçim sonuçları"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.9874458,39.1172218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karakurt Camii: Kırşehir'in Tarihî ve Mimari Mirası

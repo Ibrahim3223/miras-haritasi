@@ -1,18 +1,17 @@
 ---
-title: "Hamamizade İsmail Dede Efendi Evi | Miras Haritası"
-date: 2025-12-25T04:07:34+03:00
+title: "Hamamizade İsmail Dede Efendi Evi"
+date: "2025-12-25T04:07:34+03:00"
 slug: "hamamizade-ismail-dede-efendi-evi"
 description: "### Hamamizade İsmail Dede Efendi Evi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9797935,41.0031433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamamizade İsmail Dede Efendi Evi

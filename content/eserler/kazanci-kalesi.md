@@ -1,18 +1,17 @@
 ---
-title: "Kazancı Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:20+03:00
+title: "Kazancı Kalesi"
+date: "2025-12-25T01:37:20+03:00"
 slug: "kazanci-kalesi"
 description: "## Kazancı Kalesi: Hınıs'ta Bir Tarihî Miras..."
 featured_image: ""
 province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
+iller: '["Erzurum Vilayeti"]'
 district: "Hınıs"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.6162453,39.468605"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazancı Kalesi: Hınıs'ta Bir Tarihî Miras

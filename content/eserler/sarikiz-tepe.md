@@ -1,18 +1,17 @@
 ---
-title: "Sarıkız Tepe | Miras Haritası"
-date: 2025-12-25T15:29:36+03:00
+title: "Sarıkız Tepe"
+date: "2025-12-25T15:29:36+03:00"
 slug: "sarikiz-tepe"
 description: "### Sarıkız Tepe: Edremit'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.8745308,39.6916122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarıkız Tepe: Edremit'in Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Erzin Merkez Camii | Miras Haritası"
-date: 2025-12-24T23:00:22+03:00
+title: "Erzin Merkez Camii"
+date: "2025-12-24T23:00:22+03:00"
 slug: "erzin-merkez-camii"
 description: "## Erzin Merkez Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.198761,36.9556274"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erzin Merkez Camii

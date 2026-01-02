@@ -1,18 +1,17 @@
 ---
-title: "Elgiz Çağdaş Sanat Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:37+03:00
+title: "Elgiz Çağdaş Sanat Müzesi"
+date: "2025-12-25T03:50:37+03:00"
 slug: "elgiz-cagdas-sanat-muzesi"
 description: "## Elgiz Çağdaş Sanat Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.020459,41.109613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elgiz Çağdaş Sanat Müzesi

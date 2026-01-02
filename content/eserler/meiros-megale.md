@@ -1,18 +1,17 @@
 ---
-title: "Meiros Megale | Miras Haritası"
-date: 2025-12-25T05:14:49+03:00
+title: "Meiros Megale"
+date: "2025-12-25T05:14:49+03:00"
 slug: "meiros-megale"
 description: "## Meiros Megale: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.309537,39.291972"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meiros Megale: Antik Çağın Gizemi

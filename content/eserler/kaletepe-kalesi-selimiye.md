@@ -1,18 +1,17 @@
 ---
-title: "Kaletepe Kalesi, Selimiye | Miras Haritası"
-date: 2025-12-25T01:25:38+03:00
+title: "Kaletepe Kalesi, Selimiye"
+date: "2025-12-25T01:25:38+03:00"
 slug: "kaletepe-kalesi-selimiye"
 description: "## Kaletepe Kalesi, Selimiye: Marmaris'in Eski Günlerine Yolculuk..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.1003094,36.6881065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaletepe Kalesi, Selimiye: Marmaris'in Eski Günlerine Yolculuk

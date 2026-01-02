@@ -1,18 +1,17 @@
 ---
-title: "Gümüşlü Camii | Miras Haritası"
-date: 2025-12-24T23:27:29+03:00
+title: "Gümüşlü Camii"
+date: "2025-12-24T23:27:29+03:00"
 slug: "gumuslu-camii"
 description: "## Gümüşlü Camii: Amasya'nın Eski Kent Merkezi'ndeki Örgün Özellikli Camii..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8347282,40.6520615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüşlü Camii: Amasya'nın Eski Kent Merkezi'ndeki Örgün Özellikli Camii

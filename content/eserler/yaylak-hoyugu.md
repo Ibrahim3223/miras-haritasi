@@ -1,18 +1,17 @@
 ---
-title: "Yaylak Höyüğü | Miras Haritası"
-date: 2025-12-25T06:28:03+03:00
+title: "Yaylak Höyüğü"
+date: "2025-12-25T06:28:03+03:00"
 slug: "yaylak-hoyugu"
 description: "### Yaylak Höyüğü: Şanlıurfa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Bozova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3383535,37.3837638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yaylak Höyüğü: Şanlıurfa'nın Gizli Kahramanı

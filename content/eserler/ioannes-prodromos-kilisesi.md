@@ -1,18 +1,17 @@
 ---
-title: "İoannes Prodromos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:09:24+03:00
+title: "İoannes Prodromos Kilisesi"
+date: "2025-12-25T09:09:24+03:00"
 slug: "ioannes-prodromos-kilisesi"
 description: "## İoannes Prodromos Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.068266,40.880975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İoannes Prodromos Kilisesi: İstanbul'un Gizli Cenneti

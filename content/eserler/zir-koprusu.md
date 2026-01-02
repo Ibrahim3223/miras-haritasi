@@ -1,18 +1,17 @@
 ---
-title: "Zir Köprüsü | Miras Haritası"
-date: 2025-12-25T02:06:47+03:00
+title: "Zir Köprüsü"
+date: "2025-12-25T02:06:47+03:00"
 slug: "zir-koprusu"
 description: "### Zir Köprüsü: Ankara'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.525775,39.991087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zir Köprüsü: Ankara'nın Tarihi Mirası

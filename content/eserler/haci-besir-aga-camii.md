@@ -1,18 +1,17 @@
 ---
-title: "Hacı Beşir Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:54:13+03:00
+title: "Hacı Beşir Ağa Camii"
+date: "2025-12-24T21:54:13+03:00"
 slug: "haci-besir-aga-camii"
 description: "## Hacı Beşir Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hacıi_Beshir_Aga_mosque_6793.jpg/1200px-Hacıi_Beshir_Aga_mosque_6793.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Alemdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.97727,41.01069"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Beşir Ağa Camii

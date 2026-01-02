@@ -1,18 +1,17 @@
 ---
-title: "Sofular Höyük, Bala | Miras Haritası"
-date: 2025-12-25T06:13:32+03:00
+title: "Sofular Höyük, Bala"
+date: "2025-12-25T06:13:32+03:00"
 slug: "sofular-hoyuk-bala"
 description: "# Sofular Höyük, Bala: Tarihin Eski Kenti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Balâ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.1223335,39.2602654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sofular Höyük, Bala: Tarihin Eski Kenti

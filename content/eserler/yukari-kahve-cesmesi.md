@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Kahve Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:32:03+03:00
+title: "Yukarı Kahve Çeşmesi"
+date: "2025-12-25T10:32:03+03:00"
 slug: "yukari-kahve-cesmesi"
 description: "## Yukarı Kahve Çeşmesi: Aydın'ın Efsanevi Abidesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.96772,37.8561096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Kahve Çeşmesi: Aydın'ın Efsanevi Abidesi

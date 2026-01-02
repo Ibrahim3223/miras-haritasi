@@ -1,18 +1,17 @@
 ---
-title: "Bizans Sarayı (Sarhoş Hamamı) | Miras Haritası"
-date: 2025-12-25T08:21:23+03:00
+title: "Bizans Sarayı (Sarhoş Hamamı)"
+date: "2025-12-25T08:21:23+03:00"
 slug: "bizans-sarayi-sarhos-hamami"
 description: "## Bizans Sarayı (Sarhoş Hamamı): İzmir'in Gizli Şarkısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.342384421,37.944778793"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bizans Sarayı (Sarhoş Hamamı): İzmir'in Gizli Şarkısı

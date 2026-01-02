@@ -1,18 +1,17 @@
 ---
-title: "Höyüktepe | Miras Haritası"
-date: 2025-12-25T06:04:55+03:00
+title: "Höyüktepe"
+date: "2025-12-25T06:04:55+03:00"
 slug: "hoyuktepe"
 description: "## Höyüktepe Arkeolojik Sit..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Yalova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.3407135,40.5668564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Höyüktepe Arkeolojik Sit

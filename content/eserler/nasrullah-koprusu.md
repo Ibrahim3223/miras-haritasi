@@ -1,18 +1,17 @@
 ---
-title: "Nasrullah Köprüsü | Miras Haritası"
-date: 2025-12-25T03:06:15+03:00
+title: "Nasrullah Köprüsü"
+date: "2025-12-25T03:06:15+03:00"
 slug: "nasrullah-koprusu"
 description: "# Nasrullah Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Nasrullah_Bridge.jpg/1200px-Nasrullah_Bridge.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kastamonu"
+province: "Kastamonu"
+iller: '["Kastamonu"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.77643,41.3776"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Nasrullah Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Sinanlı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:45:39+03:00
+title: "Sinanlı Çeşmesi"
+date: "2025-12-25T11:45:39+03:00"
 slug: "sinanli-cesmesi"
 description: "## Sinanlı Çeşmesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.149083333,41.346638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinanlı Çeşmesi

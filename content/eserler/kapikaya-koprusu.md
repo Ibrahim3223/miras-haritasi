@@ -1,18 +1,17 @@
 ---
-title: "Kapıkaya Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:04+03:00
+title: "Kapıkaya Köprüsü"
+date: "2025-12-25T02:15:04+03:00"
 slug: "kapikaya-koprusu"
 description: "### Kapıkaya Köprüsü: Bergama'nın Tarihi Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.1436539,39.1706314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kapıkaya Köprüsü: Bergama'nın Tarihi Gizemi

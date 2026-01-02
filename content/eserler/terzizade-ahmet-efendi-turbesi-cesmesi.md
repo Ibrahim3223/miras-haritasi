@@ -1,18 +1,17 @@
 ---
-title: "Terzizade Ahmet Efendi Türbesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:20+03:00
+title: "Terzizade Ahmet Efendi Türbesi Çeşmesi"
+date: "2025-12-25T11:29:20+03:00"
 slug: "terzizade-ahmet-efendi-turbesi-cesmesi"
 description: "## Terzizade Ahmet Efendi Türbesi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4360485,38.611908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terzizade Ahmet Efendi Türbesi Çeşmesi

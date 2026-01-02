@@ -1,18 +1,17 @@
 ---
-title: "Marmara Surları: Değirmen Kapı | Miras Haritası"
-date: 2025-12-25T13:17:48+03:00
+title: "Marmara Surları: Değirmen Kapı"
+date: "2025-12-25T13:17:48+03:00"
 slug: "marmara-surlari-degirmen-kapi"
 description: "## Marmara Surları: Değirmen Kapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9875011,41.0127907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marmara Surları: Değirmen Kapı

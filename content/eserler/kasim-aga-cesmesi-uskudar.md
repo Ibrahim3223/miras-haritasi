@@ -1,18 +1,17 @@
 ---
-title: "Kasım Ağa Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T12:10:27+03:00
+title: "Kasım Ağa Çeşmesi, Üsküdar"
+date: "2025-12-25T12:10:27+03:00"
 slug: "kasim-aga-cesmesi-uskudar"
 description: "### Kasım Ağa Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.025471,41.017862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kasım Ağa Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

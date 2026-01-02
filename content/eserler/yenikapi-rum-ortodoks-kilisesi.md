@@ -1,18 +1,17 @@
 ---
-title: "Yenikapı Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:55+03:00
+title: "Yenikapı Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:38:55+03:00"
 slug: "yenikapi-rum-ortodoks-kilisesi"
 description: "## Yenikapı Rum Ortodoks Kilisesi: Antalya'nın Gizli Çehresinde Bir İncil..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.7070065,36.8823853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenikapı Rum Ortodoks Kilisesi: Antalya'nın Gizli Çehresinde Bir İncil

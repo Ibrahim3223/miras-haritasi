@@ -1,18 +1,17 @@
 ---
-title: "Seyitgazi Çırçır Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:47:18+03:00
+title: "Seyitgazi Çırçır Çeşmesi"
+date: "2025-12-25T10:47:18+03:00"
 slug: "seyitgazi-circir-cesmesi"
 description: "## Seyitgazi Çırçır Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.6987877,39.4436607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyitgazi Çırçır Çeşmesi

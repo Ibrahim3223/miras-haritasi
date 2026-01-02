@@ -1,18 +1,17 @@
 ---
-title: "Kabakçı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:34+03:00
+title: "Kabakçı Çeşmesi"
+date: "2025-12-25T11:50:34+03:00"
 slug: "kabakci-cesmesi"
 description: "## Kabakçı Çeşmesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1104412,41.2310791"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabakçı Çeşmesi: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Kasım Halife Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:31+03:00
+title: "Kasım Halife Camii Çeşmesi"
+date: "2025-12-25T11:37:31+03:00"
 slug: "kasim-halife-camii-cesmesi"
 description: "## Kasım Halife Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4298172,37.8575554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasım Halife Camii Çeşmesi

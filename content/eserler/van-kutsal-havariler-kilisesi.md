@@ -1,18 +1,17 @@
 ---
-title: "Van Kutsal Havariler Kilisesi | Miras Haritası"
-date: 2025-12-25T08:54:58+03:00
+title: "Van Kutsal Havariler Kilisesi"
+date: "2025-12-25T08:54:58+03:00"
 slug: "van-kutsal-havariler-kilisesi"
 description: "**Van Kutsal Havariler Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Old_City_Van_2009.JPG/1200px-Old_City_Van_2009.JPG"
-province: "Van Eyaleti"
-iller: ["Van Eyaleti"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: "Van Eyaleti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.341666666,38.499444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Van Kutsal Havariler Kilisesi**

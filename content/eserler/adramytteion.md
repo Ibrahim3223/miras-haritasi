@@ -1,18 +1,17 @@
 ---
-title: "Adramytteion | Miras Haritası"
-date: 2025-12-25T04:30:43+03:00
+title: "Adramytteion"
+date: "2025-12-25T04:30:43+03:00"
 slug: "adramytteion"
 description: "# Adramytteion: Tarihe Dokunan Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhaniye_Tarihi.JPG/1200px-Burhaniye_Tarihi.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.935833333,39.498888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Adramytteion: Tarihe Dokunan Bir Arkeolojik Sit

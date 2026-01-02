@@ -1,18 +1,17 @@
 ---
-title: "Dicle Tüneli | Miras Haritası"
-date: 2025-12-25T06:51:44+03:00
+title: "Dicle Tüneli"
+date: "2025-12-25T06:51:44+03:00"
 slug: "dicle-tuneli"
 description: "# Dicle Tüneli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ausgang_des_Tigristunnels.jpg/1200px-Ausgang_des_Tigristunnels.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.547447,38.529653"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Dicle Tüneli

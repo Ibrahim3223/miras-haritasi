@@ -1,18 +1,17 @@
 ---
-title: "Yelmaniye Camii | Miras Haritası"
-date: 2025-12-24T23:47:51+03:00
+title: "Yelmaniye Camii"
+date: "2025-12-24T23:47:51+03:00"
 slug: "yelmaniye-camii"
 description: "## Yelmaniye Camii: Tunceli'nin Gizli Çağından Kalan Bir İncil..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Çemişgezek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.9135818,39.062603"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yelmaniye Camii: Tunceli'nin Gizli Çağından Kalan Bir İncil

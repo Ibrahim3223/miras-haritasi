@@ -1,18 +1,17 @@
 ---
-title: "Karakaş Bey Camii | Miras Haritası"
-date: 2025-12-25T00:10:48+03:00
+title: "Karakaş Bey Camii"
+date: "2025-12-25T00:10:48+03:00"
 slug: "karakas-bey-camii"
 description: "## Karakaş Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Karakaşbey_Camii_01.jpg/1200px-Karakaşbey_Camii_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.221459257,41.734403854"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karakaş Bey Camii

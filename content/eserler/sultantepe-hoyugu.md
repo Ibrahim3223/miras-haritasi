@@ -1,18 +1,17 @@
 ---
-title: "Sultantepe Höyüğü | Miras Haritası"
-date: 2025-12-25T05:44:45+03:00
+title: "Sultantepe Höyüğü"
+date: "2025-12-25T05:44:45+03:00"
 slug: "sultantepe-hoyugu"
 description: "**Sultantepe Höyüğü: Şanlıurfa'nın Gizli Tarihi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sultantepe1.jpg/1200px-Sultantepe1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.90611111,37.05027778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Sultantepe Höyüğü: Şanlıurfa'nın Gizli Tarihi**

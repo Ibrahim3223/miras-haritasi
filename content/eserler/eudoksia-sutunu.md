@@ -1,18 +1,17 @@
 ---
-title: "Eudoksia Sütunu | Miras Haritası"
-date: 2025-12-25T14:31:38+03:00
+title: "Eudoksia Sütunu"
+date: "2025-12-25T14:31:38+03:00"
 slug: "eudoksia-sutunu"
 description: "### Eudoksia Sütunu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.979081,41.008885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eudoksia Sütunu

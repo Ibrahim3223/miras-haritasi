@@ -1,18 +1,17 @@
 ---
-title: "Emir Sultan Türbesi, Kayseri | Miras Haritası"
-date: 2025-12-25T00:53:48+03:00
+title: "Emir Sultan Türbesi, Kayseri"
+date: "2025-12-25T00:53:48+03:00"
 slug: "emir-sultan-turbesi-kayseri"
 description: "## Emir Sultan Türbesi, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4893456,38.7177849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Sultan Türbesi, Kayseri

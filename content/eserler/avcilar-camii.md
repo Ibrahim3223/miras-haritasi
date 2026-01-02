@@ -1,18 +1,17 @@
 ---
-title: "Avcılar Camii | Miras Haritası"
-date: 2025-12-25T00:59:22+03:00
+title: "Avcılar Camii"
+date: "2025-12-25T00:59:22+03:00"
 slug: "avcilar-camii"
 description: "## Avcılar Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3949,40.6358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avcılar Camii: Artvin'in Gizli Cenneti

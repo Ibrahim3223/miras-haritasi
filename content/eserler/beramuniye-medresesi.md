@@ -1,18 +1,17 @@
 ---
-title: "Beramuniye Medresesi | Miras Haritası"
-date: 2025-12-25T17:39:55+03:00
+title: "Beramuniye Medresesi"
+date: "2025-12-25T17:39:55+03:00"
 slug: "beramuniye-medresesi"
 description: "## Beramuniye Medresesi: Aksaray'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "34.0281563,38.3753433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beramuniye Medresesi: Aksaray'ın Tarihî Mirası

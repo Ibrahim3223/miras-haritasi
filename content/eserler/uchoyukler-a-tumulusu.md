@@ -1,18 +1,17 @@
 ---
-title: "Üçhöyükler A Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:19+03:00
+title: "Üçhöyükler A Tümülüsü"
+date: "2025-12-25T08:03:19+03:00"
 slug: "uchoyukler-a-tumulusu"
 description: "## Üçhöyükler A Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9305706,41.8553123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçhöyükler A Tümülüsü

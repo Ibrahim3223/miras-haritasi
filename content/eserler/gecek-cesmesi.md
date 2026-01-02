@@ -1,18 +1,17 @@
 ---
-title: "Gecek Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:09+03:00
+title: "Gecek Çeşmesi"
+date: "2025-12-25T10:44:09+03:00"
 slug: "gecek-cesmesi"
 description: "## Gecek Çeşmesi: Eskişehir'in Göz Alıcı Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Günyüzü"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.7700901,39.3814583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gecek Çeşmesi: Eskişehir'in Göz Alıcı Çeşmesi

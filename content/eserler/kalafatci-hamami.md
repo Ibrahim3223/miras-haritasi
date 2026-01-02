@@ -1,18 +1,17 @@
 ---
-title: "Kalafatçı Hamamı | Miras Haritası"
-date: 2025-12-25T17:04:51+03:00
+title: "Kalafatçı Hamamı"
+date: "2025-12-25T17:04:51+03:00"
 slug: "kalafatci-hamami"
 description: "## Kalafatçı Hamamı: Beyoğlu'ndaki Tarihi Bir Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9508743,41.0407867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalafatçı Hamamı: Beyoğlu'ndaki Tarihi Bir Hamam

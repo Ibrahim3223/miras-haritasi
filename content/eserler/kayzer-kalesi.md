@@ -1,18 +1,17 @@
 ---
-title: "Kayzer Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:28+03:00
+title: "Kayzer Kalesi"
+date: "2025-12-25T01:26:28+03:00"
 slug: "kayzer-kalesi"
 description: "## Kayzer Kalesi: Kütahya'da Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.2716064,39.5091743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayzer Kalesi: Kütahya'da Tarih ve Kültür Mirası

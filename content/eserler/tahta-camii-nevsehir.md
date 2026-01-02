@@ -1,18 +1,17 @@
 ---
-title: "Tahta Camii (Nevşehir) | Miras Haritası"
-date: 2025-12-25T00:26:10+03:00
+title: "Tahta Camii (Nevşehir)"
+date: "2025-12-25T00:26:10+03:00"
 slug: "tahta-camii-nevsehir"
 description: "## Tahta Camii: Nevşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.7106171,38.6215973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahta Camii: Nevşehir'in Gizli Cenneti

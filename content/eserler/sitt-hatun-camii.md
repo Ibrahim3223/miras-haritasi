@@ -1,18 +1,17 @@
 ---
-title: "Sittî Hatun Camii | Miras Haritası"
-date: 2025-12-24T23:41:45+03:00
+title: "Sittî Hatun Camii"
+date: "2025-12-24T23:41:45+03:00"
 slug: "sitt-hatun-camii"
 description: "## Sittî Hatun Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20250408_Sitti_Hatun_Camii_ön_xephe.jpg/1200px-20250408_Sitti_Hatun_Camii_ön_xephe.jpg"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0731964,40.1857986"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sittî Hatun Camii

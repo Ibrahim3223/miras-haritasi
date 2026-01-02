@@ -1,18 +1,17 @@
 ---
-title: "Bey Hamamı | Miras Haritası"
-date: 2025-12-25T16:30:15+03:00
+title: "Bey Hamamı"
+date: "2025-12-25T16:30:15+03:00"
 slug: "bey-hamami"
 description: "## Bey Hamamı: Isparta'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5573597,37.763846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bey Hamamı: Isparta'nın Tarihî Bir Mirası

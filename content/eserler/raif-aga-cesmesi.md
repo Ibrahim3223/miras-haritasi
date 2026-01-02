@@ -1,18 +1,17 @@
 ---
-title: "Raif Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:07+03:00
+title: "Raif Ağa Çeşmesi"
+date: "2025-12-25T11:07:07+03:00"
 slug: "raif-aga-cesmesi"
 description: "## Raif Ağa Çeşmesi: Beşiktaş'taki Bir Değerli Tarihi Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Raif_Ağa_Çeşmesi_IMG_8186.jpg/1200px-Raif_Ağa_Çeşmesi_IMG_8186.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.997437,41.047143"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Raif Ağa Çeşmesi: Beşiktaş'taki Bir Değerli Tarihi Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Taş ve Ahşap Eserleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:42:25+03:00
+title: "Taş ve Ahşap Eserleri Müzesi"
+date: "2025-12-25T03:42:25+03:00"
 slug: "tas-ve-ahsap-eserleri-muzesi"
 description: "## Taş ve Ahşap Eserleri Müzesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş ve Ahşap Eserleri Müzesi

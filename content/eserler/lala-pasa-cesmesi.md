@@ -1,18 +1,17 @@
 ---
-title: "Lala Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:41+03:00
+title: "Lala Paşa Çeşmesi"
+date: "2025-12-25T10:51:41+03:00"
 slug: "lala-pasa-cesmesi"
 description: "## Lala Paşa Çeşmesi: Kayseri'nin Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4901581,38.7158127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lala Paşa Çeşmesi: Kayseri'nin Tarihî Bir Çeşmesi

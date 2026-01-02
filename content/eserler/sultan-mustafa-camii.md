@@ -1,18 +1,17 @@
 ---
-title: "Sultan Mustafa Camii | Miras Haritası"
-date: 2025-12-24T21:39:58+03:00
+title: "Sultan Mustafa Camii"
+date: "2025-12-24T21:39:58+03:00"
 slug: "sultan-mustafa-camii"
 description: "## Sultan Mustafa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/İskele_Camii_-_panoramio.jpg/1200px-İskele_Camii_-_panoramio.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Caferağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.023833333,40.990777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sultan Mustafa Camii

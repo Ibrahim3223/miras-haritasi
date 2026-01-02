@@ -1,18 +1,17 @@
 ---
-title: "Elçili Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:59+03:00
+title: "Elçili Köprüsü"
+date: "2025-12-25T02:40:59+03:00"
 slug: "elcili-koprusu"
 description: "## Elçili Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6176987,41.455574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elçili Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Müftü Camii, Eskişehir | Miras Haritası"
-date: 2025-12-25T00:25:55+03:00
+title: "Müftü Camii, Eskişehir"
+date: "2025-12-25T00:25:55+03:00"
 slug: "muftu-camii-eskisehir"
 description: "## Müftü Camii, Eskişehir..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5226383,39.7633286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müftü Camii, Eskişehir

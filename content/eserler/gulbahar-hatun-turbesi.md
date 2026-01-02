@@ -1,18 +1,17 @@
 ---
-title: "Gülbahar Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:56+03:00
+title: "Gülbahar Hatun Türbesi"
+date: "2025-12-25T14:25:56+03:00"
 slug: "gulbahar-hatun-turbesi"
 description: "## Gülbahar Hatun Türbesi: Ortadoğu'nun Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gülbahar_hatun_türbesi.jpg/1200px-Gülbahar_hatun_türbesi.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.716404,41.003376"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gülbahar Hatun Türbesi: Ortadoğu'nun Gizemi

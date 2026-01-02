@@ -1,18 +1,17 @@
 ---
-title: "Saint-Louis-des-Français Kilisesi | Miras Haritası"
-date: 2025-12-25T08:42:33+03:00
+title: "Saint-Louis-des-Français Kilisesi"
+date: "2025-12-25T08:42:33+03:00"
 slug: "saint-louis-des-francais-kilisesi"
 description: "## Saint-Louis-des-Français Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9769,41.0308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saint-Louis-des-Français Kilisesi

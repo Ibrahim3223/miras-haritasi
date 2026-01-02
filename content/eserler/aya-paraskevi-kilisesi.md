@@ -1,18 +1,17 @@
 ---
-title: "Aya Paraskevi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:34+03:00
+title: "Aya Paraskevi Kilisesi"
+date: "2025-12-25T09:40:34+03:00"
 slug: "aya-paraskevi-kilisesi"
 description: "## Aya Paraskevi Kilisesi: İstanbul'un Gizli Çehresinde Bir Önemli Kilise..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9140797,40.9901886"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Paraskevi Kilisesi: İstanbul'un Gizli Çehresinde Bir Önemli Kilise

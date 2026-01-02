@@ -1,18 +1,17 @@
 ---
-title: "Şaar Aşamayim Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:21+03:00
+title: "Şaar Aşamayim Sinagogu"
+date: "2025-12-25T16:13:21+03:00"
 slug: "saar-asamayim-sinagogu"
 description: "**Şaar Aşamayim Sinagogu**..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Göktürk Merkez"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.887277777,41.177027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şaar Aşamayim Sinagogu**

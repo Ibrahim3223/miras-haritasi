@@ -1,18 +1,17 @@
 ---
-title: "İmad Bin Hacı Muhiddin Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:23+03:00
+title: "İmad Bin Hacı Muhiddin Türbesi"
+date: "2025-12-25T15:15:23+03:00"
 slug: "imad-bin-haci-muhiddin-turbesi"
 description: "## İmad Bin Hacı Muhiddin Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5361,38.7557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmad Bin Hacı Muhiddin Türbesi

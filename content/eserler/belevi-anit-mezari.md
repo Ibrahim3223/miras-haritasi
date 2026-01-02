@@ -1,18 +1,17 @@
 ---
-title: "Belevi Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:07:24+03:00
+title: "Belevi Anıt Mezarı"
+date: "2025-12-25T14:07:24+03:00"
 slug: "belevi-anit-mezari"
 description: "## Belevi Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Belevi1.jpg/1200px-Belevi1.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.472138888,38.01475"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Belevi Anıt Mezarı

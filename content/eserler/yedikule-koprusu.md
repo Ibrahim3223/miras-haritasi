@@ -1,18 +1,17 @@
 ---
-title: "Yedikule Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:08+03:00
+title: "Yedikule Köprüsü"
+date: "2025-12-25T02:22:08+03:00"
 slug: "yedikule-koprusu"
 description: "**Yedikule Köprüsü: İstanbul'un Tarihî Köprüsü**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9217529,40.9936905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yedikule Köprüsü: İstanbul'un Tarihî Köprüsü**

@@ -1,18 +1,17 @@
 ---
-title: "Mihrimah Sultan Camii Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:11+03:00
+title: "Mihrimah Sultan Camii Türbesi"
+date: "2025-12-25T15:33:11+03:00"
 slug: "mihrimah-sultan-camii-turbesi"
 description: "### Mihrimah Sultan Camii Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mihrimah_Sultan_Camii_Türbesi.jpg/1200px-Mihrimah_Sultan_Camii_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.016106925,41.027075299"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mihrimah Sultan Camii Türbesi

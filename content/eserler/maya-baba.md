@@ -1,18 +1,17 @@
 ---
-title: "Maya Baba | Miras Haritası"
-date: 2025-12-25T05:37:11+03:00
+title: "Maya Baba"
+date: "2025-12-25T05:37:11+03:00"
 slug: "maya-baba"
 description: "## Maya Baba Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Meriç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.396917,41.103683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maya Baba Arkeolojik Sit

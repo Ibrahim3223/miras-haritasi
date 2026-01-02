@@ -1,18 +1,17 @@
 ---
-title: "Yörücek Cami | Miras Haritası"
-date: 2025-12-24T23:46:24+03:00
+title: "Yörücek Cami"
+date: "2025-12-24T23:46:24+03:00"
 slug: "yorucek-cami"
 description: "### Yörücek Cami..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Malkara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9038277,41.0004501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yörücek Cami

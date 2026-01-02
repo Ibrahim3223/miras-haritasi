@@ -1,18 +1,17 @@
 ---
-title: "Ganos Dağları Kalesi | Miras Haritası"
-date: 2025-12-25T01:25:47+03:00
+title: "Ganos Dağları Kalesi"
+date: "2025-12-25T01:25:47+03:00"
 slug: "ganos-daglari-kalesi"
 description: "### Ganos Dağları Kalesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3057117,40.809597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ganos Dağları Kalesi

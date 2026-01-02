@@ -1,18 +1,17 @@
 ---
-title: "Cavit Ağa Mescidi | Miras Haritası"
-date: 2025-12-24T22:49:03+03:00
+title: "Cavit Ağa Mescidi"
+date: "2025-12-24T22:49:03+03:00"
 slug: "cavit-aga-mescidi"
 description: "## Cavit Ağa Mescidi: Ortaköy'ün Gizli Cenneti..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Ortaköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0248051,41.0542603"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cavit Ağa Mescidi: Ortaköy'ün Gizli Cenneti

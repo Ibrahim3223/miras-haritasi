@@ -1,18 +1,17 @@
 ---
-title: "Manisalı Mehmet Paşa Kabri | Miras Haritası"
-date: 2025-12-25T13:34:02+03:00
+title: "Manisalı Mehmet Paşa Kabri"
+date: "2025-12-25T13:34:02+03:00"
 slug: "manisali-mehmet-pasa-kabri"
 description: "## Manisalı Mehmet Paşa Kabri: Fatih'teki Bir Önemli Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9537506,41.0179863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manisalı Mehmet Paşa Kabri: Fatih'teki Bir Önemli Anıt

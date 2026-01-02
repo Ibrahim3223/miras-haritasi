@@ -1,18 +1,17 @@
 ---
-title: "II. Bayezid Darüşşifası | Miras Haritası"
-date: 2025-12-25T17:36:06+03:00
+title: "II. Bayezid Darüşşifası"
+date: "2025-12-25T17:36:06+03:00"
 slug: "ii-bayezid-darussifasi"
 description: "## II. Bayezid Darüşşifası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "26.5439529,41.6852417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Bayezid Darüşşifası

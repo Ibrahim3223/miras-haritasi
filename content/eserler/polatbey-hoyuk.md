@@ -1,18 +1,17 @@
 ---
-title: "Polatbey Höyük | Miras Haritası"
-date: 2025-12-25T06:25:19+03:00
+title: "Polatbey Höyük"
+date: "2025-12-25T06:25:19+03:00"
 slug: "polatbey-hoyuk"
 description: "# Polatbey Höyük: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Polateli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.1923443,36.8043308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Polatbey Höyük: Türkiye'nin Gizli Kahramanı

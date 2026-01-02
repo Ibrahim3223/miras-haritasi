@@ -1,18 +1,17 @@
 ---
-title: "Meryem Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:04:42+03:00
+title: "Meryem Kadın Çeşmesi"
+date: "2025-12-25T11:04:42+03:00"
 slug: "meryem-kadin-cesmesi"
 description: "## Meryem Kadın Çeşmesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Kısıklı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0653076,41.0268135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meryem Kadın Çeşmesi

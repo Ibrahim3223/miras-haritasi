@@ -1,18 +1,17 @@
 ---
-title: "Hantepesi Tümülüsü, Sivas | Miras Haritası"
-date: 2025-12-25T07:24:23+03:00
+title: "Hantepesi Tümülüsü, Sivas"
+date: "2025-12-25T07:24:23+03:00"
 slug: "hantepesi-tumulusu-sivas"
 description: "# Hantepesi Tümülüsü..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8606186,39.9932518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hantepesi Tümülüsü

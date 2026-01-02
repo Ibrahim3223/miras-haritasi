@@ -1,18 +1,17 @@
 ---
-title: "Kibira | Miras Haritası"
-date: 2025-12-25T04:25:38+03:00
+title: "Kibira"
+date: "2025-12-25T04:25:38+03:00"
 slug: "kibira"
 description: "# Kibira Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kibyra_Theatre_9919.jpg/1200px-Kibyra_Theatre_9919.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Burdur"
+province: "Burdur"
+iller: '["Burdur"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.489214,37.160128"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kibira Arkeolojik Sit

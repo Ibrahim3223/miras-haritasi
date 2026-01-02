@@ -1,18 +1,17 @@
 ---
-title: "Namrun Kalesi | Miras Haritası"
-date: 2025-12-25T01:14:52+03:00
+title: "Namrun Kalesi"
+date: "2025-12-25T01:14:52+03:00"
 slug: "namrun-kalesi"
 description: "## Namrun Kalesi: Mersin'in Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lampron_castle.jpg/1200px-Lampron_castle.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Çamlıyayla"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.602231,37.1667361"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Namrun Kalesi: Mersin'in Gizli Mücevheri

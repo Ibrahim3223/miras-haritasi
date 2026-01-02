@@ -1,18 +1,17 @@
 ---
-title: "Çoban Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:52+03:00
+title: "Çoban Dede Türbesi"
+date: "2025-12-25T14:16:52+03:00"
 slug: "coban-dede-turbesi"
 description: "### Çoban Dede Türbesi: Eskişehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.6951,39.4423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çoban Dede Türbesi: Eskişehir'in Tarihi ve Kültürel Mirası

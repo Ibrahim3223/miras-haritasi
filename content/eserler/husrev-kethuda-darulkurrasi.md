@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Kethüda Darülkurrası | Miras Haritası"
-date: 2025-12-25T17:35:09+03:00
+title: "Hüsrev Kethüda Darülkurrası"
+date: "2025-12-25T17:35:09+03:00"
 slug: "husrev-kethuda-darulkurrasi"
 description: "## Hüsrev Kethüda Darülkurrası: Fatih'in Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9595566,41.0145836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsrev Kethüda Darülkurrası: Fatih'in Gizli Çehresi

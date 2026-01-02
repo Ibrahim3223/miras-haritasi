@@ -1,18 +1,17 @@
 ---
-title: "Bostancıbaşı Abdullah Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:32:02+03:00
+title: "Bostancıbaşı Abdullah Ağa Kabri"
+date: "2025-12-25T13:32:02+03:00"
 slug: "bostancibasi-abdullah-aga-kabri"
 description: "### Bostancıbaşı Abdullah Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0640259,41.0225334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bostancıbaşı Abdullah Ağa Kabri

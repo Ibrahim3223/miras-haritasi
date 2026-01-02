@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Dumlupınar Üniversitesi Müzesi | Miras Haritası"
-date: 2025-12-25T03:25:39+03:00
+title: "Kütahya Dumlupınar Üniversitesi Müzesi"
+date: "2025-12-25T03:25:39+03:00"
 slug: "kutahya-dumlupinar-universitesi-muzesi"
 description: "## Kütahya Dumlupınar Üniversitesi Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kütahya"
+province: "Kütahya"
+iller: '["Kütahya"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kütahya Dumlupınar Üniversitesi Müzesi

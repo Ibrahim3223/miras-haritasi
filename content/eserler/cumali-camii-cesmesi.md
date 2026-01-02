@@ -1,18 +1,17 @@
 ---
-title: "Cumalı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:00:41+03:00
+title: "Cumalı Camii Çeşmesi"
+date: "2025-12-25T12:00:41+03:00"
 slug: "cumali-camii-cesmesi"
 description: "## Cumalı Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4611645,38.3175545"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumalı Camii Çeşmesi

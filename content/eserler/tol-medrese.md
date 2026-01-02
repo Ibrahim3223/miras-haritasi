@@ -1,18 +1,17 @@
 ---
-title: "Tol Medrese | Miras Haritası"
-date: 2025-12-25T17:37:00+03:00
+title: "Tol Medrese"
+date: "2025-12-25T17:37:00+03:00"
 slug: "tol-medrese"
 description: "## Tol Medrese: Karaman'ın Gizli Cenneti..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ermenek"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "32.8879166,36.6389656"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tol Medrese: Karaman'ın Gizli Cenneti

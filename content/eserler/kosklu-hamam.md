@@ -1,18 +1,17 @@
 ---
-title: "Köşklü Hamam | Miras Haritası"
-date: 2025-12-25T16:54:47+03:00
+title: "Köşklü Hamam"
+date: "2025-12-25T16:54:47+03:00"
 slug: "kosklu-hamam"
 description: "**Köşklü Hamam**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9627171,41.0065651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Köşklü Hamam**

@@ -1,18 +1,17 @@
 ---
-title: "Arabi Camii, Şanlıurfa | Miras Haritası"
-date: 2025-12-25T01:07:02+03:00
+title: "Arabi Camii, Şanlıurfa"
+date: "2025-12-25T01:07:02+03:00"
 slug: "arabi-camii-sanliurfa"
 description: "## Arabi Camii, Şanlıurfa..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7907295,37.1455574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arabi Camii, Şanlıurfa

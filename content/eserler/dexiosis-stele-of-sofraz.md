@@ -1,18 +1,17 @@
 ---
-title: "Dexiosis stele of Sofraz | Miras Haritası"
-date: 2025-12-25T14:14:32+03:00
+title: "Dexiosis stele of Sofraz"
+date: "2025-12-25T14:14:32+03:00"
 slug: "dexiosis-stele-of-sofraz"
 description: "## Dexiosis Stelesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ZeugmaMuseum2.jpg/1200px-ZeugmaMuseum2.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dexiosis Stelesi

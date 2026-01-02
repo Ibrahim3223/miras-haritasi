@@ -1,18 +1,17 @@
 ---
-title: "Köprü 2, Safranbolu | Miras Haritası"
-date: 2025-12-25T02:45:57+03:00
+title: "Köprü 2, Safranbolu"
+date: "2025-12-25T02:45:57+03:00"
 slug: "kopru-2-safranbolu"
 description: "## Köprü 2: Safranbolu'nun Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Safranbolu_köprü-2.jpg/1200px-Safranbolu_köprü-2.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.6886063,41.2490921"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Köprü 2: Safranbolu'nun Tarihi Bir Mirası

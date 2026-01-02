@@ -1,18 +1,17 @@
 ---
-title: "Ünye Hamamı | Miras Haritası"
-date: 2025-12-25T17:11:57+03:00
+title: "Ünye Hamamı"
+date: "2025-12-25T17:11:57+03:00"
 slug: "unye-hamami"
 description: "## Ünye Hamamı: Niksar'da Tarihi Bir Miras..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.9513359,40.5903969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ünye Hamamı: Niksar'da Tarihi Bir Miras

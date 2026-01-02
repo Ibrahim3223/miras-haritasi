@@ -1,18 +1,17 @@
 ---
-title: "Tavşantepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:36:14+03:00
+title: "Tavşantepe Höyüğü"
+date: "2025-12-25T06:36:14+03:00"
 slug: "tavsantepe-hoyugu"
 description: "## Tavşantepe Höyüğü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.4223677,37.751938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavşantepe Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Roma Dönemi Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:43:42+03:00
+title: "Topkapı Sarayı Roma Dönemi Güneş Saati"
+date: "2025-12-25T13:43:42+03:00"
 slug: "topkapi-sarayi-roma-donemi-gunes-saati"
 description: "## Topkapı Sarayı Roma Dönemi Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.984642,41.0131416"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Roma Dönemi Güneş Saati

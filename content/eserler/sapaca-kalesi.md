@@ -1,18 +1,17 @@
 ---
-title: "Sapaca Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:58+03:00
+title: "Sapaca Kalesi"
+date: "2025-12-25T01:33:58+03:00"
 slug: "sapaca-kalesi"
 description: "**Sapaca Kalesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Uzundere"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.617026,40.543874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sapaca Kalesi**

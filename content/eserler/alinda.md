@@ -1,18 +1,17 @@
 ---
-title: "Alinda | Miras Haritası"
-date: 2025-12-25T06:53:26+03:00
+title: "Alinda"
+date: "2025-12-25T06:53:26+03:00"
 slug: "alinda"
 description: "## Alinda: Aydın'ın Gizli Hazineleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alinda_Aquaeduct.JPG/1200px-Alinda_Aquaeduct.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.82361111,37.55833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alinda: Aydın'ın Gizli Hazineleri

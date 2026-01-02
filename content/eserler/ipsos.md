@@ -1,18 +1,17 @@
 ---
-title: "İpsos | Miras Haritası"
-date: 2025-12-25T04:29:55+03:00
+title: "İpsos"
+date: "2025-12-25T04:29:55+03:00"
 slug: "ipsos"
 description: "## İpsos: Antik Kentin Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.549206,38.856193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İpsos: Antik Kentin Gizemi

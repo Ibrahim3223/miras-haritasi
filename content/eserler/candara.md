@@ -1,18 +1,17 @@
 ---
-title: "Candara | Miras Haritası"
-date: 2025-12-25T04:59:46+03:00
+title: "Candara"
+date: "2025-12-25T04:59:46+03:00"
 slug: "candara"
 description: "## Candara: Geçmişin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.65073,40.92365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Candara: Geçmişin İzleri

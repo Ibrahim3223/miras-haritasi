@@ -1,18 +1,17 @@
 ---
-title: "Terme Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:53+03:00
+title: "Terme Saat Kulesi"
+date: "2025-12-25T17:21:53+03:00"
 slug: "terme-saat-kulesi"
 description: "## Terme Saat Kulesi: Samsun'un Tarihi Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Terme"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "36.9720338,41.209271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terme Saat Kulesi: Samsun'un Tarihi Mirası

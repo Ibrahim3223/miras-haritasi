@@ -1,18 +1,17 @@
 ---
-title: "Antalya Tekelioğlu İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:53:28+03:00
+title: "Antalya Tekelioğlu İl Halk Kütüphanesi"
+date: "2025-12-25T17:53:28+03:00"
 slug: "antalya-tekelioglu-il-halk-kutuphanesi"
 description: "### Antalya Tekelioğlu İl Halk Kütüphanesi: Tarihe ve Kültür Mirasına Bir Örnek..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.7039223,36.8881264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Antalya Tekelioğlu İl Halk Kütüphanesi: Tarihe ve Kültür Mirasına Bir Örnek

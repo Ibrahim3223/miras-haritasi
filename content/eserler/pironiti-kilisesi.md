@@ -1,18 +1,17 @@
 ---
-title: "Pironiti Kilisesi | Miras Haritası"
-date: 2025-12-25T08:56:40+03:00
+title: "Pironiti Kilisesi"
+date: "2025-12-25T08:56:40+03:00"
 slug: "pironiti-kilisesi"
 description: "## Pironiti Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bangleti_Kilisesi.jpg/1200px-Bangleti_Kilisesi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.392916666,41.376055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pironiti Kilisesi

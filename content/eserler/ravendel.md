@@ -1,18 +1,17 @@
 ---
-title: "Ravendel | Miras Haritası"
-date: 2025-12-25T01:14:29+03:00
+title: "Ravendel"
+date: "2025-12-25T01:14:29+03:00"
 slug: "ravendel"
 description: "## Ravendel Kalesi: Kilis'in Tarihi Bir Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.949187,36.793102"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ravendel Kalesi: Kilis'in Tarihi Bir Anıtı

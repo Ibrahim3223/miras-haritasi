@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Paşa Camii, Kars | Miras Haritası"
-date: 2025-12-25T00:03:42+03:00
+title: "Yusuf Paşa Camii, Kars"
+date: "2025-12-25T00:03:42+03:00"
 slug: "yusuf-pasa-camii-kars"
 description: "## Yusuf Paşa Camii, Kars..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.0907516,40.6084633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuf Paşa Camii, Kars

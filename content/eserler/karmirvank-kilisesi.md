@@ -1,18 +1,17 @@
 ---
-title: "Karmirvank Kilisesi | Miras Haritası"
-date: 2025-12-25T09:08:39+03:00
+title: "Karmirvank Kilisesi"
+date: "2025-12-25T09:08:39+03:00"
 slug: "karmirvank-kilisesi"
 description: "## Karmirvank Kilisesi: Ani'nin Gizli Çehresi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.6014099,40.5144348"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karmirvank Kilisesi: Ani'nin Gizli Çehresi

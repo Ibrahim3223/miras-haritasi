@@ -1,18 +1,17 @@
 ---
-title: "Sakarlar Höyük | Miras Haritası"
-date: 2025-12-25T06:29:58+03:00
+title: "Sakarlar Höyük"
+date: "2025-12-25T06:29:58+03:00"
 slug: "sakarlar-hoyuk"
 description: "## Sakarlar Höyük: Konya'nın Gizli Tarihçesini Keşfedin..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.6235401,37.580948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarlar Höyük: Konya'nın Gizli Tarihçesini Keşfedin

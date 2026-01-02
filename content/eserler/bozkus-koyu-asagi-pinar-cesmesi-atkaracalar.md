@@ -1,18 +1,17 @@
 ---
-title: "Bozkuş Köyü Aşağı Pınar Çeşmesi, Atkaracalar | Miras Haritası"
-date: 2025-12-25T12:34:17+03:00
+title: "Bozkuş Köyü Aşağı Pınar Çeşmesi, Atkaracalar"
+date: "2025-12-25T12:34:17+03:00"
 slug: "bozkus-koyu-asagi-pinar-cesmesi-atkaracalar"
 description: "## Bozkuş Köyü Aşağı Pınar Çeşmesi, Atkaracalar..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Atkaracalar İlçesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.142633957,40.83016128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozkuş Köyü Aşağı Pınar Çeşmesi, Atkaracalar

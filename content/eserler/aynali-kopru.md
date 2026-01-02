@@ -1,18 +1,17 @@
 ---
-title: "Aynalı Köprü | Miras Haritası"
-date: 2025-12-25T01:56:39+03:00
+title: "Aynalı Köprü"
+date: "2025-12-25T01:56:39+03:00"
 slug: "aynali-kopru"
 description: "**Aynalı Köprü: Ankara'nın Tarihî Köprüsü**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.891407,39.9820404"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Aynalı Köprü: Ankara'nın Tarihî Köprüsü**

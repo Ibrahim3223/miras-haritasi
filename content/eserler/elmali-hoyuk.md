@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Höyük | Miras Haritası"
-date: 2025-12-25T06:38:49+03:00
+title: "Elmalı Höyük"
+date: "2025-12-25T06:38:49+03:00"
 slug: "elmali-hoyuk"
 description: "# Elmalı Höyük..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.367614,36.8840041"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Elmalı Höyük

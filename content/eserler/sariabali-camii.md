@@ -1,18 +1,17 @@
 ---
-title: "Sarıabalı Camii | Miras Haritası"
-date: 2025-12-25T00:56:24+03:00
+title: "Sarıabalı Camii"
+date: "2025-12-25T00:56:24+03:00"
 slug: "sariabali-camii"
 description: "**Sarıabalı Camii: Serik'te Bir Tarihi Çiçek**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.6260342,36.8690125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sarıabalı Camii: Serik'te Bir Tarihi Çiçek**

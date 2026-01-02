@@ -1,18 +1,17 @@
 ---
-title: "Menekşe Deresi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:03:26+03:00
+title: "Menekşe Deresi Köprüsü"
+date: "2025-12-25T02:03:26+03:00"
 slug: "menekse-deresi-koprusu"
 description: "## Menekşe Deresi Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Küçükçekmece_-_Menekşe_Deresi_Köprüsü_-_20250626121111.jpg/1200px-Küçükçekmece_-_Menekşe_Deresi_Köprüsü_-_20250626121111.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.767851,41.035297"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Menekşe Deresi Köprüsü

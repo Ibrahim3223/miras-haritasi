@@ -1,18 +1,17 @@
 ---
-title: "Kavak Camii | Miras Haritası"
-date: 2025-12-24T23:22:40+03:00
+title: "Kavak Camii"
+date: "2025-12-24T23:22:40+03:00"
 slug: "kavak-camii"
 description: "## Kavak Camii: Yakutiye'nin Dülümlü Minareli İncisi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.280262,39.9149361"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavak Camii: Yakutiye'nin Dülümlü Minareli İncisi

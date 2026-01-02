@@ -1,18 +1,17 @@
 ---
-title: "Haran | Miras Haritası"
-date: 2025-12-25T04:28:25+03:00
+title: "Haran"
+date: "2025-12-25T04:28:25+03:00"
 slug: "haran"
 description: "### Haran: Tarihî Bir Kentin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Harranruins1.jpg/1200px-Harranruins1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.2167,36.85"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Haran: Tarihî Bir Kentin İzleri

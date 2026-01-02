@@ -1,18 +1,17 @@
 ---
-title: "Memetçe Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:19:59+03:00
+title: "Memetçe Çeşmesi"
+date: "2025-12-25T10:19:59+03:00"
 slug: "memetce-cesmesi"
 description: "## Memetçe Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2543812,38.2811928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Memetçe Çeşmesi

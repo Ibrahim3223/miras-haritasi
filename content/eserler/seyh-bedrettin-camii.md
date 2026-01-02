@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Bedrettin Camii | Miras Haritası"
-date: 2025-12-25T00:40:13+03:00
+title: "Şeyh Bedrettin Camii"
+date: "2025-12-25T00:40:13+03:00"
 slug: "seyh-bedrettin-camii"
 description: "## Şeyh Bedrettin Camii..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "İvrindi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.487785476,39.582350465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Bedrettin Camii

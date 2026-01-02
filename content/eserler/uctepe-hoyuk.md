@@ -1,18 +1,17 @@
 ---
-title: "Üçtepe Höyük | Miras Haritası"
-date: 2025-12-25T07:08:29+03:00
+title: "Üçtepe Höyük"
+date: "2025-12-25T07:08:29+03:00"
 slug: "uctepe-hoyuk"
 description: "## Üçtepe Höyük: Diyarbakır'ın Eski Sivil Yerleşimi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.5397,37.8262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçtepe Höyük: Diyarbakır'ın Eski Sivil Yerleşimi

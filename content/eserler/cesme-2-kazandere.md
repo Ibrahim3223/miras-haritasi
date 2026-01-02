@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2, Kazandere | Miras Haritası"
-date: 2025-12-25T12:08:25+03:00
+title: "Çeşme 2, Kazandere"
+date: "2025-12-25T12:08:25+03:00"
 slug: "cesme-2-kazandere"
 description: "## Çeşme 2, Kazandere: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3843002,37.6198997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 2, Kazandere: Aydın'ın Tarihi Bir Çeşmesi

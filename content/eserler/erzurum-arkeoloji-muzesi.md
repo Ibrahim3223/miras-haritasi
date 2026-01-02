@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:34:22+03:00
+title: "Erzurum Arkeoloji Müzesi"
+date: "2025-12-25T03:34:22+03:00"
 slug: "erzurum-arkeoloji-muzesi"
 description: "**Erzurum Arkeoloji Müzesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "41.266861,39.901432"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Erzurum Arkeoloji Müzesi**

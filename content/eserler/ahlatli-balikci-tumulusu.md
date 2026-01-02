@@ -1,18 +1,17 @@
 ---
-title: "Ahlatlı Balıkçı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:41:10+03:00
+title: "Ahlatlı Balıkçı Tümülüsü"
+date: "2025-12-25T07:41:10+03:00"
 slug: "ahlatli-balikci-tumulusu"
 description: "## Ahlatlı Balıkçı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2391949,42.1047554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahlatlı Balıkçı Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Kanlıca Köprüsü | Miras Haritası"
-date: 2025-12-25T02:46:25+03:00
+title: "Kanlıca Köprüsü"
+date: "2025-12-25T02:46:25+03:00"
 slug: "kanlica-koprusu"
 description: "## Kanlıca Köprüsü..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.0895538,40.6269646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanlıca Köprüsü

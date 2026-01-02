@@ -1,18 +1,17 @@
 ---
-title: "Zal Mahmut Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:25:51+03:00
+title: "Zal Mahmut Paşa Medresesi"
+date: "2025-12-25T17:25:51+03:00"
 slug: "zal-mahmut-pasa-medresesi"
 description: "### Zal Mahmut Paşa Medresesi: İstanbul'un Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.935558,41.044923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zal Mahmut Paşa Medresesi: İstanbul'un Kültürel Mirasının Bir Parçası

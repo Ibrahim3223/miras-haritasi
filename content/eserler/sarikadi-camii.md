@@ -1,18 +1,17 @@
 ---
-title: "Sarıkadı Camii | Miras Haritası"
-date: 2025-12-24T22:43:10+03:00
+title: "Sarıkadı Camii"
+date: "2025-12-24T22:43:10+03:00"
 slug: "sarikadi-camii"
 description: "## Sarıkadı Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8668289,39.9314537"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıkadı Camii

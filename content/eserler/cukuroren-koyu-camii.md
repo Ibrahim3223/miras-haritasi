@@ -1,18 +1,17 @@
 ---
-title: "Çukurören Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:33:17+03:00
+title: "Çukurören Köyü Camii"
+date: "2025-12-24T22:33:17+03:00"
 slug: "cukuroren-koyu-camii"
 description: "### Çukurören Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.2475815,40.4661865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çukurören Köyü Camii: Ankara'nın Gizli Cenneti

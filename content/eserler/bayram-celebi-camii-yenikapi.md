@@ -1,18 +1,17 @@
 ---
-title: "Bayram Çelebi Camii Yenikapı | Miras Haritası"
-date: 2025-12-24T22:48:08+03:00
+title: "Bayram Çelebi Camii Yenikapı"
+date: "2025-12-24T22:48:08+03:00"
 slug: "bayram-celebi-camii-yenikapi"
 description: "### Bayram Çelebi Camii Yenikapı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9543877,41.0053864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayram Çelebi Camii Yenikapı

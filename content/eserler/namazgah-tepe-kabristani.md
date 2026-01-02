@@ -1,18 +1,17 @@
 ---
-title: "Namazgah Tepe Kabristanı | Miras Haritası"
-date: 2025-12-25T16:03:38+03:00
+title: "Namazgah Tepe Kabristanı"
+date: "2025-12-25T16:03:38+03:00"
 slug: "namazgah-tepe-kabristani"
 description: "### Namazgah Tepe Kabristanı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.854406974,39.93282578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Namazgah Tepe Kabristanı

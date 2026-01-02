@@ -1,18 +1,17 @@
 ---
-title: "Uluhan Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:16:36+03:00
+title: "Uluhan Köyü Camii"
+date: "2025-12-24T23:16:36+03:00"
 slug: "uluhan-koyu-camii"
 description: "### Uluhan Köyü Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.1005192,40.3243752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uluhan Köyü Camii Tanıtımı

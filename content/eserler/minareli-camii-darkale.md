@@ -1,18 +1,17 @@
 ---
-title: "Minareli Camii, Darkale | Miras Haritası"
-date: 2025-12-25T00:26:49+03:00
+title: "Minareli Camii, Darkale"
+date: "2025-12-25T00:26:49+03:00"
 slug: "minareli-camii-darkale"
 description: "## Minareli Camii, Darkale..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Soma"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5986748,39.1611557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Minareli Camii, Darkale

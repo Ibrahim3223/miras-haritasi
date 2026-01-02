@@ -1,18 +1,17 @@
 ---
-title: "Dioshieron (Lidya) | Miras Haritası"
-date: 2025-12-25T06:56:55+03:00
+title: "Dioshieron (Lidya)"
+date: "2025-12-25T06:56:55+03:00"
 slug: "dioshieron-lidya"
 description: "## Dioshieron (Lidya)..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0833,38.2276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dioshieron (Lidya)

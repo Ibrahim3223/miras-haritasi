@@ -1,18 +1,17 @@
 ---
-title: "Feneryolu Camii Önündeki Çeşme | Miras Haritası"
-date: 2025-12-25T11:46:49+03:00
+title: "Feneryolu Camii Önündeki Çeşme"
+date: "2025-12-25T11:46:49+03:00"
 slug: "feneryolu-camii-onundeki-cesme"
 description: "## Feneryolu Camii Önündeki Çeşme..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Feneryolu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0472374,40.9797325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Feneryolu Camii Önündeki Çeşme

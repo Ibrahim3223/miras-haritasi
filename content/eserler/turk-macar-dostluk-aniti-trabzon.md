@@ -1,18 +1,17 @@
 ---
-title: "Türk – Macar Dostluk Anıtı, Trabzon | Miras Haritası"
-date: 2025-12-25T15:44:00+03:00
+title: "Türk – Macar Dostluk Anıtı, Trabzon"
+date: "2025-12-25T15:44:00+03:00"
 slug: "turk-macar-dostluk-aniti-trabzon"
 description: "## Türk – Macar Dostluk Anıtı..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.7301025,41.0092049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk – Macar Dostluk Anıtı

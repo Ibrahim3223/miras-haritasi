@@ -1,18 +1,17 @@
 ---
-title: "Seyit Hasan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:36+03:00
+title: "Seyit Hasan Köprüsü"
+date: "2025-12-25T02:40:36+03:00"
 slug: "seyit-hasan-koprusu"
 description: "## Seyit Hasan Köprüsü: Tarihi ve Kültürel Mirasın Örnekleri Arasındaki Bir Çanak..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.826482154,37.611499462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyit Hasan Köprüsü: Tarihi ve Kültürel Mirasın Örnekleri Arasındaki Bir Çanak

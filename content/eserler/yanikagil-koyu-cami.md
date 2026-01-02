@@ -1,18 +1,17 @@
 ---
-title: "Yanıkağıl Köyü Cami | Miras Haritası"
-date: 2025-12-24T23:42:34+03:00
+title: "Yanıkağıl Köyü Cami"
+date: "2025-12-24T23:42:34+03:00"
 slug: "yanikagil-koyu-cami"
 description: "**Yanıkağıl Köyü Cami**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9032936,41.2914658"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yanıkağıl Köyü Cami**

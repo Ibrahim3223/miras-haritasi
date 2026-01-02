@@ -1,18 +1,17 @@
 ---
-title: "Rum Okulu, Bergama | Miras Haritası"
-date: 2025-12-25T03:58:51+03:00
+title: "Rum Okulu, Bergama"
+date: "2025-12-25T03:58:51+03:00"
 slug: "rum-okulu-bergama"
 description: "## Rum Okulu, Bergama: Efsanevi Bir Tarihî Eser..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.1829014,39.1238174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rum Okulu, Bergama: Efsanevi Bir Tarihî Eser

@@ -1,18 +1,17 @@
 ---
-title: "Abdülhamit Liman Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:21:37+03:00
+title: "Abdülhamit Liman Çeşmesi"
+date: "2025-12-25T10:21:37+03:00"
 slug: "abdulhamit-liman-cesmesi"
 description: "## Abdülhamit Liman Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.7350502,41.0069427"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdülhamit Liman Çeşmesi

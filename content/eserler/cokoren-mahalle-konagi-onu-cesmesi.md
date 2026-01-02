@@ -1,18 +1,17 @@
 ---
-title: "Çokören Mahalle Konağı Önü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:41+03:00
+title: "Çokören Mahalle Konağı Önü Çeşmesi"
+date: "2025-12-25T10:27:41+03:00"
 slug: "cokoren-mahalle-konagi-onu-cesmesi"
 description: "## Sincan'daki Bir Çeşmenin Tarihi ve Özellikleri: Çokören Mahalle Konağı Önü Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4392471,39.6589546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sincan'daki Bir Çeşmenin Tarihi ve Özellikleri: Çokören Mahalle Konağı Önü Çeşmesi

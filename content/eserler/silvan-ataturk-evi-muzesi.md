@@ -1,18 +1,17 @@
 ---
-title: "Silvan Atatürk Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:08+03:00
+title: "Silvan Atatürk Evi Müzesi"
+date: "2025-12-25T03:35:08+03:00"
 slug: "silvan-ataturk-evi-muzesi"
 description: "## Silvan Atatürk Evi Müzesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.242363,37.9152718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Silvan Atatürk Evi Müzesi

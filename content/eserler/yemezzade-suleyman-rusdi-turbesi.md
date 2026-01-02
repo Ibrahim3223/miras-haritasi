@@ -1,18 +1,17 @@
 ---
-title: "Yemezzade Süleyman Rüşdi Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:07+03:00
+title: "Yemezzade Süleyman Rüşdi Türbesi"
+date: "2025-12-25T15:32:07+03:00"
 slug: "yemezzade-suleyman-rusdi-turbesi"
 description: "### Yemezzade Süleyman Rüşdi Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.6074009,37.7297821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yemezzade Süleyman Rüşdi Türbesi

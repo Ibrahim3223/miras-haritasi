@@ -1,18 +1,17 @@
 ---
-title: "Çadırcı Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:00+03:00
+title: "Çadırcı Mescidi Çeşmesi"
+date: "2025-12-25T11:48:00+03:00"
 slug: "cadirci-mescidi-cesmesi"
 description: "## Çadırcı Mescidi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mimar Hayrettin"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9657192,41.0052452"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çadırcı Mescidi Çeşmesi

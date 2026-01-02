@@ -1,18 +1,17 @@
 ---
-title: "Nehri Köprüsü, Şemdinli | Miras Haritası"
-date: 2025-12-25T03:03:28+03:00
+title: "Nehri Köprüsü, Şemdinli"
+date: "2025-12-25T03:03:28+03:00"
 slug: "nehri-koprusu-semdinli"
 description: "## Nehri Köprüsü, Şemdinli..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Şemdinli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "44.51638,37.26732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nehri Köprüsü, Şemdinli

@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Köyü Camii (İznik) | Miras Haritası"
-date: 2025-12-24T22:35:57+03:00
+title: "Elmalı Köyü Camii (İznik)"
+date: "2025-12-24T22:35:57+03:00"
 slug: "elmali-koyu-camii-iznik"
 description: "### Elmalı Köyü Camii: İznik'te Bir Önemli Kültürel Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.878933,40.5156364"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Elmalı Köyü Camii: İznik'te Bir Önemli Kültürel Miras

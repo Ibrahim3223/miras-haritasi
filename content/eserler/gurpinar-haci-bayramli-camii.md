@@ -1,18 +1,17 @@
 ---
-title: "Gürpınar Hacı Bayramlı Camii | Miras Haritası"
-date: 2025-12-25T00:42:22+03:00
+title: "Gürpınar Hacı Bayramlı Camii"
+date: "2025-12-25T00:42:22+03:00"
 slug: "gurpinar-haci-bayramli-camii"
 description: "## Gürpınar Hacı Bayramlı Camii: Trabzon'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Of"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.294130605,40.831047012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gürpınar Hacı Bayramlı Camii: Trabzon'un Gizli Çeşmesi

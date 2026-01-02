@@ -1,18 +1,17 @@
 ---
-title: "Ören Höyük | Miras Haritası"
-date: 2025-12-25T06:07:24+03:00
+title: "Ören Höyük"
+date: "2025-12-25T06:07:24+03:00"
 slug: "oren-hoyuk"
 description: "## Ören Höyük: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.917244,38.2381744"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ören Höyük: Malatya'nın Gizli Mirası

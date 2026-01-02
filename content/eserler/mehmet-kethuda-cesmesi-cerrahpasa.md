@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Kethüda Çeşmesi, Cerrahpaşa | Miras Haritası"
-date: 2025-12-25T11:58:05+03:00
+title: "Mehmet Kethüda Çeşmesi, Cerrahpaşa"
+date: "2025-12-25T11:58:05+03:00"
 slug: "mehmet-kethuda-cesmesi-cerrahpasa"
 description: "## Mehmet Kethüda Çeşmesi, Cerrahpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9392319,41.0061646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Kethüda Çeşmesi, Cerrahpaşa

@@ -1,18 +1,17 @@
 ---
-title: "Gazze Camii | Miras Haritası"
-date: 2025-12-24T22:04:41+03:00
+title: "Gazze Camii"
+date: "2025-12-24T22:04:41+03:00"
 slug: "gazze-camii"
 description: "## Gazze Camii: Ankara'nın Tarihi ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_Gazze_Camii,_2020_03.jpg/1200px-Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_Gazze_Camii,_2020_03.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.733722222,39.866333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gazze Camii: Ankara'nın Tarihi ve Kültür Mirası

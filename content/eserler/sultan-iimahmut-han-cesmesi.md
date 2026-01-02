@@ -1,18 +1,17 @@
 ---
-title: "Sultan II.Mahmut Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:09+03:00
+title: "Sultan II.Mahmut Han Çeşmesi"
+date: "2025-12-25T10:59:09+03:00"
 slug: "sultan-iimahmut-han-cesmesi"
 description: "## Sultan II.Mahmut Han Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sultan_Mahmut_II_Han_Fountain,_Tarabya.jpg/1200px-Sultan_Mahmut_II_Han_Fountain,_Tarabya.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.053881,41.13866"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sultan II.Mahmut Han Çeşmesi

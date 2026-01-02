@@ -1,18 +1,17 @@
 ---
-title: "Nihahi Kalesi | Miras Haritası"
-date: 2025-12-25T01:48:11+03:00
+title: "Nihahi Kalesi"
+date: "2025-12-25T01:48:11+03:00"
 slug: "nihahi-kalesi"
 description: "## Nihahi Kalesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.344094444,40.685566666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nihahi Kalesi

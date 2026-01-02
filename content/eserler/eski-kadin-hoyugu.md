@@ -1,18 +1,17 @@
 ---
-title: "Eski Kadın Höyüğü | Miras Haritası"
-date: 2025-12-25T06:11:01+03:00
+title: "Eski Kadın Höyüğü"
+date: "2025-12-25T06:11:01+03:00"
 slug: "eski-kadin-hoyugu"
 description: "### Eski Kadın Höyüğü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.4668655,41.6830177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Kadın Höyüğü

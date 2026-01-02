@@ -1,18 +1,17 @@
 ---
-title: "Çayırlı Höyükler Yanı 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:05+03:00
+title: "Çayırlı Höyükler Yanı 1 Tümülüsü"
+date: "2025-12-25T07:47:05+03:00"
 slug: "cayirli-hoyukler-yani-1-tumulusu"
 description: "### Çayırlı Höyükler Yanı 1 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0605659,41.8795624"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çayırlı Höyükler Yanı 1 Tümülüsü

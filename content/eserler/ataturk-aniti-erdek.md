@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Erdek | Miras Haritası"
-date: 2025-12-25T16:10:43+03:00
+title: "Atatürk Anıtı, Erdek"
+date: "2025-12-25T16:10:43+03:00"
 slug: "ataturk-aniti-erdek"
 description: "## Atatürk Anıtı, Erdek..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7904205,40.3967743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı, Erdek

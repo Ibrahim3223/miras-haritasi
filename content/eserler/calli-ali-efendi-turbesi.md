@@ -1,18 +1,17 @@
 ---
-title: "Çallı Ali Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:45+03:00
+title: "Çallı Ali Efendi Türbesi"
+date: "2025-12-25T15:04:45+03:00"
 slug: "calli-ali-efendi-turbesi"
 description: "**Çallı Ali Efendi Türbesi: Eyüpsultan'ın Gizli Çehresini Keşfeden Anıt**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9355145,41.0536041"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çallı Ali Efendi Türbesi: Eyüpsultan'ın Gizli Çehresini Keşfeden Anıt**

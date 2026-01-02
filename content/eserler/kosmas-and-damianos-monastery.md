@@ -1,18 +1,17 @@
 ---
-title: "Kosmas and Damianos Monastery | Miras Haritası"
-date: 2025-12-25T10:00:04+03:00
+title: "Kosmas and Damianos Monastery"
+date: "2025-12-25T10:00:04+03:00"
 slug: "kosmas-and-damianos-monastery"
 description: "## Kosmas ve Damianos Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kosmas ve Damianos Manastırı

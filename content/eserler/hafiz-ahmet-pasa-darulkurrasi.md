@@ -1,18 +1,17 @@
 ---
-title: "Hafız Ahmet Paşa Darülkurrası | Miras Haritası"
-date: 2025-12-25T17:25:39+03:00
+title: "Hafız Ahmet Paşa Darülkurrası"
+date: "2025-12-25T17:25:39+03:00"
 slug: "hafiz-ahmet-pasa-darulkurrasi"
 description: "## Hafız Ahmet Paşa Darülkurrası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.947617,41.021792"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafız Ahmet Paşa Darülkurrası

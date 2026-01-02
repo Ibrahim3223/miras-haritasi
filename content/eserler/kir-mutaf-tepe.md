@@ -1,18 +1,17 @@
 ---
-title: "Kır Mutaf Tepe | Miras Haritası"
-date: 2025-12-25T07:31:56+03:00
+title: "Kır Mutaf Tepe"
+date: "2025-12-25T07:31:56+03:00"
 slug: "kir-mutaf-tepe"
 description: "### Kır Mutaf Tepe: Manisa'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9841957,38.5845184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kır Mutaf Tepe: Manisa'nın Gizli Çarpıntısı

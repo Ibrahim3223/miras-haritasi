@@ -1,18 +1,17 @@
 ---
-title: "Kapıkaya Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:00+03:00
+title: "Kapıkaya Kalesi"
+date: "2025-12-25T01:37:00+03:00"
 slug: "kapikaya-kalesi"
 description: "## Kapıkaya Kalesi: Tortum'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Tortum"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.3595657,40.313446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapıkaya Kalesi: Tortum'un Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Balat Hamamı | Miras Haritası"
-date: 2025-12-25T16:26:25+03:00
+title: "Balat Hamamı"
+date: "2025-12-25T16:26:25+03:00"
 slug: "balat-hamami"
 description: "**Balat Hamamı: Ayvansaray'daki Tarihsel Bir Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Çavuşbaşı_Hamamı,_Balat_-_3.jpg/1200px-Çavuşbaşı_Hamamı,_Balat_-_3.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.945748,41.034196"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Balat Hamamı: Ayvansaray'daki Tarihsel Bir Miras**

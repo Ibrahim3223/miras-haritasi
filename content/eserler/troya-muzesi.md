@@ -1,18 +1,17 @@
 ---
-title: "Troya Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:35+03:00
+title: "Troya Müzesi"
+date: "2025-12-25T03:14:35+03:00"
 slug: "troya-muzesi"
 description: "## Troya Müzesi: Çanakkale'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_of_Troy_(53022400001).jpg/1200px-Museum_of_Troy_(53022400001).jpg"
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.24916667,39.95527778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Troya Müzesi: Çanakkale'nin Gizemi

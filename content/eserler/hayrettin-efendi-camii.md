@@ -1,18 +1,17 @@
 ---
-title: "Hayrettin Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:34:10+03:00
+title: "Hayrettin Efendi Camii"
+date: "2025-12-24T23:34:10+03:00"
 slug: "hayrettin-efendi-camii"
 description: "### Hayrettin Efendi Camii..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0596008,38.0791016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hayrettin Efendi Camii

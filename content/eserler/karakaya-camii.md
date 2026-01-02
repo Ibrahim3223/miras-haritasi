@@ -1,18 +1,17 @@
 ---
-title: "Karakaya Camii | Miras Haritası"
-date: 2025-12-24T23:41:38+03:00
+title: "Karakaya Camii"
+date: "2025-12-24T23:41:38+03:00"
 slug: "karakaya-camii"
 description: "### Karakaya Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2646999,37.0616989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karakaya Camii

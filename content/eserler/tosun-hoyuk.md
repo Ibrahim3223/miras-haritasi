@@ -1,18 +1,17 @@
 ---
-title: "Tosun Höyük | Miras Haritası"
-date: 2025-12-25T06:26:02+03:00
+title: "Tosun Höyük"
+date: "2025-12-25T06:26:02+03:00"
 slug: "tosun-hoyuk"
 description: "## Tosun Höyük: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Eskil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.3196435,38.3855844"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tosun Höyük: Aksaray'ın Gizli Mirası

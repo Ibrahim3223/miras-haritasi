@@ -1,18 +1,17 @@
 ---
-title: "Bikur Holim Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:51+03:00
+title: "Bikur Holim Sinagogu"
+date: "2025-12-25T16:14:51+03:00"
 slug: "bikur-holim-sinagogu"
 description: "**Bikur Holim Sinagogu: İzmir'in İlahi Mirasının Gizli Çehresini Açığa Çıkaran Bir Çıkış Noktası**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.136583333,38.419055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bikur Holim Sinagogu: İzmir'in İlahi Mirasının Gizli Çehresini Açığa Çıkaran Bir Çıkış Noktası**

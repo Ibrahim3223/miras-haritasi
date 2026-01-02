@@ -1,18 +1,17 @@
 ---
-title: "Phoenix (Karya) | Miras Haritası"
-date: 2025-12-25T05:38:38+03:00
+title: "Phoenix (Karya)"
+date: "2025-12-25T05:38:38+03:00"
 slug: "phoenix-karya"
 description: "## Phoenix (Karya) Arkeolojik Sit..."
 featured_image: ""
 province: "Marmaris (ilçe)"
-iller: ["Marmaris (ilçe)"]
+iller: '["Marmaris (ilçe)"]'
 district: "Taşlıca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.092,36.6163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phoenix (Karya) Arkeolojik Sit

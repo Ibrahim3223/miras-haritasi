@@ -1,18 +1,17 @@
 ---
-title: "Dilarem Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:23+03:00
+title: "Dilarem Çeşmesi"
+date: "2025-12-25T10:16:23+03:00"
 slug: "dilarem-cesmesi"
 description: "## Dilarem Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9758549,39.4235802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dilarem Çeşmesi

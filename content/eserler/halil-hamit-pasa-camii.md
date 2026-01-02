@@ -1,18 +1,17 @@
 ---
-title: "Halil Hamit Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:33:03+03:00
+title: "Halil Hamit Paşa Camii"
+date: "2025-12-24T23:33:03+03:00"
 slug: "halil-hamit-pasa-camii"
 description: "### Halil Hamit Paşa Camii..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5557164,37.7630037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halil Hamit Paşa Camii

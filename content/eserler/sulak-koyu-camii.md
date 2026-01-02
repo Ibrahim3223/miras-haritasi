@@ -1,18 +1,17 @@
 ---
-title: "Sulak Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:21:18+03:00
+title: "Sulak Köyü Camii"
+date: "2025-12-25T00:21:18+03:00"
 slug: "sulak-koyu-camii"
 description: "## Sulak Köyü Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.865383212,41.162048429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sulak Köyü Camii: Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Pargais | Miras Haritası"
-date: 2025-12-25T05:12:13+03:00
+title: "Pargais"
+date: "2025-12-25T05:12:13+03:00"
 slug: "pargais"
 description: "## Pargais Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.1059765,36.9712975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pargais Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Bolvadin Rüstem Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:28:31+03:00
+title: "Bolvadin Rüstem Paşa Camii"
+date: "2025-12-24T22:28:31+03:00"
 slug: "bolvadin-rustem-pasa-camii"
 description: "### Bolvadin Rüstem Paşa Camii: Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bolvadin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0463791,38.7111816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bolvadin Rüstem Paşa Camii: Bir Osmanlı Dönemi Mirası

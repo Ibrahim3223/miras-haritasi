@@ -1,18 +1,17 @@
 ---
-title: "Trakya Üniversitesi Doğa Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:57+03:00
+title: "Trakya Üniversitesi Doğa Tarihi Müzesi"
+date: "2025-12-25T04:06:57+03:00"
 slug: "trakya-universitesi-doga-tarihi-muzesi"
 description: "## Trakya Üniversitesi Doğa Tarihi Müzesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.5205669,41.6521645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Trakya Üniversitesi Doğa Tarihi Müzesi

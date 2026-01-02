@@ -1,18 +1,17 @@
 ---
-title: "Dikmen Camii | Miras Haritası"
-date: 2025-12-25T00:14:29+03:00
+title: "Dikmen Camii"
+date: "2025-12-25T00:14:29+03:00"
 slug: "dikmen-camii"
 description: "## Dikmen Camii: Serik'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.104447,36.917399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dikmen Camii: Serik'in Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Bali Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:55+03:00
+title: "Bali Baba Türbesi"
+date: "2025-12-25T14:47:55+03:00"
 slug: "bali-baba-turbesi"
 description: "### Bali Baba Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.976963472,37.026722702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bali Baba Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Nevvar Salih İşgören Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:38:12+03:00
+title: "Nevvar Salih İşgören Ulu Camii"
+date: "2025-12-24T21:38:12+03:00"
 slug: "nevvar-salih-isgoren-ulu-camii"
 description: "# Nevvar Salih İşgören Ulu Camii..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.176388888,38.443333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Nevvar Salih İşgören Ulu Camii

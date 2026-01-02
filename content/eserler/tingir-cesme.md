@@ -1,18 +1,17 @@
 ---
-title: "Tıngır Çeşme | Miras Haritası"
-date: 2025-12-25T11:25:18+03:00
+title: "Tıngır Çeşme"
+date: "2025-12-25T11:25:18+03:00"
 slug: "tingir-cesme"
 description: "## Tıngır Çeşme: Manisa'nın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4173794,38.6063004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tıngır Çeşme: Manisa'nın Tarihî Bir Çeşmesi

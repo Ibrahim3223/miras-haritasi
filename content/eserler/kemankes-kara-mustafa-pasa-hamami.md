@@ -1,18 +1,17 @@
 ---
-title: "Kemankeş Kara Mustafa Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:09+03:00
+title: "Kemankeş Kara Mustafa Paşa Hamamı"
+date: "2025-12-25T17:10:09+03:00"
 slug: "kemankes-kara-mustafa-pasa-hamami"
 description: "### Kemankeş Kara Mustafa Paşa Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Yıldızeli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.6017456,39.866066"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kemankeş Kara Mustafa Paşa Hamamı

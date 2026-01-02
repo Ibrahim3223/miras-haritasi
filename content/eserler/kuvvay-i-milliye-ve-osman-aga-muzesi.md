@@ -1,18 +1,17 @@
 ---
-title: "Kuvvay-i  Milliye Ve Osman Ağa Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:30+03:00
+title: "Kuvvay-i  Milliye Ve Osman Ağa Müzesi"
+date: "2025-12-25T03:50:30+03:00"
 slug: "kuvvay-i-milliye-ve-osman-aga-muzesi"
 description: "## Kuvvay-i Milliye Ve Osman Ağa Müzesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.384448,40.917513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuvvay-i Milliye Ve Osman Ağa Müzesi

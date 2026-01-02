@@ -1,18 +1,17 @@
 ---
-title: "Turan Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:00+03:00
+title: "Turan Sokak Çeşmesi"
+date: "2025-12-25T10:56:00+03:00"
 slug: "turan-sokak-cesmesi"
 description: "### Turan Sokak Çeşmesi..."
 featured_image: ""
 province: "Mudanya"
-iller: ["Mudanya"]
+iller: '["Mudanya"]'
 district: "Tirilye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.7934647,40.392746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Turan Sokak Çeşmesi

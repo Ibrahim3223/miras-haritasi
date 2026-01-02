@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:09:46+03:00
+title: "Hekimoğlu Ali Paşa Sebili"
+date: "2025-12-25T13:09:46+03:00"
 slug: "hekimoglu-ali-pasa-sebili"
 description: "## Hekimoğlu Ali Paşa Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9354549,41.0065678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hekimoğlu Ali Paşa Sebili: İstanbul'un Gizli Çeşmesi

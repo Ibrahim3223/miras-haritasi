@@ -1,18 +1,17 @@
 ---
-title: "Beldibi Mağarası | Miras Haritası"
-date: 2025-12-25T07:00:51+03:00
+title: "Beldibi Mağarası"
+date: "2025-12-25T07:00:51+03:00"
 slug: "beldibi-magarasi"
 description: "## Beldibi Mağarası: Antalya'nın Gizli Çanak Çömleği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.57,36.745278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beldibi Mağarası: Antalya'nın Gizli Çanak Çömleği

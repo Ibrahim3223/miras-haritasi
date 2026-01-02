@@ -1,18 +1,17 @@
 ---
-title: "Valide Han İran Camii | Miras Haritası"
-date: 2025-12-25T00:04:10+03:00
+title: "Valide Han İran Camii"
+date: "2025-12-25T00:04:10+03:00"
 slug: "valide-han-iran-camii"
 description: "## Valide Han İran Camii: Fatih'te bir Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9684258,41.0137177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Valide Han İran Camii: Fatih'te bir Tarih ve Kültür Mirası

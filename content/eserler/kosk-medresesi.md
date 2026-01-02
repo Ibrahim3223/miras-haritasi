@@ -1,18 +1,17 @@
 ---
-title: "Köşk Medresesi | Miras Haritası"
-date: 2025-12-25T17:25:07+03:00
+title: "Köşk Medresesi"
+date: "2025-12-25T17:25:07+03:00"
 slug: "kosk-medresesi"
 description: "## Köşk Medresesi: Kayseri'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.5105,38.7167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köşk Medresesi: Kayseri'nin Tarihi Bir Mirası

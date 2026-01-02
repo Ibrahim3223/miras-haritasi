@@ -1,18 +1,17 @@
 ---
-title: "Öküzini Mağarası | Miras Haritası"
-date: 2025-12-25T07:16:37+03:00
+title: "Öküzini Mağarası"
+date: "2025-12-25T07:16:37+03:00"
 slug: "okuzini-magarasi"
 description: "### Öküzini Mağarası: Antik Dünyanın Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Relief_Öküzini.jpg/1200px-Relief_Öküzini.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.576,37.089"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Öküzini Mağarası: Antik Dünyanın Gizli Harikası

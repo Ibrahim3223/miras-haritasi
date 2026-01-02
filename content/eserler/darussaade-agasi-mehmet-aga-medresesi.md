@@ -1,18 +1,17 @@
 ---
-title: "Darüssaade Ağası Mehmet Ağa Medresesi | Miras Haritası"
-date: 2025-12-25T17:30:50+03:00
+title: "Darüssaade Ağası Mehmet Ağa Medresesi"
+date: "2025-12-25T17:30:50+03:00"
 slug: "darussaade-agasi-mehmet-aga-medresesi"
 description: "### Darüssaade Ağası Mehmet Ağa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.974143,41.008477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Darüssaade Ağası Mehmet Ağa Medresesi

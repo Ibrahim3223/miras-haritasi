@@ -1,18 +1,17 @@
 ---
-title: "Menteşe Camii | Miras Haritası"
-date: 2025-12-25T00:56:16+03:00
+title: "Menteşe Camii"
+date: "2025-12-25T00:56:16+03:00"
 slug: "mentese-camii"
 description: "## Menteşe Camii: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.320678,37.750756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Menteşe Camii: Denizli'nin Gizli Cenneti

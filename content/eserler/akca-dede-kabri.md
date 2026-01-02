@@ -1,18 +1,17 @@
 ---
-title: "Akça Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:24:34+03:00
+title: "Akça Dede Kabri"
+date: "2025-12-25T13:24:34+03:00"
 slug: "akca-dede-kabri"
 description: "## Akça Dede Kabri Tanıtımı..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Karamürsel"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.6210709,40.6215363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akça Dede Kabri Tanıtımı

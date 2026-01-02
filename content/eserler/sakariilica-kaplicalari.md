@@ -1,18 +1,17 @@
 ---
-title: "Sakarıılıca Kaplıcaları | Miras Haritası"
-date: 2025-12-25T16:29:42+03:00
+title: "Sakarıılıca Kaplıcaları"
+date: "2025-12-25T16:29:42+03:00"
 slug: "sakariilica-kaplicalari"
 description: "## Sakarıılıca Kaplıcaları..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Mihalgazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5861892,39.9873079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarıılıca Kaplıcaları

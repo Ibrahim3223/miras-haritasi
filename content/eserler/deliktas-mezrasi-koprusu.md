@@ -1,18 +1,17 @@
 ---
-title: "Deliktaş Mezrası Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:40+03:00
+title: "Deliktaş Mezrası Köprüsü"
+date: "2025-12-25T02:24:40+03:00"
 slug: "deliktas-mezrasi-koprusu"
 description: "## Deliktaş Mezrası Köprüsü..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.5433648,38.4722751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deliktaş Mezrası Köprüsü

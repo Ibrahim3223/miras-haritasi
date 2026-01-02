@@ -1,18 +1,17 @@
 ---
-title: "Esendal Köyü Yeni Camii | Miras Haritası"
-date: 2025-12-25T01:04:32+03:00
+title: "Esendal Köyü Yeni Camii"
+date: "2025-12-25T01:04:32+03:00"
 slug: "esendal-koyu-yeni-camii"
 description: "## Esendal Köyü Yeni Camii: Artvin'in Tarihi Çağıntılarından Birini Tanıyalım..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5750644,40.9320851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esendal Köyü Yeni Camii: Artvin'in Tarihi Çağıntılarından Birini Tanıyalım

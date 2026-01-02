@@ -1,18 +1,17 @@
 ---
-title: "Havsa Şehitliği | Miras Haritası"
-date: 2025-12-25T16:04:13+03:00
+title: "Havsa Şehitliği"
+date: "2025-12-25T16:04:13+03:00"
 slug: "havsa-sehitligi"
 description: "## Havsa Şehitliği..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.8513699,41.5400047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havsa Şehitliği

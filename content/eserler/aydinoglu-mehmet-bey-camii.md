@@ -1,18 +1,17 @@
 ---
-title: "Aydınoğlu Mehmet Bey Camii | Miras Haritası"
-date: 2025-12-24T21:38:43+03:00
+title: "Aydınoğlu Mehmet Bey Camii"
+date: "2025-12-24T21:38:43+03:00"
 slug: "aydinoglu-mehmet-bey-camii"
 description: "## Aydınoğlu Mehmet Bey Camii: Ödemiş'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Aydınoğlu_Mehmet_Bey_Mosque_(3).jpg/1200px-Aydınoğlu_Mehmet_Bey_Mosque_(3).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.067194444,38.256555555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aydınoğlu Mehmet Bey Camii: Ödemiş'in Tarihi Bir Mirası

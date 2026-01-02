@@ -1,18 +1,17 @@
 ---
-title: "Akçaköy Yapastepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:25:57+03:00
+title: "Akçaköy Yapastepe Tümülüsü"
+date: "2025-12-25T07:25:57+03:00"
 slug: "akcakoy-yapastepe-tumulusu"
 description: "### Akçaköy Yapastepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5800648,41.380497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçaköy Yapastepe Tümülüsü

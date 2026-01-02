@@ -1,18 +1,17 @@
 ---
-title: "Işıkkale | Miras Haritası"
-date: 2025-12-25T07:16:48+03:00
+title: "Işıkkale"
+date: "2025-12-25T07:16:48+03:00"
 slug: "isikkale"
 description: "### Işıkkale Arkeolojik Sit'i Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Işıkkale,_Silifke.jpg/1200px-Işıkkale,_Silifke.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.00944444,36.43944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Işıkkale Arkeolojik Sit'i Keşfetmek

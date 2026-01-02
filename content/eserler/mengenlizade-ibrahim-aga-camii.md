@@ -1,18 +1,17 @@
 ---
-title: "Mengenlizade İbrahim Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:24:03+03:00
+title: "Mengenlizade İbrahim Ağa Camii"
+date: "2025-12-24T22:24:03+03:00"
 slug: "mengenlizade-ibrahim-aga-camii"
 description: "## Mengenlizade İbrahim Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mengenlizade_İbrahim_Ağa_Mosque,_Marmaris,_Muğla.jpg/1200px-Mengenlizade_İbrahim_Ağa_Mosque,_Marmaris,_Muğla.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.274576197,36.851986328"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mengenlizade İbrahim Ağa Camii

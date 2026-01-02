@@ -1,18 +1,17 @@
 ---
-title: "Yassıhöyük, Acıpayam | Miras Haritası"
-date: 2025-12-25T06:38:07+03:00
+title: "Yassıhöyük, Acıpayam"
+date: "2025-12-25T06:38:07+03:00"
 slug: "yassihoyuk-acipayam"
 description: "## Yassıhöyük: Acıpayam'ın Gizemi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.3287792,37.5163345"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yassıhöyük: Acıpayam'ın Gizemi

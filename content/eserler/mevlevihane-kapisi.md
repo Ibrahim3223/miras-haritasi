@@ -1,18 +1,17 @@
 ---
-title: "Mevlevihane Kapısı | Miras Haritası"
-date: 2025-12-25T13:17:57+03:00
+title: "Mevlevihane Kapısı"
+date: "2025-12-25T13:17:57+03:00"
 slug: "mevlevihane-kapisi"
 description: "### Mevlevihane Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.921885,41.014137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mevlevihane Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Beylerbeyi Sarayı | Miras Haritası"
-date: 2025-12-25T13:13:02+03:00
+title: "Beylerbeyi Sarayı"
+date: "2025-12-25T13:13:02+03:00"
 slug: "beylerbeyi-sarayi"
 description: "### Beylerbeyi Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bosfor_B17-35.jpg/1200px-Bosfor_B17-35.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "29.0399,41.0426"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Beylerbeyi Sarayı

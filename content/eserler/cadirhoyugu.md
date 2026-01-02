@@ -1,18 +1,17 @@
 ---
-title: "Çadırhöyüğü | Miras Haritası"
-date: 2025-12-25T06:22:34+03:00
+title: "Çadırhöyüğü"
+date: "2025-12-25T06:22:34+03:00"
 slug: "cadirhoyugu"
 description: "## Çadırhöyüğü: Bünyan, Kayseri'nin Gizli İncisi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Bünyan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.0346508,38.8776245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çadırhöyüğü: Bünyan, Kayseri'nin Gizli İncisi

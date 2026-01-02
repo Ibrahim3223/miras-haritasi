@@ -1,18 +1,17 @@
 ---
-title: "İkiyüzlü Çeşme | Miras Haritası"
-date: 2025-12-25T11:45:25+03:00
+title: "İkiyüzlü Çeşme"
+date: "2025-12-25T11:45:25+03:00"
 slug: "ikiyuzlu-cesme"
 description: "## İkiyüzlü Çeşme: Yedikule'de Gizemli Bir Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yedikule"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9278641,40.9985237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkiyüzlü Çeşme: Yedikule'de Gizemli Bir Çeşme

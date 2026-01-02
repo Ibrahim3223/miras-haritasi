@@ -1,18 +1,17 @@
 ---
-title: "Aizanoi Antik Tiyatrosu ve Stadyumu | Miras Haritası"
-date: 2025-12-25T16:21:12+03:00
+title: "Aizanoi Antik Tiyatrosu ve Stadyumu"
+date: "2025-12-25T16:21:12+03:00"
 slug: "aizanoi-antik-tiyatrosu-ve-stadyumu"
 description: "## Aizanoi Antik Tiyatrosu ve Stadyumu..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Çavdarhisar"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "29.612014,39.207277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aizanoi Antik Tiyatrosu ve Stadyumu

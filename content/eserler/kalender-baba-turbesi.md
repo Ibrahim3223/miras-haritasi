@@ -1,18 +1,17 @@
 ---
-title: "Kalender Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:51+03:00
+title: "Kalender Baba Türbesi"
+date: "2025-12-25T14:52:51+03:00"
 slug: "kalender-baba-turbesi"
 description: "## Kalender Baba Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.494957,37.8799858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalender Baba Türbesi

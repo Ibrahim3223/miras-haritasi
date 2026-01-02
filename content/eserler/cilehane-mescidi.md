@@ -1,18 +1,17 @@
 ---
-title: "Çilehane Mescidi | Miras Haritası"
-date: 2025-12-24T22:50:28+03:00
+title: "Çilehane Mescidi"
+date: "2025-12-24T22:50:28+03:00"
 slug: "cilehane-mescidi"
 description: "### Çilehane Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Çilehane_Cami,_Küçük_Çamlıca.jpg/1200px-Çilehane_Cami,_Küçük_Çamlıca.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Küçük Çamlıca"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0689087,41.0154906"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çilehane Mescidi

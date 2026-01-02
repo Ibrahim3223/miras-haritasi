@@ -1,18 +1,17 @@
 ---
-title: "Kemer Gubbe | Miras Haritası"
-date: 2025-12-25T15:22:14+03:00
+title: "Kemer Gubbe"
+date: "2025-12-25T15:22:14+03:00"
 slug: "kemer-gubbe"
 description: "## Kemer Gubbe: Malatya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.3246422,38.7535172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemer Gubbe: Malatya'nın Gizli Anıtı

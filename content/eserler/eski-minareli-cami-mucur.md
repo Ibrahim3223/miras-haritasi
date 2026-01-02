@@ -1,18 +1,17 @@
 ---
-title: "Eski Minareli Cami, Mucur | Miras Haritası"
-date: 2025-12-25T00:25:36+03:00
+title: "Eski Minareli Cami, Mucur"
+date: "2025-12-25T00:25:36+03:00"
 slug: "eski-minareli-cami-mucur"
 description: "## Eski Minareli Cami, Mucur..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.373703,39.0586739"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Minareli Cami, Mucur

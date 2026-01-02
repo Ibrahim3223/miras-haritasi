@@ -1,18 +1,17 @@
 ---
-title: "Eski Hamam, Foça | Miras Haritası"
-date: 2025-12-25T17:06:22+03:00
+title: "Eski Hamam, Foça"
+date: "2025-12-25T17:06:22+03:00"
 slug: "eski-hamam-foca"
 description: "### Eski Hamam, Foça..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.7544498,38.6672897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Hamam, Foça

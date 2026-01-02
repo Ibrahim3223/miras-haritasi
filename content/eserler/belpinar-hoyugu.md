@@ -1,18 +1,17 @@
 ---
-title: "Belpınar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:41:33+03:00
+title: "Belpınar Höyüğü"
+date: "2025-12-25T06:41:33+03:00"
 slug: "belpinar-hoyugu"
 description: "# Belpınar Höyüğü: Eskişehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.0895679,39.3013453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Belpınar Höyüğü: Eskişehir'in Gizli Kahramanı

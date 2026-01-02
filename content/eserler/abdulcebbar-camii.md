@@ -1,18 +1,17 @@
 ---
-title: "Abdülcebbar Camii | Miras Haritası"
-date: 2025-12-24T22:57:17+03:00
+title: "Abdülcebbar Camii"
+date: "2025-12-24T22:57:17+03:00"
 slug: "abdulcebbar-camii"
 description: "## Abdülcebbar Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kastamonu"
+province: "Kastamonu"
+iller: '["Kastamonu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.782959,41.3778076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdülcebbar Camii

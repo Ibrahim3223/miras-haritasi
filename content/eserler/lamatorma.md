@@ -1,18 +1,17 @@
 ---
-title: "Lamatorma | Miras Haritası"
-date: 2025-12-25T05:04:48+03:00
+title: "Lamatorma"
+date: "2025-12-25T05:04:48+03:00"
 slug: "lamatorma"
 description: "# Lamatorma: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.0162235,36.734871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Lamatorma: Türkiye'nin Gizli Cenneti

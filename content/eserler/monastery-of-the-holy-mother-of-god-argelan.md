@@ -1,18 +1,17 @@
 ---
-title: "Monastery of the Holy Mother of God (Argelan) | Miras Haritası"
-date: 2025-12-25T09:54:38+03:00
+title: "Monastery of the Holy Mother of God (Argelan)"
+date: "2025-12-25T09:54:38+03:00"
 slug: "monastery-of-the-holy-mother-of-god-argelan"
 description: "# Argelan Aziz Meryem Manastırı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Argelan Aziz Meryem Manastırı

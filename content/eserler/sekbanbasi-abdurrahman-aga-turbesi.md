@@ -1,18 +1,17 @@
 ---
-title: "Sekbanbaşı Abdurrahman Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:53+03:00
+title: "Sekbanbaşı Abdurrahman Ağa Türbesi"
+date: "2025-12-25T15:06:53+03:00"
 slug: "sekbanbasi-abdurrahman-aga-turbesi"
 description: "### Sekbanbaşı Abdurrahman Ağa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sekbanbaşı_Abdurrahman_Ağa_Türbesi_01.jpg/1200px-Sekbanbaşı_Abdurrahman_Ağa_Türbesi_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9564152,41.0278854"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sekbanbaşı Abdurrahman Ağa Türbesi

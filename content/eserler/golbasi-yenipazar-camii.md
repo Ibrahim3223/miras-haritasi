@@ -1,18 +1,17 @@
 ---
-title: "Gölbaşı Yenipazar Camii | Miras Haritası"
-date: 2025-12-24T23:45:09+03:00
+title: "Gölbaşı Yenipazar Camii"
+date: "2025-12-24T23:45:09+03:00"
 slug: "golbasi-yenipazar-camii"
 description: "### Gölbaşı Yenipazar Camii..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Fatsa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.5390167,41.0209007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gölbaşı Yenipazar Camii

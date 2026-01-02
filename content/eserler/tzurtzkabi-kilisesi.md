@@ -1,18 +1,17 @@
 ---
-title: "Tzurtzkabi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:33+03:00
+title: "Tzurtzkabi Kilisesi"
+date: "2025-12-25T09:03:33+03:00"
 slug: "tzurtzkabi-kilisesi"
 description: "## Tzurtzkabi Kilisesi..."
 featured_image: ""
 province: "Posof"
-iller: ["Posof"]
+iller: '["Posof"]'
 district: "Aşıkzülali"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.662472222,41.431944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tzurtzkabi Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Kızılcaköy | Miras Haritası"
-date: 2025-12-25T05:31:32+03:00
+title: "Kızılcaköy"
+date: "2025-12-25T05:31:32+03:00"
 slug: "kizilcakoy"
 description: "## Kızılcaköy Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.312649,39.349758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılcaköy Arkeolojik Sit

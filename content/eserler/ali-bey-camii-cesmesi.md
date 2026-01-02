@@ -1,18 +1,17 @@
 ---
-title: "Ali Bey Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:25:32+03:00
+title: "Ali Bey Camii Çeşmesi"
+date: "2025-12-25T11:25:32+03:00"
 slug: "ali-bey-camii-cesmesi"
 description: "### Ali Bey Camii Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4266167,38.6092491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Bey Camii Çeşmesi

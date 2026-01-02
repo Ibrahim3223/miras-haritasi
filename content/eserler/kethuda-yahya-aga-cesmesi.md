@@ -1,18 +1,17 @@
 ---
-title: "Kethüda Yahya Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:14:14+03:00
+title: "Kethüda Yahya Ağa Çeşmesi"
+date: "2025-12-25T10:14:14+03:00"
 slug: "kethuda-yahya-aga-cesmesi"
 description: "## Kethüda Yahya Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kethüda_Yahya_Ağa_Fountain.jpg/1200px-Kethüda_Yahya_Ağa_Fountain.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.970083333,41.022583333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kethüda Yahya Ağa Çeşmesi

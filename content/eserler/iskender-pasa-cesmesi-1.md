@@ -1,18 +1,17 @@
 ---
-title: "İskender Paşa Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:21:41+03:00
+title: "İskender Paşa Çeşmesi 1"
+date: "2025-12-25T10:21:41+03:00"
 slug: "iskender-pasa-cesmesi-1"
 description: "## İskender Paşa Çeşmesi 1: Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/İskender_Paşa_Çeşmesi_1.jpg/1200px-İskender_Paşa_Çeşmesi_1.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.7175636,41.0077477"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İskender Paşa Çeşmesi 1: Tarihi ve Kültürel Mirası

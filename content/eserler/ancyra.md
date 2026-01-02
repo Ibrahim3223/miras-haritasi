@@ -1,18 +1,17 @@
 ---
-title: "Ancyra | Miras Haritası"
-date: 2025-12-25T05:19:50+03:00
+title: "Ancyra"
+date: "2025-12-25T05:19:50+03:00"
 slug: "ancyra"
 description: "# Ancyra: Ankara'nın Eski Uygarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/MonumentumAncyranum28Nov2004.jpg/1200px-MonumentumAncyranum28Nov2004.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara Büyükşehir Belediyesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.863,39.95"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Ancyra: Ankara'nın Eski Uygarlığı

@@ -1,18 +1,17 @@
 ---
-title: "Taza (Lidya) | Miras Haritası"
-date: 2025-12-25T05:20:06+03:00
+title: "Taza (Lidya)"
+date: "2025-12-25T05:20:06+03:00"
 slug: "taza-lidya"
 description: "## Taza (Lidya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.668896,38.674733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taza (Lidya) Arkeolojik Sit

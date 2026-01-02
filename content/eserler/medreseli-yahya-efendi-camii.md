@@ -1,18 +1,17 @@
 ---
-title: "Medreseli Yahya Efendi Camii | Miras Haritası"
-date: 2025-12-25T17:38:33+03:00
+title: "Medreseli Yahya Efendi Camii"
+date: "2025-12-25T17:38:33+03:00"
 slug: "medreseli-yahya-efendi-camii"
 description: "## Medreseli Yahya Efendi Camii..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "34.9091606,38.6316681"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Medreseli Yahya Efendi Camii

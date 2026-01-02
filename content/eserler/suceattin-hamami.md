@@ -1,18 +1,17 @@
 ---
-title: "Süceattin Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:49+03:00
+title: "Süceattin Hamamı"
+date: "2025-12-25T17:09:49+03:00"
 slug: "suceattin-hamami"
 description: "## Süceattin Hamamı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.6143398,39.449543"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süceattin Hamamı

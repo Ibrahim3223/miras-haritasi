@@ -1,18 +1,17 @@
 ---
-title: "Hacı Seyfettin Camii | Miras Haritası"
-date: 2025-12-24T23:27:45+03:00
+title: "Hacı Seyfettin Camii"
+date: "2025-12-24T23:27:45+03:00"
 slug: "haci-seyfettin-camii"
 description: "### Hacı Seyfettin Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fotograflar_mustafa_dumanın_arşivinde_2014_-_panoramio_(31).jpg/1200px-Fotograflar_mustafa_dumanın_arşivinde_2014_-_panoramio_(31).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0819473,40.1834145"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hacı Seyfettin Camii: Bursa'nın Tarihi Bir Mirası

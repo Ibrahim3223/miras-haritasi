@@ -1,18 +1,17 @@
 ---
-title: "Etiler Camii | Miras Haritası"
-date: 2025-12-24T21:57:59+03:00
+title: "Etiler Camii"
+date: "2025-12-24T21:57:59+03:00"
 slug: "etiler-camii"
 description: "## Etiler Camii: Beşiktaş'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Istanbul_Etiler_Mosque_2.jpg/1200px-Istanbul_Etiler_Mosque_2.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Etiler"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.03137,41.08292"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Etiler Camii: Beşiktaş'ın Tarihi Bir Mirası

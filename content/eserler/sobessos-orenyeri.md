@@ -1,18 +1,17 @@
 ---
-title: "Sobessos Örenyeri | Miras Haritası"
-date: 2025-12-25T03:34:07+03:00
+title: "Sobessos Örenyeri"
+date: "2025-12-25T03:34:07+03:00"
 slug: "sobessos-orenyeri"
 description: "### Sobessos Örenyeri: Ürgüp'ün Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sobessos Örenyeri: Ürgüp'ün Gizli Cenneti

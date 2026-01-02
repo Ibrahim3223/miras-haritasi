@@ -1,18 +1,17 @@
 ---
-title: "Daltaban Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:08+03:00
+title: "Daltaban Çeşmesi"
+date: "2025-12-25T10:12:08+03:00"
 slug: "daltaban-cesmesi"
 description: "### Daltaban Çeşmesi: Gümüşhane'nin Tarihî Mirası..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.4691963,40.4606323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Daltaban Çeşmesi: Gümüşhane'nin Tarihî Mirası

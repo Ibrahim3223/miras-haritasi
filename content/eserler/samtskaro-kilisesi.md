@@ -1,18 +1,17 @@
 ---
-title: "Samtskaro Kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:01+03:00
+title: "Samtskaro Kilisesi"
+date: "2025-12-25T08:58:01+03:00"
 slug: "samtskaro-kilisesi"
 description: "## Samtskaro Kilisesi: Gürcistan'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Aşağıırmaklar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.181555555,41.18025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samtskaro Kilisesi: Gürcistan'ın Tarihî Bir Mirası

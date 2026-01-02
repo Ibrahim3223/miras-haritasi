@@ -1,18 +1,17 @@
 ---
-title: "Paşalar Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:34+03:00
+title: "Paşalar Kalesi"
+date: "2025-12-25T01:33:34+03:00"
 slug: "pasalar-kalesi"
 description: "### Paşalar Kalesi: Sakarya'nın Gizli Kaleleri Arasındaki Bir Öne Çıkan Eser..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Pamukova"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.10182,40.528604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Paşalar Kalesi: Sakarya'nın Gizli Kaleleri Arasındaki Bir Öne Çıkan Eser

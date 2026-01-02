@@ -1,18 +1,17 @@
 ---
-title: "Bağgediği Kalesi, Marmaris | Miras Haritası"
-date: 2025-12-25T01:25:18+03:00
+title: "Bağgediği Kalesi, Marmaris"
+date: "2025-12-25T01:25:18+03:00"
 slug: "baggedigi-kalesi-marmaris"
 description: "## Bağgediği Kalesi, Marmaris..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.1340809,36.6579132"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağgediği Kalesi, Marmaris

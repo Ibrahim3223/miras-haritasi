@@ -1,18 +1,17 @@
 ---
-title: "Çınarcık Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:22:21+03:00
+title: "Çınarcık Saat Kulesi"
+date: "2025-12-25T17:22:21+03:00"
 slug: "cinarcik-saat-kulesi"
 description: "## Çınarcık Saat Kulesi: Yalova'nın Tarihi Örtüleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yalova"
+province: "Yalova"
+iller: '["Yalova"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "29.117083333,40.645861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çınarcık Saat Kulesi: Yalova'nın Tarihi Örtüleri

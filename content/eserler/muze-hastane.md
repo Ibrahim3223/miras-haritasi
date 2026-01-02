@@ -1,18 +1,17 @@
 ---
-title: "Müze Hastane | Miras Haritası"
-date: 2025-12-25T03:46:17+03:00
+title: "Müze Hastane"
+date: "2025-12-25T03:46:17+03:00"
 slug: "muze-hastane"
 description: "### Müze Hastane: Bodrum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4291172,37.0402679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Müze Hastane: Bodrum'un Tarihi ve Kültürel Mirası

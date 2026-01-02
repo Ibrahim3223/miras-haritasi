@@ -1,18 +1,17 @@
 ---
-title: "Batman Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:37+03:00
+title: "Batman Müzesi"
+date: "2025-12-25T03:24:37+03:00"
 slug: "batman-muzesi"
 description: "## Batman Müzesi: Tarih, Kültür ve Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Batman_Müzesi.jpg/1200px-Batman_Müzesi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "41.1411,37.8986"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Batman Müzesi: Tarih, Kültür ve Miras

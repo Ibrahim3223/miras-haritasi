@@ -1,18 +1,17 @@
 ---
-title: "Aya İoannis Ayazması | Miras Haritası"
-date: 2025-12-25T12:43:21+03:00
+title: "Aya İoannis Ayazması"
+date: "2025-12-25T12:43:21+03:00"
 slug: "aya-ioannis-ayazmasi"
 description: "## Aya İoannis Ayazması: Sarıyer'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0509319,41.1380463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya İoannis Ayazması: Sarıyer'in Gizli Çeşmesi

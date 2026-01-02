@@ -1,18 +1,17 @@
 ---
-title: "Larisa (Lidya) | Miras Haritası"
-date: 2025-12-25T04:53:49+03:00
+title: "Larisa (Lidya)"
+date: "2025-12-25T04:53:49+03:00"
 slug: "larisa-lidya"
 description: "### Larisa (Lidya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.741461,38.153004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Larisa (Lidya)

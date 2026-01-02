@@ -1,18 +1,17 @@
 ---
-title: "Avustralya Lone Pine Anıtı | Miras Haritası"
-date: 2025-12-25T14:00:40+03:00
+title: "Avustralya Lone Pine Anıtı"
+date: "2025-12-25T14:00:40+03:00"
 slug: "avustralya-lone-pine-aniti"
 description: "## Lone Pine Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Çanakkale56.jpg/1200px-Çanakkale56.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.28794,40.23036"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lone Pine Anıtı

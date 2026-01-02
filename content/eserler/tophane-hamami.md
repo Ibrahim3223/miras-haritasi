@@ -1,18 +1,17 @@
 ---
-title: "Tophane Hamamı | Miras Haritası"
-date: 2025-12-25T16:47:51+03:00
+title: "Tophane Hamamı"
+date: "2025-12-25T16:47:51+03:00"
 slug: "tophane-hamami"
 description: "## Tophane Hamamı: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.7205734,41.0086555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tophane Hamamı: Trabzon'un Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Agios Prokopios Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:31+03:00
+title: "Agios Prokopios Kilisesi"
+date: "2025-12-25T09:13:31+03:00"
 slug: "agios-prokopios-kilisesi"
 description: "**Agios Prokopios Kilisesi: Kayseri'nin Gizli Cenneti**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.71997,38.816335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Agios Prokopios Kilisesi: Kayseri'nin Gizli Cenneti**

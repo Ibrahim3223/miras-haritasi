@@ -1,18 +1,17 @@
 ---
-title: "Koruköy Küçük Kaynaklar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:48+03:00
+title: "Koruköy Küçük Kaynaklar Tümülüsü"
+date: "2025-12-25T07:47:48+03:00"
 slug: "korukoy-kucuk-kaynaklar-tumulusu"
 description: "### Koruköy Küçük Kaynaklar Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3302708,41.872509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koruköy Küçük Kaynaklar Tümülüsü

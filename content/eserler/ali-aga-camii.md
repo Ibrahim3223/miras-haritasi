@@ -1,18 +1,17 @@
 ---
-title: "Ali Ağa Camii | Miras Haritası"
-date: 2025-12-25T00:01:55+03:00
+title: "Ali Ağa Camii"
+date: "2025-12-25T00:01:55+03:00"
 slug: "ali-aga-camii"
 description: "## Ali Ağa Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ali_Ağa_Camii.jpg/1200px-Ali_Ağa_Camii.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1305714,38.4141464"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ali Ağa Camii: İzmir'in Tarihi Bir Mirası

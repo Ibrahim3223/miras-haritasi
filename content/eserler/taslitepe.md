@@ -1,18 +1,17 @@
 ---
-title: "Taşlıtepe | Miras Haritası"
-date: 2025-12-25T05:44:49+03:00
+title: "Taşlıtepe"
+date: "2025-12-25T05:44:49+03:00"
 slug: "taslitepe"
 description: "## Taşlıtepe Arkeolojik Sit..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.280457496,37.368895245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlıtepe Arkeolojik Sit

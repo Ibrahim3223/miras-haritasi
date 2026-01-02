@@ -1,18 +1,17 @@
 ---
-title: "Fatma Hanım Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:35:24+03:00
+title: "Fatma Hanım Sultan Türbesi"
+date: "2025-12-25T15:35:24+03:00"
 slug: "fatma-hanim-sultan-turbesi"
 description: "## Fatma Hanım Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.014090433,41.022218954"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatma Hanım Sultan Türbesi

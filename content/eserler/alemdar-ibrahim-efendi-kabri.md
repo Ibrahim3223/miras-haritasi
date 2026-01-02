@@ -1,18 +1,17 @@
 ---
-title: "Alemdar İbrahim Efendi Kabri | Miras Haritası"
-date: 2025-12-25T13:29:39+03:00
+title: "Alemdar İbrahim Efendi Kabri"
+date: "2025-12-25T13:29:39+03:00"
 slug: "alemdar-ibrahim-efendi-kabri"
 description: "### Alemdar İbrahim Efendi Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9564304,41.0188179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alemdar İbrahim Efendi Kabri

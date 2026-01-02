@@ -1,18 +1,17 @@
 ---
-title: "TED Ankara Koleji Okul Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:37+03:00
+title: "TED Ankara Koleji Okul Müzesi"
+date: "2025-12-25T03:27:37+03:00"
 slug: "ted-ankara-koleji-okul-muzesi"
 description: "## TED Ankara Koleji Okul Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Gölbaşı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.775687,39.831074"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## TED Ankara Koleji Okul Müzesi

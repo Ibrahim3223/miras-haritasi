@@ -1,18 +1,17 @@
 ---
-title: "Çayırdere Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:29:56+03:00
+title: "Çayırdere Köyü Camii"
+date: "2025-12-24T22:29:56+03:00"
 slug: "cayirdere-koyu-camii"
 description: "## Çayırdere Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5130558,41.7000275"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayırdere Köyü Camii

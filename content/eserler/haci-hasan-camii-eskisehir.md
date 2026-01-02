@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hasan Camii, Eskişehir | Miras Haritası"
-date: 2025-12-25T00:24:57+03:00
+title: "Hacı Hasan Camii, Eskişehir"
+date: "2025-12-25T00:24:57+03:00"
 slug: "haci-hasan-camii-eskisehir"
 description: "## Eskişehir'in Tarihi Cenneti: Hacı Hasan Camii..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.529232,39.7626495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir'in Tarihi Cenneti: Hacı Hasan Camii

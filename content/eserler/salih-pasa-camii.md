@@ -1,18 +1,17 @@
 ---
-title: "Salih Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:44:56+03:00
+title: "Salih Paşa Camii"
+date: "2025-12-24T22:44:56+03:00"
 slug: "salih-pasa-camii"
 description: "## Salih Paşa Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Salih_Paşa_Camii'sinin_içinden_fotoğraf.jpg/1200px-Salih_Paşa_Camii'sinin_içinden_fotoğraf.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.958666666,41.02275"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Salih Paşa Camii: İstanbul'un Gizli Cenneti

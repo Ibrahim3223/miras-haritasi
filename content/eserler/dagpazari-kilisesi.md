@@ -1,18 +1,17 @@
 ---
-title: "Dağpazarı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:40+03:00
+title: "Dağpazarı Kilisesi"
+date: "2025-12-25T09:25:40+03:00"
 slug: "dagpazari-kilisesi"
 description: "# Dağpazarı Kilisesi: Geçmişin Şifahi Hikayeleri..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "33.4684448,36.8287621"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dağpazarı Kilisesi: Geçmişin Şifahi Hikayeleri

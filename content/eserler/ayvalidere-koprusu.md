@@ -1,18 +1,17 @@
 ---
-title: "Ayvalıdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:49:05+03:00
+title: "Ayvalıdere Köprüsü"
+date: "2025-12-25T02:49:05+03:00"
 slug: "ayvalidere-koprusu"
 description: "### Ayvalıdere Köprüsü: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Nilüfer"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.904647214,40.22115473"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayvalıdere Köprüsü: Bursa'nın Tarihi Bir Mirası

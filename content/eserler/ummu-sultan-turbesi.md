@@ -1,18 +1,17 @@
 ---
-title: "Ümmü Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:09+03:00
+title: "Ümmü Sultan Türbesi"
+date: "2025-12-25T14:20:09+03:00"
 slug: "ummu-sultan-turbesi"
 description: "# Ümmü Sultan Türbesi: Ödemiş'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.0673962,38.25634"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ümmü Sultan Türbesi: Ödemiş'in Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Çöplüçiftliği Höyük | Miras Haritası"
-date: 2025-12-25T13:46:46+03:00
+title: "Çöplüçiftliği Höyük"
+date: "2025-12-25T13:46:46+03:00"
 slug: "copluciftligi-hoyuk"
 description: "## Çöplüçiftliği Höyük: Yozgat'ın Gizli Kutsalı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yenifakılı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.9533221,39.3901167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çöplüçiftliği Höyük: Yozgat'ın Gizli Kutsalı

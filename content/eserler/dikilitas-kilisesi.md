@@ -1,18 +1,17 @@
 ---
-title: "Dikilitaş Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:21+03:00
+title: "Dikilitaş Kilisesi"
+date: "2025-12-25T09:23:21+03:00"
 slug: "dikilitas-kilisesi"
 description: "## Dikilitaş Kilisesi: Niğde'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.0903893,38.105938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dikilitaş Kilisesi: Niğde'nin Tarihî Bir Mirası

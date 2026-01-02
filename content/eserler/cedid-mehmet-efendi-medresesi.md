@@ -1,18 +1,17 @@
 ---
-title: "Cedid Mehmet Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:43:20+03:00
+title: "Cedid Mehmet Efendi Medresesi"
+date: "2025-12-25T17:43:20+03:00"
 slug: "cedid-mehmet-efendi-medresesi"
 description: "## Cedid Mehmet Efendi Medresesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.97882,41.006319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cedid Mehmet Efendi Medresesi

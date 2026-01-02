@@ -1,18 +1,17 @@
 ---
-title: "Davutpaşa Kışlası Mescidi | Miras Haritası"
-date: 2025-12-25T00:32:56+03:00
+title: "Davutpaşa Kışlası Mescidi"
+date: "2025-12-25T00:32:56+03:00"
 slug: "davutpasa-kislasi-mescidi"
 description: "## Davutpaşa Kışlası Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Esenler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.888464,41.0262527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Davutpaşa Kışlası Mescidi

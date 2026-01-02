@@ -1,18 +1,17 @@
 ---
-title: "Çırçır Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:15+03:00
+title: "Çırçır Çeşmesi"
+date: "2025-12-25T10:53:15+03:00"
 slug: "circir-cesmesi"
 description: "## Çırçır Çeşmesi: Tekirdağ'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5305901,40.9871025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çırçır Çeşmesi: Tekirdağ'ın Gizli Çeşmesi

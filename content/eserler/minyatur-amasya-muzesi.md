@@ -1,18 +1,17 @@
 ---
-title: "Minyatür Amasya Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:09+03:00
+title: "Minyatür Amasya Müzesi"
+date: "2025-12-25T03:44:09+03:00"
 slug: "minyatur-amasya-muzesi"
 description: "## Minyatür Amasya Müzesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.827563,40.650596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Minyatür Amasya Müzesi

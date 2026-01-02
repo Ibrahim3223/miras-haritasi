@@ -1,18 +1,17 @@
 ---
-title: "Müsgebi Mezarlık Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:30:02+03:00
+title: "Müsgebi Mezarlık Çeşmesi"
+date: "2025-12-25T11:30:02+03:00"
 slug: "musgebi-mezarlik-cesmesi"
 description: "### Müsgebi Mezarlık Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: ["Bodrum"]
+iller: '["Bodrum"]'
 district: "Ortakent Yahşi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3465004,37.0477982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Müsgebi Mezarlık Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk ve Redif Müzesi | Miras Haritası"
-date: 2025-12-25T03:33:51+03:00
+title: "Atatürk ve Redif Müzesi"
+date: "2025-12-25T03:33:51+03:00"
 slug: "ataturk-ve-redif-muzesi"
 description: "## Atatürk ve Redif Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Atatürk_ve_Redif_Müzesi.jpg/1200px-Atatürk_ve_Redif_Müzesi.jpg"
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Atatürk ve Redif Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Kızıltaş Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:38:27+03:00
+title: "Kızıltaş Köyü Köprüsü"
+date: "2025-12-25T02:38:27+03:00"
 slug: "kiziltas-koyu-koprusu"
 description: "### Kızıltaş Köyü Köprüsü ..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Dereli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.30166,40.567841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızıltaş Köyü Köprüsü 

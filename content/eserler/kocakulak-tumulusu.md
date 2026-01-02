@@ -1,18 +1,17 @@
 ---
-title: "Kocakulak Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:53:31+03:00
+title: "Kocakulak Tümülüsü"
+date: "2025-12-25T07:53:31+03:00"
 slug: "kocakulak-tumulusu"
 description: "**Kocakulak Tümülüsü**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3687,37.9360008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kocakulak Tümülüsü**

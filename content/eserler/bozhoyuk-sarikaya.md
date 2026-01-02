@@ -1,18 +1,17 @@
 ---
-title: "Bozhöyük, Sarıkaya | Miras Haritası"
-date: 2025-12-25T06:22:29+03:00
+title: "Bozhöyük, Sarıkaya"
+date: "2025-12-25T06:22:29+03:00"
 slug: "bozhoyuk-sarikaya"
 description: "## Bozhöyük, Sarıkaya: Yozgat'ın Gizli Örenleri..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.3039431,39.50307"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozhöyük, Sarıkaya: Yozgat'ın Gizli Örenleri

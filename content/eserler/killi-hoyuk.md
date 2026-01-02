@@ -1,18 +1,17 @@
 ---
-title: "Killi Höyük | Miras Haritası"
-date: 2025-12-25T13:50:18+03:00
+title: "Killi Höyük"
+date: "2025-12-25T13:50:18+03:00"
 slug: "killi-hoyuk"
 description: "### Killi Höyük: Bozüyük'ün Gizemi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9266491,39.7532692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Killi Höyük: Bozüyük'ün Gizemi

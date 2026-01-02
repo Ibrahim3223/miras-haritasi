@@ -1,18 +1,17 @@
 ---
-title: "Koyun Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:06+03:00
+title: "Koyun Dede Türbesi"
+date: "2025-12-25T15:17:06+03:00"
 slug: "koyun-dede-turbesi"
 description: "## Koyun Dede Türbesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Ceyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.697073,37.081087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koyun Dede Türbesi

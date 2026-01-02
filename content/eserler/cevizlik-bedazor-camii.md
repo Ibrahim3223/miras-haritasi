@@ -1,18 +1,17 @@
 ---
-title: "Cevizlik Bedazor Camii | Miras Haritası"
-date: 2025-12-25T00:58:23+03:00
+title: "Cevizlik Bedazor Camii"
+date: "2025-12-25T00:58:23+03:00"
 slug: "cevizlik-bedazor-camii"
 description: "### Cevizlik Bedazor Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7100916,41.0224232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cevizlik Bedazor Camii: Artvin'in Tarihi Bir Mirası

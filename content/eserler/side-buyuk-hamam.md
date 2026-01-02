@@ -1,18 +1,17 @@
 ---
-title: "Side Büyük Hamam | Miras Haritası"
-date: 2025-12-25T16:49:37+03:00
+title: "Side Büyük Hamam"
+date: "2025-12-25T16:49:37+03:00"
 slug: "side-buyuk-hamam"
 description: "## Side Büyük Hamam..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.3890877,36.7656136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Side Büyük Hamam

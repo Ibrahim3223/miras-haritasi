@@ -1,18 +1,17 @@
 ---
-title: "Garmravank | Miras Haritası"
-date: 2025-12-25T09:47:13+03:00
+title: "Garmravank"
+date: "2025-12-25T09:47:13+03:00"
 slug: "garmravank"
 description: "## Garmravank Manastırı: Van'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Karmravank_Armenian_monastery_(Lake_Van)_-_another_view.JPG/1200px-Karmravank_Armenian_monastery_(Lake_Van)_-_another_view.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.904281,38.372315"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Garmravank Manastırı: Van'ın Tarihi ve Kültürel Mirası

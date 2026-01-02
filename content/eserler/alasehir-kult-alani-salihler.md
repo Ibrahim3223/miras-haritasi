@@ -1,18 +1,17 @@
 ---
-title: "Alaşehir Kült Alanı, Salihler | Miras Haritası"
-date: 2025-12-25T13:50:07+03:00
+title: "Alaşehir Kült Alanı, Salihler"
+date: "2025-12-25T13:50:07+03:00"
 slug: "alasehir-kult-alani-salihler"
 description: "## Alaşehir Kült Alanı, Salihler: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.859738888,39.179661111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaşehir Kült Alanı, Salihler: Tarihinin ve Mimarisinin Gizemi

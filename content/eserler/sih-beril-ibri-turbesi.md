@@ -1,18 +1,17 @@
 ---
-title: "Şıh Beril İbri Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:12+03:00
+title: "Şıh Beril İbri Türbesi"
+date: "2025-12-25T15:28:12+03:00"
 slug: "sih-beril-ibri-turbesi"
 description: "### Şıh Beril İbri Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.9016342,36.9223289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şıh Beril İbri Türbesi

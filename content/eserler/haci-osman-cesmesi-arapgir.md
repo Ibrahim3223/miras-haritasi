@@ -1,18 +1,17 @@
 ---
-title: "Hacı Osman Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:27:43+03:00
+title: "Hacı Osman Çeşmesi, Arapgir"
+date: "2025-12-25T12:27:43+03:00"
 slug: "haci-osman-cesmesi-arapgir"
 description: "## Hacı Osman Çeşmesi: Arapgir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.524266471,38.881718391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Osman Çeşmesi: Arapgir'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Yanbol Sinagogu | Miras Haritası"
-date: 2025-12-25T16:11:38+03:00
+title: "Yanbol Sinagogu"
+date: "2025-12-25T16:11:38+03:00"
 slug: "yanbol-sinagogu"
 description: "## Yanbol Sinagogu: İstanbul'un Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Yambol_synagogue_Foto_Miguel_Angel_Otero_Soliño.JPG/1200px-Yambol_synagogue_Foto_Miguel_Angel_Otero_Soliño.JPG"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Balat"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.948333333,41.033333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yanbol Sinagogu: İstanbul'un Gizli Tarihi

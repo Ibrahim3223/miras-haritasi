@@ -1,18 +1,17 @@
 ---
-title: "Gülçiçek Hatun Mescidi | Miras Haritası"
-date: 2025-12-25T00:09:03+03:00
+title: "Gülçiçek Hatun Mescidi"
+date: "2025-12-25T00:09:03+03:00"
 slug: "gulcicek-hatun-mescidi"
 description: "## Gülçiçek Hatun Mescidi: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0500183,40.1889687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülçiçek Hatun Mescidi: Bursa'nın Gizli Cenneti

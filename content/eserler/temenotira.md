@@ -1,18 +1,17 @@
 ---
-title: "Temenotira | Miras Haritası"
-date: 2025-12-25T05:17:15+03:00
+title: "Temenotira"
+date: "2025-12-25T05:17:15+03:00"
 slug: "temenotira"
 description: "# Temenotira: Antik Bir Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.40819,38.682301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Temenotira: Antik Bir Kentin Mirası

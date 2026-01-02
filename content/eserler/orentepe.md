@@ -1,18 +1,17 @@
 ---
-title: "Örentepe | Miras Haritası"
-date: 2025-12-25T05:37:47+03:00
+title: "Örentepe"
+date: "2025-12-25T05:37:47+03:00"
 slug: "orentepe"
 description: "## Örentepe Arkeolojik Sit..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Emet"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.41665,39.3287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Örentepe Arkeolojik Sit

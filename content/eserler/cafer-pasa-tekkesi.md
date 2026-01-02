@@ -1,18 +1,17 @@
 ---
-title: "Cafer Paşa Tekkesi | Miras Haritası"
-date: 2025-12-25T17:28:16+03:00
+title: "Cafer Paşa Tekkesi"
+date: "2025-12-25T17:28:16+03:00"
 slug: "cafer-pasa-tekkesi"
 description: "## Cafer Paşa Tekkesi: İstanbul'un Gizli Çağı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.934855,41.046682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cafer Paşa Tekkesi: İstanbul'un Gizli Çağı

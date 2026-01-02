@@ -1,18 +1,17 @@
 ---
-title: "Koubaita | Miras Haritası"
-date: 2025-12-25T04:43:54+03:00
+title: "Koubaita"
+date: "2025-12-25T04:43:54+03:00"
 slug: "koubaita"
 description: "### Koubaita Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.948216,40.791113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koubaita Arkeolojik Sit

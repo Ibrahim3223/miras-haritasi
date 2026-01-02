@@ -1,18 +1,17 @@
 ---
-title: "Suhbeçi Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:03+03:00
+title: "Suhbeçi Kilisesi"
+date: "2025-12-25T08:50:03+03:00"
 slug: "suhbeci-kilisesi"
 description: "## Suhbeçi Kilisesi Tanıtımı..."
 featured_image: ""
 province: "Yusufeli"
-iller: ["Yusufeli"]
+iller: '["Yusufeli"]'
 district: "İşhan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.757888888,40.824805555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Suhbeçi Kilisesi Tanıtımı

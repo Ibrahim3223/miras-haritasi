@@ -1,18 +1,17 @@
 ---
-title: "Aperlae | Miras Haritası"
-date: 2025-12-25T06:46:34+03:00
+title: "Aperlae"
+date: "2025-12-25T06:46:34+03:00"
 slug: "aperlae"
 description: "### Aperlae: Antik Çağın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.78361111,36.15861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aperlae: Antik Çağın Gizemi

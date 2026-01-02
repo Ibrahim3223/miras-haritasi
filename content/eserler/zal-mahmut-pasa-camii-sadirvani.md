@@ -1,18 +1,17 @@
 ---
-title: "Zal Mahmut Paşa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:03:34+03:00
+title: "Zal Mahmut Paşa Camii Şadırvanı"
+date: "2025-12-25T10:03:34+03:00"
 slug: "zal-mahmut-pasa-camii-sadirvani"
 description: "### Zal Mahmut Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9356232,41.0448036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zal Mahmut Paşa Camii Şadırvanı

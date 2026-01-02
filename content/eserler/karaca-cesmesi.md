@@ -1,18 +1,17 @@
 ---
-title: "Karaca Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:14:53+03:00
+title: "Karaca Çeşmesi"
+date: "2025-12-25T10:14:53+03:00"
 slug: "karaca-cesmesi"
 description: "## Karaca Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Şiran"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.127224,40.1881828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaca Çeşmesi

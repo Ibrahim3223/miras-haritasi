@@ -1,18 +1,17 @@
 ---
-title: "Umurbey Hamamı | Miras Haritası"
-date: 2025-12-25T16:39:19+03:00
+title: "Umurbey Hamamı"
+date: "2025-12-25T16:39:19+03:00"
 slug: "umurbey-hamami"
 description: "# Umurbey Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0717831,40.1772308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Umurbey Hamamı

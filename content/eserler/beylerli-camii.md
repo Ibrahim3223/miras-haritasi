@@ -1,18 +1,17 @@
 ---
-title: "Beylerli Camii | Miras Haritası"
-date: 2025-12-24T22:25:50+03:00
+title: "Beylerli Camii"
+date: "2025-12-24T22:25:50+03:00"
 slug: "beylerli-camii"
 description: "### Beylerli Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ordu"
+province: "Ordu"
+iller: '["Ordu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.460701,40.7100983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beylerli Camii

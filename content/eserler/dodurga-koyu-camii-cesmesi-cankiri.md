@@ -1,18 +1,17 @@
 ---
-title: "Dodurga Köyü Camii Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:34:57+03:00
+title: "Dodurga Köyü Camii Çeşmesi, Çankırı"
+date: "2025-12-25T12:34:57+03:00"
 slug: "dodurga-koyu-camii-cesmesi-cankiri"
 description: "## Dodurga Köyü Camii Çeşmesi: Çankırı'nın Gizli Çeşme Mücevheri..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.9882431,40.6018867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dodurga Köyü Camii Çeşmesi: Çankırı'nın Gizli Çeşme Mücevheri

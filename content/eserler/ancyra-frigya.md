@@ -1,18 +1,17 @@
 ---
-title: "Ancyra (Frigya) | Miras Haritası"
-date: 2025-12-25T04:17:46+03:00
+title: "Ancyra (Frigya)"
+date: "2025-12-25T04:17:46+03:00"
 slug: "ancyra-frigya"
 description: "### Ancyra (Frigya) Tanıtım Yazısı..."
 featured_image: ""
 province: "Misya"
-iller: ["Misya"]
+iller: '["Misya"]'
 district: "Küçük Frigya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.86222222,39.15388889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ancyra (Frigya) Tanıtım Yazısı

@@ -1,18 +1,17 @@
 ---
-title: "Akyaka Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:36:54+03:00
+title: "Akyaka Sınır Kapısı"
+date: "2025-12-25T08:36:54+03:00"
 slug: "akyaka-sinir-kapisi"
 description: "## Akyaka Sınır Kapısı: Kars'ta Bir Kervansarayın Gizli Mirası..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Akyaka"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "43.74027778,40.72916667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akyaka Sınır Kapısı: Kars'ta Bir Kervansarayın Gizli Mirası

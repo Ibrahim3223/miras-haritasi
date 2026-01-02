@@ -1,18 +1,17 @@
 ---
-title: "Gaspıralı Sokak Cami | Miras Haritası"
-date: 2025-12-24T22:53:17+03:00
+title: "Gaspıralı Sokak Cami"
+date: "2025-12-24T22:53:17+03:00"
 slug: "gaspirali-sokak-cami"
 description: "## Gaspıralı Sokak Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.932972,41.0138512"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaspıralı Sokak Camii

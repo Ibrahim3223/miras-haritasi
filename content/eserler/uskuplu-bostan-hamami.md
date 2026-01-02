@@ -1,18 +1,17 @@
 ---
-title: "Üsküplü Bostan Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:58+03:00
+title: "Üsküplü Bostan Hamamı"
+date: "2025-12-25T16:50:58+03:00"
 slug: "uskuplu-bostan-hamami"
 description: "# Üsküplü Bostan Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9587555,41.023819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Üsküplü Bostan Hamamı

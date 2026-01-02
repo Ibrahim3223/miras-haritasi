@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Donduran | Miras Haritası"
-date: 2025-12-25T02:51:27+03:00
+title: "Köprü, Donduran"
+date: "2025-12-25T02:51:27+03:00"
 slug: "kopru-donduran"
 description: "## Donduran Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2439003,37.8272018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Donduran Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Gergita | Miras Haritası"
-date: 2025-12-25T05:01:19+03:00
+title: "Gergita"
+date: "2025-12-25T05:01:19+03:00"
 slug: "gergita"
 description: "### Gergita..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Soma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.67097,39.19355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gergita

@@ -1,18 +1,17 @@
 ---
-title: "Tilkitepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:05:03+03:00
+title: "Tilkitepe Höyüğü"
+date: "2025-12-25T07:05:03+03:00"
 slug: "tilkitepe-hoyugu"
 description: "## Tilkitepe Höyüğü: Edremit'in Gizli Öztürk Tarihçesindeki Bir Değer..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "Edremit"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.3354187,38.4677238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tilkitepe Höyüğü: Edremit'in Gizli Öztürk Tarihçesindeki Bir Değer

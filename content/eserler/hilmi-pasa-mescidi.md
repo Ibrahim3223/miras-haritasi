@@ -1,18 +1,17 @@
 ---
-title: "Hilmi Paşa Mescidi | Miras Haritası"
-date: 2025-12-25T00:49:57+03:00
+title: "Hilmi Paşa Mescidi"
+date: "2025-12-25T00:49:57+03:00"
 slug: "hilmi-pasa-mescidi"
 description: "## Hilmi Paşa Mescidi: Kayseri'nin Bir Öreni..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.486111099,38.720625776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hilmi Paşa Mescidi: Kayseri'nin Bir Öreni

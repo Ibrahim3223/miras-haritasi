@@ -1,18 +1,17 @@
 ---
-title: "Mirimiran Mehmet Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:52+03:00
+title: "Mirimiran Mehmet Ağa Türbesi"
+date: "2025-12-25T14:35:52+03:00"
 slug: "mirimiran-mehmet-aga-turbesi"
 description: "## Mirimiran Mehmet Ağa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mirimiran_Mehmet_Ağa_Türbesi.jpg/1200px-Mirimiran_Mehmet_Ağa_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.934634,41.047565"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mirimiran Mehmet Ağa Türbesi

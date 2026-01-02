@@ -1,18 +1,17 @@
 ---
-title: "Küçüktepe, Yazıbaşı | Miras Haritası"
-date: 2025-12-25T05:46:45+03:00
+title: "Küçüktepe, Yazıbaşı"
+date: "2025-12-25T05:46:45+03:00"
 slug: "kucuktepe-yazibasi"
 description: "## Küçüktepe, Yazıbaşı: İzmir'in Gizli Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3112,38.210083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçüktepe, Yazıbaşı: İzmir'in Gizli Harikası

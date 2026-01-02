@@ -1,18 +1,17 @@
 ---
-title: "Sultan Alaeddin Camii (Beypazarı) | Miras Haritası"
-date: 2025-12-24T23:55:24+03:00
+title: "Sultan Alaeddin Camii (Beypazarı)"
+date: "2025-12-24T23:55:24+03:00"
 slug: "sultan-alaeddin-camii-beypazari"
 description: "## Sultan Alaeddin Camii: Beypazarı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9171829,40.1700249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Alaeddin Camii: Beypazarı'nın Tarihi Bir Mirası

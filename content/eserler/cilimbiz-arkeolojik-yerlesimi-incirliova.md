@@ -1,18 +1,17 @@
 ---
-title: "Cılımbız Arkeolojik Yerleşimi, İncirliova | Miras Haritası"
-date: 2025-12-25T06:05:07+03:00
+title: "Cılımbız Arkeolojik Yerleşimi, İncirliova"
+date: "2025-12-25T06:05:07+03:00"
 slug: "cilimbiz-arkeolojik-yerlesimi-incirliova"
 description: "### Cılımbız Arkeolojik Yerleşimi: Aydın'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7152996,37.8773003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cılımbız Arkeolojik Yerleşimi: Aydın'ın Tarihî Bir Mirası

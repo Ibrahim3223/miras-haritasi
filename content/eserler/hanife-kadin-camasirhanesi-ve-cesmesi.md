@@ -1,18 +1,17 @@
 ---
-title: "Hanife Kadın Çamaşırhanesi ve Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:53:22+03:00
+title: "Hanife Kadın Çamaşırhanesi ve Çeşmesi"
+date: "2025-12-25T12:53:22+03:00"
 slug: "hanife-kadin-camasirhanesi-ve-cesmesi"
 description: "### Hanife Kadın Çamaşırhanesi ve Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "25.9049149,40.1914253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hanife Kadın Çamaşırhanesi ve Çeşmesi

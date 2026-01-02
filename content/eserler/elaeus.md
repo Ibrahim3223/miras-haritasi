@@ -1,18 +1,17 @@
 ---
-title: "Elaeus | Miras Haritası"
-date: 2025-12-25T06:54:01+03:00
+title: "Elaeus"
+date: "2025-12-25T06:54:01+03:00"
 slug: "elaeus"
 description: "## Elaeus: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.230555555,40.059722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elaeus: Çanakkale'nin Gizli Mirası

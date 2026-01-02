@@ -1,18 +1,17 @@
 ---
-title: "Kışladağ, Bodrum | Miras Haritası"
-date: 2025-12-25T05:21:37+03:00
+title: "Kışladağ, Bodrum"
+date: "2025-12-25T05:21:37+03:00"
 slug: "kisladag-bodrum"
 description: "## Kışladağ: Bodrum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4638176,37.0377884"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kışladağ: Bodrum'un Tarihi ve Kültürel Mirası

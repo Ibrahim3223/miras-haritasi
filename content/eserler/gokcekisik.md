@@ -1,18 +1,17 @@
 ---
-title: "Gökçekısık | Miras Haritası"
-date: 2025-12-25T05:29:12+03:00
+title: "Gökçekısık"
+date: "2025-12-25T05:29:12+03:00"
 slug: "gokcekisik"
 description: "### Gökçekısık Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.395933,39.652333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökçekısık Arkeolojik Sit

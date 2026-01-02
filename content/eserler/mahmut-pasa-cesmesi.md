@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:52:10+03:00
+title: "Mahmut Paşa Çeşmesi"
+date: "2025-12-25T11:52:10+03:00"
 slug: "mahmut-pasa-cesmesi"
 description: "## Mahmut Paşa Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971226,41.011592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Paşa Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

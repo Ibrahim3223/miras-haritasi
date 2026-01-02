@@ -1,18 +1,17 @@
 ---
-title: "Ünye Kalesi Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:21:16+03:00
+title: "Ünye Kalesi Kaya Mezarı"
+date: "2025-12-25T13:21:16+03:00"
 slug: "unye-kalesi-kaya-mezari"
 description: "## Ünye Kalesi Kaya Mezarı: Ünye'nin Gizli Mirası..."
 featured_image: ""
 province: "Ünye"
-iller: ["Ünye"]
+iller: '["Ünye"]'
 district: "Güzelkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.239583333,41.0965"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ünye Kalesi Kaya Mezarı: Ünye'nin Gizli Mirası

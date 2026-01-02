@@ -1,18 +1,17 @@
 ---
-title: "Fındıklı Çeşme, Arapgir | Miras Haritası"
-date: 2025-12-25T12:26:00+03:00
+title: "Fındıklı Çeşme, Arapgir"
+date: "2025-12-25T12:26:00+03:00"
 slug: "findikli-cesme-arapgir"
 description: "### Fındıklı Çeşme: Arapgir'in Efsanevi Çeşmesi..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.48524951,39.038876591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fındıklı Çeşme: Arapgir'in Efsanevi Çeşmesi

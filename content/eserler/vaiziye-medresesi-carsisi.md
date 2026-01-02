@@ -1,18 +1,17 @@
 ---
-title: "Vaiziye Medresesi Çarşısı | Miras Haritası"
-date: 2025-12-25T17:23:25+03:00
+title: "Vaiziye Medresesi Çarşısı"
+date: "2025-12-25T17:23:25+03:00"
 slug: "vaiziye-medresesi-carsisi"
 description: "### Vaiziye Medresesi Çarşısı: Bursa'nın Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0612049,40.1839714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Vaiziye Medresesi Çarşısı: Bursa'nın Kültürel Mirasının Bir Parçası

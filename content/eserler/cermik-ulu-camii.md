@@ -1,18 +1,17 @@
 ---
-title: "Çermik Ulu Camii | Miras Haritası"
-date: 2025-12-25T01:05:57+03:00
+title: "Çermik Ulu Camii"
+date: "2025-12-25T01:05:57+03:00"
 slug: "cermik-ulu-camii"
 description: "## Çermik Ulu Camii..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çermik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.445972222,38.135277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çermik Ulu Camii

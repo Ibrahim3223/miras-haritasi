@@ -1,18 +1,17 @@
 ---
-title: "Gaffarlı Taş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:48+03:00
+title: "Gaffarlı Taş Köprüsü"
+date: "2025-12-25T02:15:48+03:00"
 slug: "gaffarli-tas-koprusu"
 description: "## Gaffarlı Taş Köprüsü: Sumbas'taki Eski Şehrinin Gizemi..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Sumbas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.0232849,37.4988022"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaffarlı Taş Köprüsü: Sumbas'taki Eski Şehrinin Gizemi

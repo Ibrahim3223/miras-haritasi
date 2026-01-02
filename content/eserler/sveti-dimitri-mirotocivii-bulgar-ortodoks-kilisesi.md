@@ -1,18 +1,17 @@
 ---
-title: "Sveti Dimitri Mirotoçivii Bulgar Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:01+03:00
+title: "Sveti Dimitri Mirotoçivii Bulgar Ortodoks Kilisesi"
+date: "2025-12-25T09:31:01+03:00"
 slug: "sveti-dimitri-mirotocivii-bulgar-ortodoks-kilisesi"
 description: "## Sveti Dimitri Mirotoçivii Bulgar Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9738007,41.0487518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sveti Dimitri Mirotoçivii Bulgar Ortodoks Kilisesi

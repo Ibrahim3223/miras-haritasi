@@ -1,18 +1,17 @@
 ---
-title: "Halkapınar | Miras Haritası"
-date: 2025-12-25T05:54:10+03:00
+title: "Halkapınar"
+date: "2025-12-25T05:54:10+03:00"
 slug: "halkapinar"
 description: "## Halkapınar: İzmir'in Tarihi Bir Arkeolojik Sitesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4905,38.00215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halkapınar: İzmir'in Tarihi Bir Arkeolojik Sitesi

@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü – Ayvacık | Miras Haritası"
-date: 2025-12-25T02:15:09+03:00
+title: "Taş Köprü – Ayvacık"
+date: "2025-12-25T02:15:09+03:00"
 slug: "tas-kopru-ayvacik"
 description: "# Taş Köprü – Ayvacık: Turgutlu, Manisa'daki Bir Geçmiş Eser..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7842445,38.4305038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Taş Köprü – Ayvacık: Turgutlu, Manisa'daki Bir Geçmiş Eser

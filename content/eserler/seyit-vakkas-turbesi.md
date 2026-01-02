@@ -1,18 +1,17 @@
 ---
-title: "Seyit Vakkas Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:51+03:00
+title: "Seyit Vakkas Türbesi"
+date: "2025-12-25T14:47:51+03:00"
 slug: "seyit-vakkas-turbesi"
 description: "### Seyit Vakkas Türbesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.387922,40.91793"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyit Vakkas Türbesi

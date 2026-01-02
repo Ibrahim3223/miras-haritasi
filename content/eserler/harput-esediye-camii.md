@@ -1,18 +1,17 @@
 ---
-title: "Harput Esediye Camii | Miras Haritası"
-date: 2025-12-24T23:32:06+03:00
+title: "Harput Esediye Camii"
+date: "2025-12-24T23:32:06+03:00"
 slug: "harput-esediye-camii"
 description: "## Harput Esediye Camii..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.2537842,38.7049103"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harput Esediye Camii

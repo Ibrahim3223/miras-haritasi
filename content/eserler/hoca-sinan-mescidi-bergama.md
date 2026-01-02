@@ -1,18 +1,17 @@
 ---
-title: "Hoca Sinan Mescidi, Bergama | Miras Haritası"
-date: 2025-12-25T00:41:44+03:00
+title: "Hoca Sinan Mescidi, Bergama"
+date: "2025-12-25T00:41:44+03:00"
 slug: "hoca-sinan-mescidi-bergama"
 description: "## Hoca Sinan Mescidi: Bergama'nın Tarihsel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1824188,39.1201057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Sinan Mescidi: Bergama'nın Tarihsel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Nervan Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:00:16+03:00
+title: "Nervan Tepe Höyüğü"
+date: "2025-12-25T07:00:16+03:00"
 slug: "nervan-tepe-hoyugu"
 description: "## Nervan Tepe Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şırnak"
+province: "Şırnak"
+iller: '["Şırnak"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nervan Tepe Höyüğü

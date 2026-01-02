@@ -1,18 +1,17 @@
 ---
-title: "Saçlı Emir Tekkesi | Miras Haritası"
-date: 2025-12-24T23:23:32+03:00
+title: "Saçlı Emir Tekkesi"
+date: "2025-12-24T23:23:32+03:00"
 slug: "sacli-emir-tekkesi"
 description: "### Saçlı Emir Tekkesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.963683,41.03665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saçlı Emir Tekkesi

@@ -1,18 +1,17 @@
 ---
-title: "Sirkeci Garı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:01+03:00
+title: "Sirkeci Garı Çeşmesi"
+date: "2025-12-25T11:44:01+03:00"
 slug: "sirkeci-gari-cesmesi"
 description: "## Sirkeci Garı Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Hocapaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9780674,41.0150375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sirkeci Garı Çeşmesi

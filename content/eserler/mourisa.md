@@ -1,18 +1,17 @@
 ---
-title: "Mourisa | Miras Haritası"
-date: 2025-12-25T05:13:53+03:00
+title: "Mourisa"
+date: "2025-12-25T05:13:53+03:00"
 slug: "mourisa"
 description: "### Mourisa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.375673,37.436126"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mourisa Arkeolojik Sit

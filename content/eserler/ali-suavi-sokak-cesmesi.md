@@ -1,18 +1,17 @@
 ---
-title: "Ali Suavi Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:53+03:00
+title: "Ali Suavi Sokak Çeşmesi"
+date: "2025-12-25T11:36:53+03:00"
 slug: "ali-suavi-sokak-cesmesi"
 description: "## Ali Suavi Sokak Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4981766,37.8652382"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Suavi Sokak Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Şekerci Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:52:20+03:00
+title: "Şekerci Çeşmesi"
+date: "2025-12-25T10:52:20+03:00"
 slug: "sekerci-cesmesi"
 description: "### Şekerci Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7088089,38.6205444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şekerci Çeşmesi

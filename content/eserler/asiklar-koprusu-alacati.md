@@ -1,18 +1,17 @@
 ---
-title: "Aşıklar Köprüsü, Alaçatı | Miras Haritası"
-date: 2025-12-25T02:50:07+03:00
+title: "Aşıklar Köprüsü, Alaçatı"
+date: "2025-12-25T02:50:07+03:00"
 slug: "asiklar-koprusu-alacati"
 description: "### Aşıklar Köprüsü, Alaçatı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.373361,38.279374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşıklar Köprüsü, Alaçatı

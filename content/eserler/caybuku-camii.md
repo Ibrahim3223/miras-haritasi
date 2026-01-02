@@ -1,18 +1,17 @@
 ---
-title: "Çaybükü Camii | Miras Haritası"
-date: 2025-12-24T22:30:28+03:00
+title: "Çaybükü Camii"
+date: "2025-12-24T22:30:28+03:00"
 slug: "caybuku-camii"
 description: "## Çaybükü Camii: Muğla'nın Gizli Çarşısı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1374016,37.2432518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaybükü Camii: Muğla'nın Gizli Çarşısı

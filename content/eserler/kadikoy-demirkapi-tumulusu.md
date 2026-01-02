@@ -1,18 +1,17 @@
 ---
-title: "Kadıköy Demirkapı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:13+03:00
+title: "Kadıköy Demirkapı Tümülüsü"
+date: "2025-12-25T07:47:13+03:00"
 slug: "kadikoy-demirkapi-tumulusu"
 description: "## Kadıköy Demirkapı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2381897,41.8350563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadıköy Demirkapı Tümülüsü

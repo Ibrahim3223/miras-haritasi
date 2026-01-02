@@ -1,18 +1,17 @@
 ---
-title: "Salihler Ilıcası | Miras Haritası"
-date: 2025-12-25T16:33:02+03:00
+title: "Salihler Ilıcası"
+date: "2025-12-25T16:33:02+03:00"
 slug: "salihler-ilicasi"
 description: "## Salihler Ilıcası: Dikili, İzmir'de Bir Ölümsüz Hamam..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.851655,39.177097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salihler Ilıcası: Dikili, İzmir'de Bir Ölümsüz Hamam

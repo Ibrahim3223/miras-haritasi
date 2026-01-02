@@ -1,18 +1,17 @@
 ---
-title: "Çaltılı Hamamı | Miras Haritası"
-date: 2025-12-25T17:05:27+03:00
+title: "Çaltılı Hamamı"
+date: "2025-12-25T17:05:27+03:00"
 slug: "caltili-hamami"
 description: "## Çaltılı Hamamı: Savaştepe'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Savaştepe"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.761654,39.471544"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaltılı Hamamı: Savaştepe'nin Tarihi Bir Mirası

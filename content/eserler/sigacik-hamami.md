@@ -1,18 +1,17 @@
 ---
-title: "Sığacık Hamamı | Miras Haritası"
-date: 2025-12-25T16:52:04+03:00
+title: "Sığacık Hamamı"
+date: "2025-12-25T16:52:04+03:00"
 slug: "sigacik-hamami"
 description: "### Sığacık Hamamı: Seferihisar'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.7849998,38.1939011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sığacık Hamamı: Seferihisar'ın Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Abdülcelil Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:14+03:00
+title: "Şeyh Abdülcelil Türbesi"
+date: "2025-12-25T15:20:14+03:00"
 slug: "seyh-abdulcelil-turbesi"
 description: "# Şeyh Abdülcelil Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2324715,37.9116135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyh Abdülcelil Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Şekmeti Mehmet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:25+03:00
+title: "Şekmeti Mehmet Efendi Türbesi"
+date: "2025-12-25T14:57:25+03:00"
 slug: "sekmeti-mehmet-efendi-turbesi"
 description: "## Şekmeti Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.569416,41.6803474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şekmeti Mehmet Efendi Türbesi

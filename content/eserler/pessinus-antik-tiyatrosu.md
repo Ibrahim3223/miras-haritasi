@@ -1,18 +1,17 @@
 ---
-title: "Pessinus Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:21:48+03:00
+title: "Pessinus Antik Tiyatrosu"
+date: "2025-12-25T16:21:48+03:00"
 slug: "pessinus-antik-tiyatrosu"
 description: "## Pessinus Antik Tiyatrosu: Eskişehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "31.5865879,39.3305855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pessinus Antik Tiyatrosu: Eskişehir'in Tarihi Bir Mirası

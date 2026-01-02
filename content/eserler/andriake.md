@@ -1,18 +1,17 @@
 ---
-title: "Andriake | Miras Haritası"
-date: 2025-12-25T04:17:12+03:00
+title: "Andriake"
+date: "2025-12-25T04:17:12+03:00"
 slug: "andriake"
 description: "# Andriake: Antik Limanın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ruins_in_Andriake,_Myra,_Turkey.jpg/1200px-Ruins_in_Andriake,_Myra,_Turkey.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9585,36.22961111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Andriake: Antik Limanın Gizemi

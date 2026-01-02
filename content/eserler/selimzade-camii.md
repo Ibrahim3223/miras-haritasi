@@ -1,18 +1,17 @@
 ---
-title: "Selimzade Camii | Miras Haritası"
-date: 2025-12-25T00:24:13+03:00
+title: "Selimzade Camii"
+date: "2025-12-25T00:24:13+03:00"
 slug: "selimzade-camii"
 description: "## Selimzade Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/SELİMZADE_CAMİİ,YILDIRIM,BURSA_-_panoramio.jpg/1200px-SELİMZADE_CAMİİ,YILDIRIM,BURSA_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0777473,40.1854439"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Selimzade Camii

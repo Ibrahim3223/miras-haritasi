@@ -1,18 +1,17 @@
 ---
-title: "Harput Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:59+03:00
+title: "Harput Müzesi"
+date: "2025-12-25T03:54:59+03:00"
 slug: "harput-muzesi"
 description: "### Harput Müzesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.251667,38.704444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Harput Müzesi

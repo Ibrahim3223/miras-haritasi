@@ -1,18 +1,17 @@
 ---
-title: "Tekhöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:01:21+03:00
+title: "Tekhöyük Tümülüsü"
+date: "2025-12-25T08:01:21+03:00"
 slug: "tekhoyuk-tumulusu"
 description: "# Tekhöyük Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6619148,41.3143044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tekhöyük Tümülüsü

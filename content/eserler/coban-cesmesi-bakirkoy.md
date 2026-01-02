@@ -1,18 +1,17 @@
 ---
-title: "Çoban Çeşmesi (Bakırköy) | Miras Haritası"
-date: 2025-12-25T12:17:27+03:00
+title: "Çoban Çeşmesi (Bakırköy)"
+date: "2025-12-25T12:17:27+03:00"
 slug: "coban-cesmesi-bakirkoy"
 description: "**Çoban Çeşmesi (Bakırköy)**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.88559,40.989403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çoban Çeşmesi (Bakırköy)**

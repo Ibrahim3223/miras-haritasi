@@ -1,18 +1,17 @@
 ---
-title: "Dülük | Miras Haritası"
-date: 2025-12-25T04:21:24+03:00
+title: "Dülük"
+date: "2025-12-25T04:21:24+03:00"
 slug: "duluk"
 description: "### Dülük: Gaziantep'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şehitkâmil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.3594379,37.1519282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dülük: Gaziantep'in Tarihi ve Kültürel Mirası

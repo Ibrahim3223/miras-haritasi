@@ -1,18 +1,17 @@
 ---
-title: "Akçaköy Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:32:07+03:00
+title: "Akçaköy Çeşmesi"
+date: "2025-12-25T10:32:07+03:00"
 slug: "akcakoy-cesmesi"
 description: "## Akçaköy Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Köşk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0221996,37.9631996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçaköy Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası

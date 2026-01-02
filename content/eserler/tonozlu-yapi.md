@@ -1,18 +1,17 @@
 ---
-title: "Tonozlu Yapı | Miras Haritası"
-date: 2025-12-25T09:37:14+03:00
+title: "Tonozlu Yapı"
+date: "2025-12-25T09:37:14+03:00"
 slug: "tonozlu-yapi"
 description: "## Tonozlu Yapı: Milas'taki Önemli Bir Kilise Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.7810364,37.317318"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tonozlu Yapı: Milas'taki Önemli Bir Kilise Mirası

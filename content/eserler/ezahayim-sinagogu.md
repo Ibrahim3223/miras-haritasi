@@ -1,18 +1,17 @@
 ---
-title: "Ezahayim Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:34+03:00
+title: "Ezahayim Sinagogu"
+date: "2025-12-25T16:14:34+03:00"
 slug: "ezahayim-sinagogu"
 description: "## Ezahayim Sinagogu: İstanbul'un Beşiktaş'taki Tarihi Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.0420036,41.0676804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ezahayim Sinagogu: İstanbul'un Beşiktaş'taki Tarihi Bir Miras

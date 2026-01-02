@@ -1,18 +1,17 @@
 ---
-title: "Yaşçayır Höyük | Miras Haritası"
-date: 2025-12-25T06:43:33+03:00
+title: "Yaşçayır Höyük"
+date: "2025-12-25T06:43:33+03:00"
 slug: "yascayir-hoyuk"
 description: "## Yaşçayır Höyük: Keskin'in Gizli Tarihi..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Keskin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.5883778,39.5647983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yaşçayır Höyük: Keskin'in Gizli Tarihi

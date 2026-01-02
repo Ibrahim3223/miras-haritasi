@@ -1,18 +1,17 @@
 ---
-title: "Kelkit Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:05:33+03:00
+title: "Kelkit Ulu Cami"
+date: "2025-12-24T23:05:33+03:00"
 slug: "kelkit-ulu-cami"
 description: "### Kelkit Ulu Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.437733,40.128678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kelkit Ulu Cami

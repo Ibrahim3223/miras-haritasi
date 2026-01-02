@@ -1,18 +1,17 @@
 ---
-title: "Pergamon Batı Hamamları | Miras Haritası"
-date: 2025-12-25T16:57:04+03:00
+title: "Pergamon Batı Hamamları"
+date: "2025-12-25T16:57:04+03:00"
 slug: "pergamon-bati-hamamlari"
 description: "### Pergamon Batı Hamamları..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1850681,39.1265755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pergamon Batı Hamamları

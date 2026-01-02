@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep İslahiye Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:49:26+03:00
+title: "Gaziantep İslahiye Halk Kütüphanesi"
+date: "2025-12-25T17:49:26+03:00"
 slug: "gaziantep-islahiye-halk-kutuphanesi"
 description: "# Gaziantep İslahiye Halk Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "36.635277777,37.023333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gaziantep İslahiye Halk Kütüphanesi

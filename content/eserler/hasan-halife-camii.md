@@ -1,18 +1,17 @@
 ---
-title: "Hasan Halife Camii | Miras Haritası"
-date: 2025-12-24T22:55:33+03:00
+title: "Hasan Halife Camii"
+date: "2025-12-24T22:55:33+03:00"
 slug: "hasan-halife-camii"
 description: "## Hasan Halife Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Akşemsettin"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.946202,41.017493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Halife Camii

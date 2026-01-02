@@ -1,18 +1,17 @@
 ---
-title: "Pancar Tümülüsü, Torbalı | Miras Haritası"
-date: 2025-12-25T08:04:17+03:00
+title: "Pancar Tümülüsü, Torbalı"
+date: "2025-12-25T08:04:17+03:00"
 slug: "pancar-tumulusu-torbali"
 description: "### Pancar Tümülüsü, Torbalı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2507992,38.2210999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pancar Tümülüsü, Torbalı

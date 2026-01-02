@@ -1,18 +1,17 @@
 ---
-title: "Hanefi Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:16+03:00
+title: "Hanefi Sultan Türbesi"
+date: "2025-12-25T14:24:16+03:00"
 slug: "hanefi-sultan-turbesi"
 description: "## Hanefi Sultan Türbesi: Gölmarmara'da Bir Önemli Anıt..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.918169,38.703967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hanefi Sultan Türbesi: Gölmarmara'da Bir Önemli Anıt

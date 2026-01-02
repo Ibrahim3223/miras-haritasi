@@ -1,18 +1,17 @@
 ---
-title: "Abdülhakim Sancak Camii | Miras Haritası"
-date: 2025-12-25T00:08:19+03:00
+title: "Abdülhakim Sancak Camii"
+date: "2025-12-25T00:08:19+03:00"
 slug: "abdulhakim-sancak-camii"
 description: "**Abdülhakim Sancak Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ITU_Abdulhakim_Sanjak_Mosque.jpg/1200px-ITU_Abdulhakim_Sanjak_Mosque.jpg"
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Maslak"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.030619,41.106322"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Abdülhakim Sancak Camii**

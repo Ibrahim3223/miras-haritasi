@@ -1,18 +1,17 @@
 ---
-title: "Kipik Höyügü | Miras Haritası"
-date: 2025-12-25T06:24:32+03:00
+title: "Kipik Höyügü"
+date: "2025-12-25T06:24:32+03:00"
 slug: "kipik-hoyugu"
 description: "## Kipik Höyüğü: Yozgat'ın Gizli Harikası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.2148495,39.4805331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kipik Höyüğü: Yozgat'ın Gizli Harikası

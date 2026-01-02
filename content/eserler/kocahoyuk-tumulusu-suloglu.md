@@ -1,18 +1,17 @@
 ---
-title: "Kocahöyük Tümülüsü, Süloğlu | Miras Haritası"
-date: 2025-12-25T08:05:48+03:00
+title: "Kocahöyük Tümülüsü, Süloğlu"
+date: "2025-12-25T08:05:48+03:00"
 slug: "kocahoyuk-tumulusu-suloglu"
 description: "# Kocahöyük Tümülüsü, Süloğlu..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8476181,41.7553024"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kocahöyük Tümülüsü, Süloğlu

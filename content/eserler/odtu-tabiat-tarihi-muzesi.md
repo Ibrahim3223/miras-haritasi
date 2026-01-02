@@ -1,18 +1,17 @@
 ---
-title: "ODTÜ Tabiat Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:18+03:00
+title: "ODTÜ Tabiat Tarihi Müzesi"
+date: "2025-12-25T04:03:18+03:00"
 slug: "odtu-tabiat-tarihi-muzesi"
 description: "## ODTÜ Tabiat Tarihi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## ODTÜ Tabiat Tarihi Müzesi

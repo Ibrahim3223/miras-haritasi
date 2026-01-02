@@ -1,18 +1,17 @@
 ---
-title: "Dedeler Dedesi Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:16+03:00
+title: "Dedeler Dedesi Türbesi"
+date: "2025-12-25T15:28:16+03:00"
 slug: "dedeler-dedesi-turbesi"
 description: "## Dedeler Dedesi Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1727676,37.5247688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedeler Dedesi Türbesi

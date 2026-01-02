@@ -1,18 +1,17 @@
 ---
-title: "Erzurumlu Emrah Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:55+03:00
+title: "Erzurumlu Emrah Türbesi"
+date: "2025-12-25T15:29:55+03:00"
 slug: "erzurumlu-emrah-turbesi"
 description: "### Erzurumlu Emrah Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.9556122,40.5885468"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Erzurumlu Emrah Türbesi

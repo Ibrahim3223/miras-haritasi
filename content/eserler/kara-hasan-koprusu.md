@@ -1,18 +1,17 @@
 ---
-title: "Kara Hasan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:52+03:00
+title: "Kara Hasan Köprüsü"
+date: "2025-12-25T02:12:52+03:00"
 slug: "kara-hasan-koprusu"
 description: "## Kara Hasan Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.5506897,38.7220459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Hasan Köprüsü

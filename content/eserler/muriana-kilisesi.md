@@ -1,18 +1,17 @@
 ---
-title: "Muriana Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:16+03:00
+title: "Muriana Kilisesi"
+date: "2025-12-25T09:04:16+03:00"
 slug: "muriana-kilisesi"
 description: "# Muriana Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Bağdaşen"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.384972222,41.035972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Muriana Kilisesi

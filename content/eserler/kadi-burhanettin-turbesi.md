@@ -1,18 +1,17 @@
 ---
-title: "Kadı Burhanettin Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:55+03:00
+title: "Kadı Burhanettin Türbesi"
+date: "2025-12-25T14:27:55+03:00"
 slug: "kadi-burhanettin-turbesi"
 description: "## Kadı Burhanettin Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.005433,39.742377"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Burhanettin Türbesi

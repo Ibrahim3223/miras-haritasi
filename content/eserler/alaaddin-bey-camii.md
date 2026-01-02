@@ -1,18 +1,17 @@
 ---
-title: "Alaaddin Bey Camii | Miras Haritası"
-date: 2025-12-24T22:58:22+03:00
+title: "Alaaddin Bey Camii"
+date: "2025-12-24T22:58:22+03:00"
 slug: "alaaddin-bey-camii"
 description: "**Alaaddin Bey Camii**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2082787,37.1809731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Alaaddin Bey Camii**

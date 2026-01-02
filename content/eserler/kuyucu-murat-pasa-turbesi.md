@@ -1,18 +1,17 @@
 ---
-title: "Kuyucu Murat Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:28+03:00
+title: "Kuyucu Murat Paşa Türbesi"
+date: "2025-12-25T14:35:28+03:00"
 slug: "kuyucu-murat-pasa-turbesi"
 description: "### Kuyucu Murat Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.960272,41.011425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuyucu Murat Paşa Türbesi

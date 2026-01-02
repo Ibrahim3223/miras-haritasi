@@ -1,18 +1,17 @@
 ---
-title: "Ayvalık Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:19+03:00
+title: "Ayvalık Saat Kulesi"
+date: "2025-12-25T17:17:19+03:00"
 slug: "ayvalik-saat-kulesi"
 description: "## Ayvalık Saat Kulesi: Ayvalık'ın Sembolü..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "26.694055555,39.318972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayvalık Saat Kulesi: Ayvalık'ın Sembolü

@@ -1,18 +1,17 @@
 ---
-title: "Kara Halife Mehmet Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:54+03:00
+title: "Kara Halife Mehmet Efendi Çeşmesi"
+date: "2025-12-25T11:48:54+03:00"
 slug: "kara-halife-mehmet-efendi-cesmesi"
 description: "## Kara Halife Mehmet Efendi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Hacı Kadın"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9594307,41.0179405"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Halife Mehmet Efendi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Arasta Camii | Miras Haritası"
-date: 2025-12-24T22:14:07+03:00
+title: "Arasta Camii"
+date: "2025-12-24T22:14:07+03:00"
 slug: "arasta-camii"
 description: "## Arasta Camii: Afyonkarahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5358562,38.7549286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arasta Camii: Afyonkarahisar'ın Tarihi ve Kültürel Mirası

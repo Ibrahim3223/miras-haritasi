@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Halife Sıbyan Mektebi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:12:08+03:00
+title: "Süleyman Halife Sıbyan Mektebi Çeşmesi"
+date: "2025-12-25T11:12:08+03:00"
 slug: "suleyman-halife-sibyan-mektebi-cesmesi"
 description: "## Süleyman Halife Sıbyan Mektebi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9516487,41.0138779"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Halife Sıbyan Mektebi Çeşmesi

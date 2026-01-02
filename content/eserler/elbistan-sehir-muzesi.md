@@ -1,18 +1,17 @@
 ---
-title: "Elbistan Şehir Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:44+03:00
+title: "Elbistan Şehir Müzesi"
+date: "2025-12-25T03:35:44+03:00"
 slug: "elbistan-sehir-muzesi"
 description: "## Elbistan Şehir Müzesi Tanıtımı..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Elbistan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elbistan Şehir Müzesi Tanıtımı

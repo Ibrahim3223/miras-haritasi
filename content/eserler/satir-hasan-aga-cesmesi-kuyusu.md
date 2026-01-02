@@ -1,18 +1,17 @@
 ---
-title: "Şatır Hasan Ağa Çeşmesi Kuyusu | Miras Haritası"
-date: 2025-12-25T11:47:48+03:00
+title: "Şatır Hasan Ağa Çeşmesi Kuyusu"
+date: "2025-12-25T11:47:48+03:00"
 slug: "satir-hasan-aga-cesmesi-kuyusu"
 description: "## Şatır Hasan Ağa Çeşmesi Kuyusu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Şatır_Hasan_Ağa_Çeşmesi_Kuyusu.jpg/1200px-Şatır_Hasan_Ağa_Çeşmesi_Kuyusu.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9437771,41.0386353"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şatır Hasan Ağa Çeşmesi Kuyusu

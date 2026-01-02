@@ -1,18 +1,17 @@
 ---
-title: "Cami (Çınarlı) | Miras Haritası"
-date: 2025-12-25T00:38:54+03:00
+title: "Cami (Çınarlı)"
+date: "2025-12-25T00:38:54+03:00"
 slug: "cami-cinarli"
 description: "### Çınarlı Camisi: Gökçeada'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "25.904017415,40.191817649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çınarlı Camisi: Gökçeada'nın Tarihi Bir Mirası

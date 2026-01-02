@@ -1,18 +1,17 @@
 ---
-title: "Sivrioğlu Camii | Miras Haritası"
-date: 2025-12-24T23:06:13+03:00
+title: "Sivrioğlu Camii"
+date: "2025-12-24T23:06:13+03:00"
 slug: "sivrioglu-camii"
 description: "### Sivrioğlu Camii: Eskişehir'in Gizli Çehresinin Yüzyıllık Tarihi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5245247,39.7615242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sivrioğlu Camii: Eskişehir'in Gizli Çehresinin Yüzyıllık Tarihi

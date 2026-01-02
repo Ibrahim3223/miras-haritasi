@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Bünyan | Miras Haritası"
-date: 2025-12-25T02:56:00+03:00
+title: "Roma Köprüsü, Bünyan"
+date: "2025-12-25T02:56:00+03:00"
 slug: "roma-koprusu-bunyan"
 description: "### Roma Köprüsü, Bünyan..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Bünyan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.854893,38.822407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Bünyan

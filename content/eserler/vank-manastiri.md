@@ -1,18 +1,17 @@
 ---
-title: "Vank Manastırı | Miras Haritası"
-date: 2025-12-25T09:58:13+03:00
+title: "Vank Manastırı"
+date: "2025-12-25T09:58:13+03:00"
 slug: "vank-manastiri"
 description: "## Vank Manastırı: Keçiören'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Keçiören"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "32.8507538,39.9653244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vank Manastırı: Keçiören'in Tarihi Bir Mirası

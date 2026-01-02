@@ -1,18 +1,17 @@
 ---
-title: "Akbıyık Camii | Miras Haritası"
-date: 2025-12-24T22:57:53+03:00
+title: "Akbıyık Camii"
+date: "2025-12-24T22:57:53+03:00"
 slug: "akbiyik-camii"
 description: "# Akbıyık Camii: Bir Tarihi Mirasın Öyküsü..."
 featured_image: ""
 province: "Orhangazi (ilçe)"
-iller: ["Orhangazi (ilçe)"]
+iller: '["Orhangazi (ilçe)"]'
 district: "Nalbantoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0629749,40.1815529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Akbıyık Camii: Bir Tarihi Mirasın Öyküsü

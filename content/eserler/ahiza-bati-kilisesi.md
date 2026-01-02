@@ -1,18 +1,17 @@
 ---
-title: "Ahiza (Batı) Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:30+03:00
+title: "Ahiza (Batı) Kilisesi"
+date: "2025-12-25T09:07:30+03:00"
 slug: "ahiza-bati-kilisesi"
 description: "## Ahiza (Batı) Kilisesi: Güzel Ardanuç'ta Bir Kutsal Miras..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Ferhatlı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.997469444,41.140263888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahiza (Batı) Kilisesi: Güzel Ardanuç'ta Bir Kutsal Miras

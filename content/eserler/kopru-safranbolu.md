@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Safranbolu | Miras Haritası"
-date: 2025-12-25T02:48:10+03:00
+title: "Köprü, Safranbolu"
+date: "2025-12-25T02:48:10+03:00"
 slug: "kopru-safranbolu"
 description: "## Safranbolu Köprüsü: Bir Geçit Zamanı Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Safranbolu_köprü-1.jpg/1200px-Safranbolu_köprü-1.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.6888466,41.2479706"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Safranbolu Köprüsü: Bir Geçit Zamanı Anıtı

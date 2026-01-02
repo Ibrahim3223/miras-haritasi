@@ -1,18 +1,17 @@
 ---
-title: "Tarihî Sinop Cezaevi | Miras Haritası"
-date: 2025-12-25T03:25:17+03:00
+title: "Tarihî Sinop Cezaevi"
+date: "2025-12-25T03:25:17+03:00"
 slug: "tarih-sinop-cezaevi"
 description: "# Tarihî Sinop Cezaevi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sinop_Tarihi_Cezaevi_1.JPG/1200px-Sinop_Tarihi_Cezaevi_1.JPG"
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.14305556,42.02444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Tarihî Sinop Cezaevi

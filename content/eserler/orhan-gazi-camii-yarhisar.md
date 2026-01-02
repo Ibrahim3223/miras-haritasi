@@ -1,18 +1,17 @@
 ---
-title: "Orhan Gazi Camii, Yarhisar | Miras Haritası"
-date: 2025-12-24T23:22:57+03:00
+title: "Orhan Gazi Camii, Yarhisar"
+date: "2025-12-24T23:22:57+03:00"
 slug: "orhan-gazi-camii-yarhisar"
 description: "## Orhan Gazi Camii, Yarhisar..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.7311172,40.1816216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orhan Gazi Camii, Yarhisar

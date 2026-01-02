@@ -1,18 +1,17 @@
 ---
-title: "Üyük | Miras Haritası"
-date: 2025-12-25T05:37:24+03:00
+title: "Üyük"
+date: "2025-12-25T05:37:24+03:00"
 slug: "uyuk"
 description: "### Üyük Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Hocalar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.982283,38.6038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üyük Arkeolojik Sit

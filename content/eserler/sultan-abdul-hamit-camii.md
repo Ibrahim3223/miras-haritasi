@@ -1,18 +1,17 @@
 ---
-title: "Sultan Abdul Hamit Camii | Miras Haritası"
-date: 2025-12-25T01:09:10+03:00
+title: "Sultan Abdul Hamit Camii"
+date: "2025-12-25T01:09:10+03:00"
 slug: "sultan-abdul-hamit-camii"
 description: "**Sultan Abdul Hamit Camii: Akkuş'un Tarihî Bir Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sultan_Abdul_Hamit_Camii_(Akkuş)_(54855).jpg/1200px-Sultan_Abdul_Hamit_Camii_(Akkuş)_(54855).jpg"
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Akkuş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.016657481,40.790119612"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Sultan Abdul Hamit Camii: Akkuş'un Tarihî Bir Mirası**

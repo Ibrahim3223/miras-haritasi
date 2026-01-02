@@ -1,18 +1,17 @@
 ---
-title: "Terslik Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:35:46+03:00
+title: "Terslik Çeşmesi"
+date: "2025-12-25T12:35:46+03:00"
 slug: "terslik-cesmesi"
 description: "### Terslik Çeşmesi: Urla'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.703773,38.365304"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Terslik Çeşmesi: Urla'nın Tarihi Bir Mirası

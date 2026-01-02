@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hasan El Fatirin Türbesi | Miras Haritası"
-date: 2025-12-25T14:46:42+03:00
+title: "Şeyh Hasan El Fatirin Türbesi"
+date: "2025-12-25T14:46:42+03:00"
 slug: "seyh-hasan-el-fatirin-turbesi"
 description: "## Şeyh Hasan El Fatirin Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Eyh_Hasan_El_Fatirin_Trbesi_1761630268.jpg/1200px-Eyh_Hasan_El_Fatirin_Trbesi_1761630268.jpg"
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Tillo"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.010644181,37.949442722"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyh Hasan El Fatirin Türbesi

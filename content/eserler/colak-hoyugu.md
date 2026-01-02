@@ -1,18 +1,17 @@
 ---
-title: "Çolak Höyüğü | Miras Haritası"
-date: 2025-12-25T06:35:41+03:00
+title: "Çolak Höyüğü"
+date: "2025-12-25T06:35:41+03:00"
 slug: "colak-hoyugu"
 description: "# Çolak Höyüğü: Hatay'ın Gizli Tarihi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.4273703,36.4788402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çolak Höyüğü: Hatay'ın Gizli Tarihi

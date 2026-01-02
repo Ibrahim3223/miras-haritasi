@@ -1,18 +1,17 @@
 ---
-title: "Maltepe Merkez Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:04:35+03:00
+title: "Maltepe Merkez Camii Şadırvanı"
+date: "2025-12-25T10:04:35+03:00"
 slug: "maltepe-merkez-camii-sadirvani"
 description: "## Maltepe Merkez Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1306038,40.9247208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltepe Merkez Camii Şadırvanı

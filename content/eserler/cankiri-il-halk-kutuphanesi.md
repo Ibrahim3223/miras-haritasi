@@ -1,18 +1,17 @@
 ---
-title: "Çankırı İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:46:45+03:00
+title: "Çankırı İl Halk Kütüphanesi"
+date: "2025-12-25T17:46:45+03:00"
 slug: "cankiri-il-halk-kutuphanesi"
 description: "## Çankırı İl Halk Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çankırı İl Halk Kütüphanesi

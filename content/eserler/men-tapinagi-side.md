@@ -1,18 +1,17 @@
 ---
-title: "Men Tapınağı (Side) | Miras Haritası"
-date: 2025-12-25T08:10:52+03:00
+title: "Men Tapınağı (Side)"
+date: "2025-12-25T08:10:52+03:00"
 slug: "men-tapinagi-side"
 description: "**Men Tapınağı (Side)**..."
 featured_image: ""
 province: "Manavgat (ilçe)"
-iller: ["Manavgat (ilçe)"]
+iller: '["Manavgat (ilçe)"]'
 district: "Side"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.388055555,36.764166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Men Tapınağı (Side)**

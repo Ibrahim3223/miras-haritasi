@@ -1,18 +1,17 @@
 ---
-title: "Aşçı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:27+03:00
+title: "Aşçı Baba Türbesi"
+date: "2025-12-25T15:32:27+03:00"
 slug: "asci-baba-turbesi"
 description: "# Aşçı Baba Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Sarayönü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.408415746,38.269236907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aşçı Baba Türbesi

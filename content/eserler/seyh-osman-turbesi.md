@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Osman Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:02+03:00
+title: "Şeyh Osman Türbesi"
+date: "2025-12-25T14:24:02+03:00"
 slug: "seyh-osman-turbesi"
 description: "## Şeyh Osman Türbesi: Siirt'in Gizli Cenneti..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Baykan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.710833,38.131611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Osman Türbesi: Siirt'in Gizli Cenneti

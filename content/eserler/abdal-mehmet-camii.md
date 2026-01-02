@@ -1,18 +1,17 @@
 ---
-title: "Abdal Mehmet Camii | Miras Haritası"
-date: 2025-12-24T22:56:53+03:00
+title: "Abdal Mehmet Camii"
+date: "2025-12-24T22:56:53+03:00"
 slug: "abdal-mehmet-camii"
 description: "## Abdal Mehmet Camii: Bursa'nın Önemli Dini Yapılarından biri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0681553,40.186676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdal Mehmet Camii: Bursa'nın Önemli Dini Yapılarından biri

@@ -1,18 +1,17 @@
 ---
-title: "Güveli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:17:52+03:00
+title: "Güveli Köprüsü"
+date: "2025-12-25T02:17:52+03:00"
 slug: "guveli-koprusu"
 description: "# Güveli Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Demirci"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.5277691,38.8851013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Güveli Köprüsü

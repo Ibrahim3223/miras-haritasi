@@ -1,18 +1,17 @@
 ---
-title: "Mercan Ağa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:16+03:00
+title: "Mercan Ağa Camii Şadırvanı"
+date: "2025-12-25T10:02:16+03:00"
 slug: "mercan-aga-camii-sadirvani"
 description: "## Mercan Ağa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9677563,41.0125809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mercan Ağa Camii Şadırvanı

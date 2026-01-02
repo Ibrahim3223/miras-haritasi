@@ -1,18 +1,17 @@
 ---
-title: "Kara Camii, Nevşehir | Miras Haritası"
-date: 2025-12-25T00:25:32+03:00
+title: "Kara Camii, Nevşehir"
+date: "2025-12-25T00:25:32+03:00"
 slug: "kara-camii-nevsehir"
 description: "### Kara Camii, Nevşehir..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.7152748,38.6201057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kara Camii, Nevşehir

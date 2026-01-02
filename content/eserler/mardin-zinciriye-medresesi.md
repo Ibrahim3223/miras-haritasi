@@ -1,18 +1,17 @@
 ---
-title: "Mardin Zinciriye Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:05+03:00
+title: "Mardin Zinciriye Medresesi"
+date: "2025-12-25T17:24:05+03:00"
 slug: "mardin-zinciriye-medresesi"
 description: "### Mardin Zinciriye Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MardinSultanIsaDomes.jpg/1200px-MardinSultanIsaDomes.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mardin"
+province: "Mardin"
+iller: '["Mardin"]'
+district: ""
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "40.739842,37.314096"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mardin Zinciriye Medresesi

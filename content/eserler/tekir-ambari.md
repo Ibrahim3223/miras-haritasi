@@ -1,18 +1,17 @@
 ---
-title: "Tekir Ambarı | Miras Haritası"
-date: 2025-12-25T06:51:53+03:00
+title: "Tekir Ambarı"
+date: "2025-12-25T06:51:53+03:00"
 slug: "tekir-ambari"
 description: "### Tekir Ambarı: Mersin'in Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tekir_Ambarı_(3).jpg/1200px-Tekir_Ambarı_(3).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.92138889,36.37555556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Tekir Ambarı: Mersin'in Gizli Mücevheri

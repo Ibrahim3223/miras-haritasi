@@ -1,18 +1,17 @@
 ---
-title: "Amasya Kalesi, Bozdoğan | Miras Haritası"
-date: 2025-12-25T01:15:53+03:00
+title: "Amasya Kalesi, Bozdoğan"
+date: "2025-12-25T01:15:53+03:00"
 slug: "amasya-kalesi-bozdogan"
 description: "## Amasya Kalesi, Bozdoğan: Bir Tarihî Eserin Gizemi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.4797001,37.6030006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amasya Kalesi, Bozdoğan: Bir Tarihî Eserin Gizemi

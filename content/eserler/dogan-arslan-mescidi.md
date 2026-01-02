@@ -1,18 +1,17 @@
 ---
-title: "Doğan Arslan Mescidi | Miras Haritası"
-date: 2025-12-25T01:08:38+03:00
+title: "Doğan Arslan Mescidi"
+date: "2025-12-25T01:08:38+03:00"
 slug: "dogan-arslan-mescidi"
 description: "### Doğan Arslan Mescidi: Sivrihisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.7328186,39.5422249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doğan Arslan Mescidi: Sivrihisar'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Konya İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:58+03:00
+title: "Konya İl Halk Kütüphanesi"
+date: "2025-12-25T17:50:58+03:00"
 slug: "konya-il-halk-kutuphanesi"
 description: "### Konya İl Halk Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kültürpark_Konya_13.jpg/1200px-Kültürpark_Konya_13.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "32.4874993,37.8750553"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Konya İl Halk Kütüphanesi

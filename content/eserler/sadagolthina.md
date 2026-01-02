@@ -1,18 +1,17 @@
 ---
-title: "Sadagolthina | Miras Haritası"
-date: 2025-12-25T05:08:11+03:00
+title: "Sadagolthina"
+date: "2025-12-25T05:08:11+03:00"
 slug: "sadagolthina"
 description: "# Sadagolthina: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.542191,38.8279505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sadagolthina: Türkiye'nin Gizli Arkeolojik Sitleri

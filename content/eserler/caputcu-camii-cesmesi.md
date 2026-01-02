@@ -1,18 +1,17 @@
 ---
-title: "Çaputçu Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:41+03:00
+title: "Çaputçu Camii Çeşmesi"
+date: "2025-12-25T11:35:41+03:00"
 slug: "caputcu-camii-cesmesi"
 description: "## Çaputçu Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5015984,37.8737373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaputçu Camii Çeşmesi

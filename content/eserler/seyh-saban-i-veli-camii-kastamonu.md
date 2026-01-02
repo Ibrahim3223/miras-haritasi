@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Şaban-ı Veli Camii (Kastamonu) | Miras Haritası"
-date: 2025-12-24T23:24:05+03:00
+title: "Şeyh Şaban-ı Veli Camii (Kastamonu)"
+date: "2025-12-24T23:24:05+03:00"
 slug: "seyh-saban-i-veli-camii-kastamonu"
 description: "### Şeyh Şaban-ı Veli Camii: Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7641869,41.3745804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Şaban-ı Veli Camii: Kastamonu'nun Tarihi Bir Mirası

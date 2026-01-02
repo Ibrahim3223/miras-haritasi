@@ -1,18 +1,17 @@
 ---
-title: "Konya Yazma Eserler Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:49:04+03:00
+title: "Konya Yazma Eserler Kütüphanesi"
+date: "2025-12-25T17:49:04+03:00"
 slug: "konya-yazma-eserler-kutuphanesi"
 description: "## Konya Yazma Eserler Kütüphanesi: Tarihî bir Zenginlik..."
 featured_image: ""
-province: "Konya Vilayeti"
-iller: ["Konya Vilayeti"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: "Konya Vilayeti"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "32.487068449,37.867580948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Konya Yazma Eserler Kütüphanesi: Tarihî bir Zenginlik

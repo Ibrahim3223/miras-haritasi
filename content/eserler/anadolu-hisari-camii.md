@@ -1,18 +1,17 @@
 ---
-title: "Anadolu Hisarı Camii | Miras Haritası"
-date: 2025-12-24T22:44:00+03:00
+title: "Anadolu Hisarı Camii"
+date: "2025-12-24T22:44:00+03:00"
 slug: "anadolu-hisari-camii"
 description: "## Anadolu Hisarı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Istanbul_Province_-_Anadolu_Hisarı_Camii_-_20250406163020.jpg/1200px-Istanbul_Province_-_Anadolu_Hisarı_Camii_-_20250406163020.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.067607,41.085045"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Anadolu Hisarı Camii

@@ -1,18 +1,17 @@
 ---
-title: "Hoşap Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:37+03:00
+title: "Hoşap Köprüsü"
+date: "2025-12-25T02:08:37+03:00"
 slug: "hosap-koprusu"
 description: "# Hoşap Köprüsü: Doğu Anadolu'nun Gizli Çehresini Gözler Önüne Koyan Bir Rönesans Eseri..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gürpınar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "43.799749,38.316691"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hoşap Köprüsü: Doğu Anadolu'nun Gizli Çehresini Gözler Önüne Koyan Bir Rönesans Eseri

@@ -1,18 +1,17 @@
 ---
-title: "Amisus | Miras Haritası"
-date: 2025-12-25T04:36:38+03:00
+title: "Amisus"
+date: "2025-12-25T04:36:38+03:00"
 slug: "amisus"
 description: "## Amisus Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Amisos_Tepesi'nde_kuzey_tümülüsü.JPG/1200px-Amisos_Tepesi'nde_kuzey_tümülüsü.JPG"
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: "Trabzon Vilayeti"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.323668,41.319117"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Amisus Arkeolojik Sitesi

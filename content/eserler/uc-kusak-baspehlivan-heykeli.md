@@ -1,18 +1,17 @@
 ---
-title: "Üç Kuşak Başpehlivan Heykeli | Miras Haritası"
-date: 2025-12-25T16:11:06+03:00
+title: "Üç Kuşak Başpehlivan Heykeli"
+date: "2025-12-25T16:11:06+03:00"
 slug: "uc-kusak-baspehlivan-heykeli"
 description: "**Üç Kuşak Başpehlivan Heykeli**..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.9691849,40.3560867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Üç Kuşak Başpehlivan Heykeli**

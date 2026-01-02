@@ -1,18 +1,17 @@
 ---
-title: "Uluborlu Müzesi | Miras Haritası"
-date: 2025-12-25T03:41:54+03:00
+title: "Uluborlu Müzesi"
+date: "2025-12-25T03:41:54+03:00"
 slug: "uluborlu-muzesi"
 description: "## Uluboruluların Öyküsünü Yaşayın: Uluborlu Müzesi Tanıtımı..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uluboruluların Öyküsünü Yaşayın: Uluborlu Müzesi Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Zincirli Ali Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:57+03:00
+title: "Zincirli Ali Baba Türbesi"
+date: "2025-12-25T15:32:57+03:00"
 slug: "zincirli-ali-baba-turbesi"
 description: "## Zincirli Ali Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.96548687,41.043637521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zincirli Ali Baba Türbesi

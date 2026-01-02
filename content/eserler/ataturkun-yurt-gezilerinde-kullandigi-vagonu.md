@@ -1,18 +1,17 @@
 ---
-title: "Atatürk’ün Yurt Gezilerinde Kullandığı Vagonu | Miras Haritası"
-date: 2025-12-25T03:50:34+03:00
+title: "Atatürk’ün Yurt Gezilerinde Kullandığı Vagonu"
+date: "2025-12-25T03:50:34+03:00"
 slug: "ataturkun-yurt-gezilerinde-kullandigi-vagonu"
 description: "## Atatürk'ün Yurt Gezilerinde Kullandığı Vagonu..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8424416,39.9365273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk'ün Yurt Gezilerinde Kullandığı Vagonu

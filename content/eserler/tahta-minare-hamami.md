@@ -1,18 +1,17 @@
 ---
-title: "Tahta Minare Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:08+03:00
+title: "Tahta Minare Hamamı"
+date: "2025-12-25T16:40:08+03:00"
 slug: "tahta-minare-hamami"
 description: "## Tahta Minare Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.948282,41.031859"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahta Minare Hamamı: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Gümrükçü İshak Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:52:50+03:00
+title: "Gümrükçü İshak Ağa Camii"
+date: "2025-12-24T22:52:50+03:00"
 slug: "gumrukcu-ishak-aga-camii"
 description: "## Gümrükçü İshak Ağa Camii..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Kireçburnu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.045967,41.147901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümrükçü İshak Ağa Camii

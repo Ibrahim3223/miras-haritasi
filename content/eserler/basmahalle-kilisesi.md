@@ -1,18 +1,17 @@
 ---
-title: "Başmahalle Kilisesi | Miras Haritası"
-date: 2025-12-25T09:11:20+03:00
+title: "Başmahalle Kilisesi"
+date: "2025-12-25T09:11:20+03:00"
 slug: "basmahalle-kilisesi"
 description: "## Başmahalle Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kürtün"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.9723701,40.5096054"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başmahalle Kilisesi

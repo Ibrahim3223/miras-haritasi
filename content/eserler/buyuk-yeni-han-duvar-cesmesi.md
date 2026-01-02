@@ -1,18 +1,17 @@
 ---
-title: "Büyük Yeni Han Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:12:11+03:00
+title: "Büyük Yeni Han Duvar Çeşmesi"
+date: "2025-12-25T12:12:11+03:00"
 slug: "buyuk-yeni-han-duvar-cesmesi"
 description: "## Büyük Yeni Han Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9692954,41.0124376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Yeni Han Duvar Çeşmesi

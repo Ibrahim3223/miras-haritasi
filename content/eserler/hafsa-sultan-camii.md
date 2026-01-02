@@ -1,18 +1,17 @@
 ---
-title: "Hafsa Sultan Camii | Miras Haritası"
-date: 2025-12-24T21:52:19+03:00
+title: "Hafsa Sultan Camii"
+date: "2025-12-24T21:52:19+03:00"
 slug: "hafsa-sultan-camii"
 description: "**Hafsa Sultan Camii: Manisa'nın Gizli Cenneti**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/IzManisaS01.jpg/1200px-IzManisaS01.jpg"
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.427305555,38.610638888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Hafsa Sultan Camii: Manisa'nın Gizli Cenneti**

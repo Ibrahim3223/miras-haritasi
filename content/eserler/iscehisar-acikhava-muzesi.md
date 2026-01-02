@@ -1,18 +1,17 @@
 ---
-title: "İscehisar Açıkhava Müzesi | Miras Haritası"
-date: 2025-12-25T03:57:36+03:00
+title: "İscehisar Açıkhava Müzesi"
+date: "2025-12-25T03:57:36+03:00"
 slug: "iscehisar-acikhava-muzesi"
 description: "## İscehisar Açıkhava Müzesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İscehisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.750738,38.860661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İscehisar Açıkhava Müzesi

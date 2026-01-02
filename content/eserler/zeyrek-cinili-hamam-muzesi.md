@@ -1,18 +1,17 @@
 ---
-title: "Zeyrek Çinili Hamam Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:51+03:00
+title: "Zeyrek Çinili Hamam Müzesi"
+date: "2025-12-25T04:05:51+03:00"
 slug: "zeyrek-cinili-hamam-muzesi"
 description: "**Zeyrek Çinili Hamam Müzesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.956442926,41.018264635"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Zeyrek Çinili Hamam Müzesi**

@@ -1,18 +1,17 @@
 ---
-title: "Güdül Kilisesi | Miras Haritası"
-date: 2025-12-25T09:16:45+03:00
+title: "Güdül Kilisesi"
+date: "2025-12-25T09:16:45+03:00"
 slug: "gudul-kilisesi"
 description: "### Güdül Kilisesi: Dereli'nin Gizli Cehennemi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Dereli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.4589691,40.6699524"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güdül Kilisesi: Dereli'nin Gizli Cehennemi

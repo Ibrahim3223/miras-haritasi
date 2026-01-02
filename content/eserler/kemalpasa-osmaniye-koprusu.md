@@ -1,18 +1,17 @@
 ---
-title: "Kemalpaşa Osmaniye Köprüsü | Miras Haritası"
-date: 2025-12-25T02:03:22+03:00
+title: "Kemalpaşa Osmaniye Köprüsü"
+date: "2025-12-25T02:03:22+03:00"
 slug: "kemalpasa-osmaniye-koprusu"
 description: "# Kemalpaşa Osmaniye Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bridge_of_Kemalpasa.jpg/1200px-Bridge_of_Kemalpasa.jpg"
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Hopa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.5265797,41.4812583"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kemalpaşa Osmaniye Köprüsü

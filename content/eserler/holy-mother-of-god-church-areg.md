@@ -1,18 +1,17 @@
 ---
-title: "Holy Mother of God Church (Areg) | Miras Haritası"
-date: 2025-12-25T08:59:57+03:00
+title: "Holy Mother of God Church (Areg)"
+date: "2025-12-25T08:59:57+03:00"
 slug: "holy-mother-of-god-church-areg"
 description: "### Holy Mother of God Church (Areg)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Holy Mother of God Church (Areg)

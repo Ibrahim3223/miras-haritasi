@@ -1,18 +1,17 @@
 ---
-title: "Koçyaka Höyük | Miras Haritası"
-date: 2025-12-25T06:32:35+03:00
+title: "Koçyaka Höyük"
+date: "2025-12-25T06:32:35+03:00"
 slug: "kocyaka-hoyuk"
 description: "### Koçyaka Höyük: Konya'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Altınekin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.9011555,38.2410337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koçyaka Höyük: Konya'nın Gizli Hazineleri

@@ -1,18 +1,17 @@
 ---
-title: "Mıhlı Çayı Taş Köprü | Miras Haritası"
-date: 2025-12-25T02:26:13+03:00
+title: "Mıhlı Çayı Taş Köprü"
+date: "2025-12-25T02:26:13+03:00"
 slug: "mihli-cayi-tas-kopru"
 description: "## Mıhlı Çayı Taş Köprü: Edremit'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6526846,39.5808196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mıhlı Çayı Taş Köprü: Edremit'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Miletuteikhos | Miras Haritası"
-date: 2025-12-25T04:37:45+03:00
+title: "Miletuteikhos"
+date: "2025-12-25T04:37:45+03:00"
 slug: "miletuteikhos"
 description: "## Miletuteikhos: Antik Miletos'un Sembolü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.429191,40.212943"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Miletuteikhos: Antik Miletos'un Sembolü

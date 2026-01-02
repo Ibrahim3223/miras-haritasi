@@ -1,18 +1,17 @@
 ---
-title: "Sarıcailyas | Miras Haritası"
-date: 2025-12-25T05:28:23+03:00
+title: "Sarıcailyas"
+date: "2025-12-25T05:28:23+03:00"
 slug: "saricailyas"
 description: "# Sarıcailyas Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.671567,39.35195"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sarıcailyas Arkeolojik Sit

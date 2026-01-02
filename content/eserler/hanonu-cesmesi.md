@@ -1,18 +1,17 @@
 ---
-title: "Hanönü Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:34:06+03:00
+title: "Hanönü Çeşmesi"
+date: "2025-12-25T12:34:06+03:00"
 slug: "hanonu-cesmesi"
 description: "## Hanönü Çeşmesi: Tavas'taki Bir Ölümsüz..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.808,37.6998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hanönü Çeşmesi: Tavas'taki Bir Ölümsüz

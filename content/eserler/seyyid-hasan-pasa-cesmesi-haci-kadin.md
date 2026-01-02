@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Hasan Paşa Çeşmesi, Hacı Kadın | Miras Haritası"
-date: 2025-12-25T11:55:59+03:00
+title: "Seyyid Hasan Paşa Çeşmesi, Hacı Kadın"
+date: "2025-12-25T11:55:59+03:00"
 slug: "seyyid-hasan-pasa-cesmesi-haci-kadin"
 description: "# Seyyid Hasan Paşa Çeşmesi, Hacı Kadın: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9578792,41.0182397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Seyyid Hasan Paşa Çeşmesi, Hacı Kadın: İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "İkisu Köyü Kemer Köprü | Miras Haritası"
-date: 2025-12-25T02:30:18+03:00
+title: "İkisu Köyü Kemer Köprü"
+date: "2025-12-25T02:30:18+03:00"
 slug: "ikisu-koyu-kemer-kopru"
 description: "## İkisu Köyü Kemer Köprü: Gümüşhane'nin Gizli Cenneti..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.39352,40.52494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkisu Köyü Kemer Köprü: Gümüşhane'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Himmet Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:23+03:00
+title: "Himmet Dede Türbesi"
+date: "2025-12-25T14:17:23+03:00"
 slug: "himmet-dede-turbesi"
 description: "### Himmet Dede Türbesi Tanıtımı..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Cumayeri"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.9754,40.8547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Himmet Dede Türbesi Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Morka | Miras Haritası"
-date: 2025-12-25T05:00:32+03:00
+title: "Morka"
+date: "2025-12-25T05:00:32+03:00"
 slug: "morka"
 description: "### Morka..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Aksu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.79518,37.11455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Morka

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İsa Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:39+03:00
+title: "Şeyh İsa Türbesi"
+date: "2025-12-25T14:49:39+03:00"
 slug: "seyh-isa-turbesi"
 description: "## Şeyh İsa Türbesi: Tarihî Bir Mirasın Tanımı..."
 featured_image: ""
 province: "Akhisar (ilçe)"
-iller: ["Akhisar (ilçe)"]
+iller: '["Akhisar (ilçe)"]'
 district: "Şeyhisa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8460064,38.922039"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh İsa Türbesi: Tarihî Bir Mirasın Tanımı

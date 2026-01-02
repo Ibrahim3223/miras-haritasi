@@ -1,18 +1,17 @@
 ---
-title: "Hozabiri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:34+03:00
+title: "Hozabiri Kilisesi"
+date: "2025-12-25T09:07:34+03:00"
 slug: "hozabiri-kilisesi"
 description: "## Hozabiri Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yanıklı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.155677777,41.25465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hozabiri Kilisesi

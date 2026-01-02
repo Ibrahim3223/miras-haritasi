@@ -1,18 +1,17 @@
 ---
-title: "Zisto Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:32+03:00
+title: "Zisto Köprüsü"
+date: "2025-12-25T01:59:32+03:00"
 slug: "zisto-koprusu"
 description: "### Zisto Köprüsü: Çamlıhemşin'in Tarihî ve Kültürel Özellikleri..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.1272833,41.0626667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zisto Köprüsü: Çamlıhemşin'in Tarihî ve Kültürel Özellikleri

@@ -1,18 +1,17 @@
 ---
-title: "Molla Arab Türbesi | Miras Haritası"
-date: 2025-12-25T14:15:38+03:00
+title: "Molla Arab Türbesi"
+date: "2025-12-25T14:15:38+03:00"
 slug: "molla-arab-turbesi"
 description: "### Molla Arab Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.074095,40.174652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Molla Arab Türbesi

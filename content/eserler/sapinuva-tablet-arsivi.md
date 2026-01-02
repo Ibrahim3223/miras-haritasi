@@ -1,18 +1,17 @@
 ---
-title: "Şapinuva Tablet Arşivi | Miras Haritası"
-date: 2025-12-25T08:30:47+03:00
+title: "Şapinuva Tablet Arşivi"
+date: "2025-12-25T08:30:47+03:00"
 slug: "sapinuva-tablet-arsivi"
 description: "## Şapinuva Tablet Arşivi: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.2366943,40.260479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şapinuva Tablet Arşivi: Tarihî Mirasın Gizemi

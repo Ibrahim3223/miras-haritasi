@@ -1,18 +1,17 @@
 ---
-title: "Diyarbakırlı Hacı Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:27+03:00
+title: "Diyarbakırlı Hacı Efendi Türbesi"
+date: "2025-12-25T15:15:27+03:00"
 slug: "diyarbakirli-haci-efendi-turbesi"
 description: "## Diyarbakırlı Hacı Efendi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.610807,40.729783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Diyarbakırlı Hacı Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Kemer Köprü, Çerkeş | Miras Haritası"
-date: 2025-12-25T02:54:12+03:00
+title: "Kemer Köprü, Çerkeş"
+date: "2025-12-25T02:54:12+03:00"
 slug: "kemer-kopru-cerkes"
 description: "## Kemer Köprü, Çerkeş: Bir İmparatorlukun Kalıntısı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çerkeş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.8842239,40.8077698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemer Köprü, Çerkeş: Bir İmparatorlukun Kalıntısı

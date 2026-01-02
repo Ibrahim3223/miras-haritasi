@@ -1,18 +1,17 @@
 ---
-title: "Rabat Kalesi, Kozluk | Miras Haritası"
-date: 2025-12-25T01:43:57+03:00
+title: "Rabat Kalesi, Kozluk"
+date: "2025-12-25T01:43:57+03:00"
 slug: "rabat-kalesi-kozluk"
 description: "## Rabat Kalesi, Kozluk..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.3023186,38.2476044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rabat Kalesi, Kozluk

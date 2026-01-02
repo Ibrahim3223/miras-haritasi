@@ -1,18 +1,17 @@
 ---
-title: "İsimsiz Topçu Yüzbaşı Şehitliği | Miras Haritası"
-date: 2025-12-25T16:04:49+03:00
+title: "İsimsiz Topçu Yüzbaşı Şehitliği"
+date: "2025-12-25T16:04:49+03:00"
 slug: "isimsiz-topcu-yuzbasi-sehitligi"
 description: "## İsimsiz Topçu Yüzbaşı Şehitliği: Eceabat'taki Bir Anıtın Tarihi ve Özellikleri..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3758831,40.158596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsimsiz Topçu Yüzbaşı Şehitliği: Eceabat'taki Bir Anıtın Tarihi ve Özellikleri

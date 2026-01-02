@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ali Ağa Camii, Karacasu | Miras Haritası"
-date: 2025-12-24T23:58:56+03:00
+title: "Hacı Ali Ağa Camii, Karacasu"
+date: "2025-12-24T23:58:56+03:00"
 slug: "haci-ali-aga-camii-karacasu"
 description: "# Hacı Ali Ağa Camii, Karacasu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6072178,37.7287025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Ali Ağa Camii, Karacasu

@@ -1,18 +1,17 @@
 ---
-title: "Fatma Hoca Camii | Miras Haritası"
-date: 2025-12-24T23:04:39+03:00
+title: "Fatma Hoca Camii"
+date: "2025-12-24T23:04:39+03:00"
 slug: "fatma-hoca-camii"
 description: "## Fatma Hoca Camii: Denizli'nin Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0882454,37.7730026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatma Hoca Camii: Denizli'nin Tarihî Bir Mirası

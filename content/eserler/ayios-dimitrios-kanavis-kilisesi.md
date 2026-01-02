@@ -1,18 +1,17 @@
 ---
-title: "Ayios Dimitrios Kanavis Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:51+03:00
+title: "Ayios Dimitrios Kanavis Kilisesi"
+date: "2025-12-25T09:13:51+03:00"
 slug: "ayios-dimitrios-kanavis-kilisesi"
 description: "## Ayios Dimitrios Kanavis Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.944981,41.037139"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Dimitrios Kanavis Kilisesi

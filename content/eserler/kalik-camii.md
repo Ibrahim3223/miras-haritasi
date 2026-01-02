@@ -1,18 +1,17 @@
 ---
-title: "Kalık Camii | Miras Haritası"
-date: 2025-12-24T23:41:29+03:00
+title: "Kalık Camii"
+date: "2025-12-24T23:41:29+03:00"
 slug: "kalik-camii"
 description: "## Kalık Camii: Samsun'un Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.6316986,41.388401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalık Camii: Samsun'un Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ümmühan Hatun Medresesi ve Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:12+03:00
+title: "Ümmühan Hatun Medresesi ve Türbesi"
+date: "2025-12-25T14:40:12+03:00"
 slug: "ummuhan-hatun-medresesi-ve-turbesi"
 description: "## Ümmühan Hatun Medresesi ve Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.6942711,39.4420395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ümmühan Hatun Medresesi ve Türbesi

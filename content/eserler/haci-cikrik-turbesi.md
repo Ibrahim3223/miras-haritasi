@@ -1,18 +1,17 @@
 ---
-title: "Hacı Çıkrık Türbesi | Miras Haritası"
-date: 2025-12-25T17:25:19+03:00
+title: "Hacı Çıkrık Türbesi"
+date: "2025-12-25T17:25:19+03:00"
 slug: "haci-cikrik-turbesi"
 description: "## Hacı Çıkrık Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "36.9500122,40.5898438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Çıkrık Türbesi

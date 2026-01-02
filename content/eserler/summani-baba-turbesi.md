@@ -1,18 +1,17 @@
 ---
-title: "Sümmani Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:07+03:00
+title: "Sümmani Baba Türbesi"
+date: "2025-12-25T14:22:07+03:00"
 slug: "summani-baba-turbesi"
 description: "## Sümmani Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Narman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.883303,40.376235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sümmani Baba Türbesi

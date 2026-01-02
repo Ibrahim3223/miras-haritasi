@@ -1,18 +1,17 @@
 ---
-title: "Chersonesos | Miras Haritası"
-date: 2025-12-25T04:27:46+03:00
+title: "Chersonesos"
+date: "2025-12-25T04:27:46+03:00"
 slug: "chersonesos"
 description: "## Chersonesos: Tarihî Bir Arkeolojik Site..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Chersonesos: Tarihî Bir Arkeolojik Site

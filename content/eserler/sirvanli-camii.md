@@ -1,18 +1,17 @@
 ---
-title: "Şirvanlı Camii | Miras Haritası"
-date: 2025-12-24T23:11:27+03:00
+title: "Şirvanlı Camii"
+date: "2025-12-24T23:11:27+03:00"
 slug: "sirvanli-camii"
 description: "**Şirvanlı Camii**..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.838089,40.6565094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şirvanlı Camii**

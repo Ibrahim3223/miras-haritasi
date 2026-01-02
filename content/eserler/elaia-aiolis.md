@@ -1,18 +1,17 @@
 ---
-title: "Elaia (Aiolis) | Miras Haritası"
-date: 2025-12-25T06:50:33+03:00
+title: "Elaia (Aiolis)"
+date: "2025-12-25T06:50:33+03:00"
 slug: "elaia-aiolis"
 description: "### Elaia (Aiolis): Tarih ve Mitin Birleştiği Yer..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.04416667,38.9425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Elaia (Aiolis): Tarih ve Mitin Birleştiği Yer

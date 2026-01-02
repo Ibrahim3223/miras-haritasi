@@ -1,18 +1,17 @@
 ---
-title: "Büyüktepe Köyü Nekropol Alanı | Miras Haritası"
-date: 2025-12-25T05:41:46+03:00
+title: "Büyüktepe Köyü Nekropol Alanı"
+date: "2025-12-25T05:41:46+03:00"
 slug: "buyuktepe-koyu-nekropol-alani"
 description: "## Büyüktepe Köyü Nekropol Alanı: Çanakkale'nin Gizli Klasik Çağ Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Çan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.051797712,40.008078112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyüktepe Köyü Nekropol Alanı: Çanakkale'nin Gizli Klasik Çağ Mirası

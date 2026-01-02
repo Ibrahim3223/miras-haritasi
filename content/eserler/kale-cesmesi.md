@@ -1,18 +1,17 @@
 ---
-title: "Kale Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:31+03:00
+title: "Kale Çeşmesi"
+date: "2025-12-25T11:29:31+03:00"
 slug: "kale-cesmesi"
 description: "## Kale Çeşmesi: Milas'ın Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7893734,37.2740822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Çeşmesi: Milas'ın Tarihi ve Kültürel Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Arapkapısı Mescidi | Miras Haritası"
-date: 2025-12-24T22:47:22+03:00
+title: "Arapkapısı Mescidi"
+date: "2025-12-24T22:47:22+03:00"
 slug: "arapkapisi-mescidi"
 description: "## Arapkapısı Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.931146,40.997095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arapkapısı Mescidi: İstanbul'un Gizli Cenneti

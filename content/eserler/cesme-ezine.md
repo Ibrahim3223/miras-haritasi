@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Ezine | Miras Haritası"
-date: 2025-12-25T12:26:42+03:00
+title: "Çeşme, Ezine"
+date: "2025-12-25T12:26:42+03:00"
 slug: "cesme-ezine"
 description: "### Çeşme, Ezine: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.336842884,39.785560344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme, Ezine: Tarihi ve Kültürel Bir Miras

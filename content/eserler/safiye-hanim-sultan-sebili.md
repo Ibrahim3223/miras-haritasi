@@ -1,18 +1,17 @@
 ---
-title: "Safiye Hanım Sultan Sebili | Miras Haritası"
-date: 2025-12-25T13:07:32+03:00
+title: "Safiye Hanım Sultan Sebili"
+date: "2025-12-25T13:07:32+03:00"
 slug: "safiye-hanim-sultan-sebili"
 description: "## Safiye Hanım Sultan Sebili: İstanbul'un Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9579755,41.0132848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Safiye Hanım Sultan Sebili: İstanbul'un Tarihi Çeşmesi

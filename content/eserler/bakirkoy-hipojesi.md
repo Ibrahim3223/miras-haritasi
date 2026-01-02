@@ -1,18 +1,17 @@
 ---
-title: "Bakırköy Hipojesi | Miras Haritası"
-date: 2025-12-25T13:15:21+03:00
+title: "Bakırköy Hipojesi"
+date: "2025-12-25T13:15:21+03:00"
 slug: "bakirkoy-hipojesi"
 description: "## Bakırköy Hipojesi: Zuhuratbaba'da Bir Antik Anıtın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bakırköy_Hipojesi_genel_çekim_3.jpg/1200px-Bakırköy_Hipojesi_genel_çekim_3.jpg"
-province: "Bakırköy"
-iller: ["Bakırköy"]
-district: "Zuhuratbaba"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bakırköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.864861111,40.990944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bakırköy Hipojesi: Zuhuratbaba'da Bir Antik Anıtın Gizemi

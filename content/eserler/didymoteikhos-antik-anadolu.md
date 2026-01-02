@@ -1,18 +1,17 @@
 ---
-title: "Didymoteikhos (Antik Anadolu) | Miras Haritası"
-date: 2025-12-25T07:10:55+03:00
+title: "Didymoteikhos (Antik Anadolu)"
+date: "2025-12-25T07:10:55+03:00"
 slug: "didymoteikhos-antik-anadolu"
 description: "## Didymoteikhos: Antik Anadolu'nun Gizli Kahramanı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.274404,40.286031"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Didymoteikhos: Antik Anadolu'nun Gizli Kahramanı

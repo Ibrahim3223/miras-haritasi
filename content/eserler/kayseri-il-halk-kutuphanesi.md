@@ -1,18 +1,17 @@
 ---
-title: "Kayseri İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:46:22+03:00
+title: "Kayseri İl Halk Kütüphanesi"
+date: "2025-12-25T17:46:22+03:00"
 slug: "kayseri-il-halk-kutuphanesi"
 description: "**Kayseri İl Halk Kütüphanesi: Kayseri'nin Kültür Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "35.498554,38.716549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kayseri İl Halk Kütüphanesi: Kayseri'nin Kültür Mirası**

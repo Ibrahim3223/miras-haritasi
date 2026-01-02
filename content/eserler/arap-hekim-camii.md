@@ -1,18 +1,17 @@
 ---
-title: "Arap Hekim Camii | Miras Haritası"
-date: 2025-12-24T22:44:15+03:00
+title: "Arap Hekim Camii"
+date: "2025-12-24T22:44:15+03:00"
 slug: "arap-hekim-camii"
 description: "## Arap Hekim Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Arap_Hekim_Camii_1761585929.jpg/1200px-Arap_Hekim_Camii_1761585929.jpg"
 province: "Sancaktepe"
-iller: ["Sancaktepe"]
+iller: '["Sancaktepe"]'
 district: "Eyüp Sultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2268639,40.9853172"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Arap Hekim Camii

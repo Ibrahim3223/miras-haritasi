@@ -1,18 +1,17 @@
 ---
-title: "Abdülmecid Han ve Zübeyde Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:38+03:00
+title: "Abdülmecid Han ve Zübeyde Hanım Çeşmesi"
+date: "2025-12-25T11:07:38+03:00"
 slug: "abdulmecid-han-ve-zubeyde-hanim-cesmesi"
 description: "## Abdülmecid Han ve Zübeyde Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Abdülmecid_Han_ve_Zübeyde_Hanım_Çeşmesi_uzaktan1,_Beşiktaş,_İstanbul_2023.jpg/1200px-Abdülmecid_Han_ve_Zübeyde_Hanım_Çeşmesi_uzaktan1,_Beşiktaş,_İstanbul_2023.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Türkali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.003193,41.047097"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Abdülmecid Han ve Zübeyde Hanım Çeşmesi

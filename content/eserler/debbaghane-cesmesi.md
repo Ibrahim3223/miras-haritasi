@@ -1,18 +1,17 @@
 ---
-title: "Debbağhane Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:51:00+03:00
+title: "Debbağhane Çeşmesi"
+date: "2025-12-25T11:51:00+03:00"
 slug: "debbaghane-cesmesi"
 description: "## Debbağhane Çeşmesi..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Yalıköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0796185,41.1404305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Debbağhane Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Notre Dame du Rosaire Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:06+03:00
+title: "Notre Dame du Rosaire Katolik Kilisesi"
+date: "2025-12-25T09:22:06+03:00"
 slug: "notre-dame-du-rosaire-katolik-kilisesi"
 description: "## Notre Dame du Rosaire Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0278378,40.9964104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Notre Dame du Rosaire Katolik Kilisesi

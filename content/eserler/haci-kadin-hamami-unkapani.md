@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kadın Hamamı, Unkapanı | Miras Haritası"
-date: 2025-12-25T16:36:29+03:00
+title: "Hacı Kadın Hamamı, Unkapanı"
+date: "2025-12-25T16:36:29+03:00"
 slug: "haci-kadin-hamami-unkapani"
 description: "## Hacı Kadın Hamamı, Unkapanı: İstanbul'un Tarihî Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.960291,41.019633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kadın Hamamı, Unkapanı: İstanbul'un Tarihî Kültürel Mirası

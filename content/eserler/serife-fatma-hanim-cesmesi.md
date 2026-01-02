@@ -1,18 +1,17 @@
 ---
-title: "Şerife Fatma Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:12+03:00
+title: "Şerife Fatma Hanım Çeşmesi"
+date: "2025-12-25T11:10:12+03:00"
 slug: "serife-fatma-hanim-cesmesi"
 description: "## Şerife Fatma Hanım Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.070805,41.084014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şerife Fatma Hanım Çeşmesi

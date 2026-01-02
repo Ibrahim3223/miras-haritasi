@@ -1,18 +1,17 @@
 ---
-title: "Bodrumi Ömer Lütfi Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:49:19+03:00
+title: "Bodrumi Ömer Lütfi Efendi Camii"
+date: "2025-12-24T22:49:19+03:00"
 slug: "bodrumi-omer-lutfi-efendi-camii"
 description: "## Bodrumi Ömer Lütfi Efendi Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.067701,41.011756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bodrumi Ömer Lütfi Efendi Camii

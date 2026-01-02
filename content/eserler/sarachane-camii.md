@@ -1,18 +1,17 @@
 ---
-title: "Saraçhane Camii | Miras Haritası"
-date: 2025-12-24T22:41:09+03:00
+title: "Saraçhane Camii"
+date: "2025-12-24T22:41:09+03:00"
 slug: "sarachane-camii"
 description: "## Saraçhane Camii: Kahramanmaraş'taki Bir Tarihi Çağı Yakalamak..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9272041,37.583416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraçhane Camii: Kahramanmaraş'taki Bir Tarihi Çağı Yakalamak

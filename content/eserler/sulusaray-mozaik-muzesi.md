@@ -1,18 +1,17 @@
 ---
-title: "Sulusaray Mozaik Müzesi | Miras Haritası"
-date: 2025-12-25T03:57:55+03:00
+title: "Sulusaray Mozaik Müzesi"
+date: "2025-12-25T03:57:55+03:00"
 slug: "sulusaray-mozaik-muzesi"
 description: "## Sulusaray Mozaik Müzesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Sulusaray"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.09446,39.996232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sulusaray Mozaik Müzesi

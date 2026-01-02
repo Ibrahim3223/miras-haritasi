@@ -1,18 +1,17 @@
 ---
-title: "Birgi Çakırağa Konağı | Miras Haritası"
-date: 2025-12-25T03:36:59+03:00
+title: "Birgi Çakırağa Konağı"
+date: "2025-12-25T03:36:59+03:00"
 slug: "birgi-cakiraga-konagi"
 description: "# Birgi Çakırağa Konağı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Birgi Çakırağa Konağı

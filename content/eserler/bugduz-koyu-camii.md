@@ -1,18 +1,17 @@
 ---
-title: "Büğdüz Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:08:44+03:00
+title: "Büğdüz Köyü Camii"
+date: "2025-12-25T00:08:44+03:00"
 slug: "bugduz-koyu-camii"
 description: "## Büğdüz Köyü Camii: Orta, Çankırı'daki Bir Kent Merkezi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.0525169,40.6044807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büğdüz Köyü Camii: Orta, Çankırı'daki Bir Kent Merkezi

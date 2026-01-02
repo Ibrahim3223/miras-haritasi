@@ -1,18 +1,17 @@
 ---
-title: "Kızılkaya Çeşmesi, Kaş | Miras Haritası"
-date: 2025-12-25T12:23:13+03:00
+title: "Kızılkaya Çeşmesi, Kaş"
+date: "2025-12-25T12:23:13+03:00"
 slug: "kizilkaya-cesmesi-kas"
 description: "## Kızılkaya Çeşmesi: Kaş'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.6732,36.3439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılkaya Çeşmesi: Kaş'ın Gizli Çeşmesi

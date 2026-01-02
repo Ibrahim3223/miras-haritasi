@@ -1,18 +1,17 @@
 ---
-title: "Cin Camii, Niksar | Miras Haritası"
-date: 2025-12-25T00:25:59+03:00
+title: "Cin Camii, Niksar"
+date: "2025-12-25T00:25:59+03:00"
 slug: "cin-camii-niksar"
 description: "## Cin Camii, Niksar..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9567528,40.5905991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cin Camii, Niksar

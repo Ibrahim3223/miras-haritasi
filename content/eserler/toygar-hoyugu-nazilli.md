@@ -1,18 +1,17 @@
 ---
-title: "Toygar Höyüğü, Nazilli | Miras Haritası"
-date: 2025-12-25T05:56:52+03:00
+title: "Toygar Höyüğü, Nazilli"
+date: "2025-12-25T05:56:52+03:00"
 slug: "toygar-hoyugu-nazilli"
 description: "## Toygar Höyüğü, Nazilli..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3419418,37.8443947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toygar Höyüğü, Nazilli

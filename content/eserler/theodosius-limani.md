@@ -1,18 +1,17 @@
 ---
-title: "Theodosius Limanı | Miras Haritası"
-date: 2025-12-25T06:58:27+03:00
+title: "Theodosius Limanı"
+date: "2025-12-25T06:58:27+03:00"
 slug: "theodosius-limani"
 description: "### Theodosius Limanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.95222222,41.00466667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Theodosius Limanı

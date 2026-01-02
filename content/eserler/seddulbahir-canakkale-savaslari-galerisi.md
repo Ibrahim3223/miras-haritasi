@@ -1,18 +1,17 @@
 ---
-title: "Seddülbahir Çanakkale Savaşları Galerisi | Miras Haritası"
-date: 2025-12-25T03:51:03+03:00
+title: "Seddülbahir Çanakkale Savaşları Galerisi"
+date: "2025-12-25T03:51:03+03:00"
 slug: "seddulbahir-canakkale-savaslari-galerisi"
 description: "## Seddülbahir Çanakkale Savaşları Galerisi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.407421,40.146442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seddülbahir Çanakkale Savaşları Galerisi

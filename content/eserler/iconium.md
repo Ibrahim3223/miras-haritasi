@@ -1,18 +1,17 @@
 ---
-title: "Iconium | Miras Haritası"
-date: 2025-12-25T08:32:08+03:00
+title: "Iconium"
+date: "2025-12-25T08:32:08+03:00"
 slug: "iconium"
 description: "## Iconium: Konya'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.492222222,37.871944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Iconium: Konya'nın Tarihî ve Kültürel Mirası

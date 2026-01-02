@@ -1,18 +1,17 @@
 ---
-title: "Denizli Köyü Camii Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:25+03:00
+title: "Denizli Köyü Camii Köprüsü"
+date: "2025-12-25T02:41:25+03:00"
 slug: "denizli-koyu-camii-koprusu"
 description: "# Denizli Köyü Camii Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.7396545,38.3793983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Denizli Köyü Camii Köprüsü

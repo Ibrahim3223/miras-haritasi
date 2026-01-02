@@ -1,18 +1,17 @@
 ---
-title: "İzmir Urla İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:47:42+03:00
+title: "İzmir Urla İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:47:42+03:00"
 slug: "izmir-urla-ilce-halk-kutuphanesi"
 description: "## İzmir Urla İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "26.767055555,38.329055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzmir Urla İlçe Halk Kütüphanesi

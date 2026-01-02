@@ -1,18 +1,17 @@
 ---
-title: "Yusuflu Köyü Eski Camii | Miras Haritası"
-date: 2025-12-25T00:10:24+03:00
+title: "Yusuflu Köyü Eski Camii"
+date: "2025-12-25T00:10:24+03:00"
 slug: "yusuflu-koyu-eski-camii"
 description: "**Yusuflu Köyü Eski Camii: Bir Geçmişin İzleri Bayındır'da**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7001629,38.217514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yusuflu Köyü Eski Camii: Bir Geçmişin İzleri Bayındır'da**

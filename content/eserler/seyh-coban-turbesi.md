@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Çoban Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:10+03:00
+title: "Şeyh Çoban Türbesi"
+date: "2025-12-25T15:12:10+03:00"
 slug: "seyh-coban-turbesi"
 description: "### Şeyh Çoban Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0148506,39.7428627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Çoban Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Levent Camii | Miras Haritası"
-date: 2025-12-24T21:44:18+03:00
+title: "Levent Camii"
+date: "2025-12-24T21:44:18+03:00"
 slug: "levent-camii"
 description: "### Levent Camii: İstanbul'un Beşiktaş Bölgesinde Bir Önemli Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Levent_Camii.jpg/1200px-Levent_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.01763889,41.07909722"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Levent Camii: İstanbul'un Beşiktaş Bölgesinde Bir Önemli Cami

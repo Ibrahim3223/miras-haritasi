@@ -1,18 +1,17 @@
 ---
-title: "Ortaoyuncular | Miras Haritası"
-date: 2025-12-25T16:16:36+03:00
+title: "Ortaoyuncular"
+date: "2025-12-25T16:16:36+03:00"
 slug: "ortaoyuncular"
 description: "## Ortaoyuncular: İstanbul'un İhtişamlı Tiyatro Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.9791924,41.0345095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaoyuncular: İstanbul'un İhtişamlı Tiyatro Mirası

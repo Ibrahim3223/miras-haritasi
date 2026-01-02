@@ -1,18 +1,17 @@
 ---
-title: "Eski Belediye Hamamı | Miras Haritası"
-date: 2025-12-25T17:00:55+03:00
+title: "Eski Belediye Hamamı"
+date: "2025-12-25T17:00:55+03:00"
 slug: "eski-belediye-hamami"
 description: "## Eski Belediye Hamamı: Denizli'nin Gizli Çarığı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.3484993,37.4222984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Belediye Hamamı: Denizli'nin Gizli Çarığı

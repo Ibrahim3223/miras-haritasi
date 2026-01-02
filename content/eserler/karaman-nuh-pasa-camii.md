@@ -1,18 +1,17 @@
 ---
-title: "Karaman Nuh Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:44:00+03:00
+title: "Karaman Nuh Paşa Camii"
+date: "2025-12-24T23:44:00+03:00"
 slug: "karaman-nuh-pasa-camii"
 description: "## Karaman Nuh Paşa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2220879,37.1753044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaman Nuh Paşa Camii

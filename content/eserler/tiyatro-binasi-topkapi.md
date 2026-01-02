@@ -1,18 +1,17 @@
 ---
-title: "Tiyatro Binası, Topkapı | Miras Haritası"
-date: 2025-12-25T16:18:45+03:00
+title: "Tiyatro Binası, Topkapı"
+date: "2025-12-25T16:18:45+03:00"
 slug: "tiyatro-binasi-topkapi"
 description: "## Tiyatro Binası, Topkapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.9314041,41.0224838"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Tiyatro Binası, Topkapı

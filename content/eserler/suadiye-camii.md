@@ -1,18 +1,17 @@
 ---
-title: "Suadiye Camii | Miras Haritası"
-date: 2025-12-24T21:38:01+03:00
+title: "Suadiye Camii"
+date: "2025-12-24T21:38:01+03:00"
 slug: "suadiye-camii"
 description: "## Suadiye Camii: Kadıköy'de Gizli Bir Çehre..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Suadiye_Camii.jpg/1200px-Suadiye_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0795,40.9623"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Suadiye Camii: Kadıköy'de Gizli Bir Çehre

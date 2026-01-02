@@ -1,18 +1,17 @@
 ---
-title: "Kızılyer Camii | Miras Haritası"
-date: 2025-12-25T00:55:51+03:00
+title: "Kızılyer Camii"
+date: "2025-12-25T00:55:51+03:00"
 slug: "kizilyer-camii"
 description: "**Kızılyer Camii**..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.329389,37.784886"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kızılyer Camii**

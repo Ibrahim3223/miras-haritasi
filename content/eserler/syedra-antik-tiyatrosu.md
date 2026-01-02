@@ -1,18 +1,17 @@
 ---
-title: "Syedra Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:25:21+03:00
+title: "Syedra Antik Tiyatrosu"
+date: "2025-12-25T08:25:21+03:00"
 slug: "syedra-antik-tiyatrosu"
 description: "### Syedra Antik Tiyatrosu: Alanya'nın Gizli Gözeçleri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.146839,36.445415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Syedra Antik Tiyatrosu: Alanya'nın Gizli Gözeçleri

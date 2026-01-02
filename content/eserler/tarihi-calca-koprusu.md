@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Çalca Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:39+03:00
+title: "Tarihi Çalca Köprüsü"
+date: "2025-12-25T02:25:39+03:00"
 slug: "tarihi-calca-koprusu"
 description: "# Tarihi Çalca Köprüsü..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.0369065,39.4807152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tarihi Çalca Köprüsü

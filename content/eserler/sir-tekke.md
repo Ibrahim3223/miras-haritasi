@@ -1,18 +1,17 @@
 ---
-title: "Sır Tekke | Miras Haritası"
-date: 2025-12-25T16:07:13+03:00
+title: "Sır Tekke"
+date: "2025-12-25T16:07:13+03:00"
 slug: "sir-tekke"
 description: "# Sır Tekke: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.932584901,41.035203326"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sır Tekke: İstanbul'un Gizli Mirası

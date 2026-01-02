@@ -1,18 +1,17 @@
 ---
-title: "Karanlık Mescit, İstanbul | Miras Haritası"
-date: 2025-12-25T00:59:26+03:00
+title: "Karanlık Mescit, İstanbul"
+date: "2025-12-25T00:59:26+03:00"
 slug: "karanlik-mescit-istanbul"
 description: "## Karanlık Mescit: İstanbul'un Gizli Bir Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9577579,41.0240746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karanlık Mescit: İstanbul'un Gizli Bir Cenneti

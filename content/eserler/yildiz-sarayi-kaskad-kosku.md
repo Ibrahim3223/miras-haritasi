@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Sarayı Kaskad Köşkü | Miras Haritası"
-date: 2025-12-25T17:06:52+03:00
+title: "Yıldız Sarayı Kaskad Köşkü"
+date: "2025-12-25T17:06:52+03:00"
 slug: "yildiz-sarayi-kaskad-kosku"
 description: "# Yıldız Sarayı Kaskad Köşkü: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.011972535,41.050781077"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yıldız Sarayı Kaskad Köşkü: İstanbul'un Gizli Cenneti

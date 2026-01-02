@@ -1,18 +1,17 @@
 ---
-title: "Yunak Camii | Miras Haritası"
-date: 2025-12-24T23:50:49+03:00
+title: "Yunak Camii"
+date: "2025-12-24T23:50:49+03:00"
 slug: "yunak-camii"
 description: "## Yunak Camii: Geçmişten Geleceğe Yönelik Bir Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.9056473,38.6335564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yunak Camii: Geçmişten Geleceğe Yönelik Bir Miras

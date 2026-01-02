@@ -1,18 +1,17 @@
 ---
-title: "Hacı Adil Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:06:10+03:00
+title: "Hacı Adil Bey Çeşmesi"
+date: "2025-12-25T10:06:10+03:00"
 slug: "haci-adil-bey-cesmesi"
 description: "## Hacı Adil Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hacı_Adil_Bey_Çeşmesi,_27.JPG/1200px-Hacı_Adil_Bey_Çeşmesi,_27.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.551388888,41.662222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Adil Bey Çeşmesi

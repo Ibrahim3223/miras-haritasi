@@ -1,18 +1,17 @@
 ---
-title: "Ekeki Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:07+03:00
+title: "Ekeki Kilisesi"
+date: "2025-12-25T08:50:07+03:00"
 slug: "ekeki-kilisesi"
 description: "## Ekeki Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ekeki_(ექექი).jpg/1200px-Ekeki_(ექექი).jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Tortum"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.424166666,40.398888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ekeki Kilisesi

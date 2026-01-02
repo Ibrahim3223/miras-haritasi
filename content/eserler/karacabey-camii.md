@@ -1,18 +1,17 @@
 ---
-title: "Karacabey Camii | Miras Haritası"
-date: 2025-12-24T21:46:31+03:00
+title: "Karacabey Camii"
+date: "2025-12-24T21:46:31+03:00"
 slug: "karacabey-camii"
 description: "## Karacabey Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ankara_asv2021-10_img66_Karacabey_Mosque.jpg/1200px-Ankara_asv2021-10_img66_Karacabey_Mosque.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.865555555,39.93125"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karacabey Camii: Ankara'nın Tarihi Bir Mirası

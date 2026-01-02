@@ -1,18 +1,17 @@
 ---
-title: "Hafız Süleyman Mescidi, Foça | Miras Haritası"
-date: 2025-12-25T00:46:35+03:00
+title: "Hafız Süleyman Mescidi, Foça"
+date: "2025-12-25T00:46:35+03:00"
 slug: "hafiz-suleyman-mescidi-foca"
 description: "## Hafız Süleyman Mescidi: Foça'da Bir Tarihi Cami..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7538338,38.6672478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafız Süleyman Mescidi: Foça'da Bir Tarihi Cami

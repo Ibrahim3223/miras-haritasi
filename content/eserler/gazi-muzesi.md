@@ -1,18 +1,17 @@
 ---
-title: "Gazi Müzesi | Miras Haritası"
-date: 2025-12-25T03:20:06+03:00
+title: "Gazi Müzesi"
+date: "2025-12-25T03:20:06+03:00"
 slug: "gazi-muzesi"
 description: "## Gazi Müzesi: Samsun'un Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mantıka_Palas,_1938_(2).jpg/1200px-Mantıka_Palas,_1938_(2).jpg"
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.332333,41.290156"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gazi Müzesi: Samsun'un Tarihî Mirası

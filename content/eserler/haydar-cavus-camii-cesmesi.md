@@ -1,18 +1,17 @@
 ---
-title: "Haydar Çavuş Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:13+03:00
+title: "Haydar Çavuş Camii Çeşmesi"
+date: "2025-12-25T10:59:13+03:00"
 slug: "haydar-cavus-camii-cesmesi"
 description: "## Haydar Çavuş Camii Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.9699898,40.3544846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haydar Çavuş Camii Çeşmesi

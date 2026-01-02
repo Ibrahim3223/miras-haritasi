@@ -1,18 +1,17 @@
 ---
-title: "Satleli | Miras Haritası"
-date: 2025-12-25T01:15:37+03:00
+title: "Satleli"
+date: "2025-12-25T01:15:37+03:00"
 slug: "satleli"
 description: "# Satleli Kale..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Satle_fortress.png/1200px-Satle_fortress.png"
 province: "Batum Oblastı"
-iller: ["Batum Oblastı"]
+iller: '["Batum Oblastı"]'
 district: "Şavşeti"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.327324,41.259293"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Satleli Kale

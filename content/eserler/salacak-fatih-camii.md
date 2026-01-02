@@ -1,18 +1,17 @@
 ---
-title: "Salacak Fatih Camii | Miras Haritası"
-date: 2025-12-24T21:56:24+03:00
+title: "Salacak Fatih Camii"
+date: "2025-12-24T21:56:24+03:00"
 slug: "salacak-fatih-camii"
 description: "## Salacak Fatih Camii: Üsküdar'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Salacak_Fatih_Mosque.jpg/1200px-Salacak_Fatih_Mosque.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Salacak"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.007969444,41.020977777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Salacak Fatih Camii: Üsküdar'ın Tarihi Bir Mirası

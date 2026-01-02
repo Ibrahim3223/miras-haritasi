@@ -1,18 +1,17 @@
 ---
-title: "Küçükpazar Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:23+03:00
+title: "Küçükpazar Hamamı"
+date: "2025-12-25T16:35:23+03:00"
 slug: "kucukpazar-hamami"
 description: "**Küçükpazar Hamamı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.962206,41.019872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Küçükpazar Hamamı**

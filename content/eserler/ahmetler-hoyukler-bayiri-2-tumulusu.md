@@ -1,18 +1,17 @@
 ---
-title: "Ahmetler Höyükler Bayırı 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:43:56+03:00
+title: "Ahmetler Höyükler Bayırı 2 Tümülüsü"
+date: "2025-12-25T07:43:56+03:00"
 slug: "ahmetler-hoyukler-bayiri-2-tumulusu"
 description: "### Ahmetler Höyükler Bayırı 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2372189,42.0212936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmetler Höyükler Bayırı 2 Tümülüsü

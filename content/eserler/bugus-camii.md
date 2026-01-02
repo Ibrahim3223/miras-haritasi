@@ -1,18 +1,17 @@
 ---
-title: "Büğüş Camii | Miras Haritası"
-date: 2025-12-25T00:13:39+03:00
+title: "Büğüş Camii"
+date: "2025-12-25T00:13:39+03:00"
 slug: "bugus-camii"
 description: "### Büğüş Camii: Serik'teki Bir Kentin Kalbi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.007301,37.035507"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Büğüş Camii: Serik'teki Bir Kentin Kalbi

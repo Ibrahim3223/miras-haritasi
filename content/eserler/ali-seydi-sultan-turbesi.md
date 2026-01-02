@@ -1,18 +1,17 @@
 ---
-title: "Ali Seydi Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:11+03:00
+title: "Ali Seydi Sultan Türbesi"
+date: "2025-12-25T15:25:11+03:00"
 slug: "ali-seydi-sultan-turbesi"
 description: "## Ali Seydi Sultan Türbesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yazıhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.9842834,38.5571327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Seydi Sultan Türbesi

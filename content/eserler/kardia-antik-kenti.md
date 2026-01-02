@@ -1,18 +1,17 @@
 ---
-title: "Kardia Antik Kenti | Miras Haritası"
-date: 2025-12-25T06:14:53+03:00
+title: "Kardia Antik Kenti"
+date: "2025-12-25T06:14:53+03:00"
 slug: "kardia-antik-kenti"
 description: "## Kardia Antik Kenti..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7415104,40.5488243"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kardia Antik Kenti

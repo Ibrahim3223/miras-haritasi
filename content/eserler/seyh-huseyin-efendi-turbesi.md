@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hüseyin Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:28+03:00
+title: "Şeyh Hüseyin Efendi Türbesi"
+date: "2025-12-25T14:41:28+03:00"
 slug: "seyh-huseyin-efendi-turbesi"
 description: "## Şeyh Hüseyin Efendi Türbesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.1620216,36.2017822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Hüseyin Efendi Türbesi

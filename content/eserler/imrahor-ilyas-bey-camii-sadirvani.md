@@ -1,18 +1,17 @@
 ---
-title: "İmrahor İlyas Bey Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:03:42+03:00
+title: "İmrahor İlyas Bey Camii Şadırvanı"
+date: "2025-12-25T10:03:42+03:00"
 slug: "imrahor-ilyas-bey-camii-sadirvani"
 description: "**İmrahor İlyas Bey Camii Şadırvanı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9282551,40.9961967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İmrahor İlyas Bey Camii Şadırvanı**

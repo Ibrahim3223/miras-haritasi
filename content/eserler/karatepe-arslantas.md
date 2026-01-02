@@ -1,18 +1,17 @@
 ---
-title: "Karatepe-Arslantaş | Miras Haritası"
-date: 2025-12-25T04:10:26+03:00
+title: "Karatepe-Arslantaş"
+date: "2025-12-25T04:10:26+03:00"
 slug: "karatepe-arslantas"
 description: "## Karatepe-Arslantaş: Tarihî Bir Köy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Karatepe_Stadtmauer.JPG/1200px-Karatepe_Stadtmauer.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Osmaniye"
+province: "Osmaniye"
+iller: '["Osmaniye"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.25361111,37.29555556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karatepe-Arslantaş: Tarihî Bir Köy

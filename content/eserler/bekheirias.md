@@ -1,18 +1,17 @@
 ---
-title: "Bekheirias | Miras Haritası"
-date: 2025-12-25T04:38:26+03:00
+title: "Bekheirias"
+date: "2025-12-25T04:38:26+03:00"
 slug: "bekheirias"
 description: "# Bekheirias Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Rize"
+province: "Rize"
+iller: '["Rize"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.521944444,41.020833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bekheirias Arkeolojik Sit

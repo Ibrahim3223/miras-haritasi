@@ -1,18 +1,17 @@
 ---
-title: "Koçlu Höyük | Miras Haritası"
-date: 2025-12-25T06:23:05+03:00
+title: "Koçlu Höyük"
+date: "2025-12-25T06:23:05+03:00"
 slug: "koclu-hoyuk"
 description: "### Koçlu Höyük: Gaziantep'in Gizli Tarihi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şehitkâmil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.4139486,37.3178695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koçlu Höyük: Gaziantep'in Gizli Tarihi

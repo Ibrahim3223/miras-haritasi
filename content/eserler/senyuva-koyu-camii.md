@@ -1,18 +1,17 @@
 ---
-title: "Şenyuva Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:21:58+03:00
+title: "Şenyuva Köyü Camii"
+date: "2025-12-25T00:21:58+03:00"
 slug: "senyuva-koyu-camii"
 description: "### Şenyuva Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.972397538,40.999339262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şenyuva Köyü Camii

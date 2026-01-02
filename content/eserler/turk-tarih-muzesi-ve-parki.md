@@ -1,18 +1,17 @@
 ---
-title: "Türk Tarih Müzesi ve Parkı | Miras Haritası"
-date: 2025-12-25T03:47:34+03:00
+title: "Türk Tarih Müzesi ve Parkı"
+date: "2025-12-25T03:47:34+03:00"
 slug: "turk-tarih-muzesi-ve-parki"
 description: "## Türk Tarih Müzesi ve Parkı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk Tarih Müzesi ve Parkı

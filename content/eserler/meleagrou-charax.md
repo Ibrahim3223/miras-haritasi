@@ -1,18 +1,17 @@
 ---
-title: "Meleagrou Charax | Miras Haritası"
-date: 2025-12-25T04:36:25+03:00
+title: "Meleagrou Charax"
+date: "2025-12-25T04:36:25+03:00"
 slug: "meleagrou-charax"
 description: "## Meleagrou Charax: Antik Çağın Gizemli Limanı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meleagrou Charax: Antik Çağın Gizemli Limanı

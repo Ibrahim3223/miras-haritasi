@@ -1,18 +1,17 @@
 ---
-title: "Damat Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:27+03:00
+title: "Damat Ağa Çeşmesi"
+date: "2025-12-25T10:53:27+03:00"
 slug: "damat-aga-cesmesi"
 description: "## Damat Ağa Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5103703,40.9809608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damat Ağa Çeşmesi

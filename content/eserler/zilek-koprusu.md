@@ -1,18 +1,17 @@
 ---
-title: "Zilek Köprüsü | Miras Haritası"
-date: 2025-12-25T01:56:43+03:00
+title: "Zilek Köprüsü"
+date: "2025-12-25T01:56:43+03:00"
 slug: "zilek-koprusu"
 description: "## Zilek Köprüsü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9973,37.8291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zilek Köprüsü

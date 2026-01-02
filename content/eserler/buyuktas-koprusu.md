@@ -1,18 +1,17 @@
 ---
-title: "Büyüktaş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:36+03:00
+title: "Büyüktaş Köprüsü"
+date: "2025-12-25T02:07:36+03:00"
 slug: "buyuktas-koprusu"
 description: "### Büyüktaş Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Hemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.887233,41.071217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Büyüktaş Köprüsü

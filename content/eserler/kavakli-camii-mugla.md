@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Camii, Muğla | Miras Haritası"
-date: 2025-12-25T00:24:49+03:00
+title: "Kavaklı Camii, Muğla"
+date: "2025-12-25T00:24:49+03:00"
 slug: "kavakli-camii-mugla"
 description: "## Kavaklı Camii: Muğla'nın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muğla_65.jpg/1200px-Muğla_65.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3630619,37.219059"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kavaklı Camii: Muğla'nın Gizli Çehresi

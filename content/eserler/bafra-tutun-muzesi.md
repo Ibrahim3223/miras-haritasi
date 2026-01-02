@@ -1,18 +1,17 @@
 ---
-title: "Bafra Tütün Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:27+03:00
+title: "Bafra Tütün Müzesi"
+date: "2025-12-25T03:30:27+03:00"
 slug: "bafra-tutun-muzesi"
 description: "## Bafra Tütün Müzesi: Samsun'un Gizli Gözlükleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.8980293,41.563652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bafra Tütün Müzesi: Samsun'un Gizli Gözlükleri

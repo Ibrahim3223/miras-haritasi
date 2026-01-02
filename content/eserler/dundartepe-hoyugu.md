@@ -1,18 +1,17 @@
 ---
-title: "Dündartepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:09:22+03:00
+title: "Dündartepe Höyüğü"
+date: "2025-12-25T07:09:22+03:00"
 slug: "dundartepe-hoyugu"
 description: "# Dündartepe Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.3399811,41.2695198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dündartepe Höyüğü

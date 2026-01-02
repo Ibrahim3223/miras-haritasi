@@ -1,18 +1,17 @@
 ---
-title: "Kıyıköy Vezirtepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:01:45+03:00
+title: "Kıyıköy Vezirtepe Tümülüsü"
+date: "2025-12-25T08:01:45+03:00"
 slug: "kiyikoy-vezirtepe-tumulusu"
 description: "## Kıyıköy Vezirtepe Tümülüsü: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0783024,41.6299477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kıyıköy Vezirtepe Tümülüsü: Tarihî ve Kültürel Bir Miras

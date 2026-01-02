@@ -1,18 +1,17 @@
 ---
-title: "Eski Yeni Hamam | Miras Haritası"
-date: 2025-12-25T16:38:42+03:00
+title: "Eski Yeni Hamam"
+date: "2025-12-25T16:38:42+03:00"
 slug: "eski-yeni-hamam"
 description: "### Eski Yeni Hamam: Eyüp'te Bir Klasik Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.932632,41.048294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Yeni Hamam: Eyüp'te Bir Klasik Hamam

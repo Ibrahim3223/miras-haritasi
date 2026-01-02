@@ -1,18 +1,17 @@
 ---
-title: "Horhor Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:20+03:00
+title: "Horhor Medresesi"
+date: "2025-12-25T17:24:20+03:00"
 slug: "horhor-medresesi"
 description: "## Horhor Medresesi..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "İpekyolu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "43.3342819,38.5023956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Horhor Medresesi

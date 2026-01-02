@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Muhammed El Hüseyn-i Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:47+03:00
+title: "Seyyid Muhammed El Hüseyn-i Türbesi"
+date: "2025-12-25T14:47:47+03:00"
 slug: "seyyid-muhammed-el-huseyn-i-turbesi"
 description: "### Seyyid Muhammed El Hüseyn-i Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.956601,37.178652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyyid Muhammed El Hüseyn-i Türbesi

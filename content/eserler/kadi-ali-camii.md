@@ -1,18 +1,17 @@
 ---
-title: "Kadı Ali Camii | Miras Haritası"
-date: 2025-12-24T23:38:13+03:00
+title: "Kadı Ali Camii"
+date: "2025-12-24T23:38:13+03:00"
 slug: "kadi-ali-camii"
 description: "## Kadı Ali Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lüleburgaz_Kadılı_Cami_0001.jpg/1200px-Lüleburgaz_Kadılı_Cami_0001.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3475285,41.40728"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kadı Ali Camii

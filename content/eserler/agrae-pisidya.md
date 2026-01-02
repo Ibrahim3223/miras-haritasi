@@ -1,18 +1,17 @@
 ---
-title: "Agrae (Pisidya) | Miras Haritası"
-date: 2025-12-25T05:08:53+03:00
+title: "Agrae (Pisidya)"
+date: "2025-12-25T05:08:53+03:00"
 slug: "agrae-pisidya"
 description: "## Agrae (Pisidya): Tarihi ve Kültürel Mirasın Bir Anıtı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.642907,37.951412"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Agrae (Pisidya): Tarihi ve Kültürel Mirasın Bir Anıtı

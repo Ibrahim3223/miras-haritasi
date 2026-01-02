@@ -1,18 +1,17 @@
 ---
-title: "Kale Hamamı | Miras Haritası"
-date: 2025-12-25T13:39:07+03:00
+title: "Kale Hamamı"
+date: "2025-12-25T13:39:07+03:00"
 slug: "kale-hamami"
 description: "## Kale Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Vize_-_Kale_Hammam_-_20250602100254.jpg/1200px-Vize_-_Kale_Hammam_-_20250602100254.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.76625,41.575583333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kale Hamamı

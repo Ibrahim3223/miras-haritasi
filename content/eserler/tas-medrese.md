@@ -1,18 +1,17 @@
 ---
-title: "Taş Medrese | Miras Haritası"
-date: 2025-12-25T17:34:07+03:00
+title: "Taş Medrese"
+date: "2025-12-25T17:34:07+03:00"
 slug: "tas-medrese"
 description: "## Taş Medrese: Kahramanmaraş'ta Bir Geçmişe Sahip Medrese..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "36.926506,37.5850334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Medrese: Kahramanmaraş'ta Bir Geçmişe Sahip Medrese

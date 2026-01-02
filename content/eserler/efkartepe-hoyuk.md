@@ -1,18 +1,17 @@
 ---
-title: "Efkartepe Höyük | Miras Haritası"
-date: 2025-12-25T05:55:11+03:00
+title: "Efkartepe Höyük"
+date: "2025-12-25T05:55:11+03:00"
 slug: "efkartepe-hoyuk"
 description: "**Efkartepe Höyük: Tunceli'nin Gizli Mirası**..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Ovacık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.2178802,39.3549843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Efkartepe Höyük: Tunceli'nin Gizli Mirası**

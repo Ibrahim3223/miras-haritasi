@@ -1,18 +1,17 @@
 ---
-title: "Dede Korkut Anıt Duvarı | Miras Haritası"
-date: 2025-12-25T15:50:27+03:00
+title: "Dede Korkut Anıt Duvarı"
+date: "2025-12-25T15:50:27+03:00"
 slug: "dede-korkut-anit-duvari"
 description: "## Dede Korkut Anıt Duvarı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4960632,39.765255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dede Korkut Anıt Duvarı

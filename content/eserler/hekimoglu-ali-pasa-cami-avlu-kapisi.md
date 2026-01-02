@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Cami Avlu Kapısı | Miras Haritası"
-date: 2025-12-25T15:38:10+03:00
+title: "Hekimoğlu Ali Paşa Cami Avlu Kapısı"
+date: "2025-12-25T15:38:10+03:00"
 slug: "hekimoglu-ali-pasa-cami-avlu-kapisi"
 description: "## Hekimoğlu Ali Paşa Cami Avlu Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hekimoğlu_Ali_Paşa_Cami_Avlu_Kapısı,_Fatih,_İstanbul_2025.jpg/1200px-Hekimoğlu_Ali_Paşa_Cami_Avlu_Kapısı,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.934891636,41.004883244"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hekimoğlu Ali Paşa Cami Avlu Kapısı

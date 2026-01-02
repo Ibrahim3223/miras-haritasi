@@ -1,18 +1,17 @@
 ---
-title: "Notion | Miras Haritası"
-date: 2025-12-25T06:29:29+03:00
+title: "Notion"
+date: "2025-12-25T06:29:29+03:00"
 slug: "notion"
 description: "## Notion: İyonya Uygarlığı'nın Gizli Şehirleri Arasındaki Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ionia,_Asia_Minor_Map,_Classical_Atlas,_1886,_Keith_Johnston.jpg/1200px-Ionia,_Asia_Minor_Map,_Classical_Atlas,_1886,_Keith_Johnston.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menderes (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1975,37.99277778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Notion: İyonya Uygarlığı'nın Gizli Şehirleri Arasındaki Bir Örnek

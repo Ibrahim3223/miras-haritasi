@@ -1,18 +1,17 @@
 ---
-title: "Halikarnas Balıkçısı Mezarı ve Müzesi | Miras Haritası"
-date: 2025-12-25T04:02:46+03:00
+title: "Halikarnas Balıkçısı Mezarı ve Müzesi"
+date: "2025-12-25T04:02:46+03:00"
 slug: "halikarnas-balikcisi-mezari-ve-muzesi"
 description: "**Halikarnas Balıkçısı Mezarı ve Müzesi**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4059219,37.0403442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Halikarnas Balıkçısı Mezarı ve Müzesi**

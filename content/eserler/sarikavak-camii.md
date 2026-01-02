@@ -1,18 +1,17 @@
 ---
-title: "Sarıkavak Camii | Miras Haritası"
-date: 2025-12-24T22:41:37+03:00
+title: "Sarıkavak Camii"
+date: "2025-12-24T22:41:37+03:00"
 slug: "sarikavak-camii"
 description: "## Sarıkavak Camii: Denizli'nin Tarihi Çıkntısı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çameli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1937637,37.0328789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıkavak Camii: Denizli'nin Tarihi Çıkntısı

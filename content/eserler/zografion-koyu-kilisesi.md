@@ -1,18 +1,17 @@
 ---
-title: "Zoğrafion Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:43:21+03:00
+title: "Zoğrafion Köyü Kilisesi"
+date: "2025-12-25T09:43:21+03:00"
 slug: "zografion-koyu-kilisesi"
 description: "# Zoğrafion Köyü Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.7988148,41.0070572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Zoğrafion Köyü Kilisesi

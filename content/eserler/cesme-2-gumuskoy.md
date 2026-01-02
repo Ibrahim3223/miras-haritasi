@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2, Gümüşköy | Miras Haritası"
-date: 2025-12-25T12:05:12+03:00
+title: "Çeşme 2, Gümüşköy"
+date: "2025-12-25T12:05:12+03:00"
 slug: "cesme-2-gumuskoy"
 description: "## Çeşme 2, Gümüşköy: Aydın'ın Germencik'teki Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4612007,37.8516998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 2, Gümüşköy: Aydın'ın Germencik'teki Tarihi Bir Çeşme

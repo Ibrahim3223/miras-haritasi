@@ -1,18 +1,17 @@
 ---
-title: "Dört Göz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:39+03:00
+title: "Dört Göz Köprüsü"
+date: "2025-12-25T02:31:39+03:00"
 slug: "dort-goz-koprusu"
 description: "## Dört Göz Köprüsü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Şuhut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.5410538,38.5368233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dört Göz Köprüsü

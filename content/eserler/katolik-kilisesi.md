@@ -1,18 +1,17 @@
 ---
-title: "Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:02+03:00
+title: "Katolik Kilisesi"
+date: "2025-12-25T09:40:02+03:00"
 slug: "katolik-kilisesi"
 description: "## Katolik Kilisesi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.855114,39.9348488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Katolik Kilisesi: Ankara'nın Gizli Cenneti

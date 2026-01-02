@@ -1,18 +1,17 @@
 ---
-title: "Hıdırlık Tabya Balkan Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:38:27+03:00
+title: "Hıdırlık Tabya Balkan Tarihi Müzesi"
+date: "2025-12-25T03:38:27+03:00"
 slug: "hidirlik-tabya-balkan-tarihi-muzesi"
 description: "### Hıdırlık Tabya Balkan Tarihi Müzesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hıdırlık Tabya Balkan Tarihi Müzesi

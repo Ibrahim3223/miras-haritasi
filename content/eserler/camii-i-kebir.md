@@ -1,18 +1,17 @@
 ---
-title: "Camii-i Kebir | Miras Haritası"
-date: 2025-12-25T00:44:03+03:00
+title: "Camii-i Kebir"
+date: "2025-12-25T00:44:03+03:00"
 slug: "camii-i-kebir"
 description: "### Camii-i Kebir: Elazığ'ın Gizli Cenneti..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Maden"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.667335853,38.391886397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Camii-i Kebir: Elazığ'ın Gizli Cenneti

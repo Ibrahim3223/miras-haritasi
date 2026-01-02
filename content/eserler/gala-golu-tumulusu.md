@@ -1,18 +1,17 @@
 ---
-title: "Gala Gölü Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:37:49+03:00
+title: "Gala Gölü Tümülüsü"
+date: "2025-12-25T07:37:49+03:00"
 slug: "gala-golu-tumulusu"
 description: "## Gala Gölü Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Enez"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.1669979,40.7509766"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gala Gölü Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Kocamustafapaşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:24:32+03:00
+title: "Kocamustafapaşa Hamamı"
+date: "2025-12-25T16:24:32+03:00"
 slug: "kocamustafapasa-hamami"
 description: "## Kocamustafapaşa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Kocamustafapaşa_Hamamı_01.jpg/1200px-Kocamustafapaşa_Hamamı_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.927648738,41.003593148"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kocamustafapaşa Hamamı

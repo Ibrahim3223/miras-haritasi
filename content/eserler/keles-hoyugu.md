@@ -1,18 +1,17 @@
 ---
-title: "Keleş Höyüğü | Miras Haritası"
-date: 2025-12-25T06:41:26+03:00
+title: "Keleş Höyüğü"
+date: "2025-12-25T06:41:26+03:00"
 slug: "keles-hoyugu"
 description: "**Keleş Höyüğü: Hatay'ın Gizli Tarihi**..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.503122165,36.259666511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Keleş Höyüğü: Hatay'ın Gizli Tarihi**

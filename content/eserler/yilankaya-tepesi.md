@@ -1,18 +1,17 @@
 ---
-title: "Yılankaya Tepesi | Miras Haritası"
-date: 2025-12-25T06:45:54+03:00
+title: "Yılankaya Tepesi"
+date: "2025-12-25T06:45:54+03:00"
 slug: "yilankaya-tepesi"
 description: "## Yılankaya Tepesi: Zile'nin Gizli Anıtı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.6304702,40.2100392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yılankaya Tepesi: Zile'nin Gizli Anıtı

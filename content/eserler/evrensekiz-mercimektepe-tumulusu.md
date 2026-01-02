@@ -1,18 +1,17 @@
 ---
-title: "Evrensekiz Mercimektepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:23:26+03:00
+title: "Evrensekiz Mercimektepe Tümülüsü"
+date: "2025-12-25T07:23:26+03:00"
 slug: "evrensekiz-mercimektepe-tumulusu"
 description: "### Evrensekiz Mercimektepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4676857,41.4142113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Evrensekiz Mercimektepe Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Choiragria | Miras Haritası"
-date: 2025-12-25T04:49:46+03:00
+title: "Choiragria"
+date: "2025-12-25T04:49:46+03:00"
 slug: "choiragria"
 description: "## Choiragria: Antik Yunanistan'ın Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.966599,41.031338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Choiragria: Antik Yunanistan'ın Gizli Harikası

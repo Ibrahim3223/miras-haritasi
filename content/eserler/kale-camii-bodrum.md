@@ -1,18 +1,17 @@
 ---
-title: "Kale Camii, Bodrum | Miras Haritası"
-date: 2025-12-25T00:10:36+03:00
+title: "Kale Camii, Bodrum"
+date: "2025-12-25T00:10:36+03:00"
 slug: "kale-camii-bodrum"
 description: "### Kale Camii, Bodrum..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4288177,37.0314026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kale Camii, Bodrum

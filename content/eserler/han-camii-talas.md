@@ -1,18 +1,17 @@
 ---
-title: "Han Camii, Talas | Miras Haritası"
-date: 2025-12-24T23:18:09+03:00
+title: "Han Camii, Talas"
+date: "2025-12-24T23:18:09+03:00"
 slug: "han-camii-talas"
 description: "## Han Camii, Talas..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.5630341,38.6839561"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Han Camii, Talas

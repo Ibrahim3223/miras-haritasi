@@ -1,18 +1,17 @@
 ---
-title: "Büyük Anafarta Şehitliği | Miras Haritası"
-date: 2025-12-25T14:08:07+03:00
+title: "Büyük Anafarta Şehitliği"
+date: "2025-12-25T14:08:07+03:00"
 slug: "buyuk-anafarta-sehitligi"
 description: "# Büyük Anafarta Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3247204,40.2822723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Büyük Anafarta Şehitliği

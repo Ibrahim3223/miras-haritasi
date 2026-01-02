@@ -1,18 +1,17 @@
 ---
-title: "Yerkapı Camii | Miras Haritası"
-date: 2025-12-24T23:47:18+03:00
+title: "Yerkapı Camii"
+date: "2025-12-24T23:47:18+03:00"
 slug: "yerkapi-camii"
 description: "### Yerkapı Camii: Bursa'nın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Yer_kapı_camii_bursa_-_panoramio_(3).jpg/1200px-Yer_kapı_camii_bursa_-_panoramio_(3).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0562229,40.1827469"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yerkapı Camii: Bursa'nın Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Salt Araştırma | Miras Haritası"
-date: 2025-12-25T04:11:15+03:00
+title: "Salt Araştırma"
+date: "2025-12-25T04:11:15+03:00"
 slug: "salt-arastirma"
 description: "## Salt Araştırma Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ottoman_Bank_Head_Office_-_SALT_Galata,_İstanbul_(12968076384).jpg/1200px-Ottoman_Bank_Head_Office_-_SALT_Galata,_İstanbul_(12968076384).jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9734887,41.024034719"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Salt Araştırma Müzesi

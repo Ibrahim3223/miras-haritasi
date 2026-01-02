@@ -1,18 +1,17 @@
 ---
-title: "Mahpeyker Kösem Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:06+03:00
+title: "Mahpeyker Kösem Sultan Çeşmesi"
+date: "2025-12-25T11:06:06+03:00"
 slug: "mahpeyker-kosem-sultan-cesmesi"
 description: "## Mahpeyker Kösem Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mahpeyker_Kösem_Sultan_Çeşmesi.jpg/1200px-Mahpeyker_Kösem_Sultan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.02865,41.020042"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mahpeyker Kösem Sultan Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Kırım Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:28+03:00
+title: "Kırım Köyü Köprüsü"
+date: "2025-12-25T02:43:28+03:00"
 slug: "kirim-koyu-koprusu"
 description: "### Kırım Köyü Köprüsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Hani"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.4323463,38.3551407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırım Köyü Köprüsü

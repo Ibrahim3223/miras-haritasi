@@ -1,18 +1,17 @@
 ---
-title: "Küçükarık Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:14+03:00
+title: "Küçükarık Çeşmesi"
+date: "2025-12-25T10:27:14+03:00"
 slug: "kucukarik-cesmesi"
 description: "## Küçükarık Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6027756,37.7218323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçükarık Çeşmesi

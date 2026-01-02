@@ -1,18 +1,17 @@
 ---
-title: "Esen Tepe Höyük | Miras Haritası"
-date: 2025-12-25T06:41:15+03:00
+title: "Esen Tepe Höyük"
+date: "2025-12-25T06:41:15+03:00"
 slug: "esen-tepe-hoyuk"
 description: "## Esen Tepe Höyük: Hatay'ın Gizli Mimari İncilisi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.4281026,36.4611912"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esen Tepe Höyük: Hatay'ın Gizli Mimari İncilisi

@@ -1,18 +1,17 @@
 ---
-title: "İrun Kalesi | Miras Haritası"
-date: 2025-12-25T01:52:18+03:00
+title: "İrun Kalesi"
+date: "2025-12-25T01:52:18+03:00"
 slug: "irun-kalesi"
 description: "#### İrun Kalesi..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Şirvan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.2218132,38.1672287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 #### İrun Kalesi

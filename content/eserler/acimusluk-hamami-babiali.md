@@ -1,18 +1,17 @@
 ---
-title: "Acımusluk Hamamı Babıali | Miras Haritası"
-date: 2025-12-25T16:40:04+03:00
+title: "Acımusluk Hamamı Babıali"
+date: "2025-12-25T16:40:04+03:00"
 slug: "acimusluk-hamami-babiali"
 description: "## Acımusluk Hamamı Babıali: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.973925,41.012831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acımusluk Hamamı Babıali: İstanbul'un Tarihi ve Kültürel Mirası

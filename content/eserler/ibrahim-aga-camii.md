@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:40:37+03:00
+title: "İbrahim Ağa Camii"
+date: "2025-12-24T21:40:37+03:00"
 slug: "ibrahim-aga-camii"
 description: "## İbrahim Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/İbrahim_Ağa_Mosque,_Kadıköy,_İstanbul_2025.jpg/1200px-İbrahim_Ağa_Mosque,_Kadıköy,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.029638888,41.001361111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İbrahim Ağa Camii

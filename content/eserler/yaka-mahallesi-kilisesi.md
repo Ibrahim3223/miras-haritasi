@@ -1,18 +1,17 @@
 ---
-title: "Yaka Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:04+03:00
+title: "Yaka Mahallesi Kilisesi"
+date: "2025-12-25T09:36:04+03:00"
 slug: "yaka-mahallesi-kilisesi"
 description: "### Yaka Mahallesi Kilisesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0571918,37.5779648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yaka Mahallesi Kilisesi

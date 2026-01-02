@@ -1,18 +1,17 @@
 ---
-title: "Artaiouteichos | Miras Haritası"
-date: 2025-12-25T04:37:41+03:00
+title: "Artaiouteichos"
+date: "2025-12-25T04:37:41+03:00"
 slug: "artaiouteichos"
 description: "## Artaiouteichos: Antik bir Kentin Kalıntıları..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.478392,40.366649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Artaiouteichos: Antik bir Kentin Kalıntıları

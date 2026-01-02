@@ -1,18 +1,17 @@
 ---
-title: "Hasan Hüsnü Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:45:47+03:00
+title: "Hasan Hüsnü Paşa Çeşmesi"
+date: "2025-12-25T11:45:47+03:00"
 slug: "hasan-husnu-pasa-cesmesi"
 description: "### Hasan Hüsnü Paşa Çeşmesi..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Hasanpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.039644,40.994869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hasan Hüsnü Paşa Çeşmesi

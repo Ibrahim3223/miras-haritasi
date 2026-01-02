@@ -1,18 +1,17 @@
 ---
-title: "Halil Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:02+03:00
+title: "Halil Ağa Çeşmesi"
+date: "2025-12-25T10:40:02+03:00"
 slug: "halil-aga-cesmesi"
 description: "### Halil Ağa Çeşmesi: Balat'ın Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Halil_Ağa_Çeşmesi.jpg/1200px-Halil_Ağa_Çeşmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Balat"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9485,41.031583333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Halil Ağa Çeşmesi: Balat'ın Tarihi Bir Çeşmesi

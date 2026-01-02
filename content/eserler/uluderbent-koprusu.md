@@ -1,18 +1,17 @@
 ---
-title: "Uluderbent Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:25+03:00
+title: "Uluderbent Köprüsü"
+date: "2025-12-25T02:12:25+03:00"
 slug: "uluderbent-koprusu"
 description: "## Uluderbent Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.5441074,38.1846809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uluderbent Köprüsü

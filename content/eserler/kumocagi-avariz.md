@@ -1,18 +1,17 @@
 ---
-title: "Kumocağı / Avarız | Miras Haritası"
-date: 2025-12-25T07:09:57+03:00
+title: "Kumocağı / Avarız"
+date: "2025-12-25T07:09:57+03:00"
 slug: "kumocagi-avariz"
 description: "## Kumocağı / Avarız Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumocağı / Avarız Arkeolojik Sit

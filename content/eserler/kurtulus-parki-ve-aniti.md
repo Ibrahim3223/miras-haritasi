@@ -1,18 +1,17 @@
 ---
-title: "Kurtuluş Parkı ve Anıtı | Miras Haritası"
-date: 2025-12-25T15:55:11+03:00
+title: "Kurtuluş Parkı ve Anıtı"
+date: "2025-12-25T15:55:11+03:00"
 slug: "kurtulus-parki-ve-aniti"
 description: "## Kurtuluş Parkı ve Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Dumlupınar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9775848,38.8548851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurtuluş Parkı ve Anıtı

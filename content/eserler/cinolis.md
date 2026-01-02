@@ -1,18 +1,17 @@
 ---
-title: "Cinolis | Miras Haritası"
-date: 2025-12-25T04:38:42+03:00
+title: "Cinolis"
+date: "2025-12-25T04:38:42+03:00"
 slug: "cinolis"
 description: "## Cinolis Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.178403,41.961269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cinolis Arkeolojik Sitesi

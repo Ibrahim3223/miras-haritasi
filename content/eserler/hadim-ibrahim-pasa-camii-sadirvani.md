@@ -1,18 +1,17 @@
 ---
-title: "Hadım İbrahim Paşa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:01:00+03:00
+title: "Hadım İbrahim Paşa Camii Şadırvanı"
+date: "2025-12-25T10:01:00+03:00"
 slug: "hadim-ibrahim-pasa-camii-sadirvani"
 description: "## Hadım İbrahim Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9223461,41.0061417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadım İbrahim Paşa Camii Şadırvanı

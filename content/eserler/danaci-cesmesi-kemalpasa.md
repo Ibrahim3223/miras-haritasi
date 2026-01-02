@@ -1,18 +1,17 @@
 ---
-title: "Danacı Çeşmesi, Kemalpaşa | Miras Haritası"
-date: 2025-12-25T11:59:31+03:00
+title: "Danacı Çeşmesi, Kemalpaşa"
+date: "2025-12-25T11:59:31+03:00"
 slug: "danaci-cesmesi-kemalpasa"
 description: "## Danacı Çeşmesi, Kemalpaşa..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4352112,38.4218292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Danacı Çeşmesi, Kemalpaşa

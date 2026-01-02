@@ -1,18 +1,17 @@
 ---
-title: "Ahlat Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:59:39+03:00
+title: "Ahlat Ulu Camii"
+date: "2025-12-24T21:59:39+03:00"
 slug: "ahlat-ulu-camii"
 description: "### Ahlat Ulu Camii..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.460333333,38.744472222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahlat Ulu Camii

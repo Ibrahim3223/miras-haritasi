@@ -1,18 +1,17 @@
 ---
-title: "Endiz Höyüğü | Miras Haritası"
-date: 2025-12-25T06:13:41+03:00
+title: "Endiz Höyüğü"
+date: "2025-12-25T06:13:41+03:00"
 slug: "endiz-hoyugu"
 description: "### Endiz Höyüğü: Tokat'taki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Pazar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.337114,40.2927289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Endiz Höyüğü: Tokat'taki Gizemli Arkeolojik Sit

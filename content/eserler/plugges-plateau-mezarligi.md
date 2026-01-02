@@ -1,18 +1,17 @@
 ---
-title: "Plugge's Plateau Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:54:34+03:00
+title: "Plugge's Plateau Mezarlığı"
+date: "2025-12-25T15:54:34+03:00"
 slug: "plugges-plateau-mezarligi"
 description: "## Plugge's Plateau Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Plugge's_Plateau_Commonwealth_War_Graves_Commission_Cemetery.JPG/1200px-Plugge's_Plateau_Commonwealth_War_Graves_Commission_Cemetery.JPG"
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.28032,40.2375"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Plugge's Plateau Mezarlığı

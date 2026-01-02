@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:29+03:00
+title: "Mahmut Gazi Türbesi"
+date: "2025-12-25T14:57:29+03:00"
 slug: "mahmut-gazi-turbesi"
 description: "# Mahmut Gazi Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4263668,38.0261002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mahmut Gazi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Hacaloğlu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:03:03+03:00
+title: "Hacaloğlu Köprüsü"
+date: "2025-12-25T02:03:03+03:00"
 slug: "hacaloglu-koprusu"
 description: "# Hacaloğlu Köprüsü: Rize'nin Taşlı Örenliği..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0088578,41.0195703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacaloğlu Köprüsü: Rize'nin Taşlı Örenliği

@@ -1,18 +1,17 @@
 ---
-title: "Yalnız Çam (ağaç) | Miras Haritası"
-date: 2025-12-25T14:13:46+03:00
+title: "Yalnız Çam (ağaç)"
+date: "2025-12-25T14:13:46+03:00"
 slug: "yalniz-cam-agac"
 description: "## Yalnız Çam Anıtı: Gelibolu Yarımadası'nın Efsanevi Ağacı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lone_Pine_Wattle_Park.jpg/1200px-Lone_Pine_Wattle_Park.jpg"
 province: "Marmara Bölgesi"
-iller: ["Marmara Bölgesi"]
+iller: '["Marmara Bölgesi"]'
 district: "Gelibolu Yarımadası"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.28742778,40.23041111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yalnız Çam Anıtı: Gelibolu Yarımadası'nın Efsanevi Ağacı

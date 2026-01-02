@@ -1,18 +1,17 @@
 ---
-title: "Kale Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:28+03:00
+title: "Kale Köyü Köprüsü"
+date: "2025-12-25T02:11:28+03:00"
 slug: "kale-koyu-koprusu"
 description: "## Kale Köyü Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9608,40.7953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Köyü Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası

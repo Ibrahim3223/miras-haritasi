@@ -1,18 +1,17 @@
 ---
-title: "Milas Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:06:08+03:00
+title: "Milas Ulu Camii"
+date: "2025-12-24T22:06:08+03:00"
 slug: "milas-ulu-camii"
 description: "# Milas Ulu Camii..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.783444444,37.313444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Milas Ulu Camii

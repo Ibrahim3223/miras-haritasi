@@ -1,18 +1,17 @@
 ---
-title: "İTÜ Dr. Erol Üçer Müzik İleri Araştırmalar Merkezi | Miras Haritası"
-date: 2025-12-25T17:48:28+03:00
+title: "İTÜ Dr. Erol Üçer Müzik İleri Araştırmalar Merkezi"
+date: "2025-12-25T17:48:28+03:00"
 slug: "itu-dr-erol-ucer-muzik-ileri-arastirmalar-merkezi"
 description: "## İTÜ Dr. Erol Üçer Müzik İleri Araştırmalar Merkezi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İTÜ Dr. Erol Üçer Müzik İleri Araştırmalar Merkezi

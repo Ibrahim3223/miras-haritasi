@@ -1,18 +1,17 @@
 ---
-title: "Canterbury Mezarlığı (ANZAC) | Miras Haritası"
-date: 2025-12-25T15:52:57+03:00
+title: "Canterbury Mezarlığı (ANZAC)"
+date: "2025-12-25T15:52:57+03:00"
 slug: "canterbury-mezarligi-anzac"
 description: "## Canterbury Mezarlığı (ANZAC)..."
 featured_image: ""
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2831,40.2444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canterbury Mezarlığı (ANZAC)

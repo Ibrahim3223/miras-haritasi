@@ -1,18 +1,17 @@
 ---
-title: "Emir Kümbet Türbesi | Miras Haritası"
-date: 2025-12-25T13:53:22+03:00
+title: "Emir Kümbet Türbesi"
+date: "2025-12-25T13:53:22+03:00"
 slug: "emir-kumbet-turbesi"
 description: "# Emir Kümbet Türbesi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Aybastı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.281353,40.6349754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Emir Kümbet Türbesi

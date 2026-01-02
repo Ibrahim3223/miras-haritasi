@@ -1,18 +1,17 @@
 ---
-title: "Burmalı Mescit | Miras Haritası"
-date: 2025-12-24T20:37:38+03:00
+title: "Burmalı Mescit"
+date: "2025-12-24T20:37:38+03:00"
 slug: "burmali-mescit"
 description: "## Burmalı Mescit: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burmalı_Mescid_Camii,_Fatih,_İstanbul_2023.jpg/1200px-Burmalı_Mescid_Camii,_Fatih,_İstanbul_2023.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9563,41.0146"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Burmalı Mescit: İstanbul'un Gizli Çeşmesi

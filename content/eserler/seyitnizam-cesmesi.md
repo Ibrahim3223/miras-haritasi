@@ -1,18 +1,17 @@
 ---
-title: "Seyitnizam Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:55:11+03:00
+title: "Seyitnizam Çeşmesi"
+date: "2025-12-25T12:55:11+03:00"
 slug: "seyitnizam-cesmesi"
 description: "### Seyitnizam Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9111462,41.0047417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyitnizam Çeşmesi: İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Koruköy Sivrikayalar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:50:57+03:00
+title: "Koruköy Sivrikayalar Tümülüsü"
+date: "2025-12-25T07:50:57+03:00"
 slug: "korukoy-sivrikayalar-tumulusu"
 description: "## Koruköy Sivrikayalar Tümülüsü: Türkiye'nin Gizli Anıtlarından Birisi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3078194,41.8650932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koruköy Sivrikayalar Tümülüsü: Türkiye'nin Gizli Anıtlarından Birisi

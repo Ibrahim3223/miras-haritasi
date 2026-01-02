@@ -1,18 +1,17 @@
 ---
-title: "Aziz Yuhanna Vaftizci Kilisesi (Çavuşin) | Miras Haritası"
-date: 2025-12-25T08:54:33+03:00
+title: "Aziz Yuhanna Vaftizci Kilisesi (Çavuşin)"
+date: "2025-12-25T08:54:33+03:00"
 slug: "aziz-yuhanna-vaftizci-kilisesi-cavusin"
 description: "## Aziz Yuhanna Vaftizci Kilisesi (Çavuşin)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Çavuşin-Eglise_Saint-Jean-Baptiste_(1).jpg/1200px-Çavuşin-Eglise_Saint-Jean-Baptiste_(1).jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.8431262,38.6675235"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Yuhanna Vaftizci Kilisesi (Çavuşin)

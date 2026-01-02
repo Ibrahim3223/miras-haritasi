@@ -1,18 +1,17 @@
 ---
-title: "Aya Nikola Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:19+03:00
+title: "Aya Nikola Kilisesi"
+date: "2025-12-25T09:35:19+03:00"
 slug: "aya-nikola-kilisesi"
 description: "### Aya Nikola Kilisesi: Dikili'nin Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.783562,39.021408"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Nikola Kilisesi: Dikili'nin Gizli Çehresini Keşfedin

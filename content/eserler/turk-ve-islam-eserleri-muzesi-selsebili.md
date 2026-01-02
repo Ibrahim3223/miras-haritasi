@@ -1,18 +1,17 @@
 ---
-title: "Türk ve İslam Eserleri Müzesi Selsebili | Miras Haritası"
-date: 2025-12-25T13:06:23+03:00
+title: "Türk ve İslam Eserleri Müzesi Selsebili"
+date: "2025-12-25T13:06:23+03:00"
 slug: "turk-ve-islam-eserleri-muzesi-selsebili"
 description: "## Türk ve İslam Eserleri Müzesi Selsebili..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9749761,41.0063657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk ve İslam Eserleri Müzesi Selsebili

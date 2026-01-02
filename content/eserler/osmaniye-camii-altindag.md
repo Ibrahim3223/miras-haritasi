@@ -1,18 +1,17 @@
 ---
-title: "Osmaniye Camii (Altındağ) | Miras Haritası"
-date: 2025-12-24T23:52:52+03:00
+title: "Osmaniye Camii (Altındağ)"
+date: "2025-12-24T23:52:52+03:00"
 slug: "osmaniye-camii-altindag"
 description: "## Osmaniye Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8577194,39.9478683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmaniye Camii: Ankara'nın Tarihi Bir Mirası

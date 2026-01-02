@@ -1,18 +1,17 @@
 ---
-title: "Knidos Symmachos Heroonu | Miras Haritası"
-date: 2025-12-25T08:10:41+03:00
+title: "Knidos Symmachos Heroonu"
+date: "2025-12-25T08:10:41+03:00"
 slug: "knidos-symmachos-heroonu"
 description: "## Knidos Symmachos Heroonu: Datça'nın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Knidos_Symmachos_Heroonu.jpg/1200px-Knidos_Symmachos_Heroonu.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3735199,36.6865959"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Knidos Symmachos Heroonu: Datça'nın Gizli Anıtı

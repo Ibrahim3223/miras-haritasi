@@ -1,18 +1,17 @@
 ---
-title: "Karabali Hamamı | Miras Haritası"
-date: 2025-12-25T17:15:25+03:00
+title: "Karabali Hamamı"
+date: "2025-12-25T17:15:25+03:00"
 slug: "karabali-hamami"
 description: "### Karabali Hamamı: Kocaeli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Karamürsel"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.6185513,40.6946411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karabali Hamamı: Kocaeli'nin Tarihi Bir Mirası

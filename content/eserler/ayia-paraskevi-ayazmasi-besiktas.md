@@ -1,18 +1,17 @@
 ---
-title: "Ayia Paraskevi Ayazması, Besiktaş | Miras Haritası"
-date: 2025-12-25T12:39:00+03:00
+title: "Ayia Paraskevi Ayazması, Besiktaş"
+date: "2025-12-25T12:39:00+03:00"
 slug: "ayia-paraskevi-ayazmasi-besiktas"
 description: "## Ayia Paraskevi Ayazması, İstanbul'un Besiktaş İlçesinde..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.00947,41.0427475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayia Paraskevi Ayazması, İstanbul'un Besiktaş İlçesinde

@@ -1,18 +1,17 @@
 ---
-title: "Fatih Köprüsü | Miras Haritası"
-date: 2025-12-25T01:58:17+03:00
+title: "Fatih Köprüsü"
+date: "2025-12-25T01:58:17+03:00"
 slug: "fatih-koprusu"
 description: "## Fatih Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/FatihBridge&Kasr-ıAdaletEdirne.JPG/1200px-FatihBridge&Kasr-ıAdaletEdirne.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.5564,41.6902"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fatih Köprüsü

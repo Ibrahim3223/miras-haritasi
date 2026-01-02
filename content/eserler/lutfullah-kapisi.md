@@ -1,18 +1,17 @@
 ---
-title: "Lütfullah Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:33+03:00
+title: "Lütfullah Kapısı"
+date: "2025-12-25T15:37:33+03:00"
 slug: "lutfullah-kapisi"
 description: "## Lütfullah Kapısı: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9665642,41.010952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lütfullah Kapısı: Fatih'in Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Dağpazarı Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:29+03:00
+title: "Dağpazarı Roma Köprüsü"
+date: "2025-12-25T02:32:29+03:00"
 slug: "dagpazari-roma-koprusu"
 description: "# Dağpazarı Roma Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.5059242,36.7898369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dağpazarı Roma Köprüsü

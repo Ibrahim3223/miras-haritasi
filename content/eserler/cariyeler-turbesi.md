@@ -1,18 +1,17 @@
 ---
-title: "Cariyeler Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:24+03:00
+title: "Cariyeler Türbesi"
+date: "2025-12-25T14:41:24+03:00"
 slug: "cariyeler-turbesi"
 description: "**Cariyeler Türbesi: Bursa'nın Gizli Anıtı**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0469952,40.1908875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Cariyeler Türbesi: Bursa'nın Gizli Anıtı**

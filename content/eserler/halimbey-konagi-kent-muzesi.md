@@ -1,18 +1,17 @@
 ---
-title: "Halimbey Konağı Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:56+03:00
+title: "Halimbey Konağı Kent Müzesi"
+date: "2025-12-25T03:50:56+03:00"
 slug: "halimbey-konagi-kent-muzesi"
 description: "## Halimbey Konağı Kent Müzesi: Biga'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.240839,40.2274017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halimbey Konağı Kent Müzesi: Biga'nın Tarihi ve Kültürel Mirası

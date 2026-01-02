@@ -1,18 +1,17 @@
 ---
-title: "Çoban Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:01+03:00
+title: "Çoban Bey Türbesi"
+date: "2025-12-25T15:05:01+03:00"
 slug: "coban-bey-turbesi"
 description: "## Çoban Bey Türbesi: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.072888888,40.175638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Bey Türbesi: Bursa'nın Tarihi Bir Mirası

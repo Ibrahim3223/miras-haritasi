@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Ahmed Cağırgan Veli Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:49+03:00
+title: "Seyyid Ahmed Cağırgan Veli Türbesi"
+date: "2025-12-25T14:45:49+03:00"
 slug: "seyyid-ahmed-cagirganveli-turbesi"
 description: "## Seyyid Ahmed Cağırgan Veli Türbesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Alucra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.84721,40.39931"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Ahmed Cağırgan Veli Türbesi

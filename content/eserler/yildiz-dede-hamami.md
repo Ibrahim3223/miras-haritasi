@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Dede Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:42+03:00
+title: "Yıldız Dede Hamamı"
+date: "2025-12-25T16:46:42+03:00"
 slug: "yildiz-dede-hamami"
 description: "### Yıldız Dede Hamamı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9730072,41.0156288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yıldız Dede Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

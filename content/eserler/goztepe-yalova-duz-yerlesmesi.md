@@ -1,18 +1,17 @@
 ---
-title: "Göztepe / Yalova Düz Yerleşmesi | Miras Haritası"
-date: 2025-12-25T06:59:59+03:00
+title: "Göztepe / Yalova Düz Yerleşmesi"
+date: "2025-12-25T06:59:59+03:00"
 slug: "goztepe-yalova-duz-yerlesmesi"
 description: "## Göztepe / Yalova Düz Yerleşmesi: Tarihinin Ortası ve İnsanların Yeri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yalova"
+province: "Yalova"
+iller: '["Yalova"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göztepe / Yalova Düz Yerleşmesi: Tarihinin Ortası ve İnsanların Yeri

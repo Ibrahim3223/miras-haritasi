@@ -1,18 +1,17 @@
 ---
-title: "Yıprak Köprüsü | Miras Haritası"
-date: 2025-12-25T03:00:40+03:00
+title: "Yıprak Köprüsü"
+date: "2025-12-25T03:00:40+03:00"
 slug: "yiprak-koprusu"
 description: "## Yıprak Köprüsü: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.0948221,39.3836988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıprak Köprüsü: Kütahya'nın Tarihi Bir Mirası

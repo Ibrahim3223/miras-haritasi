@@ -1,18 +1,17 @@
 ---
-title: "Hippoukome | Miras Haritası"
-date: 2025-12-25T04:29:35+03:00
+title: "Hippoukome"
+date: "2025-12-25T04:29:35+03:00"
 slug: "hippoukome"
 description: "# Hippoukome: Antik Yunanistan'ın Gizli Anıtı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0269935,36.8335245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hippoukome: Antik Yunanistan'ın Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Göveren Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:17+03:00
+title: "Göveren Kilisesi"
+date: "2025-12-25T09:34:17+03:00"
 slug: "goveren-kilisesi"
 description: "## Göveren Kilisesi: Aladağ'ın Gizli Çarı..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Aladağ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.4608955,37.465271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göveren Kilisesi: Aladağ'ın Gizli Çarı

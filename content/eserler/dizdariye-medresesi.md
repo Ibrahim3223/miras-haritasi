@@ -1,18 +1,17 @@
 ---
-title: "Dizdariye Medresesi | Miras Haritası"
-date: 2025-12-25T17:43:43+03:00
+title: "Dizdariye Medresesi"
+date: "2025-12-25T17:43:43+03:00"
 slug: "dizdariye-medresesi"
 description: "## Dizdariye Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9721088,41.0062103"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dizdariye Medresesi

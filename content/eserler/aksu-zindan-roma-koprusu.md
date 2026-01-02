@@ -1,18 +1,17 @@
 ---
-title: "Aksu Zindan Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:25+03:00
+title: "Aksu Zindan Roma Köprüsü"
+date: "2025-12-25T02:14:25+03:00"
 slug: "aksu-zindan-roma-koprusu"
 description: "**Aksu Zindan Roma Köprüsü**..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Aksu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.0848311,37.8119009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Aksu Zindan Roma Köprüsü**

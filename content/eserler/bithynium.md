@@ -1,18 +1,17 @@
 ---
-title: "Bithynium | Miras Haritası"
-date: 2025-12-25T05:04:14+03:00
+title: "Bithynium"
+date: "2025-12-25T05:04:14+03:00"
 slug: "bithynium"
 description: "## Bithynium: Bithynia'da Antik Bir Yerleşme..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.611561,40.739479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bithynium: Bithynia'da Antik Bir Yerleşme

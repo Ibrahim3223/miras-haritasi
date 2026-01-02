@@ -1,18 +1,17 @@
 ---
-title: "Keltepe Höyük | Miras Haritası"
-date: 2025-12-25T06:35:25+03:00
+title: "Keltepe Höyük"
+date: "2025-12-25T06:35:25+03:00"
 slug: "keltepe-hoyuk"
 description: "## Keltepe Höyük: Ankara'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Gölbaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.810611413,39.360453972"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keltepe Höyük: Ankara'nın Gizli Kahramanı

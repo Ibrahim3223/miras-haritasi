@@ -1,18 +1,17 @@
 ---
-title: "Koyun Baba Türbesi, İstanbul | Miras Haritası"
-date: 2025-12-25T13:37:03+03:00
+title: "Koyun Baba Türbesi, İstanbul"
+date: "2025-12-25T13:37:03+03:00"
 slug: "koyun-baba-turbesi-istanbul"
 description: "## Koyun Baba Türbesi: İstanbul'un Gizli Çiçeği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9438,41.0212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koyun Baba Türbesi: İstanbul'un Gizli Çiçeği

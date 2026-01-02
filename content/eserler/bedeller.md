@@ -1,18 +1,17 @@
 ---
-title: "Bedeller | Miras Haritası"
-date: 2025-12-25T05:45:51+03:00
+title: "Bedeller"
+date: "2025-12-25T05:45:51+03:00"
 slug: "bedeller"
 description: "## Bedeller Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.778,38.6856"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bedeller Arkeolojik Sit

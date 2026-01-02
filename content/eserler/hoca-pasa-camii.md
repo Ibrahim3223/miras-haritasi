@@ -1,18 +1,17 @@
 ---
-title: "Hoca Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:35:14+03:00
+title: "Hoca Paşa Camii"
+date: "2025-12-24T23:35:14+03:00"
 slug: "hoca-pasa-camii"
 description: "## Hoca Paşa Camii: Bir İmparatorluk Mirası..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.85709,39.9419289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Paşa Camii: Bir İmparatorluk Mirası

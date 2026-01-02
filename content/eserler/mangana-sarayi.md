@@ -1,18 +1,17 @@
 ---
-title: "Mangana Sarayı | Miras Haritası"
-date: 2025-12-25T13:14:46+03:00
+title: "Mangana Sarayı"
+date: "2025-12-25T13:14:46+03:00"
 slug: "mangana-sarayi"
 description: "### Mangana Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.986542127,41.00976706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mangana Sarayı

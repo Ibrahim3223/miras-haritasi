@@ -1,18 +1,17 @@
 ---
-title: "Arhavi Köprüsü | Miras Haritası"
-date: 2025-12-25T03:04:35+03:00
+title: "Arhavi Köprüsü"
+date: "2025-12-25T03:04:35+03:00"
 slug: "arhavi-koprusu"
 description: "# Arhavi Köprüsü: Tarihî Bir Mirasımız..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Arhavi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arhavi Köprüsü: Tarihî Bir Mirasımız

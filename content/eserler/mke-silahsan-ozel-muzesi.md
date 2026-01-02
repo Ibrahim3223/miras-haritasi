@@ -1,18 +1,17 @@
 ---
-title: "MKE Silahsan Özel Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:52+03:00
+title: "MKE Silahsan Özel Müzesi"
+date: "2025-12-25T03:27:52+03:00"
 slug: "mke-silahsan-ozel-muzesi"
 description: "## MKE Silahsan Özel Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırıkkale"
+province: "Kırıkkale"
+iller: '["Kırıkkale"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.515277777,39.846666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## MKE Silahsan Özel Müzesi

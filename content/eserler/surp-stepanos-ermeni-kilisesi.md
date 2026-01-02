@@ -1,18 +1,17 @@
 ---
-title: "Surp Stepanos Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:09+03:00
+title: "Surp Stepanos Ermeni Kilisesi"
+date: "2025-12-25T09:36:09+03:00"
 slug: "surp-stepanos-ermeni-kilisesi"
 description: "**Surp Stepanos Ermeni Kilisesi: Kayseri'nin Görsel Zengini**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.562075,38.738844"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Surp Stepanos Ermeni Kilisesi: Kayseri'nin Görsel Zengini**

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Barla | Miras Haritası"
-date: 2025-12-25T02:59:51+03:00
+title: "Roma Köprüsü, Barla"
+date: "2025-12-25T02:59:51+03:00"
 slug: "roma-koprusu-barla"
 description: "## Roma Köprüsü, Barla: Eğirdir'in Gizli Cenneti..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.786196,38.011078"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Barla: Eğirdir'in Gizli Cenneti

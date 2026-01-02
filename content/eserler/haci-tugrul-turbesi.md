@@ -1,18 +1,17 @@
 ---
-title: "Hacı Tuğrul Türbesi | Miras Haritası"
-date: 2025-12-25T14:36:23+03:00
+title: "Hacı Tuğrul Türbesi"
+date: "2025-12-25T14:36:23+03:00"
 slug: "haci-tugrul-turbesi"
 description: "## Hacı Tuğrul Türbesi: Polatlı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.2003212,39.7263756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Tuğrul Türbesi: Polatlı'nın Gizli Cenneti

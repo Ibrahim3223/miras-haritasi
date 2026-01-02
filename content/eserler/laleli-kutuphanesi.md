@@ -1,18 +1,17 @@
 ---
-title: "Laleli Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:08+03:00
+title: "Laleli Kütüphanesi"
+date: "2025-12-25T17:57:08+03:00"
 slug: "laleli-kutuphanesi"
 description: "**Laleli Kütüphanesi**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Laleli Kütüphanesi**

@@ -1,18 +1,17 @@
 ---
-title: "Aydın Köyü Kaledibi Mevkii Kales | Miras Haritası"
-date: 2025-12-25T01:44:13+03:00
+title: "Aydın Köyü Kaledibi Mevkii Kales"
+date: "2025-12-25T01:44:13+03:00"
 slug: "aydin-koyu-kaledibi-mevkii-kales"
 description: "### Aydın Köyü Kaledibi Mevkii Kalesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Ardanuç"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.075911,41.047586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aydın Köyü Kaledibi Mevkii Kalesi

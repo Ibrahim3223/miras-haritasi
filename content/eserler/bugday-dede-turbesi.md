@@ -1,18 +1,17 @@
 ---
-title: "Buğday Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:57+03:00
+title: "Buğday Dede Türbesi"
+date: "2025-12-25T14:19:57+03:00"
 slug: "bugday-dede-turbesi"
 description: "### Buğday Dede Türbesi: Tarih, Kültür ve Edebiyatın Kesiştiği Yer..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.735087,38.080686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Buğday Dede Türbesi: Tarih, Kültür ve Edebiyatın Kesiştiği Yer

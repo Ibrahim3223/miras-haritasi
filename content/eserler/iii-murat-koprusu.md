@@ -1,18 +1,17 @@
 ---
-title: "III. Murat Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:15+03:00
+title: "III. Murat Köprüsü"
+date: "2025-12-25T02:08:15+03:00"
 slug: "iii-murat-koprusu"
 description: "## III. Murat Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Daş_körpü_Qars.jpg/1200px-Daş_körpü_Qars.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "43.088787,40.611737"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## III. Murat Köprüsü

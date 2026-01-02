@@ -1,18 +1,17 @@
 ---
-title: "Arima (Kilikya) | Miras Haritası"
-date: 2025-12-25T05:10:59+03:00
+title: "Arima (Kilikya)"
+date: "2025-12-25T05:10:59+03:00"
 slug: "arima-kilikya"
 description: "## Arima (Kilikya) - Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.114347,36.441276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arima (Kilikya) - Türkiye'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Demirkapı Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:32:56+03:00
+title: "Demirkapı Köyü Camii"
+date: "2025-12-24T22:32:56+03:00"
 slug: "demirkapi-koyu-camii"
 description: "### Demirkapı Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Rize"
+province: "Rize"
+iller: '["Rize"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.585754,40.765806"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Demirkapı Köyü Camii

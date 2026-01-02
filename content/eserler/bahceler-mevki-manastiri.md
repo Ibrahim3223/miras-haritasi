@@ -1,18 +1,17 @@
 ---
-title: "Bahçeler Mevki Manastırı | Miras Haritası"
-date: 2025-12-25T09:56:24+03:00
+title: "Bahçeler Mevki Manastırı"
+date: "2025-12-25T09:56:24+03:00"
 slug: "bahceler-mevki-manastiri"
 description: "## Bahçeler Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.9061584,40.2195549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahçeler Mevki Manastırı

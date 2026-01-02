@@ -1,18 +1,17 @@
 ---
-title: "İsa Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:09+03:00
+title: "İsa Dede Türbesi"
+date: "2025-12-25T15:27:09+03:00"
 slug: "isa-dede-turbesi"
 description: "**İsa Dede Türbesi**..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7712212,41.3758812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İsa Dede Türbesi**

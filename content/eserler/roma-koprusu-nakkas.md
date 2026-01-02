@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Nakkaş | Miras Haritası"
-date: 2025-12-25T02:53:57+03:00
+title: "Roma Köprüsü, Nakkaş"
+date: "2025-12-25T02:53:57+03:00"
 slug: "roma-koprusu-nakkas"
 description: "## Roma Köprüsü, Nakkaş: Çatalca'nın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.5637703,41.1772766"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Nakkaş: Çatalca'nın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:57:21+03:00
+title: "Yusuf Ağa Camii"
+date: "2025-12-24T22:57:21+03:00"
 slug: "yusuf-aga-camii"
 description: "## Yusuf Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0721741,41.1836662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuf Ağa Camii

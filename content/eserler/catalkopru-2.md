@@ -1,18 +1,17 @@
 ---
-title: "Çatalköprü 2 | Miras Haritası"
-date: 2025-12-25T02:20:01+03:00
+title: "Çatalköprü 2"
+date: "2025-12-25T02:20:01+03:00"
 slug: "catalkopru-2"
 description: "## Çatalköprü 2: Manisa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7338524,38.4326363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatalköprü 2: Manisa'nın Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Tabak Çıkmazı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:04:49+03:00
+title: "Tabak Çıkmazı Çeşmesi"
+date: "2025-12-25T10:04:49+03:00"
 slug: "tabak-cikmazi-cesmesi"
 description: "## Tabak Çıkmazı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/451.64-Tabak_Çıkmazı_Çeşmesi-19.yy_01.jpg/1200px-451.64-Tabak_Çıkmazı_Çeşmesi-19.yy_01.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.18257222,39.12270833"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tabak Çıkmazı Çeşmesi

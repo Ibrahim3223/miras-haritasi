@@ -1,18 +1,17 @@
 ---
-title: "Thebasa | Miras Haritası"
-date: 2025-12-25T04:34:53+03:00
+title: "Thebasa"
+date: "2025-12-25T04:34:53+03:00"
 slug: "thebasa"
 description: "## Thebasa: Karaman'da Gizli Bir Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.836559,37.293682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Thebasa: Karaman'da Gizli Bir Miras

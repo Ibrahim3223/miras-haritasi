@@ -1,18 +1,17 @@
 ---
-title: "Kissebükü | Miras Haritası"
-date: 2025-12-25T08:31:19+03:00
+title: "Kissebükü"
+date: "2025-12-25T08:31:19+03:00"
 slug: "kissebuku"
 description: "# Kissebükü Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6460629,36.9975052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kissebükü Arkeolojik Sit

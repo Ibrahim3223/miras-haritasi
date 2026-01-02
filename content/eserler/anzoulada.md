@@ -1,18 +1,17 @@
 ---
-title: "Anzoulada | Miras Haritası"
-date: 2025-12-25T05:09:40+03:00
+title: "Anzoulada"
+date: "2025-12-25T05:09:40+03:00"
 slug: "anzoulada"
 description: "## Anzoulada: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.075334,38.339036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anzoulada: Türkiye'nin Gizli Cenneti

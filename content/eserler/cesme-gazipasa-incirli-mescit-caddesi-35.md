@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Gazipaşa, İncirli Mescit Caddesi, 35 | Miras Haritası"
-date: 2025-12-25T12:48:48+03:00
+title: "Çeşme – Gazipaşa, İncirli Mescit Caddesi, 35"
+date: "2025-12-25T12:48:48+03:00"
 slug: "cesme-gazipasa-incirli-mescit-caddesi-35"
 description: "**Çeşme – Gazipaşa, İncirli Mescit Caddesi, 35: Bergama'nın Tarihi Bir Çeşmesi**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1763992,39.1208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çeşme – Gazipaşa, İncirli Mescit Caddesi, 35: Bergama'nın Tarihi Bir Çeşmesi**

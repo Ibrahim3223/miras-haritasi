@@ -1,18 +1,17 @@
 ---
-title: "Ağazade Hanı Mescidi | Miras Haritası"
-date: 2025-12-25T00:48:55+03:00
+title: "Ağazade Hanı Mescidi"
+date: "2025-12-25T00:48:55+03:00"
 slug: "agazade-hani-mescidi"
 description: "## Ağazade Hanı Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8636856,39.9356461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağazade Hanı Mescidi

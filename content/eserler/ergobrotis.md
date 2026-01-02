@@ -1,18 +1,17 @@
 ---
-title: "Ergobrotis | Miras Haritası"
-date: 2025-12-25T05:10:41+03:00
+title: "Ergobrotis"
+date: "2025-12-25T05:10:41+03:00"
 slug: "ergobrotis"
 description: "### Ergobrotis: Antik Tiyatro ve Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.149947,40.133759"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ergobrotis: Antik Tiyatro ve Kentin Mirası

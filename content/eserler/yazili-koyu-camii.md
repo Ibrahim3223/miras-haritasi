@@ -1,18 +1,17 @@
 ---
-title: "Yazılı Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:37:20+03:00
+title: "Yazılı Köyü Camii"
+date: "2025-12-25T00:37:20+03:00"
 slug: "yazili-koyu-camii"
 description: "## Yazılı Köyü Camii: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.715551009,39.201178987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yazılı Köyü Camii: Eskişehir'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Karahöyük, Acıpayam | Miras Haritası"
-date: 2025-12-25T05:58:50+03:00
+title: "Karahöyük, Acıpayam"
+date: "2025-12-25T05:58:50+03:00"
 slug: "karahoyuk-acipayam"
 description: "## Karahöyük Arkeolojik Sit, Acıpayam..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.4053364,37.507103"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karahöyük Arkeolojik Sit, Acıpayam

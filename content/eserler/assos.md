@@ -1,18 +1,17 @@
 ---
-title: "Assos | Miras Haritası"
-date: 2025-12-25T04:19:14+03:00
+title: "Assos"
+date: "2025-12-25T04:19:14+03:00"
 slug: "assos"
 description: "## Assos: Antik Çağın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Assos.jpg/1200px-Assos.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.336667,39.490556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Assos: Antik Çağın Gizemi

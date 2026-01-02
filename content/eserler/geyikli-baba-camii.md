@@ -1,18 +1,17 @@
 ---
-title: "Geyikli Baba Camii | Miras Haritası"
-date: 2025-12-24T23:04:04+03:00
+title: "Geyikli Baba Camii"
+date: "2025-12-24T23:04:04+03:00"
 slug: "geyikli-baba-camii"
 description: "## Geyikli Baba Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Geyikli_Baba_Türbesi_ve_Baba_Sultan_Camii.jpg/1200px-Geyikli_Baba_Türbesi_ve_Baba_Sultan_Camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.3711338,40.108345"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Geyikli Baba Camii

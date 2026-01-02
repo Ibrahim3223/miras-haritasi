@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami, Yıldızeli | Miras Haritası"
-date: 2025-12-24T23:24:28+03:00
+title: "Yeni Cami, Yıldızeli"
+date: "2025-12-24T23:24:28+03:00"
 slug: "yeni-cami-yildizeli"
 description: "## Yeni Cami, Yıldızeli: Sivas'ın Gizli Çiçeği..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Yıldızeli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5948868,39.8656387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Cami, Yıldızeli: Sivas'ın Gizli Çiçeği

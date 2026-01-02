@@ -1,18 +1,17 @@
 ---
-title: "Tepecik Cami ve Haziresi | Miras Haritası"
-date: 2025-12-25T00:52:17+03:00
+title: "Tepecik Cami ve Haziresi"
+date: "2025-12-25T00:52:17+03:00"
 slug: "tepecik-cami-ve-haziresi"
 description: "## Tepecik Cami ve Haziresi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6135063,39.8104744"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepecik Cami ve Haziresi

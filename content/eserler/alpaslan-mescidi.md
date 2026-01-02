@@ -1,18 +1,17 @@
 ---
-title: "Alpaslan Mescidi | Miras Haritası"
-date: 2025-12-24T22:09:49+03:00
+title: "Alpaslan Mescidi"
+date: "2025-12-24T22:09:49+03:00"
 slug: "alpaslan-mescidi"
 description: "### Alpaslan Mescidi: İzmir'in Tarihî Bir Camisi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.367918,37.9511375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alpaslan Mescidi: İzmir'in Tarihî Bir Camisi

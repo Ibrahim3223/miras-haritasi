@@ -1,18 +1,17 @@
 ---
-title: "Roş Haar Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:55+03:00
+title: "Roş Haar Sinagogu"
+date: "2025-12-25T16:14:55+03:00"
 slug: "ros-haar-sinagogu"
 description: "## Roş Haar Sinagogu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.116611111,38.407388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roş Haar Sinagogu

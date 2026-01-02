@@ -1,18 +1,17 @@
 ---
-title: "Darıca Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:55+03:00
+title: "Darıca Kalesi"
+date: "2025-12-25T01:40:55+03:00"
 slug: "darica-kalesi"
 description: "## Darıca Kalesi: Kocaeli'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Darıca"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.383727,40.7573475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darıca Kalesi: Kocaeli'nin Tarihî Mirası

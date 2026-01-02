@@ -1,18 +1,17 @@
 ---
-title: "Deliklitaş Camii | Miras Haritası"
-date: 2025-12-24T22:33:40+03:00
+title: "Deliklitaş Camii"
+date: "2025-12-24T22:33:40+03:00"
 slug: "deliklitas-camii"
 description: "## Deliklitaş Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4917297,38.7132492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deliklitaş Camii

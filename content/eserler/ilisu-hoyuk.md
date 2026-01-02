@@ -1,18 +1,17 @@
 ---
-title: "Ilısu Höyük | Miras Haritası"
-date: 2025-12-25T06:39:12+03:00
+title: "Ilısu Höyük"
+date: "2025-12-25T06:39:12+03:00"
 slug: "ilisu-hoyuk"
 description: "# Ilısu Höyük: Tarihçenin ve Doğa Sevenlerin Büyülü Dünyası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.3625213,39.5070849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ilısu Höyük: Tarihçenin ve Doğa Sevenlerin Büyülü Dünyası

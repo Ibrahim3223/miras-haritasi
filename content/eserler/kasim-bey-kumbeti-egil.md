@@ -1,18 +1,17 @@
 ---
-title: "Kasım Bey Kümbeti, Eğil | Miras Haritası"
-date: 2025-12-25T14:00:48+03:00
+title: "Kasım Bey Kümbeti, Eğil"
+date: "2025-12-25T14:00:48+03:00"
 slug: "kasim-bey-kumbeti-egil"
 description: "### Kasım Bey Kümbeti..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Eğil"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.077693,38.146761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kasım Bey Kümbeti

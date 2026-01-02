@@ -1,18 +1,17 @@
 ---
-title: "Sancak Camii | Miras Haritası"
-date: 2025-12-25T00:20:21+03:00
+title: "Sancak Camii"
+date: "2025-12-25T00:20:21+03:00"
 slug: "sancak-camii"
 description: "# Sancak Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5270654,40.8106038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sancak Camii

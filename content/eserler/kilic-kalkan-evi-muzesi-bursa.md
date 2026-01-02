@@ -1,18 +1,17 @@
 ---
-title: "Kılıç Kalkan Evi Müzesi, Bursa | Miras Haritası"
-date: 2025-12-25T03:43:02+03:00
+title: "Kılıç Kalkan Evi Müzesi, Bursa"
+date: "2025-12-25T03:43:02+03:00"
 slug: "kilic-kalkan-evi-muzesi-bursa"
 description: "## Kılıç Kalkan Evi Müzesi, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0703773,40.1811028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılıç Kalkan Evi Müzesi, Bursa

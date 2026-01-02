@@ -1,18 +1,17 @@
 ---
-title: "Saray Hamamı, Ordu | Miras Haritası"
-date: 2025-12-25T17:07:11+03:00
+title: "Saray Hamamı, Ordu"
+date: "2025-12-25T17:07:11+03:00"
 slug: "saray-hamamiordu"
 description: "## Saray Hamamı: Altınordu'nun Tarihi Bir Görgü..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.8759211,40.9840644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saray Hamamı: Altınordu'nun Tarihi Bir Görgü

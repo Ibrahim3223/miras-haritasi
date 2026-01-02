@@ -1,18 +1,17 @@
 ---
-title: "Beştepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:50+03:00
+title: "Beştepe Tümülüsü"
+date: "2025-12-25T07:35:50+03:00"
 slug: "bestepe-tumulusu"
 description: "## Beştepe Tümülüsü: Edirne'nin Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8688927,41.5660629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beştepe Tümülüsü: Edirne'nin Gizemli Arkeolojik Sitleri

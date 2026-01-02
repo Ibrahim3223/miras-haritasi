@@ -1,18 +1,17 @@
 ---
-title: "Uşak Kent Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:56:57+03:00
+title: "Uşak Kent Tarihi Müzesi"
+date: "2025-12-25T03:56:57+03:00"
 slug: "usak-kent-tarihi-muzesi"
 description: "## Uşak Kent Tarihi Müzesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.407741,38.678606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uşak Kent Tarihi Müzesi

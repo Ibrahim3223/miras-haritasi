@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Suludere | Miras Haritası"
-date: 2025-12-25T17:07:52+03:00
+title: "Hamam, Suludere"
+date: "2025-12-25T17:07:52+03:00"
 slug: "hamam-suludere"
 description: "### Hamam, Suludere: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kiraz"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.2361717,38.2477646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamam, Suludere: İzmir'in Tarihi ve Kültürel Mirası

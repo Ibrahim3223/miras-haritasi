@@ -1,18 +1,17 @@
 ---
-title: "Şatırlı Camii | Miras Haritası"
-date: 2025-12-25T00:55:39+03:00
+title: "Şatırlı Camii"
+date: "2025-12-25T00:55:39+03:00"
 slug: "satirli-camii"
 description: "## Şatırlı Camii: Antalya'nın Tarihî Bir Örneği..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.947727,36.983947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şatırlı Camii: Antalya'nın Tarihî Bir Örneği

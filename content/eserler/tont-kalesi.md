@@ -1,18 +1,17 @@
 ---
-title: "Tont Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:16+03:00
+title: "Tont Kalesi"
+date: "2025-12-25T01:44:16+03:00"
 slug: "tont-kalesi"
 description: "### Tont Kalesi: Tarihî Bir Mirasın Güncel Yüzü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ereğli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.1659698,37.4672127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tont Kalesi: Tarihî Bir Mirasın Güncel Yüzü

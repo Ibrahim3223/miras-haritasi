@@ -1,18 +1,17 @@
 ---
-title: "Marmara Ereğlisi Tümülüsü 5 | Miras Haritası"
-date: 2025-12-25T07:27:46+03:00
+title: "Marmara Ereğlisi Tümülüsü 5"
+date: "2025-12-25T07:27:46+03:00"
 slug: "marmara-ereglisi-tumulusu-5"
 description: "## Marmara Ereğlisi Tümülüsü 5..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Marmaraereğlisi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.945202475,41.015375136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marmara Ereğlisi Tümülüsü 5

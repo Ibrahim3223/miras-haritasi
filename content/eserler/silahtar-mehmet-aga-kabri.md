@@ -1,18 +1,17 @@
 ---
-title: "Silahtar Mehmet Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:30:01+03:00
+title: "Silahtar Mehmet Ağa Kabri"
+date: "2025-12-25T13:30:01+03:00"
 slug: "silahtar-mehmet-aga-kabri"
 description: "## Silahtar Mehmet Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9500237,41.0113907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Silahtar Mehmet Ağa Kabri

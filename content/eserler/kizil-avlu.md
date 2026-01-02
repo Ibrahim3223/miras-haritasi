@@ -1,18 +1,17 @@
 ---
-title: "Kızıl Avlu | Miras Haritası"
-date: 2025-12-25T04:24:48+03:00
+title: "Kızıl Avlu"
+date: "2025-12-25T04:24:48+03:00"
 slug: "kizil-avlu"
 description: "# Kızıl Avlu: Bergama'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Red_basilica_west_view.jpg/1200px-Red_basilica_west_view.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.18333333,39.12194444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kızıl Avlu: Bergama'nın Gizli Cenneti

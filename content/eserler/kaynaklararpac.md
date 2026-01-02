@@ -1,18 +1,17 @@
 ---
-title: "Kaynaklar/Arpaç | Miras Haritası"
-date: 2025-12-25T05:33:34+03:00
+title: "Kaynaklar/Arpaç"
+date: "2025-12-25T05:33:34+03:00"
 slug: "kaynaklararpac"
 description: "## Kaynaklar/Arpaç Arkeolojik Sitinin Tanıtımı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.874491,41.671919"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaynaklar/Arpaç Arkeolojik Sitinin Tanıtımı

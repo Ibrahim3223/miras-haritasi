@@ -1,18 +1,17 @@
 ---
-title: "Pınarkaya Höyüğü | Miras Haritası"
-date: 2025-12-25T06:29:33+03:00
+title: "Pınarkaya Höyüğü"
+date: "2025-12-25T06:29:33+03:00"
 slug: "pinarkaya-hoyugu"
 description: "### Pınarkaya Höyüğü..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ayrancı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.7242146,37.110666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pınarkaya Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Ardistama | Miras Haritası"
-date: 2025-12-25T05:09:51+03:00
+title: "Ardistama"
+date: "2025-12-25T05:09:51+03:00"
 slug: "ardistama"
 description: "## Ardıçlı Dağı (Ardistama)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.85653,37.92922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ardıçlı Dağı (Ardistama)

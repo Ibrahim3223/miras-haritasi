@@ -1,18 +1,17 @@
 ---
-title: "Ischopolis | Miras Haritası"
-date: 2025-12-25T04:52:11+03:00
+title: "Ischopolis"
+date: "2025-12-25T04:52:11+03:00"
 slug: "ischopolis"
 description: "### Ischopolis: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.195035,40.937989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ischopolis: Antik Kentin Gizemi

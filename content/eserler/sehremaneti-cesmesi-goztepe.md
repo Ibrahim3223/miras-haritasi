@@ -1,18 +1,17 @@
 ---
-title: "Şehremaneti Çeşmesi, Göztepe | Miras Haritası"
-date: 2025-12-25T12:13:29+03:00
+title: "Şehremaneti Çeşmesi, Göztepe"
+date: "2025-12-25T12:13:29+03:00"
 slug: "sehremaneti-cesmesi-goztepe"
 description: "**Şehremaneti Çeşmesi, Göztepe**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Şehremaneti_Çeşmesi,_Göztepe.jpg/1200px-Şehremaneti_Çeşmesi,_Göztepe.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.068185,40.981649"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Şehremaneti Çeşmesi, Göztepe**

@@ -1,18 +1,17 @@
 ---
-title: "Bayramören Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:15+03:00
+title: "Bayramören Köprüsü"
+date: "2025-12-25T02:11:15+03:00"
 slug: "bayramoren-koprusu"
 description: "### Bayramören Köprüsü..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Bayramören"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.199418,40.950628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayramören Köprüsü

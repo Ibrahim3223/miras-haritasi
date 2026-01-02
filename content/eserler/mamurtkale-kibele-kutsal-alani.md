@@ -1,18 +1,17 @@
 ---
-title: "Mamurtkale Kibele Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T08:39:42+03:00
+title: "Mamurtkale Kibele Kutsal Alanı"
+date: "2025-12-25T08:39:42+03:00"
 slug: "mamurtkale-kibele-kutsal-alani"
 description: "### Mamurtkale Kibele Kutsal Alanı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kınık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.4212399,38.9345284"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mamurtkale Kibele Kutsal Alanı

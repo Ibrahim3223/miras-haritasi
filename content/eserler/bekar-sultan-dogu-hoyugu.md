@@ -1,18 +1,17 @@
 ---
-title: "Bekar Sultan Doğu Höyüğü | Miras Haritası"
-date: 2025-12-25T05:59:51+03:00
+title: "Bekar Sultan Doğu Höyüğü"
+date: "2025-12-25T05:59:51+03:00"
 slug: "bekar-sultan-dogu-hoyugu"
 description: "### Bekar Sultan Doğu Höyüğü: Gülağaç'ta Gizlenen Tarih..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3848076,38.3931427"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bekar Sultan Doğu Höyüğü: Gülağaç'ta Gizlenen Tarih

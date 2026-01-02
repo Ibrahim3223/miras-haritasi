@@ -1,18 +1,17 @@
 ---
-title: "Kaya Mezarı 2 (Güvercinlik Köyü) Havza | Miras Haritası"
-date: 2025-12-25T13:22:41+03:00
+title: "Kaya Mezarı 2 (Güvercinlik Köyü) Havza"
+date: "2025-12-25T13:22:41+03:00"
 slug: "kaya-mezari-2-guvercinlik-koyu-havza"
 description: "## Kaya Mezarı 2 (Güvercinlik Köyü) Havza: Samsun'un Gizli Hazinesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Havza"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.825768,41.037881"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaya Mezarı 2 (Güvercinlik Köyü) Havza: Samsun'un Gizli Hazinesi

@@ -1,18 +1,17 @@
 ---
-title: "Tepebağ Höyüğü | Miras Haritası"
-date: 2025-12-25T05:57:26+03:00
+title: "Tepebağ Höyüğü"
+date: "2025-12-25T05:57:26+03:00"
 slug: "tepebag-hoyugu"
 description: "## Tepebağ Höyüğü..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.3281975,36.9881897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepebağ Höyüğü

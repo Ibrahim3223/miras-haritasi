@@ -1,18 +1,17 @@
 ---
-title: "Yavaşça Mehmet Ağa Camii | Miras Haritası"
-date: 2025-12-25T00:05:28+03:00
+title: "Yavaşça Mehmet Ağa Camii"
+date: "2025-12-25T00:05:28+03:00"
 slug: "yavasca-mehmet-aga-camii"
 description: "## Yavaşça Mehmet Ağa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.932066,41.0175056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yavaşça Mehmet Ağa Camii

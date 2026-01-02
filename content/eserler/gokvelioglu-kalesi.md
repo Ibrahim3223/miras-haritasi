@@ -1,18 +1,17 @@
 ---
-title: "Gökvelioğlu Kalesi | Miras Haritası"
-date: 2025-12-25T01:50:13+03:00
+title: "Gökvelioğlu Kalesi"
+date: "2025-12-25T01:50:13+03:00"
 slug: "gokvelioglu-kalesi"
 description: "### Gökvelioğlu Kalesi: Adana'nın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gökvelioglu3.jpg/1200px-Gökvelioglu3.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.60833333,36.84472222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Gökvelioğlu Kalesi: Adana'nın Gizli Kahramanı

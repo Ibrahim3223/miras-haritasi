@@ -1,18 +1,17 @@
 ---
-title: "Musiki Muallim Mektebi Müzik Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:55+03:00
+title: "Musiki Muallim Mektebi Müzik Müzesi"
+date: "2025-12-25T04:05:55+03:00"
 slug: "musiki-muallim-mektebi-muzik-muzesi"
 description: "### Musiki Muallim Mektebi Müzik Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.877017519,39.935081351"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Musiki Muallim Mektebi Müzik Müzesi

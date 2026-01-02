@@ -1,18 +1,17 @@
 ---
-title: "İlk Kurşun Anıtı | Miras Haritası"
-date: 2025-12-25T15:42:38+03:00
+title: "İlk Kurşun Anıtı"
+date: "2025-12-25T15:42:38+03:00"
 slug: "ilk-kursun-aniti"
 description: "## İlk Kurşun Anıtı: İzmir'in Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/First_Bullet_Monument_(2).jpg/1200px-First_Bullet_Monument_(2).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.128444444,38.419361111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İlk Kurşun Anıtı: İzmir'in Tarihi Mirası

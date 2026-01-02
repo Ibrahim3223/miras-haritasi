@@ -1,18 +1,17 @@
 ---
-title: "Aya Dimitri Manastırı (Gökçeada) | Miras Haritası"
-date: 2025-12-25T09:54:51+03:00
+title: "Aya Dimitri Manastırı (Gökçeada)"
+date: "2025-12-25T09:54:51+03:00"
 slug: "aya-dimitri-manastiri-gokceada"
 description: "## Aya Dimitri Manastırı: Gökçeada'nın Gerçek Bir Harikası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.8322773,40.2074509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Dimitri Manastırı: Gökçeada'nın Gerçek Bir Harikası

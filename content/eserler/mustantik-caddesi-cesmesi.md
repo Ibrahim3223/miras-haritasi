@@ -1,18 +1,17 @@
 ---
-title: "Müstantik Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:49:59+03:00
+title: "Müstantik Caddesi Çeşmesi"
+date: "2025-12-25T11:49:59+03:00"
 slug: "mustantik-caddesi-cesmesi"
 description: "## Müstantik Caddesi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9562492,41.0259743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müstantik Caddesi Çeşmesi

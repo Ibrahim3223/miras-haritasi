@@ -1,18 +1,17 @@
 ---
-title: "Seyitgazi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:19+03:00
+title: "Seyitgazi Çeşmesi"
+date: "2025-12-25T10:48:19+03:00"
 slug: "seyitgazi-cesmesi"
 description: "### Seyitgazi Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4917183,38.7163391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyitgazi Çeşmesi

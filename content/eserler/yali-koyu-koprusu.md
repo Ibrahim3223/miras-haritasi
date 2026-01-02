@@ -1,18 +1,17 @@
 ---
-title: "Yalı Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:34:03+03:00
+title: "Yalı Köyü Köprüsü"
+date: "2025-12-25T02:34:03+03:00"
 slug: "yali-koyu-koprusu"
 description: "**Yalı Köyü Köprüsü**..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.92238,41.037775"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yalı Köyü Köprüsü**

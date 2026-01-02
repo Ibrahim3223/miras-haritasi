@@ -1,18 +1,17 @@
 ---
-title: "Örendibi | Miras Haritası"
-date: 2025-12-25T08:20:16+03:00
+title: "Örendibi"
+date: "2025-12-25T08:20:16+03:00"
 slug: "orendibi"
 description: "## Örendibi Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Örendibi_08.jpg/1200px-Örendibi_08.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.07375,36.581778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Örendibi Arkeolojik Sit

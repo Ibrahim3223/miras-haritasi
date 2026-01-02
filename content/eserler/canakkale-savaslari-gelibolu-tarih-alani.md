@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Savaşları Gelibolu Tarihî Alanı | Miras Haritası"
-date: 2025-12-25T13:38:43+03:00
+title: "Çanakkale Savaşları Gelibolu Tarihî Alanı"
+date: "2025-12-25T13:38:43+03:00"
 slug: "canakkale-savaslari-gelibolu-tarih-alani"
 description: "## Çanakkale Savaşları Gelibolu Tarihî Alanı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.367667,40.170321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale Savaşları Gelibolu Tarihî Alanı

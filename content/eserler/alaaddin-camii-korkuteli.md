@@ -1,18 +1,17 @@
 ---
-title: "Alaaddin Camii, Korkuteli | Miras Haritası"
-date: 2025-12-25T00:02:06+03:00
+title: "Alaaddin Camii, Korkuteli"
+date: "2025-12-25T00:02:06+03:00"
 slug: "alaaddin-camii-korkuteli"
 description: "## Alaaddin Camii, Korkuteli..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Korkuteli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.1697235,37.0818176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaaddin Camii, Korkuteli

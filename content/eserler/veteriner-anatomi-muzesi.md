@@ -1,18 +1,17 @@
 ---
-title: "Veteriner Anatomi Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:55+03:00
+title: "Veteriner Anatomi Müzesi"
+date: "2025-12-25T03:26:55+03:00"
 slug: "veteriner-anatomi-muzesi"
 description: "**Veteriner Anatomi Müzesi**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.862863,39.957814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Veteriner Anatomi Müzesi**

@@ -1,18 +1,17 @@
 ---
-title: "Trapezya | Miras Haritası"
-date: 2025-12-25T06:37:51+03:00
+title: "Trapezya"
+date: "2025-12-25T06:37:51+03:00"
 slug: "trapezya"
 description: "### Gökçeada'daki Trapezya: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "25.9139366,40.1209908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökçeada'daki Trapezya: Bir Arkeolojik Sitin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Behice Naci Yazgan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:29+03:00
+title: "Behice Naci Yazgan Çeşmesi"
+date: "2025-12-25T11:15:29+03:00"
 slug: "behice-naci-yazgan-cesmesi"
 description: "# Behice Naci Yazgan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0487366,40.985508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Behice Naci Yazgan Çeşmesi

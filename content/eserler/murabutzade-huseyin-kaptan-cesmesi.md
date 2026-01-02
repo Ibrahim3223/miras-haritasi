@@ -1,18 +1,17 @@
 ---
-title: "Murabutzade Hüseyin Kaptan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:54:52+03:00
+title: "Murabutzade Hüseyin Kaptan Çeşmesi"
+date: "2025-12-25T12:54:52+03:00"
 slug: "murabutzade-huseyin-kaptan-cesmesi"
 description: "## Murabutzade Hüseyin Kaptan Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.304615,38.3247528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Murabutzade Hüseyin Kaptan Çeşmesi

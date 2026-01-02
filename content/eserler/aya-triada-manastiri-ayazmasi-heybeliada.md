@@ -1,18 +1,17 @@
 ---
-title: "Aya Triada Manastırı Ayazması, Heybeliada | Miras Haritası"
-date: 2025-12-25T12:42:04+03:00
+title: "Aya Triada Manastırı Ayazması, Heybeliada"
+date: "2025-12-25T12:42:04+03:00"
 slug: "aya-triada-manastiri-ayazmasi-heybeliada"
 description: "## Aya Triada Manastırı Ayazması, Heybeliada..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0950146,40.8820114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Triada Manastırı Ayazması, Heybeliada

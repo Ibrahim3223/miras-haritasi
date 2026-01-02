@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Beğdeş Höyüğü | Miras Haritası"
-date: 2025-12-25T06:00:03+03:00
+title: "Aşağı Beğdeş Höyüğü"
+date: "2025-12-25T06:00:03+03:00"
 slug: "asagi-begdes-hoyugu"
 description: "### Aşağı Beğdeş Höyüğü: Şanlıurfa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Akçakale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.920208,36.8146782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşağı Beğdeş Höyüğü: Şanlıurfa'nın Gizli Kahramanı

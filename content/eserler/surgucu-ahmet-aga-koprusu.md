@@ -1,18 +1,17 @@
 ---
-title: "Sürgücü Ahmet Ağa Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:07+03:00
+title: "Sürgücü Ahmet Ağa Köprüsü"
+date: "2025-12-25T02:23:07+03:00"
 slug: "surgucu-ahmet-aga-koprusu"
 description: "## Sürgücü Ahmet Ağa Köprüsü..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Savur"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.7272148,37.5858612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sürgücü Ahmet Ağa Köprüsü

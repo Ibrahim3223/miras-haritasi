@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Yeniköy | Miras Haritası"
-date: 2025-12-25T13:11:11+03:00
+title: "Çeşme, Yeniköy"
+date: "2025-12-25T13:11:11+03:00"
 slug: "cesme-yenikoy"
 description: "## Çeşme, Yeniköy: Sarıyer'in Tarihi Bir Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0681419,41.1206436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Yeniköy: Sarıyer'in Tarihi Bir Kahramanı

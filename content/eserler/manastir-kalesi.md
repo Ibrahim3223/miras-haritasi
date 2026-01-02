@@ -1,18 +1,17 @@
 ---
-title: "Manastır Kalesi | Miras Haritası"
-date: 2025-12-25T01:25:06+03:00
+title: "Manastır Kalesi"
+date: "2025-12-25T01:25:06+03:00"
 slug: "manastir-kalesi"
 description: "## Manastır Kalesi: Gümüşhane'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.1302795,40.5908318"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manastır Kalesi: Gümüşhane'nin Tarihî ve Kültürel Mirası

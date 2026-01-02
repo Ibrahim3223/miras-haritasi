@@ -1,18 +1,17 @@
 ---
-title: "Aziz Nikolas Manastırı | Miras Haritası"
-date: 2025-12-25T09:54:02+03:00
+title: "Aziz Nikolas Manastırı"
+date: "2025-12-25T09:54:02+03:00"
 slug: "aziz-nikolas-manastiri"
 description: "## Aziz Nikolas Manastırı: Ürgüp'te Bir Tarih Ören Yeri..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "34.895396,38.576889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Nikolas Manastırı: Ürgüp'te Bir Tarih Ören Yeri

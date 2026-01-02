@@ -1,18 +1,17 @@
 ---
-title: "Molla Hüsrev Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:50+03:00
+title: "Molla Hüsrev Mahallesi Çeşmesi"
+date: "2025-12-25T11:21:50+03:00"
 slug: "molla-husrev-mahallesi-cesmesi"
 description: "### Molla Hüsrev Mahallesi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Molla Hüsrev"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9609356,41.0146332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Molla Hüsrev Mahallesi Çeşmesi

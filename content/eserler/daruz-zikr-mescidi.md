@@ -1,18 +1,17 @@
 ---
-title: "Darü’z Zikr Mescidi | Miras Haritası"
-date: 2025-12-25T00:07:54+03:00
+title: "Darü’z Zikr Mescidi"
+date: "2025-12-25T00:07:54+03:00"
 slug: "daruz-zikr-mescidi"
 description: "## Darü’z Zikr Mescidi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6774254,37.9676437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darü’z Zikr Mescidi

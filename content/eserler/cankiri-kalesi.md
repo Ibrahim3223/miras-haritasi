@@ -1,18 +1,17 @@
 ---
-title: "Çankırı Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:38+03:00
+title: "Çankırı Kalesi"
+date: "2025-12-25T01:34:38+03:00"
 slug: "cankiri-kalesi"
 description: "### Çankırı Kalesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.614908,40.608479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çankırı Kalesi

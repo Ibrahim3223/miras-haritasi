@@ -1,18 +1,17 @@
 ---
-title: "Makbul İbrahim Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:10:11+03:00
+title: "Makbul İbrahim Paşa Camii"
+date: "2025-12-24T22:10:11+03:00"
 slug: "makbul-ibrahim-pasa-camii"
 description: "### Makbul İbrahim Paşa Camii: Azapkapı'nın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Makbul_İbrahim_Paşa_Camii_(cropped).jpg/1200px-Makbul_İbrahim_Paşa_Camii_(cropped).jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Azapkapı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9715,41.02225"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Makbul İbrahim Paşa Camii: Azapkapı'nın Gizli Çehresi

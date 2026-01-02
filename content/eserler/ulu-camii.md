@@ -1,18 +1,17 @@
 ---
-title: "Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:52:44+03:00
+title: "Ulu Camii"
+date: "2025-12-24T21:52:44+03:00"
 slug: "ulu-camii"
 description: "## Ulu Camii: Diyarbakır'ın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Great_Mosque,_Diyarbakir.jpg/1200px-Great_Mosque,_Diyarbakir.jpg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.235833333,37.912222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ulu Camii: Diyarbakır'ın Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Alaca Mescit Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:58:46+03:00
+title: "Alaca Mescit Çeşmesi"
+date: "2025-12-25T12:58:46+03:00"
 slug: "alaca-mescit-cesmesi"
 description: "## Alaca Mescit Çeşmesi: Tokat'taki Bir Tarihi Çeşmenin Gizemi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "36.544519462,40.316219918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaca Mescit Çeşmesi: Tokat'taki Bir Tarihi Çeşmenin Gizemi

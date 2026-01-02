@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 67 | Miras Haritası"
-date: 2025-12-25T07:32:29+03:00
+title: "Bin Tepeler Tümülüsü 67"
+date: "2025-12-25T07:32:29+03:00"
 slug: "bin-tepeler-tumulusu-67"
 description: "## Bin Tepeler Tümülüsü 67: Manisa'nın Gizli Göllerinin Efsanesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Ahmetli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9455395,38.5566254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bin Tepeler Tümülüsü 67: Manisa'nın Gizli Göllerinin Efsanesi

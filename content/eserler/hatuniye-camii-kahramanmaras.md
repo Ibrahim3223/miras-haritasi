@@ -1,18 +1,17 @@
 ---
-title: "Hatuniye Camii, Kahramanmaraş | Miras Haritası"
-date: 2025-12-24T21:40:33+03:00
+title: "Hatuniye Camii, Kahramanmaraş"
+date: "2025-12-24T21:40:33+03:00"
 slug: "hatuniye-camii-kahramanmaras"
 description: "## Hatuniye Camii, Kahramanmaraş..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.928361111,37.583638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatuniye Camii, Kahramanmaraş

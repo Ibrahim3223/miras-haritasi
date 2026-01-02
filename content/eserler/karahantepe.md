@@ -1,18 +1,17 @@
 ---
-title: "Karahantepe | Miras Haritası"
-date: 2025-12-25T05:48:59+03:00
+title: "Karahantepe"
+date: "2025-12-25T05:48:59+03:00"
 slug: "karahantepe"
 description: "## Karahantepe: Tarihi ve Kültürel Mirasın Tamamlanmamış Kısmı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Karahantepe2.jpg/1200px-Karahantepe2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.3027,37.0916"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karahantepe: Tarihi ve Kültürel Mirasın Tamamlanmamış Kısmı

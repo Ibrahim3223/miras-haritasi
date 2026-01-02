@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs T26 | Miras Haritası"
-date: 2025-12-25T07:58:15+03:00
+title: "Gordion Tümülüs T26"
+date: "2025-12-25T07:58:15+03:00"
 slug: "gordion-tumulus-t26"
 description: "### Gordion Tümülüs T26 Tanıtımı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.997133172,39.650019326"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gordion Tümülüs T26 Tanıtımı

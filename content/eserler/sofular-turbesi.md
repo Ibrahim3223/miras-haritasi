@@ -1,18 +1,17 @@
 ---
-title: "Sofular Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:06+03:00
+title: "Sofular Türbesi"
+date: "2025-12-25T14:50:06+03:00"
 slug: "sofular-turbesi"
 description: "### Sofular Türbesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4608688,40.8786469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sofular Türbesi: Tarihi ve Kültürel Mirasın Bir Parçası

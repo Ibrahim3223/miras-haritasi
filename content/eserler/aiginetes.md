@@ -1,18 +1,17 @@
 ---
-title: "Aiginetes | Miras Haritası"
-date: 2025-12-25T05:39:28+03:00
+title: "Aiginetes"
+date: "2025-12-25T05:39:28+03:00"
 slug: "aiginetes"
 description: "### Aiginetes: Antik Yunanistan'ın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.044074,41.979567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aiginetes: Antik Yunanistan'ın Gizemi

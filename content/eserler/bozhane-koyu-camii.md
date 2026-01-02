@@ -1,18 +1,17 @@
 ---
-title: "Bozhane Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:48:59+03:00
+title: "Bozhane Köyü Camii"
+date: "2025-12-24T22:48:59+03:00"
 slug: "bozhane-koyu-camii"
 description: "**Bozhane Köyü Camii: İstanbul'un Gizli Cenneti**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2718563,41.163681"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bozhane Köyü Camii: İstanbul'un Gizli Cenneti**

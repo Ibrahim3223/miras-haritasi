@@ -1,18 +1,17 @@
 ---
-title: "Archangel Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:08+03:00
+title: "Archangel Manastırı"
+date: "2025-12-25T09:52:08+03:00"
 slug: "archangel-manastiri"
 description: "## Archangel Manastırı: Ürgüp'ün Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "34.94239211,38.514392687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Archangel Manastırı: Ürgüp'ün Gizli Çehresini Keşfetmek

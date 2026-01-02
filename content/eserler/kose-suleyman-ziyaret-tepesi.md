@@ -1,18 +1,17 @@
 ---
-title: "Köse Süleyman Ziyaret Tepesi | Miras Haritası"
-date: 2025-12-25T15:29:33+03:00
+title: "Köse Süleyman Ziyaret Tepesi"
+date: "2025-12-25T15:29:33+03:00"
 slug: "kose-suleyman-ziyaret-tepesi"
 description: "### Köse Süleyman Ziyaret Tepesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Suşehri"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.9718895,40.0774231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köse Süleyman Ziyaret Tepesi

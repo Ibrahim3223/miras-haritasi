@@ -1,18 +1,17 @@
 ---
-title: "Koç Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:06+03:00
+title: "Koç Baba Türbesi"
+date: "2025-12-25T14:19:06+03:00"
 slug: "koc-baba-turbesi"
 description: "## Koç Baba Türbesi: Tarihi ve Kültürel Mirasının İncisi..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.114962,41.079524"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koç Baba Türbesi: Tarihi ve Kültürel Mirasının İncisi

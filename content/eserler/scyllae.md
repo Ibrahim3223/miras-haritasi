@@ -1,18 +1,17 @@
 ---
-title: "Scyllae | Miras Haritası"
-date: 2025-12-25T04:34:00+03:00
+title: "Scyllae"
+date: "2025-12-25T04:34:00+03:00"
 slug: "scyllae"
 description: "## Ege Denizi'ndeki Gizemli Scyllae Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.091144,41.637244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ege Denizi'ndeki Gizemli Scyllae Arkeolojik Sit

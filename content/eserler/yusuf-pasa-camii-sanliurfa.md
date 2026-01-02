@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Paşa Camii, Şanlıurfa | Miras Haritası"
-date: 2025-12-25T01:06:55+03:00
+title: "Yusuf Paşa Camii, Şanlıurfa"
+date: "2025-12-25T01:06:55+03:00"
 slug: "yusuf-pasa-camii-sanliurfa"
 description: "## Yusuf Paşa Camii: Şanlıurfa'nın Tarihi bir Çandır..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7907295,37.1545944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuf Paşa Camii: Şanlıurfa'nın Tarihi bir Çandır

@@ -1,18 +1,17 @@
 ---
-title: "Fikirtepe Höyüğü | Miras Haritası"
-date: 2025-12-25T08:16:43+03:00
+title: "Fikirtepe Höyüğü"
+date: "2025-12-25T08:16:43+03:00"
 slug: "fikirtepe-hoyugu"
 description: "### Fikirtepe Höyüğü: Kadıköy'ün En Eski Tarihi Eseri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0478992,40.9896011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fikirtepe Höyüğü: Kadıköy'ün En Eski Tarihi Eseri

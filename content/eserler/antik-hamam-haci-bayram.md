@@ -1,18 +1,17 @@
 ---
-title: "Antik Hamam, Hacı Bayram | Miras Haritası"
-date: 2025-12-25T17:13:20+03:00
+title: "Antik Hamam, Hacı Bayram"
+date: "2025-12-25T17:13:20+03:00"
 slug: "antik-hamam-haci-bayram"
 description: "## Antik Hamam, Hacı Bayram..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.857028791,39.941544259"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antik Hamam, Hacı Bayram

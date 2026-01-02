@@ -1,18 +1,17 @@
 ---
-title: "Ayridzor Monastery | Miras Haritası"
-date: 2025-12-25T09:49:38+03:00
+title: "Ayridzor Monastery"
+date: "2025-12-25T09:49:38+03:00"
 slug: "ayridzor-monastery"
 description: "### Ayridzor Manastırı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayridzor Manastırı

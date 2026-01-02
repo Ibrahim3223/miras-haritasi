@@ -1,18 +1,17 @@
 ---
-title: "Kanlıca Höyük | Miras Haritası"
-date: 2025-12-25T06:17:14+03:00
+title: "Kanlıca Höyük"
+date: "2025-12-25T06:17:14+03:00"
 slug: "kanlica-hoyuk"
 description: "# Kanlıca Höyük: Türkiye'nin Eski Uygarlığının Gizli Yerleri..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yenifakılı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.9336991,39.256829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kanlıca Höyük: Türkiye'nin Eski Uygarlığının Gizli Yerleri

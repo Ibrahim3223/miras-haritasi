@@ -1,18 +1,17 @@
 ---
-title: "Muradiye Hacı Rıfat Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:11+03:00
+title: "Muradiye Hacı Rıfat Köprüsü"
+date: "2025-12-25T02:08:11+03:00"
 slug: "muradiye-haci-rifat-koprusu"
 description: "## Muradiye Hacı Rıfat Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.546633,40.9458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muradiye Hacı Rıfat Köprüsü

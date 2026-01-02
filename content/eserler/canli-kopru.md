@@ -1,18 +1,17 @@
 ---
-title: "Çanlı Köprü | Miras Haritası"
-date: 2025-12-25T01:54:32+03:00
+title: "Çanlı Köprü"
+date: "2025-12-25T01:54:32+03:00"
 slug: "canli-kopru"
 description: "### Çanlı Köprü Tanıtım Yazısı..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.45283,38.63636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çanlı Köprü Tanıtım Yazısı

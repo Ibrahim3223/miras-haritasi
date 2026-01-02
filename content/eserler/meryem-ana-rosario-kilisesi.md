@@ -1,18 +1,17 @@
 ---
-title: "Meryem Ana Rosario Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:56+03:00
+title: "Meryem Ana Rosario Kilisesi"
+date: "2025-12-25T09:25:56+03:00"
 slug: "meryem-ana-rosario-kilisesi"
 description: "## Meryem Ana Rosario Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.8795986,40.9770279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meryem Ana Rosario Kilisesi

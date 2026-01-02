@@ -1,18 +1,17 @@
 ---
-title: "Uzuncaburç | Miras Haritası"
-date: 2025-12-25T04:39:57+03:00
+title: "Uzuncaburç"
+date: "2025-12-25T04:39:57+03:00"
 slug: "uzuncaburc"
 description: "**Uzuncaburç: Silifke'nin Gizli Pearli**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/57608567_-_panoramio.jpg/1200px-57608567_-_panoramio.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9247942,36.5805223"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Uzuncaburç: Silifke'nin Gizli Pearli**

@@ -1,18 +1,17 @@
 ---
-title: "Dikmen Höyüğü | Miras Haritası"
-date: 2025-12-25T06:44:11+03:00
+title: "Dikmen Höyüğü"
+date: "2025-12-25T06:44:11+03:00"
 slug: "dikmen-hoyugu"
 description: "# Dikmen Höyüğü..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Ulukışla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6824003,37.6911157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dikmen Höyüğü

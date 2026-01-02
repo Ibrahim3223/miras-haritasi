@@ -1,18 +1,17 @@
 ---
-title: "Kale Mescidi | Miras Haritası"
-date: 2025-12-24T23:34:35+03:00
+title: "Kale Mescidi"
+date: "2025-12-24T23:34:35+03:00"
 slug: "kale-mescidi"
 description: "### Kale Mescidi: Erzurum'un Tarihi Bir Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Erzurum_Citadel_Mosque_DSCF4128.jpg/1200px-Erzurum_Citadel_Mosque_DSCF4128.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.276783,39.9075546"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kale Mescidi: Erzurum'un Tarihi Bir Örneği

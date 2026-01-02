@@ -1,18 +1,17 @@
 ---
-title: "Callistratia | Miras Haritası"
-date: 2025-12-25T05:40:07+03:00
+title: "Callistratia"
+date: "2025-12-25T05:40:07+03:00"
 slug: "callistratia"
 description: "## Callistratia: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.405624,42.002968"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Callistratia: Antik Çağın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Aytepe Höyüğü Kavak | Miras Haritası"
-date: 2025-12-25T05:52:23+03:00
+title: "Aytepe Höyüğü Kavak"
+date: "2025-12-25T05:52:23+03:00"
 slug: "aytepe-hoyugu-kavak"
 description: "## Aytepe Höyüğü Kavak: Samsun'un Gizli Hazinesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.9771652,41.0583725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aytepe Höyüğü Kavak: Samsun'un Gizli Hazinesi

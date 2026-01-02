@@ -1,18 +1,17 @@
 ---
-title: "Kocayazı Kula Yolu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:44:50+03:00
+title: "Kocayazı Kula Yolu Tümülüsü"
+date: "2025-12-25T07:44:50+03:00"
 slug: "kocayazi-kula-yolu-tumulusu"
 description: "# Kocayazı Kula Yolu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.217865,41.9736938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kocayazı Kula Yolu Tümülüsü

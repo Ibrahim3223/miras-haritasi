@@ -1,18 +1,17 @@
 ---
-title: "Sineperver Valide Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:09:04+03:00
+title: "Sineperver Valide Sultan Çeşmesi"
+date: "2025-12-25T10:09:04+03:00"
 slug: "sineperver-valide-sultan-cesmesi"
 description: "## Sineperver Valide Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sineperver_Valide_Sultan_Fountain,_Fatih.jpg/1200px-Sineperver_Valide_Sultan_Fountain,_Fatih.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.941252,41.023111805"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sineperver Valide Sultan Çeşmesi

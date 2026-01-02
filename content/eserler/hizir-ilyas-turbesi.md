@@ -1,18 +1,17 @@
 ---
-title: "Hızır İlyas Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:23+03:00
+title: "Hızır İlyas Türbesi"
+date: "2025-12-25T15:32:23+03:00"
 slug: "hizir-ilyas-turbesi"
 description: "## Hızır İlyas Türbesi: Kayseri'nin Gizli Olanı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.492397372,38.353701601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hızır İlyas Türbesi: Kayseri'nin Gizli Olanı

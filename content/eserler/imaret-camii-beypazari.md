@@ -1,18 +1,17 @@
 ---
-title: "İmaret Camii, Beypazarı | Miras Haritası"
-date: 2025-12-24T23:54:18+03:00
+title: "İmaret Camii, Beypazarı"
+date: "2025-12-24T23:54:18+03:00"
 slug: "imaret-camii-beypazari"
 description: "**İmaret Camii - Beypazarı**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9212208,40.1701775"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İmaret Camii - Beypazarı**

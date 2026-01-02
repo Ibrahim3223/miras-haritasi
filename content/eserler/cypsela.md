@@ -1,18 +1,17 @@
 ---
-title: "Cypsela | Miras Haritası"
-date: 2025-12-25T04:23:43+03:00
+title: "Cypsela"
+date: "2025-12-25T04:23:43+03:00"
 slug: "cypsela"
 description: "## Cypsela: İpsala'nın Gizemi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.392051,40.924513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cypsela: İpsala'nın Gizemi

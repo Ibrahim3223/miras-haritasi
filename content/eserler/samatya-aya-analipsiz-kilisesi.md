@@ -1,18 +1,17 @@
 ---
-title: "Samatya Aya Analipsiz Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:26+03:00
+title: "Samatya Aya Analipsiz Kilisesi"
+date: "2025-12-25T08:51:26+03:00"
 slug: "samatya-aya-analipsiz-kilisesi"
 description: "**Samatya Aya Analipsiz Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Samatya_Aya_Analipsiz_Kilisesi2.jpg/1200px-Samatya_Aya_Analipsiz_Kilisesi2.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.93194444,40.99916667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Samatya Aya Analipsiz Kilisesi**

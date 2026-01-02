@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Gürcü Kapı (Aliağa) Camii | Miras Haritası"
-date: 2025-12-24T21:46:04+03:00
+title: "Erzurum Gürcü Kapı (Aliağa) Camii"
+date: "2025-12-24T21:46:04+03:00"
 slug: "erzurum-gurcu-kapi-aliaga-camii"
 description: "# Erzurum Gürcü Kapı (Aliağa) Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Erzurum_Gürcükapı_Camii.jpg/1200px-Erzurum_Gürcükapı_Camii.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.273944444,39.911111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Erzurum Gürcü Kapı (Aliağa) Camii

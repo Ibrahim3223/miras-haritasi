@@ -1,18 +1,17 @@
 ---
-title: "Dizdariye Camii | Miras Haritası"
-date: 2025-12-24T22:51:04+03:00
+title: "Dizdariye Camii"
+date: "2025-12-24T22:51:04+03:00"
 slug: "dizdariye-camii"
 description: "## Dizdariye Camii: İstanbul'un Gizli Çehresinde Bir Azizlik..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.971833,41.006122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dizdariye Camii: İstanbul'un Gizli Çehresinde Bir Azizlik

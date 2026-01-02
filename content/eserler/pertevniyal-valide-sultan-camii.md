@@ -1,18 +1,17 @@
 ---
-title: "Pertevniyal Valide Sultan Camii | Miras Haritası"
-date: 2025-12-24T21:52:12+03:00
+title: "Pertevniyal Valide Sultan Camii"
+date: "2025-12-24T21:52:12+03:00"
 slug: "pertevniyal-valide-sultan-camii"
 description: "# Pertevniyal Valide Sultan Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Istanbul_asv2021-11_img28_Aksaray_PVS_Mosque.jpg/1200px-Istanbul_asv2021-11_img28_Aksaray_PVS_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.953055555,41.01"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Pertevniyal Valide Sultan Camii: İstanbul'un Gizli Cenneti

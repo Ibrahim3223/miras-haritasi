@@ -1,18 +1,17 @@
 ---
-title: "Aziz İoannis Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:07+03:00
+title: "Aziz İoannis Kilisesi"
+date: "2025-12-25T09:39:07+03:00"
 slug: "aziz-ioannis-kilisesi"
 description: "## Aziz İoannis Kilisesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.6866741,41.2714615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz İoannis Kilisesi

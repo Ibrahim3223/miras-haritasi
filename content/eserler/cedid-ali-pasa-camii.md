@@ -1,18 +1,17 @@
 ---
-title: "Cedid Ali Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:48:43+03:00
+title: "Cedid Ali Paşa Camii"
+date: "2025-12-24T22:48:43+03:00"
 slug: "cedid-ali-pasa-camii"
 description: "### Cedid Ali Paşa Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "İslambey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.930648,41.045819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cedid Ali Paşa Camii: İstanbul'un Gizli Çeşmesi

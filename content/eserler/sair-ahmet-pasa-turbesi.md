@@ -1,18 +1,17 @@
 ---
-title: "Şair Ahmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:16+03:00
+title: "Şair Ahmet Paşa Türbesi"
+date: "2025-12-25T15:21:16+03:00"
 slug: "sair-ahmet-pasa-turbesi"
 description: "## Şair Ahmet Paşa Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0460014,40.1917534"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şair Ahmet Paşa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Mihrişah Valide Sultan Çeşmesi, Yıldız | Miras Haritası"
-date: 2025-12-25T12:45:02+03:00
+title: "Mihrişah Valide Sultan Çeşmesi, Yıldız"
+date: "2025-12-25T12:45:02+03:00"
 slug: "mihrisah-valide-sultan-cesmesi-yildiz"
 description: "## Mihrişah Valide Sultan Çeşmesi: Yıldız'taki bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mihrişah_Valide_Sultan_Çeşmesi,_Yıldız_IMG_9514.jpg/1200px-Mihrişah_Valide_Sultan_Çeşmesi,_Yıldız_IMG_9514.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0114517,41.0443039"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi: Yıldız'taki bir Anıt

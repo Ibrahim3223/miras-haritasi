@@ -1,18 +1,17 @@
 ---
-title: "Hacı Salih Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:40+03:00
+title: "Hacı Salih Paşa Çeşmesi"
+date: "2025-12-25T13:01:40+03:00"
 slug: "haci-salih-pasa-cesmesi"
 description: "### Hacı Salih Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hacı_Salih_Paşa_Çeşmesi_IMG_1298.jpg/1200px-Hacı_Salih_Paşa_Çeşmesi_IMG_1298.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.056893,41.169411"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hacı Salih Paşa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Boğa heykelleri, Büyükada | Miras Haritası"
-date: 2025-12-25T15:42:54+03:00
+title: "Boğa heykelleri, Büyükada"
+date: "2025-12-25T15:42:54+03:00"
 slug: "boga-heykelleri-buyukada"
 description: "## Boğa Heykelleri, Büyükada..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1323643,40.8734169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boğa Heykelleri, Büyükada

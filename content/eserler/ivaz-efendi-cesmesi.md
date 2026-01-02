@@ -1,18 +1,17 @@
 ---
-title: "İvaz Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:37:28+03:00
+title: "İvaz Efendi Çeşmesi"
+date: "2025-12-25T10:37:28+03:00"
 slug: "ivaz-efendi-cesmesi"
 description: "## İvaz Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/İvaz_Efendi_Çeşmesi_01.jpg/1200px-İvaz_Efendi_Çeşmesi_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.94116,41.03788"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İvaz Efendi Çeşmesi

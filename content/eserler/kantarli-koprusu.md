@@ -1,18 +1,17 @@
 ---
-title: "Kantarlı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:02:39+03:00
+title: "Kantarlı Köprüsü"
+date: "2025-12-25T02:02:39+03:00"
 slug: "kantarli-koprusu"
 description: "### Kantarlı Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Hemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.881,40.9961833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kantarlı Köprüsü

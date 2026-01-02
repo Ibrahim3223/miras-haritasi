@@ -1,18 +1,17 @@
 ---
-title: "Refah Şehitleri Anıtı | Miras Haritası"
-date: 2025-12-25T15:42:05+03:00
+title: "Refah Şehitleri Anıtı"
+date: "2025-12-25T15:42:05+03:00"
 slug: "refah-sehitleri-aniti"
 description: "## Refah Şehitleri Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Refah_Şehitleri_Anıtı_2007-12-24.jpg/1200px-Refah_Şehitleri_Anıtı_2007-12-24.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6286469,36.7938347"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Refah Şehitleri Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Haraççı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:38:20+03:00
+title: "Haraççı Çeşmesi"
+date: "2025-12-25T10:38:20+03:00"
 slug: "haracci-cesmesi"
 description: "## Haraççı Çeşmesi: Fatih'te Bir Tarihi Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Haraççı_Çeşmesi,_Cibali_03.jpg/1200px-Haraççı_Çeşmesi,_Cibali_03.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.96017,41.02334"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Haraççı Çeşmesi: Fatih'te Bir Tarihi Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Demirdöğen Cabirget Camii | Miras Haritası"
-date: 2025-12-25T01:04:09+03:00
+title: "Demirdöğen Cabirget Camii"
+date: "2025-12-25T01:04:09+03:00"
 slug: "demirdogen-cabirget-camii"
 description: "## Demirdöğen Cabirget Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.340437,40.911292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirdöğen Cabirget Camii

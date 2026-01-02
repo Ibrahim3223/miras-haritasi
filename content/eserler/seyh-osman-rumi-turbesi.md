@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Osman Rumi Türbesi | Miras Haritası"
-date: 2025-12-25T13:54:40+03:00
+title: "Şeyh Osman Rumi Türbesi"
+date: "2025-12-25T13:54:40+03:00"
 slug: "seyh-osman-rumi-turbesi"
 description: "## Şeyh Osman Rumi Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4933052,37.8687897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Osman Rumi Türbesi

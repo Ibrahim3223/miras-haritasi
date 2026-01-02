@@ -1,18 +1,17 @@
 ---
-title: "Sambaktys | Miras Haritası"
-date: 2025-12-25T04:58:06+03:00
+title: "Sambaktys"
+date: "2025-12-25T04:58:06+03:00"
 slug: "sambaktys"
 description: "## Sambaktys Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sambaktys Arkeolojik Sit

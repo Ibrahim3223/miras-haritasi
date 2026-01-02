@@ -1,18 +1,17 @@
 ---
-title: "Ayazağa Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:46:18+03:00
+title: "Ayazağa Köyü Camii"
+date: "2025-12-24T22:46:18+03:00"
 slug: "ayazaga-koyu-camii"
 description: "### Ayazağa Köyü Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9985065,41.1160126"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayazağa Köyü Camii

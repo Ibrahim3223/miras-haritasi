@@ -1,18 +1,17 @@
 ---
-title: "Hacıkadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:47:48+03:00
+title: "Hacıkadın Çeşmesi"
+date: "2025-12-25T10:47:48+03:00"
 slug: "hacikadin-cesmesi"
 description: "### Hacıkadın Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7713852,41.3775444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacıkadın Çeşmesi

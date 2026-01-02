@@ -1,18 +1,17 @@
 ---
-title: "Uluburun batığı | Miras Haritası"
-date: 2025-12-25T06:48:58+03:00
+title: "Uluburun batığı"
+date: "2025-12-25T06:48:58+03:00"
 slug: "uluburun-batigi"
 description: "**Uluburun Batığı: Antik Çağın En Eski Denizcilik Örneği**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Uluburun1.jpg/1200px-Uluburun1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.685833333,36.128611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Uluburun Batığı: Antik Çağın En Eski Denizcilik Örneği**

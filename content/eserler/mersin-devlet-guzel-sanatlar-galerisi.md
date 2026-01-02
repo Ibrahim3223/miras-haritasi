@@ -1,18 +1,17 @@
 ---
-title: "Mersin Devlet Güzel Sanatlar Galerisi | Miras Haritası"
-date: 2025-12-25T04:11:27+03:00
+title: "Mersin Devlet Güzel Sanatlar Galerisi"
+date: "2025-12-25T04:11:27+03:00"
 slug: "mersin-devlet-guzel-sanatlar-galerisi"
 description: "## Mersin Devlet Güzel Sanatlar Galerisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mersin_Art_and_Sculpture_Museum.jpg/1200px-Mersin_Art_and_Sculpture_Museum.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mersin"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.6297,36.7989"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mersin Devlet Güzel Sanatlar Galerisi

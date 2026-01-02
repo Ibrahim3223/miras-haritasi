@@ -1,18 +1,17 @@
 ---
-title: "Limnae | Miras Haritası"
-date: 2025-12-25T04:46:58+03:00
+title: "Limnae"
+date: "2025-12-25T04:46:58+03:00"
 slug: "limnae"
 description: "## Limnae: Altınova'daki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Altınova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.502079,40.721716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Limnae: Altınova'daki Gizemli Arkeolojik Sit

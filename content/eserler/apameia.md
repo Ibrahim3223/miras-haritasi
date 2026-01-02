@@ -1,18 +1,17 @@
 ---
-title: "Apameia | Miras Haritası"
-date: 2025-12-25T04:19:23+03:00
+title: "Apameia"
+date: "2025-12-25T04:19:23+03:00"
 slug: "apameia"
 description: "## Apameia: Şanlıurfa'nın Gizli Şehri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zeugma.jpg/1200px-Zeugma.jpg"
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Şanlıurfa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.883611111,37.066666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Apameia: Şanlıurfa'nın Gizli Şehri

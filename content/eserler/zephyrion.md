@@ -1,18 +1,17 @@
 ---
-title: "Zephyrion | Miras Haritası"
-date: 2025-12-25T08:32:46+03:00
+title: "Zephyrion"
+date: "2025-12-25T08:32:46+03:00"
 slug: "zephyrion"
 description: "### Zephyrion: Akdeniz'in Gizli Harikası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6258392,36.7949371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zephyrion: Akdeniz'in Gizli Harikası

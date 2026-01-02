@@ -1,18 +1,17 @@
 ---
-title: "Tirit Baba Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:19+03:00
+title: "Tirit Baba Çeşmesi"
+date: "2025-12-25T11:42:19+03:00"
 slug: "tirit-baba-cesmesi"
 description: "## Tirit Baba Çeşmesi: Edirne'nin Tarihi Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.5649929,41.6835403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tirit Baba Çeşmesi: Edirne'nin Tarihi Çeşmesi

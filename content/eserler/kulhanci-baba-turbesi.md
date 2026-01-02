@@ -1,18 +1,17 @@
 ---
-title: "Külhancı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:47+03:00
+title: "Külhancı Baba Türbesi"
+date: "2025-12-25T15:21:47+03:00"
 slug: "kulhanci-baba-turbesi"
 description: "# Külhancı Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2724075,39.9033508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Külhancı Baba Türbesi

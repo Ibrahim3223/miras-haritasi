@@ -1,18 +1,17 @@
 ---
-title: "Ertuğrul Camii, Torbalı | Miras Haritası"
-date: 2025-12-24T23:18:36+03:00
+title: "Ertuğrul Camii, Torbalı"
+date: "2025-12-24T23:18:36+03:00"
 slug: "ertugrul-camii-torbali"
 description: "### Ertuğrul Camii, Torbalı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3603935,38.1552925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ertuğrul Camii, Torbalı

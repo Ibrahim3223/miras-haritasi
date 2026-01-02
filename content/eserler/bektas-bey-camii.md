@@ -1,18 +1,17 @@
 ---
-title: "Bektaş Bey Camii | Miras Haritası"
-date: 2025-12-24T22:24:46+03:00
+title: "Bektaş Bey Camii"
+date: "2025-12-24T22:24:46+03:00"
 slug: "bektas-bey-camii"
 description: "## Bektaş Bey Camii..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çamoluk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.5546837,40.1396713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bektaş Bey Camii

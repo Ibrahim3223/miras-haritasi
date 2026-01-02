@@ -1,18 +1,17 @@
 ---
-title: "Koyun Köprü | Miras Haritası"
-date: 2025-12-25T02:30:50+03:00
+title: "Koyun Köprü"
+date: "2025-12-25T02:30:50+03:00"
 slug: "koyun-kopru"
 description: "# Koyun Köprü: Bergama'nın Efsanevi Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.2359352,39.1175346"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Koyun Köprü: Bergama'nın Efsanevi Köprüsü

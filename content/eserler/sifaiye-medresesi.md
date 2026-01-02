@@ -1,18 +1,17 @@
 ---
-title: "Şifaiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:36+03:00
+title: "Şifaiye Medresesi"
+date: "2025-12-25T17:24:36+03:00"
 slug: "sifaiye-medresesi"
 description: "### Şifaiye Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sivas_Şifaiye_Medrese_8282.jpg/1200px-Sivas_Şifaiye_Medrese_8282.jpg"
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "37.014871,39.74842"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Şifaiye Medresesi

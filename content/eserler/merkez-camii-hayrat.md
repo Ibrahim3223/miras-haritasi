@@ -1,18 +1,17 @@
 ---
-title: "Merkez Camii Hayrat | Miras Haritası"
-date: 2025-12-24T23:58:24+03:00
+title: "Merkez Camii Hayrat"
+date: "2025-12-24T23:58:24+03:00"
 slug: "merkez-camii-hayrat"
 description: "## Merkez Camii Hayrat..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Hayrat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.391108,40.872907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merkez Camii Hayrat

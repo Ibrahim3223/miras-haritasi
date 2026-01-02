@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Hacıahmet | Miras Haritası"
-date: 2025-12-25T12:57:00+03:00
+title: "Çeşme, Hacıahmet"
+date: "2025-12-25T12:57:00+03:00"
 slug: "cesme-haciahmet"
 description: "## Hacıahmet Çeşmesi: Beyoğlu'ndaki Gizli Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9725914,41.04216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıahmet Çeşmesi: Beyoğlu'ndaki Gizli Çeşme

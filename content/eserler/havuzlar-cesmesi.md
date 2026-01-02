@@ -1,18 +1,17 @@
 ---
-title: "Havuzlar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:50+03:00
+title: "Havuzlar Çeşmesi"
+date: "2025-12-25T10:18:50+03:00"
 slug: "havuzlar-cesmesi"
 description: "## Havuzlar Çeşmesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3559799,40.1324196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlar Çeşmesi

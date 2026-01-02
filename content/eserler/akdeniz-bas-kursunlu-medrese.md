@@ -1,18 +1,17 @@
 ---
-title: "Akdeniz Baş Kurşunlu Medrese | Miras Haritası"
-date: 2025-12-25T17:39:04+03:00
+title: "Akdeniz Baş Kurşunlu Medrese"
+date: "2025-12-25T17:39:04+03:00"
 slug: "akdeniz-bas-kursunlu-medrese"
 description: "## Akdeniz Baş Kurşunlu Medrese..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9490929,41.0184784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akdeniz Baş Kurşunlu Medrese

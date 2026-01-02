@@ -1,18 +1,17 @@
 ---
-title: "Selman Kalesi | Miras Haritası"
-date: 2025-12-25T01:19:23+03:00
+title: "Selman Kalesi"
+date: "2025-12-25T01:19:23+03:00"
 slug: "selman-kalesi"
 description: "## Selman Kalesi: Diyarbakır'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Eğil"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.1753426,38.1716347"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selman Kalesi: Diyarbakır'ın Gizli Zirvesi

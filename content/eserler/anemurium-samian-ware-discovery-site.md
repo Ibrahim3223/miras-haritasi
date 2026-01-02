@@ -1,18 +1,17 @@
 ---
-title: "Anemurium (Samian Ware Discovery Site) | Miras Haritası"
-date: 2025-12-25T05:30:08+03:00
+title: "Anemurium (Samian Ware Discovery Site)"
+date: "2025-12-25T05:30:08+03:00"
 slug: "anemurium-samian-ware-discovery-site"
 description: "# Anemurium: Samian Ware Discovery Site..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.82,36.1"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Anemurium: Samian Ware Discovery Site

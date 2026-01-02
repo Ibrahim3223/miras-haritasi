@@ -1,18 +1,17 @@
 ---
-title: "Iasos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:21:40+03:00
+title: "Iasos Antik Tiyatrosu"
+date: "2025-12-25T16:21:40+03:00"
 slug: "iasos-antik-tiyatrosu"
 description: "## Iasos Antik Tiyatrosu Tanıtımı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "27.586174,37.277971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Iasos Antik Tiyatrosu Tanıtımı

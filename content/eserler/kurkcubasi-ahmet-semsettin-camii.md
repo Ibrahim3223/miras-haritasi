@@ -1,18 +1,17 @@
 ---
-title: "Kürkçübaşı Ahmet Şemsettin Camii | Miras Haritası"
-date: 2025-12-24T21:38:32+03:00
+title: "Kürkçübaşı Ahmet Şemsettin Camii"
+date: "2025-12-24T21:38:32+03:00"
 slug: "kurkcubasi-ahmet-semsettin-camii"
 description: "## Kürkçübaşı Ahmet Şemsettin Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kürkçübaşı_Ahmed_Şemseddin_mosque_2015_0017.jpg/1200px-Kürkçübaşı_Ahmed_Şemseddin_mosque_2015_0017.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Topkapı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.92825,41.018611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kürkçübaşı Ahmet Şemsettin Camii: Tarihi ve Kültürel Mirasımız

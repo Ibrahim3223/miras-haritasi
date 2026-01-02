@@ -1,18 +1,17 @@
 ---
-title: "Beudos | Miras Haritası"
-date: 2025-12-25T05:02:20+03:00
+title: "Beudos"
+date: "2025-12-25T05:02:20+03:00"
 slug: "beudos"
 description: "## Beudos: Bir Efsaneye Ev Sahipliği Yapan Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.642464,38.547839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beudos: Bir Efsaneye Ev Sahipliği Yapan Arkeolojik Sit

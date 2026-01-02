@@ -1,18 +1,17 @@
 ---
-title: "Bozıkan Kalesi, Sason | Miras Haritası"
-date: 2025-12-25T01:36:16+03:00
+title: "Bozıkan Kalesi, Sason"
+date: "2025-12-25T01:36:16+03:00"
 slug: "bozikan-kalesi-sason"
 description: "## Bozıkan Kalesi: Sason'un Tarihsel Gizemi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.4544436,38.4706467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozıkan Kalesi: Sason'un Tarihsel Gizemi

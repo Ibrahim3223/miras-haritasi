@@ -1,18 +1,17 @@
 ---
-title: "Aya Paraskevi Kilisesi (Tarabya) | Miras Haritası"
-date: 2025-12-25T09:00:05+03:00
+title: "Aya Paraskevi Kilisesi (Tarabya)"
+date: "2025-12-25T09:00:05+03:00"
 slug: "aya-paraskevi-kilisesi-tarabya"
 description: "## Aya Paraskevi Kilisesi: Tarabya'da Bir İkon..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.056416666,41.136861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Paraskevi Kilisesi: Tarabya'da Bir İkon

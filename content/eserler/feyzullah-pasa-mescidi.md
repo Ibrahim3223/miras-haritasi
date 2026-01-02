@@ -1,18 +1,17 @@
 ---
-title: "Feyzullah Paşa Mescidi | Miras Haritası"
-date: 2025-12-25T00:11:13+03:00
+title: "Feyzullah Paşa Mescidi"
+date: "2025-12-25T00:11:13+03:00"
 slug: "feyzullah-pasa-mescidi"
 description: "# Feyzullah Paşa Mescidi: Bursa'da Bir Tarihî Şans..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Feyzullah_Paşa_Mescidi,_Yıldırım,_Bursa.jpg/1200px-Feyzullah_Paşa_Mescidi,_Yıldırım,_Bursa.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0793362,40.1822815"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Feyzullah Paşa Mescidi: Bursa'da Bir Tarihî Şans

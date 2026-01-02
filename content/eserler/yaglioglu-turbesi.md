@@ -1,18 +1,17 @@
 ---
-title: "Yağlıoğlu Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:48+03:00
+title: "Yağlıoğlu Türbesi"
+date: "2025-12-25T14:57:48+03:00"
 slug: "yaglioglu-turbesi"
 description: "## Yağlıoğlu Türbesi: Tarihî Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7464657,38.0914383"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yağlıoğlu Türbesi: Tarihî Bir Anıtın Öyküsü

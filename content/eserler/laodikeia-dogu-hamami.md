@@ -1,18 +1,17 @@
 ---
-title: "Laodikeia Doğu Hamamı | Miras Haritası"
-date: 2025-12-25T16:54:08+03:00
+title: "Laodikeia Doğu Hamamı"
+date: "2025-12-25T16:54:08+03:00"
 slug: "laodikeia-dogu-hamami"
 description: "### Laodikeia Doğu Hamamı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.1133842,37.8345642"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Laodikeia Doğu Hamamı

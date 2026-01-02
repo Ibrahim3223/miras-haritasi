@@ -1,18 +1,17 @@
 ---
-title: "Kalecik Kalesi, Araklı | Miras Haritası"
-date: 2025-12-25T01:41:33+03:00
+title: "Kalecik Kalesi, Araklı"
+date: "2025-12-25T01:41:33+03:00"
 slug: "kalecik-kalesi-arakli"
 description: "## Kalecik Kalesi: Araklı'nın Tarihî Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Araklı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.0284996,40.9584007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalecik Kalesi: Araklı'nın Tarihî Mirası

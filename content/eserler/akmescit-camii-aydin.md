@@ -1,18 +1,17 @@
 ---
-title: "Akmescit Camii, Aydın | Miras Haritası"
-date: 2025-12-25T01:07:17+03:00
+title: "Akmescit Camii, Aydın"
+date: "2025-12-25T01:07:17+03:00"
 slug: "akmescit-camii-aydin"
 description: "## Akmescit Camii, Aydın: Tarih, Mimari Özellikler ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8488178,37.8458328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akmescit Camii, Aydın: Tarih, Mimari Özellikler ve Ziyaret Bilgileri

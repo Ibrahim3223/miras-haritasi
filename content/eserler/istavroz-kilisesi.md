@@ -1,18 +1,17 @@
 ---
-title: "İstavroz Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:48+03:00
+title: "İstavroz Kilisesi"
+date: "2025-12-25T09:34:48+03:00"
 slug: "istavroz-kilisesi"
 description: "### İstavroz Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0435257,41.043499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İstavroz Kilisesi

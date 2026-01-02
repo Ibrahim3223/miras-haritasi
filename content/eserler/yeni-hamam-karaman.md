@@ -1,18 +1,17 @@
 ---
-title: "Yeni Hamam, Karaman | Miras Haritası"
-date: 2025-12-25T17:14:16+03:00
+title: "Yeni Hamam, Karaman"
+date: "2025-12-25T17:14:16+03:00"
 slug: "yeni-hamam-karaman"
 description: "**Yeni Hamam, Karaman**..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.218894705,37.178896141"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yeni Hamam, Karaman**

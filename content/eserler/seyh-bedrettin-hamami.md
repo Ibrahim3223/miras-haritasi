@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Bedrettin Hamamı | Miras Haritası"
-date: 2025-12-25T17:14:48+03:00
+title: "Şeyh Bedrettin Hamamı"
+date: "2025-12-25T17:14:48+03:00"
 slug: "seyh-bedrettin-hamami"
 description: "## Şeyh Bedrettin Hamamı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "İvrindi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.487544677,39.582936583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Bedrettin Hamamı

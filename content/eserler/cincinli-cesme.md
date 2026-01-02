@@ -1,18 +1,17 @@
 ---
-title: "Çınçınlı Çeşme | Miras Haritası"
-date: 2025-12-25T10:36:57+03:00
+title: "Çınçınlı Çeşme"
+date: "2025-12-25T10:36:57+03:00"
 slug: "cincinli-cesme"
 description: "## Çınçınlı Çeşme: İstanbul'un Tarihi Bir Simgesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Çınçınlı_Çeşme_02.jpg/1200px-Çınçınlı_Çeşme_02.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.944101695,41.035243643"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çınçınlı Çeşme: İstanbul'un Tarihi Bir Simgesi

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Alaçatı | Miras Haritası"
-date: 2025-12-25T02:52:22+03:00
+title: "Roma Köprüsü, Alaçatı"
+date: "2025-12-25T02:52:22+03:00"
 slug: "roma-koprusu-alacati"
 description: "## Roma Köprüsü, Alaçatı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.39793,38.275639"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Alaçatı

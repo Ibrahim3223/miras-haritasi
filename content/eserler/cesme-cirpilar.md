@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Çırpılar | Miras Haritası"
-date: 2025-12-25T12:59:34+03:00
+title: "Çeşme, Çırpılar"
+date: "2025-12-25T12:59:34+03:00"
 slug: "cesme-cirpilar"
 description: "## Çeşme, Çırpılar: Bir Çanakkale Efsanesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.84824234,39.808158346"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Çırpılar: Bir Çanakkale Efsanesi

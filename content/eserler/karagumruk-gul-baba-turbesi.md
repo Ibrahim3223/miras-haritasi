@@ -1,18 +1,17 @@
 ---
-title: "Karagümrük Gül Baba Türbesi | Miras Haritası"
-date: 2025-12-25T13:23:41+03:00
+title: "Karagümrük Gül Baba Türbesi"
+date: "2025-12-25T13:23:41+03:00"
 slug: "karagumruk-gul-baba-turbesi"
 description: "## Karagümrük Gül Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Karagümrük_Gül_Baba_Türbesi_01.jpg/1200px-Karagümrük_Gül_Baba_Türbesi_01.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Karagümrük"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.93639,41.024881"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karagümrük Gül Baba Türbesi

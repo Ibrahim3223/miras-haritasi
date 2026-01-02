@@ -1,18 +1,17 @@
 ---
-title: "Araban Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:46+03:00
+title: "Araban Kalesi"
+date: "2025-12-25T01:34:46+03:00"
 slug: "araban-kalesi"
 description: "## Araban Kalesi: Gaziantep'in Gizli Şehri..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Araban"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.694639,37.425891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Araban Kalesi: Gaziantep'in Gizli Şehri

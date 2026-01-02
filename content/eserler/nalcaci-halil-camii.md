@@ -1,18 +1,17 @@
 ---
-title: "Nalçacı Halil Camii | Miras Haritası"
-date: 2025-12-24T21:48:30+03:00
+title: "Nalçacı Halil Camii"
+date: "2025-12-24T21:48:30+03:00"
 slug: "nalcaci-halil-camii"
 description: "## Nalçacı Halil Camii: Üsküdar'ın Tarihi Bir Çağına Tanıklık Eden Mimari Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nalçacı_Halil_Camii.jpg/1200px-Nalçacı_Halil_Camii.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Zeynep Kamil"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.019861111,41.016472222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nalçacı Halil Camii: Üsküdar'ın Tarihi Bir Çağına Tanıklık Eden Mimari Harikası

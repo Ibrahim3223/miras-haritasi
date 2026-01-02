@@ -1,18 +1,17 @@
 ---
-title: "Pertevniyal Valide Sultan Çeşmesi, Haseki Sultan | Miras Haritası"
-date: 2025-12-25T12:47:35+03:00
+title: "Pertevniyal Valide Sultan Çeşmesi, Haseki Sultan"
+date: "2025-12-25T12:47:35+03:00"
 slug: "pertevniyal-valide-sultan-cesmesi-haseki-sultan"
 description: "### Pertevniyal Valide Sultan Çeşmesi: Haseki Sultan..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9432487,41.0107613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pertevniyal Valide Sultan Çeşmesi: Haseki Sultan

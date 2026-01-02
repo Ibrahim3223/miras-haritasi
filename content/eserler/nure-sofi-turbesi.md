@@ -1,18 +1,17 @@
 ---
-title: "Nure Sofi Türbesi | Miras Haritası"
-date: 2025-12-25T15:09:56+03:00
+title: "Nure Sofi Türbesi"
+date: "2025-12-25T15:09:56+03:00"
 slug: "nure-sofi-turbesi"
 description: "### Nure Sofi Türbesi: Mut, Mersin'in Değerli Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.1426808,36.6709075"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nure Sofi Türbesi: Mut, Mersin'in Değerli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Yeğenağa Camii | Miras Haritası"
-date: 2025-12-24T23:47:11+03:00
+title: "Yeğenağa Camii"
+date: "2025-12-24T23:47:11+03:00"
 slug: "yegenaga-camii"
 description: "## Yeğenağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2799149,39.9119987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeğenağa Camii

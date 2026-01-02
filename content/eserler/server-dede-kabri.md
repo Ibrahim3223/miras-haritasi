@@ -1,18 +1,17 @@
 ---
-title: "Server Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:36:55+03:00
+title: "Server Dede Kabri"
+date: "2025-12-25T13:36:55+03:00"
 slug: "server-dede-kabri"
 description: "## Server Dede Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.975352,41.006546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Server Dede Kabri: İstanbul'un Gizli Anıtı

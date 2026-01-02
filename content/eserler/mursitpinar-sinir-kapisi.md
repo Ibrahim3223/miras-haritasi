@@ -1,18 +1,17 @@
 ---
-title: "Mürşitpınar Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:35:08+03:00
+title: "Mürşitpınar Sınır Kapısı"
+date: "2025-12-25T08:35:08+03:00"
 slug: "mursitpinar-sinir-kapisi"
 description: "## Mürşitpınar Sınır Kapısı: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "38.3495,36.8995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mürşitpınar Sınır Kapısı: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

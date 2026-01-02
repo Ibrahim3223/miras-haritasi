@@ -1,18 +1,17 @@
 ---
-title: "Dedem Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:52:41+03:00
+title: "Dedem Çeşmesi"
+date: "2025-12-25T10:52:41+03:00"
 slug: "dedem-cesmesi"
 description: "### Dedem Çeşmesi: Hacıbektaş'taki Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.5689316,38.9594421"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dedem Çeşmesi: Hacıbektaş'taki Bir Tarihî Çeşme

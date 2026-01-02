@@ -1,18 +1,17 @@
 ---
-title: "Şarkikaraağaç Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:07:01+03:00
+title: "Şarkikaraağaç Ulu Camii"
+date: "2025-12-24T22:07:01+03:00"
 slug: "sarkikaraagac-ulu-camii"
 description: "## Şarkikaraağaç Ulu Camii..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Şarkikaraağaç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.365694444,38.080611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şarkikaraağaç Ulu Camii

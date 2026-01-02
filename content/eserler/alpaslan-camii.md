@@ -1,18 +1,17 @@
 ---
-title: "Alpaslan Camii | Miras Haritası"
-date: 2025-12-24T22:08:37+03:00
+title: "Alpaslan Camii"
+date: "2025-12-24T22:08:37+03:00"
 slug: "alpaslan-camii"
 description: "## Alpaslan Camii: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7701149,41.3730583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alpaslan Camii: Kastamonu'nun Tarihi ve Kültürel Mirası

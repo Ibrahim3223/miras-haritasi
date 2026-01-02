@@ -1,18 +1,17 @@
 ---
-title: "Ebu’l Muammeran Camii | Miras Haritası"
-date: 2025-12-25T00:51:56+03:00
+title: "Ebu’l Muammeran Camii"
+date: "2025-12-25T00:51:56+03:00"
 slug: "ebul-muammeran-camii"
 description: "## Ebu'l Muammeran Camii..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.5714798,40.5077782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebu'l Muammeran Camii

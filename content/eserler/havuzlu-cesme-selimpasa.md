@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme, Selimpaşa | Miras Haritası"
-date: 2025-12-25T12:49:03+03:00
+title: "Havuzlu Çeşme, Selimpaşa"
+date: "2025-12-25T12:49:03+03:00"
 slug: "havuzlu-cesme-selimpasa"
 description: "## Havuzlu Çeşme, Selimpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3683414,41.0543365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Çeşme, Selimpaşa

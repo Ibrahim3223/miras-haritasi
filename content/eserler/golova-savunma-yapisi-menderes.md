@@ -1,18 +1,17 @@
 ---
-title: "Gölova Savunma Yapısı, Menderes | Miras Haritası"
-date: 2025-12-25T01:27:02+03:00
+title: "Gölova Savunma Yapısı, Menderes"
+date: "2025-12-25T01:27:02+03:00"
 slug: "golova-savunma-yapisi-menderes"
 description: "## Gölova Savunma Yapısı, Menderes..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menderes"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.2622643,38.0302696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gölova Savunma Yapısı, Menderes

@@ -1,18 +1,17 @@
 ---
-title: "Şahuban Camii | Miras Haritası"
-date: 2025-12-24T23:08:24+03:00
+title: "Şahuban Camii"
+date: "2025-12-24T23:08:24+03:00"
 slug: "sahuban-camii"
 description: "## Şahuban Camii: Gölmarmara'nın İhtişamlı Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9164429,38.7078438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şahuban Camii: Gölmarmara'nın İhtişamlı Camii

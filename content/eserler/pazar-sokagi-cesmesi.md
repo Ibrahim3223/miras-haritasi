@@ -1,18 +1,17 @@
 ---
-title: "Pazar Sokağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:15:17+03:00
+title: "Pazar Sokağı Çeşmesi"
+date: "2025-12-25T12:15:17+03:00"
 slug: "pazar-sokagi-cesmesi"
 description: "## Pazar Sokağı Çeşmesi: Beykoz'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.068163,41.084053"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazar Sokağı Çeşmesi: Beykoz'un Tarihi Bir Mirası

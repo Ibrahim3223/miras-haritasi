@@ -1,18 +1,17 @@
 ---
-title: "Hasaköy Kilisesi | Miras Haritası"
-date: 2025-12-25T09:11:40+03:00
+title: "Hasaköy Kilisesi"
+date: "2025-12-25T09:11:40+03:00"
 slug: "hasakoy-kilisesi"
 description: "## Hasaköy Kilisesi: Niğde'nin Gizli Çehresi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.7026945,38.2240126"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasaköy Kilisesi: Niğde'nin Gizli Çehresi

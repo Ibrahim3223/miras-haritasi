@@ -1,18 +1,17 @@
 ---
-title: "Siirt Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:07+03:00
+title: "Siirt Köprüsü"
+date: "2025-12-25T02:11:07+03:00"
 slug: "siirt-koprusu"
 description: "## Siirt Köprüsü: Geçmişi ve Kültür Mirası..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Eruh"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.822821,37.713536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siirt Köprüsü: Geçmişi ve Kültür Mirası

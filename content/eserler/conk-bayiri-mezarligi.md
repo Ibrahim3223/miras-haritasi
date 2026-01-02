@@ -1,18 +1,17 @@
 ---
-title: "Conk Bayırı Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:53:01+03:00
+title: "Conk Bayırı Mezarlığı"
+date: "2025-12-25T15:53:01+03:00"
 slug: "conk-bayiri-mezarligi"
 description: "## Conk Bayırı Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Chunuk_Bair_centenary_service_-_(20473802425).jpg/1200px-Chunuk_Bair_centenary_service_-_(20473802425).jpg"
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.30884,40.25189"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Conk Bayırı Mezarlığı

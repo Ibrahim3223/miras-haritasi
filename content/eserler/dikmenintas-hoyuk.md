@@ -1,18 +1,17 @@
 ---
-title: "Dikmenintaş Höyük | Miras Haritası"
-date: 2025-12-25T06:11:44+03:00
+title: "Dikmenintaş Höyük"
+date: "2025-12-25T06:11:44+03:00"
 slug: "dikmenintas-hoyuk"
 description: "## Dikmenintaş Höyük: Çorum'un Gizli Anıtı..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.3104248,40.4765968"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dikmenintaş Höyük: Çorum'un Gizli Anıtı

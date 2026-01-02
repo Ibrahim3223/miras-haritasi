@@ -1,18 +1,17 @@
 ---
-title: "Şirin Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:26+03:00
+title: "Şirin Hatun Türbesi"
+date: "2025-12-25T15:10:26+03:00"
 slug: "sirin-hatun-turbesi"
 description: "**Şirin Hatun Türbesi: Bursa'nın Gizli Öyküsü**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Şirin_Hatun_Türbesi.jpg/1200px-Şirin_Hatun_Türbesi.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.04541,40.190707"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Şirin Hatun Türbesi: Bursa'nın Gizli Öyküsü**

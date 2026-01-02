@@ -1,18 +1,17 @@
 ---
-title: "Karakeçi Camii | Miras Haritası"
-date: 2025-12-24T23:40:21+03:00
+title: "Karakeçi Camii"
+date: "2025-12-24T23:40:21+03:00"
 slug: "karakeci-camii"
 description: "## Karakeçi Camii: Şanlıurfa'nın Tarihi Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.3232269,37.7512665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakeçi Camii: Şanlıurfa'nın Tarihi Mirası

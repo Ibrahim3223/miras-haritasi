@@ -1,18 +1,17 @@
 ---
-title: "Sanctuary of Aphrodite Doritis in Knidos | Miras Haritası"
-date: 2025-12-25T08:12:47+03:00
+title: "Sanctuary of Aphrodite Doritis in Knidos"
+date: "2025-12-25T08:12:47+03:00"
 slug: "sanctuary-of-aphrodite-doritis-in-knidos"
 description: "### Sanctuary of Aphrodite Doritis in Knidos..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.37404,36.68618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sanctuary of Aphrodite Doritis in Knidos

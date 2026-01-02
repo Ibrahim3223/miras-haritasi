@@ -1,18 +1,17 @@
 ---
-title: "Alp Çıkmazı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:05:03+03:00
+title: "Alp Çıkmazı Çeşmesi"
+date: "2025-12-25T10:05:03+03:00"
 slug: "alp-cikmazi-cesmesi"
 description: "## Alp Çıkmazı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/450.59-Alp_Çıkmazı_Çeşmesi-19.yy_01.jpg/1200px-450.59-Alp_Çıkmazı_Çeşmesi-19.yy_01.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.18415278,39.12328889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alp Çıkmazı Çeşmesi

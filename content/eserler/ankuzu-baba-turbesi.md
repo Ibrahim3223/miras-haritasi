@@ -1,18 +1,17 @@
 ---
-title: "Ankuzu Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:37+03:00
+title: "Ankuzu Baba Türbesi"
+date: "2025-12-25T14:52:37+03:00"
 slug: "ankuzu-baba-turbesi"
 description: "### Ankuzu Baba Türbesi: Elazığ'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.312233,38.7359848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ankuzu Baba Türbesi: Elazığ'ın Gizli Hazineleri

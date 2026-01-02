@@ -1,18 +1,17 @@
 ---
-title: "Sivas Atatürk ve Kongre Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:41+03:00
+title: "Sivas Atatürk ve Kongre Müzesi"
+date: "2025-12-25T03:27:41+03:00"
 slug: "sivas-ataturk-ve-kongre-muzesi"
 description: "### Sivas Atatürk ve Kongre Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/004_KongreMüzesi.07.2006_resize.JPG/1200px-004_KongreMüzesi.07.2006_resize.JPG"
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.013888888,39.749722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sivas Atatürk ve Kongre Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Göktepe Höyük | Miras Haritası"
-date: 2025-12-25T13:43:50+03:00
+title: "Göktepe Höyük"
+date: "2025-12-25T13:43:50+03:00"
 slug: "goktepe-hoyuk"
 description: "### Göktepe Höyük: Afyonkarahisar'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.266133,38.24145"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Göktepe Höyük: Afyonkarahisar'ın Gizli Kahramanı

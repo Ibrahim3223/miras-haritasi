@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Gülek | Miras Haritası"
-date: 2025-12-25T02:58:16+03:00
+title: "Roma Köprüsü, Gülek"
+date: "2025-12-25T02:58:16+03:00"
 slug: "roma-koprusu-gulek"
 description: "## Roma Köprüsü, Gülek..."
 featured_image: ""
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.754112,37.261925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Gülek

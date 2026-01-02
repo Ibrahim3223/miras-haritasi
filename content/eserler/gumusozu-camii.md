@@ -1,18 +1,17 @@
 ---
-title: "Gümüşözü Camii | Miras Haritası"
-date: 2025-12-25T01:01:44+03:00
+title: "Gümüşözü Camii"
+date: "2025-12-25T01:01:44+03:00"
 slug: "gumusozu-camii"
 description: "### Gümüşözü Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7683,40.6775"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşözü Camii: Artvin'in Tarihi Bir Mirası

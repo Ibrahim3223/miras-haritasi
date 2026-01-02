@@ -1,18 +1,17 @@
 ---
-title: "Tophanelioğlu Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:04:13+03:00
+title: "Tophanelioğlu Meydan Çeşmesi"
+date: "2025-12-25T11:04:13+03:00"
 slug: "tophanelioglu-meydan-cesmesi"
 description: "## Tophanelioğlu Meydan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.051652,41.023119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tophanelioğlu Meydan Çeşmesi

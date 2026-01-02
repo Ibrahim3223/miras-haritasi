@@ -1,18 +1,17 @@
 ---
-title: "Dabakhane Mescidi | Miras Haritası"
-date: 2025-12-25T01:06:24+03:00
+title: "Dabakhane Mescidi"
+date: "2025-12-25T01:06:24+03:00"
 slug: "dabakhane-mescidi"
 description: "## Dabakhane Mescidi: Elazığ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.2593079,38.7055168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dabakhane Mescidi: Elazığ'ın Tarihi ve Kültürel Mirası

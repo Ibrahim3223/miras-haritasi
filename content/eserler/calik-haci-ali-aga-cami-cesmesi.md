@@ -1,18 +1,17 @@
 ---
-title: "Çalık Hacı Ali Ağa Cami Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:07+03:00
+title: "Çalık Hacı Ali Ağa Cami Çeşmesi"
+date: "2025-12-25T11:43:07+03:00"
 slug: "calik-haci-ali-aga-cami-cesmesi"
 description: "### Kartal'daki Çalık Hacı Ali Ağa Cami Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2058487,40.9183044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kartal'daki Çalık Hacı Ali Ağa Cami Çeşmesi: İstanbul'un Gizli Çeşmesi

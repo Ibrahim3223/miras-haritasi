@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Halit Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:28+03:00
+title: "Şeyh Halit Türbesi"
+date: "2025-12-25T14:20:28+03:00"
 slug: "seyh-halit-turbesi"
 description: "### Şeyh Halit Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ilgın"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.043643,38.180538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Halit Türbesi

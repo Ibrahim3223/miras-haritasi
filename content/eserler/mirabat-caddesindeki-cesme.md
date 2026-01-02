@@ -1,18 +1,17 @@
 ---
-title: "Mirabat Caddesindeki Çeşme | Miras Haritası"
-date: 2025-12-25T11:23:37+03:00
+title: "Mirabat Caddesindeki Çeşme"
+date: "2025-12-25T11:23:37+03:00"
 slug: "mirabat-caddesindeki-cesme"
 description: "## Mirabat Caddesindeki Çeşme: Beykoz'un Gizli Çeşmesi..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Kanlıca"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.069678,41.097841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mirabat Caddesindeki Çeşme: Beykoz'un Gizli Çeşmesi

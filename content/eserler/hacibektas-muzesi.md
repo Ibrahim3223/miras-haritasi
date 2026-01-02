@@ -1,18 +1,17 @@
 ---
-title: "Hacıbektaş Müzesi | Miras Haritası"
-date: 2025-12-25T03:33:44+03:00
+title: "Hacıbektaş Müzesi"
+date: "2025-12-25T03:33:44+03:00"
 slug: "hacibektas-muzesi"
 description: "### Hacıbektaş Müzesi: Kırmızı Turbanlı Şeyhin Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacıbektaş Müzesi: Kırmızı Turbanlı Şeyhin Mirası

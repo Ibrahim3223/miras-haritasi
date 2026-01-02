@@ -1,18 +1,17 @@
 ---
-title: "Bağın Kalesi, Mazgirt | Miras Haritası"
-date: 2025-12-25T01:19:39+03:00
+title: "Bağın Kalesi, Mazgirt"
+date: "2025-12-25T01:19:39+03:00"
 slug: "bagin-kalesi-mazgirt"
 description: "### Bağın Kalesi: Tunceli'nin Gizli Zirvesi..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Mazgirt"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.899971,39.0036507"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bağın Kalesi: Tunceli'nin Gizli Zirvesi

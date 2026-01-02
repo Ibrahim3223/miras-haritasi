@@ -1,18 +1,17 @@
 ---
-title: "Gazi Süleyman Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:34+03:00
+title: "Gazi Süleyman Paşa Hamamı"
+date: "2025-12-25T16:34:34+03:00"
 slug: "gazi-suleyman-pasa-hamami"
 description: "# Gazi Süleyman Paşa Hamamı..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Göynük"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.786529,40.3991583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gazi Süleyman Paşa Hamamı

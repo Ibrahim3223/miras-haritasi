@@ -1,18 +1,17 @@
 ---
-title: "Azimi Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:22+03:00
+title: "Azimi Türbesi"
+date: "2025-12-25T14:55:22+03:00"
 slug: "azimi-turbesi"
 description: "## Azimi Türbesi: Altındağ, Ankara'da Bir Geçmişe Saygı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8706894,39.9368668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Azimi Türbesi: Altındağ, Ankara'da Bir Geçmişe Saygı

@@ -1,18 +1,17 @@
 ---
-title: "Boyalı Camii | Miras Haritası"
-date: 2025-12-25T00:54:52+03:00
+title: "Boyalı Camii"
+date: "2025-12-25T00:54:52+03:00"
 slug: "boyali-camii"
 description: "## Boyalı Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5645118,40.989259"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boyalı Camii

@@ -1,18 +1,17 @@
 ---
-title: "Sofi Bekir Ağa Mescidi, Vize | Miras Haritası"
-date: 2025-12-25T00:08:56+03:00
+title: "Sofi Bekir Ağa Mescidi, Vize"
+date: "2025-12-25T00:08:56+03:00"
 slug: "sofi-bekir-aga-mescidi-vize"
 description: "### Sofi Bekir Ağa Mescidi: Vize'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7631531,41.5840149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sofi Bekir Ağa Mescidi: Vize'nin Tarihî Mirası

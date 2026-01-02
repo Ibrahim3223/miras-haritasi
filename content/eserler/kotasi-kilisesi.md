@@ -1,18 +1,17 @@
 ---
-title: "Kotasi Kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:13+03:00
+title: "Kotasi Kilisesi"
+date: "2025-12-25T08:58:13+03:00"
 slug: "kotasi-kilisesi"
 description: "## Kotasi Kilisesi..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Sabaholdu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.115222222,41.305666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kotasi Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "İplikçi İsmail Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:37+03:00
+title: "İplikçi İsmail Dede Türbesi"
+date: "2025-12-25T14:55:37+03:00"
 slug: "iplikci-ismail-dede-turbesi"
 description: "## İplikçi İsmail Dede Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1423187,38.4192162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İplikçi İsmail Dede Türbesi

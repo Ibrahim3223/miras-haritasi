@@ -1,18 +1,17 @@
 ---
-title: "Necati Korkmaz Mikro Minyatür Sanat Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:04+03:00
+title: "Necati Korkmaz Mikro Minyatür Sanat Müzesi"
+date: "2025-12-25T03:44:04+03:00"
 slug: "necati-korkmaz-mikro-minyatur-sanat-muzesi"
 description: "## Necati Korkmaz Mikro Minyatür Sanat Müzesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.2582817,37.8591232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Necati Korkmaz Mikro Minyatür Sanat Müzesi

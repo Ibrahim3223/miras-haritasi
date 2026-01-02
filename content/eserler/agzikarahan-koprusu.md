@@ -1,18 +1,17 @@
 ---
-title: "Ağzıkarahan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:01+03:00
+title: "Ağzıkarahan Köprüsü"
+date: "2025-12-25T02:40:01+03:00"
 slug: "agzikarahan-koprusu"
 description: "## Ağzıkarahan Köprüsü..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.1390839,38.4444923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağzıkarahan Köprüsü

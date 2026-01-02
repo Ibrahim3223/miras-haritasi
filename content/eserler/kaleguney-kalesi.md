@@ -1,18 +1,17 @@
 ---
-title: "Kalegüney Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:58+03:00
+title: "Kalegüney Kalesi"
+date: "2025-12-25T01:26:58+03:00"
 slug: "kaleguney-kalesi"
 description: "## Kalegüney Kalesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Beşikdüzü"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.1761513,40.9920578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalegüney Kalesi

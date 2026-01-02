@@ -1,18 +1,17 @@
 ---
-title: "Tutak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:52:32+03:00
+title: "Tutak Çeşmesi"
+date: "2025-12-25T10:52:32+03:00"
 slug: "tutak-cesmesi"
 description: "## Tutak Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4876518,38.7145233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tutak Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirasının Bir Parçası

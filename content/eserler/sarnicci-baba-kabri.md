@@ -1,18 +1,17 @@
 ---
-title: "Sarnıççı Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:35:31+03:00
+title: "Sarnıççı Baba Kabri"
+date: "2025-12-25T13:35:31+03:00"
 slug: "sarnicci-baba-kabri"
 description: "# Sarnıççı Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9628716,41.0385857"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sarnıççı Baba Kabri

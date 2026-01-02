@@ -1,18 +1,18 @@
 ---
-title: "Hızır Bey Camii | Miras Haritası"
-date: 2025-12-24T22:17:58+03:00
+title: "Hızır Bey Camii"
+date: "2025-12-24T22:17:58+03:00"
 slug: "hizir-bey-camii"
 description: "## Hızır Bey Camii: Soma'nın Tarihi ve Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hızırbey_Mosque,_Kırklareli.jpg/1200px-Hızırbey_Mosque,_Kırklareli.jpg"
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Soma"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.604833333,39.179583333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hızırbey_Mosque,_Kırklareli.jpg/1200px-Hızırbey_Mosque,_Kırklareli.jpg"
 ---
 
 ## Hızır Bey Camii: Soma'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Güngörmez Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:48+03:00
+title: "Güngörmez Kalesi"
+date: "2025-12-25T01:40:48+03:00"
 slug: "gungormez-kalesi"
 description: "## Güngörmez Kalesi: Yakutiye'nin Gizli Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.3636017,40.1536942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güngörmez Kalesi: Yakutiye'nin Gizli Mirası

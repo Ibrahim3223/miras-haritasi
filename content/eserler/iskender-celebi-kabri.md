@@ -1,18 +1,17 @@
 ---
-title: "İskender Çelebi Kabri | Miras Haritası"
-date: 2025-12-25T13:29:51+03:00
+title: "İskender Çelebi Kabri"
+date: "2025-12-25T13:29:51+03:00"
 slug: "iskender-celebi-kabri"
 description: "## İskender Çelebi Kabri: Fatih'te Bir Keşif..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9252853,41.0029831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskender Çelebi Kabri: Fatih'te Bir Keşif

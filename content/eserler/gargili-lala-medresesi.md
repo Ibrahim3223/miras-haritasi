@@ -1,18 +1,17 @@
 ---
-title: "Gargılı Lala Medresesi | Miras Haritası"
-date: 2025-12-25T17:35:25+03:00
+title: "Gargılı Lala Medresesi"
+date: "2025-12-25T17:35:25+03:00"
 slug: "gargili-lala-medresesi"
 description: "**Gargılı Lala Medresesi**..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Uluborlu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "30.469101,38.0710335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gargılı Lala Medresesi**

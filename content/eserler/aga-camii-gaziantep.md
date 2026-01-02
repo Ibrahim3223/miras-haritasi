@@ -1,18 +1,17 @@
 ---
-title: "Ağa Camii, Gaziantep | Miras Haritası"
-date: 2025-12-25T00:29:26+03:00
+title: "Ağa Camii, Gaziantep"
+date: "2025-12-25T00:29:26+03:00"
 slug: "aga-camii-gaziantep"
 description: "## Ağa Camii, Gaziantep: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3887596,37.0589867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağa Camii, Gaziantep: Tarihi ve Kültürel Miras

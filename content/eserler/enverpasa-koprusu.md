@@ -1,18 +1,17 @@
 ---
-title: "Enverpaşa Köprüsü | Miras Haritası"
-date: 2025-12-25T03:05:44+03:00
+title: "Enverpaşa Köprüsü"
+date: "2025-12-25T03:05:44+03:00"
 slug: "enverpasa-koprusu"
 description: "## Enverpaşa Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.50350326,41.090536299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Enverpaşa Köprüsü

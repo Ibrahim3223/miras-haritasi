@@ -1,18 +1,17 @@
 ---
-title: "Fevzi Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:33+03:00
+title: "Fevzi Baba Türbesi"
+date: "2025-12-25T15:13:33+03:00"
 slug: "fevzi-baba-turbesi"
 description: "## Fevzi Baba Türbesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4588964,40.8694628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fevzi Baba Türbesi

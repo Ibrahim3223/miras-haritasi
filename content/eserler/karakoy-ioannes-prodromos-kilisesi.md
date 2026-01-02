@@ -1,18 +1,17 @@
 ---
-title: "Karaköy İoannes Prodromos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:09:19+03:00
+title: "Karaköy İoannes Prodromos Kilisesi"
+date: "2025-12-25T09:09:19+03:00"
 slug: "karakoy-ioannes-prodromos-kilisesi"
 description: "# Karaköy İoannes Prodromos Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.978148,41.025213"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karaköy İoannes Prodromos Kilisesi

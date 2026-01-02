@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Kurtuluş Anıtı, Uşak | Miras Haritası"
-date: 2025-12-25T16:08:38+03:00
+title: "Atatürk Kurtuluş Anıtı, Uşak"
+date: "2025-12-25T16:08:38+03:00"
 slug: "ataturk-kurtulus-aniti-usak"
 description: "## Atatürk Kurtuluş Anıtı, Uşak..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4054737,38.6738129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Kurtuluş Anıtı, Uşak

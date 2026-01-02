@@ -1,18 +1,17 @@
 ---
-title: "Göksu Meryem Ana Ayazması | Miras Haritası"
-date: 2025-12-25T12:43:44+03:00
+title: "Göksu Meryem Ana Ayazması"
+date: "2025-12-25T12:43:44+03:00"
 slug: "goksu-meryem-ana-ayazmasi"
 description: "## Göksu Meryem Ana Ayazması: Beykoz'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0794582,41.0790596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göksu Meryem Ana Ayazması: Beykoz'un Gizli Çeşmesi

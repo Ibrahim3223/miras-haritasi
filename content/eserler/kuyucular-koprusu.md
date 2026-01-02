@@ -1,18 +1,17 @@
 ---
-title: "Kuyucular Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:28+03:00
+title: "Kuyucular Köprüsü"
+date: "2025-12-25T02:16:28+03:00"
 slug: "kuyucular-koprusu"
 description: "## Kuyucular Köprüsü: Aydın'ın Efsanevi Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0233231,37.8682899"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuyucular Köprüsü: Aydın'ın Efsanevi Köprüsü

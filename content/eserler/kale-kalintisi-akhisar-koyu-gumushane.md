@@ -1,18 +1,17 @@
 ---
-title: "Kale Kalıntısı, Akhisar Köyü, Gümüşhane | Miras Haritası"
-date: 2025-12-25T01:44:31+03:00
+title: "Kale Kalıntısı, Akhisar Köyü, Gümüşhane"
+date: "2025-12-25T01:44:31+03:00"
 slug: "kale-kalintisi-akhisar-koyu-gumushane"
 description: "## Kale Kalıntısı, Akhisar Köyü, Gümüşhane: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.83976,40.437268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Kalıntısı, Akhisar Köyü, Gümüşhane: Tarihî Bir Mirasın İzleri

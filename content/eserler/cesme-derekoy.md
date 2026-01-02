@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Dereköy | Miras Haritası"
-date: 2025-12-25T10:29:00+03:00
+title: "Çeşme – Dereköy"
+date: "2025-12-25T10:29:00+03:00"
 slug: "cesme-derekoy"
 description: "## Çeşme – Dereköy: Aydın'ın Eski Köy Çeşmelerinden Bir Örnek..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0373993,37.7947998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Dereköy: Aydın'ın Eski Köy Çeşmelerinden Bir Örnek

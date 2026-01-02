@@ -1,18 +1,17 @@
 ---
-title: "Çubuk Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:39:50+03:00
+title: "Çubuk Merkez Camii"
+date: "2025-12-25T00:39:50+03:00"
 slug: "cubuk-merkez-camii"
 description: "### Çubuk Merkez Camii: Ankara'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.030385066,40.239495048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çubuk Merkez Camii: Ankara'nın Tarihi Mirası

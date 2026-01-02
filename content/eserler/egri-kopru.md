@@ -1,18 +1,17 @@
 ---
-title: "Eğri Köprü | Miras Haritası"
-date: 2025-12-25T03:04:48+03:00
+title: "Eğri Köprü"
+date: "2025-12-25T03:04:48+03:00"
 slug: "egri-kopru"
 description: "### Eğri Köprü: Sivas'taki Bir Önemli Köprü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/161_Egriköprü.07.2006_resize.JPG/1200px-161_Egriköprü.07.2006_resize.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sivas"
+province: "Sivas"
+iller: '["Sivas"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.04132795,39.72611851"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Eğri Köprü: Sivas'taki Bir Önemli Köprü

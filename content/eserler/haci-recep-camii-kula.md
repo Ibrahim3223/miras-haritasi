@@ -1,18 +1,17 @@
 ---
-title: "Hacı Recep Camii, Kula | Miras Haritası"
-date: 2025-12-25T00:00:57+03:00
+title: "Hacı Recep Camii, Kula"
+date: "2025-12-25T00:00:57+03:00"
 slug: "haci-recep-camii-kula"
 description: "## Hacı Recep Camii: Kula'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6497993,38.5439987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Recep Camii: Kula'nın Tarihî Bir Mirası

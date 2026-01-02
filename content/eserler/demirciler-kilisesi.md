@@ -1,18 +1,17 @@
 ---
-title: "Demirciler Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:47+03:00
+title: "Demirciler Kilisesi"
+date: "2025-12-25T09:26:47+03:00"
 slug: "demirciler-kilisesi"
 description: "## Demirciler Kilisesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.2745743,39.9131088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirciler Kilisesi

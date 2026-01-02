@@ -1,18 +1,17 @@
 ---
-title: "Hz. Şube Türbesi | Miras Haritası"
-date: 2025-12-25T13:36:16+03:00
+title: "Hz. Şube Türbesi"
+date: "2025-12-25T13:36:16+03:00"
 slug: "hz-sube-turbesi"
 description: "### Hz. Şube Türbesi: Fatih'te Bir Kıymetli Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hz._Şube_Türbesi.jpg/1200px-Hz._Şube_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.939941,41.035247"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hz. Şube Türbesi: Fatih'te Bir Kıymetli Anıt

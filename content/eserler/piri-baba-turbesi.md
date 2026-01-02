@@ -1,18 +1,17 @@
 ---
-title: "Piri Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:08+03:00
+title: "Piri Baba Türbesi"
+date: "2025-12-25T15:13:08+03:00"
 slug: "piri-baba-turbesi"
 description: "## Piri Baba Türbesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4691,40.8772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Piri Baba Türbesi

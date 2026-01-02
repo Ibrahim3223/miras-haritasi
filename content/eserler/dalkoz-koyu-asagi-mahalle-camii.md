@@ -1,18 +1,17 @@
 ---
-title: "Dalkoz Köyü Aşağı Mahalle Camii | Miras Haritası"
-date: 2025-12-25T00:44:34+03:00
+title: "Dalkoz Köyü Aşağı Mahalle Camii"
+date: "2025-12-25T00:44:34+03:00"
 slug: "dalkoz-koyu-asagi-mahalle-camii"
 description: "### Dalkoz Köyü Aşağı Mahalle Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Bayramören"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.234390094,40.951898054"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dalkoz Köyü Aşağı Mahalle Camii

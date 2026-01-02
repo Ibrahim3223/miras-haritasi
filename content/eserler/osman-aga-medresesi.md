@@ -1,18 +1,17 @@
 ---
-title: "Osman Ağa Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:38+03:00
+title: "Osman Ağa Medresesi"
+date: "2025-12-25T17:41:38+03:00"
 slug: "osman-aga-medresesi"
 description: "### Osman Ağa Medresesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.8402348,37.8524551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Osman Ağa Medresesi

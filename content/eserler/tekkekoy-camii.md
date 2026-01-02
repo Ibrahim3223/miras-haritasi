@@ -1,18 +1,17 @@
 ---
-title: "Tekkeköy Camii | Miras Haritası"
-date: 2025-12-24T23:14:14+03:00
+title: "Tekkeköy Camii"
+date: "2025-12-24T23:14:14+03:00"
 slug: "tekkekoy-camii"
 description: "## Tekkeköy Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.588202,40.420536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekkeköy Camii: Tarihi ve Kültürel Mirası

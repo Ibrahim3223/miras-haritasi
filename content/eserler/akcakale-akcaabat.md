@@ -1,18 +1,17 @@
 ---
-title: "Akçakale, Akçaabat | Miras Haritası"
-date: 2025-12-25T01:34:59+03:00
+title: "Akçakale, Akçaabat"
+date: "2025-12-25T01:34:59+03:00"
 slug: "akcakale-akcaabat"
 description: "## Akçakale: Trabzon'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Akçaabat"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.50366,41.08124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçakale: Trabzon'un Tarihi ve Kültürel Mirası

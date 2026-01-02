@@ -1,18 +1,17 @@
 ---
-title: "Höyücek, Bostancı | Miras Haritası"
-date: 2025-12-25T06:02:52+03:00
+title: "Höyücek, Bostancı"
+date: "2025-12-25T06:02:52+03:00"
 slug: "hoyucek-bostanci"
 description: "### Höyücek, Bostancı: Gönen'in Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gönen"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6754303,40.2184105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Höyücek, Bostancı: Gönen'in Gizli Kahramanı

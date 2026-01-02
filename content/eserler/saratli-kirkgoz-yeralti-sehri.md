@@ -1,18 +1,17 @@
 ---
-title: "Saratlı Kırkgöz Yeraltı Şehri | Miras Haritası"
-date: 2025-12-25T05:18:53+03:00
+title: "Saratlı Kırkgöz Yeraltı Şehri"
+date: "2025-12-25T05:18:53+03:00"
 slug: "saratli-kirkgoz-yeralti-sehri"
 description: "### Saratlı Kırkgöz Yeraltı Şehri..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2323221,38.4450257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saratlı Kırkgöz Yeraltı Şehri

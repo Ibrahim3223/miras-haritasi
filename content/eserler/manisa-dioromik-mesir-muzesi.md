@@ -1,18 +1,17 @@
 ---
-title: "Manisa Dioromik Mesir Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:47+03:00
+title: "Manisa Dioromik Mesir Müzesi"
+date: "2025-12-25T03:44:47+03:00"
 slug: "manisa-dioromik-mesir-muzesi"
 description: "## Manisa Dioromik Mesir Müzesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4383221,38.6259727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manisa Dioromik Mesir Müzesi

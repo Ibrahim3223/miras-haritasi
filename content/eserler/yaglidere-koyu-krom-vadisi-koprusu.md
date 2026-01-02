@@ -1,18 +1,17 @@
 ---
-title: "Yağlıdere Köyü Krom Vadisi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:10+03:00
+title: "Yağlıdere Köyü Krom Vadisi Köprüsü"
+date: "2025-12-25T02:31:10+03:00"
 slug: "yaglidere-koyu-krom-vadisi-koprusu"
 description: "## Yağlıdere Köyü Krom Vadisi Köprüsü: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.53352,40.54272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yağlıdere Köyü Krom Vadisi Köprüsü: Tarihi ve Mimari Özellikleri

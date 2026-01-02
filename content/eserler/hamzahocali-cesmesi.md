@@ -1,18 +1,17 @@
 ---
-title: "Hamzahocalı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:06:48+03:00
+title: "Hamzahocalı Çeşmesi"
+date: "2025-12-25T12:06:48+03:00"
 slug: "hamzahocali-cesmesi"
 description: "**Hamzahocalı Çeşmesi: Kınık'taki Bir İznik Çeşmesi**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kınık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4625664,39.1253548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hamzahocalı Çeşmesi: Kınık'taki Bir İznik Çeşmesi**

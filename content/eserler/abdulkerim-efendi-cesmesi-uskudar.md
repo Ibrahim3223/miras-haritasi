@@ -1,18 +1,17 @@
 ---
-title: "Abdülkerim Efendi Çeşmesi (Üsküdar) | Miras Haritası"
-date: 2025-12-25T12:09:05+03:00
+title: "Abdülkerim Efendi Çeşmesi (Üsküdar)"
+date: "2025-12-25T12:09:05+03:00"
 slug: "abdulkerim-efendi-cesmesi-uskudar"
 description: "### Abdülkerim Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.047371,41.042828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdülkerim Efendi Çeşmesi

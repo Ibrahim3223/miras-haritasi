@@ -1,18 +1,17 @@
 ---
-title: "Ayrılık Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:07:04+03:00
+title: "Ayrılık Çeşmesi"
+date: "2025-12-25T10:07:04+03:00"
 slug: "ayrilik-cesmesi"
 description: "**Ayrılık Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ayrılık_Çeşmesi.jpg/1200px-Ayrılık_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.03,40.998416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ayrılık Çeşmesi**

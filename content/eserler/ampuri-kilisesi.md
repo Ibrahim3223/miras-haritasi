@@ -1,18 +1,17 @@
 ---
-title: "Ampuri Kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:31+03:00
+title: "Ampuri Kilisesi"
+date: "2025-12-25T08:58:31+03:00"
 slug: "ampuri-kilisesi"
 description: "## Ampuri Kilisesi: Kenardere'nin Tarihî Mirası..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Kenardere"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.166527777,41.2865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ampuri Kilisesi: Kenardere'nin Tarihî Mirası

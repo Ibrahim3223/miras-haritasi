@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Lalapaşa | Miras Haritası"
-date: 2025-12-25T17:07:00+03:00
+title: "Hamam, Lalapaşa"
+date: "2025-12-25T17:07:00+03:00"
 slug: "hamam-lalapasa"
 description: "## Lalapaşa Hamamı: Edirne'nin Gizli Çehresinde Bir Öykü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.7303867,41.836937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lalapaşa Hamamı: Edirne'nin Gizli Çehresinde Bir Öykü

@@ -1,18 +1,17 @@
 ---
-title: "İasos Balık Pazarı Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:39+03:00
+title: "İasos Balık Pazarı Müzesi"
+date: "2025-12-25T03:37:39+03:00"
 slug: "iasos-balik-pazari-muzesi"
 description: "## İasos Balık Pazarı Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İasos Balık Pazarı Müzesi

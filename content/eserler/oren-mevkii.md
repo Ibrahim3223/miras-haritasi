@@ -1,18 +1,17 @@
 ---
-title: "Ören Mevkii | Miras Haritası"
-date: 2025-12-25T05:51:46+03:00
+title: "Ören Mevkii"
+date: "2025-12-25T05:51:46+03:00"
 slug: "oren-mevkii"
 description: "## Ören Mevkii Arkeolojik Sit..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.637233,38.158917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ören Mevkii Arkeolojik Sit

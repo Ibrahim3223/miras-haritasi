@@ -1,18 +1,17 @@
 ---
-title: "Çağlayık Harmanbayırı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:19:18+03:00
+title: "Çağlayık Harmanbayırı Tümülüsü"
+date: "2025-12-25T07:19:18+03:00"
 slug: "caglayik-harmanbayiri-tumulusu"
 description: "### Çağlayık Harmanbayırı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3238182,42.0533943"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çağlayık Harmanbayırı Tümülüsü

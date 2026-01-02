@@ -1,18 +1,17 @@
 ---
-title: "İskele Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:53:44+03:00
+title: "İskele Mezarlığı"
+date: "2025-12-25T15:53:44+03:00"
 slug: "iskele-mezarligi"
 description: "## İskele Mezarlığı: Eceabat'taki Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.27916111,40.25469167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskele Mezarlığı: Eceabat'taki Bir Anıtın Gizemi

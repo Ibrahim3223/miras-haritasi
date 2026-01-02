@@ -1,18 +1,17 @@
 ---
-title: "Fildamı Sarnıcı | Miras Haritası"
-date: 2025-12-25T06:52:31+03:00
+title: "Fildamı Sarnıcı"
+date: "2025-12-25T06:52:31+03:00"
 slug: "fildami-sarnici"
 description: "## Fildamı Sarnıcı: Bakırköy'deki Antik Bir Gizem..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Fildami(yukaridan).jpg/1200px-Fildami(yukaridan).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.8861,40.9931"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fildamı Sarnıcı: Bakırköy'deki Antik Bir Gizem

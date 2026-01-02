@@ -1,18 +1,17 @@
 ---
-title: "Emir Ali Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:56+03:00
+title: "Emir Ali Türbesi"
+date: "2025-12-25T14:55:56+03:00"
 slug: "emir-ali-turbesi"
 description: "## Emir Ali Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4961929,38.7126541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Ali Türbesi

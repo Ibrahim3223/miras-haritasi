@@ -1,18 +1,17 @@
 ---
-title: "Okçu Halil Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:42+03:00
+title: "Okçu Halil Baba Türbesi"
+date: "2025-12-25T15:28:42+03:00"
 slug: "okcu-halil-baba-turbesi"
 description: "## Okçu Halil Baba Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Babadağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.8135662,37.8214149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Okçu Halil Baba Türbesi

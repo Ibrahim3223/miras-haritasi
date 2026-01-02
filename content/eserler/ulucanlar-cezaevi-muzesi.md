@@ -1,18 +1,17 @@
 ---
-title: "Ulucanlar Cezaevi Müzesi | Miras Haritası"
-date: 2025-12-25T03:07:48+03:00
+title: "Ulucanlar Cezaevi Müzesi"
+date: "2025-12-25T03:07:48+03:00"
 slug: "ulucanlar-cezaevi-muzesi"
 description: "**Ulucanlar Cezaevi Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ankara,_Turkey_-_panoramio_(223).jpg/1200px-Ankara,_Turkey_-_panoramio_(223).jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.87305556,39.93833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ulucanlar Cezaevi Müzesi**

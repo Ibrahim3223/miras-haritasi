@@ -1,18 +1,17 @@
 ---
-title: "Dara | Miras Haritası"
-date: 2025-12-25T06:48:26+03:00
+title: "Dara"
+date: "2025-12-25T06:48:26+03:00"
 slug: "dara"
 description: "### Dara: Tarihî Bir Kaya Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dara_P1030851_20080424091200.JPG/1200px-Dara_P1030851_20080424091200.JPG"
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.933333,37.183333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Dara: Tarihî Bir Kaya Mezarı

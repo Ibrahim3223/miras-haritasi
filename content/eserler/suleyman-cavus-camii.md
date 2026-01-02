@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Çavuş Camii | Miras Haritası"
-date: 2025-12-24T23:08:50+03:00
+title: "Süleyman Çavuş Camii"
+date: "2025-12-24T23:08:50+03:00"
 slug: "suleyman-cavus-camii"
 description: "## Süleyman Çavuş Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Süleyman_Çavuş_Mosque.jpg/1200px-Süleyman_Çavuş_Mosque.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.6399593,36.1993713"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Süleyman Çavuş Camii

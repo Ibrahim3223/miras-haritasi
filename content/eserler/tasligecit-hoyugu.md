@@ -1,18 +1,17 @@
 ---
-title: "Taşlıgeçit Höyüğü | Miras Haritası"
-date: 2025-12-25T06:29:21+03:00
+title: "Taşlıgeçit Höyüğü"
+date: "2025-12-25T06:29:21+03:00"
 slug: "tasligecit-hoyugu"
 description: "## Taşlıgeçit Höyüğü: Türkiye'nin Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "İslahiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.7105784,36.926588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlıgeçit Höyüğü: Türkiye'nin Gizli Tarihî Mirası

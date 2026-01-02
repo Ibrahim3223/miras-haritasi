@@ -1,18 +1,17 @@
 ---
-title: "Vespasianus Kapısı (Side) | Miras Haritası"
-date: 2025-12-25T14:03:27+03:00
+title: "Vespasianus Kapısı (Side)"
+date: "2025-12-25T14:03:27+03:00"
 slug: "vespasianus-kapisi-side"
 description: "### Vespasianus Kapısı (Side)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Side.Great_Gate(02).jpg/1200px-Side.Great_Gate(02).jpg"
 province: "Manavgat (ilçe)"
-iller: ["Manavgat (ilçe)"]
+iller: '["Manavgat (ilçe)"]'
 district: "Side"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.390555555,36.768611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Vespasianus Kapısı (Side)

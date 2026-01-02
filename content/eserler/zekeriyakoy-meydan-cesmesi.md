@@ -1,18 +1,17 @@
 ---
-title: "Zekeriyaköy Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:22+03:00
+title: "Zekeriyaköy Meydan Çeşmesi"
+date: "2025-12-25T11:50:22+03:00"
 slug: "zekeriyakoy-meydan-cesmesi"
 description: "## Zekeriyaköy Meydan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0288773,41.1967239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zekeriyaköy Meydan Çeşmesi

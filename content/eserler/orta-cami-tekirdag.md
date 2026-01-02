@@ -1,18 +1,17 @@
 ---
-title: "Orta Cami, Tekirdağ | Miras Haritası"
-date: 2025-12-25T00:29:17+03:00
+title: "Orta Cami, Tekirdağ"
+date: "2025-12-25T00:29:17+03:00"
 slug: "orta-cami-tekirdag"
 description: "## Orta Cami, Tekirdağ..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5147018,40.978199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Cami, Tekirdağ

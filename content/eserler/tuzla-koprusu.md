@@ -1,18 +1,17 @@
 ---
-title: "Tuzla Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:17+03:00
+title: "Tuzla Köprüsü"
+date: "2025-12-25T02:09:17+03:00"
 slug: "tuzla-koprusu"
 description: "### Tuzla Köprüsü: Yozgat'taki Tarihî Bir Miras..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yerköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.256723,39.71516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tuzla Köprüsü: Yozgat'taki Tarihî Bir Miras

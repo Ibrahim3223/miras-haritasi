@@ -1,18 +1,17 @@
 ---
-title: "Gürcüzade Camii | Miras Haritası"
-date: 2025-12-24T23:26:44+03:00
+title: "Gürcüzade Camii"
+date: "2025-12-24T23:26:44+03:00"
 slug: "gurcuzade-camii"
 description: "### Gürcüzade Camii: İzmir'in Zümrüt Vadi'ndeki Tarihî Bir Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9692993,38.2289009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gürcüzade Camii: İzmir'in Zümrüt Vadi'ndeki Tarihî Bir Anıtı

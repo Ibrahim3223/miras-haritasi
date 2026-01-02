@@ -1,18 +1,17 @@
 ---
-title: "Kuşadası Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:16+03:00
+title: "Kuşadası Saat Kulesi"
+date: "2025-12-25T17:17:16+03:00"
 slug: "kusadasi-saat-kulesi"
 description: "## Kuşadası Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kuşadası_Saat_Kulesi.jpg/1200px-Kuşadası_Saat_Kulesi.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "27.2535,37.860777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kuşadası Saat Kulesi

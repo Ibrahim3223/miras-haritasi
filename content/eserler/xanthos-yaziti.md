@@ -1,18 +1,17 @@
 ---
-title: "Xanthos Yazıtı | Miras Haritası"
-date: 2025-12-25T14:08:30+03:00
+title: "Xanthos Yazıtı"
+date: "2025-12-25T14:08:30+03:00"
 slug: "xanthos-yaziti"
 description: "## Xanthos Yazıtı: Lycia'nın Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Xanthian_Obelisk_2019.jpg/1200px-Xanthian_Obelisk_2019.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.318611111,36.357222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Xanthos Yazıtı: Lycia'nın Gizemli Anıtı

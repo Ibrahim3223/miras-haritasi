@@ -1,18 +1,17 @@
 ---
-title: "Malkoçlar Höyükbaba Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:45:58+03:00
+title: "Malkoçlar Höyükbaba Tümülüsü"
+date: "2025-12-25T07:45:58+03:00"
 slug: "malkoclar-hoyukbaba-tumulusu"
 description: "### Malkoçlar Höyükbaba Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.018343,42.040184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Malkoçlar Höyükbaba Tümülüsü

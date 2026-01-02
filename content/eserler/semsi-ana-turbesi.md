@@ -1,18 +1,17 @@
 ---
-title: "Şemsi Ana Türbesi | Miras Haritası"
-date: 2025-12-25T17:16:25+03:00
+title: "Şemsi Ana Türbesi"
+date: "2025-12-25T17:16:25+03:00"
 slug: "semsi-ana-turbesi"
 description: "## Şemsi Ana Türbesi: Tarihî Bir Mirasın Öyküsü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "28.3696918,37.2185211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şemsi Ana Türbesi: Tarihî Bir Mirasın Öyküsü

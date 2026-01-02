@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Avliyar Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:17:03+03:00
+title: "Üsküp Avliyar Tepe Tümülüsü"
+date: "2025-12-25T08:17:03+03:00"
 slug: "uskup-avliyar-tepe-tumulusu"
 description: "### Üsküp Avliyar Tepe Tümülüsü: Kırklareli'nin Gizli Tarihi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4250183,41.7670746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üsküp Avliyar Tepe Tümülüsü: Kırklareli'nin Gizli Tarihi

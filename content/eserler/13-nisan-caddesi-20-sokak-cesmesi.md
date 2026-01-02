@@ -1,18 +1,17 @@
 ---
-title: "13 Nisan Caddesi 20. Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:27:06+03:00
+title: "13 Nisan Caddesi 20. Sokak Çeşmesi"
+date: "2025-12-25T11:27:06+03:00"
 slug: "13-nisan-caddesi-20-sokak-cesmesi"
 description: "## 13 Nisan Caddesi 20. Sokak Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6939774,39.3135147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 13 Nisan Caddesi 20. Sokak Çeşmesi

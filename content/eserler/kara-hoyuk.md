@@ -1,18 +1,17 @@
 ---
-title: "Kara Höyük | Miras Haritası"
-date: 2025-12-25T06:08:54+03:00
+title: "Kara Höyük"
+date: "2025-12-25T06:08:54+03:00"
 slug: "kara-hoyuk"
 description: "## Kara Höyük: Malatya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3137436,38.8134995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Höyük: Malatya'nın Gizemli Arkeolojik Sitleri

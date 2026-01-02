@@ -1,18 +1,17 @@
 ---
-title: "Kırtaşlık Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:34:18+03:00
+title: "Kırtaşlık Tümülüsü"
+date: "2025-12-25T07:34:18+03:00"
 slug: "kirtaslik-tumulusu"
 description: "## Kırtaşlık Tümülüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9694996,37.8003006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırtaşlık Tümülüsü

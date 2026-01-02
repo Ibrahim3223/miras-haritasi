@@ -1,18 +1,17 @@
 ---
-title: "Millî Kütüphane | Miras Haritası"
-date: 2025-12-25T17:46:06+03:00
+title: "Millî Kütüphane"
+date: "2025-12-25T17:46:06+03:00"
 slug: "mill-kutuphane"
 description: "## Millî Kütüphane..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Milli_Kütüphane.jpg/1200px-Milli_Kütüphane.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "32.8271,39.9169"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Millî Kütüphane

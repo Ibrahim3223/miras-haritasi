@@ -1,18 +1,17 @@
 ---
-title: "Seki Mescidi, Tavas | Miras Haritası"
-date: 2025-12-25T00:49:17+03:00
+title: "Seki Mescidi, Tavas"
+date: "2025-12-25T00:49:17+03:00"
 slug: "seki-mescidi-tavas"
 description: "### Seki Mescidi, Tavas: Tarihi ve Kültürel Mirasının Bir Anıtı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8066,37.6999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seki Mescidi, Tavas: Tarihi ve Kültürel Mirasının Bir Anıtı

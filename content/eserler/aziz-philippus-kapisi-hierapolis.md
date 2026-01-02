@@ -1,18 +1,17 @@
 ---
-title: "Aziz Philippus Kapısı, Hierapolis | Miras Haritası"
-date: 2025-12-25T15:38:25+03:00
+title: "Aziz Philippus Kapısı, Hierapolis"
+date: "2025-12-25T15:38:25+03:00"
 slug: "aziz-philippus-kapisi-hierapolis"
 description: "## Aziz Philippus Kapısı, Hierapolis..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.129488,37.9298058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Philippus Kapısı, Hierapolis

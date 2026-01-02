@@ -1,18 +1,17 @@
 ---
-title: "Yanıkdağ Köyü Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:21:02+03:00
+title: "Yanıkdağ Köyü Merkez Camii"
+date: "2025-12-25T00:21:02+03:00"
 slug: "yanikdag-koyu-merkez-camii"
 description: "## Yanıkdağ Köyü Merkez Camii: Tarihi ve Kültürel Mirasın Parçaları..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.749671077,41.074853171"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yanıkdağ Köyü Merkez Camii: Tarihi ve Kültürel Mirasın Parçaları

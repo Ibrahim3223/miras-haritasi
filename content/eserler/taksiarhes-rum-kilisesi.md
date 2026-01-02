@@ -1,18 +1,17 @@
 ---
-title: "Taksiarhes Rum Kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:04+03:00
+title: "Taksiarhes Rum Kilisesi"
+date: "2025-12-25T08:58:04+03:00"
 slug: "taksiarhes-rum-kilisesi"
 description: "### Taksiarhes Rum Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Taksiarhes_Rum_Kilisesi,_Balat.jpg/1200px-Taksiarhes_Rum_Kilisesi,_Balat.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.94501,41.031804"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Taksiarhes Rum Kilisesi

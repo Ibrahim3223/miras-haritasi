@@ -1,18 +1,17 @@
 ---
-title: "Mor İliyo Kilisesi | Miras Haritası"
-date: 2025-12-25T09:20:06+03:00
+title: "Mor İliyo Kilisesi"
+date: "2025-12-25T09:20:06+03:00"
 slug: "mor-iliyo-kilisesi"
 description: "## Mor İliyo Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.7283249,37.2874794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mor İliyo Kilisesi

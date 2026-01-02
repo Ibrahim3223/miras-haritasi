@@ -1,18 +1,17 @@
 ---
-title: "Aktopraklık Höyüğü | Miras Haritası"
-date: 2025-12-25T14:00:19+03:00
+title: "Aktopraklık Höyüğü"
+date: "2025-12-25T14:00:19+03:00"
 slug: "aktopraklik-hoyugu"
 description: "## Aktopraklık Höyüğü: Bursa'nın Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.7710495,40.173233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aktopraklık Höyüğü: Bursa'nın Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "17. Yüzyıl Osmanlı Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:39:11+03:00
+title: "17. Yüzyıl Osmanlı Evi Müzesi"
+date: "2025-12-25T03:39:11+03:00"
 slug: "17-yuzyil-osmanli-evi-muzesi"
 description: "## 17. Yüzyıl Osmanlı Evi Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.045637,40.191465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 17. Yüzyıl Osmanlı Evi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Höyük Değirmeni | Miras Haritası"
-date: 2025-12-25T06:31:20+03:00
+title: "Höyük Değirmeni"
+date: "2025-12-25T06:31:20+03:00"
 slug: "hoyuk-degirmeni"
 description: "## Höyük Değirmeni: Kangal'ın Eski Zirvesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.5036365,39.2769121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Höyük Değirmeni: Kangal'ın Eski Zirvesi

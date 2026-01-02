@@ -1,18 +1,17 @@
 ---
-title: "Kozağacı Camii | Miras Haritası"
-date: 2025-12-25T00:58:35+03:00
+title: "Kozağacı Camii"
+date: "2025-12-25T00:58:35+03:00"
 slug: "kozagaci-camii"
 description: "## Kozağacı Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.9389341,36.9261539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kozağacı Camii

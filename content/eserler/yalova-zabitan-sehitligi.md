@@ -1,18 +1,17 @@
 ---
-title: "Yalova Zabitan Şehitliği | Miras Haritası"
-date: 2025-12-25T15:56:57+03:00
+title: "Yalova Zabitan Şehitliği"
+date: "2025-12-25T15:56:57+03:00"
 slug: "yalova-zabitan-sehitligi"
 description: "### Yalova Zabitan Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.4063683,40.2602386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yalova Zabitan Şehitliği

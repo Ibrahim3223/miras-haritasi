@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:34+03:00
+title: "Mehmet Dede Türbesi"
+date: "2025-12-25T15:18:34+03:00"
 slug: "mehmet-dede-turbesi"
 description: "## Mehmet Dede Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.768978,39.295607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Dede Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Taş Tepeler | Miras Haritası"
-date: 2025-12-25T08:26:05+03:00
+title: "Taş Tepeler"
+date: "2025-12-25T08:26:05+03:00"
 slug: "tas-tepeler"
 description: "## Taş Tepeler: Türkiye'nin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Tepeler: Türkiye'nin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Telmessos Kaya Mezarları 2 | Miras Haritası"
-date: 2025-12-25T13:22:13+03:00
+title: "Telmessos Kaya Mezarları 2"
+date: "2025-12-25T13:22:13+03:00"
 slug: "telmessos-kaya-mezarlari-2"
 description: "**Telmessos Kaya Mezarları 2**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1134014,36.6179504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Telmessos Kaya Mezarları 2**

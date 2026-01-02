@@ -1,18 +1,17 @@
 ---
-title: "Sarnıç Kilise | Miras Haritası"
-date: 2025-12-25T09:12:23+03:00
+title: "Sarnıç Kilise"
+date: "2025-12-25T09:12:23+03:00"
 slug: "sarnic-kilise"
 description: "### Sarnıç Kilisesi: Nevşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.817368984,38.618094347"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarnıç Kilisesi: Nevşehir'in Gizli Cenneti

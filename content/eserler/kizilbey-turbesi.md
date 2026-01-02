@@ -1,18 +1,17 @@
 ---
-title: "Kızılbey Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:40+03:00
+title: "Kızılbey Türbesi"
+date: "2025-12-25T14:51:40+03:00"
 slug: "kizilbey-turbesi"
 description: "## Kızılbey Türbesi: Ankara'nın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8538895,39.9398651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılbey Türbesi: Ankara'nın Tarihî Mirası

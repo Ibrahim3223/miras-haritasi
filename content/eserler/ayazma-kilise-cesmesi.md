@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Kilise Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:31+03:00
+title: "Ayazma Kilise Çeşmesi"
+date: "2025-12-25T11:26:31+03:00"
 slug: "ayazma-kilise-cesmesi"
 description: "## Ayazma Kilise Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6913414,39.3134308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayazma Kilise Çeşmesi

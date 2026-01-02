@@ -1,18 +1,17 @@
 ---
-title: "Şehit Hacı Yakup Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:23+03:00
+title: "Şehit Hacı Yakup Efendi Türbesi"
+date: "2025-12-25T15:23:23+03:00"
 slug: "sehit-haci-yakup-efendi-turbesi"
 description: "## Şehit Hacı Yakup Efendi Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0480976,40.1836472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehit Hacı Yakup Efendi Türbesi

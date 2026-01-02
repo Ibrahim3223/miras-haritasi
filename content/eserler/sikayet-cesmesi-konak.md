@@ -1,18 +1,17 @@
 ---
-title: "Şikayet Çeşmesi, Konak | Miras Haritası"
-date: 2025-12-25T12:52:52+03:00
+title: "Şikayet Çeşmesi, Konak"
+date: "2025-12-25T12:52:52+03:00"
 slug: "sikayet-cesmesi-konak"
 description: "## Şikayet Çeşmesi: İzmir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.149437,38.4179649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şikayet Çeşmesi: İzmir'in Gizli Çeşmesi

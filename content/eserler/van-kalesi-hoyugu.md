@@ -1,18 +1,17 @@
 ---
-title: "Van Kalesi Höyüğü | Miras Haritası"
-date: 2025-12-25T06:25:27+03:00
+title: "Van Kalesi Höyüğü"
+date: "2025-12-25T06:25:27+03:00"
 slug: "van-kalesi-hoyugu"
 description: "**Van Kalesi Höyüğü: Tarihî ve Kültürel Mirasın Tanıklığı**..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "İpekyolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.3342385,38.5057441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Van Kalesi Höyüğü: Tarihî ve Kültürel Mirasın Tanıklığı**

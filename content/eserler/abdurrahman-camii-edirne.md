@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahman Camii, Edirne | Miras Haritası"
-date: 2025-12-25T01:11:15+03:00
+title: "Abdurrahman Camii, Edirne"
+date: "2025-12-25T01:11:15+03:00"
 slug: "abdurrahman-camii-edirne"
 description: "## Abdurrahman Camii, Edirne..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5648155,41.6684265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdurrahman Camii, Edirne

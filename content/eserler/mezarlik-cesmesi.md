@@ -1,18 +1,17 @@
 ---
-title: "Mezarlık Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:01+03:00
+title: "Mezarlık Çeşmesi"
+date: "2025-12-25T10:22:01+03:00"
 slug: "mezarlik-cesmesi"
 description: "**Mezarlık Çeşmesi: Ulubey, Uşak'ta Bir Önemli Kültürel Miras**..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4116745,38.3648491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mezarlık Çeşmesi: Ulubey, Uşak'ta Bir Önemli Kültürel Miras**

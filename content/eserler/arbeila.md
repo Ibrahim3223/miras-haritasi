@@ -1,18 +1,17 @@
 ---
-title: "Arbeila | Miras Haritası"
-date: 2025-12-25T04:44:48+03:00
+title: "Arbeila"
+date: "2025-12-25T04:44:48+03:00"
 slug: "arbeila"
 description: "## Arbeila: Geçmişin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.885226,40.76137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arbeila: Geçmişin Gizemi

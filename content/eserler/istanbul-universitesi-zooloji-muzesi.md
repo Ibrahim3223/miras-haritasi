@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Üniversitesi Zooloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:03+03:00
+title: "İstanbul Üniversitesi Zooloji Müzesi"
+date: "2025-12-25T03:10:03+03:00"
 slug: "istanbul-universitesi-zooloji-muzesi"
 description: "## İstanbul Üniversitesi Zooloji Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.963611,41.013333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Üniversitesi Zooloji Müzesi

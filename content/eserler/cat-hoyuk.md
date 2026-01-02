@@ -1,18 +1,17 @@
 ---
-title: "Çat Höyük | Miras Haritası"
-date: 2025-12-25T13:44:39+03:00
+title: "Çat Höyük"
+date: "2025-12-25T13:44:39+03:00"
 slug: "cat-hoyuk"
 description: "### Çat Höyük: Türkiye'nin En Eski Yerleşim Yerlerinden Biri..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.2764385,39.5499496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çat Höyük: Türkiye'nin En Eski Yerleşim Yerlerinden Biri

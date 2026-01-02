@@ -1,18 +1,17 @@
 ---
-title: "Kültür ve Turizm Bakanlığı Sanal Müzik Müzesi | Miras Haritası"
-date: 2025-12-25T03:56:30+03:00
+title: "Kültür ve Turizm Bakanlığı Sanal Müzik Müzesi"
+date: "2025-12-25T03:56:30+03:00"
 slug: "kultur-ve-turizm-bakanligi-sanal-muzik-muzesi"
 description: "## Kültür ve Turizm Bakanlığı Sanal Müzik Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.822855,39.915245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kültür ve Turizm Bakanlığı Sanal Müzik Müzesi

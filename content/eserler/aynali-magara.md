@@ -1,18 +1,17 @@
 ---
-title: "Aynalı Mağara | Miras Haritası"
-date: 2025-12-25T14:06:49+03:00
+title: "Aynalı Mağara"
+date: "2025-12-25T14:06:49+03:00"
 slug: "aynali-magara"
 description: "## Aynalı Mağara: Amasya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Amasya_020.jpg/1200px-Amasya_020.jpg"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8425783,40.6717383"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aynalı Mağara: Amasya'nın Gizli Cenneti

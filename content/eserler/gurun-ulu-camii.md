@@ -1,18 +1,17 @@
 ---
-title: "Gürün Ulu Camii | Miras Haritası"
-date: 2025-12-24T23:07:40+03:00
+title: "Gürün Ulu Camii"
+date: "2025-12-24T23:07:40+03:00"
 slug: "gurun-ulu-camii"
 description: "## Gürün Ulu Camii: Tarihî Bir Mirasın Öyküsü..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Gürün"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.2693138,38.7224426"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gürün Ulu Camii: Tarihî Bir Mirasın Öyküsü

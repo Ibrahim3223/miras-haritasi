@@ -1,18 +1,17 @@
 ---
-title: "Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe | Miras Haritası"
-date: 2025-12-25T13:23:08+03:00
+title: "Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe"
+date: "2025-12-25T13:23:08+03:00"
 slug: "kaya-mezari-3-tikenlice-mahallesi-gurgentepe"
 description: "## Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe: Gürgentepe'nin Gizli Şehri..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Gürgentepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.65346,40.780355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe: Gürgentepe'nin Gizli Şehri

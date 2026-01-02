@@ -1,18 +1,17 @@
 ---
-title: "Şerafettin Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:12:31+03:00
+title: "Şerafettin Paşa Camii"
+date: "2025-12-24T23:12:31+03:00"
 slug: "serafettin-pasa-camii"
 description: "# Şerafettin Paşa Camii..."
 featured_image: ""
 province: "Orhangazi (ilçe)"
-iller: ["Orhangazi (ilçe)"]
+iller: '["Orhangazi (ilçe)"]'
 district: "Alacamescit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0679474,40.1842499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şerafettin Paşa Camii

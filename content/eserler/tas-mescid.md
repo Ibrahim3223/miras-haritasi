@@ -1,18 +1,17 @@
 ---
-title: "Taş Mescid | Miras Haritası"
-date: 2025-12-24T23:15:14+03:00
+title: "Taş Mescid"
+date: "2025-12-24T23:15:14+03:00"
 slug: "tas-mescid"
 description: "## Erzurum'daki Taş Mescid: Bir Uygarlık Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2823639,39.9074631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erzurum'daki Taş Mescid: Bir Uygarlık Mirası

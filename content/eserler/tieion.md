@@ -1,18 +1,17 @@
 ---
-title: "Tieion | Miras Haritası"
-date: 2025-12-25T07:12:59+03:00
+title: "Tieion"
+date: "2025-12-25T07:12:59+03:00"
 slug: "tieion"
 description: "## Tieion: Ereğli'nin Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ereğli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.023112,41.561257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tieion: Ereğli'nin Gizli Mirası

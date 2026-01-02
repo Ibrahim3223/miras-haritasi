@@ -1,18 +1,17 @@
 ---
-title: "Musa Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:03:37+03:00
+title: "Musa Paşa Sebili"
+date: "2025-12-25T13:03:37+03:00"
 slug: "musa-pasa-sebili"
 description: "## Musa Paşa Sebili: İstanbul'un Tarihî Çeşme Marveli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9762993,41.0135612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Musa Paşa Sebili: İstanbul'un Tarihî Çeşme Marveli

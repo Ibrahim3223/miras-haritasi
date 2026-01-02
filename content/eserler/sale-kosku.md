@@ -1,18 +1,17 @@
 ---
-title: "Şale Köşkü | Miras Haritası"
-date: 2025-12-25T04:11:58+03:00
+title: "Şale Köşkü"
+date: "2025-12-25T04:11:58+03:00"
 slug: "sale-kosku"
 description: "### Şale Köşkü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.012597915,41.052008254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şale Köşkü

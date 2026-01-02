@@ -1,18 +1,17 @@
 ---
-title: "Aşağıyanlar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:19:27+03:00
+title: "Aşağıyanlar Tümülüsü"
+date: "2025-12-25T07:19:27+03:00"
 slug: "asagiyanlar-tumulusu"
 description: "## Aşağıyanlar Tümülüsü: Çankırı'nın Gizli Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.5947419,40.570535"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağıyanlar Tümülüsü: Çankırı'nın Gizli Mirası

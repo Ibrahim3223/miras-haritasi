@@ -1,18 +1,17 @@
 ---
-title: "Batıayaz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:44+03:00
+title: "Batıayaz Köprüsü"
+date: "2025-12-25T02:22:44+03:00"
 slug: "batiayaz-koprusu"
 description: "## Batıayaz Köprüsü..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.0126686,36.1605034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Batıayaz Köprüsü

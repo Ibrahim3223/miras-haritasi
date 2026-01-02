@@ -1,18 +1,17 @@
 ---
-title: "Sofalı Çeşme, Karagümrük | Miras Haritası"
-date: 2025-12-25T10:38:01+03:00
+title: "Sofalı Çeşme, Karagümrük"
+date: "2025-12-25T10:38:01+03:00"
 slug: "sofali-cesme-karagumruk"
 description: "## Sofalı Çeşme, Karagümrük: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sofalı_Çeşme,_Karagümrük_05.jpg/1200px-Sofalı_Çeşme,_Karagümrük_05.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.935987,41.026519"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sofalı Çeşme, Karagümrük: İstanbul'un Gizli Çeşmesi

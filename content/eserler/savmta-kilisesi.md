@@ -1,18 +1,17 @@
 ---
-title: "Şavmta Kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:58+03:00
+title: "Şavmta Kilisesi"
+date: "2025-12-25T08:58:58+03:00"
 slug: "savmta-kilisesi"
 description: "### Şavmta Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.374405555,41.375480555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şavmta Kilisesi: Tarihi ve Kültürel Miras

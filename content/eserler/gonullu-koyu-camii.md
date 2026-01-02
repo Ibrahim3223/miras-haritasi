@@ -1,18 +1,17 @@
 ---
-title: "Gönüllü Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:04:12+03:00
+title: "Gönüllü Köyü Camii"
+date: "2025-12-24T23:04:12+03:00"
 slug: "gonullu-koyu-camii"
 description: "## Gönüllü Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Giresun"
+province: "Giresun"
+iller: '["Giresun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.594544,40.919969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gönüllü Köyü Camii

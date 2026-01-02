@@ -1,18 +1,17 @@
 ---
-title: "Kaunos | Miras Haritası"
-date: 2025-12-25T06:47:26+03:00
+title: "Kaunos"
+date: "2025-12-25T06:47:26+03:00"
 slug: "kaunos"
 description: "## Kaunos: Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/DALYAN-KAUNOS_-_panoramio.jpg/1200px-DALYAN-KAUNOS_-_panoramio.jpg"
 province: "Ortaca (ilçe)"
-iller: ["Ortaca (ilçe)"]
+iller: '["Ortaca (ilçe)"]'
 district: "Dalyan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.623056,36.825278"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kaunos: Tarihi ve Kültürel Mirası

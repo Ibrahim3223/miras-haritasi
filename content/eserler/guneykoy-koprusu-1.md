@@ -1,18 +1,17 @@
 ---
-title: "Güneyköy Köprüsü (1) | Miras Haritası"
-date: 2025-12-25T02:38:01+03:00
+title: "Güneyköy Köprüsü (1)"
+date: "2025-12-25T02:38:01+03:00"
 slug: "guneykoy-koprusu-1"
 description: "### Güneyköy Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.077971,40.992728"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güneyköy Köprüsü

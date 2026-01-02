@@ -1,18 +1,17 @@
 ---
-title: "İkiz Çeşme, Erkilet | Miras Haritası"
-date: 2025-12-25T12:57:16+03:00
+title: "İkiz Çeşme, Erkilet"
+date: "2025-12-25T12:57:16+03:00"
 slug: "ikiz-cesme-erkilet"
 description: "# İkiz Çeşme, Erkilet: Kayseri'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.445053405,38.822792309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İkiz Çeşme, Erkilet: Kayseri'nin Tarihi Bir Çeşmesi

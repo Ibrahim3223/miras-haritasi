@@ -1,18 +1,17 @@
 ---
-title: "Çala Kilisesi (Arpaçay) | Miras Haritası"
-date: 2025-12-25T08:54:14+03:00
+title: "Çala Kilisesi (Arpaçay)"
+date: "2025-12-25T08:54:14+03:00"
 slug: "cala-kilisesi-arpacay"
 description: "**Çala Kilisesi: Arpaçay'da Bir İncelik**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ch'ala_church_1902,_Turkey.jpg/1200px-Ch'ala_church_1902,_Turkey.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Arpaçay"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.334,41.061527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Çala Kilisesi: Arpaçay'da Bir İncelik**

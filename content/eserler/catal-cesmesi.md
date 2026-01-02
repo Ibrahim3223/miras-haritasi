@@ -1,18 +1,17 @@
 ---
-title: "Çatal Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:11:51+03:00
+title: "Çatal Çeşmesi"
+date: "2025-12-25T11:11:51+03:00"
 slug: "catal-cesmesi"
 description: "## Çatal Çeşmesi: Ferhatpaşa'daki Tarihi Bir Çeşme..."
 featured_image: ""
-province: "Çatalca"
-iller: ["Çatalca"]
-district: "Ferhatpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4634361,41.1414337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatal Çeşmesi: Ferhatpaşa'daki Tarihi Bir Çeşme

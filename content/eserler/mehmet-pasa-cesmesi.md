@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:52:07+03:00
+title: "Mehmet Paşa Çeşmesi"
+date: "2025-12-25T11:52:07+03:00"
 slug: "mehmet-pasa-cesmesi"
 description: "### Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.934603,41.045879"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehmet Paşa Çeşmesi

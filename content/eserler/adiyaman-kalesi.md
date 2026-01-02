@@ -1,18 +1,17 @@
 ---
-title: "Adıyaman Kalesi | Miras Haritası"
-date: 2025-12-25T01:30:34+03:00
+title: "Adıyaman Kalesi"
+date: "2025-12-25T01:30:34+03:00"
 slug: "adiyaman-kalesi"
 description: "# Adıyaman Kalesi: Tarih ve Kültür Mirasının Bir Göstergesi..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.275303,37.759574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Adıyaman Kalesi: Tarih ve Kültür Mirasının Bir Göstergesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayasuluk Kalesi | Miras Haritası"
-date: 2025-12-25T06:49:10+03:00
+title: "Ayasuluk Kalesi"
+date: "2025-12-25T06:49:10+03:00"
 slug: "ayasuluk-kalesi"
 description: "### Ayasuluk Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SelcukZitadelle.jpg/1200px-SelcukZitadelle.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.36805556,37.95555556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ayasuluk Kalesi: Tarihî Bir Mirasın Gizemi

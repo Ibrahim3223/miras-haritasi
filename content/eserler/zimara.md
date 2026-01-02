@@ -1,18 +1,17 @@
 ---
-title: "Zimara | Miras Haritası"
-date: 2025-12-25T05:16:56+03:00
+title: "Zimara"
+date: "2025-12-25T05:16:56+03:00"
 slug: "zimara"
 description: "## Zimara: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.37593,39.41281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zimara: Türkiye'nin Gizli Cenneti

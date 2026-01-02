@@ -1,18 +1,17 @@
 ---
-title: "Kavakdibi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:59+03:00
+title: "Kavakdibi Çeşmesi"
+date: "2025-12-25T10:44:59+03:00"
 slug: "kavakdibi-cesmesi"
 description: "## Kavakdibi Çeşmesi: Sivrihisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.5298347,39.4531136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavakdibi Çeşmesi: Sivrihisar'ın Tarihi Bir Çeşmesi

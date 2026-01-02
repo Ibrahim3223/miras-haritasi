@@ -1,18 +1,17 @@
 ---
-title: "Ortanköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:12+03:00
+title: "Ortanköy Köprüsü"
+date: "2025-12-25T02:04:12+03:00"
 slug: "ortankoy-koprusu"
 description: "## Ortanköy Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9898239,41.007176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortanköy Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası

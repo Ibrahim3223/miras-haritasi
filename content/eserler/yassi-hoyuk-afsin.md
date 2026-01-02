@@ -1,18 +1,17 @@
 ---
-title: "Yassı Höyük, Afşin | Miras Haritası"
-date: 2025-12-25T06:39:51+03:00
+title: "Yassı Höyük, Afşin"
+date: "2025-12-25T06:39:51+03:00"
 slug: "yassi-hoyuk-afsin"
 description: "## Yassı Höyük, Afşin: Kahramanmaraş'ın Gizli Cenneti..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9127292,38.3915654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yassı Höyük, Afşin: Kahramanmaraş'ın Gizli Cenneti

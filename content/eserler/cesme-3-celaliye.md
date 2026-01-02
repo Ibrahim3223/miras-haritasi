@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 3, Celaliye | Miras Haritası"
-date: 2025-12-25T12:49:19+03:00
+title: "Çeşme 3, Celaliye"
+date: "2025-12-25T12:49:19+03:00"
 slug: "cesme-3-celaliye"
 description: "## Çeşme 3, Celaliye: Büyükçekmece'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4193764,41.0510559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 3, Celaliye: Büyükçekmece'nin Tarihi Bir Çeşmesi

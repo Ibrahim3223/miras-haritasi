@@ -1,18 +1,17 @@
 ---
-title: "Çandarlı Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:39+03:00
+title: "Çandarlı Türbesi"
+date: "2025-12-25T15:21:39+03:00"
 slug: "candarli-turbesi"
 description: "## Çandarlı Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.7283878,40.4290085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çandarlı Türbesi

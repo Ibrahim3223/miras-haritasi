@@ -1,18 +1,17 @@
 ---
-title: "Ariassos | Miras Haritası"
-date: 2025-12-25T04:22:42+03:00
+title: "Ariassos"
+date: "2025-12-25T04:22:42+03:00"
 slug: "ariassos"
 description: "## Ariassos: Antalya'nın Gizli Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ariassos_6.jpg/1200px-Ariassos_6.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.4725,37.181111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ariassos: Antalya'nın Gizli Tarihî Mirası

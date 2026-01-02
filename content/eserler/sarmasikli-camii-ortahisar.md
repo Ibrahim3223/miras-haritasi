@@ -1,18 +1,17 @@
 ---
-title: "Sarmaşıklı Camii, Ortahisar | Miras Haritası"
-date: 2025-12-25T00:59:31+03:00
+title: "Sarmaşıklı Camii, Ortahisar"
+date: "2025-12-25T00:59:31+03:00"
 slug: "sarmasikli-camii-ortahisar"
 description: "## Sarmaşıklı Camii: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.7278824,41.0077705"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarmaşıklı Camii: Trabzon'un Tarihi Bir Mirası

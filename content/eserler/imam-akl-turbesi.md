@@ -1,18 +1,17 @@
 ---
-title: "İmam Akîl Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:41+03:00
+title: "İmam Akîl Türbesi"
+date: "2025-12-25T15:24:41+03:00"
 slug: "imam-akl-turbesi"
 description: "### İmam Akîl Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bağlar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2174721,37.8186073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İmam Akîl Türbesi

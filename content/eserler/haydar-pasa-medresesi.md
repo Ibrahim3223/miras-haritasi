@@ -1,18 +1,17 @@
 ---
-title: "Haydar Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:30:42+03:00
+title: "Haydar Paşa Medresesi"
+date: "2025-12-25T17:30:42+03:00"
 slug: "haydar-pasa-medresesi"
 description: "### Haydar Paşa Medresesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.956092,41.022227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haydar Paşa Medresesi: İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Alaaddin Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:14+03:00
+title: "Alaaddin Mescidi Çeşmesi"
+date: "2025-12-25T10:22:14+03:00"
 slug: "alaaddin-mescidi-cesmesi"
 description: "### Kütahya'nın Tarihsel Mirası: Alaaddin Mescidi Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9745502,39.4234352"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kütahya'nın Tarihsel Mirası: Alaaddin Mescidi Çeşmesi

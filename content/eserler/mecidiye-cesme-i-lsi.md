@@ -1,18 +1,17 @@
 ---
-title: "Mecidiye Çeşme-i Âlîsi | Miras Haritası"
-date: 2025-12-25T10:56:15+03:00
+title: "Mecidiye Çeşme-i Âlîsi"
+date: "2025-12-25T10:56:15+03:00"
 slug: "mecidiye-cesme-i-lsi"
 description: "## Mecidiye Çeşme-i Âlîsi: Bursa'nın Tarihi bir Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.061451,40.1836243"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mecidiye Çeşme-i Âlîsi: Bursa'nın Tarihi bir Çeşmesi

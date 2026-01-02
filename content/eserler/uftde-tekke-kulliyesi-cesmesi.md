@@ -1,18 +1,17 @@
 ---
-title: "Üftâde Tekke Külliyesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:55:17+03:00
+title: "Üftâde Tekke Külliyesi Çeşmesi"
+date: "2025-12-25T10:55:17+03:00"
 slug: "uftde-tekke-kulliyesi-cesmesi"
 description: "**Üftâde Tekke Külliyesi Çeşmesi**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0542088,40.1781807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Üftâde Tekke Külliyesi Çeşmesi**

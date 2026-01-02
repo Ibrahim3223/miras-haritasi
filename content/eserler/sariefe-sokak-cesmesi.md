@@ -1,18 +1,17 @@
 ---
-title: "Sarıefe Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:54+03:00
+title: "Sarıefe Sokak Çeşmesi"
+date: "2025-12-25T10:34:54+03:00"
 slug: "sariefe-sokak-cesmesi"
 description: "## Sarıefe Sokak Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.026524,41.051704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıefe Sokak Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Uzundere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:10+03:00
+title: "Uzundere Köprüsü"
+date: "2025-12-25T02:07:10+03:00"
 slug: "uzundere-koprusu"
 description: "# Uzundere Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.7971916,40.9089012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Uzundere Köprüsü

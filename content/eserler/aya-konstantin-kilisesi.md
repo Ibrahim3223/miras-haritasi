@@ -1,18 +1,17 @@
 ---
-title: "Aya Konstantin Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:44+03:00
+title: "Aya Konstantin Kilisesi"
+date: "2025-12-25T09:34:44+03:00"
 slug: "aya-konstantin-kilisesi"
 description: "### Aya Konstantin Kilisesi: Kırklareli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.1806164,41.7510529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Konstantin Kilisesi: Kırklareli'nin Tarihi ve Kültürel Mirası

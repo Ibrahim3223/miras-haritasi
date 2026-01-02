@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Tatlıses Müzik Müzesi | Miras Haritası"
-date: 2025-12-25T03:55:37+03:00
+title: "İbrahim Tatlıses Müzik Müzesi"
+date: "2025-12-25T03:55:37+03:00"
 slug: "ibrahim-tatlises-muzik-muzesi"
 description: "### İbrahim Tatlıses Müzik Müzesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.786473,37.144137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İbrahim Tatlıses Müzik Müzesi

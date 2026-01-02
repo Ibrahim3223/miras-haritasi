@@ -1,18 +1,17 @@
 ---
-title: "Kışlacık Seyfinin Tarla Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:06:20+03:00
+title: "Kışlacık Seyfinin Tarla Tümülüsü"
+date: "2025-12-25T08:06:20+03:00"
 slug: "kislacik-seyfinin-tarla-tumulusu"
 description: "## Kışlacık Seyfinin Tarla Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.929985,41.6971588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kışlacık Seyfinin Tarla Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Kırkçeşmeler | Miras Haritası"
-date: 2025-12-25T13:02:41+03:00
+title: "Kırkçeşmeler"
+date: "2025-12-25T13:02:41+03:00"
 slug: "kirkcesmeler"
 description: "## Kırkçeşmeler: Zeyrek'teki Büyüleyici Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Zeyrek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.955965,41.016559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırkçeşmeler: Zeyrek'teki Büyüleyici Çeşme

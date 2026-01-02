@@ -1,18 +1,17 @@
 ---
-title: "Aksinne Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:14+03:00
+title: "Aksinne Mescidi Çeşmesi"
+date: "2025-12-25T11:35:14+03:00"
 slug: "aksinne-mescidi-cesmesi"
 description: "## Aksinne Mescidi Çeşmesi: Meram, Konya'da Bir Örnek Osmanlı Mimarisine..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4920425,37.8629532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aksinne Mescidi Çeşmesi: Meram, Konya'da Bir Örnek Osmanlı Mimarisine

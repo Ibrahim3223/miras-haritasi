@@ -1,18 +1,17 @@
 ---
-title: "Ahmetli Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:57:37+03:00
+title: "Ahmetli Köyü Camii"
+date: "2025-12-24T22:57:37+03:00"
 slug: "ahmetli-koyu-camii"
 description: "### Ahmetli Köyü Camii: Giresun'un Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Giresun"
+province: "Giresun"
+iller: '["Giresun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.181843,40.868818"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmetli Köyü Camii: Giresun'un Tarihî Bir Mirası

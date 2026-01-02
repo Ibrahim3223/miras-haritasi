@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:33:25+03:00
+title: "Hamidiye Köyü Camii"
+date: "2025-12-25T00:33:25+03:00"
 slug: "hamidiye-koyu-camii"
 description: "### Hamidiye Köyü Camii: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.665905148,41.150500796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamidiye Köyü Camii: Edirne'nin Gizli Cenneti

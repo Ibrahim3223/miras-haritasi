@@ -1,18 +1,17 @@
 ---
-title: "72 Numaralı Hudut Taşı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:41:06+03:00
+title: "72 Numaralı Hudut Taşı Tümülüsü"
+date: "2025-12-25T07:41:06+03:00"
 slug: "72-numarali-hudut-tasi-tumulusu"
 description: "## 72 Numaralı Hudut Taşı Tümülüsü: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2924366,42.0969582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 72 Numaralı Hudut Taşı Tümülüsü: Kırklareli'nin Gizli Anıtı

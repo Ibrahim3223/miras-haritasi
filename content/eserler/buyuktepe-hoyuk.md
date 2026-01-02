@@ -1,18 +1,17 @@
 ---
-title: "Büyüktepe Höyük | Miras Haritası"
-date: 2025-12-25T07:03:52+03:00
+title: "Büyüktepe Höyük"
+date: "2025-12-25T07:03:52+03:00"
 slug: "buyuktepe-hoyuk"
 description: "## Büyüktepe Höyük: Demirözü'de Gizli Bir Geçmişi..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.9148041,40.2061805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyüktepe Höyük: Demirözü'de Gizli Bir Geçmişi

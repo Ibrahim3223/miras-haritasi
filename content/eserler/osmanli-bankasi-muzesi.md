@@ -1,18 +1,17 @@
 ---
-title: "Osmanlı Bankası Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:57+03:00
+title: "Osmanlı Bankası Müzesi"
+date: "2025-12-25T04:03:57+03:00"
 slug: "osmanli-bankasi-muzesi"
 description: "## Osmanlı Bankası Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.972977,41.02409"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmanlı Bankası Müzesi

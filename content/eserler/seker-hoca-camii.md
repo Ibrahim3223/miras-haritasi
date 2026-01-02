@@ -1,18 +1,17 @@
 ---
-title: "Şeker Hoca Camii | Miras Haritası"
-date: 2025-12-24T23:11:23+03:00
+title: "Şeker Hoca Camii"
+date: "2025-12-24T23:11:23+03:00"
 slug: "seker-hoca-camii"
 description: "## Şeker Hoca Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/20241204_Şeker_Hoca_Camii_02.jpg/1200px-20241204_Şeker_Hoca_Camii_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0619335,40.1828766"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeker Hoca Camii

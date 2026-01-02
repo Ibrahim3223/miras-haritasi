@@ -1,18 +1,17 @@
 ---
-title: "Myloukome | Miras Haritası"
-date: 2025-12-25T05:12:37+03:00
+title: "Myloukome"
+date: "2025-12-25T05:12:37+03:00"
 slug: "myloukome"
 description: "## Myloukome: Kemaliye'de Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Alaşehir (ilçe)"
-iller: ["Alaşehir (ilçe)"]
+iller: '["Alaşehir (ilçe)"]'
 district: "Kemaliye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.42664,38.46374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Myloukome: Kemaliye'de Bir Arkeolojik Sit

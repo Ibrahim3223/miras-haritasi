@@ -1,18 +1,17 @@
 ---
-title: "Kırık Kağnı Ve Üç Komutan Anıtı | Miras Haritası"
-date: 2025-12-25T15:51:14+03:00
+title: "Kırık Kağnı Ve Üç Komutan Anıtı"
+date: "2025-12-25T15:51:14+03:00"
 slug: "kirik-kagni-ve-uc-komutan-aniti"
 description: "### Kırık Kağnı Ve Üç Komutan Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Altıntaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0643044,38.9296494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırık Kağnı Ve Üç Komutan Anıtı

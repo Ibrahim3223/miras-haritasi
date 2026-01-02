@@ -1,18 +1,17 @@
 ---
-title: "Lefke Kapı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:57:12+03:00
+title: "Lefke Kapı Çeşmesi"
+date: "2025-12-25T10:57:12+03:00"
 slug: "lefke-kapi-cesmesi"
 description: "### Lefke Kapı Çeşmesi: İznik'in Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.7289925,40.428875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Lefke Kapı Çeşmesi: İznik'in Gizli Cenneti

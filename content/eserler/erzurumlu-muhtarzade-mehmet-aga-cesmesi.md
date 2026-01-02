@@ -1,18 +1,17 @@
 ---
-title: "Erzurumlu Muhtarzade Mehmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:30:02+03:00
+title: "Erzurumlu Muhtarzade Mehmet Ağa Çeşmesi"
+date: "2025-12-25T12:30:02+03:00"
 slug: "erzurumlu-muhtarzade-mehmet-aga-cesmesi"
 description: "### Erzurumlu Muhtarzade Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.26189698,40.83891178"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Erzurumlu Muhtarzade Mehmet Ağa Çeşmesi

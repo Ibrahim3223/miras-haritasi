@@ -1,18 +1,17 @@
 ---
-title: "Havariyyun Kilisesi | Miras Haritası"
-date: 2025-12-25T08:40:57+03:00
+title: "Havariyyun Kilisesi"
+date: "2025-12-25T08:40:57+03:00"
 slug: "havariyyun-kilisesi"
 description: "## Havariyyun Kilisesi: İstanbul'un Gizli Azınlık Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Meister_der_Predigten_des_Mönchs_Johannes_Kokkinobaphos_002.jpg/1200px-Meister_der_Predigten_des_Mönchs_Johannes_Kokkinobaphos_002.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.949722222,41.019722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Havariyyun Kilisesi: İstanbul'un Gizli Azınlık Tarihi

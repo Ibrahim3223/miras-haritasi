@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami (Afyonkarahisar) | Miras Haritası"
-date: 2025-12-24T23:52:20+03:00
+title: "Yeni Cami (Afyonkarahisar)"
+date: "2025-12-24T23:52:20+03:00"
 slug: "yeni-cami-afyonkarahisar"
 description: "## Yeni Cami (Afyonkarahisar)..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.535284,38.7550392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Cami (Afyonkarahisar)

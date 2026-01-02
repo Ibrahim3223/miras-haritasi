@@ -1,18 +1,17 @@
 ---
-title: "Çapaçarık Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:48+03:00
+title: "Çapaçarık Türbesi"
+date: "2025-12-25T15:24:48+03:00"
 slug: "capacarik-turbesi"
 description: "## Çapaçarık Türbesi: Manisa'nın Tarihi bir Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3195534,38.6155167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çapaçarık Türbesi: Manisa'nın Tarihi bir Anıtı

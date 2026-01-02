@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye Külliyesi Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:47+03:00
+title: "Süleymaniye Külliyesi Duvar Çeşmesi"
+date: "2025-12-25T11:08:47+03:00"
 slug: "suleymaniye-kulliyesi-duvar-cesmesi"
 description: "## Süleymaniye Külliyesi Duvar Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Süleymaniye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.964096,41.016946"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Süleymaniye Külliyesi Duvar Çeşmesi

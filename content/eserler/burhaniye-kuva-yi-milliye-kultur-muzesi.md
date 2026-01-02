@@ -1,18 +1,17 @@
 ---
-title: "Burhaniye Kuva-yı Milliye Kültür Müzesi | Miras Haritası"
-date: 2025-12-25T03:16:28+03:00
+title: "Burhaniye Kuva-yı Milliye Kültür Müzesi"
+date: "2025-12-25T03:16:28+03:00"
 slug: "burhaniye-kuva-yi-milliye-kultur-muzesi"
 description: "### Burhaniye Kuva-yı Milliye Kültür Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burhaniye_KuvayiMilliye_Müzesi.jpg/1200px-Burhaniye_KuvayiMilliye_Müzesi.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Burhaniye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.981111111,39.503611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Burhaniye Kuva-yı Milliye Kültür Müzesi

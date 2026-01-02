@@ -1,18 +1,17 @@
 ---
-title: "Taceddin Altunbaş Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:28+03:00
+title: "Taceddin Altunbaş Medresesi"
+date: "2025-12-25T17:44:28+03:00"
 slug: "taceddin-altunbas-medresesi"
 description: "## Taceddin Altunbaş Medresesi: Amasya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.8332329,40.6508942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taceddin Altunbaş Medresesi: Amasya'nın Tarihi Bir Mirası

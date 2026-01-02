@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Akif Ersoy Kabri | Miras Haritası"
-date: 2025-12-25T14:04:59+03:00
+title: "Mehmet Akif Ersoy Kabri"
+date: "2025-12-25T14:04:59+03:00"
 slug: "mehmet-akif-ersoy-kabri"
 description: "## Mehmet Akif Ersoy Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9291744,41.0322876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Akif Ersoy Kabri

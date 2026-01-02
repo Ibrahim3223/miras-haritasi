@@ -1,18 +1,17 @@
 ---
-title: "Haseki Sultan Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:47+03:00
+title: "Haseki Sultan Camii Şadırvanı"
+date: "2025-12-25T10:02:47+03:00"
 slug: "haseki-sultan-camii-sadirvani"
 description: "## Haseki Sultan Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9415417,41.0086403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haseki Sultan Camii Şadırvanı

@@ -1,18 +1,17 @@
 ---
-title: "Taş Cami (Erzurum) | Miras Haritası"
-date: 2025-12-24T23:24:49+03:00
+title: "Taş Cami (Erzurum)"
+date: "2025-12-24T23:24:49+03:00"
 slug: "tas-cami-erzurum"
 description: "### Taş Cami (Erzurum)..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2806129,39.9037933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taş Cami (Erzurum)

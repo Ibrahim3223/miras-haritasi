@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:06+03:00
+title: "Kütahya Arkeoloji Müzesi"
+date: "2025-12-25T03:19:06+03:00"
 slug: "kutahya-arkeoloji-muzesi"
 description: "### Kütahya Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vacidiye_giriş.JPG/1200px-Vacidiye_giriş.JPG"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.976111111,39.417222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kütahya Arkeoloji Müzesi

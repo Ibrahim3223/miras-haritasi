@@ -1,18 +1,17 @@
 ---
-title: "Keçeli Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:20+03:00
+title: "Keçeli Hamamı"
+date: "2025-12-25T16:40:20+03:00"
 slug: "keceli-hamami"
 description: "## Keçeli Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0180683,40.2005692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keçeli Hamamı

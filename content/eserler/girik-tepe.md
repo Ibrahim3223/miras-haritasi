@@ -1,18 +1,17 @@
 ---
-title: "Girik Tepe | Miras Haritası"
-date: 2025-12-25T07:00:35+03:00
+title: "Girik Tepe"
+date: "2025-12-25T07:00:35+03:00"
 slug: "girik-tepe"
 description: "# Girik Tepe Arkeolojik Sit..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Bebek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Girik Tepe Arkeolojik Sit

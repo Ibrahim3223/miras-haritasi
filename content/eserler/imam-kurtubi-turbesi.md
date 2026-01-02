@@ -1,18 +1,17 @@
 ---
-title: "İmam Kurtubi Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:59+03:00
+title: "İmam Kurtubi Türbesi"
+date: "2025-12-25T15:16:59+03:00"
 slug: "imam-kurtubi-turbesi"
 description: "### İmam Kurtubi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.511127,40.738241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İmam Kurtubi Türbesi

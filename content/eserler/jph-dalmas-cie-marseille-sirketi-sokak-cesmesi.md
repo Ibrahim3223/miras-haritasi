@@ -1,18 +1,17 @@
 ---
-title: "Jph Dalmas & Cie Marseille Şirketi Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:52:02+03:00
+title: "Jph Dalmas & Cie Marseille Şirketi Sokak Çeşmesi"
+date: "2025-12-25T12:52:02+03:00"
 slug: "jph-dalmas-cie-marseille-sirketi-sokak-cesmesi"
 description: "### Jph Dalmas & Cie Marseille Şirketi Sokak Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1289387,38.4125938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Jph Dalmas & Cie Marseille Şirketi Sokak Çeşmesi

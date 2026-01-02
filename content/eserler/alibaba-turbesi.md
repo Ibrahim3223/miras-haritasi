@@ -1,18 +1,17 @@
 ---
-title: "Alibaba Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:02+03:00
+title: "Alibaba Türbesi"
+date: "2025-12-25T15:24:02+03:00"
 slug: "alibaba-turbesi"
 description: "## Alibaba Türbesi: Balıkesir'in Hızlı Dalgası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Marmara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.5307426,40.5092049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alibaba Türbesi: Balıkesir'in Hızlı Dalgası

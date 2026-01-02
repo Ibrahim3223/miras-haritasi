@@ -1,18 +1,17 @@
 ---
-title: "Tacettin Sultan Camii | Miras Haritası"
-date: 2025-12-24T23:13:24+03:00
+title: "Tacettin Sultan Camii"
+date: "2025-12-24T23:13:24+03:00"
 slug: "tacettin-sultan-camii"
 description: "## Tacettin Sultan Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8651428,39.9327126"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tacettin Sultan Camii

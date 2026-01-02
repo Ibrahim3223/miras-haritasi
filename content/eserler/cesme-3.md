@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 3 | Miras Haritası"
-date: 2025-12-25T10:19:48+03:00
+title: "Çeşme 3"
+date: "2025-12-25T10:19:48+03:00"
 slug: "cesme-3"
 description: "## Çeşme 3: Ayvacık'taki Bir Ören..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6188698,39.5703545"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 3: Ayvacık'taki Bir Ören

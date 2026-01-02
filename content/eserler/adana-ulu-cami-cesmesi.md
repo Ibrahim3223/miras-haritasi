@@ -1,18 +1,17 @@
 ---
-title: "Adana Ulu Cami Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:28:18+03:00
+title: "Adana Ulu Cami Çeşmesi"
+date: "2025-12-25T12:28:18+03:00"
 slug: "adana-ulu-cami-cesmesi"
 description: "**Adana Ulu Cami Çeşmesi**..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.330653112,36.984987244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Adana Ulu Cami Çeşmesi**

@@ -1,18 +1,17 @@
 ---
-title: "Alemşah Türbesi, Sivrihisar | Miras Haritası"
-date: 2025-12-25T13:57:49+03:00
+title: "Alemşah Türbesi, Sivrihisar"
+date: "2025-12-25T13:57:49+03:00"
 slug: "alemsah-turbesi-sivrihisar"
 description: "### Alemşah Türbesi, Sivrihisar..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.537455,39.451151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alemşah Türbesi, Sivrihisar

@@ -1,18 +1,17 @@
 ---
-title: "Örücüler Kapısı | Miras Haritası"
-date: 2025-12-25T15:35:59+03:00
+title: "Örücüler Kapısı"
+date: "2025-12-25T15:35:59+03:00"
 slug: "oruculer-kapisi"
 description: "## Örücüler Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.967479,41.012218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Örücüler Kapısı

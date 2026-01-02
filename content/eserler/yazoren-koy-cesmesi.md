@@ -1,18 +1,17 @@
 ---
-title: "Yazören Köy Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:27:59+03:00
+title: "Yazören Köy Çeşmesi"
+date: "2025-12-25T11:27:59+03:00"
 slug: "yazoren-koy-cesmesi"
 description: "# Yazören Köy Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Savaştepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8182297,39.3312035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yazören Köy Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Bali Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:48:34+03:00
+title: "Bali Paşa Camii"
+date: "2025-12-24T21:48:34+03:00"
 slug: "bali-pasa-camii"
 description: "## Bali Paşa Camii: Fatih'te Bir Tarih Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Istanbul_Bali_Paşa_Mosque_exterior_2015_9065.jpg/1200px-Istanbul_Bali_Paşa_Mosque_exterior_2015_9065.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.943975,41.01898611"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bali Paşa Camii: Fatih'te Bir Tarih Öreni

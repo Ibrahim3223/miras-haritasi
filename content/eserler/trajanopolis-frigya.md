@@ -1,18 +1,17 @@
 ---
-title: "Trajanopolis (Frigya) | Miras Haritası"
-date: 2025-12-25T05:16:35+03:00
+title: "Trajanopolis (Frigya)"
+date: "2025-12-25T05:16:35+03:00"
 slug: "trajanopolis-frigya"
 description: "## Trajanopolis (Frigya): Tarihî Bir Mirasın Büyüklüğü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.5470197,38.6859865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Trajanopolis (Frigya): Tarihî Bir Mirasın Büyüklüğü

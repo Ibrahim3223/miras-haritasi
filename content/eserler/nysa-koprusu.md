@@ -1,18 +1,17 @@
 ---
-title: "Nysa Köprüsü | Miras Haritası"
-date: 2025-12-25T01:52:38+03:00
+title: "Nysa Köprüsü"
+date: "2025-12-25T01:52:38+03:00"
 slug: "nysa-koprusu"
 description: "## Nysa Köprüsü: Aydın'ın Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NysaTunnel.jpg/1200px-NysaTunnel.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.145514,37.903405"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nysa Köprüsü: Aydın'ın Tarihî Bir Mirası

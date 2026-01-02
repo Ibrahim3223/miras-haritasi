@@ -1,18 +1,17 @@
 ---
-title: "Güre Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:25:10+03:00
+title: "Güre Köyü Camii"
+date: "2025-12-24T23:25:10+03:00"
 slug: "gure-koyu-camii"
 description: "## Güre Köyü Camii: Balıkesir'in Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8958035,39.6127739"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güre Köyü Camii: Balıkesir'in Tarihi ve Kültürel Mirasının Bir Parçası

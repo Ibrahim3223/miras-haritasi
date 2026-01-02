@@ -1,18 +1,17 @@
 ---
-title: "Hisarkaya Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:38+03:00
+title: "Hisarkaya Köprüsü"
+date: "2025-12-25T02:18:38+03:00"
 slug: "hisarkaya-koprusu"
 description: "## Hisarkaya Köprüsü: Savur'un Gizli Anıtı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Savur"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9061699,37.6444054"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hisarkaya Köprüsü: Savur'un Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "II.Yakup Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:55+03:00
+title: "II.Yakup Çelebi Türbesi"
+date: "2025-12-25T15:14:55+03:00"
 slug: "iiyakup-celebi-turbesi"
 description: "## II. Yakup Çelebi Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9750271,39.4174156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Yakup Çelebi Türbesi

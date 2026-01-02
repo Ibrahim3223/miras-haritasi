@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye Darülhadisi | Miras Haritası"
-date: 2025-12-25T17:28:04+03:00
+title: "Süleymaniye Darülhadisi"
+date: "2025-12-25T17:28:04+03:00"
 slug: "suleymaniye-darulhadisi"
 description: "## Süleymaniye Darülhadisi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.965433,41.015465"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Süleymaniye Darülhadisi: İstanbul'un Tarihi ve Kültürel Mirası

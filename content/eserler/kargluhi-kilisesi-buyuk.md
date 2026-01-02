@@ -1,18 +1,17 @@
 ---
-title: "Kargluhi Kilisesi (Büyük) | Miras Haritası"
-date: 2025-12-25T09:04:20+03:00
+title: "Kargluhi Kilisesi (Büyük)"
+date: "2025-12-25T09:04:20+03:00"
 slug: "kargluhi-kilisesi-buyuk"
 description: "# Kargluhi Kilisesi (Büyük)..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Yünören"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.291833333,40.632083333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kargluhi Kilisesi (Büyük)

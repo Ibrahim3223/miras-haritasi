@@ -1,18 +1,17 @@
 ---
-title: "Yassıtepe Höyüğü, Bornova | Miras Haritası"
-date: 2025-12-25T05:41:43+03:00
+title: "Yassıtepe Höyüğü, Bornova"
+date: "2025-12-25T05:41:43+03:00"
 slug: "yassitepe-hoyugu-bornova"
 description: "## Yassıtepe Höyüğü, Bornova..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2105465,38.4484138"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yassıtepe Höyüğü, Bornova

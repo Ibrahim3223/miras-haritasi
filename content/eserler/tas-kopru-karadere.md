@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Karadere | Miras Haritası"
-date: 2025-12-25T02:48:49+03:00
+title: "Taş Köprü, Karadere"
+date: "2025-12-25T02:48:49+03:00"
 slug: "tas-kopru-karadere"
 description: "## Taş Köprü, Karadere: İzmit'in Gizli Çehresinin Bir Parçası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kınık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.4529991,38.9656982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Köprü, Karadere: İzmit'in Gizli Çehresinin Bir Parçası

@@ -1,18 +1,17 @@
 ---
-title: "Kyllene (Eolis) | Miras Haritası"
-date: 2025-12-25T04:38:34+03:00
+title: "Kyllene (Eolis)"
+date: "2025-12-25T04:38:34+03:00"
 slug: "kyllene-eolis"
 description: "# Kyllene (Eolis)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.83198,38.745271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kyllene (Eolis)

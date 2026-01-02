@@ -1,18 +1,17 @@
 ---
-title: "Pilavtepe | Miras Haritası"
-date: 2025-12-25T06:17:03+03:00
+title: "Pilavtepe"
+date: "2025-12-25T06:17:03+03:00"
 slug: "pilavtepe"
 description: "**Pilavtepe: Hafik'te Bir Arkeolojik Sit**..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.3634934,39.8388323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Pilavtepe: Hafik'te Bir Arkeolojik Sit**

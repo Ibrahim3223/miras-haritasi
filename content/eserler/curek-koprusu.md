@@ -1,18 +1,17 @@
 ---
-title: "Cürek Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:17+03:00
+title: "Cürek Köprüsü"
+date: "2025-12-25T02:32:17+03:00"
 slug: "curek-koprusu"
 description: "## Cürek Köprüsü: Divriği'nin Büyüleyici Mimarisi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.0395624,39.4400981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cürek Köprüsü: Divriği'nin Büyüleyici Mimarisi

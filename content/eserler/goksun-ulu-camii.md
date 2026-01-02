@@ -1,18 +1,17 @@
 ---
-title: "Göksun Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:04:10+03:00
+title: "Göksun Ulu Camii"
+date: "2025-12-24T22:04:10+03:00"
 slug: "goksun-ulu-camii"
 description: "## Göksun Ulu Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Göksun"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.494611111,38.02025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göksun Ulu Camii

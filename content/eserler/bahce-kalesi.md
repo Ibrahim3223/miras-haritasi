@@ -1,18 +1,17 @@
 ---
-title: "Bahçe Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:29+03:00
+title: "Bahçe Kalesi"
+date: "2025-12-25T01:28:29+03:00"
 slug: "bahce-kalesi"
 description: "## Bahçe Kalesi: Osmaniye'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Bahçe"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.5835495,37.2009277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahçe Kalesi: Osmaniye'nin Tarihi Bir Mirası

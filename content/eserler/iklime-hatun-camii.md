@@ -1,18 +1,17 @@
 ---
-title: "İklime Hatun Camii | Miras Haritası"
-date: 2025-12-24T23:38:56+03:00
+title: "İklime Hatun Camii"
+date: "2025-12-24T23:38:56+03:00"
 slug: "iklime-hatun-camii"
 description: "## İklime Hatun Camii: Kahramanmaraş'ın Tarihi Bir Çanak..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9280739,37.5829163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İklime Hatun Camii: Kahramanmaraş'ın Tarihi Bir Çanak

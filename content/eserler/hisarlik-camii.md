@@ -1,18 +1,17 @@
 ---
-title: "Hisarlık Camii | Miras Haritası"
-date: 2025-12-25T00:07:34+03:00
+title: "Hisarlık Camii"
+date: "2025-12-25T00:07:34+03:00"
 slug: "hisarlik-camii"
 description: "### Hisarlık Camii: Bozkır, Konya'nın Tarihi Çaprazı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Bozkır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.344845,37.153338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hisarlık Camii: Bozkır, Konya'nın Tarihi Çaprazı

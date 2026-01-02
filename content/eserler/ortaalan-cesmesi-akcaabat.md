@@ -1,18 +1,17 @@
 ---
-title: "Ortaalan Çeşmesi Akçaabat | Miras Haritası"
-date: 2025-12-25T10:19:08+03:00
+title: "Ortaalan Çeşmesi Akçaabat"
+date: "2025-12-25T10:19:08+03:00"
 slug: "ortaalan-cesmesi-akcaabat"
 description: "# Ortaalan Çeşmesi Akçaabat..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Akçaabat"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.4822235,40.9311981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ortaalan Çeşmesi Akçaabat

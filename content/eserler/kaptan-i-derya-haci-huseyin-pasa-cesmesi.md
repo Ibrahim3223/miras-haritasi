@@ -1,18 +1,17 @@
 ---
-title: "Kaptan-ı Derya Hacı Hüseyin Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:35:38+03:00
+title: "Kaptan-ı Derya Hacı Hüseyin Paşa Çeşmesi"
+date: "2025-12-25T10:35:38+03:00"
 slug: "kaptan-i-derya-haci-huseyin-pasa-cesmesi"
 description: "## Kaptan-ı Derya Hacı Hüseyin Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kaptan-ı_Derya_Hacı_Hüseyin_Paşa_Çeşmesi_IMG_0249.jpg/1200px-Kaptan-ı_Derya_Hacı_Hüseyin_Paşa_Çeşmesi_IMG_0249.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.970947,41.035343"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kaptan-ı Derya Hacı Hüseyin Paşa Çeşmesi

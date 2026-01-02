@@ -1,18 +1,17 @@
 ---
-title: "Lebissos Kilisesi 3 | Miras Haritası"
-date: 2025-12-25T09:18:05+03:00
+title: "Lebissos Kilisesi 3"
+date: "2025-12-25T09:18:05+03:00"
 slug: "lebissos-kilisesi-3"
 description: "## Lebissos Kilisesi 3: Muğla'da Bir Bizans Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0686626,36.5528564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lebissos Kilisesi 3: Muğla'da Bir Bizans Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Hasırcı Melek Camii | Miras Haritası"
-date: 2025-12-24T22:55:02+03:00
+title: "Hasırcı Melek Camii"
+date: "2025-12-24T22:55:02+03:00"
 slug: "hasirci-melek-camii"
 description: "# Hasırcı Melek Camii: İstanbul'un Gizli Çehresinde Bir Örnek..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9235535,41.0140495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hasırcı Melek Camii: İstanbul'un Gizli Çehresinde Bir Örnek

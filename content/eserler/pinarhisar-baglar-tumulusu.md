@@ -1,18 +1,17 @@
 ---
-title: "Pınarhisar Bağlar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:55:43+03:00
+title: "Pınarhisar Bağlar Tümülüsü"
+date: "2025-12-25T07:55:43+03:00"
 slug: "pinarhisar-baglar-tumulusu"
 description: "**Pınarhisar Bağlar Tümülüsü: Kırklareli'nin Gizli Hazinesi**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5183125,41.5965195"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Pınarhisar Bağlar Tümülüsü: Kırklareli'nin Gizli Hazinesi**

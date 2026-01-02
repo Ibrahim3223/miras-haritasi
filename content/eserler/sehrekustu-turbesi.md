@@ -1,18 +1,17 @@
 ---
-title: "Şehreküstü Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:55+03:00
+title: "Şehreküstü Türbesi"
+date: "2025-12-25T14:52:55+03:00"
 slug: "sehrekustu-turbesi"
 description: "## Şehreküstü Türbesi: Afyonkarahisar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5414677,38.7645988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehreküstü Türbesi: Afyonkarahisar'ın Gizli Çeşmesi

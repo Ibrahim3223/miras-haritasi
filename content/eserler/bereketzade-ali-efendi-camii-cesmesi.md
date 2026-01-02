@@ -1,18 +1,17 @@
 ---
-title: "Bereketzade Ali Efendi Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:59:50+03:00
+title: "Bereketzade Ali Efendi Camii Çeşmesi"
+date: "2025-12-25T12:59:50+03:00"
 slug: "bereketzade-ali-efendi-camii-cesmesi"
 description: "## Bereketzade Ali Efendi Camii Çeşmesi: Osmanlı Rönesansının Efsanevi Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bereketzade_Ali_Efendi_Camii_Çeşmesi_IMG_9852.jpg/1200px-Bereketzade_Ali_Efendi_Camii_Çeşmesi_IMG_9852.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Bereketzade"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9742279,41.0249329"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bereketzade Ali Efendi Camii Çeşmesi: Osmanlı Rönesansının Efsanevi Eseri

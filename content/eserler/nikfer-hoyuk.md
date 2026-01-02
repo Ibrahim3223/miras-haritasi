@@ -1,18 +1,17 @@
 ---
-title: "Nikfer Höyük | Miras Haritası"
-date: 2025-12-25T06:04:10+03:00
+title: "Nikfer Höyük"
+date: "2025-12-25T06:04:10+03:00"
 slug: "nikfer-hoyuk"
 description: "## Nikfer Höyük: Tavas'ın Eski Yerleşimi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1191006,37.3830986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nikfer Höyük: Tavas'ın Eski Yerleşimi

@@ -1,18 +1,17 @@
 ---
-title: "Kızlan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:33:21+03:00
+title: "Kızlan Çeşmesi"
+date: "2025-12-25T11:33:21+03:00"
 slug: "kizlan-cesmesi"
 description: "## Kızlan Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6922874,36.7739983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızlan Çeşmesi

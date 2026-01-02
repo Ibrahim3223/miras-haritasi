@@ -1,18 +1,17 @@
 ---
-title: "Nakşibendi Türbesi, Altındağ | Miras Haritası"
-date: 2025-12-25T15:30:14+03:00
+title: "Nakşibendi Türbesi, Altındağ"
+date: "2025-12-25T15:30:14+03:00"
 slug: "naksibendi-turbesi-altindag"
 description: "## Nakşibendi Türbesi, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.862183949,39.934199032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nakşibendi Türbesi, Altındağ

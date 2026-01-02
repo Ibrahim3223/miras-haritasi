@@ -1,18 +1,17 @@
 ---
-title: "Hanım Camii, Niğde | Miras Haritası"
-date: 2025-12-25T00:25:28+03:00
+title: "Hanım Camii, Niğde"
+date: "2025-12-25T00:25:28+03:00"
 slug: "hanim-camii-nigde"
 description: "## Hanım Camii: Niğde'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6805229,37.9653473"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hanım Camii: Niğde'nin Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Emir Şeyh Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:19+03:00
+title: "Emir Şeyh Türbesi"
+date: "2025-12-25T15:11:19+03:00"
 slug: "emir-seyh-turbesi"
 description: "## Emir Şeyh Türbesi: Yakutiye'nin Gizli Çehresi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2795525,39.9051285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Şeyh Türbesi: Yakutiye'nin Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Hamza Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:02:36+03:00
+title: "Hamza Baba Türbesi"
+date: "2025-12-25T15:02:36+03:00"
 slug: "hamza-baba-turbesi"
 description: "## Hamza Baba Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7091503,38.419487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamza Baba Türbesi

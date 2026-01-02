@@ -1,18 +1,17 @@
 ---
-title: "Karayusuf Höyük | Miras Haritası"
-date: 2025-12-25T13:48:07+03:00
+title: "Karayusuf Höyük"
+date: "2025-12-25T13:48:07+03:00"
 slug: "karayusuf-hoyuk"
 description: "### Karayusuf Höyük: Avanos'un Gizli Tarihi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.0034607,38.9654246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karayusuf Höyük: Avanos'un Gizli Tarihi

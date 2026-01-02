@@ -1,18 +1,17 @@
 ---
-title: "Sorp Surp Garabed Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:18+03:00
+title: "Sorp Surp Garabed Manastırı"
+date: "2025-12-25T09:53:18+03:00"
 slug: "sorp-surp-garabed-manastiri"
 description: "## Sorp Surp Garabed Manastırı Tanıtımı..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Tatvan"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.5401344,38.4898949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sorp Surp Garabed Manastırı Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Gelin Hanım Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:53+03:00
+title: "Gelin Hanım Köprüsü"
+date: "2025-12-25T03:02:53+03:00"
 slug: "gelin-hanim-koprusu"
 description: "## Gelin Hanım Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.7474499,41.7219238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gelin Hanım Köprüsü

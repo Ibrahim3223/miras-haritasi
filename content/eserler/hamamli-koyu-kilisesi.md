@@ -1,18 +1,17 @@
 ---
-title: "Hamamlı Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:46+03:00
+title: "Hamamlı Köyü Kilisesi"
+date: "2025-12-25T09:23:46+03:00"
 slug: "hamamli-koyu-kilisesi"
 description: "## Hamamlı Köyü Kilisesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.6579819,37.9804764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamamlı Köyü Kilisesi

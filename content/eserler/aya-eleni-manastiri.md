@@ -1,18 +1,17 @@
 ---
-title: "Aya Eleni Manastırı | Miras Haritası"
-date: 2025-12-25T09:59:53+03:00
+title: "Aya Eleni Manastırı"
+date: "2025-12-25T09:59:53+03:00"
 slug: "aya-eleni-manastiri"
 description: "## Aya Eleni Manastırı: Gökçeada'nın Tarihi Özellikleri..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.7663994,40.1603012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Eleni Manastırı: Gökçeada'nın Tarihi Özellikleri

@@ -1,18 +1,17 @@
 ---
-title: "Bıyıklı Hüsrev Camii | Miras Haritası"
-date: 2025-12-24T22:50:16+03:00
+title: "Bıyıklı Hüsrev Camii"
+date: "2025-12-24T22:50:16+03:00"
 slug: "biyikli-husrev-camii"
 description: "## Bıyıklı Hüsrev Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9391937,41.0050735"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bıyıklı Hüsrev Camii

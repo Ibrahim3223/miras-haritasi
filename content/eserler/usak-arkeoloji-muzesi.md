@@ -1,18 +1,17 @@
 ---
-title: "Uşak Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:10+03:00
+title: "Uşak Arkeoloji Müzesi"
+date: "2025-12-25T03:14:10+03:00"
 slug: "usak-arkeoloji-muzesi"
 description: "**Uşak Arkeoloji Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Uşak_Museum_garden_in_former_museum_2335.jpg/1200px-Uşak_Museum_garden_in_former_museum_2335.jpg"
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.403398,38.674223"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Uşak Arkeoloji Müzesi**

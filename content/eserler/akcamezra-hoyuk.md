@@ -1,18 +1,17 @@
 ---
-title: "Akçamezra Höyük | Miras Haritası"
-date: 2025-12-25T06:46:10+03:00
+title: "Akçamezra Höyük"
+date: "2025-12-25T06:46:10+03:00"
 slug: "akcamezra-hoyuk"
 description: "### Akçamezra Höyük: Gaziantep'in Gizli Kahramanı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.5771996,36.8087203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçamezra Höyük: Gaziantep'in Gizli Kahramanı

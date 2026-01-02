@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Dede Mezarı (Babaeski) | Miras Haritası"
-date: 2025-12-25T13:23:48+03:00
+title: "Ahmet Dede Mezarı (Babaeski)"
+date: "2025-12-25T13:23:48+03:00"
 slug: "ahmet-dede-mezari-babaeski"
 description: "### Ahmet Dede Mezarı (Babaeski)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Babaeski_-_Ahmet_Dede_Mezarı_(Babaeski)_-_20250424173154.jpg/1200px-Babaeski_-_Ahmet_Dede_Mezarı_(Babaeski)_-_20250424173154.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.094826082,41.428364419"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ahmet Dede Mezarı (Babaeski)

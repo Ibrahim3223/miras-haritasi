@@ -1,18 +1,17 @@
 ---
-title: "Ruznameci Ali Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:24+03:00
+title: "Ruznameci Ali Efendi Medresesi"
+date: "2025-12-25T17:44:24+03:00"
 slug: "ruznameci-ali-efendi-medresesi"
 description: "## Ruznameci Ali Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9638767,41.0082703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ruznameci Ali Efendi Medresesi

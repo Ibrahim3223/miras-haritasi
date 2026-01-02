@@ -1,18 +1,17 @@
 ---
-title: "Bel Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:42:55+03:00
+title: "Bel Mescidi Çeşmesi"
+date: "2025-12-25T10:42:55+03:00"
 slug: "bel-mescidi-cesmesi"
 description: "## Bel Mescidi Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5428677,38.7503014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bel Mescidi Çeşmesi

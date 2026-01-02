@@ -1,18 +1,17 @@
 ---
-title: "Abrahamavank Manastırı | Miras Haritası"
-date: 2025-12-25T09:49:50+03:00
+title: "Abrahamavank Manastırı"
+date: "2025-12-25T09:49:50+03:00"
 slug: "abrahamavank-manastiri"
 description: "## Abrahamavank Manastırı: Van'ın Gizemli Manastırı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.488841666,38.34612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abrahamavank Manastırı: Van'ın Gizemli Manastırı

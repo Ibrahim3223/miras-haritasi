@@ -1,18 +1,17 @@
 ---
-title: "Taylar Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:35+03:00
+title: "Taylar Kilisesi"
+date: "2025-12-25T09:13:35+03:00"
 slug: "taylar-kilisesi"
 description: "## Taylar Kilisesi: Ani'nin Gizemli Anıtı..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.6375809,40.5373688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taylar Kilisesi: Ani'nin Gizemli Anıtı

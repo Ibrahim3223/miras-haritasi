@@ -1,18 +1,17 @@
 ---
-title: "Bezirci Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:39:06+03:00
+title: "Bezirci Camii Çeşmesi"
+date: "2025-12-25T11:39:06+03:00"
 slug: "bezirci-camii-cesmesi"
 description: "## Bezirci Camii Çeşmesi: Konya'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5172043,37.8977318"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bezirci Camii Çeşmesi: Konya'nın Tarihi Bir Çeşmesi

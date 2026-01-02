@@ -1,18 +1,17 @@
 ---
-title: "Sivritepe Arkeolojik Yerleşkesi, Kuşadası | Miras Haritası"
-date: 2025-12-25T06:06:57+03:00
+title: "Sivritepe Arkeolojik Yerleşkesi, Kuşadası"
+date: "2025-12-25T06:06:57+03:00"
 slug: "sivritepe-arkeolojik-yerleskesi-kusadasi"
 description: "### Sivritepe Arkeolojik Yerleşkesi, Kuşadası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2758999,37.7132988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sivritepe Arkeolojik Yerleşkesi, Kuşadası

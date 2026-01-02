@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Çeşmesi | Miras Haritası"
-date: 2025-12-25T08:27:36+03:00
+title: "Ayazma Çeşmesi"
+date: "2025-12-25T08:27:36+03:00"
 slug: "ayazma-cesmesi"
 description: "## Ayazma Çeşmesi: Denizli'nin Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ancient_City_of_Hierapolis,_2019_28.jpg/1200px-Ancient_City_of_Hierapolis,_2019_28.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayazma Çeşmesi: Denizli'nin Gizli Çeşmesi

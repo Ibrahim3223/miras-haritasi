@@ -1,18 +1,17 @@
 ---
-title: "Abdülmecid Efendi Köşkü Bahçe Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:12+03:00
+title: "Abdülmecid Efendi Köşkü Bahçe Çeşmesi"
+date: "2025-12-25T11:48:12+03:00"
 slug: "abdulmecid-efendi-kosku-bahce-cesmesi"
 description: "### Abdülmecid Efendi Köşkü Bahçe Çeşmesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Kuzguncuk"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0416279,41.0280762"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdülmecid Efendi Köşkü Bahçe Çeşmesi

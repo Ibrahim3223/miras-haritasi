@@ -1,18 +1,17 @@
 ---
-title: "Alhan Hamamı | Miras Haritası"
-date: 2025-12-25T16:51:02+03:00
+title: "Alhan Hamamı"
+date: "2025-12-25T16:51:02+03:00"
 slug: "alhan-hamami"
 description: "## Alhan Hamamı: Aydın'ın Tarihi Bir Zenginlik..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.1690102,37.8096924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alhan Hamamı: Aydın'ın Tarihi Bir Zenginlik

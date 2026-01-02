@@ -1,18 +1,17 @@
 ---
-title: "Bet Nissim Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:52+03:00
+title: "Bet Nissim Sinagogu"
+date: "2025-12-25T16:13:52+03:00"
 slug: "bet-nissim-sinagogu"
 description: "### Bet Nissim Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.0314597,41.032929"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bet Nissim Sinagogu

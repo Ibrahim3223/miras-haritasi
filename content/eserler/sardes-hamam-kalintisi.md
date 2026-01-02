@@ -1,18 +1,17 @@
 ---
-title: "Sardes Hamam Kalıntısı | Miras Haritası"
-date: 2025-12-25T16:56:41+03:00
+title: "Sardes Hamam Kalıntısı"
+date: "2025-12-25T16:56:41+03:00"
 slug: "sardes-hamam-kalintisi"
 description: "## Sardes Hamam Kalıntısı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.0555058,38.4844971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sardes Hamam Kalıntısı

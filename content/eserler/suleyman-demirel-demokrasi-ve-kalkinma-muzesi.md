@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Demirel Demokrasi ve Kalkınma Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:47+03:00
+title: "Süleyman Demirel Demokrasi ve Kalkınma Müzesi"
+date: "2025-12-25T03:58:47+03:00"
 slug: "suleyman-demirel-demokrasi-ve-kalkinma-muzesi"
 description: "## Süleyman Demirel Demokrasi ve Kalkınma Müzesi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Atabey"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.658522,37.926007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Demirel Demokrasi ve Kalkınma Müzesi

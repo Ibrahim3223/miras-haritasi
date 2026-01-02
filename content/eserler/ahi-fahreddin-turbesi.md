@@ -1,18 +1,17 @@
 ---
-title: "Ahi Fahreddin Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:59+03:00
+title: "Ahi Fahreddin Türbesi"
+date: "2025-12-25T15:21:59+03:00"
 slug: "ahi-fahreddin-turbesi"
 description: "## Ahi Fahreddin Türbesi: Erzurum'un Tarihî Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2814751,39.9043045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Fahreddin Türbesi: Erzurum'un Tarihî Mirası

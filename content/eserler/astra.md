@@ -1,18 +1,17 @@
 ---
-title: "Astra | Miras Haritası"
-date: 2025-12-25T08:32:04+03:00
+title: "Astra"
+date: "2025-12-25T08:32:04+03:00"
 slug: "astra"
 description: "## Astra Arkeolojik Sit: Hadim, Konya'nın Gizemli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Hadim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.399344,37.035234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Astra Arkeolojik Sit: Hadim, Konya'nın Gizemli Mirası

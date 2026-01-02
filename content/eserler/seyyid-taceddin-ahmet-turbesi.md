@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Taceddin Ahmet Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:02+03:00
+title: "Seyyid Taceddin Ahmet Türbesi"
+date: "2025-12-25T15:21:02+03:00"
 slug: "seyyid-taceddin-ahmet-turbesi"
 description: "## Seyyid Taceddin Ahmet Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seyyid_Taceddin_Ahmet_Türbesi_04.jpg/1200px-Seyyid_Taceddin_Ahmet_Türbesi_04.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.4104004,38.3528137"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Seyyid Taceddin Ahmet Türbesi

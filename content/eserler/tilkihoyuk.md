@@ -1,18 +1,17 @@
 ---
-title: "Tilkihöyük | Miras Haritası"
-date: 2025-12-25T06:35:17+03:00
+title: "Tilkihöyük"
+date: "2025-12-25T06:35:17+03:00"
 slug: "tilkihoyuk"
 description: "## Tilkihöyük: Kangal'da Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9223774,39.1222741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tilkihöyük: Kangal'da Bir Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Gasadinari Manastırı | Miras Haritası"
-date: 2025-12-25T09:02:54+03:00
+title: "Gasadinari Manastırı"
+date: "2025-12-25T09:02:54+03:00"
 slug: "gasadinari-manastiri"
 description: "## Gasadinari Manastırı: Şavşat'ta Bir Tarihî Şans..."
 featured_image: ""
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Kirazlı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.509416666,41.251638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gasadinari Manastırı: Şavşat'ta Bir Tarihî Şans

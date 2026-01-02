@@ -1,18 +1,17 @@
 ---
-title: "Bekirli Höyük | Miras Haritası"
-date: 2025-12-25T05:50:04+03:00
+title: "Bekirli Höyük"
+date: "2025-12-25T05:50:04+03:00"
 slug: "bekirli-hoyuk"
 description: "## Bekirli Höyük: Tarihi ve Kültürel Mirası Anlatıyor..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.7625523,38.1760178"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekirli Höyük: Tarihi ve Kültürel Mirası Anlatıyor

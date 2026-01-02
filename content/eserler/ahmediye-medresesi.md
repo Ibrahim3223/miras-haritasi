@@ -1,18 +1,17 @@
 ---
-title: "Ahmediye Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:38+03:00
+title: "Ahmediye Medresesi"
+date: "2025-12-25T17:32:38+03:00"
 slug: "ahmediye-medresesi"
 description: "**Ahmediye Medresesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0162697,41.020237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ahmediye Medresesi**

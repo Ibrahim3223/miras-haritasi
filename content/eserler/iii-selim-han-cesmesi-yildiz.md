@@ -1,18 +1,17 @@
 ---
-title: "III. Selim Han Çeşmesi, Yıldız | Miras Haritası"
-date: 2025-12-25T12:13:25+03:00
+title: "III. Selim Han Çeşmesi, Yıldız"
+date: "2025-12-25T12:13:25+03:00"
 slug: "iii-selim-han-cesmesi-yildiz"
 description: "## III. Selim Han Çeşmesi, Yıldız..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.011969,41.049673"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## III. Selim Han Çeşmesi, Yıldız

@@ -1,18 +1,17 @@
 ---
-title: "Yoros Kalesi | Miras Haritası"
-date: 2025-12-25T01:47:26+03:00
+title: "Yoros Kalesi"
+date: "2025-12-25T01:47:26+03:00"
 slug: "yoros-kalesi"
 description: "## Yoros Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Anadolu_Kavağı_with_Yoros_Castle_in_Istanbul,_Turkey_002.jpg/1200px-Anadolu_Kavağı_with_Yoros_Castle_in_Istanbul,_Turkey_002.jpg"
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Anadolu Kavağı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.09444444,41.17861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yoros Kalesi

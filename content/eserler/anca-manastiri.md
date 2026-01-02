@@ -1,18 +1,17 @@
 ---
-title: "Ança Manastırı | Miras Haritası"
-date: 2025-12-25T09:47:58+03:00
+title: "Ança Manastırı"
+date: "2025-12-25T09:47:58+03:00"
 slug: "anca-manastiri"
 description: "## Ança Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ança.jpg/1200px-Ança.jpg"
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "İncilli"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.109666666,41.192222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ança Manastırı

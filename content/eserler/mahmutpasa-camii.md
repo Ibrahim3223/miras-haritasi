@@ -1,18 +1,17 @@
 ---
-title: "Mahmutpaşa Camii | Miras Haritası"
-date: 2025-12-24T21:46:11+03:00
+title: "Mahmutpaşa Camii"
+date: "2025-12-24T21:46:11+03:00"
 slug: "mahmutpasa-camii"
 description: "### Mahmutpaşa Camii: Eminönü'de Bir Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Istanbul_asv2021-11_img37_Mahmut_Pasha_Mosque.jpg/1200px-Istanbul_asv2021-11_img37_Mahmut_Pasha_Mosque.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Eminönü"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.97133056,41.01111944"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mahmutpaşa Camii: Eminönü'de Bir Tarihi ve Kültürel Miras

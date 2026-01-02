@@ -1,18 +1,17 @@
 ---
-title: "Elvan Çelebi Zaviyesi | Miras Haritası"
-date: 2025-12-24T23:23:24+03:00
+title: "Elvan Çelebi Zaviyesi"
+date: "2025-12-24T23:23:24+03:00"
 slug: "elvan-celebi-zaviyesi"
 description: "## Elvan Çelebi Zaviyesi: Çorum'un Gizli Çehresini İcradan Kaldırıyor..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Mecitözü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1642,40.5664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elvan Çelebi Zaviyesi: Çorum'un Gizli Çehresini İcradan Kaldırıyor

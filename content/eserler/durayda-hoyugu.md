@@ -1,18 +1,17 @@
 ---
-title: "Durayda Höyüğü | Miras Haritası"
-date: 2025-12-25T06:44:44+03:00
+title: "Durayda Höyüğü"
+date: "2025-12-25T06:44:44+03:00"
 slug: "durayda-hoyugu"
 description: "# Durayda Höyüğü: Konya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Güneysınır"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.755555,37.1551327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Durayda Höyüğü: Konya'nın Gizli Tarihi

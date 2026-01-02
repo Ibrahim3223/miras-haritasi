@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami (Akhisar) | Miras Haritası"
-date: 2025-12-24T23:50:16+03:00
+title: "Yeni Cami (Akhisar)"
+date: "2025-12-24T23:50:16+03:00"
 slug: "yeni-cami-akhisar"
 description: "## Yeni Cami (Akhisar)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/New_Gülruh_Mosque_(New_Mosque)_2,_Akhisar,_Manisa.jpg/1200px-New_Gülruh_Mosque_(New_Mosque)_2,_Akhisar,_Manisa.jpg"
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8421879,38.9198112"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yeni Cami (Akhisar)

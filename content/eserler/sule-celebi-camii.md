@@ -1,18 +1,17 @@
 ---
-title: "Süle Çelebi Camii | Miras Haritası"
-date: 2025-12-24T23:08:20+03:00
+title: "Süle Çelebi Camii"
+date: "2025-12-24T23:08:20+03:00"
 slug: "sule-celebi-camii"
 description: "### Süle Çelebi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Süle_Çelebi_mosque_in_2024_6224.jpg/1200px-Süle_Çelebi_mosque_in_2024_6224.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5654774,41.6666298"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Süle Çelebi Camii

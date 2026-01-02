@@ -1,18 +1,17 @@
 ---
-title: "Aşpişen Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:59+03:00
+title: "Aşpişen Kalesi"
+date: "2025-12-25T01:32:59+03:00"
 slug: "aspisen-kalesi"
 description: "## Aşpişen Kalesi: Artvin'in Tarihi Bir Güzeli..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.681477777,40.763594444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşpişen Kalesi: Artvin'in Tarihi Bir Güzeli

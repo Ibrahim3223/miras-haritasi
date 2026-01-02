@@ -1,18 +1,17 @@
 ---
-title: "Behram Kale | Miras Haritası"
-date: 2025-12-25T01:34:29+03:00
+title: "Behram Kale"
+date: "2025-12-25T01:34:29+03:00"
 slug: "behram-kale"
 description: "### Behram Kale Tanıtımı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.332566,39.492815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Behram Kale Tanıtımı

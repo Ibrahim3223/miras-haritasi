@@ -1,18 +1,17 @@
 ---
-title: "Eğritaş Kilisesi | Miras Haritası"
-date: 2025-12-25T08:44:53+03:00
+title: "Eğritaş Kilisesi"
+date: "2025-12-25T08:44:53+03:00"
 slug: "egritas-kilisesi"
 description: "## Eğritaş Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eğritaş Kilisesi: Tarihî Bir Mirasın Gizemi

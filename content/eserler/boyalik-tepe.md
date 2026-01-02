@@ -1,18 +1,17 @@
 ---
-title: "Boyalık Tepe | Miras Haritası"
-date: 2025-12-25T05:51:22+03:00
+title: "Boyalık Tepe"
+date: "2025-12-25T05:51:22+03:00"
 slug: "boyalik-tepe"
 description: "### Boyalık Tepe: Altıeylül'ün Gizli Öyküsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Altıeylül"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.909633,39.518383"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boyalık Tepe: Altıeylül'ün Gizli Öyküsü

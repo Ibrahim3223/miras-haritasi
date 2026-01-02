@@ -1,18 +1,17 @@
 ---
-title: "Üç Erenler Türbesi, Muğla | Miras Haritası"
-date: 2025-12-25T15:30:22+03:00
+title: "Üç Erenler Türbesi, Muğla"
+date: "2025-12-25T15:30:22+03:00"
 slug: "uc-erenler-turbesi-mugla"
 description: "### Üç Erenler Türbesi, Muğla..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3614845,37.2180099"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üç Erenler Türbesi, Muğla

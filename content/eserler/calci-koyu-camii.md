@@ -1,18 +1,17 @@
 ---
-title: "Çalçı Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:30:56+03:00
+title: "Çalçı Köyü Camii"
+date: "2025-12-24T22:30:56+03:00"
 slug: "calci-koyu-camii"
 description: "## Çalçı Köyü Camii: Eskişehir'de Bir Önemli Mimari Eser..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.4297619,39.9494896"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çalçı Köyü Camii: Eskişehir'de Bir Önemli Mimari Eser

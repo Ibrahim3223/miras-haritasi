@@ -1,18 +1,17 @@
 ---
-title: "Claudias | Miras Haritası"
-date: 2025-12-25T05:24:03+03:00
+title: "Claudias"
+date: "2025-12-25T05:24:03+03:00"
 slug: "claudias"
 description: "# Claudias Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Claudias Arkeolojik Sit

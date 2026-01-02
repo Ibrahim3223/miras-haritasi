@@ -1,18 +1,17 @@
 ---
-title: "Bekir Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:46:35+03:00
+title: "Bekir Paşa Camii"
+date: "2025-12-24T22:46:35+03:00"
 slug: "bekir-pasa-camii"
 description: "## Bekir Paşa Camii: Fatih'teki Gizli Çan Kulesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Seyyid Ömer"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9369373,41.0084305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekir Paşa Camii: Fatih'teki Gizli Çan Kulesi

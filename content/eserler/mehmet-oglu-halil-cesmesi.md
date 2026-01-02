@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Oğlu Halil Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:33:01+03:00
+title: "Mehmet Oğlu Halil Çeşmesi"
+date: "2025-12-25T11:33:01+03:00"
 slug: "mehmet-oglu-halil-cesmesi"
 description: "### Mehmet Oğlu Halil Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2639427,37.0618324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehmet Oğlu Halil Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Göreme Tarihî Millî Parkı | Miras Haritası"
-date: 2025-12-25T06:47:42+03:00
+title: "Göreme Tarihî Millî Parkı"
+date: "2025-12-25T06:47:42+03:00"
 slug: "goreme-tarih-mill-parki"
 description: "### Göreme Tarihî Millî Parkı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/.00_1627_Tuffsteinlandschaft_von_Göreme_(Türkei).jpg/1200px-.00_1627_Tuffsteinlandschaft_von_Göreme_(Türkei).jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.863055555,38.652777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Göreme Tarihî Millî Parkı

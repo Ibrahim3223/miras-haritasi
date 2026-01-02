@@ -1,18 +1,17 @@
 ---
-title: "Aziz İoannes Prodromos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:34+03:00
+title: "Aziz İoannes Prodromos Kilisesi"
+date: "2025-12-25T09:22:34+03:00"
 slug: "aziz-ioannes-prodromos-kilisesi"
 description: "## Aziz İoannes Prodromos Kilisesi: Niğde'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aziz_İoannes_Prodromos_Kilisesi.jpg/1200px-Aziz_İoannes_Prodromos_Kilisesi.jpg"
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.6773872,37.9650307"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz İoannes Prodromos Kilisesi: Niğde'nin Gizli Cenneti

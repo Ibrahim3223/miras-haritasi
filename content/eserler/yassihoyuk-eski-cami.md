@@ -1,18 +1,17 @@
 ---
-title: "Yassıhöyük Eski Cami | Miras Haritası"
-date: 2025-12-24T23:45:44+03:00
+title: "Yassıhöyük Eski Cami"
+date: "2025-12-24T23:45:44+03:00"
 slug: "yassihoyuk-eski-cami"
 description: "## Yassıhöyük Eski Cami..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.3298111,37.5131645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yassıhöyük Eski Cami

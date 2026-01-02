@@ -1,18 +1,17 @@
 ---
-title: "Yeghrdut Manastırı | Miras Haritası"
-date: 2025-12-25T09:50:35+03:00
+title: "Yeghrdut Manastırı"
+date: "2025-12-25T09:50:35+03:00"
 slug: "yeghrdut-manastiri"
 description: "## Yeghrdut Manastırı: Türkiye'nin Gizli Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muş"
+province: "Muş"
+iller: '["Muş"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.259,38.7834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeghrdut Manastırı: Türkiye'nin Gizli Tarihi Mirası

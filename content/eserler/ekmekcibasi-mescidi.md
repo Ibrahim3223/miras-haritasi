@@ -1,18 +1,17 @@
 ---
-title: "Ekmekçibaşı Mescidi | Miras Haritası"
-date: 2025-12-24T22:53:38+03:00
+title: "Ekmekçibaşı Mescidi"
+date: "2025-12-24T22:53:38+03:00"
 slug: "ekmekcibasi-mescidi"
 description: "### Ekmekçibaşı Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.000104,41.043614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ekmekçibaşı Mescidi

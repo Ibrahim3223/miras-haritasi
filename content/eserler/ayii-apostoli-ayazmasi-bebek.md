@@ -1,18 +1,17 @@
 ---
-title: "Ayii Apostoli Ayazması, Bebek | Miras Haritası"
-date: 2025-12-25T12:43:17+03:00
+title: "Ayii Apostoli Ayazması, Bebek"
+date: "2025-12-25T12:43:17+03:00"
 slug: "ayii-apostoli-ayazmasi-bebek"
 description: "## Ayii Apostoli Ayazması, Bebek: Beşiktaş'ta Bir Azizlik Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0409603,41.0777817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayii Apostoli Ayazması, Bebek: Beşiktaş'ta Bir Azizlik Çeşmesi

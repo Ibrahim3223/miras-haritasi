@@ -1,18 +1,17 @@
 ---
-title: "Molla Arap Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:58+03:00
+title: "Molla Arap Camii Çeşmesi"
+date: "2025-12-25T10:54:58+03:00"
 slug: "molla-arap-camii-cesmesi"
 description: "## Molla Arap Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0739441,40.1745644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Arap Camii Çeşmesi

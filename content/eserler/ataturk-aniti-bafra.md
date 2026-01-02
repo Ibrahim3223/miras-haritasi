@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Bafra | Miras Haritası"
-date: 2025-12-25T15:47:14+03:00
+title: "Atatürk Anıtı, Bafra"
+date: "2025-12-25T15:47:14+03:00"
 slug: "ataturk-aniti-bafra"
 description: "## Atatürk Anıtı, Bafra..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Bafra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.903134,41.568097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı, Bafra

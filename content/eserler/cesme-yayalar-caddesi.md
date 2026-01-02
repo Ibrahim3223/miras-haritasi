@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Yayalar Caddesi | Miras Haritası"
-date: 2025-12-25T12:45:41+03:00
+title: "Çeşme, Yayalar Caddesi"
+date: "2025-12-25T12:45:41+03:00"
 slug: "cesme-yayalar-caddesi"
 description: "## Çeşme, Yayalar Caddesi: Pendik'in Tarihi Bir Çeşmesinin Sırları..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Pendik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2680073,40.9034157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Yayalar Caddesi: Pendik'in Tarihi Bir Çeşmesinin Sırları

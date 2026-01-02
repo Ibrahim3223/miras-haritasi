@@ -1,18 +1,17 @@
 ---
-title: "Asartepe, Fesleğen | Miras Haritası"
-date: 2025-12-25T01:26:31+03:00
+title: "Asartepe, Fesleğen"
+date: "2025-12-25T01:26:31+03:00"
 slug: "asartepe-feslegen"
 description: "## Asartepe, Fesleğen: Milas'taki Bir Antik Kale..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.8001003,37.0769997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asartepe, Fesleğen: Milas'taki Bir Antik Kale

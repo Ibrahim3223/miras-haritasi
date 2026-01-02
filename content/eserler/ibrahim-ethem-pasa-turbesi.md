@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Ethem Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:42+03:00
+title: "İbrahim Ethem Paşa Türbesi"
+date: "2025-12-25T14:37:42+03:00"
 slug: "ibrahim-ethem-pasa-turbesi"
 description: "## İbrahim Ethem Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0161532,41.0269846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Ethem Paşa Türbesi

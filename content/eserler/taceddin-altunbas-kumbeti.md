@@ -1,18 +1,17 @@
 ---
-title: "Taceddin Altunbaş Kümbeti | Miras Haritası"
-date: 2025-12-25T13:57:42+03:00
+title: "Taceddin Altunbaş Kümbeti"
+date: "2025-12-25T13:57:42+03:00"
 slug: "taceddin-altunbas-kumbeti"
 description: "## Taceddin Altunbaş Kümbeti..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8330841,40.6510086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taceddin Altunbaş Kümbeti

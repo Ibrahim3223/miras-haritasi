@@ -1,18 +1,17 @@
 ---
-title: "Satyros Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:43+03:00
+title: "Satyros Manastırı"
+date: "2025-12-25T09:52:43+03:00"
 slug: "satyros-manastiri"
 description: "# Satyros Manastırı: İstanbul'un Gizli Çarpıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.1154442,40.9435463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Satyros Manastırı: İstanbul'un Gizli Çarpıntısı

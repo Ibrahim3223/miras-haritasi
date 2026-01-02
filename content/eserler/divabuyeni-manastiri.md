@@ -1,18 +1,17 @@
 ---
-title: "Divabuyeni Manastırı | Miras Haritası"
-date: 2025-12-25T09:40:49+03:00
+title: "Divabuyeni Manastırı"
+date: "2025-12-25T09:40:49+03:00"
 slug: "divabuyeni-manastiri"
 description: "## Divabuyeni Manastırı..."
 featured_image: ""
 province: "Gevaş"
-iller: ["Gevaş"]
+iller: '["Gevaş"]'
 district: "İnköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.8451819,38.4986005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Divabuyeni Manastırı

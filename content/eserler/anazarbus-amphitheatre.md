@@ -1,18 +1,17 @@
 ---
-title: "Anazarbus amphitheatre | Miras Haritası"
-date: 2025-12-25T08:24:56+03:00
+title: "Anazarbus amphitheatre"
+date: "2025-12-25T08:24:56+03:00"
 slug: "anazarbus-amphitheatre"
 description: "**Anazarbus Amphitheatersi: Tarihî Bir Mirasın Gizemi**..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.895,37.244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Anazarbus Amphitheatersi: Tarihî Bir Mirasın Gizemi**

@@ -1,18 +1,17 @@
 ---
-title: "Fatih Türbesi, Dehliz | Miras Haritası"
-date: 2025-12-25T15:34:24+03:00
+title: "Fatih Türbesi, Dehliz"
+date: "2025-12-25T15:34:24+03:00"
 slug: "fatih-turbesi-dehliz"
 description: "## Fatih Türbesi, Dehliz..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9502621,41.0192528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Türbesi, Dehliz

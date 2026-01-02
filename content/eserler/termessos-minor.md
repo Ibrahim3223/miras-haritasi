@@ -1,18 +1,17 @@
 ---
-title: "Termessos Minor | Miras Haritası"
-date: 2025-12-25T06:58:57+03:00
+title: "Termessos Minor"
+date: "2025-12-25T06:58:57+03:00"
 slug: "termessos-minor"
 description: "## Termessos Minor: Muğla'nın Gizli Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.56268,36.82629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Termessos Minor: Muğla'nın Gizli Harikası

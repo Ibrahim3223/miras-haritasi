@@ -1,18 +1,17 @@
 ---
-title: "Kelenderis | Miras Haritası"
-date: 2025-12-25T04:27:17+03:00
+title: "Kelenderis"
+date: "2025-12-25T04:27:17+03:00"
 slug: "kelenderis"
 description: "## Kelenderis: Tarihî Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kelenderis1.jpg/1200px-Kelenderis1.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Aydıncık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.32277778,36.14416667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kelenderis: Tarihî Bir Arkeolojik Sit

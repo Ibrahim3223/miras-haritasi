@@ -1,18 +1,17 @@
 ---
-title: "Haşimi Emir Osman Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:04:06+03:00
+title: "Haşimi Emir Osman Camii Şadırvanı"
+date: "2025-12-25T10:04:06+03:00"
 slug: "hasimi-emir-osman-camii-sadirvani"
 description: "## Haşimi Emir Osman Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9633541,41.0367622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haşimi Emir Osman Camii Şadırvanı

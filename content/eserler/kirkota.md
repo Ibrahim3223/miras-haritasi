@@ -1,18 +1,17 @@
 ---
-title: "Kirkota | Miras Haritası"
-date: 2025-12-25T05:04:38+03:00
+title: "Kirkota"
+date: "2025-12-25T05:04:38+03:00"
 slug: "kirkota"
 description: "## Kirkota: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.68204,36.945008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kirkota: Bir Arkeolojik Sitin Gizemi

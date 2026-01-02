@@ -1,18 +1,17 @@
 ---
-title: "Hamdullah Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:12+03:00
+title: "Hamdullah Dede Türbesi"
+date: "2025-12-25T15:29:12+03:00"
 slug: "hamdullah-dede-turbesi"
 description: "## Hamdullah Dede Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8372879,40.6533127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamdullah Dede Türbesi

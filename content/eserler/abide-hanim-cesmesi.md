@@ -1,18 +1,17 @@
 ---
-title: "Abide Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:13:03+03:00
+title: "Abide Hanım Çeşmesi"
+date: "2025-12-25T11:13:03+03:00"
 slug: "abide-hanim-cesmesi"
 description: "## Abide Hanım Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.933163,41.008158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abide Hanım Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

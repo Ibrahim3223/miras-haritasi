@@ -1,18 +1,17 @@
 ---
-title: "Taşkemer Köprüsü 5 | Miras Haritası"
-date: 2025-12-25T02:18:34+03:00
+title: "Taşkemer Köprüsü 5"
+date: "2025-12-25T02:18:34+03:00"
 slug: "taskemer-koprusu-5"
 description: "## Taşkemer Köprüsü 5..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.966856,37.3060036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşkemer Köprüsü 5

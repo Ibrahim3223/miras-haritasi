@@ -1,18 +1,17 @@
 ---
-title: "Kısık Camii | Miras Haritası"
-date: 2025-12-25T00:39:06+03:00
+title: "Kısık Camii"
+date: "2025-12-25T00:39:06+03:00"
 slug: "kisik-camii"
 description: "## Kısık Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.423443,38.613718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kısık Camii

@@ -1,18 +1,17 @@
 ---
-title: "Şahkulubey Kümbeti | Miras Haritası"
-date: 2025-12-25T14:01:42+03:00
+title: "Şahkulubey Kümbeti"
+date: "2025-12-25T14:01:42+03:00"
 slug: "sahkulubey-kumbeti"
 description: "## Şahkulubey Kümbeti: Mardin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.5812569,37.1918068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şahkulubey Kümbeti: Mardin'in Tarihî ve Kültürel Mirası

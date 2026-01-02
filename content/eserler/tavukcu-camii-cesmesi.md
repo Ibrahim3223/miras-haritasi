@@ -1,18 +1,17 @@
 ---
-title: "Tavukçu Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:49:01+03:00
+title: "Tavukçu Camii Çeşmesi"
+date: "2025-12-25T10:49:01+03:00"
 slug: "tavukcu-camii-cesmesi"
 description: "**Tavukçu Camii Çeşmesi**..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7110443,38.6256218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tavukçu Camii Çeşmesi**

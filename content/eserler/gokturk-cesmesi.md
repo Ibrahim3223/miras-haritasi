@@ -1,18 +1,17 @@
 ---
-title: "Göktürk Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:10:21+03:00
+title: "Göktürk Çeşmesi"
+date: "2025-12-25T12:10:21+03:00"
 slug: "gokturk-cesmesi"
 description: "## Göktürk Çeşmesi: Eyüp'te Bir Önemli Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.8896585,41.1785593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göktürk Çeşmesi: Eyüp'te Bir Önemli Kültür Mirası

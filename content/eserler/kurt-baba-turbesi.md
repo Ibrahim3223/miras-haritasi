@@ -1,18 +1,17 @@
 ---
-title: "Kurt Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:50+03:00
+title: "Kurt Baba Türbesi"
+date: "2025-12-25T14:20:50+03:00"
 slug: "kurt-baba-turbesi"
 description: "## Kurt Baba Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.734653,38.088522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurt Baba Türbesi

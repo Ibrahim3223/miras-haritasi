@@ -1,18 +1,17 @@
 ---
-title: "Tümbelez Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:34:25+03:00
+title: "Tümbelez Tepe Tümülüsü"
+date: "2025-12-25T07:34:25+03:00"
 slug: "tumbelez-tepe-tumulusu"
 description: "## Tümbelez Tepe Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2903709,40.3977356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tümbelez Tepe Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Nakkaşlar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:03+03:00
+title: "Nakkaşlar Köprüsü"
+date: "2025-12-25T02:44:03+03:00"
 slug: "nakkaslar-koprusu"
 description: "### Nakkaşlar Köprüsü..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.0255051,38.374752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nakkaşlar Köprüsü

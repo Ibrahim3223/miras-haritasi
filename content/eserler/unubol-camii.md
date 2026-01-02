@@ -1,18 +1,17 @@
 ---
-title: "Ünübol Camii | Miras Haritası"
-date: 2025-12-24T23:19:00+03:00
+title: "Ünübol Camii"
+date: "2025-12-24T23:19:00+03:00"
 slug: "unubol-camii"
 description: "## Aydın'ın Gizli Çiçeği: Ünübol Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1964741,37.8287849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aydın'ın Gizli Çiçeği: Ünübol Camii

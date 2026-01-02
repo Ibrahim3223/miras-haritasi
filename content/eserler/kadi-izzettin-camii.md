@@ -1,18 +1,17 @@
 ---
-title: "Kadı İzzettin Camii | Miras Haritası"
-date: 2025-12-24T23:41:17+03:00
+title: "Kadı İzzettin Camii"
+date: "2025-12-24T23:41:17+03:00"
 slug: "kadi-izzettin-camii"
 description: "## Kadı İzzettin Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4948349,37.8767815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı İzzettin Camii

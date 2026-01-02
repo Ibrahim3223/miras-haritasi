@@ -1,18 +1,17 @@
 ---
-title: "Sinan Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:09+03:00
+title: "Sinan Dede Türbesi"
+date: "2025-12-25T14:56:09+03:00"
 slug: "sinan-dede-turbesi"
 description: "## Sinan Dede Türbesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.323,37.9305229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Dede Türbesi: Aydın'ın Tarihi ve Kültürel Mirası

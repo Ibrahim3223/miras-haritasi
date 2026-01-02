@@ -1,18 +1,17 @@
 ---
-title: "Turkaşeni Kiliseleri | Miras Haritası"
-date: 2025-12-25T09:11:55+03:00
+title: "Turkaşeni Kiliseleri"
+date: "2025-12-25T09:11:55+03:00"
 slug: "turkaseni-kiliseleri"
 description: "## Turkaşeni Kiliseleri..."
 featured_image: ""
 province: "Göle"
-iller: ["Göle"]
+iller: '["Göle"]'
 district: "Yiğitkonağı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.561555555,40.9735"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turkaşeni Kiliseleri

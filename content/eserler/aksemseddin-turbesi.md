@@ -1,18 +1,17 @@
 ---
-title: "Akşemseddin Türbesi | Miras Haritası"
-date: 2025-12-25T03:38:03+03:00
+title: "Akşemseddin Türbesi"
+date: "2025-12-25T03:38:03+03:00"
 slug: "aksemseddin-turbesi"
 description: "## Akşemseddin Türbesi: Göynük'te Bir Ölümsüz Ziyaretgah..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Akshamsaddin's_Tomb_at_Goynuk.jpg/1200px-Akshamsaddin's_Tomb_at_Goynuk.jpg"
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Göynük"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.7858047,40.3984489"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akşemseddin Türbesi: Göynük'te Bir Ölümsüz Ziyaretgah

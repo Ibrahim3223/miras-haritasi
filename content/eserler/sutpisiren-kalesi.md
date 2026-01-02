@@ -1,18 +1,17 @@
 ---
-title: "Sütpişiren Kalesi | Miras Haritası"
-date: 2025-12-25T01:39:36+03:00
+title: "Sütpişiren Kalesi"
+date: "2025-12-25T01:39:36+03:00"
 slug: "sutpisiren-kalesi"
 description: "## Sütpişiren Kalesi: Afşin'in Tarihî Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.8843002,38.5198898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sütpişiren Kalesi: Afşin'in Tarihî Mirası

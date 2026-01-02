@@ -1,18 +1,18 @@
 ---
-title: "Çarşı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:39:24+03:00
+title: "Çarşı Çeşmesi"
+date: "2025-12-25T10:39:24+03:00"
 slug: "carsi-cesmesi"
 description: "## Çarşı Çeşmesi: Karaman'ın Tarihi Bir Çeşmesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Çarşı_Çeşmesi_IMG_0341.jpg/1200px-Çarşı_Çeşmesi_IMG_0341.jpg"
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.2173233,37.1836472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Çarşı_Çeşmesi_IMG_0341.jpg/1200px-Çarşı_Çeşmesi_IMG_0341.jpg"
 ---
 
 ## Çarşı Çeşmesi: Karaman'ın Tarihi Bir Çeşmesi

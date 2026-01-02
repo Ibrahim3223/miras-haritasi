@@ -1,18 +1,17 @@
 ---
-title: "Fatma Sultan Mescidi | Miras Haritası"
-date: 2025-12-24T22:24:11+03:00
+title: "Fatma Sultan Mescidi"
+date: "2025-12-24T22:24:11+03:00"
 slug: "fatma-sultan-mescidi"
 description: "## Fatma Sultan Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fatma_Sultan_Camii_01.jpg/1200px-Fatma_Sultan_Camii_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.928659242,41.022309757"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fatma Sultan Mescidi: İstanbul'un Gizli Cenneti

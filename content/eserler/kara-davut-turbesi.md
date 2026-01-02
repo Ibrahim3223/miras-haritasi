@@ -1,18 +1,17 @@
 ---
-title: "Kara Davut Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:23+03:00
+title: "Kara Davut Türbesi"
+date: "2025-12-25T15:03:23+03:00"
 slug: "kara-davut-turbesi"
 description: "## Kara Davut Türbesi: Beypazarı'nın Ölümsüz Yüzyılları..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.9624004,40.1971016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Davut Türbesi: Beypazarı'nın Ölümsüz Yüzyılları

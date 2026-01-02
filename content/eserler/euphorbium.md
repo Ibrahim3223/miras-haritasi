@@ -1,18 +1,17 @@
 ---
-title: "Euphorbium | Miras Haritası"
-date: 2025-12-25T05:21:10+03:00
+title: "Euphorbium"
+date: "2025-12-25T05:21:10+03:00"
 slug: "euphorbium"
 description: "### Euphorbium: Antik Dünyanın Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Euphorbium: Antik Dünyanın Gizli Mirası

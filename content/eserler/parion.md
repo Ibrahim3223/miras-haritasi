@@ -1,18 +1,17 @@
 ---
-title: "Parion | Miras Haritası"
-date: 2025-12-25T04:25:23+03:00
+title: "Parion"
+date: "2025-12-25T04:25:23+03:00"
 slug: "parion"
 description: "## Parion: Bir Antik Kentin Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0703,40.4162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parion: Bir Antik Kentin Mirası

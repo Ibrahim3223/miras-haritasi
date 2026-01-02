@@ -1,18 +1,17 @@
 ---
-title: "Yaşar Doğu Anı Evi Müzesi | Miras Haritası"
-date: 2025-12-25T04:10:09+03:00
+title: "Yaşar Doğu Anı Evi Müzesi"
+date: "2025-12-25T04:10:09+03:00"
 slug: "yasar-dogu-ani-evi-muzesi"
 description: "# Yaşar Doğu Anı Evi Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yaşar Doğu Anı Evi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Sarıçiçek Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:11:44+03:00
+title: "Sarıçiçek Köyü Çeşmesi"
+date: "2025-12-25T10:11:44+03:00"
 slug: "saricicek-koyu-cesmesi"
 description: "## Sarıçiçek Köyü Çeşmesi: Tarihî Bir Mirasın Gizli Öyküsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Sarıçiçek"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.855442,40.4435005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıçiçek Köyü Çeşmesi: Tarihî Bir Mirasın Gizli Öyküsü

@@ -1,18 +1,17 @@
 ---
-title: "Kasım Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:40:16+03:00
+title: "Kasım Paşa Medresesi"
+date: "2025-12-25T17:40:16+03:00"
 slug: "kasim-pasa-medresesi"
 description: "## Kasım Paşa Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menemen"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.0727005,38.6090012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasım Paşa Medresesi

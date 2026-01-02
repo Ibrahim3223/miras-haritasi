@@ -1,18 +1,17 @@
 ---
-title: "Çatal Çeşme Camii | Miras Haritası"
-date: 2025-12-24T22:30:12+03:00
+title: "Çatal Çeşme Camii"
+date: "2025-12-24T22:30:12+03:00"
 slug: "catal-cesme-camii"
 description: "## Çatal Çeşme Camii: Kütahya'nın Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kütahya"
+province: "Kütahya"
+iller: '["Kütahya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9697304,39.4155388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatal Çeşme Camii: Kütahya'nın Tarihî Bir Mirası

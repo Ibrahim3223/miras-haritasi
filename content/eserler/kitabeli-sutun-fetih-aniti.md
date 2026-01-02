@@ -1,18 +1,17 @@
 ---
-title: "Kitabeli Sütun, Fetih Anıtı | Miras Haritası"
-date: 2025-12-25T15:44:57+03:00
+title: "Kitabeli Sütun, Fetih Anıtı"
+date: "2025-12-25T15:44:57+03:00"
 slug: "kitabeli-sutun-fetih-aniti"
 description: "## Kitabeli Sütun, Fetih Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1284008,40.8739319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kitabeli Sütun, Fetih Anıtı

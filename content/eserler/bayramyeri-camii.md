@@ -1,18 +1,17 @@
 ---
-title: "Bayramyeri Camii | Miras Haritası"
-date: 2025-12-24T22:11:36+03:00
+title: "Bayramyeri Camii"
+date: "2025-12-24T22:11:36+03:00"
 slug: "bayramyeri-camii"
 description: "## Bayramyeri Camii: Denizli'nin Dini Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.083622,37.7847099"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayramyeri Camii: Denizli'nin Dini Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Uzun Evliya Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:46+03:00
+title: "Uzun Evliya Türbesi"
+date: "2025-12-25T14:22:46+03:00"
 slug: "uzun-evliya-turbesi"
 description: "### Uzun Evliya Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.089753,41.148646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uzun Evliya Türbesi

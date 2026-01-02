@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Mut | Miras Haritası"
-date: 2025-12-25T02:45:18+03:00
+title: "Taş Köprü, Mut"
+date: "2025-12-25T02:45:18+03:00"
 slug: "tas-kopru-mut"
 description: "### Taş Köprü, Mut..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.4382324,36.6464958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taş Köprü, Mut

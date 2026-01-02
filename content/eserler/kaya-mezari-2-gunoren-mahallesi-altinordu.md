@@ -1,18 +1,17 @@
 ---
-title: "Kaya Mezarı 2 (Günören Mahallesi), Altınordu | Miras Haritası"
-date: 2025-12-25T13:21:33+03:00
+title: "Kaya Mezarı 2 (Günören Mahallesi), Altınordu"
+date: "2025-12-25T13:21:33+03:00"
 slug: "kaya-mezari-2-gunoren-mahallesi-altinordu"
 description: "## Kaya Mezarı 2 (Günören Mahallesi), Altınordu..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.722754,40.92672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaya Mezarı 2 (Günören Mahallesi), Altınordu

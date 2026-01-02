@@ -1,18 +1,17 @@
 ---
-title: "Dedefakılı Höyük | Miras Haritası"
-date: 2025-12-25T13:45:18+03:00
+title: "Dedefakılı Höyük"
+date: "2025-12-25T13:45:18+03:00"
 slug: "dedefakili-hoyuk"
 description: "## Dedefakılı Höyük: Yozgat'ın Gizli Anıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sorgun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4274106,39.701452"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedefakılı Höyük: Yozgat'ın Gizli Anıtı

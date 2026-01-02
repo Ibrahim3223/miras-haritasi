@@ -1,18 +1,17 @@
 ---
-title: "Daphnus | Miras Haritası"
-date: 2025-12-25T04:43:47+03:00
+title: "Daphnus"
+date: "2025-12-25T04:43:47+03:00"
 slug: "daphnus"
 description: "# Daphnus Arkeolojik Sit..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.588844,40.171739"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Daphnus Arkeolojik Sit

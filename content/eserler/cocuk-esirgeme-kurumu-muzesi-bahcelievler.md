@@ -1,18 +1,17 @@
 ---
-title: "Çocuk Esirgeme Kurumu Müzesi, Bahçelievler | Miras Haritası"
-date: 2025-12-25T03:58:35+03:00
+title: "Çocuk Esirgeme Kurumu Müzesi, Bahçelievler"
+date: "2025-12-25T03:58:35+03:00"
 slug: "cocuk-esirgeme-kurumu-muzesi-bahcelievler"
 description: "# Çocuk Esirgeme Kurumu Müzesi, Bahçelievler..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.828583,39.932509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çocuk Esirgeme Kurumu Müzesi, Bahçelievler

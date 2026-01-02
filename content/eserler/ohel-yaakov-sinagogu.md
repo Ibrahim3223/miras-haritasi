@@ -1,18 +1,17 @@
 ---
-title: "Ohel Yaakov Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:46+03:00
+title: "Ohel Yaakov Sinagogu"
+date: "2025-12-25T16:14:46+03:00"
 slug: "ohel-yaakov-sinagogu"
 description: "### Ohel Yaakov Sinagogu: İstanbul'un Eski Adaları'nda Eski Bir Sinagogun Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.0691319,40.8806648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ohel Yaakov Sinagogu: İstanbul'un Eski Adaları'nda Eski Bir Sinagogun Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Karkamış Köprüsü | Miras Haritası"
-date: 2025-12-25T01:56:08+03:00
+title: "Karkamış Köprüsü"
+date: "2025-12-25T01:56:08+03:00"
 slug: "karkamis-koprusu"
 description: "**Karkamış Köprüsü: Tarihî Bir Mimarî Harikası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ferrovia_di_Baghdada_Ponte_sull'Eufrate.jpg/1200px-Ferrovia_di_Baghdada_Ponte_sull'Eufrate.jpg"
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Karkamış"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.0246,36.8301"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Karkamış Köprüsü: Tarihî Bir Mimarî Harikası**

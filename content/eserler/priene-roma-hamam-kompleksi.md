@@ -1,18 +1,17 @@
 ---
-title: "Priene Roma Hamam Kompleksi | Miras Haritası"
-date: 2025-12-25T17:13:04+03:00
+title: "Priene Roma Hamam Kompleksi"
+date: "2025-12-25T17:13:04+03:00"
 slug: "priene-roma-hamam-kompleksi"
 description: "## Priene Roma Hamam Kompleksi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.2983131,37.6596832"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Priene Roma Hamam Kompleksi

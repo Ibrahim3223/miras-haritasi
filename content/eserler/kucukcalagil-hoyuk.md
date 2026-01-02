@@ -1,18 +1,17 @@
 ---
-title: "Küçükçalağıl Höyük | Miras Haritası"
-date: 2025-12-25T13:46:43+03:00
+title: "Küçükçalağıl Höyük"
+date: "2025-12-25T13:46:43+03:00"
 slug: "kucukcalagil-hoyuk"
 description: "## Küçükçalağıl Höyük: Yozgat'ın Gizli Anıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4213541,39.641033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçükçalağıl Höyük: Yozgat'ın Gizli Anıtı

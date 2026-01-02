@@ -1,18 +1,17 @@
 ---
-title: "Savur Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:03:51+03:00
+title: "Savur Ulu Camii"
+date: "2025-12-24T22:03:51+03:00"
 slug: "savur-ulu-camii"
 description: "## Savur Ulu Camii: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Savur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.887472222,37.538666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Savur Ulu Camii: Tarihî ve Kültürel Bir Miras

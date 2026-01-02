@@ -1,18 +1,17 @@
 ---
-title: "Aya Yorgi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:54+03:00
+title: "Aya Yorgi Kilisesi"
+date: "2025-12-25T09:39:54+03:00"
 slug: "aya-yorgi-kilisesi"
 description: "## Aya Yorgi Kilisesi: Gökçeada'nın Gizli Çehresi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.8728142,40.1913147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Yorgi Kilisesi: Gökçeada'nın Gizli Çehresi

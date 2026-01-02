@@ -1,18 +1,17 @@
 ---
-title: "Aizanoi 1. Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:48:27+03:00
+title: "Aizanoi 1. Roma Hamamı"
+date: "2025-12-25T16:48:27+03:00"
 slug: "aizanoi-1-roma-hamami"
 description: "## Aizanoi 1. Roma Hamamı: Kütahya'nın Gizli Çarığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Aizanoi_-_Roma_Hamamı.jpg/1200px-Aizanoi_-_Roma_Hamamı.jpg"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Çavdarhisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.6089706,39.20327"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aizanoi 1. Roma Hamamı: Kütahya'nın Gizli Çarığı

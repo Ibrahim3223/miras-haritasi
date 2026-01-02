@@ -1,18 +1,17 @@
 ---
-title: "Kabalı Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:38:02+03:00
+title: "Kabalı Köyü Camii"
+date: "2025-12-24T23:38:02+03:00"
 slug: "kabali-koyu-camii"
 description: "## Kabalı Köyü Camii: Sinop'un Gizli Çehresinde Bir Ölümsüz..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.0716248,41.8615913"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabalı Köyü Camii: Sinop'un Gizli Çehresinde Bir Ölümsüz

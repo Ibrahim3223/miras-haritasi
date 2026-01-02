@@ -1,18 +1,17 @@
 ---
-title: "Yayladağı Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:37:21+03:00
+title: "Yayladağı Sınır Kapısı"
+date: "2025-12-25T08:37:21+03:00"
 slug: "yayladagi-sinir-kapisi"
 description: "## Yayladağı Sınır Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yayladağı_Sınır_Kapısı.jpg/1200px-Yayladağı_Sınır_Kapısı.jpg"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Yayladağı"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "36.0111,35.9054"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yayladağı Sınır Kapısı

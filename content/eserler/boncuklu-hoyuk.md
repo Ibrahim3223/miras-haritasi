@@ -1,18 +1,17 @@
 ---
-title: "Boncuklu Höyük | Miras Haritası"
-date: 2025-12-25T07:08:54+03:00
+title: "Boncuklu Höyük"
+date: "2025-12-25T07:08:54+03:00"
 slug: "boncuklu-hoyuk"
 description: "## Boncuklu Höyük: Türkiye'nin En Eski Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Boncuklu_Höyük_001.jpg/1200px-Boncuklu_Höyük_001.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.86478,37.75183"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Boncuklu Höyük: Türkiye'nin En Eski Kenti

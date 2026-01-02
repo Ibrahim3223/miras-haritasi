@@ -1,18 +1,17 @@
 ---
-title: "Sokak Çeşmesi, Bornova | Miras Haritası"
-date: 2025-12-25T12:00:11+03:00
+title: "Sokak Çeşmesi, Bornova"
+date: "2025-12-25T12:00:11+03:00"
 slug: "sokak-cesmesi-bornova"
 description: "## Sokak Çeşmesi, Bornova..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2167397,38.4700851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokak Çeşmesi, Bornova

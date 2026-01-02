@@ -1,18 +1,17 @@
 ---
-title: "Hemite Kalesi | Miras Haritası"
-date: 2025-12-25T01:52:06+03:00
+title: "Hemite Kalesi"
+date: "2025-12-25T01:52:06+03:00"
 slug: "hemite-kalesi"
 description: "## Hemite Kale'si: Osmaniye'nin Gizli Çağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Amouda_Castle,_Osmaniye_08.jpg/1200px-Amouda_Castle,_Osmaniye_08.jpg"
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Gökçedam"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.09444444,37.18861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hemite Kale'si: Osmaniye'nin Gizli Çağı

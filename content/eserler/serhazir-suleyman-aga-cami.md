@@ -1,18 +1,17 @@
 ---
-title: "Serhazir Süleyman Aga Cami | Miras Haritası"
-date: 2025-12-24T22:08:49+03:00
+title: "Serhazir Süleyman Aga Cami"
+date: "2025-12-24T22:08:49+03:00"
 slug: "serhazir-suleyman-aga-cami"
 description: "## Serhazir Süleyman Ağa Cami: Tarihî Bir Anıtın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Serhazir_Süleyman_Aga_Mosque_1.jpg/1200px-Serhazir_Süleyman_Aga_Mosque_1.jpg"
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Baltalimanı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.05288,41.09788"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Serhazir Süleyman Ağa Cami: Tarihî Bir Anıtın Gizemi

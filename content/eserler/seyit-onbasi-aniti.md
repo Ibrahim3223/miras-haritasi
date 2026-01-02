@@ -1,18 +1,17 @@
 ---
-title: "Seyit Onbaşı Anıtı | Miras Haritası"
-date: 2025-12-25T15:49:58+03:00
+title: "Seyit Onbaşı Anıtı"
+date: "2025-12-25T15:49:58+03:00"
 slug: "seyit-onbasi-aniti"
 description: "### Seyit Onbaşı Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Seyit_Onbaşı_Monument_02.jpg/1200px-Seyit_Onbaşı_Monument_02.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3753147,40.1408539"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Seyit Onbaşı Anıtı

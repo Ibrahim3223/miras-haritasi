@@ -1,18 +1,17 @@
 ---
-title: "Kevire Kela Höyüğü, Çermik | Miras Haritası"
-date: 2025-12-25T06:08:35+03:00
+title: "Kevire Kela Höyüğü, Çermik"
+date: "2025-12-25T06:08:35+03:00"
 slug: "kevire-kela-hoyugu-cermik"
 description: "## Kevire Kela Höyüğü, Çermik: Diyarbakır'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çermik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.5574112,38.1801033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kevire Kela Höyüğü, Çermik: Diyarbakır'ın Gizli Hazineleri

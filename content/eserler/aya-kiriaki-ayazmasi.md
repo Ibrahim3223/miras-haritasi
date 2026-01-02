@@ -1,18 +1,17 @@
 ---
-title: "Aya Kiriaki Ayazması | Miras Haritası"
-date: 2025-12-25T12:43:01+03:00
+title: "Aya Kiriaki Ayazması"
+date: "2025-12-25T12:43:01+03:00"
 slug: "aya-kiriaki-ayazmasi"
 description: "## Aya Kiriaki Ayazması: Sarıyer'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0447214,41.1342709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Kiriaki Ayazması: Sarıyer'in Gizli Çeşmesi

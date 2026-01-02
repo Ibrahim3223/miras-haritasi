@@ -1,18 +1,17 @@
 ---
-title: "Aziz Philippus Martyrion Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:43+03:00
+title: "Aziz Philippus Martyrion Kilisesi"
+date: "2025-12-25T09:25:43+03:00"
 slug: "aziz-philippus-martyrion-kilisesi"
 description: "## Aziz Philippus Martyrion Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kilise_tanımı.jpg/1200px-Kilise_tanımı.jpg"
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1301098,37.9312439"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Philippus Martyrion Kilisesi

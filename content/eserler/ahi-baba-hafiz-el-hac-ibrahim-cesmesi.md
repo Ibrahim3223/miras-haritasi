@@ -1,18 +1,17 @@
 ---
-title: "Ahi Baba Hafız El-Hac İbrahim Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:02:12+03:00
+title: "Ahi Baba Hafız El-Hac İbrahim Çeşmesi"
+date: "2025-12-25T13:02:12+03:00"
 slug: "ahi-baba-hafiz-el-hac-ibrahim-cesmesi"
 description: "### Ahi Baba Hafız El-Hac İbrahim Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ahi_Baba_Hafız_El-Hac_İbrahim_Çeşmesi_IMG_8782.jpg/1200px-Ahi_Baba_Hafız_El-Hac_İbrahim_Çeşmesi_IMG_8782.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0937634,41.1347466"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ahi Baba Hafız El-Hac İbrahim Çeşmesi

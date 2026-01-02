@@ -1,18 +1,17 @@
 ---
-title: "Zengibar Kalesi, Bozkır | Miras Haritası"
-date: 2025-12-25T01:34:50+03:00
+title: "Zengibar Kalesi, Bozkır"
+date: "2025-12-25T01:34:50+03:00"
 slug: "zengibar-kalesi-bozkir"
 description: "## Zengibar Kalesi: Bozkır'ın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Bozkır"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.3439751,37.1844711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zengibar Kalesi: Bozkır'ın Gizli Tarihi

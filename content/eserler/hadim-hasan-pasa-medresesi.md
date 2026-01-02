@@ -1,18 +1,17 @@
 ---
-title: "Hadım Hasan Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:21+03:00
+title: "Hadım Hasan Paşa Medresesi"
+date: "2025-12-25T17:27:21+03:00"
 slug: "hadim-hasan-pasa-medresesi"
 description: "## Hadım Hasan Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.975052,41.010573"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadım Hasan Paşa Medresesi

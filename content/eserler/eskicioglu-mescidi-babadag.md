@@ -1,18 +1,17 @@
 ---
-title: "Eskicioğlu Mescidi, Babadağ | Miras Haritası"
-date: 2025-12-25T00:50:42+03:00
+title: "Eskicioğlu Mescidi, Babadağ"
+date: "2025-12-25T00:50:42+03:00"
 slug: "eskicioglu-mescidi-babadag"
 description: "## Eskicioğlu Mescidi: Babadağ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Babadağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8557911,37.8064804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskicioğlu Mescidi: Babadağ'ın Tarihi ve Kültürel Mirası

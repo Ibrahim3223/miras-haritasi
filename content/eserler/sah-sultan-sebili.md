@@ -1,18 +1,17 @@
 ---
-title: "Şah Sultan Sebili | Miras Haritası"
-date: 2025-12-25T13:09:23+03:00
+title: "Şah Sultan Sebili"
+date: "2025-12-25T13:09:23+03:00"
 slug: "sah-sultan-sebili"
 description: "## Şah Sultan Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9363722,41.0445782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şah Sultan Sebili: İstanbul'un Gizli Çeşmesi

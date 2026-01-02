@@ -1,18 +1,17 @@
 ---
-title: "Sultan V. Murat Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:09+03:00
+title: "Sultan V. Murat Türbesi"
+date: "2025-12-25T15:03:09+03:00"
 slug: "sultan-v-murat-turbesi"
 description: "## Sultan V. Murat Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.971735,41.0161438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan V. Murat Türbesi

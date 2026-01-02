@@ -1,18 +1,17 @@
 ---
-title: "Ağlı Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:57:08+03:00
+title: "Ağlı Meydan Çeşmesi"
+date: "2025-12-25T12:57:08+03:00"
 slug: "agli-meydan-cesmesi"
 description: "## Ağlı Meydan Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Ağlı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.553821352,41.686965788"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağlı Meydan Çeşmesi

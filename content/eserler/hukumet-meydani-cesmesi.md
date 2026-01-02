@@ -1,18 +1,17 @@
 ---
-title: "Hükümet Meydanı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:21:22+03:00
+title: "Hükümet Meydanı Çeşmesi"
+date: "2025-12-25T10:21:22+03:00"
 slug: "hukumet-meydani-cesmesi"
 description: "## Hükümet Meydanı Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6121254,39.8100891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hükümet Meydanı Çeşmesi

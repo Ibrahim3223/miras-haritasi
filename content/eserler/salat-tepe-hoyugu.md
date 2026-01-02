@@ -1,18 +1,17 @@
 ---
-title: "Salat Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T08:15:09+03:00
+title: "Salat Tepe Höyüğü"
+date: "2025-12-25T08:15:09+03:00"
 slug: "salat-tepe-hoyugu"
 description: "## Salat Tepe Höyüğü: Diyarbakır'ın Gizli Öyküsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.901980194,37.839483647"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salat Tepe Höyüğü: Diyarbakır'ın Gizli Öyküsü

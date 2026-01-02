@@ -1,18 +1,17 @@
 ---
-title: "Bünyan, Kayseri'de cami | Miras Haritası"
-date: 2025-12-24T22:03:31+03:00
+title: "Bünyan, Kayseri'de cami"
+date: "2025-12-24T22:03:31+03:00"
 slug: "bunyan-kayseride-cami"
 description: "## Bünyan, Kayseri'de Cami: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kayseri"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8586,38.8426"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bünyan, Kayseri'de Cami: Tarihi ve Kültürel Miras

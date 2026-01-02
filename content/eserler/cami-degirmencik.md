@@ -1,18 +1,17 @@
 ---
-title: "Cami, Değirmencik | Miras Haritası"
-date: 2025-12-25T00:02:38+03:00
+title: "Cami, Değirmencik"
+date: "2025-12-25T00:02:38+03:00"
 slug: "cami-degirmencik"
 description: "### Cami, Değirmencik..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2072086,41.6033249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cami, Değirmencik

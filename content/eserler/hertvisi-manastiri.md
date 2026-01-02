@@ -1,18 +1,17 @@
 ---
-title: "Hertvisi Manastırı | Miras Haritası"
-date: 2025-12-25T09:00:34+03:00
+title: "Hertvisi Manastırı"
+date: "2025-12-25T09:00:34+03:00"
 slug: "hertvisi-manastiri"
 description: "## Hertvisi Manastırı: Borçka'nın Gizli Cenneti..."
 featured_image: ""
 province: "Borçka"
-iller: ["Borçka"]
+iller: '["Borçka"]'
 district: "Camili"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.909361111,41.487527777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hertvisi Manastırı: Borçka'nın Gizli Cenneti

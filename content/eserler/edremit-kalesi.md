@@ -1,18 +1,17 @@
 ---
-title: "Edremit Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:25+03:00
+title: "Edremit Kalesi"
+date: "2025-12-25T01:28:25+03:00"
 slug: "edremit-kalesi"
 description: "## Edremit Kalesi..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Edremit"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.2654686,38.4202499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Edremit Kalesi

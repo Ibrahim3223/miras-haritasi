@@ -1,18 +1,17 @@
 ---
-title: "Beytitepe Höyüğü | Miras Haritası"
-date: 2025-12-25T05:51:11+03:00
+title: "Beytitepe Höyüğü"
+date: "2025-12-25T05:51:11+03:00"
 slug: "beytitepe-hoyugu"
 description: "### Beytitepe Höyüğü: Ödemiş'in Gizli Öreni..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.913083,38.2055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beytitepe Höyüğü: Ödemiş'in Gizli Öreni

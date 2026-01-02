@@ -1,18 +1,17 @@
 ---
-title: "Menteşeoğlu Ahmet Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:16+03:00
+title: "Menteşeoğlu Ahmet Gazi Türbesi"
+date: "2025-12-25T14:49:16+03:00"
 slug: "menteseoglu-ahmet-gazi-turbesi"
 description: "### Menteşeoğlu Ahmet Gazi Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7882442,37.2730789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Menteşeoğlu Ahmet Gazi Türbesi

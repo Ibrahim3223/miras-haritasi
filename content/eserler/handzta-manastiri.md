@@ -1,18 +1,17 @@
 ---
-title: "Handzta Manastırı | Miras Haritası"
-date: 2025-12-25T08:40:45+03:00
+title: "Handzta Manastırı"
+date: "2025-12-25T08:40:45+03:00"
 slug: "handzta-manastiri"
 description: "# Handzta Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Khandzta.jpg/1200px-Khandzta.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.070833333,41.246388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Handzta Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Şeyhülislam Mustafa Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:16+03:00
+title: "Şeyhülislam Mustafa Efendi Çeşmesi"
+date: "2025-12-25T11:02:16+03:00"
 slug: "seyhulislam-mustafa-efendi-cesmesi"
 description: "# Şeyhülislam Mustafa Efendi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9523139,41.0154455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyhülislam Mustafa Efendi Çeşmesi

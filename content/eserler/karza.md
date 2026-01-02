@@ -1,18 +1,17 @@
 ---
-title: "Karza | Miras Haritası"
-date: 2025-12-25T05:07:54+03:00
+title: "Karza"
+date: "2025-12-25T05:07:54+03:00"
 slug: "karza"
 description: "## Karza: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.524451,40.996009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karza: Tarihî Bir Arkeolojik Sit

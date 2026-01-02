@@ -1,18 +1,17 @@
 ---
-title: "Semerkandî Evi, Çamlıdere | Miras Haritası"
-date: 2025-12-25T04:08:02+03:00
+title: "Semerkandî Evi, Çamlıdere"
+date: "2025-12-25T04:08:02+03:00"
 slug: "semerkand-evi-camlidere"
 description: "## Semerkandî Evi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çamlıdere"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.4683456,40.4881134"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Semerkandî Evi

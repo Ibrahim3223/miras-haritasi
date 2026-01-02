@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Ziya Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:51:25+03:00
+title: "Yusuf Ziya Paşa Camii"
+date: "2025-12-24T23:51:25+03:00"
 slug: "yusuf-ziya-pasa-camii"
 description: "## Yusuf Ziya Paşa Camii..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Keban"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7380447,38.793911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuf Ziya Paşa Camii

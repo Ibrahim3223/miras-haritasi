@@ -1,18 +1,17 @@
 ---
-title: "Uşakizade Köşkü | Miras Haritası"
-date: 2025-12-25T04:09:41+03:00
+title: "Uşakizade Köşkü"
+date: "2025-12-25T04:09:41+03:00"
 slug: "usakizade-kosku"
 description: "### Uşakizade Köşkü Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/A_brass_band_in_Izmir_preparing_for_Independence_Day_celebrations,_May_18,_2015.jpg/1200px-A_brass_band_in_Izmir_preparing_for_Independence_Day_celebrations,_May_18,_2015.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.098694444,38.403111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Uşakizade Köşkü Tanıtımı

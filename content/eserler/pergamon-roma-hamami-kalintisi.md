@@ -1,18 +1,17 @@
 ---
-title: "Pergamon Roma Hamamı Kalıntısı | Miras Haritası"
-date: 2025-12-25T17:01:03+03:00
+title: "Pergamon Roma Hamamı Kalıntısı"
+date: "2025-12-25T17:01:03+03:00"
 slug: "pergamon-roma-hamami-kalintisi"
 description: "### Pergamon Roma Hamamı Kalıntısı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1863232,39.1214676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pergamon Roma Hamamı Kalıntısı

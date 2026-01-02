@@ -1,18 +1,17 @@
 ---
-title: "Askertepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:06:00+03:00
+title: "Askertepe Tümülüsü"
+date: "2025-12-25T08:06:00+03:00"
 slug: "askertepe-tumulusu"
 description: "## Askertepe Tümülüsü: Şarköy'ün Gizli Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2000885,40.801712"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Askertepe Tümülüsü: Şarköy'ün Gizli Mirası

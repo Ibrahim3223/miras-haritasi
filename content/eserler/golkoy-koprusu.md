@@ -1,18 +1,17 @@
 ---
-title: "Gölköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:24+03:00
+title: "Gölköy Köprüsü"
+date: "2025-12-25T02:43:24+03:00"
 slug: "golkoy-koprusu"
 description: "### Gölköy Köprüsü..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Simav"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.8778458,39.1543999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gölköy Köprüsü

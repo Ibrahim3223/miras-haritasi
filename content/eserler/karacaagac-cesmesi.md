@@ -1,18 +1,17 @@
 ---
-title: "Karacaağaç Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:32:17+03:00
+title: "Karacaağaç Çeşmesi"
+date: "2025-12-25T11:32:17+03:00"
 slug: "karacaagac-cesmesi"
 description: "### Karacaağaç Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8977718,37.1675606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karacaağaç Çeşmesi

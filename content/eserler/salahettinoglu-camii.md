@@ -1,18 +1,17 @@
 ---
-title: "Salahettinoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:40:49+03:00
+title: "Salahettinoğlu Camii"
+date: "2025-12-24T22:40:49+03:00"
 slug: "salahettinoglu-camii"
 description: "### Salahettinoğlu Camii..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1443329,38.4173698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Salahettinoğlu Camii

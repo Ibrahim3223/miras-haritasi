@@ -1,18 +1,17 @@
 ---
-title: "Başoba Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:41+03:00
+title: "Başoba Köyü Köprüsü"
+date: "2025-12-25T02:12:41+03:00"
 slug: "basoba-koyu-koprusu"
 description: "### Başoba Köyü Köprüsü: Hopa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Hopa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.4894445,41.4143438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Başoba Köyü Köprüsü: Hopa'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Tarakçılar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:18+03:00
+title: "Tarakçılar Çeşmesi"
+date: "2025-12-25T10:40:18+03:00"
 slug: "tarakcilar-cesmesi"
 description: "### Tarakçılar Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7718658,41.379509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tarakçılar Çeşmesi

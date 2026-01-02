@@ -1,18 +1,17 @@
 ---
-title: "Çardaklı Hamam | Miras Haritası"
-date: 2025-12-25T16:35:42+03:00
+title: "Çardaklı Hamam"
+date: "2025-12-25T16:35:42+03:00"
 slug: "cardakli-hamam"
 description: "## Çardaklı Hamam: Fatih'te Bir Geçmişin Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.972531,41.003506"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çardaklı Hamam: Fatih'te Bir Geçmişin Mirası

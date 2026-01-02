@@ -1,18 +1,17 @@
 ---
-title: "Namık Kemal Anıtı | Miras Haritası"
-date: 2025-12-25T15:51:21+03:00
+title: "Namık Kemal Anıtı"
+date: "2025-12-25T15:51:21+03:00"
 slug: "namik-kemal-aniti"
 description: "### Namık Kemal Anıtı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.5163326,40.9787254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Namık Kemal Anıtı

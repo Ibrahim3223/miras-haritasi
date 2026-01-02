@@ -1,18 +1,17 @@
 ---
-title: "Akören Şevkiağanın Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:57:01+03:00
+title: "Akören Şevkiağanın Tümülüsü"
+date: "2025-12-25T07:57:01+03:00"
 slug: "akoren-sevkiaganin-tumulusu"
 description: "### Akören Şevkiağanın Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5606632,41.7074356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akören Şevkiağanın Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Kurban Höyük | Miras Haritası"
-date: 2025-12-25T07:06:09+03:00
+title: "Kurban Höyük"
+date: "2025-12-25T07:06:09+03:00"
 slug: "kurban-hoyuk"
 description: "**Kurban Höyük: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.517864,37.504341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kurban Höyük: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi**

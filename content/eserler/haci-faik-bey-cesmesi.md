@@ -1,18 +1,17 @@
 ---
-title: "Hacı Faik Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:58+03:00
+title: "Hacı Faik Bey Çeşmesi"
+date: "2025-12-25T11:01:58+03:00"
 slug: "haci-faik-bey-cesmesi"
 description: "### Hacı Faik Bey Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hacı_Faik_Bey_Çeşmesi.jpg/1200px-Hacı_Faik_Bey_Çeşmesi.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Salacak"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.015995,41.015587"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hacı Faik Bey Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

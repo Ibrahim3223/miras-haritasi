@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Oğuzeli İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:39+03:00
+title: "Gaziantep Oğuzeli İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:50:39+03:00"
 slug: "gaziantep-oguzeli-ilce-halk-kutuphanesi"
 description: "## Gaziantep Oğuzeli İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaziantep Oğuzeli İlçe Halk Kütüphanesi

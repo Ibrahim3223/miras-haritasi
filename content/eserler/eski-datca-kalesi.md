@@ -1,18 +1,17 @@
 ---
-title: "Eski Datça Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:58+03:00
+title: "Eski Datça Kalesi"
+date: "2025-12-25T01:28:58+03:00"
 slug: "eski-datca-kalesi"
 description: "## Eski Datça Kalesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.6607456,36.7321358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Datça Kalesi: Tarih ve Kültür Mirası

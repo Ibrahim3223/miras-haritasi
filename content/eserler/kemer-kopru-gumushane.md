@@ -1,18 +1,17 @@
 ---
-title: "Kemer Köprü, Gümüşhane | Miras Haritası"
-date: 2025-12-25T02:51:18+03:00
+title: "Kemer Köprü, Gümüşhane"
+date: "2025-12-25T02:51:18+03:00"
 slug: "kemer-kopru-gumushane"
 description: "### Kemer Köprü'sü Keşfetmek..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.478,40.45864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kemer Köprü'sü Keşfetmek

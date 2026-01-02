@@ -1,18 +1,17 @@
 ---
-title: "Hasan Dede Türbesi, Kadirli | Miras Haritası"
-date: 2025-12-25T14:46:19+03:00
+title: "Hasan Dede Türbesi, Kadirli"
+date: "2025-12-25T14:46:19+03:00"
 slug: "hasan-dede-turbesi-kadirli"
 description: "## Hasan Dede Türbesi, Kadirli..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Kadirli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.112434826,37.426857516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Dede Türbesi, Kadirli

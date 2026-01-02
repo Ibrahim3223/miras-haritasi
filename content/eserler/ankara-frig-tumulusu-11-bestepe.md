@@ -1,18 +1,17 @@
 ---
-title: "Ankara Frig Tümülüsü 11, Beştepe | Miras Haritası"
-date: 2025-12-25T07:33:14+03:00
+title: "Ankara Frig Tümülüsü 11, Beştepe"
+date: "2025-12-25T07:33:14+03:00"
 slug: "ankara-frig-tumulusu-11-bestepe"
 description: "## Ankara Frig Tümülüsü 11, Beştepe..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8083153,39.9222641"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Frig Tümülüsü 11, Beştepe

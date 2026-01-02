@@ -1,18 +1,17 @@
 ---
-title: "Kirazpınarı Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:06:08+03:00
+title: "Kirazpınarı Tümülüsü"
+date: "2025-12-25T08:06:08+03:00"
 slug: "kirazpinari-tumulusu"
 description: "### Kirazpınarı Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6533356,41.1106834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kirazpınarı Tümülüsü: Edirne'nin Gizli Mirası

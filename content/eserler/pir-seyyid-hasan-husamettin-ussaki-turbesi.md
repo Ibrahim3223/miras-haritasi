@@ -1,18 +1,17 @@
 ---
-title: "Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:47+03:00
+title: "Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi"
+date: "2025-12-25T14:25:47+03:00"
 slug: "pir-seyyid-hasan-husamettin-ussaki-turbesi"
 description: "### Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.972513,41.039429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi

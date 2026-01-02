@@ -1,18 +1,17 @@
 ---
-title: "Abalar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:37:56+03:00
+title: "Abalar Tümülüsü"
+date: "2025-12-25T07:37:56+03:00"
 slug: "abalar-tumulusu"
 description: "## Abalar Tümülüsü: Edirne'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7572193,41.567173"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abalar Tümülüsü: Edirne'nin Gizli Kahramanı

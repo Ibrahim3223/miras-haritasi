@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Pir Edirnevi Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:45+03:00
+title: "Ahmet Pir Edirnevi Türbesi"
+date: "2025-12-25T15:07:45+03:00"
 slug: "ahmet-pir-edirnevi-turbesi"
 description: "### Ahmet Pir Edirnevi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9359493,41.0455399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Pir Edirnevi Türbesi

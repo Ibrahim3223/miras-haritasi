@@ -1,18 +1,17 @@
 ---
-title: "Büyücek Höyüğü | Miras Haritası"
-date: 2025-12-25T06:28:53+03:00
+title: "Büyücek Höyüğü"
+date: "2025-12-25T06:28:53+03:00"
 slug: "buyucek-hoyugu"
 description: "## Büyücek Höyüğü: Akçakale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Akçakale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.9912877,36.7824029"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyücek Höyüğü: Akçakale'nin Gizli Cenneti

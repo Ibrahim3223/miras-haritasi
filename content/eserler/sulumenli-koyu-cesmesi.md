@@ -1,18 +1,17 @@
 ---
-title: "Sülümenli Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:08+03:00
+title: "Sülümenli Köyü Çeşmesi"
+date: "2025-12-25T10:24:08+03:00"
 slug: "sulumenli-koyu-cesmesi"
 description: "## Sülümenli Köyü Çeşmesi: Ulubey'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2023449,38.3532753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sülümenli Köyü Çeşmesi: Ulubey'in Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Metristepe Doruk Şehitliği | Miras Haritası"
-date: 2025-12-25T15:58:51+03:00
+title: "Metristepe Doruk Şehitliği"
+date: "2025-12-25T15:58:51+03:00"
 slug: "metristepe-doruk-sehitligi"
 description: "## Metristepe Doruk Şehitliği..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1786308,39.9299049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metristepe Doruk Şehitliği

@@ -1,18 +1,17 @@
 ---
-title: "Adahöyük | Miras Haritası"
-date: 2025-12-25T06:34:25+03:00
+title: "Adahöyük"
+date: "2025-12-25T06:34:25+03:00"
 slug: "adahoyuk"
 description: "## Adahöyük: Kahramanmaraş'taki Eski Yerleşme..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.0322304,37.3661919"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adahöyük: Kahramanmaraş'taki Eski Yerleşme

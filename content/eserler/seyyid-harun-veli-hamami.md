@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Harun Veli Hamamı | Miras Haritası"
-date: 2025-12-25T17:04:02+03:00
+title: "Seyyid Harun Veli Hamamı"
+date: "2025-12-25T17:04:02+03:00"
 slug: "seyyid-harun-veli-hamami"
 description: "## Seyyid Harun Veli Hamamı: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.8463993,37.4174385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Harun Veli Hamamı: Tarihi ve Kültürel Bir Miras

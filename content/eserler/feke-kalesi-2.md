@@ -1,18 +1,17 @@
 ---
-title: "Feke Kalesi 2 | Miras Haritası"
-date: 2025-12-25T01:39:18+03:00
+title: "Feke Kalesi 2"
+date: "2025-12-25T01:39:18+03:00"
 slug: "feke-kalesi-2"
 description: "### Feke Kalesi 2..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Feke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.92007,37.817679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Feke Kalesi 2

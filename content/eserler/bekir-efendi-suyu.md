@@ -1,18 +1,17 @@
 ---
-title: "Bekir Efendi Suyu | Miras Haritası"
-date: 2025-12-25T11:15:37+03:00
+title: "Bekir Efendi Suyu"
+date: "2025-12-25T11:15:37+03:00"
 slug: "bekir-efendi-suyu"
 description: "## Bekir Efendi Suyu: Sarıyer'in Tarihi Çeşmesi..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Kireçburnu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.044118,41.146863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekir Efendi Suyu: Sarıyer'in Tarihi Çeşmesi

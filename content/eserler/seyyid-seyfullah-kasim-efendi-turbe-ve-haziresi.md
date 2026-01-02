@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi | Miras Haritası"
-date: 2025-12-25T14:32:09+03:00
+title: "Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi"
+date: "2025-12-25T14:32:09+03:00"
 slug: "seyyid-seyfullah-kasim-efendi-turbe-ve-haziresi"
 description: "## Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.926996,41.0070848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi

@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Ferit Eczacıbaşı Heykeli | Miras Haritası"
-date: 2025-12-25T15:50:22+03:00
+title: "Süleyman Ferit Eczacıbaşı Heykeli"
+date: "2025-12-25T15:50:22+03:00"
 slug: "suleyman-ferit-eczacibasi-heykeli"
 description: "# Süleyman Ferit Eczacıbaşı Heykeli..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1288834,38.4153748"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Süleyman Ferit Eczacıbaşı Heykeli

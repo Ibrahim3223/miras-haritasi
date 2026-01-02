@@ -1,18 +1,17 @@
 ---
-title: "Sakire Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:02+03:00
+title: "Sakire Kilisesi"
+date: "2025-12-25T09:07:02+03:00"
 slug: "sakire-kilisesi"
 description: "## Sakire Kilisesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Posof"
-iller: ["Posof"]
+iller: '["Posof"]'
 district: "Çambeli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.79965,41.487763888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakire Kilisesi: Tarihi ve Kültürel Mirasımız

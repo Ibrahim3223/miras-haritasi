@@ -1,18 +1,17 @@
 ---
-title: "Kurt Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:51+03:00
+title: "Kurt Çelebi Türbesi"
+date: "2025-12-25T14:24:51+03:00"
 slug: "kurt-celebi-turbesi"
 description: "## Kurt Çelebi Türbesi: İstanbul'un Eski Beyoğlu'nde Gizlenen Tarihi Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.965485,41.033981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurt Çelebi Türbesi: İstanbul'un Eski Beyoğlu'nde Gizlenen Tarihi Bir Miras

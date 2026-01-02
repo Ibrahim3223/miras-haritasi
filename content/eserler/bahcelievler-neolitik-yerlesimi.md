@@ -1,18 +1,17 @@
 ---
-title: "Bahçelievler Neolitik Yerleşimi | Miras Haritası"
-date: 2025-12-25T08:30:31+03:00
+title: "Bahçelievler Neolitik Yerleşimi"
+date: "2025-12-25T08:30:31+03:00"
 slug: "bahcelievler-neolitik-yerlesimi"
 description: "**Bahçelievler Neolitik Yerleşimi**..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9756298,40.1644783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bahçelievler Neolitik Yerleşimi**

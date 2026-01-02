@@ -1,18 +1,17 @@
 ---
-title: "Kaletepe Mescidi | Miras Haritası"
-date: 2025-12-25T00:48:59+03:00
+title: "Kaletepe Mescidi"
+date: "2025-12-25T00:48:59+03:00"
 slug: "kaletepe-mescidi"
 description: "## Kaletepe Mescidi: Didim'in Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2769699,37.5316467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaletepe Mescidi: Didim'in Gizli Cenneti

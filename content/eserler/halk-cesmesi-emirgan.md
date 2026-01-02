@@ -1,18 +1,17 @@
 ---
-title: "Halk Çeşmesi, Emirgan | Miras Haritası"
-date: 2025-12-25T12:48:40+03:00
+title: "Halk Çeşmesi, Emirgan"
+date: "2025-12-25T12:48:40+03:00"
 slug: "halk-cesmesi-emirgan"
 description: "## Halk Çeşmesi, Emirgan: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0553703,41.1048927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halk Çeşmesi, Emirgan: İstanbul'un Gizli Çeşmesi

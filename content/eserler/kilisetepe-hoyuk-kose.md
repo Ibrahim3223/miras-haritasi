@@ -1,18 +1,17 @@
 ---
-title: "Kilisetepe Höyük, Köse | Miras Haritası"
-date: 2025-12-25T05:48:39+03:00
+title: "Kilisetepe Höyük, Köse"
+date: "2025-12-25T05:48:39+03:00"
 slug: "kilisetepe-hoyuk-kose"
 description: "# Kilisetepe Höyük, Köse: Geçmişin İzleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Köse"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.8105,40.245384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kilisetepe Höyük, Köse: Geçmişin İzleri

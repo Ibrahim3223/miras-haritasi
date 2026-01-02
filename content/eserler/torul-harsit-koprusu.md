@@ -1,18 +1,17 @@
 ---
-title: "Torul Harşit Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:25+03:00
+title: "Torul Harşit Köprüsü"
+date: "2025-12-25T02:32:25+03:00"
 slug: "torul-harsit-koprusu"
 description: "## Torul Harşit Köprüsü: İnci gibi bir Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.29263,40.55715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Torul Harşit Köprüsü: İnci gibi bir Miras

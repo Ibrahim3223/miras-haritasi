@@ -1,18 +1,17 @@
 ---
-title: "Nazır Hüseyin Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:46:23+03:00
+title: "Nazır Hüseyin Ağa Çeşmesi"
+date: "2025-12-25T10:46:23+03:00"
 slug: "nazir-huseyin-aga-cesmesi"
 description: "## Nazır Hüseyin Ağa Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Darıca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4243431,40.7765121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nazır Hüseyin Ağa Çeşmesi

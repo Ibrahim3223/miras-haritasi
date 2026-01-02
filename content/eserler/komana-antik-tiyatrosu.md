@@ -1,18 +1,17 @@
 ---
-title: "Komana Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:25:36+03:00
+title: "Komana Antik Tiyatrosu"
+date: "2025-12-25T08:25:36+03:00"
 slug: "komana-antik-tiyatrosu"
 description: "## Komana Antik Tiyatrosu..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Tufanbeyli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.325981,38.329498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Komana Antik Tiyatrosu

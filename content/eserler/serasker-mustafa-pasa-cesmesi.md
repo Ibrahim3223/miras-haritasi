@@ -1,18 +1,17 @@
 ---
-title: "Serasker Mustafa Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:18+03:00
+title: "Serasker Mustafa Paşa Çeşmesi"
+date: "2025-12-25T11:19:18+03:00"
 slug: "serasker-mustafa-pasa-cesmesi"
 description: "## Serasker Mustafa Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Serasker_Mustafa_Paşa_Çeşmesi_IMG_3096.jpg/1200px-Serasker_Mustafa_Paşa_Çeşmesi_IMG_3096.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0957146,41.1155357"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Serasker Mustafa Paşa Çeşmesi

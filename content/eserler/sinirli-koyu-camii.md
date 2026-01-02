@@ -1,18 +1,17 @@
 ---
-title: "Sinirli Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:07:04+03:00
+title: "Sinirli Köyü Camii"
+date: "2025-12-24T23:07:04+03:00"
 slug: "sinirli-koyu-camii"
 description: "## Sinirli Köyü Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6800537,38.5979156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinirli Köyü Camii

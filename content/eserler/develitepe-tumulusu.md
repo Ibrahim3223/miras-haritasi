@@ -1,18 +1,17 @@
 ---
-title: "Develitepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:52+03:00
+title: "Develitepe Tümülüsü"
+date: "2025-12-25T08:05:52+03:00"
 slug: "develitepe-tumulusu"
 description: "## Develitepe Tümülüsü: Vize'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7255764,41.5584335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Develitepe Tümülüsü: Vize'nin Gizli Cenneti

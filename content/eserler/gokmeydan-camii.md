@@ -1,18 +1,17 @@
 ---
-title: "Gökmeydan Camii | Miras Haritası"
-date: 2025-12-24T23:04:24+03:00
+title: "Gökmeydan Camii"
+date: "2025-12-24T23:04:24+03:00"
 slug: "gokmeydan-camii"
 description: "### Gökmeydan Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.1081924,38.4078598"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökmeydan Camii

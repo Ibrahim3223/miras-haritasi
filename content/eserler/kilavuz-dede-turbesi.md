@@ -1,18 +1,17 @@
 ---
-title: "Kılavuz Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:41+03:00
+title: "Kılavuz Dede Türbesi"
+date: "2025-12-25T15:04:41+03:00"
 slug: "kilavuz-dede-turbesi"
 description: "## Kılavuz Dede Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Sındırgı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.1717567,39.2346764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılavuz Dede Türbesi

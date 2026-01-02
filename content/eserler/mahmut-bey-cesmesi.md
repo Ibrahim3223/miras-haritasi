@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:03+03:00
+title: "Mahmut Bey Çeşmesi"
+date: "2025-12-25T11:07:03+03:00"
 slug: "mahmut-bey-cesmesi"
 description: "## Mahmut Bey Çeşmesi: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mahmut_Bey_Çeşmesi.jpg/1200px-Mahmut_Bey_Çeşmesi.jpg"
-province: "Ataşehir"
-iller: ["Ataşehir"]
-district: "İçerenköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Ataşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1093597,40.9696557"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mahmut Bey Çeşmesi: Tarihi ve Kültürel Miras

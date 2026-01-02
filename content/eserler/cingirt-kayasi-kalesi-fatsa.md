@@ -1,18 +1,17 @@
 ---
-title: "Cıngırt Kayası Kalesi, Fatsa | Miras Haritası"
-date: 2025-12-25T01:42:21+03:00
+title: "Cıngırt Kayası Kalesi, Fatsa"
+date: "2025-12-25T01:42:21+03:00"
 slug: "cingirt-kayasi-kalesi-fatsa"
 description: "## Cıngırt Kayası Kalesi: Fatsa'nın Tarihi bir Zirvesi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Fatsa"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.4447212,41.0661163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cıngırt Kayası Kalesi: Fatsa'nın Tarihi bir Zirvesi

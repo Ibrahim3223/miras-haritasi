@@ -1,18 +1,17 @@
 ---
-title: "III. Ahmet Çeşmesi, Kağıthane | Miras Haritası"
-date: 2025-12-25T12:12:51+03:00
+title: "III. Ahmet Çeşmesi, Kağıthane"
+date: "2025-12-25T12:12:51+03:00"
 slug: "iii-ahmet-cesmesi-kagithane"
 description: "**III. Ahmet Çeşmesi, Kağıthane**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/III._Ahmet_Çeşmesi,_Kağıthane_IMG_9813.jpg/1200px-III._Ahmet_Çeşmesi,_Kağıthane_IMG_9813.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kağıthane"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.964827,41.07121"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **III. Ahmet Çeşmesi, Kağıthane**

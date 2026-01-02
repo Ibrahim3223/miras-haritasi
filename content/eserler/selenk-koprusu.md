@@ -1,18 +1,17 @@
 ---
-title: "Selenk Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:24+03:00
+title: "Selenk Köprüsü"
+date: "2025-12-25T02:23:24+03:00"
 slug: "selenk-koprusu"
 description: "## Selenk Köprüsü: Bingöl'de Bir Tarihî Köprü..."
 featured_image: ""
 province: "Bingöl"
-iller: ["Bingöl"]
+iller: '["Bingöl"]'
 district: "Kiğı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.3704796,39.2923813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selenk Köprüsü: Bingöl'de Bir Tarihî Köprü

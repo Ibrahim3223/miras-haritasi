@@ -1,18 +1,17 @@
 ---
-title: "Hacı İsmail Ağa Çeşmesi, Silivri | Miras Haritası"
-date: 2025-12-25T12:49:47+03:00
+title: "Hacı İsmail Ağa Çeşmesi, Silivri"
+date: "2025-12-25T12:49:47+03:00"
 slug: "haci-ismail-aga-cesmesi-silivri"
 description: "## Hacı İsmail Ağa Çeşmesi, Silivri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2444363,41.0734291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı İsmail Ağa Çeşmesi, Silivri

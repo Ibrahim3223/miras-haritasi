@@ -1,18 +1,17 @@
 ---
-title: "Kaledibi Kalesi | Miras Haritası"
-date: 2025-12-25T01:31:27+03:00
+title: "Kaledibi Kalesi"
+date: "2025-12-25T01:31:27+03:00"
 slug: "kaledibi-kalesi"
 description: "**Kaledibi Kalesi: Tortum'un Gizli İhtişamı**..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Tortum"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.528513888,40.3199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kaledibi Kalesi: Tortum'un Gizli İhtişamı**

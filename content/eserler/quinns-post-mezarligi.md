@@ -1,18 +1,17 @@
 ---
-title: "Quinn's Post Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:54:51+03:00
+title: "Quinn's Post Mezarlığı"
+date: "2025-12-25T15:54:51+03:00"
 slug: "quinns-post-mezarligi"
 description: "## Quinn's Post Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Çanakkale_4853.jpg/1200px-Çanakkale_4853.jpg"
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.29168,40.23815"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Quinn's Post Mezarlığı

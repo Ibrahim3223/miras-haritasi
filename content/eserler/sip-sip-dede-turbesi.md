@@ -1,18 +1,17 @@
 ---
-title: "Şıp Şıp Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:12+03:00
+title: "Şıp Şıp Dede Türbesi"
+date: "2025-12-25T15:16:12+03:00"
 slug: "sip-sip-dede-turbesi"
 description: "## Şıp Şıp Dede Türbesi: Edremit'in Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.989487,39.608148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şıp Şıp Dede Türbesi: Edremit'in Gizli Anıtı

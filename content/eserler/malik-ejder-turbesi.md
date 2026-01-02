@@ -1,18 +1,17 @@
 ---
-title: "Malik Ejder Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:55+03:00
+title: "Malik Ejder Türbesi"
+date: "2025-12-25T14:21:55+03:00"
 slug: "malik-ejder-turbesi"
 description: "## Malik Ejder Türbesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.9013,37.51"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malik Ejder Türbesi

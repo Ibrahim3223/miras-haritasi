@@ -1,18 +1,17 @@
 ---
-title: "Süller Höyük | Miras Haritası"
-date: 2025-12-25T06:16:05+03:00
+title: "Süller Höyük"
+date: "2025-12-25T06:16:05+03:00"
 slug: "suller-hoyuk"
 description: "## Süller Höyük: Tarihî ve Kültürel Mirasın Gizli Çandırı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.5326004,38.1329994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süller Höyük: Tarihî ve Kültürel Mirasın Gizli Çandırı

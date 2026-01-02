@@ -1,18 +1,17 @@
 ---
-title: "Erenler Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:29+03:00
+title: "Erenler Türbesi"
+date: "2025-12-25T15:29:29+03:00"
 slug: "erenler-turbesi"
 description: "### Erenler Türbesi: Merkezefendi'nin Gizli Çağı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.054697,37.7532768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Erenler Türbesi: Merkezefendi'nin Gizli Çağı

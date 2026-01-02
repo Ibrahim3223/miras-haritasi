@@ -1,18 +1,17 @@
 ---
-title: "Akhisar Köyü Kemer Köprü | Miras Haritası"
-date: 2025-12-25T02:30:07+03:00
+title: "Akhisar Köyü Kemer Köprü"
+date: "2025-12-25T02:30:07+03:00"
 slug: "akhisar-koyu-kemer-kopru"
 description: "## Akhisar Köyü Kemer Köprü: Gümüşhane'nin Gizli Çarıgı..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.85014,40.43878"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akhisar Köyü Kemer Köprü: Gümüşhane'nin Gizli Çarıgı

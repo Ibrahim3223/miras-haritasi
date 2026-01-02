@@ -1,18 +1,17 @@
 ---
-title: "Develer Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:40:04+03:00
+title: "Develer Çeşmesi"
+date: "2025-12-25T11:40:04+03:00"
 slug: "develer-cesmesi"
 description: "## Develer Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2799187,39.9101982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Develer Çeşmesi

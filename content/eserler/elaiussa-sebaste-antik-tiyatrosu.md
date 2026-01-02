@@ -1,18 +1,17 @@
 ---
-title: "Elaiussa Sebaste Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:20:16+03:00
+title: "Elaiussa Sebaste Antik Tiyatrosu"
+date: "2025-12-25T16:20:16+03:00"
 slug: "elaiussa-sebaste-antik-tiyatrosu"
 description: "### Elaiussa Sebaste Antik Tiyatrosu..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "34.173901,36.483635"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Elaiussa Sebaste Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Gaius Caesar Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:13:07+03:00
+title: "Gaius Caesar Anıt Mezarı"
+date: "2025-12-25T14:13:07+03:00"
 slug: "gaius-caesar-anit-mezari"
 description: "### Gaius Caesar Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cenotaph_Limyra.JPG/1200px-Cenotaph_Limyra.JPG"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1679,36.341852"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Gaius Caesar Anıt Mezarı

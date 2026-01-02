@@ -1,18 +1,17 @@
 ---
-title: "Panda | Miras Haritası"
-date: 2025-12-25T08:32:15+03:00
+title: "Panda"
+date: "2025-12-25T08:32:15+03:00"
 slug: "panda"
 description: "## Yunusemre Panda Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3789,38.7106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yunusemre Panda Arkeolojik Sit

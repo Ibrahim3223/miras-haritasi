@@ -1,18 +1,17 @@
 ---
-title: "Ayios Trifonos Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:39+03:00
+title: "Ayios Trifonos Çeşmesi"
+date: "2025-12-25T11:44:39+03:00"
 slug: "ayios-trifonos-cesmesi"
 description: "## Ayios Trifonos Çeşmesi..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Arnavutköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0434265,41.068306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Trifonos Çeşmesi

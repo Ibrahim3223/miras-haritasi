@@ -1,18 +1,17 @@
 ---
-title: "Ayia Vlaherna Ayazması | Miras Haritası"
-date: 2025-12-25T12:41:11+03:00
+title: "Ayia Vlaherna Ayazması"
+date: "2025-12-25T12:41:11+03:00"
 slug: "ayia-vlaherna-ayazmasi"
 description: "## Ayia Vlaherna Ayazması: Beşiktaş'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0407982,41.0703735"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayia Vlaherna Ayazması: Beşiktaş'ın Gizli Çeşmesi

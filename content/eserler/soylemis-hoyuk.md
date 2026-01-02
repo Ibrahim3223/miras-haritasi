@@ -1,18 +1,17 @@
 ---
-title: "Söylemiş Höyük | Miras Haritası"
-date: 2025-12-25T05:27:15+03:00
+title: "Söylemiş Höyük"
+date: "2025-12-25T05:27:15+03:00"
 slug: "soylemis-hoyuk"
 description: "**Söylemiş Höyük: Bursa'nın Gizli Mirası**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.61195,40.232783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Söylemiş Höyük: Bursa'nın Gizli Mirası**

@@ -1,18 +1,17 @@
 ---
-title: "Ayasofya Üçyüzlü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:39:58+03:00
+title: "Ayasofya Üçyüzlü Çeşmesi"
+date: "2025-12-25T10:39:58+03:00"
 slug: "ayasofya-ucyuzlu-cesmesi"
 description: "## Ayasofya Üçyüzlü Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ayasofya_Üçyüzlü_Çeşmesi,_İstanbul.jpg/1200px-Ayasofya_Üçyüzlü_Çeşmesi,_İstanbul.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.978583333,41.009055555"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Ayasofya Üçyüzlü Çeşmesi

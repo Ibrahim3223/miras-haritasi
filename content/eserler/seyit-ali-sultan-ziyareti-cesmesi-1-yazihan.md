@@ -1,18 +1,17 @@
 ---
-title: "Seyit Ali Sultan Ziyareti Çeşmesi 1, Yazıhan | Miras Haritası"
-date: 2025-12-25T12:20:02+03:00
+title: "Seyit Ali Sultan Ziyareti Çeşmesi 1, Yazıhan"
+date: "2025-12-25T12:20:02+03:00"
 slug: "seyit-ali-sultan-ziyareti-cesmesi-1-yazihan"
 description: "## Seyit Ali Sultan Ziyareti Çeşmesi 1, Yazıhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yazıhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.984452242,38.558697384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyit Ali Sultan Ziyareti Çeşmesi 1, Yazıhan

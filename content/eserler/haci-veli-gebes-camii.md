@@ -1,18 +1,17 @@
 ---
-title: "Hacı Veli Gebeş Camii | Miras Haritası"
-date: 2025-12-24T23:28:08+03:00
+title: "Hacı Veli Gebeş Camii"
+date: "2025-12-24T23:28:08+03:00"
 slug: "haci-veli-gebes-camii"
 description: "# Hacı Veli Gebeş Camii: Zonguldak'ta Bir Önemli Cami Mirası..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Devrek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.029686,41.2542114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Veli Gebeş Camii: Zonguldak'ta Bir Önemli Cami Mirası

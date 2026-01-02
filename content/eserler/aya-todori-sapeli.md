@@ -1,18 +1,17 @@
 ---
-title: "Aya Todori Şapeli | Miras Haritası"
-date: 2025-12-25T09:43:45+03:00
+title: "Aya Todori Şapeli"
+date: "2025-12-25T09:43:45+03:00"
 slug: "aya-todori-sapeli"
 description: "## Aya Todori Şapeli: Adalar'daki Bir Kilise'nin Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.136070704,40.869118183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Todori Şapeli: Adalar'daki Bir Kilise'nin Gizemi

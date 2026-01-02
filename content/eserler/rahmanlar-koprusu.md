@@ -1,18 +1,17 @@
 ---
-title: "Rahmanlar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:17:40+03:00
+title: "Rahmanlar Köprüsü"
+date: "2025-12-25T02:17:40+03:00"
 slug: "rahmanlar-koprusu"
 description: "## Rahmanlar Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.531332,38.1140327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rahmanlar Köprüsü

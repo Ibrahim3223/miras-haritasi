@@ -1,18 +1,17 @@
 ---
-title: "Eyüp Sultan Camii Avlu Duvarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:11:10+03:00
+title: "Eyüp Sultan Camii Avlu Duvarı Çeşmesi"
+date: "2025-12-25T11:11:10+03:00"
 slug: "eyup-sultan-camii-avlu-duvari-cesmesi"
 description: "## Eyüp Sultan Camii Avlu Duvarı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.932905,41.047932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eyüp Sultan Camii Avlu Duvarı Çeşmesi

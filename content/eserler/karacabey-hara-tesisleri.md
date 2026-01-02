@@ -1,18 +1,17 @@
 ---
-title: "Karacabey Hara Tesisleri | Miras Haritası"
-date: 2025-12-25T15:39:43+03:00
+title: "Karacabey Hara Tesisleri"
+date: "2025-12-25T15:39:43+03:00"
 slug: "karacabey-hara-tesisleri"
 description: "## Karacabey Hara Tesisleri..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3451995,40.0975686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karacabey Hara Tesisleri

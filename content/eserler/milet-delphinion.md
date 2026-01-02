@@ -1,18 +1,17 @@
 ---
-title: "Milet Delphinion | Miras Haritası"
-date: 2025-12-25T05:25:30+03:00
+title: "Milet Delphinion"
+date: "2025-12-25T05:25:30+03:00"
 slug: "milet-delphinion"
 description: "## Milet Delphinion: Didim'in Gizli Kahramanı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2807007,37.5298538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milet Delphinion: Didim'in Gizli Kahramanı

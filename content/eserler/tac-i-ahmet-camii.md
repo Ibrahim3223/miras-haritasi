@@ -1,18 +1,17 @@
 ---
-title: "Tac-ı Ahmet Camii | Miras Haritası"
-date: 2025-12-24T23:13:08+03:00
+title: "Tac-ı Ahmet Camii"
+date: "2025-12-24T23:13:08+03:00"
 slug: "tac-i-ahmet-camii"
 description: "## Tac-ı Ahmet Camii: Afyonkarahisar'ın Tarihi Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5303192,38.7534218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tac-ı Ahmet Camii: Afyonkarahisar'ın Tarihi Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Hacılar Köprüsü, Hayrabolu | Miras Haritası"
-date: 2025-12-25T02:55:41+03:00
+title: "Hacılar Köprüsü, Hayrabolu"
+date: "2025-12-25T02:55:41+03:00"
 slug: "hacilar-koprusu-hayrabolu"
 description: "## Hacılar Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Hayrabolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.117485,41.2096825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacılar Köprüsü

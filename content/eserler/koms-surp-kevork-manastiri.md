@@ -1,18 +1,17 @@
 ---
-title: "Koms Surp Kevork Manastırı | Miras Haritası"
-date: 2025-12-25T09:50:07+03:00
+title: "Koms Surp Kevork Manastırı"
+date: "2025-12-25T09:50:07+03:00"
 slug: "koms-surp-kevork-manastiri"
 description: "## Koms Surp Kevork Manastırı..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Tatvan"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.6317918,38.4818849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koms Surp Kevork Manastırı

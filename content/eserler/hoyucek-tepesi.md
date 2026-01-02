@@ -1,18 +1,17 @@
 ---
-title: "Höyücek Tepesi | Miras Haritası"
-date: 2025-12-25T07:14:37+03:00
+title: "Höyücek Tepesi"
+date: "2025-12-25T07:14:37+03:00"
 slug: "hoyucek-tepesi"
 description: "### Höyücek Tepesi: Bandırma'nın Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.856388888,40.276388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Höyücek Tepesi: Bandırma'nın Gizli Anıtı

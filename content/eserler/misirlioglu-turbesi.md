@@ -1,18 +1,17 @@
 ---
-title: "Mısırlıoğlu Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:37+03:00
+title: "Mısırlıoğlu Türbesi"
+date: "2025-12-25T14:45:37+03:00"
 slug: "misirlioglu-turbesi"
 description: "# Mısırlıoğlu Türbesi..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.454683,40.452065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mısırlıoğlu Türbesi

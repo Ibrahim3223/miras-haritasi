@@ -1,18 +1,17 @@
 ---
-title: "Çerkez Musa Camii | Miras Haritası"
-date: 2025-12-24T22:30:00+03:00
+title: "Çerkez Musa Camii"
+date: "2025-12-24T22:30:00+03:00"
 slug: "cerkez-musa-camii"
 description: "### Çerkez Musa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5281124,37.8519745"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çerkez Musa Camii

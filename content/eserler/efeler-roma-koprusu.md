@@ -1,18 +1,17 @@
 ---
-title: "Efeler Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:00+03:00
+title: "Efeler Roma Köprüsü"
+date: "2025-12-25T02:33:00+03:00"
 slug: "efeler-roma-koprusu"
 description: "# Efeler Roma Köprüsü: Borçka'nın Tarihi Harikası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.9263992,41.4385986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Efeler Roma Köprüsü: Borçka'nın Tarihi Harikası

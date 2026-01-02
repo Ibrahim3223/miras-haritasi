@@ -1,18 +1,17 @@
 ---
-title: "Parabolos | Miras Haritası"
-date: 2025-12-25T04:49:10+03:00
+title: "Parabolos"
+date: "2025-12-25T04:49:10+03:00"
 slug: "parabolos"
 description: "## Parabolos: Eski Yunanistan'ın Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.030439,41.052491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parabolos: Eski Yunanistan'ın Gizemli Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Çöreğibüyük Camii, Niksar | Miras Haritası"
-date: 2025-12-25T00:06:31+03:00
+title: "Çöreğibüyük Camii, Niksar"
+date: "2025-12-25T00:06:31+03:00"
 slug: "coregibuyuk-camii-niksar"
 description: "### Çöreğibüyük Camii: Niksar'da Bir Zemin Camii'nin Anlamları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Niksar_Çöreğibüyük_Camii_Taç_Kapısı.jpg/1200px-Niksar_Çöreğibüyük_Camii_Taç_Kapısı.jpg"
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.945797,40.5909119"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çöreğibüyük Camii: Niksar'da Bir Zemin Camii'nin Anlamları

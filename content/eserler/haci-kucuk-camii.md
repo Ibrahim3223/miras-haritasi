@@ -1,18 +1,17 @@
 ---
-title: "Hacı Küçük Camii | Miras Haritası"
-date: 2025-12-24T22:56:21+03:00
+title: "Hacı Küçük Camii"
+date: "2025-12-24T22:56:21+03:00"
 slug: "haci-kucuk-camii"
 description: "## Hacı Küçük Camii: İstanbul'un Tarihi Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hacı_Küçük_Camii_in_2024_6512.jpg/1200px-Hacı_Küçük_Camii_in_2024_6512.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.970648,41.014083"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Küçük Camii: İstanbul'un Tarihi Cenneti

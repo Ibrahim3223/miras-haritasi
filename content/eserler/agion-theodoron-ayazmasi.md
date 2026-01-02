@@ -1,18 +1,17 @@
 ---
-title: "Agion Theodoron Ayazması | Miras Haritası"
-date: 2025-12-25T12:42:23+03:00
+title: "Agion Theodoron Ayazması"
+date: "2025-12-25T12:42:23+03:00"
 slug: "agion-theodoron-ayazmasi"
 description: "## Agion Theodoron Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9544353,41.006958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Agion Theodoron Ayazması

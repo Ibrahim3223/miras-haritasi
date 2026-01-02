@@ -1,18 +1,17 @@
 ---
-title: "Sofalı Çeşme | Miras Haritası"
-date: 2025-12-25T10:38:09+03:00
+title: "Sofalı Çeşme"
+date: "2025-12-25T10:38:09+03:00"
 slug: "sofali-cesme"
 description: "## Sofalı Çeşme: Fatih'teki bir İznik Çini Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sofalı_Çeşme,_Karagümrük_05.jpg/1200px-Sofalı_Çeşme,_Karagümrük_05.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.936,41.026527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sofalı Çeşme: Fatih'teki bir İznik Çini Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Kaynak Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:28:14+03:00
+title: "Kaynak Mahallesi Çeşmesi"
+date: "2025-12-25T11:28:14+03:00"
 slug: "kaynak-mahallesi-cesmesi"
 description: "## Kaynak Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4138279,38.6089897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaynak Mahallesi Çeşmesi

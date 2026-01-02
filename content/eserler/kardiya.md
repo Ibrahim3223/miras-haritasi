@@ -1,18 +1,17 @@
 ---
-title: "Kardiya | Miras Haritası"
-date: 2025-12-25T04:20:38+03:00
+title: "Kardiya"
+date: "2025-12-25T04:20:38+03:00"
 slug: "kardiya"
 description: "## Kardiya Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.74083333,40.54722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kardiya Arkeolojik Sit

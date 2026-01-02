@@ -1,18 +1,17 @@
 ---
-title: "Boyacı Kulluğu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:32+03:00
+title: "Boyacı Kulluğu Köprüsü"
+date: "2025-12-25T02:29:32+03:00"
 slug: "boyaci-kullugu-koprusu"
 description: "## Boyacı Kulluğu Köprüsü: Bursa'nın Gizli Çıkışı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bursa_Boyacıkulluğu_Köprüsü_2014_0042.jpg/1200px-Bursa_Boyacıkulluğu_Köprüsü_2014_0042.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0721836,40.1829185"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Boyacı Kulluğu Köprüsü: Bursa'nın Gizli Çıkışı

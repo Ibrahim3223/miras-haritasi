@@ -1,18 +1,17 @@
 ---
-title: "Darıca Yerli Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:22+03:00
+title: "Darıca Yerli Çeşmesi"
+date: "2025-12-25T10:48:22+03:00"
 slug: "darica-yerli-cesmesi"
 description: "## Darıca Yerli Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Darıca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.3833523,40.7586632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darıca Yerli Çeşmesi

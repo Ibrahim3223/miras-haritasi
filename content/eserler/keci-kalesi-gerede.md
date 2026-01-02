@@ -1,18 +1,17 @@
 ---
-title: "Keçi Kalesi, Gerede | Miras Haritası"
-date: 2025-12-25T01:32:44+03:00
+title: "Keçi Kalesi, Gerede"
+date: "2025-12-25T01:32:44+03:00"
 slug: "keci-kalesi-gerede"
 description: "## Keçi Kalesi, Gerede: Bolu'nun Gizli Kahramanı..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Gerede"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.199442,40.814479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keçi Kalesi, Gerede: Bolu'nun Gizli Kahramanı

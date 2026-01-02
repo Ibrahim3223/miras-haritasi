@@ -1,18 +1,17 @@
 ---
-title: "Budaklar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:13:27+03:00
+title: "Budaklar Köprüsü"
+date: "2025-12-25T02:13:27+03:00"
 slug: "budaklar-koprusu"
 description: "## Budaklar Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Sivaslı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.5648575,38.4564514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Budaklar Köprüsü

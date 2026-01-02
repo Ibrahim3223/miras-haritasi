@@ -1,18 +1,17 @@
 ---
-title: "Cağalzade İbrahim Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:26+03:00
+title: "Cağalzade İbrahim Bey Çeşmesi"
+date: "2025-12-25T10:54:26+03:00"
 slug: "cagalzade-ibrahim-bey-cesmesi"
 description: "## Cağalzade İbrahim Bey Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5127563,40.9814072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cağalzade İbrahim Bey Çeşmesi

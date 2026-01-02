@@ -1,18 +1,17 @@
 ---
-title: "Metin Yurdanur Açık Hava Heykel Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:40+03:00
+title: "Metin Yurdanur Açık Hava Heykel Müzesi"
+date: "2025-12-25T03:44:40+03:00"
 slug: "metin-yurdanur-acik-hava-heykel-muzesi"
 description: "## Metin Yurdanur Açık Hava Heykel Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.5355873,39.4546394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metin Yurdanur Açık Hava Heykel Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Ekindere Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:33:17+03:00
+title: "Ekindere Çeşmesi"
+date: "2025-12-25T11:33:17+03:00"
 slug: "ekindere-cesmesi"
 description: "### Ekindere Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6201,37.4173012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ekindere Çeşmesi

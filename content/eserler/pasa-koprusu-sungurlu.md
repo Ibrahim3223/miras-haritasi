@@ -1,18 +1,17 @@
 ---
-title: "Paşa Köprüsü, Sungurlu | Miras Haritası"
-date: 2025-12-25T03:04:00+03:00
+title: "Paşa Köprüsü, Sungurlu"
+date: "2025-12-25T03:04:00+03:00"
 slug: "pasa-koprusu-sungurlu"
 description: "## Paşa Köprüsü, Sungurlu..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Sungurlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.374729,40.159501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Köprüsü, Sungurlu

@@ -1,18 +1,17 @@
 ---
-title: "Ömer Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:04+03:00
+title: "Ömer Dede Türbesi"
+date: "2025-12-25T15:23:04+03:00"
 slug: "omer-dede-turbesi"
 description: "## Ömer Dede Türbesi: Selendi'nin Tarihi Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Selendi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.8714905,38.7352715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömer Dede Türbesi: Selendi'nin Tarihi Anıtı

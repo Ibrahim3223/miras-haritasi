@@ -1,18 +1,17 @@
 ---
-title: "Hedbeli Camii | Miras Haritası"
-date: 2025-12-24T23:35:23+03:00
+title: "Hedbeli Camii"
+date: "2025-12-24T23:35:23+03:00"
 slug: "hedbeli-camii"
 description: "## Hedbeli Camii: Hatay'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1678505,36.1983032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hedbeli Camii: Hatay'ın Tarihi ve Kültürel Mirasının Bir Parçası

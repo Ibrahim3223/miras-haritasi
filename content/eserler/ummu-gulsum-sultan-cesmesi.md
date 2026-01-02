@@ -1,18 +1,17 @@
 ---
-title: "Ümmü Gülsüm Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:16+03:00
+title: "Ümmü Gülsüm Sultan Çeşmesi"
+date: "2025-12-25T10:58:16+03:00"
 slug: "ummu-gulsum-sultan-cesmesi"
 description: "### Ümmü Gülsüm Sultan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.010839,41.024132"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ümmü Gülsüm Sultan Çeşmesi

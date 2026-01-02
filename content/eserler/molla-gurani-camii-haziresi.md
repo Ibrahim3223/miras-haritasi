@@ -1,18 +1,17 @@
 ---
-title: "Molla Gürani Camii Haziresi | Miras Haritası"
-date: 2025-12-25T16:05:55+03:00
+title: "Molla Gürani Camii Haziresi"
+date: "2025-12-25T16:05:55+03:00"
 slug: "molla-gurani-camii-haziresi"
 description: "## Molla Gürani Camii Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.941087,41.011229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Gürani Camii Haziresi

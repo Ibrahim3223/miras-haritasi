@@ -1,18 +1,17 @@
 ---
-title: "İmam Birgivi Darülhadisi | Miras Haritası"
-date: 2025-12-25T17:42:28+03:00
+title: "İmam Birgivi Darülhadisi"
+date: "2025-12-25T17:42:28+03:00"
 slug: "imam-birgivi-darulhadisi"
 description: "## İmam Birgivi Darülhadisi: Ödemiş'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.0677624,38.2565308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmam Birgivi Darülhadisi: Ödemiş'in Tarihi ve Kültürel Mirası

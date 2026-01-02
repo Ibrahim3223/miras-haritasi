@@ -1,18 +1,17 @@
 ---
-title: "Şatırlı Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:48+03:00
+title: "Şatırlı Roma Köprüsü"
+date: "2025-12-25T02:32:48+03:00"
 slug: "satirli-roma-koprusu"
 description: "# Şatırlı Roma Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Silyon_Antik_kent_1760555914.jpg/1200px-Silyon_Antik_kent_1760555914.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.9713001,36.9836006"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Şatırlı Roma Köprüsü

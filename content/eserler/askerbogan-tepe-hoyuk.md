@@ -1,18 +1,17 @@
 ---
-title: "Askerboğan Tepe Höyük | Miras Haritası"
-date: 2025-12-25T06:02:26+03:00
+title: "Askerboğan Tepe Höyük"
+date: "2025-12-25T06:02:26+03:00"
 slug: "askerbogan-tepe-hoyuk"
 description: "## Askerboğan Tepe Höyük: Tarih ve Kültürel Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.0853119,40.567585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Askerboğan Tepe Höyük: Tarih ve Kültürel Miras

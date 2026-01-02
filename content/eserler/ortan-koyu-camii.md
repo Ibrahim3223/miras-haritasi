@@ -1,18 +1,17 @@
 ---
-title: "Ortan Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:17:31+03:00
+title: "Ortan Köyü Camii"
+date: "2025-12-25T00:17:31+03:00"
 slug: "ortan-koyu-camii"
 description: "## Ortan Köyü Camii: Çamlıhemşin'in Tarihi Bir Rahmeti..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.998457515,41.013904199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortan Köyü Camii: Çamlıhemşin'in Tarihi Bir Rahmeti

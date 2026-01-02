@@ -1,18 +1,17 @@
 ---
-title: "Metropolis (Kuzey Frigya) | Miras Haritası"
-date: 2025-12-25T04:33:40+03:00
+title: "Metropolis (Kuzey Frigya)"
+date: "2025-12-25T04:33:40+03:00"
 slug: "metropolis-kuzey-frigya"
 description: "# Metropolis (Kuzey Frigya)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.628155,39.171334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Metropolis (Kuzey Frigya)

@@ -1,18 +1,17 @@
 ---
-title: "Molla Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:51+03:00
+title: "Molla Çeşmesi"
+date: "2025-12-25T10:24:51+03:00"
 slug: "molla-cesmesi"
 description: "## Molla Çeşmesi: Aydın'ın Güzelliği..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6764488,37.7636757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Çeşmesi: Aydın'ın Güzelliği

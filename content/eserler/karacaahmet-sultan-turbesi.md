@@ -1,18 +1,17 @@
 ---
-title: "Karacaahmet Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:15+03:00
+title: "Karacaahmet Sultan Türbesi"
+date: "2025-12-25T14:44:15+03:00"
 slug: "karacaahmet-sultan-turbesi"
 description: "## Karacaahmet Sultan Türbesi: Sakarya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Pamukova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1012478,40.5208397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karacaahmet Sultan Türbesi: Sakarya'nın Gizli Anıtı

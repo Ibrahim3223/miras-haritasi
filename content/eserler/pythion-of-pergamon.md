@@ -1,18 +1,17 @@
 ---
-title: "Pythion of Pergamon | Miras Haritası"
-date: 2025-12-25T08:11:53+03:00
+title: "Pythion of Pergamon"
+date: "2025-12-25T08:11:53+03:00"
 slug: "pythion-of-pergamon"
 description: "### Pythion of Pergamon..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.18416,39.1325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pythion of Pergamon

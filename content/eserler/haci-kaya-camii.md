@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kaya Camii | Miras Haritası"
-date: 2025-12-24T23:29:11+03:00
+title: "Hacı Kaya Camii"
+date: "2025-12-24T23:29:11+03:00"
 slug: "haci-kaya-camii"
 description: "## Hacı Kaya Camii: Balıkesir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8793736,39.6503143"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kaya Camii: Balıkesir'in Tarihi Bir Mirası

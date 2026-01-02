@@ -1,18 +1,17 @@
 ---
-title: "TBMM Camii Kompleksi | Miras Haritası"
-date: 2025-12-24T21:49:51+03:00
+title: "TBMM Camii Kompleksi"
+date: "2025-12-24T21:49:51+03:00"
 slug: "tbmm-camii-kompleksi"
 description: "## TBMM Camii Kompleksi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.850555555,39.909361111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## TBMM Camii Kompleksi

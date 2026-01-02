@@ -1,18 +1,17 @@
 ---
-title: "Çiftlik Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:17+03:00
+title: "Çiftlik Köprüsü"
+date: "2025-12-25T02:14:17+03:00"
 slug: "ciftlik-koprusu"
 description: "## Çiftlik Köprüsü..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9624176,37.5575371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiftlik Köprüsü

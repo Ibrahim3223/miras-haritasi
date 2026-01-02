@@ -1,18 +1,17 @@
 ---
-title: "Gazi Ahmed Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:42+03:00
+title: "Gazi Ahmed Paşa Türbesi"
+date: "2025-12-25T15:06:42+03:00"
 slug: "gazi-ahmed-pasa-turbesi"
 description: "## Gazi Ahmed Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gazi_Ahmet_Pasha_Mosque_0027.jpg/1200px-Gazi_Ahmet_Pasha_Mosque_0027.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Topkapı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.928146,41.02100731"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gazi Ahmed Paşa Türbesi

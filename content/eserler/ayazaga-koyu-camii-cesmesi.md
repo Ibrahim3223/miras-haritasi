@@ -1,18 +1,17 @@
 ---
-title: "Ayazağa Köyü Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:16+03:00
+title: "Ayazağa Köyü Camii Çeşmesi"
+date: "2025-12-25T11:48:16+03:00"
 slug: "ayazaga-koyu-camii-cesmesi"
 description: "## Ayazağa Köyü Camii Çeşmesi..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Ayazağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9985962,41.1157227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayazağa Köyü Camii Çeşmesi

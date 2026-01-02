@@ -1,18 +1,17 @@
 ---
-title: "MİT Casusluk Müzesi | Miras Haritası"
-date: 2025-12-25T03:15:10+03:00
+title: "MİT Casusluk Müzesi"
+date: "2025-12-25T03:15:10+03:00"
 slug: "mit-casusluk-muzesi"
 description: "## MİT Casusluk Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.80555556,39.95805556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## MİT Casusluk Müzesi

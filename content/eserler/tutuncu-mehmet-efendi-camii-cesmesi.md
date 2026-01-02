@@ -1,18 +1,17 @@
 ---
-title: "Tütüncü Mehmet Efendi Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:38+03:00
+title: "Tütüncü Mehmet Efendi Camii Çeşmesi"
+date: "2025-12-25T11:20:38+03:00"
 slug: "tutuncu-mehmet-efendi-camii-cesmesi"
 description: "# Tütüncü Mehmet Efendi Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.066352,40.978729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tütüncü Mehmet Efendi Camii Çeşmesi

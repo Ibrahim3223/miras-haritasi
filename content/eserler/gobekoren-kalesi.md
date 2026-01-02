@@ -1,18 +1,17 @@
 ---
-title: "Göbekören Kalesi | Miras Haritası"
-date: 2025-12-25T06:17:54+03:00
+title: "Göbekören Kalesi"
+date: "2025-12-25T06:17:54+03:00"
 slug: "gobekoren-kalesi"
 description: "## Göbekören Kalesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Gürün"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9247189,38.7425445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göbekören Kalesi

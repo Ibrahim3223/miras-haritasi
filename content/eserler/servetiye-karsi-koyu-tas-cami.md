@@ -1,18 +1,17 @@
 ---
-title: "Servetiye Karşı Köyü Taş Cami | Miras Haritası"
-date: 2025-12-25T00:24:06+03:00
+title: "Servetiye Karşı Köyü Taş Cami"
+date: "2025-12-25T00:24:06+03:00"
 slug: "servetiye-karsi-koyu-tas-cami"
 description: "## Servetiye Karşı Köyü Taş Cami..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Başiskele"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9249611,40.6373863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Servetiye Karşı Köyü Taş Cami

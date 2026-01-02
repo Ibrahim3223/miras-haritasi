@@ -1,18 +1,17 @@
 ---
-title: "Larisa (İyonya) | Miras Haritası"
-date: 2025-12-25T04:33:44+03:00
+title: "Larisa (İyonya)"
+date: "2025-12-25T04:33:44+03:00"
 slug: "larisa-iyonya"
 description: "### Larisa (İyonya): Tarihî İyonya'nın Altın Madeni..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Larisa (İyonya): Tarihî İyonya'nın Altın Madeni

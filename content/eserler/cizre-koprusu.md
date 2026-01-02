@@ -1,18 +1,17 @@
 ---
-title: "Cizre Köprüsü | Miras Haritası"
-date: 2025-12-25T01:58:34+03:00
+title: "Cizre Köprüsü"
+date: "2025-12-25T01:58:34+03:00"
 slug: "cizre-koprusu"
 description: "## Cizre Köprüsü: Bir Geçit Zamanların Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.1135,37.1957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cizre Köprüsü: Bir Geçit Zamanların Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şair Şem’i Şem’ullah Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:29+03:00
+title: "Şair Şem’i Şem’ullah Efendi Türbesi"
+date: "2025-12-25T14:55:29+03:00"
 slug: "sair-semi-semullah-efendi-turbesi"
 description: "### Şair Şem'i Şem'allah Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Şair_Şem’i_Şem’ullah_Efendi_Türbesi.jpg/1200px-Şair_Şem’i_Şem’ullah_Efendi_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0108395,41.0241051"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Şair Şem'i Şem'allah Efendi Türbesi

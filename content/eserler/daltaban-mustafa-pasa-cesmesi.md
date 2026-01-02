@@ -1,18 +1,17 @@
 ---
-title: "Daltaban Mustafa Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:24+03:00
+title: "Daltaban Mustafa Paşa Çeşmesi"
+date: "2025-12-25T11:03:24+03:00"
 slug: "daltaban-mustafa-pasa-cesmesi"
 description: "## Daltaban Mustafa Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.961126,41.007622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daltaban Mustafa Paşa Çeşmesi

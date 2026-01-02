@@ -1,18 +1,17 @@
 ---
-title: "Üçtepeler C Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:01:08+03:00
+title: "Üçtepeler C Tümülüsü"
+date: "2025-12-25T08:01:08+03:00"
 slug: "uctepeler-c-tumulusu"
 description: "## Üçtepeler C Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7323494,41.5021744"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçtepeler C Tümülüsü

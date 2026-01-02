@@ -1,18 +1,17 @@
 ---
-title: "Zeugma Mozaik Müzesi | Miras Haritası"
-date: 2025-12-25T03:07:13+03:00
+title: "Zeugma Mozaik Müzesi"
+date: "2025-12-25T03:07:13+03:00"
 slug: "zeugma-mozaik-muzesi"
 description: "### Zeugma Mozaik Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Zeugma_museum.jpg/1200px-Zeugma_museum.jpg"
 province: "Gaziantep alt bölgesi"
-iller: ["Gaziantep alt bölgesi"]
+iller: '["Gaziantep alt bölgesi"]'
 district: "Şehitkâmil"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.386158,37.074881"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Zeugma Mozaik Müzesi

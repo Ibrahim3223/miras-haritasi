@@ -1,18 +1,17 @@
 ---
-title: "Myra Hamamı | Miras Haritası"
-date: 2025-12-25T17:01:39+03:00
+title: "Myra Hamamı"
+date: "2025-12-25T17:01:39+03:00"
 slug: "myra-hamami"
 description: "## Myra Hamamı: Antik Döneminin Gizemi Demre'de..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.989017422,36.254114542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Myra Hamamı: Antik Döneminin Gizemi Demre'de

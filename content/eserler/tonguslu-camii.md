@@ -1,18 +1,17 @@
 ---
-title: "Töngüşlü Camii | Miras Haritası"
-date: 2025-12-25T00:59:01+03:00
+title: "Töngüşlü Camii"
+date: "2025-12-25T00:59:01+03:00"
 slug: "tonguslu-camii"
 description: "## Töngüşlü Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.9818962,37.0699636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Töngüşlü Camii

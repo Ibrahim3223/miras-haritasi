@@ -1,18 +1,17 @@
 ---
-title: "Derviş Paşa Çeşmesi, Fatih | Miras Haritası"
-date: 2025-12-25T11:52:56+03:00
+title: "Derviş Paşa Çeşmesi, Fatih"
+date: "2025-12-25T11:52:56+03:00"
 slug: "dervis-pasa-cesmesi-fatih"
 description: "# Derviş Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.955805,41.018646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Derviş Paşa Çeşmesi

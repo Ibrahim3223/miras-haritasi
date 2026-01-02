@@ -1,18 +1,17 @@
 ---
-title: "Aya Matrona Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:38+03:00
+title: "Aya Matrona Kilisesi"
+date: "2025-12-25T09:19:38+03:00"
 slug: "aya-matrona-kilisesi"
 description: "## Aya Matrona Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.4810848,38.38134"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Matrona Kilisesi

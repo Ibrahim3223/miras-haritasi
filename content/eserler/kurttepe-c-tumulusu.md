@@ -1,18 +1,17 @@
 ---
-title: "Kurttepe C Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:02:08+03:00
+title: "Kurttepe C Tümülüsü"
+date: "2025-12-25T08:02:08+03:00"
 slug: "kurttepe-c-tumulusu"
 description: "## Kurttepe C Tümülüsü: Edirne'nin Gizli Ören Yeri..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7081318,41.3656502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurttepe C Tümülüsü: Edirne'nin Gizli Ören Yeri

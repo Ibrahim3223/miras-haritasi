@@ -1,18 +1,17 @@
 ---
-title: "Cezayirli Mustafa Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:16+03:00
+title: "Cezayirli Mustafa Paşa Çeşmesi"
+date: "2025-12-25T10:29:16+03:00"
 slug: "cezayirli-mustafa-pasa-cesmesi"
 description: "### Cezayirli Mustafa Paşa Çeşmesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2560997,37.8595009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cezayirli Mustafa Paşa Çeşmesi

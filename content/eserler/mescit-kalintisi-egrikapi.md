@@ -1,18 +1,17 @@
 ---
-title: "Mescit Kalıntısı, Eğrikapı | Miras Haritası"
-date: 2025-12-25T00:07:03+03:00
+title: "Mescit Kalıntısı, Eğrikapı"
+date: "2025-12-25T00:07:03+03:00"
 slug: "mescit-kalintisi-egrikapi"
 description: "## Mescit Kalıntısı, Eğrikapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9392605,41.0362816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mescit Kalıntısı, Eğrikapı

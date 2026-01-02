@@ -1,18 +1,17 @@
 ---
-title: "Hersekzâde Ahmet Paşa Türbesi, Yalova | Miras Haritası"
-date: 2025-12-25T15:30:56+03:00
+title: "Hersekzâde Ahmet Paşa Türbesi, Yalova"
+date: "2025-12-25T15:30:56+03:00"
 slug: "hersekzde-ahmet-pasa-turbesi-yalova"
 description: "## Hersekzâde Ahmet Paşa Türbesi, Yalova..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Altınova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.504591,40.7231789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hersekzâde Ahmet Paşa Türbesi, Yalova

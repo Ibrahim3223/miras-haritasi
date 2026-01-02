@@ -1,18 +1,17 @@
 ---
-title: "Çavuşzade Camii | Miras Haritası"
-date: 2025-12-24T22:49:32+03:00
+title: "Çavuşzade Camii"
+date: "2025-12-24T22:49:32+03:00"
 slug: "cavuszade-camii"
 description: "## Çavuşzade Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9408684,41.0046806"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuşzade Camii

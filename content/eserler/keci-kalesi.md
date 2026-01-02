@@ -1,18 +1,17 @@
 ---
-title: "Keçi Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:02+03:00
+title: "Keçi Kalesi"
+date: "2025-12-25T01:34:02+03:00"
 slug: "keci-kalesi"
 description: "**Keçi Kalesi: İzmir'in Şatosu**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.422058,38.024616"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Keçi Kalesi: İzmir'in Şatosu**

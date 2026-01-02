@@ -1,18 +1,17 @@
 ---
-title: "Salhan Höyüğü | Miras Haritası"
-date: 2025-12-25T06:27:22+03:00
+title: "Salhan Höyüğü"
+date: "2025-12-25T06:27:22+03:00"
 slug: "salhan-hoyugu"
 description: "## Salhan Höyüğü..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Elbeyli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.4323748,36.6503953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salhan Höyüğü

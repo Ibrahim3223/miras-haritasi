@@ -1,18 +1,17 @@
 ---
-title: "Tenekeci Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:18:42+03:00
+title: "Tenekeci Çeşmesi, Çeşme"
+date: "2025-12-25T12:18:42+03:00"
 slug: "tenekeci-cesmesi-cesme"
 description: "## Tenekeci Çeşmesi: Çeşme'nin Tarihi ve Güzel Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3356686,38.318367"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tenekeci Çeşmesi: Çeşme'nin Tarihi ve Güzel Çeşmesi

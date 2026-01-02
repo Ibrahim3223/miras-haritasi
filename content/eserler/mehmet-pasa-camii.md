@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:58:00+03:00
+title: "Mehmet Paşa Camii"
+date: "2025-12-24T23:58:00+03:00"
 slug: "mehmet-pasa-camii"
 description: "### Mehmet Paşa Camii Tanıtımı..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8357353,40.6545753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehmet Paşa Camii Tanıtımı

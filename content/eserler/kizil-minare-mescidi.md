@@ -1,18 +1,17 @@
 ---
-title: "Kızıl Minare Mescidi | Miras Haritası"
-date: 2025-12-24T21:44:02+03:00
+title: "Kızıl Minare Mescidi"
+date: "2025-12-24T21:44:02+03:00"
 slug: "kizil-minare-mescidi"
 description: "## Kızıl Minare Mescidi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.950611111,41.012444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızıl Minare Mescidi

@@ -1,18 +1,17 @@
 ---
-title: "Gre Migro Höyük, Batman | Miras Haritası"
-date: 2025-12-25T13:49:23+03:00
+title: "Gre Migro Höyük, Batman"
+date: "2025-12-25T13:49:23+03:00"
 slug: "gre-migro-hoyuk-batman"
 description: "### Gre Migro Höyük: Batman'ın Gizli Hazineleri..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.1571693,37.9913101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gre Migro Höyük: Batman'ın Gizli Hazineleri

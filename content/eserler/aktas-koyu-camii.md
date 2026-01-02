@@ -1,18 +1,17 @@
 ---
-title: "Aktaş Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:58:09+03:00
+title: "Aktaş Köyü Camii"
+date: "2025-12-24T22:58:09+03:00"
 slug: "aktas-koyu-camii"
 description: "## Aktaş Köyü Camii: Gölpazarı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Gölpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2744007,40.3002014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aktaş Köyü Camii: Gölpazarı'nın Gizli Cenneti

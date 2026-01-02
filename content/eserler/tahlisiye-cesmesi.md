@@ -1,18 +1,17 @@
 ---
-title: "Tahlisiye Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:54:40+03:00
+title: "Tahlisiye Çeşmesi"
+date: "2025-12-25T11:54:40+03:00"
 slug: "tahlisiye-cesmesi"
 description: "### Tahlisiye Çeşmesi: Sarıyer'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0407867,41.2516289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tahlisiye Çeşmesi: Sarıyer'in Tarihi Bir Mirası

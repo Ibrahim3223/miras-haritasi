@@ -1,18 +1,17 @@
 ---
-title: "Rum Kilisesi, Cebeciköy | Miras Haritası"
-date: 2025-12-25T09:42:09+03:00
+title: "Rum Kilisesi, Cebeciköy"
+date: "2025-12-25T09:42:09+03:00"
 slug: "rum-kilisesi-cebecikoy"
 description: "## Rum Kilisesi, Cebeciköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sultangazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.883873,41.1223183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rum Kilisesi, Cebeciköy

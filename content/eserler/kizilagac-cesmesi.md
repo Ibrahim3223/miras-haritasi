@@ -1,18 +1,17 @@
 ---
-title: "Kızılağaç Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:36+03:00
+title: "Kızılağaç Çeşmesi"
+date: "2025-12-25T11:36:36+03:00"
 slug: "kizilagac-cesmesi"
 description: "### Kızılağaç Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5576725,37.3409157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızılağaç Çeşmesi

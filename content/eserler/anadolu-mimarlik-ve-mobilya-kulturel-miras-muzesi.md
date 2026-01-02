@@ -1,18 +1,17 @@
 ---
-title: "Anadolu Mimarlık ve Mobilya Kültürel Miras Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:43+03:00
+title: "Anadolu Mimarlık ve Mobilya Kültürel Miras Müzesi"
+date: "2025-12-25T03:30:43+03:00"
 slug: "anadolu-mimarlik-ve-mobilya-kulturel-miras-muzesi"
 description: "## Anadolu Mimarlık ve Mobilya Kültürel Miras Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.7639542,39.8614197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anadolu Mimarlık ve Mobilya Kültürel Miras Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Savaş Köyü Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:36+03:00
+title: "Savaş Köyü Hamamı"
+date: "2025-12-25T17:10:36+03:00"
 slug: "savas-koyu-hamami"
 description: "## Savaş Köyü Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.444532998,38.318883866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Savaş Köyü Hamamı

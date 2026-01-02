@@ -1,18 +1,17 @@
 ---
-title: "Yenişehir Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:00:53+03:00
+title: "Yenişehir Ulu Camii"
+date: "2025-12-24T22:00:53+03:00"
 slug: "yenisehir-ulu-camii"
 description: "### Giriş..."
 featured_image: ""
 province: "Yenişehir (Diyarbakır)"
-iller: ["Yenişehir (Diyarbakır)"]
+iller: '["Yenişehir (Diyarbakır)"]'
 district: "Yarhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.731111111,40.181611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

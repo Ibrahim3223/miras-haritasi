@@ -1,18 +1,17 @@
 ---
-title: "Alaeddin Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:07:33+03:00
+title: "Alaeddin Paşa Camii"
+date: "2025-12-24T22:07:33+03:00"
 slug: "alaeddin-pasa-camii"
 description: "## Alaeddin Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alaüddin_paşa_camisi_bursa_-_panoramio_(1).jpg/1200px-Alaüddin_paşa_camisi_bursa_-_panoramio_(1).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0499611,40.1851959"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alaeddin Paşa Camii

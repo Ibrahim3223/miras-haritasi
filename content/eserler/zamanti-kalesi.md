@@ -1,18 +1,17 @@
 ---
-title: "Zamantı Kalesi | Miras Haritası"
-date: 2025-12-25T01:31:02+03:00
+title: "Zamantı Kalesi"
+date: "2025-12-25T01:31:02+03:00"
 slug: "zamanti-kalesi"
 description: "## Zamantı Kalesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Pınarbaşı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.222836,38.733147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zamantı Kalesi

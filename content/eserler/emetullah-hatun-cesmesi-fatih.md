@@ -1,18 +1,17 @@
 ---
-title: "Emetullah Hatun Çeşmesi (Fatih) | Miras Haritası"
-date: 2025-12-25T12:15:03+03:00
+title: "Emetullah Hatun Çeşmesi (Fatih)"
+date: "2025-12-25T12:15:03+03:00"
 slug: "emetullah-hatun-cesmesi-fatih"
 description: "### Emetullah Hatun Çeşmesi: Fatih'ten Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Şimkeşhane_(Tavşantaşı)_Çeşmesi,_Fatih,_İstanbul.jpg/1200px-Şimkeşhane_(Tavşantaşı)_Çeşmesi,_Fatih,_İstanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.961942,41.009174"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Emetullah Hatun Çeşmesi: Fatih'ten Bir Örnek

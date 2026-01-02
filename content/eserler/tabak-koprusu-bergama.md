@@ -1,18 +1,17 @@
 ---
-title: "Tabak Köprüsü, Bergama | Miras Haritası"
-date: 2025-12-25T03:03:41+03:00
+title: "Tabak Köprüsü, Bergama"
+date: "2025-12-25T03:03:41+03:00"
 slug: "tabak-koprusu-bergama"
 description: "# Tabak Köprüsü: Bergama'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bergama_Bridge_139.jpg/1200px-Bergama_Bridge_139.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.18127,39.123302"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Tabak Köprüsü: Bergama'nın Tarihi ve Kültürel Mirası

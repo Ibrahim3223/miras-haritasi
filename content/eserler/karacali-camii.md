@@ -1,18 +1,17 @@
 ---
-title: "Karacalı Camii | Miras Haritası"
-date: 2025-12-24T23:39:56+03:00
+title: "Karacalı Camii"
+date: "2025-12-24T23:39:56+03:00"
 slug: "karacali-camii"
 description: "### Karacalı Camii: Terme'nin Eski Camii'si..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Terme"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.8558998,41.2108002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karacalı Camii: Terme'nin Eski Camii'si

@@ -1,18 +1,17 @@
 ---
-title: "Yoğunburç | Miras Haritası"
-date: 2025-12-25T06:06:11+03:00
+title: "Yoğunburç"
+date: "2025-12-25T06:06:11+03:00"
 slug: "yogunburc"
 description: "## Yoğunburç: Şanlıurfa'nın Gizli Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.6190186,37.1447906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yoğunburç: Şanlıurfa'nın Gizli Harikası

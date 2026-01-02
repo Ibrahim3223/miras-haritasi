@@ -1,18 +1,17 @@
 ---
-title: "Konya Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:18:06+03:00
+title: "Konya Arkeoloji Müzesi"
+date: "2025-12-25T03:18:06+03:00"
 slug: "konya-arkeoloji-muzesi"
 description: "### Konya Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Konya_Archaeological_Museum,_Turkey_03.jpg/1200px-Konya_Archaeological_Museum,_Turkey_03.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.4935,37.867972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Konya Arkeoloji Müzesi

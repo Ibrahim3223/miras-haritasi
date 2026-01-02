@@ -1,18 +1,17 @@
 ---
-title: "Tercüman Mahallesi Çifte Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:39:29+03:00
+title: "Tercüman Mahallesi Çifte Çeşmesi"
+date: "2025-12-25T11:39:29+03:00"
 slug: "tercuman-mahallesi-cifte-cesmesi"
 description: "## Tercüman Mahallesi Çifte Çeşmesi: Konya'da Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4988403,37.8751297"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tercüman Mahallesi Çifte Çeşmesi: Konya'da Bir Mirasın Gizemi

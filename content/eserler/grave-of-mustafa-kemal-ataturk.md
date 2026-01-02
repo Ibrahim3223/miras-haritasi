@@ -1,18 +1,17 @@
 ---
-title: "Grave of Mustafa Kemal Atatürk | Miras Haritası"
-date: 2025-12-25T13:24:08+03:00
+title: "Grave of Mustafa Kemal Atatürk"
+date: "2025-12-25T13:24:08+03:00"
 slug: "grave-of-mustafa-kemal-ataturk"
 description: "## Mustafa Kemal Atatürk'ün Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ataturk's_symbolic_tomb_stone.JPG/1200px-Ataturk's_symbolic_tomb_stone.JPG"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mustafa Kemal Atatürk'ün Anıtı

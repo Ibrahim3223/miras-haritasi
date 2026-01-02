@@ -1,18 +1,17 @@
 ---
-title: "Çomaklı Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:05+03:00
+title: "Çomaklı Sultan Türbesi"
+date: "2025-12-25T14:20:05+03:00"
 slug: "comakli-sultan-turbesi"
 description: "### Çomaklı Sultan Türbesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.9389,37.5815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çomaklı Sultan Türbesi

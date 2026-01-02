@@ -1,18 +1,17 @@
 ---
-title: "Acıbaşı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:37:22+03:00
+title: "Acıbaşı Tümülüsü"
+date: "2025-12-25T07:37:22+03:00"
 slug: "acibasi-tumulusu"
 description: "## Acıbaşı Tümülüsü: Eskişehir'in Gizli Çanakkale'si..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.1786785,39.3925285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acıbaşı Tümülüsü: Eskişehir'in Gizli Çanakkale'si

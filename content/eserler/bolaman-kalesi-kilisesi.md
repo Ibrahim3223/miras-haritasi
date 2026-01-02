@@ -1,18 +1,17 @@
 ---
-title: "Bolaman Kalesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:58+03:00
+title: "Bolaman Kalesi Kilisesi"
+date: "2025-12-25T09:36:58+03:00"
 slug: "bolaman-kalesi-kilisesi"
 description: "### Bolaman Kalesi Kilisesi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Fatsa"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.5916519,41.0367355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bolaman Kalesi Kilisesi

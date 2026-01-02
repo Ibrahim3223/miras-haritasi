@@ -1,18 +1,17 @@
 ---
-title: "Santissimo Rosario Kilisesi | Miras Haritası"
-date: 2025-12-25T09:44:39+03:00
+title: "Santissimo Rosario Kilisesi"
+date: "2025-12-25T09:44:39+03:00"
 slug: "santissimo-rosario-kilisesi"
 description: "## Santissimo Rosario Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Santissimo_Rosario_Kilisesi.jpg/1200px-Santissimo_Rosario_Kilisesi.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.142916666,38.438416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Santissimo Rosario Kilisesi

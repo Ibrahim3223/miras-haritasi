@@ -1,18 +1,17 @@
 ---
-title: "İnegöl II Höyük | Miras Haritası"
-date: 2025-12-25T05:28:45+03:00
+title: "İnegöl II Höyük"
+date: "2025-12-25T05:28:45+03:00"
 slug: "inegol-ii-hoyuk"
 description: "## İnegöl II Höyük: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.546617,40.066383"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnegöl II Höyük: Bursa'nın Gizli Cenneti

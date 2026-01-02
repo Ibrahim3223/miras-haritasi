@@ -1,18 +1,17 @@
 ---
-title: "Zurnacı Tepe Yerleşimi ve Nekropolü | Miras Haritası"
-date: 2025-12-25T06:16:32+03:00
+title: "Zurnacı Tepe Yerleşimi ve Nekropolü"
+date: "2025-12-25T06:16:32+03:00"
 slug: "zurnaci-tepe-yerlesimi-ve-nekropolu"
 description: "## Zurnacı Tepe Yerleşimi ve Nekropolü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4335003,37.6310997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zurnacı Tepe Yerleşimi ve Nekropolü

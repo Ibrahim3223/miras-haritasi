@@ -1,18 +1,17 @@
 ---
-title: "Atatürk ve Kurtuluş Savaşı Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:30+03:00
+title: "Atatürk ve Kurtuluş Savaşı Müzesi"
+date: "2025-12-25T03:19:30+03:00"
 slug: "ataturk-ve-kurtulus-savasi-muzesi"
 description: "## Atatürk ve Kurtuluş Savaşı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Coach_Anitkabir.JPG/1200px-Coach_Anitkabir.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.83694,39.925003"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Atatürk ve Kurtuluş Savaşı Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayaklı Höyüğü, Çine | Miras Haritası"
-date: 2025-12-25T05:58:42+03:00
+title: "Ayaklı Höyüğü, Çine"
+date: "2025-12-25T05:58:42+03:00"
 slug: "ayakli-hoyugu-cine"
 description: "## Ayaklı Höyüğü, Çine..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.048378,37.595974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayaklı Höyüğü, Çine

@@ -1,18 +1,17 @@
 ---
-title: "Zeugma'daki Seleucia | Miras Haritası"
-date: 2025-12-25T04:31:35+03:00
+title: "Zeugma'daki Seleucia"
+date: "2025-12-25T04:31:35+03:00"
 slug: "zeugmadaki-seleucia"
 description: "## Zeugma'daki Seleucia: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0945,37.4422"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Zeugma'daki Seleucia: Tarihi ve Kültürel Miras

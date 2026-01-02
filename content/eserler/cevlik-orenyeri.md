@@ -1,18 +1,17 @@
 ---
-title: "Çevlik Örenyeri | Miras Haritası"
-date: 2025-12-25T03:37:34+03:00
+title: "Çevlik Örenyeri"
+date: "2025-12-25T03:37:34+03:00"
 slug: "cevlik-orenyeri"
 description: "## Çevlik Örenyeri: Hatay'ın Gizli Anıtı..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çevlik Örenyeri: Hatay'ın Gizli Anıtı

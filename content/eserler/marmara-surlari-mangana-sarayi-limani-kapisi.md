@@ -1,18 +1,17 @@
 ---
-title: "Marmara Surları: Mangana Sarayı Limanı Kapısı | Miras Haritası"
-date: 2025-12-25T13:16:56+03:00
+title: "Marmara Surları: Mangana Sarayı Limanı Kapısı"
+date: "2025-12-25T13:16:56+03:00"
 slug: "marmara-surlari-mangana-sarayi-limani-kapisi"
 description: "## Marmara Surları: Mangana Sarayı Limanı Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9868298,41.0092163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marmara Surları: Mangana Sarayı Limanı Kapısı

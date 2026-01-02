@@ -1,18 +1,17 @@
 ---
-title: "Kemer Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:25+03:00
+title: "Kemer Saat Kulesi"
+date: "2025-12-25T17:19:25+03:00"
 slug: "kemer-saat-kulesi"
 description: "### Kemer Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kemer_Saat_Kulesi.jpg/1200px-Kemer_Saat_Kulesi.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "30.559638888,36.602138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kemer Saat Kulesi

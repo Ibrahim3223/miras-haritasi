@@ -1,18 +1,17 @@
 ---
-title: "Şile Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:59+03:00
+title: "Şile Kalesi"
+date: "2025-12-25T01:22:59+03:00"
 slug: "sile-kalesi"
 description: "### Şile Kalesi: İstanbul'un Efsanevi Kaleleri Arasındaki Bir Harika..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Şile_kalesi_3_(cropped).jpg/1200px-Şile_kalesi_3_(cropped).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.60912,41.18144"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Şile Kalesi: İstanbul'un Efsanevi Kaleleri Arasındaki Bir Harika

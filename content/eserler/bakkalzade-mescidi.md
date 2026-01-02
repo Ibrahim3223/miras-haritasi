@@ -1,18 +1,17 @@
 ---
-title: "Bakkalzade Mescidi | Miras Haritası"
-date: 2025-12-25T00:22:37+03:00
+title: "Bakkalzade Mescidi"
+date: "2025-12-25T00:22:37+03:00"
 slug: "bakkalzade-mescidi"
 description: "## Bakkalzade Mescidi: Geçmişin Eserleri ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.966,41.011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakkalzade Mescidi: Geçmişin Eserleri ve Kültürel Mirası

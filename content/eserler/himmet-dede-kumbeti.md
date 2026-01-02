@@ -1,18 +1,17 @@
 ---
-title: "Himmet Dede Kümbeti | Miras Haritası"
-date: 2025-12-25T13:57:38+03:00
+title: "Himmet Dede Kümbeti"
+date: "2025-12-25T13:57:38+03:00"
 slug: "himmet-dede-kumbeti"
 description: "## Himmet Dede Kümbeti: Seyitgazi'nin Efsanevi Ziyaretgahı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.606981,39.211565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Himmet Dede Kümbeti: Seyitgazi'nin Efsanevi Ziyaretgahı

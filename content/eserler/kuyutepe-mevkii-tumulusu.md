@@ -1,18 +1,17 @@
 ---
-title: "Kuyutepe Mevkii Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:36:58+03:00
+title: "Kuyutepe Mevkii Tümülüsü"
+date: "2025-12-25T07:36:58+03:00"
 slug: "kuyutepe-mevkii-tumulusu"
 description: "## Kuyutepe Mevkii Tümülüsü: Manisa'da Bir Antik Kültür Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0011463,38.6818542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuyutepe Mevkii Tümülüsü: Manisa'da Bir Antik Kültür Mirası

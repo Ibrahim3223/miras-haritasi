@@ -1,18 +1,17 @@
 ---
-title: "Canbolat Paşa Tekke Camii | Miras Haritası"
-date: 2025-12-24T22:27:41+03:00
+title: "Canbolat Paşa Tekke Camii"
+date: "2025-12-24T22:27:41+03:00"
 slug: "canbolat-pasa-tekke-camii"
 description: "## Canbolat Paşa Tekke Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.1144333,36.7147713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canbolat Paşa Tekke Camii

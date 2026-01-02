@@ -1,18 +1,17 @@
 ---
-title: "Şarapsa Hanı | Miras Haritası"
-date: 2025-12-25T13:38:48+03:00
+title: "Şarapsa Hanı"
+date: "2025-12-25T13:38:48+03:00"
 slug: "sarapsa-hani"
 description: "## Şarapsa Hanı: Antalya'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sarapsa-Han_03.jpg/1200px-Sarapsa-Han_03.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.87111111,36.58819444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şarapsa Hanı: Antalya'nın Tarihi ve Kültürel Mirası

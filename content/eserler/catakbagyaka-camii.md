@@ -1,18 +1,17 @@
 ---
-title: "Çatakbağyaka Camii | Miras Haritası"
-date: 2025-12-24T22:31:27+03:00
+title: "Çatakbağyaka Camii"
+date: "2025-12-24T22:31:27+03:00"
 slug: "catakbagyaka-camii"
 description: "# Çatakbağyaka Camii: Muğla'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.167078,37.1248245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çatakbağyaka Camii: Muğla'nın Gizli Cenneti

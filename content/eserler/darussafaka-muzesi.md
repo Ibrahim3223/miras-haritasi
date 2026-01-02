@@ -1,18 +1,17 @@
 ---
-title: "Darüşşafaka Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:15+03:00
+title: "Darüşşafaka Müzesi"
+date: "2025-12-25T03:51:15+03:00"
 slug: "darussafaka-muzesi"
 description: "### Darüşşafaka Müzesi: Türk Eğitim Tarihi'nin Gizemli Yerleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.025878074,41.12659919"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Darüşşafaka Müzesi: Türk Eğitim Tarihi'nin Gizemli Yerleri

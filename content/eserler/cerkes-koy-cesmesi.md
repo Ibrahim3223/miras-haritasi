@@ -1,18 +1,17 @@
 ---
-title: "Çerkes Köy Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:41+03:00
+title: "Çerkes Köy Çeşmesi"
+date: "2025-12-25T10:28:41+03:00"
 slug: "cerkes-koy-cesmesi"
 description: "## Çerkes Köy Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6721573,37.7638855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çerkes Köy Çeşmesi

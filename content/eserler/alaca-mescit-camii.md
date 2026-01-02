@@ -1,18 +1,17 @@
 ---
-title: "Alaca Mescit Camii | Miras Haritası"
-date: 2025-12-24T22:22:00+03:00
+title: "Alaca Mescit Camii"
+date: "2025-12-24T22:22:00+03:00"
 slug: "alaca-mescit-camii"
 description: "### Alaca Mescit Camii..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5445824,40.316021"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alaca Mescit Camii

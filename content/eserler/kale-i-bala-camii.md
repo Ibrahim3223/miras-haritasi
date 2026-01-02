@@ -1,18 +1,17 @@
 ---
-title: "Kale-i Bala Camii | Miras Haritası"
-date: 2025-12-24T23:40:17+03:00
+title: "Kale-i Bala Camii"
+date: "2025-12-24T23:40:17+03:00"
 slug: "kale-i-bala-camii"
 description: "# Kale-i Bala Camii: Kütahya'nın Tarihsel Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9712715,39.4189453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kale-i Bala Camii: Kütahya'nın Tarihsel Bir Mirası

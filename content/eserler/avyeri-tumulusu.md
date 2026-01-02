@@ -1,18 +1,17 @@
 ---
-title: "Avyeri Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:07+03:00
+title: "Avyeri Tümülüsü"
+date: "2025-12-25T07:52:07+03:00"
 slug: "avyeri-tumulusu"
 description: "## Avyeri Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4856758,41.8208046"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avyeri Tümülüsü

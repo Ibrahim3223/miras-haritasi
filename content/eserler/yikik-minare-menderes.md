@@ -1,18 +1,17 @@
 ---
-title: "Yıkık Minare, Menderes | Miras Haritası"
-date: 2025-12-25T00:02:18+03:00
+title: "Yıkık Minare, Menderes"
+date: "2025-12-25T00:02:18+03:00"
 slug: "yikik-minare-menderes"
 description: "## Yıkık Minare, Menderes: Bir Tarihi Anıtın Hikayesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menderes"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1296883,38.238781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıkık Minare, Menderes: Bir Tarihi Anıtın Hikayesi

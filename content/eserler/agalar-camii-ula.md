@@ -1,18 +1,17 @@
 ---
-title: "Ağalar Camii, Ula | Miras Haritası"
-date: 2025-12-24T23:18:17+03:00
+title: "Ağalar Camii, Ula"
+date: "2025-12-24T23:18:17+03:00"
 slug: "agalar-camii-ula"
 description: "## Ağalar Camii: Ula'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.4179516,37.1022072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağalar Camii: Ula'nın Tarihi ve Kültürel Mirası

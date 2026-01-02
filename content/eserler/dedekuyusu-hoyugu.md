@@ -1,18 +1,17 @@
 ---
-title: "Dedekuyusu Höyüğü | Miras Haritası"
-date: 2025-12-25T05:47:26+03:00
+title: "Dedekuyusu Höyüğü"
+date: "2025-12-25T05:47:26+03:00"
 slug: "dedekuyusu-hoyugu"
 description: "## Dedekuyusu Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.809233356,37.858084706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedekuyusu Höyüğü

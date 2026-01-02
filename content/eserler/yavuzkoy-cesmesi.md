@@ -1,18 +1,17 @@
 ---
-title: "Yavuzköy Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:13+03:00
+title: "Yavuzköy Çeşmesi"
+date: "2025-12-25T10:33:13+03:00"
 slug: "yavuzkoy-cesmesi"
 description: "## Yavuzköy Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Köşk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0866261,37.8698349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yavuzköy Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "St. Helen Kilisesi | Miras Haritası"
-date: 2025-12-25T09:44:49+03:00
+title: "St. Helen Kilisesi"
+date: "2025-12-25T09:44:49+03:00"
 slug: "st-helen-kilisesi"
 description: "### St. Helen Kilisesi: Karşıyaka'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sthelen_1.jpg/1200px-Sthelen_1.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karşıyaka"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.1145,38.45475"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### St. Helen Kilisesi: Karşıyaka'nın Tarihi Bir Mirası

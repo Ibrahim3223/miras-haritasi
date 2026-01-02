@@ -1,18 +1,17 @@
 ---
-title: "Bitlis Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:33:55+03:00
+title: "Bitlis Etnografya Müzesi"
+date: "2025-12-25T03:33:55+03:00"
 slug: "bitlis-etnografya-muzesi"
 description: "## Bitlis Etnografya Müzesi..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Bitlis"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "42.109918,38.408967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bitlis Etnografya Müzesi

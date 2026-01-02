@@ -1,18 +1,17 @@
 ---
-title: "Kırkmerdiven Kale | Miras Haritası"
-date: 2025-12-25T01:29:01+03:00
+title: "Kırkmerdiven Kale"
+date: "2025-12-25T01:29:01+03:00"
 slug: "kirkmerdiven-kale"
 description: "## Kırkmerdiven Kale..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.444367315,39.106268379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırkmerdiven Kale

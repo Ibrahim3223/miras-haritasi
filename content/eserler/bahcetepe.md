@@ -1,18 +1,17 @@
 ---
-title: "Bahçetepe | Miras Haritası"
-date: 2025-12-25T05:50:12+03:00
+title: "Bahçetepe"
+date: "2025-12-25T05:50:12+03:00"
 slug: "bahcetepe"
 description: "## Bahçetepe Arkeolojik Sit..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.110833,37.863517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahçetepe Arkeolojik Sit

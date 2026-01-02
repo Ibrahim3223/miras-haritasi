@@ -1,18 +1,17 @@
 ---
-title: "Mar Tekla Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:28:38+03:00
+title: "Mar Tekla Ortodoks Kilisesi"
+date: "2025-12-25T09:28:38+03:00"
 slug: "mar-tekla-ortodoks-kilisesi"
 description: "## Mar Tekla Ortodoks Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.9909515,36.1206665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mar Tekla Ortodoks Kilisesi

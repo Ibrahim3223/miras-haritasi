@@ -1,18 +1,17 @@
 ---
-title: "Sırçalı Medrese | Miras Haritası"
-date: 2025-12-25T03:20:41+03:00
+title: "Sırçalı Medrese"
+date: "2025-12-25T03:20:41+03:00"
 slug: "sircali-medrese"
 description: "## Sırçalı Medrese: Konya'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sirchali_Medrese_1913.png/1200px-Sirchali_Medrese_1913.png"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.493927,37.870032"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sırçalı Medrese: Konya'nın Tarihi Bir Mirası

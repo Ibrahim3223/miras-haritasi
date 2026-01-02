@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Hamamı (Ünye) | Miras Haritası"
-date: 2025-12-25T16:27:17+03:00
+title: "Çarşı Hamamı (Ünye)"
+date: "2025-12-25T16:27:17+03:00"
 slug: "carsi-hamami-unye"
 description: "## Çarşı Hamamı (Ünye)..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Ünye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.285916666,41.130277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Hamamı (Ünye)

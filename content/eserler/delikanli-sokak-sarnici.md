@@ -1,18 +1,17 @@
 ---
-title: "Delikanlı Sokak Sarnıcı | Miras Haritası"
-date: 2025-12-25T13:18:00+03:00
+title: "Delikanlı Sokak Sarnıcı"
+date: "2025-12-25T13:18:00+03:00"
 slug: "delikanli-sokak-sarnici"
 description: "## Delikanlı Sokak Sarnıcı: İstanbul'un Gizli Kuytu Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.958948786,41.013810121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Delikanlı Sokak Sarnıcı: İstanbul'un Gizli Kuytu Mezarı

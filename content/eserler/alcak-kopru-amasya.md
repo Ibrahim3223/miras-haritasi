@@ -1,18 +1,17 @@
 ---
-title: "Alçak Köprü, Amasya | Miras Haritası"
-date: 2025-12-25T02:56:25+03:00
+title: "Alçak Köprü, Amasya"
+date: "2025-12-25T02:56:25+03:00"
 slug: "alcak-kopru-amasya"
 description: "## Alçak Köprü, Amasya..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.8305473,40.6519279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alçak Köprü, Amasya

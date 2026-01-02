@@ -1,18 +1,17 @@
 ---
-title: "Umudum Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:15+03:00
+title: "Umudum Sultan Türbesi"
+date: "2025-12-25T14:22:15+03:00"
 slug: "umudum-sultan-turbesi"
 description: "## Umudum Sultan Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.24629,40.027849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Umudum Sultan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Askeriye Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:35+03:00
+title: "Askeriye Çeşmesi"
+date: "2025-12-25T11:16:35+03:00"
 slug: "askeriye-cesmesi"
 description: "## Askeriye Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.00095,41.040924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Askeriye Çeşmesi

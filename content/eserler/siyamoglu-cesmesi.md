@@ -1,18 +1,17 @@
 ---
-title: "Siyamoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:42+03:00
+title: "Siyamoğlu Çeşmesi"
+date: "2025-12-25T10:16:42+03:00"
 slug: "siyamoglu-cesmesi"
 description: "### Siyamoğlu Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.821762,41.004847"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Siyamoğlu Çeşmesi

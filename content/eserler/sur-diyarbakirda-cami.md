@@ -1,18 +1,17 @@
 ---
-title: "Sur, Diyarbakır'da cami | Miras Haritası"
-date: 2025-12-24T22:09:14+03:00
+title: "Sur, Diyarbakır'da cami"
+date: "2025-12-24T22:09:14+03:00"
 slug: "sur-diyarbakirda-cami"
 description: "## Diyarbakır'daki Sur'daki Cami: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Diyarbakirmosque218.jpg/1200px-Diyarbakirmosque218.jpg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.230681,37.905779"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Diyarbakır'daki Sur'daki Cami: Tarihi ve Kültürel Miras

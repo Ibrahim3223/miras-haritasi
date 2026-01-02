@@ -1,18 +1,17 @@
 ---
-title: "Kesik Köprü, Ergenli | Miras Haritası"
-date: 2025-12-25T02:54:01+03:00
+title: "Kesik Köprü, Ergenli"
+date: "2025-12-25T02:54:01+03:00"
 slug: "kesik-kopru-ergenli"
 description: "## Kesik Köprü, Ergenli: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6886005,38.226799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kesik Köprü, Ergenli: İzmir'in Tarihi Bir Mirası

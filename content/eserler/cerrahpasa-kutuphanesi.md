@@ -1,18 +1,17 @@
 ---
-title: "Cerrahpaşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:49:40+03:00
+title: "Cerrahpaşa Kütüphanesi"
+date: "2025-12-25T17:49:40+03:00"
 slug: "cerrahpasa-kutuphanesi"
 description: "## Cerrahpaşa Kütüphanesi: İstanbul'un Gizli Öykülerini Hafızasında Tutmak..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cerrahpaşa Kütüphanesi: İstanbul'un Gizli Öykülerini Hafızasında Tutmak

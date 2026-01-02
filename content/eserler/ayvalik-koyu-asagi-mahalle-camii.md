@@ -1,18 +1,17 @@
 ---
-title: "Ayvalık Köyü Aşağı Mahalle Camii | Miras Haritası"
-date: 2025-12-25T00:18:49+03:00
+title: "Ayvalık Köyü Aşağı Mahalle Camii"
+date: "2025-12-25T00:18:49+03:00"
 slug: "ayvalik-koyu-asagi-mahalle-camii"
 description: "### Ayvalık Köyü Aşağı Mahalle Camii: Rize'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.521539,40.803973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayvalık Köyü Aşağı Mahalle Camii: Rize'nin Gizli Çehresini Keşfetmek

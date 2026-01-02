@@ -1,18 +1,17 @@
 ---
-title: "Eyüp Camii | Miras Haritası"
-date: 2025-12-24T23:53:32+03:00
+title: "Eyüp Camii"
+date: "2025-12-24T23:53:32+03:00"
 slug: "eyup-camii"
 description: "## Eyüp Camii: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8683853,39.9349098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eyüp Camii: Ankara'nın Tarihi ve Kültürel Mirası

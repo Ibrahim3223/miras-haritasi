@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Karamazak | Miras Haritası"
-date: 2025-12-25T03:00:28+03:00
+title: "Roma Köprüsü, Karamazak"
+date: "2025-12-25T03:00:28+03:00"
 slug: "roma-koprusu-karamazak"
 description: "## Roma Köprüsü, Karamazak: Bursa'nın Gizli Cezvesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NAMAZGAH_TARİHİ_KÖPRÜ_-_panoramio.jpg/1200px-NAMAZGAH_TARİHİ_KÖPRÜ_-_panoramio.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0765686,40.1780205"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Roma Köprüsü, Karamazak: Bursa'nın Gizli Cezvesi

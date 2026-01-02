@@ -1,18 +1,17 @@
 ---
-title: "Sadullah Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:52+03:00
+title: "Sadullah Köprüsü"
+date: "2025-12-25T02:07:52+03:00"
 slug: "sadullah-koprusu"
 description: "## Sadullah Köprüsü: Aydın'ın Tarihi Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0379562,37.5139542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sadullah Köprüsü: Aydın'ın Tarihi Mirası

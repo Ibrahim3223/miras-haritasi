@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmet Camii, Bartın | Miras Haritası"
-date: 2025-12-24T23:56:21+03:00
+title: "Hacı Mehmet Camii, Bartın"
+date: "2025-12-24T23:56:21+03:00"
 slug: "haci-mehmet-camii-bartin"
 description: "### Hacı Mehmet Camii, Bartın..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Bartın"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.3377953,41.6329842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Mehmet Camii, Bartın

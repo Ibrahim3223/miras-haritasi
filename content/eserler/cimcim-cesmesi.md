@@ -1,18 +1,17 @@
 ---
-title: "Cimcim Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:48+03:00
+title: "Cimcim Çeşmesi"
+date: "2025-12-25T10:23:48+03:00"
 slug: "cimcim-cesmesi"
 description: "## Uşak'ta Tarihi Bir Çeşme: Cimcim Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4026318,38.6779289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uşak'ta Tarihi Bir Çeşme: Cimcim Çeşmesi

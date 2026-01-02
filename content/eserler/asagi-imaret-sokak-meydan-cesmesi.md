@@ -1,18 +1,17 @@
 ---
-title: "Aşağı İmaret Sokak Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:21+03:00
+title: "Aşağı İmaret Sokak Meydan Çeşmesi"
+date: "2025-12-25T10:44:21+03:00"
 slug: "asagi-imaret-sokak-meydan-cesmesi"
 description: "## Aşağı İmaret Sokak Meydan Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7758675,41.3821831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı İmaret Sokak Meydan Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Duatepe Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:48+03:00
+title: "Duatepe Türbesi"
+date: "2025-12-25T15:11:48+03:00"
 slug: "duatepe-turbesi"
 description: "# Duatepe Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.8940507,36.9127677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Duatepe Türbesi

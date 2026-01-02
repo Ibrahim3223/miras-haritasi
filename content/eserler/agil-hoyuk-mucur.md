@@ -1,18 +1,17 @@
 ---
-title: "Ağıl Höyük, Mucur | Miras Haritası"
-date: 2025-12-25T05:56:36+03:00
+title: "Ağıl Höyük, Mucur"
+date: "2025-12-25T05:56:36+03:00"
 slug: "agil-hoyuk-mucur"
 description: "# Ağıl Höyük, Mucur: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.5622864,39.100708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ağıl Höyük, Mucur: Tarihî Bir Mirasın Gizemi

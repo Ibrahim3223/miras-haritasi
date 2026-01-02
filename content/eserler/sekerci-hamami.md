@@ -1,18 +1,17 @@
 ---
-title: "Şekerci Hamamı | Miras Haritası"
-date: 2025-12-25T16:53:08+03:00
+title: "Şekerci Hamamı"
+date: "2025-12-25T16:53:08+03:00"
 slug: "sekerci-hamami"
 description: "## Şekerci Hamamı: Çeşme'nin Tarihi Parası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.3049183,38.3227654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şekerci Hamamı: Çeşme'nin Tarihi Parası

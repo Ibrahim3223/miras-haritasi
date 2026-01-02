@@ -1,18 +1,17 @@
 ---
-title: "Candaroğulları Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:35+03:00
+title: "Candaroğulları Türbesi"
+date: "2025-12-25T14:27:35+03:00"
 slug: "candarogullari-turbesi"
 description: "**Candaroğulları Türbesi**..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.148485,42.026845"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Candaroğulları Türbesi**

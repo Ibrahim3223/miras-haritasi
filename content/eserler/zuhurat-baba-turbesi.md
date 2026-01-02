@@ -1,18 +1,17 @@
 ---
-title: "Zuhurat Baba Türbesi | Miras Haritası"
-date: 2025-12-25T13:35:11+03:00
+title: "Zuhurat Baba Türbesi"
+date: "2025-12-25T13:35:11+03:00"
 slug: "zuhurat-baba-turbesi"
 description: "### Zuhurat Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.867704,40.982305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zuhurat Baba Türbesi

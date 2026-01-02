@@ -1,18 +1,17 @@
 ---
-title: "Hıdırlık Hamamı | Miras Haritası"
-date: 2025-12-25T16:54:04+03:00
+title: "Hıdırlık Hamamı"
+date: "2025-12-25T16:54:04+03:00"
 slug: "hidirlik-hamami"
 description: "### Hıdırlık Hamamı: Seferihisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.8376999,38.1940994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hıdırlık Hamamı: Seferihisar'ın Tarihi Bir Mirası

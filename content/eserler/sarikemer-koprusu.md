@@ -1,18 +1,17 @@
 ---
-title: "Sarıkemer Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:49+03:00
+title: "Sarıkemer Köprüsü"
+date: "2025-12-25T02:27:49+03:00"
 slug: "sarikemer-koprusu"
 description: "## Sarıkemer Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.371119,37.563667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıkemer Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Çerikli Cami | Miras Haritası"
-date: 2025-12-24T22:29:31+03:00
+title: "Çerikli Cami"
+date: "2025-12-24T22:29:31+03:00"
 slug: "cerikli-cami"
 description: "## Çerikli Cami: Kırıkkale'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırıkkale"
+province: "Kırıkkale"
+iller: '["Kırıkkale"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.9884987,39.8991013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çerikli Cami: Kırıkkale'nin Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sunullah Gaybi Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:46+03:00
+title: "Sunullah Gaybi Türbesi"
+date: "2025-12-25T14:26:46+03:00"
 slug: "sunullah-gaybi-turbesi"
 description: "## Sunullah Gaybi Türbesi: Kütahya'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.985859,39.426501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sunullah Gaybi Türbesi: Kütahya'nın Gizli Çiçeği

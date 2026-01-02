@@ -1,18 +1,17 @@
 ---
-title: "Dodurga Köyü Çeşmesi 3, Orta | Miras Haritası"
-date: 2025-12-25T12:32:01+03:00
+title: "Dodurga Köyü Çeşmesi 3, Orta"
+date: "2025-12-25T12:32:01+03:00"
 slug: "dodurga-koyu-cesmesi-3-orta"
 description: "## Dodurga Köyü Çeşmesi 3, Orta..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.986741936,40.603179891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dodurga Köyü Çeşmesi 3, Orta

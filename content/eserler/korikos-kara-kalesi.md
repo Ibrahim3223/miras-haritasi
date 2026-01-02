@@ -1,18 +1,17 @@
 ---
-title: "Korikos Kara Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:38+03:00
+title: "Korikos Kara Kalesi"
+date: "2025-12-25T01:28:38+03:00"
 slug: "korikos-kara-kalesi"
 description: "### Korikos Kara Kalesi: Erdemli'nin Tarihi Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.1508064,36.4637642"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Korikos Kara Kalesi: Erdemli'nin Tarihi Mirası

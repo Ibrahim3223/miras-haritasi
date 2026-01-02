@@ -1,18 +1,17 @@
 ---
-title: "Havza Atatürk Evi | Miras Haritası"
-date: 2025-12-25T03:20:03+03:00
+title: "Havza Atatürk Evi"
+date: "2025-12-25T03:20:03+03:00"
 slug: "havza-ataturk-evi"
 description: "## Havza Atatürk Evi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Havza"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.658821,40.97062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havza Atatürk Evi

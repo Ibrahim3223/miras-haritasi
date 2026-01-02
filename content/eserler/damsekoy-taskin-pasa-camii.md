@@ -1,18 +1,17 @@
 ---
-title: "Damseköy Taşkın Paşa Camii | Miras Haritası"
-date: 2025-12-25T00:04:06+03:00
+title: "Damseköy Taşkın Paşa Camii"
+date: "2025-12-25T00:04:06+03:00"
 slug: "damsekoy-taskin-pasa-camii"
 description: "## Damseköy Taşkın Paşa Camii: Ürgüp'te Bir Gizem..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.9469719,38.491909"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damseköy Taşkın Paşa Camii: Ürgüp'te Bir Gizem

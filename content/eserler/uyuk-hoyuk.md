@@ -1,18 +1,17 @@
 ---
-title: "Üyük Höyük | Miras Haritası"
-date: 2025-12-25T06:25:58+03:00
+title: "Üyük Höyük"
+date: "2025-12-25T06:25:58+03:00"
 slug: "uyuk-hoyuk"
 description: "### Üyük Höyük: Tokat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.8549743,40.1592595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üyük Höyük: Tokat'ın Tarihî Mirası

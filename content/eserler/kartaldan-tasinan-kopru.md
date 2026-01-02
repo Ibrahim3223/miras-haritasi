@@ -1,18 +1,17 @@
 ---
-title: "Kartal’dan Taşınan Köprü | Miras Haritası"
-date: 2025-12-25T02:47:50+03:00
+title: "Kartal’dan Taşınan Köprü"
+date: "2025-12-25T02:47:50+03:00"
 slug: "kartaldan-tasinan-kopru"
 description: "**Kartal'dan Taşınan Köprü: Kadıköy'ün Gizli Cenneti**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0282936,40.9985695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kartal'dan Taşınan Köprü: Kadıköy'ün Gizli Cenneti**

@@ -1,18 +1,17 @@
 ---
-title: "Beşparmak Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:55+03:00
+title: "Beşparmak Türbesi"
+date: "2025-12-25T14:49:55+03:00"
 slug: "besparmak-turbesi"
 description: "## Beşparmak Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.47437141,38.745639592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşparmak Türbesi

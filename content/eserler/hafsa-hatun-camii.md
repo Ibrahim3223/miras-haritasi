@@ -1,18 +1,17 @@
 ---
-title: "Hafsa Hatun Camii | Miras Haritası"
-date: 2025-12-25T00:27:00+03:00
+title: "Hafsa Hatun Camii"
+date: "2025-12-25T00:27:00+03:00"
 slug: "hafsa-hatun-camii"
 description: "## Hafsa Hatun Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bedrettin_Mosque,_Bursa.jpg/1200px-Bedrettin_Mosque,_Bursa.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0716133,40.1833305"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hafsa Hatun Camii

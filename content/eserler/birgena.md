@@ -1,18 +1,17 @@
 ---
-title: "Birgena | Miras Haritası"
-date: 2025-12-25T05:00:24+03:00
+title: "Birgena"
+date: "2025-12-25T05:00:24+03:00"
 slug: "birgena"
 description: "## Birgena Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.185373,39.046379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Birgena Arkeolojik Sit

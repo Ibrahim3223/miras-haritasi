@@ -1,18 +1,17 @@
 ---
-title: "Hamdibey Sadi Kaynaklar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:36:36+03:00
+title: "Hamdibey Sadi Kaynaklar Tümülüsü"
+date: "2025-12-25T07:36:36+03:00"
 slug: "hamdibey-sadi-kaynaklar-tumulusu"
 description: "## Hamdibey Sadi Kaynaklar Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7472229,41.8722229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamdibey Sadi Kaynaklar Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Yunus Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:48:36+03:00
+title: "Yunus Paşa Camii"
+date: "2025-12-24T23:48:36+03:00"
 slug: "yunus-pasa-camii"
 description: "## Yunus Paşa Camii: Sakarya'nın Tarihî Cebi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Taraklı_Yunus_Paşa_Camii_02.jpg/1200px-Taraklı_Yunus_Paşa_Camii_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sakarya"
+province: "Sakarya"
+iller: '["Sakarya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.4921513,40.3959618"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yunus Paşa Camii: Sakarya'nın Tarihî Cebi

@@ -1,18 +1,17 @@
 ---
-title: "Dikilitaş Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:25+03:00
+title: "Dikilitaş Türbesi"
+date: "2025-12-25T15:13:25+03:00"
 slug: "dikilitas-turbesi"
 description: "## Dikilitaş Türbesi: Ladik'in Gizli Hazineleri..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ladik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8919089,40.90921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dikilitaş Türbesi: Ladik'in Gizli Hazineleri

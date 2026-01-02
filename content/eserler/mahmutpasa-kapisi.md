@@ -1,18 +1,17 @@
 ---
-title: "Mahmutpaşa Kapısı | Miras Haritası"
-date: 2025-12-25T15:39:16+03:00
+title: "Mahmutpaşa Kapısı"
+date: "2025-12-25T15:39:16+03:00"
 slug: "mahmutpasa-kapisi"
 description: "## Mahmutpaşa Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9697723,41.0111618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmutpaşa Kapısı

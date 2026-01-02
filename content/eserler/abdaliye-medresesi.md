@@ -1,18 +1,17 @@
 ---
-title: "Abdaliye Medresesi | Miras Haritası"
-date: 2025-12-25T17:33:03+03:00
+title: "Abdaliye Medresesi"
+date: "2025-12-25T17:33:03+03:00"
 slug: "abdaliye-medresesi"
 description: "## Abdaliye Medresesi..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "42.1867523,37.3217354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdaliye Medresesi

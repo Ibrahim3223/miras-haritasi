@@ -1,18 +1,17 @@
 ---
-title: "Yavuz Selim Camii | Miras Haritası"
-date: 2025-12-24T21:37:53+03:00
+title: "Yavuz Selim Camii"
+date: "2025-12-24T21:37:53+03:00"
 slug: "yavuz-selim-camii"
 description: "## Yavuz Selim Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Yavuz_Selim_Mosque_DSCF6829.jpg/1200px-Yavuz_Selim_Mosque_DSCF6829.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9513,41.0266"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yavuz Selim Camii: İstanbul'un Gizli Çeşmesi

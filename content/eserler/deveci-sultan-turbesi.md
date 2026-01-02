@@ -1,18 +1,17 @@
 ---
-title: "Deveci Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:59+03:00
+title: "Deveci Sultan Türbesi"
+date: "2025-12-25T14:49:59+03:00"
 slug: "deveci-sultan-turbesi"
 description: "### Deveci Sultan Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7815552,41.3792648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Deveci Sultan Türbesi

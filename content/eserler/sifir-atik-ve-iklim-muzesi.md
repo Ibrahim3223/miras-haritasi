@@ -1,18 +1,17 @@
 ---
-title: "Sıfır Atık ve İklim Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:41+03:00
+title: "Sıfır Atık ve İklim Müzesi"
+date: "2025-12-25T04:03:41+03:00"
 slug: "sifir-atik-ve-iklim-muzesi"
 description: "## Sıfır Atık ve İklim Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.835655733,39.942969291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sıfır Atık ve İklim Müzesi

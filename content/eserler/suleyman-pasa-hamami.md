@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:26:48+03:00
+title: "Süleyman Paşa Hamamı"
+date: "2025-12-25T16:26:48+03:00"
 slug: "suleyman-pasa-hamami"
 description: "### Süleyman Paşa Hamamı: Kocaeli'nin Tarihi bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.92068,40.766978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Süleyman Paşa Hamamı: Kocaeli'nin Tarihi bir Mirası

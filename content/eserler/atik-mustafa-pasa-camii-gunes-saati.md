@@ -1,18 +1,17 @@
 ---
-title: "Atik Mustafa Paşa Camii Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:41:21+03:00
+title: "Atik Mustafa Paşa Camii Güneş Saati"
+date: "2025-12-25T13:41:21+03:00"
 slug: "atik-mustafa-pasa-camii-gunes-saati"
 description: "## Atik Mustafa Paşa Camii Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9440937,41.0386925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atik Mustafa Paşa Camii Güneş Saati

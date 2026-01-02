@@ -1,18 +1,17 @@
 ---
-title: "Marcukis Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:46+03:00
+title: "Marcukis Çeşmesi"
+date: "2025-12-25T11:26:46+03:00"
 slug: "marcukis-cesmesi"
 description: "## Marcukis Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Marmara"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5967102,40.5817642"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marcukis Çeşmesi

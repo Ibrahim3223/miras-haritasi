@@ -1,18 +1,17 @@
 ---
-title: "Bakireler Anıtı | Miras Haritası"
-date: 2025-12-25T15:41:13+03:00
+title: "Bakireler Anıtı"
+date: "2025-12-25T15:41:13+03:00"
 slug: "bakireler-aniti"
 description: "## Bakireler Anıtı: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bakireler_Anıtı_Meydanı.jpg/1200px-Bakireler_Anıtı_Meydanı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.123555555,40.926083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bakireler Anıtı: İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Söğütlüçeşme Camii | Miras Haritası"
-date: 2025-12-24T21:49:48+03:00
+title: "Söğütlüçeşme Camii"
+date: "2025-12-24T21:49:48+03:00"
 slug: "sogutlucesme-camii"
 description: "### Söğütlüçeşme Camii: Kadıköy'deki Büyüleyici Bir Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Söğütlüçeşme_Caddesi_-_panoramio.jpg/1200px-Söğütlüçeşme_Caddesi_-_panoramio.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0335814,40.9922063"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Söğütlüçeşme Camii: Kadıköy'deki Büyüleyici Bir Cami

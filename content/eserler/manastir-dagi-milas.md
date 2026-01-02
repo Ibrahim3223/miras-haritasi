@@ -1,18 +1,17 @@
 ---
-title: "Manastır Dağı, Milas | Miras Haritası"
-date: 2025-12-25T01:29:55+03:00
+title: "Manastır Dağı, Milas"
+date: "2025-12-25T01:29:55+03:00"
 slug: "manastir-dagi-milas"
 description: "## Manastır Dağı: Tarihi ve Kültürel Mirasın Bir Örneği..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.7608795,37.1787338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manastır Dağı: Tarihi ve Kültürel Mirasın Bir Örneği

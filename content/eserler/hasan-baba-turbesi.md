@@ -1,18 +1,17 @@
 ---
-title: "Hasan Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:32+03:00
+title: "Hasan Baba Türbesi"
+date: "2025-12-25T14:35:32+03:00"
 slug: "hasan-baba-turbesi"
 description: "# Hasan Baba Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.880843,39.649017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hasan Baba Türbesi

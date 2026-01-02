@@ -1,18 +1,17 @@
 ---
-title: "Sanctuary of the Nemeses in Smyrna | Miras Haritası"
-date: 2025-12-25T08:10:18+03:00
+title: "Sanctuary of the Nemeses in Smyrna"
+date: "2025-12-25T08:10:18+03:00"
 slug: "sanctuary-of-the-nemeses-in-smyrna"
 description: "## Sanctuary of the Nemeses in Smyrna: İzmir'in Tarihî Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1383,38.41905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sanctuary of the Nemeses in Smyrna: İzmir'in Tarihî Mirası

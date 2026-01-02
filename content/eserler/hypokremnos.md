@@ -1,18 +1,17 @@
 ---
-title: "Hypokremnos | Miras Haritası"
-date: 2025-12-25T04:56:34+03:00
+title: "Hypokremnos"
+date: "2025-12-25T04:56:34+03:00"
 slug: "hypokremnos"
 description: "### Hypokremnos: Urla, İzmir'de Bir Keşif..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.649177,38.327305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hypokremnos: Urla, İzmir'de Bir Keşif

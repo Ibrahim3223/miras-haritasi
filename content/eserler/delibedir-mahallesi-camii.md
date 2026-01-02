@@ -1,18 +1,17 @@
 ---
-title: "Delibedir Mahallesi Camii | Miras Haritası"
-date: 2025-12-24T22:34:00+03:00
+title: "Delibedir Mahallesi Camii"
+date: "2025-12-24T22:34:00+03:00"
 slug: "delibedir-mahallesi-camii"
 description: "## Delibedir Mahallesi Camii..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Hayrabolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1240158,41.1012192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Delibedir Mahallesi Camii

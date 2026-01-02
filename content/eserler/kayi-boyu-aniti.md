@@ -1,18 +1,17 @@
 ---
-title: "Kayı Boyu Anıtı | Miras Haritası"
-date: 2025-12-25T15:48:13+03:00
+title: "Kayı Boyu Anıtı"
+date: "2025-12-25T15:48:13+03:00"
 slug: "kayi-boyu-aniti"
 description: "### Kayı Boyu Anıtı: Bilecik'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0090141,40.1190376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kayı Boyu Anıtı: Bilecik'in Tarihi ve Kültürel Mirası

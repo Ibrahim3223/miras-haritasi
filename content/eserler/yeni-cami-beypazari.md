@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami (Beypazarı) | Miras Haritası"
-date: 2025-12-24T23:53:57+03:00
+title: "Yeni Cami (Beypazarı)"
+date: "2025-12-24T23:53:57+03:00"
 slug: "yeni-cami-beypazari"
 description: "## Yeni Cami (Beypazarı)..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.920723,40.1688042"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Cami (Beypazarı)

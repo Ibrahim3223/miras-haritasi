@@ -1,18 +1,17 @@
 ---
-title: "Galipbaba Höyüğü | Miras Haritası"
-date: 2025-12-25T06:03:53+03:00
+title: "Galipbaba Höyüğü"
+date: "2025-12-25T06:03:53+03:00"
 slug: "galipbaba-hoyugu"
 description: "### Galipbaba Höyüğü: Malatya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.5041389,38.4210167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Galipbaba Höyüğü: Malatya'nın Gizli Tarihi

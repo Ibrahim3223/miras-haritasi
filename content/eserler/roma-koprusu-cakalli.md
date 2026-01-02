@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Çakallı | Miras Haritası"
-date: 2025-12-25T02:51:22+03:00
+title: "Roma Köprüsü, Çakallı"
+date: "2025-12-25T02:51:22+03:00"
 slug: "roma-koprusu-cakalli"
 description: "## Roma Köprüsü, Çakallı..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Karaisalı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.1099434,37.1938629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Çakallı

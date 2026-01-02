@@ -1,18 +1,17 @@
 ---
-title: "Peksimet Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:18+03:00
+title: "Peksimet Kilisesi"
+date: "2025-12-25T09:19:18+03:00"
 slug: "peksimet-kilisesi"
 description: "## Peksimet Kilisesi: Bodrum'un Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.2511368,37.0343895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Peksimet Kilisesi: Bodrum'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Tek Kabir, Kaptanpaşa | Miras Haritası"
-date: 2025-12-25T13:35:35+03:00
+title: "Tek Kabir, Kaptanpaşa"
+date: "2025-12-25T13:35:35+03:00"
 slug: "tek-kabir-kaptanpasa"
 description: "### Tek Kabir, Kaptanpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9657288,41.0453873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tek Kabir, Kaptanpaşa

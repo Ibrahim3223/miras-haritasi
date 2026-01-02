@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Salihli | Miras Haritası"
-date: 2025-12-25T00:26:45+03:00
+title: "Hamidiye Camii, Salihli"
+date: "2025-12-25T00:26:45+03:00"
 slug: "hamidiye-camii-salihli"
 description: "## Hamidiye Camii, Salihli..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1385937,38.4856529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Camii, Salihli

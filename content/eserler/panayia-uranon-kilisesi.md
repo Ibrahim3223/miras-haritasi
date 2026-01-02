@@ -1,18 +1,17 @@
 ---
-title: "Panayia Uranon Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:33+03:00
+title: "Panayia Uranon Kilisesi"
+date: "2025-12-25T09:34:33+03:00"
 slug: "panayia-uranon-kilisesi"
 description: "## Panayia Uranon Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.939556,41.030091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panayia Uranon Kilisesi: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü, Zühtüpaşa | Miras Haritası"
-date: 2025-12-25T02:46:33+03:00
+title: "Taşköprü, Zühtüpaşa"
+date: "2025-12-25T02:46:33+03:00"
 slug: "taskopru-zuhtupasa"
 description: "## Taşköprü, Zühtüpaşa: Kadıköy'ün Tarihi Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0363255,40.990509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşköprü, Zühtüpaşa: Kadıköy'ün Tarihi Köprüsü

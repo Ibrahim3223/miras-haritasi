@@ -1,18 +1,17 @@
 ---
-title: "Tigran Honents Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:44+03:00
+title: "Tigran Honents Kilisesi"
+date: "2025-12-25T08:57:44+03:00"
 slug: "tigran-honents-kilisesi"
 description: "## Tigran Honents Kilisesi: Ermeni Tarihine Örnek Bir Anıt..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.578676667,40.505980778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tigran Honents Kilisesi: Ermeni Tarihine Örnek Bir Anıt

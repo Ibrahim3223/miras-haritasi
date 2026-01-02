@@ -1,18 +1,17 @@
 ---
-title: "Korykos | Miras Haritası"
-date: 2025-12-25T06:54:34+03:00
+title: "Korykos"
+date: "2025-12-25T06:54:34+03:00"
 slug: "korykos"
 description: "## Korykos Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Fortressarmenians5.jpg/1200px-Fortressarmenians5.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.15416667,36.46527778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Korykos Arkeolojik Sit

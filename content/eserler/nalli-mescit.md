@@ -1,18 +1,17 @@
 ---
-title: "Nallı Mescit | Miras Haritası"
-date: 2025-12-24T22:09:02+03:00
+title: "Nallı Mescit"
+date: "2025-12-24T22:09:02+03:00"
 slug: "nalli-mescit"
 description: "### Nallı Mescit: Fatih'teki Bir Önemli Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Istanbul_asv2020-02_img38_Nallı_Mosque.jpg/1200px-Istanbul_asv2020-02_img38_Nallı_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.975555555,41.0125"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Nallı Mescit: Fatih'teki Bir Önemli Cami

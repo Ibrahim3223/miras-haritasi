@@ -1,18 +1,17 @@
 ---
-title: "Tonik Köprüsü, Kalkandere | Miras Haritası"
-date: 2025-12-25T02:52:26+03:00
+title: "Tonik Köprüsü, Kalkandere"
+date: "2025-12-25T02:52:26+03:00"
 slug: "tonik-koprusu-kalkandere"
 description: "## Tonik Köprüsü, Kalkandere..."
 featured_image: ""
 province: "Kalkandere"
-iller: ["Kalkandere"]
+iller: '["Kalkandere"]'
 district: "Kalkandere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.450851,40.931491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tonik Köprüsü, Kalkandere

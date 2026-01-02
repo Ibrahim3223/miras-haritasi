@@ -1,18 +1,17 @@
 ---
-title: "Nihat Bey Anıtı, Giresun | Miras Haritası"
-date: 2025-12-25T15:49:32+03:00
+title: "Nihat Bey Anıtı, Giresun"
+date: "2025-12-25T15:49:32+03:00"
 slug: "nihat-bey-aniti-giresun"
 description: "### Nihat Bey Anıtı: Giresun'un Onurlu Çocuklarının Anısına..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.412319,40.906264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nihat Bey Anıtı: Giresun'un Onurlu Çocuklarının Anısına

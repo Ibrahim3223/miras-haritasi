@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Gazi Medrese Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:34:02+03:00
+title: "Ahmet Gazi Medrese Çeşmesi"
+date: "2025-12-25T11:34:02+03:00"
 slug: "ahmet-gazi-medrese-cesmesi"
 description: "## Ahmet Gazi Medrese Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7882652,37.2731857"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Gazi Medrese Çeşmesi

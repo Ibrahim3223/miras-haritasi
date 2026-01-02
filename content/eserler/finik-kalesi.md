@@ -1,18 +1,17 @@
 ---
-title: "Finik Kalesi | Miras Haritası"
-date: 2025-12-25T01:52:02+03:00
+title: "Finik Kalesi"
+date: "2025-12-25T01:52:02+03:00"
 slug: "finik-kalesi"
 description: "## Finik Kalesi: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Güçlükonak"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.0745926,37.4084892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Finik Kalesi: Tarihî Bir Mirasın İzleri

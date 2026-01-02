@@ -1,18 +1,17 @@
 ---
-title: "Sofular Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:27+03:00
+title: "Sofular Hamamı"
+date: "2025-12-25T16:35:27+03:00"
 slug: "sofular-hamami"
 description: "## Sofular Hamamı: Tarihi ve Kültürel Değerini Koruyan Bir Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.948958,41.013619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sofular Hamamı: Tarihi ve Kültürel Değerini Koruyan Bir Hamam

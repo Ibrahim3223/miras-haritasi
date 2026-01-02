@@ -1,18 +1,17 @@
 ---
-title: "Çamlıca Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:41+03:00
+title: "Çamlıca Köyü Köprüsü"
+date: "2025-12-25T02:37:41+03:00"
 slug: "camlica-koyu-koprusu"
 description: "## Çamlıca Köyü Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Keşap"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.532142,40.783117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamlıca Köyü Köprüsü

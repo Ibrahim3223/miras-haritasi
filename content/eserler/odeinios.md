@@ -1,18 +1,17 @@
 ---
-title: "Odeinios | Miras Haritası"
-date: 2025-12-25T04:38:00+03:00
+title: "Odeinios"
+date: "2025-12-25T04:38:00+03:00"
 slug: "odeinios"
 description: "## Odeinios Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.603888888,41.175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Odeinios Arkeolojik Sit

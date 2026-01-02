@@ -1,18 +1,17 @@
 ---
-title: "Calynda | Miras Haritası"
-date: 2025-12-25T04:28:52+03:00
+title: "Calynda"
+date: "2025-12-25T04:28:52+03:00"
 slug: "calynda"
 description: "## Calynda Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Dalaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.835859,36.750652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Calynda Arkeolojik Sit

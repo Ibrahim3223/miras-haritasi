@@ -1,18 +1,17 @@
 ---
-title: "Galip Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:39:39+03:00
+title: "Galip Paşa Camii"
+date: "2025-12-24T21:39:39+03:00"
 slug: "galip-pasa-camii"
 description: "## Galip Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Galip_Paşa_Mosque_-_panoramio.jpg/1200px-Galip_Paşa_Mosque_-_panoramio.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.069583333,40.965972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Galip Paşa Camii

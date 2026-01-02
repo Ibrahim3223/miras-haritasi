@@ -1,18 +1,17 @@
 ---
-title: "Azebler Namazgahı | Miras Haritası"
-date: 2025-12-25T00:48:11+03:00
+title: "Azebler Namazgahı"
+date: "2025-12-25T00:48:11+03:00"
 slug: "azebler-namazgahi"
 description: "## Azebler Namazgahı: Tarihî Bir Cami..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Azebler Namazgahı: Tarihî Bir Cami

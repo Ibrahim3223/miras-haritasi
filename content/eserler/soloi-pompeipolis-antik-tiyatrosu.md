@@ -1,18 +1,17 @@
 ---
-title: "Soloi Pompeipolis Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:22:22+03:00
+title: "Soloi Pompeipolis Antik Tiyatrosu"
+date: "2025-12-25T16:22:22+03:00"
 slug: "soloi-pompeipolis-antik-tiyatrosu"
 description: "# Soloi Pompeipolis Antik Tiyatrosu..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mezitli"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "34.542286,36.745014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Soloi Pompeipolis Antik Tiyatrosu

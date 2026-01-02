@@ -1,18 +1,17 @@
 ---
-title: "Aksaray Karasu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:53+03:00
+title: "Aksaray Karasu Köprüsü"
+date: "2025-12-25T02:26:53+03:00"
 slug: "aksaray-karasu-koprusu"
 description: "## Aksaray Karasu Köprüsü: Bir Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.9729705,38.3567281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aksaray Karasu Köprüsü: Bir Tarihi ve Kültürel Miras

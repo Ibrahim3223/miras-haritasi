@@ -1,18 +1,17 @@
 ---
-title: "Laletepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:14:18+03:00
+title: "Laletepe Tümülüsü"
+date: "2025-12-25T08:14:18+03:00"
 slug: "laletepe-tumulusu"
 description: "## Laletepe Tümülüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.2907925,37.8374214"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Laletepe Tümülüsü

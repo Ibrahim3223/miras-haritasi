@@ -1,18 +1,17 @@
 ---
-title: "Evciler Kalesi | Miras Haritası"
-date: 2025-12-25T01:18:08+03:00
+title: "Evciler Kalesi"
+date: "2025-12-25T01:18:08+03:00"
 slug: "evciler-kalesi"
 description: "## Evciler Kalesi: Toroslar'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Toroslar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.4942703,37.038681"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evciler Kalesi: Toroslar'ın Gizli Kahramanı

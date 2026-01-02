@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Mumcu Camii | Miras Haritası"
-date: 2025-12-24T23:47:35+03:00
+title: "Yukarı Mumcu Camii"
+date: "2025-12-24T23:47:35+03:00"
 slug: "yukari-mumcu-camii"
 description: "### Yukarı Mumcu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2691879,39.9065666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yukarı Mumcu Camii

@@ -1,18 +1,17 @@
 ---
-title: "Phyteia | Miras Haritası"
-date: 2025-12-25T05:14:33+03:00
+title: "Phyteia"
+date: "2025-12-25T05:14:33+03:00"
 slug: "phyteia"
 description: "## Phyteia: Antik Yunanistan'ın Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.065543,38.8946235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phyteia: Antik Yunanistan'ın Gizli Mirası

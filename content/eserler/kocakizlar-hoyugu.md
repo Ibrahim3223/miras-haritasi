@@ -1,18 +1,17 @@
 ---
-title: "Kocakızlar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:31:50+03:00
+title: "Kocakızlar Höyüğü"
+date: "2025-12-25T06:31:50+03:00"
 slug: "kocakizlar-hoyugu"
 description: "## Kocakızlar Höyüğü: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.9300558,39.785492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocakızlar Höyüğü: Eskişehir'in Gizli Cenneti

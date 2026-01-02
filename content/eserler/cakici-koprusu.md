@@ -1,18 +1,17 @@
 ---
-title: "Çakıcı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:09+03:00
+title: "Çakıcı Köprüsü"
+date: "2025-12-25T02:29:09+03:00"
 slug: "cakici-koprusu"
 description: "# Çakıcı Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7415009,38.3843002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çakıcı Köprüsü

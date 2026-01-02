@@ -1,18 +1,17 @@
 ---
-title: "Abdi Çelebi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:13:54+03:00
+title: "Abdi Çelebi Çeşmesi"
+date: "2025-12-25T11:13:54+03:00"
 slug: "abdi-celebi-cesmesi"
 description: "## Abdi Çelebi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.932437,41.001519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdi Çelebi Çeşmesi

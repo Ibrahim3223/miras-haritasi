@@ -1,18 +1,17 @@
 ---
-title: "Kumkale Kalesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:38:56+03:00
+title: "Kumkale Kalesi Çeşmesi"
+date: "2025-12-25T12:38:56+03:00"
 slug: "kumkale-kalesi-cesmesi"
 description: "## Kumkale Kalesi Çeşmesi: Çanakkale'nin Gizli Çeşmesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.2004585,40.0059395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumkale Kalesi Çeşmesi: Çanakkale'nin Gizli Çeşmesi

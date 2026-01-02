@@ -1,18 +1,17 @@
 ---
-title: "Ayaş Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:47+03:00
+title: "Ayaş Kalesi"
+date: "2025-12-25T01:44:47+03:00"
 slug: "ayas-kalesi"
 description: "# Ayaş Kalesi: Tarihî Bir Mirasın Geride Bıraktığı İzler..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Yumurtalık"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.7921562,36.7673225"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ayaş Kalesi: Tarihî Bir Mirasın Geride Bıraktığı İzler

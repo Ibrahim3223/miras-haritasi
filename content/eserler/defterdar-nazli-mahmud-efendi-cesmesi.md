@@ -1,18 +1,17 @@
 ---
-title: "Defterdar Nazlı Mahmud Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:50+03:00
+title: "Defterdar Nazlı Mahmud Efendi Çeşmesi"
+date: "2025-12-25T10:34:50+03:00"
 slug: "defterdar-nazli-mahmud-efendi-cesmesi"
 description: "## Defterdar Nazlı Mahmud Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Defterdar_Nazlı_Mahmud_Efendi_Çeşmesi.jpg/1200px-Defterdar_Nazlı_Mahmud_Efendi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.937607,41.042149"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Defterdar Nazlı Mahmud Efendi Çeşmesi

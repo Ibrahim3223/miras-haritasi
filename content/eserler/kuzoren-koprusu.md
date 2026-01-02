@@ -1,18 +1,17 @@
 ---
-title: "Kuzören Köprüsü | Miras Haritası"
-date: 2025-12-25T02:20:23+03:00
+title: "Kuzören Köprüsü"
+date: "2025-12-25T02:20:23+03:00"
 slug: "kuzoren-koprusu"
 description: "### Kuzören Köprüsü: Tarih ve Mimari Bir Çanaktır..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.3595829,37.2478485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuzören Köprüsü: Tarih ve Mimari Bir Çanaktır

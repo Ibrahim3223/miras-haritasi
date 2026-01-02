@@ -1,18 +1,17 @@
 ---
-title: "Karamağara Köprüsü | Miras Haritası"
-date: 2025-12-25T01:56:20+03:00
+title: "Karamağara Köprüsü"
+date: "2025-12-25T01:56:20+03:00"
 slug: "karamagara-koprusu"
 description: "**Karamağara Köprüsü: Ağın'ın Gizli Çehresini Açan Tarihi Bir Harikadır**..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Ağın"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.65848611,38.92496111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karamağara Köprüsü: Ağın'ın Gizli Çehresini Açan Tarihi Bir Harikadır**

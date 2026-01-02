@@ -1,18 +1,17 @@
 ---
-title: "Dionysophanes | Miras Haritası"
-date: 2025-12-25T05:23:40+03:00
+title: "Dionysophanes"
+date: "2025-12-25T05:23:40+03:00"
 slug: "dionysophanes"
 description: "## Dionysophanes: Antik Yunan Edebiyatının Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.092378,36.092345"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dionysophanes: Antik Yunan Edebiyatının Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Üniversitesi Harem Kapısı | Miras Haritası"
-date: 2025-12-25T15:38:29+03:00
+title: "İstanbul Üniversitesi Harem Kapısı"
+date: "2025-12-25T15:38:29+03:00"
 slug: "istanbul-universitesi-harem-kapisi"
 description: "## İstanbul Üniversitesi Harem Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9625854,41.0125923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Üniversitesi Harem Kapısı

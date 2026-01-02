@@ -1,18 +1,17 @@
 ---
-title: "Libiopolis | Miras Haritası"
-date: 2025-12-25T04:48:48+03:00
+title: "Libiopolis"
+date: "2025-12-25T04:48:48+03:00"
 slug: "libiopolis"
 description: "**Libiopolis: Beşikdüzü'ndeki Eski Kent**..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Beşikdüzü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.198236,41.068855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Libiopolis: Beşikdüzü'ndeki Eski Kent**

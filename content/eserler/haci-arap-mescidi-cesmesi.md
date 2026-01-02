@@ -1,18 +1,17 @@
 ---
-title: "Hacı Arap Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:50+03:00
+title: "Hacı Arap Mescidi Çeşmesi"
+date: "2025-12-25T10:26:50+03:00"
 slug: "haci-arap-mescidi-cesmesi"
 description: "# Hacı Arap Mescidi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8639412,39.9367027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Arap Mescidi Çeşmesi

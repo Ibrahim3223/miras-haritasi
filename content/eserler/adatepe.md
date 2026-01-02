@@ -1,18 +1,17 @@
 ---
-title: "Adatepe | Miras Haritası"
-date: 2025-12-25T05:31:57+03:00
+title: "Adatepe"
+date: "2025-12-25T05:31:57+03:00"
 slug: "adatepe"
 description: "## Adatepe Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.54912,41.779056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adatepe Arkeolojik Sit

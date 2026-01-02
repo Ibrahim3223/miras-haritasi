@@ -1,18 +1,17 @@
 ---
-title: "Balişeyh Koçubaba Camii | Miras Haritası"
-date: 2025-12-25T00:40:09+03:00
+title: "Balişeyh Koçubaba Camii"
+date: "2025-12-25T00:40:09+03:00"
 slug: "baliseyh-kocubaba-camii"
 description: "**Balişeyh Koçubaba Camii**..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Balışeyh"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.880159507,40.06971999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Balişeyh Koçubaba Camii**

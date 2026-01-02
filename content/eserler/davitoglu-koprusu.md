@@ -1,18 +1,17 @@
 ---
-title: "Davitoğlu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:01:06+03:00
+title: "Davitoğlu Köprüsü"
+date: "2025-12-25T02:01:06+03:00"
 slug: "davitoglu-koprusu"
 description: "## Davitoğlu Köprüsü: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0881081,41.1117514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Davitoğlu Köprüsü: Rize'nin Tarihi Bir Mirası

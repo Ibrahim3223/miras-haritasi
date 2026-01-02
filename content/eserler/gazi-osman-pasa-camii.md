@@ -1,18 +1,17 @@
 ---
-title: "Gazi Osman Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:03:27+03:00
+title: "Gazi Osman Paşa Camii"
+date: "2025-12-24T23:03:27+03:00"
 slug: "gazi-osman-pasa-camii"
 description: "### Gazi Osman Paşa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Niğde"
+province: "Niğde"
+iller: '["Niğde"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6614265,37.9740791"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Osman Paşa Camii

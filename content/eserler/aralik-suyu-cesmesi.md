@@ -1,18 +1,17 @@
 ---
-title: "Aralık Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:14:56+03:00
+title: "Aralık Suyu Çeşmesi"
+date: "2025-12-25T10:14:56+03:00"
 slug: "aralik-suyu-cesmesi"
 description: "## Aralık Suyu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Aralık_Suyu_Çeşmesi,_Sarıyer,_İstanbul.jpg/1200px-Aralık_Suyu_Çeşmesi,_Sarıyer,_İstanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.055727157,41.168733435"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aralık Suyu Çeşmesi

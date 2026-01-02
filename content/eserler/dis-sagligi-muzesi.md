@@ -1,18 +1,17 @@
 ---
-title: "Diş Sağlığı Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:12+03:00
+title: "Diş Sağlığı Müzesi"
+date: "2025-12-25T04:05:12+03:00"
 slug: "dis-sagligi-muzesi"
 description: "# Diş Sağlığı Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.941417454,41.011078258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Diş Sağlığı Müzesi

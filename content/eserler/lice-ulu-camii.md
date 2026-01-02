@@ -1,18 +1,17 @@
 ---
-title: "Lice Ulu Camii | Miras Haritası"
-date: 2025-12-25T01:10:49+03:00
+title: "Lice Ulu Camii"
+date: "2025-12-25T01:10:49+03:00"
 slug: "lice-ulu-camii"
 description: "## Lice Ulu Camii: Diyarbakır'ın Tarihî Miraslarından Bir Örnek..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Lice"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.643305555,38.459416666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lice Ulu Camii: Diyarbakır'ın Tarihî Miraslarından Bir Örnek

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Osmanlar Camii | Miras Haritası"
-date: 2025-12-25T00:14:09+03:00
+title: "Hacı Osmanlar Camii"
+date: "2025-12-25T00:14:09+03:00"
 slug: "haci-osmanlar-camii"
 description: "Hacı Osmanlar Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.943505,37.158514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 Hacı Osmanlar Camii

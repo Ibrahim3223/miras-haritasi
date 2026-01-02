@@ -1,18 +1,17 @@
 ---
-title: "Kuyularönü Camii | Miras Haritası"
-date: 2025-12-24T21:49:44+03:00
+title: "Kuyularönü Camii"
+date: "2025-12-24T21:49:44+03:00"
 slug: "kuyularonu-camii"
 description: "## Kuyularönü Camii: Alanya'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Alanya_Kuyularonu_Mosque_7963.jpg/1200px-Alanya_Kuyularonu_Mosque_7963.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.998037466,36.541690732"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kuyularönü Camii: Alanya'nın Tarihi Bir Mirası

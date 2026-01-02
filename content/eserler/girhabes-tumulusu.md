@@ -1,18 +1,17 @@
 ---
-title: "Girhabeş Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:39:37+03:00
+title: "Girhabeş Tümülüsü"
+date: "2025-12-25T07:39:37+03:00"
 slug: "girhabes-tumulusu"
 description: "## Girhabeş Tümülüsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.9163845,37.9591291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Girhabeş Tümülüsü

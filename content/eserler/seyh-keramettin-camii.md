@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Keramettin Camii | Miras Haritası"
-date: 2025-12-24T23:12:14+03:00
+title: "Şeyh Keramettin Camii"
+date: "2025-12-24T23:12:14+03:00"
 slug: "seyh-keramettin-camii"
 description: "## Şeyh Keramettin Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mosque_of_Sheikh_Keramettin.jpg/1200px-Mosque_of_Sheikh_Keramettin.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Giresun"
+province: "Giresun"
+iller: '["Giresun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.386416,40.917038"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyh Keramettin Camii Tanıtımı

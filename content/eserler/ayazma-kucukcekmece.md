@@ -1,18 +1,17 @@
 ---
-title: "Ayazma, Küçükçekmece | Miras Haritası"
-date: 2025-12-25T12:42:15+03:00
+title: "Ayazma, Küçükçekmece"
+date: "2025-12-25T12:42:15+03:00"
 slug: "ayazma-kucukcekmece"
 description: "### Ayazma, Küçükçekmece..."
 featured_image: ""
-province: "Küçükçekmece"
-iller: ["Küçükçekmece"]
-district: "Fatih"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Küçükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.770115291,40.990840912"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayazma, Küçükçekmece

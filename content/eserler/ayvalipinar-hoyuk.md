@@ -1,18 +1,17 @@
 ---
-title: "Ayvalıpınar Höyük | Miras Haritası"
-date: 2025-12-25T06:26:06+03:00
+title: "Ayvalıpınar Höyük"
+date: "2025-12-25T06:26:06+03:00"
 slug: "ayvalipinar-hoyuk"
 description: "## Ayvalıpınar Höyük..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Göynücek ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.6489187,40.4612665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayvalıpınar Höyük

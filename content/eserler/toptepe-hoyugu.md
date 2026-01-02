@@ -1,18 +1,17 @@
 ---
-title: "Toptepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:05:10+03:00
+title: "Toptepe Höyüğü"
+date: "2025-12-25T07:05:10+03:00"
 slug: "toptepe-hoyugu"
 description: "## Toptepe Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toptepe Höyüğü

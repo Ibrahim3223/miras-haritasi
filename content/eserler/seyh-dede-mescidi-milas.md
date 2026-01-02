@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Dede Mescidi, Milas | Miras Haritası"
-date: 2025-12-25T00:06:01+03:00
+title: "Şeyh Dede Mescidi, Milas"
+date: "2025-12-25T00:06:01+03:00"
 slug: "seyh-dede-mescidi-milas"
 description: "## Şeyh Dede Mescidi, Milas..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.817522,37.3148232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Dede Mescidi, Milas

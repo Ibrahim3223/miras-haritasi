@@ -1,18 +1,17 @@
 ---
-title: "Erguvan Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:50+03:00
+title: "Erguvan Çelebi Türbesi"
+date: "2025-12-25T14:23:50+03:00"
 slug: "erguvan-celebi-turbesi"
 description: "**Erguvan Çelebi Türbesi: Kütahya'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.976635,39.417248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Erguvan Çelebi Türbesi: Kütahya'nın Gizli Cenneti**

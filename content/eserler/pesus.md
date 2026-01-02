@@ -1,18 +1,17 @@
 ---
-title: "Pesus | Miras Haritası"
-date: 2025-12-25T04:39:25+03:00
+title: "Pesus"
+date: "2025-12-25T04:39:25+03:00"
 slug: "pesus"
 description: "## Lapseki'nin Gizli Anıtı: Pesus Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Lapseki"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.790818,40.395248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lapseki'nin Gizli Anıtı: Pesus Arkeolojik Sit

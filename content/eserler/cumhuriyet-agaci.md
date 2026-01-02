@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Ağacı | Miras Haritası"
-date: 2025-12-25T15:41:09+03:00
+title: "Cumhuriyet Ağacı"
+date: "2025-12-25T15:41:09+03:00"
 slug: "cumhuriyet-agaci"
 description: "## Cumhuriyet Ağacı: İzmir'in Yüce Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Izmir_Republic_Tree_Monument_01_3999.jpg/1200px-Izmir_Republic_Tree_Monument_01_3999.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.139361111,38.435777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cumhuriyet Ağacı: İzmir'in Yüce Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Arpacılar Camii | Miras Haritası"
-date: 2025-12-24T22:46:23+03:00
+title: "Arpacılar Camii"
+date: "2025-12-24T22:46:23+03:00"
 slug: "arpacilar-camii"
 description: "### Arpacılar Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.973192,41.016411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arpacılar Camii Tanıtımı

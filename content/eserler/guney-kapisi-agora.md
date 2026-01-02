@@ -1,18 +1,17 @@
 ---
-title: "Güney Kapısı (Agora) | Miras Haritası"
-date: 2025-12-25T08:20:38+03:00
+title: "Güney Kapısı (Agora)"
+date: "2025-12-25T08:20:38+03:00"
 slug: "guney-kapisi-agora"
 description: "## Güney Kapısı (Agora)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mazeus-Mithridates_Gate_in_Ephesus_1.jpg/1200px-Mazeus-Mithridates_Gate_in_Ephesus_1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.341132516,37.939218664"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Güney Kapısı (Agora)

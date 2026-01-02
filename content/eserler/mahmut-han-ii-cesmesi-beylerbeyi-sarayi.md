@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Han II Çeşmesi, Beylerbeyi Sarayı | Miras Haritası"
-date: 2025-12-25T11:52:29+03:00
+title: "Mahmut Han II Çeşmesi, Beylerbeyi Sarayı"
+date: "2025-12-25T11:52:29+03:00"
 slug: "mahmut-han-ii-cesmesi-beylerbeyi-sarayi"
 description: "## Mahmut Han II Çeşmesi, Beylerbeyi Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.040266,41.0425453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Han II Çeşmesi, Beylerbeyi Sarayı

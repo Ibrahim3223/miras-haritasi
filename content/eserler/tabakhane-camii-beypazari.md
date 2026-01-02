@@ -1,18 +1,17 @@
 ---
-title: "Tabakhane Camii, Beypazarı | Miras Haritası"
-date: 2025-12-24T23:55:15+03:00
+title: "Tabakhane Camii, Beypazarı"
+date: "2025-12-24T23:55:15+03:00"
 slug: "tabakhane-camii-beypazari"
 description: "## Tabakhane Camii, Beypazarı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9199104,40.1693192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabakhane Camii, Beypazarı

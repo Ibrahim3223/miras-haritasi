@@ -1,18 +1,17 @@
 ---
-title: "Herakles (Hercules) Kapısı | Miras Haritası"
-date: 2025-12-25T08:21:15+03:00
+title: "Herakles (Hercules) Kapısı"
+date: "2025-12-25T08:21:15+03:00"
 slug: "herakles-hercules-kapisi"
 description: "## Herakles (Hercules) Kapısı: İzmir'in Gizli Cezanesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.343243608,37.937298804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Herakles (Hercules) Kapısı: İzmir'in Gizli Cezanesi

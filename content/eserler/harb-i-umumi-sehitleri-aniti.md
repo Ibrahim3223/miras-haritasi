@@ -1,18 +1,17 @@
 ---
-title: "Harb-i Umumi Şehitleri Anıtı | Miras Haritası"
-date: 2025-12-25T15:47:07+03:00
+title: "Harb-i Umumi Şehitleri Anıtı"
+date: "2025-12-25T15:47:07+03:00"
 slug: "harb-i-umumi-sehitleri-aniti"
 description: "### Giriş..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Haliliye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.7922211,37.1601982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

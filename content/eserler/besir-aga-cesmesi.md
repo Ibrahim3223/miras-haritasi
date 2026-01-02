@@ -1,18 +1,17 @@
 ---
-title: "Beşir Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:17+03:00
+title: "Beşir Ağa Çeşmesi"
+date: "2025-12-25T11:00:17+03:00"
 slug: "besir-aga-cesmesi"
 description: "# Beşir Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/EMİRSULTAN_CAMİİ_KÜLLİYESİ_TARİHİ_SOKAK_ÇESMESİ_-_panoramio.jpg/1200px-EMİRSULTAN_CAMİİ_KÜLLİYESİ_TARİHİ_SOKAK_ÇESMESİ_-_panoramio.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0808086,40.1809654"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Beşir Ağa Çeşmesi

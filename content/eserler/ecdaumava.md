@@ -1,18 +1,17 @@
 ---
-title: "Ecdaumava | Miras Haritası"
-date: 2025-12-25T05:41:31+03:00
+title: "Ecdaumava"
+date: "2025-12-25T05:41:31+03:00"
 slug: "ecdaumava"
 description: "## Ecdaumava Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.5500014,38.62291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ecdaumava Arkeolojik Sit

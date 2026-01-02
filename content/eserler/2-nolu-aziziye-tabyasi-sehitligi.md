@@ -1,18 +1,17 @@
 ---
-title: "2 No’lu Aziziye Tabyası Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:10+03:00
+title: "2 No’lu Aziziye Tabyası Şehitliği"
+date: "2025-12-25T16:03:10+03:00"
 slug: "2-nolu-aziziye-tabyasi-sehitligi"
 description: "### 2 No'lu Aziziye Tabyası Şehitliği..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Palandöken"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.3110886,39.9138794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### 2 No'lu Aziziye Tabyası Şehitliği

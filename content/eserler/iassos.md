@@ -1,18 +1,17 @@
 ---
-title: "İassos | Miras Haritası"
-date: 2025-12-25T06:49:33+03:00
+title: "İassos"
+date: "2025-12-25T06:49:33+03:00"
 slug: "iassos"
 description: "## İassos: Antik Kentin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/IasosAgora.jpg/1200px-IasosAgora.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.58638889,37.27777778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İassos: Antik Kentin Gizemi

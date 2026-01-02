@@ -1,18 +1,17 @@
 ---
-title: "Pazar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:19:32+03:00
+title: "Pazar Çeşmesi"
+date: "2025-12-25T10:19:32+03:00"
 slug: "pazar-cesmesi"
 description: "## Pazar Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2911434,38.4190025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazar Çeşmesi

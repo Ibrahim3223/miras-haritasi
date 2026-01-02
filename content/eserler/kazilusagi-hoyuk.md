@@ -1,18 +1,17 @@
 ---
-title: "Kazıluşağı Höyük | Miras Haritası"
-date: 2025-12-25T06:09:32+03:00
+title: "Kazıluşağı Höyük"
+date: "2025-12-25T06:09:32+03:00"
 slug: "kazilusagi-hoyuk"
 description: "### Kazıluşağı Höyük: Şefaatli'nin Gizli Hazineleri..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.717071322,39.475185251"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kazıluşağı Höyük: Şefaatli'nin Gizli Hazineleri

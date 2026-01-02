@@ -1,18 +1,17 @@
 ---
-title: "Şehit Osman Türbeleri | Miras Haritası"
-date: 2025-12-25T15:08:08+03:00
+title: "Şehit Osman Türbeleri"
+date: "2025-12-25T15:08:08+03:00"
 slug: "sehit-osman-turbeleri"
 description: "## Şehit Osman Türbeleri..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2198529,40.2610168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehit Osman Türbeleri

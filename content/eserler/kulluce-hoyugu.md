@@ -1,18 +1,17 @@
 ---
-title: "Küllüce Höyüğü | Miras Haritası"
-date: 2025-12-25T06:29:42+03:00
+title: "Küllüce Höyüğü"
+date: "2025-12-25T06:29:42+03:00"
 slug: "kulluce-hoyugu"
 description: "### Küllüce Höyüğü: Nevşehir'in Gizli Kalesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Kozaklı ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6735049,39.2383365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küllüce Höyüğü: Nevşehir'in Gizli Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "Top Kapısı, Cankurtaran | Miras Haritası"
-date: 2025-12-25T13:17:24+03:00
+title: "Top Kapısı, Cankurtaran"
+date: "2025-12-25T13:17:24+03:00"
 slug: "top-kapisi-cankurtaran"
 description: "## Top Kapısı, Cankurtaran: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9865456,41.0165176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Top Kapısı, Cankurtaran: İstanbul'un Gizli Anıtı

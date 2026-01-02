@@ -1,18 +1,17 @@
 ---
-title: "Opiza Manastırı | Miras Haritası"
-date: 2025-12-25T08:41:28+03:00
+title: "Opiza Manastırı"
+date: "2025-12-25T08:41:28+03:00"
 slug: "opiza-manastiri"
 description: "## Opiza Manastırı: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Opiza2011.jpg/1200px-Opiza2011.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.03527778,41.22361111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Opiza Manastırı: Tarihi ve Kültürel Mirasın Bir Parçası

@@ -1,18 +1,17 @@
 ---
-title: "Güdük Minare Mescidi, Birgi | Miras Haritası"
-date: 2025-12-25T00:46:48+03:00
+title: "Güdük Minare Mescidi, Birgi"
+date: "2025-12-25T00:46:48+03:00"
 slug: "guduk-minare-mescidi-birgi"
 description: "## Güdük Minare Mescidi: Bir Ödemiş Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0614796,38.2524033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güdük Minare Mescidi: Bir Ödemiş Mirası

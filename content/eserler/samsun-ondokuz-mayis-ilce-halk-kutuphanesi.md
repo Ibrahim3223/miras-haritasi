@@ -1,18 +1,17 @@
 ---
-title: "Samsun Ondokuz Mayıs İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:54:29+03:00
+title: "Samsun Ondokuz Mayıs İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:54:29+03:00"
 slug: "samsun-ondokuz-mayis-ilce-halk-kutuphanesi"
 description: "## Samsun Ondokuz Mayıs İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Vezirköprü"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "35.4559898,41.1423874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samsun Ondokuz Mayıs İlçe Halk Kütüphanesi

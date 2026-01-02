@@ -1,18 +1,17 @@
 ---
-title: "Topçubaşı Esat Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:59:30+03:00
+title: "Topçubaşı Esat Ağa Kabri"
+date: "2025-12-25T13:59:30+03:00"
 slug: "topcubasi-esat-aga-kabri"
 description: "### Topçubaşı Esat Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9205761,41.0406456"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Topçubaşı Esat Ağa Kabri

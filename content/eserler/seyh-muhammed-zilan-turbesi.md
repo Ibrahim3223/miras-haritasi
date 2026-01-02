@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhammed Zilan Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:58+03:00
+title: "Şeyh Muhammed Zilan Türbesi"
+date: "2025-12-25T14:50:58+03:00"
 slug: "seyh-muhammed-zilan-turbesi"
 description: "### Şeyh Muhammed Zilan Türbesi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2354126,38.1471672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Muhammed Zilan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Kıran Gölü Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:25+03:00
+title: "Kıran Gölü Antik Tiyatrosu"
+date: "2025-12-25T04:14:25+03:00"
 slug: "kiran-golu-antik-tiyatrosu"
 description: "# Kıran Gölü Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0032158,36.5922585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kıran Gölü Antik Tiyatrosu

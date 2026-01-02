@@ -1,18 +1,17 @@
 ---
-title: "Frig Vadisi | Miras Haritası"
-date: 2025-12-25T06:54:49+03:00
+title: "Frig Vadisi"
+date: "2025-12-25T06:54:49+03:00"
 slug: "frig-vadisi"
 description: "## Frig Vadisi: Tarihçenizi Değiştirecek Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Phrygien.jpg/1200px-Phrygien.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.52333333,39.04833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Frig Vadisi: Tarihçenizi Değiştirecek Bir Arkeolojik Sit

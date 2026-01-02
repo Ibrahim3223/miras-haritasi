@@ -1,18 +1,17 @@
 ---
-title: "Ochras | Miras Haritası"
-date: 2025-12-25T05:16:22+03:00
+title: "Ochras"
+date: "2025-12-25T05:16:22+03:00"
 slug: "ochras"
 description: "**Ochras: Antik Kentin Gizemi**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.1401,38.8733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ochras: Antik Kentin Gizemi**

@@ -1,18 +1,17 @@
 ---
-title: "Minnetler Yukarı Tümülüs | Miras Haritası"
-date: 2025-12-25T07:37:53+03:00
+title: "Minnetler Yukarı Tümülüs"
+date: "2025-12-25T07:37:53+03:00"
 slug: "minnetler-yukari-tumulus"
 description: "## Minnetler Yukarı Tümülüs..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0013542,41.4231529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Minnetler Yukarı Tümülüs

@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 1 – Gümüş | Miras Haritası"
-date: 2025-12-25T10:29:07+03:00
+title: "Çeşme 1 – Gümüş"
+date: "2025-12-25T10:29:07+03:00"
 slug: "cesme-1-gumus"
 description: "## Çeşme 1 – Gümüş: Aydın'ın Gerçek Değerini Yansıtan Bir Örnek..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4624996,37.8522987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 1 – Gümüş: Aydın'ın Gerçek Değerini Yansıtan Bir Örnek

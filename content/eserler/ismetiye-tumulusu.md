@@ -1,18 +1,17 @@
 ---
-title: "İsmetiye Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:23:11+03:00
+title: "İsmetiye Tümülüsü"
+date: "2025-12-25T07:23:11+03:00"
 slug: "ismetiye-tumulusu"
 description: "## İsmetiye Tümülüsü: Alaşehir'in Gizli Öyküsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.402478025,38.461887591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmetiye Tümülüsü: Alaşehir'in Gizli Öyküsü

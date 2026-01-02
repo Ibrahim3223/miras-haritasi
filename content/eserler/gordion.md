@@ -1,18 +1,17 @@
 ---
-title: "Gordion | Miras Haritası"
-date: 2025-12-25T06:48:02+03:00
+title: "Gordion"
+date: "2025-12-25T06:48:02+03:00"
 slug: "gordion"
 description: "## Gordion: İskiti İmparatorluk Merkezinin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_of_Gordion_3.JPG/1200px-Ruins_of_Gordion_3.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.9784831,39.6504791"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gordion: İskiti İmparatorluk Merkezinin Gizemi

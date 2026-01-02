@@ -1,18 +1,17 @@
 ---
-title: "Nassete | Miras Haritası"
-date: 2025-12-25T04:44:29+03:00
+title: "Nassete"
+date: "2025-12-25T04:44:29+03:00"
 slug: "nassete"
 description: "## Nassete Arkeolojik Sitesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.131811,40.918692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nassete Arkeolojik Sitesi

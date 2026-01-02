@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:08+03:00
+title: "İbrahim Bey Çeşmesi"
+date: "2025-12-25T10:41:08+03:00"
 slug: "ibrahim-bey-cesmesi"
 description: "## İbrahim Bey Çeşmesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.2128105,37.1806488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Bey Çeşmesi

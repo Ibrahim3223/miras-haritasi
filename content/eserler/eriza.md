@@ -1,18 +1,17 @@
 ---
-title: "Eriza | Miras Haritası"
-date: 2025-12-25T04:19:43+03:00
+title: "Eriza"
+date: "2025-12-25T04:19:43+03:00"
 slug: "eriza"
 description: "## Eriza: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eriza: Tarihî Bir Arkeolojik Sit

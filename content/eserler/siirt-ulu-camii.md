@@ -1,18 +1,17 @@
 ---
-title: "Siirt Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:02:59+03:00
+title: "Siirt Ulu Camii"
+date: "2025-12-24T22:02:59+03:00"
 slug: "siirt-ulu-camii"
 description: "## Siirt Ulu Camii: Bir歷örek Osmanlı Dönemi Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Siirt_Ulu_Camii_1761629779.jpg/1200px-Siirt_Ulu_Camii_1761629779.jpg"
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Siirt"
+province: "Siirt"
+iller: '["Siirt"]'
+district: "Bitlis Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.945333333,37.925055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Siirt Ulu Camii: Bir歷örek Osmanlı Dönemi Eseri

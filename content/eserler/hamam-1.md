@@ -1,18 +1,17 @@
 ---
-title: "Hamam 1 | Miras Haritası"
-date: 2025-12-25T16:52:55+03:00
+title: "Hamam 1"
+date: "2025-12-25T16:52:55+03:00"
 slug: "hamam-1"
 description: "## Hamam 1: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.3624001,37.9487991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamam 1: Tarihi ve Kültürel Mirasımız

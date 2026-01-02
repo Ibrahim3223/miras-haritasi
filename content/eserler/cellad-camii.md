@@ -1,18 +1,17 @@
 ---
-title: "Cellad Camii | Miras Haritası"
-date: 2025-12-24T22:49:06+03:00
+title: "Cellad Camii"
+date: "2025-12-24T22:49:06+03:00"
 slug: "cellad-camii"
 description: "## Cellad Camii Tanıtımı..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9503422,41.0070076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cellad Camii Tanıtımı

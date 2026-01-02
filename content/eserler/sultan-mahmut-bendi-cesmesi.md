@@ -1,18 +1,17 @@
 ---
-title: "Sultan Mahmut Bendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:12:15+03:00
+title: "Sultan Mahmut Bendi Çeşmesi"
+date: "2025-12-25T12:12:15+03:00"
 slug: "sultan-mahmut-bendi-cesmesi"
 description: "### Sultan Mahmut Bendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9868759,41.1897716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultan Mahmut Bendi Çeşmesi

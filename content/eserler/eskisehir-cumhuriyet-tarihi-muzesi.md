@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Cumhuriyet Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:32:44+03:00
+title: "Eskişehir Cumhuriyet Tarihi Müzesi"
+date: "2025-12-25T03:32:44+03:00"
 slug: "eskisehir-cumhuriyet-tarihi-muzesi"
 description: "## Eskişehir Cumhuriyet Tarihi Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.524027,39.765556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir Cumhuriyet Tarihi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Çakrak Köyü Kilisesi (2) | Miras Haritası"
-date: 2025-12-25T09:17:21+03:00
+title: "Çakrak Köyü Kilisesi (2)"
+date: "2025-12-25T09:17:21+03:00"
 slug: "cakrak-koyu-kilisesi-2"
 description: "# Çakrak Köyü Kilisesi: Giresun'un Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Alucra"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.601712,40.527608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çakrak Köyü Kilisesi: Giresun'un Gizli Cenneti

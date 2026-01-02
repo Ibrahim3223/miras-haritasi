@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Mehi Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:56+03:00
+title: "Mustafa Mehi Efendi Türbesi"
+date: "2025-12-25T15:24:56+03:00"
 slug: "mustafa-mehi-efendi-turbesi"
 description: "## Mustafa Mehi Efendi Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2777328,39.9015846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Mehi Efendi Türbesi

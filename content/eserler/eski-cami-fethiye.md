@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami, Fethiye | Miras Haritası"
-date: 2025-12-25T01:10:06+03:00
+title: "Eski Cami, Fethiye"
+date: "2025-12-25T01:10:06+03:00"
 slug: "eski-cami-fethiye"
 description: "## Eski Cami, Fethiye..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1089134,36.6213722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Cami, Fethiye

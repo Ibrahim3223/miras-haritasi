@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Şahnalı | Miras Haritası"
-date: 2025-12-25T12:48:44+03:00
+title: "Çeşme, Şahnalı"
+date: "2025-12-25T12:48:44+03:00"
 slug: "cesme-sahnali"
 description: "## Şahnalı Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.9347248,37.7993698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şahnalı Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirasının Bir Parçası

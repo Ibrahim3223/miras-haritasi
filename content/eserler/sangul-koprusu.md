@@ -1,18 +1,17 @@
 ---
-title: "Şangul Köprüsü | Miras Haritası"
-date: 2025-12-25T02:03:59+03:00
+title: "Şangul Köprüsü"
+date: "2025-12-25T02:03:59+03:00"
 slug: "sangul-koprusu"
 description: "## Şangul Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.067883,41.124983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şangul Köprüsü

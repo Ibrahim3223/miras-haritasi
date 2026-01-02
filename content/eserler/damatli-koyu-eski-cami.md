@@ -1,18 +1,17 @@
 ---
-title: "Damatlı Köyü Eski Cami | Miras Haritası"
-date: 2025-12-24T22:32:39+03:00
+title: "Damatlı Köyü Eski Cami"
+date: "2025-12-24T22:32:39+03:00"
 slug: "damatli-koyu-eski-cami"
 description: "## Damatlı Köyü Eski Cami: Tarihi ve Kültürel Bir Özellik..."
 featured_image: ""
 province: "Salihli"
-iller: ["Salihli"]
+iller: '["Salihli"]'
 district: "Damatlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.207098,38.4194946"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damatlı Köyü Eski Cami: Tarihi ve Kültürel Bir Özellik

@@ -1,18 +1,17 @@
 ---
-title: "Çamlıdere Kutsal Emanetler Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:24+03:00
+title: "Çamlıdere Kutsal Emanetler Müzesi"
+date: "2025-12-25T03:44:24+03:00"
 slug: "camlidere-kutsal-emanetler-muzesi"
 description: "## Çamlıdere Kutsal Emanetler Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çamlıdere"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.4693222,40.4859467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamlıdere Kutsal Emanetler Müzesi

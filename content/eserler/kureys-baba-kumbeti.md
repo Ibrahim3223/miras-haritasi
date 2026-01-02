@@ -1,18 +1,17 @@
 ---
-title: "Kureyş Baba Kümbeti | Miras Haritası"
-date: 2025-12-25T13:54:01+03:00
+title: "Kureyş Baba Kümbeti"
+date: "2025-12-25T13:54:01+03:00"
 slug: "kureys-baba-kumbeti"
 description: "## Kureyş Baba Kümbeti: Afyonkarahisar'ın Gizli Çağı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sinanpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.400278,38.764014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kureyş Baba Kümbeti: Afyonkarahisar'ın Gizli Çağı

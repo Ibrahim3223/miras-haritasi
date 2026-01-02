@@ -1,18 +1,17 @@
 ---
-title: "Çetibeli Asarı | Miras Haritası"
-date: 2025-12-25T01:24:39+03:00
+title: "Çetibeli Asarı"
+date: "2025-12-25T01:24:39+03:00"
 slug: "cetibeli-asari"
 description: "## Marmaris'in Gizli Çehresi: Çetibeli Asarı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.2891102,36.9974937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marmaris'in Gizli Çehresi: Çetibeli Asarı

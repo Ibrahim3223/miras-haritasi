@@ -1,18 +1,17 @@
 ---
-title: "Olympos Giriş Yapıları | Miras Haritası"
-date: 2025-12-25T04:14:01+03:00
+title: "Olympos Giriş Yapıları"
+date: "2025-12-25T04:14:01+03:00"
 slug: "olympos-giris-yapilari"
 description: "## Olympos Giriş Yapıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Olympos_Giriş_Yapıları.jpg/1200px-Olympos_Giriş_Yapıları.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.4716167,36.3948441"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Olympos Giriş Yapıları

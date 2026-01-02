@@ -1,18 +1,17 @@
 ---
-title: "Kilise Tepe Höyüğü, Ladik | Miras Haritası"
-date: 2025-12-25T13:48:15+03:00
+title: "Kilise Tepe Höyüğü, Ladik"
+date: "2025-12-25T13:48:15+03:00"
 slug: "kilise-tepe-hoyugu-ladik"
 description: "## Kilise Tepe Höyüğü, Ladik..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ladik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.03754,40.893632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilise Tepe Höyüğü, Ladik

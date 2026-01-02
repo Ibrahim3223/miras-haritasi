@@ -1,18 +1,17 @@
 ---
-title: "Ayios Minas Ayazması, Ayvansaray | Miras Haritası"
-date: 2025-12-25T12:40:59+03:00
+title: "Ayios Minas Ayazması, Ayvansaray"
+date: "2025-12-25T12:40:59+03:00"
 slug: "ayios-minas-ayazmasi-ayvansaray"
 description: "## Ayios Minas Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.945303,41.035759"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Minas Ayazması

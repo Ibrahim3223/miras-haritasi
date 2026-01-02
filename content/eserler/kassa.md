@@ -1,18 +1,17 @@
 ---
-title: "Kassa | Miras Haritası"
-date: 2025-12-25T04:49:03+03:00
+title: "Kassa"
+date: "2025-12-25T04:49:03+03:00"
 slug: "kassa"
 description: "## Kassa Arkeolojik Sit..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Sapanca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.263486,40.690513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kassa Arkeolojik Sit

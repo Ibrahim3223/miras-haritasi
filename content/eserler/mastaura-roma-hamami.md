@@ -1,18 +1,17 @@
 ---
-title: "Mastaura Roma Hamamı | Miras Haritası"
-date: 2025-12-25T17:01:43+03:00
+title: "Mastaura Roma Hamamı"
+date: "2025-12-25T17:01:43+03:00"
 slug: "mastaura-roma-hamami"
 description: "### Mastaura Roma Hamamı: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.3400059,37.9555321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mastaura Roma Hamamı: Aydın'ın Tarihî Mirası

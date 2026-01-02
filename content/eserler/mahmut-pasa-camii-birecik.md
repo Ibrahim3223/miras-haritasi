@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Paşa Camii, Birecik | Miras Haritası"
-date: 2025-12-24T23:55:20+03:00
+title: "Mahmut Paşa Camii, Birecik"
+date: "2025-12-24T23:55:20+03:00"
 slug: "mahmut-pasa-camii-birecik"
 description: "## Mahmut Paşa Camii: Şanlıurfa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.9799385,37.0289612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Paşa Camii: Şanlıurfa'nın Gizli Cenneti

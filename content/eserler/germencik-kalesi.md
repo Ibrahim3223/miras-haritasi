@@ -1,18 +1,17 @@
 ---
-title: "Germencik Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:12+03:00
+title: "Germencik Kalesi"
+date: "2025-12-25T01:36:12+03:00"
 slug: "germencik-kalesi"
 description: "## Germencik Kalesi..."
 featured_image: ""
 province: "Kars Eyaleti"
-iller: ["Kars Eyaleti"]
+iller: '["Kars Eyaleti"]'
 district: "Ardanuç"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.359562,40.945889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Germencik Kalesi

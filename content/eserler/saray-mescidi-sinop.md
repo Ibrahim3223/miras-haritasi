@@ -1,18 +1,17 @@
 ---
-title: "Saray Mescidi (Sinop) | Miras Haritası"
-date: 2025-12-25T00:27:44+03:00
+title: "Saray Mescidi (Sinop)"
+date: "2025-12-25T00:27:44+03:00"
 slug: "saray-mescidi-sinop"
 description: "## Saray Mescidi: Sinop'un Tarihi Camii..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1494598,42.0249901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saray Mescidi: Sinop'un Tarihi Camii

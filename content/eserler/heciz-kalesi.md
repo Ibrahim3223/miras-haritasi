@@ -1,18 +1,17 @@
 ---
-title: "Heciz Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:40+03:00
+title: "Heciz Kalesi"
+date: "2025-12-25T01:16:40+03:00"
 slug: "heciz-kalesi"
 description: "### Heciz Kalesi: Şile'nin Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.5174522,41.1210785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Heciz Kalesi: Şile'nin Gizli Kahramanı

@@ -1,18 +1,17 @@
 ---
-title: "Müze Evliyagil | Miras Haritası"
-date: 2025-12-25T03:29:48+03:00
+title: "Müze Evliyagil"
+date: "2025-12-25T03:29:48+03:00"
 slug: "muze-evliyagil"
 description: "## Müze Evliyagil..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Gölbaşı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.697861111,39.792527777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müze Evliyagil

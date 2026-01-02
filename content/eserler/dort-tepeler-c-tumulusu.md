@@ -1,18 +1,17 @@
 ---
-title: "Dört Tepeler C Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:13:15+03:00
+title: "Dört Tepeler C Tümülüsü"
+date: "2025-12-25T08:13:15+03:00"
 slug: "dort-tepeler-c-tumulusu"
 description: "## Dört Tepeler C Tümülüsü: Tekirdağ'ın Gizemli Eski Kenti..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7042465,41.461853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dört Tepeler C Tümülüsü: Tekirdağ'ın Gizemli Eski Kenti

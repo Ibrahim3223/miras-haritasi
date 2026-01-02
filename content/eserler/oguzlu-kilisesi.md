@@ -1,18 +1,17 @@
 ---
-title: "Oğuzlu Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:52+03:00
+title: "Oğuzlu Kilisesi"
+date: "2025-12-25T08:57:52+03:00"
 slug: "oguzlu-kilisesi"
 description: "## Oğuzlu Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Օղուզլուի_եկեղեցի.jpg/1200px-Օղուզլուի_եկեղեցի.jpg"
 province: "Ermenistan Demokratik Cumhuriyeti"
-iller: ["Ermenistan Demokratik Cumhuriyeti"]
+iller: '["Ermenistan Demokratik Cumhuriyeti"]'
 district: "Kars Oblastı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.5473723,40.6582459"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Oğuzlu Kilisesi

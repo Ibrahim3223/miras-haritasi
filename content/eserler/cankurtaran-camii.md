@@ -1,18 +1,17 @@
 ---
-title: "Cankurtaran Camii | Miras Haritası"
-date: 2025-12-25T00:52:13+03:00
+title: "Cankurtaran Camii"
+date: "2025-12-25T00:52:13+03:00"
 slug: "cankurtaran-camii"
 description: "### Cankurtaran Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9807835,41.0049248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cankurtaran Camii: İstanbul'un Gizli Çeşmesi

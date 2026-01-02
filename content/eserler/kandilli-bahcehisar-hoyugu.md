@@ -1,18 +1,17 @@
 ---
-title: "Kandilli / Bahçehisar Höyüğü | Miras Haritası"
-date: 2025-12-25T07:07:03+03:00
+title: "Kandilli / Bahçehisar Höyüğü"
+date: "2025-12-25T07:07:03+03:00"
 slug: "kandilli-bahcehisar-hoyugu"
 description: "## Kandilli/Bahçehisar Höyüğü: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kandilli/Bahçehisar Höyüğü: Tarihî Bir Mirasın Gizemi

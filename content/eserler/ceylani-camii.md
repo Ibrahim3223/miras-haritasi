@@ -1,18 +1,17 @@
 ---
-title: "Ceylani Camii | Miras Haritası"
-date: 2025-12-24T21:40:02+03:00
+title: "Ceylani Camii"
+date: "2025-12-24T21:40:02+03:00"
 slug: "ceylani-camii"
 description: "### Ceylani Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.930916666,41.015666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ceylani Camii

@@ -1,18 +1,17 @@
 ---
-title: "Yiğit Köhne Camii | Miras Haritası"
-date: 2025-12-24T23:48:08+03:00
+title: "Yiğit Köhne Camii"
+date: "2025-12-24T23:48:08+03:00"
 slug: "yigit-kohne-camii"
 description: "## Yiğit Köhne Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0693302,40.185112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yiğit Köhne Camii: Bursa'nın Tarihi Bir Mirası

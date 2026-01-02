@@ -1,18 +1,17 @@
 ---
-title: "Killa | Miras Haritası"
-date: 2025-12-25T04:37:33+03:00
+title: "Killa"
+date: "2025-12-25T04:37:33+03:00"
 slug: "killa"
 description: "## Killa: Tarihin Gizemli Yerleşim Yerleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Killa: Tarihin Gizemli Yerleşim Yerleri

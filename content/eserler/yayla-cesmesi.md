@@ -1,18 +1,17 @@
 ---
-title: "Yayla Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:20+03:00
+title: "Yayla Çeşmesi"
+date: "2025-12-25T10:29:20+03:00"
 slug: "yayla-cesmesi"
 description: "## Yayla Çeşmesi: Aydın'ın Göz Alıcısı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4461994,37.5895996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yayla Çeşmesi: Aydın'ın Göz Alıcısı

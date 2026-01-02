@@ -1,18 +1,17 @@
 ---
-title: "Kuytu Camii | Miras Haritası"
-date: 2025-12-25T00:13:46+03:00
+title: "Kuytu Camii"
+date: "2025-12-25T00:13:46+03:00"
 slug: "kuytu-camii"
 description: "## Kuytu Camii: Çankırı'nın Tarihî Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Korgun"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5194321,40.7359695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuytu Camii: Çankırı'nın Tarihî Mirası

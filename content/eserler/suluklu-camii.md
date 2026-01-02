@@ -1,18 +1,17 @@
 ---
-title: "Sülüklü Camii | Miras Haritası"
-date: 2025-12-25T01:08:33+03:00
+title: "Sülüklü Camii"
+date: "2025-12-25T01:08:33+03:00"
 slug: "suluklu-camii"
 description: "### Sülüklü Camii: Bursa'nın Tarihî Mimarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/20251220_Süluki_Camii_01.jpg/1200px-20251220_Süluki_Camii_01.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.061038107,40.189716337"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sülüklü Camii: Bursa'nın Tarihî Mimarı

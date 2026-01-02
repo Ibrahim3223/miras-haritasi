@@ -1,18 +1,17 @@
 ---
-title: "Tepesidelik Höyüğü | Miras Haritası"
-date: 2025-12-25T06:21:53+03:00
+title: "Tepesidelik Höyüğü"
+date: "2025-12-25T06:21:53+03:00"
 slug: "tepesidelik-hoyugu"
 description: "## Tepesidelik Höyüğü: Aksaray'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2053774,38.4711549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepesidelik Höyüğü: Aksaray'ın Gizli Cenneti

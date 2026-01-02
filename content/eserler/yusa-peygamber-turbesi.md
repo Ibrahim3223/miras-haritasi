@@ -1,18 +1,17 @@
 ---
-title: "Yuşa Peygamber Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:15+03:00
+title: "Yuşa Peygamber Türbesi"
+date: "2025-12-25T14:17:15+03:00"
 slug: "yusa-peygamber-turbesi"
 description: "## Yuşa Peygamber Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.3872,37.0619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yuşa Peygamber Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bayram-ı Veli Camii Hamamı | Miras Haritası"
-date: 2025-12-25T17:06:14+03:00
+title: "Hacı Bayram-ı Veli Camii Hamamı"
+date: "2025-12-25T17:06:14+03:00"
 slug: "haci-bayram-i-veli-camii-hamami"
 description: "## Hacı Bayram-ı Veli Camii Hamamı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8574409,39.9437218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Bayram-ı Veli Camii Hamamı

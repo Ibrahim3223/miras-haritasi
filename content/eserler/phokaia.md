@@ -1,18 +1,17 @@
 ---
-title: "Phokaia | Miras Haritası"
-date: 2025-12-25T06:47:38+03:00
+title: "Phokaia"
+date: "2025-12-25T06:47:38+03:00"
 slug: "phokaia"
 description: "## Phokaia: Foça'nın Eski Yunan Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ancient_theatre_Foça525.jpg/1200px-Ancient_theatre_Foça525.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.758055555,38.6675"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Phokaia: Foça'nın Eski Yunan Mirası

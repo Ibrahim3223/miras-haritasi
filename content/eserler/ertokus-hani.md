@@ -1,18 +1,17 @@
 ---
-title: "Ertokuş Hanı | Miras Haritası"
-date: 2025-12-25T13:39:45+03:00
+title: "Ertokuş Hanı"
+date: "2025-12-25T13:39:45+03:00"
 slug: "ertokus-hani"
 description: "## Ertokuş Hanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ertokuş_Han_01.jpg/1200px-Ertokuş_Han_01.jpg"
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Gelendost"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.970833333,37.992777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ertokuş Hanı

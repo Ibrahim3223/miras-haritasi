@@ -1,18 +1,17 @@
 ---
-title: "Asarkale, Söke | Miras Haritası"
-date: 2025-12-25T01:28:13+03:00
+title: "Asarkale, Söke"
+date: "2025-12-25T01:28:13+03:00"
 slug: "asarkale-soke"
 description: "## Asarkale: Aydın'ın Eski Kale Köyü'nde Gizli Kalan Bir Kahramanlık..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4188995,37.7710991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asarkale: Aydın'ın Eski Kale Köyü'nde Gizli Kalan Bir Kahramanlık

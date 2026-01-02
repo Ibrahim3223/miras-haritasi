@@ -1,18 +1,17 @@
 ---
-title: "Bayındır Tümülüsleri | Miras Haritası"
-date: 2025-12-25T07:15:55+03:00
+title: "Bayındır Tümülüsleri"
+date: "2025-12-25T07:15:55+03:00"
 slug: "bayindir-tumulusleri"
 description: "### Bayındır Tümülüsleri: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9592018,36.7655334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayındır Tümülüsleri: Antalya'nın Gizli Cenneti

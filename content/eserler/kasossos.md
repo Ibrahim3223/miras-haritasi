@@ -1,18 +1,17 @@
 ---
-title: "Kasossos | Miras Haritası"
-date: 2025-12-25T04:54:50+03:00
+title: "Kasossos"
+date: "2025-12-25T04:54:50+03:00"
 slug: "kasossos"
 description: "## Kasossos: Antik Çağ'ın Gizemli Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.812491,37.230248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasossos: Antik Çağ'ın Gizemli Arkeolojik Sitesi

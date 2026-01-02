@@ -1,18 +1,17 @@
 ---
-title: "Cingilli Çeşme | Miras Haritası"
-date: 2025-12-25T10:51:18+03:00
+title: "Cingilli Çeşme"
+date: "2025-12-25T10:51:18+03:00"
 slug: "cingilli-cesme"
 description: "## Cingilli Çeşme: Ürgüp'teki Bir Ölümsüz Çeşme..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9106598,38.6291199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cingilli Çeşme: Ürgüp'teki Bir Ölümsüz Çeşme

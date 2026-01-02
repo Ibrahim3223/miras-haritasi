@@ -1,18 +1,17 @@
 ---
-title: "Psarela | Miras Haritası"
-date: 2025-12-25T04:46:18+03:00
+title: "Psarela"
+date: "2025-12-25T04:46:18+03:00"
 slug: "psarela"
 description: "## Psarela: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.65718,40.913268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Psarela: Bir Arkeolojik Sitin Gizemi

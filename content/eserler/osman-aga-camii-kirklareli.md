@@ -1,18 +1,17 @@
 ---
-title: "Osman Ağa Camii, Kırklareli | Miras Haritası"
-date: 2025-12-25T00:16:50+03:00
+title: "Osman Ağa Camii, Kırklareli"
+date: "2025-12-25T00:16:50+03:00"
 slug: "osman-aga-camii-kirklareli"
 description: "### Osman Ağa Camii, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2267647,41.7367935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Osman Ağa Camii, Kırklareli

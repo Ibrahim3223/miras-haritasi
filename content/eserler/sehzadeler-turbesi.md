@@ -1,18 +1,17 @@
 ---
-title: "Şehzadeler Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:21+03:00
+title: "Şehzadeler Türbesi"
+date: "2025-12-25T14:39:21+03:00"
 slug: "sehzadeler-turbesi"
 description: "**Şehzadeler Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9518814,41.0264053"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şehzadeler Türbesi**

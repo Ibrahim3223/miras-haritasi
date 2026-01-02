@@ -1,18 +1,17 @@
 ---
-title: "Saraç Sinan Mescidi | Miras Haritası"
-date: 2025-12-24T22:41:41+03:00
+title: "Saraç Sinan Mescidi"
+date: "2025-12-24T22:41:41+03:00"
 slug: "sarac-sinan-mescidi"
 description: "### Saraç Sinan Mescidi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8685684,39.9377632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saraç Sinan Mescidi

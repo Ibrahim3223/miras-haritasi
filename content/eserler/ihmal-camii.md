@@ -1,18 +1,17 @@
 ---
-title: "İhmal Camii | Miras Haritası"
-date: 2025-12-24T23:33:47+03:00
+title: "İhmal Camii"
+date: "2025-12-24T23:33:47+03:00"
 slug: "ihmal-camii"
 description: "## İhmal Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2733498,39.9118576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İhmal Camii

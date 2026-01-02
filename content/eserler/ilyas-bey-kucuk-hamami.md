@@ -1,18 +1,17 @@
 ---
-title: "İlyas Bey Küçük Hamamı | Miras Haritası"
-date: 2025-12-25T17:08:13+03:00
+title: "İlyas Bey Küçük Hamamı"
+date: "2025-12-25T17:08:13+03:00"
 slug: "ilyas-bey-kucuk-hamami"
 description: "## İlyas Bey Küçük Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.2779236,37.5270271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlyas Bey Küçük Hamamı

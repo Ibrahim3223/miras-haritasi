@@ -1,18 +1,17 @@
 ---
-title: "Koranza Apollon Artemis ve Leto Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T08:40:14+03:00
+title: "Koranza Apollon Artemis ve Leto Kutsal Alanı"
+date: "2025-12-25T08:40:14+03:00"
 slug: "koranza-apollon-artemis-ve-leto-kutsal-alani"
 description: "## Koranza Apollon Artemis ve Leto Kutsal Alanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.0319252,37.3837852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koranza Apollon Artemis ve Leto Kutsal Alanı

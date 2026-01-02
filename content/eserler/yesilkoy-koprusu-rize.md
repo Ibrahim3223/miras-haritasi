@@ -1,18 +1,17 @@
 ---
-title: "Yeşilköy Köprüsü (Rize) | Miras Haritası"
-date: 2025-12-25T02:05:52+03:00
+title: "Yeşilköy Köprüsü (Rize)"
+date: "2025-12-25T02:05:52+03:00"
 slug: "yesilkoy-koprusu-rize"
 description: "**Yeşilköy Köprüsü: Rize'nin Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Güneysu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.5992,40.9576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yeşilköy Köprüsü: Rize'nin Tarihi ve Kültürel Mirası**

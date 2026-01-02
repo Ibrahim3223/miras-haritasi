@@ -1,18 +1,17 @@
 ---
-title: "Antik Luvi Kültür Merkezi | Miras Haritası"
-date: 2025-12-25T04:03:37+03:00
+title: "Antik Luvi Kültür Merkezi"
+date: "2025-12-25T04:03:37+03:00"
 slug: "antik-luvi-kultur-merkezi"
 description: "## Antik Luvi Kültür Merkezi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Adana"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.331736169,36.983979117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antik Luvi Kültür Merkezi

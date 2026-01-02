@@ -1,18 +1,17 @@
 ---
-title: "Ilıca Yolu Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:22:11+03:00
+title: "Ilıca Yolu Çeşmesi"
+date: "2025-12-25T12:22:11+03:00"
 slug: "ilica-yolu-cesmesi"
 description: "## Ilıca Yolu Çeşmesi: İzmir'in Şirin Çeşmesiyse......"
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3141289,38.3282852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ilıca Yolu Çeşmesi: İzmir'in Şirin Çeşmesiyse...

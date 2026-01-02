@@ -1,18 +1,17 @@
 ---
-title: "Fan Fan Mescidi | Miras Haritası"
-date: 2025-12-25T01:04:40+03:00
+title: "Fan Fan Mescidi"
+date: "2025-12-25T01:04:40+03:00"
 slug: "fan-fan-mescidi"
 description: "### Fan Fan Mescidi: Edirne'nin Gizli Dürrü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5664406,41.6803932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fan Fan Mescidi: Edirne'nin Gizli Dürrü

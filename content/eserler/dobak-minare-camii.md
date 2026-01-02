@@ -1,18 +1,17 @@
 ---
-title: "Dobak Minare Camii | Miras Haritası"
-date: 2025-12-24T22:37:07+03:00
+title: "Dobak Minare Camii"
+date: "2025-12-24T22:37:07+03:00"
 slug: "dobak-minare-camii"
 description: "## Dobak Minare Camii: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4616661,40.8706245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dobak Minare Camii: Tarihi ve Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Daşgeçit Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:43+03:00
+title: "Daşgeçit Köprüsü"
+date: "2025-12-25T02:23:43+03:00"
 slug: "dasgecit-koprusu"
 description: "## Daşgeçit Köprüsü: Tarım ve Kültür Mirasının Simgesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.1036602,36.612414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daşgeçit Köprüsü: Tarım ve Kültür Mirasının Simgesi

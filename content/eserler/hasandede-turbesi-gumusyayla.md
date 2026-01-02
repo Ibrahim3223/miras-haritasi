@@ -1,18 +1,17 @@
 ---
-title: "Hasandede Türbesi, Gümüşyayla | Miras Haritası"
-date: 2025-12-25T13:36:52+03:00
+title: "Hasandede Türbesi, Gümüşyayla"
+date: "2025-12-25T13:36:52+03:00"
 slug: "hasandede-turbesi-gumusyayla"
 description: "## Hasandede Türbesi, Gümüşyayla: Ankara'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.886360936,40.208631325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasandede Türbesi, Gümüşyayla: Ankara'nın Gizli Çiçeği

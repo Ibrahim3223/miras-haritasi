@@ -1,18 +1,17 @@
 ---
-title: "Serçe Höyük | Miras Haritası"
-date: 2025-12-25T05:54:51+03:00
+title: "Serçe Höyük"
+date: "2025-12-25T05:54:51+03:00"
 slug: "serce-hoyuk"
 description: "### Serçe Höyük: Çorum'un Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.856068,40.572094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Serçe Höyük: Çorum'un Gizli Mirası

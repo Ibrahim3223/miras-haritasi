@@ -1,18 +1,17 @@
 ---
-title: "Atıf Efendi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:08+03:00
+title: "Atıf Efendi Kütüphanesi"
+date: "2025-12-25T17:50:08+03:00"
 slug: "atif-efendi-kutuphanesi"
 description: "## Atıf Efendi Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Atif_Efendi_Kapi.JPG/1200px-Atif_Efendi_Kapi.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.959963888,41.017155555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Atıf Efendi Kütüphanesi

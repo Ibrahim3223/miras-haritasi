@@ -1,18 +1,17 @@
 ---
-title: "Turnalı Os Camii | Miras Haritası"
-date: 2025-12-24T23:17:49+03:00
+title: "Turnalı Os Camii"
+date: "2025-12-24T23:17:49+03:00"
 slug: "turnali-os-camii"
 description: "## Turnalı Os Camii: Trabzon'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Turnalı_os_camii.jpg/1200px-Turnalı_os_camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Trabzon"
+province: "Trabzon"
+iller: '["Trabzon"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.967934,40.793323"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Turnalı Os Camii: Trabzon'un Gizli Cenneti

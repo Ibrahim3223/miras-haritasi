@@ -1,18 +1,17 @@
 ---
-title: "Berta Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:08+03:00
+title: "Berta Köprüsü"
+date: "2025-12-25T02:04:08+03:00"
 slug: "berta-koprusu"
 description: "## Berta Köprüsü: Artvin'in Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.97142,41.166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Berta Köprüsü: Artvin'in Tarihi Mirası

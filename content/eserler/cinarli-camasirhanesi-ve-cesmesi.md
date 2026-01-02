@@ -1,18 +1,17 @@
 ---
-title: "Çınarlı Çamaşırhanesi ve Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:56:44+03:00
+title: "Çınarlı Çamaşırhanesi ve Çeşmesi"
+date: "2025-12-25T12:56:44+03:00"
 slug: "cinarli-camasirhanesi-ve-cesmesi"
 description: "## Çınarlı Çamaşırhanesi ve Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "25.9064007,40.1908989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çınarlı Çamaşırhanesi ve Çeşmesi

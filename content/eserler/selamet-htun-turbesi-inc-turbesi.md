@@ -1,18 +1,17 @@
 ---
-title: "Selamet Hâtun Türbesi – İnâç Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:18+03:00
+title: "Selamet Hâtun Türbesi – İnâç Türbesi"
+date: "2025-12-25T14:57:18+03:00"
 slug: "selamet-htun-turbesi-inc-turbesi"
 description: "## Selamet Hâtun Türbesi – İnâç Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8360062,40.6560402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selamet Hâtun Türbesi – İnâç Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Sanctuary of Anaiitis in Lydia, with xoanon of Artemis | Miras Haritası"
-date: 2025-12-25T08:12:13+03:00
+title: "Sanctuary of Anaiitis in Lydia, with xoanon of Artemis"
+date: "2025-12-25T08:12:13+03:00"
 slug: "sanctuary-of-anaiitis-in-lydia-with-xoanon-of-artemis"
 description: "## Liya'daki Anaitis Tapınağı ve Artemis'in Xoanon'u..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.05,38.5"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Liya'daki Anaitis Tapınağı ve Artemis'in Xoanon'u

@@ -1,18 +1,17 @@
 ---
-title: "Sadun-Oda Boro ve Amatör Denizciler Anıtı | Miras Haritası"
-date: 2025-12-25T16:09:44+03:00
+title: "Sadun-Oda Boro ve Amatör Denizciler Anıtı"
+date: "2025-12-25T16:09:44+03:00"
 slug: "sadun-oda-boro-ve-amator-denizciler-aniti"
 description: "**Sadun-Oda Boro ve Amatör Denizciler Anıtı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sadun-Oda_Boro_ve_Amatör_Denizciler_Anıtı_31.10.2025.jpg/1200px-Sadun-Oda_Boro_ve_Amatör_Denizciler_Anıtı_31.10.2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0411015,40.9765816"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Sadun-Oda Boro ve Amatör Denizciler Anıtı**

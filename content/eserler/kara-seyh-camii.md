@@ -1,18 +1,17 @@
 ---
-title: "Kara Şeyh Camii | Miras Haritası"
-date: 2025-12-24T23:40:37+03:00
+title: "Kara Şeyh Camii"
+date: "2025-12-24T23:40:37+03:00"
 slug: "kara-seyh-camii"
 description: "## Kara Şeyh Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0654278,40.1826668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Şeyh Camii

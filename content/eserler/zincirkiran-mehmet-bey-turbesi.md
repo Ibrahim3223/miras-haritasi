@@ -1,18 +1,17 @@
 ---
-title: "Zincirkıran Mehmet Bey Türbesi | Miras Haritası"
-date: 2025-12-25T13:56:42+03:00
+title: "Zincirkıran Mehmet Bey Türbesi"
+date: "2025-12-25T13:56:42+03:00"
 slug: "zincirkiran-mehmet-bey-turbesi"
 description: "## Zincirkıran Mehmet Bey Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.7045555,36.886982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zincirkıran Mehmet Bey Türbesi

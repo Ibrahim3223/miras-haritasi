@@ -1,18 +1,17 @@
 ---
-title: "Gunatle Manastırı | Miras Haritası"
-date: 2025-12-25T08:58:43+03:00
+title: "Gunatle Manastırı"
+date: "2025-12-25T08:58:43+03:00"
 slug: "gunatle-manastiri"
 description: "### Gunatle Manastırı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Susuz"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.298666666,41.244916666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gunatle Manastırı: Tarihi ve Kültürel Miras

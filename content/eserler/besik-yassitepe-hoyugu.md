@@ -1,18 +1,17 @@
 ---
-title: "Beşik - Yassıtepe Höyüğü | Miras Haritası"
-date: 2025-12-25T14:00:32+03:00
+title: "Beşik - Yassıtepe Höyüğü"
+date: "2025-12-25T14:00:32+03:00"
 slug: "besik-yassitepe-hoyugu"
 description: "## Beşik - Yassıtepe Höyüğü: Türkiye'nin Önemli Anıtlarından Birisi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşik - Yassıtepe Höyüğü: Türkiye'nin Önemli Anıtlarından Birisi

@@ -1,18 +1,17 @@
 ---
-title: "Havza İmareti Kümbeti Samsun | Miras Haritası"
-date: 2025-12-25T13:57:22+03:00
+title: "Havza İmareti Kümbeti Samsun"
+date: "2025-12-25T13:57:22+03:00"
 slug: "havza-imareti-kumbeti-samsun"
 description: "## Havza İmareti Kümbeti Samsun: Samsun'un Gizli Çehresini Bekleyen Bir Anıt..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Havza"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.6563339,40.9711075"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havza İmareti Kümbeti Samsun: Samsun'un Gizli Çehresini Bekleyen Bir Anıt

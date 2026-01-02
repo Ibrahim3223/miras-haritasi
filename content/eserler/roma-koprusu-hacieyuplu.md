@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Hacıeyüplü | Miras Haritası"
-date: 2025-12-25T02:55:52+03:00
+title: "Roma Köprüsü, Hacıeyüplü"
+date: "2025-12-25T02:55:52+03:00"
 slug: "roma-koprusu-hacieyuplu"
 description: "# Roma Köprüsü, Hacıeyüplü..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0357285,37.8415871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Roma Köprüsü, Hacıeyüplü

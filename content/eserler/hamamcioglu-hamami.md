@@ -1,18 +1,17 @@
 ---
-title: "Hamamcıoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:26:21+03:00
+title: "Hamamcıoğlu Hamamı"
+date: "2025-12-25T16:26:21+03:00"
 slug: "hamamcioglu-hamami"
 description: "## Hamamcıoğlu Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.0088105,39.7461993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamamcıoğlu Hamamı

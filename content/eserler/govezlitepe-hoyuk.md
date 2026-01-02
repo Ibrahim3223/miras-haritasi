@@ -1,18 +1,17 @@
 ---
-title: "Gövezlitepe Höyük | Miras Haritası"
-date: 2025-12-25T13:48:35+03:00
+title: "Gövezlitepe Höyük"
+date: "2025-12-25T13:48:35+03:00"
 slug: "govezlitepe-hoyuk"
 description: "# Gövezlitepe Höyük: Karaman'ın Gizli Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ayrancı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.5957413,37.5408478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gövezlitepe Höyük: Karaman'ın Gizli Mirası

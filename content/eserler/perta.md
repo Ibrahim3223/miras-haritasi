@@ -1,18 +1,17 @@
 ---
-title: "Perta | Miras Haritası"
-date: 2025-12-25T05:14:26+03:00
+title: "Perta"
+date: "2025-12-25T05:14:26+03:00"
 slug: "perta"
 description: "## Perta: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Altınekin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.076657,38.167719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perta: Konya'nın Gizli Cenneti

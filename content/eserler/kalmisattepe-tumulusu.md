@@ -1,18 +1,17 @@
 ---
-title: "Kalmışattepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:23:58+03:00
+title: "Kalmışattepe Tümülüsü"
+date: "2025-12-25T07:23:58+03:00"
 slug: "kalmisattepe-tumulusu"
 description: "**Kalmışattepe Tümülüsü**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.70961,38.3607674"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kalmışattepe Tümülüsü**

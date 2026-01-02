@@ -1,18 +1,17 @@
 ---
-title: "Afrodisias Odeionu veya Bouleuterionu | Miras Haritası"
-date: 2025-12-25T08:23:49+03:00
+title: "Afrodisias Odeionu veya Bouleuterionu"
+date: "2025-12-25T08:23:49+03:00"
 slug: "afrodisias-odeionu-veya-bouleuterionu"
 description: "## Afrodisias Odeionu veya Bouleuterionu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Afrodisias_-_Aphrodisias_-_Odeón.jpg/1200px-Afrodisias_-_Aphrodisias_-_Odeón.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.723637,37.709228"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Afrodisias Odeionu veya Bouleuterionu

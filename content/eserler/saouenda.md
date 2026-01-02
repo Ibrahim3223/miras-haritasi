@@ -1,18 +1,17 @@
 ---
-title: "Saouenda | Miras Haritası"
-date: 2025-12-25T05:13:14+03:00
+title: "Saouenda"
+date: "2025-12-25T05:13:14+03:00"
 slug: "saouenda"
 description: "## Saouenda: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.944572,38.098071"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saouenda: Tarihî Bir Mirasın İzleri

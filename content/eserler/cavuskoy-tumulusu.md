@@ -1,18 +1,17 @@
 ---
-title: "Çavuşköy Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:37:06+03:00
+title: "Çavuşköy Tümülüsü"
+date: "2025-12-25T07:37:06+03:00"
 slug: "cavuskoy-tumulusu"
 description: "**Çavuşköy Tümülüsü**..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Enez"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.1651535,40.6932373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çavuşköy Tümülüsü**

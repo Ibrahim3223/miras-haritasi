@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:49+03:00
+title: "Mehmet Ağa Türbesi"
+date: "2025-12-25T14:40:49+03:00"
 slug: "mehmet-aga-turbesi"
 description: "## Mehmet Ağa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mehmet_Ağa_Türbesi.jpg/1200px-Mehmet_Ağa_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9456329,41.0268745"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mehmet Ağa Türbesi

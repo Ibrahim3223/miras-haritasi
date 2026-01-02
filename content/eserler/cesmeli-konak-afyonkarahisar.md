@@ -1,18 +1,17 @@
 ---
-title: "Çeşmeli Konak, Afyonkarahisar | Miras Haritası"
-date: 2025-12-25T03:43:49+03:00
+title: "Çeşmeli Konak, Afyonkarahisar"
+date: "2025-12-25T03:43:49+03:00"
 slug: "cesmeli-konak-afyonkarahisar"
 description: "**Çeşmeli Konak, Afyonkarahisar: Tarihi Bir Müze**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.5358887,38.7593994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çeşmeli Konak, Afyonkarahisar: Tarihi Bir Müze**

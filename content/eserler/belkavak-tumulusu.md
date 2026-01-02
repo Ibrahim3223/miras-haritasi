@@ -1,18 +1,17 @@
 ---
-title: "Belkavak Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:55:24+03:00
+title: "Belkavak Tümülüsü"
+date: "2025-12-25T07:55:24+03:00"
 slug: "belkavak-tumulusu"
 description: "#### Belkavak Tümülüsü..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.8905125,39.8186493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 #### Belkavak Tümülüsü

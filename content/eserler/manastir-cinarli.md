@@ -1,18 +1,17 @@
 ---
-title: "Manastır – Çınarlı | Miras Haritası"
-date: 2025-12-25T09:57:36+03:00
+title: "Manastır – Çınarlı"
+date: "2025-12-25T09:57:36+03:00"
 slug: "manastir-cinarli"
 description: "## Manastır – Çınarlı: Gökçeada'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.9074993,40.1882019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manastır – Çınarlı: Gökçeada'nın Gizli Cenneti

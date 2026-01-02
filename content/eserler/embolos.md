@@ -1,18 +1,17 @@
 ---
-title: "Embolos | Miras Haritası"
-date: 2025-12-25T04:52:54+03:00
+title: "Embolos"
+date: "2025-12-25T04:52:54+03:00"
 slug: "embolos"
 description: "## Embolos: Türkiye'nin Eski Çağ Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.1665825,40.7723955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Embolos: Türkiye'nin Eski Çağ Mirası

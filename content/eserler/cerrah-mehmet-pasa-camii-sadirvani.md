@@ -1,18 +1,17 @@
 ---
-title: "Cerrah Mehmet Paşa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:01:34+03:00
+title: "Cerrah Mehmet Paşa Camii Şadırvanı"
+date: "2025-12-25T10:01:34+03:00"
 slug: "cerrah-mehmet-pasa-camii-sadirvani"
 description: "## Cerrah Mehmet Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9447595,41.0077761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cerrah Mehmet Paşa Camii Şadırvanı

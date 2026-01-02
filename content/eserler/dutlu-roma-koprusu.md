@@ -1,18 +1,17 @@
 ---
-title: "Dutlu Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:20+03:00
+title: "Dutlu Roma Köprüsü"
+date: "2025-12-25T02:29:20+03:00"
 slug: "dutlu-roma-koprusu"
 description: "# Dutlu Roma Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.2933006,41.3685989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dutlu Roma Köprüsü

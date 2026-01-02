@@ -1,18 +1,17 @@
 ---
-title: "Sergen Köyü Eski Camii | Miras Haritası"
-date: 2025-12-25T00:24:17+03:00
+title: "Sergen Köyü Eski Camii"
+date: "2025-12-25T00:24:17+03:00"
 slug: "sergen-koyu-eski-camii"
 description: "# Sergen Köyü Eski Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7093105,41.7062302"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sergen Köyü Eski Camii

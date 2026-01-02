@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:31:42+03:00
+title: "Mustafa Ağa Çeşmesi"
+date: "2025-12-25T11:31:42+03:00"
 slug: "mustafa-aga-cesmesi"
 description: "## Mustafa Ağa Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: ["Bodrum"]
+iller: '["Bodrum"]'
 district: "Turgutreis"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2770004,36.9995995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Ağa Çeşmesi

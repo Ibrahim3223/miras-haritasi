@@ -1,18 +1,17 @@
 ---
-title: "Hacıbektaş Arkeoloji ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:55+03:00
+title: "Hacıbektaş Arkeoloji ve Etnografya Müzesi"
+date: "2025-12-25T03:37:55+03:00"
 slug: "hacibektas-arkeoloji-ve-etnografya-muzesi"
 description: "## Hacıbektaş Arkeoloji ve Etnografya Müzesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.559956,38.941734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıbektaş Arkeoloji ve Etnografya Müzesi

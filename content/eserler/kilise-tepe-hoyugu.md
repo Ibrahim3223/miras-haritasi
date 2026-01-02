@@ -1,18 +1,17 @@
 ---
-title: "Kilise Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:04:24+03:00
+title: "Kilise Tepe Höyüğü"
+date: "2025-12-25T07:04:24+03:00"
 slug: "kilise-tepe-hoyugu"
 description: "# Kilise Tepe Höyüğü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kilise_Tepe_02.jpg/1200px-Kilise_Tepe_02.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.5535,36.50244"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kilise Tepe Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Taşçı Hamamı | Miras Haritası"
-date: 2025-12-25T16:55:31+03:00
+title: "Taşçı Hamamı"
+date: "2025-12-25T16:55:31+03:00"
 slug: "tasci-hamami"
 description: "## Taşçı Hamamı: Erzincan'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.4817085,39.7232895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşçı Hamamı: Erzincan'ın Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kaleköy Kalesi, Mazgirt | Miras Haritası"
-date: 2025-12-25T01:17:43+03:00
+title: "Kaleköy Kalesi, Mazgirt"
+date: "2025-12-25T01:17:43+03:00"
 slug: "kalekoy-kalesi-mazgirt"
 description: "## Kaleköy Kalesi: Mazgirt'in Tarihî Mirası..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Mazgirt"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.6613312,39.026989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleköy Kalesi: Mazgirt'in Tarihî Mirası

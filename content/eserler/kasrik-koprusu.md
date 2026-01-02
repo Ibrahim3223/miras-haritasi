@@ -1,18 +1,18 @@
 ---
-title: "Kasrik Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:01+03:00
+title: "Kasrik Köprüsü"
+date: "2025-12-25T02:24:01+03:00"
 slug: "kasrik-koprusu"
 description: "## Kasrik Köprüsü..."
-featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kasrik_Köprüsü.jpg/1200px-Kasrik_Köprüsü.jpg"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.8900623,38.223032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kasrik_Köprüsü.jpg/1200px-Kasrik_Köprüsü.jpg"
 ---
 
 ## Kasrik Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Dikmen Höyük | Miras Haritası"
-date: 2025-12-25T06:15:08+03:00
+title: "Dikmen Höyük"
+date: "2025-12-25T06:15:08+03:00"
 slug: "dikmen-hoyuk"
 description: "**Dikmen Höyük: Mardin’in Gizli Kahramanı**..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.412712174,37.090305861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Dikmen Höyük: Mardin’in Gizli Kahramanı**

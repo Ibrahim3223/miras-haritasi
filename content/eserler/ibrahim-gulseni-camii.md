@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Gülşeni Camii | Miras Haritası"
-date: 2025-12-25T01:02:37+03:00
+title: "İbrahim Gülşeni Camii"
+date: "2025-12-25T01:02:37+03:00"
 slug: "ibrahim-gulseni-camii"
 description: "### İbrahim Gülşeni Camii..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İbrahim Gülşeni Camii

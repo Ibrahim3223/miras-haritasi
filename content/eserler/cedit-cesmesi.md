@@ -1,18 +1,17 @@
 ---
-title: "Cedit Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:41:45+03:00
+title: "Cedit Çeşmesi"
+date: "2025-12-25T11:41:45+03:00"
 slug: "cedit-cesmesi"
 description: "**Cedit Çeşmesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2783813,39.9094429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Cedit Çeşmesi**

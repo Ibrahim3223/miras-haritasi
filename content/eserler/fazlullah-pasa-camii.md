@@ -1,18 +1,17 @@
 ---
-title: "Fazlullah Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:03:35+03:00
+title: "Fazlullah Paşa Camii"
+date: "2025-12-24T23:03:35+03:00"
 slug: "fazlullah-pasa-camii"
 description: "## Fazlullah Paşa Camii..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5559464,41.6784782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fazlullah Paşa Camii

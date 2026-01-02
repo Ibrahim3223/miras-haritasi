@@ -1,18 +1,17 @@
 ---
-title: "Sasa Bey Hamamı | Miras Haritası"
-date: 2025-12-25T16:24:47+03:00
+title: "Sasa Bey Hamamı"
+date: "2025-12-25T16:24:47+03:00"
 slug: "sasa-bey-hamami"
 description: "## Sasa Bey Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sasabey_Turkish_bath,_Akhisar.JPG/1200px-Sasabey_Turkish_bath,_Akhisar.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.839888888,38.924694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sasa Bey Hamamı

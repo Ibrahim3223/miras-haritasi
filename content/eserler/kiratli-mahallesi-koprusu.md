@@ -1,18 +1,17 @@
 ---
-title: "Kıratlı Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:39:29+03:00
+title: "Kıratlı Mahallesi Köprüsü"
+date: "2025-12-25T02:39:29+03:00"
 slug: "kiratli-mahallesi-koprusu"
 description: "### Kıratlı Mahallesi Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Yomra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.835697,40.835606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kıratlı Mahallesi Köprüsü

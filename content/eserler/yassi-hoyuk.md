@@ -1,18 +1,17 @@
 ---
-title: "Yassı Höyük | Miras Haritası"
-date: 2025-12-25T05:33:02+03:00
+title: "Yassı Höyük"
+date: "2025-12-25T05:33:02+03:00"
 slug: "yassi-hoyuk"
 description: "## Yassı Höyük: Gölpazarı'nın Gizli Zenginliği..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Gölpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.264387,40.255146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yassı Höyük: Gölpazarı'nın Gizli Zenginliği

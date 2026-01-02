@@ -1,18 +1,17 @@
 ---
-title: "Güzelşeyh Kasrı ve Medresesi | Miras Haritası"
-date: 2025-12-25T17:34:20+03:00
+title: "Güzelşeyh Kasrı ve Medresesi"
+date: "2025-12-25T17:34:20+03:00"
 slug: "guzelseyh-kasri-ve-medresesi"
 description: "### Güzelşeyh Kasrı ve Medresesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "40.4245529,37.7643661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güzelşeyh Kasrı ve Medresesi

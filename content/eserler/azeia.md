@@ -1,18 +1,17 @@
 ---
-title: "Azeia | Miras Haritası"
-date: 2025-12-25T04:41:13+03:00
+title: "Azeia"
+date: "2025-12-25T04:41:13+03:00"
 slug: "azeia"
 description: "## Azeia Arkeolojik Sitesi: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Azeia Arkeolojik Sitesi: Antik Çağın Gizemi

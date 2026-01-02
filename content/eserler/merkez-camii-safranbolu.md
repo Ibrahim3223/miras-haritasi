@@ -1,18 +1,17 @@
 ---
-title: "Merkez Camii (Safranbolu) | Miras Haritası"
-date: 2025-12-25T00:39:46+03:00
+title: "Merkez Camii (Safranbolu)"
+date: "2025-12-25T00:39:46+03:00"
 slug: "merkez-camii-safranbolu"
 description: "## Merkez Camii (Safranbolu)..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.798805572,41.222983337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merkez Camii (Safranbolu)

@@ -1,18 +1,17 @@
 ---
-title: "Lalapaşa Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:10:00+03:00
+title: "Lalapaşa Merkez Camii"
+date: "2025-12-25T00:10:00+03:00"
 slug: "lalapasa-merkez-camii"
 description: "## Lalapaşa Merkez Camii..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7334995,41.8392334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lalapaşa Merkez Camii

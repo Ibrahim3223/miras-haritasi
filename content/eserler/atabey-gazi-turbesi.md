@@ -1,18 +1,17 @@
 ---
-title: "Atabey Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:00+03:00
+title: "Atabey Gazi Türbesi"
+date: "2025-12-25T14:58:00+03:00"
 slug: "atabey-gazi-turbesi"
 description: "## Atabey Gazi Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7713699,41.3754387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atabey Gazi Türbesi

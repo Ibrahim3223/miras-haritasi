@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Hacırahmanlı | Miras Haritası"
-date: 2025-12-25T00:26:38+03:00
+title: "Çarşı Camii, Hacırahmanlı"
+date: "2025-12-25T00:26:38+03:00"
 slug: "carsi-camii-hacirahmanli"
 description: "# Çarşı Camii, Hacırahmanlı: Manisa'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Saruhanlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6023502,38.750946"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çarşı Camii, Hacırahmanlı: Manisa'da Bir Tarihî Miras

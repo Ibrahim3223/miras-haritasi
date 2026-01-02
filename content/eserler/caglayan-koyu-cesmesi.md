@@ -1,18 +1,17 @@
 ---
-title: "Çağlayan Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:30+03:00
+title: "Çağlayan Köyü Çeşmesi"
+date: "2025-12-25T10:16:30+03:00"
 slug: "caglayan-koyu-cesmesi"
 description: "## Çağlayan Köyü Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.6080551,40.7286224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlayan Köyü Çeşmesi

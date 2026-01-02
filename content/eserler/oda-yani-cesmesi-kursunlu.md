@@ -1,18 +1,17 @@
 ---
-title: "Oda Yanı Çeşmesi, Kurşunlu | Miras Haritası"
-date: 2025-12-25T12:31:37+03:00
+title: "Oda Yanı Çeşmesi, Kurşunlu"
+date: "2025-12-25T12:31:37+03:00"
 slug: "oda-yani-cesmesi-kursunlu"
 description: "## Oda Yanı Çeşmesi, Kurşunlu..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.420704822,40.839322028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oda Yanı Çeşmesi, Kurşunlu

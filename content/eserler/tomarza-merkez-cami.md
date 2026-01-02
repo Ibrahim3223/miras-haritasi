@@ -1,18 +1,17 @@
 ---
-title: "Tomarza Merkez Cami | Miras Haritası"
-date: 2025-12-25T00:44:56+03:00
+title: "Tomarza Merkez Cami"
+date: "2025-12-25T00:44:56+03:00"
 slug: "tomarza-merkez-cami"
 description: "## Tomarza Merkez Cami: Kayseri'nin Tarihi Özellikleri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Tomarza"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.801739548,38.449047872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tomarza Merkez Cami: Kayseri'nin Tarihi Özellikleri

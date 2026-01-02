@@ -1,18 +1,17 @@
 ---
-title: "Rahime Sultan Camii | Miras Haritası"
-date: 2025-12-24T22:38:04+03:00
+title: "Rahime Sultan Camii"
+date: "2025-12-24T22:38:04+03:00"
 slug: "rahime-sultan-camii"
 description: "## Rahime Sultan Camii: Sakarya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sakarya"
+province: "Sakarya"
+iller: '["Sakarya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.3092518,40.700428"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rahime Sultan Camii: Sakarya'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şehitler Anıtı, Beydağ | Miras Haritası"
-date: 2025-12-25T15:49:55+03:00
+title: "Şehitler Anıtı, Beydağ"
+date: "2025-12-25T15:49:55+03:00"
 slug: "sehitler-aniti-beydag"
 description: "## Şehitler Anıtı: İzmir'in Efsanevi Anıtının Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Beydağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.2089176,38.0825653"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehitler Anıtı: İzmir'in Efsanevi Anıtının Gizemi

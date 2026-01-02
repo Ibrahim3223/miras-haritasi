@@ -1,18 +1,17 @@
 ---
-title: "Dede Sultan Süt Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:27:52+03:00
+title: "Dede Sultan Süt Baba Kabri"
+date: "2025-12-25T13:27:52+03:00"
 slug: "dede-sultan-sut-baba-kabri"
 description: "## Dede Sultan Süt Baba Kabri: Üsküdar'ın Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dede_Sultan_Süt_Baba_Kabri.jpg/1200px-Dede_Sultan_Süt_Baba_Kabri.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.020958854,41.013256147"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dede Sultan Süt Baba Kabri: Üsküdar'ın Gizli Mücevheri

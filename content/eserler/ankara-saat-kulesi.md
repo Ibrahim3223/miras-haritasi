@@ -1,18 +1,17 @@
 ---
-title: "Ankara Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:20:38+03:00
+title: "Ankara Saat Kulesi"
+date: "2025-12-25T17:20:38+03:00"
 slug: "ankara-saat-kulesi"
 description: "## Ankara Saat Kulesi: Ankara'nın Simgesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ankara_Clock_Tower_(12984453165).jpg/1200px-Ankara_Clock_Tower_(12984453165).jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "32.86349722,39.93781111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ankara Saat Kulesi: Ankara'nın Simgesi

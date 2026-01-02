@@ -1,18 +1,17 @@
 ---
-title: "Devr-i Alem Gaziantep Para Müzesi | Miras Haritası"
-date: 2025-12-25T03:46:58+03:00
+title: "Devr-i Alem Gaziantep Para Müzesi"
+date: "2025-12-25T03:46:58+03:00"
 slug: "devr-i-alem-gaziantep-para-muzesi"
 description: "## Devr-i Alem Gaziantep Para Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.3820152,37.0645332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Devr-i Alem Gaziantep Para Müzesi

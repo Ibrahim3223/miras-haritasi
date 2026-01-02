@@ -1,18 +1,17 @@
 ---
-title: "Yeğenbey Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:38:20+03:00
+title: "Yeğenbey Çeşmesi"
+date: "2025-12-25T12:38:20+03:00"
 slug: "yegenbey-cesmesi"
 description: "## Yeğenbey Çeşmesi: Ankara'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8593941,39.938755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeğenbey Çeşmesi: Ankara'nın Tarihi Bir Çeşmesi

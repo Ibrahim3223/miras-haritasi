@@ -1,18 +1,17 @@
 ---
-title: "Yarenler Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:54+03:00
+title: "Yarenler Sultan Türbesi"
+date: "2025-12-25T15:15:54+03:00"
 slug: "yarenler-sultan-turbesi"
 description: "# Yarenler Sultan Türbesi: Afyonkarahisar'ın Gizli Çehresi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5315,38.7597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yarenler Sultan Türbesi: Afyonkarahisar'ın Gizli Çehresi

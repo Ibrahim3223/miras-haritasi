@@ -1,18 +1,17 @@
 ---
-title: "Mihrimah Sultan Külliyesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:36:38+03:00
+title: "Mihrimah Sultan Külliyesi Çeşmesi"
+date: "2025-12-25T10:36:38+03:00"
 slug: "mihrimah-sultan-kulliyesi-cesmesi"
 description: "## Mihrimah Sultan Külliyesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.015882,41.02705"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mihrimah Sultan Külliyesi Çeşmesi

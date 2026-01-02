@@ -1,18 +1,17 @@
 ---
-title: "İaza | Miras Haritası"
-date: 2025-12-25T05:06:56+03:00
+title: "İaza"
+date: "2025-12-25T05:06:56+03:00"
 slug: "iaza"
 description: "## İaza Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.606799,38.586969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İaza Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Telmessos Kaya Mezarları 1 | Miras Haritası"
-date: 2025-12-25T13:22:44+03:00
+title: "Telmessos Kaya Mezarları 1"
+date: "2025-12-25T13:22:44+03:00"
 slug: "telmessos-kaya-mezarlari-1"
 description: "## Telmessos Kaya Mezarları 1: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Telmessos_Kaya_Mezarları_1.jpg/1200px-Telmessos_Kaya_Mezarları_1.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1184025,36.61903"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Telmessos Kaya Mezarları 1: Tarihî Bir Mirasın Gizemi

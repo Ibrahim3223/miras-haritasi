@@ -1,18 +1,17 @@
 ---
-title: "Çömlektepe Höyük | Miras Haritası"
-date: 2025-12-25T13:49:39+03:00
+title: "Çömlektepe Höyük"
+date: "2025-12-25T13:49:39+03:00"
 slug: "comlektepe-hoyuk"
 description: "## Çömlektepe Höyük: Tarih ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ayrancı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7637863,37.2478485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çömlektepe Höyük: Tarih ve Kültürel Mirasın Gizemi

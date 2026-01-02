@@ -1,18 +1,17 @@
 ---
-title: "Zindan Mağarası | Miras Haritası"
-date: 2025-12-25T08:11:04+03:00
+title: "Zindan Mağarası"
+date: "2025-12-25T08:11:04+03:00"
 slug: "zindan-magarasi"
 description: "## Zindan Mağarası: Isparta'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Aksu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.0849883,37.8117655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zindan Mağarası: Isparta'nın Gizli Çiçeği

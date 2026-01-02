@@ -1,18 +1,17 @@
 ---
-title: "Termera | Miras Haritası"
-date: 2025-12-25T04:23:18+03:00
+title: "Termera"
+date: "2025-12-25T04:23:18+03:00"
 slug: "termera"
 description: "## Termera Arkeolojik Siti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.298363,36.995872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Termera Arkeolojik Siti

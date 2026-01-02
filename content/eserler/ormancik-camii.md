@@ -1,18 +1,17 @@
 ---
-title: "Ormancık Camii | Miras Haritası"
-date: 2025-12-25T00:40:42+03:00
+title: "Ormancık Camii"
+date: "2025-12-25T00:40:42+03:00"
 slug: "ormancik-camii"
 description: "### Ormancık Camii: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Dernekpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.222318445,40.770523245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ormancık Camii: Trabzon'un Gizli Cenneti

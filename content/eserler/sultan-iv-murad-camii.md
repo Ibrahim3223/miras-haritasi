@@ -1,18 +1,17 @@
 ---
-title: "Sultan IV. Murad Camii | Miras Haritası"
-date: 2025-12-24T23:08:43+03:00
+title: "Sultan IV. Murad Camii"
+date: "2025-12-24T23:08:43+03:00"
 slug: "sultan-iv-murad-camii"
 description: "### Sultan IV. Murad Camii..."
 featured_image: ""
-province: "İç Anadolu Bölgesi"
-iller: ["İç Anadolu Bölgesi"]
-district: "Çankırı"
+province: "Çankırı"
+iller: '["Çankırı"]'
+district: "İç Anadolu Bölgesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8936081,40.8116417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultan IV. Murad Camii

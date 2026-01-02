@@ -1,18 +1,17 @@
 ---
-title: "Tynna | Miras Haritası"
-date: 2025-12-25T05:17:51+03:00
+title: "Tynna"
+date: "2025-12-25T05:17:51+03:00"
 slug: "tynna"
 description: "## Tynna Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.564162,37.520926"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tynna Arkeolojik Sit

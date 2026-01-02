@@ -1,18 +1,17 @@
 ---
-title: "Cemaleddin İshak Karamani Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:44+03:00
+title: "Cemaleddin İshak Karamani Türbesi"
+date: "2025-12-25T14:27:44+03:00"
 slug: "cemaleddin-ishak-karamani-turbesi"
 description: "## Cemaleddin İshak Karamani Türbesi: Beyoğlu'ndaki Bir Anıtın Tarihi ve Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9414272,41.04916"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cemaleddin İshak Karamani Türbesi: Beyoğlu'ndaki Bir Anıtın Tarihi ve Özellikleri

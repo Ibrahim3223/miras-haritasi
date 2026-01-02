@@ -1,18 +1,17 @@
 ---
-title: "Belören Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:06+03:00
+title: "Belören Kalesi"
+date: "2025-12-25T01:23:06+03:00"
 slug: "beloren-kalesi"
 description: "## Belören Kalesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.969244449,36.302282949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belören Kalesi

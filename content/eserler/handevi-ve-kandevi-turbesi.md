@@ -1,18 +1,17 @@
 ---
-title: "Handevi ve Kandevi Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:03+03:00
+title: "Handevi ve Kandevi Türbesi"
+date: "2025-12-25T14:17:03+03:00"
 slug: "handevi-ve-kandevi-turbesi"
 description: "## Handevi ve Kandevi Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ilgın"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.886434,38.279279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Handevi ve Kandevi Türbesi

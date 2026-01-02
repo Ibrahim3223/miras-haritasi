@@ -1,18 +1,17 @@
 ---
-title: "Adilşah Kadın Kabri | Miras Haritası"
-date: 2025-12-25T13:35:03+03:00
+title: "Adilşah Kadın Kabri"
+date: "2025-12-25T13:35:03+03:00"
 slug: "adilsah-kadin-kabri"
 description: "### Adilşah Kadın Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9560105,41.0098619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Adilşah Kadın Kabri

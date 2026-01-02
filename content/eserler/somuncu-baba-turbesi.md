@@ -1,18 +1,17 @@
 ---
-title: "Somuncu Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:01+03:00
+title: "Somuncu Baba Türbesi"
+date: "2025-12-25T14:38:01+03:00"
 slug: "somuncu-baba-turbesi"
 description: "## Somuncu Baba Türbesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Darende"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.4921989,38.5768013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Somuncu Baba Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Sarıdanişment G Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:45:50+03:00
+title: "Sarıdanişment G Tümülüsü"
+date: "2025-12-25T07:45:50+03:00"
 slug: "saridanisment-g-tumulusu"
 description: "## Sarıdanişment G Tümülüsü: Edirne'nin Gizli Hazineleri..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8241425,41.8708496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıdanişment G Tümülüsü: Edirne'nin Gizli Hazineleri

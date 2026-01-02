@@ -1,18 +1,17 @@
 ---
-title: "Cami Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:52+03:00
+title: "Cami Köprüsü"
+date: "2025-12-25T02:33:52+03:00"
 slug: "cami-koprusu"
 description: "## Görele Cami Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.084999,40.95834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Görele Cami Köprüsü

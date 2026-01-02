@@ -1,18 +1,17 @@
 ---
-title: "Yalıköy Vakıf Camii | Miras Haritası"
-date: 2025-12-24T23:44:29+03:00
+title: "Yalıköy Vakıf Camii"
+date: "2025-12-24T23:44:29+03:00"
 slug: "yalikoy-vakif-camii"
 description: "# Yalıköy Vakıf Camii: Ordu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ordu"
+province: "Ordu"
+iller: '["Ordu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.6127472,41.0508614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yalıköy Vakıf Camii: Ordu'nun Tarihi ve Kültürel Mirası

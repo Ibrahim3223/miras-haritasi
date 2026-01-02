@@ -1,18 +1,17 @@
 ---
-title: "Saray Hamamı, Kastamonu | Miras Haritası"
-date: 2025-12-25T17:07:19+03:00
+title: "Saray Hamamı, Kastamonu"
+date: "2025-12-25T17:07:19+03:00"
 slug: "saray-hamami-kastamonu"
 description: "## Saray Hamamı, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.7780952,41.3753967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saray Hamamı, Kastamonu

@@ -1,18 +1,17 @@
 ---
-title: "Votar Mevki Manastırı | Miras Haritası"
-date: 2025-12-25T09:56:20+03:00
+title: "Votar Mevki Manastırı"
+date: "2025-12-25T09:56:20+03:00"
 slug: "votar-mevki-manastiri"
 description: "## Votar Mevki Manastırı: Gökçeada'nın Gizemli Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.8460007,40.1733017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Votar Mevki Manastırı: Gökçeada'nın Gizemli Manastırı

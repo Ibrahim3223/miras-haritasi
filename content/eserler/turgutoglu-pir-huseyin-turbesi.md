@@ -1,18 +1,17 @@
 ---
-title: "Turgutoğlu Pir Hüseyin Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:36+03:00
+title: "Turgutoğlu Pir Hüseyin Türbesi"
+date: "2025-12-25T14:51:36+03:00"
 slug: "turgutoglu-pir-huseyin-turbesi"
 description: "## Turgutoğlu Pir Hüseyin Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4833069,37.8696098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turgutoğlu Pir Hüseyin Türbesi

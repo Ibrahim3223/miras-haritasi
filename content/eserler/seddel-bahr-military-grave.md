@@ -1,18 +1,17 @@
 ---
-title: "Seddel-Bahr Military Grave | Miras Haritası"
-date: 2025-12-25T16:07:02+03:00
+title: "Seddel-Bahr Military Grave"
+date: "2025-12-25T16:07:02+03:00"
 slug: "seddel-bahr-military-grave"
 description: "## Seddülbahir Askeri Mezarlığı (Seddel-Bahr Military Grave)..."
 featured_image: ""
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Seddülbahir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.18929,40.04619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seddülbahir Askeri Mezarlığı (Seddel-Bahr Military Grave)

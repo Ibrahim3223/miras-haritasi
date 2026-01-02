@@ -1,18 +1,17 @@
 ---
-title: "Güneysınır Ak Türbe | Miras Haritası"
-date: 2025-12-25T15:35:16+03:00
+title: "Güneysınır Ak Türbe"
+date: "2025-12-25T15:35:16+03:00"
 slug: "guneysinir-ak-turbe"
 description: "## Güneysınır Ak Türbe..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Güneysınır"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.704886484,37.246491602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güneysınır Ak Türbe

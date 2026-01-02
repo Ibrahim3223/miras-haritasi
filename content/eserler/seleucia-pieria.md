@@ -1,18 +1,17 @@
 ---
-title: "Seleucia Pieria | Miras Haritası"
-date: 2025-12-25T06:55:24+03:00
+title: "Seleucia Pieria"
+date: "2025-12-25T06:55:24+03:00"
 slug: "seleucia-pieria"
 description: "## Seleucia Pieria: Hatay'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Column_plinths,_Seleucia_Pieria.jpg/1200px-Column_plinths,_Seleucia_Pieria.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.922,36.124"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Seleucia Pieria: Hatay'ın Tarihi ve Kültürel Mirası

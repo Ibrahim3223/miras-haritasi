@@ -1,18 +1,17 @@
 ---
-title: "Solak Höyük | Miras Haritası"
-date: 2025-12-25T06:42:54+03:00
+title: "Solak Höyük"
+date: "2025-12-25T06:42:54+03:00"
 slug: "solak-hoyuk"
 description: "# Solak Höyük: Sivas'ta Bir Geç Antik Çağ Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Suşehri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1330353,40.1659615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Solak Höyük: Sivas'ta Bir Geç Antik Çağ Mirası

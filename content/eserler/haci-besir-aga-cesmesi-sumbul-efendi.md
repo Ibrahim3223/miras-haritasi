@@ -1,18 +1,17 @@
 ---
-title: "Hacı Beşir Ağa Çeşmesi, Sümbül Efendi | Miras Haritası"
-date: 2025-12-25T12:15:49+03:00
+title: "Hacı Beşir Ağa Çeşmesi, Sümbül Efendi"
+date: "2025-12-25T12:15:49+03:00"
 slug: "haci-besir-aga-cesmesi-sumbul-efendi"
 description: "## Hacı Beşir Ağa Çeşmesi, Sümbül Efendi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9266987,41.0014458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Beşir Ağa Çeşmesi, Sümbül Efendi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

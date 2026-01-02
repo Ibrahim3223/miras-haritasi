@@ -1,18 +1,17 @@
 ---
-title: "Aktaş Camii | Miras Haritası"
-date: 2025-12-24T22:59:11+03:00
+title: "Aktaş Camii"
+date: "2025-12-24T22:59:11+03:00"
 slug: "aktas-camii"
 description: "## Aktaş Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.3353386,40.016407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aktaş Camii Tanıtımı

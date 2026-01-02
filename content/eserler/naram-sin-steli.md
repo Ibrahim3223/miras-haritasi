@@ -1,18 +1,17 @@
 ---
-title: "Naram Sin Steli | Miras Haritası"
-date: 2025-12-25T14:11:32+03:00
+title: "Naram Sin Steli"
+date: "2025-12-25T14:11:32+03:00"
 slug: "naram-sin-steli"
 description: "### Naram Sin Steli: Anitta'nın Gizemli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Stele_of_the_Akkadian_king_Naram-Sin_at_Istanbul's_archaeological_museum.jpg/1200px-Stele_of_the_Akkadian_king_Naram-Sin_at_Istanbul's_archaeological_museum.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Naram Sin Steli: Anitta'nın Gizemli Mirası

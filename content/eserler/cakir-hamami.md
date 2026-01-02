@@ -1,18 +1,17 @@
 ---
-title: "Çakır Hamamı | Miras Haritası"
-date: 2025-12-25T16:32:15+03:00
+title: "Çakır Hamamı"
+date: "2025-12-25T16:32:15+03:00"
 slug: "cakir-hamami"
 description: "### Çakır Hamamı: Bursa'nın İhtişamlı Hamamlarından Birisidir..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/ÇAKIR_AĞA_BATH_HAMAMI_BURSA_-_panoramio.jpg/1200px-ÇAKIR_AĞA_BATH_HAMAMI_BURSA_-_panoramio.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0591791,40.184061"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çakır Hamamı: Bursa'nın İhtişamlı Hamamlarından Birisidir

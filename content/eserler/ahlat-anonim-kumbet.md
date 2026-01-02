@@ -1,18 +1,17 @@
 ---
-title: "Ahlat Anonim Kümbet | Miras Haritası"
-date: 2025-12-25T13:54:59+03:00
+title: "Ahlat Anonim Kümbet"
+date: "2025-12-25T13:54:59+03:00"
 slug: "ahlat-anonim-kumbet"
 description: "# Ahlat Anonim Kümbet..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.4639397,38.7491341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ahlat Anonim Kümbet

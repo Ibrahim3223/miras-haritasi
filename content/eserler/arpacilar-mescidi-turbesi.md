@@ -1,18 +1,17 @@
 ---
-title: "Arpacılar Mescidi Türbesi | Miras Haritası"
-date: 2025-12-25T14:30:35+03:00
+title: "Arpacılar Mescidi Türbesi"
+date: "2025-12-25T14:30:35+03:00"
 slug: "arpacilar-mescidi-turbesi"
 description: "## Arpacılar Mescidi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9731589,41.0164393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arpacılar Mescidi Türbesi

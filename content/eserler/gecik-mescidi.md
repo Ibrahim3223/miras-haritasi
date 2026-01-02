@@ -1,18 +1,17 @@
 ---
-title: "Gecik Mescidi | Miras Haritası"
-date: 2025-12-24T23:03:43+03:00
+title: "Gecik Mescidi"
+date: "2025-12-24T23:03:43+03:00"
 slug: "gecik-mescidi"
 description: "### Gecik Mescidi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8688774,39.9370918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gecik Mescidi

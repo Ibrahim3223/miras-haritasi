@@ -1,18 +1,17 @@
 ---
-title: "Sulukule Kapısı | Miras Haritası"
-date: 2025-12-25T13:16:49+03:00
+title: "Sulukule Kapısı"
+date: "2025-12-25T13:16:49+03:00"
 slug: "sulukule-kapisi"
 description: "## Sulukule Kapısı: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.931862,41.026878"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sulukule Kapısı: Fatih'in Gizli Anıtı

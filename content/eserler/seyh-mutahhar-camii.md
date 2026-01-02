@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mutahhar Camii | Miras Haritası"
-date: 2025-12-24T21:50:24+03:00
+title: "Şeyh Mutahhar Camii"
+date: "2025-12-24T21:50:24+03:00"
 slug: "seyh-mutahhar-camii"
 description: "### Şeyh Mutahhar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Minareya_Çarling_Amed_2010.JPG/1200px-Minareya_Çarling_Amed_2010.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.237611,37.910778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Şeyh Mutahhar Camii

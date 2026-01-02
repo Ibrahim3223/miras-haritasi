@@ -1,18 +1,17 @@
 ---
-title: "Ördekçi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:49:39+03:00
+title: "Ördekçi Köprüsü"
+date: "2025-12-25T02:49:39+03:00"
 slug: "ordekci-koprusu"
 description: "## Ördekçi Köprüsü: Ankara'nın Tarihsel Değerlerindendir..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.861131696,39.943960401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ördekçi Köprüsü: Ankara'nın Tarihsel Değerlerindendir

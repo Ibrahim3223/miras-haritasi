@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs X | Miras Haritası"
-date: 2025-12-25T07:55:16+03:00
+title: "Gordion Tümülüs X"
+date: "2025-12-25T07:55:16+03:00"
 slug: "gordion-tumulus-x"
 description: "**Gordion Tümülüs X: Polatlı'nın Gizemli Mirası**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.000786,39.6521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gordion Tümülüs X: Polatlı'nın Gizemli Mirası**

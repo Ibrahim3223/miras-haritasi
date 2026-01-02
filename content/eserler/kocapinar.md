@@ -1,18 +1,17 @@
 ---
-title: "Kocapınar | Miras Haritası"
-date: 2025-12-25T05:33:44+03:00
+title: "Kocapınar"
+date: "2025-12-25T05:33:44+03:00"
 slug: "kocapinar"
 description: "### Kocapınar Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Şuhut"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.726317,38.466483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kocapınar Arkeolojik Sit

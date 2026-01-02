@@ -1,18 +1,17 @@
 ---
-title: "Çobanlı Şakir Paşa Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:26:04+03:00
+title: "Çobanlı Şakir Paşa Çeşmesi, Arapgir"
+date: "2025-12-25T12:26:04+03:00"
 slug: "cobanli-sakir-pasa-cesmesi-arapgir"
 description: "### Çobanlı Şakir Paşa Çeşmesi: Arapgir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.502309457,39.044524526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çobanlı Şakir Paşa Çeşmesi: Arapgir'in Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kurtağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:19+03:00
+title: "Kurtağa Çeşmesi"
+date: "2025-12-25T11:01:19+03:00"
 slug: "kurtaga-cesmesi"
 description: "# Kurtağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.94112,41.027491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kurtağa Çeşmesi

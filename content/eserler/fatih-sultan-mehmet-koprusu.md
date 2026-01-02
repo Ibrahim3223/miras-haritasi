@@ -1,18 +1,17 @@
 ---
-title: "Fatih Sultan Mehmet Köprüsü | Miras Haritası"
-date: 2025-12-25T01:53:05+03:00
+title: "Fatih Sultan Mehmet Köprüsü"
+date: "2025-12-25T01:53:05+03:00"
 slug: "fatih-sultan-mehmet-koprusu"
 description: "## Fatih Sultan Mehmet Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Istanbul_Bosporusbrücke_II.JPG/1200px-Istanbul_Bosporusbrücke_II.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.061388888,41.091111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fatih Sultan Mehmet Köprüsü

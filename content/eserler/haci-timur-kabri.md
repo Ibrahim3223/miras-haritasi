@@ -1,18 +1,17 @@
 ---
-title: "Hacı Timur Kabri | Miras Haritası"
-date: 2025-12-25T13:52:08+03:00
+title: "Hacı Timur Kabri"
+date: "2025-12-25T13:52:08+03:00"
 slug: "haci-timur-kabri"
 description: "## Hacı Timur Kabri: İstanbul'un Gizli Anıtlarından BİRİ..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9341087,41.0089912"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Timur Kabri: İstanbul'un Gizli Anıtlarından BİRİ

@@ -1,18 +1,17 @@
 ---
-title: "Dokumacılar Taşbaşı Camii | Miras Haritası"
-date: 2025-12-25T01:03:03+03:00
+title: "Dokumacılar Taşbaşı Camii"
+date: "2025-12-25T01:03:03+03:00"
 slug: "dokumacilar-tasbasi-camii"
 description: "### Dokumacılar Taşbaşı Camii: Artvin'in Gizli Çehresine Bir Yolculuk..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3539104,40.7491207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dokumacılar Taşbaşı Camii: Artvin'in Gizli Çehresine Bir Yolculuk

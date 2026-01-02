@@ -1,18 +1,17 @@
 ---
-title: "Satıoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:41:58+03:00
+title: "Satıoğlu Camii"
+date: "2025-12-24T22:41:58+03:00"
 slug: "satioglu-camii"
 description: "## Satıoğlu Camii: Kırkağaç'taki Bir Önemli Cami..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.669569,39.0995255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Satıoğlu Camii: Kırkağaç'taki Bir Önemli Cami

@@ -1,18 +1,17 @@
 ---
-title: "Surp Boğos Ermeni-Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:35+03:00
+title: "Surp Boğos Ermeni-Katolik Kilisesi"
+date: "2025-12-25T09:12:35+03:00"
 slug: "surp-bogos-ermeni-katolik-kilisesi"
 description: "## Surp Boğos Ermeni-Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.04693,41.162255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Boğos Ermeni-Katolik Kilisesi

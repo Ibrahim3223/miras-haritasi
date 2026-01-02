@@ -1,18 +1,17 @@
 ---
-title: "Balcı Yokuşu Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:46:30+03:00
+title: "Balcı Yokuşu Sokak Çeşmesi"
+date: "2025-12-25T11:46:30+03:00"
 slug: "balci-yokusu-sokak-cesmesi"
 description: "### Balcı Yokuşu Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Balcı_Yokuşu'nda_Çeşme_01.jpg/1200px-Balcı_Yokuşu'nda_Çeşme_01.jpg"
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.93328,41.04319"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Balcı Yokuşu Sokak Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "İslambeyli Taş Köprü | Miras Haritası"
-date: 2025-12-25T02:32:06+03:00
+title: "İslambeyli Taş Köprü"
+date: "2025-12-25T02:32:06+03:00"
 slug: "islambeyli-tas-kopru"
 description: "## İslambeyli Taş Köprü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6264877,41.7152023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İslambeyli Taş Köprü: Tarihi ve Kültürel Miras

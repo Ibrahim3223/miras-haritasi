@@ -1,18 +1,17 @@
 ---
-title: "Başdağ Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:47+03:00
+title: "Başdağ Kalesi"
+date: "2025-12-25T01:22:47+03:00"
 slug: "basdag-kalesi"
 description: "# Başdağ Kalesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.1589966,37.3732872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Başdağ Kalesi

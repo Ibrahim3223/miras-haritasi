@@ -1,18 +1,17 @@
 ---
-title: "Bezmialem Valide Sultan Çeşmesi, Mevlanakapı | Miras Haritası"
-date: 2025-12-25T12:17:19+03:00
+title: "Bezmialem Valide Sultan Çeşmesi, Mevlanakapı"
+date: "2025-12-25T12:17:19+03:00"
 slug: "bezmialem-valide-sultan-cesmesi-mevlanakapi"
 description: "### Bezmialem Valide Sultan Çeşmesi, Mevlanakapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9265442,41.0083809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bezmialem Valide Sultan Çeşmesi, Mevlanakapı

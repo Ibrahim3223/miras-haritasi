@@ -1,18 +1,17 @@
 ---
-title: "Tuzcuzade Camii (Bayburt) | Miras Haritası"
-date: 2025-12-25T00:17:19+03:00
+title: "Tuzcuzade Camii (Bayburt)"
+date: "2025-12-25T00:17:19+03:00"
 slug: "tuzcuzade-camii-bayburt"
 description: "## Tuzcuzade Camii: Bayburt'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tuzcuzade_Camii_(Bayburt).jpg/1200px-Tuzcuzade_Camii_(Bayburt).jpg"
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.223782,40.256392"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tuzcuzade Camii: Bayburt'un Tarihi ve Kültürel Mirası

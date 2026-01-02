@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Çeşmesi, Büyükdere | Miras Haritası"
-date: 2025-12-25T12:14:28+03:00
+title: "Hamidiye Çeşmesi, Büyükdere"
+date: "2025-12-25T12:14:28+03:00"
 slug: "hamidiye-cesmesi-buyukdere"
 description: "# Hamidiye Çeşmesi, Büyükdere: İstanbul'un Şirin Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Hamidiye_Çeşmesi,_Büyükdere_IMG_7286.jpg/1200px-Hamidiye_Çeşmesi,_Büyükdere_IMG_7286.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.045481,41.161459"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hamidiye Çeşmesi, Büyükdere: İstanbul'un Şirin Bir Çeşmesi

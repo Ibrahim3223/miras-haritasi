@@ -1,18 +1,17 @@
 ---
-title: "Sivrihisar Kalesi | Miras Haritası"
-date: 2025-12-25T01:43:36+03:00
+title: "Sivrihisar Kalesi"
+date: "2025-12-25T01:43:36+03:00"
 slug: "sivrihisar-kalesi"
 description: "### Sivrihisar Kalesi: Aksaray'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Güzelyurt"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.408886,38.2678947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sivrihisar Kalesi: Aksaray'ın Tarihî Mirası

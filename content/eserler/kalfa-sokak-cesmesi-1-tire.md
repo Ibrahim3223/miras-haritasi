@@ -1,18 +1,17 @@
 ---
-title: "Kalfa Sokak Çeşmesi 1, Tire | Miras Haritası"
-date: 2025-12-25T12:50:07+03:00
+title: "Kalfa Sokak Çeşmesi 1, Tire"
+date: "2025-12-25T12:50:07+03:00"
 slug: "kalfa-sokak-cesmesi-1-tire"
 description: "## Kalfa Sokak Çeşmesi 1: Tire'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7319927,38.0815582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalfa Sokak Çeşmesi 1: Tire'nin Tarihi ve Kültürel Mirası

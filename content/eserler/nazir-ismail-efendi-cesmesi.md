@@ -1,18 +1,17 @@
 ---
-title: "Nazır İsmail Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:37+03:00
+title: "Nazır İsmail Efendi Çeşmesi"
+date: "2025-12-25T11:00:37+03:00"
 slug: "nazir-ismail-efendi-cesmesi"
 description: "## Nazır İsmail Efendi Çeşmesi: Cankurtaran'da Bir Örgü Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979485,41.009888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nazır İsmail Efendi Çeşmesi: Cankurtaran'da Bir Örgü Çeşme

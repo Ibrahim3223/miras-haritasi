@@ -1,18 +1,17 @@
 ---
-title: "Malatya Atatürk Anı Evi ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:33:28+03:00
+title: "Malatya Atatürk Anı Evi ve Etnografya Müzesi"
+date: "2025-12-25T03:33:28+03:00"
 slug: "malatya-ataturk-ani-evi-ve-etnografya-muzesi"
 description: "# Malatya Atatürk Anı Evi ve Etnografya Müzesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Malatya Atatürk Anı Evi ve Etnografya Müzesi

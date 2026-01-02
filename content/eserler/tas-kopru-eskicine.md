@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Eskiçine | Miras Haritası"
-date: 2025-12-25T02:51:31+03:00
+title: "Taş Köprü, Eskiçine"
+date: "2025-12-25T02:51:31+03:00"
 slug: "tas-kopru-eskicine"
 description: "## Taş Köprü, Eskiçine: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0659199,37.5433235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Köprü, Eskiçine: Aydın'ın Tarihi ve Kültürel Mirası

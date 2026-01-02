@@ -1,18 +1,17 @@
 ---
-title: "Değirmenlik Mevkii | Miras Haritası"
-date: 2025-12-25T07:02:06+03:00
+title: "Değirmenlik Mevkii"
+date: "2025-12-25T07:02:06+03:00"
 slug: "degirmenlik-mevkii"
 description: "### Değirmenlik Mevkii Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Değirmenlik Mevkii Arkeolojik Sit

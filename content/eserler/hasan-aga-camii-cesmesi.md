@@ -1,18 +1,17 @@
 ---
-title: "Hasan Ağa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:13:50+03:00
+title: "Hasan Ağa Camii Çeşmesi"
+date: "2025-12-25T10:13:50+03:00"
 slug: "hasan-aga-camii-cesmesi"
 description: "## Hasan Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hasan_Ağa_Camii_Çeşmesi.jpg/1200px-Hasan_Ağa_Camii_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.974702,41.003948"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hasan Ağa Çeşmesi

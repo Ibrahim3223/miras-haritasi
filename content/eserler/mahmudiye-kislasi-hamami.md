@@ -1,18 +1,17 @@
 ---
-title: "Mahmudiye Kışlası Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:03+03:00
+title: "Mahmudiye Kışlası Hamamı"
+date: "2025-12-25T16:46:03+03:00"
 slug: "mahmudiye-kislasi-hamami"
 description: "### Mahmudiye Kışlası Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.5415058,41.6947632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mahmudiye Kışlası Hamamı

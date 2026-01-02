@@ -1,18 +1,17 @@
 ---
-title: "Antandros Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:42:24+03:00
+title: "Antandros Roma Hamamı"
+date: "2025-12-25T16:42:24+03:00"
 slug: "antandros-roma-hamami"
 description: "## Antandros Roma Hamamı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.7843456,39.5720215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antandros Roma Hamamı

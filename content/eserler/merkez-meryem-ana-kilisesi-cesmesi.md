@@ -1,18 +1,17 @@
 ---
-title: "Merkez Meryem Ana Kilisesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:29:51+03:00
+title: "Merkez Meryem Ana Kilisesi Çeşmesi"
+date: "2025-12-25T12:29:51+03:00"
 slug: "merkez-meryem-ana-kilisesi-cesmesi"
 description: "## Merkez Meryem Ana Kilisesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979246404,41.025023665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merkez Meryem Ana Kilisesi Çeşmesi

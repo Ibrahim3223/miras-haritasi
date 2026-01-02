@@ -1,18 +1,17 @@
 ---
-title: "Antandros | Miras Haritası"
-date: 2025-12-25T04:16:14+03:00
+title: "Antandros"
+date: "2025-12-25T04:16:14+03:00"
 slug: "antandros"
 description: "# Antandros..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Antandros3.jpg/1200px-Antandros3.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.790555555,39.575833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Antandros

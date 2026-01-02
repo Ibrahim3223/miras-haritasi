@@ -1,18 +1,17 @@
 ---
-title: "Hoca İmam Camii | Miras Haritası"
-date: 2025-12-24T23:35:26+03:00
+title: "Hoca İmam Camii"
+date: "2025-12-24T23:35:26+03:00"
 slug: "hoca-imam-camii"
 description: "### Hoca İmam Camii: Sivas'taki Bir Kültür Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0180359,39.748764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hoca İmam Camii: Sivas'taki Bir Kültür Mirası

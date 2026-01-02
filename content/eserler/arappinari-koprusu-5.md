@@ -1,18 +1,17 @@
 ---
-title: "Arappınarı Köprüsü 5 | Miras Haritası"
-date: 2025-12-25T02:13:57+03:00
+title: "Arappınarı Köprüsü 5"
+date: "2025-12-25T02:13:57+03:00"
 slug: "arappinari-koprusu-5"
 description: "## Arappınarı Köprüsü 5: Tarihî Bir Köprünin Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.73876,38.0815125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arappınarı Köprüsü 5: Tarihî Bir Köprünin Gizemi

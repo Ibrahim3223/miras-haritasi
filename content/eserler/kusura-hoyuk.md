@@ -1,18 +1,17 @@
 ---
-title: "Kusura Höyük | Miras Haritası"
-date: 2025-12-25T07:05:57+03:00
+title: "Kusura Höyük"
+date: "2025-12-25T07:05:57+03:00"
 slug: "kusura-hoyuk"
 description: "## Kusura Höyük: Sandıklı'da Eski Çağın Gizemi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.2242016,38.3654415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kusura Höyük: Sandıklı'da Eski Çağın Gizemi

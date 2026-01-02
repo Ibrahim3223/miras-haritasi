@@ -1,18 +1,17 @@
 ---
-title: "Laletepe Tümülüsü, Tire | Miras Haritası"
-date: 2025-12-25T07:29:47+03:00
+title: "Laletepe Tümülüsü, Tire"
+date: "2025-12-25T07:29:47+03:00"
 slug: "laletepe-tumulusu-tire"
 description: "#### Laletepe Tümülüsü, Tire..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7226257,38.1026688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 #### Laletepe Tümülüsü, Tire

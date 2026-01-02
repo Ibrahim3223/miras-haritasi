@@ -1,18 +1,17 @@
 ---
-title: "Fatih Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:27+03:00
+title: "Fatih Çeşmesi"
+date: "2025-12-25T11:26:27+03:00"
 slug: "fatih-cesmesi"
 description: "## Fatih Çeşmesi: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4207478,38.6087112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Çeşmesi: Manisa'nın Tarihi Bir Mirası

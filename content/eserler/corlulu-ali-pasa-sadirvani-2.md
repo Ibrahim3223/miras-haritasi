@@ -1,18 +1,17 @@
 ---
-title: "Çorlulu Ali Paşa Şadırvanı 2 | Miras Haritası"
-date: 2025-12-25T10:03:06+03:00
+title: "Çorlulu Ali Paşa Şadırvanı 2"
+date: "2025-12-25T10:03:06+03:00"
 slug: "corlulu-ali-pasa-sadirvani-2"
 description: "### Çorlulu Ali Paşa Şadırvanı 2..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.968482,41.009068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çorlulu Ali Paşa Şadırvanı 2

@@ -1,18 +1,17 @@
 ---
-title: "Divan Edebiyatı Müzesi | Miras Haritası"
-date: 2025-12-25T04:00:11+03:00
+title: "Divan Edebiyatı Müzesi"
+date: "2025-12-25T04:00:11+03:00"
 slug: "divan-edebiyati-muzesi"
 description: "## Divan Edebiyatı Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Divan Edebiyatı Müzesi

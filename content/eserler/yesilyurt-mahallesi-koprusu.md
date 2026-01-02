@@ -1,18 +1,17 @@
 ---
-title: "Yeşilyurt Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:34:14+03:00
+title: "Yeşilyurt Mahallesi Köprüsü"
+date: "2025-12-25T02:34:14+03:00"
 slug: "yesilyurt-mahallesi-koprusu"
 description: "### Yeşilyurt Mahallesi Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Araklı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.011174,40.729905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeşilyurt Mahallesi Köprüsü

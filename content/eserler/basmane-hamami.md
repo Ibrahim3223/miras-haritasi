@@ -1,18 +1,17 @@
 ---
-title: "Basmane Hamamı | Miras Haritası"
-date: 2025-12-25T16:51:41+03:00
+title: "Basmane Hamamı"
+date: "2025-12-25T16:51:41+03:00"
 slug: "basmane-hamami"
 description: "### Basmane Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1438351,38.4216309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Basmane Hamamı

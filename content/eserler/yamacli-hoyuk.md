@@ -1,18 +1,17 @@
 ---
-title: "Yamaçlı Höyük | Miras Haritası"
-date: 2025-12-25T13:46:50+03:00
+title: "Yamaçlı Höyük"
+date: "2025-12-25T13:46:50+03:00"
 slug: "yamacli-hoyuk"
 description: "## Yamaçlı Höyük: Boğazlıyan'ın Gizli Öreni..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.0794906,39.3072832"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yamaçlı Höyük: Boğazlıyan'ın Gizli Öreni

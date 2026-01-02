@@ -1,18 +1,17 @@
 ---
-title: "Elmalık Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:17+03:00
+title: "Elmalık Kalesi"
+date: "2025-12-25T01:28:17+03:00"
 slug: "elmalik-kalesi"
 description: "## Elmalık Kalesi..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Yalova"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.3107929,40.6032753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elmalık Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "Daldis | Miras Haritası"
-date: 2025-12-25T06:49:21+03:00
+title: "Daldis"
+date: "2025-12-25T06:49:21+03:00"
 slug: "daldis"
 description: "## Manisa'nın Gizli Mabeti: Daldis..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.07519,38.668396"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manisa'nın Gizli Mabeti: Daldis

@@ -1,18 +1,17 @@
 ---
-title: "Anzak Arı Burnu Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:54:15+03:00
+title: "Anzak Arı Burnu Mezarlığı"
+date: "2025-12-25T15:54:15+03:00"
 slug: "anzak-ari-burnu-mezarligi"
 description: "## Anzak Arı Burnu Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anzac_Cove_Cemetery_-_Gallipoli_Peninsula_-_Dardanelles_-_Turkey_-_03_(5734729542).jpg/1200px-Anzac_Cove_Cemetery_-_Gallipoli_Peninsula_-_Dardanelles_-_Turkey_-_03_(5734729542).jpg"
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.27716,40.23883"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Anzak Arı Burnu Mezarlığı

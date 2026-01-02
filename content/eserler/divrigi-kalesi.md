@@ -1,18 +1,17 @@
 ---
-title: "Divriği Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:36+03:00
+title: "Divriği Kalesi"
+date: "2025-12-25T01:32:36+03:00"
 slug: "divrigi-kalesi"
 description: "## Divriği Kalesi: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.122387,39.375694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Divriği Kalesi: Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Saint Christopher Monastery (Baberd) | Miras Haritası"
-date: 2025-12-25T09:49:26+03:00
+title: "Saint Christopher Monastery (Baberd)"
+date: "2025-12-25T09:49:26+03:00"
 slug: "saint-christopher-monastery-baberd"
 description: "## Saint Christopher Manastırı (Baberd)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saint Christopher Manastırı (Baberd)

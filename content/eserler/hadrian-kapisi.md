@@ -1,18 +1,17 @@
 ---
-title: "Hadrian Kapısı | Miras Haritası"
-date: 2025-12-25T13:17:20+03:00
+title: "Hadrian Kapısı"
+date: "2025-12-25T13:17:20+03:00"
 slug: "hadrian-kapisi"
 description: "# Hadrian Kapısı: Antalya'nın Gizli İhtişamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hadrian_Kapısı_(4).JPG/1200px-Hadrian_Kapısı_(4).JPG"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.70835,36.88531"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hadrian Kapısı: Antalya'nın Gizli İhtişamı

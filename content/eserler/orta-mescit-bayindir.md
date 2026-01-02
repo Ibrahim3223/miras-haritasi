@@ -1,18 +1,17 @@
 ---
-title: "Orta Mescit, Bayındır | Miras Haritası"
-date: 2025-12-25T00:45:56+03:00
+title: "Orta Mescit, Bayındır"
+date: "2025-12-25T00:45:56+03:00"
 slug: "orta-mescit-bayindir"
 description: "## Orta Mescit, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6483994,38.2256012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Mescit, Bayındır

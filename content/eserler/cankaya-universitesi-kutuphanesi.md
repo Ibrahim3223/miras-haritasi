@@ -1,18 +1,17 @@
 ---
-title: "Çankaya Üniversitesi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:09+03:00
+title: "Çankaya Üniversitesi Kütüphanesi"
+date: "2025-12-25T17:48:09+03:00"
 slug: "cankaya-universitesi-kutuphanesi"
 description: "## Çankaya Üniversitesi Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Çankaya_University_Library.JPG/1200px-Çankaya_University_Library.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Etimesgut"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "32.56301389,39.81839167"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çankaya Üniversitesi Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Misis Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:23:45+03:00
+title: "Misis Antik Tiyatrosu"
+date: "2025-12-25T08:23:45+03:00"
 slug: "misis-antik-tiyatrosu"
 description: "# Misis Antik Tiyatrosu..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Yüreğir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.6236295,36.9574204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Misis Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Arykanda Yukarı Hamam | Miras Haritası"
-date: 2025-12-25T16:55:58+03:00
+title: "Arykanda Yukarı Hamam"
+date: "2025-12-25T16:55:58+03:00"
 slug: "arykanda-yukari-hamam"
 description: "## Arykanda Yukarı Hamam..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.0586586,36.5140686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arykanda Yukarı Hamam

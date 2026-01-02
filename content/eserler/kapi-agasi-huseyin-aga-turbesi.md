@@ -1,18 +1,17 @@
 ---
-title: "Kapı Ağası Hüseyin Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T14:32:23+03:00
+title: "Kapı Ağası Hüseyin Ağa Türbesi"
+date: "2025-12-25T14:32:23+03:00"
 slug: "kapi-agasi-huseyin-aga-turbesi"
 description: "## Kapı Ağası Hüseyin Ağa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tomb_of_Kapı_Ağası_Hüseyin_Ağa.jpg/1200px-Tomb_of_Kapı_Ağası_Hüseyin_Ağa.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.972351,41.002931"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kapı Ağası Hüseyin Ağa Türbesi

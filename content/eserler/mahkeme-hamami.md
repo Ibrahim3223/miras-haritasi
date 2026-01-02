@@ -1,18 +1,17 @@
 ---
-title: "Mahkeme Hamamı | Miras Haritası"
-date: 2025-12-25T16:31:30+03:00
+title: "Mahkeme Hamamı"
+date: "2025-12-25T16:31:30+03:00"
 slug: "mahkeme-hamami"
 description: "# Mahkeme Hamamı: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0650714,40.1806662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mahkeme Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

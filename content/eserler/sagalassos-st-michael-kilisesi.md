@@ -1,18 +1,17 @@
 ---
-title: "Sagalassos St. Michael Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:42+03:00
+title: "Sagalassos St. Michael Kilisesi"
+date: "2025-12-25T09:23:42+03:00"
 slug: "sagalassos-st-michael-kilisesi"
 description: "## Sagalassos St. Michael Kilisesi: Ağlasun'un Görsel ve Tarihi Bir Mirası..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Ağlasun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.517443,37.677216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sagalassos St. Michael Kilisesi: Ağlasun'un Görsel ve Tarihi Bir Mirası

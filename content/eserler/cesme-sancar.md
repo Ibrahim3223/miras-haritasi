@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Sancar | Miras Haritası"
-date: 2025-12-25T10:25:03+03:00
+title: "Çeşme, Sancar"
+date: "2025-12-25T10:25:03+03:00"
 slug: "cesme-sancar"
 description: "## Çeşme, Sancar: Kahramankazan'ın Eski Köy Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kahramankazan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.7820969,40.2156944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Sancar: Kahramankazan'ın Eski Köy Çeşmesi

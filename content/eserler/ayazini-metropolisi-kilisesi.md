@@ -1,18 +1,17 @@
 ---
-title: "Ayazini Metropolisi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:43+03:00
+title: "Ayazini Metropolisi Kilisesi"
+date: "2025-12-25T09:12:43+03:00"
 slug: "ayazini-metropolisi-kilisesi"
 description: "## Ayazini Metropolisi Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ayazini_Metropolis_Church,_2017.jpg/1200px-Ayazini_Metropolis_Church,_2017.jpg"
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.569171287,39.01239365"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayazini Metropolisi Kilisesi

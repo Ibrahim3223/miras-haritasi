@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:01:43+03:00
+title: "Mehmet Gazi Türbesi"
+date: "2025-12-25T15:01:43+03:00"
 slug: "mehmet-gazi-turbesi"
 description: "## Mehmet Gazi Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.077795,37.7898483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Gazi Türbesi

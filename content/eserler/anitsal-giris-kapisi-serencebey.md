@@ -1,18 +1,17 @@
 ---
-title: "Anıtsal Giriş Kapısı, Serencebey | Miras Haritası"
-date: 2025-12-25T15:35:51+03:00
+title: "Anıtsal Giriş Kapısı, Serencebey"
+date: "2025-12-25T15:35:51+03:00"
 slug: "anitsal-giris-kapisi-serencebey"
 description: "## Anıtsal Giriş Kapısı, Serencebey..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0100803,41.0455284"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anıtsal Giriş Kapısı, Serencebey

@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Çağdaş Sanat Müzesi | Miras Haritası"
-date: 2025-12-25T04:11:34+03:00
+title: "İstanbul Çağdaş Sanat Müzesi"
+date: "2025-12-25T04:11:34+03:00"
 slug: "istanbul-cagdas-sanat-muzesi"
 description: "## İstanbul Çağdaş Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/IS.CaM.jpg/1200px-IS.CaM.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.582469,41.13426"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İstanbul Çağdaş Sanat Müzesi

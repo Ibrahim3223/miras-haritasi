@@ -1,18 +1,17 @@
 ---
-title: "Alaybey Camii, Bozcaada | Miras Haritası"
-date: 2025-12-24T23:56:34+03:00
+title: "Alaybey Camii, Bozcaada"
+date: "2025-12-24T23:56:34+03:00"
 slug: "alaybey-camii-bozcaada"
 description: "## Alaybey Camii, Bozcaada..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BOZCAADA_ALAYBEYİ_CAMİ_-_panoramio.jpg/1200px-BOZCAADA_ALAYBEYİ_CAMİ_-_panoramio.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bozcaada"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.0707054,39.8340836"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alaybey Camii, Bozcaada

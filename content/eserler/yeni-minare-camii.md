@@ -1,18 +1,17 @@
 ---
-title: "Yeni Minare Camii | Miras Haritası"
-date: 2025-12-24T23:47:55+03:00
+title: "Yeni Minare Camii"
+date: "2025-12-24T23:47:55+03:00"
 slug: "yeni-minare-camii"
 description: "### Yeni Minare Camii: Karaman'ın Değerli Camiği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2160225,37.1834831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeni Minare Camii: Karaman'ın Değerli Camiği

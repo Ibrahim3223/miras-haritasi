@@ -1,18 +1,17 @@
 ---
-title: "Enver Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:55+03:00
+title: "Enver Paşa Çeşmesi"
+date: "2025-12-25T11:03:55+03:00"
 slug: "enver-pasa-cesmesi"
 description: "### Enver Paşa Çeşmesi..."
 featured_image: ""
-province: "Büyükçekmece"
-iller: ["Büyükçekmece"]
-district: "Dizdariye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.578434,41.020618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Enver Paşa Çeşmesi

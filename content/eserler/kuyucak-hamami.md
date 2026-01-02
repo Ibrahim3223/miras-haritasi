@@ -1,18 +1,17 @@
 ---
-title: "Kuyucak Hamamı | Miras Haritası"
-date: 2025-12-25T17:00:20+03:00
+title: "Kuyucak Hamamı"
+date: "2025-12-25T17:00:20+03:00"
 slug: "kuyucak-hamami"
 description: "## Kuyucak Hamamı: Kahramanmaraş'taki Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.9322281,37.5833664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuyucak Hamamı: Kahramanmaraş'taki Bir Osmanlı Dönemi Eseri

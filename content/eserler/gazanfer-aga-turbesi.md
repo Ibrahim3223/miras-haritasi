@@ -1,18 +1,17 @@
 ---
-title: "Gazanfer Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:10+03:00
+title: "Gazanfer Ağa Türbesi"
+date: "2025-12-25T14:29:10+03:00"
 slug: "gazanfer-aga-turbesi"
 description: "## Gazanfer Ağa Türbesi: Fatih, İstanbul'un Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.955411,41.016477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazanfer Ağa Türbesi: Fatih, İstanbul'un Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Küçüktepe Höyüğü, Çakırbeyli | Miras Haritası"
-date: 2025-12-25T05:58:25+03:00
+title: "Küçüktepe Höyüğü, Çakırbeyli"
+date: "2025-12-25T05:58:25+03:00"
 slug: "kucuktepe-hoyugu-cakirbeyli"
 description: "### Küçüktepe Höyüğü: Aydın'ın Eski Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8291626,37.7613525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küçüktepe Höyüğü: Aydın'ın Eski Kültürel Mirası

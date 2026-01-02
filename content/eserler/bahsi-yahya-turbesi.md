@@ -1,18 +1,17 @@
 ---
-title: "Bahşi Yahya Türbesi | Miras Haritası"
-date: 2025-12-25T14:11:47+03:00
+title: "Bahşi Yahya Türbesi"
+date: "2025-12-25T14:11:47+03:00"
 slug: "bahsi-yahya-turbesi"
 description: "## Bahşi Yahya Türbesi..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2779,39.6835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahşi Yahya Türbesi

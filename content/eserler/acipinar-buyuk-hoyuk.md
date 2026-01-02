@@ -1,18 +1,17 @@
 ---
-title: "Acıpınar Büyük Höyük | Miras Haritası"
-date: 2025-12-25T05:57:42+03:00
+title: "Acıpınar Büyük Höyük"
+date: "2025-12-25T05:57:42+03:00"
 slug: "acipinar-buyuk-hoyuk"
 description: "## Acıpınar Büyük Höyük: Hafik, Sivas'taki Eski Kent..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.407177,39.7283936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acıpınar Büyük Höyük: Hafik, Sivas'taki Eski Kent

@@ -1,18 +1,17 @@
 ---
-title: "Haraççıoğlu Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:36+03:00
+title: "Haraççıoğlu Medresesi"
+date: "2025-12-25T17:37:36+03:00"
 slug: "haraccioglu-medresesi"
 description: "## Haraççıoğlu Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HARAÇÇI_OĞLU_(CİZYEDARZADE_)_MEDRESESİ_BURSA_-_panoramio_(2).jpg/1200px-HARAÇÇI_OĞLU_(CİZYEDARZADE_)_MEDRESESİ_BURSA_-_panoramio_(2).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0572739,40.1837921"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Haraççıoğlu Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Amasra Kalesi | Miras Haritası"
-date: 2025-12-25T01:12:00+03:00
+title: "Amasra Kalesi"
+date: "2025-12-25T01:12:00+03:00"
 slug: "amasra-kalesi"
 description: "## Amasra Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Amasra_193.JPG/1200px-Amasra_193.JPG"
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Amasra"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.386666666,41.749722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Amasra Kalesi

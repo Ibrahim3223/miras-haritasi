@@ -1,18 +1,17 @@
 ---
-title: "Arif Mehmet Efendi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:50+03:00
+title: "Arif Mehmet Efendi Kütüphanesi"
+date: "2025-12-25T17:55:50+03:00"
 slug: "arif-mehmet-efendi-kutuphanesi"
 description: "**Arif Mehmet Efendi Kütüphanesi**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.0644779,38.2526207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Arif Mehmet Efendi Kütüphanesi**

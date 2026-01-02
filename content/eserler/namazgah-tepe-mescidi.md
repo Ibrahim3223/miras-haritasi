@@ -1,18 +1,17 @@
 ---
-title: "Namazgah Tepe Mescidi | Miras Haritası"
-date: 2025-12-25T00:48:31+03:00
+title: "Namazgah Tepe Mescidi"
+date: "2025-12-25T00:48:31+03:00"
 slug: "namazgah-tepe-mescidi"
 description: "## Namazgah Tepe Mescidi: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.855425543,39.932882122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Namazgah Tepe Mescidi: Ankara'nın Tarihi Bir Mirası

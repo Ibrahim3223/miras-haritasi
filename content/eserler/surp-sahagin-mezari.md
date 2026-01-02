@@ -1,18 +1,17 @@
 ---
-title: "Surp Sahag’ın Mezarı | Miras Haritası"
-date: 2025-12-25T13:27:45+03:00
+title: "Surp Sahag’ın Mezarı"
+date: "2025-12-25T13:27:45+03:00"
 slug: "surp-sahagin-mezari"
 description: "## Surp Sahag’ın Mezarı: Muş’un Gizli Mirası..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Muş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.451133547,38.972326143"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Sahag’ın Mezarı: Muş’un Gizli Mirası

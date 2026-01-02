@@ -1,18 +1,17 @@
 ---
-title: "Kilye Kalesi | Miras Haritası"
-date: 2025-12-25T01:47:51+03:00
+title: "Kilye Kalesi"
+date: "2025-12-25T01:47:51+03:00"
 slug: "kilye-kalesi"
 description: "## Kilye Kalesi: Eceabat'ın Gizli Cenneti..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.3570328,40.2007828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilye Kalesi: Eceabat'ın Gizli Cenneti

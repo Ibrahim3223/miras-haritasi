@@ -1,18 +1,17 @@
 ---
-title: "Aya Ekaterini Ayazması, Bahariye | Miras Haritası"
-date: 2025-12-25T12:43:05+03:00
+title: "Aya Ekaterini Ayazması, Bahariye"
+date: "2025-12-25T12:43:05+03:00"
 slug: "aya-ekaterini-ayazmasi-bahariye"
 description: "## Aya Ekaterini Ayazması, Bahariye..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.027483,40.9861069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Ekaterini Ayazması, Bahariye

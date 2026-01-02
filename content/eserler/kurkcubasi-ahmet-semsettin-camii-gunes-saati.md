@@ -1,18 +1,17 @@
 ---
-title: "Kürkçübaşı Ahmet Şemsettin Camii Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:43:27+03:00
+title: "Kürkçübaşı Ahmet Şemsettin Camii Güneş Saati"
+date: "2025-12-25T13:43:27+03:00"
 slug: "kurkcubasi-ahmet-semsettin-camii-gunes-saati"
 description: "## Kürkçübaşı Ahmet Şemsettin Camii Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9281158,41.0185585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kürkçübaşı Ahmet Şemsettin Camii Güneş Saati

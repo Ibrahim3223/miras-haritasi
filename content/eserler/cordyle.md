@@ -1,18 +1,17 @@
 ---
-title: "Cordyle | Miras Haritası"
-date: 2025-12-25T04:52:02+03:00
+title: "Cordyle"
+date: "2025-12-25T04:52:02+03:00"
 slug: "cordyle"
 description: "## Cordyle Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.496726,41.081598"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cordyle Arkeolojik Sit

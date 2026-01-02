@@ -1,18 +1,17 @@
 ---
-title: "İnce Alemdarzade Mehmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:45+03:00
+title: "İnce Alemdarzade Mehmet Paşa Çeşmesi"
+date: "2025-12-25T11:00:45+03:00"
 slug: "ince-alemdarzade-mehmet-pasa-cesmesi"
 description: "## İnce Alemdarzade Mehmet Paşa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.981396,41.005688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnce Alemdarzade Mehmet Paşa Çeşmesi

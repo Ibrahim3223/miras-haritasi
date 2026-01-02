@@ -1,18 +1,17 @@
 ---
-title: "Anonim Türbe–4, Altındağ | Miras Haritası"
-date: 2025-12-25T15:31:07+03:00
+title: "Anonim Türbe–4, Altındağ"
+date: "2025-12-25T15:31:07+03:00"
 slug: "anonim-turbe4-altindag"
 description: "## Anonim Türbe-4, Altındağ: Ankara'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.857917644,39.943925373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anonim Türbe-4, Altındağ: Ankara'nın Gizli Ören Yeri

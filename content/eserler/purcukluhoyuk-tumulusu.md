@@ -1,18 +1,17 @@
 ---
-title: "Pürçüklühöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T05:55:51+03:00
+title: "Pürçüklühöyük Tümülüsü"
+date: "2025-12-25T05:55:51+03:00"
 slug: "purcukluhoyuk-tumulusu"
 description: "## Pürçüklühöyük Tümülüsü: Yozgat'ın Gizli Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sorgun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.0423813,39.7578278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pürçüklühöyük Tümülüsü: Yozgat'ın Gizli Mirası

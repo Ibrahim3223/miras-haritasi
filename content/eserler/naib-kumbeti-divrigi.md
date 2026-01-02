@@ -1,18 +1,17 @@
 ---
-title: "Naib Kümbeti, Divriği | Miras Haritası"
-date: 2025-12-25T13:55:07+03:00
+title: "Naib Kümbeti, Divriği"
+date: "2025-12-25T13:55:07+03:00"
 slug: "naib-kumbeti-divrigi"
 description: "## Naib Kümbeti, Divriği..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.1189232,39.3719978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Naib Kümbeti, Divriği

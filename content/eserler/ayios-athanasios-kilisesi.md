@@ -1,18 +1,17 @@
 ---
-title: "Ayios Athanasios Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:13+03:00
+title: "Ayios Athanasios Kilisesi"
+date: "2025-12-25T09:31:13+03:00"
 slug: "ayios-athanasios-kilisesi"
 description: "### Ayios Athanasios Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mudanya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.5319862,40.5360489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Athanasios Kilisesi

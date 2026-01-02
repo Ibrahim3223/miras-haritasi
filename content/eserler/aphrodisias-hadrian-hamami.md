@@ -1,18 +1,17 @@
 ---
-title: "Aphrodisias Hadrian Hamamı | Miras Haritası"
-date: 2025-12-25T05:33:56+03:00
+title: "Aphrodisias Hadrian Hamamı"
+date: "2025-12-25T05:33:56+03:00"
 slug: "aphrodisias-hadrian-hamami"
 description: "## Aphrodisias Hadrian Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.7223492,37.708065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aphrodisias Hadrian Hamamı

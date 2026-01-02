@@ -1,18 +1,17 @@
 ---
-title: "Sakız Dede Türbesi, Kuşadası | Miras Haritası"
-date: 2025-12-25T13:51:22+03:00
+title: "Sakız Dede Türbesi, Kuşadası"
+date: "2025-12-25T13:51:22+03:00"
 slug: "sakiz-dede-turbesi-kusadasi"
 description: "## Sakız Dede Türbesi, Kuşadası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2525959,37.8564606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakız Dede Türbesi, Kuşadası

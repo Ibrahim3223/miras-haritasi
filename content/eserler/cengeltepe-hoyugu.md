@@ -1,18 +1,17 @@
 ---
-title: "Çengeltepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:00:39+03:00
+title: "Çengeltepe Höyüğü"
+date: "2025-12-25T07:00:39+03:00"
 slug: "cengeltepe-hoyugu"
 description: "### Çengeltepe Höyüğü ..."
 featured_image: ""
-province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: "Ankara Vilayeti"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8230566,39.8226452"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çengeltepe Höyüğü 

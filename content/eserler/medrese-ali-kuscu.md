@@ -1,18 +1,17 @@
 ---
-title: "Medrese, Ali Kuşçu | Miras Haritası"
-date: 2025-12-25T17:30:06+03:00
+title: "Medrese, Ali Kuşçu"
+date: "2025-12-25T17:30:06+03:00"
 slug: "medrese-ali-kuscu"
 description: "## Medrese, Ali Kuşçukonumuza Hoşgeldiniz..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.951854,41.019505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Medrese, Ali Kuşçukonumuza Hoşgeldiniz

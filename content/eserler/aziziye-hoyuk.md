@@ -1,18 +1,17 @@
 ---
-title: "Aziziye Höyük | Miras Haritası"
-date: 2025-12-25T07:01:37+03:00
+title: "Aziziye Höyük"
+date: "2025-12-25T07:01:37+03:00"
 slug: "aziziye-hoyuk"
 description: "# Aziziye Höyük: Türkiye'nin Eski Çağ Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aziziye Höyük: Türkiye'nin Eski Çağ Mirası

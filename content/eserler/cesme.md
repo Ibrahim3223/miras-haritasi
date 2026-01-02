@@ -1,18 +1,17 @@
 ---
-title: "Çeşme | Miras Haritası"
-date: 2025-12-25T10:19:28+03:00
+title: "Çeşme"
+date: "2025-12-25T10:19:28+03:00"
 slug: "cesme"
 description: "# Gelibolu Çeşmesi: Çanakkale'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.4325829,40.3498573"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gelibolu Çeşmesi: Çanakkale'nin Tarihi Bir Anıtı

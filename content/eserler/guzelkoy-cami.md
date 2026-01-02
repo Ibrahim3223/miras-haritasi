@@ -1,18 +1,17 @@
 ---
-title: "Güzelköy Cami | Miras Haritası"
-date: 2025-12-24T23:27:00+03:00
+title: "Güzelköy Cami"
+date: "2025-12-24T23:27:00+03:00"
 slug: "guzelkoy-cami"
 description: "### Güzelköy Cami..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2917995,40.7414017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güzelköy Cami

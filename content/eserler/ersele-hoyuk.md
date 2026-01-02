@@ -1,18 +1,17 @@
 ---
-title: "Ersele Höyük | Miras Haritası"
-date: 2025-12-25T08:26:20+03:00
+title: "Ersele Höyük"
+date: "2025-12-25T08:26:20+03:00"
 slug: "ersele-hoyuk"
 description: "## Ersele Höyük: Aksaray'ın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Ersele_Höyük_-_1.png/1200px-Ersele_Höyük_-_1.png"
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Çatin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.214722222,38.679722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ersele Höyük: Aksaray'ın Gizli Mirası

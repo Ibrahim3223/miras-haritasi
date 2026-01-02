@@ -1,18 +1,17 @@
 ---
-title: "Bergama Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:46:30+03:00
+title: "Bergama Kütüphanesi"
+date: "2025-12-25T17:46:30+03:00"
 slug: "bergama-kutuphanesi"
 description: "## Bergama Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Modell_Pergamonmuseum_Athenaheiligtum.jpg/1200px-Modell_Pergamonmuseum_Athenaheiligtum.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.1842,39.1325"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bergama Kütüphanesi

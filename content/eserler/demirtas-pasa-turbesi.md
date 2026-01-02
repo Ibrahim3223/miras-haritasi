@@ -1,18 +1,17 @@
 ---
-title: "Demirtaş Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:27+03:00
+title: "Demirtaş Paşa Türbesi"
+date: "2025-12-25T14:44:27+03:00"
 slug: "demirtas-pasa-turbesi"
 description: "# Demirtaş Paşa Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.6140366,39.4509773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Demirtaş Paşa Türbesi

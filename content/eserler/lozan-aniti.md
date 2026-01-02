@@ -1,18 +1,17 @@
 ---
-title: "Lozan Anıtı | Miras Haritası"
-date: 2025-12-25T03:25:32+03:00
+title: "Lozan Anıtı"
+date: "2025-12-25T03:25:32+03:00"
 slug: "lozan-aniti"
 description: "## Lozan Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TreatyOfLausanneMonumentEdirne.JPG/1200px-TreatyOfLausanneMonumentEdirne.JPG"
 province: "Edirne (ilçe)"
-iller: ["Edirne (ilçe)"]
+iller: '["Edirne (ilçe)"]'
 district: "Karaağaç"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.52005,41.65256"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lozan Anıtı

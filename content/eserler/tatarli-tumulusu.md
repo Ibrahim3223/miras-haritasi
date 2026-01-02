@@ -1,18 +1,17 @@
 ---
-title: "Tatarlı Tümülüsü | Miras Haritası"
-date: 2025-12-25T13:15:32+03:00
+title: "Tatarlı Tümülüsü"
+date: "2025-12-25T13:15:32+03:00"
 slug: "tatarli-tumulusu"
 description: "## Tatarlı Tümülüsü: Afyonkarahisar'ın Gizli Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5044937,38.2600937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatarlı Tümülüsü: Afyonkarahisar'ın Gizli Mirası

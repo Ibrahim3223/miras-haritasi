@@ -1,18 +1,17 @@
 ---
-title: "Turgutlu Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:30+03:00
+title: "Turgutlu Saat Kulesi"
+date: "2025-12-25T17:21:30+03:00"
 slug: "turgutlu-saat-kulesi"
 description: "### Turgutlu Saat Kulesi: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "27.70577,38.49774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Turgutlu Saat Kulesi: Manisa'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Cumapazarı Serindere Camii | Miras Haritası"
-date: 2025-12-25T00:39:18+03:00
+title: "Cumapazarı Serindere Camii"
+date: "2025-12-25T00:39:18+03:00"
 slug: "cumapazari-serindere-camii"
 description: "## Cumapazarı Serindere Camii: Trabzon'un Tarihi Bir Öyküsü..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Of"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.260904825,40.838026174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumapazarı Serindere Camii: Trabzon'un Tarihi Bir Öyküsü

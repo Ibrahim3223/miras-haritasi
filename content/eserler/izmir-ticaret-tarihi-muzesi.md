@@ -1,18 +1,17 @@
 ---
-title: "İzmir Ticaret Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:59+03:00
+title: "İzmir Ticaret Tarihi Müzesi"
+date: "2025-12-25T03:37:59+03:00"
 slug: "izmir-ticaret-tarihi-muzesi"
 description: "## İzmir Ticaret Tarihi Müzesi: İzmir'in Ticaret ve Kültür Mirasını Yansıtması..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.132777777,38.426944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzmir Ticaret Tarihi Müzesi: İzmir'in Ticaret ve Kültür Mirasını Yansıtması

@@ -1,18 +1,17 @@
 ---
-title: "Hasan Fehmi Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:02+03:00
+title: "Hasan Fehmi Paşa Türbesi"
+date: "2025-12-25T14:29:02+03:00"
 slug: "hasan-fehmi-pasa-turbesi"
 description: "## Hasan Fehmi Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.955318,41.01168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Fehmi Paşa Türbesi

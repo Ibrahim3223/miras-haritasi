@@ -1,18 +1,17 @@
 ---
-title: "Dırabey Höyüğü | Miras Haritası"
-date: 2025-12-25T06:16:01+03:00
+title: "Dırabey Höyüğü"
+date: "2025-12-25T06:16:01+03:00"
 slug: "dirabey-hoyugu"
 description: "## Dırabey Höyüğü: Çumra'nın Önemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.57508,37.63231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dırabey Höyüğü: Çumra'nın Önemli Arkeolojik Sitleri

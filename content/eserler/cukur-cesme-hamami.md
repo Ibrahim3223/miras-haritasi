@@ -1,18 +1,17 @@
 ---
-title: "Çukur Çeşme Hamamı | Miras Haritası"
-date: 2025-12-25T16:45:55+03:00
+title: "Çukur Çeşme Hamamı"
+date: "2025-12-25T16:45:55+03:00"
 slug: "cukur-cesme-hamami"
 description: "## Çukur Çeşme Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9575481,41.0110664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukur Çeşme Hamamı

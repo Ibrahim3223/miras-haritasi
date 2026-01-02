@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Çeşmesi, Mercan | Miras Haritası"
-date: 2025-12-25T12:19:12+03:00
+title: "Mehmet Ağa Çeşmesi, Mercan"
+date: "2025-12-25T12:19:12+03:00"
 slug: "mehmet-aga-cesmesi-mercan"
 description: "## Mehmet Ağa Çeşmesi, Mercan..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9665813,41.0123024"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ağa Çeşmesi, Mercan

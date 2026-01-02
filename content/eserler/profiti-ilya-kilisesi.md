@@ -1,18 +1,17 @@
 ---
-title: "Profiti İlya Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:39+03:00
+title: "Profiti İlya Kilisesi"
+date: "2025-12-25T09:33:39+03:00"
 slug: "profiti-ilya-kilisesi"
 description: "### Profil İlya Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.032579,41.021096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Profil İlya Kilisesi

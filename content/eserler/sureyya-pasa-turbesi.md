@@ -1,18 +1,17 @@
 ---
-title: "Süreyya Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:11+03:00
+title: "Süreyya Paşa Türbesi"
+date: "2025-12-25T14:55:11+03:00"
 slug: "sureyya-pasa-turbesi"
 description: "## Süreyya Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1473484,40.9516449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süreyya Paşa Türbesi

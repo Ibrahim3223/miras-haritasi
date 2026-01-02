@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Sarayı Hünkar Hamamı | Miras Haritası"
-date: 2025-12-25T17:14:07+03:00
+title: "Yıldız Sarayı Hünkar Hamamı"
+date: "2025-12-25T17:14:07+03:00"
 slug: "yildiz-sarayi-hunkar-hamami"
 description: "### Yıldız Sarayı Hünkar Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.011808663,41.050357755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yıldız Sarayı Hünkar Hamamı

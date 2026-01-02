@@ -1,18 +1,17 @@
 ---
-title: "Ahmediye Sebili | Miras Haritası"
-date: 2025-12-25T13:07:17+03:00
+title: "Ahmediye Sebili"
+date: "2025-12-25T13:07:17+03:00"
 slug: "ahmediye-sebili"
 description: "## Ahmediye Sebili: Üsküdar'ın Tarihi Çeşme Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ahmediye_Sebili.jpg/1200px-Ahmediye_Sebili.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0168018,41.0200272"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahmediye Sebili: Üsküdar'ın Tarihi Çeşme Anıtı

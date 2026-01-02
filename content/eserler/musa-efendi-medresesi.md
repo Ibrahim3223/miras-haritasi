@@ -1,18 +1,17 @@
 ---
-title: "Musa Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:44+03:00
+title: "Musa Efendi Medresesi"
+date: "2025-12-25T17:44:44+03:00"
 slug: "musa-efendi-medresesi"
 description: "### Musa Efendi Medresesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0950451,37.7721558"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Musa Efendi Medresesi

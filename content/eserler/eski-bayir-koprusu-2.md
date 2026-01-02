@@ -1,18 +1,17 @@
 ---
-title: "Eski Bayır Köprüsü 2 | Miras Haritası"
-date: 2025-12-25T02:22:24+03:00
+title: "Eski Bayır Köprüsü 2"
+date: "2025-12-25T02:22:24+03:00"
 slug: "eski-bayir-koprusu-2"
 description: "### Eski Bayır Köprüsü 2..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2632294,37.2698288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Bayır Köprüsü 2

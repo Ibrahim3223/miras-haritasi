@@ -1,18 +1,17 @@
 ---
-title: "Servirevan Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:45:28+03:00
+title: "Servirevan Sokak Çeşmesi"
+date: "2025-12-25T11:45:28+03:00"
 slug: "servirevan-sokak-cesmesi"
 description: "## Servirevan Sokak Çeşmesi: Beşiktaş'ta Bir Tarihî Eser..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9990234,41.0424194"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Servirevan Sokak Çeşmesi: Beşiktaş'ta Bir Tarihî Eser

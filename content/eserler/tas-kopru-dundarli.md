@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Dündarlı | Miras Haritası"
-date: 2025-12-25T02:55:04+03:00
+title: "Taş Köprü, Dündarlı"
+date: "2025-12-25T02:55:04+03:00"
 slug: "tas-kopru-dundarli"
 description: "# Taş Köprü, Dündarlı: İzmir'in Tarihi Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7771549,37.9976196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Taş Köprü, Dündarlı: İzmir'in Tarihi Mirası

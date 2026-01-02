@@ -1,18 +1,17 @@
 ---
-title: "Cedit Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:19:02+03:00
+title: "Cedit Mahallesi Çeşmesi"
+date: "2025-12-25T10:19:02+03:00"
 slug: "cedit-mahallesi-cesmesi"
 description: "### Cedit Mahallesi Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9729042,39.4229774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cedit Mahallesi Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası

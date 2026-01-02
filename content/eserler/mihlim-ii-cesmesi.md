@@ -1,18 +1,17 @@
 ---
-title: "Mıhlım II Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:50+03:00
+title: "Mıhlım II Çeşmesi"
+date: "2025-12-25T10:48:50+03:00"
 slug: "mihlim-ii-cesmesi"
 description: "## Mıhlım II Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4921799,38.7253761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mıhlım II Çeşmesi

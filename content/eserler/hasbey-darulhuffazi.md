@@ -1,18 +1,17 @@
 ---
-title: "Hasbey Darülhuffazı | Miras Haritası"
-date: 2025-12-25T17:33:46+03:00
+title: "Hasbey Darülhuffazı"
+date: "2025-12-25T17:33:46+03:00"
 slug: "hasbey-darulhuffazi"
 description: "## Hasbey Darülhuffazı: Konya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "32.4950981,37.8693352"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasbey Darülhuffazı: Konya'nın Kültürel Mirası

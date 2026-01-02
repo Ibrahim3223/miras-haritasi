@@ -1,18 +1,17 @@
 ---
-title: "İsmet İnönü Heykeli, Malatya | Miras Haritası"
-date: 2025-12-25T15:51:44+03:00
+title: "İsmet İnönü Heykeli, Malatya"
+date: "2025-12-25T15:51:44+03:00"
 slug: "ismet-inonu-heykeli-malatya"
 description: "**İsmet İnönü Heykeli**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.3184547,38.3481674"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İsmet İnönü Heykeli**

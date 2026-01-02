@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Çeşmesi, Eyüp (Merkez Mah) | Miras Haritası"
-date: 2025-12-25T12:04:05+03:00
+title: "Sokullu Mehmet Paşa Çeşmesi, Eyüp (Merkez Mah)"
+date: "2025-12-25T12:04:05+03:00"
 slug: "sokullu-mehmet-pasa-cesmesi-eyup-merkez-mah"
 description: "## Sokullu Mehmet Paşa Çeşmesi: Eyüp'te Bir Tarihî Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9355412,41.0474167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokullu Mehmet Paşa Çeşmesi: Eyüp'te Bir Tarihî Çeşme

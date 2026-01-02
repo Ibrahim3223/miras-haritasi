@@ -1,18 +1,17 @@
 ---
-title: "Eskipaşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:26:33+03:00
+title: "Eskipaşa Hamamı"
+date: "2025-12-25T16:26:33+03:00"
 slug: "eskipasa-hamami"
 description: "# Eskipaşa Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.015442,39.746758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Eskipaşa Hamamı

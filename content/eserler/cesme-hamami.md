@@ -1,18 +1,17 @@
 ---
-title: "Çeşme Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:19+03:00
+title: "Çeşme Hamamı"
+date: "2025-12-25T16:35:19+03:00"
 slug: "cesme-hamami"
 description: "**Çeşme Hamamı: İstanbul'un Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.972471,41.023787"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çeşme Hamamı: İstanbul'un Tarihi ve Kültürel Mirası**

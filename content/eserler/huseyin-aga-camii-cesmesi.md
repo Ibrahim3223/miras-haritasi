@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Ağa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:09:50+03:00
+title: "Hüseyin Ağa Camii Çeşmesi"
+date: "2025-12-25T11:09:50+03:00"
 slug: "huseyin-aga-camii-cesmesi"
 description: "### Hüseyin Ağa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hüseyin_Ağa_Camii_Çeşmesi.jpg/1200px-Hüseyin_Ağa_Camii_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.980416,41.035224"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hüseyin Ağa Camii Çeşmesi

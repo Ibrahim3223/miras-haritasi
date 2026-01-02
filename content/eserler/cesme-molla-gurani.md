@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Molla Gürani | Miras Haritası"
-date: 2025-12-25T12:05:23+03:00
+title: "Çeşme, Molla Gürani"
+date: "2025-12-25T12:05:23+03:00"
 slug: "cesme-molla-gurani"
 description: "### Molla Gürani Çeşmesi: Fatih'in Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.940691,41.0163574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Molla Gürani Çeşmesi: Fatih'in Tarihi Çeşmesi

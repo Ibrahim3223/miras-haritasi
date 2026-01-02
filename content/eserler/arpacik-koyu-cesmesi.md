@@ -1,18 +1,17 @@
 ---
-title: "Arpacık Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:46+03:00
+title: "Arpacık Köyü Çeşmesi"
+date: "2025-12-25T10:16:46+03:00"
 slug: "arpacik-koyu-cesmesi"
 description: "## Arpacık Köyü Çeşmesi: Giresun'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Espiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.775753,40.8864212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arpacık Köyü Çeşmesi: Giresun'un Gizli Çeşmesi

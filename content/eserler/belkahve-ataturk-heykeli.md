@@ -1,18 +1,17 @@
 ---
-title: "Belkahve Atatürk Heykeli | Miras Haritası"
-date: 2025-12-25T13:37:57+03:00
+title: "Belkahve Atatürk Heykeli"
+date: "2025-12-25T13:37:57+03:00"
 slug: "belkahve-ataturk-heykeli"
 description: "## Belkahve Atatürk Heykeli: İzmir'in Anlaşılır Yüzü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Belkahve_Atatürk_Heykeli.jpg/1200px-Belkahve_Atatürk_Heykeli.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.31725,38.453805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Belkahve Atatürk Heykeli: İzmir'in Anlaşılır Yüzü

@@ -1,18 +1,17 @@
 ---
-title: "Selimiye Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:21+03:00
+title: "Selimiye Kalesi"
+date: "2025-12-25T01:34:21+03:00"
 slug: "selimiye-kalesi"
 description: "## Selimiye Kalesi: Marmaris'in Tarihi ve Güzel Bir İmgesi ..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.1020985,36.7014961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selimiye Kalesi: Marmaris'in Tarihi ve Güzel Bir İmgesi 

@@ -1,18 +1,17 @@
 ---
-title: "Tekkeönü Kalesi | Miras Haritası"
-date: 2025-12-25T01:27:22+03:00
+title: "Tekkeönü Kalesi"
+date: "2025-12-25T01:27:22+03:00"
 slug: "tekkeonu-kalesi"
 description: "## Tekkeönü Kalesi: Bartın'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Kurucaşile"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.6669655,41.8312836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekkeönü Kalesi: Bartın'ın Gizli Kahramanı

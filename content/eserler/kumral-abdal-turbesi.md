@@ -1,18 +1,17 @@
 ---
-title: "Kumral Abdal Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:19+03:00
+title: "Kumral Abdal Türbesi"
+date: "2025-12-25T14:51:19+03:00"
 slug: "kumral-abdal-turbesi"
 description: "### Kumral Abdal Türbesi: Bozüyük'te Bir Manevi Miras..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0463333,39.8865433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kumral Abdal Türbesi: Bozüyük'te Bir Manevi Miras

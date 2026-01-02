@@ -1,18 +1,17 @@
 ---
-title: "Damatzade Mehmet Murat Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:27+03:00
+title: "Damatzade Mehmet Murat Efendi Çeşmesi"
+date: "2025-12-25T10:34:27+03:00"
 slug: "damatzade-mehmet-murat-efendi-cesmesi"
 description: "## Damatzade Mehmet Murat Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Damatzade_Mehmet_Murat_Efendi_Çeşmesi.jpg/1200px-Damatzade_Mehmet_Murat_Efendi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.04306,41.160614"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Damatzade Mehmet Murat Efendi Çeşmesi

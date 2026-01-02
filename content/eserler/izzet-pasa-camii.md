@@ -1,18 +1,17 @@
 ---
-title: "İzzet Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:58:48+03:00
+title: "İzzet Paşa Camii"
+date: "2025-12-24T21:58:48+03:00"
 slug: "izzet-pasa-camii"
 description: "**İzzet Paşa Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Elazig_Izzetpascha-Moschee.jpg/1200px-Elazig_Izzetpascha-Moschee.jpg"
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.22361111,38.67472222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **İzzet Paşa Camii**

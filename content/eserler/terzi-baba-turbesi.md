@@ -1,18 +1,17 @@
 ---
-title: "Terzi Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:36+03:00
+title: "Terzi Baba Türbesi"
+date: "2025-12-25T14:16:36+03:00"
 slug: "terzi-baba-turbesi"
 description: "## Terzi Baba Türbesi: Erzincan'ın Gizli Anıtı..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.499279,39.7170219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terzi Baba Türbesi: Erzincan'ın Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ferruh Mescidi | Miras Haritası"
-date: 2025-12-24T23:29:26+03:00
+title: "Hacı Ferruh Mescidi"
+date: "2025-12-24T23:29:26+03:00"
 slug: "haci-ferruh-mescidi"
 description: "## Hacı Ferruh Mescidi: Konya'nın Tarihi Bir Zenginliği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4938469,37.8648605"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ferruh Mescidi: Konya'nın Tarihi Bir Zenginliği

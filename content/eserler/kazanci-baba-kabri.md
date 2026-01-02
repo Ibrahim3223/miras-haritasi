@@ -1,18 +1,17 @@
 ---
-title: "Kazancı Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:36:44+03:00
+title: "Kazancı Baba Kabri"
+date: "2025-12-25T13:36:44+03:00"
 slug: "kazanci-baba-kabri"
 description: "## Kazancı Baba Kabri: Beyoğlu'ndaki Bir Anıtın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kazancı_Baba_Kabri_Mezar_Taşları.jpg/1200px-Kazancı_Baba_Kabri_Mezar_Taşları.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9858189,41.0356674"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kazancı Baba Kabri: Beyoğlu'ndaki Bir Anıtın Gizemi

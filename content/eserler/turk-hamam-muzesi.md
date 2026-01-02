@@ -1,18 +1,17 @@
 ---
-title: "Türk Hamam Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:27+03:00
+title: "Türk Hamam Müzesi"
+date: "2025-12-25T03:28:27+03:00"
 slug: "turk-hamam-muzesi"
 description: "## Türk Hamam Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.916851,40.1698303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk Hamam Müzesi

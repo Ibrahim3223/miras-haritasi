@@ -1,18 +1,17 @@
 ---
-title: "Yakup Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:22+03:00
+title: "Yakup Baba Türbesi"
+date: "2025-12-25T14:25:22+03:00"
 slug: "yakup-baba-turbesi"
 description: "## Yakup Baba Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.283861,36.855981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yakup Baba Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Kıyıköy Kalesi Liman Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:14+03:00
+title: "Kıyıköy Kalesi Liman Kapısı"
+date: "2025-12-25T15:37:14+03:00"
 slug: "kiyikoy-kalesi-liman-kapisi"
 description: "**Kıyıköy Kalesi Liman Kapısı: Bir Altın Çağın Kalıntısı**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.0983181,41.6331749"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kıyıköy Kalesi Liman Kapısı: Bir Altın Çağın Kalıntısı**

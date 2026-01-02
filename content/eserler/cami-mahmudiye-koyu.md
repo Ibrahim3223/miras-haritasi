@@ -1,18 +1,17 @@
 ---
-title: "Cami (Mahmudiye Köyü) | Miras Haritası"
-date: 2025-12-25T00:44:15+03:00
+title: "Cami (Mahmudiye Köyü)"
+date: "2025-12-25T00:44:15+03:00"
 slug: "cami-mahmudiye-koyu"
 description: "## Ezine'deki Mahmudiye Köyü Camisi: Bir Örnek Osmanlı Mimarisinden..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.198352728,39.922225771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ezine'deki Mahmudiye Köyü Camisi: Bir Örnek Osmanlı Mimarisinden

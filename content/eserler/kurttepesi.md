@@ -1,18 +1,17 @@
 ---
-title: "Kurttepesi | Miras Haritası"
-date: 2025-12-25T05:47:59+03:00
+title: "Kurttepesi"
+date: "2025-12-25T05:47:59+03:00"
 slug: "kurttepesi"
 description: "### Kurttepesi Arkeolojik Sitesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Bozova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.2413902,37.2348557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurttepesi Arkeolojik Sitesi

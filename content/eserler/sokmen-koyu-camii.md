@@ -1,18 +1,17 @@
 ---
-title: "Sökmen Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:07:59+03:00
+title: "Sökmen Köyü Camii"
+date: "2025-12-24T23:07:59+03:00"
 slug: "sokmen-koyu-camii"
 description: "## Sökmen Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.630987,40.056464"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sökmen Köyü Camii

@@ -1,18 +1,17 @@
 ---
-title: "Tiladir Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T05:54:31+03:00
+title: "Tiladir Tepe Höyüğü"
+date: "2025-12-25T05:54:31+03:00"
 slug: "tiladir-tepe-hoyugu"
 description: "## Tiladir Tepe Höyüğü..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0379653,36.8654423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tiladir Tepe Höyüğü

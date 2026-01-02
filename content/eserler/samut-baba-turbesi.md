@@ -1,18 +1,17 @@
 ---
-title: "Samut Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:21+03:00
+title: "Samut Baba Türbesi"
+date: "2025-12-25T15:13:21+03:00"
 slug: "samut-baba-turbesi"
 description: "## Samut Baba Türbesi: Urla'nın Gizemli Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.725804,38.315052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samut Baba Türbesi: Urla'nın Gizemli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Bindaios | Miras Haritası"
-date: 2025-12-25T05:09:48+03:00
+title: "Bindaios"
+date: "2025-12-25T05:09:48+03:00"
 slug: "bindaios"
 description: "## Isparta'da Bir Çağlar Boyu Miras: Bindaios Arkeolojik Sit..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.721302,37.8658935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Isparta'da Bir Çağlar Boyu Miras: Bindaios Arkeolojik Sit

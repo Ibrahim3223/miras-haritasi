@@ -1,18 +1,17 @@
 ---
-title: "Birlik Köyü Taş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:23+03:00
+title: "Birlik Köyü Taş Köprüsü"
+date: "2025-12-25T02:33:23+03:00"
 slug: "birlik-koyu-tas-koprusu"
 description: "## Birlik Köyü Taş Köprüsü..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Silopi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.5208473,37.2410698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Birlik Köyü Taş Köprüsü

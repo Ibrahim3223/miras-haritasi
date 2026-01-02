@@ -1,18 +1,17 @@
 ---
-title: "Sakalar Camii | Miras Haritası"
-date: 2025-12-24T22:38:49+03:00
+title: "Sakalar Camii"
+date: "2025-12-24T22:38:49+03:00"
 slug: "sakalar-camii"
 description: "## Sakalar Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Kurşunlu_Camii_İçinden.jpg/1200px-Kurşunlu_Camii_İçinden.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8619156,39.9354286"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sakalar Camii: Ankara'nın Tarihi Bir Mirası

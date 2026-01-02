@@ -1,18 +1,17 @@
 ---
-title: "Büyükada Çarşı Camii | Miras Haritası"
-date: 2025-12-24T22:18:44+03:00
+title: "Büyükada Çarşı Camii"
+date: "2025-12-24T22:18:44+03:00"
 slug: "buyukada-carsi-camii"
 description: "## Büyükada Çarşı Camii: Adalar'ın Yüzyıllar Öncesi Tarihini Saklayan Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Construction_of_Büyükada_Çarşı_Mosque_20220506.jpg/1200px-Construction_of_Büyükada_Çarşı_Mosque_20220506.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.130010154,40.874699091"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Büyükada Çarşı Camii: Adalar'ın Yüzyıllar Öncesi Tarihini Saklayan Anıt

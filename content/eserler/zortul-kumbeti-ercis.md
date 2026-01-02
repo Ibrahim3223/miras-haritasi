@@ -1,18 +1,17 @@
 ---
-title: "Zortul Kümbeti, Erciş | Miras Haritası"
-date: 2025-12-25T13:55:48+03:00
+title: "Zortul Kümbeti, Erciş"
+date: "2025-12-25T13:55:48+03:00"
 slug: "zortul-kumbeti-ercis"
 description: "### Zortul Kümbeti: Erciş'teki Gizemli Anıt..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Erciş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.288154,39.068097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zortul Kümbeti: Erciş'teki Gizemli Anıt

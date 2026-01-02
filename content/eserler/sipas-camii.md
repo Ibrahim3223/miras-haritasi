@@ -1,18 +1,17 @@
 ---
-title: "Sipas Camii | Miras Haritası"
-date: 2025-12-24T23:05:20+03:00
+title: "Sipas Camii"
+date: "2025-12-24T23:05:20+03:00"
 slug: "sipas-camii"
 description: "# Sipas Camii: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8884964,36.6401443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sipas Camii: Karaman'ın Tarihi ve Kültürel Mirası

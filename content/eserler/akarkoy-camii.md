@@ -1,18 +1,17 @@
 ---
-title: "Akarköy Camii | Miras Haritası"
-date: 2025-12-24T22:58:54+03:00
+title: "Akarköy Camii"
+date: "2025-12-24T22:58:54+03:00"
 slug: "akarkoy-camii"
 description: "## Akarköy Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8371887,37.2503662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akarköy Camii

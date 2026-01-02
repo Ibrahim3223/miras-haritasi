@@ -1,18 +1,17 @@
 ---
-title: "Bünyamin Ayaşi Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:19+03:00
+title: "Bünyamin Ayaşi Türbesi"
+date: "2025-12-25T15:32:19+03:00"
 slug: "bunyamin-ayasi-turbesi"
 description: "## Bünyamin Ayaşi Türbesi..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
+iller: '["Ankara Vilayeti"]'
 district: "Ayaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.334177969,40.015775039"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bünyamin Ayaşi Türbesi

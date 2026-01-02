@@ -1,18 +1,17 @@
 ---
-title: "Gazi Süleyman Paşa Camii, Gelibolu | Miras Haritası"
-date: 2025-12-25T01:10:37+03:00
+title: "Gazi Süleyman Paşa Camii, Gelibolu"
+date: "2025-12-25T01:10:37+03:00"
 slug: "gazi-suleyman-pasa-camii-gelibolu"
 description: "### Gazi Süleyman Paşa Camii: Gelibolu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6719189,40.4087868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Süleyman Paşa Camii: Gelibolu'nun Tarihi Bir Mirası

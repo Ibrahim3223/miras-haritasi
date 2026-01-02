@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Paşa Camii (Osmaneli) | Miras Haritası"
-date: 2025-12-25T00:27:04+03:00
+title: "Rüstem Paşa Camii (Osmaneli)"
+date: "2025-12-25T00:27:04+03:00"
 slug: "rustem-pasa-camii-osmaneli"
 description: "### Rüstem Paşa Camii: Osmanlınin Örnek Bir Camisi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Osmaneli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0118694,40.35886"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rüstem Paşa Camii: Osmanlınin Örnek Bir Camisi

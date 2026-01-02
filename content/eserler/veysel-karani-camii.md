@@ -1,18 +1,17 @@
 ---
-title: "Veysel Karani Camii | Miras Haritası"
-date: 2025-12-24T23:42:17+03:00
+title: "Veysel Karani Camii"
+date: "2025-12-24T23:42:17+03:00"
 slug: "veysel-karani-camii"
 description: "## Veysel Karani Camii..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Baykan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7162361,38.1313782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veysel Karani Camii

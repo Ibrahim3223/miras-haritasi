@@ -1,18 +1,17 @@
 ---
-title: "TCG Gayret | Miras Haritası"
-date: 2025-12-25T03:08:18+03:00
+title: "TCG Gayret"
+date: "2025-12-25T03:08:18+03:00"
 slug: "tcg-gayret"
 description: "## TCG Gayret: Kocaeli'nin Denizcilik Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gayret_Museum.jpg/1200px-Gayret_Museum.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.916836,40.760185"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## TCG Gayret: Kocaeli'nin Denizcilik Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Bolvadin Alaca Cami | Miras Haritası"
-date: 2025-12-24T22:28:46+03:00
+title: "Bolvadin Alaca Cami"
+date: "2025-12-24T22:28:46+03:00"
 slug: "bolvadin-alaca-cami"
 description: "### Bolvadin Alaca Cami Tanıtımı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bolvadin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0477543,38.7091408"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bolvadin Alaca Cami Tanıtımı

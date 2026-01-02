@@ -1,18 +1,17 @@
 ---
-title: "Yazyurdu Kalesi | Miras Haritası"
-date: 2025-12-25T06:19:22+03:00
+title: "Yazyurdu Kalesi"
+date: "2025-12-25T06:19:22+03:00"
 slug: "yazyurdu-kalesi"
 description: "## Yazyurdu Kalesi: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Gürün"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9341442,38.7986391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yazyurdu Kalesi: Tarihi ve Kültürel Bir Miras

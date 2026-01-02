@@ -1,18 +1,17 @@
 ---
-title: "Bursa Oyuncak Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:26+03:00
+title: "Bursa Oyuncak Müzesi"
+date: "2025-12-25T03:10:26+03:00"
 slug: "bursa-oyuncak-muzesi"
 description: "## Bursa Oyuncak Müzesi..."
 featured_image: ""
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.933254768,40.218329657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bursa Oyuncak Müzesi

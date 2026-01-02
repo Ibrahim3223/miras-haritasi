@@ -1,18 +1,17 @@
 ---
-title: "Zincirlitaş Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:45:03+03:00
+title: "Zincirlitaş Merkez Camii"
+date: "2025-12-25T00:45:03+03:00"
 slug: "zincirlitas-merkez-camii"
 description: "## Zincirlitaş Merkez Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Dernekpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.248024314,40.790811701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zincirlitaş Merkez Camii

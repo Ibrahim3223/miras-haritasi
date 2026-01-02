@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mustafa Efendi Camii | Miras Haritası"
-date: 2025-12-25T00:08:27+03:00
+title: "Hacı Mustafa Efendi Camii"
+date: "2025-12-25T00:08:27+03:00"
 slug: "haci-mustafa-efendi-camii"
 description: "# Hacı Mustafa Efendi Camii: Çankırı'nın Gizli Çağı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Yapraklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7769127,40.7577133"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Mustafa Efendi Camii: Çankırı'nın Gizli Çağı

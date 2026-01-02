@@ -1,18 +1,17 @@
 ---
-title: "Anadolu Hisarı | Miras Haritası"
-date: 2025-12-25T03:09:17+03:00
+title: "Anadolu Hisarı"
+date: "2025-12-25T03:09:17+03:00"
 slug: "anadolu-hisari"
 description: "# Anadolu Hisarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Anadolu_Hisarı_in_2024_(cropped).jpg/1200px-Anadolu_Hisarı_in_2024_(cropped).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.067027777,41.082138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Anadolu Hisarı

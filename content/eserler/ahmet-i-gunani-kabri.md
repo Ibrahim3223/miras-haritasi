@@ -1,18 +1,17 @@
 ---
-title: "Ahmet-i Günani Kabri | Miras Haritası"
-date: 2025-12-25T13:59:34+03:00
+title: "Ahmet-i Günani Kabri"
+date: "2025-12-25T13:59:34+03:00"
 slug: "ahmet-i-gunani-kabri"
 description: "## Ahmet-i Günani Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9671974,41.0121536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet-i Günani Kabri

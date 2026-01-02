@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Rıfat Eczanesi | Miras Haritası"
-date: 2025-12-25T17:53:46+03:00
+title: "Mustafa Rıfat Eczanesi"
+date: "2025-12-25T17:53:46+03:00"
 slug: "mustafa-rifat-eczanesi"
 description: "## Mustafa Rıfat Eczanesi: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "35.331234,36.985981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Rıfat Eczanesi: Adana'nın Tarihi ve Kültürel Mirası

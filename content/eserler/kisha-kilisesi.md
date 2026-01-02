@@ -1,18 +1,17 @@
 ---
-title: "Kisha Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:24+03:00
+title: "Kisha Kilisesi"
+date: "2025-12-25T09:04:24+03:00"
 slug: "kisha-kilisesi"
 description: "## Kisha Kilisesi: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: ["Tortum ilçesi"]
+iller: '["Tortum ilçesi"]'
 district: "Şenyurt"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.423305555,40.431216666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kisha Kilisesi: Tarihi ve Mimari Özellikleri

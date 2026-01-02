@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Gazi Medresesi | Miras Haritası"
-date: 2025-12-25T15:26:10+03:00
+title: "Ahmet Gazi Medresesi"
+date: "2025-12-25T15:26:10+03:00"
 slug: "ahmet-gazi-medresesi"
 description: "### Ahmet Gazi Medresesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7882538,37.2729416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Gazi Medresesi

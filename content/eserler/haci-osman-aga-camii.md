@@ -1,18 +1,17 @@
 ---
-title: "Hacı Osman Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:54:50+03:00
+title: "Hacı Osman Ağa Camii"
+date: "2025-12-24T22:54:50+03:00"
 slug: "haci-osman-aga-camii"
 description: "## Hacı Osman Ağa Camii: Şile'nin Gizli Cenneti..."
 featured_image: ""
-province: "Şile"
-iller: ["Şile"]
-district: "Balibey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Şile"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.614748,41.177475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Osman Ağa Camii: Şile'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Karacabey Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:59:47+03:00
+title: "Karacabey Ulu Camii"
+date: "2025-12-24T21:59:47+03:00"
 slug: "karacabey-ulu-camii"
 description: "**Karacabey Ulu Camii: Bursa'nın Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.359305555,40.219166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karacabey Ulu Camii: Bursa'nın Tarihi ve Kültürel Mirası**

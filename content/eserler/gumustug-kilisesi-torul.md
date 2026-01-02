@@ -1,18 +1,17 @@
 ---
-title: "Gümüştuğ Kilisesi Torul | Miras Haritası"
-date: 2025-12-25T09:13:55+03:00
+title: "Gümüştuğ Kilisesi Torul"
+date: "2025-12-25T09:13:55+03:00"
 slug: "gumustug-kilisesi-torul"
 description: "# Gümüştuğ Kilisesi Torul: Gümüşhane'nin Gizli Cenneti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.1450195,40.4563255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gümüştuğ Kilisesi Torul: Gümüşhane'nin Gizli Cenneti

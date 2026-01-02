@@ -1,18 +1,17 @@
 ---
-title: "Buğday Pazarı Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:30:50+03:00
+title: "Buğday Pazarı Çeşmesi, Çankırı"
+date: "2025-12-25T12:30:50+03:00"
 slug: "bugday-pazari-cesmesi-cankiri"
 description: "## Buğday Pazarı Çeşmesi, Çankırı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.619502072,40.600646557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Buğday Pazarı Çeşmesi, Çankırı

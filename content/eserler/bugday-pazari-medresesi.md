@@ -1,18 +1,17 @@
 ---
-title: "Buğday Pazarı Medresesi | Miras Haritası"
-date: 2025-12-25T17:26:37+03:00
+title: "Buğday Pazarı Medresesi"
+date: "2025-12-25T17:26:37+03:00"
 slug: "bugday-pazari-medresesi"
 description: "## Buğday Pazarı Medresesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "33.6190567,40.601223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Buğday Pazarı Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Hacı İlyas Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:32+03:00
+title: "Hacı İlyas Camii Çeşmesi"
+date: "2025-12-25T10:24:32+03:00"
 slug: "haci-ilyas-camii-cesmesi"
 description: "## Hacı İlyas Camii Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8621521,39.9325104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı İlyas Camii Çeşmesi

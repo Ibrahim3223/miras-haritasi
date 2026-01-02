@@ -1,18 +1,17 @@
 ---
-title: "Niyazi Tepe Tapınak Mezarı | Miras Haritası"
-date: 2025-12-25T14:08:19+03:00
+title: "Niyazi Tepe Tapınak Mezarı"
+date: "2025-12-25T14:08:19+03:00"
 slug: "niyazi-tepe-tapinak-mezari"
 description: "## Niyazi Tepe Tapınak Mezarı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1985245,39.1418724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Niyazi Tepe Tapınak Mezarı

@@ -1,18 +1,17 @@
 ---
-title: "Kadıasker Mustafa Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:59+03:00
+title: "Kadıasker Mustafa Medresesi"
+date: "2025-12-25T17:44:59+03:00"
 slug: "kadiasker-mustafa-medresesi"
 description: "## Kadıasker Mustafa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9480629,41.0256386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadıasker Mustafa Medresesi

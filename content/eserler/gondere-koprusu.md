@@ -1,18 +1,17 @@
 ---
-title: "Göndere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:10+03:00
+title: "Göndere Köprüsü"
+date: "2025-12-25T02:40:10+03:00"
 slug: "gondere-koprusu"
 description: "## Göndere Köprüsü: Karaman'ın Tarihi Örenleri Arasındaki Bir Harika..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.096074113,37.159269777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göndere Köprüsü: Karaman'ın Tarihi Örenleri Arasındaki Bir Harika

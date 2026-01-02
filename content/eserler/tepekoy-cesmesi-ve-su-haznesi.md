@@ -1,18 +1,17 @@
 ---
-title: "Tepeköy Çeşmesi ve Su Haznesi | Miras Haritası"
-date: 2025-12-25T10:55:10+03:00
+title: "Tepeköy Çeşmesi ve Su Haznesi"
+date: "2025-12-25T10:55:10+03:00"
 slug: "tepekoy-cesmesi-ve-su-haznesi"
 description: "## Tepeköy Çeşmesi ve Su Haznesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1919498,40.6771202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepeköy Çeşmesi ve Su Haznesi

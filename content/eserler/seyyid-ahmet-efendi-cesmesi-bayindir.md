@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Ahmet Efendi Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:51:54+03:00
+title: "Seyyid Ahmet Efendi Çeşmesi, Bayındır"
+date: "2025-12-25T12:51:54+03:00"
 slug: "seyyid-ahmet-efendi-cesmesi-bayindir"
 description: "## Seyyid Ahmet Efendi Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6478672,38.2246704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Ahmet Efendi Çeşmesi, Bayındır

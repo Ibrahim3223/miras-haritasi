@@ -1,18 +1,17 @@
 ---
-title: "Pirin Örenyeri | Miras Haritası"
-date: 2025-12-25T03:34:32+03:00
+title: "Pirin Örenyeri"
+date: "2025-12-25T03:34:32+03:00"
 slug: "pirin-orenyeri"
 description: "### Gölbaşı Pirin Örenyeri..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Gölbaşı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gölbaşı Pirin Örenyeri

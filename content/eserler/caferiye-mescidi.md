@@ -1,18 +1,17 @@
 ---
-title: "Caferiye Mescidi | Miras Haritası"
-date: 2025-12-25T01:06:51+03:00
+title: "Caferiye Mescidi"
+date: "2025-12-25T01:06:51+03:00"
 slug: "caferiye-mescidi"
 description: "## Caferiye Mescidi: Hatay'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1641693,36.1999626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Caferiye Mescidi: Hatay'ın Tarihi ve Kültürel Mirası

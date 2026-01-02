@@ -1,18 +1,17 @@
 ---
-title: "Çamçavuş Çelik Köprüsü | Miras Haritası"
-date: 2025-12-25T02:20:42+03:00
+title: "Çamçavuş Çelik Köprüsü"
+date: "2025-12-25T02:20:42+03:00"
 slug: "camcavus-celik-koprusu"
 description: "# Çamçavuş Çelik Köprüsü..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "43.0588951,40.5816269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çamçavuş Çelik Köprüsü

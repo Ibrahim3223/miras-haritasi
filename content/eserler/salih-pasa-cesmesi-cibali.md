@@ -1,18 +1,17 @@
 ---
-title: "Salih Paşa Çeşmesi, Cibali | Miras Haritası"
-date: 2025-12-25T12:11:33+03:00
+title: "Salih Paşa Çeşmesi, Cibali"
+date: "2025-12-25T12:11:33+03:00"
 slug: "salih-pasa-cesmesi-cibali"
 description: "## Salih Paşa Çeşmesi, Cibali..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Salih_Pasha_Mosque_02.jpg/1200px-Salih_Pasha_Mosque_02.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.958786,41.022814"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Salih Paşa Çeşmesi, Cibali

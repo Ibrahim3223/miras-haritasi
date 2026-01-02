@@ -1,18 +1,17 @@
 ---
-title: "Ladik Kaşı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:13+03:00
+title: "Ladik Kaşı Çeşmesi"
+date: "2025-12-25T11:36:13+03:00"
 slug: "ladik-kasi-cesmesi"
 description: "## Ladik Kaşı Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Sarayönü"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.3733177,38.1900902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ladik Kaşı Çeşmesi

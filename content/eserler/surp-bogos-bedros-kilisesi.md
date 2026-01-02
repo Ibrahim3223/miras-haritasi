@@ -1,18 +1,17 @@
 ---
-title: "Surp Boğos Bedros Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:55+03:00
+title: "Surp Boğos Bedros Kilisesi"
+date: "2025-12-25T09:12:55+03:00"
 slug: "surp-bogos-bedros-kilisesi"
 description: "## Surp Boğos Bedros Kilisesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Tomarza"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.800173,38.448547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Boğos Bedros Kilisesi

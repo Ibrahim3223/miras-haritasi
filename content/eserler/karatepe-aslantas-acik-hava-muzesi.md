@@ -1,18 +1,17 @@
 ---
-title: "Karatepe-Aslantaş Açık Hava Müzesi | Miras Haritası"
-date: 2025-12-25T03:16:32+03:00
+title: "Karatepe-Aslantaş Açık Hava Müzesi"
+date: "2025-12-25T03:16:32+03:00"
 slug: "karatepe-aslantas-acik-hava-muzesi"
 description: "### Karatepe-Aslantaş Açık Hava Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Karatepe_Museum.jpg/1200px-Karatepe_Museum.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Osmaniye"
+province: "Osmaniye"
+iller: '["Osmaniye"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.25004,37.30022"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Karatepe-Aslantaş Açık Hava Müzesi

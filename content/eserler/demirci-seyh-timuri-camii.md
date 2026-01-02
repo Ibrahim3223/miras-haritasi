@@ -1,18 +1,17 @@
 ---
-title: "Demirci Şeyh Timuri Camii | Miras Haritası"
-date: 2025-12-25T00:11:48+03:00
+title: "Demirci Şeyh Timuri Camii"
+date: "2025-12-25T00:11:48+03:00"
 slug: "demirci-seyh-timuri-camii"
 description: "## Demirci Şeyh Timuri Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çerkeş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8950195,40.814949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirci Şeyh Timuri Camii

@@ -1,18 +1,17 @@
 ---
-title: "Hamzapaşa Camii | Miras Haritası"
-date: 2025-12-24T23:32:26+03:00
+title: "Hamzapaşa Camii"
+date: "2025-12-24T23:32:26+03:00"
 slug: "hamzapasa-camii"
 description: "## Hamzapaşa Camii: Trabzon'un Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hamzapaşa_Camii.jpg/1200px-Hamzapaşa_Camii.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.712827,41.004289"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hamzapaşa Camii: Trabzon'un Tarihî Mirası

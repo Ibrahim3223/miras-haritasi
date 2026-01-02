@@ -1,18 +1,17 @@
 ---
-title: "Karaca Höyük, Eskişehir | Miras Haritası"
-date: 2025-12-25T05:28:57+03:00
+title: "Karaca Höyük, Eskişehir"
+date: "2025-12-25T05:28:57+03:00"
 slug: "karaca-hoyuk-eskisehir"
 description: "## Karaca Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.619133,39.767417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaca Höyük: Eskişehir'in Gizli Mirası

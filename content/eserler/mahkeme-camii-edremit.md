@@ -1,18 +1,17 @@
 ---
-title: "Mahkeme Camii (Edremit) | Miras Haritası"
-date: 2025-12-25T00:44:45+03:00
+title: "Mahkeme Camii (Edremit)"
+date: "2025-12-25T00:44:45+03:00"
 slug: "mahkeme-camii-edremit"
 description: "# Mahkeme Camii (Edremit)..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.021564856,39.594285796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mahkeme Camii (Edremit)

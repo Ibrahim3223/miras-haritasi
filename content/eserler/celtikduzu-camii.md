@@ -1,18 +1,17 @@
 ---
-title: "Çeltikdüzü Camii | Miras Haritası"
-date: 2025-12-25T01:03:50+03:00
+title: "Çeltikdüzü Camii"
+date: "2025-12-25T01:03:50+03:00"
 slug: "celtikduzu-camii"
 description: "## Çeltikdüzü Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4978001,40.7501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeltikdüzü Camii

@@ -1,18 +1,17 @@
 ---
-title: "Yörükbayırı Kiliselik Kuzey Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:38+03:00
+title: "Yörükbayırı Kiliselik Kuzey Tümülüsü"
+date: "2025-12-25T07:52:38+03:00"
 slug: "yorukbayiri-kiliselik-kuzey-tumulusu"
 description: "## Yörükbayırı Kiliselik Kuzey Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3411179,41.8249779"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yörükbayırı Kiliselik Kuzey Tümülüsü

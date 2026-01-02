@@ -1,18 +1,17 @@
 ---
-title: "Evliya Kasımpaşa Camii | Miras Haritası"
-date: 2025-12-24T21:56:32+03:00
+title: "Evliya Kasımpaşa Camii"
+date: "2025-12-24T21:56:32+03:00"
 slug: "evliya-kasimpasa-camii"
 description: "## Evliya Kasımpaşa Camii: Edirne'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.56034,41.66438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evliya Kasımpaşa Camii: Edirne'nin Gizli Çeşmesi

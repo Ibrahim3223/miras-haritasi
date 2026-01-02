@@ -1,18 +1,17 @@
 ---
-title: "Kürüş Camii | Miras Haritası"
-date: 2025-12-25T00:55:56+03:00
+title: "Kürüş Camii"
+date: "2025-12-25T00:55:56+03:00"
 slug: "kurus-camii"
 description: "## Kürüş Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.104447,36.917399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kürüş Camii

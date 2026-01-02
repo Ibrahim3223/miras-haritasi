@@ -1,18 +1,17 @@
 ---
-title: "Yağlıdere Köyü Bazbent Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:04+03:00
+title: "Yağlıdere Köyü Bazbent Köprüsü"
+date: "2025-12-25T02:30:04+03:00"
 slug: "yaglidere-koyu-bazbent-koprusu"
 description: "## Yağlıdere Köyü Bazbent Köprüsü: Gümüşhane'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.51297,40.54095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yağlıdere Köyü Bazbent Köprüsü: Gümüşhane'nin Tarihi Bir Mirası

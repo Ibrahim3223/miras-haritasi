@@ -1,18 +1,17 @@
 ---
-title: "Köprüköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:59:10+03:00
+title: "Köprüköy Köprüsü"
+date: "2025-12-25T02:59:10+03:00"
 slug: "koprukoy-koprusu"
 description: "## Köprüköy Köprüsü: Bismil'in Tarihî Bir Rönesansı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9566239,37.8155479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprüköy Köprüsü: Bismil'in Tarihî Bir Rönesansı

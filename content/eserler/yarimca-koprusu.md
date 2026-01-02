@@ -1,18 +1,17 @@
 ---
-title: "Yarımca Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:58+03:00
+title: "Yarımca Köprüsü"
+date: "2025-12-25T02:31:58+03:00"
 slug: "yarimca-koprusu"
 description: "**Yarımca Köprüsü**..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Yavuzeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.6692009,37.3272018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yarımca Köprüsü**

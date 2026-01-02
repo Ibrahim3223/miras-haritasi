@@ -1,18 +1,17 @@
 ---
-title: "Piramit Mezar-Turgut, Marmaris | Miras Haritası"
-date: 2025-12-25T14:06:25+03:00
+title: "Piramit Mezar-Turgut, Marmaris"
+date: "2025-12-25T14:06:25+03:00"
 slug: "piramit-mezar-turgut-marmaris"
 description: "## Piramit Mezar-Turgut: Marmaris'in Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.1264,36.7403984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Piramit Mezar-Turgut: Marmaris'in Gizli Cenneti

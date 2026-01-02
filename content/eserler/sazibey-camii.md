@@ -1,18 +1,17 @@
 ---
-title: "Şazibey Camii | Miras Haritası"
-date: 2025-12-24T23:10:15+03:00
+title: "Şazibey Camii"
+date: "2025-12-24T23:10:15+03:00"
 slug: "sazibey-camii"
 description: "## Şazibey Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9243774,37.5808678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şazibey Camii

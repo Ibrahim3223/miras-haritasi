@@ -1,18 +1,17 @@
 ---
-title: "Uğur Mumcu Anıtı | Miras Haritası"
-date: 2025-12-25T15:49:08+03:00
+title: "Uğur Mumcu Anıtı"
+date: "2025-12-25T15:49:08+03:00"
 slug: "ugur-mumcu-aniti"
 description: "## Uğur Mumcu Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9877644,41.0491867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uğur Mumcu Anıtı

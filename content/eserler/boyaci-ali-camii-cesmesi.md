@@ -1,18 +1,17 @@
 ---
-title: "Boyacı Ali Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:23+03:00
+title: "Boyacı Ali Camii Çeşmesi"
+date: "2025-12-25T10:28:23+03:00"
 slug: "boyaci-ali-camii-cesmesi"
 description: "### Boyacı Ali Camii Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8608437,39.9374847"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boyacı Ali Camii Çeşmesi

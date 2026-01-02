@@ -1,18 +1,17 @@
 ---
-title: "Zercel Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:44+03:00
+title: "Zercel Kalesi"
+date: "2025-12-25T01:36:44+03:00"
 slug: "zercel-kalesi"
 description: "## Zercel Kalesi: Batman'ın Gizli Kalesi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.485111,38.077339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zercel Kalesi: Batman'ın Gizli Kalesi

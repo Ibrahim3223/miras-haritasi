@@ -1,18 +1,17 @@
 ---
-title: "Çelebibağı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:39:04+03:00
+title: "Çelebibağı Höyüğü"
+date: "2025-12-25T06:39:04+03:00"
 slug: "celebibagi-hoyugu"
 description: "## Çelebibağı Höyüğü: Van Vilayeti'nin Gizli Harikası..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "Erciş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.322163136,38.975234261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çelebibağı Höyüğü: Van Vilayeti'nin Gizli Harikası

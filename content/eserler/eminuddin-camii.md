@@ -1,18 +1,17 @@
 ---
-title: "Eminüddin Camii | Miras Haritası"
-date: 2025-12-25T01:02:28+03:00
+title: "Eminüddin Camii"
+date: "2025-12-25T01:02:28+03:00"
 slug: "eminuddin-camii"
 description: "### Eminüddin Camii: Bir Osmanlı Dönemi Anıtının Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eminüddin Camii: Bir Osmanlı Dönemi Anıtının Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "İştipol Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:04+03:00
+title: "İştipol Sinagogu"
+date: "2025-12-25T16:14:04+03:00"
 slug: "istipol-sinagogu"
 description: "**İştipol Sinagogu**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Istipol_Sinagoga_Foto_Miguel_Angel_Otero_Soliño.JPG/1200px-Istipol_Sinagoga_Foto_Miguel_Angel_Otero_Soliño.JPG"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.94075,41.030805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **İştipol Sinagogu**

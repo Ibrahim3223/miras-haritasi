@@ -1,18 +1,17 @@
 ---
-title: "Amik Ovası | Miras Haritası"
-date: 2025-12-25T05:45:43+03:00
+title: "Amik Ovası"
+date: "2025-12-25T05:45:43+03:00"
 slug: "amik-ovasi"
 description: "**Amik Ovası: Türkiye'nin Bir Arkeolojik Kıvılcımı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amik_Ovası'nın_Amanoslar'dan_görünümü.jpg/1200px-Amik_Ovası'nın_Amanoslar'dan_görünümü.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.316111111,36.341388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Amik Ovası: Türkiye'nin Bir Arkeolojik Kıvılcımı**

@@ -1,18 +1,17 @@
 ---
-title: "Hassa Mescidi | Miras Haritası"
-date: 2025-12-24T23:30:50+03:00
+title: "Hassa Mescidi"
+date: "2025-12-24T23:30:50+03:00"
 slug: "hassa-mescidi"
 description: "## Hassa Mescidi..."
 featured_image: ""
 province: "Konak (ilçe)"
-iller: ["Konak (ilçe)"]
+iller: '["Konak (ilçe)"]'
 district: "Tuzcu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1357346,38.4141426"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hassa Mescidi

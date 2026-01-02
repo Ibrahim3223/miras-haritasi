@@ -1,18 +1,17 @@
 ---
-title: "Ebu İshak Medresesi | Miras Haritası"
-date: 2025-12-25T17:38:49+03:00
+title: "Ebu İshak Medresesi"
+date: "2025-12-25T17:38:49+03:00"
 slug: "ebu-ishak-medresesi"
 description: "## Ebu İshak Medresesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0707798,40.1856079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebu İshak Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Gizlice Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:47+03:00
+title: "Gizlice Baba Türbesi"
+date: "2025-12-25T14:17:47+03:00"
 slug: "gizlice-baba-turbesi"
 description: "### Gizlice Baba Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.695164,39.442194"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gizlice Baba Türbesi

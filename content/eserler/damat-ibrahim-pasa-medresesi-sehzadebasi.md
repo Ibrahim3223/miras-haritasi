@@ -1,18 +1,17 @@
 ---
-title: "Damat İbrahim Paşa Medresesi Şehzadebaşı | Miras Haritası"
-date: 2025-12-25T17:33:42+03:00
+title: "Damat İbrahim Paşa Medresesi Şehzadebaşı"
+date: "2025-12-25T17:33:42+03:00"
 slug: "damat-ibrahim-pasa-medresesi-sehzadebasi"
 description: "## Damat İbrahim Paşa Medresesi Şehzadebaşı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9584408,41.0130005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damat İbrahim Paşa Medresesi Şehzadebaşı

@@ -1,18 +1,17 @@
 ---
-title: "Çiftetepe B Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:00:56+03:00
+title: "Çiftetepe B Tümülüsü"
+date: "2025-12-25T08:00:56+03:00"
 slug: "ciftetepe-b-tumulusu"
 description: "### Çiftetepe B Tümülüsü: Edirne'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6534042,41.3082008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çiftetepe B Tümülüsü: Edirne'nin Gizli Arkeolojik Harikası

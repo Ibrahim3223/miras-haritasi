@@ -1,18 +1,17 @@
 ---
-title: "Dezgetepe Kalesi | Miras Haritası"
-date: 2025-12-25T01:42:52+03:00
+title: "Dezgetepe Kalesi"
+date: "2025-12-25T01:42:52+03:00"
 slug: "dezgetepe-kalesi"
 description: "### Dezgetepe Kalesi..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.1371155,37.7628365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dezgetepe Kalesi

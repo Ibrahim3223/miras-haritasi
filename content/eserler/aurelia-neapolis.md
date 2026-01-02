@@ -1,18 +1,17 @@
 ---
-title: "Aurelia Neapolis | Miras Haritası"
-date: 2025-12-25T04:59:05+03:00
+title: "Aurelia Neapolis"
+date: "2025-12-25T04:59:05+03:00"
 slug: "aurelia-neapolis"
 description: "# Aurelia Neapolis: Tarihî Bir Kentin İzleri..."
 featured_image: ""
 province: "Bozdoğan"
-iller: ["Bozdoğan"]
+iller: '["Bozdoğan"]'
 district: "Yazıkent"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.397699,37.690157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aurelia Neapolis: Tarihî Bir Kentin İzleri

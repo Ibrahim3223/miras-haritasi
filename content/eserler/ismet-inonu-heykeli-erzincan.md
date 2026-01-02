@@ -1,18 +1,17 @@
 ---
-title: "İsmet İnönü Heykeli, Erzincan | Miras Haritası"
-date: 2025-12-25T16:09:22+03:00
+title: "İsmet İnönü Heykeli, Erzincan"
+date: "2025-12-25T16:09:22+03:00"
 slug: "ismet-inonu-heykeli-erzincan"
 description: "### İsmet İnönü Heykeli, Erzincan..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.491066,39.7510757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsmet İnönü Heykeli, Erzincan

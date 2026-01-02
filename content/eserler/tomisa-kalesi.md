@@ -1,18 +1,17 @@
 ---
-title: "Tomisa Kalesi | Miras Haritası"
-date: 2025-12-25T01:51:30+03:00
+title: "Tomisa Kalesi"
+date: "2025-12-25T01:51:30+03:00"
 slug: "tomisa-kalesi"
 description: "## Tomisa Kalesi: Baskil'in Tarihî Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Baskil"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.8161964,38.452137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tomisa Kalesi: Baskil'in Tarihî Mirası

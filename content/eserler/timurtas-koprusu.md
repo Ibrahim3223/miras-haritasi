@@ -1,18 +1,17 @@
 ---
-title: "Timurtaş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:17:16+03:00
+title: "Timurtaş Köprüsü"
+date: "2025-12-25T02:17:16+03:00"
 slug: "timurtas-koprusu"
 description: "## Timurtaş Köprüsü..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Sarayköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.7988186,37.9365768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Timurtaş Köprüsü

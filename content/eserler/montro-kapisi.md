@@ -1,18 +1,17 @@
 ---
-title: "Montrö Kapısı | Miras Haritası"
-date: 2025-12-25T13:41:51+03:00
+title: "Montrö Kapısı"
+date: "2025-12-25T13:41:51+03:00"
 slug: "montro-kapisi"
 description: "## Montrö Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Montrö_Gate,_May_2019.jpg/1200px-Montrö_Gate,_May_2019.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.141611111,38.427861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Montrö Kapısı

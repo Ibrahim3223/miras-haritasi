@@ -1,18 +1,17 @@
 ---
-title: "Alaman Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:29+03:00
+title: "Alaman Kilisesi"
+date: "2025-12-25T08:57:29+03:00"
 slug: "alaman-kilisesi"
 description: "## Alaman Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_Church_in_Alaman_(Alem).jpg/1200px-The_Church_in_Alaman_(Alem).jpg"
 province: "Digor"
-iller: ["Digor"]
+iller: '["Digor"]'
 district: "Alem"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.509401897,40.427307467"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alaman Kilisesi

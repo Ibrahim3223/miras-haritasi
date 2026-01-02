@@ -1,18 +1,17 @@
 ---
-title: "Foça Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:45+03:00
+title: "Foça Kalesi"
+date: "2025-12-25T01:16:45+03:00"
 slug: "foca-kalesi"
 description: "# Foça Kalesi: Tarih ve Kültür Mirasının Parçaları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Foça_Castle_6505.jpg/1200px-Foça_Castle_6505.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.750818,38.669218"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Foça Kalesi: Tarih ve Kültür Mirasının Parçaları

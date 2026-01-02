@@ -1,18 +1,17 @@
 ---
-title: "Büyük Ağa Medresesi | Miras Haritası"
-date: 2025-12-25T13:38:23+03:00
+title: "Büyük Ağa Medresesi"
+date: "2025-12-25T13:38:23+03:00"
 slug: "buyuk-aga-medresesi"
 description: "## Büyük Ağa Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amasya-Kapı-Ağası-Medrese-02.JPG/1200px-Amasya-Kapı-Ağası-Medrese-02.JPG"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8348916,40.6585805"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Büyük Ağa Medresesi

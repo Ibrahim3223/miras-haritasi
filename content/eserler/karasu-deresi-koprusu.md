@@ -1,18 +1,17 @@
 ---
-title: "Karasu Deresi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:16+03:00
+title: "Karasu Deresi Köprüsü"
+date: "2025-12-25T02:29:16+03:00"
 slug: "karasu-deresi-koprusu"
 description: "### Karasu Deresi Köprüsü..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.6839352,40.4758644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karasu Deresi Köprüsü

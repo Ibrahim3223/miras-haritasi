@@ -1,18 +1,17 @@
 ---
-title: "Kopuz Kalesi | Miras Haritası"
-date: 2025-12-25T01:20:50+03:00
+title: "Kopuz Kalesi"
+date: "2025-12-25T01:20:50+03:00"
 slug: "kopuz-kalesi"
 description: "### Kopuz Kalesi: Torul'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.0711098,40.4741669"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kopuz Kalesi: Torul'un Tarihî ve Kültürel Mirası

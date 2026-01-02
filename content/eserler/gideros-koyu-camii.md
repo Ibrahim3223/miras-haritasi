@@ -1,18 +1,17 @@
 ---
-title: "Gideros Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:04:20+03:00
+title: "Gideros Köyü Camii"
+date: "2025-12-24T23:04:20+03:00"
 slug: "gideros-koyu-camii"
 description: "## Gideros Köyü Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Cide"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8622208,41.8612289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gideros Köyü Camii

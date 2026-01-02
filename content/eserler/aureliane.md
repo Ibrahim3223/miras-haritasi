@@ -1,18 +1,17 @@
 ---
-title: "Aureliane | Miras Haritası"
-date: 2025-12-25T04:49:55+03:00
+title: "Aureliane"
+date: "2025-12-25T04:49:55+03:00"
 slug: "aureliane"
 description: "## Aureliane: Roma'nın Altın Çağının Anıtı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.808751,40.404585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aureliane: Roma'nın Altın Çağının Anıtı

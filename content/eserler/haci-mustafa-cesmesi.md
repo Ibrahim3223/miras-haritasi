@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mustafa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:55+03:00
+title: "Hacı Mustafa Çeşmesi"
+date: "2025-12-25T11:29:55+03:00"
 slug: "haci-mustafa-cesmesi"
 description: "## Hacı Mustafa Çeşmesi: Milas'taki Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6260662,37.3848801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mustafa Çeşmesi: Milas'taki Tarihi Bir Çeşme

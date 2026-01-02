@@ -1,18 +1,17 @@
 ---
-title: "Karasenir Tepesi | Miras Haritası"
-date: 2025-12-25T06:40:45+03:00
+title: "Karasenir Tepesi"
+date: "2025-12-25T06:40:45+03:00"
 slug: "karasenir-tepesi"
 description: "## Karasenir Tepesi: Ankara'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Şereflikoçhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.6453774,39.0525008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karasenir Tepesi: Ankara'nın Gizli Çarpıntısı

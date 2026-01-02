@@ -1,18 +1,17 @@
 ---
-title: "Conk Bayırı Atatürk Anıtı | Miras Haritası"
-date: 2025-12-25T15:46:37+03:00
+title: "Conk Bayırı Atatürk Anıtı"
+date: "2025-12-25T15:46:37+03:00"
 slug: "conk-bayiri-ataturk-aniti"
 description: "## Conk Bayırı Atatürk Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.308445,40.2524147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Conk Bayırı Atatürk Anıtı

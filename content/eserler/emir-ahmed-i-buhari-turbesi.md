@@ -1,18 +1,17 @@
 ---
-title: "Emir Ahmed-i Buhari Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:51+03:00
+title: "Emir Ahmed-i Buhari Türbesi"
+date: "2025-12-25T14:27:51+03:00"
 slug: "emir-ahmed-i-buhari-turbesi"
 description: "## Emir Ahmed-i Buhari Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9464111,41.0199623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Ahmed-i Buhari Türbesi

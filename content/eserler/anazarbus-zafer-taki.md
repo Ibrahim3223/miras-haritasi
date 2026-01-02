@@ -1,18 +1,17 @@
 ---
-title: "Anazarbus Zafer Takı | Miras Haritası"
-date: 2025-12-25T13:16:30+03:00
+title: "Anazarbus Zafer Takı"
+date: "2025-12-25T13:16:30+03:00"
 slug: "anazarbus-zafer-taki"
 description: "## Anazarbus Zafer Takı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Anazarbus_klikya_city_south_gate.jpg/1200px-Anazarbus_klikya_city_south_gate.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.9032,37.2505"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Anazarbus Zafer Takı

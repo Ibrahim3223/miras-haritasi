@@ -1,18 +1,17 @@
 ---
-title: "Büberoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:26:45+03:00
+title: "Büberoğlu Camii"
+date: "2025-12-24T22:26:45+03:00"
 slug: "buberoglu-camii"
 description: "## Büberoğlu Camii: İzmir'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5321007,38.4039993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büberoğlu Camii: İzmir'nin Tarihi Bir Mirası

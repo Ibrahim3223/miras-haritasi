@@ -1,18 +1,17 @@
 ---
-title: "Hacı Sefer Camii | Miras Haritası"
-date: 2025-12-24T23:28:00+03:00
+title: "Hacı Sefer Camii"
+date: "2025-12-24T23:28:00+03:00"
 slug: "haci-sefer-camii"
 description: "## Hacı Sefer Camii: Karesi'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8850288,39.6517143"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Sefer Camii: Karesi'nin Tarihi ve Kültürel Mirası

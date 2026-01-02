@@ -1,18 +1,17 @@
 ---
-title: "Değirmentepe Höyüğü | Miras Haritası"
-date: 2025-12-25T05:58:33+03:00
+title: "Değirmentepe Höyüğü"
+date: "2025-12-25T05:58:33+03:00"
 slug: "degirmentepe-hoyugu"
 description: "### Değirmentepe Höyüğü..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Altıeylül"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0087166,39.5840569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Değirmentepe Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Şehitler Abidesi, Bandırma | Miras Haritası"
-date: 2025-12-25T15:45:32+03:00
+title: "Şehitler Abidesi, Bandırma"
+date: "2025-12-25T15:45:32+03:00"
 slug: "sehitler-abidesi-bandirma"
 description: "**Şehitler Abidesi, Bandırma**..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.9705696,40.3546066"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şehitler Abidesi, Bandırma**

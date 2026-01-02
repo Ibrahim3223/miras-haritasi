@@ -1,18 +1,17 @@
 ---
-title: "Yenice Hanı Mescidi | Miras Haritası"
-date: 2025-12-24T23:46:39+03:00
+title: "Yenice Hanı Mescidi"
+date: "2025-12-24T23:46:39+03:00"
 slug: "yenice-hani-mescidi"
 description: "## Yenice Hanı Mescidi: Kütahya'nın Tarihi Bir Çatısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kütahya"
+province: "Kütahya"
+iller: '["Kütahya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0851784,39.2756844"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenice Hanı Mescidi: Kütahya'nın Tarihi Bir Çatısı

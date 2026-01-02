@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:34:46+03:00
+title: "Eski Cami Sokak Çeşmesi"
+date: "2025-12-25T11:34:46+03:00"
 slug: "eski-cami-sokak-cesmesi"
 description: "### Eski Cami Sokak Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eski_Cami_Sokak_Çeşmesi.jpg/1200px-Eski_Cami_Sokak_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6912193,41.2435303"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Eski Cami Sokak Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

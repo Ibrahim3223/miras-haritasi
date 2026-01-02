@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Paşa Sebili, Hobyar | Miras Haritası"
-date: 2025-12-25T13:02:59+03:00
+title: "İbrahim Paşa Sebili, Hobyar"
+date: "2025-12-25T13:02:59+03:00"
 slug: "ibrahim-pasa-sebili-hobyar"
 description: "## İbrahim Paşa Sebili, Hobyar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9739075,41.0140228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Paşa Sebili, Hobyar

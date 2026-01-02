@@ -1,18 +1,17 @@
 ---
-title: "Beştepeler 3 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:37+03:00
+title: "Beştepeler 3 Tümülüsü"
+date: "2025-12-25T08:04:37+03:00"
 slug: "bestepeler-3-tumulusu"
 description: "## Beştepeler 3 Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9502392,41.1796532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beştepeler 3 Tümülüsü: Edirne'nin Gizli Mirası

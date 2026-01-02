@@ -1,18 +1,18 @@
 ---
-title: "Harman Camii | Miras Haritası"
-date: 2025-12-24T23:31:34+03:00
+title: "Harman Camii"
+date: "2025-12-24T23:31:34+03:00"
 slug: "harman-camii"
 description: "### Harman Camii..."
-featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Doğanhisar_Harman_Cami_83.jpg/1200px-Doğanhisar_Harman_Cami_83.jpg"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.5614891,38.6820793"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Doğanhisar_Harman_Cami_83.jpg/1200px-Doğanhisar_Harman_Cami_83.jpg"
 ---
 
 ### Harman Camii

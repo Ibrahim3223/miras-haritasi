@@ -1,18 +1,17 @@
 ---
-title: "Mavsut Höyüğü | Miras Haritası"
-date: 2025-12-25T07:39:12+03:00
+title: "Mavsut Höyüğü"
+date: "2025-12-25T07:39:12+03:00"
 slug: "mavsut-hoyugu"
 description: "## Mavsut Höyüğü: Avanos'un Gizli Kahramanı..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.84042135,38.79376662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mavsut Höyüğü: Avanos'un Gizli Kahramanı

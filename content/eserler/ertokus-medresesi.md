@@ -1,18 +1,17 @@
 ---
-title: "Ertokuş Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:55+03:00
+title: "Ertokuş Medresesi"
+date: "2025-12-25T17:24:55+03:00"
 slug: "ertokus-medresesi"
 description: "**Ertokuş Medresesi**..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Atabey"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "30.6451111,37.9512634"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ertokuş Medresesi**

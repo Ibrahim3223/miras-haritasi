@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bayram-ı Veli Camii | Miras Haritası"
-date: 2025-12-24T23:26:52+03:00
+title: "Hacı Bayram-ı Veli Camii"
+date: "2025-12-24T23:26:52+03:00"
 slug: "haci-bayram-i-veli-camii"
 description: "**Hacı Bayram-ı Veli Camii: Balıkesir'in Tarihî ve Kültürel Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.775873,39.223454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hacı Bayram-ı Veli Camii: Balıkesir'in Tarihî ve Kültürel Mirası**

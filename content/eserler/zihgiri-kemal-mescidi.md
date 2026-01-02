@@ -1,18 +1,17 @@
 ---
-title: "Zihgiri Kemal Mescidi | Miras Haritası"
-date: 2025-12-24T21:42:38+03:00
+title: "Zihgiri Kemal Mescidi"
+date: "2025-12-24T21:42:38+03:00"
 slug: "zihgiri-kemal-mescidi"
 description: "## Zihgiri Kemal Mescidi: Fatih'in Gizli Cenneti..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Seyyid Ömer"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.929416666,41.009416666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zihgiri Kemal Mescidi: Fatih'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Perre Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:56+03:00
+title: "Perre Roma Köprüsü"
+date: "2025-12-25T02:24:56+03:00"
 slug: "perre-roma-koprusu"
 description: "# Perre Roma Köprüsü: Tarihçenin Mihenk Noktası..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.2984791,37.7989949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Perre Roma Köprüsü: Tarihçenin Mihenk Noktası

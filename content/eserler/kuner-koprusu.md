@@ -1,18 +1,17 @@
 ---
-title: "Küner Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:21+03:00
+title: "Küner Köprüsü"
+date: "2025-12-25T02:26:21+03:00"
 slug: "kuner-koprusu"
 description: "### Küner Köprüsü: Tarihî ve Kültürel Mirasımız..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menderes"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.13594,38.1994289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küner Köprüsü: Tarihî ve Kültürel Mirasımız

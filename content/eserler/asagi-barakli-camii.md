@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Baraklı Camii | Miras Haritası"
-date: 2025-12-24T22:15:48+03:00
+title: "Aşağı Baraklı Camii"
+date: "2025-12-24T22:15:48+03:00"
 slug: "asagi-barakli-camii"
 description: "## Aşağı Baraklı Camii..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Taşova"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1176949,40.7084999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Baraklı Camii

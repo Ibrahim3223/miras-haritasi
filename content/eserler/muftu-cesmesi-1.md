@@ -1,18 +1,17 @@
 ---
-title: "Müftü Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:18:00+03:00
+title: "Müftü Çeşmesi 1"
+date: "2025-12-25T10:18:00+03:00"
 slug: "muftu-cesmesi-1"
 description: "### Müftü Çeşmesi 1..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.420322,40.285279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Müftü Çeşmesi 1

@@ -1,18 +1,17 @@
 ---
-title: "Yuntdağyenice Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:50:29+03:00
+title: "Yuntdağyenice Köyü Camii"
+date: "2025-12-24T23:50:29+03:00"
 slug: "yuntdagyenice-koyu-camii"
 description: "### Yuntdağyenice Köyü Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2507401,38.8633957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yuntdağyenice Köyü Camii: Manisa'nın Tarihi Bir Mirası

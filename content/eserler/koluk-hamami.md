@@ -1,18 +1,17 @@
 ---
-title: "Kölük Hamamı | Miras Haritası"
-date: 2025-12-25T17:08:40+03:00
+title: "Kölük Hamamı"
+date: "2025-12-25T17:08:40+03:00"
 slug: "koluk-hamami"
 description: "## Kölük Hamamı: Kayseri'nin Tarihi Bir Hamamı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.4810257,38.7190208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kölük Hamamı: Kayseri'nin Tarihi Bir Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Andriake Doğu Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:40+03:00
+title: "Andriake Doğu Hamamı"
+date: "2025-12-25T17:10:40+03:00"
 slug: "andriake-dogu-hamami"
 description: "## Andriake Doğu Hamamı: Demre'nin Tarihi Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9582272,36.2271957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andriake Doğu Hamamı: Demre'nin Tarihi Mirası

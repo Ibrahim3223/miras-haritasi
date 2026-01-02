@@ -1,18 +1,17 @@
 ---
-title: "Boğazkesen Kümbeti | Miras Haritası"
-date: 2025-12-25T13:56:54+03:00
+title: "Boğazkesen Kümbeti"
+date: "2025-12-25T13:56:54+03:00"
 slug: "bogazkesen-kumbeti"
 description: "### Boğazkesen Kümbeti: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.9243774,40.1740608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boğazkesen Kümbeti: Ankara'nın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Cedid Ali Paşa Camii, Marmaraereğlisi | Miras Haritası"
-date: 2025-12-25T00:01:09+03:00
+title: "Cedid Ali Paşa Camii, Marmaraereğlisi"
+date: "2025-12-25T00:01:09+03:00"
 slug: "cedid-ali-pasa-camii-marmaraereglisi"
 description: "## Cedid Ali Paşa Camii, Marmaraereğlisi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Marmaraereğlisi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9565353,40.9698715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cedid Ali Paşa Camii, Marmaraereğlisi

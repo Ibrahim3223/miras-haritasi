@@ -1,18 +1,17 @@
 ---
-title: "Senirce Höyüğü | Miras Haritası"
-date: 2025-12-25T07:07:19+03:00
+title: "Senirce Höyüğü"
+date: "2025-12-25T07:07:19+03:00"
 slug: "senirce-hoyugu"
 description: "### Senirce Höyüğü: Türkiye'nin Eski Uygarlığının Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Senirce Höyüğü: Türkiye'nin Eski Uygarlığının Gizemi

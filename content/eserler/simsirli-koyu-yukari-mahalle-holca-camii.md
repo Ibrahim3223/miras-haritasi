@@ -1,18 +1,17 @@
 ---
-title: "Şimşirli Köyü Yukarı Mahalle Holca Camii | Miras Haritası"
-date: 2025-12-25T00:19:02+03:00
+title: "Şimşirli Köyü Yukarı Mahalle Holca Camii"
+date: "2025-12-25T00:19:02+03:00"
 slug: "simsirli-koyu-yukari-mahalle-holca-camii"
 description: "## Şimşirli Köyü Yukarı Mahalle Holca Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.483912,40.801872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şimşirli Köyü Yukarı Mahalle Holca Camii

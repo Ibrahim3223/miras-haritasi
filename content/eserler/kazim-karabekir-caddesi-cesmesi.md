@@ -1,18 +1,17 @@
 ---
-title: "Kazım Karabekir Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:57:31+03:00
+title: "Kazım Karabekir Caddesi Çeşmesi"
+date: "2025-12-25T10:57:31+03:00"
 slug: "kazim-karabekir-caddesi-cesmesi"
 description: "## Kazım Karabekir Caddesi Çeşmesi: Tekirdağ'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5225773,40.9821129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazım Karabekir Caddesi Çeşmesi: Tekirdağ'ın Tarihi Bir Anıtı

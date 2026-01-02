@@ -1,18 +1,17 @@
 ---
-title: "TCDD Müzesi ve Sanat Galerisi | Miras Haritası"
-date: 2025-12-25T03:26:24+03:00
+title: "TCDD Müzesi ve Sanat Galerisi"
+date: "2025-12-25T03:26:24+03:00"
 slug: "tcdd-muzesi-ve-sanat-galerisi"
 description: "## TCDD Müzesi ve Sanat Galerisi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.844721,39.935488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## TCDD Müzesi ve Sanat Galerisi

@@ -1,18 +1,17 @@
 ---
-title: "Sofalı Çeşme (Tirilye) | Miras Haritası"
-date: 2025-12-25T10:37:09+03:00
+title: "Sofalı Çeşme (Tirilye)"
+date: "2025-12-25T10:37:09+03:00"
 slug: "sofali-cesme-tirilye"
 description: "## Sofalı Çeşme: Tirilye'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Mudanya"
-iller: ["Mudanya"]
+iller: '["Mudanya"]'
 district: "Tirilye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.796111111,40.392444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sofalı Çeşme: Tirilye'nin Tarihi Bir Çeşmesi

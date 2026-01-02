@@ -1,18 +1,17 @@
 ---
-title: "Rhodiapolis Piskoposluk Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:18+03:00
+title: "Rhodiapolis Piskoposluk Kilisesi"
+date: "2025-12-25T09:37:18+03:00"
 slug: "rhodiapolis-piskoposluk-kilisesi"
 description: "## Rhodiapolis Piskoposluk Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.2651463,36.3876152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rhodiapolis Piskoposluk Kilisesi

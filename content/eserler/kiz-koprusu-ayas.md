@@ -1,18 +1,17 @@
 ---
-title: "Kız Köprüsü, Ayaş | Miras Haritası"
-date: 2025-12-25T02:54:08+03:00
+title: "Kız Köprüsü, Ayaş"
+date: "2025-12-25T02:54:08+03:00"
 slug: "kiz-koprusu-ayas"
 description: "## Kız Köprüsü, Ayaş..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
+iller: '["Ankara Vilayeti"]'
 district: "Ayaş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.1053009,40.0903358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kız Köprüsü, Ayaş

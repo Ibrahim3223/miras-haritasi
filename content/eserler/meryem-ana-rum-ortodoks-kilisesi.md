@@ -1,18 +1,17 @@
 ---
-title: "Meryem Ana Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:13+03:00
+title: "Meryem Ana Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:36:13+03:00"
 slug: "meryem-ana-rum-ortodoks-kilisesi"
 description: "### Meryem Ana Rum Ortodoks Kilisesi: İstanbul'un Gizli Çekebilecek Bir Öreni..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.935612,41.007142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Meryem Ana Rum Ortodoks Kilisesi: İstanbul'un Gizli Çekebilecek Bir Öreni

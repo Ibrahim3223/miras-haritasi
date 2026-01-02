@@ -1,18 +1,17 @@
 ---
-title: "Naulochon | Miras Haritası"
-date: 2025-12-25T04:56:22+03:00
+title: "Naulochon"
+date: "2025-12-25T04:56:22+03:00"
 slug: "naulochon"
 description: "## Naulochon: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayraklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.171,38.4645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Naulochon: İzmir'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Fuzuli Anıtı | Miras Haritası"
-date: 2025-12-25T15:51:33+03:00
+title: "Fuzuli Anıtı"
+date: "2025-12-25T15:51:33+03:00"
 slug: "fuzuli-aniti"
 description: "## Fuzuli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.043661,41.075953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fuzuli Anıtı

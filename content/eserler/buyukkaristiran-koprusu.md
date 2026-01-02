@@ -1,18 +1,17 @@
 ---
-title: "Büyükkarıştıran Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:03+03:00
+title: "Büyükkarıştıran Köprüsü"
+date: "2025-12-25T02:08:03+03:00"
 slug: "buyukkaristiran-koprusu"
 description: "### Büyükkarıştıran Köprüsü: Kırklareli'nin Tarihi Çelik Yokuşu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kırklareli_Province_-_Büyükkarıştıran_Bridge_-_20250531115532.jpg/1200px-Kırklareli_Province_-_Büyükkarıştıran_Bridge_-_20250531115532.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.544611111,41.293666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Büyükkarıştıran Köprüsü: Kırklareli'nin Tarihi Çelik Yokuşu

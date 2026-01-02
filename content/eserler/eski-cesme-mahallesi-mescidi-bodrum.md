@@ -1,18 +1,17 @@
 ---
-title: "Eski Çeşme Mahallesi Mescidi, Bodrum | Miras Haritası"
-date: 2025-12-25T00:51:02+03:00
+title: "Eski Çeşme Mahallesi Mescidi, Bodrum"
+date: "2025-12-25T00:51:02+03:00"
 slug: "eski-cesme-mahallesi-mescidi-bodrum"
 description: "### Eski Çeşme Mahallesi Mescidi: Bodrum'un Tarihi Bir Zeytin Dalı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4203739,37.0363846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Çeşme Mahallesi Mescidi: Bodrum'un Tarihi Bir Zeytin Dalı

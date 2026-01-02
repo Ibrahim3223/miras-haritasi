@@ -1,18 +1,17 @@
 ---
-title: "Kocatepe Camii | Miras Haritası"
-date: 2025-12-24T21:37:06+03:00
+title: "Kocatepe Camii"
+date: "2025-12-24T21:37:06+03:00"
 slug: "kocatepe-camii"
 description: "**Kocatepe Camii: Ankara'nın Sembolü**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ankara_asv2021-10_img40_Kocatepe_Mosque.jpg/1200px-Ankara_asv2021-10_img40_Kocatepe_Mosque.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.860555555,39.916666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Kocatepe Camii: Ankara'nın Sembolü**

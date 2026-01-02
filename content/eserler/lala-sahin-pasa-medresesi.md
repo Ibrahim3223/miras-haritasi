@@ -1,18 +1,17 @@
 ---
-title: "Lala Şahin Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:42:40+03:00
+title: "Lala Şahin Paşa Medresesi"
+date: "2025-12-25T17:42:40+03:00"
 slug: "lala-sahin-pasa-medresesi"
 description: "## Lala Şahin Paşa Medresesi: Bursa'nın Gizli Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0571098,40.1854858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lala Şahin Paşa Medresesi: Bursa'nın Gizli Müzesi

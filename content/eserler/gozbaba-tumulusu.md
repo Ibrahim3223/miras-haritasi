@@ -1,18 +1,17 @@
 ---
-title: "Gözbaba Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:15:46+03:00
+title: "Gözbaba Tümülüsü"
+date: "2025-12-25T08:15:46+03:00"
 slug: "gozbaba-tumulusu"
 description: "## Gözbaba Tümülüsü: Malatya'nın Gizemi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yeşilyurt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.164669,38.3149757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gözbaba Tümülüsü: Malatya'nın Gizemi

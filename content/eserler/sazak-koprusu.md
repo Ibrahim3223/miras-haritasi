@@ -1,18 +1,17 @@
 ---
-title: "Sazak Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:46+03:00
+title: "Sazak Köprüsü"
+date: "2025-12-25T02:42:46+03:00"
 slug: "sazak-koprusu"
 description: "## Sazak Köprüsü: Konya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Taşkent"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.5329437,36.9502869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sazak Köprüsü: Konya'nın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Zile Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:05:54+03:00
+title: "Zile Ulu Camii"
+date: "2025-12-24T22:05:54+03:00"
 slug: "zile-ulu-camii"
 description: "## Zile Ulu Camii: Tokat'ta Bir Osmanlı Dönemi Anıtı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.886388888,40.302805555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zile Ulu Camii: Tokat'ta Bir Osmanlı Dönemi Anıtı

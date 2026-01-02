@@ -1,18 +1,17 @@
 ---
-title: "Kalfat Çeşmesi, Orta | Miras Haritası"
-date: 2025-12-25T12:29:26+03:00
+title: "Kalfat Çeşmesi, Orta"
+date: "2025-12-25T12:29:26+03:00"
 slug: "kalfat-cesmesi-orta"
 description: "## Kalfat Çeşmesi..."
 featured_image: ""
 province: "Orta (ilçe)"
-iller: ["Orta (ilçe)"]
+iller: '["Orta (ilçe)"]'
 district: "Orta"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.098934958,40.667933914"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalfat Çeşmesi

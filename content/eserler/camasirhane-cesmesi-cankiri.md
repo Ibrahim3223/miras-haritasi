@@ -1,18 +1,17 @@
 ---
-title: "Çamaşırhane Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:30:09+03:00
+title: "Çamaşırhane Çeşmesi, Çankırı"
+date: "2025-12-25T12:30:09+03:00"
 slug: "camasirhane-cesmesi-cankiri"
 description: "## Çamaşırhane Çeşmesi: Çankırı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.615560569,40.601221052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamaşırhane Çeşmesi: Çankırı'nın Tarihi Bir Mirası

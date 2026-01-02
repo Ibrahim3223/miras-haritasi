@@ -1,18 +1,17 @@
 ---
-title: "Boşat Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:26+03:00
+title: "Boşat Kalesi"
+date: "2025-12-25T01:22:26+03:00"
 slug: "bosat-kalesi"
 description: "### Boşat Kalesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.9874954,38.2291069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boşat Kalesi

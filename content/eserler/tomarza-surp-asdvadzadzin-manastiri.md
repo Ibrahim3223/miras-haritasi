@@ -1,18 +1,17 @@
 ---
-title: "Tomarza Surp Asdvadzadzin Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:50+03:00
+title: "Tomarza Surp Asdvadzadzin Manastırı"
+date: "2025-12-25T09:53:50+03:00"
 slug: "tomarza-surp-asdvadzadzin-manastiri"
 description: "## Tomarza Surp Asdvadzadzin Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tomaraza-St._Astvatsatsin_Church.jpg/1200px-Tomaraza-St._Astvatsatsin_Church.jpg"
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Tomarza"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "35.808305555,38.447694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tomarza Surp Asdvadzadzin Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "İstinye Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:12+03:00
+title: "İstinye Köprüsü"
+date: "2025-12-25T02:43:12+03:00"
 slug: "istinye-koprusu"
 description: "## İstinye Köprüsü: İstanbul'un Kırmızı Taşı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0543365,41.1136284"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstinye Köprüsü: İstanbul'un Kırmızı Taşı

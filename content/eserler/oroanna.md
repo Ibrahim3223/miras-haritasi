@@ -1,18 +1,17 @@
 ---
-title: "Oroanna | Miras Haritası"
-date: 2025-12-25T05:02:00+03:00
+title: "Oroanna"
+date: "2025-12-25T05:02:00+03:00"
 slug: "oroanna"
 description: "## Oroanna: Seferihisar'ın Gizemli Arkeolojik Sitesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.145959,38.197854"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oroanna: Seferihisar'ın Gizemli Arkeolojik Sitesi

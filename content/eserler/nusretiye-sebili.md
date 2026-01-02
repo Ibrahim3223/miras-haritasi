@@ -1,18 +1,17 @@
 ---
-title: "Nusretiye Sebili | Miras Haritası"
-date: 2025-12-25T13:09:31+03:00
+title: "Nusretiye Sebili"
+date: "2025-12-25T13:09:31+03:00"
 slug: "nusretiye-sebili"
 description: "### Nusretiye Sebili: Beyoğlu'ndaki Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.983395,41.027645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nusretiye Sebili: Beyoğlu'ndaki Tarihi Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Sveti Kilisesi | Miras Haritası"
-date: 2025-12-25T08:54:38+03:00
+title: "Sveti Kilisesi"
+date: "2025-12-25T08:54:38+03:00"
 slug: "sveti-kilisesi"
 description: "## Sveti Kilisesi: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sveti_Church_1888_by_Pavlinov.jpg/1200px-Sveti_Church_1888_by_Pavlinov.jpg"
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Artvin"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.855416666,41.206305555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sveti Kilisesi: Artvin'in Tarihi ve Kültürel Mirası

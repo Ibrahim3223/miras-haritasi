@@ -1,18 +1,17 @@
 ---
-title: "Flaviopolis | Miras Haritası"
-date: 2025-12-25T05:05:49+03:00
+title: "Flaviopolis"
+date: "2025-12-25T05:05:49+03:00"
 slug: "flaviopolis"
 description: "### Flaviopolis Arkeolojik Sit..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Kadirli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.1015675,37.3664785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Flaviopolis Arkeolojik Sit

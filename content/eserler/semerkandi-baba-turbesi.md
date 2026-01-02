@@ -1,18 +1,17 @@
 ---
-title: "Semerkandi Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:24+03:00
+title: "Semerkandi Baba Türbesi"
+date: "2025-12-25T15:29:24+03:00"
 slug: "semerkandi-baba-turbesi"
 description: "## Semerkandi Baba Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4326496,37.5706978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Semerkandi Baba Türbesi

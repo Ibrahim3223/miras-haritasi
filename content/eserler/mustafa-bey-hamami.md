@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Bey Hamamı | Miras Haritası"
-date: 2025-12-25T16:30:06+03:00
+title: "Mustafa Bey Hamamı"
+date: "2025-12-25T16:30:06+03:00"
 slug: "mustafa-bey-hamami"
 description: "# Mustafa Bey Hamamı..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.835467,40.6541215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mustafa Bey Hamamı

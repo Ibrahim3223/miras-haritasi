@@ -1,18 +1,17 @@
 ---
-title: "Yuğ Höyük | Miras Haritası"
-date: 2025-12-25T05:57:13+03:00
+title: "Yuğ Höyük"
+date: "2025-12-25T05:57:13+03:00"
 slug: "yug-hoyuk"
 description: "## Yuğ Höyük: Ortaköy'ün Gizli Kahramanı..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.2429771,40.2447624"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yuğ Höyük: Ortaköy'ün Gizli Kahramanı

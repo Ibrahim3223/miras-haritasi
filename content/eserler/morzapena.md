@@ -1,18 +1,17 @@
 ---
-title: "Morzapena | Miras Haritası"
-date: 2025-12-25T05:43:59+03:00
+title: "Morzapena"
+date: "2025-12-25T05:43:59+03:00"
 slug: "morzapena"
 description: "### Morzapena - Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.147605,41.051223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Morzapena - Türkiye'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hüseyin Ağa Çeşmesi, Balıkesir | Miras Haritası"
-date: 2025-12-25T10:38:58+03:00
+title: "Hacı Hüseyin Ağa Çeşmesi, Balıkesir"
+date: "2025-12-25T10:38:58+03:00"
 slug: "haci-huseyin-aga-cesmesi-balikesir"
 description: "## Hacı Hüseyin Ağa Çeşmesi, Balıkesir..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hüseyin_Ağa_Çeşmesi,_Balıkesir,_Türkiye.jpg/1200px-Hüseyin_Ağa_Çeşmesi,_Balıkesir,_Türkiye.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.879110835,39.646081266"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Hüseyin Ağa Çeşmesi, Balıkesir

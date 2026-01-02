@@ -1,18 +1,17 @@
 ---
-title: "Çaybaşı Köprüsü-1 | Miras Haritası"
-date: 2025-12-25T02:39:47+03:00
+title: "Çaybaşı Köprüsü-1"
+date: "2025-12-25T02:39:47+03:00"
 slug: "caybasi-koprusu-1"
 description: "## Çaybaşı Köprüsü-1: Manisa'nın Tarihi ve Mimari Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.4235382,38.6039772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaybaşı Köprüsü-1: Manisa'nın Tarihi ve Mimari Mirası

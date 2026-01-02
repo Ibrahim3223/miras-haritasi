@@ -1,18 +1,17 @@
 ---
-title: "Göksun Höyüğü | Miras Haritası"
-date: 2025-12-25T06:30:10+03:00
+title: "Göksun Höyüğü"
+date: "2025-12-25T06:30:10+03:00"
 slug: "goksun-hoyugu"
 description: "## Göksun Höyüğü: Kahramanmaraş'ın Gizli Cenneti..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Göksun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.5055205,38.0276013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göksun Höyüğü: Kahramanmaraş'ın Gizli Cenneti

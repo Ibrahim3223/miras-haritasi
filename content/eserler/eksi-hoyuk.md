@@ -1,18 +1,17 @@
 ---
-title: "Ekşi Höyük | Miras Haritası"
-date: 2025-12-25T05:56:27+03:00
+title: "Ekşi Höyük"
+date: "2025-12-25T05:56:27+03:00"
 slug: "eksi-hoyuk"
 description: "### Ekşi Höyük: Türkiye'nin Etkili Arkeolojik Sitleri..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.5337067,38.0842247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ekşi Höyük: Türkiye'nin Etkili Arkeolojik Sitleri

@@ -1,18 +1,17 @@
 ---
-title: "Musa Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:09+03:00
+title: "Musa Dede Türbesi"
+date: "2025-12-25T15:14:09+03:00"
 slug: "musa-dede-turbesi"
 description: "## Musa Dede Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.9937321,36.5602816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Musa Dede Türbesi

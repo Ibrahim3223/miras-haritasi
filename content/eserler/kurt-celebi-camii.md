@@ -1,18 +1,17 @@
 ---
-title: "Kurt Çelebi Camii | Miras Haritası"
-date: 2025-12-25T00:37:57+03:00
+title: "Kurt Çelebi Camii"
+date: "2025-12-25T00:37:57+03:00"
 slug: "kurt-celebi-camii"
 description: "## Kurt Çelebi Camii: İstanbul'un Kuytu Bir Çeşitesinin Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.965455216,41.034075368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurt Çelebi Camii: İstanbul'un Kuytu Bir Çeşitesinin Tarihi ve Mimari Özellikleri

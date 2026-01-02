@@ -1,18 +1,17 @@
 ---
-title: "Çamlıdere Belediyesi Müze Kompleksi | Miras Haritası"
-date: 2025-12-25T04:04:34+03:00
+title: "Çamlıdere Belediyesi Müze Kompleksi"
+date: "2025-12-25T04:04:34+03:00"
 slug: "camlidere-belediyesi-muze-kompleksi"
 description: "### Çamlıdere Belediyesi Müze Kompleksi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.475810911,40.490349378"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çamlıdere Belediyesi Müze Kompleksi

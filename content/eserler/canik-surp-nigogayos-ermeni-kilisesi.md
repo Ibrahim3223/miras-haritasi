@@ -1,18 +1,17 @@
 ---
-title: "Canik Surp Nigoğayos Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T08:46:26+03:00
+title: "Canik Surp Nigoğayos Ermeni Kilisesi"
+date: "2025-12-25T08:46:26+03:00"
 slug: "canik-surp-nigogayos-ermeni-kilisesi"
 description: "## Canik Surp Nigoğayos Ermeni Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Canik_Surp_Nigoğayos_Ermeni_Kilisesi.jpg/1200px-Canik_Surp_Nigoğayos_Ermeni_Kilisesi.jpg"
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.3285,41.2977"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Canik Surp Nigoğayos Ermeni Kilisesi

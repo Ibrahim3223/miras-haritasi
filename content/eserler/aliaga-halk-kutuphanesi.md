@@ -1,18 +1,17 @@
 ---
-title: "Aliağa Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:40+03:00
+title: "Aliağa Halk Kütüphanesi"
+date: "2025-12-25T17:51:40+03:00"
 slug: "aliaga-halk-kutuphanesi"
 description: "## Aliağa Halk Kütüphanesi: İzmir'in Kültür Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Aliağa"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "26.9731197,38.8006325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aliağa Halk Kütüphanesi: İzmir'in Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Necip Bey Çeşmesi, Sarıyer | Miras Haritası"
-date: 2025-12-25T12:05:45+03:00
+title: "Necip Bey Çeşmesi, Sarıyer"
+date: "2025-12-25T12:05:45+03:00"
 slug: "necip-bey-cesmesi-sariyer"
 description: "### Necip Bey Çeşmesi, Sarıyer..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0561562,41.091259"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Necip Bey Çeşmesi, Sarıyer

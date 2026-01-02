@@ -1,18 +1,17 @@
 ---
-title: "Sigeion | Miras Haritası"
-date: 2025-12-25T04:26:51+03:00
+title: "Sigeion"
+date: "2025-12-25T04:26:51+03:00"
 slug: "sigeion"
 description: "## Sigeion: Tarihi bir Kentin Kalıntıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Troade-sigeo.svg/1200px-Troade-sigeo.svg.png"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.18055556,39.99"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sigeion: Tarihi bir Kentin Kalıntıları

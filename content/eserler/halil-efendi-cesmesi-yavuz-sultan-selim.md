@@ -1,18 +1,17 @@
 ---
-title: "Halil Efendi Çeşmesi, Yavuz Sultan Selim | Miras Haritası"
-date: 2025-12-25T11:59:50+03:00
+title: "Halil Efendi Çeşmesi, Yavuz Sultan Selim"
+date: "2025-12-25T11:59:50+03:00"
 slug: "halil-efendi-cesmesi-yavuz-sultan-selim"
 description: "## Halil Efendi Çeşmesi: Yavuz Sultan Selim'in Bağışı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.956764,41.024504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Efendi Çeşmesi: Yavuz Sultan Selim'in Bağışı

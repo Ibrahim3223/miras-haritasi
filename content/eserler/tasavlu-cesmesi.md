@@ -1,18 +1,17 @@
 ---
-title: "Taşavlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:53+03:00
+title: "Taşavlu Çeşmesi"
+date: "2025-12-25T10:28:53+03:00"
 slug: "tasavlu-cesmesi"
 description: "### Taşavlu Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.1241779,37.8985596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taşavlu Çeşmesi

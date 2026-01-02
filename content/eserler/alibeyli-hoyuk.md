@@ -1,18 +1,17 @@
 ---
-title: "Alibeyli Höyük | Miras Haritası"
-date: 2025-12-25T07:01:18+03:00
+title: "Alibeyli Höyük"
+date: "2025-12-25T07:01:18+03:00"
 slug: "alibeyli-hoyuk"
 description: "## Alibeyli Höyük: Manisa'nın Gizli Kıskacı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.715372,38.690156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alibeyli Höyük: Manisa'nın Gizli Kıskacı

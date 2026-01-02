@@ -1,18 +1,17 @@
 ---
-title: "Sülüklü Çeşme, Tire | Miras Haritası"
-date: 2025-12-25T12:49:23+03:00
+title: "Sülüklü Çeşme, Tire"
+date: "2025-12-25T12:49:23+03:00"
 slug: "suluklu-cesme-tire"
 description: "## Sülüklü Çeşme: Tarihî Bir Mimarî Eserin Hikayesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7407036,38.083889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sülüklü Çeşme: Tarihî Bir Mimarî Eserin Hikayesi

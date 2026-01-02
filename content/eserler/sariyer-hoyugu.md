@@ -1,18 +1,17 @@
 ---
-title: "Sarıyer Höyüğü | Miras Haritası"
-date: 2025-12-25T06:42:58+03:00
+title: "Sarıyer Höyüğü"
+date: "2025-12-25T06:42:58+03:00"
 slug: "sariyer-hoyugu"
 description: "## Sarıyer Höyüğü: Afyonkarahisar'da Bir Arkeolojik Miras..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İscehisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.6998349,38.8375662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıyer Höyüğü: Afyonkarahisar'da Bir Arkeolojik Miras

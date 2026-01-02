@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Yoztarla Kalesi | Miras Haritası"
-date: 2025-12-25T01:47:05+03:00
+title: "Akpınar Yoztarla Kalesi"
+date: "2025-12-25T01:47:05+03:00"
 slug: "akpinar-yoztarla-kalesi"
 description: "## Akpınar Yoztarla Kalesi: Vize'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.8671799,41.6036186"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akpınar Yoztarla Kalesi: Vize'nin Gizli Mücevheri

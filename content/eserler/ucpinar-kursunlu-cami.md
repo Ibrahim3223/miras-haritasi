@@ -1,18 +1,17 @@
 ---
-title: "Üçpınar Kurşunlu Cami | Miras Haritası"
-date: 2025-12-25T00:06:47+03:00
+title: "Üçpınar Kurşunlu Cami"
+date: "2025-12-25T00:06:47+03:00"
 slug: "ucpinar-kursunlu-cami"
 description: "# Üçpınar Kurşunlu Cami: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Bozkır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.2616,37.13299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Üçpınar Kurşunlu Cami: Konya'nın Gizli Cenneti

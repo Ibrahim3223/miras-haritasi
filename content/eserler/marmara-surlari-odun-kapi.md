@@ -1,18 +1,17 @@
 ---
-title: "Marmara Surları: Odun Kapı | Miras Haritası"
-date: 2025-12-25T13:15:51+03:00
+title: "Marmara Surları: Odun Kapı"
+date: "2025-12-25T13:15:51+03:00"
 slug: "marmara-surlari-odun-kapi"
 description: "**Marmara Surları: Odun Kapı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9871655,41.0138588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Marmara Surları: Odun Kapı**

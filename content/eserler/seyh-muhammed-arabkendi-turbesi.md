@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhammed Arabkendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:34+03:00
+title: "Şeyh Muhammed Arabkendi Türbesi"
+date: "2025-12-25T14:43:34+03:00"
 slug: "seyh-muhammed-arabkendi-turbesi"
 description: "### Şeyh Muhammed Arabkendi Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.8646736,37.7622643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Muhammed Arabkendi Türbesi

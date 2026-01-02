@@ -1,18 +1,17 @@
 ---
-title: "Lyrnai | Miras Haritası"
-date: 2025-12-25T04:57:54+03:00
+title: "Lyrnai"
+date: "2025-12-25T04:57:54+03:00"
 slug: "lyrnai"
 description: "## Lyrnai: Eski Yunanistan'ın Gizli Harabeleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lyrnai: Eski Yunanistan'ın Gizli Harabeleri

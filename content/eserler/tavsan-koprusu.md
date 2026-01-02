@@ -1,18 +1,17 @@
 ---
-title: "Tavşan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:35+03:00
+title: "Tavşan Köprüsü"
+date: "2025-12-25T02:23:35+03:00"
 slug: "tavsan-koprusu"
 description: "## Tavşan Köprüsü: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.6985441,37.4901087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavşan Köprüsü: Konya'nın Tarihi ve Kültürel Mirası

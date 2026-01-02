@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Bey Camii, Tire | Miras Haritası"
-date: 2025-12-24T23:19:11+03:00
+title: "Mehmet Bey Camii, Tire"
+date: "2025-12-24T23:19:11+03:00"
 slug: "mehmet-bey-camii-tire"
 description: "## Mehmet Bey Camii: Tire'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7393303,38.0843277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Bey Camii: Tire'nin Tarihi Bir Anıtı

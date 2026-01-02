@@ -1,18 +1,17 @@
 ---
-title: "İltekin Gazi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:46+03:00
+title: "İltekin Gazi Köprüsü"
+date: "2025-12-25T02:04:46+03:00"
 slug: "iltekin-gazi-koprusu"
 description: "## İltekin Gazi Köprüsü: Amasya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.8113098,40.6181602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İltekin Gazi Köprüsü: Amasya'nın Tarihi Bir Mirası

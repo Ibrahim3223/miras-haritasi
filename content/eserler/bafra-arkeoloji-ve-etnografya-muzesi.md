@@ -1,18 +1,17 @@
 ---
-title: "Bafra Arkeoloji ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:29:52+03:00
+title: "Bafra Arkeoloji ve Etnografya Müzesi"
+date: "2025-12-25T03:29:52+03:00"
 slug: "bafra-arkeoloji-ve-etnografya-muzesi"
 description: "# Bafra Arkeoloji ve Etnografya Müzesi..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
+iller: '["Trabzon Vilayeti"]'
 district: "Bafra"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.8972196,41.5669094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bafra Arkeoloji ve Etnografya Müzesi

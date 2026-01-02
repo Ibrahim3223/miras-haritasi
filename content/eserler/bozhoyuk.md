@@ -1,18 +1,17 @@
 ---
-title: "Bozhöyük | Miras Haritası"
-date: 2025-12-25T06:41:19+03:00
+title: "Bozhöyük"
+date: "2025-12-25T06:41:19+03:00"
 slug: "bozhoyuk"
 description: "# Bozhöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yenifakılı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.041805505,39.208493745"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bozhöyük Arkeolojik Sit

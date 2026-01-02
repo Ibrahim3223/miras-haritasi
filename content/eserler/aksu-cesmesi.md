@@ -1,18 +1,17 @@
 ---
-title: "Aksu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:50+03:00
+title: "Aksu Çeşmesi"
+date: "2025-12-25T10:12:50+03:00"
 slug: "aksu-cesmesi"
 description: "## Aksu Çeşmesi: İskilip'in Şirin Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4646721,40.7333717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aksu Çeşmesi: İskilip'in Şirin Çeşmesi

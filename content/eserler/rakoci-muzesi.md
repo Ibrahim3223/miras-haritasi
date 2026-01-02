@@ -1,18 +1,17 @@
 ---
-title: "Rakoçi Müzesi | Miras Haritası"
-date: 2025-12-25T03:23:48+03:00
+title: "Rakoçi Müzesi"
+date: "2025-12-25T03:23:48+03:00"
 slug: "rakoci-muzesi"
 description: "### Rakoçi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rodostó,_Rákóczi_Múzeum_2024_03.jpg/1200px-Rodostó,_Rákóczi_Múzeum_2024_03.jpg"
-province: "Edirne Vilayeti"
-iller: ["Edirne Vilayeti"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: "Edirne Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.50995,40.97407"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Rakoçi Müzesi

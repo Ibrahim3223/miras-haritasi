@@ -1,18 +1,17 @@
 ---
-title: "Lamponeia | Miras Haritası"
-date: 2025-12-25T08:06:44+03:00
+title: "Lamponeia"
+date: "2025-12-25T08:06:44+03:00"
 slug: "lamponeia"
 description: "## Lamponeia Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.40888889,39.53583333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lamponeia Arkeolojik Sit

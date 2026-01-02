@@ -1,18 +1,17 @@
 ---
-title: "Kızılcaşehir Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:19+03:00
+title: "Kızılcaşehir Kalesi"
+date: "2025-12-25T01:33:19+03:00"
 slug: "kizilcasehir-kalesi"
 description: "## Kızılcaşehir Kalesi: Alanya'nın Gizli Cezireleri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.085561,36.569209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılcaşehir Kalesi: Alanya'nın Gizli Cezireleri

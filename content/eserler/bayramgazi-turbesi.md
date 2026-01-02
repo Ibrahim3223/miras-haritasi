@@ -1,18 +1,17 @@
 ---
-title: "Bayramgazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:36+03:00
+title: "Bayramgazi Türbesi"
+date: "2025-12-25T15:26:36+03:00"
 slug: "bayramgazi-turbesi"
 description: "## Bayramgazi Türbesi: Kastamonu'nun Gizli Hazineleri..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Bozkurt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.0393028,41.9266891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayramgazi Türbesi: Kastamonu'nun Gizli Hazineleri

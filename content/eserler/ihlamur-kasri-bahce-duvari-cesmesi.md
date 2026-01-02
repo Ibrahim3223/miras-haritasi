@@ -1,18 +1,17 @@
 ---
-title: "Ihlamur Kasrı Bahçe Duvarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:02:08+03:00
+title: "Ihlamur Kasrı Bahçe Duvarı Çeşmesi"
+date: "2025-12-25T13:02:08+03:00"
 slug: "ihlamur-kasri-bahce-duvari-cesmesi"
 description: "## Ihlamur Kasrı Bahçe Duvarı Çeşmesi..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Türkali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0002774,41.051667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ihlamur Kasrı Bahçe Duvarı Çeşmesi

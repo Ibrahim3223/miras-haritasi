@@ -1,18 +1,17 @@
 ---
-title: "İslambeyli Domuzdere Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:56:49+03:00
+title: "İslambeyli Domuzdere Tümülüsü"
+date: "2025-12-25T07:56:49+03:00"
 slug: "islambeyli-domuzdere-tumulusu"
 description: "## İslambeyli Domuzdere Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6141052,41.6826706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İslambeyli Domuzdere Tümülüsü

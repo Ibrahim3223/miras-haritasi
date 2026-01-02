@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmet Ağa Camii Hamamı | Miras Haritası"
-date: 2025-12-25T16:51:21+03:00
+title: "Hacı Mehmet Ağa Camii Hamamı"
+date: "2025-12-25T16:51:21+03:00"
 slug: "haci-mehmet-aga-camii-hamami"
 description: "## Hacı Mehmet Ağa Camii Hamamı: Keşan'ın Tarihi bir Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.627394,40.857109"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mehmet Ağa Camii Hamamı: Keşan'ın Tarihi bir Cenneti

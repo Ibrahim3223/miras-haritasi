@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü, Emirdoğan | Miras Haritası"
-date: 2025-12-25T02:53:34+03:00
+title: "Taşköprü, Emirdoğan"
+date: "2025-12-25T02:53:34+03:00"
 slug: "taskopru-emirdogan"
 description: "## Taşköprü, Emirdoğan..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.9399223,37.8561096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşköprü, Emirdoğan

@@ -1,18 +1,17 @@
 ---
-title: "Briyas Sarayı Kalıntıları | Miras Haritası"
-date: 2025-12-25T13:11:59+03:00
+title: "Briyas Sarayı Kalıntıları"
+date: "2025-12-25T13:11:59+03:00"
 slug: "briyas-sarayi-kalintilari"
 description: "## Briyas Sarayı Kalıntıları..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "29.1512032,40.9034767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Briyas Sarayı Kalıntıları

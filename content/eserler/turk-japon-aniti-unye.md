@@ -1,18 +1,17 @@
 ---
-title: "Türk Japon Anıtı, Ünye | Miras Haritası"
-date: 2025-12-25T15:46:24+03:00
+title: "Türk Japon Anıtı, Ünye"
+date: "2025-12-25T15:46:24+03:00"
 slug: "turk-japon-aniti-unye"
 description: "## Türk Japon Anıtı, Ünye..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Ünye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.294641,41.141346"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk Japon Anıtı, Ünye

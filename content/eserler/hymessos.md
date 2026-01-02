@@ -1,18 +1,17 @@
 ---
-title: "Hymessos | Miras Haritası"
-date: 2025-12-25T04:58:14+03:00
+title: "Hymessos"
+date: "2025-12-25T04:58:14+03:00"
 slug: "hymessos"
 description: "### Hymessos: Antik bir Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hymessos: Antik bir Kentin İzleri

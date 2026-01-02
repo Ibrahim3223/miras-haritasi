@@ -1,18 +1,17 @@
 ---
-title: "Edire Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:18+03:00
+title: "Edire Kalesi"
+date: "2025-12-25T01:23:18+03:00"
 slug: "edire-kalesi"
 description: "# Edire Kalesi: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.370533,40.4117317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Edire Kalesi: Tarihinin ve Mimarisinin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Eskihisar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:48+03:00
+title: "Eskihisar Çeşmesi"
+date: "2025-12-25T10:29:48+03:00"
 slug: "eskihisar-cesmesi"
 description: "## Eskihisar Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.1349258,37.9043999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskihisar Çeşmesi

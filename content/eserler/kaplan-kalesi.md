@@ -1,18 +1,17 @@
 ---
-title: "Kaplan Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:47+03:00
+title: "Kaplan Kalesi"
+date: "2025-12-25T01:33:47+03:00"
 slug: "kaplan-kalesi"
 description: "## Kaplan Kalesi: Bodrum'un Gizli Çehresini İncele..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.419871,37.030701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaplan Kalesi: Bodrum'un Gizli Çehresini İncele

@@ -1,18 +1,17 @@
 ---
-title: "Denizli Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:54:17+03:00
+title: "Denizli Ulu Camii"
+date: "2025-12-24T21:54:17+03:00"
 slug: "denizli-ulu-camii"
 description: "## Denizli Ulu Camii: Tarih, Mimarisi ve Ziyaret Bilgileri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/TR_Denizli_asv2020-02_img02_Ulu_Mosque.jpg/1200px-TR_Denizli_asv2020-02_img02_Ulu_Mosque.jpg"
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.08602778,37.78283333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Denizli Ulu Camii: Tarih, Mimarisi ve Ziyaret Bilgileri

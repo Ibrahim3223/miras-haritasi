@@ -1,18 +1,17 @@
 ---
-title: "Ayakuruna Mevki Manastırı | Miras Haritası"
-date: 2025-12-25T09:56:28+03:00
+title: "Ayakuruna Mevki Manastırı"
+date: "2025-12-25T09:56:28+03:00"
 slug: "ayakuruna-mevki-manastiri"
 description: "### Ayakuruna Mevki Manastırı: Gökçeada'nın Gizli Çağı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.8366337,40.1904869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayakuruna Mevki Manastırı: Gökçeada'nın Gizli Çağı

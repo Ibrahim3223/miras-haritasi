@@ -1,18 +1,17 @@
 ---
-title: "Amcazade Hüseyin Paşa Dershane ve Mescidi | Miras Haritası"
-date: 2025-12-25T00:49:21+03:00
+title: "Amcazade Hüseyin Paşa Dershane ve Mescidi"
+date: "2025-12-25T00:49:21+03:00"
 slug: "amcazade-huseyin-pasa-dershane-ve-mescidi"
 description: "## Amcazade Hüseyin Paşa Dershane ve Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.952387,41.015198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amcazade Hüseyin Paşa Dershane ve Mescidi

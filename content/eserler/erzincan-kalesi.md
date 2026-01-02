@@ -1,18 +1,17 @@
 ---
-title: "Erzincan Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:06+03:00
+title: "Erzincan Kalesi"
+date: "2025-12-25T01:22:06+03:00"
 slug: "erzincan-kalesi"
 description: "## Erzincan Kalesi: Tarih ve Kültür Mirası..."
 featured_image: ""
-province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: "Erzurum Vilayeti"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.4936829,39.7205811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erzincan Kalesi: Tarih ve Kültür Mirası

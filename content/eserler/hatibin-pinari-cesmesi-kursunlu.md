@@ -1,18 +1,17 @@
 ---
-title: "Hatıbın Pınarı Çeşmesi, Kurşunlu | Miras Haritası"
-date: 2025-12-25T12:32:46+03:00
+title: "Hatıbın Pınarı Çeşmesi, Kurşunlu"
+date: "2025-12-25T12:32:46+03:00"
 slug: "hatibin-pinari-cesmesi-kursunlu"
 description: "# Hatıbın Pınarı Çeşmesi, Kurşunlu..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.262419494,40.836382141"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hatıbın Pınarı Çeşmesi, Kurşunlu

@@ -1,18 +1,17 @@
 ---
-title: "Ilıcapınar Höyüğü | Miras Haritası"
-date: 2025-12-25T05:53:53+03:00
+title: "Ilıcapınar Höyüğü"
+date: "2025-12-25T05:53:53+03:00"
 slug: "ilicapinar-hoyugu"
 description: "### Ilıcapınar Höyüğü: Konya'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Cihanbeyli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.936153411,38.552864149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ilıcapınar Höyüğü: Konya'nın Gizli Mücevheri

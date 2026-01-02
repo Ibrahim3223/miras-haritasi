@@ -1,18 +1,17 @@
 ---
-title: "Limes Orientalis | Miras Haritası"
-date: 2025-12-25T04:17:43+03:00
+title: "Limes Orientalis"
+date: "2025-12-25T04:17:43+03:00"
 slug: "limes-orientalis"
 description: "## Limes Orientalis: Roma İmparatorluğu'nun Doğu Sınır Hatı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Limes_Orientis.PNG/1200px-Limes_Orientis.PNG"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Limes Orientalis: Roma İmparatorluğu'nun Doğu Sınır Hatı

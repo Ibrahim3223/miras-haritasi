@@ -1,18 +1,17 @@
 ---
-title: "Uğurlu / Zeytinli | Miras Haritası"
-date: 2025-12-25T08:14:11+03:00
+title: "Uğurlu / Zeytinli"
+date: "2025-12-25T08:14:11+03:00"
 slug: "ugurlu-zeytinli"
 description: "### Uğurlu / Zeytinli Arkeolojik Sit İncelemesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ugurlu_vue_générale.jpg/1200px-Ugurlu_vue_générale.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "25.714309,40.13351"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Uğurlu / Zeytinli Arkeolojik Sit İncelemesi

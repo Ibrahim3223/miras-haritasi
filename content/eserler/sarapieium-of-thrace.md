@@ -1,18 +1,17 @@
 ---
-title: "Sarapieium of Thrace | Miras Haritası"
-date: 2025-12-25T08:11:37+03:00
+title: "Sarapieium of Thrace"
+date: "2025-12-25T08:11:37+03:00"
 slug: "sarapieium-of-thrace"
 description: "## Sarapieium of Thrace: Byzantion'un Gizli Cenneti..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Byzantion"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0735,41.1824"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarapieium of Thrace: Byzantion'un Gizli Cenneti

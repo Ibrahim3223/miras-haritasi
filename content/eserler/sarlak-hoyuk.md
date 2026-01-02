@@ -1,18 +1,17 @@
 ---
-title: "Sarlak Höyük | Miras Haritası"
-date: 2025-12-25T06:33:50+03:00
+title: "Sarlak Höyük"
+date: "2025-12-25T06:33:50+03:00"
 slug: "sarlak-hoyuk"
 description: "# Sarlak Höyük..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.9271169,37.5995551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sarlak Höyük

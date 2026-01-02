@@ -1,18 +1,17 @@
 ---
-title: "Episkopos Sarayı (Side) | Miras Haritası"
-date: 2025-12-25T08:37:59+03:00
+title: "Episkopos Sarayı (Side)"
+date: "2025-12-25T08:37:59+03:00"
 slug: "episkopos-sarayi-side"
 description: "### Episkopos Sarayı: Side'deki Tarihî Bir Kervansaray..."
 featured_image: ""
 province: "Manavgat (ilçe)"
-iller: ["Manavgat (ilçe)"]
+iller: '["Manavgat (ilçe)"]'
 district: "Side"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "31.394444444,36.767777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Episkopos Sarayı: Side'deki Tarihî Bir Kervansaray

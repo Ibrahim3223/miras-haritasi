@@ -1,18 +1,17 @@
 ---
-title: "Aziz Nikolaos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:42+03:00
+title: "Aziz Nikolaos Kilisesi"
+date: "2025-12-25T09:38:42+03:00"
 slug: "aziz-nikolaos-kilisesi"
 description: "## Aziz Nikolaos Kilisesi: Aydın'ın Söke Kasabasında Gizlenmiş Bir Kültür Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.314661,37.6685677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Nikolaos Kilisesi: Aydın'ın Söke Kasabasında Gizlenmiş Bir Kültür Mirası

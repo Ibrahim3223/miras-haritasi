@@ -1,18 +1,17 @@
 ---
-title: "Emir Erdoğmuş Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:47+03:00
+title: "Emir Erdoğmuş Türbesi"
+date: "2025-12-25T14:56:47+03:00"
 slug: "emir-erdogmus-turbesi"
 description: "### Emir Erdoğmuş Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4975624,38.7161446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Emir Erdoğmuş Türbesi

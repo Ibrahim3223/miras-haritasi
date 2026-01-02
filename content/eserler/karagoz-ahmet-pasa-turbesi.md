@@ -1,18 +1,17 @@
 ---
-title: "Karagöz Ahmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:35+03:00
+title: "Karagöz Ahmet Paşa Türbesi"
+date: "2025-12-25T15:25:35+03:00"
 slug: "karagoz-ahmet-pasa-turbesi"
 description: "## Karagöz Ahmet Paşa Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9866333,39.415699"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagöz Ahmet Paşa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Keçihöyüğü | Miras Haritası"
-date: 2025-12-25T06:45:58+03:00
+title: "Keçihöyüğü"
+date: "2025-12-25T06:45:58+03:00"
 slug: "kecihoyugu"
 description: "### Keçihöyüğü: Yenifakılı'nın Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yenifakılı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.9954645,39.3752236"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Keçihöyüğü: Yenifakılı'nın Gizemli Arkeolojik Mirası

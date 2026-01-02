@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Habil Camii | Miras Haritası"
-date: 2025-12-24T23:11:39+03:00
+title: "Şeyh Habil Camii"
+date: "2025-12-24T23:11:39+03:00"
 slug: "seyh-habil-camii"
 description: "## Şeyh Habil Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Çarşamba"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.8069992,41.1806984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Habil Camii

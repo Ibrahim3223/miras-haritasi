@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:25+03:00
+title: "Yıldırım Köprüsü"
+date: "2025-12-25T02:40:25+03:00"
 slug: "yildirim-koprusu"
 description: "## Yıldırım Köprüsü: Edirne'nin Gizli Çehresi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.534832,41.677166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldırım Köprüsü: Edirne'nin Gizli Çehresi

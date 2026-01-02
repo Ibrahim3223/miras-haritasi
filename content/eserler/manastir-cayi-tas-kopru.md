@@ -1,18 +1,17 @@
 ---
-title: "Manastır Çayı Taş Köprü | Miras Haritası"
-date: 2025-12-25T02:47:04+03:00
+title: "Manastır Çayı Taş Köprü"
+date: "2025-12-25T02:47:04+03:00"
 slug: "manastir-cayi-tas-kopru"
 description: "### Manastır Çayı Taş Köprü..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.8356514,39.5741234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Manastır Çayı Taş Köprü

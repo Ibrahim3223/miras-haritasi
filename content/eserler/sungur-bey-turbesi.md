@@ -1,18 +1,17 @@
 ---
-title: "Sungur Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:05+03:00
+title: "Sungur Bey Türbesi"
+date: "2025-12-25T14:56:05+03:00"
 slug: "sungur-bey-turbesi"
 description: "## Sungur Bey Türbesi: Ilgın, Konya'daki Bir Önemli Kültür Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ilgın"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.0364189,38.2239799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sungur Bey Türbesi: Ilgın, Konya'daki Bir Önemli Kültür Mirası

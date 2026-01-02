@@ -1,18 +1,17 @@
 ---
-title: "Topçu Çeşme | Miras Haritası"
-date: 2025-12-25T10:45:21+03:00
+title: "Topçu Çeşme"
+date: "2025-12-25T10:45:21+03:00"
 slug: "topcu-cesme"
 description: "### Topçu Çeşmesi: İzmit'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.918047,40.7669907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Topçu Çeşmesi: İzmit'in Tarihi ve Kültürel Mirası

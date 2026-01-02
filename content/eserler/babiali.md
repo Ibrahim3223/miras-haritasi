@@ -1,18 +1,17 @@
 ---
-title: "Babıali | Miras Haritası"
-date: 2025-12-25T13:43:38+03:00
+title: "Babıali"
+date: "2025-12-25T13:43:38+03:00"
 slug: "babiali"
 description: "### Babıali: İstanbul'un Tarihi Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bab-i_Ali.jpg/1200px-Bab-i_Ali.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.97805556,41.01111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Babıali: İstanbul'un Tarihi Anıtı

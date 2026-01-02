@@ -1,18 +1,17 @@
 ---
-title: "Yarhisar Gemi Müzesi | Miras Haritası"
-date: 2025-12-25T03:48:45+03:00
+title: "Yarhisar Gemi Müzesi"
+date: "2025-12-25T03:48:45+03:00"
 slug: "yarhisar-gemi-muzesi"
 description: "## Yarhisar Gemi Müzesi: Gölcük'te Bir Tarih Öyküsünün Yeri..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gölcük"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.8352242,40.7234268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarhisar Gemi Müzesi: Gölcük'te Bir Tarih Öyküsünün Yeri

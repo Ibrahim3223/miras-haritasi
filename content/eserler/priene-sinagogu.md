@@ -1,18 +1,17 @@
 ---
-title: "Priene Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:11+03:00
+title: "Priene Sinagogu"
+date: "2025-12-25T16:14:11+03:00"
 slug: "priene-sinagogu"
 description: "### Priene Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Priene_synagoge.jpg/1200px-Priene_synagoge.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.29566667,37.65855556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Priene Sinagogu

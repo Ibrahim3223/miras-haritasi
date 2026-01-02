@@ -1,18 +1,17 @@
 ---
-title: "Kapalıçarşı Ağa Hanındaki Çeşme | Miras Haritası"
-date: 2025-12-25T11:43:50+03:00
+title: "Kapalıçarşı Ağa Hanındaki Çeşme"
+date: "2025-12-25T11:43:50+03:00"
 slug: "kapalicarsi-aga-hanindaki-cesme"
 description: "## Kapalıçarşı Ağa Hanındaki Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Beyazıt"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9668331,41.0110893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapalıçarşı Ağa Hanındaki Çeşme

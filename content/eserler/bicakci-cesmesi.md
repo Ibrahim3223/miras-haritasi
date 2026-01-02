@@ -1,18 +1,17 @@
 ---
-title: "Bıçakçı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:24+03:00
+title: "Bıçakçı Çeşmesi"
+date: "2025-12-25T11:05:24+03:00"
 slug: "bicakci-cesmesi"
 description: "### Bıçakçı Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cibali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.957373,41.021776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bıçakçı Çeşmesi

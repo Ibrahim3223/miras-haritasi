@@ -1,18 +1,17 @@
 ---
-title: "Tlos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:50+03:00
+title: "Tlos Antik Tiyatrosu"
+date: "2025-12-25T04:14:50+03:00"
 slug: "tlos-antik-tiyatrosu"
 description: "## Tlos Antik Tiyatrosu: Muğla'nın Gizli Çeșiti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.42251,36.552263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tlos Antik Tiyatrosu: Muğla'nın Gizli Çeșiti

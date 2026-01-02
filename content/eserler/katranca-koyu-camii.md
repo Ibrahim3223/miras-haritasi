@@ -1,18 +1,17 @@
 ---
-title: "Katranca Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:44:17+03:00
+title: "Katranca Köyü Camii"
+date: "2025-12-24T23:44:17+03:00"
 slug: "katranca-koyu-camii"
 description: "## Katranca Köyü Camii: Kırklareli'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0528259,41.3515244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Katranca Köyü Camii: Kırklareli'nin Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Piri Mustafa Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:38:26+03:00
+title: "Piri Mustafa Paşa Hamamı"
+date: "2025-12-25T16:38:26+03:00"
 slug: "piri-mustafa-pasa-hamami"
 description: "## Piri Mustafa Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.953202,41.022246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Piri Mustafa Paşa Hamamı

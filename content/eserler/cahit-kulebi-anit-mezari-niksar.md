@@ -1,18 +1,17 @@
 ---
-title: "Cahit Külebi Anıt Mezarı, Niksar | Miras Haritası"
-date: 2025-12-25T14:06:06+03:00
+title: "Cahit Külebi Anıt Mezarı, Niksar"
+date: "2025-12-25T14:06:06+03:00"
 slug: "cahit-kulebi-anit-mezari-niksar"
 description: "## Cahit Külebi Anıt Mezarı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.9555969,40.5887718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cahit Külebi Anıt Mezarı

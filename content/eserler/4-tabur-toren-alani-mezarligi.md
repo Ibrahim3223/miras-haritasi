@@ -1,18 +1,17 @@
 ---
-title: "4. Tabur Tören Alanı Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:53:22+03:00
+title: "4. Tabur Tören Alanı Mezarlığı"
+date: "2025-12-25T15:53:22+03:00"
 slug: "4-tabur-toren-alani-mezarligi"
 description: "### 4. Tabur Tören Alanı Mezarlığı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.28610278,40.23447778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### 4. Tabur Tören Alanı Mezarlığı

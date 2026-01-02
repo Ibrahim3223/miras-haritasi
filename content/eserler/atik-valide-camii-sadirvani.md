@@ -1,18 +1,17 @@
 ---
-title: "Atik Valide Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:00:37+03:00
+title: "Atik Valide Camii Şadırvanı"
+date: "2025-12-25T10:00:37+03:00"
 slug: "atik-valide-camii-sadirvani"
 description: "**Atik Valide Camii Şadırvanı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0236168,41.0189056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Atik Valide Camii Şadırvanı**

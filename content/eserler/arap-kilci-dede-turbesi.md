@@ -1,18 +1,17 @@
 ---
-title: "Arap Kılcı Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:46:34+03:00
+title: "Arap Kılcı Dede Türbesi"
+date: "2025-12-25T14:46:34+03:00"
 slug: "arap-kilci-dede-turbesi"
 description: "## Arap Kılcı Dede Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.87846655,39.651171869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arap Kılcı Dede Türbesi

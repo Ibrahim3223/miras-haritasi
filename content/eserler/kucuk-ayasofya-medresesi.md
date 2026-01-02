@@ -1,18 +1,17 @@
 ---
-title: "Küçük Ayasofya Medresesi | Miras Haritası"
-date: 2025-12-25T17:29:11+03:00
+title: "Küçük Ayasofya Medresesi"
+date: "2025-12-25T17:29:11+03:00"
 slug: "kucuk-ayasofya-medresesi"
 description: "### Küçük Ayasofya Medresesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.971659,41.002968"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Küçük Ayasofya Medresesi: İstanbul'un Gizli Çeşmesi

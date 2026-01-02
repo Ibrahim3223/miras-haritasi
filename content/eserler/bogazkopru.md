@@ -1,18 +1,17 @@
 ---
-title: "Boğazköprü | Miras Haritası"
-date: 2025-12-25T03:06:31+03:00
+title: "Boğazköprü"
+date: "2025-12-25T03:06:31+03:00"
 slug: "bogazkopru"
 description: "## Boğazköprü: Tarihi ve Kültürel Mirasın Bir ParçASI..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boğazköprü: Tarihi ve Kültürel Mirasın Bir ParçASI

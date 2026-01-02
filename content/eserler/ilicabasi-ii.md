@@ -1,18 +1,17 @@
 ---
-title: "Ilıcabaşı II | Miras Haritası"
-date: 2025-12-25T05:27:03+03:00
+title: "Ilıcabaşı II"
+date: "2025-12-25T05:27:03+03:00"
 slug: "ilicabasi-ii"
 description: "## İlçabaşı II..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.971517,39.30415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlçabaşı II

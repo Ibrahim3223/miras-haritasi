@@ -1,18 +1,17 @@
 ---
-title: "Panionion | Miras Haritası"
-date: 2025-12-25T06:52:10+03:00
+title: "Panionion"
+date: "2025-12-25T06:52:10+03:00"
 slug: "panionion"
 description: "## Panionion: İzmir'in Gizli Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Panionium_theatre.jpg/1200px-Panionium_theatre.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.329993,37.703924"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Panionion: İzmir'in Gizli Ören Yeri

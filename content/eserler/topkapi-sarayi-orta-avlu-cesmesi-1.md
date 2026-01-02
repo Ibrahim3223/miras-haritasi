@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Orta Avlu Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T11:19:58+03:00
+title: "Topkapı Sarayı Orta Avlu Çeşmesi 1"
+date: "2025-12-25T11:19:58+03:00"
 slug: "topkapi-sarayi-orta-avlu-cesmesi-1"
 description: "## Topkapı Sarayı Orta Avlu Çeşmesi 1: Geçmişi ve Günceliği..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.984998,41.012598"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Orta Avlu Çeşmesi 1: Geçmişi ve Günceliği

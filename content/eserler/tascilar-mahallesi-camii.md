@@ -1,18 +1,17 @@
 ---
-title: "Taşçılar Mahallesi Camii | Miras Haritası"
-date: 2025-12-25T00:23:27+03:00
+title: "Taşçılar Mahallesi Camii"
+date: "2025-12-25T00:23:27+03:00"
 slug: "tascilar-mahallesi-camii"
 description: "## Taşçılar Mahallesi Camii..."
 featured_image: ""
 province: "Kalkandere"
-iller: ["Kalkandere"]
+iller: '["Kalkandere"]'
 district: "Kalkandere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.446910311,40.918370761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşçılar Mahallesi Camii

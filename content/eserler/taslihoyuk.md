@@ -1,18 +1,17 @@
 ---
-title: "Taşlıhöyük | Miras Haritası"
-date: 2025-12-25T06:25:50+03:00
+title: "Taşlıhöyük"
+date: "2025-12-25T06:25:50+03:00"
 slug: "taslihoyuk"
 description: "## Taşlıhöyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Suruç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.2005451,37.0560701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlıhöyük: Tarih ve Kültür Mirasının Gizemi

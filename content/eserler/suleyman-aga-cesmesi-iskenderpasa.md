@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Ağa Çeşmesi, İskenderpaşa | Miras Haritası"
-date: 2025-12-25T11:57:30+03:00
+title: "Süleyman Ağa Çeşmesi, İskenderpaşa"
+date: "2025-12-25T11:57:30+03:00"
 slug: "suleyman-aga-cesmesi-iskenderpasa"
 description: "## Süleyman Ağa Çeşmesi, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9509735,41.0161209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Ağa Çeşmesi, İskenderpaşa

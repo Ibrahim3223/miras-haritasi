@@ -1,18 +1,17 @@
 ---
-title: "Anonim Kümbet Mevlana | Miras Haritası"
-date: 2025-12-25T13:52:51+03:00
+title: "Anonim Kümbet Mevlana"
+date: "2025-12-25T13:52:51+03:00"
 slug: "anonim-kumbet-mevlana"
 description: "## Anonim Kümbet Mevlana: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5054054,37.8706055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anonim Kümbet Mevlana: Konya'nın Gizli Cenneti

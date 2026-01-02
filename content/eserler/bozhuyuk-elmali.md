@@ -1,18 +1,17 @@
 ---
-title: "Bozhüyük, Elmalı | Miras Haritası"
-date: 2025-12-25T06:37:27+03:00
+title: "Bozhüyük, Elmalı"
+date: "2025-12-25T06:37:27+03:00"
 slug: "bozhuyuk-elmali"
 description: "## Bozhüyük, Elmalı: Antik Çağ'ın Gizli Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0084225,36.7585306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozhüyük, Elmalı: Antik Çağ'ın Gizli Mirası

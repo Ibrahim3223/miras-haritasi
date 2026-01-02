@@ -1,18 +1,17 @@
 ---
-title: "Bakireler Manastırı | Miras Haritası"
-date: 2025-12-25T09:48:09+03:00
+title: "Bakireler Manastırı"
+date: "2025-12-25T09:48:09+03:00"
 slug: "bakireler-manastiri"
 description: "### Bakireler Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20110419_Monastery_of_Hripsimian_Virgins_Ani_Turkey.jpg/1200px-20110419_Monastery_of_Hripsimian_Virgins_Ani_Turkey.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.5758,40.5045"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bakireler Manastırı

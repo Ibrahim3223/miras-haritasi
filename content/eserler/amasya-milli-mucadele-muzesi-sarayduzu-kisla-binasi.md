@@ -1,18 +1,17 @@
 ---
-title: "Amasya Milli Mücadele Müzesi Saraydüzü Kışla Binası | Miras Haritası"
-date: 2025-12-25T03:51:31+03:00
+title: "Amasya Milli Mücadele Müzesi Saraydüzü Kışla Binası"
+date: "2025-12-25T03:51:31+03:00"
 slug: "amasya-milli-mucadele-muzesi-sarayduzu-kisla-binasi"
 description: "### Amasya Milli Mücadele Müzesi Saraydüzü Kışla Binası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.8359947,40.6590805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Amasya Milli Mücadele Müzesi Saraydüzü Kışla Binası

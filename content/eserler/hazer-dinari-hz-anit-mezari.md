@@ -1,18 +1,17 @@
 ---
-title: "Hazer Dinari Hz. Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:04:12+03:00
+title: "Hazer Dinari Hz. Anıt Mezarı"
+date: "2025-12-25T14:04:12+03:00"
 slug: "hazer-dinari-hz-anit-mezari"
 description: "## Hazer Dinari Hz. Anıt Mezarı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9765663,39.4203835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hazer Dinari Hz. Anıt Mezarı

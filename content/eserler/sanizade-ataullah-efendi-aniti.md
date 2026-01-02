@@ -1,18 +1,17 @@
 ---
-title: "Şanizade Ataullah Efendi Anıtı | Miras Haritası"
-date: 2025-12-25T15:52:13+03:00
+title: "Şanizade Ataullah Efendi Anıtı"
+date: "2025-12-25T15:52:13+03:00"
 slug: "sanizade-ataullah-efendi-aniti"
 description: "## Şanizade Ataullah Efendi Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7303619,38.0847588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şanizade Ataullah Efendi Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Hanım Sultanlar Müzesi | Miras Haritası"
-date: 2025-12-25T03:45:14+03:00
+title: "Hanım Sultanlar Müzesi"
+date: "2025-12-25T03:45:14+03:00"
 slug: "hanim-sultanlar-muzesi"
 description: "## Hanım Sultanlar Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0095654,41.0247574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hanım Sultanlar Müzesi

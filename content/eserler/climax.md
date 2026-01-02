@@ -1,18 +1,17 @@
 ---
-title: "Climax | Miras Haritası"
-date: 2025-12-25T05:41:50+03:00
+title: "Climax"
+date: "2025-12-25T05:41:50+03:00"
 slug: "climax"
 description: "## Climax: Geçmişin Gizemli Kalıntıları..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.0439567,41.9310816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Climax: Geçmişin Gizemli Kalıntıları

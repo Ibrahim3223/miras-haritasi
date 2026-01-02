@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami (Şehzadeler) | Miras Haritası"
-date: 2025-12-24T23:19:54+03:00
+title: "Yeni Cami (Şehzadeler)"
+date: "2025-12-24T23:19:54+03:00"
 slug: "yeni-cami-sehzadeler"
 description: "## Yeni Cami (Şehzadeler): Manisa'nın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.425148,38.6163673"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Cami (Şehzadeler): Manisa'nın Tarihî Bir Anıtı

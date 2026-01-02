@@ -1,18 +1,17 @@
 ---
-title: "Esekapı Mescidi | Miras Haritası"
-date: 2025-12-24T21:52:59+03:00
+title: "Esekapı Mescidi"
+date: "2025-12-24T21:52:59+03:00"
 slug: "esekapi-mescidi"
 description: "## Esekapı Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Esekapı_Mosque.jpg/1200px-Esekapı_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.936759205,41.004819888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Esekapı Mescidi: İstanbul'un Gizli Cenneti

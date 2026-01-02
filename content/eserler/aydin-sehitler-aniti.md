@@ -1,18 +1,17 @@
 ---
-title: "Aydın Şehitler Anıtı | Miras Haritası"
-date: 2025-12-25T15:48:06+03:00
+title: "Aydın Şehitler Anıtı"
+date: "2025-12-25T15:48:06+03:00"
 slug: "aydin-sehitler-aniti"
 description: "### Aydın Şehitler Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8437366,37.8468094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aydın Şehitler Anıtı

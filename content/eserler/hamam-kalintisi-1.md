@@ -1,18 +1,17 @@
 ---
-title: "Hamam Kalıntısı 1 | Miras Haritası"
-date: 2025-12-25T16:42:44+03:00
+title: "Hamam Kalıntısı 1"
+date: "2025-12-25T16:42:44+03:00"
 slug: "hamam-kalintisi-1"
 description: "### Gümüşhane'de Kalıntı Kalan Bir Çağın Mirası: Hamam Kalıntısı 1..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.453607,40.452391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşhane'de Kalıntı Kalan Bir Çağın Mirası: Hamam Kalıntısı 1

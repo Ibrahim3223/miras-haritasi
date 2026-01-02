@@ -1,18 +1,17 @@
 ---
-title: "Burdur İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:52:40+03:00
+title: "Burdur İl Halk Kütüphanesi"
+date: "2025-12-25T17:52:40+03:00"
 slug: "burdur-il-halk-kutuphanesi"
 description: "## Burdur İl Halk Kütüphanesi: Türkiye'nin Kültürel Mirası..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.2861099,37.7196159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burdur İl Halk Kütüphanesi: Türkiye'nin Kültürel Mirası

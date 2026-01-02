@@ -1,18 +1,17 @@
 ---
-title: "Nasreddin Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:39+03:00
+title: "Nasreddin Köprüsü"
+date: "2025-12-25T02:33:39+03:00"
 slug: "nasreddin-koprusu"
 description: "## Nasreddin Köprüsü..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Kurtalan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.8283997,37.8214989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nasreddin Köprüsü

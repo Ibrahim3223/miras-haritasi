@@ -1,18 +1,17 @@
 ---
-title: "Hatice Hanım Çeşmesi, Sümbül Efendi | Miras Haritası"
-date: 2025-12-25T12:18:27+03:00
+title: "Hatice Hanım Çeşmesi, Sümbül Efendi"
+date: "2025-12-25T12:18:27+03:00"
 slug: "hatice-hanim-cesmesi-sumbul-efendi"
 description: "## Hatice Hanım Çeşmesi, Sümbül Efendi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.924353,41.000406"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Hanım Çeşmesi, Sümbül Efendi: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Bodrum Sualtı Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:02+03:00
+title: "Bodrum Sualtı Arkeoloji Müzesi"
+date: "2025-12-25T03:19:02+03:00"
 slug: "bodrum-sualti-arkeoloji-muzesi"
 description: "## Bodrum Sualtı Arkeoloji Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.428639,37.032442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bodrum Sualtı Arkeoloji Müzesi

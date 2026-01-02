@@ -1,18 +1,17 @@
 ---
-title: "Ahi Yakup Camii | Miras Haritası"
-date: 2025-12-24T22:59:15+03:00
+title: "Ahi Yakup Camii"
+date: "2025-12-24T22:59:15+03:00"
 slug: "ahi-yakup-camii"
 description: "## Ahi Yakup Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8592911,39.9448204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Yakup Camii

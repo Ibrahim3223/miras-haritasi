@@ -1,18 +1,17 @@
 ---
-title: "Barsalion | Miras Haritası"
-date: 2025-12-25T04:18:29+03:00
+title: "Barsalion"
+date: "2025-12-25T04:18:29+03:00"
 slug: "barsalion"
 description: "# Barsalion Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.1967,38.0881"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Barsalion Arkeolojik Sit

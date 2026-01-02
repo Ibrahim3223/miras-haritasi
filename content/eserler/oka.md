@@ -1,18 +1,17 @@
 ---
-title: "Oka | Miras Haritası"
-date: 2025-12-25T05:13:10+03:00
+title: "Oka"
+date: "2025-12-25T05:13:10+03:00"
 slug: "oka"
 description: "## Eski Oka Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.411202,40.13231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Oka Arkeolojik Sit

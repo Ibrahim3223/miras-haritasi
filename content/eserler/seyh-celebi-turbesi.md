@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:02+03:00
+title: "Şeyh Çelebi Türbesi"
+date: "2025-12-25T14:19:02+03:00"
 slug: "seyh-celebi-turbesi"
 description: "**Şeyh Çelebi Türbesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Şeyh_Çelebi_Camii_26.JPG/1200px-Şeyh_Çelebi_Camii_26.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.567994,41.672831"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Şeyh Çelebi Türbesi**

@@ -1,18 +1,17 @@
 ---
-title: "Küçük Til Höyüğü | Miras Haritası"
-date: 2025-12-25T06:26:23+03:00
+title: "Küçük Til Höyüğü"
+date: "2025-12-25T06:26:23+03:00"
 slug: "kucuk-til-hoyugu"
 description: "## Küçük Til Höyüğü: Tarihi ve Kültürel Mirasının Gizli Anıtı..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.3216133,38.1774118"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Til Höyüğü: Tarihi ve Kültürel Mirasının Gizli Anıtı

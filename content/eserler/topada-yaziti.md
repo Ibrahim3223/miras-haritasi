@@ -1,18 +1,17 @@
 ---
-title: "Topada Yazıtı | Miras Haritası"
-date: 2025-12-25T15:40:15+03:00
+title: "Topada Yazıtı"
+date: "2025-12-25T15:40:15+03:00"
 slug: "topada-yaziti"
 description: "## Topada Yazıtı: Acıgöl'ün Gizli Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Acıgöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.480277777,38.493083333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topada Yazıtı: Acıgöl'ün Gizli Anıtı

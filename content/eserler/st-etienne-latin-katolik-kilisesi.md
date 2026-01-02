@@ -1,18 +1,17 @@
 ---
-title: "St. Etienne Latin Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:08+03:00
+title: "St. Etienne Latin Katolik Kilisesi"
+date: "2025-12-25T09:25:08+03:00"
 slug: "st-etienne-latin-katolik-kilisesi"
 description: "### St. Etienne Latin Katolik Kilisesi: Bakırköy'de Bir Tarihi Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.8219128,40.9577141"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### St. Etienne Latin Katolik Kilisesi: Bakırköy'de Bir Tarihi Anıt

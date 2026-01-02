@@ -1,18 +1,17 @@
 ---
-title: "Anavarza Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:00+03:00
+title: "Anavarza Kalesi"
+date: "2025-12-25T01:16:00+03:00"
 slug: "anavarza-kalesi"
 description: "### Anavarza Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Anavarza_Castle.jpg/1200px-Anavarza_Castle.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.905777777,37.254611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Anavarza Kalesi

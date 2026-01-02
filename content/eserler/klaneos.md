@@ -1,18 +1,17 @@
 ---
-title: "Klaneos | Miras Haritası"
-date: 2025-12-25T05:22:17+03:00
+title: "Klaneos"
+date: "2025-12-25T05:22:17+03:00"
 slug: "klaneos"
 description: "## Klaneos Arkeolojik Sitesi..."
 featured_image: ""
 province: "Yunak"
-iller: ["Yunak"]
+iller: '["Yunak"]'
 district: "Turgut"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.835,38.623333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Klaneos Arkeolojik Sitesi

@@ -1,18 +1,17 @@
 ---
-title: "Antepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:16+03:00
+title: "Antepe Tümülüsü"
+date: "2025-12-25T08:05:16+03:00"
 slug: "antepe-tumulusu"
 description: "## Antepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7768421,41.4951935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antepe Tümülüsü

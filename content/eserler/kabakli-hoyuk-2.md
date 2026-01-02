@@ -1,18 +1,17 @@
 ---
-title: "Kabaklı Höyük 2 | Miras Haritası"
-date: 2025-12-25T06:23:21+03:00
+title: "Kabaklı Höyük 2"
+date: "2025-12-25T06:23:21+03:00"
 slug: "kabakli-hoyuk-2"
 description: "## Kabaklı Höyük 2: Osmanlı Dönemi'nden Kalma Gizemli Bir Kent..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2363994,39.7240127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabaklı Höyük 2: Osmanlı Dönemi'nden Kalma Gizemli Bir Kent

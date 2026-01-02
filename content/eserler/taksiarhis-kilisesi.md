@@ -1,18 +1,17 @@
 ---
-title: "Taksiarhis Kilisesi | Miras Haritası"
-date: 2025-12-25T09:08:43+03:00
+title: "Taksiarhis Kilisesi"
+date: "2025-12-25T09:08:43+03:00"
 slug: "taksiarhis-kilisesi"
 description: "## Taksiarhis Kilisesi: Talas'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.562976,38.684632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taksiarhis Kilisesi: Talas'ın Tarihi Bir Mirası

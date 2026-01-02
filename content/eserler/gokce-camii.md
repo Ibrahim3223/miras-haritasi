@@ -1,18 +1,17 @@
 ---
-title: "Gökçe Camii | Miras Haritası"
-date: 2025-12-24T23:01:40+03:00
+title: "Gökçe Camii"
+date: "2025-12-24T23:01:40+03:00"
 slug: "gokce-camii"
 description: "## Gökçe Camii: Sivas'ta Bir Tarihî Anıtın Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sivas"
+province: "Sivas"
+iller: '["Sivas"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.1119537,39.372242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökçe Camii: Sivas'ta Bir Tarihî Anıtın Gizemi

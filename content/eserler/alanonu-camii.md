@@ -1,18 +1,17 @@
 ---
-title: "Alanönü Camii | Miras Haritası"
-date: 2025-12-24T22:09:57+03:00
+title: "Alanönü Camii"
+date: "2025-12-24T22:09:57+03:00"
 slug: "alanonu-camii"
 description: "### Alanönü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5293217,39.7640991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alanönü Camii

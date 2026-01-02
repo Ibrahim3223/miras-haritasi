@@ -1,18 +1,17 @@
 ---
-title: "Şarköy Camikebir Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:27+03:00
+title: "Şarköy Camikebir Köprüsü"
+date: "2025-12-25T02:18:27+03:00"
 slug: "sarkoy-camikebir-koprusu"
 description: "## Şarköy Camikebir Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.0952339,40.6447182"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şarköy Camikebir Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Neapolis (Karya) | Miras Haritası"
-date: 2025-12-25T04:35:13+03:00
+title: "Neapolis (Karya)"
+date: "2025-12-25T04:35:13+03:00"
 slug: "neapolis-karya"
 description: "### Neapolis: Bodrum'un Gizli Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.378,37.1263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Neapolis: Bodrum'un Gizli Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Sultan Sarı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:14:20+03:00
+title: "Sultan Sarı Baba Türbesi"
+date: "2025-12-25T14:14:20+03:00"
 slug: "sultan-sari-baba-turbesi"
 description: "# Sultan Sarı Baba Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Sarayköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.7655754,37.9079742"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sultan Sarı Baba Türbesi

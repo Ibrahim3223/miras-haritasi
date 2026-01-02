@@ -1,18 +1,17 @@
 ---
-title: "Hazinedarzade Süleyman Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:33:55+03:00
+title: "Hazinedarzade Süleyman Paşa Camii"
+date: "2025-12-24T23:33:55+03:00"
 slug: "hazinedarzade-suleyman-pasa-camii"
 description: "### Hazinedarzade Süleyman Paşa Camii: Samsun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.3315506,41.295269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hazinedarzade Süleyman Paşa Camii: Samsun'un Tarihi Bir Mirası

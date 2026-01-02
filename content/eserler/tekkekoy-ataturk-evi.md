@@ -1,18 +1,17 @@
 ---
-title: "Tekkeköy Atatürk Evi | Miras Haritası"
-date: 2025-12-25T03:27:26+03:00
+title: "Tekkeköy Atatürk Evi"
+date: "2025-12-25T03:27:26+03:00"
 slug: "tekkekoy-ataturk-evi"
 description: "## Tekkeköy Atatürk Evi Müzesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: "Trabzon Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.458921,41.212549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekkeköy Atatürk Evi Müzesi

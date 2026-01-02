@@ -1,18 +1,17 @@
 ---
-title: "Alacahöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:24:27+03:00
+title: "Alacahöyük Tümülüsü"
+date: "2025-12-25T07:24:27+03:00"
 slug: "alacahoyuk-tumulusu"
 description: "## Alacahöyük Tümülüsü: Türkiye'nin Gizli Göller Bölgesi'ndeki Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.5053864,37.3555145"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alacahöyük Tümülüsü: Türkiye'nin Gizli Göller Bölgesi'ndeki Bir Arkeolojik Harikası

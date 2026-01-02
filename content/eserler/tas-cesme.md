@@ -1,18 +1,17 @@
 ---
-title: "Taş Çeşme | Miras Haritası"
-date: 2025-12-25T10:46:19+03:00
+title: "Taş Çeşme"
+date: "2025-12-25T10:46:19+03:00"
 slug: "tas-cesme"
 description: "### Taş Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7776566,41.3833656"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taş Çeşme

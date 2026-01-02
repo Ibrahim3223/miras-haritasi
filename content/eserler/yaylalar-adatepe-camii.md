@@ -1,18 +1,17 @@
 ---
-title: "Yaylalar Adatepe Camii | Miras Haritası"
-date: 2025-12-25T00:19:28+03:00
+title: "Yaylalar Adatepe Camii"
+date: "2025-12-25T00:19:28+03:00"
 slug: "yaylalar-adatepe-camii"
 description: "## Yaylalar Adatepe Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2737833,40.8847324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yaylalar Adatepe Camii

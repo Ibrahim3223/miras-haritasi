@@ -1,18 +1,17 @@
 ---
-title: "Akağalar Kapısı | Miras Haritası"
-date: 2025-12-25T15:38:52+03:00
+title: "Akağalar Kapısı"
+date: "2025-12-25T15:38:52+03:00"
 slug: "akagalar-kapisi"
 description: "### Akağalar Kapısı: Edirne'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5549412,41.6908302"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akağalar Kapısı: Edirne'nin Tarihi Bir Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Bayramyeri Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:43+03:00
+title: "Bayramyeri Saat Kulesi"
+date: "2025-12-25T17:17:43+03:00"
 slug: "bayramyeri-saat-kulesi"
 description: "### Bayramyeri Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bayramyeri_Clock_Tower_01.jpg/1200px-Bayramyeri_Clock_Tower_01.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "27.128388888,38.410888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bayramyeri Saat Kulesi

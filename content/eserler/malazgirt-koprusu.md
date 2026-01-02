@@ -1,18 +1,17 @@
 ---
-title: "Malazgirt Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:31+03:00
+title: "Malazgirt Köprüsü"
+date: "2025-12-25T02:25:31+03:00"
 slug: "malazgirt-koprusu"
 description: "### Malazgirt Köprüsü: Tarihî Bir İkona Sahip Köprü..."
 featured_image: ""
 province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
+iller: '["Bitlis Vilayeti"]'
 district: "Malazgirt"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.5105932,39.1516706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Malazgirt Köprüsü: Tarihî Bir İkona Sahip Köprü

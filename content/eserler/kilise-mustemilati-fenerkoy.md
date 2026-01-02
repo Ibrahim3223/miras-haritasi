@@ -1,18 +1,17 @@
 ---
-title: "Kilise Müştemilatı, Fenerköy | Miras Haritası"
-date: 2025-12-25T09:41:47+03:00
+title: "Kilise Müştemilatı, Fenerköy"
+date: "2025-12-25T09:41:47+03:00"
 slug: "kilise-mustemilati-fenerkoy"
 description: "## Kilise Müştemilatı, Fenerköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.238133992,41.150013344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilise Müştemilatı, Fenerköy

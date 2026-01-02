@@ -1,18 +1,17 @@
 ---
-title: "Ömer Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:52:24+03:00
+title: "Ömer Paşa Camii"
+date: "2025-12-24T21:52:24+03:00"
 slug: "omer-pasa-camii"
 description: "### Ömer Paşa Camii: Elmalı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.91417,36.74292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ömer Paşa Camii: Elmalı'nın Tarihi Bir Mirası

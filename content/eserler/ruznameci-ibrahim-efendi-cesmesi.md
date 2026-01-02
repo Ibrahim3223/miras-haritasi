@@ -1,18 +1,17 @@
 ---
-title: "Ruznameci İbrahim Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:01+03:00
+title: "Ruznameci İbrahim Efendi Çeşmesi"
+date: "2025-12-25T11:21:01+03:00"
 slug: "ruznameci-ibrahim-efendi-cesmesi"
 description: "## Ruznameci İbrahim Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ruznameci_İbrahim_Efendi_Çeşmesi_IMG_6771.jpg/1200px-Ruznameci_İbrahim_Efendi_Çeşmesi_IMG_6771.jpg"
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Rumelikavağı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.074319,41.182544"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ruznameci İbrahim Efendi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Gideros | Miras Haritası"
-date: 2025-12-25T06:59:04+03:00
+title: "Gideros"
+date: "2025-12-25T06:59:04+03:00"
 slug: "gideros"
 description: "# Gideros Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cide_gideros.jpg/1200px-Cide_gideros.jpg"
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Cide"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.85803,41.85942"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Gideros Arkeolojik Sit

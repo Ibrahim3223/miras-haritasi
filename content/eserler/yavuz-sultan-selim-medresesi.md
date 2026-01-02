@@ -1,18 +1,17 @@
 ---
-title: "Yavuz Sultan Selim Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:00+03:00
+title: "Yavuz Sultan Selim Medresesi"
+date: "2025-12-25T17:24:00+03:00"
 slug: "yavuz-sultan-selim-medresesi"
 description: "### Yavuz Sultan Selim Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Istanbul_Yavuz_Selim_Medresi_9003.jpg/1200px-Istanbul_Yavuz_Selim_Medresi_9003.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.942137128,41.016784691"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yavuz Sultan Selim Medresesi

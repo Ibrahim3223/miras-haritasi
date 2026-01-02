@@ -1,18 +1,17 @@
 ---
-title: "Katrancı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:19+03:00
+title: "Katrancı Köprüsü"
+date: "2025-12-25T02:44:19+03:00"
 slug: "katranci-koprusu"
 description: "## Katrancı Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2173748,37.7023582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Katrancı Köprüsü

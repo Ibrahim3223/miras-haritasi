@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü Tepesi Höyük | Miras Haritası"
-date: 2025-12-25T06:16:52+03:00
+title: "Taşköprü Tepesi Höyük"
+date: "2025-12-25T06:16:52+03:00"
 slug: "taskopru-tepesi-hoyuk"
 description: "## Taşköprü Tepesi Höyük: Eskişehir'in Gizli Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "İnönü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.1298923,39.6924553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşköprü Tepesi Höyük: Eskişehir'in Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Sinan Bey Camii, Kastamonu | Miras Haritası"
-date: 2025-12-25T00:04:49+03:00
+title: "Sinan Bey Camii, Kastamonu"
+date: "2025-12-25T00:04:49+03:00"
 slug: "sinan-bey-camii-kastamonu"
 description: "## Sinan Bey Camii, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7745018,41.3722801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Bey Camii, Kastamonu

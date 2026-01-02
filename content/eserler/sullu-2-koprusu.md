@@ -1,18 +1,17 @@
 ---
-title: "Süllü 2 Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:30+03:00
+title: "Süllü 2 Köprüsü"
+date: "2025-12-25T02:37:30+03:00"
 slug: "sullu-2-koprusu"
 description: "## Süllü 2 Köprüsü: Giresun'un Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Dereli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.347389,40.655369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süllü 2 Köprüsü: Giresun'un Gizli Cenneti

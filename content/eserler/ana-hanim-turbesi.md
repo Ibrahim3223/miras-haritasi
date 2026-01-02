@@ -1,18 +1,17 @@
 ---
-title: "Ana Hanım Türbesi | Miras Haritası"
-date: 2025-12-25T14:59:52+03:00
+title: "Ana Hanım Türbesi"
+date: "2025-12-25T14:59:52+03:00"
 slug: "ana-hanim-turbesi"
 description: "## Ana Hanım Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2700348,39.904232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ana Hanım Türbesi

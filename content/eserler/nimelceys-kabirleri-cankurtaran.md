@@ -1,18 +1,17 @@
 ---
-title: "Nimelceyş Kabirleri, Cankurtaran | Miras Haritası"
-date: 2025-12-25T15:59:28+03:00
+title: "Nimelceyş Kabirleri, Cankurtaran"
+date: "2025-12-25T15:59:28+03:00"
 slug: "nimelceys-kabirleri-cankurtaran"
 description: "## Nimelceyş Kabirleri: Cankurtaran'ın Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9819012,41.0039902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nimelceyş Kabirleri: Cankurtaran'ın Gizli Anıtı

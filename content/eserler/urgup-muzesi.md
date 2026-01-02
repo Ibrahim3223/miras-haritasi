@@ -1,18 +1,17 @@
 ---
-title: "Ürgüp Müzesi | Miras Haritası"
-date: 2025-12-25T03:43:53+03:00
+title: "Ürgüp Müzesi"
+date: "2025-12-25T03:43:53+03:00"
 slug: "urgup-muzesi"
 description: "## Ürgüp Müzesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.9128,38.6321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ürgüp Müzesi

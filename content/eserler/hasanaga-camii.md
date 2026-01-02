@@ -1,18 +1,17 @@
 ---
-title: "Hasanağa Camii | Miras Haritası"
-date: 2025-12-24T23:33:18+03:00
+title: "Hasanağa Camii"
+date: "2025-12-24T23:33:18+03:00"
 slug: "hasanaga-camii"
 description: "## Hasanağa Camii: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.721876,41.007813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasanağa Camii: Trabzon'un Tarihi Bir Mirası

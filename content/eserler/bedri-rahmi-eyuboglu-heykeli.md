@@ -1,18 +1,17 @@
 ---
-title: "Bedri Rahmi Eyüboğlu Heykeli | Miras Haritası"
-date: 2025-12-25T16:09:18+03:00
+title: "Bedri Rahmi Eyüboğlu Heykeli"
+date: "2025-12-25T16:09:18+03:00"
 slug: "bedri-rahmi-eyuboglu-heykeli"
 description: "## Bedri Rahmi Eyüboğlu Heykeli: Beyoğlu'ndaki Bir Sanat Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9747925,41.0291786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bedri Rahmi Eyüboğlu Heykeli: Beyoğlu'ndaki Bir Sanat Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Yahya Efendi Çeşmesi, Cerrahpaşa | Miras Haritası"
-date: 2025-12-25T12:09:28+03:00
+title: "Yahya Efendi Çeşmesi, Cerrahpaşa"
+date: "2025-12-25T12:09:28+03:00"
 slug: "yahya-efendi-cesmesi-cerrahpasa"
 description: "## Yahya Efendi Çeşmesi, Cerrahpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9413242,41.0055161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahya Efendi Çeşmesi, Cerrahpaşa

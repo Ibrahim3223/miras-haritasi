@@ -1,18 +1,17 @@
 ---
-title: "Mareşal Fevzi Çakmak Caddesi 7. Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:25:02+03:00
+title: "Mareşal Fevzi Çakmak Caddesi 7. Sokak Çeşmesi"
+date: "2025-12-25T11:25:02+03:00"
 slug: "maresal-fevzi-cakmak-caddesi-7-sokak-cesmesi"
 description: "### Mareşal Fevzi Çakmak Caddesi 7. Sokak Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6956615,39.3190193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mareşal Fevzi Çakmak Caddesi 7. Sokak Çeşmesi

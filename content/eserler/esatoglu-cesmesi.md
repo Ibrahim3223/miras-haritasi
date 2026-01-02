@@ -1,18 +1,17 @@
 ---
-title: "Esatoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:40:14+03:00
+title: "Esatoğlu Çeşmesi"
+date: "2025-12-25T11:40:14+03:00"
 slug: "esatoglu-cesmesi"
 description: "## Esatoğlu Çeşmesi: Yakutiye'nin Tarihine Bir Katkı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2823868,39.9153519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esatoğlu Çeşmesi: Yakutiye'nin Tarihine Bir Katkı

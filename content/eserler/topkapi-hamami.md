@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Hamamı | Miras Haritası"
-date: 2025-12-25T17:11:06+03:00
+title: "Topkapı Hamamı"
+date: "2025-12-25T17:11:06+03:00"
 slug: "topkapi-hamami"
 description: "## Topkapı Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.5483017,41.6778297"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Hamamı

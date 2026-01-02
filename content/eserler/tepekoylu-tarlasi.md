@@ -1,18 +1,17 @@
 ---
-title: "Tepeköylü Tarlası | Miras Haritası"
-date: 2025-12-25T05:47:34+03:00
+title: "Tepeköylü Tarlası"
+date: "2025-12-25T05:47:34+03:00"
 slug: "tepekoylu-tarlasi"
 description: "# Tepeköylü Tarlası: İzmir'in Gizli Arkeolojik Öncül Sit Alanı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.396717,38.08695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tepeköylü Tarlası: İzmir'in Gizli Arkeolojik Öncül Sit Alanı

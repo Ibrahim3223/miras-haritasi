@@ -1,18 +1,17 @@
 ---
-title: "Silifke Kalesi’nden İndirilen Top | Miras Haritası"
-date: 2025-12-25T15:46:09+03:00
+title: "Silifke Kalesi’nden İndirilen Top"
+date: "2025-12-25T15:46:09+03:00"
 slug: "silifke-kalesinden-indirilen-top"
 description: "## Silifke Kalesi'nden İndirilen Top: Mersin'in Gizli Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9276161,36.3786125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Silifke Kalesi'nden İndirilen Top: Mersin'in Gizli Anıtı

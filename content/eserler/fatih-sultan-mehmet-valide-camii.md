@@ -1,18 +1,17 @@
 ---
-title: "Fatih Sultan Mehmet Valide Camii | Miras Haritası"
-date: 2025-12-24T23:02:43+03:00
+title: "Fatih Sultan Mehmet Valide Camii"
+date: "2025-12-24T23:02:43+03:00"
 slug: "fatih-sultan-mehmet-valide-camii"
 description: "# Fatih Sultan Mehmet Valide Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8376007,38.7410011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Fatih Sultan Mehmet Valide Camii: İzmir'in Tarihi Bir Mirası

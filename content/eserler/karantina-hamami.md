@@ -1,18 +1,17 @@
 ---
-title: "Karantina Hamamı | Miras Haritası"
-date: 2025-12-25T16:47:15+03:00
+title: "Karantina Hamamı"
+date: "2025-12-25T16:47:15+03:00"
 slug: "karantina-hamami"
 description: "## Karantina Hamamı: İzmir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1079063,38.4064789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karantina Hamamı: İzmir'in Tarihî Bir Mirası

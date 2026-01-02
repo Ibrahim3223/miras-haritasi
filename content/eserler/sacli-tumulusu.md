@@ -1,18 +1,17 @@
 ---
-title: "Saçlı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:36:28+03:00
+title: "Saçlı Tümülüsü"
+date: "2025-12-25T07:36:28+03:00"
 slug: "sacli-tumulusu"
 description: "## Bayramiç'in Gizemli Zenginliği: Saçlı Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.567936098,39.731007758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayramiç'in Gizemli Zenginliği: Saçlı Tümülüsü

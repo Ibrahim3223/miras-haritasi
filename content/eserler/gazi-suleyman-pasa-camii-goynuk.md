@@ -1,18 +1,17 @@
 ---
-title: "Gazi Süleyman Paşa Camii, Göynük | Miras Haritası"
-date: 2025-12-24T21:38:08+03:00
+title: "Gazi Süleyman Paşa Camii, Göynük"
+date: "2025-12-24T21:38:08+03:00"
 slug: "gazi-suleyman-pasa-camii-goynuk"
 description: "### Gazi Süleyman Paşa Camii, Göynük..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bolu_Göynük_Gazi_Süleyman_Paşa_Camii.jpg/1200px-Bolu_Göynük_Gazi_Süleyman_Paşa_Camii.jpg"
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Göynük"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.78725,40.399277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Gazi Süleyman Paşa Camii, Göynük

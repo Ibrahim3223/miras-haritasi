@@ -1,18 +1,17 @@
 ---
-title: "Yukarısarıkaya Höyük | Miras Haritası"
-date: 2025-12-25T06:24:17+03:00
+title: "Yukarısarıkaya Höyük"
+date: "2025-12-25T06:24:17+03:00"
 slug: "yukarisarikaya-hoyuk"
 description: "## Yukarısarıkaya Höyük: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.1621455,39.4225269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarısarıkaya Höyük: Tarih ve Kültür Mirası

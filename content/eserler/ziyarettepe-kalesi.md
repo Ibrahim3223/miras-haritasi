@@ -1,18 +1,17 @@
 ---
-title: "Ziyarettepe Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:35+03:00
+title: "Ziyarettepe Kalesi"
+date: "2025-12-25T01:22:35+03:00"
 slug: "ziyarettepe-kalesi"
 description: "## Ziyarettepe Kalesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.4904938,40.5471878"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ziyarettepe Kalesi

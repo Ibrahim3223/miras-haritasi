@@ -1,18 +1,17 @@
 ---
-title: "Kız Kalesi | Miras Haritası"
-date: 2025-12-25T06:53:18+03:00
+title: "Kız Kalesi"
+date: "2025-12-25T06:53:18+03:00"
 slug: "kiz-kalesi"
 description: "# Kız Kalesi: Kızkalesi'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Korykos_-_Kızkalesi_01_(cropped).jpg/1200px-Korykos_-_Kızkalesi_01_(cropped).jpg"
 province: "Erdemli"
-iller: ["Erdemli"]
+iller: '["Erdemli"]'
 district: "Kızkalesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.14805556,36.45680556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kız Kalesi: Kızkalesi'nin Gizemi

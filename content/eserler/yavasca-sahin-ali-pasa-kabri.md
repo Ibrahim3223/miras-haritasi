@@ -1,18 +1,17 @@
 ---
-title: "Yavaşça Şahin Ali Paşa Kabri | Miras Haritası"
-date: 2025-12-25T13:30:36+03:00
+title: "Yavaşça Şahin Ali Paşa Kabri"
+date: "2025-12-25T13:30:36+03:00"
 slug: "yavasca-sahin-ali-pasa-kabri"
 description: "### Şahin Ali Paşa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9677582,41.0158157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şahin Ali Paşa Kabri

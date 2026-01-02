@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Hocahamza | Miras Haritası"
-date: 2025-12-25T12:59:38+03:00
+title: "Çeşme, Hocahamza"
+date: "2025-12-25T12:59:38+03:00"
 slug: "cesme-hocahamza"
 description: "## Hocahamza Çeşmesi: Gelibolu'nun Tarihsel Bir Örneği..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.682169,40.4184685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hocahamza Çeşmesi: Gelibolu'nun Tarihsel Bir Örneği

@@ -1,18 +1,17 @@
 ---
-title: "Karcalı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:46:00+03:00
+title: "Karcalı Camii Çeşmesi"
+date: "2025-12-25T12:46:00+03:00"
 slug: "karcali-camii-cesmesi"
 description: "### Karcalı Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7589645,38.0836449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karcalı Camii Çeşmesi

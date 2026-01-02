@@ -1,18 +1,17 @@
 ---
-title: "Malkara Bulgar Kilisesi | Miras Haritası"
-date: 2025-12-25T09:28:59+03:00
+title: "Malkara Bulgar Kilisesi"
+date: "2025-12-25T09:28:59+03:00"
 slug: "malkara-bulgar-kilisesi"
 description: "### Malkara Bulgar Kilisesi: Tarih, Mimari ve Kültür..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Malkara"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.9057007,40.8965988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Malkara Bulgar Kilisesi: Tarih, Mimari ve Kültür

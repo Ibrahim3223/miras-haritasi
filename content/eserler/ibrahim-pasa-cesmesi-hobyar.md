@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Paşa Çeşmesi, Hobyar | Miras Haritası"
-date: 2025-12-25T13:11:23+03:00
+title: "İbrahim Paşa Çeşmesi, Hobyar"
+date: "2025-12-25T13:11:23+03:00"
 slug: "ibrahim-pasa-cesmesi-hobyar"
 description: "## İbrahim Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.974041,41.0130959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Paşa Çeşmesi

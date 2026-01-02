@@ -1,18 +1,17 @@
 ---
-title: "Somuncu Baba Mescit ve Zaviyesi | Miras Haritası"
-date: 2025-12-25T00:18:54+03:00
+title: "Somuncu Baba Mescit ve Zaviyesi"
+date: "2025-12-25T00:18:54+03:00"
 slug: "somuncu-baba-mescit-ve-zaviyesi"
 description: "## Somuncu Baba Mescit ve Zaviyesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.0401878,38.3746986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Somuncu Baba Mescit ve Zaviyesi

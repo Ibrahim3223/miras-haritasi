@@ -1,18 +1,17 @@
 ---
-title: "Tomarca Höyük | Miras Haritası"
-date: 2025-12-25T06:38:57+03:00
+title: "Tomarca Höyük"
+date: "2025-12-25T06:38:57+03:00"
 slug: "tomarca-hoyuk"
 description: "## Tomarca Höyük: Eski Şehir Kalıntıları..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.320255,39.508159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tomarca Höyük: Eski Şehir Kalıntıları

@@ -1,18 +1,17 @@
 ---
-title: "Derecik Köyü Merkez Köprüsü | Miras Haritası"
-date: 2025-12-25T02:06:15+03:00
+title: "Derecik Köyü Merkez Köprüsü"
+date: "2025-12-25T02:06:15+03:00"
 slug: "derecik-koyu-merkez-koprusu"
 description: "## Derecik Köyü Merkez Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.68435,41.00045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derecik Köyü Merkez Köprüsü: Tarihi ve Kültürel Bir Miras

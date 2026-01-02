@@ -1,18 +1,17 @@
 ---
-title: "Amasya Arkeoloji ve Mumya Müzesi | Miras Haritası"
-date: 2025-12-25T03:17:12+03:00
+title: "Amasya Arkeoloji ve Mumya Müzesi"
+date: "2025-12-25T03:17:12+03:00"
 slug: "amasya-arkeoloji-ve-mumya-muzesi"
 description: "## Amasya Arkeoloji ve Mumya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Amasya_Museum_01.jpg/1200px-Amasya_Museum_01.jpg"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.824722222,40.649444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Amasya Arkeoloji ve Mumya Müzesi

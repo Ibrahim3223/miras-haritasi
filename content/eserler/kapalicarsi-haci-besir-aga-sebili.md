@@ -1,18 +1,17 @@
 ---
-title: "Kapalıçarşı Hacı Beşir Ağa Sebili | Miras Haritası"
-date: 2025-12-25T13:03:18+03:00
+title: "Kapalıçarşı Hacı Beşir Ağa Sebili"
+date: "2025-12-25T13:03:18+03:00"
 slug: "kapalicarsi-haci-besir-aga-sebili"
 description: "## Kapalıçarşı Hacı Beşir Ağa Sebili: İstanbul'un Gizli Çağrışım Merkezi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9682541,41.0115547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapalıçarşı Hacı Beşir Ağa Sebili: İstanbul'un Gizli Çağrışım Merkezi

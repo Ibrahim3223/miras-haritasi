@@ -1,18 +1,17 @@
 ---
-title: "Göğyer Höyük | Miras Haritası"
-date: 2025-12-25T06:43:48+03:00
+title: "Göğyer Höyük"
+date: "2025-12-25T06:43:48+03:00"
 slug: "gogyer-hoyuk"
 description: "## Göğyer Höyük: Çiçekdağı'nın Gizli Harikası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2719901,39.6650335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göğyer Höyük: Çiçekdağı'nın Gizli Harikası

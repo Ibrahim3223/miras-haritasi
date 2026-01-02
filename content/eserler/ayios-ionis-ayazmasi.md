@@ -1,18 +1,17 @@
 ---
-title: "Ayios İonis Ayazması | Miras Haritası"
-date: 2025-12-25T12:42:42+03:00
+title: "Ayios İonis Ayazması"
+date: "2025-12-25T12:42:42+03:00"
 slug: "ayios-ionis-ayazmasi"
 description: "**Ayios İonis Ayazması: Üsküdar'daki Eski Çeşme**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0251961,41.0333443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayios İonis Ayazması: Üsküdar'daki Eski Çeşme**

@@ -1,18 +1,17 @@
 ---
-title: "Keçiören Belediyesi Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:19+03:00
+title: "Keçiören Belediyesi Etnografya Müzesi"
+date: "2025-12-25T04:06:19+03:00"
 slug: "kecioren-belediyesi-etnografya-muzesi"
 description: "## Keçiören Belediyesi Etnografya Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.866368971,39.980792631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keçiören Belediyesi Etnografya Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayios Nikitas Ayazması | Miras Haritası"
-date: 2025-12-25T12:44:14+03:00
+title: "Ayios Nikitas Ayazması"
+date: "2025-12-25T12:44:14+03:00"
 slug: "ayios-nikitas-ayazmasi"
 description: "## Ayios Nikitas Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9401588,41.0371132"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Nikitas Ayazması

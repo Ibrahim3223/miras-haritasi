@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:27+03:00
+title: "Sokullu Mehmet Paşa Camii Çeşmesi"
+date: "2025-12-25T11:19:27+03:00"
 slug: "sokullu-mehmet-pasa-camii-cesmesi"
 description: "## Sokullu Mehmet Paşa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sokullu_Mehmet_Paşa_Camii_Çeşmesi.jpg/1200px-Sokullu_Mehmet_Paşa_Camii_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.96797,41.025229"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sokullu Mehmet Paşa Camii Çeşmesi

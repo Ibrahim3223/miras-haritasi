@@ -1,18 +1,17 @@
 ---
-title: "Emirler Camii | Miras Haritası"
-date: 2025-12-24T22:59:44+03:00
+title: "Emirler Camii"
+date: "2025-12-24T22:59:44+03:00"
 slug: "emirler-camii"
 description: "## Emirler Camii: Gümüşhane'nin Tarihî Bir Anıtı..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.4967155,40.4498062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emirler Camii: Gümüşhane'nin Tarihî Bir Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Beşiktaş Müzesi | Miras Haritası"
-date: 2025-12-25T03:21:25+03:00
+title: "Beşiktaş Müzesi"
+date: "2025-12-25T03:21:25+03:00"
 slug: "besiktas-muzesi"
 description: "## Beşiktaş Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşiktaş Müzesi

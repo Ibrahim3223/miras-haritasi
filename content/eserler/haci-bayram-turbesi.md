@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bayram Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:55+03:00
+title: "Hacı Bayram Türbesi"
+date: "2025-12-25T15:05:55+03:00"
 slug: "haci-bayram-turbesi"
 description: "**Hacı Bayram Türbesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ulus-4.jpg/1200px-Ulus-4.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.858,39.94415"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Hacı Bayram Türbesi**

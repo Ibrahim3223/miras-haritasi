@@ -1,18 +1,17 @@
 ---
-title: "Yazıcı Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:36:59+03:00
+title: "Yazıcı Baba Kabri"
+date: "2025-12-25T13:36:59+03:00"
 slug: "yazici-baba-kabri"
 description: "## Yazıcı Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.94569,41.030477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yazıcı Baba Kabri

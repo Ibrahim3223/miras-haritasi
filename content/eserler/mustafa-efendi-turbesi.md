@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:42+03:00
+title: "Mustafa Efendi Türbesi"
+date: "2025-12-25T15:03:42+03:00"
 slug: "mustafa-efendi-turbesi"
 description: "## Mustafa Efendi Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.7800655,38.1947594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Efendi Türbesi

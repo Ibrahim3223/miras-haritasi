@@ -1,18 +1,17 @@
 ---
-title: "100. Yıl Müzesi | Miras Haritası"
-date: 2025-12-25T04:02:51+03:00
+title: "100. Yıl Müzesi"
+date: "2025-12-25T04:02:51+03:00"
 slug: "100-yil-muzesi"
 description: "## 100. Yıl Müzesi: Ankara'nın Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.854214494,39.932097768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 100. Yıl Müzesi: Ankara'nın Kültür Mirası

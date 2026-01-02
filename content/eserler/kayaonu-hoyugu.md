@@ -1,18 +1,17 @@
 ---
-title: "Kayaönü Höyüğü | Miras Haritası"
-date: 2025-12-25T06:05:44+03:00
+title: "Kayaönü Höyüğü"
+date: "2025-12-25T06:05:44+03:00"
 slug: "kayaonu-hoyugu"
 description: "## Kayaönü Höyüğü: Sivas'ın Gizli Anıtı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.2225761,39.6623993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayaönü Höyüğü: Sivas'ın Gizli Anıtı

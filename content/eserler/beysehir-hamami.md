@@ -1,18 +1,17 @@
 ---
-title: "Beyşehir Hamamı | Miras Haritası"
-date: 2025-12-25T16:44:27+03:00
+title: "Beyşehir Hamamı"
+date: "2025-12-25T16:44:27+03:00"
 slug: "beysehir-hamami"
 description: "# Beyşehir Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.7178726,37.6843033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Beyşehir Hamamı

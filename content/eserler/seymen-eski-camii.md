@@ -1,18 +1,17 @@
 ---
-title: "Seymen Eski Camii | Miras Haritası"
-date: 2025-12-25T00:54:28+03:00
+title: "Seymen Eski Camii"
+date: "2025-12-25T00:54:28+03:00"
 slug: "seymen-eski-camii"
 description: "## Seymen Eski Camii: Silivri'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1709156,41.1569443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seymen Eski Camii: Silivri'nin Tarihi Bir Mirası

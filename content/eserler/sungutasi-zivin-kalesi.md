@@ -1,18 +1,17 @@
 ---
-title: "Süngütaşı Zivin Kalesi | Miras Haritası"
-date: 2025-12-25T01:52:14+03:00
+title: "Süngütaşı Zivin Kalesi"
+date: "2025-12-25T01:52:14+03:00"
 slug: "sungutasi-zivin-kalesi"
 description: "### Süngütaşı Zivin Kalesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Sarıkamış"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.2467995,40.2140999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Süngütaşı Zivin Kalesi

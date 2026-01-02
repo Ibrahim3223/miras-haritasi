@@ -1,18 +1,17 @@
 ---
-title: "Telkabin Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:12+03:00
+title: "Telkabin Köprüsü"
+date: "2025-12-25T02:29:12+03:00"
 slug: "telkabin-koprusu"
 description: "## Telkabin Köprüsü: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.1931992,37.3196106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Telkabin Köprüsü: Tarihi ve Kültürel Mirasın Gizemi

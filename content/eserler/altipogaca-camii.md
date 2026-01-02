@@ -1,18 +1,17 @@
 ---
-title: "Altıpoğaça Camii | Miras Haritası"
-date: 2025-12-24T22:45:40+03:00
+title: "Altıpoğaça Camii"
+date: "2025-12-24T22:45:40+03:00"
 slug: "altipogaca-camii"
 description: "## Altıpoğaça Camii: Fatih'in Gizli Çehresi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9527988,41.0236816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altıpoğaça Camii: Fatih'in Gizli Çehresi

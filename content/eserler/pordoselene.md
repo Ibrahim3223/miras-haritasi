@@ -1,18 +1,17 @@
 ---
-title: "Pordoselene | Miras Haritası"
-date: 2025-12-25T04:29:11+03:00
+title: "Pordoselene"
+date: "2025-12-25T04:29:11+03:00"
 slug: "pordoselene"
 description: "## Pordoselene: Balıkesir'in Gizli Tarihi Şehri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.654808,39.336684"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pordoselene: Balıkesir'in Gizli Tarihi Şehri

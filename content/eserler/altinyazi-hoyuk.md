@@ -1,18 +1,17 @@
 ---
-title: "Altınyazı Höyük | Miras Haritası"
-date: 2025-12-25T06:33:39+03:00
+title: "Altınyazı Höyük"
+date: "2025-12-25T06:33:39+03:00"
 slug: "altinyazi-hoyuk"
 description: "**Altınyazı Höyük**..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4248422,38.9968885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Altınyazı Höyük**

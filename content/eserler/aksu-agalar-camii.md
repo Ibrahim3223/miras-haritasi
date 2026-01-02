@@ -1,18 +1,17 @@
 ---
-title: "Aksu Ağalar Camii | Miras Haritası"
-date: 2025-12-24T22:58:59+03:00
+title: "Aksu Ağalar Camii"
+date: "2025-12-24T22:58:59+03:00"
 slug: "aksu-agalar-camii"
 description: "## Aksu Ağalar Camii: Antalya'nın Tarihi bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Aksu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.8508186,36.9749489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aksu Ağalar Camii: Antalya'nın Tarihi bir Mirası

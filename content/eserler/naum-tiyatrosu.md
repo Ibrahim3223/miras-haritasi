@@ -1,18 +1,17 @@
 ---
-title: "Naum Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:17:00+03:00
+title: "Naum Tiyatrosu"
+date: "2025-12-25T16:17:00+03:00"
 slug: "naum-tiyatrosu"
 description: "# Naum Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Naum_Tiyatrosu.jpg/1200px-Naum_Tiyatrosu.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.978083333,41.033972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Naum Tiyatrosu

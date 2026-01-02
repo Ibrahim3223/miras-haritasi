@@ -1,18 +1,17 @@
 ---
-title: "Myra Kaya Mezarları | Miras Haritası"
-date: 2025-12-25T05:38:55+03:00
+title: "Myra Kaya Mezarları"
+date: "2025-12-25T05:38:55+03:00"
 slug: "myra-kaya-mezarlari"
 description: "## Myra Kaya Mezarları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Myra_Nekropolisi.jpg/1200px-Myra_Nekropolisi.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9842377,36.2586899"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Myra Kaya Mezarları

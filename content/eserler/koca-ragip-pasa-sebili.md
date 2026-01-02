@@ -1,18 +1,17 @@
 ---
-title: "Koca Ragıp Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:07:10+03:00
+title: "Koca Ragıp Paşa Sebili"
+date: "2025-12-25T13:07:10+03:00"
 slug: "koca-ragip-pasa-sebili"
 description: "## Koca Ragıp Paşa Sebili: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.958669,41.009389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Ragıp Paşa Sebili: İstanbul'un Tarihi ve Kültürel Mirası

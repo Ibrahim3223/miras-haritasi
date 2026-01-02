@@ -1,18 +1,17 @@
 ---
-title: "Bedrettin Camii | Miras Haritası"
-date: 2025-12-24T22:22:24+03:00
+title: "Bedrettin Camii"
+date: "2025-12-24T22:22:24+03:00"
 slug: "bedrettin-camii"
 description: "## Bedrettin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bedrettin_Camii_05.jpg/1200px-Bedrettin_Camii_05.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.970202826,41.02901915"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bedrettin Camii

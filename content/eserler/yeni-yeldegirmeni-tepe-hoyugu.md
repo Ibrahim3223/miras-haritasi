@@ -1,18 +1,17 @@
 ---
-title: "Yeni Yeldeğirmeni Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:04:08+03:00
+title: "Yeni Yeldeğirmeni Tepe Höyüğü"
+date: "2025-12-25T07:04:08+03:00"
 slug: "yeni-yeldegirmeni-tepe-hoyugu"
 description: "### Yeni Yeldeğirmeni Tepe Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeni Yeldeğirmeni Tepe Höyüğü

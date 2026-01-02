@@ -1,18 +1,17 @@
 ---
-title: "Lazarist Sacre Coeur Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:58+03:00
+title: "Lazarist Sacre Coeur Kilisesi"
+date: "2025-12-25T09:23:58+03:00"
 slug: "lazarist-sacre-coeur-kilisesi"
 description: "## Lazarist Sacre Coeur Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0413227,41.0767403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lazarist Sacre Coeur Kilisesi

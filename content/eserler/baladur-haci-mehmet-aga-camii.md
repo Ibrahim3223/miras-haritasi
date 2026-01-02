@@ -1,18 +1,17 @@
 ---
-title: "Baladur Hacı Mehmet Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:11:52+03:00
+title: "Baladur Hacı Mehmet Ağa Camii"
+date: "2025-12-24T22:11:52+03:00"
 slug: "baladur-haci-mehmet-aga-camii"
 description: "### Baladur Hacı Mehmet Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1393375,38.4142189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Baladur Hacı Mehmet Ağa Camii

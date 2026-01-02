@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Sarayı Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:18:37+03:00
+title: "Yıldız Sarayı Tiyatrosu"
+date: "2025-12-25T16:18:37+03:00"
 slug: "yildiz-sarayi-tiyatrosu"
 description: "## Yıldız Sarayı Tiyatrosu: İstanbul'un En Efsanevi Tiyatro Adası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "29.011936578,41.051353187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldız Sarayı Tiyatrosu: İstanbul'un En Efsanevi Tiyatro Adası

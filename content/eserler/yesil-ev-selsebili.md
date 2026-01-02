@@ -1,18 +1,17 @@
 ---
-title: "Yeşil Ev Selsebili | Miras Haritası"
-date: 2025-12-25T13:06:04+03:00
+title: "Yeşil Ev Selsebili"
+date: "2025-12-25T13:06:04+03:00"
 slug: "yesil-ev-selsebili"
 description: "### Yeşil Ev Selsebili: Fatih'te Bir Çeşme Eseri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979187,41.006374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeşil Ev Selsebili: Fatih'te Bir Çeşme Eseri

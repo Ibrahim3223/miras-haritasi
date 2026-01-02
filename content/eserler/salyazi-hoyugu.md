@@ -1,18 +1,17 @@
 ---
-title: "Salyazı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:46:26+03:00
+title: "Salyazı Höyüğü"
+date: "2025-12-25T06:46:26+03:00"
 slug: "salyazi-hoyugu"
 description: "### Salyazı Höyüğü: Gümüşhane'de Geçmişin İzleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Köse"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.8164921,40.2517646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Salyazı Höyüğü: Gümüşhane'de Geçmişin İzleri

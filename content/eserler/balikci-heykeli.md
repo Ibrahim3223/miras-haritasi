@@ -1,18 +1,17 @@
 ---
-title: "Balıkçı Heykeli | Miras Haritası"
-date: 2025-12-25T16:09:52+03:00
+title: "Balıkçı Heykeli"
+date: "2025-12-25T16:09:52+03:00"
 slug: "balikci-heykeli"
 description: "### Balıkçı Heykeli: Kadıköy'ün İhtişamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0209064,40.9907646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balıkçı Heykeli: Kadıköy'ün İhtişamı

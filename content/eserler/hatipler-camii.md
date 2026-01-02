@@ -1,18 +1,17 @@
 ---
-title: "Hatipler Camii | Miras Haritası"
-date: 2025-12-25T00:06:27+03:00
+title: "Hatipler Camii"
+date: "2025-12-25T00:06:27+03:00"
 slug: "hatipler-camii"
 description: "**Hatipler Camii: Çankırı'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.1030312,40.6699104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hatipler Camii: Çankırı'nın Gizli Cenneti**

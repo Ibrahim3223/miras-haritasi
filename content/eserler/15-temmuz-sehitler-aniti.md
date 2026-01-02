@@ -1,18 +1,17 @@
 ---
-title: "15 Temmuz Şehitler Anıtı | Miras Haritası"
-date: 2025-12-25T15:45:44+03:00
+title: "15 Temmuz Şehitler Anıtı"
+date: "2025-12-25T15:45:44+03:00"
 slug: "15-temmuz-sehitler-aniti"
 description: "## 15 Temmuz Şehitler Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0986156,41.2076149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 15 Temmuz Şehitler Anıtı

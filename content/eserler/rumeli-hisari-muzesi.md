@@ -1,18 +1,17 @@
 ---
-title: "Rumeli Hisarı Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:33+03:00
+title: "Rumeli Hisarı Müzesi"
+date: "2025-12-25T03:52:33+03:00"
 slug: "rumeli-hisari-muzesi"
 description: "## Rumeli Hisarı Müzesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0566616,41.085125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rumeli Hisarı Müzesi: İstanbul'un Gizli Cenneti

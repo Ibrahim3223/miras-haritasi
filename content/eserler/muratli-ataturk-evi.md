@@ -1,18 +1,17 @@
 ---
-title: "Muratlı Atatürk Evi | Miras Haritası"
-date: 2025-12-25T03:33:58+03:00
+title: "Muratlı Atatürk Evi"
+date: "2025-12-25T03:33:58+03:00"
 slug: "muratli-ataturk-evi"
 description: "## Muratlı Atatürk Evi Müzesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Muratlı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muratlı Atatürk Evi Müzesi

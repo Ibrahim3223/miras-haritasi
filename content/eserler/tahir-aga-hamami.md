@@ -1,18 +1,17 @@
 ---
-title: "Tahir Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:09+03:00
+title: "Tahir Ağa Hamamı"
+date: "2025-12-25T17:09:09+03:00"
 slug: "tahir-aga-hamami"
 description: "## Tahir Ağa Hamamı: Mudanya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mudanya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.8842468,40.3770676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahir Ağa Hamamı: Mudanya'nın Tarihî Bir Mirası

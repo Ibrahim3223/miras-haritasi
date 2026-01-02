@@ -1,18 +1,18 @@
 ---
-title: "Eskişehir Surp Yerrortutyun Kilisesi | Miras Haritası"
-date: 2025-12-25T08:52:59+03:00
+title: "Eskişehir Surp Yerrortutyun Kilisesi"
+date: "2025-12-25T08:52:59+03:00"
 slug: "eskisehir-surp-yerrortutyun-kilisesi"
 description: "**Eskişehir Surp Yerrortutyun Kilisesi**..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Heilige-Dreieinigkeits-Kirche;_Sivrihisar,_Eskişehir;_01.jpg/1200px-Heilige-Dreieinigkeits-Kirche;_Sivrihisar,_Eskişehir;_01.jpg"
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Eskişehir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.5191,39.7771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Heilige-Dreieinigkeits-Kirche;_Sivrihisar,_Eskişehir;_01.jpg/1200px-Heilige-Dreieinigkeits-Kirche;_Sivrihisar,_Eskişehir;_01.jpg"
 ---
 
 **Eskişehir Surp Yerrortutyun Kilisesi**

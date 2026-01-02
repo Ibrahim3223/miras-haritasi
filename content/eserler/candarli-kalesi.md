@@ -1,18 +1,17 @@
 ---
-title: "Çandarlı Kalesi | Miras Haritası"
-date: 2025-12-25T01:17:12+03:00
+title: "Çandarlı Kalesi"
+date: "2025-12-25T01:17:12+03:00"
 slug: "candarli-kalesi"
 description: "## Çandarlı Kalesi: Dikili'nin Tarihi Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Çandarlı_Castle_09.jpg/1200px-Çandarlı_Castle_09.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.933694444,38.933805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çandarlı Kalesi: Dikili'nin Tarihi Öreni

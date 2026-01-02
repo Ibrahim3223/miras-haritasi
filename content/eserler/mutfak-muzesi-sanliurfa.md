@@ -1,18 +1,17 @@
 ---
-title: "Mutfak Müzesi, Şanlıurfa | Miras Haritası"
-date: 2025-12-25T03:59:34+03:00
+title: "Mutfak Müzesi, Şanlıurfa"
+date: "2025-12-25T03:59:34+03:00"
 slug: "mutfak-muzesi-sanliurfa"
 description: "## Mutfak Müzesi, Şanlıurfa..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.789568,37.150738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mutfak Müzesi, Şanlıurfa

@@ -1,18 +1,17 @@
 ---
-title: "Panagia Kursunniatissa Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:31+03:00
+title: "Panagia Kursunniatissa Manastırı"
+date: "2025-12-25T09:52:31+03:00"
 slug: "panagia-kursunniatissa-manastiri"
 description: "## Panagia Kursunniatissa Manastırı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "27.283205,37.7051201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panagia Kursunniatissa Manastırı

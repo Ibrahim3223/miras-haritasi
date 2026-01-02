@@ -1,18 +1,17 @@
 ---
-title: "Tatar Camii (Turgutlu) | Miras Haritası"
-date: 2025-12-24T23:19:38+03:00
+title: "Tatar Camii (Turgutlu)"
+date: "2025-12-24T23:19:38+03:00"
 slug: "tatar-camii-turgutlu"
 description: "## Tatar Camii: Turgutlu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7116909,38.5054436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatar Camii: Turgutlu'nun Tarihi Bir Mirası

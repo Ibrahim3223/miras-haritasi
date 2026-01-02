@@ -1,18 +1,17 @@
 ---
-title: "Güzelce Hasan Bey Hamamı, Hayrabolu | Miras Haritası"
-date: 2025-12-25T17:11:45+03:00
+title: "Güzelce Hasan Bey Hamamı, Hayrabolu"
+date: "2025-12-25T17:11:45+03:00"
 slug: "guzelce-hasan-bey-hamami-hayrabolu"
 description: "## Güzelce Hasan Bey Hamamı: Hayrabolu'nun Yüzyıllar Öncesi Tarihsel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Hayrabolu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1064682,41.2142677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzelce Hasan Bey Hamamı: Hayrabolu'nun Yüzyıllar Öncesi Tarihsel Mirası

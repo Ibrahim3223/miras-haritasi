@@ -1,18 +1,17 @@
 ---
-title: "Oluklu Pınar Çeşmesi, Orta | Miras Haritası"
-date: 2025-12-25T12:30:57+03:00
+title: "Oluklu Pınar Çeşmesi, Orta"
+date: "2025-12-25T12:30:57+03:00"
 slug: "oluklu-pinar-cesmesi-orta"
 description: "## Oluklu Pınar Çeşmesi: Orta, Çankırı'daki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.1729887,40.67874416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oluklu Pınar Çeşmesi: Orta, Çankırı'daki Bir Tarihi Çeşme

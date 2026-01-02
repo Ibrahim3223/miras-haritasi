@@ -1,18 +1,17 @@
 ---
-title: "Gelezo Kilisesi | Miras Haritası"
-date: 2025-12-25T09:11:07+03:00
+title: "Gelezo Kilisesi"
+date: "2025-12-25T09:11:07+03:00"
 slug: "gelezo-kilisesi"
 description: "## Gelezo Kilisesi: Hakkâri'nin Gizemli Kilisesi..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Hakkâri"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.9495392,37.5568962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gelezo Kilisesi: Hakkâri'nin Gizemli Kilisesi

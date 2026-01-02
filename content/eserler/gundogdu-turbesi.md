@@ -1,18 +1,17 @@
 ---
-title: "Gündoğdu Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:19+03:00
+title: "Gündoğdu Türbesi"
+date: "2025-12-25T14:25:19+03:00"
 slug: "gundogdu-turbesi"
 description: "## Gündoğdu Türbesi: Niğde'nin Gizli Şehri..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6757431,37.9720459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gündoğdu Türbesi: Niğde'nin Gizli Şehri

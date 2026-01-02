@@ -1,18 +1,17 @@
 ---
-title: "Karanlık Köprü | Miras Haritası"
-date: 2025-12-25T02:42:54+03:00
+title: "Karanlık Köprü"
+date: "2025-12-25T02:42:54+03:00"
 slug: "karanlik-kopru"
 description: "### Karanlık Köprü: Aydın'ın Efsanevi Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.8454819,37.8514519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karanlık Köprü: Aydın'ın Efsanevi Köprüsü

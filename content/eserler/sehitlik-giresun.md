@@ -1,18 +1,17 @@
 ---
-title: "Şehitlik, Giresun | Miras Haritası"
-date: 2025-12-25T15:59:39+03:00
+title: "Şehitlik, Giresun"
+date: "2025-12-25T15:59:39+03:00"
 slug: "sehitlik-giresun"
 description: "## Şehitlik, Giresun..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.390586,40.922403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehitlik, Giresun

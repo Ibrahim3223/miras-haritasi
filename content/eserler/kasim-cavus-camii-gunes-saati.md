@@ -1,18 +1,17 @@
 ---
-title: "Kasım Çavuş Camii Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:41:08+03:00
+title: "Kasım Çavuş Camii Güneş Saati"
+date: "2025-12-25T13:41:08+03:00"
 slug: "kasim-cavus-camii-gunes-saati"
 description: "### Kasım Çavuş Camii Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9297695,41.050312"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kasım Çavuş Camii Güneş Saati

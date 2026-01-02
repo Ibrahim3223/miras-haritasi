@@ -1,18 +1,17 @@
 ---
-title: "Kışyolu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:22:45+03:00
+title: "Kışyolu Tümülüsü"
+date: "2025-12-25T07:22:45+03:00"
 slug: "kisyolu-tumulusu"
 description: "## Kışyolu Tümülüsü: Akçadağ'da Gizemli Bir Geçmiş..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0880966,38.3857613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kışyolu Tümülüsü: Akçadağ'da Gizemli Bir Geçmiş

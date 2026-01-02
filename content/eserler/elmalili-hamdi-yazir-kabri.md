@@ -1,18 +1,17 @@
 ---
-title: "Elmalılı Hamdi Yazır Kabri | Miras Haritası"
-date: 2025-12-25T13:25:29+03:00
+title: "Elmalılı Hamdi Yazır Kabri"
+date: "2025-12-25T13:25:29+03:00"
 slug: "elmalili-hamdi-yazir-kabri"
 description: "## Elmalılı Hamdi Yazır Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0769939,40.984127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elmalılı Hamdi Yazır Kabri

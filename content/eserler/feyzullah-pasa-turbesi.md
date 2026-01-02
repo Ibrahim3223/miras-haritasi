@@ -1,18 +1,17 @@
 ---
-title: "Feyzullah Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:34:29+03:00
+title: "Feyzullah Paşa Türbesi"
+date: "2025-12-25T15:34:29+03:00"
 slug: "feyzullah-pasa-turbesi"
 description: "### Feyzullah Paşa Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.563890047,41.669620992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Feyzullah Paşa Türbesi

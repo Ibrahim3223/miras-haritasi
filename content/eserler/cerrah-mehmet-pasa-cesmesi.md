@@ -1,18 +1,17 @@
 ---
-title: "Cerrah Mehmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:24+03:00
+title: "Cerrah Mehmet Paşa Çeşmesi"
+date: "2025-12-25T10:34:24+03:00"
 slug: "cerrah-mehmet-pasa-cesmesi"
 description: "## Cerrah Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.944483,41.007769"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cerrah Mehmet Paşa Çeşmesi

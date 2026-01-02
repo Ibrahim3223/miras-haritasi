@@ -1,18 +1,17 @@
 ---
-title: "Taşhelvası III Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:42+03:00
+title: "Taşhelvası III Köprüsü"
+date: "2025-12-25T02:30:42+03:00"
 slug: "tashelvasi-iii-koprusu"
 description: "## Taşhelvası III Köprüsü - Diyarbakır'ın Tarihi Bir Çığır..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.3060875,37.7656708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşhelvası III Köprüsü - Diyarbakır'ın Tarihi Bir Çığır

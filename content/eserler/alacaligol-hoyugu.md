@@ -1,18 +1,17 @@
 ---
-title: "Alacalıgöl Höyüğü | Miras Haritası"
-date: 2025-12-25T06:13:37+03:00
+title: "Alacalıgöl Höyüğü"
+date: "2025-12-25T06:13:37+03:00"
 slug: "alacaligol-hoyugu"
 description: "**Alacalıgöl Höyüğü: Çanakkale'nin Gizli Kahramanı**..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.1762123,39.9569855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Alacalıgöl Höyüğü: Çanakkale'nin Gizli Kahramanı**

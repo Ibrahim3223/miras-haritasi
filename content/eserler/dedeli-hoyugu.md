@@ -1,18 +1,17 @@
 ---
-title: "Dedeli Höyüğü | Miras Haritası"
-date: 2025-12-25T06:12:04+03:00
+title: "Dedeli Höyüğü"
+date: "2025-12-25T06:12:04+03:00"
 slug: "dedeli-hoyugu"
 description: "## Dedeli Höyüğü: Çumra'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.79736,37.63862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedeli Höyüğü: Çumra'nın Gizli Tarihi

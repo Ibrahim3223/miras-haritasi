@@ -1,18 +1,17 @@
 ---
-title: "Bulaylı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:32:22+03:00
+title: "Bulaylı Çeşmesi"
+date: "2025-12-25T10:32:22+03:00"
 slug: "bulayli-cesmesi"
 description: "## Bulaylı Çeşmesi: Aydın'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4484005,37.6077003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bulaylı Çeşmesi: Aydın'da Bir Tarihî Çeşme

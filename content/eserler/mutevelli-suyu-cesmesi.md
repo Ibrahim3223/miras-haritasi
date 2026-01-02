@@ -1,18 +1,17 @@
 ---
-title: "Mütevelli Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:32+03:00
+title: "Mütevelli Suyu Çeşmesi"
+date: "2025-12-25T11:22:32+03:00"
 slug: "mutevelli-suyu-cesmesi"
 description: "## Mütevelli Suyu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çekmeköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.236252,41.049461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mütevelli Suyu Çeşmesi

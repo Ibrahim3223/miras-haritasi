@@ -1,18 +1,17 @@
 ---
-title: "Güneyköy Camii | Miras Haritası"
-date: 2025-12-24T23:26:28+03:00
+title: "Güneyköy Camii"
+date: "2025-12-24T23:26:28+03:00"
 slug: "guneykoy-camii"
 description: "## Güneyköy Camii: Giresun'un Gizli Çehresi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Giresun"
+province: "Giresun"
+iller: '["Giresun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.469896,40.891465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güneyköy Camii: Giresun'un Gizli Çehresi

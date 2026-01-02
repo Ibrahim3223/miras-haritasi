@@ -1,18 +1,17 @@
 ---
-title: "Aurokra | Miras Haritası"
-date: 2025-12-25T04:59:20+03:00
+title: "Aurokra"
+date: "2025-12-25T04:59:20+03:00"
 slug: "aurokra"
 description: "## Aurokra Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.19882,38.531995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aurokra Arkeolojik Sit

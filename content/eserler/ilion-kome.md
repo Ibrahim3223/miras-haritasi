@@ -1,18 +1,17 @@
 ---
-title: "İlion Kome | Miras Haritası"
-date: 2025-12-25T04:59:33+03:00
+title: "İlion Kome"
+date: "2025-12-25T04:59:33+03:00"
 slug: "ilion-kome"
 description: "## İlion Kome: Antik Yunanistan'ın Gizli Şehri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.343922,39.949075"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlion Kome: Antik Yunanistan'ın Gizli Şehri

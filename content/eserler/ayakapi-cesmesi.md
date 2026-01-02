@@ -1,18 +1,17 @@
 ---
-title: "Ayakapı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:32:40+03:00
+title: "Ayakapı Çeşmesi"
+date: "2025-12-25T10:32:40+03:00"
 slug: "ayakapi-cesmesi"
 description: "### Ayakapı Çeşmesi: Yavuz Sultan Selim'in Görsel Harikası..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.955315,41.0280585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayakapı Çeşmesi: Yavuz Sultan Selim'in Görsel Harikası

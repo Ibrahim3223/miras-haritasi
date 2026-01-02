@@ -1,18 +1,17 @@
 ---
-title: "Kağızman Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:03:12+03:00
+title: "Kağızman Merkez Camii"
+date: "2025-12-24T22:03:12+03:00"
 slug: "kagizman-merkez-camii"
 description: "## Kağızman Merkez Camii: Tarihî Bir Mirasın Anlamı..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kağızman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.1225,40.142139"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kağızman Merkez Camii: Tarihî Bir Mirasın Anlamı

@@ -1,18 +1,17 @@
 ---
-title: "Tarabya Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:47+03:00
+title: "Tarabya Camii Çeşmesi"
+date: "2025-12-25T11:19:47+03:00"
 slug: "tarabya-camii-cesmesi"
 description: "## Tarabya Camii Çeşmesi: Sarıyer'in Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.053266,41.138125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarabya Camii Çeşmesi: Sarıyer'in Tarihî Mirası

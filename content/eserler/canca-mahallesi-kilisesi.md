@@ -1,18 +1,17 @@
 ---
-title: "Canca Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:14:45+03:00
+title: "Canca Mahallesi Kilisesi"
+date: "2025-12-25T09:14:45+03:00"
 slug: "canca-mahallesi-kilisesi"
 description: "# Canca Mahallesi Kilisesi: Tarihi ve Kültürel Değerleri..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.431634,40.459492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Canca Mahallesi Kilisesi: Tarihi ve Kültürel Değerleri

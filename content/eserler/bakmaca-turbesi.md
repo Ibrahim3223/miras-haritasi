@@ -1,18 +1,17 @@
 ---
-title: "Bakmaca Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:40+03:00
+title: "Bakmaca Türbesi"
+date: "2025-12-25T14:52:40+03:00"
 slug: "bakmaca-turbesi"
 description: "## Bakmaca Türbesi: İnegöl'de Gizli Bir Anıt..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.682394,40.0131454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakmaca Türbesi: İnegöl'de Gizli Bir Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Seferihisar Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:05:57+03:00
+title: "Seferihisar Ulu Cami"
+date: "2025-12-24T23:05:57+03:00"
 slug: "seferihisar-ulu-cami"
 description: "## Seferihisar Ulu Cami: İzmir'in Tarihi Bir Çaprazı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8374004,38.1964989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seferihisar Ulu Cami: İzmir'in Tarihi Bir Çaprazı

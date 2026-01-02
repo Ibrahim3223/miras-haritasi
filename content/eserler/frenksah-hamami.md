@@ -1,18 +1,17 @@
 ---
-title: "Frenkşah Hamamı | Miras Haritası"
-date: 2025-12-25T16:36:26+03:00
+title: "Frenkşah Hamamı"
+date: "2025-12-25T16:36:26+03:00"
 slug: "frenksah-hamami"
 description: "## Frenkşah Hamamı: Kastamonu'nun Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.7747345,41.3779945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Frenkşah Hamamı: Kastamonu'nun Tarihî Bir Mirası

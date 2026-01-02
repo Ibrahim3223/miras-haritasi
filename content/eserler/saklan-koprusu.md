@@ -1,18 +1,17 @@
 ---
-title: "Saklan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:43+03:00
+title: "Saklan Köprüsü"
+date: "2025-12-25T02:31:43+03:00"
 slug: "saklan-koprusu"
 description: "## Saklan Köprüsü: Tarihi ve Kültürel Mirasın Bir ParçASI..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.1871262,37.3013573"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saklan Köprüsü: Tarihi ve Kültürel Mirasın Bir ParçASI

@@ -1,18 +1,17 @@
 ---
-title: "Pir Sücaaddin İlyas Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:34+03:00
+title: "Pir Sücaaddin İlyas Türbesi"
+date: "2025-12-25T14:34:34+03:00"
 slug: "pir-sucaaddin-ilyas-turbesi"
 description: "## Pir Sücaaddin İlyas Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8381681,40.653542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pir Sücaaddin İlyas Türbesi

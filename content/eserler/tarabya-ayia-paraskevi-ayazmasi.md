@@ -1,18 +1,17 @@
 ---
-title: "Tarabya Ayia Paraskevi Ayazması | Miras Haritası"
-date: 2025-12-25T12:43:52+03:00
+title: "Tarabya Ayia Paraskevi Ayazması"
+date: "2025-12-25T12:43:52+03:00"
 slug: "tarabya-ayia-paraskevi-ayazmasi"
 description: "### Tarabya Ayia Paraskevi Ayazması: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0566998,41.1366997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tarabya Ayia Paraskevi Ayazması: İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Kavak İskele Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:39+03:00
+title: "Kavak İskele Caddesi Çeşmesi"
+date: "2025-12-25T11:22:39+03:00"
 slug: "kavak-iskele-caddesi-cesmesi"
 description: "### Kavak İskele Caddesi Çeşmesi: Sarıyer'in İhtişamlı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0739098,41.1811256"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kavak İskele Caddesi Çeşmesi: Sarıyer'in İhtişamlı Çeşmesi

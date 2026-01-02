@@ -1,18 +1,17 @@
 ---
-title: "Alikinos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:09:00+03:00
+title: "Alikinos Kilisesi"
+date: "2025-12-25T09:09:00+03:00"
 slug: "alikinos-kilisesi"
 description: "## Alikinos Kilisesi..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.593602,40.557864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alikinos Kilisesi

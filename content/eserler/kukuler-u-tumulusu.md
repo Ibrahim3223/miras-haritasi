@@ -1,18 +1,17 @@
 ---
-title: "Küküler U Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:23+03:00
+title: "Küküler U Tümülüsü"
+date: "2025-12-25T08:03:23+03:00"
 slug: "kukuler-u-tumulusu"
 description: "## Küküler U Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8996315,41.7042503"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küküler U Tümülüsü: Edirne'nin Gizli Mirası

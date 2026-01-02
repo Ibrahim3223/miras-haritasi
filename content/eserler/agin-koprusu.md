@@ -1,18 +1,17 @@
 ---
-title: "Ağın Köprüsü | Miras Haritası"
-date: 2025-12-25T01:53:35+03:00
+title: "Ağın Köprüsü"
+date: "2025-12-25T01:53:35+03:00"
 slug: "agin-koprusu"
 description: "### Ağın Köprüsü: Ağın, Elazığ'da Bir Geçit Yaşıyor..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Ağın"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.66283,38.91526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağın Köprüsü: Ağın, Elazığ'da Bir Geçit Yaşıyor

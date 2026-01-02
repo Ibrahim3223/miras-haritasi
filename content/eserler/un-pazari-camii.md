@@ -1,18 +1,17 @@
 ---
-title: "Un Pazarı Camii | Miras Haritası"
-date: 2025-12-24T23:17:29+03:00
+title: "Un Pazarı Camii"
+date: "2025-12-24T23:17:29+03:00"
 slug: "un-pazari-camii"
 description: "## Un Pazarı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0847836,37.7863121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Un Pazarı Camii

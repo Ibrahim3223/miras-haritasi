@@ -1,18 +1,17 @@
 ---
-title: "Ak Çeşme | Miras Haritası"
-date: 2025-12-25T10:46:15+03:00
+title: "Ak Çeşme"
+date: "2025-12-25T10:46:15+03:00"
 slug: "ak-cesme"
 description: "## Ak Çeşme: Sivrihisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.5344105,39.4490891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ak Çeşme: Sivrihisar'ın Tarihi ve Kültürel Mirası

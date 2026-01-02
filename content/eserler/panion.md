@@ -1,18 +1,17 @@
 ---
-title: "Panion | Miras Haritası"
-date: 2025-12-25T04:43:13+03:00
+title: "Panion"
+date: "2025-12-25T04:43:13+03:00"
 slug: "panion"
 description: "## Panion Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.466995,40.907132"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panion Arkeolojik Sit

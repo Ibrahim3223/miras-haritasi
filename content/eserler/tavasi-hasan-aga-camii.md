@@ -1,18 +1,17 @@
 ---
-title: "Tavaşi Hasan Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:49:13+03:00
+title: "Tavaşi Hasan Ağa Camii"
+date: "2025-12-24T21:49:13+03:00"
 slug: "tavasi-hasan-aga-camii"
 description: "### Tavaşi Hasan Ağa Camii: Üsküdar'ın Gizli İncisi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Ahmediye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.017527777,41.017916666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tavaşi Hasan Ağa Camii: Üsküdar'ın Gizli İncisi

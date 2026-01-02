@@ -1,18 +1,17 @@
 ---
-title: "Savranzade Camii | Miras Haritası"
-date: 2025-12-24T22:43:35+03:00
+title: "Savranzade Camii"
+date: "2025-12-24T22:43:35+03:00"
 slug: "savranzade-camii"
 description: "# Savranzade Camii: Denizli'nin Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.3999615,38.0808449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Savranzade Camii: Denizli'nin Gizli Cenneti

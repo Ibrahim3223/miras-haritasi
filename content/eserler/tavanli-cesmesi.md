@@ -1,18 +1,17 @@
 ---
-title: "Tavanlı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:38+03:00
+title: "Tavanlı Çeşmesi"
+date: "2025-12-25T10:54:38+03:00"
 slug: "tavanli-cesmesi"
 description: "## Tavanlı Çeşmesi: Ortacami'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Süleymanpaşa"
-iller: ["Süleymanpaşa"]
+iller: '["Süleymanpaşa"]'
 district: "Ortacami"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5166759,40.9823151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavanlı Çeşmesi: Ortacami'nin Tarihi Bir Çeşmesi

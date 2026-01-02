@@ -1,18 +1,17 @@
 ---
-title: "Aslanlı Kışla Camii | Miras Haritası"
-date: 2025-12-24T22:15:24+03:00
+title: "Aslanlı Kışla Camii"
+date: "2025-12-24T22:15:24+03:00"
 slug: "aslanli-kisla-camii"
 description: "### Aslanlı Kışla Camii: Konya'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5150566,37.8676872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aslanlı Kışla Camii: Konya'nın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Arastası Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:11:25+03:00
+title: "Sultan Ahmet Arastası Duvar Çeşmesi"
+date: "2025-12-25T11:11:25+03:00"
 slug: "sultan-ahmet-arastasi-duvar-cesmesi"
 description: "## Sultan Ahmet Arastası Duvar Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.977984,41.00566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Ahmet Arastası Duvar Çeşmesi

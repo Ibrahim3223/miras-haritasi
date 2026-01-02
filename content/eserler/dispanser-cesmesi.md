@@ -1,18 +1,17 @@
 ---
-title: "Dispanser Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:30:13+03:00
+title: "Dispanser Çeşmesi"
+date: "2025-12-25T12:30:13+03:00"
 slug: "dispanser-cesmesi"
 description: "## Dispanser Çeşmesi: Ayaş'taki Bir Kültür Mirası..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
+iller: '["Ankara Vilayeti"]'
 district: "Ayaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.331719302,40.015687694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dispanser Çeşmesi: Ayaş'taki Bir Kültür Mirası

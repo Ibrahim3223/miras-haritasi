@@ -1,18 +1,17 @@
 ---
-title: "Poyrazköy Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:00+03:00
+title: "Poyrazköy Kalesi"
+date: "2025-12-25T01:40:00+03:00"
 slug: "poyrazkoy-kalesi"
 description: "### Poyrazköy Kalesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.130701,41.2081472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Poyrazköy Kalesi

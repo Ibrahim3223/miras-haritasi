@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:40:31+03:00
+title: "Akpınar Çeşmesi"
+date: "2025-12-25T11:40:31+03:00"
 slug: "akpinar-cesmesi"
 description: "**Akpınar Çeşmesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.282795,39.908947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akpınar Çeşmesi**

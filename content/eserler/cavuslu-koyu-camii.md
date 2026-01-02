@@ -1,18 +1,17 @@
 ---
-title: "Çavuşlu Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:30:44+03:00
+title: "Çavuşlu Köyü Camii"
+date: "2025-12-24T22:30:44+03:00"
 slug: "cavuslu-koyu-camii"
 description: "## Çavuşlu Köyü Camii: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7005005,41.4392014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuşlu Köyü Camii: Artvin'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Pizan Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:17+03:00
+title: "Pizan Kalesi"
+date: "2025-12-25T01:34:17+03:00"
 slug: "pizan-kalesi"
 description: "## Pizan Kalesi: Başkale'nin Gizemli Kaleleri..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Başkale"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.949346,37.952116"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pizan Kalesi: Başkale'nin Gizemli Kaleleri

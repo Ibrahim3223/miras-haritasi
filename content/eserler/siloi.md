@@ -1,18 +1,17 @@
 ---
-title: "Siloi | Miras Haritası"
-date: 2025-12-25T04:58:09+03:00
+title: "Siloi"
+date: "2025-12-25T04:58:09+03:00"
 slug: "siloi"
 description: "## Siloi: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siloi: Tarihî Bir Arkeolojik Sit

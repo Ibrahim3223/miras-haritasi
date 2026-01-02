@@ -1,18 +1,17 @@
 ---
-title: "Çeştepe Fener Kulesi | Miras Haritası"
-date: 2025-12-25T06:03:15+03:00
+title: "Çeştepe Fener Kulesi"
+date: "2025-12-25T06:03:15+03:00"
 slug: "cestepe-fener-kulesi"
 description: "## Çeştepe Fener Kulesi..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Karadeniz Ereğli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.3966866,41.2964973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeştepe Fener Kulesi

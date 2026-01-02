@@ -1,18 +1,17 @@
 ---
-title: "Bayezid-i Cedid Camii | Miras Haritası"
-date: 2025-12-24T22:16:26+03:00
+title: "Bayezid-i Cedid Camii"
+date: "2025-12-24T22:16:26+03:00"
 slug: "bayezid-i-cedid-camii"
 description: "## Bayezid-i Cedid Camii: Beyoğlu'nun Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Beyoğlu_Bayezid-i_Cedid_Camii.jpg/1200px-Beyoğlu_Bayezid-i_Cedid_Camii.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Hacımimi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.979418007,41.025852397"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bayezid-i Cedid Camii: Beyoğlu'nun Gizli Cenneti

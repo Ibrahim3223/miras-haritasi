@@ -1,18 +1,17 @@
 ---
-title: "Gümüşova Tepe II | Miras Haritası"
-date: 2025-12-25T05:49:32+03:00
+title: "Gümüşova Tepe II"
+date: "2025-12-25T05:49:32+03:00"
 slug: "gumusova-tepe-ii"
 description: "## Gümüşova Tepe II: Bergama'nın Gizli Mimari Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2459,39.064167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüşova Tepe II: Bergama'nın Gizli Mimari Harikası

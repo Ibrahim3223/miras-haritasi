@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Hamdi Ishakoğlu Doğal Yaşam Müzesi | Miras Haritası"
-date: 2025-12-25T03:32:03+03:00
+title: "Ahmet Hamdi Ishakoğlu Doğal Yaşam Müzesi"
+date: "2025-12-25T03:32:03+03:00"
 slug: "ahmet-hamdi-ishakoglu-dogal-yasam-muzesi"
 description: "## Ahmet Hamdi Ishakoğlu Doğal Yaşam Müzesi..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.719604,41.082865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Hamdi Ishakoğlu Doğal Yaşam Müzesi

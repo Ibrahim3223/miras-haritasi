@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Paşa Camii (Urla) | Miras Haritası"
-date: 2025-12-24T23:19:18+03:00
+title: "Rüstem Paşa Camii (Urla)"
+date: "2025-12-24T23:19:18+03:00"
 slug: "rustem-pasa-camii-urla"
 description: "# Rüstem Paşa Camii (Urla)..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7618198,38.331501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Rüstem Paşa Camii (Urla)

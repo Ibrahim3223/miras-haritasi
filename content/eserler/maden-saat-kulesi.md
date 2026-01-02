@@ -1,18 +1,17 @@
 ---
-title: "Maden Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:27+03:00
+title: "Maden Saat Kulesi"
+date: "2025-12-25T17:17:27+03:00"
 slug: "maden-saat-kulesi"
 description: "## Maden Saat Kulesi: Türkiye'nin Doğası ile Birlikte Geçen Tarihi Bir Miras..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Maden"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "39.666472222,38.393361111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maden Saat Kulesi: Türkiye'nin Doğası ile Birlikte Geçen Tarihi Bir Miras

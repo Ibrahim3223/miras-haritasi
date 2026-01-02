@@ -1,18 +1,17 @@
 ---
-title: "Nysa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:54:52+03:00
+title: "Nysa Kütüphanesi"
+date: "2025-12-25T17:54:52+03:00"
 slug: "nysa-kutuphanesi"
 description: "## Nysa Kütüphanesi: Aydın'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.143465,37.9026833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nysa Kütüphanesi: Aydın'ın Tarihî Bir Mirası

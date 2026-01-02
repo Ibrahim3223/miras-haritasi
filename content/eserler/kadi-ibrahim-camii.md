@@ -1,18 +1,17 @@
 ---
-title: "Kadı İbrahim Camii | Miras Haritası"
-date: 2025-12-24T23:37:34+03:00
+title: "Kadı İbrahim Camii"
+date: "2025-12-24T23:37:34+03:00"
 slug: "kadi-ibrahim-camii"
 description: "## Kadı İbrahim Camii: Malatya'da Bir Örnek Olanı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.9810562,38.5055962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı İbrahim Camii: Malatya'da Bir Örnek Olanı

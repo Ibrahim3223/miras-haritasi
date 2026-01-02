@@ -1,18 +1,17 @@
 ---
-title: "Küçük Hafız Mescidi, Tire | Miras Haritası"
-date: 2025-12-25T00:45:40+03:00
+title: "Küçük Hafız Mescidi, Tire"
+date: "2025-12-25T00:45:40+03:00"
 slug: "kucuk-hafiz-mescidi-tire"
 description: "## Küçük Hafız Mescidi: Tire'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7321224,38.0833893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Hafız Mescidi: Tire'nin Tarihi Bir Mirası

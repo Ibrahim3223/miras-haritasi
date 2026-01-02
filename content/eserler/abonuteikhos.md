@@ -1,18 +1,17 @@
 ---
-title: "Abonuteikhos | Miras Haritası"
-date: 2025-12-25T04:28:21+03:00
+title: "Abonuteikhos"
+date: "2025-12-25T04:28:21+03:00"
 slug: "abonuteikhos"
 description: "## Abonuteikhos: İnebolu'nun Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/03_Inebolu2005_0804_133337a(AydinTiryaki).JPG/1200px-03_Inebolu2005_0804_133337a(AydinTiryaki).JPG"
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.766667,41.966667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Abonuteikhos: İnebolu'nun Gizli Mirası

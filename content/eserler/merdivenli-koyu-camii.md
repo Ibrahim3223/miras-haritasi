@@ -1,18 +1,17 @@
 ---
-title: "Merdivenli Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:18:22+03:00
+title: "Merdivenli Köyü Camii"
+date: "2025-12-25T00:18:22+03:00"
 slug: "merdivenli-koyu-camii"
 description: "## Merdivenli Köyü Camii: Pazar, Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.795715354,41.148690764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merdivenli Köyü Camii: Pazar, Rize'nin Tarihi Bir Mirası

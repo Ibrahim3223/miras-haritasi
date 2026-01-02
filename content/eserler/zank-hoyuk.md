@@ -1,18 +1,17 @@
 ---
-title: "Zank Höyük | Miras Haritası"
-date: 2025-12-25T07:04:32+03:00
+title: "Zank Höyük"
+date: "2025-12-25T07:04:32+03:00"
 slug: "zank-hoyuk"
 description: "**Zank Höyük: Geçmişin Eski Kenti**..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.7943,38.9522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Zank Höyük: Geçmişin Eski Kenti**

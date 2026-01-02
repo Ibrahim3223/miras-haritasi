@@ -1,18 +1,17 @@
 ---
-title: "Serhat Köyü Eski Camii | Miras Haritası"
-date: 2025-12-25T00:33:33+03:00
+title: "Serhat Köyü Eski Camii"
+date: "2025-12-25T00:33:33+03:00"
 slug: "serhat-koyu-eski-camii"
 description: "## Serhat Köyü Eski Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.702719386,39.738164636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Serhat Köyü Eski Camii

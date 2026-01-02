@@ -1,18 +1,17 @@
 ---
-title: "İTÜ Bilim Merkezi | Miras Haritası"
-date: 2025-12-25T03:24:56+03:00
+title: "İTÜ Bilim Merkezi"
+date: "2025-12-25T03:24:56+03:00"
 slug: "itu-bilim-merkezi"
 description: "## İTÜ Bilim Merkezi: Bilim ve Teknolojiyi Yaşayan Bir Müze..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İTÜ Bilim Merkezi: Bilim ve Teknolojiyi Yaşayan Bir Müze

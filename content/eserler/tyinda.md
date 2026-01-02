@@ -1,18 +1,17 @@
 ---
-title: "Tyinda | Miras Haritası"
-date: 2025-12-25T04:42:57+03:00
+title: "Tyinda"
+date: "2025-12-25T04:42:57+03:00"
 slug: "tyinda"
 description: "## Tyinda Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.73105,36.237203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tyinda Arkeolojik Sit

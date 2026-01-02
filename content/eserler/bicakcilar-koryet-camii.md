@@ -1,18 +1,17 @@
 ---
-title: "Bıçakçılar Koryet Camii | Miras Haritası"
-date: 2025-12-25T00:54:32+03:00
+title: "Bıçakçılar Koryet Camii"
+date: "2025-12-25T00:54:32+03:00"
 slug: "bicakcilar-koryet-camii"
 description: "# Bıçakçılar Koryet Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.429611,41.0290441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bıçakçılar Koryet Camii

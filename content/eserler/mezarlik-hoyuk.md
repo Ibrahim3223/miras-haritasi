@@ -1,18 +1,17 @@
 ---
-title: "Mezarlık Höyük | Miras Haritası"
-date: 2025-12-25T06:34:09+03:00
+title: "Mezarlık Höyük"
+date: "2025-12-25T06:34:09+03:00"
 slug: "mezarlik-hoyuk"
 description: "## Mezarlık Höyük: Gelibolu'nun Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8830013,40.6628265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mezarlık Höyük: Gelibolu'nun Gizli Mirası

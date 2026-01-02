@@ -1,18 +1,17 @@
 ---
-title: "Küçük Cami | Miras Haritası"
-date: 2025-12-25T00:02:10+03:00
+title: "Küçük Cami"
+date: "2025-12-25T00:02:10+03:00"
 slug: "kucuk-cami"
 description: "**Küçük Cami: Kozan'ın Tarihî Bir Öreni**..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8182297,37.4433861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Küçük Cami: Kozan'ın Tarihî Bir Öreni**

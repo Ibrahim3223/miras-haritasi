@@ -1,18 +1,17 @@
 ---
-title: "Alaşehir Hamamı | Miras Haritası"
-date: 2025-12-25T16:43:23+03:00
+title: "Alaşehir Hamamı"
+date: "2025-12-25T16:43:23+03:00"
 slug: "alasehir-hamami"
 description: "## Alaşehir Hamamı: Bir Geçmişin Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.5155296,38.350296"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaşehir Hamamı: Bir Geçmişin Mirası

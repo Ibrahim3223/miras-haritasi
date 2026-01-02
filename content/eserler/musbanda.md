@@ -1,18 +1,17 @@
 ---
-title: "Musbanda | Miras Haritası"
-date: 2025-12-25T05:13:07+03:00
+title: "Musbanda"
+date: "2025-12-25T05:13:07+03:00"
 slug: "musbanda"
 description: "## Musbanda: Karaman'ın Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.564022,36.540522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Musbanda: Karaman'ın Gizli Anıtı

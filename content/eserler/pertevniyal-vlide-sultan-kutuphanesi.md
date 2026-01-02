@@ -1,18 +1,17 @@
 ---
-title: "Pertevniyal Vâlide Sultan Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:50+03:00
+title: "Pertevniyal Vâlide Sultan Kütüphanesi"
+date: "2025-12-25T17:57:50+03:00"
 slug: "pertevniyal-vlide-sultan-kutuphanesi"
 description: "### Pertevniyal Vâlide Sultan Kütüphanesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.953090113,41.010155885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pertevniyal Vâlide Sultan Kütüphanesi

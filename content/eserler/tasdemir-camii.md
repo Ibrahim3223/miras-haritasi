@@ -1,18 +1,17 @@
 ---
-title: "Taşdemir Camii | Miras Haritası"
-date: 2025-12-24T23:13:52+03:00
+title: "Taşdemir Camii"
+date: "2025-12-24T23:13:52+03:00"
 slug: "tasdemir-camii"
 description: "### Taşdemir Camii: Burdur'da Bir Klasik Örnek..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Burdur"
+province: "Burdur"
+iller: '["Burdur"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2930012,37.7179947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taşdemir Camii: Burdur'da Bir Klasik Örnek

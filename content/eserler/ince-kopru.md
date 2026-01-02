@@ -1,18 +1,17 @@
 ---
-title: "İnce Köprü | Miras Haritası"
-date: 2025-12-25T02:44:32+03:00
+title: "İnce Köprü"
+date: "2025-12-25T02:44:32+03:00"
 slug: "ince-kopru"
 description: "## İnce Köprü: Aydın'ın Tarihi Taşınmaz Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7639751,37.9203606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnce Köprü: Aydın'ın Tarihi Taşınmaz Mirası

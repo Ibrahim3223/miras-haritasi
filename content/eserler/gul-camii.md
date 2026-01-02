@@ -1,18 +1,17 @@
 ---
-title: "Gül Camii | Miras Haritası"
-date: 2025-12-24T21:37:49+03:00
+title: "Gül Camii"
+date: "2025-12-24T21:37:49+03:00"
 slug: "gul-camii"
 description: "## Gül Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gül_Camii_01.jpg/1200px-Gül_Camii_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.956179985,41.026824521"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gül Camii

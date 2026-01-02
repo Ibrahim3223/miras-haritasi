@@ -1,18 +1,17 @@
 ---
-title: "Çoban Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:45+03:00
+title: "Çoban Baba Türbesi"
+date: "2025-12-25T14:40:45+03:00"
 slug: "coban-baba-turbesi"
 description: "## Çoban Baba Türbesi: Seyitgazi'nin Semavi Tarihi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.6946297,39.4421997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Baba Türbesi: Seyitgazi'nin Semavi Tarihi

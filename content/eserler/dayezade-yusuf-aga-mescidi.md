@@ -1,18 +1,17 @@
 ---
-title: "Dayezade Yusuf Ağa Mescidi | Miras Haritası"
-date: 2025-12-24T23:24:57+03:00
+title: "Dayezade Yusuf Ağa Mescidi"
+date: "2025-12-24T23:24:57+03:00"
 slug: "dayezade-yusuf-aga-mescidi"
 description: "## Dayezade Yusuf Ağa Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9834521,41.0282637"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dayezade Yusuf Ağa Mescidi

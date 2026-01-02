@@ -1,18 +1,17 @@
 ---
-title: "Yenice Yanı Höyüğü | Miras Haritası"
-date: 2025-12-25T08:16:34+03:00
+title: "Yenice Yanı Höyüğü"
+date: "2025-12-25T08:16:34+03:00"
 slug: "yenice-yani-hoyugu"
 description: "## Yenice Yanı Höyüğü: Diyarbakır'ın Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenice Yanı Höyüğü: Diyarbakır'ın Gizli Mirası

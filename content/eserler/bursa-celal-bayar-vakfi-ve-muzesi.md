@@ -1,18 +1,17 @@
 ---
-title: "Bursa-Celal Bayar Vakfı ve Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:43+03:00
+title: "Bursa-Celal Bayar Vakfı ve Müzesi"
+date: "2025-12-25T03:51:43+03:00"
 slug: "bursa-celal-bayar-vakfi-ve-muzesi"
 description: "## Bursa-Celal Bayar Vakfı ve Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gemlik"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.181667,40.41472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bursa-Celal Bayar Vakfı ve Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Eski Hamam | Miras Haritası"
-date: 2025-12-25T16:30:31+03:00
+title: "Eski Hamam"
+date: "2025-12-25T16:30:31+03:00"
 slug: "eski-hamam"
 description: "## Eski Hamam: Üsküdar'ın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.012162,41.024371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Hamam: Üsküdar'ın Gizli Cenneti

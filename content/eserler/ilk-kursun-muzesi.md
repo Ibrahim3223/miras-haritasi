@@ -1,18 +1,17 @@
 ---
-title: "İlk Kurşun Müzesi | Miras Haritası"
-date: 2025-12-25T04:02:42+03:00
+title: "İlk Kurşun Müzesi"
+date: "2025-12-25T04:02:42+03:00"
 slug: "ilk-kursun-muzesi"
 description: "## İlk Kurşun Müzesi: Hatay'da Bir Kültür Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Dörtyol"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.226615195,36.822218533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlk Kurşun Müzesi: Hatay'da Bir Kültür Mirası

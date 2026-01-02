@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Nurettin Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:46+03:00
+title: "Şeyh Nurettin Türbesi"
+date: "2025-12-25T15:15:46+03:00"
 slug: "seyh-nurettin-turbesi"
 description: "## Şeyh Nurettin Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.276274,38.467047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Nurettin Türbesi

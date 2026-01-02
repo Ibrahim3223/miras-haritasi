@@ -1,18 +1,17 @@
 ---
-title: "Emir Şaban Türbesi | Miras Haritası"
-date: 2025-12-25T17:15:57+03:00
+title: "Emir Şaban Türbesi"
+date: "2025-12-25T17:15:57+03:00"
 slug: "emir-saban-turbesi"
 description: "## Emir Şaban Türbesi..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Çukurca"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "43.6124382,37.2464104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Şaban Türbesi

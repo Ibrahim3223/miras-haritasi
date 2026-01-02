@@ -1,18 +1,17 @@
 ---
-title: "İkipınar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:04+03:00
+title: "İkipınar Çeşmesi"
+date: "2025-12-25T10:26:04+03:00"
 slug: "ikipinar-cesmesi"
 description: "## İkipınar Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4890976,39.6756859"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkipınar Çeşmesi

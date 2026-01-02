@@ -1,18 +1,17 @@
 ---
-title: "Rum Okulu Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:32+03:00
+title: "Rum Okulu Kilisesi"
+date: "2025-12-25T09:32:32+03:00"
 slug: "rum-okulu-kilisesi"
 description: "# Rum Okulu Kilisesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.6506424,38.5490189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Rum Okulu Kilisesi

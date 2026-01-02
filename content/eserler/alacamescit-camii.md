@@ -1,18 +1,17 @@
 ---
-title: "Alacamescit Camii | Miras Haritası"
-date: 2025-12-24T22:08:53+03:00
+title: "Alacamescit Camii"
+date: "2025-12-24T22:08:53+03:00"
 slug: "alacamescit-camii"
 description: "## Alacamescit Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çankırı"
+province: "Çankırı"
+iller: '["Çankırı"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.6211243,40.6004105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alacamescit Camii

@@ -1,18 +1,17 @@
 ---
-title: "Sakarya Şehitleri Ve Zafer Anıtı Müzesi, Polatlı | Miras Haritası"
-date: 2025-12-25T04:02:29+03:00
+title: "Sakarya Şehitleri Ve Zafer Anıtı Müzesi, Polatlı"
+date: "2025-12-25T04:02:29+03:00"
 slug: "sakarya-sehitleri-ve-zafer-aniti-muzesi-polatli"
 description: "## Sakarya Şehitleri Ve Zafer Anıtı Müzesi, Polatlı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.1312256,39.5878372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarya Şehitleri Ve Zafer Anıtı Müzesi, Polatlı

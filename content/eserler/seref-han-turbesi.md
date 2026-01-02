@@ -1,18 +1,17 @@
 ---
-title: "Şeref Han Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:33+03:00
+title: "Şeref Han Türbesi"
+date: "2025-12-25T14:39:33+03:00"
 slug: "seref-han-turbesi"
 description: "### Şeref Han Türbesi: Bitlis'in Gizli Cenneti..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Bitlis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.1070557,38.3995514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeref Han Türbesi: Bitlis'in Gizli Cenneti

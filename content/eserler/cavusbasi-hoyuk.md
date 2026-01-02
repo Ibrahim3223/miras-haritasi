@@ -1,18 +1,17 @@
 ---
-title: "Çavuşbaşı Höyük | Miras Haritası"
-date: 2025-12-25T13:46:30+03:00
+title: "Çavuşbaşı Höyük"
+date: "2025-12-25T13:46:30+03:00"
 slug: "cavusbasi-hoyuk"
 description: "## Çavuşbaşı Höyük: Gaziantep'in Gizli Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.5062126,36.8378482"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuşbaşı Höyük: Gaziantep'in Gizli Anıtı

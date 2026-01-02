@@ -1,18 +1,17 @@
 ---
-title: "Erciş Kalesi | Miras Haritası"
-date: 2025-12-25T01:50:54+03:00
+title: "Erciş Kalesi"
+date: "2025-12-25T01:50:54+03:00"
 slug: "ercis-kalesi"
 description: "### Erciş Kalesi: Tarihi Bir Miras..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Erciş"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.3331985,38.9665985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Erciş Kalesi: Tarihi Bir Miras

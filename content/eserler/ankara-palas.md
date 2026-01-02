@@ -1,18 +1,17 @@
 ---
-title: "Ankara Palas | Miras Haritası"
-date: 2025-12-25T03:14:28+03:00
+title: "Ankara Palas"
+date: "2025-12-25T03:14:28+03:00"
 slug: "ankara-palas"
 description: "## Ankara Palas..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ankara_Palas_Frontal.jpg/1200px-Ankara_Palas_Frontal.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.85229,39.94064"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ankara Palas

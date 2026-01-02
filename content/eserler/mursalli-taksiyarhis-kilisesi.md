@@ -1,18 +1,17 @@
 ---
-title: "Mursallı Taksiyarhis Kilisesi | Miras Haritası"
-date: 2025-12-25T09:24:13+03:00
+title: "Mursallı Taksiyarhis Kilisesi"
+date: "2025-12-25T09:24:13+03:00"
 slug: "mursalli-taksiyarhis-kilisesi"
 description: "## Mursallı Taksiyarhis Kilisesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.5661774,37.8505096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mursallı Taksiyarhis Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Troitsa Kilisesi | Miras Haritası"
-date: 2025-12-25T00:10:53+03:00
+title: "Troitsa Kilisesi"
+date: "2025-12-25T00:10:53+03:00"
 slug: "troitsa-kilisesi"
 description: "## Manyas'lı Örenler Arasında Troitsa Kilisesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Manyas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.844017,40.1535149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manyas'lı Örenler Arasında Troitsa Kilisesi

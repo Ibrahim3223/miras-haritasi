@@ -1,18 +1,17 @@
 ---
-title: "Mülayim Dede Türbesi (Dedebali) | Miras Haritası"
-date: 2025-12-25T14:43:08+03:00
+title: "Mülayim Dede Türbesi (Dedebali)"
+date: "2025-12-25T14:43:08+03:00"
 slug: "mulayim-dede-turbesi-dedebali"
 description: "### Mülayim Dede Türbesi (Dedebali)..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Tavşanlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4862595,39.5457535"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mülayim Dede Türbesi (Dedebali)

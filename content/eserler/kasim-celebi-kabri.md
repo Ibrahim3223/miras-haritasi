@@ -1,18 +1,17 @@
 ---
-title: "Kasım Çelebi Kabri | Miras Haritası"
-date: 2025-12-25T13:26:32+03:00
+title: "Kasım Çelebi Kabri"
+date: "2025-12-25T13:26:32+03:00"
 slug: "kasim-celebi-kabri"
 description: "## Kasım Çelebi Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9245911,41.0039177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasım Çelebi Kabri: Fatih'in Gizli Anıtı

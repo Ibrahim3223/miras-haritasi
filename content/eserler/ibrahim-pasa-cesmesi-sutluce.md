@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Paşa Çeşmesi, Sütlüce | Miras Haritası"
-date: 2025-12-25T11:53:00+03:00
+title: "İbrahim Paşa Çeşmesi, Sütlüce"
+date: "2025-12-25T11:53:00+03:00"
 slug: "ibrahim-pasa-cesmesi-sutluce"
 description: "## İbrahim Paşa Çeşmesi, Sütlüce: Beyoğlu'ndaki Tarihi Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/İbrahim_Paşa_Çeşmesi,_Sütlüce_IMG_0999.jpg/1200px-İbrahim_Paşa_Çeşmesi,_Sütlüce_IMG_0999.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.94125,41.048653"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İbrahim Paşa Çeşmesi, Sütlüce: Beyoğlu'ndaki Tarihi Bir Çeşme

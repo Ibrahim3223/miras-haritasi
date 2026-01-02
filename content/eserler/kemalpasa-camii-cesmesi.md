@@ -1,18 +1,17 @@
 ---
-title: "Kemalpaşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:32+03:00
+title: "Kemalpaşa Camii Çeşmesi"
+date: "2025-12-25T10:31:32+03:00"
 slug: "kemalpasa-camii-cesmesi"
 description: "## Kemalpaşa Camii Çeşmesi: Söke'nin Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5453205,37.7028236"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemalpaşa Camii Çeşmesi: Söke'nin Gizli Cenneti

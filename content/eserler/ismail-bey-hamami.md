@@ -1,18 +1,17 @@
 ---
-title: "İsmail Bey Hamamı | Miras Haritası"
-date: 2025-12-25T16:36:46+03:00
+title: "İsmail Bey Hamamı"
+date: "2025-12-25T16:36:46+03:00"
 slug: "ismail-bey-hamami"
 description: "## İsmail Bey Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.7220211,40.4334679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmail Bey Hamamı

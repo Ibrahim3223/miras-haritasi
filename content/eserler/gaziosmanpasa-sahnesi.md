@@ -1,18 +1,17 @@
 ---
-title: "Gaziosmanpaşa Sahnesi | Miras Haritası"
-date: 2025-12-25T16:17:30+03:00
+title: "Gaziosmanpaşa Sahnesi"
+date: "2025-12-25T16:17:30+03:00"
 slug: "gaziosmanpasa-sahnesi"
 description: "## Gaziosmanpaşa Sahnesi: İstanbul'un Tarihî Tiyatro Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Gaziosmanpaşa"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.91598068,41.0575686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaziosmanpaşa Sahnesi: İstanbul'un Tarihî Tiyatro Mirası

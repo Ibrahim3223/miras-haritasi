@@ -1,18 +1,17 @@
 ---
-title: "Şirakavan | Miras Haritası"
-date: 2025-12-25T06:57:45+03:00
+title: "Şirakavan"
+date: "2025-12-25T06:57:45+03:00"
 slug: "sirakavan"
 description: "## Şirakavan Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Surp_Prkich,_Shirakavan.jpg/1200px-Surp_Prkich,_Shirakavan.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.721908,40.715707"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şirakavan Arkeolojik Sit

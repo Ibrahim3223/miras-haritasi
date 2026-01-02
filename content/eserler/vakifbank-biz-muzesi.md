@@ -1,18 +1,17 @@
 ---
-title: "Vakıfbank B'iz Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:08+03:00
+title: "Vakıfbank B'iz Müzesi"
+date: "2025-12-25T04:05:08+03:00"
 slug: "vakifbank-biz-muzesi"
 description: "## Vakıfbank B'iz Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.109815297,40.999279865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vakıfbank B'iz Müzesi

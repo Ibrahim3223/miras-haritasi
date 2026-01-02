@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Buhari Kabri | Miras Haritası"
-date: 2025-12-25T13:26:01+03:00
+title: "Mehmet Buhari Kabri"
+date: "2025-12-25T13:26:01+03:00"
 slug: "mehmet-buhari-kabri"
 description: "## Mehmet Buhari Kabri: Gelibolu'nun Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.671938,40.40858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Buhari Kabri: Gelibolu'nun Tarihî Bir Anıtı

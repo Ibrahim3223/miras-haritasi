@@ -1,18 +1,17 @@
 ---
-title: "Kurtuluş Anıtı, Tire | Miras Haritası"
-date: 2025-12-25T15:43:24+03:00
+title: "Kurtuluş Anıtı, Tire"
+date: "2025-12-25T15:43:24+03:00"
 slug: "kurtulus-aniti-tire"
 description: "## Kurtuluş Anıtı, Tire..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7320499,38.0892868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurtuluş Anıtı, Tire

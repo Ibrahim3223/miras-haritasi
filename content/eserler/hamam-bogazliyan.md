@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Boğazlıyan | Miras Haritası"
-date: 2025-12-25T17:06:06+03:00
+title: "Hamam, Boğazlıyan"
+date: "2025-12-25T17:06:06+03:00"
 slug: "hamam-bogazliyan"
 description: "### Boğazlıyan Hamamı: Osmanlı Dönemi'nin Etkileyici Kalıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.2442245,39.1909142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boğazlıyan Hamamı: Osmanlı Dönemi'nin Etkileyici Kalıtı

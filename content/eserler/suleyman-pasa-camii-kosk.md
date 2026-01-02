@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Paşa Camii (Köşk) | Miras Haritası"
-date: 2025-12-25T00:02:42+03:00
+title: "Süleyman Paşa Camii (Köşk)"
+date: "2025-12-25T00:02:42+03:00"
 slug: "suleyman-pasa-camii-kosk"
 description: "## Süleyman Paşa Camii (Köşk): Aydın'ın Gizli Çehresini İnceleyelim..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Köşk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0519943,37.8531342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Paşa Camii (Köşk): Aydın'ın Gizli Çehresini İnceleyelim

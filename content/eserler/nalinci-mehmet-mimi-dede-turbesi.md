@@ -1,18 +1,17 @@
 ---
-title: "Nalıncı Mehmet Mimi Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:46+03:00
+title: "Nalıncı Mehmet Mimi Dede Türbesi"
+date: "2025-12-25T14:33:46+03:00"
 slug: "nalinci-mehmet-mimi-dede-turbesi"
 description: "## Nalıncı Mehmet Mimi Dede Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.959928,41.023446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nalıncı Mehmet Mimi Dede Türbesi

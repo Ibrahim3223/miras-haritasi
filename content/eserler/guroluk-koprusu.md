@@ -1,18 +1,17 @@
 ---
-title: "Güroluk Köprüsü | Miras Haritası"
-date: 2025-12-25T02:00:26+03:00
+title: "Güroluk Köprüsü"
+date: "2025-12-25T02:00:26+03:00"
 slug: "guroluk-koprusu"
 description: "## Güroluk Köprüsü: Karadeniz'in Gizli Cenneti..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0590169,41.0198981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güroluk Köprüsü: Karadeniz'in Gizli Cenneti

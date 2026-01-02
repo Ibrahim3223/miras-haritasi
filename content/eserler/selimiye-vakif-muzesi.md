@@ -1,18 +1,17 @@
 ---
-title: "Selimiye Vakıf Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:31+03:00
+title: "Selimiye Vakıf Müzesi"
+date: "2025-12-25T03:53:31+03:00"
 slug: "selimiye-vakif-muzesi"
 description: "### Selimiye Vakıf Müzesi: Edirne'nin İhtişamlı Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.5592442,41.6773911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selimiye Vakıf Müzesi: Edirne'nin İhtişamlı Mirası

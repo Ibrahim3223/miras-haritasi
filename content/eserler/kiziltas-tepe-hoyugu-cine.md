@@ -1,18 +1,17 @@
 ---
-title: "Kızıltaş Tepe Höyüğü, Çine | Miras Haritası"
-date: 2025-12-25T05:58:58+03:00
+title: "Kızıltaş Tepe Höyüğü, Çine"
+date: "2025-12-25T05:58:58+03:00"
 slug: "kiziltas-tepe-hoyugu-cine"
 description: "### Kızıltaş Tepe Höyüğü: Aydın'ın Gizli Tarihi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9958992,37.6674614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızıltaş Tepe Höyüğü: Aydın'ın Gizli Tarihi

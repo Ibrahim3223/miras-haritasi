@@ -1,18 +1,17 @@
 ---
-title: "Şeyhler Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:31+03:00
+title: "Şeyhler Medresesi"
+date: "2025-12-25T17:41:31+03:00"
 slug: "seyhler-medresesi"
 description: "# Şeyhler Medresesi: Erzurum'un Gizli Çarıklarına Yolculuk..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "41.2726936,39.9031448"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyhler Medresesi: Erzurum'un Gizli Çarıklarına Yolculuk

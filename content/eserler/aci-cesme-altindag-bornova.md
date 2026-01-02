@@ -1,18 +1,17 @@
 ---
-title: "Acı Çeşme – Altındağ, Bornova | Miras Haritası"
-date: 2025-12-25T11:58:13+03:00
+title: "Acı Çeşme – Altındağ, Bornova"
+date: "2025-12-25T11:58:13+03:00"
 slug: "aci-cesme-altindag-bornova"
 description: "### Acı Çeşme - Bornova, İzmir..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2036228,38.4168053"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Acı Çeşme - Bornova, İzmir

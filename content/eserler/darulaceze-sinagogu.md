@@ -1,18 +1,17 @@
 ---
-title: "Darülaceze Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:09+03:00
+title: "Darülaceze Sinagogu"
+date: "2025-12-25T16:13:09+03:00"
 slug: "darulaceze-sinagogu"
 description: "### Darülaceze Sinagogu..."
 featured_image: ""
-province: "Şişli"
-iller: ["Şişli"]
-district: "Halil Rıfat Paşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Şişli"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.967555555,41.059638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Darülaceze Sinagogu

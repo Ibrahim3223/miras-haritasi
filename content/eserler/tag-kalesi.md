@@ -1,18 +1,17 @@
 ---
-title: "Tağ Kalesi | Miras Haritası"
-date: 2025-12-25T01:51:58+03:00
+title: "Tağ Kalesi"
+date: "2025-12-25T01:51:58+03:00"
 slug: "tag-kalesi"
 description: "## Tağ Kalesi: Hizan'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Hizan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.5924988,38.1239014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tağ Kalesi: Hizan'ın Tarihî ve Kültürel Mirası

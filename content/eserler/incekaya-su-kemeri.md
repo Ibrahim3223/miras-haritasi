@@ -1,18 +1,17 @@
 ---
-title: "İncekaya Su Kemeri | Miras Haritası"
-date: 2025-12-25T01:57:01+03:00
+title: "İncekaya Su Kemeri"
+date: "2025-12-25T01:57:01+03:00"
 slug: "incekaya-su-kemeri"
 description: "## İncekaya Su Kemeri: Safranbolu'da Tarihi Bir Köprü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/İncekaya_Su_kemeri_(2013)_-_panoramio.jpg/1200px-İncekaya_Su_kemeri_(2013)_-_panoramio.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.6850557,41.282249"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İncekaya Su Kemeri: Safranbolu'da Tarihi Bir Köprü

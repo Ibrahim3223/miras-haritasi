@@ -1,18 +1,17 @@
 ---
-title: "Aziziye Camii, Ordu | Miras Haritası"
-date: 2025-12-24T23:56:41+03:00
+title: "Aziziye Camii, Ordu"
+date: "2025-12-24T23:56:41+03:00"
 slug: "aziziye-camii-ordu"
 description: "## Aziziye Camii, Ordu..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.8791237,40.9857903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziziye Camii, Ordu

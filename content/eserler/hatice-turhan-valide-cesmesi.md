@@ -1,18 +1,17 @@
 ---
-title: "Hatice Turhan Valide Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:36:46+03:00
+title: "Hatice Turhan Valide Çeşmesi"
+date: "2025-12-25T10:36:46+03:00"
 slug: "hatice-turhan-valide-cesmesi"
 description: "## Hatice Turhan Valide Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hatice_Turhan_Valide_Sultan_Çeşme_ve_Sebil_Transkribi.jpg/1200px-Hatice_Turhan_Valide_Sultan_Çeşme_ve_Sebil_Transkribi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971985,41.015984"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hatice Turhan Valide Çeşmesi

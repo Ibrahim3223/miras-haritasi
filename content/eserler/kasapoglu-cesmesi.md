@@ -1,18 +1,17 @@
 ---
-title: "Kasapoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:05:59+03:00
+title: "Kasapoğlu Çeşmesi"
+date: "2025-12-25T10:05:59+03:00"
 slug: "kasapoglu-cesmesi"
 description: "## Kasapoğlu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/306.9-Kasapoğlu_Çeşmesi-1886_01.jpg/1200px-306.9-Kasapoğlu_Çeşmesi-1886_01.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.17963056,39.12237222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kasapoğlu Çeşmesi

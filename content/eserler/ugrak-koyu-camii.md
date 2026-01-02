@@ -1,18 +1,17 @@
 ---
-title: "Uğrak Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:21:43+03:00
+title: "Uğrak Köyü Camii"
+date: "2025-12-25T00:21:43+03:00"
 slug: "ugrak-koyu-camii"
 description: "## Uğrak Köyü Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.93175427,41.084985202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uğrak Köyü Camii: Rize'nin Tarihi Bir Mirası

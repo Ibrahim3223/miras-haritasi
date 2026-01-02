@@ -1,18 +1,17 @@
 ---
-title: "Saadettin Ali Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:33+03:00
+title: "Saadettin Ali Bey Türbesi"
+date: "2025-12-25T15:10:33+03:00"
 slug: "saadettin-ali-bey-turbesi"
 description: "## Saadettin Ali Bey Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.2109488,37.1830842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saadettin Ali Bey Türbesi

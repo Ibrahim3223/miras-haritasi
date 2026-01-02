@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Gelibolu | Miras Haritası"
-date: 2025-12-25T02:51:11+03:00
+title: "Roma Köprüsü, Gelibolu"
+date: "2025-12-25T02:51:11+03:00"
 slug: "roma-koprusu-gelibolu"
 description: "## Roma Köprüsü, Gelibolu..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.8379707,40.6027374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Gelibolu

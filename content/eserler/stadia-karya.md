@@ -1,18 +1,17 @@
 ---
-title: "Stadia (Karya) | Miras Haritası"
-date: 2025-12-25T04:31:24+03:00
+title: "Stadia (Karya)"
+date: "2025-12-25T04:31:24+03:00"
 slug: "stadia-karya"
 description: "## Stadia (Karya)..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.648272,36.742208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Stadia (Karya)

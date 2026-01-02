@@ -1,18 +1,17 @@
 ---
-title: "Kötünün Hanı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:14+03:00
+title: "Kötünün Hanı Köprüsü"
+date: "2025-12-25T02:41:14+03:00"
 slug: "kotunun-hani-koprusu"
 description: "## Kötünün Hanı Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.7438812,39.0349922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kötünün Hanı Köprüsü

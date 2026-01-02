@@ -1,18 +1,17 @@
 ---
-title: "Eski Osmanbey İlkokulu, Simav | Miras Haritası"
-date: 2025-12-25T03:54:00+03:00
+title: "Eski Osmanbey İlkokulu, Simav"
+date: "2025-12-25T03:54:00+03:00"
 slug: "eski-osmanbey-ilkokulu-simav"
 description: "## Eski Osmanbey İlkokulu, Simav: Bir Tarihi Edebiyat Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Simav"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9752712,39.0890846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Osmanbey İlkokulu, Simav: Bir Tarihi Edebiyat Mirası

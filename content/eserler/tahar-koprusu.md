@@ -1,18 +1,17 @@
 ---
-title: "Tahar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:13:00+03:00
+title: "Tahar Köprüsü"
+date: "2025-12-25T02:13:00+03:00"
 slug: "tahar-koprusu"
 description: "### Tahar Köprüsü..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Çemişgezek"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.9132631,39.0472025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tahar Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Issız Cuma Camii | Miras Haritası"
-date: 2025-12-25T00:44:42+03:00
+title: "Issız Cuma Camii"
+date: "2025-12-25T00:44:42+03:00"
 slug: "issiz-cuma-camii"
 description: "## Issız Cuma Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Yenice (Çanakkale)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2913361,39.9430618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Issız Cuma Camii

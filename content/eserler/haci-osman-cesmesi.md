@@ -1,18 +1,17 @@
 ---
-title: "Hacı Osman Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:30:52+03:00
+title: "Hacı Osman Çeşmesi"
+date: "2025-12-25T10:30:52+03:00"
 slug: "haci-osman-cesmesi"
 description: "## Hacı Osman Çeşmesi: Nazilli'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4068336,37.8549652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Osman Çeşmesi: Nazilli'nin Tarihi Bir Çeşmesi

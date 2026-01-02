@@ -1,18 +1,17 @@
 ---
-title: "Yağcılar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:36:00+03:00
+title: "Yağcılar Höyüğü"
+date: "2025-12-25T06:36:00+03:00"
 slug: "yagcilar-hoyugu"
 description: "## Yağcılar Höyüğü: Muş'un Gizli Mirası..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Muş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.4545904,38.9293261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yağcılar Höyüğü: Muş'un Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Hacettepe Sanat Müzesi | Miras Haritası"
-date: 2025-12-25T04:08:30+03:00
+title: "Hacettepe Sanat Müzesi"
+date: "2025-12-25T04:08:30+03:00"
 slug: "hacettepe-sanat-muzesi"
 description: "## Hacettepe Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hacettepe_Sanat_Müzesi_02.jpg/1200px-Hacettepe_Sanat_Müzesi_02.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.862333333,39.931861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacettepe Sanat Müzesi

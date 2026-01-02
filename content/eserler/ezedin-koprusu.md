@@ -1,18 +1,17 @@
 ---
-title: "Ezedin Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:43+03:00
+title: "Ezedin Köprüsü"
+date: "2025-12-25T02:35:43+03:00"
 slug: "ezedin-koprusu"
 description: "**Ezedin Köprüsü**..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Bulancak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.1457214,40.8304863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ezedin Köprüsü**

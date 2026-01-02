@@ -1,18 +1,17 @@
 ---
-title: "Veled-i Yaniç Cami | Miras Haritası"
-date: 2025-12-24T21:56:16+03:00
+title: "Veled-i Yaniç Cami"
+date: "2025-12-24T21:56:16+03:00"
 slug: "veled-i-yanic-cami"
 description: "## Veled-i Yaniç Camii: Bursa'nın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Veledi_yaniç_kubbe_2.JPG/1200px-Veledi_yaniç_kubbe_2.JPG"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.056416666,40.185"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Veled-i Yaniç Camii: Bursa'nın Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Emine Sultan Çeşmesi, Mevlanakapı | Miras Haritası"
-date: 2025-12-25T11:59:24+03:00
+title: "Emine Sultan Çeşmesi, Mevlanakapı"
+date: "2025-12-25T11:59:24+03:00"
 slug: "emine-sultan-cesmesi-mevlanakapi"
 description: "## Emine Sultan Çeşmesi: Fatih'teki Bir Klasik Osmanlı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9265423,41.0170708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emine Sultan Çeşmesi: Fatih'teki Bir Klasik Osmanlı Çeşmesi

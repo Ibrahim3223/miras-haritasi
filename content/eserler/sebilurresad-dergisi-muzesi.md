@@ -1,18 +1,17 @@
 ---
-title: "Sebilürreşad Dergisi Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:53+03:00
+title: "Sebilürreşad Dergisi Müzesi"
+date: "2025-12-25T04:04:53+03:00"
 slug: "sebilurresad-dergisi-muzesi"
 description: "### Sebilürreşad Dergisi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.859085147,39.937448754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sebilürreşad Dergisi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Ouranion | Miras Haritası"
-date: 2025-12-25T08:30:18+03:00
+title: "Ouranion"
+date: "2025-12-25T08:30:18+03:00"
 slug: "ouranion"
 description: "### Ouranion: Bodrum'un Gizli Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2788,37.0935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ouranion: Bodrum'un Gizli Mirası

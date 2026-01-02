@@ -1,18 +1,17 @@
 ---
-title: "Çilehane Camii | Miras Haritası"
-date: 2025-12-24T22:32:48+03:00
+title: "Çilehane Camii"
+date: "2025-12-24T22:32:48+03:00"
 slug: "cilehane-camii"
 description: "### Çilehane Camii: Amasya'nın Tarihi Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8383636,40.6538239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çilehane Camii: Amasya'nın Tarihi Mirası

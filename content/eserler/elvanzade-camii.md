@@ -1,18 +1,17 @@
 ---
-title: "Elvanzade Camii | Miras Haritası"
-date: 2025-12-24T22:52:40+03:00
+title: "Elvanzade Camii"
+date: "2025-12-24T22:52:40+03:00"
 slug: "elvanzade-camii"
 description: "## Elvanzade Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cibali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.959998,41.021702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elvanzade Camii

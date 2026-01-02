@@ -1,18 +1,17 @@
 ---
-title: "İznik Çini Müzesi | Miras Haritası"
-date: 2025-12-25T04:07:27+03:00
+title: "İznik Çini Müzesi"
+date: "2025-12-25T04:07:27+03:00"
 slug: "iznik-cini-muzesi"
 description: "## İznik Çini Müzesi: İznik'in Yüzyıllarca Devam Eden Çini Geleneğinin Merkezi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.7204247,40.4317207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İznik Çini Müzesi: İznik'in Yüzyıllarca Devam Eden Çini Geleneğinin Merkezi

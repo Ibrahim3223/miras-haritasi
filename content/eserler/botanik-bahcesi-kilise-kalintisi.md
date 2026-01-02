@@ -1,18 +1,17 @@
 ---
-title: "Botanik Bahçesi Kilise Kalıntısı | Miras Haritası"
-date: 2025-12-25T09:43:05+03:00
+title: "Botanik Bahçesi Kilise Kalıntısı"
+date: "2025-12-25T09:43:05+03:00"
 slug: "botanik-bahcesi-kilise-kalintisi"
 description: "### Botanik Bahçesi Kilise Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9820919,41.0154572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Botanik Bahçesi Kilise Kalıntısı

@@ -1,18 +1,17 @@
 ---
-title: "Tavus Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:35+03:00
+title: "Tavus Baba Türbesi"
+date: "2025-12-25T14:25:35+03:00"
 slug: "tavus-baba-turbesi"
 description: "## Tavus Baba Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.419923,37.85237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavus Baba Türbesi

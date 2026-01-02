@@ -1,18 +1,17 @@
 ---
-title: "Apros | Miras Haritası"
-date: 2025-12-25T04:29:15+03:00
+title: "Apros"
+date: "2025-12-25T04:29:15+03:00"
 slug: "apros"
 description: "## Apros Arkeolojik Sit: Malkara'nın Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: ["İstanbul Vilayeti"]
+iller: '["İstanbul Vilayeti"]'
 district: "Malkara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.107222222,40.926944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apros Arkeolojik Sit: Malkara'nın Gizli Anıtı

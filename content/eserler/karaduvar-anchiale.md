@@ -1,18 +1,17 @@
 ---
-title: "Karaduvar (Anchiale) | Miras Haritası"
-date: 2025-12-25T04:35:21+03:00
+title: "Karaduvar (Anchiale)"
+date: "2025-12-25T04:35:21+03:00"
 slug: "karaduvar-anchiale"
 description: "# Karaduvar (Anchiale) Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Karaduvar_aqueduct.jpg/1200px-Karaduvar_aqueduct.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.699444444,36.809722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Karaduvar (Anchiale) Arkeolojik Sit

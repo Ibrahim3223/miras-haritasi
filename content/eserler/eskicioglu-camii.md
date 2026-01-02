@@ -1,18 +1,17 @@
 ---
-title: "Eskicioğlu Camii | Miras Haritası"
-date: 2025-12-24T22:59:51+03:00
+title: "Eskicioğlu Camii"
+date: "2025-12-24T22:59:51+03:00"
 slug: "eskicioglu-camii"
 description: "## Eskicioğlu Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8596954,39.9350815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskicioğlu Camii: Ankara'nın Tarihi Bir Mirası

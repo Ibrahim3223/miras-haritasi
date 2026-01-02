@@ -1,18 +1,17 @@
 ---
-title: "Hacı Nasır Camii | Miras Haritası"
-date: 2025-12-24T23:28:16+03:00
+title: "Hacı Nasır Camii"
+date: "2025-12-24T23:28:16+03:00"
 slug: "haci-nasir-camii"
 description: "## Hacı Nasır Camii: Gaziantep'in Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3865166,37.0611839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Nasır Camii: Gaziantep'in Kültürel Mirası

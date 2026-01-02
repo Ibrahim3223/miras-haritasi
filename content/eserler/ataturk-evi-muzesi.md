@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:21:03+03:00
+title: "Atatürk Evi Müzesi"
+date: "2025-12-25T03:21:03+03:00"
 slug: "ataturk-evi-muzesi"
 description: "### Atatürk Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Konya_Atatürk_Evi_Müzesi.jpg/1200px-Konya_Atatürk_Evi_Müzesi.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.487694444,37.870222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Atatürk Evi Müzesi

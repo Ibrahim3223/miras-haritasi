@@ -1,18 +1,17 @@
 ---
-title: "Küçük Ayasofya Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:21+03:00
+title: "Küçük Ayasofya Mescidi Çeşmesi"
+date: "2025-12-25T11:35:21+03:00"
 slug: "kucuk-ayasofya-mescidi-cesmesi"
 description: "## Küçük Ayasofya Mescidi Çeşmesi: Akşehir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.4094124,38.3567467"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Küçük Ayasofya Mescidi Çeşmesi: Akşehir'in Gizli Çeşmesi

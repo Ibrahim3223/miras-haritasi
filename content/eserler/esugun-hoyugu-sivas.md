@@ -1,18 +1,17 @@
 ---
-title: "Esüğün Höyüğü, Sivas | Miras Haritası"
-date: 2025-12-25T05:54:06+03:00
+title: "Esüğün Höyüğü, Sivas"
+date: "2025-12-25T05:54:06+03:00"
 slug: "esugun-hoyugu-sivas"
 description: "## Esüğün Höyüğü: Sivas'ın Gizli Tarihi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8118324,39.4975586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esüğün Höyüğü: Sivas'ın Gizli Tarihi

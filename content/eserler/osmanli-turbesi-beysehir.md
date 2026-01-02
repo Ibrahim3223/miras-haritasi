@@ -1,18 +1,17 @@
 ---
-title: "Osmanlı Türbesi, Beyşehir | Miras Haritası"
-date: 2025-12-25T15:31:04+03:00
+title: "Osmanlı Türbesi, Beyşehir"
+date: "2025-12-25T15:31:04+03:00"
 slug: "osmanli-turbesi-beysehir"
 description: "# Osmanlı Türbesi, Beyşehir..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.718837213,37.683588032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Osmanlı Türbesi, Beyşehir

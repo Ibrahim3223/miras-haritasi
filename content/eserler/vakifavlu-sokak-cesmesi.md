@@ -1,18 +1,17 @@
 ---
-title: "Vakıfavlu Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:57:15+03:00
+title: "Vakıfavlu Sokak Çeşmesi"
+date: "2025-12-25T10:57:15+03:00"
 slug: "vakifavlu-sokak-cesmesi"
 description: "## Vakıfavlı Sokak Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5238419,40.9821892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vakıfavlı Sokak Çeşmesi

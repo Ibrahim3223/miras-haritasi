@@ -1,18 +1,17 @@
 ---
-title: "Pazar Hamamı | Miras Haritası"
-date: 2025-12-25T16:47:03+03:00
+title: "Pazar Hamamı"
+date: "2025-12-25T16:47:03+03:00"
 slug: "pazar-hamami"
 description: "### Pazar Hamamı Tanıtımı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.706707,36.8874969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pazar Hamamı Tanıtımı

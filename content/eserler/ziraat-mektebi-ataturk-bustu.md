@@ -1,18 +1,17 @@
 ---
-title: "Ziraat Mektebi Atatürk Büstü | Miras Haritası"
-date: 2025-12-25T15:51:52+03:00
+title: "Ziraat Mektebi Atatürk Büstü"
+date: "2025-12-25T15:51:52+03:00"
 slug: "ziraat-mektebi-ataturk-bustu"
 description: "## Ziraat Mektebi Atatürk Büstü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2142925,38.4579697"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ziraat Mektebi Atatürk Büstü

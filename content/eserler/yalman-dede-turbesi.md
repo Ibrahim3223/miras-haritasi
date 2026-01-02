@@ -1,18 +1,17 @@
 ---
-title: "Yalman Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:01+03:00
+title: "Yalman Dede Türbesi"
+date: "2025-12-25T15:00:01+03:00"
 slug: "yalman-dede-turbesi"
 description: "## Yalman Dede Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.057457,36.3528328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalman Dede Türbesi

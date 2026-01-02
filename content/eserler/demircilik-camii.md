@@ -1,18 +1,17 @@
 ---
-title: "Demircilik Camii | Miras Haritası"
-date: 2025-12-24T22:31:59+03:00
+title: "Demircilik Camii"
+date: "2025-12-24T22:31:59+03:00"
 slug: "demircilik-camii"
 description: "### Demircilik Camii: Bayındır'ın Gizli Çehresini Açıklamak..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır (İzmir)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6542225,38.2210655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Demircilik Camii: Bayındır'ın Gizli Çehresini Açıklamak

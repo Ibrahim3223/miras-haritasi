@@ -1,18 +1,17 @@
 ---
-title: "Ömerli Eski Camii | Miras Haritası"
-date: 2025-12-25T00:45:07+03:00
+title: "Ömerli Eski Camii"
+date: "2025-12-25T00:45:07+03:00"
 slug: "omerli-eski-camii"
 description: "## Ömerli Eski Camii: Mardin'in Tarihî Diyarı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Ömerli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.955555,37.401572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömerli Eski Camii: Mardin'in Tarihî Diyarı

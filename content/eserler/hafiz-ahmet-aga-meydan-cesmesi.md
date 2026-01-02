@@ -1,18 +1,17 @@
 ---
-title: "Hafız Ahmet Ağa Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:08+03:00
+title: "Hafız Ahmet Ağa Meydan Çeşmesi"
+date: "2025-12-25T10:34:08+03:00"
 slug: "hafiz-ahmet-aga-meydan-cesmesi"
 description: "## Hafız Ahmet Ağa Meydan Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sarıdemir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.962685,41.021782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafız Ahmet Ağa Meydan Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Aya Varvara Şapeli | Miras Haritası"
-date: 2025-12-25T09:43:49+03:00
+title: "Aya Varvara Şapeli"
+date: "2025-12-25T09:43:49+03:00"
 slug: "aya-varvara-sapeli"
 description: "**Aya Varvara Şapeli: Gökçeada'nın Gizli Çehresi**..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.9678993,40.2154007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Aya Varvara Şapeli: Gökçeada'nın Gizli Çehresi**

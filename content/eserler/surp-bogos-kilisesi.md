@@ -1,18 +1,17 @@
 ---
-title: "Surp Boğos Kilisesi | Miras Haritası"
-date: 2025-12-25T08:52:51+03:00
+title: "Surp Boğos Kilisesi"
+date: "2025-12-25T08:52:51+03:00"
 slug: "surp-bogos-kilisesi"
 description: "## Surp Boğos Kilisesi: İstanbul'un Gizli Çarpısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Surp_Boğos_Kilisesi_-_panoramio.jpg/1200px-Surp_Boğos_Kilisesi_-_panoramio.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.047,41.162472"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Boğos Kilisesi: İstanbul'un Gizli Çarpısı

@@ -1,18 +1,17 @@
 ---
-title: "Bayburtlu Ömer Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T13:33:20+03:00
+title: "Bayburtlu Ömer Paşa Türbesi"
+date: "2025-12-25T13:33:20+03:00"
 slug: "bayburtlu-omer-pasa-turbesi"
 description: "## Bayburtlu Ömer Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9239597,41.0459976"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayburtlu Ömer Paşa Türbesi

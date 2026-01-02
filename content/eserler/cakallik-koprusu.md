@@ -1,18 +1,17 @@
 ---
-title: "Çakallık Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:06+03:00
+title: "Çakallık Köprüsü"
+date: "2025-12-25T02:26:06+03:00"
 slug: "cakallik-koprusu"
 description: "## Çakallık Köprüsü..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.9691683,36.8916753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakallık Köprüsü

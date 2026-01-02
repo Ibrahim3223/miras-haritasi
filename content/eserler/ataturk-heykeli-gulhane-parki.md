@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Heykeli (Gülhane Parkı) | Miras Haritası"
-date: 2025-12-25T15:55:03+03:00
+title: "Atatürk Heykeli (Gülhane Parkı)"
+date: "2025-12-25T15:55:03+03:00"
 slug: "ataturk-heykeli-gulhane-parki"
 description: "## Atatürk Heykeli (Gülhane Parkı)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bronze_statue_of_Turkish_politician_Mustafa_Kemal_Atatürk,_Gulhane_Park,_Istanbul,_2017.jpg/1200px-Bronze_statue_of_Turkish_politician_Mustafa_Kemal_Atatürk,_Gulhane_Park,_Istanbul,_2017.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.979261,41.011204"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Atatürk Heykeli (Gülhane Parkı)

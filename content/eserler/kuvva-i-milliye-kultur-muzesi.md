@@ -1,18 +1,17 @@
 ---
-title: "Kuvva-i Milliye Kültür Müzesi | Miras Haritası"
-date: 2025-12-25T03:39:37+03:00
+title: "Kuvva-i Milliye Kültür Müzesi"
+date: "2025-12-25T03:39:37+03:00"
 slug: "kuvva-i-milliye-kultur-muzesi"
 description: "## Kuvva-i Milliye Kültür Müzesi..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: ["Burhaniye (ilçe)"]
+iller: '["Burhaniye (ilçe)"]'
 district: "Burhaniye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.9810925,39.5038795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuvva-i Milliye Kültür Müzesi

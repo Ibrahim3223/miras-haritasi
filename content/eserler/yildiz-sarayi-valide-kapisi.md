@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Sarayı Valide Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:02+03:00
+title: "Yıldız Sarayı Valide Kapısı"
+date: "2025-12-25T15:37:02+03:00"
 slug: "yildiz-sarayi-valide-kapisi"
 description: "## Yıldız Sarayı Valide Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.01117288,41.04980729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldız Sarayı Valide Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Şebsafa Kadın Camii | Miras Haritası"
-date: 2025-12-24T22:01:21+03:00
+title: "Şebsafa Kadın Camii"
+date: "2025-12-24T22:01:21+03:00"
 slug: "sebsafa-kadin-camii"
 description: "## Şebsafa Kadın Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Şepsefa_Hatun_Mosque.jpg/1200px-Şepsefa_Hatun_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.958868,41.019355"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şebsafa Kadın Camii

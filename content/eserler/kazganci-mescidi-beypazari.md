@@ -1,18 +1,17 @@
 ---
-title: "Kazgancı Mescidi, Beypazarı | Miras Haritası"
-date: 2025-12-25T01:02:04+03:00
+title: "Kazgancı Mescidi, Beypazarı"
+date: "2025-12-25T01:02:04+03:00"
 slug: "kazganci-mescidi-beypazari"
 description: "## Kazgancı Mescidi: Beypazarı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9188309,40.1720657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazgancı Mescidi: Beypazarı'nın Tarihi Bir Mirası

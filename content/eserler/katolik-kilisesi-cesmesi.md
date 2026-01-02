@@ -1,18 +1,17 @@
 ---
-title: "Katolik Kilisesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:35+03:00
+title: "Katolik Kilisesi Çeşmesi"
+date: "2025-12-25T10:26:35+03:00"
 slug: "katolik-kilisesi-cesmesi"
 description: "## Katolik Kilisesi Çeşmesi: Bir Tarih Öreni..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8553543,39.9348526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Katolik Kilisesi Çeşmesi: Bir Tarih Öreni

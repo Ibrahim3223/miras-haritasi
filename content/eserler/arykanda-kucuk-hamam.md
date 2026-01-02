@@ -1,18 +1,17 @@
 ---
-title: "Arykanda Küçük Hamam | Miras Haritası"
-date: 2025-12-25T16:56:10+03:00
+title: "Arykanda Küçük Hamam"
+date: "2025-12-25T16:56:10+03:00"
 slug: "arykanda-kucuk-hamam"
 description: "### Arykanda Küçük Hamamı: Antik Dönemin Gizli Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.0599461,36.5126534"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arykanda Küçük Hamamı: Antik Dönemin Gizli Harikası

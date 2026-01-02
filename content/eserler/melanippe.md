@@ -1,18 +1,17 @@
 ---
-title: "Melanippe | Miras Haritası"
-date: 2025-12-25T04:27:53+03:00
+title: "Melanippe"
+date: "2025-12-25T04:27:53+03:00"
 slug: "melanippe"
 description: "## Melanippe: Antik Yunan Kültürünün Efsanevi Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.40496,36.25488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Melanippe: Antik Yunan Kültürünün Efsanevi Mirası

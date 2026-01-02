@@ -1,18 +1,17 @@
 ---
-title: "Nakşidil Valide Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:04:31+03:00
+title: "Nakşidil Valide Sultan Çeşmesi"
+date: "2025-12-25T11:04:31+03:00"
 slug: "naksidil-valide-sultan-cesmesi"
 description: "### Nakşidil Valide Sultan Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.980259,41.006187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nakşidil Valide Sultan Çeşmesi

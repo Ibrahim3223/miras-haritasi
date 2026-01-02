@@ -1,18 +1,17 @@
 ---
-title: "Helvacı Ana Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:25+03:00
+title: "Helvacı Ana Türbesi"
+date: "2025-12-25T14:54:25+03:00"
 slug: "helvaci-ana-turbesi"
 description: "## Helvacı Ana Türbesi: Beyoğlu'ndaki Tarihi Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9733715,41.0430984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Helvacı Ana Türbesi: Beyoğlu'ndaki Tarihi Bir Anıt

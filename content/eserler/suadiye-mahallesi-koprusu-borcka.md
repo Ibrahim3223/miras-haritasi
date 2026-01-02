@@ -1,18 +1,17 @@
 ---
-title: "Suadiye Mahallesi Köprüsü, Borçka | Miras Haritası"
-date: 2025-12-25T02:55:25+03:00
+title: "Suadiye Mahallesi Köprüsü, Borçka"
+date: "2025-12-25T02:55:25+03:00"
 slug: "suadiye-mahallesi-koprusu-borcka"
 description: "### Suadiye Mahallesi Köprüsü, Borçka..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.670235,41.447359"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Suadiye Mahallesi Köprüsü, Borçka

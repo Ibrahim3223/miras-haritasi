@@ -1,18 +1,17 @@
 ---
-title: "Cinsosman Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:38+03:00
+title: "Cinsosman Mahallesi Çeşmesi"
+date: "2025-12-25T11:26:38+03:00"
 slug: "cinsosman-mahallesi-cesmesi"
 description: "## Cinsosman Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6683578,39.1023293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cinsosman Mahallesi Çeşmesi

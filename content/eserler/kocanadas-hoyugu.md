@@ -1,18 +1,17 @@
 ---
-title: "Kocanadas Höyüğü | Miras Haritası"
-date: 2025-12-25T06:06:14+03:00
+title: "Kocanadas Höyüğü"
+date: "2025-12-25T06:06:14+03:00"
 slug: "kocanadas-hoyugu"
 description: "## Kocanadas Höyüğü: Akhisar'daki Eski Kentin Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.769104,38.8564301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocanadas Höyüğü: Akhisar'daki Eski Kentin Gizemi

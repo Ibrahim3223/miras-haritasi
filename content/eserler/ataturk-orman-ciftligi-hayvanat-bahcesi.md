@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Orman Çiftliği Hayvanat Bahçesi | Miras Haritası"
-date: 2025-12-25T03:07:59+03:00
+title: "Atatürk Orman Çiftliği Hayvanat Bahçesi"
+date: "2025-12-25T03:07:59+03:00"
 slug: "ataturk-orman-ciftligi-hayvanat-bahcesi"
 description: "## Atatürk Orman Çiftliği Hayvanat Bahçesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/AOC_hayvanat_bahcesi.jpg/1200px-AOC_hayvanat_bahcesi.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.79176,39.946488"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Atatürk Orman Çiftliği Hayvanat Bahçesi

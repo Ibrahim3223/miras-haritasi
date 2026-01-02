@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Zengi Ali Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:16+03:00
+title: "Şeyh Zengi Ali Baba Türbesi"
+date: "2025-12-25T14:38:16+03:00"
 slug: "seyh-zengi-ali-baba-turbesi"
 description: "**Şeyh Zengi Ali Baba Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9722373,41.0115903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Zengi Ali Baba Türbesi**

@@ -1,18 +1,17 @@
 ---
-title: "Kapucu Camii | Miras Haritası"
-date: 2025-12-24T23:39:12+03:00
+title: "Kapucu Camii"
+date: "2025-12-24T23:39:12+03:00"
 slug: "kapucu-camii"
 description: "## Kapucu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırşehir"
+province: "Kırşehir"
+iller: '["Kırşehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.1605492,39.1440239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapucu Camii

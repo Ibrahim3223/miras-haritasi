@@ -1,18 +1,17 @@
 ---
-title: "Svirevani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:58+03:00
+title: "Svirevani Kilisesi"
+date: "2025-12-25T09:07:58+03:00"
 slug: "svirevani-kilisesi"
 description: "## Svirevani Kilisesi: Dutlu, Şavşat'ta Bir Geçmişin Ölümsüz Kalıntıları..."
 featured_image: ""
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Dutlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.285047222,41.365675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Svirevani Kilisesi: Dutlu, Şavşat'ta Bir Geçmişin Ölümsüz Kalıntıları

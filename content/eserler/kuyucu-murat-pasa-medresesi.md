@@ -1,18 +1,17 @@
 ---
-title: "Kuyucu Murat Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:29:43+03:00
+title: "Kuyucu Murat Paşa Medresesi"
+date: "2025-12-25T17:29:43+03:00"
 slug: "kuyucu-murat-pasa-medresesi"
 description: "## Kuyucu Murat Paşa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.959923,41.011532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuyucu Murat Paşa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

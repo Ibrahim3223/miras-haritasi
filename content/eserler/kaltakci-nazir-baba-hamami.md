@@ -1,18 +1,17 @@
 ---
-title: "Kaltakçı Nazır Baba Hamamı | Miras Haritası"
-date: 2025-12-25T16:57:47+03:00
+title: "Kaltakçı Nazır Baba Hamamı"
+date: "2025-12-25T16:57:47+03:00"
 slug: "kaltakci-nazir-baba-hamami"
 description: "## Kaltakçı Nazır Baba Hamamı: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.8416424,37.8548203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaltakçı Nazır Baba Hamamı: Aydın'ın Tarihi Bir Mirası

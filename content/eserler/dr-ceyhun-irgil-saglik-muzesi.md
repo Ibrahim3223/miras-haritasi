@@ -1,18 +1,17 @@
 ---
-title: "Dr. Ceyhun İrgil Sağlık Müzesi | Miras Haritası"
-date: 2025-12-25T04:00:59+03:00
+title: "Dr. Ceyhun İrgil Sağlık Müzesi"
+date: "2025-12-25T04:00:59+03:00"
 slug: "dr-ceyhun-irgil-saglik-muzesi"
 description: "## Dr. Ceyhun İrgil Sağlık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/20241224_Dr._Ceyhun_İrgil_Müzesi_10.jpg/1200px-20241224_Dr._Ceyhun_İrgil_Müzesi_10.jpg"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.983073601,40.214960049"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dr. Ceyhun İrgil Sağlık Müzesi

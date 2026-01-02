@@ -1,18 +1,17 @@
 ---
-title: "Kirmitli Höyük | Miras Haritası"
-date: 2025-12-25T06:34:29+03:00
+title: "Kirmitli Höyük"
+date: "2025-12-25T06:34:29+03:00"
 slug: "kirmitli-hoyuk"
 description: "## Kirmitli Höyük: Hatay'ın Gizli Klasik Çağ Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.416672,36.610725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kirmitli Höyük: Hatay'ın Gizli Klasik Çağ Mirası

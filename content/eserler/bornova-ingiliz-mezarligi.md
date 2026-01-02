@@ -1,18 +1,17 @@
 ---
-title: "Bornova İngiliz Mezarlığı | Miras Haritası"
-date: 2025-12-25T16:05:40+03:00
+title: "Bornova İngiliz Mezarlığı"
+date: "2025-12-25T16:05:40+03:00"
 slug: "bornova-ingiliz-mezarligi"
 description: "## Bornova İngiliz Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bornova_İngiliz_Mezarlığı_2.jpg/1200px-Bornova_İngiliz_Mezarlığı_2.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.21065,38.45954"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bornova İngiliz Mezarlığı

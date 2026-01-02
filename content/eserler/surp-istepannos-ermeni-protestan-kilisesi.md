@@ -1,18 +1,17 @@
 ---
-title: "Surp İstepannos Ermeni Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:46+03:00
+title: "Surp İstepannos Ermeni Protestan Kilisesi"
+date: "2025-12-25T09:31:46+03:00"
 slug: "surp-istepannos-ermeni-protestan-kilisesi"
 description: "## Surp İstepannos Ermeni Protestan Kilisesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.4036503,40.7817841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp İstepannos Ermeni Protestan Kilisesi

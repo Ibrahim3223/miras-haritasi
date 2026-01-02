@@ -1,18 +1,17 @@
 ---
-title: "Tahtakale Camii | Miras Haritası"
-date: 2025-12-24T23:14:10+03:00
+title: "Tahtakale Camii"
+date: "2025-12-24T23:14:10+03:00"
 slug: "tahtakale-camii"
 description: "### Tahtakale Camii: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7353497,38.0861588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tahtakale Camii: Tarihi ve Mimari Özellikleri

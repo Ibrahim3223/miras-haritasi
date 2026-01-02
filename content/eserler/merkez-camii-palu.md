@@ -1,18 +1,17 @@
 ---
-title: "Merkez Camii, Palu | Miras Haritası"
-date: 2025-12-25T00:28:07+03:00
+title: "Merkez Camii, Palu"
+date: "2025-12-25T00:28:07+03:00"
 slug: "merkez-camii-palu"
 description: "## Merkez Camii, Palu..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Palu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.9493942,38.7048836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merkez Camii, Palu

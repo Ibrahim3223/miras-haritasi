@@ -1,18 +1,17 @@
 ---
-title: "Narco | Miras Haritası"
-date: 2025-12-25T05:25:02+03:00
+title: "Narco"
+date: "2025-12-25T05:25:02+03:00"
 slug: "narco"
 description: "## Narco: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.469038,41.346417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Narco: Bir Arkeolojik Sitin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Pir Ahmed Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:27+03:00
+title: "Pir Ahmed Türbesi"
+date: "2025-12-25T15:23:27+03:00"
 slug: "pir-ahmed-turbesi"
 description: "## Pir Ahmed Türbesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.6025085,40.39571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pir Ahmed Türbesi

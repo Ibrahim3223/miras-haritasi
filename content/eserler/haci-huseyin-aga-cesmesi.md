@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hüseyin Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:15+03:00
+title: "Hacı Hüseyin Ağa Çeşmesi"
+date: "2025-12-25T11:16:15+03:00"
 slug: "haci-huseyin-aga-cesmesi"
 description: "## Hacı Hüseyin Ağa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Demirtaş"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.965005,41.018487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hüseyin Ağa Çeşmesi

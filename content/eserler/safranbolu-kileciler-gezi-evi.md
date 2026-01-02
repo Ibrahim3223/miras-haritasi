@@ -1,18 +1,17 @@
 ---
-title: "Safranbolu Kileciler Gezi Evi | Miras Haritası"
-date: 2025-12-25T03:48:49+03:00
+title: "Safranbolu Kileciler Gezi Evi"
+date: "2025-12-25T03:48:49+03:00"
 slug: "safranbolu-kileciler-gezi-evi"
 description: "## Safranbolu Kileciler Gezi Evi..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.694701,41.242616"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Safranbolu Kileciler Gezi Evi

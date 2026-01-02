@@ -1,18 +1,17 @@
 ---
-title: "Melikli Mahallesi Tahtalı Camii, Giresun | Miras Haritası"
-date: 2025-12-25T01:10:10+03:00
+title: "Melikli Mahallesi Tahtalı Camii, Giresun"
+date: "2025-12-25T01:10:10+03:00"
 slug: "melikli-mahallesi-tahtali-camii-giresun"
 description: "## Melikli Mahallesi Tahtalı Camii, Giresun..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.304987,40.769183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Melikli Mahallesi Tahtalı Camii, Giresun

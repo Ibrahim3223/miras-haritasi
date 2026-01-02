@@ -1,18 +1,17 @@
 ---
-title: "Demir Baba Çeşmesi, Ödemiş | Miras Haritası"
-date: 2025-12-25T12:03:20+03:00
+title: "Demir Baba Çeşmesi, Ödemiş"
+date: "2025-12-25T12:03:20+03:00"
 slug: "demir-baba-cesmesi-odemis"
 description: "## Demir Baba Çeşmesi, Ödemiş..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0624161,38.2473679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demir Baba Çeşmesi, Ödemiş

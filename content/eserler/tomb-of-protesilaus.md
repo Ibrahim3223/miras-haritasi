@@ -1,18 +1,17 @@
 ---
-title: "Tomb of Protesilaus | Miras Haritası"
-date: 2025-12-25T07:26:25+03:00
+title: "Tomb of Protesilaus"
+date: "2025-12-25T07:26:25+03:00"
 slug: "tomb-of-protesilaus"
 description: "## Tomb of Protesilaus: Elaeus'taki Tarihi Anıtı Keşfetmek..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Elaeus"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.189,40.0447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tomb of Protesilaus: Elaeus'taki Tarihi Anıtı Keşfetmek

@@ -1,18 +1,17 @@
 ---
-title: "Surp Karasun Manuk Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T08:48:15+03:00
+title: "Surp Karasun Manuk Ermeni Kilisesi"
+date: "2025-12-25T08:48:15+03:00"
 slug: "surp-karasun-manuk-ermeni-kilisesi"
 description: "### Surp Karasun Manuk Ermeni Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "İskenderun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.170318,36.589335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Karasun Manuk Ermeni Kilisesi

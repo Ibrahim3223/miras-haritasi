@@ -1,18 +1,17 @@
 ---
-title: "Halil Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:54:46+03:00
+title: "Halil Paşa Camii"
+date: "2025-12-24T22:54:46+03:00"
 slug: "halil-pasa-camii"
 description: "## Halil Paşa Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Akşemsettin"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9495831,41.0171509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Paşa Camii

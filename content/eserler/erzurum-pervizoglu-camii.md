@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Pervizoğlu Camii | Miras Haritası"
-date: 2025-12-24T21:47:02+03:00
+title: "Erzurum Pervizoğlu Camii"
+date: "2025-12-24T21:47:02+03:00"
 slug: "erzurum-pervizoglu-camii"
 description: "**Erzurum Pervizoğlu Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Erzurum_Pervizoğlu_Camii.jpg/1200px-Erzurum_Pervizoğlu_Camii.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.274361111,39.909277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Erzurum Pervizoğlu Camii**

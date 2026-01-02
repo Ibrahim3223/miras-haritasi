@@ -1,18 +1,17 @@
 ---
-title: "Hacı Veled Camii | Miras Haritası"
-date: 2025-12-24T23:28:20+03:00
+title: "Hacı Veled Camii"
+date: "2025-12-24T23:28:20+03:00"
 slug: "haci-veled-camii"
 description: "## Hacı Veled Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4941978,38.714222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Veled Camii Tanıtımı

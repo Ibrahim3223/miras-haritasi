@@ -1,18 +1,17 @@
 ---
-title: "Bursa Ormancılık Müzesi | Miras Haritası"
-date: 2025-12-25T03:22:05+03:00
+title: "Bursa Ormancılık Müzesi"
+date: "2025-12-25T03:22:05+03:00"
 slug: "bursa-ormancilik-muzesi"
 description: "### Bursa Ormancılık Müzesi Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bursa_Forestry_Museum_Exterior_7500.jpg/1200px-Bursa_Forestry_Museum_Exterior_7500.jpg"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.030748,40.200615"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bursa Ormancılık Müzesi Tanıtımı

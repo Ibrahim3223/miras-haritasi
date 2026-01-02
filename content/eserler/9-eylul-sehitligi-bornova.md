@@ -1,18 +1,17 @@
 ---
-title: "9 Eylül Şehitliği, Bornova | Miras Haritası"
-date: 2025-12-25T16:00:22+03:00
+title: "9 Eylül Şehitliği, Bornova"
+date: "2025-12-25T16:00:22+03:00"
 slug: "9-eylul-sehitligi-bornova"
 description: "### 9 Eylül Şehitliği, Bornova..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2111816,38.4579659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### 9 Eylül Şehitliği, Bornova

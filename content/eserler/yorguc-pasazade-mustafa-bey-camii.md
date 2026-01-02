@@ -1,18 +1,17 @@
 ---
-title: "Yörgüç Paşazade Mustafa Bey Camii | Miras Haritası"
-date: 2025-12-24T23:45:21+03:00
+title: "Yörgüç Paşazade Mustafa Bey Camii"
+date: "2025-12-24T23:45:21+03:00"
 slug: "yorguc-pasazade-mustafa-bey-camii"
 description: "## Yörgüç Paşazade Mustafa Bey Camii: Samsun'un Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.657139,40.971232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yörgüç Paşazade Mustafa Bey Camii: Samsun'un Tarihi Mirası

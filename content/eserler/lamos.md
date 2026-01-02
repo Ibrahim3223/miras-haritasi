@@ -1,18 +1,17 @@
 ---
-title: "Lamos | Miras Haritası"
-date: 2025-12-25T04:25:35+03:00
+title: "Lamos"
+date: "2025-12-25T04:25:35+03:00"
 slug: "lamos"
 description: "## Lamos Arkeolojik Sitesi: Antalya'nın Gizli Çarpıntısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.450373,36.240622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lamos Arkeolojik Sitesi: Antalya'nın Gizli Çarpıntısı

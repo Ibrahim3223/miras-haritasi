@@ -1,18 +1,17 @@
 ---
-title: "Baba Yusuf Bayrami Kabri | Miras Haritası"
-date: 2025-12-25T13:59:49+03:00
+title: "Baba Yusuf Bayrami Kabri"
+date: "2025-12-25T13:59:49+03:00"
 slug: "baba-yusuf-bayrami-kabri"
 description: "## Baba Yusuf Bayrami Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9333973,41.0483284"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baba Yusuf Bayrami Kabri

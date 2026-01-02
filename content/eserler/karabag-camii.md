@@ -1,18 +1,17 @@
 ---
-title: "Karabağ Camii | Miras Haritası"
-date: 2025-12-24T23:40:09+03:00
+title: "Karabağ Camii"
+date: "2025-12-24T23:40:09+03:00"
 slug: "karabag-camii"
 description: "## Karabağ Camii: Muğla'nın Tarihi Bir Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.5590134,37.419796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabağ Camii: Muğla'nın Tarihi Bir Anıtı

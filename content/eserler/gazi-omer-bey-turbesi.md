@@ -1,18 +1,17 @@
 ---
-title: "Gazi Ömer Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:47+03:00
+title: "Gazi Ömer Bey Türbesi"
+date: "2025-12-25T15:26:47+03:00"
 slug: "gazi-omer-bey-turbesi"
 description: "# Gazi Ömer Bey Türbesi..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: ["İstanbul Vilayeti"]
+iller: '["İstanbul Vilayeti"]'
 district: "Malkara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.9039536,40.8928528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gazi Ömer Bey Türbesi

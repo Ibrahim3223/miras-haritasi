@@ -1,18 +1,17 @@
 ---
-title: "Peterek Kalesi | Miras Haritası"
-date: 2025-12-25T01:15:15+03:00
+title: "Peterek Kalesi"
+date: "2025-12-25T01:15:15+03:00"
 slug: "peterek-kalesi"
 description: "## Peterek Kalesi: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Პეტერეკის_ციხე.png/1200px-Პეტერეკის_ციხე.png"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.480952,40.746005"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Peterek Kalesi: Artvin'in Tarihi ve Kültürel Mirası

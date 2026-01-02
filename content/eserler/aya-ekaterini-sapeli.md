@@ -1,18 +1,17 @@
 ---
-title: "Aya Ekaterini Şapeli | Miras Haritası"
-date: 2025-12-25T09:44:04+03:00
+title: "Aya Ekaterini Şapeli"
+date: "2025-12-25T09:44:04+03:00"
 slug: "aya-ekaterini-sapeli"
 description: "# Aya Ekaterini Şapeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0245018,40.9800644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aya Ekaterini Şapeli

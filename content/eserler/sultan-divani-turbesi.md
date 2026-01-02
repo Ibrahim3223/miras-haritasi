@@ -1,18 +1,17 @@
 ---
-title: "Sultan Divanı Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:15+03:00
+title: "Sultan Divanı Türbesi"
+date: "2025-12-25T15:18:15+03:00"
 slug: "sultan-divani-turbesi"
 description: "## Sultan Divanı Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5334,38.7537"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Divanı Türbesi

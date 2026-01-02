@@ -1,18 +1,17 @@
 ---
-title: "Fuat Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:54+03:00
+title: "Fuat Paşa Çeşmesi"
+date: "2025-12-25T10:18:54+03:00"
 slug: "fuat-pasa-cesmesi"
 description: "## Fuat Paşa Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9749107,39.4250107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fuat Paşa Çeşmesi

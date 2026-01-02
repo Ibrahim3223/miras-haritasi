@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Karkamış İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:46+03:00
+title: "Gaziantep Karkamış İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:50:46+03:00"
 slug: "gaziantep-karkamis-ilce-halk-kutuphanesi"
 description: "## Gaziantep Karkamış İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Karkamış"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "37.999440535,36.836417477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaziantep Karkamış İlçe Halk Kütüphanesi

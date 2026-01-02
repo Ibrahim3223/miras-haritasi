@@ -1,18 +1,17 @@
 ---
-title: "Pınarbaşı, Karaman Höyüğü | Miras Haritası"
-date: 2025-12-25T08:15:54+03:00
+title: "Pınarbaşı, Karaman Höyüğü"
+date: "2025-12-25T08:15:54+03:00"
 slug: "pinarbasi-karaman-hoyugu"
 description: "**Pınarbaşı, Karaman Höyüğü: Konya'nın Gizli Tarihî Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.0192,37.4939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Pınarbaşı, Karaman Höyüğü: Konya'nın Gizli Tarihî Mirası**

@@ -1,18 +1,17 @@
 ---
-title: "Alemizade Camii | Miras Haritası"
-date: 2025-12-25T00:42:30+03:00
+title: "Alemizade Camii"
+date: "2025-12-25T00:42:30+03:00"
 slug: "alemizade-camii"
 description: "# Alemizade Camii: Edremit'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.025039496,39.596809928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alemizade Camii: Edremit'in Gizli Çeşmesi

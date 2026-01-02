@@ -1,18 +1,17 @@
 ---
-title: "Kilise Kalıntısı, Halkalı | Miras Haritası"
-date: 2025-12-25T09:42:53+03:00
+title: "Kilise Kalıntısı, Halkalı"
+date: "2025-12-25T09:42:53+03:00"
 slug: "kilise-kalintisi-halkali"
 description: "## Kilise Kalıntısı, Halkalı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.7856007,41.028801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilise Kalıntısı, Halkalı

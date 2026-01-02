@@ -1,18 +1,17 @@
 ---
-title: "Atabey Cami | Miras Haritası"
-date: 2025-12-24T22:14:18+03:00
+title: "Atabey Cami"
+date: "2025-12-24T22:14:18+03:00"
 slug: "atabey-cami"
 description: "## Atabey Cami: Isparta'nın Büyüleyici Cami Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Isparta"
+province: "Isparta"
+iller: '["Isparta"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.636059,37.950812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atabey Cami: Isparta'nın Büyüleyici Cami Mirası

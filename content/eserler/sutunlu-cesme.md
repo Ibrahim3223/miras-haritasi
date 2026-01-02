@@ -1,18 +1,17 @@
 ---
-title: "Sütunlu Çeşme | Miras Haritası"
-date: 2025-12-25T10:25:06+03:00
+title: "Sütunlu Çeşme"
+date: "2025-12-25T10:25:06+03:00"
 slug: "sutunlu-cesme"
 description: "## Sütunlu Çeşme..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.288269,39.7868805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sütunlu Çeşme

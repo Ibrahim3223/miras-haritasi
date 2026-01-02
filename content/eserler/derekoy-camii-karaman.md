@@ -1,18 +1,17 @@
 ---
-title: "Dereköy Camii, Karaman | Miras Haritası"
-date: 2025-12-25T00:53:10+03:00
+title: "Dereköy Camii, Karaman"
+date: "2025-12-25T00:53:10+03:00"
 slug: "derekoy-camii-karaman"
 description: "## Dereköy Camii: Karaman'ın Gizli Müktesebatı..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2693787,37.125679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dereköy Camii: Karaman'ın Gizli Müktesebatı

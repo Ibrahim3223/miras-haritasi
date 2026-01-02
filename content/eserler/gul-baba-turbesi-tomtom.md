@@ -1,18 +1,17 @@
 ---
-title: "Gül Baba Türbesi, Tomtom | Miras Haritası"
-date: 2025-12-25T15:31:42+03:00
+title: "Gül Baba Türbesi, Tomtom"
+date: "2025-12-25T15:31:42+03:00"
 slug: "gul-baba-turbesi-tomtom"
 description: "## Gül Baba Türbesi, Tomtom..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9784737,41.0311623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gül Baba Türbesi, Tomtom

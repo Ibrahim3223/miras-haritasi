@@ -1,18 +1,17 @@
 ---
-title: "Kadı Höyük | Miras Haritası"
-date: 2025-12-25T06:32:44+03:00
+title: "Kadı Höyük"
+date: "2025-12-25T06:32:44+03:00"
 slug: "kadi-hoyuk"
 description: "### Kadı Höyük: Türkiye'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Akçakent ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9728457,39.6987197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadı Höyük: Türkiye'nin Gizli Anıtı

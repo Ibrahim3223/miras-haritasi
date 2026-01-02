@@ -1,18 +1,17 @@
 ---
-title: "Surp Asdvadzadzin Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:32+03:00
+title: "Surp Asdvadzadzin Ermeni Kilisesi"
+date: "2025-12-25T09:35:32+03:00"
 slug: "surp-asdvadzadzin-ermeni-kilisesi"
 description: "## Surp Asdvadzadzin Ermeni Kilisesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Gürün"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.271864,38.722668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Asdvadzadzin Ermeni Kilisesi

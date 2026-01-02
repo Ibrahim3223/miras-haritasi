@@ -1,18 +1,17 @@
 ---
-title: "Yüreğir Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:13+03:00
+title: "Yüreğir Saat Kulesi"
+date: "2025-12-25T17:21:13+03:00"
 slug: "yuregir-saat-kulesi"
 description: "## Yüreğir Saat Kulesi: Adana'nın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yüreğir Saat Kulesi: Adana'nın Tarihi ve Kültürel Mirasının Bir Parçası

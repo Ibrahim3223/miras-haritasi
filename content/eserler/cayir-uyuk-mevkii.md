@@ -1,18 +1,17 @@
 ---
-title: "Çayır Üyük Mevkii | Miras Haritası"
-date: 2025-12-25T05:36:02+03:00
+title: "Çayır Üyük Mevkii"
+date: "2025-12-25T05:36:02+03:00"
 slug: "cayir-uyuk-mevkii"
 description: "## Çayır Üyük Mevkii: Uşak'ın Esrarlı Arkeolojik Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Sivaslı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.565417,38.563517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayır Üyük Mevkii: Uşak'ın Esrarlı Arkeolojik Mirası

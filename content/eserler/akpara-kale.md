@@ -1,18 +1,17 @@
 ---
-title: "Akpara Kale | Miras Haritası"
-date: 2025-12-25T01:19:49+03:00
+title: "Akpara Kale"
+date: "2025-12-25T01:19:49+03:00"
 slug: "akpara-kale"
 description: "## Akpara Kale: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.7147388,39.2290955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akpara Kale: Eskişehir'in Gizli Mirası

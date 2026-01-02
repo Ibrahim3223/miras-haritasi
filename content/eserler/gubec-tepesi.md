@@ -1,18 +1,17 @@
 ---
-title: "Gubeç Tepesi | Miras Haritası"
-date: 2025-12-25T06:37:47+03:00
+title: "Gubeç Tepesi"
+date: "2025-12-25T06:37:47+03:00"
 slug: "gubec-tepesi"
 description: "### Giriş..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Sarıgöl"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.7088525,38.3358392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

@@ -1,18 +1,17 @@
 ---
-title: "Fırat Viyadüğü | Miras Haritası"
-date: 2025-12-25T01:57:06+03:00
+title: "Fırat Viyadüğü"
+date: "2025-12-25T01:57:06+03:00"
 slug: "firat-viyadugu"
 description: "## Fırat Viyadüğü: Tarihsel Bir Köprü Çöplüğü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.9051,37.0489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fırat Viyadüğü: Tarihsel Bir Köprü Çöplüğü

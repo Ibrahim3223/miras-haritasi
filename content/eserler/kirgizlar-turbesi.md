@@ -1,18 +1,17 @@
 ---
-title: "Kırgızlar Türbesi | Miras Haritası"
-date: 2025-12-25T15:09:21+03:00
+title: "Kırgızlar Türbesi"
+date: "2025-12-25T15:09:21+03:00"
 slug: "kirgizlar-turbesi"
 description: "## İznik'teki Kırgızlar Türbesi: Bir Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/İznik_-_Kırgızlar_Türbesi.jpg/1200px-İznik_-_Kırgızlar_Türbesi.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.718722222,40.421111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İznik'teki Kırgızlar Türbesi: Bir Kültür Mirası

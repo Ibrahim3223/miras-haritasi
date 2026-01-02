@@ -1,18 +1,17 @@
 ---
-title: "Ahi Bayram Türbesi, Çine | Miras Haritası"
-date: 2025-12-25T13:54:16+03:00
+title: "Ahi Bayram Türbesi, Çine"
+date: "2025-12-25T13:54:16+03:00"
 slug: "ahi-bayram-turbesi-cine"
 description: "## Ahi Bayram Türbesi, Çine..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.0658455,37.5386734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Bayram Türbesi, Çine

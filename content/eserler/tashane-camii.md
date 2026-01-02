@@ -1,18 +1,17 @@
 ---
-title: "Taşhane Camii | Miras Haritası"
-date: 2025-12-24T23:14:54+03:00
+title: "Taşhane Camii"
+date: "2025-12-24T23:14:54+03:00"
 slug: "tashane-camii"
 description: "## Taşhane Camii: Rize'nin Tarihî ve Kültürel Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Rize"
+province: "Rize"
+iller: '["Rize"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.74864,41.10661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşhane Camii: Rize'nin Tarihî ve Kültürel Bir Mirası

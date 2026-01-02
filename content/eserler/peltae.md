@@ -1,18 +1,17 @@
 ---
-title: "Peltae | Miras Haritası"
-date: 2025-12-25T04:32:39+03:00
+title: "Peltae"
+date: "2025-12-25T04:32:39+03:00"
 slug: "peltae"
 description: "## Peltae Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Peltae Arkeolojik Sit

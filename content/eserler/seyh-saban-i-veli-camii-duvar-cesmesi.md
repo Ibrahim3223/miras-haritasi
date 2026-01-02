@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Şaban-ı Veli Camii Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:25+03:00
+title: "Şeyh Şaban-ı Veli Camii Duvar Çeşmesi"
+date: "2025-12-25T10:45:25+03:00"
 slug: "seyh-saban-i-veli-camii-duvar-cesmesi"
 description: "## Şeyh Şaban-ı Veli Camii Duvar Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7641182,41.3744278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Şaban-ı Veli Camii Duvar Çeşmesi

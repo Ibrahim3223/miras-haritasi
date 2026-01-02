@@ -1,18 +1,17 @@
 ---
-title: "Kara Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:27:14+03:00
+title: "Kara Tepe Tümülüsü"
+date: "2025-12-25T07:27:14+03:00"
 slug: "kara-tepe-tumulusu"
 description: "**Kara Tepe Tümülüsü**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.6478885,38.7605644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kara Tepe Tümülüsü**

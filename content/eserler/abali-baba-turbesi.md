@@ -1,18 +1,17 @@
 ---
-title: "Abalı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:48+03:00
+title: "Abalı Baba Türbesi"
+date: "2025-12-25T15:17:48+03:00"
 slug: "abali-baba-turbesi"
 description: "## Abalı Baba Türbesi: Yenimahalle'nin Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.751613,40.063979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abalı Baba Türbesi: Yenimahalle'nin Kültürel Mirası

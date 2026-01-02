@@ -1,18 +1,17 @@
 ---
-title: "Tut Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:00:20+03:00
+title: "Tut Ulu Camii"
+date: "2025-12-24T22:00:20+03:00"
 slug: "tut-ulu-camii"
 description: "### Tut Ulu Camii: Adıyaman'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Tut"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.914888888,37.794277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tut Ulu Camii: Adıyaman'ın Tarihi Bir Anıtı

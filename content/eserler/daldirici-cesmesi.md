@@ -1,18 +1,17 @@
 ---
-title: "Daldırıcı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:20:35+03:00
+title: "Daldırıcı Çeşmesi"
+date: "2025-12-25T10:20:35+03:00"
 slug: "daldirici-cesmesi"
 description: "## Daldırıcı Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4124527,38.3665085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daldırıcı Çeşmesi

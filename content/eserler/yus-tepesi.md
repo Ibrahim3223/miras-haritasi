@@ -1,18 +1,17 @@
 ---
-title: "Yuşâ Tepesi | Miras Haritası"
-date: 2025-12-25T14:11:28+03:00
+title: "Yuşâ Tepesi"
+date: "2025-12-25T14:11:28+03:00"
 slug: "yus-tepesi"
 description: "## Yuşâ Tepesi: Beykoz'un Tarihî bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.08525,41.16255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yuşâ Tepesi: Beykoz'un Tarihî bir Anıtı

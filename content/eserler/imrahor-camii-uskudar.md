@@ -1,18 +1,17 @@
 ---
-title: "İmrahor Camii (Üsküdar) | Miras Haritası"
-date: 2025-12-24T21:43:35+03:00
+title: "İmrahor Camii (Üsküdar)"
+date: "2025-12-24T21:43:35+03:00"
 slug: "imrahor-camii-uskudar"
 description: "### İmrahor Camii: Üsküdar'ın Tarihî Bir Zenginliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/İmrahor_Mosque,_Üsküdar.jpg/1200px-İmrahor_Mosque,_Üsküdar.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Salacak"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.010305555,41.021416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İmrahor Camii: Üsküdar'ın Tarihî Bir Zenginliği

@@ -1,18 +1,17 @@
 ---
-title: "Adıyaman Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:58:44+03:00
+title: "Adıyaman Ulu Camii"
+date: "2025-12-24T21:58:44+03:00"
 slug: "adiyaman-ulu-camii"
 description: "## Adıyaman Ulu Camii: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.277388888,37.7595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adıyaman Ulu Camii: Tarihi ve Kültürel Mirasın Bir Parçası

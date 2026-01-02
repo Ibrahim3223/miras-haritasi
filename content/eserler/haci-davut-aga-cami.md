@@ -1,18 +1,17 @@
 ---
-title: "Hacı Davut Ağa Cami | Miras Haritası"
-date: 2025-12-24T23:26:05+03:00
+title: "Hacı Davut Ağa Cami"
+date: "2025-12-24T23:26:05+03:00"
 slug: "haci-davut-aga-cami"
 description: "## Hacı Davut Ağa Cami: Kocaeli'nin Gizli Pearlları..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.7800446,40.7098007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Davut Ağa Cami: Kocaeli'nin Gizli Pearlları

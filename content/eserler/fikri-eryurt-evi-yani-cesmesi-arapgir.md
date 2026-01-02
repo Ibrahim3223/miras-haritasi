@@ -1,18 +1,17 @@
 ---
-title: "Fikri Eryurt Evi Yanı Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:25:44+03:00
+title: "Fikri Eryurt Evi Yanı Çeşmesi, Arapgir"
+date: "2025-12-25T12:25:44+03:00"
 slug: "fikri-eryurt-evi-yani-cesmesi-arapgir"
 description: "# Fikri Eryurt Evi Yanı Çeşmesi: Arapgir'in Bir Öreni..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.495076497,39.037112355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Fikri Eryurt Evi Yanı Çeşmesi: Arapgir'in Bir Öreni

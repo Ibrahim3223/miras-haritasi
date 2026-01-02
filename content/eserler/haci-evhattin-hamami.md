@@ -1,18 +1,17 @@
 ---
-title: "Hacı Evhattin Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:32+03:00
+title: "Hacı Evhattin Hamamı"
+date: "2025-12-25T16:40:32+03:00"
 slug: "haci-evhattin-hamami"
 description: "## Hacı Evhattin Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.924003,40.997124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Evhattin Hamamı

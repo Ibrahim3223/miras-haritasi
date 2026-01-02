@@ -1,18 +1,17 @@
 ---
-title: "Üsküdar Üniversitesi Tıp Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:58:06+03:00
+title: "Üsküdar Üniversitesi Tıp Kütüphanesi"
+date: "2025-12-25T17:58:06+03:00"
 slug: "uskudar-universitesi-tip-kutuphanesi"
 description: "## Üsküdar Üniversitesi Tıp Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ayhan-songar-kutuphanesi-9.jpg/1200px-Ayhan-songar-kutuphanesi-9.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.114468,41.029973"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Üsküdar Üniversitesi Tıp Kütüphanesi

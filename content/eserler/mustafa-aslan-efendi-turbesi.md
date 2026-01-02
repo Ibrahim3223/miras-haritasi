@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Aslan Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:26+03:00
+title: "Mustafa Aslan Efendi Türbesi"
+date: "2025-12-25T15:20:26+03:00"
 slug: "mustafa-aslan-efendi-turbesi"
 description: "## Mustafa Aslan Efendi Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6139565,39.8104057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Aslan Efendi Türbesi

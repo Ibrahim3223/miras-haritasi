@@ -1,18 +1,17 @@
 ---
-title: "Küçük Kargluhi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:17+03:00
+title: "Küçük Kargluhi Kilisesi"
+date: "2025-12-25T09:01:17+03:00"
 slug: "kucuk-kargluhi-kilisesi"
 description: "## Küçük Karglıhi Kilisesi: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Yünören"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.292138888,40.641694444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Karglıhi Kilisesi: Tarihi ve Kültürel Mirasının Bir Parçası

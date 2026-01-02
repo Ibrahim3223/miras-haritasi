@@ -1,18 +1,17 @@
 ---
-title: "Vazelon Manastırı | Miras Haritası"
-date: 2025-12-25T08:41:13+03:00
+title: "Vazelon Manastırı"
+date: "2025-12-25T08:41:13+03:00"
 slug: "vazelon-manastiri"
 description: "## Vazelon Manastırı: Trabzon'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kloster_Vazelon_Hauptgebaeude_Juli_2014.jpg/1200px-Kloster_Vazelon_Hauptgebaeude_Juli_2014.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka (ilçe)"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.5299871,40.7598347"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Vazelon Manastırı: Trabzon'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Gökçeoğlu Mescidi | Miras Haritası"
-date: 2025-12-25T00:38:22+03:00
+title: "Gökçeoğlu Mescidi"
+date: "2025-12-25T00:38:22+03:00"
 slug: "gokceoglu-mescidi"
 description: "## Gökçeoğlu Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8559875,39.9399414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökçeoğlu Mescidi

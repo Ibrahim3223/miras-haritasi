@@ -1,18 +1,17 @@
 ---
-title: "Çağlayık Yazılıtaş 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:21:33+03:00
+title: "Çağlayık Yazılıtaş 1 Tümülüsü"
+date: "2025-12-25T07:21:33+03:00"
 slug: "caglayik-yazilitas-1-tumulusu"
 description: "## Çağlayık Yazılıtaş 1 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3757591,42.0026627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlayık Yazılıtaş 1 Tümülüsü

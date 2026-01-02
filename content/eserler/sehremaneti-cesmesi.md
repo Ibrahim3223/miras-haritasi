@@ -1,18 +1,17 @@
 ---
-title: "Şehremaneti Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:09:47+03:00
+title: "Şehremaneti Çeşmesi"
+date: "2025-12-25T12:09:47+03:00"
 slug: "sehremaneti-cesmesi"
 description: "**Şehremaneti Çeşmesi: Kadıköy'de Bir İmparatorluk Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.085032,40.978689"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şehremaneti Çeşmesi: Kadıköy'de Bir İmparatorluk Mirası**

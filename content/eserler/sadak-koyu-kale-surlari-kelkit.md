@@ -1,18 +1,17 @@
 ---
-title: "Sadak Köyü Kale Surları, Kelkit | Miras Haritası"
-date: 2025-12-25T01:43:33+03:00
+title: "Sadak Köyü Kale Surları, Kelkit"
+date: "2025-12-25T01:43:33+03:00"
 slug: "sadak-koyu-kale-surlari-kelkit"
 description: "## Sadak Köyü Kale Surları, Kelkit..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kelkit"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.595796,40.028751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sadak Köyü Kale Surları, Kelkit

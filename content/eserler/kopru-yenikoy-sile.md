@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Yeniköy-Şile | Miras Haritası"
-date: 2025-12-25T02:54:19+03:00
+title: "Köprü, Yeniköy-Şile"
+date: "2025-12-25T02:54:19+03:00"
 slug: "kopru-yenikoy-sile"
 description: "## Köprü, Yeniköy-Şile..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.6492882,41.1226082"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprü, Yeniköy-Şile

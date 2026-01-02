@@ -1,18 +1,17 @@
 ---
-title: "Köprübaşı Tümülüsü 1 | Miras Haritası"
-date: 2025-12-25T07:39:41+03:00
+title: "Köprübaşı Tümülüsü 1"
+date: "2025-12-25T07:39:41+03:00"
 slug: "koprubasi-tumulusu-1"
 description: "## Köprübaşı Tümülüsü 1: Bünyan'ın Gizli İnsanları..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Bünyan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.0290985,38.6888199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprübaşı Tümülüsü 1: Bünyan'ın Gizli İnsanları

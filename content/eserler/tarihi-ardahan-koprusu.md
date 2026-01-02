@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Ardahan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:49+03:00
+title: "Tarihi Ardahan Köprüsü"
+date: "2025-12-25T02:18:49+03:00"
 slug: "tarihi-ardahan-koprusu"
 description: "# Tarihi Ardahan Köprüsü..."
 featured_image: ""
-province: "Kars Oblastı"
-iller: ["Kars Oblastı"]
-district: "Ardahan"
+province: "Ardahan"
+iller: '["Ardahan"]'
+district: "Kars Oblastı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.701046,41.1156921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tarihi Ardahan Köprüsü

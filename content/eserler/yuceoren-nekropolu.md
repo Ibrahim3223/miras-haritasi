@@ -1,18 +1,17 @@
 ---
-title: "Yüceören Nekropolü | Miras Haritası"
-date: 2025-12-25T05:42:06+03:00
+title: "Yüceören Nekropolü"
+date: "2025-12-25T05:42:06+03:00"
 slug: "yuceoren-nekropolu"
 description: "## Yüceören Nekropolü: Adana'nın Gizli Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Ceyhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.9239426,36.9504356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yüceören Nekropolü: Adana'nın Gizli Mirası

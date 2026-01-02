@@ -1,18 +1,17 @@
 ---
-title: "Terme Höyük | Miras Haritası"
-date: 2025-12-25T06:02:18+03:00
+title: "Terme Höyük"
+date: "2025-12-25T06:02:18+03:00"
 slug: "terme-hoyuk"
 description: "## Terme Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.5426636,40.3764801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terme Höyük: Tarihî Bir Mirasın İzleri

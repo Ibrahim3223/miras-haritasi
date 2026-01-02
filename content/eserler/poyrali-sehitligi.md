@@ -1,18 +1,17 @@
 ---
-title: "Poyralı Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:58+03:00
+title: "Poyralı Şehitliği"
+date: "2025-12-25T16:00:58+03:00"
 slug: "poyrali-sehitligi"
 description: "### Poyralı Şehitliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.6083698,41.6278992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Poyralı Şehitliği

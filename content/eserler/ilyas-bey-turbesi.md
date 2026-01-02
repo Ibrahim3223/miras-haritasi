@@ -1,18 +1,17 @@
 ---
-title: "İlyas Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:59+03:00
+title: "İlyas Bey Türbesi"
+date: "2025-12-25T14:17:59+03:00"
 slug: "ilyas-bey-turbesi"
 description: "## İlyas Bey Türbesi: Gebze'nin Tarihi Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4405994,40.7998238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlyas Bey Türbesi: Gebze'nin Tarihi Mirası

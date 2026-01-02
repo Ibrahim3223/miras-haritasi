@@ -1,18 +1,17 @@
 ---
-title: "Hoca Müftü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:03+03:00
+title: "Hoca Müftü Çeşmesi"
+date: "2025-12-25T10:45:03+03:00"
 slug: "hoca-muftu-cesmesi"
 description: "## Hoca Müftü Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.523201,39.7643738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Müftü Çeşmesi

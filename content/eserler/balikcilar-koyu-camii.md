@@ -1,18 +1,17 @@
 ---
-title: "Balıkçılar Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:36:35+03:00
+title: "Balıkçılar Köyü Camii"
+date: "2025-12-25T00:36:35+03:00"
 slug: "balikcilar-koyu-camii"
 description: "**Balıkçılar Köyü Camii**..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.648869186,41.060672219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Balıkçılar Köyü Camii**

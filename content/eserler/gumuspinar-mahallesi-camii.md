@@ -1,18 +1,17 @@
 ---
-title: "Gümüşpınar Mahallesi Camii | Miras Haritası"
-date: 2025-12-25T00:22:02+03:00
+title: "Gümüşpınar Mahallesi Camii"
+date: "2025-12-25T00:22:02+03:00"
 slug: "gumuspinar-mahallesi-camii"
 description: "## Gümüşpınar Mahallesi Camii: Çayeli, Rize'nin Önemli Dinî Miraslarından Birisidir..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.786992219,40.982736162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüşpınar Mahallesi Camii: Çayeli, Rize'nin Önemli Dinî Miraslarından Birisidir

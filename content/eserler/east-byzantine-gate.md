@@ -1,18 +1,17 @@
 ---
-title: "East Byzantine Gate | Miras Haritası"
-date: 2025-12-25T13:15:02+03:00
+title: "East Byzantine Gate"
+date: "2025-12-25T13:15:02+03:00"
 slug: "east-byzantine-gate"
 description: "## Doğu Roma Kapısı: Denizli'nin Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Laodicea_East-Byzantine-Gate_20240929_084952.jpg/1200px-Laodicea_East-Byzantine-Gate_20240929_084952.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1110596,37.8352184"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Doğu Roma Kapısı: Denizli'nin Tarihî Mirası

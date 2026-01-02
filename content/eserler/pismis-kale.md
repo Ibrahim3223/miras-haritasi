@@ -1,18 +1,17 @@
 ---
-title: "Pişmiş Kale | Miras Haritası"
-date: 2025-12-25T01:46:02+03:00
+title: "Pişmiş Kale"
+date: "2025-12-25T01:46:02+03:00"
 slug: "pismis-kale"
 description: "### Pişmiş Kale..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.725702,39.215775"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pişmiş Kale

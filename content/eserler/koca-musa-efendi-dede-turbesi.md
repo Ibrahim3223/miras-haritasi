@@ -1,18 +1,17 @@
 ---
-title: "Koca Musa Efendi Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:01:25+03:00
+title: "Koca Musa Efendi Dede Türbesi"
+date: "2025-12-25T15:01:25+03:00"
 slug: "koca-musa-efendi-dede-turbesi"
 description: "## Koca Musa Efendi Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3744068,37.8526955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Musa Efendi Dede Türbesi

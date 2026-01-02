@@ -1,18 +1,17 @@
 ---
-title: "Mahzemin Höyük | Miras Haritası"
-date: 2025-12-25T06:06:30+03:00
+title: "Mahzemin Höyük"
+date: "2025-12-25T06:06:30+03:00"
 slug: "mahzemin-hoyuk"
 description: "**Mahzemin Höyük: Kayseri'nin Gizemli Mirası**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.320571345,38.858685763"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mahzemin Höyük: Kayseri'nin Gizemli Mirası**

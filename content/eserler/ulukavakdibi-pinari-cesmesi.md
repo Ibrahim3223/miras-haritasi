@@ -1,18 +1,17 @@
 ---
-title: "Ulukavakdibi Pınarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:30:50+03:00
+title: "Ulukavakdibi Pınarı Çeşmesi"
+date: "2025-12-25T11:30:50+03:00"
 slug: "ulukavakdibi-pinari-cesmesi"
 description: "## Ulukavakdibi Pınarı Çeşmesi..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6943588,41.2440948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulukavakdibi Pınarı Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Yeğenbey Camii | Miras Haritası"
-date: 2025-12-25T00:38:02+03:00
+title: "Yeğenbey Camii"
+date: "2025-12-25T00:38:02+03:00"
 slug: "yegenbey-camii"
 description: "# Yeğenbey Camii: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8595505,39.9387093"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yeğenbey Camii: Ankara'nın Tarihi ve Kültürel Mirası

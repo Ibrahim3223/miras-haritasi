@@ -1,18 +1,17 @@
 ---
-title: "Hoşvan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:29+03:00
+title: "Hoşvan Kilisesi"
+date: "2025-12-25T09:01:29+03:00"
 slug: "hosvan-kilisesi"
 description: "## Hoşvan Kilisesi: Yeşilbağlar'daki Gizli Çan Kulesi..."
 featured_image: ""
 province: "Olur"
-iller: ["Olur"]
+iller: '["Olur"]'
 district: "Yeşilbağlar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.126955555,40.795083333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoşvan Kilisesi: Yeşilbağlar'daki Gizli Çan Kulesi

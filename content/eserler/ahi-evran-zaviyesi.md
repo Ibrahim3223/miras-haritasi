@@ -1,18 +1,17 @@
 ---
-title: "Ahi Evran Zaviyesi | Miras Haritası"
-date: 2025-12-24T21:48:15+03:00
+title: "Ahi Evran Zaviyesi"
+date: "2025-12-24T21:48:15+03:00"
 slug: "ahi-evran-zaviyesi"
 description: "## Ahi Evran Zaviyesi: Kırşehir'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kirahievran.jpg/1200px-Kirahievran.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırşehir"
+province: "Kırşehir"
+iller: '["Kırşehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.159232,39.148227"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahi Evran Zaviyesi: Kırşehir'in Tarihi Bir Mirası

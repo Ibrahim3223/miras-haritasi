@@ -1,18 +1,17 @@
 ---
-title: "Yeşilvadi Camii | Miras Haritası"
-date: 2025-12-24T21:44:46+03:00
+title: "Yeşilvadi Camii"
+date: "2025-12-24T21:44:46+03:00"
 slug: "yesilvadi-camii"
 description: "## Yeşilvadi Camii: Fatih Sultan Mehmet'in Ümraniye'deki Ziyaretgahı..."
 featured_image: ""
-province: "Ümraniye"
-iller: ["Ümraniye"]
-district: "Fatih Sultan Mehmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Ümraniye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.126222222,41.028305555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşilvadi Camii: Fatih Sultan Mehmet'in Ümraniye'deki Ziyaretgahı

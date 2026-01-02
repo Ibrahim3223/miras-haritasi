@@ -1,18 +1,17 @@
 ---
-title: "Çifte Hamam, Soma | Miras Haritası"
-date: 2025-12-25T17:06:44+03:00
+title: "Çifte Hamam, Soma"
+date: "2025-12-25T17:06:44+03:00"
 slug: "cifte-hamam-soma"
 description: "## Çifte Hamam, Soma: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Soma"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.6053123,39.1798096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çifte Hamam, Soma: Manisa'nın Tarihi Bir Mirası

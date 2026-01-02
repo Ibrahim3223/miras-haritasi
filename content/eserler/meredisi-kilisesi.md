@@ -1,18 +1,17 @@
 ---
-title: "Meredisi Kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:39+03:00
+title: "Meredisi Kilisesi"
+date: "2025-12-25T08:58:39+03:00"
 slug: "meredisi-kilisesi"
 description: "## Meredisi Kilisesi: Gölebakan'daki Bir Geçmişin Mirası..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Gölebakan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.131305555,41.051444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meredisi Kilisesi: Gölebakan'daki Bir Geçmişin Mirası

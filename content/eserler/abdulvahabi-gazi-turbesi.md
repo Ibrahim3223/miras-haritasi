@@ -1,18 +1,17 @@
 ---
-title: "Abdulvahabi Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:53+03:00
+title: "Abdulvahabi Gazi Türbesi"
+date: "2025-12-25T15:07:53+03:00"
 slug: "abdulvahabi-gazi-turbesi"
 description: "### Abdulvahabi Gazi Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0331955,39.7573204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdulvahabi Gazi Türbesi

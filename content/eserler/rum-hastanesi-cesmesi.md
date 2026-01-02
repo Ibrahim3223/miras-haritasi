@@ -1,18 +1,17 @@
 ---
-title: "Rum Hastanesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:04+03:00
+title: "Rum Hastanesi Çeşmesi"
+date: "2025-12-25T10:33:04+03:00"
 slug: "rum-hastanesi-cesmesi"
 description: "## Rum Hastanesi Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.544796,37.7035751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rum Hastanesi Çeşmesi

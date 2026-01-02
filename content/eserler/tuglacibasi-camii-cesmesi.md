@@ -1,18 +1,17 @@
 ---
-title: "Tuğlacıbaşı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:46:55+03:00
+title: "Tuğlacıbaşı Camii Çeşmesi"
+date: "2025-12-25T11:46:55+03:00"
 slug: "tuglacibasi-camii-cesmesi"
 description: "### Tuğlacıbaşı Camii Çeşmesi..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Feneryolu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0477238,40.9846382"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tuğlacıbaşı Camii Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Mamure Kalesi | Miras Haritası"
-date: 2025-12-25T01:13:23+03:00
+title: "Mamure Kalesi"
+date: "2025-12-25T01:13:23+03:00"
 slug: "mamure-kalesi"
 description: "## Mamure Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Castle_in_Mamure,_Anamur,_Turkey_from_the_Sea.jpg/1200px-Castle_in_Mamure,_Anamur,_Turkey_from_the_Sea.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.894444444,36.080833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mamure Kalesi

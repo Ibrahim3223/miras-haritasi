@@ -1,18 +1,17 @@
 ---
-title: "Sanayi Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:36+03:00
+title: "Sanayi Müzesi"
+date: "2025-12-25T03:35:36+03:00"
 slug: "sanayi-muzesi"
 description: "## Sanayi Müzesi: Tarih ve Kültür Mirasının İncelenmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sanayi Müzesi: Tarih ve Kültür Mirasının İncelenmesi

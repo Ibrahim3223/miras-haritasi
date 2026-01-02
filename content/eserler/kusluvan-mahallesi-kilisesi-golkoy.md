@@ -1,18 +1,17 @@
 ---
-title: "Kuşluvan Mahallesi Kilisesi Gölköy | Miras Haritası"
-date: 2025-12-25T09:45:24+03:00
+title: "Kuşluvan Mahallesi Kilisesi Gölköy"
+date: "2025-12-25T09:45:24+03:00"
 slug: "kusluvan-mahallesi-kilisesi-golkoy"
 description: "## Kuşluvan Mahallesi Kilisesi Gölköy..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Gölköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.625808,40.621147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuşluvan Mahallesi Kilisesi Gölköy

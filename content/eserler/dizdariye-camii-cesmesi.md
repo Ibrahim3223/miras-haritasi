@@ -1,18 +1,17 @@
 ---
-title: "Dizdariye Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:33+03:00
+title: "Dizdariye Camii Çeşmesi"
+date: "2025-12-25T11:17:33+03:00"
 slug: "dizdariye-camii-cesmesi"
 description: "### Dizdariye Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971615,41.006147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dizdariye Camii Çeşmesi

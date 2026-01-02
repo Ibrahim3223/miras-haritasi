@@ -1,18 +1,17 @@
 ---
-title: "Hevük Kalesi | Miras Haritası"
-date: 2025-12-25T01:30:18+03:00
+title: "Hevük Kalesi"
+date: "2025-12-25T01:30:18+03:00"
 slug: "hevuk-kalesi"
 description: "## Hevük Kalesi: Sivas'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.199814,39.530244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hevük Kalesi: Sivas'ın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Bekar Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:30+03:00
+title: "Bekar Sultan Türbesi"
+date: "2025-12-25T14:50:30+03:00"
 slug: "bekar-sultan-turbesi"
 description: "## Bekar Sultan Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Gülağaç"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.3816223,38.3945732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekar Sultan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Eşref Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:34+03:00
+title: "Eşref Bey Çeşmesi"
+date: "2025-12-25T10:16:34+03:00"
 slug: "esref-bey-cesmesi"
 description: "## Eşref Bey Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.3860435,40.9195976"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eşref Bey Çeşmesi

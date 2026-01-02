@@ -1,18 +1,17 @@
 ---
-title: "Basmacı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:57:41+03:00
+title: "Basmacı Tümülüsü"
+date: "2025-12-25T07:57:41+03:00"
 slug: "basmaci-tumulusu"
 description: "## Basmacı Tümülüsü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Merkez (Uşak)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.155934755,38.680149168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Basmacı Tümülüsü

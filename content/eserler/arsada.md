@@ -1,18 +1,17 @@
 ---
-title: "Arsada | Miras Haritası"
-date: 2025-12-25T05:38:16+03:00
+title: "Arsada"
+date: "2025-12-25T05:38:16+03:00"
 slug: "arsada"
 description: "## Arsada Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.4288148,36.4914729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arsada Arkeolojik Sit

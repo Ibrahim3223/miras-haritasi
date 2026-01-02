@@ -1,18 +1,17 @@
 ---
-title: "Antakya | Miras Haritası"
-date: 2025-12-25T04:18:40+03:00
+title: "Antakya"
+date: "2025-12-25T04:18:40+03:00"
 slug: "antakya"
 description: "### Antakya: Tarih ve Kültürün İncisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antiochia_su_Oronte.PNG/1200px-Antiochia_su_Oronte.PNG"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.181666666,36.204722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Antakya: Tarih ve Kültürün İncisi

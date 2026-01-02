@@ -1,18 +1,17 @@
 ---
-title: "Mysomakedones | Miras Haritası"
-date: 2025-12-25T04:25:19+03:00
+title: "Mysomakedones"
+date: "2025-12-25T04:25:19+03:00"
 slug: "mysomakedones"
 description: "## Mysomakedones: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mysomakedones: Antik Çağın Gizemi

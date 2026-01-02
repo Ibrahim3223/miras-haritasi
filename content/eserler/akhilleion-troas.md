@@ -1,18 +1,17 @@
 ---
-title: "Akhilleion (Troas) | Miras Haritası"
-date: 2025-12-25T06:47:46+03:00
+title: "Akhilleion (Troas)"
+date: "2025-12-25T06:47:46+03:00"
 slug: "akhilleion-troas"
 description: "### Akhilleion (Troas)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.1525,39.915"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akhilleion (Troas)

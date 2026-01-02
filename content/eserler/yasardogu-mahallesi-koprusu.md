@@ -1,18 +1,17 @@
 ---
-title: "Yaşardoğu Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:39:13+03:00
+title: "Yaşardoğu Mahallesi Köprüsü"
+date: "2025-12-25T02:39:13+03:00"
 slug: "yasardogu-mahallesi-koprusu"
 description: "## Yaşardoğu Mahallesi Köprüsü..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.035291,41.067114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yaşardoğu Mahallesi Köprüsü

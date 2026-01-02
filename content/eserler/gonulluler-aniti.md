@@ -1,18 +1,17 @@
 ---
-title: "Gönüllüler Anıtı | Miras Haritası"
-date: 2025-12-25T15:43:16+03:00
+title: "Gönüllüler Anıtı"
+date: "2025-12-25T15:43:16+03:00"
 slug: "gonulluler-aniti"
 description: "## Gönüllüler Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.125972222,38.418222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gönüllüler Anıtı

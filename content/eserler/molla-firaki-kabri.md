@@ -1,18 +1,17 @@
 ---
-title: "Molla Firaki Kabri | Miras Haritası"
-date: 2025-12-25T14:26:04+03:00
+title: "Molla Firaki Kabri"
+date: "2025-12-25T14:26:04+03:00"
 slug: "molla-firaki-kabri"
 description: "## Molla Firaki Kabri: Kütahya'nın Tarihsel ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.984469,39.416447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Firaki Kabri: Kütahya'nın Tarihsel ve Kültürel Mirası

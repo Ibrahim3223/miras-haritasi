@@ -1,18 +1,17 @@
 ---
-title: "Tayboğa Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:55+03:00
+title: "Tayboğa Türbesi"
+date: "2025-12-25T15:00:55+03:00"
 slug: "tayboga-turbesi"
 description: "## Tayboğa Türbesi..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1468086,42.0252037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tayboğa Türbesi

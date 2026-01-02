@@ -1,18 +1,17 @@
 ---
-title: "Damianus Stoası | Miras Haritası"
-date: 2025-12-25T08:19:08+03:00
+title: "Damianus Stoası"
+date: "2025-12-25T08:19:08+03:00"
 slug: "damianus-stoasi"
 description: "## Damianus Stoası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damianus Stoası

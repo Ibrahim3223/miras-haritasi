@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Tevfik Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:42+03:00
+title: "Mehmet Tevfik Bey Çeşmesi"
+date: "2025-12-25T11:26:42+03:00"
 slug: "mehmet-tevfik-bey-cesmesi"
 description: "## Mehmet Tevfik Bey Çeşmesi: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4301682,38.6083908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Tevfik Bey Çeşmesi: Manisa'nın Tarihi ve Kültürel Mirası

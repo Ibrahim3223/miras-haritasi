@@ -1,18 +1,17 @@
 ---
-title: "Mesih Paşa’nın Mezarı | Miras Haritası"
-date: 2025-12-25T14:02:36+03:00
+title: "Mesih Paşa’nın Mezarı"
+date: "2025-12-25T14:02:36+03:00"
 slug: "mesih-pasanin-mezari"
 description: "# Mesih Paşa’nın Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9492435,41.0101624"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mesih Paşa’nın Mezarı

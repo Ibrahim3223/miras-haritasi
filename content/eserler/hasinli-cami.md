@@ -1,18 +1,17 @@
 ---
-title: "Hasinli Cami | Miras Haritası"
-date: 2025-12-24T23:31:10+03:00
+title: "Hasinli Cami"
+date: "2025-12-24T23:31:10+03:00"
 slug: "hasinli-cami"
 description: "## Hasinli Camii: Kayseri'nin Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4902267,38.7145462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasinli Camii: Kayseri'nin Gizli Çehresini Açığa Çıkaran Bir Miras

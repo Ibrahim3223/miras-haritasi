@@ -1,18 +1,17 @@
 ---
-title: "Velibey Hamamı | Miras Haritası"
-date: 2025-12-25T16:32:23+03:00
+title: "Velibey Hamamı"
+date: "2025-12-25T16:32:23+03:00"
 slug: "velibey-hamami"
 description: "## Velibey Hamamı: Şanlıurfa'da Bir Tarihi Anıt..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.7906912,37.1479523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Velibey Hamamı: Şanlıurfa'da Bir Tarihi Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Pharmakia | Miras Haritası"
-date: 2025-12-25T04:48:59+03:00
+title: "Pharmakia"
+date: "2025-12-25T04:48:59+03:00"
 slug: "pharmakia"
 description: "## Pharmakia: Antik İyonya'nın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.049999,41.133339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pharmakia: Antik İyonya'nın Gizemi

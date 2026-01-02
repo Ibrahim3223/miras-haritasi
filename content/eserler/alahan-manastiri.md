@@ -1,18 +1,17 @@
 ---
-title: "Alahan Manastırı | Miras Haritası"
-date: 2025-12-25T03:06:39+03:00
+title: "Alahan Manastırı"
+date: "2025-12-25T03:06:39+03:00"
 slug: "alahan-manastiri"
 description: "## Alahan Manastırı: Mersin'in Gizli Çarpıntısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alahan_Monastery,_Mersin_Province.jpg/1200px-Alahan_Monastery,_Mersin_Province.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.36555556,36.77944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alahan Manastırı: Mersin'in Gizli Çarpıntısı

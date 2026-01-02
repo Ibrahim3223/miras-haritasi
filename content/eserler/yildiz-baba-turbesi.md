@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:25+03:00
+title: "Yıldız Baba Türbesi"
+date: "2025-12-25T14:19:25+03:00"
 slug: "yildiz-baba-turbesi"
 description: "## Yıldız Baba Türbesi: Safranbolu'nun Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Yıldız_Baba_Türbesi_(Mezarı).jpg/1200px-Yıldız_Baba_Türbesi_(Mezarı).jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.6727,41.2568"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yıldız Baba Türbesi: Safranbolu'nun Gizli Çehresi

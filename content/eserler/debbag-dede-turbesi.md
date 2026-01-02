@@ -1,18 +1,17 @@
 ---
-title: "Debbağ Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:36+03:00
+title: "Debbağ Dede Türbesi"
+date: "2025-12-25T15:14:36+03:00"
 slug: "debbag-dede-turbesi"
 description: "## Debbağ Dede Türbesi: Göynük'te Kutsal Yer..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Göynük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.7862,40.3979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Debbağ Dede Türbesi: Göynük'te Kutsal Yer

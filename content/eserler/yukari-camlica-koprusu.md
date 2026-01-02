@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Çamlıca Köprüsü | Miras Haritası"
-date: 2025-12-25T02:02:51+03:00
+title: "Yukarı Çamlıca Köprüsü"
+date: "2025-12-25T02:02:51+03:00"
 slug: "yukari-camlica-koprusu"
 description: "## Yukarı Çamlıca Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.99925,41.0534167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Çamlıca Köprüsü

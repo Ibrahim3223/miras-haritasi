@@ -1,18 +1,17 @@
 ---
-title: "Pılır Höyük | Miras Haritası"
-date: 2025-12-25T06:02:48+03:00
+title: "Pılır Höyük"
+date: "2025-12-25T06:02:48+03:00"
 slug: "pilir-hoyuk"
 description: "## Pılır Höyük: Sivas'ta Gizemli Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.3770943,39.8733177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pılır Höyük: Sivas'ta Gizemli Bir Arkeolojik Sit

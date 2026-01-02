@@ -1,18 +1,17 @@
 ---
-title: "Şible Camii | Miras Haritası"
-date: 2025-12-24T23:13:28+03:00
+title: "Şible Camii"
+date: "2025-12-24T23:13:28+03:00"
 slug: "sible-camii"
 description: "## Şible Camii: Bursa'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/ŞİBLE_CAMİİ_BURSA_-_panoramio.jpg/1200px-ŞİBLE_CAMİİ_BURSA_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0763874,40.180378"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şible Camii: Bursa'nın Gizli Cenneti

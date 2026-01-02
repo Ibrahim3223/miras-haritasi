@@ -1,18 +1,17 @@
 ---
-title: "Bayraklı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:15:00+03:00
+title: "Bayraklı Baba Türbesi"
+date: "2025-12-25T14:15:00+03:00"
 slug: "bayrakli-baba-turbesi"
 description: "## Bayraklı Baba Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6799,40.41"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayraklı Baba Türbesi

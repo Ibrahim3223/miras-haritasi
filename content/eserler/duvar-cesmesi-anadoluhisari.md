@@ -1,18 +1,17 @@
 ---
-title: "Duvar Çeşmesi, Anadoluhisarı | Miras Haritası"
-date: 2025-12-25T12:47:27+03:00
+title: "Duvar Çeşmesi, Anadoluhisarı"
+date: "2025-12-25T12:47:27+03:00"
 slug: "duvar-cesmesi-anadoluhisari"
 description: "## Duvar Çeşmesi, Anadoluhisarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0669327,41.0827408"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Duvar Çeşmesi, Anadoluhisarı

@@ -1,18 +1,17 @@
 ---
-title: "Martyropolis | Miras Haritası"
-date: 2025-12-25T04:34:28+03:00
+title: "Martyropolis"
+date: "2025-12-25T04:34:28+03:00"
 slug: "martyropolis"
 description: "### Martyropolis: Tarihi ve Kültürel Değeri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.001388888,38.142222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Martyropolis: Tarihi ve Kültürel Değeri

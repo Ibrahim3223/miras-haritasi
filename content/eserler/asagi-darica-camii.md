@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Darıca Camii | Miras Haritası"
-date: 2025-12-25T01:03:17+03:00
+title: "Aşağı Darıca Camii"
+date: "2025-12-25T01:03:17+03:00"
 slug: "asagi-darica-camii"
 description: "### Aşağı Darıca Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7952001,40.7322"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşağı Darıca Camii

@@ -1,18 +1,17 @@
 ---
-title: "Yoğurtçu Camii | Miras Haritası"
-date: 2025-12-24T23:45:24+03:00
+title: "Yoğurtçu Camii"
+date: "2025-12-24T23:45:24+03:00"
 slug: "yogurtcu-camii"
 description: "# Yoğurtçu Camii..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: ["Marmara Bölgesi"]
+iller: '["Marmara Bölgesi"]'
 district: "Karesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8746433,39.6521416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yoğurtçu Camii

@@ -1,18 +1,17 @@
 ---
-title: "Kaleköy Kalesi, Malatya | Miras Haritası"
-date: 2025-12-25T01:20:38+03:00
+title: "Kaleköy Kalesi, Malatya"
+date: "2025-12-25T01:20:38+03:00"
 slug: "kalekoy-kalesi-malatya"
 description: "## Kaleköy Kalesi: Malatya'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Kale"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.7342033,38.368206"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleköy Kalesi: Malatya'nın Tarihî ve Kültürel Mirası

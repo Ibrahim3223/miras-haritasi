@@ -1,18 +1,17 @@
 ---
-title: "Bogoroditsa Kilisesi (Karahıdır) | Miras Haritası"
-date: 2025-12-25T09:35:15+03:00
+title: "Bogoroditsa Kilisesi (Karahıdır)"
+date: "2025-12-25T09:35:15+03:00"
 slug: "bogoroditsa-kilisesi-karahidir"
 description: "## Bogoroditsa Kilisesi (Karahıdır)..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.1982841,41.7152901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bogoroditsa Kilisesi (Karahıdır)

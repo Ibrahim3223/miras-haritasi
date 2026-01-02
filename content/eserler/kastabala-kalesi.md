@@ -1,18 +1,17 @@
 ---
-title: "Kastabala Kalesi | Miras Haritası"
-date: 2025-12-25T01:42:25+03:00
+title: "Kastabala Kalesi"
+date: "2025-12-25T01:42:25+03:00"
 slug: "kastabala-kalesi"
 description: "## Kastabala Kalesi..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Osmaniye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.1873779,37.1772499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kastabala Kalesi

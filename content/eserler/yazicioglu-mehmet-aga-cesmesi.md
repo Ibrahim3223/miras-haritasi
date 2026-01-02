@@ -1,18 +1,17 @@
 ---
-title: "Yazıcıoğlu Mehmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:52:01+03:00
+title: "Yazıcıoğlu Mehmet Ağa Çeşmesi"
+date: "2025-12-25T10:52:01+03:00"
 slug: "yazicioglu-mehmet-aga-cesmesi"
 description: "## Yazıcıoğlu Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Dilovası"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.5813007,40.8166008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yazıcıoğlu Mehmet Ağa Çeşmesi

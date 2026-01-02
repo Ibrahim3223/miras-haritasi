@@ -1,18 +1,17 @@
 ---
-title: "Cinli Mescit, Bayındır | Miras Haritası"
-date: 2025-12-25T00:51:10+03:00
+title: "Cinli Mescit, Bayındır"
+date: "2025-12-25T00:51:10+03:00"
 slug: "cinli-mescit-bayindir"
 description: "## Cinli Mescit, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6485748,38.2269363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cinli Mescit, Bayındır

@@ -1,18 +1,17 @@
 ---
-title: "Şükrü Şeker Konağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:48+03:00
+title: "Şükrü Şeker Konağı Çeşmesi"
+date: "2025-12-25T10:17:48+03:00"
 slug: "sukru-seker-konagi-cesmesi"
 description: "# Şükrü Şeker Konağı Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9775505,39.421505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şükrü Şeker Konağı Çeşmesi

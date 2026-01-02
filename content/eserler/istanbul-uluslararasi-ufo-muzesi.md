@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Uluslararası UFO Müzesi | Miras Haritası"
-date: 2025-12-25T03:12:04+03:00
+title: "İstanbul Uluslararası UFO Müzesi"
+date: "2025-12-25T03:12:04+03:00"
 slug: "istanbul-uluslararasi-ufo-muzesi"
 description: "**İstanbul Uluslararası UFO Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Istanbulgrey.jpg/1200px-Istanbulgrey.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **İstanbul Uluslararası UFO Müzesi**

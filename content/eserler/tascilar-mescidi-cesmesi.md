@@ -1,18 +1,17 @@
 ---
-title: "Taşçılar Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:28:26+03:00
+title: "Taşçılar Mescidi Çeşmesi"
+date: "2025-12-25T11:28:26+03:00"
 slug: "tascilar-mescidi-cesmesi"
 description: "## Taşçılar Mescidi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.432003,38.612278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşçılar Mescidi Çeşmesi

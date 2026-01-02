@@ -1,18 +1,17 @@
 ---
-title: "Ammoi | Miras Haritası"
-date: 2025-12-25T04:53:25+03:00
+title: "Ammoi"
+date: "2025-12-25T04:53:25+03:00"
 slug: "ammoi"
 description: "## Ammoi: Türkiye'nin Gizli Şehri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.884702,40.980169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ammoi: Türkiye'nin Gizli Şehri

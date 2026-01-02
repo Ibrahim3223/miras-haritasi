@@ -1,18 +1,17 @@
 ---
-title: "Euagina | Miras Haritası"
-date: 2025-12-25T05:07:34+03:00
+title: "Euagina"
+date: "2025-12-25T05:07:34+03:00"
 slug: "euagina"
 description: "## Euagina Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.011965,38.521909"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Euagina Arkeolojik Sit

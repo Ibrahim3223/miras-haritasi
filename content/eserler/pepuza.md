@@ -1,18 +1,17 @@
 ---
-title: "Pepuza | Miras Haritası"
-date: 2025-12-25T04:23:10+03:00
+title: "Pepuza"
+date: "2025-12-25T04:23:10+03:00"
 slug: "pepuza"
 description: "### Pepuza: Uşak'ın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Uşak"
+province: "Uşak"
+iller: '["Uşak"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.46138889,38.40805556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pepuza: Uşak'ın Gizli Cenneti

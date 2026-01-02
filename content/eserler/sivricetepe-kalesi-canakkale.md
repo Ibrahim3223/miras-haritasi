@@ -1,18 +1,17 @@
 ---
-title: "Sivricetepe Kalesi, Çanakkale | Miras Haritası"
-date: 2025-12-25T01:41:49+03:00
+title: "Sivricetepe Kalesi, Çanakkale"
+date: "2025-12-25T01:41:49+03:00"
 slug: "sivricetepe-kalesi-canakkale"
 description: "## Sivricetepe Kalesi: Çanakkale'nin Gizli Çehresi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.6331768,40.0464096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivricetepe Kalesi: Çanakkale'nin Gizli Çehresi

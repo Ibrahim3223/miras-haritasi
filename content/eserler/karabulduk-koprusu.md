@@ -1,18 +1,17 @@
 ---
-title: "Karabulduk Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:55+03:00
+title: "Karabulduk Köprüsü"
+date: "2025-12-25T02:35:55+03:00"
 slug: "karabulduk-koprusu"
 description: "**Karabulduk Köprüsü**..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Keşap"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.549407,40.821218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karabulduk Köprüsü**

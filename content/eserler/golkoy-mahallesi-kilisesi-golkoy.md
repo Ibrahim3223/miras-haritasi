@@ -1,18 +1,17 @@
 ---
-title: "Gölköy Mahallesi Kilisesi Gölköy | Miras Haritası"
-date: 2025-12-25T09:44:27+03:00
+title: "Gölköy Mahallesi Kilisesi Gölköy"
+date: "2025-12-25T09:44:27+03:00"
 slug: "golkoy-mahallesi-kilisesi-golkoy"
 description: "## Gölköy Mahallesi Kilisesi: Geçmişin Eserleri Arasındaki Düzenlisinin Gizemi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Gölköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.612792,40.614592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gölköy Mahallesi Kilisesi: Geçmişin Eserleri Arasındaki Düzenlisinin Gizemi

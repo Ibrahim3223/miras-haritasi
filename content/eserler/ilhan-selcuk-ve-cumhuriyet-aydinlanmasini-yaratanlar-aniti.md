@@ -1,18 +1,17 @@
 ---
-title: "İlhan Selçuk ve Cumhuriyet Aydınlanmasını Yaratanlar Anıtı | Miras Haritası"
-date: 2025-12-25T15:41:54+03:00
+title: "İlhan Selçuk ve Cumhuriyet Aydınlanmasını Yaratanlar Anıtı"
+date: "2025-12-25T15:41:54+03:00"
 slug: "ilhan-selcuk-ve-cumhuriyet-aydinlanmasini-yaratanlar-aniti"
 description: "### İlhan Selçuk ve Cumhuriyet Aydınlanmasını Yaratanlar Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/İlhan_Selçuk_veTürk_Aydınlanmasını_Yaratanlar_Heykeli.JPG/1200px-İlhan_Selçuk_veTürk_Aydınlanmasını_Yaratanlar_Heykeli.JPG"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Kültür"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.027638888,41.075583333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İlhan Selçuk ve Cumhuriyet Aydınlanmasını Yaratanlar Anıtı

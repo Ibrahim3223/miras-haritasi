@@ -1,18 +1,17 @@
 ---
-title: "Alınyayla Köyü Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:15:12+03:00
+title: "Alınyayla Köyü Çeşmesi 1"
+date: "2025-12-25T10:15:12+03:00"
 slug: "alinyayla-koyu-cesmesi-1"
 description: "**Alınyayla Köyü Çeşmesi 1**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.101738,40.5297852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Alınyayla Köyü Çeşmesi 1**

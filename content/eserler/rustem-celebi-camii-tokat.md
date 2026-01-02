@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Çelebi Camii, Tokat | Miras Haritası"
-date: 2025-12-24T23:17:05+03:00
+title: "Rüstem Çelebi Camii, Tokat"
+date: "2025-12-24T23:17:05+03:00"
 slug: "rustem-celebi-camii-tokat"
 description: "### Rüstem Çelebi Camii, Tokat Tanıtımı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5442429,40.3165855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rüstem Çelebi Camii, Tokat Tanıtımı

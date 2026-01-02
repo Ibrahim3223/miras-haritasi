@@ -1,18 +1,17 @@
 ---
-title: "Kyparodes | Miras Haritası"
-date: 2025-12-25T04:50:03+03:00
+title: "Kyparodes"
+date: "2025-12-25T04:50:03+03:00"
 slug: "kyparodes"
 description: "## Kyparodes Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.054166666,41.104444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kyparodes Arkeolojik Sit

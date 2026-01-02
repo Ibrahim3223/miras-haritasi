@@ -1,18 +1,17 @@
 ---
-title: "Komana Pontika | Miras Haritası"
-date: 2025-12-25T04:31:20+03:00
+title: "Komana Pontika"
+date: "2025-12-25T04:31:20+03:00"
 slug: "komana-pontika"
 description: "## Komana Pontika: Tokat'taki Antik Kent..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.6385916,40.3573694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Komana Pontika: Tokat'taki Antik Kent

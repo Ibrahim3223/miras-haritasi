@@ -1,18 +1,17 @@
 ---
-title: "Kaynakkaya Camii | Miras Haritası"
-date: 2025-12-25T00:40:54+03:00
+title: "Kaynakkaya Camii"
+date: "2025-12-25T00:40:54+03:00"
 slug: "kaynakkaya-camii"
 description: "## Kaynakkaya Camii: Mardin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Ömerli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.930456,37.338619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaynakkaya Camii: Mardin'in Tarihi ve Kültürel Mirası

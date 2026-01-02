@@ -1,18 +1,17 @@
 ---
-title: "Emir Ali Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:13:34+03:00
+title: "Emir Ali Baba Türbesi"
+date: "2025-12-25T14:13:34+03:00"
 slug: "emir-ali-baba-turbesi"
 description: "### Emir Ali Baba Türbesi: Çanakkale'nin Gizli Mührü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.679948,40.417418"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Emir Ali Baba Türbesi: Çanakkale'nin Gizli Mührü

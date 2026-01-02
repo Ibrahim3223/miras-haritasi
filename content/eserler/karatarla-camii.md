@@ -1,18 +1,17 @@
 ---
-title: "Karatarla Camii | Miras Haritası"
-date: 2025-12-24T23:43:25+03:00
+title: "Karatarla Camii"
+date: "2025-12-24T23:43:25+03:00"
 slug: "karatarla-camii"
 description: "## Karatarla Camii: Gaziantep'in Tarihi bir Çarı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3859367,37.0618629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karatarla Camii: Gaziantep'in Tarihi bir Çarı

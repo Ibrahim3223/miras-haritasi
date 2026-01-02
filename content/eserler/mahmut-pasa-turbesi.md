@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:17+03:00
+title: "Mahmut Paşa Türbesi"
+date: "2025-12-25T15:12:17+03:00"
 slug: "mahmut-pasa-turbesi"
 description: "### Mahmut Paşa Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2852424,39.9052787"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mahmut Paşa Türbesi

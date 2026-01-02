@@ -1,18 +1,17 @@
 ---
-title: "Hasan Padişah Camii | Miras Haritası"
-date: 2025-12-24T23:31:26+03:00
+title: "Hasan Padişah Camii"
+date: "2025-12-24T23:31:26+03:00"
 slug: "hasan-padisah-camii"
 description: "### Hasan Padişah Camii: Şanlıurfa'nın Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7875862,37.1474342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hasan Padişah Camii: Şanlıurfa'nın Kültürel Mirası

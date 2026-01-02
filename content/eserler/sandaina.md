@@ -1,18 +1,17 @@
 ---
-title: "Sandaina | Miras Haritası"
-date: 2025-12-25T05:22:29+03:00
+title: "Sandaina"
+date: "2025-12-25T05:22:29+03:00"
 slug: "sandaina"
 description: "### Sandaina: Manisa'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Soma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.673701999,39.196476"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sandaina: Manisa'nın Gizli Ören Yeri

@@ -1,18 +1,17 @@
 ---
-title: "Emir Bayandur Camii ve Türbesi | Miras Haritası"
-date: 2025-12-24T22:18:36+03:00
+title: "Emir Bayandur Camii ve Türbesi"
+date: "2025-12-24T22:18:36+03:00"
 slug: "emir-bayandur-camii-ve-turbesi"
 description: "**Emir Bayandur Camii ve Türbesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Akhlat_5.jpg/1200px-Akhlat_5.jpg"
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.4588,38.74722"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Emir Bayandur Camii ve Türbesi**

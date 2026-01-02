@@ -1,18 +1,17 @@
 ---
-title: "İbadullah Camii | Miras Haritası"
-date: 2025-12-24T23:33:51+03:00
+title: "İbadullah Camii"
+date: "2025-12-24T23:33:51+03:00"
 slug: "ibadullah-camii"
 description: "## İbadullah Camii: Altındağ'da Bir Miras..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8578758,39.9395332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbadullah Camii: Altındağ'da Bir Miras

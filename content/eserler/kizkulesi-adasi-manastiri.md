@@ -1,18 +1,17 @@
 ---
-title: "Kızkulesi Adası Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:33+03:00
+title: "Kızkulesi Adası Manastırı"
+date: "2025-12-25T09:53:33+03:00"
 slug: "kizkulesi-adasi-manastiri"
 description: "### Kızkulesi Adası Manastırı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "31.4614105,37.780696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızkulesi Adası Manastırı

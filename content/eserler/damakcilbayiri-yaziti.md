@@ -1,18 +1,17 @@
 ---
-title: "Damakcılbayırı Yazıtı | Miras Haritası"
-date: 2025-12-25T15:55:34+03:00
+title: "Damakcılbayırı Yazıtı"
+date: "2025-12-25T15:55:34+03:00"
 slug: "damakcilbayiri-yaziti"
 description: "## Damakcılbayırı Yazıtı: Eceabat'ın Gizli Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2794571,40.2674904"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damakcılbayırı Yazıtı: Eceabat'ın Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Cevizlerkaşı Sokak Mescidi | Miras Haritası"
-date: 2025-12-25T00:47:51+03:00
+title: "Cevizlerkaşı Sokak Mescidi"
+date: "2025-12-25T00:47:51+03:00"
 slug: "cevizlerkasi-sokak-mescidi"
 description: "## Cevizlerkaşı Sokak Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9228992,40.1706009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevizlerkaşı Sokak Mescidi

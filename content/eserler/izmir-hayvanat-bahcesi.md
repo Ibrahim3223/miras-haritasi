@@ -1,18 +1,17 @@
 ---
-title: "İzmir Hayvanat Bahçesi | Miras Haritası"
-date: 2025-12-25T03:09:10+03:00
+title: "İzmir Hayvanat Bahçesi"
+date: "2025-12-25T03:09:10+03:00"
 slug: "izmir-hayvanat-bahcesi"
 description: "## İzmir Hayvanat Bahçesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/İzmir_Kültürpark_Hayvanat_bahçesi.JPG/1200px-İzmir_Kültürpark_Hayvanat_bahçesi.JPG"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.148333333,38.4275"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İzmir Hayvanat Bahçesi

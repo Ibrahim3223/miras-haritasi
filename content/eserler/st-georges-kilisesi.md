@@ -1,18 +1,17 @@
 ---
-title: "St. George’s Kilisesi | Miras Haritası"
-date: 2025-12-25T09:43:57+03:00
+title: "St. George’s Kilisesi"
+date: "2025-12-25T09:43:57+03:00"
 slug: "st-georges-kilisesi"
 description: "## St. George's Kilisesi: Osmanlı Dönemi'nin Aziz George'a Adanmış Örgütlü Kilisesi..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Bahçeköy Kemer"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9623566,41.1908836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## St. George's Kilisesi: Osmanlı Dönemi'nin Aziz George'a Adanmış Örgütlü Kilisesi

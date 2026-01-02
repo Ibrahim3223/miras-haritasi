@@ -1,18 +1,17 @@
 ---
-title: "Grave of İsmet İnönü | Miras Haritası"
-date: 2025-12-25T13:24:12+03:00
+title: "Grave of İsmet İnönü"
+date: "2025-12-25T13:24:12+03:00"
 slug: "grave-of-ismet-inonu"
 description: "## İsmet İnönü'nin Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Inonu_Tomb.JPG/1200px-Inonu_Tomb.JPG"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İsmet İnönü'nin Mezarı

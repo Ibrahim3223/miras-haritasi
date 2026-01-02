@@ -1,18 +1,17 @@
 ---
-title: "Habib Hoca Camii | Miras Haritası"
-date: 2025-12-24T23:25:37+03:00
+title: "Habib Hoca Camii"
+date: "2025-12-24T23:25:37+03:00"
 slug: "habib-hoca-camii"
 description: "### Habib Hoca Camii: Edirne'nin Gizli Çehresini Açığa Çıkaran Tarihi Bir Miras..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6843529,41.2629013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Habib Hoca Camii: Edirne'nin Gizli Çehresini Açığa Çıkaran Tarihi Bir Miras

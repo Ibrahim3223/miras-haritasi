@@ -1,18 +1,17 @@
 ---
-title: "İstiklâl Savaşı Şehitliği, Bursa | Miras Haritası"
-date: 2025-12-25T15:59:55+03:00
+title: "İstiklâl Savaşı Şehitliği, Bursa"
+date: "2025-12-25T15:59:55+03:00"
 slug: "istikll-savasi-sehitligi-bursa"
 description: "### İstiklâl Savaşı Şehitliği, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0574265,40.1867676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İstiklâl Savaşı Şehitliği, Bursa

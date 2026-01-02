@@ -1,18 +1,17 @@
 ---
-title: "Yarbay Hüseyin Avni Bey Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:39+03:00
+title: "Yarbay Hüseyin Avni Bey Şehitliği"
+date: "2025-12-25T16:00:39+03:00"
 slug: "yarbay-huseyin-avni-bey-sehitligi"
 description: "## Yarbay Hüseyin Avni Bey Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2940998,40.2328529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarbay Hüseyin Avni Bey Şehitliği

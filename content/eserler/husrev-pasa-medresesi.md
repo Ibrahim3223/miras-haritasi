@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:43+03:00
+title: "Hüsrev Paşa Medresesi"
+date: "2025-12-25T17:32:43+03:00"
 slug: "husrev-pasa-medresesi"
 description: "## Hüsrev Paşa Medresesi..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "İpekyolu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "43.3386879,38.4984245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsrev Paşa Medresesi

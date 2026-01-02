@@ -1,18 +1,17 @@
 ---
-title: "Bilal Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:12+03:00
+title: "Bilal Dede Türbesi"
+date: "2025-12-25T15:03:12+03:00"
 slug: "bilal-dede-turbesi"
 description: "# Bilal Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.6634769,37.7687073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bilal Dede Türbesi

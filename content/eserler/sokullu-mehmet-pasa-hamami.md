@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T08:37:02+03:00
+title: "Sokullu Mehmet Paşa Hamamı"
+date: "2025-12-25T08:37:02+03:00"
 slug: "sokullu-mehmet-pasa-hamami"
 description: "## Sokullu Mehmet Paşa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lüleburgaz_-_Sokullu_Mehmet_Paşa_Hammam_-_20250531164129.jpg/1200px-Lüleburgaz_-_Sokullu_Mehmet_Paşa_Hammam_-_20250531164129.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "27.351777777,41.408166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sokullu Mehmet Paşa Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Ulu Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:14:12+03:00
+title: "Ulu Sultan Türbesi"
+date: "2025-12-25T14:14:12+03:00"
 slug: "ulu-sultan-turbesi"
 description: "## Ulu Sultan Türbesi..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.27782,39.68351"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulu Sultan Türbesi

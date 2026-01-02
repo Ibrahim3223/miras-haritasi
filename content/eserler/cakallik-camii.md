@@ -1,18 +1,17 @@
 ---
-title: "Çakallık Camii | Miras Haritası"
-date: 2025-12-25T00:14:21+03:00
+title: "Çakallık Camii"
+date: "2025-12-25T00:14:21+03:00"
 slug: "cakallik-camii"
 description: "## Çakallık Camii: Antalya'nın Göçerler için Yüce Kulesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.104447,36.917399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakallık Camii: Antalya'nın Göçerler için Yüce Kulesi

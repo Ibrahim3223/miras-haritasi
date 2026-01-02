@@ -1,18 +1,17 @@
 ---
-title: "Demirci Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:44+03:00
+title: "Demirci Roma Köprüsü"
+date: "2025-12-25T02:32:44+03:00"
 slug: "demirci-roma-koprusu"
 description: "## Demirci Roma Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.2196007,41.4329987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirci Roma Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Mevlana Müzesi | Miras Haritası"
-date: 2025-12-25T03:06:50+03:00
+title: "Mevlana Müzesi"
+date: "2025-12-25T03:06:50+03:00"
 slug: "mevlana-muzesi"
 description: "## Mevlana Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Molavi1.JPG/1200px-Molavi1.JPG"
-province: "Konya Vilayeti"
-iller: ["Konya Vilayeti"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: "Konya Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.50472222,37.87055556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mevlana Müzesi

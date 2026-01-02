@@ -1,18 +1,17 @@
 ---
-title: "Medrese | Miras Haritası"
-date: 2025-12-25T17:42:08+03:00
+title: "Medrese"
+date: "2025-12-25T17:42:08+03:00"
 slug: "medrese"
 description: "## İncirliova Medresesi: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.6801395,37.8675423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncirliova Medresesi: Aydın'ın Tarihi Bir Mirası

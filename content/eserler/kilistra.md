@@ -1,18 +1,17 @@
 ---
-title: "Kilistra | Miras Haritası"
-date: 2025-12-25T05:07:23+03:00
+title: "Kilistra"
+date: "2025-12-25T05:07:23+03:00"
 slug: "kilistra"
 description: "### Kilistra: Türkiye'nin Eski Dünya Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.21053,37.66472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kilistra: Türkiye'nin Eski Dünya Mirası

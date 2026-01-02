@@ -1,18 +1,17 @@
 ---
-title: "Kocatepe Atatürk Anıtı | Miras Haritası"
-date: 2025-12-25T15:56:02+03:00
+title: "Kocatepe Atatürk Anıtı"
+date: "2025-12-25T15:56:02+03:00"
 slug: "kocatepe-ataturk-aniti"
 description: "### Kocatepe Atatürk Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.468409,38.655945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kocatepe Atatürk Anıtı

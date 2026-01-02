@@ -1,18 +1,17 @@
 ---
-title: "Çaltılar Höyük | Miras Haritası"
-date: 2025-12-25T05:34:12+03:00
+title: "Çaltılar Höyük"
+date: "2025-12-25T05:34:12+03:00"
 slug: "caltilar-hoyuk"
 description: "## Çaltılar Höyük: Muğla'nın Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.690943,36.919037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaltılar Höyük: Muğla'nın Gizli Tarihî Mirası

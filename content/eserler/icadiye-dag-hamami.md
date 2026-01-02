@@ -1,18 +1,17 @@
 ---
-title: "İcadiye Dağ Hamamı | Miras Haritası"
-date: 2025-12-25T16:36:18+03:00
+title: "İcadiye Dağ Hamamı"
+date: "2025-12-25T16:36:18+03:00"
 slug: "icadiye-dag-hamami"
 description: "## İcadiye Dağ Hamamı: Üsküdar'ın Tarihi Bir Öreni..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.031128,41.031157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İcadiye Dağ Hamamı: Üsküdar'ın Tarihi Bir Öreni

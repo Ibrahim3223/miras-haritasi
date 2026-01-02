@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme, Ortaköy Merkez | Miras Haritası"
-date: 2025-12-25T12:47:46+03:00
+title: "Havuzlu Çeşme, Ortaköy Merkez"
+date: "2025-12-25T12:47:46+03:00"
 slug: "havuzlu-cesme-ortakoy-merkez"
 description: "## Havuzlu Çeşme, Ortaköy Merkez..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3750648,41.1017876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Çeşme, Ortaköy Merkez

@@ -1,18 +1,17 @@
 ---
-title: "Kültepe Aşağı Şehir | Miras Haritası"
-date: 2025-12-25T06:04:35+03:00
+title: "Kültepe Aşağı Şehir"
+date: "2025-12-25T06:04:35+03:00"
 slug: "kultepe-asagi-sehir"
 description: "## Kültepe Aşağı Şehir: Kayseri'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.6390991,38.853157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kültepe Aşağı Şehir: Kayseri'nin Gizli Kahramanı

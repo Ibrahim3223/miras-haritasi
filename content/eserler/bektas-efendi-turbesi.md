@@ -1,18 +1,17 @@
 ---
-title: "Bektaş Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:35+03:00
+title: "Bektaş Efendi Türbesi"
+date: "2025-12-25T14:44:35+03:00"
 slug: "bektas-efendi-turbesi"
 description: "### Bektaş Efendi Türbesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.5613976,38.9408722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bektaş Efendi Türbesi

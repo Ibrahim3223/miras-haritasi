@@ -1,18 +1,17 @@
 ---
-title: "Euthenai | Miras Haritası"
-date: 2025-12-25T04:55:52+03:00
+title: "Euthenai"
+date: "2025-12-25T04:55:52+03:00"
 slug: "euthenai"
 description: "### Euthenai: Muğla'nın Gizli Cenneti ..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.255,36.932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Euthenai: Muğla'nın Gizli Cenneti 

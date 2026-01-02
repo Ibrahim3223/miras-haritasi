@@ -1,18 +1,17 @@
 ---
-title: "Tacü’n-Nisa Sultan Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:03+03:00
+title: "Tacü’n-Nisa Sultan Hatun Türbesi"
+date: "2025-12-25T14:51:03+03:00"
 slug: "tacun-nisa-sultan-hatun-turbesi"
 description: "## Tacü'n-Nisa Sultan Hatun Türbesi: Bursa'nın Gizli Çehresini Yeniden Keşfeden Anıt..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.5119114,40.0783081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tacü'n-Nisa Sultan Hatun Türbesi: Bursa'nın Gizli Çehresini Yeniden Keşfeden Anıt

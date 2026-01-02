@@ -1,18 +1,17 @@
 ---
-title: "Panayia Evangelistria Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:38+03:00
+title: "Panayia Evangelistria Kilisesi"
+date: "2025-12-25T08:50:38+03:00"
 slug: "panayia-evangelistria-kilisesi"
 description: "## Panayia Evangelistria Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dolapdere_Panayia_Avangelistria_Rum_Ortodoks_Kilisesi.jpg/1200px-Dolapdere_Panayia_Avangelistria_Rum_Ortodoks_Kilisesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.980222222,41.042277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Panayia Evangelistria Kilisesi

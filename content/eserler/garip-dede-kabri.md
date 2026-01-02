@@ -1,18 +1,17 @@
 ---
-title: "Garip Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:28:24+03:00
+title: "Garip Dede Kabri"
+date: "2025-12-25T13:28:24+03:00"
 slug: "garip-dede-kabri"
 description: "## Garip Dede Kabri: Çekmeköy'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çekmeköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.2220993,41.0340347"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Garip Dede Kabri: Çekmeköy'ün Tarihi ve Kültürel Mirası

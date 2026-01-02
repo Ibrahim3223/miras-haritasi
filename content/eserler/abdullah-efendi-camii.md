@@ -1,18 +1,17 @@
 ---
-title: "Abdullah Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:57:09+03:00
+title: "Abdullah Efendi Camii"
+date: "2025-12-24T22:57:09+03:00"
 slug: "abdullah-efendi-camii"
 description: "# Abdullah Efendi Camii..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1455116,38.4209595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdullah Efendi Camii

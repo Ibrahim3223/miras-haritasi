@@ -1,18 +1,17 @@
 ---
-title: "Büyükesence Orhan Camii | Miras Haritası"
-date: 2025-12-24T22:01:09+03:00
+title: "Büyükesence Orhan Camii"
+date: "2025-12-24T22:01:09+03:00"
 slug: "buyukesence-orhan-camii"
 description: "### Büyükesence Orhan Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Büyükesence_Orhan_Camii'nin_(Şimdiki_adı_Cumaaltı_Camii)_sol_cephesi_(09.06.2025).jpg/1200px-Büyükesence_Orhan_Camii'nin_(Şimdiki_adı_Cumaaltı_Camii)_sol_cephesi_(09.06.2025).jpg"
 province: "Erenler"
-iller: ["Erenler"]
+iller: '["Erenler"]'
 district: "Küçükesence"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.492998,40.754892"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Büyükesence Orhan Camii

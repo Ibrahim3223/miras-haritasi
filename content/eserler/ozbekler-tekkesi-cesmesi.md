@@ -1,18 +1,17 @@
 ---
-title: "Özbekler Tekkesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:24+03:00
+title: "Özbekler Tekkesi Çeşmesi"
+date: "2025-12-25T11:44:24+03:00"
 slug: "ozbekler-tekkesi-cesmesi"
 description: "## Özbekler Tekkesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Özbekler_Tekkesi_Çeşmesi.jpg/1200px-Özbekler_Tekkesi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0241413,41.0284615"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Özbekler Tekkesi Çeşmesi

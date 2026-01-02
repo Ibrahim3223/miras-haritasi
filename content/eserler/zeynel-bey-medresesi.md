@@ -1,18 +1,17 @@
 ---
-title: "Zeynel Bey Medresesi | Miras Haritası"
-date: 2025-12-25T17:35:29+03:00
+title: "Zeynel Bey Medresesi"
+date: "2025-12-25T17:35:29+03:00"
 slug: "zeynel-bey-medresesi"
 description: "### Zeynel Bey Medresesi Tanıtımı..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Hakkâri"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "43.7415009,37.5625687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zeynel Bey Medresesi Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Kastamonu Memleket Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:54:18+03:00
+title: "Kastamonu Memleket Kütüphanesi"
+date: "2025-12-25T17:54:18+03:00"
 slug: "kastamonu-memleket-kutuphanesi"
 description: "## Kastamonu Memleket Kütüphanesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "33.7787743,41.3765678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kastamonu Memleket Kütüphanesi

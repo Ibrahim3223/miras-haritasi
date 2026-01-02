@@ -1,18 +1,17 @@
 ---
-title: "Bağlartepe Höyük | Miras Haritası"
-date: 2025-12-25T05:50:45+03:00
+title: "Bağlartepe Höyük"
+date: "2025-12-25T05:50:45+03:00"
 slug: "baglartepe-hoyuk"
 description: "## Bağlartepe Höyük: Manisa'nın Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.68295,39.143767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağlartepe Höyük: Manisa'nın Gizemli Arkeolojik Mirası

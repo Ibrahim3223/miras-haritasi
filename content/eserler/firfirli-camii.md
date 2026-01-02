@@ -1,18 +1,17 @@
 ---
-title: "Fırfırlı Camii | Miras Haritası"
-date: 2025-12-25T00:58:42+03:00
+title: "Fırfırlı Camii"
+date: "2025-12-25T00:58:42+03:00"
 slug: "firfirli-camii"
 description: "## Fırfırlı Camii: Şanlıurfa'nın Gizli Çehresini Görmenin Yeri..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7860603,37.1526299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fırfırlı Camii: Şanlıurfa'nın Gizli Çehresini Görmenin Yeri

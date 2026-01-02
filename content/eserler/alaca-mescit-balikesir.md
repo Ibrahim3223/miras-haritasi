@@ -1,18 +1,17 @@
 ---
-title: "Alaca Mescit, Balıkesir | Miras Haritası"
-date: 2025-12-25T00:03:06+03:00
+title: "Alaca Mescit, Balıkesir"
+date: "2025-12-25T00:03:06+03:00"
 slug: "alaca-mescit-balikesir"
 description: "# Alaca Mescit, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.883585,39.648098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alaca Mescit, Balıkesir

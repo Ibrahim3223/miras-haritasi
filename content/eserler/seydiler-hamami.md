@@ -1,18 +1,17 @@
 ---
-title: "Seydiler Hamamı | Miras Haritası"
-date: 2025-12-25T17:08:52+03:00
+title: "Seydiler Hamamı"
+date: "2025-12-25T17:08:52+03:00"
 slug: "seydiler-hamami"
 description: "## Seydiler Hamamı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.5394115,39.4475098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seydiler Hamamı

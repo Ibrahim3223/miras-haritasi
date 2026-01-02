@@ -1,18 +1,17 @@
 ---
-title: "Esnaf Şeyh Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:53:30+03:00
+title: "Esnaf Şeyh Camii Çeşmesi"
+date: "2025-12-25T12:53:30+03:00"
 slug: "esnaf-seyh-camii-cesmesi"
 description: "## Esnaf Şeyh Camii Çeşmesi: İzmir'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1329708,38.4160156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esnaf Şeyh Camii Çeşmesi: İzmir'in Tarihî ve Kültürel Mirası

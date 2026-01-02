@@ -1,18 +1,17 @@
 ---
-title: "Söylemez Ana Kümbeti, Karayazı | Miras Haritası"
-date: 2025-12-25T13:56:19+03:00
+title: "Söylemez Ana Kümbeti, Karayazı"
+date: "2025-12-25T13:56:19+03:00"
 slug: "soylemez-ana-kumbeti-karayazi"
 description: "## Söylemez Ana Kümbeti: Karayazı'nın Gizemli Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Karayazı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.7962914,39.6320457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söylemez Ana Kümbeti: Karayazı'nın Gizemli Anıtı

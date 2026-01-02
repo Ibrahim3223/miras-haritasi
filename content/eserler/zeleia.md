@@ -1,18 +1,17 @@
 ---
-title: "Zeleia | Miras Haritası"
-date: 2025-12-25T04:27:38+03:00
+title: "Zeleia"
+date: "2025-12-25T04:27:38+03:00"
 slug: "zeleia"
 description: "## Zeleia Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.595073,40.203564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeleia Arkeolojik Sit

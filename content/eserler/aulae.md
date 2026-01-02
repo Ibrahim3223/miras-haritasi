@@ -1,18 +1,17 @@
 ---
-title: "Aulae | Miras Haritası"
-date: 2025-12-25T04:59:57+03:00
+title: "Aulae"
+date: "2025-12-25T04:59:57+03:00"
 slug: "aulae"
 description: "## Aulae: Akdeniz'in Gizemi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.753077,36.812812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aulae: Akdeniz'in Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "İncili Camii | Miras Haritası"
-date: 2025-12-24T23:36:29+03:00
+title: "İncili Camii"
+date: "2025-12-24T23:36:29+03:00"
 slug: "incili-camii"
 description: "## İncili Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9190006,40.1692009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncili Camii

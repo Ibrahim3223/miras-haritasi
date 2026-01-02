@@ -1,18 +1,17 @@
 ---
-title: "Yesarizade Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:39+03:00
+title: "Yesarizade Çeşmesi"
+date: "2025-12-25T11:16:39+03:00"
 slug: "yesarizade-cesmesi"
 description: "## Yesarizade Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.034916,41.020211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yesarizade Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi

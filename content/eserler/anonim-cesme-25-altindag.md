@@ -1,18 +1,17 @@
 ---
-title: "Anonim Çeşme-25, Altındağ | Miras Haritası"
-date: 2025-12-25T12:40:14+03:00
+title: "Anonim Çeşme-25, Altındağ"
+date: "2025-12-25T12:40:14+03:00"
 slug: "anonim-cesme-25-altindag"
 description: "### Anonim Çeşme-25, Altındağ: Ankara'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.859893066,39.939102339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Anonim Çeşme-25, Altındağ: Ankara'nın Gizli Çeşmesi

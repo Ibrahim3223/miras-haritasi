@@ -1,18 +1,17 @@
 ---
-title: "Nadırlı Höyükler A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:34:29+03:00
+title: "Nadırlı Höyükler A Tümülüsü"
+date: "2025-12-25T07:34:29+03:00"
 slug: "nadirli-hoyukler-a-tumulusu"
 description: "### Nadırlı Höyükler A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0797272,41.3759727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nadırlı Höyükler A Tümülüsü

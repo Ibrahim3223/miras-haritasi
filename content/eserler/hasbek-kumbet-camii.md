@@ -1,18 +1,17 @@
 ---
-title: "Hasbek Kümbet Camii | Miras Haritası"
-date: 2025-12-24T23:32:15+03:00
+title: "Hasbek Kümbet Camii"
+date: "2025-12-24T23:32:15+03:00"
 slug: "hasbek-kumbet-camii"
 description: "## Hasbek Kümbet Camii: Kayseri'nin Tarihi Bir Anıt..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4814644,38.7225838"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasbek Kümbet Camii: Kayseri'nin Tarihi Bir Anıt

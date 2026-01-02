@@ -1,18 +1,17 @@
 ---
-title: "Serkavas Ahmet Ağa Lahanacılar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:13:54+03:00
+title: "Serkavas Ahmet Ağa Lahanacılar Çeşmesi"
+date: "2025-12-25T10:13:54+03:00"
 slug: "serkavas-ahmet-aga-lahanacilar-cesmesi"
 description: "## Serkavas Ahmet Ağa Lahanacılar Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Serkavas_Ahmet_Ağa_Lahanacılar_Fountain_(2).jpg/1200px-Serkavas_Ahmet_Ağa_Lahanacılar_Fountain_(2).jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Çengelköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.052627155,41.050806388"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Serkavas Ahmet Ağa Lahanacılar Çeşmesi

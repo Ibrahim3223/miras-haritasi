@@ -1,18 +1,17 @@
 ---
-title: "Kahin Tepe | Miras Haritası"
-date: 2025-12-25T08:22:56+03:00
+title: "Kahin Tepe"
+date: "2025-12-25T08:22:56+03:00"
 slug: "kahin-tepe"
 description: "## Kahin Tepe: Kastamonu'nun Gizli Anıtı..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Araç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.3919,41.2301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kahin Tepe: Kastamonu'nun Gizli Anıtı

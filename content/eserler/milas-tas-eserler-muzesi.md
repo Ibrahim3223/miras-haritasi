@@ -1,18 +1,17 @@
 ---
-title: "Milas Taş Eserler Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:43+03:00
+title: "Milas Taş Eserler Müzesi"
+date: "2025-12-25T03:37:43+03:00"
 slug: "milas-tas-eserler-muzesi"
 description: "# Milas Taş Eserler Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Milas Taş Eserler Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Üçpınar Höyük | Miras Haritası"
-date: 2025-12-25T06:43:56+03:00
+title: "Üçpınar Höyük"
+date: "2025-12-25T06:43:56+03:00"
 slug: "ucpinar-hoyuk"
 description: "### Üçpınar Höyük: Konya'nın Gizli İncisi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.8187371,37.8252495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üçpınar Höyük: Konya'nın Gizli İncisi

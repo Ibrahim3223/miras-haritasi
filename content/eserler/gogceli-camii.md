@@ -1,18 +1,17 @@
 ---
-title: "Göğceli Camii | Miras Haritası"
-date: 2025-12-24T21:55:52+03:00
+title: "Göğceli Camii"
+date: "2025-12-24T21:55:52+03:00"
 slug: "gogceli-camii"
 description: "### Göğceli Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göğceli_Camii.JPG/1200px-Göğceli_Camii.JPG"
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Çarşamba"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.743194444,41.198111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Göğceli Camii

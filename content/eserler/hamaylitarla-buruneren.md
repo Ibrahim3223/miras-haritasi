@@ -1,18 +1,17 @@
 ---
-title: "Hamaylıtarla-Buruneren | Miras Haritası"
-date: 2025-12-25T13:50:46+03:00
+title: "Hamaylıtarla-Buruneren"
+date: "2025-12-25T13:50:46+03:00"
 slug: "hamaylitarla-buruneren"
 description: "## Hamaylıtarla-Buruneren Anıt..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.010874748,40.587005344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamaylıtarla-Buruneren Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Karine | Miras Haritası"
-date: 2025-12-25T08:29:17+03:00
+title: "Karine"
+date: "2025-12-25T08:29:17+03:00"
 slug: "karine"
 description: "## Karine: Dikili'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9229722,39.1602528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karine: Dikili'nin Tarihî ve Kültürel Mirası

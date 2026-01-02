@@ -1,18 +1,17 @@
 ---
-title: "İsmet Efendi Tekkesi Mescidi | Miras Haritası"
-date: 2025-12-25T00:50:30+03:00
+title: "İsmet Efendi Tekkesi Mescidi"
+date: "2025-12-25T00:50:30+03:00"
 slug: "ismet-efendi-tekkesi-mescidi"
 description: "### İsmet Efendi Tekkesi Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9493217,41.0282898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsmet Efendi Tekkesi Mescidi

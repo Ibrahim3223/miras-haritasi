@@ -1,18 +1,17 @@
 ---
-title: "II. Abdülhamit Çeşmesi, Demirkapı | Miras Haritası"
-date: 2025-12-25T12:14:36+03:00
+title: "II. Abdülhamit Çeşmesi, Demirkapı"
+date: "2025-12-25T12:14:36+03:00"
 slug: "ii-abdulhamit-cesmesi-demirkapi"
 description: "## II. Abdülhamit Çeşmesi, Demirkapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979662,41.014736"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Abdülhamit Çeşmesi, Demirkapı

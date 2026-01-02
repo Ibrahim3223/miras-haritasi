@@ -1,18 +1,17 @@
 ---
-title: "Sofraz Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T03:34:36+03:00
+title: "Sofraz Anıt Mezarı"
+date: "2025-12-25T03:34:36+03:00"
 slug: "sofraz-anit-mezari"
 description: "## Sofraz Anıt Mezarı..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Besni"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.9833755,37.6266708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sofraz Anıt Mezarı

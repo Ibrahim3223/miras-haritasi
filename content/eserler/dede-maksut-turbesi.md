@@ -1,18 +1,17 @@
 ---
-title: "Dede Maksut Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:13+03:00
+title: "Dede Maksut Türbesi"
+date: "2025-12-25T15:14:13+03:00"
 slug: "dede-maksut-turbesi"
 description: "## Dede Maksut Türbesi: Ahlat'ın Altın Çağı'nın Bir Örneği..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.4658922,38.7488519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dede Maksut Türbesi: Ahlat'ın Altın Çağı'nın Bir Örneği

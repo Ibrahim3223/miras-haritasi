@@ -1,18 +1,17 @@
 ---
-title: "Teylimasar Kalesi | Miras Haritası"
-date: 2025-12-25T01:25:29+03:00
+title: "Teylimasar Kalesi"
+date: "2025-12-25T01:25:29+03:00"
 slug: "teylimasar-kalesi"
 description: "## Teylimasar Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.7293625,37.6809998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Teylimasar Kalesi

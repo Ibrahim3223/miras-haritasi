@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T16:37:53+03:00
+title: "Mehmet Ağa Hamamı"
+date: "2025-12-25T16:37:53+03:00"
 slug: "mehmet-aga-hamami"
 description: "# Mehmet Ağa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mehmet_Ağa_Hamamı.jpg/1200px-Mehmet_Ağa_Hamamı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.944817,41.026738"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Mehmet Ağa Hamamı

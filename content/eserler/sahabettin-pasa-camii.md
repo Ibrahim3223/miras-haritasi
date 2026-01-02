@@ -1,18 +1,17 @@
 ---
-title: "Şahabettin Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:10:20+03:00
+title: "Şahabettin Paşa Camii"
+date: "2025-12-24T23:10:20+03:00"
 slug: "sahabettin-pasa-camii"
 description: "## Şahabettin Paşa Camii: Bursa'nın Değerli Cami Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0573139,40.1887207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şahabettin Paşa Camii: Bursa'nın Değerli Cami Mirası

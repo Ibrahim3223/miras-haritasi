@@ -1,18 +1,17 @@
 ---
-title: "Asar Kale, Yazıkent | Miras Haritası"
-date: 2025-12-25T01:51:42+03:00
+title: "Asar Kale, Yazıkent"
+date: "2025-12-25T01:51:42+03:00"
 slug: "asar-kale-yazikent"
 description: "## Asar Kale, Yazıkent: Aydın'ın Gizli Şehri..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.3924999,37.7340012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asar Kale, Yazıkent: Aydın'ın Gizli Şehri

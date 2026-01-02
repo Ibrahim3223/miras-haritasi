@@ -1,18 +1,17 @@
 ---
-title: "Ketenci Camii, Bayburt | Miras Haritası"
-date: 2025-12-25T00:12:53+03:00
+title: "Ketenci Camii, Bayburt"
+date: "2025-12-25T00:12:53+03:00"
 slug: "ketenci-camii-bayburt"
 description: "### Ketenci Camii, Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2245255,40.2658081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ketenci Camii, Bayburt

@@ -1,18 +1,17 @@
 ---
-title: "Beyhan Sultan Çeşmesi, Kuruçeşme | Miras Haritası"
-date: 2025-12-25T11:58:24+03:00
+title: "Beyhan Sultan Çeşmesi, Kuruçeşme"
+date: "2025-12-25T11:58:24+03:00"
 slug: "beyhan-sultan-cesmesi-kurucesme"
 description: "### Beyhan Sultan Çeşmesi, Kuruçeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.037281,41.061484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beyhan Sultan Çeşmesi, Kuruçeşme

@@ -1,18 +1,17 @@
 ---
-title: "Panayia Hançeriotissa Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:38+03:00
+title: "Panayia Hançeriotissa Kilisesi"
+date: "2025-12-25T08:51:38+03:00"
 slug: "panayia-hanceriotissa-kilisesi"
 description: "**Panayia Hançeriotissa Kilisesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.94088889,41.03297222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Panayia Hançeriotissa Kilisesi**

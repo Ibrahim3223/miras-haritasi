@@ -1,18 +1,17 @@
 ---
-title: "İkiz Kümbetler, Van | Miras Haritası"
-date: 2025-12-25T13:55:19+03:00
+title: "İkiz Kümbetler, Van"
+date: "2025-12-25T13:55:19+03:00"
 slug: "ikiz-kumbetler-van"
 description: "## İkiz Kümbetler: Van'ın Efsanevi Anıtı..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "İpekyolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.3400574,38.4969635"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkiz Kümbetler: Van'ın Efsanevi Anıtı

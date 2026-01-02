@@ -1,18 +1,17 @@
 ---
-title: "Hierokaisareia | Miras Haritası"
-date: 2025-12-25T04:19:03+03:00
+title: "Hierokaisareia"
+date: "2025-12-25T04:19:03+03:00"
 slug: "hierokaisareia"
 description: "### Hierokaisareia: Antik Yunanistan'ın Gizli Anıtı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.79188,38.79751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hierokaisareia: Antik Yunanistan'ın Gizli Anıtı

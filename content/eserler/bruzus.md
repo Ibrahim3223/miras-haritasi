@@ -1,18 +1,17 @@
 ---
-title: "Bruzus | Miras Haritası"
-date: 2025-12-25T05:00:49+03:00
+title: "Bruzus"
+date: "2025-12-25T05:00:49+03:00"
 slug: "bruzus"
 description: "## Bruzus: Geçmişe Dönük Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.1719199,38.527823"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bruzus: Geçmişe Dönük Bir Arkeolojik Sit

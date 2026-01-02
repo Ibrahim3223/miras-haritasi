@@ -1,18 +1,17 @@
 ---
-title: "Kalemkırdı Camii | Miras Haritası"
-date: 2025-12-24T23:42:05+03:00
+title: "Kalemkırdı Camii"
+date: "2025-12-24T23:42:05+03:00"
 slug: "kalemkirdi-camii"
 description: "# Kalemkırdı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.498188,38.7157288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kalemkırdı Camii

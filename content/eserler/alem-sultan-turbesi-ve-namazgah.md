@@ -1,18 +1,17 @@
 ---
-title: "Alem Sultan Türbesi ve Namazgah | Miras Haritası"
-date: 2025-12-25T14:48:26+03:00
+title: "Alem Sultan Türbesi ve Namazgah"
+date: "2025-12-25T14:48:26+03:00"
 slug: "alem-sultan-turbesi-ve-namazgah"
 description: "## Alem Sultan Türbesi ve Namazgah: Lapseki'nin Ölümsüz Ruhu..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Lapseki"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.716492945,40.376736991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alem Sultan Türbesi ve Namazgah: Lapseki'nin Ölümsüz Ruhu

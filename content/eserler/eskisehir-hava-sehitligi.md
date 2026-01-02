@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Hava Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:35+03:00
+title: "Eskişehir Hava Şehitliği"
+date: "2025-12-25T16:00:35+03:00"
 slug: "eskisehir-hava-sehitligi"
 description: "### Eskişehir Hava Şehitliği..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5129642,39.7681503"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eskişehir Hava Şehitliği

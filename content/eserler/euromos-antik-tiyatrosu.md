@@ -1,18 +1,17 @@
 ---
-title: "Euromos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:19:58+03:00
+title: "Euromos Antik Tiyatrosu"
+date: "2025-12-25T16:19:58+03:00"
 slug: "euromos-antik-tiyatrosu"
 description: "## Euromos Antik Tiyatrosu: Antik Çağın Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "27.675148,37.376595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Euromos Antik Tiyatrosu: Antik Çağın Mirası

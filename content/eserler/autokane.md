@@ -1,18 +1,17 @@
 ---
-title: "Autokane | Miras Haritası"
-date: 2025-12-25T04:36:09+03:00
+title: "Autokane"
+date: "2025-12-25T04:36:09+03:00"
 slug: "autokane"
 description: "## Balıkesir'in Gizli Cenneti: Autokane Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.75,39.25"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balıkesir'in Gizli Cenneti: Autokane Arkeolojik Sit

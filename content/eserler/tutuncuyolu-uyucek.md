@@ -1,18 +1,17 @@
 ---
-title: "Tütüncüyolu Üyücek | Miras Haritası"
-date: 2025-12-25T05:53:27+03:00
+title: "Tütüncüyolu Üyücek"
+date: "2025-12-25T05:53:27+03:00"
 slug: "tutuncuyolu-uyucek"
 description: "## Tütüncüyolu Üyücek: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gönen"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.70275,40.071067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tütüncüyolu Üyücek: Tarihi ve Kültürel Miras

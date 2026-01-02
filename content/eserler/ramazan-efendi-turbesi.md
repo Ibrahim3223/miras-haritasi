@@ -1,18 +1,17 @@
 ---
-title: "Ramazan Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:24+03:00
+title: "Ramazan Efendi Türbesi"
+date: "2025-12-25T14:27:24+03:00"
 slug: "ramazan-efendi-turbesi"
 description: "### Ramazan Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.931301,41.004895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ramazan Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Tell Uzunarab | Miras Haritası"
-date: 2025-12-25T05:59:02+03:00
+title: "Tell Uzunarab"
+date: "2025-12-25T05:59:02+03:00"
 slug: "tell-uzunarab"
 description: "**Tell Uzunarab Arkeolojik Sit: Antakya'nın Gizli Mirası**..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.299786,36.234798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tell Uzunarab Arkeolojik Sit: Antakya'nın Gizli Mirası**

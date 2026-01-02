@@ -1,18 +1,17 @@
 ---
-title: "Osmaniye Camii | Miras Haritası"
-date: 2025-12-24T23:53:36+03:00
+title: "Osmaniye Camii"
+date: "2025-12-24T23:53:36+03:00"
 slug: "osmaniye-camii"
 description: "**Osmaniye Camii**..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1707306,36.2021294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Osmaniye Camii**

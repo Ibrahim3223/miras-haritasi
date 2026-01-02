@@ -1,18 +1,17 @@
 ---
-title: "Handan Bey Camii | Miras Haritası"
-date: 2025-12-24T23:30:54+03:00
+title: "Handan Bey Camii"
+date: "2025-12-24T23:30:54+03:00"
 slug: "handan-bey-camii"
 description: "### Handan Bey Camii..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3822632,37.0648575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Handan Bey Camii

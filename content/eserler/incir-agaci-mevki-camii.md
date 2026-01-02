@@ -1,18 +1,17 @@
 ---
-title: "İncir Ağacı Mevki Camii | Miras Haritası"
-date: 2025-12-24T23:38:09+03:00
+title: "İncir Ağacı Mevki Camii"
+date: "2025-12-24T23:38:09+03:00"
 slug: "incir-agaci-mevki-camii"
 description: "## İncir Ağacı Mevki Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.5117416,37.9097977"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncir Ağacı Mevki Camii

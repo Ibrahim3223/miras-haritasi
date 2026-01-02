@@ -1,18 +1,17 @@
 ---
-title: "Mehmed Ağa Mescidi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:07:42+03:00
+title: "Mehmed Ağa Mescidi, Kırklareli"
+date: "2025-12-25T01:07:42+03:00"
 slug: "mehmed-aga-mescidi-kirklareli"
 description: "## Mehmed Ağa Mescidi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2233086,41.7346344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmed Ağa Mescidi, Kırklareli

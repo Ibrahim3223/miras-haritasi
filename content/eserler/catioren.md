@@ -1,18 +1,17 @@
 ---
-title: "Çatıören | Miras Haritası"
-date: 2025-12-25T07:13:03+03:00
+title: "Çatıören"
+date: "2025-12-25T07:13:03+03:00"
 slug: "catioren"
 description: "### Çatıören Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Catiören1.jpg/1200px-Catiören1.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.12611111,36.52138889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çatıören Arkeolojik Sit

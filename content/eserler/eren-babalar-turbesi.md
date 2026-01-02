@@ -1,18 +1,17 @@
 ---
-title: "Eren Babalar Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:03+03:00
+title: "Eren Babalar Türbesi"
+date: "2025-12-25T15:04:03+03:00"
 slug: "eren-babalar-turbesi"
 description: "## Eren Babalar Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4044113,40.7522888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eren Babalar Türbesi

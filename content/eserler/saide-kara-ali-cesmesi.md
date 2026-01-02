@@ -1,18 +1,17 @@
 ---
-title: "Saide Kara Ali Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:27+03:00
+title: "Saide Kara Ali Çeşmesi"
+date: "2025-12-25T11:43:27+03:00"
 slug: "saide-kara-ali-cesmesi"
 description: "**Saide Kara Ali Çeşmesi: Silivri'nin Tarihi Bir Ölümsüzü**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2189751,41.0820312"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Saide Kara Ali Çeşmesi: Silivri'nin Tarihi Bir Ölümsüzü**

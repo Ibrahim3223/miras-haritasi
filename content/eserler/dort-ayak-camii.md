@@ -1,18 +1,17 @@
 ---
-title: "Dört Ayak Camii | Miras Haritası"
-date: 2025-12-24T22:36:31+03:00
+title: "Dört Ayak Camii"
+date: "2025-12-24T22:36:31+03:00"
 slug: "dort-ayak-camii"
 description: "### Dört Ayak Camii..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6758347,37.9737358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dört Ayak Camii

@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, İsmailli | Miras Haritası"
-date: 2025-12-25T02:46:28+03:00
+title: "Taş Köprü, İsmailli"
+date: "2025-12-25T02:46:28+03:00"
 slug: "tas-kopru-ismailli"
 description: "### Taş Köprü, İsmailli: Bergama'nın Gizli Çehresini Görmenin Yeri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.2147999,38.9319992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taş Köprü, İsmailli: Bergama'nın Gizli Çehresini Görmenin Yeri

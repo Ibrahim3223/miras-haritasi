@@ -1,18 +1,17 @@
 ---
-title: "Selman Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:34+03:00
+title: "Selman Dede Türbesi"
+date: "2025-12-25T15:23:34+03:00"
 slug: "selman-dede-turbesi"
 description: "# Selman Dede Türbesi: Hendek'in Önemli Tarihî Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Hendek"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.7605114,40.8198013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Selman Dede Türbesi: Hendek'in Önemli Tarihî Mirası

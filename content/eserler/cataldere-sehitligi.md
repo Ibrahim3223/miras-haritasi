@@ -1,18 +1,17 @@
 ---
-title: "Çataldere Şehitliği | Miras Haritası"
-date: 2025-12-25T15:57:13+03:00
+title: "Çataldere Şehitliği"
+date: "2025-12-25T15:57:13+03:00"
 slug: "cataldere-sehitligi"
 description: "## Çataldere Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2944126,40.2329369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çataldere Şehitliği

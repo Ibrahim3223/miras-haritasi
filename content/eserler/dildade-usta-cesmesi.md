@@ -1,18 +1,17 @@
 ---
-title: "Dildade Usta Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:28+03:00
+title: "Dildade Usta Çeşmesi"
+date: "2025-12-25T11:02:28+03:00"
 slug: "dildade-usta-cesmesi"
 description: "## Dildade Usta Çeşmesi: Beyoğlu'nun Gizli Çeşmesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Pürtelaş Hasan Efendi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9881296,41.0321118"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dildade Usta Çeşmesi: Beyoğlu'nun Gizli Çeşmesi

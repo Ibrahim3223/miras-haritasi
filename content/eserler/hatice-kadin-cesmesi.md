@@ -1,18 +1,17 @@
 ---
-title: "Hatice Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:07+03:00
+title: "Hatice Kadın Çeşmesi"
+date: "2025-12-25T11:17:07+03:00"
 slug: "hatice-kadin-cesmesi"
 description: "### Hatice Kadın Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.973611,41.005743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hatice Kadın Çeşmesi

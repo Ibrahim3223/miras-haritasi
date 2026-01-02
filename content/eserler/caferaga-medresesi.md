@@ -1,18 +1,17 @@
 ---
-title: "Caferağa Medresesi | Miras Haritası"
-date: 2025-12-25T17:23:21+03:00
+title: "Caferağa Medresesi"
+date: "2025-12-25T17:23:21+03:00"
 slug: "caferaga-medresesi"
 description: "## Caferağa Medresesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Caferaga_medresseh_Pano.JPG/1200px-Caferaga_medresseh_Pano.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.97889,41.009632"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Caferağa Medresesi: İstanbul'un Gizli Cenneti

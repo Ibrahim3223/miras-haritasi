@@ -1,18 +1,17 @@
 ---
-title: "Milet Bizans Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:44+03:00
+title: "Milet Bizans Kalesi"
+date: "2025-12-25T01:22:44+03:00"
 slug: "milet-bizans-kalesi"
 description: "# Milet Bizans Kalesi..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.2764893,37.5309639"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Milet Bizans Kalesi

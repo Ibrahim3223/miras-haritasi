@@ -1,18 +1,17 @@
 ---
-title: "Gani Baba Mezarı | Miras Haritası"
-date: 2025-12-25T13:33:54+03:00
+title: "Gani Baba Mezarı"
+date: "2025-12-25T13:33:54+03:00"
 slug: "gani-baba-mezari"
 description: "### Gani Baba Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9811668,41.0040474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gani Baba Mezarı

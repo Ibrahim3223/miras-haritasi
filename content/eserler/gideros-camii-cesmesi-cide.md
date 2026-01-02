@@ -1,18 +1,17 @@
 ---
-title: "Gideros Camii Çeşmesi, Cide | Miras Haritası"
-date: 2025-12-25T12:20:35+03:00
+title: "Gideros Camii Çeşmesi, Cide"
+date: "2025-12-25T12:20:35+03:00"
 slug: "gideros-camii-cesmesi-cide"
 description: "# Gideros Camii Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Cide"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.862193655,41.861137573"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gideros Camii Çeşmesi

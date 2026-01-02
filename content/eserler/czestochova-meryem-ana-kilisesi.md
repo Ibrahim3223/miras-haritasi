@@ -1,18 +1,17 @@
 ---
-title: "Czestochova Meryem Ana Kilisesi | Miras Haritası"
-date: 2025-12-25T08:43:55+03:00
+title: "Czestochova Meryem Ana Kilisesi"
+date: "2025-12-25T08:43:55+03:00"
 slug: "czestochova-meryem-ana-kilisesi"
 description: "## Czestochova Meryem Ana Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/İstanbul_6257.jpg/1200px-İstanbul_6257.jpg"
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Polonezköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.2074021,41.1098922"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Czestochova Meryem Ana Kilisesi

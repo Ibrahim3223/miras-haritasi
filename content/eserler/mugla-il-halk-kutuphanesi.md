@@ -1,18 +1,17 @@
 ---
-title: "Muğla İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:52:56+03:00
+title: "Muğla İl Halk Kütüphanesi"
+date: "2025-12-25T17:52:56+03:00"
 slug: "mugla-il-halk-kutuphanesi"
 description: "## Muğla İl Halk Kütüphanesi: Bilgi Kaynağının Merkezi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.3675632,37.217556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muğla İl Halk Kütüphanesi: Bilgi Kaynağının Merkezi

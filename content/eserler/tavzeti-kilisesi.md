@@ -1,18 +1,17 @@
 ---
-title: "Tavzeti Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:54+03:00
+title: "Tavzeti Kilisesi"
+date: "2025-12-25T09:07:54+03:00"
 slug: "tavzeti-kilisesi"
 description: "## Tavzeti Kilisesi: Şavşat'ta Bir Zeytin Dağındaki Gizemli Kilise..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.475538888,41.286544444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavzeti Kilisesi: Şavşat'ta Bir Zeytin Dağındaki Gizemli Kilise

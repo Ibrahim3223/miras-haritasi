@@ -1,18 +1,17 @@
 ---
-title: "Kızlar Sarayı | Miras Haritası"
-date: 2025-12-25T13:13:28+03:00
+title: "Kızlar Sarayı"
+date: "2025-12-25T13:13:28+03:00"
 slug: "kizlar-sarayi"
 description: "### Kızlar Sarayı..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "35.830047474,40.653398215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızlar Sarayı

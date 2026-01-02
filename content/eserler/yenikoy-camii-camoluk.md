@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Camii, Çamoluk | Miras Haritası"
-date: 2025-12-24T23:56:45+03:00
+title: "Yeniköy Camii, Çamoluk"
+date: "2025-12-24T23:56:45+03:00"
 slug: "yenikoy-camii-camoluk"
 description: "**Yeniköy Camii: Çamoluk'un Gizli Çarpıntısı**..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çamoluk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.742527,40.185465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yeniköy Camii: Çamoluk'un Gizli Çarpıntısı**

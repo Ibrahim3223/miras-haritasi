@@ -1,18 +1,17 @@
 ---
-title: "Syangela | Miras Haritası"
-date: 2025-12-25T07:10:27+03:00
+title: "Syangela"
+date: "2025-12-25T07:10:27+03:00"
 slug: "syangela"
 description: "## Syangela Arkeolojik Sit'i Keşfedin..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.541111111,37.019444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Syangela Arkeolojik Sit'i Keşfedin

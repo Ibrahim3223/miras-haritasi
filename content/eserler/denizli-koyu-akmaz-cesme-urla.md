@@ -1,18 +1,17 @@
 ---
-title: "Denizli Köyü Akmaz Çeşme, Urla | Miras Haritası"
-date: 2025-12-25T12:21:43+03:00
+title: "Denizli Köyü Akmaz Çeşme, Urla"
+date: "2025-12-25T12:21:43+03:00"
 slug: "denizli-koyu-akmaz-cesme-urla"
 description: "## Denizli Köyü Akmaz Çeşme, Urla: Tarihi ve Kültürel Mirasın Özü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7398434,38.3796272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Denizli Köyü Akmaz Çeşme, Urla: Tarihi ve Kültürel Mirasın Özü

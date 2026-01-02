@@ -1,18 +1,17 @@
 ---
-title: "1915 Çanakkale Köprüsü | Miras Haritası"
-date: 2025-12-25T01:54:03+03:00
+title: "1915 Çanakkale Köprüsü"
+date: "2025-12-25T01:54:03+03:00"
 slug: "1915-canakkale-koprusu"
 description: "## 1915 Çanakkale Köprüsü: Gelibolu'nun Simgesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/1915_Çanakkale_Bridge2.JPG/1200px-1915_Çanakkale_Bridge2.JPG"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.636694444,40.339888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## 1915 Çanakkale Köprüsü: Gelibolu'nun Simgesi

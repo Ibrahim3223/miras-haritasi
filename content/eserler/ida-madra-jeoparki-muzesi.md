@@ -1,18 +1,17 @@
 ---
-title: "İda Madra Jeoparkı Müzesi | Miras Haritası"
-date: 2025-12-25T03:55:26+03:00
+title: "İda Madra Jeoparkı Müzesi"
+date: "2025-12-25T03:55:26+03:00"
 slug: "ida-madra-jeoparki-muzesi"
 description: "## İda Madra Jeoparkı Müzesi: Edremit'in Gizli Çehresi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.893383,39.6114235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İda Madra Jeoparkı Müzesi: Edremit'in Gizli Çehresi

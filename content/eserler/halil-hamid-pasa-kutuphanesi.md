@@ -1,18 +1,17 @@
 ---
-title: "Halil Hamid Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:35+03:00
+title: "Halil Hamid Paşa Kütüphanesi"
+date: "2025-12-25T17:57:35+03:00"
 slug: "halil-hamid-pasa-kutuphanesi"
 description: "## Halil Hamid Paşa Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Hamid Paşa Kütüphanesi

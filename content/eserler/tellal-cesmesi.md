@@ -1,18 +1,17 @@
 ---
-title: "Tellal Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:05+03:00
+title: "Tellal Çeşmesi"
+date: "2025-12-25T10:22:05+03:00"
 slug: "tellal-cesmesi"
 description: "## Tellal Çeşmesi: Kütahya'nın Tarihçesinde Yer Alan Bir Değerli Çeşme..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9712906,39.4149055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tellal Çeşmesi: Kütahya'nın Tarihçesinde Yer Alan Bir Değerli Çeşme

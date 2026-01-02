@@ -1,18 +1,17 @@
 ---
-title: "Hınıs Kalesi | Miras Haritası"
-date: 2025-12-25T01:41:22+03:00
+title: "Hınıs Kalesi"
+date: "2025-12-25T01:41:22+03:00"
 slug: "hinis-kalesi"
 description: "### Hınıs Kalesi ..."
 featured_image: ""
 province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
+iller: '["Erzurum Vilayeti"]'
 district: "Hınıs"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.6949806,39.358654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hınıs Kalesi 

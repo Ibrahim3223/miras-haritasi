@@ -1,18 +1,17 @@
 ---
-title: "Azep Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:21+03:00
+title: "Azep Bey Türbesi"
+date: "2025-12-25T15:24:21+03:00"
 slug: "azep-bey-turbesi"
 description: "### Azep Bey Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0449104,40.188591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Azep Bey Türbesi

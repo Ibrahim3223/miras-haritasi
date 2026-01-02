@@ -1,18 +1,17 @@
 ---
-title: "Akbıyık Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:11:17+03:00
+title: "Akbıyık Çeşmesi"
+date: "2025-12-25T11:11:17+03:00"
 slug: "akbiyik-cesmesi"
 description: "# Akbıyık Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Akbıyık_Çeşmesi.jpg/1200px-Akbıyık_Çeşmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979596,41.003225"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Akbıyık Çeşmesi

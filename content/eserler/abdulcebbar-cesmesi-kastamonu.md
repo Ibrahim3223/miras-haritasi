@@ -1,18 +1,17 @@
 ---
-title: "Abdülcebbar Çeşmesi, Kastamonu | Miras Haritası"
-date: 2025-12-25T12:23:38+03:00
+title: "Abdülcebbar Çeşmesi, Kastamonu"
+date: "2025-12-25T12:23:38+03:00"
 slug: "abdulcebbar-cesmesi-kastamonu"
 description: "## Abdülcebbar Çeşmesi: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.782822185,41.377801443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdülcebbar Çeşmesi: Kastamonu'nun Tarihi ve Kültürel Mirası

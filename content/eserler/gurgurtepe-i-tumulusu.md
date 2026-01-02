@@ -1,18 +1,17 @@
 ---
-title: "Gurgurtepe I Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:01:32+03:00
+title: "Gurgurtepe I Tümülüsü"
+date: "2025-12-25T08:01:32+03:00"
 slug: "gurgurtepe-i-tumulusu"
 description: "### Gurgurtepe I Tümülüsü: İzmir'in Gizli Şehri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4083004,38.1724014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gurgurtepe I Tümülüsü: İzmir'in Gizli Şehri

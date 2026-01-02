@@ -1,18 +1,17 @@
 ---
-title: "Şahinköy Kilisesi | Miras Haritası"
-date: 2025-12-25T09:29:30+03:00
+title: "Şahinköy Kilisesi"
+date: "2025-12-25T09:29:30+03:00"
 slug: "sahinkoy-kilisesi"
 description: "### Şahinköy Kilisesi..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: ["İstanbul Vilayeti"]
+iller: '["İstanbul Vilayeti"]'
 district: "Malkara"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.8419991,41.0220985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şahinköy Kilisesi

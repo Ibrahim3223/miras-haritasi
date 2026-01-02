@@ -1,18 +1,17 @@
 ---
-title: "Su Bölümü Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:06:44+03:00
+title: "Su Bölümü Sokak Çeşmesi"
+date: "2025-12-25T12:06:44+03:00"
 slug: "su-bolumu-sokak-cesmesi"
 description: "## Su Bölümü Sokak Çeşmesi: Tarihi ve Kültürel Miras Değerleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6430988,38.2238197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Su Bölümü Sokak Çeşmesi: Tarihi ve Kültürel Miras Değerleri

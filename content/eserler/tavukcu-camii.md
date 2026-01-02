@@ -1,18 +1,17 @@
 ---
-title: "Tavukçu Camii | Miras Haritası"
-date: 2025-12-24T23:14:18+03:00
+title: "Tavukçu Camii"
+date: "2025-12-24T23:14:18+03:00"
 slug: "tavukcu-camii"
 description: "# Tavukçu Camii: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20241206_Tavkçu_Mescidi_02.jpg/1200px-20241206_Tavkçu_Mescidi_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0607796,40.1864319"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Tavukçu Camii: Bursa'nın Tarihi ve Kültürel Mirası

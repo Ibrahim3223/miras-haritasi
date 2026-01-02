@@ -1,18 +1,17 @@
 ---
-title: "Piyale Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:53:11+03:00
+title: "Piyale Paşa Camii"
+date: "2025-12-24T21:53:11+03:00"
 slug: "piyale-pasa-camii"
 description: "## Piyale Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Istanbul_Piyale_Pasha_Mosque_exterior_NW_side_in_2014_6766.jpg/1200px-Istanbul_Piyale_Pasha_Mosque_exterior_NW_side_in_2014_6766.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.966,41.0446"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Piyale Paşa Camii

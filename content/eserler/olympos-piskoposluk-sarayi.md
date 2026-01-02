@@ -1,18 +1,17 @@
 ---
-title: "Olympos Piskoposluk Sarayı | Miras Haritası"
-date: 2025-12-25T09:24:52+03:00
+title: "Olympos Piskoposluk Sarayı"
+date: "2025-12-25T09:24:52+03:00"
 slug: "olympos-piskoposluk-sarayi"
 description: "## Olympos Piskoposluk Sarayı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.4733925,36.3964882"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olympos Piskoposluk Sarayı

@@ -1,18 +1,17 @@
 ---
-title: "Beşköy Yılmazlar Camii | Miras Haritası"
-date: 2025-12-24T22:23:44+03:00
+title: "Beşköy Yılmazlar Camii"
+date: "2025-12-24T22:23:44+03:00"
 slug: "beskoy-yilmazlar-camii"
 description: "## Beşköy Yılmazlar Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Köprübaşı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.12254,40.777851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşköy Yılmazlar Camii

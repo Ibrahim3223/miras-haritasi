@@ -1,18 +1,17 @@
 ---
-title: "Anonim Çeşme-13, Altındağ | Miras Haritası"
-date: 2025-12-25T12:37:22+03:00
+title: "Anonim Çeşme-13, Altındağ"
+date: "2025-12-25T12:37:22+03:00"
 slug: "anonim-cesme-13-altindag"
 description: "## Anonim Çeşme-13, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8602398,39.932293424"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anonim Çeşme-13, Altındağ

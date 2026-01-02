@@ -1,18 +1,17 @@
 ---
-title: "Hasan Çelebi Camii | Miras Haritası"
-date: 2025-12-24T23:31:50+03:00
+title: "Hasan Çelebi Camii"
+date: "2025-12-24T23:31:50+03:00"
 slug: "hasan-celebi-camii"
 description: "## Hasan Çelebi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8413448,37.8511848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Çelebi Camii

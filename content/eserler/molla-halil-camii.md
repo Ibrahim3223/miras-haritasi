@@ -1,18 +1,17 @@
 ---
-title: "Molla Halil Camii | Miras Haritası"
-date: 2025-12-25T00:39:54+03:00
+title: "Molla Halil Camii"
+date: "2025-12-25T00:39:54+03:00"
 slug: "molla-halil-camii"
 description: "## Molla Halil Camii: Mardin'in Güzelliğini Ada Etiren Bir İmza..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.74345,37.313085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Halil Camii: Mardin'in Güzelliğini Ada Etiren Bir İmza

@@ -1,18 +1,17 @@
 ---
-title: "Pyrgoi | Miras Haritası"
-date: 2025-12-25T05:12:45+03:00
+title: "Pyrgoi"
+date: "2025-12-25T05:12:45+03:00"
 slug: "pyrgoi"
 description: "# Pyrgoi Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.957135,37.227855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pyrgoi Arkeolojik Sit

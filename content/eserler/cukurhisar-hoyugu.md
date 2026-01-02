@@ -1,18 +1,17 @@
 ---
-title: "Çukurhisar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:36:29+03:00
+title: "Çukurhisar Höyüğü"
+date: "2025-12-25T06:36:29+03:00"
 slug: "cukurhisar-hoyugu"
 description: "# Çukurhisar Höyüğü: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.3203501,39.8308442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çukurhisar Höyüğü: Eskişehir'in Gizli Mirası

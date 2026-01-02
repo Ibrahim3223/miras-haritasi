@@ -1,18 +1,17 @@
 ---
-title: "Kocataş Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:05+03:00
+title: "Kocataş Suyu Çeşmesi"
+date: "2025-12-25T11:21:05+03:00"
 slug: "kocatas-suyu-cesmesi"
 description: "## Kocataş Suyu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.054319,41.165347"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocataş Suyu Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Batısandal Kilisesi | Miras Haritası"
-date: 2025-12-25T08:47:40+03:00
+title: "Batısandal Kilisesi"
+date: "2025-12-25T08:47:40+03:00"
 slug: "batisandal-kilisesi"
 description: "### Batısandal Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Batisandal1.jpg/1200px-Batisandal1.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.20388889,36.5675"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Batısandal Kilisesi

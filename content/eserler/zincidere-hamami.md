@@ -1,18 +1,17 @@
 ---
-title: "Zincidere Hamamı | Miras Haritası"
-date: 2025-12-25T16:59:28+03:00
+title: "Zincidere Hamamı"
+date: "2025-12-25T16:59:28+03:00"
 slug: "zincidere-hamami"
 description: "### Zincidere Hamamı: Talas'taki Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.5852547,38.6478767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zincidere Hamamı: Talas'taki Bir Osmanlı Dönemi Eseri

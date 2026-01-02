@@ -1,18 +1,17 @@
 ---
-title: "Hacı Yakup Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:21+03:00
+title: "Hacı Yakup Bey Çeşmesi"
+date: "2025-12-25T10:17:21+03:00"
 slug: "haci-yakup-bey-cesmesi"
 description: "## Hacı Yakup Bey Çeşmesi: Şebinkarahisar'daki Değerli Miras..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.4242744,40.2840385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Yakup Bey Çeşmesi: Şebinkarahisar'daki Değerli Miras

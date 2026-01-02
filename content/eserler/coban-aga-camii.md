@@ -1,18 +1,17 @@
 ---
-title: "Çoban Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:24:45+03:00
+title: "Çoban Ağa Camii"
+date: "2025-12-24T23:24:45+03:00"
 slug: "coban-aga-camii"
 description: "**Çoban Ağa Camii: Fatih'in Gizli Bir Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.955981,41.018554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çoban Ağa Camii: Fatih'in Gizli Bir Çeşmesi**

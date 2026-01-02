@@ -1,18 +1,17 @@
 ---
-title: "Karbasyanda | Miras Haritası"
-date: 2025-12-25T04:37:17+03:00
+title: "Karbasyanda"
+date: "2025-12-25T04:37:17+03:00"
 slug: "karbasyanda"
 description: "## Karbasyanda: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karbasyanda: Tarihi ve Kültürel Mirasın Gizemi

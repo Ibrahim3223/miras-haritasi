@@ -1,18 +1,17 @@
 ---
-title: "Sia Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:25:08+03:00
+title: "Sia Antik Tiyatrosu"
+date: "2025-12-25T08:25:08+03:00"
 slug: "sia-antik-tiyatrosu"
 description: "**Sia Antik Tiyatrosu: Bucak'ta Bir Antik Edebiyat Mirası**..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.599637,37.264967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sia Antik Tiyatrosu: Bucak'ta Bir Antik Edebiyat Mirası**

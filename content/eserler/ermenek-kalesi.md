@@ -1,18 +1,17 @@
 ---
-title: "Ermenek Kalesi | Miras Haritası"
-date: 2025-12-25T01:46:16+03:00
+title: "Ermenek Kalesi"
+date: "2025-12-25T01:46:16+03:00"
 slug: "ermenek-kalesi"
 description: "## Ermenek Kalesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ermenek"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.888958,36.6425285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ermenek Kalesi

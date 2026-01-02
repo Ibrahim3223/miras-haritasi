@@ -1,18 +1,17 @@
 ---
-title: "Star İş Merkezi Altındaki Sarnıç | Miras Haritası"
-date: 2025-12-25T17:05:58+03:00
+title: "Star İş Merkezi Altındaki Sarnıç"
+date: "2025-12-25T17:05:58+03:00"
 slug: "star-is-merkezi-altindaki-sarnic"
 description: "## Star İş Merkezi Altındaki Sarnıç: İstanbul'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.961663329,41.008814482"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Star İş Merkezi Altındaki Sarnıç: İstanbul'un Gizli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Çaşnıgir Osman Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:30+03:00
+title: "Çaşnıgir Osman Ağa Türbesi"
+date: "2025-12-25T14:33:30+03:00"
 slug: "casnigir-osman-aga-turbesi"
 description: "## Çaşnıgir Osman Ağa Türbesi: İstanbul'un Tarihi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9443779,41.0201149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaşnıgir Osman Ağa Türbesi: İstanbul'un Tarihi Mirası

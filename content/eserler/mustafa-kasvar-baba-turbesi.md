@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Kasvar Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:08:16+03:00
+title: "Mustafa Kasvar Baba Türbesi"
+date: "2025-12-25T15:08:16+03:00"
 slug: "mustafa-kasvar-baba-turbesi"
 description: "# Mustafa Kasvar Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mustafa_Kasvar_Baba_Türbesi.jpg/1200px-Mustafa_Kasvar_Baba_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.020894025,41.019570449"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Mustafa Kasvar Baba Türbesi

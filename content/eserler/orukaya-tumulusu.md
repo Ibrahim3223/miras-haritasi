@@ -1,18 +1,17 @@
 ---
-title: "Örükaya Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:27:42+03:00
+title: "Örükaya Tümülüsü"
+date: "2025-12-25T07:27:42+03:00"
 slug: "orukaya-tumulusu"
 description: "### Örükaya Tümülüsü..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.902401,40.1054649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Örükaya Tümülüsü

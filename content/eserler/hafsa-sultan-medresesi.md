@@ -1,18 +1,17 @@
 ---
-title: "Hafsa Sultan Medresesi | Miras Haritası"
-date: 2025-12-25T17:35:41+03:00
+title: "Hafsa Sultan Medresesi"
+date: "2025-12-25T17:35:41+03:00"
 slug: "hafsa-sultan-medresesi"
 description: "### Hafsa Sultan Medresesi: Manisa'da bir Tarih Ölüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.4270515,38.6110153"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hafsa Sultan Medresesi: Manisa'da bir Tarih Ölüsü

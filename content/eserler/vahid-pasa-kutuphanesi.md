@@ -1,18 +1,17 @@
 ---
-title: "Vahid Pasa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:42+03:00
+title: "Vahid Pasa Kütüphanesi"
+date: "2025-12-25T17:57:42+03:00"
 slug: "vahid-pasa-kutuphanesi"
 description: "## Vahid Paşa Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vahid Paşa Kütüphanesi

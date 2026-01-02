@@ -1,18 +1,17 @@
 ---
-title: "Aşık Paşazade Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:02+03:00
+title: "Aşık Paşazade Çeşmesi"
+date: "2025-12-25T11:10:02+03:00"
 slug: "asik-pasazade-cesmesi"
 description: "### Aşık Paşazade Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.956022,41.024061"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşık Paşazade Çeşmesi

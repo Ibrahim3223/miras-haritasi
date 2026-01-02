@@ -1,18 +1,17 @@
 ---
-title: "Homana | Miras Haritası"
-date: 2025-12-25T04:39:53+03:00
+title: "Homana"
+date: "2025-12-25T04:39:53+03:00"
 slug: "homana"
 description: "## Homana Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.027899,37.24819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Homana Arkeolojik Sit

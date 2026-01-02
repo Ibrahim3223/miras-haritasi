@@ -1,18 +1,17 @@
 ---
-title: "Temple of Apollonis | Miras Haritası"
-date: 2025-12-25T08:11:23+03:00
+title: "Temple of Apollonis"
+date: "2025-12-25T08:11:23+03:00"
 slug: "temple-of-apollonis"
 description: "## Temple of Apollonis: Bir Antik Kentin Kalıntıları..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Balıkesir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Temple of Apollonis: Bir Antik Kentin Kalıntıları

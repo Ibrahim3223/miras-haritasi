@@ -1,18 +1,17 @@
 ---
-title: "Fakih Dede Türbesi, Karatay | Miras Haritası"
-date: 2025-12-25T13:54:48+03:00
+title: "Fakih Dede Türbesi, Karatay"
+date: "2025-12-25T13:54:48+03:00"
 slug: "fakih-dede-turbesi-karatay"
 description: "### Fakih Dede Türbesi: Karatay'da Bir Anıt..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5044136,37.8660393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fakih Dede Türbesi: Karatay'da Bir Anıt

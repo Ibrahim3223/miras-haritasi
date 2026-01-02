@@ -1,18 +1,17 @@
 ---
-title: "Daedala Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:22:56+03:00
+title: "Daedala Kaya Mezarı"
+date: "2025-12-25T13:22:56+03:00"
 slug: "daedala-kaya-mezari"
 description: "## Daedala Kaya Mezarı: Muğla'nın Gizli Öyküsünü Kapsayan Bir Anıt..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9640522,36.7437935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daedala Kaya Mezarı: Muğla'nın Gizli Öyküsünü Kapsayan Bir Anıt

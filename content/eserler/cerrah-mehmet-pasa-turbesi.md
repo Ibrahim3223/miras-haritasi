@@ -1,18 +1,17 @@
 ---
-title: "Cerrah Mehmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:26+03:00
+title: "Cerrah Mehmet Paşa Türbesi"
+date: "2025-12-25T14:29:26+03:00"
 slug: "cerrah-mehmet-pasa-turbesi"
 description: "## Cerrah Mehmet Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9446455,41.0078136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cerrah Mehmet Paşa Türbesi

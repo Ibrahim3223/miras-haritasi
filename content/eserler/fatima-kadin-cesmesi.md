@@ -1,18 +1,17 @@
 ---
-title: "Fatıma Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:55+03:00
+title: "Fatıma Kadın Çeşmesi"
+date: "2025-12-25T11:26:55+03:00"
 slug: "fatima-kadin-cesmesi"
 description: "## Fatıma Kadın Çeşmesi: Marmara'nın Tarihî Bir Örneği..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Marmara"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5538559,40.5859756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatıma Kadın Çeşmesi: Marmara'nın Tarihî Bir Örneği

@@ -1,18 +1,17 @@
 ---
-title: "Zımbıllı Tepesi Höyüğü | Miras Haritası"
-date: 2025-12-25T06:40:53+03:00
+title: "Zımbıllı Tepesi Höyüğü"
+date: "2025-12-25T06:40:53+03:00"
 slug: "zimbilli-tepesi-hoyugu"
 description: "# Zımbıllı Tepesi Höyüğü: Kastamonu'nun Gizli Kalmış Hazineleri..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Taşköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.214062,41.5182061"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Zımbıllı Tepesi Höyüğü: Kastamonu'nun Gizli Kalmış Hazineleri

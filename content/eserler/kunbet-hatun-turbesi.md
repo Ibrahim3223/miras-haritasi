@@ -1,18 +1,17 @@
 ---
-title: "Künbet Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:00+03:00
+title: "Künbet Hatun Türbesi"
+date: "2025-12-25T14:52:00+03:00"
 slug: "kunbet-hatun-turbesi"
 description: "## Künbet Hatun Türbesi: Merzifon'un Gizli Cenneti..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4680176,40.8663025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Künbet Hatun Türbesi: Merzifon'un Gizli Cenneti

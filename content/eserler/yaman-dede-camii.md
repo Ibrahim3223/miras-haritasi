@@ -1,18 +1,17 @@
 ---
-title: "Yaman Dede Camii | Miras Haritası"
-date: 2025-12-24T23:23:20+03:00
+title: "Yaman Dede Camii"
+date: "2025-12-24T23:23:20+03:00"
 slug: "yaman-dede-camii"
 description: "## Yaman Dede Camii: Talas'taki Önemli Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yaman_dede_camii_panaya_kilisesi_talas_2011.jpg/1200px-Yaman_dede_camii_panaya_kilisesi_talas_2011.jpg"
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.5647185,38.687775"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yaman Dede Camii: Talas'taki Önemli Kültür Mirası

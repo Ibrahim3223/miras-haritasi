@@ -1,18 +1,17 @@
 ---
-title: "Yılanbaşlı Çeşme | Miras Haritası"
-date: 2025-12-25T12:39:37+03:00
+title: "Yılanbaşlı Çeşme"
+date: "2025-12-25T12:39:37+03:00"
 slug: "yilanbasli-cesme"
 description: "## Yılanbaşlı Çeşme: Ankara'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.943722167,39.924054961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yılanbaşlı Çeşme: Ankara'nın Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Çingene Kale | Miras Haritası"
-date: 2025-12-25T01:23:14+03:00
+title: "Çingene Kale"
+date: "2025-12-25T01:23:14+03:00"
 slug: "cingene-kale"
 description: "# Çingene Kale..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.3108177,40.3681679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çingene Kale

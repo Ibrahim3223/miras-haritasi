@@ -1,18 +1,17 @@
 ---
-title: "İsmail Höyüğü | Miras Haritası"
-date: 2025-12-25T13:44:31+03:00
+title: "İsmail Höyüğü"
+date: "2025-12-25T13:44:31+03:00"
 slug: "ismail-hoyugu"
 description: "### İsmail Höyüğü: Afyonkarahisar'ın Gizli Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.466183,38.2719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsmail Höyüğü: Afyonkarahisar'ın Gizli Anıtı

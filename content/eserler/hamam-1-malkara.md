@@ -1,18 +1,17 @@
 ---
-title: "Hamam 1, Malkara | Miras Haritası"
-date: 2025-12-25T17:04:59+03:00
+title: "Hamam 1, Malkara"
+date: "2025-12-25T17:04:59+03:00"
 slug: "hamam-1-malkara"
 description: "## Hamam 1, Malkara: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: ["İstanbul Vilayeti"]
+iller: '["İstanbul Vilayeti"]'
 district: "Malkara"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.9036598,40.8912315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamam 1, Malkara: Tarihi ve Kültürel Miras

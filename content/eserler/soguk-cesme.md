@@ -1,18 +1,17 @@
 ---
-title: "Soğuk Çeşme | Miras Haritası"
-date: 2025-12-25T10:24:16+03:00
+title: "Soğuk Çeşme"
+date: "2025-12-25T10:24:16+03:00"
 slug: "soguk-cesme"
 description: "## Soğuk Çeşme: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.7154083,41.0030937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğuk Çeşme: Tarihi ve Kültürel Mirasımız

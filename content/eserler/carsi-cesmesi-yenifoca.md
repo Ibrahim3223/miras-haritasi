@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Çeşmesi, Yenifoça | Miras Haritası"
-date: 2025-12-25T11:59:55+03:00
+title: "Çarşı Çeşmesi, Yenifoça"
+date: "2025-12-25T11:59:55+03:00"
 slug: "carsi-cesmesi-yenifoca"
 description: "## Çarşı Çeşmesi: Foça'nın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.8382607,38.7404938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Çeşmesi: Foça'nın Tarihi Bir Anıtı

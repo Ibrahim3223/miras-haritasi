@@ -1,18 +1,17 @@
 ---
-title: "Kılıçkaya Kalesi, Yusufeli | Miras Haritası"
-date: 2025-12-25T01:38:42+03:00
+title: "Kılıçkaya Kalesi, Yusufeli"
+date: "2025-12-25T01:38:42+03:00"
 slug: "kilickaya-kalesi-yusufeli"
 description: "## Kılıçkaya Kalesi: Artvin'in Gizli Hazineleri..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.4819489,40.6631317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılıçkaya Kalesi: Artvin'in Gizli Hazineleri

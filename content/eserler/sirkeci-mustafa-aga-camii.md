@@ -1,18 +1,17 @@
 ---
-title: "Sirkeci Mustafa Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:18:48+03:00
+title: "Sirkeci Mustafa Ağa Camii"
+date: "2025-12-24T22:18:48+03:00"
 slug: "sirkeci-mustafa-aga-camii"
 description: "## Sirkeci Mustafa Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sirkeci_Mustafa_Ağa_Mosque.jpg/1200px-Sirkeci_Mustafa_Ağa_Mosque.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Cihangir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.983904036,41.033034524"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sirkeci Mustafa Ağa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anı Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:03+03:00
+title: "Atatürk Anı Müzesi"
+date: "2025-12-25T04:01:03+03:00"
 slug: "ataturk-ani-muzesi"
 description: "## Atatürk Anı Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.377334495,37.061473464"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anı Müzesi

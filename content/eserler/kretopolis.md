@@ -1,18 +1,17 @@
 ---
-title: "Kretopolis | Miras Haritası"
-date: 2025-12-25T05:11:49+03:00
+title: "Kretopolis"
+date: "2025-12-25T05:11:49+03:00"
 slug: "kretopolis"
 description: "### Kretopolis..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.321707,37.374984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kretopolis

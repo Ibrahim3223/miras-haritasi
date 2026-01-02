@@ -1,18 +1,17 @@
 ---
-title: "Dörtyol Höyük | Miras Haritası"
-date: 2025-12-25T05:35:34+03:00
+title: "Dörtyol Höyük"
+date: "2025-12-25T05:35:34+03:00"
 slug: "dortyol-hoyuk"
 description: "### Dörtyol Höyük: Isparta'nın Gizemi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Yalvaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.241794,38.190623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dörtyol Höyük: Isparta'nın Gizemi

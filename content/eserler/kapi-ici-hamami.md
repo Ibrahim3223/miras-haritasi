@@ -1,18 +1,17 @@
 ---
-title: "Kapı İçi Hamamı | Miras Haritası"
-date: 2025-12-25T17:11:53+03:00
+title: "Kapı İçi Hamamı"
+date: "2025-12-25T17:11:53+03:00"
 slug: "kapi-ici-hamami"
 description: "### Kapı İçi Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.979435,41.0261726"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kapı İçi Hamamı

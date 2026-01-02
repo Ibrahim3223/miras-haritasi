@@ -1,18 +1,17 @@
 ---
-title: "Yakup Çelebi Camii | Miras Haritası"
-date: 2025-12-24T23:42:42+03:00
+title: "Yakup Çelebi Camii"
+date: "2025-12-24T23:42:42+03:00"
 slug: "yakup-celebi-camii"
 description: "## Yakup Çelebi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.7230282,40.4257011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yakup Çelebi Camii

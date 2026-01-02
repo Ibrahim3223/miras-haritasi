@@ -1,18 +1,17 @@
 ---
-title: "Ulamış Camii (Seferihisar) | Miras Haritası"
-date: 2025-12-25T00:05:43+03:00
+title: "Ulamış Camii (Seferihisar)"
+date: "2025-12-25T00:05:43+03:00"
 slug: "ulamis-camii-seferihisar"
 description: "## Ulamış Camii: Seferihisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8414993,38.2467003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulamış Camii: Seferihisar'ın Tarihi Bir Mirası

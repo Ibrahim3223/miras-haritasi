@@ -1,18 +1,17 @@
 ---
-title: "Kaid Mustafa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:45+03:00
+title: "Kaid Mustafa Ağa Çeşmesi"
+date: "2025-12-25T10:58:45+03:00"
 slug: "kaid-mustafa-aga-cesmesi"
 description: "### Kaid Mustafa Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9226,41.000698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaid Mustafa Ağa Çeşmesi

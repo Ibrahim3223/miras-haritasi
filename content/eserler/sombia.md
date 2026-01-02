@@ -1,18 +1,17 @@
 ---
-title: "Sombia | Miras Haritası"
-date: 2025-12-25T08:07:42+03:00
+title: "Sombia"
+date: "2025-12-25T08:07:42+03:00"
 slug: "sombia"
 description: "## Sombia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sombia Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Xanthos Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:54:26+03:00
+title: "Xanthos Roma Hamamı"
+date: "2025-12-25T16:54:26+03:00"
 slug: "xanthos-roma-hamami"
 description: "### Xanthos Roma Hamamı: Kaş'taki Tarihî Bir Miras..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.319078,36.356258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Xanthos Roma Hamamı: Kaş'taki Tarihî Bir Miras

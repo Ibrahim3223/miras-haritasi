@@ -1,18 +1,17 @@
 ---
-title: "Çavuş Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:10:44+03:00
+title: "Çavuş Sokak Çeşmesi"
+date: "2025-12-25T13:10:44+03:00"
 slug: "cavus-sokak-cesmesi"
 description: "### Çavuş Sokak Çeşmesi: İskilip'in Değerli Taş eserleri..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4669991,40.7357292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çavuş Sokak Çeşmesi: İskilip'in Değerli Taş eserleri

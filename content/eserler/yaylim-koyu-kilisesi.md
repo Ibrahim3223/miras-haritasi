@@ -1,18 +1,17 @@
 ---
-title: "Yaylım Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:41+03:00
+title: "Yaylım Köyü Kilisesi"
+date: "2025-12-25T09:17:41+03:00"
 slug: "yaylim-koyu-kilisesi"
 description: "### Yaylım Köyü Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Köse"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.738142,40.261831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yaylım Köyü Kilisesi

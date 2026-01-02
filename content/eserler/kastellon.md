@@ -1,18 +1,17 @@
 ---
-title: "Kastellon | Miras Haritası"
-date: 2025-12-25T04:54:42+03:00
+title: "Kastellon"
+date: "2025-12-25T04:54:42+03:00"
 slug: "kastellon"
 description: "### Kastellon: Demre'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.974313,36.291555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kastellon: Demre'nin Tarihî ve Kültürel Mirası

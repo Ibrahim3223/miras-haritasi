@@ -1,18 +1,17 @@
 ---
-title: "Arasaxa | Miras Haritası"
-date: 2025-12-25T05:08:35+03:00
+title: "Arasaxa"
+date: "2025-12-25T05:08:35+03:00"
 slug: "arasaxa"
 description: "## Arasaxa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.8757016,38.6183522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arasaxa Arkeolojik Sit

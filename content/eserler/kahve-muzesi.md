@@ -1,18 +1,17 @@
 ---
-title: "Kahve Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:32+03:00
+title: "Kahve Müzesi"
+date: "2025-12-25T03:44:32+03:00"
 slug: "kahve-muzesi"
 description: "## Kahve Müzesi: Türkiye'nin Kahve Kültürünün Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kahve Müzesi: Türkiye'nin Kahve Kültürünün Mirası

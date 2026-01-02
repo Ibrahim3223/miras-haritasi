@@ -1,18 +1,17 @@
 ---
-title: "Mescit-2, Altındağ | Miras Haritası"
-date: 2025-12-25T00:49:10+03:00
+title: "Mescit-2, Altındağ"
+date: "2025-12-25T00:49:10+03:00"
 slug: "mescit-2-altindag"
 description: "# Mescit-2, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.865590971,39.933473358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mescit-2, Altındağ

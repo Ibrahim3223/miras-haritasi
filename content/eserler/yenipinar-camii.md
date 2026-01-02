@@ -1,18 +1,17 @@
 ---
-title: "Yenipınar Camii | Miras Haritası"
-date: 2025-12-24T23:45:16+03:00
+title: "Yenipınar Camii"
+date: "2025-12-24T23:45:16+03:00"
 slug: "yenipinar-camii"
 description: "## Yenipınar Camii: Adıyaman'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adıyaman"
+province: "Adıyaman"
+iller: '["Adıyaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.2774849,37.7617416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenipınar Camii: Adıyaman'ın Tarihi Bir Mirası

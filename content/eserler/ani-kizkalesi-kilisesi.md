@@ -1,18 +1,17 @@
 ---
-title: "Ani Kızkalesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:12+03:00
+title: "Ani Kızkalesi Kilisesi"
+date: "2025-12-25T09:26:12+03:00"
 slug: "ani-kizkalesi-kilisesi"
 description: "## Ani Kızkalesi Kilisesi: Bir Orta Çağ Mimarisi Harikası..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.5685387,40.4963837"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ani Kızkalesi Kilisesi: Bir Orta Çağ Mimarisi Harikası

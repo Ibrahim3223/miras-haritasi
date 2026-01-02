@@ -1,18 +1,17 @@
 ---
-title: "Kumtepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:55:36+03:00
+title: "Kumtepe Tümülüsü"
+date: "2025-12-25T07:55:36+03:00"
 slug: "kumtepe-tumulusu"
 description: "## Kumtepe Tümülüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7962971,41.4512215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumtepe Tümülüsü

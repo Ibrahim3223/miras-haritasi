@@ -1,18 +1,17 @@
 ---
-title: "Kum Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:11+03:00
+title: "Kum Suyu Çeşmesi"
+date: "2025-12-25T11:19:11+03:00"
 slug: "kum-suyu-cesmesi"
 description: "## Kum Suyu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.069042,41.122364"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kum Suyu Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Hacı Veliyüddin Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:06:41+03:00
+title: "Seyyid Hacı Veliyüddin Ağa Camii"
+date: "2025-12-24T23:06:41+03:00"
 slug: "seyyid-haci-veliyuddin-aga-camii"
 description: "## Seyyid Hacı Veliyüddin Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5753078,40.7737732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Hacı Veliyüddin Ağa Camii

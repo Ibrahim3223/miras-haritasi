@@ -1,18 +1,17 @@
 ---
-title: "Kızıl Medrese | Miras Haritası"
-date: 2025-12-25T17:23:57+03:00
+title: "Kızıl Medrese"
+date: "2025-12-25T17:23:57+03:00"
 slug: "kizil-medrese"
 description: "## Kızıl Medrese: Şırnak'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Medreseya_Sor_Cizîra_Botan_2009_2.JPG/1200px-Medreseya_Sor_Cizîra_Botan_2009_2.JPG"
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "42.1881981,37.3252258"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kızıl Medrese: Şırnak'ın Tarihi Bir Mirası

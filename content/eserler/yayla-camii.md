@@ -1,18 +1,17 @@
 ---
-title: "Yayla Camii | Miras Haritası"
-date: 2025-12-24T23:46:31+03:00
+title: "Yayla Camii"
+date: "2025-12-24T23:46:31+03:00"
 slug: "yayla-camii"
 description: "### Yayla Camii: Samsun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Asarcık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.3520012,41.0359993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yayla Camii: Samsun'un Tarihi ve Kültürel Mirası

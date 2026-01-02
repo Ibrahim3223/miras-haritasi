@@ -1,18 +1,17 @@
 ---
-title: "Osman İbni El Zeyd Hazretleri Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:38+03:00
+title: "Osman İbni El Zeyd Hazretleri Türbesi"
+date: "2025-12-25T15:10:38+03:00"
 slug: "osman-ibni-el-zeyd-hazretleri-turbesi"
 description: "### Osman İbni El Zeyd Hazretleri Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.3876474,40.8272865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Osman İbni El Zeyd Hazretleri Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Keramettin Türbesi | Miras Haritası"
-date: 2025-12-25T14:46:38+03:00
+title: "Şeyh Keramettin Türbesi"
+date: "2025-12-25T14:46:38+03:00"
 slug: "seyh-keramettin-turbesi"
 description: "### Şeyh Keramettin Türbesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.30117,40.888572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Keramettin Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Sabancı Merkez Camii | Miras Haritası"
-date: 2025-12-24T21:35:51+03:00
+title: "Sabancı Merkez Camii"
+date: "2025-12-24T21:35:51+03:00"
 slug: "sabanci-merkez-camii"
 description: "## Sabancı Merkez Camii: Adana'da Bir Örnek Olan Bir Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sabancimosque19082006.jpg/1200px-Sabancimosque19082006.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Adana"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.334166666,36.991388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sabancı Merkez Camii: Adana'da Bir Örnek Olan Bir Cami

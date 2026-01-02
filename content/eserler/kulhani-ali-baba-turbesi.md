@@ -1,18 +1,17 @@
 ---
-title: "Külhani Ali Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:17+03:00
+title: "Külhani Ali Baba Türbesi"
+date: "2025-12-25T15:16:17+03:00"
 slug: "kulhani-ali-baba-turbesi"
 description: "## Külhani Ali Baba Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.030601,38.371825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Külhani Ali Baba Türbesi

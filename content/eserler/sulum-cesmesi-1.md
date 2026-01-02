@@ -1,18 +1,17 @@
 ---
-title: "Sülüm Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:43:14+03:00
+title: "Sülüm Çeşmesi 1"
+date: "2025-12-25T10:43:14+03:00"
 slug: "sulum-cesmesi-1"
 description: "## Sülüm Çeşmesi 1: Afyonkarahisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5352001,38.7598305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sülüm Çeşmesi 1: Afyonkarahisar'ın Tarihi Bir Çeşmesi

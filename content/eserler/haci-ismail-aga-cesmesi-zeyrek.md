@@ -1,18 +1,17 @@
 ---
-title: "Hacı İsmail Ağa Çeşmesi, Zeyrek | Miras Haritası"
-date: 2025-12-25T12:13:41+03:00
+title: "Hacı İsmail Ağa Çeşmesi, Zeyrek"
+date: "2025-12-25T12:13:41+03:00"
 slug: "haci-ismail-aga-cesmesi-zeyrek"
 description: "## Hacı İsmail Ağa Çeşmesi, Zeyrek..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.951764,41.020228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı İsmail Ağa Çeşmesi, Zeyrek

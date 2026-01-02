@@ -1,18 +1,17 @@
 ---
-title: "Nikomedia Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:12:51+03:00
+title: "Nikomedia Antik Tiyatrosu"
+date: "2025-12-25T04:12:51+03:00"
 slug: "nikomedia-antik-tiyatrosu"
 description: "## Nikomedia Antik Tiyatrosu: Bir İmparatorlukun Kültür Mirası..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9216347,40.7683754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nikomedia Antik Tiyatrosu: Bir İmparatorlukun Kültür Mirası

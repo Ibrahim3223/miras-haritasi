@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Emerce Köyü Çeşmesi, Taşköprü | Miras Haritası"
-date: 2025-12-25T12:58:31+03:00
+title: "Yukarı Emerce Köyü Çeşmesi, Taşköprü"
+date: "2025-12-25T12:58:31+03:00"
 slug: "yukari-emerce-koyu-cesmesi-taskopru"
 description: "## Yukarı Emerce Köyü Çeşmesi: Taşköprü'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Taşköprü"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.234945237,41.522749971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Emerce Köyü Çeşmesi: Taşköprü'nin Gizli Çeşmesi

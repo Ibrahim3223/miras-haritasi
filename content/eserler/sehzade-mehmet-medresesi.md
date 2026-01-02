@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Mehmet Medresesi | Miras Haritası"
-date: 2025-12-25T17:31:05+03:00
+title: "Şehzade Mehmet Medresesi"
+date: "2025-12-25T17:31:05+03:00"
 slug: "sehzade-mehmet-medresesi"
 description: "### Şehzade Mehmet Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9573914,41.0145796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şehzade Mehmet Medresesi

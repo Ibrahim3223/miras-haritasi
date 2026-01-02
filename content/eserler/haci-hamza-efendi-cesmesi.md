@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hamza Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:51+03:00
+title: "Hacı Hamza Efendi Çeşmesi"
+date: "2025-12-25T10:41:51+03:00"
 slug: "haci-hamza-efendi-cesmesi"
 description: "### Hacı Hamza Efendi Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7656555,41.3750153"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Hamza Efendi Çeşmesi

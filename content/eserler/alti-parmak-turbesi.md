@@ -1,18 +1,17 @@
 ---
-title: "Altı Parmak Türbesi | Miras Haritası"
-date: 2025-12-25T14:11:08+03:00
+title: "Altı Parmak Türbesi"
+date: "2025-12-25T14:11:08+03:00"
 slug: "alti-parmak-turbesi"
 description: "## Altı Parmak Türbesi: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.050967,40.189339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altı Parmak Türbesi: Bursa'nın Gizli Cenneti

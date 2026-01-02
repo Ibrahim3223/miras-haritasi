@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami, Sumbas | Miras Haritası"
-date: 2025-12-25T00:28:03+03:00
+title: "Eski Cami, Sumbas"
+date: "2025-12-25T00:28:03+03:00"
 slug: "eski-cami-sumbas"
 description: "## Eski Cami, Sumbas: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Sumbas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.01754,37.4486351"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Cami, Sumbas: Tarihi ve Kültürel Mirasın Gizemi

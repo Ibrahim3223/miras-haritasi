@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Şucaeddin Camii | Miras Haritası"
-date: 2025-12-24T22:16:42+03:00
+title: "Yusuf Şucaeddin Camii"
+date: "2025-12-24T22:16:42+03:00"
 slug: "yusuf-sucaeddin-camii"
 description: "## Yusuf Şucaeddin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yusuf_Şucaeddin_Camii1.jpg/1200px-Yusuf_Şucaeddin_Camii1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9468,41.03458"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yusuf Şucaeddin Camii

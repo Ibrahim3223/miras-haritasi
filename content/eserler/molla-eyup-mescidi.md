@@ -1,18 +1,17 @@
 ---
-title: "Molla Eyüp Mescidi | Miras Haritası"
-date: 2025-12-25T17:53:04+03:00
+title: "Molla Eyüp Mescidi"
+date: "2025-12-25T17:53:04+03:00"
 slug: "molla-eyup-mescidi"
 description: "### Molla Eyüp Mescidi: Arapgir'in Tarihi ve Kültürel Mirası Kütüphanesi..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Arapgir"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "38.4739761,39.0597038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Molla Eyüp Mescidi: Arapgir'in Tarihi ve Kültürel Mirası Kütüphanesi

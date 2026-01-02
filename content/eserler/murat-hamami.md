@@ -1,18 +1,17 @@
 ---
-title: "Murat Hamamı | Miras Haritası"
-date: 2025-12-25T16:37:22+03:00
+title: "Murat Hamamı"
+date: "2025-12-25T16:37:22+03:00"
 slug: "murat-hamami"
 description: "## Murat Hamamı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çerkeş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8931236,40.8119774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Murat Hamamı

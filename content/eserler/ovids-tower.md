@@ -1,18 +1,17 @@
 ---
-title: "Ovid's Tower | Miras Haritası"
-date: 2025-12-25T13:38:27+03:00
+title: "Ovid's Tower"
+date: "2025-12-25T13:38:27+03:00"
 slug: "ovids-tower"
 description: "## Ovid'in Kulesi: Uskumruköy'deki Tarihi Bir Anıt..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Uskumruköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.015360244,41.2103802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ovid'in Kulesi: Uskumruköy'deki Tarihi Bir Anıt

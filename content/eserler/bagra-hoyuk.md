@@ -1,18 +1,17 @@
 ---
-title: "Bağra Höyük | Miras Haritası"
-date: 2025-12-25T06:11:49+03:00
+title: "Bağra Höyük"
+date: "2025-12-25T06:11:49+03:00"
 slug: "bagra-hoyuk"
 description: "## Bağra Höyük: Seydişehir'in Gizli Güzelliği..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.9856262,37.3897972"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağra Höyük: Seydişehir'in Gizli Güzelliği

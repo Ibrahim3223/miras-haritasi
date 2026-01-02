@@ -1,18 +1,17 @@
 ---
-title: "Kadı Camii | Miras Haritası"
-date: 2025-12-24T22:07:40+03:00
+title: "Kadı Camii"
+date: "2025-12-24T22:07:40+03:00"
 slug: "kadi-camii"
 description: "## Kadı Camii: Diyarbakır'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2385675,37.9124164"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Camii: Diyarbakır'ın Tarihi ve Kültürel Mirası

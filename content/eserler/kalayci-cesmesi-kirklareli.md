@@ -1,18 +1,17 @@
 ---
-title: "Kalaycı Çeşmesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T12:59:02+03:00
+title: "Kalaycı Çeşmesi, Kırklareli"
+date: "2025-12-25T12:59:02+03:00"
 slug: "kalayci-cesmesi-kirklareli"
 description: "## Kalaycı Çeşmesi: Kırklareli'nin Gizli Cezbesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2255363,41.7378883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalaycı Çeşmesi: Kırklareli'nin Gizli Cezbesi

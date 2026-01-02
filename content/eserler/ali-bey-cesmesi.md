@@ -1,18 +1,17 @@
 ---
-title: "Ali Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:10+03:00
+title: "Ali Bey Çeşmesi"
+date: "2025-12-25T10:40:10+03:00"
 slug: "ali-bey-cesmesi"
 description: "## Ali Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/German_Blues,_maps_of_Istanbul,_M8-3_(Ali_Bey_Fountain).jpg/1200px-German_Blues,_maps_of_Istanbul,_M8-3_(Ali_Bey_Fountain).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.928027777,41.017611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ali Bey Çeşmesi

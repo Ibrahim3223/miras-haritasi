@@ -1,18 +1,17 @@
 ---
-title: "Yeşilli Cami | Miras Haritası"
-date: 2025-12-24T23:57:30+03:00
+title: "Yeşilli Cami"
+date: "2025-12-24T23:57:30+03:00"
 slug: "yesilli-cami"
 description: "### Yeşilli Cami Tanıtımı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bigadiç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1341114,39.3940277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeşilli Cami Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:21+03:00
+title: "Atatürk ve Etnografya Müzesi"
+date: "2025-12-25T03:26:21+03:00"
 slug: "ataturk-ve-etnografya-muzesi"
 description: "### Atatürk ve Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TR_Denizli_asv2020-02_img03_Ethnography_Museum.jpg/1200px-TR_Denizli_asv2020-02_img03_Ethnography_Museum.jpg"
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.085055555,37.782944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Atatürk ve Etnografya Müzesi

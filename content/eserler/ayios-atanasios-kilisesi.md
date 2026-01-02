@@ -1,18 +1,17 @@
 ---
-title: "Ayios Atanasios Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:39+03:00
+title: "Ayios Atanasios Kilisesi"
+date: "2025-12-25T09:10:39+03:00"
 slug: "ayios-atanasios-kilisesi"
 description: "### Ayios Atanasios Kilisesi: Beyoğlu, İstanbul'un Gizli Çehresini İyice Keşfetmek..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.975132,41.045565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Atanasios Kilisesi: Beyoğlu, İstanbul'un Gizli Çehresini İyice Keşfetmek

@@ -1,18 +1,17 @@
 ---
-title: "Kanlıtaş Höyük | Miras Haritası"
-date: 2025-12-25T07:05:50+03:00
+title: "Kanlıtaş Höyük"
+date: "2025-12-25T07:05:50+03:00"
 slug: "kanlitas-hoyuk"
 description: "### Kanlıtaş Höyük: Eskişehir'in Gizli Tarih Öreni..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "İnönü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0829945,39.6973839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kanlıtaş Höyük: Eskişehir'in Gizli Tarih Öreni

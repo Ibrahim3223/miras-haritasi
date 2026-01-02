@@ -1,18 +1,17 @@
 ---
-title: "İkinci Beyazıt Camii | Miras Haritası"
-date: 2025-12-24T21:57:55+03:00
+title: "İkinci Beyazıt Camii"
+date: "2025-12-24T21:57:55+03:00"
 slug: "ikinci-beyazit-camii"
 description: "## İkinci Beyazıt Camii: Amasya'nın Göbeği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Amasya-Mosque-04.JPG/1200px-Amasya-Mosque-04.JPG"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.827,40.65"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İkinci Beyazıt Camii: Amasya'nın Göbeği

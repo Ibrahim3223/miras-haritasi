@@ -1,18 +1,17 @@
 ---
-title: "Termessos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:41+03:00
+title: "Termessos Antik Tiyatrosu"
+date: "2025-12-25T04:14:41+03:00"
 slug: "termessos-antik-tiyatrosu"
 description: "## Termessos Antik Tiyatrosu: Antalya'nın Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Theatre_in_Termessos.jpg/1200px-Theatre_in_Termessos.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.464538888,36.982466666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Termessos Antik Tiyatrosu: Antalya'nın Tarihi Mirası

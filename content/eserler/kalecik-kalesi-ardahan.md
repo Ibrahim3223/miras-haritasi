@@ -1,18 +1,17 @@
 ---
-title: "Kalecik Kalesi, Ardahan | Miras Haritası"
-date: 2025-12-25T01:34:34+03:00
+title: "Kalecik Kalesi, Ardahan"
+date: "2025-12-25T01:34:34+03:00"
 slug: "kalecik-kalesi-ardahan"
 description: "### Kalecik Kalesi: Ardahan'ın Tarihî Mirası..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Göle"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.481213,40.968655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kalecik Kalesi: Ardahan'ın Tarihî Mirası

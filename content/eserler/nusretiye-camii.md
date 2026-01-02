@@ -1,18 +1,17 @@
 ---
-title: "Nusretiye Camii | Miras Haritası"
-date: 2025-12-24T21:39:19+03:00
+title: "Nusretiye Camii"
+date: "2025-12-24T21:39:19+03:00"
 slug: "nusretiye-camii"
 description: "## Nusretiye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nusretiye_Mosque_-_March_2022.jpg/1200px-Nusretiye_Mosque_-_March_2022.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.98316111,41.02732778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nusretiye Camii

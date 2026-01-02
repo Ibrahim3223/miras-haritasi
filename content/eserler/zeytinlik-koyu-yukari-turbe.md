@@ -1,18 +1,17 @@
 ---
-title: "Zeytinlik Köyü Yukarı Türbe | Miras Haritası"
-date: 2025-12-25T14:43:58+03:00
+title: "Zeytinlik Köyü Yukarı Türbe"
+date: "2025-12-25T14:43:58+03:00"
 slug: "zeytinlik-koyu-yukari-turbe"
 description: "## Zeytinlik Köyü Yukarı Türbe: Artvin'in Gizli Cenneti..."
 featured_image: ""
-province: "Kutaisi Guberniyası"
-iller: ["Kutaisi Guberniyası"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: "Kutaisi Guberniyası"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.85411,41.118799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeytinlik Köyü Yukarı Türbe: Artvin'in Gizli Cenneti

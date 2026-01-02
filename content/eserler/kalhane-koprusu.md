@@ -1,18 +1,17 @@
 ---
-title: "Kalhane Köprüsü | Miras Haritası"
-date: 2025-12-25T02:45:42+03:00
+title: "Kalhane Köprüsü"
+date: "2025-12-25T02:45:42+03:00"
 slug: "kalhane-koprusu"
 description: "## Kalhane Köprüsü: Elazığ'ın Tarihî Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Maden"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.682136,38.388411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalhane Köprüsü: Elazığ'ın Tarihî Mirası

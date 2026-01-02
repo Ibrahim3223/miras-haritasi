@@ -1,18 +1,17 @@
 ---
-title: "Karadeniz Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:38+03:00
+title: "Karadeniz Türbesi"
+date: "2025-12-25T15:22:38+03:00"
 slug: "karadeniz-turbesi"
 description: "## Karadeniz Türbesi: Diyarbakır'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2408485,37.9080429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadeniz Türbesi: Diyarbakır'ın Gizli Zirvesi

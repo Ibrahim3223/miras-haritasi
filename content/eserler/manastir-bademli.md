@@ -1,18 +1,17 @@
 ---
-title: "Manastır (Bademli) | Miras Haritası"
-date: 2025-12-25T09:56:32+03:00
+title: "Manastır (Bademli)"
+date: "2025-12-25T09:56:32+03:00"
 slug: "manastir-bademli"
 description: "## Gökçeada'nın Bademli Manastırı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.9052067,40.2230644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökçeada'nın Bademli Manastırı: Tarihi ve Kültürel Miras

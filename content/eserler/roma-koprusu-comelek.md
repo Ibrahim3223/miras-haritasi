@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Çömelek | Miras Haritası"
-date: 2025-12-25T02:52:18+03:00
+title: "Roma Köprüsü, Çömelek"
+date: "2025-12-25T02:52:18+03:00"
 slug: "roma-koprusu-comelek"
 description: "## Roma Köprüsü, Çömelek..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.7084512,36.7063796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Çömelek

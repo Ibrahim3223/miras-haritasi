@@ -1,18 +1,17 @@
 ---
-title: "Tyana Roma Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:03+03:00
+title: "Tyana Roma Hamamı"
+date: "2025-12-25T17:02:03+03:00"
 slug: "tyana-roma-hamami"
 description: "## Tyana Roma Hamamı..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.5728035,37.8203163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tyana Roma Hamamı

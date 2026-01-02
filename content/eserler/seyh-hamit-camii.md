@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hamit Camii | Miras Haritası"
-date: 2025-12-24T23:12:06+03:00
+title: "Şeyh Hamit Camii"
+date: "2025-12-24T23:12:06+03:00"
 slug: "seyh-hamit-camii"
 description: "## Şeyh Hamit Camii: Kayseri'nin Güzelliği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.5722733,38.6500206"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Hamit Camii: Kayseri'nin Güzelliği

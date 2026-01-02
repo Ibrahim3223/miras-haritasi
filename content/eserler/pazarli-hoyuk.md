@@ -1,18 +1,17 @@
 ---
-title: "Pazarlı Höyük | Miras Haritası"
-date: 2025-12-25T07:09:03+03:00
+title: "Pazarlı Höyük"
+date: "2025-12-25T07:09:03+03:00"
 slug: "pazarli-hoyuk"
 description: "# Pazarlı Höyük: Çorum'un Gizli Kahramanı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.9516,40.3253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pazarlı Höyük: Çorum'un Gizli Kahramanı

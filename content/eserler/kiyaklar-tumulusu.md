@@ -1,18 +1,17 @@
 ---
-title: "Kıyaklar Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:15:30+03:00
+title: "Kıyaklar Tümülüsü"
+date: "2025-12-25T08:15:30+03:00"
 slug: "kiyaklar-tumulusu"
 description: "# Kıyaklar Tümülüsü: Yenipazar'ın Gizli Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Yenipazar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0687294,40.0889397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kıyaklar Tümülüsü: Yenipazar'ın Gizli Mirası

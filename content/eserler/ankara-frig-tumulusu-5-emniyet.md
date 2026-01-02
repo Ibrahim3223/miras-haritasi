@@ -1,18 +1,17 @@
 ---
-title: "Ankara Frig Tümülüsü 5, Emniyet | Miras Haritası"
-date: 2025-12-25T07:28:53+03:00
+title: "Ankara Frig Tümülüsü 5, Emniyet"
+date: "2025-12-25T07:28:53+03:00"
 slug: "ankara-frig-tumulusu-5-emniyet"
 description: "## Ankara Frig Tümülüsü 5, Emniyet: Geçmişten bugüne..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8173294,39.9329338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Frig Tümülüsü 5, Emniyet: Geçmişten bugüne

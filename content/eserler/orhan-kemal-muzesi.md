@@ -1,18 +1,17 @@
 ---
-title: "Orhan Kemal Müzesi | Miras Haritası"
-date: 2025-12-25T03:25:43+03:00
+title: "Orhan Kemal Müzesi"
+date: "2025-12-25T03:25:43+03:00"
 slug: "orhan-kemal-muzesi"
 description: "## Orhan Kemal Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/OrhanKemalMuseum_(3).JPG/1200px-OrhanKemalMuseum_(3).JPG"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Cihangir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.98357,41.03055"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Orhan Kemal Müzesi

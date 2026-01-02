@@ -1,18 +1,17 @@
 ---
-title: "Seyfülmülük Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:25+03:00
+title: "Seyfülmülük Türbesi"
+date: "2025-12-25T14:39:25+03:00"
 slug: "seyfulmuluk-turbesi"
 description: "## Seyfülmülük Türbesi: Diyarbakır'ın Tarihî Bir İmzası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2703018,37.8380508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyfülmülük Türbesi: Diyarbakır'ın Tarihî Bir İmzası

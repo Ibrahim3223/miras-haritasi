@@ -1,18 +1,17 @@
 ---
-title: "İslâm Tarih, Sanat ve Kültür Araştırma Merkezi | Miras Haritası"
-date: 2025-12-25T17:45:16+03:00
+title: "İslâm Tarih, Sanat ve Kültür Araştırma Merkezi"
+date: "2025-12-25T17:45:16+03:00"
 slug: "islm-tarih-sanat-ve-kultur-arastirma-merkezi"
 description: "### İslâm Tarih, Sanat ve Kültür Araştırma Merkezi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.01111111,41.04944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İslâm Tarih, Sanat ve Kültür Araştırma Merkezi

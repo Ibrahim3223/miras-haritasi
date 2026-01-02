@@ -1,18 +1,17 @@
 ---
-title: "Keskin Sulu Mağara | Miras Haritası"
-date: 2025-12-25T03:34:29+03:00
+title: "Keskin Sulu Mağara"
+date: "2025-12-25T03:34:29+03:00"
 slug: "keskin-sulu-magara"
 description: "**Keskin Sulu Mağara: Kırıkkale'nin Gizli Kahramanı**..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Keskin"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Keskin Sulu Mağara: Kırıkkale'nin Gizli Kahramanı**

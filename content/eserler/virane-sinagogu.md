@@ -1,18 +1,17 @@
 ---
-title: "Virane Sinagoğu | Miras Haritası"
-date: 2025-12-25T16:15:02+03:00
+title: "Virane Sinagoğu"
+date: "2025-12-25T16:15:02+03:00"
 slug: "virane-sinagogu"
 description: "## Virane Sinagogu: Üsküdar'daki Bir Önemli Sinagog..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.03146,41.032986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Virane Sinagogu: Üsküdar'daki Bir Önemli Sinagog

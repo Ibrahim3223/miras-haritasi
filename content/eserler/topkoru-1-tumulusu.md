@@ -1,18 +1,17 @@
 ---
-title: "Topkoru 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:45:42+03:00
+title: "Topkoru 1 Tümülüsü"
+date: "2025-12-25T07:45:42+03:00"
 slug: "topkoru-1-tumulusu"
 description: "## Topkoru 1 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1616917,42.0094032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topkoru 1 Tümülüsü

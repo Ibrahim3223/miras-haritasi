@@ -1,18 +1,17 @@
 ---
-title: "Davutpaşa Höyüğü | Miras Haritası"
-date: 2025-12-25T06:29:13+03:00
+title: "Davutpaşa Höyüğü"
+date: "2025-12-25T06:29:13+03:00"
 slug: "davutpasa-hoyugu"
 description: "## Davutpaşa Höyüğü..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.6097879,36.3180224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Davutpaşa Höyüğü

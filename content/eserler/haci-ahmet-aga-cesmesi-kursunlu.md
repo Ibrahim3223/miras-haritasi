@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ahmet Ağa Çeşmesi, Kurşunlu | Miras Haritası"
-date: 2025-12-25T12:29:22+03:00
+title: "Hacı Ahmet Ağa Çeşmesi, Kurşunlu"
+date: "2025-12-25T12:29:22+03:00"
 slug: "haci-ahmet-aga-cesmesi-kursunlu"
 description: "# Hacı Ahmet Ağa Çeşmesi, Kurşunlu..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.42196773,40.838069472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Ahmet Ağa Çeşmesi, Kurşunlu

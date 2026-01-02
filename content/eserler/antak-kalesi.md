@@ -1,18 +1,17 @@
 ---
-title: "Antak Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:30+03:00
+title: "Antak Kalesi"
+date: "2025-12-25T01:23:30+03:00"
 slug: "antak-kalesi"
 description: "# Antak Kalesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Lice"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.7333984,38.3571663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Antak Kalesi

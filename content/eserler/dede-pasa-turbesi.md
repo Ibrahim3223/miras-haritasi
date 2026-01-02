@@ -1,18 +1,17 @@
 ---
-title: "Dede Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:53+03:00
+title: "Dede Paşa Türbesi"
+date: "2025-12-25T15:20:53+03:00"
 slug: "dede-pasa-turbesi"
 description: "## Dede Paşa Türbesi..."
 featured_image: ""
-province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: "Erzurum Vilayeti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.4996033,39.7170715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dede Paşa Türbesi

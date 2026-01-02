@@ -1,18 +1,17 @@
 ---
-title: "Bekardere Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:23+03:00
+title: "Bekardere Çeşmesi"
+date: "2025-12-25T11:16:23+03:00"
 slug: "bekardere-cesmesi"
 description: "## Bekardere Çeşmesi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.060916,41.047316"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekardere Çeşmesi: Üsküdar'ın Gizli Çeşmesi

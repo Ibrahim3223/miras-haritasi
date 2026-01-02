@@ -1,18 +1,17 @@
 ---
-title: "Bolvadin Müzesi | Miras Haritası"
-date: 2025-12-25T03:12:50+03:00
+title: "Bolvadin Müzesi"
+date: "2025-12-25T03:12:50+03:00"
 slug: "bolvadin-muzesi"
 description: "## Bolvadin Müzesi: Afyonkarahisar'daki Bir Kültür Emeği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.040018,38.7188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bolvadin Müzesi: Afyonkarahisar'daki Bir Kültür Emeği

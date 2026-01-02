@@ -1,18 +1,17 @@
 ---
-title: "Bulgur Tekkesi Mescidi | Miras Haritası"
-date: 2025-12-24T22:26:29+03:00
+title: "Bulgur Tekkesi Mescidi"
+date: "2025-12-24T22:26:29+03:00"
 slug: "bulgur-tekkesi-mescidi"
 description: "## Bulgur Tekkesi Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5001831,37.8692436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bulgur Tekkesi Mescidi

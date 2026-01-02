@@ -1,18 +1,17 @@
 ---
-title: "Idyma Kaya Mezarları | Miras Haritası"
-date: 2025-12-25T13:21:05+03:00
+title: "Idyma Kaya Mezarları"
+date: "2025-12-25T13:21:05+03:00"
 slug: "idyma-kaya-mezarlari"
 description: "## Idyma Kaya Mezarları: Muğla'nın Gizli Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3532658,37.0520248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Idyma Kaya Mezarları: Muğla'nın Gizli Mirası

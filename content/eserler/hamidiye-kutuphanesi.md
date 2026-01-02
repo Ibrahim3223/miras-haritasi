@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:52:48+03:00
+title: "Hamidiye Kütüphanesi"
+date: "2025-12-25T17:52:48+03:00"
 slug: "hamidiye-kutuphanesi"
 description: "## Hamidiye Kütüphanesi: Balıkesir'de Bir Kültür Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.8798561,39.6460953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Kütüphanesi: Balıkesir'de Bir Kültür Mirası

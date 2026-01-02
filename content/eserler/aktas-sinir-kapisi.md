@@ -1,18 +1,17 @@
 ---
-title: "Aktaş Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:35:40+03:00
+title: "Aktaş Sınır Kapısı"
+date: "2025-12-25T08:35:40+03:00"
 slug: "aktas-sinir-kapisi"
 description: "## Aktaş Sınır Kapısı: Tarihî Bir Kervansarayın Öyküsü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "43.2010746,41.235091297"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aktaş Sınır Kapısı: Tarihî Bir Kervansarayın Öyküsü

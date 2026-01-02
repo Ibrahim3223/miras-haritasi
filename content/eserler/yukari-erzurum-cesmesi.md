@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Erzurum Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:24+03:00
+title: "Yukarı Erzurum Çeşmesi"
+date: "2025-12-25T10:24:24+03:00"
 slug: "yukari-erzurum-cesmesi"
 description: "## Yukarı Erzurum Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8682518,39.9321938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Erzurum Çeşmesi

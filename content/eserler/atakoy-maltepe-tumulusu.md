@@ -1,18 +1,17 @@
 ---
-title: "Ataköy Maltepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:58:42+03:00
+title: "Ataköy Maltepe Tümülüsü"
+date: "2025-12-25T07:58:42+03:00"
 slug: "atakoy-maltepe-tumulusu"
 description: "**Ataköy Maltepe Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4494267,41.6041489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ataköy Maltepe Tümülüsü**

@@ -1,18 +1,17 @@
 ---
-title: "Beyazıt Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:52:47+03:00
+title: "Beyazıt Camii Çeşmesi"
+date: "2025-12-25T11:52:47+03:00"
 slug: "beyazit-camii-cesmesi"
 description: "## Beyazıt Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.965555,41.009617"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyazıt Camii Çeşmesi

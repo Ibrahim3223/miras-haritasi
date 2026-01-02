@@ -1,18 +1,17 @@
 ---
-title: "Elmalı IV Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:41+03:00
+title: "Elmalı IV Tümülüsü"
+date: "2025-12-25T08:04:41+03:00"
 slug: "elmali-iv-tumulusu"
 description: "## Elmalı IV Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8996239,41.187088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elmalı IV Tümülüsü: Edirne'nin Gizli Mirası

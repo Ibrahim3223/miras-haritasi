@@ -1,18 +1,17 @@
 ---
-title: "Çevre Kale | Miras Haritası"
-date: 2025-12-25T01:24:46+03:00
+title: "Çevre Kale"
+date: "2025-12-25T01:24:46+03:00"
 slug: "cevre-kale"
 description: "### Çevre Kale: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Kulu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.907093,39.1803513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çevre Kale: Konya'nın Gizli Mirası

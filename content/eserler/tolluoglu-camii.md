@@ -1,18 +1,17 @@
 ---
-title: "Tolluoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:13:56+03:00
+title: "Tolluoğlu Camii"
+date: "2025-12-24T23:13:56+03:00"
 slug: "tolluoglu-camii"
 description: "### Tolluoğlu Camii..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5020561,37.8661728"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tolluoğlu Camii

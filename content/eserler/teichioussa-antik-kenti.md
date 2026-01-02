@@ -1,18 +1,17 @@
 ---
-title: "Teichioussa Antik Kenti | Miras Haritası"
-date: 2025-12-25T08:29:05+03:00
+title: "Teichioussa Antik Kenti"
+date: "2025-12-25T08:29:05+03:00"
 slug: "teichioussa-antik-kenti"
 description: "### Teichioussa Antik Kenti: İyonya'nın Gizli Mirası..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4109,37.4124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Teichioussa Antik Kenti: İyonya'nın Gizli Mirası

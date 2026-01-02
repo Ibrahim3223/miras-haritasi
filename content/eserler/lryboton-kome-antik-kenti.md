@@ -1,18 +1,17 @@
 ---
-title: "Lryboton Kome Antik Kenti | Miras Haritası"
-date: 2025-12-25T05:22:25+03:00
+title: "Lryboton Kome Antik Kenti"
+date: "2025-12-25T05:22:25+03:00"
 slug: "lryboton-kome-antik-kenti"
 description: "## Lryboton Kome Antik Kenti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kepez"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.725,36.9981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lryboton Kome Antik Kenti

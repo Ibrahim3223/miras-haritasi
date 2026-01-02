@@ -1,18 +1,17 @@
 ---
-title: "Şeyhoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:11:15+03:00
+title: "Şeyhoğlu Camii"
+date: "2025-12-24T23:11:15+03:00"
 slug: "seyhoglu-camii"
 description: "# Şeyhoğlu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çankırı"
+province: "Çankırı"
+iller: '["Çankırı"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.6128387,40.604538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyhoğlu Camii

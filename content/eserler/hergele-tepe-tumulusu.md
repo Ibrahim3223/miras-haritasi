@@ -1,18 +1,17 @@
 ---
-title: "Hergele Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:15:22+03:00
+title: "Hergele Tepe Tümülüsü"
+date: "2025-12-25T08:15:22+03:00"
 slug: "hergele-tepe-tumulusu"
 description: "## Hergele Tepe Tümülüsü: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7155266,41.4729004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hergele Tepe Tümülüsü: Türkiye'nin Gizli Kahramanı

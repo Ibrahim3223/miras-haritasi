@@ -1,18 +1,17 @@
 ---
-title: "İlyas Peygamber Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:40+03:00
+title: "İlyas Peygamber Kilisesi"
+date: "2025-12-25T08:57:40+03:00"
 slug: "ilyas-peygamber-kilisesi"
 description: "### İlyas Peygamber Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Église_du_Prophète-Élie_de_Smyrne_(fin_XIXe_siècle).jpg/1200px-Église_du_Prophète-Élie_de_Smyrne_(fin_XIXe_siècle).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.1418678,38.4004088"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İlyas Peygamber Kilisesi

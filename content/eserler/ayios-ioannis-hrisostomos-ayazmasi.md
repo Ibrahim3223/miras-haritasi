@@ -1,18 +1,17 @@
 ---
-title: "Ayios Ioannis Hrisostomos Ayazması | Miras Haritası"
-date: 2025-12-25T12:43:47+03:00
+title: "Ayios Ioannis Hrisostomos Ayazması"
+date: "2025-12-25T12:43:47+03:00"
 slug: "ayios-ioannis-hrisostomos-ayazmasi"
 description: "**Ayios Ioannis Hrisostomos Ayazması**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ayios_Ioannis_Hrisostomos_Ayazması.jpg/1200px-Ayios_Ioannis_Hrisostomos_Ayazması.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.041441,40.9765282"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ayios Ioannis Hrisostomos Ayazması**

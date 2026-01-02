@@ -1,18 +1,17 @@
 ---
-title: "Silindion | Miras Haritası"
-date: 2025-12-25T05:25:17+03:00
+title: "Silindion"
+date: "2025-12-25T05:25:17+03:00"
 slug: "silindion"
 description: "## Silindion Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Silindion Arkeolojik Sit

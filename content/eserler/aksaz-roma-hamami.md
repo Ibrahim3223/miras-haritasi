@@ -1,18 +1,17 @@
 ---
-title: "Aksaz Roma Hamamı | Miras Haritası"
-date: 2025-12-25T17:15:17+03:00
+title: "Aksaz Roma Hamamı"
+date: "2025-12-25T17:15:17+03:00"
 slug: "aksaz-roma-hamami"
 description: "## Aksaz Roma Hamamı: Birinci Yüzyıldan Kalma Önemli Bir Miras..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.1608067,38.2817497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aksaz Roma Hamamı: Birinci Yüzyıldan Kalma Önemli Bir Miras

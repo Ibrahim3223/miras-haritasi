@@ -1,18 +1,17 @@
 ---
-title: "Kireli Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:02:40+03:00
+title: "Kireli Tepe Höyüğü"
+date: "2025-12-25T06:02:40+03:00"
 slug: "kireli-tepe-hoyugu"
 description: "## Kireli Tepe Höyüğü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8190994,38.137001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kireli Tepe Höyüğü

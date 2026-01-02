@@ -1,18 +1,17 @@
 ---
-title: "İlk Şehitler Anıtı | Miras Haritası"
-date: 2025-12-25T15:50:07+03:00
+title: "İlk Şehitler Anıtı"
+date: "2025-12-25T15:50:07+03:00"
 slug: "ilk-sehitler-aniti"
 description: "## İlk Şehitler Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.1889496,40.0424347"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlk Şehitler Anıtı

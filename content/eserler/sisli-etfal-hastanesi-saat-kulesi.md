@@ -1,18 +1,17 @@
 ---
-title: "Şişli Etfal Hastanesi Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:14+03:00
+title: "Şişli Etfal Hastanesi Saat Kulesi"
+date: "2025-12-25T17:18:14+03:00"
 slug: "sisli-etfal-hastanesi-saat-kulesi"
 description: "## Şişli Etfal Hastanesi Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Etfal_Hospital_Clock_Tower.jpg/1200px-Etfal_Hospital_Clock_Tower.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "28.99,41.0579"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şişli Etfal Hastanesi Saat Kulesi

@@ -1,18 +1,17 @@
 ---
-title: "Boradion | Miras Haritası"
-date: 2025-12-25T04:47:22+03:00
+title: "Boradion"
+date: "2025-12-25T04:47:22+03:00"
 slug: "boradion"
 description: "## Boradion Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.067899,41.102125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boradion Arkeolojik Sit

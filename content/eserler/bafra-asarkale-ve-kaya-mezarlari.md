@@ -1,18 +1,17 @@
 ---
-title: "Bafra Asarkale ve Kaya Mezarları | Miras Haritası"
-date: 2025-12-25T14:10:15+03:00
+title: "Bafra Asarkale ve Kaya Mezarları"
+date: "2025-12-25T14:10:15+03:00"
 slug: "bafra-asarkale-ve-kaya-mezarlari"
 description: "## Bafra Asarkale ve Kaya Mezarları..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Bafra ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.7636871,41.3707275"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bafra Asarkale ve Kaya Mezarları

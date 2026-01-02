@@ -1,18 +1,17 @@
 ---
-title: "Dere Camii Minaresi, Gümüşhane | Miras Haritası"
-date: 2025-12-25T00:06:51+03:00
+title: "Dere Camii Minaresi, Gümüşhane"
+date: "2025-12-25T00:06:51+03:00"
 slug: "dere-camii-minaresi-gumushane"
 description: "# Dere Camii Minaresi: Gümüşhane'de Bir Tarihi Çıkın..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.457634,40.45364"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dere Camii Minaresi: Gümüşhane'de Bir Tarihi Çıkın

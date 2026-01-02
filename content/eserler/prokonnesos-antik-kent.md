@@ -1,18 +1,17 @@
 ---
-title: "Prokonnesos (antik kent) | Miras Haritası"
-date: 2025-12-25T08:08:06+03:00
+title: "Prokonnesos (antik kent)"
+date: "2025-12-25T08:08:06+03:00"
 slug: "prokonnesos-antik-kent"
 description: "### Prokonnesos Antik Kenti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.55568,40.591686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Prokonnesos Antik Kenti

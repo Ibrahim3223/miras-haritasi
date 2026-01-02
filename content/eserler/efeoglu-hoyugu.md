@@ -1,18 +1,17 @@
 ---
-title: "Efeoğlu Höyüğü | Miras Haritası"
-date: 2025-12-25T07:01:26+03:00
+title: "Efeoğlu Höyüğü"
+date: "2025-12-25T07:01:26+03:00"
 slug: "efeoglu-hoyugu"
 description: "## Efeoğlu Höyüğü: Türkiye'nin Eski Uygarlığının Gizemli Kalıntıları..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Efeoğlu Höyüğü: Türkiye'nin Eski Uygarlığının Gizemli Kalıntıları

@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Numan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:07:22+03:00
+title: "Şehzade Numan Çeşmesi"
+date: "2025-12-25T10:07:22+03:00"
 slug: "sehzade-numan-cesmesi"
 description: "## Şehzade Numan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Şehzade_Numan_Çeşmesi.jpg/1200px-Şehzade_Numan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.018305555,41.019611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehzade Numan Çeşmesi

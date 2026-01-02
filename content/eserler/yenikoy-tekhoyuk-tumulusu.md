@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Tekhöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:00:40+03:00
+title: "Yeniköy Tekhöyük Tümülüsü"
+date: "2025-12-25T08:00:40+03:00"
 slug: "yenikoy-tekhoyuk-tumulusu"
 description: "### Yeniköy Tekhöyük Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7312431,41.3219604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeniköy Tekhöyük Tümülüsü

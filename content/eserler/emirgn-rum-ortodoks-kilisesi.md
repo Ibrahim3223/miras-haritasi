@@ -1,18 +1,17 @@
 ---
-title: "Emirgân Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T08:54:46+03:00
+title: "Emirgân Rum Ortodoks Kilisesi"
+date: "2025-12-25T08:54:46+03:00"
 slug: "emirgn-rum-ortodoks-kilisesi"
 description: "## Emirgân Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Church_of_Panagia_Evangelistria_at_Emirgân.jpg/1200px-Church_of_Panagia_Evangelistria_at_Emirgân.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0527,41.10138"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Emirgân Rum Ortodoks Kilisesi

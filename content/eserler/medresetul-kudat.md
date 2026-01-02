@@ -1,18 +1,17 @@
 ---
-title: "Medresetü'l-Kudat | Miras Haritası"
-date: 2025-12-25T17:37:40+03:00
+title: "Medresetü'l-Kudat"
+date: "2025-12-25T17:37:40+03:00"
 slug: "medresetul-kudat"
 description: "### Medresetü'l-Kudat: İstanbul'un Altın Çağı'nın Bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9624138,41.0130463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Medresetü'l-Kudat: İstanbul'un Altın Çağı'nın Bir Anıtı

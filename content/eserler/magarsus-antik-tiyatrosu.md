@@ -1,18 +1,17 @@
 ---
-title: "Magarsus Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:25:56+03:00
+title: "Magarsus Antik Tiyatrosu"
+date: "2025-12-25T08:25:56+03:00"
 slug: "magarsus-antik-tiyatrosu"
 description: "### Magarsus Antik Tiyatrosu: Karataş'taki Eski Miras..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Karataş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.347042,36.545765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Magarsus Antik Tiyatrosu: Karataş'taki Eski Miras

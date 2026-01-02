@@ -1,18 +1,17 @@
 ---
-title: "Taş Mektep, Şirince | Miras Haritası"
-date: 2025-12-25T03:56:34+03:00
+title: "Taş Mektep, Şirince"
+date: "2025-12-25T03:56:34+03:00"
 slug: "tas-mektep-sirince"
 description: "### Taş Mektep, Şirince - İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4327774,37.9445686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taş Mektep, Şirince - İzmir'in Tarihi Bir Mirası

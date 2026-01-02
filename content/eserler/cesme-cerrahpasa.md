@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Cerrahpaşa | Miras Haritası"
-date: 2025-12-25T12:04:28+03:00
+title: "Çeşme, Cerrahpaşa"
+date: "2025-12-25T12:04:28+03:00"
 slug: "cesme-cerrahpasa"
 description: "## Çeşme, Cerrahpaşa: Fatih, İstanbul'da Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9328442,41.0042381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Cerrahpaşa: Fatih, İstanbul'da Bir Tarihi Çeşme

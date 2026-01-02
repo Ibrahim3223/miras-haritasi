@@ -1,18 +1,17 @@
 ---
-title: "Termessos Heroon | Miras Haritası"
-date: 2025-12-25T08:12:31+03:00
+title: "Termessos Heroon"
+date: "2025-12-25T08:12:31+03:00"
 slug: "termessos-heroon"
 description: "## Termessos Heroon..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.463379955,36.982370693"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Termessos Heroon

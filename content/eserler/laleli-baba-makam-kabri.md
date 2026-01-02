@@ -1,18 +1,17 @@
 ---
-title: "Laleli Baba Makam Kabri | Miras Haritası"
-date: 2025-12-25T13:31:03+03:00
+title: "Laleli Baba Makam Kabri"
+date: "2025-12-25T13:31:03+03:00"
 slug: "laleli-baba-makam-kabri"
 description: "## Laleli Baba Makam Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9557819,41.0097046"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Laleli Baba Makam Kabri

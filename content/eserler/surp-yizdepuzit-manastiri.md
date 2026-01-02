@@ -1,18 +1,17 @@
 ---
-title: "Surp Yizdepuzit Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:20+03:00
+title: "Surp Yizdepuzit Manastırı"
+date: "2025-12-25T09:52:20+03:00"
 slug: "surp-yizdepuzit-manastiri"
 description: "## Surp Yizdepuzit Manastırı..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Tatvan"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.3007736,38.4673843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Yizdepuzit Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Yivlik Akşemsettin Camii | Miras Haritası"
-date: 2025-12-24T23:45:48+03:00
+title: "Yivlik Akşemsettin Camii"
+date: "2025-12-24T23:45:48+03:00"
 slug: "yivlik-aksemsettin-camii"
 description: "### Yivlik Akşemsettin Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.4179192,40.9408875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yivlik Akşemsettin Camii

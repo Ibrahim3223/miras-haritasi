@@ -1,18 +1,17 @@
 ---
-title: "Avdan Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:39+03:00
+title: "Avdan Baba Türbesi"
+date: "2025-12-25T15:00:39+03:00"
 slug: "avdan-baba-turbesi"
 description: "## Avdan Baba Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.7931385,37.5799828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avdan Baba Türbesi

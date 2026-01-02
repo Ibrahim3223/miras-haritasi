@@ -1,18 +1,17 @@
 ---
-title: "Bahriye Nezareti Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:20+03:00
+title: "Bahriye Nezareti Çeşmesi"
+date: "2025-12-25T11:16:20+03:00"
 slug: "bahriye-nezareti-cesmesi"
 description: "## Bahriye Nezareti Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.099858,40.87611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahriye Nezareti Çeşmesi

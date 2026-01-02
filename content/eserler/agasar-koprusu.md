@@ -1,18 +1,17 @@
 ---
-title: "Ağasar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:35+03:00
+title: "Ağasar Köprüsü"
+date: "2025-12-25T02:31:35+03:00"
 slug: "agasar-koprusu"
 description: "## Ağasar Köprüsü: Trabzon'un Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Şalpazarı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.1962852,40.9478874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağasar Köprüsü: Trabzon'un Gizli Çehresini Keşfetmek

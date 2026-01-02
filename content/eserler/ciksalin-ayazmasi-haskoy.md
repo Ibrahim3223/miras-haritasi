@@ -1,18 +1,17 @@
 ---
-title: "Çıksalın Ayazması, Hasköy | Miras Haritası"
-date: 2025-12-25T12:43:13+03:00
+title: "Çıksalın Ayazması, Hasköy"
+date: "2025-12-25T12:43:13+03:00"
 slug: "ciksalin-ayazmasi-haskoy"
 description: "## Çıksalın Ayazması, Hasköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9525661,41.048275"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çıksalın Ayazması, Hasköy

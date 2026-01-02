@@ -1,18 +1,17 @@
 ---
-title: "Susuz Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:08:17+03:00
+title: "Susuz Köyü Camii"
+date: "2025-12-24T23:08:17+03:00"
 slug: "susuz-koyu-camii"
 description: "## Susuz Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.6542969,40.0202255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Susuz Köyü Camii

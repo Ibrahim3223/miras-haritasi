@@ -1,18 +1,17 @@
 ---
-title: "Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:49+03:00
+title: "Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi"
+date: "2025-12-25T04:04:49+03:00"
 slug: "turker-inanoglu-vakfi-sinema-tiyatro-muzesi"
 description: "### Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.094265851,41.093463897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi

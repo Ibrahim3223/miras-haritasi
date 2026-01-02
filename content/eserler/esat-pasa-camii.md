@@ -1,18 +1,17 @@
 ---
-title: "Esat Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:59:27+03:00
+title: "Esat Paşa Camii"
+date: "2025-12-24T22:59:27+03:00"
 slug: "esat-pasa-camii"
 description: "# Esat Paşa Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2744102,39.9077225"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Esat Paşa Camii

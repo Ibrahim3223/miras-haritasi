@@ -1,18 +1,17 @@
 ---
-title: "Merzifonlu Kara Mustafa Paşa Camii (İncesu) | Miras Haritası"
-date: 2025-12-24T23:20:31+03:00
+title: "Merzifonlu Kara Mustafa Paşa Camii (İncesu)"
+date: "2025-12-24T23:20:31+03:00"
 slug: "merzifonlu-kara-mustafa-pasa-camii-incesu"
 description: "## Merzifonlu Kara Mustafa Paşa Camii: İncesu'nun Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "İncesu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1805611,38.6233215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merzifonlu Kara Mustafa Paşa Camii: İncesu'nun Tarihî Bir Mirası

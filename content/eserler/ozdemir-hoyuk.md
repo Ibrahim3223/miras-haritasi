@@ -1,18 +1,17 @@
 ---
-title: "Özdemir Höyük | Miras Haritası"
-date: 2025-12-25T06:07:43+03:00
+title: "Özdemir Höyük"
+date: "2025-12-25T06:07:43+03:00"
 slug: "ozdemir-hoyuk"
 description: "## Özdemir Höyük: Antalya'nın Gizli Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.059509698,36.871399702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özdemir Höyük: Antalya'nın Gizli Mirası

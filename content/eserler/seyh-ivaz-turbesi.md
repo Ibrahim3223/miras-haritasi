@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İvaz Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:10+03:00
+title: "Şeyh İvaz Türbesi"
+date: "2025-12-25T15:17:10+03:00"
 slug: "seyh-ivaz-turbesi"
 description: "## Şeyh İvaz Türbesi: Beypazarı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.930623,40.164437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh İvaz Türbesi: Beypazarı'nın Gizli Cenneti

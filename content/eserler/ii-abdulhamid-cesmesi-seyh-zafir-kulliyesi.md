@@ -1,18 +1,17 @@
 ---
-title: "II. Abdülhamid Çeşmesi, Şeyh Zafir Külliyesi | Miras Haritası"
-date: 2025-12-25T11:58:08+03:00
+title: "II. Abdülhamid Çeşmesi, Şeyh Zafir Külliyesi"
+date: "2025-12-25T11:58:08+03:00"
 slug: "ii-abdulhamid-cesmesi-seyh-zafir-kulliyesi"
 description: "**II. Abdülhamid Çeşmesi, Şeyh Zafir Külliyesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ertuğrul_Tekke_or_Sheikh_Zafiri_Fountain_2,_Beşiktaş,_2023.jpg/1200px-Ertuğrul_Tekke_or_Sheikh_Zafiri_Fountain_2,_Beşiktaş,_2023.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.008206,41.045705"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **II. Abdülhamid Çeşmesi, Şeyh Zafir Külliyesi**

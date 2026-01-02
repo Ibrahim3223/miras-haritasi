@@ -1,18 +1,17 @@
 ---
-title: "Kocapınar Köyü Kilisesi 3 | Miras Haritası"
-date: 2025-12-25T09:16:11+03:00
+title: "Kocapınar Köyü Kilisesi 3"
+date: "2025-12-25T09:16:11+03:00"
 slug: "kocapinar-koyu-kilisesi-3"
 description: "## Kocapınar Köyü Kilisesi 3 - Gümüşhane'deki Bir Ören Yeri..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.593629,40.458273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocapınar Köyü Kilisesi 3 - Gümüşhane'deki Bir Ören Yeri

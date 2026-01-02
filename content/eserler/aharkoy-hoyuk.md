@@ -1,18 +1,17 @@
 ---
-title: "Aharköy Höyük | Miras Haritası"
-date: 2025-12-25T07:09:18+03:00
+title: "Aharköy Höyük"
+date: "2025-12-25T07:09:18+03:00"
 slug: "aharkoy-hoyuk"
 description: "## Aharköy Höyük: Sakarya'nın Gizli Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Söğütlü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.2496886,39.9172536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aharköy Höyük: Sakarya'nın Gizli Mirası

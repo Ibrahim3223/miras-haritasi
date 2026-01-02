@@ -1,18 +1,17 @@
 ---
-title: "Canik Oyuncak Müzesi | Miras Haritası"
-date: 2025-12-25T03:09:36+03:00
+title: "Canik Oyuncak Müzesi"
+date: "2025-12-25T03:09:36+03:00"
 slug: "canik-oyuncak-muzesi"
 description: "## Canik Oyuncak Müzesi: Samsun'un Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Canik"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canik Oyuncak Müzesi: Samsun'un Kültürel Mirası

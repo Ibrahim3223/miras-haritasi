@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Bey Camii, Balıkesir | Miras Haritası"
-date: 2025-12-25T00:02:30+03:00
+title: "İbrahim Bey Camii, Balıkesir"
+date: "2025-12-25T00:02:30+03:00"
 slug: "ibrahim-bey-camii-balikesir"
 description: "### İbrahim Bey Camii, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8822002,39.6482544"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İbrahim Bey Camii, Balıkesir

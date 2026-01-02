@@ -1,18 +1,17 @@
 ---
-title: "Selçuklu Kümbet, Kayseri | Miras Haritası"
-date: 2025-12-25T15:33:19+03:00
+title: "Selçuklu Kümbet, Kayseri"
+date: "2025-12-25T15:33:19+03:00"
 slug: "selcuklukumbet-kayseri"
 description: "## Selçuklu Kümbet, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.496760734,38.716890327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selçuklu Kümbet, Kayseri

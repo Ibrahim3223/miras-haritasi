@@ -1,18 +1,17 @@
 ---
-title: "Emine Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:37:16+03:00
+title: "Emine Hatun Camii"
+date: "2025-12-24T22:37:16+03:00"
 slug: "emine-hatun-camii"
 description: "## Emine Hatun Camii..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.3779488,39.0632858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emine Hatun Camii

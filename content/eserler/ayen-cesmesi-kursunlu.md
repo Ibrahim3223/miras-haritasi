@@ -1,18 +1,17 @@
 ---
-title: "Ayen Çeşmesi, Kurşunlu | Miras Haritası"
-date: 2025-12-25T12:30:28+03:00
+title: "Ayen Çeşmesi, Kurşunlu"
+date: "2025-12-25T12:30:28+03:00"
 slug: "ayen-cesmesi-kursunlu"
 description: "## Ayen Çeşmesi, Kurşunlu: Tarihî Bir Çeşmenin Eksik Bilinen Öyküsü..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.262024643,40.840643251"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayen Çeşmesi, Kurşunlu: Tarihî Bir Çeşmenin Eksik Bilinen Öyküsü

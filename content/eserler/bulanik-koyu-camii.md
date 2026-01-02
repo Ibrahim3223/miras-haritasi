@@ -1,18 +1,17 @@
 ---
-title: "Bulanık Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:26:10+03:00
+title: "Bulanık Köyü Camii"
+date: "2025-12-24T22:26:10+03:00"
 slug: "bulanik-koyu-camii"
 description: "## Bulanık Köyü Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Ardanuç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.176541,41.060246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bulanık Köyü Camii

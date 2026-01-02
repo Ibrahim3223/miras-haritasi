@@ -1,18 +1,17 @@
 ---
-title: "Muhiddin Kocavi Medresesi | Miras Haritası"
-date: 2025-12-25T17:39:47+03:00
+title: "Muhiddin Kocavi Medresesi"
+date: "2025-12-25T17:39:47+03:00"
 slug: "muhiddin-kocavi-medresesi"
 description: "### Muhiddin Kocavi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9576359,41.0239372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muhiddin Kocavi Medresesi

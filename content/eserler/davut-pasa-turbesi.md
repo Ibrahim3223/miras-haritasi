@@ -1,18 +1,17 @@
 ---
-title: "Davut Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:50+03:00
+title: "Davut Paşa Türbesi"
+date: "2025-12-25T14:28:50+03:00"
 slug: "davut-pasa-turbesi"
 description: "## Davut Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.938066,41.006426"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Davut Paşa Türbesi

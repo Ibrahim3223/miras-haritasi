@@ -1,18 +1,17 @@
 ---
-title: "Antakya Türk Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:08+03:00
+title: "Antakya Türk Katolik Kilisesi"
+date: "2025-12-25T09:21:08+03:00"
 slug: "antakya-turk-katolik-kilisesi"
 description: "### Antakya Türk Katolik Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.163353,36.2000389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Antakya Türk Katolik Kilisesi

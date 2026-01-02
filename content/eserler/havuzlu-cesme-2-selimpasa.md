@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme 2, Selimpaşa | Miras Haritası"
-date: 2025-12-25T12:24:57+03:00
+title: "Havuzlu Çeşme 2, Selimpaşa"
+date: "2025-12-25T12:24:57+03:00"
 slug: "havuzlu-cesme-2-selimpasa"
 description: "## Havuzlu Çeşme 2, Selimpaşa: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3655,41.05439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Çeşme 2, Selimpaşa: İstanbul'un Gizli Cenneti

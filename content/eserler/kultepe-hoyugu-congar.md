@@ -1,18 +1,17 @@
 ---
-title: "Kültepe Höyüğü, Çongar | Miras Haritası"
-date: 2025-12-25T13:46:27+03:00
+title: "Kültepe Höyüğü, Çongar"
+date: "2025-12-25T13:46:27+03:00"
 slug: "kultepe-hoyugu-congar"
 description: "## Kültepe Höyüğü, Çongar: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Delice"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9117189,39.8629666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kültepe Höyüğü, Çongar: Tarihi ve Kültürel Miras

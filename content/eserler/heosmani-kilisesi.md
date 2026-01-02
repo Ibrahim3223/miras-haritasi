@@ -1,18 +1,17 @@
 ---
-title: "Heosmani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:43+03:00
+title: "Heosmani Kilisesi"
+date: "2025-12-25T09:07:43+03:00"
 slug: "heosmani-kilisesi"
 description: "## Heosmani Kilisesi: Posof'un Gizli Çağı..."
 featured_image: ""
 province: "Posof"
-iller: ["Posof"]
+iller: '["Posof"]'
 district: "Yurtbekler"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.803972222,41.506277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Heosmani Kilisesi: Posof'un Gizli Çağı

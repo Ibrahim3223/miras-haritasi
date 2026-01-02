@@ -1,18 +1,17 @@
 ---
-title: "Beşkarış | Miras Haritası"
-date: 2025-12-25T05:36:46+03:00
+title: "Beşkarış"
+date: "2025-12-25T05:36:46+03:00"
 slug: "beskaris"
 description: "## Beşkarış: Altıntaş'taki Eski Şehir..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.188333,38.99635"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşkarış: Altıntaş'taki Eski Şehir

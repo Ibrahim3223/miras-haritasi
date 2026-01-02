@@ -1,18 +1,17 @@
 ---
-title: "Karataşlı Hamamı | Miras Haritası"
-date: 2025-12-25T16:28:20+03:00
+title: "Karataşlı Hamamı"
+date: "2025-12-25T16:28:20+03:00"
 slug: "karatasli-hamami"
 description: "## Karataşlı Hamamı: Turhallı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Turhal"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.0900039,40.3884816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karataşlı Hamamı: Turhallı'nın Gizli Çeşmesi

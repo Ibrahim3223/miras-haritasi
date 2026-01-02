@@ -1,18 +1,17 @@
 ---
-title: "İne Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:28+03:00
+title: "İne Bey Türbesi"
+date: "2025-12-25T14:47:28+03:00"
 slug: "ine-bey-turbesi"
 description: "**İne Bey Türbesi: Balıkesir'in Tarihi Mirası**..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Kepsut"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.169947656,39.710032613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İne Bey Türbesi: Balıkesir'in Tarihi Mirası**

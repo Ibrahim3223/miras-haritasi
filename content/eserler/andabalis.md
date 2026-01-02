@@ -1,18 +1,17 @@
 ---
-title: "Andabalis | Miras Haritası"
-date: 2025-12-25T05:21:42+03:00
+title: "Andabalis"
+date: "2025-12-25T05:21:42+03:00"
 slug: "andabalis"
 description: "## Andabalis Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.67349,38.0394955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andabalis Arkeolojik Sit

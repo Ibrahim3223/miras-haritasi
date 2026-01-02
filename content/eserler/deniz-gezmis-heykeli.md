@@ -1,18 +1,17 @@
 ---
-title: "Deniz Gezmiş Heykeli | Miras Haritası"
-date: 2025-12-25T16:09:56+03:00
+title: "Deniz Gezmiş Heykeli"
+date: "2025-12-25T16:09:56+03:00"
 slug: "deniz-gezmis-heykeli"
 description: "## Deniz Gezmiş Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Ataşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.094698,40.9997368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deniz Gezmiş Heykeli

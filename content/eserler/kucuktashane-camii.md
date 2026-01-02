@@ -1,18 +1,17 @@
 ---
-title: "Küçüktaşhane Camii | Miras Haritası"
-date: 2025-12-25T00:23:06+03:00
+title: "Küçüktaşhane Camii"
+date: "2025-12-25T00:23:06+03:00"
 slug: "kucuktashane-camii"
 description: "# Küçüktaşhane Camii: Rize'nin Gizli Çalıksızı..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.753996474,41.110767684"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Küçüktaşhane Camii: Rize'nin Gizli Çalıksızı

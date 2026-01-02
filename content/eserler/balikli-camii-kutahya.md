@@ -1,18 +1,17 @@
 ---
-title: "Balıklı Camii, Kütahya | Miras Haritası"
-date: 2025-12-25T00:05:51+03:00
+title: "Balıklı Camii, Kütahya"
+date: "2025-12-25T00:05:51+03:00"
 slug: "balikli-camii-kutahya"
 description: "### Balıklı Camii: Kütahya'nın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9792309,39.4200058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balıklı Camii: Kütahya'nın Tarihî Bir Anıtı

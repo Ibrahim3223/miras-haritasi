@@ -1,18 +1,17 @@
 ---
-title: "Abapuş-i Veli Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:50+03:00
+title: "Abapuş-i Veli Türbesi"
+date: "2025-12-25T15:15:50+03:00"
 slug: "abapus-i-veli-turbesi"
 description: "## Abapuş-i Veli Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5336,38.7535"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abapuş-i Veli Türbesi

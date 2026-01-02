@@ -1,18 +1,17 @@
 ---
-title: "Gabdulla Tukay Heykeli | Miras Haritası"
-date: 2025-12-25T15:50:42+03:00
+title: "Gabdulla Tukay Heykeli"
+date: "2025-12-25T15:50:42+03:00"
 slug: "gabdulla-tukay-heykeli"
 description: "### Gabdulla Tukay Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9431057,41.0639191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gabdulla Tukay Heykeli

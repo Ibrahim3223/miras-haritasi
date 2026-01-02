@@ -1,18 +1,17 @@
 ---
-title: "Hasbek Kümbeti Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:26+03:00
+title: "Hasbek Kümbeti Çeşmesi"
+date: "2025-12-25T10:51:26+03:00"
 slug: "hasbek-kumbeti-cesmesi"
 description: "## Hasbek Kümbeti Çeşmesi: Kayseri'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4819221,38.7227249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasbek Kümbeti Çeşmesi: Kayseri'nin Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Osmanlı Cami | Miras Haritası"
-date: 2025-12-24T22:20:26+03:00
+title: "Osmanlı Cami"
+date: "2025-12-24T22:20:26+03:00"
 slug: "osmanli-cami"
 description: "# Osmanlı Cami..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.028696684,39.587525743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Osmanlı Cami

@@ -1,18 +1,17 @@
 ---
-title: "Konak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:45+03:00
+title: "Konak Çeşmesi"
+date: "2025-12-25T10:54:45+03:00"
 slug: "konak-cesmesi"
 description: "### Konak Çeşmesi: İznik'in Büyüleyici Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.7224731,40.4312935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Konak Çeşmesi: İznik'in Büyüleyici Çeşmesi

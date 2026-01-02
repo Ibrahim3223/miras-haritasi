@@ -1,18 +1,17 @@
 ---
-title: "Trablusgarp Anıtı | Miras Haritası"
-date: 2025-12-25T15:43:45+03:00
+title: "Trablusgarp Anıtı"
+date: "2025-12-25T15:43:45+03:00"
 slug: "trablusgarp-aniti"
 description: "## Trablusgarp Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.1876564,40.0419044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Trablusgarp Anıtı

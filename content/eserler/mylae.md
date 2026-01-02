@@ -1,18 +1,17 @@
 ---
-title: "Mylae | Miras Haritası"
-date: 2025-12-25T05:14:08+03:00
+title: "Mylae"
+date: "2025-12-25T05:14:08+03:00"
 slug: "mylae"
 description: "## Mylae Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.85187,36.30492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mylae Arkeolojik Sit

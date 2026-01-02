@@ -1,18 +1,17 @@
 ---
-title: "Didyma Apollon Tapınağı | Miras Haritası"
-date: 2025-12-25T06:56:39+03:00
+title: "Didyma Apollon Tapınağı"
+date: "2025-12-25T06:56:39+03:00"
 slug: "didyma-apollon-tapinagi"
 description: "## Didyma Apollon Tapınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Temple_of_Apollo,_Didyma_01.jpg/1200px-Temple_of_Apollo,_Didyma_01.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didyma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.256388888,37.385"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Didyma Apollon Tapınağı

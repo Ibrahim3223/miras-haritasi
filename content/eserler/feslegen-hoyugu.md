@@ -1,18 +1,17 @@
 ---
-title: "Fesleğen Höyüğü | Miras Haritası"
-date: 2025-12-25T06:14:24+03:00
+title: "Fesleğen Höyüğü"
+date: "2025-12-25T06:14:24+03:00"
 slug: "feslegen-hoyugu"
 description: "### Fesleğen Höyüğü..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8473,38.80592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fesleğen Höyüğü

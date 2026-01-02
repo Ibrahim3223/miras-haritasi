@@ -1,18 +1,17 @@
 ---
-title: "Namazgahlı Çeşme | Miras Haritası"
-date: 2025-12-25T10:55:02+03:00
+title: "Namazgahlı Çeşme"
+date: "2025-12-25T10:55:02+03:00"
 slug: "namazgahli-cesme"
 description: "## Namazgahlı Çeşme: Şarköy'ün Tarihi ve Kültürel Mirasının Özellikleri..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1698647,40.6327324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Namazgahlı Çeşme: Şarköy'ün Tarihi ve Kültürel Mirasının Özellikleri

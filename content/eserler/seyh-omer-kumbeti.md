@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ömer Kümbeti | Miras Haritası"
-date: 2025-12-25T14:46:46+03:00
+title: "Şeyh Ömer Kümbeti"
+date: "2025-12-25T14:46:46+03:00"
 slug: "seyh-omer-kumbeti"
 description: "### Şeyh Ömer Kümbeti: Gülnar'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Gülnar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.303221637,36.336678948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Ömer Kümbeti: Gülnar'ın Tarihi Bir Anıtı

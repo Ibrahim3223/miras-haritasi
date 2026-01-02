@@ -1,18 +1,17 @@
 ---
-title: "Sibora | Miras Haritası"
-date: 2025-12-25T05:14:45+03:00
+title: "Sibora"
+date: "2025-12-25T05:14:45+03:00"
 slug: "sibora"
 description: "## Sibora Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.2864275,39.6976455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sibora Arkeolojik Sit

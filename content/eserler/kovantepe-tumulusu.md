@@ -1,18 +1,17 @@
 ---
-title: "Kovantepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:57+03:00
+title: "Kovantepe Tümülüsü"
+date: "2025-12-25T08:04:57+03:00"
 slug: "kovantepe-tumulusu"
 description: "## Kovantepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8145638,41.5229111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kovantepe Tümülüsü

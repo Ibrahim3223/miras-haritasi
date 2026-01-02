@@ -1,18 +1,17 @@
 ---
-title: "Beylikdüzü Nostalji Müzesi | Miras Haritası"
-date: 2025-12-25T03:40:37+03:00
+title: "Beylikdüzü Nostalji Müzesi"
+date: "2025-12-25T03:40:37+03:00"
 slug: "beylikduzu-nostalji-muzesi"
 description: "## Beylikdüzü Nostalji Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beylikdüzü"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.6451664,40.9974136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beylikdüzü Nostalji Müzesi

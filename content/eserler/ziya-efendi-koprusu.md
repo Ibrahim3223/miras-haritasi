@@ -1,18 +1,17 @@
 ---
-title: "Ziya Efendi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:18+03:00
+title: "Ziya Efendi Köprüsü"
+date: "2025-12-25T02:41:18+03:00"
 slug: "ziya-efendi-koprusu"
 description: "## Ziya Efendi Köprüsü: Bir Tarihsel Mirasın Öyküsü..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ayrancı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.6372643,37.3870583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ziya Efendi Köprüsü: Bir Tarihsel Mirasın Öyküsü

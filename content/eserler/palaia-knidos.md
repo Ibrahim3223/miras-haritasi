@@ -1,18 +1,17 @@
 ---
-title: "Palaia Knidos | Miras Haritası"
-date: 2025-12-25T08:29:29+03:00
+title: "Palaia Knidos"
+date: "2025-12-25T08:29:29+03:00"
 slug: "palaia-knidos"
 description: "### Palaia Knidos: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6983356,36.7350235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Palaia Knidos: Tarihi ve Kültürel Bir Miras

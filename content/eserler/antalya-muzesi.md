@@ -1,18 +1,17 @@
 ---
-title: "Antalya Müzesi | Miras Haritası"
-date: 2025-12-25T03:09:06+03:00
+title: "Antalya Müzesi"
+date: "2025-12-25T03:09:06+03:00"
 slug: "antalya-muzesi"
 description: "### Antalya Müzesi: Antik Çağ'ın Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Turkey-2622_(2216327975).jpg/1200px-Turkey-2622_(2216327975).jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.6797,36.8856"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Antalya Müzesi: Antik Çağ'ın Mirası

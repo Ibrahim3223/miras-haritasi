@@ -1,18 +1,17 @@
 ---
-title: "Kral II. Solomon Türbesi | Miras Haritası"
-date: 2025-12-25T14:48:22+03:00
+title: "Kral II. Solomon Türbesi"
+date: "2025-12-25T14:48:22+03:00"
 slug: "kral-ii-solomon-turbesi"
 description: "## Kral II. Solomon Türbesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.729692,41.0079292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kral II. Solomon Türbesi

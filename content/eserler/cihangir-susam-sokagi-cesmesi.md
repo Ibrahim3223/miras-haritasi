@@ -1,18 +1,17 @@
 ---
-title: "Cihangir Susam Sokağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:12+03:00
+title: "Cihangir Susam Sokağı Çeşmesi"
+date: "2025-12-25T10:34:12+03:00"
 slug: "cihangir-susam-sokagi-cesmesi"
 description: "### Cihangir Susam Sokağı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cihangir_Susam_Sokağı_Çeşmesi_IMG_5492.jpg/1200px-Cihangir_Susam_Sokağı_Çeşmesi_IMG_5492.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Cihangir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.986275,41.030571"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Cihangir Susam Sokağı Çeşmesi

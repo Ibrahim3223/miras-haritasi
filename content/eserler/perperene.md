@@ -1,18 +1,17 @@
 ---
-title: "Perperene | Miras Haritası"
-date: 2025-12-25T07:12:37+03:00
+title: "Perperene"
+date: "2025-12-25T07:12:37+03:00"
 slug: "perperene"
 description: "## Perperene: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.963,39.2602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perperene: İzmir'in Gizli Cenneti

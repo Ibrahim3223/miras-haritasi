@@ -1,18 +1,17 @@
 ---
-title: "Ağalar Camii Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:43:18+03:00
+title: "Ağalar Camii Güneş Saati"
+date: "2025-12-25T13:43:18+03:00"
 slug: "agalar-camii-gunes-saati"
 description: "## Ağalar Camii Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9841766,41.0130463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağalar Camii Güneş Saati

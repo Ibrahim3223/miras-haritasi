@@ -1,18 +1,17 @@
 ---
-title: "Eski Çeşme, Urla | Miras Haritası"
-date: 2025-12-25T12:04:36+03:00
+title: "Eski Çeşme, Urla"
+date: "2025-12-25T12:04:36+03:00"
 slug: "eski-cesme-urla"
 description: "## Eski Çeşme, Urla..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7715359,38.322731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Çeşme, Urla

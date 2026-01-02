@@ -1,18 +1,17 @@
 ---
-title: "Sultan Selim Camii (Karapınar) | Miras Haritası"
-date: 2025-12-24T23:24:25+03:00
+title: "Sultan Selim Camii (Karapınar)"
+date: "2025-12-24T23:24:25+03:00"
 slug: "sultan-selim-camii-karapinar"
 description: "## Sultan Selim Camii (Karapınar)..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karapınar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5477295,37.7144508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Selim Camii (Karapınar)

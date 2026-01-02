@@ -1,18 +1,17 @@
 ---
-title: "Çerkes İbrahim Ağa Camii | Miras Haritası"
-date: 2025-12-25T00:13:57+03:00
+title: "Çerkes İbrahim Ağa Camii"
+date: "2025-12-25T00:13:57+03:00"
 slug: "cerkes-ibrahim-aga-camii"
 description: "## Çerkes İbrahim Ağa Camii..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gönen"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5974312,40.0514488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çerkes İbrahim Ağa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Şehit Ali Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:39+03:00
+title: "Şehit Ali Paşa Kütüphanesi"
+date: "2025-12-25T17:48:39+03:00"
 slug: "sehit-ali-pasa-kutuphanesi"
 description: "## Şehit Ali Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.958258,41.014441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehit Ali Paşa Kütüphanesi

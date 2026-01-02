@@ -1,18 +1,17 @@
 ---
-title: "Seferci Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:53+03:00
+title: "Seferci Çeşmesi"
+date: "2025-12-25T10:51:53+03:00"
 slug: "seferci-cesmesi"
 description: "## Seferci Çeşmesi: Nevşehir'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7101288,38.620945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seferci Çeşmesi: Nevşehir'in Tarihî ve Kültürel Mirası

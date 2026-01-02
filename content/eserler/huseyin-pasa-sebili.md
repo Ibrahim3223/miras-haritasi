@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:06:08+03:00
+title: "Hüseyin Paşa Sebili"
+date: "2025-12-25T13:06:08+03:00"
 slug: "huseyin-pasa-sebili"
 description: "## Hüseyin Paşa Sebili: İstanbul'un Görsel Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9335155,41.0351562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Paşa Sebili: İstanbul'un Görsel Harikası

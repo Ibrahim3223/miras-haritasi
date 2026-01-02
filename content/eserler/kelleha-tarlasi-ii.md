@@ -1,18 +1,17 @@
 ---
-title: "Kelleha Tarlası II | Miras Haritası"
-date: 2025-12-25T07:00:23+03:00
+title: "Kelleha Tarlası II"
+date: "2025-12-25T07:00:23+03:00"
 slug: "kelleha-tarlasi-ii"
 description: "## Kelleha Tarlası II: Tarihî Mirasın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kelleha Tarlası II: Tarihî Mirasın Gizli Cenneti

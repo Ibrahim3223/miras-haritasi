@@ -1,18 +1,17 @@
 ---
-title: "Hadım Hasan Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:02:21+03:00
+title: "Hadım Hasan Paşa Çeşmesi"
+date: "2025-12-25T13:02:21+03:00"
 slug: "hadim-hasan-pasa-cesmesi"
 description: "### Hadım Hasan Paşa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Alemdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9750099,41.0106697"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hadım Hasan Paşa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Özcan Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:10+03:00
+title: "Özcan Mahallesi Köprüsü"
+date: "2025-12-25T02:36:10+03:00"
 slug: "ozcan-mahallesi-koprusu"
 description: "### Özcan Mahallesi Köprüsü..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.465806,40.461773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Özcan Mahallesi Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Taş Minare Camii | Miras Haritası"
-date: 2025-12-24T23:15:39+03:00
+title: "Taş Minare Camii"
+date: "2025-12-24T23:15:39+03:00"
 slug: "tas-minare-camii"
 description: "## Taş Minare Camii: Karabük'te Bir Zenginlik Abidesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Taş_Minare_Camii.jpg/1200px-Taş_Minare_Camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karabük"
+province: "Karabük"
+iller: '["Karabük"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.6887741,41.2501144"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Taş Minare Camii: Karabük'te Bir Zenginlik Abidesi

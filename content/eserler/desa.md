@@ -1,18 +1,17 @@
 ---
-title: "Desa | Miras Haritası"
-date: 2025-12-25T05:43:44+03:00
+title: "Desa"
+date: "2025-12-25T05:43:44+03:00"
 slug: "desa"
 description: "## Desa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.165528,41.068984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Desa Arkeolojik Sit

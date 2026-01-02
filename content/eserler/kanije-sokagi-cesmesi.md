@@ -1,18 +1,17 @@
 ---
-title: "Kanije Sokağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:12+03:00
+title: "Kanije Sokağı Çeşmesi"
+date: "2025-12-25T11:21:12+03:00"
 slug: "kanije-sokagi-cesmesi"
 description: "# Kanije Sokağı Çeşmesi..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Anadolu Hisarı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.067341,41.082687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kanije Sokağı Çeşmesi

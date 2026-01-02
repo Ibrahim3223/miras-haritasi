@@ -1,18 +1,17 @@
 ---
-title: "Osmaniye Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:26+03:00
+title: "Osmaniye Saat Kulesi"
+date: "2025-12-25T17:21:26+03:00"
 slug: "osmaniye-saat-kulesi"
 description: "## Osmaniye Saat Kulesi..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Osmaniye"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "36.251527777,37.07175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmaniye Saat Kulesi

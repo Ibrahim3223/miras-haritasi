@@ -1,18 +1,17 @@
 ---
-title: "Harabeşehir Kalesi | Miras Haritası"
-date: 2025-12-25T01:51:46+03:00
+title: "Harabeşehir Kalesi"
+date: "2025-12-25T01:51:46+03:00"
 slug: "harabesehir-kalesi"
 description: "### Harabeşehir Kalesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.454899956,38.747723533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Harabeşehir Kalesi

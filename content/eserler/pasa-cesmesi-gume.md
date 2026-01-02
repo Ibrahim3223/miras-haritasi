@@ -1,18 +1,17 @@
 ---
-title: "Paşa Çeşmesi, Güme | Miras Haritası"
-date: 2025-12-25T12:49:50+03:00
+title: "Paşa Çeşmesi, Güme"
+date: "2025-12-25T12:49:50+03:00"
 slug: "pasa-cesmesi-gume"
 description: "## Paşa Çeşmesi, Güme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7534065,38.0555763"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Çeşmesi, Güme

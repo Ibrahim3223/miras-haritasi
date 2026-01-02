@@ -1,18 +1,17 @@
 ---
-title: "Harputlu Mescidi | Miras Haritası"
-date: 2025-12-24T23:20:19+03:00
+title: "Harputlu Mescidi"
+date: "2025-12-24T23:20:19+03:00"
 slug: "harputlu-mescidi"
 description: "### Harputlu Mescidi: Bergama'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1805401,39.1184731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Harputlu Mescidi: Bergama'nın Gizli Çeşmesi

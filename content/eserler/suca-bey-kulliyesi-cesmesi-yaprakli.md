@@ -1,18 +1,17 @@
 ---
-title: "Şuca Bey Külliyesi Çeşmesi, Yapraklı | Miras Haritası"
-date: 2025-12-25T12:36:08+03:00
+title: "Şuca Bey Külliyesi Çeşmesi, Yapraklı"
+date: "2025-12-25T12:36:08+03:00"
 slug: "suca-bey-kulliyesi-cesmesi-yaprakli"
 description: "# Şuca Bey Külliyesi Çeşmesi, Yapraklı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Yapraklı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7761497,40.7588501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şuca Bey Külliyesi Çeşmesi, Yapraklı

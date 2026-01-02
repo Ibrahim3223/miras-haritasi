@@ -1,18 +1,17 @@
 ---
-title: "Kasım Envari Sokağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:31+03:00
+title: "Kasım Envari Sokağı Çeşmesi"
+date: "2025-12-25T11:38:31+03:00"
 slug: "kasim-envari-sokagi-cesmesi"
 description: "## Kasım Envari Sokağı Çeşmesi: Kıymetli bir Tarihî Miras..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.429306,37.8575439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasım Envari Sokağı Çeşmesi: Kıymetli bir Tarihî Miras

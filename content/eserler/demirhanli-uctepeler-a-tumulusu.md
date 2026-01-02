@@ -1,18 +1,17 @@
 ---
-title: "Demirhanlı Üçtepeler A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:19:22+03:00
+title: "Demirhanlı Üçtepeler A Tümülüsü"
+date: "2025-12-25T07:19:22+03:00"
 slug: "demirhanli-uctepeler-a-tumulusu"
 description: "# Demirhanlı Üçtepeler A Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7516212,41.6767311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Demirhanlı Üçtepeler A Tümülüsü

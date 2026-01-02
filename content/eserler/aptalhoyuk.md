@@ -1,18 +1,17 @@
 ---
-title: "Aptalhöyük | Miras Haritası"
-date: 2025-12-25T06:42:00+03:00
+title: "Aptalhöyük"
+date: "2025-12-25T06:42:00+03:00"
 slug: "aptalhoyuk"
 description: "### Aptalhöyük: Türkiye'nin Eski Kenti..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2921227,38.6877626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aptalhöyük: Türkiye'nin Eski Kenti

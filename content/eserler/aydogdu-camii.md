@@ -1,18 +1,17 @@
 ---
-title: "Aydoğdu Camii | Miras Haritası"
-date: 2025-12-24T22:14:14+03:00
+title: "Aydoğdu Camii"
+date: "2025-12-24T22:14:14+03:00"
 slug: "aydogdu-camii"
 description: "## Aydoğdu Camii: Denizli'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1679001,37.5124016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aydoğdu Camii: Denizli'nin Gizli Çehresini Keşfetmek

@@ -1,18 +1,17 @@
 ---
-title: "Ağaçhisar Höyük | Miras Haritası"
-date: 2025-12-25T05:31:53+03:00
+title: "Ağaçhisar Höyük"
+date: "2025-12-25T05:31:53+03:00"
 slug: "agachisar-hoyuk"
 description: "**Ağaçhisar Höyük: Alpu, Eskişehir'deki Gizli Miras**..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.131411,39.899369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ağaçhisar Höyük: Alpu, Eskişehir'deki Gizli Miras**

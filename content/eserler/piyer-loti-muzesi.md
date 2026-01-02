@@ -1,18 +1,17 @@
 ---
-title: "Piyer Loti Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:43+03:00
+title: "Piyer Loti Müzesi"
+date: "2025-12-25T03:28:43+03:00"
 slug: "piyer-loti-muzesi"
 description: "## Piyer Loti Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piyer_Loti_Museum_1.jpg/1200px-Piyer_Loti_Museum_1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.93416667,41.05444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Piyer Loti Müzesi

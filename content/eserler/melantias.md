@@ -1,18 +1,17 @@
 ---
-title: "Melantias | Miras Haritası"
-date: 2025-12-25T04:41:06+03:00
+title: "Melantias"
+date: "2025-12-25T04:41:06+03:00"
 slug: "melantias"
 description: "## Melantias: Avcılar'daki Antik Sit..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Avcılar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.764683,41.028946"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Melantias: Avcılar'daki Antik Sit

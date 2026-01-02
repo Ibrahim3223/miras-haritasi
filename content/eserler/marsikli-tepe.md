@@ -1,18 +1,17 @@
 ---
-title: "Marsıklı Tepe | Miras Haritası"
-date: 2025-12-25T06:37:15+03:00
+title: "Marsıklı Tepe"
+date: "2025-12-25T06:37:15+03:00"
 slug: "marsikli-tepe"
 description: "## Marsıklı Tepe: Hatay'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.4104483,36.2301548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marsıklı Tepe: Hatay'ın Gizli Zirvesi

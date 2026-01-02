@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 1, Çınarlı | Miras Haritası"
-date: 2025-12-25T12:58:58+03:00
+title: "Çeşme 1, Çınarlı"
+date: "2025-12-25T12:58:58+03:00"
 slug: "cesme-1-cinarli"
 description: "## Çeşme 1, Çınarlı: Çanakkale'de Bir Önemli Kültürel Miras..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.389590043,40.050129521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 1, Çınarlı: Çanakkale'de Bir Önemli Kültürel Miras

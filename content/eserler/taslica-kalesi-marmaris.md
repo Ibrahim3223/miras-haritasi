@@ -1,18 +1,17 @@
 ---
-title: "Taşlıca Kalesi, Marmaris | Miras Haritası"
-date: 2025-12-25T01:20:14+03:00
+title: "Taşlıca Kalesi, Marmaris"
+date: "2025-12-25T01:20:14+03:00"
 slug: "taslica-kalesi-marmaris"
 description: "## Taşlıca Kalesi: Marmaris'in Gizli Çehresini İnceliyorsunuz..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.1267624,36.6275864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlıca Kalesi: Marmaris'in Gizli Çehresini İnceliyorsunuz

@@ -1,18 +1,17 @@
 ---
-title: "Haseki Hürrem Sultan Hamamı, Haseki | Miras Haritası"
-date: 2025-12-25T16:34:45+03:00
+title: "Haseki Hürrem Sultan Hamamı, Haseki"
+date: "2025-12-25T16:34:45+03:00"
 slug: "haseki-hurrem-sultan-hamami-haseki"
 description: "## Haseki Hürrem Sultan Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.93951,41.008102"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haseki Hürrem Sultan Hamamı

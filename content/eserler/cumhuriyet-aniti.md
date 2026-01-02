@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Anıtı | Miras Haritası"
-date: 2025-12-25T15:53:59+03:00
+title: "Cumhuriyet Anıtı"
+date: "2025-12-25T15:53:59+03:00"
 slug: "cumhuriyet-aniti"
 description: "### Cumhuriyet Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ankara_4P5C4776_(42435880652).jpg/1200px-Ankara_4P5C4776_(42435880652).jpg"
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Cumhuriyet Anıtı

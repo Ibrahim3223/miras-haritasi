@@ -1,18 +1,17 @@
 ---
-title: "Aslahaddin Mosque | Miras Haritası"
-date: 2025-12-24T22:25:26+03:00
+title: "Aslahaddin Mosque"
+date: "2025-12-24T22:25:26+03:00"
 slug: "aslahaddin-mosque"
 description: "## Aslahaddin Camii: Bolu'nun Eski Şehir Merkezi'ndeki Tarihi Bir Ölümsüz..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aslahaddin Camii: Bolu'nun Eski Şehir Merkezi'ndeki Tarihi Bir Ölümsüz

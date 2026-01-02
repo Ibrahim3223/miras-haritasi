@@ -1,18 +1,17 @@
 ---
-title: "Menemen Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:05:08+03:00
+title: "Menemen Ulu Cami"
+date: "2025-12-24T23:05:08+03:00"
 slug: "menemen-ulu-cami"
 description: "## Menemen Ulu Cami: İzmirlinin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0665359,38.6101303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Menemen Ulu Cami: İzmirlinin Tarihi ve Kültürel Mirası

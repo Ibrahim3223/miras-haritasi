@@ -1,18 +1,17 @@
 ---
-title: "Karamanoğlu Mehmet Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:17+03:00
+title: "Karamanoğlu Mehmet Bey Türbesi"
+date: "2025-12-25T14:52:17+03:00"
 slug: "karamanoglu-mehmet-bey-turbesi"
 description: "## Karamanoğlu Mehmet Bey Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ermenek"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8856621,36.7777786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karamanoğlu Mehmet Bey Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Çoban Mustafa Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:58:11+03:00
+title: "Çoban Mustafa Paşa Camii"
+date: "2025-12-24T21:58:11+03:00"
 slug: "coban-mustafa-pasa-camii"
 description: "### Çoban Mustafa Paşa Camii: Gebze'nin Tarihi Bir Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Coban_mustafa_Pasa_Camii_-_panoramio.jpg/1200px-Coban_mustafa_Pasa_Camii_-_panoramio.jpg"
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.431698752,40.800017125"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çoban Mustafa Paşa Camii: Gebze'nin Tarihi Bir Öreni

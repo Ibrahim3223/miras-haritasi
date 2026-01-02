@@ -1,18 +1,17 @@
 ---
-title: "Ayios Dimitrios Ayazması, Kuruçeşme | Miras Haritası"
-date: 2025-12-25T12:40:03+03:00
+title: "Ayios Dimitrios Ayazması, Kuruçeşme"
+date: "2025-12-25T12:40:03+03:00"
 slug: "ayios-dimitrios-ayazmasi-kurucesme"
 description: "## Ayios Dimitrios Ayazması, Kuruçeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0351639,41.0611725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Dimitrios Ayazması, Kuruçeşme

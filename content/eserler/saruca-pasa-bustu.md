@@ -1,18 +1,17 @@
 ---
-title: "Saruca Paşa Büstü | Miras Haritası"
-date: 2025-12-25T15:51:17+03:00
+title: "Saruca Paşa Büstü"
+date: "2025-12-25T15:51:17+03:00"
 slug: "saruca-pasa-bustu"
 description: "### Saruca Paşa Büstü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.435957,38.6207962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saruca Paşa Büstü

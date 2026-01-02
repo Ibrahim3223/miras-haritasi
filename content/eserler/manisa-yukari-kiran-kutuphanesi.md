@@ -1,18 +1,17 @@
 ---
-title: "Manisa Yukarı Kıran Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:54:25+03:00
+title: "Manisa Yukarı Kıran Kütüphanesi"
+date: "2025-12-25T17:54:25+03:00"
 slug: "manisa-yukari-kiran-kutuphanesi"
 description: "## Manisa Yukarı Kıran Kütüphanesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Demirci"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.654181923,39.04759848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manisa Yukarı Kıran Kütüphanesi

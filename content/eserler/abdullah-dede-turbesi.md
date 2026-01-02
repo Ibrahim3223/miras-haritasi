@@ -1,18 +1,17 @@
 ---
-title: "Abdullah Dede Türbesi | Miras Haritası"
-date: 2025-12-25T13:30:48+03:00
+title: "Abdullah Dede Türbesi"
+date: "2025-12-25T13:30:48+03:00"
 slug: "abdullah-dede-turbesi"
 description: "**Abdullah Dede Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9269047,41.0038567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Abdullah Dede Türbesi**

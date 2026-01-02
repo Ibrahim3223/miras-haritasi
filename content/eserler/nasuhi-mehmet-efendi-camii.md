@@ -1,18 +1,17 @@
 ---
-title: "Nasuhi Mehmet Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:18:06+03:00
+title: "Nasuhi Mehmet Efendi Camii"
+date: "2025-12-24T22:18:06+03:00"
 slug: "nasuhi-mehmet-efendi-camii"
 description: "## Nasuhi Mehmet Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nasuhi_Mehmet_Efendi_Camii,_Üsküdar,_İstanbul.jpg/1200px-Nasuhi_Mehmet_Efendi_Camii,_Üsküdar,_İstanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.01340216,41.018185502"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nasuhi Mehmet Efendi Camii

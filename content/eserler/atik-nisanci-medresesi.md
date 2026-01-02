@@ -1,18 +1,17 @@
 ---
-title: "Atik Nişancı Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:20+03:00
+title: "Atik Nişancı Medresesi"
+date: "2025-12-25T17:44:20+03:00"
 slug: "atik-nisanci-medresesi"
 description: "### Atik Nişancı Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9612904,41.0062599"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Atik Nişancı Medresesi

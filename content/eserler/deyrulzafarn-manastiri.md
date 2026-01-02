@@ -1,18 +1,17 @@
 ---
-title: "Deyrulzafarân Manastırı | Miras Haritası"
-date: 2025-12-25T09:46:46+03:00
+title: "Deyrulzafarân Manastırı"
+date: "2025-12-25T09:46:46+03:00"
 slug: "deyrulzafarn-manastiri"
 description: "### Deyrulzafarân Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mor_Hananyo.jpg/1200px-Mor_Hananyo.jpg"
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Mardin"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "40.792611111,37.299388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Deyrulzafarân Manastırı

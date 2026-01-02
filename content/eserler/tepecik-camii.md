@@ -1,18 +1,17 @@
 ---
-title: "Tepecik Camii | Miras Haritası"
-date: 2025-12-24T23:14:46+03:00
+title: "Tepecik Camii"
+date: "2025-12-24T23:14:46+03:00"
 slug: "tepecik-camii"
 description: "## Tepecik Camii: Bodrum'un Tarihi ve Dini Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4255466,37.0361938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepecik Camii: Bodrum'un Tarihi ve Dini Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Esir Mahmut Hamamı | Miras Haritası"
-date: 2025-12-25T17:15:13+03:00
+title: "Esir Mahmut Hamamı"
+date: "2025-12-25T17:15:13+03:00"
 slug: "esir-mahmut-hamami"
 description: "## Esir Mahmut Hamamı: Isparta'nın Tarihî Mirasının Gizli Hazineleri..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Şarkikaraağaç"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.365888859,38.079599576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esir Mahmut Hamamı: Isparta'nın Tarihî Mirasının Gizli Hazineleri

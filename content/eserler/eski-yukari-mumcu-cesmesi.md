@@ -1,18 +1,17 @@
 ---
-title: "Eski Yukarı Mumcu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:41:19+03:00
+title: "Eski Yukarı Mumcu Çeşmesi"
+date: "2025-12-25T11:41:19+03:00"
 slug: "eski-yukari-mumcu-cesmesi"
 description: "### Eski Yukarı Mumcu Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2448082,39.8990974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Yukarı Mumcu Çeşmesi

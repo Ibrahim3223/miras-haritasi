@@ -1,18 +1,17 @@
 ---
-title: "Dias (Likya) | Miras Haritası"
-date: 2025-12-25T04:35:50+03:00
+title: "Dias (Likya)"
+date: "2025-12-25T04:35:50+03:00"
 slug: "dias-likya"
 description: "## Likya'nın Gizemi: Dias Eseri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Likya'nın Gizemi: Dias Eseri

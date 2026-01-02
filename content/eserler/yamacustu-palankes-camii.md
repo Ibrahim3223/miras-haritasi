@@ -1,18 +1,17 @@
 ---
-title: "Yamaçüstü Palankes Camii | Miras Haritası"
-date: 2025-12-25T00:18:07+03:00
+title: "Yamaçüstü Palankes Camii"
+date: "2025-12-25T00:18:07+03:00"
 slug: "yamacustu-palankes-camii"
 description: "# Yamaçüstü Palankes Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3940709,40.60272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yamaçüstü Palankes Camii

@@ -1,18 +1,17 @@
 ---
-title: "Kotyora | Miras Haritası"
-date: 2025-12-25T05:22:53+03:00
+title: "Kotyora"
+date: "2025-12-25T05:22:53+03:00"
 slug: "kotyora"
 description: "## Kotyora: Altınordu'nun Eski Eseri..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.8654137,41.0149918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kotyora: Altınordu'nun Eski Eseri

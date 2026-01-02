@@ -1,18 +1,17 @@
 ---
-title: "Alpullu Kilisesi Torul | Miras Haritası"
-date: 2025-12-25T09:09:32+03:00
+title: "Alpullu Kilisesi Torul"
+date: "2025-12-25T09:09:32+03:00"
 slug: "alpullu-kilisesi-torul"
 description: "# Alpullu Kilisesi Torul: Gümüşhane'nin Gizli Öztürk'ü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.4909782,40.5718117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alpullu Kilisesi Torul: Gümüşhane'nin Gizli Öztürk'ü

@@ -1,18 +1,17 @@
 ---
-title: "Shoghakat Surb Astvatsatsin Monastery | Miras Haritası"
-date: 2025-12-25T09:53:10+03:00
+title: "Shoghakat Surb Astvatsatsin Monastery"
+date: "2025-12-25T09:53:10+03:00"
 slug: "shoghakat-surb-astvatsatsin-monastery"
 description: "## Shoghakat Surb Astvatsatsin Manastırı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Shoghakat Surb Astvatsatsin Manastırı

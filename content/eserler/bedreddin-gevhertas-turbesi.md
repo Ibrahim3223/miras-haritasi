@@ -1,18 +1,17 @@
 ---
-title: "Bedreddin Gevhertaş Türbesi | Miras Haritası"
-date: 2025-12-25T14:48:37+03:00
+title: "Bedreddin Gevhertaş Türbesi"
+date: "2025-12-25T14:48:37+03:00"
 slug: "bedreddin-gevhertas-turbesi"
 description: "## Bedreddin Gevhertaş Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.521240399,37.835350791"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bedreddin Gevhertaş Türbesi

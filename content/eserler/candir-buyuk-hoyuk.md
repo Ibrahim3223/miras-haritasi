@@ -1,18 +1,17 @@
 ---
-title: "Çandır Büyük Höyük | Miras Haritası"
-date: 2025-12-25T05:50:53+03:00
+title: "Çandır Büyük Höyük"
+date: "2025-12-25T05:50:53+03:00"
 slug: "candir-buyuk-hoyuk"
 description: "**Çandır Büyük Höyük: Denizli'nin Gizli Öreni**..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.985067,38.182967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çandır Büyük Höyük: Denizli'nin Gizli Öreni**

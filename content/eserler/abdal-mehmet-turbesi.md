@@ -1,18 +1,17 @@
 ---
-title: "Abdal Mehmet Türbesi | Miras Haritası"
-date: 2025-12-25T14:15:35+03:00
+title: "Abdal Mehmet Türbesi"
+date: "2025-12-25T14:15:35+03:00"
 slug: "abdal-mehmet-turbesi"
 description: "### Abdal Mehmet Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.068226,40.186946"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdal Mehmet Türbesi

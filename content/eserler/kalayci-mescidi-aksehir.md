@@ -1,18 +1,17 @@
 ---
-title: "Kalaycı Mescidi, Akşehir | Miras Haritası"
-date: 2025-12-25T00:31:44+03:00
+title: "Kalaycı Mescidi, Akşehir"
+date: "2025-12-25T00:31:44+03:00"
 slug: "kalayci-mescidi-aksehir"
 description: "## Kalaycı Mescidi: Akşehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.4123306,38.3556519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalaycı Mescidi: Akşehir'in Tarihi ve Kültürel Mirası

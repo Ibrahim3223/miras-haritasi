@@ -1,18 +1,17 @@
 ---
-title: "Mezar Taşları Açıkhava Sergisi | Miras Haritası"
-date: 2025-12-25T03:38:50+03:00
+title: "Mezar Taşları Açıkhava Sergisi"
+date: "2025-12-25T03:38:50+03:00"
 slug: "mezar-taslari-acikhava-sergisi"
 description: "### Mezar Taşları Açıkhava Sergisi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.2625904,37.8558464"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mezar Taşları Açıkhava Sergisi

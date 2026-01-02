@@ -1,18 +1,17 @@
 ---
-title: "Afyon Garı Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:22:45+03:00
+title: "Afyon Garı Saat Kulesi"
+date: "2025-12-25T17:22:45+03:00"
 slug: "afyon-gari-saat-kulesi"
 description: "## Afyon Garı Saat Kulesi: Bir Zamanın Özgün Mimarisinin Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "30.5524349,38.7639618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Afyon Garı Saat Kulesi: Bir Zamanın Özgün Mimarisinin Mirası

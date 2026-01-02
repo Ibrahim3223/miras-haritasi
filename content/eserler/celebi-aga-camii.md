@@ -1,18 +1,17 @@
 ---
-title: "Çelebi Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:30:33+03:00
+title: "Çelebi Ağa Camii"
+date: "2025-12-24T22:30:33+03:00"
 slug: "celebi-aga-camii"
 description: "## Çelebi Ağa Camii: Pertek'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Pertek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.3254929,38.8675957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çelebi Ağa Camii: Pertek'in Tarihi Bir Mirası

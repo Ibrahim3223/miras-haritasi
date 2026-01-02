@@ -1,18 +1,17 @@
 ---
-title: "Yük Tepe | Miras Haritası"
-date: 2025-12-25T05:56:09+03:00
+title: "Yük Tepe"
+date: "2025-12-25T05:56:09+03:00"
 slug: "yuk-tepe"
 description: "## Yük Tepe Arkeolojik Sit..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ladik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.893383,40.98848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yük Tepe Arkeolojik Sit

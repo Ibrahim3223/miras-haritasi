@@ -1,18 +1,17 @@
 ---
-title: "Emir Camii | Miras Haritası"
-date: 2025-12-24T22:54:23+03:00
+title: "Emir Camii"
+date: "2025-12-24T22:54:23+03:00"
 slug: "emir-camii"
 description: "# Emir Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Hocapaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9764072,41.0156167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Emir Camii

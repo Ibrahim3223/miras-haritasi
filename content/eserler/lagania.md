@@ -1,18 +1,17 @@
 ---
-title: "Lagania | Miras Haritası"
-date: 2025-12-25T04:34:32+03:00
+title: "Lagania"
+date: "2025-12-25T04:34:32+03:00"
 slug: "lagania"
 description: "### Lagania Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.921111111,40.170305555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Lagania Arkeolojik Sit

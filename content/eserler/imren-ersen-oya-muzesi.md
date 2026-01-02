@@ -1,18 +1,17 @@
 ---
-title: "İmren Erşen Oya Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:25+03:00
+title: "İmren Erşen Oya Müzesi"
+date: "2025-12-25T04:01:25+03:00"
 slug: "imren-ersen-oya-muzesi"
 description: "## İmren Erşen Oya Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.5255623,39.7642784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmren Erşen Oya Müzesi

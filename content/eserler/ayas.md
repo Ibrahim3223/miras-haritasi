@@ -1,18 +1,17 @@
 ---
-title: "Ayas | Miras Haritası"
-date: 2025-12-25T04:18:20+03:00
+title: "Ayas"
+date: "2025-12-25T04:18:20+03:00"
 slug: "ayas"
 description: "## Ayas Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Yumurtalik2.jpg/1200px-Yumurtalik2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.789487,36.769676"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayas Arkeolojik Sit

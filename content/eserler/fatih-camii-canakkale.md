@@ -1,18 +1,17 @@
 ---
-title: "Fatih Camii, Çanakkale | Miras Haritası"
-date: 2025-12-24T23:57:46+03:00
+title: "Fatih Camii, Çanakkale"
+date: "2025-12-24T23:57:46+03:00"
 slug: "fatih-camii-canakkale"
 description: "### Fatih Camii, Çanakkale: Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.4012203,40.146553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fatih Camii, Çanakkale: Tarihi ve Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Odabaşı Mor Abrohom Kilisesi | Miras Haritası"
-date: 2025-12-25T09:20:56+03:00
+title: "Odabaşı Mor Abrohom Kilisesi"
+date: "2025-12-25T09:20:56+03:00"
 slug: "odabasi-mor-abrohom-kilisesi"
 description: "**Odabaşı Mor Abrohom Kilisesi**..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.4620438,37.1053772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Odabaşı Mor Abrohom Kilisesi**

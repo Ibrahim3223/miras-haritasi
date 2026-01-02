@@ -1,18 +1,17 @@
 ---
-title: "Oşki | Miras Haritası"
-date: 2025-12-25T09:46:50+03:00
+title: "Oşki"
+date: "2025-12-25T09:46:50+03:00"
 slug: "oski"
 description: "## Oşki Manastırı: Erzurum'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oshki4.jpg/1200px-Oshki4.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.542111111,40.613711111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Oşki Manastırı: Erzurum'un Gizli Cenneti

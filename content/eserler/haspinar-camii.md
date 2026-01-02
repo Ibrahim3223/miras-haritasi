@@ -1,18 +1,17 @@
 ---
-title: "Haspınar Camii | Miras Haritası"
-date: 2025-12-25T00:12:41+03:00
+title: "Haspınar Camii"
+date: "2025-12-25T00:12:41+03:00"
 slug: "haspinar-camii"
 description: "## Haspınar Camii: Antalya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.949593,37.225665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haspınar Camii: Antalya'nın Tarihî Mirası

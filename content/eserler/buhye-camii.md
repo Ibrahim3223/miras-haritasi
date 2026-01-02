@@ -1,18 +1,17 @@
 ---
-title: "Buhye Camii | Miras Haritası"
-date: 2025-12-24T22:20:22+03:00
+title: "Buhye Camii"
+date: "2025-12-24T22:20:22+03:00"
 slug: "buhye-camii"
 description: "## Buhye Camii: Balıkesir'in Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.86102,40.341284"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Buhye Camii: Balıkesir'in Tarihî Bir Mirası

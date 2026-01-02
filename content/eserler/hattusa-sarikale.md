@@ -1,18 +1,17 @@
 ---
-title: "Hattuşa Sarıkale | Miras Haritası"
-date: 2025-12-25T01:46:41+03:00
+title: "Hattuşa Sarıkale"
+date: "2025-12-25T01:46:41+03:00"
 slug: "hattusa-sarikale"
 description: "## Hattuşa Sarıkale: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Boğazkale"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.615101,40.012558"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hattuşa Sarıkale: Tarihî Bir Mirasın Gizemi

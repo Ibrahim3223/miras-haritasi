@@ -1,18 +1,17 @@
 ---
-title: "Bodrum Kalesi | Miras Haritası"
-date: 2025-12-25T01:11:47+03:00
+title: "Bodrum Kalesi"
+date: "2025-12-25T01:11:47+03:00"
 slug: "bodrum-kalesi"
 description: "# Bodrum Kalesi: Bir Tarihî Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/BodrumCastlesoutheast.jpg/1200px-BodrumCastlesoutheast.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.429444444,37.031666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Bodrum Kalesi: Bir Tarihî Mirasın Gizemi

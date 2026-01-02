@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ahmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:12:43+03:00
+title: "Hacı Ahmet Ağa Çeşmesi"
+date: "2025-12-25T12:12:43+03:00"
 slug: "haci-ahmet-aga-cesmesi"
 description: "## Hacı Ahmet Ağa Çeşmesi: Fatih'te Bir Zeytinlik Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9474864,41.0105307"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ahmet Ağa Çeşmesi: Fatih'te Bir Zeytinlik Çeşmesi

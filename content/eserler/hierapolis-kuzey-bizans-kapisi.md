@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Kuzey Bizans Kapısı | Miras Haritası"
-date: 2025-12-25T13:16:44+03:00
+title: "Hierapolis Kuzey Bizans Kapısı"
+date: "2025-12-25T13:16:44+03:00"
 slug: "hierapolis-kuzey-bizans-kapisi"
 description: "## Hierapolis Kuzey Bizans Kapısı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.122942,37.9304314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hierapolis Kuzey Bizans Kapısı

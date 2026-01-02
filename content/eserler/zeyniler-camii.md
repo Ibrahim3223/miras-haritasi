@@ -1,18 +1,17 @@
 ---
-title: "Zeyniler Camii | Miras Haritası"
-date: 2025-12-24T23:49:04+03:00
+title: "Zeyniler Camii"
+date: "2025-12-24T23:49:04+03:00"
 slug: "zeyniler-camii"
 description: "## Zeyniler Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ZEYNİLER_CAMİSİ_-_panoramio.jpg/1200px-ZEYNİLER_CAMİSİ_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0837021,40.1807785"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zeyniler Camii

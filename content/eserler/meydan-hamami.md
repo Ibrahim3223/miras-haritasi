@@ -1,18 +1,17 @@
 ---
-title: "Meydan Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:58+03:00
+title: "Meydan Hamamı"
+date: "2025-12-25T16:29:58+03:00"
 slug: "meydan-hamami"
 description: "## Meydan Hamamı..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.1640906,36.2036474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meydan Hamamı

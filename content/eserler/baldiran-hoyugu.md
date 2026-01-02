@@ -1,18 +1,17 @@
 ---
-title: "Baldıran Höyüğü | Miras Haritası"
-date: 2025-12-25T05:55:55+03:00
+title: "Baldıran Höyüğü"
+date: "2025-12-25T05:55:55+03:00"
 slug: "baldiran-hoyugu"
 description: "## Baldıran Höyüğü: Kırıkhan'ın Gizli Mirası..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.4452744,36.4333649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baldıran Höyüğü: Kırıkhan'ın Gizli Mirası

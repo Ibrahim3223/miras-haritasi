@@ -1,18 +1,17 @@
 ---
-title: "Augusteum, Antioch in Pisidia | Miras Haritası"
-date: 2025-12-25T06:03:12+03:00
+title: "Augusteum, Antioch in Pisidia"
+date: "2025-12-25T06:03:12+03:00"
 slug: "augusteum-antioch-in-pisidia"
 description: "## Augusteum, Antioch in Pisidia..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Yalvaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.191350152,38.304094852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Augusteum, Antioch in Pisidia

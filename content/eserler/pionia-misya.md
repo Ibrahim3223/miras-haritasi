@@ -1,18 +1,17 @@
 ---
-title: "Pionia (Misya) | Miras Haritası"
-date: 2025-12-25T04:34:16+03:00
+title: "Pionia (Misya)"
+date: "2025-12-25T04:34:16+03:00"
 slug: "pionia-misya"
 description: "### Pionia: Misya'nın Gizli Limanı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5796,39.6262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pionia: Misya'nın Gizli Limanı

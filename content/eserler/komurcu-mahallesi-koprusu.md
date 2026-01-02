@@ -1,18 +1,17 @@
 ---
-title: "Kömürcü Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:58+03:00
+title: "Kömürcü Mahallesi Köprüsü"
+date: "2025-12-25T02:42:58+03:00"
 slug: "komurcu-mahallesi-koprusu"
 description: "### Kömürcü Mahallesi Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Yomra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.86474,40.903892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kömürcü Mahallesi Köprüsü

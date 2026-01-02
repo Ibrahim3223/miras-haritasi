@@ -1,18 +1,17 @@
 ---
-title: "Başçayır Köprüsü | Miras Haritası"
-date: 2025-12-25T02:19:24+03:00
+title: "Başçayır Köprüsü"
+date: "2025-12-25T02:19:24+03:00"
 slug: "bascayir-koprusu"
 description: "### Başçayır Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Köşk"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0667,37.9574013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Başçayır Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Altınova Kalesi, Çine | Miras Haritası"
-date: 2025-12-25T01:20:10+03:00
+title: "Altınova Kalesi, Çine"
+date: "2025-12-25T01:20:10+03:00"
 slug: "altinova-kalesi-cine"
 description: "## Altınova Kalesi: Aydın'ın Gizli Güzelliği..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.0028,37.6931"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altınova Kalesi: Aydın'ın Gizli Güzelliği

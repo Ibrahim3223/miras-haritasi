@@ -1,18 +1,17 @@
 ---
-title: "Thymbraean Apollo sanctuary | Miras Haritası"
-date: 2025-12-25T08:12:35+03:00
+title: "Thymbraean Apollo sanctuary"
+date: "2025-12-25T08:12:35+03:00"
 slug: "thymbraean-apollo-sanctuary"
 description: "## Thymbraean Apollo Sanctuary: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Thymbraean Apollo Sanctuary: Antik Çağın Gizemi

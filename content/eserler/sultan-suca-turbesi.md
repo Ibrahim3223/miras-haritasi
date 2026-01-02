@@ -1,18 +1,17 @@
 ---
-title: "Sultan Şuca Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:19+03:00
+title: "Sultan Şuca Türbesi"
+date: "2025-12-25T15:10:19+03:00"
 slug: "sultan-suca-turbesi"
 description: "# Sultan Şuca Türbesi: Diyarbakır'ın İhtişamlı Anıtı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2353994,37.9067063"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sultan Şuca Türbesi: Diyarbakır'ın İhtişamlı Anıtı

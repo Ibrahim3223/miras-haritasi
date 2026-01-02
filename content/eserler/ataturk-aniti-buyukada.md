@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı Büyükada | Miras Haritası"
-date: 2025-12-25T15:48:33+03:00
+title: "Atatürk Anıtı Büyükada"
+date: "2025-12-25T15:48:33+03:00"
 slug: "ataturk-aniti-buyukada"
 description: "## Atatürk Anıtı Büyükada..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1260262,40.8737335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı Büyükada

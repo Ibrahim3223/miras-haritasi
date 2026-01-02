@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Çarşı Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:37+03:00
+title: "Tarihi Çarşı Hamamı"
+date: "2025-12-25T16:34:37+03:00"
 slug: "tarihi-carsi-hamami"
 description: "## Tarihi Çarşı Hamamı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.3172708,38.3497401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Çarşı Hamamı

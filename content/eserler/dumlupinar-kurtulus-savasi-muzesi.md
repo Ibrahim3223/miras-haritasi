@@ -1,18 +1,17 @@
 ---
-title: "Dumlupınar Kurtuluş Savaşı Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:14+03:00
+title: "Dumlupınar Kurtuluş Savaşı Müzesi"
+date: "2025-12-25T03:58:14+03:00"
 slug: "dumlupinar-kurtulus-savasi-muzesi"
 description: "## Dumlupınar Kurtuluş Savaşı Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Dumlupınar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9791679,38.8535042"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumlupınar Kurtuluş Savaşı Müzesi

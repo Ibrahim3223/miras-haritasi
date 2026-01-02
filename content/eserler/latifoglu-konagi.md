@@ -1,18 +1,17 @@
 ---
-title: "Latifoğlu Konağı | Miras Haritası"
-date: 2025-12-25T03:36:47+03:00
+title: "Latifoğlu Konağı"
+date: "2025-12-25T03:36:47+03:00"
 slug: "latifoglu-konagi"
 description: "## Latifoğlu Konağı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Latifoğlu Konağı

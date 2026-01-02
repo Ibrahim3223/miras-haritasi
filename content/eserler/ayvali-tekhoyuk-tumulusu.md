@@ -1,18 +1,17 @@
 ---
-title: "Ayvalı Tekhöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:49:42+03:00
+title: "Ayvalı Tekhöyük Tümülüsü"
+date: "2025-12-25T07:49:42+03:00"
 slug: "ayvali-tekhoyuk-tumulusu"
 description: "**Ayvalı Tekhöyük Tümülüsü: Tarihi ve Kültürel Mirasın Gizli Anıtı**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3042412,41.4344978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayvalı Tekhöyük Tümülüsü: Tarihi ve Kültürel Mirasın Gizli Anıtı**

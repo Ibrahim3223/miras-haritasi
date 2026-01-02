@@ -1,18 +1,17 @@
 ---
-title: "Hürrem Sultan Çeşmesi, Soğanlık | Miras Haritası"
-date: 2025-12-25T12:57:12+03:00
+title: "Hürrem Sultan Çeşmesi, Soğanlık"
+date: "2025-12-25T12:57:12+03:00"
 slug: "hurrem-sultan-cesmesi-soganlik"
 description: "## Hürrem Sultan Çeşmesi, Soğanlık..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.207078459,40.919064042"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hürrem Sultan Çeşmesi, Soğanlık

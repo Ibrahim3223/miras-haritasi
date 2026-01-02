@@ -1,18 +1,17 @@
 ---
-title: "Erenler Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:22:41+03:00
+title: "Erenler Köyü Camii"
+date: "2025-12-25T00:22:41+03:00"
 slug: "erenler-koyu-camii"
 description: "### Erenler Köyü Camii: Rize'nin Gizli Çehresini Aydınlатаyan Bir Cami..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.831765221,41.091537216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Erenler Köyü Camii: Rize'nin Gizli Çehresini Aydınlатаyan Bir Cami

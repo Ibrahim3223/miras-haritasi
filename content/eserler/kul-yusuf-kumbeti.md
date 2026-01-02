@@ -1,18 +1,17 @@
 ---
-title: "Kul Yusuf Kümbeti | Miras Haritası"
-date: 2025-12-25T13:55:40+03:00
+title: "Kul Yusuf Kümbeti"
+date: "2025-12-25T13:55:40+03:00"
 slug: "kul-yusuf-kumbeti"
 description: "## Kul Yusuf Kümbeti: Iğdır'ın Gizli Şehri..."
 featured_image: ""
-province: "Sürmeli uyezdi"
-iller: ["Sürmeli uyezdi"]
-district: "Iğdır"
+province: "Iğdır"
+iller: '["Iğdır"]'
+district: "Sürmeli uyezdi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "44.0711288,40.0202713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kul Yusuf Kümbeti: Iğdır'ın Gizli Şehri

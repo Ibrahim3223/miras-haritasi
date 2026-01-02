@@ -1,18 +1,17 @@
 ---
-title: "Yenice Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:50:45+03:00
+title: "Yenice Kalesi, Kırklareli"
+date: "2025-12-25T01:50:45+03:00"
 slug: "yenice-kalesi-kirklareli"
 description: "## Yenice Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.6365318,41.7581825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenice Kalesi, Kırklareli

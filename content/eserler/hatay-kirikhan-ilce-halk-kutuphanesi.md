@@ -1,18 +1,17 @@
 ---
-title: "Hatay Kırıkhan İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:54:33+03:00
+title: "Hatay Kırıkhan İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:54:33+03:00"
 slug: "hatay-kirikhan-ilce-halk-kutuphanesi"
 description: "### Hatay Kırıkhan İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "36.3524704,36.4994583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hatay Kırıkhan İlçe Halk Kütüphanesi

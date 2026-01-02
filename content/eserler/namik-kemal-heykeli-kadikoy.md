@@ -1,18 +1,17 @@
 ---
-title: "Namık Kemal Heykeli, Kadıköy | Miras Haritası"
-date: 2025-12-25T16:10:00+03:00
+title: "Namık Kemal Heykeli, Kadıköy"
+date: "2025-12-25T16:10:00+03:00"
 slug: "namik-kemal-heykeli-kadikoy"
 description: "## Namık Kemal Heykeli: Kadıköy'ün Yüce Ruhu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0598946,40.9849701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Namık Kemal Heykeli: Kadıköy'ün Yüce Ruhu

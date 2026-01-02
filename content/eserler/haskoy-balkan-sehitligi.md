@@ -1,18 +1,17 @@
 ---
-title: "Hasköy Balkan Şehitliği | Miras Haritası"
-date: 2025-12-25T16:05:00+03:00
+title: "Hasköy Balkan Şehitliği"
+date: "2025-12-25T16:05:00+03:00"
 slug: "haskoy-balkan-sehitligi"
 description: "## Hasköy Balkan Şehitliği: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Havsa_-_Hasköy_Balkan_Martyrs_Cemetery_-_20250601131710.jpg/1200px-Havsa_-_Hasköy_Balkan_Martyrs_Cemetery_-_20250601131710.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.8595695,41.6411438"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hasköy Balkan Şehitliği: Türkiye'nin Tarihi ve Kültürel Mirası

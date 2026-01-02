@@ -1,18 +1,17 @@
 ---
-title: "Ankara Vakıf Eserleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:11+03:00
+title: "Ankara Vakıf Eserleri Müzesi"
+date: "2025-12-25T03:27:11+03:00"
 slug: "ankara-vakif-eserleri-muzesi"
 description: "## Ankara Vakıf Eserleri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ankara_Vakıf_Museum_building.jpg/1200px-Ankara_Vakıf_Museum_building.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.855,39.935666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ankara Vakıf Eserleri Müzesi

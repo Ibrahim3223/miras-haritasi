@@ -1,18 +1,17 @@
 ---
-title: "Beşiktaş Jimnastik Kulübü (BJK) Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:43+03:00
+title: "Beşiktaş Jimnastik Kulübü (BJK) Müzesi"
+date: "2025-12-25T03:53:43+03:00"
 slug: "besiktas-jimnastik-kulubu-bjk-muzesi"
 description: "## Beşiktaş Jimnastik Kulübü (BJK) Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.995669,41.038662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşiktaş Jimnastik Kulübü (BJK) Müzesi

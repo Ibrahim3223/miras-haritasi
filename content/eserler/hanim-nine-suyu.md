@@ -1,18 +1,17 @@
 ---
-title: "Hanım Nine Suyu | Miras Haritası"
-date: 2025-12-25T11:14:58+03:00
+title: "Hanım Nine Suyu"
+date: "2025-12-25T11:14:58+03:00"
 slug: "hanim-nine-suyu"
 description: "**Hanım Nine Suyu: Sarıyer'in Güllerinden Birini**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hanım_Nine_Suyu_IMG_6772.jpg/1200px-Hanım_Nine_Suyu_IMG_6772.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.04769,41.146818"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Hanım Nine Suyu: Sarıyer'in Güllerinden Birini**

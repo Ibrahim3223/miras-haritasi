@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Mescidi, Bozüyük | Miras Haritası"
-date: 2025-12-25T00:49:41+03:00
+title: "Kanuni Mescidi, Bozüyük"
+date: "2025-12-25T00:49:41+03:00"
 slug: "kanuni-mescidi-bozuyuk"
 description: "## Kanuni Mescidi, Bozüyük..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1360512,37.3060455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanuni Mescidi, Bozüyük

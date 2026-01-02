@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Agorası | Miras Haritası"
-date: 2025-12-25T08:26:28+03:00
+title: "Hierapolis Agorası"
+date: "2025-12-25T08:26:28+03:00"
 slug: "hierapolis-agorasi"
 description: "## Hierapolis Agorası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_eastern_basilica-stoa_of_the_Agora_built_in_the_2nd_century_AD,_it_was_a_two-story_structure_and_had_a_Ionic_facade_with_Corinthian_columns_in_its_interior,_Hierapolis,_Phrygia,_Turkey_(32332382206).jpg/1200px-The_eastern_basilica-stoa_of_the_Agora_built_in_the_2nd_century_AD,_it_was_a_two-story_structure_and_had_a_Ionic_facade_with_Corinthian_columns_in_its_interior,_Hierapolis,_Phrygia,_Turkey_(32332382206).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.124194444,37.931277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hierapolis Agorası

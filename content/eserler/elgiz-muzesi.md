@@ -1,18 +1,17 @@
 ---
-title: "Elgiz Müzesi | Miras Haritası"
-date: 2025-12-25T04:11:04+03:00
+title: "Elgiz Müzesi"
+date: "2025-12-25T04:11:04+03:00"
 slug: "elgiz-muzesi"
 description: "## Elgiz Müzesi: İstanbul'un Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.02044444,41.10983333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elgiz Müzesi: İstanbul'un Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Dörtayak Türbesi, Burdur | Miras Haritası"
-date: 2025-12-25T13:56:26+03:00
+title: "Dörtayak Türbesi, Burdur"
+date: "2025-12-25T13:56:26+03:00"
 slug: "dortayak-turbesi-burdur"
 description: "### Dörtayak Türbesi, Burdur..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.290970076,37.729245532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dörtayak Türbesi, Burdur

@@ -1,18 +1,17 @@
 ---
-title: "Tymion | Miras Haritası"
-date: 2025-12-25T06:57:52+03:00
+title: "Tymion"
+date: "2025-12-25T06:57:52+03:00"
 slug: "tymion"
 description: "## Tymion: Uşak'ın Eski Yunan Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Uşak"
+province: "Uşak"
+iller: '["Uşak"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.4325,38.48694444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tymion: Uşak'ın Eski Yunan Mirası

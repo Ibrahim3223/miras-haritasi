@@ -1,18 +1,17 @@
 ---
-title: "Molla Ahmet Çeşmesi, Orta | Miras Haritası"
-date: 2025-12-25T12:32:22+03:00
+title: "Molla Ahmet Çeşmesi, Orta"
+date: "2025-12-25T12:32:22+03:00"
 slug: "molla-ahmet-cesmesi-orta"
 description: "## Molla Ahmet Çeşmesi: Orta'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.989506397,40.602883279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Ahmet Çeşmesi: Orta'nın Tarihi Bir Mirası

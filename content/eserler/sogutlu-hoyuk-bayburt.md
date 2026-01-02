@@ -1,18 +1,17 @@
 ---
-title: "Söğütlü Höyük, Bayburt | Miras Haritası"
-date: 2025-12-25T05:53:19+03:00
+title: "Söğütlü Höyük, Bayburt"
+date: "2025-12-25T05:53:19+03:00"
 slug: "sogutlu-hoyuk-bayburt"
 description: "## Söğütlü Höyük: Bayburt'un Gizli Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.052061,40.217606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söğütlü Höyük: Bayburt'un Gizli Mirası

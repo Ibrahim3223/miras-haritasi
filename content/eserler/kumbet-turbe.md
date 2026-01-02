@@ -1,18 +1,17 @@
 ---
-title: "Kümbet Türbe | Miras Haritası"
-date: 2025-12-25T14:01:54+03:00
+title: "Kümbet Türbe"
+date: "2025-12-25T14:01:54+03:00"
 slug: "kumbet-turbe"
 description: "## Kümbet Türbe: Bozüyük'te Bir Geçiş Döneminin Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0334892,39.9070587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kümbet Türbe: Bozüyük'te Bir Geçiş Döneminin Mirası

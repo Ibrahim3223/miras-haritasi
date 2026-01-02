@@ -1,18 +1,17 @@
 ---
-title: "Hırami Ahmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:21:46+03:00
+title: "Hırami Ahmet Paşa Camii"
+date: "2025-12-24T23:21:46+03:00"
 slug: "hirami-ahmet-pasa-camii"
 description: "## Hırami Ahmet Paşa Camii: Eyüpsultan'ın Gizli Çarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hırami_Ahmet_Paşa_Camii.jpg/1200px-Hırami_Ahmet_Paşa_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.938351,41.035762"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hırami Ahmet Paşa Camii: Eyüpsultan'ın Gizli Çarı

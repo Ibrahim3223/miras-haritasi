@@ -1,18 +1,17 @@
 ---
-title: "Ahrandı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:59:05+03:00
+title: "Ahrandı Tümülüsü"
+date: "2025-12-25T07:59:05+03:00"
 slug: "ahrandi-tumulusu"
 description: "## Ahrandı Tümülüsü: Ödemiş'in Gizli Kaya Mezarı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0053005,38.2456017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahrandı Tümülüsü: Ödemiş'in Gizli Kaya Mezarı

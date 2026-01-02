@@ -1,18 +1,17 @@
 ---
-title: "Besni Kalesi | Miras Haritası"
-date: 2025-12-25T01:35:43+03:00
+title: "Besni Kalesi"
+date: "2025-12-25T01:35:43+03:00"
 slug: "besni-kalesi"
 description: "### Besni Kalesi: Tarihin ve Mirasın Semtinde..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Besni"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.8638344,37.6729736"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Besni Kalesi: Tarihin ve Mirasın Semtinde

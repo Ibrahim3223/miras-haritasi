@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Atatürk ve Kültür Müzesi | Miras Haritası"
-date: 2025-12-25T03:56:46+03:00
+title: "Eskişehir Atatürk ve Kültür Müzesi"
+date: "2025-12-25T03:56:46+03:00"
 slug: "eskisehir-ataturk-ve-kultur-muzesi"
 description: "# Eskişehir Atatürk ve Kültür Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.500073,39.790627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Eskişehir Atatürk ve Kültür Müzesi

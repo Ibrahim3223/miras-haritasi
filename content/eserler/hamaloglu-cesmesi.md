@@ -1,18 +1,17 @@
 ---
-title: "Hamaloğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:19:58+03:00
+title: "Hamaloğlu Çeşmesi"
+date: "2025-12-25T12:19:58+03:00"
 slug: "hamaloglu-cesmesi"
 description: "## Hamaloğlu Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3076611,38.3213768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamaloğlu Çeşmesi

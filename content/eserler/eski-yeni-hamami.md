@@ -1,18 +1,17 @@
 ---
-title: "Eski Yeni Hamamı | Miras Haritası"
-date: 2025-12-25T16:38:14+03:00
+title: "Eski Yeni Hamamı"
+date: "2025-12-25T16:38:14+03:00"
 slug: "eski-yeni-hamami"
 description: "## Eski Yeni Hamamı: Bursa'nın Tarihsel Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eski_Yeni_(Ördekli)_Hamam_(Turkish_Baths)_-_panoramio.jpg/1200px-Eski_Yeni_(Ördekli)_Hamam_(Turkish_Baths)_-_panoramio.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0682774,40.1876869"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eski Yeni Hamamı: Bursa'nın Tarihsel Bir Mirası

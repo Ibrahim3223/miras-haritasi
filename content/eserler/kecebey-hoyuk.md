@@ -1,18 +1,17 @@
 ---
-title: "Keçebey Höyük | Miras Haritası"
-date: 2025-12-25T06:38:33+03:00
+title: "Keçebey Höyük"
+date: "2025-12-25T06:38:33+03:00"
 slug: "kecebey-hoyuk"
 description: "## Keçebey Höyük: Antakya'da Gizli Bir Miras..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.30706,36.286167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keçebey Höyük: Antakya'da Gizli Bir Miras

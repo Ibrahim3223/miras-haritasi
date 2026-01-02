@@ -1,18 +1,17 @@
 ---
-title: "Süreyya Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:59+03:00
+title: "Süreyya Paşa Çeşmesi"
+date: "2025-12-25T11:48:59+03:00"
 slug: "sureyya-pasa-cesmesi"
 description: "## Süreyya Paşa Çeşmesi: Maltepe'nin Tarihi Simgesi..."
 featured_image: ""
-province: "Maltepe"
-iller: ["Maltepe"]
-district: "Zümrütevler"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Maltepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1442833,40.9422073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süreyya Paşa Çeşmesi: Maltepe'nin Tarihi Simgesi

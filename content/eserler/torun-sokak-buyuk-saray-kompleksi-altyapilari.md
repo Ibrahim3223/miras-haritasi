@@ -1,18 +1,17 @@
 ---
-title: "Torun Sokak Büyük Saray Kompleksi Altyapıları | Miras Haritası"
-date: 2025-12-25T13:12:35+03:00
+title: "Torun Sokak Büyük Saray Kompleksi Altyapıları"
+date: "2025-12-25T13:12:35+03:00"
 slug: "torun-sokak-buyuk-saray-kompleksi-altyapilari"
 description: "## Torun Sokak Büyük Saray Kompleksi Altyapıları..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.9781742,41.004097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Torun Sokak Büyük Saray Kompleksi Altyapıları

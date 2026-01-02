@@ -1,18 +1,17 @@
 ---
-title: "Karasis Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:27+03:00
+title: "Karasis Kalesi"
+date: "2025-12-25T01:36:27+03:00"
 slug: "karasis-kalesi"
 description: "## Karasis Kalesi: Adana'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.8655128,37.5532303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karasis Kalesi: Adana'nın Gizli Çarpıntısı

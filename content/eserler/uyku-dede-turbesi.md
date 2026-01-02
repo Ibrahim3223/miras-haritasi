@@ -1,18 +1,17 @@
 ---
-title: "Uyku Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:30:28+03:00
+title: "Uyku Dede Türbesi"
+date: "2025-12-25T14:30:28+03:00"
 slug: "uyku-dede-turbesi"
 description: "### Uyku Dede Türbesi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9264801,41.0036602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uyku Dede Türbesi Tanıtımı

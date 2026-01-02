@@ -1,18 +1,17 @@
 ---
-title: "Başöğretmen Atatürk Anıtı | Miras Haritası"
-date: 2025-12-25T15:53:39+03:00
+title: "Başöğretmen Atatürk Anıtı"
+date: "2025-12-25T15:53:39+03:00"
 slug: "basogretmen-ataturk-aniti"
 description: "## Başöğretmen Atatürk Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.022667,40.99157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başöğretmen Atatürk Anıtı

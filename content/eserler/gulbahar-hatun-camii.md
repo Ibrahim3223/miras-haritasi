@@ -1,18 +1,17 @@
 ---
-title: "Gülbahar Hatun Camii | Miras Haritası"
-date: 2025-12-24T21:46:35+03:00
+title: "Gülbahar Hatun Camii"
+date: "2025-12-24T21:46:35+03:00"
 slug: "gulbahar-hatun-camii"
 description: "## Gülbahar Hatun Camii: Trabzon'un Gizli Çanakkale'si..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gulbahar_Hatun_Camii6.jpg/1200px-Gulbahar_Hatun_Camii6.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Trabzon"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.716083333,41.003388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gülbahar Hatun Camii: Trabzon'un Gizli Çanakkale'si

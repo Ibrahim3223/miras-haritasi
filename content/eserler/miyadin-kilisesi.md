@@ -1,18 +1,17 @@
 ---
-title: "Miyadin Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:57+03:00
+title: "Miyadin Kilisesi"
+date: "2025-12-25T09:19:57+03:00"
 slug: "miyadin-kilisesi"
 description: "# Miyadin Kilisesi..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Çemişgezek"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.7481956,39.1041641"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Miyadin Kilisesi

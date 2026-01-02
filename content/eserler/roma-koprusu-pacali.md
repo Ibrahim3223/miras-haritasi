@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Pacalı | Miras Haritası"
-date: 2025-12-25T03:00:01+03:00
+title: "Roma Köprüsü, Pacalı"
+date: "2025-12-25T03:00:01+03:00"
 slug: "roma-koprusu-pacali"
 description: "## Roma Köprüsü, Pacalı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.468887,38.807213"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Pacalı

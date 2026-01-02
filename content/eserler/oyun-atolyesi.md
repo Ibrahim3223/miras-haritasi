@@ -1,18 +1,17 @@
 ---
-title: "Oyun Atölyesi | Miras Haritası"
-date: 2025-12-25T16:17:38+03:00
+title: "Oyun Atölyesi"
+date: "2025-12-25T16:17:38+03:00"
 slug: "oyun-atolyesi"
 description: "## Oyun Atölyesi: Kadıköy'deki Antik Tiyatro..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Oyun_Atölyesi.jpg/1200px-Oyun_Atölyesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "29.0258872,40.9863005"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Oyun Atölyesi: Kadıköy'deki Antik Tiyatro

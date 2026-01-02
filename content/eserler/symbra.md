@@ -1,18 +1,17 @@
 ---
-title: "Symbra | Miras Haritası"
-date: 2025-12-25T05:42:48+03:00
+title: "Symbra"
+date: "2025-12-25T05:42:48+03:00"
 slug: "symbra"
 description: "### Symbra Arkeolojik Sitesi Tanıtım Yazısı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Symbra Arkeolojik Sitesi Tanıtım Yazısı

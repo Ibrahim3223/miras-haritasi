@@ -1,18 +1,17 @@
 ---
-title: "Erbeyli İlk Kurşun Şehitliği ve Şehitler Abidesi | Miras Haritası"
-date: 2025-12-25T16:00:07+03:00
+title: "Erbeyli İlk Kurşun Şehitliği ve Şehitler Abidesi"
+date: "2025-12-25T16:00:07+03:00"
 slug: "erbeyli-ilk-kursun-sehitligi-ve-sehitler-abidesi"
 description: "## Erbeyli İlk Kurşun Şehitliği ve Şehitler Abidesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.6635532,37.8662491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erbeyli İlk Kurşun Şehitliği ve Şehitler Abidesi

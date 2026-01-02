@@ -1,18 +1,17 @@
 ---
-title: "Guguba Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:18+03:00
+title: "Guguba Kilisesi"
+date: "2025-12-25T08:51:18+03:00"
 slug: "guguba-kilisesi"
 description: "## Guguba Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ermakov._№_13554_Goguba_church_ruins.jpg/1200px-Ermakov._№_13554_Goguba_church_ruins.jpg"
 province: "Hanak"
-iller: ["Hanak"]
+iller: '["Hanak"]'
 district: "Binbaşak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.019583333,41.201611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Guguba Kilisesi

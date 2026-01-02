@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Değirmenyolu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:50:33+03:00
+title: "Üsküp Değirmenyolu Tümülüsü"
+date: "2025-12-25T07:50:33+03:00"
 slug: "uskup-degirmenyolu-tumulusu"
 description: "## Üsküp Değirmenyolu Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3865223,41.7205086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üsküp Değirmenyolu Tümülüsü: Kırklareli'nin Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kunt Model Müzesi | Miras Haritası"
-date: 2025-12-25T03:59:08+03:00
+title: "Kunt Model Müzesi"
+date: "2025-12-25T03:59:08+03:00"
 slug: "kunt-model-muzesi"
 description: "## Kunt Model Müzesi: Bodrum'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.403486,37.04481"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kunt Model Müzesi: Bodrum'un Gizli Çeşmesi

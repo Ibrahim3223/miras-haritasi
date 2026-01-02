@@ -1,18 +1,17 @@
 ---
-title: "Dökmeci Başı Süleyman Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:20+03:00
+title: "Dökmeci Başı Süleyman Ağa Çeşmesi"
+date: "2025-12-25T11:05:20+03:00"
 slug: "dokmeci-basi-suleyman-aga-cesmesi"
 description: "# Dökmeci Başı Süleyman Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9244366,41.0463142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dökmeci Başı Süleyman Ağa Çeşmesi

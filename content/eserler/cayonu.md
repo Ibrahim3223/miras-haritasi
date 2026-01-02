@@ -1,18 +1,17 @@
 ---
-title: "Çayönü | Miras Haritası"
-date: 2025-12-25T05:24:32+03:00
+title: "Çayönü"
+date: "2025-12-25T05:24:32+03:00"
 slug: "cayonu"
 description: "### Çayönü Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Cayönü_-_Zellplangebäude.jpg/1200px-Cayönü_-_Zellplangebäude.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.725,38.216"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çayönü Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Boduroğlu Camii | Miras Haritası"
-date: 2025-12-24T22:26:18+03:00
+title: "Boduroğlu Camii"
+date: "2025-12-24T22:26:18+03:00"
 slug: "boduroglu-camii"
 description: "## Boduroğlu Camii..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4006805,38.677269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boduroğlu Camii

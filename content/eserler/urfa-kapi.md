@@ -1,18 +1,17 @@
 ---
-title: "Urfa Kapı | Miras Haritası"
-date: 2025-12-25T13:42:58+03:00
+title: "Urfa Kapı"
+date: "2025-12-25T13:42:58+03:00"
 slug: "urfa-kapi"
 description: "### Urfa Kapı: Diyarbakır'da Bir Tarihi Anıt..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Urfa Kapı: Diyarbakır'da Bir Tarihi Anıt

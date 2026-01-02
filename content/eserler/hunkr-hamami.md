@@ -1,18 +1,17 @@
 ---
-title: "Hünkâr Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:15+03:00
+title: "Hünkâr Hamamı"
+date: "2025-12-25T17:02:15+03:00"
 slug: "hunkr-hamami"
 description: "# Hünkâr Hamamı: İstanbul'un Gizli Çeşitliliği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9833584,41.0131493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hünkâr Hamamı: İstanbul'un Gizli Çeşitliliği

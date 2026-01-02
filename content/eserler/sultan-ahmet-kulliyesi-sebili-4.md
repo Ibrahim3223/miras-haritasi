@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Külliyesi Sebili 4 | Miras Haritası"
-date: 2025-12-25T13:04:15+03:00
+title: "Sultan Ahmet Külliyesi Sebili 4"
+date: "2025-12-25T13:04:15+03:00"
 slug: "sultan-ahmet-kulliyesi-sebili-4"
 description: "### Sultan Ahmet Külliyesi Sebili 4: Tarihi ve Kültürel Mirasın Işığında..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9764881,41.0044136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultan Ahmet Külliyesi Sebili 4: Tarihi ve Kültürel Mirasın Işığında

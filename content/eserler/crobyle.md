@@ -1,18 +1,17 @@
 ---
-title: "Crobyle | Miras Haritası"
-date: 2025-12-25T05:03:20+03:00
+title: "Crobyle"
+date: "2025-12-25T05:03:20+03:00"
 slug: "crobyle"
 description: "# Crobyle Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Crobyle Arkeolojik Sit

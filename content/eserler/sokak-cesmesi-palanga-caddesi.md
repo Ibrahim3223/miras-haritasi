@@ -1,18 +1,17 @@
 ---
-title: "Sokak Çeşmesi, Palanga Caddesi | Miras Haritası"
-date: 2025-12-25T12:05:52+03:00
+title: "Sokak Çeşmesi, Palanga Caddesi"
+date: "2025-12-25T12:05:52+03:00"
 slug: "sokak-cesmesi-palanga-caddesi"
 description: "## Sokak Çeşmesi, Palanga Caddesi: Beşiktaş'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0240116,41.0486412"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokak Çeşmesi, Palanga Caddesi: Beşiktaş'ın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "İçkale Camii | Miras Haritası"
-date: 2025-12-24T23:35:10+03:00
+title: "İçkale Camii"
+date: "2025-12-24T23:35:10+03:00"
 slug: "ickale-camii"
 description: "**İçkale Camii: Ortahisar'da Gizemli Bir Şehadet**..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.719307,41.001107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İçkale Camii: Ortahisar'da Gizemli Bir Şehadet**

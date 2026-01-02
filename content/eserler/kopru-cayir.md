@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Çayır | Miras Haritası"
-date: 2025-12-25T02:50:31+03:00
+title: "Köprü, Çayır"
+date: "2025-12-25T02:50:31+03:00"
 slug: "kopru-cayir"
 description: "### Çayır Köprüsü: Zonguldak'ın Tarihsel Bir Mirası..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Çaycuma"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.989624,41.4543228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çayır Köprüsü: Zonguldak'ın Tarihsel Bir Mirası

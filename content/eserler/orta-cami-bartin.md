@@ -1,18 +1,17 @@
 ---
-title: "Orta Cami (Bartın) | Miras Haritası"
-date: 2025-12-24T23:57:37+03:00
+title: "Orta Cami (Bartın)"
+date: "2025-12-24T23:57:37+03:00"
 slug: "orta-cami-bartin"
 description: "## Orta Cami (Bartın)..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Bartın"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.3376846,41.6335144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Cami (Bartın)

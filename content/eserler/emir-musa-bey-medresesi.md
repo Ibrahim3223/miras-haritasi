@@ -1,18 +1,17 @@
 ---
-title: "Emir Musa Bey Medresesi | Miras Haritası"
-date: 2025-12-25T17:34:58+03:00
+title: "Emir Musa Bey Medresesi"
+date: "2025-12-25T17:34:58+03:00"
 slug: "emir-musa-bey-medresesi"
 description: "**Emir Musa Bey Medresesi**..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "33.2069931,37.1807327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Emir Musa Bey Medresesi**

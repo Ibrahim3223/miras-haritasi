@@ -1,18 +1,17 @@
 ---
-title: "Düştübakyaması | Miras Haritası"
-date: 2025-12-25T05:34:58+03:00
+title: "Düştübakyaması"
+date: "2025-12-25T05:34:58+03:00"
 slug: "dustubakyamasi"
 description: "## Düştübakyaması: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.536075,41.756786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düştübakyaması: Edirne'nin Gizli Anıtı

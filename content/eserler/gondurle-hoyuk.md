@@ -1,18 +1,17 @@
 ---
-title: "Göndürle Höyük | Miras Haritası"
-date: 2025-12-25T05:35:30+03:00
+title: "Göndürle Höyük"
+date: "2025-12-25T05:35:30+03:00"
 slug: "gondurle-hoyuk"
 description: "### Göndürle Höyük: Isparta'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Atabey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.7152,37.903983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Göndürle Höyük: Isparta'nın Gizli Mücevheri

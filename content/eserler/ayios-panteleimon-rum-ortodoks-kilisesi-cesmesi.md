@@ -1,18 +1,17 @@
 ---
-title: "Ayios Panteleimon Rum Ortodoks Kilisesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:35+03:00
+title: "Ayios Panteleimon Rum Ortodoks Kilisesi Çeşmesi"
+date: "2025-12-25T11:48:35+03:00"
 slug: "ayios-panteleimon-rum-ortodoks-kilisesi-cesmesi"
 description: "## Ayios Panteleimon Rum Ortodoks Kilisesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0302887,41.0347633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Panteleimon Rum Ortodoks Kilisesi Çeşmesi

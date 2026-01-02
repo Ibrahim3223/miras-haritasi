@@ -1,18 +1,17 @@
 ---
-title: "Emine Hatun Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:13+03:00
+title: "Emine Hatun Çeşmesi"
+date: "2025-12-25T10:44:13+03:00"
 slug: "emine-hatun-cesmesi"
 description: "## Emine Hatun Çeşmesi..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9221001,40.7656784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emine Hatun Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Sokak Çeşmesi, Akıncılar Mahallesi | Miras Haritası"
-date: 2025-12-25T12:52:38+03:00
+title: "Sokak Çeşmesi, Akıncılar Mahallesi"
+date: "2025-12-25T12:52:38+03:00"
 slug: "sokak-cesmesi-akincilar-mahallesi"
 description: "## Sokak Çeşmesi, Akıncılar Mahallesi: Sakarya'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.4050312,40.7687836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokak Çeşmesi, Akıncılar Mahallesi: Sakarya'nın Gizli Çeşmesi

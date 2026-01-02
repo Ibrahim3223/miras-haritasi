@@ -1,18 +1,17 @@
 ---
-title: "Ahmetoğlu Hacı Memiş Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:24:02+03:00
+title: "Ahmetoğlu Hacı Memiş Ağa Çeşmesi"
+date: "2025-12-25T12:24:02+03:00"
 slug: "ahmetoglu-haci-memis-aga-cesmesi"
 description: "### Ahmetoğlu Hacı Memiş Ağa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.30513,38.3213921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmetoğlu Hacı Memiş Ağa Çeşmesi

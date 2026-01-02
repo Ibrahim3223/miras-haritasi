@@ -1,18 +1,17 @@
 ---
-title: "15 Temmuz Demokrasi Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:12+03:00
+title: "15 Temmuz Demokrasi Müzesi"
+date: "2025-12-25T03:35:12+03:00"
 slug: "15-temmuz-demokrasi-muzesi"
 description: "### 15 Temmuz Demokrasi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### 15 Temmuz Demokrasi Müzesi

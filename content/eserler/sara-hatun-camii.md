@@ -1,18 +1,17 @@
 ---
-title: "Sara Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:43:31+03:00
+title: "Sara Hatun Camii"
+date: "2025-12-24T22:43:31+03:00"
 slug: "sara-hatun-camii"
 description: "## Sara Hatun Camii..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.2530823,38.7046585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sara Hatun Camii

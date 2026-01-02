@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Üniversitesi Mercan Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:22+03:00
+title: "İstanbul Üniversitesi Mercan Kapısı"
+date: "2025-12-25T15:37:22+03:00"
 slug: "istanbul-universitesi-mercan-kapisi"
 description: "## İstanbul Üniversitesi Mercan Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9658604,41.012619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Üniversitesi Mercan Kapısı

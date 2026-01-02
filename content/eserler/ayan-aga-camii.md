@@ -1,18 +1,17 @@
 ---
-title: "Ayan Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:15:05+03:00
+title: "Ayan Ağa Camii"
+date: "2025-12-24T22:15:05+03:00"
 slug: "ayan-aga-camii"
 description: "## Ayan Ağa Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7050362,36.8886299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayan Ağa Camii

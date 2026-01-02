@@ -1,18 +1,17 @@
 ---
-title: "Zeytincik Camii | Miras Haritası"
-date: 2025-12-25T00:19:37+03:00
+title: "Zeytincik Camii"
+date: "2025-12-25T00:19:37+03:00"
 slug: "zeytincik-camii"
 description: "## Zeytincik Camii: Artvin'in Tarihî Bir Öğüdü..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7589747,40.9669217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeytincik Camii: Artvin'in Tarihî Bir Öğüdü

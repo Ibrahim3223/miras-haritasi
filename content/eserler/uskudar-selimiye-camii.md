@@ -1,18 +1,17 @@
 ---
-title: "Üsküdar Selimiye Camii | Miras Haritası"
-date: 2025-12-24T21:56:48+03:00
+title: "Üsküdar Selimiye Camii"
+date: "2025-12-24T21:56:48+03:00"
 slug: "uskudar-selimiye-camii"
 description: "## Üsküdar Selimiye Camii: İstanbul'un Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Selim_III_Mosque_DSCF4428.jpg/1200px-Selim_III_Mosque_DSCF4428.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0166,41.0097"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Üsküdar Selimiye Camii: İstanbul'un Güzelliği

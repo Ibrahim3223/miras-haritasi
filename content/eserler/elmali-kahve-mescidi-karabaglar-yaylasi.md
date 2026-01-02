@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Kahve Mescidi, Karabağlar Yaylası | Miras Haritası"
-date: 2025-12-25T00:50:50+03:00
+title: "Elmalı Kahve Mescidi, Karabağlar Yaylası"
+date: "2025-12-25T00:50:50+03:00"
 slug: "elmali-kahve-mescidi-karabaglar-yaylasi"
 description: "## Elmalı Kahve Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3985004,37.1771011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elmalı Kahve Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti

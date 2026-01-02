@@ -1,18 +1,17 @@
 ---
-title: "Kazdağlı Camii | Miras Haritası"
-date: 2025-12-24T21:51:25+03:00
+title: "Kazdağlı Camii"
+date: "2025-12-24T21:51:25+03:00"
 slug: "kazdagli-camii"
 description: "## Kazdağlı Camii: Safranbolu'nun Değerli Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Safranbolu_Kazdağlı_Camii_in_2006_8244.jpg/1200px-Safranbolu_Kazdağlı_Camii_in_2006_8244.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.692773,41.245536"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kazdağlı Camii: Safranbolu'nun Değerli Kültürel Mirası

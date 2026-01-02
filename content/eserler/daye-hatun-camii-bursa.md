@@ -1,18 +1,17 @@
 ---
-title: "Daye Hatun Camii, Bursa | Miras Haritası"
-date: 2025-12-25T00:30:18+03:00
+title: "Daye Hatun Camii, Bursa"
+date: "2025-12-25T00:30:18+03:00"
 slug: "daye-hatun-camii-bursa"
 description: "### Daye Hatun Camii, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0660419,40.1885414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Daye Hatun Camii, Bursa

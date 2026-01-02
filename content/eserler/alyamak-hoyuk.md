@@ -1,18 +1,17 @@
 ---
-title: "Alyamak Höyük | Miras Haritası"
-date: 2025-12-25T05:28:11+03:00
+title: "Alyamak Höyük"
+date: "2025-12-25T05:28:11+03:00"
 slug: "alyamak-hoyuk"
 description: "## Alyamak Höyük: Eskişehir'in Gizli Hazineleri..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.593167,39.81855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alyamak Höyük: Eskişehir'in Gizli Hazineleri

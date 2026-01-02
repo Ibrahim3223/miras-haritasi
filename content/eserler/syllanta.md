@@ -1,18 +1,17 @@
 ---
-title: "Syllanta | Miras Haritası"
-date: 2025-12-25T05:12:54+03:00
+title: "Syllanta"
+date: "2025-12-25T05:12:54+03:00"
 slug: "syllanta"
 description: "## Syllanta Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.321874,40.317895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Syllanta Arkeolojik Sit

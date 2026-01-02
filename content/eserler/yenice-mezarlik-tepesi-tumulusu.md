@@ -1,18 +1,17 @@
 ---
-title: "Yenice Mezarlık Tepesi Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:57:29+03:00
+title: "Yenice Mezarlık Tepesi Tümülüsü"
+date: "2025-12-25T07:57:29+03:00"
 slug: "yenice-mezarlik-tepesi-tumulusu"
 description: "## Yenice Mezarlık Tepesi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6374836,41.7316017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenice Mezarlık Tepesi Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Gümüşkesen Anıtı | Miras Haritası"
-date: 2025-12-25T14:09:36+03:00
+title: "Gümüşkesen Anıtı"
+date: "2025-12-25T14:09:36+03:00"
 slug: "gumuskesen-aniti"
 description: "### Gümüşkesen Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7720356,37.3178101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşkesen Anıtı

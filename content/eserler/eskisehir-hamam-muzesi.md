@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Hamam Müzesi | Miras Haritası"
-date: 2025-12-25T17:02:23+03:00
+title: "Eskişehir Hamam Müzesi"
+date: "2025-12-25T17:02:23+03:00"
 slug: "eskisehir-hamam-muzesi"
 description: "## Eskişehir Hamam Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Eskişehir_Hamamı_Müzesi.jpg/1200px-Eskişehir_Hamamı_Müzesi.jpg"
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5216446,39.7644997"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eskişehir Hamam Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Muhterem Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:44+03:00
+title: "Muhterem Hatun Türbesi"
+date: "2025-12-25T15:27:44+03:00"
 slug: "muhterem-hatun-turbesi"
 description: "### Muhterem Hatun Türbesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1707916,39.1431618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muhterem Hatun Türbesi

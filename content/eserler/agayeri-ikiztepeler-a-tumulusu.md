@@ -1,18 +1,17 @@
 ---
-title: "Ağayeri İkiztepeler A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:39:27+03:00
+title: "Ağayeri İkiztepeler A Tümülüsü"
+date: "2025-12-25T07:39:27+03:00"
 slug: "agayeri-ikiztepeler-a-tumulusu"
 description: "## Ağayeri İkiztepeler A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9298286,41.4250221"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağayeri İkiztepeler A Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Çağlan Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:31:31+03:00
+title: "Çağlan Köyü Camii"
+date: "2025-12-24T22:31:31+03:00"
 slug: "caglan-koyu-camii"
 description: "### Çağlan Köyü Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.013184,39.132389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çağlan Köyü Camii: İzmir'in Gizli Cenneti

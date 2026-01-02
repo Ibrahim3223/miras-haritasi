@@ -1,18 +1,17 @@
 ---
-title: "Kızılbey Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:35:05+03:00
+title: "Kızılbey Çeşmesi"
+date: "2025-12-25T12:35:05+03:00"
 slug: "kizilbey-cesmesi"
 description: "### Kızılbey Çeşmesi Nedir?..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.853902272,39.93988227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızılbey Çeşmesi Nedir?

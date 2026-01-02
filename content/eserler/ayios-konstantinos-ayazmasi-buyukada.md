@@ -1,18 +1,17 @@
 ---
-title: "Ayios Konstantinos Ayazması, Büyükada | Miras Haritası"
-date: 2025-12-25T12:41:19+03:00
+title: "Ayios Konstantinos Ayazması, Büyükada"
+date: "2025-12-25T12:41:19+03:00"
 slug: "ayios-konstantinos-ayazmasi-buyukada"
 description: "### Ayios Konstantinos Ayazması: Büyükada'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1130104,40.8614197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Konstantinos Ayazması: Büyükada'nın Gizli Çeşmesi

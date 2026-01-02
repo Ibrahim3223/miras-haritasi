@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:43:49+03:00
+title: "İbrahim Paşa Çeşmesi"
+date: "2025-12-25T10:43:49+03:00"
 slug: "ibrahim-pasa-cesmesi"
 description: "## İbrahim Paşa Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4337902,40.79842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Paşa Çeşmesi

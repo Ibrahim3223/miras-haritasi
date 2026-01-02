@@ -1,18 +1,17 @@
 ---
-title: "Aznavurtepe | Miras Haritası"
-date: 2025-12-25T05:59:35+03:00
+title: "Aznavurtepe"
+date: "2025-12-25T05:59:35+03:00"
 slug: "aznavurtepe"
 description: "## Aznavurtepe: Ağrı'nın Gizli Güzeli..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Patnos"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "42.834333,39.249627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aznavurtepe: Ağrı'nın Gizli Güzeli

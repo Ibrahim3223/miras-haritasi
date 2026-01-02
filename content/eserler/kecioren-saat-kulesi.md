@@ -1,18 +1,17 @@
 ---
-title: "Keçiören Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:22:53+03:00
+title: "Keçiören Saat Kulesi"
+date: "2025-12-25T17:22:53+03:00"
 slug: "kecioren-saat-kulesi"
 description: "### Keçiören Saat Kulesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "32.856388888,39.99975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Keçiören Saat Kulesi

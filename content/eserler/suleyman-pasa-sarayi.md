@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Paşa Sarayı | Miras Haritası"
-date: 2025-12-25T13:14:34+03:00
+title: "Süleyman Paşa Sarayı"
+date: "2025-12-25T13:14:34+03:00"
 slug: "suleyman-pasa-sarayi"
 description: "## Süleyman Paşa Sarayı..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Ünye"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "37.285861111,41.131833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Paşa Sarayı

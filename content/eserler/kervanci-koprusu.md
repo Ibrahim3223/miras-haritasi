@@ -1,18 +1,17 @@
 ---
-title: "Kervancı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:50:19+03:00
+title: "Kervancı Köprüsü"
+date: "2025-12-25T02:50:19+03:00"
 slug: "kervanci-koprusu"
 description: "## Kervancı Köprüsü: Ankara'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.918718592,40.261270756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kervancı Köprüsü: Ankara'nın Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ali Camii | Miras Haritası"
-date: 2025-12-24T23:11:02+03:00
+title: "Şeyh Ali Camii"
+date: "2025-12-24T23:11:02+03:00"
 slug: "seyh-ali-camii"
 description: "### Şeyh Ali Camii: Hatay'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Antakya_Shey_Ali_Mosque_in_2008_03.jpg/1200px-Antakya_Shey_Ali_Mosque_in_2008_03.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1675606,36.202095"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Şeyh Ali Camii: Hatay'ın Tarihi ve Kültürel Mirası

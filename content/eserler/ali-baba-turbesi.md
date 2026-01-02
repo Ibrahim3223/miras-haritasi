@@ -1,18 +1,17 @@
 ---
-title: "Ali Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:29+03:00
+title: "Ali Baba Türbesi"
+date: "2025-12-25T14:16:29+03:00"
 slug: "ali-baba-turbesi"
 description: "**Ali Baba Türbesi**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.3633,38.4091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ali Baba Türbesi**

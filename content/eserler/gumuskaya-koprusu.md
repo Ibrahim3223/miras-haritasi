@@ -1,18 +1,17 @@
 ---
-title: "Gümüşkaya Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:03+03:00
+title: "Gümüşkaya Köprüsü"
+date: "2025-12-25T02:31:03+03:00"
 slug: "gumuskaya-koprusu"
 description: "# Gümüşkaya Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.36137,40.45958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gümüşkaya Köprüsü: Tarihi ve Kültürel Bir Miras

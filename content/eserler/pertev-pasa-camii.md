@@ -1,18 +1,17 @@
 ---
-title: "Pertev Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:53:44+03:00
+title: "Pertev Paşa Camii"
+date: "2025-12-24T21:53:44+03:00"
 slug: "pertev-pasa-camii"
 description: "## Pertev Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pertev_Paşa_Cami.jpg/1200px-Pertev_Paşa_Cami.jpg"
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.931,40.7628"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pertev Paşa Camii

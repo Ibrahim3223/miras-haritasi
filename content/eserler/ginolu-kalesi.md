@@ -1,18 +1,17 @@
 ---
-title: "Ginolu Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:43+03:00
+title: "Ginolu Kalesi"
+date: "2025-12-25T01:37:43+03:00"
 slug: "ginolu-kalesi"
 description: "## Ginolu Kalesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Çatalzeytin"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.165592,41.965573"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ginolu Kalesi

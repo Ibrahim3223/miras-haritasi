@@ -1,18 +1,17 @@
 ---
-title: "Kemal Samancıoğlu Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:15+03:00
+title: "Kemal Samancıoğlu Etnografya Müzesi"
+date: "2025-12-25T03:49:15+03:00"
 slug: "kemal-samancioglu-etnografya-muzesi"
 description: "### Kemal Samancıoğlu Etnografya Müzesi..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Bartın"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.343172,41.633488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kemal Samancıoğlu Etnografya Müzesi

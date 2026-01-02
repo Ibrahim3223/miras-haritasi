@@ -1,18 +1,17 @@
 ---
-title: "Alemdar Ahmet Baba Türbesi | Miras Haritası"
-date: 2025-12-25T13:34:59+03:00
+title: "Alemdar Ahmet Baba Türbesi"
+date: "2025-12-25T13:34:59+03:00"
 slug: "alemdar-ahmet-baba-turbesi"
 description: "# Alemdar Ahmet Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Alemdar_Ahmet_Baba_Türbesi.jpg/1200px-Alemdar_Ahmet_Baba_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0159,41.023227"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Alemdar Ahmet Baba Türbesi

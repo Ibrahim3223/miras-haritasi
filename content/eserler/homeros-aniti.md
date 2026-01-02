@@ -1,18 +1,17 @@
 ---
-title: "Homeros Anıtı | Miras Haritası"
-date: 2025-12-25T15:53:36+03:00
+title: "Homeros Anıtı"
+date: "2025-12-25T15:53:36+03:00"
 slug: "homeros-aniti"
 description: "## Homeros Anıtı: İzmir'in Şeref Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Iliad_and_Odyssey_monument_5.jpg/1200px-Iliad_and_Odyssey_monument_5.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.171055555,38.446388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Homeros Anıtı: İzmir'in Şeref Anıtı

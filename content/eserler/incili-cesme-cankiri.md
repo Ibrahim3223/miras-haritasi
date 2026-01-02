@@ -1,18 +1,17 @@
 ---
-title: "İncili Çeşme, Çankırı | Miras Haritası"
-date: 2025-12-25T12:30:32+03:00
+title: "İncili Çeşme, Çankırı"
+date: "2025-12-25T12:30:32+03:00"
 slug: "incili-cesme-cankiri"
 description: "## İncili Çeşme, Çankırı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.619564667,40.601534541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncili Çeşme, Çankırı

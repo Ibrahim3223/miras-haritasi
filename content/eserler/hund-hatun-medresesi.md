@@ -1,18 +1,17 @@
 ---
-title: "Hundî Hatun Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:26+03:00
+title: "Hundî Hatun Medresesi"
+date: "2025-12-25T17:41:26+03:00"
 slug: "hund-hatun-medresesi"
 description: "## Hundî Hatun Medresesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0624542,40.1839371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hundî Hatun Medresesi

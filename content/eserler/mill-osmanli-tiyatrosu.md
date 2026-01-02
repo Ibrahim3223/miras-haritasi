@@ -1,18 +1,17 @@
 ---
-title: "Millî Osmanlı Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:16:27+03:00
+title: "Millî Osmanlı Tiyatrosu"
+date: "2025-12-25T16:16:27+03:00"
 slug: "mill-osmanli-tiyatrosu"
 description: "## Millî Osmanlı Tiyatrosu..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Millî Osmanlı Tiyatrosu

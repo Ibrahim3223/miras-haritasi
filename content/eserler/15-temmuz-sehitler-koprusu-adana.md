@@ -1,18 +1,17 @@
 ---
-title: "15 Temmuz Şehitler Köprüsü (Adana) | Miras Haritası"
-date: 2025-12-25T01:56:31+03:00
+title: "15 Temmuz Şehitler Köprüsü (Adana)"
+date: "2025-12-25T01:56:31+03:00"
 slug: "15-temmuz-sehitler-koprusu-adana"
 description: "### 15 Temmuz Şehitler Köprüsü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.33611111,37.03138889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### 15 Temmuz Şehitler Köprüsü

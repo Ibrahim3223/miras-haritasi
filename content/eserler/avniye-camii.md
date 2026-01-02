@@ -1,18 +1,17 @@
 ---
-title: "Avniye Camii | Miras Haritası"
-date: 2025-12-24T22:14:46+03:00
+title: "Avniye Camii"
+date: "2025-12-24T22:14:46+03:00"
 slug: "avniye-camii"
 description: "**Avniye Camii: Mersin'in Tarihi ve Kültürel Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6216469,36.7934494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Avniye Camii: Mersin'in Tarihi ve Kültürel Mirası**

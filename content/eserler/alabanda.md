@@ -1,18 +1,17 @@
 ---
-title: "Alabanda | Miras Haritası"
-date: 2025-12-25T06:50:45+03:00
+title: "Alabanda"
+date: "2025-12-25T06:50:45+03:00"
 slug: "alabanda"
 description: "## Alabanda: Aydın'da Bir Arkeolojik Şatırın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Alabanda_Bouleuterion.JPG/1200px-Alabanda_Bouleuterion.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.985429,37.591796"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alabanda: Aydın'da Bir Arkeolojik Şatırın Gizemi

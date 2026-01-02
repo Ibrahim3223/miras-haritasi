@@ -1,18 +1,17 @@
 ---
-title: "Haraçcı Muhiddin Camii | Miras Haritası"
-date: 2025-12-24T22:55:09+03:00
+title: "Haraçcı Muhiddin Camii"
+date: "2025-12-24T22:55:09+03:00"
 slug: "haracci-muhiddin-camii"
 description: "## Haraççı Muhiddin Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.952617,41.020941"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haraççı Muhiddin Camii

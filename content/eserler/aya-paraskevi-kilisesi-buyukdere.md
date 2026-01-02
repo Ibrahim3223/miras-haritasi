@@ -1,18 +1,17 @@
 ---
-title: "Aya Paraskevi Kilisesi (Büyükdere) | Miras Haritası"
-date: 2025-12-25T08:57:57+03:00
+title: "Aya Paraskevi Kilisesi (Büyükdere)"
+date: "2025-12-25T08:57:57+03:00"
 slug: "aya-paraskevi-kilisesi-buyukdere"
 description: "## Aya Paraskevi Kilisesi (Büyükdere)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.045444444,41.161888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Paraskevi Kilisesi (Büyükdere)

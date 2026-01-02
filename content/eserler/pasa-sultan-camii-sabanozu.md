@@ -1,18 +1,17 @@
 ---
-title: "Paşa Sultan Camii, Şabanözü | Miras Haritası"
-date: 2025-12-25T00:31:04+03:00
+title: "Paşa Sultan Camii, Şabanözü"
+date: "2025-12-25T00:31:04+03:00"
 slug: "pasa-sultan-camii-sabanozu"
 description: "## Paşa Sultan Camii, Şabanözü..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Şabanözü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2841225,40.4821091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Sultan Camii, Şabanözü

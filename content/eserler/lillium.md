@@ -1,18 +1,17 @@
 ---
-title: "Lillium | Miras Haritası"
-date: 2025-12-25T05:01:35+03:00
+title: "Lillium"
+date: "2025-12-25T05:01:35+03:00"
 slug: "lillium"
 description: "## Lillium: Akçakoca'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.2148,41.096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lillium: Akçakoca'nın Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Stektorium | Miras Haritası"
-date: 2025-12-25T05:22:33+03:00
+title: "Stektorium"
+date: "2025-12-25T05:22:33+03:00"
 slug: "stektorium"
 description: "## Stektorium: Antik Dönemin Gizemli Katedrali..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.14376,38.33261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Stektorium: Antik Dönemin Gizemli Katedrali

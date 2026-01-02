@@ -1,18 +1,17 @@
 ---
-title: "Aydınoğlu Süleyman Şah Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:56+03:00
+title: "Aydınoğlu Süleyman Şah Türbesi"
+date: "2025-12-25T15:10:56+03:00"
 slug: "aydinoglu-suleyman-sah-turbesi"
 description: "### Aydınoğlu Süleyman Şah Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.731526,38.0862627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aydınoğlu Süleyman Şah Türbesi

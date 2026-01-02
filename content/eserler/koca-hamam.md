@@ -1,18 +1,17 @@
 ---
-title: "Koca Hamam | Miras Haritası"
-date: 2025-12-25T16:32:30+03:00
+title: "Koca Hamam"
+date: "2025-12-25T16:32:30+03:00"
 slug: "koca-hamam"
 description: "**Koca Hamam: Turgutlu'nun Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.7105087,38.5014907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Koca Hamam: Turgutlu'nun Tarihi Bir Mirası**

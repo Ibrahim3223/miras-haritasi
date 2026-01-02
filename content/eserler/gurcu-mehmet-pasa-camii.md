@@ -1,18 +1,17 @@
 ---
-title: "Gürcü Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:26:01+03:00
+title: "Gürcü Mehmet Paşa Camii"
+date: "2025-12-24T23:26:01+03:00"
 slug: "gurcu-mehmet-pasa-camii"
 description: "## Gürcü Mehmet Paşa Camii: Erzurum'un Gizli Çehresini Keşfetmek..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2790031,39.9045219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gürcü Mehmet Paşa Camii: Erzurum'un Gizli Çehresini Keşfetmek

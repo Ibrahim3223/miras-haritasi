@@ -1,18 +1,17 @@
 ---
-title: "Demirboğa Kale I Höyüğü | Miras Haritası"
-date: 2025-12-25T06:19:47+03:00
+title: "Demirboğa Kale I Höyüğü"
+date: "2025-12-25T06:19:47+03:00"
 slug: "demirboga-kale-i-hoyugu"
 description: "## Demirboğa Kale I Höyüğü..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Şarkışla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.4839649,39.1139627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirboğa Kale I Höyüğü

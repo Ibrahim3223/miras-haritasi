@@ -1,18 +1,17 @@
 ---
-title: "Göveren Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:44+03:00
+title: "Göveren Türbesi"
+date: "2025-12-25T14:16:44+03:00"
 slug: "goveren-turbesi"
 description: "## Göveren Türbesi: Safranbolu'nun Birincil Anıtı..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.692586,41.350523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göveren Türbesi: Safranbolu'nun Birincil Anıtı

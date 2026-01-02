@@ -1,18 +1,17 @@
 ---
-title: "Malene | Miras Haritası"
-date: 2025-12-25T04:34:36+03:00
+title: "Malene"
+date: "2025-12-25T04:34:36+03:00"
 slug: "malene"
 description: "# Malene Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.804206,39.200303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Malene Arkeolojik Sit

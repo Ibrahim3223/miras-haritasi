@@ -1,18 +1,17 @@
 ---
-title: "Siyavuş Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:12+03:00
+title: "Siyavuş Paşa Türbesi"
+date: "2025-12-25T14:35:12+03:00"
 slug: "siyavus-pasa-turbesi"
 description: "### Siyavuş Paşa Türbesi: Eyüpsultan'da Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.934361,41.047505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Siyavuş Paşa Türbesi: Eyüpsultan'da Bir Anıtın Öyküsü

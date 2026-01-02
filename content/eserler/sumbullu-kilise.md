@@ -1,18 +1,17 @@
 ---
-title: "Sümbüllü Kilise | Miras Haritası"
-date: 2025-12-25T08:43:28+03:00
+title: "Sümbüllü Kilise"
+date: "2025-12-25T08:43:28+03:00"
 slug: "sumbullu-kilise"
 description: "## Sümbüllü Kilise: Tarihi ve Mimarisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sümbüllü_Kilise_Ihlara_Valley_2008_(cropped).jpg/1200px-Sümbüllü_Kilise_Ihlara_Valley_2008_(cropped).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.3029988,38.2541495"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sümbüllü Kilise: Tarihi ve Mimarisi

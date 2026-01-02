@@ -1,18 +1,17 @@
 ---
-title: "Kenan Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:03:56+03:00
+title: "Kenan Paşa Sebili"
+date: "2025-12-25T13:03:56+03:00"
 slug: "kenan-pasa-sebili"
 description: "**Kenan Paşa Sebili**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9736996,41.0224533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kenan Paşa Sebili**

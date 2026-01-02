@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Eskigediz | Miras Haritası"
-date: 2025-12-25T02:57:56+03:00
+title: "Roma Köprüsü, Eskigediz"
+date: "2025-12-25T02:57:56+03:00"
 slug: "roma-koprusu-eskigediz"
 description: "## Roma Köprüsü, Eskigediz..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Gediz"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.4139768,39.0387672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Eskigediz

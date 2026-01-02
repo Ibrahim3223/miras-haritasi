@@ -1,18 +1,17 @@
 ---
-title: "Taştekneler Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:08+03:00
+title: "Taştekneler Çeşmesi"
+date: "2025-12-25T11:05:08+03:00"
 slug: "tastekneler-cesmesi"
 description: "## Taştekneler Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.943581,41.00903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taştekneler Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Aziz Gregory Abughamrents Kilisesi | Miras Haritası"
-date: 2025-12-25T08:40:26+03:00
+title: "Aziz Gregory Abughamrents Kilisesi"
+date: "2025-12-25T08:40:26+03:00"
 slug: "aziz-gregory-abughamrents-kilisesi"
 description: "## Aziz Gregory Abughamrents Kilisesi: Ani'deki Bir Hazine..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ani2.jpg/1200px-Ani2.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.569,40.5074"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Gregory Abughamrents Kilisesi: Ani'deki Bir Hazine

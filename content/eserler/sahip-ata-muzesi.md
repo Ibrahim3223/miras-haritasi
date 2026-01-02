@@ -1,18 +1,17 @@
 ---
-title: "Sahip Ata Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:14+03:00
+title: "Sahip Ata Müzesi"
+date: "2025-12-25T03:24:14+03:00"
 slug: "sahip-ata-muzesi"
 description: "## Sahip Ata Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Konya_Sahip_Ata_Vakıflar_Eserleri_Müzesi_exterior_3601.jpg/1200px-Konya_Sahip_Ata_Vakıflar_Eserleri_Müzesi_exterior_3601.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.49444444,37.8675"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sahip Ata Müzesi

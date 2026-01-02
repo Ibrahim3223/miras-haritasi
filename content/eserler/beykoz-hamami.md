@@ -1,18 +1,17 @@
 ---
-title: "Beykoz Hamamı | Miras Haritası"
-date: 2025-12-25T16:24:13+03:00
+title: "Beykoz Hamamı"
+date: "2025-12-25T16:24:13+03:00"
 slug: "beykoz-hamami"
 description: "# Beykoz Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beykoz_Hamamı.jpg/1200px-Beykoz_Hamamı.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.092119,41.134654"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Beykoz Hamamı

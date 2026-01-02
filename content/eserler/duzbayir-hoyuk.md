@@ -1,18 +1,17 @@
 ---
-title: "Düzbayır Höyük | Miras Haritası"
-date: 2025-12-25T13:45:14+03:00
+title: "Düzbayır Höyük"
+date: "2025-12-25T13:45:14+03:00"
 slug: "duzbayir-hoyuk"
 description: "## Düzbayır Höyük: Nizip'in Gizli Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Nizip"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.7348307,36.8361327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düzbayır Höyük: Nizip'in Gizli Anıtı

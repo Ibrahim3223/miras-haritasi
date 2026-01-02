@@ -1,18 +1,17 @@
 ---
-title: "Gülhane Parkı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:33+03:00
+title: "Gülhane Parkı Çeşmesi"
+date: "2025-12-25T11:15:33+03:00"
 slug: "gulhane-parki-cesmesi"
 description: "## Gülhane Parkı Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.982052,41.013519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülhane Parkı Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Havalimanı Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:33+03:00
+title: "İstanbul Havalimanı Müzesi"
+date: "2025-12-25T03:35:33+03:00"
 slug: "istanbul-havalimani-muzesi"
 description: "**İstanbul Havalimanı Müzesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İstanbul Havalimanı Müzesi**

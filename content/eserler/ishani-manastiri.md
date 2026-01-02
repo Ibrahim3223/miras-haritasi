@@ -1,18 +1,17 @@
 ---
-title: "İşhani Manastırı | Miras Haritası"
-date: 2025-12-25T09:48:35+03:00
+title: "İşhani Manastırı"
+date: "2025-12-25T09:48:35+03:00"
 slug: "ishani-manastiri"
 description: "### İşhani Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ishxani1.jpg/1200px-Ishxani1.jpg"
 province: "Yusufeli"
-iller: ["Yusufeli"]
+iller: '["Yusufeli"]'
 district: "İşhan"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.74698,40.78565"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İşhani Manastırı

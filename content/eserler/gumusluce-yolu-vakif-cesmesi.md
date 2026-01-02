@@ -1,18 +1,17 @@
 ---
-title: "Gümüşlüce Yolu Vakıf Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:47:52+03:00
+title: "Gümüşlüce Yolu Vakıf Çeşmesi"
+date: "2025-12-25T10:47:52+03:00"
 slug: "gumusluce-yolu-vakif-cesmesi"
 description: "# Gümüşlüce Yolu Vakıf Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7651253,41.3741951"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gümüşlüce Yolu Vakıf Çeşmesi

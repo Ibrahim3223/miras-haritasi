@@ -1,18 +1,17 @@
 ---
-title: "Abdi Çelebi Camii | Miras Haritası"
-date: 2025-12-24T22:23:03+03:00
+title: "Abdi Çelebi Camii"
+date: "2025-12-24T22:23:03+03:00"
 slug: "abdi-celebi-camii"
 description: "## Abdi Çelebi Camii: Fatih, İstanbul'un Gizli Çehresini Bekliyor..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.932498,41.001434"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdi Çelebi Camii: Fatih, İstanbul'un Gizli Çehresini Bekliyor

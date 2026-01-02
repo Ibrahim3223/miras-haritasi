@@ -1,18 +1,17 @@
 ---
-title: "Balıkesirlizade Hüseyin Ağa Camii | Miras Haritası"
-date: 2025-12-25T00:12:44+03:00
+title: "Balıkesirlizade Hüseyin Ağa Camii"
+date: "2025-12-25T00:12:44+03:00"
 slug: "balikesirlizade-huseyin-aga-camii"
 description: "## Balıkesirlizade Hüseyin Ağa Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.2079964,39.8795547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balıkesirlizade Hüseyin Ağa Camii: Tarihi ve Kültürel Mirasımız

@@ -1,18 +1,17 @@
 ---
-title: "Hoca Ali Camii | Miras Haritası"
-date: 2025-12-24T22:20:02+03:00
+title: "Hoca Ali Camii"
+date: "2025-12-24T22:20:02+03:00"
 slug: "hoca-ali-camii"
 description: "## Hoca Ali Camii: Ayvansaray'da Gizli Bir Cennet..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hoca_Ali_Camii_-_3.jpg/1200px-Hoca_Ali_Camii_-_3.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.943173105,41.036022682"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hoca Ali Camii: Ayvansaray'da Gizli Bir Cennet

@@ -1,18 +1,17 @@
 ---
-title: "Şefika Hatun Camii | Miras Haritası"
-date: 2025-12-24T23:08:35+03:00
+title: "Şefika Hatun Camii"
+date: "2025-12-24T23:08:35+03:00"
 slug: "sefika-hatun-camii"
 description: "### Şefika Hatun Camii: Kayalıbağ'da Bir Önemli Cami..."
 featured_image: ""
 province: "Seyhan"
-iller: ["Seyhan"]
+iller: '["Seyhan"]'
 district: "Kayalıbağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.3310013,36.9870338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şefika Hatun Camii: Kayalıbağ'da Bir Önemli Cami

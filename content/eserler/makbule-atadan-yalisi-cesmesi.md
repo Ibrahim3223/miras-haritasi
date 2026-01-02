@@ -1,18 +1,17 @@
 ---
-title: "Makbule Atadan Yalısı Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:33+03:00
+title: "Makbule Atadan Yalısı Çeşmesi"
+date: "2025-12-25T13:01:33+03:00"
 slug: "makbule-atadan-yalisi-cesmesi"
 description: "## Makbule Atadan Yalısı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Makbule_Atadan_Yalısı_Çeşmesi.jpg/1200px-Makbule_Atadan_Yalısı_Çeşmesi.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Kuruçeşme"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0405197,41.0631905"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Makbule Atadan Yalısı Çeşmesi

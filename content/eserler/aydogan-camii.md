@@ -1,18 +1,17 @@
 ---
-title: "Aydoğan Camii | Miras Haritası"
-date: 2025-12-24T22:12:41+03:00
+title: "Aydoğan Camii"
+date: "2025-12-24T22:12:41+03:00"
 slug: "aydogan-camii"
 description: "## Aydoğan Camii: Sivas'taki Bir Örenlik..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0077782,39.7492599"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aydoğan Camii: Sivas'taki Bir Örenlik

@@ -1,18 +1,17 @@
 ---
-title: "Mor Aho Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:29+03:00
+title: "Mor Aho Manastırı"
+date: "2025-12-25T09:53:29+03:00"
 slug: "mor-aho-manastiri"
 description: "### Mor Aho Manastırı: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Hasankeyf"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.4673119,37.7040138"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mor Aho Manastırı: Türkiye'nin Tarihi ve Kültürel Mirası

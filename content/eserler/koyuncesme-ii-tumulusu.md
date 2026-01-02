@@ -1,18 +1,17 @@
 ---
-title: "Koyunçeşme II Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:16:38+03:00
+title: "Koyunçeşme II Tümülüsü"
+date: "2025-12-25T08:16:38+03:00"
 slug: "koyuncesme-ii-tumulusu"
 description: "## Koyunçeşme II Tümülüsü: Edirne'nin Gizli Harikası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.674997316,41.853602608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koyunçeşme II Tümülüsü: Edirne'nin Gizli Harikası

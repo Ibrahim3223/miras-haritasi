@@ -1,18 +1,17 @@
 ---
-title: "Neon Teikhos Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:53+03:00
+title: "Neon Teikhos Kalesi"
+date: "2025-12-25T01:36:53+03:00"
 slug: "neon-teikhos-kalesi"
 description: "### Menemen'in Gizli Kahramanı: Neon Teikhos Kalesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menemen"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.0916595,38.6594696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Menemen'in Gizli Kahramanı: Neon Teikhos Kalesi

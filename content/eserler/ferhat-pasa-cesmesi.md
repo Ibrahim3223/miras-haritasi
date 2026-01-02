@@ -1,18 +1,17 @@
 ---
-title: "Ferhat Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:36+03:00
+title: "Ferhat Paşa Çeşmesi"
+date: "2025-12-25T11:17:36+03:00"
 slug: "ferhat-pasa-cesmesi"
 description: "## Ferhat Paşa Çeşmesi: Tarihi ve Kültürel Mirasın Değerli Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ferhat_Paşa_Çeşmesi_IMG_1547.jpg/1200px-Ferhat_Paşa_Çeşmesi_IMG_1547.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.460008,41.140589"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ferhat Paşa Çeşmesi: Tarihi ve Kültürel Mirasın Değerli Bir Parçası

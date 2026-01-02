@@ -1,18 +1,17 @@
 ---
-title: "Sultan III. Mustafa Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T10:07:07+03:00
+title: "Sultan III. Mustafa Çeşmesi, Üsküdar"
+date: "2025-12-25T10:07:07+03:00"
 slug: "sultan-iii-mustafa-cesmesi-uskudar"
 description: "## Sultan III. Mustafa Çeşmesi, Üsküdar..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/III._Mustafa_Fountain,_Üsküdar,_İstanbul_2024.jpg/1200px-III._Mustafa_Fountain,_Üsküdar,_İstanbul_2024.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.009090385,41.024623044"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sultan III. Mustafa Çeşmesi, Üsküdar

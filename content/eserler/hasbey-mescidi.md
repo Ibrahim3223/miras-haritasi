@@ -1,18 +1,17 @@
 ---
-title: "Hasbey Mescidi | Miras Haritası"
-date: 2025-12-24T23:30:38+03:00
+title: "Hasbey Mescidi"
+date: "2025-12-24T23:30:38+03:00"
 slug: "hasbey-mescidi"
 description: "## Hasbey Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4203491,37.8525124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasbey Mescidi

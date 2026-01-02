@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Kemalpaşa | Miras Haritası"
-date: 2025-12-25T00:05:16+03:00
+title: "Çarşı Camii, Kemalpaşa"
+date: "2025-12-25T00:05:16+03:00"
 slug: "carsi-camii-kemalpasa"
 description: "## Çarşı Camii, Kemalpaşa..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4157276,38.4247398"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Kemalpaşa

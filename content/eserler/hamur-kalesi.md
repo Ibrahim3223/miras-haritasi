@@ -1,18 +1,17 @@
 ---
-title: "Hamur Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:48+03:00
+title: "Hamur Kalesi"
+date: "2025-12-25T01:36:48+03:00"
 slug: "hamur-kalesi"
 description: "# Hamur Kalesi: Ağrı'nın Gizemli Kaleleri Arasındaki Bir Yerliden biri..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Hamur"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.988193,39.6131107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamur Kalesi: Ağrı'nın Gizemli Kaleleri Arasındaki Bir Yerliden biri

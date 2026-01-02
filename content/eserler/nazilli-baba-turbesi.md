@@ -1,18 +1,17 @@
 ---
-title: "Nazilli Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:37+03:00
+title: "Nazilli Baba Türbesi"
+date: "2025-12-25T14:18:37+03:00"
 slug: "nazilli-baba-turbesi"
 description: "## Nazilli Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Pasinler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.6843,39.9788"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nazilli Baba Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Halil Türbesi | Miras Haritası"
-date: 2025-12-25T15:31:35+03:00
+title: "Şeyh Halil Türbesi"
+date: "2025-12-25T15:31:35+03:00"
 slug: "seyh-halil-turbesi"
 description: "**Şeyh Halil Türbesi: Silvan'ın Tarihi Bir Anıtı**..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.009131,38.142546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Halil Türbesi: Silvan'ın Tarihi Bir Anıtı**

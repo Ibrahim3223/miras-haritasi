@@ -1,18 +1,17 @@
 ---
-title: "Selahi Mehmet Bey Cami | Miras Haritası"
-date: 2025-12-24T22:02:06+03:00
+title: "Selahi Mehmet Bey Cami"
+date: "2025-12-24T22:02:06+03:00"
 slug: "selahi-mehmet-bey-cami"
 description: "# Selahi Mehmet Bey Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Selahi_Mehmed_Bey_Cami.jpg/1200px-Selahi_Mehmed_Bey_Cami.jpg"
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9355,41.044555555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Selahi Mehmet Bey Cami

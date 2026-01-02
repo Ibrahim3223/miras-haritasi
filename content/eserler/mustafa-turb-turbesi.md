@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Türâbî Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:15+03:00
+title: "Mustafa Türâbî Türbesi"
+date: "2025-12-25T15:25:15+03:00"
 slug: "mustafa-turb-turbesi"
 description: "## Mustafa Türâbî Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.4087906,38.3600464"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Türâbî Türbesi

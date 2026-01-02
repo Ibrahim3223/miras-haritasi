@@ -1,18 +1,17 @@
 ---
-title: "Karabiga Surlar | Miras Haritası"
-date: 2025-12-25T01:31:51+03:00
+title: "Karabiga Surlar"
+date: "2025-12-25T01:31:51+03:00"
 slug: "karabiga-surlar"
 description: "## Karabiga Surlar: Bir Tarih Öncesi Kale..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.324114,40.412303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabiga Surlar: Bir Tarih Öncesi Kale

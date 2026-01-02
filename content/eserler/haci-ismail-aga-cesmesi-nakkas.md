@@ -1,18 +1,17 @@
 ---
-title: "Hacı İsmail Ağa Çeşmesi, Nakkaş | Miras Haritası"
-date: 2025-12-25T12:22:34+03:00
+title: "Hacı İsmail Ağa Çeşmesi, Nakkaş"
+date: "2025-12-25T12:22:34+03:00"
 slug: "haci-ismail-aga-cesmesi-nakkas"
 description: "## Hacı İsmail Ağa Çeşmesi: Arnavutköy'de Bir Çeşme Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hacı_İsmail_Ağa_Çeşmesi,_Nakkaş_IMG_1473.jpg/1200px-Hacı_İsmail_Ağa_Çeşmesi,_Nakkaş_IMG_1473.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Arnavutköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.555666,41.1878204"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı İsmail Ağa Çeşmesi: Arnavutköy'de Bir Çeşme Anıtı

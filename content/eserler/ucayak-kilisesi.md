@@ -1,18 +1,17 @@
 ---
-title: "Üçayak Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:53+03:00
+title: "Üçayak Kilisesi"
+date: "2025-12-25T08:51:53+03:00"
 slug: "ucayak-kilisesi"
 description: "## Üçayak Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Üçayak_Gesamt.jpg/1200px-Üçayak_Gesamt.jpg"
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Taburoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.170780555,39.413247222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Üçayak Kilisesi

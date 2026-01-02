@@ -1,18 +1,17 @@
 ---
-title: "St. Jean Anıt Müzesi | Miras Haritası"
-date: 2025-12-25T03:42:32+03:00
+title: "St. Jean Anıt Müzesi"
+date: "2025-12-25T03:42:32+03:00"
 slug: "st-jean-anit-muzesi"
 description: "## St. Jean Anıt Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## St. Jean Anıt Müzesi

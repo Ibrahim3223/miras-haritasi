@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:55+03:00
+title: "Hamidiye Mahallesi Çeşmesi"
+date: "2025-12-25T10:27:55+03:00"
 slug: "hamidiye-mahallesi-cesmesi"
 description: "**Hamidiye Mahallesi Çeşmesi**..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8558464,39.9452667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hamidiye Mahallesi Çeşmesi**

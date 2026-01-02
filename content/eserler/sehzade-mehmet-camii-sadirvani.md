@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Mehmet Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:43+03:00
+title: "Şehzade Mehmet Camii Şadırvanı"
+date: "2025-12-25T10:02:43+03:00"
 slug: "sehzade-mehmet-camii-sadirvani"
 description: "## Şehzade Mehmet Camii Şadırvanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Şehzade_Mehmet_Camii_Şadırvanı.jpg/1200px-Şehzade_Mehmet_Camii_Şadırvanı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9568977,41.0140381"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehzade Mehmet Camii Şadırvanı

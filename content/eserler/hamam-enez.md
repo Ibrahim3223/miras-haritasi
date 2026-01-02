@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Enez | Miras Haritası"
-date: 2025-12-25T17:05:40+03:00
+title: "Hamam, Enez"
+date: "2025-12-25T17:05:40+03:00"
 slug: "hamam-enez"
 description: "## Enez Hamamı: Edirne'de Bir Örenlik..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Enez"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.0807095,40.7266541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Enez Hamamı: Edirne'de Bir Örenlik

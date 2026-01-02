@@ -1,18 +1,17 @@
 ---
-title: "Sofu Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:50+03:00
+title: "Sofu Baba Türbesi"
+date: "2025-12-25T14:31:50+03:00"
 slug: "sofu-baba-turbesi"
 description: "# Sofu Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sofu_Baba_Türbesi.jpg/1200px-Sofu_Baba_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.987494,41.033203"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Sofu Baba Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Koranza | Miras Haritası"
-date: 2025-12-25T06:16:24+03:00
+title: "Koranza"
+date: "2025-12-25T06:16:24+03:00"
 slug: "koranza"
 description: "### Koranza Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0295486,37.384552"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koranza Arkeolojik Sit

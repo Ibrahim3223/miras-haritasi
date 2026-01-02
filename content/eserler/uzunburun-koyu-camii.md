@@ -1,18 +1,17 @@
 ---
-title: "Uzunburun Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:18:32+03:00
+title: "Uzunburun Köyü Camii"
+date: "2025-12-24T23:18:32+03:00"
 slug: "uzunburun-koyu-camii"
 description: "## Uzunburun Köyü Camii: İzmir'in Ziraat ve Sanayi Mirasının Ortaklığı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.90846,39.032388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzunburun Köyü Camii: İzmir'in Ziraat ve Sanayi Mirasının Ortaklığı

@@ -1,18 +1,17 @@
 ---
-title: "Tabakhane Köprüsü Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:36:54+03:00
+title: "Tabakhane Köprüsü Çeşmesi"
+date: "2025-12-25T12:36:54+03:00"
 slug: "tabakhane-koprusu-cesmesi"
 description: "## Tabakhane Köprüsü Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.861393,39.9433403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabakhane Köprüsü Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirası

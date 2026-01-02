@@ -1,18 +1,17 @@
 ---
-title: "Kapı Ağası İbrahim Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:28+03:00
+title: "Kapı Ağası İbrahim Ağa Çeşmesi"
+date: "2025-12-25T13:01:28+03:00"
 slug: "kapi-agasi-ibrahim-aga-cesmesi"
 description: "## Kapı Ağası İbrahim Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9287834,41.0110931"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapı Ağası İbrahim Ağa Çeşmesi

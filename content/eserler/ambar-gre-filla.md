@@ -1,18 +1,17 @@
 ---
-title: "Ambar (Gre Filla) | Miras Haritası"
-date: 2025-12-25T08:26:16+03:00
+title: "Ambar (Gre Filla)"
+date: "2025-12-25T08:26:16+03:00"
 slug: "ambar-gre-filla"
 description: "## Ambar (Gre Filla)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.458096,38.263233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ambar (Gre Filla)

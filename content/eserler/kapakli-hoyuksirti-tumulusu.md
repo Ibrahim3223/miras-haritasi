@@ -1,18 +1,17 @@
 ---
-title: "Kapaklı Höyüksırtı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:50:37+03:00
+title: "Kapaklı Höyüksırtı Tümülüsü"
+date: "2025-12-25T07:50:37+03:00"
 slug: "kapakli-hoyuksirti-tumulusu"
 description: "## Kapaklı Höyüksırtı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.353138,41.8955917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapaklı Höyüksırtı Tümülüsü

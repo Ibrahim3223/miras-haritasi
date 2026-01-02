@@ -1,18 +1,17 @@
 ---
-title: "Antandros Roma Villası | Miras Haritası"
-date: 2025-12-25T16:45:11+03:00
+title: "Antandros Roma Villası"
+date: "2025-12-25T16:45:11+03:00"
 slug: "antandros-roma-villasi"
 description: "## Antandros Roma Villası: Edremit'in Gizli Çarpıntısı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.7865124,39.5716782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antandros Roma Villası: Edremit'in Gizli Çarpıntısı

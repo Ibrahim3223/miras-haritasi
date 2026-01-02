@@ -1,18 +1,17 @@
 ---
-title: "Toptaşı | Miras Haritası"
-date: 2025-12-25T15:42:34+03:00
+title: "Toptaşı"
+date: "2025-12-25T15:42:34+03:00"
 slug: "toptasi"
 description: "## Toptaşı Anıtı: Üsküdar'ın Sembolü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Toptaşı.jpg/1200px-Toptaşı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0184078,41.0198708"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Toptaşı Anıtı: Üsküdar'ın Sembolü

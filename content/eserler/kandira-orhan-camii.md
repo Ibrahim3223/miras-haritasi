@@ -1,18 +1,17 @@
 ---
-title: "Kandıra Orhan Camii | Miras Haritası"
-date: 2025-12-24T23:39:52+03:00
+title: "Kandıra Orhan Camii"
+date: "2025-12-24T23:39:52+03:00"
 slug: "kandira-orhan-camii"
 description: "## Kandıra Orhan Camii: Kocaeli'nin Büyüleyici Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.1477089,41.0705338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kandıra Orhan Camii: Kocaeli'nin Büyüleyici Camii

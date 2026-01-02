@@ -1,18 +1,17 @@
 ---
-title: "Refik Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:00+03:00
+title: "Refik Efendi Çeşmesi"
+date: "2025-12-25T11:29:00+03:00"
 slug: "refik-efendi-cesmesi"
 description: "## Refik Efendi Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0652161,40.1293221"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Refik Efendi Çeşmesi

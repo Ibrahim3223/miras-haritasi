@@ -1,18 +1,17 @@
 ---
-title: "Onobara | Miras Haritası"
-date: 2025-12-25T04:58:17+03:00
+title: "Onobara"
+date: "2025-12-25T04:58:17+03:00"
 slug: "onobara"
 description: "# Onobara Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.502799,36.794221"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Onobara Arkeolojik Sit

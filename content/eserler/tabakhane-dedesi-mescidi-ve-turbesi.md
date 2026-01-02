@@ -1,18 +1,17 @@
 ---
-title: "Tabakhane Dedesi Mescidi ve Türbesi | Miras Haritası"
-date: 2025-12-25T00:47:18+03:00
+title: "Tabakhane Dedesi Mescidi ve Türbesi"
+date: "2025-12-25T00:47:18+03:00"
 slug: "tabakhane-dedesi-mescidi-ve-turbesi"
 description: "## Tabakhane Dedesi Mescidi ve Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6156998,37.7285004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabakhane Dedesi Mescidi ve Türbesi

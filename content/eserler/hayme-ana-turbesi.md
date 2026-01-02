@@ -1,18 +1,17 @@
 ---
-title: "Hayme Ana Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:59+03:00
+title: "Hayme Ana Türbesi"
+date: "2025-12-25T15:11:59+03:00"
 slug: "hayme-ana-turbesi"
 description: "## Hayme Ana Türbesi: Domaniç'te Bir Ölümsüzün Evinde..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hayme_Ana_Türbesi_Genel_Görüntüsü_2.jpg/1200px-Hayme_Ana_Türbesi_Genel_Görüntüsü_2.jpg"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Domaniç"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.50058242,39.75006084"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hayme Ana Türbesi: Domaniç'te Bir Ölümsüzün Evinde

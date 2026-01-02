@@ -1,18 +1,17 @@
 ---
-title: "Garajistanbul | Miras Haritası"
-date: 2025-12-25T16:18:29+03:00
+title: "Garajistanbul"
+date: "2025-12-25T16:18:29+03:00"
 slug: "garajistanbul"
 description: "### Garajistanbul: İstanbul'un Gizli Antik Tiyatroyu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Garajistanbul: İstanbul'un Gizli Antik Tiyatroyu

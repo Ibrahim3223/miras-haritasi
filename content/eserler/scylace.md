@@ -1,18 +1,17 @@
 ---
-title: "Scylace | Miras Haritası"
-date: 2025-12-25T08:08:30+03:00
+title: "Scylace"
+date: "2025-12-25T08:08:30+03:00"
 slug: "scylace"
 description: "## Scylace: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.388808,40.387037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Scylace: Bursa'nın Gizli Cenneti

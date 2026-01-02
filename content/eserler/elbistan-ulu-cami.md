@@ -1,18 +1,17 @@
 ---
-title: "Elbistan Ulu Cami | Miras Haritası"
-date: 2025-12-24T22:02:51+03:00
+title: "Elbistan Ulu Cami"
+date: "2025-12-24T22:02:51+03:00"
 slug: "elbistan-ulu-cami"
 description: "## Elbistan Ulu Cami: Tarihi ve Etkileyici Mimari Özellikleri..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Elbistan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.19025,38.199472222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elbistan Ulu Cami: Tarihi ve Etkileyici Mimari Özellikleri

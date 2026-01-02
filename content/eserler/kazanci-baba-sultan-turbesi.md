@@ -1,18 +1,17 @@
 ---
-title: "Kazancı Baba Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:06+03:00
+title: "Kazancı Baba Sultan Türbesi"
+date: "2025-12-25T15:19:06+03:00"
 slug: "kazanci-baba-sultan-turbesi"
 description: "## Kazancı Baba Sultan Türbesi: Ankara'nın Gizli Mabeti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kalecik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.405505,40.097175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazancı Baba Sultan Türbesi: Ankara'nın Gizli Mabeti

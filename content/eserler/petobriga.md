@@ -1,18 +1,17 @@
 ---
-title: "Petobriga | Miras Haritası"
-date: 2025-12-25T05:09:32+03:00
+title: "Petobriga"
+date: "2025-12-25T05:09:32+03:00"
 slug: "petobriga"
 description: "## Petobriga: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.921111,40.1675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Petobriga: Tarihi ve Kültürel Mirasın Bir Parçası

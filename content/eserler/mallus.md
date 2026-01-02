@@ -1,18 +1,17 @@
 ---
-title: "Mallus | Miras Haritası"
-date: 2025-12-25T04:25:53+03:00
+title: "Mallus"
+date: "2025-12-25T04:25:53+03:00"
 slug: "mallus"
 description: "## Mallus: Geçmişin İzleri Kızıltahta..."
 featured_image: ""
 province: "Karataş"
-iller: ["Karataş"]
+iller: '["Karataş"]'
 district: "Kızıltahta"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.486763,36.757453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mallus: Geçmişin İzleri Kızıltahta

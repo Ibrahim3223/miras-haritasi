@@ -1,18 +1,17 @@
 ---
-title: "Dumanlı Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:15:18+03:00
+title: "Dumanlı Köyü Camii"
+date: "2025-12-25T00:15:18+03:00"
 slug: "dumanli-koyu-camii"
 description: "# Dumanlı Köyü Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2398987,40.6912956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dumanlı Köyü Camii

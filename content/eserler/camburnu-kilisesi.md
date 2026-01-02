@@ -1,18 +1,17 @@
 ---
-title: "Çamburnu Kilisesi | Miras Haritası"
-date: 2025-12-25T02:38:23+03:00
+title: "Çamburnu Kilisesi"
+date: "2025-12-25T02:38:23+03:00"
 slug: "camburnu-kilisesi"
 description: "## Çamburnu Kilisesi: Sürmene'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Sürmene"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.203397,40.911447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamburnu Kilisesi: Sürmene'nin Gizli Çeşmesi

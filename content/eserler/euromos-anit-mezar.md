@@ -1,18 +1,17 @@
 ---
-title: "Euromos Anıt Mezar | Miras Haritası"
-date: 2025-12-25T05:40:02+03:00
+title: "Euromos Anıt Mezar"
+date: "2025-12-25T05:40:02+03:00"
 slug: "euromos-anit-mezar"
 description: "## Euromos Anıt Mezar: Tarihî ve Kültürel Mirasın Ihtişamı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6742039,37.3728142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Euromos Anıt Mezar: Tarihî ve Kültürel Mirasın Ihtişamı

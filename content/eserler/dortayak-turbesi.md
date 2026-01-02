@@ -1,18 +1,17 @@
 ---
-title: "Dörtayak Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:27+03:00
+title: "Dörtayak Türbesi"
+date: "2025-12-25T14:24:27+03:00"
 slug: "dortayak-turbesi"
 description: "### Dörtayak Türbesi: Niğde'nin Gizli Öztürkleri..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.675721,37.973441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dörtayak Türbesi: Niğde'nin Gizli Öztürkleri

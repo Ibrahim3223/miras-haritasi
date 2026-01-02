@@ -1,18 +1,17 @@
 ---
-title: "Nuhrut Kilisesi | Miras Haritası"
-date: 2025-12-25T08:43:04+03:00
+title: "Nuhrut Kilisesi"
+date: "2025-12-25T08:43:04+03:00"
 slug: "nuhrut-kilisesi"
 description: "## Nuhrut Kilisesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Halfeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.1131387,37.2899051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nuhrut Kilisesi

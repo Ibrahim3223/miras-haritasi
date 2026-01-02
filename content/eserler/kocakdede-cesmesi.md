@@ -1,18 +1,17 @@
 ---
-title: "Koçakdede Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:53+03:00
+title: "Koçakdede Çeşmesi"
+date: "2025-12-25T10:40:53+03:00"
 slug: "kocakdede-cesmesi"
 description: "## Koçakdede Çeşmesi: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.221283,37.1776161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koçakdede Çeşmesi: Karaman'ın Tarihi ve Kültürel Mirası

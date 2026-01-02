@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami, Selendi | Miras Haritası"
-date: 2025-12-25T00:28:42+03:00
+title: "Eski Cami, Selendi"
+date: "2025-12-25T00:28:42+03:00"
 slug: "eski-cami-selendi"
 description: "## Eski Cami, Selendi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Selendi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8691959,38.7442703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Cami, Selendi

@@ -1,18 +1,17 @@
 ---
-title: "Skolopoeis | Miras Haritası"
-date: 2025-12-25T04:55:13+03:00
+title: "Skolopoeis"
+date: "2025-12-25T04:55:13+03:00"
 slug: "skolopoeis"
 description: "## Skolopoeis: Söke'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.180833,37.618611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Skolopoeis: Söke'nin Tarihî Bir Mirası

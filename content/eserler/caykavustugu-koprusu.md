@@ -1,18 +1,17 @@
 ---
-title: "Çaykavuştuğu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:28+03:00
+title: "Çaykavuştuğu Köprüsü"
+date: "2025-12-25T02:21:28+03:00"
 slug: "caykavustugu-koprusu"
 description: "## Çaykavuştuğu Köprüsü: Milas'ın Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.813015,37.3699989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaykavuştuğu Köprüsü: Milas'ın Tarihi ve Kültür Mirası

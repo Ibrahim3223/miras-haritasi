@@ -1,18 +1,17 @@
 ---
-title: "Balıbağı Höyüğü ve Nekropolü | Miras Haritası"
-date: 2025-12-25T06:03:32+03:00
+title: "Balıbağı Höyüğü ve Nekropolü"
+date: "2025-12-25T06:03:32+03:00"
 slug: "balibagi-hoyugu-ve-nekropolu"
 description: "## Balıbağı Höyüğü ve Nekropolü..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.7545052,40.5353432"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balıbağı Höyüğü ve Nekropolü

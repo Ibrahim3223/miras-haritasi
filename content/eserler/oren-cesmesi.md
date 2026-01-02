@@ -1,18 +1,17 @@
 ---
-title: "Ören Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:53+03:00
+title: "Ören Çeşmesi"
+date: "2025-12-25T10:17:53+03:00"
 slug: "oren-cesmesi"
 description: "## Ören Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Eynesil"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.148883,41.0183469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ören Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası

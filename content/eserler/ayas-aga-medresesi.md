@@ -1,18 +1,17 @@
 ---
-title: "Ayas Ağa Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:08+03:00
+title: "Ayas Ağa Medresesi"
+date: "2025-12-25T17:37:08+03:00"
 slug: "ayas-aga-medresesi"
 description: "### Ayas Ağa Medresesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.8330421,40.6588593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayas Ağa Medresesi

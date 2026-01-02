@@ -1,18 +1,17 @@
 ---
-title: "Küçükkarıştıran Kartalbayırı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:24:11+03:00
+title: "Küçükkarıştıran Kartalbayırı Tümülüsü"
+date: "2025-12-25T07:24:11+03:00"
 slug: "kucukkaristiran-kartalbayiri-tumulusu"
 description: "## Küçükkarıştıran Kartalbayırı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.551712,41.3262253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçükkarıştıran Kartalbayırı Tümülüsü

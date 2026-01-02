@@ -1,18 +1,17 @@
 ---
-title: "Miralay Ahmet Bey Camii | Miras Haritası"
-date: 2025-12-24T21:42:58+03:00
+title: "Miralay Ahmet Bey Camii"
+date: "2025-12-24T21:42:58+03:00"
 slug: "miralay-ahmet-bey-camii"
 description: "# Miralay Ahmet Bey Camii..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8930931,36.9194069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Miralay Ahmet Bey Camii

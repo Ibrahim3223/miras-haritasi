@@ -1,18 +1,17 @@
 ---
-title: "Hacettepe Üniversitesi Beytepe Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:46:14+03:00
+title: "Hacettepe Üniversitesi Beytepe Kütüphanesi"
+date: "2025-12-25T17:46:14+03:00"
 slug: "hacettepe-universitesi-beytepe-kutuphanesi"
 description: "## Hacettepe Üniversitesi Beytepe Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_Beytepe_Kütüphanesi,_2019.jpg/1200px-Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_Beytepe_Kütüphanesi,_2019.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "32.734638888,39.870833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacettepe Üniversitesi Beytepe Kütüphanesi

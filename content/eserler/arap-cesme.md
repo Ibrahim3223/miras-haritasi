@@ -1,18 +1,17 @@
 ---
-title: "Arap Çeşme | Miras Haritası"
-date: 2025-12-25T10:47:29+03:00
+title: "Arap Çeşme"
+date: "2025-12-25T10:47:29+03:00"
 slug: "arap-cesme"
 description: "### Arap Çeşme..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4399624,40.8098373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arap Çeşme

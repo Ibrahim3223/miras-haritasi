@@ -1,18 +1,17 @@
 ---
-title: "Metristepe Zafer Anıtı, Bozüyük | Miras Haritası"
-date: 2025-12-25T16:10:08+03:00
+title: "Metristepe Zafer Anıtı, Bozüyük"
+date: "2025-12-25T16:10:08+03:00"
 slug: "metristepe-zafer-aniti-bozuyuk"
 description: "## Metristepe Zafer Anıtı, Bozüyük..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1691017,39.932579"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metristepe Zafer Anıtı, Bozüyük

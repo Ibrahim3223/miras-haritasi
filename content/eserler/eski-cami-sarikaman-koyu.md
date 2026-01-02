@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami, Sarıkaman Köyü | Miras Haritası"
-date: 2025-12-25T00:31:08+03:00
+title: "Eski Cami, Sarıkaman Köyü"
+date: "2025-12-25T00:31:08+03:00"
 slug: "eski-cami-sarikaman-koyu"
 description: "### Eski Cami, Sarıkaman Köyü..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ortaköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.200058,38.7698631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Cami, Sarıkaman Köyü

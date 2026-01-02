@@ -1,18 +1,17 @@
 ---
-title: "Cüneyt Gökçer Sahnesi | Miras Haritası"
-date: 2025-12-25T16:19:02+03:00
+title: "Cüneyt Gökçer Sahnesi"
+date: "2025-12-25T16:19:02+03:00"
 slug: "cuneyt-gokcer-sahnesi"
 description: "## Cüneyt Gökçer Sahnesi: Ankara'nın Eski Tiyatro Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cüneyt Gökçer Sahnesi: Ankara'nın Eski Tiyatro Mirası

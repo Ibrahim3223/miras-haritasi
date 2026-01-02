@@ -1,18 +1,17 @@
 ---
-title: "Hıdırlık Köprüsü | Miras Haritası"
-date: 2025-12-25T02:05:59+03:00
+title: "Hıdırlık Köprüsü"
+date: "2025-12-25T02:05:59+03:00"
 slug: "hidirlik-koprusu"
 description: "**Hıdırlık Köprüsü: Tokat'ın Eski Bir Köprüsü**..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.555939,40.330528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hıdırlık Köprüsü: Tokat'ın Eski Bir Köprüsü**

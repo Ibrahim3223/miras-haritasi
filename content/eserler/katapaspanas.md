@@ -1,18 +1,17 @@
 ---
-title: "Katapaspanas | Miras Haritası"
-date: 2025-12-25T05:05:24+03:00
+title: "Katapaspanas"
+date: "2025-12-25T05:05:24+03:00"
 slug: "katapaspanas"
 description: "## Katapaspanas: Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Yenipazar"
-iller: ["Yenipazar"]
+iller: '["Yenipazar"]'
 district: "Yukarıboğaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.603109,40.238261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Katapaspanas: Arkeolojik Sitin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Hattat Şeyh Hamdullah Efendi Kabri, Üsküdar | Miras Haritası"
-date: 2025-12-25T13:25:48+03:00
+title: "Hattat Şeyh Hamdullah Efendi Kabri, Üsküdar"
+date: "2025-12-25T13:25:48+03:00"
 slug: "hattat-seyh-hamdullah-efendi-kabri-uskudar"
 description: "## Hattat Şeyh Hamdullah Efendi Kabri, Üsküdar..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hattat_Şeyh_Hamdullah_Efendi_Kabri.jpg/1200px-Hattat_Şeyh_Hamdullah_Efendi_Kabri.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0187759,41.014267"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hattat Şeyh Hamdullah Efendi Kabri, Üsküdar

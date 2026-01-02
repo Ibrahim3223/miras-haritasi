@@ -1,18 +1,17 @@
 ---
-title: "Yarımtepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:01:42+03:00
+title: "Yarımtepe Höyüğü"
+date: "2025-12-25T06:01:42+03:00"
 slug: "yarimtepe-hoyugu"
 description: "## Yarımtepe Höyüğü: Malatya'nın Gizli Kıvancı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3070526,38.4811287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarımtepe Höyüğü: Malatya'nın Gizli Kıvancı

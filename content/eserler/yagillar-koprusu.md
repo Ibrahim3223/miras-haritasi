@@ -1,18 +1,17 @@
 ---
-title: "Yağıllar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:22+03:00
+title: "Yağıllar Köprüsü"
+date: "2025-12-25T02:41:22+03:00"
 slug: "yagillar-koprusu"
 description: "# Yağıllar Köprüsü: Simav'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Simav"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.7515583,39.1646004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yağıllar Köprüsü: Simav'ın Tarihi Bir Anıtı

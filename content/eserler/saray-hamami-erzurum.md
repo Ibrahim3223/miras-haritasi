@@ -1,18 +1,17 @@
 ---
-title: "Saray Hamamı, Erzurum | Miras Haritası"
-date: 2025-12-25T17:07:44+03:00
+title: "Saray Hamamı, Erzurum"
+date: "2025-12-25T17:07:44+03:00"
 slug: "saray-hamami-erzurum"
 description: "# Saray Hamamı, Erzurum..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "41.2797089,39.9044495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Saray Hamamı, Erzurum

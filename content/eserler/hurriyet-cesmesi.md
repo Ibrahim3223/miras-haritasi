@@ -1,18 +1,17 @@
 ---
-title: "Hürriyet Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:56+03:00
+title: "Hürriyet Çeşmesi"
+date: "2025-12-25T10:23:56+03:00"
 slug: "hurriyet-cesmesi"
 description: "## Hürriyet Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9849434,39.4190598"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hürriyet Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası

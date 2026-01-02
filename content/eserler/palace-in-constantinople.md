@@ -1,18 +1,17 @@
 ---
-title: "Palace in Constantinople | Miras Haritası"
-date: 2025-12-25T13:14:38+03:00
+title: "Palace in Constantinople"
+date: "2025-12-25T13:14:38+03:00"
 slug: "palace-in-constantinople"
 description: "**Konstantinopolis Sarayı**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Konstantinopolis Sarayı**

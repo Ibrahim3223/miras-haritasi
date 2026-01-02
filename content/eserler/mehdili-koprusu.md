@@ -1,18 +1,17 @@
 ---
-title: "Mehdili Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:45+03:00
+title: "Mehdili Köprüsü"
+date: "2025-12-25T02:37:45+03:00"
 slug: "mehdili-koprusu"
 description: "# Mehdili Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.897389,41.008531"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mehdili Köprüsü

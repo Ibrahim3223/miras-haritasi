@@ -1,18 +1,17 @@
 ---
-title: "Feyzullah Efendi Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T13:11:31+03:00
+title: "Feyzullah Efendi Çeşmesi, Üsküdar"
+date: "2025-12-25T13:11:31+03:00"
 slug: "feyzullah-efendi-cesmesi-uskudar"
 description: "## Feyzullah Efendi Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0633068,41.0763245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Feyzullah Efendi Çeşmesi, Üsküdar

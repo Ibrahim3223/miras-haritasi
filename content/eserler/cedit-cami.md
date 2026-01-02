@@ -1,18 +1,17 @@
 ---
-title: "Cedit Cami | Miras Haritası"
-date: 2025-12-24T23:22:01+03:00
+title: "Cedit Cami"
+date: "2025-12-24T23:22:01+03:00"
 slug: "cedit-cami"
 description: "# Cedit Cami: Yakutiye'nin Tarihî Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2783127,39.9092445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Cedit Cami: Yakutiye'nin Tarihî Mirası

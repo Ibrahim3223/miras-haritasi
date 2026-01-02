@@ -1,18 +1,17 @@
 ---
-title: "Karamanoğlu İbrahimbey Camii | Miras Haritası"
-date: 2025-12-24T23:44:05+03:00
+title: "Karamanoğlu İbrahimbey Camii"
+date: "2025-12-24T23:44:05+03:00"
 slug: "karamanoglu-ibrahimbey-camii"
 description: "## Karamanoğlu İbrahimbey Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.6594925,37.5804138"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karamanoğlu İbrahimbey Camii

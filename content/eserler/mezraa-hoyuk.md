@@ -1,18 +1,17 @@
 ---
-title: "Mezraa Höyük | Miras Haritası"
-date: 2025-12-25T05:49:08+03:00
+title: "Mezraa Höyük"
+date: "2025-12-25T05:49:08+03:00"
 slug: "mezraa-hoyuk"
 description: "# Mezraa Höyük: Şanlıurfa'nın Gizli Öreni..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9977085,36.9704375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mezraa Höyük: Şanlıurfa'nın Gizli Öreni

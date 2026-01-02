@@ -1,18 +1,17 @@
 ---
-title: "Orçi Deresi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:28:09+03:00
+title: "Orçi Deresi Köprüsü"
+date: "2025-12-25T02:28:09+03:00"
 slug: "orci-deresi-koprusu"
 description: "### Orçi Deresi Köprüsü: Bir Geçit Köprüsü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Orçi Deresi Köprüsü: Bir Geçit Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Bursa Atatürk Anıtı | Miras Haritası"
-date: 2025-12-25T13:24:19+03:00
+title: "Bursa Atatürk Anıtı"
+date: "2025-12-25T13:24:19+03:00"
 slug: "bursa-ataturk-aniti"
 description: "## Bursa Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ATATÜRK_ANITI_-_panoramio.jpg/1200px-ATATÜRK_ANITI_-_panoramio.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.066833333,40.182611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bursa Atatürk Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Gedik Ahmet Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:09+03:00
+title: "Gedik Ahmet Paşa Medresesi"
+date: "2025-12-25T17:36:09+03:00"
 slug: "gedik-ahmet-pasa-medresesi"
 description: "### Gedik Ahmet Paşa Medresesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "30.5405598,38.7528954"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gedik Ahmet Paşa Medresesi

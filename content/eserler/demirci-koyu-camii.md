@@ -1,18 +1,17 @@
 ---
-title: "Demirci Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:33:16+03:00
+title: "Demirci Köyü Camii"
+date: "2025-12-25T00:33:16+03:00"
 slug: "demirci-koyu-camii"
 description: "## Demirci Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.218947497,40.332972829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirci Köyü Camii: Ankara'nın Gizli Cenneti

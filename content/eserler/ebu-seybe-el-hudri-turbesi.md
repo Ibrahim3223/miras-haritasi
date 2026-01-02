@@ -1,18 +1,17 @@
 ---
-title: "Ebu Şeybe El-Hudri Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:49+03:00
+title: "Ebu Şeybe El-Hudri Türbesi"
+date: "2025-12-25T15:06:49+03:00"
 slug: "ebu-seybe-el-hudri-turbesi"
 description: "## Ebu Şeybe El-Hudri Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ebu_Şeybe_El-Hudri_Türbesi_01.jpg/1200px-Ebu_Şeybe_El-Hudri_Türbesi_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9413815,41.0392647"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ebu Şeybe El-Hudri Türbesi

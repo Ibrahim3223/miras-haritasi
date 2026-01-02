@@ -1,18 +1,17 @@
 ---
-title: "Kör Hamam | Miras Haritası"
-date: 2025-12-25T17:01:15+03:00
+title: "Kör Hamam"
+date: "2025-12-25T17:01:15+03:00"
 slug: "kor-hamam"
 description: "## Kör Hamam: Sandıklı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.0509605,38.4452934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kör Hamam: Sandıklı'nın Tarihi Bir Mirası

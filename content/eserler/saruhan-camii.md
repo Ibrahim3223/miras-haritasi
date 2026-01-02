@@ -1,18 +1,17 @@
 ---
-title: "Saruhan Camii | Miras Haritası"
-date: 2025-12-24T22:42:37+03:00
+title: "Saruhan Camii"
+date: "2025-12-24T22:42:37+03:00"
 slug: "saruhan-camii"
 description: "## Saruhan Camii: Denizli'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9814281,37.7979355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saruhan Camii: Denizli'nin Tarihi Bir Mirası

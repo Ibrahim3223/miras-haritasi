@@ -1,18 +1,17 @@
 ---
-title: "Üzüm Pazarı Camii | Miras Haritası"
-date: 2025-12-24T23:18:40+03:00
+title: "Üzüm Pazarı Camii"
+date: "2025-12-24T23:18:40+03:00"
 slug: "uzum-pazari-camii"
 description: "## Üzüm Pazarı Camii..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Simav"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9779854,39.0871315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üzüm Pazarı Camii

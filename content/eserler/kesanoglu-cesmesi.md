@@ -1,18 +1,17 @@
 ---
-title: "Keşanoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:58:15+03:00
+title: "Keşanoğlu Çeşmesi"
+date: "2025-12-25T12:58:15+03:00"
 slug: "kesanoglu-cesmesi"
 description: "### Keşanoğlu Çeşmesi: Gelibolu'nun Tarihi ve Kültürel Değerlerini Takip Eden Bir Çeşme..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.884285,40.6663628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Keşanoğlu Çeşmesi: Gelibolu'nun Tarihi ve Kültürel Değerlerini Takip Eden Bir Çeşme

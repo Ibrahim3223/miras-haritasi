@@ -1,18 +1,17 @@
 ---
-title: "Gavurviran Höyüğü | Miras Haritası"
-date: 2025-12-25T06:30:45+03:00
+title: "Gavurviran Höyüğü"
+date: "2025-12-25T06:30:45+03:00"
 slug: "gavurviran-hoyugu"
 description: "## Gavurviran Höyüğü: Elbistan'ın Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Halep Vilayeti"
-iller: ["Halep Vilayeti"]
+iller: '["Halep Vilayeti"]'
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.3798895,38.2784328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gavurviran Höyüğü: Elbistan'ın Gizemli Arkeolojik Mirası

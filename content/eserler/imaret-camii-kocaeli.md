@@ -1,18 +1,17 @@
 ---
-title: "İmaret Camii, Kocaeli | Miras Haritası"
-date: 2025-12-24T23:58:39+03:00
+title: "İmaret Camii, Kocaeli"
+date: "2025-12-24T23:58:39+03:00"
 slug: "imaret-camii-kocaeli"
 description: "## İmaret Camii: İzmit'te Bir Tarihi Miras..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9217682,40.7636757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmaret Camii: İzmit'te Bir Tarihi Miras

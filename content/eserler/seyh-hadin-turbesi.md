@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hadin Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:41+03:00
+title: "Şeyh Hadin Türbesi"
+date: "2025-12-25T14:57:41+03:00"
 slug: "seyh-hadin-turbesi"
 description: "### Şeyh Hadin Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2416763,37.9129524"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Hadin Türbesi

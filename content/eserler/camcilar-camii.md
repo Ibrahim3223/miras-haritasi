@@ -1,18 +1,17 @@
 ---
-title: "Camcılar Camii | Miras Haritası"
-date: 2025-12-24T22:49:48+03:00
+title: "Camcılar Camii"
+date: "2025-12-24T22:49:48+03:00"
 slug: "camcilar-camii"
 description: "# Camcılar Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.951197,41.009995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Camcılar Camii

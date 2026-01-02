@@ -1,18 +1,17 @@
 ---
-title: "Atabey Gazi Çeşmesi 3 | Miras Haritası"
-date: 2025-12-25T10:47:22+03:00
+title: "Atabey Gazi Çeşmesi 3"
+date: "2025-12-25T10:47:22+03:00"
 slug: "atabey-gazi-cesmesi-3"
 description: "## Atabey Gazi Çeşmesi 3: Kastamonu'nun Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7716217,41.3755074"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atabey Gazi Çeşmesi 3: Kastamonu'nun Tarihi Bir Çeşmesi

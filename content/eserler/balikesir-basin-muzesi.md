@@ -1,18 +1,17 @@
 ---
-title: "Balıkesir Basın Müzesi | Miras Haritası"
-date: 2025-12-25T03:55:49+03:00
+title: "Balıkesir Basın Müzesi"
+date: "2025-12-25T03:55:49+03:00"
 slug: "balikesir-basin-muzesi"
 description: "## Balıkesir Basın Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.8788261,39.6502151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balıkesir Basın Müzesi

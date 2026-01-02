@@ -1,18 +1,17 @@
 ---
-title: "Mersinet Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:24+03:00
+title: "Mersinet Manastırı"
+date: "2025-12-25T09:52:24+03:00"
 slug: "mersinet-manastiri"
 description: "## Mersinet Manastırı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "27.508997,37.4787636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mersinet Manastırı

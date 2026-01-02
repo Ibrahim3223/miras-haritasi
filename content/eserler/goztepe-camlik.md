@@ -1,18 +1,17 @@
 ---
-title: "Göztepe, Çamlık | Miras Haritası"
-date: 2025-12-25T05:47:46+03:00
+title: "Göztepe, Çamlık"
+date: "2025-12-25T05:47:46+03:00"
 slug: "goztepe-camlik"
 description: "**Göztepe, Çamlık: Selçuk'un Gizli Cenneti**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.387583,37.877967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Göztepe, Çamlık: Selçuk'un Gizli Cenneti**

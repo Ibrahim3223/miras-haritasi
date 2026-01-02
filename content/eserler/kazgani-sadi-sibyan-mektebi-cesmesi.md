@@ -1,18 +1,17 @@
 ---
-title: "Kazgani Sadi Sıbyan Mektebi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:53+03:00
+title: "Kazgani Sadi Sıbyan Mektebi Çeşmesi"
+date: "2025-12-25T11:20:53+03:00"
 slug: "kazgani-sadi-sibyan-mektebi-cesmesi"
 description: "### Kazgani Sadi Sıbyan Mektebi Çeşmesi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.960143,41.004532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kazgani Sadi Sıbyan Mektebi Çeşmesi Tanıtımı

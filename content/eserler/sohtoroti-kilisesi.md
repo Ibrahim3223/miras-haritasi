@@ -1,18 +1,17 @@
 ---
-title: "Sohtoroti Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:44+03:00
+title: "Sohtoroti Kilisesi"
+date: "2025-12-25T09:01:44+03:00"
 slug: "sohtoroti-kilisesi"
 description: "# Sohtoroti Kilisesi..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: ["Tortum ilçesi"]
+iller: '["Tortum ilçesi"]'
 district: "Doruklu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.426777777,40.377277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sohtoroti Kilisesi

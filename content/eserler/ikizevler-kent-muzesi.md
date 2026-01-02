@@ -1,18 +1,17 @@
 ---
-title: "İkizevler Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:26+03:00
+title: "İkizevler Kent Müzesi"
+date: "2025-12-25T03:50:26+03:00"
 slug: "ikizevler-kent-muzesi"
 description: "## İkizevler Kent Müzesi: Gümüşhane'nin Gizli Çehresi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.464981,40.464782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkizevler Kent Müzesi: Gümüşhane'nin Gizli Çehresi

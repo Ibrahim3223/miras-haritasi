@@ -1,18 +1,17 @@
 ---
-title: "Kremna Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:23:37+03:00
+title: "Kremna Antik Tiyatrosu"
+date: "2025-12-25T08:23:37+03:00"
 slug: "kremna-antik-tiyatrosu"
 description: "### Kremna Antik Tiyatrosu: Bucak'ın Tarihî Mirası..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.689014,37.498184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kremna Antik Tiyatrosu: Bucak'ın Tarihî Mirası

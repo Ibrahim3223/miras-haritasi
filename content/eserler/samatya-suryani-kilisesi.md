@@ -1,18 +1,17 @@
 ---
-title: "Samatya Süryani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:53+03:00
+title: "Samatya Süryani Kilisesi"
+date: "2025-12-25T09:17:53+03:00"
 slug: "samatya-suryani-kilisesi"
 description: "## Samatya Süryani Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9303818,40.9960136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samatya Süryani Kilisesi

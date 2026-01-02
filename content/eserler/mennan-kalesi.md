@@ -1,18 +1,17 @@
 ---
-title: "Mennan Kalesi | Miras Haritası"
-date: 2025-12-25T01:42:09+03:00
+title: "Mennan Kalesi"
+date: "2025-12-25T01:42:09+03:00"
 slug: "mennan-kalesi"
 description: "## Mennan Kalesi: Ermenek'in Tarihî Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ermenek"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.0457458,36.5493393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mennan Kalesi: Ermenek'in Tarihî Mirası

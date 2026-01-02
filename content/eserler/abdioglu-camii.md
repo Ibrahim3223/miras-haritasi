@@ -1,18 +1,17 @@
 ---
-title: "Abdioğlu Camii | Miras Haritası"
-date: 2025-12-25T00:45:00+03:00
+title: "Abdioğlu Camii"
+date: "2025-12-25T00:45:00+03:00"
 slug: "abdioglu-camii"
 description: "## Abdioğlu Camii: Ürgüp'te Bir Tarihî Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.864593501,38.620638667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdioğlu Camii: Ürgüp'te Bir Tarihî Miras

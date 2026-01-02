@@ -1,18 +1,17 @@
 ---
-title: "Kökan Höyük | Miras Haritası"
-date: 2025-12-25T06:31:07+03:00
+title: "Kökan Höyük"
+date: "2025-12-25T06:31:07+03:00"
 slug: "kokan-hoyuk"
 description: "## Kökan Höyük: Elazığ'ın Gizli Cevheri..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Kovancılar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.0348026,38.81269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kökan Höyük: Elazığ'ın Gizli Cevheri

@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs R | Miras Haritası"
-date: 2025-12-25T07:56:29+03:00
+title: "Gordion Tümülüs R"
+date: "2025-12-25T07:56:29+03:00"
 slug: "gordion-tumulus-r"
 description: "## Gordion Tümülüs R..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.996765,39.651836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gordion Tümülüs R

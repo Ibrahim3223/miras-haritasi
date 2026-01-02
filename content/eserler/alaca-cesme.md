@@ -1,18 +1,17 @@
 ---
-title: "Alaca Çeşme | Miras Haritası"
-date: 2025-12-25T10:28:49+03:00
+title: "Alaca Çeşme"
+date: "2025-12-25T10:28:49+03:00"
 slug: "alaca-cesme"
 description: "## Alaca Çeşme: Eyüpsultan'da Bir Tarihi Çeşme..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.936871,41.041187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaca Çeşme: Eyüpsultan'da Bir Tarihi Çeşme

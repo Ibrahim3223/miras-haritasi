@@ -1,18 +1,17 @@
 ---
-title: "Kırmızı Sırt Köprüsü | Miras Haritası"
-date: 2025-12-25T02:01:55+03:00
+title: "Kırmızı Sırt Köprüsü"
+date: "2025-12-25T02:01:55+03:00"
 slug: "kirmizi-sirt-koprusu"
 description: "## Kırmızı Sırt Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Hemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.885533,41.07635"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırmızı Sırt Köprüsü

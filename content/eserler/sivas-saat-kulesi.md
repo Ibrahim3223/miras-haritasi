@@ -1,18 +1,17 @@
 ---
-title: "Sivas Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:36+03:00
+title: "Sivas Saat Kulesi"
+date: "2025-12-25T17:18:36+03:00"
 slug: "sivas-saat-kulesi"
 description: "## Sivas Saat Kulesi: Tarihi Bir Miras..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "37.015055555,39.745666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivas Saat Kulesi: Tarihi Bir Miras

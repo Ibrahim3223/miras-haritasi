@@ -1,18 +1,17 @@
 ---
-title: "Nuri Fırtına Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:29+03:00
+title: "Nuri Fırtına Çeşmesi"
+date: "2025-12-25T10:44:29+03:00"
 slug: "nuri-firtina-cesmesi"
 description: "# Nuri Fırtına Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.77771,41.3720779"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Nuri Fırtına Çeşmesi

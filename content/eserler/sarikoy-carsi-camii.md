@@ -1,18 +1,17 @@
 ---
-title: "Sarıköy Çarşı Camii | Miras Haritası"
-date: 2025-12-24T22:43:18+03:00
+title: "Sarıköy Çarşı Camii"
+date: "2025-12-24T22:43:18+03:00"
 slug: "sarikoy-carsi-camii"
 description: "# Sarıköy Çarşı Camii: Balıkesir'in Tarihî Bir Câmii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5978661,40.2043037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sarıköy Çarşı Camii: Balıkesir'in Tarihî Bir Câmii

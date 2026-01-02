@@ -1,18 +1,17 @@
 ---
-title: "Seleucia Antik Tiyatro | Miras Haritası"
-date: 2025-12-25T04:14:13+03:00
+title: "Seleucia Antik Tiyatro"
+date: "2025-12-25T04:14:13+03:00"
 slug: "seleucia-antik-tiyatro"
 description: "## Seleucia Antik Tiyatro: Mersin'in Gizli Hazineleri..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9237251,36.3749084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seleucia Antik Tiyatro: Mersin'in Gizli Hazineleri

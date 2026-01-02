@@ -1,18 +1,17 @@
 ---
-title: "Leksori Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:42+03:00
+title: "Leksori Kilisesi"
+date: "2025-12-25T09:00:42+03:00"
 slug: "leksori-kilisesi"
 description: "## Leksori Kilisesi: İncelemesi ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Sındıran"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.326305555,40.618027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Leksori Kilisesi: İncelemesi ve Ziyaret Bilgileri

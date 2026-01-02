@@ -1,18 +1,17 @@
 ---
-title: "Rahibeler Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:48+03:00
+title: "Rahibeler Manastırı"
+date: "2025-12-25T09:55:48+03:00"
 slug: "rahibeler-manastiri"
 description: "## Rahibeler Manastırı: Göreme'nin Gizemli Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "34.845516085,38.639492163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rahibeler Manastırı: Göreme'nin Gizemli Anıtı

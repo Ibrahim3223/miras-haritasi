@@ -1,18 +1,17 @@
 ---
-title: "Sarızade Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:40:53+03:00
+title: "Sarızade Mehmet Paşa Camii"
+date: "2025-12-24T22:40:53+03:00"
 slug: "sarizade-mehmet-pasa-camii"
 description: "## Sarızade Mehmet Paşa Camii..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0107498,39.7509689"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarızade Mehmet Paşa Camii

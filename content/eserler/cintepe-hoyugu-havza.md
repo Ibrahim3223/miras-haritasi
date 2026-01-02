@@ -1,18 +1,17 @@
 ---
-title: "Cintepe Höyüğü, Havza | Miras Haritası"
-date: 2025-12-25T13:49:59+03:00
+title: "Cintepe Höyüğü, Havza"
+date: "2025-12-25T13:49:59+03:00"
 slug: "cintepe-hoyugu-havza"
 description: "## Cintepe Höyüğü: Havza'nın Gizemli Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Havza"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.793145,40.994979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cintepe Höyüğü: Havza'nın Gizemli Anıtı

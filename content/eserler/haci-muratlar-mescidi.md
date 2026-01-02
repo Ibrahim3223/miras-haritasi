@@ -1,18 +1,17 @@
 ---
-title: "Hacı Muratlar Mescidi | Miras Haritası"
-date: 2025-12-24T23:27:57+03:00
+title: "Hacı Muratlar Mescidi"
+date: "2025-12-24T23:27:57+03:00"
 slug: "haci-muratlar-mescidi"
 description: "### Hacı Muratlar Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hacı_Muratlar_Mescidi_2025-09-14_13-46-41.jpg/1200px-Hacı_Muratlar_Mescidi_2025-09-14_13-46-41.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yalova"
+province: "Yalova"
+iller: '["Yalova"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4633141,40.6044769"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hacı Muratlar Mescidi

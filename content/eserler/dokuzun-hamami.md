@@ -1,18 +1,17 @@
 ---
-title: "Dokuzun Hamamı | Miras Haritası"
-date: 2025-12-25T16:51:10+03:00
+title: "Dokuzun Hamamı"
+date: "2025-12-25T16:51:10+03:00"
 slug: "dokuzun-hamami"
 description: "## Dokuzun Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.3269005,37.9179993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokuzun Hamamı: Tarihi ve Kültürel Miras

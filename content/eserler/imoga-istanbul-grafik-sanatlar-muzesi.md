@@ -1,18 +1,17 @@
 ---
-title: "Imoga İstanbul Grafik Sanatlar Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:40+03:00
+title: "Imoga İstanbul Grafik Sanatlar Müzesi"
+date: "2025-12-25T03:53:40+03:00"
 slug: "imoga-istanbul-grafik-sanatlar-muzesi"
 description: "## Imoga İstanbul Grafik Sanatlar Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.064846,41.003609"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Imoga İstanbul Grafik Sanatlar Müzesi

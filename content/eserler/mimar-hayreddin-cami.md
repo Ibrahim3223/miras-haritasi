@@ -1,18 +1,17 @@
 ---
-title: "Mimar Hayreddin Cami | Miras Haritası"
-date: 2025-12-24T22:01:58+03:00
+title: "Mimar Hayreddin Cami"
+date: "2025-12-24T22:01:58+03:00"
 slug: "mimar-hayreddin-cami"
 description: "### Mimar Hayreddin Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mimar_Hayreddin_Mosque,_İstanbul.jpg/1200px-Mimar_Hayreddin_Mosque,_İstanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.969111111,41.008444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mimar Hayreddin Cami

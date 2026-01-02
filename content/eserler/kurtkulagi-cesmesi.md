@@ -1,18 +1,17 @@
 ---
-title: "Kurtkulağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:26:27+03:00
+title: "Kurtkulağı Çeşmesi"
+date: "2025-12-25T12:26:27+03:00"
 slug: "kurtkulagi-cesmesi"
 description: "## Kurtkulağı Çeşmesi: Adana'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Ceyhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.885334118,36.922901064"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurtkulağı Çeşmesi: Adana'nın Tarihî ve Kültürel Mirası

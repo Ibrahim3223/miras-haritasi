@@ -1,18 +1,17 @@
 ---
-title: "Soğuk Çeşme Sokaktaki Hamam | Miras Haritası"
-date: 2025-12-25T16:52:19+03:00
+title: "Soğuk Çeşme Sokaktaki Hamam"
+date: "2025-12-25T16:52:19+03:00"
 slug: "soguk-cesme-sokaktaki-hamam"
 description: "### Soğuk Çeşme Sokaktaki Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9803486,41.0094299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Soğuk Çeşme Sokaktaki Hamam

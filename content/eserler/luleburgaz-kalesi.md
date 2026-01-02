@@ -1,18 +1,17 @@
 ---
-title: "Lüleburgaz Kalesi | Miras Haritası"
-date: 2025-12-25T01:38:39+03:00
+title: "Lüleburgaz Kalesi"
+date: "2025-12-25T01:38:39+03:00"
 slug: "luleburgaz-kalesi"
 description: "## Lüleburgaz Kalesi: Tarihî İnsanların İzlerini Taşıyan Bir Kale..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Lüleburgaz_-_Lüleburgaz_Kalesi_Kalıntıları_-_20250531143211.jpg/1200px-Lüleburgaz_-_Lüleburgaz_Kalesi_Kalıntıları_-_20250531143211.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3471433,41.408078"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lüleburgaz Kalesi: Tarihî İnsanların İzlerini Taşıyan Bir Kale

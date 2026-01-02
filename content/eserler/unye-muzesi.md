@@ -1,18 +1,17 @@
 ---
-title: "Ünye Müzesi | Miras Haritası"
-date: 2025-12-25T03:46:36+03:00
+title: "Ünye Müzesi"
+date: "2025-12-25T03:46:36+03:00"
 slug: "unye-muzesi"
 description: "### Ünye Müzesi: Ünye'nin Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ünye_Museum_I.jpg/1200px-Ünye_Museum_I.jpg"
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Ünye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ünye Müzesi: Ünye'nin Kültür Mirası

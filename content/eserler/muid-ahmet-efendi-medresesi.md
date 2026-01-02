@@ -1,18 +1,17 @@
 ---
-title: "Muid Ahmet Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:26:56+03:00
+title: "Muid Ahmet Efendi Medresesi"
+date: "2025-12-25T17:26:56+03:00"
 slug: "muid-ahmet-efendi-medresesi"
 description: "### Muid Ahmet Efendi Medresesi: Fatih'in Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.952795,41.022309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muid Ahmet Efendi Medresesi: Fatih'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "İzmit Deprem Anma ve Farkındalık Müzesi | Miras Haritası"
-date: 2025-12-25T03:34:18+03:00
+title: "İzmit Deprem Anma ve Farkındalık Müzesi"
+date: "2025-12-25T03:34:18+03:00"
 slug: "izmit-deprem-anma-ve-farkindalik-muzesi"
 description: "## İzmit Deprem Anma ve Farkındalık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Izmit_deprem_müzesi_(1)_04.jpg/1200px-Izmit_deprem_müzesi_(1)_04.jpg"
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.953462,40.782758"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İzmit Deprem Anma ve Farkındalık Müzesi

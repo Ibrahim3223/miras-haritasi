@@ -1,18 +1,17 @@
 ---
-title: "Orta Mescit Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:56:12+03:00
+title: "Orta Mescit Çeşmesi, Bayındır"
+date: "2025-12-25T12:56:12+03:00"
 slug: "orta-mescit-cesmesi-bayindir"
 description: "## Orta Mescit Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6482067,38.2255783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Mescit Çeşmesi

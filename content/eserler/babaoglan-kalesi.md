@@ -1,18 +1,17 @@
 ---
-title: "Babaoğlan Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:23+03:00
+title: "Babaoğlan Kalesi"
+date: "2025-12-25T01:33:23+03:00"
 slug: "babaoglan-kalesi"
 description: "## Babaoğlan Kalesi: Osmaniye'nin Tarihî Mirası..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Osmaniye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.187547222,37.243161111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Babaoğlan Kalesi: Osmaniye'nin Tarihî Mirası

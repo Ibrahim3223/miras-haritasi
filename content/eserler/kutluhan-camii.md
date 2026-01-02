@@ -1,18 +1,17 @@
 ---
-title: "Kutluhan Camii | Miras Haritası"
-date: 2025-12-24T21:45:44+03:00
+title: "Kutluhan Camii"
+date: "2025-12-24T21:45:44+03:00"
 slug: "kutluhan-camii"
 description: "## Kutluhan Camii: Tarih ve Mirasın Birleştiği Yer..."
 featured_image: ""
 province: "Haymana İlçesi"
-iller: ["Haymana İlçesi"]
+iller: '["Haymana İlçesi"]'
 district: "Altıpınar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.719916666,39.209166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kutluhan Camii: Tarih ve Mirasın Birleştiği Yer

@@ -1,18 +1,17 @@
 ---
-title: "Yeşilburç Kilise Camii, Niğde | Miras Haritası"
-date: 2025-12-25T00:53:17+03:00
+title: "Yeşilburç Kilise Camii, Niğde"
+date: "2025-12-25T00:53:17+03:00"
 slug: "yesilburc-kilise-camii-nigde"
 description: "## Yeşilburç Kilise Camii: Niğde'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6663399,38.0125465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşilburç Kilise Camii: Niğde'nin Tarihi Bir Mirası

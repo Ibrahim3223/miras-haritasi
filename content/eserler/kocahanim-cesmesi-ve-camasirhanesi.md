@@ -1,18 +1,17 @@
 ---
-title: "Kocahanım Çeşmesi ve Çamaşırhanesi | Miras Haritası"
-date: 2025-12-25T12:53:04+03:00
+title: "Kocahanım Çeşmesi ve Çamaşırhanesi"
+date: "2025-12-25T12:53:04+03:00"
 slug: "kocahanim-cesmesi-ve-camasirhanesi"
 description: "### Kocahanım Çeşmesi ve Çamaşırhanesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.7432995,38.3212013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kocahanım Çeşmesi ve Çamaşırhanesi

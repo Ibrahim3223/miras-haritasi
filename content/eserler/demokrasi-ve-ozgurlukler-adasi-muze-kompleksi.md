@@ -1,18 +1,17 @@
 ---
-title: "Demokrasi ve Özgürlükler Adası Müze Kompleksi | Miras Haritası"
-date: 2025-12-25T04:06:11+03:00
+title: "Demokrasi ve Özgürlükler Adası Müze Kompleksi"
+date: "2025-12-25T04:06:11+03:00"
 slug: "demokrasi-ve-ozgurlukler-adasi-muze-kompleksi"
 description: "## Demokrasi ve Özgürlükler Adası Müze Kompleksi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.994479293,40.864494772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demokrasi ve Özgürlükler Adası Müze Kompleksi

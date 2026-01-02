@@ -1,18 +1,17 @@
 ---
-title: "Kuzayca Höyük | Miras Haritası"
-date: 2025-12-25T06:21:50+03:00
+title: "Kuzayca Höyük"
+date: "2025-12-25T06:21:50+03:00"
 slug: "kuzayca-hoyuk"
 description: "## Kuzayca Höyük: Şefaatli'nin Gizemli Ören Yeri..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8511139,39.3930146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuzayca Höyük: Şefaatli'nin Gizemli Ören Yeri

@@ -1,18 +1,17 @@
 ---
-title: "Polikhne (İyonya) | Miras Haritası"
-date: 2025-12-25T04:41:22+03:00
+title: "Polikhne (İyonya)"
+date: "2025-12-25T04:41:22+03:00"
 slug: "polikhne-iyonya"
 description: "## Polikhne (İyonya): İyonya'nın Gizli Şehri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.768509,38.360198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Polikhne (İyonya): İyonya'nın Gizli Şehri

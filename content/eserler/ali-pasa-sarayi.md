@@ -1,18 +1,17 @@
 ---
-title: "Ali Paşa Sarayı | Miras Haritası"
-date: 2025-12-25T13:12:28+03:00
+title: "Ali Paşa Sarayı"
+date: "2025-12-25T13:12:28+03:00"
 slug: "ali-pasa-sarayi"
 description: "### Ali Paşa Sarayı..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mercan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.9662933,41.0136681"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Paşa Sarayı

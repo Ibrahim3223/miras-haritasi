@@ -1,18 +1,17 @@
 ---
-title: "Anticinolis | Miras Haritası"
-date: 2025-12-25T04:42:38+03:00
+title: "Anticinolis"
+date: "2025-12-25T04:42:38+03:00"
 slug: "anticinolis"
 description: "## Anticinolis Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.173004,41.954756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anticinolis Arkeolojik Sit

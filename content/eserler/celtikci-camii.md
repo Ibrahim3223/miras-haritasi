@@ -1,18 +1,17 @@
 ---
-title: "Çeltikçi Camii | Miras Haritası"
-date: 2025-12-24T22:29:19+03:00
+title: "Çeltikçi Camii"
+date: "2025-12-24T22:29:19+03:00"
 slug: "celtikci-camii"
 description: "## Çeltikçi Camii: Aydın'ın Söke İlçesi'ndeki Tarihi Bir Anıtsal Yapı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4058456,37.7479591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeltikçi Camii: Aydın'ın Söke İlçesi'ndeki Tarihi Bir Anıtsal Yapı

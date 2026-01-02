@@ -1,18 +1,17 @@
 ---
-title: "Sümbül Efendi Camii Kuş Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:59+03:00
+title: "Sümbül Efendi Camii Kuş Çeşmesi"
+date: "2025-12-25T11:08:59+03:00"
 slug: "sumbul-efendi-camii-kus-cesmesi"
 description: "## Sümbül Efendi Camii Kuş Çeşmesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sümbül_Efendi_Camii_Kuş_Çeşmesi.jpg/1200px-Sümbül_Efendi_Camii_Kuş_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9285355,41.0035133"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sümbül Efendi Camii Kuş Çeşmesi: İstanbul'un Gizli Cenneti

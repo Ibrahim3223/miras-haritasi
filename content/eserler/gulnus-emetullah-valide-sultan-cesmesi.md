@@ -1,18 +1,17 @@
 ---
-title: "Gülnuş Emetullah Valide Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:57+03:00
+title: "Gülnuş Emetullah Valide Sultan Çeşmesi"
+date: "2025-12-25T10:40:57+03:00"
 slug: "gulnus-emetullah-valide-sultan-cesmesi"
 description: "### Gülnuş Emetullah Valide Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gülnuş_Emetullah_Valide_Sultan_Fountain_in_November_2023_(2).jpg/1200px-Gülnuş_Emetullah_Valide_Sultan_Fountain_in_November_2023_(2).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.014693,41.024581"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Gülnuş Emetullah Valide Sultan Çeşmesi

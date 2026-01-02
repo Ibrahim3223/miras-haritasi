@@ -1,18 +1,17 @@
 ---
-title: "Ayşe Bihri Kadın Sebili | Miras Haritası"
-date: 2025-12-25T13:09:09+03:00
+title: "Ayşe Bihri Kadın Sebili"
+date: "2025-12-25T13:09:09+03:00"
 slug: "ayse-bihri-kadin-sebili"
 description: "## Ayşe Bihri Kadın Sebili: Eyüpsultan'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.933823,41.048315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayşe Bihri Kadın Sebili: Eyüpsultan'ın Gizli Çeşmesi

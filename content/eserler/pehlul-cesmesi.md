@@ -1,18 +1,17 @@
 ---
-title: "Pehlül Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:43+03:00
+title: "Pehlül Çeşmesi"
+date: "2025-12-25T10:41:43+03:00"
 slug: "pehlul-cesmesi"
 description: "## Pehlül Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7656136,41.3748779"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pehlül Çeşmesi

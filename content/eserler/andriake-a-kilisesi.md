@@ -1,18 +1,17 @@
 ---
-title: "Andriake A Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:28+03:00
+title: "Andriake A Kilisesi"
+date: "2025-12-25T09:35:28+03:00"
 slug: "andriake-a-kilisesi"
 description: "## Andriake A Kilisesi: Demre'nin Hellenistik Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.9586926,36.2273674"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andriake A Kilisesi: Demre'nin Hellenistik Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sinera Höyüğü | Miras Haritası"
-date: 2025-12-25T06:11:52+03:00
+title: "Sinera Höyüğü"
+date: "2025-12-25T06:11:52+03:00"
 slug: "sinera-hoyugu"
 description: "## Sinera Höyüğü: Mardin'in Gizli Öyküsü..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.394450193,37.138761942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinera Höyüğü: Mardin'in Gizli Öyküsü

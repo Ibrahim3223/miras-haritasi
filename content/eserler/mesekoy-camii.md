@@ -1,18 +1,17 @@
 ---
-title: "Meşeköy Camii | Miras Haritası"
-date: 2025-12-25T00:19:21+03:00
+title: "Meşeköy Camii"
+date: "2025-12-25T00:19:21+03:00"
 slug: "mesekoy-camii"
 description: "### Meşeköy Camii: Rize'nin İkizdere Köyünde Gizli bir Ören..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.594173855,40.66220974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Meşeköy Camii: Rize'nin İkizdere Köyünde Gizli bir Ören

@@ -1,18 +1,17 @@
 ---
-title: "Surp Haç Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:44:31+03:00
+title: "Surp Haç Ermeni Kilisesi"
+date: "2025-12-25T09:44:31+03:00"
 slug: "surp-hac-ermeni-kilisesi"
 description: "## Surp Haç Ermeni Kilisesi: Ankara'nın Gizli Tarihi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.8651123,39.9399529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Haç Ermeni Kilisesi: Ankara'nın Gizli Tarihi

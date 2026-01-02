@@ -1,18 +1,17 @@
 ---
-title: "Afakan Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:49+03:00
+title: "Afakan Türbesi"
+date: "2025-12-25T14:55:49+03:00"
 slug: "afakan-turbesi"
 description: "## Afakan Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.430191,37.88097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Afakan Türbesi

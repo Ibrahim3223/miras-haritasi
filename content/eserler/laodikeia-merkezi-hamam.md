@@ -1,18 +1,17 @@
 ---
-title: "Laodikeia Merkezi Hamam | Miras Haritası"
-date: 2025-12-25T16:50:39+03:00
+title: "Laodikeia Merkezi Hamam"
+date: "2025-12-25T16:50:39+03:00"
 slug: "laodikeia-merkezi-hamam"
 description: "### Laodikeia Merkezi Hamamı: Tarih, Mimari ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.1081047,37.8356819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Laodikeia Merkezi Hamamı: Tarih, Mimari ve Ziyaret Bilgileri

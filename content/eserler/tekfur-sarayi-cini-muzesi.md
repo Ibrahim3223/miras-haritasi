@@ -1,18 +1,17 @@
 ---
-title: "Tekfur Sarayı Çini Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:03+03:00
+title: "Tekfur Sarayı Çini Müzesi"
+date: "2025-12-25T04:06:03+03:00"
 slug: "tekfur-sarayi-cini-muzesi"
 description: "## Tekfur Sarayı Çini Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.94047736,41.033792676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekfur Sarayı Çini Müzesi

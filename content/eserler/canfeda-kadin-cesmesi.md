@@ -1,18 +1,17 @@
 ---
-title: "Canfeda Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:30:22+03:00
+title: "Canfeda Kadın Çeşmesi"
+date: "2025-12-25T10:30:22+03:00"
 slug: "canfeda-kadin-cesmesi"
 description: "## Canfeda Kadın Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mimar Hayrettin"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.967419,41.00782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canfeda Kadın Çeşmesi

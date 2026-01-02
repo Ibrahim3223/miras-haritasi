@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Cellat Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:14:22+03:00
+title: "Topkapı Sarayı Cellat Çeşmesi"
+date: "2025-12-25T11:14:22+03:00"
 slug: "topkapi-sarayi-cellat-cesmesi"
 description: "### Topkapı Sarayı Cellat Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.983112,41.010967"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Topkapı Sarayı Cellat Çeşmesi

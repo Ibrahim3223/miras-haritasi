@@ -1,18 +1,17 @@
 ---
-title: "Karacaoğlu Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:45+03:00
+title: "Karacaoğlu Camii Çeşmesi"
+date: "2025-12-25T10:51:45+03:00"
 slug: "karacaoglu-camii-cesmesi"
 description: "**Karacaoğlu Camii Çeşmesi**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4803772,38.7121124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karacaoğlu Camii Çeşmesi**

@@ -1,18 +1,17 @@
 ---
-title: "İsmailli Camii | Miras Haritası"
-date: 2025-12-24T23:37:16+03:00
+title: "İsmailli Camii"
+date: "2025-12-24T23:37:16+03:00"
 slug: "ismailli-camii"
 description: "## İsmailli Camii: İzmir'in Tarihi Bir Çağı Gerçekleştiren Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2141991,38.9313011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmailli Camii: İzmir'in Tarihi Bir Çağı Gerçekleştiren Anıtı

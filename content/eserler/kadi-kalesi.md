@@ -1,18 +1,17 @@
 ---
-title: "Kadı Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:03+03:00
+title: "Kadı Kalesi"
+date: "2025-12-25T01:33:03+03:00"
 slug: "kadi-kalesi"
 description: "## Kadı Kalesi: Milas'ta Bir Tarihî Eserin Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.53566,37.45281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Kalesi: Milas'ta Bir Tarihî Eserin Gizemi

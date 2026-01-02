@@ -1,18 +1,17 @@
 ---
-title: "Dört Sütunlu Cami | Miras Haritası"
-date: 2025-12-24T22:37:03+03:00
+title: "Dört Sütunlu Cami"
+date: "2025-12-24T22:37:03+03:00"
 slug: "dort-sutunlu-cami"
 description: "### Dört Sütunlu Cami: Didim'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2769451,37.530365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dört Sütunlu Cami: Didim'in Tarihî Bir Mirası

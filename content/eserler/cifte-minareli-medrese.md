@@ -1,18 +1,17 @@
 ---
-title: "Çifte Minareli Medrese | Miras Haritası"
-date: 2025-12-25T17:23:01+03:00
+title: "Çifte Minareli Medrese"
+date: "2025-12-25T17:23:01+03:00"
 slug: "cifte-minareli-medrese"
 description: "## Çifte Minareli Medrese..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Çifte_Minareli_Medrese_(Erzurum)_Exterior_front_side_in_2006_3278_straightened.jpg/1200px-Çifte_Minareli_Medrese_(Erzurum)_Exterior_front_side_in_2006_3278_straightened.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "41.278357,39.905806"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çifte Minareli Medrese

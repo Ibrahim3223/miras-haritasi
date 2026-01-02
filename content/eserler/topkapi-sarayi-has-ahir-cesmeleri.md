@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Has Ahır Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:49:16+03:00
+title: "Topkapı Sarayı Has Ahır Çeşmeleri"
+date: "2025-12-25T11:49:16+03:00"
 slug: "topkapi-sarayi-has-ahir-cesmeleri"
 description: "## Topkapı Sarayı Has Ahır Çeşmeleri..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9826908,41.0120201"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Has Ahır Çeşmeleri

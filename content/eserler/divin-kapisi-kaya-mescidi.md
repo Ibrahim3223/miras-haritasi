@@ -1,18 +1,17 @@
 ---
-title: "Divin Kapısı Kaya Mescidi | Miras Haritası"
-date: 2025-12-25T01:09:07+03:00
+title: "Divin Kapısı Kaya Mescidi"
+date: "2025-12-25T01:09:07+03:00"
 slug: "divin-kapisi-kaya-mescidi"
 description: "## Divin Kapısı Kaya Mescidi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.5736046,40.5054016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Divin Kapısı Kaya Mescidi

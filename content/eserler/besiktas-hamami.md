@@ -1,18 +1,17 @@
 ---
-title: "Beşiktaş Hamamı | Miras Haritası"
-date: 2025-12-25T16:24:55+03:00
+title: "Beşiktaş Hamamı"
+date: "2025-12-25T16:24:55+03:00"
 slug: "besiktas-hamami"
 description: "## Beşiktaş Hamamı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Beşiktaş_Hammam_02.jpg/1200px-Beşiktaş_Hammam_02.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.003220047,41.044040019"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Beşiktaş Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

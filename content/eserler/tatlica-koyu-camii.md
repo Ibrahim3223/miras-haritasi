@@ -1,18 +1,17 @@
 ---
-title: "Tatlıca Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:14:03+03:00
+title: "Tatlıca Köyü Camii"
+date: "2025-12-24T23:14:03+03:00"
 slug: "tatlica-koyu-camii"
 description: "# Tatlıca Köyü Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Araç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2419662,41.2562866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tatlıca Köyü Camii

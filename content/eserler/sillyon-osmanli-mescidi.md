@@ -1,18 +1,17 @@
 ---
-title: "Sillyon Osmanlı Mescidi | Miras Haritası"
-date: 2025-12-25T00:40:17+03:00
+title: "Sillyon Osmanlı Mescidi"
+date: "2025-12-25T00:40:17+03:00"
 slug: "sillyon-osmanli-mescidi"
 description: "## Sillyon Osmanlı Mescidi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.985039158,36.988451048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sillyon Osmanlı Mescidi

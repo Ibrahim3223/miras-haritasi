@@ -1,18 +1,17 @@
 ---
-title: "Cafer Çeşmesi Mevki Manastırı | Miras Haritası"
-date: 2025-12-25T09:58:33+03:00
+title: "Cafer Çeşmesi Mevki Manastırı"
+date: "2025-12-25T09:58:33+03:00"
 slug: "cafer-cesmesi-mevki-manastiri"
 description: "## Cafer Çeşmesi Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.9241009,40.1864014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cafer Çeşmesi Mevki Manastırı

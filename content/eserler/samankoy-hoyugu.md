@@ -1,18 +1,17 @@
 ---
-title: "Samanköy Höyüğü | Miras Haritası"
-date: 2025-12-25T06:02:22+03:00
+title: "Samanköy Höyüğü"
+date: "2025-12-25T06:02:22+03:00"
 slug: "samankoy-hoyugu"
 description: "### Samanköy Höyüğü: Malatya'nın Gizli Kıymeti..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yeşilyurt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.2393646,38.3931007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Samanköy Höyüğü: Malatya'nın Gizli Kıymeti

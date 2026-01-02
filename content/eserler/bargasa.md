@@ -1,18 +1,17 @@
 ---
-title: "Bargasa | Miras Haritası"
-date: 2025-12-25T07:10:47+03:00
+title: "Bargasa"
+date: "2025-12-25T07:10:47+03:00"
 slug: "bargasa"
 description: "### Bargasa Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7739858,37.0219849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bargasa Arkeolojik Sit

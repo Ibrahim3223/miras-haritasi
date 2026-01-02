@@ -1,18 +1,17 @@
 ---
-title: "Yapalı Türbesi | Miras Haritası"
-date: 2025-12-25T15:31:15+03:00
+title: "Yapalı Türbesi"
+date: "2025-12-25T15:31:15+03:00"
 slug: "yapali-turbesi"
 description: "# Yapalı Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Cihanbeyli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.978969136,38.544144391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yapalı Türbesi

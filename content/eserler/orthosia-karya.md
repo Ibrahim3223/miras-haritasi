@@ -1,18 +1,17 @@
 ---
-title: "Orthosia (Karya) | Miras Haritası"
-date: 2025-12-25T05:15:20+03:00
+title: "Orthosia (Karya)"
+date: "2025-12-25T05:15:20+03:00"
 slug: "orthosia-karya"
 description: "### Orthosia (Karya)..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar (Aydın)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.228037,37.824122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Orthosia (Karya)

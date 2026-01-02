@@ -1,18 +1,17 @@
 ---
-title: "Tarım Müzesi, Polatlı | Miras Haritası"
-date: 2025-12-25T03:54:55+03:00
+title: "Tarım Müzesi, Polatlı"
+date: "2025-12-25T03:54:55+03:00"
 slug: "tarim-muzesi-polatli"
 description: "## Tarım Müzesi, Polatlı: Tarımda Geçmişten Geleceğe Yönlendirici Bir Miras..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.135019,39.582231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarım Müzesi, Polatlı: Tarımda Geçmişten Geleceğe Yönlendirici Bir Miras

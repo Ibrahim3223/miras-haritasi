@@ -1,18 +1,17 @@
 ---
-title: "Sinan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:22+03:00
+title: "Sinan Köprüsü"
+date: "2025-12-25T02:42:22+03:00"
 slug: "sinan-koprusu"
 description: "## Sinan Köprüsü: Batman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9962845,37.8293266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Köprüsü: Batman'ın Tarihi ve Kültürel Mirası

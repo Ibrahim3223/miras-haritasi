@@ -1,18 +1,17 @@
 ---
-title: "Cybistra | Miras Haritası"
-date: 2025-12-25T04:59:17+03:00
+title: "Cybistra"
+date: "2025-12-25T04:59:17+03:00"
 slug: "cybistra"
 description: "## Cybistra Arkeolojik Sit..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ereğli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.226824,37.662456"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cybistra Arkeolojik Sit

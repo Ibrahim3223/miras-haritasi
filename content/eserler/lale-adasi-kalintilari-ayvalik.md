@@ -1,18 +1,17 @@
 ---
-title: "Lale Adası Kalıntıları, Ayvalık | Miras Haritası"
-date: 2025-12-25T13:49:12+03:00
+title: "Lale Adası Kalıntıları, Ayvalık"
+date: "2025-12-25T13:49:12+03:00"
 slug: "lale-adasi-kalintilari-ayvalik"
 description: "## Lale Adası Kalıntıları: Ayvalık'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.695887,39.348286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lale Adası Kalıntıları: Ayvalık'ın Gizli Çeşmesi

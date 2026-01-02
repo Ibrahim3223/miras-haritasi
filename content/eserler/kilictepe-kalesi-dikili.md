@@ -1,18 +1,17 @@
 ---
-title: "Kılıçtepe Kalesi, Dikili | Miras Haritası"
-date: 2025-12-25T01:51:10+03:00
+title: "Kılıçtepe Kalesi, Dikili"
+date: "2025-12-25T01:51:10+03:00"
 slug: "kilictepe-kalesi-dikili"
 description: "## Kılıçtepe Kalesi: İzmir'in Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.9518623,39.1784668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılıçtepe Kalesi: İzmir'in Gizli Kahramanı

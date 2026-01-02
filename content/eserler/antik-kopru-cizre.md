@@ -1,18 +1,17 @@
 ---
-title: "Antik Köprü, Cizre | Miras Haritası"
-date: 2025-12-25T02:55:07+03:00
+title: "Antik Köprü, Cizre"
+date: "2025-12-25T02:55:07+03:00"
 slug: "antik-kopru-cizre"
 description: "## Antik Köprü, Cizre..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.3288994,37.3805008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antik Köprü, Cizre

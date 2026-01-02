@@ -1,18 +1,17 @@
 ---
-title: "Anazarbos Kent Kapısı | Miras Haritası"
-date: 2025-12-25T13:15:43+03:00
+title: "Anazarbos Kent Kapısı"
+date: "2025-12-25T13:15:43+03:00"
 slug: "anazarbos-kent-kapisi"
 description: "## Anazarbos Kent Kapısı..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8972664,37.2493286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anazarbos Kent Kapısı

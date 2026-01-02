@@ -1,18 +1,17 @@
 ---
-title: "Kasımiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:44+03:00
+title: "Kasımiye Medresesi"
+date: "2025-12-25T17:24:44+03:00"
 slug: "kasimiye-medresesi"
 description: "**Kasımiye Medresesi: Mardin'in Tarihî Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mardin_P1050254_20080426114925.JPG/1200px-Mardin_P1050254_20080426114925.JPG"
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "40.7200623,37.307579"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Kasımiye Medresesi: Mardin'in Tarihî Mirası**

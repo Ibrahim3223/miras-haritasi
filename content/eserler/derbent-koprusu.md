@@ -1,18 +1,17 @@
 ---
-title: "Derbent Köprüsü | Miras Haritası"
-date: 2025-12-25T02:00:58+03:00
+title: "Derbent Köprüsü"
+date: "2025-12-25T02:00:58+03:00"
 slug: "derbent-koprusu"
 description: "## Derbent Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Fındıklı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.2445305,41.2861621"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derbent Köprüsü

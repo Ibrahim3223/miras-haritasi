@@ -1,18 +1,17 @@
 ---
-title: "Soğuk Kuyu Camii | Miras Haritası"
-date: 2025-12-24T23:06:16+03:00
+title: "Soğuk Kuyu Camii"
+date: "2025-12-24T23:06:16+03:00"
 slug: "soguk-kuyu-camii"
 description: "## Soğuk Kuyu Camii: Aydın'ın Tarihsel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.4212646,37.9084702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğuk Kuyu Camii: Aydın'ın Tarihsel Mirası

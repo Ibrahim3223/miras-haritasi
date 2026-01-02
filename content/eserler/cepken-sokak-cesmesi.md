@@ -1,18 +1,17 @@
 ---
-title: "Cepken Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:45+03:00
+title: "Cepken Sokak Çeşmesi"
+date: "2025-12-25T11:50:45+03:00"
 slug: "cepken-sokak-cesmesi"
 description: "## Cepken Sokak Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9429092,41.0305214"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cepken Sokak Çeşmesi: İstanbul'un Gizli Çeşmesi

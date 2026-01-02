@@ -1,18 +1,17 @@
 ---
-title: "Karsnia Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:01+03:00
+title: "Karsnia Kilisesi"
+date: "2025-12-25T09:04:01+03:00"
 slug: "karsnia-kilisesi"
 description: "## Karsnia Kilisesi: Kapıköy'ün Gizli Cenneti..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Kapıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.227527777,41.17875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karsnia Kilisesi: Kapıköy'ün Gizli Cenneti

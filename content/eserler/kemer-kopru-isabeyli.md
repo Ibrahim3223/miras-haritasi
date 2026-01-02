@@ -1,18 +1,17 @@
 ---
-title: "Kemer Köprü, İsabeyli | Miras Haritası"
-date: 2025-12-25T02:55:37+03:00
+title: "Kemer Köprü, İsabeyli"
+date: "2025-12-25T02:55:37+03:00"
 slug: "kemer-kopru-isabeyli"
 description: "## Kemer Köprü, İsabeyli..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2558975,37.9317513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemer Köprü, İsabeyli

@@ -1,18 +1,17 @@
 ---
-title: "Veyselli Kaya Kabartmaları | Miras Haritası"
-date: 2025-12-25T07:13:07+03:00
+title: "Veyselli Kaya Kabartmaları"
+date: "2025-12-25T07:13:07+03:00"
 slug: "veyselli-kaya-kabartmalari"
 description: "## Veyselli Kaya Kabartmaları..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.110138888,36.635194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veyselli Kaya Kabartmaları

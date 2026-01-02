@@ -1,18 +1,17 @@
 ---
-title: "Artemision | Miras Haritası"
-date: 2025-12-25T05:25:14+03:00
+title: "Artemision"
+date: "2025-12-25T05:25:14+03:00"
 slug: "artemision"
 description: "### Artemision Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TR.IZ.Selcuk_Ephesus_2011-10-04_Temple-of-Artemis_07_3x2-R_5K.jpg/1200px-TR.IZ.Selcuk_Ephesus_2011-10-04_Temple-of-Artemis_07_3x2-R_5K.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.363889,37.949722"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Artemision Arkeolojik Sit

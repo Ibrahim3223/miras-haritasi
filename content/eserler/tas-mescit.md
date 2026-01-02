@@ -1,18 +1,18 @@
 ---
-title: "Taş Mescit | Miras Haritası"
-date: 2025-12-24T23:16:14+03:00
+title: "Taş Mescit"
+date: "2025-12-24T23:16:14+03:00"
 slug: "tas-mescit"
 description: "## Taş Mescit: Dulkadiroğlu'nun Tarihî Bir Örneği..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Taş_mescit_panorama_4.jpg/1200px-Taş_mescit_panorama_4.jpg"
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9263382,37.5852127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Taş_mescit_panorama_4.jpg/1200px-Taş_mescit_panorama_4.jpg"
 ---
 
 ## Taş Mescit: Dulkadiroğlu'nun Tarihî Bir Örneği

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Kırmasırt | Miras Haritası"
-date: 2025-12-25T02:57:18+03:00
+title: "Roma Köprüsü, Kırmasırt"
+date: "2025-12-25T02:57:18+03:00"
 slug: "roma-koprusu-kirmasirt"
 description: "## Roma Köprüsü, Kırmasırt..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.3020882,37.8215287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Kırmasırt

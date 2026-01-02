@@ -1,18 +1,17 @@
 ---
-title: "İnönü Caves | Miras Haritası"
-date: 2025-12-25T08:19:43+03:00
+title: "İnönü Caves"
+date: "2025-12-25T08:19:43+03:00"
 slug: "inonu-caves"
 description: "**İnönü Mağaraları: Ankara'nın Gizli Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.244833333,40.219694444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İnönü Mağaraları: Ankara'nın Gizli Mirası**

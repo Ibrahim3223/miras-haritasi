@@ -1,18 +1,17 @@
 ---
-title: "Muğdat Camii | Miras Haritası"
-date: 2025-12-24T21:52:01+03:00
+title: "Muğdat Camii"
+date: "2025-12-24T21:52:01+03:00"
 slug: "mugdat-camii"
 description: "## Muğdat Camii: Mersin'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Muğdat_Mosque,_Mersin.jpg/1200px-Muğdat_Mosque,_Mersin.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mersin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.601335,36.782531"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Muğdat Camii: Mersin'in Tarihi Bir Mirası

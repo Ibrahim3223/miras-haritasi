@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Hasan Paşa Çeşmesi, İskenderpaşa | Miras Haritası"
-date: 2025-12-25T12:14:13+03:00
+title: "Seyyid Hasan Paşa Çeşmesi, İskenderpaşa"
+date: "2025-12-25T12:14:13+03:00"
 slug: "seyyid-hasan-pasa-cesmesi-iskenderpasa"
 description: "# Seyyid Hasan Paşa Çeşmesi, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.951603,41.012306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Seyyid Hasan Paşa Çeşmesi, İskenderpaşa

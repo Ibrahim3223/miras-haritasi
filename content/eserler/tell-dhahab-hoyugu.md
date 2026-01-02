@@ -1,18 +1,17 @@
 ---
-title: "Tell Dhahab Höyüğü | Miras Haritası"
-date: 2025-12-25T07:03:29+03:00
+title: "Tell Dhahab Höyüğü"
+date: "2025-12-25T07:03:29+03:00"
 slug: "tell-dhahab-hoyugu"
 description: "### Tell Dhahab Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.5302063,36.2671262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tell Dhahab Höyüğü

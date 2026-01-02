@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Felahiye | Miras Haritası"
-date: 2025-12-25T02:57:40+03:00
+title: "Roma Köprüsü, Felahiye"
+date: "2025-12-25T02:57:40+03:00"
 slug: "roma-koprusu-felahiye"
 description: "## Roma Köprüsü, Felahiye..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Felahiye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.345341,38.956581"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Felahiye

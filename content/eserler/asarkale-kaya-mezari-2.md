@@ -1,18 +1,17 @@
 ---
-title: "Asarkale Kaya Mezarı -2 | Miras Haritası"
-date: 2025-12-25T13:22:37+03:00
+title: "Asarkale Kaya Mezarı -2"
+date: "2025-12-25T13:22:37+03:00"
 slug: "asarkale-kaya-mezari-2"
 description: "## Asarkale Kaya Mezarı -2: Tarihî ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
+iller: '["Trabzon Vilayeti"]'
 district: "Bafra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.7647591,41.3736305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asarkale Kaya Mezarı -2: Tarihî ve Kültürel Mirasın Gizemi

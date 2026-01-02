@@ -1,18 +1,17 @@
 ---
-title: "Eşmekaya Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:00:32+03:00
+title: "Eşmekaya Ulu Camii"
+date: "2025-12-24T22:00:32+03:00"
 slug: "esmekaya-ulu-camii"
 description: "## Eşmekaya Ulu Camii: Türkiye'nin Gizli Çandırı..."
 featured_image: ""
 province: "Eskil"
-iller: ["Eskil"]
+iller: '["Eskil"]'
 district: "Eşmekaya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.441111111,38.264861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eşmekaya Ulu Camii: Türkiye'nin Gizli Çandırı

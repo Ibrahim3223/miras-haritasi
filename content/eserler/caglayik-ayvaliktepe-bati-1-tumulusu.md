@@ -1,18 +1,17 @@
 ---
-title: "Çağlayık Ayvalıktepe Batı 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:21:02+03:00
+title: "Çağlayık Ayvalıktepe Batı 1 Tümülüsü"
+date: "2025-12-25T07:21:02+03:00"
 slug: "caglayik-ayvaliktepe-bati-1-tumulusu"
 description: "## Çağlayık Ayvalıktepe Batı 1 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3474789,41.9930992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlayık Ayvalıktepe Batı 1 Tümülüsü

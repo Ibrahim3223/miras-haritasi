@@ -1,18 +1,17 @@
 ---
-title: "Uzungöl Dursun Ali İnan Müzesi | Miras Haritası"
-date: 2025-12-25T04:07:45+03:00
+title: "Uzungöl Dursun Ali İnan Müzesi"
+date: "2025-12-25T04:07:45+03:00"
 slug: "uzungol-dursun-ali-inan-muzesi"
 description: "## Uzungöl Dursun Ali İnan Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.303961111,40.617669444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzungöl Dursun Ali İnan Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Kocakayaviranı | Miras Haritası"
-date: 2025-12-25T05:28:08+03:00
+title: "Kocakayaviranı"
+date: "2025-12-25T05:28:08+03:00"
 slug: "kocakayavirani"
 description: "## Kocakayaviranı: Eskişehir'in Gizli İhtişamı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.124369,39.589779"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocakayaviranı: Eskişehir'in Gizli İhtişamı

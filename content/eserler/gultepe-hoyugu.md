@@ -1,18 +1,17 @@
 ---
-title: "Gültepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:33:14+03:00
+title: "Gültepe Höyüğü"
+date: "2025-12-25T06:33:14+03:00"
 slug: "gultepe-hoyugu"
 description: "### Gültepe Höyüğü: Kırıkkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Sulakyurt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8196491,40.1278493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gültepe Höyüğü: Kırıkkale'nin Gizli Mirası

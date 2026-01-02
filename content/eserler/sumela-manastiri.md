@@ -1,18 +1,17 @@
 ---
-title: "Sümela Manastırı | Miras Haritası"
-date: 2025-12-25T06:50:49+03:00
+title: "Sümela Manastırı"
+date: "2025-12-25T06:50:49+03:00"
 slug: "sumela-manastiri"
 description: "## Sümela Manastırı: Trabzon'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sümela_Manastır.jpg/1200px-Sümela_Manastır.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.65833333,40.69"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Sümela Manastırı: Trabzon'un Gizli Cenneti

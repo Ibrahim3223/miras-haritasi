@@ -1,18 +1,17 @@
 ---
-title: "Blakhernai Kapısı | Miras Haritası"
-date: 2025-12-25T13:16:15+03:00
+title: "Blakhernai Kapısı"
+date: "2025-12-25T13:16:15+03:00"
 slug: "blakhernai-kapisi"
 description: "## Blakhernai Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9411144,41.0392189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Blakhernai Kapısı

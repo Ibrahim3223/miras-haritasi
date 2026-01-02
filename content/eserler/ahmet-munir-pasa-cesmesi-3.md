@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Münir Paşa Çeşmesi 3 | Miras Haritası"
-date: 2025-12-25T10:57:38+03:00
+title: "Ahmet Münir Paşa Çeşmesi 3"
+date: "2025-12-25T10:57:38+03:00"
 slug: "ahmet-munir-pasa-cesmesi-3"
 description: "**Ahmet Münir Paşa Çeşmesi 3: Bursa'nın Gizli Çeşmesi**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0618439,40.1842422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ahmet Münir Paşa Çeşmesi 3: Bursa'nın Gizli Çeşmesi**

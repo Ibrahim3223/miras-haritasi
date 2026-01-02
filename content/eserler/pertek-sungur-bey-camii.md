@@ -1,18 +1,17 @@
 ---
-title: "Pertek Sungur Bey Camii | Miras Haritası"
-date: 2025-12-24T22:05:59+03:00
+title: "Pertek Sungur Bey Camii"
+date: "2025-12-24T22:05:59+03:00"
 slug: "pertek-sungur-bey-camii"
 description: "**Pertek Sungur Bey Camii: Tunceli'nin Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Pertek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.3202782,38.8672981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Pertek Sungur Bey Camii: Tunceli'nin Tarihi Bir Mirası**

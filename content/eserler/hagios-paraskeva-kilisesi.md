@@ -1,18 +1,17 @@
 ---
-title: "Hagios Paraskeva Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:37+03:00
+title: "Hagios Paraskeva Kilisesi"
+date: "2025-12-25T09:34:37+03:00"
 slug: "hagios-paraskeva-kilisesi"
 description: "## Hagios Paraskeva Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mustafakemalpaşa"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.6554794,40.1128578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hagios Paraskeva Kilisesi

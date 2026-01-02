@@ -1,18 +1,17 @@
 ---
-title: "Akdeniz Ayak Kurşunlu Medrese | Miras Haritası"
-date: 2025-12-25T17:39:19+03:00
+title: "Akdeniz Ayak Kurşunlu Medrese"
+date: "2025-12-25T17:39:19+03:00"
 slug: "akdeniz-ayak-kursunlu-medrese"
 description: "## Akdeniz Ayak Kurşunlu Medrese Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9479332,41.0196686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akdeniz Ayak Kurşunlu Medrese Tanıtımı

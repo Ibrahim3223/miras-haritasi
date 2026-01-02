@@ -1,18 +1,17 @@
 ---
-title: "Ahu Mahmud Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:11+03:00
+title: "Ahu Mahmud Dede Türbesi"
+date: "2025-12-25T15:20:11+03:00"
 slug: "ahu-mahmud-dede-turbesi"
 description: "## Ahu Mahmud Dede Türbesi: Eskişehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5260277,39.7626648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahu Mahmud Dede Türbesi: Eskişehir'in Gizli Kahramanı

@@ -1,18 +1,17 @@
 ---
-title: "Poyrazköy Kulesi | Miras Haritası"
-date: 2025-12-25T01:38:06+03:00
+title: "Poyrazköy Kulesi"
+date: "2025-12-25T01:38:06+03:00"
 slug: "poyrazkoy-kulesi"
 description: "## Poyrazköy Kulesi: İstanbul'un Gizli Ceziredeki Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.135179,41.2076588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Poyrazköy Kulesi: İstanbul'un Gizli Ceziredeki Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Tekke Önü Mescidi, Kale-i Tavas | Miras Haritası"
-date: 2025-12-25T00:49:13+03:00
+title: "Tekke Önü Mescidi, Kale-i Tavas"
+date: "2025-12-25T00:49:13+03:00"
 slug: "tekke-onu-mescidi-kale-i-tavas"
 description: "## Tekke Önü Mescidi, Kale-i Tavas..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8460636,37.4306793"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekke Önü Mescidi, Kale-i Tavas

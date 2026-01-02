@@ -1,18 +1,17 @@
 ---
-title: "Buzlukbaşı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:50+03:00
+title: "Buzlukbaşı Köprüsü"
+date: "2025-12-25T02:42:50+03:00"
 slug: "buzlukbasi-koprusu"
 description: "# Buzlukbaşı Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.5190582,38.0022545"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Buzlukbaşı Köprüsü

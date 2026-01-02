@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ahmet Buhara Türbesi | Miras Haritası"
-date: 2025-12-25T14:36:00+03:00
+title: "Şeyh Ahmet Buhara Türbesi"
+date: "2025-12-25T14:36:00+03:00"
 slug: "seyh-ahmet-buhara-turbesi"
 description: "## Şeyh Ahmet Buhara Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.960206,41.023192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Ahmet Buhara Türbesi

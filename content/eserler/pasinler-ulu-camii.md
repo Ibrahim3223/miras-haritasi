@@ -1,18 +1,17 @@
 ---
-title: "Pasinler Ulu Camii | Miras Haritası"
-date: 2025-12-25T01:09:53+03:00
+title: "Pasinler Ulu Camii"
+date: "2025-12-25T01:09:53+03:00"
 slug: "pasinler-ulu-camii"
 description: "### Pasinler Ulu Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Pasinler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.677833333,39.979277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pasinler Ulu Camii

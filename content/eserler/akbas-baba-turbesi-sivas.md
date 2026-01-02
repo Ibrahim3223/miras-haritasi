@@ -1,18 +1,17 @@
 ---
-title: "Akbaş Baba Türbesi Sivas | Miras Haritası"
-date: 2025-12-25T14:43:29+03:00
+title: "Akbaş Baba Türbesi Sivas"
+date: "2025-12-25T14:43:29+03:00"
 slug: "akbas-baba-turbesi-sivas"
 description: "## Akbaş Baba Türbesi Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0253716,39.7485313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akbaş Baba Türbesi Sivas

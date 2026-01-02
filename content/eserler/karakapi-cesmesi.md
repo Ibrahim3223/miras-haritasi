@@ -1,18 +1,17 @@
 ---
-title: "Karakapı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:50:12+03:00
+title: "Karakapı Çeşmesi"
+date: "2025-12-25T12:50:12+03:00"
 slug: "karakapi-cesmesi"
 description: "## Karakapı Çeşmesi: Tarihî Bir Anıtın Güncel Yüzü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.148262,38.4199867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakapı Çeşmesi: Tarihî Bir Anıtın Güncel Yüzü

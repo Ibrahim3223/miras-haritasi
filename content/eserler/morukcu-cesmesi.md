@@ -1,18 +1,17 @@
 ---
-title: "Morukçu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:54+03:00
+title: "Morukçu Çeşmesi"
+date: "2025-12-25T10:48:54+03:00"
 slug: "morukcu-cesmesi"
 description: "### Morukçu Çeşmesi: Nevşehir'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7130966,38.6215858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Morukçu Çeşmesi: Nevşehir'in Tarihi Bir Anıtı

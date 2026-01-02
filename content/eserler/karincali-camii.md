@@ -1,18 +1,17 @@
 ---
-title: "Karıncalı Camii | Miras Haritası"
-date: 2025-12-25T00:58:19+03:00
+title: "Karıncalı Camii"
+date: "2025-12-25T00:58:19+03:00"
 slug: "karincali-camii"
 description: "**Karıncalı Camii: Serik'in Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0237791,36.9535319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karıncalı Camii: Serik'in Tarihi Bir Mirası**

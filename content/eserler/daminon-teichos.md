@@ -1,18 +1,17 @@
 ---
-title: "Daminon Teichos | Miras Haritası"
-date: 2025-12-25T04:27:21+03:00
+title: "Daminon Teichos"
+date: "2025-12-25T04:27:21+03:00"
 slug: "daminon-teichos"
 description: "## Daminon Teichos: Antik Dünya'nın Gizemli Kalesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.03833333,41.05333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daminon Teichos: Antik Dünya'nın Gizemli Kalesi

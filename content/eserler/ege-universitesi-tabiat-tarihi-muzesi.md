@@ -1,18 +1,17 @@
 ---
-title: "Ege Üniversitesi Tabiat Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:53+03:00
+title: "Ege Üniversitesi Tabiat Tarihi Müzesi"
+date: "2025-12-25T03:10:53+03:00"
 slug: "ege-universitesi-tabiat-tarihi-muzesi"
 description: "## Ege Üniversitesi Tabiat Tarihi Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.231388888,38.458611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ege Üniversitesi Tabiat Tarihi Müzesi

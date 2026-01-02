@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Edebali Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:37+03:00
+title: "Şeyh Edebali Türbesi"
+date: "2025-12-25T15:06:37+03:00"
 slug: "seyh-edebali-turbesi"
 description: "## Şeyh Edebali Türbesi: Bilecik'in Tarihsel Değerleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Edebaliturbesi.jpg/1200px-Edebaliturbesi.jpg"
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.988194444,40.143611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyh Edebali Türbesi: Bilecik'in Tarihsel Değerleri

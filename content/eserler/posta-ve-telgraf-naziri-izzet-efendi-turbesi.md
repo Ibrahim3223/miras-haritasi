@@ -1,18 +1,17 @@
 ---
-title: "Posta ve Telgraf Nazırı İzzet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:06+03:00
+title: "Posta ve Telgraf Nazırı İzzet Efendi Türbesi"
+date: "2025-12-25T15:06:06+03:00"
 slug: "posta-ve-telgraf-naziri-izzet-efendi-turbesi"
 description: "## Posta ve Telgraf Nazırı İzzet Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Telgraf_Nazırı_İzzet_Efendi_Türbesi-Eyüp.jpg/1200px-Telgraf_Nazırı_İzzet_Efendi_Türbesi-Eyüp.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9352455,41.0480881"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Posta ve Telgraf Nazırı İzzet Efendi Türbesi

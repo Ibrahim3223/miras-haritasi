@@ -1,18 +1,18 @@
 ---
-title: "İsa Bey Camii | Miras Haritası"
-date: 2025-12-24T15:11:48+03:00
+title: "İsa Bey Camii"
+date: "2025-12-24T15:11:48+03:00"
 slug: "isa-bey-camii"
 description: "## İsa Bey Camii: İzmir'in Tarihi Bir Mirası..."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/İsa_Bey_Camii.jpg/1200px-İsa_Bey_Camii.jpg"
-province: "Türkiye"
-iller: ["İzmir"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.365833333,37.952222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/İsa_Bey_Camii.jpg/1200px-İsa_Bey_Camii.jpg"
 ---
 
 ## İsa Bey Camii: İzmir'in Tarihi Bir Mirası

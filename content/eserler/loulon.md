@@ -1,18 +1,17 @@
 ---
-title: "Loulon | Miras Haritası"
-date: 2025-12-25T01:15:49+03:00
+title: "Loulon"
+date: "2025-12-25T01:15:49+03:00"
 slug: "loulon"
 description: "### Loulon Kalesi: Ulukışla'da Geç Ortaçağ'ın Gizemi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Ulukışla"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.698888888,37.583055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Loulon Kalesi: Ulukışla'da Geç Ortaçağ'ın Gizemi

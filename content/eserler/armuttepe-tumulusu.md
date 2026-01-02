@@ -1,18 +1,17 @@
 ---
-title: "Armuttepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:46:08+03:00
+title: "Armuttepe Tümülüsü"
+date: "2025-12-25T07:46:08+03:00"
 slug: "armuttepe-tumulusu"
 description: "## Armuttepe Tümülüsü: Hayrabolu'nun Gizli Mabeti..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Hayrabolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9900455,41.1586113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Armuttepe Tümülüsü: Hayrabolu'nun Gizli Mabeti

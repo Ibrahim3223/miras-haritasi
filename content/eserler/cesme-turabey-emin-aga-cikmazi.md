@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Turabey, Emin Ağa Çıkmazı | Miras Haritası"
-date: 2025-12-25T12:50:24+03:00
+title: "Çeşme – Turabey, Emin Ağa Çıkmazı"
+date: "2025-12-25T12:50:24+03:00"
 slug: "cesme-turabey-emin-aga-cikmazi"
 description: "**Çeşme – Turabey, Emin Ağa Çıkmazı**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1814003,39.1209984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çeşme – Turabey, Emin Ağa Çıkmazı**

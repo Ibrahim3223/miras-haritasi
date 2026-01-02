@@ -1,18 +1,17 @@
 ---
-title: "Tell Halid | Miras Haritası"
-date: 2025-12-25T08:19:36+03:00
+title: "Tell Halid"
+date: "2025-12-25T08:19:36+03:00"
 slug: "tell-halid"
 description: "## Tell Halid Arkeolojik Sit..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.638611,36.7675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tell Halid Arkeolojik Sit

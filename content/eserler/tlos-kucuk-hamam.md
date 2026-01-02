@@ -1,18 +1,17 @@
 ---
-title: "Tlos Küçük Hamam | Miras Haritası"
-date: 2025-12-25T17:02:07+03:00
+title: "Tlos Küçük Hamam"
+date: "2025-12-25T17:02:07+03:00"
 slug: "tlos-kucuk-hamam"
 description: "## Tlos Küçük Hamamı: Seydikemer'in Gizli Çandırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arched_ruins_of_the_ancient_city_of_Tlos.jpg/1200px-Arched_ruins_of_the_ancient_city_of_Tlos.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.420002,36.5524559"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tlos Küçük Hamamı: Seydikemer'in Gizli Çandırı

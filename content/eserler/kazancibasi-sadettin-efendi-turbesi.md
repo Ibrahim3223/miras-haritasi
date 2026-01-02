@@ -1,18 +1,17 @@
 ---
-title: "Kazancıbaşı Sadettin Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T13:36:40+03:00
+title: "Kazancıbaşı Sadettin Efendi Türbesi"
+date: "2025-12-25T13:36:40+03:00"
 slug: "kazancibasi-sadettin-efendi-turbesi"
 description: "## Kazancıbaşı Sadettin Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.946466394,41.010611027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazancıbaşı Sadettin Efendi Türbesi

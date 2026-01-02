@@ -1,18 +1,17 @@
 ---
-title: "Nefise Hanım Çeşmesi, Dervişali | Miras Haritası"
-date: 2025-12-25T11:52:03+03:00
+title: "Nefise Hanım Çeşmesi, Dervişali"
+date: "2025-12-25T11:52:03+03:00"
 slug: "nefise-hanim-cesmesi-dervisali"
 description: "### Nefise Hanım Çeşmesi, Dervişali..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.940534,41.030226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nefise Hanım Çeşmesi, Dervişali

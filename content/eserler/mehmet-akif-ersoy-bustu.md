@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Akif Ersoy Büstü | Miras Haritası"
-date: 2025-12-25T15:47:50+03:00
+title: "Mehmet Akif Ersoy Büstü"
+date: "2025-12-25T15:47:50+03:00"
 slug: "mehmet-akif-ersoy-bustu"
 description: "## Mehmet Akif Ersoy Büstü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.974908,41.008012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Akif Ersoy Büstü

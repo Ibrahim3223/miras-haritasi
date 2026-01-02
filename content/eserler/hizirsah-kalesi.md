@@ -1,18 +1,17 @@
 ---
-title: "Hızırşah Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:48+03:00
+title: "Hızırşah Kalesi"
+date: "2025-12-25T01:23:48+03:00"
 slug: "hizirsah-kalesi"
 description: "## Hızırşah Kalesi: Datça'nın Gizli Çarpısı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.6537533,36.7413216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hızırşah Kalesi: Datça'nın Gizli Çarpısı

@@ -1,18 +1,17 @@
 ---
-title: "Bitik Höyük | Miras Haritası"
-date: 2025-12-25T07:00:31+03:00
+title: "Bitik Höyük"
+date: "2025-12-25T07:00:31+03:00"
 slug: "bitik-hoyuk"
 description: "## Bitik Höyük: Kahramankazan'ın Gizli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kahramankazan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.6218948,40.1214485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bitik Höyük: Kahramankazan'ın Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kadınca Höyük | Miras Haritası"
-date: 2025-12-25T06:39:31+03:00
+title: "Kadınca Höyük"
+date: "2025-12-25T06:39:31+03:00"
 slug: "kadinca-hoyuk"
 description: "# Kadınca Höyük: Kırşehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2880662,39.106249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kadınca Höyük: Kırşehir'in Gizli Kahramanı

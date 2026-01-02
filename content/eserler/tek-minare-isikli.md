@@ -1,18 +1,17 @@
 ---
-title: "Tek Minare, Işıklı | Miras Haritası"
-date: 2025-12-25T00:00:45+03:00
+title: "Tek Minare, Işıklı"
+date: "2025-12-25T00:00:45+03:00"
 slug: "tek-minare-isikli"
 description: "## Tek Minare, Işıklı Camisi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.8454876,38.323246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tek Minare, Işıklı Camisi

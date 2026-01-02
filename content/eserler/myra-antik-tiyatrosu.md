@@ -1,18 +1,17 @@
 ---
-title: "Myra Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:58+03:00
+title: "Myra Antik Tiyatrosu"
+date: "2025-12-25T04:14:58+03:00"
 slug: "myra-antik-tiyatrosu"
 description: "## Myra Antik Tiyatrosu: Türkiye'nin Bir Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Demre_Myra_06.JPG/1200px-Demre_Myra_06.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.98531,36.25895"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Myra Antik Tiyatrosu: Türkiye'nin Bir Tarihi ve Kültürel Mirası

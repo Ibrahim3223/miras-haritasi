@@ -1,18 +1,17 @@
 ---
-title: "Elâzığ Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:47+03:00
+title: "Elâzığ Protestan Kilisesi"
+date: "2025-12-25T08:50:47+03:00"
 slug: "elzig-protestan-kilisesi"
 description: "## Elâzığ Protestan Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Elazığ_66.jpg/1200px-Elazığ_66.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Elazığ"
+province: "Elazığ"
+iller: '["Elazığ"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.22444444,38.67722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Elâzığ Protestan Kilisesi

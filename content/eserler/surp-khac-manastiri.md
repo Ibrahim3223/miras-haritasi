@@ -1,18 +1,17 @@
 ---
-title: "Surp Khaç Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:14+03:00
+title: "Surp Khaç Manastırı"
+date: "2025-12-25T09:53:14+03:00"
 slug: "surp-khac-manastiri"
 description: "## Surp Khaç Manastırı..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Bahçesaray"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.7745094,38.1122704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Khaç Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Köyü VI Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:36:40+03:00
+title: "Elmalı Köyü VI Tümülüsü"
+date: "2025-12-25T07:36:40+03:00"
 slug: "elmali-koyu-vi-tumulusu"
 description: "## Elmalı Köyü VI Tümülüsü: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2562332,40.1633301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elmalı Köyü VI Tümülüsü: Bir Arkeolojik Sitin Gizemi

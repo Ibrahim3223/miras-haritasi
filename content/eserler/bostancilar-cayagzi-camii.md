@@ -1,18 +1,17 @@
 ---
-title: "Bostancılar Çayağzı Camii | Miras Haritası"
-date: 2025-12-25T00:56:32+03:00
+title: "Bostancılar Çayağzı Camii"
+date: "2025-12-25T00:56:32+03:00"
 slug: "bostancilar-cayagzi-camii"
 description: "## Bostancılar Çayağzı Camii: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5270654,40.8106038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bostancılar Çayağzı Camii: Artvin'in Tarihi ve Kültürel Mirası

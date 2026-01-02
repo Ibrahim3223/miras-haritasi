@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye Camii | Miras Haritası"
-date: 2025-12-24T21:41:05+03:00
+title: "Süleymaniye Camii"
+date: "2025-12-24T21:41:05+03:00"
 slug: "suleymaniye-camii"
 description: "## Süleymaniye Camii: İstanbul'un En Güzel Camileri Arasındaki İncili..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SüleymaniyeMosqueIstanbul_(cropped).jpg/1200px-SüleymaniyeMosqueIstanbul_(cropped).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.963888888,41.016111111"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Süleymaniye Camii: İstanbul'un En Güzel Camileri Arasındaki İncili

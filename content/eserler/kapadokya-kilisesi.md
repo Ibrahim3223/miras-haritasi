@@ -1,18 +1,17 @@
 ---
-title: "Kapadokya Kilisesi | Miras Haritası"
-date: 2025-12-25T09:42:57+03:00
+title: "Kapadokya Kilisesi"
+date: "2025-12-25T09:42:57+03:00"
 slug: "kapadokya-kilisesi"
 description: "## Kapadokya Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Kapadokya Kilisesi: Tarihî Bir Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Beylerli Höyük | Miras Haritası"
-date: 2025-12-25T06:12:40+03:00
+title: "Beylerli Höyük"
+date: "2025-12-25T06:12:40+03:00"
 slug: "beylerli-hoyuk"
 description: "### Beylerli Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çardak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.6213799,37.7137566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beylerli Höyük: Tarihî Bir Mirasın İzleri

@@ -1,18 +1,17 @@
 ---
-title: "Kadılar Şehri Anıtı, Ünye | Miras Haritası"
-date: 2025-12-25T15:49:00+03:00
+title: "Kadılar Şehri Anıtı, Ünye"
+date: "2025-12-25T15:49:00+03:00"
 slug: "kadilar-sehri-aniti-unye"
 description: "# Kadılar Şehri Anıtı: Ünye'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Ünye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.285481,41.130163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kadılar Şehri Anıtı: Ünye'nin Tarihî Bir Mirası

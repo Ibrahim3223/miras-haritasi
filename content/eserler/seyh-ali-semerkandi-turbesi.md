@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ali Semerkandi Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:29+03:00
+title: "Şeyh Ali Semerkandi Türbesi"
+date: "2025-12-25T15:12:29+03:00"
 slug: "seyh-ali-semerkandi-turbesi"
 description: "**Şeyh Ali Semerkandi Türbesi**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Gülnar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.526274,36.4464333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Ali Semerkandi Türbesi**

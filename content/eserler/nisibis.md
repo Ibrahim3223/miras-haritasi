@@ -1,18 +1,17 @@
 ---
-title: "Nisibis | Miras Haritası"
-date: 2025-12-25T04:35:46+03:00
+title: "Nisibis"
+date: "2025-12-25T04:35:46+03:00"
 slug: "nisibis"
 description: "## Nisibis: Tarihin Kaynağı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.21444444,37.07"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nisibis: Tarihin Kaynağı

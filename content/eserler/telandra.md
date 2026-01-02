@@ -1,18 +1,17 @@
 ---
-title: "Telandra | Miras Haritası"
-date: 2025-12-25T08:06:52+03:00
+title: "Telandra"
+date: "2025-12-25T08:06:52+03:00"
 slug: "telandra"
 description: "## Telandra: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.91585,36.674495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Telandra: Antik Bir Kentin İzleri

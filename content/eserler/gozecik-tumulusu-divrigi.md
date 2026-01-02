@@ -1,18 +1,17 @@
 ---
-title: "Gözecik Tümülüsü, Divriği | Miras Haritası"
-date: 2025-12-25T07:22:32+03:00
+title: "Gözecik Tümülüsü, Divriği"
+date: "2025-12-25T07:22:32+03:00"
 slug: "gozecik-tumulusu-divrigi"
 description: "## Gözecik Tümülüsü, Divriği..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.8135109,39.4238205"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gözecik Tümülüsü, Divriği

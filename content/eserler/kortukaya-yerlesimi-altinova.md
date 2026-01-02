@@ -1,18 +1,17 @@
 ---
-title: "Körtükaya Yerleşimi, Altınova | Miras Haritası"
-date: 2025-12-25T13:43:58+03:00
+title: "Körtükaya Yerleşimi, Altınova"
+date: "2025-12-25T13:43:58+03:00"
 slug: "kortukaya-yerlesimi-altinova"
 description: "## Körtükaya Yerleşimi: Altınova'nın Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.807968,39.233571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Körtükaya Yerleşimi: Altınova'nın Gizli Anıtı

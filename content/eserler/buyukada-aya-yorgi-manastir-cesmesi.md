@@ -1,18 +1,17 @@
 ---
-title: "Büyükada Aya Yorgi Manastır Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:28:22+03:00
+title: "Büyükada Aya Yorgi Manastır Çeşmesi"
+date: "2025-12-25T12:28:22+03:00"
 slug: "buyukada-aya-yorgi-manastir-cesmesi"
 description: "# Büyükada Aya Yorgi Manastır Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.118832,40.84866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Büyükada Aya Yorgi Manastır Çeşmesi

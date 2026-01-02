@@ -1,18 +1,17 @@
 ---
-title: "Olympos Küçük Hamam | Miras Haritası"
-date: 2025-12-25T17:11:41+03:00
+title: "Olympos Küçük Hamam"
+date: "2025-12-25T17:11:41+03:00"
 slug: "olympos-kucuk-hamam"
 description: "### Olympos Küçük Hamam..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.4761543,36.3951988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Olympos Küçük Hamam

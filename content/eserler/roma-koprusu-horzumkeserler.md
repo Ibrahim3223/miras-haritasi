@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Horzumkeserler | Miras Haritası"
-date: 2025-12-25T02:59:32+03:00
+title: "Roma Köprüsü, Horzumkeserler"
+date: "2025-12-25T02:59:32+03:00"
 slug: "roma-koprusu-horzumkeserler"
 description: "## Roma Köprüsü, Horzumkeserler: Alaşehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3240926,38.37779"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Horzumkeserler: Alaşehir'in Tarihi Bir Mirası

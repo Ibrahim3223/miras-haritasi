@@ -1,18 +1,17 @@
 ---
-title: "Palangatepe Höyük | Miras Haritası"
-date: 2025-12-25T05:57:04+03:00
+title: "Palangatepe Höyük"
+date: "2025-12-25T05:57:04+03:00"
 slug: "palangatepe-hoyuk"
 description: "## Palangatepe Höyük: İnegöl'ün Gizli Mimari Harikası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.47752,40.1126213"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palangatepe Höyük: İnegöl'ün Gizli Mimari Harikası

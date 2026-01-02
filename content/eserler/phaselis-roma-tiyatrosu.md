@@ -1,18 +1,17 @@
 ---
-title: "Phaselis Roma Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:15:02+03:00
+title: "Phaselis Roma Tiyatrosu"
+date: "2025-12-25T04:15:02+03:00"
 slug: "phaselis-roma-tiyatrosu"
 description: "## Phaselis Roma Tiyatrosu: Antik Şehirde Bir Gerçeklik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Phaselis_theatre_02.jpg/1200px-Phaselis_theatre_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.55269,36.52362"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Phaselis Roma Tiyatrosu: Antik Şehirde Bir Gerçeklik

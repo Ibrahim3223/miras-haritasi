@@ -1,18 +1,17 @@
 ---
-title: "Buğday Pazarı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:24+03:00
+title: "Buğday Pazarı Köprüsü"
+date: "2025-12-25T02:16:24+03:00"
 slug: "bugday-pazari-koprusu"
 description: "## Buğday Pazarı Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.4070873,38.6792526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Buğday Pazarı Köprüsü

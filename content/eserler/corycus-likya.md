@@ -1,18 +1,17 @@
 ---
-title: "Corycus (Likya) | Miras Haritası"
-date: 2025-12-25T08:33:18+03:00
+title: "Corycus (Likya)"
+date: "2025-12-25T08:33:18+03:00"
 slug: "corycus-likya"
 description: "## Corycus (Likya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.478555555,36.436138888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Corycus (Likya)

@@ -1,18 +1,17 @@
 ---
-title: "Gökdere Medresesi | Miras Haritası"
-date: 2025-12-25T17:28:20+03:00
+title: "Gökdere Medresesi"
+date: "2025-12-25T17:28:20+03:00"
 slug: "gokdere-medresesi"
 description: "### Gökdere Medresesi: Bursa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.071574,40.18386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökdere Medresesi: Bursa'nın Tarihî Mirası

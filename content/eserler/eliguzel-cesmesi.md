@@ -1,18 +1,17 @@
 ---
-title: "Eligüzel Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:42:32+03:00
+title: "Eligüzel Çeşmesi"
+date: "2025-12-25T10:42:32+03:00"
 slug: "eliguzel-cesmesi"
 description: "## Eligüzel Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7713318,41.3736305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eligüzel Çeşmesi

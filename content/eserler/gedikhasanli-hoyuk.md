@@ -1,18 +1,17 @@
 ---
-title: "Gedikhasanlı Höyük | Miras Haritası"
-date: 2025-12-25T06:26:34+03:00
+title: "Gedikhasanlı Höyük"
+date: "2025-12-25T06:26:34+03:00"
 slug: "gedikhasanli-hoyuk"
 description: "### Gedikhasanlı Höyük: Sorgun'un Gizli Tarihi..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sorgun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.1149439,39.5800071"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gedikhasanlı Höyük: Sorgun'un Gizli Tarihi

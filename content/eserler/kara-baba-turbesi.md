@@ -1,18 +1,17 @@
 ---
-title: "Kara Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:11+03:00
+title: "Kara Baba Türbesi"
+date: "2025-12-25T14:17:11+03:00"
 slug: "kara-baba-turbesi"
 description: "### Kara Baba Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.3874,37.058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kara Baba Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk ve Harbiyeli Anıtı | Miras Haritası"
-date: 2025-12-25T15:50:15+03:00
+title: "Atatürk ve Harbiyeli Anıtı"
+date: "2025-12-25T15:50:15+03:00"
 slug: "ataturk-ve-harbiyeli-aniti"
 description: "## Atatürk ve Harbiyeli Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8401718,39.9053917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk ve Harbiyeli Anıtı

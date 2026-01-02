@@ -1,18 +1,17 @@
 ---
-title: "Ilıcabaşı I | Miras Haritası"
-date: 2025-12-25T05:27:52+03:00
+title: "Ilıcabaşı I"
+date: "2025-12-25T05:27:52+03:00"
 slug: "ilicabasi-i"
 description: "## Ilıcabaşı I: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.00025,39.338367"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ilıcabaşı I: Eskişehir'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Hibetullah Burucerdioğlu Muzaffer Bey Türbesi | Miras Haritası"
-date: 2025-12-25T16:10:12+03:00
+title: "Hibetullah Burucerdioğlu Muzaffer Bey Türbesi"
+date: "2025-12-25T16:10:12+03:00"
 slug: "hibetullah-burucerdioglu-muzaffer-bey-turbesi"
 description: "## Hibetullah Burucerdioğlu Muzaffer Bey Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0151482,39.7491417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hibetullah Burucerdioğlu Muzaffer Bey Türbesi

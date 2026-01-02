@@ -1,18 +1,17 @@
 ---
-title: "Acıtepe Höyüğü | Miras Haritası"
-date: 2025-12-25T05:59:59+03:00
+title: "Acıtepe Höyüğü"
+date: "2025-12-25T05:59:59+03:00"
 slug: "acitepe-hoyugu"
 description: "## Acıtepe Höyüğü: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6974182,38.8793602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acıtepe Höyüğü: Tarihî Bir Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Şem’un Nebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:10+03:00
+title: "Şem’un Nebi Türbesi"
+date: "2025-12-25T14:16:10+03:00"
 slug: "semun-nebi-turbesi"
 description: "### Şem’un Nebi Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.116099,36.713219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şem’un Nebi Türbesi

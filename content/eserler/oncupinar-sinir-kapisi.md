@@ -1,18 +1,17 @@
 ---
-title: "Öncüpınar Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:36:19+03:00
+title: "Öncüpınar Sınır Kapısı"
+date: "2025-12-25T08:36:19+03:00"
 slug: "oncupinar-sinir-kapisi"
 description: "## Öncüpınar Sınır Kapısı: Tarihî Bir Kervansarayın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "37.08498,36.63353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Öncüpınar Sınır Kapısı: Tarihî Bir Kervansarayın Gizemi

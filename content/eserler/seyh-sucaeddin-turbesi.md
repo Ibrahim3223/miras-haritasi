@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Sücaeddin Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:46+03:00
+title: "Şeyh Sücaeddin Türbesi"
+date: "2025-12-25T14:39:46+03:00"
 slug: "seyh-sucaeddin-turbesi"
 description: "## Şeyh Sücaeddin Türbesi: Konya'nın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4956589,37.8844872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Sücaeddin Türbesi: Konya'nın Tarihî Bir Anıtı

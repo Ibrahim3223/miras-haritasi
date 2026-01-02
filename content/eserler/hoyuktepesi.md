@@ -1,18 +1,17 @@
 ---
-title: "Höyüktepesi | Miras Haritası"
-date: 2025-12-25T06:32:11+03:00
+title: "Höyüktepesi"
+date: "2025-12-25T06:32:11+03:00"
 slug: "hoyuktepesi"
 description: "## Höyüktepesi: Afyonkarahisar'ın Eski Köyü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Çay"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.128064,38.6080412"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Höyüktepesi: Afyonkarahisar'ın Eski Köyü

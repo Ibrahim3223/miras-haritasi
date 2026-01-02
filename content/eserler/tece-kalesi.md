@@ -1,18 +1,17 @@
 ---
-title: "Tece Kalesi | Miras Haritası"
-date: 2025-12-25T01:51:05+03:00
+title: "Tece Kalesi"
+date: "2025-12-25T01:51:05+03:00"
 slug: "tece-kalesi"
 description: "## Tece Kalesi: Mersin'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tece_Castle.jpg/1200px-Tece_Castle.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.45,36.71666667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tece Kalesi: Mersin'in Gizli Mirası

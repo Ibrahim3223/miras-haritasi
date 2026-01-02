@@ -1,18 +1,17 @@
 ---
-title: "Diolkides | Miras Haritası"
-date: 2025-12-25T04:47:26+03:00
+title: "Diolkides"
+date: "2025-12-25T04:47:26+03:00"
 slug: "diolkides"
 description: "**Diolkides**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.860234,40.72268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Diolkides**

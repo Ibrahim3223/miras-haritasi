@@ -1,18 +1,17 @@
 ---
-title: "Nerik | Miras Haritası"
-date: 2025-12-25T06:49:53+03:00
+title: "Nerik"
+date: "2025-12-25T06:49:53+03:00"
 slug: "nerik"
 description: "## Nerik: Samsun'un Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kultorte.png/1200px-Kultorte.png"
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Vezirköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.42,41.207"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nerik: Samsun'un Gizli Tarihi

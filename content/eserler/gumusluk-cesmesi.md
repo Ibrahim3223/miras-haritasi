@@ -1,18 +1,17 @@
 ---
-title: "Gümüşlük Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:15+03:00
+title: "Gümüşlük Çeşmesi"
+date: "2025-12-25T11:38:15+03:00"
 slug: "gumusluk-cesmesi"
 description: "### Gümüşlük Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7726765,37.317997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşlük Çeşmesi

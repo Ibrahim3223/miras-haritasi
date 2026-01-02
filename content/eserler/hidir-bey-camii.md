@@ -1,18 +1,17 @@
 ---
-title: "Hıdır Bey Camii | Miras Haritası"
-date: 2025-12-24T23:34:27+03:00
+title: "Hıdır Bey Camii"
+date: "2025-12-24T23:34:27+03:00"
 slug: "hidir-bey-camii"
 description: "**Hıdır Bey Camii**..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4874382,38.1947517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hıdır Bey Camii**

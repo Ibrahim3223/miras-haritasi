@@ -1,18 +1,17 @@
 ---
-title: "Ulamış Hamamı | Miras Haritası"
-date: 2025-12-25T16:54:21+03:00
+title: "Ulamış Hamamı"
+date: "2025-12-25T16:54:21+03:00"
 slug: "ulamis-hamami"
 description: "## Ulamış Hamamı: Seferihisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.8439007,38.2478981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulamış Hamamı: Seferihisar'ın Tarihi Bir Mirası

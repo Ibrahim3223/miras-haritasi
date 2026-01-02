@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Saatli Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:05:44+03:00
+title: "Hamidiye Saatli Çeşmesi"
+date: "2025-12-25T10:05:44+03:00"
 slug: "hamidiye-saatli-cesmesi"
 description: "### Hamidiye Saatli Çeşmesi: Yozgat'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
-province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: "Ankara Vilayeti"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.805888888,39.82175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamidiye Saatli Çeşmesi: Yozgat'ın Tarihi Bir Çeşmesi

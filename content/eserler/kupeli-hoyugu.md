@@ -1,18 +1,17 @@
 ---
-title: "Küpeli Höyüğü | Miras Haritası"
-date: 2025-12-25T06:27:51+03:00
+title: "Küpeli Höyüğü"
+date: "2025-12-25T06:27:51+03:00"
 slug: "kupeli-hoyugu"
 description: "## Küpeli Höyüğü: Şanlıurfa'nın Gizemi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.1027747,36.9575301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küpeli Höyüğü: Şanlıurfa'nın Gizemi

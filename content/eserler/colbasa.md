@@ -1,18 +1,17 @@
 ---
-title: "Colbasa | Miras Haritası"
-date: 2025-12-25T05:18:58+03:00
+title: "Colbasa"
+date: "2025-12-25T05:18:58+03:00"
 slug: "colbasa"
 description: "## Colbasa: Kapadokya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Colbasa: Kapadokya'nın Gizemli Arkeolojik Sitleri

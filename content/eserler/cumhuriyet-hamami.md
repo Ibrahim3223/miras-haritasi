@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Hamamı | Miras Haritası"
-date: 2025-12-25T16:43:46+03:00
+title: "Cumhuriyet Hamamı"
+date: "2025-12-25T16:43:46+03:00"
 slug: "cumhuriyet-hamami"
 description: "## Cumhuriyet Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.433794,38.611866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumhuriyet Hamamı

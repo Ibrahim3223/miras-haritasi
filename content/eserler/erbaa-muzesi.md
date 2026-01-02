@@ -1,18 +1,17 @@
 ---
-title: "Erbaa Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:43+03:00
+title: "Erbaa Müzesi"
+date: "2025-12-25T03:44:43+03:00"
 slug: "erbaa-muzesi"
 description: "## Erbaa Müzesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Erbaa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.567194444,40.672277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erbaa Müzesi

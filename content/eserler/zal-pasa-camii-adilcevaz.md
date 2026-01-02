@@ -1,18 +1,17 @@
 ---
-title: "Zal Paşa Camii, Adilcevaz | Miras Haritası"
-date: 2025-12-24T23:50:33+03:00
+title: "Zal Paşa Camii, Adilcevaz"
+date: "2025-12-24T23:50:33+03:00"
 slug: "zal-pasa-camii-adilcevaz"
 description: "## Zal Paşa Camii: Adilcevaz'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Adilcevaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.7310028,38.7992935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zal Paşa Camii: Adilcevaz'ın Gizli Mücevheri

@@ -1,18 +1,17 @@
 ---
-title: "Termessos Mamastis Mozolesi | Miras Haritası"
-date: 2025-12-25T14:05:15+03:00
+title: "Termessos Mamastis Mozolesi"
+date: "2025-12-25T14:05:15+03:00"
 slug: "termessos-mamastis-mozolesi"
 description: "## Termessos Mamastis Mozolesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.465425,36.980965"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Termessos Mamastis Mozolesi

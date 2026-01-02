@@ -1,18 +1,17 @@
 ---
-title: "Birinci Beylerbeyi Sarayı | Miras Haritası"
-date: 2025-12-25T13:14:50+03:00
+title: "Birinci Beylerbeyi Sarayı"
+date: "2025-12-25T13:14:50+03:00"
 slug: "birinci-beylerbeyi-sarayi"
 description: "# Birinci Beylerbeyi Sarayı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "29.04,41.0425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Birinci Beylerbeyi Sarayı

@@ -1,18 +1,17 @@
 ---
-title: "Bayramlı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:31+03:00
+title: "Bayramlı Kilisesi"
+date: "2025-12-25T09:27:31+03:00"
 slug: "bayramli-kilisesi"
 description: "## Bayramlı Kilisesi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.8205757,41.3078041"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayramlı Kilisesi: Edirne'nin Gizli Cenneti

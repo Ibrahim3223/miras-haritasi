@@ -1,18 +1,17 @@
 ---
-title: "Çorlulu Ali Paşa Çeşmesi, Mollafenari | Miras Haritası"
-date: 2025-12-25T13:11:03+03:00
+title: "Çorlulu Ali Paşa Çeşmesi, Mollafenari"
+date: "2025-12-25T13:11:03+03:00"
 slug: "corlulu-ali-pasa-cesmesi-mollafenari"
 description: "## Çorlulu Ali Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9684334,41.0088615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çorlulu Ali Paşa Çeşmesi

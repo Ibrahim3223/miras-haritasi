@@ -1,18 +1,17 @@
 ---
-title: "Hacıumur B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:19:39+03:00
+title: "Hacıumur B Tümülüsü"
+date: "2025-12-25T07:19:39+03:00"
 slug: "haciumur-b-tumulusu"
 description: "## Hacıumur B Tümülüsü: Edirne'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7675209,41.6970062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıumur B Tümülüsü: Edirne'nin Gizli Kahramanı

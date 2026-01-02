@@ -1,18 +1,17 @@
 ---
-title: "Hz. Ömer Kabala Eski Camii | Miras Haritası"
-date: 2025-12-25T00:45:11+03:00
+title: "Hz. Ömer Kabala Eski Camii"
+date: "2025-12-25T00:45:11+03:00"
 slug: "hz-omer-kabala-eski-camii"
 description: "## Hz. Ömer Kabala Eski Camii..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.808947,37.354237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hz. Ömer Kabala Eski Camii

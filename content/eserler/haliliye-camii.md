@@ -1,18 +1,17 @@
 ---
-title: "Haliliye Camii | Miras Haritası"
-date: 2025-12-24T23:32:47+03:00
+title: "Haliliye Camii"
+date: "2025-12-24T23:32:47+03:00"
 slug: "haliliye-camii"
 description: "## Haliliye Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.3168907,37.7564735"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haliliye Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası

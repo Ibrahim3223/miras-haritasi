@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Kutsal Aposteles Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:07+03:00
+title: "Anemurium Kutsal Aposteles Kilisesi"
+date: "2025-12-25T09:32:07+03:00"
 slug: "anemurium-kutsal-aposteles-kilisesi"
 description: "## Anemurium Kutsal Aposteles Kilisesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.8040962,36.0217361"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anemurium Kutsal Aposteles Kilisesi

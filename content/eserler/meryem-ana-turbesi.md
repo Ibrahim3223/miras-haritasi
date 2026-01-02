@@ -1,18 +1,17 @@
 ---
-title: "Meryem Ana Türbesi | Miras Haritası"
-date: 2025-12-25T14:59:36+03:00
+title: "Meryem Ana Türbesi"
+date: "2025-12-25T14:59:36+03:00"
 slug: "meryem-ana-turbesi"
 description: "## Meryem Ana Türbesi: Aydın'ın Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.4844799,37.6632767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meryem Ana Türbesi: Aydın'ın Kültürel Mirası

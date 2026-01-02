@@ -1,18 +1,17 @@
 ---
-title: "Adilhan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:50:11+03:00
+title: "Adilhan Köprüsü"
+date: "2025-12-25T02:50:11+03:00"
 slug: "adilhan-koprusu"
 description: "## Adilhan Köprüsü: Gelibolu' nun Gizli Çehresi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.7879868,40.6732864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adilhan Köprüsü: Gelibolu' nun Gizli Çehresi

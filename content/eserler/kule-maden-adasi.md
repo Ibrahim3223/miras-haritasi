@@ -1,18 +1,17 @@
 ---
-title: "Kule, Maden Adası | Miras Haritası"
-date: 2025-12-25T01:37:51+03:00
+title: "Kule, Maden Adası"
+date: "2025-12-25T01:37:51+03:00"
 slug: "kule-maden-adasi"
 description: "## Kule, Maden Adası: Ayvalık'ın Tarihî Bir Zirvesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.584845768,39.38265887"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kule, Maden Adası: Ayvalık'ın Tarihî Bir Zirvesi

@@ -1,18 +1,17 @@
 ---
-title: "Mardin Sakıp Sabancı Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:59:42+03:00
+title: "Mardin Sakıp Sabancı Kent Müzesi"
+date: "2025-12-25T03:59:42+03:00"
 slug: "mardin-sakip-sabanci-kent-muzesi"
 description: "## Mardin Sakıp Sabancı Kent Müzesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.746210709,37.314867825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mardin Sakıp Sabancı Kent Müzesi

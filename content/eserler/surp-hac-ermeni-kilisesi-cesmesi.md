@@ -1,18 +1,17 @@
 ---
-title: "Surp Haç Ermeni Kilisesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:16:40+03:00
+title: "Surp Haç Ermeni Kilisesi Çeşmesi"
+date: "2025-12-25T12:16:40+03:00"
 slug: "surp-hac-ermeni-kilisesi-cesmesi"
 description: "## Surp Haç Ermeni Kilisesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0349125,41.0604636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Haç Ermeni Kilisesi Çeşmesi

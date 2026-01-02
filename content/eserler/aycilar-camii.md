@@ -1,18 +1,17 @@
 ---
-title: "Aycılar Camii | Miras Haritası"
-date: 2025-12-24T22:14:03+03:00
+title: "Aycılar Camii"
+date: "2025-12-24T22:14:03+03:00"
 slug: "aycilar-camii"
 description: "## Aycılar Camii: Kastamonu'nun Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kastamonu"
+province: "Kastamonu"
+iller: '["Kastamonu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7821236,41.3809128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aycılar Camii: Kastamonu'nun Tarihî Mirası

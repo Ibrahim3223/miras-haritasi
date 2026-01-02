@@ -1,18 +1,17 @@
 ---
-title: "Ladik Paşa Meydanı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:40+03:00
+title: "Ladik Paşa Meydanı Çeşmesi"
+date: "2025-12-25T11:36:40+03:00"
 slug: "ladik-pasa-meydani-cesmesi"
 description: "## Ladik Paşa Meydanı Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Sarayönü"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.3747559,38.191494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ladik Paşa Meydanı Çeşmesi

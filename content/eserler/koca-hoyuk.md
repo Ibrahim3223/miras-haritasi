@@ -1,18 +1,17 @@
 ---
-title: "Koca Höyük | Miras Haritası"
-date: 2025-12-25T06:15:40+03:00
+title: "Koca Höyük"
+date: "2025-12-25T06:15:40+03:00"
 slug: "koca-hoyuk"
 description: "## Koca Höyük: Mardin'in Gizli Zenginliği..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Savur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.671948056,37.725909212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Höyük: Mardin'in Gizli Zenginliği

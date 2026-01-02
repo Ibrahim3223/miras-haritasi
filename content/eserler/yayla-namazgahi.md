@@ -1,18 +1,17 @@
 ---
-title: "Yayla Namazgahı | Miras Haritası"
-date: 2025-12-25T10:31:55+03:00
+title: "Yayla Namazgahı"
+date: "2025-12-25T10:31:55+03:00"
 slug: "yayla-namazgahi"
 description: "## Yayla Namazgahı: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4459991,37.5895996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yayla Namazgahı: Aydın'ın Tarihi Bir Çeşmesi

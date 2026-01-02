@@ -1,18 +1,17 @@
 ---
-title: "Sırahöyükler D Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:41:02+03:00
+title: "Sırahöyükler D Tümülüsü"
+date: "2025-12-25T07:41:02+03:00"
 slug: "sirahoyukler-d-tumulusu"
 description: "# Sırahöyükler D Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7892036,41.8330154"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sırahöyükler D Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Kırık Minare, Silvan | Miras Haritası"
-date: 2025-12-25T00:10:28+03:00
+title: "Kırık Minare, Silvan"
+date: "2025-12-25T00:10:28+03:00"
 slug: "kirik-minare-silvan"
 description: "## Kırık Minare, Silvan..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.0096092,38.1342239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırık Minare, Silvan

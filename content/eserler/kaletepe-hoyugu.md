@@ -1,18 +1,17 @@
 ---
-title: "Kaletepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:04:18+03:00
+title: "Kaletepe Höyüğü"
+date: "2025-12-25T06:04:18+03:00"
 slug: "kaletepe-hoyugu"
 description: "## Kaletepe Höyüğü: Malatya'nın Gizli Kahramanları..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yeşilyurt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.2176819,38.2837715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaletepe Höyüğü: Malatya'nın Gizli Kahramanları

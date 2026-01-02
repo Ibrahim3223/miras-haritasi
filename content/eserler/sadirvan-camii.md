@@ -1,18 +1,17 @@
 ---
-title: "Şadırvan Camii | Miras Haritası"
-date: 2025-12-24T23:53:28+03:00
+title: "Şadırvan Camii"
+date: "2025-12-24T23:53:28+03:00"
 slug: "sadirvan-camii"
 description: "## Şadırvan Camii: Bartın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Bartın"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.33815,41.6318817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şadırvan Camii: Bartın'ın Tarihi Bir Mirası

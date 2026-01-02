@@ -1,18 +1,17 @@
 ---
-title: "Üsküpdere Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:18:24+03:00
+title: "Üsküpdere Köyü Camii"
+date: "2025-12-24T23:18:24+03:00"
 slug: "uskupdere-koyu-camii"
 description: "### Üsküpdere Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3639374,41.6874771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üsküpdere Köyü Camii

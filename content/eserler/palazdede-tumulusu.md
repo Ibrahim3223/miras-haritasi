@@ -1,18 +1,17 @@
 ---
-title: "Palazdede Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:26:12+03:00
+title: "Palazdede Tümülüsü"
+date: "2025-12-25T07:26:12+03:00"
 slug: "palazdede-tumulusu"
 description: "## Palazdede Tümülüsü: Akhisar'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8773346,38.834034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palazdede Tümülüsü: Akhisar'ın Gizli Kahramanı

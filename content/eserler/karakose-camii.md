@@ -1,18 +1,17 @@
 ---
-title: "Karaköse Camii | Miras Haritası"
-date: 2025-12-24T23:40:13+03:00
+title: "Karaköse Camii"
+date: "2025-12-24T23:40:13+03:00"
 slug: "karakose-camii"
 description: "### Karaköse Camii: Erzurum'un Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.271389,39.9076462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaköse Camii: Erzurum'un Tarihî Bir Mirası

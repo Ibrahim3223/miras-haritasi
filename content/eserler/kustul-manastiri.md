@@ -1,18 +1,17 @@
 ---
-title: "Kuştul Manastırı | Miras Haritası"
-date: 2025-12-25T08:39:46+03:00
+title: "Kuştul Manastırı"
+date: "2025-12-25T08:39:46+03:00"
 slug: "kustul-manastiri"
 description: "## Kuştul Manastırı: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kustul_Monastery_Trabzon.jpg/1200px-Kustul_Monastery_Trabzon.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.7067919,40.8025316"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kuştul Manastırı: Tarihi ve Kültürel Mirasın Bir Parçası

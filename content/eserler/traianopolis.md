@@ -1,18 +1,17 @@
 ---
-title: "Traianopolis | Miras Haritası"
-date: 2025-12-25T06:14:57+03:00
+title: "Traianopolis"
+date: "2025-12-25T06:14:57+03:00"
 slug: "traianopolis"
 description: "# Traianopolis: Tarih Öncesi ve Roma Dönemi'nin Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Uşak"
+province: "Uşak"
+iller: '["Uşak"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.530078253,38.6690755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Traianopolis: Tarih Öncesi ve Roma Dönemi'nin Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Pazarbaşı Hamamı | Miras Haritası"
-date: 2025-12-25T17:00:47+03:00
+title: "Pazarbaşı Hamamı"
+date: "2025-12-25T17:00:47+03:00"
 slug: "pazarbasi-hamami"
 description: "## Pazarbaşı Hamamı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Burhaniye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.9841385,39.5023727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazarbaşı Hamamı

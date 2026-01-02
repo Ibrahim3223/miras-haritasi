@@ -1,18 +1,17 @@
 ---
-title: "Atatürk ve Milli Mücadele Anı Evi | Miras Haritası"
-date: 2025-12-25T03:40:02+03:00
+title: "Atatürk ve Milli Mücadele Anı Evi"
+date: "2025-12-25T03:40:02+03:00"
 slug: "ataturk-ve-milli-mucadele-ani-evi"
 description: "**Atatürk ve Milli Mücadele Anı Evi**..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9213772,40.764801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Atatürk ve Milli Mücadele Anı Evi**

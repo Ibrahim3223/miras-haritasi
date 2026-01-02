@@ -1,18 +1,17 @@
 ---
-title: "Kırbaş Camii | Miras Haritası"
-date: 2025-12-25T00:57:30+03:00
+title: "Kırbaş Camii"
+date: "2025-12-25T00:57:30+03:00"
 slug: "kirbas-camii"
 description: "### Kırbaş Camii Tanıtımı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9940939,36.5499118"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırbaş Camii Tanıtımı

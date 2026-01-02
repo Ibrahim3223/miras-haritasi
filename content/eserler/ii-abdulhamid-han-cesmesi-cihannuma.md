@@ -1,18 +1,17 @@
 ---
-title: "II. Abdülhamid Han Çeşmesi, Cihannüma | Miras Haritası"
-date: 2025-12-25T13:10:18+03:00
+title: "II. Abdülhamid Han Çeşmesi, Cihannüma"
+date: "2025-12-25T13:10:18+03:00"
 slug: "ii-abdulhamid-han-cesmesi-cihannuma"
 description: "## II. Abdülhamid Han Çeşmesi, Cihannüma..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/II._Abdülhamid_Han_Çeşmesi,_Cihannüma_IMG_9470.jpg/1200px-II._Abdülhamid_Han_Çeşmesi,_Cihannüma_IMG_9470.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0084305,41.0458565"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## II. Abdülhamid Han Çeşmesi, Cihannüma

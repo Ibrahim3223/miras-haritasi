@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Kozluk | Miras Haritası"
-date: 2025-12-25T16:43:08+03:00
+title: "Hamam, Kozluk"
+date: "2025-12-25T16:43:08+03:00"
 slug: "hamam-kozluk"
 description: "### Hamam, Kozluk: Tarihî ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "41.4862785,38.1899986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamam, Kozluk: Tarihî ve Kültürel Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Mevlevihane Camii | Miras Haritası"
-date: 2025-12-25T00:58:11+03:00
+title: "Mevlevihane Camii"
+date: "2025-12-25T00:58:11+03:00"
 slug: "mevlevihane-camii"
 description: "## Mevlevihane Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7909546,37.1493111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mevlevihane Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası

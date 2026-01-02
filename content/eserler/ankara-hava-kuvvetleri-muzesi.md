@@ -1,18 +1,17 @@
 ---
-title: "Ankara Hava Kuvvetleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:07:40+03:00
+title: "Ankara Hava Kuvvetleri Müzesi"
+date: "2025-12-25T03:07:40+03:00"
 slug: "ankara-hava-kuvvetleri-muzesi"
 description: "## Ankara Hava Kuvvetleri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/North_American_F-100C_Super_Sabre,_Turkey_-_Air_Force_AN1277217.jpg/1200px-North_American_F-100C_Super_Sabre,_Turkey_-_Air_Force_AN1277217.jpg"
 province: "Etimesgut"
-iller: ["Etimesgut"]
+iller: '["Etimesgut"]'
 district: "Erler"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.70425,39.948083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ankara Hava Kuvvetleri Müzesi

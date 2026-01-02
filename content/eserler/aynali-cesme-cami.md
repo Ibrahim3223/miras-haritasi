@@ -1,18 +1,17 @@
 ---
-title: "Aynalı Çeşme Cami | Miras Haritası"
-date: 2025-12-24T22:47:59+03:00
+title: "Aynalı Çeşme Cami"
+date: "2025-12-24T22:47:59+03:00"
 slug: "aynali-cesme-cami"
 description: "## Aynalı Çeşme Cami: Fatih'in Gizli Cenneti..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Molla Gürani"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9405727,41.0137024"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aynalı Çeşme Cami: Fatih'in Gizli Cenneti

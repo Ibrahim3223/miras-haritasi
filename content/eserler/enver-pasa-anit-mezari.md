@@ -1,18 +1,17 @@
 ---
-title: "Enver Paşa Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:10:33+03:00
+title: "Enver Paşa Anıt Mezarı"
+date: "2025-12-25T14:10:33+03:00"
 slug: "enver-pasa-anit-mezari"
 description: "## Enver Paşa Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9821,41.067672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Enver Paşa Anıt Mezarı

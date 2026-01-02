@@ -1,18 +1,18 @@
 ---
-title: "Hüdâvent Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T13:53:42+03:00
+title: "Hüdâvent Hatun Türbesi"
+date: "2025-12-25T13:53:42+03:00"
 slug: "hudvent-hatun-turbesi"
 description: "## Hüdâvent Hatun Türbesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hüdâvend_Hatun_Kümbeti.jpg/1200px-Hüdâvend_Hatun_Kümbeti.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2784462,39.9052277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hüdâvend_Hatun_Kümbeti.jpg/1200px-Hüdâvend_Hatun_Kümbeti.jpg"
 ---
 
 ## Hüdâvent Hatun Türbesi

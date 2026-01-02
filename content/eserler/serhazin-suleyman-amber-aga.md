@@ -1,18 +1,17 @@
 ---
-title: "Serhazin Süleyman Amber Ağa | Miras Haritası"
-date: 2025-12-24T22:02:46+03:00
+title: "Serhazin Süleyman Amber Ağa"
+date: "2025-12-24T22:02:46+03:00"
 slug: "serhazin-suleyman-amber-aga"
 description: "## Serhazin Süleyman Amber Ağa Camii: Beşiktaş'taki Gizli Cennet..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Serhazin_Süleyman_Amber_Ağa_Camii_dışardan.jpg/1200px-Serhazin_Süleyman_Amber_Ağa_Camii_dışardan.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.008527777,41.043666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Serhazin Süleyman Amber Ağa Camii: Beşiktaş'taki Gizli Cennet

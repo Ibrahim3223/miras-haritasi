@@ -1,18 +1,17 @@
 ---
-title: "Çökön Meydanı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:26:57+03:00
+title: "Çökön Meydanı Çeşmesi"
+date: "2025-12-25T12:26:57+03:00"
 slug: "cokon-meydani-cesmesi"
 description: "## Çökön Meydanı Çeşmesi: Safranbolu'nun Kültürel Güzelliği..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.798067136,41.222903604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çökön Meydanı Çeşmesi: Safranbolu'nun Kültürel Güzelliği

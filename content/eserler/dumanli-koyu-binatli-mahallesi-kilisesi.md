@@ -1,18 +1,17 @@
 ---
-title: "Dumanlı Köyü Binatlı Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:14:42+03:00
+title: "Dumanlı Köyü Binatlı Mahallesi Kilisesi"
+date: "2025-12-25T09:14:42+03:00"
 slug: "dumanli-koyu-binatli-mahallesi-kilisesi"
 description: "## Dumanlı Köyü Binatlı Mahallesi Kilisesi: Trabzon'un Gizli Cenneti..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.8029,40.672097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumanlı Köyü Binatlı Mahallesi Kilisesi: Trabzon'un Gizli Cenneti

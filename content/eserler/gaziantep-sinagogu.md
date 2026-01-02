@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:01+03:00
+title: "Gaziantep Sinagogu"
+date: "2025-12-25T16:12:01+03:00"
 slug: "gaziantep-sinagogu"
 description: "## Gaziantep Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gaziantep_Former_Synagogue_0915.jpg/1200px-Gaziantep_Former_Synagogue_0915.jpg"
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Gaziantep"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "37.381645,37.064166"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gaziantep Sinagogu

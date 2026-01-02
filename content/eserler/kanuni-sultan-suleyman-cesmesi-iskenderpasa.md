@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Sultan Süleyman Çeşmesi, İskenderpaşa | Miras Haritası"
-date: 2025-12-25T12:01:35+03:00
+title: "Kanuni Sultan Süleyman Çeşmesi, İskenderpaşa"
+date: "2025-12-25T12:01:35+03:00"
 slug: "kanuni-sultan-suleyman-cesmesi-iskenderpasa"
 description: "## Kanuni Sultan Süleyman Çeşmesi, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9504681,41.012413"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanuni Sultan Süleyman Çeşmesi, İskenderpaşa

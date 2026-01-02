@@ -1,18 +1,17 @@
 ---
-title: "Bozdağ Savunma Yapısı, Karacaağaç | Miras Haritası"
-date: 2025-12-25T01:29:05+03:00
+title: "Bozdağ Savunma Yapısı, Karacaağaç"
+date: "2025-12-25T01:29:05+03:00"
 slug: "bozdag-savunma-yapisi-karacaagac"
 description: "## Bozdağ Savunma Yapısı, Karacaağaç..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.8856831,37.1776276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozdağ Savunma Yapısı, Karacaağaç

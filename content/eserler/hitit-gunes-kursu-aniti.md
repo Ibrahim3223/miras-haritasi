@@ -1,18 +1,17 @@
 ---
-title: "Hitit Güneş Kursu Anıtı | Miras Haritası"
-date: 2025-12-25T15:40:22+03:00
+title: "Hitit Güneş Kursu Anıtı"
+date: "2025-12-25T15:40:22+03:00"
 slug: "hitit-gunes-kursu-aniti"
 description: "### Hitit Güneş Kursu Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hatti_Güneş_Kursu2.jpg/1200px-Hatti_Güneş_Kursu2.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.85520278,39.92671944"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hitit Güneş Kursu Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Dikmenhöyük | Miras Haritası"
-date: 2025-12-25T06:10:38+03:00
+title: "Dikmenhöyük"
+date: "2025-12-25T06:10:38+03:00"
 slug: "dikmenhoyuk"
 description: "### Dikmenhöyük: Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.0192451,39.9871559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dikmenhöyük: Tarihi ve Kültür Mirası

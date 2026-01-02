@@ -1,18 +1,17 @@
 ---
-title: "Kaptan İbrahim Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:07:06+03:00
+title: "Kaptan İbrahim Paşa Sebili"
+date: "2025-12-25T13:07:06+03:00"
 slug: "kaptan-ibrahim-pasa-sebili"
 description: "## Kaptan İbrahim Paşa Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.962467,41.012669"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaptan İbrahim Paşa Sebili

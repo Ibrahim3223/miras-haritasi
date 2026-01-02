@@ -1,18 +1,17 @@
 ---
-title: "Babam Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:45+03:00
+title: "Babam Sultan Türbesi"
+date: "2025-12-25T15:12:45+03:00"
 slug: "babam-sultan-turbesi"
 description: "## Babam Sultan Türbesi: Sakarya'da Bir Geçmişe Yolculuk..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Pamukova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1648843,40.5146051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Babam Sultan Türbesi: Sakarya'da Bir Geçmişe Yolculuk

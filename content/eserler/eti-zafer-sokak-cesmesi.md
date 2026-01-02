@@ -1,18 +1,17 @@
 ---
-title: "Eti Zafer Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:25:41+03:00
+title: "Eti Zafer Sokak Çeşmesi"
+date: "2025-12-25T10:25:41+03:00"
 slug: "eti-zafer-sokak-cesmesi"
 description: "**Eti Zafer Sokak Çeşmesi**..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8577995,39.9427567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Eti Zafer Sokak Çeşmesi**

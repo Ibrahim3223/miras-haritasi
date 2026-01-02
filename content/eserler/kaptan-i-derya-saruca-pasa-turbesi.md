@@ -1,18 +1,17 @@
 ---
-title: "Kaptan-ı Derya Saruca Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:59:01+03:00
+title: "Kaptan-ı Derya Saruca Paşa Türbesi"
+date: "2025-12-25T14:59:01+03:00"
 slug: "kaptan-i-derya-saruca-pasa-turbesi"
 description: "## Kaptan-ı Derya Saruca Paşa Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6781521,40.4110985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaptan-ı Derya Saruca Paşa Türbesi

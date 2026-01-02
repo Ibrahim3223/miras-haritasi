@@ -1,18 +1,17 @@
 ---
-title: "Mucur Yeraltı Şehri | Miras Haritası"
-date: 2025-12-25T03:35:17+03:00
+title: "Mucur Yeraltı Şehri"
+date: "2025-12-25T03:35:17+03:00"
 slug: "mucur-yeralti-sehri"
 description: "**Mucur Yeraltı Şehri: Kırşehir'de Gizlenen Tarih**..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mucur Yeraltı Şehri: Kırşehir'de Gizlenen Tarih**

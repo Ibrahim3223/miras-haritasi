@@ -1,18 +1,17 @@
 ---
-title: "Hazinedar Hoşnadi Usta Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:01+03:00
+title: "Hazinedar Hoşnadi Usta Çeşmesi"
+date: "2025-12-25T11:00:01+03:00"
 slug: "hazinedar-hosnadi-usta-cesmesi"
 description: "## Hazinedar Hoşnadi Usta Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9355679,41.0417747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hazinedar Hoşnadi Usta Çeşmesi

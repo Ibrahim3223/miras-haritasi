@@ -1,18 +1,17 @@
 ---
-title: "Kılıç Ali Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:22+03:00
+title: "Kılıç Ali Paşa Türbesi"
+date: "2025-12-25T14:33:22+03:00"
 slug: "kilic-ali-pasa-turbesi"
 description: "### Kılıç Ali Paşa Türbesi: İstanbul'un Güzellerinden..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9812845,41.0262683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kılıç Ali Paşa Türbesi: İstanbul'un Güzellerinden

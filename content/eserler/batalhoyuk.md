@@ -1,18 +1,17 @@
 ---
-title: "Batalhöyük | Miras Haritası"
-date: 2025-12-25T06:03:20+03:00
+title: "Batalhöyük"
+date: "2025-12-25T06:03:20+03:00"
 slug: "batalhoyuk"
 description: "## Batalhöyük: Türkiye'nin Gizli Hazineleri..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.34355522,37.060071943"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Batalhöyük: Türkiye'nin Gizli Hazineleri

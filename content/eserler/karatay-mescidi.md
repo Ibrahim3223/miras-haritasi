@@ -1,18 +1,17 @@
 ---
-title: "Karatay Mescidi | Miras Haritası"
-date: 2025-12-24T23:44:09+03:00
+title: "Karatay Mescidi"
+date: "2025-12-24T23:44:09+03:00"
 slug: "karatay-mescidi"
 description: "## Karatay Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4659157,37.872036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karatay Mescidi

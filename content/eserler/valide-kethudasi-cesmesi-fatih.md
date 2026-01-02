@@ -1,18 +1,17 @@
 ---
-title: "Valide Kethüdası Çeşmesi, Fatih | Miras Haritası"
-date: 2025-12-25T11:52:17+03:00
+title: "Valide Kethüdası Çeşmesi, Fatih"
+date: "2025-12-25T11:52:17+03:00"
 slug: "valide-kethudasi-cesmesi-fatih"
 description: "### Valide Kethüdası Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.966055,41.016106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Valide Kethüdası Çeşmesi

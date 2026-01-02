@@ -1,18 +1,17 @@
 ---
-title: "Temenye Höyüğü | Miras Haritası"
-date: 2025-12-25T07:09:42+03:00
+title: "Temenye Höyüğü"
+date: "2025-12-25T07:09:42+03:00"
 slug: "temenye-hoyugu"
 description: "## Temenye Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.2538376,40.8726082"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Temenye Höyüğü

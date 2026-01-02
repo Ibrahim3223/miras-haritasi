@@ -1,18 +1,17 @@
 ---
-title: "Mahmud Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:37:46+03:00
+title: "Mahmud Efendi Çeşmesi"
+date: "2025-12-25T10:37:46+03:00"
 slug: "mahmud-efendi-cesmesi"
 description: "**Mahmud Efendi Çeşmesi: Beyoğlu'ndaki Bir Zıtınlıklı Çeşme**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mahmud_Efendi_Çeşmesi.jpg/1200px-Mahmud_Efendi_Çeşmesi.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Sütlüce"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.941277777,41.049027777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Mahmud Efendi Çeşmesi: Beyoğlu'ndaki Bir Zıtınlıklı Çeşme**

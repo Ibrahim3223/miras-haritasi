@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Birecik | Miras Haritası"
-date: 2025-12-24T23:53:24+03:00
+title: "Çarşı Camii, Birecik"
+date: "2025-12-24T23:53:24+03:00"
 slug: "carsi-camii-birecik"
 description: "## Çarşı Camii, Birecik..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.9796295,37.0304184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Birecik

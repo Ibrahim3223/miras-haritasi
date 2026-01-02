@@ -1,18 +1,17 @@
 ---
-title: "Kaya Camii, Boyabat | Miras Haritası"
-date: 2025-12-24T23:57:09+03:00
+title: "Kaya Camii, Boyabat"
+date: "2025-12-24T23:57:09+03:00"
 slug: "kaya-camii-boyabat"
 description: "### Kaya Camii, Boyabat..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Boyabat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.7681313,41.4656296"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaya Camii, Boyabat

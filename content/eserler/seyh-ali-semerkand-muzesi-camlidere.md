@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ali Semerkandî Müzesi, Çamlıdere | Miras Haritası"
-date: 2025-12-25T04:06:49+03:00
+title: "Şeyh Ali Semerkandî Müzesi, Çamlıdere"
+date: "2025-12-25T04:06:49+03:00"
 slug: "seyh-ali-semerkand-muzesi-camlidere"
 description: "### Şeyh Ali Semerkandî Müzesi, Çamlıdere..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çamlıdere"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.4688225,40.4883995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Ali Semerkandî Müzesi, Çamlıdere

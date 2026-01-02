@@ -1,18 +1,17 @@
 ---
-title: "Kıyısız Kemer Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:08+03:00
+title: "Kıyısız Kemer Köprüsü"
+date: "2025-12-25T02:16:08+03:00"
 slug: "kiyisiz-kemer-koprusu"
 description: "### Kıyısız Kemer Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Köşk"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0152016,37.9274445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kıyısız Kemer Köprüsü

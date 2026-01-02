@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 36 | Miras Haritası"
-date: 2025-12-25T07:14:53+03:00
+title: "Bin Tepeler Tümülüsü 36"
+date: "2025-12-25T07:14:53+03:00"
 slug: "bin-tepeler-tumulusu-36"
 description: "### Bin Tepeler Tümülüsü 36: Salihli, Manisa'nın Gizli Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.988684,38.563328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bin Tepeler Tümülüsü 36: Salihli, Manisa'nın Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Cimil Baş Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:19:06+03:00
+title: "Cimil Baş Köyü Camii"
+date: "2025-12-25T00:19:06+03:00"
 slug: "cimil-bas-koyu-camii"
 description: "## Cimil Baş Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.78986069,40.732842544"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cimil Baş Köyü Camii

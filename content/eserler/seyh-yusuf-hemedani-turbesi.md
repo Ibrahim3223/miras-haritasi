@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Yusuf Hemedani Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:10+03:00
+title: "Şeyh Yusuf Hemedani Türbesi"
+date: "2025-12-25T14:47:10+03:00"
 slug: "seyh-yusuf-hemedani-turbesi"
 description: "## Şeyh Yusuf Hemedani Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.951542,37.181784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Yusuf Hemedani Türbesi

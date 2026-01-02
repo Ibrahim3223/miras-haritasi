@@ -1,18 +1,17 @@
 ---
-title: "Limnai (Trakya) | Miras Haritası"
-date: 2025-12-25T04:35:34+03:00
+title: "Limnai (Trakya)"
+date: "2025-12-25T04:35:34+03:00"
 slug: "limnai-trakya"
 description: "## Limnai: Trakya'nın Gizli Mirası..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.272679,40.27056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Limnai: Trakya'nın Gizli Mirası

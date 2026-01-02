@@ -1,18 +1,17 @@
 ---
-title: "Tyscos | Miras Haritası"
-date: 2025-12-25T05:20:58+03:00
+title: "Tyscos"
+date: "2025-12-25T05:20:58+03:00"
 slug: "tyscos"
 description: "## Tyscos: Geçmişin Gizemli Kalıntısı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tyscos: Geçmişin Gizemli Kalıntısı

@@ -1,18 +1,17 @@
 ---
-title: "Azize Nino Kilisesi | Miras Haritası"
-date: 2025-12-25T08:59:53+03:00
+title: "Azize Nino Kilisesi"
+date: "2025-12-25T08:59:53+03:00"
 slug: "azize-nino-kilisesi"
 description: "## Azize Nino Kilisesi..."
 featured_image: ""
 province: "Ürgüp"
-iller: ["Ürgüp"]
+iller: '["Ürgüp"]'
 district: "Ortahisar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.86202079,38.620149754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Azize Nino Kilisesi

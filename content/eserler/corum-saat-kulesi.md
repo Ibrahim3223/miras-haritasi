@@ -1,18 +1,17 @@
 ---
-title: "Çorum Saat Kulesi | Miras Haritası"
-date: 2025-12-25T13:38:12+03:00
+title: "Çorum Saat Kulesi"
+date: "2025-12-25T13:38:12+03:00"
 slug: "corum-saat-kulesi"
 description: "## Çorum Saat Kulesi: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Saat_kulesi^Çorum_-_panoramio.jpg/1200px-Saat_kulesi^Çorum_-_panoramio.jpg"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Çorum"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.953722222,40.549888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çorum Saat Kulesi: Türkiye'nin Tarihi ve Kültürel Mirası

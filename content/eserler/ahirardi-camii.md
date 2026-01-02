@@ -1,18 +1,17 @@
 ---
-title: "Ahırardı Camii | Miras Haritası"
-date: 2025-12-24T21:43:06+03:00
+title: "Ahırardı Camii"
+date: "2025-12-24T21:43:06+03:00"
 slug: "ahirardi-camii"
 description: "## Ahırardı Camii..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.984805555,39.414777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahırardı Camii

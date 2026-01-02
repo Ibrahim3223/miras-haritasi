@@ -1,18 +1,17 @@
 ---
-title: "Küçükhüyük | Miras Haritası"
-date: 2025-12-25T05:34:25+03:00
+title: "Küçükhüyük"
+date: "2025-12-25T05:34:25+03:00"
 slug: "kucukhuyuk"
 description: "## Küçükhüyük: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sinanpaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.317633,38.7685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçükhüyük: Afyonkarahisar'ın Gizli Cenneti

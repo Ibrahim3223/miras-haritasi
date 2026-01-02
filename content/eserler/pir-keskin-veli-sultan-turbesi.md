@@ -1,18 +1,17 @@
 ---
-title: "Pir Keskin Veli Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:46+03:00
+title: "Pir Keskin Veli Sultan Türbesi"
+date: "2025-12-25T15:22:46+03:00"
 slug: "pir-keskin-veli-sultan-turbesi"
 description: "### Pir Keskin Veli Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Pendik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.2702389,40.9047852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pir Keskin Veli Sultan Türbesi

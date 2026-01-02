@@ -1,18 +1,17 @@
 ---
-title: "Ahi Mesud Höyüğü | Miras Haritası"
-date: 2025-12-25T06:40:29+03:00
+title: "Ahi Mesud Höyüğü"
+date: "2025-12-25T06:40:29+03:00"
 slug: "ahi-mesud-hoyugu"
 description: "## Ahi Mesud Höyüğü..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Etimesgut"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.6667849,39.9500151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Mesud Höyüğü

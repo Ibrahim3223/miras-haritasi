@@ -1,18 +1,17 @@
 ---
-title: "Kaval Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:27:22+03:00
+title: "Kaval Çeşmesi"
+date: "2025-12-25T11:27:22+03:00"
 slug: "kaval-cesmesi"
 description: "## Kaval Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4208336,38.6075554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaval Çeşmesi

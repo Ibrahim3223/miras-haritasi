@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Nail Camii | Miras Haritası"
-date: 2025-12-24T22:38:19+03:00
+title: "Rüstem Nail Camii"
+date: "2025-12-24T22:38:19+03:00"
 slug: "rustem-nail-camii"
 description: "## Rüstem Nail Camii: Türkiye'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8675728,39.9355698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rüstem Nail Camii: Türkiye'nin Tarihî ve Kültürel Mirası

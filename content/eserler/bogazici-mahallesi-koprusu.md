@@ -1,18 +1,17 @@
 ---
-title: "Boğaziçi Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:55+03:00
+title: "Boğaziçi Mahallesi Köprüsü"
+date: "2025-12-25T02:33:55+03:00"
 slug: "bogazici-mahallesi-koprusu"
 description: "#### Boğaziçi Mahallesi Köprüsü: Samsun'un Eski Köprülü Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.178986,41.137641"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 #### Boğaziçi Mahallesi Köprüsü: Samsun'un Eski Köprülü Mirası

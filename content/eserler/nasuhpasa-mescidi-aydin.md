@@ -1,18 +1,17 @@
 ---
-title: "Nasuhpaşa Mescidi, Aydın | Miras Haritası"
-date: 2025-12-25T00:45:36+03:00
+title: "Nasuhpaşa Mescidi, Aydın"
+date: "2025-12-25T00:45:36+03:00"
 slug: "nasuhpasa-mescidi-aydin"
 description: "## Nasuhpaşa Mescidi: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8405132,37.85252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nasuhpaşa Mescidi: Aydın'ın Tarihi Bir Mirası

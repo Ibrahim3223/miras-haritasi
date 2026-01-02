@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Kalesi | Miras Haritası"
-date: 2025-12-25T08:24:12+03:00
+title: "Erzurum Kalesi"
+date: "2025-12-25T08:24:12+03:00"
 slug: "erzurum-kalesi"
 description: "## Erzurum Kalesi: Tarihi ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Citadel_of_Erzurum.JPG/1200px-Citadel_of_Erzurum.JPG"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.2768,39.9077"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Erzurum Kalesi: Tarihi ve Kültürel Bir Miras

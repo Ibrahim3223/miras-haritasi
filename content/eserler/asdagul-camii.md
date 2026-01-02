@@ -1,18 +1,17 @@
 ---
-title: "Aşdağul Camii | Miras Haritası"
-date: 2025-12-24T22:13:43+03:00
+title: "Aşdağul Camii"
+date: "2025-12-24T22:13:43+03:00"
 slug: "asdagul-camii"
 description: "### Aşdağul Camii: Çorum'un Tarihi Ve Kültürel Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Ortaköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.2910957,40.2946701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşdağul Camii: Çorum'un Tarihi Ve Kültürel Mirası

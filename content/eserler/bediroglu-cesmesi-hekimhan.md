@@ -1,18 +1,17 @@
 ---
-title: "Bediroğlu Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:23:50+03:00
+title: "Bediroğlu Çeşmesi, Hekimhan"
+date: "2025-12-25T12:23:50+03:00"
 slug: "bediroglu-cesmesi-hekimhan"
 description: "## Bediroğlu Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.854967358,38.852675065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bediroğlu Çeşmesi, Hekimhan

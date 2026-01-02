@@ -1,18 +1,17 @@
 ---
-title: "İncesu Kybele Kabartması | Miras Haritası"
-date: 2025-12-25T15:55:41+03:00
+title: "İncesu Kybele Kabartması"
+date: "2025-12-25T15:55:41+03:00"
 slug: "incesu-kybele-kabartmasi"
 description: "## İncesu Kybele Kabartması: Türk Tarihini Tanık eden Anıt..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Ortaköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3388329,40.2552948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncesu Kybele Kabartması: Türk Tarihini Tanık eden Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Fatma Suat Orhon Müze ve Sanat Evi | Miras Haritası"
-date: 2025-12-25T03:54:35+03:00
+title: "Fatma Suat Orhon Müze ve Sanat Evi"
+date: "2025-12-25T03:54:35+03:00"
 slug: "fatma-suat-orhon-muze-ve-sanat-evi"
 description: "## Fatma Suat Orhon Müze ve Sanat Evi: Aydın'ın Kültür Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4067993,37.7551994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatma Suat Orhon Müze ve Sanat Evi: Aydın'ın Kültür Mirası

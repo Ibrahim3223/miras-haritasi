@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bektâş-ı Velî Müzesi | Miras Haritası"
-date: 2025-12-25T03:57:47+03:00
+title: "Hacı Bektâş-ı Velî Müzesi"
+date: "2025-12-25T03:57:47+03:00"
 slug: "haci-bekts-i-vel-muzesi"
 description: "### Hacı Bektâş-ı Velî Müzesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.562643,38.942114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Bektâş-ı Velî Müzesi

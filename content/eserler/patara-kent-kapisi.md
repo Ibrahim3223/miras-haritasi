@@ -1,18 +1,17 @@
 ---
-title: "Patara Kent Kapısı | Miras Haritası"
-date: 2025-12-25T13:15:25+03:00
+title: "Patara Kent Kapısı"
+date: "2025-12-25T13:15:25+03:00"
 slug: "patara-kent-kapisi"
 description: "## Patara Kent Kapısı: Antik Kentin Gizemli Girişi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.3185081,36.2655525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Patara Kent Kapısı: Antik Kentin Gizemli Girişi

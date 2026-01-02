@@ -1,18 +1,17 @@
 ---
-title: "Yalıköy Camii | Miras Haritası"
-date: 2025-12-25T00:35:27+03:00
+title: "Yalıköy Camii"
+date: "2025-12-25T00:35:27+03:00"
 slug: "yalikoy-camii"
 description: "## Yalıköy Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İyidere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.377386282,41.015965128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalıköy Camii

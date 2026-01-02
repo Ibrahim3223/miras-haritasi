@@ -1,18 +1,17 @@
 ---
-title: "Erikli Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:00+03:00
+title: "Erikli Kilisesi"
+date: "2025-12-25T09:36:00+03:00"
 slug: "erikli-kilisesi"
 description: "### Erikli Kilisesi: Muğla'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.0550003,37.3130989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Erikli Kilisesi: Muğla'nın Tarihî Bir Mirası

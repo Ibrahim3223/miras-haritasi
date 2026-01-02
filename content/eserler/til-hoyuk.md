@@ -1,18 +1,17 @@
 ---
-title: "Til Höyük | Miras Haritası"
-date: 2025-12-25T06:31:02+03:00
+title: "Til Höyük"
+date: "2025-12-25T06:31:02+03:00"
 slug: "til-hoyuk"
 description: "## Til Höyük: Kahramanmaraş'ın Gizli Tarihi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.3291742,38.1615898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Til Höyük: Kahramanmaraş'ın Gizli Tarihi

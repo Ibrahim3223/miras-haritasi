@@ -1,18 +1,17 @@
 ---
-title: "Fincanburnu Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:16+03:00
+title: "Fincanburnu Roma Köprüsü"
+date: "2025-12-25T02:22:16+03:00"
 slug: "fincanburnu-roma-koprusu"
 description: "## Fincanburnu Roma Köprüsü: Tarih ve Güzellik..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.3605042,39.1615257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fincanburnu Roma Köprüsü: Tarih ve Güzellik

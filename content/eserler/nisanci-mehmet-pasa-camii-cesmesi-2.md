@@ -1,18 +1,17 @@
 ---
-title: "Nişancı Mehmet Paşa Camii Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T11:18:27+03:00
+title: "Nişancı Mehmet Paşa Camii Çeşmesi 2"
+date: "2025-12-25T11:18:27+03:00"
 slug: "nisanci-mehmet-pasa-camii-cesmesi-2"
 description: "### Nişancı Mehmet Paşa Camii Çeşmesi 2: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Nişanca"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9608088,41.0063254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nişancı Mehmet Paşa Camii Çeşmesi 2: Fatih'in Gizli Çeşmesi

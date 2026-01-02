@@ -1,18 +1,17 @@
 ---
-title: "Gölhisar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:24:43+03:00
+title: "Gölhisar Höyüğü"
+date: "2025-12-25T06:24:43+03:00"
 slug: "golhisar-hoyugu"
 description: "**Gölhisar Höyüğü: Türkiye'nin Gizli Kahramanı**..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2137807,39.1009389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gölhisar Höyüğü: Türkiye'nin Gizli Kahramanı**

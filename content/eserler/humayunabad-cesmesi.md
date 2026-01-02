@@ -1,18 +1,17 @@
 ---
-title: "Hümayunabad Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:10+03:00
+title: "Hümayunabad Çeşmesi"
+date: "2025-12-25T11:50:10+03:00"
 slug: "humayunabad-cesmesi"
 description: "## Hümayunabad Çeşmesi..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Bebek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0441208,41.0769005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hümayunabad Çeşmesi

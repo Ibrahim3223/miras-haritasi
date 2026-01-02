@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:45:39+03:00
+title: "Hekimoğlu Ali Paşa Kütüphanesi"
+date: "2025-12-25T17:45:39+03:00"
 slug: "hekimoglu-ali-pasa-kutuphanesi"
 description: "## Hekimoğlu Ali Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.9330995,41.0066452"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hekimoğlu Ali Paşa Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Bayırlı | Miras Haritası"
-date: 2025-12-25T02:53:46+03:00
+title: "Roma Köprüsü, Bayırlı"
+date: "2025-12-25T02:53:46+03:00"
 slug: "roma-koprusu-bayirli"
 description: "## Roma Köprüsü, Bayırlı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Sındırgı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1234684,39.2227135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Bayırlı

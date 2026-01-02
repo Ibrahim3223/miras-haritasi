@@ -1,18 +1,17 @@
 ---
-title: "Kadye | Miras Haritası"
-date: 2025-12-25T04:55:01+03:00
+title: "Kadye"
+date: "2025-12-25T04:55:01+03:00"
 slug: "kadye"
 description: "## Kadye: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.568624,37.832174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadye: Türkiye'nin Gizli Harabeleri

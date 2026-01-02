@@ -1,18 +1,17 @@
 ---
-title: "Çankırı Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:01+03:00
+title: "Çankırı Saat Kulesi"
+date: "2025-12-25T17:21:01+03:00"
 slug: "cankiri-saat-kulesi"
 description: "## Çankırı Saat Kulesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çankırı"
+province: "Çankırı"
+iller: '["Çankırı"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "33.614888888,40.603277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çankırı Saat Kulesi

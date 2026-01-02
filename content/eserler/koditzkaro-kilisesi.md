@@ -1,18 +1,17 @@
 ---
-title: "Koditzkaro Kilisesi | Miras Haritası"
-date: 2025-12-25T09:05:09+03:00
+title: "Koditzkaro Kilisesi"
+date: "2025-12-25T09:05:09+03:00"
 slug: "koditzkaro-kilisesi"
 description: "## Koditzkaro Kilisesi: Ardahan'ın Gizli Öreni..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Akyaka"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.580108333,41.085136111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koditzkaro Kilisesi: Ardahan'ın Gizli Öreni

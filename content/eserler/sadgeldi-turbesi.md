@@ -1,18 +1,17 @@
 ---
-title: "Şadgeldi Türbesi | Miras Haritası"
-date: 2025-12-25T15:02:29+03:00
+title: "Şadgeldi Türbesi"
+date: "2025-12-25T15:02:29+03:00"
 slug: "sadgeldi-turbesi"
 description: "## Şadgeldi Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8229942,40.6492081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şadgeldi Türbesi

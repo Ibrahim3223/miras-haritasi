@@ -1,18 +1,17 @@
 ---
-title: "Kadınana Asiye Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:44+03:00
+title: "Kadınana Asiye Sultan Türbesi"
+date: "2025-12-25T15:17:44+03:00"
 slug: "kadinana-asiye-sultan-turbesi"
 description: "## Kadınana Asiye Sultan Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.540083,38.754942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadınana Asiye Sultan Türbesi

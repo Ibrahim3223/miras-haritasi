@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Çelebi Camii, Gaziantep | Miras Haritası"
-date: 2025-12-25T00:29:02+03:00
+title: "Ahmet Çelebi Camii, Gaziantep"
+date: "2025-12-25T00:29:02+03:00"
 slug: "ahmet-celebi-camii-gaziantep"
 description: "## Ahmet Çelebi Camii: Gaziantep'in Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3927612,37.0563583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Çelebi Camii: Gaziantep'in Gizli Çehresini Keşfetmek

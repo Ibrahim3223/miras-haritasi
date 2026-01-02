@@ -1,18 +1,17 @@
 ---
-title: "Hatuniye Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:57+03:00
+title: "Hatuniye Köprüsü"
+date: "2025-12-25T03:02:57+03:00"
 slug: "hatuniye-koprusu"
 description: "## Hatuniye Köprüsü..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Bitlis"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.1077156,38.3983536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatuniye Köprüsü

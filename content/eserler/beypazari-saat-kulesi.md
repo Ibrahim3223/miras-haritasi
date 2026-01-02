@@ -1,18 +1,17 @@
 ---
-title: "Beypazarı Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:20:27+03:00
+title: "Beypazarı Saat Kulesi"
+date: "2025-12-25T17:20:27+03:00"
 slug: "beypazari-saat-kulesi"
 description: "## Beypazarı Saat Kulesi: Bir Tarihî Mirasın Tanıtımı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı district"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "31.919,40.168611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beypazarı Saat Kulesi: Bir Tarihî Mirasın Tanıtımı

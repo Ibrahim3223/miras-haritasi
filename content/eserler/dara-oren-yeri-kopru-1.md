@@ -1,18 +1,17 @@
 ---
-title: "Dara Ören Yeri – Köprü 1 | Miras Haritası"
-date: 2025-12-25T02:25:18+03:00
+title: "Dara Ören Yeri – Köprü 1"
+date: "2025-12-25T02:25:18+03:00"
 slug: "dara-oren-yeri-kopru-1"
 description: "### Dara Ören Yeri – Köprü 1: Tarihî Bir Mimarî İtki..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.954063,37.176334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dara Ören Yeri – Köprü 1: Tarihî Bir Mimarî İtki

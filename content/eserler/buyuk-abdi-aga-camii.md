@@ -1,18 +1,17 @@
 ---
-title: "Büyük Abdi Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:26:14+03:00
+title: "Büyük Abdi Ağa Camii"
+date: "2025-12-24T22:26:14+03:00"
 slug: "buyuk-abdi-aga-camii"
 description: "## Büyük Abdi Ağa Camii: Kars'ta Bir Tarihî Öznellik..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.094162,40.6106453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Abdi Ağa Camii: Kars'ta Bir Tarihî Öznellik

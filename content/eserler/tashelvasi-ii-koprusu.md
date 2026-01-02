@@ -1,18 +1,17 @@
 ---
-title: "Taşhelvası II Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:22+03:00
+title: "Taşhelvası II Köprüsü"
+date: "2025-12-25T02:30:22+03:00"
 slug: "tashelvasi-ii-koprusu"
 description: "## Taşhelvası II Köprüsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.3076134,37.7645416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşhelvası II Köprüsü

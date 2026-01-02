@@ -1,18 +1,17 @@
 ---
-title: "Mersin Atatürk Evi | Miras Haritası"
-date: 2025-12-25T03:12:46+03:00
+title: "Mersin Atatürk Evi"
+date: "2025-12-25T03:12:46+03:00"
 slug: "mersin-ataturk-evi"
 description: "## Mersin Atatürk Evi: Türkiye'nin Kurtuluş Savaşı'nın Başkahramanı'nın Evinin Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mersin_Atatürk_Evi_24-01-2023.jpg/1200px-Mersin_Atatürk_Evi_24-01-2023.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.6203,36.8063"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mersin Atatürk Evi: Türkiye'nin Kurtuluş Savaşı'nın Başkahramanı'nın Evinin Öyküsü

@@ -1,18 +1,17 @@
 ---
-title: "Hypaipa Antik Tiyatro | Miras Haritası"
-date: 2025-12-25T04:13:10+03:00
+title: "Hypaipa Antik Tiyatro"
+date: "2025-12-25T04:13:10+03:00"
 slug: "hypaipa-antik-tiyatro"
 description: "## Hypaipa Antik Tiyatro: Ödemiş'in Gizli Mücevheri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9584236,38.2754669"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hypaipa Antik Tiyatro: Ödemiş'in Gizli Mücevheri

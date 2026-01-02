@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:54:17+03:00
+title: "Hüseyin Paşa Hamamı"
+date: "2025-12-25T16:54:17+03:00"
 slug: "huseyin-pasa-hamami"
 description: "## Hüseyin Paşa Hamamı: Gaziantep'in Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.3843994,37.0610123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Paşa Hamamı: Gaziantep'in Tarihi ve Kültür Mirası

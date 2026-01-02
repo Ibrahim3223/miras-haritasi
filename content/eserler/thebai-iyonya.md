@@ -1,18 +1,17 @@
 ---
-title: "Thebai (İyonya) | Miras Haritası"
-date: 2025-12-25T07:11:14+03:00
+title: "Thebai (İyonya)"
+date: "2025-12-25T07:11:14+03:00"
 slug: "thebai-iyonya"
 description: "## Thebai (İyonya) Arkeolojik Sitesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.14383,37.63439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Thebai (İyonya) Arkeolojik Sitesi

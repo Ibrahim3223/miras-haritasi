@@ -1,18 +1,17 @@
 ---
-title: "Stektorion | Miras Haritası"
-date: 2025-12-25T05:58:02+03:00
+title: "Stektorion"
+date: "2025-12-25T05:58:02+03:00"
 slug: "stektorion"
 description: "# Stektorion: Türkiye'nin Gizli Çarpıntısı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.144016,38.332722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Stektorion: Türkiye'nin Gizli Çarpıntısı

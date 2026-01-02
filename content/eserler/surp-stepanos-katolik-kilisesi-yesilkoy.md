@@ -1,18 +1,17 @@
 ---
-title: "Surp Stepanos Katolik Kilisesi (Yeşilköy) | Miras Haritası"
-date: 2025-12-25T08:54:26+03:00
+title: "Surp Stepanos Katolik Kilisesi (Yeşilköy)"
+date: "2025-12-25T08:54:26+03:00"
 slug: "surp-stepanos-katolik-kilisesi-yesilkoy"
 description: "## Surp Stepanos Katolik Kilisesi: İstanbulluların Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.821888888,40.957527777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Stepanos Katolik Kilisesi: İstanbulluların Gizli Cenneti

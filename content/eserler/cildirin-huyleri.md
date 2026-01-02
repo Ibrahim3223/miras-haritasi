@@ -1,18 +1,17 @@
 ---
-title: "Çıldırın Hüyleri | Miras Haritası"
-date: 2025-12-25T07:06:40+03:00
+title: "Çıldırın Hüyleri"
+date: "2025-12-25T07:06:40+03:00"
 slug: "cildirin-huyleri"
 description: "### Çıldırın Hüyleri: Bir Tarihin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çıldırın Hüyleri: Bir Tarihin İzleri

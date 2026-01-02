@@ -1,18 +1,17 @@
 ---
-title: "Kuseyri Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:29:15+03:00
+title: "Kuseyri Çeşmesi"
+date: "2025-12-25T12:29:15+03:00"
 slug: "kuseyri-cesmesi"
 description: "## Kuseyri Çeşmesi: Mardin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.730193,37.311173"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuseyri Çeşmesi: Mardin'in Gizli Çeşmesi

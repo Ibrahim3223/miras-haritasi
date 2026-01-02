@@ -1,18 +1,17 @@
 ---
-title: "Kadılar Türbesi | Miras Haritası"
-date: 2025-12-25T15:02:53+03:00
+title: "Kadılar Türbesi"
+date: "2025-12-25T15:02:53+03:00"
 slug: "kadilar-turbesi"
 description: "# Kadılar Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8231964,40.6492004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kadılar Türbesi

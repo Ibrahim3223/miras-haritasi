@@ -1,18 +1,17 @@
 ---
-title: "Gre Dimse | Miras Haritası"
-date: 2025-12-25T06:08:28+03:00
+title: "Gre Dimse"
+date: "2025-12-25T06:08:28+03:00"
 slug: "gre-dimse"
 description: "## Gre Dimse Arkeolojik Sit..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.9664345,37.8277016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gre Dimse Arkeolojik Sit

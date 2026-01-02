@@ -1,18 +1,17 @@
 ---
-title: "Aya Eftim Manastırı | Miras Haritası"
-date: 2025-12-25T09:59:06+03:00
+title: "Aya Eftim Manastırı"
+date: "2025-12-25T09:59:06+03:00"
 slug: "aya-eftim-manastiri"
 description: "### Aya Eftim Manastırı: Gökçeada'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.7654991,40.1551018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Eftim Manastırı: Gökçeada'nın Tarihi Bir Mirası

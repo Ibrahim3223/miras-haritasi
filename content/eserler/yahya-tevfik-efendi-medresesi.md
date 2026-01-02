@@ -1,18 +1,17 @@
 ---
-title: "Yahya Tevfik Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:28:48+03:00
+title: "Yahya Tevfik Efendi Medresesi"
+date: "2025-12-25T17:28:48+03:00"
 slug: "yahya-tevfik-efendi-medresesi"
 description: "## Yahya Tevfik Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.946089,41.022331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahya Tevfik Efendi Medresesi

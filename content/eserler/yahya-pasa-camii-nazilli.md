@@ -1,18 +1,17 @@
 ---
-title: "Yahya Paşa Camii (Nazilli) | Miras Haritası"
-date: 2025-12-25T00:25:51+03:00
+title: "Yahya Paşa Camii (Nazilli)"
+date: "2025-12-25T00:25:51+03:00"
 slug: "yahya-pasa-camii-nazilli"
 description: "### Yahya Paşa Camii (Nazilli)..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3245354,37.9024391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yahya Paşa Camii (Nazilli)

@@ -1,18 +1,17 @@
 ---
-title: "Pera Palas Atatürk Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:16+03:00
+title: "Pera Palas Atatürk Müzesi"
+date: "2025-12-25T04:05:16+03:00"
 slug: "pera-palas-ataturk-muzesi"
 description: "### Pera Palas Atatürk Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.973473003,41.031046069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pera Palas Atatürk Müzesi

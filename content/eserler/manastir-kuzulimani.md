@@ -1,18 +1,17 @@
 ---
-title: "Manastır (Kuzulimanı) | Miras Haritası"
-date: 2025-12-25T09:41:36+03:00
+title: "Manastır (Kuzulimanı)"
+date: "2025-12-25T09:41:36+03:00"
 slug: "manastir-kuzulimani"
 description: "### Manastır (Kuzulimanı): Gökçeada'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.9529991,40.2209015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Manastır (Kuzulimanı): Gökçeada'nın Gizli Cenneti

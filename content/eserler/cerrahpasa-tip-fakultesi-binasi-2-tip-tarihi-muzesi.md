@@ -1,18 +1,17 @@
 ---
-title: "Cerrahpaşa Tıp Fakültesi Binası 2, Tıp Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:18+03:00
+title: "Cerrahpaşa Tıp Fakültesi Binası 2, Tıp Tarihi Müzesi"
+date: "2025-12-25T03:50:18+03:00"
 slug: "cerrahpasa-tip-fakultesi-binasi-2-tip-tarihi-muzesi"
 description: "## Cerrahpaşa Tıp Fakültesi Binası 2, Tıp Tarihi Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9402199,41.0062485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cerrahpaşa Tıp Fakültesi Binası 2, Tıp Tarihi Müzesi

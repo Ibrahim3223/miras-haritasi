@@ -1,18 +1,17 @@
 ---
-title: "Erikler Hisar Kale, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:52:10+03:00
+title: "Erikler Hisar Kale, Kırklareli"
+date: "2025-12-25T01:52:10+03:00"
 slug: "erikler-hisar-kale-kirklareli"
 description: "# Erikler Hisar Kale: Kırklareli'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.1142368,41.9136086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Erikler Hisar Kale: Kırklareli'nin Gizli Mücevheri

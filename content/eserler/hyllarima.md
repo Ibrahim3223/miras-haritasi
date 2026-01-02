@@ -1,18 +1,17 @@
 ---
-title: "Hyllarima | Miras Haritası"
-date: 2025-12-25T04:27:04+03:00
+title: "Hyllarima"
+date: "2025-12-25T04:27:04+03:00"
 slug: "hyllarima"
 description: "## Hyllarima: Muğla'nın Gizli Arkeolojik Ören Yeri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Kavaklıdere"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.34944444,37.505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hyllarima: Muğla'nın Gizli Arkeolojik Ören Yeri

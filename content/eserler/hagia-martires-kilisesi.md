@@ -1,18 +1,17 @@
 ---
-title: "Hagia Martires Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:00+03:00
+title: "Hagia Martires Kilisesi"
+date: "2025-12-25T09:35:00+03:00"
 slug: "hagia-martires-kilisesi"
 description: "## Hagia Martires Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.2280884,41.7374077"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hagia Martires Kilisesi

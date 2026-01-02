@@ -1,18 +1,17 @@
 ---
-title: "Krom Vadisi Şamanlı Kilise | Miras Haritası"
-date: 2025-12-25T09:15:01+03:00
+title: "Krom Vadisi Şamanlı Kilise"
+date: "2025-12-25T09:15:01+03:00"
 slug: "krom-vadisi-samanli-kilise"
 description: "## Krom Vadisi Şamanlı Kilisesi: Gümüşhane'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.595946,40.564132"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Krom Vadisi Şamanlı Kilisesi: Gümüşhane'nin Gizli Çehresini Keşfetmek

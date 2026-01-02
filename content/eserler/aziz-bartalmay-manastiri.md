@@ -1,18 +1,17 @@
 ---
-title: "Aziz Bartalmay Manastırı | Miras Haritası"
-date: 2025-12-25T09:46:42+03:00
+title: "Aziz Bartalmay Manastırı"
+date: "2025-12-25T09:46:42+03:00"
 slug: "aziz-bartalmay-manastiri"
 description: "## Aziz Bartalmay Manastırı Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Saint_Bartholomew_Monastery.jpg/1200px-Saint_Bartholomew_Monastery.jpg"
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Başkale"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "44.2100709,38.145036"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Bartalmay Manastırı Tanıtımı

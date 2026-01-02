@@ -1,18 +1,17 @@
 ---
-title: "Akşehir Taş Eserler Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:26+03:00
+title: "Akşehir Taş Eserler Müzesi"
+date: "2025-12-25T03:37:26+03:00"
 slug: "aksehir-tas-eserler-muzesi"
 description: "**Akşehir Taş Eserler Müzesi: Tarihi ve Kültürel Mirasının Güzeli**..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.4092255,38.35989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akşehir Taş Eserler Müzesi: Tarihi ve Kültürel Mirasının Güzeli**

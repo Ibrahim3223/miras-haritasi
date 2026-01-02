@@ -1,18 +1,17 @@
 ---
-title: "Yağıbasan Medresesi (Niksar) | Miras Haritası"
-date: 2025-12-25T17:25:24+03:00
+title: "Yağıbasan Medresesi (Niksar)"
+date: "2025-12-25T17:25:24+03:00"
 slug: "yagibasan-medresesi-niksar"
 description: "## Yağıbasan Medresesi: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "36.952777777,40.591388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yağıbasan Medresesi: Tokat'ın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Abarnis | Miras Haritası"
-date: 2025-12-25T05:00:05+03:00
+title: "Abarnis"
+date: "2025-12-25T05:00:05+03:00"
 slug: "abarnis"
 description: "### Abarnis Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Lapseki"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.734359,40.378253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abarnis Arkeolojik Sit

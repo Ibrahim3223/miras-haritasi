@@ -1,18 +1,17 @@
 ---
-title: "Terk-i Dünya Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:00+03:00
+title: "Terk-i Dünya Kilisesi"
+date: "2025-12-25T09:25:00+03:00"
 slug: "terk-i-dunya-kilisesi"
 description: "### Terk-i Dünya Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0812073,40.8684349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Terk-i Dünya Kilisesi

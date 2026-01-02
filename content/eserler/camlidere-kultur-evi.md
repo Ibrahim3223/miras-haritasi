@@ -1,18 +1,17 @@
 ---
-title: "Çamlıdere Kültür Evi | Miras Haritası"
-date: 2025-12-25T04:07:08+03:00
+title: "Çamlıdere Kültür Evi"
+date: "2025-12-25T04:07:08+03:00"
 slug: "camlidere-kultur-evi"
 description: "## Çamlıdere Kültür Evi: Ankara'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çamlıdere"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.4758797,40.4903526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamlıdere Kültür Evi: Ankara'nın Gizli Çarpıntısı

@@ -1,18 +1,17 @@
 ---
-title: "Altınpark Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:56:20+03:00
+title: "Altınpark Çeşmesi"
+date: "2025-12-25T12:56:20+03:00"
 slug: "altinpark-cesmesi"
 description: "## Altınpark Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1439209,38.4206467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altınpark Çeşmesi

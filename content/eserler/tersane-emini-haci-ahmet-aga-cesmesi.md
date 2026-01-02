@@ -1,18 +1,17 @@
 ---
-title: "Tersane Emini Hacı Ahmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:40+03:00
+title: "Tersane Emini Hacı Ahmet Ağa Çeşmesi"
+date: "2025-12-25T11:15:40+03:00"
 slug: "tersane-emini-haci-ahmet-aga-cesmesi"
 description: "## Tersane Emini Hacı Ahmet Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tersane_Emini_Hacı_Ahmet_Ağa_Fountain,_Beyoğlu,_İstanbul_2024.jpg/1200px-Tersane_Emini_Hacı_Ahmet_Ağa_Fountain,_Beyoğlu,_İstanbul_2024.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Hacımimi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979611,41.027987"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tersane Emini Hacı Ahmet Ağa Çeşmesi

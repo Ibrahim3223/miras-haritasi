@@ -1,18 +1,17 @@
 ---
-title: "Kaunos Apollon Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T08:39:17+03:00
+title: "Kaunos Apollon Kutsal Alanı"
+date: "2025-12-25T08:39:17+03:00"
 slug: "kaunos-apollon-kutsal-alani"
 description: "## Kaunos Apollon Kutsal Alanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.619915,36.8257446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaunos Apollon Kutsal Alanı

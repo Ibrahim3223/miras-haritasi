@@ -1,18 +1,17 @@
 ---
-title: "Serapis Tapınağı (Milet) | Miras Haritası"
-date: 2025-12-25T08:19:05+03:00
+title: "Serapis Tapınağı (Milet)"
+date: "2025-12-25T08:19:05+03:00"
 slug: "serapis-tapinagi-milet"
 description: "### Serapis Tapınağı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.277777777,37.528055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Serapis Tapınağı

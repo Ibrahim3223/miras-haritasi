@@ -1,18 +1,17 @@
 ---
-title: "Ayazma, Başıbüyük | Miras Haritası"
-date: 2025-12-25T12:37:18+03:00
+title: "Ayazma, Başıbüyük"
+date: "2025-12-25T12:37:18+03:00"
 slug: "ayazma-basibuyuk"
 description: "## Ayazma, Başıbüyük: Maltepe'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1449909,40.9625244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayazma, Başıbüyük: Maltepe'nin Gizli Çeşmesi

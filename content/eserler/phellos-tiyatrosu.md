@@ -1,18 +1,17 @@
 ---
-title: "Phellos Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:19:54+03:00
+title: "Phellos Tiyatrosu"
+date: "2025-12-25T16:19:54+03:00"
 slug: "phellos-tiyatrosu"
 description: "## Phellos Tiyatrosu: Antik Tiyatro'nun Gizemleri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "29.662157983,36.242480622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phellos Tiyatrosu: Antik Tiyatro'nun Gizemleri

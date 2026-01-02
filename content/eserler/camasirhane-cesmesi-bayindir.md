@@ -1,18 +1,17 @@
 ---
-title: "Çamaşırhane Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:54:40+03:00
+title: "Çamaşırhane Çeşmesi, Bayındır"
+date: "2025-12-25T12:54:40+03:00"
 slug: "camasirhane-cesmesi-bayindir"
 description: "## Çamaşırhane Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6412907,38.2243729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamaşırhane Çeşmesi, Bayındır

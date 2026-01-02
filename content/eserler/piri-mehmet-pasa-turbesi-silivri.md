@@ -1,18 +1,17 @@
 ---
-title: "Piri Mehmet Paşa Türbesi, Silivri | Miras Haritası"
-date: 2025-12-25T13:35:52+03:00
+title: "Piri Mehmet Paşa Türbesi, Silivri"
+date: "2025-12-25T13:35:52+03:00"
 slug: "piri-mehmet-pasa-turbesi-silivri"
 description: "## Piri Mehmet Paşa Türbesi, Silivri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.2457,41.0734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Piri Mehmet Paşa Türbesi, Silivri

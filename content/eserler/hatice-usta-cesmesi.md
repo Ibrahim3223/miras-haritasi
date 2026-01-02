@@ -1,18 +1,17 @@
 ---
-title: "Hatice Usta Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:37+03:00
+title: "Hatice Usta Çeşmesi"
+date: "2025-12-25T11:43:37+03:00"
 slug: "hatice-usta-cesmesi"
 description: "## Hatice Usta Çeşmesi: İstanbul'un Yüzyıllarca Geçen Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9618397,41.0105247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Usta Çeşmesi: İstanbul'un Yüzyıllarca Geçen Tarihi ve Kültürel Mirası

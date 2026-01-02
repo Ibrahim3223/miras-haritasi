@@ -1,18 +1,17 @@
 ---
-title: "Yeşilköy Surp Stepanos Kilisesi | Miras Haritası"
-date: 2025-12-25T08:47:51+03:00
+title: "Yeşilköy Surp Stepanos Kilisesi"
+date: "2025-12-25T08:47:51+03:00"
 slug: "yesilkoy-surp-stepanos-kilisesi"
 description: "## Yeşilköy Surp Stepanos Kilisesi..."
 featured_image: ""
-province: "Bakırköy"
-iller: ["Bakırköy"]
-district: "Yeşilköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bakırköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.820527777,40.956916666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşilköy Surp Stepanos Kilisesi

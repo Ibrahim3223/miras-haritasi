@@ -1,18 +1,17 @@
 ---
-title: "Gümüşsuyu Hastanesi Hamamı | Miras Haritası"
-date: 2025-12-25T16:39:47+03:00
+title: "Gümüşsuyu Hastanesi Hamamı"
+date: "2025-12-25T16:39:47+03:00"
 slug: "gumussuyu-hastanesi-hamami"
 description: "## Gümüşsuyu Hastanesi Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.990039,41.037993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüşsuyu Hastanesi Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "İkizköy Antik  Yerleşimi | Miras Haritası"
-date: 2025-12-25T08:32:11+03:00
+title: "İkizköy Antik  Yerleşimi"
+date: "2025-12-25T08:32:11+03:00"
 slug: "ikizkoy-antik-yerlesimi"
 description: "## İkizköy Antik Yerleşimi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8581848,37.1742172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkizköy Antik Yerleşimi

@@ -1,18 +1,17 @@
 ---
-title: "Cambazlı Anıt Mezar | Miras Haritası"
-date: 2025-12-25T14:06:02+03:00
+title: "Cambazlı Anıt Mezar"
+date: "2025-12-25T14:06:02+03:00"
 slug: "cambazli-anit-mezar"
 description: "### Cambazlı Anıt Mezar..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.0321503,36.5788307"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cambazlı Anıt Mezar

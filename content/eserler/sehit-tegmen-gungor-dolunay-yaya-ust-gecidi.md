@@ -1,18 +1,17 @@
 ---
-title: "Şehit Teğmen Güngör Dolunay Yaya Üst Geçidi | Miras Haritası"
-date: 2025-12-25T01:54:52+03:00
+title: "Şehit Teğmen Güngör Dolunay Yaya Üst Geçidi"
+date: "2025-12-25T01:54:52+03:00"
 slug: "sehit-tegmen-gungor-dolunay-yaya-ust-gecidi"
 description: "## Şehit Teğmen Güngör Dolunay Yaya Üst Geçidi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.127555555,38.415888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehit Teğmen Güngör Dolunay Yaya Üst Geçidi

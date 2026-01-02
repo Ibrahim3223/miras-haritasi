@@ -1,18 +1,17 @@
 ---
-title: "İvaz Efendi Camii | Miras Haritası"
-date: 2025-12-24T21:48:54+03:00
+title: "İvaz Efendi Camii"
+date: "2025-12-24T21:48:54+03:00"
 slug: "ivaz-efendi-camii"
 description: "## İvaz Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/İvaz_Efendi_Camii_15.jpg/1200px-İvaz_Efendi_Camii_15.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.940888888,41.038166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İvaz Efendi Camii

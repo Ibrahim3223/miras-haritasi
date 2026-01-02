@@ -1,18 +1,17 @@
 ---
-title: "İstinye Hamamı | Miras Haritası"
-date: 2025-12-25T16:39:23+03:00
+title: "İstinye Hamamı"
+date: "2025-12-25T16:39:23+03:00"
 slug: "istinye-hamami"
 description: "## İstinye Hamamı: İstanbul'un Eski Köylerindeki Bir Klasik..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.05111,41.114144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstinye Hamamı: İstanbul'un Eski Köylerindeki Bir Klasik

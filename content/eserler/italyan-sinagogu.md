@@ -1,18 +1,17 @@
 ---
-title: "İtalyan Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:06+03:00
+title: "İtalyan Sinagogu"
+date: "2025-12-25T16:13:06+03:00"
 slug: "italyan-sinagogu"
 description: "### İtalyan Sinagogu: İstanbul'un Gizli Çehresini Keşfeden Bir Eser..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Italian_Synagogue_(Istanbul).jpg/1200px-Italian_Synagogue_(Istanbul).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.9725,41.02555556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İtalyan Sinagogu: İstanbul'un Gizli Çehresini Keşfeden Bir Eser

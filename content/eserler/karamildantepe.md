@@ -1,18 +1,17 @@
 ---
-title: "Karamildantepe | Miras Haritası"
-date: 2025-12-25T06:08:39+03:00
+title: "Karamildantepe"
+date: "2025-12-25T06:08:39+03:00"
 slug: "karamildantepe"
 description: "# Karamildantepe: Malatya'nın Gizli Güzeli..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.4052849,38.3598518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karamildantepe: Malatya'nın Gizli Güzeli

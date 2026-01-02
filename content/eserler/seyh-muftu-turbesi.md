@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Müftü Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:59+03:00
+title: "Şeyh Müftü Türbesi"
+date: "2025-12-25T14:47:59+03:00"
 slug: "seyh-muftu-turbesi"
 description: "## Şeyh Müftü Türbesi: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mustafakemalpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.410174667,40.035075491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Müftü Türbesi: Bursa'nın Gizli Cenneti

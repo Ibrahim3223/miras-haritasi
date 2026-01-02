@@ -1,18 +1,17 @@
 ---
-title: "Gövezli Tepesi Höyük | Miras Haritası"
-date: 2025-12-25T06:04:13+03:00
+title: "Gövezli Tepesi Höyük"
+date: "2025-12-25T06:04:13+03:00"
 slug: "govezli-tepesi-hoyuk"
 description: "# Gövezli Tepesi Höyük: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karapınar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.5945511,37.5409241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gövezli Tepesi Höyük: Tarihî Bir Mirasın Gizemi

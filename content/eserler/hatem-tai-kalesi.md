@@ -1,18 +1,17 @@
 ---
-title: "Hatem Tai Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:11+03:00
+title: "Hatem Tai Kalesi"
+date: "2025-12-25T01:22:11+03:00"
 slug: "hatem-tai-kalesi"
 description: "## Hatem Tai Kalesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Nusaybin"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.6540146,37.2432632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatem Tai Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "Eliav Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:33+03:00
+title: "Eliav Sinagogu"
+date: "2025-12-25T16:13:33+03:00"
 slug: "eliav-sinagogu"
 description: "## Eliav Sinagogu..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eliav Sinagogu

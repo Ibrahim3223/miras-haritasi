@@ -1,18 +1,17 @@
 ---
-title: "Bakkallar Mescidi, Karabağlar Yaylası | Miras Haritası"
-date: 2025-12-25T00:50:26+03:00
+title: "Bakkallar Mescidi, Karabağlar Yaylası"
+date: "2025-12-25T00:50:26+03:00"
 slug: "bakkallar-mescidi-karabaglar-yaylasi"
 description: "## Bakkallar Mescidi, Karabağlar Yaylası: Bir Tarihî Cami'nin Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3920002,37.1819992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakkallar Mescidi, Karabağlar Yaylası: Bir Tarihî Cami'nin Gizemi

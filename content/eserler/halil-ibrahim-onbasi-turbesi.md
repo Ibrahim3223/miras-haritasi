@@ -1,18 +1,17 @@
 ---
-title: "Halil İbrahim Onbaşı Türbesi | Miras Haritası"
-date: 2025-12-25T14:13:11+03:00
+title: "Halil İbrahim Onbaşı Türbesi"
+date: "2025-12-25T14:13:11+03:00"
 slug: "halil-ibrahim-onbasi-turbesi"
 description: "### Halil İbrahim Onbaşı Türbesi: Eceabat'ın Önemli Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.1823,40.0448"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halil İbrahim Onbaşı Türbesi: Eceabat'ın Önemli Anıtı

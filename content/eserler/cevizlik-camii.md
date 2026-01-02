@@ -1,18 +1,17 @@
 ---
-title: "Cevizlik Camii | Miras Haritası"
-date: 2025-12-25T00:58:27+03:00
+title: "Cevizlik Camii"
+date: "2025-12-25T00:58:27+03:00"
 slug: "cevizlik-camii"
 description: "## Cevizlik Camii: Yusufeli'nin Tarihî bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7100916,41.0224232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevizlik Camii: Yusufeli'nin Tarihî bir Mirası

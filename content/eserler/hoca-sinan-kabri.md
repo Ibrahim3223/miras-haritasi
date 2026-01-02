@@ -1,18 +1,17 @@
 ---
-title: "Hoca Sinan Kabri | Miras Haritası"
-date: 2025-12-25T13:32:53+03:00
+title: "Hoca Sinan Kabri"
+date: "2025-12-25T13:32:53+03:00"
 slug: "hoca-sinan-kabri"
 description: "## Hoca Sinan Kabri: Fatih, İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9666271,41.015831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Sinan Kabri: Fatih, İstanbul'un Gizli Çeşmesi

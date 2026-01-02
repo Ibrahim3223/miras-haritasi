@@ -1,18 +1,17 @@
 ---
-title: "Timolaeum | Miras Haritası"
-date: 2025-12-25T05:40:30+03:00
+title: "Timolaeum"
+date: "2025-12-25T05:40:30+03:00"
 slug: "timolaeum"
 description: "# Timolaeum: Antik Dönemin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.31682,41.997734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Timolaeum: Antik Dönemin Gizemi

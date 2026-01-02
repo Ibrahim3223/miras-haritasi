@@ -1,18 +1,17 @@
 ---
-title: "Halilürrahman Medresesi | Miras Haritası"
-date: 2025-12-25T17:35:01+03:00
+title: "Halilürrahman Medresesi"
+date: "2025-12-25T17:35:01+03:00"
 slug: "halilurrahman-medresesi"
 description: "## Halilürrahman Medresesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "38.7835312,37.1477623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halilürrahman Medresesi

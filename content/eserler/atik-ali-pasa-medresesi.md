@@ -1,18 +1,17 @@
 ---
-title: "Atik Ali Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:32+03:00
+title: "Atik Ali Paşa Medresesi"
+date: "2025-12-25T17:24:32+03:00"
 slug: "atik-ali-pasa-medresesi"
 description: "**Atik Ali Paşa Medresesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Atik_Ali_Pasha_Madrasa_03.jpg/1200px-Atik_Ali_Pasha_Madrasa_03.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.969971,41.008389"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Atik Ali Paşa Medresesi**

@@ -1,18 +1,17 @@
 ---
-title: "Seydi Bey Camii | Miras Haritası"
-date: 2025-12-25T00:03:15+03:00
+title: "Seydi Bey Camii"
+date: "2025-12-25T00:03:15+03:00"
 slug: "seydi-bey-camii"
 description: "## Seydi Bey Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9402142,41.0128021"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seydi Bey Camii

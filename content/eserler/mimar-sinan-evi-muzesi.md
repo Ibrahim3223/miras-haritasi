@@ -1,18 +1,17 @@
 ---
-title: "Mimar Sinan Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:47:38+03:00
+title: "Mimar Sinan Evi Müzesi"
+date: "2025-12-25T03:47:38+03:00"
 slug: "mimar-sinan-evi-muzesi"
 description: "## Mimar Sinan Evi Müzesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.7144012,38.8156128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mimar Sinan Evi Müzesi

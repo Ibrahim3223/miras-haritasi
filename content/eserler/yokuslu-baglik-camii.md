@@ -1,18 +1,17 @@
 ---
-title: "Yokuşlu Bağlık Camii | Miras Haritası"
-date: 2025-12-25T00:20:13+03:00
+title: "Yokuşlu Bağlık Camii"
+date: "2025-12-25T00:20:13+03:00"
 slug: "yokuslu-baglik-camii"
 description: "## Yokuşlu Bağlık Camii: Artvin'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3331,40.6497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yokuşlu Bağlık Camii: Artvin'in Tarihî Bir Mirası

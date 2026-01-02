@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Ağa Çeşmesi, Çengelköy | Miras Haritası"
-date: 2025-12-25T12:14:52+03:00
+title: "Ahmet Ağa Çeşmesi, Çengelköy"
+date: "2025-12-25T12:14:52+03:00"
 slug: "ahmet-aga-cesmesi-cengelkoy"
 description: "## Ahmet Ağa Çeşmesi: Üsküdar'da Bir Örgü Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.05452,41.050898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Ağa Çeşmesi: Üsküdar'da Bir Örgü Çeşmesi

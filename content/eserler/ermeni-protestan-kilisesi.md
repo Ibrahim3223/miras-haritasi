@@ -1,18 +1,17 @@
 ---
-title: "Ermeni Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:24:09+03:00
+title: "Ermeni Protestan Kilisesi"
+date: "2025-12-25T09:24:09+03:00"
 slug: "ermeni-protestan-kilisesi"
 description: "**Ermeni Protestan Kilisesi: Merzifon'un Gizli Cenneti**..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.463726,40.8742752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ermeni Protestan Kilisesi: Merzifon'un Gizli Cenneti**

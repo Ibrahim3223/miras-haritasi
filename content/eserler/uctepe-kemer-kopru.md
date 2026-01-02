@@ -1,18 +1,17 @@
 ---
-title: "Üçtepe Kemer Köprü | Miras Haritası"
-date: 2025-12-25T02:38:46+03:00
+title: "Üçtepe Kemer Köprü"
+date: "2025-12-25T02:38:46+03:00"
 slug: "uctepe-kemer-kopru"
 description: "### Üçtepe Kemer Köprü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.631157,40.710677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üçtepe Kemer Köprü

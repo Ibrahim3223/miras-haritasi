@@ -1,18 +1,17 @@
 ---
-title: "İğnedere Camii | Miras Haritası"
-date: 2025-12-24T23:34:50+03:00
+title: "İğnedere Camii"
+date: "2025-12-24T23:34:50+03:00"
 slug: "ignedere-camii"
 description: "## İğnedere Camii..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: ["Menemen (ilçe)"]
+iller: '["Menemen (ilçe)"]'
 district: "Menemen"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1589642,38.6562157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İğnedere Camii

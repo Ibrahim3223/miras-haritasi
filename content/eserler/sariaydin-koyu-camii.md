@@ -1,18 +1,17 @@
 ---
-title: "Sarıaydın Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:42:49+03:00
+title: "Sarıaydın Köyü Camii"
+date: "2025-12-24T22:42:49+03:00"
 slug: "sariaydin-koyu-camii"
 description: "# Sarıaydın Köyü Camii: Mersin'in Eski ve Gizli Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.9150734,36.7606468"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sarıaydın Köyü Camii: Mersin'in Eski ve Gizli Bir Mirası

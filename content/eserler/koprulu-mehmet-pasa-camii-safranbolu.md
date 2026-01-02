@@ -1,18 +1,17 @@
 ---
-title: "Köprülü Mehmet Paşa Camii, Safranbolu | Miras Haritası"
-date: 2025-12-25T00:30:23+03:00
+title: "Köprülü Mehmet Paşa Camii, Safranbolu"
+date: "2025-12-25T00:30:23+03:00"
 slug: "koprulu-mehmet-pasa-camii-safranbolu"
 description: "## Köprülü Mehmet Paşa Camii: Safranbolu'da Bir Osmanlı Dönemi İhtişamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20180107_Safranbolu_1942_(39810646531).jpg/1200px-20180107_Safranbolu_1942_(39810646531).jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.6926918,41.2447166"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Köprülü Mehmet Paşa Camii: Safranbolu'da Bir Osmanlı Dönemi İhtişamı

@@ -1,18 +1,17 @@
 ---
-title: "Katip Muslihittin Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:04:06+03:00
+title: "Katip Muslihittin Çeşmesi"
+date: "2025-12-25T11:04:06+03:00"
 slug: "katip-muslihittin-cesmesi"
 description: "## Katip Muslihittin Çeşmesi: Aksaray'da Bir Tarihî Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.947918,41.008602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Katip Muslihittin Çeşmesi: Aksaray'da Bir Tarihî Çeşme

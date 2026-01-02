@@ -1,18 +1,17 @@
 ---
-title: "Kadı Bedreddin Camii | Miras Haritası"
-date: 2025-12-24T23:37:55+03:00
+title: "Kadı Bedreddin Camii"
+date: "2025-12-24T23:37:55+03:00"
 slug: "kadi-bedreddin-camii"
 description: "## Kadı Bedreddin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kadı_Bedreddin_Camii_33.JPG/1200px-Kadı_Bedreddin_Camii_33.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5653381,41.6701469"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kadı Bedreddin Camii

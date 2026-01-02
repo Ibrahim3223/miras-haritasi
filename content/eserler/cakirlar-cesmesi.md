@@ -1,18 +1,17 @@
 ---
-title: "Çakırlar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:36:34+03:00
+title: "Çakırlar Çeşmesi"
+date: "2025-12-25T12:36:34+03:00"
 slug: "cakirlar-cesmesi"
 description: "## Çakırlar Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.861903988,39.942712272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakırlar Çeşmesi

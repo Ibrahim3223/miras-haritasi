@@ -1,18 +1,17 @@
 ---
-title: "Şeker Pınar Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:20:58+03:00
+title: "Şeker Pınar Çeşmesi, Hekimhan"
+date: "2025-12-25T12:20:58+03:00"
 slug: "seker-pinar-cesmesi-hekimhan"
 description: "## Şeker Pınar Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.891974168,38.958067493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeker Pınar Çeşmesi, Hekimhan

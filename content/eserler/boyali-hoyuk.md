@@ -1,18 +1,17 @@
 ---
-title: "Boyalı Höyük | Miras Haritası"
-date: 2025-12-25T08:14:27+03:00
+title: "Boyalı Höyük"
+date: "2025-12-25T08:14:27+03:00"
 slug: "boyali-hoyuk"
 description: "# Boyalı Höyük: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Sungurlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2922,40.3211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Boyalı Höyük: Tarihi ve Kültürel Miras

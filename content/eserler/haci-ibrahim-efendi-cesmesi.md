@@ -1,18 +1,17 @@
 ---
-title: "Hacı İbrahim Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:09:09+03:00
+title: "Hacı İbrahim Efendi Çeşmesi"
+date: "2025-12-25T12:09:09+03:00"
 slug: "haci-ibrahim-efendi-cesmesi"
 description: "### Hacı İbrahim Efendi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mevlanakapı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9254402,41.0128891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı İbrahim Efendi Çeşmesi

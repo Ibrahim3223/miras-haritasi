@@ -1,18 +1,17 @@
 ---
-title: "Tüfekçi Cumhuriyet Camii | Miras Haritası"
-date: 2025-12-25T00:42:53+03:00
+title: "Tüfekçi Cumhuriyet Camii"
+date: "2025-12-25T00:42:53+03:00"
 slug: "tufekci-cumhuriyet-camii"
 description: "## Tüfekçi Cumhuriyet Camii: Trabzon'un Gizli Çehresini İyileştiren Bir Mimari Harikası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Dernekpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.227788975,40.781234919"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tüfekçi Cumhuriyet Camii: Trabzon'un Gizli Çehresini İyileştiren Bir Mimari Harikası

@@ -1,18 +1,18 @@
 ---
-title: "Abdüsselam Camii | Miras Haritası"
-date: 2025-12-24T22:45:08+03:00
+title: "Abdüsselam Camii"
+date: "2025-12-24T22:45:08+03:00"
 slug: "abdusselam-camii"
 description: "## Abdüsselam Camii: Küçükçekmece'nin Tarihi ve Kültürel Mirası..."
-featured_image: ""
-province: "Küçükçekmece"
-iller: ["Küçükçekmece"]
-district: "Yeni Mahalle"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Abdüsselam_Camii.jpg/1200px-Abdüsselam_Camii.jpg"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Küçükçekmece"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.7725449,40.9919319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Abdüsselam_Camii.jpg/1200px-Abdüsselam_Camii.jpg"
 ---
 
 ## Abdüsselam Camii: Küçükçekmece'nin Tarihi ve Kültürel Mirası

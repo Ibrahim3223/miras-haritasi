@@ -1,18 +1,17 @@
 ---
-title: "Sütlüce Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:18:39+03:00
+title: "Sütlüce Çeşmesi"
+date: "2025-12-25T11:18:39+03:00"
 slug: "sutluce-cesmesi"
 description: "## Sütlüce Çeşmesi Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sütlüce_Çeşmesi_IMG_1049.jpg/1200px-Sütlüce_Çeşmesi_IMG_1049.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Sütlüce"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.941062,41.048366"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sütlüce Çeşmesi Tanıtımı

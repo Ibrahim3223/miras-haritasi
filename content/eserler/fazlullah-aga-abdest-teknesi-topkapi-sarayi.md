@@ -1,18 +1,17 @@
 ---
-title: "Fazlullah Ağa Abdest Teknesi, Topkapı Sarayı | Miras Haritası"
-date: 2025-12-25T12:53:49+03:00
+title: "Fazlullah Ağa Abdest Teknesi, Topkapı Sarayı"
+date: "2025-12-25T12:53:49+03:00"
 slug: "fazlullah-aga-abdest-teknesi-topkapi-sarayi"
 description: "## Fazlullah Ağa Abdest Teknesi: Topkapı Sarayı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9840736,41.0133743"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Fazlullah Ağa Abdest Teknesi: Topkapı Sarayı'nın Gizli Çeşmesi

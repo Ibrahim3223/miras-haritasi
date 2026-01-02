@@ -1,18 +1,17 @@
 ---
-title: "Manastır 2 – Çınarlı | Miras Haritası"
-date: 2025-12-25T09:58:10+03:00
+title: "Manastır 2 – Çınarlı"
+date: "2025-12-25T09:58:10+03:00"
 slug: "manastir-2-cinarli"
 description: "### Manastır 2 – Çınarlı: Gökçeada'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.8936996,40.1831017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Manastır 2 – Çınarlı: Gökçeada'nın Tarihi Bir Mirası

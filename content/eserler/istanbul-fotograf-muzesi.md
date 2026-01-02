@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Fotoğraf Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:23+03:00
+title: "İstanbul Fotoğraf Müzesi"
+date: "2025-12-25T03:49:23+03:00"
 slug: "istanbul-fotograf-muzesi"
 description: "## İstanbul Fotoğraf Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.967813,41.004692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Fotoğraf Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Sultan Çeşmesi, Ayvansaray | Miras Haritası"
-date: 2025-12-25T12:16:36+03:00
+title: "Sultan Çeşmesi, Ayvansaray"
+date: "2025-12-25T12:16:36+03:00"
 slug: "sultan-cesmesi-ayvansaray"
 description: "## Sultan Çeşmesi, Ayvansaray..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.941173,41.031589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Çeşmesi, Ayvansaray

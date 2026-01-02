@@ -1,18 +1,17 @@
 ---
-title: "Edipzade Camii | Miras Haritası"
-date: 2025-12-25T00:35:38+03:00
+title: "Edipzade Camii"
+date: "2025-12-25T00:35:38+03:00"
 slug: "edipzade-camii"
 description: "## Edipzade Camii: Antalya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.701024362,36.887921487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Edipzade Camii: Antalya'nın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ağalar Dairesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:20+03:00
+title: "Ağalar Dairesi Çeşmesi"
+date: "2025-12-25T11:48:20+03:00"
 slug: "agalar-dairesi-cesmesi"
 description: "## Ağalar Dairesi Çeşmesi..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Darüşşafaka"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0256062,41.1194153"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağalar Dairesi Çeşmesi

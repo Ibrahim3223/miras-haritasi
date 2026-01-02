@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Bey Camii, Diyarbakır | Miras Haritası"
-date: 2025-12-25T00:26:52+03:00
+title: "İbrahim Bey Camii, Diyarbakır"
+date: "2025-12-25T00:26:52+03:00"
 slug: "ibrahim-bey-camii-diyarbakir"
 description: "## İbrahim Bey Camii, Diyarbakır..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2396889,37.9126244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Bey Camii, Diyarbakır

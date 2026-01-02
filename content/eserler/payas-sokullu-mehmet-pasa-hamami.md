@@ -1,18 +1,17 @@
 ---
-title: "Payas Sokullu Mehmet Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:45+03:00
+title: "Payas Sokullu Mehmet Paşa Hamamı"
+date: "2025-12-25T17:09:45+03:00"
 slug: "payas-sokullu-mehmet-pasa-hamami"
 description: "### Payas Sokullu Mehmet Paşa Hamamı: Hatay'ın Tarihsel Bir Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Payas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.2033195,36.7544289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Payas Sokullu Mehmet Paşa Hamamı: Hatay'ın Tarihsel Bir Mirası

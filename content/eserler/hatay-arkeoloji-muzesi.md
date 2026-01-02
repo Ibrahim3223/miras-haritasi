@@ -1,18 +1,17 @@
 ---
-title: "Hatay Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:08:58+03:00
+title: "Hatay Arkeoloji Müzesi"
+date: "2025-12-25T03:08:58+03:00"
 slug: "hatay-arkeoloji-muzesi"
 description: "## Hatay Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hatay_Archaeology_Museum,_Antakya,_Turkey_(35454860543).jpg/1200px-Hatay_Archaeology_Museum,_Antakya,_Turkey_(35454860543).jpg"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.16,36.20194444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hatay Arkeoloji Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Hatice Hatun Camii | Miras Haritası"
-date: 2025-12-24T23:34:07+03:00
+title: "Hatice Hatun Camii"
+date: "2025-12-24T23:34:07+03:00"
 slug: "hatice-hatun-camii"
 description: "## Hatice Hatun Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bolu"
+province: "Bolu"
+iller: '["Bolu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.2155209,40.4594574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Hatun Camii

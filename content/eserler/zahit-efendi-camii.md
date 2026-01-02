@@ -1,18 +1,17 @@
 ---
-title: "Zahit Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:51:29+03:00
+title: "Zahit Efendi Camii"
+date: "2025-12-24T23:51:29+03:00"
 slug: "zahit-efendi-camii"
 description: "## Zahit Efendi Camii: Bayburt'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt ili genel seçim sonuçları"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2280273,40.257103"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zahit Efendi Camii: Bayburt'un Tarihi ve Kültürel Mirası

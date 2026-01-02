@@ -1,18 +1,17 @@
 ---
-title: "Devecioğlu Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:07:25+03:00
+title: "Devecioğlu Çeşmesi, Bayındır"
+date: "2025-12-25T12:07:25+03:00"
 slug: "devecioglu-cesmesi-bayindir"
 description: "## Devecioğlu Çeşmesi: Bayındır'ın Tarihî Öyküsünün Parçaları Arasındaki Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6433716,38.2226028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Devecioğlu Çeşmesi: Bayındır'ın Tarihî Öyküsünün Parçaları Arasındaki Çeşme

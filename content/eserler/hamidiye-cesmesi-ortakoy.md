@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Çeşmesi, Ortaköy | Miras Haritası"
-date: 2025-12-25T12:21:56+03:00
+title: "Hamidiye Çeşmesi, Ortaköy"
+date: "2025-12-25T12:21:56+03:00"
 slug: "hamidiye-cesmesi-ortakoy"
 description: "# Hamidiye Çeşmesi, Ortaköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hamidiye_Çeşmesi,_Ortaköy.jpg/1200px-Hamidiye_Çeşmesi,_Ortaköy.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.026598,41.047554"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hamidiye Çeşmesi, Ortaköy

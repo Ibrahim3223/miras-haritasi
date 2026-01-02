@@ -1,18 +1,17 @@
 ---
-title: "Alazeytin Kalesi | Miras Haritası"
-date: 2025-12-25T05:18:11+03:00
+title: "Alazeytin Kalesi"
+date: "2025-12-25T05:18:11+03:00"
 slug: "alazeytin-kalesi"
 description: "**Alazeytin Kalesi: Bodrum'un Gizli Kahramanı**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.541166666,37.019388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Alazeytin Kalesi: Bodrum'un Gizli Kahramanı**

@@ -1,18 +1,17 @@
 ---
-title: "Panayia Belgradu Kilisesi Ayazması | Miras Haritası"
-date: 2025-12-25T12:42:50+03:00
+title: "Panayia Belgradu Kilisesi Ayazması"
+date: "2025-12-25T12:42:50+03:00"
 slug: "panayia-belgradu-kilisesi-ayazmasi"
 description: "## Panayia Belgradu Kilisesi Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9220886,41.0000496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panayia Belgradu Kilisesi Ayazması

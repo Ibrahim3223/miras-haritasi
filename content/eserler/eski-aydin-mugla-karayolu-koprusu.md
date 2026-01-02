@@ -1,18 +1,17 @@
 ---
-title: "Eski Aydın Muğla Karayolu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:47:53+03:00
+title: "Eski Aydın Muğla Karayolu Köprüsü"
+date: "2025-12-25T02:47:53+03:00"
 slug: "eski-aydin-mugla-karayolu-koprusu"
 description: "## Eski Aydın Muğla Karayolu Köprüsü: Aydın'ın Tarihi ve Mimari Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1507759,37.4549255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Aydın Muğla Karayolu Köprüsü: Aydın'ın Tarihi ve Mimari Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Keçivan Kalesi, Kağızman | Miras Haritası"
-date: 2025-12-25T01:43:21+03:00
+title: "Keçivan Kalesi, Kağızman"
+date: "2025-12-25T01:43:21+03:00"
 slug: "kecivan-kalesi-kagizman"
 description: "## Keçivan Kalesi: Kağızman'daki Tarihi Bir Miras..."
 featured_image: ""
 province: "Kars Oblastı"
-iller: ["Kars Oblastı"]
+iller: '["Kars Oblastı"]'
 district: "Kağızman"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.8642921,40.2758942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keçivan Kalesi: Kağızman'daki Tarihi Bir Miras

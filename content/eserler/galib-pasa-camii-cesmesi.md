@@ -1,18 +1,17 @@
 ---
-title: "Galib Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:37:34+03:00
+title: "Galib Paşa Camii Çeşmesi"
+date: "2025-12-25T10:37:34+03:00"
 slug: "galib-pasa-camii-cesmesi"
 description: "# Galib Paşa Camii Çeşmesi..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Caddebostan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.069805555,40.966027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Galib Paşa Camii Çeşmesi

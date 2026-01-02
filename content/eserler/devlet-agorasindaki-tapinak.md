@@ -1,18 +1,17 @@
 ---
-title: "Devlet Agorasındaki Tapınak | Miras Haritası"
-date: 2025-12-25T05:40:41+03:00
+title: "Devlet Agorasındaki Tapınak"
+date: "2025-12-25T05:40:41+03:00"
 slug: "devlet-agorasindaki-tapinak"
 description: "# Devlet Agorasındaki Tapınak..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.343908818,37.936474846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Devlet Agorasındaki Tapınak

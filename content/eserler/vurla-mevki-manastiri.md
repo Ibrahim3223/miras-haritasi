@@ -1,18 +1,17 @@
 ---
-title: "Vurla Mevki Manastırı | Miras Haritası"
-date: 2025-12-25T09:59:25+03:00
+title: "Vurla Mevki Manastırı"
+date: "2025-12-25T09:59:25+03:00"
 slug: "vurla-mevki-manastiri"
 description: "## Vurla Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.7779999,40.1484985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vurla Mevki Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Babıali Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:17:18+03:00
+title: "Babıali Çeşmeleri"
+date: "2025-12-25T11:17:18+03:00"
 slug: "babiali-cesmeleri"
 description: "**Babıali Çeşmeleri: Tarihi ve Kültürel Bir Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Babıali_Çeşmeleri_2025.jpg/1200px-Babıali_Çeşmeleri_2025.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Alemdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.977983,41.011145"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Babıali Çeşmeleri: Tarihi ve Kültürel Bir Miras**

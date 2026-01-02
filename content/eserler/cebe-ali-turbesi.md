@@ -1,18 +1,17 @@
 ---
-title: "Cebe Ali Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:42+03:00
+title: "Cebe Ali Türbesi"
+date: "2025-12-25T14:22:42+03:00"
 slug: "cebe-ali-turbesi"
 description: "## Cabe Ali Türbesi: Fatih'teki Hicazlı Mütevelli'nin Eşiyle Bağlı Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.958663,41.02626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cabe Ali Türbesi: Fatih'teki Hicazlı Mütevelli'nin Eşiyle Bağlı Bir Anıt

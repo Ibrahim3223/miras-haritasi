@@ -1,18 +1,17 @@
 ---
-title: "Uzun Piyale Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:19+03:00
+title: "Uzun Piyale Paşa Çeşmesi"
+date: "2025-12-25T11:20:19+03:00"
 slug: "uzun-piyale-pasa-cesmesi"
 description: "## Uzun Piyale Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Uzun_Piyale_Paşa_Çeşmesi_IMG_7736.jpg/1200px-Uzun_Piyale_Paşa_Çeşmesi_IMG_7736.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kulaksız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.965382,41.036278"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Uzun Piyale Paşa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hosia (Azize) Paraskevi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:41:59+03:00
+title: "Hosia (Azize) Paraskevi Kilisesi"
+date: "2025-12-25T09:41:59+03:00"
 slug: "hosia-azize-paraskevi-kilisesi"
 description: "## Hosia (Azize) Paraskevi Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.3668003,41.0532227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hosia (Azize) Paraskevi Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Eirenopolis | Miras Haritası"
-date: 2025-12-25T05:21:57+03:00
+title: "Eirenopolis"
+date: "2025-12-25T05:21:57+03:00"
 slug: "eirenopolis"
 description: "## Eirenopolis: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8995,36.48111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eirenopolis: Tarihi ve Kültürel Mirasın Gizemi

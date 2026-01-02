@@ -1,18 +1,17 @@
 ---
-title: "Turkuaz Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:07+03:00
+title: "Turkuaz Sokak Çeşmesi"
+date: "2025-12-25T10:45:07+03:00"
 slug: "turkuaz-sokak-cesmesi"
 description: "### Turkuaz Sokak Çeşmesi ..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9533443,40.7966499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Turkuaz Sokak Çeşmesi 

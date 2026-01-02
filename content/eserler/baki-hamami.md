@@ -1,18 +1,17 @@
 ---
-title: "Baki Hamamı | Miras Haritası"
-date: 2025-12-25T16:48:38+03:00
+title: "Baki Hamamı"
+date: "2025-12-25T16:48:38+03:00"
 slug: "baki-hamami"
 description: "### Baki Hamamı: Bilecik'te Bir Önemli Kültür Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9838734,40.1428757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Baki Hamamı: Bilecik'te Bir Önemli Kültür Mirası

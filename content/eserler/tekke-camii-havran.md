@@ -1,18 +1,17 @@
 ---
-title: "Tekke Camii, Havran | Miras Haritası"
-date: 2025-12-25T01:08:51+03:00
+title: "Tekke Camii, Havran"
+date: "2025-12-25T01:08:51+03:00"
 slug: "tekke-camii-havran"
 description: "## Tekke Camii, Havran..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Havran"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0941715,39.555088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekke Camii, Havran

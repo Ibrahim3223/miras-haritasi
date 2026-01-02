@@ -1,18 +1,17 @@
 ---
-title: "Yakup Çelebi Külliyesi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:54:00+03:00
+title: "Yakup Çelebi Külliyesi Kütüphanesi"
+date: "2025-12-25T17:54:00+03:00"
 slug: "yakup-celebi-kulliyesi-kutuphanesi"
 description: "## Yakup Çelebi Külliyesi Kütüphanesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.9760513,39.4170303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yakup Çelebi Külliyesi Kütüphanesi

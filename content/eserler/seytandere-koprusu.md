@@ -1,18 +1,17 @@
 ---
-title: "Şeytandere Köprüsü | Miras Haritası"
-date: 2025-12-25T03:01:57+03:00
+title: "Şeytandere Köprüsü"
+date: "2025-12-25T03:01:57+03:00"
 slug: "seytandere-koprusu"
 description: "## Şeytandere Köprüsü: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.2742939,41.7754745"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeytandere Köprüsü: Kırklareli'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Hüyücek | Miras Haritası"
-date: 2025-12-25T05:35:23+03:00
+title: "Hüyücek"
+date: "2025-12-25T05:35:23+03:00"
 slug: "huyucek"
 description: "## Hüyücek Arkeolojik Sit..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.07855,39.895233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüyücek Arkeolojik Sit

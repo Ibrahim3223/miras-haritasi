@@ -1,18 +1,17 @@
 ---
-title: "Thiatira | Miras Haritası"
-date: 2025-12-25T03:09:27+03:00
+title: "Thiatira"
+date: "2025-12-25T03:09:27+03:00"
 slug: "thiatira"
 description: "## Thiatira: Antik Çağın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Columns_of_Thiatira.jpg/1200px-Columns_of_Thiatira.jpg"
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.841666666,38.920833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Thiatira: Antik Çağın Gizemi

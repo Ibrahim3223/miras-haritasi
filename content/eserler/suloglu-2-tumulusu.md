@@ -1,18 +1,17 @@
 ---
-title: "Süloğlu 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:02:49+03:00
+title: "Süloğlu 2 Tümülüsü"
+date: "2025-12-25T08:02:49+03:00"
 slug: "suloglu-2-tumulusu"
 description: "### Süloğlu 2 Tümülüsü: Edirne'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8799191,41.747509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Süloğlu 2 Tümülüsü: Edirne'nin Gizli Hazinesi

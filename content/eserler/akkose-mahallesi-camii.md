@@ -1,18 +1,17 @@
 ---
-title: "Akköse Mahallesi Camii | Miras Haritası"
-date: 2025-12-25T00:39:25+03:00
+title: "Akköse Mahallesi Camii"
+date: "2025-12-25T00:39:25+03:00"
 slug: "akkose-mahallesi-camii"
 description: "### Akköse Mahallesi Camii: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Dernekpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.275558519,40.789881606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akköse Mahallesi Camii: Tarihi ve Kültürel Mirasın Bir Parçası

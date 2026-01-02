@@ -1,18 +1,17 @@
 ---
-title: "Hagios Stephanos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:26+03:00
+title: "Hagios Stephanos Kilisesi"
+date: "2025-12-25T09:31:26+03:00"
 slug: "hagios-stephanos-kilisesi"
 description: "## Hagios Stephanos Kilisesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.6490974,38.5491524"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hagios Stephanos Kilisesi

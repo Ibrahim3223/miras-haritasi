@@ -1,18 +1,17 @@
 ---
-title: "Misis Mozaik Müzesi | Miras Haritası"
-date: 2025-12-25T03:15:40+03:00
+title: "Misis Mozaik Müzesi"
+date: "2025-12-25T03:15:40+03:00"
 slug: "misis-mozaik-muzesi"
 description: "## Misis Mozaik Müzesi: Antik Çağın Gizemli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MisisMosaik.jpg/1200px-MisisMosaik.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.61944444,36.9575"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Misis Mozaik Müzesi: Antik Çağın Gizemli Mirası

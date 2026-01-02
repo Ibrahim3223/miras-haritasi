@@ -1,18 +1,17 @@
 ---
-title: "Ferruhşah Camii | Miras Haritası"
-date: 2025-12-24T21:59:00+03:00
+title: "Ferruhşah Camii"
+date: "2025-12-24T21:59:00+03:00"
 slug: "ferruhsah-camii"
 description: "## Ferruhşah Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.407777777,38.355277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferruhşah Camii: Tarihi ve Kültürel Mirası

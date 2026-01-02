@@ -1,18 +1,17 @@
 ---
-title: "Gangra | Miras Haritası"
-date: 2025-12-25T04:26:30+03:00
+title: "Gangra"
+date: "2025-12-25T04:26:30+03:00"
 slug: "gangra"
 description: "## Gangra Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.6172,40.603"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gangra Arkeolojik Sit

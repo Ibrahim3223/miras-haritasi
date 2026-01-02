@@ -1,18 +1,17 @@
 ---
-title: "Otluk Kapısı | Miras Haritası"
-date: 2025-12-25T15:35:47+03:00
+title: "Otluk Kapısı"
+date: "2025-12-25T15:35:47+03:00"
 slug: "otluk-kapisi"
 description: "## Otluk Kapısı: Fatih'teki Bir Tarihî Anıtın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.982746,41.005695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Otluk Kapısı: Fatih'teki Bir Tarihî Anıtın Gizemi

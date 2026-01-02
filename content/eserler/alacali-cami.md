@@ -1,18 +1,17 @@
 ---
-title: "Alacalı Cami | Miras Haritası"
-date: 2025-12-24T21:44:22+03:00
+title: "Alacalı Cami"
+date: "2025-12-24T21:44:22+03:00"
 slug: "alacali-cami"
 description: "### Alacalı Cami Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Festung_Harput.jpg/1200px-Festung_Harput.jpg"
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.250527777,38.702333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Alacalı Cami Tanıtımı

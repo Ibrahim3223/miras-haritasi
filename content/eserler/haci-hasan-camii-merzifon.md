@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hasan Camii, Merzifon | Miras Haritası"
-date: 2025-12-25T00:24:53+03:00
+title: "Hacı Hasan Camii, Merzifon"
+date: "2025-12-25T00:24:53+03:00"
 slug: "haci-hasan-camii-merzifon"
 description: "# Hacı Hasan Camii: Merzifon'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4636803,40.8703842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Hasan Camii: Merzifon'un Tarihî Bir Mirası

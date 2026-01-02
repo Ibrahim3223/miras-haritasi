@@ -1,18 +1,17 @@
 ---
-title: "Letoon | Miras Haritası"
-date: 2025-12-25T06:48:46+03:00
+title: "Letoon"
+date: "2025-12-25T06:48:46+03:00"
 slug: "letoon"
 description: "### Letoon: Lycia'nın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Letoon_Temple_Area_2019.jpg/1200px-Letoon_Temple_Area_2019.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.289722222,36.331944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Letoon: Lycia'nın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Muğdat Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:25+03:00
+title: "Muğdat Dede Türbesi"
+date: "2025-12-25T15:24:25+03:00"
 slug: "mugdat-dede-turbesi"
 description: "## Muğdat Dede Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Yenişehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6008186,36.7827873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muğdat Dede Türbesi

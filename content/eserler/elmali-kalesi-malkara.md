@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Kalesi, Malkara | Miras Haritası"
-date: 2025-12-25T01:24:04+03:00
+title: "Elmalı Kalesi, Malkara"
+date: "2025-12-25T01:24:04+03:00"
 slug: "elmali-kalesi-malkara"
 description: "### Elmalı Kalesi: Tarihi ve Kültürel Mirasın Parçaları Arasında..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: ["İstanbul Vilayeti"]
+iller: '["İstanbul Vilayeti"]'
 district: "Malkara"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.9400158,40.7698746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Elmalı Kalesi: Tarihi ve Kültürel Mirasın Parçaları Arasında

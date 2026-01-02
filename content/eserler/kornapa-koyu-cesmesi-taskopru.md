@@ -1,18 +1,17 @@
 ---
-title: "Kornapa Köyü Çeşmesi, Taşköprü | Miras Haritası"
-date: 2025-12-25T12:57:43+03:00
+title: "Kornapa Köyü Çeşmesi, Taşköprü"
+date: "2025-12-25T12:57:43+03:00"
 slug: "kornapa-koyu-cesmesi-taskopru"
 description: "### Kornapa Köyü Çeşmesi: Taşköprü'deki Gizli Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Taşköprü"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.272240064,41.576638511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kornapa Köyü Çeşmesi: Taşköprü'deki Gizli Çeşme

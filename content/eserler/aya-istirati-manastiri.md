@@ -1,18 +1,17 @@
 ---
-title: "Aya İstirati Manastırı | Miras Haritası"
-date: 2025-12-25T09:59:14+03:00
+title: "Aya İstirati Manastırı"
+date: "2025-12-25T09:59:14+03:00"
 slug: "aya-istirati-manastiri"
 description: "## Aya İstirati Manastırı: Gökçeada'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.8463001,40.1689987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya İstirati Manastırı: Gökçeada'nın Gizli Kahramanı

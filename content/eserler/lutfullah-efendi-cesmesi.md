@@ -1,18 +1,17 @@
 ---
-title: "Lütfullah Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:54+03:00
+title: "Lütfullah Efendi Çeşmesi"
+date: "2025-12-25T11:01:54+03:00"
 slug: "lutfullah-efendi-cesmesi"
 description: "### Lütfullah Efendi Çeşmesi: Fatih'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9521427,41.025631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Lütfullah Efendi Çeşmesi: Fatih'in Tarihi ve Kültürel Mirası

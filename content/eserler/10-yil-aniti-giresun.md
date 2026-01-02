@@ -1,18 +1,17 @@
 ---
-title: "10. Yıl Anıtı, Giresun | Miras Haritası"
-date: 2025-12-25T15:49:36+03:00
+title: "10. Yıl Anıtı, Giresun"
+date: "2025-12-25T15:49:36+03:00"
 slug: "10-yil-aniti-giresun"
 description: "### 10. Yıl Anıtı, Giresun..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.385441,40.918938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### 10. Yıl Anıtı, Giresun

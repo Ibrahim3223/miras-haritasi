@@ -1,18 +1,17 @@
 ---
-title: "Lysimacheia | Miras Haritası"
-date: 2025-12-25T06:16:13+03:00
+title: "Lysimacheia"
+date: "2025-12-25T06:16:13+03:00"
 slug: "lysimacheia"
 description: "# Lysimacheia: Gelibolu'nun Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8868484,40.577652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Lysimacheia: Gelibolu'nun Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Yakup Çelebi Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:36+03:00
+title: "Yakup Çelebi Hamamı"
+date: "2025-12-25T17:09:36+03:00"
 slug: "yakup-celebi-hamami"
 description: "## Yakup Çelebi Hamamı: Keles'te Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Keles"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.2326679,39.9124756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yakup Çelebi Hamamı: Keles'te Bir Osmanlı Dönemi Mirası

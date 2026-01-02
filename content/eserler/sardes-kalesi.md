@@ -1,18 +1,17 @@
 ---
-title: "Sardes Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:07+03:00
+title: "Sardes Kalesi"
+date: "2025-12-25T01:33:07+03:00"
 slug: "sardes-kalesi"
 description: "### Sardes Kalesi: Tarihî Bir Miras..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.04462,38.47471"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sardes Kalesi: Tarihî Bir Miras

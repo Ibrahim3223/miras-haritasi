@@ -1,18 +1,17 @@
 ---
-title: "Samatya Kapısı | Miras Haritası"
-date: 2025-12-25T13:15:58+03:00
+title: "Samatya Kapısı"
+date: "2025-12-25T13:15:58+03:00"
 slug: "samatya-kapisi"
 description: "## Samatya Kapısı: Fatih'teki Tarihi Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.932384,40.999516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samatya Kapısı: Fatih'teki Tarihi Bir Anıt

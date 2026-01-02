@@ -1,18 +1,17 @@
 ---
-title: "Ören Arkeopark Alanı | Miras Haritası"
-date: 2025-12-25T03:47:51+03:00
+title: "Ören Arkeopark Alanı"
+date: "2025-12-25T03:47:51+03:00"
 slug: "oren-arkeopark-alani"
 description: "## Ören Arkeopark Alanı: Milas'ın Gizli Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.9726715,37.0370445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ören Arkeopark Alanı: Milas'ın Gizli Harikası

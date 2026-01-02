@@ -1,18 +1,17 @@
 ---
-title: "Topçu Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:58+03:00
+title: "Topçu Baba Türbesi"
+date: "2025-12-25T15:25:58+03:00"
 slug: "topcu-baba-turbesi"
 description: "## Topçu Baba Türbesi: Klasik Osmanlı Mimarisi'nin Büyüleyici Örneği..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1402035,42.0468521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topçu Baba Türbesi: Klasik Osmanlı Mimarisi'nin Büyüleyici Örneği

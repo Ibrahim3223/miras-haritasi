@@ -1,18 +1,17 @@
 ---
-title: "Paktye | Miras Haritası"
-date: 2025-12-25T04:26:12+03:00
+title: "Paktye"
+date: "2025-12-25T04:26:12+03:00"
 slug: "paktye"
 description: "### Paktye: Gelibolu'nun Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.780688,40.485384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Paktye: Gelibolu'nun Gizli Mirası

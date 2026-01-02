@@ -1,18 +1,17 @@
 ---
-title: "Deri Hamamı | Miras Haritası"
-date: 2025-12-25T16:55:22+03:00
+title: "Deri Hamamı"
+date: "2025-12-25T16:55:22+03:00"
 slug: "deri-hamami"
 description: "## Deri Hamamı..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.4748154,40.7343979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deri Hamamı

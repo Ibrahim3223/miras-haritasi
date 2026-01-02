@@ -1,18 +1,17 @@
 ---
-title: "Dilaver Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:28+03:00
+title: "Dilaver Köprüsü"
+date: "2025-12-25T02:29:28+03:00"
 slug: "dilaver-koprusu"
 description: "### Dilaver Köprüsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.2307014,37.6717834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dilaver Köprüsü

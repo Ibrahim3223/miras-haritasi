@@ -1,18 +1,17 @@
 ---
-title: "Yenice Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:39+03:00
+title: "Yenice Köprüsü"
+date: "2025-12-25T02:23:39+03:00"
 slug: "yenice-koprusu"
 description: "### Yenice Köprüsü: Geçişin Gizemi..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: ["İstanbul Vilayeti"]
+iller: '["İstanbul Vilayeti"]'
 district: "Malkara"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.135685,40.91391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yenice Köprüsü: Geçişin Gizemi

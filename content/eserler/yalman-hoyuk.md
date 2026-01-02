@@ -1,18 +1,17 @@
 ---
-title: "Yalman Höyük | Miras Haritası"
-date: 2025-12-25T06:40:10+03:00
+title: "Yalman Höyük"
+date: "2025-12-25T06:40:10+03:00"
 slug: "yalman-hoyuk"
 description: "# Yalman Höyük..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.388549,38.5375303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yalman Höyük

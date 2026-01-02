@@ -1,18 +1,17 @@
 ---
-title: "Kuloğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:52+03:00
+title: "Kuloğlu Çeşmesi"
+date: "2025-12-25T11:42:52+03:00"
 slug: "kuloglu-cesmesi"
 description: "## Kuloğlu Çeşmesi: Yakutiye'nin Şövalyesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2732353,39.9049568"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuloğlu Çeşmesi: Yakutiye'nin Şövalyesi

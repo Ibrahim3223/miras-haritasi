@@ -1,18 +1,17 @@
 ---
-title: "Üç Ayak Mezar Anıtı | Miras Haritası"
-date: 2025-12-25T14:04:55+03:00
+title: "Üç Ayak Mezar Anıtı"
+date: "2025-12-25T14:04:55+03:00"
 slug: "uc-ayak-mezar-aniti"
 description: "## Üç Ayak Mezar Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.180267,36.527253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üç Ayak Mezar Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Mahbup Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:58+03:00
+title: "Mahbup Ağa Çeşmesi"
+date: "2025-12-25T11:21:58+03:00"
 slug: "mahbup-aga-cesmesi"
 description: "**Mahbup Ağa Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.039518,41.032701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mahbup Ağa Çeşmesi**

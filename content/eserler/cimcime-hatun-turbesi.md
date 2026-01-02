@@ -1,18 +1,17 @@
 ---
-title: "Cimcime Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:00:35+03:00
+title: "Cimcime Hatun Türbesi"
+date: "2025-12-25T14:00:35+03:00"
 slug: "cimcime-hatun-turbesi"
 description: "## Cimcime Hatun Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.27668,39.906333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cimcime Hatun Türbesi

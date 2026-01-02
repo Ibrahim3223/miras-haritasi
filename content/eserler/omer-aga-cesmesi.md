@@ -1,18 +1,17 @@
 ---
-title: "Ömer Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:24:27+03:00
+title: "Ömer Ağa Çeşmesi"
+date: "2025-12-25T11:24:27+03:00"
 slug: "omer-aga-cesmesi"
 description: "## Ömer Ağa Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4338379,38.6120262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömer Ağa Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi

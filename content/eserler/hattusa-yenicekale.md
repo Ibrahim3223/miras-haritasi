@@ -1,18 +1,17 @@
 ---
-title: "Hattuşa Yenicekale | Miras Haritası"
-date: 2025-12-25T01:42:56+03:00
+title: "Hattuşa Yenicekale"
+date: "2025-12-25T01:42:56+03:00"
 slug: "hattusa-yenicekale"
 description: "# Hattuşa Yenicekale: Boğazkale'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Boğazkale"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.612526,40.010551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hattuşa Yenicekale: Boğazkale'nin Gizli Kahramanı

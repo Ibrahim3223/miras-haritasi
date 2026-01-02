@@ -1,18 +1,17 @@
 ---
-title: "Çeşnigir Sinan Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:33:00+03:00
+title: "Çeşnigir Sinan Paşa Camii"
+date: "2025-12-24T22:33:00+03:00"
 slug: "cesnigir-sinan-pasa-camii"
 description: "### Çeşnigir Sinan Paşa Camii: Isparta'da Bir Tarihi Kahraman..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Isparta"
+province: "Isparta"
+iller: '["Isparta"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7820168,38.0183487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşnigir Sinan Paşa Camii: Isparta'da Bir Tarihi Kahraman

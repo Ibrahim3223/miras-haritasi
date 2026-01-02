@@ -1,18 +1,17 @@
 ---
-title: "Dünya Barış Anıtı | Miras Haritası"
-date: 2025-12-25T15:42:09+03:00
+title: "Dünya Barış Anıtı"
+date: "2025-12-25T15:42:09+03:00"
 slug: "dunya-baris-aniti"
 description: "## Dünya Barış Anıtı: Barışın Simgesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayraklı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1465,38.494277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dünya Barış Anıtı: Barışın Simgesi

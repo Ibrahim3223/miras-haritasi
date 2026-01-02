@@ -1,18 +1,17 @@
 ---
-title: "Balıkesir Balya Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:22+03:00
+title: "Balıkesir Balya Saat Kulesi"
+date: "2025-12-25T17:21:22+03:00"
 slug: "balikesir-balya-saat-kulesi"
 description: "## Balıkesir Balya Saat Kulesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Balya"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "27.5782871,39.7497215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balıkesir Balya Saat Kulesi

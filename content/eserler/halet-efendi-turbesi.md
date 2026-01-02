@@ -1,18 +1,17 @@
 ---
-title: "Halet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:31:24+03:00
+title: "Halet Efendi Türbesi"
+date: "2025-12-25T15:31:24+03:00"
 slug: "halet-efendi-turbesi"
 description: "### Halet Efendi Türbesi: Beyoğlu'nun Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9745159,41.0282555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halet Efendi Türbesi: Beyoğlu'nun Gizli Cenneti

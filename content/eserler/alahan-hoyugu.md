@@ -1,18 +1,17 @@
 ---
-title: "Alahan Höyüğü | Miras Haritası"
-date: 2025-12-25T06:09:24+03:00
+title: "Alahan Höyüğü"
+date: "2025-12-25T06:09:24+03:00"
 slug: "alahan-hoyugu"
 description: "# Alahan Höyüğü: Geçmişin Gizemli Yerleşkesi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Elbeyli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.4370995,36.6641006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alahan Höyüğü: Geçmişin Gizemli Yerleşkesi

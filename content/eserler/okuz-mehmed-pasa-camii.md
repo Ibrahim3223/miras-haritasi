@@ -1,18 +1,17 @@
 ---
-title: "Öküz Mehmed Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:20:06+03:00
+title: "Öküz Mehmed Paşa Camii"
+date: "2025-12-24T22:20:06+03:00"
 slug: "okuz-mehmed-pasa-camii"
 description: "**Öküz Mehmed Paşa Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Öküz_Mehmed_Paşa_Camii_12.jpg/1200px-Öküz_Mehmed_Paşa_Camii_12.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.93806993,41.024343832"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Öküz Mehmed Paşa Camii**

@@ -1,18 +1,17 @@
 ---
-title: "Ömerhacılı Höyük | Miras Haritası"
-date: 2025-12-25T06:20:03+03:00
+title: "Ömerhacılı Höyük"
+date: "2025-12-25T06:20:03+03:00"
 slug: "omerhacili-hoyuk"
 description: "## Ömerhacılı Höyük: Kırşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8381535,39.2639461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömerhacılı Höyük: Kırşehir'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Zile Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:23:25+03:00
+title: "Zile Antik Tiyatrosu"
+date: "2025-12-25T08:23:25+03:00"
 slug: "zile-antik-tiyatrosu"
 description: "## Zile Antik Tiyatrosu..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.892015,40.304562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zile Antik Tiyatrosu

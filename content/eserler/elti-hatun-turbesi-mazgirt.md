@@ -1,18 +1,17 @@
 ---
-title: "Elti Hatun Türbesi, Mazgirt | Miras Haritası"
-date: 2025-12-25T13:58:26+03:00
+title: "Elti Hatun Türbesi, Mazgirt"
+date: "2025-12-25T13:58:26+03:00"
 slug: "elti-hatun-turbesi-mazgirt"
 description: "# Eski Elti Hatun Türbesi: Mazgirt'te Bir Klasik Anıt..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Mazgirt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.6054688,39.0213051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Eski Elti Hatun Türbesi: Mazgirt'te Bir Klasik Anıt

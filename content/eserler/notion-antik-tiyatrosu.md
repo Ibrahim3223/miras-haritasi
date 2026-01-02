@@ -1,18 +1,17 @@
 ---
-title: "Notion Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:22:00+03:00
+title: "Notion Antik Tiyatrosu"
+date: "2025-12-25T16:22:00+03:00"
 slug: "notion-antik-tiyatrosu"
 description: "## Notion Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menderes"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "27.20102,37.993566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Notion Antik Tiyatrosu

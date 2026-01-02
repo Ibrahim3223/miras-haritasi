@@ -1,18 +1,17 @@
 ---
-title: "Kurubeyzade Ali Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:30:26+03:00
+title: "Kurubeyzade Ali Bey Çeşmesi"
+date: "2025-12-25T11:30:26+03:00"
 slug: "kurubeyzade-ali-bey-cesmesi"
 description: "## Kurubeyzade Ali Bey Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kurubeyzade_Ali_Bey_Çeşmesi.jpg/1200px-Kurubeyzade_Ali_Bey_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6922607,41.2466278"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kurubeyzade Ali Bey Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

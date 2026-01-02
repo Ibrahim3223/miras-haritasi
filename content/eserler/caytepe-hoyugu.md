@@ -1,18 +1,17 @@
 ---
-title: "Çaytepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:40:38+03:00
+title: "Çaytepe Höyüğü"
+date: "2025-12-25T06:40:38+03:00"
 slug: "caytepe-hoyugu"
 description: "## Çaytepe Höyüğü: Diyarbakır'ın Kutsal Yerleri Arasındaki Gizemli Yer..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Kocaköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.5080258,38.2115336"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaytepe Höyüğü: Diyarbakır'ın Kutsal Yerleri Arasındaki Gizemli Yer

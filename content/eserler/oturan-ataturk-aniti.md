@@ -1,18 +1,17 @@
 ---
-title: "Oturan Atatürk Anıtı | Miras Haritası"
-date: 2025-12-25T15:48:17+03:00
+title: "Oturan Atatürk Anıtı"
+date: "2025-12-25T15:48:17+03:00"
 slug: "oturan-ataturk-aniti"
 description: "## Oturan Atatürk Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8547096,39.9423752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oturan Atatürk Anıtı

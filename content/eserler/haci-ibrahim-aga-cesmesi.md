@@ -1,18 +1,17 @@
 ---
-title: "Hacı İbrahim Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:21:49+03:00
+title: "Hacı İbrahim Ağa Çeşmesi"
+date: "2025-12-25T10:21:49+03:00"
 slug: "haci-ibrahim-aga-cesmesi"
 description: "**Hacı İbrahim Ağa Çeşmesi: Tarihî Bir Anıtsal Yapı**..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3996296,40.1484337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hacı İbrahim Ağa Çeşmesi: Tarihî Bir Anıtsal Yapı**

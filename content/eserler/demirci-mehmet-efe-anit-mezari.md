@@ -1,18 +1,17 @@
 ---
-title: "Demirci Mehmet Efe Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:06:21+03:00
+title: "Demirci Mehmet Efe Anıt Mezarı"
+date: "2025-12-25T14:06:21+03:00"
 slug: "demirci-mehmet-efe-anit-mezari"
 description: "## Demirci Mehmet Efe Anıt Mezarı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3324833,37.9253807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirci Mehmet Efe Anıt Mezarı

@@ -1,18 +1,17 @@
 ---
-title: "Saka Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:30:33+03:00
+title: "Saka Baba Kabri"
+date: "2025-12-25T13:30:33+03:00"
 slug: "saka-baba-kabri"
 description: "## Saka Baba Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9420166,41.0367661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saka Baba Kabri: Fatih'in Gizli Anıtı

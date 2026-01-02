@@ -1,18 +1,17 @@
 ---
-title: "Ebe Kadın Camii | Miras Haritası"
-date: 2025-12-24T22:50:40+03:00
+title: "Ebe Kadın Camii"
+date: "2025-12-24T22:50:40+03:00"
 slug: "ebe-kadin-camii"
 description: "**Ebe Kadın Camii**..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Molla Gürani"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.947697,41.011341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ebe Kadın Camii**

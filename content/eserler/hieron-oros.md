@@ -1,18 +1,17 @@
 ---
-title: "Hieron Oros | Miras Haritası"
-date: 2025-12-25T04:51:02+03:00
+title: "Hieron Oros"
+date: "2025-12-25T04:51:02+03:00"
 slug: "hieron-oros"
 description: "## Hieron Oros: Kıbrıs'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.423999,41.099978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hieron Oros: Kıbrıs'ın Tarihî ve Kültürel Mirası

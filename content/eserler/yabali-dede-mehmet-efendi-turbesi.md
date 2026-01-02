@@ -1,18 +1,17 @@
 ---
-title: "Yabalı Dede Mehmet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:02:14+03:00
+title: "Yabalı Dede Mehmet Efendi Türbesi"
+date: "2025-12-25T15:02:14+03:00"
 slug: "yabali-dede-mehmet-efendi-turbesi"
 description: "## Yabalı Dede Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.1619034,40.823555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yabalı Dede Mehmet Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Çoban Ali Höyük | Miras Haritası"
-date: 2025-12-25T07:01:58+03:00
+title: "Çoban Ali Höyük"
+date: "2025-12-25T07:01:58+03:00"
 slug: "coban-ali-hoyuk"
 description: "## Çoban Ali Höyük..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Ali Höyük

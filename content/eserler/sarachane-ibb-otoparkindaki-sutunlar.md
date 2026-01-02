@@ -1,18 +1,17 @@
 ---
-title: "Saraçhane İBB Otoparkındaki Sütunlar | Miras Haritası"
-date: 2025-12-25T14:30:52+03:00
+title: "Saraçhane İBB Otoparkındaki Sütunlar"
+date: "2025-12-25T14:30:52+03:00"
 slug: "sarachane-ibb-otoparkindaki-sutunlar"
 description: "## Saraçhane İBB Otoparkındaki Sütunlar: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9557438,41.0129852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraçhane İBB Otoparkındaki Sütunlar: İstanbul'un Gizli Anıtı

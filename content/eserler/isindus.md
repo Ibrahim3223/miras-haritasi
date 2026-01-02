@@ -1,18 +1,17 @@
 ---
-title: "Isindus | Miras Haritası"
-date: 2025-12-25T04:43:00+03:00
+title: "Isindus"
+date: "2025-12-25T04:43:00+03:00"
 slug: "isindus"
 description: "## Isindus: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Isindus: Tarihî Mirasın Gizemi

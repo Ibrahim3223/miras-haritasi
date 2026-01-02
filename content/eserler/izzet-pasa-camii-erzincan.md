@@ -1,18 +1,17 @@
 ---
-title: "İzzet Paşa Camii, Erzincan | Miras Haritası"
-date: 2025-12-25T01:07:58+03:00
+title: "İzzet Paşa Camii, Erzincan"
+date: "2025-12-25T01:07:58+03:00"
 slug: "izzet-pasa-camii-erzincan"
 description: "## Erzincan'ın Tarihi İmkânı: İzzet Paşa Camii..."
 featured_image: ""
-province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: "Erzurum Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.4912682,39.7233467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erzincan'ın Tarihi İmkânı: İzzet Paşa Camii

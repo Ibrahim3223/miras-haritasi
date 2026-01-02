@@ -1,18 +1,17 @@
 ---
-title: "Has Odabaşı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:08+03:00
+title: "Has Odabaşı Çeşmesi"
+date: "2025-12-25T11:44:08+03:00"
 slug: "has-odabasi-cesmesi"
 description: "**Has Odabaşı Çeşmesi**..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Hacı Kadın"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9605103,41.0206413"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Has Odabaşı Çeşmesi**

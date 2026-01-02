@@ -1,18 +1,17 @@
 ---
-title: "Kurttaş Tümülüsü, Arguvan | Miras Haritası"
-date: 2025-12-25T07:32:45+03:00
+title: "Kurttaş Tümülüsü, Arguvan"
+date: "2025-12-25T07:32:45+03:00"
 slug: "kurttas-tumulusu-arguvan"
 description: "### Kurttaş Tümülüsü, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1575394,38.9225769"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurttaş Tümülüsü, Arguvan

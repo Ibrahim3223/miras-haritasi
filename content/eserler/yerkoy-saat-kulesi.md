@@ -1,18 +1,17 @@
 ---
-title: "Yerköy Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:22:01+03:00
+title: "Yerköy Saat Kulesi"
+date: "2025-12-25T17:22:01+03:00"
 slug: "yerkoy-saat-kulesi"
 description: "**Yerköy Saat Kulesi: Yozgat'ın Tarihi ve Kültürel Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "34.469805555,39.637944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yerköy Saat Kulesi: Yozgat'ın Tarihi ve Kültürel Mirası**

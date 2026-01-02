@@ -1,18 +1,17 @@
 ---
-title: "Nusretiye Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:00:48+03:00
+title: "Nusretiye Camii Şadırvanı"
+date: "2025-12-25T10:00:48+03:00"
 slug: "nusretiye-camii-sadirvani"
 description: "## Nusretiye Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9833736,41.0274811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nusretiye Camii Şadırvanı

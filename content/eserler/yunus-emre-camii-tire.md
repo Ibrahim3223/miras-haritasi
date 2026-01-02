@@ -1,18 +1,17 @@
 ---
-title: "Yunus Emre Camii, Tire | Miras Haritası"
-date: 2025-12-24T23:19:30+03:00
+title: "Yunus Emre Camii, Tire"
+date: "2025-12-24T23:19:30+03:00"
 slug: "yunus-emre-camii-tire"
 description: "### Yunus Emre Camii, Tire..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7460461,38.0882874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yunus Emre Camii, Tire

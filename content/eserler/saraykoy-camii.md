@@ -1,18 +1,17 @@
 ---
-title: "Sarayköy Camii | Miras Haritası"
-date: 2025-12-25T00:33:37+03:00
+title: "Sarayköy Camii"
+date: "2025-12-25T00:33:37+03:00"
 slug: "saraykoy-camii"
 description: "### Sarayköy Camii: Rize'nin Gizli Cenneti..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İyidere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.383816054,41.021365807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarayköy Camii: Rize'nin Gizli Cenneti

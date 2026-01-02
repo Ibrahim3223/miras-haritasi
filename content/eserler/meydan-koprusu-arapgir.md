@@ -1,18 +1,17 @@
 ---
-title: "Meydan Köprüsü, Arapgir | Miras Haritası"
-date: 2025-12-25T02:57:33+03:00
+title: "Meydan Köprüsü, Arapgir"
+date: "2025-12-25T02:57:33+03:00"
 slug: "meydan-koprusu-arapgir"
 description: "## Meydan Köprüsü, Arapgir..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.4839672,39.0689607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meydan Köprüsü, Arapgir

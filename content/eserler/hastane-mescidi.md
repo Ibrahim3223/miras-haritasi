@@ -1,18 +1,17 @@
 ---
-title: "Hastane Mescidi | Miras Haritası"
-date: 2025-12-25T00:15:06+03:00
+title: "Hastane Mescidi"
+date: "2025-12-25T00:15:06+03:00"
 slug: "hastane-mescidi"
 description: "## Hastane Mescidi: Artvin'in Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5270654,40.8106038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hastane Mescidi: Artvin'in Kültürel Mirası

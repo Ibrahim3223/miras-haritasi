@@ -1,18 +1,17 @@
 ---
-title: "Kastamonu Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:07:17+03:00
+title: "Kastamonu Ulu Camii"
+date: "2025-12-24T22:07:17+03:00"
 slug: "kastamonu-ulu-camii"
 description: "### Kastamonu Ulu Camii: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kastamonu_Atabey_Gazi_or_Kırk_Direkli_Cami_1203.jpg/1200px-Kastamonu_Atabey_Gazi_or_Kırk_Direkli_Cami_1203.jpg"
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.771194444,41.375666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kastamonu Ulu Camii: Kastamonu'nun Tarihi ve Kültürel Mirası

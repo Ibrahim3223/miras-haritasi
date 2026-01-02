@@ -1,18 +1,17 @@
 ---
-title: "Destemen Tepe Höyüğü, Ladik | Miras Haritası"
-date: 2025-12-25T13:49:51+03:00
+title: "Destemen Tepe Höyüğü, Ladik"
+date: "2025-12-25T13:49:51+03:00"
 slug: "destemen-tepe-hoyugu-ladik"
 description: "### Destemen Tepe Höyüğü, Ladik..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ladik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.993013,40.922926"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Destemen Tepe Höyüğü, Ladik

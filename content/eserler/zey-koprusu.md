@@ -1,18 +1,17 @@
 ---
-title: "Zey Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:07+03:00
+title: "Zey Köprüsü"
+date: "2025-12-25T02:18:07+03:00"
 slug: "zey-koprusu"
 description: "# Zey Köprüsü: Adıyaman'da Bir Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.2490616,37.807682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Zey Köprüsü: Adıyaman'da Bir Tarihî Mirasın Gizemi

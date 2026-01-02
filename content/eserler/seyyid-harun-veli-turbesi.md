@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Harun Veli Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:42+03:00
+title: "Seyyid Harun Veli Türbesi"
+date: "2025-12-25T15:20:42+03:00"
 slug: "seyyid-harun-veli-turbesi"
 description: "## Seyyid Harun Veli Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.8463345,37.4168777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Harun Veli Türbesi

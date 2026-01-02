@@ -1,18 +1,17 @@
 ---
-title: "Çayhatap Höyük | Miras Haritası"
-date: 2025-12-25T06:13:45+03:00
+title: "Çayhatap Höyük"
+date: "2025-12-25T06:13:45+03:00"
 slug: "cayhatap-hoyuk"
 description: "### Çayhatap Höyük: Türkiye'nin Eski Kente Sahip Arkeolojik Sitleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8198395,40.4283257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çayhatap Höyük: Türkiye'nin Eski Kente Sahip Arkeolojik Sitleri

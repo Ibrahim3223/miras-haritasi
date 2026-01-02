@@ -1,18 +1,17 @@
 ---
-title: "Cevizli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:45:38+03:00
+title: "Cevizli Köprüsü"
+date: "2025-12-25T02:45:38+03:00"
 slug: "cevizli-koprusu"
 description: "### Cevizli Köprüsü: Gelibolu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6127205,40.3727684"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cevizli Köprüsü: Gelibolu'nun Gizli Cenneti

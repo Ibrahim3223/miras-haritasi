@@ -1,18 +1,17 @@
 ---
-title: "Pamukderesi Mevkii Tümülüsleri | Miras Haritası"
-date: 2025-12-25T07:43:21+03:00
+title: "Pamukderesi Mevkii Tümülüsleri"
+date: "2025-12-25T07:43:21+03:00"
 slug: "pamukderesi-mevkii-tumulusleri"
 description: "## Pamukderesi Mevkii Tümülüsleri..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Lapseki"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.754151021,40.325379975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pamukderesi Mevkii Tümülüsleri

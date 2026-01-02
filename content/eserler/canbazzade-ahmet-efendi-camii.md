@@ -1,18 +1,17 @@
 ---
-title: "Canbazzade Ahmet Efendi Camii | Miras Haritası"
-date: 2025-12-25T00:16:42+03:00
+title: "Canbazzade Ahmet Efendi Camii"
+date: "2025-12-25T00:16:42+03:00"
 slug: "canbazzade-ahmet-efendi-camii"
 description: "## Canbazzade Ahmet Efendi Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.109211,40.6249695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canbazzade Ahmet Efendi Camii

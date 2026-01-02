@@ -1,18 +1,17 @@
 ---
-title: "Kamera Müzesi, İstanbul | Miras Haritası"
-date: 2025-12-25T03:33:08+03:00
+title: "Kamera Müzesi, İstanbul"
+date: "2025-12-25T03:33:08+03:00"
 slug: "kamera-muzesi-istanbul"
 description: "### Kamera Müzesi, İstanbul..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.878777,40.99434"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kamera Müzesi, İstanbul

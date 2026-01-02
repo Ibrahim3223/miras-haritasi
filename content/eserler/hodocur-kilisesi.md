@@ -1,18 +1,17 @@
 ---
-title: "Hodoçur Kilisesi | Miras Haritası"
-date: 2025-12-25T09:18:58+03:00
+title: "Hodoçur Kilisesi"
+date: "2025-12-25T09:18:58+03:00"
 slug: "hodocur-kilisesi"
 description: "## Hodoçur Kilisesi: Tarihî Bir Mirasın Sırrı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "İspir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.2092705,40.7193413"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hodoçur Kilisesi: Tarihî Bir Mirasın Sırrı

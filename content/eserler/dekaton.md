@@ -1,18 +1,17 @@
 ---
-title: "Dekaton | Miras Haritası"
-date: 2025-12-25T04:50:06+03:00
+title: "Dekaton"
+date: "2025-12-25T04:50:06+03:00"
 slug: "dekaton"
 description: "## Dekaton: Geçmişin Gizemli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.097628,40.72108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dekaton: Geçmişin Gizemli Mirası

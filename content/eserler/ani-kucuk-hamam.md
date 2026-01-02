@@ -1,18 +1,17 @@
 ---
-title: "Ani Küçük Hamam | Miras Haritası"
-date: 2025-12-25T16:44:31+03:00
+title: "Ani Küçük Hamam"
+date: "2025-12-25T16:44:31+03:00"
 slug: "ani-kucuk-hamam"
 description: "## Ani Küçük Hamam: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "43.5788231,40.5059128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ani Küçük Hamam: Tarihi ve Kültürel Bir Miras

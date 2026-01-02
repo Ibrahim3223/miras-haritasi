@@ -1,18 +1,17 @@
 ---
-title: "Ali Gazi Baba Hazretleri Türbesi | Miras Haritası"
-date: 2025-12-25T13:35:24+03:00
+title: "Ali Gazi Baba Hazretleri Türbesi"
+date: "2025-12-25T13:35:24+03:00"
 slug: "ali-gazi-baba-hazretleri-turbesi"
 description: "# Ali Gazi Baba Hazretleri Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Ataşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1030006,40.9761391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ali Gazi Baba Hazretleri Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Höyüktepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:25:07+03:00
+title: "Höyüktepe Tümülüsü"
+date: "2025-12-25T07:25:07+03:00"
 slug: "hoyuktepe-tumulusu"
 description: "## Höyüktepe Tümülüsü: Lüleburgaz'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3339424,41.3813019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Höyüktepe Tümülüsü: Lüleburgaz'ın Gizli Kahramanı

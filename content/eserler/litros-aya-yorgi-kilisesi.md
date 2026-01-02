@@ -1,18 +1,17 @@
 ---
-title: "Litros Aya Yorgi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:20:35+03:00
+title: "Litros Aya Yorgi Kilisesi"
+date: "2025-12-25T09:20:35+03:00"
 slug: "litros-aya-yorgi-kilisesi"
 description: "### Litros Aya Yorgi Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Esenler"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.8808193,41.0390205"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Litros Aya Yorgi Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Gürsu Orta Cami | Miras Haritası"
-date: 2025-12-25T00:07:06+03:00
+title: "Gürsu Orta Cami"
+date: "2025-12-25T00:07:06+03:00"
 slug: "gursu-orta-cami"
 description: "## Gürsu Orta Cami..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gürsu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.194519,40.2160378"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gürsu Orta Cami

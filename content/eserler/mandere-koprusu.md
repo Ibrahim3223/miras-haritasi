@@ -1,18 +1,17 @@
 ---
-title: "Mandere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:46+03:00
+title: "Mandere Köprüsü"
+date: "2025-12-25T02:09:46+03:00"
 slug: "mandere-koprusu"
 description: "**Mandere Köprüsü**..."
 featured_image: ""
 province: "Kalkandere"
-iller: ["Kalkandere"]
+iller: '["Kalkandere"]'
 district: "Kalkandere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.461,40.911217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mandere Köprüsü**

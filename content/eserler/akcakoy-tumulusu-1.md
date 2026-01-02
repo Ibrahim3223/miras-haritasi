@@ -1,18 +1,17 @@
 ---
-title: "Akçaköy Tümülüsü 1 | Miras Haritası"
-date: 2025-12-25T07:28:06+03:00
+title: "Akçaköy Tümülüsü 1"
+date: "2025-12-25T07:28:06+03:00"
 slug: "akcakoy-tumulusu-1"
 description: "## Akçaköy Tümülüsü 1: Lüleburgaz'da Bir Antik Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5730076,41.3699226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçaköy Tümülüsü 1: Lüleburgaz'da Bir Antik Miras

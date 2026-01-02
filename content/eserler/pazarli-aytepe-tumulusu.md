@@ -1,18 +1,17 @@
 ---
-title: "Pazarlı Aytepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:14:35+03:00
+title: "Pazarlı Aytepe Tümülüsü"
+date: "2025-12-25T08:14:35+03:00"
 slug: "pazarli-aytepe-tumulusu"
 description: "## Pazarlı Aytepe Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7302513,41.606823"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazarlı Aytepe Tümülüsü: Kırklareli'nin Gizli Mirası

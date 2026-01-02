@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Müzesi | Miras Haritası"
-date: 2025-12-25T03:38:07+03:00
+title: "Kütahya Müzesi"
+date: "2025-12-25T03:38:07+03:00"
 slug: "kutahya-muzesi"
 description: "## Kütahya Müzesi: Geçmişten Geleceğe Bir Ziyaret..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kütahya Müzesi: Geçmişten Geleceğe Bir Ziyaret

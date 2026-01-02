@@ -1,18 +1,17 @@
 ---
-title: "Artanuci Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:48+03:00
+title: "Artanuci Kilisesi"
+date: "2025-12-25T08:57:48+03:00"
 slug: "artanuci-kilisesi"
 description: "## Artanuci Kilisesi: Ardanuç'un Gizli Kahramanı..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Ardanuç İlçesi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.057675,41.129319444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Artanuci Kilisesi: Ardanuç'un Gizli Kahramanı

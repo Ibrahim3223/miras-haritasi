@@ -1,18 +1,17 @@
 ---
-title: "Akören Çetelerin Tarla Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:53:50+03:00
+title: "Akören Çetelerin Tarla Tümülüsü"
+date: "2025-12-25T07:53:50+03:00"
 slug: "akoren-cetelerin-tarla-tumulusu"
 description: "### Akören Çetelerin Tarla Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5439281,41.7077179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akören Çetelerin Tarla Tümülüsü

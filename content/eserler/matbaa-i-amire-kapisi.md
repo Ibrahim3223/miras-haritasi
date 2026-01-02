@@ -1,18 +1,17 @@
 ---
-title: "Matbaa-i Amire Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:07+03:00
+title: "Matbaa-i Amire Kapısı"
+date: "2025-12-25T15:37:07+03:00"
 slug: "matbaa-i-amire-kapisi"
 description: "## Matbaa-i Amire Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9816761,41.0074921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Matbaa-i Amire Kapısı

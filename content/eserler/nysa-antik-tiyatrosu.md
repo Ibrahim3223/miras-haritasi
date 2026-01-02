@@ -1,18 +1,17 @@
 ---
-title: "Nysa Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:13:14+03:00
+title: "Nysa Antik Tiyatrosu"
+date: "2025-12-25T04:13:14+03:00"
 slug: "nysa-antik-tiyatrosu"
 description: "### Nysa Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.145333,37.903569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nysa Antik Tiyatrosu

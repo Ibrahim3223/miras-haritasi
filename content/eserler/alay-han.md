@@ -1,18 +1,17 @@
 ---
-title: "Alay Han | Miras Haritası"
-date: 2025-12-25T13:38:19+03:00
+title: "Alay Han"
+date: "2025-12-25T13:38:19+03:00"
 slug: "alay-han"
 description: "## Alay Han: Aksaray'da Bir Anıtın Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Alayhan01.jpg/1200px-Alayhan01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.354444,38.518611"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alay Han: Aksaray'da Bir Anıtın Öyküsü

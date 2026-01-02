@@ -1,18 +1,17 @@
 ---
-title: "Gaçan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:11+03:00
+title: "Gaçan Çeşmesi"
+date: "2025-12-25T10:16:11+03:00"
 slug: "gacan-cesmesi"
 description: "**Gaçan Çeşmesi: Tarihi ve Kültürel Miras**..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.819046,41.0053177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gaçan Çeşmesi: Tarihi ve Kültürel Miras**

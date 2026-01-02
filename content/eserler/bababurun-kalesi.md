@@ -1,18 +1,17 @@
 ---
-title: "Bababurun Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:54+03:00
+title: "Bababurun Kalesi"
+date: "2025-12-25T01:28:54+03:00"
 slug: "bababurun-kalesi"
 description: "## Bababurun Kalesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Türkoğlu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.7942162,37.2973022"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bababurun Kalesi

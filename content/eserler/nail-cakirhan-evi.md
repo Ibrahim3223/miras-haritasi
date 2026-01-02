@@ -1,18 +1,17 @@
 ---
-title: "Nail Çakırhan Evi | Miras Haritası"
-date: 2025-12-25T03:55:57+03:00
+title: "Nail Çakırhan Evi"
+date: "2025-12-25T03:55:57+03:00"
 slug: "nail-cakirhan-evi"
 description: "## Nail Çakırhan Evi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.3234844,37.0539513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nail Çakırhan Evi

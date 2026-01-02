@@ -1,18 +1,17 @@
 ---
-title: "Palu Ulu Camii | Miras Haritası"
-date: 2025-12-24T23:06:25+03:00
+title: "Palu Ulu Camii"
+date: "2025-12-24T23:06:25+03:00"
 slug: "palu-ulu-camii"
 description: "## Palu Ulu Camii: Elazığ'ın Gizli Çehresini Yansıtan bir Klasik..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Palu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.953975,38.6997559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palu Ulu Camii: Elazığ'ın Gizli Çehresini Yansıtan bir Klasik

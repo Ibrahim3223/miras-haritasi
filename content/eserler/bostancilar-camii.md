@@ -1,18 +1,17 @@
 ---
-title: "Bostancılar Camii | Miras Haritası"
-date: 2025-12-25T00:55:34+03:00
+title: "Bostancılar Camii"
+date: "2025-12-25T00:55:34+03:00"
 slug: "bostancilar-camii"
 description: "## Bostancılar Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5349999,40.9627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bostancılar Camii: Artvin'in Gizli Cenneti

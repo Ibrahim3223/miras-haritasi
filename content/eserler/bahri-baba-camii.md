@@ -1,18 +1,17 @@
 ---
-title: "Bahri Baba Camii | Miras Haritası"
-date: 2025-12-24T22:11:57+03:00
+title: "Bahri Baba Camii"
+date: "2025-12-24T22:11:57+03:00"
 slug: "bahri-baba-camii"
 description: "**Bahri Baba Camii: Bursa'nın Tarihi Çağına Tanıyan Bir Miras**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0486183,40.1902885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bahri Baba Camii: Bursa'nın Tarihi Çağına Tanıyan Bir Miras**

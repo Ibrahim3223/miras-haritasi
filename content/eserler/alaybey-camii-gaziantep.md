@@ -1,18 +1,17 @@
 ---
-title: "Alaybey Camii, Gaziantep | Miras Haritası"
-date: 2025-12-25T00:26:30+03:00
+title: "Alaybey Camii, Gaziantep"
+date: "2025-12-25T00:26:30+03:00"
 slug: "alaybey-camii-gaziantep"
 description: "**Alaybey Camii: Gaziantep'in Tarihi Bir Zenginliği**..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3830261,37.0608978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Alaybey Camii: Gaziantep'in Tarihi Bir Zenginliği**

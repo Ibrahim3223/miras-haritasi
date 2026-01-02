@@ -1,18 +1,17 @@
 ---
-title: "Faikpaşa Camii | Miras Haritası"
-date: 2025-12-24T22:53:54+03:00
+title: "Faikpaşa Camii"
+date: "2025-12-24T22:53:54+03:00"
 slug: "faikpasa-camii"
 description: "## Faikpaşa Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0439221,41.0059713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Faikpaşa Camii: İstanbul'un Gizli Cenneti

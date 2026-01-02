@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Salat Höyüğü | Miras Haritası"
-date: 2025-12-25T08:15:58+03:00
+title: "Aşağı Salat Höyüğü"
+date: "2025-12-25T08:15:58+03:00"
 slug: "asagi-salat-hoyugu"
 description: "## Aşağı Salat Höyüğü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Salat Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Öküzlü ören yeri | Miras Haritası"
-date: 2025-12-25T07:10:43+03:00
+title: "Öküzlü ören yeri"
+date: "2025-12-25T07:10:43+03:00"
 slug: "okuzlu-oren-yeri"
 description: "## Öküzlü Ören Yeri: Erdemli'nin Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Öküzlü_basilica.JPG/1200px-Öküzlü_basilica.JPG"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.166666666,36.566666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Öküzlü Ören Yeri: Erdemli'nin Gizli Anıtı

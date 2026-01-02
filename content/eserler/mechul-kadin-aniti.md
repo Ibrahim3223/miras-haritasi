@@ -1,18 +1,17 @@
 ---
-title: "Meçhul Kadın Anıtı | Miras Haritası"
-date: 2025-12-25T15:42:58+03:00
+title: "Meçhul Kadın Anıtı"
+date: "2025-12-25T15:42:58+03:00"
 slug: "mechul-kadin-aniti"
 description: "## Meçhul Kadın Anıtı: Bornova, İzmir'deki Gizemli Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bornova_meçhul_kadın_anıtı.jpg/1200px-Bornova_meçhul_kadın_anıtı.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.21825,38.464416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Meçhul Kadın Anıtı: Bornova, İzmir'deki Gizemli Bir Anıt

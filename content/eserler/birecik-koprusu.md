@@ -1,18 +1,17 @@
 ---
-title: "Birecik Köprüsü | Miras Haritası"
-date: 2025-12-25T01:55:15+03:00
+title: "Birecik Köprüsü"
+date: "2025-12-25T01:55:15+03:00"
 slug: "birecik-koprusu"
 description: "## Birecik Köprüsü: Tarihi Bir Mimari İkiz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BirecikEuphratbrücke.jpg/1200px-BirecikEuphratbrücke.jpg"
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.97426,37.02612"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Birecik Köprüsü: Tarihi Bir Mimari İkiz

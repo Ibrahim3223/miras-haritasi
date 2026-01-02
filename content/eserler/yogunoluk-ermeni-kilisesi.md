@@ -1,18 +1,17 @@
 ---
-title: "Yoğunoluk Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:29:52+03:00
+title: "Yoğunoluk Ermeni Kilisesi"
+date: "2025-12-25T09:29:52+03:00"
 slug: "yogunoluk-ermeni-kilisesi"
 description: "## Yoğunoluk Ermeni Kilisesi Tanıtımı..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.9746246,36.137249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yoğunoluk Ermeni Kilisesi Tanıtımı

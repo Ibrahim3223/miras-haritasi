@@ -1,18 +1,17 @@
 ---
-title: "Tahsinbey Sokağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:09:53+03:00
+title: "Tahsinbey Sokağı Çeşmesi"
+date: "2025-12-25T11:09:53+03:00"
 slug: "tahsinbey-sokagi-cesmesi"
 description: "## Tahsinbey Sokağı Çeşmesi: İstanbul'un Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971425,41.005352"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahsinbey Sokağı Çeşmesi: İstanbul'un Tarihî Mirası

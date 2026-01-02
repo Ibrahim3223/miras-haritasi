@@ -1,18 +1,17 @@
 ---
-title: "Mar Petyun Keldani Kilisesi | Miras Haritası"
-date: 2025-12-25T08:43:35+03:00
+title: "Mar Petyun Keldani Kilisesi"
+date: "2025-12-25T08:43:35+03:00"
 slug: "mar-petyun-keldani-kilisesi"
 description: "## Mar Petyun Keldani Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dêra_Marpeytun_a_keldaniyan_a_Amedê_2010.JPG/1200px-Dêra_Marpeytun_a_keldaniyan_a_Amedê_2010.JPG"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.238,37.9108"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mar Petyun Keldani Kilisesi

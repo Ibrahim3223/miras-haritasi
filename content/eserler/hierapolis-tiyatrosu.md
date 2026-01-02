@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:34+03:00
+title: "Hierapolis Tiyatrosu"
+date: "2025-12-25T04:14:34+03:00"
 slug: "hierapolis-tiyatrosu"
 description: "## Hierapolis Tiyatrosu: Tarihî Bir Mirasın İncisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Roman_theatre,_built_in_the_2nd_century_AD_under_Hadrian_on_the_ruins_of_an_earlier_theatre,_later_renovated_under_Septimius_Severus,_Hierapolis,_Turkey_-_17033619498.jpg/1200px-The_Roman_theatre,_built_in_the_2nd_century_AD_under_Hadrian_on_the_ruins_of_an_earlier_theatre,_later_renovated_under_Septimius_Severus,_Hierapolis,_Turkey_-_17033619498.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1292,37.9267"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hierapolis Tiyatrosu: Tarihî Bir Mirasın İncisi

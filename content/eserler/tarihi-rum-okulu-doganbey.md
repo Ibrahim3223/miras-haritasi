@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Rum Okulu, Doğanbey | Miras Haritası"
-date: 2025-12-25T03:38:58+03:00
+title: "Tarihi Rum Okulu, Doğanbey"
+date: "2025-12-25T03:38:58+03:00"
 slug: "tarihi-rum-okulu-doganbey"
 description: "### Tarihi Rum Okulu, Doğanbey..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.1781158,37.6319313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tarihi Rum Okulu, Doğanbey

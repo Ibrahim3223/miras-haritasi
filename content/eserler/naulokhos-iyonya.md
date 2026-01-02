@@ -1,18 +1,17 @@
 ---
-title: "Naulokhos (İyonya) | Miras Haritası"
-date: 2025-12-25T04:39:21+03:00
+title: "Naulokhos (İyonya)"
+date: "2025-12-25T04:39:21+03:00"
 slug: "naulokhos-iyonya"
 description: "## Naulokhos: İyonya'nın Gizli Mirası..."
 featured_image: ""
 province: "Söke İlçesi"
-iller: ["Söke İlçesi"]
+iller: '["Söke İlçesi"]'
 district: "Atburgazı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.24617,37.63908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Naulokhos: İyonya'nın Gizli Mirası

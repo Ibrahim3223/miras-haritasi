@@ -1,18 +1,17 @@
 ---
-title: "Satılmış Camii | Miras Haritası"
-date: 2025-12-24T22:41:53+03:00
+title: "Satılmış Camii"
+date: "2025-12-24T22:41:53+03:00"
 slug: "satilmis-camii"
 description: "## Satılmış Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.7765007,38.8222008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Satılmış Camii: Manisa'nın Tarihi Bir Mirası

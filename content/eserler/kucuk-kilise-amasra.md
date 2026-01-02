@@ -1,18 +1,18 @@
 ---
-title: "Küçük Kilise, Amasra | Miras Haritası"
-date: 2025-12-25T00:54:00+03:00
+title: "Küçük Kilise, Amasra"
+date: "2025-12-25T00:54:00+03:00"
 slug: "kucuk-kilise-amasra"
 description: "## Küçük Kilise, Amasra..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Amasra-church-mosque.JPG/1200px-Amasra-church-mosque.JPG"
 province: "Amasra İlçesi"
-iller: ["Amasra İlçesi"]
+iller: '["Amasra İlçesi"]'
 district: "Amasra"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.3882866,41.7493553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Amasra-church-mosque.JPG/1200px-Amasra-church-mosque.JPG"
 ---
 
 ## Küçük Kilise, Amasra

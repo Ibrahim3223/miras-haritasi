@@ -1,18 +1,17 @@
 ---
-title: "Çinili Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:39+03:00
+title: "Çinili Hamamı"
+date: "2025-12-25T16:40:39+03:00"
 slug: "cinili-hamami"
 description: "## Çinili Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Çinili_Hamamı,_Kösem_Sultan_Hamamı.jpg/1200px-Çinili_Hamamı,_Kösem_Sultan_Hamamı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.028341,41.019785"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çinili Hamamı

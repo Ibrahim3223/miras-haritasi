@@ -1,18 +1,17 @@
 ---
-title: "Sebahattin Yıldız Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:02+03:00
+title: "Sebahattin Yıldız Müzesi"
+date: "2025-12-25T03:31:02+03:00"
 slug: "sebahattin-yildiz-muzesi"
 description: "## Sebahattin Yıldız Müzesi: Ankara'nın Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.812573,39.893236"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sebahattin Yıldız Müzesi: Ankara'nın Kültür Mirası

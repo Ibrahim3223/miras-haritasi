@@ -1,18 +1,17 @@
 ---
-title: "Kılcanlar Höyük | Miras Haritası"
-date: 2025-12-25T05:48:27+03:00
+title: "Kılcanlar Höyük"
+date: "2025-12-25T05:48:27+03:00"
 slug: "kilcanlar-hoyuk"
 description: "## Kılcanlar Höyük: Manisa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.98145,38.676217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılcanlar Höyük: Manisa'nın Gizli Kahramanı

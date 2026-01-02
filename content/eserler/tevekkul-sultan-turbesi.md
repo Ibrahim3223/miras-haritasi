@@ -1,18 +1,17 @@
 ---
-title: "Tevekkül Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:30+03:00
+title: "Tevekkül Sultan Türbesi"
+date: "2025-12-25T14:45:30+03:00"
 slug: "tevekkul-sultan-turbesi"
 description: "## Tevekkül Sultan Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9248772,36.3786354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tevekkül Sultan Türbesi

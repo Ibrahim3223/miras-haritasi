@@ -1,18 +1,17 @@
 ---
-title: "Amardolu Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:08+03:00
+title: "Amardolu Manastırı"
+date: "2025-12-25T09:51:08+03:00"
 slug: "amardolu-manastiri"
 description: "## Amardolu Manastırı: Van'ın Gizli Mücevheri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.116666666,38.4"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amardolu Manastırı: Van'ın Gizli Mücevheri

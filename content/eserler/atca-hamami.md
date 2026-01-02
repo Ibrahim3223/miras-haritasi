@@ -1,18 +1,17 @@
 ---
-title: "Atça Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:35+03:00
+title: "Atça Hamamı"
+date: "2025-12-25T17:03:35+03:00"
 slug: "atca-hamami"
 description: "## Atça Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.2133999,37.8871994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atça Hamamı

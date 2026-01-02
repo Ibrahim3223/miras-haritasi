@@ -1,18 +1,17 @@
 ---
-title: "Pazaryeri Köprüsü | Miras Haritası"
-date: 2025-12-25T02:20:15+03:00
+title: "Pazaryeri Köprüsü"
+date: "2025-12-25T02:20:15+03:00"
 slug: "pazaryeri-koprusu"
 description: "## Pazaryeri Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Beydağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2033634,38.1028519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazaryeri Köprüsü

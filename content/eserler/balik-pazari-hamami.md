@@ -1,18 +1,17 @@
 ---
-title: "Balık Pazarı Hamamı | Miras Haritası"
-date: 2025-12-25T16:54:58+03:00
+title: "Balık Pazarı Hamamı"
+date: "2025-12-25T16:54:58+03:00"
 slug: "balik-pazari-hamami"
 description: "## Balık Pazarı Hamamı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.7056923,36.8844032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balık Pazarı Hamamı

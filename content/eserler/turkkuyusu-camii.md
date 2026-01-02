@@ -1,18 +1,17 @@
 ---
-title: "Türkkuyusu Camii | Miras Haritası"
-date: 2025-12-24T23:17:58+03:00
+title: "Türkkuyusu Camii"
+date: "2025-12-24T23:17:58+03:00"
 slug: "turkkuyusu-camii"
 description: "## Türkkuyusu Camii: Bodrum'un Tarihi Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4306355,37.0386505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türkkuyusu Camii: Bodrum'un Tarihi Mirası

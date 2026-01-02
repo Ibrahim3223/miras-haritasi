@@ -1,18 +1,17 @@
 ---
-title: "I. Abdülhamit Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:17+03:00
+title: "I. Abdülhamit Han Çeşmesi"
+date: "2025-12-25T11:07:17+03:00"
 slug: "i-abdulhamit-han-cesmesi"
 description: "## I. Abdülhamit Han Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/I._Abdülhamit_Han_Çeşmesi_IMG_7464.jpg/1200px-I._Abdülhamit_Han_Çeşmesi_IMG_7464.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.051395,41.114158"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## I. Abdülhamit Han Çeşmesi

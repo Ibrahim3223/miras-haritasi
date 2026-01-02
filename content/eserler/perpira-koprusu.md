@@ -1,18 +1,17 @@
 ---
-title: "Perpıra Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:47+03:00
+title: "Perpıra Köprüsü"
+date: "2025-12-25T02:23:47+03:00"
 slug: "perpira-koprusu"
 description: "## Perpıra Köprüsü..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Batman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.152431,37.98867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perpıra Köprüsü

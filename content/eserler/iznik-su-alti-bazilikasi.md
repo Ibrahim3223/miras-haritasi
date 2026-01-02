@@ -1,18 +1,17 @@
 ---
-title: "İznik Su Altı Bazilikası | Miras Haritası"
-date: 2025-12-25T08:39:09+03:00
+title: "İznik Su Altı Bazilikası"
+date: "2025-12-25T08:39:09+03:00"
 slug: "iznik-su-alti-bazilikasi"
 description: "## İznik Su Altı Bazilikası: Bir Bizans Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.7098,40.4258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İznik Su Altı Bazilikası: Bir Bizans Mirası

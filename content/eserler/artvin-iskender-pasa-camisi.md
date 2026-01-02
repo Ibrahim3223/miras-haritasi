@@ -1,18 +1,17 @@
 ---
-title: "Artvin İskender Paşa Camisi | Miras Haritası"
-date: 2025-12-24T22:19:09+03:00
+title: "Artvin İskender Paşa Camisi"
+date: "2025-12-24T22:19:09+03:00"
 slug: "artvin-iskender-pasa-camisi"
 description: "# Artvin İskender Paşa Camisi..."
 featured_image: ""
 province: "Kars Oblastı"
-iller: ["Kars Oblastı"]
+iller: '["Kars Oblastı"]'
 district: "Ardanuç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.058111111,41.127972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Artvin İskender Paşa Camisi

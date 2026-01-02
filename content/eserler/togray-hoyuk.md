@@ -1,18 +1,17 @@
 ---
-title: "Toğray Höyük | Miras Haritası"
-date: 2025-12-25T05:31:44+03:00
+title: "Toğray Höyük"
+date: "2025-12-25T05:31:44+03:00"
 slug: "togray-hoyuk"
 description: "## Toğray Höyük: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Beylikova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.329321,39.69864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toğray Höyük: Eskişehir'in Gizli Cenneti

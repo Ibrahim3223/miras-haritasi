@@ -1,18 +1,17 @@
 ---
-title: "Beştepeler 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:06:24+03:00
+title: "Beştepeler 2 Tümülüsü"
+date: "2025-12-25T08:06:24+03:00"
 slug: "bestepeler-2-tumulusu"
 description: "## Beştepeler 2 Tümülüsü: Edirne'nin Gizli Tarihini Keşfedin..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9499111,41.1816025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beştepeler 2 Tümülüsü: Edirne'nin Gizli Tarihini Keşfedin

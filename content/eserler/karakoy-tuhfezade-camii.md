@@ -1,18 +1,17 @@
 ---
-title: "Karaköy Tuhfezade Camii | Miras Haritası"
-date: 2025-12-24T23:39:28+03:00
+title: "Karaköy Tuhfezade Camii"
+date: "2025-12-24T23:39:28+03:00"
 slug: "karakoy-tuhfezade-camii"
 description: "### Karaköy Tuhfezade Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6335144,36.7622185"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaköy Tuhfezade Camii

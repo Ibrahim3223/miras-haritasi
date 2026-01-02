@@ -1,18 +1,17 @@
 ---
-title: "Kalabak Kalesi, Kuyucak | Miras Haritası"
-date: 2025-12-25T01:28:10+03:00
+title: "Kalabak Kalesi, Kuyucak"
+date: "2025-12-25T01:28:10+03:00"
 slug: "kalabak-kalesi-kuyucak"
 description: "# Kalabak Kalesi: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuyucak"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.5200996,37.9590988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kalabak Kalesi: Aydın'ın Gizli Cenneti

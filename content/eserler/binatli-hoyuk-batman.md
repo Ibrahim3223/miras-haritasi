@@ -1,18 +1,17 @@
 ---
-title: "Binatlı Höyük, Batman | Miras Haritası"
-date: 2025-12-25T13:49:04+03:00
+title: "Binatlı Höyük, Batman"
+date: "2025-12-25T13:49:04+03:00"
 slug: "binatli-hoyuk-batman"
 description: "## Binatlı Höyük: Güneydoğu Anadolu Bölgesi'nin Gizli Çağı..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2117615,37.8483849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Binatlı Höyük: Güneydoğu Anadolu Bölgesi'nin Gizli Çağı

@@ -1,18 +1,17 @@
 ---
-title: "Selimpaşa Höyüğü, Silivri | Miras Haritası"
-date: 2025-12-25T06:05:27+03:00
+title: "Selimpaşa Höyüğü, Silivri"
+date: "2025-12-25T06:05:27+03:00"
 slug: "selimpasa-hoyugu-silivri"
 description: "### Selimpaşa Höyüğü: Silivri'nin Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3416348,41.0592995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selimpaşa Höyüğü: Silivri'nin Tarihî Mirası

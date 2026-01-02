@@ -1,18 +1,17 @@
 ---
-title: "10. Yıl Anıtı, Aydın | Miras Haritası"
-date: 2025-12-25T15:46:05+03:00
+title: "10. Yıl Anıtı, Aydın"
+date: "2025-12-25T15:46:05+03:00"
 slug: "10-yil-aniti-aydin"
 description: "## 10. Yıl Anıtı, Aydın..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8379707,37.8522949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 10. Yıl Anıtı, Aydın

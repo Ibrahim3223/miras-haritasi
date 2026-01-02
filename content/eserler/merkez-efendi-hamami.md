@@ -1,18 +1,17 @@
 ---
-title: "Merkez Efendi Hamamı | Miras Haritası"
-date: 2025-12-25T16:38:06+03:00
+title: "Merkez Efendi Hamamı"
+date: "2025-12-25T16:38:06+03:00"
 slug: "merkez-efendi-hamami"
 description: "## Merkez Efendi Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Merkez_efendi_hamamı.jpg/1200px-Merkez_efendi_hamamı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.919885,41.014571"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Merkez Efendi Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Zübeyde Hanım Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T13:39:57+03:00
+title: "Zübeyde Hanım Anıt Mezarı"
+date: "2025-12-25T13:39:57+03:00"
 slug: "zubeyde-hanim-anit-mezari"
 description: "## Zübeyde Hanım Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Zübeyde_Hanım_Anıt_Mezarı_01.jpg/1200px-Zübeyde_Hanım_Anıt_Mezarı_01.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karşıyaka"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.116833333,38.461083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zübeyde Hanım Anıt Mezarı

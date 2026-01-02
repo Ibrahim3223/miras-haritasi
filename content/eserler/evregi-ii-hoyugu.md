@@ -1,18 +1,17 @@
 ---
-title: "Evreği II Höyüğü | Miras Haritası"
-date: 2025-12-25T06:22:45+03:00
+title: "Evreği II Höyüğü"
+date: "2025-12-25T06:22:45+03:00"
 slug: "evregi-ii-hoyugu"
 description: "### Evreği II Höyüğü: Konya'nın Kıvrak Tarımsal ve Hafif Sanayi Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.8352984,37.5780939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Evreği II Höyüğü: Konya'nın Kıvrak Tarımsal ve Hafif Sanayi Mirası

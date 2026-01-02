@@ -1,18 +1,17 @@
 ---
-title: "Şirmerd Çavuş Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:45:18+03:00
+title: "Şirmerd Çavuş Camii Çeşmesi"
+date: "2025-12-25T11:45:18+03:00"
 slug: "sirmerd-cavus-camii-cesmesi"
 description: "## Şirmerd Çavuş Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9452343,41.0104218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şirmerd Çavuş Çeşmesi: Fatih'in Gizli Çeşmesi

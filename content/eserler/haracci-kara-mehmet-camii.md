@@ -1,18 +1,17 @@
 ---
-title: "Haraççı Kara Mehmet Camii | Miras Haritası"
-date: 2025-12-24T22:23:17+03:00
+title: "Haraççı Kara Mehmet Camii"
+date: "2025-12-24T22:23:17+03:00"
 slug: "haracci-kara-mehmet-camii"
 description: "## Haraççı Kara Mehmet Camii: Cibali'nin Gizli Çeşidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Haraççı_Kara_Mehmet_Camii_01.jpg/1200px-Haraççı_Kara_Mehmet_Camii_01.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cibali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.960104938,41.02351443"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Haraççı Kara Mehmet Camii: Cibali'nin Gizli Çeşidi

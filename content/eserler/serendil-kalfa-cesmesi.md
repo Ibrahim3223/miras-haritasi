@@ -1,18 +1,17 @@
 ---
-title: "Serendil Kalfa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:35+03:00
+title: "Serendil Kalfa Çeşmesi"
+date: "2025-12-25T11:20:35+03:00"
 slug: "serendil-kalfa-cesmesi"
 description: "### Serendil Kalfa Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Zeyrek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.953582,41.019512"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Serendil Kalfa Çeşmesi: Fatih'in Gizli Çeşmesi

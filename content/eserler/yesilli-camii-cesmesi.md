@@ -1,18 +1,17 @@
 ---
-title: "Yeşilli Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:25:25+03:00
+title: "Yeşilli Camii Çeşmesi"
+date: "2025-12-25T11:25:25+03:00"
 slug: "yesilli-camii-cesmesi"
 description: "## Yeşilli Camii Çeşmesi: Balıkesir'in Zengin Mirasının Parçası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Balıkesir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8818474,39.6473923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşilli Camii Çeşmesi: Balıkesir'in Zengin Mirasının Parçası

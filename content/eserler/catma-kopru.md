@@ -1,18 +1,17 @@
 ---
-title: "Çatma Köprü | Miras Haritası"
-date: 2025-12-25T02:27:00+03:00
+title: "Çatma Köprü"
+date: "2025-12-25T02:27:00+03:00"
 slug: "catma-kopru"
 description: "## Çatma Köprü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.733362,37.879871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatma Köprü: Aydın'ın Tarihi ve Kültürel Mirası

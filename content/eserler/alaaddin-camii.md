@@ -1,18 +1,17 @@
 ---
-title: "Alaaddin Camii | Miras Haritası"
-date: 2025-12-24T22:06:21+03:00
+title: "Alaaddin Camii"
+date: "2025-12-24T22:06:21+03:00"
 slug: "alaaddin-camii"
 description: "## Alaaddin Camii: Kırşehir'in Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırşehir"
+province: "Kırşehir"
+iller: '["Kırşehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.158694444,39.145777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaaddin Camii: Kırşehir'in Tarihi Mirası

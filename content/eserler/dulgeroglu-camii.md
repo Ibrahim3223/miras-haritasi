@@ -1,18 +1,17 @@
 ---
-title: "Dülgeroğlu Camii | Miras Haritası"
-date: 2025-12-24T21:40:22+03:00
+title: "Dülgeroğlu Camii"
+date: "2025-12-24T21:40:22+03:00"
 slug: "dulgeroglu-camii"
 description: "## Dülgeroğlu Camii: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dülgeroğlu Camii: Tarihi ve Kültürel Mirasının Bir Parçası

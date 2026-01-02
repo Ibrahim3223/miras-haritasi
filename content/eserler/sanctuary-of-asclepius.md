@@ -1,18 +1,17 @@
 ---
-title: "Sanctuary of Asclepius | Miras Haritası"
-date: 2025-12-25T08:12:59+03:00
+title: "Sanctuary of Asclepius"
+date: "2025-12-25T08:12:59+03:00"
 slug: "sanctuary-of-asclepius"
 description: "## Söke Asclepios Tapınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Priene_Asklepieion_20240927_092922.jpg/1200px-Priene_Asklepieion_20240927_092922.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2981824,37.6584946"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Söke Asclepios Tapınağı

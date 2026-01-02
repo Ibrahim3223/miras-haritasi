@@ -1,18 +1,17 @@
 ---
-title: "Surp Karabet Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:44:52+03:00
+title: "Surp Karabet Ermeni Kilisesi"
+date: "2025-12-25T09:44:52+03:00"
 slug: "surp-karabet-ermeni-kilisesi"
 description: "### Surp Karabet Ermeni Kilisesi: Gümüşhane'nin Gizli Hazineleri..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.45461,40.454252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Karabet Ermeni Kilisesi: Gümüşhane'nin Gizli Hazineleri

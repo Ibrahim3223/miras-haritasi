@@ -1,18 +1,17 @@
 ---
-title: "Bedrettin İbrahim Bey Camii | Miras Haritası"
-date: 2025-12-24T22:24:07+03:00
+title: "Bedrettin İbrahim Bey Camii"
+date: "2025-12-24T22:24:07+03:00"
 slug: "bedrettin-ibrahim-bey-camii"
 description: "## Bedrettin İbrahim Bey Camii: Karaman'ın Tarihi Çiçeği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2061348,37.1813469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bedrettin İbrahim Bey Camii: Karaman'ın Tarihi Çiçeği

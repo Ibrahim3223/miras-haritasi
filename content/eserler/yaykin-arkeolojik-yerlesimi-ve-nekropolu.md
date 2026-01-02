@@ -1,18 +1,17 @@
 ---
-title: "Yaykın Arkeolojik Yerleşimi ve Nekropolü | Miras Haritası"
-date: 2025-12-25T06:09:20+03:00
+title: "Yaykın Arkeolojik Yerleşimi ve Nekropolü"
+date: "2025-12-25T06:09:20+03:00"
 slug: "yaykin-arkeolojik-yerlesimi-ve-nekropolu"
 description: "## Yaykın Arkeolojik Yerleşimi ve Nekropolü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.2758007,37.9183998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yaykın Arkeolojik Yerleşimi ve Nekropolü

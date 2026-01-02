@@ -1,18 +1,17 @@
 ---
-title: "Imami Azam Cami | Miras Haritası"
-date: 2025-12-24T22:09:53+03:00
+title: "Imami Azam Cami"
+date: "2025-12-24T22:09:53+03:00"
 slug: "imami-azam-cami"
 description: "# İmami Azam Camii: İstanbul'un Bir Gizli Çehresinde Bir Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Istanbul_Imami_Azam_Mosque.jpg/1200px-Istanbul_Imami_Azam_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.03945,41.09295"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # İmami Azam Camii: İstanbul'un Bir Gizli Çehresinde Bir Camii

@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:01:11+03:00
+title: "Sultan Ahmet Camii Şadırvanı"
+date: "2025-12-25T10:01:11+03:00"
 slug: "sultan-ahmet-camii-sadirvani"
 description: "## Sultan Ahmet Camii Şadırvanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Sultan_Ahmet_Camii_Şadırvanı.jpg/1200px-Sultan_Ahmet_Camii_Şadırvanı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9764652,41.0055885"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Sultan Ahmet Camii Şadırvanı

@@ -1,18 +1,17 @@
 ---
-title: "Yunus Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:32:15+03:00
+title: "Yunus Dede Türbesi"
+date: "2025-12-25T14:32:15+03:00"
 slug: "yunus-dede-turbesi"
 description: "## Yunus Dede Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yunus_Dede_Türbesi.jpg/1200px-Yunus_Dede_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.969529,41.023699"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yunus Dede Türbesi

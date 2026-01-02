@@ -1,18 +1,17 @@
 ---
-title: "Fettah Camii | Miras Haritası"
-date: 2025-12-24T23:02:04+03:00
+title: "Fettah Camii"
+date: "2025-12-24T23:02:04+03:00"
 slug: "fettah-camii"
 description: "## Fettah Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1431236,38.4211273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fettah Camii

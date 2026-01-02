@@ -1,18 +1,17 @@
 ---
-title: "Sağrıcı Sungur Camii | Miras Haritası"
-date: 2025-12-24T22:40:08+03:00
+title: "Sağrıcı Sungur Camii"
+date: "2025-12-24T22:40:08+03:00"
 slug: "sagrici-sungur-camii"
 description: "## Sağrıcı Sungur Camii: Bursa'nın Gizli Çehresi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0603237,40.1851768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sağrıcı Sungur Camii: Bursa'nın Gizli Çehresi

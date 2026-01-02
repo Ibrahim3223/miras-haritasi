@@ -1,18 +1,17 @@
 ---
-title: "Karaada Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:08+03:00
+title: "Karaada Kilisesi"
+date: "2025-12-25T09:33:08+03:00"
 slug: "karaada-kilisesi"
 description: "## Karaada Kilisesi: Bodrum'un Gizli Çarpıntısı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.4605026,36.9824181"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaada Kilisesi: Bodrum'un Gizli Çarpıntısı

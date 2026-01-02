@@ -1,18 +1,17 @@
 ---
-title: "Belenardıç Camii | Miras Haritası"
-date: 2025-12-24T22:23:12+03:00
+title: "Belenardıç Camii"
+date: "2025-12-24T22:23:12+03:00"
 slug: "belenardic-camii"
 description: "## Belenardıç Camii: Denizli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0643673,38.0553932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belenardıç Camii: Denizli'nin Tarihi ve Kültürel Mirası

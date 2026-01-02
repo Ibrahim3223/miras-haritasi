@@ -1,18 +1,17 @@
 ---
-title: "Yenice Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:10:16+03:00
+title: "Yenice Köyü Camii"
+date: "2025-12-25T00:10:16+03:00"
 slug: "yenice-koyu-camii"
 description: "## Yenice Köyü Camii: Yapraklı, Çankırı'da Bir Osmanlı Dönemi Mimari Harikası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Yapraklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.847805,40.6874237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenice Köyü Camii: Yapraklı, Çankırı'da Bir Osmanlı Dönemi Mimari Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Assos Batı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:27+03:00
+title: "Assos Batı Kilisesi"
+date: "2025-12-25T09:37:27+03:00"
 slug: "assos-bati-kilisesi"
 description: "### Assos Batı Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.3346252,39.4879074"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Assos Batı Kilisesi

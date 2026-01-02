@@ -1,18 +1,17 @@
 ---
-title: "Tazıcılar Mescidi | Miras Haritası"
-date: 2025-12-25T00:42:02+03:00
+title: "Tazıcılar Mescidi"
+date: "2025-12-25T00:42:02+03:00"
 slug: "tazicilar-mescidi"
 description: "## Tazıcılar Mescidi: Üsküdar'ın Eski ve Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.020060314,41.008992829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tazıcılar Mescidi: Üsküdar'ın Eski ve Gizli Çeşmesi

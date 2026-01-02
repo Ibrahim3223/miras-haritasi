@@ -1,18 +1,17 @@
 ---
-title: "Eyüp Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:08:37+03:00
+title: "Eyüp Sultan Türbesi"
+date: "2025-12-25T15:08:37+03:00"
 slug: "eyup-sultan-turbesi"
 description: "**Eyüp Sultan Türbesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tomb_of_Ayyup_al-Ansari_DSCF8156.jpg/1200px-Tomb_of_Ayyup_al-Ansari_DSCF8156.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.933529,41.048255"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Eyüp Sultan Türbesi**

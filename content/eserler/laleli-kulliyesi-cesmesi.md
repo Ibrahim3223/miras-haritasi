@@ -1,18 +1,17 @@
 ---
-title: "Laleli Külliyesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:21+03:00
+title: "Laleli Külliyesi Çeşmesi"
+date: "2025-12-25T11:22:21+03:00"
 slug: "laleli-kulliyesi-cesmesi"
 description: "# Laleli Külliyesi Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9571632,41.0099569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Laleli Külliyesi Çeşmesi: Fatih'in Gizli Çeşmesi

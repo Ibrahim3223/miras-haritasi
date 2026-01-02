@@ -1,18 +1,17 @@
 ---
-title: "Kordoleon | Miras Haritası"
-date: 2025-12-25T13:40:04+03:00
+title: "Kordoleon"
+date: "2025-12-25T13:40:04+03:00"
 slug: "kordoleon"
 description: "## Kordoleon: Karşıyaka'nın Zirvesinde Yükselen Anıt..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karşıyaka"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kordoleon: Karşıyaka'nın Zirvesinde Yükselen Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Gazi Ahmet Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:09:05+03:00
+title: "Gazi Ahmet Paşa Sebili"
+date: "2025-12-25T13:09:05+03:00"
 slug: "gazi-ahmet-pasa-sebili"
 description: "**Gazi Ahmet Paşa Sebili: İstanbul'un Tarihî Miraslarından Bir Örneği**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9281826,41.0209084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gazi Ahmet Paşa Sebili: İstanbul'un Tarihî Miraslarından Bir Örneği**

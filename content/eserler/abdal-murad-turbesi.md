@@ -1,18 +1,17 @@
 ---
-title: "Abdal Murad Türbesi | Miras Haritası"
-date: 2025-12-25T14:15:07+03:00
+title: "Abdal Murad Türbesi"
+date: "2025-12-25T14:15:07+03:00"
 slug: "abdal-murad-turbesi"
 description: "### Abdal Murad Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0463,40.180812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdal Murad Türbesi

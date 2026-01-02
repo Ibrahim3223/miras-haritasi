@@ -1,18 +1,17 @@
 ---
-title: "Tayyare Şehitleri Anıtı | Miras Haritası"
-date: 2025-12-25T14:11:58+03:00
+title: "Tayyare Şehitleri Anıtı"
+date: "2025-12-25T14:11:58+03:00"
 slug: "tayyare-sehitleri-aniti"
 description: "**Tayyare Şehitleri Anıtı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tayyaresehitleri2.jpg/1200px-Tayyaresehitleri2.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.952833333,41.015927777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Tayyare Şehitleri Anıtı**

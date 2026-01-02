@@ -1,18 +1,17 @@
 ---
-title: "Zeynel Abidin Camii | Miras Haritası"
-date: 2025-12-24T22:00:49+03:00
+title: "Zeynel Abidin Camii"
+date: "2025-12-24T22:00:49+03:00"
 slug: "zeynel-abidin-camii"
 description: "## Zeynel Abidin Camii: Mezopotamya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mezopotamya (Roma eyaleti)"
-iller: ["Mezopotamya (Roma eyaleti)"]
+iller: '["Mezopotamya (Roma eyaleti)"]'
 district: "Nusaybin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.214166666,37.067222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeynel Abidin Camii: Mezopotamya'nın Tarihi Bir Mirası

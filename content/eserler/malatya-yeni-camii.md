@@ -1,18 +1,17 @@
 ---
-title: "Malatya Yeni Camii | Miras Haritası"
-date: 2025-12-24T22:22:09+03:00
+title: "Malatya Yeni Camii"
+date: "2025-12-24T22:22:09+03:00"
 slug: "malatya-yeni-camii"
 description: "# Malatya Yeni Camii: Türkiye'nin Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Malatya_Yeni_Camii_2008.jpg/1200px-Malatya_Yeni_Camii_2008.jpg"
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Malatya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.3181,38.3495"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Malatya Yeni Camii: Türkiye'nin Güzelliği

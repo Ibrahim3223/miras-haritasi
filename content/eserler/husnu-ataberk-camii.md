@@ -1,18 +1,17 @@
 ---
-title: "Hüsnü Ataberk Camii | Miras Haritası"
-date: 2025-12-25T00:57:02+03:00
+title: "Hüsnü Ataberk Camii"
+date: "2025-12-25T00:57:02+03:00"
 slug: "husnu-ataberk-camii"
 description: "## Hüsnü Ataberk Camii: İzmir'in Tarihi Bir Ören Yeri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1051655,38.4045372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsnü Ataberk Camii: İzmir'in Tarihi Bir Ören Yeri

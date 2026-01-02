@@ -1,18 +1,17 @@
 ---
-title: "Eriklice 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:48:43+03:00
+title: "Eriklice 1 Tümülüsü"
+date: "2025-12-25T07:48:43+03:00"
 slug: "eriklice-1-tumulusu"
 description: "## Eriklice 1 Tümülüsü: Kırklareli'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.173315,41.7523766"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eriklice 1 Tümülüsü: Kırklareli'nin Gizli Hazinesi

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Müze Köşkü | Miras Haritası"
-date: 2025-12-25T04:09:16+03:00
+title: "Atatürk Müze Köşkü"
+date: "2025-12-25T04:09:16+03:00"
 slug: "ataturk-muze-kosku"
 description: "## Atatürk Müze Köşkü..."
 featured_image: ""
 province: "Çankaya"
-iller: ["Çankaya"]
+iller: '["Çankaya"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.864333333,39.889027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Müze Köşkü

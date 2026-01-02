@@ -1,18 +1,17 @@
 ---
-title: "Yolağzı Höyük | Miras Haritası"
-date: 2025-12-25T06:15:31+03:00
+title: "Yolağzı Höyük"
+date: "2025-12-25T06:15:31+03:00"
 slug: "yolagzi-hoyuk"
 description: "## Yolağzı Höyük: Karacabey'in Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.316139372,40.136399559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yolağzı Höyük: Karacabey'in Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Tümülüs, Esenler | Miras Haritası"
-date: 2025-12-25T07:34:14+03:00
+title: "Tümülüs, Esenler"
+date: "2025-12-25T07:34:14+03:00"
 slug: "tumulus-esenler"
 description: "### Tümülüs, Esenler: Ergene, Tekirdağ'daki Gizemli Miras..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Ergene"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6511459,41.2102356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tümülüs, Esenler: Ergene, Tekirdağ'daki Gizemli Miras

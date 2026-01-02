@@ -1,18 +1,17 @@
 ---
-title: "Ayios Vlasios Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:24:48+03:00
+title: "Ayios Vlasios Ortodoks Kilisesi"
+date: "2025-12-25T09:24:48+03:00"
 slug: "ayios-vlasios-ortodoks-kilisesi"
 description: "### Ayios Vlasios Ortodoks Kilisesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.8423462,38.1703148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Vlasios Ortodoks Kilisesi

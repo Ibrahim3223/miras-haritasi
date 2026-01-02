@@ -1,18 +1,17 @@
 ---
-title: "Zeus Ourios Tapınağı | Miras Haritası"
-date: 2025-12-25T08:12:27+03:00
+title: "Zeus Ourios Tapınağı"
+date: "2025-12-25T08:12:27+03:00"
 slug: "zeus-ourios-tapinagi"
 description: "**Zeus Ourios Tapınağı: Anadolu Kavağı'ndaki Antik Bir Miras**..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Anadolu Kavağı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.094722222,41.178611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Zeus Ourios Tapınağı: Anadolu Kavağı'ndaki Antik Bir Miras**

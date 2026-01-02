@@ -1,18 +1,17 @@
 ---
-title: "Palaeobeudus | Miras Haritası"
-date: 2025-12-25T05:19:13+03:00
+title: "Palaeobeudus"
+date: "2025-12-25T05:19:13+03:00"
 slug: "palaeobeudus"
 description: "**Palaeobeudus: Türkiye'nin Gizli Arkeolojik Harikası**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Palaeobeudus: Türkiye'nin Gizli Arkeolojik Harikası**

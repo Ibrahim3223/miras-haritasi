@@ -1,18 +1,17 @@
 ---
-title: "Hoca Hayrettin Efendi Kabri | Miras Haritası"
-date: 2025-12-25T13:28:11+03:00
+title: "Hoca Hayrettin Efendi Kabri"
+date: "2025-12-25T13:28:11+03:00"
 slug: "hoca-hayrettin-efendi-kabri"
 description: "## Hoca Hayrettin Efendi Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9631863,41.0201721"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Hayrettin Efendi Kabri

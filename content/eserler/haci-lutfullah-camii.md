@@ -1,18 +1,17 @@
 ---
-title: "Hacı Lütfullah Camii | Miras Haritası"
-date: 2025-12-24T23:29:56+03:00
+title: "Hacı Lütfullah Camii"
+date: "2025-12-24T23:29:56+03:00"
 slug: "haci-lutfullah-camii"
 description: "## Hacı Lütfullah Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7929726,37.1439743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Lütfullah Camii

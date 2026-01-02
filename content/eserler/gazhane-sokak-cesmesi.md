@@ -1,18 +1,17 @@
 ---
-title: "Gazhane Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:39:17+03:00
+title: "Gazhane Sokak Çeşmesi"
+date: "2025-12-25T11:39:17+03:00"
 slug: "gazhane-sokak-cesmesi"
 description: "### Gazhane Sokak Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4938049,37.8652763"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazhane Sokak Çeşmesi

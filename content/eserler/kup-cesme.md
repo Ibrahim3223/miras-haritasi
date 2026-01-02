@@ -1,18 +1,17 @@
 ---
-title: "Küp Çeşme | Miras Haritası"
-date: 2025-12-25T10:42:25+03:00
+title: "Küp Çeşme"
+date: "2025-12-25T10:42:25+03:00"
 slug: "kup-cesme"
 description: "## Küp Çeşme: Afyonkarahisar'ın Büyüleyici Tarihi Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5395832,38.7537079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küp Çeşme: Afyonkarahisar'ın Büyüleyici Tarihi Çeşmesi

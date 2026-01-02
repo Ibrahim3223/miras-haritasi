@@ -1,18 +1,17 @@
 ---
-title: "Zeita | Miras Haritası"
-date: 2025-12-25T05:16:45+03:00
+title: "Zeita"
+date: "2025-12-25T05:16:45+03:00"
 slug: "zeita"
 description: "### Zeita Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.826,40.9226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zeita Arkeolojik Sit

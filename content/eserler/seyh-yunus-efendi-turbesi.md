@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Yunus Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:14+03:00
+title: "Şeyh Yunus Efendi Türbesi"
+date: "2025-12-25T14:45:14+03:00"
 slug: "seyh-yunus-efendi-turbesi"
 description: "## Şeyh Yunus Efendi Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Gündoğmuş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.932005287,36.832550363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Yunus Efendi Türbesi

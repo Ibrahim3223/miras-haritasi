@@ -1,18 +1,17 @@
 ---
-title: "Bıçakcılar İlyashev Camii | Miras Haritası"
-date: 2025-12-25T00:59:13+03:00
+title: "Bıçakcılar İlyashev Camii"
+date: "2025-12-25T00:59:13+03:00"
 slug: "bicakcilar-ilyashev-camii"
 description: "## Bıçakcılar İlyashev Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4291311,40.9940704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bıçakcılar İlyashev Camii

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Maldan | Miras Haritası"
-date: 2025-12-25T02:52:40+03:00
+title: "Roma Köprüsü, Maldan"
+date: "2025-12-25T02:52:40+03:00"
 slug: "roma-koprusu-maldan"
 description: "### Roma Köprüsü, Maldan..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.259192,38.847595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Maldan

@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Sarayköy | Miras Haritası"
-date: 2025-12-25T00:29:59+03:00
+title: "Çarşı Camii, Sarayköy"
+date: "2025-12-25T00:29:59+03:00"
 slug: "carsi-camii-saraykoy"
 description: "## Çarşı Camii, Sarayköy: Bir Kültür Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Sarayköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9232998,37.9238014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Sarayköy: Bir Kültür Mirası

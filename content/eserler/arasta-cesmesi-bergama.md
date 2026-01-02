@@ -1,18 +1,17 @@
 ---
-title: "Arasta Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:47:38+03:00
+title: "Arasta Çeşmesi, Bergama"
+date: "2025-12-25T12:47:38+03:00"
 slug: "arasta-cesmesi-bergama"
 description: "### Arasta Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.179285,39.1212311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arasta Çeşmesi, Bergama

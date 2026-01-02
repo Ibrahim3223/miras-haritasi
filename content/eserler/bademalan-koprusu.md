@@ -1,18 +1,17 @@
 ---
-title: "Bademalan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:50+03:00
+title: "Bademalan Köprüsü"
+date: "2025-12-25T02:29:50+03:00"
 slug: "bademalan-koprusu"
 description: "# Bademalan Köprüsü: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kınık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.3167,39.0241013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bademalan Köprüsü: İzmir'in Tarihi Bir Mirası

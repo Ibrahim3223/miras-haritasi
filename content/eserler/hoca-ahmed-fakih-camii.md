@@ -1,18 +1,17 @@
 ---
-title: "Hoca Ahmed Fakih Camii | Miras Haritası"
-date: 2025-12-24T21:55:25+03:00
+title: "Hoca Ahmed Fakih Camii"
+date: "2025-12-24T21:55:25+03:00"
 slug: "hoca-ahmed-fakih-camii"
 description: "## Hoca Ahmed Fakih Camii..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.466527777,37.871972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Ahmed Fakih Camii

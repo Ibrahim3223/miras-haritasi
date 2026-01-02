@@ -1,18 +1,17 @@
 ---
-title: "Dökümcü Gül Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:35:28+03:00
+title: "Dökümcü Gül Baba Kabri"
+date: "2025-12-25T13:35:28+03:00"
 slug: "dokumcu-gul-baba-kabri"
 description: "# Dökümcü Gül Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.926525,41.046838"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dökümcü Gül Baba Kabri

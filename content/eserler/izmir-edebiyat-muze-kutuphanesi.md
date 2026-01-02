@@ -1,18 +1,17 @@
 ---
-title: "İzmir Edebiyat Müze Kütüphanesi | Miras Haritası"
-date: 2025-12-25T03:41:58+03:00
+title: "İzmir Edebiyat Müze Kütüphanesi"
+date: "2025-12-25T03:41:58+03:00"
 slug: "izmir-edebiyat-muze-kutuphanesi"
 description: "### İzmir Edebiyat Müze Kütüphanesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.219965,38.4625549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İzmir Edebiyat Müze Kütüphanesi

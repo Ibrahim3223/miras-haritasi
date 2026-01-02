@@ -1,18 +1,17 @@
 ---
-title: "Haydarpaşa Protokol Camii | Miras Haritası"
-date: 2025-12-24T22:17:05+03:00
+title: "Haydarpaşa Protokol Camii"
+date: "2025-12-24T22:17:05+03:00"
 slug: "haydarpasa-protokol-camii"
 description: "### Haydarpaşa Protokol Camii: İstanbul'un Ziyaretçi Merkezlerinden Bir Diğer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Haydarpaşa_protokol_camii_Mars_2013.jpg/1200px-Haydarpaşa_protokol_camii_Mars_2013.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Rasimpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0233,40.9969"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Haydarpaşa Protokol Camii: İstanbul'un Ziyaretçi Merkezlerinden Bir Diğer

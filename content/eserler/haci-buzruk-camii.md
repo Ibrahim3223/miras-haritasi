@@ -1,18 +1,17 @@
 ---
-title: "Hacı Büzrük Camii | Miras Haritası"
-date: 2025-12-24T22:10:44+03:00
+title: "Hacı Büzrük Camii"
+date: "2025-12-24T22:10:44+03:00"
 slug: "haci-buzruk-camii"
 description: "## Hacı Büzrük Camii..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.237801,37.914115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Büzrük Camii

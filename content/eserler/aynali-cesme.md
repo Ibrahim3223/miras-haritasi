@@ -1,18 +1,17 @@
 ---
-title: "Aynalı Çeşme | Miras Haritası"
-date: 2025-12-25T12:16:00+03:00
+title: "Aynalı Çeşme"
+date: "2025-12-25T12:16:00+03:00"
 slug: "aynali-cesme"
 description: "## Aynalı Çeşme: Fatih, İstanbul'un Tarihî Bir Zirvesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.940526,41.013867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aynalı Çeşme: Fatih, İstanbul'un Tarihî Bir Zirvesi

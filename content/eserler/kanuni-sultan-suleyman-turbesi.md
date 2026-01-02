@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Sultan Süleyman Türbesi | Miras Haritası"
-date: 2025-12-25T13:26:59+03:00
+title: "Kanuni Sultan Süleyman Türbesi"
+date: "2025-12-25T13:26:59+03:00"
 slug: "kanuni-sultan-suleyman-turbesi"
 description: "### Kanuni Sultan Süleyman Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sultan_Süleyman_Tomb_interior_20220315_(5).jpg/1200px-Sultan_Süleyman_Tomb_interior_20220315_(5).jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Eminönü"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.964469,41.01569"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kanuni Sultan Süleyman Türbesi

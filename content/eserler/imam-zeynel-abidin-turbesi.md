@@ -1,18 +1,17 @@
 ---
-title: "İmam Zeynel Abidin Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:17+03:00
+title: "İmam Zeynel Abidin Türbesi"
+date: "2025-12-25T15:24:17+03:00"
 slug: "imam-zeynel-abidin-turbesi"
 description: "## İmam Zeynel Abidin Türbesi: Battalgazi'nin Semahanesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.4282227,38.4706612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmam Zeynel Abidin Türbesi: Battalgazi'nin Semahanesi

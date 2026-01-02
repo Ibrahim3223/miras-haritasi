@@ -1,18 +1,17 @@
 ---
-title: "Selçuk Efes Kent Belleği Binası | Miras Haritası"
-date: 2025-12-25T03:43:13+03:00
+title: "Selçuk Efes Kent Belleği Binası"
+date: "2025-12-25T03:43:13+03:00"
 slug: "selcuk-efes-kent-bellegi-binasi"
 description: "## Selçuk Efes Kent Belleği Binası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.3711815,37.9508743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selçuk Efes Kent Belleği Binası

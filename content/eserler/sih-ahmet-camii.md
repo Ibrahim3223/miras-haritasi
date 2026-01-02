@@ -1,18 +1,17 @@
 ---
-title: "Şıh Ahmet Camii | Miras Haritası"
-date: 2025-12-24T23:13:32+03:00
+title: "Şıh Ahmet Camii"
+date: "2025-12-24T23:13:32+03:00"
 slug: "sih-ahmet-camii"
 description: "# Şıh Ahmet Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.1182213,36.7131119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şıh Ahmet Camii

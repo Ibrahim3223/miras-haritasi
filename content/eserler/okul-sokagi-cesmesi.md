@@ -1,18 +1,17 @@
 ---
-title: "Okul Sokağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:31:02+03:00
+title: "Okul Sokağı Çeşmesi"
+date: "2025-12-25T11:31:02+03:00"
 slug: "okul-sokagi-cesmesi"
 description: "## Okul Sokağı Çeşmesi: Safranbolu'nun Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Okul_Sokağı_Çeşmesi.jpg/1200px-Okul_Sokağı_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6858978,41.2491112"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Okul Sokağı Çeşmesi: Safranbolu'nun Tarihi Bir Mirası

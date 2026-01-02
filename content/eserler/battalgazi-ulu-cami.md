@@ -1,18 +1,17 @@
 ---
-title: "Battalgazi Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:05:12+03:00
+title: "Battalgazi Ulu Cami"
+date: "2025-12-24T23:05:12+03:00"
 slug: "battalgazi-ulu-cami"
 description: "## Battalgazi Ulu Camii: Türk İslam Edebiyatı'nın En Değerli Yapıtlarından Birini Tanıtan Malatya'nın Semahanesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.3669815,38.4204483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Battalgazi Ulu Camii: Türk İslam Edebiyatı'nın En Değerli Yapıtlarından Birini Tanıtan Malatya'nın Semahanesi

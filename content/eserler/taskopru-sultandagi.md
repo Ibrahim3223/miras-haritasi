@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü, Sultandağı | Miras Haritası"
-date: 2025-12-25T02:52:56+03:00
+title: "Taşköprü, Sultandağı"
+date: "2025-12-25T02:52:56+03:00"
 slug: "taskopru-sultandagi"
 description: "### Taşköprü, Sultandağı: Afyonkarahisar'ın Tarihi Köprüsü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sultandağı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.2914524,38.5835648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taşköprü, Sultandağı: Afyonkarahisar'ın Tarihi Köprüsü

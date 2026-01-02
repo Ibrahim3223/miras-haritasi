@@ -1,18 +1,17 @@
 ---
-title: "Soğuk Çeşme Sokaktaki Çeşme | Miras Haritası"
-date: 2025-12-25T11:18:54+03:00
+title: "Soğuk Çeşme Sokaktaki Çeşme"
+date: "2025-12-25T11:18:54+03:00"
 slug: "soguk-cesme-sokaktaki-cesme"
 description: "## Soğuk Çeşme Sokaktaki Çeşme: Fatih'ten Bir Zeyil..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.980272,41.009358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğuk Çeşme Sokaktaki Çeşme: Fatih'ten Bir Zeyil

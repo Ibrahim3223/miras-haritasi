@@ -1,18 +1,17 @@
 ---
-title: "Nora (Kapadokya) | Miras Haritası"
-date: 2025-12-25T04:28:02+03:00
+title: "Nora (Kapadokya)"
+date: "2025-12-25T04:28:02+03:00"
 slug: "nora-kapadokya"
 description: "### Nora (Kapadokya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3745905,38.2719285"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Nora (Kapadokya)

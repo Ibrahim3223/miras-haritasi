@@ -1,18 +1,17 @@
 ---
-title: "Tokaçlı Meryem Ana Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:29:06+03:00
+title: "Tokaçlı Meryem Ana Ortodoks Kilisesi"
+date: "2025-12-25T09:29:06+03:00"
 slug: "tokacli-meryem-ana-ortodoks-kilisesi"
 description: "## Tokaçlı Meryem Ana Ortodoks Kilisesi: Altınözü'ndeki Bir Azizin Evi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Altınözü"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.259819,36.1015434"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tokaçlı Meryem Ana Ortodoks Kilisesi: Altınözü'ndeki Bir Azizin Evi

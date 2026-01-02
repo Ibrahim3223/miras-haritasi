@@ -1,18 +1,17 @@
 ---
-title: "Polikron Manastırı | Miras Haritası"
-date: 2025-12-25T09:50:15+03:00
+title: "Polikron Manastırı"
+date: "2025-12-25T09:50:15+03:00"
 slug: "polikron-manastiri"
 description: "### Polikron Manastırı..."
 featured_image: ""
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "28.1325,40.3873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Polikron Manastırı

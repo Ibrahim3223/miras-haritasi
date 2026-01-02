@@ -1,18 +1,17 @@
 ---
-title: "Batman Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:58+03:00
+title: "Batman Saat Kulesi"
+date: "2025-12-25T17:17:58+03:00"
 slug: "batman-saat-kulesi"
 description: "## Batman Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Batman_Saat_Kulesi1.jpg/1200px-Batman_Saat_Kulesi1.jpg"
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "41.125805555,37.887805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Batman Saat Kulesi

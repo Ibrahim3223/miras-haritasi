@@ -1,18 +1,17 @@
 ---
-title: "Pazar Sokağı Çeşmesi, Anadoluhisarı | Miras Haritası"
-date: 2025-12-25T12:03:01+03:00
+title: "Pazar Sokağı Çeşmesi, Anadoluhisarı"
+date: "2025-12-25T12:03:01+03:00"
 slug: "pazar-sokagi-cesmesi-anadoluhisari"
 description: "## Pazar Sokağı Çeşmesi, Anadoluhisarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.071331,41.0846329"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazar Sokağı Çeşmesi, Anadoluhisarı

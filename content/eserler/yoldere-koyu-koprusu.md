@@ -1,18 +1,17 @@
 ---
-title: "Yoldere Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:41+03:00
+title: "Yoldere Köyü Köprüsü"
+date: "2025-12-25T02:14:41+03:00"
 slug: "yoldere-koyu-koprusu"
 description: "### Yoldere Köyü Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Hopa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.4748215,41.3988151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yoldere Köyü Köprüsü

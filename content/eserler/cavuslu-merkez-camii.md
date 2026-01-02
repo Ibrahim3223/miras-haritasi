@@ -1,18 +1,17 @@
 ---
-title: "Çavuşlu Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:29:11+03:00
+title: "Çavuşlu Merkez Camii"
+date: "2025-12-24T22:29:11+03:00"
 slug: "cavuslu-merkez-camii"
 description: "### Çavuşlu Merkez Camii Tanıtımı..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çavuşlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.065224,41.039407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çavuşlu Merkez Camii Tanıtımı

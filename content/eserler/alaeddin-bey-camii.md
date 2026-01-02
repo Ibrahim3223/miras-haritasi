@@ -1,18 +1,17 @@
 ---
-title: "Alaeddin Bey Camii | Miras Haritası"
-date: 2025-12-24T22:05:42+03:00
+title: "Alaeddin Bey Camii"
+date: "2025-12-24T22:05:42+03:00"
 slug: "alaeddin-bey-camii"
 description: "## Alaeddin Bey Camii: Muş'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Muş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.490083333,38.730888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaeddin Bey Camii: Muş'un Tarihi Bir Mirası

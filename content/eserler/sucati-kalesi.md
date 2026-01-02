@@ -1,18 +1,17 @@
 ---
-title: "Suçatı Kalesi | Miras Haritası"
-date: 2025-12-25T01:49:49+03:00
+title: "Suçatı Kalesi"
+date: "2025-12-25T01:49:49+03:00"
 slug: "sucati-kalesi"
 description: "## Suçatı Kalesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Yahyalı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.3503532,37.9738045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Suçatı Kalesi

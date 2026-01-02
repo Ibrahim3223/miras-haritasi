@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İzzettin Camii | Miras Haritası"
-date: 2025-12-24T23:13:04+03:00
+title: "Şeyh İzzettin Camii"
+date: "2025-12-24T23:13:04+03:00"
 slug: "seyh-izzettin-camii"
 description: "## Şeyh İzzettin Camii: Hacı Bayram'ın Sanki Zamanı Durdurmuş Eseri..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8599968,39.9439201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh İzzettin Camii: Hacı Bayram'ın Sanki Zamanı Durdurmuş Eseri

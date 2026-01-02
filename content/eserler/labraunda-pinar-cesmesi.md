@@ -1,18 +1,17 @@
 ---
-title: "Labraunda Pınar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:32:05+03:00
+title: "Labraunda Pınar Çeşmesi"
+date: "2025-12-25T11:32:05+03:00"
 slug: "labraunda-pinar-cesmesi"
 description: "### Labraunda Pınar Çeşmesi: Milas'ta Bir Antik Marvel..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8200321,37.4194603"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Labraunda Pınar Çeşmesi: Milas'ta Bir Antik Marvel

@@ -1,18 +1,17 @@
 ---
-title: "Merinos Tekstil Sanayi Müzesi | Miras Haritası"
-date: 2025-12-25T03:36:20+03:00
+title: "Merinos Tekstil Sanayi Müzesi"
+date: "2025-12-25T03:36:20+03:00"
 slug: "merinos-tekstil-sanayi-muzesi"
 description: "## Merinos Tekstil Sanayi Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.051572,40.199686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merinos Tekstil Sanayi Müzesi

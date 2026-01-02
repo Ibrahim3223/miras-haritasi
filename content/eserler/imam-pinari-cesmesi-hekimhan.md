@@ -1,18 +1,17 @@
 ---
-title: "İmam Pınarı Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:20:24+03:00
+title: "İmam Pınarı Çeşmesi, Hekimhan"
+date: "2025-12-25T12:20:24+03:00"
 slug: "imam-pinari-cesmesi-hekimhan"
 description: "## İmam Pınarı Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.933379493,38.818466714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmam Pınarı Çeşmesi, Hekimhan

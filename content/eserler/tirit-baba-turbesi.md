@@ -1,18 +1,17 @@
 ---
-title: "Tirit Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:29+03:00
+title: "Tirit Baba Türbesi"
+date: "2025-12-25T15:28:29+03:00"
 slug: "tirit-baba-turbesi"
 description: "# Tirit Baba Türbesi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5653076,41.6836586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tirit Baba Türbesi: Edirne'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Kaymaklı Yeraltı Şehri | Miras Haritası"
-date: 2025-12-25T06:52:26+03:00
+title: "Kaymaklı Yeraltı Şehri"
+date: "2025-12-25T06:52:26+03:00"
 slug: "kaymakli-yeralti-sehri"
 description: "### Kaymaklı Yeraltı Şehri: Nevşehir'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Kaymaklı_Underground_City_large_room.JPG/1200px-Kaymaklı_Underground_City_large_room.JPG"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.750443,38.465686"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kaymaklı Yeraltı Şehri: Nevşehir'in Gizli Mirası

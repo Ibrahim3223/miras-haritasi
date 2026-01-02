@@ -1,18 +1,17 @@
 ---
-title: "Paşa Çeşmesi, Helvacı | Miras Haritası"
-date: 2025-12-25T12:05:08+03:00
+title: "Paşa Çeşmesi, Helvacı"
+date: "2025-12-25T12:05:08+03:00"
 slug: "pasa-cesmesi-helvaci"
 description: "# Paşa Çeşmesi, Helvacı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Aliağa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.9589005,38.6861992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Paşa Çeşmesi, Helvacı

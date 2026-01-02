@@ -1,18 +1,17 @@
 ---
-title: "Hacı Süleyman Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:28:36+03:00
+title: "Hacı Süleyman Efendi Camii"
+date: "2025-12-24T23:28:36+03:00"
 slug: "haci-suleyman-efendi-camii"
 description: "## Hacı Süleyman Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Edirne_Province_-_Hacı_Süleyman_Efendi_Mosque_-_20250601110945.jpg/1200px-Edirne_Province_-_Hacı_Süleyman_Efendi_Mosque_-_20250601110945.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8231945,41.5504456"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Süleyman Efendi Camii

@@ -1,18 +1,17 @@
 ---
-title: "Araba Meydanı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:20+03:00
+title: "Araba Meydanı Çeşmesi"
+date: "2025-12-25T11:44:20+03:00"
 slug: "araba-meydani-cesmesi"
 description: "#### Araba Meydanı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Üsküdar_-_Car_Square_Fountain_-_20250405122206.jpg/1200px-Üsküdar_-_Car_Square_Fountain_-_20250405122206.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Beylerbeyi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0443459,41.0435448"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 #### Araba Meydanı Çeşmesi

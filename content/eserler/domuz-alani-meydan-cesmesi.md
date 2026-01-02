@@ -1,18 +1,17 @@
 ---
-title: "Domuz Alanı Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:46:15+03:00
+title: "Domuz Alanı Meydan Çeşmesi"
+date: "2025-12-25T12:46:15+03:00"
 slug: "domuz-alani-meydan-cesmesi"
 description: "# Domuz Alanı Meydan Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1811085,39.125576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Domuz Alanı Meydan Çeşmesi

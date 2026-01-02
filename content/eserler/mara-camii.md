@@ -1,18 +1,17 @@
 ---
-title: "Mara Camii | Miras Haritası"
-date: 2025-12-25T00:27:36+03:00
+title: "Mara Camii"
+date: "2025-12-25T00:27:36+03:00"
 slug: "mara-camii"
 description: "## Mara Camii..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.8687782,36.7221909"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mara Camii

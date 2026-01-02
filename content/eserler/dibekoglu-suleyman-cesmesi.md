@@ -1,18 +1,17 @@
 ---
-title: "Dibekoğlu Süleyman Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:36:50+03:00
+title: "Dibekoğlu Süleyman Çeşmesi"
+date: "2025-12-25T12:36:50+03:00"
 slug: "dibekoglu-suleyman-cesmesi"
 description: "## Dibekoğlu Süleyman Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8633461,39.9342079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dibekoğlu Süleyman Çeşmesi

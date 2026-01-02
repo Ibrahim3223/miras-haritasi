@@ -1,18 +1,17 @@
 ---
-title: "Galatasaray Hamamı | Miras Haritası"
-date: 2025-12-25T16:36:55+03:00
+title: "Galatasaray Hamamı"
+date: "2025-12-25T16:36:55+03:00"
 slug: "galatasaray-hamami"
 description: "## Galatasaray Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.979927,41.032647"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Galatasaray Hamamı

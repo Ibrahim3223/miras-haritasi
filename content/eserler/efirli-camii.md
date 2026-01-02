@@ -1,18 +1,17 @@
 ---
-title: "Efirli Camii | Miras Haritası"
-date: 2025-12-24T22:37:20+03:00
+title: "Efirli Camii"
+date: "2025-12-24T22:37:20+03:00"
 slug: "efirli-camii"
 description: "**Efirli Camii**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ordu"
+province: "Ordu"
+iller: '["Ordu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.809399,41.023699"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Efirli Camii**

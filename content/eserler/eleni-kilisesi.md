@@ -1,18 +1,17 @@
 ---
-title: "Eleni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:35+03:00
+title: "Eleni Kilisesi"
+date: "2025-12-25T09:37:35+03:00"
 slug: "eleni-kilisesi"
 description: "## Eleni Kilisesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.897227,38.583441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eleni Kilisesi

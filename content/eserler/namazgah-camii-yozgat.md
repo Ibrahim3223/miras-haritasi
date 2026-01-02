@@ -1,18 +1,17 @@
 ---
-title: "Namazgah Camii, Yozgat | Miras Haritası"
-date: 2025-12-24T23:20:35+03:00
+title: "Namazgah Camii, Yozgat"
+date: "2025-12-24T23:20:35+03:00"
 slug: "namazgah-camii-yozgat"
 description: "## Namazgah Camii, Yozgat..."
 featured_image: ""
-province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: "Ankara Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8000641,39.8149872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Namazgah Camii, Yozgat

@@ -1,18 +1,17 @@
 ---
-title: "Silivrikapı_Hipojesi | Miras Haritası"
-date: 2025-12-25T13:39:49+03:00
+title: "Silivrikapı_Hipojesi"
+date: "2025-12-25T13:39:49+03:00"
 slug: "silivrikapihipojesi"
 description: "## Silivrikapı Hipojesti: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.921771,41.006489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Silivrikapı Hipojesti: İstanbul'un Gizli Anıtı

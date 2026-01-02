@@ -1,18 +1,17 @@
 ---
-title: "Caki Kalesi | Miras Haritası"
-date: 2025-12-25T01:12:21+03:00
+title: "Caki Kalesi"
+date: "2025-12-25T01:12:21+03:00"
 slug: "caki-kalesi"
 description: "## Caki Kalesi: Posof'un Efsanevi Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jak-su_fort_(Devitsky,_1905).jpg/1200px-Jak-su_fort_(Devitsky,_1905).jpg"
 province: "Posof"
-iller: ["Posof"]
+iller: '["Posof"]'
 district: "Çambeli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.802027777,41.507333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Caki Kalesi: Posof'un Efsanevi Kalesi

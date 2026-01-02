@@ -1,18 +1,17 @@
 ---
-title: "Emir Halil Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:57+03:00
+title: "Emir Halil Camii Çeşmesi"
+date: "2025-12-25T11:36:57+03:00"
 slug: "emir-halil-camii-cesmesi"
 description: "### Emir Halil Camii Çeşmesi: Konya'nın Görsel Kahramanı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4942741,37.863636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Emir Halil Camii Çeşmesi: Konya'nın Görsel Kahramanı

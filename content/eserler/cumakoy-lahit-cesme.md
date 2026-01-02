@@ -1,18 +1,17 @@
 ---
-title: "Cumaköy Lahit Çeşme | Miras Haritası"
-date: 2025-12-25T10:49:20+03:00
+title: "Cumaköy Lahit Çeşme"
+date: "2025-12-25T10:49:20+03:00"
 slug: "cumakoy-lahit-cesme"
 description: "## Cumaköy Lahit Çeşme: Kocaeli'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Körfez"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.7887001,40.9302673"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumaköy Lahit Çeşme: Kocaeli'nin Gizli Çeşmesi

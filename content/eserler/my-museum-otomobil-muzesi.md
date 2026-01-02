@@ -1,18 +1,17 @@
 ---
-title: "My Museum Otomobil Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:03+03:00
+title: "My Museum Otomobil Müzesi"
+date: "2025-12-25T03:52:03+03:00"
 slug: "my-museum-otomobil-muzesi"
 description: "### My Museum Otomobil Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Ataşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.106928,40.991901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### My Museum Otomobil Müzesi

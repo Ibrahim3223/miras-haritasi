@@ -1,18 +1,17 @@
 ---
-title: "Dibekçi Ali Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:23+03:00
+title: "Dibekçi Ali Çeşmesi"
+date: "2025-12-25T11:08:23+03:00"
 slug: "dibekci-ali-cesmesi"
 description: "## Dibekçi Ali Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Şehremini"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.92848,41.012493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dibekçi Ali Çeşmesi

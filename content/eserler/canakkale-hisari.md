@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Hisarı | Miras Haritası"
-date: 2025-12-25T01:32:03+03:00
+title: "Çanakkale Hisarı"
+date: "2025-12-25T01:32:03+03:00"
 slug: "canakkale-hisari"
 description: "## Çanakkale Hisarı..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.5293121,40.1187363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale Hisarı

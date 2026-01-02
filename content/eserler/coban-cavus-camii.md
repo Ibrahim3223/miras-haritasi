@@ -1,18 +1,17 @@
 ---
-title: "Çoban Çavuş Camii | Miras Haritası"
-date: 2025-12-24T22:52:18+03:00
+title: "Çoban Çavuş Camii"
+date: "2025-12-24T22:52:18+03:00"
 slug: "coban-cavus-camii"
 description: "### Çoban Çavuş Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Çoban_Çavuş_Cami,_Fatih,_İstanbul.jpg/1200px-Çoban_Çavuş_Cami,_Fatih,_İstanbul.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9592056,41.0079765"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çoban Çavuş Camii

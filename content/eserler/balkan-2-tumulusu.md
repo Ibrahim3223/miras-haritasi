@@ -1,18 +1,17 @@
 ---
-title: "Balkan 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:02:21+03:00
+title: "Balkan 2 Tümülüsü"
+date: "2025-12-25T08:02:21+03:00"
 slug: "balkan-2-tumulusu"
 description: "## Balkan 2 Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8436756,41.7422752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balkan 2 Tümülüsü: Edirne'nin Gizli Mirası

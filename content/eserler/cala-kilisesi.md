@@ -1,18 +1,17 @@
 ---
-title: "Çala Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:18+03:00
+title: "Çala Kilisesi"
+date: "2025-12-25T09:00:18+03:00"
 slug: "cala-kilisesi"
 description: "### Çala Kilisesi: Artvin'in Kutsal Yerleri Arasındaki Bir Zenginlik..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.541416666,40.804972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çala Kilisesi: Artvin'in Kutsal Yerleri Arasındaki Bir Zenginlik

@@ -1,18 +1,17 @@
 ---
-title: "Büyükkale Höyük | Miras Haritası"
-date: 2025-12-25T06:16:59+03:00
+title: "Büyükkale Höyük"
+date: "2025-12-25T06:16:59+03:00"
 slug: "buyukkale-hoyuk"
 description: "## Büyükkale Höyük: Tarih ve Kültür Mirasının İhtişamı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Akpınar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9235309,39.6502608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükkale Höyük: Tarih ve Kültür Mirasının İhtişamı

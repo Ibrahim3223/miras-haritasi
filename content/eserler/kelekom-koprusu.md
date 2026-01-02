@@ -1,18 +1,17 @@
 ---
-title: "Kelekom Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:27+03:00
+title: "Kelekom Köprüsü"
+date: "2025-12-25T02:31:27+03:00"
 slug: "kelekom-koprusu"
 description: "## Kelekom Köprüsü..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Başkale"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "44.092408896,37.951427769"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kelekom Köprüsü

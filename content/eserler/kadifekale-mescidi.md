@@ -1,18 +1,17 @@
 ---
-title: "Kadifekale Mescidi | Miras Haritası"
-date: 2025-12-25T00:49:34+03:00
+title: "Kadifekale Mescidi"
+date: "2025-12-25T00:49:34+03:00"
 slug: "kadifekale-mescidi"
 description: "**Kadifekale Mescidi: İzmir'in Tarihî Bir Zengini**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1464348,38.4136314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kadifekale Mescidi: İzmir'in Tarihî Bir Zengini**

@@ -1,18 +1,17 @@
 ---
-title: "Çavuşköy Tümülüsü, Arguvan | Miras Haritası"
-date: 2025-12-25T07:28:14+03:00
+title: "Çavuşköy Tümülüsü, Arguvan"
+date: "2025-12-25T07:28:14+03:00"
 slug: "cavuskoy-tumulusu-arguvan"
 description: "## Çavuşköy Tümülüsü, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.2388153,38.8221054"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuşköy Tümülüsü, Arguvan

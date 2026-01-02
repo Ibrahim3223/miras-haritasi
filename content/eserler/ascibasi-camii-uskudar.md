@@ -1,18 +1,17 @@
 ---
-title: "Aşçıbaşı Camii (Üsküdar) | Miras Haritası"
-date: 2025-12-24T21:42:26+03:00
+title: "Aşçıbaşı Camii (Üsküdar)"
+date: "2025-12-24T21:42:26+03:00"
 slug: "ascibasi-camii-uskudar"
 description: "# Aşçıbaşı Camii: Üsküdar'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Aşçıbaşı_Mehmet_Efendi_Mosque_outside.jpg/1200px-Aşçıbaşı_Mehmet_Efendi_Mosque_outside.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Zeynep Kamil"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0205895,41.0137523"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Aşçıbaşı Camii: Üsküdar'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Savcı Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:44+03:00
+title: "Savcı Bey Türbesi"
+date: "2025-12-25T14:49:44+03:00"
 slug: "savci-bey-turbesi"
 description: "## Savcı Bey Türbesi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0346832,39.8241234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Savcı Bey Türbesi

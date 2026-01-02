@@ -1,18 +1,17 @@
 ---
-title: "Gerçekli Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:55:00+03:00
+title: "Gerçekli Tümülüsü"
+date: "2025-12-25T07:55:00+03:00"
 slug: "gercekli-tumulusu"
 description: "## Gerçekli Tümülüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.076,38.223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gerçekli Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Dualar Köyü Eski Cami | Miras Haritası"
-date: 2025-12-24T22:37:27+03:00
+title: "Dualar Köyü Eski Cami"
+date: "2025-12-24T22:37:27+03:00"
 slug: "dualar-koyu-eski-cami"
 description: "## Dualar Köyü Eski Cami: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.410387,37.8556595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dualar Köyü Eski Cami: Aydın'ın Tarihi Bir Mirası

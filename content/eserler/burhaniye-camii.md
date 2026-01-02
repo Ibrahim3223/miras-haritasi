@@ -1,18 +1,17 @@
 ---
-title: "Burhaniye Camii | Miras Haritası"
-date: 2025-12-24T22:48:24+03:00
+title: "Burhaniye Camii"
+date: "2025-12-24T22:48:24+03:00"
 slug: "burhaniye-camii"
 description: "## Burhaniye Camii..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Burhaniye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0476609,41.03086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burhaniye Camii

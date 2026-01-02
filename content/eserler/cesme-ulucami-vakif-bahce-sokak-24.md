@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Ulucami, Vakıf Bahçe Sokak, 24 | Miras Haritası"
-date: 2025-12-25T12:45:05+03:00
+title: "Çeşme – Ulucami, Vakıf Bahçe Sokak, 24"
+date: "2025-12-25T12:45:05+03:00"
 slug: "cesme-ulucami-vakif-bahce-sokak-24"
 description: "## Çeşme – Ulucami, Vakıf Bahçe Sokak, 24: Bergama'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1795216,39.1255226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Ulucami, Vakıf Bahçe Sokak, 24: Bergama'nın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Habib-i Acem Türbesi, Çivril | Miras Haritası"
-date: 2025-12-25T13:53:34+03:00
+title: "Habib-i Acem Türbesi, Çivril"
+date: "2025-12-25T13:53:34+03:00"
 slug: "habib-i-acem-turbesi-civril"
 description: "### Habib-i Acem Türbesi, Çivril..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.7434883,38.3054314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Habib-i Acem Türbesi, Çivril

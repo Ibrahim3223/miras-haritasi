@@ -1,18 +1,17 @@
 ---
-title: "Helvai Yakup Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T13:36:20+03:00
+title: "Helvai Yakup Efendi Türbesi"
+date: "2025-12-25T13:36:20+03:00"
 slug: "helvai-yakup-efendi-turbesi"
 description: "### Helvai Yakup Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.961142,41.012888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Helvai Yakup Efendi Türbesi

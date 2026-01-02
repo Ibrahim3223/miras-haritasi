@@ -1,18 +1,17 @@
 ---
-title: "Kaya Mezarı 7 (Tikenlice Mahallesi) Gürgentepe | Miras Haritası"
-date: 2025-12-25T13:21:57+03:00
+title: "Kaya Mezarı 7 (Tikenlice Mahallesi) Gürgentepe"
+date: "2025-12-25T13:21:57+03:00"
 slug: "kaya-mezari-7-tikenlice-mahallesi-gurgentepe"
 description: "## Kaya Mezarı 7: Gürgentepe'deki Antik Miras..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Gürgentepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.664219,40.776394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaya Mezarı 7: Gürgentepe'deki Antik Miras

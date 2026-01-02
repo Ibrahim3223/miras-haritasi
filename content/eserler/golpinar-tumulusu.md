@@ -1,18 +1,17 @@
 ---
-title: "Gölpınar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:23:01+03:00
+title: "Gölpınar Tümülüsü"
+date: "2025-12-25T07:23:01+03:00"
 slug: "golpinar-tumulusu"
 description: "### Gölpınar Tümülüsü: Malatya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0297203,38.3037453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gölpınar Tümülüsü: Malatya'nın Tarihî Mirası

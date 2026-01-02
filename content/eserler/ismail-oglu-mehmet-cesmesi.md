@@ -1,18 +1,17 @@
 ---
-title: "İsmail oğlu Mehmet Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:32:45+03:00
+title: "İsmail oğlu Mehmet Çeşmesi"
+date: "2025-12-25T11:32:45+03:00"
 slug: "ismail-oglu-mehmet-cesmesi"
 description: "## İsmail oğlu Mehmet Çeşmesi: Tarihi ve Kültürel Mirasın Parçası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4473991,36.6940079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmail oğlu Mehmet Çeşmesi: Tarihi ve Kültürel Mirasın Parçası

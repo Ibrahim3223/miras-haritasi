@@ -1,18 +1,17 @@
 ---
-title: "Tabae Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:43+03:00
+title: "Tabae Roma Köprüsü"
+date: "2025-12-25T02:33:43+03:00"
 slug: "tabae-roma-koprusu"
 description: "### Tabae Roma Köprüsü..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Kale"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.8516998,37.4336014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tabae Roma Köprüsü

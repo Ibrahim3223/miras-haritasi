@@ -1,18 +1,17 @@
 ---
-title: "Pednelissos | Miras Haritası"
-date: 2025-12-25T04:18:47+03:00
+title: "Pednelissos"
+date: "2025-12-25T04:18:47+03:00"
 slug: "pednelissos"
 description: "## Pednelissos: Antalya'nın Gizli Arkeolojik Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.92055556,37.22138889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pednelissos: Antalya'nın Gizli Arkeolojik Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Bonita (Paflagonya) | Miras Haritası"
-date: 2025-12-25T05:02:03+03:00
+title: "Bonita (Paflagonya)"
+date: "2025-12-25T05:02:03+03:00"
 slug: "bonita-paflagonya"
 description: "## Bonita (Paflagonya): Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.125022,41.48741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bonita (Paflagonya): Bir Arkeolojik Sitin Gizemi

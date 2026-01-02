@@ -1,18 +1,17 @@
 ---
-title: "HMS Goliath | Miras Haritası"
-date: 2025-12-25T08:33:30+03:00
+title: "HMS Goliath"
+date: "2025-12-25T08:33:30+03:00"
 slug: "hms-goliath"
 description: "## HMS Goliath: Eceabat'ta Bir Savaş Gemininin Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HMS_Goliath_(1898)_starboard_view.jpg/1200px-HMS_Goliath_(1898)_starboard_view.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.1999531,40.0332718"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## HMS Goliath: Eceabat'ta Bir Savaş Gemininin Efsanesi

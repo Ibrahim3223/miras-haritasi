@@ -1,18 +1,17 @@
 ---
-title: "El-Cezerî’nin Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:41:13+03:00
+title: "El-Cezerî’nin Güneş Saati"
+date: "2025-12-25T13:41:13+03:00"
 slug: "el-cezernin-gunes-saati"
 description: "## El-Cezerî’nin Güneş Saati: Diyarbakır'ın Gizli Çehresinin Parladığı Yer..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2359657,37.912571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## El-Cezerî’nin Güneş Saati: Diyarbakır'ın Gizli Çehresinin Parladığı Yer

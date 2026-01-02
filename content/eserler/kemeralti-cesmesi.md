@@ -1,18 +1,17 @@
 ---
-title: "Kemeraltı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:31+03:00
+title: "Kemeraltı Çeşmesi"
+date: "2025-12-25T11:06:31+03:00"
 slug: "kemeralti-cesmesi"
 description: "**Kemeraltı Çeşmesi: Fatih'te Bir Ölümsüz**..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Süleymaniye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.961222,41.012916"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kemeraltı Çeşmesi: Fatih'te Bir Ölümsüz**

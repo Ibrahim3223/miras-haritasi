@@ -1,18 +1,17 @@
 ---
-title: "Sadak Köyü Hamamı | Miras Haritası"
-date: 2025-12-25T16:43:50+03:00
+title: "Sadak Köyü Hamamı"
+date: "2025-12-25T16:43:50+03:00"
 slug: "sadak-koyu-hamami"
 description: "### Sadak Köyü Hamamı: Gümüşhane'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kelkit"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.594695,40.025836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sadak Köyü Hamamı: Gümüşhane'nin Tarihi ve Kültürel Mirası

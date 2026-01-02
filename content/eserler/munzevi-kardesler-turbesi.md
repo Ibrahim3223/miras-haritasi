@@ -1,18 +1,17 @@
 ---
-title: "Münzevi Kardeşler Türbesi | Miras Haritası"
-date: 2025-12-25T15:30:44+03:00
+title: "Münzevi Kardeşler Türbesi"
+date: "2025-12-25T15:30:44+03:00"
 slug: "munzevi-kardesler-turbesi"
 description: "## Münzevi Kardeşler Türbesi: Eyüpsultan'ın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.929451,41.0386162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Münzevi Kardeşler Türbesi: Eyüpsultan'ın Gizli Cenneti

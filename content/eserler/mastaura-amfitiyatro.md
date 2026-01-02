@@ -1,18 +1,17 @@
 ---
-title: "Mastaura Amfitiyatro | Miras Haritası"
-date: 2025-12-25T16:20:52+03:00
+title: "Mastaura Amfitiyatro"
+date: "2025-12-25T16:20:52+03:00"
 slug: "mastaura-amfitiyatro"
 description: "### Mastaura Amfitiyatro..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.3381386,37.9556694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mastaura Amfitiyatro

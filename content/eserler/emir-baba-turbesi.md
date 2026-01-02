@@ -1,18 +1,17 @@
 ---
-title: "Emir Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:55+03:00
+title: "Emir Baba Türbesi"
+date: "2025-12-25T15:03:55+03:00"
 slug: "emir-baba-turbesi"
 description: "## Emir Baba Türbesi: Bir Osmanlı Dönemi Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.6367302,38.2241478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Baba Türbesi: Bir Osmanlı Dönemi Anıtı

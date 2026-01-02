@@ -1,18 +1,17 @@
 ---
-title: "Bakırcı Yusuf Bey Mescidi | Miras Haritası"
-date: 2025-12-25T00:48:19+03:00
+title: "Bakırcı Yusuf Bey Mescidi"
+date: "2025-12-25T00:48:19+03:00"
 slug: "bakirci-yusuf-bey-mescidi"
 description: "## Bakırcı Yusuf Bey Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.501500617,37.869598873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakırcı Yusuf Bey Mescidi

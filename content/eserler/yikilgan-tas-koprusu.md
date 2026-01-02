@@ -1,18 +1,17 @@
 ---
-title: "Yıkılgan Taş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:41+03:00
+title: "Yıkılgan Taş Köprüsü"
+date: "2025-12-25T02:07:41+03:00"
 slug: "yikilgan-tas-koprusu"
 description: "### Yıkılgan Taş Köprüsü..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Palandöken"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.405829,39.886014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yıkılgan Taş Köprüsü

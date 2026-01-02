@@ -1,18 +1,17 @@
 ---
-title: "Eski Hamam 2 | Miras Haritası"
-date: 2025-12-25T17:03:06+03:00
+title: "Eski Hamam 2"
+date: "2025-12-25T17:03:06+03:00"
 slug: "eski-hamam-2"
 description: "## Eski Hamam 2: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.8372498,38.7405815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Hamam 2: Tarihî Bir Mirasın İzleri

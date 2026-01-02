@@ -1,18 +1,17 @@
 ---
-title: "Surp Astvatsatsin Manastırı (Metzopavank) | Miras Haritası"
-date: 2025-12-25T09:52:05+03:00
+title: "Surp Astvatsatsin Manastırı (Metzopavank)"
+date: "2025-12-25T09:52:05+03:00"
 slug: "surp-astvatsatsin-manastiri-metzopavank"
 description: "## Surp Astvatsatsin Manastırı (Metzopavank)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.199166666,39.158333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Astvatsatsin Manastırı (Metzopavank)

@@ -1,18 +1,17 @@
 ---
-title: "Eumenes II Gymnasionu | Miras Haritası"
-date: 2025-12-25T08:20:08+03:00
+title: "Eumenes II Gymnasionu"
+date: "2025-12-25T08:20:08+03:00"
 slug: "eumenes-ii-gymnasionu"
 description: "### Eumenes II Gymnasionu..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.273333333,37.528888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eumenes II Gymnasionu

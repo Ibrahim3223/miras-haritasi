@@ -1,18 +1,17 @@
 ---
-title: "Triumphal Arch of Ani | Miras Haritası"
-date: 2025-12-25T15:40:07+03:00
+title: "Triumphal Arch of Ani"
+date: "2025-12-25T15:40:07+03:00"
 slug: "triumphal-arch-of-ani"
 description: "# Triumphal Arch of Ani: Erzurum'a Kadar Uzanan Tarih..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Triumphal Arch of Ani: Erzurum'a Kadar Uzanan Tarih

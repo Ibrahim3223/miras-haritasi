@@ -1,18 +1,17 @@
 ---
-title: "Pythopolis | Miras Haritası"
-date: 2025-12-25T07:11:34+03:00
+title: "Pythopolis"
+date: "2025-12-25T07:11:34+03:00"
 slug: "pythopolis"
 description: "## Pythopolis: Bursa'nın Gizli Harikası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Orhangazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.413577,40.396001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pythopolis: Bursa'nın Gizli Harikası

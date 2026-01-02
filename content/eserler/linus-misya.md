@@ -1,18 +1,17 @@
 ---
-title: "Linus (Misya) | Miras Haritası"
-date: 2025-12-25T05:01:43+03:00
+title: "Linus (Misya)"
+date: "2025-12-25T05:01:43+03:00"
 slug: "linus-misya"
 description: "### Linus (Misya) Arkeolojik Sit Tanıtımı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.196542,40.431121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Linus (Misya) Arkeolojik Sit Tanıtımı

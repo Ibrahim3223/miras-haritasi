@@ -1,18 +1,17 @@
 ---
-title: "Beydağ Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:37+03:00
+title: "Beydağ Köprüsü"
+date: "2025-12-25T02:12:37+03:00"
 slug: "beydag-koprusu"
 description: "## Beydağ Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Beydağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.22493,38.087383"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beydağ Köprüsü

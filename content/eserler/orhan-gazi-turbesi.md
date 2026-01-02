@@ -1,18 +1,17 @@
 ---
-title: "Orhan Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:01+03:00
+title: "Orhan Gazi Türbesi"
+date: "2025-12-25T15:07:01+03:00"
 slug: "orhan-gazi-turbesi"
 description: "## Orhan Gazi Türbesi: Bursa'nın Önemli Tarihi Eserleri Arasında..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/ORHANGAZİ_TÜRBESİ_BURSA_OSMANGAZİ_-_panoramio.jpg/1200px-ORHANGAZİ_TÜRBESİ_BURSA_OSMANGAZİ_-_panoramio.jpg"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.057666666,40.186777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Orhan Gazi Türbesi: Bursa'nın Önemli Tarihi Eserleri Arasında

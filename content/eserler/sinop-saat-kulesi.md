@@ -1,18 +1,17 @@
 ---
-title: "Sinop Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:20:23+03:00
+title: "Sinop Saat Kulesi"
+date: "2025-12-25T17:20:23+03:00"
 slug: "sinop-saat-kulesi"
 description: "### Sinop Saat Kulesi..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "35.150888888,42.025777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sinop Saat Kulesi

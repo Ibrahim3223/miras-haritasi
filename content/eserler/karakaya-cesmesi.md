@@ -1,18 +1,17 @@
 ---
-title: "Karakaya Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:31:14+03:00
+title: "Karakaya Çeşmesi"
+date: "2025-12-25T11:31:14+03:00"
 slug: "karakaya-cesmesi"
 description: "## Karakaya Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2641907,37.0621185"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakaya Çeşmesi

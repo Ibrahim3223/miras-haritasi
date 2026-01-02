@@ -1,18 +1,17 @@
 ---
-title: "Şah-ı Huban Medresesi | Miras Haritası"
-date: 2025-12-25T17:39:39+03:00
+title: "Şah-ı Huban Medresesi"
+date: "2025-12-25T17:39:39+03:00"
 slug: "sah-i-huban-medresesi"
 description: "## Şah-ı Huban Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Şah-ı_Huban_Medresesi.jpg/1200px-Şah-ı_Huban_Medresesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9779739,41.0119095"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şah-ı Huban Medresesi

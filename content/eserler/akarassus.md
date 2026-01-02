@@ -1,18 +1,17 @@
 ---
-title: "Akarassus | Miras Haritası"
-date: 2025-12-25T04:16:01+03:00
+title: "Akarassus"
+date: "2025-12-25T04:16:01+03:00"
 slug: "akarassus"
 description: "## Akarassus: Antik Bir Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.921523,36.734861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akarassus: Antik Bir Kentin Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Aziz Mahmud Hüdai Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:20+03:00
+title: "Aziz Mahmud Hüdai Türbesi"
+date: "2025-12-25T14:27:20+03:00"
 slug: "aziz-mahmud-hudai-turbesi"
 description: "### Aziz Mahmud Hüdai Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.014333,41.022368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aziz Mahmud Hüdai Türbesi

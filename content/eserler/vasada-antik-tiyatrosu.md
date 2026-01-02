@@ -1,18 +1,17 @@
 ---
-title: "Vasada Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:22:26+03:00
+title: "Vasada Antik Tiyatrosu"
+date: "2025-12-25T16:22:26+03:00"
 slug: "vasada-antik-tiyatrosu"
 description: "## Vasada Antik Tiyatrosu..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "31.914619,37.504445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vasada Antik Tiyatrosu

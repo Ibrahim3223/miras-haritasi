@@ -1,18 +1,17 @@
 ---
-title: "Sultan II. Mahmut Çeşmesi, Çengelköy | Miras Haritası"
-date: 2025-12-25T11:55:10+03:00
+title: "Sultan II. Mahmut Çeşmesi, Çengelköy"
+date: "2025-12-25T11:55:10+03:00"
 slug: "sultan-ii-mahmut-cesmesi-cengelkoy"
 description: "## Sultan II. Mahmut Çeşmesi, Çengelköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.05364,41.049629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan II. Mahmut Çeşmesi, Çengelköy

@@ -1,18 +1,17 @@
 ---
-title: "Hamuşan Mezarlığı Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:06+03:00
+title: "Hamuşan Mezarlığı Çeşmesi"
+date: "2025-12-25T13:01:06+03:00"
 slug: "hamusan-mezarligi-cesmesi"
 description: "## Hamuşan Mezarlığı Çeşmesi: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hamuşan_Mezarlığı_Çeşmesi_IMG_9303.jpg/1200px-Hamuşan_Mezarlığı_Çeşmesi_IMG_9303.jpg"
-province: "Zeytinburnu"
-iller: ["Zeytinburnu"]
-district: "Merkezefendi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Zeytinburnu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9186745,41.0143547"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hamuşan Mezarlığı Çeşmesi: Tarihi ve Kültürel Mirasın Gizemi

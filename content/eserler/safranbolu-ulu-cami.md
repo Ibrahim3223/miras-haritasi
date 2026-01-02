@@ -1,18 +1,17 @@
 ---
-title: "Safranbolu Ulu Cami | Miras Haritası"
-date: 2025-12-25T00:04:02+03:00
+title: "Safranbolu Ulu Cami"
+date: "2025-12-25T00:04:02+03:00"
 slug: "safranbolu-ulu-cami"
 description: "### Safranbolu Ulu Cami: Karabük'te Bir Tarihi Çanak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Safranbolu_Ulu_Camii.jpg/1200px-Safranbolu_Ulu_Camii.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.6860542,41.2481613"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Safranbolu Ulu Cami: Karabük'te Bir Tarihi Çanak

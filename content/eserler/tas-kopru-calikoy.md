@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Çalıköy | Miras Haritası"
-date: 2025-12-25T02:47:31+03:00
+title: "Taş Köprü, Çalıköy"
+date: "2025-12-25T02:47:31+03:00"
 slug: "tas-kopru-calikoy"
 description: "### Taş Köprü, Çalıköy: Edirne'nin Tarihi Çırası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6086102,41.2975845"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taş Köprü, Çalıköy: Edirne'nin Tarihi Çırası

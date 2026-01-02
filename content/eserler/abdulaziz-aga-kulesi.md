@@ -1,18 +1,17 @@
 ---
-title: "Abdülaziz Ağa Kulesi | Miras Haritası"
-date: 2025-12-25T16:53:44+03:00
+title: "Abdülaziz Ağa Kulesi"
+date: "2025-12-25T16:53:44+03:00"
 slug: "abdulaziz-aga-kulesi"
 description: "### Abdülaziz Ağa Kulesi: Milas'ta Bir Tarihî Hamam..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.7855606,37.3155251"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdülaziz Ağa Kulesi: Milas'ta Bir Tarihî Hamam

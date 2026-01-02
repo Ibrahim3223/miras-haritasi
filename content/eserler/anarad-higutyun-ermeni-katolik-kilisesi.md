@@ -1,18 +1,17 @@
 ---
-title: "Anarad Hığutyun Ermeni Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:01+03:00
+title: "Anarad Hığutyun Ermeni Katolik Kilisesi"
+date: "2025-12-25T09:19:01+03:00"
 slug: "anarad-higutyun-ermeni-katolik-kilisesi"
 description: "## Anarad Hığutyun Ermeni Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9306717,40.9994812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anarad Hığutyun Ermeni Katolik Kilisesi

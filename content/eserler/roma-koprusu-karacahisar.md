@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Karacahisar | Miras Haritası"
-date: 2025-12-25T02:59:24+03:00
+title: "Roma Köprüsü, Karacahisar"
+date: "2025-12-25T02:59:24+03:00"
 slug: "roma-koprusu-karacahisar"
 description: "## Roma Köprüsü, Karacahisar: Bodrum'un Tarihi Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.80542,37.167355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Karacahisar: Bodrum'un Tarihi Harikası

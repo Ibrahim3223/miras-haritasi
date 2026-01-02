@@ -1,18 +1,17 @@
 ---
-title: "Acıkuyu Höyük | Miras Haritası"
-date: 2025-12-25T06:36:48+03:00
+title: "Acıkuyu Höyük"
+date: "2025-12-25T06:36:48+03:00"
 slug: "acikuyu-hoyuk"
 description: "## Acıkuyu Höyük: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.033947085,38.873102602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acıkuyu Höyük: Konya'nın Gizli Mirası

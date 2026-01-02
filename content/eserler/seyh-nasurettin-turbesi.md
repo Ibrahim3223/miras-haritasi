@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Nasurettin Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:30+03:00
+title: "Şeyh Nasurettin Türbesi"
+date: "2025-12-25T15:03:30+03:00"
 slug: "seyh-nasurettin-turbesi"
 description: "## Şeyh Nasurettin Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7385788,38.0789413"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Nasurettin Türbesi

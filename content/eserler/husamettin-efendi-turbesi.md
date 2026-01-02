@@ -1,18 +1,17 @@
 ---
-title: "Hüsamettin Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:02:45+03:00
+title: "Hüsamettin Efendi Türbesi"
+date: "2025-12-25T15:02:45+03:00"
 slug: "husamettin-efendi-turbesi"
 description: "# Hüsamettin Efendi Türbesi: Muğla'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.4163208,37.1032181"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hüsamettin Efendi Türbesi: Muğla'nın Gizli Çeşmesi

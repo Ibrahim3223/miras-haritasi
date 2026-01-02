@@ -1,18 +1,17 @@
 ---
-title: "Ankara Üniversitesi Ziraat Fakültesi Müzesi | Miras Haritası"
-date: 2025-12-25T04:08:34+03:00
+title: "Ankara Üniversitesi Ziraat Fakültesi Müzesi"
+date: "2025-12-25T04:08:34+03:00"
 slug: "ankara-universitesi-ziraat-fakultesi-muzesi"
 description: "## Ankara Üniversitesi Ziraat Fakültesi Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.861675,39.961844"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Üniversitesi Ziraat Fakültesi Müzesi

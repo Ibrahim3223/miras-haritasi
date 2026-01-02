@@ -1,18 +1,17 @@
 ---
-title: "Hisarçandır Kalesi | Miras Haritası"
-date: 2025-12-25T01:21:54+03:00
+title: "Hisarçandır Kalesi"
+date: "2025-12-25T01:21:54+03:00"
 slug: "hisarcandir-kalesi"
 description: "## Hisarçandır Kalesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.4475079,36.7776566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hisarçandır Kalesi

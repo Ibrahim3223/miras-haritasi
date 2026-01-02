@@ -1,18 +1,17 @@
 ---
-title: "Pirinç Hanı Mescidi | Miras Haritası"
-date: 2025-12-25T00:50:38+03:00
+title: "Pirinç Hanı Mescidi"
+date: "2025-12-25T00:50:38+03:00"
 slug: "pirinc-hani-mescidi"
 description: "# Pirinç Hanı Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.863419955,39.936401623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pirinç Hanı Mescidi

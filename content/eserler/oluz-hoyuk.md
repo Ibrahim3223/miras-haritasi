@@ -1,18 +1,17 @@
 ---
-title: "Oluz Höyük | Miras Haritası"
-date: 2025-12-25T08:14:39+03:00
+title: "Oluz Höyük"
+date: "2025-12-25T08:14:39+03:00"
 slug: "oluz-hoyuk"
 description: "## Oluz Höyük..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Oluz_Höyük_02.jpg/1200px-Oluz_Höyük_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Amasya"
+province: "Amasya"
+iller: '["Amasya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.6285,40.5457"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Oluz Höyük

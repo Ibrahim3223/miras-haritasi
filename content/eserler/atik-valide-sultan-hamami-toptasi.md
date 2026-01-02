@@ -1,18 +1,17 @@
 ---
-title: "Atik Valide Sultan Hamamı, Toptaşı | Miras Haritası"
-date: 2025-12-25T16:37:04+03:00
+title: "Atik Valide Sultan Hamamı, Toptaşı"
+date: "2025-12-25T16:37:04+03:00"
 slug: "atik-valide-sultan-hamami-toptasi"
 description: "## Atik Valide Sultan Hamamı, Toptaşı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.021711,41.017995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atik Valide Sultan Hamamı, Toptaşı

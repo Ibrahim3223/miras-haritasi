@@ -1,18 +1,17 @@
 ---
-title: "Taşkıran Van Camii | Miras Haritası"
-date: 2025-12-25T00:18:34+03:00
+title: "Taşkıran Van Camii"
+date: "2025-12-25T00:18:34+03:00"
 slug: "taskiran-van-camii"
 description: "# Taşkıran Van Camii: Artvin'in Gizli Çehresini Açığa Çıkaran Bir Cami..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.3729793,38.5012085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Taşkıran Van Camii: Artvin'in Gizli Çehresini Açığa Çıkaran Bir Cami

@@ -1,18 +1,17 @@
 ---
-title: "Ahi Musa Mescidi ve Türbesi | Miras Haritası"
-date: 2025-12-25T00:53:52+03:00
+title: "Ahi Musa Mescidi ve Türbesi"
+date: "2025-12-25T00:53:52+03:00"
 slug: "ahi-musa-mescidi-ve-turbesi"
 description: "## Ahi Musa Mescidi ve Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.250351,38.7059326"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Musa Mescidi ve Türbesi

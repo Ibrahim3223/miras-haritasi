@@ -1,18 +1,17 @@
 ---
-title: "Doğramacızade Ali Sami Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:48:26+03:00
+title: "Doğramacızade Ali Sami Paşa Camii"
+date: "2025-12-24T21:48:26+03:00"
 slug: "dogramacizade-ali-sami-pasa-camii"
 description: "### Doğramacızade Ali Sami Paşa Camii..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.761166666,39.885222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doğramacızade Ali Sami Paşa Camii

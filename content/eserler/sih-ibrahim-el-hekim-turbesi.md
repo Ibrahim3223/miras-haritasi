@@ -1,18 +1,17 @@
 ---
-title: "Şıh İbrahim El Hekim Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:59+03:00
+title: "Şıh İbrahim El Hekim Türbesi"
+date: "2025-12-25T15:29:59+03:00"
 slug: "sih-ibrahim-el-hekim-turbesi"
 description: "## Şıh İbrahim El Hekim Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.7922096,36.8098526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şıh İbrahim El Hekim Türbesi

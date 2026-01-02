@@ -1,18 +1,17 @@
 ---
-title: "Sveti Georgi Bulgar Kilisesi (Edirne) | Miras Haritası"
-date: 2025-12-25T08:42:08+03:00
+title: "Sveti Georgi Bulgar Kilisesi (Edirne)"
+date: "2025-12-25T08:42:08+03:00"
 slug: "sveti-georgi-bulgar-kilisesi-edirne"
 description: "## Sveti Georgi Bulgar Kilisesi: Edirne'nin Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BulgarianChurch.jpg/1200px-BulgarianChurch.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.57023333,41.68042778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sveti Georgi Bulgar Kilisesi: Edirne'nin Gizli Çehresi

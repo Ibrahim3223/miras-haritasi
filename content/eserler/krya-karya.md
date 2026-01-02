@@ -1,18 +1,17 @@
 ---
-title: "Krya (Karya) | Miras Haritası"
-date: 2025-12-25T07:11:41+03:00
+title: "Krya (Karya)"
+date: "2025-12-25T07:11:41+03:00"
 slug: "krya-karya"
 description: "## Karya (Krya) Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Dalaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.85707,36.67653"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karya (Krya) Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Subaşı Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:18:13+03:00
+title: "Subaşı Suyu Çeşmesi"
+date: "2025-12-25T11:18:13+03:00"
 slug: "subasi-suyu-cesmesi"
 description: "## Subaşı Suyu Çeşmesi: Beykoz'un Tarihî Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Subaşı_Suyu_Çeşmesi_IMG_3346.jpg/1200px-Subaşı_Suyu_Çeşmesi_IMG_3346.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.092068,41.133826"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Subaşı Suyu Çeşmesi: Beykoz'un Tarihî Bir Çeşmesi

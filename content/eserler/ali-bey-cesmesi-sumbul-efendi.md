@@ -1,18 +1,17 @@
 ---
-title: "Ali Bey Çeşmesi, Sümbül Efendi | Miras Haritası"
-date: 2025-12-25T12:16:44+03:00
+title: "Ali Bey Çeşmesi, Sümbül Efendi"
+date: "2025-12-25T12:16:44+03:00"
 slug: "ali-bey-cesmesi-sumbul-efendi"
 description: "## Ali Bey Çeşmesi, Sümbül Efendi: Fatih'te Bir Zümrüt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.924622,41.001153"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Bey Çeşmesi, Sümbül Efendi: Fatih'te Bir Zümrüt

@@ -1,18 +1,17 @@
 ---
-title: "Katarlı Höyük | Miras Haritası"
-date: 2025-12-25T06:11:56+03:00
+title: "Katarlı Höyük"
+date: "2025-12-25T06:11:56+03:00"
 slug: "katarli-hoyuk"
 description: "# Katarlı Höyük: Tarihî Mirasının Gizli Kalesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.419647306,37.152248369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Katarlı Höyük: Tarihî Mirasının Gizli Kalesi

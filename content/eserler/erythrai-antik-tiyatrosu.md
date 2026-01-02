@@ -1,18 +1,17 @@
 ---
-title: "Erythrai Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:20:43+03:00
+title: "Erythrai Antik Tiyatrosu"
+date: "2025-12-25T16:20:43+03:00"
 slug: "erythrai-antik-tiyatrosu"
 description: "## Erythrai Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "26.480665,38.382669"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erythrai Antik Tiyatrosu

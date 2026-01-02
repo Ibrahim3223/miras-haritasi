@@ -1,18 +1,17 @@
 ---
-title: "Albayrak Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:56+03:00
+title: "Albayrak Köprüsü"
+date: "2025-12-25T02:11:56+03:00"
 slug: "albayrak-koprusu"
 description: "## Albayrak Köprüsü: Başkale'nin Tarihî Mirası..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Başkale"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "44.2139015,38.1418991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Albayrak Köprüsü: Başkale'nin Tarihî Mirası

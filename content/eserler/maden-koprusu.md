@@ -1,18 +1,17 @@
 ---
-title: "Maden Köprüsü | Miras Haritası"
-date: 2025-12-25T02:46:05+03:00
+title: "Maden Köprüsü"
+date: "2025-12-25T02:46:05+03:00"
 slug: "maden-koprusu"
 description: "### Maden Köprüsü: Elazığ'ın Tarihî Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Maden"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.67288168,38.390174662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Maden Köprüsü: Elazığ'ın Tarihî Mirası

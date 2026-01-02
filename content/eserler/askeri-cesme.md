@@ -1,18 +1,17 @@
 ---
-title: "Askeri Çeşme | Miras Haritası"
-date: 2025-12-25T10:19:24+03:00
+title: "Askeri Çeşme"
+date: "2025-12-25T10:19:24+03:00"
 slug: "askeri-cesme"
 description: "**Ortahisar'da Gizli Bir Çeşme: Askeri Çeşme**..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.709671,41.0006676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ortahisar'da Gizli Bir Çeşme: Askeri Çeşme**

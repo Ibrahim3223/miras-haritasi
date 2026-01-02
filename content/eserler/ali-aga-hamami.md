@@ -1,18 +1,17 @@
 ---
-title: "Ali Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T17:12:32+03:00
+title: "Ali Ağa Hamamı"
+date: "2025-12-25T17:12:32+03:00"
 slug: "ali-aga-hamami"
 description: "## Ali Ağa Hamamı Tanıtımı..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Karadeniz Ereğli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.4222431,41.2802696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Ağa Hamamı Tanıtımı

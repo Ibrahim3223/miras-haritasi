@@ -1,18 +1,17 @@
 ---
-title: "Kümbet Camii | Miras Haritası"
-date: 2025-12-24T21:51:33+03:00
+title: "Kümbet Camii"
+date: "2025-12-24T21:51:33+03:00"
 slug: "kumbet-camii"
 description: "## Kümbet Camii: Kars'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kars,_armenische_Kathedrale,_Heilige-Apostel-Kirche_Սուրբ_Առաքելոց_Եկեղեցի_(10._Jhdt.)_(40336376592).jpg/1200px-Kars,_armenische_Kathedrale,_Heilige-Apostel-Kirche_Սուրբ_Առաքելոց_Եկեղեցի_(10._Jhdt.)_(40336376592).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.091444444,40.611305555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kümbet Camii: Kars'ın Tarihi ve Kültürel Mirası

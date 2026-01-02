@@ -1,18 +1,17 @@
 ---
-title: "Güdül Belediyesi Kent Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:41+03:00
+title: "Güdül Belediyesi Kent Müzesi"
+date: "2025-12-25T04:04:41+03:00"
 slug: "gudul-belediyesi-kent-muzesi"
 description: "### Güdül Belediyesi Kent Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.240550223,40.210835635"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güdül Belediyesi Kent Müzesi

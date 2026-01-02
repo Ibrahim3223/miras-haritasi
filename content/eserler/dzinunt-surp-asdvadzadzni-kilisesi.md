@@ -1,18 +1,17 @@
 ---
-title: "Dzınunt Surp Asdvadzadzni Kilisesi | Miras Haritası"
-date: 2025-12-25T08:48:27+03:00
+title: "Dzınunt Surp Asdvadzadzni Kilisesi"
+date: "2025-12-25T08:48:27+03:00"
 slug: "dzinunt-surp-asdvadzadzni-kilisesi"
 description: "## Dzınunt Surp Asdvadzadzni Kilisesi: İstanbul'un Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dzınunt_Surp_Asdvadzadzni_Ermeni_Kilisesi.jpg/1200px-Dzınunt_Surp_Asdvadzadzni_Ermeni_Kilisesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.87475,40.976805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dzınunt Surp Asdvadzadzni Kilisesi: İstanbul'un Gizli Kahramanı

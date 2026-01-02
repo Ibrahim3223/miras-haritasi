@@ -1,18 +1,17 @@
 ---
-title: "Yeşiloba Şehitliği Müzesi ve Milli Mücadele Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:54+03:00
+title: "Yeşiloba Şehitliği Müzesi ve Milli Mücadele Kütüphanesi"
+date: "2025-12-25T17:55:54+03:00"
 slug: "yesiloba-sehitligi-muzesi-ve-milli-mucadele-kutuphanesi"
 description: "Yeşiloba Şehitliği Müzesi ve Milli Mücadele Kütüphanesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "35.240433,36.994777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 Yeşiloba Şehitliği Müzesi ve Milli Mücadele Kütüphanesi

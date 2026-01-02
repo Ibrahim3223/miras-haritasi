@@ -1,18 +1,17 @@
 ---
-title: "Torumtay Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:38+03:00
+title: "Torumtay Türbesi"
+date: "2025-12-25T15:07:38+03:00"
 slug: "torumtay-turbesi"
 description: "## Torumtay Türbesi: Amasya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.820111111,40.649777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Torumtay Türbesi: Amasya'nın Tarihi ve Kültürel Mirası

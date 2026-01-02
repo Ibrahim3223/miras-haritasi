@@ -1,18 +1,17 @@
 ---
-title: "Eski Van şehri | Miras Haritası"
-date: 2025-12-25T08:18:48+03:00
+title: "Eski Van şehri"
+date: "2025-12-25T08:18:48+03:00"
 slug: "eski-van-sehri"
 description: "## Eski Van Şehri: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Old_City_Van_2009.JPG/1200px-Old_City_Van_2009.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.339,38.503"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eski Van Şehri: Tarihî Bir Mirasın Gizemi

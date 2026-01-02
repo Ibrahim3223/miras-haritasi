@@ -1,18 +1,17 @@
 ---
-title: "Pirhias Kion | Miras Haritası"
-date: 2025-12-25T04:49:59+03:00
+title: "Pirhias Kion"
+date: "2025-12-25T04:49:59+03:00"
 slug: "pirhias-kion"
 description: "## Pirhias Kion: Bir Antik Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.049446,41.088116"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pirhias Kion: Bir Antik Kentin İzleri

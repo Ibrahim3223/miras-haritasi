@@ -1,18 +1,17 @@
 ---
-title: "Kasapbaşı Mehmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:36:42+03:00
+title: "Kasapbaşı Mehmet Ağa Çeşmesi"
+date: "2025-12-25T10:36:42+03:00"
 slug: "kasapbasi-mehmet-aga-cesmesi"
 description: "## Kasapbaşı Mehmet Ağa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Şehsuvar Bey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.969194,41.003403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasapbaşı Mehmet Ağa Çeşmesi

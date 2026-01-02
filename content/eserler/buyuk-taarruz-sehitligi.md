@@ -1,18 +1,17 @@
 ---
-title: "Büyük Taarruz Şehitliği | Miras Haritası"
-date: 2025-12-25T15:57:01+03:00
+title: "Büyük Taarruz Şehitliği"
+date: "2025-12-25T15:57:01+03:00"
 slug: "buyuk-taarruz-sehitligi"
 description: "### Büyük Taarruz Şehitliği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sinanpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.38575,38.79089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Büyük Taarruz Şehitliği

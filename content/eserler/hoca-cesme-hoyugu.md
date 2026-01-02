@@ -1,18 +1,17 @@
 ---
-title: "Hoca Çeşme Höyüğü | Miras Haritası"
-date: 2025-12-25T06:54:26+03:00
+title: "Hoca Çeşme Höyüğü"
+date: "2025-12-25T06:54:26+03:00"
 slug: "hoca-cesme-hoyugu"
 description: "### Hoca Çeşme Höyüğü: Edirne'nin Gizli Cezayiri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.0984097,40.7210808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hoca Çeşme Höyüğü: Edirne'nin Gizli Cezayiri

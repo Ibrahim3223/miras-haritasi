@@ -1,18 +1,17 @@
 ---
-title: "Koruköy Sazlık Çukuru Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:49:29+03:00
+title: "Koruköy Sazlık Çukuru Tümülüsü"
+date: "2025-12-25T07:49:29+03:00"
 slug: "korukoy-sazlik-cukuru-tumulusu"
 description: "### Koruköy Sazlık Çukuru Tümülüsü: Tarihî ve Kültürel Mirası Tanıyın..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3281574,41.8471794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koruköy Sazlık Çukuru Tümülüsü: Tarihî ve Kültürel Mirası Tanıyın

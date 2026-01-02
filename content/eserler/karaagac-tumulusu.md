@@ -1,18 +1,17 @@
 ---
-title: "Karaağaç Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:18:15+03:00
+title: "Karaağaç Tümülüsü"
+date: "2025-12-25T07:18:15+03:00"
 slug: "karaagac-tumulusu"
 description: "## Karaağaç Tümülüsü: Bozüyük'ün Gizli Çağı..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0067005,39.8330612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaağaç Tümülüsü: Bozüyük'ün Gizli Çağı

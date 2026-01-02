@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 22 | Miras Haritası"
-date: 2025-12-25T07:17:51+03:00
+title: "Bin Tepeler Tümülüsü 22"
+date: "2025-12-25T07:17:51+03:00"
 slug: "bin-tepeler-tumulusu-22"
 description: "### Bin Tepeler Tümülüsü 22: Salihli'nin Gizli Çandırı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.99382,38.583595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bin Tepeler Tümülüsü 22: Salihli'nin Gizli Çandırı

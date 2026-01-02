@@ -1,18 +1,17 @@
 ---
-title: "Boyacı Kapısı, Fatih Külliyesi | Miras Haritası"
-date: 2025-12-25T15:35:32+03:00
+title: "Boyacı Kapısı, Fatih Külliyesi"
+date: "2025-12-25T15:35:32+03:00"
 slug: "boyaci-kapisi-fatih-kulliyesi"
 description: "### Boyacı Kapısı, Fatih Külliyesi: İstanbul'un Tarihî Zirvesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9492989,41.0206413"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boyacı Kapısı, Fatih Külliyesi: İstanbul'un Tarihî Zirvesi

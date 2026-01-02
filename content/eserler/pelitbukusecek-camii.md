@@ -1,18 +1,17 @@
 ---
-title: "Pelitbüküsecek Camii | Miras Haritası"
-date: 2025-12-24T22:40:19+03:00
+title: "Pelitbüküsecek Camii"
+date: "2025-12-24T22:40:19+03:00"
 slug: "pelitbukusecek-camii"
 description: "### Pelitbüküsecek Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Alaçam"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4777985,41.4118004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pelitbüküsecek Camii

@@ -1,18 +1,18 @@
 ---
-title: "Türbe | Miras Haritası"
-date: 2025-12-25T15:00:16+03:00
+title: "Türbe"
+date: "2025-12-25T15:00:16+03:00"
 slug: "turbe"
 description: "## Koçarlı Türbesi: Aydın'ın Gizli Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Türbe_2025-11-14-3.jpg/1200px-Türbe_2025-11-14-3.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7331009,37.7658997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Türbe_2025-11-14-3.jpg/1200px-Türbe_2025-11-14-3.jpg"
 ---
 
 ## Koçarlı Türbesi: Aydın'ın Gizli Anıtı

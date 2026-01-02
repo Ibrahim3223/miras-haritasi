@@ -1,18 +1,17 @@
 ---
-title: "Salihbey Köprüsü Torul | Miras Haritası"
-date: 2025-12-25T02:38:10+03:00
+title: "Salihbey Köprüsü Torul"
+date: "2025-12-25T02:38:10+03:00"
 slug: "salihbey-koprusu-torul"
 description: "## Salihbey Köprüsü Torul: Tarihi ve Kültürel Mirasın Özellikleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.284577,40.529043"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salihbey Köprüsü Torul: Tarihi ve Kültürel Mirasın Özellikleri

@@ -1,18 +1,17 @@
 ---
-title: "Antiochia Lamotis | Miras Haritası"
-date: 2025-12-25T04:28:40+03:00
+title: "Antiochia Lamotis"
+date: "2025-12-25T04:28:40+03:00"
 slug: "antiochia-lamotis"
 description: "## Antiochia Lamotis: Erdemli'nin Gizli Tarihi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.241111111,36.557222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antiochia Lamotis: Erdemli'nin Gizli Tarihi

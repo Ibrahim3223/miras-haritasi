@@ -1,18 +1,17 @@
 ---
-title: "Yağıbasan Medresesi (Tokat) | Miras Haritası"
-date: 2025-12-25T17:23:38+03:00
+title: "Yağıbasan Medresesi (Tokat)"
+date: "2025-12-25T17:23:38+03:00"
 slug: "yagibasan-medresesi-tokat"
 description: "### Yağıbasan Medresesi: Tokat'ın Tarihi Bir Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ekran_görüntüsü_2023-01-11_003313.png/1200px-Ekran_görüntüsü_2023-01-11_003313.png"
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "36.546166666,40.315694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yağıbasan Medresesi: Tokat'ın Tarihi Bir Öreni

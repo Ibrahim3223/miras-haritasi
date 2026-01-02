@@ -1,18 +1,17 @@
 ---
-title: "Şahu Geda Camii | Miras Haritası"
-date: 2025-12-25T00:44:07+03:00
+title: "Şahu Geda Camii"
+date: "2025-12-25T00:44:07+03:00"
 slug: "sahu-geda-camii"
 description: "**Şahu Geda Camii**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.946356082,41.006244505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şahu Geda Camii**

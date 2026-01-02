@@ -1,18 +1,17 @@
 ---
-title: "Beşir Gazi Kabri | Miras Haritası"
-date: 2025-12-25T13:51:42+03:00
+title: "Beşir Gazi Kabri"
+date: "2025-12-25T13:51:42+03:00"
 slug: "besir-gazi-kabri"
 description: "## Beşir Gazi Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9404907,41.0334625"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşir Gazi Kabri

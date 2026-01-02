@@ -1,18 +1,17 @@
 ---
-title: "Haseki Camii, Ankara | Miras Haritası"
-date: 2025-12-24T23:54:27+03:00
+title: "Haseki Camii, Ankara"
+date: "2025-12-24T23:54:27+03:00"
 slug: "haseki-camii-ankara"
 description: "## Haseki Camii ve Eserin Önemi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8589439,39.9400711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haseki Camii ve Eserin Önemi

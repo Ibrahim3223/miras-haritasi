@@ -1,18 +1,17 @@
 ---
-title: "Sahabe Mezarları Türbesi | Miras Haritası"
-date: 2025-12-25T14:15:14+03:00
+title: "Sahabe Mezarları Türbesi"
+date: "2025-12-25T14:15:14+03:00"
 slug: "sahabe-mezarlari-turbesi"
 description: "## Sahabe Mezarları Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.934338,38.143533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sahabe Mezarları Türbesi

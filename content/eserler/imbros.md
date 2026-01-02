@@ -1,18 +1,17 @@
 ---
-title: "Imbros | Miras Haritası"
-date: 2025-12-25T08:06:40+03:00
+title: "Imbros"
+date: "2025-12-25T08:06:40+03:00"
 slug: "imbros"
 description: "# İmbros: Gökçeada'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "25.900805555,40.233305555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İmbros: Gökçeada'nın Tarihi ve Kültürel Mirası

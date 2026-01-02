@@ -1,18 +1,17 @@
 ---
-title: "Büyükkale, Tire | Miras Haritası"
-date: 2025-12-25T01:35:02+03:00
+title: "Büyükkale, Tire"
+date: "2025-12-25T01:35:02+03:00"
 slug: "buyukkale-tire"
 description: "## Büyükkale, Tire: Tarihî Bir Mirasın Tanıtımı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.555149,38.032087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükkale, Tire: Tarihî Bir Mirasın Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Abacı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:13:18+03:00
+title: "Abacı Çeşmesi"
+date: "2025-12-25T10:13:18+03:00"
 slug: "abaci-cesmesi"
 description: "## Abacı Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9575958,40.5473328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abacı Çeşmesi

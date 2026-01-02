@@ -1,18 +1,17 @@
 ---
-title: "Selymbria | Miras Haritası"
-date: 2025-12-25T04:35:00+03:00
+title: "Selymbria"
+date: "2025-12-25T04:35:00+03:00"
 slug: "selymbria"
 description: "## Selymbria: Silivri'nin Gizli Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_fort_and_town_of_Silivria,_the_ancient_Selymbria,_on_the_Sea_of_Marmara_-_Francis_Hervé_-_1832.jpg/1200px-The_fort_and_town_of_Silivria,_the_ancient_Selymbria,_on_the_Sea_of_Marmara_-_Francis_Hervé_-_1832.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.26829,41.080158"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Selymbria: Silivri'nin Gizli Tarihî Mirası

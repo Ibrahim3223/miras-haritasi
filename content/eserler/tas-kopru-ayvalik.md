@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Ayvalık | Miras Haritası"
-date: 2025-12-25T02:48:57+03:00
+title: "Taş Köprü, Ayvalık"
+date: "2025-12-25T02:48:57+03:00"
 slug: "tas-kopru-ayvalik"
 description: "## Taş Köprü, Ayvalık..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6970119,39.323597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Köprü, Ayvalık

@@ -1,18 +1,17 @@
 ---
-title: "Dokuz Göz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:45+03:00
+title: "Dokuz Göz Köprüsü"
+date: "2025-12-25T02:43:45+03:00"
 slug: "dokuz-goz-koprusu"
 description: "## Dokuz Göz Köprüsü..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Simav"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9707489,39.1220093"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokuz Göz Köprüsü

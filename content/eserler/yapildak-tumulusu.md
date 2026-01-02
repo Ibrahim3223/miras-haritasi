@@ -1,18 +1,17 @@
 ---
-title: "Yapıldak Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:55:04+03:00
+title: "Yapıldak Tümülüsü"
+date: "2025-12-25T07:55:04+03:00"
 slug: "yapildak-tumulusu"
 description: "## Yapıldak Tümülüsü..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.6433907,39.1939621"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yapıldak Tümülüsü

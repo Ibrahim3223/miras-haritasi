@@ -1,18 +1,17 @@
 ---
-title: "Ekmekçi Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:24:49+03:00
+title: "Ekmekçi Baba Kabri"
+date: "2025-12-25T13:24:49+03:00"
 slug: "ekmekci-baba-kabri"
 description: "## Ekmekçi Baba Kabri: İstanbul'un Gizli Cezvesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ekmekçi_Baba_Kabri_03.jpg/1200px-Ekmekçi_Baba_Kabri_03.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.936964539,41.02865028"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ekmekçi Baba Kabri: İstanbul'un Gizli Cezvesi

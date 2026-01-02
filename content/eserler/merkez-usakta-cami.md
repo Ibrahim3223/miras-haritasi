@@ -1,18 +1,17 @@
 ---
-title: "Merkez, Uşak'ta cami | Miras Haritası"
-date: 2025-12-24T21:41:53+03:00
+title: "Merkez, Uşak'ta cami"
+date: "2025-12-24T21:41:53+03:00"
 slug: "merkez-usakta-cami"
 description: "## Merkez, Uşak'ta Cami: Tarihî Bir Zeminde Dürüstlük ve Güzellik..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.403916666,38.680611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merkez, Uşak'ta Cami: Tarihî Bir Zeminde Dürüstlük ve Güzellik

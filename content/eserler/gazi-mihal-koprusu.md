@@ -1,18 +1,17 @@
 ---
-title: "Gazi Mihal Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:17+03:00
+title: "Gazi Mihal Köprüsü"
+date: "2025-12-25T01:59:17+03:00"
 slug: "gazi-mihal-koprusu"
 description: "## Gazi Mihal Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Edirne_Gazi_Mihal_Bridge.JPG/1200px-Edirne_Gazi_Mihal_Bridge.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.5417,41.6767"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gazi Mihal Köprüsü

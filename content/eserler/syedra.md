@@ -1,18 +1,17 @@
 ---
-title: "Syedra | Miras Haritası"
-date: 2025-12-25T04:24:24+03:00
+title: "Syedra"
+date: "2025-12-25T04:24:24+03:00"
 slug: "syedra"
 description: "## Syedra: Antalya'nın Gizli Arkeolojik Sırrı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Syedra_-_panoramio_-_matzi01.jpg/1200px-Syedra_-_panoramio_-_matzi01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.152426,36.441202"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Syedra: Antalya'nın Gizli Arkeolojik Sırrı

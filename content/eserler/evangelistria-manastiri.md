@@ -1,18 +1,17 @@
 ---
-title: "Evangelistria Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:29+03:00
+title: "Evangelistria Manastırı"
+date: "2025-12-25T09:51:29+03:00"
 slug: "evangelistria-manastiri"
 description: "## Evangelistria Manastırı: Ayvalık'ta Bir Azizlik Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "26.688951,39.334462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evangelistria Manastırı: Ayvalık'ta Bir Azizlik Mirası

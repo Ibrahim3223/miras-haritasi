@@ -1,18 +1,17 @@
 ---
-title: "Nea Eklezya | Miras Haritası"
-date: 2025-12-25T08:42:01+03:00
+title: "Nea Eklezya"
+date: "2025-12-25T08:42:01+03:00"
 slug: "nea-eklezya"
 description: "### Nea Eklezya: İstanbul'un Gizli Ören Yeri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9775,41.003638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nea Eklezya: İstanbul'un Gizli Ören Yeri

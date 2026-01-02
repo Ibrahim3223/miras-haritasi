@@ -1,18 +1,17 @@
 ---
-title: "Mecma-ı Âsâr-ı Atika Müzesi | Miras Haritası"
-date: 2025-12-25T03:21:49+03:00
+title: "Mecma-ı Âsâr-ı Atika Müzesi"
+date: "2025-12-25T03:21:49+03:00"
 slug: "mecma-i-sr-i-atika-muzesi"
 description: "## Mecma-ı Âsâr-ı Atika Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mecma-ı Âsâr-ı Atika Müzesi

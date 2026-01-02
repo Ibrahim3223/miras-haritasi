@@ -1,18 +1,17 @@
 ---
-title: "Ankara Palas (Nazilli) | Miras Haritası"
-date: 2025-12-25T03:33:12+03:00
+title: "Ankara Palas (Nazilli)"
+date: "2025-12-25T03:33:12+03:00"
 slug: "ankara-palas-nazilli"
 description: "## Ankara Palas (Nazilli): Aydın'ın Tarihçesi ve Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.326527777,37.914611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Palas (Nazilli): Aydın'ın Tarihçesi ve Mirası

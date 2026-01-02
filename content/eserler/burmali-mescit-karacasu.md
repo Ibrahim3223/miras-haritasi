@@ -1,18 +1,17 @@
 ---
-title: "Burmalı Mescit, Karacasu | Miras Haritası"
-date: 2025-12-24T23:59:54+03:00
+title: "Burmalı Mescit, Karacasu"
+date: "2025-12-24T23:59:54+03:00"
 slug: "burmali-mescit-karacasu"
 description: "## Burmalı Mescit, Karacasu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6002998,37.7262993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burmalı Mescit, Karacasu

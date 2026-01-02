@@ -1,18 +1,17 @@
 ---
-title: "Kumacık Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:47+03:00
+title: "Kumacık Hamamı"
+date: "2025-12-25T16:29:47+03:00"
 slug: "kumacik-hamami"
 description: "## Kumacık Hamamı: Amasya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.8361282,40.6574838"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumacık Hamamı: Amasya'nın Tarihi Bir Mirası

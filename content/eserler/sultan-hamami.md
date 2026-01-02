@@ -1,18 +1,17 @@
 ---
-title: "Sultan Hamamı | Miras Haritası"
-date: 2025-12-25T16:27:25+03:00
+title: "Sultan Hamamı"
+date: "2025-12-25T16:27:25+03:00"
 slug: "sultan-hamami"
 description: "### Sultan Hamamı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.5461117,40.314964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultan Hamamı

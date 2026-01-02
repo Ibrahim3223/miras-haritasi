@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bekir Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:08+03:00
+title: "Hacı Bekir Ağa Çeşmesi"
+date: "2025-12-25T11:01:08+03:00"
 slug: "haci-bekir-aga-cesmesi"
 description: "## Hacı Bekir Ağa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9429855,41.0326271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Bekir Ağa Çeşmesi

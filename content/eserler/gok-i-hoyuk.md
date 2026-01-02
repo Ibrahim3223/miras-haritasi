@@ -1,18 +1,17 @@
 ---
-title: "Gök I Höyük | Miras Haritası"
-date: 2025-12-25T13:47:18+03:00
+title: "Gök I Höyük"
+date: "2025-12-25T13:47:18+03:00"
 slug: "gok-i-hoyuk"
 description: "### Gök I Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1565367,39.7899721"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gök I Höyük: Tarihî Bir Mirasın İzleri

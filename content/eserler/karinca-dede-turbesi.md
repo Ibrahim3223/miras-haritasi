@@ -1,18 +1,17 @@
 ---
-title: "Karınca Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:15+03:00
+title: "Karınca Dede Türbesi"
+date: "2025-12-25T15:10:15+03:00"
 slug: "karinca-dede-turbesi"
 description: "## Karınca Dede Türbesi: Arifiye'nin Efsanevi Simgesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Arifiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.3590709,40.6691"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karınca Dede Türbesi: Arifiye'nin Efsanevi Simgesi

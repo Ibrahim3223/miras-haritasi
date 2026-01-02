@@ -1,18 +1,17 @@
 ---
-title: "Koca Mustafa Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:25:58+03:00
+title: "Koca Mustafa Paşa Medresesi"
+date: "2025-12-25T17:25:58+03:00"
 slug: "koca-mustafa-pasa-medresesi"
 description: "### Koca Mustafa Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.928402,41.003136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koca Mustafa Paşa Medresesi

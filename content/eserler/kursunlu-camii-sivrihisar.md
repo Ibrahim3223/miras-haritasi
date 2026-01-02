@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, Sivrihisar | Miras Haritası"
-date: 2025-12-25T00:27:16+03:00
+title: "Kurşunlu Camii, Sivrihisar"
+date: "2025-12-25T00:27:16+03:00"
 slug: "kursunlu-camii-sivrihisar"
 description: "### Kurşunlu Camii: Sivrihisar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5405788,39.446701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurşunlu Camii: Sivrihisar'ın Tarihî Mirası

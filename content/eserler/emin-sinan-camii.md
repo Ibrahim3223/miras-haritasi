@@ -1,18 +1,17 @@
 ---
-title: "Emin Sinan Camii | Miras Haritası"
-date: 2025-12-24T22:53:42+03:00
+title: "Emin Sinan Camii"
+date: "2025-12-24T22:53:42+03:00"
 slug: "emin-sinan-camii"
 description: "## Emin Sinan Camii: Fatih'in Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.969474,41.006662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emin Sinan Camii: Fatih'in Gizli Cenneti

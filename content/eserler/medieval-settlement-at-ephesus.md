@@ -1,18 +1,17 @@
 ---
-title: "Medieval Settlement at Ephesus | Miras Haritası"
-date: 2025-12-25T08:19:40+03:00
+title: "Medieval Settlement at Ephesus"
+date: "2025-12-25T08:19:40+03:00"
 slug: "medieval-settlement-at-ephesus"
 description: "## Ortaçağ Yerleşimi Efes..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.367805555,37.952472222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaçağ Yerleşimi Efes

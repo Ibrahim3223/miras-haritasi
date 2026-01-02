@@ -1,18 +1,17 @@
 ---
-title: "Kızlar Türbesi | Miras Haritası"
-date: 2025-12-25T17:16:48+03:00
+title: "Kızlar Türbesi"
+date: "2025-12-25T17:16:48+03:00"
 slug: "kizlar-turbesi"
 description: "### Kızlar Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "33.2288742,37.1817703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızlar Türbesi

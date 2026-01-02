@@ -1,18 +1,17 @@
 ---
-title: "Kayışdağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:01:50+03:00
+title: "Kayışdağı Çeşmesi"
+date: "2025-12-25T12:01:50+03:00"
 slug: "kayisdagi-cesmesi"
 description: "## Kayışdağı Çeşmesi: Kadıköy'ün Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.08941,40.976172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayışdağı Çeşmesi: Kadıköy'ün Tarihi Bir Çeşmesi

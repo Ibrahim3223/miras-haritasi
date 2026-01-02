@@ -1,18 +1,17 @@
 ---
-title: "Uniq Hall | Miras Haritası"
-date: 2025-12-25T16:19:06+03:00
+title: "Uniq Hall"
+date: "2025-12-25T16:19:06+03:00"
 slug: "uniq-hall"
 description: "**Uniq Hall: İstanbul'un Gizli Zirvesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Uniq Hall: İstanbul'un Gizli Zirvesi**

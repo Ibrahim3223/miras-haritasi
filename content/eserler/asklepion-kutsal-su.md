@@ -1,18 +1,17 @@
 ---
-title: "Asklepion Kutsal Su | Miras Haritası"
-date: 2025-12-25T12:01:23+03:00
+title: "Asklepion Kutsal Su"
+date: "2025-12-25T12:01:23+03:00"
 slug: "asklepion-kutsal-su"
 description: "## Asklepion Kutsal Su: Bergama'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1654339,39.119072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asklepion Kutsal Su: Bergama'da Bir Tarihî Çeşme

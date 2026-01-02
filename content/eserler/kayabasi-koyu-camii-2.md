@@ -1,18 +1,17 @@
 ---
-title: "Kayabaşı Köyü Camii 2 | Miras Haritası"
-date: 2025-12-25T00:19:18+03:00
+title: "Kayabaşı Köyü Camii 2"
+date: "2025-12-25T00:19:18+03:00"
 slug: "kayabasi-koyu-camii-2"
 description: "## Kayabaşı Köyü Camii 2: Kalkandere'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kalkandere"
-iller: ["Kalkandere"]
+iller: '["Kalkandere"]'
 district: "Kalkandere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.468128912,40.866248491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayabaşı Köyü Camii 2: Kalkandere'nin Tarihi Bir Mirası

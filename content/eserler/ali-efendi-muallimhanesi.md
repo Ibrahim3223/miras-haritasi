@@ -1,18 +1,17 @@
 ---
-title: "Ali Efendi Muallimhanesi | Miras Haritası"
-date: 2025-12-25T17:34:45+03:00
+title: "Ali Efendi Muallimhanesi"
+date: "2025-12-25T17:34:45+03:00"
 slug: "ali-efendi-muallimhanesi"
 description: "## Ali Efendi Muallimhanesi: Karatay, Konya'da Bir Medrese'nin Gizli Çehresi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "32.4986649,37.8728142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Efendi Muallimhanesi: Karatay, Konya'da Bir Medrese'nin Gizli Çehresi

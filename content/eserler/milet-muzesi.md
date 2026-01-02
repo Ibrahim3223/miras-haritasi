@@ -1,18 +1,17 @@
 ---
-title: "Milet Müzesi | Miras Haritası"
-date: 2025-12-25T03:32:32+03:00
+title: "Milet Müzesi"
+date: "2025-12-25T03:32:32+03:00"
 slug: "milet-muzesi"
 description: "## Milet Müzesi: Aydın'ın Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Miletus_Museum,_Turkey_(53331495269).jpg/1200px-Miletus_Museum,_Turkey_(53331495269).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.274652067,37.525625499"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Milet Müzesi: Aydın'ın Kültür Mirası

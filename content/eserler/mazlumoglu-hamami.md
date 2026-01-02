@@ -1,18 +1,17 @@
 ---
-title: "Mazlumoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:58+03:00
+title: "Mazlumoğlu Hamamı"
+date: "2025-12-25T16:25:58+03:00"
 slug: "mazlumoglu-hamami"
 description: "**Mazlumoğlu Hamamı**..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "43.0879197,40.6114798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mazlumoğlu Hamamı**

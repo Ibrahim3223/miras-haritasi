@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Paşa Camii (Yalova) | Miras Haritası"
-date: 2025-12-24T23:23:56+03:00
+title: "Rüstem Paşa Camii (Yalova)"
+date: "2025-12-24T23:23:56+03:00"
 slug: "rustem-pasa-camii-yalova"
 description: "## Rüstem Paşa Camii (Yalova)..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Yalova"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2682152,40.6574097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rüstem Paşa Camii (Yalova)

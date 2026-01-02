@@ -1,18 +1,17 @@
 ---
-title: "Mor Yuhanon Dilimiyo Süryani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:30:27+03:00
+title: "Mor Yuhanon Dilimiyo Süryani Kilisesi"
+date: "2025-12-25T09:30:27+03:00"
 slug: "mor-yuhanon-dilimiyo-suryani-kilisesi"
 description: "## Mor Yuhanon Dilimiyo Süryani Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Savur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.9609947,37.5475349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mor Yuhanon Dilimiyo Süryani Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Çivici Hamamı | Miras Haritası"
-date: 2025-12-25T16:51:37+03:00
+title: "Çivici Hamamı"
+date: "2025-12-25T16:51:37+03:00"
 slug: "civici-hamami"
 description: "### Çivici Hamamı: İzmir'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1343994,38.4163017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çivici Hamamı: İzmir'in Tarihî Mirası

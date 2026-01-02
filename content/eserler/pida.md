@@ -1,18 +1,17 @@
 ---
-title: "Pida | Miras Haritası"
-date: 2025-12-25T05:16:07+03:00
+title: "Pida"
+date: "2025-12-25T05:16:07+03:00"
 slug: "pida"
 description: "# Pida Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.440124,40.719858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pida Arkeolojik Sit

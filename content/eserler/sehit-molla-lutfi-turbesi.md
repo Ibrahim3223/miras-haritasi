@@ -1,18 +1,17 @@
 ---
-title: "Şehit Molla Lütfi Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:39+03:00
+title: "Şehit Molla Lütfi Türbesi"
+date: "2025-12-25T15:26:39+03:00"
 slug: "sehit-molla-lutfi-turbesi"
 description: "### Şehit Molla Lütfi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.937528,41.042868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şehit Molla Lütfi Türbesi

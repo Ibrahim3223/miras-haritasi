@@ -1,18 +1,17 @@
 ---
-title: "Soğukpınar Camii | Miras Haritası"
-date: 2025-12-24T23:05:45+03:00
+title: "Soğukpınar Camii"
+date: "2025-12-24T23:05:45+03:00"
 slug: "sogukpinar-camii"
 description: "## Soğukpınar Camii: Bilecik'in Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bilecik"
+province: "Bilecik"
+iller: '["Bilecik"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.033226,39.9045753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğukpınar Camii: Bilecik'in Tarihî Bir Mirası

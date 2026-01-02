@@ -1,18 +1,17 @@
 ---
-title: "Keçeci Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:25:29+03:00
+title: "Keçeci Çeşmesi"
+date: "2025-12-25T11:25:29+03:00"
 slug: "kececi-cesmesi"
 description: "### Keçeci Çeşmesi: Karesi'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8818855,39.644455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Keçeci Çeşmesi: Karesi'nin Tarihi ve Kültürel Mirası

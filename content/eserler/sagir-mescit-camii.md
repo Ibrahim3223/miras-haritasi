@@ -1,18 +1,17 @@
 ---
-title: "Sagir Mescit Camii | Miras Haritası"
-date: 2025-12-24T22:39:10+03:00
+title: "Sagir Mescit Camii"
+date: "2025-12-24T22:39:10+03:00"
 slug: "sagir-mescit-camii"
 description: "## Sagir Mescit Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ürgüp_Sagir_Mescid_Camii_0776.jpg/1200px-Ürgüp_Sagir_Mescid_Camii_0776.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.9113159,38.6331444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sagir Mescit Camii

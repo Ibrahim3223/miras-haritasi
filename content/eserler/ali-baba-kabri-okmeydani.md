@@ -1,18 +1,17 @@
 ---
-title: "Ali Baba Kabri, Okmeydanı | Miras Haritası"
-date: 2025-12-25T13:28:35+03:00
+title: "Ali Baba Kabri, Okmeydanı"
+date: "2025-12-25T13:28:35+03:00"
 slug: "ali-baba-kabri-okmeydani"
 description: "## Ali Baba Kabri, Okmeydanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9605732,41.0416069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Baba Kabri, Okmeydanı

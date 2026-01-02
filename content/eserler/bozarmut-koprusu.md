@@ -1,18 +1,17 @@
 ---
-title: "Bozarmut Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:40+03:00
+title: "Bozarmut Köprüsü"
+date: "2025-12-25T02:21:40+03:00"
 slug: "bozarmut-koprusu"
 description: "## Bozarmut Köprüsü: Kangal'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.3354607,39.2784729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozarmut Köprüsü: Kangal'ın Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ağaçaltı Kilisesi | Miras Haritası"
-date: 2025-12-25T08:43:32+03:00
+title: "Ağaçaltı Kilisesi"
+date: "2025-12-25T08:43:32+03:00"
 slug: "agacalti-kilisesi"
 description: "## Ağaçaltı Kilisesi: Aksaray'da Bir Geçmişe Dair Harika Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/St._Daniel's_Church_plafond.JPG/1200px-St._Daniel's_Church_plafond.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.303657,38.2532097"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ağaçaltı Kilisesi: Aksaray'da Bir Geçmişe Dair Harika Bir Miras

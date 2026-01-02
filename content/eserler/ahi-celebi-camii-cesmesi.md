@@ -1,18 +1,17 @@
 ---
-title: "Ahi Çelebi Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:14:13+03:00
+title: "Ahi Çelebi Camii Çeşmesi"
+date: "2025-12-25T11:14:13+03:00"
 slug: "ahi-celebi-camii-cesmesi"
 description: "### Ahi Çelebi Camii Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9682522,41.0188332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahi Çelebi Camii Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

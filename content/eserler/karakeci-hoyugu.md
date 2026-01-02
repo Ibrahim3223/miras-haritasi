@@ -1,18 +1,17 @@
 ---
-title: "Karakeçi Höyüğü | Miras Haritası"
-date: 2025-12-25T06:31:42+03:00
+title: "Karakeçi Höyüğü"
+date: "2025-12-25T06:31:42+03:00"
 slug: "karakeci-hoyugu"
 description: "## Karakeçi Höyüğü: Şanlıurfa'nın Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.43687,37.4526233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakeçi Höyüğü: Şanlıurfa'nın Gizli Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Panaia Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:41+03:00
+title: "Panaia Kilisesi"
+date: "2025-12-25T09:22:41+03:00"
 slug: "panaia-kilisesi"
 description: "### Panaia Kilisesi: Gökçeada'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.9044609,40.1947327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Panaia Kilisesi: Gökçeada'nın Gizli Cenneti

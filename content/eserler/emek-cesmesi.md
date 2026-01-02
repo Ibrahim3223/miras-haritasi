@@ -1,18 +1,17 @@
 ---
-title: "Emek Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:32:57+03:00
+title: "Emek Çeşmesi"
+date: "2025-12-25T11:32:57+03:00"
 slug: "emek-cesmesi"
 description: "### Emek Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Emek_Çeşmesi.jpg/1200px-Emek_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6791687,41.2499847"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Emek Çeşmesi

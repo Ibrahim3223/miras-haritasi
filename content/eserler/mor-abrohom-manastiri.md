@@ -1,18 +1,17 @@
 ---
-title: "Mor Abrohom Manastırı | Miras Haritası"
-date: 2025-12-25T09:57:05+03:00
+title: "Mor Abrohom Manastırı"
+date: "2025-12-25T09:57:05+03:00"
 slug: "mor-abrohom-manastiri"
 description: "## Mor Abrohom Manastırı: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MorHobilMorAbrohomMonastery4.jpg/1200px-MorHobilMorAbrohomMonastery4.jpg"
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.38818728,37.413317165"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mor Abrohom Manastırı: Tarihi ve Kültürel Mirasın Gizemi

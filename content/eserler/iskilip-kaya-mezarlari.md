@@ -1,18 +1,17 @@
 ---
-title: "İskilip Kaya Mezarları | Miras Haritası"
-date: 2025-12-25T13:19:44+03:00
+title: "İskilip Kaya Mezarları"
+date: "2025-12-25T13:19:44+03:00"
 slug: "iskilip-kaya-mezarlari"
 description: "## İskilip Kaya Mezarları..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.4739494,40.7344704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskilip Kaya Mezarları

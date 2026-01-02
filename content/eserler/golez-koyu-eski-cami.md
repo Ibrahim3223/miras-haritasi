@@ -1,18 +1,17 @@
 ---
-title: "Gölez Köyü Eski Cami | Miras Haritası"
-date: 2025-12-25T00:17:15+03:00
+title: "Gölez Köyü Eski Cami"
+date: "2025-12-25T00:17:15+03:00"
 slug: "golez-koyu-eski-cami"
 description: "## Gölez Köyü Eski Cami: Eldivan'da Bir Kültürel Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Eldivan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5500145,40.4970856"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gölez Köyü Eski Cami: Eldivan'da Bir Kültürel Miras

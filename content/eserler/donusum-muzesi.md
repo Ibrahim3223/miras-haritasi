@@ -1,18 +1,17 @@
 ---
-title: "Dönüşüm Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:33+03:00
+title: "Dönüşüm Müzesi"
+date: "2025-12-25T03:31:33+03:00"
 slug: "donusum-muzesi"
 description: "## Samsun'un Gizli Çehresini Keşfedin: Dönüşüm Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samsun'un Gizli Çehresini Keşfedin: Dönüşüm Müzesi

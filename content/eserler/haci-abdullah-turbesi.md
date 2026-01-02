@@ -1,18 +1,17 @@
 ---
-title: "Hacı Abdullah Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:01+03:00
+title: "Hacı Abdullah Türbesi"
+date: "2025-12-25T14:41:01+03:00"
 slug: "haci-abdullah-turbesi"
 description: "## Hacı Abdullah Türbesi: Yağlıdere'nin Tarihi Öreni..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.6305656,40.7598839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Abdullah Türbesi: Yağlıdere'nin Tarihi Öreni

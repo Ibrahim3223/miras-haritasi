@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:59+03:00
+title: "Süleyman Çeşmesi"
+date: "2025-12-25T11:29:59+03:00"
 slug: "suleyman-cesmesi"
 description: "## Süleyman Çeşmesi: Bodrum'un Efsanevi Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: ["Bodrum"]
+iller: '["Bodrum"]'
 district: "Turgutreis"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2815132,37.0135117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Çeşmesi: Bodrum'un Efsanevi Çeşmesi

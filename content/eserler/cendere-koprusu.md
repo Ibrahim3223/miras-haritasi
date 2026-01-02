@@ -1,18 +1,17 @@
 ---
-title: "Cendere Köprüsü | Miras Haritası"
-date: 2025-12-25T01:54:48+03:00
+title: "Cendere Köprüsü"
+date: "2025-12-25T01:54:48+03:00"
 slug: "cendere-koprusu"
 description: "**Cendere Köprüsü: Tarihî Bir Yapıtın Gizemi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Severan_Bridge,_Turkey_02.jpg/1200px-Severan_Bridge,_Turkey_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adıyaman"
+province: "Adıyaman"
+iller: '["Adıyaman"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.60849,37.93292"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Cendere Köprüsü: Tarihî Bir Yapıtın Gizemi**

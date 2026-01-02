@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Camii Doğu Kapısı Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:02:48+03:00
+title: "Mehmet Ağa Camii Doğu Kapısı Çeşmesi"
+date: "2025-12-25T13:02:48+03:00"
 slug: "mehmet-aga-camii-dogu-kapisi-cesmesi"
 description: "## Mehmet Ağa Camii Doğu Kapısı Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.945697,41.027051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ağa Camii Doğu Kapısı Çeşmesi: İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Delkos | Miras Haritası"
-date: 2025-12-25T05:03:32+03:00
+title: "Delkos"
+date: "2025-12-25T05:03:32+03:00"
 slug: "delkos"
 description: "### Delkos: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.6766806,41.3381803"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Delkos: Antik Çağın Gizemi

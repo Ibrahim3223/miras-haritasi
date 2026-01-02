@@ -1,18 +1,17 @@
 ---
-title: "Faki Teyran Medresesi | Miras Haritası"
-date: 2025-12-25T17:40:13+03:00
+title: "Faki Teyran Medresesi"
+date: "2025-12-25T17:40:13+03:00"
 slug: "faki-teyran-medresesi"
 description: "### Faki Teyran Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fekiye_Teyran_Medresesi.jpg/1200px-Fekiye_Teyran_Medresesi.jpg"
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Güçlükonak"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "42.0722427,37.4075356"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Faki Teyran Medresesi

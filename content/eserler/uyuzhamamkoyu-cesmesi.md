@@ -1,18 +1,17 @@
 ---
-title: "Uyuzhamamköyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:32+03:00
+title: "Uyuzhamamköyü Çeşmesi"
+date: "2025-12-25T10:44:32+03:00"
 slug: "uyuzhamamkoyu-cesmesi"
 description: "## Uyuzhamamköyü Çeşmesi: Alpu, Eskişehir'de Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Alpu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.0397358,39.6858368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uyuzhamamköyü Çeşmesi: Alpu, Eskişehir'de Bir Önemli Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Mahmudiye Kalyonu Anıtı | Miras Haritası"
-date: 2025-12-25T15:45:56+03:00
+title: "Mahmudiye Kalyonu Anıtı"
+date: "2025-12-25T15:45:56+03:00"
 slug: "mahmudiye-kalyonu-aniti"
 description: "## Mahmudiye Kalyonu Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3026009,38.3232002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmudiye Kalyonu Anıtı

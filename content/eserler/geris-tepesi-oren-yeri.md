@@ -1,18 +1,17 @@
 ---
-title: "Geriş Tepesi Ören Yeri | Miras Haritası"
-date: 2025-12-25T08:29:45+03:00
+title: "Geriş Tepesi Ören Yeri"
+date: "2025-12-25T08:29:45+03:00"
 slug: "geris-tepesi-oren-yeri"
 description: "## Geriş Tepesi Ören Yeri..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.7661629,41.9637985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Geriş Tepesi Ören Yeri

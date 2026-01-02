@@ -1,18 +1,17 @@
 ---
-title: "Yavuzkemal Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:37+03:00
+title: "Yavuzkemal Kilisesi"
+date: "2025-12-25T09:17:37+03:00"
 slug: "yavuzkemal-kilisesi"
 description: "## Yavuzkemal Kilisesi: Dereli, Giresun'da Bir Tarihi Çanakkale Kahramanının İşareti..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Dereli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.299931,40.670376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yavuzkemal Kilisesi: Dereli, Giresun'da Bir Tarihi Çanakkale Kahramanının İşareti

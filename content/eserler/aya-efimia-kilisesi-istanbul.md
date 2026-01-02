@@ -1,18 +1,17 @@
 ---
-title: "Aya Efimia Kilisesi (İstanbul) | Miras Haritası"
-date: 2025-12-25T08:40:10+03:00
+title: "Aya Efimia Kilisesi (İstanbul)"
+date: "2025-12-25T08:40:10+03:00"
 slug: "aya-efimia-kilisesi-istanbul"
 description: "## Aya Efimia Kilisesi: Kadıköy'ün Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sancte_Euphemia_Kadıköy.jpg/1200px-Sancte_Euphemia_Kadıköy.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0250907,40.9907767"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aya Efimia Kilisesi: Kadıköy'ün Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Dördüncü Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:54+03:00
+title: "Dördüncü Kadın Çeşmesi"
+date: "2025-12-25T11:07:54+03:00"
 slug: "dorduncu-kadin-cesmesi"
 description: "### Dördüncü Kadın Çeşmesi: Fatih'te Bir Azizlik Eseri..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Hocapaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.975534,41.01369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dördüncü Kadın Çeşmesi: Fatih'te Bir Azizlik Eseri

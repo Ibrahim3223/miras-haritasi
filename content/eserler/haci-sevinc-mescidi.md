@@ -1,18 +1,17 @@
 ---
-title: "Hacı Sevinç Mescidi | Miras Haritası"
-date: 2025-12-24T23:29:48+03:00
+title: "Hacı Sevinç Mescidi"
+date: "2025-12-24T23:29:48+03:00"
 slug: "haci-sevinc-mescidi"
 description: "## Hacı Sevinç Mescidi: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hacı_sevinç_mescidi_bursa_-_panoramio.jpg/1200px-Hacı_sevinç_mescidi_bursa_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0593414,40.182663"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Sevinç Mescidi: Bursa'nın Tarihi ve Kültürel Mirası

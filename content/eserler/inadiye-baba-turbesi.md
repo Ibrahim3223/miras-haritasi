@@ -1,18 +1,17 @@
 ---
-title: "İnadiye Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:35:20+03:00
+title: "İnadiye Baba Türbesi"
+date: "2025-12-25T15:35:20+03:00"
 slug: "inadiye-baba-turbesi"
 description: "## İnadiye Baba Türbesi: Fatih'in Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9303131,41.0144463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnadiye Baba Türbesi: Fatih'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Etliğin Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:40:23+03:00
+title: "Etliğin Çeşmesi"
+date: "2025-12-25T11:40:23+03:00"
 slug: "etligin-cesmesi"
 description: "## Etliğin Çeşmesi: Yakutiye, Erzurum'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2836266,39.915905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Etliğin Çeşmesi: Yakutiye, Erzurum'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Kavak | Miras Haritası"
-date: 2025-12-25T02:58:40+03:00
+title: "Roma Köprüsü, Kavak"
+date: "2025-12-25T02:58:40+03:00"
 slug: "roma-koprusu-kavak"
 description: "## Roma Köprüsü, Kavak..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.443676,37.553307"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Kavak

@@ -1,18 +1,17 @@
 ---
-title: "Kanatlı Köprü, Edirne | Miras Haritası"
-date: 2025-12-25T02:49:15+03:00
+title: "Kanatlı Köprü, Edirne"
+date: "2025-12-25T02:49:15+03:00"
 slug: "kanatli-kopru-edirne"
 description: "## Kanatlı Köprü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.561290764,41.671597594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanatlı Köprü: Edirne'nin Gizli Mirası

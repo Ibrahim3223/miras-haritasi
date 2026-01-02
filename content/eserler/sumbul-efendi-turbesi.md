@@ -1,18 +1,17 @@
 ---
-title: "Sümbül Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:49+03:00
+title: "Sümbül Efendi Türbesi"
+date: "2025-12-25T14:38:49+03:00"
 slug: "sumbul-efendi-turbesi"
 description: "### Sümbül Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9287243,41.0036011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sümbül Efendi Türbesi

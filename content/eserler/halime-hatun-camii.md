@@ -1,18 +1,17 @@
 ---
-title: "Halime Hatun Camii | Miras Haritası"
-date: 2025-12-24T23:21:08+03:00
+title: "Halime Hatun Camii"
+date: "2025-12-24T23:21:08+03:00"
 slug: "halime-hatun-camii"
 description: "### Halime Hatun Camii: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.914629,38.7104912"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halime Hatun Camii: Manisa'nın Tarihi ve Kültürel Mirası

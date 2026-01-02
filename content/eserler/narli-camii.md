@@ -1,18 +1,17 @@
 ---
-title: "Narlı Camii | Miras Haritası"
-date: 2025-12-25T00:12:13+03:00
+title: "Narlı Camii"
+date: "2025-12-25T00:12:13+03:00"
 slug: "narli-camii"
 description: "## Narlı Camii: Edremit'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.677824,39.5772324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Narlı Camii: Edremit'in Tarihi ve Kültürel Mirası

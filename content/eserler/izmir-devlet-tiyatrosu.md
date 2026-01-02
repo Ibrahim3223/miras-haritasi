@@ -1,18 +1,17 @@
 ---
-title: "İzmir Devlet Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:16:39+03:00
+title: "İzmir Devlet Tiyatrosu"
+date: "2025-12-25T16:16:39+03:00"
 slug: "izmir-devlet-tiyatrosu"
 description: "## İzmir Devlet Tiyatrosu..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzmir Devlet Tiyatrosu

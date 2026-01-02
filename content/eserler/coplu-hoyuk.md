@@ -1,18 +1,17 @@
 ---
-title: "Çöplü Höyük | Miras Haritası"
-date: 2025-12-25T13:50:33+03:00
+title: "Çöplü Höyük"
+date: "2025-12-25T13:50:33+03:00"
 slug: "coplu-hoyuk"
 description: "# Çöplü Höyük: Alaca, Çorum'da Bir Efsanevi Anıt..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.9956627,40.1868401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çöplü Höyük: Alaca, Çorum'da Bir Efsanevi Anıt

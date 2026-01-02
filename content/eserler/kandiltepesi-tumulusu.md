@@ -1,18 +1,17 @@
 ---
-title: "Kandiltepesi Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:23:54+03:00
+title: "Kandiltepesi Tümülüsü"
+date: "2025-12-25T07:23:54+03:00"
 slug: "kandiltepesi-tumulusu"
 description: "## Kandiltepesi Tümülüsü: Akçadağ'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9173698,38.3093987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kandiltepesi Tümülüsü: Akçadağ'ın Gizli Hazineleri

@@ -1,18 +1,17 @@
 ---
-title: "Kaymakam Kemal Bey Anıtı, Menemen | Miras Haritası"
-date: 2025-12-25T15:45:40+03:00
+title: "Kaymakam Kemal Bey Anıtı, Menemen"
+date: "2025-12-25T15:45:40+03:00"
 slug: "kaymakam-kemal-bey-aniti-menemen"
 description: "## Kaymakam Kemal Bey Anıtı: Menemen'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menemen"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.0640182,38.608387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaymakam Kemal Bey Anıtı: Menemen'in Tarihî Mirası

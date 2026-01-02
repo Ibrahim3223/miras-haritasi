@@ -1,18 +1,17 @@
 ---
-title: "Sarıkocataş Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:25:14+03:00
+title: "Sarıkocataş Çeşmesi"
+date: "2025-12-25T10:25:14+03:00"
 slug: "sarikocatas-cesmesi"
 description: "## Sarıkocataş Çeşmesi: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6011677,37.7242165"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıkocataş Çeşmesi: Aydın'ın Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Sidussa | Miras Haritası"
-date: 2025-12-25T04:41:29+03:00
+title: "Sidussa"
+date: "2025-12-25T04:41:29+03:00"
 slug: "sidussa"
 description: "# Sidussa: Anadolu'nun Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.51564,38.65944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sidussa: Anadolu'nun Gizemli Arkeolojik Sitleri

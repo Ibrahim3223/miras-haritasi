@@ -1,18 +1,17 @@
 ---
-title: "Saraçhane Köprüsü | Miras Haritası"
-date: 2025-12-25T03:06:27+03:00
+title: "Saraçhane Köprüsü"
+date: "2025-12-25T03:06:27+03:00"
 slug: "sarachane-koprusu"
 description: "### Saraçhane Köprüsü: Edirne'nin Tarihi ve Mimari Bir Ölümsüzlüğü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Saraçhane_Köprüsü_34.JPG/1200px-Saraçhane_Köprüsü_34.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.5545,41.685561"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Saraçhane Köprüsü: Edirne'nin Tarihi ve Mimari Bir Ölümsüzlüğü

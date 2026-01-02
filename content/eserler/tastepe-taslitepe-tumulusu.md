@@ -1,18 +1,17 @@
 ---
-title: "Tastepe Taşlıtepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:41:57+03:00
+title: "Tastepe Taşlıtepe Tümülüsü"
+date: "2025-12-25T07:41:57+03:00"
 slug: "tastepe-taslitepe-tumulusu"
 description: "## Tastepe Taşlıtepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1309834,41.9660606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tastepe Taşlıtepe Tümülüsü

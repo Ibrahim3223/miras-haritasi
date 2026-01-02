@@ -1,18 +1,17 @@
 ---
-title: "Phaselis Hadrian Kapısı | Miras Haritası"
-date: 2025-12-25T15:38:32+03:00
+title: "Phaselis Hadrian Kapısı"
+date: "2025-12-25T15:38:32+03:00"
 slug: "phaselis-hadrian-kapisi"
 description: "## Phaselis Hadrian Kapısı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5511284,36.5229149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phaselis Hadrian Kapısı

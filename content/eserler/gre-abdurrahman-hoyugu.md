@@ -1,18 +1,17 @@
 ---
-title: "Gre Abdurrahman Höyüğü | Miras Haritası"
-date: 2025-12-25T07:07:39+03:00
+title: "Gre Abdurrahman Höyüğü"
+date: "2025-12-25T07:07:39+03:00"
 slug: "gre-abdurrahman-hoyugu"
 description: "## Gre Abdurrahman Höyüğü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gre Abdurrahman Höyüğü

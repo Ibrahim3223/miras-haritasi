@@ -1,18 +1,17 @@
 ---
-title: "Akçaağıl Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:49+03:00
+title: "Akçaağıl Köprüsü"
+date: "2025-12-25T03:02:49+03:00"
 slug: "akcaagil-koprusu"
 description: "### Akçaağıl Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Suşehri"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.0521774,40.2270813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçaağıl Köprüsü

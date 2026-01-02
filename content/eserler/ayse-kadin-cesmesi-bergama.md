@@ -1,18 +1,17 @@
 ---
-title: "Ayşe Kadın Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:02:50+03:00
+title: "Ayşe Kadın Çeşmesi, Bergama"
+date: "2025-12-25T12:02:50+03:00"
 slug: "ayse-kadin-cesmesi-bergama"
 description: "**Ayşe Kadın Çeşmesi: Bergama'nın Tarihsel ve Kültürel Mirası**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.180994,39.1249657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayşe Kadın Çeşmesi: Bergama'nın Tarihsel ve Kültürel Mirası**

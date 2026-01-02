@@ -1,18 +1,17 @@
 ---
-title: "Olympos Liman Anıt Mezarları | Miras Haritası"
-date: 2025-12-25T14:03:34+03:00
+title: "Olympos Liman Anıt Mezarları"
+date: "2025-12-25T14:03:34+03:00"
 slug: "olympos-liman-anit-mezarlari"
 description: "## Olympos Liman Anıt Mezarları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Olympos_Liman_Anıt_Mezarları_2.jpg/1200px-Olympos_Liman_Anıt_Mezarları_2.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4753227,36.3965797"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Olympos Liman Anıt Mezarları

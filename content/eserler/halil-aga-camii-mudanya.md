@@ -1,18 +1,17 @@
 ---
-title: "Halil Ağa Camii, Mudanya | Miras Haritası"
-date: 2025-12-25T00:35:46+03:00
+title: "Halil Ağa Camii, Mudanya"
+date: "2025-12-25T00:35:46+03:00"
 slug: "halil-aga-camii-mudanya"
 description: "### Halil Ağa Camii, Mudanya..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mudanya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.882949,40.377866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halil Ağa Camii, Mudanya

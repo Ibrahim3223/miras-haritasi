@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Kapısı | Miras Haritası"
-date: 2025-12-25T13:40:52+03:00
+title: "Cumhuriyet Kapısı"
+date: "2025-12-25T13:40:52+03:00"
 slug: "cumhuriyet-kapisi"
 description: "## Cumhuriyet Kapısı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.149555555,38.428055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumhuriyet Kapısı

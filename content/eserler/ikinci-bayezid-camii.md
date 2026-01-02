@@ -1,18 +1,17 @@
 ---
-title: "İkinci Bayezid Camii | Miras Haritası"
-date: 2025-12-24T21:45:28+03:00
+title: "İkinci Bayezid Camii"
+date: "2025-12-24T21:45:28+03:00"
 slug: "ikinci-bayezid-camii"
 description: "## İkinci Bayezid Camii: Edirne'nin İhtişamlı Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Edirne_(15466208355).jpg/1200px-Edirne_(15466208355).jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5445,41.685527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İkinci Bayezid Camii: Edirne'nin İhtişamlı Mirası

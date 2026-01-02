@@ -1,18 +1,17 @@
 ---
-title: "Kayalı Köyü Tepeler Doğu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:50:30+03:00
+title: "Kayalı Köyü Tepeler Doğu Tümülüsü"
+date: "2025-12-25T07:50:30+03:00"
 slug: "kayali-koyu-tepeler-dogu-tumulusu"
 description: "## Kayalı Köyü Tepeler Doğu Tümülüsü: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.07724,41.7790527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayalı Köyü Tepeler Doğu Tümülüsü: Kırklareli'nin Gizli Kahramanı

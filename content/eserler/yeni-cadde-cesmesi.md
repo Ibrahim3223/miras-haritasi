@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cadde Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:37+03:00
+title: "Yeni Cadde Çeşmesi"
+date: "2025-12-25T10:23:37+03:00"
 slug: "yeni-cadde-cesmesi"
 description: "### Yeni Cadde Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9736595,39.4235306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeni Cadde Çeşmesi

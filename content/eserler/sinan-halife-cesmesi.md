@@ -1,18 +1,17 @@
 ---
-title: "Sinan Halife Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:42:40+03:00
+title: "Sinan Halife Çeşmesi"
+date: "2025-12-25T10:42:40+03:00"
 slug: "sinan-halife-cesmesi"
 description: "## Sinan Halife Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5387459,38.752121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Halife Çeşmesi

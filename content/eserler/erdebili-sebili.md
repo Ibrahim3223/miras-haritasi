@@ -1,18 +1,17 @@
 ---
-title: "Erdebili Sebili | Miras Haritası"
-date: 2025-12-25T13:09:16+03:00
+title: "Erdebili Sebili"
+date: "2025-12-25T13:09:16+03:00"
 slug: "erdebili-sebili"
 description: "## Erdebili Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9794712,41.0097504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erdebili Sebili: İstanbul'un Gizli Çeşmesi

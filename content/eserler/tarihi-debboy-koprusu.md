@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Debboy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:27+03:00
+title: "Tarihi Debboy Köprüsü"
+date: "2025-12-25T02:27:27+03:00"
 slug: "tarihi-debboy-koprusu"
 description: "## Tarihi Debboy Köprüsü: Gediz'in Gizli Cenneti..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Gediz"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.4152318,39.0457751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Debboy Köprüsü: Gediz'in Gizli Cenneti

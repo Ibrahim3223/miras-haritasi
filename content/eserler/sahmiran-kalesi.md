@@ -1,18 +1,17 @@
 ---
-title: "Şahmiran Kalesi | Miras Haritası"
-date: 2025-12-25T01:20:22+03:00
+title: "Şahmiran Kalesi"
+date: "2025-12-25T01:20:22+03:00"
 slug: "sahmiran-kalesi"
 description: "## Şahmiran Kalesi: Muş'un Gizli Çağı..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Varto İlçesi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.8721466,39.0894699"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şahmiran Kalesi: Muş'un Gizli Çağı

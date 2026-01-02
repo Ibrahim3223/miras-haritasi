@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Caddesi Çeşmesi, Mimarsinan (Büyükçekmece) | Miras Haritası"
-date: 2025-12-25T12:48:22+03:00
+title: "Cumhuriyet Caddesi Çeşmesi, Mimarsinan (Büyükçekmece)"
+date: "2025-12-25T12:48:22+03:00"
 slug: "cumhuriyet-caddesi-cesmesi-mimarsinan-buyukcekmece"
 description: "### Cumhuriyet Caddesi Çeşmesi, Mimarsinan (Büyükçekmece)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.5609608,41.0148964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cumhuriyet Caddesi Çeşmesi, Mimarsinan (Büyükçekmece)

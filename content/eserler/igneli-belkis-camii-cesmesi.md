@@ -1,18 +1,17 @@
 ---
-title: "İğneli Belkıs Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:17+03:00
+title: "İğneli Belkıs Camii Çeşmesi"
+date: "2025-12-25T10:26:17+03:00"
 slug: "igneli-belkis-camii-cesmesi"
 description: "## İğneli Belkıs Camii Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8545876,39.9441528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İğneli Belkıs Camii Çeşmesi

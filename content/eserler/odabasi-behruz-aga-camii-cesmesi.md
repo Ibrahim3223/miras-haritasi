@@ -1,18 +1,17 @@
 ---
-title: "Odabaşı Behruz Ağa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:43+03:00
+title: "Odabaşı Behruz Ağa Camii Çeşmesi"
+date: "2025-12-25T11:17:43+03:00"
 slug: "odabasi-behruz-aga-camii-cesmesi"
 description: "## Odabaşı Behruz Ağa Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.931023,41.012239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Odabaşı Behruz Ağa Camii Çeşmesi

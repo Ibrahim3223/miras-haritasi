@@ -1,18 +1,17 @@
 ---
-title: "Oxinas | Miras Haritası"
-date: 2025-12-25T04:45:36+03:00
+title: "Oxinas"
+date: "2025-12-25T04:45:36+03:00"
 slug: "oxinas"
 description: "## Oxinas Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.674661,41.407123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oxinas Arkeolojik Sit

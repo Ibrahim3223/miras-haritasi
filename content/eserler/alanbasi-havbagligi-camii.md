@@ -1,18 +1,17 @@
 ---
-title: "Alanbaşı Havbağlığı Camii | Miras Haritası"
-date: 2025-12-25T00:59:35+03:00
+title: "Alanbaşı Havbağlığı Camii"
+date: "2025-12-25T00:59:35+03:00"
 slug: "alanbasi-havbagligi-camii"
 description: "# Alanbaşı Havbağlığı Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4105998,40.6898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alanbaşı Havbağlığı Camii: Artvin'in Gizli Cenneti

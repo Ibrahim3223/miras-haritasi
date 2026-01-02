@@ -1,18 +1,17 @@
 ---
-title: "Çakalca-Karadoğan Höyüğü | Miras Haritası"
-date: 2025-12-25T08:13:04+03:00
+title: "Çakalca-Karadoğan Höyüğü"
+date: "2025-12-25T08:13:04+03:00"
 slug: "cakalca-karadogan-hoyugu"
 description: "**Çakalca-Karadoğan Höyüğü: Samsun'un Gizli Tarihi**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çakalca-Karadoğan Höyüğü: Samsun'un Gizli Tarihi**

@@ -1,18 +1,17 @@
 ---
-title: "Tireras Höyük | Miras Haritası"
-date: 2025-12-25T06:28:57+03:00
+title: "Tireras Höyük"
+date: "2025-12-25T06:28:57+03:00"
 slug: "tireras-hoyuk"
 description: "## Tireras Höyük: Tarihi ve Kültürel Mirasının Gizemli Yerleşimi..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "İdil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.7375546,37.1496607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tireras Höyük: Tarihi ve Kültürel Mirasının Gizemli Yerleşimi

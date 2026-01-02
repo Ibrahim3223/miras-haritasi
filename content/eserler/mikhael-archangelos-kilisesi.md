@@ -1,18 +1,17 @@
 ---
-title: "Mikhael Archangelos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:40+03:00
+title: "Mikhael Archangelos Kilisesi"
+date: "2025-12-25T09:32:40+03:00"
 slug: "mikhael-archangelos-kilisesi"
 description: "## Mikhael Archangelos Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.6140633,40.1863708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mikhael Archangelos Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Tahtalı Cami | Miras Haritası"
-date: 2025-12-24T23:49:39+03:00
+title: "Tahtalı Cami"
+date: "2025-12-24T23:49:39+03:00"
 slug: "tahtali-cami"
 description: "## Alanya'nın Tarihi Çağı: Tahtalı Cami..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9972019,36.5354233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alanya'nın Tarihi Çağı: Tahtalı Cami

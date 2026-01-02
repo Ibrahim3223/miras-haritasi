@@ -1,18 +1,17 @@
 ---
-title: "Atik Valide Sultan Hamamı, Üsküdar | Miras Haritası"
-date: 2025-12-25T16:34:50+03:00
+title: "Atik Valide Sultan Hamamı, Üsküdar"
+date: "2025-12-25T16:34:50+03:00"
 slug: "atik-valide-sultan-hamami-uskudar"
 description: "## Atik Valide Sultan Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.015949,41.023804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atik Valide Sultan Hamamı

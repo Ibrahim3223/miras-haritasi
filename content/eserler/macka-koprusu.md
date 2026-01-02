@@ -1,18 +1,17 @@
 ---
-title: "Maçka Köprüsü | Miras Haritası"
-date: 2025-12-25T02:51:35+03:00
+title: "Maçka Köprüsü"
+date: "2025-12-25T02:51:35+03:00"
 slug: "macka-koprusu"
 description: "# Maçka Köprüsü: Trabzon'un Tarihî Köyünde Gizli Bir Şehre Keşif..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.612628,40.811261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Maçka Köprüsü: Trabzon'un Tarihî Köyünde Gizli Bir Şehre Keşif

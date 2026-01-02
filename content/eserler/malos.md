@@ -1,18 +1,17 @@
 ---
-title: "Malos | Miras Haritası"
-date: 2025-12-25T05:15:12+03:00
+title: "Malos"
+date: "2025-12-25T05:15:12+03:00"
 slug: "malos"
 description: "## Malos: Ankara'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.34095,40.126533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malos: Ankara'nın Gizli Cenneti

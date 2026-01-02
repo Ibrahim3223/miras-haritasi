@@ -1,18 +1,17 @@
 ---
-title: "Moatra | Miras Haritası"
-date: 2025-12-25T05:10:16+03:00
+title: "Moatra"
+date: "2025-12-25T05:10:16+03:00"
 slug: "moatra"
 description: "## Moatra Arkeolojik Sitesi: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.285973,37.548665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Moatra Arkeolojik Sitesi: Türkiye'nin Gizli Cenneti

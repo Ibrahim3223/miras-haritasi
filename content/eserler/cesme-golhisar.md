@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Gölhisar | Miras Haritası"
-date: 2025-12-25T10:25:49+03:00
+title: "Çeşme – Gölhisar"
+date: "2025-12-25T10:25:49+03:00"
 slug: "cesme-golhisar"
 description: "## Çeşme – Gölhisar: Aydın'ın Eski Çağ Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.9174404,37.7966576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Gölhisar: Aydın'ın Eski Çağ Mirası

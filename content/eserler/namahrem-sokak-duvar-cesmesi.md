@@ -1,18 +1,17 @@
 ---
-title: "Namahrem Sokak Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:12:35+03:00
+title: "Namahrem Sokak Duvar Çeşmesi"
+date: "2025-12-25T11:12:35+03:00"
 slug: "namahrem-sokak-duvar-cesmesi"
 description: "## Namahrem Sokak Duvar Çeşmesi: Süleymaniye'nin Gizli Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Süleymaniye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.963047,41.018158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Namahrem Sokak Duvar Çeşmesi: Süleymaniye'nin Gizli Çeşmesi

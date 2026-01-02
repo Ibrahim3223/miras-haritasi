@@ -1,18 +1,17 @@
 ---
-title: "Arap Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:05+03:00
+title: "Arap Mescidi Çeşmesi"
+date: "2025-12-25T10:41:05+03:00"
 slug: "arap-mescidi-cesmesi"
 description: "## Arap Mescidi Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5355663,38.756424"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arap Mescidi Çeşmesi

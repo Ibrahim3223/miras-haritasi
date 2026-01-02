@@ -1,18 +1,17 @@
 ---
-title: "Sümbül Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:23+03:00
+title: "Sümbül Baba Türbesi"
+date: "2025-12-25T14:22:23+03:00"
 slug: "sumbul-baba-turbesi"
 description: "## Sümbül Baba Türbesi: Tokat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.551372,40.320941"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sümbül Baba Türbesi: Tokat'ın Tarihî Mirası

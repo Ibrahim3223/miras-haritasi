@@ -1,18 +1,17 @@
 ---
-title: "Kantara Camii | Miras Haritası"
-date: 2025-12-24T23:39:09+03:00
+title: "Kantara Camii"
+date: "2025-12-24T23:39:09+03:00"
 slug: "kantara-camii"
 description: "## Kantara Camii: Hatay'daki Bir Tarihi ve Kültürel Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1661034,36.198555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kantara Camii: Hatay'daki Bir Tarihi ve Kültürel Harikası

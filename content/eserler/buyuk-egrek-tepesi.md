@@ -1,18 +1,17 @@
 ---
-title: "Büyük Eğrek Tepesi | Miras Haritası"
-date: 2025-12-25T06:43:21+03:00
+title: "Büyük Eğrek Tepesi"
+date: "2025-12-25T06:43:21+03:00"
 slug: "buyuk-egrek-tepesi"
 description: "## Büyük Eğrek Tepesi: Sivas'ın Eski Uygarlığının Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8148154,39.5779336"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Eğrek Tepesi: Sivas'ın Eski Uygarlığının Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Kirazlı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:48:18+03:00
+title: "Kirazlı Köprüsü"
+date: "2025-12-25T02:48:18+03:00"
 slug: "kirazli-koprusu"
 description: "## Kirazlı Köprüsü: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6790276,40.0476379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kirazlı Köprüsü: Çanakkale'nin Tarihi ve Kültürel Mirası

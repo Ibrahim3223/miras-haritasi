@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:42:12+03:00
+title: "Topkapı Sarayı Güneş Saati"
+date: "2025-12-25T13:42:12+03:00"
 slug: "topkapi-sarayi-gunes-saati"
 description: "## Topkapı Sarayı Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9845238,41.0133247"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Güneş Saati

@@ -1,18 +1,17 @@
 ---
-title: "Demirköy Fatih Dökümhanesi Mescidi | Miras Haritası"
-date: 2025-12-24T22:33:08+03:00
+title: "Demirköy Fatih Dökümhanesi Mescidi"
+date: "2025-12-24T22:33:08+03:00"
 slug: "demirkoy-fatih-dokumhanesi-mescidi"
 description: "## Demirköy Fatih Dökümhanesi Mescidi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8137569,41.8171768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirköy Fatih Dökümhanesi Mescidi

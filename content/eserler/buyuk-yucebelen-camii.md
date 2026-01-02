@@ -1,18 +1,17 @@
 ---
-title: "Büyük Yücebelen Camii | Miras Haritası"
-date: 2025-12-24T22:28:42+03:00
+title: "Büyük Yücebelen Camii"
+date: "2025-12-24T22:28:42+03:00"
 slug: "buyuk-yucebelen-camii"
 description: "## Büyük Yücebelen Camii..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.276375,40.65024"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Yücebelen Camii

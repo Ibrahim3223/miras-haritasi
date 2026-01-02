@@ -1,18 +1,17 @@
 ---
-title: "Sarıbeyli Höyük | Miras Haritası"
-date: 2025-12-25T05:49:48+03:00
+title: "Sarıbeyli Höyük"
+date: "2025-12-25T05:49:48+03:00"
 slug: "saribeyli-hoyuk"
 description: "## Sarıbeyli Höyük: Denizli'nin Gizli Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.661083,38.178783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıbeyli Höyük: Denizli'nin Gizli Mirası

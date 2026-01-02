@@ -1,18 +1,17 @@
 ---
-title: "Ebu Zer El-Gıfari Kabri | Miras Haritası"
-date: 2025-12-25T13:31:07+03:00
+title: "Ebu Zer El-Gıfari Kabri"
+date: "2025-12-25T13:31:07+03:00"
 slug: "ebu-zer-el-gifari-kabri"
 description: "## Ebu Zer El-Gıfari Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.943024164,41.037737749"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebu Zer El-Gıfari Kabri

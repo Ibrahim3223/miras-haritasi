@@ -1,18 +1,17 @@
 ---
-title: "İkiz Höyük | Miras Haritası"
-date: 2025-12-25T07:03:56+03:00
+title: "İkiz Höyük"
+date: "2025-12-25T07:03:56+03:00"
 slug: "ikiz-hoyuk"
 description: "**İkiz Höyük: Türkiye'nin Gizli Arkeolojik Mirası**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İkiz Höyük: Türkiye'nin Gizli Arkeolojik Mirası**

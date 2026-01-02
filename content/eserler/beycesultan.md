@@ -1,18 +1,17 @@
 ---
-title: "Beycesultan | Miras Haritası"
-date: 2025-12-25T05:44:41+03:00
+title: "Beycesultan"
+date: "2025-12-25T05:44:41+03:00"
 slug: "beycesultan"
 description: "## Beycesultan: Geçmişin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Beycesultan.jpg/1200px-Beycesultan.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.7,38.25"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Beycesultan: Geçmişin Gizemi

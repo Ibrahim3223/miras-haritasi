@@ -1,18 +1,17 @@
 ---
-title: "İnebey Medresesi | Miras Haritası"
-date: 2025-12-25T17:42:24+03:00
+title: "İnebey Medresesi"
+date: "2025-12-25T17:42:24+03:00"
 slug: "inebey-medresesi"
 description: "## İnebey Medresesi: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0610638,40.1826553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnebey Medresesi: Bursa'nın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "İş Sağlığı ve İş Güvenliği Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:19+03:00
+title: "İş Sağlığı ve İş Güvenliği Müzesi"
+date: "2025-12-25T04:04:19+03:00"
 slug: "is-sagligi-ve-is-guvenligi-muzesi"
 description: "## İş Sağlığı ve İş Güvenliği Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.699245986,39.952603244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İş Sağlığı ve İş Güvenliği Müzesi

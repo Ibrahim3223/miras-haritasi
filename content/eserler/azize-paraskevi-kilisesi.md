@@ -1,18 +1,17 @@
 ---
-title: "Azize Paraskevi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:12+03:00
+title: "Azize Paraskevi Kilisesi"
+date: "2025-12-25T09:34:12+03:00"
 slug: "azize-paraskevi-kilisesi"
 description: "# Azize Paraskevi Kilisesi..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Çınarcık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9555244,40.6165314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Azize Paraskevi Kilisesi

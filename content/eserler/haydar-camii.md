@@ -1,18 +1,17 @@
 ---
-title: "Haydar Camii | Miras Haritası"
-date: 2025-12-24T22:55:17+03:00
+title: "Haydar Camii"
+date: "2025-12-24T22:55:17+03:00"
 slug: "haydar-camii"
 description: "## Haydar Camii: Cibali'nin Değerli Mirası..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cibali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.956369,41.022381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haydar Camii: Cibali'nin Değerli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Süngübayırı Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:18+03:00
+title: "Süngübayırı Şehitliği"
+date: "2025-12-25T16:03:18+03:00"
 slug: "sungubayiri-sehitligi"
 description: "## Süngübayırı Şehitliği: Eceabat'ta Anıtsal Yeri..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2817574,40.2164268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süngübayırı Şehitliği: Eceabat'ta Anıtsal Yeri

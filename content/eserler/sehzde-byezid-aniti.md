@@ -1,18 +1,17 @@
 ---
-title: "Şehzâde Bâyezid Anıtı | Miras Haritası"
-date: 2025-12-25T15:52:01+03:00
+title: "Şehzâde Bâyezid Anıtı"
+date: "2025-12-25T15:52:01+03:00"
 slug: "sehzde-byezid-aniti"
 description: "## Şehzâde Bâyezid Anıtı..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8407936,40.6532059"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehzâde Bâyezid Anıtı

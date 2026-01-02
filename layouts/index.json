@@ -1,20 +1,5 @@
-{
-    {- $.Scratch.Add "index" slice -
-    }
-}
-{
-    {- range .Site.RegularPages -
-    }
-}
-    {
-    {- $.Scratch.Add "index" (dict "title" .Title "permalink" .Permalink "summary" .Summary "image" .Params.image "type" .Params.type "province" .Params.province) -
-    }
-}
-{
-    {- end -
-    }
-}
-{
-    {- $.Scratch.Get "index" | jsonify -
-    }
-}
+{{- $.Scratch.Add "index" slice -}}
+{{- range .Site.RegularPages -}}
+    {{- $.Scratch.Add "index" (dict "title" .Title "permalink" .Permalink "summary" (.Summary | plainify | truncate 100) "image" (.Params.image | default .Params.featured_image) "type" .Params.type "province" .Params.province "district" .Params.district) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

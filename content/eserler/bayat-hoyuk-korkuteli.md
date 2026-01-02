@@ -1,18 +1,17 @@
 ---
-title: "Bayat Höyük, Korkuteli | Miras Haritası"
-date: 2025-12-25T06:07:39+03:00
+title: "Bayat Höyük, Korkuteli"
+date: "2025-12-25T06:07:39+03:00"
 slug: "bayat-hoyuk-korkuteli"
 description: "### Bayat Höyük, Korkuteli..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.3169994,37.0399017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayat Höyük, Korkuteli

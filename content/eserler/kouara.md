@@ -1,18 +1,17 @@
 ---
-title: "Kouara | Miras Haritası"
-date: 2025-12-25T05:06:59+03:00
+title: "Kouara"
+date: "2025-12-25T05:06:59+03:00"
 slug: "kouara"
 description: "### Kouara Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.693248,38.581202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kouara Arkeolojik Sit

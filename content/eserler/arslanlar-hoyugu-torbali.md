@@ -1,18 +1,17 @@
 ---
-title: "Arslanlar Höyüğü, Torbalı | Miras Haritası"
-date: 2025-12-25T06:03:40+03:00
+title: "Arslanlar Höyüğü, Torbalı"
+date: "2025-12-25T06:03:40+03:00"
 slug: "arslanlar-hoyugu-torbali"
 description: "# Arslanlar Höyüğü, Torbalı: İzmir'in Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4091473,38.1706429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arslanlar Höyüğü, Torbalı: İzmir'in Gizli Kahramanı

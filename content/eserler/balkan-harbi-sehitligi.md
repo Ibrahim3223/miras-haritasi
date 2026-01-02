@@ -1,18 +1,17 @@
 ---
-title: "Balkan Harbi Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:54+03:00
+title: "Balkan Harbi Şehitliği"
+date: "2025-12-25T16:03:54+03:00"
 slug: "balkan-harbi-sehitligi"
 description: "## Balkan Harbi Şehitliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4551678,41.4894791"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balkan Harbi Şehitliği

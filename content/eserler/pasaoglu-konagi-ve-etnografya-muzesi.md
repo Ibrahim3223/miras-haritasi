@@ -1,18 +1,17 @@
 ---
-title: "Paşaoğlu Konağı ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:15+03:00
+title: "Paşaoğlu Konağı ve Etnografya Müzesi"
+date: "2025-12-25T03:50:15+03:00"
 slug: "pasaoglu-konagi-ve-etnografya-muzesi"
 description: "## Paşaoğlu Konağı ve Etnografya Müzesi: Altınordu'nun Kültür Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.875168,40.982889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşaoğlu Konağı ve Etnografya Müzesi: Altınordu'nun Kültür Mirası

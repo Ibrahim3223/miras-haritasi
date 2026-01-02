@@ -1,18 +1,17 @@
 ---
-title: "Çıralı Düzler Camii | Miras Haritası"
-date: 2025-12-25T01:02:11+03:00
+title: "Çıralı Düzler Camii"
+date: "2025-12-25T01:02:11+03:00"
 slug: "cirali-duzler-camii"
 description: "## Çıralı Düzler Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5815998,40.8982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çıralı Düzler Camii: Artvin'in Tarihi Bir Mirası

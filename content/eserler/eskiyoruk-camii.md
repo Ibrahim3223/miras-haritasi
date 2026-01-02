@@ -1,18 +1,17 @@
 ---
-title: "Eskiyörük Camii | Miras Haritası"
-date: 2025-12-25T00:11:57+03:00
+title: "Eskiyörük Camii"
+date: "2025-12-25T00:11:57+03:00"
 slug: "eskiyoruk-camii"
 description: "## Eskiyörük Camii: Antalya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0995339,36.9184319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskiyörük Camii: Antalya'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Çıralı Merkez Camii | Miras Haritası"
-date: 2025-12-25T01:02:44+03:00
+title: "Çıralı Merkez Camii"
+date: "2025-12-25T01:02:44+03:00"
 slug: "cirali-merkez-camii"
 description: "### Çıralı Merkez Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5270654,40.8106038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çıralı Merkez Camii: Artvin'in Tarihi Bir Mirası

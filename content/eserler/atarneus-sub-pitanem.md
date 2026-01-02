@@ -1,18 +1,17 @@
 ---
-title: "Atarneus sub Pitanem | Miras Haritası"
-date: 2025-12-25T04:42:53+03:00
+title: "Atarneus sub Pitanem"
+date: "2025-12-25T04:42:53+03:00"
 slug: "atarneus-sub-pitanem"
 description: "**Atarneus sub Pitanem: Antik Çağın Gizemi**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.85959,38.928313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Atarneus sub Pitanem: Antik Çağın Gizemi**

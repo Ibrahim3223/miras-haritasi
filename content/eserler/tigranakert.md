@@ -1,18 +1,17 @@
 ---
-title: "Tigranakert | Miras Haritası"
-date: 2025-12-25T04:21:53+03:00
+title: "Tigranakert"
+date: "2025-12-25T04:21:53+03:00"
 slug: "tigranakert"
 description: "### Tigranakert: Diyarbakır'ın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Location_of_Tigranocerta_within_the_Kingdom_Armenia.png/1200px-Location_of_Tigranocerta_within_the_Kingdom_Armenia.png"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.00138889,38.14222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Tigranakert: Diyarbakır'ın Gizli Mirası

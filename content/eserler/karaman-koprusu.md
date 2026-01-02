@@ -1,18 +1,17 @@
 ---
-title: "Karaman Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:01+03:00
+title: "Karaman Köprüsü"
+date: "2025-12-25T02:43:01+03:00"
 slug: "karaman-koprusu"
 description: "## Karaman Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.773252508,37.551663923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaman Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Kusunlar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:36:07+03:00
+title: "Kusunlar Höyüğü"
+date: "2025-12-25T06:36:07+03:00"
 slug: "kusunlar-hoyugu"
 description: "## Kusunlar Höyüğü: Ankara'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.9561462,39.8856354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kusunlar Höyüğü: Ankara'nın Gizli Kahramanı

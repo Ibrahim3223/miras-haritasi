@@ -1,18 +1,17 @@
 ---
-title: "Ardıç Tekke Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:10+03:00
+title: "Ardıç Tekke Türbesi"
+date: "2025-12-25T15:04:10+03:00"
 slug: "ardic-tekke-turbesi"
 description: "## Ardıç Tekke Türbesi: Honaz'ın Gizli Anıtı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.3612309,37.8067017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ardıç Tekke Türbesi: Honaz'ın Gizli Anıtı

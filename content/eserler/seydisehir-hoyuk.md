@@ -1,18 +1,17 @@
 ---
-title: "Seydişehir Höyük | Miras Haritası"
-date: 2025-12-25T13:50:41+03:00
+title: "Seydişehir Höyük"
+date: "2025-12-25T13:50:41+03:00"
 slug: "seydisehir-hoyuk"
 description: "## Seydişehir Höyük: Türkiye'nin Gizli Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.8669701,37.4515648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seydişehir Höyük: Türkiye'nin Gizli Anıtı

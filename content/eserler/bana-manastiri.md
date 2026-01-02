@@ -1,18 +1,17 @@
 ---
-title: "Bana Manastırı | Miras Haritası"
-date: 2025-12-25T08:38:38+03:00
+title: "Bana Manastırı"
+date: "2025-12-25T08:38:38+03:00"
 slug: "bana-manastiri"
 description: "## Bana Manastırı: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bana_cathedral_-_Şenkaya.jpg/1200px-Bana_cathedral_-_Şenkaya.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.269961,40.668061"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bana Manastırı: Erzurum'un Tarihi ve Kültürel Mirası

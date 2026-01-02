@@ -1,18 +1,17 @@
 ---
-title: "Karataş Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:28+03:00
+title: "Karataş Camii Çeşmesi"
+date: "2025-12-25T11:36:28+03:00"
 slug: "karatas-camii-cesmesi"
 description: "### Karataş Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4149132,37.9288177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karataş Camii Çeşmesi

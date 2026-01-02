@@ -1,18 +1,17 @@
 ---
-title: "Yağma Höyük | Miras Haritası"
-date: 2025-12-25T06:06:26+03:00
+title: "Yağma Höyük"
+date: "2025-12-25T06:06:26+03:00"
 slug: "yagma-hoyuk"
 description: "### Yağma Höyük: Karapınar, Konya'daki Önemli Arkeolojik Sit..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karapınar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.7329216,37.815239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yağma Höyük: Karapınar, Konya'daki Önemli Arkeolojik Sit

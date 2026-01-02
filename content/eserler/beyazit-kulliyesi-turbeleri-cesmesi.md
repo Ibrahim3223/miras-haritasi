@@ -1,18 +1,17 @@
 ---
-title: "Beyazıt Külliyesi Türbeleri Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:00:09+03:00
+title: "Beyazıt Külliyesi Türbeleri Çeşmesi"
+date: "2025-12-25T13:00:09+03:00"
 slug: "beyazit-kulliyesi-turbeleri-cesmesi"
 description: "### Beyazıt Külliyesi Türbeleri Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Beyazıt"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.965759,41.0097889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beyazıt Külliyesi Türbeleri Çeşmesi

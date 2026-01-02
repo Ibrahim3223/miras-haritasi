@@ -1,18 +1,17 @@
 ---
-title: "Kilci Camii | Miras Haritası"
-date: 2025-12-25T00:27:48+03:00
+title: "Kilci Camii"
+date: "2025-12-25T00:27:48+03:00"
 slug: "kilci-camii"
 description: "**Kilci Camii: Safranbolu'da Bir Önemli Cami**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kilci_Camii.jpg/1200px-Kilci_Camii.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.6902161,41.2493324"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Kilci Camii: Safranbolu'da Bir Önemli Cami**

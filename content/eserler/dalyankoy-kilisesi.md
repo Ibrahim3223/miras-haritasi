@@ -1,18 +1,17 @@
 ---
-title: "Dalyanköy Kilisesi | Miras Haritası"
-date: 2025-12-25T09:20:31+03:00
+title: "Dalyanköy Kilisesi"
+date: "2025-12-25T09:20:31+03:00"
 slug: "dalyankoy-kilisesi"
 description: "## Dalyanköy Kilisesi: Çeşme'nin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.3101006,38.3530998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dalyanköy Kilisesi: Çeşme'nin Gizli Cenneti

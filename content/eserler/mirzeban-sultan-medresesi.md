@@ -1,18 +1,17 @@
 ---
-title: "Mirzeban Sultan Medresesi | Miras Haritası"
-date: 2025-12-25T17:31:33+03:00
+title: "Mirzeban Sultan Medresesi"
+date: "2025-12-25T17:31:33+03:00"
 slug: "mirzeban-sultan-medresesi"
 description: "**Mirzeban Sultan Medresesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.970772,41.002449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mirzeban Sultan Medresesi**

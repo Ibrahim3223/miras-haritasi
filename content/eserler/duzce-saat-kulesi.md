@@ -1,18 +1,17 @@
 ---
-title: "Düzce Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:32+03:00
+title: "Düzce Saat Kulesi"
+date: "2025-12-25T17:18:32+03:00"
 slug: "duzce-saat-kulesi"
 description: "## Düzce Saat Kulesi: Tarihe ve Güzelliğe Sahip Bir Miras..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "31.151666666,40.841944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düzce Saat Kulesi: Tarihe ve Güzelliğe Sahip Bir Miras

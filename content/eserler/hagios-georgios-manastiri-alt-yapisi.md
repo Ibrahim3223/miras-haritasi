@@ -1,18 +1,17 @@
 ---
-title: "Hagios Georgios Manastırı Alt Yapısı | Miras Haritası"
-date: 2025-12-25T10:00:17+03:00
+title: "Hagios Georgios Manastırı Alt Yapısı"
+date: "2025-12-25T10:00:17+03:00"
 slug: "hagios-georgios-manastiri-alt-yapisi"
 description: "## Hagios Georgios Manastırı Alt Yapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "28.986734783,41.010869079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hagios Georgios Manastırı Alt Yapısı

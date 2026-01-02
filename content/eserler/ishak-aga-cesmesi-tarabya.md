@@ -1,18 +1,17 @@
 ---
-title: "İshak Ağa Çeşmesi, Tarabya | Miras Haritası"
-date: 2025-12-25T13:10:15+03:00
+title: "İshak Ağa Çeşmesi, Tarabya"
+date: "2025-12-25T13:10:15+03:00"
 slug: "ishak-aga-cesmesi-tarabya"
 description: "## İshak Ağa Çeşmesi: İstanbul'un Tarabya Köyünde Gizli Kalan Bir Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/İshak_Ağa_Çeşmesi,_Tarabya_IMG_6793.jpg/1200px-İshak_Ağa_Çeşmesi,_Tarabya_IMG_6793.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.056633,41.1403656"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İshak Ağa Çeşmesi: İstanbul'un Tarabya Köyünde Gizli Kalan Bir Kültür Mirası

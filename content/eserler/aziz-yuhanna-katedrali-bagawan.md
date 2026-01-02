@@ -1,18 +1,17 @@
 ---
-title: "Aziz Yuhanna Katedrali (Bagawan) | Miras Haritası"
-date: 2025-12-25T08:40:18+03:00
+title: "Aziz Yuhanna Katedrali (Bagawan)"
+date: "2025-12-25T08:40:18+03:00"
 slug: "aziz-yuhanna-katedrali-bagawan"
 description: "### Aziz Yuhanna Katedrali (Bagawan): Taşteker'in Gizli Çehresini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/St_John_the_Baptists_monastery_of_Bagavan.jpg/1200px-St_John_the_Baptists_monastery_of_Bagavan.jpg"
 province: "Taşlıçay"
-iller: ["Taşlıçay"]
+iller: '["Taşlıçay"]'
 district: "Taşteker"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.51722,39.61194"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Aziz Yuhanna Katedrali (Bagawan): Taşteker'in Gizli Çehresini Keşfedin

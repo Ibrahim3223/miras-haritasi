@@ -1,18 +1,17 @@
 ---
-title: "Sos Höyük | Miras Haritası"
-date: 2025-12-25T07:04:51+03:00
+title: "Sos Höyük"
+date: "2025-12-25T07:04:51+03:00"
 slug: "sos-hoyuk"
 description: "## Sos Höyük: Erzurum'un Gizli Kahramanı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Pasinler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.5222054,39.9937477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sos Höyük: Erzurum'un Gizli Kahramanı

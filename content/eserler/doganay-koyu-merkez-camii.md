@@ -1,18 +1,17 @@
 ---
-title: "Doğanay Köyü Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:35:18+03:00
+title: "Doğanay Köyü Merkez Camii"
+date: "2025-12-24T22:35:18+03:00"
 slug: "doganay-koyu-merkez-camii"
 description: "### Doğanay Köyü Merkez Camii: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Rize"
+province: "Rize"
+iller: '["Rize"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.0764999,41.1292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doğanay Köyü Merkez Camii: Rize'nin Tarihi ve Kültürel Mirası

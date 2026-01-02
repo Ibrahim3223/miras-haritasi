@@ -1,18 +1,17 @@
 ---
-title: "Saraçlar Camii (Kastamonu) | Miras Haritası"
-date: 2025-12-24T22:42:33+03:00
+title: "Saraçlar Camii (Kastamonu)"
+date: "2025-12-24T22:42:33+03:00"
 slug: "saraclar-camii-kastamonu"
 description: "### Saraçlar Camii: Kastamonu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7714043,41.3721809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saraçlar Camii: Kastamonu'nun Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Datçağız Kalesi | Miras Haritası"
-date: 2025-12-25T01:27:38+03:00
+title: "Datçağız Kalesi"
+date: "2025-12-25T01:27:38+03:00"
 slug: "datcagiz-kalesi"
 description: "### Datçağız Kalesi: Muğla'nın Tarihî Mirasının Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.0839691,37.0512962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Datçağız Kalesi: Muğla'nın Tarihî Mirasının Gizemi

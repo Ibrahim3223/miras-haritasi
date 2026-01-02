@@ -1,18 +1,17 @@
 ---
-title: "Rezan Has Müzesi | Miras Haritası"
-date: 2025-12-25T03:23:59+03:00
+title: "Rezan Has Müzesi"
+date: "2025-12-25T03:23:59+03:00"
 slug: "rezan-has-muzesi"
 description: "## Rezan Has Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ESERLER.jpg/1200px-ESERLER.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.95969,41.02401"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Rezan Has Müzesi

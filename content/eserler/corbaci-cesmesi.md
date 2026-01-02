@@ -1,18 +1,18 @@
 ---
-title: "Çorbacı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:11:29+03:00
+title: "Çorbacı Çeşmesi"
+date: "2025-12-25T10:11:29+03:00"
 slug: "corbaci-cesmesi"
 description: "## Çorbacı Çeşmesi: Çorum'un Tarihî Çeşmesindeki Gizem..."
-featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Çorbacı_Fountain_(1).jpg/1200px-Çorbacı_Fountain_(1).jpg"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9580994,40.5478249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Çorbacı_Fountain_(1).jpg/1200px-Çorbacı_Fountain_(1).jpg"
 ---
 
 ## Çorbacı Çeşmesi: Çorum'un Tarihî Çeşmesindeki Gizem

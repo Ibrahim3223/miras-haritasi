@@ -1,18 +1,17 @@
 ---
-title: "Gülbuy Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:25+03:00
+title: "Gülbuy Kadın Çeşmesi"
+date: "2025-12-25T13:01:25+03:00"
 slug: "gulbuy-kadin-cesmesi"
 description: "## Gülbuy Kadın Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cerrahpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9394817,41.0076294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülbuy Kadın Çeşmesi: Fatih'in Gizli Çeşmesi

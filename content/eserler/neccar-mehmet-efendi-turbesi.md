@@ -1,18 +1,17 @@
 ---
-title: "Neccar Mehmet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:04+03:00
+title: "Neccar Mehmet Efendi Türbesi"
+date: "2025-12-25T14:39:04+03:00"
 slug: "neccar-mehmet-efendi-turbesi"
 description: "## Neccar Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.943091,41.018756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neccar Mehmet Efendi Türbesi

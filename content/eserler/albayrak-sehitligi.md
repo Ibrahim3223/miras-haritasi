@@ -1,18 +1,17 @@
 ---
-title: "Albayrak Şehitliği | Miras Haritası"
-date: 2025-12-25T16:04:02+03:00
+title: "Albayrak Şehitliği"
+date: "2025-12-25T16:04:02+03:00"
 slug: "albayrak-sehitligi"
 description: "## Albayrak Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2855854,40.2173767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Albayrak Şehitliği

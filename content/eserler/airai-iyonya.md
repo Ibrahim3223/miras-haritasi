@@ -1,18 +1,17 @@
 ---
-title: "Airai (İyonya) | Miras Haritası"
-date: 2025-12-25T08:09:23+03:00
+title: "Airai (İyonya)"
+date: "2025-12-25T08:09:23+03:00"
 slug: "airai-iyonya"
 description: "## Airai: İyonya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6859,38.2045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Airai: İyonya'nın Gizemli Arkeolojik Sitleri

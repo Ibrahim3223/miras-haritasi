@@ -1,18 +1,17 @@
 ---
-title: "Gürcü Mehmet Paşa Çeşmesi, Hırka-ı Şerif | Miras Haritası"
-date: 2025-12-25T11:55:02+03:00
+title: "Gürcü Mehmet Paşa Çeşmesi, Hırka-ı Şerif"
+date: "2025-12-25T11:55:02+03:00"
 slug: "gurcu-mehmet-pasa-cesmesi-hirka-i-serif"
 description: "### Gürcü Mehmet Paşa Çeşmesi, Hırka-ı Şerif..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.93915,41.021637"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gürcü Mehmet Paşa Çeşmesi, Hırka-ı Şerif

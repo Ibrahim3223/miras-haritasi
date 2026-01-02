@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Kutbiddin Camii ve Türbesi | Miras Haritası"
-date: 2025-12-24T22:05:38+03:00
+title: "Seyyid Kutbiddin Camii ve Türbesi"
+date: "2025-12-24T22:05:38+03:00"
 slug: "seyyid-kutbiddin-camii-ve-turbesi"
 description: "## Seyyid Kutbiddin Camii ve Türbesi..."
 featured_image: ""
 province: "İlkadım"
-iller: ["İlkadım"]
+iller: '["İlkadım"]'
 district: "Kökçüoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.326361111,41.294555555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Kutbiddin Camii ve Türbesi

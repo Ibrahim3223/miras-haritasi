@@ -1,18 +1,17 @@
 ---
-title: "Stratonikeia Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:43+03:00
+title: "Stratonikeia Roma Hamamı"
+date: "2025-12-25T16:50:43+03:00"
 slug: "stratonikeia-roma-hamami"
 description: "### Stratonikeia Roma Hamamı: Muğla'nın Tarihî Mirasının Gizli Öreni..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.0645962,37.3132477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Stratonikeia Roma Hamamı: Muğla'nın Tarihî Mirasının Gizli Öreni

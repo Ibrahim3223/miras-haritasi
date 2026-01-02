@@ -1,18 +1,17 @@
 ---
-title: "Gençali Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:24+03:00
+title: "Gençali Türbesi"
+date: "2025-12-25T14:49:24+03:00"
 slug: "gencali-turbesi"
 description: "## Gençali Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4646053,40.0380287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gençali Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Şemseddin Sivâsî Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:38+03:00
+title: "Şemseddin Sivâsî Türbesi"
+date: "2025-12-25T14:26:38+03:00"
 slug: "semseddin-sivs-turbesi"
 description: "## Şemseddin Sivâsî Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0201721,39.7495003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şemseddin Sivâsî Türbesi

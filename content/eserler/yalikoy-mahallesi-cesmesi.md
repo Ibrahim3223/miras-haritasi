@@ -1,18 +1,17 @@
 ---
-title: "Yalıköy Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:56+03:00
+title: "Yalıköy Mahallesi Çeşmesi"
+date: "2025-12-25T10:17:56+03:00"
 slug: "yalikoy-mahallesi-cesmesi"
 description: "## Yalıköy Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Bulancak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.298962,40.932157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalıköy Mahallesi Çeşmesi

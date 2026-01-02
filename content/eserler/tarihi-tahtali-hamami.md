@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Tahtalı Hamamı | Miras Haritası"
-date: 2025-12-25T16:33:47+03:00
+title: "Tarihi Tahtalı Hamamı"
+date: "2025-12-25T16:33:47+03:00"
 slug: "tarihi-tahtali-hamami"
 description: "### Tarihi Tahtalı Hamamı: Malatya'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.3057015,38.3460526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tarihi Tahtalı Hamamı: Malatya'nın Gizli Çehresini Keşfetmek

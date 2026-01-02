@@ -1,18 +1,17 @@
 ---
-title: "Arap Şeyh Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:45+03:00
+title: "Arap Şeyh Türbesi"
+date: "2025-12-25T14:55:45+03:00"
 slug: "arap-seyh-turbesi"
 description: "### Arap Şeyh Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2434883,37.9093819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arap Şeyh Türbesi

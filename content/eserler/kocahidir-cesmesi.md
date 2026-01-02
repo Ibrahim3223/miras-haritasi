@@ -1,18 +1,17 @@
 ---
-title: "Kocahıdır Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:46:18+03:00
+title: "Kocahıdır Çeşmesi"
+date: "2025-12-25T11:46:18+03:00"
 slug: "kocahidir-cesmesi"
 description: "# Kocahıdır Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kırklareli_Kocahıdır_Ilk_Ögretim_Okulu_0019.jpg/1200px-Kırklareli_Kocahıdır_Ilk_Ögretim_Okulu_0019.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.226515996,41.734561261"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kocahıdır Çeşmesi

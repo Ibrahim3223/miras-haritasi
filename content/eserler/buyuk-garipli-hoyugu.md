@@ -1,18 +1,17 @@
 ---
-title: "Büyük Garipli Höyüğü | Miras Haritası"
-date: 2025-12-25T06:06:38+03:00
+title: "Büyük Garipli Höyüğü"
+date: "2025-12-25T06:06:38+03:00"
 slug: "buyuk-garipli-hoyugu"
 description: "## Büyük Garipli Höyüğü..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.587439969,39.208205379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Garipli Höyüğü

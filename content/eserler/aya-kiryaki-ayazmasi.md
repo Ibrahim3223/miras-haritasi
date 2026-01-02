@@ -1,18 +1,17 @@
 ---
-title: "Aya Kiryaki Ayazması | Miras Haritası"
-date: 2025-12-25T12:42:46+03:00
+title: "Aya Kiryaki Ayazması"
+date: "2025-12-25T12:42:46+03:00"
 slug: "aya-kiryaki-ayazmasi"
 description: "**Ayazma: Beykoz'un Gizli Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aya_Kiryaki_Ayazmas_1761589351.jpg/1200px-Aya_Kiryaki_Ayazmas_1761589351.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0956478,41.1156349"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ayazma: Beykoz'un Gizli Çeşmesi**

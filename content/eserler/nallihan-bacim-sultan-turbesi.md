@@ -1,18 +1,17 @@
 ---
-title: "Nallıhan Bacım Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:42+03:00
+title: "Nallıhan Bacım Sultan Türbesi"
+date: "2025-12-25T14:34:42+03:00"
 slug: "nallihan-bacim-sultan-turbesi"
 description: "## Nallıhan Bacım Sultan Türbesi: Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Nallıhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.2055473,40.1433525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nallıhan Bacım Sultan Türbesi: Tarihi ve Kültürel Mirasının Gizemi

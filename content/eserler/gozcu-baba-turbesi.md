@@ -1,18 +1,17 @@
 ---
-title: "Gözcü Baba Türbesi | Miras Haritası"
-date: 2025-12-25T13:37:26+03:00
+title: "Gözcü Baba Türbesi"
+date: "2025-12-25T13:37:26+03:00"
 slug: "gozcu-baba-turbesi"
 description: "# Gözcü Baba Türbesi: Kadıköy'ün Efsanevi Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gözcü_Baba_Türbesi.jpg/1200px-Gözcü_Baba_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0701885,40.9869461"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Gözcü Baba Türbesi: Kadıköy'ün Efsanevi Anıtı

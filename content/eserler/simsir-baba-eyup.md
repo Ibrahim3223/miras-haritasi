@@ -1,18 +1,17 @@
 ---
-title: "Şimşir Baba, Eyüp | Miras Haritası"
-date: 2025-12-25T13:24:27+03:00
+title: "Şimşir Baba, Eyüp"
+date: "2025-12-25T13:24:27+03:00"
 slug: "simsir-baba-eyup"
 description: "### Şimşir Baba Anıtını Keşfetmek..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9322109,41.0492935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şimşir Baba Anıtını Keşfetmek

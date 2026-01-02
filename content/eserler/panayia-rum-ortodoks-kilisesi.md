@@ -1,18 +1,17 @@
 ---
-title: "Panayia Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T08:53:54+03:00
+title: "Panayia Rum Ortodoks Kilisesi"
+date: "2025-12-25T08:53:54+03:00"
 slug: "panayia-rum-ortodoks-kilisesi"
 description: "## Panayia Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.005388888,41.043666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panayia Rum Ortodoks Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Mollaveyis Köprüsü | Miras Haritası"
-date: 2025-12-25T02:10:51+03:00
+title: "Mollaveyis Köprüsü"
+date: "2025-12-25T02:10:51+03:00"
 slug: "mollaveyis-koprusu"
 description: "### Mollaveyis Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.964333,40.9846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mollaveyis Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Köyü VII Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:39:20+03:00
+title: "Elmalı Köyü VII Tümülüsü"
+date: "2025-12-25T07:39:20+03:00"
 slug: "elmali-koyu-vii-tumulusu"
 description: "## Elmalı Köyü VII Tümülüsü: Biga'nın Gizli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.256506,40.163208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elmalı Köyü VII Tümülüsü: Biga'nın Gizli Anıtı

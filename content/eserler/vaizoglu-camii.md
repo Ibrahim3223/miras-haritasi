@@ -1,18 +1,17 @@
 ---
-title: "Vaizoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:16:49+03:00
+title: "Vaizoğlu Camii"
+date: "2025-12-24T23:16:49+03:00"
 slug: "vaizoglu-camii"
 description: "### Vaizoğlu Camii: Kars'ın Tarihi Bir Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.0896225,40.6122246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Vaizoğlu Camii: Kars'ın Tarihi Bir Anıtı

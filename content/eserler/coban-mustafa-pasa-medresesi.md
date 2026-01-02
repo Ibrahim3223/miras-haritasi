@@ -1,18 +1,17 @@
 ---
-title: "Çoban Mustafa Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:33:51+03:00
+title: "Çoban Mustafa Paşa Medresesi"
+date: "2025-12-25T17:33:51+03:00"
 slug: "coban-mustafa-pasa-medresesi"
 description: "## Çoban Mustafa Paşa Medresesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.4323769,40.8000565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Mustafa Paşa Medresesi

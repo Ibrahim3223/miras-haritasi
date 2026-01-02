@@ -1,18 +1,17 @@
 ---
-title: "Ayios Vasilios Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:12+03:00
+title: "Ayios Vasilios Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:13:12+03:00"
 slug: "ayios-vasilios-rum-ortodoks-kilisesi"
 description: "## Ayios Vasilios Rum Ortodoks Kilisesi - Kayseri'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.574816,38.714871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Vasilios Rum Ortodoks Kilisesi - Kayseri'nin Gizli Çehresini Keşfetmek

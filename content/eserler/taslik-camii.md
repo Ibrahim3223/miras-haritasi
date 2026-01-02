@@ -1,18 +1,17 @@
 ---
-title: "Taşlık Camii | Miras Haritası"
-date: 2025-12-24T23:15:59+03:00
+title: "Taşlık Camii"
+date: "2025-12-24T23:15:59+03:00"
 slug: "taslik-camii"
 description: "## Edirne'nin Taşlık Camii: Tarihsel ve Kültürel Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taşlık_Camii.jpg/1200px-Taşlık_Camii.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5642986,41.6756134"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Edirne'nin Taşlık Camii: Tarihsel ve Kültürel Bir Anıt

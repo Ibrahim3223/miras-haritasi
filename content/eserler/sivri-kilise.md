@@ -1,18 +1,17 @@
 ---
-title: "Sivri Kilise | Miras Haritası"
-date: 2025-12-25T09:34:52+03:00
+title: "Sivri Kilise"
+date: "2025-12-25T09:34:52+03:00"
 slug: "sivri-kilise"
 description: "### Sivri Kilise: Niğde'nin Gizli Çehresindeki Tarihi Bir Ören..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Altunhisar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.3838005,38.0020599"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sivri Kilise: Niğde'nin Gizli Çehresindeki Tarihi Bir Ören

@@ -1,18 +1,17 @@
 ---
-title: "Balaban Tekkesi Mescidi | Miras Haritası"
-date: 2025-12-24T21:47:09+03:00
+title: "Balaban Tekkesi Mescidi"
+date: "2025-12-24T21:47:09+03:00"
 slug: "balaban-tekkesi-mescidi"
 description: "## Balaban Tekkesi Mescidi: Üsküdar'da bir Mimar Sinan Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Balaban_Tekkesi.JPG/1200px-Balaban_Tekkesi.JPG"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Mimar Sinan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.013972222,41.025277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Balaban Tekkesi Mescidi: Üsküdar'da bir Mimar Sinan Eseri

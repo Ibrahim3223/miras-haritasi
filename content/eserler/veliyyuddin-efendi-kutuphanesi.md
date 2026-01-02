@@ -1,18 +1,17 @@
 ---
-title: "Veliyyüddin Efendi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:04+03:00
+title: "Veliyyüddin Efendi Kütüphanesi"
+date: "2025-12-25T17:57:04+03:00"
 slug: "veliyyuddin-efendi-kutuphanesi"
 description: "## Veliyyüddin Efendi Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veliyyüddin Efendi Kütüphanesi

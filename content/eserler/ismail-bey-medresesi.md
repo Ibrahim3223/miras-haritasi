@@ -1,18 +1,17 @@
 ---
-title: "İsmail Bey Medresesi | Miras Haritası"
-date: 2025-12-25T17:35:57+03:00
+title: "İsmail Bey Medresesi"
+date: "2025-12-25T17:35:57+03:00"
 slug: "ismail-bey-medresesi"
 description: "## İsmail Bey Medresesi: Kastamonu'nun Görsel ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "33.7777138,41.3841248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmail Bey Medresesi: Kastamonu'nun Görsel ve Kültürel Mirası

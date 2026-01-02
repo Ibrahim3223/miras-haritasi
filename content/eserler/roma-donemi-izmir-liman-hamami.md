@@ -1,18 +1,17 @@
 ---
-title: "Roma Dönemi İzmir Liman Hamamı | Miras Haritası"
-date: 2025-12-25T16:28:00+03:00
+title: "Roma Dönemi İzmir Liman Hamamı"
+date: "2025-12-25T16:28:00+03:00"
 slug: "roma-donemi-izmir-liman-hamami"
 description: "### Roma Dönemi İzmir Liman Hamamı: Tarihî Bir Ölümsüzlük..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Roma_Dönemi_İzmir_Liman_Hamamı.jpg/1200px-Roma_Dönemi_İzmir_Liman_Hamamı.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.13075,38.420111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Roma Dönemi İzmir Liman Hamamı: Tarihî Bir Ölümsüzlük

@@ -1,18 +1,17 @@
 ---
-title: "Akköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:01+03:00
+title: "Akköy Köprüsü"
+date: "2025-12-25T02:37:01+03:00"
 slug: "akkoy-koprusu"
 description: "### Akköy Köprüsü: Giresun'un Ölümsüz Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çanakçı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.00045,40.897876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akköy Köprüsü: Giresun'un Ölümsüz Mirası

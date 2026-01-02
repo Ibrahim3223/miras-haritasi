@@ -1,18 +1,17 @@
 ---
-title: "Ebülhayir Sebili | Miras Haritası"
-date: 2025-12-25T13:09:38+03:00
+title: "Ebülhayir Sebili"
+date: "2025-12-25T13:09:38+03:00"
 slug: "ebulhayir-sebili"
 description: "## Ebülhayir Sebili: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9588432,41.0168991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebülhayir Sebili: Fatih'in Gizli Çeşmesi

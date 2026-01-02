@@ -1,18 +1,17 @@
 ---
-title: "Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:57:35+03:00
+title: "Roma Hamamı"
+date: "2025-12-25T16:57:35+03:00"
 slug: "roma-hamami"
 description: "## Roma Hamamı: Şanlıurfa'da Bir Antik Miras..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.782711,37.1498566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Hamamı: Şanlıurfa'da Bir Antik Miras

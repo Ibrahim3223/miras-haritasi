@@ -1,18 +1,17 @@
 ---
-title: "Hasanhacı Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:08:32+03:00
+title: "Hasanhacı Köyü Camii"
+date: "2025-12-25T00:08:32+03:00"
 slug: "hasanhaci-koyu-camii"
 description: "## Hasanhacı Köyü Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.0496445,40.5906143"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasanhacı Köyü Camii

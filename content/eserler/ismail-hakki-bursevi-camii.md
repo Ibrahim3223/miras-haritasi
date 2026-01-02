@@ -1,18 +1,17 @@
 ---
-title: "İsmail Hakkı Bursevi Camii | Miras Haritası"
-date: 2025-12-25T00:51:52+03:00
+title: "İsmail Hakkı Bursevi Camii"
+date: "2025-12-25T00:51:52+03:00"
 slug: "ismail-hakki-bursevi-camii"
 description: "### İsmail Hakkı Bursevi Camii..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0654106,40.1862068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsmail Hakkı Bursevi Camii

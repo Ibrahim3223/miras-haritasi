@@ -1,18 +1,17 @@
 ---
-title: "Hamdi Reis Sokak Çeşmesi, İnebolu | Miras Haritası"
-date: 2025-12-25T12:58:08+03:00
+title: "Hamdi Reis Sokak Çeşmesi, İnebolu"
+date: "2025-12-25T12:58:08+03:00"
 slug: "hamdi-reis-sokak-cesmesi-inebolu"
 description: "## Hamdi Reis Sokak Çeşmesi, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.753624707,41.976586634"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamdi Reis Sokak Çeşmesi, İnebolu

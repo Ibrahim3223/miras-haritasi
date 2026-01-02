@@ -1,18 +1,17 @@
 ---
-title: "Kırk Örüklü Bacı Türbesi | Miras Haritası"
-date: 2025-12-25T17:16:01+03:00
+title: "Kırk Örüklü Bacı Türbesi"
+date: "2025-12-25T17:16:01+03:00"
 slug: "kirk-oruklu-baci-turbesi"
 description: "### Kırk Örüklü Bacı Türbesi..."
 featured_image: ""
-province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: "Erzurum Vilayeti"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "39.4991837,39.7172203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırk Örüklü Bacı Türbesi

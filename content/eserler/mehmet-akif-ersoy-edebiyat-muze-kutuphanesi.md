@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Akif Ersoy Edebiyat Müze Kütüphanesi | Miras Haritası"
-date: 2025-12-25T03:12:23+03:00
+title: "Mehmet Akif Ersoy Edebiyat Müze Kütüphanesi"
+date: "2025-12-25T03:12:23+03:00"
 slug: "mehmet-akif-ersoy-edebiyat-muze-kutuphanesi"
 description: "## Mehmet Akif Ersoy Edebiyat Müze Kütüphanesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8669,39.932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Akif Ersoy Edebiyat Müze Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Hafize Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:08:15+03:00
+title: "Hafize Hanım Çeşmesi"
+date: "2025-12-25T10:08:15+03:00"
 slug: "hafize-hanim-cesmesi"
 description: "**Hafize Hanım Çeşmesi: İstanbullu Kadınların Yaptığı Tarihi Bir Çeşme**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hafize_Hanım_Çeşmesi.jpg/1200px-Hafize_Hanım_Çeşmesi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9468613,41.0344696"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Hafize Hanım Çeşmesi: İstanbullu Kadınların Yaptığı Tarihi Bir Çeşme**

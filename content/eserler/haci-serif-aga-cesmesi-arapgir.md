@@ -1,18 +1,17 @@
 ---
-title: "Hacı Şerif Ağa Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:24:37+03:00
+title: "Hacı Şerif Ağa Çeşmesi, Arapgir"
+date: "2025-12-25T12:24:37+03:00"
 slug: "haci-serif-aga-cesmesi-arapgir"
 description: "# Hacı Şerif Ağa Çeşmesi: Arapgir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.497143033,39.038961925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Şerif Ağa Çeşmesi: Arapgir'in Tarihî Bir Mirası

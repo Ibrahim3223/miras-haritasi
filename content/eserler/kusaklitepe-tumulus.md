@@ -1,18 +1,17 @@
 ---
-title: "Kusaklitepe Tumulus | Miras Haritası"
-date: 2025-12-25T07:30:29+03:00
+title: "Kusaklitepe Tumulus"
+date: "2025-12-25T07:30:29+03:00"
 slug: "kusaklitepe-tumulus"
 description: "## Kusaklitepe Tumulus..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.778088,38.574627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kusaklitepe Tumulus

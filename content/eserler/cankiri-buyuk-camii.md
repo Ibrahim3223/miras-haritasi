@@ -1,18 +1,17 @@
 ---
-title: "Çankırı Büyük Camii | Miras Haritası"
-date: 2025-12-24T21:46:51+03:00
+title: "Çankırı Büyük Camii"
+date: "2025-12-24T21:46:51+03:00"
 slug: "cankiri-buyuk-camii"
 description: "## Çankırı Büyük Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Büyükcamih.JPG/1200px-Büyükcamih.JPG"
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.617333333,40.6025"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çankırı Büyük Camii

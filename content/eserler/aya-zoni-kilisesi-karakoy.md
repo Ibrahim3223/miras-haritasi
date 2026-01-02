@@ -1,18 +1,17 @@
 ---
-title: "Aya Zoni Kilisesi, Karaköy | Miras Haritası"
-date: 2025-12-25T09:43:37+03:00
+title: "Aya Zoni Kilisesi, Karaköy"
+date: "2025-12-25T09:43:37+03:00"
 slug: "aya-zoni-kilisesi-karakoy"
 description: "### Aya Zoni Kilisesi, Karaköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.979014297,41.024816748"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Zoni Kilisesi, Karaköy

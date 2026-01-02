@@ -1,18 +1,17 @@
 ---
-title: "Serçe Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:00+03:00
+title: "Serçe Sokak Çeşmesi"
+date: "2025-12-25T10:31:00+03:00"
 slug: "serce-sokak-cesmesi"
 description: "## Serçe Sokak Çeşmesi: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuyucak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.459547,37.9165688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Serçe Sokak Çeşmesi: Aydın'ın Gizli Çeşmesi

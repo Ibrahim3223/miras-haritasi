@@ -1,18 +1,17 @@
 ---
-title: "Gökçedere Höyüğü | Miras Haritası"
-date: 2025-12-25T06:40:41+03:00
+title: "Gökçedere Höyüğü"
+date: "2025-12-25T06:40:41+03:00"
 slug: "gokcedere-hoyugu"
 description: "## Gökçedere Höyüğü: Demirözü'ndeki Antik Miras..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.7519345,40.1312547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökçedere Höyüğü: Demirözü'ndeki Antik Miras

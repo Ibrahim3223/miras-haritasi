@@ -1,18 +1,17 @@
 ---
-title: "Lengerhane Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:40+03:00
+title: "Lengerhane Çeşmesi"
+date: "2025-12-25T11:05:40+03:00"
 slug: "lengerhane-cesmesi"
 description: "### Lengerhane Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lengerhane_Çeşmesi_IMG_0489.jpg/1200px-Lengerhane_Çeşmesi_IMG_0489.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9490566,41.0431671"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Lengerhane Çeşmesi

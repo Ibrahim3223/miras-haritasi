@@ -1,18 +1,17 @@
 ---
-title: "Tekke Mahallesi Camii | Miras Haritası"
-date: 2025-12-24T23:55:57+03:00
+title: "Tekke Mahallesi Camii"
+date: "2025-12-24T23:55:57+03:00"
 slug: "tekke-mahallesi-camii"
 description: "## Tekke Mahallesi Camii: Bozüyük'teki Bir Kutsal Anıt..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0363007,39.9107361"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekke Mahallesi Camii: Bozüyük'teki Bir Kutsal Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Hançerkale | Miras Haritası"
-date: 2025-12-25T08:16:26+03:00
+title: "Hançerkale"
+date: "2025-12-25T08:16:26+03:00"
 slug: "hancerkale"
 description: "## Hançerkale: Mersin'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hançerkale.JPG/1200px-Hançerkale.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.98333333,36.51666667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hançerkale: Mersin'in Gizli Cenneti

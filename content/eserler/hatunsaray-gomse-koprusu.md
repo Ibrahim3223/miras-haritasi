@@ -1,18 +1,17 @@
 ---
-title: "Hatunsaray Gömse Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:49+03:00
+title: "Hatunsaray Gömse Köprüsü"
+date: "2025-12-25T02:26:49+03:00"
 slug: "hatunsaray-gomse-koprusu"
 description: "## Hatunsaray Gömse Köprüsü: Konya'nın Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.3341496,37.617849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatunsaray Gömse Köprüsü: Konya'nın Gizli Çehresini Açığa Çıkaran Bir Miras

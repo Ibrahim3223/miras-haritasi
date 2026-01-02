@@ -1,18 +1,17 @@
 ---
-title: "Kuru Höyük | Miras Haritası"
-date: 2025-12-25T05:59:05+03:00
+title: "Kuru Höyük"
+date: "2025-12-25T05:59:05+03:00"
 slug: "kuru-hoyuk"
 description: "## Kuru Höyük..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3651199,39.1732178"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuru Höyük

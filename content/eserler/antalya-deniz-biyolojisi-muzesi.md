@@ -1,18 +1,17 @@
 ---
-title: "Antalya Deniz Biyolojisi Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:41+03:00
+title: "Antalya Deniz Biyolojisi Müzesi"
+date: "2025-12-25T03:50:41+03:00"
 slug: "antalya-deniz-biyolojisi-muzesi"
 description: "## Antalya Deniz Biyolojisi Müzesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.7024994,36.8853378"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antalya Deniz Biyolojisi Müzesi

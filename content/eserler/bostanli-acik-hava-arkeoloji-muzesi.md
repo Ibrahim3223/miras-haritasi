@@ -1,18 +1,17 @@
 ---
-title: "Bostanlı Açık Hava Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:18:02+03:00
+title: "Bostanlı Açık Hava Arkeoloji Müzesi"
+date: "2025-12-25T03:18:02+03:00"
 slug: "bostanli-acik-hava-arkeoloji-muzesi"
 description: "### Bostanlı Açık Hava Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rosa_Faruggıa_Heykeli.jpg/1200px-Rosa_Faruggıa_Heykeli.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karşıyaka"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.09888889,38.45527778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bostanlı Açık Hava Arkeoloji Müzesi

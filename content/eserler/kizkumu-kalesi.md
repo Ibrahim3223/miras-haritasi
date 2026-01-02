@@ -1,18 +1,17 @@
 ---
-title: "Kızkumu Kalesi | Miras Haritası"
-date: 2025-12-25T01:21:09+03:00
+title: "Kızkumu Kalesi"
+date: "2025-12-25T01:21:09+03:00"
 slug: "kizkumu-kalesi"
 description: "## Kızkumu Kalesi: Marmaris'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.125857728,36.761226178"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızkumu Kalesi: Marmaris'in Gizli Çeşmesi

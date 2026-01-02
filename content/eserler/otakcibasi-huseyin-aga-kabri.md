@@ -1,18 +1,17 @@
 ---
-title: "Otakçıbaşı Hüseyin Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:29:14+03:00
+title: "Otakçıbaşı Hüseyin Ağa Kabri"
+date: "2025-12-25T13:29:14+03:00"
 slug: "otakcibasi-huseyin-aga-kabri"
 description: "## Otakçıbaşı Hüseyin Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.935671574,41.035735991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Otakçıbaşı Hüseyin Ağa Kabri

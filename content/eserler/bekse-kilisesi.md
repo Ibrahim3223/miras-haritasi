@@ -1,18 +1,17 @@
 ---
-title: "Bekse Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:16+03:00
+title: "Bekse Kilisesi"
+date: "2025-12-25T09:21:16+03:00"
 slug: "bekse-kilisesi"
 description: "## Bekse Kilisesi: Sason, Batman'daki Bir İç Anadolu Kilisesi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.3601227,38.3629837"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekse Kilisesi: Sason, Batman'daki Bir İç Anadolu Kilisesi

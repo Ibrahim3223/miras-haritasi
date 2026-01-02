@@ -1,18 +1,17 @@
 ---
-title: "Gökdin-Kale Höyüğü | Miras Haritası"
-date: 2025-12-25T06:06:19+03:00
+title: "Gökdin-Kale Höyüğü"
+date: "2025-12-25T06:06:19+03:00"
 slug: "gokdin-kale-hoyugu"
 description: "## Gökdin-Kale Höyüğü: Sivas'ta Bir Arkeolojik İhtişam..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.2529297,39.8020668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökdin-Kale Höyüğü: Sivas'ta Bir Arkeolojik İhtişam

@@ -1,18 +1,17 @@
 ---
-title: "Beyobası Hamamı | Miras Haritası"
-date: 2025-12-25T17:15:21+03:00
+title: "Beyobası Hamamı"
+date: "2025-12-25T17:15:21+03:00"
 slug: "beyobasi-hamami"
 description: "## Beyobası Hamamı: Tokat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Pazar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.26399,40.27967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyobası Hamamı: Tokat'ın Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Metropolis Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:22:30+03:00
+title: "Metropolis Antik Tiyatrosu"
+date: "2025-12-25T16:22:30+03:00"
 slug: "metropolis-antik-tiyatrosu"
 description: "### Metropolis Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "27.324691,38.123958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Metropolis Antik Tiyatrosu

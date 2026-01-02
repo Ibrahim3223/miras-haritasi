@@ -1,18 +1,17 @@
 ---
-title: "Simena Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:23:56+03:00
+title: "Simena Tiyatrosu"
+date: "2025-12-25T08:23:56+03:00"
 slug: "simena-tiyatrosu"
 description: "### Simena Tiyatrosu: Antik Dönemin Gizli Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.862118,36.191259"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Simena Tiyatrosu: Antik Dönemin Gizli Mirası

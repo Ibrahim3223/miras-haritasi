@@ -1,18 +1,17 @@
 ---
-title: "Çorum Müzesi | Miras Haritası"
-date: 2025-12-25T03:07:52+03:00
+title: "Çorum Müzesi"
+date: "2025-12-25T03:07:52+03:00"
 slug: "corum-muzesi"
 description: "## Çorum Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/CorumMuseum1.jpg/1200px-CorumMuseum1.jpg"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Çorum"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.95111111,40.54111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çorum Müzesi

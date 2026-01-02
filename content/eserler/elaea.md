@@ -1,18 +1,17 @@
 ---
-title: "Elaea | Miras Haritası"
-date: 2025-12-25T04:46:30+03:00
+title: "Elaea"
+date: "2025-12-25T04:46:30+03:00"
 slug: "elaea"
 description: "## Elaea: Tarihi Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.785796,40.748896"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elaea: Tarihi Bir Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Kethüda Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:51:29+03:00
+title: "Mehmet Kethüda Çeşmesi"
+date: "2025-12-25T11:51:29+03:00"
 slug: "mehmet-kethuda-cesmesi"
 description: "**Mehmet Kethüda Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.922192,41.014023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mehmet Kethüda Çeşmesi**

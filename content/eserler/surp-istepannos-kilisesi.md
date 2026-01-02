@@ -1,18 +1,17 @@
 ---
-title: "Surp Istepannos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:51+03:00
+title: "Surp Istepannos Kilisesi"
+date: "2025-12-25T09:26:51+03:00"
 slug: "surp-istepannos-kilisesi"
 description: "### Surp Istepannos Kilisesi..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.3257942,38.8204384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Istepannos Kilisesi

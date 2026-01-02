@@ -1,18 +1,17 @@
 ---
-title: "Nişancı Mehmet Paşa Camii Kitaplığı | Miras Haritası"
-date: 2025-12-25T17:55:42+03:00
+title: "Nişancı Mehmet Paşa Camii Kitaplığı"
+date: "2025-12-25T17:55:42+03:00"
 slug: "nisanci-mehmet-pasa-camii-kitapligi"
 description: "## Nişancı Mehmet Paşa Camii Kitaplığı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.9608421,41.0061073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nişancı Mehmet Paşa Camii Kitaplığı

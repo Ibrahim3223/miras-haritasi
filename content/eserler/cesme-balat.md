@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Balat | Miras Haritası"
-date: 2025-12-25T11:59:16+03:00
+title: "Çeşme, Balat"
+date: "2025-12-25T11:59:16+03:00"
 slug: "cesme-balat"
 description: "## Çeşme, Balat: İstanbul'un Eski Mahallesinde Gizli Bir Cennet..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9483356,41.0258942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Balat: İstanbul'un Eski Mahallesinde Gizli Bir Cennet

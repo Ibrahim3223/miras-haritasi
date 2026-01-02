@@ -1,18 +1,17 @@
 ---
-title: "Pergamon X Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:14:18+03:00
+title: "Pergamon X Tepe Tümülüsü"
+date: "2025-12-25T07:14:18+03:00"
 slug: "pergamon-x-tepe-tumulusu"
 description: "### Pergamon X Tepe Tümülüsü: İzmir'in Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.16963,39.1033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pergamon X Tepe Tümülüsü: İzmir'in Tarihî Mirası

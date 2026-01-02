@@ -1,18 +1,17 @@
 ---
-title: "Dokumacılar Kaymaz Camii | Miras Haritası"
-date: 2025-12-25T01:00:34+03:00
+title: "Dokumacılar Kaymaz Camii"
+date: "2025-12-25T01:00:34+03:00"
 slug: "dokumacilar-kaymaz-camii"
 description: "## Dokumacılar Kaymaz Camii: Artvin'in Gizli Çehresini Yaratırken..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.325809,40.768126"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokumacılar Kaymaz Camii: Artvin'in Gizli Çehresini Yaratırken

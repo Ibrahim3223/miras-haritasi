@@ -1,18 +1,17 @@
 ---
-title: "St.Louis Fransız Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:30:56+03:00
+title: "St.Louis Fransız Katolik Kilisesi"
+date: "2025-12-25T09:30:56+03:00"
 slug: "stlouis-fransiz-katolik-kilisesi"
 description: "## St. Louis Fransız Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9769402,41.0307922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## St. Louis Fransız Katolik Kilisesi

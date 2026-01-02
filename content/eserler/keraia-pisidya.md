@@ -1,18 +1,17 @@
 ---
-title: "Keraia (Pisidya) | Miras Haritası"
-date: 2025-12-25T05:10:29+03:00
+title: "Keraia (Pisidya)"
+date: "2025-12-25T05:10:29+03:00"
 slug: "keraia-pisidya"
 description: "## Keraia (Pisidya): Bir Arkeolojik Harika..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.603878746,37.514563979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keraia (Pisidya): Bir Arkeolojik Harika

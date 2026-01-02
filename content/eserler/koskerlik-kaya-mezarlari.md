@@ -1,18 +1,17 @@
 ---
-title: "Köskerlik Kaya Mezarları | Miras Haritası"
-date: 2025-12-25T13:20:15+03:00
+title: "Köskerlik Kaya Mezarları"
+date: "2025-12-25T13:20:15+03:00"
 slug: "koskerlik-kaya-mezarlari"
 description: "## Köskerlik Kaya Mezarları..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ayrancı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.6368294,37.4823418"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köskerlik Kaya Mezarları

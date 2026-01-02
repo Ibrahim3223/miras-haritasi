@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Bosna Caddesi | Miras Haritası"
-date: 2025-12-25T12:47:31+03:00
+title: "Çeşme, Bosna Caddesi"
+date: "2025-12-25T12:47:31+03:00"
 slug: "cesme-bosna-caddesi"
 description: "## Çeşme, Bosna Caddesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9205246,41.0499229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Bosna Caddesi

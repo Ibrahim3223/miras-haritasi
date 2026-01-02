@@ -1,18 +1,17 @@
 ---
-title: "Theodosius Forumu | Miras Haritası"
-date: 2025-12-25T05:24:12+03:00
+title: "Theodosius Forumu"
+date: "2025-12-25T05:24:12+03:00"
 slug: "theodosius-forumu"
 description: "## Theodosius Forumu: İstanbul'un Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Forum_Theodosius_Istanbul_March_2008_(1).JPG/1200px-Forum_Theodosius_Istanbul_March_2008_(1).JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.96361111,41.00972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Theodosius Forumu: İstanbul'un Tarihî Bir Mirası

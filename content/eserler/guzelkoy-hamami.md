@@ -1,18 +1,17 @@
 ---
-title: "Güzelköy Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:58+03:00
+title: "Güzelköy Hamamı"
+date: "2025-12-25T17:02:58+03:00"
 slug: "guzelkoy-hamami"
 description: "## Güzelköy Hamamı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.2916813,40.7412567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzelköy Hamamı

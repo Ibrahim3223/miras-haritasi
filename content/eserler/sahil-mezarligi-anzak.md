@@ -1,18 +1,17 @@
 ---
-title: "Sahil Mezarlığı (ANZAK) | Miras Haritası"
-date: 2025-12-25T15:52:29+03:00
+title: "Sahil Mezarlığı (ANZAK)"
+date: "2025-12-25T15:52:29+03:00"
 slug: "sahil-mezarligi-anzak"
 description: "## Sahil Mezarlığı (ANZAK)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Beach_CWGC_Cemetery,_Gallipoli.jpg/1200px-Beach_CWGC_Cemetery,_Gallipoli.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.27639,40.23299"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sahil Mezarlığı (ANZAK)

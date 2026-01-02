@@ -1,18 +1,17 @@
 ---
-title: "Dunaysır Köprüsü | Miras Haritası"
-date: 2025-12-25T02:19:29+03:00
+title: "Dunaysır Köprüsü"
+date: "2025-12-25T02:19:29+03:00"
 slug: "dunaysir-koprusu"
 description: "## Dunaysır Köprüsü: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.5832634,37.1972198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dunaysır Köprüsü: Tarihi ve Kültürel Mirasımız

@@ -1,18 +1,17 @@
 ---
-title: "Yamaçüstü Karşıköy Camii | Miras Haritası"
-date: 2025-12-25T00:17:55+03:00
+title: "Yamaçüstü Karşıköy Camii"
+date: "2025-12-25T00:17:55+03:00"
 slug: "yamacustu-karsikoy-camii"
 description: "### Yamaçüstü Karşıköy Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3940709,40.60272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yamaçüstü Karşıköy Camii

@@ -1,18 +1,17 @@
 ---
-title: "Harbiye Muhsin Ertuğrul Sahnesi | Miras Haritası"
-date: 2025-12-25T16:19:34+03:00
+title: "Harbiye Muhsin Ertuğrul Sahnesi"
+date: "2025-12-25T16:19:34+03:00"
 slug: "harbiye-muhsin-ertugrul-sahnesi"
 description: "**Harbiye Muhsin Ertuğrul Sahnesi: Şişli'nin Tarihi Tiyatro Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Harbiye_Muhsin_Ertuğrul_Stage.JPG/1200px-Harbiye_Muhsin_Ertuğrul_Stage.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.9883,41.0461"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Harbiye Muhsin Ertuğrul Sahnesi: Şişli'nin Tarihi Tiyatro Mirası**

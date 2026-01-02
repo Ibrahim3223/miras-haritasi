@@ -1,18 +1,17 @@
 ---
-title: "Çorlulu Ali Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:49:43+03:00
+title: "Çorlulu Ali Paşa Camii Çeşmesi"
+date: "2025-12-25T11:49:43+03:00"
 slug: "corlulu-ali-pasa-camii-cesmesi"
 description: "## Çorlulu Ali Paşa Camii Çeşmesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Camiikebir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9597626,41.0343437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çorlulu Ali Paşa Camii Çeşmesi

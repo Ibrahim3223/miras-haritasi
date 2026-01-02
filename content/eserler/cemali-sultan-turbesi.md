@@ -1,18 +1,17 @@
 ---
-title: "Cemali Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:26+03:00
+title: "Cemali Sultan Türbesi"
+date: "2025-12-25T14:21:26+03:00"
 slug: "cemali-sultan-turbesi"
 description: "## Cemali Sultan Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.119392,36.71359"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cemali Sultan Türbesi

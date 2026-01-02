@@ -1,18 +1,17 @@
 ---
-title: "Aziz Yorgi Kilisesi (Tirilye) | Miras Haritası"
-date: 2025-12-25T09:54:18+03:00
+title: "Aziz Yorgi Kilisesi (Tirilye)"
+date: "2025-12-25T09:54:18+03:00"
 slug: "aziz-yorgi-kilisesi-tirilye"
 description: "### Aziz Yorgi Kilisesi (Tirilye)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "28.8114,40.3908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aziz Yorgi Kilisesi (Tirilye)

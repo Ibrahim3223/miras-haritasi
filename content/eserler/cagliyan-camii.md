@@ -1,18 +1,17 @@
 ---
-title: "Çağlıyan Camii | Miras Haritası"
-date: 2025-12-25T00:59:09+03:00
+title: "Çağlıyan Camii"
+date: "2025-12-25T00:59:09+03:00"
 slug: "cagliyan-camii"
 description: "## Çağlıyan Camii: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7627479,40.9533833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlıyan Camii: Artvin'in Tarihi ve Kültürel Mirası

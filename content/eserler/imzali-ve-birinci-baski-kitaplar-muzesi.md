@@ -1,18 +1,17 @@
 ---
-title: "İmzalı ve Birinci Baskı Kitaplar Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:25+03:00
+title: "İmzalı ve Birinci Baskı Kitaplar Müzesi"
+date: "2025-12-25T04:05:25+03:00"
 slug: "imzali-ve-birinci-baski-kitaplar-muzesi"
 description: "## İmzalı ve Birinci Baskı Kitaplar Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.783181886,40.992329786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmzalı ve Birinci Baskı Kitaplar Müzesi

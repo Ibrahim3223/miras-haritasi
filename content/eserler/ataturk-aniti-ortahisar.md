@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Ortahisar | Miras Haritası"
-date: 2025-12-25T15:52:09+03:00
+title: "Atatürk Anıtı, Ortahisar"
+date: "2025-12-25T15:52:09+03:00"
 slug: "ataturk-aniti-ortahisar"
 description: "## Atatürk Anıtı, Ortahisar..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.730857,41.005193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı, Ortahisar

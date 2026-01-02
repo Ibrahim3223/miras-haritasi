@@ -1,18 +1,17 @@
 ---
-title: "Firdevs Bey Camii | Miras Haritası"
-date: 2025-12-24T23:04:35+03:00
+title: "Firdevs Bey Camii"
+date: "2025-12-24T23:04:35+03:00"
 slug: "firdevs-bey-camii"
 description: "**Firdevs Bey Camii**..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5547541,37.764375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Firdevs Bey Camii**

@@ -1,18 +1,17 @@
 ---
-title: "Kavuncu Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:40+03:00
+title: "Kavuncu Köprüsü"
+date: "2025-12-25T03:02:40+03:00"
 slug: "kavuncu-koprusu"
 description: "### Kavuncu Köprüsü..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Günyüzü"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.9784927,39.4139709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kavuncu Köprüsü

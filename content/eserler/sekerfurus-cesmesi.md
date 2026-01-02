@@ -1,18 +1,17 @@
 ---
-title: "Şekerfuruş Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:08+03:00
+title: "Şekerfuruş Çeşmesi"
+date: "2025-12-25T11:38:08+03:00"
 slug: "sekerfurus-cesmesi"
 description: "### Şekerfuruş Çeşmesi: Meram, Konya'da Bir Önemli Tarihsel Eser..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4921989,37.8690338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şekerfuruş Çeşmesi: Meram, Konya'da Bir Önemli Tarihsel Eser

@@ -1,18 +1,17 @@
 ---
-title: "Seleucia (Silifke) | Miras Haritası"
-date: 2025-12-25T04:32:58+03:00
+title: "Seleucia (Silifke)"
+date: "2025-12-25T04:32:58+03:00"
 slug: "seleucia-silifke"
 description: "**Seleucia (Silifke): Tarihî Bir Miras**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9165,36.3765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Seleucia (Silifke): Tarihî Bir Miras**

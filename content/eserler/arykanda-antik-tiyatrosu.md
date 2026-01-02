@@ -1,18 +1,17 @@
 ---
-title: "Arykanda Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:12:14+03:00
+title: "Arykanda Antik Tiyatrosu"
+date: "2025-12-25T04:12:14+03:00"
 slug: "arykanda-antik-tiyatrosu"
 description: "### Arykanda Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.059942,36.514319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arykanda Antik Tiyatrosu

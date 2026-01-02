@@ -1,18 +1,17 @@
 ---
-title: "Soğucak Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:08+03:00
+title: "Soğucak Türbesi"
+date: "2025-12-25T15:00:08+03:00"
 slug: "sogucak-turbesi"
 description: "## Soğucak Türbesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3005428,37.7825089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğucak Türbesi

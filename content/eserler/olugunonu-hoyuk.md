@@ -1,18 +1,17 @@
 ---
-title: "Oluğunönü Höyük | Miras Haritası"
-date: 2025-12-25T06:16:17+03:00
+title: "Oluğunönü Höyük"
+date: "2025-12-25T06:16:17+03:00"
 slug: "olugunonu-hoyuk"
 description: "## Oluğunönü Höyük: Adana'nın Gizli Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "İmamoğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.613350986,37.247070432"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oluğunönü Höyük: Adana'nın Gizli Mirası

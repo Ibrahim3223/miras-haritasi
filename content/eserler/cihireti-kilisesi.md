@@ -1,18 +1,17 @@
 ---
-title: "Çihireti Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:33+03:00
+title: "Çihireti Kilisesi"
+date: "2025-12-25T09:01:33+03:00"
 slug: "cihireti-kilisesi"
 description: "## Çihireti Kilisesi: Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: "Hanak"
-iller: ["Hanak"]
+iller: '["Hanak"]'
 district: "Yünbüken"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.859802777,41.276738888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çihireti Kilisesi: Tarihi ve Kültürel Mirasının Gizemi

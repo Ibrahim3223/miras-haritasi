@@ -1,18 +1,17 @@
 ---
-title: "Babaeski Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:53+03:00
+title: "Babaeski Hamamı"
+date: "2025-12-25T16:25:53+03:00"
 slug: "babaeski-hamami"
 description: "**Babaeski Hamamı: İmparatorluk Devrinin Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Babaeski,_Hamam(IV-12110113,_1971)_(1).jpg/1200px-Babaeski,_Hamam(IV-12110113,_1971)_(1).jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.095,41.428694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Babaeski Hamamı: İmparatorluk Devrinin Mirası**

@@ -1,18 +1,17 @@
 ---
-title: "Bandırma Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:13+03:00
+title: "Bandırma Arkeoloji Müzesi"
+date: "2025-12-25T03:53:13+03:00"
 slug: "bandirma-arkeoloji-muzesi"
 description: "### Bandırma Arkeoloji Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.9534779,40.3472633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bandırma Arkeoloji Müzesi

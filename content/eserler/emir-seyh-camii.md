@@ -1,18 +1,17 @@
 ---
-title: "Emir Şeyh Camii | Miras Haritası"
-date: 2025-12-24T23:00:02+03:00
+title: "Emir Şeyh Camii"
+date: "2025-12-24T23:00:02+03:00"
 slug: "emir-seyh-camii"
 description: "## Emir Şeyh Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2794228,39.9050598"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Şeyh Camii

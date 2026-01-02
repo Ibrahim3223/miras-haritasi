@@ -1,18 +1,17 @@
 ---
-title: "Yahyalı Yahya Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:30:40+03:00
+title: "Yahyalı Yahya Gazi Türbesi"
+date: "2025-12-25T15:30:40+03:00"
 slug: "yahyali-yahya-gazi-turbesi"
 description: "## Yahyalı Yahya Gazi Türbesi: Kayseri'nin Gizli Çehresini İncelemek..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Yahyalı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.360565174,38.098778175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahyalı Yahya Gazi Türbesi: Kayseri'nin Gizli Çehresini İncelemek

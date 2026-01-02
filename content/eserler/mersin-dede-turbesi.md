@@ -1,18 +1,17 @@
 ---
-title: "Mersin Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:22+03:00
+title: "Mersin Dede Türbesi"
+date: "2025-12-25T14:37:22+03:00"
 slug: "mersin-dede-turbesi"
 description: "## Mersin Dede Türbesi: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.4042,40.1473"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mersin Dede Türbesi: Çanakkale'nin Gizli Cenneti

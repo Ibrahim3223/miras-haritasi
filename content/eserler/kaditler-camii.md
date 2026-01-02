@@ -1,18 +1,17 @@
 ---
-title: "Kaditler Camii | Miras Haritası"
-date: 2025-12-24T23:40:45+03:00
+title: "Kaditler Camii"
+date: "2025-12-24T23:40:45+03:00"
 slug: "kaditler-camii"
 description: "**Kadıtedir Camii: Kütahya'nın Tarihi Bir İmaratı**..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9747696,39.4205399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kadıtedir Camii: Kütahya'nın Tarihi Bir İmaratı**

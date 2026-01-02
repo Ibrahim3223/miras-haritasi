@@ -1,18 +1,17 @@
 ---
-title: "Ayia Fotini Ayazması, Yeşilköy | Miras Haritası"
-date: 2025-12-25T12:42:12+03:00
+title: "Ayia Fotini Ayazması, Yeşilköy"
+date: "2025-12-25T12:42:12+03:00"
 slug: "ayia-fotini-ayazmasi-yesilkoy"
 description: "**Ayia Fotini Ayazması: Bakırköy'deki Bir Değerli Çeşme**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.8213196,40.9569893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayia Fotini Ayazması: Bakırköy'deki Bir Değerli Çeşme**

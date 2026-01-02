@@ -1,18 +1,17 @@
 ---
-title: "Key Museum | Miras Haritası"
-date: 2025-12-25T03:06:58+03:00
+title: "Key Museum"
+date: "2025-12-25T03:06:58+03:00"
 slug: "key-museum"
 description: "## Key Museum..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Key_Museum_3.jpg/1200px-Key_Museum_3.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.348888888,38.201666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Key Museum

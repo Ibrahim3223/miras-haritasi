@@ -1,18 +1,17 @@
 ---
-title: "Kavacık Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:14+03:00
+title: "Kavacık Çeşmesi"
+date: "2025-12-25T11:07:14+03:00"
 slug: "kavacik-cesmesi"
 description: "## Kavacık Çeşmesi: Beykoz'un Tarihi ve Güzel Bir Ören Yeri..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Kavacık"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.084415,41.093563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavacık Çeşmesi: Beykoz'un Tarihi ve Güzel Bir Ören Yeri

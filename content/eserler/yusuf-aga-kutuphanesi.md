@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Ağa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:24+03:00
+title: "Yusuf Ağa Kütüphanesi"
+date: "2025-12-25T17:55:24+03:00"
 slug: "yusuf-aga-kutuphanesi"
 description: "### Yusuf Ağa Kütüphanesi: Konya'nın Önemli Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Yusuf_Aa_Ktphanesi_1761413453.jpg/1200px-Yusuf_Aa_Ktphanesi_1761413453.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "32.5038567,37.8702469"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yusuf Ağa Kütüphanesi: Konya'nın Önemli Kültürel Mirası

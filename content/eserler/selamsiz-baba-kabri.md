@@ -1,18 +1,17 @@
 ---
-title: "Selamsız Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:33:05+03:00
+title: "Selamsız Baba Kabri"
+date: "2025-12-25T13:33:05+03:00"
 slug: "selamsiz-baba-kabri"
 description: "## Selamsız Baba Kabri: Üsküdar'ın Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0294437,41.0236893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selamsız Baba Kabri: Üsküdar'ın Gizli Anıtı

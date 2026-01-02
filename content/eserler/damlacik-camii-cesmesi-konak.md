@@ -1,18 +1,17 @@
 ---
-title: "Damlacık Camii Çeşmesi, Konak | Miras Haritası"
-date: 2025-12-25T12:55:27+03:00
+title: "Damlacık Camii Çeşmesi, Konak"
+date: "2025-12-25T12:55:27+03:00"
 slug: "damlacik-camii-cesmesi-konak"
 description: "# Damlacık Camii Çeşmesi, Konak..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1294098,38.4135361"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Damlacık Camii Çeşmesi, Konak

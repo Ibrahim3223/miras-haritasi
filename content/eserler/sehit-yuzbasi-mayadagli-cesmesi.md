@@ -1,18 +1,17 @@
 ---
-title: "Şehit Yüzbaşı Mayadağlı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:57:57+03:00
+title: "Şehit Yüzbaşı Mayadağlı Çeşmesi"
+date: "2025-12-25T10:57:57+03:00"
 slug: "sehit-yuzbasi-mayadagli-cesmesi"
 description: "### Şehit Yüzbaşı Mayadağlı Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5217934,40.9797554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şehit Yüzbaşı Mayadağlı Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Büyük İkiz Ada Kalesi | Miras Haritası"
-date: 2025-12-25T01:42:41+03:00
+title: "Büyük İkiz Ada Kalesi"
+date: "2025-12-25T01:42:41+03:00"
 slug: "buyuk-ikiz-ada-kalesi"
 description: "## Büyük İkiz Ada Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bafa_(1).jpg/1200px-Bafa_(1).jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4917202,37.5059204"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Büyük İkiz Ada Kalesi

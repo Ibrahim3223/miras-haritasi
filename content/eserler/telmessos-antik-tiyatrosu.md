@@ -1,18 +1,17 @@
 ---
-title: "Telmessos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:20:29+03:00
+title: "Telmessos Antik Tiyatrosu"
+date: "2025-12-25T08:20:29+03:00"
 slug: "telmessos-antik-tiyatrosu"
 description: "## Telmessos Antik Tiyatrosu: Muğla'nın Gizli Günceliği..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.10576,36.620773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Telmessos Antik Tiyatrosu: Muğla'nın Gizli Günceliği

@@ -1,18 +1,17 @@
 ---
-title: "Bozkır Köprüsü | Miras Haritası"
-date: 2025-12-25T02:10:47+03:00
+title: "Bozkır Köprüsü"
+date: "2025-12-25T02:10:47+03:00"
 slug: "bozkir-koprusu"
 description: "### Bozkır Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Bozkır"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.246836,37.190134"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bozkır Köprüsü

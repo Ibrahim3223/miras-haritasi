@@ -1,18 +1,17 @@
 ---
-title: "Kırkharman Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:23+03:00
+title: "Kırkharman Kilisesi"
+date: "2025-12-25T09:10:23+03:00"
 slug: "kirkharman-kilisesi"
 description: "### Kırkharman Kilisesi: Giresun'un Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.5354368,40.5426873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırkharman Kilisesi: Giresun'un Gizli Cenneti

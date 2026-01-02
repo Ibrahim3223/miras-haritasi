@@ -1,18 +1,17 @@
 ---
-title: "Kepos | Miras Haritası"
-date: 2025-12-25T05:02:28+03:00
+title: "Kepos"
+date: "2025-12-25T05:02:28+03:00"
 slug: "kepos"
 description: "## Kepos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.953206,41.022065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kepos Arkeolojik Sit

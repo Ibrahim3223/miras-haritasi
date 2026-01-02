@@ -1,18 +1,17 @@
 ---
-title: "Deretarla Höyük | Miras Haritası"
-date: 2025-12-25T06:15:53+03:00
+title: "Deretarla Höyük"
+date: "2025-12-25T06:15:53+03:00"
 slug: "deretarla-hoyuk"
 description: "### Deretarla Höyük: Tarihî ve Kültürel Mirasın Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.824028,40.5273857"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Deretarla Höyük: Tarihî ve Kültürel Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Karşıdöngel Camii | Miras Haritası"
-date: 2025-12-24T23:43:18+03:00
+title: "Karşıdöngel Camii"
+date: "2025-12-24T23:43:18+03:00"
 slug: "karsidongel-camii"
 description: "## Karşıdöngel Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ayvacık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5388985,40.9394989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karşıdöngel Camii

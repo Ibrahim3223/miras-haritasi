@@ -1,18 +1,17 @@
 ---
-title: "Çamhusi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:38+03:00
+title: "Çamhusi Kilisesi"
+date: "2025-12-25T09:07:38+03:00"
 slug: "camhusi-kilisesi"
 description: "**Çamhusi Kilisesi: Doğu Anadolu'nun Gizli Mücevheri**..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Dokuzelma"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.389151917,40.742971308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çamhusi Kilisesi: Doğu Anadolu'nun Gizli Mücevheri**

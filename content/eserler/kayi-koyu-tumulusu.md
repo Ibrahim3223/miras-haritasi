@@ -1,18 +1,17 @@
 ---
-title: "Kayı Köyü Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:38:32+03:00
+title: "Kayı Köyü Tümülüsü"
+date: "2025-12-25T07:38:32+03:00"
 slug: "kayi-koyu-tumulusu"
 description: "## Kayı Köyü Tümülüsü: Tarihöncesi Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Daday"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.2009125,41.4223289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayı Köyü Tümülüsü: Tarihöncesi Mirası

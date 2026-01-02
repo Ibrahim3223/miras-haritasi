@@ -1,18 +1,17 @@
 ---
-title: "Göveloğlu Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:10+03:00
+title: "Göveloğlu Kalesi"
+date: "2025-12-25T01:34:10+03:00"
 slug: "goveloglu-kalesi"
 description: "## Göveloğlu Kalesi: Adana'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Yüreğir"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.606582,36.842932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göveloğlu Kalesi: Adana'nın Gizli Kahramanı

@@ -1,18 +1,17 @@
 ---
-title: "Tepeboz Çeşmesi, Karaburun | Miras Haritası"
-date: 2025-12-25T11:57:11+03:00
+title: "Tepeboz Çeşmesi, Karaburun"
+date: "2025-12-25T11:57:11+03:00"
 slug: "tepeboz-cesmesi-karaburun"
 description: "## Tepeboz Çeşmesi: Karaburun'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karaburun"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.4472008,38.6609993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepeboz Çeşmesi: Karaburun'un Tarihi Bir Çeşmesi

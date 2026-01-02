@@ -1,18 +1,17 @@
 ---
-title: "Akarcalızade Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:07:31+03:00
+title: "Akarcalızade Çeşmesi"
+date: "2025-12-25T12:07:31+03:00"
 slug: "akarcalizade-cesmesi"
 description: "## Akarcalızade Çeşmesi: Tarih ve Kültür Mirasının Bir Örneği..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1270008,38.4115982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akarcalızade Çeşmesi: Tarih ve Kültür Mirasının Bir Örneği

@@ -1,18 +1,17 @@
 ---
-title: "Topluca Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:18+03:00
+title: "Topluca Kilisesi"
+date: "2025-12-25T09:23:18+03:00"
 slug: "topluca-kilisesi"
 description: "## Topluca Kilisesi: Batman'ın Gizli Cenneti..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.3857994,38.3852959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topluca Kilisesi: Batman'ın Gizli Cenneti

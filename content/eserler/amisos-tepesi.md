@@ -1,18 +1,17 @@
 ---
-title: "Amisos Tepesi | Miras Haritası"
-date: 2025-12-25T04:18:12+03:00
+title: "Amisos Tepesi"
+date: "2025-12-25T04:18:12+03:00"
 slug: "amisos-tepesi"
 description: "## Amisos Tepesi: Samsun'un Tarihi İncisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Amisos_Tepesi_kuzey_tümülüsü_girişi.JPG/1200px-Amisos_Tepesi_kuzey_tümülüsü_girişi.JPG"
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Atakum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.32305556,41.31888889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Amisos Tepesi: Samsun'un Tarihi İncisi

@@ -1,18 +1,17 @@
 ---
-title: "ESFM | Miras Haritası"
-date: 2025-12-25T03:29:11+03:00
+title: "ESFM"
+date: "2025-12-25T03:29:11+03:00"
 slug: "esfm"
 description: "# ESFM Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # ESFM Müzesi

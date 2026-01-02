@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:31:53+03:00
+title: "Sokullu Mehmet Paşa Medresesi"
+date: "2025-12-25T17:31:53+03:00"
 slug: "sokullu-mehmet-pasa-medresesi"
 description: "## Sokullu Mehmet Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9343987,41.0471191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokullu Mehmet Paşa Medresesi

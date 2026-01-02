@@ -1,18 +1,17 @@
 ---
-title: "Kinnaborion | Miras Haritası"
-date: 2025-12-25T08:30:51+03:00
+title: "Kinnaborion"
+date: "2025-12-25T08:30:51+03:00"
 slug: "kinnaborion"
 description: "### Kinnaborion: Çay, Afyonkarahisar'da Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Çay"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.7486725,38.3827782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kinnaborion: Çay, Afyonkarahisar'da Bir Arkeolojik Sitin Gizemi

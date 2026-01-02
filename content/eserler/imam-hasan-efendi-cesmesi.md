@@ -1,18 +1,17 @@
 ---
-title: "İmam Hasan Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:12:57+03:00
+title: "İmam Hasan Efendi Çeşmesi"
+date: "2025-12-25T11:12:57+03:00"
 slug: "imam-hasan-efendi-cesmesi"
 description: "# İmam Hasan Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/İmam_Hasan_Efendi_Çeşmesi_IMG_0375.jpg/1200px-İmam_Hasan_Efendi_Çeşmesi_IMG_0375.jpg"
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Uskumruköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.022141,41.219993"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # İmam Hasan Efendi Çeşmesi

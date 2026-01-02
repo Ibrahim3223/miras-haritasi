@@ -1,18 +1,17 @@
 ---
-title: "Arqakaghni Manastırı | Miras Haritası"
-date: 2025-12-25T09:46:30+03:00
+title: "Arqakaghni Manastırı"
+date: "2025-12-25T09:46:30+03:00"
 slug: "arqakaghni-manastiri"
 description: "# Arqakaghni Manastırı: Adana'nın Gizli Çehresinde Bir Tarihî Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "35.6953,36.9112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arqakaghni Manastırı: Adana'nın Gizli Çehresinde Bir Tarihî Miras

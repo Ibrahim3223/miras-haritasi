@@ -1,18 +1,17 @@
 ---
-title: "Pirra (Karya) | Miras Haritası"
-date: 2025-12-25T05:02:40+03:00
+title: "Pirra (Karya)"
+date: "2025-12-25T05:02:40+03:00"
 slug: "pirra-karya"
 description: "### Pirra (Karya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.38243,37.55694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pirra (Karya)

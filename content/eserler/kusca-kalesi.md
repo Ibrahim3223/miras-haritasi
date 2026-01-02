@@ -1,18 +1,17 @@
 ---
-title: "Kuşça Kalesi | Miras Haritası"
-date: 2025-12-25T01:20:55+03:00
+title: "Kuşça Kalesi"
+date: "2025-12-25T01:20:55+03:00"
 slug: "kusca-kalesi"
 description: "## Kuşça Kalesi: Cihanbeyli'nin Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Cihanbeyli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.6881027,38.8602295"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuşça Kalesi: Cihanbeyli'nin Kültürel Mirası

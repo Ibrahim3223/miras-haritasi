@@ -1,18 +1,17 @@
 ---
-title: "Dere Camii | Miras Haritası"
-date: 2025-12-24T22:35:37+03:00
+title: "Dere Camii"
+date: "2025-12-24T22:35:37+03:00"
 slug: "dere-camii"
 description: "## Dere Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.0914001,41.1580009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dere Camii

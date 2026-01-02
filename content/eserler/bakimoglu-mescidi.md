@@ -1,18 +1,17 @@
 ---
-title: "Bakımoğlu Mescidi | Miras Haritası"
-date: 2025-12-25T01:11:23+03:00
+title: "Bakımoğlu Mescidi"
+date: "2025-12-25T01:11:23+03:00"
 slug: "bakimoglu-mescidi"
 description: "### Bakımoğlu Mescidi: Seyhan'ın Tarihi Bir Çehresini Taşıyor..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.3323593,36.9839973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bakımoğlu Mescidi: Seyhan'ın Tarihi Bir Çehresini Taşıyor

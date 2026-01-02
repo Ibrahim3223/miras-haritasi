@@ -1,18 +1,17 @@
 ---
-title: "Tiflis Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:36:12+03:00
+title: "Tiflis Camii Çeşmesi"
+date: "2025-12-25T12:36:12+03:00"
 slug: "tiflis-camii-cesmesi"
 description: "# Tiflis Camii Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8580589,39.9404869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tiflis Camii Çeşmesi

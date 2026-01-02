@@ -1,18 +1,17 @@
 ---
-title: "Nova Roma | Miras Haritası"
-date: 2025-12-25T04:39:13+03:00
+title: "Nova Roma"
+date: "2025-12-25T04:39:13+03:00"
 slug: "nova-roma"
 description: "## Nova Roma: Türkiye'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.955555555,41.013888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nova Roma: Türkiye'nin Gizli Mirası

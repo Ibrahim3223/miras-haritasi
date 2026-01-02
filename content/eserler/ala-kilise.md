@@ -1,18 +1,17 @@
 ---
-title: "Ala Kilise | Miras Haritası"
-date: 2025-12-25T08:44:23+03:00
+title: "Ala Kilise"
+date: "2025-12-25T08:44:23+03:00"
 slug: "ala-kilise"
 description: "# Ala Kilisesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ala Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Kıranköy Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:05+03:00
+title: "Kıranköy Çeşmesi"
+date: "2025-12-25T10:24:05+03:00"
 slug: "kirankoy-cesmesi"
 description: "**Kıranköy Çeşmesi: Ulubey'de Bir Ölümsüz**..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9154186,38.4456711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kıranköy Çeşmesi: Ulubey'de Bir Ölümsüz**

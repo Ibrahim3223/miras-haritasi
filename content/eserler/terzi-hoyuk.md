@@ -1,18 +1,17 @@
 ---
-title: "Terzi Höyük | Miras Haritası"
-date: 2025-12-25T05:55:58+03:00
+title: "Terzi Höyük"
+date: "2025-12-25T05:55:58+03:00"
 slug: "terzi-hoyuk"
 description: "## Terzi Höyük: Hatay'ın Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.400013,36.306778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terzi Höyük: Hatay'ın Gizli Arkeolojik Mirası

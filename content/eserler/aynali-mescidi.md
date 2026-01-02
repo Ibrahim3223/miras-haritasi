@@ -1,18 +1,17 @@
 ---
-title: "Aynalı Mescidi | Miras Haritası"
-date: 2025-12-25T00:10:08+03:00
+title: "Aynalı Mescidi"
+date: "2025-12-25T00:10:08+03:00"
 slug: "aynali-mescidi"
 description: "# Aynalı Mescidi: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9428024,41.0166626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aynalı Mescidi: İstanbul'un Tarihi Bir Mirası

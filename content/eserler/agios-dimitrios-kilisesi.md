@@ -1,18 +1,17 @@
 ---
-title: "Agios Dimitrios Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:04+03:00
+title: "Agios Dimitrios Kilisesi"
+date: "2025-12-25T09:35:04+03:00"
 slug: "agios-dimitrios-kilisesi"
 description: "### Agios Dimitrios Kilisesi: Ayvalık'ta Bir Geçmişle Ortaklıklı Bir Miras..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.661614,39.334563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Agios Dimitrios Kilisesi: Ayvalık'ta Bir Geçmişle Ortaklıklı Bir Miras

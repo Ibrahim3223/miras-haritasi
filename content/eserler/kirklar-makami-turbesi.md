@@ -1,18 +1,17 @@
 ---
-title: "Kırklar Makamı Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:22+03:00
+title: "Kırklar Makamı Türbesi"
+date: "2025-12-25T15:18:22+03:00"
 slug: "kirklar-makami-turbesi"
 description: "## Kırklar Makamı Türbesi: Afyonkarahisar'ın Ölümsüz Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5276,38.7552"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırklar Makamı Türbesi: Afyonkarahisar'ın Ölümsüz Mirası

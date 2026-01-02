@@ -1,18 +1,17 @@
 ---
-title: "Eğrigöz Kalesi | Miras Haritası"
-date: 2025-12-25T01:21:58+03:00
+title: "Eğrigöz Kalesi"
+date: "2025-12-25T01:21:58+03:00"
 slug: "egrigoz-kalesi"
 description: "## Eğrigöz Kalesi: Kütahya'nın Tarihvi Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Emet"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.2362423,39.4076385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eğrigöz Kalesi: Kütahya'nın Tarihvi Mirası

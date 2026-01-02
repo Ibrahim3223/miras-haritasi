@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Sazgeçit | Miras Haritası"
-date: 2025-12-25T02:59:44+03:00
+title: "Roma Köprüsü, Sazgeçit"
+date: "2025-12-25T02:59:44+03:00"
 slug: "roma-koprusu-sazgecit"
 description: "### Roma Köprüsü, Sazgeçit..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ereğli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.93418,37.59411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Sazgeçit

@@ -1,18 +1,17 @@
 ---
-title: "Karabıyık Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:09:52+03:00
+title: "Karabıyık Dede Türbesi"
+date: "2025-12-25T15:09:52+03:00"
 slug: "karabiyik-dede-turbesi"
 description: "## Karabıyık Dede Türbesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Dörtyol"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.2478769,36.800898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabıyık Dede Türbesi

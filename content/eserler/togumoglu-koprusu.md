@@ -1,18 +1,17 @@
 ---
-title: "Toğumoğlu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:03:18+03:00
+title: "Toğumoğlu Köprüsü"
+date: "2025-12-25T02:03:18+03:00"
 slug: "togumoglu-koprusu"
 description: "## Toğumoğlu Köprüsü..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.63816,40.40065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toğumoğlu Köprüsü

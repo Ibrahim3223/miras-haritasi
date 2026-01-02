@@ -1,18 +1,17 @@
 ---
-title: "Intercity Otomobil Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:30+03:00
+title: "Intercity Otomobil Müzesi"
+date: "2025-12-25T04:03:30+03:00"
 slug: "intercity-otomobil-muzesi"
 description: "### Intercity Otomobil Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.40553791,40.952664027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Intercity Otomobil Müzesi

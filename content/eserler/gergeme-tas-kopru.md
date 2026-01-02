@@ -1,18 +1,17 @@
 ---
-title: "Gergeme Taş Köprü | Miras Haritası"
-date: 2025-12-25T02:25:54+03:00
+title: "Gergeme Taş Köprü"
+date: "2025-12-25T02:25:54+03:00"
 slug: "gergeme-tas-kopru"
 description: "# Gergeme Taş Köprü..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Bünyan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.818523,38.849251"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gergeme Taş Köprü

@@ -1,18 +1,17 @@
 ---
-title: "Athyras | Miras Haritası"
-date: 2025-12-25T04:29:44+03:00
+title: "Athyras"
+date: "2025-12-25T04:29:44+03:00"
 slug: "athyras"
 description: "### Athyras Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.589971,41.034016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Athyras Arkeolojik Sit

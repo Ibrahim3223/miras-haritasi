@@ -1,18 +1,17 @@
 ---
-title: "Yeni Deveci Damları Köprüsü | Miras Haritası"
-date: 2025-12-25T02:13:04+03:00
+title: "Yeni Deveci Damları Köprüsü"
+date: "2025-12-25T02:13:04+03:00"
 slug: "yeni-deveci-damlari-koprusu"
 description: "## Yeni Deveci Damlaları Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Selendi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9279575,38.7921867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Deveci Damlaları Köprüsü

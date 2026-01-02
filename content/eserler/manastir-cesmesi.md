@@ -1,18 +1,17 @@
 ---
-title: "Manastır Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:38+03:00
+title: "Manastır Çeşmesi"
+date: "2025-12-25T10:18:38+03:00"
 slug: "manastir-cesmesi"
 description: "# Manastır Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.7284813,40.9981422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Manastır Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Sarissa | Miras Haritası"
-date: 2025-12-25T04:22:38+03:00
+title: "Sarissa"
+date: "2025-12-25T04:22:38+03:00"
 slug: "sarissa"
 description: "## Sarissa: Sivas'ta Gizemli Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/KusakliHügel.JPG/1200px-KusakliHügel.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sivas"
+province: "Sivas"
+iller: '["Sivas"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.90972222,39.30833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sarissa: Sivas'ta Gizemli Bir Arkeolojik Sit

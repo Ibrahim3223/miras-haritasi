@@ -1,18 +1,17 @@
 ---
-title: "Ayakapı Şapeli | Miras Haritası"
-date: 2025-12-25T09:43:33+03:00
+title: "Ayakapı Şapeli"
+date: "2025-12-25T09:43:33+03:00"
 slug: "ayakapi-sapeli"
 description: "**Ayakapı Şapeli**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9560184,41.0279617"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayakapı Şapeli**

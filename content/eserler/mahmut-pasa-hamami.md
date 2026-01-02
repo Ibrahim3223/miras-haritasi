@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T17:11:49+03:00
+title: "Mahmut Paşa Hamamı"
+date: "2025-12-25T17:11:49+03:00"
 slug: "mahmut-pasa-hamami"
 description: "## Mahmut Paşa Hamamı: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.980175,37.0289993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Paşa Hamamı: Şanlıurfa'nın Tarihi Bir Mirası

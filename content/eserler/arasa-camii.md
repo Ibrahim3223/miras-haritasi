@@ -1,18 +1,17 @@
 ---
-title: "Arasa Camii | Miras Haritası"
-date: 2025-12-24T22:14:38+03:00
+title: "Arasa Camii"
+date: "2025-12-24T22:14:38+03:00"
 slug: "arasa-camii"
 description: "## Arasa Camii: Tarihi ve Kültürel Mirasın Gözbebeği..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9264526,37.5818863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arasa Camii: Tarihi ve Kültürel Mirasın Gözbebeği

@@ -1,18 +1,17 @@
 ---
-title: "Kazancı Camii | Miras Haritası"
-date: 2025-12-24T21:40:56+03:00
+title: "Kazancı Camii"
+date: "2025-12-24T21:40:56+03:00"
 slug: "kazanci-camii"
 description: "## Kazancı Camii: İstanbul'un Tarihi Bir Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Kazancı_Mosque_outside_view.jpg/1200px-Kazancı_Mosque_outside_view.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.985946288,41.035467412"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kazancı Camii: İstanbul'un Tarihi Bir Camii

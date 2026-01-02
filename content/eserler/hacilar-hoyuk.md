@@ -1,18 +1,17 @@
 ---
-title: "Hacılar Höyük | Miras Haritası"
-date: 2025-12-25T06:50:57+03:00
+title: "Hacılar Höyük"
+date: "2025-12-25T06:50:57+03:00"
 slug: "hacilar-hoyuk"
 description: "**Hacılar Höyük: Türkiye'nin Eski Uygarlığının Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frauenstatuetten_Hacilar.jpg/1200px-Frauenstatuetten_Hacilar.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Burdur"
+province: "Burdur"
+iller: '["Burdur"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0845,37.5843"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Hacılar Höyük: Türkiye'nin Eski Uygarlığının Mirası**

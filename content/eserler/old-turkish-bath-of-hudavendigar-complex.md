@@ -1,18 +1,17 @@
 ---
-title: "Old Turkish Bath of Hüdavendigar Complex | Miras Haritası"
-date: 2025-12-25T16:28:32+03:00
+title: "Old Turkish Bath of Hüdavendigar Complex"
+date: "2025-12-25T16:28:32+03:00"
 slug: "old-turkish-bath-of-hudavendigar-complex"
 description: "## Hüdavendigar Kompleksi'ndeki Eski Türk Hamamı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.02333,40.20222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüdavendigar Kompleksi'ndeki Eski Türk Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Almura | Miras Haritası"
-date: 2025-12-25T05:08:07+03:00
+title: "Almura"
+date: "2025-12-25T05:08:07+03:00"
 slug: "almura"
 description: "## Almura Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.615,38.112222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Almura Arkeolojik Sit

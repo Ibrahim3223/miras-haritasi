@@ -1,18 +1,17 @@
 ---
-title: "Kale Arno Höyük, Batman | Miras Haritası"
-date: 2025-12-25T13:48:27+03:00
+title: "Kale Arno Höyük, Batman"
+date: "2025-12-25T13:48:27+03:00"
 slug: "kale-arno-hoyuk-batman"
 description: "## Kale Arno Höyük: Güneydoğu Anadolu'nun Gizli Anıtı..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.0294685,37.7850266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Arno Höyük: Güneydoğu Anadolu'nun Gizli Anıtı

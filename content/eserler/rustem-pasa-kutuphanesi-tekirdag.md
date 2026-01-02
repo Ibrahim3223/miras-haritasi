@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Paşa Kütüphanesi, Tekirdağ | Miras Haritası"
-date: 2025-12-25T17:53:16+03:00
+title: "Rüstem Paşa Kütüphanesi, Tekirdağ"
+date: "2025-12-25T17:53:16+03:00"
 slug: "rustem-pasa-kutuphanesi-tekirdag"
 description: "## Rüstem Paşa Kütüphanesi, Tekirdağ..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.5166569,40.9776344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rüstem Paşa Kütüphanesi, Tekirdağ

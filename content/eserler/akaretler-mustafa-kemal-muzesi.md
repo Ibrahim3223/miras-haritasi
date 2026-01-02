@@ -1,18 +1,17 @@
 ---
-title: "Akaretler Mustafa Kemal Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:16+03:00
+title: "Akaretler Mustafa Kemal Müzesi"
+date: "2025-12-25T03:44:16+03:00"
 slug: "akaretler-mustafa-kemal-muzesi"
 description: "**Akaretler Mustafa Kemal Müzesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0022907,41.0423012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akaretler Mustafa Kemal Müzesi**

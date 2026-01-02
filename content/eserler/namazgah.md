@@ -1,18 +1,17 @@
 ---
-title: "Namazgah | Miras Haritası"
-date: 2025-12-25T05:37:51+03:00
+title: "Namazgah"
+date: "2025-12-25T05:37:51+03:00"
 slug: "namazgah"
 description: "### Namazgah: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.562301,41.710433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Namazgah: Edirne'nin Gizli Cenneti

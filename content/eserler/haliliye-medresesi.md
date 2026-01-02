@@ -1,18 +1,17 @@
 ---
-title: "Haliliye Medresesi | Miras Haritası"
-date: 2025-12-25T17:31:01+03:00
+title: "Haliliye Medresesi"
+date: "2025-12-25T17:31:01+03:00"
 slug: "haliliye-medresesi"
 description: "# Haliliye Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.955071,41.019084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Haliliye Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Mescit, Antalya | Miras Haritası"
-date: 2025-12-25T01:09:45+03:00
+title: "Kavaklı Mescit, Antalya"
+date: "2025-12-25T01:09:45+03:00"
 slug: "kavakli-mescit-antalya"
 description: "## Kavaklı Mescit: Antalya'nın Tarihi Camisi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7057838,36.8906479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavaklı Mescit: Antalya'nın Tarihi Camisi

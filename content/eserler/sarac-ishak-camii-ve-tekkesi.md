@@ -1,18 +1,17 @@
 ---
-title: "Saraç İshak Camii ve Tekkesi | Miras Haritası"
-date: 2025-12-25T00:58:50+03:00
+title: "Saraç İshak Camii ve Tekkesi"
+date: "2025-12-25T00:58:50+03:00"
 slug: "sarac-ishak-camii-ve-tekkesi"
 description: "## Saraç İshak Camii ve Tekkesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9638939,41.0071869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraç İshak Camii ve Tekkesi

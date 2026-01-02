@@ -1,18 +1,17 @@
 ---
-title: "Bülbül Hatun ve Ahmet Bey’in Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:17+03:00
+title: "Bülbül Hatun ve Ahmet Bey’in Türbesi"
+date: "2025-12-25T15:27:17+03:00"
 slug: "bulbul-hatun-ve-ahmet-beyin-turbesi"
 description: "## Bülbül Hatun ve Ahmet Bey’in Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3640747,40.2239418"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bülbül Hatun ve Ahmet Bey’in Türbesi

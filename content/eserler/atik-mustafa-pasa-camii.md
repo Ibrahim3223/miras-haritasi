@@ -1,18 +1,17 @@
 ---
-title: "Atik Mustafa Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:52:48+03:00
+title: "Atik Mustafa Paşa Camii"
+date: "2025-12-24T21:52:48+03:00"
 slug: "atik-mustafa-pasa-camii"
 description: "## Atik Mustafa Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/AtikMustafaPashaMosque20072612_02.jpg/1200px-AtikMustafaPashaMosque20072612_02.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.944,41.0386"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Atik Mustafa Paşa Camii

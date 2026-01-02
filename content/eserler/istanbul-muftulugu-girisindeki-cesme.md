@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Müftülüğü Girişindeki Çeşme | Miras Haritası"
-date: 2025-12-25T12:59:25+03:00
+title: "İstanbul Müftülüğü Girişindeki Çeşme"
+date: "2025-12-25T12:59:25+03:00"
 slug: "istanbul-muftulugu-girisindeki-cesme"
 description: "## İstanbul Müftülüğü Girişindeki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.963610305,41.017462755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Müftülüğü Girişindeki Çeşme

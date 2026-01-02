@@ -1,18 +1,17 @@
 ---
-title: "Meydan Çeşmesi, Han | Miras Haritası"
-date: 2025-12-25T12:20:46+03:00
+title: "Meydan Çeşmesi, Han"
+date: "2025-12-25T12:20:46+03:00"
 slug: "meydan-cesmesi-han"
 description: "# Meydan Çeşmesi, Han..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.8636303,39.1585655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Meydan Çeşmesi, Han

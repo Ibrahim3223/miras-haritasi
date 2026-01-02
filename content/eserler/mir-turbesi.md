@@ -1,18 +1,17 @@
 ---
-title: "Mir Türbesi | Miras Haritası"
-date: 2025-12-25T14:46:15+03:00
+title: "Mir Türbesi"
+date: "2025-12-25T14:46:15+03:00"
 slug: "mir-turbesi"
 description: "## Mir Türbesi: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.958464742,37.179123217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mir Türbesi: Mardin'in Gizli Cenneti

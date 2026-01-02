@@ -1,18 +1,17 @@
 ---
-title: "Zevki Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:42:21+03:00
+title: "Zevki Kadın Çeşmesi"
+date: "2025-12-25T10:42:21+03:00"
 slug: "zevki-kadin-cesmesi"
 description: "## Zevki Kadın Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Zevki_Kadın_Fountain.jpg/1200px-Zevki_Kadın_Fountain.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Pürtelaş Hasan Efendi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.988527777,41.029972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zevki Kadın Çeşmesi

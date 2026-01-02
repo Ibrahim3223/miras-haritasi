@@ -1,18 +1,17 @@
 ---
-title: "Salos Camii | Miras Haritası"
-date: 2025-12-24T22:43:02+03:00
+title: "Salos Camii"
+date: "2025-12-24T22:43:02+03:00"
 slug: "salos-camii"
 description: "# Salos Camii: Diyarbakır'ın Tarihi Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2362251,37.9084663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Salos Camii: Diyarbakır'ın Tarihi Mirası

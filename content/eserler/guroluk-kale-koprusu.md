@@ -1,18 +1,17 @@
 ---
-title: "Güroluk Kale Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:48+03:00
+title: "Güroluk Kale Köprüsü"
+date: "2025-12-25T02:11:48+03:00"
 slug: "guroluk-kale-koprusu"
 description: "## Güroluk Kale Köprüsü: Rize'nin Tarihi Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0496,41.02095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güroluk Kale Köprüsü: Rize'nin Tarihi Mirası

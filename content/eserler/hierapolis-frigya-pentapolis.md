@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis (Frigya Pentapolis) | Miras Haritası"
-date: 2025-12-25T05:05:36+03:00
+title: "Hierapolis (Frigya Pentapolis)"
+date: "2025-12-25T05:05:36+03:00"
 slug: "hierapolis-frigya-pentapolis"
 description: "**Hierapolis (Frigya Pentapolis)**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.197699,38.461767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hierapolis (Frigya Pentapolis)**

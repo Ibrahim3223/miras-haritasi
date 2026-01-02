@@ -1,18 +1,17 @@
 ---
-title: "Mindaşeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:33+03:00
+title: "Mindaşeni Kilisesi"
+date: "2025-12-25T09:21:33+03:00"
 slug: "mindaseni-kilisesi"
 description: "## Mindaşeni Kilisesi..."
 featured_image: ""
-province: "Kars Oblastı"
-iller: ["Kars Oblastı"]
-district: "Ardahan"
+province: "Ardahan"
+iller: '["Ardahan"]'
+district: "Kars Oblastı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.725394444,41.102127777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mindaşeni Kilisesi

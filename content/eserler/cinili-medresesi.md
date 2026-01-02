@@ -1,18 +1,17 @@
 ---
-title: "Çinili Medresesi | Miras Haritası"
-date: 2025-12-25T17:35:17+03:00
+title: "Çinili Medresesi"
+date: "2025-12-25T17:35:17+03:00"
 slug: "cinili-medresesi"
 description: "# Çinili Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0295105,41.0199814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çinili Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Beşir Ağa Camii Avlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:19+03:00
+title: "Hacı Beşir Ağa Camii Avlu Çeşmesi"
+date: "2025-12-25T11:43:19+03:00"
 slug: "haci-besir-aga-camii-avlu-cesmesi"
 description: "## Hacı Beşir Ağa Camii Avlu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9771099,41.0107918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Beşir Ağa Camii Avlu Çeşmesi

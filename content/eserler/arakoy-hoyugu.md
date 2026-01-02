@@ -1,18 +1,17 @@
 ---
-title: "Araköy Höyüğü | Miras Haritası"
-date: 2025-12-25T06:12:00+03:00
+title: "Araköy Höyüğü"
+date: "2025-12-25T06:12:00+03:00"
 slug: "arakoy-hoyugu"
 description: "## Araköy Höyüğü: Mardin'in Gizli Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.530042882,37.205722043"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Araköy Höyüğü: Mardin'in Gizli Mirası

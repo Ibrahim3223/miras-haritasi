@@ -1,18 +1,17 @@
 ---
-title: "Mehmed Ağa Çeşmesi, Eyüpsultan | Miras Haritası"
-date: 2025-12-25T12:14:56+03:00
+title: "Mehmed Ağa Çeşmesi, Eyüpsultan"
+date: "2025-12-25T12:14:56+03:00"
 slug: "mehmed-aga-cesmesi-eyupsultan"
 description: "### Mehmed Ağa Çeşmesi, Eyüpsultan..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.929952,41.050163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehmed Ağa Çeşmesi, Eyüpsultan

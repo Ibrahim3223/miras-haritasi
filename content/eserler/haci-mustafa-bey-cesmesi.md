@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mustafa Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:35+03:00
+title: "Hacı Mustafa Bey Çeşmesi"
+date: "2025-12-25T10:31:35+03:00"
 slug: "haci-mustafa-bey-cesmesi"
 description: "## Hacı Mustafa Bey Çeşmesi: Karacasu'nun Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6069069,37.728817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mustafa Bey Çeşmesi: Karacasu'nun Tarihî Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Karaevli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:38+03:00
+title: "Karaevli Köprüsü"
+date: "2025-12-25T02:27:38+03:00"
 slug: "karaevli-koprusu"
 description: "# Karaevli Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6923033,41.0337766"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karaevli Köprüsü

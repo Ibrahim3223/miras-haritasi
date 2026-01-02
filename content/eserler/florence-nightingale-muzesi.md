@@ -1,18 +1,17 @@
 ---
-title: "Florence Nightingale Müzesi | Miras Haritası"
-date: 2025-12-25T03:29:19+03:00
+title: "Florence Nightingale Müzesi"
+date: "2025-12-25T03:29:19+03:00"
 slug: "florence-nightingale-muzesi"
 description: "## Florence Nightingale Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.016064,41.005246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Florence Nightingale Müzesi

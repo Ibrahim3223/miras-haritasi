@@ -1,18 +1,17 @@
 ---
-title: "Şarköy Camikebir Köprüsü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:55+03:00
+title: "Şarköy Camikebir Köprüsü Çeşmesi"
+date: "2025-12-25T10:53:55+03:00"
 slug: "sarkoy-camikebir-koprusu-cesmesi"
 description: "## Şarköy Camikebir Köprüsü Çeşmesi: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.0948753,40.6451721"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şarköy Camikebir Köprüsü Çeşmesi: Tarihi ve Kültürel Mirasının Bir Parçası

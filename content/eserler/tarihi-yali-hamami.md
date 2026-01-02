@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Yalı Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:33+03:00
+title: "Tarihi Yalı Hamamı"
+date: "2025-12-25T17:10:33+03:00"
 slug: "tarihi-yali-hamami"
 description: "# Tarihi Yalı Hamamı..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9241791,40.7626724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tarihi Yalı Hamamı

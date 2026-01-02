@@ -1,18 +1,17 @@
 ---
-title: "Kemere Köprüsü | Miras Haritası"
-date: 2025-12-25T01:53:59+03:00
+title: "Kemere Köprüsü"
+date: "2025-12-25T01:53:59+03:00"
 slug: "kemere-koprusu"
 description: "## Kemere Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kemere_Bridge,_Turkey.jpg/1200px-Kemere_Bridge,_Turkey.jpg"
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Amasra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.38461,41.75035"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kemere Köprüsü

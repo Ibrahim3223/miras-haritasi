@@ -1,18 +1,17 @@
 ---
-title: "Küçük Piyale Camii | Miras Haritası"
-date: 2025-12-25T00:36:22+03:00
+title: "Küçük Piyale Camii"
+date: "2025-12-25T00:36:22+03:00"
 slug: "kucuk-piyale-camii"
 description: "## Küçük Piyale Camii: İstanbul'un Gizli Çehresinde Bir Örnek..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.965749186,41.039830225"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Piyale Camii: İstanbul'un Gizli Çehresinde Bir Örnek

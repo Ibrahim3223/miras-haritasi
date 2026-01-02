@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Küçük Hamam | Miras Haritası"
-date: 2025-12-25T17:04:34+03:00
+title: "Anemurium Küçük Hamam"
+date: "2025-12-25T17:04:34+03:00"
 slug: "anemurium-kucuk-hamam"
 description: "## Anemurium Küçük Hamamı: Tarihi ve Kültürel Miras Değerleri..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8047752,36.0245209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anemurium Küçük Hamamı: Tarihi ve Kültürel Miras Değerleri

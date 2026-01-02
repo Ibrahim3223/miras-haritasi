@@ -1,18 +1,17 @@
 ---
-title: "Meriç Köprüsü | Miras Haritası"
-date: 2025-12-25T01:54:40+03:00
+title: "Meriç Köprüsü"
+date: "2025-12-25T01:54:40+03:00"
 slug: "meric-koprusu"
 description: "## Meriç Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MeriçBridgeEdirne.JPG/1200px-MeriçBridgeEdirne.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.552228,41.663535"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Meriç Köprüsü

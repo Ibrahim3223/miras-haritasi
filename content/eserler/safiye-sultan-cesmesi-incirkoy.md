@@ -1,18 +1,17 @@
 ---
-title: "Safiye Sultan Çeşmesi, İncirköy | Miras Haritası"
-date: 2025-12-25T12:24:22+03:00
+title: "Safiye Sultan Çeşmesi, İncirköy"
+date: "2025-12-25T12:24:22+03:00"
 slug: "safiye-sultan-cesmesi-incirkoy"
 description: "## Safiye Sultan Çeşmesi, İncirköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Safiye_Sultan_Fountain2,_İncirköy,_Beykoz,_İstanbul_2024.jpg/1200px-Safiye_Sultan_Fountain2,_İncirköy,_Beykoz,_İstanbul_2024.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.099012,41.11706"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Safiye Sultan Çeşmesi, İncirköy

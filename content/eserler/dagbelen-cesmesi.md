@@ -1,18 +1,17 @@
 ---
-title: "Dağbelen Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:34:07+03:00
+title: "Dağbelen Çeşmesi"
+date: "2025-12-25T11:34:07+03:00"
 slug: "dagbelen-cesmesi"
 description: "### Dağbelen Çeşmesi: Bodrum'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3419209,37.0870171"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dağbelen Çeşmesi: Bodrum'un Tarihi Bir Çeşmesi

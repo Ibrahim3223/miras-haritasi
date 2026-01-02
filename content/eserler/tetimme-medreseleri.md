@@ -1,18 +1,17 @@
 ---
-title: "Tetimme Medreseleri | Miras Haritası"
-date: 2025-12-25T17:43:01+03:00
+title: "Tetimme Medreseleri"
+date: "2025-12-25T17:43:01+03:00"
 slug: "tetimme-medreseleri"
 description: "## Tetimme Medreseleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9511108,41.0205421"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tetimme Medreseleri

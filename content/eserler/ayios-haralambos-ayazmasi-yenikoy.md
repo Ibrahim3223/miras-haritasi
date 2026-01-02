@@ -1,18 +1,17 @@
 ---
-title: "Ayios Haralambos Ayazması, Yeniköy | Miras Haritası"
-date: 2025-12-25T12:41:57+03:00
+title: "Ayios Haralambos Ayazması, Yeniköy"
+date: "2025-12-25T12:41:57+03:00"
 slug: "ayios-haralambos-ayazmasi-yenikoy"
 description: "## Ayios Haralambos Ayazması, Yeniköy: Sarıyer'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0619202,41.1250305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Haralambos Ayazması, Yeniköy: Sarıyer'in Gizli Çeşmesi

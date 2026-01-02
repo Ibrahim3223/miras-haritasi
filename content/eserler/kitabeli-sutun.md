@@ -1,18 +1,17 @@
 ---
-title: "Kitabeli Sütun | Miras Haritası"
-date: 2025-12-25T14:32:35+03:00
+title: "Kitabeli Sütun"
+date: "2025-12-25T14:32:35+03:00"
 slug: "kitabeli-sutun"
 description: "## Kitabeli Sütun: Cankurtaran'ın İhtişamlı Anıtı..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.983532,41.0112495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kitabeli Sütun: Cankurtaran'ın İhtişamlı Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Parsada | Miras Haritası"
-date: 2025-12-25T05:12:59+03:00
+title: "Parsada"
+date: "2025-12-25T05:12:59+03:00"
 slug: "parsada"
 description: "## Parsada Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.638875,38.393106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parsada Arkeolojik Sit

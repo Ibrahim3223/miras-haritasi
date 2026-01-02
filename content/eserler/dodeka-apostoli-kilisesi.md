@@ -1,18 +1,17 @@
 ---
-title: "Dodeka Apostoli Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:59+03:00
+title: "Dodeka Apostoli Kilisesi"
+date: "2025-12-25T09:13:59+03:00"
 slug: "dodeka-apostoli-kilisesi"
 description: "# Dodeka Apostoli Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.979935,41.05397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dodeka Apostoli Kilisesi

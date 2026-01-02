@@ -1,18 +1,17 @@
 ---
-title: "Ayaş Tarihi Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:36:38+03:00
+title: "Ayaş Tarihi Paşa Hamamı"
+date: "2025-12-25T16:36:38+03:00"
 slug: "ayas-tarihi-pasa-hamami"
 description: "## Ayaş Tarihi Paşa Hamamı..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
+iller: '["Ankara Vilayeti"]'
 district: "Ayaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.3328362,40.015377"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayaş Tarihi Paşa Hamamı

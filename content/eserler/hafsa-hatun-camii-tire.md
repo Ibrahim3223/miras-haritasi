@@ -1,18 +1,17 @@
 ---
-title: "Hafsa Hatun Camii, Tire | Miras Haritası"
-date: 2025-12-25T00:52:21+03:00
+title: "Hafsa Hatun Camii, Tire"
+date: "2025-12-25T00:52:21+03:00"
 slug: "hafsa-hatun-camii-tire"
 description: "## Hafsa Hatun Camii: Tire'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7501984,38.0812492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafsa Hatun Camii: Tire'nin Tarihî Bir Mirası

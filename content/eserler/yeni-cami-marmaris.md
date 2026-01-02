@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami (Marmaris) | Miras Haritası"
-date: 2025-12-25T00:01:59+03:00
+title: "Yeni Cami (Marmaris)"
+date: "2025-12-25T00:01:59+03:00"
 slug: "yeni-cami-marmaris"
 description: "## Marmaris'te Yeni Cami: Tarih, Mimari ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.2729836,36.8525581"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marmaris'te Yeni Cami: Tarih, Mimari ve Ziyaret Bilgileri

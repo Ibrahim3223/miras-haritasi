@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Turani Türbesi | Miras Haritası"
-date: 2025-12-25T13:37:34+03:00
+title: "Ahmet Turani Türbesi"
+date: "2025-12-25T13:37:34+03:00"
 slug: "ahmet-turani-turbesi"
 description: "### Ahmet Turani Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.999233,41.040963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Turani Türbesi

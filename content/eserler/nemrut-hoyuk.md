@@ -1,18 +1,17 @@
 ---
-title: "Nemrut Höyük | Miras Haritası"
-date: 2025-12-25T05:44:02+03:00
+title: "Nemrut Höyük"
+date: "2025-12-25T05:44:02+03:00"
 slug: "nemrut-hoyuk"
 description: "### Nemrut Höyük: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.525698,38.448381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nemrut Höyük: İzmir'in Gizli Cenneti

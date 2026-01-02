@@ -1,18 +1,17 @@
 ---
-title: "Çeşnigir Köprüsü | Miras Haritası"
-date: 2025-12-25T03:05:40+03:00
+title: "Çeşnigir Köprüsü"
+date: "2025-12-25T03:05:40+03:00"
 slug: "cesnigir-koprusu"
 description: "## Çeşnigir Köprüsü: Tarım ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cesnigir_paradise3.jpg/1200px-Cesnigir_paradise3.jpg"
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Karakeçili"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.42939,39.58086"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çeşnigir Köprüsü: Tarım ve Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Çokumağıl Höyük | Miras Haritası"
-date: 2025-12-25T13:45:53+03:00
+title: "Çokumağıl Höyük"
+date: "2025-12-25T13:45:53+03:00"
 slug: "cokumagil-hoyuk"
 description: "## Çokumağıl Höyük..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1805481,39.170442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çokumağıl Höyük

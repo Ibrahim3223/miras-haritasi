@@ -1,18 +1,17 @@
 ---
-title: "Kesiktaş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:06:19+03:00
+title: "Kesiktaş Köprüsü"
+date: "2025-12-25T02:06:19+03:00"
 slug: "kesiktas-koprusu"
 description: "## Kesiktaş Köprüsü - Borçka'nın Tarihî Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.6503103,41.4544298"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kesiktaş Köprüsü - Borçka'nın Tarihî Mirası

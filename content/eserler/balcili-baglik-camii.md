@@ -1,18 +1,17 @@
 ---
-title: "Balcılı Bağlık Camii | Miras Haritası"
-date: 2025-12-25T00:57:39+03:00
+title: "Balcılı Bağlık Camii"
+date: "2025-12-25T00:57:39+03:00"
 slug: "balcili-baglik-camii"
 description: "**Balcılı Bağlık Camii**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.466667,40.983333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Balcılı Bağlık Camii**

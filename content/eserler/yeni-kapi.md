@@ -1,18 +1,17 @@
 ---
-title: "Yeni Kapı | Miras Haritası"
-date: 2025-12-25T13:41:43+03:00
+title: "Yeni Kapı"
+date: "2025-12-25T13:41:43+03:00"
 slug: "yeni-kapi"
 description: "## Yeni Kapı: Diyarbakır'ın Gizli Çehresini Açan Anıt..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.245121654,37.910266227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Kapı: Diyarbakır'ın Gizli Çehresini Açan Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Hogots Manastırı | Miras Haritası"
-date: 2025-12-25T09:48:54+03:00
+title: "Hogots Manastırı"
+date: "2025-12-25T09:48:54+03:00"
 slug: "hogots-manastiri"
 description: "## Hogots Manastırı: Tarihi ve Kültürel Mirasın Gizemli Yerleri..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gürpınar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.4326,38.0833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hogots Manastırı: Tarihi ve Kültürel Mirasın Gizemli Yerleri

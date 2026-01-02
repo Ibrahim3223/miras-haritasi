@@ -1,18 +1,17 @@
 ---
-title: "Hasuni Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:52+03:00
+title: "Hasuni Kalesi"
+date: "2025-12-25T01:16:52+03:00"
 slug: "hasuni-kalesi"
 description: "## Hasuni Kalesi: Silvan'ın Tarihsel Anıtları Arasındaki Yüce Kale..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.089859,38.1365623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasuni Kalesi: Silvan'ın Tarihsel Anıtları Arasındaki Yüce Kale

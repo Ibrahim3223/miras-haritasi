@@ -1,18 +1,17 @@
 ---
-title: "İskefiye Kalesi | Miras Haritası"
-date: 2025-12-25T01:27:57+03:00
+title: "İskefiye Kalesi"
+date: "2025-12-25T01:27:57+03:00"
 slug: "iskefiye-kalesi"
 description: "## İskefiye Kalesi: Trabzon'un Gizli Çandırı..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Vakfıkebir"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.371418,40.9849167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskefiye Kalesi: Trabzon'un Gizli Çandırı

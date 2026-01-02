@@ -1,18 +1,17 @@
 ---
-title: "Fatih Sultan Mehmet Valide Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:59:12+03:00
+title: "Fatih Sultan Mehmet Valide Camii Çeşmesi"
+date: "2025-12-25T11:59:12+03:00"
 slug: "fatih-sultan-mehmet-valide-camii-cesmesi"
 description: "## Fatih Sultan Mehmet Valide Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.8374462,38.7409554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Sultan Mehmet Valide Camii Çeşmesi

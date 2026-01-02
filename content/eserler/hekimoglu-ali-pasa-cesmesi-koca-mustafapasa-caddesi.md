@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Çeşmesi, Koca Mustafapaşa Caddesi | Miras Haritası"
-date: 2025-12-25T12:06:36+03:00
+title: "Hekimoğlu Ali Paşa Çeşmesi, Koca Mustafapaşa Caddesi"
+date: "2025-12-25T12:06:36+03:00"
 slug: "hekimoglu-ali-pasa-cesmesi-koca-mustafapasa-caddesi"
 description: "## Hekimoğlu Ali Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9349117,41.0048714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hekimoğlu Ali Paşa Çeşmesi

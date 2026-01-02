@@ -1,18 +1,17 @@
 ---
-title: "Kumluk Çeşmesi ve Çamaşırhanesi | Miras Haritası"
-date: 2025-12-25T12:54:26+03:00
+title: "Kumluk Çeşmesi ve Çamaşırhanesi"
+date: "2025-12-25T12:54:26+03:00"
 slug: "kumluk-cesmesi-ve-camasirhanesi"
 description: "## Kumluk Çeşmesi ve Çamaşırhanesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.7483063,38.3224983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumluk Çeşmesi ve Çamaşırhanesi

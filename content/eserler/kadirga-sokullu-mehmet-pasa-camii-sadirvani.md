@@ -1,18 +1,17 @@
 ---
-title: "Kadırga Sokullu Mehmet Paşa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:03+03:00
+title: "Kadırga Sokullu Mehmet Paşa Camii Şadırvanı"
+date: "2025-12-25T10:02:03+03:00"
 slug: "kadirga-sokullu-mehmet-pasa-camii-sadirvani"
 description: "## Kadırga Sokullu Mehmet Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9719963,41.0048561"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadırga Sokullu Mehmet Paşa Camii Şadırvanı

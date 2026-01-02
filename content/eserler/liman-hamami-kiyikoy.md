@@ -1,18 +1,17 @@
 ---
-title: "Liman Hamamı (Kıyıköy) | Miras Haritası"
-date: 2025-12-25T16:25:41+03:00
+title: "Liman Hamamı (Kıyıköy)"
+date: "2025-12-25T16:25:41+03:00"
 slug: "liman-hamami-kiyikoy"
 description: "## Liman Hamamı (Kıyıköy)..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.094527777,41.632194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Liman Hamamı (Kıyıköy)

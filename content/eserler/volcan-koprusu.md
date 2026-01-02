@@ -1,18 +1,17 @@
 ---
-title: "Volçan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:25+03:00
+title: "Volçan Köprüsü"
+date: "2025-12-25T02:07:25+03:00"
 slug: "volcan-koprusu"
 description: "## Volçan Köprüsü: Kırklareli'nin Kırmızıtaşlı Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6001797,41.944191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Volçan Köprüsü: Kırklareli'nin Kırmızıtaşlı Anıtı

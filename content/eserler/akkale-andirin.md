@@ -1,18 +1,17 @@
 ---
-title: "Akkale, Andırın | Miras Haritası"
-date: 2025-12-25T01:37:47+03:00
+title: "Akkale, Andırın"
+date: "2025-12-25T01:37:47+03:00"
 slug: "akkale-andirin"
 description: "**Akkale, Andırın: Kahramanmaraş'ın Gizli Güzelliği**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Andırın"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.3667946,37.548378"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akkale, Andırın: Kahramanmaraş'ın Gizli Güzelliği**

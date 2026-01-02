@@ -1,18 +1,17 @@
 ---
-title: "Akbucak Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:19+03:00
+title: "Akbucak Köyü Köprüsü"
+date: "2025-12-25T02:08:19+03:00"
 slug: "akbucak-koyu-koprusu"
 description: "## Akbucak Köyü Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.93805,41.095817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akbucak Köyü Köprüsü

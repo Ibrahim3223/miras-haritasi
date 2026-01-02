@@ -1,18 +1,17 @@
 ---
-title: "Typallia | Miras Haritası"
-date: 2025-12-25T05:38:12+03:00
+title: "Typallia"
+date: "2025-12-25T05:38:12+03:00"
 slug: "typallia"
 description: "## Typallia: Antik Çağın Gizemi Anlaşılıyor..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.444722,36.8075"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Typallia: Antik Çağın Gizemi Anlaşılıyor

@@ -1,18 +1,17 @@
 ---
-title: "Şengül Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:05+03:00
+title: "Şengül Camii Çeşmesi"
+date: "2025-12-25T10:17:05+03:00"
 slug: "sengul-camii-cesmesi"
 description: "### Şengül Camii Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9744072,39.4163246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şengül Camii Çeşmesi

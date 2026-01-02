@@ -1,18 +1,17 @@
 ---
-title: "Halikarnas Mozolesi | Miras Haritası"
-date: 2025-12-25T03:07:24+03:00
+title: "Halikarnas Mozolesi"
+date: "2025-12-25T03:07:24+03:00"
 slug: "halikarnas-mozolesi"
 description: "### Halikarnas Mozolesi: Muhteşem bir Antik Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg/1200px-The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.424097,37.037942"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Halikarnas Mozolesi: Muhteşem bir Antik Miras

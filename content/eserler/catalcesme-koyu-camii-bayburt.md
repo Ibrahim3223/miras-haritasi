@@ -1,18 +1,17 @@
 ---
-title: "Çatalçeşme Köyü Camii, Bayburt | Miras Haritası"
-date: 2025-12-25T00:13:07+03:00
+title: "Çatalçeşme Köyü Camii, Bayburt"
+date: "2025-12-25T00:13:07+03:00"
 slug: "catalcesme-koyu-camii-bayburt"
 description: "## Çatalçeşme Köyü Camii: Bayburt'un Gizli Çiçeği..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Demirözü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.8879623,40.211441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatalçeşme Köyü Camii: Bayburt'un Gizli Çiçeği

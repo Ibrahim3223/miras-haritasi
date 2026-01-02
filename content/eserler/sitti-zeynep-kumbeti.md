@@ -1,18 +1,17 @@
 ---
-title: "Sitti Zeynep Kümbeti | Miras Haritası"
-date: 2025-12-25T14:02:12+03:00
+title: "Sitti Zeynep Kümbeti"
+date: "2025-12-25T14:02:12+03:00"
 slug: "sitti-zeynep-kumbeti"
 description: "## Sitti Zeynep Kümbeti: Bir Anıtsal Yapının Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.3722669,38.4198683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sitti Zeynep Kümbeti: Bir Anıtsal Yapının Tarihi ve Kültürel Mirası

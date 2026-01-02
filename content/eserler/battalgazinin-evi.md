@@ -1,18 +1,17 @@
 ---
-title: "Battalgazi’nin Evi | Miras Haritası"
-date: 2025-12-25T06:05:23+03:00
+title: "Battalgazi’nin Evi"
+date: "2025-12-25T06:05:23+03:00"
 slug: "battalgazinin-evi"
 description: "## Battalgazi'nin Evi: Malatya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3696213,38.4101372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Battalgazi'nin Evi: Malatya'nın Tarihi Bir Mirası

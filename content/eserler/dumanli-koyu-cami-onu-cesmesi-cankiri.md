@@ -1,18 +1,17 @@
 ---
-title: "Dumanlı Köyü Cami Önü Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:33:51+03:00
+title: "Dumanlı Köyü Cami Önü Çeşmesi, Çankırı"
+date: "2025-12-25T12:33:51+03:00"
 slug: "dumanli-koyu-cami-onu-cesmesi-cankiri"
 description: "## Dumanlı Köyü Cami Önü Çeşmesi: Çankırı'nın Özlü Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.239324663,40.691060754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumanlı Köyü Cami Önü Çeşmesi: Çankırı'nın Özlü Mirası

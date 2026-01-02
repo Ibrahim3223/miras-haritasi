@@ -1,18 +1,17 @@
 ---
-title: "Bekar Sultan Batı Höyüğü | Miras Haritası"
-date: 2025-12-25T05:57:45+03:00
+title: "Bekar Sultan Batı Höyüğü"
+date: "2025-12-25T05:57:45+03:00"
 slug: "bekar-sultan-bati-hoyugu"
 description: "# Bekar Sultan Batı Höyüğü..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3806534,38.3947067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bekar Sultan Batı Höyüğü

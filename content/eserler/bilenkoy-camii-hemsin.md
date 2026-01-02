@@ -1,18 +1,17 @@
 ---
-title: "Bilenköy Camii, Hemşin | Miras Haritası"
-date: 2025-12-25T00:00:17+03:00
+title: "Bilenköy Camii, Hemşin"
+date: "2025-12-25T00:00:17+03:00"
 slug: "bilenkoy-camii-hemsin"
 description: "## Bilenköy Camii, Hemşin..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Hemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.900102,41.025906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bilenköy Camii, Hemşin

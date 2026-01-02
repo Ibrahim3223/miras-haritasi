@@ -1,18 +1,17 @@
 ---
-title: "Ankara Üniversitesi Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:21+03:00
+title: "Ankara Üniversitesi Tarihi Müzesi"
+date: "2025-12-25T04:05:21+03:00"
 slug: "ankara-universitesi-tarihi-muzesi"
 description: "## Ankara Üniversitesi Tarihi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.833650644,39.934899872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Üniversitesi Tarihi Müzesi

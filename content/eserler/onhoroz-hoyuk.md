@@ -1,18 +1,17 @@
 ---
-title: "Onhoroz Höyük | Miras Haritası"
-date: 2025-12-25T06:27:02+03:00
+title: "Onhoroz Höyük"
+date: "2025-12-25T06:27:02+03:00"
 slug: "onhoroz-hoyuk"
 description: "## Onhoroz Höyük..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.4960926,40.8227567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Onhoroz Höyük

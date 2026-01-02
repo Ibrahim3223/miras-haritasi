@@ -1,18 +1,17 @@
 ---
-title: "Beçene Höyük | Miras Haritası"
-date: 2025-12-25T06:09:12+03:00
+title: "Beçene Höyük"
+date: "2025-12-25T06:09:12+03:00"
 slug: "becene-hoyuk"
 description: "## Beçene Höyük: Konya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.5153847,38.2122841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beçene Höyük: Konya'nın Gizli Tarihi

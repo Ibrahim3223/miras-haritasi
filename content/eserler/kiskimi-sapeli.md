@@ -1,18 +1,17 @@
 ---
-title: "Kiskimi Şapeli | Miras Haritası"
-date: 2025-12-25T09:41:55+03:00
+title: "Kiskimi Şapeli"
+date: "2025-12-25T09:41:55+03:00"
 slug: "kiskimi-sapeli"
 description: "## Kiskimi Şapeli: Alanbaşı, Yusufeli'de Bir Kırsal Kilise..."
 featured_image: ""
 province: "Yusufeli"
-iller: ["Yusufeli"]
+iller: '["Yusufeli"]'
 district: "Alanbaşı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.4038,40.69245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kiskimi Şapeli: Alanbaşı, Yusufeli'de Bir Kırsal Kilise

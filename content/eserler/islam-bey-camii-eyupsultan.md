@@ -1,18 +1,17 @@
 ---
-title: "İslam Bey Camii, Eyüpsultan | Miras Haritası"
-date: 2025-12-24T23:21:57+03:00
+title: "İslam Bey Camii, Eyüpsultan"
+date: "2025-12-24T23:21:57+03:00"
 slug: "islam-bey-camii-eyupsultan"
 description: "## İslam Bey Camii, Eyüpsultan..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/İslam_Bey_Camii,_Eyüpsultan_IMG_0351.jpg/1200px-İslam_Bey_Camii,_Eyüpsultan_IMG_0351.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.92662,41.051484"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İslam Bey Camii, Eyüpsultan

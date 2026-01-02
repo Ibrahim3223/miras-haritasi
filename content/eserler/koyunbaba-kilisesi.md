@@ -1,18 +1,17 @@
 ---
-title: "Koyunbaba Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:31+03:00
+title: "Koyunbaba Kilisesi"
+date: "2025-12-25T09:10:31+03:00"
 slug: "koyunbaba-kilisesi"
 description: "## Koyunbaba Kilisesi: Kırklareli'nin Gizli Çehresini Açığa Çıkaran Biraz Önemli Eser..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.0968151,41.7212944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koyunbaba Kilisesi: Kırklareli'nin Gizli Çehresini Açığa Çıkaran Biraz Önemli Eser

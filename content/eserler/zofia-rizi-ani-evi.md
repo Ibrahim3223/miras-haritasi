@@ -1,18 +1,17 @@
 ---
-title: "Zofia Rizi Anı Evi | Miras Haritası"
-date: 2025-12-25T04:09:32+03:00
+title: "Zofia Rizi Anı Evi"
+date: "2025-12-25T04:09:32+03:00"
 slug: "zofia-rizi-ani-evi"
 description: "## Zofia Rizi Anı Evi Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.210967404,41.109867777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zofia Rizi Anı Evi Müzesi

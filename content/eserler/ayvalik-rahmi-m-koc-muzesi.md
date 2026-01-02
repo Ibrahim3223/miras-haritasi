@@ -1,18 +1,17 @@
 ---
-title: "Ayvalık Rahmi M. Koç Müzesi | Miras Haritası"
-date: 2025-12-25T03:40:45+03:00
+title: "Ayvalık Rahmi M. Koç Müzesi"
+date: "2025-12-25T03:40:45+03:00"
 slug: "ayvalik-rahmi-m-koc-muzesi"
 description: "## Ayvalık Rahmi M. Koç Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.6932735,39.3231392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayvalık Rahmi M. Koç Müzesi

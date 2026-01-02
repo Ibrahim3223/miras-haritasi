@@ -1,18 +1,17 @@
 ---
-title: "Çörekçi Kapısı, Fatih Külliyesi | Miras Haritası"
-date: 2025-12-25T15:36:19+03:00
+title: "Çörekçi Kapısı, Fatih Külliyesi"
+date: "2025-12-25T15:36:19+03:00"
 slug: "corekci-kapisi-fatih-kulliyesi"
 description: "## Çörekçi Kapısı, Fatih Külliyesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9486809,41.0202827"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çörekçi Kapısı, Fatih Külliyesi

@@ -1,18 +1,17 @@
 ---
-title: "İskenderpaşa Camii (Trabzon) | Miras Haritası"
-date: 2025-12-24T21:51:37+03:00
+title: "İskenderpaşa Camii (Trabzon)"
+date: "2025-12-24T21:51:37+03:00"
 slug: "iskenderpasa-camii-trabzon"
 description: "# İskenderpaşa Camii: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.732399,41.0050011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İskenderpaşa Camii: Trabzon'un Tarihi Bir Mirası

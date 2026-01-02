@@ -1,18 +1,17 @@
 ---
-title: "9 Eylül Kapısı | Miras Haritası"
-date: 2025-12-25T13:42:31+03:00
+title: "9 Eylül Kapısı"
+date: "2025-12-25T13:42:31+03:00"
 slug: "9-eylul-kapisi"
 description: "### 9 Eylül Kapısı: İzmir'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/9_September_Gate,_2023.jpg/1200px-9_September_Gate,_2023.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.14325,38.424305555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### 9 Eylül Kapısı: İzmir'in Gizli Mirası

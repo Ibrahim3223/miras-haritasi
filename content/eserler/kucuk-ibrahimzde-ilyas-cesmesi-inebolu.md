@@ -1,18 +1,17 @@
 ---
-title: "Küçük İbrahimzâde İlyas Çeşmesi, İnebolu | Miras Haritası"
-date: 2025-12-25T12:57:48+03:00
+title: "Küçük İbrahimzâde İlyas Çeşmesi, İnebolu"
+date: "2025-12-25T12:57:48+03:00"
 slug: "kucuk-ibrahimzde-ilyas-cesmesi-inebolu"
 description: "## Küçük İbrahimzâde İlyas Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.760207109,41.976787234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük İbrahimzâde İlyas Çeşmesi

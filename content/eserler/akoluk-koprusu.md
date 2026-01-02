@@ -1,18 +1,17 @@
 ---
-title: "Akoluk Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:14+03:00
+title: "Akoluk Köprüsü"
+date: "2025-12-25T02:07:14+03:00"
 slug: "akoluk-koprusu"
 description: "### Akoluk Köprüsü: Ulubey'in Tarihi Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Ulubey"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.7008724,40.8208164"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akoluk Köprüsü: Ulubey'in Tarihi Mirası

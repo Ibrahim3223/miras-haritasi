@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Kongre ve Etnoğrafya Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:23+03:00
+title: "Atatürk Kongre ve Etnoğrafya Müzesi"
+date: "2025-12-25T03:54:23+03:00"
 slug: "ataturk-kongre-ve-etnografya-muzesi"
 description: "#### Atatürk Kongre ve Etnoğrafya Müzesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.01371,39.7496758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 #### Atatürk Kongre ve Etnoğrafya Müzesi

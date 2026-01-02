@@ -1,18 +1,17 @@
 ---
-title: "Kartaltepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:58+03:00
+title: "Kartaltepe Tümülüsü"
+date: "2025-12-25T07:40:58+03:00"
 slug: "kartaltepe-tumulusu"
 description: "## Kartaltepe Tümülüsü: Edirne'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.4451866,40.9610825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kartaltepe Tümülüsü: Edirne'nin Gizli Kahramanı

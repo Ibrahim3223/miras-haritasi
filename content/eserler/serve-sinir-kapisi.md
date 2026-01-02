@@ -1,18 +1,17 @@
 ---
-title: "Serve Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:37:09+03:00
+title: "Serve Sınır Kapısı"
+date: "2025-12-25T08:37:09+03:00"
 slug: "serve-sinir-kapisi"
 description: "## Serve Sınır Kapısı: Geçmişin Kervansaraylarından Bir Örnek..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "44.5,37.81666667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Serve Sınır Kapısı: Geçmişin Kervansaraylarından Bir Örnek

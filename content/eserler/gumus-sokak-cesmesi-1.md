@@ -1,18 +1,17 @@
 ---
-title: "Gümüş Sokak Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T11:33:47+03:00
+title: "Gümüş Sokak Çeşmesi 1"
+date: "2025-12-25T11:33:47+03:00"
 slug: "gumus-sokak-cesmesi-1"
 description: "## Gümüş Sokak Çeşmesi 1..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gümüş_Sokak_Çeşmesi-1.jpg/1200px-Gümüş_Sokak_Çeşmesi-1.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6901474,41.2502937"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gümüş Sokak Çeşmesi 1

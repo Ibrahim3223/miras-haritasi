@@ -1,18 +1,17 @@
 ---
-title: "Makedon Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:13+03:00
+title: "Makedon Kulesi"
+date: "2025-12-25T17:19:13+03:00"
 slug: "makedon-kulesi"
 description: "## Makedon Kulesi: Edirne'nin Tarihî Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Edirne_Clock_Tower_-_Macedonia_Tower_(13080324614).jpg/1200px-Edirne_Clock_Tower_-_Macedonia_Tower_(13080324614).jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "26.55229,41.67747"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Makedon Kulesi: Edirne'nin Tarihî Saat Kulesi

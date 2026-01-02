@@ -1,18 +1,17 @@
 ---
-title: "Yeniyurt Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:07:13+03:00
+title: "Yeniyurt Anıt Mezarı"
+date: "2025-12-25T14:07:13+03:00"
 slug: "yeniyurt-anit-mezari"
 description: "## Yeniyurt Anıt Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1281509,36.6294785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeniyurt Anıt Mezarı

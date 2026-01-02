@@ -1,18 +1,17 @@
 ---
-title: "Eskisaray Camii | Miras Haritası"
-date: 2025-12-25T01:03:42+03:00
+title: "Eskisaray Camii"
+date: "2025-12-25T01:03:42+03:00"
 slug: "eskisaray-camii"
 description: "## Eskisaray Camii: Adıyaman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.2737,37.760335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskisaray Camii: Adıyaman'ın Tarihi Bir Mirası

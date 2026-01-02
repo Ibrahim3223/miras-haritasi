@@ -1,18 +1,17 @@
 ---
-title: "Sefalık Hamamı | Miras Haritası"
-date: 2025-12-25T16:42:32+03:00
+title: "Sefalık Hamamı"
+date: "2025-12-25T16:42:32+03:00"
 slug: "sefalik-hamami"
 description: "## Sefalık Hamamı..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Aybastı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.42209,40.681225"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sefalık Hamamı

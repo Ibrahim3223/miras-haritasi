@@ -1,18 +1,17 @@
 ---
-title: "Karasu Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:36+03:00
+title: "Karasu Köprüsü"
+date: "2025-12-25T01:59:36+03:00"
 slug: "karasu-koprusu"
 description: "## Karasu Köprüsü: Diyarbakır'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karasu Köprüsü: Diyarbakır'ın Tarihi ve Kültürel Mirası

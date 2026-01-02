@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ahmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:30:14+03:00
+title: "Hacı Ahmet Paşa Çeşmesi"
+date: "2025-12-25T10:30:14+03:00"
 slug: "haci-ahmet-pasa-cesmesi"
 description: "### Hacı Ahmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.028009,41.017548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Ahmet Paşa Çeşmesi

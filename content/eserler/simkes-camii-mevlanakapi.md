@@ -1,18 +1,17 @@
 ---
-title: "Simkeş Camii, Mevlanakapı | Miras Haritası"
-date: 2025-12-25T00:58:31+03:00
+title: "Simkeş Camii, Mevlanakapı"
+date: "2025-12-25T00:58:31+03:00"
 slug: "simkes-camii-mevlanakapi"
 description: "## Simkeş Camii: Mevlanakapı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9236679,41.0166664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Simkeş Camii: Mevlanakapı'nın Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Alçıtepe Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:34+03:00
+title: "Alçıtepe Şehitliği"
+date: "2025-12-25T16:03:34+03:00"
 slug: "alcitepe-sehitligi"
 description: "## Alçıtepe Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2330647,40.0965309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alçıtepe Şehitliği

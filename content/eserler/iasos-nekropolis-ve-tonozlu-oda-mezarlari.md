@@ -1,18 +1,17 @@
 ---
-title: "Iasos Nekropolis ve Tonozlu Oda Mezarları | Miras Haritası"
-date: 2025-12-25T05:43:01+03:00
+title: "Iasos Nekropolis ve Tonozlu Oda Mezarları"
+date: "2025-12-25T05:43:01+03:00"
 slug: "iasos-nekropolis-ve-tonozlu-oda-mezarlari"
 description: "### Iasos Nekropolis ve Tonozlu Oda Mezarları..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5817661,37.278038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Iasos Nekropolis ve Tonozlu Oda Mezarları

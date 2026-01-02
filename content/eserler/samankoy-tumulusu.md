@@ -1,18 +1,17 @@
 ---
-title: "Samanköy Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:13:30+03:00
+title: "Samanköy Tümülüsü"
+date: "2025-12-25T08:13:30+03:00"
 slug: "samankoy-tumulusu"
 description: "## Samanköy Tümülüsü: Yeşilyurt'ta bir Arkeolojik Kahramanlık..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yeşilyurt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.239296,38.3930817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samanköy Tümülüsü: Yeşilyurt'ta bir Arkeolojik Kahramanlık

@@ -1,18 +1,17 @@
 ---
-title: "Şah Melek Camii | Miras Haritası"
-date: 2025-12-24T23:09:59+03:00
+title: "Şah Melek Camii"
+date: "2025-12-24T23:09:59+03:00"
 slug: "sah-melek-camii"
 description: "## Şah Melek Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Şah_Melek_mosque_in_2024_0132.jpg/1200px-Şah_Melek_mosque_in_2024_0132.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.543745,41.6764793"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şah Melek Camii

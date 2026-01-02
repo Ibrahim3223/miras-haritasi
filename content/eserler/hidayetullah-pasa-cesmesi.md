@@ -1,18 +1,17 @@
 ---
-title: "Hidayetullah Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:04+03:00
+title: "Hidayetullah Paşa Çeşmesi"
+date: "2025-12-25T11:26:04+03:00"
 slug: "hidayetullah-pasa-cesmesi"
 description: "## Hidayetullah Paşa Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4234409,38.6138763"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hidayetullah Paşa Çeşmesi

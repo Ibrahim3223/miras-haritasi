@@ -1,18 +1,17 @@
 ---
-title: "Kabasoğan Mescidi, Konak | Miras Haritası"
-date: 2025-12-25T00:47:33+03:00
+title: "Kabasoğan Mescidi, Konak"
+date: "2025-12-25T00:47:33+03:00"
 slug: "kabasogan-mescidi-konak"
 description: "## Kabasoğan Mescidi: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1404629,38.4216728"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabasoğan Mescidi: İzmir'in Gizli Cenneti

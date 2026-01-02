@@ -1,18 +1,17 @@
 ---
-title: "CASA Şehitleri Anıtı | Miras Haritası"
-date: 2025-12-25T15:44:44+03:00
+title: "CASA Şehitleri Anıtı"
+date: "2025-12-25T15:44:44+03:00"
 slug: "casa-sehitleri-aniti"
 description: "## Casa Şehitleri Anıtı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.8510551,38.3728943"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Casa Şehitleri Anıtı

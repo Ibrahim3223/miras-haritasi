@@ -1,18 +1,17 @@
 ---
-title: "Palamar Çeşmesi (Naile Vesile Hanım) | Miras Haritası"
-date: 2025-12-25T12:21:35+03:00
+title: "Palamar Çeşmesi (Naile Vesile Hanım)"
+date: "2025-12-25T12:21:35+03:00"
 slug: "palamar-cesmesi-naile-vesile-hanim"
 description: "### Palamar Çeşmesi (Naile Vesile Hanım)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Palamar_Çeşmesi_(Naile_Vesile_Hanım)_IMG_3038.jpg/1200px-Palamar_Çeşmesi_(Naile_Vesile_Hanım)_IMG_3038.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.087686,41.138923"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Palamar Çeşmesi (Naile Vesile Hanım)

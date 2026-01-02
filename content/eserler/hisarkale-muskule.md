@@ -1,18 +1,17 @@
 ---
-title: "Hisarkale, Müşküle | Miras Haritası"
-date: 2025-12-25T01:21:46+03:00
+title: "Hisarkale, Müşküle"
+date: "2025-12-25T01:21:46+03:00"
 slug: "hisarkale-muskule"
 description: "## Hisarkale, Müşküle: İznik'in Gizli Harbi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.5252991,40.3523445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hisarkale, Müşküle: İznik'in Gizli Harbi

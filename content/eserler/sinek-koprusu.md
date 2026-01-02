@@ -1,18 +1,17 @@
 ---
-title: "Sinek Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:48+03:00
+title: "Sinek Köprüsü"
+date: "2025-12-25T01:59:48+03:00"
 slug: "sinek-koprusu"
 description: "## Sinek Köprüsü: Diyarbakır'ın Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.454884,38.173376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinek Köprüsü: Diyarbakır'ın Tarihî Mirası

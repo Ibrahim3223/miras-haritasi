@@ -1,18 +1,17 @@
 ---
-title: "Acar Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:59:21+03:00
+title: "Acar Dede Türbesi"
+date: "2025-12-25T14:59:21+03:00"
 slug: "acar-dede-turbesi"
 description: "## Bodrum'un Gizli Çehresinde: Acar Dede Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.6480675,37.1563606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bodrum'un Gizli Çehresinde: Acar Dede Türbesi

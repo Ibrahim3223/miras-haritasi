@@ -1,18 +1,17 @@
 ---
-title: "Selahaddin Eyyûbi Camii | Miras Haritası"
-date: 2025-12-25T00:57:26+03:00
+title: "Selahaddin Eyyûbi Camii"
+date: "2025-12-25T00:57:26+03:00"
 slug: "selahaddin-eyybi-camii"
 description: "### Selahaddin Eyyûbi Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7856636,37.1494827"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selahaddin Eyyûbi Camii

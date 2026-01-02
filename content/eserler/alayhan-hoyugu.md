@@ -1,18 +1,17 @@
 ---
-title: "Alayhan Höyüğü | Miras Haritası"
-date: 2025-12-25T06:27:55+03:00
+title: "Alayhan Höyüğü"
+date: "2025-12-25T06:27:55+03:00"
 slug: "alayhan-hoyugu"
 description: "# Alayhan Höyüğü: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3222037,38.5280749"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alayhan Höyüğü: Aksaray'ın Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Cromen | Miras Haritası"
-date: 2025-12-25T05:43:51+03:00
+title: "Cromen"
+date: "2025-12-25T05:43:51+03:00"
 slug: "cromen"
 description: "## Ege'nin Gizli Şehri: Cromen..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.536702,40.700735"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ege'nin Gizli Şehri: Cromen

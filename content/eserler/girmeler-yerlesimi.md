@@ -1,18 +1,17 @@
 ---
-title: "Girmeler Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:00:07+03:00
+title: "Girmeler Yerleşimi"
+date: "2025-12-25T06:00:07+03:00"
 slug: "girmeler-yerlesimi"
 description: "## Girmeler Yerleşimi: Muğla'nın Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.3823509,36.5887871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Girmeler Yerleşimi: Muğla'nın Gizli Arkeolojik Mirası

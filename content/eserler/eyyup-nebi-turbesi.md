@@ -1,18 +1,17 @@
 ---
-title: "Eyyup Nebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:59+03:00
+title: "Eyyup Nebi Türbesi"
+date: "2025-12-25T14:27:59+03:00"
 slug: "eyyup-nebi-turbesi"
 description: "## Eyyup Nebi Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.796781,37.132737"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eyyup Nebi Türbesi

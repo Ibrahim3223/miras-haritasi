@@ -1,18 +1,17 @@
 ---
-title: "Kaleboynu Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:08+03:00
+title: "Kaleboynu Kalesi"
+date: "2025-12-25T01:36:08+03:00"
 slug: "kaleboynu-kalesi"
 description: "## Kaleboynu Kalesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Andırın"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.4376831,37.6922455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleboynu Kalesi

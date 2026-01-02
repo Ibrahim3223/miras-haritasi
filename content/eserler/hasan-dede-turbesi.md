@@ -1,18 +1,17 @@
 ---
-title: "Hasan Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:29+03:00
+title: "Hasan Dede Türbesi"
+date: "2025-12-25T14:54:29+03:00"
 slug: "hasan-dede-turbesi"
 description: "## Hasan Dede Türbesi: İnegöl'de Bir Tarihi Anıt..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4113064,40.1461258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Dede Türbesi: İnegöl'de Bir Tarihi Anıt

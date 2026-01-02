@@ -1,18 +1,17 @@
 ---
-title: "Carambis | Miras Haritası"
-date: 2025-12-25T08:07:58+03:00
+title: "Carambis"
+date: "2025-12-25T08:07:58+03:00"
 slug: "carambis"
 description: "## Carambis Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.344704,42.019566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Carambis Arkeolojik Sitesi

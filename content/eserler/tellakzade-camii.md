@@ -1,18 +1,17 @@
 ---
-title: "Tellakzade Camii | Miras Haritası"
-date: 2025-12-25T00:14:37+03:00
+title: "Tellakzade Camii"
+date: "2025-12-25T00:14:37+03:00"
 slug: "tellakzade-camii"
 description: "### Giriş..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2263145,41.7394104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

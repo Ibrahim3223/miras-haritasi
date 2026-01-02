@@ -1,18 +1,17 @@
 ---
-title: "Seydiköy Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:39:00+03:00
+title: "Seydiköy Tümülüsü"
+date: "2025-12-25T07:39:00+03:00"
 slug: "seydikoy-tumulusu"
 description: "## Seydiköy Tümülüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Seydiköy_Tümülüsü.jpg/1200px-Seydiköy_Tümülüsü.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Gaziemir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1358871,38.3370552"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Seydiköy Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Hagios Thomasos | Miras Haritası"
-date: 2025-12-25T07:12:55+03:00
+title: "Hagios Thomasos"
+date: "2025-12-25T07:12:55+03:00"
 slug: "hagios-thomasos"
 description: "### Hagios Thomasos: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.799025,38.448057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hagios Thomasos: Kayseri'nin Gizli Cenneti

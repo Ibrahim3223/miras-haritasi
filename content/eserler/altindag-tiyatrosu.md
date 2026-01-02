@@ -1,18 +1,17 @@
 ---
-title: "Altındağ Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:16:15+03:00
+title: "Altındağ Tiyatrosu"
+date: "2025-12-25T16:16:15+03:00"
 slug: "altindag-tiyatrosu"
 description: "# Altındağ Tiyatrosu: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.87313,39.95252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Altındağ Tiyatrosu: Ankara'nın Tarihi Bir Mirası

@@ -1,18 +1,18 @@
 ---
-title: "Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:14:10+03:00
+title: "Paşa Çeşmesi"
+date: "2025-12-25T10:14:10+03:00"
 slug: "pasa-cesmesi"
 description: "## Paşa Çeşmesi..."
-featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kirklareli_pasa_cesmesi_01.jpg/1200px-Kirklareli_pasa_cesmesi_01.jpg"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9514313,40.5421944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kirklareli_pasa_cesmesi_01.jpg/1200px-Kirklareli_pasa_cesmesi_01.jpg"
 ---
 
 ## Paşa Çeşmesi

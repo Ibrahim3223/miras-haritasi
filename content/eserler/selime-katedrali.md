@@ -1,18 +1,17 @@
 ---
-title: "Selime Katedrali | Miras Haritası"
-date: 2025-12-25T08:44:03+03:00
+title: "Selime Katedrali"
+date: "2025-12-25T08:44:03+03:00"
 slug: "selime-katedrali"
 description: "### Selime Katedrali: Aksaray'ın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Selime_Cathedral.jpg/1200px-Selime_Cathedral.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.259433,38.301198"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Selime Katedrali: Aksaray'ın Gizli Çehresi

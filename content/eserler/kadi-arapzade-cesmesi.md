@@ -1,18 +1,17 @@
 ---
-title: "Kadı Arapzade Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:56+03:00
+title: "Kadı Arapzade Çeşmesi"
+date: "2025-12-25T10:56:56+03:00"
 slug: "kadi-arapzade-cesmesi"
 description: "## Kadı Arapzade Çeşmesi: Süleymanpaşa'da Tarih ve Kültür..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5161591,40.9787903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Arapzade Çeşmesi: Süleymanpaşa'da Tarih ve Kültür

@@ -1,18 +1,17 @@
 ---
-title: "Kahramanmaraş Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:58:16+03:00
+title: "Kahramanmaraş Ulu Camii"
+date: "2025-12-24T21:58:16+03:00"
 slug: "kahramanmaras-ulu-camii"
 description: "### Kahramanmaraş Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kmulucami1.JPG/1200px-Kmulucami1.JPG"
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Kahramanmaraş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.926666666,37.584722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kahramanmaraş Ulu Camii

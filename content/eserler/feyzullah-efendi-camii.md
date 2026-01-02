@@ -1,18 +1,17 @@
 ---
-title: "Feyzullah Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:53:14+03:00
+title: "Feyzullah Efendi Camii"
+date: "2025-12-24T22:53:14+03:00"
 slug: "feyzullah-efendi-camii"
 description: "## Feyzullah Efendi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1298228,40.9201704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Feyzullah Efendi Camii

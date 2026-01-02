@@ -1,18 +1,17 @@
 ---
-title: "Larissa | Miras Haritası"
-date: 2025-12-25T04:21:45+03:00
+title: "Larissa"
+date: "2025-12-25T04:21:45+03:00"
 slug: "larissa"
 description: "## Larissa Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.031388,38.667585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Larissa Arkeolojik Sit

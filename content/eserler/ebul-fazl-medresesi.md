@@ -1,18 +1,17 @@
 ---
-title: "Ebü'l-Fazl Medresesi | Miras Haritası"
-date: 2025-12-25T17:39:59+03:00
+title: "Ebü'l-Fazl Medresesi"
+date: "2025-12-25T17:39:59+03:00"
 slug: "ebul-fazl-medresesi"
 description: "## Ebü'l-Fazl Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9552593,41.0140457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebü'l-Fazl Medresesi

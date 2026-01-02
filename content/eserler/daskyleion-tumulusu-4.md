@@ -1,18 +1,17 @@
 ---
-title: "Daskyleion Tümülüsü 4 | Miras Haritası"
-date: 2025-12-25T07:28:34+03:00
+title: "Daskyleion Tümülüsü 4"
+date: "2025-12-25T07:28:34+03:00"
 slug: "daskyleion-tumulusu-4"
 description: "# Daskyleion Tümülüsü 4..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0899525,40.1559372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Daskyleion Tümülüsü 4

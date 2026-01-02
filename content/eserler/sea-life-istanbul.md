@@ -1,18 +1,17 @@
 ---
-title: "Sea Life İstanbul | Miras Haritası"
-date: 2025-12-25T03:08:42+03:00
+title: "Sea Life İstanbul"
+date: "2025-12-25T03:08:42+03:00"
 slug: "sea-life-istanbul"
 description: "## Sea Life İstanbul..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Required_Ray_in_Turkuazoo,_Istanbul,_Turkey_(9606744672).jpg/1200px-Required_Ray_in_Turkuazoo,_Istanbul,_Turkey_(9606744672).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bayrampaşa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.8963,41.0456"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sea Life İstanbul

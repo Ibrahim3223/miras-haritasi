@@ -1,18 +1,17 @@
 ---
-title: "Arap Hasan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:54:37+03:00
+title: "Arap Hasan Çeşmesi"
+date: "2025-12-25T12:54:37+03:00"
 slug: "arap-hasan-cesmesi"
 description: "### Arap Hasan Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1097794,38.4016418"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arap Hasan Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Termessos Gymnasion ve Hamam Kompleksi | Miras Haritası"
-date: 2025-12-25T16:49:06+03:00
+title: "Termessos Gymnasion ve Hamam Kompleksi"
+date: "2025-12-25T16:49:06+03:00"
 slug: "termessos-gymnasion-ve-hamam-kompleksi"
 description: "## Termessos Gymnasion ve Hamam Kompleksi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.46467,36.983902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Termessos Gymnasion ve Hamam Kompleksi

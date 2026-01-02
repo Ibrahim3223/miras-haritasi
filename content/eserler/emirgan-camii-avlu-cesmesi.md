@@ -1,18 +1,17 @@
 ---
-title: "Emirgan Camii Avlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:12+03:00
+title: "Emirgan Camii Avlu Çeşmesi"
+date: "2025-12-25T11:16:12+03:00"
 slug: "emirgan-camii-avlu-cesmesi"
 description: "## Emirgan Camii Avlu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Emirgan_Camii_Avlu_Çeşmesi_12.jpg/1200px-Emirgan_Camii_Avlu_Çeşmesi_12.jpg"
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Emirgan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.056181,41.104577"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Emirgan Camii Avlu Çeşmesi

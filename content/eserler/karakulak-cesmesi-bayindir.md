@@ -1,18 +1,17 @@
 ---
-title: "Karakulak Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:04:55+03:00
+title: "Karakulak Çeşmesi, Bayındır"
+date: "2025-12-25T12:04:55+03:00"
 slug: "karakulak-cesmesi-bayindir"
 description: "## Karakulak Çeşmesi: Bayındır'daki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6473999,38.2266006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakulak Çeşmesi: Bayındır'daki Bir Tarihi Çeşme

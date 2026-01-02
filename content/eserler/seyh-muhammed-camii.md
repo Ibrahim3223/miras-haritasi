@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhammed Camii | Miras Haritası"
-date: 2025-12-24T23:12:19+03:00
+title: "Şeyh Muhammed Camii"
+date: "2025-12-24T23:12:19+03:00"
 slug: "seyh-muhammed-camii"
 description: "## Şeyh Muhammed Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Antakya_Seyh_Muhammed_mosque_in_2019_01.jpg/1200px-Antakya_Seyh_Muhammed_mosque_in_2019_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1676025,36.2035675"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyh Muhammed Camii

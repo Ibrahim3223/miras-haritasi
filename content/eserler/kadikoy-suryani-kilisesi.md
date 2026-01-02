@@ -1,18 +1,17 @@
 ---
-title: "Kadıköy Süryani Kilisesi | Miras Haritası"
-date: 2025-12-25T08:49:54+03:00
+title: "Kadıköy Süryani Kilisesi"
+date: "2025-12-25T08:49:54+03:00"
 slug: "kadikoy-suryani-kilisesi"
 description: "## Kadıköy Süryani Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.025539,40.983665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadıköy Süryani Kilisesi

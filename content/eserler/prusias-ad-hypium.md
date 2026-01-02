@@ -1,18 +1,17 @@
 ---
-title: "Prusias ad Hypium | Miras Haritası"
-date: 2025-12-25T05:17:47+03:00
+title: "Prusias ad Hypium"
+date: "2025-12-25T05:17:47+03:00"
 slug: "prusias-ad-hypium"
 description: "## Prusias ad Hypium: Tarihî Bir Kentin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prusias_ad_Hypium_10.jpg/1200px-Prusias_ad_Hypium_10.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Düzce"
+province: "Düzce"
+iller: '["Düzce"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.148055555,40.906111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Prusias ad Hypium: Tarihî Bir Kentin İzleri

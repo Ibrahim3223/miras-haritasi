@@ -1,18 +1,17 @@
 ---
-title: "İsmail Ağa Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T11:55:47+03:00
+title: "İsmail Ağa Çeşmesi, Üsküdar"
+date: "2025-12-25T11:55:47+03:00"
 slug: "ismail-aga-cesmesi-uskudar"
 description: "## İsmail Ağa Çeşmesi, Üsküdar..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/İsmail_Ağa_Çeşmesi,_Üsküdar,_İstanbul.jpg/1200px-İsmail_Ağa_Çeşmesi,_Üsküdar,_İstanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.011642,41.024368"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İsmail Ağa Çeşmesi, Üsküdar

@@ -1,18 +1,17 @@
 ---
-title: "Ebu Derda Türbesi | Miras Haritası"
-date: 2025-12-25T14:03:38+03:00
+title: "Ebu Derda Türbesi"
+date: "2025-12-25T14:03:38+03:00"
 slug: "ebu-derda-turbesi"
 description: "## Ebu Derda Türbesi: Bartın'da Bir Zenginlik..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Bartın"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.3472748,41.6231689"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebu Derda Türbesi: Bartın'da Bir Zenginlik

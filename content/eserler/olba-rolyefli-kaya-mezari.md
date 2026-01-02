@@ -1,18 +1,17 @@
 ---
-title: "Olba Rölyefli Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:19:51+03:00
+title: "Olba Rölyefli Kaya Mezarı"
+date: "2025-12-25T13:19:51+03:00"
 slug: "olba-rolyefli-kaya-mezari"
 description: "## Olba Rölyefli Kaya Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9717026,36.5978622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olba Rölyefli Kaya Mezarı

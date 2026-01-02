@@ -1,18 +1,17 @@
 ---
-title: "Höyük Tepe, Korkuteli | Miras Haritası"
-date: 2025-12-25T05:56:31+03:00
+title: "Höyük Tepe, Korkuteli"
+date: "2025-12-25T05:56:31+03:00"
 slug: "hoyuk-tepe-korkuteli"
 description: "### Höyük Tepe, Korkuteli..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.3257008,37.1585999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Höyük Tepe, Korkuteli

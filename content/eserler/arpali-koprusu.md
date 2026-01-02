@@ -1,18 +1,17 @@
 ---
-title: "Arpalı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:52:30+03:00
+title: "Arpalı Köprüsü"
+date: "2025-12-25T02:52:30+03:00"
 slug: "arpali-koprusu"
 description: "## Arpalı Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.4227524,39.1915665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arpalı Köprüsü

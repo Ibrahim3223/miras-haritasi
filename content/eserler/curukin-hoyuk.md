@@ -1,18 +1,17 @@
 ---
-title: "Çürükin Höyük | Miras Haritası"
-date: 2025-12-25T06:07:08+03:00
+title: "Çürükin Höyük"
+date: "2025-12-25T06:07:08+03:00"
 slug: "curukin-hoyuk"
 description: "## Çürükin Höyük: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.2954006,37.1367989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çürükin Höyük: Antalya'nın Gizli Cenneti

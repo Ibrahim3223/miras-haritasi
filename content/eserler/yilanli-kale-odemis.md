@@ -1,18 +1,17 @@
 ---
-title: "Yılanlı Kale, Ödemiş | Miras Haritası"
-date: 2025-12-25T01:39:32+03:00
+title: "Yılanlı Kale, Ödemiş"
+date: "2025-12-25T01:39:32+03:00"
 slug: "yilanli-kale-odemis"
 description: "### Yılanlı Kale: İzmir'in Tarihî Bir Çehresi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.1235714,38.2996407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yılanlı Kale: İzmir'in Tarihî Bir Çehresi

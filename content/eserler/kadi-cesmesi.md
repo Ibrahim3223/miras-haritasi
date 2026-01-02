@@ -1,18 +1,17 @@
 ---
-title: "Kadı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:50:11+03:00
+title: "Kadı Çeşmesi"
+date: "2025-12-25T10:50:11+03:00"
 slug: "kadi-cesmesi"
 description: "### Kadı Çeşmesi: Kayseri'nin Zümrüt Anıtı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4842415,38.7226181"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadı Çeşmesi: Kayseri'nin Zümrüt Anıtı

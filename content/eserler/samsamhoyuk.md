@@ -1,18 +1,17 @@
 ---
-title: "Samsamhöyük | Miras Haritası"
-date: 2025-12-25T06:25:31+03:00
+title: "Samsamhöyük"
+date: "2025-12-25T06:25:31+03:00"
 slug: "samsamhoyuk"
 description: "## Samsamhöyük: Konya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.7614858,39.1138392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samsamhöyük: Konya'nın Gizemli Arkeolojik Sitleri

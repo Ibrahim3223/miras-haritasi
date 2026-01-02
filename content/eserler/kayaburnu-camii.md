@@ -1,18 +1,17 @@
 ---
-title: "Kayaburnu Camii | Miras Haritası"
-date: 2025-12-25T00:56:20+03:00
+title: "Kayaburnu Camii"
+date: "2025-12-25T00:56:20+03:00"
 slug: "kayaburnu-camii"
 description: "## Kayaburnu Camii: Antalya'nın Serik İlçesinde Yükselen Bir Tarihî Miras..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.006705,36.935007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayaburnu Camii: Antalya'nın Serik İlçesinde Yükselen Bir Tarihî Miras

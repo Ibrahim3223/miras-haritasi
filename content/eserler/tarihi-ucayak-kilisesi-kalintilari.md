@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Üçayak Kilisesi Kalıntıları | Miras Haritası"
-date: 2025-12-25T09:11:32+03:00
+title: "Tarihi Üçayak Kilisesi Kalıntıları"
+date: "2025-12-25T09:11:32+03:00"
 slug: "tarihi-ucayak-kilisesi-kalintilari"
 description: "## Tarihi Üçayak Kilisesi Kalıntıları..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.1707349,39.413185"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Üçayak Kilisesi Kalıntıları

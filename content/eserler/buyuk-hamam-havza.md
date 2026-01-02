@@ -1,18 +1,17 @@
 ---
-title: "Büyük Hamam Havza | Miras Haritası"
-date: 2025-12-25T16:42:12+03:00
+title: "Büyük Hamam Havza"
+date: "2025-12-25T16:42:12+03:00"
 slug: "buyuk-hamam-havza"
 description: "### Büyük Hamam Havza: Samsun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Havza"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.6567879,40.9709015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Büyük Hamam Havza: Samsun'un Tarihi Bir Mirası

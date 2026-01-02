@@ -1,18 +1,17 @@
 ---
-title: "Edirne II. Bayezid Köprüsü | Miras Haritası"
-date: 2025-12-25T01:55:48+03:00
+title: "Edirne II. Bayezid Köprüsü"
+date: "2025-12-25T01:55:48+03:00"
 slug: "edirne-ii-bayezid-koprusu"
 description: "## Edirne II. Bayezid Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.544101,41.684371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Edirne II. Bayezid Köprüsü

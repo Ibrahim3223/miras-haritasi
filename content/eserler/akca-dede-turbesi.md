@@ -1,18 +1,17 @@
 ---
-title: "Akça Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:17+03:00
+title: "Akça Dede Türbesi"
+date: "2025-12-25T15:19:17+03:00"
 slug: "akca-dede-turbesi"
 description: "**Akça Dede Türbesi: Türünün Öncüsü ve Amasya'nın Değerli Mirası**..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4904,40.5913"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akça Dede Türbesi: Türünün Öncüsü ve Amasya'nın Değerli Mirası**

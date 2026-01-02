@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Akçapınar | Miras Haritası"
-date: 2025-12-25T02:46:44+03:00
+title: "Roma Köprüsü, Akçapınar"
+date: "2025-12-25T02:46:44+03:00"
 slug: "roma-koprusu-akcapinar"
 description: "## Roma Köprüsü, Akçapınar..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.276805917,39.917766572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Akçapınar

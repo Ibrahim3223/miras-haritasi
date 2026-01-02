@@ -1,18 +1,17 @@
 ---
-title: "Ani İç Kale | Miras Haritası"
-date: 2025-12-25T01:27:26+03:00
+title: "Ani İç Kale"
+date: "2025-12-25T01:27:26+03:00"
 slug: "ani-ic-kale"
 description: "## Ani İç Kale..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.567060394,40.502131209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ani İç Kale

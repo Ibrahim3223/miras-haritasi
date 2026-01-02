@@ -1,18 +1,17 @@
 ---
-title: "Karapınar Höyüğü | Miras Haritası"
-date: 2025-12-25T13:46:06+03:00
+title: "Karapınar Höyüğü"
+date: "2025-12-25T13:46:06+03:00"
 slug: "karapinar-hoyugu"
 description: "### Karapınar Höyüğü: İslahiye'nin Gizli Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "İslahiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.6395969,36.9637041"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karapınar Höyüğü: İslahiye'nin Gizli Anıtı

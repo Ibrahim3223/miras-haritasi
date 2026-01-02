@@ -1,18 +1,17 @@
 ---
-title: "Üyük Altı Mevkii | Miras Haritası"
-date: 2025-12-25T05:37:40+03:00
+title: "Üyük Altı Mevkii"
+date: "2025-12-25T05:37:40+03:00"
 slug: "uyuk-alti-mevkii"
 description: "## Üyük Altı Mevkii: Sandıklı'nın Gizli Harikası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.171367,38.36595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üyük Altı Mevkii: Sandıklı'nın Gizli Harikası

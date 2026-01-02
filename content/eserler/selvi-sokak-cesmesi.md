@@ -1,18 +1,17 @@
 ---
-title: "Selvi Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:36+03:00
+title: "Selvi Sokak Çeşmesi"
+date: "2025-12-25T11:10:36+03:00"
 slug: "selvi-sokak-cesmesi"
 description: "## Selvi Sokak Çeşmesi: Şile'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.609599,41.174706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selvi Sokak Çeşmesi: Şile'nin Tarihî Bir Mirası

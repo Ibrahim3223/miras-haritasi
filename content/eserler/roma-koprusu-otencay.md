@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Ötençay | Miras Haritası"
-date: 2025-12-25T02:59:40+03:00
+title: "Roma Köprüsü, Ötençay"
+date: "2025-12-25T02:59:40+03:00"
 slug: "roma-koprusu-otencay"
 description: "**Roma Köprüsü, Ötençay**..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Belen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.252014,36.421864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Roma Köprüsü, Ötençay**

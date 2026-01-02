@@ -1,18 +1,17 @@
 ---
-title: "Harmanlı Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:00:49+03:00
+title: "Harmanlı Tümülüsü"
+date: "2025-12-25T08:00:49+03:00"
 slug: "harmanli-tumulusu"
 description: "## Harmanlı Tümülüsü: Edirne'nin Gizli Kutsalı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7095547,41.0821571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harmanlı Tümülüsü: Edirne'nin Gizli Kutsalı

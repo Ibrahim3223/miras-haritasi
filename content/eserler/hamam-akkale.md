@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Akkale | Miras Haritası"
-date: 2025-12-25T17:05:49+03:00
+title: "Hamam, Akkale"
+date: "2025-12-25T17:05:49+03:00"
 slug: "hamam-akkale"
 description: "## Hamam, Akkale: Erdemli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.2224808,36.5288773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamam, Akkale: Erdemli'nin Tarihi Bir Mirası

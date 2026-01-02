@@ -1,18 +1,17 @@
 ---
-title: "Bayındır Höyük | Miras Haritası"
-date: 2025-12-25T06:01:11+03:00
+title: "Bayındır Höyük"
+date: "2025-12-25T06:01:11+03:00"
 slug: "bayindir-hoyuk"
 description: "### Bayındır Höyük: Çankırı'da Eski Uygarlığın İzleri..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8191261,40.6019096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayındır Höyük: Çankırı'da Eski Uygarlığın İzleri

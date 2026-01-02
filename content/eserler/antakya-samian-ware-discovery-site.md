@@ -1,18 +1,17 @@
 ---
-title: "Antakya (Samian Ware Discovery Site) | Miras Haritası"
-date: 2025-12-25T05:30:47+03:00
+title: "Antakya (Samian Ware Discovery Site)"
+date: "2025-12-25T05:30:47+03:00"
 slug: "antakya-samian-ware-discovery-site"
 description: "### Antakya (Samian Ware Discovery Site): Tarihin Eski Kenti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.15,36.2"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Antakya (Samian Ware Discovery Site): Tarihin Eski Kenti

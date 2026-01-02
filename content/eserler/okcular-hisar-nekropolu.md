@@ -1,18 +1,17 @@
 ---
-title: "Okçular Hisar Nekropolü | Miras Haritası"
-date: 2025-12-25T05:43:20+03:00
+title: "Okçular Hisar Nekropolü"
+date: "2025-12-25T05:43:20+03:00"
 slug: "okcular-hisar-nekropolu"
 description: "# Okçular Hisar Nekropolü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9643993,39.2757988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Okçular Hisar Nekropolü

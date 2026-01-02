@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Halveti Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:19+03:00
+title: "Mustafa Halveti Türbesi"
+date: "2025-12-25T15:22:19+03:00"
 slug: "mustafa-halveti-turbesi"
 description: "### Mustafa Halveti Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mustafa_Halveti_Trbesi_1761584295.jpg/1200px-Mustafa_Halveti_Trbesi_1761584295.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.2297115,40.9179726"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mustafa Halveti Türbesi

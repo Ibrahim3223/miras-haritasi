@@ -1,18 +1,17 @@
 ---
-title: "Sinop Keten Müzesi | Miras Haritası"
-date: 2025-12-25T03:40:54+03:00
+title: "Sinop Keten Müzesi"
+date: "2025-12-25T03:40:54+03:00"
 slug: "sinop-keten-muzesi"
 description: "### Sinop Keten Müzesi..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.1464777,42.0251107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sinop Keten Müzesi

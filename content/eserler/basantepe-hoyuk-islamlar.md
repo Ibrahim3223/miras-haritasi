@@ -1,18 +1,17 @@
 ---
-title: "Başantepe Höyük, İslamlar | Miras Haritası"
-date: 2025-12-25T05:50:36+03:00
+title: "Başantepe Höyük, İslamlar"
+date: "2025-12-25T05:50:36+03:00"
 slug: "basantepe-hoyuk-islamlar"
 description: "## Başantepe Höyük, İslamlar: Dikili'nin Gizli Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8972464,39.1158831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başantepe Höyük, İslamlar: Dikili'nin Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Tepecik Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:14:06+03:00
+title: "Tepecik Köyü Camii"
+date: "2025-12-24T23:14:06+03:00"
 slug: "tepecik-koyu-camii"
 description: "## Tepecik Köyü Camii: Kocaeli'nin Değerli Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9875374,40.6268806"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepecik Köyü Camii: Kocaeli'nin Değerli Kültürel Mirası

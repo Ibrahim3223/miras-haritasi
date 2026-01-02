@@ -1,18 +1,17 @@
 ---
-title: "Yeşilhisar Soğanlı Örenyeri | Miras Haritası"
-date: 2025-12-25T03:43:30+03:00
+title: "Yeşilhisar Soğanlı Örenyeri"
+date: "2025-12-25T03:43:30+03:00"
 slug: "yesilhisar-soganli-orenyeri"
 description: "# Yeşilhisar Soğanlı Örenyeri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yeşilhisar Soğanlı Örenyeri

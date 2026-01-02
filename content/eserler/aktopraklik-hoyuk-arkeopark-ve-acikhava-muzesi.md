@@ -1,18 +1,17 @@
 ---
-title: "Aktopraklık Höyük Arkeopark ve Açıkhava Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:14+03:00
+title: "Aktopraklık Höyük Arkeopark ve Açıkhava Müzesi"
+date: "2025-12-25T03:52:14+03:00"
 slug: "aktopraklik-hoyuk-arkeopark-ve-acikhava-muzesi"
 description: "### Aktopraklık Höyük Arkeopark ve Açıkhava Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Nilüfer"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.769825,40.1746597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aktopraklık Höyük Arkeopark ve Açıkhava Müzesi

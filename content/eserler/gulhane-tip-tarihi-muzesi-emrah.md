@@ -1,18 +1,17 @@
 ---
-title: "Gülhane Tıp Tarihi Müzesi, Emrah | Miras Haritası"
-date: 2025-12-25T03:46:29+03:00
+title: "Gülhane Tıp Tarihi Müzesi, Emrah"
+date: "2025-12-25T03:46:29+03:00"
 slug: "gulhane-tip-tarihi-muzesi-emrah"
 description: "## Gülhane Tıp Tarihi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Keçiören"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8410759,39.9682541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülhane Tıp Tarihi Müzesi

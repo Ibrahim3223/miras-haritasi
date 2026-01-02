@@ -1,18 +1,17 @@
 ---
-title: "Nedime Hanım Türbesi | Miras Haritası"
-date: 2025-12-25T15:01:28+03:00
+title: "Nedime Hanım Türbesi"
+date: "2025-12-25T15:01:28+03:00"
 slug: "nedime-hanim-turbesi"
 description: "## Nedime Hanım Türbesi: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.4047661,40.142765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nedime Hanım Türbesi: Çanakkale'nin Tarihi ve Kültürel Mirası

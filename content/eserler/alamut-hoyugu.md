@@ -1,18 +1,17 @@
 ---
-title: "Alamut Höyüğü | Miras Haritası"
-date: 2025-12-25T05:56:23+03:00
+title: "Alamut Höyüğü"
+date: "2025-12-25T05:56:23+03:00"
 slug: "alamut-hoyugu"
 description: "## Alamut Höyüğü: Aydın'ın Gizli Arkeolojik Çıkığı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3076992,37.8033981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alamut Höyüğü: Aydın'ın Gizli Arkeolojik Çıkığı

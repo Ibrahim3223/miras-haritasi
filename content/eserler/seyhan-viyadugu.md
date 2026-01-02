@@ -1,18 +1,17 @@
 ---
-title: "Seyhan Viyadüğü | Miras Haritası"
-date: 2025-12-25T01:57:38+03:00
+title: "Seyhan Viyadüğü"
+date: "2025-12-25T01:57:38+03:00"
 slug: "seyhan-viyadugu"
 description: "## Seyhan Viyadüğü: Güneydoğu Anadolu'nun Tarihi Köprüsü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.1927,37.0127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyhan Viyadüğü: Güneydoğu Anadolu'nun Tarihi Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Sarayı Saltanat Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:57+03:00
+title: "Yıldız Sarayı Saltanat Kapısı"
+date: "2025-12-25T15:37:57+03:00"
 slug: "yildiz-sarayi-saltanat-kapisi"
 description: "### Yıldız Sarayı Saltanat Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.011100038,41.050049168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yıldız Sarayı Saltanat Kapısı

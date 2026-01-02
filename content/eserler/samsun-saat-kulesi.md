@@ -1,18 +1,17 @@
 ---
-title: "Samsun Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:39+03:00
+title: "Samsun Saat Kulesi"
+date: "2025-12-25T17:17:39+03:00"
 slug: "samsun-saat-kulesi"
 description: "### Samsun Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Samsun_Saat_Kulesi_(2).jpg/1200px-Samsun_Saat_Kulesi_(2).jpg"
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Samsun"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "36.33194444,41.29472222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Samsun Saat Kulesi

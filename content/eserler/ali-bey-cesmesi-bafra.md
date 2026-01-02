@@ -1,18 +1,17 @@
 ---
-title: "Ali Bey Çeşmesi, Bafra | Miras Haritası"
-date: 2025-12-25T12:18:57+03:00
+title: "Ali Bey Çeşmesi, Bafra"
+date: "2025-12-25T12:18:57+03:00"
 slug: "ali-bey-cesmesi-bafra"
 description: "### Ali Bey Çeşmesi, Bafra..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Bafra"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.903347,41.5681686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Bey Çeşmesi, Bafra

@@ -1,18 +1,17 @@
 ---
-title: "Surp Yerrortutyun Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:12+03:00
+title: "Surp Yerrortutyun Kilisesi"
+date: "2025-12-25T08:50:12+03:00"
 slug: "surp-yerrortutyun-kilisesi"
 description: "## Surp Yerrortutyun Kilisesi: İstanbul'un Gizli İncisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Armenische_Hl.-Dreieinigkeits-Kirche.jpg/1200px-Armenische_Hl.-Dreieinigkeits-Kirche.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.97758,41.034245"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Yerrortutyun Kilisesi: İstanbul'un Gizli İncisi

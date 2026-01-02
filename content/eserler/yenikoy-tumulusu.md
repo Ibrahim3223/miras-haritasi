@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:01+03:00
+title: "Yeniköy Tümülüsü"
+date: "2025-12-25T07:35:01+03:00"
 slug: "yenikoy-tumulusu"
 description: "### Yeniköy Tümülüsü: Manisa'nın Gizli Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0142365,38.6773682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeniköy Tümülüsü: Manisa'nın Gizli Mirası

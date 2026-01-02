@@ -1,18 +1,17 @@
 ---
-title: "Dedemköyü Höyük | Miras Haritası"
-date: 2025-12-25T05:53:15+03:00
+title: "Dedemköyü Höyük"
+date: "2025-12-25T05:53:15+03:00"
 slug: "dedemkoyu-hoyuk"
 description: "## Dedemköyü Höyük: Denizli'nin Eski Eserlerinden Biri..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.692817,38.197617"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedemköyü Höyük: Denizli'nin Eski Eserlerinden Biri

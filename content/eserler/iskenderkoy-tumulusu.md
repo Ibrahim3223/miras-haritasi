@@ -1,18 +1,17 @@
 ---
-title: "İskenderköy Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:22:12+03:00
+title: "İskenderköy Tümülüsü"
+date: "2025-12-25T07:22:12+03:00"
 slug: "iskenderkoy-tumulusu"
 description: "## İskenderköy Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6575222,41.6258125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskenderköy Tümülüsü

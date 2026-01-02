@@ -1,18 +1,17 @@
 ---
-title: "Davut Baba Çeşmesi, Ödemiş | Miras Haritası"
-date: 2025-12-25T12:07:02+03:00
+title: "Davut Baba Çeşmesi, Ödemiş"
+date: "2025-12-25T12:07:02+03:00"
 slug: "davut-baba-cesmesi-odemis"
 description: "## Davut Baba Çeşmesi: Ödemiş'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.9885006,38.1083984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Davut Baba Çeşmesi: Ödemiş'in Tarihi Bir Mirası

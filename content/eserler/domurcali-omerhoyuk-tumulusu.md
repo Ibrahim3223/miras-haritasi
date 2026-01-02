@@ -1,18 +1,17 @@
 ---
-title: "Domurcalı Ömerhöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:02:40+03:00
+title: "Domurcalı Ömerhöyük Tümülüsü"
+date: "2025-12-25T08:02:40+03:00"
 slug: "domurcali-omerhoyuk-tumulusu"
 description: "## Domurcalı Ömerhöyük Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8148518,41.8204002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Domurcalı Ömerhöyük Tümülüsü

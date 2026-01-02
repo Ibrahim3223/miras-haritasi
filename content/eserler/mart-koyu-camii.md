@@ -1,18 +1,17 @@
 ---
-title: "Mart Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:08:06+03:00
+title: "Mart Köyü Camii"
+date: "2025-12-25T00:08:06+03:00"
 slug: "mart-koyu-camii"
 description: "## Mart Köyü Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Şabanözü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.3966789,40.4278717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mart Köyü Camii

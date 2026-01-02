@@ -1,18 +1,17 @@
 ---
-title: "Trabzon Basın Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:06:42+03:00
+title: "Trabzon Basın Tarihi Müzesi"
+date: "2025-12-25T03:06:42+03:00"
 slug: "trabzon-basin-tarihi-muzesi"
 description: "### Trabzon Basın Tarihi Müzesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Trabzon Basın Tarihi Müzesi

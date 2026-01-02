@@ -1,18 +1,17 @@
 ---
-title: "Akyeniköy Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:42+03:00
+title: "Akyeniköy Tümülüsü"
+date: "2025-12-25T07:35:42+03:00"
 slug: "akyenikoy-tumulusu"
 description: "## Akyeniköy Tümülüsü: Didim'in Gizli Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3484001,37.5040016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akyeniköy Tümülüsü: Didim'in Gizli Mirası

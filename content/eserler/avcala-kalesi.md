@@ -1,18 +1,17 @@
 ---
-title: "Avçala Kalesi | Miras Haritası"
-date: 2025-12-25T01:49:52+03:00
+title: "Avçala Kalesi"
+date: "2025-12-25T01:49:52+03:00"
 slug: "avcala-kalesi"
 description: "## Avçala Kalesi: Oltu'da Bir Tarihî Eğlence Merkezi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Oltu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.1555,40.679111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avçala Kalesi: Oltu'da Bir Tarihî Eğlence Merkezi

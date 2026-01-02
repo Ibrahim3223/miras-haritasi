@@ -1,18 +1,17 @@
 ---
-title: "Bostancı İstasyon Camii | Miras Haritası"
-date: 2025-12-24T21:55:29+03:00
+title: "Bostancı İstasyon Camii"
+date: "2025-12-24T21:55:29+03:00"
 slug: "bostanci-istasyon-camii"
 description: "## Bostancı İstasyon Camii: Birinci Sınıf Bir Cami..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Bostancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.093916666,40.955055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bostancı İstasyon Camii: Birinci Sınıf Bir Cami

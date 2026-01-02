@@ -1,18 +1,17 @@
 ---
-title: "Hacıbeyler Camii | Miras Haritası"
-date: 2025-12-24T23:32:56+03:00
+title: "Hacıbeyler Camii"
+date: "2025-12-24T23:32:56+03:00"
 slug: "hacibeyler-camii"
 description: "## Hacıbeyler Camii: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2135468,37.1834755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıbeyler Camii: Karaman'ın Tarihi ve Kültürel Mirası

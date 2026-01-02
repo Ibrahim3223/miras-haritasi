@@ -1,18 +1,17 @@
 ---
-title: "Rahmioğlu Camii | Miras Haritası"
-date: 2025-12-24T22:39:52+03:00
+title: "Rahmioğlu Camii"
+date: "2025-12-24T22:39:52+03:00"
 slug: "rahmioglu-camii"
 description: "# Rahmioğlu Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.9455986,41.2145004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Rahmioğlu Camii

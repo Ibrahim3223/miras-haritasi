@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Ortahisar | Miras Haritası"
-date: 2025-12-25T00:24:41+03:00
+title: "Çarşı Camii, Ortahisar"
+date: "2025-12-25T00:24:41+03:00"
 slug: "carsi-camii-ortahisar"
 description: "## Çarşı Camii: Ortahisar'ın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.723568,41.0074959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii: Ortahisar'ın Gizli Çehresini Keşfetmek

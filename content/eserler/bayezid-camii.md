@@ -1,18 +1,17 @@
 ---
-title: "Bayezid Camii | Miras Haritası"
-date: 2025-12-24T21:36:58+03:00
+title: "Bayezid Camii"
+date: "2025-12-24T21:36:58+03:00"
 slug: "bayezid-camii"
 description: "## Bayezid Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/İstanbul_5054.jpg/1200px-İstanbul_5054.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.965277777,41.010277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bayezid Camii

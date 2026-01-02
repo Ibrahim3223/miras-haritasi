@@ -1,18 +1,17 @@
 ---
-title: "Şairler 2 Köprüsü | Miras Haritası"
-date: 2025-12-25T02:03:35+03:00
+title: "Şairler 2 Köprüsü"
+date: "2025-12-25T02:03:35+03:00"
 slug: "sairler-2-koprusu"
 description: "## Şairler 2 Köprüsü: Rize'nin Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.74855,41.06675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şairler 2 Köprüsü: Rize'nin Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Süme Kalesi | Miras Haritası"
-date: 2025-12-25T01:27:10+03:00
+title: "Süme Kalesi"
+date: "2025-12-25T01:27:10+03:00"
 slug: "sume-kalesi"
 description: "## Süme Kalesi: Gümüşhane'nin Gizli Öztürlü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kürtün"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.1613884,40.6933327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süme Kalesi: Gümüşhane'nin Gizli Öztürlü

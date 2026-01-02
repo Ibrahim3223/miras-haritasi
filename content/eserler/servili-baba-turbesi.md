@@ -1,18 +1,17 @@
 ---
-title: "Servili Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:55+03:00
+title: "Servili Baba Türbesi"
+date: "2025-12-25T14:54:55+03:00"
 slug: "servili-baba-turbesi"
 description: "## Servili Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9731178,41.0107307"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Servili Baba Türbesi

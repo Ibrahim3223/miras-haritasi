@@ -1,18 +1,17 @@
 ---
-title: "Esenkıyı Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:59:36+03:00
+title: "Esenkıyı Köyü Camii"
+date: "2025-12-24T22:59:36+03:00"
 slug: "esenkiyi-koyu-camii"
 description: "## Esenkıyı Köyü Camii: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Hopa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.463019,41.439575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esenkıyı Köyü Camii: Tarihi ve Kültürel Miras

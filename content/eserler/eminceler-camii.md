@@ -1,18 +1,17 @@
 ---
-title: "Eminceler Camii | Miras Haritası"
-date: 2025-12-25T00:14:24+03:00
+title: "Eminceler Camii"
+date: "2025-12-25T00:14:24+03:00"
 slug: "eminceler-camii"
 description: "## Eminceler Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.104447,36.917399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eminceler Camii

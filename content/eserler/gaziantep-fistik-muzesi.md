@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Fıstık Müzesi | Miras Haritası"
-date: 2025-12-25T04:00:24+03:00
+title: "Gaziantep Fıstık Müzesi"
+date: "2025-12-25T04:00:24+03:00"
 slug: "gaziantep-fistik-muzesi"
 description: "## Gaziantep Fıstık Müzesi..."
 featured_image: ""
-province: "Antep Sancağı"
-iller: ["Antep Sancağı"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: "Antep Sancağı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.34207,37.05844"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaziantep Fıstık Müzesi

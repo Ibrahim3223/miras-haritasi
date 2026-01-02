@@ -1,18 +1,17 @@
 ---
-title: "Siyavuş Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:29:35+03:00
+title: "Siyavuş Paşa Medresesi"
+date: "2025-12-25T17:29:35+03:00"
 slug: "siyavus-pasa-medresesi"
 description: "## Siyavuş Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.966287,41.017187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siyavuş Paşa Medresesi

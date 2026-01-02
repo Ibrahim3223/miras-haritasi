@@ -1,18 +1,17 @@
 ---
-title: "Euaissa | Miras Haritası"
-date: 2025-12-25T05:06:52+03:00
+title: "Euaissa"
+date: "2025-12-25T05:06:52+03:00"
 slug: "euaissa"
 description: "### Euaissa: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.1098455,39.3120115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Euaissa: Türkiye'nin Gizli Cenneti

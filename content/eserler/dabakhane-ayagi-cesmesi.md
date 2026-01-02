@@ -1,18 +1,17 @@
 ---
-title: "Dabakhane Ayağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:44+03:00
+title: "Dabakhane Ayağı Çeşmesi"
+date: "2025-12-25T11:42:44+03:00"
 slug: "dabakhane-ayagi-cesmesi"
 description: "## Dabakhane Ayağı Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2752647,39.9124222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dabakhane Ayağı Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Özdemiroğlu Osman Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:44+03:00
+title: "Özdemiroğlu Osman Paşa Türbesi"
+date: "2025-12-25T14:57:44+03:00"
 slug: "ozdemiroglu-osman-pasa-turbesi"
 description: "## Özdemiroğlu Osman Paşa Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2417603,37.9115982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özdemiroğlu Osman Paşa Türbesi

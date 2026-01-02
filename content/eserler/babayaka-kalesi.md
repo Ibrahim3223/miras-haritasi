@@ -1,18 +1,17 @@
 ---
-title: "Babayaka Kalesi | Miras Haritası"
-date: 2025-12-25T01:24:43+03:00
+title: "Babayaka Kalesi"
+date: "2025-12-25T01:24:43+03:00"
 slug: "babayaka-kalesi"
 description: "## Babayaka Kalesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gönen"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.6170921,40.1510963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Babayaka Kalesi

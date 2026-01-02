@@ -1,18 +1,17 @@
 ---
-title: "Dört Sandık Camii | Miras Haritası"
-date: 2025-12-24T22:35:06+03:00
+title: "Dört Sandık Camii"
+date: "2025-12-24T22:35:06+03:00"
 slug: "dort-sandik-camii"
 description: "## Dört Sandık Camii: Bitlis'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.1081276,38.4061356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dört Sandık Camii: Bitlis'in Tarihi Bir Mirası

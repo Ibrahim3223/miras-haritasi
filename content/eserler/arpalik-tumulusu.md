@@ -1,18 +1,17 @@
 ---
-title: "Arpalık Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:45:02+03:00
+title: "Arpalık Tümülüsü"
+date: "2025-12-25T07:45:02+03:00"
 slug: "arpalik-tumulusu"
 description: "## Arpalık Tümülüsü: Tekirdağ'ın Gizli Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Hayrabolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.173727,41.0948143"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arpalık Tümülüsü: Tekirdağ'ın Gizli Mirası

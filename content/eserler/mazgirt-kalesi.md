@@ -1,18 +1,17 @@
 ---
-title: "Mazgirt Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:27+03:00
+title: "Mazgirt Kalesi"
+date: "2025-12-25T01:33:27+03:00"
 slug: "mazgirt-kalesi"
 description: "## Mazgirt Kalesi: Tunceli'nin Eski Bir Zirvesi..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Mazgirt"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.600692,39.023626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mazgirt Kalesi: Tunceli'nin Eski Bir Zirvesi

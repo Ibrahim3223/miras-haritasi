@@ -1,18 +1,17 @@
 ---
-title: "Karakale | Miras Haritası"
-date: 2025-12-25T01:43:40+03:00
+title: "Karakale"
+date: "2025-12-25T01:43:40+03:00"
 slug: "karakale"
 description: "## Karakale: Iğdır'ın Tarihî Bir Anıtı..."
 featured_image: ""
-province: "Sürmeli uyezdi"
-iller: ["Sürmeli uyezdi"]
-district: "Iğdır"
+province: "Iğdır"
+iller: '["Iğdır"]'
+district: "Sürmeli uyezdi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.8226089,40.0467072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakale: Iğdır'ın Tarihî Bir Anıtı

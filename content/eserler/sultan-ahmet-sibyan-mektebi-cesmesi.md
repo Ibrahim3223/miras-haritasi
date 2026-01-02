@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Sıbyan Mektebi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:59:57+03:00
+title: "Sultan Ahmet Sıbyan Mektebi Çeşmesi"
+date: "2025-12-25T12:59:57+03:00"
 slug: "sultan-ahmet-sibyan-mektebi-cesmesi"
 description: "## Sultan Ahmet Sıbyan Mektebi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9777402,41.0059004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Ahmet Sıbyan Mektebi Çeşmesi

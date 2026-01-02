@@ -1,18 +1,17 @@
 ---
-title: "Muradiye Kütüphanesi, Manisa | Miras Haritası"
-date: 2025-12-25T17:55:58+03:00
+title: "Muradiye Kütüphanesi, Manisa"
+date: "2025-12-25T17:55:58+03:00"
 slug: "muradiye-kutuphanesi-manisa"
 description: "## Muradiye Kütüphanesi, Manisa: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.429260817,38.609848053"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muradiye Kütüphanesi, Manisa: Tarihi ve Mimari Özellikleri

@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Evi | Miras Haritası"
-date: 2025-12-25T04:04:31+03:00
+title: "Kanuni Evi"
+date: "2025-12-25T04:04:31+03:00"
 slug: "kanuni-evi"
 description: "### Kanuni Evi Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.719,41.0049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kanuni Evi Müzesi

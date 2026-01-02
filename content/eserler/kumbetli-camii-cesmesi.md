@@ -1,18 +1,17 @@
 ---
-title: "Kümbetli Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:12+03:00
+title: "Kümbetli Camii Çeşmesi"
+date: "2025-12-25T11:38:12+03:00"
 slug: "kumbetli-camii-cesmesi"
 description: "## Kümbetli Camii Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5293541,37.8868866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kümbetli Camii Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası

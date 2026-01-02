@@ -1,18 +1,17 @@
 ---
-title: "Gazazhane Camii | Miras Haritası"
-date: 2025-12-24T23:02:00+03:00
+title: "Gazazhane Camii"
+date: "2025-12-24T23:02:00+03:00"
 slug: "gazazhane-camii"
 description: "## Gazazhane Camii: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.735918,38.0854683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazazhane Camii: Tarihi ve Kültürel Bir Miras

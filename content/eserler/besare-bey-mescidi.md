@@ -1,18 +1,17 @@
 ---
-title: "Beşare Bey Mescidi | Miras Haritası"
-date: 2025-12-24T22:24:53+03:00
+title: "Beşare Bey Mescidi"
+date: "2025-12-24T22:24:53+03:00"
 slug: "besare-bey-mescidi"
 description: "## Beşare Bey Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4914093,37.8751106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşare Bey Mescidi

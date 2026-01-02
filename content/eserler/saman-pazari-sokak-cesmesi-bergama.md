@@ -1,18 +1,17 @@
 ---
-title: "Saman Pazarı Sokak Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:54:00+03:00
+title: "Saman Pazarı Sokak Çeşmesi, Bergama"
+date: "2025-12-25T12:54:00+03:00"
 slug: "saman-pazari-sokak-cesmesi-bergama"
 description: "## Saman Pazarı Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1821003,39.1232986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saman Pazarı Sokak Çeşmesi, Bergama

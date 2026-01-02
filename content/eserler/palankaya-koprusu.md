@@ -1,18 +1,17 @@
 ---
-title: "Palankaya Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:33+03:00
+title: "Palankaya Köprüsü"
+date: "2025-12-25T02:15:33+03:00"
 slug: "palankaya-koprusu"
 description: "## Palankaya Köprüsü: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.5777912,38.6821098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palankaya Köprüsü: Manisa'nın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Rami Kışlası Kasr-ı Hümayun Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:44:27+03:00
+title: "Rami Kışlası Kasr-ı Hümayun Çeşmeleri"
+date: "2025-12-25T11:44:27+03:00"
 slug: "rami-kislasi-kasr-i-humayun-cesmeleri"
 description: "### Rami Kışlası Kasr-ı Hümayun Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9166431,41.0485115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rami Kışlası Kasr-ı Hümayun Çeşmeleri

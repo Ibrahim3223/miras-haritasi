@@ -1,18 +1,17 @@
 ---
-title: "Metamorfosis Rum Ortodoks Mezarlık Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:03+03:00
+title: "Metamorfosis Rum Ortodoks Mezarlık Kilisesi"
+date: "2025-12-25T09:27:03+03:00"
 slug: "metamorfosis-rum-ortodoks-mezarlik-kilisesi"
 description: "## Metamorfosis Rum Ortodoks Mezarlık Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9907856,41.0641403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metamorfosis Rum Ortodoks Mezarlık Kilisesi

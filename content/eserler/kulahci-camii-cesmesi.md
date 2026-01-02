@@ -1,18 +1,17 @@
 ---
-title: "Külahçı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:44+03:00
+title: "Külahçı Camii Çeşmesi"
+date: "2025-12-25T11:35:44+03:00"
 slug: "kulahci-camii-cesmesi"
 description: "### Külahçı Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4949265,37.8626099"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Külahçı Camii Çeşmesi

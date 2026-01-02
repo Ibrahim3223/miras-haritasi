@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü, Çiftlikköy, Yalova | Miras Haritası"
-date: 2025-12-25T02:51:55+03:00
+title: "Taşköprü, Çiftlikköy, Yalova"
+date: "2025-12-25T02:51:55+03:00"
 slug: "taskopru-ciftlikkoy-yalova"
 description: "## Taşköprü, Çiftlikköy, Yalova..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Çiftlikköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.3908253,40.6803627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşköprü, Çiftlikköy, Yalova

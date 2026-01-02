@@ -1,18 +1,17 @@
 ---
-title: "Kayabüget Demirci Höyük | Miras Haritası"
-date: 2025-12-25T13:48:19+03:00
+title: "Kayabüget Demirci Höyük"
+date: "2025-12-25T13:48:19+03:00"
 slug: "kayabuget-demirci-hoyuk"
 description: "### Kayabüget Demirci Höyük: Çorum'un Gizli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.8651428,40.0964394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kayabüget Demirci Höyük: Çorum'un Gizli Mirası

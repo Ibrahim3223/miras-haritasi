@@ -1,18 +1,17 @@
 ---
-title: "Efrenk Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:34+03:00
+title: "Efrenk Köprüsü"
+date: "2025-12-25T02:26:34+03:00"
 slug: "efrenk-koprusu"
 description: "### Efrenk Köprüsü: Silifke'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.079571,36.60973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Efrenk Köprüsü: Silifke'nin Tarihi Bir Mirası

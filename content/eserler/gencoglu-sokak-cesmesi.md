@@ -1,18 +1,17 @@
 ---
-title: "Gençoğlu Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:05+03:00
+title: "Gençoğlu Sokak Çeşmesi"
+date: "2025-12-25T10:44:05+03:00"
 slug: "gencoglu-sokak-cesmesi"
 description: "# Gençoğlu Sokak Çeşmesi: Tarih, Mimarî ve Kültür Mirası..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9545956,40.7942619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gençoğlu Sokak Çeşmesi: Tarih, Mimarî ve Kültür Mirası

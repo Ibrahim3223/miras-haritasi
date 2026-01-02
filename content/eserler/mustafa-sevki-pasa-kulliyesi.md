@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Şevki Paşa Külliyesi | Miras Haritası"
-date: 2025-12-24T23:42:46+03:00
+title: "Mustafa Şevki Paşa Külliyesi"
+date: "2025-12-24T23:42:46+03:00"
 slug: "mustafa-sevki-pasa-kulliyesi"
 description: "## Mustafa Şevki Paşa Külliyesi: Hatay'ın Tarihi Canlandırıcılarından Biri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5642967,36.2684784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Şevki Paşa Külliyesi: Hatay'ın Tarihi Canlandırıcılarından Biri

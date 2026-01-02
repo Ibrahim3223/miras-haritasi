@@ -1,18 +1,17 @@
 ---
-title: "İshaklar Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:21:18+03:00
+title: "İshaklar Köyü Çeşmesi"
+date: "2025-12-25T10:21:18+03:00"
 slug: "ishaklar-koyu-cesmesi"
 description: "### İshaklar Köyü Çeşmesi: Ulubey'in Tarihî Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.3761768,38.3410034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İshaklar Köyü Çeşmesi: Ulubey'in Tarihî Çeşmesi

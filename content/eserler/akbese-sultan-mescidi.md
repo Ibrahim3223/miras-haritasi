@@ -1,18 +1,17 @@
 ---
-title: "Akbeşe Sultan Mescidi | Miras Haritası"
-date: 2025-12-24T21:44:34+03:00
+title: "Akbeşe Sultan Mescidi"
+date: "2025-12-24T21:44:34+03:00"
 slug: "akbese-sultan-mescidi"
 description: "## Akbeşe Sultan Mescidi: Alanya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.992959,36.5350375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akbeşe Sultan Mescidi: Alanya'nın Tarihi ve Kültürel Mirası

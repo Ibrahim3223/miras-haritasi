@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Ağa Çeşmesi, Molla Gürani | Miras Haritası"
-date: 2025-12-25T12:19:50+03:00
+title: "Ahmet Ağa Çeşmesi, Molla Gürani"
+date: "2025-12-25T12:19:50+03:00"
 slug: "ahmet-aga-cesmesi-molla-gurani"
 description: "### Ahmet Ağa Çeşmesi: Molla Gürani'nin Yüzyıllar Önce Mimarlık Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9471912,41.0116463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Ağa Çeşmesi: Molla Gürani'nin Yüzyıllar Önce Mimarlık Harikası

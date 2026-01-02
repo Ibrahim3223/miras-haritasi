@@ -1,18 +1,17 @@
 ---
-title: "Singeç Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:09+03:00
+title: "Singeç Köprüsü"
+date: "2025-12-25T01:59:09+03:00"
 slug: "singec-koprusu"
 description: "## Singeç Köprüsü: Tunceli'nin Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tunceli"
+province: "Tunceli"
+iller: '["Tunceli"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.249969,38.912883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Singeç Köprüsü: Tunceli'nin Tarihî Mirası

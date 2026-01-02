@@ -1,18 +1,17 @@
 ---
-title: "Ahi Evran Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:41+03:00
+title: "Ahi Evran Camii Çeşmesi"
+date: "2025-12-25T10:22:41+03:00"
 slug: "ahi-evran-camii-cesmesi"
 description: "# Ahi Evran Camii Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9660912,39.4220886"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ahi Evran Camii Çeşmesi

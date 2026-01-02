@@ -1,18 +1,17 @@
 ---
-title: "Melek Ahmed Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:10:48+03:00
+title: "Melek Ahmed Paşa Camii"
+date: "2025-12-24T22:10:48+03:00"
 slug: "melek-ahmed-pasa-camii"
 description: "## Melek Ahmed Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mizgefta_Melek_Ehmed_a_Amedê_2010.JPG/1200px-Mizgefta_Melek_Ehmed_a_Amedê_2010.JPG"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.230212,37.910891"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Melek Ahmed Paşa Camii

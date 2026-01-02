@@ -1,18 +1,17 @@
 ---
-title: "Bada Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:48+03:00
+title: "Bada Köprüsü"
+date: "2025-12-25T02:41:48+03:00"
 slug: "bada-koprusu"
 description: "## Bada Köprüsü: Beyşehir'in Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.830877295,37.634183198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bada Köprüsü: Beyşehir'in Tarihî Mirası

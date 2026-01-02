@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Frontinus Kapısı | Miras Haritası"
-date: 2025-12-25T13:18:43+03:00
+title: "Hierapolis Frontinus Kapısı"
+date: "2025-12-25T13:18:43+03:00"
 slug: "hierapolis-frontinus-kapisi"
 description: "### Hierapolis Frontinus Kapısı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1220093,37.9317436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hierapolis Frontinus Kapısı

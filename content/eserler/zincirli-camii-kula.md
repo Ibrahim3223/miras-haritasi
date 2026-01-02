@@ -1,18 +1,17 @@
 ---
-title: "Zincirli Camii, Kula | Miras Haritası"
-date: 2025-12-25T00:00:37+03:00
+title: "Zincirli Camii, Kula"
+date: "2025-12-25T00:00:37+03:00"
 slug: "zincirli-camii-kula"
 description: "## Zincirli Camii, Kula: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6483994,38.5424995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zincirli Camii, Kula: Manisa'nın Tarihi Bir Mirası

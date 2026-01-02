@@ -1,18 +1,17 @@
 ---
-title: "Duatepe Anıtı | Miras Haritası"
-date: 2025-12-25T15:55:45+03:00
+title: "Duatepe Anıtı"
+date: "2025-12-25T15:55:45+03:00"
 slug: "duatepe-aniti"
 description: "### Duatepe Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.0633554,39.6070974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Duatepe Anıtı

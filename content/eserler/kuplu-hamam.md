@@ -1,18 +1,17 @@
 ---
-title: "Küplü Hamam | Miras Haritası"
-date: 2025-12-25T16:53:20+03:00
+title: "Küplü Hamam"
+date: "2025-12-25T16:53:20+03:00"
 slug: "kuplu-hamam"
 description: "## Küplü Hamam: Bergama'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Küplü_Hamam_Wiki.jpg/1200px-Küplü_Hamam_Wiki.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1783943,39.1201477"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Küplü Hamam: Bergama'nın Tarihi Bir Mirası

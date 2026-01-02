@@ -1,18 +1,17 @@
 ---
-title: "Aleksandr Nevski Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:08+03:00
+title: "Aleksandr Nevski Kilisesi"
+date: "2025-12-25T09:12:08+03:00"
 slug: "aleksandr-nevski-kilisesi"
 description: "# Aleksandr Nevski Kilisesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Oltu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.0002327,40.5506706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aleksandr Nevski Kilisesi

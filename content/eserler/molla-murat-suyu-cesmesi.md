@@ -1,18 +1,17 @@
 ---
-title: "Molla Murat Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:57+03:00
+title: "Molla Murat Suyu Çeşmesi"
+date: "2025-12-25T11:20:57+03:00"
 slug: "molla-murat-suyu-cesmesi"
 description: "# Molla Murat Suyu Çeşmesi..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Büyükdere"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.041452,41.164698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Molla Murat Suyu Çeşmesi

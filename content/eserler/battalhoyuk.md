@@ -1,18 +1,17 @@
 ---
-title: "Battalhöyük | Miras Haritası"
-date: 2025-12-25T06:44:52+03:00
+title: "Battalhöyük"
+date: "2025-12-25T06:44:52+03:00"
 slug: "battalhoyuk"
 description: "## Battalhöyük: Tarih Öncesi'nin Gizemi..."
 featured_image: ""
-province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
-district: "Adıyaman"
+province: "Adıyaman"
+iller: '["Adıyaman"]'
+district: "Mamuret-ul-Aziz Vilayeti"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1861411,37.6269454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Battalhöyük: Tarih Öncesi'nin Gizemi

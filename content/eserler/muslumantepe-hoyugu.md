@@ -1,18 +1,17 @@
 ---
-title: "Müslümantepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:04:58+03:00
+title: "Müslümantepe Höyüğü"
+date: "2025-12-25T07:04:58+03:00"
 slug: "muslumantepe-hoyugu"
 description: "## Müslümantepe Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.9363527,37.8043586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müslümantepe Höyüğü

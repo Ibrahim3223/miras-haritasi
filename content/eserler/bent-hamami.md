@@ -1,18 +1,17 @@
 ---
-title: "Bent Hamamı | Miras Haritası"
-date: 2025-12-25T16:45:03+03:00
+title: "Bent Hamamı"
+date: "2025-12-25T16:45:03+03:00"
 slug: "bent-hamami"
 description: "## Bent Hamamı..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.2242279,40.2587814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bent Hamamı

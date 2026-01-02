@@ -1,18 +1,17 @@
 ---
-title: "Akün Sahnesi | Miras Haritası"
-date: 2025-12-25T16:16:31+03:00
+title: "Akün Sahnesi"
+date: "2025-12-25T16:16:31+03:00"
 slug: "akun-sahnesi"
 description: "## Akün Sahnesi: Ankara'nın Tarihi Tiyatro Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Akün_Sahnesi,_2021_01.jpg/1200px-Akün_Sahnesi,_2021_01.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.859111111,39.903944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akün Sahnesi: Ankara'nın Tarihi Tiyatro Mirası

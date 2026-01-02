@@ -1,18 +1,17 @@
 ---
-title: "Yatağan Baba Türbesi, Serinhisar | Miras Haritası"
-date: 2025-12-25T15:31:58+03:00
+title: "Yatağan Baba Türbesi, Serinhisar"
+date: "2025-12-25T15:31:58+03:00"
 slug: "yatagan-baba-turbesi-serinhisar"
 description: "## Yatağan Baba Türbesi, Serinhisar..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Serinhisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.3746586,37.5552025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yatağan Baba Türbesi, Serinhisar

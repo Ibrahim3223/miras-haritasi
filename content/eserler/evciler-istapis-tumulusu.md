@@ -1,18 +1,17 @@
 ---
-title: "Evciler İstapiş Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:56:41+03:00
+title: "Evciler İstapiş Tümülüsü"
+date: "2025-12-25T07:56:41+03:00"
 slug: "evciler-istapis-tumulusu"
 description: "## Evciler İstapiş Tümülüsü: Pınarhisar'ın Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.585186,41.767437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evciler İstapiş Tümülüsü: Pınarhisar'ın Gizli Anıtı

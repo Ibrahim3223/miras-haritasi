@@ -1,18 +1,17 @@
 ---
-title: "Köybaşı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:29+03:00
+title: "Köybaşı Köprüsü"
+date: "2025-12-25T02:41:29+03:00"
 slug: "koybasi-koprusu"
 description: "## Köybaşı Köprüsü: Aydın'ın Gölgeli Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1642895,37.9493675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köybaşı Köprüsü: Aydın'ın Gölgeli Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Bulduk Camii | Miras Haritası"
-date: 2025-12-24T22:26:37+03:00
+title: "Bulduk Camii"
+date: "2025-12-24T22:26:37+03:00"
 slug: "bulduk-camii"
 description: "# Bulduk Camii: Kocaeli'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9577847,40.9447746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bulduk Camii: Kocaeli'nin Tarihi Bir Mirası

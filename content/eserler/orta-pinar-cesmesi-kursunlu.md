@@ -1,18 +1,17 @@
 ---
-title: "Orta Pınar Çeşmesi, Kurşunlu | Miras Haritası"
-date: 2025-12-25T12:33:29+03:00
+title: "Orta Pınar Çeşmesi, Kurşunlu"
+date: "2025-12-25T12:33:29+03:00"
 slug: "orta-pinar-cesmesi-kursunlu"
 description: "## Orta Pınar Çeşmesi, Kurşunlu..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.211344476,40.889222117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Pınar Çeşmesi, Kurşunlu

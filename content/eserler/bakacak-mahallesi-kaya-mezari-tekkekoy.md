@@ -1,18 +1,17 @@
 ---
-title: "Bakacak Mahallesi Kaya Mezarı, Tekkeköy | Miras Haritası"
-date: 2025-12-25T13:21:24+03:00
+title: "Bakacak Mahallesi Kaya Mezarı, Tekkeköy"
+date: "2025-12-25T13:21:24+03:00"
 slug: "bakacak-mahallesi-kaya-mezari-tekkekoy"
 description: "## Bakacak Mahallesi Kaya Mezarı: Samsun'un Gizli Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Tekkeköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.445617,41.174533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakacak Mahallesi Kaya Mezarı: Samsun'un Gizli Mirası

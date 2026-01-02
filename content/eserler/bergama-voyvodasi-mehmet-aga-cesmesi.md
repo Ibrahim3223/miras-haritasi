@@ -1,18 +1,17 @@
 ---
-title: "Bergama Voyvodası Mehmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:50:48+03:00
+title: "Bergama Voyvodası Mehmet Ağa Çeşmesi"
+date: "2025-12-25T12:50:48+03:00"
 slug: "bergama-voyvodasi-mehmet-aga-cesmesi"
 description: "### Bergama Voyvodası Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1819992,39.1197014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bergama Voyvodası Mehmet Ağa Çeşmesi

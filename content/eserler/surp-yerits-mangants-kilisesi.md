@@ -1,18 +1,17 @@
 ---
-title: "Surp Yerits Mangants Kilisesi | Miras Haritası"
-date: 2025-12-25T08:47:36+03:00
+title: "Surp Yerits Mangants Kilisesi"
+date: "2025-12-25T08:47:36+03:00"
 slug: "surp-yerits-mangants-kilisesi"
 description: "## Surp Yerits Mangants Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0512,41.1023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Yerits Mangants Kilisesi

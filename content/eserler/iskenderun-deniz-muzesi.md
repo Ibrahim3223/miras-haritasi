@@ -1,18 +1,17 @@
 ---
-title: "İskenderun Deniz Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:38+03:00
+title: "İskenderun Deniz Müzesi"
+date: "2025-12-25T03:10:38+03:00"
 slug: "iskenderun-deniz-muzesi"
 description: "# İskenderun Deniz Müzesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "İskenderun"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.163611111,36.594166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İskenderun Deniz Müzesi

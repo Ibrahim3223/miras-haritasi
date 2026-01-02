@@ -1,18 +1,17 @@
 ---
-title: "Fil Yokuşu Medresesi | Miras Haritası"
-date: 2025-12-25T17:30:46+03:00
+title: "Fil Yokuşu Medresesi"
+date: "2025-12-25T17:30:46+03:00"
 slug: "fil-yokusu-medresesi"
 description: "## Fil Yokuşu Medresesi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.959054,41.021437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fil Yokuşu Medresesi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

@@ -1,18 +1,17 @@
 ---
-title: "Surp Sarkis Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:38+03:00
+title: "Surp Sarkis Ermeni Kilisesi"
+date: "2025-12-25T09:37:38+03:00"
 slug: "surp-sarkis-ermeni-kilisesi"
 description: "## Surp Sarkis Ermeni Kilisesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Gemerek"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.0534945,39.3087194"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Sarkis Ermeni Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Ali Paşa Çeşmesi, Atikali | Miras Haritası"
-date: 2025-12-25T11:55:28+03:00
+title: "Ali Paşa Çeşmesi, Atikali"
+date: "2025-12-25T11:55:28+03:00"
 slug: "ali-pasa-cesmesi-atikali"
 description: "**Ali Paşa Çeşmesi, Atikali**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.940296,41.02586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ali Paşa Çeşmesi, Atikali**

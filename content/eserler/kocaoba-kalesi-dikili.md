@@ -1,18 +1,17 @@
 ---
-title: "Kocaoba Kalesi, Dikili | Miras Haritası"
-date: 2025-12-25T01:27:06+03:00
+title: "Kocaoba Kalesi, Dikili"
+date: "2025-12-25T01:27:06+03:00"
 slug: "kocaoba-kalesi-dikili"
 description: "## Kocaoba Kalesi: Dikili'nin Tarihi ve Efsanevi Kaleleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.9723263,39.0777779"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocaoba Kalesi: Dikili'nin Tarihi ve Efsanevi Kaleleri

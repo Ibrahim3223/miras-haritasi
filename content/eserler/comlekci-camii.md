@@ -1,18 +1,17 @@
 ---
-title: "Çömlekçi Camii | Miras Haritası"
-date: 2025-12-24T22:34:20+03:00
+title: "Çömlekçi Camii"
+date: "2025-12-24T22:34:20+03:00"
 slug: "comlekci-camii"
 description: "# Çömlekçi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.677,37.1637993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çömlekçi Camii

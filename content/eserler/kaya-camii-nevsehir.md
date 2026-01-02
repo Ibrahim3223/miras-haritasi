@@ -1,18 +1,17 @@
 ---
-title: "Kaya Camii, Nevşehir | Miras Haritası"
-date: 2025-12-25T00:26:14+03:00
+title: "Kaya Camii, Nevşehir"
+date: "2025-12-25T00:26:14+03:00"
 slug: "kaya-camii-nevsehir"
 description: "## Kaya Camii: Nevşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.7141151,38.6200638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaya Camii: Nevşehir'in Gizli Cenneti

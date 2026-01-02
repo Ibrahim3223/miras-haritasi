@@ -1,18 +1,17 @@
 ---
-title: "Hacı Alaattin Gözcü Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:04+03:00
+title: "Hacı Alaattin Gözcü Çeşmesi"
+date: "2025-12-25T11:16:04+03:00"
 slug: "haci-alaattin-gozcu-cesmesi"
 description: "## Hacı Alaattin Gözcü Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.049,41.139693"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Alaattin Gözcü Çeşmesi

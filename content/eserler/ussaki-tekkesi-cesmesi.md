@@ -1,18 +1,17 @@
 ---
-title: "Uşşaki Tekkesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:13+03:00
+title: "Uşşaki Tekkesi Çeşmesi"
+date: "2025-12-25T11:00:13+03:00"
 slug: "ussaki-tekkesi-cesmesi"
 description: "## Uşşaki Tekkesi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yedikule"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.927517,40.996536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uşşaki Tekkesi Çeşmesi

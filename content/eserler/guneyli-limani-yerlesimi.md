@@ -1,18 +1,17 @@
 ---
-title: "Güneyli Limanı Yerleşimi | Miras Haritası"
-date: 2025-12-25T13:50:55+03:00
+title: "Güneyli Limanı Yerleşimi"
+date: "2025-12-25T13:50:55+03:00"
 slug: "guneyli-limani-yerlesimi"
 description: "### Güneyli Limanı Yerleşimi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6976967,40.5097694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güneyli Limanı Yerleşimi

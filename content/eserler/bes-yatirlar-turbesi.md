@@ -1,18 +1,17 @@
 ---
-title: "Beş Yatırlar Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:22+03:00
+title: "Beş Yatırlar Türbesi"
+date: "2025-12-25T15:10:22+03:00"
 slug: "bes-yatirlar-turbesi"
 description: "## Beş Yatırlar Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.776728,39.226466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beş Yatırlar Türbesi

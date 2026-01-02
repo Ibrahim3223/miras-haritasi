@@ -1,18 +1,17 @@
 ---
-title: "Armutlu Höyük | Miras Haritası"
-date: 2025-12-25T06:16:08+03:00
+title: "Armutlu Höyük"
+date: "2025-12-25T06:16:08+03:00"
 slug: "armutlu-hoyuk"
 description: "## Armutlu Höyük: Türkiye'nin Gizli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.7426758,40.212429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Armutlu Höyük: Türkiye'nin Gizli Mirası

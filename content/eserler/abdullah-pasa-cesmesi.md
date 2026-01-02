@@ -1,18 +1,18 @@
 ---
-title: "Abdullah Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:41:02+03:00
+title: "Abdullah Paşa Çeşmesi"
+date: "2025-12-25T11:41:02+03:00"
 slug: "abdullah-pasa-cesmesi"
 description: "### Abdullah Paşa Çeşmesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Abdullah_Paşa_Çeşmesi_Trabzon.jpg/1200px-Abdullah_Paşa_Çeşmesi_Trabzon.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2793159,39.9051247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Abdullah_Paşa_Çeşmesi_Trabzon.jpg/1200px-Abdullah_Paşa_Çeşmesi_Trabzon.jpg"
 ---
 
 ### Abdullah Paşa Çeşmesi

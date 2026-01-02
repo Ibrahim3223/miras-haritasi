@@ -1,18 +1,17 @@
 ---
-title: "Halil Paşa Camii, Payas | Miras Haritası"
-date: 2025-12-25T00:26:26+03:00
+title: "Halil Paşa Camii, Payas"
+date: "2025-12-25T00:26:26+03:00"
 slug: "halil-pasa-camii-payas"
 description: "## Halil Paşa Camii: Payas'ta Bir Tarihî Anıt..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Payas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.2296486,36.7584076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Paşa Camii: Payas'ta Bir Tarihî Anıt

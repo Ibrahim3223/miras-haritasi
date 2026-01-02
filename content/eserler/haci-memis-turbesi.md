@@ -1,18 +1,17 @@
 ---
-title: "Hacı Memiş Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:08+03:00
+title: "Hacı Memiş Türbesi"
+date: "2025-12-25T14:27:08+03:00"
 slug: "haci-memis-turbesi"
 description: "## Hacı Memiş Türbesi: Seydişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.929908,37.610038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Memiş Türbesi: Seydişehir'in Gizli Cenneti

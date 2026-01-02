@@ -1,18 +1,17 @@
 ---
-title: "Hadım Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:31:19+03:00
+title: "Hadım Baba Kabri"
+date: "2025-12-25T13:31:19+03:00"
 slug: "hadim-baba-kabri"
 description: "## Hadım Baba Kabri: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Arnavutköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.618155905,41.157209881"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadım Baba Kabri: İstanbul'un Gizli Mirası

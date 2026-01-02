@@ -1,18 +1,17 @@
 ---
-title: "Ali Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:03+03:00
+title: "Ali Paşa Türbesi"
+date: "2025-12-25T14:44:03+03:00"
 slug: "ali-pasa-turbesi"
 description: "## Ali Paşa Türbesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Ardanuç"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.0578499,41.1279678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Paşa Türbesi

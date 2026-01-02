@@ -1,18 +1,17 @@
 ---
-title: "Akmescit | Miras Haritası"
-date: 2025-12-25T05:37:43+03:00
+title: "Akmescit"
+date: "2025-12-25T05:37:43+03:00"
 slug: "akmescit"
 description: "## Akmescit: Isparta'nın Gizli Anıtı..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Gelendost"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.9642,38.053017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akmescit: Isparta'nın Gizli Anıtı

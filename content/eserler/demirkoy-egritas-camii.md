@@ -1,18 +1,17 @@
 ---
-title: "Demirköy Eğritaş Camii | Miras Haritası"
-date: 2025-12-25T01:01:23+03:00
+title: "Demirköy Eğritaş Camii"
+date: "2025-12-25T01:01:23+03:00"
 slug: "demirkoy-egritas-camii"
 description: "### Demirköy Eğritaş Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.6768001,40.997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Demirköy Eğritaş Camii

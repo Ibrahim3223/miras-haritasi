@@ -1,18 +1,17 @@
 ---
-title: "Hisar Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:07:01+03:00
+title: "Hisar Anıt Mezarı"
+date: "2025-12-25T14:07:01+03:00"
 slug: "hisar-anit-mezari"
 description: "### Hisar Anıt Mezarı: Gaziantep'in Efsanevi Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Araban"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.9149399,37.3841362"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hisar Anıt Mezarı: Gaziantep'in Efsanevi Mirası

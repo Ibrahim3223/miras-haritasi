@@ -1,18 +1,17 @@
 ---
-title: "Çağlayan Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:37:04+03:00
+title: "Çağlayan Köyü Camii"
+date: "2025-12-25T00:37:04+03:00"
 slug: "caglayan-koyu-camii"
 description: "# Çağlayan Köyü Camii: Rize'nin Gizli Cenneti..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Fındıklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.210450342,41.257777055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çağlayan Köyü Camii: Rize'nin Gizli Cenneti

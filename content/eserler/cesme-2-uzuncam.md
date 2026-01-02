@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2, Uzunçam | Miras Haritası"
-date: 2025-12-25T12:33:55+03:00
+title: "Çeşme 2, Uzunçam"
+date: "2025-12-25T12:33:55+03:00"
 slug: "cesme-2-uzuncam"
 description: "## Çeşme 2, Uzunçam: Nazilli, Aydın'da Bir Önemli Tarihsel Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.360286607,37.776088982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 2, Uzunçam: Nazilli, Aydın'da Bir Önemli Tarihsel Çeşme

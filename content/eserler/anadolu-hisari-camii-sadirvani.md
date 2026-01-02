@@ -1,18 +1,17 @@
 ---
-title: "Anadolu Hisarı Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:50+03:00
+title: "Anadolu Hisarı Camii Şadırvanı"
+date: "2025-12-25T10:02:50+03:00"
 slug: "anadolu-hisari-camii-sadirvani"
 description: "## Anadolu Hisarı Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0674744,41.0851936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anadolu Hisarı Camii Şadırvanı

@@ -1,18 +1,17 @@
 ---
-title: "Armaşen Kalesi | Miras Haritası"
-date: 2025-12-25T01:14:48+03:00
+title: "Armaşen Kalesi"
+date: "2025-12-25T01:14:48+03:00"
 slug: "armasen-kalesi"
 description: "### Armaşen Kalesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Armaşen Kalesi

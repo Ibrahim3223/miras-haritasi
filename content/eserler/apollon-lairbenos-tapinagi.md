@@ -1,18 +1,17 @@
 ---
-title: "Apollon Lairbenos Tapınağı | Miras Haritası"
-date: 2025-12-25T08:33:54+03:00
+title: "Apollon Lairbenos Tapınağı"
+date: "2025-12-25T08:33:54+03:00"
 slug: "apollon-lairbenos-tapinagi"
 description: "## Apollon Lairbenos Tapınağı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.2805824,38.2147484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apollon Lairbenos Tapınağı

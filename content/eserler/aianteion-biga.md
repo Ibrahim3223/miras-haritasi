@@ -1,18 +1,17 @@
 ---
-title: "Aianteion (Biga) | Miras Haritası"
-date: 2025-12-25T04:59:41+03:00
+title: "Aianteion (Biga)"
+date: "2025-12-25T04:59:41+03:00"
 slug: "aianteion-biga"
 description: "### Aianteion (Biga)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.2556,39.993642"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aianteion (Biga)

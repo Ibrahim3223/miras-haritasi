@@ -1,18 +1,17 @@
 ---
-title: "Şarampol Camii | Miras Haritası"
-date: 2025-12-24T23:09:07+03:00
+title: "Şarampol Camii"
+date: "2025-12-24T23:09:07+03:00"
 slug: "sarampol-camii"
 description: "## Şarampol Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7019691,36.8943748"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şarampol Camii

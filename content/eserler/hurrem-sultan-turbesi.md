@@ -1,18 +1,17 @@
 ---
-title: "Hürrem Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:08:20+03:00
+title: "Hürrem Sultan Türbesi"
+date: "2025-12-25T15:08:20+03:00"
 slug: "hurrem-sultan-turbesi"
 description: "## Hürrem Sultan Türbesi: İstanbul'un Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mausoleum_of_Roxelana_3.jpg/1200px-Mausoleum_of_Roxelana_3.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.964833,41.015643"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hürrem Sultan Türbesi: İstanbul'un Gizemli Anıtı

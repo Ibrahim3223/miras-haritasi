@@ -1,18 +1,17 @@
 ---
-title: "Neonteikhos | Miras Haritası"
-date: 2025-12-25T07:10:12+03:00
+title: "Neonteikhos"
+date: "2025-12-25T07:10:12+03:00"
 slug: "neonteikhos"
 description: "## Neonteikhos: Menemen'in Gizli İncisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Neonteikhos_Antik_Kenti.jpg/1200px-Neonteikhos_Antik_Kenti.jpg"
 province: "Menemen (ilçe)"
-iller: ["Menemen (ilçe)"]
+iller: '["Menemen (ilçe)"]'
 district: "Menemen"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0891,38.661"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Neonteikhos: Menemen'in Gizli İncisi

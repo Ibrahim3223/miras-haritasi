@@ -1,18 +1,17 @@
 ---
-title: "Zali Höyüğü | Miras Haritası"
-date: 2025-12-25T06:35:02+03:00
+title: "Zali Höyüğü"
+date: "2025-12-25T06:35:02+03:00"
 slug: "zali-hoyugu"
 description: "### Zali Höyüğü: Patnos'un Gizli Mirası..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Patnos"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.0410461,39.1735039"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zali Höyüğü: Patnos'un Gizli Mirası

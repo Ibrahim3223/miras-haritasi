@@ -1,18 +1,17 @@
 ---
-title: "Akıncılar Ağıl Çatağı Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:13:34+03:00
+title: "Akıncılar Ağıl Çatağı Tümülüsü"
+date: "2025-12-25T08:13:34+03:00"
 slug: "akincilar-agil-catagi-tumulusu"
 description: "## Akıncılar Ağıl Çatağı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6215172,41.4579582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akıncılar Ağıl Çatağı Tümülüsü

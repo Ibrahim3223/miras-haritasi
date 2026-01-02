@@ -1,18 +1,17 @@
 ---
-title: "Oninda | Miras Haritası"
-date: 2025-12-25T08:29:52+03:00
+title: "Oninda"
+date: "2025-12-25T08:29:52+03:00"
 slug: "oninda"
 description: "## Kaş'ın Oninda Arkeolojik Sit'i: Geçmişteki Gizemini Keşfedin..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.795866,36.216995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaş'ın Oninda Arkeolojik Sit'i: Geçmişteki Gizemini Keşfedin

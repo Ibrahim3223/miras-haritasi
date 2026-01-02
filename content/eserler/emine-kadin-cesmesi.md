@@ -1,18 +1,17 @@
 ---
-title: "Emine Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:30:37+03:00
+title: "Emine Kadın Çeşmesi"
+date: "2025-12-25T10:30:37+03:00"
 slug: "emine-kadin-cesmesi"
 description: "### Emine Kadın Çeşmesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2581882,37.8591232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Emine Kadın Çeşmesi

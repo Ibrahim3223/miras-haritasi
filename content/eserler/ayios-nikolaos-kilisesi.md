@@ -1,18 +1,17 @@
 ---
-title: "Ayios Nikolaos Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:36+03:00
+title: "Ayios Nikolaos Kilisesi"
+date: "2025-12-25T08:57:36+03:00"
 slug: "ayios-nikolaos-kilisesi"
 description: "## Ayios Nikolaos Kilisesi: İstanbul'un Gizli Çarşısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Entrance_of_Aya_Nikola_Church_in_Istanbul_(15343763776).jpg/1200px-Entrance_of_Aya_Nikola_Church_in_Istanbul_(15343763776).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.956755,41.027431"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayios Nikolaos Kilisesi: İstanbul'un Gizli Çarşısı

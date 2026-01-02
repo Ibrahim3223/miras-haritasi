@@ -1,18 +1,17 @@
 ---
-title: "Cevizli Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:27:09+03:00
+title: "Cevizli Köyü Camii"
+date: "2025-12-24T22:27:09+03:00"
 slug: "cevizli-koyu-camii"
 description: "## Cevizli Köyü Camii: Şavşat'ın Değerli Mirası..."
 featured_image: ""
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Cevizli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.3871002,41.3021011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevizli Köyü Camii: Şavşat'ın Değerli Mirası

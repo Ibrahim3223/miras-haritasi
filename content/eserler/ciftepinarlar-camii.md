@@ -1,18 +1,17 @@
 ---
-title: "Çiftepınarlar Camii | Miras Haritası"
-date: 2025-12-24T22:34:16+03:00
+title: "Çiftepınarlar Camii"
+date: "2025-12-24T22:34:16+03:00"
 slug: "ciftepinarlar-camii"
 description: "## Çiftepınarlar Camii: Düzce'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Düzce"
+province: "Düzce"
+iller: '["Düzce"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.1528816,40.9070702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiftepınarlar Camii: Düzce'nin Tarihi Bir Mirası

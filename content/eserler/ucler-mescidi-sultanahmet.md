@@ -1,18 +1,17 @@
 ---
-title: "Üçler Mescidi, Sultanahmet | Miras Haritası"
-date: 2025-12-24T23:22:25+03:00
+title: "Üçler Mescidi, Sultanahmet"
+date: "2025-12-24T23:22:25+03:00"
 slug: "ucler-mescidi-sultanahmet"
 description: "**Üçler Mescidi, Sultanahmet**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9743156,41.0055275"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Üçler Mescidi, Sultanahmet**

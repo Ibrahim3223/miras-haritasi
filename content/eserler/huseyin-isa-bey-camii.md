@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin İsa Bey Camii | Miras Haritası"
-date: 2025-12-24T22:22:20+03:00
+title: "Hüseyin İsa Bey Camii"
+date: "2025-12-24T22:22:20+03:00"
 slug: "huseyin-isa-bey-camii"
 description: "### Hüseyin İsa Bey Camii: Bir Önemli Mirasın Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hüseyin_İsa_Bey_Camii.jpg/1200px-Hüseyin_İsa_Bey_Camii.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.218777777,38.467611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hüseyin İsa Bey Camii: Bir Önemli Mirasın Tanıtımı

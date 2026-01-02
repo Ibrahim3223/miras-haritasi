@@ -1,18 +1,17 @@
 ---
-title: "Ahi Şerafeddin Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:02+03:00
+title: "Ahi Şerafeddin Türbesi"
+date: "2025-12-25T14:47:02+03:00"
 slug: "ahi-serafeddin-turbesi"
 description: "# Ahi Şerafeddin Türbesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ahi Şerafeddin Türbesi

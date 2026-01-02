@@ -1,18 +1,17 @@
 ---
-title: "Bolus Höyüğü | Miras Haritası"
-date: 2025-12-25T05:56:14+03:00
+title: "Bolus Höyüğü"
+date: "2025-12-25T05:56:14+03:00"
 slug: "bolus-hoyugu"
 description: "### Bolus Höyüğü..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.5051956,40.0827789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bolus Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Tuna Mescidi | Miras Haritası"
-date: 2025-12-24T23:15:51+03:00
+title: "Tuna Mescidi"
+date: "2025-12-24T23:15:51+03:00"
 slug: "tuna-mescidi"
 description: "# Tuna Mescidi: Karadeniz'in Gizli Mimarisi..."
 featured_image: ""
 province: "Çaykara İlçesi"
-iller: ["Çaykara İlçesi"]
+iller: '["Çaykara İlçesi"]'
 district: "Ataköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2293015,40.7060013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tuna Mescidi: Karadeniz'in Gizli Mimarisi

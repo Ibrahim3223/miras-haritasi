@@ -1,18 +1,17 @@
 ---
-title: "Tuzlagözü Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:18:21+03:00
+title: "Tuzlagözü Köyü Camii"
+date: "2025-12-24T23:18:21+03:00"
 slug: "tuzlagozu-koyu-camii"
 description: "## Tuzlagözü Köyü Camii: Sivas'ın Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sivas"
+province: "Sivas"
+iller: '["Sivas"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.6756248,39.7144928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tuzlagözü Köyü Camii: Sivas'ın Kültürel Mirası

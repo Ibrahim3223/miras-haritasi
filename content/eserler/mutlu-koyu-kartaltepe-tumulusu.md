@@ -1,18 +1,17 @@
 ---
-title: "Mutlu Köyü Kartaltepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:34:10+03:00
+title: "Mutlu Köyü Kartaltepe Tümülüsü"
+date: "2025-12-25T07:34:10+03:00"
 slug: "mutlu-koyu-kartaltepe-tumulusu"
 description: "## Mutlu Köyü Kartaltepe Tümülüsü: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9880486,41.5082283"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mutlu Köyü Kartaltepe Tümülüsü: Kırklareli'nin Gizli Cenneti

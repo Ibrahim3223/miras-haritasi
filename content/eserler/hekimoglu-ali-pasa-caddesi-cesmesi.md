@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:51+03:00
+title: "Hekimoğlu Ali Paşa Caddesi Çeşmesi"
+date: "2025-12-25T13:01:51+03:00"
 slug: "hekimoglu-ali-pasa-caddesi-cesmesi"
 description: "## Hekimoğlu Ali Paşa Caddesi Çeşmesi: Fatih'te Bir Klasik Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9318085,41.0071068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hekimoğlu Ali Paşa Caddesi Çeşmesi: Fatih'te Bir Klasik Çeşme

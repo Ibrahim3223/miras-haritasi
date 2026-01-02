@@ -1,18 +1,17 @@
 ---
-title: "Cezayirli Gazi Hasan Paşa Çeşmesi, Camiikebir – Cezayirli Mektebi Sokak | Miras Haritası"
-date: 2025-12-25T12:14:21+03:00
+title: "Cezayirli Gazi Hasan Paşa Çeşmesi, Camiikebir – Cezayirli Mektebi Sokak"
+date: "2025-12-25T12:14:21+03:00"
 slug: "cezayirli-gazi-hasan-pasa-cesmesi-camiikebir-cezayirli-mektebi-sokak"
 description: "## Cezayirli Gazi Hasan Paşa Çeşmesi: Beyoğlu'ndaki Bir Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cezayirli_Gazi_Hasan_Paşa_Çeşmesi,_Camiikebir_IMG_0467.jpg/1200px-Cezayirli_Gazi_Hasan_Paşa_Çeşmesi,_Camiikebir_IMG_0467.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.967335,41.03215"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cezayirli Gazi Hasan Paşa Çeşmesi: Beyoğlu'ndaki Bir Kültür Mirası

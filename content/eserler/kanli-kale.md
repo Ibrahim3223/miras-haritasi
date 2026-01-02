@@ -1,18 +1,17 @@
 ---
-title: "Kanlı Kale | Miras Haritası"
-date: 2025-12-25T01:44:01+03:00
+title: "Kanlı Kale"
+date: "2025-12-25T01:44:01+03:00"
 slug: "kanli-kale"
 description: "**Kanlı Kale: Tarihçesi ve Mirası**..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karapınar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.8436089,37.8341026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kanlı Kale: Tarihçesi ve Mirası**

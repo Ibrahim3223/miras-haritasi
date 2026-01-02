@@ -1,18 +1,17 @@
 ---
-title: "Durhanaz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:34:30+03:00
+title: "Durhanaz Köprüsü"
+date: "2025-12-25T02:34:30+03:00"
 slug: "durhanaz-koprusu"
 description: "## Durhanaz Köprüsü: Tarihî Bir Mirasın Tanıtımı..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.8375626,40.4358368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Durhanaz Köprüsü: Tarihî Bir Mirasın Tanıtımı

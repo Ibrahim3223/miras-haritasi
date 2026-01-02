@@ -1,18 +1,17 @@
 ---
-title: "Kayı Pazarı Minaresi | Miras Haritası"
-date: 2025-12-25T00:02:58+03:00
+title: "Kayı Pazarı Minaresi"
+date: "2025-12-25T00:02:58+03:00"
 slug: "kayi-pazari-minaresi"
 description: "### Kayı Pazarı Minaresi: Çal'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4337959,38.1179047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kayı Pazarı Minaresi: Çal'ın Tarihi Bir Mirası

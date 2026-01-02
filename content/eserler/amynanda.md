@@ -1,18 +1,17 @@
 ---
-title: "Amynanda | Miras Haritası"
-date: 2025-12-25T04:40:10+03:00
+title: "Amynanda"
+date: "2025-12-25T04:40:10+03:00"
 slug: "amynanda"
 description: "## Amynanda: Muğla'nın Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.646111111,37.002222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amynanda: Muğla'nın Gizli Anıtı

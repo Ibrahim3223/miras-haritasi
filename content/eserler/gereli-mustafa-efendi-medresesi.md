@@ -1,18 +1,17 @@
 ---
-title: "Gereli Mustafa Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:08+03:00
+title: "Gereli Mustafa Efendi Medresesi"
+date: "2025-12-25T17:44:08+03:00"
 slug: "gereli-mustafa-efendi-medresesi"
 description: "## Gereli Mustafa Efendi Medresesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0860615,37.7748795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gereli Mustafa Efendi Medresesi

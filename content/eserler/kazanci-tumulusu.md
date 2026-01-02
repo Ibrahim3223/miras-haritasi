@@ -1,18 +1,17 @@
 ---
-title: "Kazancı Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:17:10+03:00
+title: "Kazancı Tümülüsü"
+date: "2025-12-25T08:17:10+03:00"
 slug: "kazanci-tumulusu"
 description: "## Kazancı Tümülüsü: Vize'nin Gizli Tarihi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6388988,41.4932327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazancı Tümülüsü: Vize'nin Gizli Tarihi

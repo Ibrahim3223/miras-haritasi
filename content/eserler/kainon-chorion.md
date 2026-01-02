@@ -1,18 +1,17 @@
 ---
-title: "Kainon Chorion | Miras Haritası"
-date: 2025-12-25T05:22:01+03:00
+title: "Kainon Chorion"
+date: "2025-12-25T05:22:01+03:00"
 slug: "kainon-chorion"
 description: "## Kainon Chorion: Türkiye'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.84838,40.78408"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kainon Chorion: Türkiye'nin Gizli Mirası

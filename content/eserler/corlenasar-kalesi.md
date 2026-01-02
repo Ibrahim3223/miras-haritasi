@@ -1,18 +1,17 @@
 ---
-title: "Çörlenasar Kalesi | Miras Haritası"
-date: 2025-12-25T01:45:12+03:00
+title: "Çörlenasar Kalesi"
+date: "2025-12-25T01:45:12+03:00"
 slug: "corlenasar-kalesi"
 description: "### Çörlenasar Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.6357651,37.5279465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çörlenasar Kalesi

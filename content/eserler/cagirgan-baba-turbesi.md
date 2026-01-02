@@ -1,18 +1,17 @@
 ---
-title: "Çağırgan Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:36:54+03:00
+title: "Çağırgan Baba Türbesi"
+date: "2025-12-25T14:36:54+03:00"
 slug: "cagirgan-baba-turbesi"
 description: "## Çağırgan Baba Türbesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.591369,40.417846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağırgan Baba Türbesi

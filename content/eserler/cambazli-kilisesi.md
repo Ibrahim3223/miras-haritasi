@@ -1,18 +1,17 @@
 ---
-title: "Cambazlı Kilisesi | Miras Haritası"
-date: 2025-12-25T08:39:02+03:00
+title: "Cambazlı Kilisesi"
+date: "2025-12-25T08:39:02+03:00"
 slug: "cambazli-kilisesi"
 description: "## Cambazlı Kilisesi: Silifke'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/CambazliKirche3.jpg/1200px-CambazliKirche3.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.0329543,36.5748962"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cambazlı Kilisesi: Silifke'nin Tarihi Bir Mirası

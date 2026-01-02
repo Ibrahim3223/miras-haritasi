@@ -1,18 +1,17 @@
 ---
-title: "Ağın Ulu Camii | Miras Haritası"
-date: 2025-12-24T23:03:51+03:00
+title: "Ağın Ulu Camii"
+date: "2025-12-24T23:03:51+03:00"
 slug: "agin-ulu-camii"
 description: "### Ağın Ulu Camii: Elazığ'da Gizli Bir Çanak..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Elazığ"
+province: "Elazığ"
+iller: '["Elazığ"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7160835,38.9428558"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağın Ulu Camii: Elazığ'da Gizli Bir Çanak

@@ -1,18 +1,17 @@
 ---
-title: "Sungurlu Tarihi Hamam | Miras Haritası"
-date: 2025-12-25T16:45:22+03:00
+title: "Sungurlu Tarihi Hamam"
+date: "2025-12-25T16:45:22+03:00"
 slug: "sungurlu-tarihi-hamam"
 description: "# Sungurlu Tarihi Hamam..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Sungurlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.3734016,40.1621513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sungurlu Tarihi Hamam

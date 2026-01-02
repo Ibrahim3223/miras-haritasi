@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Muğla | Miras Haritası"
-date: 2025-12-25T15:49:19+03:00
+title: "Atatürk Anıtı, Muğla"
+date: "2025-12-25T15:49:19+03:00"
 slug: "ataturk-aniti-mugla"
 description: "## Atatürk Anıtı, Muğla..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3637066,37.2151375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı, Muğla

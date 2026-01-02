@@ -1,18 +1,17 @@
 ---
-title: "Deve Höyük | Miras Haritası"
-date: 2025-12-25T06:40:34+03:00
+title: "Deve Höyük"
+date: "2025-12-25T06:40:34+03:00"
 slug: "deve-hoyuk"
 description: "### Deve Höyük: Gaziantep'te Eski Çağların Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.7359109,36.7555421"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Deve Höyük: Gaziantep'te Eski Çağların Mirası

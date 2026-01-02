@@ -1,18 +1,17 @@
 ---
-title: "Ardabau | Miras Haritası"
-date: 2025-12-25T05:20:29+03:00
+title: "Ardabau"
+date: "2025-12-25T05:20:29+03:00"
 slug: "ardabau"
 description: "## Ardabau: Türkiye'nin Gizli Arkeolojik Siti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ardabau: Türkiye'nin Gizli Arkeolojik Siti

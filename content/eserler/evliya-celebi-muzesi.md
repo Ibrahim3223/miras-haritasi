@@ -1,18 +1,17 @@
 ---
-title: "Evliya Çelebi Müzesi | Miras Haritası"
-date: 2025-12-25T03:57:51+03:00
+title: "Evliya Çelebi Müzesi"
+date: "2025-12-25T03:57:51+03:00"
 slug: "evliya-celebi-muzesi"
 description: "# Evliya Çelebi Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.987692,39.415453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Evliya Çelebi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Piskopos Kilisesi (Priene) | Miras Haritası"
-date: 2025-12-25T09:02:50+03:00
+title: "Piskopos Kilisesi (Priene)"
+date: "2025-12-25T09:02:50+03:00"
 slug: "piskopos-kilisesi-priene"
 description: "## Piskopos Kilisesi (Priene)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Priene_Piskoposluk_Kilisesi_02.jpg/1200px-Priene_Piskoposluk_Kilisesi_02.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.2977552,37.659649"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Piskopos Kilisesi (Priene)

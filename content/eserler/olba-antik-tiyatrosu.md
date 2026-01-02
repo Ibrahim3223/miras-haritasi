@@ -1,18 +1,17 @@
 ---
-title: "Olba Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:22:12+03:00
+title: "Olba Antik Tiyatrosu"
+date: "2025-12-25T16:22:12+03:00"
 slug: "olba-antik-tiyatrosu"
 description: "## Olba Antik Tiyatrosu: Silifke'nin Gizli Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "33.96493,36.584649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olba Antik Tiyatrosu: Silifke'nin Gizli Mirası

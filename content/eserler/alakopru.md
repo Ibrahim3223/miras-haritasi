@@ -1,18 +1,17 @@
 ---
-title: "Alaköprü | Miras Haritası"
-date: 2025-12-25T01:55:28+03:00
+title: "Alaköprü"
+date: "2025-12-25T01:55:28+03:00"
 slug: "alakopru"
 description: "# Alaköprü: Anamur'un Görsel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Anamur_Barajı_2023.jpg/1200px-Anamur_Barajı_2023.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.89491,36.18176"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Alaköprü: Anamur'un Görsel Mirası

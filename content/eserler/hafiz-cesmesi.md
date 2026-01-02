@@ -1,18 +1,17 @@
 ---
-title: "Hafız Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:00+03:00
+title: "Hafız Çeşmesi"
+date: "2025-12-25T11:42:00+03:00"
 slug: "hafiz-cesmesi"
 description: "## Hafız Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2831345,39.9100266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafız Çeşmesi

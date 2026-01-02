@@ -1,18 +1,17 @@
 ---
-title: "Kormas Kalesi, Şirvan | Miras Haritası"
-date: 2025-12-25T01:30:22+03:00
+title: "Kormas Kalesi, Şirvan"
+date: "2025-12-25T01:30:22+03:00"
 slug: "kormas-kalesi-sirvan"
 description: "## Kormas Kalesi: Şirvan'ın Tarihî Mirası..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Şirvan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.1305275,38.0317879"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kormas Kalesi: Şirvan'ın Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Çayağzı Köyü Orhan Gazi Camii | Miras Haritası"
-date: 2025-12-24T22:30:24+03:00
+title: "Çayağzı Köyü Orhan Gazi Camii"
+date: "2025-12-24T22:30:24+03:00"
 slug: "cayagzi-koyu-orhan-gazi-camii"
 description: "# Çayağzı Köyü Orhan Gazi Camii..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.2287579,41.0861702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çayağzı Köyü Orhan Gazi Camii

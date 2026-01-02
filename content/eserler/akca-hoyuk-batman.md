@@ -1,18 +1,17 @@
 ---
-title: "Akça Höyük, Batman | Miras Haritası"
-date: 2025-12-25T13:49:35+03:00
+title: "Akça Höyük, Batman"
+date: "2025-12-25T13:49:35+03:00"
 slug: "akca-hoyuk-batman"
 description: "**Akça Höyük: Güneydoğu Anadolu'nun Gizli Mirası**..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.1835289,37.8547173"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akça Höyük: Güneydoğu Anadolu'nun Gizli Mirası**

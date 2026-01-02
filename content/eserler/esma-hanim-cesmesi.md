@@ -1,18 +1,17 @@
 ---
-title: "Esma Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:49:52+03:00
+title: "Esma Hanım Çeşmesi"
+date: "2025-12-25T10:49:52+03:00"
 slug: "esma-hanim-cesmesi"
 description: "### Esma Hanım Çeşmesi: Talas'ta Bir Klasik Çeşme..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.557663,38.6904221"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Esma Hanım Çeşmesi: Talas'ta Bir Klasik Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Çengelli Bostan Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:49:20+03:00
+title: "Çengelli Bostan Sokak Çeşmesi"
+date: "2025-12-25T11:49:20+03:00"
 slug: "cengelli-bostan-sokak-cesmesi"
 description: "### Çengelli Bostan Sokak Çeşmesi: Üsküdar'daki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0562305,41.0505676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çengelli Bostan Sokak Çeşmesi: Üsküdar'daki Bir Tarihi Çeşme

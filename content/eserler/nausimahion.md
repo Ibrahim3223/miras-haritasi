@@ -1,18 +1,17 @@
 ---
-title: "Nausimahion | Miras Haritası"
-date: 2025-12-25T04:44:56+03:00
+title: "Nausimahion"
+date: "2025-12-25T04:44:56+03:00"
 slug: "nausimahion"
 description: "## Nausimahion: Üsküdar'ın Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.053607,41.059363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nausimahion: Üsküdar'ın Gizli Mirası

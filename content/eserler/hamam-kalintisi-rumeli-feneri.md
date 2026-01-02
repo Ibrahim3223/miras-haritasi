@@ -1,18 +1,17 @@
 ---
-title: "Hamam Kalıntısı, Rumeli Feneri | Miras Haritası"
-date: 2025-12-25T16:56:02+03:00
+title: "Hamam Kalıntısı, Rumeli Feneri"
+date: "2025-12-25T16:56:02+03:00"
 slug: "hamam-kalintisi-rumeli-feneri"
 description: "## Rumeli Feneri Hamam Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.1114941,41.2334442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rumeli Feneri Hamam Kalıntısı

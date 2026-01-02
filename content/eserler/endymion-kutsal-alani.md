@@ -1,18 +1,17 @@
 ---
-title: "Endymion Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T08:40:30+03:00
+title: "Endymion Kutsal Alanı"
+date: "2025-12-25T08:40:30+03:00"
 slug: "endymion-kutsal-alani"
 description: "# Endymion Kutsal Alanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.525753,37.4991074"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Endymion Kutsal Alanı

@@ -1,18 +1,17 @@
 ---
-title: "Giresun Şebinkarahisar İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:46:25+03:00
+title: "Giresun Şebinkarahisar İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:46:25+03:00"
 slug: "giresun-sebinkarahisar-ilce-halk-kutuphanesi"
 description: "### Giresun Şebinkarahisar İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giresun Şebinkarahisar İlçe Halk Kütüphanesi

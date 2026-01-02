@@ -1,18 +1,17 @@
 ---
-title: "Arıkbaşı Şehitlik Anıtı | Miras Haritası"
-date: 2025-12-25T14:10:29+03:00
+title: "Arıkbaşı Şehitlik Anıtı"
+date: "2025-12-25T14:10:29+03:00"
 slug: "arikbasi-sehitlik-aniti"
 description: "# Arıkbaşı Şehitlik Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4966125,38.1776848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arıkbaşı Şehitlik Anıtı

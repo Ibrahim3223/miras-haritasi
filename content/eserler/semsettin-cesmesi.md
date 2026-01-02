@@ -1,18 +1,17 @@
 ---
-title: "Şemsettin Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:01+03:00
+title: "Şemsettin Çeşmesi"
+date: "2025-12-25T10:17:01+03:00"
 slug: "semsettin-cesmesi"
 description: "## Şemsettin Çeşmesi: Bulancak'ın Tarihî Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Bulancak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.235372,40.915866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şemsettin Çeşmesi: Bulancak'ın Tarihî Çeşmesi

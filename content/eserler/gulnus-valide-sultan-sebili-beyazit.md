@@ -1,18 +1,17 @@
 ---
-title: "Gülnuş Valide Sultan Sebili, Beyazıt | Miras Haritası"
-date: 2025-12-25T13:07:54+03:00
+title: "Gülnuş Valide Sultan Sebili, Beyazıt"
+date: "2025-12-25T13:07:54+03:00"
 slug: "gulnus-valide-sultan-sebili-beyazit"
 description: "## Gülnuş Valide Sultan Sebili, Beyazıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.962591,41.009298"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülnuş Valide Sultan Sebili, Beyazıt

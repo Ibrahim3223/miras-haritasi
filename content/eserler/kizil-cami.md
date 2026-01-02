@@ -1,18 +1,17 @@
 ---
-title: "Kızıl Cami | Miras Haritası"
-date: 2025-12-24T22:00:16+03:00
+title: "Kızıl Cami"
+date: "2025-12-24T22:00:16+03:00"
 slug: "kizil-cami"
 description: "### Kızıl Cami: Eyüp'te Tarih ve Zenginlik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kızıl_Mescid-Eyüp.jpg/1200px-Kızıl_Mescid-Eyüp.jpg"
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.934694444,41.045944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kızıl Cami: Eyüp'te Tarih ve Zenginlik

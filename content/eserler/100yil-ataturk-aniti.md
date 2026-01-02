@@ -1,18 +1,17 @@
 ---
-title: "100.Yıl Atatürk Anıtı | Miras Haritası"
-date: 2025-12-25T16:08:14+03:00
+title: "100.Yıl Atatürk Anıtı"
+date: "2025-12-25T16:08:14+03:00"
 slug: "100yil-ataturk-aniti"
 description: "## 100. Yıl Atatürk Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.968647,40.352375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 100. Yıl Atatürk Anıtı

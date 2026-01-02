@@ -1,18 +1,17 @@
 ---
-title: "Mahmutpaşa Yokuşu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:23:45+03:00
+title: "Mahmutpaşa Yokuşu Çeşmesi"
+date: "2025-12-25T11:23:45+03:00"
 slug: "mahmutpasa-yokusu-cesmesi"
 description: "### Giriş..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sururi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9705693,41.0119017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

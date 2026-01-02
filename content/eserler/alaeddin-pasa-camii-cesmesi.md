@@ -1,18 +1,17 @@
 ---
-title: "Alaeddin Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:25+03:00
+title: "Alaeddin Paşa Camii Çeşmesi"
+date: "2025-12-25T10:56:25+03:00"
 slug: "alaeddin-pasa-camii-cesmesi"
 description: "## Alaeddin Paşa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Alaüddin_paşa_camisi_bursa_-_panoramio_(3).jpg/1200px-Alaüddin_paşa_camisi_bursa_-_panoramio_(3).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0499763,40.1853409"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alaeddin Paşa Camii Çeşmesi

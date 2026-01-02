@@ -1,18 +1,17 @@
 ---
-title: "Kurttepe A Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:00:19+03:00
+title: "Kurttepe A Tümülüsü"
+date: "2025-12-25T08:00:19+03:00"
 slug: "kurttepe-a-tumulusu"
 description: "### Kurttepe A Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7071075,41.3653145"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurttepe A Tümülüsü

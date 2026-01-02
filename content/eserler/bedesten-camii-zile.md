@@ -1,18 +1,17 @@
 ---
-title: "Bedesten Camii, Zile | Miras Haritası"
-date: 2025-12-25T00:10:44+03:00
+title: "Bedesten Camii, Zile"
+date: "2025-12-25T00:10:44+03:00"
 slug: "bedesten-camii-zile"
 description: "## Bedesten Camii, Zile..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8882446,40.3020744"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bedesten Camii, Zile

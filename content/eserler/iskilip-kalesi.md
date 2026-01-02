@@ -1,18 +1,17 @@
 ---
-title: "İskilip Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:31+03:00
+title: "İskilip Kalesi"
+date: "2025-12-25T01:33:31+03:00"
 slug: "iskilip-kalesi"
 description: "## İskilip Kalesi: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.473896,40.7357445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskilip Kalesi: Tarihi ve Kültürel Mirası

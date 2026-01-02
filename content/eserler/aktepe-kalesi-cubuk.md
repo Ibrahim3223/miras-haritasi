@@ -1,18 +1,17 @@
 ---
-title: "Aktepe Kalesi, Çubuk | Miras Haritası"
-date: 2025-12-25T01:31:19+03:00
+title: "Aktepe Kalesi, Çubuk"
+date: "2025-12-25T01:31:19+03:00"
 slug: "aktepe-kalesi-cubuk"
 description: "## Aktepe Kalesi: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.990988,40.390015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aktepe Kalesi: Ankara'nın Tarihi Bir Mirası

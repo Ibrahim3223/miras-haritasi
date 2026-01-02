@@ -1,18 +1,17 @@
 ---
-title: "Bağcılar Çanakkale Zafer Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:49+03:00
+title: "Bağcılar Çanakkale Zafer Müzesi"
+date: "2025-12-25T04:03:49+03:00"
 slug: "bagcilar-canakkale-zafer-muzesi"
 description: "## Bağcılar Çanakkale Zafer Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.816487885,41.040413228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağcılar Çanakkale Zafer Müzesi

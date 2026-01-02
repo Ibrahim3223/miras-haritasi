@@ -1,18 +1,17 @@
 ---
-title: "Kapıdallı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:12:36+03:00
+title: "Kapıdallı Höyüğü"
+date: "2025-12-25T06:12:36+03:00"
 slug: "kapidalli-hoyugu"
 description: "## Kapıdallı Höyüğü: Konya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.81602,37.6836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapıdallı Höyüğü: Konya'nın Gizli Tarihi

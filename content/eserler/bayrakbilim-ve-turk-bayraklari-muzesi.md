@@ -1,18 +1,17 @@
 ---
-title: "Bayrakbilim ve Türk Bayrakları Müzesi | Miras Haritası"
-date: 2025-12-25T04:08:26+03:00
+title: "Bayrakbilim ve Türk Bayrakları Müzesi"
+date: "2025-12-25T04:08:26+03:00"
 slug: "bayrakbilim-ve-turk-bayraklari-muzesi"
 description: "## Bayrakbilim ve Türk Bayrakları Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Buca"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.1809063,38.3864098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayrakbilim ve Türk Bayrakları Müzesi

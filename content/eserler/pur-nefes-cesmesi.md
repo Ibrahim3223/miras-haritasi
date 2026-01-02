@@ -1,18 +1,17 @@
 ---
-title: "Pür Nefes Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:34+03:00
+title: "Pür Nefes Çeşmesi"
+date: "2025-12-25T11:26:34+03:00"
 slug: "pur-nefes-cesmesi"
 description: "## Pür Nefes Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4168968,38.6070938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pür Nefes Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Gelibolu Savaş Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:39+03:00
+title: "Gelibolu Savaş Müzesi"
+date: "2025-12-25T03:28:39+03:00"
 slug: "gelibolu-savas-muzesi"
 description: "**Gelibolu Savaş Müzesi: Çanakkale'nin Kahramanlık Evi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gallipoli_War_Museum.jpg/1200px-Gallipoli_War_Museum.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.668055555,40.406666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Gelibolu Savaş Müzesi: Çanakkale'nin Kahramanlık Evi**

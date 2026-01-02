@@ -1,18 +1,17 @@
 ---
-title: "Hacıtuğrul Höyüğü | Miras Haritası"
-date: 2025-12-25T07:05:06+03:00
+title: "Hacıtuğrul Höyüğü"
+date: "2025-12-25T07:05:06+03:00"
 slug: "hacitugrul-hoyugu"
 description: "**Hacıtuğrul Höyüğü: Polatlı'da Eski Çağın Gizemi**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.221096,39.7077942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hacıtuğrul Höyüğü: Polatlı'da Eski Çağın Gizemi**

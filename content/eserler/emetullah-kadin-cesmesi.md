@@ -1,18 +1,17 @@
 ---
-title: "Emetullah Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:34+03:00
+title: "Emetullah Kadın Çeşmesi"
+date: "2025-12-25T10:18:34+03:00"
 slug: "emetullah-kadin-cesmesi"
 description: "## Emetullah Kadın Çeşmesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.4067993,40.2503014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emetullah Kadın Çeşmesi

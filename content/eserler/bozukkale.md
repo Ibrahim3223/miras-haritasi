@@ -1,18 +1,17 @@
 ---
-title: "Bozukkale | Miras Haritası"
-date: 2025-12-25T01:15:23+03:00
+title: "Bozukkale"
+date: "2025-12-25T01:15:23+03:00"
 slug: "bozukkale"
 description: "### Bozukkale: Marmaris'in Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bozukkale.jpg/1200px-Bozukkale.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.0157375,36.5659447"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bozukkale: Marmaris'in Gizli Kahramanı

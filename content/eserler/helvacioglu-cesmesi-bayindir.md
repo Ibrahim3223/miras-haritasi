@@ -1,18 +1,17 @@
 ---
-title: "Helvacıoğlu Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:02:24+03:00
+title: "Helvacıoğlu Çeşmesi, Bayındır"
+date: "2025-12-25T12:02:24+03:00"
 slug: "helvacioglu-cesmesi-bayindir"
 description: "## Helvacıoğlu Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6464996,38.2254982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Helvacıoğlu Çeşmesi, Bayındır

@@ -1,18 +1,17 @@
 ---
-title: "Nusratiye Camii | Miras Haritası"
-date: 2025-12-25T09:30:10+03:00
+title: "Nusratiye Camii"
+date: "2025-12-25T09:30:10+03:00"
 slug: "nusratiye-camii"
 description: "## Nusratiye Camii..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.6330414,36.8003311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nusratiye Camii

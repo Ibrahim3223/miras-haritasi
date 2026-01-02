@@ -1,18 +1,17 @@
 ---
-title: "Seymenlik Zaviyesi, Beçin | Miras Haritası"
-date: 2025-12-25T00:51:21+03:00
+title: "Seymenlik Zaviyesi, Beçin"
+date: "2025-12-25T00:51:21+03:00"
 slug: "seymenlik-zaviyesi-becin"
 description: "## Seymenlik Zaviyesi, Beçin: Milas'ta Bir Değerli Kültür Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7898102,37.2712936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seymenlik Zaviyesi, Beçin: Milas'ta Bir Değerli Kültür Mirası

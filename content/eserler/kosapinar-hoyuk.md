@@ -1,18 +1,17 @@
 ---
-title: "Koşapınar  Höyük | Miras Haritası"
-date: 2025-12-25T06:33:29+03:00
+title: "Koşapınar  Höyük"
+date: "2025-12-25T06:33:29+03:00"
 slug: "kosapinar-hoyuk"
 description: "## Koşapınar Höyük: Amasya'nın Gizli Tarih Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.9997474,40.5719196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koşapınar Höyük: Amasya'nın Gizli Tarih Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Pedesa T23 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:38+03:00
+title: "Pedesa T23 Tümülüsü"
+date: "2025-12-25T07:35:38+03:00"
 slug: "pedesa-t23-tumulusu"
 description: "### Pedesa T23 Tümülüsü: Bodrum'un Gizli Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.429069855,37.061227044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pedesa T23 Tümülüsü: Bodrum'un Gizli Mirası

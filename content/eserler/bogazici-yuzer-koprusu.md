@@ -1,18 +1,17 @@
 ---
-title: "Boğaziçi yüzer köprüsü | Miras Haritası"
-date: 2025-12-25T03:05:56+03:00
+title: "Boğaziçi yüzer köprüsü"
+date: "2025-12-25T03:05:56+03:00"
 slug: "bogazici-yuzer-koprusu"
 description: "### Boğaziçi Yüzer Köprüsü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.06068333,41.08722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boğaziçi Yüzer Köprüsü

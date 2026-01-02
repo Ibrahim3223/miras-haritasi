@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Dede Türbesi, Milas | Miras Haritası"
-date: 2025-12-25T15:32:11+03:00
+title: "Şeyh Dede Türbesi, Milas"
+date: "2025-12-25T15:32:11+03:00"
 slug: "seyh-dede-turbesi-milas"
 description: "**Şeyh Dede Türbesi, Milas**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8172703,37.3152161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Dede Türbesi, Milas**

@@ -1,18 +1,17 @@
 ---
-title: "Çavdarlı Höyük | Miras Haritası"
-date: 2025-12-25T06:40:49+03:00
+title: "Çavdarlı Höyük"
+date: "2025-12-25T06:40:49+03:00"
 slug: "cavdarli-hoyuk"
 description: "## Çavdarlı Höyük: Afyonkarahisar'ın Eski Köyü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.694745206,38.72586613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavdarlı Höyük: Afyonkarahisar'ın Eski Köyü

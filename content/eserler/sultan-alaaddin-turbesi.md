@@ -1,18 +1,17 @@
 ---
-title: "Sultan Alaaddin Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:25+03:00
+title: "Sultan Alaaddin Türbesi"
+date: "2025-12-25T14:43:25+03:00"
 slug: "sultan-alaaddin-turbesi"
 description: "## Sultan Alaaddin Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0461903,40.1905518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Alaaddin Türbesi

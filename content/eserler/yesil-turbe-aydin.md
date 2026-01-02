@@ -1,18 +1,17 @@
 ---
-title: "Yeşil Türbe, Aydın | Miras Haritası"
-date: 2025-12-25T15:30:52+03:00
+title: "Yeşil Türbe, Aydın"
+date: "2025-12-25T15:30:52+03:00"
 slug: "yesil-turbe-aydin"
 description: "## Yeşil Türbe: Aydın'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3228512,37.9036598"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşil Türbe: Aydın'ın Gizli Hazineleri

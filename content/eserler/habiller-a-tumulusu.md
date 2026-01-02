@@ -1,18 +1,17 @@
 ---
-title: "Habiller A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:39+03:00
+title: "Habiller A Tümülüsü"
+date: "2025-12-25T07:40:39+03:00"
 slug: "habiller-a-tumulusu"
 description: "## Habiller A Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8022594,41.6532555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Habiller A Tümülüsü

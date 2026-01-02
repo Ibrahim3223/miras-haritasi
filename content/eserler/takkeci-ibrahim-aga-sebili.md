@@ -1,18 +1,17 @@
 ---
-title: "Takkeci İbrahim Ağa Sebili | Miras Haritası"
-date: 2025-12-25T13:05:13+03:00
+title: "Takkeci İbrahim Ağa Sebili"
+date: "2025-12-25T13:05:13+03:00"
 slug: "takkeci-ibrahim-aga-sebili"
 description: "## Takkeci İbrahim Ağa Sebili: Zeytinburnu'nun Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.921390894,41.022707612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Takkeci İbrahim Ağa Sebili: Zeytinburnu'nun Tarihi Çeşmesi

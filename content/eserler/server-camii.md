@@ -1,18 +1,17 @@
 ---
-title: "Server Camii | Miras Haritası"
-date: 2025-12-25T00:24:02+03:00
+title: "Server Camii"
+date: "2025-12-25T00:24:02+03:00"
 slug: "server-camii"
 description: "## Server Camii: Kastamonu'un Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kastamonu"
+province: "Kastamonu"
+iller: '["Kastamonu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.770237,41.3786888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Server Camii: Kastamonu'un Tarihi Bir Mirası

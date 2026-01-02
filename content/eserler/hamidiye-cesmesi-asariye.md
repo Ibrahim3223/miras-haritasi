@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Çeşmesi, Asariye | Miras Haritası"
-date: 2025-12-25T12:12:08+03:00
+title: "Hamidiye Çeşmesi, Asariye"
+date: "2025-12-25T12:12:08+03:00"
 slug: "hamidiye-cesmesi-asariye"
 description: "## Hamidiye Çeşmesi, Asariye..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hamidiye_Fountain_(Asariye),_Beşiktaş.jpg/1200px-Hamidiye_Fountain_(Asariye),_Beşiktaş.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.011859,41.04669"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hamidiye Çeşmesi, Asariye

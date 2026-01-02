@@ -1,18 +1,17 @@
 ---
-title: "Kirazoğlu Mescidi, Tire | Miras Haritası"
-date: 2025-12-25T00:49:03+03:00
+title: "Kirazoğlu Mescidi, Tire"
+date: "2025-12-25T00:49:03+03:00"
 slug: "kirazoglu-mescidi-tire"
 description: "## Kirazoğlu Mescidi: Tarihî Bir Cami'nin Görsel İncisi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7361221,38.0844193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kirazoğlu Mescidi: Tarihî Bir Cami'nin Görsel İncisi

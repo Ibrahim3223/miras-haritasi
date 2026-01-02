@@ -1,18 +1,17 @@
 ---
-title: "Şah Sultan Çeşmesi (Hobyar) | Miras Haritası"
-date: 2025-12-25T12:21:16+03:00
+title: "Şah Sultan Çeşmesi (Hobyar)"
+date: "2025-12-25T12:21:16+03:00"
 slug: "sah-sultan-cesmesi-hobyar"
 description: "## Şah Sultan Çeşmesi (Hobyar)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9730873,41.0128517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şah Sultan Çeşmesi (Hobyar)

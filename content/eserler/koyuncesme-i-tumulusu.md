@@ -1,18 +1,17 @@
 ---
-title: "Koyunçeşme I Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:32+03:00
+title: "Koyunçeşme I Tümülüsü"
+date: "2025-12-25T07:40:32+03:00"
 slug: "koyuncesme-i-tumulusu"
 description: "## Koyunçeşme I Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.675909,41.8539162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koyunçeşme I Tümülüsü

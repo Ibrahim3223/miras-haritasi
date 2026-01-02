@@ -1,18 +1,17 @@
 ---
-title: "Bybassios | Miras Haritası"
-date: 2025-12-25T04:59:09+03:00
+title: "Bybassios"
+date: "2025-12-25T04:59:09+03:00"
 slug: "bybassios"
 description: "## Bybassios: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.130277777,36.812777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bybassios: Tarihi ve Kültürel Bir Miras

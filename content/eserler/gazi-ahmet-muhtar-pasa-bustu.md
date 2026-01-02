@@ -1,18 +1,17 @@
 ---
-title: "Gazi Ahmet Muhtar Paşa Büstü | Miras Haritası"
-date: 2025-12-25T15:50:02+03:00
+title: "Gazi Ahmet Muhtar Paşa Büstü"
+date: "2025-12-25T15:50:02+03:00"
 slug: "gazi-ahmet-muhtar-pasa-bustu"
 description: "**Gazi Ahmet Muhtar Paşa Büstü**..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.0957985,40.604393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gazi Ahmet Muhtar Paşa Büstü**

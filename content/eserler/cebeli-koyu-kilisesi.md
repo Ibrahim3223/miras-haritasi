@@ -1,18 +1,17 @@
 ---
-title: "Cebeli Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:12+03:00
+title: "Cebeli Köyü Kilisesi"
+date: "2025-12-25T09:10:12+03:00"
 slug: "cebeli-koyu-kilisesi"
 description: "**Cebeli Köyü Kilisesi**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.3928642,40.5709114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Cebeli Köyü Kilisesi**

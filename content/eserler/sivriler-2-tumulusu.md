@@ -1,18 +1,17 @@
 ---
-title: "Sivriler 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:34:33+03:00
+title: "Sivriler 2 Tümülüsü"
+date: "2025-12-25T07:34:33+03:00"
 slug: "sivriler-2-tumulusu"
 description: "## Sivriler 2 Tümülüsü: Demirköy'de Gizli Tarih..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9356308,41.8151512"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivriler 2 Tümülüsü: Demirköy'de Gizli Tarih

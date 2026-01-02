@@ -1,18 +1,17 @@
 ---
-title: "Kuddusi Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:52+03:00
+title: "Kuddusi Baba Türbesi"
+date: "2025-12-25T14:25:52+03:00"
 slug: "kuddusi-baba-turbesi"
 description: "**Kuddusi Baba Türbesi: Bor'un Gizli Çehresini Açan Anıt**..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.5627,37.8965"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kuddusi Baba Türbesi: Bor'un Gizli Çehresini Açan Anıt**

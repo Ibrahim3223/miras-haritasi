@@ -1,18 +1,17 @@
 ---
-title: "Fatıma Bacı Camii | Miras Haritası"
-date: 2025-12-24T23:02:39+03:00
+title: "Fatıma Bacı Camii"
+date: "2025-12-24T23:02:39+03:00"
 slug: "fatima-baci-camii"
 description: "## Fatıma Bacı Camii: Ankara'nın Efsanevi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.2902985,39.7879066"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatıma Bacı Camii: Ankara'nın Efsanevi Camii

@@ -1,18 +1,17 @@
 ---
-title: "Kuruçay Höyüğü | Miras Haritası"
-date: 2025-12-25T06:53:02+03:00
+title: "Kuruçay Höyüğü"
+date: "2025-12-25T06:53:02+03:00"
 slug: "kurucay-hoyugu"
 description: "### Kuruçay Höyüğü..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.167,37.6344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuruçay Höyüğü

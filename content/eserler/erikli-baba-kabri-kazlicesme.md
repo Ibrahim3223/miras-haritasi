@@ -1,18 +1,17 @@
 ---
-title: "Erikli Baba Kabri, Kazlıçeşme | Miras Haritası"
-date: 2025-12-25T13:36:03+03:00
+title: "Erikli Baba Kabri, Kazlıçeşme"
+date: "2025-12-25T13:36:03+03:00"
 slug: "erikli-baba-kabri-kazlicesme"
 description: "### Erikli Baba Kabri, Kazlıçeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Erikli_Baba_Kabri,_Kazlıçeşme.jpg/1200px-Erikli_Baba_Kabri,_Kazlıçeşme.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.914437,40.990908"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Erikli Baba Kabri, Kazlıçeşme

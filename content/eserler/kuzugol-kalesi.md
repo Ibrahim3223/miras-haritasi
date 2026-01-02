@@ -1,18 +1,17 @@
 ---
-title: "Kuzugöl Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:08+03:00
+title: "Kuzugöl Kalesi"
+date: "2025-12-25T01:44:08+03:00"
 slug: "kuzugol-kalesi"
 description: "## Kuzugöl Kalesi: Pasinler'in Gizli Şatosu..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Pasinler"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.4250679,40.0095711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuzugöl Kalesi: Pasinler'in Gizli Şatosu

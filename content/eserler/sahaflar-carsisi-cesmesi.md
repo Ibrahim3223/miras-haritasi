@@ -1,18 +1,17 @@
 ---
-title: "Sahaflar Çarşısı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:34+03:00
+title: "Sahaflar Çarşısı Çeşmesi"
+date: "2025-12-25T11:19:34+03:00"
 slug: "sahaflar-carsisi-cesmesi"
 description: "# Sahaflar Çarşısı Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Beyazıt"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9659328,41.0104523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sahaflar Çarşısı Çeşmesi

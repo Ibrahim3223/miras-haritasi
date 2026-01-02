@@ -1,18 +1,17 @@
 ---
-title: "Narlıdere Tarihi Cemevi | Miras Haritası"
-date: 2025-12-25T03:43:17+03:00
+title: "Narlıdere Tarihi Cemevi"
+date: "2025-12-25T03:43:17+03:00"
 slug: "narlidere-tarihi-cemevi"
 description: "### Narlıdere Tarihi Cemevi: İzmir'in Gizli Çarı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Narlıdere"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.0062542,38.3907547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Narlıdere Tarihi Cemevi: İzmir'in Gizli Çarı

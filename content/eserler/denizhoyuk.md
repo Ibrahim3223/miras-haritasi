@@ -1,18 +1,17 @@
 ---
-title: "Denizhöyük | Miras Haritası"
-date: 2025-12-25T06:31:46+03:00
+title: "Denizhöyük"
+date: "2025-12-25T06:31:46+03:00"
 slug: "denizhoyuk"
 description: "## Denizhöyük: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.8155239,38.214079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Denizhöyük: Türkiye'nin Gizli Cenneti

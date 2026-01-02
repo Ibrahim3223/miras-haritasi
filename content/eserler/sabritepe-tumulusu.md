@@ -1,18 +1,17 @@
 ---
-title: "Sabritepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:54:45+03:00
+title: "Sabritepe Tümülüsü"
+date: "2025-12-25T07:54:45+03:00"
 slug: "sabritepe-tumulusu"
 description: "## Sabritepe Tümülüsü: Tekirdağ'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6732655,41.4227524"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sabritepe Tümülüsü: Tekirdağ'ın Gizli Kahramanı

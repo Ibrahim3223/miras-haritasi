@@ -1,18 +1,17 @@
 ---
-title: "Yorulmaz Çiftliği – Eski Bağlık | Miras Haritası"
-date: 2025-12-25T05:34:29+03:00
+title: "Yorulmaz Çiftliği – Eski Bağlık"
+date: "2025-12-25T05:34:29+03:00"
 slug: "yorulmaz-ciftligi-eski-baglik"
 description: "### Yorulmaz Çiftliği – Eski Bağlık..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.542461,41.735918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yorulmaz Çiftliği – Eski Bağlık

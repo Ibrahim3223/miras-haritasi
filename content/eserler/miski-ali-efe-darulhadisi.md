@@ -1,18 +1,17 @@
 ---
-title: "Miski Ali Efe Darülhadisi | Miras Haritası"
-date: 2025-12-25T17:26:21+03:00
+title: "Miski Ali Efe Darülhadisi"
+date: "2025-12-25T17:26:21+03:00"
 slug: "miski-ali-efe-darulhadisi"
 description: "## Miski Ali Efe Darülhadisi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.949673,41.022497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Miski Ali Efe Darülhadisi

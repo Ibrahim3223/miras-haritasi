@@ -1,18 +1,17 @@
 ---
-title: "Kızılcıkdere Camii | Miras Haritası"
-date: 2025-12-25T01:02:19+03:00
+title: "Kızılcıkdere Camii"
+date: "2025-12-25T01:02:19+03:00"
 slug: "kizilcikdere-camii"
 description: "## Kızılcıkdere Camii: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.31081781,41.691577322"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılcıkdere Camii: Kırklareli'nin Gizli Cenneti

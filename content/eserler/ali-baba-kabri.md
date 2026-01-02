@@ -1,18 +1,17 @@
 ---
-title: "Ali Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:58:55+03:00
+title: "Ali Baba Kabri"
+date: "2025-12-25T13:58:55+03:00"
 slug: "ali-baba-kabri"
 description: "## Ali Baba Kabri: Fatih'ten Bir Ölümsüz Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9823608,41.0048599"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Baba Kabri: Fatih'ten Bir Ölümsüz Anıt

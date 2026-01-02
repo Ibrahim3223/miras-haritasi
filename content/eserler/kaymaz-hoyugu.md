@@ -1,18 +1,17 @@
 ---
-title: "Kaymaz Höyüğü | Miras Haritası"
-date: 2025-12-25T06:15:28+03:00
+title: "Kaymaz Höyüğü"
+date: "2025-12-25T06:15:28+03:00"
 slug: "kaymaz-hoyugu"
 description: "## Kaymaz Höyüğü: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.165217837,39.51092213"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaymaz Höyüğü: Eskişehir'in Gizli Mirası

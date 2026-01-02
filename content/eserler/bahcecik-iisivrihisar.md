@@ -1,18 +1,17 @@
 ---
-title: "Bahçecik II/Sivrihisar | Miras Haritası"
-date: 2025-12-25T05:28:27+03:00
+title: "Bahçecik II/Sivrihisar"
+date: "2025-12-25T05:28:27+03:00"
 slug: "bahcecik-iisivrihisar"
 description: "## Bahçecik II/Sivrihisar Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.347539,39.418923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahçecik II/Sivrihisar Arkeolojik Sit

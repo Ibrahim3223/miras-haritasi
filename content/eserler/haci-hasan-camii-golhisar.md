@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hasan Camii, Gölhisar | Miras Haritası"
-date: 2025-12-25T00:14:06+03:00
+title: "Hacı Hasan Camii, Gölhisar"
+date: "2025-12-25T00:14:06+03:00"
 slug: "haci-hasan-camii-golhisar"
 description: "## Hacı Hasan Camii, Gölhisar..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Gölhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5189209,37.1550484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hasan Camii, Gölhisar

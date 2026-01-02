@@ -1,18 +1,17 @@
 ---
-title: "Şehitler Çeşmesi, Selimiye | Miras Haritası"
-date: 2025-12-25T12:36:38+03:00
+title: "Şehitler Çeşmesi, Selimiye"
+date: "2025-12-25T12:36:38+03:00"
 slug: "sehitler-cesmesi-selimiye"
 description: "### Şehitler Çeşmesi, Selimiye..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.016357801,41.008295984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şehitler Çeşmesi, Selimiye

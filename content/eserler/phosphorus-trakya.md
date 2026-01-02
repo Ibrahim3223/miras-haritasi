@@ -1,18 +1,17 @@
 ---
-title: "Phosphorus (Trakya) | Miras Haritası"
-date: 2025-12-25T04:51:51+03:00
+title: "Phosphorus (Trakya)"
+date: "2025-12-25T04:51:51+03:00"
 slug: "phosphorus-trakya"
 description: "# Phosphorus (Trakya): Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.086446,41.196606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Phosphorus (Trakya): Bir Arkeolojik Sitin Gizemi

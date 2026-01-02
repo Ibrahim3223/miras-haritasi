@@ -1,18 +1,17 @@
 ---
-title: "Surp Amenapırgiç Manastırı (Moks) | Miras Haritası"
-date: 2025-12-25T09:41:01+03:00
+title: "Surp Amenapırgiç Manastırı (Moks)"
+date: "2025-12-25T09:41:01+03:00"
 slug: "surp-amenapirgic-manastiri-moks"
 description: "# Surp Amenapırgiç Manastırı (Moks): Van'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Bahçesaray"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.834166666,38.114444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Surp Amenapırgiç Manastırı (Moks): Van'ın Tarihi ve Kültürel Mirası

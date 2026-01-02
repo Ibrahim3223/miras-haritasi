@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahman Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:43:39+03:00
+title: "Abdurrahman Ağa Camii"
+date: "2025-12-24T21:43:39+03:00"
 slug: "abdurrahman-aga-camii"
 description: "## Abdurrahman Ağa Camii: Üsküdar'ın Tarihi Bir Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Abdurrahman_Ağa_Mosque_in_2012.jpg/1200px-Abdurrahman_Ağa_Mosque_in_2012.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Sultantepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.022347,41.03157"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Abdurrahman Ağa Camii: Üsküdar'ın Tarihi Bir Örneği

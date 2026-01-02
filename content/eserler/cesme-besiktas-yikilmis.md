@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Beşiktaş (yıkılmış) | Miras Haritası"
-date: 2025-12-25T12:25:52+03:00
+title: "Çeşme, Beşiktaş (yıkılmış)"
+date: "2025-12-25T12:25:52+03:00"
 slug: "cesme-besiktas-yikilmis"
 description: "### Beşiktaş Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.005354277,41.041727373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beşiktaş Çeşmesi

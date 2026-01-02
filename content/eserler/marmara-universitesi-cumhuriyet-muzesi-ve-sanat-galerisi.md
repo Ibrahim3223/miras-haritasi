@@ -1,18 +1,17 @@
 ---
-title: "Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi | Miras Haritası"
-date: 2025-12-25T04:05:04+03:00
+title: "Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi"
+date: "2025-12-25T04:05:04+03:00"
 slug: "marmara-universitesi-cumhuriyet-muzesi-ve-sanat-galerisi"
 description: "## Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.974582301,41.005098438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi

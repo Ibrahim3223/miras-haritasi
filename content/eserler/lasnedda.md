@@ -1,18 +1,17 @@
 ---
-title: "Lasnedda | Miras Haritası"
-date: 2025-12-25T05:06:27+03:00
+title: "Lasnedda"
+date: "2025-12-25T05:06:27+03:00"
 slug: "lasnedda"
 description: "# Lasnedda Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.87065,38.64441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Lasnedda Arkeolojik Sitesi

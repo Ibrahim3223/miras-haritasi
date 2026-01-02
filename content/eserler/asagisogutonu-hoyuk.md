@@ -1,18 +1,17 @@
 ---
-title: "Aşağısöğütönü Höyük | Miras Haritası"
-date: 2025-12-25T05:27:31+03:00
+title: "Aşağısöğütönü Höyük"
+date: "2025-12-25T05:27:31+03:00"
 slug: "asagisogutonu-hoyuk"
 description: "## Aşağısöğütönü Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.436417,39.802233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağısöğütönü Höyük: Eskişehir'in Gizli Mirası

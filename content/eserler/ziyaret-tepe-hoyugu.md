@@ -1,18 +1,17 @@
 ---
-title: "Ziyaret Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:56:23+03:00
+title: "Ziyaret Tepe Höyüğü"
+date: "2025-12-25T06:56:23+03:00"
 slug: "ziyaret-tepe-hoyugu"
 description: "### Ziyaret Tepe Höyüğü: Diyarbakır'ın Keşiflerine Yol Açan Bir Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.793,37.7935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ziyaret Tepe Höyüğü: Diyarbakır'ın Keşiflerine Yol Açan Bir Arkeolojik Sit

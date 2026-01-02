@@ -1,18 +1,17 @@
 ---
-title: "Elmalı II Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:16:22+03:00
+title: "Elmalı II Tümülüsü"
+date: "2025-12-25T08:16:22+03:00"
 slug: "elmali-ii-tumulusu"
 description: "## Elmalı II Tümülüsü: Uzunköprü'nün Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.899415208,41.187836895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elmalı II Tümülüsü: Uzunköprü'nün Gizli Mirası

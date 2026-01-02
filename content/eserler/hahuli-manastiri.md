@@ -1,18 +1,17 @@
 ---
-title: "Hahuli Manastırı | Miras Haritası"
-date: 2025-12-24T21:36:19+03:00
+title: "Hahuli Manastırı"
+date: "2025-12-24T21:36:19+03:00"
 slug: "hahuli-manastiri"
 description: "## Hahuli Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/77._xaxuli.JPG/1200px-77._xaxuli.JPG"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Tortum"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4551,40.5125"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hahuli Manastırı

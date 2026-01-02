@@ -1,18 +1,17 @@
 ---
-title: "Kale İçi Camii | Miras Haritası"
-date: 2025-12-24T23:41:21+03:00
+title: "Kale İçi Camii"
+date: "2025-12-24T23:41:21+03:00"
 slug: "kale-ici-camii"
 description: "## Kale İçi Camii: İzmir'in Tarihsel Bir Zirvesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3035259,38.3232918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale İçi Camii: İzmir'in Tarihsel Bir Zirvesi

@@ -1,18 +1,18 @@
 ---
-title: "Ertuğrul Gazi Türbesi | Miras Haritası"
-date: 2025-12-24T23:01:29+03:00
+title: "Ertuğrul Gazi Türbesi"
+date: "2025-12-24T23:01:29+03:00"
 slug: "ertugrul-gazi-turbesi"
 description: "## Ertuğrul Gazi Türbesi: Bilecik'in Tarihi bir Mirası..."
-featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bilecik"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ertuğrul_Gazi_Türbesi.JPG/1200px-Ertuğrul_Gazi_Türbesi.JPG"
+province: "Bilecik"
+iller: '["Bilecik"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.1797867,40.0117264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ertuğrul_Gazi_Türbesi.JPG/1200px-Ertuğrul_Gazi_Türbesi.JPG"
 ---
 
 ## Ertuğrul Gazi Türbesi: Bilecik'in Tarihi bir Mirası

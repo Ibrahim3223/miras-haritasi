@@ -1,18 +1,17 @@
 ---
-title: "Naip Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:54:14+03:00
+title: "Naip Tümülüsü"
+date: "2025-12-25T07:54:14+03:00"
 slug: "naip-tumulusu"
 description: "### Naip Tümülüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4075012,40.8788376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Naip Tümülüsü

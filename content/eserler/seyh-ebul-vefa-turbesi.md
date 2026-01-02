@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ebul Vefa Türbesi | Miras Haritası"
-date: 2025-12-25T14:32:40+03:00
+title: "Şeyh Ebul Vefa Türbesi"
+date: "2025-12-25T14:32:40+03:00"
 slug: "seyh-ebul-vefa-turbesi"
 description: "## Şeyh Ebul Vefa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.959622,41.016799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Ebul Vefa Türbesi

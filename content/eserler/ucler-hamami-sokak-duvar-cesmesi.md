@@ -1,18 +1,17 @@
 ---
-title: "Üçler Hamamı Sokak Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:31+03:00
+title: "Üçler Hamamı Sokak Duvar Çeşmesi"
+date: "2025-12-25T10:34:31+03:00"
 slug: "ucler-hamami-sokak-duvar-cesmesi"
 description: "## Üçler Hamamı Sokak Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.973154,41.004551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçler Hamamı Sokak Duvar Çeşmesi

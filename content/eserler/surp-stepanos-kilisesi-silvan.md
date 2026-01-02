@@ -1,18 +1,17 @@
 ---
-title: "Surp Stepanos Kilisesi (Silvan) | Miras Haritası"
-date: 2025-12-24T22:25:34+03:00
+title: "Surp Stepanos Kilisesi (Silvan)"
+date: "2025-12-24T22:25:34+03:00"
 slug: "surp-stepanos-kilisesi-silvan"
 description: "### Surp Stepanos Kilisesi (Silvan)..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.0032253,38.1420478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Stepanos Kilisesi (Silvan)

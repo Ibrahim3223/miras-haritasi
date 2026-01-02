@@ -1,18 +1,17 @@
 ---
-title: "Servetiye Taş Köprü | Miras Haritası"
-date: 2025-12-25T02:43:40+03:00
+title: "Servetiye Taş Köprü"
+date: "2025-12-25T02:43:40+03:00"
 slug: "servetiye-tas-kopru"
 description: "### Servetiye Taş Köprü..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Başiskele"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.9417191,40.6426392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Servetiye Taş Köprü

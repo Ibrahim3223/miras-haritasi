@@ -1,18 +1,17 @@
 ---
-title: "Kadı Camii, Bolu | Miras Haritası"
-date: 2025-12-24T22:07:57+03:00
+title: "Kadı Camii, Bolu"
+date: "2025-12-24T22:07:57+03:00"
 slug: "kadi-camii-bolu"
 description: "## Kadı Camii, Bolu: Bir Geçmişten Kalan Mimari Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TR_Bolu_asv2021-10_img07_Kadı_Mosque.jpg/1200px-TR_Bolu_asv2021-10_img07_Kadı_Mosque.jpg"
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.60725,40.731638888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kadı Camii, Bolu: Bir Geçmişten Kalan Mimari Harikası

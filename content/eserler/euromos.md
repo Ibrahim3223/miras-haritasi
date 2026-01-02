@@ -1,18 +1,17 @@
 ---
-title: "Euromos | Miras Haritası"
-date: 2025-12-25T06:51:31+03:00
+title: "Euromos"
+date: "2025-12-25T06:51:31+03:00"
 slug: "euromos"
 description: "## Euromos: Muğla'nın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Euromus_temple.JPG/1200px-Euromus_temple.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.675,37.37416667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Euromos: Muğla'nın Gizli Mirası

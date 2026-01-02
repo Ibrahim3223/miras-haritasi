@@ -1,18 +1,17 @@
 ---
-title: "Sirkanos | Miras Haritası"
-date: 2025-12-25T04:44:52+03:00
+title: "Sirkanos"
+date: "2025-12-25T04:44:52+03:00"
 slug: "sirkanos"
 description: "## Sirkanos: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.657367,40.906596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sirkanos: Antik Çağın Gizemi

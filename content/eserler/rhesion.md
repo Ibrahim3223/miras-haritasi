@@ -1,18 +1,17 @@
 ---
-title: "Rhesion | Miras Haritası"
-date: 2025-12-25T04:53:18+03:00
+title: "Rhesion"
+date: "2025-12-25T04:53:18+03:00"
 slug: "rhesion"
 description: "### Rhesion Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.891944444,40.984166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rhesion Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Ağa Camii | Miras Haritası"
-date: 2025-12-25T00:51:48+03:00
+title: "Hüsrev Ağa Camii"
+date: "2025-12-25T00:51:48+03:00"
 slug: "husrev-aga-camii"
 description: "## Hüsrev Ağa Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4376144,38.6151924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsrev Ağa Camii

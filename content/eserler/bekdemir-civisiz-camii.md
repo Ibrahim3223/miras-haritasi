@@ -1,18 +1,17 @@
 ---
-title: "Bekdemir Çivisiz Camii | Miras Haritası"
-date: 2025-12-24T22:22:16+03:00
+title: "Bekdemir Çivisiz Camii"
+date: "2025-12-24T22:22:16+03:00"
 slug: "bekdemir-civisiz-camii"
 description: "# Bekdemir Çivisiz Camii: Samsun'un Gizli Cenneti..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.114388888,41.018888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bekdemir Çivisiz Camii: Samsun'un Gizli Cenneti

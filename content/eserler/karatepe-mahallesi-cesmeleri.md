@@ -1,18 +1,17 @@
 ---
-title: "Karatepe Mahallesi Çeşmeleri | Miras Haritası"
-date: 2025-12-25T10:47:02+03:00
+title: "Karatepe Mahallesi Çeşmeleri"
+date: "2025-12-25T10:47:02+03:00"
 slug: "karatepe-mahallesi-cesmeleri"
 description: "## Karatepe Mahallesi Çeşmeleri: Kocaeli'nin Kültür Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Kartepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.0144405,40.6861191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karatepe Mahallesi Çeşmeleri: Kocaeli'nin Kültür Mirası

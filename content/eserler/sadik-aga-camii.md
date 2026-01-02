@@ -1,18 +1,17 @@
 ---
-title: "Sadık Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:38:32+03:00
+title: "Sadık Ağa Camii"
+date: "2025-12-24T22:38:32+03:00"
 slug: "sadik-aga-camii"
 description: "### Sadık Ağa Camii: Pınarhisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5238514,41.6213036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sadık Ağa Camii: Pınarhisar'ın Tarihi Bir Mirası

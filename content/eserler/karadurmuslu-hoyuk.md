@@ -1,18 +1,17 @@
 ---
-title: "Karadurmuşlu Höyük | Miras Haritası"
-date: 2025-12-25T06:34:55+03:00
+title: "Karadurmuşlu Höyük"
+date: "2025-12-25T06:34:55+03:00"
 slug: "karadurmuslu-hoyuk"
 description: "## Karadurmuşlu Höyük: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.373508,36.474922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadurmuşlu Höyük: Tarihi ve Kültürel Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Badalan Dede Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:32:04+03:00
+title: "Badalan Dede Çeşmesi"
+date: "2025-12-25T12:32:04+03:00"
 slug: "badalan-dede-cesmesi"
 description: "## Badalan Dede Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.768488,38.324938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Badalan Dede Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayia Triada Rum Ortodoks Kilisesi Bahçesindeki Çeşme | Miras Haritası"
-date: 2025-12-25T11:12:03+03:00
+title: "Ayia Triada Rum Ortodoks Kilisesi Bahçesindeki Çeşme"
+date: "2025-12-25T11:12:03+03:00"
 slug: "ayia-triada-rum-ortodoks-kilisesi-bahcesindeki-cesme"
 description: "### Ayia Triada Rum Ortodoks Kilisesi Bahçesindeki Çeşme..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Katipmustafa Çelebi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.98355,41.035634"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayia Triada Rum Ortodoks Kilisesi Bahçesindeki Çeşme

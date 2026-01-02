@@ -1,18 +1,17 @@
 ---
-title: "Paşakızı Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:15+03:00
+title: "Paşakızı Türbesi"
+date: "2025-12-25T14:51:15+03:00"
 slug: "pasakizi-turbesi"
 description: "## Paşakızı Türbesi: Bir İmparatorun Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4373779,38.6151276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşakızı Türbesi: Bir İmparatorun Anıtı

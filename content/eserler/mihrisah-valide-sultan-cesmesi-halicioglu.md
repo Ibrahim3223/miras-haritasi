@@ -1,18 +1,17 @@
 ---
-title: "Mihrişah Valide Sultan Çeşmesi, Halıcıoğlu | Miras Haritası"
-date: 2025-12-25T12:55:39+03:00
+title: "Mihrişah Valide Sultan Çeşmesi, Halıcıoğlu"
+date: "2025-12-25T12:55:39+03:00"
 slug: "mihrisah-valide-sultan-cesmesi-halicioglu"
 description: "## Mihrişah Valide Sultan Çeşmesi, Halıcıoğlu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mihrişah_Valide_Sultan_Çeşmesi,_Halıcıoğlu_IMG_1068.jpg/1200px-Mihrişah_Valide_Sultan_Çeşmesi,_Halıcıoğlu_IMG_1068.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9443512,41.0456047"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi, Halıcıoğlu

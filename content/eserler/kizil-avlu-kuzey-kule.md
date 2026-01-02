@@ -1,18 +1,17 @@
 ---
-title: "Kızıl Avlu Kuzey Kule | Miras Haritası"
-date: 2025-12-25T00:55:19+03:00
+title: "Kızıl Avlu Kuzey Kule"
+date: "2025-12-25T00:55:19+03:00"
 slug: "kizil-avlu-kuzey-kule"
 description: "## Kızıl Avlu Kuzey Kule: Bergama'nın Klasik Bir Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pergamon_kızıl_avlu.jpg/1200px-Pergamon_kızıl_avlu.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1836452,39.1222305"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kızıl Avlu Kuzey Kule: Bergama'nın Klasik Bir Örneği

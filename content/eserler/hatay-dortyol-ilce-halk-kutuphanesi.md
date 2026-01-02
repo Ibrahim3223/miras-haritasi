@@ -1,18 +1,17 @@
 ---
-title: "Hatay Dörtyol İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:09+03:00
+title: "Hatay Dörtyol İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:51:09+03:00"
 slug: "hatay-dortyol-ilce-halk-kutuphanesi"
 description: "## Hatay Dörtyol İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Dörtyol"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "36.223909888,36.832306268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatay Dörtyol İlçe Halk Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Katırcı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:42+03:00
+title: "Katırcı Köprüsü"
+date: "2025-12-25T02:44:42+03:00"
 slug: "katirci-koprusu"
 description: "### Katırcı Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.4851532,41.1412086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Katırcı Köprüsü

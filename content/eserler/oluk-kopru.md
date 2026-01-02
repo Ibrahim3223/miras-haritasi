@@ -1,18 +1,17 @@
 ---
-title: "Oluk Köprü | Miras Haritası"
-date: 2025-12-25T01:53:32+03:00
+title: "Oluk Köprü"
+date: "2025-12-25T01:53:32+03:00"
 slug: "oluk-kopru"
 description: "## Oluk Köprü: Antalya'nın Eski Bir Zirve..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Eurymedon_Bridge,_Selge,_Turkey._Pic_02.jpg/1200px-Eurymedon_Bridge,_Selge,_Turkey._Pic_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.18107,37.19201"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Oluk Köprü: Antalya'nın Eski Bir Zirve

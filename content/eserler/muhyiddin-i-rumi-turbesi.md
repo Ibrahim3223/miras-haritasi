@@ -1,18 +1,17 @@
 ---
-title: "Muhyiddin-i Rumi Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:55+03:00
+title: "Muhyiddin-i Rumi Türbesi"
+date: "2025-12-25T15:21:55+03:00"
 slug: "muhyiddin-i-rumi-turbesi"
 description: "## Muhyiddin-i Rumi Türbesi: Balıkesir'in Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Burhaniye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.9818535,39.5040932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muhyiddin-i Rumi Türbesi: Balıkesir'in Kültürel Mirası

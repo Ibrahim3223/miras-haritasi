@@ -1,18 +1,17 @@
 ---
-title: "Pontanena | Miras Haritası"
-date: 2025-12-25T05:12:25+03:00
+title: "Pontanena"
+date: "2025-12-25T05:12:25+03:00"
 slug: "pontanena"
 description: "## Pontanena: Antik Çağın Gizemli Kalesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.526799,39.352264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pontanena: Antik Çağın Gizemli Kalesi

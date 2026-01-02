@@ -1,18 +1,17 @@
 ---
-title: "Vize Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:21:54+03:00
+title: "Vize Antik Tiyatrosu"
+date: "2025-12-25T08:21:54+03:00"
 slug: "vize-antik-tiyatrosu"
 description: "## Vize Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vize_amphitheater_-_P1020857.JPG/1200px-Vize_amphitheater_-_P1020857.JPG"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.76936,41.573787"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Vize Antik Tiyatrosu

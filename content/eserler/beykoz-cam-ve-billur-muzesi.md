@@ -1,18 +1,17 @@
 ---
-title: "Beykoz Cam ve Billur Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:10+03:00
+title: "Beykoz Cam ve Billur Müzesi"
+date: "2025-12-25T04:01:10+03:00"
 slug: "beykoz-cam-ve-billur-muzesi"
 description: "## Beykoz Cam ve Billur Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BGCM_21.jpg/1200px-BGCM_21.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.1035,41.1384"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Beykoz Cam ve Billur Müzesi

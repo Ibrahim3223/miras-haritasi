@@ -1,18 +1,17 @@
 ---
-title: "Reşat Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:39+03:00
+title: "Reşat Ağa Çeşmesi"
+date: "2025-12-25T11:10:39+03:00"
 slug: "resat-aga-cesmesi"
 description: "## Reşat Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.027711,41.053994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Reşat Ağa Çeşmesi

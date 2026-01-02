@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Paşa Çeşmesi, Küçük Ayasofya | Miras Haritası"
-date: 2025-12-25T12:10:24+03:00
+title: "Rüstem Paşa Çeşmesi, Küçük Ayasofya"
+date: "2025-12-25T12:10:24+03:00"
 slug: "rustem-pasa-cesmesi-kucuk-ayasofya"
 description: "### Rüstem Paşa Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.972435,41.003549"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Rüstem Paşa Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

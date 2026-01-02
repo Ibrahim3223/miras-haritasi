@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Yenidoğan | Miras Haritası"
-date: 2025-12-25T12:12:58+03:00
+title: "Çeşme, Yenidoğan"
+date: "2025-12-25T12:12:58+03:00"
 slug: "cesme-yenidogan"
 description: "### Çeşme, Yenidoğan: İstanbul'un Gizli Cezvesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bayrampaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.915737,41.042343"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme, Yenidoğan: İstanbul'un Gizli Cezvesi

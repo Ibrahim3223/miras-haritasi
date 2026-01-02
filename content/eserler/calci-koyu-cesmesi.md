@@ -1,18 +1,17 @@
 ---
-title: "Çalçı Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:33+03:00
+title: "Çalçı Köyü Çeşmesi"
+date: "2025-12-25T10:45:33+03:00"
 slug: "calci-koyu-cesmesi"
 description: "## Çalçı Köyü Çeşmesi: Eskişehir'in Ören Davası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Mihalıççık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.4296741,39.9492683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çalçı Köyü Çeşmesi: Eskişehir'in Ören Davası

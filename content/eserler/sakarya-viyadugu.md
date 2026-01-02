@@ -1,18 +1,17 @@
 ---
-title: "Sakarya Viyadüğü | Miras Haritası"
-date: 2025-12-25T01:56:58+03:00
+title: "Sakarya Viyadüğü"
+date: "2025-12-25T01:56:58+03:00"
 slug: "sakarya-viyadugu"
 description: "## Sakarya Viyadüğü: Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.5807,39.3615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarya Viyadüğü: Tarihi ve Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Edessa | Miras Haritası"
-date: 2025-12-25T04:22:26+03:00
+title: "Edessa"
+date: "2025-12-25T04:22:26+03:00"
 slug: "edessa"
 description: "### Edessa: Tarihin Etkileyici Bir Köyü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Urfa_Castle_01.jpg/1200px-Urfa_Castle_01.jpg"
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Şanlıurfa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.783961111,37.145655555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Edessa: Tarihin Etkileyici Bir Köyü

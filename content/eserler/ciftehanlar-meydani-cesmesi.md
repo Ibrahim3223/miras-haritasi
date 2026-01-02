@@ -1,18 +1,17 @@
 ---
-title: "Çiftehanlar Meydanı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:27:26+03:00
+title: "Çiftehanlar Meydanı Çeşmesi"
+date: "2025-12-25T11:27:26+03:00"
 slug: "ciftehanlar-meydani-cesmesi"
 description: "## Çiftehanlar Meydanı Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6722393,39.1025467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiftehanlar Meydanı Çeşmesi

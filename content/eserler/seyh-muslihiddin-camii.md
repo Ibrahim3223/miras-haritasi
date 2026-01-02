@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muslihiddin Camii | Miras Haritası"
-date: 2025-12-25T00:07:19+03:00
+title: "Şeyh Muslihiddin Camii"
+date: "2025-12-25T00:07:19+03:00"
 slug: "seyh-muslihiddin-camii"
 description: "## Şeyh Muslihiddin Camii..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Kaynarca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2903671,41.0727043"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Muslihiddin Camii

@@ -1,18 +1,17 @@
 ---
-title: "Civil Basilica at Aphrodisias in Caria | Miras Haritası"
-date: 2025-12-25T08:41:44+03:00
+title: "Civil Basilica at Aphrodisias in Caria"
+date: "2025-12-25T08:41:44+03:00"
 slug: "civil-basilica-at-aphrodisias-in-caria"
 description: "## Aphrodisias'taki Sivil Bazilika..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.723128602,37.707006468"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aphrodisias'taki Sivil Bazilika

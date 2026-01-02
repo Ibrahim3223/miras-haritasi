@@ -1,18 +1,17 @@
 ---
-title: "Kastabos Hemithea Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T08:40:49+03:00
+title: "Kastabos Hemithea Kutsal Alanı"
+date: "2025-12-25T08:40:49+03:00"
 slug: "kastabos-hemithea-kutsal-alani"
 description: "## Kastabos Hemithea Kutsal Alanı: Marmaris'in Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.1546116,36.7843704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kastabos Hemithea Kutsal Alanı: Marmaris'in Gizli Cenneti

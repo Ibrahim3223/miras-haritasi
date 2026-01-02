@@ -1,18 +1,17 @@
 ---
-title: "Coela | Miras Haritası"
-date: 2025-12-25T05:19:42+03:00
+title: "Coela"
+date: "2025-12-25T05:19:42+03:00"
 slug: "coela"
 description: "## Coela Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Coela Arkeolojik Sit

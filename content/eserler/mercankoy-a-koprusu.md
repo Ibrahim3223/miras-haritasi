@@ -1,18 +1,17 @@
 ---
-title: "Mercanköy A Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:40+03:00
+title: "Mercanköy A Köprüsü"
+date: "2025-12-25T02:08:40+03:00"
 slug: "mercankoy-a-koprusu"
 description: "### Mercanköy A Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.602342,40.759127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mercanköy A Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Emetullah Hatun Çeşmesi (Sarıyer) | Miras Haritası"
-date: 2025-12-25T12:18:19+03:00
+title: "Emetullah Hatun Çeşmesi (Sarıyer)"
+date: "2025-12-25T12:18:19+03:00"
 slug: "emetullah-hatun-cesmesi-sariyer"
 description: "## Emetullah Hatun Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Emetullah_Hatun_Çeşmesi_(Sarıyer).jpg/1200px-Emetullah_Hatun_Çeşmesi_(Sarıyer).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.028898,41.196469"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Emetullah Hatun Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi

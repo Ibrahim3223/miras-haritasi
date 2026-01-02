@@ -1,18 +1,17 @@
 ---
-title: "Çardaklı Hamamı | Miras Haritası"
-date: 2025-12-25T16:28:36+03:00
+title: "Çardaklı Hamamı"
+date: "2025-12-25T16:28:36+03:00"
 slug: "cardakli-hamami"
 description: "# Çardaklı Hamamı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.239694444,37.912222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çardaklı Hamamı

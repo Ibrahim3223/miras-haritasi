@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Vusuli Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:19+03:00
+title: "Mehmet Vusuli Efendi Türbesi"
+date: "2025-12-25T14:28:19+03:00"
 slug: "mehmet-vusuli-efendi-turbesi"
 description: "## Mehmet Vusuli Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.935732,41.046104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Vusuli Efendi Türbesi

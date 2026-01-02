@@ -1,18 +1,17 @@
 ---
-title: "Gazi Yakup Bey Camii | Miras Haritası"
-date: 2025-12-25T00:52:00+03:00
+title: "Gazi Yakup Bey Camii"
+date: "2025-12-25T00:52:00+03:00"
 slug: "gazi-yakup-bey-camii"
 description: "**Gazi Yakup Bey Camii**..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Lapseki"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7158375,40.3749504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gazi Yakup Bey Camii**

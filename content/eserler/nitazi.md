@@ -1,18 +1,17 @@
 ---
-title: "Nitazi | Miras Haritası"
-date: 2025-12-25T05:12:10+03:00
+title: "Nitazi"
+date: "2025-12-25T05:12:10+03:00"
 slug: "nitazi"
 description: "## Nitazi: Aksaray'ın Gizemli Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.912591,38.709571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nitazi: Aksaray'ın Gizemli Arkeolojik Sit

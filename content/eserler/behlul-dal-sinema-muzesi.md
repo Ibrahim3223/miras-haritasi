@@ -1,18 +1,17 @@
 ---
-title: "Behlül Dal Sinema Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:55+03:00
+title: "Behlül Dal Sinema Müzesi"
+date: "2025-12-25T03:30:55+03:00"
 slug: "behlul-dal-sinema-muzesi"
 description: "## Behlül Dal Sinema Müzesi: Antalya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.709596,36.88129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Behlül Dal Sinema Müzesi: Antalya'nın Tarihi ve Kültürel Mirası

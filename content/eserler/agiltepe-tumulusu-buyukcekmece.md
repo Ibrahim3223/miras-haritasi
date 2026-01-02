@@ -1,18 +1,17 @@
 ---
-title: "Ağıltepe Tümülüsü, Büyükçekmece | Miras Haritası"
-date: 2025-12-25T07:25:03+03:00
+title: "Ağıltepe Tümülüsü, Büyükçekmece"
+date: "2025-12-25T07:25:03+03:00"
 slug: "agiltepe-tumulusu-buyukcekmece"
 description: "## Ağıltepe Tümülüsü: Büyükçekmece'nin Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.4139996,41.0754013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağıltepe Tümülüsü: Büyükçekmece'nin Gizemli Arkeolojik Mirası

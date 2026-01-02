@@ -1,18 +1,17 @@
 ---
-title: "Ballıbostan Höyüğü | Miras Haritası"
-date: 2025-12-25T06:35:13+03:00
+title: "Ballıbostan Höyüğü"
+date: "2025-12-25T06:35:13+03:00"
 slug: "ballibostan-hoyugu"
 description: "**Ballıbostan Höyüğü: Ağrı'nın Gizli Mirası**..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Ağrı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.1883659,39.6762238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ballıbostan Höyüğü: Ağrı'nın Gizli Mirası**

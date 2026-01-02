@@ -1,18 +1,17 @@
 ---
-title: "Çoban Kalesi, Anamur | Miras Haritası"
-date: 2025-12-25T01:38:14+03:00
+title: "Çoban Kalesi, Anamur"
+date: "2025-12-25T01:38:14+03:00"
 slug: "coban-kalesi-anamur"
 description: "## Çoban Kalesi, Anamur..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.739279,36.035227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Kalesi, Anamur

@@ -1,18 +1,17 @@
 ---
-title: "Kıyıcınıntepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:22:01+03:00
+title: "Kıyıcınıntepe Tümülüsü"
+date: "2025-12-25T07:22:01+03:00"
 slug: "kiyicinintepe-tumulusu"
 description: "**Kıyıcınıntepe Tümülüsü: Kırklareli'nin Gizli Tarihi**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3697147,41.9788284"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kıyıcınıntepe Tümülüsü: Kırklareli'nin Gizli Tarihi**

@@ -1,18 +1,17 @@
 ---
-title: "Diokaisareia Anıt Mezar | Miras Haritası"
-date: 2025-12-25T14:09:33+03:00
+title: "Diokaisareia Anıt Mezar"
+date: "2025-12-25T14:09:33+03:00"
 slug: "diokaisareia-anit-mezar"
 description: "## Diokaisareia Anıt Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9329338,36.5736008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Diokaisareia Anıt Mezarı

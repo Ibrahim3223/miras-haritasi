@@ -1,18 +1,17 @@
 ---
-title: "Cantepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:00:48+03:00
+title: "Cantepe Höyüğü"
+date: "2025-12-25T06:00:48+03:00"
 slug: "cantepe-hoyugu"
 description: "### Cantepe Höyüğü: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3804169,38.4675446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cantepe Höyüğü: Malatya'nın Gizli Mirası

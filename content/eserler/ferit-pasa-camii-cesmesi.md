@@ -1,18 +1,17 @@
 ---
-title: "Ferit Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:39:44+03:00
+title: "Ferit Paşa Camii Çeşmesi"
+date: "2025-12-25T11:39:44+03:00"
 slug: "ferit-pasa-camii-cesmesi"
 description: "## Ferit Paşa Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5179443,37.8717499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferit Paşa Camii Çeşmesi

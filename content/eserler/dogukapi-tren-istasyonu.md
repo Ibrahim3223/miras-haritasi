@@ -1,18 +1,17 @@
 ---
-title: "Doğukapı Tren İstasyonu | Miras Haritası"
-date: 2025-12-25T08:35:48+03:00
+title: "Doğukapı Tren İstasyonu"
+date: "2025-12-25T08:35:48+03:00"
 slug: "dogukapi-tren-istasyonu"
 description: "## Doğukapı Tren İstasyonu: Kars'ın Tarihi Bir Kervansarayı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "43.7378871,40.7297423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Doğukapı Tren İstasyonu: Kars'ın Tarihi Bir Kervansarayı

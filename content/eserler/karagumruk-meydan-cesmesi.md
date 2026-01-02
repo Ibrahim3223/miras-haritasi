@@ -1,18 +1,17 @@
 ---
-title: "Karagümrük Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:36+03:00
+title: "Karagümrük Meydan Çeşmesi"
+date: "2025-12-25T11:03:36+03:00"
 slug: "karagumruk-meydan-cesmesi"
 description: "## Karagümrük Meydan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9393819,41.0251718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagümrük Meydan Çeşmesi

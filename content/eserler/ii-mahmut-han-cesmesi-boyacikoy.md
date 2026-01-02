@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmut Han Çeşmesi, Boyacıköy | Miras Haritası"
-date: 2025-12-25T12:20:40+03:00
+title: "II. Mahmut Han Çeşmesi, Boyacıköy"
+date: "2025-12-25T12:20:40+03:00"
 slug: "ii-mahmut-han-cesmesi-boyacikoy"
 description: "## II. Mahmut Han Çeşmesi, Boyacıköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.051548,41.1023026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Mahmut Han Çeşmesi, Boyacıköy

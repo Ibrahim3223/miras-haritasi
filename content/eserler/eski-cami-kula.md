@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami, Kula | Miras Haritası"
-date: 2025-12-25T00:00:53+03:00
+title: "Eski Cami, Kula"
+date: "2025-12-25T00:00:53+03:00"
 slug: "eski-cami-kula"
 description: "### Eski Cami, Kula: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6491432,38.5476723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Cami, Kula: Manisa'nın Tarihi Bir Mirası

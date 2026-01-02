@@ -1,18 +1,17 @@
 ---
-title: "Karasu Köprüsü, Endürlük | Miras Haritası"
-date: 2025-12-25T02:45:05+03:00
+title: "Karasu Köprüsü, Endürlük"
+date: "2025-12-25T02:45:05+03:00"
 slug: "karasu-koprusu-endurluk"
 description: "## Karasu Köprüsü, Endürlük..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.54811936,38.63071149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karasu Köprüsü, Endürlük

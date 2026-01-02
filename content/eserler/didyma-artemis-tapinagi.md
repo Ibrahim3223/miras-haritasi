@@ -1,18 +1,17 @@
 ---
-title: "Didyma Artemis Tapınağı | Miras Haritası"
-date: 2025-12-25T08:10:10+03:00
+title: "Didyma Artemis Tapınağı"
+date: "2025-12-25T08:10:10+03:00"
 slug: "didyma-artemis-tapinagi"
 description: "### Didyma Artemis Tapınağı: İyonya'nın Gizemi..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.255833333,37.386111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Didyma Artemis Tapınağı: İyonya'nın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Sahabeler Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:18+03:00
+title: "Sahabeler Türbesi"
+date: "2025-12-25T14:55:18+03:00"
 slug: "sahabeler-turbesi"
 description: "## Sahabeler Türbesi: Tarihe Adanan Bir Anıt..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2417183,37.9148254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sahabeler Türbesi: Tarihe Adanan Bir Anıt

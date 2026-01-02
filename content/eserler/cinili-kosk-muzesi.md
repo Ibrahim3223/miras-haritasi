@@ -1,18 +1,17 @@
 ---
-title: "Çinili Köşk Müzesi | Miras Haritası"
-date: 2025-12-25T03:22:01+03:00
+title: "Çinili Köşk Müzesi"
+date: "2025-12-25T03:22:01+03:00"
 slug: "cinili-kosk-muzesi"
 description: "# Çinili Köşk Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çinili Köşk Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Arapkahve | Miras Haritası"
-date: 2025-12-25T05:52:32+03:00
+title: "Arapkahve"
+date: "2025-12-25T05:52:32+03:00"
 slug: "arapkahve"
 description: "### Arap Kahvesi: İzmir'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3248,38.160533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arap Kahvesi: İzmir'in Gizli Çehresini Keşfedin

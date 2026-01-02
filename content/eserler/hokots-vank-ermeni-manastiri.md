@@ -1,18 +1,17 @@
 ---
-title: "Hokots Vank Ermeni Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:56+03:00
+title: "Hokots Vank Ermeni Manastırı"
+date: "2025-12-25T09:55:56+03:00"
 slug: "hokots-vank-ermeni-manastiri"
 description: "## Hokots Vank Ermeni Manastırı..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gürpınar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.4042809,38.0994112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hokots Vank Ermeni Manastırı

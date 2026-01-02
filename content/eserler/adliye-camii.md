@@ -1,18 +1,17 @@
 ---
-title: "Adliye Camii | Miras Haritası"
-date: 2025-12-24T22:25:22+03:00
+title: "Adliye Camii"
+date: "2025-12-24T22:25:22+03:00"
 slug: "adliye-camii"
 description: "## Adliye Camii: Bodrum'un Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mineret,_Bodrum._-_panoramio.jpg/1200px-Mineret,_Bodrum._-_panoramio.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.430361111,37.034333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Adliye Camii: Bodrum'un Gizli Çehresini Keşfetmek

@@ -1,18 +1,17 @@
 ---
-title: "İsa Bey Çeşmesi, Büyükkale | Miras Haritası"
-date: 2025-12-25T12:05:56+03:00
+title: "İsa Bey Çeşmesi, Büyükkale"
+date: "2025-12-25T12:05:56+03:00"
 slug: "isa-bey-cesmesi-buyukkale"
 description: "### İsa Bey Çeşmesi, Büyükkale..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.559,38.0323982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsa Bey Çeşmesi, Büyükkale

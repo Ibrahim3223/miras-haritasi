@@ -1,18 +1,17 @@
 ---
-title: "Adana Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:50:15+03:00
+title: "Adana Ulu Camii"
+date: "2025-12-24T21:50:15+03:00"
 slug: "adana-ulu-camii"
 description: "### Adana Ulu Camii: Tarih, Mimari ve Ziyaret Bilgileri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ulucamimeyavuz2008_12_26_01.JPG/1200px-Ulucamimeyavuz2008_12_26_01.JPG"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Adana"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.330833,36.985"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Adana Ulu Camii: Tarih, Mimari ve Ziyaret Bilgileri

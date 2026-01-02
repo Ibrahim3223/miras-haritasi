@@ -1,18 +1,17 @@
 ---
-title: "Koliorga | Miras Haritası"
-date: 2025-12-25T04:54:17+03:00
+title: "Koliorga"
+date: "2025-12-25T04:54:17+03:00"
 slug: "koliorga"
 description: "## Koliorga: Türkiye'nin Gizli Zirvesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.202725,37.349625"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koliorga: Türkiye'nin Gizli Zirvesi

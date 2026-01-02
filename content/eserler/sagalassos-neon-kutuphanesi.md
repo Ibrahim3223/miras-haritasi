@@ -1,18 +1,17 @@
 ---
-title: "Sagalassos Neon Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:35+03:00
+title: "Sagalassos Neon Kütüphanesi"
+date: "2025-12-25T17:55:35+03:00"
 slug: "sagalassos-neon-kutuphanesi"
 description: "## Sagalassos Neon Kütüphanesi: Ağlasun'un Gizli Harikası..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Ağlasun"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.519773,37.678349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sagalassos Neon Kütüphanesi: Ağlasun'un Gizli Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Camii Avlu Duvarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:11:28+03:00
+title: "Hekimoğlu Ali Paşa Camii Avlu Duvarı Çeşmesi"
+date: "2025-12-25T11:11:28+03:00"
 slug: "hekimoglu-ali-pasa-camii-avlu-duvari-cesmesi"
 description: "# Hekimoğlu Ali Paşa Camii Avlu Duvarı Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cerrahpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.935547,41.006161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hekimoğlu Ali Paşa Camii Avlu Duvarı Çeşmesi

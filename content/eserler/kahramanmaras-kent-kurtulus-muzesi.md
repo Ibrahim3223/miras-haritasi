@@ -1,18 +1,17 @@
 ---
-title: "Kahramanmaraş Kent Kurtuluş Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:55+03:00
+title: "Kahramanmaraş Kent Kurtuluş Müzesi"
+date: "2025-12-25T03:28:55+03:00"
 slug: "kahramanmaras-kent-kurtulus-muzesi"
 description: "### Kahramanmaraş Kent Kurtuluş Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kahramanmaraş_Liberation_Museum_entrance.jpg/1200px-Kahramanmaraş_Liberation_Museum_entrance.jpg"
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Kahramanmaraş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.92583333,37.58666667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kahramanmaraş Kent Kurtuluş Müzesi

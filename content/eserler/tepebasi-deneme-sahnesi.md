@@ -1,18 +1,17 @@
 ---
-title: "Tepebaşı Deneme Sahnesi | Miras Haritası"
-date: 2025-12-25T16:17:18+03:00
+title: "Tepebaşı Deneme Sahnesi"
+date: "2025-12-25T16:17:18+03:00"
 slug: "tepebasi-deneme-sahnesi"
 description: "### Tepebaşı Deneme Sahnesi: Beyoğlu'ndaki Antik Tiyatro..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Evliya Çelebi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.974472222,41.032472222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tepebaşı Deneme Sahnesi: Beyoğlu'ndaki Antik Tiyatro

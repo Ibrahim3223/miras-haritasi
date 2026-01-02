@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Pınar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:51:35+03:00
+title: "Aşağı Pınar Höyüğü"
+date: "2025-12-25T06:51:35+03:00"
 slug: "asagi-pinar-hoyugu"
 description: "## Aşağı Pınar Höyüğü: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.22527778,41.72166667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Pınar Höyüğü: Kırklareli'nin Gizli Kahramanı

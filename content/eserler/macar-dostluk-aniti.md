@@ -1,18 +1,17 @@
 ---
-title: "Macar Dostluk Anıtı | Miras Haritası"
-date: 2025-12-25T15:44:16+03:00
+title: "Macar Dostluk Anıtı"
+date: "2025-12-25T15:44:16+03:00"
 slug: "macar-dostluk-aniti"
 description: "## Macar Dostluk Anıtı..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gölcük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.832644101,40.721579445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Macar Dostluk Anıtı

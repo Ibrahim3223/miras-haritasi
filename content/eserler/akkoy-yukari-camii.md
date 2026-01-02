@@ -1,18 +1,17 @@
 ---
-title: "Akköy Yukarı Camii | Miras Haritası"
-date: 2025-12-24T22:59:19+03:00
+title: "Akköy Yukarı Camii"
+date: "2025-12-24T22:59:19+03:00"
 slug: "akkoy-yukari-camii"
 description: "## Akköy Yukarı Camii: Denizli'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0806007,37.9556999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akköy Yukarı Camii: Denizli'nin Tarihi Bir Mirası

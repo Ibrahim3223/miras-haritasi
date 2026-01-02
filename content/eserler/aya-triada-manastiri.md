@@ -1,18 +1,17 @@
 ---
-title: "Aya Triada Manastırı | Miras Haritası"
-date: 2025-12-25T09:57:17+03:00
+title: "Aya Triada Manastırı"
+date: "2025-12-25T09:57:17+03:00"
 slug: "aya-triada-manastiri"
 description: "### Aya Triada Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.8290997,40.1735992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Triada Manastırı

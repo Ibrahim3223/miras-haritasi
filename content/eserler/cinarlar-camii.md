@@ -1,18 +1,17 @@
 ---
-title: "Çınarlar Camii | Miras Haritası"
-date: 2025-12-24T22:34:27+03:00
+title: "Çınarlar Camii"
+date: "2025-12-24T22:34:27+03:00"
 slug: "cinarlar-camii"
 description: "### Çınarlar Camii: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.3894653,40.9177742"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çınarlar Camii: Giresun'un Tarihi ve Kültürel Mirası

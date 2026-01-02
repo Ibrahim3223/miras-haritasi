@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Yörükler | Miras Haritası"
-date: 2025-12-25T12:02:31+03:00
+title: "Çeşme, Yörükler"
+date: "2025-12-25T12:02:31+03:00"
 slug: "cesme-yorukler"
 description: "# Çeşme, Yörükler: Aydın'ın Etkileyici Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.9778004,37.6287994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çeşme, Yörükler: Aydın'ın Etkileyici Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Yalnızcabağ | Miras Haritası"
-date: 2025-12-25T02:54:15+03:00
+title: "Köprü, Yalnızcabağ"
+date: "2025-12-25T02:54:15+03:00"
 slug: "kopru-yalnizcabag"
 description: "### Köprü, Yalnızcabağ: Mut, Mersin'in Tarihî Bir Ruhu..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.227341,36.635738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köprü, Yalnızcabağ: Mut, Mersin'in Tarihî Bir Ruhu

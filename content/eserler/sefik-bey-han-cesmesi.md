@@ -1,18 +1,17 @@
 ---
-title: "Şefik Bey Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:51:50+03:00
+title: "Şefik Bey Han Çeşmesi"
+date: "2025-12-25T12:51:50+03:00"
 slug: "sefik-bey-han-cesmesi"
 description: "## Şefik Bey Han Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0682774,38.2558823"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şefik Bey Han Çeşmesi

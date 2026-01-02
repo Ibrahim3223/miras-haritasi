@@ -1,18 +1,17 @@
 ---
-title: "Demirköy Höyüğü | Miras Haritası"
-date: 2025-12-25T07:07:32+03:00
+title: "Demirköy Höyüğü"
+date: "2025-12-25T07:07:32+03:00"
 slug: "demirkoy-hoyugu"
 description: "### Demirköy Höyüğü: Geçmişten Bugüne Etkileyici Arkeolojik Bir Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Demirköy Höyüğü: Geçmişten Bugüne Etkileyici Arkeolojik Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "Karyağdı Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:14+03:00
+title: "Karyağdı Hatun Türbesi"
+date: "2025-12-25T15:05:14+03:00"
 slug: "karyagdi-hatun-turbesi"
 description: "### Karyağdı Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tomb_of_Karyağdı_Hatun.jpg/1200px-Tomb_of_Karyağdı_Hatun.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8562431,39.9381676"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Karyağdı Hatun Türbesi

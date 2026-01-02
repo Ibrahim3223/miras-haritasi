@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Antik Kenti | Miras Haritası"
-date: 2025-12-25T04:18:36+03:00
+title: "Anemurium Antik Kenti"
+date: "2025-12-25T04:18:36+03:00"
 slug: "anemurium-antik-kenti"
 description: "### Anemurium Antik Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Turkey,_Anamur_-_Anemurion_01.jpg/1200px-Turkey,_Anamur_-_Anemurion_01.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8025,36.02417"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Anemurium Antik Kenti

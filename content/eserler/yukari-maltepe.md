@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Maltepe | Miras Haritası"
-date: 2025-12-25T06:58:04+03:00
+title: "Yukarı Maltepe"
+date: "2025-12-25T06:58:04+03:00"
 slug: "yukari-maltepe"
 description: "## Yukarı Maltepe: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Maltepe: Türkiye'nin Gizli Harabeleri

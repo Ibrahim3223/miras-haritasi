@@ -1,18 +1,17 @@
 ---
-title: "Cami-i Sağir Minaresi, Gümüşhane | Miras Haritası"
-date: 2025-12-25T00:09:52+03:00
+title: "Cami-i Sağir Minaresi, Gümüşhane"
+date: "2025-12-25T00:09:52+03:00"
 slug: "cami-i-sagir-minaresi-gumushane"
 description: "## Cami-i Sağir Minaresi, Gümüşhane..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.4569588,40.45158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cami-i Sağir Minaresi, Gümüşhane

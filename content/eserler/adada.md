@@ -1,18 +1,17 @@
 ---
-title: "Adada | Miras Haritası"
-date: 2025-12-25T04:15:31+03:00
+title: "Adada"
+date: "2025-12-25T04:15:31+03:00"
 slug: "adada"
 description: "### Adada: Isparta'nın Gizli Öreni..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Sütçüler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.985311111,37.575161111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Adada: Isparta'nın Gizli Öreni

@@ -1,18 +1,17 @@
 ---
-title: "Has Mehmet Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:52+03:00
+title: "Has Mehmet Bey Türbesi"
+date: "2025-12-25T15:27:52+03:00"
 slug: "has-mehmet-bey-turbesi"
 description: "## Has Mehmet Bey Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Söğütlü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.2429237,40.1167374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Has Mehmet Bey Türbesi

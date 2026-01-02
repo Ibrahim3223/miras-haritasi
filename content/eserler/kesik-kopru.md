@@ -1,18 +1,17 @@
 ---
-title: "Kesik Köprü | Miras Haritası"
-date: 2025-12-25T01:55:59+03:00
+title: "Kesik Köprü"
+date: "2025-12-25T01:55:59+03:00"
 slug: "kesik-kopru"
 description: "## Kesik Köprü: Sivas'ın Eski Yolları Üzerindeki Bir Tarihi Köprü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sivas"
+province: "Sivas"
+iller: '["Sivas"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.9626,39.7221"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kesik Köprü: Sivas'ın Eski Yolları Üzerindeki Bir Tarihi Köprü

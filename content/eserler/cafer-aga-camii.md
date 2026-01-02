@@ -1,18 +1,17 @@
 ---
-title: "Cafer Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:49:16+03:00
+title: "Cafer Ağa Camii"
+date: "2025-12-24T22:49:16+03:00"
 slug: "cafer-aga-camii"
 description: "### Cafer Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9291,41.014331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cafer Ağa Camii

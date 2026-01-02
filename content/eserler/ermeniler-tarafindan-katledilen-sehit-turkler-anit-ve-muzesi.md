@@ -1,18 +1,17 @@
 ---
-title: "Ermeniler Tarafından Katledilen Şehit Türkler Anıt ve Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:47+03:00
+title: "Ermeniler Tarafından Katledilen Şehit Türkler Anıt ve Müzesi"
+date: "2025-12-25T03:13:47+03:00"
 slug: "ermeniler-tarafindan-katledilen-sehit-turkler-anit-ve-muzesi"
 description: "**Ermeniler Tarafından Katledilen Şehit Türkler Anıt ve Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SoykırımAnıtMüze5.jpg/1200px-SoykırımAnıtMüze5.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Iğdır"
+province: "Iğdır"
+iller: '["Iğdır"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "44.07948,39.93679"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ermeniler Tarafından Katledilen Şehit Türkler Anıt ve Müzesi**

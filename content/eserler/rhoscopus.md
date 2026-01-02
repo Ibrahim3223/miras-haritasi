@@ -1,18 +1,17 @@
 ---
-title: "Rhoscopus | Miras Haritası"
-date: 2025-12-25T04:53:14+03:00
+title: "Rhoscopus"
+date: "2025-12-25T04:53:14+03:00"
 slug: "rhoscopus"
 description: "## Rhoscopus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.854397,36.860367"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rhoscopus Arkeolojik Sit

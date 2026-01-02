@@ -1,18 +1,17 @@
 ---
-title: "Ballıcaoluk Kalesi | Miras Haritası"
-date: 2025-12-25T01:17:04+03:00
+title: "Ballıcaoluk Kalesi"
+date: "2025-12-25T01:17:04+03:00"
 slug: "ballicaoluk-kalesi"
 description: "## Ballıcaoluk Kalesi: İzmir'in Gizli Mücevheri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3759174,38.3366508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ballıcaoluk Kalesi: İzmir'in Gizli Mücevheri

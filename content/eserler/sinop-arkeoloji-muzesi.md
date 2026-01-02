@@ -1,18 +1,17 @@
 ---
-title: "Sinop Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:17:46+03:00
+title: "Sinop Arkeoloji Müzesi"
+date: "2025-12-25T03:17:46+03:00"
 slug: "sinop-arkeoloji-muzesi"
 description: "### Sinop Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sinop_Museum_entrance.jpg/1200px-Sinop_Museum_entrance.jpg"
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.151666666,42.0275"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sinop Arkeoloji Müzesi

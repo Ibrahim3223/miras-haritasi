@@ -1,18 +1,17 @@
 ---
-title: "Matheus Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:18+03:00
+title: "Matheus Kilisesi"
+date: "2025-12-25T09:38:18+03:00"
 slug: "matheus-kilisesi"
 description: "## Matheus Kilisesi: Gönen'in Gizli Çehresi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gönen"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.5331497,40.1766701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Matheus Kilisesi: Gönen'in Gizli Çehresi

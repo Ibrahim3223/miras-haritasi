@@ -1,18 +1,17 @@
 ---
-title: "Thouththourbia | Miras Haritası"
-date: 2025-12-25T05:18:15+03:00
+title: "Thouththourbia"
+date: "2025-12-25T05:18:15+03:00"
 slug: "thouththourbia"
 description: "## Thouththourbia: Eski Dünya'nın Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.5797245,36.93999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Thouththourbia: Eski Dünya'nın Gizli Harikası

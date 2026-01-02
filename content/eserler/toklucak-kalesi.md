@@ -1,18 +1,17 @@
 ---
-title: "Toklucak Kalesi | Miras Haritası"
-date: 2025-12-25T01:51:50+03:00
+title: "Toklucak Kalesi"
+date: "2025-12-25T01:51:50+03:00"
 slug: "toklucak-kalesi"
 description: "## Toklucak Kalesi: Ağrı'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Diyadin"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.532299,39.5161018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toklucak Kalesi: Ağrı'nın Tarihi Mirası

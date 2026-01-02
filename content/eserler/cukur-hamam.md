@@ -1,18 +1,17 @@
 ---
-title: "Çukur Hamam | Miras Haritası"
-date: 2025-12-25T16:42:04+03:00
+title: "Çukur Hamam"
+date: "2025-12-25T16:42:04+03:00"
 slug: "cukur-hamam"
 description: "## Çukur Hamam..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4311237,38.6085052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukur Hamam

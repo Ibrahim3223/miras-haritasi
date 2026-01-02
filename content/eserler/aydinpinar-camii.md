@@ -1,18 +1,17 @@
 ---
-title: "Aydınpınar Camii | Miras Haritası"
-date: 2025-12-24T22:13:55+03:00
+title: "Aydınpınar Camii"
+date: "2025-12-24T22:13:55+03:00"
 slug: "aydinpinar-camii"
 description: "## Aydınpınar Camii: Düzce'nin Tarihi Özellikleri..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.10882,40.7597961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aydınpınar Camii: Düzce'nin Tarihi Özellikleri

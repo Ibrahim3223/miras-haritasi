@@ -1,18 +1,17 @@
 ---
-title: "Rumeli Kavağı Yusuf Ağa Suyu | Miras Haritası"
-date: 2025-12-25T12:09:20+03:00
+title: "Rumeli Kavağı Yusuf Ağa Suyu"
+date: "2025-12-25T12:09:20+03:00"
 slug: "rumeli-kavagi-yusuf-aga-suyu"
 description: "### Rumeli Kavağı Yusuf Ağa Suyu..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Rumelikavağı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.072416,41.18363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rumeli Kavağı Yusuf Ağa Suyu

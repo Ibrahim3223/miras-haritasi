@@ -1,18 +1,17 @@
 ---
-title: "Ulubelen Camii | Miras Haritası"
-date: 2025-12-24T23:16:26+03:00
+title: "Ulubelen Camii"
+date: "2025-12-24T23:16:26+03:00"
 slug: "ulubelen-camii"
 description: "## Ulubelen Camii: Samsun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.6601982,40.9231987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulubelen Camii: Samsun'un Tarihi ve Kültürel Mirası

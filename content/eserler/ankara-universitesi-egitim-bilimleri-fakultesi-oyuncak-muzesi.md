@@ -1,18 +1,17 @@
 ---
-title: "Ankara Üniversitesi Eğitim Bilimleri Fakültesi Oyuncak Müzesi | Miras Haritası"
-date: 2025-12-25T03:09:48+03:00
+title: "Ankara Üniversitesi Eğitim Bilimleri Fakültesi Oyuncak Müzesi"
+date: "2025-12-25T03:09:48+03:00"
 slug: "ankara-universitesi-egitim-bilimleri-fakultesi-oyuncak-muzesi"
 description: "# Ankara Üniversitesi Eğitim Bilimleri Fakültesi Oyuncak Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.827961,39.938676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ankara Üniversitesi Eğitim Bilimleri Fakültesi Oyuncak Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Köprü 2, Yava | Miras Haritası"
-date: 2025-12-25T02:52:06+03:00
+title: "Köprü 2, Yava"
+date: "2025-12-25T02:52:06+03:00"
 slug: "kopru-2-yava"
 description: "### Köprü 2, Yava..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1407127,37.4546661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köprü 2, Yava

@@ -1,18 +1,17 @@
 ---
-title: "Zuhurat Baba Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:51+03:00
+title: "Zuhurat Baba Çeşmesi"
+date: "2025-12-25T11:02:51+03:00"
 slug: "zuhurat-baba-cesmesi"
 description: "## Zuhurat Baba Çeşmesi: Bakırköy'de Bir Çağdaş Çeşme Eseri..."
 featured_image: ""
-province: "Bakırköy"
-iller: ["Bakırköy"]
-district: "Zuhuratbaba"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bakırköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.867338,40.982437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zuhurat Baba Çeşmesi: Bakırköy'de Bir Çağdaş Çeşme Eseri

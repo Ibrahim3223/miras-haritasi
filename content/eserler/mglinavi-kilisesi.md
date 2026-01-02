@@ -1,18 +1,17 @@
 ---
-title: "Mglinavi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:46+03:00
+title: "Mglinavi Kilisesi"
+date: "2025-12-25T09:00:46+03:00"
 slug: "mglinavi-kilisesi"
 description: "## Mglinavi Kilisesi: Hanak'ta Gizli Bir Kıltürel Ören..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Hanak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.835,41.205888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mglinavi Kilisesi: Hanak'ta Gizli Bir Kıltürel Ören

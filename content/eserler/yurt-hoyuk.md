@@ -1,18 +1,17 @@
 ---
-title: "Yurt Höyük | Miras Haritası"
-date: 2025-12-25T05:55:07+03:00
+title: "Yurt Höyük"
+date: "2025-12-25T05:55:07+03:00"
 slug: "yurt-hoyuk"
 description: "### Yurt Höyük: Hatay'ın Gizli Anıtı..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.427776,36.317501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yurt Höyük: Hatay'ın Gizli Anıtı

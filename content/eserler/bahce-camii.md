@@ -1,18 +1,17 @@
 ---
-title: "Bahçe Camii | Miras Haritası"
-date: 2025-12-24T22:12:17+03:00
+title: "Bahçe Camii"
+date: "2025-12-24T22:12:17+03:00"
 slug: "bahce-camii"
 description: "### Bahçe Camii: Isparta'nın Doğal Güzelliği Arasında Yükselen Bir Tarihî Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Uluborlu_15_05_1997_Bahçe_Camii.jpg/1200px-Uluborlu_15_05_1997_Bahçe_Camii.jpg"
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Uluborlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.4640102,38.0668411"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bahçe Camii: Isparta'nın Doğal Güzelliği Arasında Yükselen Bir Tarihî Miras

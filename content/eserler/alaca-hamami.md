@@ -1,18 +1,17 @@
 ---
-title: "Alaca Hamamı | Miras Haritası"
-date: 2025-12-25T16:47:59+03:00
+title: "Alaca Hamamı"
+date: "2025-12-25T16:47:59+03:00"
 slug: "alaca-hamami"
 description: "## Alaca Hamamı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5376797,38.7587776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaca Hamamı

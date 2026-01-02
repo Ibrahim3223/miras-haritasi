@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Peşrefli | Miras Haritası"
-date: 2025-12-25T02:58:19+03:00
+title: "Roma Köprüsü, Peşrefli"
+date: "2025-12-25T02:58:19+03:00"
 slug: "roma-koprusu-pesrefli"
 description: "## Roma Köprüsü, Peşrefli..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.8468761,38.0958214"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Peşrefli

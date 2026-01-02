@@ -1,18 +1,17 @@
 ---
-title: "Abıhayat Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:32+03:00
+title: "Abıhayat Çeşmesi"
+date: "2025-12-25T11:10:32+03:00"
 slug: "abihayat-cesmesi"
 description: "**Abıhayat Çeşmesi: Sarıyer'in Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.997979,41.15696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Abıhayat Çeşmesi: Sarıyer'in Tarihi ve Kültürel Mirası**

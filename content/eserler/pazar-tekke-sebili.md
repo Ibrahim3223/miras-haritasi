@@ -1,18 +1,17 @@
 ---
-title: "Pazar Tekke Sebili | Miras Haritası"
-date: 2025-12-25T13:06:59+03:00
+title: "Pazar Tekke Sebili"
+date: "2025-12-25T13:06:59+03:00"
 slug: "pazar-tekke-sebili"
 description: "## Pazar Tekke Sebili: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9283218,41.0187683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazar Tekke Sebili: Fatih'in Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Çeşmesi, Mollafenari | Miras Haritası"
-date: 2025-12-25T11:52:40+03:00
+title: "Hekimoğlu Ali Paşa Çeşmesi, Mollafenari"
+date: "2025-12-25T11:52:40+03:00"
 slug: "hekimoglu-ali-pasa-cesmesi-mollafenari"
 description: "## Hekimoğlu Ali Paşa Çeşmesi, Mollafenari: Fatih, İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.970329,41.008572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hekimoğlu Ali Paşa Çeşmesi, Mollafenari: Fatih, İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Üçkurnalar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:11+03:00
+title: "Üçkurnalar Çeşmesi"
+date: "2025-12-25T10:54:11+03:00"
 slug: "uckurnalar-cesmesi"
 description: "## Üçkurnalar Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0572815,40.1818695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçkurnalar Çeşmesi

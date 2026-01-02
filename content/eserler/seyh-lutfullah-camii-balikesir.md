@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Lütfullah Camii (Balıkesir) | Miras Haritası"
-date: 2025-12-24T23:59:42+03:00
+title: "Şeyh Lütfullah Camii (Balıkesir)"
+date: "2025-12-24T23:59:42+03:00"
 slug: "seyh-lutfullah-camii-balikesir"
 description: "## Şeyh Lütfullah Camii: Balıkesir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8865623,39.6478958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Lütfullah Camii: Balıkesir'in Tarihi Bir Mirası

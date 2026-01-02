@@ -1,18 +1,17 @@
 ---
-title: "Beylik Değirmeni Köprüsü | Miras Haritası"
-date: 2025-12-25T02:48:35+03:00
+title: "Beylik Değirmeni Köprüsü"
+date: "2025-12-25T02:48:35+03:00"
 slug: "beylik-degirmeni-koprusu"
 description: "## Beylik Değirmeni Köprüsü: Ankara'nın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.878983818,39.939182704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beylik Değirmeni Köprüsü: Ankara'nın Tarihî Mirası

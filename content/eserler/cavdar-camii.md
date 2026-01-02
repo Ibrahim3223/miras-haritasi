@@ -1,18 +1,17 @@
 ---
-title: "Çavdar Camii | Miras Haritası"
-date: 2025-12-24T22:31:35+03:00
+title: "Çavdar Camii"
+date: "2025-12-24T22:31:35+03:00"
 slug: "cavdar-camii"
 description: "# Çavdar Camii: Ordu'da Bir Önemli Kültür Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ordu"
+province: "Ordu"
+iller: '["Ordu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.698635,40.388809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çavdar Camii: Ordu'da Bir Önemli Kültür Mirası

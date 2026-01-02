@@ -1,18 +1,17 @@
 ---
-title: "Selahaddin Uşşaki Kabri | Miras Haritası"
-date: 2025-12-25T13:35:43+03:00
+title: "Selahaddin Uşşaki Kabri"
+date: "2025-12-25T13:35:43+03:00"
 slug: "selahaddin-ussaki-kabri"
 description: "## Selahaddin Uşşaki Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.955311,41.023688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selahaddin Uşşaki Kabri

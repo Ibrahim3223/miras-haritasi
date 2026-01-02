@@ -1,18 +1,17 @@
 ---
-title: "Ilyas Tepe Tumulus | Miras Haritası"
-date: 2025-12-25T07:15:00+03:00
+title: "Ilyas Tepe Tumulus"
+date: "2025-12-25T07:15:00+03:00"
 slug: "ilyas-tepe-tumulus"
 description: "## Ilyas Tepe Tumulus: İzmir'in Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.19862,39.13085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ilyas Tepe Tumulus: İzmir'in Gizli Mirası

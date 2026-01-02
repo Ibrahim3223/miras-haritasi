@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ferhat Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T13:35:59+03:00
+title: "Hacı Ferhat Ağa Türbesi"
+date: "2025-12-25T13:35:59+03:00"
 slug: "haci-ferhat-aga-turbesi"
 description: "### Hacı Ferhat Ağa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9555189,41.0231737"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Ferhat Ağa Türbesi

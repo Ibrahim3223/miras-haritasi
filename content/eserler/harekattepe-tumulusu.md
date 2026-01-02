@@ -1,18 +1,17 @@
 ---
-title: "Harekattepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:02:04+03:00
+title: "Harekattepe Tümülüsü"
+date: "2025-12-25T08:02:04+03:00"
 slug: "harekattepe-tumulusu"
 description: "# Harekattepe Tümülüsü: Tekirdağ'ın Gizli Tarihi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6544399,40.9998055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Harekattepe Tümülüsü: Tekirdağ'ın Gizli Tarihi

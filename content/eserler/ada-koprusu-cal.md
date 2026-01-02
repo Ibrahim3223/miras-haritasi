@@ -1,18 +1,17 @@
 ---
-title: "Ada Köprüsü, Çal | Miras Haritası"
-date: 2025-12-25T02:54:05+03:00
+title: "Ada Köprüsü, Çal"
+date: "2025-12-25T02:54:05+03:00"
 slug: "ada-koprusu-cal"
 description: "## Ada Köprüsü: Çal'ın Tarihî Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.3912354,38.1844864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ada Köprüsü: Çal'ın Tarihî Mirası

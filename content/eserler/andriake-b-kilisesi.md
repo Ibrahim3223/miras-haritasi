@@ -1,18 +1,17 @@
 ---
-title: "Andriake B Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:07+03:00
+title: "Andriake B Kilisesi"
+date: "2025-12-25T09:35:07+03:00"
 slug: "andriake-b-kilisesi"
 description: "## Andriake B Kilisesi: Demre'de Bir Tarihi Kıymet..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.9568214,36.2265854"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andriake B Kilisesi: Demre'de Bir Tarihi Kıymet

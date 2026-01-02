@@ -1,18 +1,17 @@
 ---
-title: "Irlamaz Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:57+03:00
+title: "Irlamaz Kilisesi"
+date: "2025-12-25T09:17:57+03:00"
 slug: "irlamaz-kilisesi"
 description: "## Irlamaz Kilisesi Tanıtımı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.7111111,38.4578896"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Irlamaz Kilisesi Tanıtımı

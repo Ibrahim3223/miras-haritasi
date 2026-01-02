@@ -1,18 +1,17 @@
 ---
-title: "Raşit Efendi Yazma Eser Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:25+03:00
+title: "Raşit Efendi Yazma Eser Kütüphanesi"
+date: "2025-12-25T17:51:25+03:00"
 slug: "rasit-efendi-yazma-eser-kutuphanesi"
 description: "### Raşit Efendi Yazma Eser Kütüphanesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "35.4860191,38.7197762"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Raşit Efendi Yazma Eser Kütüphanesi

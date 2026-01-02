@@ -1,18 +1,17 @@
 ---
-title: "Necmi Asfuroğlu Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:36:51+03:00
+title: "Necmi Asfuroğlu Arkeoloji Müzesi"
+date: "2025-12-25T03:36:51+03:00"
 slug: "necmi-asfuroglu-arkeoloji-muzesi"
 description: "### Necmi Asfuroğlu Arkeoloji Müzesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.1743622,36.2110062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Necmi Asfuroğlu Arkeoloji Müzesi

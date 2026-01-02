@@ -1,18 +1,17 @@
 ---
-title: "Yavuz Mehmet Ağa Camii | Miras Haritası"
-date: 2025-12-25T00:05:32+03:00
+title: "Yavuz Mehmet Ağa Camii"
+date: "2025-12-25T00:05:32+03:00"
 slug: "yavuz-mehmet-aga-camii"
 description: "## Yavuz Mehmet Ağa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9394264,41.0075417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yavuz Mehmet Ağa Camii

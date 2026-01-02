@@ -1,18 +1,17 @@
 ---
-title: "İlyas Çelebi Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:20+03:00
+title: "İlyas Çelebi Camii Çeşmesi"
+date: "2025-12-25T10:58:20+03:00"
 slug: "ilyas-celebi-camii-cesmesi"
 description: "## İlyas Çelebi Camii Çeşmesi: Beyoğlu'nun Gizli Cezvesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kılıçali Paşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.984798,41.029293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlyas Çelebi Camii Çeşmesi: Beyoğlu'nun Gizli Cezvesi

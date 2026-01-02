@@ -1,18 +1,17 @@
 ---
-title: "Dünyanın Ortası Anıtı | Miras Haritası"
-date: 2025-12-25T15:43:12+03:00
+title: "Dünyanın Ortası Anıtı"
+date: "2025-12-25T15:43:12+03:00"
 slug: "dunyanin-ortasi-aniti"
 description: "## Dünyanın Ortası Anıtı: Akşehir'in Gizli Çehresini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dünyanın_Ortası_Anıtı_1.jpg/1200px-Dünyanın_Ortası_Anıtı_1.jpg"
 province: "Akşehir (ilçe)"
-iller: ["Akşehir (ilçe)"]
+iller: '["Akşehir (ilçe)"]'
 district: "Nasreddin Hoca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.418610318,38.356909747"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dünyanın Ortası Anıtı: Akşehir'in Gizli Çehresini Keşfedin

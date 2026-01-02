@@ -1,18 +1,17 @@
 ---
-title: "Vahap Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T16:26:37+03:00
+title: "Vahap Ağa Hamamı"
+date: "2025-12-25T16:26:37+03:00"
 slug: "vahap-aga-hamami"
 description: "## Vahap Ağa Hamamı: Diyarbakır'ın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Himama_Vahap_Amed_2009.JPG/1200px-Himama_Vahap_Amed_2009.JPG"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.2367775,37.9134367"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Vahap Ağa Hamamı: Diyarbakır'ın Gizli Çehresi

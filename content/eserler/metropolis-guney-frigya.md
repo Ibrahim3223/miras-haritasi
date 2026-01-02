@@ -1,18 +1,17 @@
 ---
-title: "Metropolis (Güney Frigya) | Miras Haritası"
-date: 2025-12-25T04:32:54+03:00
+title: "Metropolis (Güney Frigya)"
+date: "2025-12-25T04:32:54+03:00"
 slug: "metropolis-guney-frigya"
 description: "## Metropolis (Güney Frigya)..."
 featured_image: ""
 province: "Dinar"
-iller: ["Dinar"]
+iller: '["Dinar"]'
 district: "Tatarlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.494802,38.241847"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metropolis (Güney Frigya)

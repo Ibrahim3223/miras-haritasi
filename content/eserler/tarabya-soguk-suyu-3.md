@@ -1,18 +1,17 @@
 ---
-title: "Tarabya Soğuk Suyu 3 | Miras Haritası"
-date: 2025-12-25T13:00:54+03:00
+title: "Tarabya Soğuk Suyu 3"
+date: "2025-12-25T13:00:54+03:00"
 slug: "tarabya-soguk-suyu-3"
 description: "## Tarabya Soğuk Suyu 3: Tarabya'nın Tarihî Çeşmesinde Bir Ziyaret..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Tarabya"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.052186,41.136815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarabya Soğuk Suyu 3: Tarabya'nın Tarihî Çeşmesinde Bir Ziyaret

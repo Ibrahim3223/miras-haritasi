@@ -1,18 +1,17 @@
 ---
-title: "Yapıcıoğlu Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:52:48+03:00
+title: "Yapıcıoğlu Camii Çeşmesi"
+date: "2025-12-25T12:52:48+03:00"
 slug: "yapicioglu-camii-cesmesi"
 description: "### Yapıcıoğlu Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.134552,38.4106674"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yapıcıoğlu Camii Çeşmesi

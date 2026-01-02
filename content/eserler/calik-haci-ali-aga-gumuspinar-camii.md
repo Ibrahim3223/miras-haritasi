@@ -1,18 +1,17 @@
 ---
-title: "Çalık Hacı Ali Ağa Gümüşpınar Camii | Miras Haritası"
-date: 2025-12-24T22:50:03+03:00
+title: "Çalık Hacı Ali Ağa Gümüşpınar Camii"
+date: "2025-12-24T22:50:03+03:00"
 slug: "calik-haci-ali-aga-gumuspinar-camii"
 description: "## Çalık Hacı Ali Ağa Gümüşpınar Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.205677,40.9181786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çalık Hacı Ali Ağa Gümüşpınar Camii

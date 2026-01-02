@@ -1,18 +1,17 @@
 ---
-title: "Boyacı Kapısı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:12:23+03:00
+title: "Boyacı Kapısı Çeşmesi"
+date: "2025-12-25T12:12:23+03:00"
 slug: "boyaci-kapisi-cesmesi"
 description: "## Boyacı Kapısı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.949225,41.0206544"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boyacı Kapısı Çeşmesi

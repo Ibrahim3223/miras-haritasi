@@ -1,18 +1,17 @@
 ---
-title: "Namık Kemal Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:20:37+03:00
+title: "Namık Kemal Evi Müzesi"
+date: "2025-12-25T03:20:37+03:00"
 slug: "namik-kemal-evi-muzesi"
 description: "## Namık Kemal Evi Müzesi..."
 featured_image: ""
-province: "Edirne Vilayeti"
-iller: ["Edirne Vilayeti"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: "Edirne Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.5167,40.97898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Namık Kemal Evi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Büyük Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:11+03:00
+title: "Büyük Hamamı"
+date: "2025-12-25T16:29:11+03:00"
 slug: "buyuk-hamami"
 description: "## Büyük Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Büyük_Hamamı,_Kasımpaşa_03.jpg/1200px-Büyük_Hamamı,_Kasımpaşa_03.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.968373671,41.033511637"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Büyük Hamamı

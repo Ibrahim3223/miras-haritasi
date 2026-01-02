@@ -1,18 +1,17 @@
 ---
-title: "Sultan Reşat Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:22+03:00
+title: "Sultan Reşat Türbesi"
+date: "2025-12-25T15:06:22+03:00"
 slug: "sultan-resat-turbesi"
 description: "### Sultan Reşat Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Istanbul_asv2021-11_img20_Tomb_of_Mehmed_V.jpg/1200px-Istanbul_asv2021-11_img20_Tomb_of_Mehmed_V.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9358,41.0479"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sultan Reşat Türbesi

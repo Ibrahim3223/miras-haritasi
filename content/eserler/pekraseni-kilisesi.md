@@ -1,18 +1,17 @@
 ---
-title: "Pekraşeni Kilisesi | Miras Haritası"
-date: 2025-12-25T08:59:45+03:00
+title: "Pekraşeni Kilisesi"
+date: "2025-12-25T08:59:45+03:00"
 slug: "pekraseni-kilisesi"
 description: "### Pekraşeni Kilisesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Arpaçay"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.222861111,40.990694444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pekraşeni Kilisesi

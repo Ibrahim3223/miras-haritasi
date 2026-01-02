@@ -1,18 +1,17 @@
 ---
-title: "Salepçioğlu Medrese Çeşmeleri | Miras Haritası"
-date: 2025-12-25T12:55:23+03:00
+title: "Salepçioğlu Medrese Çeşmeleri"
+date: "2025-12-25T12:55:23+03:00"
 slug: "salepcioglu-medrese-cesmeleri"
 description: "## Salepçioğlu Medrese Çeşmeleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1326332,38.4170837"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salepçioğlu Medrese Çeşmeleri

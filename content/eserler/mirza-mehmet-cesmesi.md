@@ -1,18 +1,17 @@
 ---
-title: "Mirza Mehmet Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:41:49+03:00
+title: "Mirza Mehmet Çeşmesi"
+date: "2025-12-25T11:41:49+03:00"
 slug: "mirza-mehmet-cesmesi"
 description: "## Mirza Mehmet Çeşmesi: Yakutiye'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2771072,39.9086838"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mirza Mehmet Çeşmesi: Yakutiye'nin Gizli Çeşmesi

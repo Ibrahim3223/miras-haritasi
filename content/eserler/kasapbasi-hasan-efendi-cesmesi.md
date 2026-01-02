@@ -1,18 +1,17 @@
 ---
-title: "Kasapbaşı Hasan Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:45+03:00
+title: "Kasapbaşı Hasan Efendi Çeşmesi"
+date: "2025-12-25T10:59:45+03:00"
 slug: "kasapbasi-hasan-efendi-cesmesi"
 description: "**Kasapbaşı Hasan Efendi Çeşmesi**..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Topçular"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.934263,41.029942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kasapbaşı Hasan Efendi Çeşmesi**

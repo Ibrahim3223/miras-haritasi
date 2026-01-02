@@ -1,18 +1,17 @@
 ---
-title: "Gönülaçan Köyü Camii | Miras Haritası"
-date: 2025-12-25T08:58:26+03:00
+title: "Gönülaçan Köyü Camii"
+date: "2025-12-25T08:58:26+03:00"
 slug: "gonulacan-koyu-camii"
 description: "## Gönülaçan Köyü Camii..."
 featured_image: ""
 province: "Posof"
-iller: ["Posof"]
+iller: '["Posof"]'
 district: "Gönülaçan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.729027777,41.57325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gönülaçan Köyü Camii

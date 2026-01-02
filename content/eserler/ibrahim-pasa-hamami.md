@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:28:24+03:00
+title: "İbrahim Paşa Hamamı"
+date: "2025-12-25T16:28:24+03:00"
 slug: "ibrahim-pasa-hamami"
 description: "## İbrahim Paşa Hamamı: İstanbul'un Kültürel Miraslarından Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/İbrahim_Paşa_Hamamı,Saraçhane,1941.jpg/1200px-İbrahim_Paşa_Hamamı,Saraçhane,1941.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.954277777,41.014555555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İbrahim Paşa Hamamı: İstanbul'un Kültürel Miraslarından Bir Örnek

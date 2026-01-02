@@ -1,18 +1,17 @@
 ---
-title: "Laodikeia Kutsal Hac Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:01+03:00
+title: "Laodikeia Kutsal Hac Kilisesi"
+date: "2025-12-25T09:26:01+03:00"
 slug: "laodikeia-kutsal-hac-kilisesi"
 description: "# Laodikeia Kutsal Hac Kilisesi: Pamukkale'nin Gizemli Yapısı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1104221,37.8364296"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Laodikeia Kutsal Hac Kilisesi: Pamukkale'nin Gizemli Yapısı

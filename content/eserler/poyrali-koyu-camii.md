@@ -1,18 +1,17 @@
 ---
-title: "Poyralı Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:39:56+03:00
+title: "Poyralı Köyü Camii"
+date: "2025-12-24T22:39:56+03:00"
 slug: "poyrali-koyu-camii"
 description: "# Poyralı Köyü Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5941372,41.6249733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Poyralı Köyü Camii

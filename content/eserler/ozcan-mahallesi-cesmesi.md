@@ -1,18 +1,17 @@
 ---
-title: "Özcan Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:11:36+03:00
+title: "Özcan Mahallesi Çeşmesi"
+date: "2025-12-25T10:11:36+03:00"
 slug: "ozcan-mahallesi-cesmesi"
 description: "### Özcan Mahallesi Çeşmesi..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.4588966,40.4600983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Özcan Mahallesi Çeşmesi

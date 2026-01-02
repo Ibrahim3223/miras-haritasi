@@ -1,18 +1,17 @@
 ---
-title: "Tepecik Höyüğü | Miras Haritası"
-date: 2025-12-25T06:00:12+03:00
+title: "Tepecik Höyüğü"
+date: "2025-12-25T06:00:12+03:00"
 slug: "tepecik-hoyugu"
 description: "## Tepecik Höyüğü: Lice'nin Gizli Tarihi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Lice"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.737568,38.386547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepecik Höyüğü: Lice'nin Gizli Tarihi

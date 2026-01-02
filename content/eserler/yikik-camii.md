@@ -1,18 +1,17 @@
 ---
-title: "Yıkık Camii | Miras Haritası"
-date: 2025-12-24T23:46:15+03:00
+title: "Yıkık Camii"
+date: "2025-12-24T23:46:15+03:00"
 slug: "yikik-camii"
 description: "## Yıkık Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1072998,38.3760986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıkık Camii: İzmir'in Tarihi Bir Mirası

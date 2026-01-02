@@ -1,18 +1,17 @@
 ---
-title: "Kale (Roma) Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:06:28+03:00
+title: "Kale (Roma) Çeşmesi"
+date: "2025-12-25T10:06:28+03:00"
 slug: "kale-roma-cesmesi"
 description: "### Roma Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/665.30-Kale_(Roma)_Çeşmesi-M.S.2.yy_(1).jpg/1200px-665.30-Kale_(Roma)_Çeşmesi-M.S.2.yy_(1).jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.18105556,39.126175"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Roma Çeşmesi

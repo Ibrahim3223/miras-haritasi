@@ -1,18 +1,17 @@
 ---
-title: "Sedasa | Miras Haritası"
-date: 2025-12-25T05:15:08+03:00
+title: "Sedasa"
+date: "2025-12-25T05:15:08+03:00"
 slug: "sedasa"
 description: "## Sedasa Arkeolojik Sit: Geçmişe Yolculuk..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.162149,37.442328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sedasa Arkeolojik Sit: Geçmişe Yolculuk

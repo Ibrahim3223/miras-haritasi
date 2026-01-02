@@ -1,18 +1,17 @@
 ---
-title: "Malus (Pisidya) | Miras Haritası"
-date: 2025-12-25T05:12:17+03:00
+title: "Malus (Pisidya)"
+date: "2025-12-25T05:12:17+03:00"
 slug: "malus-pisidya"
 description: "## Malus (Pisidya) - Eğirdir, Isparta..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.942251,37.7013085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malus (Pisidya) - Eğirdir, Isparta

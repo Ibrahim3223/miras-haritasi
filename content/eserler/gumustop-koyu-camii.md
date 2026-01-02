@@ -1,18 +1,17 @@
 ---
-title: "Gümüştop Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:05:24+03:00
+title: "Gümüştop Köyü Camii"
+date: "2025-12-25T00:05:24+03:00"
 slug: "gumustop-koyu-camii"
 description: "### Gümüştop Köyü Camii: Turhal'ın Gizli Cenneti..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Turhal"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1425514,40.3870049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüştop Köyü Camii: Turhal'ın Gizli Cenneti

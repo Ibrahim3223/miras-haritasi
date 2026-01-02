@@ -1,18 +1,17 @@
 ---
-title: "Myonnesus | Miras Haritası"
-date: 2025-12-25T08:08:38+03:00
+title: "Myonnesus"
+date: "2025-12-25T08:08:38+03:00"
 slug: "myonnesus"
 description: "### Myonnesus Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.855,38.04583333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Myonnesus Arkeolojik Sitesi

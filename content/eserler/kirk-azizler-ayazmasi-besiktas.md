@@ -1,18 +1,17 @@
 ---
-title: "Kırk Azizler Ayazması, Beşiktaş | Miras Haritası"
-date: 2025-12-25T12:43:33+03:00
+title: "Kırk Azizler Ayazması, Beşiktaş"
+date: "2025-12-25T12:43:33+03:00"
 slug: "kirk-azizler-ayazmasi-besiktas"
 description: "## Kırk Azizler Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9988976,41.0407448"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırk Azizler Ayazması

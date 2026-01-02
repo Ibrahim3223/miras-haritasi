@@ -1,18 +1,17 @@
 ---
-title: "Haydar Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:40+03:00
+title: "Haydar Dede Türbesi"
+date: "2025-12-25T15:11:40+03:00"
 slug: "haydar-dede-turbesi"
 description: "## Haydar Dede Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.840895,39.290185"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haydar Dede Türbesi

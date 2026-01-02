@@ -1,18 +1,17 @@
 ---
-title: "Kasım Çavuş Camii | Miras Haritası"
-date: 2025-12-24T22:17:14+03:00
+title: "Kasım Çavuş Camii"
+date: "2025-12-24T22:17:14+03:00"
 slug: "kasim-cavus-camii"
 description: "## Kasım Çavuş Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kasım_Çavuş_Mosque_(1).jpg/1200px-Kasım_Çavuş_Mosque_(1).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9297822,41.05025309"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kasım Çavuş Camii: İstanbul'un Gizli Cenneti

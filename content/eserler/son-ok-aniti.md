@@ -1,18 +1,17 @@
 ---
-title: "Son Ok Anıtı | Miras Haritası"
-date: 2025-12-25T14:04:05+03:00
+title: "Son Ok Anıtı"
+date: "2025-12-25T14:04:05+03:00"
 slug: "son-ok-aniti"
 description: "# Son Ok Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2222538,40.0982742"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Son Ok Anıtı

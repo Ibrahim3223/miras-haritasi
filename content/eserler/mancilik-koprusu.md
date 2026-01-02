@@ -1,18 +1,17 @@
 ---
-title: "Mancılık Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:19+03:00
+title: "Mancılık Köprüsü"
+date: "2025-12-25T02:31:19+03:00"
 slug: "mancilik-koprusu"
 description: "## Mancılık Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.2194519,39.0859451"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mancılık Köprüsü

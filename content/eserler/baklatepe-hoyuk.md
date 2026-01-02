@@ -1,18 +1,17 @@
 ---
-title: "Baklatepe Höyük | Miras Haritası"
-date: 2025-12-25T05:44:37+03:00
+title: "Baklatepe Höyük"
+date: "2025-12-25T05:44:37+03:00"
 slug: "baklatepe-hoyuk"
 description: "### Baklatepe Höyük: Tarihi ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.37845,38.701117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Baklatepe Höyük: Tarihi ve Kültür Mirasının Gizemi

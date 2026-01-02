@@ -1,18 +1,17 @@
 ---
-title: "Murat Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:11+03:00
+title: "Murat Paşa Camii Çeşmesi"
+date: "2025-12-25T11:20:11+03:00"
 slug: "murat-pasa-camii-cesmesi"
 description: "## Murat Paşa Camii Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Molla Gürani"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.948595,41.010011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Murat Paşa Camii Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Öksün Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:56+03:00
+title: "Öksün Kalesi"
+date: "2025-12-25T01:44:56+03:00"
 slug: "oksun-kalesi"
 description: "## Öksün Kalesi: Giresun'un Efsanevi Kale Güneş Batımı..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Bulancak"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.249191,40.928551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Öksün Kalesi: Giresun'un Efsanevi Kale Güneş Batımı

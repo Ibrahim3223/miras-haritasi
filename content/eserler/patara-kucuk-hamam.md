@@ -1,18 +1,17 @@
 ---
-title: "Patara Küçük Hamam | Miras Haritası"
-date: 2025-12-25T16:53:16+03:00
+title: "Patara Küçük Hamam"
+date: "2025-12-25T16:53:16+03:00"
 slug: "patara-kucuk-hamam"
 description: "## Patara Küçük Hamam..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Patara_Small_bath_2013_4686.jpg/1200px-Patara_Small_bath_2013_4686.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.31469,36.262333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Patara Küçük Hamam

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hasan Efendi Çeşmesi (Fatih) | Miras Haritası"
-date: 2025-12-25T12:10:01+03:00
+title: "Hacı Hasan Efendi Çeşmesi (Fatih)"
+date: "2025-12-25T12:10:01+03:00"
 slug: "haci-hasan-efendi-cesmesi-fatih"
 description: "## Hacı Hasan Efendi Çeşmesi (Fatih)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hacı_Hasan_Efendi_Çeşmesi_(Fatih).jpg/1200px-Hacı_Hasan_Efendi_Çeşmesi_(Fatih).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.977953,41.002923"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Hasan Efendi Çeşmesi (Fatih)

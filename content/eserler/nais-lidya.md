@@ -1,18 +1,17 @@
 ---
-title: "Nais (Lidya) | Miras Haritası"
-date: 2025-12-25T05:14:29+03:00
+title: "Nais (Lidya)"
+date: "2025-12-25T05:14:29+03:00"
 slug: "nais-lidya"
 description: "## Nais (Lidya) Arkeolojik Sit..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.2114,38.42703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nais (Lidya) Arkeolojik Sit

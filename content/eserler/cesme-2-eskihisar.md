@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2, Eskihisar | Miras Haritası"
-date: 2025-12-25T12:02:34+03:00
+title: "Çeşme 2, Eskihisar"
+date: "2025-12-25T12:02:34+03:00"
 slug: "cesme-2-eskihisar"
 description: "## Çeşme 2, Eskihisar: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.1466999,37.9291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 2, Eskihisar: Aydın'ın Gizli Çeşmesi

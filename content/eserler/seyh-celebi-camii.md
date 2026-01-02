@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Çelebi Camii | Miras Haritası"
-date: 2025-12-24T23:10:54+03:00
+title: "Şeyh Çelebi Camii"
+date: "2025-12-24T23:10:54+03:00"
 slug: "seyh-celebi-camii"
 description: "## Şeyh Çelebi Camii: Edirne'nin Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Şeyhi_Çelebi_Camii_2025_-_2c.jpg/1200px-Şeyhi_Çelebi_Camii_2025_-_2c.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5683632,41.6725502"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyh Çelebi Camii: Edirne'nin Gizli Çehresini Keşfetmek

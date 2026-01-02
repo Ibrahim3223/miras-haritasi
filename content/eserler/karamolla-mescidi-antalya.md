@@ -1,18 +1,17 @@
 ---
-title: "Karamolla Mescidi, Antalya | Miras Haritası"
-date: 2025-12-25T01:06:43+03:00
+title: "Karamolla Mescidi, Antalya"
+date: "2025-12-25T01:06:43+03:00"
 slug: "karamolla-mescidi-antalya"
 description: "**Karamolla Mescidi: Antalya'nın Tarihi Bir Güzelliği**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7068996,36.8846016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karamolla Mescidi: Antalya'nın Tarihi Bir Güzelliği**

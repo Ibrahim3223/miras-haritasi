@@ -1,18 +1,17 @@
 ---
-title: "Meydan Çeşmesi, Muhsine Hatun | Miras Haritası"
-date: 2025-12-25T12:07:09+03:00
+title: "Meydan Çeşmesi, Muhsine Hatun"
+date: "2025-12-25T12:07:09+03:00"
 slug: "meydan-cesmesi-muhsine-hatun"
 description: "## Meydan Çeşmesi, Muhsine Hatun: İstanbul'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9646931,41.0042572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meydan Çeşmesi, Muhsine Hatun: İstanbul'un Tarihi Bir Çeşmesi

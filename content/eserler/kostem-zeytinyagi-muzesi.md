@@ -1,18 +1,17 @@
 ---
-title: "Köstem Zeytinyağı Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:22+03:00
+title: "Köstem Zeytinyağı Müzesi"
+date: "2025-12-25T03:50:22+03:00"
 slug: "kostem-zeytinyagi-muzesi"
 description: "## Köstem Zeytinyağı Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.5560818,38.2897301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köstem Zeytinyağı Müzesi

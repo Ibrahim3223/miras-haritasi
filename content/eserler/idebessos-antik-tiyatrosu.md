@@ -1,18 +1,17 @@
 ---
-title: "İdebessos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:26:01+03:00
+title: "İdebessos Antik Tiyatrosu"
+date: "2025-12-25T08:26:01+03:00"
 slug: "idebessos-antik-tiyatrosu"
 description: "### İdebessos Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.202198,36.55458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İdebessos Antik Tiyatrosu

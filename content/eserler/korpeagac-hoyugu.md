@@ -1,18 +1,17 @@
 ---
-title: "Körpeağaç Höyüğü | Miras Haritası"
-date: 2025-12-25T06:29:09+03:00
+title: "Körpeağaç Höyüğü"
+date: "2025-12-25T06:29:09+03:00"
 slug: "korpeagac-hoyugu"
 description: "### Körpeağaç Höyüğü..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Muş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.3742748,38.8604202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Körpeağaç Höyüğü

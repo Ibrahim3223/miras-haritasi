@@ -1,18 +1,17 @@
 ---
-title: "Kültür ve Tarih Müzesi, Anafartalar | Miras Haritası"
-date: 2025-12-25T03:59:15+03:00
+title: "Kültür ve Tarih Müzesi, Anafartalar"
+date: "2025-12-25T03:59:15+03:00"
 slug: "kultur-ve-tarih-muzesi-anafartalar"
 description: "## Kültür ve Tarih Müzesi, Anafartalar..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.85753,39.935375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kültür ve Tarih Müzesi, Anafartalar

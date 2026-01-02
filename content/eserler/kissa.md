@@ -1,18 +1,17 @@
 ---
-title: "Kissa | Miras Haritası"
-date: 2025-12-25T04:49:43+03:00
+title: "Kissa"
+date: "2025-12-25T04:49:43+03:00"
 slug: "kissa"
 description: "## Kissa Arkeolojik Sit..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Hopa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.424809,41.386719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kissa Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Hoşkadem Camii, Sivrihisar | Miras Haritası"
-date: 2025-12-25T00:26:57+03:00
+title: "Hoşkadem Camii, Sivrihisar"
+date: "2025-12-25T00:26:57+03:00"
 slug: "hoskadem-camii-sivrihisar"
 description: "## Hoşkadem Camii: Sivrihisar'ın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5354538,39.4495201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoşkadem Camii: Sivrihisar'ın Tarihî Bir Anıtı

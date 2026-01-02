@@ -1,18 +1,17 @@
 ---
-title: "Sahip Ata Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:32+03:00
+title: "Sahip Ata Hamamı"
+date: "2025-12-25T17:09:32+03:00"
 slug: "sahip-ata-hamami"
 description: "## Sahip Ata Hamamı: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.4945946,37.8674088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sahip Ata Hamamı: Konya'nın Tarihi ve Kültürel Mirası

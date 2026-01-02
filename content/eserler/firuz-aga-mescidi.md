@@ -1,18 +1,17 @@
 ---
-title: "Firuz Ağa Mescidi | Miras Haritası"
-date: 2025-12-24T22:54:26+03:00
+title: "Firuz Ağa Mescidi"
+date: "2025-12-24T22:54:26+03:00"
 slug: "firuz-aga-mescidi"
 description: "### Firuz Ağa Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.982324,41.031217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Firuz Ağa Mescidi

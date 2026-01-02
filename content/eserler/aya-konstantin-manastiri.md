@@ -1,18 +1,17 @@
 ---
-title: "Aya Konstantin Manastırı | Miras Haritası"
-date: 2025-12-25T09:59:29+03:00
+title: "Aya Konstantin Manastırı"
+date: "2025-12-25T09:59:29+03:00"
 slug: "aya-konstantin-manastiri"
 description: "## Aya Konstantin Manastırı: Gökçeada'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.7887001,40.2032013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Konstantin Manastırı: Gökçeada'nın Tarihi ve Kültürel Mirası

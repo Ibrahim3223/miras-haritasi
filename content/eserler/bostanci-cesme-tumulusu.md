@@ -1,18 +1,17 @@
 ---
-title: "Bostancı Çeşme Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:16:06+03:00
+title: "Bostancı Çeşme Tümülüsü"
+date: "2025-12-25T08:16:06+03:00"
 slug: "bostanci-cesme-tumulusu"
 description: "### Bostancı Çeşme Tümülüsü: Vize'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8009739,41.5608292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bostancı Çeşme Tümülüsü: Vize'nin Gizli Cenneti

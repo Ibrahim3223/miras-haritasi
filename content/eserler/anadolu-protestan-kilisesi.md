@@ -1,18 +1,17 @@
 ---
-title: "Anadolu Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:58+03:00
+title: "Anadolu Protestan Kilisesi"
+date: "2025-12-25T09:21:58+03:00"
 slug: "anadolu-protestan-kilisesi"
 description: "**Anadolu Protestan Kilisesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0230846,40.9888039"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Anadolu Protestan Kilisesi**

@@ -1,18 +1,17 @@
 ---
-title: "Acar Hamamı | Miras Haritası"
-date: 2025-12-25T16:27:00+03:00
+title: "Acar Hamamı"
+date: "2025-12-25T16:27:00+03:00"
 slug: "acar-hamami"
 description: "## Acar Hamamı: Kahramanmaraş'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.9249496,37.5881577"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acar Hamamı: Kahramanmaraş'ın Tarihi Bir Mirası

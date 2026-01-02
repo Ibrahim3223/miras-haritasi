@@ -1,18 +1,17 @@
 ---
-title: "Moutalaske | Miras Haritası"
-date: 2025-12-25T05:13:03+03:00
+title: "Moutalaske"
+date: "2025-12-25T05:13:03+03:00"
 slug: "moutalaske"
 description: "### Moutalaske: Antik Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.401742,38.706905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Moutalaske: Antik Bir Arkeolojik Sit

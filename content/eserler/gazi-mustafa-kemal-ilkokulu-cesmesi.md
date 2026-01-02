@@ -1,18 +1,17 @@
 ---
-title: "Gazi Mustafa Kemal İlkokulu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:23+03:00
+title: "Gazi Mustafa Kemal İlkokulu Çeşmesi"
+date: "2025-12-25T11:36:23+03:00"
 slug: "gazi-mustafa-kemal-ilkokulu-cesmesi"
 description: "# Gazi Mustafa Kemal İlkokulu Çeşmesi: Karatay, Konya'da Bir Ölümsüz Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gazi_Mustafa_Kemal_lkokulu_emesi_2025-10-24_1761321457.jpg/1200px-Gazi_Mustafa_Kemal_lkokulu_emesi_2025-10-24_1761321457.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4950523,37.8733444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Gazi Mustafa Kemal İlkokulu Çeşmesi: Karatay, Konya'da Bir Ölümsüz Anıt

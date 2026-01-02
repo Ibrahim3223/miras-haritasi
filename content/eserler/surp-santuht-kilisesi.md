@@ -1,18 +1,17 @@
 ---
-title: "Surp Santuht Kilisesi | Miras Haritası"
-date: 2025-12-25T08:48:03+03:00
+title: "Surp Santuht Kilisesi"
+date: "2025-12-25T08:48:03+03:00"
 slug: "surp-santuht-kilisesi"
 description: "## Surp Santuht Kilisesi: Rumelihisarı'nın Gizli Çehresinde Gizli Bir Ölümsüz..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Rumelihisarı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.055638888,41.089583333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Santuht Kilisesi: Rumelihisarı'nın Gizli Çehresinde Gizli Bir Ölümsüz

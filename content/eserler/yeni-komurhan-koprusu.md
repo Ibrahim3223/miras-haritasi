@@ -1,18 +1,17 @@
 ---
-title: "Yeni Kömürhan Köprüsü | Miras Haritası"
-date: 2025-12-25T03:05:07+03:00
+title: "Yeni Kömürhan Köprüsü"
+date: "2025-12-25T03:05:07+03:00"
 slug: "yeni-komurhan-koprusu"
 description: "## Yeni Kömürhan Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Malatya"
+province: "Malatya"
+iller: '["Malatya"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.8188,38.44065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Kömürhan Köprüsü

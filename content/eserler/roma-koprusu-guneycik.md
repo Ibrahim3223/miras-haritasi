@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Güneycik | Miras Haritası"
-date: 2025-12-25T03:01:49+03:00
+title: "Roma Köprüsü, Güneycik"
+date: "2025-12-25T03:01:49+03:00"
 slug: "roma-koprusu-guneycik"
 description: "## Roma Köprüsü, Güneycik..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Gündoğmuş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.7745249,36.754285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Güneycik

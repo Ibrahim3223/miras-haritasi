@@ -1,18 +1,17 @@
 ---
-title: "Küçükköy Şapeli | Miras Haritası"
-date: 2025-12-25T09:43:01+03:00
+title: "Küçükköy Şapeli"
+date: "2025-12-25T09:43:01+03:00"
 slug: "kucukkoy-sapeli"
 description: "### Küçükköy Şapeli: Ayvalık'ta Bir Ölümsüz..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.692381,39.290092"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küçükköy Şapeli: Ayvalık'ta Bir Ölümsüz

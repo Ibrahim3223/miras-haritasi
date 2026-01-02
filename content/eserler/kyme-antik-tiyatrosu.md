@@ -1,18 +1,17 @@
 ---
-title: "Kyme Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:20:47+03:00
+title: "Kyme Antik Tiyatrosu"
+date: "2025-12-25T16:20:47+03:00"
 slug: "kyme-antik-tiyatrosu"
 description: "## Kyme Antik Tiyatrosu: İzmir'in Tarihî Mirasının Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Aliağa"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "26.937298,38.759502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kyme Antik Tiyatrosu: İzmir'in Tarihî Mirasının Gizli Çehresini Keşfetmek

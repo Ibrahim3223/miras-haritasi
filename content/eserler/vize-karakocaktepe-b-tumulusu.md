@@ -1,18 +1,17 @@
 ---
-title: "Vize Karakoçaktepe B Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:04+03:00
+title: "Vize Karakoçaktepe B Tümülüsü"
+date: "2025-12-25T08:05:04+03:00"
 slug: "vize-karakocaktepe-b-tumulusu"
 description: "### Vize Karakoçaktepe B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7774792,41.5829544"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Vize Karakoçaktepe B Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Türkiye İş Bankası İktisadi Bağımsızlık Müzesi | Miras Haritası"
-date: 2025-12-25T03:29:44+03:00
+title: "Türkiye İş Bankası İktisadi Bağımsızlık Müzesi"
+date: "2025-12-25T03:29:44+03:00"
 slug: "turkiye-is-bankasi-iktisadi-bagimsizlik-muzesi"
 description: "## Türkiye İş Bankası İktisadi Bağımsızlık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Türkiye_İş_Bankası_İktisadi_Bağımsızlık_Müzesi,_2023_75.jpg/1200px-Türkiye_İş_Bankası_İktisadi_Bağımsızlık_Müzesi,_2023_75.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.85472222,39.94277778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Türkiye İş Bankası İktisadi Bağımsızlık Müzesi

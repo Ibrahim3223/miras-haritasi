@@ -1,18 +1,17 @@
 ---
-title: "Cudi Dağı Manastırı | Miras Haritası"
-date: 2025-12-25T09:59:57+03:00
+title: "Cudi Dağı Manastırı"
+date: "2025-12-25T09:59:57+03:00"
 slug: "cudi-dagi-manastiri"
 description: "## Cudi Dağı Manastırı: Güneydoğu Anadolu Bölgesi'nin Gizli Hazinası..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Şırnak"
+province: "Şırnak"
+iller: '["Şırnak"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.4508781,37.3773308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cudi Dağı Manastırı: Güneydoğu Anadolu Bölgesi'nin Gizli Hazinası

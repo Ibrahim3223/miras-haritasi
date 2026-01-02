@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Kilise | Miras Haritası"
-date: 2025-12-25T09:39:39+03:00
+title: "Aşağı Kilise"
+date: "2025-12-25T09:39:39+03:00"
 slug: "asagi-kilise"
 description: "## Aşağı Kilise: Divriği'nin Gizli Cenneti..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.1215973,39.3771172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Kilise: Divriği'nin Gizli Cenneti

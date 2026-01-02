@@ -1,18 +1,17 @@
 ---
-title: "Güneyköy Küçük Camii | Miras Haritası"
-date: 2025-12-24T23:26:56+03:00
+title: "Güneyköy Küçük Camii"
+date: "2025-12-24T23:26:56+03:00"
 slug: "guneykoy-kucuk-camii"
 description: "### Güneyköy Küçük Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yalova"
+province: "Yalova"
+iller: '["Yalova"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2769547,40.5539207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güneyköy Küçük Camii

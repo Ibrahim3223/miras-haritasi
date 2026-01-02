@@ -1,18 +1,17 @@
 ---
-title: "Paleopolis (Lidya) | Miras Haritası"
-date: 2025-12-25T04:25:42+03:00
+title: "Paleopolis (Lidya)"
+date: "2025-12-25T04:25:42+03:00"
 slug: "paleopolis-lidya"
 description: "# Paleopolis (Lidya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.2170655,38.085201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Paleopolis (Lidya)

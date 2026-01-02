@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Köprü, Büyükkumla | Miras Haritası"
-date: 2025-12-25T02:55:49+03:00
+title: "Tarihi Köprü, Büyükkumla"
+date: "2025-12-25T02:55:49+03:00"
 slug: "tarihi-kopru-buyukkumla"
 description: "## Tarihi Köprü, Büyükkumla..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gemlik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0888996,40.5026016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Köprü, Büyükkumla

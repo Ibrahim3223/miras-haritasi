@@ -1,18 +1,17 @@
 ---
-title: "Habiller B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:42:16+03:00
+title: "Habiller B Tümülüsü"
+date: "2025-12-25T07:42:16+03:00"
 slug: "habiller-b-tumulusu"
 description: "## Habiller B Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8095474,41.6656265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Habiller B Tümülüsü: Edirne'nin Gizli Tarihi

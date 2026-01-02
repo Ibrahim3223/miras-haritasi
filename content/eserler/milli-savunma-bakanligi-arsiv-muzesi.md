@@ -1,18 +1,17 @@
 ---
-title: "Milli Savunma Bakanlığı Arşiv Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:19+03:00
+title: "Milli Savunma Bakanlığı Arşiv Müzesi"
+date: "2025-12-25T03:27:19+03:00"
 slug: "milli-savunma-bakanligi-arsiv-muzesi"
 description: "## Milli Savunma Bakanlığı Arşiv Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milli Savunma Bakanlığı Arşiv Müzesi

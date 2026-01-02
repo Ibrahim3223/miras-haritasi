@@ -1,18 +1,17 @@
 ---
-title: "Limyra Ptolemaion Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:20+03:00
+title: "Limyra Ptolemaion Kilisesi"
+date: "2025-12-25T09:34:20+03:00"
 slug: "limyra-ptolemaion-kilisesi"
 description: "# Limyra Ptolemaion Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Limyra_Ptolemaion_Kilisesi.jpg/1200px-Limyra_Ptolemaion_Kilisesi.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.169570247,36.34219663"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Limyra Ptolemaion Kilisesi

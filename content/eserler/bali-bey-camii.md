@@ -1,18 +1,17 @@
 ---
-title: "Bali Bey Camii | Miras Haritası"
-date: 2025-12-24T22:11:20+03:00
+title: "Bali Bey Camii"
+date: "2025-12-24T22:11:20+03:00"
 slug: "bali-bey-camii"
 description: "### Bali Bey Camii: Antalya'nın Gizli Çehresini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Antalya_Balbey_Mosque.jpg/1200px-Antalya_Balbey_Mosque.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.706337,36.8883476"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bali Bey Camii: Antalya'nın Gizli Çehresini Keşfedin

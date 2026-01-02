@@ -1,18 +1,17 @@
 ---
-title: "Kurudere İstapiş E Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:55:39+03:00
+title: "Kurudere İstapiş E Tümülüsü"
+date: "2025-12-25T07:55:39+03:00"
 slug: "kurudere-istapis-e-tumulusu"
 description: "## Kurudere İstapiş E Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5820465,41.7706528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurudere İstapiş E Tümülüsü

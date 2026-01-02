@@ -1,18 +1,17 @@
 ---
-title: "Tuz Höyük | Miras Haritası"
-date: 2025-12-25T06:33:02+03:00
+title: "Tuz Höyük"
+date: "2025-12-25T06:33:02+03:00"
 slug: "tuz-hoyuk"
 description: "## Tuz Höyük: Türkiye'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2567005,39.0058441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tuz Höyük: Türkiye'nin Gizli Hazinesi

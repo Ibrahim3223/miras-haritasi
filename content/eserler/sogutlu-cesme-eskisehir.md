@@ -1,18 +1,17 @@
 ---
-title: "Söğütlü Çeşme, Eskişehir | Miras Haritası"
-date: 2025-12-25T12:04:01+03:00
+title: "Söğütlü Çeşme, Eskişehir"
+date: "2025-12-25T12:04:01+03:00"
 slug: "sogutlu-cesme-eskisehir"
 description: "## Söğütlü Çeşme: Eskişehir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.52178,39.7629395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söğütlü Çeşme: Eskişehir'in Gizli Çeşmesi

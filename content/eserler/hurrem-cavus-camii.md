@@ -1,18 +1,17 @@
 ---
-title: "Hürrem Çavuş Camii | Miras Haritası"
-date: 2025-12-24T21:49:41+03:00
+title: "Hürrem Çavuş Camii"
+date: "2025-12-24T21:49:41+03:00"
 slug: "hurrem-cavus-camii"
 description: "## Hürrem Çavuş Camii: Fatih'in Gizli Mabeti..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Hırka-i Şerif"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.936555555,41.021888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hürrem Çavuş Camii: Fatih'in Gizli Mabeti

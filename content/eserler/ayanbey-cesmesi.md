@@ -1,18 +1,17 @@
 ---
-title: "Ayanbey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:47+03:00
+title: "Ayanbey Çeşmesi"
+date: "2025-12-25T11:38:47+03:00"
 slug: "ayanbey-cesmesi"
 description: "## Ayanbey Çeşmesi: Konya'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4272003,37.852478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayanbey Çeşmesi: Konya'nın Tarihi Bir Çeşmesi

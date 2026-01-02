@@ -1,18 +1,17 @@
 ---
-title: "Abdullah El Ensari Hazretleri Kabri | Miras Haritası"
-date: 2025-12-25T13:34:27+03:00
+title: "Abdullah El Ensari Hazretleri Kabri"
+date: "2025-12-25T13:34:27+03:00"
 slug: "abdullah-el-ensari-hazretleri-kabri"
 description: "## Abdullah El Ensari Hazretleri Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.944319,41.033305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdullah El Ensari Hazretleri Kabri

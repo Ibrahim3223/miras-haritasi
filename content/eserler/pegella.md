@@ -1,18 +1,17 @@
 ---
-title: "Pegella | Miras Haritası"
-date: 2025-12-25T05:13:57+03:00
+title: "Pegella"
+date: "2025-12-25T05:13:57+03:00"
 slug: "pegella"
 description: "## Pegella Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.665526,38.535371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pegella Arkeolojik Sit

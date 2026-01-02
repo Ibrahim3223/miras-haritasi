@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Şevket Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:19+03:00
+title: "Mahmut Şevket Paşa Türbesi"
+date: "2025-12-25T14:33:19+03:00"
 slug: "mahmut-sevket-pasa-turbesi"
 description: "## Mahmut Şevket Paşa Türbesi..."
 featured_image: ""
-province: "Şişli"
-iller: ["Şişli"]
-district: "Merkez"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Şişli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9817562,41.0686722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Şevket Paşa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Fertek Kilise Camii, Niğde | Miras Haritası"
-date: 2025-12-25T00:51:41+03:00
+title: "Fertek Kilise Camii, Niğde"
+date: "2025-12-25T00:51:41+03:00"
 slug: "fertek-kilise-camii-nigde"
 description: "## Fertek Kilise Camii: Niğde'nin Görsel Anıtı..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6214409,37.9737396"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fertek Kilise Camii: Niğde'nin Görsel Anıtı

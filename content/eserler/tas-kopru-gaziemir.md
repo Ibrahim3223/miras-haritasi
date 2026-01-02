@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Gaziemir | Miras Haritası"
-date: 2025-12-25T02:45:22+03:00
+title: "Taş Köprü, Gaziemir"
+date: "2025-12-25T02:45:22+03:00"
 slug: "tas-kopru-gaziemir"
 description: "# Taş Köprü, Gaziemir..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Gaziemir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.1230583,38.320816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Taş Köprü, Gaziemir

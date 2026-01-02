@@ -1,18 +1,17 @@
 ---
-title: "Valide Sultan Hamamı | Miras Haritası"
-date: 2025-12-25T17:01:56+03:00
+title: "Valide Sultan Hamamı"
+date: "2025-12-25T17:01:56+03:00"
 slug: "valide-sultan-hamami"
 description: "### Valide Sultan Hamamı: İstanbul'un Tarihi ve Kültürel Miraslarından biri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9835072,41.0131569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Valide Sultan Hamamı: İstanbul'un Tarihi ve Kültürel Miraslarından biri

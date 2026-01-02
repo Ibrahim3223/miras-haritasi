@@ -1,18 +1,17 @@
 ---
-title: "Sakızköy Büyük Tümülüs | Miras Haritası"
-date: 2025-12-25T07:23:50+03:00
+title: "Sakızköy Büyük Tümülüs"
+date: "2025-12-25T07:23:50+03:00"
 slug: "sakizkoy-buyuk-tumulus"
 description: "## Sakızköy Büyük Tümülüs..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.459343,41.4452019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakızköy Büyük Tümülüs

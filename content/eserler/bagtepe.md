@@ -1,18 +1,17 @@
 ---
-title: "Bağtepe | Miras Haritası"
-date: 2025-12-25T07:18:23+03:00
+title: "Bağtepe"
+date: "2025-12-25T07:18:23+03:00"
 slug: "bagtepe"
 description: "## Bağtepe: Türk Tarihine Özel Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağtepe: Türk Tarihine Özel Bir Arkeolojik Sit

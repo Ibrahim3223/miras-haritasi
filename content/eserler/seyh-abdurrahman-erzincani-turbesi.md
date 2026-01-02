@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Abdurrahman Erzincani Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:30+03:00
+title: "Şeyh Abdurrahman Erzincani Türbesi"
+date: "2025-12-25T15:20:30+03:00"
 slug: "seyh-abdurrahman-erzincani-turbesi"
 description: "### Şeyh Abdurrahman Erzincani Türbesi..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.2488747,37.8061829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Abdurrahman Erzincani Türbesi

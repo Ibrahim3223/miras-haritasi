@@ -1,18 +1,17 @@
 ---
-title: "Aynalı Köşk | Miras Haritası"
-date: 2025-12-25T13:12:43+03:00
+title: "Aynalı Köşk"
+date: "2025-12-25T13:12:43+03:00"
 slug: "aynali-kosk"
 description: "## Aynalı Köşk..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aynalı Köşk

@@ -1,18 +1,17 @@
 ---
-title: "Höyücektepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:19:15+03:00
+title: "Höyücektepe Tümülüsü"
+date: "2025-12-25T07:19:15+03:00"
 slug: "hoyucektepe-tumulusu"
 description: "## Höyücektepe Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Meriç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.5107346,41.1836815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Höyücektepe Tümülüsü

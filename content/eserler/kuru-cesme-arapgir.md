@@ -1,18 +1,17 @@
 ---
-title: "Kuru Çeşme, Arapgir | Miras Haritası"
-date: 2025-12-25T12:26:54+03:00
+title: "Kuru Çeşme, Arapgir"
+date: "2025-12-25T12:26:54+03:00"
 slug: "kuru-cesme-arapgir"
 description: "## Kuru Çeşme, Arapgir..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.493951789,39.032404192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuru Çeşme, Arapgir

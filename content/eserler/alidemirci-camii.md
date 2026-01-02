@@ -1,18 +1,17 @@
 ---
-title: "Alidemirci Camii | Miras Haritası"
-date: 2025-12-24T22:09:38+03:00
+title: "Alidemirci Camii"
+date: "2025-12-24T22:09:38+03:00"
 slug: "alidemirci-camii"
 description: "## Alidemirci Camii: Balıkesir'in Tarihi bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.680069,39.7140732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alidemirci Camii: Balıkesir'in Tarihi bir Mirası

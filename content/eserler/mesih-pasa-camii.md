@@ -1,18 +1,17 @@
 ---
-title: "Mesih Paşa Camii | Miras Haritası"
-date: 2025-12-24T20:37:34+03:00
+title: "Mesih Paşa Camii"
+date: "2025-12-24T20:37:34+03:00"
 slug: "mesih-pasa-camii"
 description: "# Mesih Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mesih_Mehmed_Pasha_Mosque_2514.jpg/1200px-Mesih_Mehmed_Pasha_Mosque_2514.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.943427,41.021948"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Mesih Paşa Camii

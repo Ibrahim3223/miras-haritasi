@@ -1,18 +1,17 @@
 ---
-title: "Hydai | Miras Haritası"
-date: 2025-12-25T08:06:37+03:00
+title: "Hydai"
+date: "2025-12-25T08:06:37+03:00"
 slug: "hydai"
 description: "## Hydai: Milas'ın Tarihi Bir Ören Yeri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7049,37.3033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hydai: Milas'ın Tarihi Bir Ören Yeri

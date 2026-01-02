@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:38+03:00
+title: "İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi"
+date: "2025-12-25T04:04:38+03:00"
 slug: "istanbul-universitesi-beyazit-kulesi-anit-muzesi"
 description: "## İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.964848645,41.012776527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi

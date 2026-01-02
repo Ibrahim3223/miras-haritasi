@@ -1,18 +1,17 @@
 ---
-title: "Büyük Lüğlük Höyük | Miras Haritası"
-date: 2025-12-25T06:18:14+03:00
+title: "Büyük Lüğlük Höyük"
+date: "2025-12-25T06:18:14+03:00"
 slug: "buyuk-lugluk-hoyuk"
 description: "## Büyük Lüğlük Höyük: Sivas'ın Tarihî Mirasını Bekliyor..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.7387077,39.1662976"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Lüğlük Höyük: Sivas'ın Tarihî Mirasını Bekliyor

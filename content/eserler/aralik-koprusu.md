@@ -1,18 +1,17 @@
 ---
-title: "Aralık Köprüsü | Miras Haritası"
-date: 2025-12-25T02:02:59+03:00
+title: "Aralık Köprüsü"
+date: "2025-12-25T02:02:59+03:00"
 slug: "aralik-koprusu"
 description: "## Aralık Köprüsü: Artvin'in Kıymetli Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.732548,41.398785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aralık Köprüsü: Artvin'in Kıymetli Köprüsü

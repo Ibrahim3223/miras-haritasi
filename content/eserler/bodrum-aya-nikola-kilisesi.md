@@ -1,18 +1,17 @@
 ---
-title: "Bodrum Aya Nikola Kilisesi | Miras Haritası"
-date: 2025-12-25T08:54:54+03:00
+title: "Bodrum Aya Nikola Kilisesi"
+date: "2025-12-25T08:54:54+03:00"
 slug: "bodrum-aya-nikola-kilisesi"
 description: "### Bodrum Aya Nikola Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Aya_Nikola_Kilisesi_BODRUM_-_panoramio(cropped).jpg/1200px-Aya_Nikola_Kilisesi_BODRUM_-_panoramio(cropped).jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.4315497,37.033381"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bodrum Aya Nikola Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Saka Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:00+03:00
+title: "Saka Çeşmesi"
+date: "2025-12-25T10:15:00+03:00"
 slug: "saka-cesmesi"
 description: "## Saka Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Saka_Çeşmesi_(Fountain),_Fatih,_İstanbul.jpg/1200px-Saka_Çeşmesi_(Fountain),_Fatih,_İstanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.968977621,41.013304843"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Saka Çeşmesi

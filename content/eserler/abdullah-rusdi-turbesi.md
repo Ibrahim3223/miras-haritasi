@@ -1,18 +1,17 @@
 ---
-title: "Abdullah Rüşdi Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:33+03:00
+title: "Abdullah Rüşdi Türbesi"
+date: "2025-12-25T15:17:33+03:00"
 slug: "abdullah-rusdi-turbesi"
 description: "# Abdullah Rüşdi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Mudurnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.2122,40.4643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdullah Rüşdi Türbesi

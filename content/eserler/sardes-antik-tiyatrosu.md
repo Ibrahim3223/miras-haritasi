@@ -1,18 +1,17 @@
 ---
-title: "Sardes Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:22:08+03:00
+title: "Sardes Antik Tiyatrosu"
+date: "2025-12-25T16:22:08+03:00"
 slug: "sardes-antik-tiyatrosu"
 description: "### Sardes Antik Tiyatrosu..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.047712,38.481816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sardes Antik Tiyatrosu

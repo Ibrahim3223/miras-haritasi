@@ -1,18 +1,17 @@
 ---
-title: "İoannis Prodromos Rum Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:16+03:00
+title: "İoannis Prodromos Rum Kilisesi"
+date: "2025-12-25T09:13:16+03:00"
 slug: "ioannis-prodromos-rum-kilisesi"
 description: "## İoannis Prodromos Rum Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.06127,41.171875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İoannis Prodromos Rum Kilisesi

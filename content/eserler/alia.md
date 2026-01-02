@@ -1,18 +1,17 @@
 ---
-title: "Alia | Miras Haritası"
-date: 2025-12-25T05:08:15+03:00
+title: "Alia"
+date: "2025-12-25T05:08:15+03:00"
 slug: "alia"
 description: "### Alia Arkeolojik Sitesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Banaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.901111111,38.869444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alia Arkeolojik Sitesi

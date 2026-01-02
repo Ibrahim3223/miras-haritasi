@@ -1,18 +1,17 @@
 ---
-title: "Han Hamamı | Miras Haritası"
-date: 2025-12-25T16:31:11+03:00
+title: "Han Hamamı"
+date: "2025-12-25T16:31:11+03:00"
 slug: "han-hamami"
 description: "## Bitlis'in Tarihi Bir Eseri: Han Hamamı..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "42.107947,38.399112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bitlis'in Tarihi Bir Eseri: Han Hamamı

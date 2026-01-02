@@ -1,18 +1,17 @@
 ---
-title: "Laodikeia Kiliseli Peristilli Ev | Miras Haritası"
-date: 2025-12-25T09:42:02+03:00
+title: "Laodikeia Kiliseli Peristilli Ev"
+date: "2025-12-25T09:42:02+03:00"
 slug: "laodikeia-kiliseli-peristilli-ev"
 description: "## Laodikeia Kiliseli Peristilli Ev..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1104527,37.8374596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Laodikeia Kiliseli Peristilli Ev

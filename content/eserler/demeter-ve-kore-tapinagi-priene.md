@@ -1,18 +1,17 @@
 ---
-title: "Demeter ve Kore Tapınağı (Priene) | Miras Haritası"
-date: 2025-12-25T08:11:34+03:00
+title: "Demeter ve Kore Tapınağı (Priene)"
+date: "2025-12-25T08:11:34+03:00"
 slug: "demeter-ve-kore-tapinagi-priene"
 description: "## Demeter ve Kore Tapınağı (Priene)..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.296111111,37.660555555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demeter ve Kore Tapınağı (Priene)

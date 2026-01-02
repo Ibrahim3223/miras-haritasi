@@ -1,18 +1,17 @@
 ---
-title: "Sarıkavak Kalesi | Miras Haritası"
-date: 2025-12-25T01:51:38+03:00
+title: "Sarıkavak Kalesi"
+date: "2025-12-25T01:51:38+03:00"
 slug: "sarikavak-kalesi"
 description: "## Sarıkavak Kalesi - İstanbul'un Şile İlçesi'nin Gizli Kahramanları..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.6458359,41.0203362"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıkavak Kalesi - İstanbul'un Şile İlçesi'nin Gizli Kahramanları

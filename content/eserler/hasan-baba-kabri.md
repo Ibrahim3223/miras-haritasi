@@ -1,18 +1,17 @@
 ---
-title: "Hasan Baba Kabri | Miras Haritası"
-date: 2025-12-25T16:06:23+03:00
+title: "Hasan Baba Kabri"
+date: "2025-12-25T16:06:23+03:00"
 slug: "hasan-baba-kabri"
 description: "# Hasan Baba Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9815922,41.0044518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hasan Baba Kabri: Fatih'in Gizli Anıtı

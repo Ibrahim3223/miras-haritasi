@@ -1,18 +1,17 @@
 ---
-title: "Menemen Gediz Köprüsü | Miras Haritası"
-date: 2025-12-25T01:57:22+03:00
+title: "Menemen Gediz Köprüsü"
+date: "2025-12-25T01:57:22+03:00"
 slug: "menemen-gediz-koprusu"
 description: "## Menemen Gediz Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Menemen_Gediz_Bridge.jpg/1200px-Menemen_Gediz_Bridge.jpg"
 province: "Menemen (ilçe)"
-iller: ["Menemen (ilçe)"]
+iller: '["Menemen (ilçe)"]'
 district: "Menemen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.051,38.649277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Menemen Gediz Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Çobançeşme Köprüsü | Miras Haritası"
-date: 2025-12-25T02:03:42+03:00
+title: "Çobançeşme Köprüsü"
+date: "2025-12-25T02:03:42+03:00"
 slug: "cobancesme-koprusu"
 description: "## Çobançeşme Köprüsü: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Bahçelievler"
-iller: ["Bahçelievler"]
-district: "Çobançeşme"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bahçelievler"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.81988,40.99387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çobançeşme Köprüsü: İstanbul'un Gizli Cenneti

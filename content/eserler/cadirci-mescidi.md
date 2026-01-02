@@ -1,18 +1,17 @@
 ---
-title: "Çadırcı Mescidi | Miras Haritası"
-date: 2025-12-24T22:48:55+03:00
+title: "Çadırcı Mescidi"
+date: "2025-12-24T22:48:55+03:00"
 slug: "cadirci-mescidi"
 description: "## Çadırcı Mescidi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mimar Hayrettin"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.965781,41.005215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çadırcı Mescidi

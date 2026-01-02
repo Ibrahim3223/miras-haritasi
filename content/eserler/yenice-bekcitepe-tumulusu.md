@@ -1,18 +1,17 @@
 ---
-title: "Yenice Bekçitepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:57:05+03:00
+title: "Yenice Bekçitepe Tümülüsü"
+date: "2025-12-25T07:57:05+03:00"
 slug: "yenice-bekcitepe-tumulusu"
 description: "## Yenice Bekçitepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6474533,41.7287941"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenice Bekçitepe Tümülüsü

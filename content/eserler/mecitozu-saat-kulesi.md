@@ -1,18 +1,17 @@
 ---
-title: "Mecitözü Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:01+03:00
+title: "Mecitözü Saat Kulesi"
+date: "2025-12-25T17:19:01+03:00"
 slug: "mecitozu-saat-kulesi"
 description: "## Mecitözü Saat Kulesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mecitözü Saat Kulesi

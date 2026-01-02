@@ -1,18 +1,17 @@
 ---
-title: "Hatay Surp Krikor Lusavoriç Kilisesi | Miras Haritası"
-date: 2025-12-25T08:47:29+03:00
+title: "Hatay Surp Krikor Lusavoriç Kilisesi"
+date: "2025-12-25T08:47:29+03:00"
 slug: "hatay-surp-krikor-lusavoric-kilisesi"
 description: "## Hatay Surp Krikor Lusavoriç Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Kırıkhan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.364485,36.497163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatay Surp Krikor Lusavoriç Kilisesi

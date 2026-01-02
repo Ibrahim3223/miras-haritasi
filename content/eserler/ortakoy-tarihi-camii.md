@@ -1,18 +1,17 @@
 ---
-title: "Ortaköy Tarihi Camii | Miras Haritası"
-date: 2025-12-24T21:56:57+03:00
+title: "Ortaköy Tarihi Camii"
+date: "2025-12-24T21:56:57+03:00"
 slug: "ortakoy-tarihi-camii"
 description: "## Ortaköy Tarihi Camii: Bir Ölümsüz Mirasın Tanıtımı..."
 featured_image: ""
 province: "Silivri (ilçe)"
-iller: ["Silivri (ilçe)"]
+iller: '["Silivri (ilçe)"]'
 district: "Ortaköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.37475,41.10125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaköy Tarihi Camii: Bir Ölümsüz Mirasın Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Çağdaş Cam Sanatları Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:55+03:00
+title: "Çağdaş Cam Sanatları Müzesi"
+date: "2025-12-25T03:19:55+03:00"
 slug: "cagdas-cam-sanatlari-muzesi"
 description: "### Çağdaş Cam Sanatları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Camsanatlarimuzesi.jpg/1200px-Camsanatlarimuzesi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.52194444,39.765"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çağdaş Cam Sanatları Müzesi

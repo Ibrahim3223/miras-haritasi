@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, Erzurum | Miras Haritası"
-date: 2025-12-24T23:23:28+03:00
+title: "Kurşunlu Camii, Erzurum"
+date: "2025-12-24T23:23:28+03:00"
 slug: "kursunlu-camii-erzurum"
 description: "### Kurşunlu Camii, Erzurum..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2755318,39.9084816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurşunlu Camii, Erzurum

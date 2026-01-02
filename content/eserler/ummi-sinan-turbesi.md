@@ -1,18 +1,17 @@
 ---
-title: "Ümmi Sinan Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:22+03:00
+title: "Ümmi Sinan Türbesi"
+date: "2025-12-25T14:29:22+03:00"
 slug: "ummi-sinan-turbesi"
 description: "### Ümmi Sinan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9260216,41.047142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ümmi Sinan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Esma Hanım Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:45+03:00
+title: "Esma Hanım Türbesi"
+date: "2025-12-25T15:28:45+03:00"
 slug: "esma-hanim-turbesi"
 description: "## Esma Hanım Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.5550728,38.6870232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esma Hanım Türbesi

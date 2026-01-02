@@ -1,18 +1,17 @@
 ---
-title: "Fultan Hamamı | Miras Haritası"
-date: 2025-12-25T16:59:44+03:00
+title: "Fultan Hamamı"
+date: "2025-12-25T16:59:44+03:00"
 slug: "fultan-hamami"
 description: "## Fulton Hamamı: Bingöl'de Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Bingöl"
-iller: ["Bingöl"]
+iller: '["Bingöl"]'
 district: "Kiğı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.3489723,39.3180084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fulton Hamamı: Bingöl'de Bir Osmanlı Dönemi Eseri

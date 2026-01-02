@@ -1,18 +1,17 @@
 ---
-title: "Sarayakpınar E Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:20:09+03:00
+title: "Sarayakpınar E Tümülüsü"
+date: "2025-12-25T07:20:09+03:00"
 slug: "sarayakpinar-e-tumulusu"
 description: "## Sarayakpınar E Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.4640579,41.7880478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarayakpınar E Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Taşucu Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:20+03:00
+title: "Taşucu Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:22:20+03:00"
 slug: "tasucu-rum-ortodoks-kilisesi"
 description: "## Taşucu Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "33.8820686,36.3197746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşucu Rum Ortodoks Kilisesi

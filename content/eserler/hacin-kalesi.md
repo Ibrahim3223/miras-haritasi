@@ -1,18 +1,17 @@
 ---
-title: "Haçin Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:16+03:00
+title: "Haçin Kalesi"
+date: "2025-12-25T01:33:16+03:00"
 slug: "hacin-kalesi"
 description: "# Haçin Kalesi: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "Adana Vilayeti"
-iller: ["Adana Vilayeti"]
+iller: '["Adana Vilayeti"]'
 district: "Saimbeyli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.092763,37.98529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Haçin Kalesi: Tarihi ve Kültürel Mirası Tanıtımı

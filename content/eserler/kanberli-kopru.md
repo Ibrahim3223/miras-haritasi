@@ -1,18 +1,17 @@
 ---
-title: "Kanberli Köprü | Miras Haritası"
-date: 2025-12-25T02:31:55+03:00
+title: "Kanberli Köprü"
+date: "2025-12-25T02:31:55+03:00"
 slug: "kanberli-kopru"
 description: "## Kanberli Köprü: Gümüşhane'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.46255,40.48286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanberli Köprü: Gümüşhane'nin Tarihi ve Kültürel Mirası

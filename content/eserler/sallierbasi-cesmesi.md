@@ -1,18 +1,17 @@
 ---
-title: "Sallierbaşı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:13:42+03:00
+title: "Sallierbaşı Çeşmesi"
+date: "2025-12-25T10:13:42+03:00"
 slug: "sallierbasi-cesmesi"
 description: "**Sallierbaşı Çeşmesi**..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4719353,40.7334328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sallierbaşı Çeşmesi**

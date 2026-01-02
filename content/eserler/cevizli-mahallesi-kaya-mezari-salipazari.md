@@ -1,18 +1,17 @@
 ---
-title: "Cevizli Mahallesi Kaya Mezarı Salıpazarı | Miras Haritası"
-date: 2025-12-25T13:21:45+03:00
+title: "Cevizli Mahallesi Kaya Mezarı Salıpazarı"
+date: "2025-12-25T13:21:45+03:00"
 slug: "cevizli-mahallesi-kaya-mezari-salipazari"
 description: "### Cevizli Mahallesi Kaya Mezarı Salıpazarı..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Salıpazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.915446,41.042502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cevizli Mahallesi Kaya Mezarı Salıpazarı

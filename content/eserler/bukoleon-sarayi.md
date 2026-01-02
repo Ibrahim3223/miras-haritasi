@@ -1,18 +1,17 @@
 ---
-title: "Bukoleon Sarayı | Miras Haritası"
-date: 2025-12-25T13:13:47+03:00
+title: "Bukoleon Sarayı"
+date: "2025-12-25T13:13:47+03:00"
 slug: "bukoleon-sarayi"
 description: "## Bukoleon Sarayı: İstanbul'un Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bucoleon_March_2008.JPG/1200px-Bucoleon_March_2008.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.97555556,41.0025"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bukoleon Sarayı: İstanbul'un Gizli Çehresini Keşfetmek

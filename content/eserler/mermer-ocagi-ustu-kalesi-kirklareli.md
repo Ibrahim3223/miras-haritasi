@@ -1,18 +1,17 @@
 ---
-title: "Mermer Ocağı Üstü Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:48:43+03:00
+title: "Mermer Ocağı Üstü Kalesi, Kırklareli"
+date: "2025-12-25T01:48:43+03:00"
 slug: "mermer-ocagi-ustu-kalesi-kirklareli"
 description: "## Mermer Ocağı Üstü Kalesi: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5102959,41.8675652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mermer Ocağı Üstü Kalesi: Kırklareli'nin Gizli Mirası

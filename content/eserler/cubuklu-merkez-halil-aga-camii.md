@@ -1,18 +1,17 @@
 ---
-title: "Çubuklu Merkez Halil Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:51:56+03:00
+title: "Çubuklu Merkez Halil Ağa Camii"
+date: "2025-12-24T22:51:56+03:00"
 slug: "cubuklu-merkez-halil-aga-camii"
 description: "## Çubuklu Merkez Halil Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0821493,41.1067756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çubuklu Merkez Halil Ağa Camii

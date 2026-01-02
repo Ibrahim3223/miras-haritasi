@@ -1,18 +1,17 @@
 ---
-title: "Meryem Ana Süryani Kadim Kilisesi | Miras Haritası"
-date: 2025-12-25T08:55:02+03:00
+title: "Meryem Ana Süryani Kadim Kilisesi"
+date: "2025-12-25T08:55:02+03:00"
 slug: "meryem-ana-suryani-kadim-kilisesi"
 description: "**Meryem Ana Süryani Kadim Kilisesi**..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.23059,37.908979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Meryem Ana Süryani Kadim Kilisesi**

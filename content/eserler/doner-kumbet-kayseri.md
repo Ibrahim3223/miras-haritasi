@@ -1,18 +1,17 @@
 ---
-title: "Döner Kümbet, Kayseri | Miras Haritası"
-date: 2025-12-25T13:56:58+03:00
+title: "Döner Kümbet, Kayseri"
+date: "2025-12-25T13:56:58+03:00"
 slug: "doner-kumbet-kayseri"
 description: "## Döner Kümbet, Kayseri: Bir Önemli Anıtın Tanımı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.495919,38.714035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Döner Kümbet, Kayseri: Bir Önemli Anıtın Tanımı

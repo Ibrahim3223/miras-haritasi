@@ -1,18 +1,18 @@
 ---
-title: "Süleyman Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:28:37+03:00
+title: "Süleyman Ağa Çeşmesi"
+date: "2025-12-25T11:28:37+03:00"
 slug: "suleyman-aga-cesmesi"
 description: "### Süleyman Ağa Çeşmesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Süleyman_Ağa_Çeşmesi.jpg/1200px-Süleyman_Ağa_Çeşmesi.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Havran"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.0982647,39.5574799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Süleyman_Ağa_Çeşmesi.jpg/1200px-Süleyman_Ağa_Çeşmesi.jpg"
 ---
 
 ### Süleyman Ağa Çeşmesi

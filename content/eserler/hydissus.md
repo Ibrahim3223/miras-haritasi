@@ -1,18 +1,17 @@
 ---
-title: "Hydissus | Miras Haritası"
-date: 2025-12-25T08:06:59+03:00
+title: "Hydissus"
+date: "2025-12-25T08:06:59+03:00"
 slug: "hydissus"
 description: "## Hydissus: Milas'taki Antik Bir Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.811477,37.138837"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hydissus: Milas'taki Antik Bir Sit

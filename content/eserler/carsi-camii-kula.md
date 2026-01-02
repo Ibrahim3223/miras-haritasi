@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Kula | Miras Haritası"
-date: 2025-12-25T00:02:14+03:00
+title: "Çarşı Camii, Kula"
+date: "2025-12-25T00:02:14+03:00"
 slug: "carsi-camii-kula"
 description: "# Çarşı Camii: Tarihi ve Kültürel Mirası Tanımlama..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6467266,38.5460052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çarşı Camii: Tarihi ve Kültürel Mirası Tanımlama

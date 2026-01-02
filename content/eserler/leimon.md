@@ -1,18 +1,17 @@
 ---
-title: "Leimon | Miras Haritası"
-date: 2025-12-25T05:04:34+03:00
+title: "Leimon"
+date: "2025-12-25T05:04:34+03:00"
 slug: "leimon"
 description: "# Leimon Arkeolojik Sit..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.109996,37.926519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Leimon Arkeolojik Sit

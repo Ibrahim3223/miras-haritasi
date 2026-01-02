@@ -1,18 +1,17 @@
 ---
-title: "Fatih İbrahim Bey Camii | Miras Haritası"
-date: 2025-12-24T23:03:10+03:00
+title: "Fatih İbrahim Bey Camii"
+date: "2025-12-24T23:03:10+03:00"
 slug: "fatih-ibrahim-bey-camii"
 description: "## Fatih İbrahim Bey Camii: İzmir'in Tarihi ve Kültürel Kıymeti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7671871,38.3206863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih İbrahim Bey Camii: İzmir'in Tarihi ve Kültürel Kıymeti

@@ -1,18 +1,17 @@
 ---
-title: "Kevgürk Kalesi | Miras Haritası"
-date: 2025-12-25T07:15:47+03:00
+title: "Kevgürk Kalesi"
+date: "2025-12-25T07:15:47+03:00"
 slug: "kevgurk-kalesi"
 description: "## Kevgürk Kalesi: Akkuş'un Tarihî Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Akkuş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.848388888,40.784083333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kevgürk Kalesi: Akkuş'un Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kelime Müzesi | Miras Haritası"
-date: 2025-12-25T04:08:18+03:00
+title: "Kelime Müzesi"
+date: "2025-12-25T04:08:18+03:00"
 slug: "kelime-muzesi"
 description: "### Kelime Müzesi: Dilin Ve Kültürün Ölümsüz Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kelime_Müzesi_110.jpg/1200px-Kelime_Müzesi_110.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kelime Müzesi: Dilin Ve Kültürün Ölümsüz Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Aigaionos Anıtı | Miras Haritası"
-date: 2025-12-25T15:45:16+03:00
+title: "Aigaionos Anıtı"
+date: "2025-12-25T15:45:16+03:00"
 slug: "aigaionos-aniti"
 description: "### Aigaionos Anıtı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3954201,40.3458633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aigaionos Anıtı

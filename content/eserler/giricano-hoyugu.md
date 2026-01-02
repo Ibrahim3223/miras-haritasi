@@ -1,18 +1,17 @@
 ---
-title: "Giricano Höyüğü | Miras Haritası"
-date: 2025-12-25T07:04:16+03:00
+title: "Giricano Höyüğü"
+date: "2025-12-25T07:04:16+03:00"
 slug: "giricano-hoyugu"
 description: "## Giricano Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.7498665,37.8169594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Giricano Höyüğü

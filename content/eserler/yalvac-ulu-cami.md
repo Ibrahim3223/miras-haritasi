@@ -1,18 +1,17 @@
 ---
-title: "Yalvaç Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:05:53+03:00
+title: "Yalvaç Ulu Cami"
+date: "2025-12-24T23:05:53+03:00"
 slug: "yalvac-ulu-cami"
 description: "### Yalvaç Ulu Cami..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Yalvaç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.1799221,38.2956123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yalvaç Ulu Cami

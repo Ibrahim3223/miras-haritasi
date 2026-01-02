@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Alibey Hamamı | Miras Haritası"
-date: 2025-12-25T16:28:09+03:00
+title: "Mehmet Alibey Hamamı"
+date: "2025-12-25T16:28:09+03:00"
 slug: "mehmet-alibey-hamami"
 description: "## Mehmet Alibey Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.019621,39.7541264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Alibey Hamamı

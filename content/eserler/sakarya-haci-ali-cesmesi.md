@@ -1,18 +1,17 @@
 ---
-title: "Sakarya Hacı Ali Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:01+03:00
+title: "Sakarya Hacı Ali Çeşmesi"
+date: "2025-12-25T10:12:01+03:00"
 slug: "sakarya-haci-ali-cesmesi"
 description: "## Sakarya Hacı Ali Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4658813,40.737072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarya Hacı Ali Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Çetinkaya Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:16+03:00
+title: "Çetinkaya Köprüsü"
+date: "2025-12-25T02:12:16+03:00"
 slug: "cetinkaya-koprusu"
 description: "## Çetinkaya Köprüsü: Samsun'un Tarihi ve Kültürel Değerleri Arasındaki Önemli Köprü..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Bafra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.881171,41.567294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çetinkaya Köprüsü: Samsun'un Tarihi ve Kültürel Değerleri Arasındaki Önemli Köprü

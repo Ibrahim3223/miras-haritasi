@@ -1,18 +1,17 @@
 ---
-title: "Unkapanı Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:20+03:00
+title: "Unkapanı Sinagogu"
+date: "2025-12-25T16:12:20+03:00"
 slug: "unkapani-sinagogu"
 description: "# Unkapanı Sinagogu: İstanbul'un Gizli Tarihi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cibali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.961333333,41.023638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Unkapanı Sinagogu: İstanbul'un Gizli Tarihi

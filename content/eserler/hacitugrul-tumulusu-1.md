@@ -1,18 +1,17 @@
 ---
-title: "Hacıtuğrul Tümülüsü 1 | Miras Haritası"
-date: 2025-12-25T07:56:09+03:00
+title: "Hacıtuğrul Tümülüsü 1"
+date: "2025-12-25T07:56:09+03:00"
 slug: "hacitugrul-tumulusu-1"
 description: "## Hacıtuğrul Tümülüsü 1: Polatlı'nın Gizli Kutsalı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.246624,39.7105827"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıtuğrul Tümülüsü 1: Polatlı'nın Gizli Kutsalı

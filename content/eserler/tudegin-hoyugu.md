@@ -1,18 +1,17 @@
 ---
-title: "Tudeğin Höyüğü | Miras Haritası"
-date: 2025-12-25T06:36:22+03:00
+title: "Tudeğin Höyüğü"
+date: "2025-12-25T06:36:22+03:00"
 slug: "tudegin-hoyugu"
 description: "## Tudeğin Höyüğü: Kahramanmaraş'ın Gizli Cenneti..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.0209805,38.283604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tudeğin Höyüğü: Kahramanmaraş'ın Gizli Cenneti

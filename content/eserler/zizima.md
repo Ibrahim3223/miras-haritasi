@@ -1,18 +1,17 @@
 ---
-title: "Zizima | Miras Haritası"
-date: 2025-12-25T05:20:03+03:00
+title: "Zizima"
+date: "2025-12-25T05:20:03+03:00"
 slug: "zizima"
 description: "## Zizima Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.401806,38.089908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zizima Arkeolojik Sit

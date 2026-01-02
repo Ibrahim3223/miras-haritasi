@@ -1,18 +1,17 @@
 ---
-title: "Hamzalı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:20:28+03:00
+title: "Hamzalı Höyüğü"
+date: "2025-12-25T06:20:28+03:00"
 slug: "hamzali-hoyugu"
 description: "### Hamzalı Höyük: Yozgat'ta Gizemli Bir Miras..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yerköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6842751,39.6378211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamzalı Höyük: Yozgat'ta Gizemli Bir Miras

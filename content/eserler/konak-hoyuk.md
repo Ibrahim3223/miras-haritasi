@@ -1,18 +1,17 @@
 ---
-title: "Konak Höyük | Miras Haritası"
-date: 2025-12-25T06:03:24+03:00
+title: "Konak Höyük"
+date: "2025-12-25T06:03:24+03:00"
 slug: "konak-hoyuk"
 description: "### Konak Höyük: Çankırı'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.6345291,40.3866959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Konak Höyük: Çankırı'nın Gizli Kahramanı

@@ -1,18 +1,17 @@
 ---
-title: "Bakırtepe Camii | Miras Haritası"
-date: 2025-12-25T00:56:39+03:00
+title: "Bakırtepe Camii"
+date: "2025-12-25T00:56:39+03:00"
 slug: "bakirtepe-camii"
 description: "**Bakırtepe Camii: Artvin'in Tarihi ve Kültürel Mirasının Bir Parçası**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4576671,40.6591192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bakırtepe Camii: Artvin'in Tarihi ve Kültürel Mirasının Bir Parçası**

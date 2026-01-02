@@ -1,18 +1,17 @@
 ---
-title: "Fatma Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:36:19+03:00
+title: "Fatma Sultan Türbesi"
+date: "2025-12-25T14:36:19+03:00"
 slug: "fatma-sultan-turbesi"
 description: "## Fatma Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9578094,41.0131836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatma Sultan Türbesi

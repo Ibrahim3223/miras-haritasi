@@ -1,18 +1,17 @@
 ---
-title: "Ayios Nikolaos Ayazması | Miras Haritası"
-date: 2025-12-25T12:42:19+03:00
+title: "Ayios Nikolaos Ayazması"
+date: "2025-12-25T12:42:19+03:00"
 slug: "ayios-nikolaos-ayazmasi"
 description: "### Ayios Nikolaos Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0356522,41.0680771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Nikolaos Ayazması

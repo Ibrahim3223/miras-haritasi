@@ -1,18 +1,17 @@
 ---
-title: "Apollonia Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:21:01+03:00
+title: "Apollonia Antik Tiyatrosu"
+date: "2025-12-25T16:21:01+03:00"
 slug: "apollonia-antik-tiyatrosu"
 description: "### Apollonia Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "29.7632961,36.1866951"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Apollonia Antik Tiyatrosu

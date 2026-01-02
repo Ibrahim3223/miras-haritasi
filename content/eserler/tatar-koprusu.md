@@ -1,18 +1,17 @@
 ---
-title: "Tatar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:30+03:00
+title: "Tatar Köprüsü"
+date: "2025-12-25T02:42:30+03:00"
 slug: "tatar-koprusu"
 description: "## Tatar Köprüsü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.5918522,38.2776833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatar Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

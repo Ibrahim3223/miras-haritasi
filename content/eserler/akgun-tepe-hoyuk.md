@@ -1,18 +1,17 @@
 ---
-title: "Akgün Tepe Höyük | Miras Haritası"
-date: 2025-12-25T13:44:18+03:00
+title: "Akgün Tepe Höyük"
+date: "2025-12-25T13:44:18+03:00"
 slug: "akgun-tepe-hoyuk"
 description: "**Akgün Tepe Höyük: Afyonkarahisar'da Bir Ören Yeri**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.212767,38.118017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akgün Tepe Höyük: Afyonkarahisar'da Bir Ören Yeri**

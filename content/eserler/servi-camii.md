@@ -1,18 +1,17 @@
 ---
-title: "Servi Camii | Miras Haritası"
-date: 2025-12-24T23:05:24+03:00
+title: "Servi Camii"
+date: "2025-12-24T23:05:24+03:00"
 slug: "servi-camii"
 description: "## Servi Camii: Kütahya'da Bir Tarihî Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kütahya"
+province: "Kütahya"
+iller: '["Kütahya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9814644,39.41996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Servi Camii: Kütahya'da Bir Tarihî Miras

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Karacami | Miras Haritası"
-date: 2025-12-25T02:58:08+03:00
+title: "Roma Köprüsü, Karacami"
+date: "2025-12-25T02:58:08+03:00"
 slug: "roma-koprusu-karacami"
 description: "## Roma Köprüsü, Karacami..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Payas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.203979,36.752819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Karacami

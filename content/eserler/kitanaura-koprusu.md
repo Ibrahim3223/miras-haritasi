@@ -1,18 +1,17 @@
 ---
-title: "Kitanaura Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:15+03:00
+title: "Kitanaura Köprüsü"
+date: "2025-12-25T02:30:15+03:00"
 slug: "kitanaura-koprusu"
 description: "## Kitanaura Köprüsü..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.3638992,36.6469002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kitanaura Köprüsü

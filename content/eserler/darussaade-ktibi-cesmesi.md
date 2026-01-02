@@ -1,18 +1,17 @@
 ---
-title: "Darüssaade Kâtibi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:40+03:00
+title: "Darüssaade Kâtibi Çeşmesi"
+date: "2025-12-25T10:56:40+03:00"
 slug: "darussaade-ktibi-cesmesi"
 description: "## Darüssaade Kâtibi Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0809937,40.1806374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darüssaade Kâtibi Çeşmesi

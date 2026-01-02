@@ -1,18 +1,17 @@
 ---
-title: "İskender Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:14+03:00
+title: "İskender Paşa Camii Çeşmesi"
+date: "2025-12-25T11:03:14+03:00"
 slug: "iskender-pasa-camii-cesmesi"
 description: "## İskender Paşa Camii Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.948231,41.016525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskender Paşa Camii Çeşmesi

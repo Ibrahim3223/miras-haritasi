@@ -1,18 +1,17 @@
 ---
-title: "Osmaniye Hamidiye Camii | Miras Haritası"
-date: 2025-12-25T00:36:48+03:00
+title: "Osmaniye Hamidiye Camii"
+date: "2025-12-25T00:36:48+03:00"
 slug: "osmaniye-hamidiye-camii"
 description: "## Osmaniye Hamidiye Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.883881929,40.993667168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmaniye Hamidiye Camii

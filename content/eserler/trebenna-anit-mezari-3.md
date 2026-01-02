@@ -1,18 +1,17 @@
 ---
-title: "Trebenna Anıt Mezarı 3 | Miras Haritası"
-date: 2025-12-25T14:05:46+03:00
+title: "Trebenna Anıt Mezarı 3"
+date: "2025-12-25T14:05:46+03:00"
 slug: "trebenna-anit-mezari-3"
 description: "## Trebenna Anıt Mezarı 3: Antalya'nın Gizli Çekegiti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4778118,36.8639107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Trebenna Anıt Mezarı 3: Antalya'nın Gizli Çekegiti

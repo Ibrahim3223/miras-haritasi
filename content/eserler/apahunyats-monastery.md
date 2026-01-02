@@ -1,18 +1,17 @@
 ---
-title: "Apahunyats monastery | Miras Haritası"
-date: 2025-12-25T09:49:15+03:00
+title: "Apahunyats monastery"
+date: "2025-12-25T09:49:15+03:00"
 slug: "apahunyats-monastery"
 description: "## Apahunyats Manastırı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apahunyats Manastırı

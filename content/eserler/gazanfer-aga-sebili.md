@@ -1,18 +1,17 @@
 ---
-title: "Gazanfer Ağa Sebili | Miras Haritası"
-date: 2025-12-25T13:07:29+03:00
+title: "Gazanfer Ağa Sebili"
+date: "2025-12-25T13:07:29+03:00"
 slug: "gazanfer-aga-sebili"
 description: "## Gazanfer Ağa Sebili: İstanbul'un Gözde Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.955633,41.016384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazanfer Ağa Sebili: İstanbul'un Gözde Çeşmesi

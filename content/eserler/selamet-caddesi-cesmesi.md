@@ -1,18 +1,17 @@
 ---
-title: "Selamet Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:26+03:00
+title: "Selamet Caddesi Çeşmesi"
+date: "2025-12-25T11:01:26+03:00"
 slug: "selamet-caddesi-cesmesi"
 description: "## Selamet Caddesi Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6578388,39.3336105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selamet Caddesi Çeşmesi

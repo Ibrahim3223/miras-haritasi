@@ -1,18 +1,17 @@
 ---
-title: "Altıntepe | Miras Haritası"
-date: 2025-12-25T06:47:34+03:00
+title: "Altıntepe"
+date: "2025-12-25T06:47:34+03:00"
 slug: "altintepe"
 description: "### Altıntepe: Erzincan'ın Gizli Tarihçesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Altintepe-apadanaW.jpg/1200px-Altintepe-apadanaW.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.646625,39.69654167"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Altıntepe: Erzincan'ın Gizli Tarihçesi

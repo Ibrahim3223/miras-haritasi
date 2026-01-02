@@ -1,18 +1,17 @@
 ---
-title: "Kınıklıdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:36+03:00
+title: "Kınıklıdere Köprüsü"
+date: "2025-12-25T02:24:36+03:00"
 slug: "kiniklidere-koprusu"
 description: "### Kınıklıdere Köprüsü: Tekirdağ'ın Tarihi Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.977551,41.096561"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kınıklıdere Köprüsü: Tekirdağ'ın Tarihi Mirası

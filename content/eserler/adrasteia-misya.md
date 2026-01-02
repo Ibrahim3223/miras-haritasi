@@ -1,18 +1,17 @@
 ---
-title: "Adrasteia (Misya) | Miras Haritası"
-date: 2025-12-25T06:57:15+03:00
+title: "Adrasteia (Misya)"
+date: "2025-12-25T06:57:15+03:00"
 slug: "adrasteia-misya"
 description: "## Adrasteia (Misya): Geçmişin Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.268273,40.39198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adrasteia (Misya): Geçmişin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Çeş Tepesi | Miras Haritası"
-date: 2025-12-25T06:32:55+03:00
+title: "Çeş Tepesi"
+date: "2025-12-25T06:32:55+03:00"
 slug: "ces-tepesi"
 description: "## Çeş Tepesi: Alaşehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.4889721,38.3528472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeş Tepesi: Alaşehir'in Tarihi ve Kültürel Mirası

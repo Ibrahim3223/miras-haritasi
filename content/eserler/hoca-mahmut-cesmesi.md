@@ -1,18 +1,17 @@
 ---
-title: "Hoca Mahmut Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:24+03:00
+title: "Hoca Mahmut Çeşmesi"
+date: "2025-12-25T10:23:24+03:00"
 slug: "hoca-mahmut-cesmesi"
 description: "## Hoca Mahmut Çeşmesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.2237854,37.1796913"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Mahmut Çeşmesi

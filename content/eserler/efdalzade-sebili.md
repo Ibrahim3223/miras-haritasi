@@ -1,18 +1,17 @@
 ---
-title: "Efdalzade Sebili | Miras Haritası"
-date: 2025-12-25T13:07:41+03:00
+title: "Efdalzade Sebili"
+date: "2025-12-25T13:07:41+03:00"
 slug: "efdalzade-sebili"
 description: "### Efdalzade Sebili: İstanbul'un Gizli Çeşme Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9441109,41.0245819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Efdalzade Sebili: İstanbul'un Gizli Çeşme Harikası

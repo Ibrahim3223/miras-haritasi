@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Buldan | Miras Haritası"
-date: 2025-12-24T23:55:49+03:00
+title: "Çarşı Camii, Buldan"
+date: "2025-12-24T23:55:49+03:00"
 slug: "carsi-camii-buldan"
 description: "## Çarşı Camii, Buldan..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Buldan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8276424,38.0468521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Buldan

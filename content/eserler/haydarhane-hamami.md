@@ -1,18 +1,17 @@
 ---
-title: "Haydarhane Hamamı | Miras Haritası"
-date: 2025-12-25T16:33:51+03:00
+title: "Haydarhane Hamamı"
+date: "2025-12-25T16:33:51+03:00"
 slug: "haydarhane-hamami"
 description: "### Haydarhane Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0580779,40.178647"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haydarhane Hamamı

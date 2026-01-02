@@ -1,18 +1,17 @@
 ---
-title: "Alaçam Mübadele Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:17+03:00
+title: "Alaçam Mübadele Müzesi"
+date: "2025-12-25T03:26:17+03:00"
 slug: "alacam-mubadele-muzesi"
 description: "## Alaçam Mübadele Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.596944444,41.605555555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaçam Mübadele Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Pytheion | Miras Haritası"
-date: 2025-12-25T04:44:25+03:00
+title: "Pytheion"
+date: "2025-12-25T04:44:25+03:00"
 slug: "pytheion"
 description: "# Pytheion: Antik Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.223869,40.60388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pytheion: Antik Bir Arkeolojik Sit

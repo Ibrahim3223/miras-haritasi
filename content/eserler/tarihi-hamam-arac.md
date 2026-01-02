@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Hamam, Araç | Miras Haritası"
-date: 2025-12-25T16:56:33+03:00
+title: "Tarihi Hamam, Araç"
+date: "2025-12-25T16:56:33+03:00"
 slug: "tarihi-hamam-arac"
 description: "## Tarihi Hamam, Araç..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Araç"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.3210831,41.2398224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Hamam, Araç

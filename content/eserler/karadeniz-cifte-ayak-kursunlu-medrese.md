@@ -1,18 +1,17 @@
 ---
-title: "Karadeniz Çifte Ayak Kurşunlu Medrese | Miras Haritası"
-date: 2025-12-25T17:39:51+03:00
+title: "Karadeniz Çifte Ayak Kurşunlu Medrese"
+date: "2025-12-25T17:39:51+03:00"
 slug: "karadeniz-cifte-ayak-kursunlu-medrese"
 description: "## Karadeniz Çifte Ayak Kurşunlu Medrese..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9507351,41.020565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadeniz Çifte Ayak Kurşunlu Medrese

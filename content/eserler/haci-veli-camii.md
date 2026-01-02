@@ -1,18 +1,17 @@
 ---
-title: "Hacı Veli Camii | Miras Haritası"
-date: 2025-12-24T23:27:53+03:00
+title: "Hacı Veli Camii"
+date: "2025-12-24T23:27:53+03:00"
 slug: "haci-veli-camii"
 description: "## Hacı Veli Camii: Gaziantep'te Bir Tarihî Çanak..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3859863,37.0606346"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Veli Camii: Gaziantep'te Bir Tarihî Çanak

@@ -1,18 +1,17 @@
 ---
-title: "Koçaş Höyük | Miras Haritası"
-date: 2025-12-25T06:26:58+03:00
+title: "Koçaş Höyük"
+date: "2025-12-25T06:26:58+03:00"
 slug: "kocas-hoyuk"
 description: "## Koçaş Höyük: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8444066,38.4728528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koçaş Höyük: Aksaray'ın Gizli Kahramanı

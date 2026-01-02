@@ -1,18 +1,17 @@
 ---
-title: "Kirmasti Medresesi | Miras Haritası"
-date: 2025-12-25T17:40:24+03:00
+title: "Kirmasti Medresesi"
+date: "2025-12-25T17:40:24+03:00"
 slug: "kirmasti-medresesi"
 description: "## Kirmasti Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9582939,41.0156593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kirmasti Medresesi

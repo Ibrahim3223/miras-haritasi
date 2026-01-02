@@ -1,18 +1,17 @@
 ---
-title: "Muhterem Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:24+03:00
+title: "Muhterem Efendi Türbesi"
+date: "2025-12-25T14:26:24+03:00"
 slug: "muhterem-efendi-turbesi"
 description: "## Muhterem Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.977172,41.008751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muhterem Efendi Türbesi

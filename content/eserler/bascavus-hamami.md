@@ -1,18 +1,17 @@
 ---
-title: "Başçavuş Hamamı | Miras Haritası"
-date: 2025-12-25T17:01:48+03:00
+title: "Başçavuş Hamamı"
+date: "2025-12-25T17:01:48+03:00"
 slug: "bascavus-hamami"
 description: "## Başçavuş Hamamı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.8058243,39.8241463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başçavuş Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Orta Camii | Miras Haritası"
-date: 2025-12-24T23:51:53+03:00
+title: "Orta Camii"
+date: "2025-12-24T23:51:53+03:00"
 slug: "orta-camii"
 description: "## Orta Camii: Sakarya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.4014606,40.7796021"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Camii: Sakarya'nın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Yazır Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:31:18+03:00
+title: "Yazır Köyü Çeşmesi"
+date: "2025-12-25T12:31:18+03:00"
 slug: "yazir-koyu-cesmesi"
 description: "## Yazır Köyü Çeşmesi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.975081,40.184398"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yazır Köyü Çeşmesi: Ankara'nın Gizli Cenneti

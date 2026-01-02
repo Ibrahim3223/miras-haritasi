@@ -1,18 +1,17 @@
 ---
-title: "Sakıp Sabancı Müzesi | Miras Haritası"
-date: 2025-12-25T04:09:28+03:00
+title: "Sakıp Sabancı Müzesi"
+date: "2025-12-25T04:09:28+03:00"
 slug: "sakip-sabanci-muzesi"
 description: "## Sakıp Sabancı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dali-at-Sabanci-museum.jpg/1200px-Dali-at-Sabanci-museum.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.053704,41.099116"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sakıp Sabancı Müzesi

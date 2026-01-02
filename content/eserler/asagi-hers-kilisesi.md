@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Hers Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:45+03:00
+title: "Aşağı Hers Kilisesi"
+date: "2025-12-25T09:04:45+03:00"
 slug: "asagi-hers-kilisesi"
 description: "## Aşağı Hers Kilisesi: Bir Geçmişi Yansıtan Ünlü Yer..."
 featured_image: ""
 province: "Yusufeli"
-iller: ["Yusufeli"]
+iller: '["Yusufeli"]'
 district: "Kirazalan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.811941666,40.921158333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Hers Kilisesi: Bir Geçmişi Yansıtan Ünlü Yer

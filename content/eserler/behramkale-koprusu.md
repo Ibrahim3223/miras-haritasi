@@ -1,18 +1,17 @@
 ---
-title: "Behramkale Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:42+03:00
+title: "Behramkale Köprüsü"
+date: "2025-12-25T02:26:42+03:00"
 slug: "behramkale-koprusu"
 description: "## Behramkale Köprüsü: Ayvacık'ta Bir Geçit Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.3329337,39.4988166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Behramkale Köprüsü: Ayvacık'ta Bir Geçit Köprüsü

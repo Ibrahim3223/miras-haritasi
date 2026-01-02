@@ -1,18 +1,17 @@
 ---
-title: "Avcı Bey Camii | Miras Haritası"
-date: 2025-12-24T22:48:16+03:00
+title: "Avcı Bey Camii"
+date: "2025-12-24T22:48:16+03:00"
 slug: "avci-bey-camii"
 description: "## Avcı Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Avcı_Bey_Camii.jpg/1200px-Avcı_Bey_Camii.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9398022,41.0354118"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Avcı Bey Camii

@@ -1,18 +1,17 @@
 ---
-title: "Üçharman Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:57+03:00
+title: "Üçharman Köprüsü"
+date: "2025-12-25T02:44:57+03:00"
 slug: "ucharman-koprusu"
 description: "## Üçharman Köprüsü..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ayrancı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.8124237,37.2857933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçharman Köprüsü

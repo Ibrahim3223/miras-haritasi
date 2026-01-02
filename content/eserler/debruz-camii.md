@@ -1,18 +1,17 @@
 ---
-title: "Debruz Camii | Miras Haritası"
-date: 2025-12-24T22:32:51+03:00
+title: "Debruz Camii"
+date: "2025-12-24T22:32:51+03:00"
 slug: "debruz-camii"
 description: "### Debruz Camii: Antakya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1657715,36.2027512"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Debruz Camii: Antakya'nın Tarihi Bir Mirası

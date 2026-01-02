@@ -1,18 +1,17 @@
 ---
-title: "Kapaklı Soğuksu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:46:42+03:00
+title: "Kapaklı Soğuksu Tümülüsü"
+date: "2025-12-25T07:46:42+03:00"
 slug: "kapakli-soguksu-tumulusu"
 description: "### Kapaklı Soğuksu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3234653,41.9056473"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kapaklı Soğuksu Tümülüsü

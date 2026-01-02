@@ -1,18 +1,17 @@
 ---
-title: "Abuzer Gaffari Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:38+03:00
+title: "Abuzer Gaffari Türbesi"
+date: "2025-12-25T14:50:38+03:00"
 slug: "abuzer-gaffari-turbesi"
 description: "## Abuzer Gaffari Türbesi..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.1631203,37.7575798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abuzer Gaffari Türbesi

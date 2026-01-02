@@ -1,18 +1,17 @@
 ---
-title: "Küp Çeşme, Bayındır | Miras Haritası"
-date: 2025-12-25T12:55:00+03:00
+title: "Küp Çeşme, Bayındır"
+date: "2025-12-25T12:55:00+03:00"
 slug: "kup-cesme-bayindir"
 description: "## Küp Çeşme, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6437149,38.2245789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küp Çeşme, Bayındır

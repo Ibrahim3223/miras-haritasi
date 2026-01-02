@@ -1,18 +1,17 @@
 ---
-title: "Saraçlar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:32:38+03:00
+title: "Saraçlar Çeşmesi"
+date: "2025-12-25T12:32:38+03:00"
 slug: "saraclar-cesmesi"
 description: "## Saraçlar Çeşmesi: Kadıköy'ün Tarihi Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.028116489,41.002826978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraçlar Çeşmesi: Kadıköy'ün Tarihi Parçası

@@ -1,18 +1,17 @@
 ---
-title: "Hakemi Use Tepe | Miras Haritası"
-date: 2025-12-25T08:14:47+03:00
+title: "Hakemi Use Tepe"
+date: "2025-12-25T08:14:47+03:00"
 slug: "hakemi-use-tepe"
 description: "**Hakemi Use Tepe: Diyarbakır'ın Gizli Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.7426529,37.8029175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hakemi Use Tepe: Diyarbakır'ın Gizli Mirası**

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmed Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:20:47+03:00
+title: "Hacı Mehmed Çeşmesi"
+date: "2025-12-25T10:20:47+03:00"
 slug: "haci-mehmed-cesmesi"
 description: "## Hacı Mehmed Çeşmesi: Gelibolu'da Bir Tarih Örneği..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6723366,40.4090652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mehmed Çeşmesi: Gelibolu'da Bir Tarih Örneği

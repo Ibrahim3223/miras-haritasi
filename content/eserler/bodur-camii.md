@@ -1,18 +1,17 @@
 ---
-title: "Bodur Camii | Miras Haritası"
-date: 2025-12-24T22:25:54+03:00
+title: "Bodur Camii"
+date: "2025-12-24T22:25:54+03:00"
 slug: "bodur-camii"
 description: "### Sivrihisar'ın Bodur Camii: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5338993,39.4505005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sivrihisar'ın Bodur Camii: Eskişehir'in Gizli Cenneti

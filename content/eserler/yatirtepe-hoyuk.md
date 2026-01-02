@@ -1,18 +1,17 @@
 ---
-title: "Yatırtepe Höyük | Miras Haritası"
-date: 2025-12-25T06:31:59+03:00
+title: "Yatırtepe Höyük"
+date: "2025-12-25T06:31:59+03:00"
 slug: "yatirtepe-hoyuk"
 description: "# Yatırtepe Höyük: Tarihçe ve Kültürel Miras..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Suruç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3792073,36.9714691"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yatırtepe Höyük: Tarihçe ve Kültürel Miras

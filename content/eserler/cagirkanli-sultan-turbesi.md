@@ -1,18 +1,17 @@
 ---
-title: "Çağırkanlı Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:31+03:00
+title: "Çağırkanlı Sultan Türbesi"
+date: "2025-12-25T15:15:31+03:00"
 slug: "cagirkanli-sultan-turbesi"
 description: "# Çağırkanlı Sultan Türbesi..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.226244,40.267012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çağırkanlı Sultan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Eudocia | Miras Haritası"
-date: 2025-12-25T04:32:31+03:00
+title: "Eudocia"
+date: "2025-12-25T04:32:31+03:00"
 slug: "eudocia"
 description: "## Eudocia: Antik Liman Şehirinin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eudocia: Antik Liman Şehirinin Gizemi

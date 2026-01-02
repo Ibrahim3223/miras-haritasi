@@ -1,18 +1,17 @@
 ---
-title: "Seyda Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:29+03:00
+title: "Seyda Köprüsü"
+date: "2025-12-25T02:14:29+03:00"
 slug: "seyda-koprusu"
 description: "## Seyda Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Bulanık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.0374985,39.1226006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyda Köprüsü: Tarihi ve Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Tevfik Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:41+03:00
+title: "Mehmet Tevfik Efendi Çeşmesi"
+date: "2025-12-25T10:33:41+03:00"
 slug: "mehmet-tevfik-efendi-cesmesi"
 description: "## Mehmet Tevfik Efendi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mevlanakapı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.924305,41.00948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Tevfik Efendi Çeşmesi

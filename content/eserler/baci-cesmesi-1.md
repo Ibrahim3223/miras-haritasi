@@ -1,18 +1,17 @@
 ---
-title: "Bacı Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:24:35+03:00
+title: "Bacı Çeşmesi 1"
+date: "2025-12-25T10:24:35+03:00"
 slug: "baci-cesmesi-1"
 description: "## Bacı Çeşmesi 1: Sincan'ın Tarih Özellikli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.2896576,39.7875633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bacı Çeşmesi 1: Sincan'ın Tarih Özellikli Çeşmesi

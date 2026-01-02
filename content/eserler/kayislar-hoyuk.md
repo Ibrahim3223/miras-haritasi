@@ -1,18 +1,17 @@
 ---
-title: "Kayışlar Höyük | Miras Haritası"
-date: 2025-12-25T05:52:18+03:00
+title: "Kayışlar Höyük"
+date: "2025-12-25T05:52:18+03:00"
 slug: "kayislar-hoyuk"
 description: "## Kayışlar Höyük: Geçmişi ve Kültürel Mirası..."
 featured_image: ""
 province: "Saruhanlı (ilçe)"
-iller: ["Saruhanlı (ilçe)"]
+iller: '["Saruhanlı (ilçe)"]'
 district: "Kayışlar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.706317,38.855117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayışlar Höyük: Geçmişi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sayrakçı Kalesi | Miras Haritası"
-date: 2025-12-25T01:18:59+03:00
+title: "Sayrakçı Kalesi"
+date: "2025-12-25T01:18:59+03:00"
 slug: "sayrakci-kalesi"
 description: "## Sayrakçı Kalesi: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5165653,37.6219521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sayrakçı Kalesi: Aydın'ın Gizli Cenneti

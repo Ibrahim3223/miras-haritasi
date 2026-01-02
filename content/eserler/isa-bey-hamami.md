@@ -1,18 +1,17 @@
 ---
-title: "İsa Bey Hamamı | Miras Haritası"
-date: 2025-12-25T07:12:17+03:00
+title: "İsa Bey Hamamı"
+date: "2025-12-25T07:12:17+03:00"
 slug: "isa-bey-hamami"
 description: "### İsa Bey Hamamı: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Selcuk-Hamam.JPG/1200px-Selcuk-Hamam.JPG"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.36541667,37.95111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İsa Bey Hamamı: Tarihî Bir Mirasın Gizemi

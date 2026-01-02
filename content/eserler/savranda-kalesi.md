@@ -1,18 +1,17 @@
 ---
-title: "Savranda Kalesi | Miras Haritası"
-date: 2025-12-25T01:13:07+03:00
+title: "Savranda Kalesi"
+date: "2025-12-25T01:13:07+03:00"
 slug: "savranda-kalesi"
 description: "## Savranda Kalesi: Osmaniye'nin Gizli İhtişamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SavrandaKale2.jpg/1200px-SavrandaKale2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Osmaniye"
+province: "Osmaniye"
+iller: '["Osmaniye"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.459166666,37.148888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Savranda Kalesi: Osmaniye'nin Gizli İhtişamı

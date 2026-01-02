@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Mahalle Kilisesi | Miras Haritası"
-date: 2025-12-25T09:16:07+03:00
+title: "Aşağı Mahalle Kilisesi"
+date: "2025-12-25T09:16:07+03:00"
 slug: "asagi-mahalle-kilisesi"
 description: "## Aşağı Mahalle Kilisesi: Torul'da Bir Tarihi İmaj..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.14507,40.456353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Mahalle Kilisesi: Torul'da Bir Tarihi İmaj

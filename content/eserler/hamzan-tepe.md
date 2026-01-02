@@ -1,18 +1,17 @@
 ---
-title: "Hamzan Tepe | Miras Haritası"
-date: 2025-12-25T06:35:09+03:00
+title: "Hamzan Tepe"
+date: "2025-12-25T06:35:09+03:00"
 slug: "hamzan-tepe"
 description: "**Hamzan Tepe: Şanlıurfa'nın Gizli Öyküsü**..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.8014984,37.0827751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hamzan Tepe: Şanlıurfa'nın Gizli Öyküsü**

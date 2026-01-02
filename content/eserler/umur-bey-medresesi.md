@@ -1,18 +1,17 @@
 ---
-title: "Umur Bey Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:18+03:00
+title: "Umur Bey Medresesi"
+date: "2025-12-25T17:41:18+03:00"
 slug: "umur-bey-medresesi"
 description: "### Umur Bey Medresesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "30.5544147,38.7457314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Umur Bey Medresesi

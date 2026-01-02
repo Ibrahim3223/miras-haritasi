@@ -1,18 +1,17 @@
 ---
-title: "Süt Evliyası Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:33+03:00
+title: "Süt Evliyası Türbesi"
+date: "2025-12-25T14:42:33+03:00"
 slug: "sut-evliyasi-turbesi"
 description: "## Süt Evliyası Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0270386,39.7477608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süt Evliyası Türbesi

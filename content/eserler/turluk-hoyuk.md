@@ -1,18 +1,17 @@
 ---
-title: "Turluk Höyük | Miras Haritası"
-date: 2025-12-25T06:33:42+03:00
+title: "Turluk Höyük"
+date: "2025-12-25T06:33:42+03:00"
 slug: "turluk-hoyuk"
 description: "## Turluk Höyük: Şanlıurfa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.9428054,37.0032918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turluk Höyük: Şanlıurfa'nın Gizli Cenneti

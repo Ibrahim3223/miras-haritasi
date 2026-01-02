@@ -1,18 +1,17 @@
 ---
-title: "Saraybayırı Mevkii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:19+03:00
+title: "Saraybayırı Mevkii Çeşmesi"
+date: "2025-12-25T10:53:19+03:00"
 slug: "saraybayiri-mevkii-cesmesi"
 description: "## Saraybayırı Mevkii Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1126747,40.6268997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraybayırı Mevkii Çeşmesi

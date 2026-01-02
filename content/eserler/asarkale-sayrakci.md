@@ -1,18 +1,17 @@
 ---
-title: "Asarkale, Sayrakçı | Miras Haritası"
-date: 2025-12-25T01:19:58+03:00
+title: "Asarkale, Sayrakçı"
+date: "2025-12-25T01:19:58+03:00"
 slug: "asarkale-sayrakci"
 description: "## Asarkale, Sayrakçı: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5282421,37.6139717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asarkale, Sayrakçı: Aydın'ın Gizli Cenneti

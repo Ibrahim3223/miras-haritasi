@@ -1,18 +1,17 @@
 ---
-title: "Kabe Mescidi | Miras Haritası"
-date: 2025-12-24T23:36:41+03:00
+title: "Kabe Mescidi"
+date: "2025-12-24T23:36:41+03:00"
 slug: "kabe-mescidi"
 description: "## Kabe Mescidi: Afyonkarahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5277863,38.757122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabe Mescidi: Afyonkarahisar'ın Tarihi ve Kültürel Mirası

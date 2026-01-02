@@ -1,18 +1,17 @@
 ---
-title: "Baklacı Camii | Miras Haritası"
-date: 2025-12-25T00:36:55+03:00
+title: "Baklacı Camii"
+date: "2025-12-25T00:36:55+03:00"
 slug: "baklaci-camii"
 description: "## Baklacı Camii: Ankara'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8561058,39.9410973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baklacı Camii: Ankara'nın Tarihî Bir Mirası

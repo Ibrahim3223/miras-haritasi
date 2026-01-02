@@ -1,18 +1,17 @@
 ---
-title: "Havuzköy Höyüğü | Miras Haritası"
-date: 2025-12-25T06:43:17+03:00
+title: "Havuzköy Höyüğü"
+date: "2025-12-25T06:43:17+03:00"
 slug: "havuzkoy-hoyugu"
 description: "**Havuzköy Höyüğü: Sivas'ın Gizli Kahramanı**..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.1141714,39.2074671"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Havuzköy Höyüğü: Sivas'ın Gizli Kahramanı**

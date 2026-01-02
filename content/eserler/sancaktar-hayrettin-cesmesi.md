@@ -1,18 +1,17 @@
 ---
-title: "Sancaktar Hayrettin Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:30+03:00
+title: "Sancaktar Hayrettin Çeşmesi"
+date: "2025-12-25T11:50:30+03:00"
 slug: "sancaktar-hayrettin-cesmesi"
 description: "## Sancaktar Hayrettin Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9347916,41.0030899"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sancaktar Hayrettin Çeşmesi

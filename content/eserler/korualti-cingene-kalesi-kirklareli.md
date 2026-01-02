@@ -1,18 +1,17 @@
 ---
-title: "Korualtı Çingene Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:47:38+03:00
+title: "Korualtı Çingene Kalesi, Kırklareli"
+date: "2025-12-25T01:47:38+03:00"
 slug: "korualti-cingene-kalesi-kirklareli"
 description: "## Korualtı Çingene Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.8262577,41.7069511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Korualtı Çingene Kalesi: Tarihî Bir Mirasın Gizemi

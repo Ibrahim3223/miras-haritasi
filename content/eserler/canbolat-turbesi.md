@@ -1,18 +1,17 @@
 ---
-title: "Canbolat Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:32+03:00
+title: "Canbolat Türbesi"
+date: "2025-12-25T14:49:32+03:00"
 slug: "canbolat-turbesi"
 description: "## Canbolat Türbesi: Kilis'in Gizli Cenneti..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.1144562,36.7146492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canbolat Türbesi: Kilis'in Gizli Cenneti

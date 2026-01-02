@@ -1,18 +1,17 @@
 ---
-title: "Sandıklı Ulu Cami | Miras Haritası"
-date: 2025-12-24T22:02:39+03:00
+title: "Sandıklı Ulu Cami"
+date: "2025-12-24T22:02:39+03:00"
 slug: "sandikli-ulu-cami"
 description: "**Sandıklı Ulu Camii: Afyonkarahisar'ın Tarihi ve Güzel Bir Örneği**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.273805555,38.46675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sandıklı Ulu Camii: Afyonkarahisar'ın Tarihi ve Güzel Bir Örneği**

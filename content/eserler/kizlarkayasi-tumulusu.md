@@ -1,18 +1,17 @@
 ---
-title: "Kızlarkayası Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:54:30+03:00
+title: "Kızlarkayası Tümülüsü"
+date: "2025-12-25T07:54:30+03:00"
 slug: "kizlarkayasi-tumulusu"
 description: "## Kızlarkayası Tümülüsü..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.0172234,39.6808319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızlarkayası Tümülüsü

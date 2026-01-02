@@ -1,18 +1,17 @@
 ---
-title: "Kirazlık Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:35:23+03:00
+title: "Kirazlık Köyü Camii"
+date: "2025-12-25T00:35:23+03:00"
 slug: "kirazlik-koyu-camii"
 description: "## Kirazlık Köyü Camii: Rize'nin Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.091448337,41.121922857"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kirazlık Köyü Camii: Rize'nin Değerli Kültürel Mirası

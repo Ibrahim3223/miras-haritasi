@@ -1,18 +1,17 @@
 ---
-title: "Okami Kilisesi | Miras Haritası"
-date: 2025-12-25T09:06:45+03:00
+title: "Okami Kilisesi"
+date: "2025-12-25T09:06:45+03:00"
 slug: "okami-kilisesi"
 description: "## Okami Kilisesi..."
 featured_image: ""
 province: "Göle"
-iller: ["Göle"]
+iller: '["Göle"]'
 district: "Çayırbaşı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.628849508,40.875646374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Okami Kilisesi

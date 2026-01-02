@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Şahinbey İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:50+03:00
+title: "Gaziantep Şahinbey İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:50:50+03:00"
 slug: "gaziantep-sahinbey-ilce-halk-kutuphanesi"
 description: "**Gaziantep Şahinbey İlçe Halk Kütüphanesi**..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gaziantep Şahinbey İlçe Halk Kütüphanesi**

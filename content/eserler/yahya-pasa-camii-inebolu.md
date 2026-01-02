@@ -1,18 +1,17 @@
 ---
-title: "Yahya Paşa Camii, İnebolu | Miras Haritası"
-date: 2025-12-24T23:58:35+03:00
+title: "Yahya Paşa Camii, İnebolu"
+date: "2025-12-24T23:58:35+03:00"
 slug: "yahya-pasa-camii-inebolu"
 description: "## Yahya Paşa Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7609749,41.9774055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahya Paşa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Değirmendere Köprüsü, Ortahisar | Miras Haritası"
-date: 2025-12-25T02:53:31+03:00
+title: "Değirmendere Köprüsü, Ortahisar"
+date: "2025-12-25T02:53:31+03:00"
 slug: "degirmendere-koprusu-ortahisar"
 description: "## Değirmendere Köprüsü: Ortahisar'ın Tarihî Bir Güzelliği..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.756332,40.997482"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmendere Köprüsü: Ortahisar'ın Tarihî Bir Güzelliği

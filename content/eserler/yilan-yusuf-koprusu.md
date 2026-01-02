@@ -1,18 +1,17 @@
 ---
-title: "Yılan Yusuf Köprüsü | Miras Haritası"
-date: 2025-12-25T02:46:17+03:00
+title: "Yılan Yusuf Köprüsü"
+date: "2025-12-25T02:46:17+03:00"
 slug: "yilan-yusuf-koprusu"
 description: "## Yılan Yusuf Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.600488317,38.311736862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yılan Yusuf Köprüsü

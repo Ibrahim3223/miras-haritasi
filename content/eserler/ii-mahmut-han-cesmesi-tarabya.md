@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmut Han Çeşmesi, Tarabya | Miras Haritası"
-date: 2025-12-25T11:53:04+03:00
+title: "II. Mahmut Han Çeşmesi, Tarabya"
+date: "2025-12-25T11:53:04+03:00"
 slug: "ii-mahmut-han-cesmesi-tarabya"
 description: "## II. Mahmut Han Çeşmesi, Tarabya..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/II._Mahmut_Han_Çeşmesi,_Tarabya_IMG_6780.jpg/1200px-II._Mahmut_Han_Çeşmesi,_Tarabya_IMG_6780.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.05261,41.146454"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## II. Mahmut Han Çeşmesi, Tarabya

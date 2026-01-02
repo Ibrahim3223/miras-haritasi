@@ -1,18 +1,17 @@
 ---
-title: "Lületaşı Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:55+03:00
+title: "Lületaşı Müzesi"
+date: "2025-12-25T03:27:55+03:00"
 slug: "luletasi-muzesi"
 description: "### Lületaşı Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.52472222,39.76277778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Lületaşı Müzesi

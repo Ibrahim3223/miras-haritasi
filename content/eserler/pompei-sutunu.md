@@ -1,18 +1,17 @@
 ---
-title: "Pompei Sütunu | Miras Haritası"
-date: 2025-12-25T14:32:05+03:00
+title: "Pompei Sütunu"
+date: "2025-12-25T14:32:05+03:00"
 slug: "pompei-sutunu"
 description: "## Pompei Sütunu: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1150246,41.2339859"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pompei Sütunu: İstanbul'un Gizli Anıtı

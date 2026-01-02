@@ -1,18 +1,17 @@
 ---
-title: "İskenderun Aziz Nicholas Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:45+03:00
+title: "İskenderun Aziz Nicholas Kilisesi"
+date: "2025-12-25T09:02:45+03:00"
 slug: "iskenderun-aziz-nicholas-kilisesi"
 description: "## İskenderun Aziz Nicholas Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iskenderun_church.jpg/1200px-Iskenderun_church.jpg"
 province: "İskenderun Sancağı"
-iller: ["İskenderun Sancağı"]
+iller: '["İskenderun Sancağı"]'
 district: "İskenderun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.170583333,36.587416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İskenderun Aziz Nicholas Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "İkiz Höyükler A-B Tümülüsleri | Miras Haritası"
-date: 2025-12-25T07:27:22+03:00
+title: "İkiz Höyükler A-B Tümülüsleri"
+date: "2025-12-25T07:27:22+03:00"
 slug: "ikiz-hoyukler-a-b-tumulusleri"
 description: "### İkiz Höyükler A-B Tümülüsleri..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5212097,41.3146782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İkiz Höyükler A-B Tümülüsleri

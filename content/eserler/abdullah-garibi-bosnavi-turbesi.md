@@ -1,18 +1,17 @@
 ---
-title: "Abdullah Garibi Bosnavi Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:11+03:00
+title: "Abdullah Garibi Bosnavi Türbesi"
+date: "2025-12-25T14:22:11+03:00"
 slug: "abdullah-garibi-bosnavi-turbesi"
 description: "## Abdullah Garibi Bosnavi Türbesi: Meram, Konya'da Bir Tarihsel Anıtlar Arasındaki Değer..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4817,37.868559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdullah Garibi Bosnavi Türbesi: Meram, Konya'da Bir Tarihsel Anıtlar Arasındaki Değer

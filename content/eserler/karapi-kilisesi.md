@@ -1,18 +1,17 @@
 ---
-title: "Karapi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:05:25+03:00
+title: "Karapi Kilisesi"
+date: "2025-12-25T09:05:25+03:00"
 slug: "karapi-kilisesi"
 description: "## Karapi Kilisesi: İspir'in Görsel İhtişamı..."
 featured_image: ""
 province: "İspir"
-iller: ["İspir"]
+iller: '["İspir"]'
 district: "Yedigöze"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.044016666,40.54685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karapi Kilisesi: İspir'in Görsel İhtişamı

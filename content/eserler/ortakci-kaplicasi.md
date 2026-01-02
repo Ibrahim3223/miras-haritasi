@@ -1,18 +1,17 @@
 ---
-title: "Ortakçı Kaplıcası | Miras Haritası"
-date: 2025-12-25T16:52:44+03:00
+title: "Ortakçı Kaplıcası"
+date: "2025-12-25T16:52:44+03:00"
 slug: "ortakci-kaplicasi"
 description: "## Ortakçı Kaplıcası: Buharkent'in Tarihi Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Buharkent"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.7112446,37.9759369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortakçı Kaplıcası: Buharkent'in Tarihi Hamamı

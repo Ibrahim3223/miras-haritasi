@@ -1,18 +1,17 @@
 ---
-title: "Güneyköy Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:56+03:00
+title: "Güneyköy Köyü Çeşmesi"
+date: "2025-12-25T10:15:56+03:00"
 slug: "guneykoy-koyu-cesmesi"
 description: "## Güneyköy Köyü Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.0780983,40.9927216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güneyköy Köyü Çeşmesi

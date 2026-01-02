@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:39+03:00
+title: "Hekimoğlu Ali Paşa Camii Çeşmesi"
+date: "2025-12-25T11:08:39+03:00"
 slug: "hekimoglu-ali-pasa-camii-cesmesi"
 description: "## Hekimoğlu Ali Paşa Camii Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cerrahpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.935212,41.00663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hekimoğlu Ali Paşa Camii Çeşmesi

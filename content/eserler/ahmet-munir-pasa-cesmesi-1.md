@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Münir Paşa Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:56:04+03:00
+title: "Ahmet Münir Paşa Çeşmesi 1"
+date: "2025-12-25T10:56:04+03:00"
 slug: "ahmet-munir-pasa-cesmesi-1"
 description: "### Ahmet Münir Paşa Çeşmesi 1: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0623684,40.183754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Münir Paşa Çeşmesi 1: Bursa'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Anadoluhisarı Namazgâhı | Miras Haritası"
-date: 2025-12-24T22:24:14+03:00
+title: "Anadoluhisarı Namazgâhı"
+date: "2025-12-24T22:24:14+03:00"
 slug: "anadoluhisari-namazghi"
 description: "### Anadoluhisarı Namazgâhı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Namazgah_van_Anadoluhisarı.jpg/1200px-Namazgah_van_Anadoluhisarı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.066431,41.082033"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Anadoluhisarı Namazgâhı

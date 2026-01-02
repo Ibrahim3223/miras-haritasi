@@ -1,18 +1,17 @@
 ---
-title: "Kaleiçi Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:35+03:00
+title: "Kaleiçi Müzesi"
+date: "2025-12-25T03:13:35+03:00"
 slug: "kaleici-muzesi"
 description: "## Kaleiçi Müzesi: Kıbrıs'ın Tarihsel ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.7073,36.8842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleiçi Müzesi: Kıbrıs'ın Tarihsel ve Kültürel Mirası

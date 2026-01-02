@@ -1,18 +1,17 @@
 ---
-title: "Rum Ortodoks Kilisesi, Kazlıçeşme | Miras Haritası"
-date: 2025-12-25T09:43:17+03:00
+title: "Rum Ortodoks Kilisesi, Kazlıçeşme"
+date: "2025-12-25T09:43:17+03:00"
 slug: "rum-ortodoks-kilisesi-kazlicesme"
 description: "**Rum Ortodoks Kilisesi, Kazlıçeşme: İstanbul'un Gizli Çehresi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9177551,40.9945564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Rum Ortodoks Kilisesi, Kazlıçeşme: İstanbul'un Gizli Çehresi**

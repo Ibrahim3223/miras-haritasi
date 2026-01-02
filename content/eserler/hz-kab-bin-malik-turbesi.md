@@ -1,18 +1,17 @@
 ---
-title: "Hz. Kab Bin Malik Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:57+03:00
+title: "Hz. Kab Bin Malik Türbesi"
+date: "2025-12-25T14:26:57+03:00"
 slug: "hz-kab-bin-malik-turbesi"
 description: "## Hz. Kab Bin Malik Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.940725,41.039578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hz. Kab Bin Malik Türbesi

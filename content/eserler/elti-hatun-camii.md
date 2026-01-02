@@ -1,18 +1,17 @@
 ---
-title: "Elti Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:18:32+03:00
+title: "Elti Hatun Camii"
+date: "2025-12-24T22:18:32+03:00"
 slug: "elti-hatun-camii"
 description: "## Eti Hatun Camii: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Mazgirt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.604166666,39.021666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eti Hatun Camii: Tarihinin ve Mimarisinin Gizemi

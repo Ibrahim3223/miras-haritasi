@@ -1,18 +1,17 @@
 ---
-title: "Bizans Manastırı | Miras Haritası"
-date: 2025-12-25T09:56:41+03:00
+title: "Bizans Manastırı"
+date: "2025-12-25T09:56:41+03:00"
 slug: "bizans-manastiri"
 description: "# Bizans Manastırı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "27.3665485,37.9525833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bizans Manastırı

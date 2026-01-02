@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Zülfikar Camii | Miras Haritası"
-date: 2025-12-24T23:07:17+03:00
+title: "Seyyid Zülfikar Camii"
+date: "2025-12-24T23:07:17+03:00"
 slug: "seyyid-zulfikar-camii"
 description: "**Seyyid Zülfikar Camii**..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Seydiler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7142181,41.6196518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Seyyid Zülfikar Camii**

@@ -1,18 +1,17 @@
 ---
-title: "Karagöz / Demirci Höyük | Miras Haritası"
-date: 2025-12-25T07:08:41+03:00
+title: "Karagöz / Demirci Höyük"
+date: "2025-12-25T07:08:41+03:00"
 slug: "karagoz-demirci-hoyuk"
 description: "## Karagöz / Demirci Höyük: Sinop'un Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sinop"
+province: "Sinop"
+iller: '["Sinop"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagöz / Demirci Höyük: Sinop'un Gizli Mirası

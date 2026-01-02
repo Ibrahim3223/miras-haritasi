@@ -1,18 +1,17 @@
 ---
-title: "Fidalia Petra | Miras Haritası"
-date: 2025-12-25T04:51:55+03:00
+title: "Fidalia Petra"
+date: "2025-12-25T04:51:55+03:00"
 slug: "fidalia-petra"
 description: "## Fidalia Petra: Muzafferlik ve Güçün Göstergesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.050838,41.099551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fidalia Petra: Muzafferlik ve Güçün Göstergesi

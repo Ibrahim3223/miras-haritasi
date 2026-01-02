@@ -1,18 +1,17 @@
 ---
-title: "Selimağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:19+03:00
+title: "Selimağa Çeşmesi"
+date: "2025-12-25T10:16:19+03:00"
 slug: "selimaga-cesmesi"
 description: "### Selimağa Çeşmesi: Giresun'un Tarihî Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.813758,41.006417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selimağa Çeşmesi: Giresun'un Tarihî Mirası

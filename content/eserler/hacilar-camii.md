@@ -1,18 +1,17 @@
 ---
-title: "Hacılar Camii | Miras Haritası"
-date: 2025-12-24T23:31:54+03:00
+title: "Hacılar Camii"
+date: "2025-12-24T23:31:54+03:00"
 slug: "hacilar-camii"
 description: "## Hacılar Camii: Bursa'nın Altın Çağının Gizli Çehresi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0664062,40.1817703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacılar Camii: Bursa'nın Altın Çağının Gizli Çehresi

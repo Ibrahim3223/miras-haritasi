@@ -1,18 +1,17 @@
 ---
-title: "Sultan II. Murat Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:49+03:00
+title: "Sultan II. Murat Türbesi"
+date: "2025-12-25T15:10:49+03:00"
 slug: "sultan-ii-murat-turbesi"
 description: "## Sultan II. Murat Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/II._Murad_Türbesi.jpg/1200px-II._Murad_Türbesi.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0460204,40.1905504"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sultan II. Murat Türbesi

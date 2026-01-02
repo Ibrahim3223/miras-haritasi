@@ -1,18 +1,17 @@
 ---
-title: "Kum Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:15:10+03:00
+title: "Kum Baba Türbesi"
+date: "2025-12-25T14:15:10+03:00"
 slug: "kum-baba-turbesi"
 description: "## Kum Baba Türbesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Osmancık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.847161,40.909521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kum Baba Türbesi: Tarih ve Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Düzköy Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:36:38+03:00
+title: "Düzköy Merkez Camii"
+date: "2025-12-24T22:36:38+03:00"
 slug: "duzkoy-merkez-camii"
 description: "## Düzköy Merkez Camii: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.6121674,41.3764305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düzköy Merkez Camii: Artvin'in Tarihi ve Kültürel Mirası

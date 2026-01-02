@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muslihiddin Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:34:33+03:00
+title: "Şeyh Muslihiddin Camii Çeşmesi"
+date: "2025-12-25T12:34:33+03:00"
 slug: "seyh-muslihiddin-camii-cesmesi"
 description: "**Şeyh Muslihiddin Camii Çeşmesi: Sakarya'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Kaynarca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.2907448,41.0726891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Muslihiddin Camii Çeşmesi: Sakarya'nın Gizli Cenneti**

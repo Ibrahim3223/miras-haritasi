@@ -1,18 +1,17 @@
 ---
-title: "Bulgurlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:56+03:00
+title: "Bulgurlu Çeşmesi"
+date: "2025-12-25T11:06:56+03:00"
 slug: "bulgurlu-cesmesi"
 description: "### Bulgurlu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bulgurlu_Çeşmesi.jpg/1200px-Bulgurlu_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.071415,41.018336"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bulgurlu Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Miskin Kilisesi | Miras Haritası"
-date: 2025-12-25T09:11:00+03:00
+title: "Miskin Kilisesi"
+date: "2025-12-25T09:11:00+03:00"
 slug: "miskin-kilisesi"
 description: "### Miskin Kilisesi..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Çukurca"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.7208328,37.3306313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Miskin Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Arappınarı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:47+03:00
+title: "Arappınarı Köprüsü"
+date: "2025-12-25T02:31:47+03:00"
 slug: "arappinari-koprusu"
 description: "### Arappınarı Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.2334385,38.4244347"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arappınarı Köprüsü

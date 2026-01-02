@@ -1,18 +1,17 @@
 ---
-title: "Hatip Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:03+03:00
+title: "Hatip Çeşmesi"
+date: "2025-12-25T10:28:03+03:00"
 slug: "hatip-cesmesi"
 description: "## Hatip Çeşmesi: Karacasu, Aydın'da Gizli Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6065998,37.7244987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatip Çeşmesi: Karacasu, Aydın'da Gizli Bir Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Topçu Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:11+03:00
+title: "Topçu Dede Türbesi"
+date: "2025-12-25T15:15:11+03:00"
 slug: "topcu-dede-turbesi"
 description: "**Topçu Dede Türbesi**..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.458535,40.870094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Topçu Dede Türbesi**

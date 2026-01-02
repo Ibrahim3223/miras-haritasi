@@ -1,18 +1,17 @@
 ---
-title: "Eski Hastane Binası, Keşan | Miras Haritası"
-date: 2025-12-25T03:43:38+03:00
+title: "Eski Hastane Binası, Keşan"
+date: "2025-12-25T03:43:38+03:00"
 slug: "eski-hastane-binasi-kesan"
 description: "### Eski Hastane Binası, Keşan..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.6380043,40.8496056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Hastane Binası, Keşan

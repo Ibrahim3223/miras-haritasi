@@ -1,18 +1,17 @@
 ---
-title: "Sarı Kadı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:40:22+03:00
+title: "Sarı Kadı Camii Çeşmesi"
+date: "2025-12-25T12:40:22+03:00"
 slug: "sari-kadi-camii-cesmesi"
 description: "### Sarı Kadı Camii Çeşmesi: Altındağ'ın Tarihi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8669281,39.9317322"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarı Kadı Camii Çeşmesi: Altındağ'ın Tarihi Çeşmesi

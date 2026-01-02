@@ -1,18 +1,17 @@
 ---
-title: "Demirköy | Miras Haritası"
-date: 2025-12-25T05:37:19+03:00
+title: "Demirköy"
+date: "2025-12-25T05:37:19+03:00"
 slug: "demirkoy"
 description: "## Demirköy Arkeolojik Sit..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Pazaryeri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.021153,40.006839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirköy Arkeolojik Sit

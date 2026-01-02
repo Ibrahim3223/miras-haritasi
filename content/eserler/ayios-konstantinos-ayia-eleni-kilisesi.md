@@ -1,18 +1,17 @@
 ---
-title: "Ayios Konstantinos-Ayia Eleni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:10+03:00
+title: "Ayios Konstantinos-Ayia Eleni Kilisesi"
+date: "2025-12-25T09:37:10+03:00"
 slug: "ayios-konstantinos-ayia-eleni-kilisesi"
 description: "## Ayios Konstantinos-Ayia Eleni Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.928506,40.996806"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Konstantinos-Ayia Eleni Kilisesi

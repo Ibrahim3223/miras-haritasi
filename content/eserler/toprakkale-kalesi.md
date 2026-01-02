@@ -1,18 +1,17 @@
 ---
-title: "Toprakkale Kalesi | Miras Haritası"
-date: 2025-12-25T01:35:47+03:00
+title: "Toprakkale Kalesi"
+date: "2025-12-25T01:35:47+03:00"
 slug: "toprakkale-kalesi"
 description: "## Toprakkale Kalesi: Osmaniye'nin Tarihi Çehresini Taşıyan Bir Miras..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Toprakkale"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.136569,37.050362"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toprakkale Kalesi: Osmaniye'nin Tarihi Çehresini Taşıyan Bir Miras

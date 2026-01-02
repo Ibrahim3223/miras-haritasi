@@ -1,18 +1,17 @@
 ---
-title: "Mahmudiye Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:04:51+03:00
+title: "Mahmudiye Çeşmesi"
+date: "2025-12-25T12:04:51+03:00"
 slug: "mahmudiye-cesmesi"
 description: "## Mahmudiye Çeşmesi: Fatih'te Bir Altın Çağ Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.956686,41.0128517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmudiye Çeşmesi: Fatih'te Bir Altın Çağ Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Beyazıt Devlet Kütüphanesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:10+03:00
+title: "Beyazıt Devlet Kütüphanesi Çeşmesi"
+date: "2025-12-25T11:17:10+03:00"
 slug: "beyazit-devlet-kutuphanesi-cesmesi"
 description: "### Beyazıt Devlet Kütüphanesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Istanbul_Beyazit_Library_december_2015_6280.jpg/1200px-Istanbul_Beyazit_Library_december_2015_6280.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Beyazıt"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.965286,41.011085"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Beyazıt Devlet Kütüphanesi Çeşmesi

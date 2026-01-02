@@ -1,18 +1,17 @@
 ---
-title: "Yağmur Höyüğü | Miras Haritası"
-date: 2025-12-25T06:25:23+03:00
+title: "Yağmur Höyüğü"
+date: "2025-12-25T06:25:23+03:00"
 slug: "yagmur-hoyugu"
 description: "### Yağmur Höyüğü..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ağaçören ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8859025,38.7546232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yağmur Höyüğü

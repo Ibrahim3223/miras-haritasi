@@ -1,18 +1,17 @@
 ---
-title: "Kapu Ağası Hüseyin Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:41:53+03:00
+title: "Kapu Ağası Hüseyin Ağa Camii"
+date: "2025-12-24T23:41:53+03:00"
 slug: "kapu-agasi-huseyin-aga-camii"
 description: "### Kapu Ağası Hüseyin Ağa Camii..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Taşova"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.4192352,40.7852478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kapu Ağası Hüseyin Ağa Camii

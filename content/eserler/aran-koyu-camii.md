@@ -1,18 +1,17 @@
 ---
-title: "Aran Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:15:01+03:00
+title: "Aran Köyü Camii"
+date: "2025-12-24T22:15:01+03:00"
 slug: "aran-koyu-camii"
 description: "## Aran Köyü Camii..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.7492142,37.4476471"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aran Köyü Camii

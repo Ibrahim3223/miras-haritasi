@@ -1,18 +1,17 @@
 ---
-title: "Tatarmuslu Camii | Miras Haritası"
-date: 2025-12-24T23:13:44+03:00
+title: "Tatarmuslu Camii"
+date: "2025-12-24T23:13:44+03:00"
 slug: "tatarmuslu-camii"
 description: "## Tatarmuslu Camii: Samsun'un Gizli Çarııtı..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.0761986,41.0555992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatarmuslu Camii: Samsun'un Gizli Çarııtı

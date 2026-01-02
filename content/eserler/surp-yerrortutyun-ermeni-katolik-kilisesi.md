@@ -1,18 +1,17 @@
 ---
-title: "Surp Yerrortutyun Ermeni Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T08:41:04+03:00
+title: "Surp Yerrortutyun Ermeni Katolik Kilisesi"
+date: "2025-12-25T08:41:04+03:00"
 slug: "surp-yerrortutyun-ermeni-katolik-kilisesi"
 description: "## Surp Yerrortutyun Ermeni Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Katholische_Hl.-Dreieinigkeits-Kirche.jpg/1200px-Katholische_Hl.-Dreieinigkeits-Kirche.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.975472,41.031667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Yerrortutyun Ermeni Katolik Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Morkaya Camii | Miras Haritası"
-date: 2025-12-25T00:21:51+03:00
+title: "Morkaya Camii"
+date: "2025-12-25T00:21:51+03:00"
 slug: "morkaya-camii"
 description: "## Morkaya Camii: Artvin'in Gizli Çehresi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.6039,40.7305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Morkaya Camii: Artvin'in Gizli Çehresi

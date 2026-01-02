@@ -1,18 +1,17 @@
 ---
-title: "Güzeltepe Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:25:01+03:00
+title: "Güzeltepe Köyü Camii"
+date: "2025-12-24T23:25:01+03:00"
 slug: "guzeltepe-koyu-camii"
 description: "### Güzeltepe Köyü Camii..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Çayırova"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4011097,40.8347206"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güzeltepe Köyü Camii

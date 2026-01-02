@@ -1,18 +1,17 @@
 ---
-title: "Toraman Höyük | Miras Haritası"
-date: 2025-12-25T05:26:47+03:00
+title: "Toraman Höyük"
+date: "2025-12-25T05:26:47+03:00"
 slug: "toraman-hoyuk"
 description: "### Toraman Höyük: Eskişehir'in Gizemi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.719923,39.631093"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Toraman Höyük: Eskişehir'in Gizemi

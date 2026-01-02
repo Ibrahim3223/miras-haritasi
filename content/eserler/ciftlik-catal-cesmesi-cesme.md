@@ -1,18 +1,17 @@
 ---
-title: "Çiftlik Çatal Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:23:22+03:00
+title: "Çiftlik Çatal Çeşmesi, Çeşme"
+date: "2025-12-25T12:23:22+03:00"
 slug: "ciftlik-catal-cesmesi-cesme"
 description: "### Çiftlik Çatal Çeşmesi: Çeşme'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.2801208,38.2922287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çiftlik Çatal Çeşmesi: Çeşme'nin Gizli Çeşmesi

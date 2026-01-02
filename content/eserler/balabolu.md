@@ -1,18 +1,17 @@
 ---
-title: "Balabolu | Miras Haritası"
-date: 2025-12-25T08:18:04+03:00
+title: "Balabolu"
+date: "2025-12-25T08:18:04+03:00"
 slug: "balabolu"
 description: "## Balabolu Arkeolojik Sit..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.108333333,36.648888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balabolu Arkeolojik Sit

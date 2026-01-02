@@ -1,18 +1,17 @@
 ---
-title: "Malos (Frigya) | Miras Haritası"
-date: 2025-12-25T05:12:50+03:00
+title: "Malos (Frigya)"
+date: "2025-12-25T05:12:50+03:00"
 slug: "malos-frigya"
 description: "## Malos (Frigya)..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.753551,39.0892335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malos (Frigya)

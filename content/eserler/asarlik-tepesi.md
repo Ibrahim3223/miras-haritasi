@@ -1,18 +1,17 @@
 ---
-title: "Asarlık Tepesi | Miras Haritası"
-date: 2025-12-25T01:23:26+03:00
+title: "Asarlık Tepesi"
+date: "2025-12-25T01:23:26+03:00"
 slug: "asarlik-tepesi"
 description: "## Asarlık Tepesi: Antalya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.000096112,36.669408562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asarlık Tepesi: Antalya'nın Gizli Kahramanı

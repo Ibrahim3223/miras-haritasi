@@ -1,18 +1,17 @@
 ---
-title: "Nilüfer Hatun Mescidi | Miras Haritası"
-date: 2025-12-25T01:04:01+03:00
+title: "Nilüfer Hatun Mescidi"
+date: "2025-12-25T01:04:01+03:00"
 slug: "nilufer-hatun-mescidi"
 description: "## Nilüfer Hatun Mescidi: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.057579,40.1858215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nilüfer Hatun Mescidi: Bursa'nın Tarihi Bir Mirası

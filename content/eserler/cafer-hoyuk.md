@@ -1,18 +1,17 @@
 ---
-title: "Cafer Höyük | Miras Haritası"
-date: 2025-12-25T06:50:18+03:00
+title: "Cafer Höyük"
+date: "2025-12-25T06:50:18+03:00"
 slug: "cafer-hoyuk"
 description: "## Cafer Höyük: Malatya'nın Gizli İnsanlık Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MalatyaMuseumCafer.jpg/1200px-MalatyaMuseumCafer.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Malatya"
+province: "Malatya"
+iller: '["Malatya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.75,38.4166"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cafer Höyük: Malatya'nın Gizli İnsanlık Mirası

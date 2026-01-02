@@ -1,18 +1,17 @@
 ---
-title: "Tezveren Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:43+03:00
+title: "Tezveren Baba Türbesi"
+date: "2025-12-25T14:29:43+03:00"
 slug: "tezveren-baba-turbesi"
 description: "### Tezveren Baba Türbesi: Şişli'nin Gizli Çağılardan Kalan Dikkati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.982118,41.04216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tezveren Baba Türbesi: Şişli'nin Gizli Çağılardan Kalan Dikkati

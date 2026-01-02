@@ -1,18 +1,17 @@
 ---
-title: "Gümüşpınar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:32:48+03:00
+title: "Gümüşpınar Çeşmesi"
+date: "2025-12-25T10:32:48+03:00"
 slug: "gumuspinar-cesmesi"
 description: "### Gümüşpınar Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0181999,37.5620995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşpınar Çeşmesi

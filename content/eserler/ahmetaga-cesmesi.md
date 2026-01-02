@@ -1,18 +1,17 @@
 ---
-title: "Ahmetağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:26+03:00
+title: "Ahmetağa Çeşmesi"
+date: "2025-12-25T10:22:26+03:00"
 slug: "ahmetaga-cesmesi"
 description: "### Ahmetağa Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.0674992,39.4805984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmetağa Çeşmesi

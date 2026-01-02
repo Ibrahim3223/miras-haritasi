@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme, Elbasan | Miras Haritası"
-date: 2025-12-25T12:50:15+03:00
+title: "Havuzlu Çeşme, Elbasan"
+date: "2025-12-25T12:50:15+03:00"
 slug: "havuzlu-cesme-elbasan"
 description: "# Havuzlu Çeşme, Elbasan..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4153023,41.138649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Havuzlu Çeşme, Elbasan

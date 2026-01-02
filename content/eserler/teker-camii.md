@@ -1,18 +1,17 @@
 ---
-title: "Teker Camii | Miras Haritası"
-date: 2025-12-25T00:41:12+03:00
+title: "Teker Camii"
+date: "2025-12-25T00:41:12+03:00"
 slug: "teker-camii"
 description: "## Teker Camii: Mardin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.746587,37.315317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Teker Camii: Mardin'in Tarihi ve Kültürel Mirası

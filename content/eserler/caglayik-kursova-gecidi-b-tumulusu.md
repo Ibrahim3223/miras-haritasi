@@ -1,18 +1,17 @@
 ---
-title: "Çağlayık Kurşova Geçidi B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:18:31+03:00
+title: "Çağlayık Kurşova Geçidi B Tümülüsü"
+date: "2025-12-25T07:18:31+03:00"
 slug: "caglayik-kursova-gecidi-b-tumulusu"
 description: "# Çağlayık Kurşova Geçidi B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3259373,42.0370483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çağlayık Kurşova Geçidi B Tümülüsü

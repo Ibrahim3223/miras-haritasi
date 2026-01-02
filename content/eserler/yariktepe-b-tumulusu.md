@@ -1,18 +1,17 @@
 ---
-title: "Yarıktepe B Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:11+03:00
+title: "Yarıktepe B Tümülüsü"
+date: "2025-12-25T08:03:11+03:00"
 slug: "yariktepe-b-tumulusu"
 description: "## Yarıktepe B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7659626,41.5533638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarıktepe B Tümülüsü

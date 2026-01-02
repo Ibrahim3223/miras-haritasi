@@ -1,18 +1,17 @@
 ---
-title: "Veli Zevcesi Ümmühan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:31:22+03:00
+title: "Veli Zevcesi Ümmühan Çeşmesi"
+date: "2025-12-25T11:31:22+03:00"
 slug: "veli-zevcesi-ummuhan-cesmesi"
 description: "## Veli Zevcesi Ümmühan Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2762642,37.0004005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veli Zevcesi Ümmühan Çeşmesi

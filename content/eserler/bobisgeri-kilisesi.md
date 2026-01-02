@@ -1,18 +1,17 @@
 ---
-title: "Bobisgeri Kilisesi | Miras Haritası"
-date: 2025-12-25T08:59:10+03:00
+title: "Bobisgeri Kilisesi"
+date: "2025-12-25T08:59:10+03:00"
 slug: "bobisgeri-kilisesi"
 description: "## Bobisgeri Kilisesi: Erzurum'un Gizemli Tarihi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Şenkaya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.237111111,40.567305555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bobisgeri Kilisesi: Erzurum'un Gizemli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Baby 700 Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:52:21+03:00
+title: "Baby 700 Mezarlığı"
+date: "2025-12-25T15:52:21+03:00"
 slug: "baby-700-mezarligi"
 description: "## Baby 700 Mezarlığı..."
 featured_image: ""
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.29444444,40.24277778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baby 700 Mezarlığı

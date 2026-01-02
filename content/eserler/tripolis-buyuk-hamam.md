@@ -1,18 +1,17 @@
 ---
-title: "Tripolis Büyük Hamam | Miras Haritası"
-date: 2025-12-25T16:56:13+03:00
+title: "Tripolis Büyük Hamam"
+date: "2025-12-25T16:56:13+03:00"
 slug: "tripolis-buyuk-hamam"
 description: "### Tripolis Büyük Hamam: Buldan'ın Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Buldan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9477425,38.0386276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tripolis Büyük Hamam: Buldan'ın Tarihi ve Kültür Mirası

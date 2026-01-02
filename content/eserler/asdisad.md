@@ -1,18 +1,17 @@
 ---
-title: "Aşdişad | Miras Haritası"
-date: 2025-12-25T08:17:33+03:00
+title: "Aşdişad"
+date: "2025-12-25T08:17:33+03:00"
 slug: "asdisad"
 description: "## Aşdişad Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muş"
+province: "Muş"
+iller: '["Muş"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.45111111,38.97222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşdişad Arkeolojik Sit

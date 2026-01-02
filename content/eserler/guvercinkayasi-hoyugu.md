@@ -1,18 +1,17 @@
 ---
-title: "Güvercinkayası Höyüğü | Miras Haritası"
-date: 2025-12-25T07:09:06+03:00
+title: "Güvercinkayası Höyüğü"
+date: "2025-12-25T07:09:06+03:00"
 slug: "guvercinkayasi-hoyugu"
 description: "## Güvercinkayası Höyüğü: Aksaray'ın Tarihî Bir İznini..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.1966209,38.4018211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güvercinkayası Höyüğü: Aksaray'ın Tarihî Bir İznini

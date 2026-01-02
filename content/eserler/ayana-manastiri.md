@@ -1,18 +1,17 @@
 ---
-title: "Ayana Manastırı | Miras Haritası"
-date: 2025-12-25T09:15:30+03:00
+title: "Ayana Manastırı"
+date: "2025-12-25T09:15:30+03:00"
 slug: "ayana-manastiri"
 description: "### Ayana Manastırı: Gümüşhane'nin Tarihi Bir Kilisesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.4544792,40.4558945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayana Manastırı: Gümüşhane'nin Tarihi Bir Kilisesi

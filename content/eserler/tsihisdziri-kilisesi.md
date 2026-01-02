@@ -1,18 +1,17 @@
 ---
-title: "Tsihisdziri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:30+03:00
+title: "Tsihisdziri Kilisesi"
+date: "2025-12-25T09:02:30+03:00"
 slug: "tsihisdziri-kilisesi"
 description: "### Tsihisdziri Kilisesi: Gürcistan'ın Şavşat'taki Tarihî Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.368694444,41.298333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tsihisdziri Kilisesi: Gürcistan'ın Şavşat'taki Tarihî Bir Mirası

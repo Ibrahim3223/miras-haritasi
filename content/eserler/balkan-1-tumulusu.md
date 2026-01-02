@@ -1,18 +1,17 @@
 ---
-title: "Balkan 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:02+03:00
+title: "Balkan 1 Tümülüsü"
+date: "2025-12-25T08:04:02+03:00"
 slug: "balkan-1-tumulusu"
 description: "## Balkan 1 Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8436432,41.7409935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balkan 1 Tümülüsü: Edirne'nin Gizli Tarihi

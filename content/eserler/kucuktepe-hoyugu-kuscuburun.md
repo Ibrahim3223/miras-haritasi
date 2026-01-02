@@ -1,18 +1,17 @@
 ---
-title: "Küçüktepe Höyüğü, Kuşçuburun | Miras Haritası"
-date: 2025-12-25T05:58:18+03:00
+title: "Küçüktepe Höyüğü, Kuşçuburun"
+date: "2025-12-25T05:58:18+03:00"
 slug: "kucuktepe-hoyugu-kuscuburun"
 description: "**Küçüktepe Höyüğü, Kuşçuburun: İzmir'in Tarihî Mirası**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3131523,38.186657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Küçüktepe Höyüğü, Kuşçuburun: İzmir'in Tarihî Mirası**

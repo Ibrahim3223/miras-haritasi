@@ -1,18 +1,17 @@
 ---
-title: "Üçgözlü Kesme Taş Köprü | Miras Haritası"
-date: 2025-12-25T02:14:21+03:00
+title: "Üçgözlü Kesme Taş Köprü"
+date: "2025-12-25T02:14:21+03:00"
 slug: "ucgozlu-kesme-tas-kopru"
 description: "**Üçgözlü Kesme Taş Köprü: Borçka'nın Gizli Mücevheri**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.6800053,41.3605686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Üçgözlü Kesme Taş Köprü: Borçka'nın Gizli Mücevheri**

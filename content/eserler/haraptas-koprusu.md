@@ -1,18 +1,17 @@
 ---
-title: "Haraptaş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:04+03:00
+title: "Haraptaş Köprüsü"
+date: "2025-12-25T02:29:04+03:00"
 slug: "haraptas-koprusu"
 description: "## Haraptaş Köprüsü..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.169216,39.821678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haraptaş Köprüsü

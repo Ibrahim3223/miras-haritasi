@@ -1,18 +1,17 @@
 ---
-title: "İncirli Baba Kabri | Miras Haritası"
-date: 2025-12-25T16:05:59+03:00
+title: "İncirli Baba Kabri"
+date: "2025-12-25T16:05:59+03:00"
 slug: "incirli-baba-kabri"
 description: "## İncirli Baba Kabri: İstanbul'un Gizli Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9558372,41.0207634"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncirli Baba Kabri: İstanbul'un Gizli Anıt Mezarı

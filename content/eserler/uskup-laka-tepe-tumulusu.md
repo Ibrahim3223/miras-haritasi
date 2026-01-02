@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Laka Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:53:24+03:00
+title: "Üsküp Laka Tepe Tümülüsü"
+date: "2025-12-25T07:53:24+03:00"
 slug: "uskup-laka-tepe-tumulusu"
 description: "### Üsküp Laka Tepe Tümülüsü: Kırklareli'nin Gizli Kahramanları..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4190102,41.7656441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üsküp Laka Tepe Tümülüsü: Kırklareli'nin Gizli Kahramanları

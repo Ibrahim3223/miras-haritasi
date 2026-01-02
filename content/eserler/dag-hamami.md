@@ -1,18 +1,17 @@
 ---
-title: "Dağ Hamamı | Miras Haritası"
-date: 2025-12-25T17:12:56+03:00
+title: "Dağ Hamamı"
+date: "2025-12-25T17:12:56+03:00"
 slug: "dag-hamami"
 description: "### Dağ Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.028087899,41.026011962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dağ Hamamı

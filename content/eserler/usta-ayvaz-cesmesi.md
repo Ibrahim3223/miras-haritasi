@@ -1,18 +1,17 @@
 ---
-title: "Usta Ayvaz Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:18+03:00
+title: "Usta Ayvaz Çeşmesi"
+date: "2025-12-25T10:45:18+03:00"
 slug: "usta-ayvaz-cesmesi"
 description: "### Usta Ayvaz Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5237694,39.7617188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Usta Ayvaz Çeşmesi

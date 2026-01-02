@@ -1,18 +1,17 @@
 ---
-title: "Sülecik B Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:27+03:00
+title: "Sülecik B Tümülüsü"
+date: "2025-12-25T08:05:27+03:00"
 slug: "sulecik-b-tumulusu"
 description: "### Sülecik B Tümülüsü: Tarihi ve Kültürel Mirası Anlatmak..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8458099,41.8045425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sülecik B Tümülüsü: Tarihi ve Kültürel Mirası Anlatmak

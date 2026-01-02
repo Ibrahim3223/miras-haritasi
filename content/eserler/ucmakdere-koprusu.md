@@ -1,18 +1,17 @@
 ---
-title: "Uçmakdere Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:16+03:00
+title: "Uçmakdere Köprüsü"
+date: "2025-12-25T03:02:16+03:00"
 slug: "ucmakdere-koprusu"
 description: "## Uçmakdere Köprüsü: Kırklareli'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7378407,41.5907249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uçmakdere Köprüsü: Kırklareli'nin Gizli Çiçeği

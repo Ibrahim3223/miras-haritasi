@@ -1,18 +1,17 @@
 ---
-title: "Magnesia | Miras Haritası"
-date: 2025-12-25T06:52:22+03:00
+title: "Magnesia"
+date: "2025-12-25T06:52:22+03:00"
 slug: "magnesia"
 description: "## Magnesia Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Магнесия_на_Меандре._Пропилеи.jpg/1200px-Магнесия_на_Меандре._Пропилеи.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.527104,37.852692"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Magnesia Arkeolojik Sit

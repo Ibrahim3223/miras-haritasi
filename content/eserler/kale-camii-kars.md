@@ -1,18 +1,17 @@
 ---
-title: "Kale Camii, Kars | Miras Haritası"
-date: 2025-12-25T00:05:05+03:00
+title: "Kale Camii, Kars"
+date: "2025-12-25T00:05:05+03:00"
 slug: "kale-camii-kars"
 description: "## Kale Camii: Kars'taki Bir Kültür Mirası..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.0905037,40.6136742"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Camii: Kars'taki Bir Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kuyubaşı Kalesi | Miras Haritası"
-date: 2025-12-25T01:20:26+03:00
+title: "Kuyubaşı Kalesi"
+date: "2025-12-25T01:20:26+03:00"
 slug: "kuyubasi-kalesi"
 description: "### Kuyubaşı Kalesi: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Yunak"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "31.9983006,38.6039925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuyubaşı Kalesi: Tarihi ve Kültürel Mirasının Bir Parçası

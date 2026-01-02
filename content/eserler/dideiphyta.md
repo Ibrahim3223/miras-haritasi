@@ -1,18 +1,17 @@
 ---
-title: "Dideiphyta | Miras Haritası"
-date: 2025-12-25T05:42:25+03:00
+title: "Dideiphyta"
+date: "2025-12-25T05:42:25+03:00"
 slug: "dideiphyta"
 description: "# Dideiphyta: Eski Yunanistan'ın Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.788616,38.09658"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dideiphyta: Eski Yunanistan'ın Gizli Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Darülhadis | Miras Haritası"
-date: 2025-12-25T17:37:24+03:00
+title: "Darülhadis"
+date: "2025-12-25T17:37:24+03:00"
 slug: "darulhadis"
 description: "## Darülhadis Medresesi: Bergama'nın Gizli Çehresini Keşfeden Bir Öykü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.1777992,39.1240997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darülhadis Medresesi: Bergama'nın Gizli Çehresini Keşfeden Bir Öykü

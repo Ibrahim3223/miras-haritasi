@@ -1,18 +1,17 @@
 ---
-title: "Hasan Ağa Darülhadisi | Miras Haritası"
-date: 2025-12-25T17:45:04+03:00
+title: "Hasan Ağa Darülhadisi"
+date: "2025-12-25T17:45:04+03:00"
 slug: "hasan-aga-darulhadisi"
 description: "## Hasan Ağa Darülhadisi: Fatih'in Gizli Azınlık Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9596882,41.0126648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Ağa Darülhadisi: Fatih'in Gizli Azınlık Medresesi

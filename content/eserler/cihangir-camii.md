@@ -1,18 +1,17 @@
 ---
-title: "Cihangir Camii | Miras Haritası"
-date: 2025-12-24T21:46:38+03:00
+title: "Cihangir Camii"
+date: "2025-12-24T21:46:38+03:00"
 slug: "cihangir-camii"
 description: "## Cihangir Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/20131206_Istanbul_028.jpg/1200px-20131206_Istanbul_028.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.987083333,41.030138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cihangir Camii: İstanbul'un Gizli Çeşmesi

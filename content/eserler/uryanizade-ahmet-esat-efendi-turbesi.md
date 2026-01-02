@@ -1,18 +1,17 @@
 ---
-title: "Üryanizade Ahmet Esat Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:15+03:00
+title: "Üryanizade Ahmet Esat Efendi Türbesi"
+date: "2025-12-25T14:37:15+03:00"
 slug: "uryanizade-ahmet-esat-efendi-turbesi"
 description: "## Üryanizade Ahmet Esat Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.934207,41.047489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üryanizade Ahmet Esat Efendi Türbesi

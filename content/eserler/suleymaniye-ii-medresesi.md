@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye II. Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:00+03:00
+title: "Süleymaniye II. Medresesi"
+date: "2025-12-25T17:27:00+03:00"
 slug: "suleymaniye-ii-medresesi"
 description: "## Süleymaniye II. Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.962706,41.015739"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Süleymaniye II. Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Ebubekir Camii | Miras Haritası"
-date: 2025-12-24T22:34:51+03:00
+title: "Ebubekir Camii"
+date: "2025-12-24T22:34:51+03:00"
 slug: "ebubekir-camii"
 description: "### Ebubekir Camii: Havran, Balıkesir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Havran"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0953922,39.5562897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ebubekir Camii: Havran, Balıkesir'in Tarihi ve Kültürel Mirası

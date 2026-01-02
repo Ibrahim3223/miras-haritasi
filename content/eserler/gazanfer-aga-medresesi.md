@@ -1,18 +1,17 @@
 ---
-title: "Gazanfer Ağa Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:12+03:00
+title: "Gazanfer Ağa Medresesi"
+date: "2025-12-25T17:24:12+03:00"
 slug: "gazanfer-aga-medresesi"
 description: "## Gazanfer Ağa Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gazanfer_Ağa_Madrasa,_Unkapanı,_İstanbul_(12984876625).jpg/1200px-Gazanfer_Ağa_Madrasa,_Unkapanı,_İstanbul_(12984876625).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9553509,41.0162201"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gazanfer Ağa Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Camii Harim Bölümü Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:44:32+03:00
+title: "Sultan Ahmet Camii Harim Bölümü Çeşmeleri"
+date: "2025-12-25T11:44:32+03:00"
 slug: "sultan-ahmet-camii-harim-bolumu-cesmeleri"
 description: "### Sultan Ahmet Camii Harim Bölümü Çeşmeleri..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9770432,41.0053787"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Sultan Ahmet Camii Harim Bölümü Çeşmeleri

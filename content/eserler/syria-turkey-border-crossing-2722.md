@@ -1,18 +1,17 @@
 ---
-title: "Syria Turkey border crossing #2722 | Miras Haritası"
-date: 2025-12-25T08:36:50+03:00
+title: "Syria Turkey border crossing #2722"
+date: "2025-12-25T08:36:50+03:00"
 slug: "syria-turkey-border-crossing-2722"
 description: "## Suriye - Türkiye Sınırı #2722 Kervansarayı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "42.17454722,37.284428992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Suriye - Türkiye Sınırı #2722 Kervansarayı

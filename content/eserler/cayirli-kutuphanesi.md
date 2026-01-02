@@ -1,18 +1,17 @@
 ---
-title: "Çayırlı Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:54:45+03:00
+title: "Çayırlı Kütüphanesi"
+date: "2025-12-25T17:54:45+03:00"
 slug: "cayirli-kutuphanesi"
 description: "### Çayırlı Kütüphanesi: Fatih, İstanbul'un Gizli Çehresini Açığa Çıkaran Bir Klasik..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.953882,41.022755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çayırlı Kütüphanesi: Fatih, İstanbul'un Gizli Çehresini Açığa Çıkaran Bir Klasik

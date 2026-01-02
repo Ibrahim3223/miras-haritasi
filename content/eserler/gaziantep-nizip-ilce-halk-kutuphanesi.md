@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Nizip İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:49:33+03:00
+title: "Gaziantep Nizip İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:49:33+03:00"
 slug: "gaziantep-nizip-ilce-halk-kutuphanesi"
 description: "### Gaziantep Nizip İlçe Halk Kütüphanesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gaziantep Nizip İlçe Halk Kütüphanesi

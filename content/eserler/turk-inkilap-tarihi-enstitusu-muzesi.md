@@ -1,18 +1,17 @@
 ---
-title: "Türk İnkılap Tarihi Enstitüsü Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:56+03:00
+title: "Türk İnkılap Tarihi Enstitüsü Müzesi"
+date: "2025-12-25T03:53:56+03:00"
 slug: "turk-inkilap-tarihi-enstitusu-muzesi"
 description: "**Türk İnkılap Tarihi Enstitüsü Müzesi**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8555946,39.9300995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Türk İnkılap Tarihi Enstitüsü Müzesi**

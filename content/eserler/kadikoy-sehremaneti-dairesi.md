@@ -1,18 +1,17 @@
 ---
-title: "Kadıköy Şehremaneti Dairesi | Miras Haritası"
-date: 2025-12-25T17:56:09+03:00
+title: "Kadıköy Şehremaneti Dairesi"
+date: "2025-12-25T17:56:09+03:00"
 slug: "kadikoy-sehremaneti-dairesi"
 description: "## Kadıköy Şehremaneti Dairesi: Kadıköy'in Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.0221558,40.9906845"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadıköy Şehremaneti Dairesi: Kadıköy'in Kültürel Mirası

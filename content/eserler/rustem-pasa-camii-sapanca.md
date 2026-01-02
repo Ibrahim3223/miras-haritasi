@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Paşa Camii (Sapanca) | Miras Haritası"
-date: 2025-12-25T00:29:06+03:00
+title: "Rüstem Paşa Camii (Sapanca)"
+date: "2025-12-25T00:29:06+03:00"
 slug: "rustem-pasa-camii-sapanca"
 description: "## Rüstem Paşa Camii: Sapanca'nın Eski Türk Camii..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Sapanca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2691631,40.692337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rüstem Paşa Camii: Sapanca'nın Eski Türk Camii

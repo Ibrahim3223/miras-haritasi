@@ -1,18 +1,17 @@
 ---
-title: "Ak Minare, Sivrihisar | Miras Haritası"
-date: 2025-12-25T00:10:57+03:00
+title: "Ak Minare, Sivrihisar"
+date: "2025-12-25T00:10:57+03:00"
 slug: "ak-minare-sivrihisar"
 description: "### Ak Minare, Sivrihisar: Eskişehir'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5403709,39.4482193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ak Minare, Sivrihisar: Eskişehir'in Gizli Çehresini Keşfedin

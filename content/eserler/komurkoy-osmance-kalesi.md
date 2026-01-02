@@ -1,18 +1,17 @@
 ---
-title: "Kömürköy Osmançe Kalesi | Miras Haritası"
-date: 2025-12-25T01:42:05+03:00
+title: "Kömürköy Osmançe Kalesi"
+date: "2025-12-25T01:42:05+03:00"
 slug: "komurkoy-osmance-kalesi"
 description: "## Kömürköy Osmançe Kalesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.9338779,41.6261253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kömürköy Osmançe Kalesi

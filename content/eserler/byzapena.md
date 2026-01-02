@@ -1,18 +1,17 @@
 ---
-title: "Byzapena | Miras Haritası"
-date: 2025-12-25T04:45:16+03:00
+title: "Byzapena"
+date: "2025-12-25T04:45:16+03:00"
 slug: "byzapena"
 description: "### Byzapena: Geç Antik Dönemde Bir Roma Kenti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.657367,40.906596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Byzapena: Geç Antik Dönemde Bir Roma Kenti

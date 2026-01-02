@@ -1,18 +1,17 @@
 ---
-title: "Çoban Mustafa Paşa Darüşşifası | Miras Haritası"
-date: 2025-12-25T17:32:30+03:00
+title: "Çoban Mustafa Paşa Darüşşifası"
+date: "2025-12-25T17:32:30+03:00"
 slug: "coban-mustafa-pasa-darussifasi"
 description: "## Çoban Mustafa Paşa Darüşşifası: Gebze'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.4318504,40.8001213"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Mustafa Paşa Darüşşifası: Gebze'nin Tarihi Bir Mirası

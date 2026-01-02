@@ -1,18 +1,17 @@
 ---
-title: "Aznavur Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:39+03:00
+title: "Aznavur Kalesi"
+date: "2025-12-25T01:32:39+03:00"
 slug: "aznavur-kalesi"
 description: "## Aznavur Kalesi: Mardin'in Gizli Kahramanı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Nusaybin"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.516819,37.083119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aznavur Kalesi: Mardin'in Gizli Kahramanı

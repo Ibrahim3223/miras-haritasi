@@ -1,18 +1,17 @@
 ---
-title: "Evrenli Kocatepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:14:51+03:00
+title: "Evrenli Kocatepe Tümülüsü"
+date: "2025-12-25T08:14:51+03:00"
 slug: "evrenli-kocatepe-tumulusu"
 description: "## Evrenli Kocatepe Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8437729,41.5308571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evrenli Kocatepe Tümülüsü: Kırklareli'nin Gizli Mirası

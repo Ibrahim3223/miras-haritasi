@@ -1,18 +1,17 @@
 ---
-title: "Mesken Tarihi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:19:01+03:00
+title: "Mesken Tarihi Köprüsü"
+date: "2025-12-25T02:19:01+03:00"
 slug: "mesken-tarihi-koprusu"
 description: "### Mesken Tarihi Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2586422,37.4775734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mesken Tarihi Köprüsü

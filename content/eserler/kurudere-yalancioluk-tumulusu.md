@@ -1,18 +1,17 @@
 ---
-title: "Kurudere Yalancıoluk Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:59:31+03:00
+title: "Kurudere Yalancıoluk Tümülüsü"
+date: "2025-12-25T07:59:31+03:00"
 slug: "kurudere-yalancioluk-tumulusu"
 description: "### Kurudere Yalancıoluk Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5706348,41.7619705"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurudere Yalancıoluk Tümülüsü

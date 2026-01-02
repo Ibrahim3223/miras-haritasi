@@ -1,18 +1,17 @@
 ---
-title: "Sadberk Hanım Müzesi | Miras Haritası"
-date: 2025-12-25T03:12:00+03:00
+title: "Sadberk Hanım Müzesi"
+date: "2025-12-25T03:12:00+03:00"
 slug: "sadberk-hanim-muzesi"
 description: "## Sadberk Hanım Müzesi: İstanbulluların En Büyük Değerleri Arasındaki Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sadberkhanımmüzesi1.jpg/1200px-Sadberkhanımmüzesi1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.04777,41.16308"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sadberk Hanım Müzesi: İstanbulluların En Büyük Değerleri Arasındaki Bir Anıt

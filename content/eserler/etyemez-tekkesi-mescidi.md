@@ -1,18 +1,17 @@
 ---
-title: "Etyemez Tekkesi Mescidi | Miras Haritası"
-date: 2025-12-25T00:56:59+03:00
+title: "Etyemez Tekkesi Mescidi"
+date: "2025-12-25T00:56:59+03:00"
 slug: "etyemez-tekkesi-mescidi"
 description: "## Etyemez Tekkesi Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9374371,41.0026894"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Etyemez Tekkesi Mescidi

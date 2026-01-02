@@ -1,18 +1,17 @@
 ---
-title: "Sarabat Camii | Miras Haritası"
-date: 2025-12-24T22:42:05+03:00
+title: "Sarabat Camii"
+date: "2025-12-24T22:42:05+03:00"
 slug: "sarabat-camii"
 description: "## Sarabat Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4378719,38.6092072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarabat Camii

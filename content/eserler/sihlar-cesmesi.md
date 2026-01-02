@@ -1,18 +1,17 @@
 ---
-title: "Şıhlar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:42:14+03:00
+title: "Şıhlar Çeşmesi"
+date: "2025-12-25T10:42:14+03:00"
 slug: "sihlar-cesmesi"
 description: "## Şıhlar Çeşmesi: Bolvadin'in Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bolvadin"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.0630169,38.7081642"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şıhlar Çeşmesi: Bolvadin'in Tarihî Bir Çeşmesi

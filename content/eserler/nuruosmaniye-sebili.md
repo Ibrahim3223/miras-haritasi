@@ -1,18 +1,17 @@
 ---
-title: "Nuruosmaniye Sebili | Miras Haritası"
-date: 2025-12-25T13:09:27+03:00
+title: "Nuruosmaniye Sebili"
+date: "2025-12-25T13:09:27+03:00"
 slug: "nuruosmaniye-sebili"
 description: "## Nuruosmaniye Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.970045605,41.010033343"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nuruosmaniye Sebili: İstanbul'un Gizli Çeşmesi

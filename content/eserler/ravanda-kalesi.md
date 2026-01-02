@@ -1,18 +1,17 @@
 ---
-title: "Ravanda Kalesi | Miras Haritası"
-date: 2025-12-25T01:31:43+03:00
+title: "Ravanda Kalesi"
+date: "2025-12-25T01:31:43+03:00"
 slug: "ravanda-kalesi"
 description: "## Ravanda Kalesi: Tarihî Mirasın Gizemli Adresi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Polateli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.053698,36.873175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ravanda Kalesi: Tarihî Mirasın Gizemli Adresi

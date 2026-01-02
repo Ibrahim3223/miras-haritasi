@@ -1,18 +1,17 @@
 ---
-title: "Hemhüm Camii | Miras Haritası"
-date: 2025-12-24T23:34:03+03:00
+title: "Hemhüm Camii"
+date: "2025-12-24T23:34:03+03:00"
 slug: "hemhum-camii"
 description: "## Hemhüm Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8705635,39.9357872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hemhüm Camii: Ankara'nın Gizli Cenneti

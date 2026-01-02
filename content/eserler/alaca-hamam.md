@@ -1,18 +1,17 @@
 ---
-title: "Alaca Hamam | Miras Haritası"
-date: 2025-12-25T16:31:54+03:00
+title: "Alaca Hamam"
+date: "2025-12-25T16:31:54+03:00"
 slug: "alaca-hamam"
 description: "## Alaca Hamam: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4320115,38.610559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaca Hamam: Manisa'nın Tarihi Bir Mirası

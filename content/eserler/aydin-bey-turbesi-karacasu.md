@@ -1,18 +1,17 @@
 ---
-title: "Aydın Bey Türbesi, Karacasu | Miras Haritası"
-date: 2025-12-25T15:34:20+03:00
+title: "Aydın Bey Türbesi, Karacasu"
+date: "2025-12-25T15:34:20+03:00"
 slug: "aydin-bey-turbesi-karacasu"
 description: "### Aydın Bey Türbesi, Karacasu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.5757504,37.7854004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aydın Bey Türbesi, Karacasu

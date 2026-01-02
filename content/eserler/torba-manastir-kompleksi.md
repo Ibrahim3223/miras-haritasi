@@ -1,18 +1,17 @@
 ---
-title: "Torba Manastır Kompleksi | Miras Haritası"
-date: 2025-12-25T09:54:07+03:00
+title: "Torba Manastır Kompleksi"
+date: "2025-12-25T09:54:07+03:00"
 slug: "torba-manastir-kompleksi"
 description: "## Torba Manastır Kompleksi: Bodrum'un Gizli Tarihi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "27.4643002,37.0812988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Torba Manastır Kompleksi: Bodrum'un Gizli Tarihi

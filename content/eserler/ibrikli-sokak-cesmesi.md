@@ -1,18 +1,17 @@
 ---
-title: "İbrikli Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:14+03:00
+title: "İbrikli Sokak Çeşmesi"
+date: "2025-12-25T10:45:14+03:00"
 slug: "ibrikli-sokak-cesmesi"
 description: "## İbrikli Sokak Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7684784,41.3775864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrikli Sokak Çeşmesi

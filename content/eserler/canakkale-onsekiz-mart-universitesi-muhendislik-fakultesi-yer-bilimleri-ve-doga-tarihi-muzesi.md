@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Onsekiz Mart Üniversitesi Mühendislik Fakültesi Yer Bilimleri ve Doğa Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T04:09:45+03:00
+title: "Çanakkale Onsekiz Mart Üniversitesi Mühendislik Fakültesi Yer Bilimleri ve Doğa Tarihi Müzesi"
+date: "2025-12-25T04:09:45+03:00"
 slug: "canakkale-onsekiz-mart-universitesi-muhendislik-fakultesi-yer-bilimleri-ve-doga-tarihi-muzesi"
 description: "## Çanakkale Onsekiz Mart Üniversitesi Mühendislik Fakültesi Yer Bilimleri ve Doğa Tarihi Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Çanakkale"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.4209808,40.1130524"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale Onsekiz Mart Üniversitesi Mühendislik Fakültesi Yer Bilimleri ve Doğa Tarihi Müzesi

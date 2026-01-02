@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Aziz Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:24:09+03:00
+title: "Mahmut Aziz Bey Çeşmesi"
+date: "2025-12-25T11:24:09+03:00"
 slug: "mahmut-aziz-bey-cesmesi"
 description: "## Mahmut Aziz Bey Çeşmesi..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Kanlıca"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.064909,41.097785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Aziz Bey Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "I.Abdülhamit Han Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:40+03:00
+title: "I.Abdülhamit Han Medresesi"
+date: "2025-12-25T17:27:40+03:00"
 slug: "iabdulhamit-han-medresesi"
 description: "## I.Abdülhamit Han Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.950886,41.027344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## I.Abdülhamit Han Medresesi

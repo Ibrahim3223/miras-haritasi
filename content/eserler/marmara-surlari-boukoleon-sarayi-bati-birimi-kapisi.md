@@ -1,18 +1,17 @@
 ---
-title: "Marmara Surları: Boukoleon Sarayı Batı Birimi Kapısı | Miras Haritası"
-date: 2025-12-25T13:18:31+03:00
+title: "Marmara Surları: Boukoleon Sarayı Batı Birimi Kapısı"
+date: "2025-12-25T13:18:31+03:00"
 slug: "marmara-surlari-boukoleon-sarayi-bati-birimi-kapisi"
 description: "### Marmara Surları: Boukoleon Sarayı Batı Birimi Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9755363,41.0023727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Marmara Surları: Boukoleon Sarayı Batı Birimi Kapısı

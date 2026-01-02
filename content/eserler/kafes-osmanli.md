@@ -1,18 +1,17 @@
 ---
-title: "Kafes (Osmanlı) | Miras Haritası"
-date: 2025-12-25T13:12:04+03:00
+title: "Kafes (Osmanlı)"
+date: "2025-12-25T13:12:04+03:00"
 slug: "kafes-osmanli"
 description: "## Kafes: Osmanlı Dönemi'nin Gizli Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Veliahd_Dairesi_Topkapi_Istanbul_2007.jpg/1200px-Veliahd_Dairesi_Topkapi_Istanbul_2007.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.9835491,41.0137863"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kafes: Osmanlı Dönemi'nin Gizli Sarayı

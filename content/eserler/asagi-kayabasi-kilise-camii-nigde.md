@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Kayabaşı Kilise Camii, Niğde | Miras Haritası"
-date: 2025-12-25T00:53:57+03:00
+title: "Aşağı Kayabaşı Kilise Camii, Niğde"
+date: "2025-12-25T00:53:57+03:00"
 slug: "asagi-kayabasi-kilise-camii-nigde"
 description: "## Aşağı Kayabaşı Kilise Camii: Bir Tarihsel ve Kültürel Miras..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6677933,37.966526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Kayabaşı Kilise Camii: Bir Tarihsel ve Kültürel Miras

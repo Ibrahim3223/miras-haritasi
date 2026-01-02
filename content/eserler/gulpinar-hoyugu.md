@@ -1,18 +1,17 @@
 ---
-title: "Gülpınar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:59:34+03:00
+title: "Gülpınar Höyüğü"
+date: "2025-12-25T06:59:34+03:00"
 slug: "gulpinar-hoyugu"
 description: "### Gülpınar Höyüğü: Çanakkale'nin Gizli Tarihi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gülpınar Höyüğü: Çanakkale'nin Gizli Tarihi

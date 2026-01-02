@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Camii (Edremit) | Miras Haritası"
-date: 2025-12-25T00:44:22+03:00
+title: "Mehmet Ağa Camii (Edremit)"
+date: "2025-12-25T00:44:22+03:00"
 slug: "mehmet-aga-camii-edremit"
 description: "## Mehmet Ağa Camii: Edremit'in Tarihi Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.018821649,39.595843927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ağa Camii: Edremit'in Tarihi Cenneti

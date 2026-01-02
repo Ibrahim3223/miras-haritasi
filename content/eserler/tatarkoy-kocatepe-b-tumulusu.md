@@ -1,18 +1,17 @@
 ---
-title: "Tatarköy Kocatepe B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:52+03:00
+title: "Tatarköy Kocatepe B Tümülüsü"
+date: "2025-12-25T07:47:52+03:00"
 slug: "tatarkoy-kocatepe-b-tumulusu"
 description: "### Tatarköy Kocatepe B Tümülüsü: Lüleburgaz'ın Gizli Tarihi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3475037,41.4962502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tatarköy Kocatepe B Tümülüsü: Lüleburgaz'ın Gizli Tarihi

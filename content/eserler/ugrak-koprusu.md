@@ -1,18 +1,17 @@
 ---
-title: "Uğrak Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:59+03:00
+title: "Uğrak Köprüsü"
+date: "2025-12-25T01:59:59+03:00"
 slug: "ugrak-koprusu"
 description: "## Uğrak Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9305257,41.0785101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uğrak Köprüsü

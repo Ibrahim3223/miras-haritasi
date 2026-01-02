@@ -1,18 +1,17 @@
 ---
-title: "Sinan Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:16+03:00
+title: "Sinan Paşa Türbesi"
+date: "2025-12-25T14:40:16+03:00"
 slug: "sinan-pasa-turbesi"
 description: "### Sinan Paşa Türbesi: Konya'nın Tarihi Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5048065,37.8704529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sinan Paşa Türbesi: Konya'nın Tarihi Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Palaeopolis | Miras Haritası"
-date: 2025-12-25T05:19:30+03:00
+title: "Palaeopolis"
+date: "2025-12-25T05:19:30+03:00"
 slug: "palaeopolis"
 description: "## Palaeopolis..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palaeopolis

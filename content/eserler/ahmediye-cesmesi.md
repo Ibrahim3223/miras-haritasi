@@ -1,18 +1,17 @@
 ---
-title: "Ahmediye Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:34+03:00
+title: "Ahmediye Çeşmesi"
+date: "2025-12-25T11:08:34+03:00"
 slug: "ahmediye-cesmesi"
 description: "### Ahmediye Çeşmesi: Üsküdar'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ahmediye_Çeşmesi.jpg/1200px-Ahmediye_Çeşmesi.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Ahmediye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.016759,41.020213"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ahmediye Çeşmesi: Üsküdar'ın Tarihi ve Kültürel Mirası

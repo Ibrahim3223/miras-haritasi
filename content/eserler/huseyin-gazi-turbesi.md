@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:38+03:00
+title: "Hüseyin Gazi Türbesi"
+date: "2025-12-25T14:37:38+03:00"
 slug: "huseyin-gazi-turbesi"
 description: "### Hüseyin Gazi Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.9627,39.9458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hüseyin Gazi Türbesi

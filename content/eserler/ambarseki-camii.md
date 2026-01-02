@@ -1,18 +1,17 @@
 ---
-title: "Ambarseki Camii | Miras Haritası"
-date: 2025-12-24T22:10:15+03:00
+title: "Ambarseki Camii"
+date: "2025-12-24T22:10:15+03:00"
 slug: "ambarseki-camii"
 description: "# Ambarseki Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5235596,38.6139069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ambarseki Camii: İzmir'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Kömür Adası, Didim | Miras Haritası"
-date: 2025-12-25T05:50:20+03:00
+title: "Kömür Adası, Didim"
+date: "2025-12-25T05:50:20+03:00"
 slug: "komur-adasi-didim"
 description: "## Kömür Adası: Didim'in Gizli Çandırı..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.39975,37.4105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kömür Adası: Didim'in Gizli Çandırı

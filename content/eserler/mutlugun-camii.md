@@ -1,18 +1,17 @@
 ---
-title: "Mutlugün Camii | Miras Haritası"
-date: 2025-12-25T00:20:41+03:00
+title: "Mutlugün Camii"
+date: "2025-12-25T00:20:41+03:00"
 slug: "mutlugun-camii"
 description: "## Mutlugün Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.564614,40.8818294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mutlugün Camii: Artvin'in Tarihi Bir Mirası

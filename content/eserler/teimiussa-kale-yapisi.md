@@ -1,18 +1,17 @@
 ---
-title: "Teimiussa Kale Yapısı | Miras Haritası"
-date: 2025-12-25T01:26:36+03:00
+title: "Teimiussa Kale Yapısı"
+date: "2025-12-25T01:26:36+03:00"
 slug: "teimiussa-kale-yapisi"
 description: "## Teimiussa Kale Yapısı: Antik Bir Mirasın İzleri Demre'de..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.8502789,36.1972198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Teimiussa Kale Yapısı: Antik Bir Mirasın İzleri Demre'de

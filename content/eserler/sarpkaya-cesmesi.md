@@ -1,18 +1,17 @@
 ---
-title: "Sarpkaya Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:37+03:00
+title: "Sarpkaya Çeşmesi"
+date: "2025-12-25T10:17:37+03:00"
 slug: "sarpkaya-cesmesi"
 description: "# Sarpkaya Çeşmesi: Giresun'un Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çamoluk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.5542068,40.1373901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sarpkaya Çeşmesi: Giresun'un Kültürel Mirası

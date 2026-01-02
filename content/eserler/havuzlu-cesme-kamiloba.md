@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme, Kamiloba | Miras Haritası"
-date: 2025-12-25T12:45:30+03:00
+title: "Havuzlu Çeşme, Kamiloba"
+date: "2025-12-25T12:45:30+03:00"
 slug: "havuzlu-cesme-kamiloba"
 description: "# Havuzlu Çeşme, Kamiloba..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4322834,41.0462189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Havuzlu Çeşme, Kamiloba

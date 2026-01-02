@@ -1,18 +1,17 @@
 ---
-title: "Söke Hacı Halil Paşa Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:58:02+03:00
+title: "Söke Hacı Halil Paşa Halk Kütüphanesi"
+date: "2025-12-25T17:58:02+03:00"
 slug: "soke-haci-halil-pasa-halk-kutuphanesi"
 description: "## Söke Hacı Halil Paşa Halk Kütüphanesi: Aydın'ın Kültür Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.4031677,37.7546959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söke Hacı Halil Paşa Halk Kütüphanesi: Aydın'ın Kültür Mirası

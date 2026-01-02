@@ -1,18 +1,17 @@
 ---
-title: "Anonim Türbe 3 | Miras Haritası"
-date: 2025-12-25T14:56:29+03:00
+title: "Anonim Türbe 3"
+date: "2025-12-25T14:56:29+03:00"
 slug: "anonim-turbe-3"
 description: "## Anonim Türbe 3..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7888546,37.2727623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anonim Türbe 3

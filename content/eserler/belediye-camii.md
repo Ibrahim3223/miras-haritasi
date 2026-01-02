@@ -1,18 +1,17 @@
 ---
-title: "Belediye Camii | Miras Haritası"
-date: 2025-12-24T23:23:01+03:00
+title: "Belediye Camii"
+date: "2025-12-24T23:23:01+03:00"
 slug: "belediye-camii"
 description: "## Belediye Camii: Silvan'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.0033722,38.1415138"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belediye Camii: Silvan'ın Tarihi Bir Mirası

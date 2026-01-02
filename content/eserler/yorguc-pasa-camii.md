@@ -1,18 +1,17 @@
 ---
-title: "Yörgüç Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:45:31+03:00
+title: "Yörgüç Paşa Camii"
+date: "2025-12-24T21:45:31+03:00"
 slug: "yorguc-pasa-camii"
 description: "## Yörgüç Paşa Camii: Samsun'un Eski Kenti Kavak'ta Bir Önemli Cami..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.042611111,41.079055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yörgüç Paşa Camii: Samsun'un Eski Kenti Kavak'ta Bir Önemli Cami

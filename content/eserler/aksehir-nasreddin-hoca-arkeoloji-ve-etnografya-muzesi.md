@@ -1,18 +1,17 @@
 ---
-title: "Akşehir Nasreddin Hoca Arkeoloji ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:20:30+03:00
+title: "Akşehir Nasreddin Hoca Arkeoloji ve Etnografya Müzesi"
+date: "2025-12-25T03:20:30+03:00"
 slug: "aksehir-nasreddin-hoca-arkeoloji-ve-etnografya-muzesi"
 description: "## Akşehir Nasreddin Hoca Arkeoloji ve Etnografya Müzesi: Kültür Mirasının Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Akşehir_Ethnography_Museum.jpg/1200px-Akşehir_Ethnography_Museum.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.411111111,38.356666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akşehir Nasreddin Hoca Arkeoloji ve Etnografya Müzesi: Kültür Mirasının Bir Anıtı

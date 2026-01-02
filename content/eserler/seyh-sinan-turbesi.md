@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Sinan Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:38+03:00
+title: "Şeyh Sinan Türbesi"
+date: "2025-12-25T14:22:38+03:00"
 slug: "seyh-sinan-turbesi"
 description: "## Şeyh Sinan Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.518332,38.345085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Sinan Türbesi

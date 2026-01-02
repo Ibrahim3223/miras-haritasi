@@ -1,18 +1,17 @@
 ---
-title: "Abdal Musa Tekkesi | Miras Haritası"
-date: 2025-12-25T15:10:52+03:00
+title: "Abdal Musa Tekkesi"
+date: "2025-12-25T15:10:52+03:00"
 slug: "abdal-musa-tekkesi"
 description: "# Abdal Musa Tekkesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.870489,36.612105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdal Musa Tekkesi

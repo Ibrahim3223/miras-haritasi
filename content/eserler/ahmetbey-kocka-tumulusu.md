@@ -1,18 +1,17 @@
 ---
-title: "Ahmetbey Koçka Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:42:33+03:00
+title: "Ahmetbey Koçka Tümülüsü"
+date: "2025-12-25T07:42:33+03:00"
 slug: "ahmetbey-kocka-tumulusu"
 description: "### Ahmetbey Koçka Tümülüsü: Lüleburgaz'daki Antik Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6325703,41.493618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmetbey Koçka Tümülüsü: Lüleburgaz'daki Antik Miras

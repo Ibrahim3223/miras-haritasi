@@ -1,18 +1,17 @@
 ---
-title: "Silahtar Mustafa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:20+03:00
+title: "Silahtar Mustafa Ağa Çeşmesi"
+date: "2025-12-25T10:59:20+03:00"
 slug: "silahtar-mustafa-aga-cesmesi"
 description: "## Silahtar Mustafa Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Silahtar_Mustafa_Ağa_Çeşmesi.jpg/1200px-Silahtar_Mustafa_Ağa_Çeşmesi.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Salacak"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.009157,41.020653"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Silahtar Mustafa Ağa Çeşmesi

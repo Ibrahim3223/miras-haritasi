@@ -1,18 +1,17 @@
 ---
-title: "Çulhalar Kalesi | Miras Haritası"
-date: 2025-12-25T01:51:18+03:00
+title: "Çulhalar Kalesi"
+date: "2025-12-25T01:51:18+03:00"
 slug: "culhalar-kalesi"
 description: "### Çulhalar Kalesi: Aydın'ın Gizli Güzeli..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.6816998,37.7450981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çulhalar Kalesi: Aydın'ın Gizli Güzeli

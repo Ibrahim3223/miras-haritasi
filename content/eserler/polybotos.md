@@ -1,18 +1,17 @@
 ---
-title: "Polybotos | Miras Haritası"
-date: 2025-12-25T08:32:33+03:00
+title: "Polybotos"
+date: "2025-12-25T08:32:33+03:00"
 slug: "polybotos"
 description: "## Polybotos: Afyonkarahisar'ın Gizli Ören Yeri..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bolvadin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.9850597,38.6906815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Polybotos: Afyonkarahisar'ın Gizli Ören Yeri

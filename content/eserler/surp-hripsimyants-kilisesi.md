@@ -1,18 +1,17 @@
 ---
-title: "Surp Hripsimyants Kilisesi | Miras Haritası"
-date: 2025-12-25T08:49:22+03:00
+title: "Surp Hripsimyants Kilisesi"
+date: "2025-12-25T08:49:22+03:00"
 slug: "surp-hripsimyants-kilisesi"
 description: "### Surp Hripsimyants Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.039585,41.159314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Hripsimyants Kilisesi

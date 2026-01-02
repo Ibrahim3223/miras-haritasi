@@ -1,18 +1,17 @@
 ---
-title: "Maran Kalesi | Miras Haritası"
-date: 2025-12-25T01:17:36+03:00
+title: "Maran Kalesi"
+date: "2025-12-25T01:17:36+03:00"
 slug: "maran-kalesi"
 description: "### Maran Kalesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Feke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.8095894,37.8347054"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Maran Kalesi

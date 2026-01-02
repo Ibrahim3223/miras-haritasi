@@ -1,18 +1,17 @@
 ---
-title: "Balıklı Camii | Miras Haritası"
-date: 2025-12-24T21:57:01+03:00
+title: "Balıklı Camii"
+date: "2025-12-24T21:57:01+03:00"
 slug: "balikli-camii"
 description: "# Balıklı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Balıklı_camii_dış.JPG/1200px-Balıklı_camii_dış.JPG"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Balıklı Camii

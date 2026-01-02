@@ -1,18 +1,17 @@
 ---
-title: "Hoca Ahmet Fakih Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:54+03:00
+title: "Hoca Ahmet Fakih Camii Çeşmesi"
+date: "2025-12-25T11:38:54+03:00"
 slug: "hoca-ahmet-fakih-camii-cesmesi"
 description: "### Hoca Ahmet Fakih Camii Çeşmesi ..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4666481,37.8722229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hoca Ahmet Fakih Camii Çeşmesi 

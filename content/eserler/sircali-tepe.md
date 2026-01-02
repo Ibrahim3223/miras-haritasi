@@ -1,18 +1,17 @@
 ---
-title: "Sırçalı Tepe | Miras Haritası"
-date: 2025-12-25T05:55:03+03:00
+title: "Sırçalı Tepe"
+date: "2025-12-25T05:55:03+03:00"
 slug: "sircali-tepe"
 description: "## Sırçalı Tepe: Çumra'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.742073,37.571369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sırçalı Tepe: Çumra'nın Gizli Mirası

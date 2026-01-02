@@ -1,18 +1,17 @@
 ---
-title: "Taksiyarhis Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:25:40+03:00
+title: "Taksiyarhis Çeşmesi"
+date: "2025-12-25T11:25:40+03:00"
 slug: "taksiyarhis-cesmesi"
 description: "**Taksiyarhis Çeşmesi: Balıkesir'in Değerli Hazinesi**..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Marmara"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5568867,40.586235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Taksiyarhis Çeşmesi: Balıkesir'in Değerli Hazinesi**

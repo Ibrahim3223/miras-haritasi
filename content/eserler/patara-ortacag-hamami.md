@@ -1,18 +1,17 @@
 ---
-title: "Patara Ortaçağ Hamamı | Miras Haritası"
-date: 2025-12-25T16:47:07+03:00
+title: "Patara Ortaçağ Hamamı"
+date: "2025-12-25T16:47:07+03:00"
 slug: "patara-ortacag-hamami"
 description: "### Patara Ortaçağ Hamamı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.3151932,36.263813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Patara Ortaçağ Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Sultan Süleyman Külliyesi | Miras Haritası"
-date: 2025-12-25T17:36:31+03:00
+title: "Sultan Süleyman Külliyesi"
+date: "2025-12-25T17:36:31+03:00"
 slug: "sultan-suleyman-kulliyesi"
 description: "## Sultan Süleyman Külliyesi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Hasankeyf"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "41.4130592,37.7125359"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Süleyman Külliyesi

@@ -1,18 +1,17 @@
 ---
-title: "Mescit-1, Altındağ | Miras Haritası"
-date: 2025-12-25T00:50:13+03:00
+title: "Mescit-1, Altındağ"
+date: "2025-12-25T00:50:13+03:00"
 slug: "mescit-1-altindag"
 description: "## Mescit-1, Altındağ: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.856724844,39.945095097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mescit-1, Altındağ: Ankara'nın Gizli Cenneti

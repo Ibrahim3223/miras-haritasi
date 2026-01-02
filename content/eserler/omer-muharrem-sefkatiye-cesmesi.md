@@ -1,18 +1,17 @@
 ---
-title: "Ömer Muharrem Şefkatiye Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:39+03:00
+title: "Ömer Muharrem Şefkatiye Çeşmesi"
+date: "2025-12-25T10:24:39+03:00"
 slug: "omer-muharrem-sefkatiye-cesmesi"
 description: "### Ömer Muharrem Şefkatiye Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8460445,37.8496284"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ömer Muharrem Şefkatiye Çeşmesi

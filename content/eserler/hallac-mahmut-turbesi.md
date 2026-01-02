@@ -1,18 +1,17 @@
 ---
-title: "Hallac Mahmut Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:55+03:00
+title: "Hallac Mahmut Türbesi"
+date: "2025-12-25T15:17:55+03:00"
 slug: "hallac-mahmut-turbesi"
 description: "**Hallac Mahmut Türbesi**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.857048,39.9408264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hallac Mahmut Türbesi**

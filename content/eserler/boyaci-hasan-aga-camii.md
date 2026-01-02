@@ -1,18 +1,17 @@
 ---
-title: "Boyacı Hasan Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:19:26+03:00
+title: "Boyacı Hasan Ağa Camii"
+date: "2025-12-24T22:19:26+03:00"
 slug: "boyaci-hasan-aga-camii"
 description: "## Boyacı Hasan Ağa Camii: Zile'nin Tarihi Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Boyacı_Hasan_Ağa_Camii.jpg/1200px-Boyacı_Hasan_Ağa_Camii.jpg"
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.888222222,40.302861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Boyacı Hasan Ağa Camii: Zile'nin Tarihi Güzelliği

@@ -1,18 +1,17 @@
 ---
-title: "Eyvan Çeşme | Miras Haritası"
-date: 2025-12-25T10:17:26+03:00
+title: "Eyvan Çeşme"
+date: "2025-12-25T10:17:26+03:00"
 slug: "eyvan-cesme"
 description: "## Eyvan Çeşme: Şebinkarahisar'ın Göz Alıcı Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.4250069,40.2844963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eyvan Çeşme: Şebinkarahisar'ın Göz Alıcı Çeşmesi

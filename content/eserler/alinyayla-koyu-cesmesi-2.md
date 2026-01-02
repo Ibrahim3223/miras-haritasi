@@ -1,18 +1,17 @@
 ---
-title: "Alınyayla Köyü Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T10:13:34+03:00
+title: "Alınyayla Köyü Çeşmesi 2"
+date: "2025-12-25T10:13:34+03:00"
 slug: "alinyayla-koyu-cesmesi-2"
 description: "## Alınyayla Köyü Çeşmesi 2: Gümüşhane'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.1051064,40.5322227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alınyayla Köyü Çeşmesi 2: Gümüşhane'nin Gizli Çeşmesi

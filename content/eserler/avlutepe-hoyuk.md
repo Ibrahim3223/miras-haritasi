@@ -1,18 +1,17 @@
 ---
-title: "Avlutepe Höyük | Miras Haritası"
-date: 2025-12-25T05:39:43+03:00
+title: "Avlutepe Höyük"
+date: "2025-12-25T05:39:43+03:00"
 slug: "avlutepe-hoyuk"
 description: "## Avlutepe Höyük: Manisa'nın Gizli Hazinesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.347765,38.707412"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avlutepe Höyük: Manisa'nın Gizli Hazinesi

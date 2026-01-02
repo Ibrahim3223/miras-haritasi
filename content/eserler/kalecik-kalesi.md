@@ -1,18 +1,17 @@
 ---
-title: "Kalecik Kalesi | Miras Haritası"
-date: 2025-12-25T01:41:02+03:00
+title: "Kalecik Kalesi"
+date: "2025-12-25T01:41:02+03:00"
 slug: "kalecik-kalesi"
 description: "## Kalecik Kalesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kalecik"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.4056778,40.0958061"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalecik Kalesi

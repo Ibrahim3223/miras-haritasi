@@ -1,18 +1,17 @@
 ---
-title: "İkiçeşmelik Çeşmeleri, Konak | Miras Haritası"
-date: 2025-12-25T12:20:09+03:00
+title: "İkiçeşmelik Çeşmeleri, Konak"
+date: "2025-12-25T12:20:09+03:00"
 slug: "ikicesmelik-cesmeleri-konak"
 description: "## İkiçeşmelik Çeşmeleri, Konak..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1326427,38.4130936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkiçeşmelik Çeşmeleri, Konak

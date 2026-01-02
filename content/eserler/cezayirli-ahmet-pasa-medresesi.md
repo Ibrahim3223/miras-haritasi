@@ -1,18 +1,17 @@
 ---
-title: "Cezayirli Ahmet Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:52+03:00
+title: "Cezayirli Ahmet Paşa Medresesi"
+date: "2025-12-25T17:44:52+03:00"
 slug: "cezayirli-ahmet-pasa-medresesi"
 description: "## Cezayirli Ahmet Paşa Medresesi: Tarihi ve Kültürel Mirasın Özü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9780159,41.0142593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cezayirli Ahmet Paşa Medresesi: Tarihi ve Kültürel Mirasın Özü

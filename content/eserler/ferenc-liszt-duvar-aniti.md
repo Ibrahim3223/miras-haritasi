@@ -1,18 +1,17 @@
 ---
-title: "Ferenc Liszt Duvar Anıtı | Miras Haritası"
-date: 2025-12-25T15:52:49+03:00
+title: "Ferenc Liszt Duvar Anıtı"
+date: "2025-12-25T15:52:49+03:00"
 slug: "ferenc-liszt-duvar-aniti"
 description: "### Ferenc Liszt Duvar Anıtı: İstanbul'un Kültür Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9769802,41.0317841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ferenc Liszt Duvar Anıtı: İstanbul'un Kültür Mirasının Bir Parçası

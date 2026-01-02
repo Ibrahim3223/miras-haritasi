@@ -1,18 +1,17 @@
 ---
-title: "Tandırlı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:01+03:00
+title: "Tandırlı Köprüsü"
+date: "2025-12-25T02:35:01+03:00"
 slug: "tandirli-koprusu"
 description: "## Tandırlı Köprüsü: Trabzon'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Arsin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.878155,40.792641"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tandırlı Köprüsü: Trabzon'un Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Camii Avlusu İçindeki Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:09:46+03:00
+title: "Ayazma Camii Avlusu İçindeki Duvar Çeşmesi"
+date: "2025-12-25T11:09:46+03:00"
 slug: "ayazma-camii-avlusu-icindeki-duvar-cesmesi"
 description: "### Ayazma Camii Avlusu İçindeki Duvar Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ayazma_Camii_Avlusu_İçindeki_Duvar_Çeşmesi.jpg/1200px-Ayazma_Camii_Avlusu_İçindeki_Duvar_Çeşmesi.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Aziz Mahmut Hüdayi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.008746,41.022872"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ayazma Camii Avlusu İçindeki Duvar Çeşmesi

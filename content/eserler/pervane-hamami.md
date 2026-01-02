@@ -1,18 +1,17 @@
 ---
-title: "Pervane Hamamı | Miras Haritası"
-date: 2025-12-25T16:27:44+03:00
+title: "Pervane Hamamı"
+date: "2025-12-25T16:27:44+03:00"
 slug: "pervane-hamami"
 description: "### Pervane Hamamı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.5515622,40.3171638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pervane Hamamı

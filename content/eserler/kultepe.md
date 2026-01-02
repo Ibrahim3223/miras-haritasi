@@ -1,18 +1,17 @@
 ---
-title: "Kültepe | Miras Haritası"
-date: 2025-12-25T05:46:21+03:00
+title: "Kültepe"
+date: "2025-12-25T05:46:21+03:00"
 slug: "kultepe"
 description: "### Kültepe: Türkiye'nin En Eski Yerleşim Merkezlerinden Birisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/KültepeOberstadtPalast.jpg/1200px-KültepeOberstadtPalast.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.633333333,38.85"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kültepe: Türkiye'nin En Eski Yerleşim Merkezlerinden Birisi

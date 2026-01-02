@@ -1,18 +1,17 @@
 ---
-title: "Aynalı Mağara Kral Mezarı | Miras Haritası"
-date: 2025-12-25T14:08:42+03:00
+title: "Aynalı Mağara Kral Mezarı"
+date: "2025-12-25T14:08:42+03:00"
 slug: "aynali-magara-kral-mezari"
 description: "## Aynalı Mağara Kral Mezarı..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8492279,40.6724777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aynalı Mağara Kral Mezarı

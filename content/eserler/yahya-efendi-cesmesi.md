@@ -1,18 +1,17 @@
 ---
-title: "Yahya Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:38:51+03:00
+title: "Yahya Efendi Çeşmesi"
+date: "2025-12-25T10:38:51+03:00"
 slug: "yahya-efendi-cesmesi"
 description: "# Yahya Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Yahya_Efendi_Fountain_05.jpg/1200px-Yahya_Efendi_Fountain_05.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Yıldız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.01725,41.04587"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Yahya Efendi Çeşmesi

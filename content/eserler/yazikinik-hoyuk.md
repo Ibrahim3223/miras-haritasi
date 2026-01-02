@@ -1,18 +1,17 @@
 ---
-title: "Yazıkınık Höyük | Miras Haritası"
-date: 2025-12-25T05:59:55+03:00
+title: "Yazıkınık Höyük"
+date: "2025-12-25T05:59:55+03:00"
 slug: "yazikinik-hoyuk"
 description: "**Yazıkınık Höyük: Kırşehir'in Gizli Çınsı**..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4098167,39.1600609"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yazıkınık Höyük: Kırşehir'in Gizli Çınsı**

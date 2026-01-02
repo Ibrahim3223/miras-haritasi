@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Belediye Sarayı | Miras Haritası"
-date: 2025-12-25T08:37:17+03:00
+title: "İstanbul Belediye Sarayı"
+date: "2025-12-25T08:37:17+03:00"
 slug: "istanbul-belediye-sarayi"
 description: "# İstanbul Belediye Sarayı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/İBB_binası.JPG/1200px-İBB_binası.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul Büyükşehir Belediyesi"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "28.9551,41.0134"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # İstanbul Belediye Sarayı: İstanbul'un Tarihi ve Kültürel Mirası

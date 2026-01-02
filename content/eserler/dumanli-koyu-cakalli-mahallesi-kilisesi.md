@@ -1,18 +1,17 @@
 ---
-title: "Dumanlı Köyü Çakallı Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:16:03+03:00
+title: "Dumanlı Köyü Çakallı Mahallesi Kilisesi"
+date: "2025-12-25T09:16:03+03:00"
 slug: "dumanli-koyu-cakalli-mahallesi-kilisesi"
 description: "## Dumanlı Köyü Çakallı Mahallesi Kilisesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.798334,40.657898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumanlı Köyü Çakallı Mahallesi Kilisesi

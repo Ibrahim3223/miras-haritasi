@@ -1,18 +1,17 @@
 ---
-title: "Dolishane Kilisesi | Miras Haritası"
-date: 2025-12-25T09:48:22+03:00
+title: "Dolishane Kilisesi"
+date: "2025-12-25T09:48:22+03:00"
 slug: "dolishane-kilisesi"
 description: "## Dolishane Kilisesi: Türkiye'nin Tarihi ve Kültürel Mirasının Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Doliskana-southeast.jpg/1200px-Doliskana-southeast.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.95222222,41.16583333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dolishane Kilisesi: Türkiye'nin Tarihi ve Kültürel Mirasının Gizli Çehresi

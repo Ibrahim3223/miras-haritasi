@@ -1,18 +1,17 @@
 ---
-title: "Çini Müzesi | Miras Haritası"
-date: 2025-12-25T03:23:22+03:00
+title: "Çini Müzesi"
+date: "2025-12-25T03:23:22+03:00"
 slug: "cini-muzesi"
 description: "# Çini Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.975321,39.417155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çini Müzesi

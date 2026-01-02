@@ -1,18 +1,17 @@
 ---
-title: "Çıradere Höyüğü | Miras Haritası"
-date: 2025-12-25T07:03:11+03:00
+title: "Çıradere Höyüğü"
+date: "2025-12-25T07:03:11+03:00"
 slug: "ciradere-hoyugu"
 description: "## Çıradere Höyüğü: Türkiye'nin Eski Uygarlığının Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çıradere Höyüğü: Türkiye'nin Eski Uygarlığının Gizemi

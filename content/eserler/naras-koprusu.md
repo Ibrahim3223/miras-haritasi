@@ -1,18 +1,17 @@
 ---
-title: "Naras Köprüsü | Miras Haritası"
-date: 2025-12-25T02:10:22+03:00
+title: "Naras Köprüsü"
+date: "2025-12-25T02:10:22+03:00"
 slug: "naras-koprusu"
 description: "**Naras Köprüsü**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.447291,36.825217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Naras Köprüsü**

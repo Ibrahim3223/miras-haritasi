@@ -1,18 +1,17 @@
 ---
-title: "Çatalpınar Camii | Miras Haritası"
-date: 2025-12-24T22:31:12+03:00
+title: "Çatalpınar Camii"
+date: "2025-12-24T22:31:12+03:00"
 slug: "catalpinar-camii"
 description: "## Çatalpınar Camii: Sivas'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0203972,39.7546463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatalpınar Camii: Sivas'ın Tarihî Bir Mirası

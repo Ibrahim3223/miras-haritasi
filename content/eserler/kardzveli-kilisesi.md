@@ -1,18 +1,17 @@
 ---
-title: "Kardzveli Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:12+03:00
+title: "Kardzveli Kilisesi"
+date: "2025-12-25T09:02:12+03:00"
 slug: "kardzveli-kilisesi"
 description: "## Kardzveli Kilisesi..."
 featured_image: ""
-province: "Kutaisi Guberniyası"
-iller: ["Kutaisi Guberniyası"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: "Kutaisi Guberniyası"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.832623898,41.18291903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kardzveli Kilisesi

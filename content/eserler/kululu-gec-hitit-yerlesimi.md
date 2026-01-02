@@ -1,18 +1,17 @@
 ---
-title: "Kululu Geç Hitit Yerleşimi | Miras Haritası"
-date: 2025-12-25T05:58:05+03:00
+title: "Kululu Geç Hitit Yerleşimi"
+date: "2025-12-25T05:58:05+03:00"
 slug: "kululu-gec-hitit-yerlesimi"
 description: "## Kululu Geç Hitit Yerleşimi: Tarihi ve Kültürel Mirasın Örnekleri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Akkışla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.135529,38.971355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kululu Geç Hitit Yerleşimi: Tarihi ve Kültürel Mirasın Örnekleri

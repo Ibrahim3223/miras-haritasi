@@ -1,18 +1,17 @@
 ---
-title: "Aydın Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:01+03:00
+title: "Aydın Etnografya Müzesi"
+date: "2025-12-25T03:35:01+03:00"
 slug: "aydin-etnografya-muzesi"
 description: "## Aydın Etnografya Müzesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.608553238,37.729734769"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aydın Etnografya Müzesi

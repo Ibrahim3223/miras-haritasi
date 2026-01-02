@@ -1,18 +1,17 @@
 ---
-title: "Aynıoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:12:45+03:00
+title: "Aynıoğlu Camii"
+date: "2025-12-24T22:12:45+03:00"
 slug: "aynioglu-camii"
 description: "## Aynıoğlu Camii Tanıtımı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5415554,38.752964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aynıoğlu Camii Tanıtımı

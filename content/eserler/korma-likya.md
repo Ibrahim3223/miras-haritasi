@@ -1,18 +1,17 @@
 ---
-title: "Korma (Likya) | Miras Haritası"
-date: 2025-12-25T04:55:41+03:00
+title: "Korma (Likya)"
+date: "2025-12-25T04:55:41+03:00"
 slug: "korma-likya"
 description: "## Korma (Likya) Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.3003095,36.553099"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Korma (Likya) Arkeolojik Sitesi

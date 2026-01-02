@@ -1,18 +1,17 @@
 ---
-title: "Şatır Ali Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:10:34+03:00
+title: "Şatır Ali Ağa Camii"
+date: "2025-12-24T23:10:34+03:00"
 slug: "satir-ali-aga-camii"
 description: "## Şatır Ali Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.4622097,37.9147301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şatır Ali Ağa Camii

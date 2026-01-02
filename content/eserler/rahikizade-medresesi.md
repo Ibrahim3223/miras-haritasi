@@ -1,18 +1,17 @@
 ---
-title: "Rahıkizade Medresesi | Miras Haritası"
-date: 2025-12-25T17:39:08+03:00
+title: "Rahıkizade Medresesi"
+date: "2025-12-25T17:39:08+03:00"
 slug: "rahikizade-medresesi"
 description: "## Rahıkizade Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9691906,41.0123978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rahıkizade Medresesi

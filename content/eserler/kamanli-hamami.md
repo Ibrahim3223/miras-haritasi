@@ -1,18 +1,17 @@
 ---
-title: "Kamanlı Hamamı | Miras Haritası"
-date: 2025-12-25T16:48:11+03:00
+title: "Kamanlı Hamamı"
+date: "2025-12-25T16:48:11+03:00"
 slug: "kamanli-hamami"
 description: "# Kamanlı Hamamı: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.7772427,38.3218117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kamanlı Hamamı: Tarihî Bir Mirasın Gizemi

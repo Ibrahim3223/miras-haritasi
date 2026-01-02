@@ -1,18 +1,17 @@
 ---
-title: "Tepeboz Camii | Miras Haritası"
-date: 2025-12-24T23:13:48+03:00
+title: "Tepeboz Camii"
+date: "2025-12-24T23:13:48+03:00"
 slug: "tepeboz-camii"
 description: "## Tepeboz Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.4473972,38.6609344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepeboz Camii: İzmir'in Tarihi ve Kültürel Mirası

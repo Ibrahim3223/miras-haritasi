@@ -1,18 +1,17 @@
 ---
-title: "Osmanlı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:34:58+03:00
+title: "Osmanlı Çeşmesi"
+date: "2025-12-25T11:34:58+03:00"
 slug: "osmanli-cesmesi"
 description: "## Osmanlı Çeşmesi: Muğla'nın Tarihi Bir Mirasın Tanıtımı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Muğla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0663452,37.3129845"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmanlı Çeşmesi: Muğla'nın Tarihi Bir Mirasın Tanıtımı

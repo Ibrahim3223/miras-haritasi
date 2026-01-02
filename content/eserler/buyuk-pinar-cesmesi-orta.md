@@ -1,18 +1,17 @@
 ---
-title: "Büyük Pınar Çeşmesi, Orta | Miras Haritası"
-date: 2025-12-25T12:33:58+03:00
+title: "Büyük Pınar Çeşmesi, Orta"
+date: "2025-12-25T12:33:58+03:00"
 slug: "buyuk-pinar-cesmesi-orta"
 description: "## Büyük Pınar Çeşmesi: Orta'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.13049523,40.545076859"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Pınar Çeşmesi: Orta'nın Tarihi ve Kültürel Mirası

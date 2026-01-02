@@ -1,18 +1,17 @@
 ---
-title: "Kedrai Apollon Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T08:38:10+03:00
+title: "Kedrai Apollon Kutsal Alanı"
+date: "2025-12-25T08:38:10+03:00"
 slug: "kedrai-apollon-kutsal-alani"
 description: "## Kedrai Apollon Kutsal Alanı: Muğla'nın Gizli Çıkınları..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.2076511,36.9920082"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kedrai Apollon Kutsal Alanı: Muğla'nın Gizli Çıkınları

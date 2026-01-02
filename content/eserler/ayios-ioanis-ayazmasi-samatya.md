@@ -1,18 +1,17 @@
 ---
-title: "Ayios Ioanis Ayazması, Samatya | Miras Haritası"
-date: 2025-12-25T12:39:55+03:00
+title: "Ayios Ioanis Ayazması, Samatya"
+date: "2025-12-25T12:39:55+03:00"
 slug: "ayios-ioanis-ayazmasi-samatya"
 description: "**Ayios Ioanis Ayazması, Samatya**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9334278,41.0007515"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayios Ioanis Ayazması, Samatya**

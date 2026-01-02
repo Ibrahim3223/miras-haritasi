@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Razi Türbesi | Miras Haritası"
-date: 2025-12-25T14:36:11+03:00
+title: "Şeyh Razi Türbesi"
+date: "2025-12-25T14:36:11+03:00"
 slug: "seyh-razi-turbesi"
 description: "## Şeyh Razi Türbesi: Fatih'in Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9284248,41.0036697"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Razi Türbesi: Fatih'in Gizli Cenneti

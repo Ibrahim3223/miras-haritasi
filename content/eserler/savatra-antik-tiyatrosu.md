@@ -1,18 +1,17 @@
 ---
-title: "Savatra Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:21:04+03:00
+title: "Savatra Antik Tiyatrosu"
+date: "2025-12-25T16:21:04+03:00"
 slug: "savatra-antik-tiyatrosu"
 description: "## Savatra Antik Tiyatrosu..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "33.1104546,37.9703712"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Savatra Antik Tiyatrosu

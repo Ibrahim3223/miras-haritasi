@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Bedirbey | Miras Haritası"
-date: 2025-12-25T02:50:51+03:00
+title: "Roma Köprüsü, Bedirbey"
+date: "2025-12-25T02:50:51+03:00"
 slug: "roma-koprusu-bedirbey"
 description: "### Roma Köprüsü, Bedirbey..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.4313049,37.348774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Bedirbey

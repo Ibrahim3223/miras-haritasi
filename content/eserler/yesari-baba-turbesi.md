@@ -1,18 +1,17 @@
 ---
-title: "Yesari Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:49+03:00
+title: "Yesari Baba Türbesi"
+date: "2025-12-25T15:04:49+03:00"
 slug: "yesari-baba-turbesi"
 description: "## Yesari Baba Türbesi: Sinop'un Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1585388,42.0252457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yesari Baba Türbesi: Sinop'un Gizli Çehresini Keşfedin

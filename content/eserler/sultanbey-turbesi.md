@@ -1,18 +1,17 @@
 ---
-title: "Sultanbey Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:11+03:00
+title: "Sultanbey Türbesi"
+date: "2025-12-25T15:18:11+03:00"
 slug: "sultanbey-turbesi"
 description: "## Sultanbey Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.576114,40.70491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultanbey Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Yeni Valide Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:03:03+03:00
+title: "Yeni Valide Camii Şadırvanı"
+date: "2025-12-25T10:03:03+03:00"
 slug: "yeni-valide-camii-sadirvani"
 description: "**Yeni Valide Camii Şadırvanı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yeni_Valide_Camii_Şadırvanı.jpg/1200px-Yeni_Valide_Camii_Şadırvanı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0148926,41.0248604"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Yeni Valide Camii Şadırvanı**

@@ -1,18 +1,17 @@
 ---
-title: "Areyastis Anıtı | Miras Haritası"
-date: 2025-12-25T15:50:49+03:00
+title: "Areyastis Anıtı"
+date: "2025-12-25T15:50:49+03:00"
 slug: "areyastis-aniti"
 description: "## Areyastis Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.7096539,39.2178192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Areyastis Anıtı

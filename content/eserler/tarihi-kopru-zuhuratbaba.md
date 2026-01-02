@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Köprü, Zuhuratbaba | Miras Haritası"
-date: 2025-12-25T02:55:33+03:00
+title: "Tarihi Köprü, Zuhuratbaba"
+date: "2025-12-25T02:55:33+03:00"
 slug: "tarihi-kopru-zuhuratbaba"
 description: "## Tarihi Köprü, Zuhuratbaba..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.8656635,40.9873505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Köprü, Zuhuratbaba

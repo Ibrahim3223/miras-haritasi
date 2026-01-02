@@ -1,18 +1,17 @@
 ---
-title: "Ragıp Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:47:54+03:00
+title: "Ragıp Paşa Kütüphanesi"
+date: "2025-12-25T17:47:54+03:00"
 slug: "ragip-pasa-kutuphanesi"
 description: "## Ragıp Paşa Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ragıp_Paşa_Library_-_P1030797.JPG/1200px-Ragıp_Paşa_Library_-_P1030797.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.958641666,41.009130555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ragıp Paşa Kütüphanesi

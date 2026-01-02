@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Samtzkaro Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:21+03:00
+title: "Yukarı Samtzkaro Kilisesi"
+date: "2025-12-25T09:01:21+03:00"
 slug: "yukari-samtzkaro-kilisesi"
 description: "## Yukarı Samtzkaro Kilisesi..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Yukarıırmaklar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.184944444,41.200666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Samtzkaro Kilisesi

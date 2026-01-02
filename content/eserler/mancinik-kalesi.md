@@ -1,18 +1,17 @@
 ---
-title: "Mancınık Kalesi | Miras Haritası"
-date: 2025-12-25T01:47:29+03:00
+title: "Mancınık Kalesi"
+date: "2025-12-25T01:47:29+03:00"
 slug: "mancinik-kalesi"
 description: "## Mancınık Kalesi: Silifke'nin Tarihî Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mancınık_Castle,_Mersin_province,_Turkey.jpg/1200px-Mancınık_Castle,_Mersin_province,_Turkey.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.05,36.51666667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mancınık Kalesi: Silifke'nin Tarihî Bir Anıtı

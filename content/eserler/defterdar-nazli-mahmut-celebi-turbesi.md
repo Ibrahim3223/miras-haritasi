@@ -1,18 +1,17 @@
 ---
-title: "Defterdar Nazlı Mahmut Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:43+03:00
+title: "Defterdar Nazlı Mahmut Çelebi Türbesi"
+date: "2025-12-25T14:28:43+03:00"
 slug: "defterdar-nazli-mahmut-celebi-turbesi"
 description: "## Defterdar Nazlı Mahmut Çelebi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.937749,41.041902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Defterdar Nazlı Mahmut Çelebi Türbesi

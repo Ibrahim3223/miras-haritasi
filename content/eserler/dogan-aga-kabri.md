@@ -1,18 +1,17 @@
 ---
-title: "Doğan Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:32:25+03:00
+title: "Doğan Ağa Kabri"
+date: "2025-12-25T13:32:25+03:00"
 slug: "dogan-aga-kabri"
 description: "## Doğan Ağa Kabri: Fatih'in Gizli Çeşmesiyle Birlikte Geçmişe Yolculuk..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9315033,41.0069313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Doğan Ağa Kabri: Fatih'in Gizli Çeşmesiyle Birlikte Geçmişe Yolculuk

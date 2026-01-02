@@ -1,18 +1,17 @@
 ---
-title: "Börekçi Mustafa Hilmi Baba Kabri, Üsküdar | Miras Haritası"
-date: 2025-12-25T13:26:17+03:00
+title: "Börekçi Mustafa Hilmi Baba Kabri, Üsküdar"
+date: "2025-12-25T13:26:17+03:00"
 slug: "borekci-mustafa-hilmi-baba-kabri-uskudar"
 description: "### Börekçi Mustafa Hilmi Baba Kabri: Üsküdar'a Bir Geçit..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0215626,41.026062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Börekçi Mustafa Hilmi Baba Kabri: Üsküdar'a Bir Geçit

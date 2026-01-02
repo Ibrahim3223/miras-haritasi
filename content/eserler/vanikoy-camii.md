@@ -1,18 +1,17 @@
 ---
-title: "Vaniköy Camii | Miras Haritası"
-date: 2025-12-24T21:49:17+03:00
+title: "Vaniköy Camii"
+date: "2025-12-24T21:49:17+03:00"
 slug: "vanikoy-camii"
 description: "## Vaniköy Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/İstanbul_-_Vaniköy_Camii,_Üsküdar_2_-_Şub_2013.jpg/1200px-İstanbul_-_Vaniköy_Camii,_Üsküdar_2_-_Şub_2013.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.055222222,41.064111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Vaniköy Camii

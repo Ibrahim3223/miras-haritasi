@@ -1,18 +1,17 @@
 ---
-title: "Perinthos | Miras Haritası"
-date: 2025-12-25T04:33:28+03:00
+title: "Perinthos"
+date: "2025-12-25T04:33:28+03:00"
 slug: "perinthos"
 description: "## Perinthos: Marmara'nın Korunmasız Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Marmaraereğlisi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.848611,40.994444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perinthos: Marmara'nın Korunmasız Mirası

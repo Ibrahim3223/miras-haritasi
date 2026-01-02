@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Haydere | Miras Haritası"
-date: 2025-12-25T11:59:43+03:00
+title: "Çeşme, Haydere"
+date: "2025-12-25T11:59:43+03:00"
 slug: "cesme-haydere"
 description: "### Çeşme, Haydere: Aydın'ın Gözde Kenti Bozdoğan'da Bir Ölümsüz Miras..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4068737,37.6189575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme, Haydere: Aydın'ın Gözde Kenti Bozdoğan'da Bir Ölümsüz Miras

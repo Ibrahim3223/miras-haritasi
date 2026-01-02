@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Şevket Sokağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:04:56+03:00
+title: "Mahmut Şevket Sokağı Çeşmesi"
+date: "2025-12-25T10:04:56+03:00"
 slug: "mahmut-sevket-sokagi-cesmesi"
 description: "### Mahmut Şevket Sokağı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/449.1-Mahmut_Şevket_Sokağı_Çeşmesi-19.yy_01.jpg/1200px-449.1-Mahmut_Şevket_Sokağı_Çeşmesi-19.yy_01.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.18509722,39.12356944"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mahmut Şevket Sokağı Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Osman Ağa Camii Avlusu | Miras Haritası"
-date: 2025-12-25T11:47:03+03:00
+title: "Çeşme, Osman Ağa Camii Avlusu"
+date: "2025-12-25T11:47:03+03:00"
 slug: "cesme-osman-aga-camii-avlusu"
 description: "## Çeşme, Osman Ağa Camii Avlusu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Çeşme,_Osman_Ağa_Camii_Avlusu.jpg/1200px-Çeşme,_Osman_Ağa_Camii_Avlusu.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Osmanağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0260468,40.9909706"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çeşme, Osman Ağa Camii Avlusu

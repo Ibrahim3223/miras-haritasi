@@ -1,18 +1,17 @@
 ---
-title: "Tacül Vezir Türbesi | Miras Haritası"
-date: 2025-12-25T13:53:50+03:00
+title: "Tacül Vezir Türbesi"
+date: "2025-12-25T13:53:50+03:00"
 slug: "tacul-vezir-turbesi"
 description: "## Tacül Vezir Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4893608,37.8762093"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tacül Vezir Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Sinan Paşa Camii (Hacıhamza) | Miras Haritası"
-date: 2025-12-25T01:07:09+03:00
+title: "Sinan Paşa Camii (Hacıhamza)"
+date: "2025-12-25T01:07:09+03:00"
 slug: "sinan-pasa-camii-hacihamza"
 description: "## Sinan Paşa Camii (Hacıhamza)..."
 featured_image: ""
 province: "Kargı"
-iller: ["Kargı"]
+iller: '["Kargı"]'
 district: "Hacıhamza"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.4486351,41.0762978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Paşa Camii (Hacıhamza)

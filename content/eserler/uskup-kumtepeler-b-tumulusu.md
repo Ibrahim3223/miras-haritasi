@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Kumtepeler B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:46:54+03:00
+title: "Üsküp Kumtepeler B Tümülüsü"
+date: "2025-12-25T07:46:54+03:00"
 slug: "uskup-kumtepeler-b-tumulusu"
 description: "### Üsküp Kumtepeler B Tümülüsü: Kırklareli'nin Arkeolojik Güzelliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3719025,41.753994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üsküp Kumtepeler B Tümülüsü: Kırklareli'nin Arkeolojik Güzelliği

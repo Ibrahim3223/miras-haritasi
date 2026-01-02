@@ -1,18 +1,17 @@
 ---
-title: "Köprülü Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:45:31+03:00
+title: "Köprülü Kütüphanesi"
+date: "2025-12-25T17:45:31+03:00"
 slug: "koprulu-kutuphanesi"
 description: "## Köprülü Kütüphanesi: İstanbul'un Gizli Çehresinde Saklı Bir Klasik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Piyer_Loti_Caddesi_building.JPG/1200px-Piyer_Loti_Caddesi_building.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.972541,41.008157"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Köprülü Kütüphanesi: İstanbul'un Gizli Çehresinde Saklı Bir Klasik

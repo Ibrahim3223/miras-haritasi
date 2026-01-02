@@ -1,18 +1,17 @@
 ---
-title: "Karakaya Hamamı | Miras Haritası"
-date: 2025-12-25T17:13:12+03:00
+title: "Karakaya Hamamı"
+date: "2025-12-25T17:13:12+03:00"
 slug: "karakaya-hamami"
 description: "## Karakaya Hamamı: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
+iller: '["Ankara Vilayeti"]'
 district: "Ayaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.3322182,40.0203781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakaya Hamamı: Ankara'nın Gizli Cenneti

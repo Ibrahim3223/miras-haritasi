@@ -1,18 +1,17 @@
 ---
-title: "Başkavak Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:06+03:00
+title: "Başkavak Köprüsü"
+date: "2025-12-25T02:21:06+03:00"
 slug: "baskavak-koprusu"
 description: "## Başkavak Köprüsü..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Savur"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.8896637,37.5673752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başkavak Köprüsü

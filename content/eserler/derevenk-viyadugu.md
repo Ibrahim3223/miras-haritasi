@@ -1,18 +1,17 @@
 ---
-title: "Derevenk Viyadüğü | Miras Haritası"
-date: 2025-12-25T02:03:38+03:00
+title: "Derevenk Viyadüğü"
+date: "2025-12-25T02:03:38+03:00"
 slug: "derevenk-viyadugu"
 description: "## Derevenk Viyadüğü: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.5847,38.6858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derevenk Viyadüğü: Kayseri'nin Tarihi ve Kültürel Mirası

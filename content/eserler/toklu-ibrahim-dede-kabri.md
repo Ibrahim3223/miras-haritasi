@@ -1,18 +1,17 @@
 ---
-title: "Toklu İbrahim Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:36:07+03:00
+title: "Toklu İbrahim Dede Kabri"
+date: "2025-12-25T13:36:07+03:00"
 slug: "toklu-ibrahim-dede-kabri"
 description: "# Toklu İbrahim Dede Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.941288,41.0392494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Toklu İbrahim Dede Kabri

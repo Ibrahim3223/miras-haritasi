@@ -1,18 +1,17 @@
 ---
-title: "Cürcani Camii | Miras Haritası"
-date: 2025-12-24T22:30:17+03:00
+title: "Cürcani Camii"
+date: "2025-12-24T22:30:17+03:00"
 slug: "curcani-camii"
 description: "# Cürcani Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5378304,38.753315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Cürcani Camii

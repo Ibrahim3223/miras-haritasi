@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Kurtkumluğu Doğu B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:50:06+03:00
+title: "Üsküp Kurtkumluğu Doğu B Tümülüsü"
+date: "2025-12-25T07:50:06+03:00"
 slug: "uskup-kurtkumlugu-dogu-b-tumulusu"
 description: "## Üsküp Kurtkumluğu Doğu B Tümülüsü: Kırklareli'nin Gizli Görsel Harikası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4277954,41.7830467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üsküp Kurtkumluğu Doğu B Tümülüsü: Kırklareli'nin Gizli Görsel Harikası

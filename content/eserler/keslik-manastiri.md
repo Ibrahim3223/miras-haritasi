@@ -1,18 +1,17 @@
 ---
-title: "Keşlik Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:40+03:00
+title: "Keşlik Manastırı"
+date: "2025-12-25T09:55:40+03:00"
 slug: "keslik-manastiri"
 description: "## Keşlik Manastırı: Ürgüp'ün Gizli Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Keslik.JPG/1200px-Keslik.JPG"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "34.9426537,38.5144196"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Keşlik Manastırı: Ürgüp'ün Gizli Öreni

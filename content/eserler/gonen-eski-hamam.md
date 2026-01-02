@@ -1,18 +1,17 @@
 ---
-title: "Gönen Eski Hamam | Miras Haritası"
-date: 2025-12-25T17:04:18+03:00
+title: "Gönen Eski Hamam"
+date: "2025-12-25T17:04:18+03:00"
 slug: "gonen-eski-hamam"
 description: "## Gönen Eski Hamamı: Isparta'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Gönen"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5140228,37.9553909"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gönen Eski Hamamı: Isparta'nın Tarihi Bir Mirası

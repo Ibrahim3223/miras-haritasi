@@ -1,18 +1,17 @@
 ---
-title: "Çatalca Ortaokul Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:12:19+03:00
+title: "Çatalca Ortaokul Çeşmesi"
+date: "2025-12-25T11:12:19+03:00"
 slug: "catalca-ortaokul-cesmesi"
 description: "# Çatalca Ortaokul Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Çatalca_Ortaokul_Çeşmesi_IMG_1609.jpg/1200px-Çatalca_Ortaokul_Çeşmesi_IMG_1609.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.461489,41.142422"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Çatalca Ortaokul Çeşmesi

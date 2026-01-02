@@ -1,18 +1,17 @@
 ---
-title: "Kara Mustafa Paşa Camii, Taşköprü | Miras Haritası"
-date: 2025-12-25T00:15:58+03:00
+title: "Kara Mustafa Paşa Camii, Taşköprü"
+date: "2025-12-25T00:15:58+03:00"
 slug: "kara-mustafa-pasa-camii-taskopru"
 description: "## Kara Mustafa Paşa Camii: Taşköprü'nün Gizli Çehresi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Taşköprü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.2142258,41.5103798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Mustafa Paşa Camii: Taşköprü'nün Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Kar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:23:17+03:00
+title: "Kar Höyüğü"
+date: "2025-12-25T06:23:17+03:00"
 slug: "kar-hoyugu"
 description: "# Kar Höyüğü..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4086212,38.9025134"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kar Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Kırıklar Kalesi, Buca | Miras Haritası"
-date: 2025-12-25T01:29:39+03:00
+title: "Kırıklar Kalesi, Buca"
+date: "2025-12-25T01:29:39+03:00"
 slug: "kiriklar-kalesi-buca"
 description: "## Kırıklar Kalesi, Buca..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Buca"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3328648,38.3179512"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırıklar Kalesi, Buca

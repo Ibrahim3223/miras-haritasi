@@ -1,18 +1,17 @@
 ---
-title: "Kaşıkçı Mustafa Efendi Kabristanı | Miras Haritası"
-date: 2025-12-25T13:59:11+03:00
+title: "Kaşıkçı Mustafa Efendi Kabristanı"
+date: "2025-12-25T13:59:11+03:00"
 slug: "kasikci-mustafa-efendi-kabristani"
 description: "## Kaşıkçı Mustafa Efendi Kabristanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9426231,41.0126381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaşıkçı Mustafa Efendi Kabristanı

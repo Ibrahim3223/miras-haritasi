@@ -1,18 +1,17 @@
 ---
-title: "İzmit Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:45+03:00
+title: "İzmit Saat Kulesi"
+date: "2025-12-25T17:18:45+03:00"
 slug: "izmit-saat-kulesi"
 description: "### İzmit Saat Kulesi: İzmit'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/İZMİT_CLOCK_TOWER20200916_(cropped).jpg/1200px-İZMİT_CLOCK_TOWER20200916_(cropped).jpg"
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "29.919611111,40.762805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İzmit Saat Kulesi: İzmit'in Tarihi ve Kültürel Mirası

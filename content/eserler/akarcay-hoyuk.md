@@ -1,18 +1,17 @@
 ---
-title: "Akarçay Höyük | Miras Haritası"
-date: 2025-12-25T06:41:07+03:00
+title: "Akarçay Höyük"
+date: "2025-12-25T06:41:07+03:00"
 slug: "akarcay-hoyuk"
 description: "## Akarçay Höyük: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0172393,36.9173301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akarçay Höyük: Şanlıurfa'nın Gizli Mirası

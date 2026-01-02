@@ -1,18 +1,17 @@
 ---
-title: "Surp Krikor Lusavoriç Ermeni Kilisesi Çeşmesi, Kuzguncuk | Miras Haritası"
-date: 2025-12-25T12:25:00+03:00
+title: "Surp Krikor Lusavoriç Ermeni Kilisesi Çeşmesi, Kuzguncuk"
+date: "2025-12-25T12:25:00+03:00"
 slug: "surp-krikor-lusavoric-ermeni-kilisesi-cesmesi-kuzguncuk"
 description: "## Surp Krikor Lusavoriç Ermeni Kilisesi Çeşmesi, Kuzguncuk..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.030214211,41.036771617"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Krikor Lusavoriç Ermeni Kilisesi Çeşmesi, Kuzguncuk

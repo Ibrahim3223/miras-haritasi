@@ -1,18 +1,17 @@
 ---
-title: "Andriake Batı Hamamı | Miras Haritası"
-date: 2025-12-25T17:13:24+03:00
+title: "Andriake Batı Hamamı"
+date: "2025-12-25T17:13:24+03:00"
 slug: "andriake-bati-hamami"
 description: "# Andriake Batı Hamamı: Demre'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9575119,36.2270432"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Andriake Batı Hamamı: Demre'nin Gizli Çiçeği

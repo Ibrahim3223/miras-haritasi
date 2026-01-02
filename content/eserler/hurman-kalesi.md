@@ -1,18 +1,17 @@
 ---
-title: "Hurman Kalesi | Miras Haritası"
-date: 2025-12-25T01:18:04+03:00
+title: "Hurman Kalesi"
+date: "2025-12-25T01:18:04+03:00"
 slug: "hurman-kalesi"
 description: "## Hurman Kalesi: Afşin'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hurman_Kalesi03.jpg/1200px-Hurman_Kalesi03.jpg"
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.8353081,38.4747109"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hurman Kalesi: Afşin'in Tarihî Mirası

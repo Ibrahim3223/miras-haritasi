@@ -1,18 +1,17 @@
 ---
-title: "Zübeyde ve Leyla Hanım Türbesi | Miras Haritası"
-date: 2025-12-25T14:12:25+03:00
+title: "Zübeyde ve Leyla Hanım Türbesi"
+date: "2025-12-25T14:12:25+03:00"
 slug: "zubeyde-ve-leyla-hanim-turbesi"
 description: "## Zübeyde ve Leyla Hanım Türbesi: Diyarbakır'ın Tarihî Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.236479,37.914928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zübeyde ve Leyla Hanım Türbesi: Diyarbakır'ın Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Metin Oktay Heykeli | Miras Haritası"
-date: 2025-12-25T16:09:14+03:00
+title: "Metin Oktay Heykeli"
+date: "2025-12-25T16:09:14+03:00"
 slug: "metin-oktay-heykeli"
 description: "## Metin Oktay Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Metin_Oktay_Heykeli_02.jpg/1200px-Metin_Oktay_Heykeli_02.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0371971,40.9808998"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Metin Oktay Heykeli

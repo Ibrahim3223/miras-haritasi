@@ -1,18 +1,17 @@
 ---
-title: "Kaya Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:46+03:00
+title: "Kaya Kilisesi"
+date: "2025-12-25T09:38:46+03:00"
 slug: "kaya-kilisesi"
 description: "## Kaya Kilisesi: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Vakfıkebir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.248228,41.03255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaya Kilisesi: Trabzon'un Gizli Cenneti

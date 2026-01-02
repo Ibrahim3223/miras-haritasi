@@ -1,18 +1,17 @@
 ---
-title: "Hacı Recep Camii | Miras Haritası"
-date: 2025-12-24T22:56:25+03:00
+title: "Hacı Recep Camii"
+date: "2025-12-24T22:56:25+03:00"
 slug: "haci-recep-camii"
 description: "### Hacı Recep Camii: Beyoğlu'ndaki Bir Tarihi Özellik..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Cihangir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9867935,41.0333595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Recep Camii: Beyoğlu'ndaki Bir Tarihi Özellik

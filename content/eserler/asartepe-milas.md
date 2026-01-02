@@ -1,18 +1,17 @@
 ---
-title: "Asartepe, Milas | Miras Haritası"
-date: 2025-12-25T06:14:13+03:00
+title: "Asartepe, Milas"
+date: "2025-12-25T06:14:13+03:00"
 slug: "asartepe-milas"
 description: "# Asartepe, Milas..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.678400004,37.460903356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Asartepe, Milas

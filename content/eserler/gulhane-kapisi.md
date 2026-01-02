@@ -1,18 +1,17 @@
 ---
-title: "Gülhane Kapısı | Miras Haritası"
-date: 2025-12-25T15:36:22+03:00
+title: "Gülhane Kapısı"
+date: "2025-12-25T15:36:22+03:00"
 slug: "gulhane-kapisi"
 description: "## Gülhane Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9855442,41.0140572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülhane Kapısı

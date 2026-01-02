@@ -1,18 +1,17 @@
 ---
-title: "Pazarağaç Höyüğü | Miras Haritası"
-date: 2025-12-25T06:42:26+03:00
+title: "Pazarağaç Höyüğü"
+date: "2025-12-25T06:42:26+03:00"
 slug: "pazaragac-hoyugu"
 description: "### Pazarağaç Höyüğü: Afyonkarahisar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Çay"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.9333453,38.5721781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pazarağaç Höyüğü: Afyonkarahisar'ın Tarihî Mirası

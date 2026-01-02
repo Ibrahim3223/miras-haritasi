@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Külliyesi Sebili 6 | Miras Haritası"
-date: 2025-12-25T13:05:01+03:00
+title: "Sultan Ahmet Külliyesi Sebili 6"
+date: "2025-12-25T13:05:01+03:00"
 slug: "sultan-ahmet-kulliyesi-sebili-6"
 description: "### Sultan Ahmet Külliyesi Sebili 6..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9769592,41.0069466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultan Ahmet Külliyesi Sebili 6

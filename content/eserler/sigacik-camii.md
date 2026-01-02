@@ -1,18 +1,17 @@
 ---
-title: "Sığacık Camii | Miras Haritası"
-date: 2025-12-24T23:06:45+03:00
+title: "Sığacık Camii"
+date: "2025-12-24T23:06:45+03:00"
 slug: "sigacik-camii"
 description: "### Giriş..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7852001,38.1939011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

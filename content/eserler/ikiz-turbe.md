@@ -1,18 +1,17 @@
 ---
-title: "İkiz Türbe | Miras Haritası"
-date: 2025-12-25T15:01:39+03:00
+title: "İkiz Türbe"
+date: "2025-12-25T15:01:39+03:00"
 slug: "ikiz-turbe"
 description: "## İkiz Türbe..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8382683,37.4092293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkiz Türbe

@@ -1,18 +1,17 @@
 ---
-title: "Piyale Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:32:48+03:00
+title: "Piyale Paşa Türbesi"
+date: "2025-12-25T14:32:48+03:00"
 slug: "piyale-pasa-turbesi"
 description: "## Piyale Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.96629,41.044285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Piyale Paşa Türbesi

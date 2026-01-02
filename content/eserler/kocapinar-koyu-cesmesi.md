@@ -1,18 +1,17 @@
 ---
-title: "Kocapınar Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:13:02+03:00
+title: "Kocapınar Köyü Çeşmesi"
+date: "2025-12-25T10:13:02+03:00"
 slug: "kocapinar-koyu-cesmesi"
 description: "## Kocapınar Köyü Çeşmesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.5961571,40.4579163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocapınar Köyü Çeşmesi

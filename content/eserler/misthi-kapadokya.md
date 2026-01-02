@@ -1,18 +1,17 @@
 ---
-title: "Misthi, Kapadokya | Miras Haritası"
-date: 2025-12-25T05:23:21+03:00
+title: "Misthi, Kapadokya"
+date: "2025-12-25T05:23:21+03:00"
 slug: "misthi-kapadokya"
 description: "## Misthi, Kapadokya..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.848959,38.171594"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Misthi, Kapadokya

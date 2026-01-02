@@ -1,18 +1,17 @@
 ---
-title: "Zeytinburnu Mozaik Müzesi | Miras Haritası"
-date: 2025-12-25T03:46:01+03:00
+title: "Zeytinburnu Mozaik Müzesi"
+date: "2025-12-25T03:46:01+03:00"
 slug: "zeytinburnu-mozaik-muzesi"
 description: "# Zeytinburnu Mozaik Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Zeytinburnu_Mozaik_Müzesi_58.jpg/1200px-Zeytinburnu_Mozaik_Müzesi_58.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9081402,40.9870377"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Zeytinburnu Mozaik Müzesi

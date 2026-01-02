@@ -1,18 +1,17 @@
 ---
-title: "Alopeconnesus | Miras Haritası"
-date: 2025-12-25T04:28:45+03:00
+title: "Alopeconnesus"
+date: "2025-12-25T04:28:45+03:00"
 slug: "alopeconnesus"
 description: "## Alopeconnesus: Gelibolu'nun Gizli Örtüleri..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.249444444,40.313888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alopeconnesus: Gelibolu'nun Gizli Örtüleri

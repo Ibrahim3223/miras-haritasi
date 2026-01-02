@@ -1,18 +1,17 @@
 ---
-title: "Çine - Tepecik Höyük | Miras Haritası"
-date: 2025-12-25T05:51:38+03:00
+title: "Çine - Tepecik Höyük"
+date: "2025-12-25T05:51:38+03:00"
 slug: "cine-tepecik-hoyuk"
 description: "## Çine - Tepecik Höyük: Aydın'ın Gizemi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.012267,37.609367"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çine - Tepecik Höyük: Aydın'ın Gizemi

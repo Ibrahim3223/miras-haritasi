@@ -1,18 +1,17 @@
 ---
-title: "Mehre Höyük | Miras Haritası"
-date: 2025-12-25T06:29:17+03:00
+title: "Mehre Höyük"
+date: "2025-12-25T06:29:17+03:00"
 slug: "mehre-hoyuk"
 description: "### Mehre Höyük: Kahramanmaraş'ta Bir Tarihi Harikalar Diyarı..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.0195706,38.1585139"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehre Höyük: Kahramanmaraş'ta Bir Tarihi Harikalar Diyarı

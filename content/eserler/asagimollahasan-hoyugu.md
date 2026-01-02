@@ -1,18 +1,17 @@
 ---
-title: "Aşağımollahasan Höyüğü | Miras Haritası"
-date: 2025-12-25T07:25:26+03:00
+title: "Aşağımollahasan Höyüğü"
+date: "2025-12-25T07:25:26+03:00"
 slug: "asagimollahasan-hoyugu"
 description: "## Aşağımollahasan Höyüğü..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Özalp"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.8970113,38.6537287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağımollahasan Höyüğü

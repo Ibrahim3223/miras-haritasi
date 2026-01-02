@@ -1,18 +1,17 @@
 ---
-title: "Demircikara Camii | Miras Haritası"
-date: 2025-12-24T22:34:48+03:00
+title: "Demircikara Camii"
+date: "2025-12-24T22:34:48+03:00"
 slug: "demircikara-camii"
 description: "## Demircikara Camii: Antalya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7183857,36.8845711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demircikara Camii: Antalya'nın Tarihi Bir Mirası

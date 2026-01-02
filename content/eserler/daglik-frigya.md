@@ -1,18 +1,17 @@
 ---
-title: "Dağlık Frigya | Miras Haritası"
-date: 2025-12-25T08:32:41+03:00
+title: "Dağlık Frigya"
+date: "2025-12-25T08:32:41+03:00"
 slug: "daglik-frigya"
 description: "### Dağlık Frigya: Eskişehir'in Gizli Zenginliği..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.7138424,39.2010269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dağlık Frigya: Eskişehir'in Gizli Zenginliği

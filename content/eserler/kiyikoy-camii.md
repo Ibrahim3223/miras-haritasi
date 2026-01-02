@@ -1,18 +1,17 @@
 ---
-title: "Kıyıköy Camii | Miras Haritası"
-date: 2025-12-25T00:07:46+03:00
+title: "Kıyıköy Camii"
+date: "2025-12-25T00:07:46+03:00"
 slug: "kiyikoy-camii"
 description: "## Kıyıköy Camii: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0947514,41.6336823"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kıyıköy Camii: Kırklareli'nin Gizli Cenneti

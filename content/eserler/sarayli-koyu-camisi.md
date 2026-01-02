@@ -1,18 +1,17 @@
 ---
-title: "Saraylı Köyü Camisi | Miras Haritası"
-date: 2025-12-24T22:41:13+03:00
+title: "Saraylı Köyü Camisi"
+date: "2025-12-24T22:41:13+03:00"
 slug: "sarayli-koyu-camisi"
 description: "## Saraylı Köyü Camisi: Kocaeli'nin Gizli Çağından Kalan Bir Öncü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.7975903,40.6989212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraylı Köyü Camisi: Kocaeli'nin Gizli Çağından Kalan Bir Öncü

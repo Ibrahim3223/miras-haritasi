@@ -1,18 +1,17 @@
 ---
-title: "Troketta | Miras Haritası"
-date: 2025-12-25T05:19:46+03:00
+title: "Troketta"
+date: "2025-12-25T05:19:46+03:00"
 slug: "troketta"
 description: "## Troketta: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.753345,38.462816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Troketta: Antik Bir Kentin İzleri

@@ -1,18 +1,17 @@
 ---
-title: "Chadisia | Miras Haritası"
-date: 2025-12-25T04:50:19+03:00
+title: "Chadisia"
+date: "2025-12-25T04:50:19+03:00"
 slug: "chadisia"
 description: "# Chadisia: Kayıtsız Kalmış Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.575537,41.288083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Chadisia: Kayıtsız Kalmış Bir Arkeolojik Sitin Gizemi

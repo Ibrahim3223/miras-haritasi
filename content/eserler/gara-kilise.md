@@ -1,18 +1,17 @@
 ---
-title: "Gara Kilise | Miras Haritası"
-date: 2025-12-25T09:18:09+03:00
+title: "Gara Kilise"
+date: "2025-12-25T09:18:09+03:00"
 slug: "gara-kilise"
 description: "## Bodrum'un Gizli Değerleri: Gara Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.3747864,37.0334015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bodrum'un Gizli Değerleri: Gara Kilisesi

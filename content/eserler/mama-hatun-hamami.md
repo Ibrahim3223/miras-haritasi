@@ -1,18 +1,17 @@
 ---
-title: "Mama Hatun Hamamı | Miras Haritası"
-date: 2025-12-25T17:08:48+03:00
+title: "Mama Hatun Hamamı"
+date: "2025-12-25T17:08:48+03:00"
 slug: "mama-hatun-hamami"
 description: "## Mama Hatun Hamamı: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Tercan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.3860512,39.7776375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mama Hatun Hamamı: Tarihî Bir Mirasın Gizemi

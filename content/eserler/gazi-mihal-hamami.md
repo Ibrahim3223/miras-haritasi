@@ -1,18 +1,17 @@
 ---
-title: "Gazi Mihal Hamamı | Miras Haritası"
-date: 2025-12-25T16:24:25+03:00
+title: "Gazi Mihal Hamamı"
+date: "2025-12-25T16:24:25+03:00"
 slug: "gazi-mihal-hamami"
 description: "### Gazi Mihal Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.543388888,41.676972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Mihal Hamamı

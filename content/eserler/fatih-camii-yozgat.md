@@ -1,18 +1,17 @@
 ---
-title: "Fatih Camii (Yozgat) | Miras Haritası"
-date: 2025-12-24T23:48:52+03:00
+title: "Fatih Camii (Yozgat)"
+date: "2025-12-24T23:48:52+03:00"
 slug: "fatih-camii-yozgat"
 description: "## Fatih Camii: Yozgat'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: "Ankara Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8042259,39.8223152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Camii: Yozgat'ın Tarihi Bir Mirası

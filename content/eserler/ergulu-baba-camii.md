@@ -1,18 +1,17 @@
 ---
-title: "Ergülü Baba Camii | Miras Haritası"
-date: 2025-12-24T22:20:33+03:00
+title: "Ergülü Baba Camii"
+date: "2025-12-24T22:20:33+03:00"
 slug: "ergulu-baba-camii"
 description: "## Ergülü Baba Camii Tanıtımı..."
 featured_image: ""
 province: "Sungurlu"
-iller: ["Sungurlu"]
+iller: '["Sungurlu"]'
 district: "Yörüklü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.263666666,40.314472222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ergülü Baba Camii Tanıtımı

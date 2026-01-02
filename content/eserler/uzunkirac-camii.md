@@ -1,18 +1,17 @@
 ---
-title: "Uzunkıraç Camii | Miras Haritası"
-date: 2025-12-24T23:18:13+03:00
+title: "Uzunkıraç Camii"
+date: "2025-12-24T23:18:13+03:00"
 slug: "uzunkirac-camii"
 description: "### Uzunkıraç Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Alaçam"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4235992,41.4756012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uzunkıraç Camii

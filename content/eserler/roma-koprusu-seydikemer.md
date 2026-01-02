@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Seydikemer | Miras Haritası"
-date: 2025-12-25T03:00:44+03:00
+title: "Roma Köprüsü, Seydikemer"
+date: "2025-12-25T03:00:44+03:00"
 slug: "roma-koprusu-seydikemer"
 description: "## Roma Köprüsü, Seydikemer..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.315578,36.354683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Seydikemer

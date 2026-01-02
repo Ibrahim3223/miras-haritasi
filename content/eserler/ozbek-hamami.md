@@ -1,18 +1,17 @@
 ---
-title: "Özbek Hamamı | Miras Haritası"
-date: 2025-12-25T16:58:59+03:00
+title: "Özbek Hamamı"
+date: "2025-12-25T16:58:59+03:00"
 slug: "ozbek-hamami"
 description: "## Özbek Hamamı: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.7059002,38.3651009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özbek Hamamı: Tarihi ve Kültürel Mirasının Bir Parçası

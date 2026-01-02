@@ -1,18 +1,17 @@
 ---
-title: "Serbostani Mustafa Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:55:02+03:00
+title: "Serbostani Mustafa Ağa Camii"
+date: "2025-12-24T21:55:02+03:00"
 slug: "serbostani-mustafa-aga-camii"
 description: "## Serbostani Mustafa Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Serbostani_Mustafa_Ağa_Camii_-_İçi.jpeg/1200px-Serbostani_Mustafa_Ağa_Camii_-_İçi.jpeg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.092412,41.133761"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Serbostani Mustafa Ağa Camii

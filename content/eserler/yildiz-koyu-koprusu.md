@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:09+03:00
+title: "Yıldız Köyü Köprüsü"
+date: "2025-12-25T02:35:09+03:00"
 slug: "yildiz-koyu-koprusu"
 description: "### Yıldız Köyü Köprüsü: Torul'un Gizli Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.178198,40.497543"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yıldız Köyü Köprüsü: Torul'un Gizli Mirası

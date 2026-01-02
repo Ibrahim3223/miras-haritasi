@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Çatören | Miras Haritası"
-date: 2025-12-25T02:59:28+03:00
+title: "Roma Köprüsü, Çatören"
+date: "2025-12-25T02:59:28+03:00"
 slug: "roma-koprusu-catoren"
 description: "## Roma Köprüsü, Çatören..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akören"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.3491329,37.5285817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Çatören

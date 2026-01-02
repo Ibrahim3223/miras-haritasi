@@ -1,18 +1,17 @@
 ---
-title: "Tymnos | Miras Haritası"
-date: 2025-12-25T04:58:25+03:00
+title: "Tymnos"
+date: "2025-12-25T04:58:25+03:00"
 slug: "tymnos"
 description: "### Tymnos: Marmaris'in Gizli Şehri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.062243,36.690466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tymnos: Marmaris'in Gizli Şehri

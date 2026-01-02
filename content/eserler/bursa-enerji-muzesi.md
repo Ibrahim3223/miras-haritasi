@@ -1,18 +1,17 @@
 ---
-title: "Bursa Enerji Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:00+03:00
+title: "Bursa Enerji Müzesi"
+date: "2025-12-25T03:13:00+03:00"
 slug: "bursa-enerji-muzesi"
 description: "### Bursa Enerji Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Bursa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.05083333,40.20083333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bursa Enerji Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Gemiler Çekeği Camii | Miras Haritası"
-date: 2025-12-24T23:03:55+03:00
+title: "Gemiler Çekeği Camii"
+date: "2025-12-24T23:03:55+03:00"
 slug: "gemiler-cekegi-camii"
 description: "## Gemiler Çekeği Camii..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.401529,40.913834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gemiler Çekeği Camii

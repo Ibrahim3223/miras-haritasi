@@ -1,18 +1,17 @@
 ---
-title: "Kurbanzade Camii | Miras Haritası"
-date: 2025-12-24T21:54:30+03:00
+title: "Kurbanzade Camii"
+date: "2025-12-24T21:54:30+03:00"
 slug: "kurbanzade-camii"
 description: "## Kurbanzade Camii Tanıtımı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.362333333,37.216305555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurbanzade Camii Tanıtımı

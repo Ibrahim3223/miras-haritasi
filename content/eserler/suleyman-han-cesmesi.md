@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:04:35+03:00
+title: "Süleyman Han Çeşmesi"
+date: "2025-12-25T11:04:35+03:00"
 slug: "suleyman-han-cesmesi"
 description: "## Süleyman Han Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.962992,41.005358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Han Çeşmesi

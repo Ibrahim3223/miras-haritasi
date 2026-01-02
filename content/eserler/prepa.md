@@ -1,18 +1,17 @@
 ---
-title: "Prepa | Miras Haritası"
-date: 2025-12-25T05:02:17+03:00
+title: "Prepa"
+date: "2025-12-25T05:02:17+03:00"
 slug: "prepa"
 description: "## Prepa: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.750652,40.856523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Prepa: Türkiye'nin Gizli Arkeolojik Mirası

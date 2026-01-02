@@ -1,18 +1,17 @@
 ---
-title: "Muzareti Kilisesi | Miras Haritası"
-date: 2025-12-25T09:08:02+03:00
+title: "Muzareti Kilisesi"
+date: "2025-12-25T09:08:02+03:00"
 slug: "muzareti-kilisesi"
 description: "### Muzareti Kilisesi: Çakırüzüm'un Gizli Güzelliği..."
 featured_image: ""
 province: "Göle"
-iller: ["Göle"]
+iller: '["Göle"]'
 district: "Çakırüzüm"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.566595528,40.801264034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muzareti Kilisesi: Çakırüzüm'un Gizli Güzelliği

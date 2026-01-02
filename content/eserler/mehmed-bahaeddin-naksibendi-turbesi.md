@@ -1,18 +1,17 @@
 ---
-title: "Mehmed Bahaeddin Nakşibendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:27+03:00
+title: "Mehmed Bahaeddin Nakşibendi Türbesi"
+date: "2025-12-25T14:27:27+03:00"
 slug: "mehmed-bahaeddin-naksibendi-turbesi"
 description: "### Mehmed Bahaeddin Nakşibendi Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.496367,37.862956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehmed Bahaeddin Nakşibendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Humaytepe Mescidi | Miras Haritası"
-date: 2025-12-25T00:46:52+03:00
+title: "Humaytepe Mescidi"
+date: "2025-12-25T00:46:52+03:00"
 slug: "humaytepe-mescidi"
 description: "## Humaytepe Mescidi: Didim'in Hicaz Mimarisi'nin Şaşırtıcı Örneği..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2806225,37.5305595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Humaytepe Mescidi: Didim'in Hicaz Mimarisi'nin Şaşırtıcı Örneği

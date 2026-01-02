@@ -1,18 +1,17 @@
 ---
-title: "Karabel Hitit rölyefleri | Miras Haritası"
-date: 2025-12-25T13:40:12+03:00
+title: "Karabel Hitit rölyefleri"
+date: "2025-12-25T13:40:12+03:00"
 slug: "karabel-hitit-rolyefleri"
 description: "## Karabel Hitit Rölyefleri: İzmir'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Karabel_Hittite_relief_01_(1991).jpg/1200px-Karabel_Hittite_relief_01_(1991).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karabel Hitit Rölyefleri: İzmir'in Gizli Mirası

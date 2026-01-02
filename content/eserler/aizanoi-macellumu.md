@@ -1,18 +1,17 @@
 ---
-title: "Aizanoi Macellumu | Miras Haritası"
-date: 2025-12-25T04:13:44+03:00
+title: "Aizanoi Macellumu"
+date: "2025-12-25T04:13:44+03:00"
 slug: "aizanoi-macellumu"
 description: "## Aizanoi Macellumu: Tarihî Bir Mirasın Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aizanoi_Macellum_june_2008_2325.jpg/1200px-Aizanoi_Macellum_june_2008_2325.jpg"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Aizanoi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.610911,39.198457"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aizanoi Macellumu: Tarihî Bir Mirasın Gizli Harikası

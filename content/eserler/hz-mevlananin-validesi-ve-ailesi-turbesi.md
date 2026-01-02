@@ -1,18 +1,17 @@
 ---
-title: "Hz. Mevlana’nın Validesi ve Ailesi Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:35+03:00
+title: "Hz. Mevlana’nın Validesi ve Ailesi Türbesi"
+date: "2025-12-25T14:20:35+03:00"
 slug: "hz-mevlananin-validesi-ve-ailesi-turbesi"
 description: "## Hz. Mevlana'nın Validesi ve Ailesi Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.2134,37.1829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hz. Mevlana'nın Validesi ve Ailesi Türbesi

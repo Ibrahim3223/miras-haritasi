@@ -1,18 +1,17 @@
 ---
-title: "Karaoğlan Mevkii | Miras Haritası"
-date: 2025-12-25T07:06:01+03:00
+title: "Karaoğlan Mevkii"
+date: "2025-12-25T07:06:01+03:00"
 slug: "karaoglan-mevkii"
 description: "## Karaoğlan Mevkii: Afyonkarahisar'ın Eski Çağ Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.5042133,38.933876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaoğlan Mevkii: Afyonkarahisar'ın Eski Çağ Mirası

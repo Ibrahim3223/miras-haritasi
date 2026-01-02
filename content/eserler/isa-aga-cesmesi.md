@@ -1,18 +1,17 @@
 ---
-title: "İsa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:02:03+03:00
+title: "İsa Ağa Çeşmesi"
+date: "2025-12-25T13:02:03+03:00"
 slug: "isa-aga-cesmesi"
 description: "## İsa Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/İsa_Ağa_Çeşmesi.jpg/1200px-İsa_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.011639,41.015205"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İsa Ağa Çeşmesi

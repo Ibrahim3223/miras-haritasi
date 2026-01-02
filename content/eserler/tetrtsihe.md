@@ -1,18 +1,17 @@
 ---
-title: "Tetrtsihe | Miras Haritası"
-date: 2025-12-25T01:38:58+03:00
+title: "Tetrtsihe"
+date: "2025-12-25T01:38:58+03:00"
 slug: "tetrtsihe"
 description: "# Tetrtsihe: Kıyıların Gizemli Kaleleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tetrtsihe: Kıyıların Gizemli Kaleleri

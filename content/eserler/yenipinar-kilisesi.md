@@ -1,18 +1,17 @@
 ---
-title: "Yenipınar Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:33+03:00
+title: "Yenipınar Kilisesi"
+date: "2025-12-25T09:23:33+03:00"
 slug: "yenipinar-kilisesi"
 description: "## Yenipınar Kilisesi: Batman'ın Gizemli Kilisesi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Beşiri"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.3013954,37.842411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenipınar Kilisesi: Batman'ın Gizemli Kilisesi

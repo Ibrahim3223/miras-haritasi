@@ -1,18 +1,17 @@
 ---
-title: "Safiye Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:52+03:00
+title: "Safiye Sultan Türbesi"
+date: "2025-12-25T14:38:52+03:00"
 slug: "safiye-sultan-turbesi"
 description: "## Safiye Sultan Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Safiye_Sultan_Türbesi.jpg/1200px-Safiye_Sultan_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9288197,41.0034599"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Safiye Sultan Türbesi

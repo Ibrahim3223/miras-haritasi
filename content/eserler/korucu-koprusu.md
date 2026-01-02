@@ -1,18 +1,17 @@
 ---
-title: "Korucu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:53+03:00
+title: "Korucu Köprüsü"
+date: "2025-12-25T02:44:53+03:00"
 slug: "korucu-koprusu"
 description: "### Korucu Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Hadim"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.5304298,36.9609604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Korucu Köprüsü

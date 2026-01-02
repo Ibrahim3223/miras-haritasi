@@ -1,18 +1,17 @@
 ---
-title: "Çinili Camii Sebili | Miras Haritası"
-date: 2025-12-25T13:07:37+03:00
+title: "Çinili Camii Sebili"
+date: "2025-12-25T13:07:37+03:00"
 slug: "cinili-camii-sebili"
 description: "## Çinili Camii Sebili: Üsküdar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0289211,41.0200882"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çinili Camii Sebili: Üsküdar'ın Tarihi Bir Çeşmesi

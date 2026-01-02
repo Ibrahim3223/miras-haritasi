@@ -1,18 +1,17 @@
 ---
-title: "Memikan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:46+03:00
+title: "Memikan Köprüsü"
+date: "2025-12-25T02:27:46+03:00"
 slug: "memikan-koprusu"
 description: "### Memikan Köprüsü: Beşiri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Beşiri"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.4682002,37.8360065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Memikan Köprüsü: Beşiri'nin Gizli Cenneti

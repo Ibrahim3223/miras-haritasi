@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Gesi Bağpınar 2 | Miras Haritası"
-date: 2025-12-25T02:58:32+03:00
+title: "Roma Köprüsü, Gesi Bağpınar 2"
+date: "2025-12-25T02:58:32+03:00"
 slug: "roma-koprusu-gesi-bagpinar-2"
 description: "## Roma Köprüsü, Gesi Bağpınar 2: Kayseri'nin Gizli Çandırı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.651432,38.812702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Gesi Bağpınar 2: Kayseri'nin Gizli Çandırı

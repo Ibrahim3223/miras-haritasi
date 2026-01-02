@@ -1,18 +1,17 @@
 ---
-title: "Ağcaören Höyük | Miras Haritası"
-date: 2025-12-25T06:10:42+03:00
+title: "Ağcaören Höyük"
+date: "2025-12-25T06:10:42+03:00"
 slug: "agcaoren-hoyuk"
 description: "## Ağcaören Höyük: Çorum'un Gizli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.1937408,40.5652084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağcaören Höyük: Çorum'un Gizli Mirası

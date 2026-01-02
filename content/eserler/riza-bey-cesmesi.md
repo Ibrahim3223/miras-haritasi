@@ -1,18 +1,17 @@
 ---
-title: "Rıza Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:00+03:00
+title: "Rıza Bey Çeşmesi"
+date: "2025-12-25T11:43:00+03:00"
 slug: "riza-bey-cesmesi"
 description: "### Rıza Bey Çeşmesi: Erzurum'un Bir Öyküsünü Taşıyan Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2669716,39.9102554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rıza Bey Çeşmesi: Erzurum'un Bir Öyküsünü Taşıyan Tarihi Bir Çeşme

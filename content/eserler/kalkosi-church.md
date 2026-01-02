@@ -1,18 +1,17 @@
 ---
-title: "K'alk'osi Church | Miras Haritası"
-date: 2025-12-25T08:55:29+03:00
+title: "K'alk'osi Church"
+date: "2025-12-25T08:55:29+03:00"
 slug: "kalkosi-church"
 description: "## K'alk'osi Church: Gürcistan'ın Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.342533333,40.608836111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## K'alk'osi Church: Gürcistan'ın Gizli Cenneti

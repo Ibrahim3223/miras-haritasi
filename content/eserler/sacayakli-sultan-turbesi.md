@@ -1,18 +1,17 @@
 ---
-title: "Saçayaklı Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:07+03:00
+title: "Saçayaklı Sultan Türbesi"
+date: "2025-12-25T15:11:07+03:00"
 slug: "sacayakli-sultan-turbesi"
 description: "## Saçayaklı Sultan Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7763149,41.381018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saçayaklı Sultan Türbesi

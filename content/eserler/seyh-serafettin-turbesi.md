@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Şerafettin Türbesi | Miras Haritası"
-date: 2025-12-25T17:15:53+03:00
+title: "Şeyh Şerafettin Türbesi"
+date: "2025-12-25T17:15:53+03:00"
 slug: "seyh-serafettin-turbesi"
 description: "## Şeyh Şerafettin Türbesi..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Yalova"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "29.2763653,40.5512466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Şerafettin Türbesi

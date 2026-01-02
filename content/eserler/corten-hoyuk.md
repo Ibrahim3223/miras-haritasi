@@ -1,18 +1,17 @@
 ---
-title: "Çörten Höyük | Miras Haritası"
-date: 2025-12-25T06:24:28+03:00
+title: "Çörten Höyük"
+date: "2025-12-25T06:24:28+03:00"
 slug: "corten-hoyuk"
 description: "## Çörten Höyük: Kilis'teki Eski Köyün Efsanesi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.272978,36.7700126"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çörten Höyük: Kilis'teki Eski Köyün Efsanesi

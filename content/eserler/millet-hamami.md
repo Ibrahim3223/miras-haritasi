@@ -1,18 +1,17 @@
 ---
-title: "Millet Hamamı | Miras Haritası"
-date: 2025-12-25T16:44:38+03:00
+title: "Millet Hamamı"
+date: "2025-12-25T16:44:38+03:00"
 slug: "millet-hamami"
 description: "## Millet Hamamı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5315323,38.7535477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Millet Hamamı

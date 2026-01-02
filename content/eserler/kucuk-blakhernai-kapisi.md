@@ -1,18 +1,17 @@
 ---
-title: "Küçük Blakhernai Kapısı | Miras Haritası"
-date: 2025-12-25T13:17:08+03:00
+title: "Küçük Blakhernai Kapısı"
+date: "2025-12-25T13:17:08+03:00"
 slug: "kucuk-blakhernai-kapisi"
 description: "### Küçük Blakhernai Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9412174,41.0393944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küçük Blakhernai Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Yelkale | Miras Haritası"
-date: 2025-12-25T01:42:44+03:00
+title: "Yelkale"
+date: "2025-12-25T01:42:44+03:00"
 slug: "yelkale"
 description: "### Yelkale: Erdemli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.1247482,37.0208321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yelkale: Erdemli'nin Tarihi ve Kültürel Mirası

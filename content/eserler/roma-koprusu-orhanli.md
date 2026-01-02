@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Orhanlı | Miras Haritası"
-date: 2025-12-25T03:00:05+03:00
+title: "Roma Köprüsü, Orhanlı"
+date: "2025-12-25T03:00:05+03:00"
 slug: "roma-koprusu-orhanli"
 description: "## Roma Köprüsü, Orhanlı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.9342373,38.1557922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Orhanlı

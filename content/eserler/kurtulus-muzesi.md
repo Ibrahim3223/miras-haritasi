@@ -1,18 +1,17 @@
 ---
-title: "Kurtuluş Müzesi | Miras Haritası"
-date: 2025-12-25T04:08:42+03:00
+title: "Kurtuluş Müzesi"
+date: "2025-12-25T04:08:42+03:00"
 slug: "kurtulus-muzesi"
 description: "## Kurtuluş Müzesi: Eskişehir'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Eskişehir_Museum_of_Independence_building.jpg/1200px-Eskişehir_Museum_of_Independence_building.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.52361111,39.76444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kurtuluş Müzesi: Eskişehir'in Tarihî Mirası

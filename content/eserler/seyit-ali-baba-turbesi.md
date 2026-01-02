@@ -1,18 +1,17 @@
 ---
-title: "Seyit Ali Baba Türbesi | Miras Haritası"
-date: 2025-12-25T13:29:10+03:00
+title: "Seyit Ali Baba Türbesi"
+date: "2025-12-25T13:29:10+03:00"
 slug: "seyit-ali-baba-turbesi"
 description: "## Seyit Ali Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0768795,40.9876137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyit Ali Baba Türbesi

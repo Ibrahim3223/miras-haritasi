@@ -1,18 +1,17 @@
 ---
-title: "Appia | Miras Haritası"
-date: 2025-12-25T05:08:40+03:00
+title: "Appia"
+date: "2025-12-25T05:08:40+03:00"
 slug: "appia"
 description: "## Appia: Geçmişin İzleri..."
 featured_image: ""
 province: "Altıntaş"
-iller: ["Altıntaş"]
+iller: '["Altıntaş"]'
 district: "Pınarcık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9841704,39.0246078"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Appia: Geçmişin İzleri

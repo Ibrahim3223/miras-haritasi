@@ -1,18 +1,17 @@
 ---
-title: "Çorca Höyüğü | Miras Haritası"
-date: 2025-12-25T06:34:16+03:00
+title: "Çorca Höyüğü"
+date: "2025-12-25T06:34:16+03:00"
 slug: "corca-hoyugu"
 description: "## Çorca Höyüğü: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Cihanbeyli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.9183994,38.7586068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çorca Höyüğü: Konya'nın Gizli Mirası

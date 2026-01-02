@@ -1,18 +1,17 @@
 ---
-title: "Hasyurt Selçuklu Camii | Miras Haritası"
-date: 2025-12-24T23:31:46+03:00
+title: "Hasyurt Selçuklu Camii"
+date: "2025-12-24T23:31:46+03:00"
 slug: "hasyurt-selcuklu-camii"
 description: "## Hasyurt Selçuklu Camii: Finike'nin İhtişamlı Tarihî Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2177124,36.3476753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasyurt Selçuklu Camii: Finike'nin İhtişamlı Tarihî Mirası

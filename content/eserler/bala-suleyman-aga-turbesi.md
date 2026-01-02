@@ -1,18 +1,17 @@
 ---
-title: "Bala Süleyman Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:12+03:00
+title: "Bala Süleyman Ağa Türbesi"
+date: "2025-12-25T14:56:12+03:00"
 slug: "bala-suleyman-aga-turbesi"
 description: "## Bala Süleyman Ağa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bala_Süleyman_Ağa_Türbesi,_Fatih,_İstanbul_2025.jpg/1200px-Bala_Süleyman_Ağa_Türbesi,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9237804,41.0079994"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bala Süleyman Ağa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Til Höyük, Mazgirt | Miras Haritası"
-date: 2025-12-25T05:59:43+03:00
+title: "Til Höyük, Mazgirt"
+date: "2025-12-25T05:59:43+03:00"
 slug: "til-hoyuk-mazgirt"
 description: "## Til Höyük, Mazgirt: Tunceli'nin Gizli Öyküsü..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Mazgirt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.7568245,38.8596725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Til Höyük, Mazgirt: Tunceli'nin Gizli Öyküsü

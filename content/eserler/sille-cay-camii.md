@@ -1,18 +1,17 @@
 ---
-title: "Sille Çay Camii | Miras Haritası"
-date: 2025-12-24T23:05:49+03:00
+title: "Sille Çay Camii"
+date: "2025-12-24T23:05:49+03:00"
 slug: "sille-cay-camii"
 description: "## Sille Çay Camii: Konya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sille_Çay_Camii.jpg/1200px-Sille_Çay_Camii.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4175034,37.9263191"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sille Çay Camii: Konya'nın Gizli Cenneti

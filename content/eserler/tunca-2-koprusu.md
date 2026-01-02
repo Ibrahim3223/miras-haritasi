@@ -1,18 +1,17 @@
 ---
-title: "Tunca 2 Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:52+03:00
+title: "Tunca 2 Köprüsü"
+date: "2025-12-25T01:59:52+03:00"
 slug: "tunca-2-koprusu"
 description: "## Tunca 2 Köprüsü Nedir?..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.1236554,41.1224732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tunca 2 Köprüsü Nedir?

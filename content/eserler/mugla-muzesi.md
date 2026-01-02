@@ -1,18 +1,17 @@
 ---
-title: "Muğla Müzesi | Miras Haritası"
-date: 2025-12-25T03:20:52+03:00
+title: "Muğla Müzesi"
+date: "2025-12-25T03:20:52+03:00"
 slug: "mugla-muzesi"
 description: "### Muğla Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Musée_de_Muğla_(2841791957).jpg/1200px-Musée_de_Muğla_(2841791957).jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Muğla"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.368055555,37.217222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Muğla Müzesi

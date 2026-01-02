@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Abdülkadir Sebili | Miras Haritası"
-date: 2025-12-25T13:08:42+03:00
+title: "Şeyh Abdülkadir Sebili"
+date: "2025-12-25T13:08:42+03:00"
 slug: "seyh-abdulkadir-sebili"
 description: "### Şeyh Abdülkadir Sebili: Eyüpsultan'ın Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9303665,41.0497169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Abdülkadir Sebili: Eyüpsultan'ın Tarihi Çeşmesi

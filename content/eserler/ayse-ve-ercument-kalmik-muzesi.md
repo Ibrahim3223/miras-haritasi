@@ -1,18 +1,17 @@
 ---
-title: "Ayşe ve Ercüment Kalmık Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:10+03:00
+title: "Ayşe ve Ercüment Kalmık Müzesi"
+date: "2025-12-25T03:31:10+03:00"
 slug: "ayse-ve-ercument-kalmik-muzesi"
 description: "### Ayşe ve Ercüment Kalmık Müzesi: Beyoğlu'ndaki Bir Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9878778,41.0345815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayşe ve Ercüment Kalmık Müzesi: Beyoğlu'ndaki Bir Kültür Mirası

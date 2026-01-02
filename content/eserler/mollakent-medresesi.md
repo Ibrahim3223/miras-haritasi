@@ -1,18 +1,17 @@
 ---
-title: "Mollakent Medresesi | Miras Haritası"
-date: 2025-12-25T17:26:02+03:00
+title: "Mollakent Medresesi"
+date: "2025-12-25T17:26:02+03:00"
 slug: "mollakent-medresesi"
 description: "# Mollakent Medresesi..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Bulanık"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "42.0692825,38.9526901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mollakent Medresesi

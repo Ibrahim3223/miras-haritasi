@@ -1,18 +1,17 @@
 ---
-title: "Kılıçkaya Camii | Miras Haritası"
-date: 2025-12-25T00:15:13+03:00
+title: "Kılıçkaya Camii"
+date: "2025-12-25T00:15:13+03:00"
 slug: "kilickaya-camii"
 description: "## Kılıçkaya Camii: Tarihi ve Kültürel Mirası İfade Ettiği Önemli Yer..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5270654,40.8106038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılıçkaya Camii: Tarihi ve Kültürel Mirası İfade Ettiği Önemli Yer

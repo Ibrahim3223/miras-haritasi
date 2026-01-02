@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Selçuk, 1. Çukurbağ Caddesi | Miras Haritası"
-date: 2025-12-25T10:04:53+03:00
+title: "Çeşme – Selçuk, 1. Çukurbağ Caddesi"
+date: "2025-12-25T10:04:53+03:00"
 slug: "cesme-selcuk-1-cukurbag-caddesi"
 description: "### Eski Bergama'nın Tarihi Çeşmesi: Çukurbağ Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/416.40-1._Çukurbağ_Caddesi_Çeşmesi-19.yy_01.jpg/1200px-416.40-1._Çukurbağ_Caddesi_Çeşmesi-19.yy_01.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.17716667,39.12343889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Eski Bergama'nın Tarihi Çeşmesi: Çukurbağ Çeşmesi

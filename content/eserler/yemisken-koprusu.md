@@ -1,18 +1,17 @@
 ---
-title: "Yemişken Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:21+03:00
+title: "Yemişken Köprüsü"
+date: "2025-12-25T02:36:21+03:00"
 slug: "yemisken-koprusu"
 description: "## Yemişken Köprüsü: Giresun'un Tarihî Köyü Yağlıdere'nin Efsanevi Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.627445,40.698711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yemişken Köprüsü: Giresun'un Tarihî Köyü Yağlıdere'nin Efsanevi Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hasan Nurani Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:38+03:00
+title: "Şeyh Hasan Nurani Türbesi"
+date: "2025-12-25T15:20:38+03:00"
 slug: "seyh-hasan-nurani-turbesi"
 description: "### Şeyh Hasan Nurani Türbesi: Diyarbakır'ın Gizli Cenneti..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.5664902,37.7230988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Hasan Nurani Türbesi: Diyarbakır'ın Gizli Cenneti

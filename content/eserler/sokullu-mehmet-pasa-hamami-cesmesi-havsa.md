@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Hamamı Çeşmesi, Havsa | Miras Haritası"
-date: 2025-12-25T12:55:15+03:00
+title: "Sokullu Mehmet Paşa Hamamı Çeşmesi, Havsa"
+date: "2025-12-25T12:55:15+03:00"
 slug: "sokullu-mehmet-pasa-hamami-cesmesi-havsa"
 description: "## Sokullu Mehmet Paşa Hamamı Çeşmesi, Havsa..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokullu Mehmet Paşa Hamamı Çeşmesi, Havsa

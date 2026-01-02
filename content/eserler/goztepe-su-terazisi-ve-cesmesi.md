@@ -1,18 +1,17 @@
 ---
-title: "Göztepe Su Terazisi ve Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:54:56+03:00
+title: "Göztepe Su Terazisi ve Çeşmesi"
+date: "2025-12-25T12:54:56+03:00"
 slug: "goztepe-su-terazisi-ve-cesmesi"
 description: "### Göztepe Su Terazisi ve Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0559185,40.9846781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Göztepe Su Terazisi ve Çeşmesi

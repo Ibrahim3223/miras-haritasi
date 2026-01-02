@@ -1,18 +1,17 @@
 ---
-title: "Akşar Höyük | Miras Haritası"
-date: 2025-12-25T05:53:40+03:00
+title: "Akşar Höyük"
+date: "2025-12-25T05:53:40+03:00"
 slug: "aksar-hoyuk"
 description: "### Akşar Höyük: Türkiye'nin Eski Kenti..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.975711,40.341321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akşar Höyük: Türkiye'nin Eski Kenti

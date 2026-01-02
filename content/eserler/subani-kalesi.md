@@ -1,18 +1,17 @@
 ---
-title: "Şubani Kalesi | Miras Haritası"
-date: 2025-12-25T01:47:18+03:00
+title: "Şubani Kalesi"
+date: "2025-12-25T01:47:18+03:00"
 slug: "subani-kalesi"
 description: "### Şubani Kalesi: Borçka'nın Gizli Harikası..."
 featured_image: ""
 province: "Borçka"
-iller: ["Borçka"]
+iller: '["Borçka"]'
 district: "Karşıköy"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.711527777,41.443111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şubani Kalesi: Borçka'nın Gizli Harikası

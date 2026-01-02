@@ -1,18 +1,17 @@
 ---
-title: "Hacı Veli Bey Camii | Miras Haritası"
-date: 2025-12-24T23:29:22+03:00
+title: "Hacı Veli Bey Camii"
+date: "2025-12-24T23:29:22+03:00"
 slug: "haci-veli-bey-camii"
 description: "## Hacı Veli Bey Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9263916,37.5909424"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Veli Bey Camii

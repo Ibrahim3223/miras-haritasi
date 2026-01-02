@@ -1,18 +1,17 @@
 ---
-title: "II. Abdülhamit Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:08:22+03:00
+title: "II. Abdülhamit Çeşmesi"
+date: "2025-12-25T10:08:22+03:00"
 slug: "ii-abdulhamit-cesmesi"
 description: "## II. Abdülhamit Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/II._Abdülhamid_Çeşmesi_(Şişli).jpg/1200px-II._Abdülhamid_Çeşmesi_(Şişli).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.994083333,41.045"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## II. Abdülhamit Çeşmesi

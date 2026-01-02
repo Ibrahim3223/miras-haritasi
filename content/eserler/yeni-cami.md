@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami | Miras Haritası"
-date: 2025-12-24T22:56:28+03:00
+title: "Yeni Cami"
+date: "2025-12-24T22:56:28+03:00"
 slug: "yeni-cami"
 description: "## Yeni Cami: Beyoğlu'nun Semaya Katan Bir Şaheser..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Arap Cami"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.973252,41.023232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Cami: Beyoğlu'nun Semaya Katan Bir Şaheser

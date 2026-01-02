@@ -1,18 +1,17 @@
 ---
-title: "Yerevman Surp Haç Kilisesi | Miras Haritası"
-date: 2025-12-25T08:47:17+03:00
+title: "Yerevman Surp Haç Kilisesi"
+date: "2025-12-25T08:47:17+03:00"
 slug: "yerevman-surp-hac-kilisesi"
 description: "## Yerevman Surp Haç Kilisesi: İstanbul'un Gizli Çarpıntıları..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.035557,41.060498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yerevman Surp Haç Kilisesi: İstanbul'un Gizli Çarpıntıları

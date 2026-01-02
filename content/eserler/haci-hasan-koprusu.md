@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hasan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:46:37+03:00
+title: "Hacı Hasan Köprüsü"
+date: "2025-12-25T02:46:37+03:00"
 slug: "haci-hasan-koprusu"
 description: "## Hacı Hasan Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.871600085,36.171734783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hasan Köprüsü

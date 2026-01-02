@@ -1,18 +1,17 @@
 ---
-title: "Gencik Tepe Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T05:39:16+03:00
+title: "Gencik Tepe Kutsal Alanı"
+date: "2025-12-25T05:39:16+03:00"
 slug: "gencik-tepe-kutsal-alani"
 description: "**Gencik Tepe Kutsal Alanı**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8107376,37.3058624"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gencik Tepe Kutsal Alanı**

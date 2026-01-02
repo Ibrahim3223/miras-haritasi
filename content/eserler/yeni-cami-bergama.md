@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami, Bergama | Miras Haritası"
-date: 2025-12-24T23:54:59+03:00
+title: "Yeni Cami, Bergama"
+date: "2025-12-24T23:54:59+03:00"
 slug: "yeni-cami-bergama"
 description: "### Yeni Cami, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1791477,39.1194878"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeni Cami, Bergama

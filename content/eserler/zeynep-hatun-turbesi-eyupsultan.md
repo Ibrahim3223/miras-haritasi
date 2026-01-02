@@ -1,18 +1,17 @@
 ---
-title: "Zeynep Hatun Türbesi, Eyüpsultan | Miras Haritası"
-date: 2025-12-25T15:35:28+03:00
+title: "Zeynep Hatun Türbesi, Eyüpsultan"
+date: "2025-12-25T15:35:28+03:00"
 slug: "zeynep-hatun-turbesi-eyupsultan"
 description: "## Zeynep Hatun Türbesi, Eyüpsultan..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.932143177,41.055059504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeynep Hatun Türbesi, Eyüpsultan

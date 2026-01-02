@@ -1,18 +1,17 @@
 ---
-title: "Dijital Arşiv Projesi | Miras Haritası"
-date: 2025-12-25T17:45:12+03:00
+title: "Dijital Arşiv Projesi"
+date: "2025-12-25T17:45:12+03:00"
 slug: "dijital-arsiv-projesi"
 description: "## Dijital Arşiv Projesi: Türkiye'nin Kültürel Mirasının Yeniden Keşfi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dijital Arşiv Projesi: Türkiye'nin Kültürel Mirasının Yeniden Keşfi

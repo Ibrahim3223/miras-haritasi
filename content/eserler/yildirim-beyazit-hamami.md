@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Beyazıt Hamamı | Miras Haritası"
-date: 2025-12-25T16:23:24+03:00
+title: "Yıldırım Beyazıt Hamamı"
+date: "2025-12-25T16:23:24+03:00"
 slug: "yildirim-beyazit-hamami"
 description: "## Yıldırım Beyazıt Hamamı: Mudurnu'nun Tarihi Bir Anıtını Keşfedin..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Mudurnu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.2113078,40.4648693"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldırım Beyazıt Hamamı: Mudurnu'nun Tarihi Bir Anıtını Keşfedin

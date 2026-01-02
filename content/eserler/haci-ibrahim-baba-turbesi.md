@@ -1,18 +1,17 @@
 ---
-title: "Hacı İbrahim Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:46+03:00
+title: "Hacı İbrahim Baba Türbesi"
+date: "2025-12-25T15:23:46+03:00"
 slug: "haci-ibrahim-baba-turbesi"
 description: "## Hacı İbrahim Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.277813,39.8997993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı İbrahim Baba Türbesi

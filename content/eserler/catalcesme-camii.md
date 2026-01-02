@@ -1,18 +1,17 @@
 ---
-title: "Çatalçeşme Camii | Miras Haritası"
-date: 2025-12-24T22:29:47+03:00
+title: "Çatalçeşme Camii"
+date: "2025-12-24T22:29:47+03:00"
 slug: "catalcesme-camii"
 description: "### Çatalçeşme Camii..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0865555,37.7714539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çatalçeşme Camii

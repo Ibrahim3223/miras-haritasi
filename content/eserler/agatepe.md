@@ -1,18 +1,17 @@
 ---
-title: "Ağatepe | Miras Haritası"
-date: 2025-12-25T06:05:56+03:00
+title: "Ağatepe"
+date: "2025-12-25T06:05:56+03:00"
 slug: "agatepe"
 description: "### Ağatepe: Sivas'ta Bir Arkeolojik Şans..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.0316467,39.5924187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağatepe: Sivas'ta Bir Arkeolojik Şans

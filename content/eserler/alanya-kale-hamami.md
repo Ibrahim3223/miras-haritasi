@@ -1,18 +1,17 @@
 ---
-title: "Alanya Kale Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:52+03:00
+title: "Alanya Kale Hamamı"
+date: "2025-12-25T16:40:52+03:00"
 slug: "alanya-kale-hamami"
 description: "## Alanya Kale Hamamı: Tarihi Bir Ziyaret Yerinin Tanıtımı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.9913616,36.5307083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alanya Kale Hamamı: Tarihi Bir Ziyaret Yerinin Tanıtımı

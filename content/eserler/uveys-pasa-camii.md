@@ -1,18 +1,17 @@
 ---
-title: "Üveys Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:18:44+03:00
+title: "Üveys Paşa Camii"
+date: "2025-12-24T23:18:44+03:00"
 slug: "uveys-pasa-camii"
 description: "## Üveys Paşa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8422146,37.8536377"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üveys Paşa Camii

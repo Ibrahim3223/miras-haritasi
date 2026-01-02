@@ -1,18 +1,17 @@
 ---
-title: "Karaoğlan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:28:34+03:00
+title: "Karaoğlan Çeşmesi"
+date: "2025-12-25T11:28:34+03:00"
 slug: "karaoglan-cesmesi"
 description: "## Karaoğlan Çeşmesi: Balıkesir'in Tarihsel Bir Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8777428,39.6477356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaoğlan Çeşmesi: Balıkesir'in Tarihsel Bir Çeşmesi

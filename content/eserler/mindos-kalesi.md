@@ -1,18 +1,17 @@
 ---
-title: "Mindos Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:52+03:00
+title: "Mindos Kalesi"
+date: "2025-12-25T01:40:52+03:00"
 slug: "mindos-kalesi"
 description: "## Mindos Kalesi: Konya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Halkapınar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.264362,37.380974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mindos Kalesi: Konya'nın Tarihî Bir Mirası

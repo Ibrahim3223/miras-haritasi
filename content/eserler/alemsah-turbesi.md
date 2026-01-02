@@ -1,18 +1,17 @@
 ---
-title: "Alemşah Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:44+03:00
+title: "Alemşah Türbesi"
+date: "2025-12-25T15:11:44+03:00"
 slug: "alemsah-turbesi"
 description: "## Alemşah Türbesi..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.1722,39.6981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alemşah Türbesi

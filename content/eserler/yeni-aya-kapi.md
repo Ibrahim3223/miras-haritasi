@@ -1,18 +1,17 @@
 ---
-title: "Yeni Aya Kapı | Miras Haritası"
-date: 2025-12-25T13:18:04+03:00
+title: "Yeni Aya Kapı"
+date: "2025-12-25T13:18:04+03:00"
 slug: "yeni-aya-kapi"
 description: "## Yeni Aya Kapısı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9553661,41.0281258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Aya Kapısı: İstanbul'un Tarihi ve Kültürel Mirası

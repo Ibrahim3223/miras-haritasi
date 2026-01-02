@@ -1,18 +1,17 @@
 ---
-title: "Paion (Trakya) | Miras Haritası"
-date: 2025-12-25T04:26:43+03:00
+title: "Paion (Trakya)"
+date: "2025-12-25T04:26:43+03:00"
 slug: "paion-trakya"
 description: "## Paion (Trakya): Gelibolu'nun Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.639597,40.505429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paion (Trakya): Gelibolu'nun Gizli Mirası

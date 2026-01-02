@@ -1,18 +1,17 @@
 ---
-title: "Dokuzhöyük Kocameşe Arkası Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:45+03:00
+title: "Dokuzhöyük Kocameşe Arkası Tümülüsü"
+date: "2025-12-25T07:47:45+03:00"
 slug: "dokuzhoyuk-kocamese-arkasi-tumulusu"
 description: "## Dokuzhöyük Kocameşe Arkası Tümülüsü: Tarihî Bir Gizem..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0442638,41.6332741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokuzhöyük Kocameşe Arkası Tümülüsü: Tarihî Bir Gizem

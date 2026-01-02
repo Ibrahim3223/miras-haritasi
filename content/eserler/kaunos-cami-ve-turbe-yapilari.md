@@ -1,18 +1,17 @@
 ---
-title: "Kaunos Cami ve Türbe Yapıları | Miras Haritası"
-date: 2025-12-25T00:07:14+03:00
+title: "Kaunos Cami ve Türbe Yapıları"
+date: "2025-12-25T00:07:14+03:00"
 slug: "kaunos-cami-ve-turbe-yapilari"
 description: "## Kaunos Cami ve Türbe Yapıları..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6208725,36.8248863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaunos Cami ve Türbe Yapıları

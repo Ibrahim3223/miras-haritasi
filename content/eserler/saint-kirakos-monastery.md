@@ -1,18 +1,17 @@
 ---
-title: "Saint Kirakos Monastery | Miras Haritası"
-date: 2025-12-25T09:52:39+03:00
+title: "Saint Kirakos Monastery"
+date: "2025-12-25T09:52:39+03:00"
 slug: "saint-kirakos-monastery"
 description: "## Saint Kirakos Manastırı..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saint Kirakos Manastırı

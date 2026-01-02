@@ -1,18 +1,17 @@
 ---
-title: "Pericharaxis | Miras Haritası"
-date: 2025-12-25T04:38:57+03:00
+title: "Pericharaxis"
+date: "2025-12-25T04:38:57+03:00"
 slug: "pericharaxis"
 description: "# Pericharaxis: Eski Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.641936,39.765088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pericharaxis: Eski Çağın Gizemi

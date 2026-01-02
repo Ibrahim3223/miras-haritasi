@@ -1,18 +1,17 @@
 ---
-title: "İsa Sofi Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:13+03:00
+title: "İsa Sofi Türbesi"
+date: "2025-12-25T14:54:13+03:00"
 slug: "isa-sofi-turbesi"
 description: "### İsa Sofi Türbesi: Sakarya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Söğütlü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.2168121,40.0443535"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsa Sofi Türbesi: Sakarya'nın Gizli Anıtı

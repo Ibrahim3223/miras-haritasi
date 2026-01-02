@@ -1,18 +1,17 @@
 ---
-title: "Rızvaniye Camii | Miras Haritası"
-date: 2025-12-24T22:06:03+03:00
+title: "Rızvaniye Camii"
+date: "2025-12-24T22:06:03+03:00"
 slug: "rizvaniye-camii"
 description: "## Rızvaniye Camii: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.784916666,37.147722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rızvaniye Camii: Şanlıurfa'nın Tarihi Bir Mirası

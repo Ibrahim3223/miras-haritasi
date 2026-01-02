@@ -1,18 +1,17 @@
 ---
-title: "İshak Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:39+03:00
+title: "İshak Paşa Medresesi"
+date: "2025-12-25T17:36:39+03:00"
 slug: "ishak-pasa-medresesi"
 description: "## İshak Paşa Medresesi: İnegöl'de Bir Tarihî Ören..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.5119781,40.0788307"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İshak Paşa Medresesi: İnegöl'de Bir Tarihî Ören

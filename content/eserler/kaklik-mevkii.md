@@ -1,18 +1,17 @@
 ---
-title: "Kaklık Mevkii | Miras Haritası"
-date: 2025-12-25T07:02:14+03:00
+title: "Kaklık Mevkii"
+date: "2025-12-25T07:02:14+03:00"
 slug: "kaklik-mevkii"
 description: "### Kaklık Mevkii: Antik Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaklık Mevkii: Antik Bir Arkeolojik Sit

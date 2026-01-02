@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, İnebolu | Miras Haritası"
-date: 2025-12-25T00:00:25+03:00
+title: "Hamidiye Camii, İnebolu"
+date: "2025-12-25T00:00:25+03:00"
 slug: "hamidiye-camii-inebolu"
 description: "## Hamidiye Camii, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7610779,41.9786949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Camii, İnebolu

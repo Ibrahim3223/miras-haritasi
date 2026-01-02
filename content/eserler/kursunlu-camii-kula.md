@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, Kula | Miras Haritası"
-date: 2025-12-25T00:01:05+03:00
+title: "Kurşunlu Camii, Kula"
+date: "2025-12-25T00:01:05+03:00"
 slug: "kursunlu-camii-kula"
 description: "## Kurşunlu Camii, Kula..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.646368,38.5447998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Camii, Kula

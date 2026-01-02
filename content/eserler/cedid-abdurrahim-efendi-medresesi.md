@@ -1,18 +1,17 @@
 ---
-title: "Cedid Abdürrahim Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:12+03:00
+title: "Cedid Abdürrahim Efendi Medresesi"
+date: "2025-12-25T17:27:12+03:00"
 slug: "cedid-abdurrahim-efendi-medresesi"
 description: "**Cedid Abdürrahim Efendi Medresesi: İstanbul'un Tarihi bir Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.949023,41.022176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Cedid Abdürrahim Efendi Medresesi: İstanbul'un Tarihi bir Mirası**

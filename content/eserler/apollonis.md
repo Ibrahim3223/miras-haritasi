@@ -1,18 +1,17 @@
 ---
-title: "Apollonis | Miras Haritası"
-date: 2025-12-25T04:20:09+03:00
+title: "Apollonis"
+date: "2025-12-25T04:20:09+03:00"
 slug: "apollonis"
 description: "## Apollonis: Manisa'nın Kırmızı Taşları..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6693,38.9145"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apollonis: Manisa'nın Kırmızı Taşları

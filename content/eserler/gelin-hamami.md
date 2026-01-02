@@ -1,18 +1,17 @@
 ---
-title: "Gelin Hamamı | Miras Haritası"
-date: 2025-12-25T16:59:06+03:00
+title: "Gelin Hamamı"
+date: "2025-12-25T16:59:06+03:00"
 slug: "gelin-hamami"
 description: "## Gelin Hamamı: Samsun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Çarşamba"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.7248421,41.2003288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gelin Hamamı: Samsun'un Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Nişancı Mehmet Paşa Kabri, Nişanca | Miras Haritası"
-date: 2025-12-25T13:31:22+03:00
+title: "Nişancı Mehmet Paşa Kabri, Nişanca"
+date: "2025-12-25T13:31:22+03:00"
 slug: "nisanci-mehmet-pasa-kabri-nisanca"
 description: "## Nişancı Mehmet Paşa Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9609833,41.0061226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nişancı Mehmet Paşa Kabri: İstanbul'un Gizli Anıtı

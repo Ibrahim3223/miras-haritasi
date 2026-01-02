@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Paşa Camii | Miras Haritası"
-date: 2025-12-25T00:28:23+03:00
+title: "Ahmet Paşa Camii"
+date: "2025-12-25T00:28:23+03:00"
 slug: "ahmet-pasa-camii"
 description: "## Ahmet Paşa Camii: Bursa'nın Zengin Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0584679,40.1903419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Paşa Camii: Bursa'nın Zengin Mirası

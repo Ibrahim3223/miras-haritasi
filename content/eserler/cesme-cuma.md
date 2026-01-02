@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Cuma | Miras Haritası"
-date: 2025-12-25T10:32:45+03:00
+title: "Çeşme – Cuma"
+date: "2025-12-25T10:32:45+03:00"
 slug: "cesme-cuma"
 description: "## Çeşme – Cuma: Aydın'ın Değerli Tarihi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6067009,37.722599"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Cuma: Aydın'ın Değerli Tarihi

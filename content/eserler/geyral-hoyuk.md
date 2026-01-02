@@ -1,18 +1,17 @@
 ---
-title: "Geyral Höyük | Miras Haritası"
-date: 2025-12-25T06:30:18+03:00
+title: "Geyral Höyük"
+date: "2025-12-25T06:30:18+03:00"
 slug: "geyral-hoyuk"
 description: "## Geyral Höyük: Aksaray'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2682198,38.4486069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Geyral Höyük: Aksaray'ın Gizli Zirvesi

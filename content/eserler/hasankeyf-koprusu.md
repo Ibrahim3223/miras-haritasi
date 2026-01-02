@@ -1,18 +1,17 @@
 ---
-title: "Hasankeyf Köprüsü | Miras Haritası"
-date: 2025-12-25T02:05:16+03:00
+title: "Hasankeyf Köprüsü"
+date: "2025-12-25T02:05:16+03:00"
 slug: "hasankeyf-koprusu"
 description: "### Hasankeyf Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hasankeyf_P1040906_20080425151001.JPG/1200px-Hasankeyf_P1040906_20080425151001.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hasankeyf Köprüsü

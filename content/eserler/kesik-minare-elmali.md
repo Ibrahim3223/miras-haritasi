@@ -1,18 +1,17 @@
 ---
-title: "Kesik Minare, Elmalı | Miras Haritası"
-date: 2025-12-25T01:06:39+03:00
+title: "Kesik Minare, Elmalı"
+date: "2025-12-25T01:06:39+03:00"
 slug: "kesik-minare-elmali"
 description: "# Kesik Minare, Elmalı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9133453,36.7431412"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kesik Minare, Elmalı

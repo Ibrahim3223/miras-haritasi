@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Münir Paşa Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T10:57:35+03:00
+title: "Ahmet Münir Paşa Çeşmesi 2"
+date: "2025-12-25T10:57:35+03:00"
 slug: "ahmet-munir-pasa-cesmesi-2"
 description: "### Ahmet Münir Paşa Çeşmesi 2..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0624542,40.1839371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Münir Paşa Çeşmesi 2

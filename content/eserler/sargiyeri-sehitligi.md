@@ -1,18 +1,17 @@
 ---
-title: "Sargıyeri Şehitliği | Miras Haritası"
-date: 2025-12-25T15:57:32+03:00
+title: "Sargıyeri Şehitliği"
+date: "2025-12-25T15:57:32+03:00"
 slug: "sargiyeri-sehitligi"
 description: "### Sargıyeri Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2211895,40.1017418"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sargıyeri Şehitliği

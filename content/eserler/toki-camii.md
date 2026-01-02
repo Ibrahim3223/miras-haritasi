@@ -1,18 +1,17 @@
 ---
-title: "Toki Camii | Miras Haritası"
-date: 2025-12-25T00:59:17+03:00
+title: "Toki Camii"
+date: "2025-12-25T00:59:17+03:00"
 slug: "toki-camii"
 description: "## Toki Camii: Honaz, Denizli'nin Değerli Hazinesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2836576,37.7616679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toki Camii: Honaz, Denizli'nin Değerli Hazinesi

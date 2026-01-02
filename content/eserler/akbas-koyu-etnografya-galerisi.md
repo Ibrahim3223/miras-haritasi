@@ -1,18 +1,17 @@
 ---
-title: "Akbaş Köyü Etnografya Galerisi | Miras Haritası"
-date: 2025-12-25T04:02:07+03:00
+title: "Akbaş Köyü Etnografya Galerisi"
+date: "2025-12-25T04:02:07+03:00"
 slug: "akbas-koyu-etnografya-galerisi"
 description: "**Akbaş Köyü Etnografya Galerisi**..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Balya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.5276031,39.6540871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akbaş Köyü Etnografya Galerisi**

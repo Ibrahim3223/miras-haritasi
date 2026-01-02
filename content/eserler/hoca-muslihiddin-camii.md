@@ -1,18 +1,17 @@
 ---
-title: "Hoca Muslihiddin Camii | Miras Haritası"
-date: 2025-12-24T23:33:30+03:00
+title: "Hoca Muslihiddin Camii"
+date: "2025-12-24T23:33:30+03:00"
 slug: "hoca-muslihiddin-camii"
 description: "### Hoca Muslihiddin Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0645943,40.1804466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hoca Muslihiddin Camii: Bursa'nın Tarihi Bir Mirası

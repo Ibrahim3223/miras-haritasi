@@ -1,18 +1,17 @@
 ---
-title: "Şirindere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:49+03:00
+title: "Şirindere Köprüsü"
+date: "2025-12-25T02:16:49+03:00"
 slug: "sirindere-koprusu"
 description: "# Şirindere Köprüsü: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7771358,37.9281387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şirindere Köprüsü: Aydın'ın Tarihi Bir Mirası

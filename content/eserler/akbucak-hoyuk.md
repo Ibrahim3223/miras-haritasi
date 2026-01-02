@@ -1,18 +1,17 @@
 ---
-title: "Akbucak Höyük | Miras Haritası"
-date: 2025-12-25T13:44:50+03:00
+title: "Akbucak Höyük"
+date: "2025-12-25T13:44:50+03:00"
 slug: "akbucak-hoyuk"
 description: "## Akbucak Höyük: Yozgat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1839304,39.5548334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akbucak Höyük: Yozgat'ın Tarihî Mirası

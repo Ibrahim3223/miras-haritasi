@@ -1,18 +1,17 @@
 ---
-title: "Yediler Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:25+03:00
+title: "Yediler Türbesi"
+date: "2025-12-25T14:34:25+03:00"
 slug: "yediler-turbesi"
 description: "## Yediler Türbesi: Ankara'nın Gizli Çarpıcı Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.9118862,40.1893349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yediler Türbesi: Ankara'nın Gizli Çarpıcı Anıtı

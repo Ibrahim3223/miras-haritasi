@@ -1,18 +1,17 @@
 ---
-title: "Dedetepe Tumulus burial chamber | Miras Haritası"
-date: 2025-12-25T07:25:45+03:00
+title: "Dedetepe Tumulus burial chamber"
+date: "2025-12-25T07:25:45+03:00"
 slug: "dedetepe-tumulus-burial-chamber"
 description: "# Dedetepe Tumulus Ölüm Odası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Troy_Museum_Dedetepe_Tumulus_burial_chamber_9937.jpg/1200px-Troy_Museum_Dedetepe_Tumulus_burial_chamber_9937.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Dedetepe Tumulus Ölüm Odası

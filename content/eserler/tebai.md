@@ -1,18 +1,17 @@
 ---
-title: "Tebai | Miras Haritası"
-date: 2025-12-25T04:30:26+03:00
+title: "Tebai"
+date: "2025-12-25T04:30:26+03:00"
 slug: "tebai"
 description: "### Tebai Arkeolojik Siti: Balıkesir'in Gizli Çanakkale'si..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0,39.5833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tebai Arkeolojik Siti: Balıkesir'in Gizli Çanakkale'si

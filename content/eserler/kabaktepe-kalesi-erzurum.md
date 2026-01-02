@@ -1,18 +1,17 @@
 ---
-title: "Kabaktepe Kalesi, Erzurum | Miras Haritası"
-date: 2025-12-25T01:39:22+03:00
+title: "Kabaktepe Kalesi, Erzurum"
+date: "2025-12-25T01:39:22+03:00"
 slug: "kabaktepe-kalesi-erzurum"
 description: "## Kabaktepe Kalesi: Erzurum'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Aziziye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.193157,40.243774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabaktepe Kalesi: Erzurum'un Tarihî ve Kültürel Mirası

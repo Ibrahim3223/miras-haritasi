@@ -1,18 +1,17 @@
 ---
-title: "Acıöz Höyüğü | Miras Haritası"
-date: 2025-12-25T06:17:49+03:00
+title: "Acıöz Höyüğü"
+date: "2025-12-25T06:17:49+03:00"
 slug: "acioz-hoyugu"
 description: "### Acıöz Höyüğü..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.1382444,38.9986001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Acıöz Höyüğü

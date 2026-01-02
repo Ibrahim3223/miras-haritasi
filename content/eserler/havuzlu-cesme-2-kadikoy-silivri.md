@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme 2, Kadıköy Silivri | Miras Haritası"
-date: 2025-12-25T12:47:24+03:00
+title: "Havuzlu Çeşme 2, Kadıköy Silivri"
+date: "2025-12-25T12:47:24+03:00"
 slug: "havuzlu-cesme-2-kadikoy-silivri"
 description: "## Havuzlu Çeşme 2, Kadıköy Silivri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3658352,41.1339455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Çeşme 2, Kadıköy Silivri

@@ -1,18 +1,17 @@
 ---
-title: "Kenchreai | Miras Haritası"
-date: 2025-12-25T04:43:09+03:00
+title: "Kenchreai"
+date: "2025-12-25T04:43:09+03:00"
 slug: "kenchreai"
 description: "## Kenchreai: Antik Yunanistan'ın Gizli İncisi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.628763,39.963522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kenchreai: Antik Yunanistan'ın Gizli İncisi

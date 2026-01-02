@@ -1,18 +1,17 @@
 ---
-title: "Hisar Camii, Honaz | Miras Haritası"
-date: 2025-12-25T00:00:33+03:00
+title: "Hisar Camii, Honaz"
+date: "2025-12-25T00:00:33+03:00"
 slug: "hisar-camii-honaz"
 description: "## Hisar Camii, Honaz: Geçmişten Günümüze Bir Örnek..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2651005,37.7532005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hisar Camii, Honaz: Geçmişten Günümüze Bir Örnek

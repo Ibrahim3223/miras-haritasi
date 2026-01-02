@@ -1,18 +1,17 @@
 ---
-title: "Murat Paşa Camii (Erzurum) | Miras Haritası"
-date: 2025-12-24T23:23:44+03:00
+title: "Murat Paşa Camii (Erzurum)"
+date: "2025-12-24T23:23:44+03:00"
 slug: "murat-pasa-camii-erzurum"
 description: "# Murat Paşa Camii (Erzurum)..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.270134,39.9043427"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Murat Paşa Camii (Erzurum)

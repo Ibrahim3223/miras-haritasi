@@ -1,18 +1,17 @@
 ---
-title: "İvaz Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:43+03:00
+title: "İvaz Paşa Türbesi"
+date: "2025-12-25T14:53:43+03:00"
 slug: "ivaz-pasa-turbesi"
 description: "## İvaz Paşa Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4222298,38.6071625"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İvaz Paşa Türbesi

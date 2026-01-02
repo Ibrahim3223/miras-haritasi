@@ -1,18 +1,17 @@
 ---
-title: "Zeynep Hanım ve Kamil Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:30:32+03:00
+title: "Zeynep Hanım ve Kamil Paşa Türbesi"
+date: "2025-12-25T14:30:32+03:00"
 slug: "zeynep-hanim-ve-kamil-pasa-turbesi"
 description: "### Zeynep Hanım ve Kamil Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.025776,41.015754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zeynep Hanım ve Kamil Paşa Türbesi

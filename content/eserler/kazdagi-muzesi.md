@@ -1,18 +1,17 @@
 ---
-title: "Kazdağı Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:37+03:00
+title: "Kazdağı Müzesi"
+date: "2025-12-25T03:49:37+03:00"
 slug: "kazdagi-muzesi"
 description: "## Kazdağı Müzesi: Edremit'in Kültür Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.8800602,39.5860252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazdağı Müzesi: Edremit'in Kültür Mirası

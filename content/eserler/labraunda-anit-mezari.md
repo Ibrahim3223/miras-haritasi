@@ -1,18 +1,17 @@
 ---
-title: "Labraunda Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:02:55+03:00
+title: "Labraunda Anıt Mezarı"
+date: "2025-12-25T14:02:55+03:00"
 slug: "labraunda-anit-mezari"
 description: "## Labraunda Anıt Mezarı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8197327,37.4197655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Labraunda Anıt Mezarı

@@ -1,18 +1,17 @@
 ---
-title: "Laodicea Combusta | Miras Haritası"
-date: 2025-12-25T04:23:39+03:00
+title: "Laodicea Combusta"
+date: "2025-12-25T04:23:39+03:00"
 slug: "laodicea-combusta"
 description: "## Laodicea Combusta: Konya'nın Gizli Mabeti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.374024,38.192186"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Laodicea Combusta: Konya'nın Gizli Mabeti

@@ -1,18 +1,17 @@
 ---
-title: "Ferruh Kethüda Camii | Miras Haritası"
-date: 2025-12-24T21:49:05+03:00
+title: "Ferruh Kethüda Camii"
+date: "2025-12-24T21:49:05+03:00"
 slug: "ferruh-kethuda-camii"
 description: "# Ferruh Kethüda Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ferruh_Kethüda_Camii3.jpg/1200px-Ferruh_Kethüda_Camii3.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.945724,41.034466"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Ferruh Kethüda Camii

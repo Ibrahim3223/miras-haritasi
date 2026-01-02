@@ -1,18 +1,17 @@
 ---
-title: "Kızılay Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:49+03:00
+title: "Kızılay Hamamı"
+date: "2025-12-25T16:25:49+03:00"
 slug: "kizilay-hamami"
 description: "### Kızılay Hamamı: Bolu'da Bir Ölümsüz..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.5992284,40.7329607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızılay Hamamı: Bolu'da Bir Ölümsüz

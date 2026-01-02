@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Teknik Üniversitesi Nadir Eserler Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:58:18+03:00
+title: "İstanbul Teknik Üniversitesi Nadir Eserler Kütüphanesi"
+date: "2025-12-25T17:58:18+03:00"
 slug: "istanbul-teknik-universitesi-nadir-eserler-kutuphanesi"
 description: "## İstanbul Teknik Üniversitesi Nadir Eserler Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Teknik Üniversitesi Nadir Eserler Kütüphanesi

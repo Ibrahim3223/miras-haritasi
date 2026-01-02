@@ -1,18 +1,17 @@
 ---
-title: "Triopium | Miras Haritası"
-date: 2025-12-25T05:01:12+03:00
+title: "Triopium"
+date: "2025-12-25T05:01:12+03:00"
 slug: "triopium"
 description: "### Triopium..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.493021,36.684805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Triopium

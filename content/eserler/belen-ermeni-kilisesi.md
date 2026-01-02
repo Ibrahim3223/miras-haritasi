@@ -1,18 +1,17 @@
 ---
-title: "Belen Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:28:34+03:00
+title: "Belen Ermeni Kilisesi"
+date: "2025-12-25T09:28:34+03:00"
 slug: "belen-ermeni-kilisesi"
 description: "### Belen Ermeni Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Belen"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.1947479,36.4921722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Belen Ermeni Kilisesi

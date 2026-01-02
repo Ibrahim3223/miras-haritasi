@@ -1,18 +1,17 @@
 ---
-title: "Fenâî Ali Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:46+03:00
+title: "Fenâî Ali Efendi Türbesi"
+date: "2025-12-25T15:00:46+03:00"
 slug: "fen-ali-efendi-turbesi"
 description: "## Fenâî Ali Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0278988,41.0177231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fenâî Ali Efendi Türbesi

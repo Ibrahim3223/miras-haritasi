@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 10 | Miras Haritası"
-date: 2025-12-25T07:14:06+03:00
+title: "Bin Tepeler Tümülüsü 10"
+date: "2025-12-25T07:14:06+03:00"
 slug: "bin-tepeler-tumulusu-10"
 description: "## Bin Tepeler Tümülüsü 10: Manisa'nın Kırmızı Kayalık Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.007805,38.556648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bin Tepeler Tümülüsü 10: Manisa'nın Kırmızı Kayalık Mirası

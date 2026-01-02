@@ -1,18 +1,17 @@
 ---
-title: "Emekyemez Camii | Miras Haritası"
-date: 2025-12-24T22:52:37+03:00
+title: "Emekyemez Camii"
+date: "2025-12-24T22:52:37+03:00"
 slug: "emekyemez-camii"
 description: "### Emekyemez Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Emekyemez_Camii.jpg/1200px-Emekyemez_Camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.971043,41.026357"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Emekyemez Camii

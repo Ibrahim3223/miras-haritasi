@@ -1,18 +1,17 @@
 ---
-title: "Beşir Ağa Sebili, Eyüp Sultan | Miras Haritası"
-date: 2025-12-25T13:04:31+03:00
+title: "Beşir Ağa Sebili, Eyüp Sultan"
+date: "2025-12-25T13:04:31+03:00"
 slug: "besir-aga-sebili-eyup-sultan"
 description: "## Beşir Ağa Sebili: İstanbul'un Göz Alımlı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9333744,41.0480881"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşir Ağa Sebili: İstanbul'un Göz Alımlı Çeşmesi

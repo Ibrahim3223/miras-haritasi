@@ -1,18 +1,17 @@
 ---
-title: "Galatasaray Lisesi Kapı Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:14:43+03:00
+title: "Galatasaray Lisesi Kapı Çeşmeleri"
+date: "2025-12-25T11:14:43+03:00"
 slug: "galatasaray-lisesi-kapi-cesmeleri"
 description: "## Galatasaray Lisesi Kapı Çeşmeleri..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kuloğlu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.977427,41.033469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Galatasaray Lisesi Kapı Çeşmeleri

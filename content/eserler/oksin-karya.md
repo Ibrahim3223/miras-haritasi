@@ -1,18 +1,17 @@
 ---
-title: "Öksin (Karya) | Miras Haritası"
-date: 2025-12-25T04:54:38+03:00
+title: "Öksin (Karya)"
+date: "2025-12-25T04:54:38+03:00"
 slug: "oksin-karya"
 description: "### Öksin (Karya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.715749,36.837326"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Öksin (Karya) Arkeolojik Sit

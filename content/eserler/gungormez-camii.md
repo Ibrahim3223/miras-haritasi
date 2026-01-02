@@ -1,18 +1,17 @@
 ---
-title: "Güngörmez Camii | Miras Haritası"
-date: 2025-12-25T00:10:20+03:00
+title: "Güngörmez Camii"
+date: "2025-12-25T00:10:20+03:00"
 slug: "gungormez-camii"
 description: "## Güngörmez Camii: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0604267,40.1834564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güngörmez Camii: Bursa'nın Gizli Cenneti

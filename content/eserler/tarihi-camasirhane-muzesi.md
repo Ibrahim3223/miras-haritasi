@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Çamaşırhane Müzesi | Miras Haritası"
-date: 2025-12-25T04:02:38+03:00
+title: "Tarihi Çamaşırhane Müzesi"
+date: "2025-12-25T04:02:38+03:00"
 slug: "tarihi-camasirhane-muzesi"
 description: "## Tarihi Çamaşırhane Müzesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.6156998,40.6011581"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Çamaşırhane Müzesi

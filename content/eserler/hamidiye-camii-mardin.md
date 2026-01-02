@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Mardin | Miras Haritası"
-date: 2025-12-24T23:56:05+03:00
+title: "Hamidiye Camii, Mardin"
+date: "2025-12-24T23:56:05+03:00"
 slug: "hamidiye-camii-mardin"
 description: "## Hamidiye Camii: Mardin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.7458763,37.3140488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Camii: Mardin'in Tarihi ve Kültürel Mirası

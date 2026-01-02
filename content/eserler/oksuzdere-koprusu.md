@@ -1,18 +1,17 @@
 ---
-title: "Öksüzdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:32+03:00
+title: "Öksüzdere Köprüsü"
+date: "2025-12-25T02:43:32+03:00"
 slug: "oksuzdere-koprusu"
 description: "### Öksüzdere Köprüsü: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.5318928,41.7490005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Öksüzdere Köprüsü: Edirne'nin Tarihi Bir Mirası

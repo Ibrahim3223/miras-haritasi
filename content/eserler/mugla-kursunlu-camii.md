@@ -1,18 +1,17 @@
 ---
-title: "Muğla Kurşunlu Camii | Miras Haritası"
-date: 2025-12-24T21:42:54+03:00
+title: "Muğla Kurşunlu Camii"
+date: "2025-12-24T21:42:54+03:00"
 slug: "mugla-kursunlu-camii"
 description: "## Muğla Kurşunlu Camii: Türkiye'nin Önemli Camilerinden Birini Tanıyalım..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Muğla_30.JPG/1200px-Muğla_30.JPG"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Muğla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.364722222,37.216666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Muğla Kurşunlu Camii: Türkiye'nin Önemli Camilerinden Birini Tanıyalım

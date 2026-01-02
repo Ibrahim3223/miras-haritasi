@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Baba Kabri, Zeynepkamil | Miras Haritası"
-date: 2025-12-25T13:33:57+03:00
+title: "Hüseyin Baba Kabri, Zeynepkamil"
+date: "2025-12-25T13:33:57+03:00"
 slug: "huseyin-baba-kabri-zeynepkamil"
 description: "## Hüseyin Baba Kabri, Zeynepkamil: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.021183,41.0172768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Baba Kabri, Zeynepkamil: İstanbul'un Gizli Mirası

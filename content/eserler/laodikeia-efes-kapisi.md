@@ -1,18 +1,17 @@
 ---
-title: "Laodikeia Efes Kapısı | Miras Haritası"
-date: 2025-12-25T13:17:52+03:00
+title: "Laodikeia Efes Kapısı"
+date: "2025-12-25T13:17:52+03:00"
 slug: "laodikeia-efes-kapisi"
 description: "## Laodikeia Efes Kapısı: Tarih ve Mimarisi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1018276,37.8378601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Laodikeia Efes Kapısı: Tarih ve Mimarisi

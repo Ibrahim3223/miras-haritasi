@@ -1,18 +1,17 @@
 ---
-title: "Kuruçay Köy Müzesi | Miras Haritası"
-date: 2025-12-25T03:39:15+03:00
+title: "Kuruçay Köy Müzesi"
+date: "2025-12-25T03:39:15+03:00"
 slug: "kurucay-koy-muzesi"
 description: "### Kuruçay Köy Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.959964461,40.36755323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuruçay Köy Müzesi

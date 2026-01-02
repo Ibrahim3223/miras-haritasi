@@ -1,18 +1,17 @@
 ---
-title: "Kalanuro Tepesi | Miras Haritası"
-date: 2025-12-25T07:03:36+03:00
+title: "Kalanuro Tepesi"
+date: "2025-12-25T07:03:36+03:00"
 slug: "kalanuro-tepesi"
 description: "**Kalanoro Tepesi: Çanakkale'nin Gizli Arkeolojik Harikası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6292,40.367567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kalanoro Tepesi: Çanakkale'nin Gizli Arkeolojik Harikası**

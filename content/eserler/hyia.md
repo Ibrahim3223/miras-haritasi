@@ -1,18 +1,17 @@
 ---
-title: "Hyia | Miras Haritası"
-date: 2025-12-25T05:09:01+03:00
+title: "Hyia"
+date: "2025-12-25T05:09:01+03:00"
 slug: "hyia"
 description: "# Hyia Arkeolojik Sit..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.561826,37.415414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hyia Arkeolojik Sit

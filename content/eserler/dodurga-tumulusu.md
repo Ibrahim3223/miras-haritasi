@@ -1,18 +1,17 @@
 ---
-title: "Dodurga Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:18:07+03:00
+title: "Dodurga Tümülüsü"
+date: "2025-12-25T07:18:07+03:00"
 slug: "dodurga-tumulusu"
 description: "# Dodurga Tümülüsü..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9135723,39.8032227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dodurga Tümülüsü

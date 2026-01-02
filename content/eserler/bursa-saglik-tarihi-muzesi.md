@@ -1,18 +1,17 @@
 ---
-title: "Bursa Sağlık Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:07+03:00
+title: "Bursa Sağlık Tarihi Müzesi"
+date: "2025-12-25T03:51:07+03:00"
 slug: "bursa-saglik-tarihi-muzesi"
 description: "## Bursa Sağlık Tarihi Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.056221,40.1826477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bursa Sağlık Tarihi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Annelerimize ve Kadınlarımıza Saygı ve Şükran Anıtı | Miras Haritası"
-date: 2025-12-25T15:55:15+03:00
+title: "Annelerimize ve Kadınlarımıza Saygı ve Şükran Anıtı"
+date: "2025-12-25T15:55:15+03:00"
 slug: "annelerimize-ve-kadinlarimiza-saygi-ve-sukran-aniti"
 description: "## Annelerimize ve Kadınlarımıza Saygı ve Şükran Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.511868292,39.780358005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Annelerimize ve Kadınlarımıza Saygı ve Şükran Anıtı

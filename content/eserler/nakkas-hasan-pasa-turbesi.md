@@ -1,18 +1,17 @@
 ---
-title: "Nakkaş Hasan Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:41+03:00
+title: "Nakkaş Hasan Paşa Türbesi"
+date: "2025-12-25T14:38:41+03:00"
 slug: "nakkas-hasan-pasa-turbesi"
 description: "## Nakkaş Hasan Paşa Türbesi: Eyüpsultan'daki Tarihî Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.935236,41.045087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nakkaş Hasan Paşa Türbesi: Eyüpsultan'daki Tarihî Bir Anıt

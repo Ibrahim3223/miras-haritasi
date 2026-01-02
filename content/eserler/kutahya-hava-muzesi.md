@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Hava Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:10+03:00
+title: "Kütahya Hava Müzesi"
+date: "2025-12-25T03:58:10+03:00"
 slug: "kutahya-hava-muzesi"
 description: "## Kütahya Hava Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.0201893,39.4125862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kütahya Hava Müzesi

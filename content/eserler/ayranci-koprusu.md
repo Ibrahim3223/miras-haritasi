@@ -1,18 +1,17 @@
 ---
-title: "Ayrancı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:25+03:00
+title: "Ayrancı Köprüsü"
+date: "2025-12-25T02:26:25+03:00"
 slug: "ayranci-koprusu"
 description: "# Ayrancı Köprüsü..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ayrancı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.699573,37.36465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ayrancı Köprüsü

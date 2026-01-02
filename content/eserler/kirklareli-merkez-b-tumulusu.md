@@ -1,18 +1,17 @@
 ---
-title: "Kırklareli Merkez B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:48:23+03:00
+title: "Kırklareli Merkez B Tümülüsü"
+date: "2025-12-25T07:48:23+03:00"
 slug: "kirklareli-merkez-b-tumulusu"
 description: "## Kırklareli Merkez B Tümülüsü: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.228653,41.7177696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırklareli Merkez B Tümülüsü: Tarih ve Kültür Mirası

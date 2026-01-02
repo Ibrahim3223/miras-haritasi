@@ -1,18 +1,17 @@
 ---
-title: "Tilafşın Höyük | Miras Haritası"
-date: 2025-12-25T06:32:27+03:00
+title: "Tilafşın Höyük"
+date: "2025-12-25T06:32:27+03:00"
 slug: "tilafsin-hoyuk"
 description: "# Tilafşın Höyük..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9235579,38.1885065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tilafşın Höyük

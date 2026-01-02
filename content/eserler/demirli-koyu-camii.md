@@ -1,18 +1,17 @@
 ---
-title: "Demirli Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:34:08+03:00
+title: "Demirli Köyü Camii"
+date: "2025-12-24T22:34:08+03:00"
 slug: "demirli-koyu-camii"
 description: "## Demirli Köyü Camii: Eflani'de Bir Geçmişi Yaşatan Mimari Harika..."
 featured_image: ""
 province: "Eflani"
-iller: ["Eflani"]
+iller: '["Eflani"]'
 district: "Demirli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.0575485,41.3516884"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirli Köyü Camii: Eflani'de Bir Geçmişi Yaşatan Mimari Harika

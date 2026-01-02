@@ -1,18 +1,17 @@
 ---
-title: "Malazgirt Kalesi | Miras Haritası"
-date: 2025-12-25T01:48:30+03:00
+title: "Malazgirt Kalesi"
+date: "2025-12-25T01:48:30+03:00"
 slug: "malazgirt-kalesi"
 description: "## Malazgirt Kalesi..."
 featured_image: ""
 province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
+iller: '["Bitlis Vilayeti"]'
 district: "Malazgirt"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.544903546,39.146787293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malazgirt Kalesi

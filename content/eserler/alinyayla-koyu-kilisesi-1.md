@@ -1,18 +1,17 @@
 ---
-title: "Alınyayla Köyü Kilisesi 1 | Miras Haritası"
-date: 2025-12-25T09:15:22+03:00
+title: "Alınyayla Köyü Kilisesi 1"
+date: "2025-12-25T09:15:22+03:00"
 slug: "alinyayla-koyu-kilisesi-1"
 description: "### Alınyayla Köyü Kilisesi 1: Görsel Bir Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.106283,40.531881"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alınyayla Köyü Kilisesi 1: Görsel Bir Miras

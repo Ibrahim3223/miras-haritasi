@@ -1,18 +1,17 @@
 ---
-title: "Demir Kapı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:53+03:00
+title: "Demir Kapı Kilisesi"
+date: "2025-12-25T09:22:53+03:00"
 slug: "demir-kapi-kilisesi"
 description: "## Demir Kapı Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0418816,40.188446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demir Kapı Kilisesi

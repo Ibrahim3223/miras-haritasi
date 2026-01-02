@@ -1,18 +1,17 @@
 ---
-title: "Tuzcupınarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:30:06+03:00
+title: "Tuzcupınarı Çeşmesi"
+date: "2025-12-25T11:30:06+03:00"
 slug: "tuzcupinari-cesmesi"
 description: "## Tuzcupınarı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tuzcupınarı_Çeşmesi.jpg/1200px-Tuzcupınarı_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6985168,41.2468796"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tuzcupınarı Çeşmesi

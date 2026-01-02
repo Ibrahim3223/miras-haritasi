@@ -1,18 +1,17 @@
 ---
-title: "Kuretler Caddesi (Embolos) | Miras Haritası"
-date: 2025-12-25T08:17:47+03:00
+title: "Kuretler Caddesi (Embolos)"
+date: "2025-12-25T08:17:47+03:00"
 slug: "kuretler-caddesi-embolos"
 description: "**Kuretler Caddesi (Embolos)**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Looking_down_the_Street_of_Curetes_(16314212482).jpg/1200px-Looking_down_the_Street_of_Curetes_(16314212482).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.342608858,37.937807016"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Kuretler Caddesi (Embolos)**

@@ -1,18 +1,17 @@
 ---
-title: "Kemeraltı Camii | Miras Haritası"
-date: 2025-12-24T22:00:36+03:00
+title: "Kemeraltı Camii"
+date: "2025-12-24T22:00:36+03:00"
 slug: "kemeralti-camii"
 description: "## Kemeraltı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/İzmir_Kemeraltı_Camii_(21792214462).jpg/1200px-İzmir_Kemeraltı_Camii_(21792214462).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.131777777,38.418555555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kemeraltı Camii

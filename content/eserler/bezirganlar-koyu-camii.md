@@ -1,18 +1,17 @@
 ---
-title: "Bezirganlar Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:14:53+03:00
+title: "Bezirganlar Köyü Camii"
+date: "2025-12-25T00:14:53+03:00"
 slug: "bezirganlar-koyu-camii"
 description: "# Bezirganlar Köyü Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7213993,39.909626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bezirganlar Köyü Camii

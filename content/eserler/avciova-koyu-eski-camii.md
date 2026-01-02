@@ -1,18 +1,17 @@
 ---
-title: "Avcıova Köyü Eski Camii | Miras Haritası"
-date: 2025-12-25T00:37:45+03:00
+title: "Avcıova Köyü Eski Camii"
+date: "2025-12-25T00:37:45+03:00"
 slug: "avciova-koyu-eski-camii"
 description: "## Avcıova Köyü Eski Camii: Çubuk'ta Bir Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.022131055,40.439819825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avcıova Köyü Eski Camii: Çubuk'ta Bir Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Erzurumi Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:37+03:00
+title: "Şeyh Erzurumi Türbesi"
+date: "2025-12-25T14:42:37+03:00"
 slug: "seyh-erzurumi-turbesi"
 description: "## Şeyh Erzurumi Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0220566,39.7351532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Erzurumi Türbesi

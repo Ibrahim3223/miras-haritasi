@@ -1,18 +1,17 @@
 ---
-title: "Neccarzade Mustafa Rıza Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:01:50+03:00
+title: "Neccarzade Mustafa Rıza Efendi Türbesi"
+date: "2025-12-25T15:01:50+03:00"
 slug: "neccarzade-mustafa-riza-efendi-turbesi"
 description: "## Neccarzade Mustafa Rıza Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0063095,41.0426369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neccarzade Mustafa Rıza Efendi Türbesi

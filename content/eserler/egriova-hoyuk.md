@@ -1,18 +1,17 @@
 ---
-title: "Eğriova Höyük | Miras Haritası"
-date: 2025-12-25T05:27:23+03:00
+title: "Eğriova Höyük"
+date: "2025-12-25T05:27:23+03:00"
 slug: "egriova-hoyuk"
 description: "## Eğriova Höyük: Seyitgazi'nin Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.690129,39.307469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eğriova Höyük: Seyitgazi'nin Gizli Cenneti

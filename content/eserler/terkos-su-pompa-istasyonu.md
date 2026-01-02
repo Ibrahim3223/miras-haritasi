@@ -1,18 +1,17 @@
 ---
-title: "Terkos Su Pompa İstasyonu | Miras Haritası"
-date: 2025-12-25T03:40:17+03:00
+title: "Terkos Su Pompa İstasyonu"
+date: "2025-12-25T03:40:17+03:00"
 slug: "terkos-su-pompa-istasyonu"
 description: "## Terkos Su Pompa İstasyonu: İstanbul'un Gizli Çarpıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Arnavutköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.6733265,41.3008041"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terkos Su Pompa İstasyonu: İstanbul'un Gizli Çarpıntısı

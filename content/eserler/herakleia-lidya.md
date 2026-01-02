@@ -1,18 +1,17 @@
 ---
-title: "Herakleia (Lidya) | Miras Haritası"
-date: 2025-12-25T04:35:25+03:00
+title: "Herakleia (Lidya)"
+date: "2025-12-25T04:35:25+03:00"
 slug: "herakleia-lidya"
 description: "## Herakleia (Lidya): Bir Antik Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1693,38.6149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Herakleia (Lidya): Bir Antik Kentin Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sadrazam Silahtar Kara Vezir Hamamı | Miras Haritası"
-date: 2025-12-25T16:27:08+03:00
+title: "Sadrazam Silahtar Kara Vezir Hamamı"
+date: "2025-12-25T16:27:08+03:00"
 slug: "sadrazam-silahtar-kara-vezir-hamami"
 description: "## Sadrazam Silahtar Kara Vezir Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Gülşehir"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.6169392,38.7415023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sadrazam Silahtar Kara Vezir Hamamı: Tarihi ve Kültürel Miras

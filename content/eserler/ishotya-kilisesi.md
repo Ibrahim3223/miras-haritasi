@@ -1,18 +1,17 @@
 ---
-title: "İshotya Kilisesi | Miras Haritası"
-date: 2025-12-25T09:11:28+03:00
+title: "İshotya Kilisesi"
+date: "2025-12-25T09:11:28+03:00"
 slug: "ishotya-kilisesi"
 description: "## İshotya Kilisesi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.547094,37.756714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İshotya Kilisesi

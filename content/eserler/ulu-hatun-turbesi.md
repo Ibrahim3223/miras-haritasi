@@ -1,18 +1,17 @@
 ---
-title: "Ulu Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:23+03:00
+title: "Ulu Hatun Türbesi"
+date: "2025-12-25T14:21:23+03:00"
 slug: "ulu-hatun-turbesi"
 description: "## Ulu Hatun Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.490886,38.725179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulu Hatun Türbesi

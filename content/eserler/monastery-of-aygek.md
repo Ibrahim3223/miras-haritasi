@@ -1,18 +1,17 @@
 ---
-title: "monastery of Aygek | Miras Haritası"
-date: 2025-12-25T09:50:39+03:00
+title: "monastery of Aygek"
+date: "2025-12-25T09:50:39+03:00"
 slug: "monastery-of-aygek"
 description: "**Ayğek Manastırı: Kahramanmaraş'ta Bir Tarihî Çanak**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kahramanmaraş"
+province: "Kahramanmaraş"
+iller: '["Kahramanmaraş"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayğek Manastırı: Kahramanmaraş'ta Bir Tarihî Çanak**

@@ -1,18 +1,17 @@
 ---
-title: "Halil Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:30:46+03:00
+title: "Halil Efendi Camii"
+date: "2025-12-24T23:30:46+03:00"
 slug: "halil-efendi-camii"
 description: "## Halil Efendi Camii: Tokat'ın Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9624062,40.5906563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Efendi Camii: Tokat'ın Tarihî Bir Mirası

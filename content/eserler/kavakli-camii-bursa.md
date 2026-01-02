@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Camii, Bursa | Miras Haritası"
-date: 2025-12-25T00:29:50+03:00
+title: "Kavaklı Camii, Bursa"
+date: "2025-12-25T00:29:50+03:00"
 slug: "kavakli-camii-bursa"
 description: "### Kavaklı Camii: Bursa'da Bir Önemli Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/KAVAKLI_CAMİİ_BURSA_-_panoramio_(2).jpg/1200px-KAVAKLI_CAMİİ_BURSA_-_panoramio_(2).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0572987,40.1841965"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kavaklı Camii: Bursa'da Bir Önemli Cami

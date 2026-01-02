@@ -1,18 +1,17 @@
 ---
-title: "Dombey Hamamı | Miras Haritası"
-date: 2025-12-25T16:52:39+03:00
+title: "Dombey Hamamı"
+date: "2025-12-25T16:52:39+03:00"
 slug: "dombey-hamami"
 description: "## Dombey Hamamı: Çivril'de Bir Tarihî Miras..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.848774,38.3216972"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dombey Hamamı: Çivril'de Bir Tarihî Miras

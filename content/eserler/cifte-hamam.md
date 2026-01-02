@@ -1,18 +1,17 @@
 ---
-title: "Çifte Hamam | Miras Haritası"
-date: 2025-12-25T16:30:19+03:00
+title: "Çifte Hamam"
+date: "2025-12-25T16:30:19+03:00"
 slug: "cifte-hamam"
 description: "## Çifte Hamam: Kastamonu'nın Tarihi Harikası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.7735211,41.3757624"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çifte Hamam: Kastamonu'nın Tarihi Harikası

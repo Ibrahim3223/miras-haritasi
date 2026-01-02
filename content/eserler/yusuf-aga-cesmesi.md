@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:19+03:00
+title: "Yusuf Ağa Çeşmesi"
+date: "2025-12-25T10:54:19+03:00"
 slug: "yusuf-aga-cesmesi"
 description: "## Yusuf Ağa Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5113049,40.9798279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuf Ağa Çeşmesi

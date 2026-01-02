@@ -1,18 +1,17 @@
 ---
-title: "Hamzaşeyh Kalesi | Miras Haritası"
-date: 2025-12-25T06:24:09+03:00
+title: "Hamzaşeyh Kalesi"
+date: "2025-12-25T06:24:09+03:00"
 slug: "hamzaseyh-kalesi"
 description: "## Hamzaşeyh Kalesi: Sivas'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Yıldızeli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8319735,39.8986254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamzaşeyh Kalesi: Sivas'ın Gizli Zirvesi

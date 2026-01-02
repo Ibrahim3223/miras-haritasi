@@ -1,18 +1,17 @@
 ---
-title: "Arkhangelos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:28:42+03:00
+title: "Arkhangelos Kilisesi"
+date: "2025-12-25T09:28:42+03:00"
 slug: "arkhangelos-kilisesi"
 description: "## Arkhangelos Kilisesi: Sinop'un Gizli Cenneti..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Ayancık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.5803223,41.9467964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arkhangelos Kilisesi: Sinop'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Diyarbakır Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:54+03:00
+title: "Diyarbakır Arkeoloji Müzesi"
+date: "2025-12-25T03:14:54+03:00"
 slug: "diyarbakir-arkeoloji-muzesi"
 description: "## Diyarbakır Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Diyarbakır_İçkale_Archaeological_exhibits_in_2024_0253.jpg/1200px-Diyarbakır_İçkale_Archaeological_exhibits_in_2024_0253.jpg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.242611281,37.915507822"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Diyarbakır Arkeoloji Müzesi

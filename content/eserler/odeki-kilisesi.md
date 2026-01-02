@@ -1,18 +1,17 @@
 ---
-title: "Odeki Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:55+03:00
+title: "Odeki Kilisesi"
+date: "2025-12-25T09:03:55+03:00"
 slug: "odeki-kilisesi"
 description: "### Odeki Kilisesi: Tortum'un Gizli Cenneti..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: ["Tortum ilçesi"]
+iller: '["Tortum ilçesi"]'
 district: "Aşağı Serdarlı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.358194444,40.504083333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Odeki Kilisesi: Tortum'un Gizli Cenneti

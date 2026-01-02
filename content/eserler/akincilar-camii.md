@@ -1,18 +1,17 @@
 ---
-title: "Akıncılar Camii | Miras Haritası"
-date: 2025-12-24T22:57:41+03:00
+title: "Akıncılar Camii"
+date: "2025-12-24T22:57:41+03:00"
 slug: "akincilar-camii"
 description: "## Akıncılar Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3699856,37.950592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akıncılar Camii

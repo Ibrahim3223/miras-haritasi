@@ -1,18 +1,17 @@
 ---
-title: "Bezmialem Valide Sultan Çeşmesi, Beşiktaş | Miras Haritası"
-date: 2025-12-25T12:27:34+03:00
+title: "Bezmialem Valide Sultan Çeşmesi, Beşiktaş"
+date: "2025-12-25T12:27:34+03:00"
 slug: "bezmialem-valide-sultan-cesmesi-besiktas"
 description: "### Bezmialem Valide Sultan Çeşmesi, Beşiktaş..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.006280877,41.041851501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bezmialem Valide Sultan Çeşmesi, Beşiktaş

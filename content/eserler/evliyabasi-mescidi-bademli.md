@@ -1,18 +1,17 @@
 ---
-title: "Evliyabaşı Mescidi, Bademli | Miras Haritası"
-date: 2025-12-25T00:43:20+03:00
+title: "Evliyabaşı Mescidi, Bademli"
+date: "2025-12-25T00:43:20+03:00"
 slug: "evliyabasi-mescidi-bademli"
 description: "## Evliyabaşı Mescidi: Ödemiş'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0608997,38.0848007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evliyabaşı Mescidi: Ödemiş'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Gazezler Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:57+03:00
+title: "Gazezler Çeşmesi"
+date: "2025-12-25T11:37:57+03:00"
 slug: "gazezler-cesmesi"
 description: "### Gazezler Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4958725,37.8661385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazezler Çeşmesi

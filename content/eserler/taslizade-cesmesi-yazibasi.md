@@ -1,18 +1,17 @@
 ---
-title: "Taşlızade Çeşmesi, Yazıbaşı | Miras Haritası"
-date: 2025-12-25T12:00:53+03:00
+title: "Taşlızade Çeşmesi, Yazıbaşı"
+date: "2025-12-25T12:00:53+03:00"
 slug: "taslizade-cesmesi-yazibasi"
 description: "### Taşlızade Çeşmesi, Yazıbaşı: İzmir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3206367,38.2387619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taşlızade Çeşmesi, Yazıbaşı: İzmir'in Tarihi Bir Çeşmesi

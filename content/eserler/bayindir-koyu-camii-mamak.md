@@ -1,18 +1,17 @@
 ---
-title: "Bayındır Köyü Camii, Mamak | Miras Haritası"
-date: 2025-12-25T00:38:46+03:00
+title: "Bayındır Köyü Camii, Mamak"
+date: "2025-12-25T00:38:46+03:00"
 slug: "bayindir-koyu-camii-mamak"
 description: "# Bayındır Köyü Camii, Mamak..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.02141152,39.894718319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bayındır Köyü Camii, Mamak

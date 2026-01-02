@@ -1,18 +1,17 @@
 ---
-title: "Yedi Oluklu Çeşme | Miras Haritası"
-date: 2025-12-25T10:18:46+03:00
+title: "Yedi Oluklu Çeşme"
+date: "2025-12-25T10:18:46+03:00"
 slug: "yedi-oluklu-cesme"
 description: "### Yedi Oluklu Çeşme'nin Öyküsü..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ermenek"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8903732,36.6414948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yedi Oluklu Çeşme'nin Öyküsü

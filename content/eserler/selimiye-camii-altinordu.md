@@ -1,18 +1,17 @@
 ---
-title: "Selimiye Camii, Altınordu | Miras Haritası"
-date: 2025-12-24T23:56:30+03:00
+title: "Selimiye Camii, Altınordu"
+date: "2025-12-24T23:56:30+03:00"
 slug: "selimiye-camii-altinordu"
 description: "## Selimiye Camii: Altınordu'nun Büyüleyici Camii..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.8755,40.981708"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Selimiye Camii: Altınordu'nun Büyüleyici Camii

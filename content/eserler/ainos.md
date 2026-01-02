@@ -1,18 +1,17 @@
 ---
-title: "Ainos | Miras Haritası"
-date: 2025-12-25T04:39:17+03:00
+title: "Ainos"
+date: "2025-12-25T04:39:17+03:00"
 slug: "ainos"
 description: "### Ainos: Enez'in Tarihî Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Enez"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.08046,40.7242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ainos: Enez'in Tarihî Mirası

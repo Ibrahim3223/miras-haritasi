@@ -1,18 +1,17 @@
 ---
-title: "Soğucak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:25:56+03:00
+title: "Soğucak Çeşmesi"
+date: "2025-12-25T10:25:56+03:00"
 slug: "sogucak-cesmesi"
 description: "## Soğucak Çeşmesi: Kuşadası'nın Tarihî Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2988949,37.7825356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğucak Çeşmesi: Kuşadası'nın Tarihî Cenneti

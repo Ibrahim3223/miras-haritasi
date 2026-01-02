@@ -1,18 +1,17 @@
 ---
-title: "Ali Ağa Çeşmesi, Silivrikapı | Miras Haritası"
-date: 2025-12-25T12:14:40+03:00
+title: "Ali Ağa Çeşmesi, Silivrikapı"
+date: "2025-12-25T12:14:40+03:00"
 slug: "ali-aga-cesmesi-silivrikapi"
 description: "## Ali Ağa Çeşmesi, Silivrikapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.926678,41.005156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Ağa Çeşmesi, Silivrikapı

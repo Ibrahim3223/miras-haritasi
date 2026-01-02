@@ -1,18 +1,17 @@
 ---
-title: "Kaya Çelebi Camii | Miras Haritası"
-date: 2025-12-24T23:43:22+03:00
+title: "Kaya Çelebi Camii"
+date: "2025-12-24T23:43:22+03:00"
 slug: "kaya-celebi-camii"
 description: "## Kaya Çelebi Camii: İpek Yolu'nun Gizli Çehresi..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "İpekyolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.3407745,38.4977608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaya Çelebi Camii: İpek Yolu'nun Gizli Çehresi

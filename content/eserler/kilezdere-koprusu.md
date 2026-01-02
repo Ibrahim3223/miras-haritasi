@@ -1,18 +1,17 @@
 ---
-title: "Kilezdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:52:48+03:00
+title: "Kilezdere Köprüsü"
+date: "2025-12-25T02:52:48+03:00"
 slug: "kilezdere-koprusu"
 description: "## Kilezdere Köprüsü..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Başiskele"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.960989,40.758911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilezdere Köprüsü

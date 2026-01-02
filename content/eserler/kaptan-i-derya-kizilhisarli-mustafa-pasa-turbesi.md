@@ -1,18 +1,17 @@
 ---
-title: "Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:46+03:00
+title: "Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi"
+date: "2025-12-25T15:32:46+03:00"
 slug: "kaptan-i-derya-kizilhisarli-mustafa-pasa-turbesi"
 description: "## Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4223,37.0331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Ceretapa | Miras Haritası"
-date: 2025-12-25T04:44:33+03:00
+title: "Ceretapa"
+date: "2025-12-25T04:44:33+03:00"
 slug: "ceretapa"
 description: "## Ceretapa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.926031,37.493664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ceretapa Arkeolojik Sit

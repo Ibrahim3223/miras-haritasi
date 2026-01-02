@@ -1,18 +1,17 @@
 ---
-title: "Siyami ve Benli Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:38+03:00
+title: "Siyami ve Benli Bey Türbesi"
+date: "2025-12-25T15:03:38+03:00"
 slug: "siyami-ve-benli-bey-turbesi"
 description: "## Siyami ve Benli Bey Türbesi: Muğla'nın İhtişamlı Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.1338501,37.2927094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siyami ve Benli Bey Türbesi: Muğla'nın İhtişamlı Anıtı

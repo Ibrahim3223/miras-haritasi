@@ -1,18 +1,17 @@
 ---
-title: "Abdi Kaptan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:38:31+03:00
+title: "Abdi Kaptan Çeşmesi"
+date: "2025-12-25T10:38:31+03:00"
 slug: "abdi-kaptan-cesmesi"
 description: "### Abdi Kaptan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.966027777,41.03725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdi Kaptan Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Şagora Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:48+03:00
+title: "Şagora Kilisesi"
+date: "2025-12-25T09:03:48+03:00"
 slug: "sagora-kilisesi"
 description: "# Şagora Kilisesi..."
 featured_image: ""
-province: "Ardanuç"
-iller: ["Ardanuç"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Ardanuç"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.954055555,41.110361111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şagora Kilisesi

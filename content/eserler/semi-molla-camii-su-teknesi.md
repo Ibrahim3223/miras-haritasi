@@ -1,18 +1,17 @@
 ---
-title: "Şem’i Molla Camii Su Teknesi | Miras Haritası"
-date: 2025-12-25T12:56:29+03:00
+title: "Şem’i Molla Camii Su Teknesi"
+date: "2025-12-25T12:56:29+03:00"
 slug: "semi-molla-camii-su-teknesi"
 description: "## Şem'i Molla Camii Su Teknesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9462738,41.0082741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şem'i Molla Camii Su Teknesi

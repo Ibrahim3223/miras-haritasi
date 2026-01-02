@@ -1,18 +1,17 @@
 ---
-title: "Daver Baba ve Şehitler Kabri | Miras Haritası"
-date: 2025-12-25T13:26:48+03:00
+title: "Daver Baba ve Şehitler Kabri"
+date: "2025-12-25T13:26:48+03:00"
 slug: "daver-baba-ve-sehitler-kabri"
 description: "## Daver Baba ve Şehitler Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1453285,40.96241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daver Baba ve Şehitler Kabri

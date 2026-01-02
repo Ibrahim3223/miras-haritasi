@@ -1,18 +1,17 @@
 ---
-title: "Batheos Rhyakos Soteros Manastırı (Tirilye) | Miras Haritası"
-date: 2025-12-25T08:48:23+03:00
+title: "Batheos Rhyakos Soteros Manastırı (Tirilye)"
+date: "2025-12-25T08:48:23+03:00"
 slug: "batheos-rhyakos-soteros-manastiri-tirilye"
 description: "## Batheos Rhyakos Soteros Manastırı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.8,40.383333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Batheos Rhyakos Soteros Manastırı

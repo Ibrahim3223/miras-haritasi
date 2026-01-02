@@ -1,18 +1,17 @@
 ---
-title: "Samikale Kalesi | Miras Haritası"
-date: 2025-12-25T01:35:35+03:00
+title: "Samikale Kalesi"
+date: "2025-12-25T01:35:35+03:00"
 slug: "samikale-kalesi"
 description: "## Samikale Kalesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Narman"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.884775,40.376857"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samikale Kalesi

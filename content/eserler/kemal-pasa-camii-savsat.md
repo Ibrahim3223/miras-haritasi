@@ -1,18 +1,17 @@
 ---
-title: "Kemal Paşa Camii, Şavşat | Miras Haritası"
-date: 2025-12-25T00:26:41+03:00
+title: "Kemal Paşa Camii, Şavşat"
+date: "2025-12-25T00:26:41+03:00"
 slug: "kemal-pasa-camii-savsat"
 description: "## Kemal Paşa Camii, Şavşat..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.3601341,41.2522545"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemal Paşa Camii, Şavşat

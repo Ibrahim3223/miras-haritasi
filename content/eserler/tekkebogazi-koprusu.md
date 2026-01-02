@@ -1,18 +1,17 @@
 ---
-title: "Tekkeboğazı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:36+03:00
+title: "Tekkeboğazı Köprüsü"
+date: "2025-12-25T02:11:36+03:00"
 slug: "tekkebogazi-koprusu"
 description: "### Tekkeboğazı Köprüsü: Bergama'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.1755829,39.1320229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tekkeboğazı Köprüsü: Bergama'nın Tarihi Bir Mirası

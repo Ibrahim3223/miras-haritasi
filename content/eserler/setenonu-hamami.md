@@ -1,18 +1,17 @@
 ---
-title: "Setenönü Hamamı | Miras Haritası"
-date: 2025-12-25T16:43:12+03:00
+title: "Setenönü Hamamı"
+date: "2025-12-25T16:43:12+03:00"
 slug: "setenonu-hamami"
 description: "## Setenönü Hamamı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.484745,38.7160301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Setenönü Hamamı

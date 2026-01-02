@@ -1,18 +1,17 @@
 ---
-title: "Bakraç Höyüğü | Miras Haritası"
-date: 2025-12-25T14:02:00+03:00
+title: "Bakraç Höyüğü"
+date: "2025-12-25T14:02:00+03:00"
 slug: "bakrac-hoyugu"
 description: "## Bakraç Höyüğü: Kahramanmaraş'ın Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kahramanmaraş"
+province: "Kahramanmaraş"
+iller: '["Kahramanmaraş"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.9550359,38.2942143"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakraç Höyüğü: Kahramanmaraş'ın Gizemi

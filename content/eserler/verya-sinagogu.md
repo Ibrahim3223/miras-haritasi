@@ -1,18 +1,17 @@
 ---
-title: "Verya Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:40+03:00
+title: "Verya Sinagogu"
+date: "2025-12-25T16:13:40+03:00"
 slug: "verya-sinagogu"
 description: "## Verya Sinagogu: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.945722222,41.033388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Verya Sinagogu: İstanbul'un Gizli Cenneti

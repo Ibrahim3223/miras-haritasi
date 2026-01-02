@@ -1,18 +1,17 @@
 ---
-title: "Surp Haç Ermeni Kilisesi Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T11:57:49+03:00
+title: "Surp Haç Ermeni Kilisesi Çeşmesi, Üsküdar"
+date: "2025-12-25T11:57:49+03:00"
 slug: "surp-hac-ermeni-kilisesi-cesmesi-uskudar"
 description: "# Surp Haç Ermeni Kilisesi Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0302048,41.0246124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Surp Haç Ermeni Kilisesi Çeşmesi, Üsküdar

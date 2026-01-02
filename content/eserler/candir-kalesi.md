@@ -1,18 +1,17 @@
 ---
-title: "Çandır Kalesi | Miras Haritası"
-date: 2025-12-25T01:48:23+03:00
+title: "Çandır Kalesi"
+date: "2025-12-25T01:48:23+03:00"
 slug: "candir-kalesi"
 description: "## Çandır Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Çandır_castle,_Mersin_Province,_Turkey.jpg/1200px-Çandır_castle,_Mersin_Province,_Turkey.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.6149155,37.0193979"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çandır Kalesi

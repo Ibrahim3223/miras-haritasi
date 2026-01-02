@@ -1,18 +1,17 @@
 ---
-title: "Hasan Ağa Çeşmesi, Kadıköy | Miras Haritası"
-date: 2025-12-25T11:47:20+03:00
+title: "Hasan Ağa Çeşmesi, Kadıköy"
+date: "2025-12-25T11:47:20+03:00"
 slug: "hasan-aga-cesmesi-kadikoy"
 description: "## Hasan Ağa Çeşmesi: Kadıköy'deki Bir Örnek Osmanlı Mimarisinden..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Zühtüpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0401974,40.9842834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Ağa Çeşmesi: Kadıköy'deki Bir Örnek Osmanlı Mimarisinden

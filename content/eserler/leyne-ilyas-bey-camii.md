@@ -1,18 +1,17 @@
 ---
-title: "Leyne İlyas Bey Camii | Miras Haritası"
-date: 2025-12-24T22:08:12+03:00
+title: "Leyne İlyas Bey Camii"
+date: "2025-12-24T22:08:12+03:00"
 slug: "leyne-ilyas-bey-camii"
 description: "## Leyne İlyas Bey Camii..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0301151,37.3725891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Leyne İlyas Bey Camii

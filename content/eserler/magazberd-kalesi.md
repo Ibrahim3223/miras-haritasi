@@ -1,18 +1,17 @@
 ---
-title: "Mağazberd Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:22+03:00
+title: "Mağazberd Kalesi"
+date: "2025-12-25T01:23:22+03:00"
 slug: "magazberd-kalesi"
 description: "### Mağazberd Kalesi: Kars'ın Göçer Kalesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Digor"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.5413437,40.4752159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mağazberd Kalesi: Kars'ın Göçer Kalesi

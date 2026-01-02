@@ -1,18 +1,17 @@
 ---
-title: "Isinda (Pisidya) | Miras Haritası"
-date: 2025-12-25T04:27:12+03:00
+title: "Isinda (Pisidya)"
+date: "2025-12-25T04:27:12+03:00"
 slug: "isinda-pisidya"
 description: "## Isinda (Pisidya): Tarihi ve Kültürel Mirasın Gizli Çehresi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.1619,37.0675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Isinda (Pisidya): Tarihi ve Kültürel Mirasın Gizli Çehresi

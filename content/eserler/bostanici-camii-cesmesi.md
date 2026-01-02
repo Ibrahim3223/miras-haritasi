@@ -1,18 +1,17 @@
 ---
-title: "Bostaniçi Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:54+03:00
+title: "Bostaniçi Camii Çeşmesi"
+date: "2025-12-25T11:02:54+03:00"
 slug: "bostanici-camii-cesmesi"
 description: "## Bostaniçi Camii Çeşmesi: Beyoğlu'nun Gizli Çeşmesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Tomtom"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9791584,41.0290222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bostaniçi Camii Çeşmesi: Beyoğlu'nun Gizli Çeşmesi

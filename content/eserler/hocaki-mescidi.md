@@ -1,18 +1,17 @@
 ---
-title: "Hocaki Mescidi | Miras Haritası"
-date: 2025-12-25T00:06:14+03:00
+title: "Hocaki Mescidi"
+date: "2025-12-25T00:06:14+03:00"
 slug: "hocaki-mescidi"
 description: "### Hocaki Mescidi: Edirne'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5554638,41.6786385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hocaki Mescidi: Edirne'nin Gizli Çeşmesi

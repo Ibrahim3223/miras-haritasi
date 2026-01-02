@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Doğanyurt | Miras Haritası"
-date: 2025-12-25T12:27:14+03:00
+title: "Çeşme, Doğanyurt"
+date: "2025-12-25T12:27:14+03:00"
 slug: "cesme-doganyurt"
 description: "## Çeşme, Doğanyurt: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.979324499,37.596706256"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Doğanyurt: Aydın'ın Tarihi ve Kültürel Mirası

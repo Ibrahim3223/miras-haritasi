@@ -1,18 +1,17 @@
 ---
-title: "Enderun Hamamı | Miras Haritası"
-date: 2025-12-25T17:00:39+03:00
+title: "Enderun Hamamı"
+date: "2025-12-25T17:00:39+03:00"
 slug: "enderun-hamami"
 description: "## Enderun Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9851112,41.0126801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Enderun Hamamı

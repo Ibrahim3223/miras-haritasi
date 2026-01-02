@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Hıdırbeyli | Miras Haritası"
-date: 2025-12-25T12:00:45+03:00
+title: "Çeşme, Hıdırbeyli"
+date: "2025-12-25T12:00:45+03:00"
 slug: "cesme-hidirbeyli"
 description: "## Çeşme, Hıdırbeyli: Germencik'teki Bir Tarih Öreni..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5887127,37.8914909"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Hıdırbeyli: Germencik'teki Bir Tarih Öreni

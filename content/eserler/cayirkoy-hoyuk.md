@@ -1,18 +1,17 @@
 ---
-title: "Çayırköy Höyük | Miras Haritası"
-date: 2025-12-25T05:26:43+03:00
+title: "Çayırköy Höyük"
+date: "2025-12-25T05:26:43+03:00"
 slug: "cayirkoy-hoyuk"
 description: "## Çayırköy Höyük: Bursa'nın Gizli Hazinesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Nilüfer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.91225,40.210483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayırköy Höyük: Bursa'nın Gizli Hazinesi

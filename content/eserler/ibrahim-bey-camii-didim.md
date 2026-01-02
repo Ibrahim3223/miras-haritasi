@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Bey Camii, Didim | Miras Haritası"
-date: 2025-12-25T00:01:29+03:00
+title: "İbrahim Bey Camii, Didim"
+date: "2025-12-25T00:01:29+03:00"
 slug: "ibrahim-bey-camii-didim"
 description: "## İbrahim Bey Camii: Didim'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2785492,37.5293312"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Bey Camii: Didim'in Tarihî Bir Mirası

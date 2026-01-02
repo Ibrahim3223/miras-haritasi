@@ -1,18 +1,17 @@
 ---
-title: "Ardzvaper Manastırı | Miras Haritası"
-date: 2025-12-25T09:57:53+03:00
+title: "Ardzvaper Manastırı"
+date: "2025-12-25T09:57:53+03:00"
 slug: "ardzvaper-manastiri"
 description: "## Ardzvaper Manastırı: Erciş'in Gizli Hazinesi..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Erciş"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.434536,39.048233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ardzvaper Manastırı: Erciş'in Gizli Hazinesi

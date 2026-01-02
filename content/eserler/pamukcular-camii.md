@@ -1,18 +1,17 @@
 ---
-title: "Pamukçular Camii | Miras Haritası"
-date: 2025-12-25T00:21:31+03:00
+title: "Pamukçular Camii"
+date: "2025-12-25T00:21:31+03:00"
 slug: "pamukcular-camii"
 description: "## Pamukçular Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.835035,40.787996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pamukçular Camii

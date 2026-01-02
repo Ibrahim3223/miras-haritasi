@@ -1,18 +1,17 @@
 ---
-title: "Büyükada Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:04+03:00
+title: "Büyükada Saat Kulesi"
+date: "2025-12-25T17:17:04+03:00"
 slug: "buyukada-saat-kulesi"
 description: "## Büyükada Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IstanbulPrinceIslandSq.jpg/1200px-IstanbulPrinceIslandSq.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükada"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "29.128583333,40.874111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Büyükada Saat Kulesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayazini Metropolisi'ndeki mezarlar | Miras Haritası"
-date: 2025-12-25T13:24:42+03:00
+title: "Ayazini Metropolisi'ndeki mezarlar"
+date: "2025-12-25T13:24:42+03:00"
 slug: "ayazini-metropolisindeki-mezarlar"
 description: "## Ayazini Metropolisi'ndeki Mezarlar: Afyonkarahisar'ın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ayazini_Medusa_Relief_Tomb,_2017_1.jpg/1200px-Ayazini_Medusa_Relief_Tomb,_2017_1.jpg"
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.568284765,39.011843301"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayazini Metropolisi'ndeki Mezarlar: Afyonkarahisar'ın Gizli Anıtı

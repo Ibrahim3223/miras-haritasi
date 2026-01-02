@@ -1,18 +1,17 @@
 ---
-title: "Mardin Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:37+03:00
+title: "Mardin Saat Kulesi"
+date: "2025-12-25T17:19:37+03:00"
 slug: "mardin-saat-kulesi"
 description: "# Mardin Saat Kulesi: Türk İslam Mimarisinin Göz Alıcı Örneği..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Mardin"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "40.717055555,37.32525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mardin Saat Kulesi: Türk İslam Mimarisinin Göz Alıcı Örneği

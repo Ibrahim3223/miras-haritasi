@@ -1,18 +1,17 @@
 ---
-title: "Kocayatak Camii | Miras Haritası"
-date: 2025-12-25T00:16:02+03:00
+title: "Kocayatak Camii"
+date: "2025-12-25T00:16:02+03:00"
 slug: "kocayatak-camii"
 description: "### Kocayatak Camii: Serik'in Gölgeli Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.958646,36.909557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kocayatak Camii: Serik'in Gölgeli Camii

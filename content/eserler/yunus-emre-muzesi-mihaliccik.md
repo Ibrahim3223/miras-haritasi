@@ -1,18 +1,17 @@
 ---
-title: "Yunus Emre Müzesi, Mihalıçcık | Miras Haritası"
-date: 2025-12-25T03:58:59+03:00
+title: "Yunus Emre Müzesi, Mihalıçcık"
+date: "2025-12-25T03:58:59+03:00"
 slug: "yunus-emre-muzesi-mihaliccik"
 description: "## Yunus Emre Müzesi, Mihalıçcık..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Mihalıççık"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.486459,39.710971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yunus Emre Müzesi, Mihalıçcık

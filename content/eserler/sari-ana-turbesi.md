@@ -1,18 +1,17 @@
 ---
-title: "Sarı Ana Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:42+03:00
+title: "Sarı Ana Türbesi"
+date: "2025-12-25T14:23:42+03:00"
 slug: "sari-ana-turbesi"
 description: "### Sarı Ana Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.277629,36.858939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarı Ana Türbesi

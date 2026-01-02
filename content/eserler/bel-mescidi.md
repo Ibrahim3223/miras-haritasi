@@ -1,18 +1,17 @@
 ---
-title: "Bel Mescidi | Miras Haritası"
-date: 2025-12-24T22:23:20+03:00
+title: "Bel Mescidi"
+date: "2025-12-24T22:23:20+03:00"
 slug: "bel-mescidi"
 description: "## Bel Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5428982,38.7502174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bel Mescidi

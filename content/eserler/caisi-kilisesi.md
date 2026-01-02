@@ -1,18 +1,17 @@
 ---
-title: "Çaisi Kilisesi | Miras Haritası"
-date: 2025-12-25T08:55:22+03:00
+title: "Çaisi Kilisesi"
+date: "2025-12-25T08:55:22+03:00"
 slug: "caisi-kilisesi"
 description: "### Çaisi Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Çıldır"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.135916666,41.207055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çaisi Kilisesi

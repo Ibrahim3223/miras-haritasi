@@ -1,18 +1,17 @@
 ---
-title: "Kurtuluş Camii | Miras Haritası"
-date: 2025-12-24T21:54:21+03:00
+title: "Kurtuluş Camii"
+date: "2025-12-24T21:54:21+03:00"
 slug: "kurtulus-camii"
 description: "## Kurtuluş Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gaziantep_Kurtuluş_Mosque_in_2007_0423.jpg/1200px-Gaziantep_Kurtuluş_Mosque_in_2007_0423.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.375694444,37.060305555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kurtuluş Camii

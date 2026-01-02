@@ -1,18 +1,17 @@
 ---
-title: "Karayusuf Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:18:58+03:00
+title: "Karayusuf Tümülüsü"
+date: "2025-12-25T07:18:58+03:00"
 slug: "karayusuf-tumulusu"
 description: "## Karayusuf Tümülüsü: Edirne'nin Gizli Şövalyesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.70257,41.7155342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karayusuf Tümülüsü: Edirne'nin Gizli Şövalyesi

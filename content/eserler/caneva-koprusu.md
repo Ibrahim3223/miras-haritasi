@@ -1,18 +1,17 @@
 ---
-title: "Çaneva Köprüsü | Miras Haritası"
-date: 2025-12-25T02:01:32+03:00
+title: "Çaneva Köprüsü"
+date: "2025-12-25T02:01:32+03:00"
 slug: "caneva-koprusu"
 description: "## Çaneva Köprüsü: Hemşin'in Tarihî Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Hemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9029338,41.0402693"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaneva Köprüsü: Hemşin'in Tarihî Mirası

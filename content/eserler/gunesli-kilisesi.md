@@ -1,18 +1,17 @@
 ---
-title: "Güneşli Kilisesi | Miras Haritası"
-date: 2025-12-25T09:30:06+03:00
+title: "Güneşli Kilisesi"
+date: "2025-12-25T09:30:06+03:00"
 slug: "gunesli-kilisesi"
 description: "### Güneşli Kilisesi: Kayseri'nin Eski Kenti Kocasinan'da Gizli Bir Miras..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.6192513,38.8970604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güneşli Kilisesi: Kayseri'nin Eski Kenti Kocasinan'da Gizli Bir Miras

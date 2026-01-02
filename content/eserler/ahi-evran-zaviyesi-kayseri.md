@@ -1,18 +1,17 @@
 ---
-title: "Ahi Evran Zaviyesi, Kayseri | Miras Haritası"
-date: 2025-12-25T04:04:45+03:00
+title: "Ahi Evran Zaviyesi, Kayseri"
+date: "2025-12-25T04:04:45+03:00"
 slug: "ahi-evran-zaviyesi-kayseri"
 description: "## Ahi Evran Zaviyesi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.4947929,38.7150345"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Evran Zaviyesi: Kayseri'nin Tarihi ve Kültürel Mirası

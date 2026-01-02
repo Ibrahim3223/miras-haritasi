@@ -1,18 +1,17 @@
 ---
-title: "Büyük Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:33:43+03:00
+title: "Büyük Paşa Hamamı"
+date: "2025-12-25T16:33:43+03:00"
 slug: "buyuk-pasa-hamami"
 description: "## Büyük Paşa Hamamı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.3826645,37.0648934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Paşa Hamamı

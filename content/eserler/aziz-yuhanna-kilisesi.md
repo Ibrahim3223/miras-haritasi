@@ -1,18 +1,17 @@
 ---
-title: "Aziz Yuhanna Kilisesi | Miras Haritası"
-date: 2025-12-25T08:41:16+03:00
+title: "Aziz Yuhanna Kilisesi"
+date: "2025-12-25T08:41:16+03:00"
 slug: "aziz-yuhanna-kilisesi"
 description: "### Aziz Yuhanna Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TR_Izmir_asv2020-02_img24_StJohn_the_Evangelist_Church.jpg/1200px-TR_Izmir_asv2020-02_img24_StJohn_the_Evangelist_Church.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.147277777,38.437055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Aziz Yuhanna Kilisesi

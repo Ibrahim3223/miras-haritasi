@@ -1,18 +1,17 @@
 ---
-title: "Kisthene | Miras Haritası"
-date: 2025-12-25T04:30:06+03:00
+title: "Kisthene"
+date: "2025-12-25T04:30:06+03:00"
 slug: "kisthene"
 description: "# Kisthene: Balıkesir'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gömeç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.813175,39.393183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kisthene: Balıkesir'in Gizli Cenneti

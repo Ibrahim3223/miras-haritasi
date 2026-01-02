@@ -1,18 +1,17 @@
 ---
-title: "Yarhisar Camii | Miras Haritası"
-date: 2025-12-24T22:57:13+03:00
+title: "Yarhisar Camii"
+date: "2025-12-24T22:57:13+03:00"
 slug: "yarhisar-camii"
 description: "## Yarhisar Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.952485,41.022351"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarhisar Camii

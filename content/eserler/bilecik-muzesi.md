@@ -1,18 +1,17 @@
 ---
-title: "Bilecik Müzesi | Miras Haritası"
-date: 2025-12-25T03:17:54+03:00
+title: "Bilecik Müzesi"
+date: "2025-12-25T03:17:54+03:00"
 slug: "bilecik-muzesi"
 description: "## Bilecik Müzesi: Bir Tarihî Kentin Kültürel Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.981944444,40.143611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bilecik Müzesi: Bir Tarihî Kentin Kültürel Mirası

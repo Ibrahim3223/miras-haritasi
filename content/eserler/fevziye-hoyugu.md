@@ -1,18 +1,17 @@
 ---
-title: "Fevziye Höyüğü | Miras Haritası"
-date: 2025-12-25T06:26:46+03:00
+title: "Fevziye Höyüğü"
+date: "2025-12-25T06:26:46+03:00"
 slug: "fevziye-hoyugu"
 description: "## Fevziye Höyüğü: Konya'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.1499887,39.0106236"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fevziye Höyüğü: Konya'nın Gizli Ören Yeri

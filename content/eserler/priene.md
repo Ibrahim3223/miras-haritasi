@@ -1,18 +1,17 @@
 ---
-title: "Priene | Miras Haritası"
-date: 2025-12-25T06:33:34+03:00
+title: "Priene"
+date: "2025-12-25T06:33:34+03:00"
 slug: "priene"
 description: "### Priene: Aydın'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Temple_of_Athena_at_Priene.jpg/1200px-Temple_of_Athena_at_Priene.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.297778,37.659722"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Priene: Aydın'ın Tarihî Mirası

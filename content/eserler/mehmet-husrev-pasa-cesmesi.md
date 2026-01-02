@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Hüsrev Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:23+03:00
+title: "Mehmet Hüsrev Paşa Çeşmesi"
+date: "2025-12-25T11:06:23+03:00"
 slug: "mehmet-husrev-pasa-cesmesi"
 description: "# Mehmet Hüsrev Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mehmet_Hüsrev_Paşa_Çeşmesi_IMG_1120.jpg/1200px-Mehmet_Hüsrev_Paşa_Çeşmesi_IMG_1120.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.949331,41.045557"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Mehmet Hüsrev Paşa Çeşmesi

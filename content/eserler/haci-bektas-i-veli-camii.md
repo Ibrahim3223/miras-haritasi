@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bektaş-ı Veli Camii | Miras Haritası"
-date: 2025-12-24T23:25:41+03:00
+title: "Hacı Bektaş-ı Veli Camii"
+date: "2025-12-24T23:25:41+03:00"
 slug: "haci-bektas-i-veli-camii"
 description: "### Hacı Bektaş-ı Veli Camii: Tarihî ve Kültürel Özellikleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Nevşehir"
+province: "Nevşehir"
+iller: '["Nevşehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.5624199,38.9426651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Bektaş-ı Veli Camii: Tarihî ve Kültürel Özellikleri

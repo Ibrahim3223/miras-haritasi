@@ -1,18 +1,17 @@
 ---
-title: "Cahidi Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:12:01+03:00
+title: "Cahidi Sultan Türbesi"
+date: "2025-12-25T14:12:01+03:00"
 slug: "cahidi-sultan-turbesi"
 description: "### Cahidi Sultan Türbesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3768,40.1476"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cahidi Sultan Türbesi

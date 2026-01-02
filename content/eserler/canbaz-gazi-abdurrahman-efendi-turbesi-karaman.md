@@ -1,18 +1,17 @@
 ---
-title: "Canbaz Gazi Abdurrahman Efendi Türbesi Karaman | Miras Haritası"
-date: 2025-12-25T15:09:40+03:00
+title: "Canbaz Gazi Abdurrahman Efendi Türbesi Karaman"
+date: "2025-12-25T15:09:40+03:00"
 slug: "canbaz-gazi-abdurrahman-efendi-turbesi-karaman"
 description: "## Canbaz Gazi Abdurrahman Efendi Türbesi Karaman..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.2170968,37.18253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canbaz Gazi Abdurrahman Efendi Türbesi Karaman

@@ -1,18 +1,17 @@
 ---
-title: "Behram Çavuş Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:09:07+03:00
+title: "Behram Çavuş Camii Çeşmesi"
+date: "2025-12-25T11:09:07+03:00"
 slug: "behram-cavus-camii-cesmesi"
 description: "## Behram Çavuş Camii Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Şehsuvar Bey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.96667,41.004354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Behram Çavuş Camii Çeşmesi

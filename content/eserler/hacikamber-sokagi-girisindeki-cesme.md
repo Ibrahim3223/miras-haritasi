@@ -1,18 +1,17 @@
 ---
-title: "Hacıkamber Sokağı Girişindeki Çeşme | Miras Haritası"
-date: 2025-12-25T11:35:48+03:00
+title: "Hacıkamber Sokağı Girişindeki Çeşme"
+date: "2025-12-25T11:35:48+03:00"
 slug: "hacikamber-sokagi-girisindeki-cesme"
 description: "## Hacıkamber Sokağı Girişindeki Çeşme..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4214821,37.9295502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıkamber Sokağı Girişindeki Çeşme

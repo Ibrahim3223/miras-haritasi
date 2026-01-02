@@ -1,18 +1,17 @@
 ---
-title: "Divitçizâde Şeyh Mehmet Tâlib Efendi Camii | Miras Haritası"
-date: 2025-12-25T00:44:37+03:00
+title: "Divitçizâde Şeyh Mehmet Tâlib Efendi Camii"
+date: "2025-12-25T00:44:37+03:00"
 slug: "divitcizde-seyh-mehmet-tlib-efendi-camii"
 description: "## Divitçizâde Şeyh Mehmet Tâlib Efendi Camii: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.016431897,41.021350044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Divitçizâde Şeyh Mehmet Tâlib Efendi Camii: Üsküdar'ın Gizli Çeşmesi

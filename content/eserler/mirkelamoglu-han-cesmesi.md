@@ -1,18 +1,17 @@
 ---
-title: "Mirkelamoğlu Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:54:15+03:00
+title: "Mirkelamoğlu Han Çeşmesi"
+date: "2025-12-25T12:54:15+03:00"
 slug: "mirkelamoglu-han-cesmesi"
 description: "## Mirkelamoğlu Han Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1340313,38.4221268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mirkelamoğlu Han Çeşmesi

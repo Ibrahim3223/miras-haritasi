@@ -1,18 +1,17 @@
 ---
-title: "Belgradkapı Camii | Miras Haritası"
-date: 2025-12-24T22:46:05+03:00
+title: "Belgradkapı Camii"
+date: "2025-12-24T22:46:05+03:00"
 slug: "belgradkapi-camii"
 description: "## Belgradkapı Camii: İstanbul'un Farklı Bir Cepheden Tarihini Anlamak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20220419_Belgradkapı_Camii_2.jpg/1200px-20220419_Belgradkapı_Camii_2.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.918066196,41.000476242"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Belgradkapı Camii: İstanbul'un Farklı Bir Cepheden Tarihini Anlamak

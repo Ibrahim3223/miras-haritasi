@@ -1,18 +1,17 @@
 ---
-title: "Darphane-i Amire Kapısı, Sur-i Sultani | Miras Haritası"
-date: 2025-12-25T15:36:54+03:00
+title: "Darphane-i Amire Kapısı, Sur-i Sultani"
+date: "2025-12-25T15:36:54+03:00"
 slug: "darphane-i-amire-kapisi-sur-i-sultani"
 description: "## Darphane-i Amire Kapısı, Sur-i Sultani..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9800339,41.0096703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darphane-i Amire Kapısı, Sur-i Sultani

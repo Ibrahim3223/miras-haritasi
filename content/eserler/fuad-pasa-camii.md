@@ -1,18 +1,17 @@
 ---
-title: "Fuad Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:45:00+03:00
+title: "Fuad Paşa Camii"
+date: "2025-12-24T22:45:00+03:00"
 slug: "fuad-pasa-camii"
 description: "# Fuad Paşa Camii: Binbirdirek'te Gizli Bir Cennet..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2013-01-02_Istanbul_238.jpg/1200px-2013-01-02_Istanbul_238.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Binbirdirek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.973027777,41.006555555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Fuad Paşa Camii: Binbirdirek'te Gizli Bir Cennet

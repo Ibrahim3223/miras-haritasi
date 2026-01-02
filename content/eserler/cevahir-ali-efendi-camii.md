@@ -1,18 +1,17 @@
 ---
-title: "Cevahir Ali Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:27:37+03:00
+title: "Cevahir Ali Efendi Camii"
+date: "2025-12-24T22:27:37+03:00"
 slug: "cevahir-ali-efendi-camii"
 description: "**Yozgat'ın Tarihî Mirası: Cevahir Ali Efendi Camii**..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8031845,39.8240128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yozgat'ın Tarihî Mirası: Cevahir Ali Efendi Camii**

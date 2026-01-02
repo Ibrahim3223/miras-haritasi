@@ -1,18 +1,17 @@
 ---
-title: "Kumkale Şehitliği | Miras Haritası"
-date: 2025-12-25T15:58:35+03:00
+title: "Kumkale Şehitliği"
+date: "2025-12-25T15:58:35+03:00"
 slug: "kumkale-sehitligi"
 description: "**Kumkale Şehitliği**..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2511177,39.9920158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kumkale Şehitliği**

@@ -1,18 +1,17 @@
 ---
-title: "Eski Camii | Miras Haritası"
-date: 2025-12-24T21:50:06+03:00
+title: "Eski Camii"
+date: "2025-12-24T21:50:06+03:00"
 slug: "eski-camii"
 description: "## Eski Camii: Edirne'nin Tarihî Bir Zenginliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eski_Cami_hdr.jpg/1200px-Eski_Cami_hdr.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.555704,41.676712"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eski Camii: Edirne'nin Tarihî Bir Zenginliği

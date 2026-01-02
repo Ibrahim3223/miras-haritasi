@@ -1,18 +1,17 @@
 ---
-title: "Şehit Hava Pilot Üsteğmen Cenk Yeşilpınar Yaya Üst Geçidi | Miras Haritası"
-date: 2025-12-25T01:55:05+03:00
+title: "Şehit Hava Pilot Üsteğmen Cenk Yeşilpınar Yaya Üst Geçidi"
+date: "2025-12-25T01:55:05+03:00"
 slug: "sehit-hava-pilot-ustegmen-cenk-yesilpinar-yaya-ust-gecidi"
 description: "## Şehit Hava Pilot Üsteğmen Cenk Yeşilpınar Yaya Üst Geçidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Izmir_Pier_Köprü_5890.jpg/1200px-Izmir_Pier_Köprü_5890.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.1305,38.421944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehit Hava Pilot Üsteğmen Cenk Yeşilpınar Yaya Üst Geçidi

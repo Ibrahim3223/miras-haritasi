@@ -1,18 +1,17 @@
 ---
-title: "Aziz Dimitrios Kilisesi | Miras Haritası"
-date: 2025-12-25T09:28:26+03:00
+title: "Aziz Dimitrios Kilisesi"
+date: "2025-12-25T09:28:26+03:00"
 slug: "aziz-dimitrios-kilisesi"
 description: "## Aziz Dimitrios Kilisesi: Erdek'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.6905365,40.4739723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Dimitrios Kilisesi: Erdek'in Tarihi Bir Mirası

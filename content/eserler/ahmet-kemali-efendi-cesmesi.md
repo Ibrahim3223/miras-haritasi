@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Kemali Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:07:10+03:00
+title: "Ahmet Kemali Efendi Çeşmesi"
+date: "2025-12-25T10:07:10+03:00"
 slug: "ahmet-kemali-efendi-cesmesi"
 description: "**Ahmet Kemali Efendi Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SARIYER_AHMET_KEMALİ_EFENDİ_ÇEŞMESİ.jpg/1200px-SARIYER_AHMET_KEMALİ_EFENDİ_ÇEŞMESİ.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.058386019,41.168972076"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ahmet Kemali Efendi Çeşmesi**

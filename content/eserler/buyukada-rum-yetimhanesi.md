@@ -1,18 +1,17 @@
 ---
-title: "Büyükada Rum Yetimhanesi | Miras Haritası"
-date: 2025-12-25T13:39:42+03:00
+title: "Büyükada Rum Yetimhanesi"
+date: "2025-12-25T13:39:42+03:00"
 slug: "buyukada-rum-yetimhanesi"
 description: "## Büyükada Rum Yetimhanesi: İstanbul'un Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Prinkipo_Greek_Orthodox_Orphanage_building_from_under_the_hill,_2024.jpg/1200px-Prinkipo_Greek_Orthodox_Orphanage_building_from_under_the_hill,_2024.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükada"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.12333333,40.86083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Büyükada Rum Yetimhanesi: İstanbul'un Gizli Anıtı

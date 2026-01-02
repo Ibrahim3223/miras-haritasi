@@ -1,18 +1,17 @@
 ---
-title: "Kasım Çelebi Camii, Seferihisar | Miras Haritası"
-date: 2025-12-25T00:31:24+03:00
+title: "Kasım Çelebi Camii, Seferihisar"
+date: "2025-12-25T00:31:24+03:00"
 slug: "kasim-celebi-camii-seferihisar"
 description: "### Kasım Çelebi Camii: Seferihisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8160229,38.2425804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kasım Çelebi Camii: Seferihisar'ın Tarihi Bir Mirası

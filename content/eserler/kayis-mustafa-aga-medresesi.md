@@ -1,18 +1,17 @@
 ---
-title: "Kayış Mustafa Ağa Medresesi | Miras Haritası"
-date: 2025-12-25T17:42:52+03:00
+title: "Kayış Mustafa Ağa Medresesi"
+date: "2025-12-25T17:42:52+03:00"
 slug: "kayis-mustafa-aga-medresesi"
 description: "# Kayış Mustafa Ağa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9774857,41.0131989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kayış Mustafa Ağa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

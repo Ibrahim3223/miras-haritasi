@@ -1,18 +1,17 @@
 ---
-title: "Artuklu Hamamı | Miras Haritası"
-date: 2025-12-25T16:31:34+03:00
+title: "Artuklu Hamamı"
+date: "2025-12-25T16:31:34+03:00"
 slug: "artuklu-hamami"
 description: "## Artuklu Hamamı: Hasankeyf'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Hasankeyf"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "41.4082435,37.7145554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Artuklu Hamamı: Hasankeyf'in Tarihî Bir Mirası

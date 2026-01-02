@@ -1,18 +1,17 @@
 ---
-title: "Andriake C Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:48+03:00
+title: "Andriake C Kilisesi"
+date: "2025-12-25T09:35:48+03:00"
 slug: "andriake-c-kilisesi"
 description: "## Andriake C Kilisesi: Demre'nin Gizli Çehresini Görüntülemek..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.9528294,36.2250481"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andriake C Kilisesi: Demre'nin Gizli Çehresini Görüntülemek

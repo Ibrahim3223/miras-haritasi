@@ -1,18 +1,17 @@
 ---
-title: "Elazığ Meryem Ana Kilisesi | Miras Haritası"
-date: 2025-12-25T08:55:33+03:00
+title: "Elazığ Meryem Ana Kilisesi"
+date: "2025-12-25T08:55:33+03:00"
 slug: "elazig-meryem-ana-kilisesi"
 description: "## Elazığ Meryem Ana Kilisesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.2585008,38.7034661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elazığ Meryem Ana Kilisesi

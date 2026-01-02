@@ -1,18 +1,17 @@
 ---
-title: "Arpalı Höyükleri | Miras Haritası"
-date: 2025-12-25T05:51:26+03:00
+title: "Arpalı Höyükleri"
+date: "2025-12-25T05:51:26+03:00"
 slug: "arpali-hoyukleri"
 description: "## Arpalı Höyükleri: Manisa'nın Gizli İnsanlık Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.702333,38.7605"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arpalı Höyükleri: Manisa'nın Gizli İnsanlık Mirası

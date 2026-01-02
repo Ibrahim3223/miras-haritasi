@@ -1,18 +1,17 @@
 ---
-title: "Incebucak Höyük | Miras Haritası"
-date: 2025-12-25T06:27:42+03:00
+title: "Incebucak Höyük"
+date: "2025-12-25T06:27:42+03:00"
 slug: "incebucak-hoyuk"
 description: "## Incebucak Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Kozaklı ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.7240238,39.291929"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Incebucak Höyük: Tarihî Mirasın Gizemi

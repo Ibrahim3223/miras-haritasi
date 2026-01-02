@@ -1,18 +1,17 @@
 ---
-title: "Pir Esad Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:12+03:00
+title: "Pir Esad Sultan Türbesi"
+date: "2025-12-25T14:49:12+03:00"
 slug: "pir-esad-sultan-turbesi"
 description: "## Pir Esad Sultan Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5046806,37.8649597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pir Esad Sultan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Gümrük Hamamı | Miras Haritası"
-date: 2025-12-25T16:45:43+03:00
+title: "Gümrük Hamamı"
+date: "2025-12-25T16:45:43+03:00"
 slug: "gumruk-hamami"
 description: "### Gümrük Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "41.2803879,39.9129295"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümrük Hamamı

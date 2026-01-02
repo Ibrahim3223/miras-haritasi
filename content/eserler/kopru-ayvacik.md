@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Ayvacık | Miras Haritası"
-date: 2025-12-25T03:01:53+03:00
+title: "Köprü, Ayvacık"
+date: "2025-12-25T03:01:53+03:00"
 slug: "kopru-ayvacik"
 description: "## Köprü, Ayvacık..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.4423885,39.5965881"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprü, Ayvacık

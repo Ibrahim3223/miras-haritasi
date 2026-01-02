@@ -1,18 +1,17 @@
 ---
-title: "Şah Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:23+03:00
+title: "Şah Çeşmesi"
+date: "2025-12-25T11:19:23+03:00"
 slug: "sah-cesmesi"
 description: "## Şah Çeşmesi: İstanbul'un Sanki Zamanı Durmuş Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.001621,41.062538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şah Çeşmesi: İstanbul'un Sanki Zamanı Durmuş Bir Çeşmesi

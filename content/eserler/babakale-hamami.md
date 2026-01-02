@@ -1,18 +1,17 @@
 ---
-title: "Babakale Hamamı | Miras Haritası"
-date: 2025-12-25T16:41:27+03:00
+title: "Babakale Hamamı"
+date: "2025-12-25T16:41:27+03:00"
 slug: "babakale-hamami"
 description: "## Babakale Hamamı Tanıtımı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.0659008,39.4789009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Babakale Hamamı Tanıtımı

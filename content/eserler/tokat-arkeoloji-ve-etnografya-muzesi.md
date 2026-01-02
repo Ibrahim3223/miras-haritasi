@@ -1,18 +1,17 @@
 ---
-title: "Tokat Arkeoloji ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:38+03:00
+title: "Tokat Arkeoloji ve Etnografya Müzesi"
+date: "2025-12-25T03:52:38+03:00"
 slug: "tokat-arkeoloji-ve-etnografya-muzesi"
 description: "## Tokat Arkeoloji ve Etnografya Müzesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.886521,40.300298"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tokat Arkeoloji ve Etnografya Müzesi

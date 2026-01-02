@@ -1,18 +1,17 @@
 ---
-title: "Tuvağın Tömeği Höyük 1 | Miras Haritası"
-date: 2025-12-25T06:18:30+03:00
+title: "Tuvağın Tömeği Höyük 1"
+date: "2025-12-25T06:18:30+03:00"
 slug: "tuvagin-tomegi-hoyuk-1"
 description: "**Tuvağın Tömeği Höyük 1**..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9080733,38.3953402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tuvağın Tömeği Höyük 1**

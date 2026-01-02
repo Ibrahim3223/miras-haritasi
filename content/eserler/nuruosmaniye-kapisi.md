@@ -1,18 +1,17 @@
 ---
-title: "Nuruosmaniye Kapısı | Miras Haritası"
-date: 2025-12-25T15:39:28+03:00
+title: "Nuruosmaniye Kapısı"
+date: "2025-12-25T15:39:28+03:00"
 slug: "nuruosmaniye-kapisi"
 description: "## Nuruosmaniye Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.969902,41.010086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nuruosmaniye Kapısı

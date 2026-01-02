@@ -1,18 +1,17 @@
 ---
-title: "Bouleuterion (Assos) | Miras Haritası"
-date: 2025-12-25T08:35:31+03:00
+title: "Bouleuterion (Assos)"
+date: "2025-12-25T08:35:31+03:00"
 slug: "bouleuterion-assos"
 description: "## Bouleuterion (Assos)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Assos_bouleuterion_from_SW_(1991).jpg/1200px-Assos_bouleuterion_from_SW_(1991).jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "26.337777777,39.489166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bouleuterion (Assos)

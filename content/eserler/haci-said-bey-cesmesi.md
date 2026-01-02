@@ -1,18 +1,17 @@
 ---
-title: "Hacı Said Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:05+03:00
+title: "Hacı Said Bey Çeşmesi"
+date: "2025-12-25T10:53:05+03:00"
 slug: "haci-said-bey-cesmesi"
 description: "## Hacı Said Bey Çeşmesi: Tekirdağ'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5125084,40.9758492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Said Bey Çeşmesi: Tekirdağ'ın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Çikolata Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:22+03:00
+title: "Çikolata Müzesi"
+date: "2025-12-25T04:06:22+03:00"
 slug: "cikolata-muzesi"
 description: "## Çikolata Müzesi: Tatlı Geçegenliğin Eşiği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.663707526,41.05908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çikolata Müzesi: Tatlı Geçegenliğin Eşiği

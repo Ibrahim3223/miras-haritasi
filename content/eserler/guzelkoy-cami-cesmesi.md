@@ -1,18 +1,17 @@
 ---
-title: "Güzelköy Cami Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:08+03:00
+title: "Güzelköy Cami Çeşmesi"
+date: "2025-12-25T10:56:08+03:00"
 slug: "guzelkoy-cami-cesmesi"
 description: "## Güzelköy Cami Çeşmesi: Şarköy'de Bir İhtişamlı Çeşme..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.29175,40.7414169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzelköy Cami Çeşmesi: Şarköy'de Bir İhtişamlı Çeşme

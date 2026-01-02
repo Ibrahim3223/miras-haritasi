@@ -1,18 +1,17 @@
 ---
-title: "Aigeai | Miras Haritası"
-date: 2025-12-25T08:31:51+03:00
+title: "Aigeai"
+date: "2025-12-25T08:31:51+03:00"
 slug: "aigeai"
 description: "## Aigeai: Adana Yumurtalık'taki Örenkaya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Yumurtalık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.796867,36.768944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aigeai: Adana Yumurtalık'taki Örenkaya'nın Gizli Kahramanı

@@ -1,18 +1,17 @@
 ---
-title: "Ani Surp Stephanos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:28:50+03:00
+title: "Ani Surp Stephanos Kilisesi"
+date: "2025-12-25T09:28:50+03:00"
 slug: "ani-surp-stephanos-kilisesi"
 description: "## Ani Surp Stephanos Kilisesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.5708122,40.5105057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ani Surp Stephanos Kilisesi

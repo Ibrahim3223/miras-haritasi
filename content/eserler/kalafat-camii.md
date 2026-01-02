@@ -1,18 +1,17 @@
 ---
-title: "Kalafat Camii | Miras Haritası"
-date: 2025-12-24T23:39:32+03:00
+title: "Kalafat Camii"
+date: "2025-12-24T23:39:32+03:00"
 slug: "kalafat-camii"
 description: "## Kalafat Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.13554,38.413311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalafat Camii: İzmir'in Tarihi ve Kültürel Mirası

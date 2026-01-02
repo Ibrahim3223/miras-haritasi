@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kasım Sarı Camii | Miras Haritası"
-date: 2025-12-24T23:28:45+03:00
+title: "Hacı Kasım Sarı Camii"
+date: "2025-12-24T23:28:45+03:00"
 slug: "haci-kasim-sari-camii"
 description: "## Hacı Kasım Sarı Camii: Niğde'nin Yüzyıllık Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.5641594,37.8956337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kasım Sarı Camii: Niğde'nin Yüzyıllık Tarihi ve Kültürel Mirası

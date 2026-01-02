@@ -1,18 +1,17 @@
 ---
-title: "Papani Mescidi | Miras Haritası"
-date: 2025-12-25T00:49:45+03:00
+title: "Papani Mescidi"
+date: "2025-12-25T00:49:45+03:00"
 slug: "papani-mescidi"
 description: "### Papani Mescidi: Ankara'nın Eski Şehir Merkezi'nde Tarihi Bir Miras..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.857621656,39.940333442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Papani Mescidi: Ankara'nın Eski Şehir Merkezi'nde Tarihi Bir Miras

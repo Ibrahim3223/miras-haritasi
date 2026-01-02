@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Gençali | Miras Haritası"
-date: 2025-12-25T02:56:17+03:00
+title: "Roma Köprüsü, Gençali"
+date: "2025-12-25T02:56:17+03:00"
 slug: "roma-koprusu-gencali"
 description: "## Roma Köprüsü, Gençali..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.433662,36.704121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Gençali

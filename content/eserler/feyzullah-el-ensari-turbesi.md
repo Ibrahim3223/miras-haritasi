@@ -1,18 +1,17 @@
 ---
-title: "Feyzullah el Ensari Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:37+03:00
+title: "Feyzullah el Ensari Türbesi"
+date: "2025-12-25T15:17:37+03:00"
 slug: "feyzullah-el-ensari-turbesi"
 description: "## Feyzullah el Ensari Türbesi..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.1055641,38.3986549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Feyzullah el Ensari Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Chytrium | Miras Haritası"
-date: 2025-12-25T04:37:49+03:00
+title: "Chytrium"
+date: "2025-12-25T04:37:49+03:00"
 slug: "chytrium"
 description: "### Chytrium Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.741881,38.337891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Chytrium Arkeolojik Sit

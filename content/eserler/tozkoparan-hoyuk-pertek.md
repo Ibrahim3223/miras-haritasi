@@ -1,18 +1,17 @@
 ---
-title: "Tozkoparan Höyük, Pertek | Miras Haritası"
-date: 2025-12-25T05:59:15+03:00
+title: "Tozkoparan Höyük, Pertek"
+date: "2025-12-25T05:59:15+03:00"
 slug: "tozkoparan-hoyuk-pertek"
 description: "## Tozkoparan Höyük, Pertek: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Pertek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.4383278,38.9293671"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tozkoparan Höyük, Pertek: Tarih ve Kültür Mirasının Gizemi

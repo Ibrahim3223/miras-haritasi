@@ -1,18 +1,17 @@
 ---
-title: "Sis Kalesi | Miras Haritası"
-date: 2025-12-25T01:27:34+03:00
+title: "Sis Kalesi"
+date: "2025-12-25T01:27:34+03:00"
 slug: "sis-kalesi"
 description: "## Sis Kalesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Suşehri"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.0995712,40.383316"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sis Kalesi

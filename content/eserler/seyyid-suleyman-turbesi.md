@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Süleyman Türbesi | Miras Haritası"
-date: 2025-12-25T14:13:18+03:00
+title: "Seyyid Süleyman Türbesi"
+date: "2025-12-25T14:13:18+03:00"
 slug: "seyyid-suleyman-turbesi"
 description: "# Seyyid Süleyman Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.427471,39.618113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Seyyid Süleyman Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:02+03:00
+title: "Mehmet Paşa Türbesi"
+date: "2025-12-25T14:42:02+03:00"
 slug: "mehmet-pasa-turbesi"
 description: "## Mehmet Paşa Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8359299,40.6546402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Paşa Türbesi

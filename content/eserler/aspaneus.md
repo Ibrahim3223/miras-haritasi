@@ -1,18 +1,17 @@
 ---
-title: "Aspaneus | Miras Haritası"
-date: 2025-12-25T04:39:49+03:00
+title: "Aspaneus"
+date: "2025-12-25T04:39:49+03:00"
 slug: "aspaneus"
 description: "## Aspaneus: Balıkesir'in Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.807167,39.570655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aspaneus: Balıkesir'in Gizli Anıtı

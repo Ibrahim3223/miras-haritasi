@@ -1,18 +1,17 @@
 ---
-title: "Pydnai Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:26+03:00
+title: "Pydnai Kilisesi"
+date: "2025-12-25T09:38:26+03:00"
 slug: "pydnai-kilisesi"
 description: "### Pydnai Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.2326031,36.3333855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pydnai Kilisesi

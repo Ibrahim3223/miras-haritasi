@@ -1,18 +1,17 @@
 ---
-title: "Hasankeyf Müzesi | Miras Haritası"
-date: 2025-12-25T03:34:52+03:00
+title: "Hasankeyf Müzesi"
+date: "2025-12-25T03:34:52+03:00"
 slug: "hasankeyf-muzesi"
 description: "## Hasankeyf Müzesi: Tarih ve Kültür Mirasının Gizli Hazineleri..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Hasankeyf"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasankeyf Müzesi: Tarih ve Kültür Mirasının Gizli Hazineleri

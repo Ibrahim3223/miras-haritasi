@@ -1,18 +1,17 @@
 ---
-title: "Özel Mustafa Erim Mersin Kent Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:46:55+03:00
+title: "Özel Mustafa Erim Mersin Kent Tarihi Müzesi"
+date: "2025-12-25T03:46:55+03:00"
 slug: "ozel-mustafa-erim-mersin-kent-tarihi-muzesi"
 description: "## Özel Mustafa Erim Mersin Kent Tarihi Müzesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.6281166,36.8000679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özel Mustafa Erim Mersin Kent Tarihi Müzesi

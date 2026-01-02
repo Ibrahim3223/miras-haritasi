@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bedel Mustafa Efendi Camii | Miras Haritası"
-date: 2025-12-24T21:48:41+03:00
+title: "Hacı Bedel Mustafa Efendi Camii"
+date: "2025-12-24T21:48:41+03:00"
 slug: "haci-bedel-mustafa-efendi-camii"
 description: "## Hacı Bedel Mustafa Efendi Camii: Üsküdar'da Bir Miras..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Mimar Sinan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.018833333,41.019833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Bedel Mustafa Efendi Camii: Üsküdar'da Bir Miras

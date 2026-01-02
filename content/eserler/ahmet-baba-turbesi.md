@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:31+03:00
+title: "Ahmet Baba Türbesi"
+date: "2025-12-25T14:58:31+03:00"
 slug: "ahmet-baba-turbesi"
 description: "## Ahmet Baba Türbesi: Maltepe'nin Değerli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1481705,40.9588013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Baba Türbesi: Maltepe'nin Değerli Mirası

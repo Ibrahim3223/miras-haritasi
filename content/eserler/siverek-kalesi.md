@@ -1,18 +1,17 @@
 ---
-title: "Siverek Kalesi | Miras Haritası"
-date: 2025-12-25T01:30:50+03:00
+title: "Siverek Kalesi"
+date: "2025-12-25T01:30:50+03:00"
 slug: "siverek-kalesi"
 description: "## Siverek Kalesi: Şanlıurfa'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.316657,37.754998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siverek Kalesi: Şanlıurfa'nın Gizli Mücevheri

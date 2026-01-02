@@ -1,18 +1,17 @@
 ---
-title: "Ahi Hüsameddin Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:04+03:00
+title: "Ahi Hüsameddin Türbesi"
+date: "2025-12-25T15:15:04+03:00"
 slug: "ahi-husameddin-turbesi"
 description: "## Ahi Hüsameddin Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.867727,39.935098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Hüsameddin Türbesi

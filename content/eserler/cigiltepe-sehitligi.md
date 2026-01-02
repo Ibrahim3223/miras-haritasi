@@ -1,18 +1,17 @@
 ---
-title: "Çiğiltepe Şehitliği | Miras Haritası"
-date: 2025-12-25T15:59:59+03:00
+title: "Çiğiltepe Şehitliği"
+date: "2025-12-25T15:59:59+03:00"
 slug: "cigiltepe-sehitligi"
 description: "### Çiğiltepe Şehitliği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sinanpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.2620716,38.6893539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çiğiltepe Şehitliği

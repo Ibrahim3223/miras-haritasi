@@ -1,18 +1,17 @@
 ---
-title: "Kızılcahamam Oruç Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:10+03:00
+title: "Kızılcahamam Oruç Gazi Türbesi"
+date: "2025-12-25T15:19:10+03:00"
 slug: "kizilcahamam-oruc-gazi-turbesi"
 description: "### Kızılcahamam Oruç Gazi Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kızılcahamam"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.7276,40.3959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızılcahamam Oruç Gazi Türbesi

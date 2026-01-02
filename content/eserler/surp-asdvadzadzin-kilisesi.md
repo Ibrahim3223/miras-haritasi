@@ -1,18 +1,17 @@
 ---
-title: "Surp Asdvadzadzin Kilisesi | Miras Haritası"
-date: 2025-12-25T08:48:31+03:00
+title: "Surp Asdvadzadzin Kilisesi"
+date: "2025-12-25T08:48:31+03:00"
 slug: "surp-asdvadzadzin-kilisesi"
 description: "## Surp Asdvadzadzin Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vakifli_church-DCP_8791_25p.jpg/1200px-Vakifli_church-DCP_8791_25p.jpg"
 province: "Samandağ"
-iller: ["Samandağ"]
+iller: '["Samandağ"]'
 district: "Vakıfköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.974925,36.115274"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Asdvadzadzin Kilisesi

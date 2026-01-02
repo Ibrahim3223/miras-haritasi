@@ -1,18 +1,17 @@
 ---
-title: "Gucür Camii | Miras Haritası"
-date: 2025-12-24T23:07:28+03:00
+title: "Gucür Camii"
+date: "2025-12-24T23:07:28+03:00"
 slug: "gucur-camii"
 description: "### Gucür Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7435684,38.0884323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gucür Camii: İzmir'in Tarihi ve Kültürel Mirası

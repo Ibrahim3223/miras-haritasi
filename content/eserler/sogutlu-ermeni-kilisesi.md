@@ -1,18 +1,17 @@
 ---
-title: "Söğütlü Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:04+03:00
+title: "Söğütlü Ermeni Kilisesi"
+date: "2025-12-25T09:13:04+03:00"
 slug: "sogutlu-ermeni-kilisesi"
 description: "### Söğütlü Ermeni Kilisesi..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.0649757,40.1985855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Söğütlü Ermeni Kilisesi

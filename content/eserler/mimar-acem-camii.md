@@ -1,18 +1,17 @@
 ---
-title: "Mimar Acem Camii | Miras Haritası"
-date: 2025-12-24T21:45:35+03:00
+title: "Mimar Acem Camii"
+date: "2025-12-24T21:45:35+03:00"
 slug: "mimar-acem-camii"
 description: "## Mimar Sinan'ın Yaratıcılığını Tanıklık Eden Mimar Acem Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mevlanakapı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9265,41.013611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mimar Sinan'ın Yaratıcılığını Tanıklık Eden Mimar Acem Camii

@@ -1,18 +1,17 @@
 ---
-title: "Panorama 25 Aralık Gaziantep Savunması Kahramanlık Panoraması ve Müzesi | Miras Haritası"
-date: 2025-12-25T03:45:52+03:00
+title: "Panorama 25 Aralık Gaziantep Savunması Kahramanlık Panoraması ve Müzesi"
+date: "2025-12-25T03:45:52+03:00"
 slug: "panorama-25-aralik-gaziantep-savunmasi-kahramanlik-panoramasi-ve-muzesi"
 description: "## Panorama 25 Aralık Gaziantep Savunması Kahramanlık Panoraması ve Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.3792763,37.0658798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panorama 25 Aralık Gaziantep Savunması Kahramanlık Panoraması ve Müzesi

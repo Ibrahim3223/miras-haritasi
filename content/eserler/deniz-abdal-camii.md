@@ -1,18 +1,17 @@
 ---
-title: "Deniz Abdal Camii | Miras Haritası"
-date: 2025-12-24T22:52:14+03:00
+title: "Deniz Abdal Camii"
+date: "2025-12-24T22:52:14+03:00"
 slug: "deniz-abdal-camii"
 description: "## Deniz Abdal Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.932987,41.015253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deniz Abdal Camii

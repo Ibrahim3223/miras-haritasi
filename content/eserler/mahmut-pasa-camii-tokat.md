@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Paşa Camii, Tokat | Miras Haritası"
-date: 2025-12-24T23:18:48+03:00
+title: "Mahmut Paşa Camii, Tokat"
+date: "2025-12-24T23:18:48+03:00"
 slug: "mahmut-pasa-camii-tokat"
 description: "## Mahmut Paşa Camii, Tokat..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5550537,40.307045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Paşa Camii, Tokat

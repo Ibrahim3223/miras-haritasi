@@ -1,18 +1,17 @@
 ---
-title: "Odeon Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:16:51+03:00
+title: "Odeon Tiyatrosu"
+date: "2025-12-25T16:16:51+03:00"
 slug: "odeon-tiyatrosu"
 description: "## Odeon Tiyatrosu: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.980027777,41.034972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Odeon Tiyatrosu: İstanbul'un Gizli Mirası

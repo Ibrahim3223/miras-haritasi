@@ -1,18 +1,17 @@
 ---
-title: "Düzorman Harmangölü Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:51:13+03:00
+title: "Düzorman Harmangölü Tümülüsü"
+date: "2025-12-25T07:51:13+03:00"
 slug: "duzorman-harmangolu-tumulusu"
 description: "## Düzorman Harmangölü Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3728085,41.8459244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düzorman Harmangölü Tümülüsü

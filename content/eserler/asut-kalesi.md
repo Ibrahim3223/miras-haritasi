@@ -1,18 +1,17 @@
 ---
-title: "Aşut Kalesi | Miras Haritası"
-date: 2025-12-25T01:35:19+03:00
+title: "Aşut Kalesi"
+date: "2025-12-25T01:35:19+03:00"
 slug: "asut-kalesi"
 description: "## Aşut Kalesi: Kelkit'te Eski Çağların Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kelkit"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.44191,40.086892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşut Kalesi: Kelkit'te Eski Çağların Mirası

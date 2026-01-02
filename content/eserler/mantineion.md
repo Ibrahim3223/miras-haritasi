@@ -1,18 +1,17 @@
 ---
-title: "Mantineion | Miras Haritası"
-date: 2025-12-25T05:16:18+03:00
+title: "Mantineion"
+date: "2025-12-25T05:16:18+03:00"
 slug: "mantineion"
 description: "## Mantineion: Antik Mantineia'nın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.019212,40.8073395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mantineion: Antik Mantineia'nın Gizemi

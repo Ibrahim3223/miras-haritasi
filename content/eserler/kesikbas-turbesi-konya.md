@@ -1,18 +1,17 @@
 ---
-title: "Kesikbaş Türbesi, Konya | Miras Haritası"
-date: 2025-12-25T13:54:28+03:00
+title: "Kesikbaş Türbesi, Konya"
+date: "2025-12-25T13:54:28+03:00"
 slug: "kesikbas-turbesi-konya"
 description: "## Kesikbaş Türbesi, Konya..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4943962,37.8793983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kesikbaş Türbesi, Konya

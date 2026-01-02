@@ -1,18 +1,18 @@
 ---
-title: "Özkonak Yeraltı Şehri | Miras Haritası"
-date: 2025-12-25T05:23:36+03:00
+title: "Özkonak Yeraltı Şehri"
+date: "2025-12-25T05:23:36+03:00"
 slug: "ozkonak-yeralti-sehri"
 description: "## Özkonak Yeraltı Şehri: Türkiye'nin Gizli Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Entrance_of_Özkonak_Underground_City.jpg/1200px-Entrance_of_Özkonak_Underground_City.jpg"
 province: "Avanos"
-iller: ["Avanos"]
+iller: '["Avanos"]'
 district: "Özkonak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.839444444,38.813055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Entrance_of_Özkonak_Underground_City.jpg/1200px-Entrance_of_Özkonak_Underground_City.jpg"
 ---
 
 ## Özkonak Yeraltı Şehri: Türkiye'nin Gizli Mirası

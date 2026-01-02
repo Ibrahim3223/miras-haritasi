@@ -1,18 +1,17 @@
 ---
-title: "Yılanlı Kilise | Miras Haritası"
-date: 2025-12-25T08:43:16+03:00
+title: "Yılanlı Kilise"
+date: "2025-12-25T08:43:16+03:00"
 slug: "yilanli-kilise"
 description: "## Yılanlı Kilise: Göreme'nin Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YilanliFresco.jpg/1200px-YilanliFresco.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.8453511,38.6383311"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yılanlı Kilise: Göreme'nin Gizli Çehresi

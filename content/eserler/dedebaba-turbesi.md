@@ -1,18 +1,17 @@
 ---
-title: "Dedebaba Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:30+03:00
+title: "Dedebaba Türbesi"
+date: "2025-12-25T15:07:30+03:00"
 slug: "dedebaba-turbesi"
 description: "## Dedebaba Türbesi: Kahramanmaraş'ta Bir İnanç Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kahramanmaraş"
+province: "Kahramanmaraş"
+iller: '["Kahramanmaraş"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.914194901,38.246806831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedebaba Türbesi: Kahramanmaraş'ta Bir İnanç Mirası

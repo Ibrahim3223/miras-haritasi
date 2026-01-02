@@ -1,18 +1,17 @@
 ---
-title: "Yeni Camii | Miras Haritası"
-date: 2025-12-24T20:38:29+03:00
+title: "Yeni Camii"
+date: "2025-12-24T20:38:29+03:00"
 slug: "yeni-camii"
 description: "## Yeni Camii: İstanbul'un Tarihi bir Camisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mezquita_Nueva,_Estambul,_Turquía,_2024-09-29,_DD_39-41_HDR.jpg/1200px-Mezquita_Nueva,_Estambul,_Turquía,_2024-09-29,_DD_39-41_HDR.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Eminönü"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.972141,41.016875"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yeni Camii: İstanbul'un Tarihi bir Camisi

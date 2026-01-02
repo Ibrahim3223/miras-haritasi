@@ -1,18 +1,17 @@
 ---
-title: "Sekbanbaşı Mehmet Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:27:41+03:00
+title: "Sekbanbaşı Mehmet Ağa Kabri"
+date: "2025-12-25T13:27:41+03:00"
 slug: "sekbanbasi-mehmet-aga-kabri"
 description: "**Sekbanbaşı Mehmet Ağa Kabri**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9545403,41.0127563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sekbanbaşı Mehmet Ağa Kabri**

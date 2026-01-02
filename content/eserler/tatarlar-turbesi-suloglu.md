@@ -1,18 +1,17 @@
 ---
-title: "Tatarlar Türbesi, Süloğlu | Miras Haritası"
-date: 2025-12-25T14:47:36+03:00
+title: "Tatarlar Türbesi, Süloğlu"
+date: "2025-12-25T14:47:36+03:00"
 slug: "tatarlar-turbesi-suloglu"
 description: "## Tatarlar Türbesi, Süloğlu..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.9072723,41.8387032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatarlar Türbesi, Süloğlu

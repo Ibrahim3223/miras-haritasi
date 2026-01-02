@@ -1,18 +1,17 @@
 ---
-title: "Leptoia | Miras Haritası"
-date: 2025-12-25T04:46:50+03:00
+title: "Leptoia"
+date: "2025-12-25T04:46:50+03:00"
 slug: "leptoia"
 description: "### Leptoia: Antik Çağ'ın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.974641,40.814452"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Leptoia: Antik Çağ'ın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Tynada | Miras Haritası"
-date: 2025-12-25T05:17:39+03:00
+title: "Tynada"
+date: "2025-12-25T05:17:39+03:00"
 slug: "tynada"
 description: "### Tynada: Aksu, Isparta'daki Antik Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Aksu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.1607155,37.7554975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tynada: Aksu, Isparta'daki Antik Bir Arkeolojik Sit

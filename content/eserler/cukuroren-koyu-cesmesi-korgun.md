@@ -1,18 +1,17 @@
 ---
-title: "Çukurören Köyü Çeşmesi, Korgun | Miras Haritası"
-date: 2025-12-25T12:32:42+03:00
+title: "Çukurören Köyü Çeşmesi, Korgun"
+date: "2025-12-25T12:32:42+03:00"
 slug: "cukuroren-koyu-cesmesi-korgun"
 description: "## Çukurören Köyü Çeşmesi: Korgun'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Korgun ilçesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.398524737,40.661700921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukurören Köyü Çeşmesi: Korgun'un Gizli Çeşmesi

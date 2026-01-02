@@ -1,18 +1,17 @@
 ---
-title: "Nebiler Camii | Miras Haritası"
-date: 2025-12-25T00:59:57+03:00
+title: "Nebiler Camii"
+date: "2025-12-25T00:59:57+03:00"
 slug: "nebiler-camii"
 description: "## Nebiler Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.940337,37.024689"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nebiler Camii

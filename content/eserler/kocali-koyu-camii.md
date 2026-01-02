@@ -1,18 +1,17 @@
 ---
-title: "Koçali Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:36:02+03:00
+title: "Koçali Köyü Camii"
+date: "2025-12-25T00:36:02+03:00"
 slug: "kocali-koyu-camii"
 description: "## Koçali Köyü Camii: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.2512341,39.739727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koçali Köyü Camii: Tarihî Bir Mirasın Gizemi

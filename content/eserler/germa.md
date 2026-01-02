@@ -1,18 +1,17 @@
 ---
-title: "Germa | Miras Haritası"
-date: 2025-12-25T04:27:00+03:00
+title: "Germa"
+date: "2025-12-25T04:27:00+03:00"
 slug: "germa"
 description: "## Germa Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Günyüzü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.8333,39.3333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Germa Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Kasımlar Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:43:33+03:00
+title: "Kasımlar Köyü Camii"
+date: "2025-12-24T23:43:33+03:00"
 slug: "kasimlar-koyu-camii"
 description: "## Kasımlar Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bilecik"
+province: "Bilecik"
+iller: '["Bilecik"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2346783,40.179863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasımlar Köyü Camii

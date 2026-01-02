@@ -1,18 +1,17 @@
 ---
-title: "Çukur Mescit, Bursa | Miras Haritası"
-date: 2025-12-25T01:05:34+03:00
+title: "Çukur Mescit, Bursa"
+date: "2025-12-25T01:05:34+03:00"
 slug: "cukur-mescit-bursa"
 description: "## Çukur Mescit, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0795116,40.1862144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukur Mescit, Bursa

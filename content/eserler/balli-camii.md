@@ -1,18 +1,17 @@
 ---
-title: "Ballı Camii | Miras Haritası"
-date: 2025-12-24T22:12:00+03:00
+title: "Ballı Camii"
+date: "2025-12-24T22:12:00+03:00"
 slug: "balli-camii"
 description: "## Ballı Camii: Kırıkkale'nin Tarihi Örenlerinden BİRİ..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Balışeyh"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7171707,39.9203682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ballı Camii: Kırıkkale'nin Tarihi Örenlerinden BİRİ

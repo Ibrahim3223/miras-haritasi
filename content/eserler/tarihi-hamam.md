@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Hamam | Miras Haritası"
-date: 2025-12-25T16:46:31+03:00
+title: "Tarihi Hamam"
+date: "2025-12-25T16:46:31+03:00"
 slug: "tarihi-hamam"
 description: "## Tarihi Hamam: Kadıköy'deki Bir İtikaf ve Terapi Merkezi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0343437,40.967411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Hamam: Kadıköy'deki Bir İtikaf ve Terapi Merkezi

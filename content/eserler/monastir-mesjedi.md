@@ -1,18 +1,17 @@
 ---
-title: "Monastir Mesjedi | Miras Haritası"
-date: 2025-12-25T08:55:10+03:00
+title: "Monastir Mesjedi"
+date: "2025-12-25T08:55:10+03:00"
 slug: "monastir-mesjedi"
 description: "### Monastir Mesjedi: İstanbul'un Gizli Çiçeği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Monastir Mesjedi: İstanbul'un Gizli Çiçeği

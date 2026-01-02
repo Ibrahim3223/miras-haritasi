@@ -1,18 +1,17 @@
 ---
-title: "Atabey Armağan Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:13+03:00
+title: "Atabey Armağan Medresesi"
+date: "2025-12-25T17:36:13+03:00"
 slug: "atabey-armagan-medresesi"
 description: "### Atabey Armağan Medresesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "30.7047806,36.886425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Atabey Armağan Medresesi

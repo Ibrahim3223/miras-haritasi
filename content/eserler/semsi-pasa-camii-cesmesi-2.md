@@ -1,18 +1,17 @@
 ---
-title: "Şemsi Paşa Camii Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T11:13:20+03:00
+title: "Şemsi Paşa Camii Çeşmesi 2"
+date: "2025-12-25T11:13:20+03:00"
 slug: "semsi-pasa-camii-cesmesi-2"
 description: "## Şemsi Paşa Camii Çeşmesi 2: Üsküdar'ın Güzelliği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.010699,41.025814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şemsi Paşa Camii Çeşmesi 2: Üsküdar'ın Güzelliği

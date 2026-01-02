@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Müzesi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:47:38+03:00
+title: "Topkapı Sarayı Müzesi Kütüphanesi"
+date: "2025-12-25T17:47:38+03:00"
 slug: "topkapi-sarayi-muzesi-kutuphanesi"
 description: "## Topkapı Sarayı Müzesi Kütüphanesi: İstanbul'un Gizli Kitap Odası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.965774267,41.010772946"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Müzesi Kütüphanesi: İstanbul'un Gizli Kitap Odası

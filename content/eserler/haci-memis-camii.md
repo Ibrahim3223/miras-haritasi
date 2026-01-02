@@ -1,18 +1,17 @@
 ---
-title: "Hacı Memiş Camii | Miras Haritası"
-date: 2025-12-24T23:28:49+03:00
+title: "Hacı Memiş Camii"
+date: "2025-12-24T23:28:49+03:00"
 slug: "haci-memis-camii"
 description: "## Hacı Memiş Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3751488,38.2802773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Memiş Camii: İzmir'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kurtalan Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:31+03:00
+title: "Kurtalan Saat Kulesi"
+date: "2025-12-25T17:17:31+03:00"
 slug: "kurtalan-saat-kulesi"
 description: "## Kurtalan Saat Kulesi: Siirt'in Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Siirt"
+province: "Siirt"
+iller: '["Siirt"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "41.699666666,37.927111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurtalan Saat Kulesi: Siirt'in Tarihî Mirası

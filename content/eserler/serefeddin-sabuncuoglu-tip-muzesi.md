@@ -1,18 +1,17 @@
 ---
-title: "Şerefeddin Sabuncuoğlu Tıp Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:08+03:00
+title: "Şerefeddin Sabuncuoğlu Tıp Müzesi"
+date: "2025-12-25T03:53:08+03:00"
 slug: "serefeddin-sabuncuoglu-tip-muzesi"
 description: "## Şerefeddin Sabuncuoğlu Tıp Müzesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.8355026,40.6538467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şerefeddin Sabuncuoğlu Tıp Müzesi

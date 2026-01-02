@@ -1,18 +1,17 @@
 ---
-title: "Yahşi Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:15:23+03:00
+title: "Yahşi Bey Türbesi"
+date: "2025-12-25T14:15:23+03:00"
 slug: "yahsi-bey-turbesi"
 description: "## Yahşi Bey Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.4586,39.7504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahşi Bey Türbesi

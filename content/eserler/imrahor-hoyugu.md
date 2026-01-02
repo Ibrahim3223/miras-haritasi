@@ -1,18 +1,17 @@
 ---
-title: "İmrahor Höyüğü | Miras Haritası"
-date: 2025-12-25T06:37:08+03:00
+title: "İmrahor Höyüğü"
+date: "2025-12-25T06:37:08+03:00"
 slug: "imrahor-hoyugu"
 description: "## İmrahor Höyüğü: Ankara'nın Eski Tarihçesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8938713,39.8633804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmrahor Höyüğü: Ankara'nın Eski Tarihçesi

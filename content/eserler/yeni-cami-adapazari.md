@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami (Adapazarı) | Miras Haritası"
-date: 2025-12-24T23:48:20+03:00
+title: "Yeni Cami (Adapazarı)"
+date: "2025-12-24T23:48:20+03:00"
 slug: "yeni-cami-adapazari"
 description: "**Yeni Cami (Adapazarı)**..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.4040661,40.7728844"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yeni Cami (Adapazarı)**

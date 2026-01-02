@@ -1,18 +1,17 @@
 ---
-title: "Aziz Stepanos Kilisesi | Miras Haritası"
-date: 2025-12-25T08:46:11+03:00
+title: "Aziz Stepanos Kilisesi"
+date: "2025-12-25T08:46:11+03:00"
 slug: "aziz-stepanos-kilisesi"
 description: "## Aziz Stepanos Kilisesi: İzmir'de Bir Keşif..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/SAINT_STEPHEN_ETIENNE_ARMENIAN_CHURCH_SMYRNA_Postcard_c._1907.JPG/1200px-SAINT_STEPHEN_ETIENNE_ARMENIAN_CHURCH_SMYRNA_Postcard_c._1907.JPG"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.139166666,38.424444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Stepanos Kilisesi: İzmir'de Bir Keşif

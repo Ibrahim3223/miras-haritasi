@@ -1,18 +1,17 @@
 ---
-title: "Koron | Miras Haritası"
-date: 2025-12-25T05:05:00+03:00
+title: "Koron"
+date: "2025-12-25T05:05:00+03:00"
 slug: "koron"
 description: "## Koron Arkeolojik Sitesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Altunhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3172155,38.067791"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koron Arkeolojik Sitesi

@@ -1,18 +1,17 @@
 ---
-title: "Hamidi Camii, Burhaniye | Miras Haritası"
-date: 2025-12-24T23:54:31+03:00
+title: "Hamidi Camii, Burhaniye"
+date: "2025-12-24T23:54:31+03:00"
 slug: "hamidi-camii-burhaniye"
 description: "# Hamidiye Camii, Burhaniye..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Burhaniye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9769154,39.5092735"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamidiye Camii, Burhaniye

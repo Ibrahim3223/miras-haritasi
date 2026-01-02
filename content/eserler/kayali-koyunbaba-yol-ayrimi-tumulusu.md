@@ -1,18 +1,17 @@
 ---
-title: "Kayalı Koyunbaba Yol Ayrımı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:48:11+03:00
+title: "Kayalı Koyunbaba Yol Ayrımı Tümülüsü"
+date: "2025-12-25T07:48:11+03:00"
 slug: "kayali-koyunbaba-yol-ayrimi-tumulusu"
 description: "### Kayalı Koyunbaba Yol Ayrımı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1166229,41.7540245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kayalı Koyunbaba Yol Ayrımı Tümülüsü

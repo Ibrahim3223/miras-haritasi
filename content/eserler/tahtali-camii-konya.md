@@ -1,18 +1,17 @@
 ---
-title: "Tahtalı Camii, Konya | Miras Haritası"
-date: 2025-12-24T23:59:46+03:00
+title: "Tahtalı Camii, Konya"
+date: "2025-12-24T23:59:46+03:00"
 slug: "tahtali-camii-konya"
 description: "## Tahtalı Camii: Konya'da Bir Gözdü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5021629,37.8732948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahtalı Camii: Konya'da Bir Gözdü

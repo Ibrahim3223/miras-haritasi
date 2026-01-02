@@ -1,18 +1,17 @@
 ---
-title: "Tahire Hanım Çeşmesi, Kemalpaşa | Miras Haritası"
-date: 2025-12-25T11:59:27+03:00
+title: "Tahire Hanım Çeşmesi, Kemalpaşa"
+date: "2025-12-25T11:59:27+03:00"
 slug: "tahire-hanim-cesmesi-kemalpasa"
 description: "## Tahire Hanım Çeşmesi: Kemalpaşa'nın Şirin Öyküsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4159279,38.4254684"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahire Hanım Çeşmesi: Kemalpaşa'nın Şirin Öyküsü

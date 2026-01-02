@@ -1,18 +1,17 @@
 ---
-title: "Alpullu Mahallesi Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:14:06+03:00
+title: "Alpullu Mahallesi Çeşmesi 1"
+date: "2025-12-25T10:14:06+03:00"
 slug: "alpullu-mahallesi-cesmesi-1"
 description: "## Alpullu Mahallesi Çeşmesi 1: Gümüşhane'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.487282,40.572682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alpullu Mahallesi Çeşmesi 1: Gümüşhane'nin Tarihi ve Kültürel Mirası

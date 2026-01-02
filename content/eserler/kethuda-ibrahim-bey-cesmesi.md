@@ -1,18 +1,17 @@
 ---
-title: "Kethüda İbrahim Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:46+03:00
+title: "Kethüda İbrahim Bey Çeşmesi"
+date: "2025-12-25T11:21:46+03:00"
 slug: "kethuda-ibrahim-bey-cesmesi"
 description: "## Kethüda İbrahim Bey Çeşmesi..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Ptt Evleri"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.027997,41.141119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kethüda İbrahim Bey Çeşmesi

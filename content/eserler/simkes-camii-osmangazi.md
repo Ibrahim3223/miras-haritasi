@@ -1,18 +1,17 @@
 ---
-title: "Simkeş Camii (Osmangazi) | Miras Haritası"
-date: 2025-12-25T00:27:40+03:00
+title: "Simkeş Camii (Osmangazi)"
+date: "2025-12-25T00:27:40+03:00"
 slug: "simkes-camii-osmangazi"
 description: "## Simkeş Camii: Bursa'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0659065,40.1839523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Simkeş Camii: Bursa'nın Tarihî ve Kültürel Mirası

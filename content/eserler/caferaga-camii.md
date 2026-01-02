@@ -1,18 +1,17 @@
 ---
-title: "Caferağa Camii | Miras Haritası"
-date: 2025-12-24T21:40:06+03:00
+title: "Caferağa Camii"
+date: "2025-12-24T21:40:06+03:00"
 slug: "caferaga-camii"
 description: "## Caferağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Cafer_Ağa_Camii.jpg/1200px-Cafer_Ağa_Camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0243975,40.9893344"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Caferağa Camii

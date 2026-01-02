@@ -1,18 +1,17 @@
 ---
-title: "Arap Camii (Artuklu) | Miras Haritası"
-date: 2025-12-25T00:43:24+03:00
+title: "Arap Camii (Artuklu)"
+date: "2025-12-25T00:43:24+03:00"
 slug: "arap-camii-artuklu"
 description: "## Arap Camii (Artuklu): Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.748234,37.31282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arap Camii (Artuklu): Tarihi ve Kültürel Mirasının Bir Parçası

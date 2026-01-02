@@ -1,18 +1,17 @@
 ---
-title: "Yeşilyurt Mahallesi Camii | Miras Haritası"
-date: 2025-12-25T00:20:29+03:00
+title: "Yeşilyurt Mahallesi Camii"
+date: "2025-12-25T00:20:29+03:00"
 slug: "yesilyurt-mahallesi-camii"
 description: "## Yeşilyurt Mahallesi Camii: İkizdere'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.552774154,40.77605664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşilyurt Mahallesi Camii: İkizdere'nin Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Paşa Kapısı, Edirne | Miras Haritası"
-date: 2025-12-25T15:39:04+03:00
+title: "Paşa Kapısı, Edirne"
+date: "2025-12-25T15:39:04+03:00"
 slug: "pasa-kapisi-edirne"
 description: "## Paşa Kapısı, Edirne..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5525398,41.6795235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Kapısı, Edirne

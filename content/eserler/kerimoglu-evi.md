@@ -1,18 +1,17 @@
 ---
-title: "Kerimoğlu Evi | Miras Haritası"
-date: 2025-12-25T03:46:25+03:00
+title: "Kerimoğlu Evi"
+date: "2025-12-25T03:46:25+03:00"
 slug: "kerimoglu-evi"
 description: "## Kerimoğlu Evi: Menteşe'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.2637882,37.1180573"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kerimoğlu Evi: Menteşe'nin Tarihi ve Kültürel Mirası

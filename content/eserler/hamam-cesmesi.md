@@ -1,18 +1,17 @@
 ---
-title: "Hamam Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:09+03:00
+title: "Hamam Çeşmesi"
+date: "2025-12-25T10:22:09+03:00"
 slug: "hamam-cesmesi"
 description: "### Hamam Çeşmesi: Karaman'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.2071419,37.1810875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamam Çeşmesi: Karaman'ın Tarihi ve Kültürel Mirasının Bir Parçası

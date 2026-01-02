@@ -1,18 +1,17 @@
 ---
-title: "Kaledoruğu Höyüğü, Kavak | Miras Haritası"
-date: 2025-12-25T13:50:29+03:00
+title: "Kaledoruğu Höyüğü, Kavak"
+date: "2025-12-25T13:50:29+03:00"
 slug: "kaledorugu-hoyugu-kavak"
 description: "### Kaledoruğu Höyüğü: Samsun'un Gizli Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.041798,41.080219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaledoruğu Höyüğü: Samsun'un Gizli Anıtı

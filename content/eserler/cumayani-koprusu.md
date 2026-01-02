@@ -1,18 +1,17 @@
 ---
-title: "Cumayanı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:21+03:00
+title: "Cumayanı Köprüsü"
+date: "2025-12-25T02:09:21+03:00"
 slug: "cumayani-koprusu"
 description: "## Cumayanı Köprüsü: Bozkurt'un Gizli Cenneti..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Bozkurt"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.971754,41.969747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumayanı Köprüsü: Bozkurt'un Gizli Cenneti

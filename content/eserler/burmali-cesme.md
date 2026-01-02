@@ -1,18 +1,17 @@
 ---
-title: "Burmalı Çeşme | Miras Haritası"
-date: 2025-12-25T10:43:30+03:00
+title: "Burmalı Çeşme"
+date: "2025-12-25T10:43:30+03:00"
 slug: "burmali-cesme"
 description: "## Burmalı Çeşme: Afyonkarahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5352325,38.7579575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burmalı Çeşme: Afyonkarahisar'ın Tarihi ve Kültürel Mirası

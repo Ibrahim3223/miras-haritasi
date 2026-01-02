@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Gaziosmanpaşa | Miras Haritası"
-date: 2025-12-25T12:01:12+03:00
+title: "Çeşme, Gaziosmanpaşa"
+date: "2025-12-25T12:01:12+03:00"
 slug: "cesme-gaziosmanpasa"
 description: "## Çeşme, Gaziosmanpaşa: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Gaziosmanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9074001,41.0752983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Gaziosmanpaşa: İstanbul'un Gizli Çeşmesi

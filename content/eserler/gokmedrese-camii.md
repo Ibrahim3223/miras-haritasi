@@ -1,18 +1,17 @@
 ---
-title: "Gökmedrese Camii | Miras Haritası"
-date: 2025-12-24T23:48:40+03:00
+title: "Gökmedrese Camii"
+date: "2025-12-24T23:48:40+03:00"
 slug: "gokmedrese-camii"
 description: "## Gökmedrese Camii..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8200874,40.649437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökmedrese Camii

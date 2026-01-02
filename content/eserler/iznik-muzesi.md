@@ -1,18 +1,17 @@
 ---
-title: "İznik Müzesi | Miras Haritası"
-date: 2025-12-25T03:22:16+03:00
+title: "İznik Müzesi"
+date: "2025-12-25T03:22:16+03:00"
 slug: "iznik-muzesi"
 description: "### İznik Müzesi: Tarih ve Kültür Mirasının Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/İznik_Müzesi_20231030.jpg/1200px-İznik_Müzesi_20231030.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.720694444,40.424111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İznik Müzesi: Tarih ve Kültür Mirasının Gizli Çehresi

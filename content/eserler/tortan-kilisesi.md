@@ -1,18 +1,17 @@
 ---
-title: "Tortan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:00+03:00
+title: "Tortan Kilisesi"
+date: "2025-12-25T09:33:00+03:00"
 slug: "tortan-kilisesi"
 description: "## Tortan Kilisesi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemah"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.1450691,39.6556816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tortan Kilisesi

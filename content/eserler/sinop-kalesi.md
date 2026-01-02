@@ -1,18 +1,17 @@
 ---
-title: "Sinop Kalesi | Miras Haritası"
-date: 2025-12-25T01:13:55+03:00
+title: "Sinop Kalesi"
+date: "2025-12-25T01:13:55+03:00"
 slug: "sinop-kalesi"
 description: "**Sinop Kalesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sinop-Castle.jpg/1200px-Sinop-Castle.jpg"
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.1506,42.0237"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Sinop Kalesi**

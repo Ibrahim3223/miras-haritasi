@@ -1,18 +1,17 @@
 ---
-title: "Mukeri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:51+03:00
+title: "Mukeri Kilisesi"
+date: "2025-12-25T09:03:51+03:00"
 slug: "mukeri-kilisesi"
 description: "## Mukeri Kilisesi: Ardanuç'ta Bir İnanç Mirası..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Tepedüzü"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.057961111,41.091972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mukeri Kilisesi: Ardanuç'ta Bir İnanç Mirası

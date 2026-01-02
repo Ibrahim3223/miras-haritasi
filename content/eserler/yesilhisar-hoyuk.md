@@ -1,18 +1,17 @@
 ---
-title: "Yeşilhisar Höyük | Miras Haritası"
-date: 2025-12-25T13:46:10+03:00
+title: "Yeşilhisar Höyük"
+date: "2025-12-25T13:46:10+03:00"
 slug: "yesilhisar-hoyuk"
 description: "### Yeşilhisar Höyük: Boğazlıyan'ın Gizli Şehri..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1480236,39.1992238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeşilhisar Höyük: Boğazlıyan'ın Gizli Şehri

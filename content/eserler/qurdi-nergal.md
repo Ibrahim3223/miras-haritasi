@@ -1,18 +1,17 @@
 ---
-title: "Qurdi-Nergal | Miras Haritası"
-date: 2025-12-25T07:18:04+03:00
+title: "Qurdi-Nergal"
+date: "2025-12-25T07:18:04+03:00"
 slug: "qurdi-nergal"
 description: "## Qurdi-Nergal: Tarihî bir Sitin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sultantepe1.jpg/1200px-Sultantepe1.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Qurdi-Nergal: Tarihî bir Sitin Gizemi

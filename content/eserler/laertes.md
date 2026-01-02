@@ -1,18 +1,17 @@
 ---
-title: "Laertes | Miras Haritası"
-date: 2025-12-25T04:29:48+03:00
+title: "Laertes"
+date: "2025-12-25T04:29:48+03:00"
 slug: "laertes"
 description: "### Laertes Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.16573,36.51062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Laertes Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Kara Mustafa Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:57+03:00
+title: "Kara Mustafa Paşa Türbesi"
+date: "2025-12-25T14:40:57+03:00"
 slug: "kara-mustafa-pasa-turbesi"
 description: "### Kara Mustafa Paşa Türbesi: Bursa'nın Güzelliğine Bir Katkı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0415726,40.1924973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kara Mustafa Paşa Türbesi: Bursa'nın Güzelliğine Bir Katkı

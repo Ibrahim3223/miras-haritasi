@@ -1,18 +1,17 @@
 ---
-title: "Tavşancıl Merkez Cami | Miras Haritası"
-date: 2025-12-24T23:13:59+03:00
+title: "Tavşancıl Merkez Cami"
+date: "2025-12-24T23:13:59+03:00"
 slug: "tavsancil-merkez-cami"
 description: "### Tavşancıl Merkez Cami: Kocaeli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Dilovası"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5748138,40.7723465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tavşancıl Merkez Cami: Kocaeli'nin Tarihi Bir Mirası

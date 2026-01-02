@@ -1,18 +1,17 @@
 ---
-title: "Kız Köprüsü, Salihli | Miras Haritası"
-date: 2025-12-25T02:53:27+03:00
+title: "Kız Köprüsü, Salihli"
+date: "2025-12-25T02:53:27+03:00"
 slug: "kiz-koprusu-salihli"
 description: "**Kız Köprüsü, Salihni: Tarihi ve Kültürel Miras**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2980404,38.6098671"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kız Köprüsü, Salihni: Tarihi ve Kültürel Miras**

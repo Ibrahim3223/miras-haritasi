@@ -1,18 +1,17 @@
 ---
-title: "Terzili Köyü Cami | Miras Haritası"
-date: 2025-12-24T23:15:47+03:00
+title: "Terzili Köyü Cami"
+date: "2025-12-24T23:15:47+03:00"
 slug: "terzili-koyu-cami"
 description: "## Terzili Köyü Cami: Kırklareli'nin Gizli Öncüleri..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0375099,41.5282097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terzili Köyü Cami: Kırklareli'nin Gizli Öncüleri

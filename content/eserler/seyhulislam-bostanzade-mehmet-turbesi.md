@@ -1,18 +1,17 @@
 ---
-title: "Şeyhülislam Bostanzade Mehmet Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:26+03:00
+title: "Şeyhülislam Bostanzade Mehmet Türbesi"
+date: "2025-12-25T14:38:26+03:00"
 slug: "seyhulislam-bostanzade-mehmet-turbesi"
 description: "## Şeyhülislam Bostanzade Mehmet Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Şeyhülislam_Bostanzade_Mehmet_Türbesi.jpg/1200px-Şeyhülislam_Bostanzade_Mehmet_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9573646,41.0132803"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyhülislam Bostanzade Mehmet Türbesi

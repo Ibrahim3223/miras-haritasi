@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye Camii Su Taksim ve Havalandırma Sistemi | Miras Haritası"
-date: 2025-12-25T10:04:15+03:00
+title: "Süleymaniye Camii Su Taksim ve Havalandırma Sistemi"
+date: "2025-12-25T10:04:15+03:00"
 slug: "suleymaniye-camii-su-taksim-ve-havalandirma-sistemi"
 description: "## Süleymaniye Camii Su Taksim ve Havalandırma Sistemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9635658,41.0164413"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Süleymaniye Camii Su Taksim ve Havalandırma Sistemi

@@ -1,18 +1,17 @@
 ---
-title: "Ergasteria | Miras Haritası"
-date: 2025-12-25T05:00:44+03:00
+title: "Ergasteria"
+date: "2025-12-25T05:00:44+03:00"
 slug: "ergasteria"
 description: "### Ergasteria: Balya'daki Eski Yerleşim..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Balya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.59645,39.727645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ergasteria: Balya'daki Eski Yerleşim

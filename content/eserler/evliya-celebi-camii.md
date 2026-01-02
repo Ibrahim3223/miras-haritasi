@@ -1,18 +1,17 @@
 ---
-title: "Evliya Çelebi Camii | Miras Haritası"
-date: 2025-12-24T23:00:27+03:00
+title: "Evliya Çelebi Camii"
+date: "2025-12-24T23:00:27+03:00"
 slug: "evliya-celebi-camii"
 description: "## Evliya Çelebi Camii Tanıtımı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bigadiç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1334438,39.3949432"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evliya Çelebi Camii Tanıtımı

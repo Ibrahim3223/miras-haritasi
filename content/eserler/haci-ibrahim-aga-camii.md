@@ -1,18 +1,17 @@
 ---
-title: "Hacı İbrahim Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:28:13+03:00
+title: "Hacı İbrahim Ağa Camii"
+date: "2025-12-24T23:28:13+03:00"
 slug: "haci-ibrahim-aga-camii"
 description: "### Hacı İbrahim Ağa Camii: İzmir'de Bir Örnek Türk Mimarisinin Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6439991,38.2237015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı İbrahim Ağa Camii: İzmir'de Bir Örnek Türk Mimarisinin Mirası

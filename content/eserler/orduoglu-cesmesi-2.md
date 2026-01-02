@@ -1,18 +1,17 @@
 ---
-title: "Orduoğlu Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T10:52:28+03:00
+title: "Orduoğlu Çeşmesi 2"
+date: "2025-12-25T10:52:28+03:00"
 slug: "orduoglu-cesmesi-2"
 description: "## Orduoğlu Çeşmesi 2: Nevşehir'in Tarihî Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7093849,38.6222496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orduoğlu Çeşmesi 2: Nevşehir'in Tarihî Mirası

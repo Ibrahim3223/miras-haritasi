@@ -1,18 +1,17 @@
 ---
-title: "Ulucanlar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:37:51+03:00
+title: "Ulucanlar Çeşmesi"
+date: "2025-12-25T12:37:51+03:00"
 slug: "ulucanlar-cesmesi"
 description: "## Ulucanlar Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8657379,39.9357758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulucanlar Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirası

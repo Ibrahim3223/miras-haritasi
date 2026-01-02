@@ -1,18 +1,17 @@
 ---
-title: "Gök Höyüğü | Miras Haritası"
-date: 2025-12-25T06:37:43+03:00
+title: "Gök Höyüğü"
+date: "2025-12-25T06:37:43+03:00"
 slug: "gok-hoyugu"
 description: "### Gök Höyüğü: Ankara'nın Eski Medeniyetin Kalıntıları..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Balâ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.2375344,39.4804502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gök Höyüğü: Ankara'nın Eski Medeniyetin Kalıntıları

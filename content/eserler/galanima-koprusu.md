@@ -1,18 +1,17 @@
 ---
-title: "Galanima Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:13+03:00
+title: "Galanima Köprüsü"
+date: "2025-12-25T02:37:13+03:00"
 slug: "galanima-koprusu"
 description: "## Galanima Köprüsü: Trabzon'un Tarihî Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Akçaabat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.592533,41.009677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Galanima Köprüsü: Trabzon'un Tarihî Mirası

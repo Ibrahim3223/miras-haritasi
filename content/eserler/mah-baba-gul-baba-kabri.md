@@ -1,18 +1,17 @@
 ---
-title: "Mah Baba Gül Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:34:52+03:00
+title: "Mah Baba Gül Baba Kabri"
+date: "2025-12-25T13:34:52+03:00"
 slug: "mah-baba-gul-baba-kabri"
 description: "### Mah Baba Gül Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0737038,40.9880219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mah Baba Gül Baba Kabri

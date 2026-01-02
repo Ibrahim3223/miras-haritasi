@@ -1,18 +1,17 @@
 ---
-title: "Odabaşı Behruz Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:59:07+03:00
+title: "Odabaşı Behruz Ağa Kabri"
+date: "2025-12-25T13:59:07+03:00"
 slug: "odabasi-behruz-aga-kabri"
 description: "## Odabaşı Behruz Ağa Kabri: Fatih'in Gizli Değerleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9312954,41.012207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Odabaşı Behruz Ağa Kabri: Fatih'in Gizli Değerleri

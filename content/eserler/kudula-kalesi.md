@@ -1,18 +1,17 @@
 ---
-title: "Kudula Kalesi | Miras Haritası"
-date: 2025-12-25T01:29:59+03:00
+title: "Kudula Kalesi"
+date: "2025-12-25T01:29:59+03:00"
 slug: "kudula-kalesi"
 description: "## Kudula Kalesi: Trabzon'un Tarihî Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.5954247,40.7541122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kudula Kalesi: Trabzon'un Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Hüdalı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:45+03:00
+title: "Hüdalı Çeşmesi"
+date: "2025-12-25T10:40:45+03:00"
 slug: "hudali-cesmesi"
 description: "## Hüdalı Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5288754,38.7543335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüdalı Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hudavendigar Camii | Miras Haritası"
-date: 2025-12-25T01:02:32+03:00
+title: "Hudavendigar Camii"
+date: "2025-12-25T01:02:32+03:00"
 slug: "hudavendigar-camii"
 description: "### Hudavendigar Camii: Osmanlı İmparatorluğu'nun Altın Çağının Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hudavendigar Camii: Osmanlı İmparatorluğu'nun Altın Çağının Mirası

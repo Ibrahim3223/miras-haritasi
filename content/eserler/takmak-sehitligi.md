@@ -1,18 +1,17 @@
 ---
-title: "Takmak Şehitliği | Miras Haritası"
-date: 2025-12-25T14:10:22+03:00
+title: "Takmak Şehitliği"
+date: "2025-12-25T14:10:22+03:00"
 slug: "takmak-sehitligi"
 description: "## Takmak Şehitliği..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Eşme"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9730339,38.4489822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Takmak Şehitliği

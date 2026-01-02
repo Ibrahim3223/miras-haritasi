@@ -1,18 +1,17 @@
 ---
-title: "Hatuniye Camii, Bergama | Miras Haritası"
-date: 2025-12-24T23:53:44+03:00
+title: "Hatuniye Camii, Bergama"
+date: "2025-12-24T23:53:44+03:00"
 slug: "hatuniye-camii-bergama"
 description: "## Hatuniye Camii, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1776028,39.1162949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatuniye Camii, Bergama

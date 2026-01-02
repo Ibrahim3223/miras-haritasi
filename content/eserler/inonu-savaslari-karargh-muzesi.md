@@ -1,18 +1,17 @@
 ---
-title: "İnönü Savaşları Karargâh Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:18+03:00
+title: "İnönü Savaşları Karargâh Müzesi"
+date: "2025-12-25T03:24:18+03:00"
 slug: "inonu-savaslari-karargh-muzesi"
 description: "### İnönü Savaşları Karargâh Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.14388889,39.81472222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İnönü Savaşları Karargâh Müzesi

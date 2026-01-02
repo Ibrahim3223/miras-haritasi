@@ -1,18 +1,17 @@
 ---
-title: "Side Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:46+03:00
+title: "Side Antik Tiyatrosu"
+date: "2025-12-25T04:14:46+03:00"
 slug: "side-antik-tiyatrosu"
 description: "# Side Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Roman_theatre_at_Side_1.jpg/1200px-Roman_theatre_at_Side_1.jpg"
 province: "Manavgat (ilçe)"
-iller: ["Manavgat (ilçe)"]
+iller: '["Manavgat (ilçe)"]'
 district: "Side"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.3906,36.7679"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Side Antik Tiyatrosu

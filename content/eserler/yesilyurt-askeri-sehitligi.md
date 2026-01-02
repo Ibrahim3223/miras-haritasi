@@ -1,18 +1,17 @@
 ---
-title: "Yeşilyurt Askeri Şehitliği | Miras Haritası"
-date: 2025-12-25T16:02:06+03:00
+title: "Yeşilyurt Askeri Şehitliği"
+date: "2025-12-25T16:02:06+03:00"
 slug: "yesilyurt-askeri-sehitligi"
 description: "**Yeşilyurt Askeri Şehitliği: Malatya'nın Onuruna Yaptırılmış Bir Anıt**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yeşilyurt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.2982407,38.3318443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yeşilyurt Askeri Şehitliği: Malatya'nın Onuruna Yaptırılmış Bir Anıt**

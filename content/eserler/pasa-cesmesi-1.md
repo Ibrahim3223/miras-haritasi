@@ -1,18 +1,17 @@
 ---
-title: "Paşa Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:32:52+03:00
+title: "Paşa Çeşmesi 1"
+date: "2025-12-25T10:32:52+03:00"
 slug: "pasa-cesmesi-1"
 description: "## Paşa Çeşmesi 1: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5498009,37.9763985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Çeşmesi 1: Aydın'ın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Bomonti Gürcü Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T08:45:24+03:00
+title: "Bomonti Gürcü Katolik Kilisesi"
+date: "2025-12-25T08:45:24+03:00"
 slug: "bomonti-gurcu-katolik-kilisesi"
 description: "## Bomonti Gürcü Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Georgian_Catholic_Church_and_Monastery_-_Gürcü_Katolik_Kilisesi,_İstanbul.jpg/1200px-Georgian_Catholic_Church_and_Monastery_-_Gürcü_Katolik_Kilisesi,_İstanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.98277778,41.05861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bomonti Gürcü Katolik Kilisesi

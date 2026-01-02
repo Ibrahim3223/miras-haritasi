@@ -1,18 +1,17 @@
 ---
-title: "Nemrut Dağı | Miras Haritası"
-date: 2025-12-25T06:47:03+03:00
+title: "Nemrut Dağı"
+date: "2025-12-25T06:47:03+03:00"
 slug: "nemrut-dagi"
 description: "## Nemrut Dağı: Antik Çağın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nemrut_Vulcano.jpg/1200px-Nemrut_Vulcano.jpg"
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Kâhta"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "42.24668,38.62257"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Nemrut Dağı: Antik Çağın Gizemi

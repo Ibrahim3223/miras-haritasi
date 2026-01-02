@@ -1,18 +1,17 @@
 ---
-title: "Kavasbaşı Kabri | Miras Haritası"
-date: 2025-12-25T13:30:09+03:00
+title: "Kavasbaşı Kabri"
+date: "2025-12-25T13:30:09+03:00"
 slug: "kavasbasi-kabri"
 description: "## Kavasbaşı Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.937305158,41.027424118"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavasbaşı Kabri

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Şeyh Camii, Nazilli | Miras Haritası"
-date: 2025-12-25T00:25:40+03:00
+title: "Hacı Şeyh Camii, Nazilli"
+date: "2025-12-25T00:25:40+03:00"
 slug: "haci-seyh-camii-nazilli"
 description: "## Hacı Şeyh Camii, Nazilli..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.326889,37.922184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Şeyh Camii, Nazilli

@@ -1,18 +1,17 @@
 ---
-title: "Kalam Mevki Manastırı | Miras Haritası"
-date: 2025-12-25T09:57:01+03:00
+title: "Kalam Mevki Manastırı"
+date: "2025-12-25T09:57:01+03:00"
 slug: "kalam-mevki-manastiri"
 description: "### Kalam Mevki Manastırı: Gökçeada'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.7460003,40.1407013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kalam Mevki Manastırı: Gökçeada'nın Gizli Cenneti

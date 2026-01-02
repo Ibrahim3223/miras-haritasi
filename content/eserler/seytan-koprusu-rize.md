@@ -1,18 +1,17 @@
 ---
-title: "Şeytan Köprüsü, Rize | Miras Haritası"
-date: 2025-12-25T02:05:02+03:00
+title: "Şeytan Köprüsü, Rize"
+date: "2025-12-25T02:05:02+03:00"
 slug: "seytan-koprusu-rize"
 description: "### Şeytan Köprüsü, Rize..."
 featured_image: ""
 province: "Kalkandere"
-iller: ["Kalkandere"]
+iller: '["Kalkandere"]'
 district: "Kalkandere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.453533,40.912883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeytan Köprüsü, Rize

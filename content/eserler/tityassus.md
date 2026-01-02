@@ -1,18 +1,17 @@
 ---
-title: "Tityassus | Miras Haritası"
-date: 2025-12-25T05:17:54+03:00
+title: "Tityassus"
+date: "2025-12-25T05:17:54+03:00"
 slug: "tityassus"
 description: "## Tityassus: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.401349,37.700415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tityassus: Antik Çağın Gizemi

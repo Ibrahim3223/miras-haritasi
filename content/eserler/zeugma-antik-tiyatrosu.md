@@ -1,18 +1,17 @@
 ---
-title: "Zeugma Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:25:44+03:00
+title: "Zeugma Antik Tiyatrosu"
+date: "2025-12-25T08:25:44+03:00"
 slug: "zeugma-antik-tiyatrosu"
 description: "**Zeugma Antik Tiyatrosu: Gaziantep'in Gizli Çehresini Keşfedin**..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Nizip"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.866192,37.056307"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 **Zeugma Antik Tiyatrosu: Gaziantep'in Gizli Çehresini Keşfedin**

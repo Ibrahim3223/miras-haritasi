@@ -1,18 +1,17 @@
 ---
-title: "Bıldırcınköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:31+03:00
+title: "Bıldırcınköy Köprüsü"
+date: "2025-12-25T02:11:31+03:00"
 slug: "bildircinkoy-koprusu"
 description: "### Bıldırcınköy Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.497217,41.007867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bıldırcınköy Köprüsü

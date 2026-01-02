@@ -1,18 +1,17 @@
 ---
-title: "Karabıyık Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:08+03:00
+title: "Karabıyık Köprüsü"
+date: "2025-12-25T02:33:08+03:00"
 slug: "karabiyik-koprusu"
 description: "## Karabıyık Köprüsü..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.0000458,39.5801392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabıyık Köprüsü

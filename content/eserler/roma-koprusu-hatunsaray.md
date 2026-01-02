@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Hatunsaray | Miras Haritası"
-date: 2025-12-25T02:58:00+03:00
+title: "Roma Köprüsü, Hatunsaray"
+date: "2025-12-25T02:58:00+03:00"
 slug: "roma-koprusu-hatunsaray"
 description: "## Roma Köprüsü, Hatunsaray: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.3928249,37.5646383"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Hatunsaray: Konya'nın Tarihi ve Kültürel Mirası

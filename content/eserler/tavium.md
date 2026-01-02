@@ -1,18 +1,17 @@
 ---
-title: "Tavium | Miras Haritası"
-date: 2025-12-25T06:50:01+03:00
+title: "Tavium"
+date: "2025-12-25T06:50:01+03:00"
 slug: "tavium"
 description: "## Tavium: Yozgat'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.5068,39.8589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavium: Yozgat'ın Tarihi Bir Mirası

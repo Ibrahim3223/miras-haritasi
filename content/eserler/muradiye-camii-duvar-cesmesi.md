@@ -1,18 +1,17 @@
 ---
-title: "Muradiye Camii Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:33+03:00
+title: "Muradiye Camii Duvar Çeşmesi"
+date: "2025-12-25T11:43:33+03:00"
 slug: "muradiye-camii-duvar-cesmesi"
 description: "## Muradiye Camii Duvar Çeşmesi..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Muradiye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9989624,41.04879"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muradiye Camii Duvar Çeşmesi

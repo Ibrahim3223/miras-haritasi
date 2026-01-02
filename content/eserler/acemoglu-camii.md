@@ -1,18 +1,17 @@
 ---
-title: "Acemoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:44:09+03:00
+title: "Acemoğlu Camii"
+date: "2025-12-24T22:44:09+03:00"
 slug: "acemoglu-camii"
 description: "## Acemoğlu Camii: Fatih'in Gizli Çehresini Keşfetmek..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Kemalpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.959105,41.012052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acemoğlu Camii: Fatih'in Gizli Çehresini Keşfetmek

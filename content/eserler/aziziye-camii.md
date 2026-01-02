@@ -1,18 +1,17 @@
 ---
-title: "Aziziye Camii | Miras Haritası"
-date: 2025-12-24T21:51:20+03:00
+title: "Aziziye Camii"
+date: "2025-12-24T21:51:20+03:00"
 slug: "aziziye-camii"
 description: "**Aziziye Camii: Konya'nın Tarihi Bir Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Aziziye_Mosque,_Konya,_Turkey.jpg/1200px-Aziziye_Mosque,_Konya,_Turkey.jpg"
-province: "Konya Vilayeti"
-iller: ["Konya Vilayeti"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: "Konya Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.500777777,37.869944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Aziziye Camii: Konya'nın Tarihi Bir Mirası**

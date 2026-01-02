@@ -1,18 +1,17 @@
 ---
-title: "Haydarpaşa Lisesi Saat Kuleleri | Miras Haritası"
-date: 2025-12-25T17:22:10+03:00
+title: "Haydarpaşa Lisesi Saat Kuleleri"
+date: "2025-12-25T17:22:10+03:00"
 slug: "haydarpasa-lisesi-saat-kuleleri"
 description: "### Haydarpaşa Lisesi Saat Kuleleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "29.0199413,41.0041313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haydarpaşa Lisesi Saat Kuleleri

@@ -1,18 +1,17 @@
 ---
-title: "Sarnıçgediği Kalesi | Miras Haritası"
-date: 2025-12-25T01:18:52+03:00
+title: "Sarnıçgediği Kalesi"
+date: "2025-12-25T01:18:52+03:00"
 slug: "sarnicgedigi-kalesi"
 description: "## Sarnıçgediği Kalesi: Aydın'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.7441006,37.6470985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarnıçgediği Kalesi: Aydın'ın Gizli Hazinesi

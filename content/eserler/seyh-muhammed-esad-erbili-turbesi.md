@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhammed Esad Erbili Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:20+03:00
+title: "Şeyh Muhammed Esad Erbili Türbesi"
+date: "2025-12-25T15:00:20+03:00"
 slug: "seyh-muhammed-esad-erbili-turbesi"
 description: "**Şeyh Muhammed Esad Erbili Türbesi**..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: ["Menemen (ilçe)"]
+iller: '["Menemen (ilçe)"]'
 district: "Menemen"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.0685463,38.6031265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Muhammed Esad Erbili Türbesi**

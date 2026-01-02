@@ -1,18 +1,17 @@
 ---
-title: "Görele Kemençe Müzesi | Miras Haritası"
-date: 2025-12-25T03:42:06+03:00
+title: "Görele Kemençe Müzesi"
+date: "2025-12-25T03:42:06+03:00"
 slug: "gorele-kemence-muzesi"
 description: "## Görele Kemençe Müzesi: Görele'nin Kültür İçi Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.9996109,41.0367661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Görele Kemençe Müzesi: Görele'nin Kültür İçi Cenneti

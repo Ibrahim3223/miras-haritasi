@@ -1,18 +1,17 @@
 ---
-title: "Tahir Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:24:08+03:00
+title: "Tahir Ağa Camii"
+date: "2025-12-24T23:24:08+03:00"
 slug: "tahir-aga-camii"
 description: "## Tahir Ağa Camii: Fatih'te Bir Kent Tarihçesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.955351,41.023611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahir Ağa Camii: Fatih'te Bir Kent Tarihçesi

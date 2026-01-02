@@ -1,18 +1,17 @@
 ---
-title: "Tabip Hasan Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:11:44+03:00
+title: "Tabip Hasan Paşa Camii"
+date: "2025-12-24T23:11:44+03:00"
 slug: "tabip-hasan-pasa-camii"
 description: "## Tabip Hasan Paşa Camii..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3795776,40.1490631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabip Hasan Paşa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Portaitissa Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:03+03:00
+title: "Portaitissa Kilisesi"
+date: "2025-12-25T09:33:03+03:00"
 slug: "portaitissa-kilisesi"
 description: "## Portaitissa Kilisesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.6974277,39.3252411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Portaitissa Kilisesi

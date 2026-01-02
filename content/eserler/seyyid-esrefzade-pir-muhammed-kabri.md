@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Eşrefzade Pir Muhammed Kabri | Miras Haritası"
-date: 2025-12-25T13:34:39+03:00
+title: "Seyyid Eşrefzade Pir Muhammed Kabri"
+date: "2025-12-25T13:34:39+03:00"
 slug: "seyyid-esrefzade-pir-muhammed-kabri"
 description: "## Seyyid Eşrefzade Pir Muhammed Kabri: Fatih'in Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.957532,41.019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Eşrefzade Pir Muhammed Kabri: Fatih'in Gizli Mirası

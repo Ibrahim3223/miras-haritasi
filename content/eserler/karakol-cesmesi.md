@@ -1,18 +1,17 @@
 ---
-title: "Karakol Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:32+03:00
+title: "Karakol Çeşmesi"
+date: "2025-12-25T10:29:32+03:00"
 slug: "karakol-cesmesi"
 description: "## Karakol Çeşmesi: Aydın'ın Yüzyıllık Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Köşk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0517006,37.8544006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakol Çeşmesi: Aydın'ın Yüzyıllık Tarihi ve Kültürel Mirası

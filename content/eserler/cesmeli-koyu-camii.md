@@ -1,18 +1,17 @@
 ---
-title: "Çeşmeli Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:28:55+03:00
+title: "Çeşmeli Köyü Camii"
+date: "2025-12-24T22:28:55+03:00"
 slug: "cesmeli-koyu-camii"
 description: "## Çeşmeli Köyü Camii: Rize'nin Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Rize"
+province: "Rize"
+iller: '["Rize"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.7249031,41.0105553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşmeli Köyü Camii: Rize'nin Gizli Cenneti

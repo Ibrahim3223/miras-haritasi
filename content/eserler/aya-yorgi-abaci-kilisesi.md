@@ -1,18 +1,17 @@
 ---
-title: "Aya Yorgi Abacı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:57+03:00
+title: "Aya Yorgi Abacı Kilisesi"
+date: "2025-12-25T09:04:57+03:00"
 slug: "aya-yorgi-abaci-kilisesi"
 description: "**Aya Yorgi Abacı Kilisesi: Bir Azizin Adına İnşa Edilen Tarihî Bir Çan Kulesi**..."
 featured_image: ""
 province: "Ayvalık (ilçe)"
-iller: ["Ayvalık (ilçe)"]
+iller: '["Ayvalık (ilçe)"]'
 district: "Küçükköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.709416666,39.301805555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Aya Yorgi Abacı Kilisesi: Bir Azizin Adına İnşa Edilen Tarihî Bir Çan Kulesi**

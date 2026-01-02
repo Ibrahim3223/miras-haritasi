@@ -1,18 +1,17 @@
 ---
-title: "Yeni Bezzaz Camii | Miras Haritası"
-date: 2025-12-24T23:46:12+03:00
+title: "Yeni Bezzaz Camii"
+date: "2025-12-24T23:46:12+03:00"
 slug: "yeni-bezzaz-camii"
 description: "## Yeni Bezzaz Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0636997,40.1866875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Bezzaz Camii

@@ -1,18 +1,17 @@
 ---
-title: "Pir Aziz Camii | Miras Haritası"
-date: 2025-12-24T22:40:45+03:00
+title: "Pir Aziz Camii"
+date: "2025-12-24T22:40:45+03:00"
 slug: "pir-aziz-camii"
 description: "## Pir Aziz Camii: Giresun'un Tarihi Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Piraziz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.1232338,40.9216957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pir Aziz Camii: Giresun'un Tarihi Mirası

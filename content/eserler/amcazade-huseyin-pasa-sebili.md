@@ -1,18 +1,17 @@
 ---
-title: "Amcazade Hüseyin Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:06:27+03:00
+title: "Amcazade Hüseyin Paşa Sebili"
+date: "2025-12-25T13:06:27+03:00"
 slug: "amcazade-huseyin-pasa-sebili"
 description: "**Amcazade Hüseyin Paşa Sebili**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9524406,41.0153758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Amcazade Hüseyin Paşa Sebili**

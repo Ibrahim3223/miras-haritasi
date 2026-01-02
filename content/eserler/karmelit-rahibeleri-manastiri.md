@@ -1,18 +1,17 @@
 ---
-title: "Karmelit Rahibeleri Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:08+03:00
+title: "Karmelit Rahibeleri Manastırı"
+date: "2025-12-25T09:55:08+03:00"
 slug: "karmelit-rahibeleri-manastiri"
 description: "## Karmelit Rahibeleri Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.0300179,40.9818115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karmelit Rahibeleri Manastırı

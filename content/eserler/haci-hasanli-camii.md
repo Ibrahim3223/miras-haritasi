@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hasanlı Camii | Miras Haritası"
-date: 2025-12-24T23:30:08+03:00
+title: "Hacı Hasanlı Camii"
+date: "2025-12-24T23:30:08+03:00"
 slug: "haci-hasanli-camii"
 description: "## Hacı Hasanlı Camii: Aksaray'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.031105,38.3756027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hasanlı Camii: Aksaray'ın Tarihi Bir Mirası

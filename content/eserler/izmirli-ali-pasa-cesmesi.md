@@ -1,18 +1,17 @@
 ---
-title: "İzmirli Ali Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:50+03:00
+title: "İzmirli Ali Paşa Çeşmesi"
+date: "2025-12-25T11:05:50+03:00"
 slug: "izmirli-ali-pasa-cesmesi"
 description: "## İzmirli Ali Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/İzmirli_Ali_Paşa_Çeşmesi.jpg/1200px-İzmirli_Ali_Paşa_Çeşmesi.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Aziz Mahmut Hüdayi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.011832,41.019204"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İzmirli Ali Paşa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Sislioba Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:47:46+03:00
+title: "Sislioba Kalesi, Kırklareli"
+date: "2025-12-25T01:47:46+03:00"
 slug: "sislioba-kalesi-kirklareli"
 description: "## Sislioba Kalesi: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.9159298,41.9618721"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sislioba Kalesi: Kırklareli'nin Gizli Mirası

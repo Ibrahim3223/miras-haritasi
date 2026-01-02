@@ -1,18 +1,17 @@
 ---
-title: "Seleukia | Miras Haritası"
-date: 2025-12-25T04:18:16+03:00
+title: "Seleukia"
+date: "2025-12-25T04:18:16+03:00"
 slug: "seleukia"
 description: "## Seleukia: Antik Çağın Efsanevi Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Seleukia(Turkey)2012.jpg/1200px-Seleukia(Turkey)2012.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.47555278,36.873725"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Seleukia: Antik Çağın Efsanevi Kenti

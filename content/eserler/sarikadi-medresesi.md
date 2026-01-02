@@ -1,18 +1,17 @@
 ---
-title: "Sarıkadı Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:20+03:00
+title: "Sarıkadı Medresesi"
+date: "2025-12-25T17:37:20+03:00"
 slug: "sarikadi-medresesi"
 description: "## Sarıkadı Medresesi: Ankara'nın Değerli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "32.8665771,39.9313774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıkadı Medresesi: Ankara'nın Değerli Mirası

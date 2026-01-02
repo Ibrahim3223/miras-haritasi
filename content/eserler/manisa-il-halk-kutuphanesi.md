@@ -1,18 +1,17 @@
 ---
-title: "Manisa İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:53:12+03:00
+title: "Manisa İl Halk Kütüphanesi"
+date: "2025-12-25T17:53:12+03:00"
 slug: "manisa-il-halk-kutuphanesi"
 description: "### Manisa İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.4319057,38.6160164"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Manisa İl Halk Kütüphanesi

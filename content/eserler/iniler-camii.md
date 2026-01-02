@@ -1,18 +1,17 @@
 ---
-title: "İniler Camii | Miras Haritası"
-date: 2025-12-25T00:22:17+03:00
+title: "İniler Camii"
+date: "2025-12-25T00:22:17+03:00"
 slug: "iniler-camii"
 description: "### İniler Camii Tanıtımı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.48968786,38.360053424"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İniler Camii Tanıtımı

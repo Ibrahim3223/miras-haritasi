@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Gazi Camii | Miras Haritası"
-date: 2025-12-24T22:02:43+03:00
+title: "Ahmet Gazi Camii"
+date: "2025-12-24T22:02:43+03:00"
 slug: "ahmet-gazi-camii"
 description: "## Ahmet Gazi Camii: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.065944444,37.539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Gazi Camii: Aydın'ın Tarihi Bir Mirası

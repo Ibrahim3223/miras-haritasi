@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü Kent Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:39:03+03:00
+title: "Taşköprü Kent Tarihi Müzesi"
+date: "2025-12-25T03:39:03+03:00"
 slug: "taskopru-kent-tarihi-muzesi"
 description: "## Taşköprü Kent Tarihi Müzesi: Kastamonu'nun Gizli Çehresi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Taşköprü"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.220108,41.5089226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşköprü Kent Tarihi Müzesi: Kastamonu'nun Gizli Çehresi

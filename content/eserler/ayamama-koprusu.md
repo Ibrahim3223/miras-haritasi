@@ -1,18 +1,17 @@
 ---
-title: "Ayamama Köprüsü | Miras Haritası"
-date: 2025-12-25T02:06:35+03:00
+title: "Ayamama Köprüsü"
+date: "2025-12-25T02:06:35+03:00"
 slug: "ayamama-koprusu"
 description: "### Ayamama Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.836585,40.986969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayamama Köprüsü

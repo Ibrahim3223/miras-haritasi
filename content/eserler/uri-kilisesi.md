@@ -1,18 +1,17 @@
 ---
-title: "Uri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:05:34+03:00
+title: "Uri Kilisesi"
+date: "2025-12-25T09:05:34+03:00"
 slug: "uri-kilisesi"
 description: "## Uri Kilisesi: Ardahan'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Altaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.873083333,41.161466666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uri Kilisesi: Ardahan'ın Gizli Kahramanı

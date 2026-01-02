@@ -1,18 +1,17 @@
 ---
-title: "Yusuftepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:04:39+03:00
+title: "Yusuftepe Höyüğü"
+date: "2025-12-25T06:04:39+03:00"
 slug: "yusuftepe-hoyugu"
 description: "## Yusuftepe Höyüğü: Manisa'nın Gizli Tarihi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.681654,38.6116219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuftepe Höyüğü: Manisa'nın Gizli Tarihi

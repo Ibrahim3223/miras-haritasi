@@ -1,18 +1,17 @@
 ---
-title: "Armutlu Tümülüs 2, Arguvan | Miras Haritası"
-date: 2025-12-25T07:33:18+03:00
+title: "Armutlu Tümülüs 2, Arguvan"
+date: "2025-12-25T07:33:18+03:00"
 slug: "armutlu-tumulus-2-arguvan"
 description: "## Armutlu Tümülüs 2, Arguvan: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1488495,38.8465385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Armutlu Tümülüs 2, Arguvan: Malatya'nın Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Georgia Turkey border crossing #1882 | Miras Haritası"
-date: 2025-12-25T08:35:20+03:00
+title: "Georgia Turkey border crossing #1882"
+date: "2025-12-25T08:35:20+03:00"
 slug: "georgia-turkey-border-crossing-1882"
 description: "## Georgia-Türkiye Sınır Kapısı #1882 Kervansarayı: Tarihi Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "41.557516492,41.519849021"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Georgia-Türkiye Sınır Kapısı #1882 Kervansarayı: Tarihi Mirasın Gizemi

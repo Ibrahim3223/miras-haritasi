@@ -1,18 +1,17 @@
 ---
-title: "Narlıkapı Surp Hovhannes Kilisesi | Miras Haritası"
-date: 2025-12-25T08:49:50+03:00
+title: "Narlıkapı Surp Hovhannes Kilisesi"
+date: "2025-12-25T08:49:50+03:00"
 slug: "narlikapi-surp-hovhannes-kilisesi"
 description: "# Narlıkapı Surp Hovhannes Kilisesi: İstanbul'un Gizli Çarpısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Narlıkapı_Surp_Hovhannes_Kilisesi,_Fatih,_İstanbul_2025.jpg/1200px-Narlıkapı_Surp_Hovhannes_Kilisesi,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.929765,40.994735"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Narlıkapı Surp Hovhannes Kilisesi: İstanbul'un Gizli Çarpısı

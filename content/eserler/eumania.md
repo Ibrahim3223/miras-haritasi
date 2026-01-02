@@ -1,18 +1,17 @@
 ---
-title: "Eumania | Miras Haritası"
-date: 2025-12-25T04:42:45+03:00
+title: "Eumania"
+date: "2025-12-25T04:42:45+03:00"
 slug: "eumania"
 description: "### Eumania Arkeolojik Sit..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.85059,38.32585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eumania Arkeolojik Sit

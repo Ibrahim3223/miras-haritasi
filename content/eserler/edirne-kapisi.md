@@ -1,18 +1,17 @@
 ---
-title: "Edirne Kapısı | Miras Haritası"
-date: 2025-12-25T13:17:32+03:00
+title: "Edirne Kapısı"
+date: "2025-12-25T13:17:32+03:00"
 slug: "edirne-kapisi"
 description: "## Edirne Kapısı: Karagümrük'te Bir Anıtın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Edirne_Kapısı.jpg/1200px-Edirne_Kapısı.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Karagümrük"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.935419,41.030178"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Edirne Kapısı: Karagümrük'te Bir Anıtın Gizemi

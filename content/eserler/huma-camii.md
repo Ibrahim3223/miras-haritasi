@@ -1,18 +1,17 @@
 ---
-title: "Huma Camii | Miras Haritası"
-date: 2025-12-24T23:36:06+03:00
+title: "Huma Camii"
+date: "2025-12-24T23:36:06+03:00"
 slug: "huma-camii"
 description: "## Huma Camii: Samsun'un Tarihi bir Zenginliği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9157982,41.0433998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Huma Camii: Samsun'un Tarihi bir Zenginliği

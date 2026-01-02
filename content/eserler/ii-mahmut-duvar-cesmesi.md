@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmut Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:23:07+03:00
+title: "II. Mahmut Duvar Çeşmesi"
+date: "2025-12-25T11:23:07+03:00"
 slug: "ii-mahmut-duvar-cesmesi"
 description: "## II. Mahmut Duvar Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/II._Mahmut_Duvar_Çeşmesi_IMG_7529.jpg/1200px-II._Mahmut_Duvar_Çeşmesi_IMG_7529.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.054474,41.10148"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## II. Mahmut Duvar Çeşmesi

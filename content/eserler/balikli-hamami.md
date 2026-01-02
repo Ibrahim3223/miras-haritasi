@@ -1,18 +1,17 @@
 ---
-title: "Balıklı Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:26+03:00
+title: "Balıklı Hamamı"
+date: "2025-12-25T16:29:26+03:00"
 slug: "balikli-hamami"
 description: "### Balıklı Hamamı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9789186,39.4201865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balıklı Hamamı

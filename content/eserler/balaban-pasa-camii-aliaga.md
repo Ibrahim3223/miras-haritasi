@@ -1,18 +1,17 @@
 ---
-title: "Balaban Paşa Camii, Aliağa | Miras Haritası"
-date: 2025-12-25T00:03:38+03:00
+title: "Balaban Paşa Camii, Aliağa"
+date: "2025-12-25T00:03:38+03:00"
 slug: "balaban-pasa-camii-aliaga"
 description: "## Balaban Paşa Camii, Aliağa..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Aliağa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0199203,38.7729568"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balaban Paşa Camii, Aliağa

@@ -1,18 +1,17 @@
 ---
-title: "Mithat Paşa Anıtı | Miras Haritası"
-date: 2025-12-25T15:40:26+03:00
+title: "Mithat Paşa Anıtı"
+date: "2025-12-25T15:40:26+03:00"
 slug: "mithat-pasa-aniti"
 description: "### Mithat Paşa Anıtı: Ankara'nın Tarihi Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Mithat_Paşa_Anıtı.JPG/1200px-Mithat_Paşa_Anıtı.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.853944444,39.938916666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mithat Paşa Anıtı: Ankara'nın Tarihi Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Akçay Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:33+03:00
+title: "Akçay Köprüsü"
+date: "2025-12-25T02:09:33+03:00"
 slug: "akcay-koprusu"
 description: "### Akçay Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.316011,37.807244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçay Köprüsü

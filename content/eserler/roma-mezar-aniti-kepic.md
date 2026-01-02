@@ -1,18 +1,17 @@
 ---
-title: "Roma Mezar Anıtı, Kepiç | Miras Haritası"
-date: 2025-12-25T14:06:17+03:00
+title: "Roma Mezar Anıtı, Kepiç"
+date: "2025-12-25T14:06:17+03:00"
 slug: "roma-mezar-aniti-kepic"
 description: "## Roma Mezar Anıtı, Kepiç..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Felahiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4705009,39.0841408"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Mezar Anıtı, Kepiç

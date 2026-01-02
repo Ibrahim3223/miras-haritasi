@@ -1,18 +1,17 @@
 ---
-title: "TÜRASAŞ Devrim Arabaları Müzesi | Miras Haritası"
-date: 2025-12-25T03:12:08+03:00
+title: "TÜRASAŞ Devrim Arabaları Müzesi"
+date: "2025-12-25T03:12:08+03:00"
 slug: "turasas-devrim-arabalari-muzesi"
 description: "## TÜRASAŞ Devrim Arabaları Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.50527778,39.77611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## TÜRASAŞ Devrim Arabaları Müzesi

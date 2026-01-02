@@ -1,18 +1,17 @@
 ---
-title: "Sırçalı Mescit | Miras Haritası"
-date: 2025-12-24T23:07:25+03:00
+title: "Sırçalı Mescit"
+date: "2025-12-24T23:07:25+03:00"
 slug: "sircali-mescit"
 description: "## Sırçalı Mescit: Konya'nın Değerli Kültür Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5022736,37.8744736"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sırçalı Mescit: Konya'nın Değerli Kültür Mirası

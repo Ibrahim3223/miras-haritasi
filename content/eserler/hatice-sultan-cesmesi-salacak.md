@@ -1,18 +1,17 @@
 ---
-title: "Hatice Sultan Çeşmesi, Salacak | Miras Haritası"
-date: 2025-12-25T11:54:01+03:00
+title: "Hatice Sultan Çeşmesi, Salacak"
+date: "2025-12-25T11:54:01+03:00"
 slug: "hatice-sultan-cesmesi-salacak"
 description: "## Hatice Sultan Çeşmesi, Salacak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Hatice_Sultan_Çeşmesi,_Salacak.jpg/1200px-Hatice_Sultan_Çeşmesi,_Salacak.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.01251,41.014111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hatice Sultan Çeşmesi, Salacak

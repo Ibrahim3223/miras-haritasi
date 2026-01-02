@@ -1,18 +1,17 @@
 ---
-title: "Hacı Sakioğlu Camii | Miras Haritası"
-date: 2025-12-24T23:30:04+03:00
+title: "Hacı Sakioğlu Camii"
+date: "2025-12-24T23:30:04+03:00"
 slug: "haci-sakioglu-camii"
 description: "## Hacı Sakioğlu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4808846,38.7230873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Sakioğlu Camii

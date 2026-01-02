@@ -1,18 +1,17 @@
 ---
-title: "Pelekete manastırı (Tirilye) | Miras Haritası"
-date: 2025-12-25T08:47:25+03:00
+title: "Pelekete manastırı (Tirilye)"
+date: "2025-12-25T08:47:25+03:00"
 slug: "pelekete-manastiri-tirilye"
 description: "## Pelekete Manastırı (Tirilye)..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mudanya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.753327777,40.389436111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pelekete Manastırı (Tirilye)

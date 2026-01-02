@@ -1,18 +1,17 @@
 ---
-title: "Kazanlı Höyük | Miras Haritası"
-date: 2025-12-25T05:59:27+03:00
+title: "Kazanlı Höyük"
+date: "2025-12-25T05:59:27+03:00"
 slug: "kazanli-hoyuk"
 description: "## Kazanlı Höyük: Akdeniz'in Gizli Tarihi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.7383194,36.8352203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazanlı Höyük: Akdeniz'in Gizli Tarihi

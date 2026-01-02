@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Kethüda Çeşmesi, Nişanca | Miras Haritası"
-date: 2025-12-25T12:02:03+03:00
+title: "Mehmet Kethüda Çeşmesi, Nişanca"
+date: "2025-12-25T12:02:03+03:00"
 slug: "mehmet-kethuda-cesmesi-nisanca"
 description: "## Mehmet Kethüda Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9309902,41.0403671"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Kethüda Çeşmesi

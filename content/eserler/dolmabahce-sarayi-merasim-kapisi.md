@@ -1,18 +1,17 @@
 ---
-title: "Dolmabahçe Sarayı Merasim Kapısı | Miras Haritası"
-date: 2025-12-25T15:36:30+03:00
+title: "Dolmabahçe Sarayı Merasim Kapısı"
+date: "2025-12-25T15:36:30+03:00"
 slug: "dolmabahce-sarayi-merasim-kapisi"
 description: "## Dolmabahçe Sarayı Merasim Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dolmabahçe_Sarayı_Merasim_Kapısı_19.05.2022.jpg/1200px-Dolmabahçe_Sarayı_Merasim_Kapısı_19.05.2022.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9984779,41.0391922"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Dolmabahçe Sarayı Merasim Kapısı

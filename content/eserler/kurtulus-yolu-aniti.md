@@ -1,18 +1,17 @@
 ---
-title: "Kurtuluş Yolu Anıtı | Miras Haritası"
-date: 2025-12-25T15:53:18+03:00
+title: "Kurtuluş Yolu Anıtı"
+date: "2025-12-25T15:53:18+03:00"
 slug: "kurtulus-yolu-aniti"
 description: "## Kurtuluş Yolu Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3721237,37.9505234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurtuluş Yolu Anıtı

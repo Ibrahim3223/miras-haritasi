@@ -1,18 +1,17 @@
 ---
-title: "Cerrahbaşı İshak Veli Kabri | Miras Haritası"
-date: 2025-12-25T14:00:00+03:00
+title: "Cerrahbaşı İshak Veli Kabri"
+date: "2025-12-25T14:00:00+03:00"
 slug: "cerrahbasi-ishak-veli-kabri"
 description: "### Cerrahbaşı İshak Veli Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9602032,41.0044746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cerrahbaşı İshak Veli Kabri

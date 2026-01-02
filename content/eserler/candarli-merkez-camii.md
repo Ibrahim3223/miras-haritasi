@@ -1,18 +1,17 @@
 ---
-title: "Çandarlı Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:31:00+03:00
+title: "Çandarlı Merkez Camii"
+date: "2025-12-24T22:31:00+03:00"
 slug: "candarli-merkez-camii"
 description: "# Çandarlı Merkez Camii..."
 featured_image: ""
 province: "Dikili (ilçe)"
-iller: ["Dikili (ilçe)"]
+iller: '["Dikili (ilçe)"]'
 district: "Çandarlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.934588,38.935368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çandarlı Merkez Camii

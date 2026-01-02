@@ -1,18 +1,17 @@
 ---
-title: "Yenimahalle Camii | Miras Haritası"
-date: 2025-12-24T23:47:31+03:00
+title: "Yenimahalle Camii"
+date: "2025-12-24T23:47:31+03:00"
 slug: "yenimahalle-camii"
 description: "## Yenimahalle Camii: Samsun'un Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.8931007,41.2018013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenimahalle Camii: Samsun'un Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Avşar Tepesi | Miras Haritası"
-date: 2025-12-25T08:30:35+03:00
+title: "Avşar Tepesi"
+date: "2025-12-25T08:30:35+03:00"
 slug: "avsar-tepesi"
 description: "**Avşar Tepesi Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.7865,36.2306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Avşar Tepesi Arkeolojik Sit**

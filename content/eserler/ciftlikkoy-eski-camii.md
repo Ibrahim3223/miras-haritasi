@@ -1,18 +1,17 @@
 ---
-title: "Çiftlikköy Eski Camii | Miras Haritası"
-date: 2025-12-24T22:34:44+03:00
+title: "Çiftlikköy Eski Camii"
+date: "2025-12-24T22:34:44+03:00"
 slug: "ciftlikkoy-eski-camii"
 description: "**Çiftlikköy Eski Camii**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.5398064,36.7781219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çiftlikköy Eski Camii**

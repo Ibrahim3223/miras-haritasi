@@ -1,18 +1,17 @@
 ---
-title: "Haron kabartması | Miras Haritası"
-date: 2025-12-25T13:42:23+03:00
+title: "Haron kabartması"
+date: "2025-12-25T13:42:23+03:00"
 slug: "haron-kabartmasi"
 description: "## Haron Kabartması: Antik Çağ'ın Gizemi..."
 featured_image: ""
 province: "Antakya İlçesi"
-iller: ["Antakya İlçesi"]
+iller: '["Antakya İlçesi"]'
 district: "Küçükdalyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.178611111,36.210805555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haron Kabartması: Antik Çağ'ın Gizemi

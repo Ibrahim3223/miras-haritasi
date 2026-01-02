@@ -1,18 +1,17 @@
 ---
-title: "Altıparmak Camii | Miras Haritası"
-date: 2025-12-24T22:08:16+03:00
+title: "Altıparmak Camii"
+date: "2025-12-24T22:08:16+03:00"
 slug: "altiparmak-camii"
 description: "## Altıparmak Camii..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0509777,40.1893158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altıparmak Camii

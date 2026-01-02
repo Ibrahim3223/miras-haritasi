@@ -1,18 +1,17 @@
 ---
-title: "Çerkez İsa Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:56+03:00
+title: "Çerkez İsa Bey Türbesi"
+date: "2025-12-25T15:22:56+03:00"
 slug: "cerkez-isa-bey-turbesi"
 description: "## Çerkez İsa Bey Türbesi..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Çayıralan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.6421127,39.3016586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çerkez İsa Bey Türbesi

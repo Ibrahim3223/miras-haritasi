@@ -1,18 +1,17 @@
 ---
-title: "Kapıağası Medresesi | Miras Haritası"
-date: 2025-12-25T17:38:17+03:00
+title: "Kapıağası Medresesi"
+date: "2025-12-25T17:38:17+03:00"
 slug: "kapiagasi-medresesi"
 description: "### Kapıağası Medresesi: Amasya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.8348808,40.6587219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kapıağası Medresesi: Amasya'nın Tarihi ve Kültürel Mirası

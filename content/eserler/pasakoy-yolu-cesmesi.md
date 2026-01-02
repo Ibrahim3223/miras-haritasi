@@ -1,18 +1,17 @@
 ---
-title: "Paşaköy Yolu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:38+03:00
+title: "Paşaköy Yolu Çeşmesi"
+date: "2025-12-25T10:22:38+03:00"
 slug: "pasakoy-yolu-cesmesi"
 description: "## Paşaköy Yolu Çeşmesi: Ayvacık'taki Tarihi Bir Örnek..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3271294,39.5157356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşaköy Yolu Çeşmesi: Ayvacık'taki Tarihi Bir Örnek

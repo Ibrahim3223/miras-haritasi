@@ -1,18 +1,17 @@
 ---
-title: "Nesturi Koçanis Kilisesi | Miras Haritası"
-date: 2025-12-25T09:09:49+03:00
+title: "Nesturi Koçanis Kilisesi"
+date: "2025-12-25T09:09:49+03:00"
 slug: "nesturi-kocanis-kilisesi"
 description: "## Nesturi Koçanis Kilisesi..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Hakkâri"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.8017464,37.6525002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nesturi Koçanis Kilisesi

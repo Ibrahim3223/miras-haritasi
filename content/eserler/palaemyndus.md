@@ -1,18 +1,17 @@
 ---
-title: "Palaemyndus | Miras Haritası"
-date: 2025-12-25T04:54:57+03:00
+title: "Palaemyndus"
+date: "2025-12-25T04:54:57+03:00"
 slug: "palaemyndus"
 description: "### Palaemyndus: Muğla'nın Gizli Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.259149,37.031449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Palaemyndus: Muğla'nın Gizli Harikası

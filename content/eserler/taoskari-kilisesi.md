@@ -1,18 +1,17 @@
 ---
-title: "Taoskari Kilisesi | Miras Haritası"
-date: 2025-12-25T09:08:55+03:00
+title: "Taoskari Kilisesi"
+date: "2025-12-25T09:08:55+03:00"
 slug: "taoskari-kilisesi"
 description: "# Taoskari Kilisesi..."
 featured_image: ""
 province: "Olur"
-iller: ["Olur"]
+iller: '["Olur"]'
 district: "Çataksu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.943166666,40.817266666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Taoskari Kilisesi

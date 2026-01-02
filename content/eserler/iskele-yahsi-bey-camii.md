@@ -1,18 +1,17 @@
 ---
-title: "İskele Yahşi Bey Camii | Miras Haritası"
-date: 2025-12-24T23:37:58+03:00
+title: "İskele Yahşi Bey Camii"
+date: "2025-12-24T23:37:58+03:00"
 slug: "iskele-yahsi-bey-camii"
 description: "## İskele Yahşi Bey Camii: İzmir'in Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7698879,38.3641396"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskele Yahşi Bey Camii: İzmir'in Tarihi Mirası

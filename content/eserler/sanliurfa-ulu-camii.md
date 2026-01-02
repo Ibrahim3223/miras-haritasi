@@ -1,18 +1,17 @@
 ---
-title: "Şanlıurfa Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:03:58+03:00
+title: "Şanlıurfa Ulu Camii"
+date: "2025-12-24T22:03:58+03:00"
 slug: "sanliurfa-ulu-camii"
 description: "## Şanlıurfa Ulu Camii: Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Urfa_Ulu_Camii_minaret_8945.jpg/1200px-Urfa_Ulu_Camii_minaret_8945.jpg"
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.790131944,37.151346944"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şanlıurfa Ulu Camii: Tarihi ve Kültürel Mirası

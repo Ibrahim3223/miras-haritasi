@@ -1,18 +1,17 @@
 ---
-title: "Taşkın Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:30:19+03:00
+title: "Taşkın Paşa Medresesi"
+date: "2025-12-25T17:30:19+03:00"
 slug: "taskin-pasa-medresesi"
 description: "## Taşkın Paşa Medresesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "34.9498367,38.4953156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşkın Paşa Medresesi

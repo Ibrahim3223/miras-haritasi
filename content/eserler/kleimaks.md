@@ -1,18 +1,17 @@
 ---
-title: "Kleimaks | Miras Haritası"
-date: 2025-12-25T05:07:15+03:00
+title: "Kleimaks"
+date: "2025-12-25T05:07:15+03:00"
 slug: "kleimaks"
 description: "# Kleimaks Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.893729,38.050575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kleimaks Arkeolojik Sit

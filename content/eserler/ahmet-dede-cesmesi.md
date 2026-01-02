@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Dede Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:09+03:00
+title: "Ahmet Dede Çeşmesi"
+date: "2025-12-25T10:33:09+03:00"
 slug: "ahmet-dede-cesmesi"
 description: "## Ahmet Dede Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.930826,40.997181"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Dede Çeşmesi

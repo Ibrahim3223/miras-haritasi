@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Şipka Tepe 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:17+03:00
+title: "Üsküp Şipka Tepe 1 Tümülüsü"
+date: "2025-12-25T07:47:17+03:00"
 slug: "uskup-sipka-tepe-1-tumulusu"
 description: "## Üsküp Şipka Tepe 1 Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4417038,41.7865601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üsküp Şipka Tepe 1 Tümülüsü: Kırklareli'nin Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sinan Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:06+03:00
+title: "Sinan Paşa Camii Çeşmesi"
+date: "2025-12-25T11:19:06+03:00"
 slug: "sinan-pasa-camii-cesmesi"
 description: "## Sinan Paşa Camii Çeşmesi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sinan_Paşa_Camii_Çeşmesi.jpg/1200px-Sinan_Paşa_Camii_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0101662,41.0182686"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sinan Paşa Camii Çeşmesi: Üsküdar'ın Gizli Çeşmesi

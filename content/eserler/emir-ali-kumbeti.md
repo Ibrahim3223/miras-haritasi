@@ -1,18 +1,17 @@
 ---
-title: "Emir Ali Kümbeti | Miras Haritası"
-date: 2025-12-25T14:02:16+03:00
+title: "Emir Ali Kümbeti"
+date: "2025-12-25T14:02:16+03:00"
 slug: "emir-ali-kumbeti"
 description: "## Emir Ali Kümbeti: Ahlat'taki Bir Ölümsüz Anıt..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.4659081,38.7490286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Ali Kümbeti: Ahlat'taki Bir Ölümsüz Anıt

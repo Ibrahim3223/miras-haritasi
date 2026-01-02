@@ -1,18 +1,17 @@
 ---
-title: "Sagalassos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:27+03:00
+title: "Sagalassos Kilisesi"
+date: "2025-12-25T09:26:27+03:00"
 slug: "sagalassos-kilisesi"
 description: "**Sagalassos Kilisesi**..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Ağlasun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.517639,37.675694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sagalassos Kilisesi**

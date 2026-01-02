@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Ahmet İzzet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:39+03:00
+title: "Seyyid Ahmet İzzet Efendi Türbesi"
+date: "2025-12-25T14:25:39+03:00"
 slug: "seyyid-ahmet-izzet-efendi-turbesi"
 description: "## Seyyid Ahmet İzzet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.949,41.0257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Ahmet İzzet Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Yalnızgöz Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:24+03:00
+title: "Yalnızgöz Köprüsü"
+date: "2025-12-25T01:59:24+03:00"
 slug: "yalnizgoz-koprusu"
 description: "**Yalnızgöz Köprüsü: Edirne'nin Tarihî Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Edirne_Yalnizgoz_Bridge.JPG/1200px-Edirne_Yalnizgoz_Bridge.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.5466,41.6828"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Yalnızgöz Köprüsü: Edirne'nin Tarihî Mirası**

@@ -1,18 +1,17 @@
 ---
-title: "Kvabi Sarayı | Miras Haritası"
-date: 2025-12-25T13:11:55+03:00
+title: "Kvabi Sarayı"
+date: "2025-12-25T13:11:55+03:00"
 slug: "kvabi-sarayi"
 description: "## Kvabi Sarayı: Erzurum'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Şenkaya"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "42.265333333,40.555527777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kvabi Sarayı: Erzurum'un Tarihi Bir Mirası

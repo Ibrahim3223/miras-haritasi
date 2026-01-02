@@ -1,18 +1,17 @@
 ---
-title: "Yunuslar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:59+03:00
+title: "Yunuslar Köprüsü"
+date: "2025-12-25T02:41:59+03:00"
 slug: "yunuslar-koprusu"
 description: "### Yunuslar Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.922903207,37.905434932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yunuslar Köprüsü

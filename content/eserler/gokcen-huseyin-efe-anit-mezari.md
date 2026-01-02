@@ -1,18 +1,17 @@
 ---
-title: "Gökçen Hüseyin Efe Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:02:43+03:00
+title: "Gökçen Hüseyin Efe Anıt Mezarı"
+date: "2025-12-25T14:02:43+03:00"
 slug: "gokcen-huseyin-efe-anit-mezari"
 description: "## Gökçen Hüseyin Efe Anıt Mezarı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.107233,38.1688423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökçen Hüseyin Efe Anıt Mezarı

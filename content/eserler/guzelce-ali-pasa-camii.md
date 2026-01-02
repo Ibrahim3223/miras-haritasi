@@ -1,18 +1,17 @@
 ---
-title: "Güzelce Ali Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:54:10+03:00
+title: "Güzelce Ali Paşa Camii"
+date: "2025-12-24T22:54:10+03:00"
 slug: "guzelce-ali-pasa-camii"
 description: "### Güzelce Ali Paşa Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0635052,41.1174278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güzelce Ali Paşa Camii: İstanbul'un Gizli Cenneti

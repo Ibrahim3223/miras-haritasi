@@ -1,18 +1,17 @@
 ---
-title: "Eflaki Dede Türbesi | Miras Haritası"
-date: 2025-12-25T16:08:56+03:00
+title: "Eflaki Dede Türbesi"
+date: "2025-12-25T16:08:56+03:00"
 slug: "eflaki-dede-turbesi"
 description: "## Eflaki Dede Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Eflaki_Dede_Trbesi_2025-10-24_1761321778.jpg/1200px-Eflaki_Dede_Trbesi_2025-10-24_1761321778.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5054169,37.8707657"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eflaki Dede Türbesi

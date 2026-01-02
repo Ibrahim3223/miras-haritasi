@@ -1,18 +1,17 @@
 ---
-title: "Termessos Agathemeros Mezarı | Miras Haritası"
-date: 2025-12-25T14:03:53+03:00
+title: "Termessos Agathemeros Mezarı"
+date: "2025-12-25T14:03:53+03:00"
 slug: "termessos-agathemeros-mezari"
 description: "## Termessos Agathemeros Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.462612,36.981277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Termessos Agathemeros Mezarı

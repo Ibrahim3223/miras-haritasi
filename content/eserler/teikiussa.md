@@ -1,18 +1,17 @@
 ---
-title: "Teikiussa | Miras Haritası"
-date: 2025-12-25T04:53:45+03:00
+title: "Teikiussa"
+date: "2025-12-25T04:53:45+03:00"
 slug: "teikiussa"
 description: "## Teikiussa: İyonya'nın Gizemli Şehri..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.457993,37.353179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Teikiussa: İyonya'nın Gizemli Şehri

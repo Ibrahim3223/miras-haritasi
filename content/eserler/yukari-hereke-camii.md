@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Hereke Camii | Miras Haritası"
-date: 2025-12-24T23:45:40+03:00
+title: "Yukarı Hereke Camii"
+date: "2025-12-24T23:45:40+03:00"
 slug: "yukari-hereke-camii"
 description: "### Yukarı Hereke Camii: Kocaeli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.6437035,40.7998505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yukarı Hereke Camii: Kocaeli'nin Tarihi ve Kültürel Mirası

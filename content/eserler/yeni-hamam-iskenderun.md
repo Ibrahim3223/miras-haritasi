@@ -1,18 +1,17 @@
 ---
-title: "Yeni Hamam, İskenderun | Miras Haritası"
-date: 2025-12-25T17:05:19+03:00
+title: "Yeni Hamam, İskenderun"
+date: "2025-12-25T17:05:19+03:00"
 slug: "yeni-hamam-iskenderun"
 description: "## Yeni Hamam, İskenderun..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "İskenderun"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.1707268,36.5889893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Hamam, İskenderun

@@ -1,18 +1,17 @@
 ---
-title: "Konstantinopolis Büyük Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:12:55+03:00
+title: "Konstantinopolis Büyük Tiyatrosu"
+date: "2025-12-25T04:12:55+03:00"
 slug: "konstantinopolis-buyuk-tiyatrosu"
 description: "## Konstantinopolis Büyük Tiyatrosu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.9852428,41.0120583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Konstantinopolis Büyük Tiyatrosu

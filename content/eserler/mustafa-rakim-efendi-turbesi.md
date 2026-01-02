@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Rakım Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:56+03:00
+title: "Mustafa Rakım Efendi Türbesi"
+date: "2025-12-25T14:38:56+03:00"
 slug: "mustafa-rakim-efendi-turbesi"
 description: "## Mustafa Rakım Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mustafa_Rakım_Efendi_Türbesi.jpg/1200px-Mustafa_Rakım_Efendi_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.941375,41.02515"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mustafa Rakım Efendi Türbesi

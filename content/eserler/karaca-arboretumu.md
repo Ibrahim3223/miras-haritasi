@@ -1,18 +1,17 @@
 ---
-title: "Karaca Arboretumu | Miras Haritası"
-date: 2025-12-25T03:53:28+03:00
+title: "Karaca Arboretumu"
+date: "2025-12-25T03:53:28+03:00"
 slug: "karaca-arboretumu"
 description: "## Karaca Arboretumu: Yalova'da Doğanın Müzesi..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Yalova"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.2247639,40.6341057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaca Arboretumu: Yalova'da Doğanın Müzesi

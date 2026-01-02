@@ -1,18 +1,17 @@
 ---
-title: "Kula Kenan Evren Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:43+03:00
+title: "Kula Kenan Evren Etnografya Müzesi"
+date: "2025-12-25T03:58:43+03:00"
 slug: "kula-kenan-evren-etnografya-muzesi"
 description: "## Kula Kenan Evren Etnografya Müzesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.649721,38.54889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kula Kenan Evren Etnografya Müzesi

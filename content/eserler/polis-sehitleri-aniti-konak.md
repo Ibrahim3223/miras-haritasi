@@ -1,18 +1,17 @@
 ---
-title: "Polis Şehitleri Anıtı, Konak | Miras Haritası"
-date: 2025-12-25T15:57:28+03:00
+title: "Polis Şehitleri Anıtı, Konak"
+date: "2025-12-25T15:57:28+03:00"
 slug: "polis-sehitleri-aniti-konak"
 description: "## Polis Şehitleri Anıtı, Konak..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1482811,38.4193382"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Polis Şehitleri Anıtı, Konak

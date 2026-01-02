@@ -1,18 +1,17 @@
 ---
-title: "Bahremşah Hamamı | Miras Haritası"
-date: 2025-12-25T16:44:19+03:00
+title: "Bahremşah Hamamı"
+date: "2025-12-25T16:44:19+03:00"
 slug: "bahremsah-hamami"
 description: "## Bahremşah Hamamı: Divriği'nin Gizli Şeytanı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.1205597,39.3715591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahremşah Hamamı: Divriği'nin Gizli Şeytanı

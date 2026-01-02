@@ -1,18 +1,17 @@
 ---
-title: "Zonguldak Maden Müzesi | Miras Haritası"
-date: 2025-12-25T03:42:43+03:00
+title: "Zonguldak Maden Müzesi"
+date: "2025-12-25T03:42:43+03:00"
 slug: "zonguldak-maden-muzesi"
 description: "## Zonguldak Maden Müzesi..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Zonguldak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.798962,41.456073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zonguldak Maden Müzesi

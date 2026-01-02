@@ -1,18 +1,17 @@
 ---
-title: "Sadrazam Halil Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:09:23+03:00
+title: "Sadrazam Halil Paşa Çeşmesi"
+date: "2025-12-25T10:09:23+03:00"
 slug: "sadrazam-halil-pasa-cesmesi"
 description: "## Sadrazam Halil Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sadrazam_Halil_Paşa_Fountain.jpg/1200px-Sadrazam_Halil_Paşa_Fountain.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.015190269,41.021773658"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sadrazam Halil Paşa Çeşmesi

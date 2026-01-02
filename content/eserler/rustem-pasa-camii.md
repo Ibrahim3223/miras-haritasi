@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Paşa Camii | Miras Haritası"
-date: 2025-12-24T20:38:04+03:00
+title: "Rüstem Paşa Camii"
+date: "2025-12-24T20:38:04+03:00"
 slug: "rustem-pasa-camii"
 description: "# Rüstem Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rüstem_Pasha_Mosque_in_2024_5321.jpg/1200px-Rüstem_Pasha_Mosque_in_2024_5321.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Tahtakale"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.96874786,41.01759104"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Rüstem Paşa Camii

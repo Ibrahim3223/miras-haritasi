@@ -1,18 +1,17 @@
 ---
-title: "Darıca Camii | Miras Haritası"
-date: 2025-12-25T01:02:56+03:00
+title: "Darıca Camii"
+date: "2025-12-25T01:02:56+03:00"
 slug: "darica-camii"
 description: "## Darıca Camii: Tarihi ve Kültürel Mirasın Parçalarından Biri..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7952,40.7322"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darıca Camii: Tarihi ve Kültürel Mirasın Parçalarından Biri

@@ -1,18 +1,17 @@
 ---
-title: "Tepebağlar Höyük | Miras Haritası"
-date: 2025-12-25T05:44:26+03:00
+title: "Tepebağlar Höyük"
+date: "2025-12-25T05:44:26+03:00"
 slug: "tepebaglar-hoyuk"
 description: "## Tepebağlar Höyük: Manisa'nın Gizli Ödülleri..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.694683,38.8569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepebağlar Höyük: Manisa'nın Gizli Ödülleri

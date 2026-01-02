@@ -1,18 +1,17 @@
 ---
-title: "İviktepe | Miras Haritası"
-date: 2025-12-25T06:19:27+03:00
+title: "İviktepe"
+date: "2025-12-25T06:19:27+03:00"
 slug: "iviktepe"
 description: "## İviktepe: Sivas'ta Eski Çağların İzleri..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9111764,39.607703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İviktepe: Sivas'ta Eski Çağların İzleri

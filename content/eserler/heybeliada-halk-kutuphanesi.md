@@ -1,18 +1,17 @@
 ---
-title: "Heybeliada Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:53:43+03:00
+title: "Heybeliada Halk Kütüphanesi"
+date: "2025-12-25T17:53:43+03:00"
 slug: "heybeliada-halk-kutuphanesi"
 description: "# Heybeliada Halk Kütüphanesi: İstanbul'un Adalar Bölgesi'ndeki Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.0953255,40.8777924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Heybeliada Halk Kütüphanesi: İstanbul'un Adalar Bölgesi'ndeki Kültür Mirası

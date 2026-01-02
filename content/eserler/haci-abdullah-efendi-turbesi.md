@@ -1,18 +1,17 @@
 ---
-title: "Hacı Abdullah Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:36:27+03:00
+title: "Hacı Abdullah Efendi Türbesi"
+date: "2025-12-25T14:36:27+03:00"
 slug: "haci-abdullah-efendi-turbesi"
 description: "## Hacı Abdullah Efendi Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.84629,37.417582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Abdullah Efendi Türbesi

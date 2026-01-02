@@ -1,18 +1,17 @@
 ---
-title: "Florya Model Uçak Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:26+03:00
+title: "Florya Model Uçak Müzesi"
+date: "2025-12-25T04:03:26+03:00"
 slug: "florya-model-ucak-muzesi"
 description: "## Florya Model Uçak Müzesi: Türkiye'nin Uçuş Tarihine Adanmış Bir Müze..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.804886345,40.97436281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Florya Model Uçak Müzesi: Türkiye'nin Uçuş Tarihine Adanmış Bir Müze

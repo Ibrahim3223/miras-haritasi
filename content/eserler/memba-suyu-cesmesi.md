@@ -1,18 +1,17 @@
 ---
-title: "Memba Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:39+03:00
+title: "Memba Suyu Çeşmesi"
+date: "2025-12-25T11:21:39+03:00"
 slug: "memba-suyu-cesmesi"
 description: "# Memba Suyu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Memba_Suyu_Çeşmesi_IMG_1010.jpg/1200px-Memba_Suyu_Çeşmesi_IMG_1010.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Sütlüce"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.941306,41.048919"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Memba Suyu Çeşmesi

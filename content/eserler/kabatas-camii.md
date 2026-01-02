@@ -1,18 +1,17 @@
 ---
-title: "Kabataş Camii | Miras Haritası"
-date: 2025-12-24T23:37:46+03:00
+title: "Kabataş Camii"
+date: "2025-12-24T23:37:46+03:00"
 slug: "kabatas-camii"
 description: "# Kabataş Camii: Trabzon'un Tarihî Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Çaykara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2645988,40.7619019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kabataş Camii: Trabzon'un Tarihî Mirası

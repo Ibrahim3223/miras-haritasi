@@ -1,18 +1,17 @@
 ---
-title: "Hadım İbrahim Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:51+03:00
+title: "Hadım İbrahim Paşa Çeşmesi"
+date: "2025-12-25T11:10:51+03:00"
 slug: "hadim-ibrahim-pasa-cesmesi"
 description: "## Hadım İbrahim Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hadım_İbrahim_Paşa_Çeşmesi,_Fatih,_İstanbul_2025.jpg/1200px-Hadım_İbrahim_Paşa_Çeşmesi,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.922786,41.006326"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hadım İbrahim Paşa Çeşmesi

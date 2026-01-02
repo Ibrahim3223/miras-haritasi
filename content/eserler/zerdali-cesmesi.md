@@ -1,18 +1,17 @@
 ---
-title: "Zerdali Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:19+03:00
+title: "Zerdali Çeşmesi"
+date: "2025-12-25T10:28:19+03:00"
 slug: "zerdali-cesmesi"
 description: "### Zerdali Çeşmesi: Aydın'ın Tarihini Ebediyen Koruyan Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6035995,37.7224998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zerdali Çeşmesi: Aydın'ın Tarihini Ebediyen Koruyan Bir Çeşme

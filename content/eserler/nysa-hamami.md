@@ -1,18 +1,17 @@
 ---
-title: "Nysa Hamamı | Miras Haritası"
-date: 2025-12-25T16:57:28+03:00
+title: "Nysa Hamamı"
+date: "2025-12-25T16:57:28+03:00"
 slug: "nysa-hamami"
 description: "### Nysa Hamamı: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.1436157,37.899334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nysa Hamamı: Aydın'ın Tarihi Bir Mirası

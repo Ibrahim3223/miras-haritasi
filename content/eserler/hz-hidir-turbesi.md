@@ -1,18 +1,17 @@
 ---
-title: "Hz. Hıdır Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:51+03:00
+title: "Hz. Hıdır Türbesi"
+date: "2025-12-25T15:25:51+03:00"
 slug: "hz-hidir-turbesi"
 description: "## Hz. Hıdır Türbesi: Mersin'in Gizli Çehresinde Bir Keşif..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Toroslar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6084404,36.8054733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hz. Hıdır Türbesi: Mersin'in Gizli Çehresinde Bir Keşif

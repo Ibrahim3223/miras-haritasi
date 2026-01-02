@@ -1,18 +1,17 @@
 ---
-title: "Ortigia (İyonya) | Miras Haritası"
-date: 2025-12-25T04:54:34+03:00
+title: "Ortigia (İyonya)"
+date: "2025-12-25T04:54:34+03:00"
 slug: "ortigia-iyonya"
 description: "## Ortigia (İyonya): İyonya'nın Efsanevi Kenti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.339225,37.829783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortigia (İyonya): İyonya'nın Efsanevi Kenti

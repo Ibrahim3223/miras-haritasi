@@ -1,18 +1,17 @@
 ---
-title: "Karahan Kalesi, İspir | Miras Haritası"
-date: 2025-12-25T01:40:04+03:00
+title: "Karahan Kalesi, İspir"
+date: "2025-12-25T01:40:04+03:00"
 slug: "karahan-kalesi-ispir"
 description: "## Karahan Kalesi: İspir'deki Tarihî Bir Miras..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "İspir"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.0189438,40.3774796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karahan Kalesi: İspir'deki Tarihî Bir Miras

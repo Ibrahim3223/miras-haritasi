@@ -1,18 +1,17 @@
 ---
-title: "Paşayaylası Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:59+03:00
+title: "Paşayaylası Çeşmesi"
+date: "2025-12-25T10:24:59+03:00"
 slug: "pasayaylasi-cesmesi"
 description: "## Paşayaylası Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8918991,37.9431"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşayaylası Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi

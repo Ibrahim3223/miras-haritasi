@@ -1,18 +1,17 @@
 ---
-title: "Akçapınar Camii | Miras Haritası"
-date: 2025-12-25T00:12:05+03:00
+title: "Akçapınar Camii"
+date: "2025-12-25T00:12:05+03:00"
 slug: "akcapinar-camii"
 description: "### Akçapınar Camii: Serik'te Birinci Sınıf Cami..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.905866,37.148826"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçapınar Camii: Serik'te Birinci Sınıf Cami

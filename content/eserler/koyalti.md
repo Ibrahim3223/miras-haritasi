@@ -1,18 +1,17 @@
 ---
-title: "Köyaltı | Miras Haritası"
-date: 2025-12-25T05:32:10+03:00
+title: "Köyaltı"
+date: "2025-12-25T05:32:10+03:00"
 slug: "koyalti"
 description: "## Köyaltı Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.078367,38.511883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köyaltı Arkeolojik Sit

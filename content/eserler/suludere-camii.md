@@ -1,18 +1,17 @@
 ---
-title: "Suludere Camii | Miras Haritası"
-date: 2025-12-24T23:09:46+03:00
+title: "Suludere Camii"
+date: "2025-12-24T23:09:46+03:00"
 slug: "suludere-camii"
 description: "## Suludere Camii: İzmir'in Gizli Çehresini Gerçekleştiren Bir Anıt..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.2357635,38.2472038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Suludere Camii: İzmir'in Gizli Çehresini Gerçekleştiren Bir Anıt

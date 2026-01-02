@@ -1,18 +1,17 @@
 ---
-title: "Ayios Ioanis Prodromos Ayazması, Fener | Miras Haritası"
-date: 2025-12-25T12:39:44+03:00
+title: "Ayios Ioanis Prodromos Ayazması, Fener"
+date: "2025-12-25T12:39:44+03:00"
 slug: "ayios-ioanis-prodromos-ayazmasi-fener"
 description: "### Ayios Ioanis Prodromos Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.952364,41.0281792"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Ioanis Prodromos Ayazması

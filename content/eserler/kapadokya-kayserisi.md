@@ -1,18 +1,17 @@
 ---
-title: "Kapadokya Kayseri'si | Miras Haritası"
-date: 2025-12-25T04:33:33+03:00
+title: "Kapadokya Kayseri'si"
+date: "2025-12-25T04:33:33+03:00"
 slug: "kapadokya-kayserisi"
 description: "### Kapadokya Kayserisi: Bir Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kayseri Büyükşehir Belediyesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.4875,38.7225"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Kapadokya Kayserisi: Bir Tarihî Mirasın Gizemi

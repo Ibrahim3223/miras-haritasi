@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Mescid Camii Çeşmesi, Küre | Miras Haritası"
-date: 2025-12-25T12:19:05+03:00
+title: "Aşağı Mescid Camii Çeşmesi, Küre"
+date: "2025-12-25T12:19:05+03:00"
 slug: "asagi-mescid-camii-cesmesi-kure"
 description: "## Aşağı Mescid Camii Çeşmesi, Küre..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Küre"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.71280517,41.804706377"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Mescid Camii Çeşmesi, Küre

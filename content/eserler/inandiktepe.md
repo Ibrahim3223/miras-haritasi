@@ -1,18 +1,17 @@
 ---
-title: "İnandıktepe | Miras Haritası"
-date: 2025-12-25T07:11:02+03:00
+title: "İnandıktepe"
+date: "2025-12-25T07:11:02+03:00"
 slug: "inandiktepe"
 description: "### İnandıktepe: Çankırı'nın Gizli Hazinesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Museum_of_Anatolian_Civilizations049_kopie1.jpg/1200px-Museum_of_Anatolian_Civilizations049_kopie1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çankırı"
+province: "Çankırı"
+iller: '["Çankırı"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.535277777,40.381111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İnandıktepe: Çankırı'nın Gizli Hazinesi

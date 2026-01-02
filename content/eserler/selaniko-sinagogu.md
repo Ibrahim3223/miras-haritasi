@@ -1,18 +1,17 @@
 ---
-title: "Selaniko Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:24+03:00
+title: "Selaniko Sinagogu"
+date: "2025-12-25T16:12:24+03:00"
 slug: "selaniko-sinagogu"
 description: "## Selanikli Sinagogu: Ayvansaray'daki Bir Tarihi Öncü..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.946611111,41.034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selanikli Sinagogu: Ayvansaray'daki Bir Tarihi Öncü

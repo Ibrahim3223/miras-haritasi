@@ -1,18 +1,17 @@
 ---
-title: "Balavca Köprüsü 3 | Miras Haritası"
-date: 2025-12-25T02:17:32+03:00
+title: "Balavca Köprüsü 3"
+date: "2025-12-25T02:17:32+03:00"
 slug: "balavca-koprusu-3"
 description: "## Balavca Köprüsü 3: Geçmişi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7838516,37.3128433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balavca Köprüsü 3: Geçmişi ve Kültürel Mirası

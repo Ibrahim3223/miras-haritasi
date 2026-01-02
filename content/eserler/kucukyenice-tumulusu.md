@@ -1,18 +1,17 @@
 ---
-title: "Küçükyenice Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:53+03:00
+title: "Küçükyenice Tümülüsü"
+date: "2025-12-25T07:35:53+03:00"
 slug: "kucukyenice-tumulusu"
 description: "### Küçükyenice Tümülüsü: Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Gölpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0771866,40.2323914"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küçükyenice Tümülüsü: Bir Arkeolojik Harikası

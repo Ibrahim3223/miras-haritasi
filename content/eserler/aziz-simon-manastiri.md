@@ -1,18 +1,17 @@
 ---
-title: "Aziz Simon Manastırı | Miras Haritası"
-date: 2025-12-25T06:54:42+03:00
+title: "Aziz Simon Manastırı"
+date: "2025-12-25T06:54:42+03:00"
 slug: "aziz-simon-manastiri"
 description: "### Aziz Simon Manastırı: Hatay'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/SimeonStylit.jpg/1200px-SimeonStylit.jpg"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Defne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.03555556,36.09166667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Aziz Simon Manastırı: Hatay'ın Gizli Cenneti

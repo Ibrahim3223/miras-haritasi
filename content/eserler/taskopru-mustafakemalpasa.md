@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü, Mustafakemalpaşa | Miras Haritası"
-date: 2025-12-25T02:49:35+03:00
+title: "Taşköprü, Mustafakemalpaşa"
+date: "2025-12-25T02:49:35+03:00"
 slug: "taskopru-mustafakemalpasa"
 description: "**Taşköprü, Mustafakemalpaşa**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mustafakemalpaşa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2076225,40.0021706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Taşköprü, Mustafakemalpaşa**

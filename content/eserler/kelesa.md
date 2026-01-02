@@ -1,18 +1,17 @@
 ---
-title: "Kelesa | Miras Haritası"
-date: 2025-12-25T05:42:21+03:00
+title: "Kelesa"
+date: "2025-12-25T05:42:21+03:00"
 slug: "kelesa"
 description: "# Kelesa: Eski Çağ'ın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.215037,41.099999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kelesa: Eski Çağ'ın Gizemi

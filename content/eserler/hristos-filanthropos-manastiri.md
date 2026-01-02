@@ -1,18 +1,17 @@
 ---
-title: "Hristos Filanthropos Manastırı | Miras Haritası"
-date: 2025-12-25T09:47:18+03:00
+title: "Hristos Filanthropos Manastırı"
+date: "2025-12-25T09:47:18+03:00"
 slug: "hristos-filanthropos-manastiri"
 description: "### Hristos Filanthropos Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "28.987436209,41.010631431"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hristos Filanthropos Manastırı

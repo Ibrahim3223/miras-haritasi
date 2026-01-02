@@ -1,18 +1,17 @@
 ---
-title: "Kapadokya'daki yeraltı şehirleri | Miras Haritası"
-date: 2025-12-25T13:17:12+03:00
+title: "Kapadokya'daki yeraltı şehirleri"
+date: "2025-12-25T13:17:12+03:00"
 slug: "kapadokyadaki-yeralti-sehirleri"
 description: "## Kapadokya'daki Yeraltı Şehirleri..."
 featured_image: ""
 province: "İç Anadolu Bölgesi"
-iller: ["İç Anadolu Bölgesi"]
+iller: '["İç Anadolu Bölgesi"]'
 district: "Kapadokya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Kapadokya'daki Yeraltı Şehirleri

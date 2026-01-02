@@ -1,18 +1,17 @@
 ---
-title: "İsinda | Miras Haritası"
-date: 2025-12-25T04:23:56+03:00
+title: "İsinda"
+date: "2025-12-25T04:23:56+03:00"
 slug: "isinda"
 description: "# İsinda Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.699,36.199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İsinda Arkeolojik Sit

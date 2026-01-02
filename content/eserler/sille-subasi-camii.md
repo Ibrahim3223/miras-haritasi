@@ -1,18 +1,17 @@
 ---
-title: "Sille Subaşı Camii | Miras Haritası"
-date: 2025-12-24T23:06:53+03:00
+title: "Sille Subaşı Camii"
+date: "2025-12-24T23:06:53+03:00"
 slug: "sille-subasi-camii"
 description: "## Sille Subaşı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sille_Suba_Camii_2025-07-07_1761322765.jpg/1200px-Sille_Suba_Camii_2025-07-07_1761322765.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4136429,37.9241219"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sille Subaşı Camii

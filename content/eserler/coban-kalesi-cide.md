@@ -1,18 +1,17 @@
 ---
-title: "Çoban Kalesi, Cide | Miras Haritası"
-date: 2025-12-25T01:45:09+03:00
+title: "Çoban Kalesi, Cide"
+date: "2025-12-25T01:45:09+03:00"
 slug: "coban-kalesi-cide"
 description: "## Çoban Kalesi: Kastamonu'nun Tarihi Hazinesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Cide"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.2129784,41.97929"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Kalesi: Kastamonu'nun Tarihi Hazinesi

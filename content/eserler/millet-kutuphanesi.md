@@ -1,18 +1,17 @@
 ---
-title: "Millet Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:45:46+03:00
+title: "Millet Kütüphanesi"
+date: "2025-12-25T17:45:46+03:00"
 slug: "millet-kutuphanesi"
 description: "## Millet Kütüphanesi: İstanbul'un Kitap Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Millet_Yazma_Eser_Kütüphanesi.jpg/1200px-Millet_Yazma_Eser_Kütüphanesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.949849397,41.017447193"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Millet Kütüphanesi: İstanbul'un Kitap Evi

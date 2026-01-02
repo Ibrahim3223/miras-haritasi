@@ -1,18 +1,17 @@
 ---
-title: "Pir Ahmet Camii Karaman | Miras Haritası"
-date: 2025-12-24T22:40:32+03:00
+title: "Pir Ahmet Camii Karaman"
+date: "2025-12-24T22:40:32+03:00"
 slug: "pir-ahmet-camii-karaman"
 description: "### Pir Ahmet Camii Karaman: Karaman'ın Tarihi Bir Örneği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2073631,37.1808662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pir Ahmet Camii Karaman: Karaman'ın Tarihi Bir Örneği

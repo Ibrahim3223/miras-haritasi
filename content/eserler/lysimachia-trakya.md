@@ -1,18 +1,17 @@
 ---
-title: "Lysimachia (Trakya) | Miras Haritası"
-date: 2025-12-25T06:48:30+03:00
+title: "Lysimachia (Trakya)"
+date: "2025-12-25T06:48:30+03:00"
 slug: "lysimachia-trakya"
 description: "## Lysimachia: Trakya'nın Gizli Şehri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.88,40.58"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lysimachia: Trakya'nın Gizli Şehri

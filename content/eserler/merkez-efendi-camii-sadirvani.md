@@ -1,18 +1,17 @@
 ---
-title: "Merkez Efendi Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:03:54+03:00
+title: "Merkez Efendi Camii Şadırvanı"
+date: "2025-12-25T10:03:54+03:00"
 slug: "merkez-efendi-camii-sadirvani"
 description: "### Merkez Efendi Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.920269,41.0161057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Merkez Efendi Camii Şadırvanı

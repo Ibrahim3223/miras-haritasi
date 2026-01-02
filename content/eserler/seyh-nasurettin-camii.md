@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Nasurettin Camii | Miras Haritası"
-date: 2025-12-24T23:12:43+03:00
+title: "Şeyh Nasurettin Camii"
+date: "2025-12-24T23:12:43+03:00"
 slug: "seyh-nasurettin-camii"
 description: "## Şeyh Nurettin Camii: İzmir'in Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7383327,38.0790482"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Nurettin Camii: İzmir'in Tarihi ve Kültürel Mirasının Bir Parçası

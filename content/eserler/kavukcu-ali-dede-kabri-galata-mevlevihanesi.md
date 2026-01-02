@@ -1,18 +1,17 @@
 ---
-title: "Kavukçu Ali Dede Kabri, Galata Mevlevihanesi | Miras Haritası"
-date: 2025-12-25T13:24:57+03:00
+title: "Kavukçu Ali Dede Kabri, Galata Mevlevihanesi"
+date: "2025-12-25T13:24:57+03:00"
 slug: "kavukcu-ali-dede-kabri-galata-mevlevihanesi"
 description: "### Kavukçu Ali Dede Kabri, Galata Mevlevihanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kavukçu_Ali_Dede_Kabri.jpg/1200px-Kavukçu_Ali_Dede_Kabri.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9749317,41.0281792"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kavukçu Ali Dede Kabri, Galata Mevlevihanesi

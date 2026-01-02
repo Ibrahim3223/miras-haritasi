@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Heykeli, Yunusemre | Miras Haritası"
-date: 2025-12-25T16:10:51+03:00
+title: "Atatürk Heykeli, Yunusemre"
+date: "2025-12-25T16:10:51+03:00"
 slug: "ataturk-heykeli-yunusemre"
 description: "## Atatürk Heykeli, Yunusemre..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3963718,38.6157455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Heykeli, Yunusemre

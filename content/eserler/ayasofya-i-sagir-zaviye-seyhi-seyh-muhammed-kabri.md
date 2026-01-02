@@ -1,18 +1,17 @@
 ---
-title: "Ayasofya-i Sagir Zaviye Şeyhi Şeyh Muhammed Kabri | Miras Haritası"
-date: 2025-12-25T13:25:56+03:00
+title: "Ayasofya-i Sagir Zaviye Şeyhi Şeyh Muhammed Kabri"
+date: "2025-12-25T13:25:56+03:00"
 slug: "ayasofya-i-sagir-zaviye-seyhi-seyh-muhammed-kabri"
 description: "## Ayasofya-i Sagir Zaviye Şeyhi Şeyh Muhammed Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9724846,41.0028992"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Ayasofya-i Sagir Zaviye Şeyhi Şeyh Muhammed Kabri

@@ -1,18 +1,17 @@
 ---
-title: "Gazi Demirtaş Mescidi, Bursa | Miras Haritası"
-date: 2025-12-25T01:03:58+03:00
+title: "Gazi Demirtaş Mescidi, Bursa"
+date: "2025-12-25T01:03:58+03:00"
 slug: "gazi-demirtas-mescidi-bursa"
 description: "### Gazi Demirtaş Mescidi, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0593243,40.1842575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Demirtaş Mescidi, Bursa

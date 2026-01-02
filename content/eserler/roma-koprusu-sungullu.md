@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Süngüllü | Miras Haritası"
-date: 2025-12-25T02:56:12+03:00
+title: "Roma Köprüsü, Süngüllü"
+date: "2025-12-25T02:56:12+03:00"
 slug: "roma-koprusu-sungullu"
 description: "## Roma Köprüsü, Süngüllü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.308146,38.869461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Süngüllü

@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:53:24+03:00
+title: "Hüsrev Paşa Kütüphanesi"
+date: "2025-12-25T17:53:24+03:00"
 slug: "husrev-pasa-kutuphanesi"
 description: "### Hüsrev Paşa Kütüphanesi: Eyüpsultan, İstanbul'da Bir Öncü Kütüphane..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.9355125,41.0484962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hüsrev Paşa Kütüphanesi: Eyüpsultan, İstanbul'da Bir Öncü Kütüphane

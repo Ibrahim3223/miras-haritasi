@@ -1,18 +1,17 @@
 ---
-title: "Karakale Kalesi | Miras Haritası"
-date: 2025-12-25T01:24:12+03:00
+title: "Karakale Kalesi"
+date: "2025-12-25T01:24:12+03:00"
 slug: "karakale-kalesi"
 description: "## Karakale Kalesi..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Korkut"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.940155,38.8338776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakale Kalesi

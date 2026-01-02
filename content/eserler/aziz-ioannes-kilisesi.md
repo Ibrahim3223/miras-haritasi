@@ -1,18 +1,17 @@
 ---
-title: "Aziz Ioannes Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:49+03:00
+title: "Aziz Ioannes Kilisesi"
+date: "2025-12-25T09:17:49+03:00"
 slug: "aziz-ioannes-kilisesi"
 description: "## Aziz Ioannes Kilisesi: Foça'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.7827168,38.7327728"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Ioannes Kilisesi: Foça'nın Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Acaroğlu Çeşmesi, Araç | Miras Haritası"
-date: 2025-12-25T12:58:23+03:00
+title: "Acaroğlu Çeşmesi, Araç"
+date: "2025-12-25T12:58:23+03:00"
 slug: "acaroglu-cesmesi-arac"
 description: "# Acaroğlu Çeşmesi: Araç'ta Bir Çağdaş Mimari Örneği..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Araç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.320698762,41.300072974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Acaroğlu Çeşmesi: Araç'ta Bir Çağdaş Mimari Örneği

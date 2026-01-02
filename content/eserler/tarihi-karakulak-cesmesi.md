@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Karakulak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:28+03:00
+title: "Tarihi Karakulak Çeşmesi"
+date: "2025-12-25T11:10:28+03:00"
 slug: "tarihi-karakulak-cesmesi"
 description: "### Tarihi Karakulak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tarihi_Karakulak_emesi_1761587991.jpg/1200px-Tarihi_Karakulak_emesi_1761587991.jpg"
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Dereseki"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.125792,41.151182"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Tarihi Karakulak Çeşmesi

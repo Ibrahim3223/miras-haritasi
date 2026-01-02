@@ -1,18 +1,17 @@
 ---
-title: "Naryandos | Miras Haritası"
-date: 2025-12-25T08:07:36+03:00
+title: "Naryandos"
+date: "2025-12-25T08:07:36+03:00"
 slug: "naryandos"
 description: "## Naryandos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Naryandos Arkeolojik Sit

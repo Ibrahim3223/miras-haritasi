@@ -1,18 +1,17 @@
 ---
-title: "Adana Ulu Cami Türbesi | Miras Haritası"
-date: 2025-12-25T14:46:58+03:00
+title: "Adana Ulu Cami Türbesi"
+date: "2025-12-25T14:46:58+03:00"
 slug: "adana-ulu-cami-turbesi"
 description: "## Adana Ulu Cami Türbesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.331165947,36.984733462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adana Ulu Cami Türbesi

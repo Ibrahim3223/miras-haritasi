@@ -1,18 +1,17 @@
 ---
-title: "Yedi Sekiz Hasan Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:15+03:00
+title: "Yedi Sekiz Hasan Paşa Türbesi"
+date: "2025-12-25T15:32:15+03:00"
 slug: "yedi-sekiz-hasan-pasa-turbesi"
 description: "## Yedi Sekiz Hasan Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.006966082,41.041989394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yedi Sekiz Hasan Paşa Türbesi

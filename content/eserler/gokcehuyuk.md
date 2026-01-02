@@ -1,18 +1,17 @@
 ---
-title: "Gökçehüyük | Miras Haritası"
-date: 2025-12-25T06:01:39+03:00
+title: "Gökçehüyük"
+date: "2025-12-25T06:01:39+03:00"
 slug: "gokcehuyuk"
 description: "## Gökçehüyük Arkeolojik Sit..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Gölbaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.7307396,39.6659698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökçehüyük Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Sadır Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:05+03:00
+title: "Sadır Sultan Türbesi"
+date: "2025-12-25T14:49:05+03:00"
 slug: "sadir-sultan-turbesi"
 description: "# Sadır Sultan Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.521389,37.8820343"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sadır Sultan Türbesi

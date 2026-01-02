@@ -1,18 +1,17 @@
 ---
-title: "Güdük Minare Sokak Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:29:30+03:00
+title: "Güdük Minare Sokak Çeşmesi, Çankırı"
+date: "2025-12-25T12:29:30+03:00"
 slug: "guduk-minare-sokak-cesmesi-cankiri"
 description: "## Güdük Minare Sokak Çeşmesi: Çankırı'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.615068553,40.603383345"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güdük Minare Sokak Çeşmesi: Çankırı'nın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Karacasu Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:31+03:00
+title: "Karacasu Kalesi"
+date: "2025-12-25T01:36:31+03:00"
 slug: "karacasu-kalesi"
 description: "### Karacasu Kalesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Olur"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.2366646,40.8363696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karacasu Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "İzmir Atatürk Lisesi Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:20+03:00
+title: "İzmir Atatürk Lisesi Müzesi"
+date: "2025-12-25T03:54:20+03:00"
 slug: "izmir-ataturk-lisesi-muzesi"
 description: "## İzmir Atatürk Lisesi Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.1405067,38.4287758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzmir Atatürk Lisesi Müzesi

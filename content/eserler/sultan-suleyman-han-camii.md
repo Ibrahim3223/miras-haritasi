@@ -1,18 +1,17 @@
 ---
-title: "Sultan Süleyman Han Camii | Miras Haritası"
-date: 2025-12-24T23:08:58+03:00
+title: "Sultan Süleyman Han Camii"
+date: "2025-12-24T23:08:58+03:00"
 slug: "sultan-suleyman-han-camii"
 description: "### Sultan Süleyman Han Camii..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.454519,40.452006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultan Süleyman Han Camii

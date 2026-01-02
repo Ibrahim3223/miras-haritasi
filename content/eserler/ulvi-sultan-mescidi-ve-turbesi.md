@@ -1,18 +1,17 @@
 ---
-title: "Ulvi Sultan Mescidi ve Türbesi | Miras Haritası"
-date: 2025-12-25T00:22:33+03:00
+title: "Ulvi Sultan Mescidi ve Türbesi"
+date: "2025-12-25T00:22:33+03:00"
 slug: "ulvi-sultan-mescidi-ve-turbesi"
 description: "## Ulvi Sultan Mescidi ve Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ulvi_Sultan_Mescidi_ve_Trbesi_1761415890.jpg/1200px-Ulvi_Sultan_Mescidi_ve_Trbesi_1761415890.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4984055,37.8716125"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ulvi Sultan Mescidi ve Türbesi

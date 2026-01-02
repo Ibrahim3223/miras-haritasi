@@ -1,18 +1,17 @@
 ---
-title: "Tevfik Sırrı Gür Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:28:29+03:00
+title: "Tevfik Sırrı Gür Çeşmesi"
+date: "2025-12-25T12:28:29+03:00"
 slug: "tevfik-sirri-gur-cesmesi"
 description: "### Tevfik Sırrı Gür Çeşmesi: Tarihî Mirasın Gözdesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.0917155,41.430304534"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tevfik Sırrı Gür Çeşmesi: Tarihî Mirasın Gözdesi

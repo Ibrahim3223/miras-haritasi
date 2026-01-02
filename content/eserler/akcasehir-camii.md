@@ -1,18 +1,17 @@
 ---
-title: "Akçaşehir Camii | Miras Haritası"
-date: 2025-12-24T22:58:29+03:00
+title: "Akçaşehir Camii"
+date: "2025-12-24T22:58:29+03:00"
 slug: "akcasehir-camii"
 description: "## Akçaşehir Camii: Karaman'ın Tarihî Bir Çeşidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.4953957,37.4505615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçaşehir Camii: Karaman'ın Tarihî Bir Çeşidi

@@ -1,18 +1,17 @@
 ---
-title: "Surp Pırgiç Ermeni Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:45:36+03:00
+title: "Surp Pırgiç Ermeni Katolik Kilisesi"
+date: "2025-12-25T09:45:36+03:00"
 slug: "surp-pirgic-ermeni-katolik-kilisesi"
 description: "## Surp Pırgiç Ermeni Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Surppirgic.JPG/1200px-Surppirgic.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.97608333,41.02461111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Pırgiç Ermeni Katolik Kilisesi

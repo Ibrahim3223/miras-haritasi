@@ -1,18 +1,17 @@
 ---
-title: "Şefik Bursalı Müze Evi | Miras Haritası"
-date: 2025-12-25T04:11:08+03:00
+title: "Şefik Bursalı Müze Evi"
+date: "2025-12-25T04:11:08+03:00"
 slug: "sefik-bursali-muze-evi"
 description: "**Şefik Bursalı Müze Evi**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.853217,39.884189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şefik Bursalı Müze Evi**

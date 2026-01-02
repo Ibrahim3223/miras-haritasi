@@ -1,18 +1,17 @@
 ---
-title: "Tralleis Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:19:46+03:00
+title: "Tralleis Antik Tiyatrosu"
+date: "2025-12-25T16:19:46+03:00"
 slug: "tralleis-antik-tiyatrosu"
 description: "### Tralleis Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "27.843812,37.867536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tralleis Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Kadın Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:13+03:00
+title: "Kadın Efendi Çeşmesi"
+date: "2025-12-25T11:02:13+03:00"
 slug: "kadin-efendi-cesmesi"
 description: "## Kadın Efendi Çeşmesi: Kuruçeşme'nin Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kadın_Efendi_Çeşmesi.jpg/1200px-Kadın_Efendi_Çeşmesi.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Kuruçeşme"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0352185,41.058087"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kadın Efendi Çeşmesi: Kuruçeşme'nin Tarihi Çeşmesi

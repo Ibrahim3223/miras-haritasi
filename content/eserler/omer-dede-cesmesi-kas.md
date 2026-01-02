@@ -1,18 +1,17 @@
 ---
-title: "Ömer Dede Çeşmesi, Kaş | Miras Haritası"
-date: 2025-12-25T12:22:07+03:00
+title: "Ömer Dede Çeşmesi, Kaş"
+date: "2025-12-25T12:22:07+03:00"
 slug: "omer-dede-cesmesi-kas"
 description: "### Ömer Dede Çeşmesi..."
 featured_image: ""
 province: "Kaş ilçesi"
-iller: ["Kaş ilçesi"]
+iller: '["Kaş ilçesi"]'
 district: "Kaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.6675,36.3587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ömer Dede Çeşmesi

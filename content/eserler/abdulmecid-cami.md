@@ -1,18 +1,17 @@
 ---
-title: "Abdulmecid Cami | Miras Haritası"
-date: 2025-12-25T00:13:00+03:00
+title: "Abdulmecid Cami"
+date: "2025-12-25T00:13:00+03:00"
 slug: "abdulmecid-cami"
 description: "# Abdulmecid Cami: Adana'nın Güzeli..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.2956928,36.9725678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdulmecid Cami: Adana'nın Güzeli

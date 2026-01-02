@@ -1,18 +1,17 @@
 ---
-title: "Tarakçılar Camii | Miras Haritası"
-date: 2025-12-25T00:19:49+03:00
+title: "Tarakçılar Camii"
+date: "2025-12-25T00:19:49+03:00"
 slug: "tarakcilar-camii"
 description: "## Tarakçılar Camii: Artvin'in Gizli Çehresi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7333519,40.920125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarakçılar Camii: Artvin'in Gizli Çehresi

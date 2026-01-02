@@ -1,18 +1,17 @@
 ---
-title: "Kaleyazısı Camii | Miras Haritası"
-date: 2025-12-24T23:40:52+03:00
+title: "Kaleyazısı Camii"
+date: "2025-12-24T23:40:52+03:00"
 slug: "kaleyazisi-camii"
 description: "## Kaleyazısı Camii: Sinop'un Tarihi bir Mirası..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1440506,42.0255089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleyazısı Camii: Sinop'un Tarihi bir Mirası

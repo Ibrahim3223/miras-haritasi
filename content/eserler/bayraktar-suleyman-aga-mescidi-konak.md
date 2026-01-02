@@ -1,18 +1,17 @@
 ---
-title: "Bayraktar Süleyman Ağa Mescidi, Konak | Miras Haritası"
-date: 2025-12-25T00:49:25+03:00
+title: "Bayraktar Süleyman Ağa Mescidi, Konak"
+date: "2025-12-25T00:49:25+03:00"
 slug: "bayraktar-suleyman-aga-mescidi-konak"
 description: "### Bayraktar Süleyman Ağa Mescidi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1459007,38.4202003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayraktar Süleyman Ağa Mescidi: İzmir'in Tarihi ve Kültürel Mirası

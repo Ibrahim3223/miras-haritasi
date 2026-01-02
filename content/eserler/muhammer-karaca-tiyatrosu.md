@@ -1,18 +1,17 @@
 ---
-title: "Muhammer Karaca Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:18:41+03:00
+title: "Muhammer Karaca Tiyatrosu"
+date: "2025-12-25T16:18:41+03:00"
 slug: "muhammer-karaca-tiyatrosu"
 description: "## Muhammer Karaca Tiyatrosu: Beyoğlu'ndaki Bir Antik Tiyatro'nun Gizemi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Tomtom"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.976455186,41.031068036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muhammer Karaca Tiyatrosu: Beyoğlu'ndaki Bir Antik Tiyatro'nun Gizemi

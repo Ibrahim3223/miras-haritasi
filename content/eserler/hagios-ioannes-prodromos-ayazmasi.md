@@ -1,18 +1,17 @@
 ---
-title: "Hagios Ioannes Prodromos Ayazması | Miras Haritası"
-date: 2025-12-25T12:44:07+03:00
+title: "Hagios Ioannes Prodromos Ayazması"
+date: "2025-12-25T12:44:07+03:00"
 slug: "hagios-ioannes-prodromos-ayazmasi"
 description: "## Hagios Ioannes Prodromos Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.02034,41.0309601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hagios Ioannes Prodromos Ayazması

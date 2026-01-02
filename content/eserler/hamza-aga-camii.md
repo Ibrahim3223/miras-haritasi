@@ -1,18 +1,17 @@
 ---
-title: "Hamza Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:32:35+03:00
+title: "Hamza Ağa Camii"
+date: "2025-12-24T23:32:35+03:00"
 slug: "hamza-aga-camii"
 description: "# Hamza Ağa Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7683144,41.3771324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamza Ağa Camii

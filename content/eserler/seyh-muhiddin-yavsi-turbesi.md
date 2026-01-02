@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhiddin Yavsi Türbesi | Miras Haritası"
-date: 2025-12-25T14:12:42+03:00
+title: "Şeyh Muhiddin Yavsi Türbesi"
+date: "2025-12-25T14:12:42+03:00"
 slug: "seyh-muhiddin-yavsi-turbesi"
 description: "### Şeyh Muhiddin Yavsi Türbesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.4708,40.7305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Muhiddin Yavsi Türbesi

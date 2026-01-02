@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Mustafa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:39:13+03:00
+title: "Şehzade Mustafa Çeşmesi"
+date: "2025-12-25T10:39:13+03:00"
 slug: "sehzade-mustafa-cesmesi"
 description: "## Şehzade Mustafa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Şehzade_Mustafa_Çeşmesi,_Üsküdar,_Istanbul.jpg/1200px-Şehzade_Mustafa_Çeşmesi,_Üsküdar,_Istanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.014374,41.023398"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehzade Mustafa Çeşmesi

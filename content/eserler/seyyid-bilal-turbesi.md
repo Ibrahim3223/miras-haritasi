@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Bilal Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:06+03:00
+title: "Seyyid Bilal Türbesi"
+date: "2025-12-25T14:54:06+03:00"
 slug: "seyyid-bilal-turbesi"
 description: "### Seyyid Bilal Türbesi..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1621399,42.0254364"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyyid Bilal Türbesi

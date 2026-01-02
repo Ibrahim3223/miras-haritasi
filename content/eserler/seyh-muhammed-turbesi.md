@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhammed Türbesi | Miras Haritası"
-date: 2025-12-25T14:48:03+03:00
+title: "Şeyh Muhammed Türbesi"
+date: "2025-12-25T14:48:03+03:00"
 slug: "seyh-muhammed-turbesi"
 description: "## Şeyh Muhammed Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.747975,37.312792"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Muhammed Türbesi

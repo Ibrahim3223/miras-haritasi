@@ -1,18 +1,17 @@
 ---
-title: "Dandalaz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:46+03:00
+title: "Dandalaz Köprüsü"
+date: "2025-12-25T02:44:46+03:00"
 slug: "dandalaz-koprusu"
 description: "## Dandalaz Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.6350708,37.7346115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dandalaz Köprüsü

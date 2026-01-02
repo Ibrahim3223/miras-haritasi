@@ -1,18 +1,17 @@
 ---
-title: "Tek Minare | Miras Haritası"
-date: 2025-12-24T23:15:55+03:00
+title: "Tek Minare"
+date: "2025-12-24T23:15:55+03:00"
 slug: "tek-minare"
 description: "## Tek Minare Camii: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5377235,39.4493484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tek Minare Camii: Eskişehir'in Gizli Cenneti

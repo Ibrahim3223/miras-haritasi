@@ -1,18 +1,17 @@
 ---
-title: "Atiye Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:04+03:00
+title: "Atiye Hanım Çeşmesi"
+date: "2025-12-25T11:48:04+03:00"
 slug: "atiye-hanim-cesmesi"
 description: "## Atiye Hanım Çeşmesi: İstanbul'un Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9529781,41.0147476"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atiye Hanım Çeşmesi: İstanbul'un Gizli Kahramanı

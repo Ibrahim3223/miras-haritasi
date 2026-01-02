@@ -1,18 +1,17 @@
 ---
-title: "Çayalan Kemeri | Miras Haritası"
-date: 2025-12-25T02:17:44+03:00
+title: "Çayalan Kemeri"
+date: "2025-12-25T02:17:44+03:00"
 slug: "cayalan-kemeri"
 description: "## Çayalan Kemeri: Aydın'ın Gizli Harikası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.353857,37.5979614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayalan Kemeri: Aydın'ın Gizli Harikası

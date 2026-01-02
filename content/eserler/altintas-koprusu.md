@@ -1,18 +1,17 @@
 ---
-title: "Altıntaş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:11+03:00
+title: "Altıntaş Köprüsü"
+date: "2025-12-25T02:44:11+03:00"
 slug: "altintas-koprusu"
 description: "### Altıntaş Köprüsü: Edirne'nin Tarihi ve Mimari Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.7066574,41.0117836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Altıntaş Köprüsü: Edirne'nin Tarihi ve Mimari Mirası

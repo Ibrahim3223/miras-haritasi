@@ -1,18 +1,17 @@
 ---
-title: "Büyük Hamam, Büyükkumla | Miras Haritası"
-date: 2025-12-25T17:04:55+03:00
+title: "Büyük Hamam, Büyükkumla"
+date: "2025-12-25T17:04:55+03:00"
 slug: "buyuk-hamam-buyukkumla"
 description: "## Büyük Hamam, Büyükkumla: Birimemişin Mirasının Öncüleri..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gemlik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0875587,40.5020638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Hamam, Büyükkumla: Birimemişin Mirasının Öncüleri

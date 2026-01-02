@@ -1,18 +1,17 @@
 ---
-title: "Hadrianopolis (Frigya) | Miras Haritası"
-date: 2025-12-25T04:45:04+03:00
+title: "Hadrianopolis (Frigya)"
+date: "2025-12-25T04:45:04+03:00"
 slug: "hadrianopolis-frigya"
 description: "# Hadrianopolis (Frigya)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.6780556,38.1447222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hadrianopolis (Frigya)

@@ -1,18 +1,17 @@
 ---
-title: "Yahya Kemal Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:51+03:00
+title: "Yahya Kemal Müzesi"
+date: "2025-12-25T04:01:51+03:00"
 slug: "yahya-kemal-muzesi"
 description: "## Yahya Kemal Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.967687285,41.008736381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahya Kemal Müzesi

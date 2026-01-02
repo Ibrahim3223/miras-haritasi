@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Aziz Philippus Mezar Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:52+03:00
+title: "Hierapolis Aziz Philippus Mezar Kilisesi"
+date: "2025-12-25T09:25:52+03:00"
 slug: "hierapolis-aziz-philippus-mezar-kilisesi"
 description: "### Hierapolis Aziz Philippus Mezar Kilisesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1305275,37.9307365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hierapolis Aziz Philippus Mezar Kilisesi

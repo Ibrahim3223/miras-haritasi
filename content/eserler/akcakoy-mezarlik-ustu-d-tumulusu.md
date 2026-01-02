@@ -1,18 +1,17 @@
 ---
-title: "Akçaköy Mezarlık Üstü D Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:28:03+03:00
+title: "Akçaköy Mezarlık Üstü D Tümülüsü"
+date: "2025-12-25T07:28:03+03:00"
 slug: "akcakoy-mezarlik-ustu-d-tumulusu"
 description: "### Akçaköy Mezarlık Üstü D Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5711899,41.3697662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçaköy Mezarlık Üstü D Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy-Orhangazi Höyük | Miras Haritası"
-date: 2025-12-25T05:27:07+03:00
+title: "Yeniköy-Orhangazi Höyük"
+date: "2025-12-25T05:27:07+03:00"
 slug: "yenikoy-orhangazi-hoyuk"
 description: "# Yeniköy-Orhangazi Höyük: Bir Geçmişe Yönelik Yolculuk..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Orhangazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.3694,40.499921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yeniköy-Orhangazi Höyük: Bir Geçmişe Yönelik Yolculuk

@@ -1,18 +1,17 @@
 ---
-title: "Smintheion | Miras Haritası"
-date: 2025-12-25T03:32:49+03:00
+title: "Smintheion"
+date: "2025-12-25T03:32:49+03:00"
 slug: "smintheion"
 description: "## Smintheion: Ayvacık'ın Gizli Mabeti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Smintheion_2025-08-30_16-18-29.jpg/1200px-Smintheion_2025-08-30_16-18-29.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.11775,39.536211"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Smintheion: Ayvacık'ın Gizli Mabeti

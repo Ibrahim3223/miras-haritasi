@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Yazıcı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:47+03:00
+title: "Mehmet Yazıcı Çeşmesi"
+date: "2025-12-25T11:22:47+03:00"
 slug: "mehmet-yazici-cesmesi"
 description: "### Mehmet Yazıcı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mehmet_Yazıcı_Çeşmesi_Kitabesi.jpg/1200px-Mehmet_Yazıcı_Çeşmesi_Kitabesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979242,41.003286"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mehmet Yazıcı Çeşmesi

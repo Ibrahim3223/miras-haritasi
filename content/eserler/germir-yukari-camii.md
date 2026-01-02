@@ -1,18 +1,17 @@
 ---
-title: "Germir Yukarı Camii | Miras Haritası"
-date: 2025-12-24T23:01:52+03:00
+title: "Germir Yukarı Camii"
+date: "2025-12-24T23:01:52+03:00"
 slug: "germir-yukari-camii"
 description: "### Germir Yukarı Camii..."
 featured_image: ""
 province: "Melikgazi"
-iller: ["Melikgazi"]
+iller: '["Melikgazi"]'
 district: "Germir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.5654068,38.7365646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Germir Yukarı Camii

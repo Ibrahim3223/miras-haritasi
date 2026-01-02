@@ -1,18 +1,17 @@
 ---
-title: "Üçler Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:03+03:00
+title: "Üçler Çeşmesi"
+date: "2025-12-25T10:51:03+03:00"
 slug: "ucler-cesmesi"
 description: "### Üçler Çeşmesi: Hacıbektaş'taki Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.5624084,38.9423065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üçler Çeşmesi: Hacıbektaş'taki Bir Önemli Kültürel Miras

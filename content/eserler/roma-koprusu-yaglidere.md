@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Yağlıdere | Miras Haritası"
-date: 2025-12-25T02:56:48+03:00
+title: "Roma Köprüsü, Yağlıdere"
+date: "2025-12-25T02:56:48+03:00"
 slug: "roma-koprusu-yaglidere"
 description: "## Roma Köprüsü, Yağlıdere..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.519032,40.506016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Yağlıdere

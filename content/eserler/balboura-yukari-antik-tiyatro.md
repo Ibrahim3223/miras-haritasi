@@ -1,18 +1,17 @@
 ---
-title: "Balboura Yukarı Antik Tiyatro | Miras Haritası"
-date: 2025-12-25T08:25:17+03:00
+title: "Balboura Yukarı Antik Tiyatro"
+date: "2025-12-25T08:25:17+03:00"
 slug: "balboura-yukari-antik-tiyatro"
 description: "# Balboura Yukarı Antik Tiyatro..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Altınyayla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.581461,36.954113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Balboura Yukarı Antik Tiyatro

@@ -1,18 +1,17 @@
 ---
-title: "Tepecik Nekropol Alanı | Miras Haritası"
-date: 2025-12-25T05:39:58+03:00
+title: "Tepecik Nekropol Alanı"
+date: "2025-12-25T05:39:58+03:00"
 slug: "tepecik-nekropol-alani"
 description: "## Tepecik Nekropol Alanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.5408707,41.0640984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepecik Nekropol Alanı

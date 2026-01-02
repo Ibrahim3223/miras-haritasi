@@ -1,18 +1,17 @@
 ---
-title: "Hergelen Cami | Miras Haritası"
-date: 2025-12-24T23:34:58+03:00
+title: "Hergelen Cami"
+date: "2025-12-24T23:34:58+03:00"
 slug: "hergelen-cami"
 description: "## Hergelen Cami..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8370171,38.923008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hergelen Cami

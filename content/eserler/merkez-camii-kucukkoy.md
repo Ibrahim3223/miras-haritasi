@@ -1,18 +1,17 @@
 ---
-title: "Merkez Camii (Küçükköy) | Miras Haritası"
-date: 2025-12-24T23:20:55+03:00
+title: "Merkez Camii (Küçükköy)"
+date: "2025-12-24T23:20:55+03:00"
 slug: "merkez-camii-kucukkoy"
 description: "## Merkez Camii (Küçükköy)..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.68808,39.289449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merkez Camii (Küçükköy)

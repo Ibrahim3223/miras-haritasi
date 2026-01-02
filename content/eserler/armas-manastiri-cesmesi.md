@@ -1,18 +1,17 @@
 ---
-title: "Armaş Manastırı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:47:06+03:00
+title: "Armaş Manastırı Çeşmesi"
+date: "2025-12-25T10:47:06+03:00"
 slug: "armas-manastiri-cesmesi"
 description: "## Armaş Manastırı Çeşmesi: İzmit'in Gizli Cenneti..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.1959457,40.8488197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Armaş Manastırı Çeşmesi: İzmit'in Gizli Cenneti

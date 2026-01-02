@@ -1,18 +1,17 @@
 ---
-title: "Salihli Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:48:21+03:00
+title: "Salihli Kent Müzesi"
+date: "2025-12-25T03:48:21+03:00"
 slug: "salihli-kent-muzesi"
 description: "## Salihli Kent Müzesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.1308041,38.4822884"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salihli Kent Müzesi

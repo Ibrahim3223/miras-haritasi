@@ -1,18 +1,17 @@
 ---
-title: "Muhammed Beşir Türbesi | Miras Haritası"
-date: 2025-12-25T17:15:45+03:00
+title: "Muhammed Beşir Türbesi"
+date: "2025-12-25T17:15:45+03:00"
 slug: "muhammed-besir-turbesi"
 description: "## Muhammed Beşir Türbesi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "39.4993896,39.7170715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muhammed Beşir Türbesi

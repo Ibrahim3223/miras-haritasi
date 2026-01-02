@@ -1,18 +1,17 @@
 ---
-title: "Tombak Höyük, Acıpayam | Miras Haritası"
-date: 2025-12-25T06:36:19+03:00
+title: "Tombak Höyük, Acıpayam"
+date: "2025-12-25T06:36:19+03:00"
 slug: "tombak-hoyuk-acipayam"
 description: "## Tombak Höyük, Acıpayam..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.3895969,37.4168434"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tombak Höyük, Acıpayam

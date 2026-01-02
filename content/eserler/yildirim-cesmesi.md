@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:03+03:00
+title: "Yıldırım Çeşmesi"
+date: "2025-12-25T10:54:03+03:00"
 slug: "yildirim-cesmesi"
 description: "### Yıldırım Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0813599,40.1873474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yıldırım Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası

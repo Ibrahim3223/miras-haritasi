@@ -1,18 +1,17 @@
 ---
-title: "Danyal Peygamber Makamı | Miras Haritası"
-date: 2025-12-25T14:23:22+03:00
+title: "Danyal Peygamber Makamı"
+date: "2025-12-25T14:23:22+03:00"
 slug: "danyal-peygamber-makami"
 description: "## Danyal Peygamber Makamı: Tarsus'un Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Danyal_Peygamber_Makamı_01.jpg/1200px-Danyal_Peygamber_Makamı_01.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.8974,36.9171"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Danyal Peygamber Makamı: Tarsus'un Gizli Kahramanı

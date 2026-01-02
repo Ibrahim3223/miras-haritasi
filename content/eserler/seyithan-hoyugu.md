@@ -1,18 +1,17 @@
 ---
-title: "Seyithan Höyüğü | Miras Haritası"
-date: 2025-12-25T06:43:13+03:00
+title: "Seyithan Höyüğü"
+date: "2025-12-25T06:43:13+03:00"
 slug: "seyithan-hoyugu"
 description: "## Seyithan Höyüğü: Çumra'nın Gizli Öyküsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8289536,37.6113971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyithan Höyüğü: Çumra'nın Gizli Öyküsü

@@ -1,18 +1,17 @@
 ---
-title: "Ebu İshak Türbesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:27+03:00
+title: "Ebu İshak Türbesi Çeşmesi"
+date: "2025-12-25T10:59:27+03:00"
 slug: "ebu-ishak-turbesi-cesmesi"
 description: "### Ebu İshak Türbesi Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.070776,40.1856651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ebu İshak Türbesi Çeşmesi

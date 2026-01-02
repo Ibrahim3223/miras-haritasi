@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Sarayı Hamidiye Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:35:32+03:00
+title: "Yıldız Sarayı Hamidiye Çeşmesi"
+date: "2025-12-25T12:35:32+03:00"
 slug: "yildiz-sarayi-hamidiye-cesmesi"
 description: "## Yıldız Sarayı Hamidiye Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.011455369,41.049652457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldız Sarayı Hamidiye Çeşmesi

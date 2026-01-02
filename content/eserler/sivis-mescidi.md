@@ -1,18 +1,17 @@
 ---
-title: "Siviş Mescidi | Miras Haritası"
-date: 2025-12-25T00:40:38+03:00
+title: "Siviş Mescidi"
+date: "2025-12-25T00:40:38+03:00"
 slug: "sivis-mescidi"
 description: "**Siviş Mescidi: Kayseri'nin Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.477644874,38.719162304"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Siviş Mescidi: Kayseri'nin Tarihi Bir Mirası**

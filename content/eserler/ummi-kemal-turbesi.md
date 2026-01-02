@@ -1,18 +1,17 @@
 ---
-title: "Ümmi Kemal Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:52+03:00
+title: "Ümmi Kemal Türbesi"
+date: "2025-12-25T15:14:52+03:00"
 slug: "ummi-kemal-turbesi"
 description: "### Ümmi Kemal Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.9193,40.6745"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ümmi Kemal Türbesi

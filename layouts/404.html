@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="container" style="padding: 80px 20px; text-align: center; min-height: 60vh; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <div style="font-size: 8rem; margin-bottom: 20px; opacity: 0.8;">🏛️</div>
+    <h1 style="font-size: 3rem; margin-bottom: 15px; color: var(--primary);">404</h1>
+    <h2 style="font-size: 1.5rem; margin-bottom: 20px; color: var(--text-light); font-weight: 400;">Sayfa Bulunamadı</h2>
+    <p style="max-width: 500px; color: var(--text-light); margin-bottom: 40px; line-height: 1.6;">
+        Aradığınız tarihi eser veya sayfa mevcut değil ya da taşınmış olabilir.
+        Türkiye'nin zengin kültürel mirasını keşfetmeye devam edin!
+    </p>
+
+    <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin-bottom: 50px;">
+        <a href="/" class="btn btn-primary">Ana Sayfaya Dön</a>
+        <a href="/eserler" class="btn btn-outline" style="color: var(--primary); border-color: var(--primary);">Eserleri Keşfet</a>
+    </div>
+
+    <div style="border-top: 1px solid var(--border); padding-top: 40px; width: 100%; max-width: 600px;">
+        <h3 style="font-size: 1.1rem; margin-bottom: 20px; color: var(--primary);">Popüler Kategoriler</h3>
+        <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+            <a href="/turler/cami" class="filter-chip">Camiler</a>
+            <a href="/turler/muze" class="filter-chip">Müzeler</a>
+            <a href="/turler/kale" class="filter-chip">Kaleler</a>
+            <a href="/turler/antik-tiyatro" class="filter-chip">Antik Tiyatrolar</a>
+            <a href="/iller/istanbul" class="filter-chip">İstanbul</a>
+            <a href="/iller/izmir" class="filter-chip">İzmir</a>
+        </div>
+    </div>
+</div>
+{{ end }}

@@ -1,18 +1,17 @@
 ---
-title: "Karaağaç Eski Camii | Miras Haritası"
-date: 2025-12-24T23:42:09+03:00
+title: "Karaağaç Eski Camii"
+date: "2025-12-24T23:42:09+03:00"
 slug: "karaagac-eski-camii"
 description: "## Karaağaç Eski Camii: Edirne'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Karaağaç_Eski_Camii,_40.JPG/1200px-Karaağaç_Eski_Camii,_40.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5212479,41.6581421"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karaağaç Eski Camii: Edirne'nin Gizli Cenneti

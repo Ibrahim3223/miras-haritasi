@@ -1,18 +1,17 @@
 ---
-title: "Cami-i Cedid Camii, Sapanca | Miras Haritası"
-date: 2025-12-25T00:28:35+03:00
+title: "Cami-i Cedid Camii, Sapanca"
+date: "2025-12-25T00:28:35+03:00"
 slug: "cami-i-cedid-camii-sapanca"
 description: "## Cami-i Cedid Camii: Sakarya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Sapanca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2678452,40.6904449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cami-i Cedid Camii: Sakarya'nın Tarihi Bir Mirası

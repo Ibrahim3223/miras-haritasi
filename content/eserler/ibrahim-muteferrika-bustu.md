@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Müteferrika Büstü | Miras Haritası"
-date: 2025-12-25T15:49:50+03:00
+title: "İbrahim Müteferrika Büstü"
+date: "2025-12-25T15:49:50+03:00"
 slug: "ibrahim-muteferrika-bustu"
 description: "## İbrahim Müteferrika Büstü: Fatih'te Bir Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9659576,41.0104027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Müteferrika Büstü: Fatih'te Bir Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ovacık Camii | Miras Haritası"
-date: 2025-12-25T00:57:15+03:00
+title: "Ovacık Camii"
+date: "2025-12-25T00:57:15+03:00"
 slug: "ovacik-camii"
 description: "## Ovacık Camii: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.3714909,37.7697758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ovacık Camii: Denizli'nin Gizli Cenneti

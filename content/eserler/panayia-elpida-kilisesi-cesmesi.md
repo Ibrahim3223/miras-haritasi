@@ -1,18 +1,17 @@
 ---
-title: "Panayia Elpida Kilisesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:43+03:00
+title: "Panayia Elpida Kilisesi Çeşmesi"
+date: "2025-12-25T11:44:43+03:00"
 slug: "panayia-elpida-kilisesi-cesmesi"
 description: "## Panayia Elpida Kilisesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9639664,41.0045891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panayia Elpida Kilisesi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Küçük Köprü, Çiçekliköy | Miras Haritası"
-date: 2025-12-25T02:50:59+03:00
+title: "Küçük Köprü, Çiçekliköy"
+date: "2025-12-25T02:50:59+03:00"
 slug: "kucuk-kopru-ciceklikoy"
 description: "### Küçük Köprü, Çiçekliköy: Bornova, İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.298008,38.4953117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küçük Köprü, Çiçekliköy: Bornova, İzmir'in Gizli Cenneti

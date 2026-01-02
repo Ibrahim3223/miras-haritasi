@@ -1,18 +1,17 @@
 ---
-title: "Kumkısık Höyüğü | Miras Haritası"
-date: 2025-12-25T06:35:53+03:00
+title: "Kumkısık Höyüğü"
+date: "2025-12-25T06:35:53+03:00"
 slug: "kumkisik-hoyugu"
 description: "## Kumkısık Höyüğü: Merkezefendi'nin Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0327024,37.8681246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumkısık Höyüğü: Merkezefendi'nin Gizli Tarihî Mirası

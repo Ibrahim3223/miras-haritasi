@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Talatpaşa, Tabak Çıkmazı | Miras Haritası"
-date: 2025-12-25T12:52:23+03:00
+title: "Çeşme – Talatpaşa, Tabak Çıkmazı"
+date: "2025-12-25T12:52:23+03:00"
 slug: "cesme-talatpasa-tabak-cikmazi"
 description: "### Çeşme – Talatpaşa, Tabak Çıkmazı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1826,39.1226997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme – Talatpaşa, Tabak Çıkmazı

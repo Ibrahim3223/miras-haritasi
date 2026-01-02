@@ -1,18 +1,17 @@
 ---
-title: "Çatak Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:24+03:00
+title: "Çatak Mahallesi Köprüsü"
+date: "2025-12-25T02:35:24+03:00"
 slug: "catak-mahallesi-koprusu"
 description: "## Çatak Mahallesi Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.402612,40.807249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatak Mahallesi Köprüsü

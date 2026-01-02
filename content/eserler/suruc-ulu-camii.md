@@ -1,18 +1,17 @@
 ---
-title: "Suruç Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:05:30+03:00
+title: "Suruç Ulu Camii"
+date: "2025-12-24T22:05:30+03:00"
 slug: "suruc-ulu-camii"
 description: "## Suruç Ulu Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Suruç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.425888888,36.975527777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Suruç Ulu Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Berissa | Miras Haritası"
-date: 2025-12-25T04:22:14+03:00
+title: "Berissa"
+date: "2025-12-25T04:22:14+03:00"
 slug: "berissa"
 description: "## Berissa: Akdeniz'in Gizli Öreni..."
 featured_image: ""
 province: "Çamlıbel"
-iller: ["Çamlıbel"]
+iller: '["Çamlıbel"]'
 district: "Aktepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.5072,40.0836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Berissa: Akdeniz'in Gizli Öreni

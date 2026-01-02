@@ -1,18 +1,17 @@
 ---
-title: "Hasanoğlan Rölyefi | Miras Haritası"
-date: 2025-12-25T15:52:17+03:00
+title: "Hasanoğlan Rölyefi"
+date: "2025-12-25T15:52:17+03:00"
 slug: "hasanoglan-rolyefi"
 description: "## Hasanoğlan Rölyefi: Ankara'nın Gizli Çağı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Elmadağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.272636,39.996738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasanoğlan Rölyefi: Ankara'nın Gizli Çağı

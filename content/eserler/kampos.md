@@ -1,18 +1,17 @@
 ---
-title: "Kampos | Miras Haritası"
-date: 2025-12-25T04:50:23+03:00
+title: "Kampos"
+date: "2025-12-25T04:50:23+03:00"
 slug: "kampos"
 description: "## Kampos: İstanbul'un Gizli Çarpıcı Arkeolojik Sitleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.878683,40.983338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kampos: İstanbul'un Gizli Çarpıcı Arkeolojik Sitleri

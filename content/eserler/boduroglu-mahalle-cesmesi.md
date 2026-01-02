@@ -1,18 +1,17 @@
 ---
-title: "Boduroğlu Mahalle Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:23+03:00
+title: "Boduroğlu Mahalle Çeşmesi"
+date: "2025-12-25T11:29:23+03:00"
 slug: "boduroglu-mahalle-cesmesi"
 description: "### Boduroğlu Mahalle Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6703987,39.1034546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boduroğlu Mahalle Çeşmesi

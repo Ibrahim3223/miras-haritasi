@@ -1,18 +1,17 @@
 ---
-title: "Halil Ağa Camii, Yukarıkızılca | Miras Haritası"
-date: 2025-12-25T00:05:58+03:00
+title: "Halil Ağa Camii, Yukarıkızılca"
+date: "2025-12-25T00:05:58+03:00"
 slug: "halil-aga-camii-yukarikizilca"
 description: "## Halil Ağa Camii, Yukarıkızılca..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4984493,38.3853264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Ağa Camii, Yukarıkızılca

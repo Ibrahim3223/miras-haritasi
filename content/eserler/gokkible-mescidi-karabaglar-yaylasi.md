@@ -1,18 +1,17 @@
 ---
-title: "Gökkıble Mescidi, Karabağlar Yaylası | Miras Haritası"
-date: 2025-12-25T00:46:59+03:00
+title: "Gökkıble Mescidi, Karabağlar Yaylası"
+date: "2025-12-25T00:46:59+03:00"
 slug: "gokkible-mescidi-karabaglar-yaylasi"
 description: "## Gökkıble Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3882999,37.1851006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökkıble Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti

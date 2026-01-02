@@ -1,18 +1,17 @@
 ---
-title: "Ovaköy Üyücek | Miras Haritası"
-date: 2025-12-25T05:54:14+03:00
+title: "Ovaköy Üyücek"
+date: "2025-12-25T05:54:14+03:00"
 slug: "ovakoy-uyucek"
 description: "## Ovaköy Üyücek: Balıkesir'in Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Altıeylül"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.969283,39.610067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ovaköy Üyücek: Balıkesir'in Gizli Arkeolojik Harikası

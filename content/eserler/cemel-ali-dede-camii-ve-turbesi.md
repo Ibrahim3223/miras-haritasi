@@ -1,18 +1,17 @@
 ---
-title: "Cemel Ali Dede Camii ve Türbesi | Miras Haritası"
-date: 2025-12-25T00:54:08+03:00
+title: "Cemel Ali Dede Camii ve Türbesi"
+date: "2025-12-25T00:54:08+03:00"
 slug: "cemel-ali-dede-camii-ve-turbesi"
 description: "## Cemel Ali Dede Camii ve Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4239044,37.8552589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cemel Ali Dede Camii ve Türbesi

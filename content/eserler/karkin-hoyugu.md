@@ -1,18 +1,17 @@
 ---
-title: "Karkın Höyüğü | Miras Haritası"
-date: 2025-12-25T06:39:20+03:00
+title: "Karkın Höyüğü"
+date: "2025-12-25T06:39:20+03:00"
 slug: "karkin-hoyugu"
 description: "## Karkın Höyüğü: Konya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8863139,37.6802269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karkın Höyüğü: Konya'nın Gizli Anıtı

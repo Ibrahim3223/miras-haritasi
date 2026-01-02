@@ -1,18 +1,17 @@
 ---
-title: "Turgut Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:34+03:00
+title: "Turgut Kilisesi"
+date: "2025-12-25T09:31:34+03:00"
 slug: "turgut-kilisesi"
 description: "## Turgut Kilisesi: Marmaris'in Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.1120605,36.7619019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turgut Kilisesi: Marmaris'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Çeşmesi, Sarıyer | Miras Haritası"
-date: 2025-12-25T12:08:57+03:00
+title: "Ayazma Çeşmesi, Sarıyer"
+date: "2025-12-25T12:08:57+03:00"
 slug: "ayazma-cesmesi-sariyer"
 description: "### Ayazma Çeşmesi, Sarıyer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ayazma_Çeşmesi,_Sarıyer_IMG_7250.jpg/1200px-Ayazma_Çeşmesi,_Sarıyer_IMG_7250.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.053972,41.170627"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ayazma Çeşmesi, Sarıyer

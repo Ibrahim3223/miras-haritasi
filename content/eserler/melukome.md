@@ -1,18 +1,17 @@
 ---
-title: "Melukome | Miras Haritası"
-date: 2025-12-25T05:13:34+03:00
+title: "Melukome"
+date: "2025-12-25T05:13:34+03:00"
 slug: "melukome"
 description: "### Melukome: Salihli'nin Gizli Gölleri..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.19111,38.57944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Melukome: Salihli'nin Gizli Gölleri

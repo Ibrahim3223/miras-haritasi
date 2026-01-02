@@ -1,18 +1,17 @@
 ---
-title: "Sultaniye Kaplıcası | Miras Haritası"
-date: 2025-12-25T17:00:31+03:00
+title: "Sultaniye Kaplıcası"
+date: "2025-12-25T17:00:31+03:00"
 slug: "sultaniye-kaplicasi"
 description: "# Sultaniye Kaplıcası: Bir Tarih Öreni ve Kültürel Miras..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.6023045,36.873848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sultaniye Kaplıcası: Bir Tarih Öreni ve Kültürel Miras

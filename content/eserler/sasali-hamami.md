@@ -1,18 +1,17 @@
 ---
-title: "Sasalı Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:46+03:00
+title: "Sasalı Hamamı"
+date: "2025-12-25T16:50:46+03:00"
 slug: "sasali-hamami"
 description: "### Sasalı Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.0694466,38.2573738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sasalı Hamamı

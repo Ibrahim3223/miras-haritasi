@@ -1,18 +1,17 @@
 ---
-title: "Hanay Camii, Burhaniye | Miras Haritası"
-date: 2025-12-25T00:06:06+03:00
+title: "Hanay Camii, Burhaniye"
+date: "2025-12-25T00:06:06+03:00"
 slug: "hanay-camii-burhaniye"
 description: "## Hanay Camii, Burhaniye..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: ["Burhaniye (ilçe)"]
+iller: '["Burhaniye (ilçe)"]'
 district: "Burhaniye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9803543,39.5044785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hanay Camii, Burhaniye

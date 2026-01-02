@@ -1,18 +1,17 @@
 ---
-title: "Sıvırcık Camii | Miras Haritası"
-date: 2025-12-24T23:07:36+03:00
+title: "Sıvırcık Camii"
+date: "2025-12-24T23:07:36+03:00"
 slug: "sivircik-camii"
 description: "## Sıvırcık Camii: Erzurum'un İhtişamlı Mimarisi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2812653,39.9053993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sıvırcık Camii: Erzurum'un İhtişamlı Mimarisi

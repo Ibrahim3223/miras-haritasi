@@ -1,18 +1,17 @@
 ---
-title: "Sevgi Soysal Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:56:36+03:00
+title: "Sevgi Soysal Kütüphanesi"
+date: "2025-12-25T17:56:36+03:00"
 slug: "sevgi-soysal-kutuphanesi"
 description: "## Sevgi Soysal Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sevgi_Soysal_Library.jpg/1200px-Sevgi_Soysal_Library.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.985903,41.039364"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sevgi Soysal Kütüphanesi

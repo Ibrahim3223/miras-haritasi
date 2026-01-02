@@ -1,18 +1,17 @@
 ---
-title: "Zeliha Hatun Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:38:12+03:00
+title: "Zeliha Hatun Çeşmesi"
+date: "2025-12-25T12:38:12+03:00"
 slug: "zeliha-hatun-cesmesi"
 description: "## Zeliha Hatun Çeşmesi: Ezine'de Birinci Sınıf Bir Kültür Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.234130499,39.759032556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeliha Hatun Çeşmesi: Ezine'de Birinci Sınıf Bir Kültür Mirası

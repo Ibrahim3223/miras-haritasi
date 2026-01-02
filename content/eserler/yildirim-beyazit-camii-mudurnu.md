@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Beyazıt Camii (Mudurnu) | Miras Haritası"
-date: 2025-12-24T23:23:08+03:00
+title: "Yıldırım Beyazıt Camii (Mudurnu)"
+date: "2025-12-24T23:23:08+03:00"
 slug: "yildirim-beyazit-camii-mudurnu"
 description: "# Yıldırım Beyazıt Camii (Mudurnu)..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Mudurnu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.211935,40.46418"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yıldırım Beyazıt Camii (Mudurnu)

@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Ali Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:54:33+03:00
+title: "Kütahya Ali Paşa Camii"
+date: "2025-12-24T21:54:33+03:00"
 slug: "kutahya-ali-pasa-camii"
 description: "## Kütahya Ali Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Alo_paşa_dış_(3).JPG/1200px-Alo_paşa_dış_(3).JPG"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9837608,39.4187393"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kütahya Ali Paşa Camii

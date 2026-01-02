@@ -1,18 +1,17 @@
 ---
-title: "Turhan Valide Sultan Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:38+03:00
+title: "Turhan Valide Sultan Kütüphanesi"
+date: "2025-12-25T17:57:38+03:00"
 slug: "turhan-valide-sultan-kutuphanesi"
 description: "## Turhan Valide Sultan Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turhan Valide Sultan Kütüphanesi

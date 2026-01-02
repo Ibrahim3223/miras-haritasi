@@ -1,18 +1,17 @@
 ---
-title: "Kurdun Deresi Kalesi | Miras Haritası"
-date: 2025-12-25T01:24:19+03:00
+title: "Kurdun Deresi Kalesi"
+date: "2025-12-25T01:24:19+03:00"
 slug: "kurdun-deresi-kalesi"
 description: "## Kurdun Deresi Kalesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.9578934,40.5595818"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurdun Deresi Kalesi

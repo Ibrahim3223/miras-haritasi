@@ -1,18 +1,17 @@
 ---
-title: "Çolaklar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:37+03:00
+title: "Çolaklar Köprüsü"
+date: "2025-12-25T02:26:37+03:00"
 slug: "colaklar-koprusu"
 description: "## Çolaklar Köprüsü: İslahiye'nin Taşlı Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "İslahiye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.686127,36.96286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çolaklar Köprüsü: İslahiye'nin Taşlı Anıtı

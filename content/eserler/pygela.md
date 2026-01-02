@@ -1,18 +1,17 @@
 ---
-title: "Pygela | Miras Haritası"
-date: 2025-12-25T08:08:14+03:00
+title: "Pygela"
+date: "2025-12-25T08:08:14+03:00"
 slug: "pygela"
 description: "## Pygela: Kuşadası'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MapaTopográficoDeAsiaMenor-jonia.svg/1200px-MapaTopográficoDeAsiaMenor-jonia.svg.png"
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.263729,37.862209"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pygela: Kuşadası'nın Gizli Cenneti

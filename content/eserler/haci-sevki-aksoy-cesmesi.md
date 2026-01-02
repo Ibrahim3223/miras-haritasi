@@ -1,18 +1,17 @@
 ---
-title: "Hacı Şevki Aksoy Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:50:33+03:00
+title: "Hacı Şevki Aksoy Çeşmesi"
+date: "2025-12-25T10:50:33+03:00"
 slug: "haci-sevki-aksoy-cesmesi"
 description: "# Hacı Şevki Aksoy Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.5613441,38.6887512"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Şevki Aksoy Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayios Ioanis Prodromos Ayazması, Çarşamba | Miras Haritası"
-date: 2025-12-25T12:42:38+03:00
+title: "Ayios Ioanis Prodromos Ayazması, Çarşamba"
+date: "2025-12-25T12:42:38+03:00"
 slug: "ayios-ioanis-prodromos-ayazmasi-carsamba"
 description: "### Ayios Ioanis Prodromos Ayazması: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.946291,41.0291176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Ioanis Prodromos Ayazması: İstanbul'un Gizli Çeşmesi

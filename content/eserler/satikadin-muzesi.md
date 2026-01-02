@@ -1,18 +1,17 @@
 ---
-title: "Satıkadın Müzesi | Miras Haritası"
-date: 2025-12-25T04:10:21+03:00
+title: "Satıkadın Müzesi"
+date: "2025-12-25T04:10:21+03:00"
 slug: "satikadin-muzesi"
 description: "## Satıkadın Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.6851,40.207349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Satıkadın Müzesi

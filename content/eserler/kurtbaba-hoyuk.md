@@ -1,18 +1,17 @@
 ---
-title: "Kurtbaba Höyük | Miras Haritası"
-date: 2025-12-25T06:10:18+03:00
+title: "Kurtbaba Höyük"
+date: "2025-12-25T06:10:18+03:00"
 slug: "kurtbaba-hoyuk"
 description: "### Kurtbaba Höyük..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.770445974,37.703406869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurtbaba Höyük

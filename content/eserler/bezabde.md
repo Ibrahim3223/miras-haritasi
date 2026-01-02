@@ -1,18 +1,17 @@
 ---
-title: "Bezabde | Miras Haritası"
-date: 2025-12-25T04:12:22+03:00
+title: "Bezabde"
+date: "2025-12-25T04:12:22+03:00"
 slug: "bezabde"
 description: "## Bezabde: İdil'deki Antik Kent ve Arkeolojik Sit..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "İdil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "42.066666666,37.402222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bezabde: İdil'deki Antik Kent ve Arkeolojik Sit

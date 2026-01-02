@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:59+03:00
+title: "Topkapı Sarayı Müzesi"
+date: "2025-12-25T03:31:59+03:00"
 slug: "topkapi-sarayi-muzesi"
 description: "## Topkapı Sarayı Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Müzesi

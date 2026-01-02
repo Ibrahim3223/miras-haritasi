@@ -1,18 +1,17 @@
 ---
-title: "Manisa Saray Hamamı Kalıntısı (1) | Miras Haritası"
-date: 2025-12-25T16:43:31+03:00
+title: "Manisa Saray Hamamı Kalıntısı (1)"
+date: "2025-12-25T16:43:31+03:00"
 slug: "manisa-saray-hamami-kalintisi-1"
 description: "# Manisa Saray Hamamı Kalıntısı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4332905,38.6151276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Manisa Saray Hamamı Kalıntısı

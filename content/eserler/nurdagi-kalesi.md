@@ -1,18 +1,17 @@
 ---
-title: "Nurdağı Kalesi | Miras Haritası"
-date: 2025-12-25T01:18:24+03:00
+title: "Nurdağı Kalesi"
+date: "2025-12-25T01:18:24+03:00"
 slug: "nurdagi-kalesi"
 description: "## Nurdağı Kalesi: Gaziantep'in Tarihî Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Nurdağı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.7254372,37.1892624"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nurdağı Kalesi: Gaziantep'in Tarihî Mirası

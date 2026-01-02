@@ -1,18 +1,17 @@
 ---
-title: "Başçı Mahmut Kabri | Miras Haritası"
-date: 2025-12-25T13:30:13+03:00
+title: "Başçı Mahmut Kabri"
+date: "2025-12-25T13:30:13+03:00"
 slug: "basci-mahmut-kabri"
 description: "## Başçı Mahmut Kabri: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.940868914,41.009668753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başçı Mahmut Kabri: İstanbul'un Tarihi ve Kültürel Mirası

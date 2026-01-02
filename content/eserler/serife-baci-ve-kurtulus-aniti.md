@@ -1,18 +1,17 @@
 ---
-title: "Şerife Bacı ve Kurtuluş Anıtı | Miras Haritası"
-date: 2025-12-25T15:44:53+03:00
+title: "Şerife Bacı ve Kurtuluş Anıtı"
+date: "2025-12-25T15:44:53+03:00"
 slug: "serife-baci-ve-kurtulus-aniti"
 description: "## Şerife Bacı ve Kurtuluş Anıtı..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7770844,41.3766022"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şerife Bacı ve Kurtuluş Anıtı

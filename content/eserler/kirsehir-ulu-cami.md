@@ -1,18 +1,17 @@
 ---
-title: "Kırşehir Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:06:33+03:00
+title: "Kırşehir Ulu Cami"
+date: "2025-12-24T23:06:33+03:00"
 slug: "kirsehir-ulu-cami"
 description: "## Kırşehir Ulu Cami: Bir Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir ili genel seçim sonuçları"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.1586952,39.1457825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırşehir Ulu Cami: Bir Tarihi ve Kültürel Miras

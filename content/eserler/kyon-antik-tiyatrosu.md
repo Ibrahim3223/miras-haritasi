@@ -1,18 +1,17 @@
 ---
-title: "Kyon Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:19:50+03:00
+title: "Kyon Antik Tiyatrosu"
+date: "2025-12-25T16:19:50+03:00"
 slug: "kyon-antik-tiyatrosu"
 description: "### Kyon Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Kavaklıdere"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.462257,37.411583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kyon Antik Tiyatrosu

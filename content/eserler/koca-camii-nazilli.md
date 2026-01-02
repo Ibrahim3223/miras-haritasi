@@ -1,18 +1,17 @@
 ---
-title: "Koca Camii, Nazilli | Miras Haritası"
-date: 2025-12-25T00:25:17+03:00
+title: "Koca Camii, Nazilli"
+date: "2025-12-25T00:25:17+03:00"
 slug: "koca-camii-nazilli"
 description: "## Koca Camii, Nazilli..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3264294,37.9180984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Camii, Nazilli

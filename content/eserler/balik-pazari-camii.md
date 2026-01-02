@@ -1,18 +1,17 @@
 ---
-title: "Balık Pazarı Camii | Miras Haritası"
-date: 2025-12-24T22:11:44+03:00
+title: "Balık Pazarı Camii"
+date: "2025-12-24T22:11:44+03:00"
 slug: "balik-pazari-camii"
 description: "### Balık Pazarı Camii: Gemlik'te Bir Ömür Boyu Kalan Eğreti..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gemlik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1527309,40.4343224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balık Pazarı Camii: Gemlik'te Bir Ömür Boyu Kalan Eğreti

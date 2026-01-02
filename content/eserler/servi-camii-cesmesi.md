@@ -1,18 +1,17 @@
 ---
-title: "Servi Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:10+03:00
+title: "Servi Camii Çeşmesi"
+date: "2025-12-25T10:18:10+03:00"
 slug: "servi-camii-cesmesi"
 description: "## Servi Camii Çeşmesi: Kütahya'nın Tarihî Çeşme Örneği..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.981411,39.4198303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Servi Camii Çeşmesi: Kütahya'nın Tarihî Çeşme Örneği

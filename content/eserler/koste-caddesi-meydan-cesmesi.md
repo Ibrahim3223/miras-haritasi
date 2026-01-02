@@ -1,18 +1,17 @@
 ---
-title: "Köste Caddesi Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:53:26+03:00
+title: "Köste Caddesi Meydan Çeşmesi"
+date: "2025-12-25T12:53:26+03:00"
 slug: "koste-caddesi-meydan-cesmesi"
 description: "## Köste Caddesi Meydan Çeşmesi: Çeşme'nin Zümrütlü Kavşağında Bir Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3052254,38.3269157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köste Caddesi Meydan Çeşmesi: Çeşme'nin Zümrütlü Kavşağında Bir Miras

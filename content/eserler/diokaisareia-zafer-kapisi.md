@@ -1,18 +1,17 @@
 ---
-title: "Diokaisareia Zafer Kapısı | Miras Haritası"
-date: 2025-12-25T15:38:40+03:00
+title: "Diokaisareia Zafer Kapısı"
+date: "2025-12-25T15:38:40+03:00"
 slug: "diokaisareia-zafer-kapisi"
 description: "## Diokaisareia Zafer Kapısı: Mersin'in Gizli Çehresini Açan Anıt..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9259682,36.5813675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Diokaisareia Zafer Kapısı: Mersin'in Gizli Çehresini Açan Anıt

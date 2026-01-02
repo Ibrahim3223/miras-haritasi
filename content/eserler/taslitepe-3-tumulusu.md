@@ -1,18 +1,17 @@
 ---
-title: "Taşlıtepe 3 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:41:30+03:00
+title: "Taşlıtepe 3 Tümülüsü"
+date: "2025-12-25T07:41:30+03:00"
 slug: "taslitepe-3-tumulusu"
 description: "## Taşlıtepe 3 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1274872,41.9211044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlıtepe 3 Tümülüsü

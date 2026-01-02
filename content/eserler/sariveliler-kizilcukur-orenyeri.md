@@ -1,18 +1,17 @@
 ---
-title: "Sarıveliler Kızılçukur Örenyeri | Miras Haritası"
-date: 2025-12-25T14:10:18+03:00
+title: "Sarıveliler Kızılçukur Örenyeri"
+date: "2025-12-25T14:10:18+03:00"
 slug: "sariveliler-kizilcukur-orenyeri"
 description: "## Sarıveliler Kızılçukur Örenyeri: Tarihî Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Sarıveliler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.702179,36.585762"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıveliler Kızılçukur Örenyeri: Tarihî Bir Anıtın Gizemi

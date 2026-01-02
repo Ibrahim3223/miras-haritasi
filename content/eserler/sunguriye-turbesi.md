@@ -1,18 +1,17 @@
 ---
-title: "Sunguriye Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:15+03:00
+title: "Sunguriye Türbesi"
+date: "2025-12-25T15:07:15+03:00"
 slug: "sunguriye-turbesi"
 description: "## Sunguriye Türbesi: Niksar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.961916666,40.589722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sunguriye Türbesi: Niksar'ın Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Hatipler | Miras Haritası"
-date: 2025-12-25T02:56:29+03:00
+title: "Roma Köprüsü, Hatipler"
+date: "2025-12-25T02:56:29+03:00"
 slug: "roma-koprusu-hatipler"
 description: "## Roma Köprüsü, Hatipler: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Saruhanlı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.500072,38.8951825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Hatipler: Manisa'nın Tarihi ve Kültürel Mirası

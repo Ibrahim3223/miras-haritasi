@@ -1,18 +1,17 @@
 ---
-title: "Bursa Göç Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:25:21+03:00
+title: "Bursa Göç Tarihi Müzesi"
+date: "2025-12-25T03:25:21+03:00"
 slug: "bursa-goc-tarihi-muzesi"
 description: "### Bursa Göç Tarihi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Goctarihilogo.JPG/1200px-Goctarihilogo.JPG"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0491,40.1995"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bursa Göç Tarihi Müzesi

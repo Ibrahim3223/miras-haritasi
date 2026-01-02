@@ -1,18 +1,18 @@
 ---
-title: "Hacı Osman Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:47:59+03:00
+title: "Hacı Osman Ağa Çeşmesi"
+date: "2025-12-25T10:47:59+03:00"
 slug: "haci-osman-aga-cesmesi"
 description: "## Hacı Osman Ağa Çeşmesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hacı_Osman_Ağa_Çeşmesi,_Şile,_İstanbul_2025.jpg/1200px-Hacı_Osman_Ağa_Çeşmesi,_Şile,_İstanbul_2025.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7147102,38.6412277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hacı_Osman_Ağa_Çeşmesi,_Şile,_İstanbul_2025.jpg/1200px-Hacı_Osman_Ağa_Çeşmesi,_Şile,_İstanbul_2025.jpg"
 ---
 
 ## Hacı Osman Ağa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Aşağıoba Camii | Miras Haritası"
-date: 2025-12-25T00:44:26+03:00
+title: "Aşağıoba Camii"
+date: "2025-12-25T00:44:26+03:00"
 slug: "asagioba-camii"
 description: "## Aşağıoba Camii: Serik'te Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.919760826,37.075369177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağıoba Camii: Serik'te Bir Geçmişin İzleri

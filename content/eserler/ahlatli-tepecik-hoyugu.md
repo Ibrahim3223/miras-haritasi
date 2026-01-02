@@ -1,18 +1,17 @@
 ---
-title: "Ahlatlı Tepecik Höyüğü | Miras Haritası"
-date: 2025-12-25T07:05:33+03:00
+title: "Ahlatlı Tepecik Höyüğü"
+date: "2025-12-25T07:05:33+03:00"
 slug: "ahlatli-tepecik-hoyugu"
 description: "## Ahlatlı Tepecik Höyüğü: Manisa'nın Gizli Tarihî Kahramanı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9626083,38.6040268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahlatlı Tepecik Höyüğü: Manisa'nın Gizli Tarihî Kahramanı

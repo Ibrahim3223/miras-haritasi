@@ -1,18 +1,17 @@
 ---
-title: "Patara Eksedralı Mezar | Miras Haritası"
-date: 2025-12-25T14:07:40+03:00
+title: "Patara Eksedralı Mezar"
+date: "2025-12-25T14:07:40+03:00"
 slug: "patara-eksedrali-mezar"
 description: "## Patara Eksedralı Mezar: Antik Çağın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.3205566,36.2767105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Patara Eksedralı Mezar: Antik Çağın Gizemi

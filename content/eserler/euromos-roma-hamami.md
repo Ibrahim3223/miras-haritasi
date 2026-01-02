@@ -1,18 +1,17 @@
 ---
-title: "Euromos Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:58:16+03:00
+title: "Euromos Roma Hamamı"
+date: "2025-12-25T16:58:16+03:00"
 slug: "euromos-roma-hamami"
 description: "## Euromos Roma Hamamı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.6704845,37.3773575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Euromos Roma Hamamı

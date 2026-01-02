@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Bayezid Camii (Alaşehir) | Miras Haritası"
-date: 2025-12-24T23:52:31+03:00
+title: "Yıldırım Bayezid Camii (Alaşehir)"
+date: "2025-12-24T23:52:31+03:00"
 slug: "yildirim-bayezid-camii-alasehir"
 description: "# Yıldırım Bayezid Camii (Alaşehir)..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.5177402,38.3496742"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yıldırım Bayezid Camii (Alaşehir)

@@ -1,18 +1,17 @@
 ---
-title: "İtalyan Köprüsü (Eski Çine) | Miras Haritası"
-date: 2025-12-25T02:10:59+03:00
+title: "İtalyan Köprüsü (Eski Çine)"
+date: "2025-12-25T02:10:59+03:00"
 slug: "italyan-koprusu-eski-cine"
 description: "### İtalyan Köprüsü (Eski Çine)..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.06493,37.5431709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İtalyan Köprüsü (Eski Çine)

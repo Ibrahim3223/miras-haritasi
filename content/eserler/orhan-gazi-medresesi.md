@@ -1,18 +1,17 @@
 ---
-title: "Orhan Gazi Medresesi | Miras Haritası"
-date: 2025-12-25T17:42:37+03:00
+title: "Orhan Gazi Medresesi"
+date: "2025-12-25T17:42:37+03:00"
 slug: "orhan-gazi-medresesi"
 description: "## Orhan Gazi Medresesi: Bursa'nın Eski Meydanında Gizli Bir Miras..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0644321,40.1835823"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orhan Gazi Medresesi: Bursa'nın Eski Meydanında Gizli Bir Miras

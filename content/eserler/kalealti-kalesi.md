@@ -1,18 +1,17 @@
 ---
-title: "Kalealtı Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:39+03:00
+title: "Kalealtı Kalesi"
+date: "2025-12-25T01:22:39+03:00"
 slug: "kalealti-kalesi"
 description: "### Kalealtı Kalesi: Çanakkale'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.8002262,40.6931992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kalealtı Kalesi: Çanakkale'nin Gizli Kahramanı

@@ -1,18 +1,17 @@
 ---
-title: "Akçapınar Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:06+03:00
+title: "Akçapınar Tümülüsü"
+date: "2025-12-25T08:04:06+03:00"
 slug: "akcapinar-tumulusu"
 description: "### Akçapınar Tümülüsü: Turgutlu'ndaki Antik Eserin Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8355789,38.4930763"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçapınar Tümülüsü: Turgutlu'ndaki Antik Eserin Gizemi

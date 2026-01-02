@@ -1,18 +1,17 @@
 ---
-title: "Gedevre Tepesi | Miras Haritası"
-date: 2025-12-25T05:41:24+03:00
+title: "Gedevre Tepesi"
+date: "2025-12-25T05:41:24+03:00"
 slug: "gedevre-tepesi"
 description: "## Gedevre Tepesi: Manisa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9422,38.664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gedevre Tepesi: Manisa'nın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "İkiçeşmelik Camii | Miras Haritası"
-date: 2025-12-24T23:38:37+03:00
+title: "İkiçeşmelik Camii"
+date: "2025-12-24T23:38:37+03:00"
 slug: "ikicesmelik-camii"
 description: "## İkiçeşmelik Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1344395,38.4143639"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkiçeşmelik Camii: İzmir'in Tarihi Bir Mirası

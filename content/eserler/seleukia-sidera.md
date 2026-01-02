@@ -1,18 +1,17 @@
 ---
-title: "Seleukia Sidera | Miras Haritası"
-date: 2025-12-25T04:25:57+03:00
+title: "Seleukia Sidera"
+date: "2025-12-25T04:25:57+03:00"
 slug: "seleukia-sidera"
 description: "## Seleukia Sidera: Isparta'nın Ölümsüz Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Isparta"
+province: "Isparta"
+iller: '["Isparta"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.6179,37.9"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seleukia Sidera: Isparta'nın Ölümsüz Mirası

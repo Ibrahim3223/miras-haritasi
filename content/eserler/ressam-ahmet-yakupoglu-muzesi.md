@@ -1,18 +1,17 @@
 ---
-title: "Ressam Ahmet Yakupoğlu Müzesi | Miras Haritası"
-date: 2025-12-25T03:56:50+03:00
+title: "Ressam Ahmet Yakupoğlu Müzesi"
+date: "2025-12-25T03:56:50+03:00"
 slug: "ressam-ahmet-yakupoglu-muzesi"
 description: "## Ressam Ahmet Yakupoğlu Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.989971,39.41245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ressam Ahmet Yakupoğlu Müzesi

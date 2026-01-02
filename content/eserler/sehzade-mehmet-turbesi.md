@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Mehmet Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:15+03:00
+title: "Şehzade Mehmet Türbesi"
+date: "2025-12-25T14:28:15+03:00"
 slug: "sehzade-mehmet-turbesi"
 description: "## Şehzade Mehmet Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tomb_of_Sehzade_Mehmed_DSCF6473.jpg/1200px-Tomb_of_Sehzade_Mehmed_DSCF6473.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9576757,41.0133471"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehzade Mehmet Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Köşk Çayı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:20:54+03:00
+title: "Köşk Çayı Köprüsü"
+date: "2025-12-25T02:20:54+03:00"
 slug: "kosk-cayi-koprusu"
 description: "## Köşk Çayı Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Köşk"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0462494,37.8558578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köşk Çayı Köprüsü

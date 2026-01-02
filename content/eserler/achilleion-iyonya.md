@@ -1,18 +1,17 @@
 ---
-title: "Achilleion (İyonya) | Miras Haritası"
-date: 2025-12-25T04:38:53+03:00
+title: "Achilleion (İyonya)"
+date: "2025-12-25T04:38:53+03:00"
 slug: "achilleion-iyonya"
 description: "### Achilleion: İyonya'da Bir Antik Saray..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Achilleion: İyonya'da Bir Antik Saray

@@ -1,18 +1,17 @@
 ---
-title: "Naib Hamamı | Miras Haritası"
-date: 2025-12-25T16:23:35+03:00
+title: "Naib Hamamı"
+date: "2025-12-25T16:23:35+03:00"
 slug: "naib-hamami"
 description: "## Naib Hamamı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Gaziantep"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.3834,37.0676498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Naib Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Kancı Çeşme, Kastamonu | Miras Haritası"
-date: 2025-12-25T12:23:46+03:00
+title: "Kancı Çeşme, Kastamonu"
+date: "2025-12-25T12:23:46+03:00"
 slug: "kanci-cesme-kastamonu"
 description: "# Kancı Çeşme: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.78056276,41.377920717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kancı Çeşme: Kastamonu'nun Tarihi ve Kültürel Mirası

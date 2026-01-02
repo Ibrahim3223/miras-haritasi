@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmed Paşa Camii | Miras Haritası"
-date: 2025-12-25T01:02:24+03:00
+title: "Sokullu Mehmed Paşa Camii"
+date: "2025-12-25T01:02:24+03:00"
 slug: "sokullu-mehmed-pasa-camii"
 description: "## Sokullu Mehmed Paşa Camii: Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokullu Mehmed Paşa Camii: Bir Osmanlı Dönemi Mirası

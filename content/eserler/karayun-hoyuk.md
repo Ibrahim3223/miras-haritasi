@@ -1,18 +1,17 @@
 ---
-title: "Karayün Höyük | Miras Haritası"
-date: 2025-12-25T06:22:19+03:00
+title: "Karayün Höyük"
+date: "2025-12-25T06:22:19+03:00"
 slug: "karayun-hoyuk"
 description: "Karayün Höyük: Sivas'ta Bir Arkeolojik Miras..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.3076981,39.6749497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 Karayün Höyük: Sivas'ta Bir Arkeolojik Miras

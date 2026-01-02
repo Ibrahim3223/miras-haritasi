@@ -1,18 +1,17 @@
 ---
-title: "Kars Müzesi | Miras Haritası"
-date: 2025-12-25T03:15:32+03:00
+title: "Kars Müzesi"
+date: "2025-12-25T03:15:32+03:00"
 slug: "kars-muzesi"
 description: "## Kars Müzesi: Tarih ve Kültür Mirasının Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kars_museum,_Turkey_02.jpg/1200px-Kars_museum,_Turkey_02.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "43.11,40.613055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kars Müzesi: Tarih ve Kültür Mirasının Merkezi

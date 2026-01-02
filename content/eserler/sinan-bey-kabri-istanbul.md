@@ -1,18 +1,17 @@
 ---
-title: "Sinan Bey Kabri, İstanbul | Miras Haritası"
-date: 2025-12-25T13:30:06+03:00
+title: "Sinan Bey Kabri, İstanbul"
+date: "2025-12-25T13:30:06+03:00"
 slug: "sinan-bey-kabri-istanbul"
 description: "## Sinan Bey Kabri: İstanbul'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9505062,41.012352"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Bey Kabri: İstanbul'un Gizli Tarihi

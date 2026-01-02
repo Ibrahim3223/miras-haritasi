@@ -1,18 +1,17 @@
 ---
-title: "Büyük Çeşme | Miras Haritası"
-date: 2025-12-25T10:23:16+03:00
+title: "Büyük Çeşme"
+date: "2025-12-25T10:23:16+03:00"
 slug: "buyuk-cesme"
 description: "### Büyük Çeşme: Ulubey'de Bir Geçiş Dönemi Eseri..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2562771,38.2830887"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Büyük Çeşme: Ulubey'de Bir Geçiş Dönemi Eseri

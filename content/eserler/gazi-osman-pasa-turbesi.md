@@ -1,18 +1,17 @@
 ---
-title: "Gazi Osman Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:46+03:00
+title: "Gazi Osman Paşa Türbesi"
+date: "2025-12-25T14:28:46+03:00"
 slug: "gazi-osman-pasa-turbesi"
 description: "**Gazi Osman Paşa Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9505759,41.018955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gazi Osman Paşa Türbesi**

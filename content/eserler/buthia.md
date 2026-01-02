@@ -1,18 +1,17 @@
 ---
-title: "Buthia | Miras Haritası"
-date: 2025-12-25T08:07:06+03:00
+title: "Buthia"
+date: "2025-12-25T08:07:06+03:00"
 slug: "buthia"
 description: "## Buthia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.307181,38.327245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Buthia Arkeolojik Sit

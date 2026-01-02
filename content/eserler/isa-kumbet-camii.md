@@ -1,18 +1,17 @@
 ---
-title: "İsa Kümbet Camii | Miras Haritası"
-date: 2025-12-24T23:38:29+03:00
+title: "İsa Kümbet Camii"
+date: "2025-12-24T23:38:29+03:00"
 slug: "isa-kumbet-camii"
 description: "## İsa Kümbet Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4823227,38.7183571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsa Kümbet Camii

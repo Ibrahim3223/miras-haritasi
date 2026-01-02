@@ -1,18 +1,17 @@
 ---
-title: "Fethiye Müzesi | Miras Haritası"
-date: 2025-12-25T03:20:26+03:00
+title: "Fethiye Müzesi"
+date: "2025-12-25T03:20:26+03:00"
 slug: "fethiye-muzesi"
 description: "### Fethiye Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.1171131,36.62323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fethiye Müzesi

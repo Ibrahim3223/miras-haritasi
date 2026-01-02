@@ -1,18 +1,17 @@
 ---
-title: "Defigam Hatun Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:14:26+03:00
+title: "Defigam Hatun Çeşmesi"
+date: "2025-12-25T11:14:26+03:00"
 slug: "defigam-hatun-cesmesi"
 description: "## Defigam Hatun Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9845734,41.0132675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Defigam Hatun Çeşmesi

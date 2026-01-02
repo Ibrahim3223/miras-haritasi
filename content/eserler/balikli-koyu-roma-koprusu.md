@@ -1,18 +1,17 @@
 ---
-title: "Balıklı Köyü Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:24+03:00
+title: "Balıklı Köyü Roma Köprüsü"
+date: "2025-12-25T02:44:24+03:00"
 slug: "balikli-koyu-roma-koprusu"
 description: "### Balıklı Köyü Roma Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Altıeylül"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0278263,39.6311569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balıklı Köyü Roma Köprüsü

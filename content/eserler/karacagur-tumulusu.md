@@ -1,18 +1,17 @@
 ---
-title: "Karacagür Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:23:08+03:00
+title: "Karacagür Tümülüsü"
+date: "2025-12-25T07:23:08+03:00"
 slug: "karacagur-tumulusu"
 description: "### Karacagür Tümülüsü: Tarihî bir Anıtın Gizemi..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: ["İstanbul Vilayeti"]
+iller: '["İstanbul Vilayeti"]'
 district: "Malkara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9731445,41.0625725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karacagür Tümülüsü: Tarihî bir Anıtın Gizemi

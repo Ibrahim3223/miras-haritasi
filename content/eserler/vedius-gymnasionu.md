@@ -1,18 +1,17 @@
 ---
-title: "Vedius Gymnasionu | Miras Haritası"
-date: 2025-12-25T05:46:41+03:00
+title: "Vedius Gymnasionu"
+date: "2025-12-25T05:46:41+03:00"
 slug: "vedius-gymnasionu"
 description: "## Vedius Gymnasionu: İzmir'in Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.34527778,37.94722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vedius Gymnasionu: İzmir'in Gizli Mirası

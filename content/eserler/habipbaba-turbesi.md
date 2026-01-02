@@ -1,18 +1,17 @@
 ---
-title: "Habipbaba Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:12+03:00
+title: "Habipbaba Türbesi"
+date: "2025-12-25T15:11:12+03:00"
 slug: "habipbaba-turbesi"
 description: "## Habipbaba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.27618,39.910938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Habipbaba Türbesi

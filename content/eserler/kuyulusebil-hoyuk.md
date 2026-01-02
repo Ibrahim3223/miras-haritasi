@@ -1,18 +1,17 @@
 ---
-title: "Kuyulusebil Höyük | Miras Haritası"
-date: 2025-12-25T06:10:26+03:00
+title: "Kuyulusebil Höyük"
+date: "2025-12-25T06:10:26+03:00"
 slug: "kuyulusebil-hoyuk"
 description: "## Kuyulusebil Höyük..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Sarayönü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.527813,38.653244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuyulusebil Höyük

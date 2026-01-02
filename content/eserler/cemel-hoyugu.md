@@ -1,18 +1,17 @@
 ---
-title: "Cemel Höyüğü | Miras Haritası"
-date: 2025-12-25T06:19:02+03:00
+title: "Cemel Höyüğü"
+date: "2025-12-25T06:19:02+03:00"
 slug: "cemel-hoyugu"
 description: "# Cemel Höyüğü..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6640647,38.800602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Cemel Höyüğü

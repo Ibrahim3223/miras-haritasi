@@ -1,18 +1,17 @@
 ---
-title: "Emirler Hamamı, Bilecik | Miras Haritası"
-date: 2025-12-25T17:10:45+03:00
+title: "Emirler Hamamı, Bilecik"
+date: "2025-12-25T17:10:45+03:00"
 slug: "emirler-hamami-bilecik"
 description: "## Emirler Hamamı, Bilecik..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9865303,40.1398888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emirler Hamamı, Bilecik

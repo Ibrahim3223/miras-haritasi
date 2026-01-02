@@ -1,18 +1,17 @@
 ---
-title: "Hacı Evhad Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:52+03:00
+title: "Hacı Evhad Çeşmesi"
+date: "2025-12-25T10:33:52+03:00"
 slug: "haci-evhad-cesmesi"
 description: "### Hacı Evhad Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yedikule"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.923456,40.996609"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Evhad Çeşmesi

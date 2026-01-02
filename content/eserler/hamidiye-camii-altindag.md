@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Altındağ | Miras Haritası"
-date: 2025-12-24T23:52:27+03:00
+title: "Hamidiye Camii, Altındağ"
+date: "2025-12-24T23:52:27+03:00"
 slug: "hamidiye-camii-altindag"
 description: "### Hamidiye Camii, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8555603,39.9450226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamidiye Camii, Altındağ

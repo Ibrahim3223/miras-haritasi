@@ -1,18 +1,17 @@
 ---
-title: "Limenia (Pisidya) | Miras Haritası"
-date: 2025-12-25T04:40:51+03:00
+title: "Limenia (Pisidya)"
+date: "2025-12-25T04:40:51+03:00"
 slug: "limenia-pisidya"
 description: "# Limenia (Pisidya)..."
 featured_image: ""
 province: "Yalvaç"
-iller: ["Yalvaç"]
+iller: '["Yalvaç"]'
 district: "Aşağıtırtar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.886580555,38.260161111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Limenia (Pisidya)

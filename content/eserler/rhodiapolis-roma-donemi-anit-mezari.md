@@ -1,18 +1,17 @@
 ---
-title: "Rhodiapolis Roma Dönemi Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:05:42+03:00
+title: "Rhodiapolis Roma Dönemi Anıt Mezarı"
+date: "2025-12-25T14:05:42+03:00"
 slug: "rhodiapolis-roma-donemi-anit-mezari"
 description: "## Rhodiapolis Roma Dönemi Anıt Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.2657909,36.3832703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rhodiapolis Roma Dönemi Anıt Mezarı

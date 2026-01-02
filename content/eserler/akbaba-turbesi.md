@@ -1,18 +1,17 @@
 ---
-title: "Akbaba Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:49+03:00
+title: "Akbaba Türbesi"
+date: "2025-12-25T15:07:49+03:00"
 slug: "akbaba-turbesi"
 description: "## Akbaba Türbesi: İstanbul'un Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Akbaba_Türbesi_04.jpg/1200px-Akbaba_Türbesi_04.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.965668713,41.033258139"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akbaba Türbesi: İstanbul'un Gizli Anıtı

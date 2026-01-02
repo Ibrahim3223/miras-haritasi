@@ -1,18 +1,17 @@
 ---
-title: "Ferit Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:24+03:00
+title: "Ferit Paşa Çeşmesi"
+date: "2025-12-25T11:37:24+03:00"
 slug: "ferit-pasa-cesmesi"
 description: "## Ferit Paşa Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4863434,37.8673935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferit Paşa Çeşmesi

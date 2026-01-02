@@ -1,18 +1,17 @@
 ---
-title: "Türkeli Sokak Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:03:32+03:00
+title: "Türkeli Sokak Çeşmesi, Bergama"
+date: "2025-12-25T12:03:32+03:00"
 slug: "turkeli-sokak-cesmesi-bergama"
 description: "### Türkeli Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1790657,39.1251945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Türkeli Sokak Çeşmesi, Bergama

@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Sarayı Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:12+03:00
+title: "Yıldız Sarayı Kütüphanesi"
+date: "2025-12-25T17:57:12+03:00"
 slug: "yildiz-sarayi-kutuphanesi"
 description: "## Yıldız Sarayı Kütüphanesi: Osmanlı'nın Gizli Bilgi Deposu..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldız Sarayı Kütüphanesi: Osmanlı'nın Gizli Bilgi Deposu

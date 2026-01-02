@@ -1,18 +1,17 @@
 ---
-title: "Mavga Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:55+03:00
+title: "Mavga Kalesi"
+date: "2025-12-25T01:34:55+03:00"
 slug: "mavga-kalesi"
 description: "### Mavga Kalesi: Mut, Mersin'in Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.501919,36.72769"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mavga Kalesi: Mut, Mersin'in Gizli Çehresini Keşfetmek

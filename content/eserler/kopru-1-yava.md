@@ -1,18 +1,17 @@
 ---
-title: "Köprü 1, Yava | Miras Haritası"
-date: 2025-12-25T02:53:04+03:00
+title: "Köprü 1, Yava"
+date: "2025-12-25T02:53:04+03:00"
 slug: "kopru-1-yava"
 description: "### Köprü 1, Yava: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1400928,37.4530373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köprü 1, Yava: Muğla'nın Gizli Cenneti

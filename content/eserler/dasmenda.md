@@ -1,18 +1,17 @@
 ---
-title: "Dasmenda | Miras Haritası"
-date: 2025-12-25T05:40:18+03:00
+title: "Dasmenda"
+date: "2025-12-25T05:40:18+03:00"
 slug: "dasmenda"
 description: "## Dasmenda Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.7258565,38.1026805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dasmenda Arkeolojik Sit

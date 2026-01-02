@@ -1,18 +1,17 @@
 ---
-title: "Bülbül Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:19:34+03:00
+title: "Bülbül Hatun Camii"
+date: "2025-12-24T22:19:34+03:00"
 slug: "bulbul-hatun-camii"
 description: "## Bülbül Hatun Camii..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bülbül Hatun Camii

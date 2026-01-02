@@ -1,18 +1,17 @@
 ---
-title: "Meryem Ana Evi | Miras Haritası"
-date: 2025-12-25T06:31:31+03:00
+title: "Meryem Ana Evi"
+date: "2025-12-25T06:31:31+03:00"
 slug: "meryem-ana-evi"
 description: "## Meryem Ana Evi: İznik'in Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/House_of_the_Virgin_Mary.jpg/1200px-House_of_the_Virgin_Mary.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.333972222,37.911527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Meryem Ana Evi: İznik'in Gizli Çehresini Açığa Çıkaran Bir Miras

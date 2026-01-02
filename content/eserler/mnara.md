@@ -1,18 +1,17 @@
 ---
-title: "Mnara | Miras Haritası"
-date: 2025-12-25T05:41:05+03:00
+title: "Mnara"
+date: "2025-12-25T05:41:05+03:00"
 slug: "mnara"
 description: "## Mnara: Likya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Akdeniz Bölgesi"
-iller: ["Akdeniz Bölgesi"]
+iller: '["Akdeniz Bölgesi"]'
 district: "Likya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.47823,36.661236"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mnara: Likya'nın Gizemli Arkeolojik Sitleri

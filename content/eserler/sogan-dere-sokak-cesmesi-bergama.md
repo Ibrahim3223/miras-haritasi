@@ -1,18 +1,17 @@
 ---
-title: "Soğan Dere Sokak Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:08:06+03:00
+title: "Soğan Dere Sokak Çeşmesi, Bergama"
+date: "2025-12-25T12:08:06+03:00"
 slug: "sogan-dere-sokak-cesmesi-bergama"
 description: "## Soğan Dere Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1801529,39.1252937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğan Dere Sokak Çeşmesi, Bergama

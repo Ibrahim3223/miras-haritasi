@@ -1,18 +1,17 @@
 ---
-title: "Skepsis | Miras Haritası"
-date: 2025-12-25T06:56:31+03:00
+title: "Skepsis"
+date: "2025-12-25T06:56:31+03:00"
 slug: "skepsis"
 description: "**Skepsis: Çanakkale'nin Gizli Cenneti**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Scepsis_2009.jpg/1200px-Scepsis_2009.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.686111111,39.802777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Skepsis: Çanakkale'nin Gizli Cenneti**

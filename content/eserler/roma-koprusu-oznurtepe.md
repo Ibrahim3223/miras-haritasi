@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Öznurtepe | Miras Haritası"
-date: 2025-12-25T02:57:22+03:00
+title: "Roma Köprüsü, Öznurtepe"
+date: "2025-12-25T02:57:22+03:00"
 slug: "roma-koprusu-oznurtepe"
 description: "## Roma Köprüsü, Öznurtepe..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Gazipaşa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.3770943,36.3590546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Öznurtepe

@@ -1,18 +1,17 @@
 ---
-title: "Sungurlu Ulu Cami | Miras Haritası"
-date: 2025-12-24T22:00:40+03:00
+title: "Sungurlu Ulu Cami"
+date: "2025-12-24T22:00:40+03:00"
 slug: "sungurlu-ulu-cami"
 description: "## Sungurlu Ulu Cami: Çorum'un Değerli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Sungurlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.373694444,40.162138888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sungurlu Ulu Cami: Çorum'un Değerli Mirası

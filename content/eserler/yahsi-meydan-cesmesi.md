@@ -1,18 +1,17 @@
 ---
-title: "Yahşi Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:30:43+03:00
+title: "Yahşi Meydan Çeşmesi"
+date: "2025-12-25T11:30:43+03:00"
 slug: "yahsi-meydan-cesmesi"
 description: "## Yahşi Meydan Çeşmesi: Bodrum'un Efsanevi Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3315887,37.0425186"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahşi Meydan Çeşmesi: Bodrum'un Efsanevi Çeşmesi

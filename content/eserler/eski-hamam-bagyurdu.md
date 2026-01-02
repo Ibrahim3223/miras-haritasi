@@ -1,18 +1,17 @@
 ---
-title: "Eski Hamam, Bağyurdu | Miras Haritası"
-date: 2025-12-25T17:07:03+03:00
+title: "Eski Hamam, Bağyurdu"
+date: "2025-12-25T17:07:03+03:00"
 slug: "eski-hamam-bagyurdu"
 description: "## Eski Hamam, Bağyurdu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.6395435,38.4130363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Hamam, Bağyurdu

@@ -1,18 +1,17 @@
 ---
-title: "Hashöyük | Miras Haritası"
-date: 2025-12-25T07:00:27+03:00
+title: "Hashöyük"
+date: "2025-12-25T07:00:27+03:00"
 slug: "hashoyuk"
 description: "## Hashöyük: Kırşehir'in Gizli Zirvesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.183681,39.452114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hashöyük: Kırşehir'in Gizli Zirvesi

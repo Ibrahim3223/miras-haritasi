@@ -1,18 +1,17 @@
 ---
-title: "Afşin Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:03:24+03:00
+title: "Afşin Ulu Camii"
+date: "2025-12-24T22:03:24+03:00"
 slug: "afsin-ulu-camii"
 description: "# Afşin Ulu Camii: Kahramanmaraş'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.915,38.246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Afşin Ulu Camii: Kahramanmaraş'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ilıcatepe | Miras Haritası"
-date: 2025-12-25T05:45:06+03:00
+title: "Ilıcatepe"
+date: "2025-12-25T05:45:06+03:00"
 slug: "ilicatepe"
 description: "## Ilıcatepe Arkeolojik Sit..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.274333,37.814167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ilıcatepe Arkeolojik Sit

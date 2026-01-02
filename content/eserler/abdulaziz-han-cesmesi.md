@@ -1,18 +1,17 @@
 ---
-title: "Abdülaziz Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:14:44+03:00
+title: "Abdülaziz Han Çeşmesi"
+date: "2025-12-25T12:14:44+03:00"
 slug: "abdulaziz-han-cesmesi"
 description: "**Abdülaziz Han Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.931072,41.032898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Abdülaziz Han Çeşmesi**

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mesud Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:45+03:00
+title: "Şeyh Mesud Türbesi"
+date: "2025-12-25T15:10:45+03:00"
 slug: "seyh-mesud-turbesi"
 description: "### Şeyh Mesud Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.782956,37.1399533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Mesud Türbesi

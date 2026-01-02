@@ -1,18 +1,17 @@
 ---
-title: "Şehit Osman Şehitliği, Bayburt | Miras Haritası"
-date: 2025-12-25T15:59:07+03:00
+title: "Şehit Osman Şehitliği, Bayburt"
+date: "2025-12-25T15:59:07+03:00"
 slug: "sehit-osman-sehitligi-bayburt"
 description: "## Şehit Osman Şehitliği, Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.219851,40.260831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehit Osman Şehitliği, Bayburt

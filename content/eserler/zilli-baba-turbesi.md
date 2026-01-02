@@ -1,18 +1,17 @@
 ---
-title: "Zilli Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:56+03:00
+title: "Zilli Baba Türbesi"
+date: "2025-12-25T15:27:56+03:00"
 slug: "zilli-baba-turbesi"
 description: "## Zilli Baba Türbesi: Adana'nın Efsanevi Anıtı..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.33041,37.0094566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zilli Baba Türbesi: Adana'nın Efsanevi Anıtı

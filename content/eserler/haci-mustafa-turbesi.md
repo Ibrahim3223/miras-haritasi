@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mustafa Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:13+03:00
+title: "Hacı Mustafa Türbesi"
+date: "2025-12-25T14:39:13+03:00"
 slug: "haci-mustafa-turbesi"
 description: "# Hacı Mustafa Türbesi: Giresun'un Gizli Anıtı..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Dereli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.2748756,40.5737953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Mustafa Türbesi: Giresun'un Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Dermetinan Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:32+03:00
+title: "Dermetinan Kalesi"
+date: "2025-12-25T01:32:32+03:00"
 slug: "dermetinan-kalesi"
 description: "## Dermetinan Kalesi: Tarihi ve Kültürel Mirasın Parçaları..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Mazıdağı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.202,37.478954"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dermetinan Kalesi: Tarihi ve Kültürel Mirasın Parçaları

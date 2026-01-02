@@ -1,18 +1,17 @@
 ---
-title: "Ayios Minas Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:35+03:00
+title: "Ayios Minas Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:10:35+03:00"
 slug: "ayios-minas-rum-ortodoks-kilisesi"
 description: "## Ayios Minas Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.931949,41.000462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Minas Rum Ortodoks Kilisesi

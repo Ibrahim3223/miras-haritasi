@@ -1,18 +1,17 @@
 ---
-title: "Maltepe Tepe Üstü Yerleşimi, Karpuzlu | Miras Haritası"
-date: 2025-12-25T06:09:44+03:00
+title: "Maltepe Tepe Üstü Yerleşimi, Karpuzlu"
+date: "2025-12-25T06:09:44+03:00"
 slug: "maltepe-tepe-ustu-yerlesimi-karpuzlu"
 description: "## Maltepe Tepe Üstü Yerleşimi, Karpuzlu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karpuzlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8626003,37.5545998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltepe Tepe Üstü Yerleşimi, Karpuzlu

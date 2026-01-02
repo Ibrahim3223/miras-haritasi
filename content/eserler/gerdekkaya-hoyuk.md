@@ -1,18 +1,17 @@
 ---
-title: "Gerdekkaya Höyük | Miras Haritası"
-date: 2025-12-25T06:17:22+03:00
+title: "Gerdekkaya Höyük"
+date: "2025-12-25T06:17:22+03:00"
 slug: "gerdekkaya-hoyuk"
 description: "## Gerdekkaya Höyük: Sivas'ın Ölümsüz Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Yıldızeli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.675716,39.8690595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gerdekkaya Höyük: Sivas'ın Ölümsüz Mirası

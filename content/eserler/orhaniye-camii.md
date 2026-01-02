@@ -1,18 +1,17 @@
 ---
-title: "Orhaniye Camii | Miras Haritası"
-date: 2025-12-24T23:56:16+03:00
+title: "Orhaniye Camii"
+date: "2025-12-24T23:56:16+03:00"
 slug: "orhaniye-camii"
 description: "### Orhaniye Camii..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1693192,36.2038612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Orhaniye Camii

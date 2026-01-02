@@ -1,18 +1,17 @@
 ---
-title: "Hançalar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:44+03:00
+title: "Hançalar Köprüsü"
+date: "2025-12-25T02:41:44+03:00"
 slug: "hancalar-koprusu"
 description: "# Hançalar Köprüsü..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.4332485,38.1315956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hançalar Köprüsü

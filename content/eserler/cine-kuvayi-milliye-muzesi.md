@@ -1,18 +1,17 @@
 ---
-title: "Çine Kuvayı Milliye Müzesi | Miras Haritası"
-date: 2025-12-25T03:59:50+03:00
+title: "Çine Kuvayı Milliye Müzesi"
+date: "2025-12-25T03:59:50+03:00"
 slug: "cine-kuvayi-milliye-muzesi"
 description: "## Çine Kuvayı Milliye Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.064948,37.609392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çine Kuvayı Milliye Müzesi

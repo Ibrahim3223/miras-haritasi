@@ -1,18 +1,17 @@
 ---
-title: "Kazım Bulut Camii | Miras Haritası"
-date: 2025-12-24T21:48:46+03:00
+title: "Kazım Bulut Camii"
+date: "2025-12-24T21:48:46+03:00"
 slug: "kazim-bulut-camii"
 description: "# Kazım Bulut Camii: Alanya'nın Güzelliğine Örnek Bir Yapı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.992,36.55"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kazım Bulut Camii: Alanya'nın Güzelliğine Örnek Bir Yapı

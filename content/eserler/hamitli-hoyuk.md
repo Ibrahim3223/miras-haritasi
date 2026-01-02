@@ -1,18 +1,17 @@
 ---
-title: "Hamitli Höyük | Miras Haritası"
-date: 2025-12-25T05:30:04+03:00
+title: "Hamitli Höyük"
+date: "2025-12-25T05:30:04+03:00"
 slug: "hamitli-hoyuk"
 description: "# Hamitli Höyük: Eskişehir'in Gizli Klasik Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.876533,39.3474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamitli Höyük: Eskişehir'in Gizli Klasik Mirası

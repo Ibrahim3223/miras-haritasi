@@ -1,18 +1,17 @@
 ---
-title: "Xystoi/ Verulanus Stoaları | Miras Haritası"
-date: 2025-12-25T08:21:11+03:00
+title: "Xystoi/ Verulanus Stoaları"
+date: "2025-12-25T08:21:11+03:00"
 slug: "xystoi-verulanus-stoalari"
 description: "### Xystoi/ Verulanus Stoaları..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.339919355,37.944089594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Xystoi/ Verulanus Stoaları

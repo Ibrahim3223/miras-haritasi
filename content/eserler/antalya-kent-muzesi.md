@@ -1,18 +1,17 @@
 ---
-title: "Antalya Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:15+03:00
+title: "Antalya Kent Müzesi"
+date: "2025-12-25T03:54:15+03:00"
 slug: "antalya-kent-muzesi"
 description: "## Antalya Kent Müzesi: Bir Tarihî Kentin Gizemleri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.709421,36.881069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antalya Kent Müzesi: Bir Tarihî Kentin Gizemleri

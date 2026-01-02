@@ -1,18 +1,17 @@
 ---
-title: "Astyra (Aiolis) | Miras Haritası"
-date: 2025-12-25T05:02:12+03:00
+title: "Astyra (Aiolis)"
+date: "2025-12-25T05:02:12+03:00"
 slug: "astyra-aiolis"
 description: "## Astyra (Aiolis): Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.178235,39.560183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Astyra (Aiolis): Antik Çağın Gizemi

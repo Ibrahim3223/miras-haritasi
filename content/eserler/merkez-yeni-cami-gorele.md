@@ -1,18 +1,17 @@
 ---
-title: "Merkez Yeni Cami, Görele | Miras Haritası"
-date: 2025-12-25T01:07:55+03:00
+title: "Merkez Yeni Cami, Görele"
+date: "2025-12-25T01:07:55+03:00"
 slug: "merkez-yeni-cami-gorele"
 description: "## Merkez Yeni Cami, Görele: Görele'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.004776,41.0310707"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merkez Yeni Cami, Görele: Görele'nin Tarihi Bir Mirası

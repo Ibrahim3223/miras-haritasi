@@ -1,18 +1,17 @@
 ---
-title: "Kireçtepe Jandarma Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:30+03:00
+title: "Kireçtepe Jandarma Şehitliği"
+date: "2025-12-25T16:00:30+03:00"
 slug: "kirectepe-jandarma-sehitligi"
 description: "## Kireçtepe Jandarma Şehitliği: Eceabat'ın Anlaşılır Yarası..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2953491,40.3475914"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kireçtepe Jandarma Şehitliği: Eceabat'ın Anlaşılır Yarası

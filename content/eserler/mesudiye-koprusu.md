@@ -1,18 +1,17 @@
 ---
-title: "Mesudiye Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:41+03:00
+title: "Mesudiye Köprüsü"
+date: "2025-12-25T02:36:41+03:00"
 slug: "mesudiye-koprusu"
 description: "## Mesudiye Köprüsü: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Mesudiye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.411895,40.810147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mesudiye Köprüsü: Türkiye'nin Gizli Cenneti

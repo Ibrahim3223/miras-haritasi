@@ -1,18 +1,17 @@
 ---
-title: "Karakamış Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:53+03:00
+title: "Karakamış Türbesi"
+date: "2025-12-25T15:04:53+03:00"
 slug: "karakamis-turbesi"
 description: "## Karakamış Türbesi: Sakarya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.3732281,40.8125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakamış Türbesi: Sakarya'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sarı Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:33+03:00
+title: "Sarı Dede Türbesi"
+date: "2025-12-25T14:23:33+03:00"
 slug: "sari-dede-turbesi"
 description: "## Sarı Dede Türbesi: İstanbul'un Gizli Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Sarı_Dede_Türbesi,_Sarıyer,_İstanbul,_Turkiye_2023.jpg/1200px-Sarı_Dede_Türbesi,_Sarıyer,_İstanbul,_Turkiye_2023.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0579853,41.1697578"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sarı Dede Türbesi: İstanbul'un Gizli Öyküsü

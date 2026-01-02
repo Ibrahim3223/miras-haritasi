@@ -1,18 +1,17 @@
 ---
-title: "Aktaş Kilise Camii, Niğde | Miras Haritası"
-date: 2025-12-25T00:52:41+03:00
+title: "Aktaş Kilise Camii, Niğde"
+date: "2025-12-25T00:52:41+03:00"
 slug: "aktas-kilise-camii-nigde"
 description: "## Aktaş Kilise Camii, Niğde..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.7679977,38.024704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aktaş Kilise Camii, Niğde

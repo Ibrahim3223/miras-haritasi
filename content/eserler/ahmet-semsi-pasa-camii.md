@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Şemsi Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:58:02+03:00
+title: "Ahmet Şemsi Paşa Camii"
+date: "2025-12-24T22:58:02+03:00"
 slug: "ahmet-semsi-pasa-camii"
 description: "### Ahmet Şemsi Paşa Camii: Aydın'ın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0868492,37.8676033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Şemsi Paşa Camii: Aydın'ın Gizli Cenneti

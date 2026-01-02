@@ -1,18 +1,17 @@
 ---
-title: "Minareli Camii, Olukbaşı | Miras Haritası"
-date: 2025-12-24T23:54:44+03:00
+title: "Minareli Camii, Olukbaşı"
+date: "2025-12-24T23:54:44+03:00"
 slug: "minareli-camii-olukbasi"
 description: "### Minareli Camii, Olukbaşı: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.4867992,37.6654015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Minareli Camii, Olukbaşı: Aydın'ın Tarihi Bir Mirası

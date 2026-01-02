@@ -1,18 +1,17 @@
 ---
-title: "Levent Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:36:19+03:00
+title: "Levent Köyü Camii"
+date: "2025-12-25T00:36:19+03:00"
 slug: "levent-koyu-camii"
 description: "## Levent Köyü Camii: Hemşin'in Gizli Öztürkistanı..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Hemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.880979553,41.072673952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Levent Köyü Camii: Hemşin'in Gizli Öztürkistanı

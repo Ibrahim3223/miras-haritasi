@@ -1,18 +1,17 @@
 ---
-title: "Gazi Atik Ali Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:37:42+03:00
+title: "Gazi Atik Ali Paşa Camii"
+date: "2025-12-24T21:37:42+03:00"
 slug: "gazi-atik-ali-pasa-camii"
 description: "# Gazi Atik Ali Paşa Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/İstanbul_5874.jpg/1200px-İstanbul_5874.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.97055,41.00872"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Gazi Atik Ali Paşa Camii: İstanbul'un Gizli Cenneti

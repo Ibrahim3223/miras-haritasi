@@ -1,18 +1,17 @@
 ---
-title: "Tragasai | Miras Haritası"
-date: 2025-12-25T05:02:59+03:00
+title: "Tragasai"
+date: "2025-12-25T05:02:59+03:00"
 slug: "tragasai"
 description: "### Tragasai: Ayvacık'taki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.172501,39.566516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tragasai: Ayvacık'taki Gizemli Arkeolojik Sit

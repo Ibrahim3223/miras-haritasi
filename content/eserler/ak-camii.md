@@ -1,18 +1,17 @@
 ---
-title: "Ak Camii | Miras Haritası"
-date: 2025-12-24T22:57:25+03:00
+title: "Ak Camii"
+date: "2025-12-24T22:57:25+03:00"
 slug: "ak-camii"
 description: "## Ak Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8276329,36.0751801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ak Camii Tanıtımı

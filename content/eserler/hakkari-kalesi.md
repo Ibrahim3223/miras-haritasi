@@ -1,18 +1,17 @@
 ---
-title: "Hakkari Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:43+03:00
+title: "Hakkari Kalesi"
+date: "2025-12-25T01:33:43+03:00"
 slug: "hakkari-kalesi"
 description: "**Hakkâri Kalesi: Tarihî ve Kültürel Miras**..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Hakkâri"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.739256,37.569548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hakkâri Kalesi: Tarihî ve Kültürel Miras**

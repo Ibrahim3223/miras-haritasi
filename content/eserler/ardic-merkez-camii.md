@@ -1,18 +1,17 @@
 ---
-title: "Ardıç Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:16:07+03:00
+title: "Ardıç Merkez Camii"
+date: "2025-12-24T22:16:07+03:00"
 slug: "ardic-merkez-camii"
 description: "## Ardıç Merkez Camii: Ayvacık'ta Bir Tarihi Miras..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ayvacık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.6225014,40.9207993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ardıç Merkez Camii: Ayvacık'ta Bir Tarihi Miras

@@ -1,18 +1,17 @@
 ---
-title: "Erenler Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:50+03:00
+title: "Erenler Köprüsü"
+date: "2025-12-25T02:04:50+03:00"
 slug: "erenler-koprusu"
 description: "## Erenler Köprüsü: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.8311176,41.0905209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erenler Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

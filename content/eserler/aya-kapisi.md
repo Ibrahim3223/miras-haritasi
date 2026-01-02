@@ -1,18 +1,17 @@
 ---
-title: "Aya Kapısı | Miras Haritası"
-date: 2025-12-25T13:15:17+03:00
+title: "Aya Kapısı"
+date: "2025-12-25T13:15:17+03:00"
 slug: "aya-kapisi"
 description: "## Aya Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aya_Kapısı_03.jpg/1200px-Aya_Kapısı_03.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.956346641,41.027844323"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aya Kapısı

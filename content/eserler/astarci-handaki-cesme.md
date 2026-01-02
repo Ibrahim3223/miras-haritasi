@@ -1,18 +1,17 @@
 ---
-title: "Astarcı Han'daki Çeşme | Miras Haritası"
-date: 2025-12-25T11:43:11+03:00
+title: "Astarcı Han'daki Çeşme"
+date: "2025-12-25T11:43:11+03:00"
 slug: "astarci-handaki-cesme"
 description: "## Astarcı Han'daki Çeşme: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Halife_Cilvenaz_Çeşmesi_Genel_Görüntüsü_2.jpg/1200px-Halife_Cilvenaz_Çeşmesi_Genel_Görüntüsü_2.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9673367,41.0118027"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Astarcı Han'daki Çeşme: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Arguthan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:20+03:00
+title: "Arguthan Köprüsü"
+date: "2025-12-25T02:22:20+03:00"
 slug: "arguthan-koprusu"
 description: "### Arguthan Köprüsü: Akşehir'in Tarihi ve Mimari Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.7142162,38.2961769"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arguthan Köprüsü: Akşehir'in Tarihi ve Mimari Mirası

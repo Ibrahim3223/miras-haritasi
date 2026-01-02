@@ -1,18 +1,17 @@
 ---
-title: "Hatice Canan Hanım Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:06+03:00
+title: "Hatice Canan Hanım Türbesi"
+date: "2025-12-25T14:37:06+03:00"
 slug: "hatice-canan-hanim-turbesi"
 description: "### Hatice Canan Hanım Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.93536,41.0478668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hatice Canan Hanım Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Suretli Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:08:31+03:00
+title: "Suretli Mehmet Paşa Camii"
+date: "2025-12-24T23:08:31+03:00"
 slug: "suretli-mehmet-pasa-camii"
 description: "## Suretli Mehmet Paşa Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7415409,38.0842361"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Suretli Mehmet Paşa Camii: İzmir'in Gizli Cenneti

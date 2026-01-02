@@ -1,18 +1,17 @@
 ---
-title: "Karakatip Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:33+03:00
+title: "Karakatip Çeşmesi"
+date: "2025-12-25T10:40:33+03:00"
 slug: "karakatip-cesmesi"
 description: "## Karakatip Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5263405,38.7556686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakatip Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi

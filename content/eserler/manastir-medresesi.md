@@ -1,18 +1,17 @@
 ---
-title: "Manastır Medresesi | Miras Haritası"
-date: 2025-12-25T17:38:52+03:00
+title: "Manastır Medresesi"
+date: "2025-12-25T17:38:52+03:00"
 slug: "manastir-medresesi"
 description: "## Manastır Medresesi: Bursa'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0577335,40.1866646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manastır Medresesi: Bursa'nın Gizli Çehresini Keşfetmek

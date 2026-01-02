@@ -1,18 +1,17 @@
 ---
-title: "Safalıhöyük | Miras Haritası"
-date: 2025-12-25T06:44:36+03:00
+title: "Safalıhöyük"
+date: "2025-12-25T06:44:36+03:00"
 slug: "safalihoyuk"
 description: "## Safalıhöyük: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2954057,39.6402729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Safalıhöyük: Tarihî Bir Mirasın Gizemi

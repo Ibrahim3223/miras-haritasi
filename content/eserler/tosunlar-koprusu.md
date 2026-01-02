@@ -1,18 +1,17 @@
 ---
-title: "Tosunlar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:25+03:00
+title: "Tosunlar Köprüsü"
+date: "2025-12-25T02:21:25+03:00"
 slug: "tosunlar-koprusu"
 description: "## Tosunlar Köprüsü: Ödemiş'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.9027996,38.2841988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tosunlar Köprüsü: Ödemiş'in Tarihî Mirası

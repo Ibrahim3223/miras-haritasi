@@ -1,18 +1,17 @@
 ---
-title: "Harpasa | Miras Haritası"
-date: 2025-12-25T04:36:05+03:00
+title: "Harpasa"
+date: "2025-12-25T04:36:05+03:00"
 slug: "harpasa"
 description: "### Harpasa: Ege Bölgesi'nin Gizli İncisi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.34805556,37.80583333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Harpasa: Ege Bölgesi'nin Gizli İncisi

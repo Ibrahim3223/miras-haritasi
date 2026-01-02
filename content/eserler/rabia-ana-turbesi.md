@@ -1,18 +1,17 @@
 ---
-title: "Rabia Ana Türbesi | Miras Haritası"
-date: 2025-12-25T13:57:02+03:00
+title: "Rabia Ana Türbesi"
+date: "2025-12-25T13:57:02+03:00"
 slug: "rabia-ana-turbesi"
 description: "## Rabia Ana Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2792091,39.9024696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rabia Ana Türbesi

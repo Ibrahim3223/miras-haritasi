@@ -1,18 +1,17 @@
 ---
-title: "Parion Hamam | Miras Haritası"
-date: 2025-12-25T17:11:01+03:00
+title: "Parion Hamam"
+date: "2025-12-25T17:11:01+03:00"
 slug: "parion-hamam"
 description: "## Parion Hamamı: Bir Roma Dönemi Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.069608187,40.425658871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parion Hamamı: Bir Roma Dönemi Mirası

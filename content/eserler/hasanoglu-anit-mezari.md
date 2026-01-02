@@ -1,18 +1,17 @@
 ---
-title: "Hasanoğlu Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:09:48+03:00
+title: "Hasanoğlu Anıt Mezarı"
+date: "2025-12-25T14:09:48+03:00"
 slug: "hasanoglu-anit-mezari"
 description: "## Hasanoğlu Anıt Mezarı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Araban"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.8534355,37.3855247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasanoğlu Anıt Mezarı

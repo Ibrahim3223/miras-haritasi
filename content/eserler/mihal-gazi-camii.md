@@ -1,18 +1,17 @@
 ---
-title: "Mihal Gazi Camii | Miras Haritası"
-date: 2025-12-25T00:53:36+03:00
+title: "Mihal Gazi Camii"
+date: "2025-12-25T00:53:36+03:00"
 slug: "mihal-gazi-camii"
 description: "**Mihal Gazi Camii: Gölpazarı'nın Tarihi Bir Yapısı**..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Gölpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.3167248,40.2834549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mihal Gazi Camii: Gölpazarı'nın Tarihi Bir Yapısı**

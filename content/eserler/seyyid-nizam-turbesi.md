@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Nizam Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:39+03:00
+title: "Seyyid Nizam Türbesi"
+date: "2025-12-25T14:28:39+03:00"
 slug: "seyyid-nizam-turbesi"
 description: "## Seyyid Nizam Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9133,41.005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Nizam Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Kenan Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:06:12+03:00
+title: "Kenan Tepe Höyüğü"
+date: "2025-12-25T07:06:12+03:00"
 slug: "kenan-tepe-hoyugu"
 description: "### Kenan Tepe Höyüğü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.813221,37.8305893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kenan Tepe Höyüğü

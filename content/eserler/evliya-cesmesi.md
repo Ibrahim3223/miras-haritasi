@@ -1,18 +1,17 @@
 ---
-title: "Evliya Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:42+03:00
+title: "Evliya Çeşmesi"
+date: "2025-12-25T11:01:42+03:00"
 slug: "evliya-cesmesi"
 description: "## Evliya Çeşmesi: Fatih'in Gizemli Suyu..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mevlanakapı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9236962,41.0132279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evliya Çeşmesi: Fatih'in Gizemli Suyu

@@ -1,18 +1,17 @@
 ---
-title: "Vucudizade Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:51+03:00
+title: "Vucudizade Türbesi"
+date: "2025-12-25T14:29:51+03:00"
 slug: "vucudizade-turbesi"
 description: "**Vucudizade Türbesi: Fatih'te Bir Altın Örnek**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.934079,41.004662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Vucudizade Türbesi: Fatih'te Bir Altın Örnek**

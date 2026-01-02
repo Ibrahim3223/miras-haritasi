@@ -1,18 +1,17 @@
 ---
-title: "Ferruh Kethüda Camii Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:42:54+03:00
+title: "Ferruh Kethüda Camii Güneş Saati"
+date: "2025-12-25T13:42:54+03:00"
 slug: "ferruh-kethuda-camii-gunes-saati"
 description: "## Ferruh Kethüda Camii Güneş Saati ..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9457417,41.0343285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferruh Kethüda Camii Güneş Saati 

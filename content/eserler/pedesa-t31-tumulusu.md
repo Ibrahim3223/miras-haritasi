@@ -1,18 +1,17 @@
 ---
-title: "Pedesa T31 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:38:44+03:00
+title: "Pedesa T31 Tümülüsü"
+date: "2025-12-25T07:38:44+03:00"
 slug: "pedesa-t31-tumulusu"
 description: "### Pedesa T31 Tümülüsü: Bodrum'un Gizli Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.425361423,37.060052787"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pedesa T31 Tümülüsü: Bodrum'un Gizli Mirası

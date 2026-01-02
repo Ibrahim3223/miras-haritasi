@@ -1,18 +1,17 @@
 ---
-title: "Kilyos Deresi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:06:55+03:00
+title: "Kilyos Deresi Köprüsü"
+date: "2025-12-25T02:06:55+03:00"
 slug: "kilyos-deresi-koprusu"
 description: "## Kilyos Deresi Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.039421,41.246214"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilyos Deresi Köprüsü

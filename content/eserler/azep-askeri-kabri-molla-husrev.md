@@ -1,18 +1,17 @@
 ---
-title: "Azep Askeri Kabri, Molla Hüsrev | Miras Haritası"
-date: 2025-12-25T13:28:28+03:00
+title: "Azep Askeri Kabri, Molla Hüsrev"
+date: "2025-12-25T13:28:28+03:00"
 slug: "azep-askeri-kabri-molla-husrev"
 description: "### Azep Askeri Kabri, Molla Hüsrev..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.958019,41.01615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Azep Askeri Kabri, Molla Hüsrev

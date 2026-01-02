@@ -1,18 +1,17 @@
 ---
-title: "Kıbrıs Anıtı | Miras Haritası"
-date: 2025-12-25T15:41:21+03:00
+title: "Kıbrıs Anıtı"
+date: "2025-12-25T15:41:21+03:00"
 slug: "kibris-aniti"
 description: "### Kıbrıs Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cyprus_Monument.jpg/1200px-Cyprus_Monument.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beylikdüzü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.63625,41.00775"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kıbrıs Anıtı

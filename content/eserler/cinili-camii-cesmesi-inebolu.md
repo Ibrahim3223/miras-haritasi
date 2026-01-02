@@ -1,18 +1,17 @@
 ---
-title: "Çinili Camii Çeşmesi, İnebolu | Miras Haritası"
-date: 2025-12-25T12:59:46+03:00
+title: "Çinili Camii Çeşmesi, İnebolu"
+date: "2025-12-25T12:59:46+03:00"
 slug: "cinili-camii-cesmesi-inebolu"
 description: "### Çinili Camii Çeşmesi, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.785395012,41.965894333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çinili Camii Çeşmesi, İnebolu

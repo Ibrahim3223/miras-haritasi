@@ -1,18 +1,17 @@
 ---
-title: "Saden Camii | Miras Haritası"
-date: 2025-12-24T22:38:41+03:00
+title: "Saden Camii"
+date: "2025-12-24T22:38:41+03:00"
 slug: "saden-camii"
 description: "## Saden Camii..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2893715,37.7148743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saden Camii

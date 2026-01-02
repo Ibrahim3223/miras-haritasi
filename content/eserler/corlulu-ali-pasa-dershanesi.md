@@ -1,18 +1,17 @@
 ---
-title: "Çorlulu Ali Paşa Dershanesi | Miras Haritası"
-date: 2025-12-25T17:29:27+03:00
+title: "Çorlulu Ali Paşa Dershanesi"
+date: "2025-12-25T17:29:27+03:00"
 slug: "corlulu-ali-pasa-dershanesi"
 description: "# Çorlulu Ali Paşa Dershanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.968493,41.008966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çorlulu Ali Paşa Dershanesi

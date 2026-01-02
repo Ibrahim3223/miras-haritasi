@@ -1,18 +1,17 @@
 ---
-title: "Ebu İshak Camii | Miras Haritası"
-date: 2025-12-24T22:36:43+03:00
+title: "Ebu İshak Camii"
+date: "2025-12-24T22:36:43+03:00"
 slug: "ebu-ishak-camii"
 description: "## Ebu İshak Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0707016,40.1853714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebu İshak Camii

@@ -1,18 +1,17 @@
 ---
-title: "Davut Ağa Mescidi | Miras Haritası"
-date: 2025-12-24T22:51:39+03:00
+title: "Davut Ağa Mescidi"
+date: "2025-12-24T22:51:39+03:00"
 slug: "davut-aga-mescidi"
 description: "## Davut Ağa Mescidi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.931862,41.039489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Davut Ağa Mescidi

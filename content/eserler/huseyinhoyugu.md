@@ -1,18 +1,17 @@
 ---
-title: "Hüseyinhöyüğü | Miras Haritası"
-date: 2025-12-25T13:46:39+03:00
+title: "Hüseyinhöyüğü"
+date: "2025-12-25T13:46:39+03:00"
 slug: "huseyinhoyugu"
 description: "### Hüseyinhöyüğü: Kayseri'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.2048785,38.8740226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hüseyinhöyüğü: Kayseri'nin Gizli Anıtı

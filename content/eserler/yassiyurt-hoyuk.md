@@ -1,18 +1,17 @@
 ---
-title: "Yassıyurt Höyük | Miras Haritası"
-date: 2025-12-25T06:39:55+03:00
+title: "Yassıyurt Höyük"
+date: "2025-12-25T06:39:55+03:00"
 slug: "yassiyurt-hoyuk"
 description: "## Yassıyurt Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.472391531,36.577227165"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yassıyurt Höyük: Tarihî Bir Mirasın İzleri

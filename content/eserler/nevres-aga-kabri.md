@@ -1,18 +1,17 @@
 ---
-title: "Nevres Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:59:03+03:00
+title: "Nevres Ağa Kabri"
+date: "2025-12-25T13:59:03+03:00"
 slug: "nevres-aga-kabri"
 description: "## Nevres Ağa Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9579067,41.0191956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nevres Ağa Kabri: Fatih'in Gizli Anıtı

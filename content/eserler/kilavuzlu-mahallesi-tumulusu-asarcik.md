@@ -1,18 +1,17 @@
 ---
-title: "Kılavuzlu Mahallesi Tümülüsü, Asarcık | Miras Haritası"
-date: 2025-12-25T07:25:11+03:00
+title: "Kılavuzlu Mahallesi Tümülüsü, Asarcık"
+date: "2025-12-25T07:25:11+03:00"
 slug: "kilavuzlu-mahallesi-tumulusu-asarcik"
 description: "## Kılavuzlu Mahallesi Tümülüsü, Asarcık..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Asarcık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.288766,41.023346"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılavuzlu Mahallesi Tümülüsü, Asarcık

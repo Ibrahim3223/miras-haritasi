@@ -1,18 +1,17 @@
 ---
-title: "Topal Mehmet Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:41:04+03:00
+title: "Topal Mehmet Paşa Hamamı"
+date: "2025-12-25T16:41:04+03:00"
 slug: "topal-mehmet-pasa-hamami"
 description: "## Topal Mehmet Paşa Hamamı: Şebinkarahisar'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.423923,40.283374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topal Mehmet Paşa Hamamı: Şebinkarahisar'ın Tarihî Bir Mirası

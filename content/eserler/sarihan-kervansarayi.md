@@ -1,18 +1,17 @@
 ---
-title: "Sarıhan Kervansarayı | Miras Haritası"
-date: 2025-12-25T13:39:14+03:00
+title: "Sarıhan Kervansarayı"
+date: "2025-12-25T13:39:14+03:00"
 slug: "sarihan-kervansarayi"
 description: "## Sarıhan Kervansarayı: Tarihî Bir Eğri Boyu Kervansarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sarihangesamt.jpg/1200px-Sarihangesamt.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Nevşehir"
+province: "Nevşehir"
+iller: '["Nevşehir"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.90888889,38.71166667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sarıhan Kervansarayı: Tarihî Bir Eğri Boyu Kervansarayı

@@ -1,18 +1,17 @@
 ---
-title: "Şair Zihni Anıtı Bayburt | Miras Haritası"
-date: 2025-12-25T15:51:05+03:00
+title: "Şair Zihni Anıtı Bayburt"
+date: "2025-12-25T15:51:05+03:00"
 slug: "sair-zihni-aniti-bayburt"
 description: "### Şair Zihni Anıtı Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.225021,40.254366"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şair Zihni Anıtı Bayburt

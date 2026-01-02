@@ -1,18 +1,17 @@
 ---
-title: "Kanlı Sırt Anıtı | Miras Haritası"
-date: 2025-12-25T15:48:09+03:00
+title: "Kanlı Sırt Anıtı"
+date: "2025-12-25T15:48:09+03:00"
 slug: "kanli-sirt-aniti"
 description: "## Kanlı Sırt Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2911816,40.229187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanlı Sırt Anıtı

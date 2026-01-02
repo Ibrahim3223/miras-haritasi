@@ -1,18 +1,17 @@
 ---
-title: "Ahmediye Camii Köşe Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:09:03+03:00
+title: "Ahmediye Camii Köşe Çeşmesi"
+date: "2025-12-25T11:09:03+03:00"
 slug: "ahmediye-camii-kose-cesmesi"
 description: "### Ahmediye Camii Köşe Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ahmediye_Camii_Köşe_Çeşmesi.jpg/1200px-Ahmediye_Camii_Köşe_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.01659,41.020546"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ahmediye Camii Köşe Çeşmesi

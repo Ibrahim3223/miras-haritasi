@@ -1,18 +1,17 @@
 ---
-title: "Magnesia ad Maeandrum Artemis Tapınağı | Miras Haritası"
-date: 2025-12-25T08:09:39+03:00
+title: "Magnesia ad Maeandrum Artemis Tapınağı"
+date: "2025-12-25T08:09:39+03:00"
 slug: "magnesia-ad-maeandrum-artemis-tapinagi"
 description: "## Magnesia ad Maeandrum Artemis Tapınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Магнесия_на_Меандре._Храм_Артемиды_Левкофрины.jpg/1200px-Магнесия_на_Меандре._Храм_Артемиды_Левкофрины.jpg"
 province: "Germencik (ilçe)"
-iller: ["Germencik (ilçe)"]
+iller: '["Germencik (ilçe)"]'
 district: "Tekin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.527222222,37.853333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Magnesia ad Maeandrum Artemis Tapınağı

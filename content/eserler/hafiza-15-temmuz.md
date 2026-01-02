@@ -1,18 +1,17 @@
 ---
-title: "Hafıza 15 Temmuz | Miras Haritası"
-date: 2025-12-25T03:38:43+03:00
+title: "Hafıza 15 Temmuz"
+date: "2025-12-25T03:38:43+03:00"
 slug: "hafiza-15-temmuz"
 description: "## Hafıza 15 Temmuz Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hafıza_15_Temmuz_7.jpg/1200px-Hafıza_15_Temmuz_7.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.041444444,41.037111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hafıza 15 Temmuz Müzesi

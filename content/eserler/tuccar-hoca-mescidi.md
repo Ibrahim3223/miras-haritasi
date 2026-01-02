@@ -1,18 +1,17 @@
 ---
-title: "Tüccar Hoca Mescidi | Miras Haritası"
-date: 2025-12-25T00:48:35+03:00
+title: "Tüccar Hoca Mescidi"
+date: "2025-12-25T00:48:35+03:00"
 slug: "tuccar-hoca-mescidi"
 description: "### Tüccar Hoca Mescidi: Menteşe'nin Gizli Çehresini İnceleme..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.367672,37.2185097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tüccar Hoca Mescidi: Menteşe'nin Gizli Çehresini İnceleme

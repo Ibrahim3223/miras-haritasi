@@ -1,18 +1,17 @@
 ---
-title: "Küllük Höyük, Sivas | Miras Haritası"
-date: 2025-12-25T05:53:23+03:00
+title: "Küllük Höyük, Sivas"
+date: "2025-12-25T05:53:23+03:00"
 slug: "kulluk-hoyuk-sivas"
 description: "## Küllük Höyük, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8274841,39.6460152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küllük Höyük, Sivas

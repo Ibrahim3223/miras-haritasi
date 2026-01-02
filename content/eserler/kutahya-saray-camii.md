@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Saray Camii | Miras Haritası"
-date: 2025-12-24T21:54:42+03:00
+title: "Kütahya Saray Camii"
+date: "2025-12-24T21:54:42+03:00"
 slug: "kutahya-saray-camii"
 description: "### Kütahya Saray Camii: Tarihi ve Kültürel Mirasının Bir Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Saray_camii_hükümet_konağı_ve_yeşil_cami_minaresi.JPG/1200px-Saray_camii_hükümet_konağı_ve_yeşil_cami_minaresi.JPG"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.984444444,39.416388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kütahya Saray Camii: Tarihi ve Kültürel Mirasının Bir Örneği

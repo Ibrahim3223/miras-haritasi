@@ -1,18 +1,17 @@
 ---
-title: "Yukarıpazar Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:42:17+03:00
+title: "Yukarıpazar Sokak Çeşmesi"
+date: "2025-12-25T10:42:17+03:00"
 slug: "yukaripazar-sokak-cesmesi"
 description: "## Yukarıpazar Sokak Çeşmesi: Kastamonu'nun Gizli Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7692108,41.3771744"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarıpazar Sokak Çeşmesi: Kastamonu'nun Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Silivri Mimar Sinan Köprüsü | Miras Haritası"
-date: 2025-12-24T23:52:05+03:00
+title: "Silivri Mimar Sinan Köprüsü"
+date: "2025-12-24T23:52:05+03:00"
 slug: "silivri-mimar-sinan-koprusu"
 description: "## Silivri Mimar Sinan Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Silivri_Mimar_Sinan_Köprüsü.jpg/1200px-Silivri_Mimar_Sinan_Köprüsü.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.234525,41.079003"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Silivri Mimar Sinan Köprüsü

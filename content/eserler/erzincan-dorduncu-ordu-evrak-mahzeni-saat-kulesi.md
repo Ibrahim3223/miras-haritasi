@@ -1,18 +1,17 @@
 ---
-title: "Erzincan Dördüncü Ordu Evrak Mahzeni Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:18+03:00
+title: "Erzincan Dördüncü Ordu Evrak Mahzeni Saat Kulesi"
+date: "2025-12-25T17:18:18+03:00"
 slug: "erzincan-dorduncu-ordu-evrak-mahzeni-saat-kulesi"
 description: "## Erzincan Dördüncü Ordu Evrak Mahzeni Saat Kulesi: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erzincan Dördüncü Ordu Evrak Mahzeni Saat Kulesi: Tarihinin ve Mimarisinin Gizemi

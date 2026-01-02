@@ -1,18 +1,17 @@
 ---
-title: "Vezir Çeşmesi (Kartal) | Miras Haritası"
-date: 2025-12-25T12:19:43+03:00
+title: "Vezir Çeşmesi (Kartal)"
+date: "2025-12-25T12:19:43+03:00"
 slug: "vezir-cesmesi-kartal"
 description: "## Vezir Çeşmesi: Kartal'da Bir Tarihi Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Vezir_emesi_1761584002.jpg/1200px-Vezir_emesi_1761584002.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.228718,40.91873"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Vezir Çeşmesi: Kartal'da Bir Tarihi Örnek

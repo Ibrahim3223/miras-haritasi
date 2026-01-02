@@ -1,18 +1,17 @@
 ---
-title: "Kazım Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:11:08+03:00
+title: "Kazım Bey Çeşmesi"
+date: "2025-12-25T10:11:08+03:00"
 slug: "kazim-bey-cesmesi"
 description: "### Kazım Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kazım_Bey_Çeşmesi,_Fatih,_İstanbul_2025.jpg/1200px-Kazım_Bey_Çeşmesi,_Fatih,_İstanbul_2025.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.943327,41.007282"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kazım Bey Çeşmesi

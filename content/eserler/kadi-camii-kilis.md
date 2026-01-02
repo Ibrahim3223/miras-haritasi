@@ -1,18 +1,17 @@
 ---
-title: "Kadı Camii, Kilis | Miras Haritası"
-date: 2025-12-25T00:04:42+03:00
+title: "Kadı Camii, Kilis"
+date: "2025-12-25T00:04:42+03:00"
 slug: "kadi-camii-kilis"
 description: "## Kadı Camii: Kilis'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.1149712,36.7163467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Camii: Kilis'in Tarihi ve Kültürel Mirası

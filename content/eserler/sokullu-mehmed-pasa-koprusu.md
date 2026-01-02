@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmed Paşa Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:29+03:00
+title: "Sokullu Mehmed Paşa Köprüsü"
+date: "2025-12-25T02:07:29+03:00"
 slug: "sokullu-mehmed-pasa-koprusu"
 description: "## Sokullu Mehmed Paşa Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Luleburgaz,_Sokollu_bridge_(XXXVIII-35,_n.d.).jpg/1200px-Luleburgaz,_Sokollu_bridge_(XXXVIII-35,_n.d.).jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.345861111,41.40775"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sokullu Mehmed Paşa Köprüsü

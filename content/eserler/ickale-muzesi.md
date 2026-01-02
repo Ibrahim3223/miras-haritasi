@@ -1,18 +1,17 @@
 ---
-title: "İçkale Müzesi | Miras Haritası"
-date: 2025-12-25T03:21:07+03:00
+title: "İçkale Müzesi"
+date: "2025-12-25T03:21:07+03:00"
 slug: "ickale-muzesi"
 description: "## İçkale Müzesi: Alanya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İçkale Müzesi: Alanya'nın Tarihî Mirası

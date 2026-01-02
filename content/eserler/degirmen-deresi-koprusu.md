@@ -1,18 +1,17 @@
 ---
-title: "Değirmen Deresi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:37+03:00
+title: "Değirmen Deresi Köprüsü"
+date: "2025-12-25T02:14:37+03:00"
 slug: "degirmen-deresi-koprusu"
 description: "## Değirmen Deresi Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2401905,38.420166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmen Deresi Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Edirnekapı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:05+03:00
+title: "Edirnekapı Köprüsü"
+date: "2025-12-25T02:22:05+03:00"
 slug: "edirnekapi-koprusu"
 description: "## Edirnekapı Köprüsü: İstanbul'un Efsanevi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.934988,41.0303993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Edirnekapı Köprüsü: İstanbul'un Efsanevi Mirası

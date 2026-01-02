@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:31:55+03:00
+title: "Seyyid Baba Türbesi"
+date: "2025-12-25T15:31:55+03:00"
 slug: "seyyid-baba-turbesi"
 description: "### Seyyid Baba Türbesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.940172841,41.008077548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyyid Baba Türbesi: İstanbul'un Gizli Cenneti

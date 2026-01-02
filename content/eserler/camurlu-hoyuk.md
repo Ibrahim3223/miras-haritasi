@@ -1,18 +1,17 @@
 ---
-title: "Çamurlu Höyük | Miras Haritası"
-date: 2025-12-25T06:22:53+03:00
+title: "Çamurlu Höyük"
+date: "2025-12-25T06:22:53+03:00"
 slug: "camurlu-hoyuk"
 description: "# Çamurlu Höyük: Yozgat'ta Gizemli Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sorgun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.1011242,39.6433188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çamurlu Höyük: Yozgat'ta Gizemli Bir Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Manava (Pamfilya) | Miras Haritası"
-date: 2025-12-25T04:52:37+03:00
+title: "Manava (Pamfilya)"
+date: "2025-12-25T04:52:37+03:00"
 slug: "manava-pamfilya"
 description: "# Manava (Pamfilya): Antik Kentin Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.4469115,36.787064"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Manava (Pamfilya): Antik Kentin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "İsili Höyük | Miras Haritası"
-date: 2025-12-25T06:37:11+03:00
+title: "İsili Höyük"
+date: "2025-12-25T06:37:11+03:00"
 slug: "isili-hoyuk"
 description: "### İsili Höyük: Adana'nın Gizli Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Ceyhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.7409501,36.9319227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsili Höyük: Adana'nın Gizli Mirası

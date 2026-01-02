@@ -1,18 +1,17 @@
 ---
-title: "Abide-i Zafer, Lüleburgaz | Miras Haritası"
-date: 2025-12-25T15:44:37+03:00
+title: "Abide-i Zafer, Lüleburgaz"
+date: "2025-12-25T15:44:37+03:00"
 slug: "abide-i-zafer-luleburgaz"
 description: "## Abide-i Zafer, Lüleburgaz: Tarihin ve Zaferin Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3335495,41.355896"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abide-i Zafer, Lüleburgaz: Tarihin ve Zaferin Anıtı

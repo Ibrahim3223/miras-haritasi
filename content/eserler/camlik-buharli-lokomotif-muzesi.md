@@ -1,18 +1,17 @@
 ---
-title: "Çamlık Buharlı Lokomotif Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:57+03:00
+title: "Çamlık Buharlı Lokomotif Müzesi"
+date: "2025-12-25T03:10:57+03:00"
 slug: "camlik-buharli-lokomotif-muzesi"
 description: "## Çamlık Buharlı Lokomotif Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/57_01_Camlik1.jpg/1200px-57_01_Camlik1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.3806,37.8852"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çamlık Buharlı Lokomotif Müzesi

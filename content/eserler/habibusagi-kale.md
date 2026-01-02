@@ -1,18 +1,17 @@
 ---
-title: "Habibuşağı Kale | Miras Haritası"
-date: 2025-12-25T07:02:10+03:00
+title: "Habibuşağı Kale"
+date: "2025-12-25T07:02:10+03:00"
 slug: "habibusagi-kale"
 description: "## Habibuşağı Kale..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Habibuşağı Kale

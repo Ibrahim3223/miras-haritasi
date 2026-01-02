@@ -1,18 +1,17 @@
 ---
-title: "Ertuğrul Affan Camii | Miras Haritası"
-date: 2025-12-24T23:00:15+03:00
+title: "Ertuğrul Affan Camii"
+date: "2025-12-24T23:00:15+03:00"
 slug: "ertugrul-affan-camii"
 description: "## Ertuğrul Affan Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Antakya_Ertuğrul_Affan_Mosque_in_2008_01.jpg/1200px-Antakya_Ertuğrul_Affan_Mosque_in_2008_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.163475,36.198101"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ertuğrul Affan Camii

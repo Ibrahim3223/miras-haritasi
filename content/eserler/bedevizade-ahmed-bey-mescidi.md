@@ -1,18 +1,17 @@
 ---
-title: "Bedevizade Ahmed Bey Mescidi | Miras Haritası"
-date: 2025-12-24T23:49:51+03:00
+title: "Bedevizade Ahmed Bey Mescidi"
+date: "2025-12-24T23:49:51+03:00"
 slug: "bedevizade-ahmed-bey-mescidi"
 description: "**Bedevizade Ahmed Bey Mescidi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bedevizade_Ahmed_Bey_Mescidi44.JPG/1200px-Bedevizade_Ahmed_Bey_Mescidi44.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.542360331,41.689210636"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Bedevizade Ahmed Bey Mescidi**

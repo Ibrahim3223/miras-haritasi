@@ -1,18 +1,17 @@
 ---
-title: "Kadı İbrahim Çeşmesi, Akçadağ | Miras Haritası"
-date: 2025-12-25T12:26:38+03:00
+title: "Kadı İbrahim Çeşmesi, Akçadağ"
+date: "2025-12-25T12:26:38+03:00"
 slug: "kadi-ibrahim-cesmesi-akcadag"
 description: "## Kadı İbrahim Çeşmesi: Akçadağ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.981141451,38.505809328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı İbrahim Çeşmesi: Akçadağ'ın Tarihi ve Kültürel Mirası

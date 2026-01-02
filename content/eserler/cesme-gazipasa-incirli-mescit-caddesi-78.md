@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Gazipaşa, İncirli Mescit Caddesi, 78 | Miras Haritası"
-date: 2025-12-25T12:06:10+03:00
+title: "Çeşme – Gazipaşa, İncirli Mescit Caddesi, 78"
+date: "2025-12-25T12:06:10+03:00"
 slug: "cesme-gazipasa-incirli-mescit-caddesi-78"
 description: "## Çeşme – Gazipaşa, İncirli Mescit Caddesi, 78: Bergama'nın Şirin Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1752396,39.1215477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Gazipaşa, İncirli Mescit Caddesi, 78: Bergama'nın Şirin Çeşmesi

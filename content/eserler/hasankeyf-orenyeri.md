@@ -1,18 +1,17 @@
 ---
-title: "Hasankeyf Örenyeri | Miras Haritası"
-date: 2025-12-25T03:34:56+03:00
+title: "Hasankeyf Örenyeri"
+date: "2025-12-25T03:34:56+03:00"
 slug: "hasankeyf-orenyeri"
 description: "## Hasankeyf Örenyeri: Türkiye'nin En Eski ve En Gizemli Yerleri..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Hasankeyf"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasankeyf Örenyeri: Türkiye'nin En Eski ve En Gizemli Yerleri

@@ -1,18 +1,17 @@
 ---
-title: "Hamam Kalıntısı 1, İznik | Miras Haritası"
-date: 2025-12-25T17:02:31+03:00
+title: "Hamam Kalıntısı 1, İznik"
+date: "2025-12-25T17:02:31+03:00"
 slug: "hamam-kalintisi-1-iznik"
 description: "## Hamam Kalıntısı 1, İznik: Bir İznik Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.7192173,40.4255562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamam Kalıntısı 1, İznik: Bir İznik Mirası

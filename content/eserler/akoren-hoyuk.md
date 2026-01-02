@@ -1,18 +1,17 @@
 ---
-title: "Akören Höyük | Miras Haritası"
-date: 2025-12-25T05:28:41+03:00
+title: "Akören Höyük"
+date: "2025-12-25T05:28:41+03:00"
 slug: "akoren-hoyuk"
 description: "**Akören Höyük: Eskişehir'in Gizli Tarihi**..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.601267,39.622783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akören Höyük: Eskişehir'in Gizli Tarihi**

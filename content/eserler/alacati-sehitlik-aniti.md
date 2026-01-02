@@ -1,18 +1,17 @@
 ---
-title: "Alaçatı Şehitlik Anıtı | Miras Haritası"
-date: 2025-12-25T15:58:23+03:00
+title: "Alaçatı Şehitlik Anıtı"
+date: "2025-12-25T15:58:23+03:00"
 slug: "alacati-sehitlik-aniti"
 description: "## Alaçatı Şehitlik Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.377533,38.2793808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaçatı Şehitlik Anıtı

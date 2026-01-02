@@ -1,18 +1,17 @@
 ---
-title: "Akkuzulu Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:05+03:00
+title: "Akkuzulu Hamamı"
+date: "2025-12-25T17:10:05+03:00"
 slug: "akkuzulu-hamami"
 description: "### Akkuzulu Hamamı: Ankara'nın Eski Bir Hamamı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.1307433,40.2087378"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akkuzulu Hamamı: Ankara'nın Eski Bir Hamamı

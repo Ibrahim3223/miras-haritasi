@@ -1,18 +1,17 @@
 ---
-title: "Sefer Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:37:45+03:00
+title: "Sefer Dede Kabri"
+date: "2025-12-25T13:37:45+03:00"
 slug: "sefer-dede-kabri"
 description: "## Sefer Dede Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.961996,41.02158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sefer Dede Kabri

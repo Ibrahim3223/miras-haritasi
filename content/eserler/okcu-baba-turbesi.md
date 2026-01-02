@@ -1,18 +1,17 @@
 ---
-title: "Okçu Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:55+03:00
+title: "Okçu Baba Türbesi"
+date: "2025-12-25T15:11:55+03:00"
 slug: "okcu-baba-turbesi"
 description: "## Okçu Baba Türbesi: Bursa'nın Tarihî Bir Güzelliği..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.05862,40.1853029"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Okçu Baba Türbesi: Bursa'nın Tarihî Bir Güzelliği

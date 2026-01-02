@@ -1,18 +1,17 @@
 ---
-title: "Nişancı Mehmet Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:26:06+03:00
+title: "Nişancı Mehmet Paşa Medresesi"
+date: "2025-12-25T17:26:06+03:00"
 slug: "nisanci-mehmet-pasa-medresesi"
 description: "### Nişancı Mehmet Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.933742,41.007662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nişancı Mehmet Paşa Medresesi

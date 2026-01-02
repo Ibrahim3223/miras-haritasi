@@ -1,18 +1,17 @@
 ---
-title: "Ilistra | Miras Haritası"
-date: 2025-12-25T05:05:57+03:00
+title: "Ilistra"
+date: "2025-12-25T05:05:57+03:00"
 slug: "ilistra"
 description: "## Ilistra: Karaman'ın Tarihî Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.02718,37.19792"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ilistra: Karaman'ın Tarihî Mirası

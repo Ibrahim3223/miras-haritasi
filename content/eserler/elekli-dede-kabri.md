@@ -1,18 +1,17 @@
 ---
-title: "Elekli Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:59:45+03:00
+title: "Elekli Dede Kabri"
+date: "2025-12-25T13:59:45+03:00"
 slug: "elekli-dede-kabri"
 description: "### Elekli Dede Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Elekli_Dede_Kabri2,_Fatih,_İstanbul_2025.jpg/1200px-Elekli_Dede_Kabri2,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9214935,41.0060196"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Elekli Dede Kabri: İstanbul'un Gizli Anıtı

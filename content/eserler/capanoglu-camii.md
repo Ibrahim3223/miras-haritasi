@@ -1,18 +1,17 @@
 ---
-title: "Çapanoğlu Camii | Miras Haritası"
-date: 2025-12-24T21:56:20+03:00
+title: "Çapanoğlu Camii"
+date: "2025-12-24T21:56:20+03:00"
 slug: "capanoglu-camii"
 description: "## Çapanoğlu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Çapanoğlu_Mosque-_2014-02-11_14-18.JPG/1200px-Çapanoğlu_Mosque-_2014-02-11_14-18.JPG"
-province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: "Ankara Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.805638888,39.821805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çapanoğlu Camii

@@ -1,18 +1,17 @@
 ---
-title: "Gücünkaya Höyük | Miras Haritası"
-date: 2025-12-25T06:32:40+03:00
+title: "Gücünkaya Höyük"
+date: "2025-12-25T06:32:40+03:00"
 slug: "gucunkaya-hoyuk"
 description: "## Gücünkaya Höyük: Aksaray'ın Gizli Kahramanları..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.1305451,38.3832658"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gücünkaya Höyük: Aksaray'ın Gizli Kahramanları

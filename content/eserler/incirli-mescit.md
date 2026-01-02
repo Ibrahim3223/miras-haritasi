@@ -1,18 +1,17 @@
 ---
-title: "İncirli Mescit | Miras Haritası"
-date: 2025-12-24T23:38:45+03:00
+title: "İncirli Mescit"
+date: "2025-12-24T23:38:45+03:00"
 slug: "incirli-mescit"
 description: "## İncirli Mescit: İzmir'in Tarihi Bir Camisi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1784,39.1203003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncirli Mescit: İzmir'in Tarihi Bir Camisi

@@ -1,18 +1,17 @@
 ---
-title: "Apollonia Ad Rhyndacum | Miras Haritası"
-date: 2025-12-25T06:49:49+03:00
+title: "Apollonia Ad Rhyndacum"
+date: "2025-12-25T06:49:49+03:00"
 slug: "apollonia-ad-rhyndacum"
 description: "### Apollonia Ad Rhyndacum: Bursa'nın Tarihî Mirasının Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Apollonia_ad_Rhyndacum,_Tor_der_byzantinischen_Burg.jpg/1200px-Apollonia_ad_Rhyndacum,_Tor_der_byzantinischen_Burg.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.682527777,40.169638888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Apollonia Ad Rhyndacum: Bursa'nın Tarihî Mirasının Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Hisarcık Camii, Karaburun | Miras Haritası"
-date: 2025-12-25T00:04:18+03:00
+title: "Hisarcık Camii, Karaburun"
+date: "2025-12-25T00:04:18+03:00"
 slug: "hisarcik-camii-karaburun"
 description: "### Hisarcık Camii: Karaburun'un Tarihî Bir Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karaburun"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.4874992,38.6521988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hisarcık Camii: Karaburun'un Tarihî Bir Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Polihna (İyonya) | Miras Haritası"
-date: 2025-12-25T08:07:54+03:00
+title: "Polihna (İyonya)"
+date: "2025-12-25T08:07:54+03:00"
 slug: "polihna-iyonya"
 description: "## Polihna: İyonya'nın Eski Kenti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.57715,38.429149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Polihna: İyonya'nın Eski Kenti

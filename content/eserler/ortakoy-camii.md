@@ -1,18 +1,17 @@
 ---
-title: "Ortaköy Camii | Miras Haritası"
-date: 2025-12-24T21:41:09+03:00
+title: "Ortaköy Camii"
+date: "2025-12-24T21:41:09+03:00"
 slug: "ortakoy-camii"
 description: "## Ortaköy Camii: Beşiktaş'taki Bir Tarihi Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Istanbul_asv2020-02_img61_Ortaköy_Mosque.jpg/1200px-Istanbul_asv2020-02_img61_Ortaköy_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.026808738,41.047330729"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ortaköy Camii: Beşiktaş'taki Bir Tarihi Çeşme

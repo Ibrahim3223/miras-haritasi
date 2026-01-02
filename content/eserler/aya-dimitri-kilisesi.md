@@ -1,18 +1,17 @@
 ---
-title: "Aya Dimitri Kilisesi | Miras Haritası"
-date: 2025-12-25T08:49:18+03:00
+title: "Aya Dimitri Kilisesi"
+date: "2025-12-25T08:49:18+03:00"
 slug: "aya-dimitri-kilisesi"
 description: "### Aya Dimitri Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.977618,41.044663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Dimitri Kilisesi

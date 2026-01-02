@@ -1,18 +1,17 @@
 ---
-title: "Gizlice Evliya Şehit Mehmet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:35+03:00
+title: "Gizlice Evliya Şehit Mehmet Efendi Türbesi"
+date: "2025-12-25T15:00:35+03:00"
 slug: "gizlice-evliya-sehit-mehmet-efendi-turbesi"
 description: "### Gizlice Evliya Şehit Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9303932,41.0130386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gizlice Evliya Şehit Mehmet Efendi Türbesi

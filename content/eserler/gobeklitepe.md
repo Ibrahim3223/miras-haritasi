@@ -1,18 +1,17 @@
 ---
-title: "Göbeklitepe | Miras Haritası"
-date: 2025-12-25T05:45:18+03:00
+title: "Göbeklitepe"
+date: "2025-12-25T05:45:18+03:00"
 slug: "gobeklitepe"
 description: "### Göbeklitepe: Tarihî Bir Mirasın Keşfi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Göbekli_Tepe,_Urfa.jpg/1200px-Göbekli_Tepe,_Urfa.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.9225,37.223055555"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Göbeklitepe: Tarihî Bir Mirasın Keşfi

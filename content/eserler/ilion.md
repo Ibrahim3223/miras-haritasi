@@ -1,18 +1,17 @@
 ---
-title: "İlion | Miras Haritası"
-date: 2025-12-25T04:34:04+03:00
+title: "İlion"
+date: "2025-12-25T04:34:04+03:00"
 slug: "ilion"
 description: "### İlion Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.23888889,39.9575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İlion Arkeolojik Sit

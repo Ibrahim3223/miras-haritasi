@@ -1,18 +1,17 @@
 ---
-title: "Maltepe Tümülüsü, Kalemli | Miras Haritası"
-date: 2025-12-25T08:01:24+03:00
+title: "Maltepe Tümülüsü, Kalemli"
+date: "2025-12-25T08:01:24+03:00"
 slug: "maltepe-tumulusu-kalemli"
 description: "**Maltepe Tümülüsü, Kalemli: Manisa'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4695225,38.7808495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Maltepe Tümülüsü, Kalemli: Manisa'nın Gizli Cenneti**

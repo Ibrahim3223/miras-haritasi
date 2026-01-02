@@ -1,18 +1,17 @@
 ---
-title: "Çeltik Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:45:23+03:00
+title: "Çeltik Merkez Camii"
+date: "2025-12-25T00:45:23+03:00"
 slug: "celtik-merkez-camii"
 description: "## Çeltik Merkez Camii: Çeltik'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çeltik (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.790162125,39.023955122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeltik Merkez Camii: Çeltik'in Tarihi Bir Anıtı

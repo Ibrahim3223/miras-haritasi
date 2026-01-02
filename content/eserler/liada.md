@@ -1,18 +1,17 @@
 ---
-title: "Liada | Miras Haritası"
-date: 2025-12-25T04:45:12+03:00
+title: "Liada"
+date: "2025-12-25T04:45:12+03:00"
 slug: "liada"
 description: "## Liada: İznik'in Gizli Mimari Harikası..."
 featured_image: ""
 province: "İznik (ilçe)"
-iller: ["İznik (ilçe)"]
+iller: '["İznik (ilçe)"]'
 district: "Sarıağıl"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.668747,40.559956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Liada: İznik'in Gizli Mimari Harikası

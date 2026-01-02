@@ -1,18 +1,17 @@
 ---
-title: "Karakullukçu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:39+03:00
+title: "Karakullukçu Çeşmesi"
+date: "2025-12-25T11:29:39+03:00"
 slug: "karakullukcu-cesmesi"
 description: "## Karakullukçu Çeşmesi: Safranbolu'nun Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Karakullukçu_Çeşmesi.jpg/1200px-Karakullukçu_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6972237,41.2457352"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karakullukçu Çeşmesi: Safranbolu'nun Tarihi Bir Mirası

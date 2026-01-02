@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Susuzbağ Sokak | Miras Haritası"
-date: 2025-12-25T11:59:59+03:00
+title: "Çeşme, Susuzbağ Sokak"
+date: "2025-12-25T11:59:59+03:00"
 slug: "cesme-susuzbag-sokak"
 description: "## Üsküdar'da Bir Çeşme: Susuzbağ Sokak'nın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0205135,41.0297623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üsküdar'da Bir Çeşme: Susuzbağ Sokak'nın Gizemi

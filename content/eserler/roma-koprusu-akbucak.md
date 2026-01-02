@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Akbucak | Miras Haritası"
-date: 2025-12-25T02:56:41+03:00
+title: "Roma Köprüsü, Akbucak"
+date: "2025-12-25T02:56:41+03:00"
 slug: "roma-koprusu-akbucak"
 description: "### Roma Köprüsü, Akbucak..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.19986,39.547321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Akbucak

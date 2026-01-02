@@ -1,18 +1,17 @@
 ---
-title: "Deliçay Köprüsü | Miras Haritası"
-date: 2025-12-25T02:49:12+03:00
+title: "Deliçay Köprüsü"
+date: "2025-12-25T02:49:12+03:00"
 slug: "delicay-koprusu"
 description: "## Deliçay Köprüsü: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.15507455,37.163728719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deliçay Köprüsü: Karaman'ın Tarihi ve Kültürel Mirası

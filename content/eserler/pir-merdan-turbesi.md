@@ -1,18 +1,17 @@
 ---
-title: "Pirê Merdan Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:06+03:00
+title: "Pirê Merdan Türbesi"
+date: "2025-12-25T14:47:06+03:00"
 slug: "pir-merdan-turbesi"
 description: "## Pirê Merdan Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.683713,37.476626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pirê Merdan Türbesi

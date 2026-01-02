@@ -1,18 +1,17 @@
 ---
-title: "50.Yıl Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:50:22+03:00
+title: "50.Yıl Çeşmesi"
+date: "2025-12-25T10:50:22+03:00"
 slug: "50yil-cesmesi"
 description: "## 50.Yıl Çeşmesi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.921526,40.7642555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 50.Yıl Çeşmesi

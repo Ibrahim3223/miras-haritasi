@@ -1,18 +1,17 @@
 ---
-title: "Amos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:20:39+03:00
+title: "Amos Antik Tiyatrosu"
+date: "2025-12-25T16:20:39+03:00"
 slug: "amos-antik-tiyatrosu"
 description: "## Amos Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.2664948,36.7559891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amos Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Tokat Müzesi | Miras Haritası"
-date: 2025-12-25T03:16:12+03:00
+title: "Tokat Müzesi"
+date: "2025-12-25T03:16:12+03:00"
 slug: "tokat-muzesi"
 description: "### Tokat Müzesi: Türkiye'nin Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tokat_Müzesi_binasının_dış_görünümü.jpg/1200px-Tokat_Müzesi_binasının_dış_görünümü.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.54675,40.316083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Tokat Müzesi: Türkiye'nin Kültürel Mirası

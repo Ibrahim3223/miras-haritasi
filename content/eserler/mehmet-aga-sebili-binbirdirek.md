@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Sebili, Binbirdirek | Miras Haritası"
-date: 2025-12-25T13:05:05+03:00
+title: "Mehmet Ağa Sebili, Binbirdirek"
+date: "2025-12-25T13:05:05+03:00"
 slug: "mehmet-aga-sebili-binbirdirek"
 description: "## Mehmet Ağa Sebili: Binbirdirek'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.976181,41.0079613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ağa Sebili: Binbirdirek'in Gizli Çeşmesi

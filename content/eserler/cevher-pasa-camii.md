@@ -1,18 +1,17 @@
 ---
-title: "Cevher Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:28:19+03:00
+title: "Cevher Paşa Camii"
+date: "2025-12-24T22:28:19+03:00"
 slug: "cevher-pasa-camii"
 description: "## Cevher Paşa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8437767,37.4312248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevher Paşa Camii

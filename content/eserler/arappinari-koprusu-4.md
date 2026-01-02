@@ -1,18 +1,17 @@
 ---
-title: "Arappınarı Köprüsü 4 | Miras Haritası"
-date: 2025-12-25T02:17:12+03:00
+title: "Arappınarı Köprüsü 4"
+date: "2025-12-25T02:17:12+03:00"
 slug: "arappinari-koprusu-4"
 description: "### Arappınarı Köprüsü 4: Tarihî Bir Gemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7390194,38.0810204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arappınarı Köprüsü 4: Tarihî Bir Gemi

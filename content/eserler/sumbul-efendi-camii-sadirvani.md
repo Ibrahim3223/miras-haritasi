@@ -1,18 +1,17 @@
 ---
-title: "Sümbül Efendi Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:39+03:00
+title: "Sümbül Efendi Camii Şadırvanı"
+date: "2025-12-25T10:02:39+03:00"
 slug: "sumbul-efendi-camii-sadirvani"
 description: "### Sümbül Efendi Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9284344,41.0035477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sümbül Efendi Camii Şadırvanı

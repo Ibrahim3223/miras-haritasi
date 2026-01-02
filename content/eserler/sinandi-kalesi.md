@@ -1,18 +1,17 @@
 ---
-title: "Sinandı Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:23+03:00
+title: "Sinandı Kalesi"
+date: "2025-12-25T01:44:23+03:00"
 slug: "sinandi-kalesi"
 description: "## Sinandı Kalesi: Aksaray'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ortaköy"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.9929657,38.6738701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinandı Kalesi: Aksaray'ın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Uşak Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:43:10+03:00
+title: "Uşak Ulu Camii"
+date: "2025-12-24T21:43:10+03:00"
 slug: "usak-ulu-camii"
 description: "### Uşak Ulu Camii: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Uşak_Ulu_Camii1.jpg/1200px-Uşak_Ulu_Camii1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Uşak"
+province: "Uşak"
+iller: '["Uşak"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.40472222,38.67972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Uşak Ulu Camii: Türkiye'nin Tarihi ve Kültürel Mirası

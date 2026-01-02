@@ -1,18 +1,17 @@
 ---
-title: "Yakalar Höyük | Miras Haritası"
-date: 2025-12-25T05:57:49+03:00
+title: "Yakalar Höyük"
+date: "2025-12-25T05:57:49+03:00"
 slug: "yakalar-hoyuk"
 description: "# Yakalar Höyük: Kemer'in Gizemi..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Kemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0032997,37.3251991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yakalar Höyük: Kemer'in Gizemi

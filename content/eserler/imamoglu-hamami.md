@@ -1,18 +1,17 @@
 ---
-title: "İmamoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:44:51+03:00
+title: "İmamoğlu Hamamı"
+date: "2025-12-25T16:44:51+03:00"
 slug: "imamoglu-hamami"
 description: "### İmamoğlu Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.1158485,39.3675499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İmamoğlu Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Ateşbaz-ı Veli Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:55+03:00
+title: "Ateşbaz-ı Veli Türbesi"
+date: "2025-12-25T14:53:55+03:00"
 slug: "atesbaz-i-veli-turbesi"
 description: "## Ateşbaz-ı Veli Türbesi: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4507065,37.8600197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ateşbaz-ı Veli Türbesi: Konya'nın Gizli Cenneti

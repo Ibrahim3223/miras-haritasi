@@ -1,18 +1,17 @@
 ---
-title: "Beşiktaş Kedi Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:47+03:00
+title: "Beşiktaş Kedi Müzesi"
+date: "2025-12-25T04:01:47+03:00"
 slug: "besiktas-kedi-muzesi"
 description: "## Beşiktaş Kedi Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.012993383,41.043551121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşiktaş Kedi Müzesi

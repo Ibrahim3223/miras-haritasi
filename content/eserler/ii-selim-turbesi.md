@@ -1,18 +1,17 @@
 ---
-title: "II. Selim Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:21+03:00
+title: "II. Selim Türbesi"
+date: "2025-12-25T14:38:21+03:00"
 slug: "ii-selim-turbesi"
 description: "## II. Selim Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9797344,41.0079155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Selim Türbesi

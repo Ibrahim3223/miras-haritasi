@@ -1,18 +1,17 @@
 ---
-title: "Oslu Hoca Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:40+03:00
+title: "Oslu Hoca Türbesi"
+date: "2025-12-25T15:27:40+03:00"
 slug: "oslu-hoca-turbesi"
 description: "## Oslu Hoca Türbesi: Bayburt'un Tarihi Bir Anıt..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.9731178,40.3464394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oslu Hoca Türbesi: Bayburt'un Tarihi Bir Anıt

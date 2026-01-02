@@ -1,18 +1,17 @@
 ---
-title: "Kantarma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:19:53+03:00
+title: "Kantarma Köprüsü"
+date: "2025-12-25T02:19:53+03:00"
 slug: "kantarma-koprusu"
 description: "## Kantarma Köprüsü..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.8340874,37.8744888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kantarma Köprüsü

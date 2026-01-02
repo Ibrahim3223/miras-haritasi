@@ -1,18 +1,17 @@
 ---
-title: "Pazar Camii, Milas | Miras Haritası"
-date: 2025-12-25T00:24:25+03:00
+title: "Pazar Camii, Milas"
+date: "2025-12-25T00:24:25+03:00"
 slug: "pazar-camii-milas"
 description: "## Pazar Camii, Bir Özenli Mimarinin Eseri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7800465,37.3165932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazar Camii, Bir Özenli Mimarinin Eseri

@@ -1,18 +1,17 @@
 ---
-title: "Elbistan Höyüğü | Miras Haritası"
-date: 2025-12-25T06:45:16+03:00
+title: "Elbistan Höyüğü"
+date: "2025-12-25T06:45:16+03:00"
 slug: "elbistan-hoyugu"
 description: "## Elbistan Höyüğü: Gaziantep'in Gizli Tarihi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "İslahiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.7459642,37.0785281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elbistan Höyüğü: Gaziantep'in Gizli Tarihi

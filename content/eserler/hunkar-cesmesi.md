@@ -1,18 +1,17 @@
 ---
-title: "Hünkar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:51:18+03:00
+title: "Hünkar Çeşmesi"
+date: "2025-12-25T11:51:18+03:00"
 slug: "hunkar-cesmesi"
 description: "## Hünkar Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Çayırova_Hünkâr_Köprüsü_ve_çeşmesi.jpg/1200px-Çayırova_Hünkâr_Köprüsü_ve_çeşmesi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.343052113,40.814147699"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hünkar Çeşmesi

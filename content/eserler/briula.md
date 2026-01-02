@@ -1,18 +1,17 @@
 ---
-title: "Briula | Miras Haritası"
-date: 2025-12-25T05:25:22+03:00
+title: "Briula"
+date: "2025-12-25T05:25:22+03:00"
 slug: "briula"
 description: "**Briula: Aydın'ın Gizli Şehri**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuyucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.649583,37.961027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Briula: Aydın'ın Gizli Şehri**

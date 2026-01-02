@@ -1,18 +1,17 @@
 ---
-title: "Kadı Camii, Altınova | Miras Haritası"
-date: 2025-12-24T23:56:09+03:00
+title: "Kadı Camii, Altınova"
+date: "2025-12-24T23:56:09+03:00"
 slug: "kadi-camii-altinova"
 description: "## Kadı Camii: Altınova'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.774157,39.222316"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Camii: Altınova'nın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Rufinianus Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:16+03:00
+title: "Rufinianus Manastırı"
+date: "2025-12-25T09:55:16+03:00"
 slug: "rufinianus-manastiri"
 description: "## Rufinianus Manastırı: Kadıköy'de Bir Tarihi Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.02777778,40.98888889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rufinianus Manastırı: Kadıköy'de Bir Tarihi Miras

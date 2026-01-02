@@ -1,18 +1,17 @@
 ---
-title: "Çamtekke Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:03+03:00
+title: "Çamtekke Şehitliği"
+date: "2025-12-25T16:00:03+03:00"
 slug: "camtekke-sehitligi"
 description: "## Çamtekke Şehitliği: Eceabat'taki Tarihi Bir Anıt..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3727016,40.3019333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamtekke Şehitliği: Eceabat'taki Tarihi Bir Anıt

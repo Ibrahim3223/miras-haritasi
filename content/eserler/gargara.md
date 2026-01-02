@@ -1,18 +1,17 @@
 ---
-title: "Gargara | Miras Haritası"
-date: 2025-12-25T04:17:36+03:00
+title: "Gargara"
+date: "2025-12-25T04:17:36+03:00"
 slug: "gargara"
 description: "## Gargara: Çanakkale'nin Gizli Örenleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gargara: Çanakkale'nin Gizli Örenleri

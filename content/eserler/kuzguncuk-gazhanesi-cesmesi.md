@@ -1,18 +1,17 @@
 ---
-title: "Kuzguncuk Gazhanesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:14+03:00
+title: "Kuzguncuk Gazhanesi Çeşmesi"
+date: "2025-12-25T11:50:14+03:00"
 slug: "kuzguncuk-gazhanesi-cesmesi"
 description: "## Kuzguncuk Gazhanesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0338821,41.0362587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuzguncuk Gazhanesi Çeşmesi

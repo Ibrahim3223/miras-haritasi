@@ -1,18 +1,17 @@
 ---
-title: "Hasırcı Höyük II | Miras Haritası"
-date: 2025-12-25T06:10:01+03:00
+title: "Hasırcı Höyük II"
+date: "2025-12-25T06:10:01+03:00"
 slug: "hasirci-hoyuk-ii"
 description: "## Hasırcı Höyük II: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3482704,38.4736061"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasırcı Höyük II: Malatya'nın Gizli Mirası

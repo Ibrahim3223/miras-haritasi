@@ -1,18 +1,17 @@
 ---
-title: "Ertokuş Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:07+03:00
+title: "Ertokuş Türbesi"
+date: "2025-12-25T14:44:07+03:00"
 slug: "ertokus-turbesi"
 description: "## Ertokuş Türbesi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Atabey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.6448956,37.951252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ertokuş Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Emir Sultan Türbesi, Gaziemir | Miras Haritası"
-date: 2025-12-25T15:34:09+03:00
+title: "Emir Sultan Türbesi, Gaziemir"
+date: "2025-12-25T15:34:09+03:00"
 slug: "emir-sultan-turbesi-gaziemir"
 description: "**Emir Sultan Türbesi, Gaziemir**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Gaziemir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1207256,38.3202896"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Emir Sultan Türbesi, Gaziemir**

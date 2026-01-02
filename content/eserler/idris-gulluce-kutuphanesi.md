@@ -1,18 +1,17 @@
 ---
-title: "İdris Güllüce Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:47:35+03:00
+title: "İdris Güllüce Kütüphanesi"
+date: "2025-12-25T17:47:35+03:00"
 slug: "idris-gulluce-kutuphanesi"
 description: "## İdris Güllüce Kütüphanesi..."
 featured_image: ""
-province: "Tuzla"
-iller: ["Tuzla"]
-district: "İçmeler"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Tuzla"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.303194444,40.850194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İdris Güllüce Kütüphanesi

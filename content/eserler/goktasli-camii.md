@@ -1,18 +1,17 @@
 ---
-title: "Göktaşlı Camii | Miras Haritası"
-date: 2025-12-24T23:02:59+03:00
+title: "Göktaşlı Camii"
+date: "2025-12-24T23:02:59+03:00"
 slug: "goktasli-camii"
 description: "# Göktaşlı Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4332905,38.6092758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Göktaşlı Camii

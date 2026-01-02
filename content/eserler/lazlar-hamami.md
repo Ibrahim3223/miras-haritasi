@@ -1,18 +1,17 @@
 ---
-title: "Lazlar Hamamı | Miras Haritası"
-date: 2025-12-25T16:27:48+03:00
+title: "Lazlar Hamamı"
+date: "2025-12-25T16:27:48+03:00"
 slug: "lazlar-hamami"
 description: "## Lazlar Hamamı..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: ["Marmara Bölgesi"]
+iller: '["Marmara Bölgesi"]'
 district: "Karesi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.8820133,39.6493034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lazlar Hamamı

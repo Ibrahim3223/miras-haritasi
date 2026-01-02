@@ -1,18 +1,17 @@
 ---
-title: "Titopolis | Miras Haritası"
-date: 2025-12-25T05:17:31+03:00
+title: "Titopolis"
+date: "2025-12-25T05:17:31+03:00"
 slug: "titopolis"
 description: "## Titopolis: Anamur'un Gizli Kahramanı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.81089,36.09401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Titopolis: Anamur'un Gizli Kahramanı

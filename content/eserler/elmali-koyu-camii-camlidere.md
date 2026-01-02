@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Köyü Camii (Çamlıdere) | Miras Haritası"
-date: 2025-12-24T22:35:03+03:00
+title: "Elmalı Köyü Camii (Çamlıdere)"
+date: "2025-12-24T22:35:03+03:00"
 slug: "elmali-koyu-camii-camlidere"
 description: "## Elmalı Köyü Camii (Çamlıdere)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4975204,40.4106903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elmalı Köyü Camii (Çamlıdere)

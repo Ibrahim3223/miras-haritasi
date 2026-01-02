@@ -1,18 +1,17 @@
 ---
-title: "Develi Kalesi | Miras Haritası"
-date: 2025-12-25T01:41:37+03:00
+title: "Develi Kalesi"
+date: "2025-12-25T01:41:37+03:00"
 slug: "develi-kalesi"
 description: "## Develi Kalesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.4885864,38.3660049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Develi Kalesi: Tarih ve Kültür Mirası

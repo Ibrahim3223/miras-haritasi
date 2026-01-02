@@ -1,18 +1,17 @@
 ---
-title: "Dayılar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:28+03:00
+title: "Dayılar Köprüsü"
+date: "2025-12-25T02:23:28+03:00"
 slug: "dayilar-koprusu"
 description: "## Dayılar Köprüsü: Bir Geçit Üzerinden Geçen Tarih..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.500637,38.091366"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dayılar Köprüsü: Bir Geçit Üzerinden Geçen Tarih

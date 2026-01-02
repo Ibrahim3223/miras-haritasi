@@ -1,18 +1,17 @@
 ---
-title: "İslam Medeniyetleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:43:21+03:00
+title: "İslam Medeniyetleri Müzesi"
+date: "2025-12-25T03:43:21+03:00"
 slug: "islam-medeniyetleri-muzesi"
 description: "## İslam Medeniyetleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0715256,41.034565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İslam Medeniyetleri Müzesi

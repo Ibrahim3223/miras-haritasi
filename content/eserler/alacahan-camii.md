@@ -1,18 +1,17 @@
 ---
-title: "Alacahan Camii | Miras Haritası"
-date: 2025-12-24T22:08:45+03:00
+title: "Alacahan Camii"
+date: "2025-12-24T22:08:45+03:00"
 slug: "alacahan-camii"
 description: "## Alacahan Camii: Kangal'ın Yüceliğini Tasvir Eden Bir Miras..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.596296,39.1054703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alacahan Camii: Kangal'ın Yüceliğini Tasvir Eden Bir Miras

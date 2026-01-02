@@ -1,18 +1,17 @@
 ---
-title: "Dumlupınar İlk Hedef Anıtı | Miras Haritası"
-date: 2025-12-25T16:08:49+03:00
+title: "Dumlupınar İlk Hedef Anıtı"
+date: "2025-12-25T16:08:49+03:00"
 slug: "dumlupinar-ilk-hedef-aniti"
 description: "## Dumlupınar İlk Hedef Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Dumlupınar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9789696,38.8542023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumlupınar İlk Hedef Anıtı

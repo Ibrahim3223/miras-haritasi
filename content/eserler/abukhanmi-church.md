@@ -1,18 +1,17 @@
 ---
-title: "Abukhanmi Church | Miras Haritası"
-date: 2025-12-25T08:47:13+03:00
+title: "Abukhanmi Church"
+date: "2025-12-25T08:47:13+03:00"
 slug: "abukhanmi-church"
 description: "## Abukhanmi Church: Kars'taki Bir Önemli Kültür Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abukhanmi Church: Kars'taki Bir Önemli Kültür Mirası

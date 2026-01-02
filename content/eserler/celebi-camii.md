@@ -1,18 +1,17 @@
 ---
-title: "Çelebi Camii | Miras Haritası"
-date: 2025-12-25T00:00:02+03:00
+title: "Çelebi Camii"
+date: "2025-12-25T00:00:02+03:00"
 slug: "celebi-camii"
 description: "## Çelebi Camii: Karaman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2168999,37.1799011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çelebi Camii: Karaman'ın Tarihi Bir Mirası

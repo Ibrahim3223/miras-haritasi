@@ -1,18 +1,17 @@
 ---
-title: "Agios Giorgios Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:38+03:00
+title: "Agios Giorgios Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:23:38+03:00"
 slug: "agios-giorgios-rum-ortodoks-kilisesi"
 description: "## Agios Giorgios Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0294189,40.9959183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Agios Giorgios Rum Ortodoks Kilisesi

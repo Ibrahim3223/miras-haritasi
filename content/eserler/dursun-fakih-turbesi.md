@@ -1,18 +1,17 @@
 ---
-title: "Dursun Fakih Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:14+03:00
+title: "Dursun Fakih Türbesi"
+date: "2025-12-25T15:17:14+03:00"
 slug: "dursun-fakih-turbesi"
 description: "### Dursun Fakih Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Söğütlü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1373,40.081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dursun Fakih Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Bozkır Höyüğü | Miras Haritası"
-date: 2025-12-25T13:44:58+03:00
+title: "Bozkır Höyüğü"
+date: "2025-12-25T13:44:58+03:00"
 slug: "bozkir-hoyugu"
 description: "## Bozkır Höyüğü: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ortaköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1081527,38.7894053"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozkır Höyüğü: Aksaray'ın Gizli Kahramanı

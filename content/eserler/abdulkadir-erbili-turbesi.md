@@ -1,18 +1,17 @@
 ---
-title: "Abdulkadir Erbili Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:27+03:00
+title: "Abdulkadir Erbili Türbesi"
+date: "2025-12-25T15:11:27+03:00"
 slug: "abdulkadir-erbili-turbesi"
 description: "# Abdulkadir Erbili Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.793245,37.1499486"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdulkadir Erbili Türbesi

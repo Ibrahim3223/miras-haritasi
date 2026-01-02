@@ -1,18 +1,17 @@
 ---
-title: "Veliköy Camii | Miras Haritası"
-date: 2025-12-24T23:43:10+03:00
+title: "Veliköy Camii"
+date: "2025-12-24T23:43:10+03:00"
 slug: "velikoy-camii"
 description: "## Veliköy Camii: Çerkezköy'ün Göbeği..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çerkezköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9355106,41.2593918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veliköy Camii: Çerkezköy'ün Göbeği

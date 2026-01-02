@@ -1,18 +1,17 @@
 ---
-title: "Zekeriya Camii | Miras Haritası"
-date: 2025-12-25T00:42:41+03:00
+title: "Zekeriya Camii"
+date: "2025-12-25T00:42:41+03:00"
 slug: "zekeriya-camii"
 description: "### Zekeriya Camii: Edremit'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.022167799,39.597422603"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zekeriya Camii: Edremit'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Karcıkaya Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:31+03:00
+title: "Karcıkaya Köprüsü"
+date: "2025-12-25T02:22:31+03:00"
 slug: "karcikaya-koprusu"
 description: "## Karcıkaya Köprüsü: Beypazarı'nın Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.9146519,40.1718826"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karcıkaya Köprüsü: Beypazarı'nın Kültürel Mirası

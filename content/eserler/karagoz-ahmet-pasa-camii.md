@@ -1,18 +1,17 @@
 ---
-title: "Karagöz Ahmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:39:25+03:00
+title: "Karagöz Ahmet Paşa Camii"
+date: "2025-12-24T23:39:25+03:00"
 slug: "karagoz-ahmet-pasa-camii"
 description: "**Karagöz Ahmet Paşa Camii: Kütahya'nın Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9807339,39.4182854"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karagöz Ahmet Paşa Camii: Kütahya'nın Tarihi Bir Mirası**

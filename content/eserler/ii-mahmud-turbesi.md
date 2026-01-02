@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmud Türbesi | Miras Haritası"
-date: 2025-12-25T14:07:47+03:00
+title: "II. Mahmud Türbesi"
+date: "2025-12-25T14:07:47+03:00"
 slug: "ii-mahmud-turbesi"
 description: "## II. Mahmud Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sultan_tombs_Divan_Yolu_March_2008.JPG/1200px-Sultan_tombs_Divan_Yolu_March_2008.JPG"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Çemberlitaş"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9725,41.0085"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## II. Mahmud Türbesi

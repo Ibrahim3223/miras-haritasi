@@ -1,18 +1,17 @@
 ---
-title: "Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:54+03:00
+title: "Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi"
+date: "2025-12-25T15:32:54+03:00"
 slug: "bandirmali-seyh-yusuf-nizameddin-efendi-turbesi"
 description: "**Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.017898274,41.017156566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi**

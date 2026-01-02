@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hasan Camii, Konya | Miras Haritası"
-date: 2025-12-25T00:24:45+03:00
+title: "Hacı Hasan Camii, Konya"
+date: "2025-12-25T00:24:45+03:00"
 slug: "haci-hasan-camii-konya"
 description: "## Hacı Hasan Camii, Konya: Tarih, Mimarisi ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hac_Hasan_Camii_Konya_2025-10-19_1761319815.jpg/1200px-Hac_Hasan_Camii_Konya_2025-10-19_1761319815.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4981422,37.8710747"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Hasan Camii, Konya: Tarih, Mimarisi ve Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "İki Göbek Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:00+03:00
+title: "İki Göbek Hamamı"
+date: "2025-12-25T16:25:00+03:00"
 slug: "iki-gobek-hamami"
 description: "## İki Göbek Hamamı: Tarihi ve Kültürel Mirasın Gizli Çıplaklığı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "41.2789652,39.9126139"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İki Göbek Hamamı: Tarihi ve Kültürel Mirasın Gizli Çıplaklığı

@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami Minaresi, Küçükkumla | Miras Haritası"
-date: 2025-12-25T00:58:46+03:00
+title: "Eski Cami Minaresi, Küçükkumla"
+date: "2025-12-25T00:58:46+03:00"
 slug: "eski-cami-minaresi-kucukkumla"
 description: "## Eski Cami Minaresi, Küçükkumla..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gemlik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1254158,40.4778976"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Cami Minaresi, Küçükkumla

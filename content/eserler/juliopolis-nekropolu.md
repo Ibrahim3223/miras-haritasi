@@ -1,18 +1,17 @@
 ---
-title: "Juliopolis Nekropolü | Miras Haritası"
-date: 2025-12-25T04:25:30+03:00
+title: "Juliopolis Nekropolü"
+date: "2025-12-25T04:25:30+03:00"
 slug: "juliopolis-nekropolu"
 description: "## Juliopolis Nekropolü: Ankara'nın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Juliopolis,_Bithynia,_Turkey_(38165378056).jpg/1200px-Juliopolis,_Bithynia,_Turkey_(38165378056).jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Nallıhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.666666666,40.066666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Juliopolis Nekropolü: Ankara'nın Gizli Mirası

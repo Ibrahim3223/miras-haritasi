@@ -1,18 +1,17 @@
 ---
-title: "Kürkçüler Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:49+03:00
+title: "Kürkçüler Kapısı"
+date: "2025-12-25T15:37:49+03:00"
 slug: "kurkculer-kapisi"
 description: "### Kürkçüler Kapısı: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9694557,41.0097847"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kürkçüler Kapısı: Fatih'in Gizli Anıtı

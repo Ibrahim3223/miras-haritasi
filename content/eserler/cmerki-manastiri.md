@@ -1,18 +1,17 @@
 ---
-title: "Cmerki Manastırı | Miras Haritası"
-date: 2025-12-25T08:53:58+03:00
+title: "Cmerki Manastırı"
+date: "2025-12-25T08:53:58+03:00"
 slug: "cmerki-manastiri"
 description: "## Cmerki Manastırı: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Çimenli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.969833333,41.193388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cmerki Manastırı: Artvin'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Kasturya Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:53+03:00
+title: "Kasturya Sinagogu"
+date: "2025-12-25T16:12:53+03:00"
 slug: "kasturya-sinagogu"
 description: "# Kasturya Sinagogu..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.941638888,41.033972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kasturya Sinagogu

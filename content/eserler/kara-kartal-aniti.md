@@ -1,18 +1,17 @@
 ---
-title: "Kara Kartal Anıtı | Miras Haritası"
-date: 2025-12-25T15:50:18+03:00
+title: "Kara Kartal Anıtı"
+date: "2025-12-25T15:50:18+03:00"
 slug: "kara-kartal-aniti"
 description: "## Kara Kartal Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.006701,41.042905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Kartal Anıtı

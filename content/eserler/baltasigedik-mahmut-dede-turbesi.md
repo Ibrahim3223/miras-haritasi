@@ -1,18 +1,17 @@
 ---
-title: "Baltasıgedik Mahmut Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:19+03:00
+title: "Baltasıgedik Mahmut Dede Türbesi"
+date: "2025-12-25T15:18:19+03:00"
 slug: "baltasigedik-mahmut-dede-turbesi"
 description: "## Baltasıgedik Mahmut Dede Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.926238,36.752978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baltasıgedik Mahmut Dede Türbesi

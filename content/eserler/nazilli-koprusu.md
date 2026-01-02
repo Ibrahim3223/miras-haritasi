@@ -1,18 +1,17 @@
 ---
-title: "Nazilli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:45:14+03:00
+title: "Nazilli Köprüsü"
+date: "2025-12-25T02:45:14+03:00"
 slug: "nazilli-koprusu"
 description: "### Nazilli Köprüsü: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.846405,37.8496857"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nazilli Köprüsü: Aydın'ın Tarihi Bir Mirası

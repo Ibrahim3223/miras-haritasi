@@ -1,18 +1,17 @@
 ---
-title: "İtfaiye Şehitleri Camii | Miras Haritası"
-date: 2025-12-25T01:01:51+03:00
+title: "İtfaiye Şehitleri Camii"
+date: "2025-12-25T01:01:51+03:00"
 slug: "itfaiye-sehitleri-camii"
 description: "### İtfaiye Şehitleri Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/İtfaiye_Şehitleri_Camii_(2013).jpg/1200px-İtfaiye_Şehitleri_Camii_(2013).jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Zeyrek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.953538666,41.016888933"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İtfaiye Şehitleri Camii

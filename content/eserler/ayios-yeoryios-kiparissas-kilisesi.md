@@ -1,18 +1,17 @@
 ---
-title: "Ayios Yeoryios Kiparissas Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:27+03:00
+title: "Ayios Yeoryios Kiparissas Kilisesi"
+date: "2025-12-25T09:12:27+03:00"
 slug: "ayios-yeoryios-kiparissas-kilisesi"
 description: "## Ayios Yeoryios Kiparissas Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.933413,41.000911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Yeoryios Kiparissas Kilisesi: İstanbul'un Gizli Cenneti

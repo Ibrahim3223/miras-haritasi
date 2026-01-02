@@ -1,18 +1,17 @@
 ---
-title: "Heybeliada Camii | Miras Haritası"
-date: 2025-12-24T22:55:25+03:00
+title: "Heybeliada Camii"
+date: "2025-12-24T22:55:25+03:00"
 slug: "heybeliada-camii"
 description: "## Heybeliada Camii: Adalar'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Adalar"
-iller: ["Adalar"]
-district: "Heybeliada"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Adalar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0952625,40.8784714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Heybeliada Camii: Adalar'ın Tarihi Bir Mirası

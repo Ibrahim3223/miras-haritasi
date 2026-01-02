@@ -1,18 +1,17 @@
 ---
-title: "Akören Doğu Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:53+03:00
+title: "Akören Doğu Kilisesi"
+date: "2025-12-25T09:40:53+03:00"
 slug: "akoren-dogu-kilisesi"
 description: "## Akören Doğu Kilisesi: Aladağ'ın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kilise,_Akören,_Adana.jpg/1200px-Kilise,_Akören,_Adana.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Aladağ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akören Doğu Kilisesi: Aladağ'ın Gizli Kahramanı

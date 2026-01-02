@@ -1,18 +1,17 @@
 ---
-title: "Kasım Molla Camii | Miras Haritası"
-date: 2025-12-25T00:41:36+03:00
+title: "Kasım Molla Camii"
+date: "2025-12-25T00:41:36+03:00"
 slug: "kasim-molla-camii"
 description: "## Kasım Molla Camii: Of, Trabzon'un Gizli Çehresi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Of"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.305401008,40.846205063"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasım Molla Camii: Of, Trabzon'un Gizli Çehresi

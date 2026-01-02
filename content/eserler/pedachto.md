@@ -1,18 +1,17 @@
 ---
-title: "Pedachtoë | Miras Haritası"
-date: 2025-12-25T05:14:37+03:00
+title: "Pedachtoë"
+date: "2025-12-25T05:14:37+03:00"
 slug: "pedachto"
 description: "## Pedachtoë: Kıbrıs'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.875022,40.108667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pedachtoë: Kıbrıs'ın Tarihi ve Kültürel Mirasının Bir Parçası

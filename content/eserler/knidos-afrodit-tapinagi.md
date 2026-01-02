@@ -1,18 +1,17 @@
 ---
-title: "Knidos Afrodit Tapınağı | Miras Haritası"
-date: 2025-12-25T08:12:23+03:00
+title: "Knidos Afrodit Tapınağı"
+date: "2025-12-25T08:12:23+03:00"
 slug: "knidos-afrodit-tapinagi"
 description: "### Knidos Afrodit Tapınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Knidos_Temple_of_Aphrodite_95_014.jpg/1200px-Knidos_Temple_of_Aphrodite_95_014.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.373333333,36.688888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Knidos Afrodit Tapınağı

@@ -1,18 +1,17 @@
 ---
-title: "Bayezid Medresesi | Miras Haritası"
-date: 2025-12-25T17:25:11+03:00
+title: "Bayezid Medresesi"
+date: "2025-12-25T17:25:11+03:00"
 slug: "bayezid-medresesi"
 description: "## Bayezid Medresesi: Fatih'te Bir Geç Klasik Medrese..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.963256,41.010011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayezid Medresesi: Fatih'te Bir Geç Klasik Medrese

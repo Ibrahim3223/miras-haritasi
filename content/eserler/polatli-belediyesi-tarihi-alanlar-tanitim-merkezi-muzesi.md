@@ -1,18 +1,17 @@
 ---
-title: "Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:10+03:00
+title: "Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi"
+date: "2025-12-25T04:03:10+03:00"
 slug: "polatli-belediyesi-tarihi-alanlar-tanitim-merkezi-muzesi"
 description: "## Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.146012311,39.577348988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi

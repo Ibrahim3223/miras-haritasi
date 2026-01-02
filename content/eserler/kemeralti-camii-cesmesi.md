@@ -1,18 +1,17 @@
 ---
-title: "Kemeraltı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:50:35+03:00
+title: "Kemeraltı Camii Çeşmesi"
+date: "2025-12-25T12:50:35+03:00"
 slug: "kemeralti-camii-cesmesi"
 description: "## Kemeraltı Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1317253,38.4187813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemeraltı Camii Çeşmesi

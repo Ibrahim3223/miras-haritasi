@@ -1,18 +1,17 @@
 ---
-title: "Paritzor Surp Asdvadzadzin Manastırı | Miras Haritası"
-date: 2025-12-25T09:56:03+03:00
+title: "Paritzor Surp Asdvadzadzin Manastırı"
+date: "2025-12-25T09:56:03+03:00"
 slug: "paritzor-surp-asdvadzadzin-manastiri"
 description: "# Paritzor Surp Asdvadzadzin Manastırı..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Hizan"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.3652802,38.2119446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Paritzor Surp Asdvadzadzin Manastırı

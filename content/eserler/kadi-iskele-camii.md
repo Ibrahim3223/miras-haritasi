@@ -1,18 +1,17 @@
 ---
-title: "Kadı İskele Camii | Miras Haritası"
-date: 2025-12-24T23:37:38+03:00
+title: "Kadı İskele Camii"
+date: "2025-12-24T23:37:38+03:00"
 slug: "kadi-iskele-camii"
 description: "### Kadı İskele Camii: Gelibolu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6675682,40.4072304"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadı İskele Camii: Gelibolu'nun Tarihî Mirası

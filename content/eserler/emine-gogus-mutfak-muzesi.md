@@ -1,18 +1,17 @@
 ---
-title: "Emine Göğüş Mutfak Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:33+03:00
+title: "Emine Göğüş Mutfak Müzesi"
+date: "2025-12-25T03:27:33+03:00"
 slug: "emine-gogus-mutfak-muzesi"
 description: "## Emine Göğüş Mutfak Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.382578,37.064504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emine Göğüş Mutfak Müzesi

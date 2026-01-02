@@ -1,18 +1,17 @@
 ---
-title: "Blaundos | Miras Haritası"
-date: 2025-12-25T04:17:19+03:00
+title: "Blaundos"
+date: "2025-12-25T04:17:19+03:00"
 slug: "blaundos"
 description: "### Blaundos: Antik Bir Kentin Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BlaundosFachwerk.jpg/1200px-BlaundosFachwerk.jpg"
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.20944444,38.35916667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Blaundos: Antik Bir Kentin Mirası

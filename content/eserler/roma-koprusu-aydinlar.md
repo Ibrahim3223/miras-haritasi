@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Aydınlar | Miras Haritası"
-date: 2025-12-25T02:53:23+03:00
+title: "Roma Köprüsü, Aydınlar"
+date: "2025-12-25T02:53:23+03:00"
 slug: "roma-koprusu-aydinlar"
 description: "## Roma Köprüsü, Aydınlar..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Saruhanlı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.4701616,38.9152436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Aydınlar

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk ve Milli Egemenlik Anıtı, Şehzadeler | Miras Haritası"
-date: 2025-12-25T15:47:35+03:00
+title: "Atatürk ve Milli Egemenlik Anıtı, Şehzadeler"
+date: "2025-12-25T15:47:35+03:00"
 slug: "ataturk-ve-milli-egemenlik-aniti-sehzadeler"
 description: "## Atatürk ve Milli Egemenlik Anıtı, Şehzadeler..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4341812,38.6154213"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk ve Milli Egemenlik Anıtı, Şehzadeler

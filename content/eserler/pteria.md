@@ -1,18 +1,17 @@
 ---
-title: "Pteria | Miras Haritası"
-date: 2025-12-25T05:15:48+03:00
+title: "Pteria"
+date: "2025-12-25T05:15:48+03:00"
 slug: "pteria"
 description: "## Pteria: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.108768,41.321531"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pteria: Antik Çağın Gizemi

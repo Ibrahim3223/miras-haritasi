@@ -1,18 +1,17 @@
 ---
-title: "Eyüpzade Mehmet Efendi Çeşmesi, İnebolu | Miras Haritası"
-date: 2025-12-25T12:57:24+03:00
+title: "Eyüpzade Mehmet Efendi Çeşmesi, İnebolu"
+date: "2025-12-25T12:57:24+03:00"
 slug: "eyupzade-mehmet-efendi-cesmesi-inebolu"
 description: "### Eyüpzade Mehmet Efendi Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.761763679,41.977896323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eyüpzade Mehmet Efendi Çeşmesi

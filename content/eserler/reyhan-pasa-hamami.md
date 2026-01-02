@@ -1,18 +1,17 @@
 ---
-title: "Reyhan Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:59+03:00
+title: "Reyhan Paşa Hamamı"
+date: "2025-12-25T16:46:59+03:00"
 slug: "reyhan-pasa-hamami"
 description: "### Reyhan Paşa Hamamı: Bursa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0630035,40.1869087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Reyhan Paşa Hamamı: Bursa'nın Tarihî Mirası

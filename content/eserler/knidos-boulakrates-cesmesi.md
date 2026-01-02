@@ -1,18 +1,17 @@
 ---
-title: "Knidos Boulakrates Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:32+03:00
+title: "Knidos Boulakrates Çeşmesi"
+date: "2025-12-25T11:36:32+03:00"
 slug: "knidos-boulakrates-cesmesi"
 description: "## Knidos Boulakrates Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3730545,36.6864357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Knidos Boulakrates Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Boduroğlu Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:08:02+03:00
+title: "Boduroğlu Sokak Çeşmesi"
+date: "2025-12-25T12:08:02+03:00"
 slug: "boduroglu-sokak-cesmesi"
 description: "### Boduroğlu Sokak Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7451,38.0858994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boduroğlu Sokak Çeşmesi

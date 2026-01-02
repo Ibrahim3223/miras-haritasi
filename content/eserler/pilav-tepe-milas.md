@@ -1,18 +1,17 @@
 ---
-title: "Pilav Tepe, Milas | Miras Haritası"
-date: 2025-12-25T05:50:32+03:00
+title: "Pilav Tepe, Milas"
+date: "2025-12-25T05:50:32+03:00"
 slug: "pilav-tepe-milas"
 description: "## Pilav Tepe, Milas..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.727683,37.255733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pilav Tepe, Milas

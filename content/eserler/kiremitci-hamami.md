@@ -1,18 +1,17 @@
 ---
-title: "Kiremitçi Hamamı | Miras Haritası"
-date: 2025-12-25T16:45:58+03:00
+title: "Kiremitçi Hamamı"
+date: "2025-12-25T16:45:58+03:00"
 slug: "kiremitci-hamami"
 description: "## Kiremitçi Hamamı: Bursa'nın Eskişehir'den Kalma Gizemi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0636616,40.1910553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kiremitçi Hamamı: Bursa'nın Eskişehir'den Kalma Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Süleyman Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:24+03:00
+title: "Hacı Süleyman Çeşmesi"
+date: "2025-12-25T10:26:24+03:00"
 slug: "haci-suleyman-cesmesi"
 description: "## Hacı Süleyman Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8603821,39.9343109"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Süleyman Çeşmesi

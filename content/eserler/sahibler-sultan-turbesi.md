@@ -1,18 +1,17 @@
 ---
-title: "Sahibler Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:23+03:00
+title: "Sahibler Sultan Türbesi"
+date: "2025-12-25T15:17:23+03:00"
 slug: "sahibler-sultan-turbesi"
 description: "## Sahibler Sultan Türbesi: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.538813,38.753898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sahibler Sultan Türbesi: Afyonkarahisar'ın Gizli Cenneti

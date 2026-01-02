@@ -1,18 +1,17 @@
 ---
-title: "Saint Pierre Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:20+03:00
+title: "Saint Pierre Manastırı"
+date: "2025-12-25T09:51:20+03:00"
 slug: "saint-pierre-manastiri"
 description: "**Saint Pierre Manastırı**..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.5533905,38.3910599"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Saint Pierre Manastırı**

@@ -1,18 +1,17 @@
 ---
-title: "Gazi Heykeli, İzmit | Miras Haritası"
-date: 2025-12-25T15:49:04+03:00
+title: "Gazi Heykeli, İzmit"
+date: "2025-12-25T15:49:04+03:00"
 slug: "gazi-heykeli-izmit"
 description: "### Gazi Heykeli, İzmit..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9190121,40.7626419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Heykeli, İzmit

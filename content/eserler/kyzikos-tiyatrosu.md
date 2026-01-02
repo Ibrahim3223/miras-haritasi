@@ -1,18 +1,17 @@
 ---
-title: "Kyzikos Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:13:02+03:00
+title: "Kyzikos Tiyatrosu"
+date: "2025-12-25T04:13:02+03:00"
 slug: "kyzikos-tiyatrosu"
 description: "## Kyzikos Tiyatrosu..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8881817,40.3923759"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kyzikos Tiyatrosu

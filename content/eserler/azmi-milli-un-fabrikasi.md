@@ -1,18 +1,17 @@
 ---
-title: "Azmi Milli Un Fabrikası | Miras Haritası"
-date: 2025-12-25T03:39:42+03:00
+title: "Azmi Milli Un Fabrikası"
+date: "2025-12-25T03:39:42+03:00"
 slug: "azmi-milli-un-fabrikasi"
 description: "### Azmi Milli Un Fabrikası Müzesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.0247993,38.372406"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Azmi Milli Un Fabrikası Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Feyzullah Camii | Miras Haritası"
-date: 2025-12-24T23:28:24+03:00
+title: "Hacı Feyzullah Camii"
+date: "2025-12-24T23:28:24+03:00"
 slug: "haci-feyzullah-camii"
 description: "## Hacı Feyzullah Camii: İskilip'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.4762344,40.7334023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Feyzullah Camii: İskilip'in Tarihi Bir Mirası

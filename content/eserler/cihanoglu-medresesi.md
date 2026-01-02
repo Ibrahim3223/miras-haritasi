@@ -1,18 +1,17 @@
 ---
-title: "Cihanoğlu Medresesi | Miras Haritası"
-date: 2025-12-25T17:38:22+03:00
+title: "Cihanoğlu Medresesi"
+date: "2025-12-25T17:38:22+03:00"
 slug: "cihanoglu-medresesi"
 description: "### Cihanoğlu Medresesi: Aydın'ın Efsanevi Eğitim Merkezi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.8395805,37.8535004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cihanoğlu Medresesi: Aydın'ın Efsanevi Eğitim Merkezi

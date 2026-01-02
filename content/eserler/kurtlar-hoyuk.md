@@ -1,18 +1,17 @@
 ---
-title: "Kurtlar Höyük | Miras Haritası"
-date: 2025-12-25T05:31:48+03:00
+title: "Kurtlar Höyük"
+date: "2025-12-25T05:31:48+03:00"
 slug: "kurtlar-hoyuk"
 description: "## Kurtlar Höyük: Eskişehir'in Gizli Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.124291,39.589559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurtlar Höyük: Eskişehir'in Gizli Anıtı

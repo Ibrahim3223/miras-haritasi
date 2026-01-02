@@ -1,18 +1,17 @@
 ---
-title: "Üç Şerefeli Cami | Miras Haritası"
-date: 2025-12-24T21:51:04+03:00
+title: "Üç Şerefeli Cami"
+date: "2025-12-24T21:51:04+03:00"
 slug: "uc-serefeli-cami"
 description: "## Üç Şerefeli Cami: Edirne'nin Muhteşem Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Edirne_view_of_Üç_Şerefeli_Mosque_(cropped).jpg/1200px-Edirne_view_of_Üç_Şerefeli_Mosque_(cropped).jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5535,41.678055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Üç Şerefeli Cami: Edirne'nin Muhteşem Mirası

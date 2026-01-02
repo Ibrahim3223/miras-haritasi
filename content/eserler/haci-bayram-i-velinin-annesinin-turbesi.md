@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bayram-ı Velinin Annesinin Türbesi | Miras Haritası"
-date: 2025-12-25T16:08:18+03:00
+title: "Hacı Bayram-ı Velinin Annesinin Türbesi"
+date: "2025-12-25T16:08:18+03:00"
 slug: "haci-bayram-i-velinin-annesinin-turbesi"
 description: "# Hacı Bayram-ı Veli'nin Annesinin Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Keçiören"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8989716,39.9907951"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Bayram-ı Veli'nin Annesinin Türbesi

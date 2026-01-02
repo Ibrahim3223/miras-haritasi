@@ -1,18 +1,17 @@
 ---
-title: "Nureddin Cerrahi Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:08+03:00
+title: "Nureddin Cerrahi Türbesi"
+date: "2025-12-25T14:26:08+03:00"
 slug: "nureddin-cerrahi-turbesi"
 description: "**Nureddin Cerrahi Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9416368,41.0263843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Nureddin Cerrahi Türbesi**

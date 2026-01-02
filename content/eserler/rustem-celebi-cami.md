@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Çelebi Cami | Miras Haritası"
-date: 2025-12-24T22:19:42+03:00
+title: "Rüstem Çelebi Cami"
+date: "2025-12-24T22:19:42+03:00"
 slug: "rustem-celebi-cami"
 description: "## Rüstem Çelebi Cami..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rüstem Çelebi Cami

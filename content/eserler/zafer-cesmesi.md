@@ -1,18 +1,17 @@
 ---
-title: "Zafer Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:44+03:00
+title: "Zafer Çeşmesi"
+date: "2025-12-25T10:56:44+03:00"
 slug: "zafer-cesmesi"
 description: "# Zafer Çeşmesi: Gemlik'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gemlik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1550941,40.4319839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Zafer Çeşmesi: Gemlik'in Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet | Miras Haritası"
-date: 2025-12-25T07:33:21+03:00
+title: "Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet"
+date: "2025-12-25T07:33:21+03:00"
 slug: "gazi-orman-fidanligi-frig-tumulusu-emniyet"
 description: "### Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8072357,39.9348831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet

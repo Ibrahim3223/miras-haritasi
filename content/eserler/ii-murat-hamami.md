@@ -1,18 +1,17 @@
 ---
-title: "II. Murat Hamamı | Miras Haritası"
-date: 2025-12-25T16:32:46+03:00
+title: "II. Murat Hamamı"
+date: "2025-12-25T16:32:46+03:00"
 slug: "ii-murat-hamami"
 description: "### II. Murat Hamamı Tanıtımı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.7204267,40.4282741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### II. Murat Hamamı Tanıtımı

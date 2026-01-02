@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Ağa Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:20:54+03:00
+title: "Hüseyin Ağa Çeşmesi, Hekimhan"
+date: "2025-12-25T12:20:54+03:00"
 slug: "huseyin-aga-cesmesi-hekimhan"
 description: "### Hüseyin Ağa Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.934170603,38.817889669"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hüseyin Ağa Çeşmesi, Hekimhan

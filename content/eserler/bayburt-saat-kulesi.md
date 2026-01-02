@@ -1,18 +1,17 @@
 ---
-title: "Bayburt Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:20:58+03:00
+title: "Bayburt Saat Kulesi"
+date: "2025-12-25T17:20:58+03:00"
 slug: "bayburt-saat-kulesi"
 description: "**Bayburt Saat Kulesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bayburt_Clock_Tower_(16034875507).jpg/1200px-Bayburt_Clock_Tower_(16034875507).jpg"
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "40.22725,40.260527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Bayburt Saat Kulesi**

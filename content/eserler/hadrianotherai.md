@@ -1,18 +1,17 @@
 ---
-title: "Hadrianotherai | Miras Haritası"
-date: 2025-12-25T04:44:44+03:00
+title: "Hadrianotherai"
+date: "2025-12-25T04:44:44+03:00"
 slug: "hadrianotherai"
 description: "### Hadrianotherai: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.910653,39.60672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hadrianotherai: Antik Kentin Gizemi

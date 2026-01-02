@@ -1,18 +1,17 @@
 ---
-title: "Şah Huban Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:30:39+03:00
+title: "Şah Huban Hatun Türbesi"
+date: "2025-12-25T14:30:39+03:00"
 slug: "sah-huban-hatun-turbesi"
 description: "## Şah Huban Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Istanbul_Sahhuban_Hatun_Medresesi2015_9111.jpg/1200px-Istanbul_Sahhuban_Hatun_Medresesi2015_9111.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.940437,41.015366"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şah Huban Hatun Türbesi

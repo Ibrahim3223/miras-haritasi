@@ -1,18 +1,17 @@
 ---
-title: "Eshab-ı Kehf Külliyesi | Miras Haritası"
-date: 2025-12-25T14:42:25+03:00
+title: "Eshab-ı Kehf Külliyesi"
+date: "2025-12-25T14:42:25+03:00"
 slug: "eshab-i-kehf-kulliyesi"
 description: "## Eshab-ı Kehf Külliyesi: Afşin'in Tarihî Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.8546066,38.2490997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eshab-ı Kehf Külliyesi: Afşin'in Tarihî Mirası

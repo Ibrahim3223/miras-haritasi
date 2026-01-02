@@ -1,18 +1,17 @@
 ---
-title: "Karabük Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:56+03:00
+title: "Karabük Saat Kulesi"
+date: "2025-12-25T17:19:56+03:00"
 slug: "karabuk-saat-kulesi"
 description: "## Karabük Saat Kulesi..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Karabük"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "32.617916666,41.198111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabük Saat Kulesi

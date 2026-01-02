@@ -1,18 +1,17 @@
 ---
-title: "Kuşburnu Höyüğü | Miras Haritası"
-date: 2025-12-25T06:35:49+03:00
+title: "Kuşburnu Höyüğü"
+date: "2025-12-25T06:35:49+03:00"
 slug: "kusburnu-hoyugu"
 description: "## Kuşburnu Höyüğü: Ege Denizi'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6340103,40.5063744"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuşburnu Höyüğü: Ege Denizi'nin Gizli Mirası

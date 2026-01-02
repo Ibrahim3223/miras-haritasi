@@ -1,18 +1,17 @@
 ---
-title: "Taşören Camii | Miras Haritası"
-date: 2025-12-24T23:14:51+03:00
+title: "Taşören Camii"
+date: "2025-12-24T23:14:51+03:00"
 slug: "tasoren-camii"
 description: "## Taşören Camii: Trabzon'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Çaykara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.263559,40.742285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşören Camii: Trabzon'un Tarihi ve Kültürel Mirası

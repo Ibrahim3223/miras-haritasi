@@ -1,18 +1,17 @@
 ---
-title: "Öksüz İbrahim Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:51+03:00
+title: "Öksüz İbrahim Baba Türbesi"
+date: "2025-12-25T15:11:51+03:00"
 slug: "oksuz-ibrahim-baba-turbesi"
 description: "## Öksüz İbrahim Baba Türbesi..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.2753868,37.7602596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Öksüz İbrahim Baba Türbesi

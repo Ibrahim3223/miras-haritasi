@@ -1,18 +1,17 @@
 ---
-title: "Sıra Çeşmeler | Miras Haritası"
-date: 2025-12-25T11:26:09+03:00
+title: "Sıra Çeşmeler"
+date: "2025-12-25T11:26:09+03:00"
 slug: "sira-cesmeler"
 description: "## Sıra Çeşmeler: Karesi, Balıkesir'de Bir Önemli Çeşme..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8874683,39.6507339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sıra Çeşmeler: Karesi, Balıkesir'de Bir Önemli Çeşme

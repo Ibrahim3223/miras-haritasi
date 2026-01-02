@@ -1,18 +1,17 @@
 ---
-title: "Antiochia ad Pyramum | Miras Haritası"
-date: 2025-12-25T04:29:59+03:00
+title: "Antiochia ad Pyramum"
+date: "2025-12-25T04:29:59+03:00"
 slug: "antiochia-ad-pyramum"
 description: "# Antiochia ad Pyramum: Adana'nın Eski Şehri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.34619,36.54423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Antiochia ad Pyramum: Adana'nın Eski Şehri

@@ -1,18 +1,17 @@
 ---
-title: "Kayabaşı Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:33:13+03:00
+title: "Kayabaşı Çeşmesi, Çankırı"
+date: "2025-12-25T12:33:13+03:00"
 slug: "kayabasi-cesmesi-cankiri"
 description: "## Kayabaşı Çeşmesi: Çankırı'nın İhtişamını Yansıtan Bir Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.613870447,40.603034917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayabaşı Çeşmesi: Çankırı'nın İhtişamını Yansıtan Bir Miras

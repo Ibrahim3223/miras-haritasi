@@ -1,18 +1,17 @@
 ---
-title: "Koca Yusuf Efendi Çeşmesi (Düğmeciler) | Miras Haritası"
-date: 2025-12-25T12:14:01+03:00
+title: "Koca Yusuf Efendi Çeşmesi (Düğmeciler)"
+date: "2025-12-25T12:14:01+03:00"
 slug: "koca-yusuf-efendi-cesmesi-dugmeciler"
 description: "## Koca Yusuf Efendi Çeşmesi (Düğmeciler)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.931459,41.046009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Yusuf Efendi Çeşmesi (Düğmeciler)

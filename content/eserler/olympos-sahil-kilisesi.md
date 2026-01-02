@@ -1,18 +1,17 @@
 ---
-title: "Olympos Sahil Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:36+03:00
+title: "Olympos Sahil Kilisesi"
+date: "2025-12-25T09:36:36+03:00"
 slug: "olympos-sahil-kilisesi"
 description: "# Olympos Sahil Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.4758873,36.395813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Olympos Sahil Kilisesi

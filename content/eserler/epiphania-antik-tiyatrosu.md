@@ -1,18 +1,17 @@
 ---
-title: "Epiphania Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:37+03:00
+title: "Epiphania Antik Tiyatrosu"
+date: "2025-12-25T04:14:37+03:00"
 slug: "epiphania-antik-tiyatrosu"
 description: "## Epiphania Antik Tiyatrosu: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Erzin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.1205521,36.9732361"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Epiphania Antik Tiyatrosu: Tarihî Mirasın Gizemi

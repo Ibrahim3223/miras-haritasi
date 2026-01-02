@@ -1,18 +1,17 @@
 ---
-title: "Kadı Çeşmesi, Umurbey | Miras Haritası"
-date: 2025-12-25T12:59:21+03:00
+title: "Kadı Çeşmesi, Umurbey"
+date: "2025-12-25T12:59:21+03:00"
 slug: "kadi-cesmesi-umurbey"
 description: "### Kadı Çeşmesi, Umurbey: Lapseki'nin Tarihi Ögesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Lapseki"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6044312,40.2352638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadı Çeşmesi, Umurbey: Lapseki'nin Tarihi Ögesi

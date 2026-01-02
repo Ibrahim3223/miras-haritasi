@@ -1,18 +1,17 @@
 ---
-title: "Hüsam İbni Abdullah Kabri | Miras Haritası"
-date: 2025-12-25T13:36:32+03:00
+title: "Hüsam İbni Abdullah Kabri"
+date: "2025-12-25T13:36:32+03:00"
 slug: "husam-ibni-abdullah-kabri"
 description: "**Hüsam İbni Abdullah Kabri: Fatih'in Gizli Çehresini Gözler önüne Seren Anıt**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.94071646,41.031469793"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hüsam İbni Abdullah Kabri: Fatih'in Gizli Çehresini Gözler önüne Seren Anıt**

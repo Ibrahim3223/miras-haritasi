@@ -1,18 +1,17 @@
 ---
-title: "Şeyhülislam Esat Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:30:26+03:00
+title: "Şeyhülislam Esat Efendi Medresesi"
+date: "2025-12-25T17:30:26+03:00"
 slug: "seyhulislam-esat-efendi-medresesi"
 description: "## Şeyhülislam Esat Efendi Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Şeyhülislam_Esat_Efendi_Medresesi2.JPG/1200px-Şeyhülislam_Esat_Efendi_Medresesi2.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.947916666,41.026861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyhülislam Esat Efendi Medresesi

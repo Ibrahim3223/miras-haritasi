@@ -1,18 +1,17 @@
 ---
-title: "Alaybeyzade Hacı Ahmet Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:10:56+03:00
+title: "Alaybeyzade Hacı Ahmet Ağa Camii"
+date: "2025-12-24T22:10:56+03:00"
 slug: "alaybeyzade-haci-ahmet-aga-camii"
 description: "## Alaybeyzade Hacı Ahmet Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5200005,37.6687012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaybeyzade Hacı Ahmet Ağa Camii

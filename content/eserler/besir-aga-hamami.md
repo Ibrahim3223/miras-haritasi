@@ -1,18 +1,17 @@
 ---
-title: "Beşir Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T16:53:56+03:00
+title: "Beşir Ağa Hamamı"
+date: "2025-12-25T16:53:56+03:00"
 slug: "besir-aga-hamami"
 description: "### Beşir Ağa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9823151,41.0117073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beşir Ağa Hamamı

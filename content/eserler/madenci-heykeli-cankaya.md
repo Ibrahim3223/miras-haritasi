@@ -1,18 +1,17 @@
 ---
-title: "Madenci Heykeli, Çankaya | Miras Haritası"
-date: 2025-12-25T16:10:16+03:00
+title: "Madenci Heykeli, Çankaya"
+date: "2025-12-25T16:10:16+03:00"
 slug: "madenci-heykeli-cankaya"
 description: "## Madenci Heykeli, Çankaya..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8546257,39.9150047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Madenci Heykeli, Çankaya

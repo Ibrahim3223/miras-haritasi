@@ -1,18 +1,17 @@
 ---
-title: "Terlemez Höyük | Miras Haritası"
-date: 2025-12-25T06:17:59+03:00
+title: "Terlemez Höyük"
+date: "2025-12-25T06:17:59+03:00"
 slug: "terlemez-hoyuk"
 description: "## Terlemez Höyük: Gülşehir'in Gizli Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3073308,38.7354544"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terlemez Höyük: Gülşehir'in Gizli Anıtı

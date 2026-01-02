@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mustafa Devati Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:57+03:00
+title: "Şeyh Mustafa Devati Türbesi"
+date: "2025-12-25T14:34:57+03:00"
 slug: "seyh-mustafa-devati-turbesi"
 description: "## Şeyh Mustafa Devati Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.017926,41.025496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Mustafa Devati Türbesi

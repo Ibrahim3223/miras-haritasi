@@ -1,18 +1,17 @@
 ---
-title: "Yazır Köyü Camii (Kayseri) | Miras Haritası"
-date: 2025-12-25T00:40:58+03:00
+title: "Yazır Köyü Camii (Kayseri)"
+date: "2025-12-25T00:40:58+03:00"
 slug: "yazir-koyu-camii-kayseri"
 description: "## Yazır Köyü Camii: Kayseri'nin Gizli Çarı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.508856409,38.848645376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yazır Köyü Camii: Kayseri'nin Gizli Çarı

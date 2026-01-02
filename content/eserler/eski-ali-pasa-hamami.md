@@ -1,18 +1,17 @@
 ---
-title: "Eski Ali Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:15+03:00
+title: "Eski Ali Paşa Hamamı"
+date: "2025-12-25T17:03:15+03:00"
 slug: "eski-ali-pasa-hamami"
 description: "### Eski Ali Paşa Hamamı: Fatih, İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9434204,41.0212517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Ali Paşa Hamamı: Fatih, İstanbul'un Gizli Cenneti

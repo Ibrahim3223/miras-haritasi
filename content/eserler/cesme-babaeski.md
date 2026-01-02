@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Babaeski | Miras Haritası"
-date: 2025-12-25T12:25:56+03:00
+title: "Çeşme, Babaeski"
+date: "2025-12-25T12:25:56+03:00"
 slug: "cesme-babaeski"
 description: "### Babaeski Çeşmesi: Tarih, Mimarlık ve Kültür..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.093821,41.428963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Babaeski Çeşmesi: Tarih, Mimarlık ve Kültür

@@ -1,18 +1,17 @@
 ---
-title: "Çeşmeköy Camii | Miras Haritası"
-date: 2025-12-24T22:29:03+03:00
+title: "Çeşmeköy Camii"
+date: "2025-12-24T22:29:03+03:00"
 slug: "cesmekoy-camii"
 description: "## Çeşmeköy Camii: Datça' nun Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4602509,36.693634"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşmeköy Camii: Datça' nun Gizli Cenneti

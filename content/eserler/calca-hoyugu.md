@@ -1,18 +1,17 @@
 ---
-title: "Çalca Höyüğü | Miras Haritası"
-date: 2025-12-25T05:55:47+03:00
+title: "Çalca Höyüğü"
+date: "2025-12-25T05:55:47+03:00"
 slug: "calca-hoyugu"
 description: "## Çalca Höyüğü: Çanakkale'nin Gizli Tarihi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Çan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9642181,40.0486412"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çalca Höyüğü: Çanakkale'nin Gizli Tarihi

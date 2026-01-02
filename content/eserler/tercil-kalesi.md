@@ -1,18 +1,17 @@
 ---
-title: "Tercil Kalesi | Miras Haritası"
-date: 2025-12-25T01:18:28+03:00
+title: "Tercil Kalesi"
+date: "2025-12-25T01:18:28+03:00"
 slug: "tercil-kalesi"
 description: "## Tercil Kalesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Hazro"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.7362061,38.2500687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tercil Kalesi

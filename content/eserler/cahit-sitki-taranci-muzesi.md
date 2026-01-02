@@ -1,18 +1,17 @@
 ---
-title: "Cahit Sıtkı Tarancı Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:44+03:00
+title: "Cahit Sıtkı Tarancı Müzesi"
+date: "2025-12-25T03:26:44+03:00"
 slug: "cahit-sitki-taranci-muzesi"
 description: "# Cahit Sıtkı Tarancı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cahit_Sıtkı_Tarancı_Museum.jpg/1200px-Cahit_Sıtkı_Tarancı_Museum.jpg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.23555556,37.91305556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Cahit Sıtkı Tarancı Müzesi

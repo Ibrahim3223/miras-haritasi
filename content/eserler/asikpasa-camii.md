@@ -1,18 +1,17 @@
 ---
-title: "Aşıkpaşa Camii | Miras Haritası"
-date: 2025-12-24T22:46:38+03:00
+title: "Aşıkpaşa Camii"
+date: "2025-12-24T22:46:38+03:00"
 slug: "asikpasa-camii"
 description: "## Aşıkpaşa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.956261,41.024054"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşıkpaşa Camii

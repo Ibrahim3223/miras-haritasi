@@ -1,18 +1,17 @@
 ---
-title: "Şatırhöyük | Miras Haritası"
-date: 2025-12-25T06:46:06+03:00
+title: "Şatırhöyük"
+date: "2025-12-25T06:46:06+03:00"
 slug: "satirhoyuk"
 description: "# Şatırhöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Nurdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9737238,37.2175854"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şatırhöyük Arkeolojik Sit

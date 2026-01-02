@@ -1,18 +1,17 @@
 ---
-title: "Çat Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:35:02+03:00
+title: "Çat Köyü Camii"
+date: "2025-12-25T00:35:02+03:00"
 slug: "cat-koyu-camii"
 description: "## Çat Köyü Camii: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.938757254,40.870692817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çat Köyü Camii: Tarihi ve Kültürel Mirasın Bir Parçası

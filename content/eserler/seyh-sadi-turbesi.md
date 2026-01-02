@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Sadi Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:28+03:00
+title: "Şeyh Sadi Türbesi"
+date: "2025-12-25T15:16:28+03:00"
 slug: "seyh-sadi-turbesi"
 description: "## Şeyh Sadi Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.106187,40.534594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Sadi Türbesi

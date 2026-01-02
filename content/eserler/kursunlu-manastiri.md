@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Manastırı | Miras Haritası"
-date: 2025-12-25T09:57:24+03:00
+title: "Kurşunlu Manastırı"
+date: "2025-12-25T09:57:24+03:00"
 slug: "kursunlu-manastiri"
 description: "## Kurşunlu Manastırı: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "28.2679825,40.3994865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Manastırı: Bursa'nın Tarihi Bir Mirası

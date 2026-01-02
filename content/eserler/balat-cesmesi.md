@@ -1,18 +1,17 @@
 ---
-title: "Balat Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:09:56+03:00
+title: "Balat Çeşmesi"
+date: "2025-12-25T10:09:56+03:00"
 slug: "balat-cesmesi"
 description: "## Balat Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Yusuf_Şucaeddin_Camii_Çeşmesi4.jpg/1200px-Yusuf_Şucaeddin_Camii_Çeşmesi4.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.946921,41.034342"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Balat Çeşmesi

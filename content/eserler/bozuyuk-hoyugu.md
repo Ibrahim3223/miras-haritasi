@@ -1,18 +1,17 @@
 ---
-title: "Bozüyük Höyüğü | Miras Haritası"
-date: 2025-12-25T07:07:23+03:00
+title: "Bozüyük Höyüğü"
+date: "2025-12-25T07:07:23+03:00"
 slug: "bozuyuk-hoyugu"
 description: "## Bozüyük Höyüğü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozüyük Höyüğü

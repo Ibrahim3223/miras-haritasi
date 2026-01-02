@@ -1,18 +1,17 @@
 ---
-title: "Dubatepe Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:22+03:00
+title: "Dubatepe Kalesi"
+date: "2025-12-25T01:22:22+03:00"
 slug: "dubatepe-kalesi"
 description: "## Dubatepe Kalesi: İzmir'in Gizli İncisi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.7597885,38.3835335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dubatepe Kalesi: İzmir'in Gizli İncisi

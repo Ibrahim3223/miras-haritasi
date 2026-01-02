@@ -1,18 +1,17 @@
 ---
-title: "TCMB Para Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:47+03:00
+title: "TCMB Para Müzesi"
+date: "2025-12-25T03:30:47+03:00"
 slug: "tcmb-para-muzesi"
 description: "## TCMB Para Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.853575,39.940157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## TCMB Para Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Eski Köytepe Köyük | Miras Haritası"
-date: 2025-12-25T06:11:22+03:00
+title: "Eski Köytepe Köyük"
+date: "2025-12-25T06:11:22+03:00"
 slug: "eski-koytepe-koyuk"
 description: "## Eski Köytepe Köyük: Konya'nın Gizli Şehri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.945488,37.3498497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Köytepe Köyük: Konya'nın Gizli Şehri

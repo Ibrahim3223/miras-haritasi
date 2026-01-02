@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Atik Camii | Miras Haritası"
-date: 2025-12-24T22:31:08+03:00
+title: "Çarşı Atik Camii"
+date: "2025-12-24T22:31:08+03:00"
 slug: "carsi-atik-camii"
 description: "## Çarşı Atik Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Elbistan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.1912537,38.20047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Atik Camii

@@ -1,18 +1,17 @@
 ---
-title: "Reşadiye Camii, Silifke | Miras Haritası"
-date: 2025-12-25T00:28:58+03:00
+title: "Reşadiye Camii, Silifke"
+date: "2025-12-25T00:28:58+03:00"
 slug: "resadiye-camii-silifke"
 description: "## Reşadiye Camii, Silifke: Tarih, Mimarisi ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.9322357,36.3766937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Reşadiye Camii, Silifke: Tarih, Mimarisi ve Ziyaret Bilgileri

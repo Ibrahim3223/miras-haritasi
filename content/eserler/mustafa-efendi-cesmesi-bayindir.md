@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Efendi Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:53:45+03:00
+title: "Mustafa Efendi Çeşmesi, Bayındır"
+date: "2025-12-25T12:53:45+03:00"
 slug: "mustafa-efendi-cesmesi-bayindir"
 description: "## Mustafa Efendi Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6486912,38.2261734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Efendi Çeşmesi, Bayındır

@@ -1,18 +1,17 @@
 ---
-title: "Bakırköy Ruh ve Sinir Hastalıkları Hastanesi Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:40:28+03:00
+title: "Bakırköy Ruh ve Sinir Hastalıkları Hastanesi Güneş Saati"
+date: "2025-12-25T13:40:28+03:00"
 slug: "bakirkoy-ruh-ve-sinir-hastaliklari-hastanesi-gunes-saati"
 description: "### Bakırköy Ruh ve Sinir Hastalıkları Hastanesi Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.8635311,40.9873924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bakırköy Ruh ve Sinir Hastalıkları Hastanesi Güneş Saati

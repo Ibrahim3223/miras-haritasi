@@ -1,18 +1,17 @@
 ---
-title: "Keraitae | Miras Haritası"
-date: 2025-12-25T05:21:49+03:00
+title: "Keraitae"
+date: "2025-12-25T05:21:49+03:00"
 slug: "keraitae"
 description: "## Keraitae Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Burdur"
+province: "Burdur"
+iller: '["Burdur"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.602777777,37.514444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keraitae Arkeolojik Sit

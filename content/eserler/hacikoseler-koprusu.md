@@ -1,18 +1,17 @@
 ---
-title: "Hacıköseler Köprüsü | Miras Haritası"
-date: 2025-12-25T02:19:49+03:00
+title: "Hacıköseler Köprüsü"
+date: "2025-12-25T02:19:49+03:00"
 slug: "hacikoseler-koprusu"
 description: "## Hacıköseler Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1135406,37.720562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıköseler Köprüsü

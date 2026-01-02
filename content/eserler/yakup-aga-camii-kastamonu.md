@@ -1,18 +1,17 @@
 ---
-title: "Yakup Ağa Camii, Kastamonu | Miras Haritası"
-date: 2025-12-24T23:22:45+03:00
+title: "Yakup Ağa Camii, Kastamonu"
+date: "2025-12-24T23:22:45+03:00"
 slug: "yakup-aga-camii-kastamonu"
 description: "## Yakup Ağa Camii, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7723083,41.3766975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yakup Ağa Camii, Kastamonu

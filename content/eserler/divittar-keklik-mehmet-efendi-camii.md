@@ -1,18 +1,17 @@
 ---
-title: "Divittar Keklik Mehmet Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:52:05+03:00
+title: "Divittar Keklik Mehmet Efendi Camii"
+date: "2025-12-24T22:52:05+03:00"
 slug: "divittar-keklik-mehmet-efendi-camii"
 description: "## Divittar Keklik Mehmet Efendi Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cibali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.955952,41.021662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Divittar Keklik Mehmet Efendi Camii

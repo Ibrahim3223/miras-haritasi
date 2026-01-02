@@ -1,18 +1,17 @@
 ---
-title: "Fındıkkale, Aydın | Miras Haritası"
-date: 2025-12-25T01:43:29+03:00
+title: "Fındıkkale, Aydın"
+date: "2025-12-25T01:43:29+03:00"
 slug: "findikkale-aydin"
 description: "# Fındıkkale, Aydın: Kuşadası'nın Tarihî Kale Kahramanı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3111649,37.698719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Fındıkkale, Aydın: Kuşadası'nın Tarihî Kale Kahramanı

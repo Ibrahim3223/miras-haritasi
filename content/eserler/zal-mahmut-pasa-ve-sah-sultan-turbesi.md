@@ -1,18 +1,17 @@
 ---
-title: "Zal Mahmut Paşa ve Şah Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:38+03:00
+title: "Zal Mahmut Paşa ve Şah Sultan Türbesi"
+date: "2025-12-25T14:34:38+03:00"
 slug: "zal-mahmut-pasa-ve-sah-sultan-turbesi"
 description: "### Zal Mahmut Paşa ve Şah Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9361483,41.0447927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zal Mahmut Paşa ve Şah Sultan Türbesi

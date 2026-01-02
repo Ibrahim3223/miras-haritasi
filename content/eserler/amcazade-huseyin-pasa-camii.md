@@ -1,18 +1,17 @@
 ---
-title: "Amcazade Hüseyin Paşa Camii | Miras Haritası"
-date: 2025-12-25T17:35:33+03:00
+title: "Amcazade Hüseyin Paşa Camii"
+date: "2025-12-25T17:35:33+03:00"
 slug: "amcazade-huseyin-pasa-camii"
 description: "**Amcazade Hüseyin Paşa Camii**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9521427,41.0152245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Amcazade Hüseyin Paşa Camii**

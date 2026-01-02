@@ -1,18 +1,17 @@
 ---
-title: "Dereköy Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:36:35+03:00
+title: "Dereköy Sınır Kapısı"
+date: "2025-12-25T08:36:35+03:00"
 slug: "derekoy-sinir-kapisi"
 description: "## Dereköy Sınır Kapısı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "27.45898,41.96773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dereköy Sınır Kapısı

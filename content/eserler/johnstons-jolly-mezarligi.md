@@ -1,18 +1,17 @@
 ---
-title: "Johnston's Jolly Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:52:41+03:00
+title: "Johnston's Jolly Mezarlığı"
+date: "2025-12-25T15:52:41+03:00"
 slug: "johnstons-jolly-mezarligi"
 description: "## Johnston's Jolly Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jonnstone's_Jolly_Cemetery.jpg/1200px-Jonnstone's_Jolly_Cemetery.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.28741,40.23269"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Johnston's Jolly Mezarlığı

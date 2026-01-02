@@ -1,18 +1,17 @@
 ---
-title: "Çerkezçetmi Höyüğü | Miras Haritası"
-date: 2025-12-25T13:50:51+03:00
+title: "Çerkezçetmi Höyüğü"
+date: "2025-12-25T13:50:51+03:00"
 slug: "cerkezcetmi-hoyugu"
 description: "## Çerkezçetmi Höyüğü: Bozüyük'teki Bir Çağlarca Miras..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1746407,39.8849411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çerkezçetmi Höyüğü: Bozüyük'teki Bir Çağlarca Miras

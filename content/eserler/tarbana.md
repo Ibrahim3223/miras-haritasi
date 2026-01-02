@@ -1,18 +1,17 @@
 ---
-title: "Tarbana | Miras Haritası"
-date: 2025-12-25T08:08:46+03:00
+title: "Tarbana"
+date: "2025-12-25T08:08:46+03:00"
 slug: "tarbana"
 description: "# Tarbana..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tarbana

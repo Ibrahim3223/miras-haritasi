@@ -1,18 +1,17 @@
 ---
-title: "Baykoca Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:14+03:00
+title: "Baykoca Bey Türbesi"
+date: "2025-12-25T14:50:14+03:00"
 slug: "baykoca-bey-turbesi"
 description: "### Baykoca Bey Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.5255642,40.1340675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Baykoca Bey Türbesi

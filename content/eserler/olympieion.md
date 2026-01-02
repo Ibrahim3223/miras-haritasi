@@ -1,18 +1,17 @@
 ---
-title: "Olympieion | Miras Haritası"
-date: 2025-12-25T05:42:13+03:00
+title: "Olympieion"
+date: "2025-12-25T05:42:13+03:00"
 slug: "olympieion"
 description: "## Olympieion: İzmir'in Antik Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.340393002,37.946618835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olympieion: İzmir'in Antik Bir Mirası

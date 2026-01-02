@@ -1,18 +1,17 @@
 ---
-title: "Büyükçit Köyü Meryemana Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:35+03:00
+title: "Büyükçit Köyü Meryemana Köprüsü"
+date: "2025-12-25T02:33:35+03:00"
 slug: "buyukcit-koyu-meryemana-koprusu"
 description: "## Büyükçit Köyü Meryemana Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.21336,40.51246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükçit Köyü Meryemana Köprüsü

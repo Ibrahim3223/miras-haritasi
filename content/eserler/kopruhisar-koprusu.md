@@ -1,18 +1,17 @@
 ---
-title: "Köprühisar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:47:19+03:00
+title: "Köprühisar Köprüsü"
+date: "2025-12-25T02:47:19+03:00"
 slug: "kopruhisar-koprusu"
 description: "### Köprühisar Köprüsü: Bir Öykü ve Bir Miras..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.787473825,40.278804561"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köprühisar Köprüsü: Bir Öykü ve Bir Miras

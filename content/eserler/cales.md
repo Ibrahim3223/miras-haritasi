@@ -1,18 +1,17 @@
 ---
-title: "Cales | Miras Haritası"
-date: 2025-12-25T05:41:13+03:00
+title: "Cales"
+date: "2025-12-25T05:41:13+03:00"
 slug: "cales"
 description: "**Cales: Tarih ve Kültür Mirasının Bir Parçası**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.387409,41.18195"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Cales: Tarih ve Kültür Mirasının Bir Parçası**

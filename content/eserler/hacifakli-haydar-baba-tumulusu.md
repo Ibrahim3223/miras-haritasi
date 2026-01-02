@@ -1,18 +1,17 @@
 ---
-title: "Hacıfaklı Haydar Baba Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:59:24+03:00
+title: "Hacıfaklı Haydar Baba Tümülüsü"
+date: "2025-12-25T07:59:24+03:00"
 slug: "hacifakli-haydar-baba-tumulusu"
 description: "### Hacıfaklı Haydar Baba Tümülüsü: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5137119,41.7009964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacıfaklı Haydar Baba Tümülüsü: Kırklareli'nin Gizli Cenneti

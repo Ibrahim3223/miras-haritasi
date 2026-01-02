@@ -1,18 +1,17 @@
 ---
-title: "Yelki Yukarı Camii | Miras Haritası"
-date: 2025-12-24T23:45:36+03:00
+title: "Yelki Yukarı Camii"
+date: "2025-12-24T23:45:36+03:00"
 slug: "yelki-yukari-camii"
 description: "### Yelki Yukarı Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8745403,38.340519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yelki Yukarı Camii: İzmir'in Tarihi Bir Mirası

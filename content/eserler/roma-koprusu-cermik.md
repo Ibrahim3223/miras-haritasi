@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Çermik | Miras Haritası"
-date: 2025-12-25T02:59:21+03:00
+title: "Roma Köprüsü, Çermik"
+date: "2025-12-25T02:59:21+03:00"
 slug: "roma-koprusu-cermik"
 description: "## Roma Köprüsü, Çermik..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çermik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.463665,38.0552649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Çermik

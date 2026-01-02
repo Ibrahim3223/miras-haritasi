@@ -1,18 +1,17 @@
 ---
-title: "Ahi Toman Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:03+03:00
+title: "Ahi Toman Baba Türbesi"
+date: "2025-12-25T15:22:03+03:00"
 slug: "ahi-toman-baba-turbesi"
 description: "**Ahi Toman Baba Türbesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2802277,39.9056702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ahi Toman Baba Türbesi**

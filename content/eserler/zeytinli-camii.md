@@ -1,18 +1,17 @@
 ---
-title: "Zeytinli Camii | Miras Haritası"
-date: 2025-12-24T23:49:19+03:00
+title: "Zeytinli Camii"
+date: "2025-12-24T23:49:19+03:00"
 slug: "zeytinli-camii"
 description: "### Zeytinli Camii: Çanakkale'nin Gizli Öztürk Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3346024,39.7870522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zeytinli Camii: Çanakkale'nin Gizli Öztürk Mirası

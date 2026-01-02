@@ -1,18 +1,17 @@
 ---
-title: "Simeon Limanı | Miras Haritası"
-date: 2025-12-25T07:12:05+03:00
+title: "Simeon Limanı"
+date: "2025-12-25T07:12:05+03:00"
 slug: "simeon-limani"
 description: "### Simeon Limanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PrincipadodeAntioquía.png/1200px-PrincipadodeAntioquía.png"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.9669,36.0904"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Simeon Limanı

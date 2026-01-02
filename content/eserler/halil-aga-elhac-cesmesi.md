@@ -1,18 +1,17 @@
 ---
-title: "Halil Ağa Elhac Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:14+03:00
+title: "Halil Ağa Elhac Çeşmesi"
+date: "2025-12-25T11:17:14+03:00"
 slug: "halil-aga-elhac-cesmesi"
 description: "## Halil Ağa Elhac Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Demirtaş"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.967155,41.016891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Ağa Elhac Çeşmesi

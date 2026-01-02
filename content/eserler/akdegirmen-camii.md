@@ -1,18 +1,17 @@
 ---
-title: "Akdeğirmen Camii | Miras Haritası"
-date: 2025-12-24T22:58:41+03:00
+title: "Akdeğirmen Camii"
+date: "2025-12-24T22:58:41+03:00"
 slug: "akdegirmen-camii"
 description: "## Akdeğirmen Camii: Tokat'ın Değerli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.551857,40.3050079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akdeğirmen Camii: Tokat'ın Değerli Mirası

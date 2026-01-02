@@ -1,18 +1,17 @@
 ---
-title: "Tuti Abdullatif Medresesi | Miras Haritası"
-date: 2025-12-25T17:28:51+03:00
+title: "Tuti Abdullatif Medresesi"
+date: "2025-12-25T17:28:51+03:00"
 slug: "tuti-abdullatif-medresesi"
 description: "## Tuti Abdullatif Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.951934,41.020746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tuti Abdullatif Medresesi

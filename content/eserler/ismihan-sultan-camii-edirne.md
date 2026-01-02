@@ -1,18 +1,17 @@
 ---
-title: "İsmihan Sultan Camii, Edirne | Miras Haritası"
-date: 2025-12-25T01:11:02+03:00
+title: "İsmihan Sultan Camii, Edirne"
+date: "2025-12-25T01:11:02+03:00"
 slug: "ismihan-sultan-camii-edirne"
 description: "### İsmihan Sultan Camii: Edirne'nin Gizli Çehresini İfşa Eden Bir Miras..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5478458,41.6783447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsmihan Sultan Camii: Edirne'nin Gizli Çehresini İfşa Eden Bir Miras

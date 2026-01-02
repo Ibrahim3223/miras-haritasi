@@ -1,18 +1,17 @@
 ---
-title: "Adakale Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:25:36+03:00
+title: "Adakale Mahallesi Çeşmesi"
+date: "2025-12-25T11:25:36+03:00"
 slug: "adakale-mahallesi-cesmesi"
 description: "# Adakale Mahallesi Çeşmesi: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4253731,38.6074142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Adakale Mahallesi Çeşmesi: Manisa'nın Tarihi ve Kültürel Mirası

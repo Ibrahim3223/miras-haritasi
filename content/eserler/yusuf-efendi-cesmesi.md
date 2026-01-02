@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:11:37+03:00
+title: "Yusuf Efendi Çeşmesi"
+date: "2025-12-25T12:11:37+03:00"
 slug: "yusuf-efendi-cesmesi"
 description: "## Yusuf Efendi Çeşmesi: Fatih'te Bir Değerli Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Yusuf_Efendi_Çeşmesi_genel_görüntüsü.jpg/1200px-Yusuf_Efendi_Çeşmesi_genel_görüntüsü.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.946201,41.021557"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yusuf Efendi Çeşmesi: Fatih'te Bir Değerli Miras

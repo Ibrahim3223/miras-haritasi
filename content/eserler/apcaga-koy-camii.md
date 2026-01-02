@@ -1,18 +1,17 @@
 ---
-title: "Apçağa Köy Camii | Miras Haritası"
-date: 2025-12-24T22:13:39+03:00
+title: "Apçağa Köy Camii"
+date: "2025-12-24T22:13:39+03:00"
 slug: "apcaga-koy-camii"
 description: "## Apçağa Köy Camii: Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Kemaliye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.5029793,39.24123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apçağa Köy Camii: Bir Osmanlı Dönemi Mirası

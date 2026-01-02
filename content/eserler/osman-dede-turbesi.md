@@ -1,18 +1,17 @@
 ---
-title: "Osman Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:48:57+03:00
+title: "Osman Dede Türbesi"
+date: "2025-12-25T14:48:57+03:00"
 slug: "osman-dede-turbesi"
 description: "## Osman Dede Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9747372,39.4199905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osman Dede Türbesi

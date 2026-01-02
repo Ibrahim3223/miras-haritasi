@@ -1,18 +1,17 @@
 ---
-title: "Kıraç Höyüğü | Miras Haritası"
-date: 2025-12-25T06:28:49+03:00
+title: "Kıraç Höyüğü"
+date: "2025-12-25T06:28:49+03:00"
 slug: "kirac-hoyugu"
 description: "### Kıraç Höyüğü: Aksaray'ın Gizli Ören Yeri..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.1869398,38.764196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kıraç Höyüğü: Aksaray'ın Gizli Ören Yeri

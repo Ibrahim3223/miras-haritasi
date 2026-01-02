@@ -1,18 +1,17 @@
 ---
-title: "Pınarbaşı Camii | Miras Haritası"
-date: 2025-12-25T00:40:26+03:00
+title: "Pınarbaşı Camii"
+date: "2025-12-25T00:40:26+03:00"
 slug: "pinarbasi-camii"
 description: "## Pınarbaşı Camii: Mardin'in Tarihi Bir Güzelliği..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.745921,37.315009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pınarbaşı Camii: Mardin'in Tarihi Bir Güzelliği

@@ -1,18 +1,17 @@
 ---
-title: "Colussa | Miras Haritası"
-date: 2025-12-25T08:09:02+03:00
+title: "Colussa"
+date: "2025-12-25T08:09:02+03:00"
 slug: "colussa"
 description: "## Colussa: Antik bir Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.27145,41.947448"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Colussa: Antik bir Kentin Mirası

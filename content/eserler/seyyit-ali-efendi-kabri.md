@@ -1,18 +1,17 @@
 ---
-title: "Seyyit Ali Efendi Kabri | Miras Haritası"
-date: 2025-12-25T13:59:19+03:00
+title: "Seyyit Ali Efendi Kabri"
+date: "2025-12-25T13:59:19+03:00"
 slug: "seyyit-ali-efendi-kabri"
 description: "## Seyyit Ali Efendi Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.965332179,41.018177163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyit Ali Efendi Kabri: İstanbul'un Gizli Anıtı

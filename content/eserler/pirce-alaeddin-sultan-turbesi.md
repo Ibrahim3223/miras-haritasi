@@ -1,18 +1,17 @@
 ---
-title: "Pirce Alaeddin Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:34+03:00
+title: "Pirce Alaeddin Sultan Türbesi"
+date: "2025-12-25T15:19:34+03:00"
 slug: "pirce-alaeddin-sultan-turbesi"
 description: "## Pirce Alaeddin Sultan Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.238766,36.500631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pirce Alaeddin Sultan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Hatice Hatun Camii, Kırklareli | Miras Haritası"
-date: 2025-12-25T00:15:26+03:00
+title: "Hatice Hatun Camii, Kırklareli"
+date: "2025-12-25T00:15:26+03:00"
 slug: "hatice-hatun-camii-kirklareli"
 description: "## Hatice Hatun Camii, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2282104,41.7354584"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Hatun Camii, Kırklareli

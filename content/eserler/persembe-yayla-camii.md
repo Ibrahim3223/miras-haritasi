@@ -1,18 +1,17 @@
 ---
-title: "Perşembe Yayla Camii | Miras Haritası"
-date: 2025-12-24T22:40:40+03:00
+title: "Perşembe Yayla Camii"
+date: "2025-12-24T22:40:40+03:00"
 slug: "persembe-yayla-camii"
 description: "## Perşembe Yayla Camii: Ordu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ordu"
+province: "Ordu"
+iller: '["Ordu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.295802,40.627272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perşembe Yayla Camii: Ordu'nun Tarihi ve Kültürel Mirası

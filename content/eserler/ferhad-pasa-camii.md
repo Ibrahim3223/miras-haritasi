@@ -1,18 +1,17 @@
 ---
-title: "Ferhad Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:41:44+03:00
+title: "Ferhad Paşa Camii"
+date: "2025-12-24T21:41:44+03:00"
 slug: "ferhad-pasa-camii"
 description: "## Ferhad Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ferhad_Paşa_Camii.jpg/1200px-Ferhad_Paşa_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.459694444,41.140694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ferhad Paşa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Harput | Miras Haritası"
-date: 2025-12-25T07:12:22+03:00
+title: "Harput"
+date: "2025-12-25T07:12:22+03:00"
 slug: "harput"
 description: "### Harput: Türkiye'nin Tarihî ve Kültürel Mirasının Değerli Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Harput_kalesi-Harput-Elazığ_-_panoramio.jpg/1200px-Harput_kalesi-Harput-Elazığ_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Elazığ"
+province: "Elazığ"
+iller: '["Elazığ"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.25,38.703888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Harput: Türkiye'nin Tarihî ve Kültürel Mirasının Değerli Bir Parçası

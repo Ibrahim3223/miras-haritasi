@@ -1,18 +1,17 @@
 ---
-title: "Toygar Hamza Kabri | Miras Haritası"
-date: 2025-12-25T13:27:14+03:00
+title: "Toygar Hamza Kabri"
+date: "2025-12-25T13:27:14+03:00"
 slug: "toygar-hamza-kabri"
 description: "## Toygar Hamza Kabri: Üsküdar'ın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Toygar_Hamza_Kabri.jpg/1200px-Toygar_Hamza_Kabri.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0203629,41.0237045"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Toygar Hamza Kabri: Üsküdar'ın Gizli Anıtı

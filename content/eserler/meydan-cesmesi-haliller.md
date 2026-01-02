@@ -1,18 +1,17 @@
 ---
-title: "Meydan Çeşmesi, Haliller | Miras Haritası"
-date: 2025-12-25T12:01:46+03:00
+title: "Meydan Çeşmesi, Haliller"
+date: "2025-12-25T12:01:46+03:00"
 slug: "meydan-cesmesi-haliller"
 description: "## Meydan Çeşmesi, Haliller..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kiraz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2889366,38.1848755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meydan Çeşmesi, Haliller

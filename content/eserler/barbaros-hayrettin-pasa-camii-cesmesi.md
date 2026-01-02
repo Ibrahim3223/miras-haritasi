@@ -1,18 +1,17 @@
 ---
-title: "Barbaros Hayrettin Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:08:01+03:00
+title: "Barbaros Hayrettin Paşa Camii Çeşmesi"
+date: "2025-12-25T13:08:01+03:00"
 slug: "barbaros-hayrettin-pasa-camii-cesmesi"
 description: "## Barbaros Hayrettin Paşa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Barbaros_Hayrettin_Pasha_Mosque.jpg/1200px-Barbaros_Hayrettin_Pasha_Mosque.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Levent"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Barbaros Hayrettin Paşa Camii Çeşmesi

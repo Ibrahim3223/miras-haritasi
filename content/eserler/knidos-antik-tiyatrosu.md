@@ -1,18 +1,17 @@
 ---
-title: "Knidos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:21:07+03:00
+title: "Knidos Antik Tiyatrosu"
+date: "2025-12-25T08:21:07+03:00"
 slug: "knidos-antik-tiyatrosu"
 description: "# Knidos Antik Tiyatrosu: Tarihî Mirasın Gizemli Adası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Knidos_Theatre_95_005.jpg/1200px-Knidos_Theatre_95_005.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.375277777,36.685833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Knidos Antik Tiyatrosu: Tarihî Mirasın Gizemli Adası

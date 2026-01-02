@@ -1,18 +1,17 @@
 ---
-title: "Veziroğlu Höyük | Miras Haritası"
-date: 2025-12-25T05:42:17+03:00
+title: "Veziroğlu Höyük"
+date: "2025-12-25T05:42:17+03:00"
 slug: "veziroglu-hoyuk"
 description: "## Veziroğlu Höyük: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.455254,38.671823"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veziroğlu Höyük: Tarihi ve Kültürel Mirasın Gizemi

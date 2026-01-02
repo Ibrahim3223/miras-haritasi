@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Devrimleri ve Atatürk Anıtı, Kadıköy | Miras Haritası"
-date: 2025-12-25T16:08:31+03:00
+title: "Cumhuriyet Devrimleri ve Atatürk Anıtı, Kadıköy"
+date: "2025-12-25T16:08:31+03:00"
 slug: "cumhuriyet-devrimleri-ve-ataturk-aniti-kadikoy"
 description: "## Cumhuriyet Devrimleri ve Atatürk Anıtı, Kadıköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0365429,40.9934006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumhuriyet Devrimleri ve Atatürk Anıtı, Kadıköy

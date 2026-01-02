@@ -1,18 +1,17 @@
 ---
-title: "Sevdiğin Höyüğü | Miras Haritası"
-date: 2025-12-25T06:15:57+03:00
+title: "Sevdiğin Höyüğü"
+date: "2025-12-25T06:15:57+03:00"
 slug: "sevdigin-hoyugu"
 description: "## Sevdiğin Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırşehir"
+province: "Kırşehir"
+iller: '["Kırşehir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.0361061,39.1173019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sevdiğin Höyüğü

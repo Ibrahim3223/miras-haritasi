@@ -1,18 +1,17 @@
 ---
-title: "Gebe Kilise Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:38:28+03:00
+title: "Gebe Kilise Tümülüsü"
+date: "2025-12-25T07:38:28+03:00"
 slug: "gebe-kilise-tumulusu"
 description: "## Gebe Kilise Tümülüsü: Bodrum'un Gizli Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4467771,37.080557563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gebe Kilise Tümülüsü: Bodrum'un Gizli Anıtı

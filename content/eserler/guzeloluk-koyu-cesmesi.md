@@ -1,18 +1,17 @@
 ---
-title: "Güzeloluk Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:20+03:00
+title: "Güzeloluk Köyü Çeşmesi"
+date: "2025-12-25T10:15:20+03:00"
 slug: "guzeloluk-koyu-cesmesi"
 description: "## Güzeloluk Köyü Çeşmesi: Torul'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.1060829,40.5060921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzeloluk Köyü Çeşmesi: Torul'un Tarihi Bir Çeşmesi

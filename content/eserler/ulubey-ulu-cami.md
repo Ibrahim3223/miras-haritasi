@@ -1,18 +1,17 @@
 ---
-title: "Ulubey Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:05:37+03:00
+title: "Ulubey Ulu Cami"
+date: "2025-12-24T23:05:37+03:00"
 slug: "ulubey-ulu-cami"
 description: "## Ulubey Ulu Camii: Uşak'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2912617,38.4202118"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulubey Ulu Camii: Uşak'ın Gizli Hazinesi

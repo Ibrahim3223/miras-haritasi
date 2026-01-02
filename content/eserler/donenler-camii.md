@@ -1,18 +1,17 @@
 ---
-title: "Dönenler Camii | Miras Haritası"
-date: 2025-12-24T22:36:51+03:00
+title: "Dönenler Camii"
+date: "2025-12-24T22:36:51+03:00"
 slug: "donenler-camii"
 description: "## Dönenler Camii: Kütahya'nın Tarihî Bir Zengini..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kütahya"
+province: "Kütahya"
+iller: '["Kütahya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9767075,39.4171257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dönenler Camii: Kütahya'nın Tarihî Bir Zengini

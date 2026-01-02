@@ -1,18 +1,17 @@
 ---
-title: "Papazli Çiftliği | Miras Haritası"
-date: 2025-12-25T13:38:56+03:00
+title: "Papazli Çiftliği"
+date: "2025-12-25T13:38:56+03:00"
 slug: "papazli-ciftligi"
 description: "## Papazli Çiftliği: Silivri'nin Tarihi Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.087785892,41.062173939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Papazli Çiftliği: Silivri'nin Tarihi Anıtı

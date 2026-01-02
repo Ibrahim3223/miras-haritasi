@@ -1,18 +1,17 @@
 ---
-title: "Çatalhöyük | Miras Haritası"
-date: 2025-12-25T05:46:33+03:00
+title: "Çatalhöyük"
+date: "2025-12-25T05:46:33+03:00"
 slug: "catalhoyuk"
 description: "**Çatalhöyük: Tarihî Bir Mirasın Öyküsü**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CatalHoyukSouthArea.JPG/1200px-CatalHoyukSouthArea.JPG"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.828333333,37.6675"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Çatalhöyük: Tarihî Bir Mirasın Öyküsü**

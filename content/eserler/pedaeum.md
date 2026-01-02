@@ -1,18 +1,17 @@
 ---
-title: "Pedaeum | Miras Haritası"
-date: 2025-12-25T05:23:04+03:00
+title: "Pedaeum"
+date: "2025-12-25T05:23:04+03:00"
 slug: "pedaeum"
 description: "## Pedaeum: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "http://www.wikidata.org/.well-known/genid/1a5f05f171f7cf72d54478a63359c101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pedaeum: Tarihi ve Kültürel Mirasın Gizemi

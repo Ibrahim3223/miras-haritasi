@@ -1,18 +1,17 @@
 ---
-title: "Ağılkaya Höyüğü, Sivas | Miras Haritası"
-date: 2025-12-25T05:50:58+03:00
+title: "Ağılkaya Höyüğü, Sivas"
+date: "2025-12-25T05:50:58+03:00"
 slug: "agilkaya-hoyugu-sivas"
 description: "## Ağılkaya Höyüğü: Sivas'ın Gizli Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.2989502,39.6348495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağılkaya Höyüğü: Sivas'ın Gizli Mirası

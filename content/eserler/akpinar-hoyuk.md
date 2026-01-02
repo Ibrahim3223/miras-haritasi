@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Höyük | Miras Haritası"
-date: 2025-12-25T06:19:43+03:00
+title: "Akpınar Höyük"
+date: "2025-12-25T06:19:43+03:00"
 slug: "akpinar-hoyuk"
 description: "## Akpınar Höyük: Tarih ve Kültür Mirasının Kapısı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.6339086,39.2702423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akpınar Höyük: Tarih ve Kültür Mirasının Kapısı

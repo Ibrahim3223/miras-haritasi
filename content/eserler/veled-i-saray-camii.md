@@ -1,18 +1,17 @@
 ---
-title: "Veled-i Saray Camii | Miras Haritası"
-date: 2025-12-24T23:17:36+03:00
+title: "Veled-i Saray Camii"
+date: "2025-12-24T23:17:36+03:00"
 slug: "veled-i-saray-camii"
 description: "## Veled-i Saray Camii: Bursa'nın Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0586014,40.1882057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veled-i Saray Camii: Bursa'nın Tarihi ve Kültürel Bir Mirası

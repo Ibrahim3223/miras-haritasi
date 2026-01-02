@@ -1,18 +1,17 @@
 ---
-title: "Hacı Beşir Ağa Çeşmesi, Nişanca | Miras Haritası"
-date: 2025-12-25T11:54:37+03:00
+title: "Hacı Beşir Ağa Çeşmesi, Nişanca"
+date: "2025-12-25T11:54:37+03:00"
 slug: "haci-besir-aga-cesmesi-nisanca"
 description: "# Hacı Beşir Ağa Çeşmesi: Nişanca'da Bir Çağdaş Kentin Şık Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9326708,41.0411336"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Beşir Ağa Çeşmesi: Nişanca'da Bir Çağdaş Kentin Şık Çeşmesi

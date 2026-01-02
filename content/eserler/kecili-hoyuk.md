@@ -1,18 +1,17 @@
 ---
-title: "Keçili Höyük | Miras Haritası"
-date: 2025-12-25T07:01:42+03:00
+title: "Keçili Höyük"
+date: "2025-12-25T07:01:42+03:00"
 slug: "kecili-hoyuk"
 description: "**Keçili Höyük: Türk Tarihinin Gizli Çanak Çömleği**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Keçili Höyük: Türk Tarihinin Gizli Çanak Çömleği**

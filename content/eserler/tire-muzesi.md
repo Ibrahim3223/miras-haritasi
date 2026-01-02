@@ -1,18 +1,17 @@
 ---
-title: "Tire Müzesi | Miras Haritası"
-date: 2025-12-25T03:39:49+03:00
+title: "Tire Müzesi"
+date: "2025-12-25T03:39:49+03:00"
 slug: "tire-muzesi"
 description: "## Tire Müzesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.730233,38.084945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tire Müzesi: Tarih ve Kültür Mirası

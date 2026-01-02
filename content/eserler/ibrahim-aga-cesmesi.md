@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:08:29+03:00
+title: "İbrahim Ağa Çeşmesi"
+date: "2025-12-25T10:08:29+03:00"
 slug: "ibrahim-aga-cesmesi"
 description: "### İbrahim Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/İbrahim_Ağa_Fountain,_Kadıköy,_İstanbul_2024.jpg/1200px-İbrahim_Ağa_Fountain,_Kadıköy,_İstanbul_2024.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Koşuyolu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0295373,41.0011509"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İbrahim Ağa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Alara Kasrı | Miras Haritası"
-date: 2025-12-25T01:12:30+03:00
+title: "Alara Kasrı"
+date: "2025-12-25T01:12:30+03:00"
 slug: "alara-kasri"
 description: "## Alara Kasrı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tuerk41.jpg/1200px-Tuerk41.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "31.72944444,36.69861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alara Kasrı

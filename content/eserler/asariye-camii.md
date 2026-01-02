@@ -1,18 +1,17 @@
 ---
-title: "Asariye Camii | Miras Haritası"
-date: 2025-12-24T22:46:26+03:00
+title: "Asariye Camii"
+date: "2025-12-24T22:46:26+03:00"
 slug: "asariye-camii"
 description: "## Asariye Camii: Yıldız'ın Gizli Çehresini Keşfeden Bir Cami..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Yıldız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.012753,41.04405"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asariye Camii: Yıldız'ın Gizli Çehresini Keşfeden Bir Cami

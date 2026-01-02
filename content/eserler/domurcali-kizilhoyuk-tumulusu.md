@@ -1,18 +1,17 @@
 ---
-title: "Domurcalı Kızılhöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:13+03:00
+title: "Domurcalı Kızılhöyük Tümülüsü"
+date: "2025-12-25T08:04:13+03:00"
 slug: "domurcali-kizilhoyuk-tumulusu"
 description: "## Domurcalı Kızılhöyük Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7996616,41.824707"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Domurcalı Kızılhöyük Tümülüsü: Edirne'nin Gizli Mirası

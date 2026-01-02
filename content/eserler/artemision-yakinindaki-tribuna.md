@@ -1,18 +1,17 @@
 ---
-title: "Artemision yakınındaki Tribuna | Miras Haritası"
-date: 2025-12-25T08:20:00+03:00
+title: "Artemision yakınındaki Tribuna"
+date: "2025-12-25T08:20:00+03:00"
 slug: "artemision-yakinindaki-tribuna"
 description: "### Artemision Yakınındaki Tribuna: İzmir'in Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.36110174,37.94943498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Artemision Yakınındaki Tribuna: İzmir'in Gizli Mirası

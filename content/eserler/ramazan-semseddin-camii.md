@@ -1,18 +1,17 @@
 ---
-title: "Ramazan Şemseddin Camii | Miras Haritası"
-date: 2025-12-24T22:38:57+03:00
+title: "Ramazan Şemseddin Camii"
+date: "2025-12-24T22:38:57+03:00"
 slug: "ramazan-semseddin-camii"
 description: "# Ramazan Şemseddin Camii: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8639107,39.9381294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ramazan Şemseddin Camii: Ankara'nın Tarihi ve Kültürel Mirası

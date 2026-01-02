@@ -1,18 +1,17 @@
 ---
-title: "Büyük Cami (Hendek) | Miras Haritası"
-date: 2025-12-25T00:36:51+03:00
+title: "Büyük Cami (Hendek)"
+date: "2025-12-25T00:36:51+03:00"
 slug: "buyuk-cami-hendek"
 description: "## Büyük Cami (Hendek)..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Hendek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.745457274,40.796580379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Cami (Hendek)

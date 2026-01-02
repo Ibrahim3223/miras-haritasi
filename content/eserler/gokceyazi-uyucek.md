@@ -1,18 +1,17 @@
 ---
-title: "Gökçeyazı Üyücek | Miras Haritası"
-date: 2025-12-25T05:53:03+03:00
+title: "Gökçeyazı Üyücek"
+date: "2025-12-25T05:53:03+03:00"
 slug: "gokceyazi-uyucek"
 description: "## Gökçeyazı Üyücek: İvrindi'nin Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "İvrindi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.637867,39.63195"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökçeyazı Üyücek: İvrindi'nin Gizli Anıtı

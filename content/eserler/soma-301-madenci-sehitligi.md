@@ -1,18 +1,17 @@
 ---
-title: "Soma 301 Madenci Şehitliği | Miras Haritası"
-date: 2025-12-25T15:56:26+03:00
+title: "Soma 301 Madenci Şehitliği"
+date: "2025-12-25T15:56:26+03:00"
 slug: "soma-301-madenci-sehitligi"
 description: "### Soma 301 Madenci Şehitliği: Anımsanan Kahramanlık..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Soma"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.6439037,39.1771355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Soma 301 Madenci Şehitliği: Anımsanan Kahramanlık

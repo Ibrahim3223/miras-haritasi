@@ -1,18 +1,17 @@
 ---
-title: "Seyid Bilal Türbesi, Batman | Miras Haritası"
-date: 2025-12-25T14:46:50+03:00
+title: "Seyid Bilal Türbesi, Batman"
+date: "2025-12-25T14:46:50+03:00"
 slug: "seyid-bilal-turbesi-batman"
 description: "## Seyid Bilal Türbesi, Batman..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Gercüş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.5666199,37.6050797"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyid Bilal Türbesi, Batman

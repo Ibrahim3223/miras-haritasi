@@ -1,18 +1,17 @@
 ---
-title: "Boncuklu Tarla | Miras Haritası"
-date: 2025-12-25T08:23:52+03:00
+title: "Boncuklu Tarla"
+date: "2025-12-25T08:23:52+03:00"
 slug: "boncuklu-tarla"
 description: "## Boncuklu Tarla: Mardin'in Gizli Öyküsü..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Dargeçit"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.832361,37.529444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boncuklu Tarla: Mardin'in Gizli Öyküsü

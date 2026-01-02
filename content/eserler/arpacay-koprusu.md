@@ -1,18 +1,17 @@
 ---
-title: "Arpaçay Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:08+03:00
+title: "Arpaçay Köprüsü"
+date: "2025-12-25T02:27:08+03:00"
 slug: "arpacay-koprusu"
 description: "**Arpaçay Köprüsü: Foça'nın Tarihî Mirası**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.8231942,38.6604559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Arpaçay Köprüsü: Foça'nın Tarihî Mirası**

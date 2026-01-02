@@ -1,18 +1,17 @@
 ---
-title: "Hattuşa Aslanlı Kapı | Miras Haritası"
-date: 2025-12-25T13:41:25+03:00
+title: "Hattuşa Aslanlı Kapı"
+date: "2025-12-25T13:41:25+03:00"
 slug: "hattusa-aslanli-kapi"
 description: "### Hattuşa Aslanlı Kapı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lion_Gate_in_Hattusa.jpg/1200px-Lion_Gate_in_Hattusa.jpg"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Boğazkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.610055555,40.010138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hattuşa Aslanlı Kapı

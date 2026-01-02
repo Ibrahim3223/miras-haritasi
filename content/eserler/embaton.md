@@ -1,18 +1,17 @@
 ---
-title: "Embaton | Miras Haritası"
-date: 2025-12-25T04:54:54+03:00
+title: "Embaton"
+date: "2025-12-25T04:54:54+03:00"
 slug: "embaton"
 description: "## Embaton: Antik Bir Şehirin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.376435,38.253756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Embaton: Antik Bir Şehirin İzleri

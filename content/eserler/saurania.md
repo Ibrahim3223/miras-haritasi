@@ -1,18 +1,17 @@
 ---
-title: "Saurania | Miras Haritası"
-date: 2025-12-25T05:15:43+03:00
+title: "Saurania"
+date: "2025-12-25T05:15:43+03:00"
 slug: "saurania"
 description: "## Saurania: Geçmişi ve Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.59982,40.697917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saurania: Geçmişi ve Mirası

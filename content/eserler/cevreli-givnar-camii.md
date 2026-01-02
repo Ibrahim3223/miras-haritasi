@@ -1,18 +1,17 @@
 ---
-title: "Çevreli Givnar Camii | Miras Haritası"
-date: 2025-12-25T01:03:22+03:00
+title: "Çevreli Givnar Camii"
+date: "2025-12-25T01:03:22+03:00"
 slug: "cevreli-givnar-camii"
 description: "**Çevreli Givnar Camii**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.46349,40.766723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çevreli Givnar Camii**

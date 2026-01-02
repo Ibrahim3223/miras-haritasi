@@ -1,18 +1,17 @@
 ---
-title: "Daphne Mainomene | Miras Haritası"
-date: 2025-12-25T04:43:50+03:00
+title: "Daphne Mainomene"
+date: "2025-12-25T04:43:50+03:00"
 slug: "daphne-mainomene"
 description: "## Daphne Mainomene: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.078667,41.153315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daphne Mainomene: Tarihi ve Kültürel Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "Tezveren Dede Kabri, Rumelihisarı | Miras Haritası"
-date: 2025-12-25T13:33:16+03:00
+title: "Tezveren Dede Kabri, Rumelihisarı"
+date: "2025-12-25T13:33:16+03:00"
 slug: "tezveren-dede-kabri-rumelihisari"
 description: "## Tezveren Dede Kabri: Rumelihisarı'nın Tarihsel Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.055336,41.0882111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tezveren Dede Kabri: Rumelihisarı'nın Tarihsel Özellikleri

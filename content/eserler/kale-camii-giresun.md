@@ -1,18 +1,17 @@
 ---
-title: "Kale Camii, Giresun | Miras Haritası"
-date: 2025-12-25T01:11:19+03:00
+title: "Kale Camii, Giresun"
+date: "2025-12-25T01:11:19+03:00"
 slug: "kale-camii-giresun"
 description: "### Kale Camii, Giresun..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.386169,40.919603"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kale Camii, Giresun

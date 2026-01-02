@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Surp Asdvadzadzin Kilisesi | Miras Haritası"
-date: 2025-12-25T08:48:55+03:00
+title: "Yeniköy Surp Asdvadzadzin Kilisesi"
+date: "2025-12-25T08:48:55+03:00"
 slug: "yenikoy-surp-asdvadzadzin-kilisesi"
 description: "## Yeniköy Surp Asdvadzadzin Kilisesi: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.062207,41.117167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeniköy Surp Asdvadzadzin Kilisesi: Tarihî ve Kültürel Bir Miras

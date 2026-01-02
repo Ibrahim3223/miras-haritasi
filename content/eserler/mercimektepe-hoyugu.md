@@ -1,18 +1,17 @@
 ---
-title: "Mercimektepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:01:03+03:00
+title: "Mercimektepe Höyüğü"
+date: "2025-12-25T07:01:03+03:00"
 slug: "mercimektepe-hoyugu"
 description: "## Mercimektepe Höyüğü: Yozgat'ın Gizli Tarihçesi..."
 featured_image: ""
-province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: "Ankara Vilayeti"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8255116,39.8267862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mercimektepe Höyüğü: Yozgat'ın Gizli Tarihçesi

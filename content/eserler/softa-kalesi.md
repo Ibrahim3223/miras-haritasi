@@ -1,18 +1,17 @@
 ---
-title: "Softa Kalesi | Miras Haritası"
-date: 2025-12-25T01:15:45+03:00
+title: "Softa Kalesi"
+date: "2025-12-25T01:15:45+03:00"
 slug: "softa-kalesi"
 description: "## Softa Kalesi: Mersin'in Eski Zorunlu Sığınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Softa_Castle_1.jpg/1200px-Softa_Castle_1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.01722222,36.10444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Softa Kalesi: Mersin'in Eski Zorunlu Sığınağı

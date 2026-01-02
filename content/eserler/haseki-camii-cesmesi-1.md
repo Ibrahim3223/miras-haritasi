@@ -1,18 +1,17 @@
 ---
-title: "Haseki Camii Çeşmesi 1 | Miras Haritası"
-date: 2025-12-25T10:25:21+03:00
+title: "Haseki Camii Çeşmesi 1"
+date: "2025-12-25T10:25:21+03:00"
 slug: "haseki-camii-cesmesi-1"
 description: "# Haseki Camii Çeşmesi 1..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8587074,39.9403496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Haseki Camii Çeşmesi 1

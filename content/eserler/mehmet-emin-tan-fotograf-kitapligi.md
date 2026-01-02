@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Emin Tan Fotoğraf Kitaplığı | Miras Haritası"
-date: 2025-12-25T17:51:21+03:00
+title: "Mehmet Emin Tan Fotoğraf Kitaplığı"
+date: "2025-12-25T17:51:21+03:00"
 slug: "mehmet-emin-tan-fotograf-kitapligi"
 description: "## Mehmet Emin Tan Fotoğraf Kitaplığı..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: ["Marmara Bölgesi"]
+iller: '["Marmara Bölgesi"]'
 district: "Karesi"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.879216738,39.647607201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Emin Tan Fotoğraf Kitaplığı

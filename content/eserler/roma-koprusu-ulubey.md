@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Ulubey | Miras Haritası"
-date: 2025-12-25T02:56:08+03:00
+title: "Roma Köprüsü, Ulubey"
+date: "2025-12-25T02:56:08+03:00"
 slug: "roma-koprusu-ulubey"
 description: "## Roma Köprüsü, Ulubey..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.326624,38.365242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Ulubey

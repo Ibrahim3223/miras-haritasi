@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Yavuzeli İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:43+03:00
+title: "Gaziantep Yavuzeli İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:50:43+03:00"
 slug: "gaziantep-yavuzeli-ilce-halk-kutuphanesi"
 description: "### Gaziantep Yavuzeli İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Yavuzeli"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gaziantep Yavuzeli İlçe Halk Kütüphanesi

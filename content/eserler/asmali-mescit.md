@@ -1,18 +1,17 @@
 ---
-title: "Asmalı Mescit | Miras Haritası"
-date: 2025-12-24T22:47:18+03:00
+title: "Asmalı Mescit"
+date: "2025-12-24T22:47:18+03:00"
 slug: "asmali-mescit"
 description: "## Asmalı Mescit: İstanbul'un Tarihi ve Eğlence Merkezi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9731503,41.0070419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asmalı Mescit: İstanbul'un Tarihi ve Eğlence Merkezi

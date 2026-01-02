@@ -1,18 +1,17 @@
 ---
-title: "Surp Harutyun Kilisesi (Yerkan) | Miras Haritası"
-date: 2025-12-25T09:07:14+03:00
+title: "Surp Harutyun Kilisesi (Yerkan)"
+date: "2025-12-25T09:07:14+03:00"
 slug: "surp-harutyun-kilisesi-yerkan"
 description: "### Surp Harutyun Kilisesi (Yerkan)..."
 featured_image: ""
 province: "Hozat"
-iller: ["Hozat"]
+iller: '["Hozat"]'
 district: "Geçimli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.2674835,39.0307584"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Harutyun Kilisesi (Yerkan)

@@ -1,18 +1,17 @@
 ---
-title: "Afara Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:21:27+03:00
+title: "Afara Çeşmesi"
+date: "2025-12-25T12:21:27+03:00"
 slug: "afara-cesmesi"
 description: "## Afara Çeşmesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.6796,36.3443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Afara Çeşmesi

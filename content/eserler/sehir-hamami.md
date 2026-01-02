@@ -1,18 +1,17 @@
 ---
-title: "Şehir Hamamı | Miras Haritası"
-date: 2025-12-25T16:30:02+03:00
+title: "Şehir Hamamı"
+date: "2025-12-25T16:30:02+03:00"
 slug: "sehir-hamami"
 description: "## Şehir Hamamı: Kırşehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.1541908,39.1459962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehir Hamamı: Kırşehir'in Tarihi ve Kültürel Mirası

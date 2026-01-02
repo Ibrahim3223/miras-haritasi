@@ -1,18 +1,17 @@
 ---
-title: "Süt Tekkesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:52+03:00
+title: "Süt Tekkesi Çeşmesi"
+date: "2025-12-25T11:35:52+03:00"
 slug: "sut-tekkesi-cesmesi"
 description: "## Süt Tekkesi Çeşmesi: Konya'da Bir Çeşmenin Öyküsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4912605,37.8757019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süt Tekkesi Çeşmesi: Konya'da Bir Çeşmenin Öyküsü

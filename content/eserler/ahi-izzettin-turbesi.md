@@ -1,18 +1,17 @@
 ---
-title: "Ahi İzzettin Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:31+03:00
+title: "Ahi İzzettin Türbesi"
+date: "2025-12-25T14:44:31+03:00"
 slug: "ahi-izzettin-turbesi"
 description: "## Ahi İzzettin Türbesi: Kütahya'nın Zümrüt Mülkünün Gizemi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9742813,39.4199677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi İzzettin Türbesi: Kütahya'nın Zümrüt Mülkünün Gizemi

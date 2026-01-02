@@ -1,18 +1,17 @@
 ---
-title: "Yakup Kethüda Çeşmesi, Karagümrük | Miras Haritası"
-date: 2025-12-25T10:37:20+03:00
+title: "Yakup Kethüda Çeşmesi, Karagümrük"
+date: "2025-12-25T10:37:20+03:00"
 slug: "yakup-kethuda-cesmesi-karagumruk"
 description: "### Yakup Kethüda Çeşmesi, Karagümrük..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yakup_Kethüda_Çeşmesi,_Karagümrük_03.jpg/1200px-Yakup_Kethüda_Çeşmesi,_Karagümrük_03.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Karagümrük"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9360511,41.024859521"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yakup Kethüda Çeşmesi, Karagümrük

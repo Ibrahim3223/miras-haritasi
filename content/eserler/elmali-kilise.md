@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Kilise | Miras Haritası"
-date: 2025-12-25T08:42:21+03:00
+title: "Elmalı Kilise"
+date: "2025-12-25T08:42:21+03:00"
 slug: "elmali-kilise"
 description: "# Elmalı Kilise: Göreme'nin Gizemli Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Elmali_-_Fresco_Mittelschiff.jpg/1200px-Elmali_-_Fresco_Mittelschiff.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.8452208,38.6391928"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Elmalı Kilise: Göreme'nin Gizemli Kilisesi

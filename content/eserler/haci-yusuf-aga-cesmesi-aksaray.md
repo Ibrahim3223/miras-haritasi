@@ -1,18 +1,17 @@
 ---
-title: "Hacı Yusuf Ağa Çeşmesi, Aksaray | Miras Haritası"
-date: 2025-12-25T12:11:09+03:00
+title: "Hacı Yusuf Ağa Çeşmesi, Aksaray"
+date: "2025-12-25T12:11:09+03:00"
 slug: "haci-yusuf-aga-cesmesi-aksaray"
 description: "## Hacı Yusuf Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9523125,41.0104752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Yusuf Ağa Çeşmesi

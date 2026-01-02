@@ -1,18 +1,17 @@
 ---
-title: "Priene Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:17:21+03:00
+title: "Priene Antik Tiyatrosu"
+date: "2025-12-25T08:17:21+03:00"
 slug: "priene-antik-tiyatrosu"
 description: "### Priene Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PrieneTheatreMay2007.jpg/1200px-PrieneTheatreMay2007.jpg"
 province: "Söke İlçesi"
-iller: ["Söke İlçesi"]
+iller: '["Söke İlçesi"]'
 district: "Güllübahçe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.29785,37.6599"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Priene Antik Tiyatrosu

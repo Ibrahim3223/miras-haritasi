@@ -1,18 +1,17 @@
 ---
-title: "Van Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:04:06+03:00
+title: "Van Ulu Camii"
+date: "2025-12-24T22:04:06+03:00"
 slug: "van-ulu-camii"
 description: "## Van Ulu Camii..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Van"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.33894447,38.500854411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Van Ulu Camii

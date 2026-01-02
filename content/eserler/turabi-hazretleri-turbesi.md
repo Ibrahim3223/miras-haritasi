@@ -1,18 +1,17 @@
 ---
-title: "Turabi Hazretleri Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:29+03:00
+title: "Turabi Hazretleri Türbesi"
+date: "2025-12-25T15:04:29+03:00"
 slug: "turabi-hazretleri-turbesi"
 description: "## Turabi Hazretleri Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.121006,40.8125343"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turabi Hazretleri Türbesi

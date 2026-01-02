@@ -1,18 +1,17 @@
 ---
-title: "Derviş Ağa Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:16+03:00
+title: "Derviş Ağa Türbesi"
+date: "2025-12-25T14:56:16+03:00"
 slug: "dervis-aga-turbesi"
 description: "## Derviş Ağa Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2789192,39.9102135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derviş Ağa Türbesi

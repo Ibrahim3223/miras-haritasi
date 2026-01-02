@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Biga | Miras Haritası"
-date: 2025-12-25T02:59:06+03:00
+title: "Roma Köprüsü, Biga"
+date: "2025-12-25T02:59:06+03:00"
 slug: "roma-koprusu-biga"
 description: "## Roma Köprüsü, Biga..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.309811,40.372864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Biga

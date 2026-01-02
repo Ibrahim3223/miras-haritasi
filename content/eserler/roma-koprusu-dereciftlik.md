@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Dereçiftlik | Miras Haritası"
-date: 2025-12-25T02:54:51+03:00
+title: "Roma Köprüsü, Dereçiftlik"
+date: "2025-12-25T02:54:51+03:00"
 slug: "roma-koprusu-dereciftlik"
 description: "## Roma Köprüsü, Dereçiftlik..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.3532658,37.8057594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Dereçiftlik

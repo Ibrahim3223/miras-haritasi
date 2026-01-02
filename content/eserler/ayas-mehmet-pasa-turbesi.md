@@ -1,18 +1,17 @@
 ---
-title: "Ayas Mehmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T13:34:47+03:00
+title: "Ayas Mehmet Paşa Türbesi"
+date: "2025-12-25T13:34:47+03:00"
 slug: "ayas-mehmet-pasa-turbesi"
 description: "### Ayas Mehmet Paşa Türbesi: Eyüpsultan'ın Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.933656,41.048311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayas Mehmet Paşa Türbesi: Eyüpsultan'ın Gizli Anıtı

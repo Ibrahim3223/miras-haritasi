@@ -1,18 +1,17 @@
 ---
-title: "Ömer Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:55+03:00
+title: "Ömer Paşa Medresesi"
+date: "2025-12-25T17:36:55+03:00"
 slug: "omer-pasa-medresesi"
 description: "## Ömer Paşa Medresesi: Antalya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.9138966,36.7432632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömer Paşa Medresesi: Antalya'nın Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Seydintepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:34:53+03:00
+title: "Seydintepe Tümülüsü"
+date: "2025-12-25T07:34:53+03:00"
 slug: "seydintepe-tumulusu"
 description: "### Seydintepe Tümülüsü: Kırıkkale'nin Gizli Güzelliği..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Balışeyh"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8294794,40.0955128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seydintepe Tümülüsü: Kırıkkale'nin Gizli Güzelliği

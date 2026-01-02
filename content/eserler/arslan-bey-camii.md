@@ -1,18 +1,17 @@
 ---
-title: "Arslan Bey Camii | Miras Haritası"
-date: 2025-12-24T22:14:34+03:00
+title: "Arslan Bey Camii"
+date: "2025-12-24T22:14:34+03:00"
 slug: "arslan-bey-camii"
 description: "## Arslan Bey Camii: Kütahya'nın Tarihi Bir Ölümsüz..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9802723,39.4230347"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arslan Bey Camii: Kütahya'nın Tarihi Bir Ölümsüz

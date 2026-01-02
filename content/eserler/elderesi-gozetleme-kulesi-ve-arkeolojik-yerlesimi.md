@@ -1,18 +1,17 @@
 ---
-title: "Elderesi Gözetleme Kulesi ve Arkeolojik Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:10:53+03:00
+title: "Elderesi Gözetleme Kulesi ve Arkeolojik Yerleşimi"
+date: "2025-12-25T06:10:53+03:00"
 slug: "elderesi-gozetleme-kulesi-ve-arkeolojik-yerlesimi"
 description: "## Elderesi Gözetleme Kulesi ve Arkeolojik Yerleşimi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.1103992,37.7001991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elderesi Gözetleme Kulesi ve Arkeolojik Yerleşimi

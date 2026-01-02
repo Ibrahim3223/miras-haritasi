@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Mustafa Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:57+03:00
+title: "Şehzade Mustafa Türbesi"
+date: "2025-12-25T15:04:57+03:00"
 slug: "sehzade-mustafa-turbesi"
 description: "## Şehzade Mustafa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Şehzade_Mustafa_Türbesi.jpg/1200px-Şehzade_Mustafa_Türbesi.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0458145,40.1903648"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehzade Mustafa Türbesi

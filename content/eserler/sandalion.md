@@ -1,18 +1,17 @@
 ---
-title: "Sandalion | Miras Haritası"
-date: 2025-12-25T05:10:33+03:00
+title: "Sandalion"
+date: "2025-12-25T05:10:33+03:00"
 slug: "sandalion"
 description: "### Sandalion: Isparta'nın Eski Çağ Tarihçesi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.75718,37.65214"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sandalion: Isparta'nın Eski Çağ Tarihçesi

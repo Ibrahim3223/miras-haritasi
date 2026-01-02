@@ -1,18 +1,17 @@
 ---
-title: "Ataköy B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:56:37+03:00
+title: "Ataköy B Tümülüsü"
+date: "2025-12-25T07:56:37+03:00"
 slug: "atakoy-b-tumulusu"
 description: "## Ataköy B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4485512,41.5912704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ataköy B Tümülüsü

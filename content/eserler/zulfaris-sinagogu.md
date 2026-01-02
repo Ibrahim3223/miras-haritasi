@@ -1,18 +1,17 @@
 ---
-title: "Zülfaris Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:32+03:00
+title: "Zülfaris Sinagogu"
+date: "2025-12-25T16:12:32+03:00"
 slug: "zulfaris-sinagogu"
 description: "## Zülfaris Sinagogu: Beyoğlu'ndaki Tarihi Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Zulfaris_synagogue_jewish_museum_turkey_ehal.jpg/1200px-Zulfaris_synagogue_jewish_museum_turkey_ehal.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Arap Cami"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.974638888,41.023416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zülfaris Sinagogu: Beyoğlu'ndaki Tarihi Bir Miras

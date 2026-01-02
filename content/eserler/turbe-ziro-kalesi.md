@@ -1,18 +1,17 @@
 ---
-title: "Türbe Ziro Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:53+03:00
+title: "Türbe Ziro Kalesi"
+date: "2025-12-25T01:23:53+03:00"
 slug: "turbe-ziro-kalesi"
 description: "## Türbe Ziro Kalesi..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Bulanık"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.1245575,39.0723114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türbe Ziro Kalesi

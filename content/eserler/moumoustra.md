@@ -1,18 +1,17 @@
 ---
-title: "Moumoustra | Miras Haritası"
-date: 2025-12-25T05:13:18+03:00
+title: "Moumoustra"
+date: "2025-12-25T05:13:18+03:00"
 slug: "moumoustra"
 description: "### Moumoustra Arkeolojik Sit..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Kadirli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.957475,37.215011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Moumoustra Arkeolojik Sit

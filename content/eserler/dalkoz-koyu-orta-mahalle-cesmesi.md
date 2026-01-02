@@ -1,18 +1,17 @@
 ---
-title: "Dalkoz Köyü Orta Mahalle Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:31:01+03:00
+title: "Dalkoz Köyü Orta Mahalle Çeşmesi"
+date: "2025-12-25T12:31:01+03:00"
 slug: "dalkoz-koyu-orta-mahalle-cesmesi"
 description: "# Dalkoz Köyü Orta Mahalle Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Bayramören"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.234722,40.951667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dalkoz Köyü Orta Mahalle Çeşmesi

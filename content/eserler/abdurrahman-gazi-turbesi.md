@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahman Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:29+03:00
+title: "Abdurrahman Gazi Türbesi"
+date: "2025-12-25T15:06:29+03:00"
 slug: "abdurrahman-gazi-turbesi"
 description: "### Abdurrahman Gazi Türbesi: Palandöken'in Özlü Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Palandöken"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.312611111,39.878194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdurrahman Gazi Türbesi: Palandöken'in Özlü Mirası

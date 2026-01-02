@@ -1,18 +1,17 @@
 ---
-title: "Ebeciler Höyük | Miras Haritası"
-date: 2025-12-25T06:03:45+03:00
+title: "Ebeciler Höyük"
+date: "2025-12-25T06:03:45+03:00"
 slug: "ebeciler-hoyuk"
 description: "### Ebeciler Höyük: Denizli'nin Tarihi Yıkıntısı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.8838997,37.5391006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ebeciler Höyük: Denizli'nin Tarihi Yıkıntısı

@@ -1,18 +1,17 @@
 ---
-title: "Alancık Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:34+03:00
+title: "Alancık Köyü Köprüsü"
+date: "2025-12-25T02:37:34+03:00"
 slug: "alancik-koyu-koprusu"
 description: "## Alancık Köyü Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Dereli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.403439,40.651717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alancık Köyü Köprüsü

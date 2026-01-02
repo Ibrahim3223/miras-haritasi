@@ -1,18 +1,17 @@
 ---
-title: "Kürkçü Camii | Miras Haritası"
-date: 2025-12-24T21:39:15+03:00
+title: "Kürkçü Camii"
+date: "2025-12-24T21:39:15+03:00"
 slug: "kurkcu-camii"
 description: "## Kürkçü Camii: Topkapı'da Gizli Bir Çanak..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Topkapı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kürkçü Camii: Topkapı'da Gizli Bir Çanak

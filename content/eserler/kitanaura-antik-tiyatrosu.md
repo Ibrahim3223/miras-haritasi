@@ -1,18 +1,17 @@
 ---
-title: "Kitanaura Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:23:30+03:00
+title: "Kitanaura Antik Tiyatrosu"
+date: "2025-12-25T08:23:30+03:00"
 slug: "kitanaura-antik-tiyatrosu"
 description: "## Kitanaura Antik Tiyatrosu: Antalya'nın Gizli Cezvesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.36417,36.646139"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kitanaura Antik Tiyatrosu: Antalya'nın Gizli Cezvesi

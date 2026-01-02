@@ -1,18 +1,17 @@
 ---
-title: "Emin Alemdar Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:45+03:00
+title: "Emin Alemdar Sokak Çeşmesi"
+date: "2025-12-25T10:23:45+03:00"
 slug: "emin-alemdar-sokak-cesmesi"
 description: "## Emin Alemdar Sokak Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.724102,41.0069695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emin Alemdar Sokak Çeşmesi

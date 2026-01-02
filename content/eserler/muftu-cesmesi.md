@@ -1,18 +1,17 @@
 ---
-title: "Müftü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:35+03:00
+title: "Müftü Çeşmesi"
+date: "2025-12-25T10:48:35+03:00"
 slug: "muftu-cesmesi"
 description: "## Müftü Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4745865,38.7192116"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müftü Çeşmesi

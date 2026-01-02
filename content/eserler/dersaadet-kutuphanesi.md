@@ -1,18 +1,17 @@
 ---
-title: "Dersaadet Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:56:33+03:00
+title: "Dersaadet Kütüphanesi"
+date: "2025-12-25T17:56:33+03:00"
 slug: "dersaadet-kutuphanesi"
 description: "## Dersaadet Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Liman_Han_in_Sirkeci_district.jpg/1200px-Liman_Han_in_Sirkeci_district.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eminönü"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.9737546,41.016329"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dersaadet Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Efendi Çeşmesi, Rumelihisarı | Miras Haritası"
-date: 2025-12-25T11:56:02+03:00
+title: "İbrahim Efendi Çeşmesi, Rumelihisarı"
+date: "2025-12-25T11:56:02+03:00"
 slug: "ibrahim-efendi-cesmesi-rumelihisari"
 description: "### İbrahim Efendi Çeşmesi, Rumelihisarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Istanbul_old_spring.jpg/1200px-Istanbul_old_spring.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0556087,41.0886604"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İbrahim Efendi Çeşmesi, Rumelihisarı

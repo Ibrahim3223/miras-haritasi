@@ -1,18 +1,17 @@
 ---
-title: "Hacı Beşir Ağa Sütun Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:14+03:00
+title: "Hacı Beşir Ağa Sütun Çeşmesi"
+date: "2025-12-25T13:01:14+03:00"
 slug: "haci-besir-aga-sutun-cesmesi"
 description: "## Hacı Beşir Ağa Sütun Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hacı_Beşir_Ağa_Sütun_Çeşmesi.jpg/1200px-Hacı_Beşir_Ağa_Sütun_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9285793,41.0036354"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Beşir Ağa Sütun Çeşmesi

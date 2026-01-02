@@ -1,18 +1,17 @@
 ---
-title: "Bozcaada Kalesi | Miras Haritası"
-date: 2025-12-25T01:12:43+03:00
+title: "Bozcaada Kalesi"
+date: "2025-12-25T01:12:43+03:00"
 slug: "bozcaada-kalesi"
 description: "### Bozcaada Kalesi: Geçmişin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bozcaada.jpg/1200px-Bozcaada.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.06666667,39.83333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bozcaada Kalesi: Geçmişin İzleri

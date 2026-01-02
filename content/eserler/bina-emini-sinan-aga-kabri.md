@@ -1,18 +1,17 @@
 ---
-title: "Bina Emini Sinan Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:27:25+03:00
+title: "Bina Emini Sinan Ağa Kabri"
+date: "2025-12-25T13:27:25+03:00"
 slug: "bina-emini-sinan-aga-kabri"
 description: "## Bina Emini Sinan Ağa Kabri: Fatih'ten Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9542427,41.0226326"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bina Emini Sinan Ağa Kabri: Fatih'ten Bir Anıt

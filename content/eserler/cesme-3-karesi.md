@@ -1,18 +1,17 @@
 ---
-title: "Çeşme-3, Karesi | Miras Haritası"
-date: 2025-12-25T12:31:26+03:00
+title: "Çeşme-3, Karesi"
+date: "2025-12-25T12:31:26+03:00"
 slug: "cesme-3-karesi"
 description: "### Çeşme-3, Karesi: Balıkesir'in Tarihi ve Kültürel Mirasının Gizli Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.879291772,39.649362812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme-3, Karesi: Balıkesir'in Tarihi ve Kültürel Mirasının Gizli Çeşmesi

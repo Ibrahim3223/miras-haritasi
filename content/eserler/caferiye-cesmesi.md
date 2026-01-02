@@ -1,18 +1,17 @@
 ---
-title: "Caferiye Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:04+03:00
+title: "Caferiye Çeşmesi"
+date: "2025-12-25T11:42:04+03:00"
 slug: "caferiye-cesmesi"
 description: "## Caferiye Çeşmesi: Yakutiye'nin Büyüleyici Şarkısı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2754288,39.9065323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Caferiye Çeşmesi: Yakutiye'nin Büyüleyici Şarkısı

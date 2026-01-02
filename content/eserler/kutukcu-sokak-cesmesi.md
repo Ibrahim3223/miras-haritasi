@@ -1,18 +1,17 @@
 ---
-title: "Kütükçü Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:34:50+03:00
+title: "Kütükçü Sokak Çeşmesi"
+date: "2025-12-25T11:34:50+03:00"
 slug: "kutukcu-sokak-cesmesi"
 description: "## Kütükçü Sokak Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kütükçü_Sokak_Çeşmesi.jpg/1200px-Kütükçü_Sokak_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6894531,41.2450371"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kütükçü Sokak Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

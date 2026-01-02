@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2, Hamzabali | Miras Haritası"
-date: 2025-12-25T12:46:26+03:00
+title: "Çeşme 2, Hamzabali"
+date: "2025-12-25T12:46:26+03:00"
 slug: "cesme-2-hamzabali"
 description: "## Çeşme 2, Hamzabali: Aydın'ın Yenipazar'ındaki Bir Önemli Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.1331997,37.8060989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 2, Hamzabali: Aydın'ın Yenipazar'ındaki Bir Önemli Çeşme

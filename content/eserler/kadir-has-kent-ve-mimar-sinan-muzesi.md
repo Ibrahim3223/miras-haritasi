@@ -1,18 +1,17 @@
 ---
-title: "Kadir Has Kent ve Mimar Sinan Müzesi | Miras Haritası"
-date: 2025-12-25T03:59:04+03:00
+title: "Kadir Has Kent ve Mimar Sinan Müzesi"
+date: "2025-12-25T03:59:04+03:00"
 slug: "kadir-has-kent-ve-mimar-sinan-muzesi"
 description: "## Kadir Has Kent ve Mimar Sinan Müzesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.491346,38.745976"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadir Has Kent ve Mimar Sinan Müzesi

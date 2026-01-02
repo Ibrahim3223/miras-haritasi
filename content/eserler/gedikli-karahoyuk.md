@@ -1,18 +1,17 @@
 ---
-title: "Gedikli Karahöyük | Miras Haritası"
-date: 2025-12-25T07:09:13+03:00
+title: "Gedikli Karahöyük"
+date: "2025-12-25T07:09:13+03:00"
 slug: "gedikli-karahoyuk"
 description: "## Gedikli Karahöyük: Gaziantep'te Bir Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.832,37.2199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gedikli Karahöyük: Gaziantep'te Bir Arkeolojik Sit

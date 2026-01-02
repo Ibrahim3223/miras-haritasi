@@ -1,18 +1,17 @@
 ---
-title: "Kuba Camii (İzmir) | Miras Haritası"
-date: 2025-12-25T00:48:22+03:00
+title: "Kuba Camii (İzmir)"
+date: "2025-12-25T00:48:22+03:00"
 slug: "kuba-camii-izmir"
 description: "## Kuba Camii: Tarihî Bir Mirasın İmzası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3695068,37.9477768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuba Camii: Tarihî Bir Mirasın İmzası

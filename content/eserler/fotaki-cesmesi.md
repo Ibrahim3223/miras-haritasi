@@ -1,18 +1,17 @@
 ---
-title: "Fotaki Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:14+03:00
+title: "Fotaki Çeşmesi"
+date: "2025-12-25T11:15:14+03:00"
 slug: "fotaki-cesmesi"
 description: "## Fotaki Çeşmesi: Çatalca'da Bir Klasik Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fotaki_Çeşmesi_IMG_1540.jpg/1200px-Fotaki_Çeşmesi_IMG_1540.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.458202,41.144685"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fotaki Çeşmesi: Çatalca'da Bir Klasik Çeşme

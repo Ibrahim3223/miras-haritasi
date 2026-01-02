@@ -1,18 +1,17 @@
 ---
-title: "Mutesellim Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:42+03:00
+title: "Mutesellim Sokak Çeşmesi"
+date: "2025-12-25T11:20:42+03:00"
 slug: "mutesellim-sokak-cesmesi"
 description: "## Mutesellim Sokak Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.932539,41.000733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mutesellim Sokak Çeşmesi

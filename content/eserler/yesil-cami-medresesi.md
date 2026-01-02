@@ -1,18 +1,17 @@
 ---
-title: "Yeşil Cami Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:50+03:00
+title: "Yeşil Cami Medresesi"
+date: "2025-12-25T17:32:50+03:00"
 slug: "yesil-cami-medresesi"
 description: "## Yeşil Cami Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Green_Mosque_medrese_DSCF1145.jpg/1200px-Green_Mosque_medrese_DSCF1145.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0734348,40.1814156"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yeşil Cami Medresesi

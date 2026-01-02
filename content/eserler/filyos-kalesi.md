@@ -1,18 +1,17 @@
 ---
-title: "Filyos Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:42+03:00
+title: "Filyos Kalesi"
+date: "2025-12-25T01:34:42+03:00"
 slug: "filyos-kalesi"
 description: "### Filyos Kalesi: Tarih, Mimarisi ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Çaycuma"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.030017,41.573406"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Filyos Kalesi: Tarih, Mimarisi ve Ziyaret Bilgileri

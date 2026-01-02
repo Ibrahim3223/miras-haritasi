@@ -1,18 +1,17 @@
 ---
-title: "Herakleia Cybistra | Miras Haritası"
-date: 2025-12-25T04:31:59+03:00
+title: "Herakleia Cybistra"
+date: "2025-12-25T04:31:59+03:00"
 slug: "herakleia-cybistra"
 description: "## Herakleia Cybistra: Konya'daki Antik Kent..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.051666666,37.505833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Herakleia Cybistra: Konya'daki Antik Kent

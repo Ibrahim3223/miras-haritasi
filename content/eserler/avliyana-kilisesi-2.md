@@ -1,18 +1,17 @@
 ---
-title: "Avliyana Kilisesi (2) | Miras Haritası"
-date: 2025-12-25T09:12:12+03:00
+title: "Avliyana Kilisesi (2)"
+date: "2025-12-25T09:12:12+03:00"
 slug: "avliyana-kilisesi-2"
 description: "### Avliyana Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.1340675,40.4509048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Avliyana Kilisesi

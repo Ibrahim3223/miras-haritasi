@@ -1,18 +1,17 @@
 ---
-title: "Kasım Paşa Camii, Bozüyük | Miras Haritası"
-date: 2025-12-24T23:52:35+03:00
+title: "Kasım Paşa Camii, Bozüyük"
+date: "2025-12-24T23:52:35+03:00"
 slug: "kasim-pasa-camii-bozuyuk"
 description: "### Kasım Paşa Camii, Bozüyük..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0371494,39.9060402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kasım Paşa Camii, Bozüyük

@@ -1,18 +1,17 @@
 ---
-title: "Sabancı Kültür Merkezi | Miras Haritası"
-date: 2025-12-25T16:16:07+03:00
+title: "Sabancı Kültür Merkezi"
+date: "2025-12-25T16:16:07+03:00"
 slug: "sabanci-kultur-merkezi"
 description: "## Sabancı Kültür Merkezi: Antik Tiyatro'nun Yeniden Doğuşu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sabancı_Cultural_Center.png/1200px-Sabancı_Cultural_Center.png"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "35.33138889,36.99055556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sabancı Kültür Merkezi: Antik Tiyatro'nun Yeniden Doğuşu

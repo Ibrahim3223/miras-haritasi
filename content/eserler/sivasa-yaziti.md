@@ -1,18 +1,17 @@
 ---
-title: "Sivasa Yazıtı | Miras Haritası"
-date: 2025-12-25T13:42:27+03:00
+title: "Sivasa Yazıtı"
+date: "2025-12-25T13:42:27+03:00"
 slug: "sivasa-yaziti"
 description: "## Sivasa Yazıtı: Tarihi ve Kültürel Değerleri..."
 featured_image: ""
 province: "Gülşehir"
-iller: ["Gülşehir"]
+iller: '["Gülşehir"]'
 district: "Gökçetoprak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.29027778,38.64944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivasa Yazıtı: Tarihi ve Kültürel Değerleri

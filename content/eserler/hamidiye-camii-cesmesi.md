@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:29+03:00
+title: "Hamidiye Camii Çeşmesi"
+date: "2025-12-25T10:45:29+03:00"
 slug: "hamidiye-camii-cesmesi"
 description: "**Hamidiye Camii Çeşmesi**..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7611656,41.9786568"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hamidiye Camii Çeşmesi**

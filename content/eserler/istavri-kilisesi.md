@@ -1,18 +1,17 @@
 ---
-title: "İstavri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:45+03:00
+title: "İstavri Kilisesi"
+date: "2025-12-25T09:17:45+03:00"
 slug: "istavri-kilisesi"
 description: "## İstavri Kilisesi: Tarihî Bir Mirasın Güncel Hikayesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.514324,40.585065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstavri Kilisesi: Tarihî Bir Mirasın Güncel Hikayesi

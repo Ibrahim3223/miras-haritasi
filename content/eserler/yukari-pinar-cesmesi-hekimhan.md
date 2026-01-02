@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Pınar Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:23:26+03:00
+title: "Yukarı Pınar Çeşmesi, Hekimhan"
+date: "2025-12-25T12:23:26+03:00"
 slug: "yukari-pinar-cesmesi-hekimhan"
 description: "## Yukarı Pınar Çeşmesi: Hekimhan'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.934119069,38.817374868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Pınar Çeşmesi: Hekimhan'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ağaçköy Şehitliği I | Miras Haritası"
-date: 2025-12-25T14:07:51+03:00
+title: "Ağaçköy Şehitliği I"
+date: "2025-12-25T14:07:51+03:00"
 slug: "agackoy-sehitligi-i"
 description: "## Ağaçköy Şehitliği I: Dumlupınar'ın Kahramanlıklarına Tanıklık Eden Anıt..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Dumlupınar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9756432,38.9061508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağaçköy Şehitliği I: Dumlupınar'ın Kahramanlıklarına Tanıklık Eden Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Ömerbeyli Höyüğü | Miras Haritası"
-date: 2025-12-25T06:10:22+03:00
+title: "Ömerbeyli Höyüğü"
+date: "2025-12-25T06:10:22+03:00"
 slug: "omerbeyli-hoyugu"
 description: "## Ömerbeyli Höyüğü: Aydın'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6527004,37.8796997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömerbeyli Höyüğü: Aydın'ın Gizli Zirvesi

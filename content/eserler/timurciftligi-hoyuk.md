@@ -1,18 +1,17 @@
 ---
-title: "Timurçiftliği Höyük | Miras Haritası"
-date: 2025-12-25T06:15:16+03:00
+title: "Timurçiftliği Höyük"
+date: "2025-12-25T06:15:16+03:00"
 slug: "timurciftligi-hoyuk"
 description: "## Timurçiftliği Höyük..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.477871017,37.074175752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Timurçiftliği Höyük

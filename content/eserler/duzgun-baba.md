@@ -1,18 +1,17 @@
 ---
-title: "Düzgün Baba | Miras Haritası"
-date: 2025-12-25T15:05:30+03:00
+title: "Düzgün Baba"
+date: "2025-12-25T15:05:30+03:00"
 slug: "duzgun-baba"
 description: "## Düzgün Baba Anıt'ı..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Nazımiye (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.7911606,39.1242981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düzgün Baba Anıt'ı

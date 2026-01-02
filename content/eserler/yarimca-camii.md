@@ -1,18 +1,17 @@
 ---
-title: "Yarımca Camii | Miras Haritası"
-date: 2025-12-24T23:46:43+03:00
+title: "Yarımca Camii"
+date: "2025-12-24T23:46:43+03:00"
 slug: "yarimca-camii"
 description: "## Yarımca Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Asarcık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.3927994,41.0059013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarımca Camii

@@ -1,18 +1,17 @@
 ---
-title: "Gültepe Höyük | Miras Haritası"
-date: 2025-12-25T06:46:30+03:00
+title: "Gültepe Höyük"
+date: "2025-12-25T06:46:30+03:00"
 slug: "gultepe-hoyuk"
 description: "# Gültepe Höyük..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.47535,36.5497393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gültepe Höyük

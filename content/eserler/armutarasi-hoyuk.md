@@ -1,18 +1,17 @@
 ---
-title: "Armutarası Höyük | Miras Haritası"
-date: 2025-12-25T05:44:57+03:00
+title: "Armutarası Höyük"
+date: "2025-12-25T05:44:57+03:00"
 slug: "armutarasi-hoyuk"
 description: "## Armutarası Höyük: Manisa'nın Gizli Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.455283,38.577483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Armutarası Höyük: Manisa'nın Gizli Mirası

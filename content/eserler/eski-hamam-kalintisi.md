@@ -1,18 +1,17 @@
 ---
-title: "Eski Hamam Kalıntısı | Miras Haritası"
-date: 2025-12-25T16:53:37+03:00
+title: "Eski Hamam Kalıntısı"
+date: "2025-12-25T16:53:37+03:00"
 slug: "eski-hamam-kalintisi"
 description: "## Eski Hamam Kalıntısı: Şile'nin Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.6118259,41.1762695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Hamam Kalıntısı: Şile'nin Tarihî Mirası

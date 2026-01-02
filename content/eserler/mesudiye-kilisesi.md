@@ -1,18 +1,17 @@
 ---
-title: "Mesudiye Kilisesi | Miras Haritası"
-date: 2025-12-25T09:44:08+03:00
+title: "Mesudiye Kilisesi"
+date: "2025-12-25T09:44:08+03:00"
 slug: "mesudiye-kilisesi"
 description: "### Mesudiye Kilisesi: Türkiye'nin Kültürel Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Mesudiye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.771563,40.461464"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mesudiye Kilisesi: Türkiye'nin Kültürel Mirası

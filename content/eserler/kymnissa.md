@@ -1,18 +1,17 @@
 ---
-title: "Kymnissa | Miras Haritası"
-date: 2025-12-25T04:55:36+03:00
+title: "Kymnissa"
+date: "2025-12-25T04:55:36+03:00"
 slug: "kymnissa"
 description: "## Kymnissa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.273513,37.00864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kymnissa Arkeolojik Sit

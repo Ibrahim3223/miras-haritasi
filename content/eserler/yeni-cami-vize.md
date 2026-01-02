@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami (Vize) | Miras Haritası"
-date: 2025-12-25T00:34:13+03:00
+title: "Yeni Cami (Vize)"
+date: "2025-12-25T00:34:13+03:00"
 slug: "yeni-cami-vize"
 description: "### Yeni Camii: Vize'nin Değerli Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Yeni_Cami,_Vize_-_20250602120734.jpg/1200px-Yeni_Cami,_Vize_-_20250602120734.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.767551234,41.573283037"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yeni Camii: Vize'nin Değerli Tarihi Mirası

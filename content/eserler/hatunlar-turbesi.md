@@ -1,18 +1,17 @@
 ---
-title: "Hatunlar Türbesi | Miras Haritası"
-date: 2025-12-25T17:16:40+03:00
+title: "Hatunlar Türbesi"
+date: "2025-12-25T17:16:40+03:00"
 slug: "hatunlar-turbesi"
 description: "## Hatunlar Türbesi: Sinop'un Gizli Anıtı..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "35.1621056,42.025631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatunlar Türbesi: Sinop'un Gizli Anıtı

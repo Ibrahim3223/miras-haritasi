@@ -1,18 +1,17 @@
 ---
-title: "Alaeddin Camii | Miras Haritası"
-date: 2025-12-24T21:37:10+03:00
+title: "Alaeddin Camii"
+date: "2025-12-24T21:37:10+03:00"
 slug: "alaeddin-camii"
 description: "### Alaeddin Camii: Konya'nın Göbeğinde Yükselen Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alaedin_Camii.JPG/1200px-Alaedin_Camii.JPG"
-province: "Konya Vilayeti"
-iller: ["Konya Vilayeti"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: "Konya Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.492777777,37.873472222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Alaeddin Camii: Konya'nın Göbeğinde Yükselen Bir Miras

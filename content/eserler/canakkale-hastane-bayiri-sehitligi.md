@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Hastane Bayırı Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:46+03:00
+title: "Çanakkale Hastane Bayırı Şehitliği"
+date: "2025-12-25T16:03:46+03:00"
 slug: "canakkale-hastane-bayiri-sehitligi"
 description: "## Çanakkale Hastane Bayırı Şehitliği: Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.4181042,40.1608276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale Hastane Bayırı Şehitliği: Tarihi ve Kültürel Miras

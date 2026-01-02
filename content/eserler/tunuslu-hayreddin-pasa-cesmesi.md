@@ -1,18 +1,17 @@
 ---
-title: "Tunuslu Hayreddin Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:36+03:00
+title: "Tunuslu Hayreddin Paşa Çeşmesi"
+date: "2025-12-25T13:01:36+03:00"
 slug: "tunuslu-hayreddin-pasa-cesmesi"
 description: "### Tunuslu Hayreddin Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9362603,41.0456768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tunuslu Hayreddin Paşa Çeşmesi

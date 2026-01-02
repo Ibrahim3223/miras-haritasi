@@ -1,18 +1,17 @@
 ---
-title: "Isaura Palaea | Miras Haritası"
-date: 2025-12-25T04:32:27+03:00
+title: "Isaura Palaea"
+date: "2025-12-25T04:32:27+03:00"
 slug: "isaura-palaea"
 description: "### Isaura Palaea: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.24503,37.190126"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Isaura Palaea: Antik Çağın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Atça Çomaklı Ovası Şehitliği ve Şehitler Abidesi | Miras Haritası"
-date: 2025-12-25T15:58:39+03:00
+title: "Atça Çomaklı Ovası Şehitliği ve Şehitler Abidesi"
+date: "2025-12-25T15:58:39+03:00"
 slug: "atca-comakli-ovasi-sehitligi-ve-sehitler-abidesi"
 description: "## Atça Çomaklı Ovası Şehitliği ve Şehitler Abidesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.2344227,37.8710098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atça Çomaklı Ovası Şehitliği ve Şehitler Abidesi

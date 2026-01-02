@@ -1,18 +1,17 @@
 ---
-title: "Dikilitaş | Miras Haritası"
-date: 2025-12-25T14:08:03+03:00
+title: "Dikilitaş"
+date: "2025-12-25T14:08:03+03:00"
 slug: "dikilitas"
 description: "## Dikilitaş..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Iznik_Obelisk_01.jpg/1200px-Iznik_Obelisk_01.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.701904799,40.487581705"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dikilitaş

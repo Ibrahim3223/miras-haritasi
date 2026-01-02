@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü 1 | Miras Haritası"
-date: 2025-12-25T02:19:38+03:00
+title: "Roma Köprüsü 1"
+date: "2025-12-25T02:19:38+03:00"
 slug: "roma-koprusu-1"
 description: "## Roma Köprüsü 1: Ödemiş'in Kırmızı Taşları..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.9556274,38.2762642"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü 1: Ödemiş'in Kırmızı Taşları

@@ -1,18 +1,17 @@
 ---
-title: "Taşkıran Sarıgöl Camii | Miras Haritası"
-date: 2025-12-25T00:21:14+03:00
+title: "Taşkıran Sarıgöl Camii"
+date: "2025-12-25T00:21:14+03:00"
 slug: "taskiran-sarigol-camii"
 description: "### Taşkıran Sarıgöl Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4998999,40.9567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taşkıran Sarıgöl Camii: Artvin'in Gizli Cenneti

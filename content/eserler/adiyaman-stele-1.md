@@ -1,18 +1,17 @@
 ---
-title: "Adıyaman stele 1 | Miras Haritası"
-date: 2025-12-25T14:14:28+03:00
+title: "Adıyaman stele 1"
+date: "2025-12-25T14:14:28+03:00"
 slug: "adiyaman-stele-1"
 description: "## Adıyaman Stele 1: Tarihî Bir Anıtın Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Adıyaman1-01.jpg/1200px-Adıyaman1-01.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Adıyaman Stele 1: Tarihî Bir Anıtın Öyküsü

@@ -1,18 +1,17 @@
 ---
-title: "Karağanlık Höyük | Miras Haritası"
-date: 2025-12-25T06:18:50+03:00
+title: "Karağanlık Höyük"
+date: "2025-12-25T06:18:50+03:00"
 slug: "karaganlik-hoyuk"
 description: "## Karağanlık Höyük: Sivas'ın Gizli Tarihi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9347236,39.5463333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karağanlık Höyük: Sivas'ın Gizli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Alexandria on Issos | Miras Haritası"
-date: 2025-12-25T08:29:49+03:00
+title: "Alexandria on Issos"
+date: "2025-12-25T08:29:49+03:00"
 slug: "alexandria-on-issos"
 description: "### Alexandria on Issos..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "İskenderun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.166,36.589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alexandria on Issos

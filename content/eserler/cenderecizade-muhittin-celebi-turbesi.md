@@ -1,18 +1,17 @@
 ---
-title: "Cenderecizade Muhittin Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:55+03:00
+title: "Cenderecizade Muhittin Çelebi Türbesi"
+date: "2025-12-25T14:29:55+03:00"
 slug: "cenderecizade-muhittin-celebi-turbesi"
 description: "## Cenderecizade Muhittin Çelebi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cenderecizade_Muhittin_Çelebi_Türbesi.jpg/1200px-Cenderecizade_Muhittin_Çelebi_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.961178,41.015336"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cenderecizade Muhittin Çelebi Türbesi

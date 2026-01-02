@@ -1,18 +1,17 @@
 ---
-title: "Yivli Minare | Miras Haritası"
-date: 2025-12-24T21:36:07+03:00
+title: "Yivli Minare"
+date: "2025-12-24T21:36:07+03:00"
 slug: "yivli-minare"
 description: "## Yivli Minare: Antalya'nın Tarihsel ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Yivli_Minare_Mosque_04.jpg/1200px-Yivli_Minare_Mosque_04.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.704444444,36.886388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yivli Minare: Antalya'nın Tarihsel ve Kültürel Mirası

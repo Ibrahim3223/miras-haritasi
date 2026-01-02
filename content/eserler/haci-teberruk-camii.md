@@ -1,18 +1,17 @@
 ---
-title: "Hacı Teberrük Camii | Miras Haritası"
-date: 2025-12-25T00:31:40+03:00
+title: "Hacı Teberrük Camii"
+date: "2025-12-25T00:31:40+03:00"
 slug: "haci-teberruk-camii"
 description: "## Hacı Teberrük Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9577675,41.0175247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Teberrük Camii

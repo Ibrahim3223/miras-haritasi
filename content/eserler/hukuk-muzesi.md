@@ -1,18 +1,17 @@
 ---
-title: "Hukuk Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:35+03:00
+title: "Hukuk Müzesi"
+date: "2025-12-25T03:28:35+03:00"
 slug: "hukuk-muzesi"
 description: "## Hukuk Müzesi: Türkiye'nin Hukuki Mirasını Tanıtan Bir Ziyaretçi Çehresi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8201141,39.8984947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hukuk Müzesi: Türkiye'nin Hukuki Mirasını Tanıtan Bir Ziyaretçi Çehresi

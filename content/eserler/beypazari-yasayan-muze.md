@@ -1,18 +1,17 @@
 ---
-title: "Beypazarı Yaşayan Müze | Miras Haritası"
-date: 2025-12-25T03:23:52+03:00
+title: "Beypazarı Yaşayan Müze"
+date: "2025-12-25T03:23:52+03:00"
 slug: "beypazari-yasayan-muze"
 description: "## Beypazarı Yaşayan Müze..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Beypazarı,_2017_24.jpg/1200px-Beypazarı,_2017_24.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.917792,40.170933"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Beypazarı Yaşayan Müze

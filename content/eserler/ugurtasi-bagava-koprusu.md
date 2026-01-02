@@ -1,18 +1,17 @@
 ---
-title: "Uğurtaşı (Bağava) Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:21+03:00
+title: "Uğurtaşı (Bağava) Köprüsü"
+date: "2025-12-25T02:35:21+03:00"
 slug: "ugurtasi-bagava-koprusu"
 description: "## Uğurtaşı (Bağava) Köprüsü: Torul'un Tarihi Çiçeği..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.489358,40.570002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uğurtaşı (Bağava) Köprüsü: Torul'un Tarihi Çiçeği

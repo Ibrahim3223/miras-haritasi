@@ -1,18 +1,17 @@
 ---
-title: "Anonim Türbe | Miras Haritası"
-date: 2025-12-25T14:50:26+03:00
+title: "Anonim Türbe"
+date: "2025-12-25T14:50:26+03:00"
 slug: "anonim-turbe"
 description: "## Anonim Türbe: Tire, İzmir'in Gizli Tarihi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7516365,38.0869751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anonim Türbe: Tire, İzmir'in Gizli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Yunus Emre ve Tapduk Emre Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:40+03:00
+title: "Yunus Emre ve Tapduk Emre Türbesi"
+date: "2025-12-25T14:27:40+03:00"
 slug: "yunus-emre-ve-tapduk-emre-turbesi"
 description: "### Yunus Emre ve Tapduk Emre Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.523992,38.628983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yunus Emre ve Tapduk Emre Türbesi

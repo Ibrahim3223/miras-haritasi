@@ -1,18 +1,17 @@
 ---
-title: "Seyyit Kethüda Mehmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:41+03:00
+title: "Seyyit Kethüda Mehmet Ağa Çeşmesi"
+date: "2025-12-25T10:58:41+03:00"
 slug: "seyyit-kethuda-mehmet-aga-cesmesi"
 description: "## Seyyit Kethüda Mehmet Ağa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.982044,41.00542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyit Kethüda Mehmet Ağa Çeşmesi

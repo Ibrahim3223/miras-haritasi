@@ -1,18 +1,17 @@
 ---
-title: "Demirdöğen Pişnar Camii | Miras Haritası"
-date: 2025-12-25T01:04:28+03:00
+title: "Demirdöğen Pişnar Camii"
+date: "2025-12-25T01:04:28+03:00"
 slug: "demirdogen-pisnar-camii"
 description: "## Demirdöğen Pişnar Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3767624,40.9207382"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirdöğen Pişnar Camii

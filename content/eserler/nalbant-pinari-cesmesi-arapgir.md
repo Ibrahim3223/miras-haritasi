@@ -1,18 +1,17 @@
 ---
-title: "Nalbant Pınarı Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:24:49+03:00
+title: "Nalbant Pınarı Çeşmesi, Arapgir"
+date: "2025-12-25T12:24:49+03:00"
 slug: "nalbant-pinari-cesmesi-arapgir"
 description: "## Nalbant Pınarı Çeşmesi: Arapgir'in Bir Ölümsüz Çeşmesi..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.47029247,39.056615203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nalbant Pınarı Çeşmesi: Arapgir'in Bir Ölümsüz Çeşmesi

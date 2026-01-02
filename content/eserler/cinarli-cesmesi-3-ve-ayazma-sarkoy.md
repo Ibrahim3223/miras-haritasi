@@ -1,18 +1,17 @@
 ---
-title: "Çınarlı Çeşmesi 3 ve Ayazma, Şarköy | Miras Haritası"
-date: 2025-12-25T12:51:58+03:00
+title: "Çınarlı Çeşmesi 3 ve Ayazma, Şarköy"
+date: "2025-12-25T12:51:58+03:00"
 slug: "cinarli-cesmesi-3-ve-ayazma-sarkoy"
 description: "## Çınarlı Çeşmesi 3 ve Ayazma, Şarköy: Bir Örnek Osmanlı Mimarisine Sahip Çeşme..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2535172,40.6927528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çınarlı Çeşmesi 3 ve Ayazma, Şarköy: Bir Örnek Osmanlı Mimarisine Sahip Çeşme

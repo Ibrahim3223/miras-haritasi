@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Gökçeyurt | Miras Haritası"
-date: 2025-12-25T12:31:22+03:00
+title: "Çeşme, Gökçeyurt"
+date: "2025-12-25T12:31:22+03:00"
 slug: "cesme-gokceyurt"
 description: "**Çeşme, Gökçeyurt: Ankara'nın Gizli Çeşme Öreni**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.032336566,39.960194971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çeşme, Gökçeyurt: Ankara'nın Gizli Çeşme Öreni**

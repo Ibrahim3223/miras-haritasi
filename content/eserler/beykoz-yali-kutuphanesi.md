@@ -1,18 +1,17 @@
 ---
-title: "Beykoz Yalı Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:58:30+03:00
+title: "Beykoz Yalı Kütüphanesi"
+date: "2025-12-25T17:58:30+03:00"
 slug: "beykoz-yali-kutuphanesi"
 description: "### Beykoz Yalı Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Beykoz_Belediyesi_Yalı_Kütüphanesi.jpg/1200px-Beykoz_Belediyesi_Yalı_Kütüphanesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.092003824,41.132167984"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Beykoz Yalı Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Beypazarı Kent Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:28+03:00
+title: "Beypazarı Kent Tarihi Müzesi"
+date: "2025-12-25T03:44:28+03:00"
 slug: "beypazari-kent-tarihi-muzesi"
 description: "### Beypazarı Kent Tarihi Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beypazarı Kent Tarihi Müzesi

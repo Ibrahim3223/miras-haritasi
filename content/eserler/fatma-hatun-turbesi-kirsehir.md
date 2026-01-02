@@ -1,18 +1,17 @@
 ---
-title: "Fatma Hatun Türbesi, Kırşehir | Miras Haritası"
-date: 2025-12-25T13:56:35+03:00
+title: "Fatma Hatun Türbesi, Kırşehir"
+date: "2025-12-25T13:56:35+03:00"
 slug: "fatma-hatun-turbesi-kirsehir"
 description: "**Fatma Hatun Türbesi, Kırşehir**..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1739235,39.1378975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Fatma Hatun Türbesi, Kırşehir**

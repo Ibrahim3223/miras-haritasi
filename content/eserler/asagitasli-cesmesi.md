@@ -1,18 +1,17 @@
 ---
-title: "Aşağıtaslı Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:10:06+03:00
+title: "Aşağıtaslı Çeşmesi"
+date: "2025-12-25T13:10:06+03:00"
 slug: "asagitasli-cesmesi"
 description: "### Aşağıtaslı Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4770851,40.7375259"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşağıtaslı Çeşmesi

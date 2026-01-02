@@ -1,18 +1,17 @@
 ---
-title: "Yakutiye Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:41:53+03:00
+title: "Yakutiye Çeşmeleri"
+date: "2025-12-25T11:41:53+03:00"
 slug: "yakutiye-cesmeleri"
 description: "## Yakutiye Çeşmeleri: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2709541,39.906456"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yakutiye Çeşmeleri: Erzurum'un Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "III. Murad Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:18+03:00
+title: "III. Murad Türbesi"
+date: "2025-12-25T14:45:18+03:00"
 slug: "iii-murad-turbesi"
 description: "### III. Murad Türbesi: Fatih, İstanbul'un Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### III. Murad Türbesi: Fatih, İstanbul'un Kültürel Mirası

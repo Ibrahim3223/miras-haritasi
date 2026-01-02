@@ -1,18 +1,17 @@
 ---
-title: "Çamur Ilıcası | Miras Haritası"
-date: 2025-12-25T16:34:12+03:00
+title: "Çamur Ilıcası"
+date: "2025-12-25T16:34:12+03:00"
 slug: "camur-ilicasi"
 description: "## Çamur Ilıcası: Dikili'nin Tarihi Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.922079,39.059219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamur Ilıcası: Dikili'nin Tarihi Hamamı

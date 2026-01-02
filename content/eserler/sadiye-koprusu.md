@@ -1,18 +1,17 @@
 ---
-title: "Şadiye Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:34+03:00
+title: "Şadiye Köprüsü"
+date: "2025-12-25T02:42:34+03:00"
 slug: "sadiye-koprusu"
 description: "## Şadiye Köprüsü: Konya'nın Geçmişini Etkileyen Bir Mimari Harika..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.5155602,38.0627213"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şadiye Köprüsü: Konya'nın Geçmişini Etkileyen Bir Mimari Harika

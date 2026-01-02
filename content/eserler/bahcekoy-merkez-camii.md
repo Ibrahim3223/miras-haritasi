@@ -1,18 +1,17 @@
 ---
-title: "Bahçeköy Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:47:10+03:00
+title: "Bahçeköy Merkez Camii"
+date: "2025-12-24T22:47:10+03:00"
 slug: "bahcekoy-merkez-camii"
 description: "## Bahçeköy Merkez Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9929619,41.1788826"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahçeköy Merkez Camii

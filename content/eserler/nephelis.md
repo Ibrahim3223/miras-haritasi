@@ -1,18 +1,17 @@
 ---
-title: "Nephelis | Miras Haritası"
-date: 2025-12-25T04:30:51+03:00
+title: "Nephelis"
+date: "2025-12-25T04:30:51+03:00"
 slug: "nephelis"
 description: "## Nephelis Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Gazipaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.382744,36.175454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nephelis Arkeolojik Sit

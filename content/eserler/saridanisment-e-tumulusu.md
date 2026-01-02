@@ -1,18 +1,17 @@
 ---
-title: "Sarıdanişment E Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:51+03:00
+title: "Sarıdanişment E Tümülüsü"
+date: "2025-12-25T07:40:51+03:00"
 slug: "saridanisment-e-tumulusu"
 description: "## Sarıdanişment E Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8251038,41.8664513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıdanişment E Tümülüsü

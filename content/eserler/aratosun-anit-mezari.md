@@ -1,18 +1,17 @@
 ---
-title: "Aratos’un Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:02:23+03:00
+title: "Aratos’un Anıt Mezarı"
+date: "2025-12-25T14:02:23+03:00"
 slug: "aratosun-anit-mezari"
 description: "## Aratos’un Anıt Mezarı: Mersin’in Tarihi Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mezitli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.539969,36.745626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aratos’un Anıt Mezarı: Mersin’in Tarihi Mirası

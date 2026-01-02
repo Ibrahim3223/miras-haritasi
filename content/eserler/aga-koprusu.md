@@ -1,18 +1,17 @@
 ---
-title: "Ağa Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:13+03:00
+title: "Ağa Köprüsü"
+date: "2025-12-25T02:32:13+03:00"
 slug: "aga-koprusu"
 description: "## Ağa Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.6340828,40.835247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağa Köprüsü

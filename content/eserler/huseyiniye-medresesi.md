@@ -1,18 +1,17 @@
 ---
-title: "Hüseyiniye Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:36+03:00
+title: "Hüseyiniye Medresesi"
+date: "2025-12-25T17:27:36+03:00"
 slug: "huseyiniye-medresesi"
 description: "## Hüseyiniye Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.952243,41.022091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyiniye Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Çavuş Bey Camii | Miras Haritası"
-date: 2025-12-24T22:30:36+03:00
+title: "Çavuş Bey Camii"
+date: "2025-12-24T22:30:36+03:00"
 slug: "cavus-bey-camii"
 description: "## Edirne'nin Eski Eserlerinden Birini Keşfedin: Çavuş Bey Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5517673,41.6785316"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Edirne'nin Eski Eserlerinden Birini Keşfedin: Çavuş Bey Camii

@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Tabakhane Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:47+03:00
+title: "Aşağı Tabakhane Sokak Çeşmesi"
+date: "2025-12-25T11:29:47+03:00"
 slug: "asagi-tabakhane-sokak-cesmesi"
 description: "## Aşağı Tabakhane Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dağdelen_Camii_Çeşmesi.jpg/1200px-Dağdelen_Camii_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6902313,41.2425842"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aşağı Tabakhane Sokak Çeşmesi

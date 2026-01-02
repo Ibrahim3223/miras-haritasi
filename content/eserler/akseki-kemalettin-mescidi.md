@@ -1,18 +1,17 @@
 ---
-title: "Akseki Kemalettin Mescidi | Miras Haritası"
-date: 2025-12-24T22:44:12+03:00
+title: "Akseki Kemalettin Mescidi"
+date: "2025-12-24T22:44:12+03:00"
 slug: "akseki-kemalettin-mescidi"
 description: "### Akseki Kemalettin Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akseki_Kemalettin_Mescidi.jpg/1200px-Akseki_Kemalettin_Mescidi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.941437,41.022304"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Akseki Kemalettin Mescidi

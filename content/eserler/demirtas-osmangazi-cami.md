@@ -1,18 +1,17 @@
 ---
-title: "Demirtaş Osmangazi Cami | Miras Haritası"
-date: 2025-12-24T22:36:04+03:00
+title: "Demirtaş Osmangazi Cami"
+date: "2025-12-24T22:36:04+03:00"
 slug: "demirtas-osmangazi-cami"
 description: "## Demirtaş Osmangazi Cami: Eskişehir'in Değerli Camii..."
 featured_image: ""
 province: "Orhangazi (ilçe)"
-iller: ["Orhangazi (ilçe)"]
+iller: '["Orhangazi (ilçe)"]'
 district: "Demirtaşpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.071787,40.188277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirtaş Osmangazi Cami: Eskişehir'in Değerli Camii

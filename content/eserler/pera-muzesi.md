@@ -1,18 +1,17 @@
 ---
-title: "Pera Müzesi | Miras Haritası"
-date: 2025-12-25T04:09:36+03:00
+title: "Pera Müzesi"
+date: "2025-12-25T04:09:36+03:00"
 slug: "pera-muzesi"
 description: "### Pera Müzesi: İstanbul'un En Önemli Kültür Miraslarından Birisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Istanbul_Beyoglu_Pera_museum.jpg/1200px-Istanbul_Beyoglu_Pera_museum.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.975194444,41.031805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Pera Müzesi: İstanbul'un En Önemli Kültür Miraslarından Birisi

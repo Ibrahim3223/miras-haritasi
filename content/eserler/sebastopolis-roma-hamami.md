@@ -1,18 +1,17 @@
 ---
-title: "Sebastopolis Roma Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:35+03:00
+title: "Sebastopolis Roma Hamamı"
+date: "2025-12-25T17:02:35+03:00"
 slug: "sebastopolis-roma-hamami"
 description: "## Sebastopolis Roma Hamamı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Sulusaray"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.0834999,39.9967575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sebastopolis Roma Hamamı

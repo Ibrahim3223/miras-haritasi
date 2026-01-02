@@ -1,18 +1,17 @@
 ---
-title: "Amcazade Hüseyin Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:54:05+03:00
+title: "Amcazade Hüseyin Paşa Çeşmesi"
+date: "2025-12-25T11:54:05+03:00"
 slug: "amcazade-huseyin-pasa-cesmesi"
 description: "## Amcazade Hüseyin Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9415932,41.0100594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amcazade Hüseyin Paşa Çeşmesi

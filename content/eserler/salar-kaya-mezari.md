@@ -1,18 +1,17 @@
 ---
-title: "Salar Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:23:13+03:00
+title: "Salar Kaya Mezarı"
+date: "2025-12-25T13:23:13+03:00"
 slug: "salar-kaya-mezari"
 description: "## Salar Kaya Mezarı: Boyabat'taki Tarihî Bir Anıt..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Boyabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6857681,41.5327339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salar Kaya Mezarı: Boyabat'taki Tarihî Bir Anıt

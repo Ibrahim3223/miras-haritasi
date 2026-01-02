@@ -1,18 +1,17 @@
 ---
-title: "Giresun Metamorfoz Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:09+03:00
+title: "Giresun Metamorfoz Kilisesi"
+date: "2025-12-25T09:00:09+03:00"
 slug: "giresun-metamorfoz-kilisesi"
 description: "# Giresun Metamorfoz Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kerassunde_-_Church_of_Metamorphosis.jpg/1200px-Kerassunde_-_Church_of_Metamorphosis.jpg"
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.387833333,40.92275"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Giresun Metamorfoz Kilisesi

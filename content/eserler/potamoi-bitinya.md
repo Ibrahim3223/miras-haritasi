@@ -1,18 +1,17 @@
 ---
-title: "Potamoi (Bitinya) | Miras Haritası"
-date: 2025-12-25T04:48:08+03:00
+title: "Potamoi (Bitinya)"
+date: "2025-12-25T04:48:08+03:00"
 slug: "potamoi-bitinya"
 description: "## Potamoi (Bitinya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.379823,40.798384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Potamoi (Bitinya)

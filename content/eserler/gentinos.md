@@ -1,18 +1,17 @@
 ---
-title: "Gentinos | Miras Haritası"
-date: 2025-12-25T08:08:34+03:00
+title: "Gentinos"
+date: "2025-12-25T08:08:34+03:00"
 slug: "gentinos"
 description: "## Gentinos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.279146,39.876943"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gentinos Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "II. Kolordu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:27:43+03:00
+title: "II. Kolordu Çeşmesi"
+date: "2025-12-25T11:27:43+03:00"
 slug: "ii-kolordu-cesmesi"
 description: "## II. Kolordu Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8927479,39.6508522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Kolordu Çeşmesi

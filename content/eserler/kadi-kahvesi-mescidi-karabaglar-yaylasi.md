@@ -1,18 +1,17 @@
 ---
-title: "Kadı Kahvesi Mescidi, Karabağlar Yaylası | Miras Haritası"
-date: 2025-12-25T00:50:46+03:00
+title: "Kadı Kahvesi Mescidi, Karabağlar Yaylası"
+date: "2025-12-25T00:50:46+03:00"
 slug: "kadi-kahvesi-mescidi-karabaglar-yaylasi"
 description: "## Kadı Kahvesi Mescidi, Karabağlar Yaylası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3881092,37.1775322"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Kahvesi Mescidi, Karabağlar Yaylası

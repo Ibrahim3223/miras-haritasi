@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Karadirek | Miras Haritası"
-date: 2025-12-25T03:01:06+03:00
+title: "Roma Köprüsü, Karadirek"
+date: "2025-12-25T03:01:06+03:00"
 slug: "roma-koprusu-karadirek"
 description: "## Roma Köprüsü, Karadirek: Tarihî Bir Çatılma..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.195959,38.552876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Karadirek: Tarihî Bir Çatılma

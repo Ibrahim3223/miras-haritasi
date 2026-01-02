@@ -1,18 +1,17 @@
 ---
-title: "Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:42+03:00
+title: "Protestan Kilisesi"
+date: "2025-12-25T09:37:42+03:00"
 slug: "protestan-kilisesi"
 description: "### Protestan Kilisesi: Talas'taki Bir Geçmiş..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.58429,38.644229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Protestan Kilisesi: Talas'taki Bir Geçmiş

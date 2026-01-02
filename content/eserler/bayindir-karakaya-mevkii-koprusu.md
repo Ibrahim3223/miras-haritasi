@@ -1,18 +1,17 @@
 ---
-title: "Bayındır Karakaya Mevkii Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:36+03:00
+title: "Bayındır Karakaya Mevkii Köprüsü"
+date: "2025-12-25T03:02:36+03:00"
 slug: "bayindir-karakaya-mevkii-koprusu"
 description: "## Bayındır Karakaya Mevkii Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3813,37.9998016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayındır Karakaya Mevkii Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

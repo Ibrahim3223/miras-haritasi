@@ -1,18 +1,17 @@
 ---
-title: "Özlünün Höyük | Miras Haritası"
-date: 2025-12-25T13:45:42+03:00
+title: "Özlünün Höyük"
+date: "2025-12-25T13:45:42+03:00"
 slug: "ozlunun-hoyuk"
 description: "## Özlünün Höyük: Kırşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.313524,39.2488284"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özlünün Höyük: Kırşehir'in Gizli Cenneti

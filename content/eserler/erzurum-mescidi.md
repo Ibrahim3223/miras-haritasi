@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Mescidi | Miras Haritası"
-date: 2025-12-25T00:51:33+03:00
+title: "Erzurum Mescidi"
+date: "2025-12-25T00:51:33+03:00"
 slug: "erzurum-mescidi"
 description: "## Erzurum Mescidi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8683357,39.9295769"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erzurum Mescidi: Ankara'nın Gizli Cenneti

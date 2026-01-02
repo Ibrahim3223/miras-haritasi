@@ -1,18 +1,17 @@
 ---
-title: "İskele Meydanı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:25:41+03:00
+title: "İskele Meydanı Çeşmesi"
+date: "2025-12-25T12:25:41+03:00"
 slug: "iskele-meydani-cesmesi"
 description: "## İskele Meydanı Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.791288644,40.395597879"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskele Meydanı Çeşmesi

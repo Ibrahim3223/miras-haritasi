@@ -1,18 +1,17 @@
 ---
-title: "Pir Mehmet Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:24+03:00
+title: "Pir Mehmet Çeşmesi"
+date: "2025-12-25T11:10:24+03:00"
 slug: "pir-mehmet-cesmesi"
 description: "## Pir Mehmet Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Pir_Mehmet_Çeşmesi_IMG_0783.jpg/1200px-Pir_Mehmet_Çeşmesi_IMG_0783.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.97117,41.025244"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pir Mehmet Çeşmesi

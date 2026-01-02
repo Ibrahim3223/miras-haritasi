@@ -1,18 +1,17 @@
 ---
-title: "Begrahatuni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:29+03:00
+title: "Begrahatuni Kilisesi"
+date: "2025-12-25T09:22:29+03:00"
 slug: "begrahatuni-kilisesi"
 description: "## Begrahatuni Kilisesi..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Eskibeyrehatun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.954388888,41.122611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Begrahatuni Kilisesi

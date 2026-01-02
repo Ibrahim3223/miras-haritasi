@@ -1,18 +1,17 @@
 ---
-title: "Tower VIk | Miras Haritası"
-date: 2025-12-25T08:28:10+03:00
+title: "Tower VIk"
+date: "2025-12-25T08:28:10+03:00"
 slug: "tower-vik"
 description: "## Tower VIk: Çanakkale'nin Gizli Harikası..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tower VIk: Çanakkale'nin Gizli Harikası

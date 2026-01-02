@@ -1,18 +1,17 @@
 ---
-title: "Erythini | Miras Haritası"
-date: 2025-12-25T05:03:16+03:00
+title: "Erythini"
+date: "2025-12-25T05:03:16+03:00"
 slug: "erythini"
 description: "## Erythini: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.484075,41.779469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erythini: Antik Kentin Gizemi

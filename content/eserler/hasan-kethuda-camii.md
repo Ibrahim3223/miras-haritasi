@@ -1,18 +1,17 @@
 ---
-title: "Hasan Kethüda Camii | Miras Haritası"
-date: 2025-12-24T22:45:36+03:00
+title: "Hasan Kethüda Camii"
+date: "2025-12-24T22:45:36+03:00"
 slug: "hasan-kethuda-camii"
 description: "## Hasan Kethüda Camii..."
 featured_image: ""
 province: "Seyhan"
-iller: ["Seyhan"]
+iller: '["Seyhan"]'
 district: "Sarıyakup"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.327638888,36.982583333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Kethüda Camii

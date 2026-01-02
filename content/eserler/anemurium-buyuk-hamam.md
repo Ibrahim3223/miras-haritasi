@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Büyük Hamam | Miras Haritası"
-date: 2025-12-25T17:04:47+03:00
+title: "Anemurium Büyük Hamam"
+date: "2025-12-25T17:04:47+03:00"
 slug: "anemurium-buyuk-hamam"
 description: "## Anemurium Büyük Hamam: Tarihî Bir Mirasın Gizli Çehresi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8030052,36.0229988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anemurium Büyük Hamam: Tarihî Bir Mirasın Gizli Çehresi

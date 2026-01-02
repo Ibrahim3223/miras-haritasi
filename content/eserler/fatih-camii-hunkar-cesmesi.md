@@ -1,18 +1,17 @@
 ---
-title: "Fatih Camii Hünkar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:52:44+03:00
+title: "Fatih Camii Hünkar Çeşmesi"
+date: "2025-12-25T11:52:44+03:00"
 slug: "fatih-camii-hunkar-cesmesi"
 description: "## Fatih Camii Hünkar Çeşmesi: Silivri'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2480698,41.0708046"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Camii Hünkar Çeşmesi: Silivri'nin Tarihi Bir Çeşmesi

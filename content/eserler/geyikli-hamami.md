@@ -1,18 +1,17 @@
 ---
-title: "Geyikli Hamamı | Miras Haritası"
-date: 2025-12-25T16:42:40+03:00
+title: "Geyikli Hamamı"
+date: "2025-12-25T16:42:40+03:00"
 slug: "geyikli-hamami"
 description: "## Geyikli Hamamı: Ezine'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.2065086,39.803318"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Geyikli Hamamı: Ezine'nin Tarihi Bir Mirası

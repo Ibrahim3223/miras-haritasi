@@ -1,18 +1,17 @@
 ---
-title: "Dibekli Emin Bey Camii | Miras Haritası"
-date: 2025-12-24T22:17:02+03:00
+title: "Dibekli Emin Bey Camii"
+date: "2025-12-24T22:17:02+03:00"
 slug: "dibekli-emin-bey-camii"
 description: "## Dibekli Emin Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dibekli_Emin_Bey_Camii,_Fatih,_İstanbul.jpg/1200px-Dibekli_Emin_Bey_Camii,_Fatih,_İstanbul.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.965238719,41.008748936"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dibekli Emin Bey Camii

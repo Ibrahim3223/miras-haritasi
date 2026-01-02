@@ -1,18 +1,17 @@
 ---
-title: "Stratonikeia Kuzey Şehir Kapısı | Miras Haritası"
-date: 2025-12-25T13:18:36+03:00
+title: "Stratonikeia Kuzey Şehir Kapısı"
+date: "2025-12-25T13:18:36+03:00"
 slug: "stratonikeia-kuzey-sehir-kapisi"
 description: "## Stratonikeia Kuzey Şehir Kapısı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.0663567,37.3160362"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Stratonikeia Kuzey Şehir Kapısı

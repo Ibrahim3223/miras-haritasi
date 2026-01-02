@@ -1,18 +1,17 @@
 ---
-title: "Öksürük Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:27+03:00
+title: "Öksürük Baba Türbesi"
+date: "2025-12-25T15:22:27+03:00"
 slug: "oksuruk-baba-turbesi"
 description: "### Öksürük Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2888184,39.9060593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Öksürük Baba Türbesi

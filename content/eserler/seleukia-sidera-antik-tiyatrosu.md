@@ -1,18 +1,17 @@
 ---
-title: "Seleukia Sidera Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:25:52+03:00
+title: "Seleukia Sidera Antik Tiyatrosu"
+date: "2025-12-25T08:25:52+03:00"
 slug: "seleukia-sidera-antik-tiyatrosu"
 description: "# Seleukia Sidera Antik Tiyatrosu..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Atabey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.621775293,37.89903013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Seleukia Sidera Antik Tiyatrosu

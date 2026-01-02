@@ -1,18 +1,17 @@
 ---
-title: "Kaymakam Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:40+03:00
+title: "Kaymakam Çeşmesi"
+date: "2025-12-25T10:45:40+03:00"
 slug: "kaymakam-cesmesi"
 description: "## Kaymakam Çeşmesi: Odunpazarı'nın Tarihî Simgesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5254498,39.7638016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaymakam Çeşmesi: Odunpazarı'nın Tarihî Simgesi

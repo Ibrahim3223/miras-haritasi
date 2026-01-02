@@ -1,18 +1,17 @@
 ---
-title: "Konak Camii | Miras Haritası"
-date: 2025-12-24T21:52:52+03:00
+title: "Konak Camii"
+date: "2025-12-24T21:52:52+03:00"
 slug: "konak-camii"
 description: "## Konak Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TR_Izmir_asv2020-02_img29_Konak_Mosque.jpg/1200px-TR_Izmir_asv2020-02_img29_Konak_Mosque.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.129325,38.41907778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Konak Camii: İzmir'in Tarihi ve Kültürel Mirası

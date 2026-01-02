@@ -1,18 +1,17 @@
 ---
-title: "Filateli ve Pul Galerisi | Miras Haritası"
-date: 2025-12-25T03:42:13+03:00
+title: "Filateli ve Pul Galerisi"
+date: "2025-12-25T03:42:13+03:00"
 slug: "filateli-ve-pul-galerisi"
 description: "## Filateli ve Pul Galerisi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9748802,41.0141716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Filateli ve Pul Galerisi

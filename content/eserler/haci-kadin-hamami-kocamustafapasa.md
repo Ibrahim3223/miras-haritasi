@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kadın Hamamı, Kocamustafapaşa | Miras Haritası"
-date: 2025-12-25T16:39:11+03:00
+title: "Hacı Kadın Hamamı, Kocamustafapaşa"
+date: "2025-12-25T16:39:11+03:00"
 slug: "haci-kadin-hamami-kocamustafapasa"
 description: "## Hacı Kadın Hamamı, Kocamustafapaşa: İstanbullu Kadınların İhtişamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.927477,40.999796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kadın Hamamı, Kocamustafapaşa: İstanbullu Kadınların İhtişamı

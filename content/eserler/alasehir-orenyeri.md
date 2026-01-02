@@ -1,18 +1,17 @@
 ---
-title: "Alaşehir Örenyeri | Miras Haritası"
-date: 2025-12-25T03:33:40+03:00
+title: "Alaşehir Örenyeri"
+date: "2025-12-25T03:33:40+03:00"
 slug: "alasehir-orenyeri"
 description: "## Alaşehir Örenyeri: Manisa'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaşehir Örenyeri: Manisa'nın Gizli Hazineleri

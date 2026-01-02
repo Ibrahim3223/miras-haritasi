@@ -1,18 +1,17 @@
 ---
-title: "Karaca Höyük, Çivril | Miras Haritası"
-date: 2025-12-25T06:04:31+03:00
+title: "Karaca Höyük, Çivril"
+date: "2025-12-25T06:04:31+03:00"
 slug: "karaca-hoyuk-civril"
 description: "## Karaca Höyük: Çivril'in Tarihî Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.7194061,38.1946678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaca Höyük: Çivril'in Tarihî Mirası

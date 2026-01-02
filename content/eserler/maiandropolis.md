@@ -1,18 +1,17 @@
 ---
-title: "Maiandropolis | Miras Haritası"
-date: 2025-12-25T04:55:48+03:00
+title: "Maiandropolis"
+date: "2025-12-25T04:55:48+03:00"
 slug: "maiandropolis"
 description: "## Maiandropolis: Aydın'ın Eski Kenti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.410275,37.751855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maiandropolis: Aydın'ın Eski Kenti

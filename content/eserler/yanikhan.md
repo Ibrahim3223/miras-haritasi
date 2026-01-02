@@ -1,18 +1,17 @@
 ---
-title: "Yanıkhan | Miras Haritası"
-date: 2025-12-25T07:11:07+03:00
+title: "Yanıkhan"
+date: "2025-12-25T07:11:07+03:00"
 slug: "yanikhan"
 description: "## Yanıkhan Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Yanıkhan.jpg/1200px-Yanıkhan.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2,36.5833"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yanıkhan Arkeolojik Sit

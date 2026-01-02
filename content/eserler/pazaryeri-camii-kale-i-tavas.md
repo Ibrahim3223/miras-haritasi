@@ -1,18 +1,17 @@
 ---
-title: "Pazaryeri Camii – Kale-i Tavas | Miras Haritası"
-date: 2025-12-25T00:01:43+03:00
+title: "Pazaryeri Camii – Kale-i Tavas"
+date: "2025-12-25T00:01:43+03:00"
 slug: "pazaryeri-camii-kale-i-tavas"
 description: "## Pazaryeri Camii – Kale-i Tavas..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8455639,37.4324265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazaryeri Camii – Kale-i Tavas

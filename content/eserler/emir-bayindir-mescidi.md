@@ -1,18 +1,17 @@
 ---
-title: "Emir Bayındır Mescidi | Miras Haritası"
-date: 2025-12-24T23:21:04+03:00
+title: "Emir Bayındır Mescidi"
+date: "2025-12-24T23:21:04+03:00"
 slug: "emir-bayindir-mescidi"
 description: "## Emir Bayındır Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tomba_e_moschea_dell'emiro_bayindir,_1477-1481,_00.jpg/1200px-Tomba_e_moschea_dell'emiro_bayindir,_1477-1481,_00.jpg"
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.459008,38.747208"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Emir Bayındır Mescidi

@@ -1,18 +1,17 @@
 ---
-title: "Hisar (Maden) Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:16:28+03:00
+title: "Hisar (Maden) Köyü Kilisesi"
+date: "2025-12-25T09:16:28+03:00"
 slug: "hisar-maden-koyu-kilisesi"
 description: "## Hisar (Maden) Köyü Kilisesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Dereli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.405979,40.746604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hisar (Maden) Köyü Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Boğazağzı Camii | Miras Haritası"
-date: 2025-12-24T22:26:41+03:00
+title: "Boğazağzı Camii"
+date: "2025-12-24T22:26:41+03:00"
 slug: "bogazagzi-camii"
 description: "### Giriş..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Acıgöl"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.4846382,38.6347733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

@@ -1,18 +1,17 @@
 ---
-title: "Garipçe Çeşme | Miras Haritası"
-date: 2025-12-25T10:47:14+03:00
+title: "Garipçe Çeşme"
+date: "2025-12-25T10:47:14+03:00"
 slug: "garipce-cesme"
 description: "# Garipçe Çeşme..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.5252075,39.4467621"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Garipçe Çeşme

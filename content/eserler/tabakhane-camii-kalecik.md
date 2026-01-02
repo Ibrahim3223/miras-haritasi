@@ -1,18 +1,17 @@
 ---
-title: "Tabakhane Camii, Kalecik | Miras Haritası"
-date: 2025-12-24T23:59:22+03:00
+title: "Tabakhane Camii, Kalecik"
+date: "2025-12-24T23:59:22+03:00"
 slug: "tabakhane-camii-kalecik"
 description: "## Tabakhane Camii: Kalecik'in Ölümsüz Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kalecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.4049225,40.0984612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabakhane Camii: Kalecik'in Ölümsüz Mirası

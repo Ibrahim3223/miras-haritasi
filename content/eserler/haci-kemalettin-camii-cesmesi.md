@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kemalettin Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:53:37+03:00
+title: "Hacı Kemalettin Camii Çeşmesi"
+date: "2025-12-25T12:53:37+03:00"
 slug: "haci-kemalettin-camii-cesmesi"
 description: "# Hacı Kemalettin Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6513748,38.2242165"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Kemalettin Camii Çeşmesi

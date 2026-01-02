@@ -1,18 +1,17 @@
 ---
-title: "Yaka Mezarlık Camii | Miras Haritası"
-date: 2025-12-24T23:42:25+03:00
+title: "Yaka Mezarlık Camii"
+date: "2025-12-24T23:42:25+03:00"
 slug: "yaka-mezarlik-camii"
 description: "## Yaka Mezarlık Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4960651,36.6994629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yaka Mezarlık Camii

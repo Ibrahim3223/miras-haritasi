@@ -1,18 +1,17 @@
 ---
-title: "Metropolis Bizans Kalesi | Miras Haritası"
-date: 2025-12-25T01:41:57+03:00
+title: "Metropolis Bizans Kalesi"
+date: "2025-12-25T01:41:57+03:00"
 slug: "metropolis-bizans-kalesi"
 description: "## Metropolis Bizans Kalesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3234272,38.1255417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metropolis Bizans Kalesi

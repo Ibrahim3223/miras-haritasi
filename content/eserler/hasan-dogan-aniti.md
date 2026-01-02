@@ -1,18 +1,17 @@
 ---
-title: "Hasan Doğan Anıtı | Miras Haritası"
-date: 2025-12-25T15:46:48+03:00
+title: "Hasan Doğan Anıtı"
+date: "2025-12-25T15:46:48+03:00"
 slug: "hasan-dogan-aniti"
 description: "## Hasan Doğan Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.016231,41.028494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Doğan Anıtı

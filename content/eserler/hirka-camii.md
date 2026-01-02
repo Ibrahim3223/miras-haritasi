@@ -1,18 +1,17 @@
 ---
-title: "Hırka Camii | Miras Haritası"
-date: 2025-12-24T22:07:44+03:00
+title: "Hırka Camii"
+date: "2025-12-24T22:07:44+03:00"
 slug: "hirka-camii"
 description: "# Hırka Camii..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9107056,37.4676781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hırka Camii

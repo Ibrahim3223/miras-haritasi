@@ -1,18 +1,17 @@
 ---
-title: "Aralla | Miras Haritası"
-date: 2025-12-25T05:11:24+03:00
+title: "Aralla"
+date: "2025-12-25T05:11:24+03:00"
 slug: "aralla"
 description: "# Aralla: Bir Eski Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.151896,38.434969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aralla: Bir Eski Sitin Gizemi

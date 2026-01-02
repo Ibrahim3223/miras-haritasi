@@ -1,18 +1,17 @@
 ---
-title: "Yenidoğanlı Höyük | Miras Haritası"
-date: 2025-12-25T06:29:50+03:00
+title: "Yenidoğanlı Höyük"
+date: "2025-12-25T06:29:50+03:00"
 slug: "yenidoganli-hoyuk"
 description: "### Yenidoğanlı Höyük: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3645251,39.3040882"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yenidoğanlı Höyük: Tarihi ve Kültürel Mirası

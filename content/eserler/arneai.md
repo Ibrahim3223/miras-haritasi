@@ -1,18 +1,17 @@
 ---
-title: "Arneai | Miras Haritası"
-date: 2025-12-25T04:21:07+03:00
+title: "Arneai"
+date: "2025-12-25T04:21:07+03:00"
 slug: "arneai"
 description: "## Arneai Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.8691976,36.4418699"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arneai Arkeolojik Sit

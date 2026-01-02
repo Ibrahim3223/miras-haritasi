@@ -1,18 +1,17 @@
 ---
-title: "Taşpazar Çeşmesi, Birgi | Miras Haritası"
-date: 2025-12-25T12:51:47+03:00
+title: "Taşpazar Çeşmesi, Birgi"
+date: "2025-12-25T12:51:47+03:00"
 slug: "taspazar-cesmesi-birgi"
 description: "### Taşpazar Çeşmesi, Birgi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0693703,38.2539635"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taşpazar Çeşmesi, Birgi

@@ -1,18 +1,17 @@
 ---
-title: "İsmail Bey Camii | Miras Haritası"
-date: 2025-12-24T23:37:00+03:00
+title: "İsmail Bey Camii"
+date: "2025-12-24T23:37:00+03:00"
 slug: "ismail-bey-camii"
 description: "## İsmail Bey Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8912487,39.068325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmail Bey Camii

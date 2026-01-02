@@ -1,18 +1,17 @@
 ---
-title: "Koca Höyük, Sarayköy | Miras Haritası"
-date: 2025-12-25T06:15:12+03:00
+title: "Koca Höyük, Sarayköy"
+date: "2025-12-25T06:15:12+03:00"
 slug: "koca-hoyuk-saraykoy"
 description: "### Koca Höyük, Sarayköy: Tarihini Yeniden Yaşıyor..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Sarayköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.9972,37.9062004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koca Höyük, Sarayköy: Tarihini Yeniden Yaşıyor

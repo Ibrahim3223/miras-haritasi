@@ -1,18 +1,17 @@
 ---
-title: "Güzeloluk Camii | Miras Haritası"
-date: 2025-12-24T21:55:18+03:00
+title: "Güzeloluk Camii"
+date: "2025-12-24T21:55:18+03:00"
 slug: "guzeloluk-camii"
 description: "## Güzeloluk Camii: Mersin'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Güzeloluk_Mosque_mihrab.JPG/1200px-Güzeloluk_Mosque_mihrab.JPG"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.08166667,36.79472222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Güzeloluk Camii: Mersin'in Tarihî Mirası

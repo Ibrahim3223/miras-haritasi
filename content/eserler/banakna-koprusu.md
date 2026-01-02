@@ -1,18 +1,17 @@
 ---
-title: "Banakna Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:55+03:00
+title: "Banakna Köprüsü"
+date: "2025-12-25T02:04:55+03:00"
 slug: "banakna-koprusu"
 description: "## Banakna Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka ilçesi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.735751681,41.341609034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Banakna Köprüsü

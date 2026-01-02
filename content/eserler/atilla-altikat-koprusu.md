@@ -1,18 +1,17 @@
 ---
-title: "Atilla Altıkat Köprüsü | Miras Haritası"
-date: 2025-12-25T03:05:33+03:00
+title: "Atilla Altıkat Köprüsü"
+date: "2025-12-25T03:05:33+03:00"
 slug: "atilla-altikat-koprusu"
 description: "## Atilla Altıkat Köprüsü: Seyhan Nehri'nin Rengarenk Köprüsü..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atilla Altıkat Köprüsü: Seyhan Nehri'nin Rengarenk Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Hapis Boğazı Aslanı | Miras Haritası"
-date: 2025-12-25T15:44:29+03:00
+title: "Hapis Boğazı Aslanı"
+date: "2025-12-25T15:44:29+03:00"
 slug: "hapis-bogazi-aslani"
 description: "### Hapis Boğazı Aslanı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sorgun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3797226,39.8208313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hapis Boğazı Aslanı

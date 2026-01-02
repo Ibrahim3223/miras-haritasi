@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Subaşı Medresesi | Miras Haritası"
-date: 2025-12-25T17:43:31+03:00
+title: "Süleyman Subaşı Medresesi"
+date: "2025-12-25T17:43:31+03:00"
 slug: "suleyman-subasi-medresesi"
 description: "## Süleyman Subaşı Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9607983,41.0143204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Subaşı Medresesi

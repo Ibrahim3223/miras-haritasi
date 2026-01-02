@@ -1,18 +1,17 @@
 ---
-title: "Hacım Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:32+03:00
+title: "Hacım Sultan Türbesi"
+date: "2025-12-25T14:52:32+03:00"
 slug: "hacim-sultan-turbesi"
 description: "### Hacım Sultan Türbesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Sivaslı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.5311222,38.5374947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacım Sultan Türbesi

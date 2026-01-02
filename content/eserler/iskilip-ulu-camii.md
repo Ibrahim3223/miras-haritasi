@@ -1,18 +1,17 @@
 ---
-title: "İskilip Ulu Camii | Miras Haritası"
-date: 2025-12-25T01:09:42+03:00
+title: "İskilip Ulu Camii"
+date: "2025-12-25T01:09:42+03:00"
 slug: "iskilip-ulu-camii"
 description: "### İskilip Ulu Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.473444444,40.7335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İskilip Ulu Camii: Tarihi ve Kültürel Mirasımız

@@ -1,18 +1,17 @@
 ---
-title: "Derviş Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:35:30+03:00
+title: "Derviş Paşa Camii"
+date: "2025-12-24T22:35:30+03:00"
 slug: "dervis-pasa-camii"
 description: "### Derviş Paşa Camii: Gaziantep'te Bir Zümre'nin İmzası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.6329575,37.0248184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Derviş Paşa Camii: Gaziantep'te Bir Zümre'nin İmzası

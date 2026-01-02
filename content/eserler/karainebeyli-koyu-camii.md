@@ -1,18 +1,17 @@
 ---
-title: "Karainebeyli Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:39:49+03:00
+title: "Karainebeyli Köyü Camii"
+date: "2025-12-24T23:39:49+03:00"
 slug: "karainebeyli-koyu-camii"
 description: "## Karainebeyli Köyü Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.432806,40.3499451"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karainebeyli Köyü Camii

@@ -1,18 +1,17 @@
 ---
-title: "Aslan Torunlar Evi Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:26+03:00
+title: "Aslan Torunlar Evi Etnografya Müzesi"
+date: "2025-12-25T03:52:26+03:00"
 slug: "aslan-torunlar-evi-etnografya-muzesi"
 description: "## Aslan Torunlar Evi Etnografya Müzesi..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.153128,42.02633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aslan Torunlar Evi Etnografya Müzesi

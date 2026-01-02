@@ -1,18 +1,17 @@
 ---
-title: "Safiye Kadın Çeşmesi, Balıkesir | Miras Haritası"
-date: 2025-12-25T12:30:24+03:00
+title: "Safiye Kadın Çeşmesi, Balıkesir"
+date: "2025-12-25T12:30:24+03:00"
 slug: "safiye-kadin-cesmesi-balikesir"
 description: "## Safiye Kadın Çeşmesi, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.878574896,39.647315525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Safiye Kadın Çeşmesi, Balıkesir

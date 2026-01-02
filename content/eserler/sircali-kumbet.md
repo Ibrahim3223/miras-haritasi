@@ -1,18 +1,17 @@
 ---
-title: "Sırçalı Kümbet | Miras Haritası"
-date: 2025-12-25T13:58:07+03:00
+title: "Sırçalı Kümbet"
+date: "2025-12-25T13:58:07+03:00"
 slug: "sircali-kumbet"
 description: "## Sırçalı Kümbet: Melikgazi'de Bir Ölümsüz Abid..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4994087,38.7143974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sırçalı Kümbet: Melikgazi'de Bir Ölümsüz Abid

@@ -1,18 +1,17 @@
 ---
-title: "Sokollu Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:48:00+03:00
+title: "Sokollu Mehmet Paşa Camii"
+date: "2025-12-24T21:48:00+03:00"
 slug: "sokollu-mehmet-pasa-camii"
 description: "## Sokollu Mehmet Paşa Camii: Beyoğlu'ndaki Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sokollu_Mehmet_Pasha_Mosque_Azapkapi_7408.jpg/1200px-Sokollu_Mehmet_Pasha_Mosque_Azapkapi_7408.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.96777778,41.025"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sokollu Mehmet Paşa Camii: Beyoğlu'ndaki Bir Örnek

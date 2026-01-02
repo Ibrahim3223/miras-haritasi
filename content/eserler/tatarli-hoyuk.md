@@ -1,18 +1,17 @@
 ---
-title: "Tatarlı Höyük | Miras Haritası"
-date: 2025-12-25T07:09:26+03:00
+title: "Tatarlı Höyük"
+date: "2025-12-25T07:09:26+03:00"
 slug: "tatarli-hoyuk"
 description: "## Tatarlı Höyük: Adana'nın Gizli Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Ceyhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.0517273,37.1227989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatarlı Höyük: Adana'nın Gizli Mirası

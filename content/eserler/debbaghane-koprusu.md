@@ -1,18 +1,17 @@
 ---
-title: "Debbağhane Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:03+03:00
+title: "Debbağhane Köprüsü"
+date: "2025-12-25T02:36:03+03:00"
 slug: "debbaghane-koprusu"
 description: "### Debbağhane Köprüsü..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.455143,40.451156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Debbağhane Köprüsü

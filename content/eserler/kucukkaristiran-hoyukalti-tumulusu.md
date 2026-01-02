@@ -1,18 +1,17 @@
 ---
-title: "Küçükkarıştıran Höyükaltı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:27:31+03:00
+title: "Küçükkarıştıran Höyükaltı Tümülüsü"
+date: "2025-12-25T07:27:31+03:00"
 slug: "kucukkaristiran-hoyukalti-tumulusu"
 description: "# Küçükkarıştıran Höyükaltı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.538353,41.326828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Küçükkarıştıran Höyükaltı Tümülüsü

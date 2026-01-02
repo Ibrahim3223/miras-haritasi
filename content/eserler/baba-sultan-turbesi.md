@@ -1,18 +1,17 @@
 ---
-title: "Baba Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:55+03:00
+title: "Baba Sultan Türbesi"
+date: "2025-12-25T14:35:55+03:00"
 slug: "baba-sultan-turbesi"
 description: "### Baba Sultan Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.0641,39.48"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Baba Sultan Türbesi

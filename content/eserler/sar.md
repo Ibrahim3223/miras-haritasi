@@ -1,18 +1,17 @@
 ---
-title: "Şar | Miras Haritası"
-date: 2025-12-25T06:47:30+03:00
+title: "Şar"
+date: "2025-12-25T06:47:30+03:00"
 slug: "sar"
 description: "## Şar Arkeolojik Sit: Tarihin Gizemli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sar-Comana.jpg/1200px-Sar-Comana.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Tufanbeyli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.33,38.33"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şar Arkeolojik Sit: Tarihin Gizemli Mirası

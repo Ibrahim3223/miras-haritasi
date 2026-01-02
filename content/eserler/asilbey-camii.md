@@ -1,18 +1,17 @@
 ---
-title: "Asilbey Camii | Miras Haritası"
-date: 2025-12-24T22:13:47+03:00
+title: "Asilbey Camii"
+date: "2025-12-24T22:13:47+03:00"
 slug: "asilbey-camii"
 description: "## Asilbey Camii: Bolu'nun Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bolu"
+province: "Bolu"
+iller: '["Bolu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.2144871,40.4587555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asilbey Camii: Bolu'nun Tarihi Bir Mirası

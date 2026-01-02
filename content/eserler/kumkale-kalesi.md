@@ -1,18 +1,17 @@
 ---
-title: "Kumkale Kalesi | Miras Haritası"
-date: 2025-12-25T01:31:39+03:00
+title: "Kumkale Kalesi"
+date: "2025-12-25T01:31:39+03:00"
 slug: "kumkale-kalesi"
 description: "## Kumkale Kalesi: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.198691,40.006526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumkale Kalesi: Çanakkale'nin Gizli Mirası

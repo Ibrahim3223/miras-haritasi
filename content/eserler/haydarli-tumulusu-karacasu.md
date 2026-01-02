@@ -1,18 +1,17 @@
 ---
-title: "Haydarlı Tümülüsü, Karacasu | Miras Haritası"
-date: 2025-12-25T07:43:25+03:00
+title: "Haydarlı Tümülüsü, Karacasu"
+date: "2025-12-25T07:43:25+03:00"
 slug: "haydarli-tumulusu-karacasu"
 description: "### Haydarlı Tümülüsü: Karacasu'nun Gizemi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.5764999,37.7757988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haydarlı Tümülüsü: Karacasu'nun Gizemi

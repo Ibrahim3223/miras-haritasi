@@ -1,18 +1,17 @@
 ---
-title: "Bölümlü Mithat Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:27:13+03:00
+title: "Bölümlü Mithat Paşa Camii"
+date: "2025-12-24T22:27:13+03:00"
 slug: "bolumlu-mithat-pasa-camii"
 description: "## Bölüm Mithat Paşa Camii: Trabzon'un Tarihî Bir Şehri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Trabzon"
+province: "Trabzon"
+iller: '["Trabzon"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.277282355,40.826182953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bölüm Mithat Paşa Camii: Trabzon'un Tarihî Bir Şehri

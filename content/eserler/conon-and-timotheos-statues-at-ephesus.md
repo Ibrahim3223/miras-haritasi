@@ -1,18 +1,17 @@
 ---
-title: "Conon and Timotheos, statues at Ephesus | Miras Haritası"
-date: 2025-12-25T13:40:36+03:00
+title: "Conon and Timotheos, statues at Ephesus"
+date: "2025-12-25T13:40:36+03:00"
 slug: "conon-and-timotheos-statues-at-ephesus"
 description: "## Conon ve Timotheos, heykelleri, Efes..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3637,37.9497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Conon ve Timotheos, heykelleri, Efes

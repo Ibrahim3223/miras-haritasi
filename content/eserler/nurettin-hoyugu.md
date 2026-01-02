@@ -1,18 +1,17 @@
 ---
-title: "Nurettin Höyüğü | Miras Haritası"
-date: 2025-12-25T06:30:14+03:00
+title: "Nurettin Höyüğü"
+date: "2025-12-25T06:30:14+03:00"
 slug: "nurettin-hoyugu"
 description: "## Nurettin Höyüğü: Bitlis'in Gizli Ören Yeri..."
 featured_image: ""
 province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
+iller: '["Bitlis Vilayeti"]'
 district: "Malazgirt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "42.4162764,39.2310251"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nurettin Höyüğü: Bitlis'in Gizli Ören Yeri

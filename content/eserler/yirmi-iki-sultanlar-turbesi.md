@@ -1,18 +1,17 @@
 ---
-title: "Yirmi İki Sultanlar Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:03+03:00
+title: "Yirmi İki Sultanlar Türbesi"
+date: "2025-12-25T14:53:03+03:00"
 slug: "yirmi-iki-sultanlar-turbesi"
 description: "## Yirmi İki Sultanlar Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4306164,38.6145439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yirmi İki Sultanlar Türbesi

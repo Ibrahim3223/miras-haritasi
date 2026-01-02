@@ -1,18 +1,17 @@
 ---
-title: "Ani Genç Kızlar Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:16+03:00
+title: "Ani Genç Kızlar Kilisesi"
+date: "2025-12-25T09:26:16+03:00"
 slug: "ani-genc-kizlar-kilisesi"
 description: "## Ani Genç Kızlar Kilisesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.5757751,40.5042877"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ani Genç Kızlar Kilisesi

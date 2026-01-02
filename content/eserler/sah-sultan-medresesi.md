@@ -1,18 +1,17 @@
 ---
-title: "Şah Sultan Medresesi | Miras Haritası"
-date: 2025-12-25T17:43:27+03:00
+title: "Şah Sultan Medresesi"
+date: "2025-12-25T17:43:27+03:00"
 slug: "sah-sultan-medresesi"
 description: "## Şah Sultan Medresesi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.935964,41.045036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şah Sultan Medresesi

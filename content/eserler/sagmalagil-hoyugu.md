@@ -1,18 +1,17 @@
 ---
-title: "Sağmalağıl Höyüğü | Miras Haritası"
-date: 2025-12-25T06:17:26+03:00
+title: "Sağmalağıl Höyüğü"
+date: "2025-12-25T06:17:26+03:00"
 slug: "sagmalagil-hoyugu"
 description: "## Sağmalağıl Höyüğü: Kırşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2413968,38.8330972"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sağmalağıl Höyüğü: Kırşehir'in Gizli Cenneti

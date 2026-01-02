@@ -1,18 +1,17 @@
 ---
-title: "Çanakçı Mescidi | Miras Haritası"
-date: 2025-12-24T22:28:59+03:00
+title: "Çanakçı Mescidi"
+date: "2025-12-24T22:28:59+03:00"
 slug: "canakci-mescidi"
 description: "## Çanakçı Mescidi: İzmir'in Gizli Çarığı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7362404,38.0830193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakçı Mescidi: İzmir'in Gizli Çarığı

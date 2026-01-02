@@ -1,18 +1,17 @@
 ---
-title: "Dokuzhöyük Höyükler 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:53:28+03:00
+title: "Dokuzhöyük Höyükler 2 Tümülüsü"
+date: "2025-12-25T07:53:28+03:00"
 slug: "dokuzhoyuk-hoyukler-2-tumulusu"
 description: "## Dokuzhöyük Höyükler 2 Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0643997,41.6462708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokuzhöyük Höyükler 2 Tümülüsü: Kırklareli'nin Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Seyfullah Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:36+03:00
+title: "Şeyh Seyfullah Türbesi"
+date: "2025-12-25T14:54:36+03:00"
 slug: "seyh-seyfullah-turbesi"
 description: "## Şeyh Seyfullah Türbesi: Kayseri'nin Gizli Çehresini Keşfeden Anıt..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4918709,38.725338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Seyfullah Türbesi: Kayseri'nin Gizli Çehresini Keşfeden Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Diyarbakır Meryem Ana Katedrali | Miras Haritası"
-date: 2025-12-25T08:53:47+03:00
+title: "Diyarbakır Meryem Ana Katedrali"
+date: "2025-12-25T08:53:47+03:00"
 slug: "diyarbakir-meryem-ana-katedrali"
 description: "### Diyarbakır Meryem Ana Katedrali: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.22999,37.9087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Diyarbakır Meryem Ana Katedrali: Tarihi ve Kültürel Miras

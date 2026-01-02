@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Yusuf Reyhani Türbesi | Miras Haritası"
-date: 2025-12-25T17:16:13+03:00
+title: "Şeyh Yusuf Reyhani Türbesi"
+date: "2025-12-25T17:16:13+03:00"
 slug: "seyh-yusuf-reyhani-turbesi"
 description: "## Şeyh Yusuf Reyhani Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "34.7516212,36.8118095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Yusuf Reyhani Türbesi

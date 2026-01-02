@@ -1,18 +1,17 @@
 ---
-title: "Mihrişah Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:20+03:00
+title: "Mihrişah Kadın Çeşmesi"
+date: "2025-12-25T10:34:20+03:00"
 slug: "mihrisah-kadin-cesmesi"
 description: "## Mihrişah Kadın Çeşmesi: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mihrişah_Kadın_Fountain_in_August_2025.jpg/1200px-Mihrişah_Kadın_Fountain_in_August_2025.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Müeyyetzade"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.976891,41.026134"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mihrişah Kadın Çeşmesi: Tarihi ve Kültürel Miras

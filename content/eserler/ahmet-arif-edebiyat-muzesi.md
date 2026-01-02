@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Arif Edebiyat Müzesi | Miras Haritası"
-date: 2025-12-25T03:23:33+03:00
+title: "Ahmet Arif Edebiyat Müzesi"
+date: "2025-12-25T03:23:33+03:00"
 slug: "ahmet-arif-edebiyat-muzesi"
 description: "## Ahmet Arif Edebiyat Müzesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.2356,37.9128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Arif Edebiyat Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Girharrin Höyüğü | Miras Haritası"
-date: 2025-12-25T07:04:28+03:00
+title: "Girharrin Höyüğü"
+date: "2025-12-25T07:04:28+03:00"
 slug: "girharrin-hoyugu"
 description: "## Girharrin Höyüğü: Mardin'in Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mardin"
+province: "Mardin"
+iller: '["Mardin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.7842755,37.2254249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Girharrin Höyüğü: Mardin'in Gizli Anıtı

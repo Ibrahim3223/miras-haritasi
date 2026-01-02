@@ -1,18 +1,17 @@
 ---
-title: "Sadri Bey Camii | Miras Haritası"
-date: 2025-12-24T22:37:57+03:00
+title: "Sadri Bey Camii"
+date: "2025-12-24T22:37:57+03:00"
 slug: "sadri-bey-camii"
 description: "### Sadri Bey Camii: Vize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7646236,41.5771637"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sadri Bey Camii: Vize'nin Tarihi Bir Mirası

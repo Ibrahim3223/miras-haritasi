@@ -1,18 +1,17 @@
 ---
-title: "Sivas Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:42:31+03:00
+title: "Sivas Ulu Camii"
+date: "2025-12-24T21:42:31+03:00"
 slug: "sivas-ulu-camii"
 description: "## Sivas Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/035_Ulucami.07.2006_resize.JPG/1200px-035_Ulucami.07.2006_resize.JPG"
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.01758333,39.74713889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sivas Ulu Camii

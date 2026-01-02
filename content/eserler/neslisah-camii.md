@@ -1,18 +1,17 @@
 ---
-title: "Neslişah Camii | Miras Haritası"
-date: 2025-12-24T22:19:30+03:00
+title: "Neslişah Camii"
+date: "2025-12-24T22:19:30+03:00"
 slug: "neslisah-camii"
 description: "### Neslişah Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Neslişah_Camii_14.jpg/1200px-Neslişah_Camii_14.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Karagümrük"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.933154,41.026539"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Neslişah Camii

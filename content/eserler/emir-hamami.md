@@ -1,18 +1,17 @@
 ---
-title: "Emir Hamamı | Miras Haritası"
-date: 2025-12-25T16:30:26+03:00
+title: "Emir Hamamı"
+date: "2025-12-25T16:30:26+03:00"
 slug: "emir-hamami"
 description: "## Emir Hamamı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.7417558,37.3137047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Hamamı

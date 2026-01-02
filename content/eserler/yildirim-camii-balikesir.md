@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Camii (Balıkesir) | Miras Haritası"
-date: 2025-12-24T23:59:19+03:00
+title: "Yıldırım Camii (Balıkesir)"
+date: "2025-12-24T23:59:19+03:00"
 slug: "yildirim-camii-balikesir"
 description: "### Yıldırım Camii: Balıkesir'deki Önemli Bir Cami Mirası..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: ["Marmara Bölgesi"]
+iller: '["Marmara Bölgesi"]'
 district: "Karesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8831234,39.650341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yıldırım Camii: Balıkesir'deki Önemli Bir Cami Mirası

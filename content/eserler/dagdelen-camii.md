@@ -1,18 +1,17 @@
 ---
-title: "Dağdelen Camii | Miras Haritası"
-date: 2025-12-24T22:32:27+03:00
+title: "Dağdelen Camii"
+date: "2025-12-24T22:32:27+03:00"
 slug: "dagdelen-camii"
 description: "## Dağdelen Camii: Safranbolu'nun Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Safranbolu_Dağdelen_Camii_8274.jpg/1200px-Safranbolu_Dağdelen_Camii_8274.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.6964722,41.2458801"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dağdelen Camii: Safranbolu'nun Tarihi Bir Mirası

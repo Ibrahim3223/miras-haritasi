@@ -1,18 +1,17 @@
 ---
-title: "Panionion Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:34:35+03:00
+title: "Panionion Antik Tiyatrosu"
+date: "2025-12-25T08:34:35+03:00"
 slug: "panionion-antik-tiyatrosu"
 description: "## Panionion Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "27.234974,37.712878"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panionion Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Muğla Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:46:15+03:00
+title: "Muğla Ulu Camii"
+date: "2025-12-24T21:46:15+03:00"
 slug: "mugla-ulu-camii"
 description: "### Muğla Ulu Camii..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Muğla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3652532,37.2191076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muğla Ulu Camii

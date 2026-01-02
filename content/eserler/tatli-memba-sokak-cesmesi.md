@@ -1,18 +1,17 @@
 ---
-title: "Tatlı Memba Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:54+03:00
+title: "Tatlı Memba Sokak Çeşmesi"
+date: "2025-12-25T10:12:54+03:00"
 slug: "tatli-memba-sokak-cesmesi"
 description: "## Tatlı Memba Sokak Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tatlı_Memba_Sokak_Çeşmesi_(2).jpg/1200px-Tatlı_Memba_Sokak_Çeşmesi_(2).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9450188,41.0308952"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tatlı Memba Sokak Çeşmesi: İstanbul'un Gizli Çeşmesi

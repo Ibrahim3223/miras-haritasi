@@ -1,18 +1,17 @@
 ---
-title: "San Pacifico Latin Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:20:10+03:00
+title: "San Pacifico Latin Katolik Kilisesi"
+date: "2025-12-25T09:20:10+03:00"
 slug: "san-pacifico-latin-katolik-kilisesi"
 description: "## San Pacifico Latin Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1277485,40.8721581"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## San Pacifico Latin Katolik Kilisesi

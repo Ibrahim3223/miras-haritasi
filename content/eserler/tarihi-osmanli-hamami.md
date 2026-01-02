@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Osmanlı Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:50+03:00
+title: "Tarihi Osmanlı Hamamı"
+date: "2025-12-25T17:02:50+03:00"
 slug: "tarihi-osmanli-hamami"
 description: "## Tarihi Osmanlı Hamamı..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.1462822,40.9050331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Osmanlı Hamamı

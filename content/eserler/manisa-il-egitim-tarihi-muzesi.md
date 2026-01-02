@@ -1,18 +1,17 @@
 ---
-title: "Manisa İl Eğitim Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:11+03:00
+title: "Manisa İl Eğitim Tarihi Müzesi"
+date: "2025-12-25T03:50:11+03:00"
 slug: "manisa-il-egitim-tarihi-muzesi"
 description: "### Manisa İl Eğitim Tarihi Müzesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4352112,38.6175652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Manisa İl Eğitim Tarihi Müzesi

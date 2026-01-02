@@ -1,18 +1,17 @@
 ---
-title: "Altınkoza Sanat Galerisi ve Tarihi Eski Kız Lisesi | Miras Haritası"
-date: 2025-12-25T03:56:01+03:00
+title: "Altınkoza Sanat Galerisi ve Tarihi Eski Kız Lisesi"
+date: "2025-12-25T03:56:01+03:00"
 slug: "altinkoza-sanat-galerisi-ve-tarihi-eski-kiz-lisesi"
 description: "# Altınkoza Sanat Galerisi ve Tarihi Eski Kız Lisesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.3336258,36.9844704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Altınkoza Sanat Galerisi ve Tarihi Eski Kız Lisesi

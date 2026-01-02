@@ -1,18 +1,17 @@
 ---
-title: "Kale Manastırı Kilisesi | Miras Haritası"
-date: 2025-12-25T08:44:46+03:00
+title: "Kale Manastırı Kilisesi"
+date: "2025-12-25T08:44:46+03:00"
 slug: "kale-manastiri-kilisesi"
 description: "## Kale Manastırı Kilisesi: Tarih, Mimari ve Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Manastırı Kilisesi: Tarih, Mimari ve Miras

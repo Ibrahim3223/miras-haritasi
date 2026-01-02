@@ -1,18 +1,17 @@
 ---
-title: "Leukai | Miras Haritası"
-date: 2025-12-25T06:54:18+03:00
+title: "Leukai"
+date: "2025-12-25T06:54:18+03:00"
 slug: "leukai"
 description: "### Leukai Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.85488,38.55937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Leukai Arkeolojik Sit

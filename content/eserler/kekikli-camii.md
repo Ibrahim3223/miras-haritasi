@@ -1,18 +1,17 @@
 ---
-title: "Kekikli Camii | Miras Haritası"
-date: 2025-12-25T00:55:15+03:00
+title: "Kekikli Camii"
+date: "2025-12-25T00:55:15+03:00"
 slug: "kekikli-camii"
 description: "## Kekikli Camii..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.316667,37.816667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kekikli Camii

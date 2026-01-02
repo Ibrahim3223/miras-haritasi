@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Kalabaklı | Miras Haritası"
-date: 2025-12-25T12:57:33+03:00
+title: "Çeşme, Kalabaklı"
+date: "2025-12-25T12:57:33+03:00"
 slug: "cesme-kalabakli"
 description: "### Çanakkale'nin Gizli Çeşmesi: Kalabaklı Çeşme..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.418731051,40.083978938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çanakkale'nin Gizli Çeşmesi: Kalabaklı Çeşme

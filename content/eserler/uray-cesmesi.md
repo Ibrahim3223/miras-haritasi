@@ -1,18 +1,17 @@
 ---
-title: "Uray Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:56:36+03:00
+title: "Uray Çeşmesi"
+date: "2025-12-25T12:56:36+03:00"
 slug: "uray-cesmesi"
 description: "## Uray Çeşmesi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1527996,38.4160995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uray Çeşmesi: İzmir'in Tarihi ve Kültürel Mirası

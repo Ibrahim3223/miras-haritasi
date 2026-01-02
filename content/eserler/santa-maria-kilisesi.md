@@ -1,18 +1,17 @@
 ---
-title: "Santa Maria Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:30+03:00
+title: "Santa Maria Kilisesi"
+date: "2025-12-25T09:39:30+03:00"
 slug: "santa-maria-kilisesi"
 description: "## Santa Maria Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Santa_Maria_Kilisesi_-2.jpg/1200px-Santa_Maria_Kilisesi_-2.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.2198181,38.4658432"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Santa Maria Kilisesi

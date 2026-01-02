@@ -1,18 +1,17 @@
 ---
-title: "Karabiga Ulu Camii | Miras Haritası"
-date: 2025-12-25T00:12:20+03:00
+title: "Karabiga Ulu Camii"
+date: "2025-12-25T00:12:20+03:00"
 slug: "karabiga-ulu-camii"
 description: "## Biga Ulu Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2975712,40.4033813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Biga Ulu Camii: Tarihi ve Kültürel Mirasımız

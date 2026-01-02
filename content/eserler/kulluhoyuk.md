@@ -1,18 +1,17 @@
 ---
-title: "Küllühöyük | Miras Haritası"
-date: 2025-12-25T05:31:40+03:00
+title: "Küllühöyük"
+date: "2025-12-25T05:31:40+03:00"
 slug: "kulluhoyuk"
 description: "### Küllühöyük: Eskişehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.678567,39.455717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küllühöyük: Eskişehir'in Gizli Kahramanı

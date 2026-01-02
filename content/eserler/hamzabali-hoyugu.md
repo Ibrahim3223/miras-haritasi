@@ -1,18 +1,17 @@
 ---
-title: "Hamzabali Höyüğü | Miras Haritası"
-date: 2025-12-25T13:43:55+03:00
+title: "Hamzabali Höyüğü"
+date: "2025-12-25T13:43:55+03:00"
 slug: "hamzabali-hoyugu"
 description: "**Hamzabali Höyüğü: Aydın'ın Gizli Anıtı**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.112795,37.805999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hamzabali Höyüğü: Aydın'ın Gizli Anıtı**

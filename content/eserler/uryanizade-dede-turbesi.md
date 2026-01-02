@@ -1,18 +1,17 @@
 ---
-title: "Uryanizade Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:51+03:00
+title: "Uryanizade Dede Türbesi"
+date: "2025-12-25T14:54:51+03:00"
 slug: "uryanizade-dede-turbesi"
 description: "**Uryanizade Dede Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9563274,41.0124893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Uryanizade Dede Türbesi**

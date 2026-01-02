@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Iğırbığır Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:39+03:00
+title: "Aşağı Iğırbığır Kalesi"
+date: "2025-12-25T01:37:39+03:00"
 slug: "asagi-igirbigir-kalesi"
 description: "# Aşağı Iğırbığır Kalesi: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Horasan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.5082512,39.9912605"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aşağı Iğırbığır Kalesi: Tarihi ve Kültürel Mirası

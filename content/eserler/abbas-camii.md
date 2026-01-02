@@ -1,18 +1,17 @@
 ---
-title: "Abbas Camii | Miras Haritası"
-date: 2025-12-24T23:55:03+03:00
+title: "Abbas Camii"
+date: "2025-12-24T23:55:03+03:00"
 slug: "abbas-camii"
 description: "### Abbas Camii: Buldan'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Buldan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8262787,38.0453186"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abbas Camii: Buldan'ın Tarihi ve Kültürel Mirası

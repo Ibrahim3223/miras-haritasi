@@ -1,18 +1,17 @@
 ---
-title: "Esiri Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:31+03:00
+title: "Esiri Baba Türbesi"
+date: "2025-12-25T14:26:31+03:00"
 slug: "esiri-baba-turbesi"
 description: "## Esiri Baba Türbesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.91742,38.913447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esiri Baba Türbesi

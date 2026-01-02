@@ -1,18 +1,17 @@
 ---
-title: "Kadı Aralığı Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:04:59+03:00
+title: "Kadı Aralığı Çeşmesi, Bergama"
+date: "2025-12-25T12:04:59+03:00"
 slug: "kadi-araligi-cesmesi-bergama"
 description: "## Kadı Aralığı Çeşmesi: Bergama'nın Eski Ahit'indeki Kutsal Suyu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1825752,39.1240425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Aralığı Çeşmesi: Bergama'nın Eski Ahit'indeki Kutsal Suyu

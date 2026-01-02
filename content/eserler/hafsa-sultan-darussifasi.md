@@ -1,18 +1,17 @@
 ---
-title: "Hafsa Sultan Darüşşifası | Miras Haritası"
-date: 2025-12-25T17:36:24+03:00
+title: "Hafsa Sultan Darüşşifası"
+date: "2025-12-25T17:36:24+03:00"
 slug: "hafsa-sultan-darussifasi"
 description: "## Hafsa Sultan Darüşşifası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.4262886,38.6111259"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafsa Sultan Darüşşifası

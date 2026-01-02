@@ -1,18 +1,17 @@
 ---
-title: "Pamukçular Köprüsü | Miras Haritası"
-date: 2025-12-25T03:03:08+03:00
+title: "Pamukçular Köprüsü"
+date: "2025-12-25T03:03:08+03:00"
 slug: "pamukcular-koprusu"
 description: "## Pamukçular Köprüsü: Bir Geçit Zamanları Köprüsü..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.1083488,38.399971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pamukçular Köprüsü: Bir Geçit Zamanları Köprüsü

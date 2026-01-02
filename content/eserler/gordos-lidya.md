@@ -1,18 +1,17 @@
 ---
-title: "Gordos (Lidya) | Miras Haritası"
-date: 2025-12-25T04:40:47+03:00
+title: "Gordos (Lidya)"
+date: "2025-12-25T04:40:47+03:00"
 slug: "gordos-lidya"
 description: "## Gordos (Lidya)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.31421,38.876702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gordos (Lidya)

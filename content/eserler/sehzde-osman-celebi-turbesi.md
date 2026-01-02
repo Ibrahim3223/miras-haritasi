@@ -1,18 +1,17 @@
 ---
-title: "Şehzâde Osman Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:21+03:00
+title: "Şehzâde Osman Çelebi Türbesi"
+date: "2025-12-25T14:42:21+03:00"
 slug: "sehzde-osman-celebi-turbesi"
 description: "### Şehzâde Osman Çelebi Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8273277,40.6501808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şehzâde Osman Çelebi Türbesi

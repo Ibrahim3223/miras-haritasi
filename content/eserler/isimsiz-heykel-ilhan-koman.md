@@ -1,18 +1,17 @@
 ---
-title: "İsimsiz Heykel, İlhan Koman | Miras Haritası"
-date: 2025-12-25T15:46:01+03:00
+title: "İsimsiz Heykel, İlhan Koman"
+date: "2025-12-25T15:46:01+03:00"
 slug: "isimsiz-heykel-ilhan-koman"
 description: "## İlhan Koman'ın İsimsiz Heykeli: Ankara'nın Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8633804,39.8967705"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlhan Koman'ın İsimsiz Heykeli: Ankara'nın Kültür Mirası

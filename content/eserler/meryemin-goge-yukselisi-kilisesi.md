@@ -1,18 +1,17 @@
 ---
-title: "Meryem’in Göğe Yükselişi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:51+03:00
+title: "Meryem’in Göğe Yükselişi Kilisesi"
+date: "2025-12-25T09:33:51+03:00"
 slug: "meryemin-goge-yukselisi-kilisesi"
 description: "### Meryem’in Göğe Yükselişi Kilisesi Tanıtımı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Manyas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.8432236,40.1544342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Meryem’in Göğe Yükselişi Kilisesi Tanıtımı

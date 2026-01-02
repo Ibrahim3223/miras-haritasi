@@ -1,18 +1,17 @@
 ---
-title: "Esen Mahallesi Kaya Mezarı, Vezirköprü | Miras Haritası"
-date: 2025-12-25T13:19:55+03:00
+title: "Esen Mahallesi Kaya Mezarı, Vezirköprü"
+date: "2025-12-25T13:19:55+03:00"
 slug: "esen-mahallesi-kaya-mezari-vezirkopru"
 description: "## Esen Mahallesi Kaya Mezarı, Vezirköprü..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Vezirköprü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.329235,41.104167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esen Mahallesi Kaya Mezarı, Vezirköprü

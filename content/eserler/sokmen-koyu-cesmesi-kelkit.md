@@ -1,18 +1,17 @@
 ---
-title: "Sökmen Köyü Çeşmesi Kelkit | Miras Haritası"
-date: 2025-12-25T10:13:22+03:00
+title: "Sökmen Köyü Çeşmesi Kelkit"
+date: "2025-12-25T10:13:22+03:00"
 slug: "sokmen-koyu-cesmesi-kelkit"
 description: "## Sökmen Köyü Çeşmesi Kelkit: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kelkit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.6310959,40.0563812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sökmen Köyü Çeşmesi Kelkit: Tarihi ve Kültürel Mirasın Gizemi

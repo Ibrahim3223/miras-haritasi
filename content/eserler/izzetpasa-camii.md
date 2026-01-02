@@ -1,18 +1,17 @@
 ---
-title: "İzzetpaşa Camii | Miras Haritası"
-date: 2025-12-25T01:03:54+03:00
+title: "İzzetpaşa Camii"
+date: "2025-12-25T01:03:54+03:00"
 slug: "izzetpasa-camii"
 description: "## İzzetpaşa Camii: Şişli'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Entrance_of_İzzetpaşa_Mosque,_Şişli.jpg/1200px-Entrance_of_İzzetpaşa_Mosque,_Şişli.jpg"
-province: "Şişli"
-iller: ["Şişli"]
-district: "İzzet Paşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Şişli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.987397156,41.070036969"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İzzetpaşa Camii: Şişli'nin Tarihi ve Kültürel Mirasının Bir Parçası

@@ -1,18 +1,17 @@
 ---
-title: "Alexandria Troas Herodes Atticus Hamamı | Miras Haritası"
-date: 2025-12-25T16:42:28+03:00
+title: "Alexandria Troas Herodes Atticus Hamamı"
+date: "2025-12-25T16:42:28+03:00"
 slug: "alexandria-troas-herodes-atticus-hamami"
 description: "# Alexandria Troas Herodes Atticus Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hamamm.jpg/1200px-Hamamm.jpg"
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.1666222,39.7511559"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Alexandria Troas Herodes Atticus Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Arapzade Camii | Miras Haritası"
-date: 2025-12-24T22:13:31+03:00
+title: "Arapzade Camii"
+date: "2025-12-24T22:13:31+03:00"
 slug: "arapzade-camii"
 description: "# Arapzade Camii: Tavşanlı'nın Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Tavşanlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4912071,39.5455742"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arapzade Camii: Tavşanlı'nın Değerli Kültürel Mirası

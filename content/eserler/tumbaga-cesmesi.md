@@ -1,18 +1,17 @@
 ---
-title: "Tumbağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:28:25+03:00
+title: "Tumbağa Çeşmesi"
+date: "2025-12-25T12:28:25+03:00"
 slug: "tumbaga-cesmesi"
 description: "# Tumbağa Çeşmesi: Mardin'in Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.741676,37.314478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tumbağa Çeşmesi: Mardin'in Tarihi ve Kültürel Bir Mirası

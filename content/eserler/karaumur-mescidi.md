@@ -1,18 +1,17 @@
 ---
-title: "Karaumur Mescidi | Miras Haritası"
-date: 2025-12-25T01:10:33+03:00
+title: "Karaumur Mescidi"
+date: "2025-12-25T01:10:33+03:00"
 slug: "karaumur-mescidi"
 description: "## Karaumur Mescidi: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.219520328,41.737947524"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaumur Mescidi: Kırklareli'nin Gizli Cenneti

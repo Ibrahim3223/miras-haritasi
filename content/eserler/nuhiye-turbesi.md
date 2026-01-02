@@ -1,18 +1,17 @@
 ---
-title: "Nuhiye Türbesi | Miras Haritası"
-date: 2025-12-25T14:01:03+03:00
+title: "Nuhiye Türbesi"
+date: "2025-12-25T14:01:03+03:00"
 slug: "nuhiye-turbesi"
 description: "## Nuhiye Türbesi: Bitlis'in Gizli Şehri..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.1098862,38.39571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nuhiye Türbesi: Bitlis'in Gizli Şehri

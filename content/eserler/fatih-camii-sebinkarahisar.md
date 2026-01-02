@@ -1,18 +1,17 @@
 ---
-title: "Fatih Camii, Şebinkarahisar | Miras Haritası"
-date: 2025-12-25T00:09:56+03:00
+title: "Fatih Camii, Şebinkarahisar"
+date: "2025-12-25T00:09:56+03:00"
 slug: "fatih-camii-sebinkarahisar"
 description: "## Fatih Camii: Şebinkarahisar'ın Gizli Çehresi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.4247138,40.2858409"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Camii: Şebinkarahisar'ın Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Hüyücek Tepe | Miras Haritası"
-date: 2025-12-25T05:29:01+03:00
+title: "Hüyücek Tepe"
+date: "2025-12-25T05:29:01+03:00"
 slug: "huyucek-tepe"
 description: "## Hüyücek Tepe: Burhaniye'nin Gizli Mirası..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: ["Burhaniye (ilçe)"]
+iller: '["Burhaniye (ilçe)"]'
 district: "Burhaniye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.97405,39.525167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüyücek Tepe: Burhaniye'nin Gizli Mirası

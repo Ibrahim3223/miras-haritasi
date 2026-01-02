@@ -1,18 +1,17 @@
 ---
-title: "Parlais | Miras Haritası"
-date: 2025-12-25T06:55:57+03:00
+title: "Parlais"
+date: "2025-12-25T06:55:57+03:00"
 slug: "parlais"
 description: "## Parlais Arkeolojik Sit: Isparta'nın Gizli Çarpıntısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Isparta"
+province: "Isparta"
+iller: '["Isparta"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.783333,38.016667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parlais Arkeolojik Sit: Isparta'nın Gizli Çarpıntısı

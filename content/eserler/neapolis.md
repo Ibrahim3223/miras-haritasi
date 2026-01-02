@@ -1,18 +1,17 @@
 ---
-title: "Neapolis | Miras Haritası"
-date: 2025-12-25T05:02:48+03:00
+title: "Neapolis"
+date: "2025-12-25T05:02:48+03:00"
 slug: "neapolis"
 description: "### Neapolis: İstanbul'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.059723,41.12194"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Neapolis: İstanbul'un Gizli Tarihi

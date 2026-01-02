@@ -1,18 +1,17 @@
 ---
-title: "Kıztaşı | Miras Haritası"
-date: 2025-12-25T13:19:31+03:00
+title: "Kıztaşı"
+date: "2025-12-25T13:19:31+03:00"
 slug: "kiztasi"
 description: "### Kıztaşı: İstanbul'un Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ColumnOfMarcianInIstanbulApril2007.jpg/1200px-ColumnOfMarcianInIstanbulApril2007.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9502,41.0155"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kıztaşı: İstanbul'un Gizli Anıtı

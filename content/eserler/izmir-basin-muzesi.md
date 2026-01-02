@@ -1,18 +1,17 @@
 ---
-title: "İzmir Basın Müzesi | Miras Haritası"
-date: 2025-12-25T03:59:19+03:00
+title: "İzmir Basın Müzesi"
+date: "2025-12-25T03:59:19+03:00"
 slug: "izmir-basin-muzesi"
 description: "# İzmir Basın Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/İzmir_mətbuat_muzeyi_(1).jpg/1200px-İzmir_mətbuat_muzeyi_(1).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.1473351,38.4213753"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # İzmir Basın Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Piri Halife Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:43+03:00
+title: "Piri Halife Sultan Türbesi"
+date: "2025-12-25T14:19:43+03:00"
 slug: "piri-halife-sultan-turbesi"
 description: "**Piri Halife Sultan Türbesi**..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.8355,37.8727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Piri Halife Sultan Türbesi**

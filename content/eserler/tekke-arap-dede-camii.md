@@ -1,18 +1,17 @@
 ---
-title: "Tekke Arap Dede Camii | Miras Haritası"
-date: 2025-12-24T23:15:30+03:00
+title: "Tekke Arap Dede Camii"
+date: "2025-12-24T23:15:30+03:00"
 slug: "tekke-arap-dede-camii"
 description: "## Tekke Arap Dede Camii..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8066177,39.817337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekke Arap Dede Camii

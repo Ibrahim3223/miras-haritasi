@@ -1,18 +1,17 @@
 ---
-title: "Mezartepesi | Miras Haritası"
-date: 2025-12-25T06:25:15+03:00
+title: "Mezartepesi"
+date: "2025-12-25T06:25:15+03:00"
 slug: "mezartepesi"
 description: "### Mezartepesi: Tokat'taki Antik Bir Miras..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.6068561,40.2074953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mezartepesi: Tokat'taki Antik Bir Miras

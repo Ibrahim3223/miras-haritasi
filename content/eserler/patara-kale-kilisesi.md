@@ -1,18 +1,17 @@
 ---
-title: "Patara Kale Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:16+03:00
+title: "Patara Kale Kilisesi"
+date: "2025-12-25T09:36:16+03:00"
 slug: "patara-kale-kilisesi"
 description: "### Patara Kale Kilisesi: Antikçağın Gizemi Kaş'ta..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.3134651,36.2636147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Patara Kale Kilisesi: Antikçağın Gizemi Kaş'ta

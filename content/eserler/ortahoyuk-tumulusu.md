@@ -1,18 +1,17 @@
 ---
-title: "Ortahöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:44:35+03:00
+title: "Ortahöyük Tümülüsü"
+date: "2025-12-25T07:44:35+03:00"
 slug: "ortahoyuk-tumulusu"
 description: "## Ortahöyük Tümülüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Hayrabolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1530056,41.1979446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortahöyük Tümülüsü

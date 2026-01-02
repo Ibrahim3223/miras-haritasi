@@ -1,18 +1,17 @@
 ---
-title: "Çamlıdere Terazi Müzesi | Miras Haritası"
-date: 2025-12-25T03:45:49+03:00
+title: "Çamlıdere Terazi Müzesi"
+date: "2025-12-25T03:45:49+03:00"
 slug: "camlidere-terazi-muzesi"
 description: "# Çamlıdere Terazi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çamlıdere"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.4756889,40.4904442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çamlıdere Terazi Müzesi

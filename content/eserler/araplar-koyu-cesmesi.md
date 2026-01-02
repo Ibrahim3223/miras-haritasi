@@ -1,18 +1,17 @@
 ---
-title: "Araplar Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:57:40+03:00
+title: "Araplar Köyü Çeşmesi"
+date: "2025-12-25T12:57:40+03:00"
 slug: "araplar-koyu-cesmesi"
 description: "## Araplar Köyü Çeşmesi: Mamak'taki Bir Örnek..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.9530029,39.929512"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Araplar Köyü Çeşmesi: Mamak'taki Bir Örnek

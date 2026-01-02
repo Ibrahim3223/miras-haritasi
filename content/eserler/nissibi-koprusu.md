@@ -1,18 +1,17 @@
 ---
-title: "Nissibi Köprüsü | Miras Haritası"
-date: 2025-12-25T03:04:28+03:00
+title: "Nissibi Köprüsü"
+date: "2025-12-25T03:04:28+03:00"
 slug: "nissibi-koprusu"
 description: "### Nissibi Köprüsü..."
 featured_image: ""
 province: "Gaziantep alt bölgesi"
-iller: ["Gaziantep alt bölgesi"]
+iller: '["Gaziantep alt bölgesi"]'
 district: "Gerger"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.974444444,37.898888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nissibi Köprüsü

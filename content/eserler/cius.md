@@ -1,18 +1,17 @@
 ---
-title: "Cius | Miras Haritası"
-date: 2025-12-25T08:06:56+03:00
+title: "Cius"
+date: "2025-12-25T08:06:56+03:00"
 slug: "cius"
 description: "### Cius Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.156389,40.432468"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cius Arkeolojik Sit

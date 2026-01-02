@@ -1,18 +1,17 @@
 ---
-title: "Hüseyindede Höyüğü | Miras Haritası"
-date: 2025-12-25T07:12:29+03:00
+title: "Hüseyindede Höyüğü"
+date: "2025-12-25T07:12:29+03:00"
 slug: "huseyindede-hoyugu"
 description: "### Hüseyindede Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2328,40.287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hüseyindede Höyüğü

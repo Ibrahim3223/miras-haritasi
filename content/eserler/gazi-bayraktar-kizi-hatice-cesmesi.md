@@ -1,18 +1,17 @@
 ---
-title: "Gazi Bayraktar Kızı Hatice Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:04:45+03:00
+title: "Gazi Bayraktar Kızı Hatice Çeşmesi"
+date: "2025-12-25T10:04:45+03:00"
 slug: "gazi-bayraktar-kizi-hatice-cesmesi"
 description: "## Gazi Bayraktar Kızı Hatice Çeşmesi: Bergama'nın Tarihi ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/305.45-Cam-i_Kebir_Caddesi_Çeşmesi-1839_01.jpg/1200px-305.45-Cam-i_Kebir_Caddesi_Çeşmesi-1839_01.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.18053333,39.12388056"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gazi Bayraktar Kızı Hatice Çeşmesi: Bergama'nın Tarihi ve Kültür Mirası

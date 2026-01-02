@@ -1,18 +1,17 @@
 ---
-title: "Zarzela | Miras Haritası"
-date: 2025-12-25T04:42:26+03:00
+title: "Zarzela"
+date: "2025-12-25T04:42:26+03:00"
 slug: "zarzela"
 description: "## Zarzela Arkeolojik Sit..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Sütçüler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.2029724,37.4513817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zarzela Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Kuru Çeşme | Miras Haritası"
-date: 2025-12-25T10:19:52+03:00
+title: "Kuru Çeşme"
+date: "2025-12-25T10:19:52+03:00"
 slug: "kuru-cesme"
 description: "## Kuru Çeşme..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.253933,38.2823029"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuru Çeşme

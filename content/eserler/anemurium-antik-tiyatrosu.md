@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:12:58+03:00
+title: "Anemurium Antik Tiyatrosu"
+date: "2025-12-25T04:12:58+03:00"
 slug: "anemurium-antik-tiyatrosu"
 description: "### Anemurium Antik Tiyatrosu..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8019447,36.0225868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Anemurium Antik Tiyatrosu

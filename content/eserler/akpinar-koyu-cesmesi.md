@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:23:43+03:00
+title: "Akpınar Köyü Çeşmesi"
+date: "2025-12-25T12:23:43+03:00"
 slug: "akpinar-koyu-cesmesi"
 description: "## Akpınar Köyü Çeşmesi: Biga'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.204342863,40.229968054"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akpınar Köyü Çeşmesi: Biga'nın Tarihi Bir Çeşmesi

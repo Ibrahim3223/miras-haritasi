@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ziya Bey Camii | Miras Haritası"
-date: 2025-12-24T21:41:41+03:00
+title: "Hacı Ziya Bey Camii"
+date: "2025-12-24T21:41:41+03:00"
 slug: "haci-ziya-bey-camii"
 description: "## Hacı Ziya Bey Camii: Aydın'ın Tarihi Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.405916666,37.75125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ziya Bey Camii: Aydın'ın Tarihi Mirası

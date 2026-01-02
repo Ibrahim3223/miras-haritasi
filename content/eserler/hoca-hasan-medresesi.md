@@ -1,18 +1,17 @@
 ---
-title: "Hoca Hasan Medresesi | Miras Haritası"
-date: 2025-12-25T17:33:27+03:00
+title: "Hoca Hasan Medresesi"
+date: "2025-12-25T17:33:27+03:00"
 slug: "hoca-hasan-medresesi"
 description: "## Hoca Hasan Medresesi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.4815178,38.7215958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Hasan Medresesi: Kayseri'nin Tarihi ve Kültürel Mirası

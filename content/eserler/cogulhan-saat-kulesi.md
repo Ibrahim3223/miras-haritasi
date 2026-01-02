@@ -1,18 +1,17 @@
 ---
-title: "Çoğulhan Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:34+03:00
+title: "Çoğulhan Saat Kulesi"
+date: "2025-12-25T17:21:34+03:00"
 slug: "cogulhan-saat-kulesi"
 description: "## Çoğulhan Saat Kulesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "37.0173721,38.3424339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoğulhan Saat Kulesi

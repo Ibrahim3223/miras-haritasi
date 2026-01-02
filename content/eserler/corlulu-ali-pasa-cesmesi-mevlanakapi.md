@@ -1,18 +1,17 @@
 ---
-title: "Çorlulu Ali Paşa Çeşmesi, Mevlanakapı | Miras Haritası"
-date: 2025-12-25T11:53:15+03:00
+title: "Çorlulu Ali Paşa Çeşmesi, Mevlanakapı"
+date: "2025-12-25T11:53:15+03:00"
 slug: "corlulu-ali-pasa-cesmesi-mevlanakapi"
 description: "# Çorlulu Ali Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.924864,41.012062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çorlulu Ali Paşa Çeşmesi

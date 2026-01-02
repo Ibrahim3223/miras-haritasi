@@ -1,18 +1,17 @@
 ---
-title: "Kamışça Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:23:04+03:00
+title: "Kamışça Tümülüsü"
+date: "2025-12-25T07:23:04+03:00"
 slug: "kamisca-tumulusu"
 description: "### Kamışça Tümülüsü: Malkara'nın Gizli Mirası..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: ["İstanbul Vilayeti"]
+iller: '["İstanbul Vilayeti"]'
 district: "Malkara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7357922,40.9932289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kamışça Tümülüsü: Malkara'nın Gizli Mirası

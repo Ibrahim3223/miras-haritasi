@@ -1,18 +1,17 @@
 ---
-title: "Övündü Köyü Kalesi | Miras Haritası"
-date: 2025-12-25T01:27:18+03:00
+title: "Övündü Köyü Kalesi"
+date: "2025-12-25T01:27:18+03:00"
 slug: "ovundu-koyu-kalesi"
 description: "### Övündü Köyü Kalesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.3377991,40.5245628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Övündü Köyü Kalesi

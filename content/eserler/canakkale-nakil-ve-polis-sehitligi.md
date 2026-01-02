@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Nakil ve Polis Şehitliği | Miras Haritası"
-date: 2025-12-25T15:56:41+03:00
+title: "Çanakkale Nakil ve Polis Şehitliği"
+date: "2025-12-25T15:56:41+03:00"
 slug: "canakkale-nakil-ve-polis-sehitligi"
 description: "## Çanakkale Nakil ve Polis Şehitliği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9263821,41.0304642"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale Nakil ve Polis Şehitliği

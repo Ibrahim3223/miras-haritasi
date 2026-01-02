@@ -1,18 +1,17 @@
 ---
-title: "Cihangir Camii Avlusundaki Çeşme | Miras Haritası"
-date: 2025-12-25T11:18:08+03:00
+title: "Cihangir Camii Avlusundaki Çeşme"
+date: "2025-12-25T11:18:08+03:00"
 slug: "cihangir-camii-avlusundaki-cesme"
 description: "## Cihangir Camii Avlusundaki Çeşme..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Cihangir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.987286,41.030275"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cihangir Camii Avlusundaki Çeşme

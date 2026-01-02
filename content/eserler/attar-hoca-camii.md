@@ -1,18 +1,17 @@
 ---
-title: "Attar Hoca Camii | Miras Haritası"
-date: 2025-12-24T22:15:28+03:00
+title: "Attar Hoca Camii"
+date: "2025-12-24T22:15:28+03:00"
 slug: "attar-hoca-camii"
 description: "## Attar Hoca Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4205437,38.6086617"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Attar Hoca Camii

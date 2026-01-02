@@ -1,18 +1,17 @@
 ---
-title: "Bağarcık Yukarı Yerleşme | Miras Haritası"
-date: 2025-12-25T05:43:27+03:00
+title: "Bağarcık Yukarı Yerleşme"
+date: "2025-12-25T05:43:27+03:00"
 slug: "bagarcik-yukari-yerlesme"
 description: "## Bağarcık Yukarı Yerleşme: Aydın'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6193466,37.539505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağarcık Yukarı Yerleşme: Aydın'ın Gizli Mücevheri

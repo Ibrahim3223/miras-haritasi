@@ -1,18 +1,17 @@
 ---
-title: "İlyas Bey Camii | Miras Haritası"
-date: 2025-12-24T21:50:32+03:00
+title: "İlyas Bey Camii"
+date: "2025-12-24T21:50:32+03:00"
 slug: "ilyas-bey-camii"
 description: "### İlyas Bey Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mosque_Ilyas_Bey_exterior.JPG/1200px-Mosque_Ilyas_Bey_exterior.JPG"
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.277861111,37.526416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İlyas Bey Camii Tanıtımı

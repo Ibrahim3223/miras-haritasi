@@ -1,18 +1,17 @@
 ---
-title: "Sülüklü Höyük | Miras Haritası"
-date: 2025-12-25T06:12:44+03:00
+title: "Sülüklü Höyük"
+date: "2025-12-25T06:12:44+03:00"
 slug: "suluklu-hoyuk"
 description: "## Sülüklü Höyük: Çorum'un Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.3300171,40.5844269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sülüklü Höyük: Çorum'un Gizemli Arkeolojik Sitleri

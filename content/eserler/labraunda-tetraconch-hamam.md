@@ -1,18 +1,17 @@
 ---
-title: "Labraunda Tetraconch Hamam | Miras Haritası"
-date: 2025-12-25T16:49:41+03:00
+title: "Labraunda Tetraconch Hamam"
+date: "2025-12-25T16:49:41+03:00"
 slug: "labraunda-tetraconch-hamam"
 description: "## Labraunda Tetraconch Hamam..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.819088,37.418293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Labraunda Tetraconch Hamam

@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Baltacı Fotoğraf Müzesi | Miras Haritası"
-date: 2025-12-25T03:59:23+03:00
+title: "Mehmet Baltacı Fotoğraf Müzesi"
+date: "2025-12-25T03:59:23+03:00"
 slug: "mehmet-baltaci-fotograf-muzesi"
 description: "## Mehmet Baltacı Fotoğraf Müzesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.332839,36.98206"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Baltacı Fotoğraf Müzesi

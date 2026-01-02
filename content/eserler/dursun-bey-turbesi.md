@@ -1,18 +1,17 @@
 ---
-title: "Dursun Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:21+03:00
+title: "Dursun Bey Türbesi"
+date: "2025-12-25T14:43:21+03:00"
 slug: "dursun-bey-turbesi"
 description: "## Dursun Bey Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1868286,39.1202049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dursun Bey Türbesi

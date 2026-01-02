@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:46:48+03:00
+title: "Eskişehir İl Halk Kütüphanesi"
+date: "2025-12-25T17:46:48+03:00"
 slug: "eskisehir-il-halk-kutuphanesi"
 description: "## Eskişehir İl Halk Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir İl Halk Kütüphanesi

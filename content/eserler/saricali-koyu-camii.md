@@ -1,18 +1,17 @@
 ---
-title: "Sarıcali Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:42:17+03:00
+title: "Sarıcali Köyü Camii"
+date: "2025-12-24T22:42:17+03:00"
 slug: "saricali-koyu-camii"
 description: "## Sarıcalı Köyü Camii: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "İpsala"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3817997,40.9848747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıcalı Köyü Camii: Edirne'nin Tarihi Bir Mirası

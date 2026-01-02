@@ -1,18 +1,17 @@
 ---
-title: "Karatepe Höyük | Miras Haritası"
-date: 2025-12-25T06:46:02+03:00
+title: "Karatepe Höyük"
+date: "2025-12-25T06:46:02+03:00"
 slug: "karatepe-hoyuk"
 description: "# Karatepe Höyük: Tarihî ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.3587232,36.3466378"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karatepe Höyük: Tarihî ve Kültürel Mirasımız

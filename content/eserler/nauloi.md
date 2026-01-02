@@ -1,18 +1,17 @@
 ---
-title: "Nauloi | Miras Haritası"
-date: 2025-12-25T05:08:49+03:00
+title: "Nauloi"
+date: "2025-12-25T05:08:49+03:00"
 slug: "nauloi"
 description: "# Nauloi Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.11682,36.47496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Nauloi Arkeolojik Sitleri

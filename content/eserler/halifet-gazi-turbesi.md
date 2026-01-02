@@ -1,18 +1,17 @@
 ---
-title: "Halifet Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T13:54:12+03:00
+title: "Halifet Gazi Türbesi"
+date: "2025-12-25T13:54:12+03:00"
 slug: "halifet-gazi-turbesi"
 description: "### Halifet Gazi Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.823185,40.649353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halifet Gazi Türbesi

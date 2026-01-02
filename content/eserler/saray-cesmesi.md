@@ -1,18 +1,17 @@
 ---
-title: "Saray Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:07:21+03:00
+title: "Saray Çeşmesi"
+date: "2025-12-25T12:07:21+03:00"
 slug: "saray-cesmesi"
 description: "## Saray Çeşmesi: Küçükçekmece'nin Tarihî Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.7957134,41.0354271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saray Çeşmesi: Küçükçekmece'nin Tarihî Çeşmesi

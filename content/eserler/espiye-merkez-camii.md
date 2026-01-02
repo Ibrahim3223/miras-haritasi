@@ -1,18 +1,17 @@
 ---
-title: "Espiye Merkez Camii | Miras Haritası"
-date: 2025-12-24T23:01:17+03:00
+title: "Espiye Merkez Camii"
+date: "2025-12-24T23:01:17+03:00"
 slug: "espiye-merkez-camii"
 description: "# Espiye Merkez Camii..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Espiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7077065,40.949295"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Espiye Merkez Camii

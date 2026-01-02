@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hüseyin Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:51:03+03:00
+title: "Hacı Hüseyin Çeşmesi, Bayındır"
+date: "2025-12-25T12:51:03+03:00"
 slug: "haci-huseyin-cesmesi-bayindir"
 description: "## Hacı Hüseyin Çeşmesi: Bayındır'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6487751,38.226799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hüseyin Çeşmesi: Bayındır'ın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Cevri Kalfa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:09:15+03:00
+title: "Cevri Kalfa Çeşmesi"
+date: "2025-12-25T11:09:15+03:00"
 slug: "cevri-kalfa-cesmesi"
 description: "## Cevri Kalfa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.976739,41.008005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevri Kalfa Çeşmesi

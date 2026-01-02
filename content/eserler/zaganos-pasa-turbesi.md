@@ -1,18 +1,17 @@
 ---
-title: "Zağanos Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:38+03:00
+title: "Zağanos Paşa Türbesi"
+date: "2025-12-25T14:40:38+03:00"
 slug: "zaganos-pasa-turbesi"
 description: "### Zağanos Paşa Türbesi: Karesi'nin Değerli Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8801155,39.6485939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zağanos Paşa Türbesi: Karesi'nin Değerli Mirası

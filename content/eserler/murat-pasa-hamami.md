@@ -1,18 +1,17 @@
 ---
-title: "Murat Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:26:02+03:00
+title: "Murat Paşa Hamamı"
+date: "2025-12-25T16:26:02+03:00"
 slug: "murat-pasa-hamami"
 description: "## Murat Paşa Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "41.2702139,39.903874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Murat Paşa Hamamı

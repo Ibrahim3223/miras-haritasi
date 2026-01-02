@@ -1,18 +1,17 @@
 ---
-title: "Türbe (Pirlibey Mahallesi) | Miras Haritası"
-date: 2025-12-25T15:01:47+03:00
+title: "Türbe (Pirlibey Mahallesi)"
+date: "2025-12-25T15:01:47+03:00"
 slug: "turbe-pirlibey-mahallesi"
 description: "## Türbe (Pirlibey Mahallesi)..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.4371471,37.8681297"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türbe (Pirlibey Mahallesi)

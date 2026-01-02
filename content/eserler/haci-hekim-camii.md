@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hekim Camii | Miras Haritası"
-date: 2025-12-24T23:29:33+03:00
+title: "Hacı Hekim Camii"
+date: "2025-12-24T23:29:33+03:00"
 slug: "haci-hekim-camii"
 description: "## Hacı Hekim Camii: İzmir'in Tarihi bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hacı_Hekim_Camii.jpg/1200px-Hacı_Hekim_Camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1792641,39.1210785"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Hekim Camii: İzmir'in Tarihi bir Mirası

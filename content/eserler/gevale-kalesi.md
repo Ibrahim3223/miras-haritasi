@@ -1,18 +1,17 @@
 ---
-title: "Gevale Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:15+03:00
+title: "Gevale Kalesi"
+date: "2025-12-25T01:37:15+03:00"
 slug: "gevale-kalesi"
 description: "## Gevale Kalesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.3865738,37.9016304"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gevale Kalesi

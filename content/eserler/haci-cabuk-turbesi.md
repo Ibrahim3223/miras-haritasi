@@ -1,18 +1,17 @@
 ---
-title: "Hacı Çabuk Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:20+03:00
+title: "Hacı Çabuk Türbesi"
+date: "2025-12-25T15:27:20+03:00"
 slug: "haci-cabuk-turbesi"
 description: "## Hacı Çabuk Türbesi: Niksar'daki Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.9618797,40.5891953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Çabuk Türbesi: Niksar'daki Bir Önemli Kültürel Miras

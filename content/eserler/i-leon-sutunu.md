@@ -1,18 +1,17 @@
 ---
-title: "I. Leon Sütunu | Miras Haritası"
-date: 2025-12-25T13:19:03+03:00
+title: "I. Leon Sütunu"
+date: "2025-12-25T13:19:03+03:00"
 slug: "i-leon-sutunu"
 description: "## I. Leon Sütunu: İstanbul'un Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Second_Court_Topkapi_2007_80.JPG/1200px-Second_Court_Topkapi_2007_80.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.984825,41.013276"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## I. Leon Sütunu: İstanbul'un Gizli Anıtı

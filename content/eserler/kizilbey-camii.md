@@ -1,18 +1,17 @@
 ---
-title: "Kızılbey Camii | Miras Haritası"
-date: 2025-12-24T21:57:30+03:00
+title: "Kızılbey Camii"
+date: "2025-12-24T21:57:30+03:00"
 slug: "kizilbey-camii"
 description: "## Kızılbey Camii: Altındağ'nın Tarihi ve Kültürel Bir Ögesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8538589,39.9396248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılbey Camii: Altındağ'nın Tarihi ve Kültürel Bir Ögesi

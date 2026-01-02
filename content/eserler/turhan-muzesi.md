@@ -1,18 +1,17 @@
 ---
-title: "Turhan Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:16+03:00
+title: "Turhan Müzesi"
+date: "2025-12-25T04:04:16+03:00"
 slug: "turhan-muzesi"
 description: "### Turhan Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.325319397,41.066598638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Turhan Müzesi

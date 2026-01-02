@@ -1,18 +1,17 @@
 ---
-title: "Nakşidil Valide Sultan Sebili | Miras Haritası"
-date: 2025-12-25T13:08:14+03:00
+title: "Nakşidil Valide Sultan Sebili"
+date: "2025-12-25T13:08:14+03:00"
 slug: "naksidil-valide-sultan-sebili"
 description: "## Nakşidil Valide Sultan Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Nakşidil_Valide_Sultan_Sebili.jpg/1200px-Nakşidil_Valide_Sultan_Sebili.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.950762,41.018292"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nakşidil Valide Sultan Sebili: İstanbul'un Gizli Çeşmesi

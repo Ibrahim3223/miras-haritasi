@@ -1,18 +1,17 @@
 ---
-title: "Hazro Ulu Camii | Miras Haritası"
-date: 2025-12-25T01:08:46+03:00
+title: "Hazro Ulu Camii"
+date: "2025-12-25T01:08:46+03:00"
 slug: "hazro-ulu-camii"
 description: "## Hazro Ulu Camii..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Hazro"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.782,38.253333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hazro Ulu Camii

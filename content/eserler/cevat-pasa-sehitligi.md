@@ -1,18 +1,17 @@
 ---
-title: "Cevat Paşa Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:22+03:00
+title: "Cevat Paşa Şehitliği"
+date: "2025-12-25T16:03:22+03:00"
 slug: "cevat-pasa-sehitligi"
 description: "## Cevat Paşa Şehitliği: Çanakkale'nin Kahramanlığı..."
 featured_image: ""
 province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
+iller: '["Çanakkale (ilçe)"]'
 district: "Halileli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.280817,39.992026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevat Paşa Şehitliği: Çanakkale'nin Kahramanlığı

@@ -1,18 +1,17 @@
 ---
-title: "Revak Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:10+03:00
+title: "Revak Sultan Türbesi"
+date: "2025-12-25T14:23:10+03:00"
 slug: "revak-sultan-turbesi"
 description: "## Revak Sultan Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4237,38.6056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Revak Sultan Türbesi

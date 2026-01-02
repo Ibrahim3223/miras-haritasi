@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Bedreddin Kabri | Miras Haritası"
-date: 2025-12-25T13:34:31+03:00
+title: "Şeyh Bedreddin Kabri"
+date: "2025-12-25T13:34:31+03:00"
 slug: "seyh-bedreddin-kabri"
 description: "## Şeyh Bedreddin Kabri: İstanbul'un Gizli Değerleri Arasındaki Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9726944,41.0087204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Bedreddin Kabri: İstanbul'un Gizli Değerleri Arasındaki Bir Anıt

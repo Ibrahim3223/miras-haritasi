@@ -1,18 +1,17 @@
 ---
-title: "Lukuyanus Anıtı | Miras Haritası"
-date: 2025-12-25T14:09:17+03:00
+title: "Lukuyanus Anıtı"
+date: "2025-12-25T14:09:17+03:00"
 slug: "lukuyanus-aniti"
 description: "## Lukuyanus Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.8966579,37.6590691"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lukuyanus Anıtı

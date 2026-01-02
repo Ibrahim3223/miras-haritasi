@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmut Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:00:26+03:00
+title: "II. Mahmut Han Çeşmesi"
+date: "2025-12-25T12:00:26+03:00"
 slug: "ii-mahmut-han-cesmesi"
 description: "## II. Mahmut Han Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.975861,41.038024"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Mahmut Han Çeşmesi

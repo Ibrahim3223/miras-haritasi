@@ -1,18 +1,17 @@
 ---
-title: "Deveciler Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:26+03:00
+title: "Deveciler Çeşmesi"
+date: "2025-12-25T10:27:26+03:00"
 slug: "deveciler-cesmesi"
 description: "## Deveciler Çeşmesi: Aydınlık Köşenin Gizemi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8602448,37.8482094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deveciler Çeşmesi: Aydınlık Köşenin Gizemi

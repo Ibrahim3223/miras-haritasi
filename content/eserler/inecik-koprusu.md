@@ -1,18 +1,17 @@
 ---
-title: "İnecik Köprüsü | Miras Haritası"
-date: 2025-12-25T02:58:12+03:00
+title: "İnecik Köprüsü"
+date: "2025-12-25T02:58:12+03:00"
 slug: "inecik-koprusu"
 description: "# İnecik Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.287117708,40.934315293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İnecik Köprüsü

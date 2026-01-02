@@ -1,18 +1,17 @@
 ---
-title: "İskender Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:45+03:00
+title: "İskender Paşa Hamamı"
+date: "2025-12-25T16:25:45+03:00"
 slug: "iskender-pasa-hamami"
 description: "## İskender Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0661201,41.0998993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskender Paşa Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Bafra Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:20:14+03:00
+title: "Bafra Ulu Camii"
+date: "2025-12-24T22:20:14+03:00"
 slug: "bafra-ulu-camii"
 description: "### Bafra Ulu Camii: Tarih, Mimarisi ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Bafra"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.902305555,41.569944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bafra Ulu Camii: Tarih, Mimarisi ve Ziyaret Bilgileri

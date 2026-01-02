@@ -1,18 +1,17 @@
 ---
-title: "Tuvana Krallığı | Miras Haritası"
-date: 2025-12-25T06:51:24+03:00
+title: "Tuvana Krallığı"
+date: "2025-12-25T06:51:24+03:00"
 slug: "tuvana-kralligi"
 description: "### Tuvana Krallığı: Bor'daki Antik Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tuwanuwa_-_Tyana_-_Kemerhisar.jpg/1200px-Tuwanuwa_-_Tyana_-_Kemerhisar.jpg"
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.570473,37.823445"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Tuvana Krallığı: Bor'daki Antik Miras

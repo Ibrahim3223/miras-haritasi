@@ -1,18 +1,17 @@
 ---
-title: "Bayram Paşa Külliyesi Sebili | Miras Haritası"
-date: 2025-12-25T13:07:03+03:00
+title: "Bayram Paşa Külliyesi Sebili"
+date: "2025-12-25T13:07:03+03:00"
 slug: "bayram-pasa-kulliyesi-sebili"
 description: "### Bayram Paşa Külliyesi Sebili..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bayram_Paşa_Külliyesi_Sebili.jpg/1200px-Bayram_Paşa_Külliyesi_Sebili.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.942415,41.008774"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bayram Paşa Külliyesi Sebili

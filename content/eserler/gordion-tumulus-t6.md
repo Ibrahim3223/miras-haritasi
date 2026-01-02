@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs T6 | Miras Haritası"
-date: 2025-12-25T07:59:47+03:00
+title: "Gordion Tümülüs T6"
+date: "2025-12-25T07:59:47+03:00"
 slug: "gordion-tumulus-t6"
 description: "## Gordion Tümülüs T6: Polatlı, Ankara'daki Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.002888,39.651539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gordion Tümülüs T6: Polatlı, Ankara'daki Bir Arkeolojik Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Kuruçay Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:32:25+03:00
+title: "Kuruçay Köyü Camii"
+date: "2025-12-25T00:32:25+03:00"
 slug: "kurucay-koyu-camii"
 description: "## Kuruçay Köyü Camii: Ahırlı, Konya'da Bulunan Bir Tarihi Cebellar..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ahırlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.037413178,37.211967091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuruçay Köyü Camii: Ahırlı, Konya'da Bulunan Bir Tarihi Cebellar

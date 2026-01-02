@@ -1,18 +1,17 @@
 ---
-title: "Çakallı Mahallesi Köprüsü 2 | Miras Haritası"
-date: 2025-12-25T02:34:26+03:00
+title: "Çakallı Mahallesi Köprüsü 2"
+date: "2025-12-25T02:34:26+03:00"
 slug: "cakalli-mahallesi-koprusu-2"
 description: "# Çakallı Mahallesi Köprüsü 2..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.116436,41.139866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çakallı Mahallesi Köprüsü 2

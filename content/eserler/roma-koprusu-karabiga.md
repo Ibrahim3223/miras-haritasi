@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Karabiga | Miras Haritası"
-date: 2025-12-25T02:55:18+03:00
+title: "Roma Köprüsü, Karabiga"
+date: "2025-12-25T02:55:18+03:00"
 slug: "roma-koprusu-karabiga"
 description: "## Roma Köprüsü, Karabiga..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.3262367,40.3477173"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Karabiga

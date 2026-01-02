@@ -1,18 +1,17 @@
 ---
-title: "İkiztepe 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:57:25+03:00
+title: "İkiztepe 1 Tümülüsü"
+date: "2025-12-25T07:57:25+03:00"
 slug: "ikiztepe-1-tumulusu"
 description: "### İkiztepe 1 Tümülüsü: Uşak'ın Gizemli Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Merkez (Uşak)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.172997792,38.690982206"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İkiztepe 1 Tümülüsü: Uşak'ın Gizemli Mirası

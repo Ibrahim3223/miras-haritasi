@@ -1,18 +1,17 @@
 ---
-title: "Baba Hasan Alemi Camii | Miras Haritası"
-date: 2025-12-24T22:47:46+03:00
+title: "Baba Hasan Alemi Camii"
+date: "2025-12-24T22:47:46+03:00"
 slug: "baba-hasan-alemi-camii"
 description: "### Baba Hasan Alemi Camii: İskenderpaşa'daki Bir Tarihî Cami..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.952755,41.01271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Baba Hasan Alemi Camii: İskenderpaşa'daki Bir Tarihî Cami

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hamza Mescidi | Miras Haritası"
-date: 2025-12-24T22:55:06+03:00
+title: "Hacı Hamza Mescidi"
+date: "2025-12-24T22:55:06+03:00"
 slug: "haci-hamza-mescidi"
 description: "## Hacı Hamza Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hacı_Hamza_Mescidi.jpg/1200px-Hacı_Hamza_Mescidi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9237995,41.0012512"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Hamza Mescidi: İstanbul'un Gizli Cenneti

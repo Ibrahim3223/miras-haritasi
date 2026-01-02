@@ -1,18 +1,17 @@
 ---
-title: "Sait Faik Abasıyanık Müzesi | Miras Haritası"
-date: 2025-12-25T03:21:14+03:00
+title: "Sait Faik Abasıyanık Müzesi"
+date: "2025-12-25T03:21:14+03:00"
 slug: "sait-faik-abasiyanik-muzesi"
 description: "# Sait Faik Abasıyanık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sait_faik_burgazada.jpg/1200px-Sait_faik_burgazada.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0675,40.88111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Sait Faik Abasıyanık Müzesi

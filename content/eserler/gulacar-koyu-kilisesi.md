@@ -1,18 +1,17 @@
 ---
-title: "Gülaçar Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:16:15+03:00
+title: "Gülaçar Köyü Kilisesi"
+date: "2025-12-25T09:16:15+03:00"
 slug: "gulacar-koyu-kilisesi"
 description: "### Gülaçar Köyü Kilisesi: Gümüşhane'nin Tarihi Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.232958,40.384563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gülaçar Köyü Kilisesi: Gümüşhane'nin Tarihi Mirası

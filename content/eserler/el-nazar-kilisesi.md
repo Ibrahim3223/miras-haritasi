@@ -1,18 +1,17 @@
 ---
-title: "El Nazar Kilisesi | Miras Haritası"
-date: 2025-12-25T03:35:24+03:00
+title: "El Nazar Kilisesi"
+date: "2025-12-25T03:35:24+03:00"
 slug: "el-nazar-kilisesi"
 description: "## El Nazar Kilisesi: Göreme'nin Gizemli Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.839127063,38.6386709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## El Nazar Kilisesi: Göreme'nin Gizemli Mirası

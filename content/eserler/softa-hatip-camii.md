@@ -1,18 +1,17 @@
 ---
-title: "Softa Hatip Camii | Miras Haritası"
-date: 2025-12-24T22:16:22+03:00
+title: "Softa Hatip Camii"
+date: "2025-12-24T22:16:22+03:00"
 slug: "softa-hatip-camii"
 description: "### Softa Hatip Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Softa_Hatip_Mosque.jpg/1200px-Softa_Hatip_Mosque.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.963604,41.0192146"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Softa Hatip Camii

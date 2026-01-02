@@ -1,18 +1,17 @@
 ---
-title: "Hüsmen Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:04:49+03:00
+title: "Hüsmen Ağa Çeşmesi"
+date: "2025-12-25T11:04:49+03:00"
 slug: "husmen-aga-cesmesi"
 description: "## Hüsmen Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hüsmen_Ağa_Çeşmesi.jpg/1200px-Hüsmen_Ağa_Çeşmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Saraç İshak"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.963342,41.005736"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hüsmen Ağa Çeşmesi

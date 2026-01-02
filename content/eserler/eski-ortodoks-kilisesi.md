@@ -1,18 +1,17 @@
 ---
-title: "Eski Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:23+03:00
+title: "Eski Ortodoks Kilisesi"
+date: "2025-12-25T09:39:23+03:00"
 slug: "eski-ortodoks-kilisesi"
 description: "## Eski Ortodoks Kilisesi Hakkında..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.7810879,37.3166161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Ortodoks Kilisesi Hakkında

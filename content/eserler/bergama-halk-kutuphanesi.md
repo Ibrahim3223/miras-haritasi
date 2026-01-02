@@ -1,18 +1,17 @@
 ---
-title: "Bergama Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:16+03:00
+title: "Bergama Halk Kütüphanesi"
+date: "2025-12-25T17:55:16+03:00"
 slug: "bergama-halk-kutuphanesi"
 description: "### Bergama Halk Kütüphanesi: İzmir'in Kültürel Mirasının Özellikleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.1818943,39.1228523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bergama Halk Kütüphanesi: İzmir'in Kültürel Mirasının Özellikleri

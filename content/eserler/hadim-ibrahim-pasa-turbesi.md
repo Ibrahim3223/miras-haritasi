@@ -1,18 +1,17 @@
 ---
-title: "Hadım İbrahim Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:44+03:00
+title: "Hadım İbrahim Paşa Türbesi"
+date: "2025-12-25T14:41:44+03:00"
 slug: "hadim-ibrahim-pasa-turbesi"
 description: "## Hadım İbrahim Paşa Türbesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9224834,41.0059357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadım İbrahim Paşa Türbesi: İstanbul'un Gizli Cenneti

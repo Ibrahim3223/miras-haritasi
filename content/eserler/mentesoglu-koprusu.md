@@ -1,18 +1,17 @@
 ---
-title: "Menteşoğlu Köprüsü | Miras Haritası"
-date: 2025-12-25T03:03:16+03:00
+title: "Menteşoğlu Köprüsü"
+date: "2025-12-25T03:03:16+03:00"
 slug: "mentesoglu-koprusu"
 description: "## Menteşoğlu Köprüsü..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.1080894,38.4031105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Menteşoğlu Köprüsü

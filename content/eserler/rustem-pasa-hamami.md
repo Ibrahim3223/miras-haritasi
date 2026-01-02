@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:49:52+03:00
+title: "Rüstem Paşa Hamamı"
+date: "2025-12-25T16:49:52+03:00"
 slug: "rustem-pasa-hamami"
 description: "## Rüstem Paşa Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.7622242,38.3304901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rüstem Paşa Hamamı

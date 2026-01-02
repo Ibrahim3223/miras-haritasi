@@ -1,18 +1,17 @@
 ---
-title: "Bağlartepesi Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:12+03:00
+title: "Bağlartepesi Tümülüsü"
+date: "2025-12-25T08:05:12+03:00"
 slug: "baglartepesi-tumulusu"
 description: "# Bağlartepesi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.752634,41.5197067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bağlartepesi Tümülüsü

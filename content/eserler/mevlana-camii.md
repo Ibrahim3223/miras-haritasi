@@ -1,18 +1,17 @@
 ---
-title: "Mevlana Camii | Miras Haritası"
-date: 2025-12-25T00:59:45+03:00
+title: "Mevlana Camii"
+date: "2025-12-25T00:59:45+03:00"
 slug: "mevlana-camii"
 description: "## Mevlana Camii: Honaz'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.265439,37.76379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mevlana Camii: Honaz'ın Tarihî Bir Mirası

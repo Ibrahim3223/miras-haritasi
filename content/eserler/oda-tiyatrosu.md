@@ -1,18 +1,17 @@
 ---
-title: "Oda Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:15:49+03:00
+title: "Oda Tiyatrosu"
+date: "2025-12-25T16:15:49+03:00"
 slug: "oda-tiyatrosu"
 description: "### Oda Tiyatrosu: Ankara'nın Antik Tiyatro Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.853252777,39.938463888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Oda Tiyatrosu: Ankara'nın Antik Tiyatro Mirası

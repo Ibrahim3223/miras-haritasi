@@ -1,18 +1,17 @@
 ---
-title: "Yalı Camii (İlkadım) | Miras Haritası"
-date: 2025-12-24T23:59:08+03:00
+title: "Yalı Camii (İlkadım)"
+date: "2025-12-24T23:59:08+03:00"
 slug: "yali-camii-ilkadim"
 description: "## Yalı Camii (İlkadım)..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.3320999,41.2965012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalı Camii (İlkadım)

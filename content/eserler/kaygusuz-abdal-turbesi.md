@@ -1,18 +1,17 @@
 ---
-title: "Kaygusuz Abdal Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:06+03:00
+title: "Kaygusuz Abdal Türbesi"
+date: "2025-12-25T15:04:06+03:00"
 slug: "kaygusuz-abdal-turbesi"
 description: "## Kaygusuz Abdal Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.0494003,40.2509003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaygusuz Abdal Türbesi

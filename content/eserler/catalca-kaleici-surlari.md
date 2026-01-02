@@ -1,18 +1,17 @@
 ---
-title: "Çatalca Kaleiçi Surları | Miras Haritası"
-date: 2025-12-25T01:35:06+03:00
+title: "Çatalca Kaleiçi Surları"
+date: "2025-12-25T01:35:06+03:00"
 slug: "catalca-kaleici-surlari"
 description: "# Çatalca Kaleiçi Surları..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.458479,41.145634"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çatalca Kaleiçi Surları

@@ -1,18 +1,17 @@
 ---
-title: "Koca Sinan Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:08+03:00
+title: "Koca Sinan Paşa Türbesi"
+date: "2025-12-25T14:33:08+03:00"
 slug: "koca-sinan-pasa-turbesi"
 description: "### Koca Sinan Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.968689,41.008835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koca Sinan Paşa Türbesi

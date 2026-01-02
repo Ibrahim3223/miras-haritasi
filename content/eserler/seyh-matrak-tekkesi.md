@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Matrak Tekkesi | Miras Haritası"
-date: 2025-12-25T00:51:45+03:00
+title: "Şeyh Matrak Tekkesi"
+date: "2025-12-25T00:51:45+03:00"
 slug: "seyh-matrak-tekkesi"
 description: "## Şeyh Matrak Tekkesi: Fatih'te Bir Tarihi Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9251518,41.0160179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Matrak Tekkesi: Fatih'te Bir Tarihi Cami

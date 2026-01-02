@@ -1,18 +1,17 @@
 ---
-title: "Seyrancık Camii | Miras Haritası"
-date: 2025-12-24T23:06:05+03:00
+title: "Seyrancık Camii"
+date: "2025-12-24T23:06:05+03:00"
 slug: "seyrancik-camii"
 description: "## Seyrancık Camii: Bolu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Mudurnu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.2095623,40.4657021"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyrancık Camii: Bolu'nun Tarihi Bir Mirası

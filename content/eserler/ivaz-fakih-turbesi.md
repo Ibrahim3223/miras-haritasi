@@ -1,18 +1,17 @@
 ---
-title: "İvaz Fakih Türbesi | Miras Haritası"
-date: 2025-12-25T13:31:46+03:00
+title: "İvaz Fakih Türbesi"
+date: "2025-12-25T13:31:46+03:00"
 slug: "ivaz-fakih-turbesi"
 description: "## İvaz Fakih Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.069275,41.027542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İvaz Fakih Türbesi

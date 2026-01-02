@@ -1,18 +1,17 @@
 ---
-title: "Hasköy Höyüğü | Miras Haritası"
-date: 2025-12-25T06:59:43+03:00
+title: "Hasköy Höyüğü"
+date: "2025-12-25T06:59:43+03:00"
 slug: "haskoy-hoyugu"
 description: "## Hasköy Höyüğü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasköy Höyüğü: Edirne'nin Gizli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Zevle Sultan Mescidi | Miras Haritası"
-date: 2025-12-24T23:50:41+03:00
+title: "Zevle Sultan Mescidi"
+date: "2025-12-24T23:50:41+03:00"
 slug: "zevle-sultan-mescidi"
 description: "## Zevle Sultan Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4890938,37.8733788"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zevle Sultan Mescidi

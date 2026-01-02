@@ -1,18 +1,17 @@
 ---
-title: "Kudbeddin Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:00+03:00
+title: "Kudbeddin Dede Türbesi"
+date: "2025-12-25T15:28:00+03:00"
 slug: "kudbeddin-dede-turbesi"
 description: "## Kudbeddin Dede Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.5352001,39.4487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kudbeddin Dede Türbesi

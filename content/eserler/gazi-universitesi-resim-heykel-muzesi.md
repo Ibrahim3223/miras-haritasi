@@ -1,18 +1,17 @@
 ---
-title: "Gazi Üniversitesi Resim Heykel Müzesi | Miras Haritası"
-date: 2025-12-25T03:22:21+03:00
+title: "Gazi Üniversitesi Resim Heykel Müzesi"
+date: "2025-12-25T03:22:21+03:00"
 slug: "gazi-universitesi-resim-heykel-muzesi"
 description: "## Gazi Üniversitesi Resim Heykel Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.855702,39.933272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazi Üniversitesi Resim Heykel Müzesi

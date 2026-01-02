@@ -1,18 +1,17 @@
 ---
-title: "Sömek Athena Kabartması | Miras Haritası"
-date: 2025-12-25T15:41:30+03:00
+title: "Sömek Athena Kabartması"
+date: "2025-12-25T15:41:30+03:00"
 slug: "somek-athena-kabartmasi"
 description: "## Sömek Athena Kabartması: Antik Çağın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/AthenaSömek1.jpg/1200px-AthenaSömek1.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.08083333,36.60444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sömek Athena Kabartması: Antik Çağın Gizemi

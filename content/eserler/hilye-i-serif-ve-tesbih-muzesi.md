@@ -1,18 +1,17 @@
 ---
-title: "Hilye-i Şerif ve Tesbih Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:03+03:00
+title: "Hilye-i Şerif ve Tesbih Müzesi"
+date: "2025-12-25T03:50:03+03:00"
 slug: "hilye-i-serif-ve-tesbih-muzesi"
 description: "## Hilye-i Şerif ve Tesbih Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9661541,41.0172043"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hilye-i Şerif ve Tesbih Müzesi

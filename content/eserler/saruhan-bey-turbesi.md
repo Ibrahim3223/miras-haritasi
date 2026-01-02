@@ -1,18 +1,17 @@
 ---
-title: "Saruhan Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:11+03:00
+title: "Saruhan Bey Türbesi"
+date: "2025-12-25T14:28:11+03:00"
 slug: "saruhan-bey-turbesi"
 description: "## Saruhan Bey Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4277,38.6098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saruhan Bey Türbesi

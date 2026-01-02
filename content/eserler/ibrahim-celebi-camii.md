@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Çelebi Camii | Miras Haritası"
-date: 2025-12-24T23:35:30+03:00
+title: "İbrahim Çelebi Camii"
+date: "2025-12-24T23:35:30+03:00"
 slug: "ibrahim-celebi-camii"
 description: "### İbrahim Çelebi Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4235592,38.6101303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İbrahim Çelebi Camii

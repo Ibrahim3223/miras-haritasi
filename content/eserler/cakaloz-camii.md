@@ -1,18 +1,17 @@
 ---
-title: "Çakaloz Camii | Miras Haritası"
-date: 2025-12-24T21:39:43+03:00
+title: "Çakaloz Camii"
+date: "2025-12-24T21:39:43+03:00"
 slug: "cakaloz-camii"
 description: "## Çakaloz Camii..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.404611111,38.676444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakaloz Camii

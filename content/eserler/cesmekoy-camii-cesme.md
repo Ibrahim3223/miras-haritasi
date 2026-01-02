@@ -1,18 +1,17 @@
 ---
-title: "Çeşmeköy Camii, Çeşme | Miras Haritası"
-date: 2025-12-25T12:55:43+03:00
+title: "Çeşmeköy Camii, Çeşme"
+date: "2025-12-25T12:55:43+03:00"
 slug: "cesmekoy-camii-cesme"
 description: "### Çeşmeköy Camii: Çeşme'nin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3292961,38.3059921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşmeköy Camii: Çeşme'nin Gizli Cenneti

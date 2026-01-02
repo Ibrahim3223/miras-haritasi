@@ -1,18 +1,17 @@
 ---
-title: "Panaztepe | Miras Haritası"
-date: 2025-12-25T07:00:43+03:00
+title: "Panaztepe"
+date: "2025-12-25T07:00:43+03:00"
 slug: "panaztepe"
 description: "## Panaztepe: Tarih Bilgisinin Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menemen"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9411,38.62145"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panaztepe: Tarih Bilgisinin Gizemi

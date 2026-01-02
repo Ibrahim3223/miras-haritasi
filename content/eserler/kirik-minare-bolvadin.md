@@ -1,18 +1,17 @@
 ---
-title: "Kırık Minare, Bolvadin | Miras Haritası"
-date: 2025-12-25T00:52:45+03:00
+title: "Kırık Minare, Bolvadin"
+date: "2025-12-25T00:52:45+03:00"
 slug: "kirik-minare-bolvadin"
 description: "## Kırık Minare, Bolvadin..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bolvadin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0422745,38.7398949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırık Minare, Bolvadin

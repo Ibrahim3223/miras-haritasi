@@ -1,18 +1,17 @@
 ---
-title: "Sökün Köyü Eski Cami | Miras Haritası"
-date: 2025-12-24T23:09:03+03:00
+title: "Sökün Köyü Eski Cami"
+date: "2025-12-24T23:09:03+03:00"
 slug: "sokun-koyu-eski-cami"
 description: "## Sökün Köyü Eski Cami: Mersin'in Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.0084457,36.3395767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sökün Köyü Eski Cami: Mersin'in Tarihî Bir Mirası

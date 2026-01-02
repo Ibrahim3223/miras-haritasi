@@ -1,18 +1,17 @@
 ---
-title: "Erikler Kayacık Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:26+03:00
+title: "Erikler Kayacık Tümülüsü"
+date: "2025-12-25T07:47:26+03:00"
 slug: "erikler-kayacik-tumulusu"
 description: "### Erikler Kayacık Tümülüsü: Tarihî bir Eserin Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1033688,41.8509293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Erikler Kayacık Tümülüsü: Tarihî bir Eserin Gizemi

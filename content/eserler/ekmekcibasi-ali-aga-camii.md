@@ -1,18 +1,17 @@
 ---
-title: "Ekmekçibaşı Ali Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:50:55+03:00
+title: "Ekmekçibaşı Ali Ağa Camii"
+date: "2025-12-24T22:50:55+03:00"
 slug: "ekmekcibasi-ali-aga-camii"
 description: "# Ekmekçibaşı Ali Ağa Camii..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Firuzağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9801159,41.0299683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ekmekçibaşı Ali Ağa Camii

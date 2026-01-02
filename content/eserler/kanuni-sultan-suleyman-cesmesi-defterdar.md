@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Sultan Süleyman Çeşmesi, Defterdar | Miras Haritası"
-date: 2025-12-25T11:54:12+03:00
+title: "Kanuni Sultan Süleyman Çeşmesi, Defterdar"
+date: "2025-12-25T11:54:12+03:00"
 slug: "kanuni-sultan-suleyman-cesmesi-defterdar"
 description: "### Kanuni Sultan Süleyman Çeşmesi, Defterdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.936436,41.040676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kanuni Sultan Süleyman Çeşmesi, Defterdar

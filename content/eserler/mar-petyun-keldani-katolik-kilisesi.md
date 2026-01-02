@@ -1,18 +1,17 @@
 ---
-title: "Mar Petyun Keldani Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:24+03:00
+title: "Mar Petyun Keldani Katolik Kilisesi"
+date: "2025-12-25T09:13:24+03:00"
 slug: "mar-petyun-keldani-katolik-kilisesi"
 description: "### Mar Petyun Keldani Katolik Kilisesi: Diyarbakır'ın Gizli Değerleri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.2380219,37.9107323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mar Petyun Keldani Katolik Kilisesi: Diyarbakır'ın Gizli Değerleri

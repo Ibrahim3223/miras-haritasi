@@ -1,18 +1,17 @@
 ---
-title: "Pervane Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:29:27+03:00
+title: "Pervane Dede Kabri"
+date: "2025-12-25T13:29:27+03:00"
 slug: "pervane-dede-kabri"
 description: "## Pervane Dede Kabri: Fatih'te Bir Anıtın Tarihçesi ve Özellikleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pervane_Dede_Mezar_Taşı.jpg/1200px-Pervane_Dede_Mezar_Taşı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9455605,41.0057983"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pervane Dede Kabri: Fatih'te Bir Anıtın Tarihçesi ve Özellikleri

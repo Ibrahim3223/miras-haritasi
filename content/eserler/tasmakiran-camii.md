@@ -1,18 +1,17 @@
 ---
-title: "Tasmakıran Camii | Miras Haritası"
-date: 2025-12-24T23:15:35+03:00
+title: "Tasmakıran Camii"
+date: "2025-12-24T23:15:35+03:00"
 slug: "tasmakiran-camii"
 description: "## Tasmakıran Camii: Tarihi ve Mimari Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4803047,38.7176208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tasmakıran Camii: Tarihi ve Mimari Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Karadere Dokuztepeler Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:18:47+03:00
+title: "Karadere Dokuztepeler Tümülüsü"
+date: "2025-12-25T07:18:47+03:00"
 slug: "karadere-dokuztepeler-tumulusu"
 description: "**Karadere Dokuztepeler Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4266567,41.9440498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karadere Dokuztepeler Tümülüsü**

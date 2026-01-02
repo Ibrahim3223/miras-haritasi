@@ -1,18 +1,17 @@
 ---
-title: "Üyücük Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:17:47+03:00
+title: "Üyücük Tümülüsü"
+date: "2025-12-25T07:17:47+03:00"
 slug: "uyucuk-tumulusu"
 description: "### Üyücük Tümülüsü..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.099369,40.134201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üyücük Tümülüsü

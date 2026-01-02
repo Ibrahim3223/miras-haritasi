@@ -1,18 +1,17 @@
 ---
-title: "Arpacı Hayrettin Camii | Miras Haritası"
-date: 2025-12-24T22:47:02+03:00
+title: "Arpacı Hayrettin Camii"
+date: "2025-12-24T22:47:02+03:00"
 slug: "arpaci-hayrettin-camii"
 description: "## Arpacı Hayrettin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Arpacı_Hayrettin_Camii_IMG_6408.jpg/1200px-Arpacı_Hayrettin_Camii_IMG_6408.jpg"
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.935841,41.042113"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Arpacı Hayrettin Camii

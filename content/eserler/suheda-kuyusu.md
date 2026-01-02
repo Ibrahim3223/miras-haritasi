@@ -1,18 +1,17 @@
 ---
-title: "Şüheda Kuyusu | Miras Haritası"
-date: 2025-12-25T15:56:34+03:00
+title: "Şüheda Kuyusu"
+date: "2025-12-25T15:56:34+03:00"
 slug: "suheda-kuyusu"
 description: "## Şüheda Kuyusu: Beşiktaş'ta Bir Anıt'ın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0494461,41.0861778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şüheda Kuyusu: Beşiktaş'ta Bir Anıt'ın Gizemi

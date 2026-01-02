@@ -1,18 +1,17 @@
 ---
-title: "Kavşit Arkeolojik Yerleşimi ve Nekropolü | Miras Haritası"
-date: 2025-12-25T06:07:00+03:00
+title: "Kavşit Arkeolojik Yerleşimi ve Nekropolü"
+date: "2025-12-25T06:07:00+03:00"
 slug: "kavsit-arkeolojik-yerlesimi-ve-nekropolu"
 description: "## Kavşit Arkeolojik Yerleşimi ve Nekropolü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.1098003,37.6380997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavşit Arkeolojik Yerleşimi ve Nekropolü

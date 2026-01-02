@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Fakih Sarı Camii | Miras Haritası"
-date: 2025-12-24T22:57:29+03:00
+title: "Ahmet Fakih Sarı Camii"
+date: "2025-12-24T22:57:29+03:00"
 slug: "ahmet-fakih-sari-camii"
 description: "### Ahmet Fakih Sarı Camii: Karatay'da Bir Ölümsüz..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.503003,37.873944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Fakih Sarı Camii: Karatay'da Bir Ölümsüz

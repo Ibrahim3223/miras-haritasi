@@ -1,18 +1,17 @@
 ---
-title: "Yahya Kemal Heykeli | Miras Haritası"
-date: 2025-12-25T15:55:30+03:00
+title: "Yahya Kemal Heykeli"
+date: "2025-12-25T15:55:30+03:00"
 slug: "yahya-kemal-heykeli"
 description: "## Yahya Kemal Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.008897,41.049137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahya Kemal Heykeli

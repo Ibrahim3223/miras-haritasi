@@ -1,18 +1,17 @@
 ---
-title: "Kağnıpazar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:57+03:00
+title: "Kağnıpazar Çeşmesi"
+date: "2025-12-25T10:45:57+03:00"
 slug: "kagnipazar-cesmesi"
 description: "## Kağnıpazar Çeşmesi: Sivrihisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.5365467,39.4515877"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kağnıpazar Çeşmesi: Sivrihisar'ın Gizli Cenneti

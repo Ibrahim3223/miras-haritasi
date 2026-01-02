@@ -1,18 +1,17 @@
 ---
-title: "İşçi ve Oğlu Heykeli | Miras Haritası"
-date: 2025-12-25T15:49:40+03:00
+title: "İşçi ve Oğlu Heykeli"
+date: "2025-12-25T15:49:40+03:00"
 slug: "isci-ve-oglu-heykeli"
 description: "** İşçi ve Oğlu Heykeli: Antalya'nın Tarihi Mirası **..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.7046528,36.8791504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ** İşçi ve Oğlu Heykeli: Antalya'nın Tarihi Mirası **

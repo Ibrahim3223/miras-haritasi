@@ -1,18 +1,17 @@
 ---
-title: "Yenibademli Höyük | Miras Haritası"
-date: 2025-12-25T08:15:49+03:00
+title: "Yenibademli Höyük"
+date: "2025-12-25T08:15:49+03:00"
 slug: "yenibademli-hoyuk"
 description: "### Yenibademli Höyük: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "25.8955288,40.2172203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yenibademli Höyük: Çanakkale'nin Gizli Cenneti

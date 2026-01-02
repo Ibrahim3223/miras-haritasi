@@ -1,18 +1,17 @@
 ---
-title: "Dede Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:48+03:00
+title: "Dede Sultan Türbesi"
+date: "2025-12-25T15:27:48+03:00"
 slug: "dede-sultan-turbesi"
 description: "## Dede Sultan Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.776165,41.37183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dede Sultan Türbesi

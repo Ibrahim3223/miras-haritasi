@@ -1,18 +1,17 @@
 ---
-title: "Harput Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:40:14+03:00
+title: "Harput Ulu Camii"
+date: "2025-12-24T21:40:14+03:00"
 slug: "harput-ulu-camii"
 description: "**Harput Ulu Camii: Elazığ'ın Tarihi ve Kültürel Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Minarett_Ulu_Camii_Harput.jpg/1200px-Minarett_Ulu_Camii_Harput.jpg"
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.255138888,38.706111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Harput Ulu Camii: Elazığ'ın Tarihi ve Kültürel Mirası**

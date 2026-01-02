@@ -1,18 +1,17 @@
 ---
-title: "Veliköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:58+03:00
+title: "Veliköy Köprüsü"
+date: "2025-12-25T02:04:58+03:00"
 slug: "velikoy-koprusu"
 description: "## Veliköy Köprüsü: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.617483,41.022317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veliköy Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

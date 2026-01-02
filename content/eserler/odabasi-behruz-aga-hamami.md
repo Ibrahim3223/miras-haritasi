@@ -1,18 +1,17 @@
 ---
-title: "Odabaşı Behruz Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:27+03:00
+title: "Odabaşı Behruz Ağa Hamamı"
+date: "2025-12-25T17:02:27+03:00"
 slug: "odabasi-behruz-aga-hamami"
 description: "### Odabaşı Behruz Ağa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9319611,41.0120087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Odabaşı Behruz Ağa Hamamı

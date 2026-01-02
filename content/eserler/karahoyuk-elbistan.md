@@ -1,18 +1,17 @@
 ---
-title: "Karahöyük, Elbistan | Miras Haritası"
-date: 2025-12-25T06:38:53+03:00
+title: "Karahöyük, Elbistan"
+date: "2025-12-25T06:38:53+03:00"
 slug: "karahoyuk-elbistan"
 description: "# Karahöyük, Elbistan: Tarihçenin Gözüyle Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Halep Vilayeti"
-iller: ["Halep Vilayeti"]
+iller: '["Halep Vilayeti"]'
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.1136766,38.2622885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karahöyük, Elbistan: Tarihçenin Gözüyle Bir Arkeolojik Sit

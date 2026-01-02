@@ -1,18 +1,17 @@
 ---
-title: "İkiztepe Tümülüsü, Alucra | Miras Haritası"
-date: 2025-12-25T07:27:03+03:00
+title: "İkiztepe Tümülüsü, Alucra"
+date: "2025-12-25T07:27:03+03:00"
 slug: "ikiztepe-tumulusu-alucra"
 description: "## İkiztepe Tümülüsü: Alucra'da Geç Neolitik Çağ'ın Gizemi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Alucra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.782729,40.31837"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkiztepe Tümülüsü: Alucra'da Geç Neolitik Çağ'ın Gizemi

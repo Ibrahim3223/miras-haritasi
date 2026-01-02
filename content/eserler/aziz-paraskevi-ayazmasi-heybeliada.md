@@ -1,18 +1,17 @@
 ---
-title: "Aziz Paraskevi Ayazması, Heybeliada | Miras Haritası"
-date: 2025-12-25T12:41:53+03:00
+title: "Aziz Paraskevi Ayazması, Heybeliada"
+date: "2025-12-25T12:41:53+03:00"
 slug: "aziz-paraskevi-ayazmasi-heybeliada"
 description: "## Aziz Paraskevi Ayazması: Heybeliada'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.099649924,40.877419226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Paraskevi Ayazması: Heybeliada'nın Gizli Çeşmesi

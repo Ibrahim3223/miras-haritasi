@@ -1,18 +1,17 @@
 ---
-title: "Kösedere Köyü Eski Camii | Miras Haritası"
-date: 2025-12-25T00:13:35+03:00
+title: "Kösedere Köyü Eski Camii"
+date: "2025-12-25T00:13:35+03:00"
 slug: "kosedere-koyu-eski-camii"
 description: "## Kösedere Köyü Eski Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.1836815,39.6289368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kösedere Köyü Eski Camii

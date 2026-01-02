@@ -1,18 +1,17 @@
 ---
-title: "Erenköy İstasyon Camii | Miras Haritası"
-date: 2025-12-24T21:40:41+03:00
+title: "Erenköy İstasyon Camii"
+date: "2025-12-24T21:40:41+03:00"
 slug: "erenkoy-istasyon-camii"
 description: "## Erenköy İstasyon Camii: Kadıköy'de Bir Tarihî Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.077,40.9719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erenköy İstasyon Camii: Kadıköy'de Bir Tarihî Miras

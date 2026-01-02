@@ -1,18 +1,17 @@
 ---
-title: "Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi | Miras Haritası"
-date: 2025-12-25T15:01:32+03:00
+title: "Hatemü’l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi"
+date: "2025-12-25T15:01:32+03:00"
 slug: "hatemul-evliya-omer-ongut-kuddise-sirruh-efendi-hazretleri-turbesi"
 description: "## Hatemü'l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4025707,40.7524071"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatemü'l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi

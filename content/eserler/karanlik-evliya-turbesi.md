@@ -1,18 +1,17 @@
 ---
-title: "Karanlık Evliya Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:00+03:00
+title: "Karanlık Evliya Türbesi"
+date: "2025-12-25T15:13:00+03:00"
 slug: "karanlik-evliya-turbesi"
 description: "### Karanlık Evliya Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.772395,41.37449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karanlık Evliya Türbesi

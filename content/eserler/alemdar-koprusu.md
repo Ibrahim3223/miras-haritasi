@@ -1,18 +1,17 @@
 ---
-title: "Alemdar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:53+03:00
+title: "Alemdar Köprüsü"
+date: "2025-12-25T02:14:53+03:00"
 slug: "alemdar-koprusu"
 description: "## Alemdar Köprüsü: Bitlis'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.1058655,38.3983002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alemdar Köprüsü: Bitlis'in Tarihi Bir Mirası

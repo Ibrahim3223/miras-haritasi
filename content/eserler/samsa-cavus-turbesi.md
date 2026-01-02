@@ -1,18 +1,17 @@
 ---
-title: "Samsa Çavuş Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:24+03:00
+title: "Samsa Çavuş Türbesi"
+date: "2025-12-25T14:51:24+03:00"
 slug: "samsa-cavus-turbesi"
 description: "# Samsa Çavuş Türbesi: İnegöl'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4712906,40.1669731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Samsa Çavuş Türbesi: İnegöl'ün Tarihi ve Kültürel Mirası

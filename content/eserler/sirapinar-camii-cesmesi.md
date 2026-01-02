@@ -1,18 +1,17 @@
 ---
-title: "Sırapınar Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:36:27+03:00
+title: "Sırapınar Camii Çeşmesi"
+date: "2025-12-25T12:36:27+03:00"
 slug: "sirapinar-camii-cesmesi"
 description: "## Sırapınar Camii Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çekmeköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.328295101,41.101380279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sırapınar Camii Çeşmesi: İstanbul'un Gizli Çeşmesi

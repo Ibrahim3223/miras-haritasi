@@ -1,18 +1,17 @@
 ---
-title: "Taşpınar Höyük | Miras Haritası"
-date: 2025-12-25T06:14:45+03:00
+title: "Taşpınar Höyük"
+date: "2025-12-25T06:14:45+03:00"
 slug: "taspinar-hoyuk"
 description: "## Taşpınar Höyük: Alaca, Çorum'un Gizemi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8613052,40.2994576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşpınar Höyük: Alaca, Çorum'un Gizemi

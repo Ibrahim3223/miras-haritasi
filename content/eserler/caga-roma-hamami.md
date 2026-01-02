@@ -1,18 +1,17 @@
 ---
-title: "Çağa Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:05+03:00
+title: "Çağa Roma Hamamı"
+date: "2025-12-25T16:50:05+03:00"
 slug: "caga-roma-hamami"
 description: "## Çağa Roma Hamamı: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Güdül"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.2018929,40.1278419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağa Roma Hamamı: Ankara'nın Gizli Cenneti

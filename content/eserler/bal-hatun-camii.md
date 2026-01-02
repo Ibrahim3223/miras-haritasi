@@ -1,18 +1,17 @@
 ---
-title: "Bal Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:13:01+03:00
+title: "Bal Hatun Camii"
+date: "2025-12-24T22:13:01+03:00"
 slug: "bal-hatun-camii"
 description: "## Bal Hatun Camii..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Suşehri"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.0921097,40.1621475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bal Hatun Camii

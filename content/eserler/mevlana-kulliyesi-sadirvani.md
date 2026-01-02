@@ -1,18 +1,17 @@
 ---
-title: "Mevlana Külliyesi Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:00:44+03:00
+title: "Mevlana Külliyesi Şadırvanı"
+date: "2025-12-25T10:00:44+03:00"
 slug: "mevlana-kulliyesi-sadirvani"
 description: "## Mevlana Külliyesi Şadırvanı: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.504675365,37.870718211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mevlana Külliyesi Şadırvanı: Konya'nın Tarihi ve Kültürel Mirası

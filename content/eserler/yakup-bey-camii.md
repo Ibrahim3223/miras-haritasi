@@ -1,18 +1,17 @@
 ---
-title: "Yakup Bey Camii | Miras Haritası"
-date: 2025-12-24T23:43:57+03:00
+title: "Yakup Bey Camii"
+date: "2025-12-24T23:43:57+03:00"
 slug: "yakup-bey-camii"
 description: "## Yakup Bey Camii: Sındırgı'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Sındırgı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1758347,39.2373466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yakup Bey Camii: Sındırgı'nın Tarihî Bir Mirası

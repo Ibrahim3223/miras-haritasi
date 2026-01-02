@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Hamam Köprüsü | Miras Haritası"
-date: 2025-12-25T02:19:16+03:00
+title: "Aşağı Hamam Köprüsü"
+date: "2025-12-25T02:19:16+03:00"
 slug: "asagi-hamam-koprusu"
 description: "## Aşağı Hamam Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Aşağı_hamam_köprüsü.jpg/1200px-Aşağı_hamam_köprüsü.jpg"
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.1173019,39.3730431"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aşağı Hamam Köprüsü

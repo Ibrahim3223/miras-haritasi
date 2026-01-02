@@ -1,18 +1,17 @@
 ---
-title: "Placoma | Miras Haritası"
-date: 2025-12-25T04:55:55+03:00
+title: "Placoma"
+date: "2025-12-25T04:55:55+03:00"
 slug: "placoma"
 description: "## Placoma: Geçmişten Günümüze Eski Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.96511,36.383422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Placoma: Geçmişten Günümüze Eski Sit

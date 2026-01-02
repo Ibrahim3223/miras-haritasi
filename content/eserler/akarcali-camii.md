@@ -1,18 +1,17 @@
 ---
-title: "Akarcalı Camii | Miras Haritası"
-date: 2025-12-24T22:59:02+03:00
+title: "Akarcalı Camii"
+date: "2025-12-24T22:59:02+03:00"
 slug: "akarcali-camii"
 description: "# Akarcalı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1268864,38.4116516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Akarcalı Camii

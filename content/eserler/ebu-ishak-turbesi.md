@@ -1,18 +1,17 @@
 ---
-title: "Ebu İshak Türbesi | Miras Haritası"
-date: 2025-12-25T14:15:47+03:00
+title: "Ebu İshak Türbesi"
+date: "2025-12-25T14:15:47+03:00"
 slug: "ebu-ishak-turbesi"
 description: "## Ebu İshak Türbesi: Karatay, Konya'da Bir Mesnevî Şairinin Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.493068,37.874888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebu İshak Türbesi: Karatay, Konya'da Bir Mesnevî Şairinin Anıtı

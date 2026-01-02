@@ -1,18 +1,17 @@
 ---
-title: "Darb-ı Sak Kalesi | Miras Haritası"
-date: 2025-12-25T01:14:33+03:00
+title: "Darb-ı Sak Kalesi"
+date: "2025-12-25T01:14:33+03:00"
 slug: "darb-i-sak-kalesi"
 description: "# Darb-ı Sak Kalesi: Tarihî ve Kültürel Bir Değer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Trapesac.jpg/1200px-Trapesac.jpg"
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.3655,36.532"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Darb-ı Sak Kalesi: Tarihî ve Kültürel Bir Değer

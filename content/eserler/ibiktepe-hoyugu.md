@@ -1,18 +1,17 @@
 ---
-title: "İbiktepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:02:44+03:00
+title: "İbiktepe Höyüğü"
+date: "2025-12-25T06:02:44+03:00"
 slug: "ibiktepe-hoyugu"
 description: "# İbiktepe Höyüğü..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8521614,40.3528328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İbiktepe Höyüğü

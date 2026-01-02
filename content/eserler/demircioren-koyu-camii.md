@@ -1,18 +1,17 @@
 ---
-title: "Demirciören Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:15:31+03:00
+title: "Demirciören Köyü Camii"
+date: "2025-12-25T00:15:31+03:00"
 slug: "demircioren-koyu-camii"
 description: "## Demirciören Köyü Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2136269,40.7384796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirciören Köyü Camii: Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Pasinler Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:19+03:00
+title: "Pasinler Kalesi"
+date: "2025-12-25T01:32:19+03:00"
 slug: "pasinler-kalesi"
 description: "## Pasinler Kalesi: Erzurum'un Klasik Çağlı Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Pasinler"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.681271,39.97911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pasinler Kalesi: Erzurum'un Klasik Çağlı Mirası

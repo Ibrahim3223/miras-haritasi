@@ -1,18 +1,17 @@
 ---
-title: "Uğurlu Köyü Yeni Meze Camii | Miras Haritası"
-date: 2025-12-24T23:19:34+03:00
+title: "Uğurlu Köyü Yeni Meze Camii"
+date: "2025-12-24T23:19:34+03:00"
 slug: "ugurlu-koyu-yeni-meze-camii"
 description: "### Uğurlu Köyü Yeni Meze Camii..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.988615,41.0225372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uğurlu Köyü Yeni Meze Camii

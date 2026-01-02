@@ -1,18 +1,17 @@
 ---
-title: "Çerkeshöyük | Miras Haritası"
-date: 2025-12-25T07:01:14+03:00
+title: "Çerkeshöyük"
+date: "2025-12-25T07:01:14+03:00"
 slug: "cerkeshoyuk"
 description: "## Çerkeshöyük: Tarihi Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çerkeshöyük: Tarihi Bir Arkeolojik Sit

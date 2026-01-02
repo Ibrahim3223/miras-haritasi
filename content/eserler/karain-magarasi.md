@@ -1,18 +1,17 @@
 ---
-title: "Karain Mağarası | Miras Haritası"
-date: 2025-12-25T06:49:57+03:00
+title: "Karain Mağarası"
+date: "2025-12-25T06:49:57+03:00"
 slug: "karain-magarasi"
 description: "## Karain Mağarası: Antalya'nın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Karain_-_Cave_Chamber.jpg/1200px-Karain_-_Cave_Chamber.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.570833333,37.077777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karain Mağarası: Antalya'nın Gizli Mirası

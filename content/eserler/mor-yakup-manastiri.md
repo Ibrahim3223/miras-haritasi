@@ -1,18 +1,17 @@
 ---
-title: "Mor Yakup Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:45+03:00
+title: "Mor Yakup Manastırı"
+date: "2025-12-25T09:51:45+03:00"
 slug: "mor-yakup-manastiri"
 description: "## Mor Yakup Manastırı: Geçmişin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Das_Kloster_von_Mor_Jakob.jpg/1200px-Das_Kloster_von_Mor_Jakob.jpg"
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.396694444,37.483277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mor Yakup Manastırı: Geçmişin Gizemi

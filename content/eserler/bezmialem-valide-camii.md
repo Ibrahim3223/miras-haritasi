@@ -1,18 +1,17 @@
 ---
-title: "Bezmialem Valide Camii | Miras Haritası"
-date: 2025-12-24T21:47:17+03:00
+title: "Bezmialem Valide Camii"
+date: "2025-12-24T21:47:17+03:00"
 slug: "bezmialem-valide-camii"
 description: "### Bezmialem Valide Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.934972222,41.017666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bezmialem Valide Camii

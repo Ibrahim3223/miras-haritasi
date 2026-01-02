@@ -1,18 +1,17 @@
 ---
-title: "Yağ Camii | Miras Haritası"
-date: 2025-12-24T21:50:47+03:00
+title: "Yağ Camii"
+date: "2025-12-24T21:50:47+03:00"
 slug: "yag-camii"
 description: "## Yağ Camii: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Adana_Yağ_Mosque,_2005.jpg/1200px-Adana_Yağ_Mosque,_2005.jpg"
-province: "Adana Vilayeti"
-iller: ["Adana Vilayeti"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: "Adana Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.326944,36.983611"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yağ Camii: Adana'nın Tarihi ve Kültürel Mirası

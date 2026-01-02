@@ -1,18 +1,17 @@
 ---
-title: "Orcohi (Kuzey) Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:22+03:00
+title: "Orcohi (Kuzey) Kilisesi"
+date: "2025-12-25T09:07:22+03:00"
 slug: "orcohi-kuzey-kilisesi"
 description: "## Orcohi (Kuzey) Kilisesi: Oltu'nun Tarihi Zenginliği..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Oltu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.80295,40.53475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orcohi (Kuzey) Kilisesi: Oltu'nun Tarihi Zenginliği

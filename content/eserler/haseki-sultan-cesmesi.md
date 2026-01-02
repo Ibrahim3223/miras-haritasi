@@ -1,18 +1,17 @@
 ---
-title: "Haseki Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:25:17+03:00
+title: "Haseki Sultan Çeşmesi"
+date: "2025-12-25T10:25:17+03:00"
 slug: "haseki-sultan-cesmesi"
 description: "### Haseki Sultan Çeşmesi: Maltepe'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Zeytinburnu"
-iller: ["Zeytinburnu"]
-district: "Maltepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Zeytinburnu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.901701,41.020667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haseki Sultan Çeşmesi: Maltepe'nin Tarihi ve Kültürel Mirası

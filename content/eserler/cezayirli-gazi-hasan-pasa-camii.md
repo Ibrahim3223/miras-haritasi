@@ -1,18 +1,17 @@
 ---
-title: "Cezayirli Gazi Hasan Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:23:08+03:00
+title: "Cezayirli Gazi Hasan Paşa Camii"
+date: "2025-12-24T22:23:08+03:00"
 slug: "cezayirli-gazi-hasan-pasa-camii"
 description: "## Cezayirli Gazi Hasan Paşa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9682941,41.0327263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cezayirli Gazi Hasan Paşa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Tokat Kültür Evi | Miras Haritası"
-date: 2025-12-25T03:45:11+03:00
+title: "Tokat Kültür Evi"
+date: "2025-12-25T03:45:11+03:00"
 slug: "tokat-kultur-evi"
 description: "## Tokat Kültür Evi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.548617,40.315532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tokat Kültür Evi

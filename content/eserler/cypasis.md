@@ -1,18 +1,17 @@
 ---
-title: "Cypasis | Miras Haritası"
-date: 2025-12-25T04:52:45+03:00
+title: "Cypasis"
+date: "2025-12-25T04:52:45+03:00"
 slug: "cypasis"
 description: "## Cypasis: Gelibolu'nun Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.841143,40.625134"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cypasis: Gelibolu'nun Gizli Mirası

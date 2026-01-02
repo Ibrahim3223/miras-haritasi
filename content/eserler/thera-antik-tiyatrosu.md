@@ -1,18 +1,17 @@
 ---
-title: "Thera Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:21:31+03:00
+title: "Thera Antik Tiyatrosu"
+date: "2025-12-25T08:21:31+03:00"
 slug: "thera-antik-tiyatrosu"
 description: "**Thera Antik Tiyatrosu**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3566551,37.1174812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Thera Antik Tiyatrosu**

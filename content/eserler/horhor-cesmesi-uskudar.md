@@ -1,18 +1,17 @@
 ---
-title: "Horhor Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T12:11:41+03:00
+title: "Horhor Çeşmesi, Üsküdar"
+date: "2025-12-25T12:11:41+03:00"
 slug: "horhor-cesmesi-uskudar"
 description: "## Horhor Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.015771,41.025678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Horhor Çeşmesi, Üsküdar

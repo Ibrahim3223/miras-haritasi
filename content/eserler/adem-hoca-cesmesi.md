@@ -1,18 +1,17 @@
 ---
-title: "Adem Hoca Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:46+03:00
+title: "Adem Hoca Çeşmesi"
+date: "2025-12-25T11:43:46+03:00"
 slug: "adem-hoca-cesmesi"
 description: "## Adem Hoca Çeşmesi: Silivri'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2518673,41.0732002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adem Hoca Çeşmesi: Silivri'nin Tarihi Bir Çeşmesi

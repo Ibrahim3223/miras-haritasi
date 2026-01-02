@@ -1,18 +1,17 @@
 ---
-title: "Çavuş Hamamı | Miras Haritası"
-date: 2025-12-25T17:14:00+03:00
+title: "Çavuş Hamamı"
+date: "2025-12-25T17:14:00+03:00"
 slug: "cavus-hamami"
 description: "**Çavuş Hamamı: Niksar'da Bir Tarihsel Eğlence Merkezi**..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.9633942,40.5892258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çavuş Hamamı: Niksar'da Bir Tarihsel Eğlence Merkezi**

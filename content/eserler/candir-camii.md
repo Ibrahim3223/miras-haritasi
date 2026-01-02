@@ -1,18 +1,17 @@
 ---
-title: "Çandır Camii | Miras Haritası"
-date: 2025-12-24T22:31:39+03:00
+title: "Çandır Camii"
+date: "2025-12-24T22:31:39+03:00"
 slug: "candir-camii"
 description: "### Çandır Camii: Kayseri'nin Tarihî Mirasında Bir Örnek..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4816322,38.7258987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çandır Camii: Kayseri'nin Tarihî Mirasında Bir Örnek

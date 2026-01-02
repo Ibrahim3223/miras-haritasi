@@ -1,18 +1,17 @@
 ---
-title: "Esen Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:30+03:00
+title: "Esen Bey Türbesi"
+date: "2025-12-25T15:10:30+03:00"
 slug: "esen-bey-turbesi"
 description: "## Esen Bey Türbesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6807321,37.970228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esen Bey Türbesi

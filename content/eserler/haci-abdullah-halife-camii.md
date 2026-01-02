@@ -1,18 +1,17 @@
 ---
-title: "Hacı Abdullah Halife Camii | Miras Haritası"
-date: 2025-12-24T23:26:21+03:00
+title: "Hacı Abdullah Halife Camii"
+date: "2025-12-24T23:26:21+03:00"
 slug: "haci-abdullah-halife-camii"
 description: "## Hacı Abdullah Halife Camii: Yağlıdere'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.619085,40.756923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Abdullah Halife Camii: Yağlıdere'nin Tarihi Bir Mirası

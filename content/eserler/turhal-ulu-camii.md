@@ -1,18 +1,17 @@
 ---
-title: "Turhal Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:03:28+03:00
+title: "Turhal Ulu Camii"
+date: "2025-12-24T22:03:28+03:00"
 slug: "turhal-ulu-camii"
 description: "## Turhal Ulu Camii Tanıtımı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Turhal"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.090305555,40.387138888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turhal Ulu Camii Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Chrysaoris | Miras Haritası"
-date: 2025-12-25T04:40:38+03:00
+title: "Chrysaoris"
+date: "2025-12-25T04:40:38+03:00"
 slug: "chrysaoris"
 description: "## Ege'nin Gizli Cenneti: Chrysaoris Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.09667,37.342419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ege'nin Gizli Cenneti: Chrysaoris Arkeolojik Sit

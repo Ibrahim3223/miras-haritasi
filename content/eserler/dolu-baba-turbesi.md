@@ -1,18 +1,17 @@
 ---
-title: "Dolu Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:51+03:00
+title: "Dolu Baba Türbesi"
+date: "2025-12-25T15:19:51+03:00"
 slug: "dolu-baba-turbesi"
 description: "## Dolu Baba Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.045006,40.118898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dolu Baba Türbesi

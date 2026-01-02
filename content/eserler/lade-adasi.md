@@ -1,18 +1,17 @@
 ---
-title: "Lade Adası | Miras Haritası"
-date: 2025-12-25T06:55:49+03:00
+title: "Lade Adası"
+date: "2025-12-25T06:55:49+03:00"
 slug: "lade-adasi"
 description: "# Lade Adası: Aydın'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lade_1.jpg/1200px-Lade_1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.225,37.529444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Lade Adası: Aydın'ın Gizli Cenneti

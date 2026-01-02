@@ -1,18 +1,17 @@
 ---
-title: "Aya Varvara Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:26+03:00
+title: "Aya Varvara Kilisesi"
+date: "2025-12-25T09:27:26+03:00"
 slug: "aya-varvara-kilisesi"
 description: "## Aya Varvara Kilisesi: Trabzon'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aya_Varvara_kilsəsi_Trabzon_(3).jpg/1200px-Aya_Varvara_kilsəsi_Trabzon_(3).jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.6591377,40.6895638"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aya Varvara Kilisesi: Trabzon'un Gizli Cenneti

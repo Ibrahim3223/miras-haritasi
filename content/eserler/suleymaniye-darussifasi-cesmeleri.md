@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye Darüşşifası Çeşmeleri | Miras Haritası"
-date: 2025-12-25T12:35:16+03:00
+title: "Süleymaniye Darüşşifası Çeşmeleri"
+date: "2025-12-25T12:35:16+03:00"
 slug: "suleymaniye-darussifasi-cesmeleri"
 description: "## Süleymaniye Darüşşifası Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.961517008,41.016316691"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Süleymaniye Darüşşifası Çeşmeleri

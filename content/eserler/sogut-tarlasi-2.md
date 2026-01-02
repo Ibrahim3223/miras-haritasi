@@ -1,18 +1,17 @@
 ---
-title: "Söğüt Tarlası 2 | Miras Haritası"
-date: 2025-12-25T07:01:50+03:00
+title: "Söğüt Tarlası 2"
+date: "2025-12-25T07:01:50+03:00"
 slug: "sogut-tarlasi-2"
 description: "## Söğüt Tarlası 2 Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söğüt Tarlası 2 Arkeolojik Sit

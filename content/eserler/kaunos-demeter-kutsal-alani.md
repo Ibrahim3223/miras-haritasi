@@ -1,18 +1,17 @@
 ---
-title: "Kaunos Demeter Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T08:40:22+03:00
+title: "Kaunos Demeter Kutsal Alanı"
+date: "2025-12-25T08:40:22+03:00"
 slug: "kaunos-demeter-kutsal-alani"
 description: "### Kaunos Demeter Kutsal Alanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.6207294,36.8226089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaunos Demeter Kutsal Alanı

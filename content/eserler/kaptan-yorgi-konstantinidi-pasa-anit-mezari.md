@@ -1,18 +1,17 @@
 ---
-title: "Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:05:38+03:00
+title: "Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı"
+date: "2025-12-25T14:05:38+03:00"
 slug: "kaptan-yorgi-konstantinidi-pasa-anit-mezari"
 description: "## Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.3878822,40.9227448"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı

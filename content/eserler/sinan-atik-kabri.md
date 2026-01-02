@@ -1,18 +1,17 @@
 ---
-title: "Sinan Atik Kabri | Miras Haritası"
-date: 2025-12-25T13:28:00+03:00
+title: "Sinan Atik Kabri"
+date: "2025-12-25T13:28:00+03:00"
 slug: "sinan-atik-kabri"
 description: "## Sinan Atik Kabri Hakkında..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9465122,41.0236702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Atik Kabri Hakkında

@@ -1,18 +1,17 @@
 ---
-title: "Ali Saip Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:50:40+03:00
+title: "Ali Saip Paşa Çeşmesi"
+date: "2025-12-25T10:50:40+03:00"
 slug: "ali-saip-pasa-cesmesi"
 description: "## Ali Saip Paşa Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.5584602,38.6875305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Saip Paşa Çeşmesi

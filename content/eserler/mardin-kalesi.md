@@ -1,18 +1,17 @@
 ---
-title: "Mardin Kalesi | Miras Haritası"
-date: 2025-12-25T01:12:05+03:00
+title: "Mardin Kalesi"
+date: "2025-12-25T01:12:05+03:00"
 slug: "mardin-kalesi"
 description: "## Mardin Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mardin,_Turkey.JPG/1200px-Mardin,_Turkey.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mardin"
+province: "Mardin"
+iller: '["Mardin"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.7383929,37.3154406"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mardin Kalesi

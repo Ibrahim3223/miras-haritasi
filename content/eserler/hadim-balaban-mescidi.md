@@ -1,18 +1,17 @@
 ---
-title: "Hadım Balaban Mescidi | Miras Haritası"
-date: 2025-12-25T00:10:32+03:00
+title: "Hadım Balaban Mescidi"
+date: "2025-12-25T00:10:32+03:00"
 slug: "hadim-balaban-mescidi"
 description: "## Hadım Balaban Mescidi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5591145,41.6792679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadım Balaban Mescidi: Edirne'nin Gizli Cenneti

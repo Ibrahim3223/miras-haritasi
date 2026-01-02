@@ -1,18 +1,17 @@
 ---
-title: "İkisu Mahallesi Köprüsü 2 | Miras Haritası"
-date: 2025-12-25T02:44:38+03:00
+title: "İkisu Mahallesi Köprüsü 2"
+date: "2025-12-25T02:44:38+03:00"
 slug: "ikisu-mahallesi-koprusu-2"
 description: "## İkisu Mahallesi Köprüsü 2: Trabzon'un Tarihi Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Yomra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.803109,40.927923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkisu Mahallesi Köprüsü 2: Trabzon'un Tarihi Mirası

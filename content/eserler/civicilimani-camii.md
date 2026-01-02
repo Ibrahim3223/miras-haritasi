@@ -1,18 +1,17 @@
 ---
-title: "Çivicilimanı Camii | Miras Haritası"
-date: 2025-12-24T22:52:01+03:00
+title: "Çivicilimanı Camii"
+date: "2025-12-24T22:52:01+03:00"
 slug: "civicilimani-camii"
 description: "## Çivicilimanı Camii: İstanbul'un Gizli Öyküsünü Gizleyen Bir Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9840431,41.02808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çivicilimanı Camii: İstanbul'un Gizli Öyküsünü Gizleyen Bir Miras

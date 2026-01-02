@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Havacılık Müzesi | Miras Haritası"
-date: 2025-12-25T03:08:50+03:00
+title: "İstanbul Havacılık Müzesi"
+date: "2025-12-25T03:08:50+03:00"
 slug: "istanbul-havacilik-muzesi"
 description: "## İstanbul Havacılık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/İstanbul_5372.jpg/1200px-İstanbul_5372.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.825765,40.963862"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İstanbul Havacılık Müzesi

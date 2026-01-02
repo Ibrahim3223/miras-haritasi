@@ -1,18 +1,17 @@
 ---
-title: "Sürük Mevkii | Miras Haritası"
-date: 2025-12-25T07:03:07+03:00
+title: "Sürük Mevkii"
+date: "2025-12-25T07:03:07+03:00"
 slug: "suruk-mevkii"
 description: "**Sürük Mevkii: Antik Çağın Gizemi**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sürük Mevkii: Antik Çağın Gizemi**

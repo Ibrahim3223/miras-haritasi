@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:47:25+03:00
+title: "Erzurum Ulu Camii"
+date: "2025-12-24T21:47:25+03:00"
 slug: "erzurum-ulu-camii"
 description: "## Erzurum Ulu Camii: Tarihi ve Ünlü Mimarisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Erzurum_Ulu_Camii_dış_görünüm.jpg/1200px-Erzurum_Ulu_Camii_dış_görünüm.jpg"
-province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: "Erzurum Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2776,39.906"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Erzurum Ulu Camii: Tarihi ve Ünlü Mimarisi

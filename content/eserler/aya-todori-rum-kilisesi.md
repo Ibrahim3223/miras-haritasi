@@ -1,18 +1,17 @@
 ---
-title: "Aya Todori Rum Kilisesi | Miras Haritası"
-date: 2025-12-25T09:09:16+03:00
+title: "Aya Todori Rum Kilisesi"
+date: "2025-12-25T09:09:16+03:00"
 slug: "aya-todori-rum-kilisesi"
 description: "## Aya Todori Rum Kilisesi: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.564177,38.738516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Todori Rum Kilisesi: Kayseri'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Ahmed Esad Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:34+03:00
+title: "Ahmed Esad Efendi Türbesi"
+date: "2025-12-25T15:07:34+03:00"
 slug: "ahmed-esad-efendi-turbesi"
 description: "### Ahmed Esad Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tomb_of_Uryanizade_Ahmed_Esad_Efendi_(3).jpg/1200px-Tomb_of_Uryanizade_Ahmed_Esad_Efendi_(3).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.934227598,41.04747027"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ahmed Esad Efendi Türbesi

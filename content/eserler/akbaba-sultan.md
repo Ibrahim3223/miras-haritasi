@@ -1,18 +1,17 @@
 ---
-title: "Akbaba Sultan | Miras Haritası"
-date: 2025-12-25T15:05:34+03:00
+title: "Akbaba Sultan"
+date: "2025-12-25T15:05:34+03:00"
 slug: "akbaba-sultan"
 description: "## Akbaba Sultan Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.116367,41.157016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akbaba Sultan Anıtı

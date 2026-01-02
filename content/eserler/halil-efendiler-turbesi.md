@@ -1,18 +1,17 @@
 ---
-title: "Halil Efendiler Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:36+03:00
+title: "Halil Efendiler Türbesi"
+date: "2025-12-25T14:35:36+03:00"
 slug: "halil-efendiler-turbesi"
 description: "## Halil Efendiler Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9273929,41.0098865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Efendiler Türbesi

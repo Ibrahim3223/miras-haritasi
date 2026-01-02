@@ -1,18 +1,17 @@
 ---
-title: "Hasanlar Höyük | Miras Haritası"
-date: 2025-12-25T13:45:38+03:00
+title: "Hasanlar Höyük"
+date: "2025-12-25T13:45:38+03:00"
 slug: "hasanlar-hoyuk"
 description: "### Hasanlar Höyük..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Kozaklı ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6700379,39.165499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hasanlar Höyük

@@ -1,18 +1,17 @@
 ---
-title: "Osmangazi Köprüsü | Miras Haritası"
-date: 2025-12-25T01:55:23+03:00
+title: "Osmangazi Köprüsü"
+date: "2025-12-25T01:55:23+03:00"
 slug: "osmangazi-koprusu"
 description: "# Osmangazi Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Osman-Gazi-Bridge-620x410.jpg/1200px-Osman-Gazi-Bridge-620x410.jpg"
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Dilovası"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.515555555,40.755"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Osmangazi Köprüsü

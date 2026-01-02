@@ -1,18 +1,17 @@
 ---
-title: "Bargasa (Kuzey Karya) | Miras Haritası"
-date: 2025-12-25T04:59:28+03:00
+title: "Bargasa (Kuzey Karya)"
+date: "2025-12-25T04:59:28+03:00"
 slug: "bargasa-kuzey-karya"
 description: "## Bargasa (Kuzey Karya)..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.410719,37.619454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bargasa (Kuzey Karya)

@@ -1,18 +1,17 @@
 ---
-title: "Karaçayır Kale Tepesi | Miras Haritası"
-date: 2025-12-25T06:11:09+03:00
+title: "Karaçayır Kale Tepesi"
+date: "2025-12-25T06:11:09+03:00"
 slug: "karacayir-kale-tepesi"
 description: "**Karaçayır Kale Tepesi: Sivas'ın Gizli Kahramanı**..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9775182,39.9213308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karaçayır Kale Tepesi: Sivas'ın Gizli Kahramanı**

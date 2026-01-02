@@ -1,18 +1,17 @@
 ---
-title: "Aureliopolis (Lidya) | Miras Haritası"
-date: 2025-12-25T04:31:55+03:00
+title: "Aureliopolis (Lidya)"
+date: "2025-12-25T04:31:55+03:00"
 slug: "aureliopolis-lidya"
 description: "## Aureliopolis (Lidya): Geçmişin Gizli Şehirleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.877777,38.476241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aureliopolis (Lidya): Geçmişin Gizli Şehirleri

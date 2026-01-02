@@ -1,18 +1,17 @@
 ---
-title: "Sarı Yakup Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:35+03:00
+title: "Sarı Yakup Türbesi"
+date: "2025-12-25T14:17:35+03:00"
 slug: "sari-yakup-turbesi"
 description: "### Sarı Yakup Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.502318,37.863862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarı Yakup Türbesi

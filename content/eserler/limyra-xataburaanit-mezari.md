@@ -1,18 +1,17 @@
 ---
-title: "Limyra Xatabura Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:05:54+03:00
+title: "Limyra Xatabura Anıt Mezarı"
+date: "2025-12-25T14:05:54+03:00"
 slug: "limyra-xataburaanit-mezari"
 description: "## Limyra Xaterebra Anıt Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.172481849,36.34293947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Limyra Xaterebra Anıt Mezarı

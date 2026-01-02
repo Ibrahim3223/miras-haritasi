@@ -1,18 +1,17 @@
 ---
-title: "TCDD Açık Hava Buharlı Lokomotif Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:07+03:00
+title: "TCDD Açık Hava Buharlı Lokomotif Müzesi"
+date: "2025-12-25T03:10:07+03:00"
 slug: "tcdd-acik-hava-buharli-lokomotif-muzesi"
 description: "### TCDD Açık Hava Buharlı Lokomotif Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/TCDD_Museum.jpg/1200px-TCDD_Museum.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8463,39.9327"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### TCDD Açık Hava Buharlı Lokomotif Müzesi

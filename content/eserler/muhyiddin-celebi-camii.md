@@ -1,18 +1,17 @@
 ---
-title: "Muhyiddin Çelebi Camii | Miras Haritası"
-date: 2025-12-24T21:40:30+03:00
+title: "Muhyiddin Çelebi Camii"
+date: "2025-12-24T21:40:30+03:00"
 slug: "muhyiddin-celebi-camii"
 description: "### Muhyiddin Çelebi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Çukurcuma_Camii.jpg/1200px-Çukurcuma_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.981111111,41.031972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Muhyiddin Çelebi Camii

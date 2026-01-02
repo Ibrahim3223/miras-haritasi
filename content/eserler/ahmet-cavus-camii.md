@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Çavuş Camii | Miras Haritası"
-date: 2025-12-24T22:43:51+03:00
+title: "Ahmet Çavuş Camii"
+date: "2025-12-24T22:43:51+03:00"
 slug: "ahmet-cavus-camii"
 description: "## Ahmet Çavuş Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.943191,41.025908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Çavuş Camii

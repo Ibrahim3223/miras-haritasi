@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Bayezid Camii | Miras Haritası"
-date: 2025-12-24T23:51:33+03:00
+title: "Yıldırım Bayezid Camii"
+date: "2025-12-24T23:51:33+03:00"
 slug: "yildirim-bayezid-camii"
 description: "## Yıldırım Bayezid Camii: Edirne'nin Ihtişamlı Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Yıldırım_Beyazıt_Mosque_Remote_view_in_2024_5653.jpg/1200px-Yıldırım_Beyazıt_Mosque_Remote_view_in_2024_5653.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.532343817,41.677940838"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yıldırım Bayezid Camii: Edirne'nin Ihtişamlı Mirası

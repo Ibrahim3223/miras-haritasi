@@ -1,18 +1,17 @@
 ---
-title: "Bezmialem Valide Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:15:21+03:00
+title: "Bezmialem Valide Sultan Çeşmesi"
+date: "2025-12-25T12:15:21+03:00"
 slug: "bezmialem-valide-sultan-cesmesi"
 description: "## Bezmialem Valide Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bezmialem_Valide_Sultan_Çeşmesi.jpg/1200px-Bezmialem_Valide_Sultan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.052965,41.137261"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bezmialem Valide Sultan Çeşmesi

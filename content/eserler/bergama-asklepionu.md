@@ -1,18 +1,17 @@
 ---
-title: "Bergama Asklepionu | Miras Haritası"
-date: 2025-12-25T08:12:51+03:00
+title: "Bergama Asklepionu"
+date: "2025-12-25T08:12:51+03:00"
 slug: "bergama-asklepionu"
 description: "## Bergama Asklepionu: Türkiye'nin En Önemli Tıp Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/PergamonAsklepieionHofundTheater.jpg/1200px-PergamonAsklepieionHofundTheater.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.165475,39.118857"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bergama Asklepionu: Türkiye'nin En Önemli Tıp Merkezi

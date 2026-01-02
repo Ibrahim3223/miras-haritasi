@@ -1,18 +1,17 @@
 ---
-title: "Kızılkule Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:23:41+03:00
+title: "Kızılkule Etnografya Müzesi"
+date: "2025-12-25T03:23:41+03:00"
 slug: "kizilkule-etnografya-muzesi"
 description: "**Kızılkule Etnografya Müzesi**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kızılkule Etnografya Müzesi**

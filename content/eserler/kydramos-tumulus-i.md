@@ -1,18 +1,17 @@
 ---
-title: "Kydramos Tümülüs I | Miras Haritası"
-date: 2025-12-25T08:01:37+03:00
+title: "Kydramos Tümülüs I"
+date: "2025-12-25T08:01:37+03:00"
 slug: "kydramos-tumulus-i"
 description: "## Kydramos Tümülüs I: Tavas'ta Gizli Bir Geçmiş..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.125300969,37.346882521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kydramos Tümülüs I: Tavas'ta Gizli Bir Geçmiş

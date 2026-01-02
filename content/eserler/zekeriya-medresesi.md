@@ -1,18 +1,17 @@
 ---
-title: "Zekeriya Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:39+03:00
+title: "Zekeriya Medresesi"
+date: "2025-12-25T17:44:39+03:00"
 slug: "zekeriya-medresesi"
 description: "### Zekeriya Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9484692,41.0256424"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zekeriya Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "İncesırım Mevkii | Miras Haritası"
-date: 2025-12-25T05:36:10+03:00
+title: "İncesırım Mevkii"
+date: "2025-12-25T05:36:10+03:00"
 slug: "incesirim-mevkii"
 description: "## İncesırım Mevkii Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.036367,38.470067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncesırım Mevkii Arkeolojik Sit

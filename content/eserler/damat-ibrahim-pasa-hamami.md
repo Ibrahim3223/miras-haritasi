@@ -1,18 +1,17 @@
 ---
-title: "Damat İbrahim Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:28:17+03:00
+title: "Damat İbrahim Paşa Hamamı"
+date: "2025-12-25T16:28:17+03:00"
 slug: "damat-ibrahim-pasa-hamami"
 description: "## Damat İbrahim Paşa Hamamı: Nevşehir'in Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.713887,38.622756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damat İbrahim Paşa Hamamı: Nevşehir'in Tarihi ve Kültürel Bir Mirası

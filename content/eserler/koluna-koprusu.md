@@ -1,18 +1,17 @@
 ---
-title: "Koluna Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:51+03:00
+title: "Koluna Köprüsü"
+date: "2025-12-25T02:08:51+03:00"
 slug: "koluna-koprusu"
 description: "## Koluna Köprüsü: Tarihi ve Kültürel Mirasının Bir Örneği..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.961283,40.924533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koluna Köprüsü: Tarihi ve Kültürel Mirasının Bir Örneği

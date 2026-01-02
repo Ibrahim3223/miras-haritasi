@@ -1,18 +1,17 @@
 ---
-title: "Hıdır Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:39+03:00
+title: "Hıdır Baba Türbesi"
+date: "2025-12-25T14:20:39+03:00"
 slug: "hidir-baba-turbesi"
 description: "## Hıdır Baba Türbesi: Edirne'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.52042747,41.68620556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hıdır Baba Türbesi: Edirne'nin Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "İskome | Miras Haritası"
-date: 2025-12-25T05:06:05+03:00
+title: "İskome"
+date: "2025-12-25T05:06:05+03:00"
 slug: "iskome"
 description: "## İskome: Türkiye'nin Eski Kenti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.027724,39.057144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskome: Türkiye'nin Eski Kenti

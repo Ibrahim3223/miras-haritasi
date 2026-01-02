@@ -1,18 +1,17 @@
 ---
-title: "Kale Mescidi, Afyonkarahisar | Miras Haritası"
-date: 2025-12-25T00:47:47+03:00
+title: "Kale Mescidi, Afyonkarahisar"
+date: "2025-12-25T00:47:47+03:00"
 slug: "kale-mescidi-afyonkarahisar"
 description: "## Kale Mescidi, Afyonkarahisar..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5305443,38.7548752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Mescidi, Afyonkarahisar

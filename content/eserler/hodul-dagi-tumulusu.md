@@ -1,18 +1,17 @@
 ---
-title: "Hodul Dağı Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:25+03:00
+title: "Hodul Dağı Tümülüsü"
+date: "2025-12-25T08:04:25+03:00"
 slug: "hodul-dagi-tumulusu"
 description: "### Hodul Dağı Tümülüsü: Ürgüp'ün Gizli Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.027788347,38.512052868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hodul Dağı Tümülüsü: Ürgüp'ün Gizli Gizemi

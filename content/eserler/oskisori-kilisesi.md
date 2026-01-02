@@ -1,18 +1,17 @@
 ---
-title: "Oşkisori Kilisesi | Miras Haritası"
-date: 2025-12-25T09:05:49+03:00
+title: "Oşkisori Kilisesi"
+date: "2025-12-25T09:05:49+03:00"
 slug: "oskisori-kilisesi"
 description: "## Oşkisori Kilisesi: Erzurum'un Gizli Cenneti..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Uzundere"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.623066666,40.54205"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oşkisori Kilisesi: Erzurum'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Seksenören Höyüğü | Miras Haritası"
-date: 2025-12-25T06:24:13+03:00
+title: "Seksenören Höyüğü"
+date: "2025-12-25T06:24:13+03:00"
 slug: "seksenoren-hoyugu"
 description: "## Seksenören Höyüğü: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.0743854,36.9738189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seksenören Höyüğü: Şanlıurfa'nın Gizli Mirası

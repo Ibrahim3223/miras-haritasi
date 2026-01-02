@@ -1,18 +1,17 @@
 ---
-title: "Zafer Müzesi | Miras Haritası"
-date: 2025-12-25T03:25:36+03:00
+title: "Zafer Müzesi"
+date: "2025-12-25T03:25:36+03:00"
 slug: "zafer-muzesi"
 description: "## Zafer Müzesi: Afyonkarahisar'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VictoryMuseumAfyonkarahsar.JPG/1200px-VictoryMuseumAfyonkarahsar.JPG"
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.5382,38.75805"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zafer Müzesi: Afyonkarahisar'ın Tarihî Mirası

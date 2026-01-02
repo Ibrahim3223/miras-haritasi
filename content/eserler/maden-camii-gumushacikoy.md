@@ -1,18 +1,17 @@
 ---
-title: "Maden Camii, Gümüşhacıköy | Miras Haritası"
-date: 2025-12-25T00:54:59+03:00
+title: "Maden Camii, Gümüşhacıköy"
+date: "2025-12-25T00:54:59+03:00"
 slug: "maden-camii-gumushacikoy"
 description: "## Maden Camii: Gümüşhacıköy'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Gümüşhacıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1702614,40.8442192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maden Camii: Gümüşhacıköy'ün Tarihi ve Kültürel Mirası

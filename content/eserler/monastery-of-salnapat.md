@@ -1,18 +1,17 @@
 ---
-title: "Monastery of Salnapat | Miras Haritası"
-date: 2025-12-25T09:52:16+03:00
+title: "Monastery of Salnapat"
+date: "2025-12-25T09:52:16+03:00"
 slug: "monastery-of-salnapat"
 description: "## Monastery of Salnapat: Van'ın Gizli Mabeti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Monastery of Salnapat: Van'ın Gizli Mabeti

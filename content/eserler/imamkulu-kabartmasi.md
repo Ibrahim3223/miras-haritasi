@@ -1,18 +1,17 @@
 ---
-title: "İmamkulu Kabartması | Miras Haritası"
-date: 2025-12-25T13:41:04+03:00
+title: "İmamkulu Kabartması"
+date: "2025-12-25T13:41:04+03:00"
 slug: "imamkulu-kabartmasi"
 description: "# İmamkulu Kabartması..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Imamkulu6.jpg/1200px-Imamkulu6.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.92916667,38.24611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # İmamkulu Kabartması

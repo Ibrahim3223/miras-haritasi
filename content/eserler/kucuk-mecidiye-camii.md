@@ -1,18 +1,17 @@
 ---
-title: "Küçük Mecidiye Camii | Miras Haritası"
-date: 2025-12-24T21:52:40+03:00
+title: "Küçük Mecidiye Camii"
+date: "2025-12-24T21:52:40+03:00"
 slug: "kucuk-mecidiye-camii"
 description: "## Küçük Mecidiye Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/İstanbul_5460.jpg/1200px-İstanbul_5460.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.017017,41.04528"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Küçük Mecidiye Camii: İstanbul'un Gizli Cenneti

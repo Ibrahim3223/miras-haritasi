@@ -1,18 +1,17 @@
 ---
-title: "Yaylalar Şaraze Camii | Miras Haritası"
-date: 2025-12-25T00:23:23+03:00
+title: "Yaylalar Şaraze Camii"
+date: "2025-12-25T00:23:23+03:00"
 slug: "yaylalar-saraze-camii"
 description: "### Yaylalar Şaraze Camii: Artvin'in Gizli Çehresini İncelemeye Hazırlanın..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2679,40.8693"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yaylalar Şaraze Camii: Artvin'in Gizli Çehresini İncelemeye Hazırlanın

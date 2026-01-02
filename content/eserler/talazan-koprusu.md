@@ -1,18 +1,17 @@
 ---
-title: "Talazan Köprüsü | Miras Haritası"
-date: 2025-12-25T01:53:55+03:00
+title: "Talazan Köprüsü"
+date: "2025-12-25T01:53:55+03:00"
 slug: "talazan-koprusu"
 description: "## Talazan Köprüsü: Niksar'ın Tarihi Çamurlu Göbeği..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.81413,40.62047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Talazan Köprüsü: Niksar'ın Tarihi Çamurlu Göbeği

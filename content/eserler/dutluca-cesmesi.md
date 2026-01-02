@@ -1,18 +1,17 @@
 ---
-title: "Dutluca Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:27+03:00
+title: "Dutluca Çeşmesi"
+date: "2025-12-25T10:26:27+03:00"
 slug: "dutluca-cesmesi"
 description: "## Dutluca Çeşmesi: Sincan'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5422325,40.0961227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dutluca Çeşmesi: Sincan'ın Tarihî ve Kültürel Mirası

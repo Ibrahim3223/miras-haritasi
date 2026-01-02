@@ -1,18 +1,17 @@
 ---
-title: "Çevrepınar Kilisesi | Miras Haritası"
-date: 2025-12-25T09:14:21+03:00
+title: "Çevrepınar Kilisesi"
+date: "2025-12-25T09:14:21+03:00"
 slug: "cevrepinar-kilisesi"
 description: "## Çevrepınar Kilisesi: Şiran'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Şiran"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.286374,40.255557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çevrepınar Kilisesi: Şiran'ın Tarihî ve Kültürel Mirası

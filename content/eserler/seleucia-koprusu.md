@@ -1,18 +1,17 @@
 ---
-title: "Seleucia Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:15+03:00
+title: "Seleucia Köprüsü"
+date: "2025-12-25T02:27:15+03:00"
 slug: "seleucia-koprusu"
 description: "## Seleucia Köprüsü..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.9271927,36.1214638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seleucia Köprüsü

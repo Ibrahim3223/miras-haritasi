@@ -1,18 +1,17 @@
 ---
-title: "Alara İç Kale Hamamı | Miras Haritası"
-date: 2025-12-25T16:41:00+03:00
+title: "Alara İç Kale Hamamı"
+date: "2025-12-25T16:41:00+03:00"
 slug: "alara-ic-kale-hamami"
 description: "## Alara İç Kale Hamamı: Alanya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.7289886,36.6984138"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alara İç Kale Hamamı: Alanya'nın Tarihi ve Kültürel Mirası

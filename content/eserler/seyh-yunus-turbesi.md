@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Yunus Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:07+03:00
+title: "Şeyh Yunus Türbesi"
+date: "2025-12-25T14:17:07+03:00"
 slug: "seyh-yunus-turbesi"
 description: "## Şeyh Yunus Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.220454,37.182515"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Yunus Türbesi

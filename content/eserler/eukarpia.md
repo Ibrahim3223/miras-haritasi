@@ -1,18 +1,17 @@
 ---
-title: "Eukarpia | Miras Haritası"
-date: 2025-12-25T04:43:05+03:00
+title: "Eukarpia"
+date: "2025-12-25T04:43:05+03:00"
 slug: "eukarpia"
 description: "## Eukarpia Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.119166666,38.4725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eukarpia Arkeolojik Sit

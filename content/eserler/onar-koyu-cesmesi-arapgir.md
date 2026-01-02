@@ -1,18 +1,17 @@
 ---
-title: "Onar Köyü Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:27:10+03:00
+title: "Onar Köyü Çeşmesi, Arapgir"
+date: "2025-12-25T12:27:10+03:00"
 slug: "onar-koyu-cesmesi-arapgir"
 description: "### Onar Köyü Çeşmesi: Arapgir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.569398107,38.969034402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Onar Köyü Çeşmesi: Arapgir'in Gizli Çeşmesi

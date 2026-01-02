@@ -1,18 +1,17 @@
 ---
-title: "Pertev Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:25+03:00
+title: "Pertev Paşa Türbesi"
+date: "2025-12-25T15:06:25+03:00"
 slug: "pertev-pasa-turbesi"
 description: "## Pertev Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vezir_Mehmed_Pertev_Paşa_Türbesi-Eyüp.jpg/1200px-Vezir_Mehmed_Pertev_Paşa_Türbesi-Eyüp.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pertev Paşa Türbesi

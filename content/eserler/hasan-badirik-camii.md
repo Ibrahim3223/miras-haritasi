@@ -1,18 +1,17 @@
 ---
-title: "Hasan Badırık Camii | Miras Haritası"
-date: 2025-12-24T23:31:38+03:00
+title: "Hasan Badırık Camii"
+date: "2025-12-24T23:31:38+03:00"
 slug: "hasan-badirik-camii"
 description: "## Hasan Badırık Camii: Malatya'nın Gizli Mücevheri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Malatya"
+province: "Malatya"
+iller: '["Malatya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.1339874,38.6237488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Badırık Camii: Malatya'nın Gizli Mücevheri

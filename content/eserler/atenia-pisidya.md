@@ -1,18 +1,17 @@
 ---
-title: "Atenia (Pisidya) | Miras Haritası"
-date: 2025-12-25T05:03:36+03:00
+title: "Atenia (Pisidya)"
+date: "2025-12-25T05:03:36+03:00"
 slug: "atenia-pisidya"
 description: "## Atenia (Pisidya): Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.5360278,37.9224649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atenia (Pisidya): Tarihi ve Kültürel Mirasının Gizemi

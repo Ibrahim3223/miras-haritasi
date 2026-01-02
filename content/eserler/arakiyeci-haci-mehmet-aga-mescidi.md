@@ -1,18 +1,17 @@
 ---
-title: "Arakiyeci Hacı Mehmet Ağa Mescidi | Miras Haritası"
-date: 2025-12-25T00:12:33+03:00
+title: "Arakiyeci Hacı Mehmet Ağa Mescidi"
+date: "2025-12-25T00:12:33+03:00"
 slug: "arakiyeci-haci-mehmet-aga-mescidi"
 description: "### Arakiyeci Hacı Mehmet Ağa Mescidi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.024535,41.01678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arakiyeci Hacı Mehmet Ağa Mescidi: Üsküdar'ın Gizli Çeşmesi

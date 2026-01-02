@@ -1,18 +1,17 @@
 ---
-title: "Boğazkesen Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:07+03:00
+title: "Boğazkesen Köprüsü"
+date: "2025-12-25T02:25:07+03:00"
 slug: "bogazkesen-koprusu"
 description: "## Boğazkesen Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boğazkesen_2.jpg/1200px-Boğazkesen_2.jpg"
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Erbaa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.51061,40.7673299"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Boğazkesen Köprüsü

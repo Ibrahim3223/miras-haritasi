@@ -1,18 +1,17 @@
 ---
-title: "İsmail Fakirullah Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:18+03:00
+title: "İsmail Fakirullah Türbesi"
+date: "2025-12-25T15:05:18+03:00"
 slug: "ismail-fakirullah-turbesi"
 description: "# İsmail Fakirullah Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ibrahim_hakkı_shrine_in_siirt_tillo.jpg/1200px-Ibrahim_hakkı_shrine_in_siirt_tillo.jpg"
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Tillo"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.009777777,37.949138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # İsmail Fakirullah Türbesi

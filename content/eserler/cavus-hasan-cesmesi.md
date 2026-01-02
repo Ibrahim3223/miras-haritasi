@@ -1,18 +1,17 @@
 ---
-title: "Çavuş Hasan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:49+03:00
+title: "Çavuş Hasan Çeşmesi"
+date: "2025-12-25T10:58:49+03:00"
 slug: "cavus-hasan-cesmesi"
 description: "## Çavuş Hasan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.023028,41.017722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuş Hasan Çeşmesi

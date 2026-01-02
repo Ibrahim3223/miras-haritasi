@@ -1,18 +1,17 @@
 ---
-title: "Karanlık Çeşme | Miras Haritası"
-date: 2025-12-25T11:41:34+03:00
+title: "Karanlık Çeşme"
+date: "2025-12-25T11:41:34+03:00"
 slug: "karanlik-cesme"
 description: "### Karanlık Çeşme..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2718506,39.9095306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karanlık Çeşme

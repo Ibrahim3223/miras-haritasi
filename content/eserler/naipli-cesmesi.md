@@ -1,18 +1,17 @@
 ---
-title: "Naipli Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:32:37+03:00
+title: "Naipli Çeşmesi"
+date: "2025-12-25T10:32:37+03:00"
 slug: "naipli-cesmesi"
 description: "### Naipli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4704647,37.8817329"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Naipli Çeşmesi

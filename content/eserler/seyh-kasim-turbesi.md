@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Kasım Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:20+03:00
+title: "Şeyh Kasım Türbesi"
+date: "2025-12-25T14:40:20+03:00"
 slug: "seyh-kasim-turbesi"
 description: "## Şeyh Kasım Türbesi: Tarihi ve Kültürel Mirası Anıtsal Bir Yer..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.4260292,37.7632484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Kasım Türbesi: Tarihi ve Kültürel Mirası Anıtsal Bir Yer

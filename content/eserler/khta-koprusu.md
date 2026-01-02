@@ -1,18 +1,17 @@
 ---
-title: "Kâhta Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:38+03:00
+title: "Kâhta Köprüsü"
+date: "2025-12-25T02:30:38+03:00"
 slug: "khta-koprusu"
 description: "## Kâhta Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cendere_köprüsü.jpg/1200px-Cendere_köprüsü.jpg"
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Kâhta"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.6519547,37.9454575"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kâhta Köprüsü: Tarihi ve Kültürel Bir Miras

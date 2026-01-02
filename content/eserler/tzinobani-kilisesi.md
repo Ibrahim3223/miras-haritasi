@@ -1,18 +1,17 @@
 ---
-title: "Tzinobani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:06:29+03:00
+title: "Tzinobani Kilisesi"
+date: "2025-12-25T09:06:29+03:00"
 slug: "tzinobani-kilisesi"
 description: "**Tzinobani Kilisesi: Tarihi ve Kültürel Mirasının Bir Parçası**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.496963888,41.322463888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tzinobani Kilisesi: Tarihi ve Kültürel Mirasının Bir Parçası**

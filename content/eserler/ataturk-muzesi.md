@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:27+03:00
+title: "Atatürk Müzesi"
+date: "2025-12-25T03:13:27+03:00"
 slug: "ataturk-muzesi"
 description: "## Atatürk Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Istanbul_asv2021-11_img69_Atatürk_Museum.jpg/1200px-Istanbul_asv2021-11_img69_Atatürk_Museum.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.987212,41.056397"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Atatürk Müzesi

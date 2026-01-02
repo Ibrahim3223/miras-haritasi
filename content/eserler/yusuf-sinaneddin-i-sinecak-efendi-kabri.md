@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Sinaneddin-i Sineçak Efendi Kabri | Miras Haritası"
-date: 2025-12-25T13:28:47+03:00
+title: "Yusuf Sinaneddin-i Sineçak Efendi Kabri"
+date: "2025-12-25T13:28:47+03:00"
 slug: "yusuf-sinaneddin-i-sinecak-efendi-kabri"
 description: "## Yusuf Sinaneddin-i Sineçak Efendi Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9414349,41.0488129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuf Sinaneddin-i Sineçak Efendi Kabri

@@ -1,18 +1,17 @@
 ---
-title: "Athena Tapınağı (Bergama) | Miras Haritası"
-date: 2025-12-25T08:11:11+03:00
+title: "Athena Tapınağı (Bergama)"
+date: "2025-12-25T08:11:11+03:00"
 slug: "athena-tapinagi-bergama"
 description: "### Athena Tapınağı (Bergama)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pergamon_Sanctuary_of_Athena_from_SW.jpg/1200px-Pergamon_Sanctuary_of_Athena_from_SW.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.183888888,39.131666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Athena Tapınağı (Bergama)

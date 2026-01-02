@@ -1,18 +1,17 @@
 ---
-title: "Umur Bey Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:30+03:00
+title: "Umur Bey Kütüphanesi"
+date: "2025-12-25T17:57:30+03:00"
 slug: "umur-bey-kutuphanesi"
 description: "# Umur Bey Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Umur Bey Kütüphanesi

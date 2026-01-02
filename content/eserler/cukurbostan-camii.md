@@ -1,18 +1,17 @@
 ---
-title: "Çukurbostan Camii | Miras Haritası"
-date: 2025-12-24T22:51:52+03:00
+title: "Çukurbostan Camii"
+date: "2025-12-24T22:51:52+03:00"
 slug: "cukurbostan-camii"
 description: "## Çukurbostan Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Balat"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9502201,41.0260086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukurbostan Camii

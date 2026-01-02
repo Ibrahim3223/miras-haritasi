@@ -1,18 +1,17 @@
 ---
-title: "Höyük Tepe, Sandıklı | Miras Haritası"
-date: 2025-12-25T05:37:07+03:00
+title: "Höyük Tepe, Sandıklı"
+date: "2025-12-25T05:37:07+03:00"
 slug: "hoyuk-tepe-sandikli"
 description: "## Höyük Tepe, Sandıklı: Afyonkarahisar'ın Gizli Güzeli..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.313783,38.4156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Höyük Tepe, Sandıklı: Afyonkarahisar'ın Gizli Güzeli

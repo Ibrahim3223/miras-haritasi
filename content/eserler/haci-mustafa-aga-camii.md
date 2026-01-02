@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mustafa Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:29:41+03:00
+title: "Hacı Mustafa Ağa Camii"
+date: "2025-12-24T23:29:41+03:00"
 slug: "haci-mustafa-aga-camii"
 description: "## Hacı Mustafa Ağa Camii: Konya'nın Ölümsüz Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5087318,37.8747063"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mustafa Ağa Camii: Konya'nın Ölümsüz Mirası

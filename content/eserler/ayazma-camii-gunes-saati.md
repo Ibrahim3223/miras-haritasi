@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Camii Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:43:11+03:00
+title: "Ayazma Camii Güneş Saati"
+date: "2025-12-25T13:43:11+03:00"
 slug: "ayazma-camii-gunes-saati"
 description: "### Ayazma Camii Güneş Saati..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ayazma_Camii_Güneş_Saati.jpg/1200px-Ayazma_Camii_Güneş_Saati.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.008728,41.0224266"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ayazma Camii Güneş Saati

@@ -1,18 +1,17 @@
 ---
-title: "Antimachos Lahdi | Miras Haritası"
-date: 2025-12-25T14:07:36+03:00
+title: "Antimachos Lahdi"
+date: "2025-12-25T14:07:36+03:00"
 slug: "antimachos-lahdi"
 description: "### Antimachos Lahdi: Antalya'nın Gizli Zirvesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4745617,36.3972473"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Antimachos Lahdi: Antalya'nın Gizli Zirvesi

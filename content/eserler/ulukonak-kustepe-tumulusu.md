@@ -1,18 +1,17 @@
 ---
-title: "Ulukonak Kuştepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:48:55+03:00
+title: "Ulukonak Kuştepe Tümülüsü"
+date: "2025-12-25T07:48:55+03:00"
 slug: "ulukonak-kustepe-tumulusu"
 description: "## Ulukonak Kuştepe Tümülüsü: Kırklareli'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0039825,41.6439552"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulukonak Kuştepe Tümülüsü: Kırklareli'nin Gizli Hazinesi

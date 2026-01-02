@@ -1,18 +1,17 @@
 ---
-title: "Gedikpaşa Ermeni Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:08+03:00
+title: "Gedikpaşa Ermeni Protestan Kilisesi"
+date: "2025-12-25T09:13:08+03:00"
 slug: "gedikpasa-ermeni-protestan-kilisesi"
 description: "## Gedikpaşa Ermeni Protestan Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.966698,41.006919"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gedikpaşa Ermeni Protestan Kilisesi

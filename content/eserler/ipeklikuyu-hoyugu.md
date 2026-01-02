@@ -1,18 +1,17 @@
 ---
-title: "İpeklikuyu Höyüğü | Miras Haritası"
-date: 2025-12-25T06:08:15+03:00
+title: "İpeklikuyu Höyüğü"
+date: "2025-12-25T06:08:15+03:00"
 slug: "ipeklikuyu-hoyugu"
 description: "### İpeklikuyu Höyüğü: İzmir'in Gizli Cevheri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2212772,38.446312"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İpeklikuyu Höyüğü: İzmir'in Gizli Cevheri

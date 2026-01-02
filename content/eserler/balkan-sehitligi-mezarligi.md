@@ -1,18 +1,17 @@
 ---
-title: "Balkan Şehitliği Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:56:18+03:00
+title: "Balkan Şehitliği Mezarlığı"
+date: "2025-12-25T15:56:18+03:00"
 slug: "balkan-sehitligi-mezarligi"
 description: "## Balkan Şehitliği Mezarlığı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5572205,41.6905861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balkan Şehitliği Mezarlığı

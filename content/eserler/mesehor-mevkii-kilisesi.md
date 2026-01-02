@@ -1,18 +1,17 @@
 ---
-title: "Mesehor Mevkii Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:25+03:00
+title: "Mesehor Mevkii Kilisesi"
+date: "2025-12-25T09:17:25+03:00"
 slug: "mesehor-mevkii-kilisesi"
 description: "## Mesehor Mevkii Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.350774,40.545939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mesehor Mevkii Kilisesi

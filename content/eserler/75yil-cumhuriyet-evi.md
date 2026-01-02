@@ -1,18 +1,17 @@
 ---
-title: "75.Yıl Cumhuriyet Evi | Miras Haritası"
-date: 2025-12-25T03:51:47+03:00
+title: "75.Yıl Cumhuriyet Evi"
+date: "2025-12-25T03:51:47+03:00"
 slug: "75yil-cumhuriyet-evi"
 description: "## 75.Yıl Cumhuriyet Evi Müzesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.773536,41.374852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 75.Yıl Cumhuriyet Evi Müzesi

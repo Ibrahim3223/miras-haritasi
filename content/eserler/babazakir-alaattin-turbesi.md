@@ -1,18 +1,17 @@
 ---
-title: "Babazakir Alaattin Türbesi | Miras Haritası"
-date: 2025-12-25T14:13:51+03:00
+title: "Babazakir Alaattin Türbesi"
+date: "2025-12-25T14:13:51+03:00"
 slug: "babazakir-alaattin-turbesi"
 description: "### Babazâkir Âlâaddin Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.075875,40.178952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Babazâkir Âlâaddin Türbesi

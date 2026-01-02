@@ -1,18 +1,17 @@
 ---
-title: "Celâleddin Karatay Türbesi | Miras Haritası"
-date: 2025-12-25T15:25:04+03:00
+title: "Celâleddin Karatay Türbesi"
+date: "2025-12-25T15:25:04+03:00"
 slug: "celleddin-karatay-turbesi"
 description: "## Celâleddin Karatay Türbesi: Konya'daki Bir Tarihî Anıt..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4927864,37.8749123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Celâleddin Karatay Türbesi: Konya'daki Bir Tarihî Anıt

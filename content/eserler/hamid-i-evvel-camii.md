@@ -1,18 +1,17 @@
 ---
-title: "Hamid-i Evvel Camii | Miras Haritası"
-date: 2025-12-24T22:55:42+03:00
+title: "Hamid-i Evvel Camii"
+date: "2025-12-24T22:55:42+03:00"
 slug: "hamid-i-evvel-camii"
 description: "## Hamid-i Evvel Camii: İstanbul'un Gizli Çağından Kalan bir Zenginlik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hamid-i_Evvel_Camii_IMG_3216.jpg/1200px-Hamid-i_Evvel_Camii_IMG_3216.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1520176,41.2171783"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hamid-i Evvel Camii: İstanbul'un Gizli Çağından Kalan bir Zenginlik

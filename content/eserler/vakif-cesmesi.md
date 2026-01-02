@@ -1,18 +1,17 @@
 ---
-title: "Vakıf Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:34:53+03:00
+title: "Vakıf Çeşmesi"
+date: "2025-12-25T12:34:53+03:00"
 slug: "vakif-cesmesi"
 description: "## Vakıf Çeşmesi: Devrek'teki Bir Tarihi Anıt..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Devrek"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.9548321,41.2192497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vakıf Çeşmesi: Devrek'teki Bir Tarihi Anıt

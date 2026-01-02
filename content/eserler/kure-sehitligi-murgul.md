@@ -1,18 +1,17 @@
 ---
-title: "Küre Şehitliği, Murgul | Miras Haritası"
-date: 2025-12-25T15:57:24+03:00
+title: "Küre Şehitliği, Murgul"
+date: "2025-12-25T15:57:24+03:00"
 slug: "kure-sehitligi-murgul"
 description: "### Küre Şehitliği: Murgul'un Anıtı..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Murgul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.570591,41.292516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küre Şehitliği: Murgul'un Anıtı

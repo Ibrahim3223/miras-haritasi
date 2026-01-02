@@ -1,18 +1,17 @@
 ---
-title: "Ayia Paraskevi Ayazması, Heybeliada | Miras Haritası"
-date: 2025-12-25T12:42:54+03:00
+title: "Ayia Paraskevi Ayazması, Heybeliada"
+date: "2025-12-25T12:42:54+03:00"
 slug: "ayia-paraskevi-ayazmasi-heybeliada"
 description: "### Ayia Paraskevi Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0991402,40.8776016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayia Paraskevi Ayazması

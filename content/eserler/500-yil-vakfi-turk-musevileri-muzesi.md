@@ -1,18 +1,17 @@
 ---
-title: "500. Yıl Vakfı Türk Musevileri Müzesi | Miras Haritası"
-date: 2025-12-25T03:09:20+03:00
+title: "500. Yıl Vakfı Türk Musevileri Müzesi"
+date: "2025-12-25T03:09:20+03:00"
 slug: "500-yil-vakfi-turk-musevileri-muzesi"
 description: "## 500. Yıl Vakfı Türk Musevileri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zulfaris_synagogue_jewish_museum_istanbul.jpg/1200px-Zulfaris_synagogue_jewish_museum_istanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9727457,41.0267555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## 500. Yıl Vakfı Türk Musevileri Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Yayıkçılar Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:43+03:00
+title: "Yayıkçılar Mahallesi Çeşmesi"
+date: "2025-12-25T10:12:43+03:00"
 slug: "yayikcilar-mahallesi-cesmesi"
 description: "## Yayıkçılar Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.149611,40.494113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yayıkçılar Mahallesi Çeşmesi

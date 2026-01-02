@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Habib Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:45:55+03:00
+title: "Yukarı Habib Efendi Camii"
+date: "2025-12-24T23:45:55+03:00"
 slug: "yukari-habib-efendi-camii"
 description: "## Yukarı Habib Efendi Camii: Erzurum'un Tarihi Simgesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2836723,39.9060974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Habib Efendi Camii: Erzurum'un Tarihi Simgesi

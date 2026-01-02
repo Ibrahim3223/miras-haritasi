@@ -1,18 +1,17 @@
 ---
-title: "Babadere Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:55:33+03:00
+title: "Babadere Köyü Camii"
+date: "2025-12-24T23:55:33+03:00"
 slug: "babadere-koyu-camii"
 description: "### Babadere Köyü Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.1900959,39.6083641"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Babadere Köyü Camii

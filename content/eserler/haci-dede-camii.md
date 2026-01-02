@@ -1,18 +1,17 @@
 ---
-title: "Hacı Dede Camii | Miras Haritası"
-date: 2025-12-24T23:27:21+03:00
+title: "Hacı Dede Camii"
+date: "2025-12-24T23:27:21+03:00"
 slug: "haci-dede-camii"
 description: "### Hacı Dede Camii: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7730293,41.3707962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Dede Camii: Kastamonu'nun Tarihi ve Kültürel Mirası

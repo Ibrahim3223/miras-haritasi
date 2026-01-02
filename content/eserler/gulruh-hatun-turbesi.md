@@ -1,18 +1,17 @@
 ---
-title: "Gülruh Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:47+03:00
+title: "Gülruh Hatun Türbesi"
+date: "2025-12-25T14:42:47+03:00"
 slug: "gulruh-hatun-turbesi"
 description: "### Gülruh Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gülruh_Sultan_Türbesi_in_2003_0731.jpg/1200px-Gülruh_Sultan_Türbesi_in_2003_0731.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0454063,40.1906128"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Gülruh Hatun Türbesi

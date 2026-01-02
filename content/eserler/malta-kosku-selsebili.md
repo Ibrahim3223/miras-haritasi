@@ -1,18 +1,17 @@
 ---
-title: "Malta Köşkü Selsebili | Miras Haritası"
-date: 2025-12-25T13:05:40+03:00
+title: "Malta Köşkü Selsebili"
+date: "2025-12-25T13:05:40+03:00"
 slug: "malta-kosku-selsebili"
 description: "## Malta Köşkü Selsebili..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0159596,41.0511395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malta Köşkü Selsebili

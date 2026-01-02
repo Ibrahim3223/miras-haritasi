@@ -1,18 +1,17 @@
 ---
-title: "Gömeçli Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:34+03:00
+title: "Gömeçli Dede Türbesi"
+date: "2025-12-25T15:03:34+03:00"
 slug: "gomecli-dede-turbesi"
 description: "**Gömeçli Dede Türbesi: İzmir'in Gizli Çiçeği**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gömeçli_Dede_Türbesi.jpg/1200px-Gömeçli_Dede_Türbesi.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.6270428,38.2195625"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Gömeçli Dede Türbesi: İzmir'in Gizli Çiçeği**

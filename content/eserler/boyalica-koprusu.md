@@ -1,18 +1,17 @@
 ---
-title: "Boyalıca Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:16+03:00
+title: "Boyalıca Köprüsü"
+date: "2025-12-25T02:24:16+03:00"
 slug: "boyalica-koprusu"
 description: "## Boyalıca Köprüsü..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.5826888,40.4917902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boyalıca Köprüsü

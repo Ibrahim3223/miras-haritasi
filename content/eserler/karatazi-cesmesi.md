@@ -1,18 +1,17 @@
 ---
-title: "Karatazı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:15+03:00
+title: "Karatazı Çeşmesi"
+date: "2025-12-25T11:42:15+03:00"
 slug: "karatazi-cesmesi"
 description: "## Karatazı Çeşmesi: Erzurum'un Görsel Yaratısı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2835846,39.907341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karatazı Çeşmesi: Erzurum'un Görsel Yaratısı

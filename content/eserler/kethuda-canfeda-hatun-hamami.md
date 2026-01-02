@@ -1,18 +1,17 @@
 ---
-title: "Kethüda Canfeda Hatun Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:02+03:00
+title: "Kethüda Canfeda Hatun Hamamı"
+date: "2025-12-25T17:03:02+03:00"
 slug: "kethuda-canfeda-hatun-hamami"
 description: "### Kethüda Canfeda Hatun Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.1161747,41.1567039"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kethüda Canfeda Hatun Hamamı

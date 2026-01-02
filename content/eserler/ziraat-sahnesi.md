@@ -1,18 +1,17 @@
 ---
-title: "Ziraat Sahnesi | Miras Haritası"
-date: 2025-12-25T16:17:11+03:00
+title: "Ziraat Sahnesi"
+date: "2025-12-25T16:17:11+03:00"
 slug: "ziraat-sahnesi"
 description: "# Ziraat Sahnesi: Ankara'nın Eski Tiyatro Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.8595,39.918916666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ziraat Sahnesi: Ankara'nın Eski Tiyatro Anıtı

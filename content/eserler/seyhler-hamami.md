@@ -1,18 +1,17 @@
 ---
-title: "Şeyhler Hamamı | Miras Haritası"
-date: 2025-12-25T16:23:12+03:00
+title: "Şeyhler Hamamı"
+date: "2025-12-25T16:23:12+03:00"
 slug: "seyhler-hamami"
 description: "# Şeyhler Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "41.2725729,39.903461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyhler Hamamı

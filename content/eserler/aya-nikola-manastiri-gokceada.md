@@ -1,18 +1,17 @@
 ---
-title: "Aya Nikola Manastırı (Gökçeada) | Miras Haritası"
-date: 2025-12-25T09:55:20+03:00
+title: "Aya Nikola Manastırı (Gökçeada)"
+date: "2025-12-25T09:55:20+03:00"
 slug: "aya-nikola-manastiri-gokceada"
 description: "### Aya Nikola Manastırı: Gökçeada'nın Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.7830334,40.1989441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Nikola Manastırı: Gökçeada'nın Gizli Çehresini Keşfedin

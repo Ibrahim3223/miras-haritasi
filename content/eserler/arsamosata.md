@@ -1,18 +1,17 @@
 ---
-title: "Arsamosata | Miras Haritası"
-date: 2025-12-25T04:22:58+03:00
+title: "Arsamosata"
+date: "2025-12-25T04:22:58+03:00"
 slug: "arsamosata"
 description: "## Arsamosata: Geç Antik Dönemin Gizli Şehirleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.5109175,38.6608665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arsamosata: Geç Antik Dönemin Gizli Şehirleri

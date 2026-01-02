@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Laka Çeşme Kuzey Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:27+03:00
+title: "Üsküp Laka Çeşme Kuzey Tümülüsü"
+date: "2025-12-25T07:52:27+03:00"
 slug: "uskup-laka-cesme-kuzey-tumulusu"
 description: "## Üsküp Laka Çeşme Kuzey Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4220638,41.7704811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üsküp Laka Çeşme Kuzey Tümülüsü

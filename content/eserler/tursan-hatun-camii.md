@@ -1,18 +1,17 @@
 ---
-title: "Turşan Hatun Camii | Miras Haritası"
-date: 2025-12-24T23:17:17+03:00
+title: "Turşan Hatun Camii"
+date: "2025-12-24T23:17:17+03:00"
 slug: "tursan-hatun-camii"
 description: "## Turşan Hatun Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7172108,41.6420174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turşan Hatun Camii

@@ -1,18 +1,17 @@
 ---
-title: "Atina (Pontus) | Miras Haritası"
-date: 2025-12-25T04:41:38+03:00
+title: "Atina (Pontus)"
+date: "2025-12-25T04:41:38+03:00"
 slug: "atina-pontus"
 description: "## Atina (Pontus)..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.88889,41.18111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atina (Pontus)

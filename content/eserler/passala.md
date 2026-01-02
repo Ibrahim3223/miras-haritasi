@@ -1,18 +1,17 @@
 ---
-title: "Passala | Miras Haritası"
-date: 2025-12-25T04:57:30+03:00
+title: "Passala"
+date: "2025-12-25T04:57:30+03:00"
 slug: "passala"
 description: "## Passala: Milas'ın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.649641,37.250317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Passala: Milas'ın Gizemli Arkeolojik Sitleri

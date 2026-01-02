@@ -1,18 +1,17 @@
 ---
-title: "Tabae Roma Hamamı | Miras Haritası"
-date: 2025-12-25T17:00:12+03:00
+title: "Tabae Roma Hamamı"
+date: "2025-12-25T17:00:12+03:00"
 slug: "tabae-roma-hamami"
 description: "## Tabae Roma Hamamı: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Kale"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.8463669,37.4312668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabae Roma Hamamı: Denizli'nin Gizli Cenneti

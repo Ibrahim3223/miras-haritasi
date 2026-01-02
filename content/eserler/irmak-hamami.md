@@ -1,18 +1,17 @@
 ---
-title: "Irmak Hamamı | Miras Haritası"
-date: 2025-12-25T16:23:31+03:00
+title: "Irmak Hamamı"
+date: "2025-12-25T16:23:31+03:00"
 slug: "irmak-hamami"
 description: "## Irmak Hamamı..."
 featured_image: ""
-province: "Adana Vilayeti"
-iller: ["Adana Vilayeti"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: "Adana Vilayeti"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.332519,36.9837004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Irmak Hamamı

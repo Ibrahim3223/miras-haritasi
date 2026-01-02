@@ -1,18 +1,17 @@
 ---
-title: "Yamaçüstü Çölgenes Camii | Miras Haritası"
-date: 2025-12-25T00:17:52+03:00
+title: "Yamaçüstü Çölgenes Camii"
+date: "2025-12-25T00:17:52+03:00"
 slug: "yamacustu-colgenes-camii"
 description: "### Yamaçüstü Çölgenes Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3940709,40.60272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yamaçüstü Çölgenes Camii

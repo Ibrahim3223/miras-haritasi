@@ -1,18 +1,17 @@
 ---
-title: "İkiçeşmelik Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:22:55+03:00
+title: "İkiçeşmelik Çeşmesi, Çeşme"
+date: "2025-12-25T12:22:55+03:00"
 slug: "ikicesmelik-cesmesi-cesme"
 description: "## İkiçeşmelik Çeşmesi: Çeşme'nin Tarihi Bir Sembolü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3105278,38.2806854"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkiçeşmelik Çeşmesi: Çeşme'nin Tarihi Bir Sembolü

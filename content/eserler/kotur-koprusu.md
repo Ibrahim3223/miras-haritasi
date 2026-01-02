@@ -1,18 +1,17 @@
 ---
-title: "Kötür Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:04+03:00
+title: "Kötür Köprüsü"
+date: "2025-12-25T02:33:04+03:00"
 slug: "kotur-koprusu"
 description: "# Kötür Köprüsü..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Tercan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.25363,39.73056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kötür Köprüsü

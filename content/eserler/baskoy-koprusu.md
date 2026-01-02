@@ -1,18 +1,17 @@
 ---
-title: "Başköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:00:30+03:00
+title: "Başköy Köprüsü"
+date: "2025-12-25T02:00:30+03:00"
 slug: "baskoy-koprusu"
 description: "**Başköy Köprüsü: Doğu Karadeniz'in Görsel Harikası**..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.8904025,41.0859602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Başköy Köprüsü: Doğu Karadeniz'in Görsel Harikası**

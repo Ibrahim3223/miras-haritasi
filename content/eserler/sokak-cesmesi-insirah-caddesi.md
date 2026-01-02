@@ -1,18 +1,17 @@
 ---
-title: "Sokak Çeşmesi, İnşirah Caddesi | Miras Haritası"
-date: 2025-12-25T12:06:21+03:00
+title: "Sokak Çeşmesi, İnşirah Caddesi"
+date: "2025-12-25T12:06:21+03:00"
 slug: "sokak-cesmesi-insirah-caddesi"
 description: "## Sokak Çeşmesi: Beşiktaş'ta Bir Tarihi Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0385342,41.0784035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokak Çeşmesi: Beşiktaş'ta Bir Tarihi Harikası

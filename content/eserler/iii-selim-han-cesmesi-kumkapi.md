@@ -1,18 +1,17 @@
 ---
-title: "III. Selim Han Çeşmesi, Kumkapı | Miras Haritası"
-date: 2025-12-25T12:12:19+03:00
+title: "III. Selim Han Çeşmesi, Kumkapı"
+date: "2025-12-25T12:12:19+03:00"
 slug: "iii-selim-han-cesmesi-kumkapi"
 description: "# III. Selim Han Çeşmesi, Kumkapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.962117,41.006308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # III. Selim Han Çeşmesi, Kumkapı

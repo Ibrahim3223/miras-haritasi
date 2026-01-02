@@ -1,18 +1,17 @@
 ---
-title: "Üç Gözlü Dede Kabri Haziresi | Miras Haritası"
-date: 2025-12-25T13:37:38+03:00
+title: "Üç Gözlü Dede Kabri Haziresi"
+date: "2025-12-25T13:37:38+03:00"
 slug: "uc-gozlu-dede-kabri-haziresi"
 description: "## Üç Gözlü Dede Kabri Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.929486,41.000959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üç Gözlü Dede Kabri Haziresi

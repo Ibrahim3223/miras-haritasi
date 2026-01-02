@@ -1,18 +1,17 @@
 ---
-title: "Kestane Camii, Nazilli | Miras Haritası"
-date: 2025-12-25T00:06:22+03:00
+title: "Kestane Camii, Nazilli"
+date: "2025-12-25T00:06:22+03:00"
 slug: "kestane-camii-nazilli"
 description: "### Kestane Camii: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3274956,37.9167175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kestane Camii: Aydın'ın Tarihi Bir Mirası

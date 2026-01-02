@@ -1,18 +1,17 @@
 ---
-title: "Sabauri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:57+03:00
+title: "Sabauri Kilisesi"
+date: "2025-12-25T09:00:57+03:00"
 slug: "sabauri-kilisesi"
 description: "# Sabauri Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka ilçesi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.71775,41.450611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sabauri Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Seben Çeltikdere Bizans Kilisesi | Miras Haritası"
-date: 2025-12-25T09:08:51+03:00
+title: "Seben Çeltikdere Bizans Kilisesi"
+date: "2025-12-25T09:08:51+03:00"
 slug: "seben-celtikdere-bizans-kilisesi"
 description: "## Seben Çeltikdere Bizans Kilisesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Seben (ilçe)"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "31.6917774,40.3471901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seben Çeltikdere Bizans Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Konak Pier Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:58:35+03:00
+title: "Konak Pier Çeşmesi"
+date: "2025-12-25T11:58:35+03:00"
 slug: "konak-pier-cesmesi"
 description: "## Konak Pier Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1302757,38.4225159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Konak Pier Çeşmesi

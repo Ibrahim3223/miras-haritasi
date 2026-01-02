@@ -1,18 +1,17 @@
 ---
-title: "Lala Hayrettin Mescidi | Miras Haritası"
-date: 2025-12-24T23:22:53+03:00
+title: "Lala Hayrettin Mescidi"
+date: "2025-12-24T23:22:53+03:00"
 slug: "lala-hayrettin-mescidi"
 description: "## Lala Hayrettin Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9781672,41.0097218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lala Hayrettin Mescidi

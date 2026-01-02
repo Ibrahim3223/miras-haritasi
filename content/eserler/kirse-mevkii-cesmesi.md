@@ -1,18 +1,17 @@
 ---
-title: "Kirse Mevkii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:58:49+03:00
+title: "Kirse Mevkii Çeşmesi"
+date: "2025-12-25T12:58:49+03:00"
 slug: "kirse-mevkii-cesmesi"
 description: "## Kirse Mevkii Çeşmesi: Ayvacık'ın Tarihi Bir Çeşmesinde Keşfetmek..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.532790845,39.543218926"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kirse Mevkii Çeşmesi: Ayvacık'ın Tarihi Bir Çeşmesinde Keşfetmek

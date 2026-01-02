@@ -1,18 +1,17 @@
 ---
-title: "Eskil Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:59:26+03:00
+title: "Eskil Ulu Camii"
+date: "2025-12-24T21:59:26+03:00"
 slug: "eskil-ulu-camii"
 description: "## Eskil Ulu Camii: Aksaray'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Eskil"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.411305555,38.404194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskil Ulu Camii: Aksaray'ın Tarihî Bir Mirası

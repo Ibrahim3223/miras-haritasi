@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Aliağa | Miras Haritası"
-date: 2025-12-25T00:57:51+03:00
+title: "Çarşı Camii, Aliağa"
+date: "2025-12-25T00:57:51+03:00"
 slug: "carsi-camii-aliaga"
 description: "# Çarşı Camii, Aliağa: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Aliağa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9733887,38.8007698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çarşı Camii, Aliağa: İzmir'in Tarihi ve Kültürel Mirası

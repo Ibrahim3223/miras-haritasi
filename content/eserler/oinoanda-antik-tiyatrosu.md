@@ -1,18 +1,17 @@
 ---
-title: "Oinoanda Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:22:33+03:00
+title: "Oinoanda Antik Tiyatrosu"
+date: "2025-12-25T08:22:33+03:00"
 slug: "oinoanda-antik-tiyatrosu"
 description: "### Oinoanda Antik Tiyatrosu: Muğla'nın Görsel Şövalyesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.549839,36.809808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Oinoanda Antik Tiyatrosu: Muğla'nın Görsel Şövalyesi

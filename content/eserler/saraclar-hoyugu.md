@@ -1,18 +1,17 @@
 ---
-title: "Saraçlar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:10:46+03:00
+title: "Saraçlar Höyüğü"
+date: "2025-12-25T06:10:46+03:00"
 slug: "saraclar-hoyugu"
 description: "## Saraçlar Höyüğü: Aydın'ın Gizli Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9738007,37.6114006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraçlar Höyüğü: Aydın'ın Gizli Anıtı

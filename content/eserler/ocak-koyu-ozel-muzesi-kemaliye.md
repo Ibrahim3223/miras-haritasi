@@ -1,18 +1,17 @@
 ---
-title: "Ocak Köyü Özel Müzesi, Kemaliye | Miras Haritası"
-date: 2025-12-25T03:55:23+03:00
+title: "Ocak Köyü Özel Müzesi, Kemaliye"
+date: "2025-12-25T03:55:23+03:00"
 slug: "ocak-koyu-ozel-muzesi-kemaliye"
 description: "## Ocak Köyü Özel Müzesi, Kemaliye..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemaliye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.5941582,39.1476669"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ocak Köyü Özel Müzesi, Kemaliye

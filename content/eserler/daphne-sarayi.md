@@ -1,18 +1,17 @@
 ---
-title: "Daphne Sarayı | Miras Haritası"
-date: 2025-12-25T13:14:57+03:00
+title: "Daphne Sarayı"
+date: "2025-12-25T13:14:57+03:00"
 slug: "daphne-sarayi"
 description: "## Daphne Sarayı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.976,41.006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daphne Sarayı

@@ -1,18 +1,17 @@
 ---
-title: "Hakkı Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:14:06+03:00
+title: "Hakkı Bey Çeşmesi"
+date: "2025-12-25T11:14:06+03:00"
 slug: "hakki-bey-cesmesi"
 description: "## Hakkı Bey Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.934197,41.036802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hakkı Bey Çeşmesi

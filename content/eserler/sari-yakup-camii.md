@@ -1,18 +1,17 @@
 ---
-title: "Sarı Yakup Camii | Miras Haritası"
-date: 2025-12-24T22:41:21+03:00
+title: "Sarı Yakup Camii"
+date: "2025-12-24T22:41:21+03:00"
 slug: "sari-yakup-camii"
 description: "### Sarı Yakup Camii: Konya'nın Değerli Cami Örnekleri Arasında..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5023918,37.8636475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarı Yakup Camii: Konya'nın Değerli Cami Örnekleri Arasında

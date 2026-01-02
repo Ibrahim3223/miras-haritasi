@@ -1,18 +1,17 @@
 ---
-title: "Asilhanbey Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:48+03:00
+title: "Asilhanbey Köprüsü"
+date: "2025-12-25T02:43:48+03:00"
 slug: "asilhanbey-koprusu"
 description: "## Asilhanbey Köprüsü..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.327292,39.832601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asilhanbey Köprüsü

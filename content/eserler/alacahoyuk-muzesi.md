@@ -1,18 +1,17 @@
 ---
-title: "Alacahöyük Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:47+03:00
+title: "Alacahöyük Müzesi"
+date: "2025-12-25T03:37:47+03:00"
 slug: "alacahoyuk-muzesi"
 description: "## Alacahöyük Müzesi: Tarihî Bir Mirasın Öyküsü..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.696003,40.2330627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alacahöyük Müzesi: Tarihî Bir Mirasın Öyküsü

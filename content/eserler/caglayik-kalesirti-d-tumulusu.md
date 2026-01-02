@@ -1,18 +1,17 @@
 ---
-title: "Çağlayık Kalesırtı D Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:21:13+03:00
+title: "Çağlayık Kalesırtı D Tümülüsü"
+date: "2025-12-25T07:21:13+03:00"
 slug: "caglayik-kalesirti-d-tumulusu"
 description: "## Çağlayık Kalesırtı D Tümülüsü: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3268013,42.034668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlayık Kalesırtı D Tümülüsü: Kırklareli'nin Gizli Cenneti

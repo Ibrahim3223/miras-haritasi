@@ -1,18 +1,17 @@
 ---
-title: "Bodrum Deniz Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:45+03:00
+title: "Bodrum Deniz Müzesi"
+date: "2025-12-25T03:50:45+03:00"
 slug: "bodrum-deniz-muzesi"
 description: "## Bodrum Deniz Müzesi: Bodrum'un Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4318867,37.0347366"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bodrum Deniz Müzesi: Bodrum'un Gizli Çehresini Keşfedin

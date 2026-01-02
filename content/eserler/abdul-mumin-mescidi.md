@@ -1,18 +1,17 @@
 ---
-title: "Abdül-Mümin Mescidi | Miras Haritası"
-date: 2025-12-24T22:57:04+03:00
+title: "Abdül-Mümin Mescidi"
+date: "2025-12-24T22:57:04+03:00"
 slug: "abdul-mumin-mescidi"
 description: "## Abdül-Mümin Mescidi: Konya'nın Tarihî Bir Çağıntısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.489399,37.8702583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdül-Mümin Mescidi: Konya'nın Tarihî Bir Çağıntısı

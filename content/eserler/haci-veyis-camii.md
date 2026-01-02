@@ -1,18 +1,17 @@
 ---
-title: "Hacı Veyis Camii | Miras Haritası"
-date: 2025-12-24T23:28:57+03:00
+title: "Hacı Veyis Camii"
+date: "2025-12-24T23:28:57+03:00"
 slug: "haci-veyis-camii"
 description: "## Hacı Veyis Camii: Konya'nın Tarihî Bir Görseli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hac_Veyis_Camii_2025-10-19_1760884258.jpg/1200px-Hac_Veyis_Camii_2025-10-19_1760884258.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5106544,37.870285"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Veyis Camii: Konya'nın Tarihî Bir Görseli

@@ -1,18 +1,17 @@
 ---
-title: "Akhisar Müzesi | Miras Haritası"
-date: 2025-12-25T03:15:52+03:00
+title: "Akhisar Müzesi"
+date: "2025-12-25T03:15:52+03:00"
 slug: "akhisar-muzesi"
 description: "## Akhisar Müzesi: Manisa'nın Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Akhisar_Museum_Outer_Gate.jpg/1200px-Akhisar_Museum_Outer_Gate.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.837222222,38.920277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akhisar Müzesi: Manisa'nın Kültür Mirası

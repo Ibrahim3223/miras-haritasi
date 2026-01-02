@@ -1,18 +1,17 @@
 ---
-title: "Ayasuluk | Miras Haritası"
-date: 2025-12-25T08:14:54+03:00
+title: "Ayasuluk"
+date: "2025-12-25T08:14:54+03:00"
 slug: "ayasuluk"
 description: "## Ayasuluk: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ephesos_St_John_byzantine_&_turkish_fortress.JPG/1200px-Ephesos_St_John_byzantine_&_turkish_fortress.JPG"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.368111111,37.9555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayasuluk: Tarihi ve Kültürel Miras

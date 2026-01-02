@@ -1,18 +1,17 @@
 ---
-title: "Hacı Murad-ı Veli Türbesi | Miras Haritası"
-date: 2025-12-25T14:15:31+03:00
+title: "Hacı Murad-ı Veli Türbesi"
+date: "2025-12-25T14:15:31+03:00"
 slug: "haci-murad-i-veli-turbesi"
 description: "## Hacı Murad-ı Veli Türbesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Eldivan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.468782,40.580834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Murad-ı Veli Türbesi

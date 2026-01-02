@@ -1,18 +1,17 @@
 ---
-title: "Geyikli Camii | Miras Haritası"
-date: 2025-12-24T23:03:47+03:00
+title: "Geyikli Camii"
+date: "2025-12-24T23:03:47+03:00"
 slug: "geyikli-camii"
 description: "## Geyikli Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Tosya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.1183395,40.9319153"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Geyikli Camii

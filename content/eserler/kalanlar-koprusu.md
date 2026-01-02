@@ -1,18 +1,17 @@
 ---
-title: "Kalanlar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:18+03:00
+title: "Kalanlar Köprüsü"
+date: "2025-12-25T02:42:18+03:00"
 slug: "kalanlar-koprusu"
 description: "## Kalanlar Köprüsü..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.0231895,38.3729286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalanlar Köprüsü

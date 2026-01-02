@@ -1,18 +1,17 @@
 ---
-title: "Kapukargın Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:14+03:00
+title: "Kapukargın Köprüsü"
+date: "2025-12-25T02:21:14+03:00"
 slug: "kapukargin-koprusu"
 description: "## Kapukargın Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Dalaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.8113289,36.7237892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapukargın Köprüsü

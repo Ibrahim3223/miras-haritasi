@@ -1,18 +1,17 @@
 ---
-title: "Merkez Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:56+03:00
+title: "Merkez Efendi Türbesi"
+date: "2025-12-25T14:24:56+03:00"
 slug: "merkez-efendi-turbesi"
 description: "## Merkez Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tomb_of_Merkez_Efendi.jpg/1200px-Tomb_of_Merkez_Efendi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.920146,41.015951"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Merkez Efendi Türbesi

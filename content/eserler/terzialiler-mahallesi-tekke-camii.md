@@ -1,18 +1,17 @@
 ---
-title: "Terzialiler Mahallesi Tekke Camii | Miras Haritası"
-date: 2025-12-25T00:31:54+03:00
+title: "Terzialiler Mahallesi Tekke Camii"
+date: "2025-12-25T00:31:54+03:00"
 slug: "terzialiler-mahallesi-tekke-camii"
 description: "## Terzialiler Mahallesi Tekke Camii..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.146569654,40.906322316"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terzialiler Mahallesi Tekke Camii

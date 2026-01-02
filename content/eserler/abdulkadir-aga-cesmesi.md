@@ -1,18 +1,17 @@
 ---
-title: "Abdülkadir Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:42+03:00
+title: "Abdülkadir Ağa Çeşmesi"
+date: "2025-12-25T11:07:42+03:00"
 slug: "abdulkadir-aga-cesmesi"
 description: "## Abdülkadir Ağa Çeşmesi ..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kaptanpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.965265,41.040033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdülkadir Ağa Çeşmesi 

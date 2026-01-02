@@ -1,18 +1,17 @@
 ---
-title: "Hünkar Mescidi | Miras Haritası"
-date: 2025-12-25T01:06:01+03:00
+title: "Hünkar Mescidi"
+date: "2025-12-25T01:06:01+03:00"
 slug: "hunkar-mescidi"
 description: "# Hünkar Mescidi: Antakya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1672935,36.2030716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hünkar Mescidi: Antakya'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Azmak Deresi üzerindeki köprü | Miras Haritası"
-date: 2025-12-25T03:05:26+03:00
+title: "Azmak Deresi üzerindeki köprü"
+date: "2025-12-25T03:05:26+03:00"
 slug: "azmak-deresi-uzerindeki-kopru"
 description: "## Azmak Deresi Üzerindeki Köprü: Muğla'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Azmak_Çayı_III.jpg/1200px-Azmak_Çayı_III.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.327595,37.050117"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Azmak Deresi Üzerindeki Köprü: Muğla'nın Tarihi ve Kültürel Mirası

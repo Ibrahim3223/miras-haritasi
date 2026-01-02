@@ -1,18 +1,17 @@
 ---
-title: "Çanakçı Kaya Mezarları | Miras Haritası"
-date: 2025-12-25T13:19:59+03:00
+title: "Çanakçı Kaya Mezarları"
+date: "2025-12-25T13:19:59+03:00"
 slug: "canakci-kaya-mezarlari"
 description: "## Çanakçı Kaya Mezarları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Çanakçı.jpg/1200px-Çanakçı.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.17888889,36.52583333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çanakçı Kaya Mezarları

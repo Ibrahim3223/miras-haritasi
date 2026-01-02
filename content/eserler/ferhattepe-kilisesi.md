@@ -1,18 +1,17 @@
 ---
-title: "Ferhattepe Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:30+03:00
+title: "Ferhattepe Kilisesi"
+date: "2025-12-25T09:19:30+03:00"
 slug: "ferhattepe-kilisesi"
 description: "## Ferhattepe Kilisesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.8813705,37.4975204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferhattepe Kilisesi

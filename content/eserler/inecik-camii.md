@@ -1,18 +1,17 @@
 ---
-title: "İnecik Camii | Miras Haritası"
-date: 2025-12-24T23:36:25+03:00
+title: "İnecik Camii"
+date: "2025-12-24T23:36:25+03:00"
 slug: "inecik-camii"
 description: "## İnecik Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.565197,38.5504112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnecik Camii: İzmir'in Gizli Cenneti

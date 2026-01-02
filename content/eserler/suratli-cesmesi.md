@@ -1,18 +1,17 @@
 ---
-title: "Süratli Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:47:12+03:00
+title: "Süratli Çeşmesi"
+date: "2025-12-25T12:47:12+03:00"
 slug: "suratli-cesmesi"
 description: "## Süratli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.741272,38.0843773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süratli Çeşmesi

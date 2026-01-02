@@ -1,18 +1,17 @@
 ---
-title: "Kys (Karya) | Miras Haritası"
-date: 2025-12-25T05:06:31+03:00
+title: "Kys (Karya)"
+date: "2025-12-25T05:06:31+03:00"
 slug: "kys-karya"
 description: "## Kys (Karya): Antik Uygarlığın Kalıntıları..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.423734,37.428882"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kys (Karya): Antik Uygarlığın Kalıntıları

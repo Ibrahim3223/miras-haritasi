@@ -1,18 +1,17 @@
 ---
-title: "Orta Mahalle Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:33+03:00
+title: "Orta Mahalle Kilisesi"
+date: "2025-12-25T09:17:33+03:00"
 slug: "orta-mahalle-kilisesi"
 description: "### Orta Mahalle Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kürtün"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.986649,40.508232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Orta Mahalle Kilisesi

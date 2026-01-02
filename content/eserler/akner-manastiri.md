@@ -1,18 +1,17 @@
 ---
-title: "Akner Manastırı | Miras Haritası"
-date: 2025-12-25T09:47:37+03:00
+title: "Akner Manastırı"
+date: "2025-12-25T09:47:37+03:00"
 slug: "akner-manastiri"
 description: "## Akner Manastırı..."
 featured_image: ""
 province: "Aladağ"
-iller: ["Aladağ"]
+iller: '["Aladağ"]'
 district: "Eğner"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "35.4596078,37.448194"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akner Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Minnetler Aşağı Tümülüs | Miras Haritası"
-date: 2025-12-25T07:39:16+03:00
+title: "Minnetler Aşağı Tümülüs"
+date: "2025-12-25T07:39:16+03:00"
 slug: "minnetler-asagi-tumulus"
 description: "## Minnetler Aşağı Tümülüs: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0013504,41.4230957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Minnetler Aşağı Tümülüs: Kırklareli'nin Gizli Cenneti

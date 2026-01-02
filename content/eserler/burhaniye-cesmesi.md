@@ -1,18 +1,17 @@
 ---
-title: "Burhaniye Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:11+03:00
+title: "Burhaniye Çeşmesi"
+date: "2025-12-25T11:06:11+03:00"
 slug: "burhaniye-cesmesi"
 description: "### Burhaniye Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.04739,41.029065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Burhaniye Çeşmesi

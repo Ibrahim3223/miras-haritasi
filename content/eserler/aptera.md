@@ -1,18 +1,17 @@
 ---
-title: "Aptera | Miras Haritası"
-date: 2025-12-25T05:01:56+03:00
+title: "Aptera"
+date: "2025-12-25T05:01:56+03:00"
 slug: "aptera"
 description: "## Aptera: Antik Yunanistan'ın Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aptera: Antik Yunanistan'ın Gizli Harikası

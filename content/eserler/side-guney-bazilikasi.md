@@ -1,18 +1,17 @@
 ---
-title: "Side Güney Bazilikası | Miras Haritası"
-date: 2025-12-25T08:42:37+03:00
+title: "Side Güney Bazilikası"
+date: "2025-12-25T08:42:37+03:00"
 slug: "side-guney-bazilikasi"
 description: "## Side Güney Bazilikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Side_Süd_Basilika_4.JPG/1200px-Side_Süd_Basilika_4.JPG"
 province: "Manavgat (ilçe)"
-iller: ["Manavgat (ilçe)"]
+iller: '["Manavgat (ilçe)"]'
 district: "Side"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "31.386944444,36.764444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Side Güney Bazilikası

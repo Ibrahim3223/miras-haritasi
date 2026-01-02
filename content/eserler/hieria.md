@@ -1,18 +1,17 @@
 ---
-title: "Hieria | Miras Haritası"
-date: 2025-12-25T04:16:48+03:00
+title: "Hieria"
+date: "2025-12-25T04:16:48+03:00"
 slug: "hieria"
 description: "## Hieria: İyon Kökenli Bir Kutsal Yer..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0435,40.973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hieria: İyon Kökenli Bir Kutsal Yer

@@ -1,18 +1,17 @@
 ---
-title: "Mandıralık Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:46:05+03:00
+title: "Mandıralık Tümülüsü"
+date: "2025-12-25T07:46:05+03:00"
 slug: "mandiralik-tumulusu"
 description: "## Mandıralık Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1577187,41.9587784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mandıralık Tümülüsü

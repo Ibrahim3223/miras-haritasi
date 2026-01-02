@@ -1,18 +1,17 @@
 ---
-title: "Cezayirli Hasan Paşa Camii, Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:58+03:00
+title: "Cezayirli Hasan Paşa Camii, Şadırvanı"
+date: "2025-12-25T10:02:58+03:00"
 slug: "cezayirli-hasan-pasa-camii-sadirvani"
 description: "## Cezayirli Hasan Paşa Camii, Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9682617,41.0314293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cezayirli Hasan Paşa Camii, Şadırvanı

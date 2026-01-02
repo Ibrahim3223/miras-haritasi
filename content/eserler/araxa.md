@@ -1,18 +1,17 @@
 ---
-title: "Araxa | Miras Haritası"
-date: 2025-12-25T04:18:55+03:00
+title: "Araxa"
+date: "2025-12-25T04:18:55+03:00"
 slug: "araxa"
 description: "## Araxa Arkeolojik Sitesi: Muğla'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lykisches_Felsengrab_bei_Araxa._02.jpg/1200px-Lykisches_Felsengrab_bei_Araxa._02.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.36897222,36.74602778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Araxa Arkeolojik Sitesi: Muğla'nın Gizli Cenneti

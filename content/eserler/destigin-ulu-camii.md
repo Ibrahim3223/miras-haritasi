@@ -1,18 +1,17 @@
 ---
-title: "Deştiğin Ulu Camii | Miras Haritası"
-date: 2025-12-25T00:16:14+03:00
+title: "Deştiğin Ulu Camii"
+date: "2025-12-25T00:16:14+03:00"
 slug: "destigin-ulu-camii"
 description: "## Deştiğin Ulu Camii..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Doğanhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.634908673,38.055454987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deştiğin Ulu Camii

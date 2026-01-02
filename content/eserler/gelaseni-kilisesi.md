@@ -1,18 +1,17 @@
 ---
-title: "Gelaşeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:02+03:00
+title: "Gelaşeni Kilisesi"
+date: "2025-12-25T09:03:02+03:00"
 slug: "gelaseni-kilisesi"
 description: "### Gelaşeni Kilisesi..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Güleş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.20325,41.040027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gelaşeni Kilisesi

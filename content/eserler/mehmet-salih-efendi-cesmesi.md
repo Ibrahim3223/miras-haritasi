@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Salih Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:43+03:00
+title: "Mehmet Salih Efendi Çeşmesi"
+date: "2025-12-25T11:29:43+03:00"
 slug: "mehmet-salih-efendi-cesmesi"
 description: "### Mehmet Salih Efendi Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7341003,37.3726006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehmet Salih Efendi Çeşmesi

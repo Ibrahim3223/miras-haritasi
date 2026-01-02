@@ -1,18 +1,17 @@
 ---
-title: "Apameia Kibotos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:20:31+03:00
+title: "Apameia Kibotos Antik Tiyatrosu"
+date: "2025-12-25T16:20:31+03:00"
 slug: "apameia-kibotos-antik-tiyatrosu"
 description: "## Apameia Kibotos Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Apameia_Kibotos_Antik_Tiyatrosu'nun_yukarıdan_görünümü.jpg/1200px-Apameia_Kibotos_Antik_Tiyatrosu'nun_yukarıdan_görünümü.jpg"
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "30.172626,38.07376"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Apameia Kibotos Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Yerebatan Sarnıcı | Miras Haritası"
-date: 2025-12-25T06:52:05+03:00
+title: "Yerebatan Sarnıcı"
+date: "2025-12-25T06:52:05+03:00"
 slug: "yerebatan-sarnici"
 description: "## Yerebatan Sarnıcı: Tarihi ve Kültürel Mirasın Tanığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cisterna_Basílica,_Estambul,_Turquía,_2024-09-28,_DD_58-60_HDR.jpg/1200px-Cisterna_Basílica,_Estambul,_Turquía,_2024-09-28,_DD_58-60_HDR.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.9779209,41.0084038"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Yerebatan Sarnıcı: Tarihi ve Kültürel Mirasın Tanığı

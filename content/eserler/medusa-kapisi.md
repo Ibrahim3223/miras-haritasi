@@ -1,18 +1,17 @@
 ---
-title: "Medusa Kapısı | Miras Haritası"
-date: 2025-12-25T08:22:01+03:00
+title: "Medusa Kapısı"
+date: "2025-12-25T08:22:01+03:00"
 slug: "medusa-kapisi"
 description: "## Medusa Kapısı: Tarih ve Mimarisi Üzerine İnceleme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Medusa Kapısı: Tarih ve Mimarisi Üzerine İnceleme

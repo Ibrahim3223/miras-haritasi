@@ -1,18 +1,17 @@
 ---
-title: "Kaletepe, Kestel | Miras Haritası"
-date: 2025-12-25T05:22:49+03:00
+title: "Kaletepe, Kestel"
+date: "2025-12-25T05:22:49+03:00"
 slug: "kaletepe-kestel"
 description: "# Kaletepe, Kestel Arkeolojik Sitesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.4414005,37.9524994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kaletepe, Kestel Arkeolojik Sitesi

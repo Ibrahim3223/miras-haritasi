@@ -1,18 +1,17 @@
 ---
-title: "Devoğlu Ali Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:36:04+03:00
+title: "Devoğlu Ali Ağa Çeşmesi"
+date: "2025-12-25T10:36:04+03:00"
 slug: "devoglu-ali-aga-cesmesi"
 description: "### Devoğlu Ali Ağa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Demirtaş"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.966401,41.017246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Devoğlu Ali Ağa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami, Safranbolu | Miras Haritası"
-date: 2025-12-25T01:06:28+03:00
+title: "Eski Cami, Safranbolu"
+date: "2025-12-25T01:06:28+03:00"
 slug: "eski-cami-safranbolu"
 description: "## Eski Cami, Safranbolu..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.690784694,41.242537555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Cami, Safranbolu

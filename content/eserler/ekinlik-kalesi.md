@@ -1,18 +1,17 @@
 ---
-title: "Ekinlik Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:36+03:00
+title: "Ekinlik Kalesi"
+date: "2025-12-25T01:40:36+03:00"
 slug: "ekinlik-kalesi"
 description: "# Ekinlik Kalesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Olur"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.2119179,40.8924484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ekinlik Kalesi

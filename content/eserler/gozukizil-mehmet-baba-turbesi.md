@@ -1,18 +1,17 @@
 ---
-title: "Gözükızıl Mehmet Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:33+03:00
+title: "Gözükızıl Mehmet Baba Türbesi"
+date: "2025-12-25T14:19:33+03:00"
 slug: "gozukizil-mehmet-baba-turbesi"
 description: "## Gözükızıl Mehmet Baba Türbesi: Gaziantep'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.388936,37.057903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gözükızıl Mehmet Baba Türbesi: Gaziantep'in Tarihi ve Kültürel Mirası

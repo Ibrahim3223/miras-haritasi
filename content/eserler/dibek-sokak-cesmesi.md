@@ -1,18 +1,17 @@
 ---
-title: "Dibek Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:00+03:00
+title: "Dibek Sokak Çeşmesi"
+date: "2025-12-25T10:33:00+03:00"
 slug: "dibek-sokak-cesmesi"
 description: "## Dibek Sokak Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuyucak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4558392,37.9159966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dibek Sokak Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Halae | Miras Haritası"
-date: 2025-12-25T05:04:56+03:00
+title: "Halae"
+date: "2025-12-25T05:04:56+03:00"
 slug: "halae"
 description: "# Halae Arkeolojik Sitesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.87569,36.83353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Halae Arkeolojik Sitesi

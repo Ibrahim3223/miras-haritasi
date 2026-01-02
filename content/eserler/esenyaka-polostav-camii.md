@@ -1,18 +1,17 @@
 ---
-title: "Esenyaka Polostav Camii | Miras Haritası"
-date: 2025-12-25T01:04:57+03:00
+title: "Esenyaka Polostav Camii"
+date: "2025-12-25T01:04:57+03:00"
 slug: "esenyaka-polostav-camii"
 description: "### Esenyaka Polostav Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.718889,40.913333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Esenyaka Polostav Camii

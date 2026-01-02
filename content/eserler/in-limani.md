@@ -1,18 +1,17 @@
 ---
-title: "İn Limanı | Miras Haritası"
-date: 2025-12-25T05:45:55+03:00
+title: "İn Limanı"
+date: "2025-12-25T05:45:55+03:00"
 slug: "in-limani"
 description: "## İn Limanı: Tarih Öncesi Dönemden Kalma Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.14915,39.869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İn Limanı: Tarih Öncesi Dönemden Kalma Bir Arkeolojik Sit

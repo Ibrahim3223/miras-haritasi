@@ -1,18 +1,17 @@
 ---
-title: "Burmalı Camii | Miras Haritası"
-date: 2025-12-24T23:49:55+03:00
+title: "Burmalı Camii"
+date: "2025-12-24T23:49:55+03:00"
 slug: "burmali-camii"
 description: "## Burmalı Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5350132,38.7580643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burmalı Camii

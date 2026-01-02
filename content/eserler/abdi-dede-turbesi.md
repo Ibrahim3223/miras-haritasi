@@ -1,18 +1,17 @@
 ---
-title: "Abdi Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:19+03:00
+title: "Abdi Dede Türbesi"
+date: "2025-12-25T14:21:19+03:00"
 slug: "abdi-dede-turbesi"
 description: "### Abdi Dede Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "İncesu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.314733665,38.579640847"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdi Dede Türbesi

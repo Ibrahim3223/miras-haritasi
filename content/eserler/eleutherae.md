@@ -1,18 +1,17 @@
 ---
-title: "Eleutherae | Miras Haritası"
-date: 2025-12-25T04:56:45+03:00
+title: "Eleutherae"
+date: "2025-12-25T04:56:45+03:00"
 slug: "eleutherae"
 description: "### Eleutherae: Geçmişi ve Kutsal Evi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eleutherae: Geçmişi ve Kutsal Evi

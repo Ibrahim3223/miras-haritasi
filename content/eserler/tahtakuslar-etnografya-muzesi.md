@@ -1,18 +1,17 @@
 ---
-title: "Tahtakuşlar Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:23:44+03:00
+title: "Tahtakuşlar Etnografya Müzesi"
+date: "2025-12-25T03:23:44+03:00"
 slug: "tahtakuslar-etnografya-muzesi"
 description: "### Tahtakuşlar Etnografya Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.85833333,39.59111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tahtakuşlar Etnografya Müzesi

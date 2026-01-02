@@ -1,18 +1,17 @@
 ---
-title: "Keskin Höyük | Miras Haritası"
-date: 2025-12-25T05:30:43+03:00
+title: "Keskin Höyük"
+date: "2025-12-25T05:30:43+03:00"
 slug: "keskin-hoyuk"
 description: "### Keskin Höyük: Eskişehir'in Gizli Çarpızları..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.396939,39.859717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Keskin Höyük: Eskişehir'in Gizli Çarpızları

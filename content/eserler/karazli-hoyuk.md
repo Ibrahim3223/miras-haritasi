@@ -1,18 +1,17 @@
 ---
-title: "Karazlı Höyük | Miras Haritası"
-date: 2025-12-25T06:43:41+03:00
+title: "Karazlı Höyük"
+date: "2025-12-25T06:43:41+03:00"
 slug: "karazli-hoyuk"
 description: "## Karazlı Höyük: Ankara'nın Gizli Tarihi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Gölbaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.7015513,39.6396657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karazlı Höyük: Ankara'nın Gizli Tarihi

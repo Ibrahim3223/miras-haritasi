@@ -1,18 +1,17 @@
 ---
-title: "Yağlıkuyu Mevkii Arkeolojik Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:07:36+03:00
+title: "Yağlıkuyu Mevkii Arkeolojik Yerleşimi"
+date: "2025-12-25T06:07:36+03:00"
 slug: "yaglikuyu-mevkii-arkeolojik-yerlesimi"
 description: "## Yağlıkuyu Mevkii Arkeolojik Yerleşimi: Didim'in Gizli Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3733006,37.4017982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yağlıkuyu Mevkii Arkeolojik Yerleşimi: Didim'in Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Beyazıt Hayratı | Miras Haritası"
-date: 2025-12-25T10:55:57+03:00
+title: "Yıldırım Beyazıt Hayratı"
+date: "2025-12-25T10:55:57+03:00"
 slug: "yildirim-beyazit-hayrati"
 description: "## Yıldırım Beyazıt Hayratı: Bursa'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0811653,40.1863365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldırım Beyazıt Hayratı: Bursa'nın Gizli Çeşmesi

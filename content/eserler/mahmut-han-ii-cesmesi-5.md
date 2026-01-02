@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Han II Çeşmesi 5 | Miras Haritası"
-date: 2025-12-25T13:00:50+03:00
+title: "Mahmut Han II Çeşmesi 5"
+date: "2025-12-25T13:00:50+03:00"
 slug: "mahmut-han-ii-cesmesi-5"
 description: "## Mahmut Han II Çeşmesi 5: Üsküdar'daki Bir Çeşmenin Tarihi ve Özellikleri..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Beylerbeyi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.041174,41.04288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Han II Çeşmesi 5: Üsküdar'daki Bir Çeşmenin Tarihi ve Özellikleri

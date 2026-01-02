@@ -1,18 +1,17 @@
 ---
-title: "Pergamon Attalos Evi | Miras Haritası"
-date: 2025-12-25T13:14:29+03:00
+title: "Pergamon Attalos Evi"
+date: "2025-12-25T13:14:29+03:00"
 slug: "pergamon-attalos-evi"
 description: "## Pergamon Attalos Evi: İhtişamlı Bir Saray..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "27.185421,39.1256676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pergamon Attalos Evi: İhtişamlı Bir Saray

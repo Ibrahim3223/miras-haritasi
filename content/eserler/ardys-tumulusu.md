@@ -1,18 +1,17 @@
 ---
-title: "Ardys Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:15:33+03:00
+title: "Ardys Tümülüsü"
+date: "2025-12-25T07:15:33+03:00"
 slug: "ardys-tumulusu"
 description: "## Ardys Tümülüsü: Manisa'nın Gizli Çağı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.990379,38.582371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ardys Tümülüsü: Manisa'nın Gizli Çağı

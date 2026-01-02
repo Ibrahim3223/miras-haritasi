@@ -1,18 +1,17 @@
 ---
-title: "Çiftlik Höyük | Miras Haritası"
-date: 2025-12-25T05:31:19+03:00
+title: "Çiftlik Höyük"
+date: "2025-12-25T05:31:19+03:00"
 slug: "ciftlik-hoyuk"
 description: "## Çiftlik Höyük: Odunpazarı'nın Zengin Tarihî Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.479562,39.761791"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiftlik Höyük: Odunpazarı'nın Zengin Tarihî Mirası

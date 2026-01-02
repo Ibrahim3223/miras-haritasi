@@ -1,18 +1,17 @@
 ---
-title: "Kulaklı Çeşme | Miras Haritası"
-date: 2025-12-25T10:18:57+03:00
+title: "Kulaklı Çeşme"
+date: "2025-12-25T10:18:57+03:00"
 slug: "kulakli-cesme"
 description: "## Kulaklı Çeşme: Ortahisar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.7199554,41.0047874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kulaklı Çeşme: Ortahisar'ın Gizli Çeşmesi

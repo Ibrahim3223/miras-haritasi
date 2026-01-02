@@ -1,18 +1,17 @@
 ---
-title: "Alexandria Troas Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:00+03:00
+title: "Alexandria Troas Köprüsü"
+date: "2025-12-25T02:29:00+03:00"
 slug: "alexandria-troas-koprusu"
 description: "## Alexandria Troas Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.1297248,39.5775027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alexandria Troas Köprüsü

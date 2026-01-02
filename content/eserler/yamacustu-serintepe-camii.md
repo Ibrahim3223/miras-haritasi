@@ -1,18 +1,17 @@
 ---
-title: "Yamaçüstü Serintepe Camii | Miras Haritası"
-date: 2025-12-25T00:18:03+03:00
+title: "Yamaçüstü Serintepe Camii"
+date: "2025-12-25T00:18:03+03:00"
 slug: "yamacustu-serintepe-camii"
 description: "### Yamaçüstü Serintepe Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3940709,40.60272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yamaçüstü Serintepe Camii

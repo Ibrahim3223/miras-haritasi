@@ -1,18 +1,17 @@
 ---
-title: "Kadı Emin Ali Çelebi Camii | Miras Haritası"
-date: 2025-12-24T23:38:21+03:00
+title: "Kadı Emin Ali Çelebi Camii"
+date: "2025-12-24T23:38:21+03:00"
 slug: "kadi-emin-ali-celebi-camii"
 description: "## Kadı Emin Ali Çelebi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kirklareli_kadi_emin_ali_celebi_camii_01.jpg/1200px-Kirklareli_kadi_emin_ali_celebi_camii_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2254238,41.7362823"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kadı Emin Ali Çelebi Camii

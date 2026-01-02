@@ -1,18 +1,17 @@
 ---
-title: "Çadır Höyük | Miras Haritası"
-date: 2025-12-25T07:04:55+03:00
+title: "Çadır Höyük"
+date: "2025-12-25T07:04:55+03:00"
 slug: "cadir-hoyuk"
 description: "### Çadır Höyük: Yozgat'ın Eski Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.14335,39.67672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çadır Höyük: Yozgat'ın Eski Mirası

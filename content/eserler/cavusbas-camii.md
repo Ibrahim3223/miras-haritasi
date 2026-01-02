@@ -1,18 +1,17 @@
 ---
-title: "Çavuşbaş Camii | Miras Haritası"
-date: 2025-12-24T22:31:47+03:00
+title: "Çavuşbaş Camii"
+date: "2025-12-24T22:31:47+03:00"
 slug: "cavusbas-camii"
 description: "## Çavuşbaş Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5265865,38.7571068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuşbaş Camii

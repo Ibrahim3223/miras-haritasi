@@ -1,18 +1,17 @@
 ---
-title: "Geragathe | Miras Haritası"
-date: 2025-12-25T04:45:54+03:00
+title: "Geragathe"
+date: "2025-12-25T04:45:54+03:00"
 slug: "geragathe"
 description: "## Geragathe: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.945055,40.811719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Geragathe: Türkiye'nin Gizli Arkeolojik Sitleri

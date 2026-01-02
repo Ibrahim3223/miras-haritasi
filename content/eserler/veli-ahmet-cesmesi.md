@@ -1,18 +1,17 @@
 ---
-title: "Veli Ahmet Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:55+03:00
+title: "Veli Ahmet Çeşmesi"
+date: "2025-12-25T10:44:55+03:00"
 slug: "veli-ahmet-cesmesi"
 description: "### Veli Ahmet Çeşmesi: İzmit'in Tarihî ve Kültürel Özelliliği..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9262733,40.7670898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Veli Ahmet Çeşmesi: İzmit'in Tarihî ve Kültürel Özelliliği

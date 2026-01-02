@@ -1,18 +1,17 @@
 ---
-title: "Hoca Dur Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:54+03:00
+title: "Hoca Dur Türbesi"
+date: "2025-12-25T14:18:54+03:00"
 slug: "hoca-dur-turbesi"
 description: "## Hoca Dur Türbesi: Kilis'in Gizemi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.114234,36.715592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Dur Türbesi: Kilis'in Gizemi

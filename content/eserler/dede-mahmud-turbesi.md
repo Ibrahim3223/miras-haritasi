@@ -1,18 +1,17 @@
 ---
-title: "Dede Mahmud Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:47+03:00
+title: "Dede Mahmud Türbesi"
+date: "2025-12-25T14:20:47+03:00"
 slug: "dede-mahmud-turbesi"
 description: "### Dede Mahmud Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Pasinler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.7316,39.9441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dede Mahmud Türbesi

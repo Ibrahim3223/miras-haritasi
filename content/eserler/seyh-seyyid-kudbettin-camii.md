@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Seyyid Kudbettin Camii | Miras Haritası"
-date: 2025-12-24T23:13:20+03:00
+title: "Şeyh Seyyid Kudbettin Camii"
+date: "2025-12-24T23:13:20+03:00"
 slug: "seyh-seyyid-kudbettin-camii"
 description: "## Şeyh Seyyid Kudbettin Camii: Samsun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.3262444,41.2945671"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Seyyid Kudbettin Camii: Samsun'un Tarihi ve Kültürel Mirası

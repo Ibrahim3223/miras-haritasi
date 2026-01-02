@@ -1,18 +1,17 @@
 ---
-title: "Hazreti Süleyman Camii | Miras Haritası"
-date: 2025-12-24T21:50:11+03:00
+title: "Hazreti Süleyman Camii"
+date: "2025-12-24T21:50:11+03:00"
 slug: "hazreti-suleyman-camii"
 description: "## Hazreti Süleyman Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HzSuleymanCamiDiyarbakir1.jpg/1200px-HzSuleymanCamiDiyarbakir1.jpg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.242031,37.914882"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hazreti Süleyman Camii

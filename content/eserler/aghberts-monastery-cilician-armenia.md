@@ -1,18 +1,17 @@
 ---
-title: "Aghberts Monastery (Cilician Armenia) | Miras Haritası"
-date: 2025-12-25T09:49:34+03:00
+title: "Aghberts Monastery (Cilician Armenia)"
+date: "2025-12-25T09:49:34+03:00"
 slug: "aghberts-monastery-cilician-armenia"
 description: "## Aghberts Manastırı: Cilician Ermenistan'ın Gizli Çiçeği..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aghberts Manastırı: Cilician Ermenistan'ın Gizli Çiçeği

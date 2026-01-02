@@ -1,18 +1,17 @@
 ---
-title: "Pirinççi Höyüğü | Miras Haritası"
-date: 2025-12-25T06:05:11+03:00
+title: "Pirinççi Höyüğü"
+date: "2025-12-25T06:05:11+03:00"
 slug: "pirincci-hoyugu"
 description: "## Pirinççi Höyüğü: Elazığ'ın Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.9763794,38.8083992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pirinççi Höyüğü: Elazığ'ın Gizli Arkeolojik Harikası

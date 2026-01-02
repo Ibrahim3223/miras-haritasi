@@ -1,18 +1,17 @@
 ---
-title: "Larymna (Karya) | Miras Haritası"
-date: 2025-12-25T04:55:44+03:00
+title: "Larymna (Karya)"
+date: "2025-12-25T04:55:44+03:00"
 slug: "larymna-karya"
 description: "## Larymna (Karya): Antik Şehir ve Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.007502,36.608453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Larymna (Karya): Antik Şehir ve Arkeolojik Sit

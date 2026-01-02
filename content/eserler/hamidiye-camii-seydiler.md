@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Seydiler | Miras Haritası"
-date: 2025-12-25T00:28:27+03:00
+title: "Hamidiye Camii, Seydiler"
+date: "2025-12-25T00:28:27+03:00"
 slug: "hamidiye-camii-seydiler"
 description: "# Hamidiye Camii, Seydiler..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Seydiler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7200966,41.6202202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamidiye Camii, Seydiler

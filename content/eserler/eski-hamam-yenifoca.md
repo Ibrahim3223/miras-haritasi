@@ -1,18 +1,17 @@
 ---
-title: "Eski Hamam, Yenifoça | Miras Haritası"
-date: 2025-12-25T17:07:40+03:00
+title: "Eski Hamam, Yenifoça"
+date: "2025-12-25T17:07:40+03:00"
 slug: "eski-hamam-yenifoca"
 description: "### Eski Hamam, Yenifoça..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.8379993,38.7406006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Hamam, Yenifoça

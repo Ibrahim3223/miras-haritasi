@@ -1,18 +1,17 @@
 ---
-title: "Yatan Höyük | Miras Haritası"
-date: 2025-12-25T13:45:26+03:00
+title: "Yatan Höyük"
+date: "2025-12-25T13:45:26+03:00"
 slug: "yatan-hoyuk"
 description: "### Yatan Höyük: Boğazlıyan'ın Gizemi..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3232416,39.2724122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yatan Höyük: Boğazlıyan'ın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Ani Tigran Honents Kilisesi | Miras Haritası"
-date: 2025-12-25T09:11:04+03:00
+title: "Ani Tigran Honents Kilisesi"
+date: "2025-12-25T09:11:04+03:00"
 slug: "ani-tigran-honents-kilisesi"
 description: "## Ani Tigran Honents Kilisesi: Tarih, Mimarisi ve Ziyaret Edecekler İçin Bilgi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.57864,40.5058556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ani Tigran Honents Kilisesi: Tarih, Mimarisi ve Ziyaret Edecekler İçin Bilgi

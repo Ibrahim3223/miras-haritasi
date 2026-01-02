@@ -1,18 +1,17 @@
 ---
-title: "Ali Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:19+03:00
+title: "Ali Efendi Türbesi"
+date: "2025-12-25T15:17:19+03:00"
 slug: "ali-efendi-turbesi"
 description: "### Ali Efendi Türbesi: Afyonkarahisar'da Gizli Bir Anıt..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.533554,38.753404"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Efendi Türbesi: Afyonkarahisar'da Gizli Bir Anıt

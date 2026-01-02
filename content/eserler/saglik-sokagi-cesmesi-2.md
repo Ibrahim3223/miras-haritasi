@@ -1,18 +1,17 @@
 ---
-title: "Sağlık Sokağı Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T11:33:32+03:00
+title: "Sağlık Sokağı Çeşmesi 2"
+date: "2025-12-25T11:33:32+03:00"
 slug: "saglik-sokagi-cesmesi-2"
 description: "## Sağlık Sokağı Çeşmesi 2: Safranbolu'nun Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sağlık_Sokağı_Çeşmesi-2.jpg/1200px-Sağlık_Sokağı_Çeşmesi-2.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6851044,41.2504387"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sağlık Sokağı Çeşmesi 2: Safranbolu'nun Kültürel Mirası

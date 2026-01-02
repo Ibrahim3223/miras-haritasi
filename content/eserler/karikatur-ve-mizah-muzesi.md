@@ -1,18 +1,17 @@
 ---
-title: "Karikatür ve Mizah Müzesi | Miras Haritası"
-date: 2025-12-25T03:16:48+03:00
+title: "Karikatür ve Mizah Müzesi"
+date: "2025-12-25T03:16:48+03:00"
 slug: "karikatur-ve-mizah-muzesi"
 description: "## Karikatür ve Mizah Müzesi: Tarihe ve Komikliğe Ev Sahip..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.97378,41.03308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karikatür ve Mizah Müzesi: Tarihe ve Komikliğe Ev Sahip

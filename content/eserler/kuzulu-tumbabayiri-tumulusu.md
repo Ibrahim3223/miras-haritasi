@@ -1,18 +1,17 @@
 ---
-title: "Kuzulu Tumbabayırı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:42+03:00
+title: "Kuzulu Tumbabayırı Tümülüsü"
+date: "2025-12-25T07:52:42+03:00"
 slug: "kuzulu-tumbabayiri-tumulusu"
 description: "###  Kuzulu Tumbabayırı Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2810345,41.8662605"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ###  Kuzulu Tumbabayırı Tümülüsü: Kırklareli'nin Gizli Mirası

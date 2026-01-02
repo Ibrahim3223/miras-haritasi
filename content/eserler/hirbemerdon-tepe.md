@@ -1,18 +1,17 @@
 ---
-title: "Hirbemerdon Tepe | Miras Haritası"
-date: 2025-12-25T07:06:21+03:00
+title: "Hirbemerdon Tepe"
+date: "2025-12-25T07:06:21+03:00"
 slug: "hirbemerdon-tepe"
 description: "## Hirbemerdon Tepe: Diyarbakır'ın Eski Kenti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.013611111,37.7775"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hirbemerdon Tepe: Diyarbakır'ın Eski Kenti

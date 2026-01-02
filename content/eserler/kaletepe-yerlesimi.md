@@ -1,18 +1,17 @@
 ---
-title: "Kaletepe Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:01:04+03:00
+title: "Kaletepe Yerleşimi"
+date: "2025-12-25T06:01:04+03:00"
 slug: "kaletepe-yerlesimi"
 description: "## Kaletepe Yerleşimi: Malatya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.4842072,38.4105644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaletepe Yerleşimi: Malatya'nın Tarihî Bir Mirası

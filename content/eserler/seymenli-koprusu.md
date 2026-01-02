@@ -1,18 +1,17 @@
 ---
-title: "Seymenli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:00+03:00
+title: "Seymenli Köprüsü"
+date: "2025-12-25T02:08:00+03:00"
 slug: "seymenli-koprusu"
 description: "## Seymenli Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.952099,40.58945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seymenli Köprüsü: Tarihi ve Kültürel Bir Miras

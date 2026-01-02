@@ -1,18 +1,17 @@
 ---
-title: "Madame Tussauds İstanbul | Miras Haritası"
-date: 2025-12-25T03:10:30+03:00
+title: "Madame Tussauds İstanbul"
+date: "2025-12-25T03:10:30+03:00"
 slug: "madame-tussauds-istanbul"
 description: "# Madame Tussauds İstanbul..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Madame_Tussauds_Istanbul.jpg/1200px-Madame_Tussauds_Istanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.979717,41.034531"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Madame Tussauds İstanbul

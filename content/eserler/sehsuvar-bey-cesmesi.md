@@ -1,18 +1,17 @@
 ---
-title: "Şehsuvar Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:40:26+03:00
+title: "Şehsuvar Bey Çeşmesi"
+date: "2025-12-25T12:40:26+03:00"
 slug: "sehsuvar-bey-cesmesi"
 description: "**Şehsuvar Bey Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.983097315,41.012379382"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şehsuvar Bey Çeşmesi**

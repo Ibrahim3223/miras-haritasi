@@ -1,18 +1,17 @@
 ---
-title: "Selman Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:47:45+03:00
+title: "Selman Ağa Camii"
+date: "2025-12-24T21:47:45+03:00"
 slug: "selman-aga-camii"
 description: "## Selman Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Üsküdar_Selman_Ağa_Camii_önden.jpg/1200px-Üsküdar_Selman_Ağa_Camii_önden.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.015978,41.025606"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Selman Ağa Camii

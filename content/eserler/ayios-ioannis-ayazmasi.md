@@ -1,18 +1,17 @@
 ---
-title: "Ayios Ioannis Ayazması | Miras Haritası"
-date: 2025-12-25T12:41:46+03:00
+title: "Ayios Ioannis Ayazması"
+date: "2025-12-25T12:41:46+03:00"
 slug: "ayios-ioannis-ayazmasi"
 description: "### Ayios Ioannis Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0338001,41.0727615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Ioannis Ayazması

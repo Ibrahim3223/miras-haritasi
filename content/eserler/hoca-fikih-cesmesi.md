@@ -1,18 +1,17 @@
 ---
-title: "Hoca Fıkıh Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:50:59+03:00
+title: "Hoca Fıkıh Çeşmesi"
+date: "2025-12-25T10:50:59+03:00"
 slug: "hoca-fikih-cesmesi"
 description: "# Hoca Fıkıh Çeşmesi: Nevşehir'in Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.5603523,38.9456367"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hoca Fıkıh Çeşmesi: Nevşehir'in Değerli Kültürel Mirası

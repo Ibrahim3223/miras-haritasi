@@ -1,18 +1,17 @@
 ---
-title: "Asa Suyu | Miras Haritası"
-date: 2025-12-25T10:47:41+03:00
+title: "Asa Suyu"
+date: "2025-12-25T10:47:41+03:00"
 slug: "asa-suyu"
 description: "## Asa Suyu: Kastamonu'nun Değerli Çeşme Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7644882,41.3745651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asa Suyu: Kastamonu'nun Değerli Çeşme Mirası

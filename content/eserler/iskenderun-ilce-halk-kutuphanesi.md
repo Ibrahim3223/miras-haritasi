@@ -1,18 +1,17 @@
 ---
-title: "İskenderun İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:56:25+03:00
+title: "İskenderun İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:56:25+03:00"
 slug: "iskenderun-ilce-halk-kutuphanesi"
 description: "## İskenderun İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "İskenderun Sancağı"
-iller: ["İskenderun Sancağı"]
+iller: '["İskenderun Sancağı"]'
 district: "İskenderun"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "36.175421094,36.586936574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskenderun İlçe Halk Kütüphanesi

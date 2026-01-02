@@ -1,18 +1,17 @@
 ---
-title: "Aksaray Kılıç Arslan Kümbeti | Miras Haritası"
-date: 2025-12-25T13:53:04+03:00
+title: "Aksaray Kılıç Arslan Kümbeti"
+date: "2025-12-25T13:53:04+03:00"
 slug: "aksaray-kilic-arslan-kumbeti"
 description: "### Aksaray Kılıç Arslan Kümbeti: Anıtsal Bir Miras..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.0540466,38.3733521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aksaray Kılıç Arslan Kümbeti: Anıtsal Bir Miras

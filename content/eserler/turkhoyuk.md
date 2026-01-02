@@ -1,18 +1,17 @@
 ---
-title: "Türkhöyük | Miras Haritası"
-date: 2025-12-25T06:25:54+03:00
+title: "Türkhöyük"
+date: "2025-12-25T06:25:54+03:00"
 slug: "turkhoyuk"
 description: "### Türkhöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Haymana"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.4092091,39.5387461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Türkhöyük Arkeolojik Sit

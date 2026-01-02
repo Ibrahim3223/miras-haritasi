@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Bahçearası | Miras Haritası"
-date: 2025-12-25T12:03:06+03:00
+title: "Çeşme, Bahçearası"
+date: "2025-12-25T12:03:06+03:00"
 slug: "cesme-bahcearasi"
 description: "## Çeşme, Bahçearası: Aydın'ın Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8929672,37.708889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Bahçearası: Aydın'ın Tarihi Bir Çeşme

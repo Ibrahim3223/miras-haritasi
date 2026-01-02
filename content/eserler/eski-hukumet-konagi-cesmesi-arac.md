@@ -1,18 +1,17 @@
 ---
-title: "Eski Hükümet Konağı Çeşmesi, Araç | Miras Haritası"
-date: 2025-12-25T12:32:19+03:00
+title: "Eski Hükümet Konağı Çeşmesi, Araç"
+date: "2025-12-25T12:32:19+03:00"
 slug: "eski-hukumet-konagi-cesmesi-arac"
 description: "## Eski Hükümet Konağı Çeşmesi, Araç..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Araç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.324555921,41.241281357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Hükümet Konağı Çeşmesi, Araç

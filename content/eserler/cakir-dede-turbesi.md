@@ -1,18 +1,17 @@
 ---
-title: "Çakır Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:04+03:00
+title: "Çakır Dede Türbesi"
+date: "2025-12-25T14:58:04+03:00"
 slug: "cakir-dede-turbesi"
 description: "## Çakır Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7516994,37.7621994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakır Dede Türbesi

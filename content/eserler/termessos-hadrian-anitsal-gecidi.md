@@ -1,18 +1,17 @@
 ---
-title: "Termessos Hadrian Anıtsal Geçidi | Miras Haritası"
-date: 2025-12-25T13:19:35+03:00
+title: "Termessos Hadrian Anıtsal Geçidi"
+date: "2025-12-25T13:19:35+03:00"
 slug: "termessos-hadrian-anitsal-gecidi"
 description: "# Termessos Hadrian Anıtsal Geçidi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.466841,36.988029"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Termessos Hadrian Anıtsal Geçidi

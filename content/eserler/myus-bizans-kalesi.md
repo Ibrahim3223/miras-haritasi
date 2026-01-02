@@ -1,18 +1,17 @@
 ---
-title: "Myus Bizans Kalesi | Miras Haritası"
-date: 2025-12-25T01:18:00+03:00
+title: "Myus Bizans Kalesi"
+date: "2025-12-25T01:18:00+03:00"
 slug: "myus-bizans-kalesi"
 description: "### Myus Bizans Kalesi: Aydın'ın Gizli Çehresini İnceleyin..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4258633,37.5987244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Myus Bizans Kalesi: Aydın'ın Gizli Çehresini İnceleyin

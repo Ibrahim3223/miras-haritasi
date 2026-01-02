@@ -1,18 +1,17 @@
 ---
-title: "Nureddin Alparslan Türbesi, Niksar | Miras Haritası"
-date: 2025-12-25T03:54:27+03:00
+title: "Nureddin Alparslan Türbesi, Niksar"
+date: "2025-12-25T03:54:27+03:00"
 slug: "nureddin-alparslan-turbesi-niksar"
 description: "### Nureddin Alparslan Türbesi, Niksar..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.964241,40.5910034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nureddin Alparslan Türbesi, Niksar

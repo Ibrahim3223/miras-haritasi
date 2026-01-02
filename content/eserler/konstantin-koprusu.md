@@ -1,18 +1,17 @@
 ---
-title: "Konstantin Köprüsü | Miras Haritası"
-date: 2025-12-25T01:53:28+03:00
+title: "Konstantin Köprüsü"
+date: "2025-12-25T01:53:28+03:00"
 slug: "konstantin-koprusu"
 description: "## Konstantin Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.44147384,40.20409959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Konstantin Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Kazıktepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:27:30+03:00
+title: "Kazıktepe Höyüğü"
+date: "2025-12-25T06:27:30+03:00"
 slug: "kaziktepe-hoyugu"
 description: "## Kazıktepe Höyüğü: Diyarbakır'ın Gizli Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.2758338,37.7768629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazıktepe Höyüğü: Diyarbakır'ın Gizli Mirası

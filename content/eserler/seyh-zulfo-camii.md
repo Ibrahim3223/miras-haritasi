@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Zülfo Camii | Miras Haritası"
-date: 2025-12-24T23:10:46+03:00
+title: "Şeyh Zülfo Camii"
+date: "2025-12-24T23:10:46+03:00"
 slug: "seyh-zulfo-camii"
 description: "# Şeyh Zülfo Camii: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.3292084,36.9800034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyh Zülfo Camii: Adana'nın Tarihi ve Kültürel Mirası

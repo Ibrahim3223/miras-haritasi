@@ -1,18 +1,17 @@
 ---
-title: "Seyit Halil Keramettin Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:12+03:00
+title: "Seyit Halil Keramettin Türbesi"
+date: "2025-12-25T15:23:12+03:00"
 slug: "seyit-halil-keramettin-turbesi"
 description: "## Seyit Halil Keramettin Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Akkışla"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.078743,39.0209084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyit Halil Keramettin Türbesi

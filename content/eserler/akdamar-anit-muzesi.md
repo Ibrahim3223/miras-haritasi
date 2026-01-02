@@ -1,18 +1,17 @@
 ---
-title: "Akdamar Anıt Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:52+03:00
+title: "Akdamar Anıt Müzesi"
+date: "2025-12-25T03:35:52+03:00"
 slug: "akdamar-anit-muzesi"
 description: "## Akdamar Anıt Müzesi..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "İpekyolu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akdamar Anıt Müzesi

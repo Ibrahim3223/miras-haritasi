@@ -1,18 +1,17 @@
 ---
-title: "Cüce Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:19+03:00
+title: "Cüce Çeşmesi"
+date: "2025-12-25T11:08:19+03:00"
 slug: "cuce-cesmesi"
 description: "### Cüce Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Kalenderhane"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.959218,41.013945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cüce Çeşmesi

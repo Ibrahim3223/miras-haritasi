@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bayram Veli Müzesi | Miras Haritası"
-date: 2025-12-25T03:40:33+03:00
+title: "Hacı Bayram Veli Müzesi"
+date: "2025-12-25T03:40:33+03:00"
 slug: "haci-bayram-veli-muzesi"
 description: "## Hacı Bayram Veli Müzesi: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8700371,39.9345741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Bayram Veli Müzesi: Ankara'nın Tarihi ve Kültürel Mirası

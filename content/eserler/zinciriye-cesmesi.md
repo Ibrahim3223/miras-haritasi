@@ -1,18 +1,17 @@
 ---
-title: "Zinciriye Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:27:26+03:00
+title: "Zinciriye Çeşmesi"
+date: "2025-12-25T12:27:26+03:00"
 slug: "zinciriye-cesmesi"
 description: "## Zinciriye Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.739826,37.313987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zinciriye Çeşmesi

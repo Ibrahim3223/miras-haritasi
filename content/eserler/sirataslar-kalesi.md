@@ -1,18 +1,17 @@
 ---
-title: "Sırataşlar Kalesi | Miras Haritası"
-date: 2025-12-25T01:38:47+03:00
+title: "Sırataşlar Kalesi"
+date: "2025-12-25T01:38:47+03:00"
 slug: "sirataslar-kalesi"
 description: "## Sırataşlar Kalesi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Çayırlı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.0839348,39.8494072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sırataşlar Kalesi

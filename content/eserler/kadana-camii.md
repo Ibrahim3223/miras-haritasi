@@ -1,18 +1,17 @@
 ---
-title: "Kadana Camii | Miras Haritası"
-date: 2025-12-24T23:36:33+03:00
+title: "Kadana Camii"
+date: "2025-12-24T23:36:33+03:00"
 slug: "kadana-camii"
 description: "### Kadana Camii: Erzurum'un Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2814178,39.9091034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadana Camii: Erzurum'un Tarihi Bir Mirası

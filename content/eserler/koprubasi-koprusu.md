@@ -1,18 +1,17 @@
 ---
-title: "Köprübaşı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:00+03:00
+title: "Köprübaşı Köprüsü"
+date: "2025-12-25T02:30:00+03:00"
 slug: "koprubasi-koprusu"
 description: "## Köprübaşı Köprüsü: Gümüşhane'nin Kıvrımlı Taş Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.3039,40.57592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprübaşı Köprüsü: Gümüşhane'nin Kıvrımlı Taş Köprüsü

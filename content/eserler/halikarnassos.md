@@ -1,18 +1,17 @@
 ---
-title: "Halikarnassos | Miras Haritası"
-date: 2025-12-25T04:27:30+03:00
+title: "Halikarnassos"
+date: "2025-12-25T04:27:30+03:00"
 slug: "halikarnassos"
 description: "### Halikarnassos: Muhteşem Eski Yunanistan'ın Kalıntıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg/1200px-The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.424167,37.037778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Halikarnassos: Muhteşem Eski Yunanistan'ın Kalıntıları

@@ -1,18 +1,17 @@
 ---
-title: "Sinyaro Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:25+03:00
+title: "Sinyaro Sinagogu"
+date: "2025-12-25T16:13:25+03:00"
 slug: "sinyaro-sinagogu"
 description: "## Sinyaro Sinagogu: Beyoğlu'ndaki Eski Bir Sinagogun Gizemi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Keçeci Piri"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.951472222,41.040666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinyaro Sinagogu: Beyoğlu'ndaki Eski Bir Sinagogun Gizemi

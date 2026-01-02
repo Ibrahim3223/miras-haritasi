@@ -1,18 +1,17 @@
 ---
-title: "Şeyh ül Ümran Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:16+03:00
+title: "Şeyh ül Ümran Türbesi"
+date: "2025-12-25T15:15:16+03:00"
 slug: "seyh-ul-umran-turbesi"
 description: "# Şeyh ül Ümran Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Mudurnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.1977,40.4708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyh ül Ümran Türbesi

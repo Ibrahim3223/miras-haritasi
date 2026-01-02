@@ -1,18 +1,17 @@
 ---
-title: "Boyacı Camii | Miras Haritası"
-date: 2025-12-24T21:49:55+03:00
+title: "Boyacı Camii"
+date: "2025-12-24T21:49:55+03:00"
 slug: "boyaci-camii"
 description: "## Boyacı Camii: Gaziantep'in Öyküsünü Tutan Bir Tarih Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gaziantep_1250705.jpg/1200px-Gaziantep_1250705.jpg"
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Gaziantep"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.38833333,37.06194444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Boyacı Camii: Gaziantep'in Öyküsünü Tutan Bir Tarih Öreni

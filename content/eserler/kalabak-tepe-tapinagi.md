@@ -1,18 +1,17 @@
 ---
-title: "Kalabak Tepe Tapınağı | Miras Haritası"
-date: 2025-12-25T08:11:57+03:00
+title: "Kalabak Tepe Tapınağı"
+date: "2025-12-25T08:11:57+03:00"
 slug: "kalabak-tepe-tapinagi"
 description: "## Kalabak Tepe Tapınağı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.265833333,37.520277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalabak Tepe Tapınağı

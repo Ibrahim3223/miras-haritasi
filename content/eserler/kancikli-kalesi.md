@@ -1,18 +1,17 @@
 ---
-title: "Kancıklı Kalesi | Miras Haritası"
-date: 2025-12-25T01:21:21+03:00
+title: "Kancıklı Kalesi"
+date: "2025-12-25T01:21:21+03:00"
 slug: "kancikli-kalesi"
 description: "## Kancıklı Kalesi..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Patnos"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.006279,39.2193565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kancıklı Kalesi

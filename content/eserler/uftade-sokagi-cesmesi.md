@@ -1,18 +1,17 @@
 ---
-title: "Üftade Sokağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:34+03:00
+title: "Üftade Sokağı Çeşmesi"
+date: "2025-12-25T10:59:34+03:00"
 slug: "uftade-sokagi-cesmesi"
 description: "### Üftade Sokağı Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.057518,40.1829567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üftade Sokağı Çeşmesi

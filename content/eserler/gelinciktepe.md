@@ -1,18 +1,17 @@
 ---
-title: "Gelinciktepe | Miras Haritası"
-date: 2025-12-25T07:08:13+03:00
+title: "Gelinciktepe"
+date: "2025-12-25T07:08:13+03:00"
 slug: "gelinciktepe"
 description: "### Gelinciktepe: Türkiye'nin Etkileyici Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gelinciktepe: Türkiye'nin Etkileyici Arkeolojik Sitleri

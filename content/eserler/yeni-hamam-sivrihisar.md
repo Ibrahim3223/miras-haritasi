@@ -1,18 +1,17 @@
 ---
-title: "Yeni Hamam, Sivrihisar | Miras Haritası"
-date: 2025-12-25T16:51:33+03:00
+title: "Yeni Hamam, Sivrihisar"
+date: "2025-12-25T16:51:33+03:00"
 slug: "yeni-hamam-sivrihisar"
 description: "## Yeni Hamam, Sivrihisar..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.5361729,39.4515533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Hamam, Sivrihisar

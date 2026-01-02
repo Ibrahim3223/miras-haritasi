@@ -1,18 +1,17 @@
 ---
-title: "Mor Aday Kilisesi | Miras Haritası"
-date: 2025-12-25T09:09:44+03:00
+title: "Mor Aday Kilisesi"
+date: "2025-12-25T09:09:44+03:00"
 slug: "mor-aday-kilisesi"
 description: "## Mor Aday Kilisesi: Şırnak'taki Bir Zenginlik..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "İdil"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.7195358,37.3592644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mor Aday Kilisesi: Şırnak'taki Bir Zenginlik

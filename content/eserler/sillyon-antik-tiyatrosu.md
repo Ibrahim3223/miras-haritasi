@@ -1,18 +1,17 @@
 ---
-title: "Sillyon Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:24:41+03:00
+title: "Sillyon Antik Tiyatrosu"
+date: "2025-12-25T08:24:41+03:00"
 slug: "sillyon-antik-tiyatrosu"
 description: "## Sillyon Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sillyon_Antik_Tiyatrosu.jpg/1200px-Sillyon_Antik_Tiyatrosu.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.987437,36.990319"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sillyon Antik Tiyatrosu

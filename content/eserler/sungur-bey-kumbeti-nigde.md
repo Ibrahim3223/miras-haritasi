@@ -1,18 +1,17 @@
 ---
-title: "Sungur Bey Kümbeti, Niğde | Miras Haritası"
-date: 2025-12-25T13:53:46+03:00
+title: "Sungur Bey Kümbeti, Niğde"
+date: "2025-12-25T13:53:46+03:00"
 slug: "sungur-bey-kumbeti-nigde"
 description: "## Sungur Bey Kümbeti, Niğde..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6775665,37.96558"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sungur Bey Kümbeti, Niğde

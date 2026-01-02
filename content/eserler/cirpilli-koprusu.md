@@ -1,18 +1,17 @@
 ---
-title: "Çirpilli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:51+03:00
+title: "Çirpilli Köprüsü"
+date: "2025-12-25T02:40:51+03:00"
 slug: "cirpilli-koprusu"
 description: "### Çirpilli Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gördes"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2734356,38.8170128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çirpilli Köprüsü

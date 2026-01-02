@@ -1,18 +1,17 @@
 ---
-title: "Sahip Ata Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:43+03:00
+title: "Sahip Ata Çeşmesi"
+date: "2025-12-25T11:38:43+03:00"
 slug: "sahip-ata-cesmesi"
 description: "## Sahip Ata Çeşmesi: Meram, Konya'daki Bir Ünlü Çeşme..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4944801,37.8679504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sahip Ata Çeşmesi: Meram, Konya'daki Bir Ünlü Çeşme

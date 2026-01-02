@@ -1,18 +1,17 @@
 ---
-title: "Kumköy Eski Mezarlığı | Miras Haritası"
-date: 2025-12-25T07:54:18+03:00
+title: "Kumköy Eski Mezarlığı"
+date: "2025-12-25T07:54:18+03:00"
 slug: "kumkoy-eski-mezarligi"
 description: "### Kumköy Eski Mezarlığı: Tarihî ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pehlivanköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9232063,41.4019318"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kumköy Eski Mezarlığı: Tarihî ve Kültürel Mirasımız

@@ -1,18 +1,17 @@
 ---
-title: "Murat Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:50:28+03:00
+title: "Murat Paşa Camii"
+date: "2025-12-24T21:50:28+03:00"
 slug: "murat-pasa-camii"
 description: "## Murat Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Antalya_Muratpaşa_Mosque.JPG/1200px-Antalya_Muratpaşa_Mosque.JPG"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7025,36.8915"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Murat Paşa Camii

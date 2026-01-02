@@ -1,18 +1,17 @@
 ---
-title: "Holmi | Miras Haritası"
-date: 2025-12-25T04:34:24+03:00
+title: "Holmi"
+date: "2025-12-25T04:34:24+03:00"
 slug: "holmi"
 description: "## Holmi: Türkiye'nin Eski Medeniyetinin Gizli Kaleleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.88097,36.3202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Holmi: Türkiye'nin Eski Medeniyetinin Gizli Kaleleri

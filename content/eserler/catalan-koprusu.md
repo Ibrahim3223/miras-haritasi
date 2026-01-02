@@ -1,18 +1,17 @@
 ---
-title: "Çatalan Köprüsü | Miras Haritası"
-date: 2025-12-25T03:05:47+03:00
+title: "Çatalan Köprüsü"
+date: "2025-12-25T03:05:47+03:00"
 slug: "catalan-koprusu"
 description: "## Çatalan Köprüsü: Adana'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Adana_Seyhan_Barajı_-_panoramio.jpg/1200px-Adana_Seyhan_Barajı_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.2742,37.0771"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çatalan Köprüsü: Adana'nın Tarihi Bir Mirası

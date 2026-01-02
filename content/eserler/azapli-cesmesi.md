@@ -1,18 +1,17 @@
 ---
-title: "Azaplı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:32:14+03:00
+title: "Azaplı Çeşmesi"
+date: "2025-12-25T10:32:14+03:00"
 slug: "azapli-cesmesi"
 description: "# Azaplı Çeşmesi: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0953999,37.9099007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Azaplı Çeşmesi: Aydın'ın Gizli Çeşmesi

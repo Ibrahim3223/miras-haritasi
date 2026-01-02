@@ -1,18 +1,17 @@
 ---
-title: "Kanlı Kilise | Miras Haritası"
-date: 2025-12-25T09:45:32+03:00
+title: "Kanlı Kilise"
+date: "2025-12-25T09:45:32+03:00"
 slug: "kanli-kilise"
 description: "## Kanlı Kilise: Fener'deki Gizemli Kilise..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DM02_-_Grcka_Crkva.jpg/1200px-DM02_-_Grcka_Crkva.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Fener"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.948888888,41.029722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kanlı Kilise: Fener'deki Gizemli Kilise

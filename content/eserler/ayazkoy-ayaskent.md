@@ -1,18 +1,17 @@
 ---
-title: "Ayazköy / Ayaskent | Miras Haritası"
-date: 2025-12-25T05:48:48+03:00
+title: "Ayazköy / Ayaskent"
+date: "2025-12-25T05:48:48+03:00"
 slug: "ayazkoy-ayaskent"
 description: "**Ayazköy / Ayaskent: Bergama'nın Gizli Mücevheri**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3293495,39.1831703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayazköy / Ayaskent: Bergama'nın Gizli Mücevheri**

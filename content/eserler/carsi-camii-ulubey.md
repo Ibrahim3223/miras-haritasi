@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Ulubey | Miras Haritası"
-date: 2025-12-24T23:23:36+03:00
+title: "Çarşı Camii, Ulubey"
+date: "2025-12-24T23:23:36+03:00"
 slug: "carsi-camii-ulubey"
 description: "## Çarşı Camii, Ulubey: Uşak'ın Değerli Eseri..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2910938,38.4187889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Ulubey: Uşak'ın Değerli Eseri

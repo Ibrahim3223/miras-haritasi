@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ahmet Camii | Miras Haritası"
-date: 2025-12-24T23:55:11+03:00
+title: "Şeyh Ahmet Camii"
+date: "2025-12-24T23:55:11+03:00"
 slug: "seyh-ahmet-camii"
 description: "### Şeyh Ahmet Camii: Cide'nin Tarihî ve Kültür Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Cide"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7310753,41.4553528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Ahmet Camii: Cide'nin Tarihî ve Kültür Mirası

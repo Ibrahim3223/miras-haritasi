@@ -1,18 +1,17 @@
 ---
-title: "Karahasan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:03+03:00
+title: "Karahasan Köprüsü"
+date: "2025-12-25T02:41:03+03:00"
 slug: "karahasan-koprusu"
 description: "## Karahasan Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.3916798,38.5658951"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karahasan Köprüsü

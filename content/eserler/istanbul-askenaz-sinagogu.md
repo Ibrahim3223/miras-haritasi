@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Aşkenaz Sinagogu | Miras Haritası"
-date: 2025-12-25T16:11:49+03:00
+title: "İstanbul Aşkenaz Sinagogu"
+date: "2025-12-25T16:11:49+03:00"
 slug: "istanbul-askenaz-sinagogu"
 description: "## İstanbul Aşkenaz Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Istanbul_Ashkenazi_Sinagogue_Interior.JPG/1200px-Istanbul_Ashkenazi_Sinagogue_Interior.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.97509,41.02521"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İstanbul Aşkenaz Sinagogu

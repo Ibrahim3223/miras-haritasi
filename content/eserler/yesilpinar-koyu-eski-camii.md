@@ -1,18 +1,17 @@
 ---
-title: "Yeşilpınar Köyü Eski Camii | Miras Haritası"
-date: 2025-12-24T23:46:08+03:00
+title: "Yeşilpınar Köyü Eski Camii"
+date: "2025-12-24T23:46:08+03:00"
 slug: "yesilpinar-koyu-eski-camii"
 description: "**Yeşilpınar Köyü Eski Camii: Kırklareli'nin Tarihî Bir Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0033684,41.3692245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yeşilpınar Köyü Eski Camii: Kırklareli'nin Tarihî Bir Mirası**

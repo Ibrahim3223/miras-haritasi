@@ -1,18 +1,17 @@
 ---
-title: "Germiyanoğlu Süleyman Şah Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:55+03:00
+title: "Germiyanoğlu Süleyman Şah Türbesi"
+date: "2025-12-25T14:42:55+03:00"
 slug: "germiyanoglu-suleyman-sah-turbesi"
 description: "## Germiyanoğlu Süleyman Şah Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5358334,38.7540665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Germiyanoğlu Süleyman Şah Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmud Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:19:24+03:00
+title: "II. Mahmud Han Çeşmesi"
+date: "2025-12-25T12:19:24+03:00"
 slug: "ii-mahmud-han-cesmesi"
 description: "### II. Mahmud Han Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/II._Mahmud_Han_Çeşmesi_IMG_9825.jpg/1200px-II._Mahmud_Han_Çeşmesi_IMG_9825.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9721451,41.0238228"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### II. Mahmud Han Çeşmesi

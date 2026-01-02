@@ -1,18 +1,17 @@
 ---
-title: "Özbek Köyü Hamamı ve Çeşmesi | Miras Haritası"
-date: 2025-12-25T16:47:55+03:00
+title: "Özbek Köyü Hamamı ve Çeşmesi"
+date: "2025-12-25T16:47:55+03:00"
 slug: "ozbek-koyu-hamami-ve-cesmesi"
 description: "## Özbek Köyü Hamamı ve Çeşmesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.4736176,40.1660614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özbek Köyü Hamamı ve Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Eceabat Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:16:26+03:00
+title: "Eceabat Merkez Camii"
+date: "2025-12-25T00:16:26+03:00"
 slug: "eceabat-merkez-camii"
 description: "### Eceabat Merkez Camii..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3588829,40.1867256"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eceabat Merkez Camii

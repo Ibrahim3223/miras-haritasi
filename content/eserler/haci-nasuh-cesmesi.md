@@ -1,18 +1,17 @@
 ---
-title: "Hacı Nasuh Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:43:34+03:00
+title: "Hacı Nasuh Çeşmesi"
+date: "2025-12-25T10:43:34+03:00"
 slug: "haci-nasuh-cesmesi"
 description: "## Hacı Nasuh Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.543314,38.7508774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Nasuh Çeşmesi

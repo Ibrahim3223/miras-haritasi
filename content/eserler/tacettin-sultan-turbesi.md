@@ -1,18 +1,17 @@
 ---
-title: "Tacettin Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:54+03:00
+title: "Tacettin Sultan Türbesi"
+date: "2025-12-25T15:23:54+03:00"
 slug: "tacettin-sultan-turbesi"
 description: "### Tacettin Sultan Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8650932,39.9327049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tacettin Sultan Türbesi

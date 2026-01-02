@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Seki | Miras Haritası"
-date: 2025-12-25T02:54:55+03:00
+title: "Roma Köprüsü, Seki"
+date: "2025-12-25T02:54:55+03:00"
 slug: "roma-koprusu-seki"
 description: "## Roma Köprüsü, Seki: Tavas'taki Antik Miras..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.8155823,37.6876907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Seki: Tavas'taki Antik Miras

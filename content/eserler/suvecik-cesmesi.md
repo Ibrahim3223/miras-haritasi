@@ -1,18 +1,17 @@
 ---
-title: "Süvecik Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:21:39+03:00
+title: "Süvecik Çeşmesi"
+date: "2025-12-25T12:21:39+03:00"
 slug: "suvecik-cesmesi"
 description: "### Süvecik Çeşmesi: Kaş'ın Tarihi Bir Hatırası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.6749,36.3553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Süvecik Çeşmesi: Kaş'ın Tarihi Bir Hatırası

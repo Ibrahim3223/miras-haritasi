@@ -1,18 +1,17 @@
 ---
-title: "Gürgendere Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:50:01+03:00
+title: "Gürgendere Kalesi, Kırklareli"
+date: "2025-12-25T01:50:01+03:00"
 slug: "gurgendere-kalesi-kirklareli"
 description: "# Gürgendere Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3431339,41.7825623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gürgendere Kalesi, Kırklareli

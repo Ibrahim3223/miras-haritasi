@@ -1,18 +1,17 @@
 ---
-title: "Kuzguncuk Batak Hamamı | Miras Haritası"
-date: 2025-12-25T16:37:08+03:00
+title: "Kuzguncuk Batak Hamamı"
+date: "2025-12-25T16:37:08+03:00"
 slug: "kuzguncuk-batak-hamami"
 description: "### Kuzguncuk Batak Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.031082,41.033623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuzguncuk Batak Hamamı: İstanbul'un Gizli Cenneti

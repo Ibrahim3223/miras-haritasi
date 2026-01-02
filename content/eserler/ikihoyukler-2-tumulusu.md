@@ -1,18 +1,17 @@
 ---
-title: "İkihöyükler 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:44+03:00
+title: "İkihöyükler 2 Tümülüsü"
+date: "2025-12-25T08:05:44+03:00"
 slug: "ikihoyukler-2-tumulusu"
 description: "## İkihöyükler 2 Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8761005,41.7482414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkihöyükler 2 Tümülüsü

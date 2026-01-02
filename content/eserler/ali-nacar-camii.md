@@ -1,18 +1,17 @@
 ---
-title: "Ali Nacar Camii | Miras Haritası"
-date: 2025-12-24T22:09:34+03:00
+title: "Ali Nacar Camii"
+date: "2025-12-24T22:09:34+03:00"
 slug: "ali-nacar-camii"
 description: "### Ali Nacar Camii..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3812065,37.0676842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Nacar Camii

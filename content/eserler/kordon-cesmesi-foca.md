@@ -1,18 +1,17 @@
 ---
-title: "Kordon Çeşmesi, Foça | Miras Haritası"
-date: 2025-12-25T12:07:17+03:00
+title: "Kordon Çeşmesi, Foça"
+date: "2025-12-25T12:07:17+03:00"
 slug: "kordon-cesmesi-foca"
 description: "## Kordon Çeşmesi, Foça..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7548733,38.672226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kordon Çeşmesi, Foça

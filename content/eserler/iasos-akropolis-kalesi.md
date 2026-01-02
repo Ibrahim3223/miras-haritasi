@@ -1,18 +1,17 @@
 ---
-title: "Iasos Akropolis Kalesi | Miras Haritası"
-date: 2025-12-25T01:17:48+03:00
+title: "Iasos Akropolis Kalesi"
+date: "2025-12-25T01:17:48+03:00"
 slug: "iasos-akropolis-kalesi"
 description: "**Iasos Akropolüsü Kalesi**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.585125,37.2772713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Iasos Akropolüsü Kalesi**

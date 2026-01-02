@@ -1,18 +1,17 @@
 ---
-title: "Yenişehir Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:49+03:00
+title: "Yenişehir Saat Kulesi"
+date: "2025-12-25T17:21:49+03:00"
 slug: "yenisehir-saat-kulesi"
 description: "## Yenişehir Saat Kulesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "29.649777777,40.261111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenişehir Saat Kulesi

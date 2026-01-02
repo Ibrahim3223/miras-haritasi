@@ -1,18 +1,17 @@
 ---
-title: "Karşıbağlar 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:13:19+03:00
+title: "Karşıbağlar 1 Tümülüsü"
+date: "2025-12-25T08:13:19+03:00"
 slug: "karsibaglar-1-tumulusu"
 description: "## Karşıbağlar 1 Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7377758,41.5621758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karşıbağlar 1 Tümülüsü: Kırklareli'nin Gizli Mirası

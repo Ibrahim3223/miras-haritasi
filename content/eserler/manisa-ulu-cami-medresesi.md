@@ -1,18 +1,17 @@
 ---
-title: "Manisa Ulu Cami Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:20+03:00
+title: "Manisa Ulu Cami Medresesi"
+date: "2025-12-25T17:36:20+03:00"
 slug: "manisa-ulu-cami-medresesi"
 description: "## Manisa Ulu Cami Medresesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.4299507,38.6081085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manisa Ulu Cami Medresesi

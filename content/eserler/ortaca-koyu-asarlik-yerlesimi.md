@@ -1,18 +1,17 @@
 ---
-title: "Ortaca Köyü Asarlık Yerleşimi | Miras Haritası"
-date: 2025-12-25T08:29:56+03:00
+title: "Ortaca Köyü Asarlık Yerleşimi"
+date: "2025-12-25T08:29:56+03:00"
 slug: "ortaca-koyu-asarlik-yerlesimi"
 description: "## Ortaca Köyü Asarlık Yerleşimi: Çanakkale'nin Gizli Kıvılcımı..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6256962,40.0719032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaca Köyü Asarlık Yerleşimi: Çanakkale'nin Gizli Kıvılcımı

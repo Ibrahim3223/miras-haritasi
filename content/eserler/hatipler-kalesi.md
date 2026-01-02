@@ -1,18 +1,17 @@
 ---
-title: "Hatipler Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:24+03:00
+title: "Hatipler Kalesi"
+date: "2025-12-25T01:36:24+03:00"
 slug: "hatipler-kalesi"
 description: "## Hatipler Kalesi: Dikili'nin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.895052777,39.014263888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatipler Kalesi: Dikili'nin Gizli Cenneti

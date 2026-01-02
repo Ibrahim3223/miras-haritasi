@@ -1,18 +1,17 @@
 ---
-title: "Tahtatepen Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:39:47+03:00
+title: "Tahtatepen Camii Çeşmesi"
+date: "2025-12-25T11:39:47+03:00"
 slug: "tahtatepen-camii-cesmesi"
 description: "## Tahtatepen Camii Çeşmesi: Konya'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4993439,37.8645325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahtatepen Camii Çeşmesi: Konya'nın Tarihi Bir Çeşmesi

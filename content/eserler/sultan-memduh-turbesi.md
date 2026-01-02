@@ -1,18 +1,17 @@
 ---
-title: "Sultan Memduh Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:48+03:00
+title: "Sultan Memduh Türbesi"
+date: "2025-12-25T14:27:48+03:00"
 slug: "sultan-memduh-turbesi"
 description: "## Sultan Memduh Türbesi..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Tillo"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.0082,37.9467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Memduh Türbesi

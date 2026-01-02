@@ -1,18 +1,17 @@
 ---
-title: "Düzköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:29+03:00
+title: "Düzköy Köprüsü"
+date: "2025-12-25T02:09:29+03:00"
 slug: "duzkoy-koprusu"
 description: "**Düzköy Köprüsü: Artvin'in Gizli Cenneti**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.6035728,41.3788605"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Düzköy Köprüsü: Artvin'in Gizli Cenneti**

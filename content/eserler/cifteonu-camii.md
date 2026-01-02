@@ -1,18 +1,17 @@
 ---
-title: "Çifteönü Camii | Miras Haritası"
-date: 2025-12-24T22:34:24+03:00
+title: "Çifteönü Camii"
+date: "2025-12-24T22:34:24+03:00"
 slug: "cifteonu-camii"
 description: "## Çifteönü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4785118,38.7164497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çifteönü Camii

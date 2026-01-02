@@ -1,18 +1,17 @@
 ---
-title: "Çağlayan Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:10:25+03:00
+title: "Çağlayan Köyü Köprüsü"
+date: "2025-12-25T02:10:25+03:00"
 slug: "caglayan-koyu-koprusu"
 description: "## Çağlayan Köyü Köprüsü..."
 featured_image: ""
 province: "Kalkandere"
-iller: ["Kalkandere"]
+iller: '["Kalkandere"]'
 district: "Kalkandere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.46385,40.926583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlayan Köyü Köprüsü

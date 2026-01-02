@@ -1,18 +1,17 @@
 ---
-title: "Defterdar İbrahim Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:18:10+03:00
+title: "Defterdar İbrahim Paşa Camii"
+date: "2025-12-24T22:18:10+03:00"
 slug: "defterdar-ibrahim-pasa-camii"
 description: "### Defterdar İbrahim Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ortakoy_defterdar_ibrahim_pasa_cami.jpg/1200px-Ortakoy_defterdar_ibrahim_pasa_cami.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.033273,41.05102"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Defterdar İbrahim Paşa Camii

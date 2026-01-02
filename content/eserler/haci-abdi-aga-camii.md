@@ -1,18 +1,17 @@
 ---
-title: "Hacı Abdi Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:25:49+03:00
+title: "Hacı Abdi Ağa Camii"
+date: "2025-12-24T23:25:49+03:00"
 slug: "haci-abdi-aga-camii"
 description: "## Hacı Abdi Ağa Camii..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9685593,38.228054"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Abdi Ağa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Pigela (Likya) | Miras Haritası"
-date: 2025-12-25T04:56:38+03:00
+title: "Pigela (Likya)"
+date: "2025-12-25T04:56:38+03:00"
 slug: "pigela-likya"
 description: "### Likya'nın Gizli Şehri: Pigela..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.332,36.455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Likya'nın Gizli Şehri: Pigela

@@ -1,18 +1,17 @@
 ---
-title: "Kalekapı Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:20:45+03:00
+title: "Kalekapı Kaya Mezarı"
+date: "2025-12-25T13:20:45+03:00"
 slug: "kalekapi-kaya-mezari"
 description: "## Kalekapı Kaya Mezarı..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Taşköprü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.0904922,41.5655708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalekapı Kaya Mezarı

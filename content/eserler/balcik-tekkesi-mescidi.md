@@ -1,18 +1,17 @@
 ---
-title: "Balçık Tekkesi Mescidi | Miras Haritası"
-date: 2025-12-24T22:47:06+03:00
+title: "Balçık Tekkesi Mescidi"
+date: "2025-12-24T22:47:06+03:00"
 slug: "balcik-tekkesi-mescidi"
 description: "## Balçık Tekkesi Mescidi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9368956,41.0431372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balçık Tekkesi Mescidi

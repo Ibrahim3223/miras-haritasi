@@ -1,18 +1,17 @@
 ---
-title: "Bahçekaşı Höyük | Miras Haritası"
-date: 2025-12-25T06:33:22+03:00
+title: "Bahçekaşı Höyük"
+date: "2025-12-25T06:33:22+03:00"
 slug: "bahcekasi-hoyuk"
 description: "## Bahçekaşı Höyük: Ergani'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Ergani"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.7350037,38.2683217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahçekaşı Höyük: Ergani'nin Gizli Kahramanı

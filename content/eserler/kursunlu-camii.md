@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii | Miras Haritası"
-date: 2025-12-24T22:21:17+03:00
+title: "Kurşunlu Camii"
+date: "2025-12-24T22:21:17+03:00"
 slug: "kursunlu-camii"
 description: "## Kurşunlu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nevşehir_Kurşunlu_Mosque_in_2011_9870.jpg/1200px-Nevşehir_Kurşunlu_Mosque_in_2011_9870.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.714611111,38.622111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kurşunlu Camii

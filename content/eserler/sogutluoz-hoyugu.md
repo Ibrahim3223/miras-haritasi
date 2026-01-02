@@ -1,18 +1,17 @@
 ---
-title: "Söğütlüöz Höyüğü | Miras Haritası"
-date: 2025-12-25T06:44:07+03:00
+title: "Söğütlüöz Höyüğü"
+date: "2025-12-25T06:44:07+03:00"
 slug: "sogutluoz-hoyugu"
 description: "## Söğütlüöz Höyüğü: Tarih, Kültür ve Miras..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.430876,36.6114327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söğütlüöz Höyüğü: Tarih, Kültür ve Miras

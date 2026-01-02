@@ -1,18 +1,17 @@
 ---
-title: "Kalecik Tümülüsü, Çaylı | Miras Haritası"
-date: 2025-12-25T07:42:05+03:00
+title: "Kalecik Tümülüsü, Çaylı"
+date: "2025-12-25T07:42:05+03:00"
 slug: "kalecik-tumulusu-cayli"
 description: "## Kalecik Tümülüsü, Çaylı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Koyulhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.7308655,40.3142319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalecik Tümülüsü, Çaylı

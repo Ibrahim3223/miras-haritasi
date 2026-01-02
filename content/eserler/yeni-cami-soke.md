@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami, Söke | Miras Haritası"
-date: 2025-12-25T00:30:51+03:00
+title: "Yeni Cami, Söke"
+date: "2025-12-25T00:30:51+03:00"
 slug: "yeni-cami-soke"
 description: "## Yeni Cami, Söke..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4075165,37.752327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Cami, Söke

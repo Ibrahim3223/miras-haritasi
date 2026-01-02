@@ -1,18 +1,17 @@
 ---
-title: "Veysel Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:42:49+03:00
+title: "Veysel Efendi Camii"
+date: "2025-12-24T23:42:49+03:00"
 slug: "veysel-efendi-camii"
 description: "## Veysel Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Veysel_Efendi_Camii.jpg/1200px-Veysel_Efendi_Camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bayburt"
+province: "Bayburt"
+iller: '["Bayburt"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.230131,40.259037"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Veysel Efendi Camii

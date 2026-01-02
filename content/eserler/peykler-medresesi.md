@@ -1,18 +1,17 @@
 ---
-title: "Peykler Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:12+03:00
+title: "Peykler Medresesi"
+date: "2025-12-25T17:37:12+03:00"
 slug: "peykler-medresesi"
 description: "**Peykler Medresesi**..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "26.5544262,41.6781197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Peykler Medresesi**

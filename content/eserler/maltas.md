@@ -1,18 +1,17 @@
 ---
-title: "Maltaş | Miras Haritası"
-date: 2025-12-25T06:50:53+03:00
+title: "Maltaş"
+date: "2025-12-25T06:50:53+03:00"
 slug: "maltas"
 description: "## Maltaş Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.51833344,39.04305649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltaş Arkeolojik Sit

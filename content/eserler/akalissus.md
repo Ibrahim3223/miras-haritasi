@@ -1,18 +1,17 @@
 ---
-title: "Akalissus | Miras Haritası"
-date: 2025-12-25T06:47:08+03:00
+title: "Akalissus"
+date: "2025-12-25T06:47:08+03:00"
 slug: "akalissus"
 description: "## Akalissus Arkeolojik Siti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.22144675,36.52732068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akalissus Arkeolojik Siti

@@ -1,18 +1,17 @@
 ---
-title: "Alay Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:18+03:00
+title: "Alay Çeşmesi"
+date: "2025-12-25T10:18:18+03:00"
 slug: "alay-cesmesi"
 description: "## Alay Çeşmesi: Şebinkarahisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.4183502,40.2880974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alay Çeşmesi: Şebinkarahisar'ın Tarihi Bir Çeşmesi

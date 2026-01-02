@@ -1,18 +1,17 @@
 ---
-title: "Neikaia | Miras Haritası"
-date: 2025-12-25T08:27:43+03:00
+title: "Neikaia"
+date: "2025-12-25T08:27:43+03:00"
 slug: "neikaia"
 description: "## Neikaia Arkeolojik Sit..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.088427,38.161899"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neikaia Arkeolojik Sit

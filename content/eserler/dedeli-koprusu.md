@@ -1,18 +1,17 @@
 ---
-title: "Dedeli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:39+03:00
+title: "Dedeli Köprüsü"
+date: "2025-12-25T02:29:39+03:00"
 slug: "dedeli-koprusu"
 description: "## Dedeli Köprüsü: Torul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.26604,40.41559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedeli Köprüsü: Torul'un Tarihi Bir Mirası

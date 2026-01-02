@@ -1,18 +1,17 @@
 ---
-title: "Efdalzade Medresesi | Miras Haritası"
-date: 2025-12-25T17:30:58+03:00
+title: "Efdalzade Medresesi"
+date: "2025-12-25T17:30:58+03:00"
 slug: "efdalzade-medresesi"
 description: "## Efdalzade Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.948327,41.02044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Efdalzade Medresesi

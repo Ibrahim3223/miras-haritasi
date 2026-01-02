@@ -1,18 +1,17 @@
 ---
-title: "Hantepe Höyüğü 1 | Miras Haritası"
-date: 2025-12-25T06:05:02+03:00
+title: "Hantepe Höyüğü 1"
+date: "2025-12-25T06:05:02+03:00"
 slug: "hantepe-hoyugu-1"
 description: "**Hantepe Höyüğü 1: Akçadağ'ın Gizli Ören Yeri**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.7355499,38.4896774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hantepe Höyüğü 1: Akçadağ'ın Gizli Ören Yeri**

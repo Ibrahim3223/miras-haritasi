@@ -1,18 +1,17 @@
 ---
-title: "Magnesia ad Sipylum | Miras Haritası"
-date: 2025-12-25T04:20:05+03:00
+title: "Magnesia ad Sipylum"
+date: "2025-12-25T04:20:05+03:00"
 slug: "magnesia-ad-sipylum"
 description: "**Magnesia ad Sipylum: Tarihî Mirasın Gizemi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Magnésie_du_Sipyle_(carte_postale_ancienne_-_entre_milieu_et_fin_XIXe_siècle).jpg/1200px-Magnésie_du_Sipyle_(carte_postale_ancienne_-_entre_milieu_et_fin_XIXe_siècle).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.425833,38.613056"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Magnesia ad Sipylum: Tarihî Mirasın Gizemi**

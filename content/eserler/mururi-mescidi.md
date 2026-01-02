@@ -1,18 +1,17 @@
 ---
-title: "Müruri Mescidi | Miras Haritası"
-date: 2025-12-25T00:48:07+03:00
+title: "Müruri Mescidi"
+date: "2025-12-25T00:48:07+03:00"
 slug: "mururi-mescidi"
 description: "## Müruri Mescidi: Ankara'nın Gizli Çağından Kalan Bir Miras..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8663902,39.9347382"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müruri Mescidi: Ankara'nın Gizli Çağından Kalan Bir Miras

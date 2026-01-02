@@ -1,18 +1,17 @@
 ---
-title: "Lütfi Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:23:34+03:00
+title: "Lütfi Bey Çeşmesi"
+date: "2025-12-25T11:23:34+03:00"
 slug: "lutfi-bey-cesmesi"
 description: "## Lütfi Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lütfi_Bey_Çeşmesi.jpg/1200px-Lütfi_Bey_Çeşmesi.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Bebek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.045267,41.078845"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lütfi Bey Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Gürcütepe | Miras Haritası"
-date: 2025-12-25T05:47:51+03:00
+title: "Gürcütepe"
+date: "2025-12-25T05:47:51+03:00"
 slug: "gurcutepe"
 description: "## Gürcütepe: Şanlıurfa'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.8459282,37.1198654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gürcütepe: Şanlıurfa'nın Gizli Cenneti

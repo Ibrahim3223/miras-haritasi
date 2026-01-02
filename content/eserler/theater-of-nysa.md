@@ -1,18 +1,17 @@
 ---
-title: "theater of Nysa | Miras Haritası"
-date: 2025-12-25T04:13:25+03:00
+title: "theater of Nysa"
+date: "2025-12-25T04:13:25+03:00"
 slug: "theater-of-nysa"
 description: "## Theater of Nysa Tanıtımı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.14535923,37.903691072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Theater of Nysa Tanıtımı

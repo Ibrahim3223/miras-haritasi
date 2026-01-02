@@ -1,18 +1,17 @@
 ---
-title: "Karahasan Höyüğü | Miras Haritası"
-date: 2025-12-25T13:45:10+03:00
+title: "Karahasan Höyüğü"
+date: "2025-12-25T13:45:10+03:00"
 slug: "karahasan-hoyugu"
 description: "## Karahasan Höyüğü: Gaziantep'in Gizli Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.7047517,36.8543643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karahasan Höyüğü: Gaziantep'in Gizli Anıtı

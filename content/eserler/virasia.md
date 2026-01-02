@@ -1,18 +1,17 @@
 ---
-title: "Virasia | Miras Haritası"
-date: 2025-12-25T05:20:14+03:00
+title: "Virasia"
+date: "2025-12-25T05:20:14+03:00"
 slug: "virasia"
 description: "# Virasia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.578596,40.615458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Virasia Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Arak Höyük | Miras Haritası"
-date: 2025-12-25T05:32:14+03:00
+title: "Arak Höyük"
+date: "2025-12-25T05:32:14+03:00"
 slug: "arak-hoyuk"
 description: "## Arak Höyük: Isparta'nın Gizli Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Şarkikaraağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.41052,38.062939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arak Höyük: Isparta'nın Gizli Mirası

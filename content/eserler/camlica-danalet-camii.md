@@ -1,18 +1,17 @@
 ---
-title: "Çamlıca Danalet Camii | Miras Haritası"
-date: 2025-12-25T01:01:40+03:00
+title: "Çamlıca Danalet Camii"
+date: "2025-12-25T01:01:40+03:00"
 slug: "camlica-danalet-camii"
 description: "### Çamlıca Danalet Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.6532575,40.9801037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çamlıca Danalet Camii

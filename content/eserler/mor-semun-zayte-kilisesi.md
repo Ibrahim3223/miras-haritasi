@@ -1,18 +1,17 @@
 ---
-title: "Mor Şemun Zayte Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:26+03:00
+title: "Mor Şemun Zayte Kilisesi"
+date: "2025-12-25T09:19:26+03:00"
 slug: "mor-semun-zayte-kilisesi"
 description: "## Mor Şemun Zayte Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.3379593,37.4726677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mor Şemun Zayte Kilisesi: Tarihî Bir Mirasın Gizemi

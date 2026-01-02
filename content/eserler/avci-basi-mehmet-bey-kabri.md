@@ -1,18 +1,17 @@
 ---
-title: "Avcı Başı Mehmet Bey Kabri | Miras Haritası"
-date: 2025-12-25T13:23:52+03:00
+title: "Avcı Başı Mehmet Bey Kabri"
+date: "2025-12-25T13:23:52+03:00"
 slug: "avci-basi-mehmet-bey-kabri"
 description: "## Avcı Başı Mehmet Bey Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9399319,41.0353508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avcı Başı Mehmet Bey Kabri

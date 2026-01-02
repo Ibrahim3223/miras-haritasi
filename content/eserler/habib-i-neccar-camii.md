@@ -1,18 +1,17 @@
 ---
-title: "Habib-i Neccar Camii | Miras Haritası"
-date: 2025-12-24T21:48:22+03:00
+title: "Habib-i Neccar Camii"
+date: "2025-12-24T21:48:22+03:00"
 slug: "habib-i-neccar-camii"
 description: "## Habib-i Neccar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Habib-i-Neccar_Camii-composite.jpg/1200px-Habib-i-Neccar_Camii-composite.jpg"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1656367,36.2016763"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Habib-i Neccar Camii

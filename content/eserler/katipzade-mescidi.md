@@ -1,18 +1,17 @@
 ---
-title: "Katipzade Mescidi | Miras Haritası"
-date: 2025-12-25T00:49:30+03:00
+title: "Katipzade Mescidi"
+date: "2025-12-25T00:49:30+03:00"
 slug: "katipzade-mescidi"
 description: "## Katipzade Mescidi: İzmir'in Tarihi Şöhreti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1312523,38.4206085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Katipzade Mescidi: İzmir'in Tarihi Şöhreti

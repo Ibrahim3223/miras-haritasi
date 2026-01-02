@@ -1,18 +1,17 @@
 ---
-title: "Bedesten Sokak Çeşmesi, Küre | Miras Haritası"
-date: 2025-12-25T12:21:01+03:00
+title: "Bedesten Sokak Çeşmesi, Küre"
+date: "2025-12-25T12:21:01+03:00"
 slug: "bedesten-sokak-cesmesi-kure"
 description: "## Bedesten Sokak Çeşmesi, Küre..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Küre"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.712622275,41.805553974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bedesten Sokak Çeşmesi, Küre

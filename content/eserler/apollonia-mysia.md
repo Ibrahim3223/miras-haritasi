@@ -1,18 +1,17 @@
 ---
-title: "Apollonia (Mysia) | Miras Haritası"
-date: 2025-12-25T04:32:11+03:00
+title: "Apollonia (Mysia)"
+date: "2025-12-25T04:32:11+03:00"
 slug: "apollonia-mysia"
 description: "## Apollonia (Mysia): Tarihin İhtişamı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.494574,39.202362"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apollonia (Mysia): Tarihin İhtişamı

@@ -1,18 +1,17 @@
 ---
-title: "Türkobası Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:51+03:00
+title: "Türkobası Çeşmesi"
+date: "2025-12-25T10:27:51+03:00"
 slug: "turkobasi-cesmesi"
 description: "## Türkobası Çeşmesi: Ankara'nın Tarihî ve Kültürel Mirasının Gizli Ceznesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4522171,39.8173676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türkobası Çeşmesi: Ankara'nın Tarihî ve Kültürel Mirasının Gizli Ceznesi

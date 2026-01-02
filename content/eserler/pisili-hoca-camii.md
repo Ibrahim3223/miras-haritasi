@@ -1,18 +1,17 @@
 ---
-title: "Pisili Hoca Camii | Miras Haritası"
-date: 2025-12-24T22:39:05+03:00
+title: "Pisili Hoca Camii"
+date: "2025-12-24T22:39:05+03:00"
 slug: "pisili-hoca-camii"
 description: "## Pisili Hoca Camii: Menteşe'nin tarihi bir güzelliği..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.2776566,37.190506"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pisili Hoca Camii: Menteşe'nin tarihi bir güzelliği

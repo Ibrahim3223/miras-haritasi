@@ -1,18 +1,17 @@
 ---
-title: "Helvacıbaşı Camii | Miras Haritası"
-date: 2025-12-24T22:45:44+03:00
+title: "Helvacıbaşı Camii"
+date: "2025-12-24T22:45:44+03:00"
 slug: "helvacibasi-camii"
 description: "### Helvacıbaşı Camii: İstanbul'un Gizli Çarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Minaret_of_the_Helvacıbaşı_Mosque,_Istanbul.jpg/1200px-Minaret_of_the_Helvacıbaşı_Mosque,_Istanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.972722222,41.004861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Helvacıbaşı Camii: İstanbul'un Gizli Çarı

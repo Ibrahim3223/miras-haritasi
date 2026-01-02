@@ -1,18 +1,17 @@
 ---
-title: "Kazımkarabekir Asar Höyük | Miras Haritası"
-date: 2025-12-25T13:50:25+03:00
+title: "Kazımkarabekir Asar Höyük"
+date: "2025-12-25T13:50:25+03:00"
 slug: "kazimkarabekir-asar-hoyuk"
 description: "## Kazımkarabekir Asar Höyük: Karaman'ın Gizli Gölleri..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Kazımkarabekir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.9586258,37.2265739"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazımkarabekir Asar Höyük: Karaman'ın Gizli Gölleri

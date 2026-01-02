@@ -1,18 +1,17 @@
 ---
-title: "Karadağ Tümülüsleri I-II-III | Miras Haritası"
-date: 2025-12-25T07:22:49+03:00
+title: "Karadağ Tümülüsleri I-II-III"
+date: "2025-12-25T07:22:49+03:00"
 slug: "karadag-tumulusleri-i-ii-iii"
 description: "## Karadağ Tümülüsleri I-II-III: Malatya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.8952713,38.417038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadağ Tümülüsleri I-II-III: Malatya'nın Gizli Cenneti

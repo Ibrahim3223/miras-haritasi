@@ -1,18 +1,17 @@
 ---
-title: "Çekirge Sultan Adak Hamamı | Miras Haritası"
-date: 2025-12-25T16:32:58+03:00
+title: "Çekirge Sultan Adak Hamamı"
+date: "2025-12-25T16:32:58+03:00"
 slug: "cekirge-sultan-adak-hamami"
 description: "# Çekirge Sultan Adak Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0178213,40.2011867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çekirge Sultan Adak Hamamı

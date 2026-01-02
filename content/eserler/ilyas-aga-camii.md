@@ -1,18 +1,17 @@
 ---
-title: "İlyas Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:38:25+03:00
+title: "İlyas Ağa Camii"
+date: "2025-12-24T23:38:25+03:00"
 slug: "ilyas-aga-camii"
 description: "## İlyas Ağa Camii: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4047737,37.7523422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlyas Ağa Camii: Aydın'ın Tarihi ve Kültürel Mirası

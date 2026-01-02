@@ -1,18 +1,17 @@
 ---
-title: "Oklalı Mezarlık A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:26:00+03:00
+title: "Oklalı Mezarlık A Tümülüsü"
+date: "2025-12-25T07:26:00+03:00"
 slug: "oklali-mezarlik-a-tumulusu"
 description: "## Oklalı Mezarlık A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2352238,41.3438072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oklalı Mezarlık A Tümülüsü

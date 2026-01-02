@@ -1,18 +1,17 @@
 ---
-title: "Arvalya Höyük | Miras Haritası"
-date: 2025-12-25T05:50:08+03:00
+title: "Arvalya Höyük"
+date: "2025-12-25T05:50:08+03:00"
 slug: "arvalya-hoyuk"
 description: "## Arvalya Höyük: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3056068,37.9313927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arvalya Höyük: İzmir'in Gizli Cenneti

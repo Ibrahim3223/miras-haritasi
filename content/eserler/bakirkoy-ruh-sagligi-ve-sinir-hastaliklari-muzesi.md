@@ -1,18 +1,17 @@
 ---
-title: "Bakırköy Ruh Sağlığı ve Sinir Hastalıkları Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:18+03:00
+title: "Bakırköy Ruh Sağlığı ve Sinir Hastalıkları Müzesi"
+date: "2025-12-25T03:52:18+03:00"
 slug: "bakirkoy-ruh-sagligi-ve-sinir-hastaliklari-muzesi"
 description: "### Bakırköy Ruh Sağlığı ve Sinir Hastalıkları Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.864973,40.993657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bakırköy Ruh Sağlığı ve Sinir Hastalıkları Müzesi

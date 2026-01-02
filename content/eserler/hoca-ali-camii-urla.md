@@ -1,18 +1,17 @@
 ---
-title: "Hoca Ali Camii, Urla | Miras Haritası"
-date: 2025-12-24T23:19:58+03:00
+title: "Hoca Ali Camii, Urla"
+date: "2025-12-24T23:19:58+03:00"
 slug: "hoca-ali-camii-urla"
 description: "## Hoca Ali Camii, Urla..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.768053,38.32247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Ali Camii, Urla

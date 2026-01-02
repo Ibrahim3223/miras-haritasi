@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Bayrak Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:51:44+03:00
+title: "Üsküp Bayrak Tepe Tümülüsü"
+date: "2025-12-25T07:51:44+03:00"
 slug: "uskup-bayrak-tepe-tumulusu"
 description: "**Üsküp Bayrak Tepe Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4164772,41.7135696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Üsküp Bayrak Tepe Tümülüsü**

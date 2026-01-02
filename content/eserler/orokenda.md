@@ -1,18 +1,17 @@
 ---
-title: "Orokenda | Miras Haritası"
-date: 2025-12-25T04:41:46+03:00
+title: "Orokenda"
+date: "2025-12-25T04:41:46+03:00"
 slug: "orokenda"
 description: "## Orokenda: Türkiye'nin Gizli Tarihi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.59444444,36.86027778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orokenda: Türkiye'nin Gizli Tarihi

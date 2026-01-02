@@ -1,18 +1,17 @@
 ---
-title: "Göynüş Kalesi | Miras Haritası"
-date: 2025-12-25T01:46:20+03:00
+title: "Göynüş Kalesi"
+date: "2025-12-25T01:46:20+03:00"
 slug: "goynus-kalesi"
 description: "## Göynüş Kalesi: Afyonkarahisar'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.525003,39.049335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göynüş Kalesi: Afyonkarahisar'ın Gizli Kahramanı

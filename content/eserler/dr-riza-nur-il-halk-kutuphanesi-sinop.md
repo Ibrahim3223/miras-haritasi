@@ -1,18 +1,17 @@
 ---
-title: "Dr. Rıza Nur İl Halk Kütüphanesi, Sinop | Miras Haritası"
-date: 2025-12-25T17:58:13+03:00
+title: "Dr. Rıza Nur İl Halk Kütüphanesi, Sinop"
+date: "2025-12-25T17:58:13+03:00"
 slug: "dr-riza-nur-il-halk-kutuphanesi-sinop"
 description: "# Dr. Rıza Nur İl Halk Kütüphanesi, Sinop..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "35.156836138,42.021242927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dr. Rıza Nur İl Halk Kütüphanesi, Sinop

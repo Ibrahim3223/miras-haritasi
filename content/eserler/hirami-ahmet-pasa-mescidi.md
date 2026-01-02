@@ -1,18 +1,17 @@
 ---
-title: "Hırami Ahmet Paşa Mescidi | Miras Haritası"
-date: 2025-12-24T21:37:26+03:00
+title: "Hırami Ahmet Paşa Mescidi"
+date: "2025-12-24T21:37:26+03:00"
 slug: "hirami-ahmet-pasa-mescidi"
 description: "### Hırami Ahmet Paşa Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/HiramiAmhetPasaMosque20071010_01.jpg/1200px-HiramiAmhetPasaMosque20071010_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.94578889,41.02785556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hırami Ahmet Paşa Mescidi

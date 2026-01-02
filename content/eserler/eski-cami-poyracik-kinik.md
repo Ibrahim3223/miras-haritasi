@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami – Poyracık, Kınık | Miras Haritası"
-date: 2025-12-25T00:01:16+03:00
+title: "Eski Cami – Poyracık, Kınık"
+date: "2025-12-25T00:01:16+03:00"
 slug: "eski-cami-poyracik-kinik"
 description: "## Eski Cami – Poyracık, Kınık: İzmir'in Tarihçesi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kınık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3469028,39.0875359"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Cami – Poyracık, Kınık: İzmir'in Tarihçesi ve Kültürel Mirası

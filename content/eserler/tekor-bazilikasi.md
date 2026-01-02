@@ -1,18 +1,17 @@
 ---
-title: "Tekor Bazilikası | Miras Haritası"
-date: 2025-12-25T08:48:47+03:00
+title: "Tekor Bazilikası"
+date: "2025-12-25T08:48:47+03:00"
 slug: "tekor-bazilikasi"
 description: "# Tekor Bazilikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tekor_Basilica_in_an_1840s_engraving.jpg/1200px-Tekor_Basilica_in_an_1840s_engraving.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.414722,40.371389"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Tekor Bazilikası

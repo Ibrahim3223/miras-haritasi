@@ -1,18 +1,17 @@
 ---
-title: "Bıçakçı Alaaddin Camii | Miras Haritası"
-date: 2025-12-24T22:49:55+03:00
+title: "Bıçakçı Alaaddin Camii"
+date: "2025-12-24T22:49:55+03:00"
 slug: "bicakci-alaaddin-camii"
 description: "### Bıçakçı Alaaddin Camii Tanıtımı..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.949693,41.013804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bıçakçı Alaaddin Camii Tanıtımı

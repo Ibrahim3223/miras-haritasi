@@ -1,18 +1,17 @@
 ---
-title: "Kum Kasrı Hamamı | Miras Haritası"
-date: 2025-12-25T16:49:48+03:00
+title: "Kum Kasrı Hamamı"
+date: "2025-12-25T16:49:48+03:00"
 slug: "kum-kasri-hamami"
 description: "## Kum Kasrı Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.5564327,41.6911011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kum Kasrı Hamamı

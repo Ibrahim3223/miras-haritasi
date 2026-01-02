@@ -1,18 +1,17 @@
 ---
-title: "Mardin Surp Kevork Kilisesi | Miras Haritası"
-date: 2025-12-25T08:46:53+03:00
+title: "Mardin Surp Kevork Kilisesi"
+date: "2025-12-25T08:46:53+03:00"
 slug: "mardin-surp-kevork-kilisesi"
 description: "## Mardin Surp Kevork Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Derik"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.270571,37.368938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mardin Surp Kevork Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "İğdecik Höyük | Miras Haritası"
-date: 2025-12-25T06:21:01+03:00
+title: "İğdecik Höyük"
+date: "2025-12-25T06:21:01+03:00"
 slug: "igdecik-hoyuk"
 description: "## İğdecik Höyük: Yozgat'ın Gizli Tarihî Cenneti..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yerköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6318245,39.7286785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İğdecik Höyük: Yozgat'ın Gizli Tarihî Cenneti

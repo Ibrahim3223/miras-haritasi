@@ -1,18 +1,17 @@
 ---
-title: "Şabanın Höyükleri 3 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:03+03:00
+title: "Şabanın Höyükleri 3 Tümülüsü"
+date: "2025-12-25T07:40:03+03:00"
 slug: "sabanin-hoyukleri-3-tumulusu"
 description: "## Şabanın Höyükleri 3 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2603588,42.0200539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şabanın Höyükleri 3 Tümülüsü

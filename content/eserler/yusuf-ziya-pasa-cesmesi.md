@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Ziya Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:02+03:00
+title: "Yusuf Ziya Paşa Çeşmesi"
+date: "2025-12-25T11:06:02+03:00"
 slug: "yusuf-ziya-pasa-cesmesi"
 description: "## Yusuf Ziya Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.053727,41.050437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuf Ziya Paşa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Aya Anastasia Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:54+03:00
+title: "Aya Anastasia Kilisesi"
+date: "2025-12-25T09:21:54+03:00"
 slug: "aya-anastasia-kilisesi"
 description: "### Aya Anastasia Kilisesi: Manisa'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.4032173,38.6305504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Anastasia Kilisesi: Manisa'nın Gizli Çehresini Keşfetmek

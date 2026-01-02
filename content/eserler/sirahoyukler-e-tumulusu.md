@@ -1,18 +1,17 @@
 ---
-title: "Sırahöyükler E Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:42:50+03:00
+title: "Sırahöyükler E Tümülüsü"
+date: "2025-12-25T07:42:50+03:00"
 slug: "sirahoyukler-e-tumulusu"
 description: "### Sırahöyükler E Tümülüsü: Lalapaşa'nın Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7890091,41.8321762"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sırahöyükler E Tümülüsü: Lalapaşa'nın Gizli Mirası

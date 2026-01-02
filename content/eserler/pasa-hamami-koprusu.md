@@ -1,18 +1,17 @@
 ---
-title: "Paşa Hamamı Köprüsü | Miras Haritası"
-date: 2025-12-25T03:03:12+03:00
+title: "Paşa Hamamı Köprüsü"
+date: "2025-12-25T03:03:12+03:00"
 slug: "pasa-hamami-koprusu"
 description: "### Paşa Hamamı Köprüsü..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.1076126,38.4024963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Paşa Hamamı Köprüsü

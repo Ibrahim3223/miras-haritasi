@@ -1,18 +1,17 @@
 ---
-title: "Molla Yusuf Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:31:45+03:00
+title: "Molla Yusuf Çeşmesi"
+date: "2025-12-25T12:31:45+03:00"
 slug: "molla-yusuf-cesmesi"
 description: "## Molla Yusuf Çeşmesi: İvrindi'nin Değerli Tarihi Eseri..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "İvrindi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.60585144,39.539366721"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Yusuf Çeşmesi: İvrindi'nin Değerli Tarihi Eseri

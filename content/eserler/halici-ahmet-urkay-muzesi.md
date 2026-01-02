@@ -1,18 +1,17 @@
 ---
-title: "Halıcı Ahmet Urkay Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:20+03:00
+title: "Halıcı Ahmet Urkay Müzesi"
+date: "2025-12-25T03:13:20+03:00"
 slug: "halici-ahmet-urkay-muzesi"
 description: "### Halıcı Ahmet Urkay Müzesi: Marmaris'in Kültür Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halıcı Ahmet Urkay Müzesi: Marmaris'in Kültür Mirası

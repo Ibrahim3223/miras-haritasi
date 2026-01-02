@@ -1,18 +1,17 @@
 ---
-title: "Tire Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:07:06+03:00
+title: "Tire Ulu Camii"
+date: "2025-12-24T22:07:06+03:00"
 slug: "tire-ulu-camii"
 description: "## Tire Ulu Camii: Tarih ve Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tire_Ulu_Cami.jpg/1200px-Tire_Ulu_Cami.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.736361111,38.08375"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tire Ulu Camii: Tarih ve Miras

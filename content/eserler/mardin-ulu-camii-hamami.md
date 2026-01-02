@@ -1,18 +1,17 @@
 ---
-title: "Mardin Ulu Camii Hamamı | Miras Haritası"
-date: 2025-12-25T16:44:15+03:00
+title: "Mardin Ulu Camii Hamamı"
+date: "2025-12-25T16:44:15+03:00"
 slug: "mardin-ulu-camii-hamami"
 description: "### Mardin Ulu Camii Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ulu_camii.jpg/1200px-Ulu_camii.jpg"
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.7396202,37.3126335"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mardin Ulu Camii Hamamı

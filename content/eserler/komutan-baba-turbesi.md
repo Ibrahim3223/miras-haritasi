@@ -1,18 +1,17 @@
 ---
-title: "Komutan Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:20+03:00
+title: "Komutan Baba Türbesi"
+date: "2025-12-25T14:20:20+03:00"
 slug: "komutan-baba-turbesi"
 description: "## Komutan Baba Türbesi: Akçakoca, Düzce'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.0875,41.0454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Komutan Baba Türbesi: Akçakoca, Düzce'nin Tarihi ve Kültürel Mirası

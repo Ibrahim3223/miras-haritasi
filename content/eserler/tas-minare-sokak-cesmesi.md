@@ -1,18 +1,17 @@
 ---
-title: "Taş Minare Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:30:31+03:00
+title: "Taş Minare Sokak Çeşmesi"
+date: "2025-12-25T11:30:31+03:00"
 slug: "tas-minare-sokak-cesmesi"
 description: "## Taş Minare Sokak Çeşmesi: Safranbolu'nun Tarihi Örenliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Taş_Minare_Sokak_Çeşmesi.jpg/1200px-Taş_Minare_Sokak_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6889,41.2503014"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Taş Minare Sokak Çeşmesi: Safranbolu'nun Tarihi Örenliği

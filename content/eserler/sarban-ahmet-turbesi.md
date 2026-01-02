@@ -1,18 +1,17 @@
 ---
-title: "Sarban Ahmet Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:55+03:00
+title: "Sarban Ahmet Türbesi"
+date: "2025-12-25T14:44:55+03:00"
 slug: "sarban-ahmet-turbesi"
 description: "## Sarban Ahmet Türbesi: Hayrabolu' nun Tarihsel Ören Yeri..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Hayrabolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.105257418,41.216891527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarban Ahmet Türbesi: Hayrabolu' nun Tarihsel Ören Yeri

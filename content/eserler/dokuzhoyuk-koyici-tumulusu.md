@@ -1,18 +1,17 @@
 ---
-title: "Dokuzhöyük Köyiçi Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:53:53+03:00
+title: "Dokuzhöyük Köyiçi Tümülüsü"
+date: "2025-12-25T07:53:53+03:00"
 slug: "dokuzhoyuk-koyici-tumulusu"
 description: "## Dokuzhöyük Köyiçi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0603352,41.6383095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokuzhöyük Köyiçi Tümülüsü

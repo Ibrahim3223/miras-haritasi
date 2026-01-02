@@ -1,18 +1,17 @@
 ---
-title: "Lycian tomb | Miras Haritası"
-date: 2025-12-25T15:07:26+03:00
+title: "Lycian tomb"
+date: "2025-12-25T15:07:26+03:00"
 slug: "lycian-tomb"
 description: "## Lycian Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/185A7263.jpg/1200px-185A7263.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.111819,36.622579"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lycian Mezarı

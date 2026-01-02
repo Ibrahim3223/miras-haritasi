@@ -1,18 +1,17 @@
 ---
-title: "Elegeia | Miras Haritası"
-date: 2025-12-25T04:29:23+03:00
+title: "Elegeia"
+date: "2025-12-25T04:29:23+03:00"
 slug: "elegeia"
 description: "## Elegeia: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elegeia: Antik Çağın Gizemi

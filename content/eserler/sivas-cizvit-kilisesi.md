@@ -1,18 +1,17 @@
 ---
-title: "Sivas Cizvit Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:02+03:00
+title: "Sivas Cizvit Kilisesi"
+date: "2025-12-25T09:22:02+03:00"
 slug: "sivas-cizvit-kilisesi"
 description: "## Sivas Cizvit Kilisesi: Sivas'ta Bir Tarihî Miras..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.0184441,39.7545547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivas Cizvit Kilisesi: Sivas'ta Bir Tarihî Miras

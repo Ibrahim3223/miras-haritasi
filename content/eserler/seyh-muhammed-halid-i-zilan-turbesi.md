@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhammed Halid-i Zilan Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:13+03:00
+title: "Şeyh Muhammed Halid-i Zilan Türbesi"
+date: "2025-12-25T15:19:13+03:00"
 slug: "seyh-muhammed-halid-i-zilan-turbesi"
 description: "## Şeyh Muhammed Halid-i Zilan Türbesi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Beşiri"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.247774,37.903012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Muhammed Halid-i Zilan Türbesi

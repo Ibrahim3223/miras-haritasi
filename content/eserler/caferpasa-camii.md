@@ -1,18 +1,17 @@
 ---
-title: "Caferpaşa Camii | Miras Haritası"
-date: 2025-12-24T22:26:34+03:00
+title: "Caferpaşa Camii"
+date: "2025-12-24T22:26:34+03:00"
 slug: "caferpasa-camii"
 description: "## Caferpaşa Camii: Malatya'nın Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Malatya"
+province: "Malatya"
+iller: '["Malatya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.4756737,39.0593529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Caferpaşa Camii: Malatya'nın Tarihî Mirası

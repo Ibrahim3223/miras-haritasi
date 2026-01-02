@@ -1,18 +1,17 @@
 ---
-title: "Yenikarpuzlu Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:46:27+03:00
+title: "Yenikarpuzlu Köyü Camii"
+date: "2025-12-24T23:46:27+03:00"
 slug: "yenikarpuzlu-koyu-camii"
 description: "## Yenikarpuzlu Köyü Camii: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "İpsala"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.2946739,40.8320808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenikarpuzlu Köyü Camii: Edirne'nin Gizli Cenneti

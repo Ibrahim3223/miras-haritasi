@@ -1,18 +1,17 @@
 ---
-title: "Hürrem Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:27+03:00
+title: "Hürrem Paşa Türbesi"
+date: "2025-12-25T14:40:27+03:00"
 slug: "hurrem-pasa-turbesi"
 description: "## Hürrem Paşa Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5046616,37.8703957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hürrem Paşa Türbesi

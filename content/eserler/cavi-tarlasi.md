@@ -1,18 +1,17 @@
 ---
-title: "Çavi Tarlası | Miras Haritası"
-date: 2025-12-25T07:08:03+03:00
+title: "Çavi Tarlası"
+date: "2025-12-25T07:08:03+03:00"
 slug: "cavi-tarlasi"
 description: "## Çavi Tarlası: Türkiye'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavi Tarlası: Türkiye'nin Gizli Mirası

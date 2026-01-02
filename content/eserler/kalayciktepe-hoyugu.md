@@ -1,18 +1,17 @@
 ---
-title: "Kalaycıktepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:00:08+03:00
+title: "Kalaycıktepe Höyüğü"
+date: "2025-12-25T07:00:08+03:00"
 slug: "kalayciktepe-hoyugu"
 description: "## Kalaycıktepe Höyüğü: Tunceli'nin Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tunceli"
+province: "Tunceli"
+iller: '["Tunceli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalaycıktepe Höyüğü: Tunceli'nin Gizli Anıtı

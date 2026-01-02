@@ -1,18 +1,17 @@
 ---
-title: "Sülüklü Çeşme | Miras Haritası"
-date: 2025-12-25T10:21:07+03:00
+title: "Sülüklü Çeşme"
+date: "2025-12-25T10:21:07+03:00"
 slug: "suluklu-cesme"
 description: "### Sülüklü Çeşme..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2552032,38.2807465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sülüklü Çeşme

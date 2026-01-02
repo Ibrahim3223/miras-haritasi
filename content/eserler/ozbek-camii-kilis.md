@@ -1,18 +1,17 @@
 ---
-title: "Özbek Camii, Kilis | Miras Haritası"
-date: 2025-12-25T00:03:23+03:00
+title: "Özbek Camii, Kilis"
+date: "2025-12-25T00:03:23+03:00"
 slug: "ozbek-camii-kilis"
 description: "## Özbek Camii: Kilis'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.1180801,36.7114601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özbek Camii: Kilis'in Tarihi ve Kültürel Mirası

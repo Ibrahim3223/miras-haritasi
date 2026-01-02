@@ -1,18 +1,17 @@
 ---
-title: "Kağıthane Mezarlığı Üst Tarafındaki Çeşme | Miras Haritası"
-date: 2025-12-25T11:44:35+03:00
+title: "Kağıthane Mezarlığı Üst Tarafındaki Çeşme"
+date: "2025-12-25T11:44:35+03:00"
 slug: "kagithane-mezarligi-ust-tarafindaki-cesme"
 description: "## Kağıthane Mezarlığı Üst Tarafındaki Çeşme: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kağıthane"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9692631,41.080246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kağıthane Mezarlığı Üst Tarafındaki Çeşme: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Salih Paşa Camii, Konak | Miras Haritası"
-date: 2025-12-25T00:00:49+03:00
+title: "Salih Paşa Camii, Konak"
+date: "2025-12-25T00:00:49+03:00"
 slug: "salih-pasa-camii-konak"
 description: "## Salih Paşa Camii, Konak: İzmir'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1359997,38.4085999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salih Paşa Camii, Konak: İzmir'in Tarihî Mirası

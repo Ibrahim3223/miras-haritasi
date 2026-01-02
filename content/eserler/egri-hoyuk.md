@@ -1,18 +1,17 @@
 ---
-title: "Eğri Höyük | Miras Haritası"
-date: 2025-12-25T06:04:43+03:00
+title: "Eğri Höyük"
+date: "2025-12-25T06:04:43+03:00"
 slug: "egri-hoyuk"
 description: "# Eğri Höyük..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Çayıralan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.518541336,39.349985747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Eğri Höyük

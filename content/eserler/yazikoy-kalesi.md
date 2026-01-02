@@ -1,18 +1,17 @@
 ---
-title: "Yazıköy Kalesi | Miras Haritası"
-date: 2025-12-25T01:45:04+03:00
+title: "Yazıköy Kalesi"
+date: "2025-12-25T01:45:04+03:00"
 slug: "yazikoy-kalesi"
 description: "## Yazıköy Kalesi: Datça'nın Tarihi Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4482002,36.6883621"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yazıköy Kalesi: Datça'nın Tarihi Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kalaycı Camii, Kırklareli | Miras Haritası"
-date: 2025-12-25T00:11:44+03:00
+title: "Kalaycı Camii, Kırklareli"
+date: "2025-12-25T00:11:44+03:00"
 slug: "kalayci-camii-kirklareli"
 description: "## Kalaycı Camii, Kırklareli: Tarihi ve Kültürel Mirasın Bir Örneği..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2255821,41.737999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalaycı Camii, Kırklareli: Tarihi ve Kültürel Mirasın Bir Örneği

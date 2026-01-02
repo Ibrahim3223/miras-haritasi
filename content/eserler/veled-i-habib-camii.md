@@ -1,18 +1,17 @@
 ---
-title: "Veled-i Habib Camii | Miras Haritası"
-date: 2025-12-24T23:16:57+03:00
+title: "Veled-i Habib Camii"
+date: "2025-12-24T23:16:57+03:00"
 slug: "veled-i-habib-camii"
 description: "## Veled-i Habib Camii: Bursa'nın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/VELED-İ_HABİB_CAMİSİ_-_panoramio_(9).jpg/1200px-VELED-İ_HABİB_CAMİSİ_-_panoramio_(9).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0616322,40.1794167"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Veled-i Habib Camii: Bursa'nın Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Mersin Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T08:53:43+03:00
+title: "Mersin Ortodoks Kilisesi"
+date: "2025-12-25T08:53:43+03:00"
 slug: "mersin-ortodoks-kilisesi"
 description: "## Mersin Ortodoks Kilisesi: Eski ve Gizemli Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mersin_Orthodox_Church.jpg/1200px-Mersin_Orthodox_Church.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mersin"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.625,36.79333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mersin Ortodoks Kilisesi: Eski ve Gizemli Bir Miras

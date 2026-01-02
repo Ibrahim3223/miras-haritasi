@@ -1,18 +1,17 @@
 ---
-title: "Yeni Kaplıca Erkekler Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:20+03:00
+title: "Yeni Kaplıca Erkekler Hamamı"
+date: "2025-12-25T16:34:20+03:00"
 slug: "yeni-kaplica-erkekler-hamami"
 description: "# Yeni Kaplıca Erkekler Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yenikaplıca-Bursa_-_panoramio_-_HALUK_COMERTEL.jpg/1200px-Yenikaplıca-Bursa_-_panoramio_-_HALUK_COMERTEL.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0385227,40.1989434"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Yeni Kaplıca Erkekler Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Ovacık Alçak Tarla A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:28:10+03:00
+title: "Ovacık Alçak Tarla A Tümülüsü"
+date: "2025-12-25T07:28:10+03:00"
 slug: "ovacik-alcak-tarla-a-tumulusu"
 description: "# Ovacık Alçak Tarla A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3831882,41.3074989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ovacık Alçak Tarla A Tümülüsü

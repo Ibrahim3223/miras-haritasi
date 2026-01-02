@@ -1,18 +1,17 @@
 ---
-title: "Şekirler Höyük | Miras Haritası"
-date: 2025-12-25T06:30:49+03:00
+title: "Şekirler Höyük"
+date: "2025-12-25T06:30:49+03:00"
 slug: "sekirler-hoyuk"
 description: "### Şekirler Höyük: Tarihî ve Kültürel Mirasın Gizli Cenneti..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3112697,39.1349729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şekirler Höyük: Tarihî ve Kültürel Mirasın Gizli Cenneti

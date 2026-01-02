@@ -1,18 +1,17 @@
 ---
-title: "Uzunköprülü Ali Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:00:43+03:00
+title: "Uzunköprülü Ali Efendi Çeşmesi"
+date: "2025-12-25T13:00:43+03:00"
 slug: "uzunkoprulu-ali-efendi-cesmesi"
 description: "**Uzunköprülü Ali Efendi Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.951187,41.027883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Uzunköprülü Ali Efendi Çeşmesi**

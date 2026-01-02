@@ -1,18 +1,17 @@
 ---
-title: "Taâvün Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:09:31+03:00
+title: "Taâvün Çeşmesi"
+date: "2025-12-25T12:09:31+03:00"
 slug: "tavun-cesmesi"
 description: "## **Taâvün Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9224858,41.0511899"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## **Taâvün Çeşmesi**

@@ -1,18 +1,17 @@
 ---
-title: "Karahıdır Anıtı | Miras Haritası"
-date: 2025-12-25T15:54:31+03:00
+title: "Karahıdır Anıtı"
+date: "2025-12-25T15:54:31+03:00"
 slug: "karahidir-aniti"
 description: "### Karahıdır Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kırklareli_Province_-_Karahıdır_Monument_-_20250601134159.jpg/1200px-Kırklareli_Province_-_Karahıdır_Monument_-_20250601134159.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.194750028,41.716112524"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Karahıdır Anıtı

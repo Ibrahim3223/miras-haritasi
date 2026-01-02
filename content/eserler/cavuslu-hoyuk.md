@@ -1,18 +1,17 @@
 ---
-title: "Çavuşlu Höyük | Miras Haritası"
-date: 2025-12-25T06:22:11+03:00
+title: "Çavuşlu Höyük"
+date: "2025-12-25T06:22:11+03:00"
 slug: "cavuslu-hoyuk"
 description: "## Çavuşlu Höyük..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.1994122,38.9028648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuşlu Höyük

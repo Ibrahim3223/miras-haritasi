@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Rumelihisarı – Mübayaacı Sokak | Miras Haritası"
-date: 2025-12-25T12:48:25+03:00
+title: "Çeşme, Rumelihisarı – Mübayaacı Sokak"
+date: "2025-12-25T12:48:25+03:00"
 slug: "cesme-rumelihisari-mubayaaci-sokak"
 description: "**Çeşme, Rumelihisarı – Mübayaacı Sokak**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0539532,41.0897484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çeşme, Rumelihisarı – Mübayaacı Sokak**

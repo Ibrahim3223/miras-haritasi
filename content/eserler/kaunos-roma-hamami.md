@@ -1,18 +1,17 @@
 ---
-title: "Kaunos Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:45:30+03:00
+title: "Kaunos Roma Hamamı"
+date: "2025-12-25T16:45:30+03:00"
 slug: "kaunos-roma-hamami"
 description: "### Kaunos Roma Hamamı: Köyceğiz'in Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kaunos_Bath_interior_4420.jpg/1200px-Kaunos_Bath_interior_4420.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.6215096,36.8267784"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kaunos Roma Hamamı: Köyceğiz'in Gizli Harikası

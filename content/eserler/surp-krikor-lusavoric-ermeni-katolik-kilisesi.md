@@ -1,18 +1,17 @@
 ---
-title: "Surp Krikor Lusavoriç Ermeni Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:55+03:00
+title: "Surp Krikor Lusavoriç Ermeni Katolik Kilisesi"
+date: "2025-12-25T09:31:55+03:00"
 slug: "surp-krikor-lusavoric-ermeni-katolik-kilisesi"
 description: "## Surp Krikor Lusavoriç Ermeni Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0245171,41.052227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Krikor Lusavoriç Ermeni Katolik Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Ulukışla Öküz Mehmet Paşa Hamamı Niğde | Miras Haritası"
-date: 2025-12-25T17:08:44+03:00
+title: "Ulukışla Öküz Mehmet Paşa Hamamı Niğde"
+date: "2025-12-25T17:08:44+03:00"
 slug: "ulukisla-okuz-mehmet-pasa-hamami-nigde"
 description: "## Ulukışla Öküz Mehmet Paşa Hamamı Niğde: Tarihin Gizemi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Ulukışla"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.4816513,37.5468369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulukışla Öküz Mehmet Paşa Hamamı Niğde: Tarihin Gizemi

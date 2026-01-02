@@ -1,18 +1,17 @@
 ---
-title: "Ürgüp Camii | Miras Haritası"
-date: 2025-12-25T00:34:47+03:00
+title: "Ürgüp Camii"
+date: "2025-12-25T00:34:47+03:00"
 slug: "urgup-camii"
 description: "### Ürgüp Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8683243,39.9364319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ürgüp Camii: Ankara'nın Gizli Cenneti

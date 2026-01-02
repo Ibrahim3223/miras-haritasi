@@ -1,18 +1,17 @@
 ---
-title: "Phaselis Nekropol Hamamı | Miras Haritası"
-date: 2025-12-25T17:13:32+03:00
+title: "Phaselis Nekropol Hamamı"
+date: "2025-12-25T17:13:32+03:00"
 slug: "phaselis-nekropol-hamami"
 description: "## Phaselis Nekropol Hamamı: Antik Kentin Gizli Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5509834,36.5268517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phaselis Nekropol Hamamı: Antik Kentin Gizli Harikası

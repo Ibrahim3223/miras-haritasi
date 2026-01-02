@@ -1,18 +1,17 @@
 ---
-title: "Kara Mehmet Mahalle Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:31:46+03:00
+title: "Kara Mehmet Mahalle Çeşmesi"
+date: "2025-12-25T11:31:46+03:00"
 slug: "kara-mehmet-mahalle-cesmesi"
 description: "### Kara Mehmet Mahalle Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3612995,37.2198982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kara Mehmet Mahalle Çeşmesi

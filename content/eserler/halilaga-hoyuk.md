@@ -1,18 +1,17 @@
 ---
-title: "Halilağa Höyük | Miras Haritası"
-date: 2025-12-25T05:56:02+03:00
+title: "Halilağa Höyük"
+date: "2025-12-25T05:56:02+03:00"
 slug: "halilaga-hoyuk"
 description: "## Halilağa Höyük: Tarih Öncesi Mirası..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.451756,36.560188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halilağa Höyük: Tarih Öncesi Mirası

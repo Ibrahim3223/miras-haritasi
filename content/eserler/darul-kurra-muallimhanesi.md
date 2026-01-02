@@ -1,18 +1,17 @@
 ---
-title: "Darü’l Kurra Muallimhanesi | Miras Haritası"
-date: 2025-12-25T17:42:44+03:00
+title: "Darü’l Kurra Muallimhanesi"
+date: "2025-12-25T17:42:44+03:00"
 slug: "darul-kurra-muallimhanesi"
 description: "### Darü'l Kurra Muallimhanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Darü'l_Kurra_Muallimhanesi.jpg/1200px-Darü'l_Kurra_Muallimhanesi.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0567856,40.182663"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Darü'l Kurra Muallimhanesi

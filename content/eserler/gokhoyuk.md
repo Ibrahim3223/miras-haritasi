@@ -1,18 +1,17 @@
 ---
-title: "Gökhöyük | Miras Haritası"
-date: 2025-12-25T06:37:04+03:00
+title: "Gökhöyük"
+date: "2025-12-25T06:37:04+03:00"
 slug: "gokhoyuk"
 description: "### Gökhöyük: Antik Bir Uygarlığın İzleri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.568771362,37.019001724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökhöyük: Antik Bir Uygarlığın İzleri

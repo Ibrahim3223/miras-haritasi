@@ -1,18 +1,17 @@
 ---
-title: "II. Kılıçarslan Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:34+03:00
+title: "II. Kılıçarslan Hamamı"
+date: "2025-12-25T16:50:34+03:00"
 slug: "ii-kilicarslan-hamami"
 description: "## II. Kılıçarslan Hamamı..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.0288544,38.3755188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Kılıçarslan Hamamı

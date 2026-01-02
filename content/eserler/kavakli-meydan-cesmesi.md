@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:43+03:00
+title: "Kavaklı Meydan Çeşmesi"
+date: "2025-12-25T10:31:43+03:00"
 slug: "kavakli-meydan-cesmesi"
 description: "## Kavaklı Meydan Çeşmesi: Aydın'da Bir Kültür Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3025627,37.7515373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavaklı Meydan Çeşmesi: Aydın'da Bir Kültür Mirası

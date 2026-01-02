@@ -1,18 +1,17 @@
 ---
-title: "Surp Hreştagabet Manastırı | Miras Haritası"
-date: 2025-12-25T09:59:49+03:00
+title: "Surp Hreştagabet Manastırı"
+date: "2025-12-25T09:59:49+03:00"
 slug: "surp-hrestagabet-manastiri"
 description: "### Surp Hreştagabet Manastırı: Erzincan'ın Gizli Cenneti..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemah"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "39.030556,39.611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Hreştagabet Manastırı: Erzincan'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Berta Manastırı | Miras Haritası"
-date: 2025-12-25T09:47:50+03:00
+title: "Berta Manastırı"
+date: "2025-12-25T09:47:50+03:00"
 slug: "berta-manastiri"
 description: "## Berta Manastırı: Güllerin Ülkesi Artvin'in Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berta_(Marr,_1911).JPG/1200px-Berta_(Marr,_1911).JPG"
-province: "Kutaisi Guberniyası"
-iller: ["Kutaisi Guberniyası"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: "Kutaisi Guberniyası"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.9833195,41.2488945"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Berta Manastırı: Güllerin Ülkesi Artvin'in Kültürel Mirası

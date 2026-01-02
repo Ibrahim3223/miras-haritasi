@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Heykeli, Kozak Yaylası | Miras Haritası"
-date: 2025-12-25T16:08:34+03:00
+title: "Atatürk Heykeli, Kozak Yaylası"
+date: "2025-12-25T16:08:34+03:00"
 slug: "ataturk-heykeli-kozak-yaylasi"
 description: "## Atatürk Heykeli, Kozak Yaylası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.9975262,39.2773514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Heykeli, Kozak Yaylası

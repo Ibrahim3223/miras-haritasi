@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Çeşmesi, Urla | Miras Haritası"
-date: 2025-12-25T12:53:19+03:00
+title: "Akpınar Çeşmesi, Urla"
+date: "2025-12-25T12:53:19+03:00"
 slug: "akpinar-cesmesi-urla"
 description: "## Akpınar Çeşmesi, Urla: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.770689,38.3216591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akpınar Çeşmesi, Urla: Tarihi ve Kültürel Miras

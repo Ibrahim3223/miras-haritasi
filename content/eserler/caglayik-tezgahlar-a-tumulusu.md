@@ -1,18 +1,17 @@
 ---
-title: "Çağlayık Tezgahlar A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:20:33+03:00
+title: "Çağlayık Tezgahlar A Tümülüsü"
+date: "2025-12-25T07:20:33+03:00"
 slug: "caglayik-tezgahlar-a-tumulusu"
 description: "## Çağlayık Tezgahlar A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3429089,41.9958572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlayık Tezgahlar A Tümülüsü

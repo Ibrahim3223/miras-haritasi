@@ -1,18 +1,17 @@
 ---
-title: "Midaeium | Miras Haritası"
-date: 2025-12-25T04:35:09+03:00
+title: "Midaeium"
+date: "2025-12-25T04:35:09+03:00"
 slug: "midaeium"
 description: "# Midaeium..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.8455876,39.7996237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Midaeium

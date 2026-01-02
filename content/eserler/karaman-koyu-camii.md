@@ -1,18 +1,17 @@
 ---
-title: "Karaman Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:38:05+03:00
+title: "Karaman Köyü Camii"
+date: "2025-12-25T00:38:05+03:00"
 slug: "karaman-koyu-camii"
 description: "### Karaman Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.004268154,40.304796106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaman Köyü Camii: Ankara'nın Gizli Cenneti

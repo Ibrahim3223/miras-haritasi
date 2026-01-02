@@ -1,18 +1,17 @@
 ---
-title: "Çakırkaya Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:01+03:00
+title: "Çakırkaya Manastırı"
+date: "2025-12-25T09:52:01+03:00"
 slug: "cakirkaya-manastiri"
 description: "## Çakırkaya Manastırı: Şiran'ın Gizli Görselliği..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Şiran"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "39.082653,40.1163177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakırkaya Manastırı: Şiran'ın Gizli Görselliği

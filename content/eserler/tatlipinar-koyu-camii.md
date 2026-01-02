@@ -1,18 +1,17 @@
 ---
-title: "Tatlıpınar Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:09:33+03:00
+title: "Tatlıpınar Köyü Camii"
+date: "2025-12-25T00:09:33+03:00"
 slug: "tatlipinar-koyu-camii"
 description: "## Tatlıpınar Köyü Camii: Çankırı'nın Tarihî Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Yapraklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.8761177,40.7213249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatlıpınar Köyü Camii: Çankırı'nın Tarihî Mirası

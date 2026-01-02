@@ -1,18 +1,17 @@
 ---
-title: "Demircihalil Babatepe Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:05+03:00
+title: "Demircihalil Babatepe Köprüsü"
+date: "2025-12-25T03:02:05+03:00"
 slug: "demircihalil-babatepe-koprusu"
 description: "## Demircihalil Babatepe Köprüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.3071423,41.8411026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demircihalil Babatepe Köprüsü

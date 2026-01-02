@@ -1,18 +1,17 @@
 ---
-title: "Zeyne Camii | Miras Haritası"
-date: 2025-12-24T23:50:52+03:00
+title: "Zeyne Camii"
+date: "2025-12-24T23:50:52+03:00"
 slug: "zeyne-camii"
 description: "## Zeyne Camii: Mersin'in Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5265808,36.4462128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeyne Camii: Mersin'in Tarihi ve Kültürel Mirasının Bir Parçası

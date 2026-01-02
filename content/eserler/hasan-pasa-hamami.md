@@ -1,18 +1,17 @@
 ---
-title: "Hasan Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:23:39+03:00
+title: "Hasan Paşa Hamamı"
+date: "2025-12-25T16:23:39+03:00"
 slug: "hasan-pasa-hamami"
 description: "### Hasan Paşa Hamamı..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.856205,39.9435463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hasan Paşa Hamamı

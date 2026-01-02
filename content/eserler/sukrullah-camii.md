@@ -1,18 +1,17 @@
 ---
-title: "Şükrullah Camii | Miras Haritası"
-date: 2025-12-24T23:13:12+03:00
+title: "Şükrullah Camii"
+date: "2025-12-24T23:13:12+03:00"
 slug: "sukrullah-camii"
 description: "## Şükrullah Camii: Mardin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2689018,37.4155998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şükrullah Camii: Mardin'in Tarihi Bir Mirası

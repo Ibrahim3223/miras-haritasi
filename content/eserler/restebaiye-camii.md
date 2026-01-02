@@ -1,18 +1,17 @@
 ---
-title: "Restebaiye Camii | Miras Haritası"
-date: 2025-12-24T22:39:01+03:00
+title: "Restebaiye Camii"
+date: "2025-12-24T22:39:01+03:00"
 slug: "restebaiye-camii"
 description: "## Restebaiye Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9276123,37.5900726"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Restebaiye Camii

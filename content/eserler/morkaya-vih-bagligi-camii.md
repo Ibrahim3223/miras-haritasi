@@ -1,18 +1,17 @@
 ---
-title: "Morkaya Vih Bağlığı Camii | Miras Haritası"
-date: 2025-12-25T00:21:35+03:00
+title: "Morkaya Vih Bağlığı Camii"
+date: "2025-12-25T00:21:35+03:00"
 slug: "morkaya-vih-bagligi-camii"
 description: "## Morkaya Vih Bağlığı Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.6618572,40.7277023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Morkaya Vih Bağlığı Camii

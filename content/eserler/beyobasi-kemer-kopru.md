@@ -1,18 +1,17 @@
 ---
-title: "Beyobası Kemer Köprü | Miras Haritası"
-date: 2025-12-25T02:49:27+03:00
+title: "Beyobası Kemer Köprü"
+date: "2025-12-25T02:49:27+03:00"
 slug: "beyobasi-kemer-kopru"
 description: "# Beyobası Kemer Köprü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.798054,36.914385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Beyobası Kemer Köprü

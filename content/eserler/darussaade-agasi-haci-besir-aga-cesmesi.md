@@ -1,18 +1,17 @@
 ---
-title: "Darüssaade Ağası Hacı Beşir Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:52+03:00
+title: "Darüssaade Ağası Hacı Beşir Ağa Çeşmesi"
+date: "2025-12-25T11:15:52+03:00"
 slug: "darussaade-agasi-haci-besir-aga-cesmesi"
 description: "## Darüssaade Ağası Hacı Beşir Ağa Çeşmesi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.933598,41.042522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darüssaade Ağası Hacı Beşir Ağa Çeşmesi

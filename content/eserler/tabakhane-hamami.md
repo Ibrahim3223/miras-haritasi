@@ -1,18 +1,17 @@
 ---
-title: "Tabakhane Hamamı | Miras Haritası"
-date: 2025-12-25T16:31:47+03:00
+title: "Tabakhane Hamamı"
+date: "2025-12-25T16:31:47+03:00"
 slug: "tabakhane-hamami"
 description: "## Tabakhane Hamamı: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.8453159,37.8510895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabakhane Hamamı: Aydın'ın Tarihî Mirası

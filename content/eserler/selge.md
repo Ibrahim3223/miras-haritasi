@@ -1,18 +1,17 @@
 ---
-title: "Selge | Miras Haritası"
-date: 2025-12-25T04:19:47+03:00
+title: "Selge"
+date: "2025-12-25T04:19:47+03:00"
 slug: "selge"
 description: "## Selge: Antalya'nın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SelgeTheater.jpg/1200px-SelgeTheater.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.127026,37.22923"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Selge: Antalya'nın Gizli Kahramanı

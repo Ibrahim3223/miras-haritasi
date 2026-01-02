@@ -1,18 +1,17 @@
 ---
-title: "Kistağ Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:46+03:00
+title: "Kistağ Kilisesi"
+date: "2025-12-25T09:22:46+03:00"
 slug: "kistag-kilisesi"
 description: "# Kistağ Kilisesi: Batman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.3960648,38.4455528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kistağ Kilisesi: Batman'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Firdevs Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:05+03:00
+title: "Firdevs Hatun Türbesi"
+date: "2025-12-25T14:41:05+03:00"
 slug: "firdevs-hatun-turbesi"
 description: "### Giriş..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Şiran"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.2036552,40.1694679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

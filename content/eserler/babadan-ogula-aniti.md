@@ -1,18 +1,17 @@
 ---
-title: "Babadan Oğula Anıtı | Miras Haritası"
-date: 2025-12-25T16:04:33+03:00
+title: "Babadan Oğula Anıtı"
+date: "2025-12-25T16:04:33+03:00"
 slug: "babadan-ogula-aniti"
 description: "## Babadan Oğula Anıtı: Edirne'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6031284,41.7183495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Babadan Oğula Anıtı: Edirne'nin Gizli Çeşmesi

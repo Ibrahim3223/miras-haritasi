@@ -1,18 +1,17 @@
 ---
-title: "Kaynarca Maltepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:59:35+03:00
+title: "Kaynarca Maltepe Tümülüsü"
+date: "2025-12-25T07:59:35+03:00"
 slug: "kaynarca-maltepe-tumulusu"
 description: "## Kaynarca Maltepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4551086,41.6073799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaynarca Maltepe Tümülüsü

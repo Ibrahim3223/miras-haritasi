@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Milli Mücadele Müzesi | Miras Haritası"
-date: 2025-12-25T03:56:38+03:00
+title: "Kütahya Milli Mücadele Müzesi"
+date: "2025-12-25T03:56:38+03:00"
 slug: "kutahya-milli-mucadele-muzesi"
 description: "### Kütahya Milli Mücadele Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.97128,39.422944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kütahya Milli Mücadele Müzesi

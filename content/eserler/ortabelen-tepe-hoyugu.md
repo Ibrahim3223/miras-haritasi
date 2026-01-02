@@ -1,18 +1,17 @@
 ---
-title: "Ortabelen Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:07:51+03:00
+title: "Ortabelen Tepe Höyüğü"
+date: "2025-12-25T06:07:51+03:00"
 slug: "ortabelen-tepe-hoyugu"
 description: "### Ortabelen Tepe Höyüğü: Milas'ın Gizli İncisi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7248955,37.3507233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ortabelen Tepe Höyüğü: Milas'ın Gizli İncisi

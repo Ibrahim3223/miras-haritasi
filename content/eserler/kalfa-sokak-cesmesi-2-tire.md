@@ -1,18 +1,17 @@
 ---
-title: "Kalfa Sokak Çeşmesi 2, Tire | Miras Haritası"
-date: 2025-12-25T12:45:45+03:00
+title: "Kalfa Sokak Çeşmesi 2, Tire"
+date: "2025-12-25T12:45:45+03:00"
 slug: "kalfa-sokak-cesmesi-2-tire"
 description: "## Kalfa Sokak Çeşmesi 2, Tire..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.729599,38.0819626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalfa Sokak Çeşmesi 2, Tire

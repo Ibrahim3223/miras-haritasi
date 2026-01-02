@@ -1,18 +1,17 @@
 ---
-title: "Melek Ahmed Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:28:44+03:00
+title: "Melek Ahmed Paşa Hamamı"
+date: "2025-12-25T16:28:44+03:00"
 slug: "melek-ahmed-pasa-hamami"
 description: "### Melek Ahmed Paşa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Himama_Melik_Ehmed_2010.JPG/1200px-Himama_Melik_Ehmed_2010.JPG"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.233611111,37.910722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Melek Ahmed Paşa Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Turkey Syria border crossing #346 | Miras Haritası"
-date: 2025-12-25T08:36:39+03:00
+title: "Turkey Syria border crossing #346"
+date: "2025-12-25T08:36:39+03:00"
 slug: "turkey-syria-border-crossing-346"
 description: "## Türkiye-Suriye Sınır Kavşağı #346 Kervansarayı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "38.089533013,36.86943358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türkiye-Suriye Sınır Kavşağı #346 Kervansarayı

@@ -1,18 +1,17 @@
 ---
-title: "Baruthane Tümülüsleri İlkadım | Miras Haritası"
-date: 2025-12-25T07:22:37+03:00
+title: "Baruthane Tümülüsleri İlkadım"
+date: "2025-12-25T07:22:37+03:00"
 slug: "baruthane-tumulusleri-ilkadim"
 description: "## Baruthane Tümülüsleri İlkadım: Samsun'un Gizli Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.323638,41.318725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baruthane Tümülüsleri İlkadım: Samsun'un Gizli Mirası

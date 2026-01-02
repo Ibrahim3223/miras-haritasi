@@ -1,18 +1,17 @@
 ---
-title: "Tepecik Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:28:41+03:00
+title: "Tepecik Tümülüsü"
+date: "2025-12-25T07:28:41+03:00"
 slug: "tepecik-tumulusu"
 description: "## Tepecik Tümülüsü: Balıkesir'in Gizli Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0520554,40.0683212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepecik Tümülüsü: Balıkesir'in Gizli Mirası

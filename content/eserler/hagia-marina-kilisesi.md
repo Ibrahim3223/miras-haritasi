@@ -1,18 +1,17 @@
 ---
-title: "Hagia Marina Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:39+03:00
+title: "Hagia Marina Kilisesi"
+date: "2025-12-25T09:13:39+03:00"
 slug: "hagia-marina-kilisesi"
 description: "## Hagia Marina Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.77491,40.1520386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hagia Marina Kilisesi

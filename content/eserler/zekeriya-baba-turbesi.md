@@ -1,18 +1,17 @@
 ---
-title: "Zekeriya Baba Türbesi | Miras Haritası"
-date: 2025-12-25T13:29:54+03:00
+title: "Zekeriya Baba Türbesi"
+date: "2025-12-25T13:29:54+03:00"
 slug: "zekeriya-baba-turbesi"
 description: "## Zekeriya Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0284519,41.196991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zekeriya Baba Türbesi

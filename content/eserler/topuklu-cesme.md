@@ -1,18 +1,17 @@
 ---
-title: "Topuklu Çeşme | Miras Haritası"
-date: 2025-12-25T11:18:42+03:00
+title: "Topuklu Çeşme"
+date: "2025-12-25T11:18:42+03:00"
 slug: "topuklu-cesme"
 description: "## Topuklu Çeşme: Çatalca'nın Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Topuklu_Çeşme_IMG_1535.jpg/1200px-Topuklu_Çeşme_IMG_1535.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.456057,41.14547"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Topuklu Çeşme: Çatalca'nın Tarihi Bir Anıtı

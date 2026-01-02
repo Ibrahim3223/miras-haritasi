@@ -1,18 +1,17 @@
 ---
-title: "Destari Mustafa Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:01+03:00
+title: "Destari Mustafa Paşa Türbesi"
+date: "2025-12-25T14:35:01+03:00"
 slug: "destari-mustafa-pasa-turbesi"
 description: "## Destari Mustafa Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9567959,41.0135333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Destari Mustafa Paşa Türbesi

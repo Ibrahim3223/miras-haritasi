@@ -1,18 +1,17 @@
 ---
-title: "Mektep Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:25:13+03:00
+title: "Mektep Çeşmesi"
+date: "2025-12-25T11:25:13+03:00"
 slug: "mektep-cesmesi"
 description: "## Mektep Çeşmesi: Havran'ın tarihi bir şaheseri..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Havran"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.0984821,39.5584793"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mektep Çeşmesi: Havran'ın tarihi bir şaheseri

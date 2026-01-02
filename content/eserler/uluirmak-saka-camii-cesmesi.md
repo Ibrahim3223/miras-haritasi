@@ -1,18 +1,17 @@
 ---
-title: "Uluırmak Saka Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:39+03:00
+title: "Uluırmak Saka Camii Çeşmesi"
+date: "2025-12-25T11:37:39+03:00"
 slug: "uluirmak-saka-camii-cesmesi"
 description: "## Uluırmak Saka Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5043602,37.8562813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uluırmak Saka Camii Çeşmesi

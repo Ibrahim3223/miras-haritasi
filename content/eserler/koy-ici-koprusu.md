@@ -1,18 +1,17 @@
 ---
-title: "Köy İçi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:21+03:00
+title: "Köy İçi Köprüsü"
+date: "2025-12-25T02:12:21+03:00"
 slug: "koy-ici-koprusu"
 description: "### Köy İçi Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7888374,38.0489388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köy İçi Köprüsü: Tarihi ve Kültürel Miras

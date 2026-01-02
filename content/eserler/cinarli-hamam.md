@@ -1,18 +1,17 @@
 ---
-title: "Çınarlı Hamam | Miras Haritası"
-date: 2025-12-25T16:50:18+03:00
+title: "Çınarlı Hamam"
+date: "2025-12-25T16:50:18+03:00"
 slug: "cinarli-hamam"
 description: "### Çınarlı Hamam: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1784611,39.121563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çınarlı Hamam: Tarihî Bir Mirasın Gizemi

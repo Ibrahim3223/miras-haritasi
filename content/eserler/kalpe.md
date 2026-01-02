@@ -1,18 +1,17 @@
 ---
-title: "Kalpe | Miras Haritası"
-date: 2025-12-25T08:30:55+03:00
+title: "Kalpe"
+date: "2025-12-25T08:30:55+03:00"
 slug: "kalpe"
 description: "## Kalpe Arkeolojik Sit..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Kandıra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.1958,41.1501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalpe Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Ankara Büyükşehir Belediyesi Hizmet Binası | Miras Haritası"
-date: 2025-12-25T08:37:13+03:00
+title: "Ankara Büyükşehir Belediyesi Hizmet Binası"
+date: "2025-12-25T08:37:13+03:00"
 slug: "ankara-buyuksehir-belediyesi-hizmet-binasi"
 description: "## Ankara Büyükşehir Belediyesi Hizmet Binası: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Tandoğan'dan_belediye_binası.JPG/1200px-Tandoğan'dan_belediye_binası.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "32.838185669,39.938979705"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ankara Büyükşehir Belediyesi Hizmet Binası: Tarihi ve Kültürel Mirasın Bir Parçası

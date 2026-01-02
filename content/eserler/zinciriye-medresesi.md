@@ -1,18 +1,17 @@
 ---
-title: "Zinciriye Medresesi | Miras Haritası"
-date: 2025-12-25T17:23:09+03:00
+title: "Zinciriye Medresesi"
+date: "2025-12-25T17:23:09+03:00"
 slug: "zinciriye-medresesi"
 description: "### Zinciriye Medresesi: Diyarbakır'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "40.2350502,37.9122543"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zinciriye Medresesi: Diyarbakır'ın Tarihi ve Kültürel Mirası

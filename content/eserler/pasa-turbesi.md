@@ -1,18 +1,17 @@
 ---
-title: "Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:10+03:00
+title: "Paşa Türbesi"
+date: "2025-12-25T15:05:10+03:00"
 slug: "pasa-turbesi"
 description: "### Paşa Türbesi: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Paşa_Türbesi.JPG/1200px-Paşa_Türbesi.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.17083333,36.47722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Paşa Türbesi: Mersin'in Tarihi ve Kültürel Mirası

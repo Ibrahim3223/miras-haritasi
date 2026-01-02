@@ -1,18 +1,17 @@
 ---
-title: "Fatih Reşat Nuri Sahnesi | Miras Haritası"
-date: 2025-12-25T16:18:48+03:00
+title: "Fatih Reşat Nuri Sahnesi"
+date: "2025-12-25T16:18:48+03:00"
 slug: "fatih-resat-nuri-sahnesi"
 description: "## Fatih Reşat Nuri Sahnesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.95619858,41.0159179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Reşat Nuri Sahnesi

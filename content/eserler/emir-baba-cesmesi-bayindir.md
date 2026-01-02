@@ -1,18 +1,17 @@
 ---
-title: "Emir Baba Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:05:34+03:00
+title: "Emir Baba Çeşmesi, Bayındır"
+date: "2025-12-25T12:05:34+03:00"
 slug: "emir-baba-cesmesi-bayindir"
 description: "## Emir Baba Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6368008,38.2242012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Baba Çeşmesi, Bayındır

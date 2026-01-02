@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Sarınınören | Miras Haritası"
-date: 2025-12-25T03:00:25+03:00
+title: "Roma Köprüsü, Sarınınören"
+date: "2025-12-25T03:00:25+03:00"
 slug: "roma-koprusu-sarininoren"
 description: "## Roma Köprüsü, Sarınınören..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.0172084,39.5710508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Sarınınören

@@ -1,18 +1,17 @@
 ---
-title: "Tirilye Hamamı | Miras Haritası"
-date: 2025-12-25T16:37:49+03:00
+title: "Tirilye Hamamı"
+date: "2025-12-25T16:37:49+03:00"
 slug: "tirilye-hamami"
 description: "### Tirilye Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mudanya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.7967205,40.3928795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tirilye Hamamı

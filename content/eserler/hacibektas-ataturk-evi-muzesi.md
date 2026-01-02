@@ -1,18 +1,17 @@
 ---
-title: "Hacıbektaş Atatürk Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:04+03:00
+title: "Hacıbektaş Atatürk Evi Müzesi"
+date: "2025-12-25T03:35:04+03:00"
 slug: "hacibektas-ataturk-evi-muzesi"
 description: "### Hacıbektaş Atatürk Evi Müzesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.560753,38.942855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacıbektaş Atatürk Evi Müzesi

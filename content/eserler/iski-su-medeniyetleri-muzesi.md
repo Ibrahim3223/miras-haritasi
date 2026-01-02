@@ -1,18 +1,17 @@
 ---
-title: "İSKİ Su Medeniyetleri Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:14+03:00
+title: "İSKİ Su Medeniyetleri Müzesi"
+date: "2025-12-25T04:03:14+03:00"
 slug: "iski-su-medeniyetleri-muzesi"
 description: "## İSKİ Su Medeniyetleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.673597418,41.300965933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İSKİ Su Medeniyetleri Müzesi

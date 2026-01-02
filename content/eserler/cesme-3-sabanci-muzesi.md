@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 3, Sabancı Müzesi | Miras Haritası"
-date: 2025-12-25T12:49:58+03:00
+title: "Çeşme 3, Sabancı Müzesi"
+date: "2025-12-25T12:49:58+03:00"
 slug: "cesme-3-sabanci-muzesi"
 description: "## Çeşme 3, Sabancı Müzesi: İstanbul'un Gizli Çeşme Arkadaşı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Çeşme_3,_Sabancı_Müzesi.jpg/1200px-Çeşme_3,_Sabancı_Müzesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.056612,41.1057777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çeşme 3, Sabancı Müzesi: İstanbul'un Gizli Çeşme Arkadaşı

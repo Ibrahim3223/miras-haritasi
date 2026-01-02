@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ahmet Camii, Isparta | Miras Haritası"
-date: 2025-12-25T00:29:30+03:00
+title: "Şeyh Ahmet Camii, Isparta"
+date: "2025-12-25T00:29:30+03:00"
 slug: "seyh-ahmet-camii-isparta"
 description: "## Şeyh Ahmet Camii: Isparta'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Senirkent"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5464764,38.1053314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Ahmet Camii: Isparta'nın Tarihî Bir Mirası

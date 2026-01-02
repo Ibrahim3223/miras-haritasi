@@ -1,18 +1,17 @@
 ---
-title: "Ano Kotradis | Miras Haritası"
-date: 2025-12-25T05:08:32+03:00
+title: "Ano Kotradis"
+date: "2025-12-25T05:08:32+03:00"
 slug: "ano-kotradis"
 description: "## Ano Kotradis: Kıbrıs'ta Eski Çağlar'ın İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.471456,36.530839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ano Kotradis: Kıbrıs'ta Eski Çağlar'ın İzleri

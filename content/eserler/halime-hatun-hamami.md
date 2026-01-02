@@ -1,18 +1,17 @@
 ---
-title: "Halime Hatun Hamamı | Miras Haritası"
-date: 2025-12-25T17:08:32+03:00
+title: "Halime Hatun Hamamı"
+date: "2025-12-25T17:08:32+03:00"
 slug: "halime-hatun-hamami"
 description: "### Halime Hatun Hamamı Tanıtımı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.9155216,38.7107391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halime Hatun Hamamı Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Alabanda Doğu Hamamı | Miras Haritası"
-date: 2025-12-25T17:12:52+03:00
+title: "Alabanda Doğu Hamamı"
+date: "2025-12-25T17:12:52+03:00"
 slug: "alabanda-dogu-hamami"
 description: "# Alabanda Doğu Hamamı: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.987168507,37.595464376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alabanda Doğu Hamamı: Aydın'ın Tarihî Mirası

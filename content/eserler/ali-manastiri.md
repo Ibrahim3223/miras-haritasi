@@ -1,18 +1,17 @@
 ---
-title: "Ali Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:47+03:00
+title: "Ali Manastırı"
+date: "2025-12-25T09:52:47+03:00"
 slug: "ali-manastiri"
 description: "### Ali Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/1891_-_Алъ._Развалини_церкви_съ_юго-восточной_стороны.jpg/1200px-1891_-_Алъ._Развалини_церкви_съ_юго-восточной_стороны.jpg"
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Posof"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.770537423,41.491995448"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ali Manastırı

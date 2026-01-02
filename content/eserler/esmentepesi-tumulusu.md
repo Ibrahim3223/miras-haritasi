@@ -1,18 +1,17 @@
 ---
-title: "Eşmentepesi Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:58:12+03:00
+title: "Eşmentepesi Tümülüsü"
+date: "2025-12-25T07:58:12+03:00"
 slug: "esmentepesi-tumulusu"
 description: "# Eşmentepesi Tümülüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9538002,38.1935997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Eşmentepesi Tümülüsü

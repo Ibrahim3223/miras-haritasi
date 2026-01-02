@@ -1,18 +1,17 @@
 ---
-title: "Darius' Bridge | Miras Haritası"
-date: 2025-12-25T02:02:04+03:00
+title: "Darius' Bridge"
+date: "2025-12-25T02:02:04+03:00"
 slug: "darius-bridge"
 description: "### Darius' Köprüsü: Tarihî Mirasın Gizlenmiş Yüzü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.061798,41.091763"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Darius' Köprüsü: Tarihî Mirasın Gizlenmiş Yüzü

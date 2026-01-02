@@ -1,18 +1,17 @@
 ---
-title: "Gürpınar Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:42+03:00
+title: "Gürpınar Köyü Çeşmesi"
+date: "2025-12-25T10:18:42+03:00"
 slug: "gurpinar-koyu-cesmesi"
 description: "**Gürpınar Köyü Çeşmesi**..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Of"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.3050117,40.8347206"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gürpınar Köyü Çeşmesi**

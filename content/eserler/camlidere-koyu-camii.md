@@ -1,18 +1,17 @@
 ---
-title: "Çamlıdere Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:29:36+03:00
+title: "Çamlıdere Köyü Camii"
+date: "2025-12-24T22:29:36+03:00"
 slug: "camlidere-koyu-camii"
 description: "**Çamlıdere Köyü Camii: Aydın'ın Gizli Anıtı**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.4314003,37.6078987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çamlıdere Köyü Camii: Aydın'ın Gizli Anıtı**

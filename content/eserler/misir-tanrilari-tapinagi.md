@@ -1,18 +1,17 @@
 ---
-title: "Mısır Tanrıları Tapınağı | Miras Haritası"
-date: 2025-12-25T08:10:02+03:00
+title: "Mısır Tanrıları Tapınağı"
+date: "2025-12-25T08:10:02+03:00"
 slug: "misir-tanrilari-tapinagi"
 description: "## Mısır Tanrıları Tapınağı: Aydın'ın Eski Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Temple_of_the_Egyptian_Gods,_Priene_(2).jpg/1200px-Temple_of_the_Egyptian_Gods,_Priene_(2).jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.299166666,37.659444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mısır Tanrıları Tapınağı: Aydın'ın Eski Mirası

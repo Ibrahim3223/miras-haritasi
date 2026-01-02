@@ -1,18 +1,17 @@
 ---
-title: "Beyazıt Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:01:56+03:00
+title: "Beyazıt Camii Şadırvanı"
+date: "2025-12-25T10:01:56+03:00"
 slug: "beyazit-camii-sadirvani"
 description: "## Beyazıt Camii Şadırvanı: İstanbul'un Kültürel Mirasının Örnekleri arasında..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mezquita_de_Beyazid_II_(1501-1506)_Patio._Estambul.jpg/1200px-Mezquita_de_Beyazid_II_(1501-1506)_Patio._Estambul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9651432,41.0104065"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Beyazıt Camii Şadırvanı: İstanbul'un Kültürel Mirasının Örnekleri arasında

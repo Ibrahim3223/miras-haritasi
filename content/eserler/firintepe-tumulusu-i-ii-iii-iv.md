@@ -1,18 +1,17 @@
 ---
-title: "Fırıntepe Tümülüsü I, II, III, IV | Miras Haritası"
-date: 2025-12-25T07:28:26+03:00
+title: "Fırıntepe Tümülüsü I, II, III, IV"
+date: "2025-12-25T07:28:26+03:00"
 slug: "firintepe-tumulusu-i-ii-iii-iv"
 description: "### Fırıntepe Tümülüsü I, II, III, IV..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0498161,38.3307152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fırıntepe Tümülüsü I, II, III, IV

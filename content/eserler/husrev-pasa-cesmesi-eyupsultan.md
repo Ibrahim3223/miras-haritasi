@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Paşa Çeşmesi, Eyüpsultan | Miras Haritası"
-date: 2025-12-25T12:08:17+03:00
+title: "Hüsrev Paşa Çeşmesi, Eyüpsultan"
+date: "2025-12-25T12:08:17+03:00"
 slug: "husrev-pasa-cesmesi-eyupsultan"
 description: "## Hüsrev Paşa Çeşmesi: Eyüpsultan'da Bir Geç Klasik Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9326649,41.0482178"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsrev Paşa Çeşmesi: Eyüpsultan'da Bir Geç Klasik Çeşme

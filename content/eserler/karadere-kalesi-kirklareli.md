@@ -1,18 +1,17 @@
 ---
-title: "Karadere Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:50:17+03:00
+title: "Karadere Kalesi, Kırklareli"
+date: "2025-12-25T01:50:17+03:00"
 slug: "karadere-kalesi-kirklareli"
 description: "## Karadere Kalesi: Türkiye'nin Gizli Kalesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4268532,41.9061699"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadere Kalesi: Türkiye'nin Gizli Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Su Müzesi | Miras Haritası"
-date: 2025-12-25T03:43:56+03:00
+title: "İstanbul Su Müzesi"
+date: "2025-12-25T03:43:56+03:00"
 slug: "istanbul-su-muzesi"
 description: "## İstanbul Su Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Başakşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.7896099,41.0926933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Su Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Kiraz Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:03:31+03:00
+title: "Kiraz Ulu Cami"
+date: "2025-12-24T23:03:31+03:00"
 slug: "kiraz-ulu-cami"
 description: "### Kiraz Ulu Cami: İzmir'in Tarihî Bir Zirvesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.2052727,38.2302856"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kiraz Ulu Cami: İzmir'in Tarihî Bir Zirvesi

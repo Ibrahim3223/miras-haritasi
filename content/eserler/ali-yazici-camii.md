@@ -1,18 +1,17 @@
 ---
-title: "Ali Yazıcı Camii | Miras Haritası"
-date: 2025-12-24T22:45:28+03:00
+title: "Ali Yazıcı Camii"
+date: "2025-12-24T22:45:28+03:00"
 slug: "ali-yazici-camii"
 description: "## Ali Yazıcı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ali_Yazıcı_Camii.jpg/1200px-Ali_Yazıcı_Camii.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Balat"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9516277,41.0298538"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ali Yazıcı Camii

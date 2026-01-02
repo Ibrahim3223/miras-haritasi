@@ -1,18 +1,17 @@
 ---
-title: "Vaşşuganni | Miras Haritası"
-date: 2025-12-25T04:19:27+03:00
+title: "Vaşşuganni"
+date: "2025-12-25T04:19:27+03:00"
 slug: "vassuganni"
 description: "### Vaşşuganni: Türkiye'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Vaşşuganni: Türkiye'nin Gizli Mirası

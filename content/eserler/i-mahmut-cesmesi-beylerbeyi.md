@@ -1,18 +1,17 @@
 ---
-title: "I. Mahmut Çeşmesi, Beylerbeyi | Miras Haritası"
-date: 2025-12-25T12:07:06+03:00
+title: "I. Mahmut Çeşmesi, Beylerbeyi"
+date: "2025-12-25T12:07:06+03:00"
 slug: "i-mahmut-cesmesi-beylerbeyi"
 description: "### I. Mahmut Çeşmesi, Beylerbeyi: Üsküdar'ın Tarihi Özellikli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0434608,41.0434265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### I. Mahmut Çeşmesi, Beylerbeyi: Üsküdar'ın Tarihi Özellikli Çeşmesi

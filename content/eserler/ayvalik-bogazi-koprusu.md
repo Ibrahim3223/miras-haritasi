@@ -1,18 +1,17 @@
 ---
-title: "Ayvalık Boğazı Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:13+03:00
+title: "Ayvalık Boğazı Köprüsü"
+date: "2025-12-25T01:59:13+03:00"
 slug: "ayvalik-bogazi-koprusu"
 description: "# Ayvalık Boğazı Köprüsü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.4103,39.2038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ayvalık Boğazı Köprüsü

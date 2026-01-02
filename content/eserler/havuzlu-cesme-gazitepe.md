@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme, Gazitepe | Miras Haritası"
-date: 2025-12-25T12:50:52+03:00
+title: "Havuzlu Çeşme, Gazitepe"
+date: "2025-12-25T12:50:52+03:00"
 slug: "havuzlu-cesme-gazitepe"
 description: "## Havuzlu Çeşme, Gazitepe: Silivri'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3236923,41.1289177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Çeşme, Gazitepe: Silivri'nin Gizli Çeşmesi

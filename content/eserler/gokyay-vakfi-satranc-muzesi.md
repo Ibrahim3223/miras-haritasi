@@ -1,18 +1,17 @@
 ---
-title: "Gökyay Vakfı Satranç Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:36+03:00
+title: "Gökyay Vakfı Satranç Müzesi"
+date: "2025-12-25T03:26:36+03:00"
 slug: "gokyay-vakfi-satranc-muzesi"
 description: "## Gökyay Vakfı Satranç Müzesi: Satranç Sevgisinin İkincisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gökyay_Vakfı_Satranç_Müzesi,_2023_09.jpg/1200px-Gökyay_Vakfı_Satranç_Müzesi,_2023_09.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8629,39.93474"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gökyay Vakfı Satranç Müzesi: Satranç Sevgisinin İkincisi

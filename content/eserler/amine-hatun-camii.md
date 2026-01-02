@@ -1,18 +1,17 @@
 ---
-title: "Amine Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:44:36+03:00
+title: "Amine Hatun Camii"
+date: "2025-12-24T22:44:36+03:00"
 slug: "amine-hatun-camii"
 description: "## Amine Hatun Camii: Bakırköy'de Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Amine_Hatun_Camii.jpg/1200px-Amine_Hatun_Camii.jpg"
-province: "Bakırköy"
-iller: ["Bakırköy"]
-district: "Kartaltepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bakırköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8759384,40.9820671"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Amine Hatun Camii: Bakırköy'de Bir Ölümsüz

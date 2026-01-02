@@ -1,18 +1,17 @@
 ---
-title: "Fadlum Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:28+03:00
+title: "Fadlum Köprüsü"
+date: "2025-12-25T02:24:28+03:00"
 slug: "fadlum-koprusu"
 description: "## Fadlum Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.0429511,39.7150891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fadlum Köprüsü

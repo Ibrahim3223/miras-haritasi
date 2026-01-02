@@ -1,18 +1,17 @@
 ---
-title: "Çürük Elma Camii | Miras Haritası"
-date: 2025-12-24T22:52:09+03:00
+title: "Çürük Elma Camii"
+date: "2025-12-24T22:52:09+03:00"
 slug: "curuk-elma-camii"
 description: "# Çürük Elma Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9668674,41.0187569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çürük Elma Camii: İstanbul'un Gizli Cenneti

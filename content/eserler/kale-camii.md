@@ -1,18 +1,17 @@
 ---
-title: "Kale Camii | Miras Haritası"
-date: 2025-12-24T22:07:21+03:00
+title: "Kale Camii"
+date: "2025-12-24T22:07:21+03:00"
 slug: "kale-camii"
 description: "## Kale Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.5104485,41.0271797"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Camii: Rize'nin Tarihi Bir Mirası

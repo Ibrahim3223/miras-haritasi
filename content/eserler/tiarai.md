@@ -1,18 +1,17 @@
 ---
-title: "Tiarai | Miras Haritası"
-date: 2025-12-25T05:20:41+03:00
+title: "Tiarai"
+date: "2025-12-25T05:20:41+03:00"
 slug: "tiarai"
 description: "# Tiarai: Bergama'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1072998,39.125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tiarai: Bergama'nın Gizemli Arkeolojik Sitleri

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ahmet Mescidi, Karabağlar Yaylası | Miras Haritası"
-date: 2025-12-25T00:46:00+03:00
+title: "Hacı Ahmet Mescidi, Karabağlar Yaylası"
+date: "2025-12-25T00:46:00+03:00"
 slug: "haci-ahmet-mescidi-karabaglar-yaylasi"
 description: "## Hacı Ahmet Mescidi, Karabağlar Yaylası: Geçmişten Günümüze Bir Ziyaretçi Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3953991,37.1800003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ahmet Mescidi, Karabağlar Yaylası: Geçmişten Günümüze Bir Ziyaretçi Cenneti

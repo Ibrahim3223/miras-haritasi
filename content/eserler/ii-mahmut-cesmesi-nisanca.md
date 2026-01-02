@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmut Çeşmesi, Nişanca | Miras Haritası"
-date: 2025-12-25T11:52:21+03:00
+title: "II. Mahmut Çeşmesi, Nişanca"
+date: "2025-12-25T11:52:21+03:00"
 slug: "ii-mahmut-cesmesi-nisanca"
 description: "## II. Mahmut Çeşmesi, Nişanca..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.930944,41.040726"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Mahmut Çeşmesi, Nişanca

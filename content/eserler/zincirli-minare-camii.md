@@ -1,18 +1,17 @@
 ---
-title: "Zincirli Minare Camii | Miras Haritası"
-date: 2025-12-24T23:49:59+03:00
+title: "Zincirli Minare Camii"
+date: "2025-12-24T23:49:59+03:00"
 slug: "zincirli-minare-camii"
 description: "## Zincirli Minare Camii..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0238609,39.7497025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zincirli Minare Camii

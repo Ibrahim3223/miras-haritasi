@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü, Gümüşhane | Miras Haritası"
-date: 2025-12-25T03:03:24+03:00
+title: "Taşköprü, Gümüşhane"
+date: "2025-12-25T03:03:24+03:00"
 slug: "taskopru-gumushane"
 description: "## Taşköprü, Gümüşhane: Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.791815,40.602252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşköprü, Gümüşhane: Tarihi ve Kültürel Mirası

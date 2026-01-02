@@ -1,18 +1,17 @@
 ---
-title: "Topal Mehmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:26+03:00
+title: "Topal Mehmet Paşa Çeşmesi"
+date: "2025-12-25T10:18:26+03:00"
 slug: "topal-mehmet-pasa-cesmesi"
 description: "# Topal Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.423662,40.283253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Topal Mehmet Paşa Çeşmesi

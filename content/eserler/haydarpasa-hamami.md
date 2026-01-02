@@ -1,18 +1,17 @@
 ---
-title: "Haydarpaşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:38:10+03:00
+title: "Haydarpaşa Hamamı"
+date: "2025-12-25T16:38:10+03:00"
 slug: "haydarpasa-hamami"
 description: "### Haydarpaşa Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.956275,41.022392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haydarpaşa Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

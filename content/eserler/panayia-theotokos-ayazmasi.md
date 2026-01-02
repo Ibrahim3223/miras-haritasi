@@ -1,18 +1,17 @@
 ---
-title: "Panayia Theotokos Ayazması | Miras Haritası"
-date: 2025-12-25T12:40:33+03:00
+title: "Panayia Theotokos Ayazması"
+date: "2025-12-25T12:40:33+03:00"
 slug: "panayia-theotokos-ayazmasi"
 description: "## Panayia Theotokos Ayazması: Beyoğlu'ndaki Bir Tarihî Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9800873,41.0422325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panayia Theotokos Ayazması: Beyoğlu'ndaki Bir Tarihî Çeşme

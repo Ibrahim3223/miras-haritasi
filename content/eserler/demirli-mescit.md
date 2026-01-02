@@ -1,18 +1,17 @@
 ---
-title: "Demirli Mescit | Miras Haritası"
-date: 2025-12-25T00:12:24+03:00
+title: "Demirli Mescit"
+date: "2025-12-25T00:12:24+03:00"
 slug: "demirli-mescit"
 description: "## Demirli Mescit: Beyşehir'in Tarihi bir Örneği..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.716717474,37.68374123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirli Mescit: Beyşehir'in Tarihi bir Örneği

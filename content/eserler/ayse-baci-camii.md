@@ -1,18 +1,17 @@
 ---
-title: "Ayşe Bacı Camii | Miras Haritası"
-date: 2025-12-24T22:12:09+03:00
+title: "Ayşe Bacı Camii"
+date: "2025-12-24T22:12:09+03:00"
 slug: "ayse-baci-camii"
 description: "# Ayşe Bacı Camii..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3736916,37.0565338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ayşe Bacı Camii

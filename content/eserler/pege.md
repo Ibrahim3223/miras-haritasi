@@ -1,18 +1,17 @@
 ---
-title: "Pege | Miras Haritası"
-date: 2025-12-25T04:50:58+03:00
+title: "Pege"
+date: "2025-12-25T04:50:58+03:00"
 slug: "pege"
 description: "## Pege Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.915896,40.999905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pege Arkeolojik Sit

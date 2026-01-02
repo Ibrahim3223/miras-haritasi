@@ -1,18 +1,17 @@
 ---
-title: "Balıkpazarı Kapı Burcu, Antalya | Miras Haritası"
-date: 2025-12-25T01:45:47+03:00
+title: "Balıkpazarı Kapı Burcu, Antalya"
+date: "2025-12-25T01:45:47+03:00"
 slug: "balikpazari-kapi-burcu-antalya"
 description: "**Balıkpazarı Kapı Burcu: Antalya'nın Tarihi Mirası**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.7057247,36.8840828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Balıkpazarı Kapı Burcu: Antalya'nın Tarihi Mirası**

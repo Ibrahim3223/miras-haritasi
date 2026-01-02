@@ -1,18 +1,17 @@
 ---
-title: "Çobanbaşı Ali Fakih Kabri | Miras Haritası"
-date: 2025-12-25T13:59:27+03:00
+title: "Çobanbaşı Ali Fakih Kabri"
+date: "2025-12-25T13:59:27+03:00"
 slug: "cobanbasi-ali-fakih-kabri"
 description: "## Çobanbaşı Ali Fakih Kabri: Fatih'in Güzeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.926579589,41.001622507"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çobanbaşı Ali Fakih Kabri: Fatih'in Güzeli

@@ -1,18 +1,17 @@
 ---
-title: "Meryem Kilisesi | Miras Haritası"
-date: 2025-12-25T06:57:49+03:00
+title: "Meryem Kilisesi"
+date: "2025-12-25T06:57:49+03:00"
 slug: "meryem-kilisesi"
 description: "## Meryem Kilisesi: Selçuk'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Marienkirche_Ephesos_2.jpg/1200px-Marienkirche_Ephesos_2.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.339203,37.944939"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Meryem Kilisesi: Selçuk'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Çayözü Höyüğü | Miras Haritası"
-date: 2025-12-25T06:19:06+03:00
+title: "Çayözü Höyüğü"
+date: "2025-12-25T06:19:06+03:00"
 slug: "cayozu-hoyugu"
 description: "## Çayözü Höyüğü: Tarihî Bir Mirasın Geri Bıraktığı İzler..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Akpınar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.7494179,39.5249999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayözü Höyüğü: Tarihî Bir Mirasın Geri Bıraktığı İzler

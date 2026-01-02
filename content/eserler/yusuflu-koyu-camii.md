@@ -1,18 +1,17 @@
 ---
-title: "Yusuflu Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:48:16+03:00
+title: "Yusuflu Köyü Camii"
+date: "2025-12-24T23:48:16+03:00"
 slug: "yusuflu-koyu-camii"
 description: "# Yusuflu Köyü Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır (İzmir)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6979427,38.2183037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yusuflu Köyü Camii: İzmir'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Ahmetçe Höyüktepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:46:30+03:00
+title: "Ahmetçe Höyüktepe Tümülüsü"
+date: "2025-12-25T07:46:30+03:00"
 slug: "ahmetce-hoyuktepe-tumulusu"
 description: "## Ahmetçe Höyüktepe Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2451134,41.7869415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmetçe Höyüktepe Tümülüsü: Kırklareli'nin Gizli Mirası

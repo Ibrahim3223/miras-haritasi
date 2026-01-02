@@ -1,18 +1,17 @@
 ---
-title: "Kanlıbahçe Şehitliği ve Anıtı | Miras Haritası"
-date: 2025-12-25T15:59:14+03:00
+title: "Kanlıbahçe Şehitliği ve Anıtı"
+date: "2025-12-25T15:59:14+03:00"
 slug: "kanlibahce-sehitligi-ve-aniti"
 description: "## Kanlıbahçe Şehitliği ve Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.5844383,37.8635292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanlıbahçe Şehitliği ve Anıtı

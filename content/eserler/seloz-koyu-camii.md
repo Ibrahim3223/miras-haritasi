@@ -1,18 +1,17 @@
 ---
-title: "Selöz Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:42:14+03:00
+title: "Selöz Köyü Camii"
+date: "2025-12-24T22:42:14+03:00"
 slug: "seloz-koyu-camii"
 description: "## Selöz Köyü Camii: Bilecik'in Gizli Çandırı..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9255009,40.1314011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selöz Köyü Camii: Bilecik'in Gizli Çandırı

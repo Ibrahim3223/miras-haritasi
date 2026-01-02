@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hıdır Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:32+03:00
+title: "Hacı Hıdır Köprüsü"
+date: "2025-12-25T02:40:32+03:00"
 slug: "haci-hidir-koprusu"
 description: "### Hacı Hıdır Köprüsü: Gördes'in Tarihî Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gördes"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1968021,38.7713623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Hıdır Köprüsü: Gördes'in Tarihî Mirası

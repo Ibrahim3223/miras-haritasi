@@ -1,18 +1,17 @@
 ---
-title: "Mir Alem Mahmut Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:51:14+03:00
+title: "Mir Alem Mahmut Ağa Kabri"
+date: "2025-12-25T13:51:14+03:00"
 slug: "mir-alem-mahmut-aga-kabri"
 description: "## Mir Alem Mahmut Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9537315,41.0101662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mir Alem Mahmut Ağa Kabri

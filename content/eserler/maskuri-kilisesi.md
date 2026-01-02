@@ -1,18 +1,17 @@
 ---
-title: "Maskuri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:37+03:00
+title: "Maskuri Kilisesi"
+date: "2025-12-25T09:04:37+03:00"
 slug: "maskuri-kilisesi"
 description: "## Maskuri Kilisesi..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: ["Tortum ilçesi"]
+iller: '["Tortum ilçesi"]'
 district: "Cihanlı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.389611111,40.427925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maskuri Kilisesi

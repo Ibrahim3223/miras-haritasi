@@ -1,18 +1,17 @@
 ---
-title: "Tanzimat Müzesi | Miras Haritası"
-date: 2025-12-25T03:50:48+03:00
+title: "Tanzimat Müzesi"
+date: "2025-12-25T03:50:48+03:00"
 slug: "tanzimat-muzesi"
 description: "## Tanzimat Müzesi: İstanbul'un Tarihini Anlatan Bir Rönesans Örneği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.979562,41.013851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tanzimat Müzesi: İstanbul'un Tarihini Anlatan Bir Rönesans Örneği

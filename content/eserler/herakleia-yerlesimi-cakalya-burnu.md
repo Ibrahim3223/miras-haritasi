@@ -1,18 +1,17 @@
 ---
-title: "Herakleia Yerleşimi, Çakalya Burnu | Miras Haritası"
-date: 2025-12-25T08:31:03+03:00
+title: "Herakleia Yerleşimi, Çakalya Burnu"
+date: "2025-12-25T08:31:03+03:00"
 slug: "herakleia-yerlesimi-cakalya-burnu"
 description: "## Herakleia Yerleşimi, Çakalya Burnu..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.722069,39.345675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Herakleia Yerleşimi, Çakalya Burnu

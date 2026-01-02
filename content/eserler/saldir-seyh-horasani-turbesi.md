@@ -1,18 +1,17 @@
 ---
-title: "Saldır Şeyh Horasani Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:32+03:00
+title: "Saldır Şeyh Horasani Türbesi"
+date: "2025-12-25T14:27:32+03:00"
 slug: "saldir-seyh-horasani-turbesi"
 description: "**Saldır Şeyh Horasani Türbesi**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.406017,37.040782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Saldır Şeyh Horasani Türbesi**

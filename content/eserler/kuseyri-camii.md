@@ -1,18 +1,17 @@
 ---
-title: "Kuseyri Camii | Miras Haritası"
-date: 2025-12-25T00:42:37+03:00
+title: "Kuseyri Camii"
+date: "2025-12-25T00:42:37+03:00"
 slug: "kuseyri-camii"
 description: "## Kuseyri Camii..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.730186,37.311119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuseyri Camii

@@ -1,18 +1,17 @@
 ---
-title: "Harbi Mescidi Haziresi | Miras Haritası"
-date: 2025-12-25T16:06:15+03:00
+title: "Harbi Mescidi Haziresi"
+date: "2025-12-25T16:06:15+03:00"
 slug: "harbi-mescidi-haziresi"
 description: "## Harbi Mescidi Haziresi: Fatih'in Efsanevi Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.927002,41.0204964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harbi Mescidi Haziresi: Fatih'in Efsanevi Anıtı

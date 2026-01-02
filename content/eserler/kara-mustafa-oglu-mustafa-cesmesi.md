@@ -1,18 +1,17 @@
 ---
-title: "Kara Mustafa Oğlu Mustafa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:30:46+03:00
+title: "Kara Mustafa Oğlu Mustafa Çeşmesi"
+date: "2025-12-25T11:30:46+03:00"
 slug: "kara-mustafa-oglu-mustafa-cesmesi"
 description: "## Kara Mustafa Oğlu Mustafa Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3192062,37.0650101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Mustafa Oğlu Mustafa Çeşmesi

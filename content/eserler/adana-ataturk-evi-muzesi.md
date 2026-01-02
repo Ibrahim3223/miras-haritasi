@@ -1,18 +1,17 @@
 ---
-title: "Adana Atatürk Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:17:43+03:00
+title: "Adana Atatürk Evi Müzesi"
+date: "2025-12-25T03:17:43+03:00"
 slug: "adana-ataturk-evi-muzesi"
 description: "## Adana Atatürk Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ataturk_Museum_in_Adana.jpg/1200px-Ataturk_Museum_in_Adana.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.33194444,36.98861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Adana Atatürk Evi Müzesi

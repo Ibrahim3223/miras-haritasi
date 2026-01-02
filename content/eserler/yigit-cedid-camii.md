@@ -1,18 +1,17 @@
 ---
-title: "Yiğit Cedid Camii | Miras Haritası"
-date: 2025-12-24T23:46:04+03:00
+title: "Yiğit Cedid Camii"
+date: "2025-12-24T23:46:04+03:00"
 slug: "yigit-cedid-camii"
 description: "## Bursa'nın Tarihî Çehresinde Yiğit Cedid Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bursa_Yiğid_Cedid_Mosque_7358.jpg/1200px-Bursa_Yiğid_Cedid_Mosque_7358.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0644608,40.1858902"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bursa'nın Tarihî Çehresinde Yiğit Cedid Camii

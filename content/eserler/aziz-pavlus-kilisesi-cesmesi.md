@@ -1,18 +1,17 @@
 ---
-title: "Aziz Pavlus Kilisesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:38:49+03:00
+title: "Aziz Pavlus Kilisesi Çeşmesi"
+date: "2025-12-25T12:38:49+03:00"
 slug: "aziz-pavlus-kilisesi-cesmesi"
 description: "## Aziz Pavlus Kilisesi Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.493208208,37.870840942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Pavlus Kilisesi Çeşmesi

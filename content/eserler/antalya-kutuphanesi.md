@@ -1,18 +1,17 @@
 ---
-title: "Antalya Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:56:28+03:00
+title: "Antalya Kütüphanesi"
+date: "2025-12-25T17:56:28+03:00"
 slug: "antalya-kutuphanesi"
 description: "## Antalya Kütüphanesi: Tarihe Bir Kapı Olarak Açılan Kütüphane..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.649979,36.902272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antalya Kütüphanesi: Tarihe Bir Kapı Olarak Açılan Kütüphane

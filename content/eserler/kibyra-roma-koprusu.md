@@ -1,18 +1,17 @@
 ---
-title: "Kibyra Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:23+03:00
+title: "Kibyra Roma Köprüsü"
+date: "2025-12-25T02:31:23+03:00"
 slug: "kibyra-roma-koprusu"
 description: "### Kibyra Roma Köprüsü..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Gölhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.4943008,37.1573982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kibyra Roma Köprüsü

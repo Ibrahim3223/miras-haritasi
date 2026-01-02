@@ -1,18 +1,17 @@
 ---
-title: "Eserli Kilisesi | Miras Haritası"
-date: 2025-12-25T09:16:49+03:00
+title: "Eserli Kilisesi"
+date: "2025-12-25T09:16:49+03:00"
 slug: "eserli-kilisesi"
 description: "### Eserli Kilisesi: Görele'nin Ölümsüz Kilisesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.970768,40.8828354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eserli Kilisesi: Görele'nin Ölümsüz Kilisesi

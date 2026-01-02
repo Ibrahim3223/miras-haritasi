@@ -1,18 +1,17 @@
 ---
-title: "Terbos | Miras Haritası"
-date: 2025-12-25T04:52:22+03:00
+title: "Terbos"
+date: "2025-12-25T04:52:22+03:00"
 slug: "terbos"
 description: "## Terbos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.018851,40.509541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terbos Arkeolojik Sit

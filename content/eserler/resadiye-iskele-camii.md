@@ -1,18 +1,17 @@
 ---
-title: "Reşadiye İskele Camii | Miras Haritası"
-date: 2025-12-24T22:40:04+03:00
+title: "Reşadiye İskele Camii"
+date: "2025-12-24T22:40:04+03:00"
 slug: "resadiye-iskele-camii"
 description: "## Reşadiye İskele Camii: Tarihi ve Kültürel Bir Özanın Anlamı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0526676,38.9271927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Reşadiye İskele Camii: Tarihi ve Kültürel Bir Özanın Anlamı

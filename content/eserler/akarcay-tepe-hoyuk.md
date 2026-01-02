@@ -1,18 +1,17 @@
 ---
-title: "Akarçay Tepe Höyük | Miras Haritası"
-date: 2025-12-25T05:44:14+03:00
+title: "Akarçay Tepe Höyük"
+date: "2025-12-25T05:44:14+03:00"
 slug: "akarcay-tepe-hoyuk"
 description: "## Akarçay Tepe Höyük: Bir Arkeolojik Sitin Gerçekleri..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.02769383,36.91913483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akarçay Tepe Höyük: Bir Arkeolojik Sitin Gerçekleri

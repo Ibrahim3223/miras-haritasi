@@ -1,18 +1,17 @@
 ---
-title: "Gurcani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:06:18+03:00
+title: "Gurcani Kilisesi"
+date: "2025-12-25T09:06:18+03:00"
 slug: "gurcani-kilisesi"
 description: "## Gurcani Kilisesi: Tarihi ve Kültürel Değerleri..."
 featured_image: ""
-province: "Kutaisi Guberniyası"
-iller: ["Kutaisi Guberniyası"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: "Kutaisi Guberniyası"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.885486111,41.082544444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gurcani Kilisesi: Tarihi ve Kültürel Değerleri

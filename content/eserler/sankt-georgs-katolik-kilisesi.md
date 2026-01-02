@@ -1,18 +1,17 @@
 ---
-title: "Sankt Georgs Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:19+03:00
+title: "Sankt Georgs Katolik Kilisesi"
+date: "2025-12-25T09:32:19+03:00"
 slug: "sankt-georgs-katolik-kilisesi"
 description: "### Sankt Georgs Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9735107,41.0243263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sankt Georgs Katolik Kilisesi

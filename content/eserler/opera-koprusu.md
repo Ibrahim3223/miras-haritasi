@@ -1,18 +1,17 @@
 ---
-title: "Opera Köprüsü | Miras Haritası"
-date: 2025-12-25T03:04:03+03:00
+title: "Opera Köprüsü"
+date: "2025-12-25T03:04:03+03:00"
 slug: "opera-koprusu"
 description: "## Opera Köprüsü: Ankara'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.8535843,39.9343376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Opera Köprüsü: Ankara'nın Tarihi Mirası

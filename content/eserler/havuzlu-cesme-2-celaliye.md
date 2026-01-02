@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme 2, Celaliye | Miras Haritası"
-date: 2025-12-25T12:44:58+03:00
+title: "Havuzlu Çeşme 2, Celaliye"
+date: "2025-12-25T12:44:58+03:00"
 slug: "havuzlu-cesme-2-celaliye"
 description: "## Havuzlu Çeşme 2, Celaliye: Bir Önemli Tarihî Eser..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4183846,41.0518608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Çeşme 2, Celaliye: Bir Önemli Tarihî Eser

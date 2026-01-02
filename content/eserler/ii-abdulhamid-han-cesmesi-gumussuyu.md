@@ -1,18 +1,17 @@
 ---
-title: "II. Abdülhamid Han Çeşmesi, Gümüşsuyu | Miras Haritası"
-date: 2025-12-25T13:10:26+03:00
+title: "II. Abdülhamid Han Çeşmesi, Gümüşsuyu"
+date: "2025-12-25T13:10:26+03:00"
 slug: "ii-abdulhamid-han-cesmesi-gumussuyu"
 description: "## II. Abdülhamid Han Çeşmesi, Gümüşsuyu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9888935,41.0354156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Abdülhamid Han Çeşmesi, Gümüşsuyu

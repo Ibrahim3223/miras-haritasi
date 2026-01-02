@@ -1,18 +1,17 @@
 ---
-title: "Garip Ağaoğlu Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:23:18+03:00
+title: "Garip Ağaoğlu Çeşmesi, Hekimhan"
+date: "2025-12-25T12:23:18+03:00"
 slug: "garip-agaoglu-cesmesi-hekimhan"
 description: "## Garip Ağaoğlu Çeşmesi: Hekimhan'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.934235706,38.813897789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Garip Ağaoğlu Çeşmesi: Hekimhan'ın Tarihi Bir Çeşmesi

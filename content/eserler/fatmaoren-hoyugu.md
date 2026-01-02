@@ -1,18 +1,17 @@
 ---
-title: "Fatmaören Höyüğü | Miras Haritası"
-date: 2025-12-25T07:04:04+03:00
+title: "Fatmaören Höyüğü"
+date: "2025-12-25T07:04:04+03:00"
 slug: "fatmaoren-hoyugu"
 description: "## Fatmaören Höyüğü: Çorum'un Gizli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Sungurlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.241,40.31"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatmaören Höyüğü: Çorum'un Gizli Mirası

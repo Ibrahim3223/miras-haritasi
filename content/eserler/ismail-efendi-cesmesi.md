@@ -1,18 +1,17 @@
 ---
-title: "İsmail Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:05+03:00
+title: "İsmail Efendi Çeşmesi"
+date: "2025-12-25T11:00:05+03:00"
 slug: "ismail-efendi-cesmesi"
 description: "## İsmail Efendi Çeşmesi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.93387,41.042064"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmail Efendi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Molla Ahmet Peykeri Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:09+03:00
+title: "Molla Ahmet Peykeri Türbesi"
+date: "2025-12-25T14:19:09+03:00"
 slug: "molla-ahmet-peykeri-turbesi"
 description: "## Molla Ahmet Peykeri Türbesi: Elazığ'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.337827,38.582016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Ahmet Peykeri Türbesi: Elazığ'ın Tarihi Bir Anıtı

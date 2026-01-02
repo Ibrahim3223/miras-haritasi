@@ -1,18 +1,17 @@
 ---
-title: "Vezir Mehmet Paşa Çeşmesi, Topçular | Miras Haritası"
-date: 2025-12-25T12:00:34+03:00
+title: "Vezir Mehmet Paşa Çeşmesi, Topçular"
+date: "2025-12-25T12:00:34+03:00"
 slug: "vezir-mehmet-pasa-cesmesi-topcular"
 description: "## Vezir Mehmet Paşa Çeşmesi: Eyüpsultan'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9311924,41.0274734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vezir Mehmet Paşa Çeşmesi: Eyüpsultan'ın Gizli Çeşmesi

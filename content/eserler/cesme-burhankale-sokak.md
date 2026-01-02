@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Burhankale Sokak | Miras Haritası"
-date: 2025-12-25T12:04:13+03:00
+title: "Çeşme, Burhankale Sokak"
+date: "2025-12-25T12:04:13+03:00"
 slug: "cesme-burhankale-sokak"
 description: "## Ürgüp'teki Çeşme, Burhankale Sokak: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9066391,38.6326523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ürgüp'teki Çeşme, Burhankale Sokak: Tarihi ve Kültürel Miras

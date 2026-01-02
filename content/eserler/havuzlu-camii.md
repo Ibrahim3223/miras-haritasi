@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Camii | Miras Haritası"
-date: 2025-12-25T00:32:12+03:00
+title: "Havuzlu Camii"
+date: "2025-12-25T00:32:12+03:00"
 slug: "havuzlu-camii"
 description: "## Havuzlu Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9615612,41.0069695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Camii: İstanbul'un Gizli Çeşmesi

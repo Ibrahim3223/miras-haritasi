@@ -1,18 +1,17 @@
 ---
-title: "İhsan Ketin Doğal Tarih Müzesi | Miras Haritası"
-date: 2025-12-25T03:11:44+03:00
+title: "İhsan Ketin Doğal Tarih Müzesi"
+date: "2025-12-25T03:11:44+03:00"
 slug: "ihsan-ketin-dogal-tarih-muzesi"
 description: "## İhsan Ketin Doğal Tarih Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.026111111,41.104722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İhsan Ketin Doğal Tarih Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Çaykara Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:50+03:00
+title: "Çaykara Kalesi"
+date: "2025-12-25T01:28:50+03:00"
 slug: "caykara-kalesi"
 description: "## Çaykara Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Çaykara"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.2565002,40.7450294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaykara Kalesi: Tarihî Bir Mirasın Gizemi

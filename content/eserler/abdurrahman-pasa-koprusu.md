@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahman Paşa Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:05+03:00
+title: "Abdurrahman Paşa Köprüsü"
+date: "2025-12-25T02:40:05+03:00"
 slug: "abdurrahman-pasa-koprusu"
 description: "### Abdurrahman Paşa Köprüsü..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Varto İlçesi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.4929314,39.1095772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdurrahman Paşa Köprüsü

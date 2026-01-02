@@ -1,18 +1,17 @@
 ---
-title: "Emir Bayındır Kümbeti | Miras Haritası"
-date: 2025-12-24T23:49:27+03:00
+title: "Emir Bayındır Kümbeti"
+date: "2025-12-24T23:49:27+03:00"
 slug: "emir-bayindir-kumbeti"
 description: "### Emir Bayındır Kümbeti: Ahlat'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tomba_e_moschea_dell'emiro_bayindir,_1477-1481,_04.jpg/1200px-Tomba_e_moschea_dell'emiro_bayindir,_1477-1481,_04.jpg"
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.458907725,38.747115861"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Emir Bayındır Kümbeti: Ahlat'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Liman Hamamları | Miras Haritası"
-date: 2025-12-25T05:32:58+03:00
+title: "Liman Hamamları"
+date: "2025-12-25T05:32:58+03:00"
 slug: "liman-hamamlari"
 description: "# Liman Hamamları: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Harbor_Baths_(Ephesus)_19.jpg/1200px-Harbor_Baths_(Ephesus)_19.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.337551122,37.943598677"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Liman Hamamları: İzmir'in Tarihi ve Kültürel Mirası

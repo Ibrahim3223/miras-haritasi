@@ -1,18 +1,17 @@
 ---
-title: "Fransız Sarayı Avlusundaki Çeşme | Miras Haritası"
-date: 2025-12-25T11:47:52+03:00
+title: "Fransız Sarayı Avlusundaki Çeşme"
+date: "2025-12-25T11:47:52+03:00"
 slug: "fransiz-sarayi-avlusundaki-cesme"
 description: "## Fransız Sarayı Avlusundaki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9772835,41.0315781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fransız Sarayı Avlusundaki Çeşme

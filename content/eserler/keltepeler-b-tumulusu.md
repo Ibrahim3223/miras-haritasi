@@ -1,18 +1,17 @@
 ---
-title: "Keltepeler B Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:02:56+03:00
+title: "Keltepeler B Tümülüsü"
+date: "2025-12-25T08:02:56+03:00"
 slug: "keltepeler-b-tumulusu"
 description: "## Keltepeler B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8373146,41.5374107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keltepeler B Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Iğırbığır Kalesi | Miras Haritası"
-date: 2025-12-25T01:39:14+03:00
+title: "Yukarı Iğırbığır Kalesi"
+date: "2025-12-25T01:39:14+03:00"
 slug: "yukari-igirbigir-kalesi"
 description: "## Yukarı Iğırbığır Kalesi: Horasan'ın Gizli İhtişamı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Horasan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.5048256,39.9925537"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Iğırbığır Kalesi: Horasan'ın Gizli İhtişamı

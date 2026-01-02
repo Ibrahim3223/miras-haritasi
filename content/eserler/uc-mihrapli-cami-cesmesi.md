@@ -1,18 +1,17 @@
 ---
-title: "Üç Mihraplı Cami Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:14:02+03:00
+title: "Üç Mihraplı Cami Çeşmesi"
+date: "2025-12-25T11:14:02+03:00"
 slug: "uc-mihrapli-cami-cesmesi"
 description: "**Üç Mihraplı Cami Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.963103,41.020199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Üç Mihraplı Cami Çeşmesi**

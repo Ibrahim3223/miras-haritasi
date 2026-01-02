@@ -1,18 +1,17 @@
 ---
-title: "Lala Hüseyin Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:36:10+03:00
+title: "Lala Hüseyin Paşa Hamamı"
+date: "2025-12-25T16:36:10+03:00"
 slug: "lala-huseyin-pasa-hamami"
 description: "## Lala Hüseyin Paşa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Paşa_hamamı_(1).JPG/1200px-Paşa_hamamı_(1).JPG"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9703159,39.4238434"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lala Hüseyin Paşa Hamamı

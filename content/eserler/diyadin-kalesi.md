@@ -1,18 +1,17 @@
 ---
-title: "Diyadin Kalesi | Miras Haritası"
-date: 2025-12-25T01:31:06+03:00
+title: "Diyadin Kalesi"
+date: "2025-12-25T01:31:06+03:00"
 slug: "diyadin-kalesi"
 description: "### Diyadin Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Diyadin"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.673315,39.529549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Diyadin Kalesi: Tarihî Bir Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Kızıl Minare Camii | Miras Haritası"
-date: 2025-12-24T23:48:47+03:00
+title: "Kızıl Minare Camii"
+date: "2025-12-24T23:48:47+03:00"
 slug: "kizil-minare-camii"
 description: "### Kızıl Minare Camii: Aksaray'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.029432,38.376892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızıl Minare Camii: Aksaray'ın Tarihî Bir Mirası

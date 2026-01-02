@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Altındere | Miras Haritası"
-date: 2025-12-25T02:56:45+03:00
+title: "Roma Köprüsü, Altındere"
+date: "2025-12-25T02:56:45+03:00"
 slug: "roma-koprusu-altindere"
 description: "## Roma Köprüsü, Altındere: Tarihî Bir İkona Yolculuk..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9335,37.785404"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Altındere: Tarihî Bir İkona Yolculuk

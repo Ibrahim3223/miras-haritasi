@@ -1,18 +1,17 @@
 ---
-title: "Bilecik Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:16:52+03:00
+title: "Bilecik Saat Kulesi"
+date: "2025-12-25T17:16:52+03:00"
 slug: "bilecik-saat-kulesi"
 description: "## Bilecik Saat Kulesi: Bir Örnek Osmanlı Mimarisi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "29.983416666,40.137833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bilecik Saat Kulesi: Bir Örnek Osmanlı Mimarisi

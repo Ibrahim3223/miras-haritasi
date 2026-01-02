@@ -1,18 +1,17 @@
 ---
-title: "Nebiler Ilıcası (Astyra) | Miras Haritası"
-date: 2025-12-25T16:31:25+03:00
+title: "Nebiler Ilıcası (Astyra)"
+date: "2025-12-25T16:31:25+03:00"
 slug: "nebiler-ilicasi-astyra"
 description: "### Nebiler Ilıcası (Astyra) Tanıtımı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.902939,39.158148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nebiler Ilıcası (Astyra) Tanıtımı

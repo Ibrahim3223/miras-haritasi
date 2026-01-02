@@ -1,18 +1,17 @@
 ---
-title: "Temnos | Miras Haritası"
-date: 2025-12-25T04:17:16+03:00
+title: "Temnos"
+date: "2025-12-25T04:17:16+03:00"
 slug: "temnos"
 description: "### Temnos Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0667,38.6"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Temnos Arkeolojik Sit

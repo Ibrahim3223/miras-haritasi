@@ -1,18 +1,17 @@
 ---
-title: "Fevziye Küçük Efendi Camii Ayazması | Miras Haritası"
-date: 2025-12-25T12:38:05+03:00
+title: "Fevziye Küçük Efendi Camii Ayazması"
+date: "2025-12-25T12:38:05+03:00"
 slug: "fevziye-kucuk-efendi-camii-ayazmasi"
 description: "## Fevziye Küçük Efendi Camii Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.924528539,41.000384487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fevziye Küçük Efendi Camii Ayazması

@@ -1,18 +1,17 @@
 ---
-title: "Kef Kalesi | Miras Haritası"
-date: 2025-12-25T07:10:00+03:00
+title: "Kef Kalesi"
+date: "2025-12-25T07:10:00+03:00"
 slug: "kef-kalesi"
 description: "### Kef Kalesi: Bitlis'in Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "42.718947,38.833536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kef Kalesi: Bitlis'in Tarihî Mirası

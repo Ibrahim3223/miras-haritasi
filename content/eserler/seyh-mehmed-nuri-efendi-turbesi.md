@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mehmed Nuri Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:30+03:00
+title: "Şeyh Mehmed Nuri Efendi Türbesi"
+date: "2025-12-25T15:23:30+03:00"
 slug: "seyh-mehmed-nuri-efendi-turbesi"
 description: "## Şeyh Mehmed Nuri Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0197639,41.0186653"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Mehmed Nuri Efendi Türbesi

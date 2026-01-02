@@ -1,18 +1,17 @@
 ---
-title: "Aziz Jean Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:36+03:00
+title: "Aziz Jean Kilisesi"
+date: "2025-12-25T09:35:36+03:00"
 slug: "aziz-jean-kilisesi"
 description: "## Aziz Jean Kilisesi: Tarih, Mimarisi ve Kültürel Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Gülşehir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.634850025,38.740958784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Jean Kilisesi: Tarih, Mimarisi ve Kültürel Mirası

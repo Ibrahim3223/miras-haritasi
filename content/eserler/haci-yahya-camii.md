@@ -1,18 +1,17 @@
 ---
-title: "Hacı Yahya Camii | Miras Haritası"
-date: 2025-12-24T23:30:20+03:00
+title: "Hacı Yahya Camii"
+date: "2025-12-24T23:30:20+03:00"
 slug: "haci-yahya-camii"
 description: "## Hacı Yahya Camii: Trabzon'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Haji_Yahya_Mosque_Trabzon.jpg/1200px-Haji_Yahya_Mosque_Trabzon.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.7223358,41.0080528"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Yahya Camii: Trabzon'un Gizli Cenneti

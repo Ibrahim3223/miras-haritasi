@@ -1,18 +1,17 @@
 ---
-title: "Ad Statuas (Trakya) | Miras Haritası"
-date: 2025-12-25T04:50:15+03:00
+title: "Ad Statuas (Trakya)"
+date: "2025-12-25T04:50:15+03:00"
 slug: "ad-statuas-trakya"
 description: "### Ad Statuas: Trakya'nın Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.4031659,41.1862392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ad Statuas: Trakya'nın Gizli Mirası

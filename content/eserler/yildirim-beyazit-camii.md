@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Beyazıt Camii | Miras Haritası"
-date: 2025-12-24T23:47:22+03:00
+title: "Yıldırım Beyazıt Camii"
+date: "2025-12-24T23:47:22+03:00"
 slug: "yildirim-beyazit-camii"
 description: "## Yıldırım Beyazıt Camii: İzmir'in Tarihi bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3476238,39.0893135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldırım Beyazıt Camii: İzmir'in Tarihi bir Mirası

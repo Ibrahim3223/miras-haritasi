@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:33:15+03:00
+title: "Süleyman Paşa Medresesi"
+date: "2025-12-25T17:33:15+03:00"
 slug: "suleyman-pasa-medresesi"
 description: "## Süleyman Paşa Medresesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.7230434,40.428093"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Paşa Medresesi

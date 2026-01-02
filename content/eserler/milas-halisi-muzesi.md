@@ -1,18 +1,17 @@
 ---
-title: "Milas Halısı Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:56+03:00
+title: "Milas Halısı Müzesi"
+date: "2025-12-25T03:58:56+03:00"
 slug: "milas-halisi-muzesi"
 description: "## Milas Halısı Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.7829437,37.3153954"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milas Halısı Müzesi

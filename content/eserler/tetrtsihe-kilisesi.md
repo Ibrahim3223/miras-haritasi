@@ -1,18 +1,17 @@
 ---
-title: "Tetrtsihe Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:09+03:00
+title: "Tetrtsihe Kilisesi"
+date: "2025-12-25T09:01:09+03:00"
 slug: "tetrtsihe-kilisesi"
 description: "## Tetrtsihe Kilisesi: Çıldır, Ardahan'daki Bir Geçiş Dönemi Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Çıldır"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.285225,41.078819444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tetrtsihe Kilisesi: Çıldır, Ardahan'daki Bir Geçiş Dönemi Kilisesi

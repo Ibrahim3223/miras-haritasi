@@ -1,18 +1,17 @@
 ---
-title: "Zafranlık Camii | Miras Haritası"
-date: 2025-12-24T23:49:47+03:00
+title: "Zafranlık Camii"
+date: "2025-12-24T23:49:47+03:00"
 slug: "zafranlik-camii"
 description: "## Zafranlık Camii: Bursa'nın Gizli Çarı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0627041,40.1878777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zafranlık Camii: Bursa'nın Gizli Çarı

@@ -1,18 +1,17 @@
 ---
-title: "Dinkçiler Eski Camii | Miras Haritası"
-date: 2025-12-24T22:36:24+03:00
+title: "Dinkçiler Eski Camii"
+date: "2025-12-24T22:36:24+03:00"
 slug: "dinkciler-eski-camii"
 description: "## Dinkçiler Eski Camii: Balıkesir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8786144,39.6424904"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dinkçiler Eski Camii: Balıkesir'in Tarihi Bir Mirası

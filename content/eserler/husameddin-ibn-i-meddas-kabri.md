@@ -1,18 +1,17 @@
 ---
-title: "Hüsameddin İbn-i Meddas Kabri | Miras Haritası"
-date: 2025-12-25T13:28:39+03:00
+title: "Hüsameddin İbn-i Meddas Kabri"
+date: "2025-12-25T13:28:39+03:00"
 slug: "husameddin-ibn-i-meddas-kabri"
 description: "## Hüsameddin İbn-i Meddas Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9588261,41.0227966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsameddin İbn-i Meddas Kabri

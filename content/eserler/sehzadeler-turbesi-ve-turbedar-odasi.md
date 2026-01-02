@@ -1,18 +1,17 @@
 ---
-title: "Şehzadeler Türbesi ve Türbedar Odası | Miras Haritası"
-date: 2025-12-25T15:24:45+03:00
+title: "Şehzadeler Türbesi ve Türbedar Odası"
+date: "2025-12-25T15:24:45+03:00"
 slug: "sehzadeler-turbesi-ve-turbedar-odasi"
 description: "## Şehzadeler Türbesi ve Türbedar Odası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0174198,41.0459328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehzadeler Türbesi ve Türbedar Odası

@@ -1,18 +1,17 @@
 ---
-title: "Topkoru 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:43:17+03:00
+title: "Topkoru 2 Tümülüsü"
+date: "2025-12-25T07:43:17+03:00"
 slug: "topkoru-2-tumulusu"
 description: "## Topkoru 2 Tümülüsü: Kırklareli'nin Gizli Klasik Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1610794,42.0092697"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topkoru 2 Tümülüsü: Kırklareli'nin Gizli Klasik Mirası

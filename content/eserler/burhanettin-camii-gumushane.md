@@ -1,18 +1,17 @@
 ---
-title: "Burhanettin Camii, Gümüşhane | Miras Haritası"
-date: 2025-12-25T00:07:10+03:00
+title: "Burhanettin Camii, Gümüşhane"
+date: "2025-12-25T00:07:10+03:00"
 slug: "burhanettin-camii-gumushane"
 description: "## Burhanettin Camii: Gümüşhane'nin Tarihî Bir İcatı..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.4620018,40.4673042"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burhanettin Camii: Gümüşhane'nin Tarihî Bir İcatı

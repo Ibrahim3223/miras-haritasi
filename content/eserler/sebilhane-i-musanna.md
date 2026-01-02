@@ -1,18 +1,17 @@
 ---
-title: "Sebilhane-i Musanna | Miras Haritası"
-date: 2025-12-25T13:07:25+03:00
+title: "Sebilhane-i Musanna"
+date: "2025-12-25T13:07:25+03:00"
 slug: "sebilhane-i-musanna"
 description: "## Sebilhane-i Musanna: Fatih İstanbul'un Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9791012,41.0078125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sebilhane-i Musanna: Fatih İstanbul'un Tarihi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Karargah Evi | Miras Haritası"
-date: 2025-12-25T03:41:18+03:00
+title: "Atatürk Karargah Evi"
+date: "2025-12-25T03:41:18+03:00"
 slug: "ataturk-karargah-evi"
 description: "### Atatürk Karargah Evi Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Dumlupınar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9791965,38.8545265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Atatürk Karargah Evi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Başalan İstanbul Kamera Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:53+03:00
+title: "Başalan İstanbul Kamera Müzesi"
+date: "2025-12-25T04:03:53+03:00"
 slug: "basalan-istanbul-kamera-muzesi"
 description: "## İstanbul Kamera Müzesi: Giriş..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.951045688,41.030127093"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Kamera Müzesi: Giriş

@@ -1,18 +1,17 @@
 ---
-title: "Zuknin Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:00+03:00
+title: "Zuknin Manastırı"
+date: "2025-12-25T09:51:00+03:00"
 slug: "zuknin-manastiri"
 description: "## Zuknin Manastırı: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "40.24,37.91"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zuknin Manastırı: Tarihi ve Kültürel Mirası

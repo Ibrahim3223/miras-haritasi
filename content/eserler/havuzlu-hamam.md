@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Hamam | Miras Haritası"
-date: 2025-12-25T16:38:34+03:00
+title: "Havuzlu Hamam"
+date: "2025-12-25T16:38:34+03:00"
 slug: "havuzlu-hamam"
 description: "## Havuzlu Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.959121,41.007613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Hamam

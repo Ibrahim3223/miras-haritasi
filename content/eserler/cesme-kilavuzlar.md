@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Kılavuzlar | Miras Haritası"
-date: 2025-12-25T12:08:14+03:00
+title: "Çeşme, Kılavuzlar"
+date: "2025-12-25T12:08:14+03:00"
 slug: "cesme-kilavuzlar"
 description: "## Çeşme, Kılavuzlar: Aydın'ın Gizemli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3040104,37.7308884"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Kılavuzlar: Aydın'ın Gizemli Çeşmesi

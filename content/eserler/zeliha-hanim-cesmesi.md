@@ -1,18 +1,17 @@
 ---
-title: "Zeliha Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:12+03:00
+title: "Zeliha Hanım Çeşmesi"
+date: "2025-12-25T11:26:12+03:00"
 slug: "zeliha-hanim-cesmesi"
 description: "## Zeliha Hanım Çeşmesi: Balıkesir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8739071,39.6521645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeliha Hanım Çeşmesi: Balıkesir'in Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Aragokome | Miras Haritası"
-date: 2025-12-25T05:10:00+03:00
+title: "Aragokome"
+date: "2025-12-25T05:10:00+03:00"
 slug: "aragokome"
 description: "## Aragokome: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.169512,39.071967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aragokome: Türkiye'nin Gizli Cenneti

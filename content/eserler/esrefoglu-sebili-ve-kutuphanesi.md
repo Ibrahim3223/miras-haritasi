@@ -1,18 +1,17 @@
 ---
-title: "Eşrefoğlu Sebili ve Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:20+03:00
+title: "Eşrefoğlu Sebili ve Kütüphanesi"
+date: "2025-12-25T17:55:20+03:00"
 slug: "esrefoglu-sebili-ve-kutuphanesi"
 description: "## Eşrefoğlu Sebili ve Kütüphanesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "31.718473791,37.683706402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eşrefoğlu Sebili ve Kütüphanesi

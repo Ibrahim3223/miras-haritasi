@@ -1,18 +1,17 @@
 ---
-title: "Eyüp Sultan Sebili | Miras Haritası"
-date: 2025-12-25T13:06:55+03:00
+title: "Eyüp Sultan Sebili"
+date: "2025-12-25T13:06:55+03:00"
 slug: "eyup-sultan-sebili"
 description: "## Eyüp Sultan Sebili: Tarihî Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9336624,41.0482063"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eyüp Sultan Sebili: Tarihî Bir Çeşme

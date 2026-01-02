@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, Kütahya | Miras Haritası"
-date: 2025-12-25T00:05:39+03:00
+title: "Kurşunlu Camii, Kütahya"
+date: "2025-12-25T00:05:39+03:00"
 slug: "kursunlu-camii-kutahya"
 description: "## Kurşunlu Camii: Kütahya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9744473,39.4181023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Camii: Kütahya'nın Kültürel Mirası

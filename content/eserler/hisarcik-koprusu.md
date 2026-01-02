@@ -1,18 +1,17 @@
 ---
-title: "Hisarcık Köprüsü | Miras Haritası"
-date: 2025-12-25T02:38:34+03:00
+title: "Hisarcık Köprüsü"
+date: "2025-12-25T02:38:34+03:00"
 slug: "hisarcik-koprusu"
 description: "### Hisarcık Köprüsü: Giresun'un Tarihi Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.636151,40.743758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hisarcık Köprüsü: Giresun'un Tarihi Mirası

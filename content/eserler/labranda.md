@@ -1,18 +1,17 @@
 ---
-title: "Labranda | Miras Haritası"
-date: 2025-12-25T06:53:06+03:00
+title: "Labranda"
+date: "2025-12-25T06:53:06+03:00"
 slug: "labranda"
 description: "## Labranda: Muğla'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Лабранда._Терраса.jpg/1200px-Лабранда._Терраса.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.81999,37.41892"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Labranda: Muğla'nın Gizli Cenneti

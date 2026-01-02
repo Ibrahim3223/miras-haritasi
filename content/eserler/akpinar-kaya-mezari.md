@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:20:53+03:00
+title: "Akpınar Kaya Mezarı"
+date: "2025-12-25T13:20:53+03:00"
 slug: "akpinar-kaya-mezari"
 description: "# Akpınar Kaya Mezarı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.5303535,38.582325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Akpınar Kaya Mezarı

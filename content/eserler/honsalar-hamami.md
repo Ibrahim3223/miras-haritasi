@@ -1,18 +1,17 @@
 ---
-title: "Honsalar Hamamı | Miras Haritası"
-date: 2025-12-25T16:47:27+03:00
+title: "Honsalar Hamamı"
+date: "2025-12-25T16:47:27+03:00"
 slug: "honsalar-hamami"
 description: "## Honsalar Hamamı..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.7705803,41.3800774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Honsalar Hamamı

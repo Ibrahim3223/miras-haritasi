@@ -1,18 +1,17 @@
 ---
-title: "Efeler Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:21:53+03:00
+title: "Efeler Köyü Camii"
+date: "2025-12-24T22:21:53+03:00"
 slug: "efeler-koyu-camii"
 description: "## Efeler Köyü Camii: Tarihi ve Kültürel Mirası Anlamında Bir Özellik..."
 featured_image: ""
 province: "Borçka"
-iller: ["Borçka"]
+iller: '["Borçka"]'
 district: "Efeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.926055555,41.438916666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Efeler Köyü Camii: Tarihi ve Kültürel Mirası Anlamında Bir Özellik

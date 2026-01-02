@@ -1,18 +1,17 @@
 ---
-title: "Teşvikiye Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:35:09+03:00
+title: "Teşvikiye Camii Çeşmesi"
+date: "2025-12-25T12:35:09+03:00"
 slug: "tesvikiye-camii-cesmesi"
 description: "## Teşvikiye Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.994177535,41.048923782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Teşvikiye Camii Çeşmesi

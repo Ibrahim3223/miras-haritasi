@@ -1,18 +1,17 @@
 ---
-title: "Profitis İlyas Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:42+03:00
+title: "Profitis İlyas Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:19:42+03:00"
 slug: "profitis-ilyas-rum-ortodoks-kilisesi"
 description: "## Profitis İlyas Rum Ortodoks Kilisesi: Şile'nin Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.6495209,41.1236725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Profitis İlyas Rum Ortodoks Kilisesi: Şile'nin Gizli Çehresi

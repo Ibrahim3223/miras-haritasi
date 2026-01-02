@@ -1,18 +1,17 @@
 ---
-title: "Sura Şehir Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:18+03:00
+title: "Sura Şehir Kilisesi"
+date: "2025-12-25T09:33:18+03:00"
 slug: "sura-sehir-kilisesi"
 description: "## Sura Şehir Kilisesi: Demre'nin Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.9450665,36.2455482"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sura Şehir Kilisesi: Demre'nin Gizli Çehresini Keşfedin

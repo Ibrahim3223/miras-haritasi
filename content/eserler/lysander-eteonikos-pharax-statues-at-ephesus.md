@@ -1,18 +1,17 @@
 ---
-title: "Lysander, Eteonikos, Pharax, statues at Ephesus | Miras Haritası"
-date: 2025-12-25T13:40:48+03:00
+title: "Lysander, Eteonikos, Pharax, statues at Ephesus"
+date: "2025-12-25T13:40:48+03:00"
 slug: "lysander-eteonikos-pharax-statues-at-ephesus"
 description: "## Lysander, Eteonikos, Pharax Heykelleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3637,37.9497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lysander, Eteonikos, Pharax Heykelleri

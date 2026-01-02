@@ -1,18 +1,17 @@
 ---
-title: "Gümüşhane Müzesi | Miras Haritası"
-date: 2025-12-25T03:34:03+03:00
+title: "Gümüşhane Müzesi"
+date: "2025-12-25T03:34:03+03:00"
 slug: "gumushane-muzesi"
 description: "## Gümüşhane Müzesi: Tarih, Kültür ve Sanatın Karşılıklı Olumlu Etkileşimi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüşhane Müzesi: Tarih, Kültür ve Sanatın Karşılıklı Olumlu Etkileşimi

@@ -1,18 +1,17 @@
 ---
-title: "Kendale Hecale Höyüğü | Miras Haritası"
-date: 2025-12-25T06:06:22+03:00
+title: "Kendale Hecale Höyüğü"
+date: "2025-12-25T06:06:22+03:00"
 slug: "kendale-hecale-hoyugu"
 description: "## Kendale Hecale Höyüğü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Kocaköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.4631996,38.2541008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kendale Hecale Höyüğü

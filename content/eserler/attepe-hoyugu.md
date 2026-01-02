@@ -1,18 +1,17 @@
 ---
-title: "Attepe Höyüğü | Miras Haritası"
-date: 2025-12-25T13:48:50+03:00
+title: "Attepe Höyüğü"
+date: "2025-12-25T13:48:50+03:00"
 slug: "attepe-hoyugu"
 description: "**Attepe Höyüğü: Mut, Mersin'in Gizli Hazinesi**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.38571,36.60169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Attepe Höyüğü: Mut, Mersin'in Gizli Hazinesi**

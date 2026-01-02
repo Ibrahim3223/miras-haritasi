@@ -1,18 +1,17 @@
 ---
-title: "Cevdet Sunay Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:22+03:00
+title: "Cevdet Sunay Müzesi"
+date: "2025-12-25T03:19:22+03:00"
 slug: "cevdet-sunay-muzesi"
 description: "## Cevdet Sunay Müzesi: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Çaykara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.22945,40.7001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevdet Sunay Müzesi: Trabzon'un Gizli Cenneti

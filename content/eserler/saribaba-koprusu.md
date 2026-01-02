@@ -1,18 +1,17 @@
 ---
-title: "Sarıbaba Köprüsü | Miras Haritası"
-date: 2025-12-25T02:38:14+03:00
+title: "Sarıbaba Köprüsü"
+date: "2025-12-25T02:38:14+03:00"
 slug: "saribaba-koprusu"
 description: "### Sarıbaba Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kürtün"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.023958,40.543302"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarıbaba Köprüsü

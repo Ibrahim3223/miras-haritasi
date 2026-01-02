@@ -1,18 +1,17 @@
 ---
-title: "Hasırcı Höyük I | Miras Haritası"
-date: 2025-12-25T06:09:09+03:00
+title: "Hasırcı Höyük I"
+date: "2025-12-25T06:09:09+03:00"
 slug: "hasirci-hoyuk-i"
 description: "### Hasırcı Höyük I..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3413658,38.4782982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hasırcı Höyük I

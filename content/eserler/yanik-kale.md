@@ -1,18 +1,17 @@
 ---
-title: "Yanık Kale | Miras Haritası"
-date: 2025-12-25T01:18:15+03:00
+title: "Yanık Kale"
+date: "2025-12-25T01:18:15+03:00"
 slug: "yanik-kale"
 description: "## Yanık Kale: Adana'nın Gizli Çarpıcılığı..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Karaisalı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.1947899,37.4451447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yanık Kale: Adana'nın Gizli Çarpıcılığı

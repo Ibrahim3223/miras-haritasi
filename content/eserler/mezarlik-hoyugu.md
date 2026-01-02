@@ -1,18 +1,17 @@
 ---
-title: "Mezarlık Höyüğü | Miras Haritası"
-date: 2025-12-25T06:35:37+03:00
+title: "Mezarlık Höyüğü"
+date: "2025-12-25T06:35:37+03:00"
 slug: "mezarlik-hoyugu"
 description: "## Mezarlık Höyüğü: Balâ, Ankara'da Tarih Öncesi Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Balâ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.2770273,39.3302166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mezarlık Höyüğü: Balâ, Ankara'da Tarih Öncesi Mirası

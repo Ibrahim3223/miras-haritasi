@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Pazaryeri, 970 Sokak | Miras Haritası"
-date: 2025-12-25T12:51:42+03:00
+title: "Çeşme – Pazaryeri, 970 Sokak"
+date: "2025-12-25T12:51:42+03:00"
 slug: "cesme-pazaryeri-970-sokak"
 description: "## Çeşme – Pazaryeri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1427212,38.4177742"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Pazaryeri

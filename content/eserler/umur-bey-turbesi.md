@@ -1,18 +1,17 @@
 ---
-title: "Umur Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:10:57+03:00
+title: "Umur Bey Türbesi"
+date: "2025-12-25T14:10:57+03:00"
 slug: "umur-bey-turbesi"
 description: "## Umur Bey Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Umurbey_camii_bursa_-_panoramio_(10).jpg/1200px-Umurbey_camii_bursa_-_panoramio_(10).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.071317,40.177558"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Umur Bey Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Batpazarı Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:39+03:00
+title: "Batpazarı Hamamı"
+date: "2025-12-25T16:35:39+03:00"
 slug: "batpazari-hamami"
 description: "## Batpazarı Hamamı: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Batpazarı_Hamamı.jpg/1200px-Batpazarı_Hamamı.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0696468,40.1846962"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Batpazarı Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

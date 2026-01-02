@@ -1,18 +1,17 @@
 ---
-title: "Kilise, Aydos Kalesi | Miras Haritası"
-date: 2025-12-25T09:41:43+03:00
+title: "Kilise, Aydos Kalesi"
+date: "2025-12-25T09:41:43+03:00"
 slug: "kilise-aydos-kalesi"
 description: "## Kilise, Aydos Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Kilise_Aydos_Kalesi_1761585489.jpg/1200px-Kilise_Aydos_Kalesi_1761585489.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sultanbeyli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.2586136,40.9496727"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kilise, Aydos Kalesi

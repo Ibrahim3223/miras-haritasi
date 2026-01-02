@@ -1,18 +1,17 @@
 ---
-title: "Lebissos Kilisesi 1 | Miras Haritası"
-date: 2025-12-25T09:18:14+03:00
+title: "Lebissos Kilisesi 1"
+date: "2025-12-25T09:18:14+03:00"
 slug: "lebissos-kilisesi-1"
 description: "## Lebissos Kilisesi 1: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0659962,36.5544472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lebissos Kilisesi 1: Muğla'nın Gizli Cenneti

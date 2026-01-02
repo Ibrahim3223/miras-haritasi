@@ -1,18 +1,17 @@
 ---
-title: "Ayia Paraskevi Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T08:53:31+03:00
+title: "Ayia Paraskevi Rum Ortodoks Kilisesi"
+date: "2025-12-25T08:53:31+03:00"
 slug: "ayia-paraskevi-rum-ortodoks-kilisesi"
 description: "### Ayia Paraskevi Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.04527778,41.16166667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayia Paraskevi Rum Ortodoks Kilisesi

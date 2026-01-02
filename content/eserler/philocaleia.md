@@ -1,18 +1,17 @@
 ---
-title: "Philocaleia | Miras Haritası"
-date: 2025-12-25T04:48:41+03:00
+title: "Philocaleia"
+date: "2025-12-25T04:48:41+03:00"
 slug: "philocaleia"
 description: "## Philocaleia: Antik Dünyanın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.984957,41.034353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Philocaleia: Antik Dünyanın Gizemi

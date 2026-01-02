@@ -1,18 +1,17 @@
 ---
-title: "Sultan Selim (II) Hamamı | Miras Haritası"
-date: 2025-12-25T17:08:18+03:00
+title: "Sultan Selim (II) Hamamı"
+date: "2025-12-25T17:08:18+03:00"
 slug: "sultan-selim-ii-hamami"
 description: "## Sultan Selim (II) Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karapınar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.5479851,37.7151031"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Selim (II) Hamamı

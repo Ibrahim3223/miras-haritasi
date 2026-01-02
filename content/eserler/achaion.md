@@ -1,18 +1,17 @@
 ---
-title: "Achaion | Miras Haritası"
-date: 2025-12-25T08:28:47+03:00
+title: "Achaion"
+date: "2025-12-25T08:28:47+03:00"
 slug: "achaion"
 description: "### Achaion: Ezine'nin Eski Uygarlığının İzleri..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.1482487,39.8696556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Achaion: Ezine'nin Eski Uygarlığının İzleri

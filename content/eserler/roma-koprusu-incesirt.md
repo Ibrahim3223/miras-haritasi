@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, İncesırt | Miras Haritası"
-date: 2025-12-25T03:01:10+03:00
+title: "Roma Köprüsü, İncesırt"
+date: "2025-12-25T03:01:10+03:00"
 slug: "roma-koprusu-incesirt"
 description: "## Roma Köprüsü, İncesırt..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.598949,41.940159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, İncesırt

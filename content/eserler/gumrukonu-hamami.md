@@ -1,18 +1,17 @@
 ---
-title: "Gümrükönü Hamamı | Miras Haritası"
-date: 2025-12-25T16:54:00+03:00
+title: "Gümrükönü Hamamı"
+date: "2025-12-25T16:54:00+03:00"
 slug: "gumrukonu-hamami"
 description: "### Gümrükönü Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.842617,37.8512421"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümrükönü Hamamı

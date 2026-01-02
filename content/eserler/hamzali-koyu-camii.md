@@ -1,18 +1,17 @@
 ---
-title: "Hamzalı Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:32:52+03:00
+title: "Hamzalı Köyü Camii"
+date: "2025-12-24T23:32:52+03:00"
 slug: "hamzali-koyu-camii"
 description: "### Hamzalı Köyü Camii: Görele'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.085265,40.95928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamzalı Köyü Camii: Görele'nin Tarihi Bir Mirası

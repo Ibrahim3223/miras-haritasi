@@ -1,18 +1,17 @@
 ---
-title: "Lelusi Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:02+03:00
+title: "Lelusi Manastırı"
+date: "2025-12-25T09:53:02+03:00"
 slug: "lelusi-manastiri"
 description: "### Lelusi Manastırı..."
 featured_image: ""
 province: "Arpaçay"
-iller: ["Arpaçay"]
+iller: '["Arpaçay"]'
 district: "Taşbaşı"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.284713888,40.965586111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Lelusi Manastırı

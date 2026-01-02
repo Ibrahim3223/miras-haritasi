@@ -1,18 +1,17 @@
 ---
-title: "Arabakonağı Mevkii Tümülüs Bölgesi | Miras Haritası"
-date: 2025-12-25T07:38:57+03:00
+title: "Arabakonağı Mevkii Tümülüs Bölgesi"
+date: "2025-12-25T07:38:57+03:00"
 slug: "arabakonagi-mevkii-tumulus-bolgesi"
 description: "### Arabakonağı Mevkii Tümülüs Bölgesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Çan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9135017,40.111805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arabakonağı Mevkii Tümülüs Bölgesi

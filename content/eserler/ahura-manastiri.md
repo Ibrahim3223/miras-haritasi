@@ -1,18 +1,17 @@
 ---
-title: "Ahura Manastırı | Miras Haritası"
-date: 2025-12-25T09:50:03+03:00
+title: "Ahura Manastırı"
+date: "2025-12-25T09:50:03+03:00"
 slug: "ahura-manastiri"
 description: "## Ahura Manastırı: Iğdır'ın Gizli Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/St.Jacob_armenian_monastery_(Akhоri).jpg/1200px-St.Jacob_armenian_monastery_(Akhоri).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Iğdır"
+province: "Iğdır"
+iller: '["Iğdır"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "44.3785,39.7201"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahura Manastırı: Iğdır'ın Gizli Öyküsü

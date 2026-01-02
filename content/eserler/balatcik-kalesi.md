@@ -1,18 +1,17 @@
 ---
-title: "Balatçık Kalesi | Miras Haritası"
-date: 2025-12-25T01:48:02+03:00
+title: "Balatçık Kalesi"
+date: "2025-12-25T01:48:02+03:00"
 slug: "balatcik-kalesi"
 description: "## Balatçık Kalesi: Aydın'ın Gizli Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4755993,37.9132004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balatçık Kalesi: Aydın'ın Gizli Anıtı

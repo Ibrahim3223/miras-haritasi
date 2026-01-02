@@ -1,18 +1,17 @@
 ---
-title: "Perikle Heroonu | Miras Haritası"
-date: 2025-12-25T08:10:26+03:00
+title: "Perikle Heroonu"
+date: "2025-12-25T08:10:26+03:00"
 slug: "perikle-heroonu"
 description: "# Perikle Heroonu..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.1728191,36.3462486"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Perikle Heroonu

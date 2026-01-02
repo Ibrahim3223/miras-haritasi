@@ -1,18 +1,17 @@
 ---
-title: "Şehitlik Camii | Miras Haritası"
-date: 2025-12-24T22:25:42+03:00
+title: "Şehitlik Camii"
+date: "2025-12-24T22:25:42+03:00"
 slug: "sehitlik-camii"
 description: "## Şehitlik Camii: Narlıdere'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Martyrdom_mosque_-_panoramio_(1).jpg/1200px-Martyrdom_mosque_-_panoramio_(1).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Narlıdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.999861111,38.395888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehitlik Camii: Narlıdere'nin Tarihi ve Kültürel Mirası

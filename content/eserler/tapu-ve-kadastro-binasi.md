@@ -1,18 +1,17 @@
 ---
-title: "Tapu ve Kadastro Binası | Miras Haritası"
-date: 2025-12-25T03:42:51+03:00
+title: "Tapu ve Kadastro Binası"
+date: "2025-12-25T03:42:51+03:00"
 slug: "tapu-ve-kadastro-binasi"
 description: "## Tapu ve Kadastro Binası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tapu_kadastro_binası_müze.jpg/1200px-Tapu_kadastro_binası_müze.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.975412,41.006516"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tapu ve Kadastro Binası

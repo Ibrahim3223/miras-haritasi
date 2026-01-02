@@ -1,18 +1,17 @@
 ---
-title: "Demircihalil Höyükler Bayırı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:51:37+03:00
+title: "Demircihalil Höyükler Bayırı Tümülüsü"
+date: "2025-12-25T07:51:37+03:00"
 slug: "demircihalil-hoyukler-bayiri-tumulusu"
 description: "## Demircihalil Höyükler Bayırı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3140373,41.8094101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demircihalil Höyükler Bayırı Tümülüsü

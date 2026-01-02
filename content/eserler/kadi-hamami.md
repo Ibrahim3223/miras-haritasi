@@ -1,18 +1,17 @@
 ---
-title: "Kadı Hamamı | Miras Haritası"
-date: 2025-12-25T16:26:40+03:00
+title: "Kadı Hamamı"
+date: "2025-12-25T16:26:40+03:00"
 slug: "kadi-hamami"
 description: "## Kadı Hamamı: Diyarbakır'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.2328231,37.911596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Hamamı: Diyarbakır'ın Tarihi Bir Anıtı

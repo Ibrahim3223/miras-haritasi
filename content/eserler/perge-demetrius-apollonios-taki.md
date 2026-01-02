@@ -1,18 +1,17 @@
 ---
-title: "Perge Demetrius Apollonios Takı | Miras Haritası"
-date: 2025-12-25T15:36:14+03:00
+title: "Perge Demetrius Apollonios Takı"
+date: "2025-12-25T15:36:14+03:00"
 slug: "perge-demetrius-apollonios-taki"
 description: "### Perge Demetrius Apollonios Takı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Aksu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.8547974,36.9651222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Perge Demetrius Apollonios Takı

@@ -1,18 +1,17 @@
 ---
-title: "Pillitokome | Miras Haritası"
-date: 2025-12-25T05:12:01+03:00
+title: "Pillitokome"
+date: "2025-12-25T05:12:01+03:00"
 slug: "pillitokome"
 description: "## Pillitokome: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.7179,38.688014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pillitokome: Türkiye'nin Gizli Arkeolojik Sitleri

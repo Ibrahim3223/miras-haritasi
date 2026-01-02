@@ -1,18 +1,17 @@
 ---
-title: "Demirkapı Kışlası Karargah Binası | Miras Haritası"
-date: 2025-12-25T08:37:55+03:00
+title: "Demirkapı Kışlası Karargah Binası"
+date: "2025-12-25T08:37:55+03:00"
 slug: "demirkapi-kislasi-karargah-binasi"
 description: "# Demirkapı Kışlası Karargah Binası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "28.9827919,41.0150757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Demirkapı Kışlası Karargah Binası

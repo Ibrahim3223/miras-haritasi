@@ -1,18 +1,17 @@
 ---
-title: "Çelebi Sultan Mehmed Camii, Hayrabolu | Miras Haritası"
-date: 2025-12-25T00:00:05+03:00
+title: "Çelebi Sultan Mehmed Camii, Hayrabolu"
+date: "2025-12-25T00:00:05+03:00"
 slug: "celebi-sultan-mehmed-camii-hayrabolu"
 description: "## Çelebi Sultan Mehmed Camii, Hayrabolu..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Hayrabolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1092396,41.2128906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çelebi Sultan Mehmed Camii, Hayrabolu

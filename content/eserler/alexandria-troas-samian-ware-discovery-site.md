@@ -1,18 +1,17 @@
 ---
-title: "Alexandria Troas (Samian Ware Discovery Site) | Miras Haritası"
-date: 2025-12-25T05:29:33+03:00
+title: "Alexandria Troas (Samian Ware Discovery Site)"
+date: "2025-12-25T05:29:33+03:00"
 slug: "alexandria-troas-samian-ware-discovery-site"
 description: "### Alexandria Troas (Samian Ware Discovery Site)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.16,39.76"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alexandria Troas (Samian Ware Discovery Site)

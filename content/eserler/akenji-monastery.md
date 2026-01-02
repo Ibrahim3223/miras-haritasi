@@ -1,18 +1,17 @@
 ---
-title: "Akenji Monastery | Miras Haritası"
-date: 2025-12-25T09:49:30+03:00
+title: "Akenji Monastery"
+date: "2025-12-25T09:49:30+03:00"
 slug: "akenji-monastery"
 description: "## Akenji Manastırı: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akenji Manastırı: Türkiye'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Dilsiz Süleyman Ağa Çeşmesi, Cerrahpaşa | Miras Haritası"
-date: 2025-12-25T12:15:25+03:00
+title: "Dilsiz Süleyman Ağa Çeşmesi, Cerrahpaşa"
+date: "2025-12-25T12:15:25+03:00"
 slug: "dilsiz-suleyman-aga-cesmesi-cerrahpasa"
 description: "**Dilsiz Süleyman Ağa Çeşmesi: İstanbul'un Gizli Cenneti**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.937004,41.002827"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Dilsiz Süleyman Ağa Çeşmesi: İstanbul'un Gizli Cenneti**

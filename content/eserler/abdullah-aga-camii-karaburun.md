@@ -1,18 +1,17 @@
 ---
-title: "Abdullah Ağa Camii, Karaburun | Miras Haritası"
-date: 2025-12-24T23:58:43+03:00
+title: "Abdullah Ağa Camii, Karaburun"
+date: "2025-12-24T23:58:43+03:00"
 slug: "abdullah-aga-camii-karaburun"
 description: "## Abdullah Ağa Camii: Karaburun'un Tarihi bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karaburun"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5089912,38.6349754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdullah Ağa Camii: Karaburun'un Tarihi bir Mirası

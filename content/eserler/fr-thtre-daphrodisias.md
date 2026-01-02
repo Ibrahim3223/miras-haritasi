@@ -1,18 +1,17 @@
 ---
-title: "fr: Théâtre d'Aphrodisias | Miras Haritası"
-date: 2025-12-25T04:15:28+03:00
+title: "fr: Théâtre d'Aphrodisias"
+date: "2025-12-25T04:15:28+03:00"
 slug: "fr-thtre-daphrodisias"
 description: "## Théâtre d'Aphrodisias: Aydın'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aphrodisias_-_Roman_Theatre_01.jpg/1200px-Aphrodisias_-_Roman_Theatre_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.725180555,37.70715"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Théâtre d'Aphrodisias: Aydın'ın Tarihî Mirası

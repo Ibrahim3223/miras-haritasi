@@ -1,18 +1,17 @@
 ---
-title: "75. Yıl Sahnesi | Miras Haritası"
-date: 2025-12-25T16:17:14+03:00
+title: "75. Yıl Sahnesi"
+date: "2025-12-25T16:17:14+03:00"
 slug: "75-yil-sahnesi"
 description: "## 75. Yıl Sahnesi: Ankara'nın Eski Tiyatro Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.856527777,39.924194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 75. Yıl Sahnesi: Ankara'nın Eski Tiyatro Mirası

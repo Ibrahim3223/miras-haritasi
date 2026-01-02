@@ -1,18 +1,17 @@
 ---
-title: "Acharaka | Miras Haritası"
-date: 2025-12-25T04:34:20+03:00
+title: "Acharaka"
+date: "2025-12-25T04:34:20+03:00"
 slug: "acharaka"
 description: "## Acharaka: Aydın'ın Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.1,37.9"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acharaka: Aydın'ın Tarihî Mirası

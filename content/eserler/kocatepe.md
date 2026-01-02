@@ -1,18 +1,17 @@
 ---
-title: "Kocatepe | Miras Haritası"
-date: 2025-12-25T05:35:42+03:00
+title: "Kocatepe"
+date: "2025-12-25T05:35:42+03:00"
 slug: "kocatepe"
 description: "## Kocatepe: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.90065,41.735167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocatepe: Edirne'nin Gizli Mirası

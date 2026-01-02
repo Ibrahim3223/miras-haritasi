@@ -1,18 +1,17 @@
 ---
-title: "Milli Mücadele Müzesi, Kayseri | Miras Haritası"
-date: 2025-12-25T03:46:33+03:00
+title: "Milli Mücadele Müzesi, Kayseri"
+date: "2025-12-25T03:46:33+03:00"
 slug: "milli-mucadele-muzesi-kayseri"
 description: "## Milli Mücadele Müzesi, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.4888992,38.7166557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milli Mücadele Müzesi, Kayseri

@@ -1,18 +1,17 @@
 ---
-title: "Çatal Çeşme – İnönü, Çeşme | Miras Haritası"
-date: 2025-12-25T12:54:30+03:00
+title: "Çatal Çeşme – İnönü, Çeşme"
+date: "2025-12-25T12:54:30+03:00"
 slug: "catal-cesme-inonu-cesme"
 description: "### Çatal Çeşme – İnönü, Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3089008,38.3232994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çatal Çeşme – İnönü, Çeşme

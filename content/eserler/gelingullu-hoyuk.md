@@ -1,18 +1,17 @@
 ---
-title: "Gelingüllü Höyük | Miras Haritası"
-date: 2025-12-25T06:39:28+03:00
+title: "Gelingüllü Höyük"
+date: "2025-12-25T06:39:28+03:00"
 slug: "gelingullu-hoyuk"
 description: "## Gelingüllü Höyük: Yozgat'ın Gizli Öyküsü..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.05127,39.605246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gelingüllü Höyük: Yozgat'ın Gizli Öyküsü

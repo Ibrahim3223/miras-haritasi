@@ -1,18 +1,17 @@
 ---
-title: "Taşucu Aslan Eyce Amfora Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:48+03:00
+title: "Taşucu Aslan Eyce Amfora Müzesi"
+date: "2025-12-25T03:26:48+03:00"
 slug: "tasucu-aslan-eyce-amfora-muzesi"
 description: "**Taşucu Aslan Eyce Amfora Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Arslan_Eyce_Özel_Amphora_Müzesi.jpg/1200px-Arslan_Eyce_Özel_Amphora_Müzesi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.87777778,36.3175"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Taşucu Aslan Eyce Amfora Müzesi**

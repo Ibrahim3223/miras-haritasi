@@ -1,18 +1,17 @@
 ---
-title: "Çatal Camii | Miras Haritası"
-date: 2025-12-24T22:29:40+03:00
+title: "Çatal Camii"
+date: "2025-12-24T22:29:40+03:00"
 slug: "catal-camii"
 description: "## Çatal Camii: Manisa'daki Bir Tarihi ve Kültürel Öncü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4418526,38.6142387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatal Camii: Manisa'daki Bir Tarihi ve Kültürel Öncü

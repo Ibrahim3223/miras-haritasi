@@ -1,18 +1,17 @@
 ---
-title: "Dörtdivan Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:35:45+03:00
+title: "Dörtdivan Merkez Camii"
+date: "2025-12-24T22:35:45+03:00"
 slug: "dortdivan-merkez-camii"
 description: "## Dörtdivan Merkez Camii: Bolu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bolu"
+province: "Bolu"
+iller: '["Bolu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.0629921,40.7214584"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dörtdivan Merkez Camii: Bolu'nun Tarihi ve Kültürel Mirası

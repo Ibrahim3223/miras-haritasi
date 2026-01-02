@@ -1,18 +1,17 @@
 ---
-title: "Geredeli Çelebi Camii | Miras Haritası"
-date: 2025-12-24T22:52:59+03:00
+title: "Geredeli Çelebi Camii"
+date: "2025-12-24T22:52:59+03:00"
 slug: "geredeli-celebi-camii"
 description: "## Geredeli Çelebi Camii: Üsküdar'ın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Geredeli_Çelebi_Camii.jpg/1200px-Geredeli_Çelebi_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0145847,41.0242905"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Geredeli Çelebi Camii: Üsküdar'ın Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Kadıkalesi | Miras Haritası"
-date: 2025-12-25T04:36:46+03:00
+title: "Kadıkalesi"
+date: "2025-12-25T04:36:46+03:00"
 slug: "kadikalesi"
 description: "## Kadıkalesi: Kuşadası'nın Gizli Mirası..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2703,37.79147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadıkalesi: Kuşadası'nın Gizli Mirası

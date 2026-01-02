@@ -1,18 +1,17 @@
 ---
-title: "Çemberlitaş Sütunu | Miras Haritası"
-date: 2025-12-25T13:19:06+03:00
+title: "Çemberlitaş Sütunu"
+date: "2025-12-25T13:19:06+03:00"
 slug: "cemberlitas-sutunu"
 description: "## Çemberlitaş Sütunu: İstanbul'un Tarihi ve Kültürel Mirasının Örnekleri Arasında..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Gurlitt_Constantine_column_with_statue.jpg/1200px-Gurlitt_Constantine_column_with_statue.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.971111,41.008611"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çemberlitaş Sütunu: İstanbul'un Tarihi ve Kültürel Mirasının Örnekleri Arasında

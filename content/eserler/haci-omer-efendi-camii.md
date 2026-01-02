@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ömer Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:54:58+03:00
+title: "Hacı Ömer Efendi Camii"
+date: "2025-12-24T22:54:58+03:00"
 slug: "haci-omer-efendi-camii"
 description: "## Hacı Ömer Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hacı_Ömer_Efendi_Camii_IMG_3731.jpg/1200px-Hacı_Ömer_Efendi_Camii_IMG_3731.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Çengelköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.05363,41.049439"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Ömer Efendi Camii

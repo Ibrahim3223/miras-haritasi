@@ -1,18 +1,17 @@
 ---
-title: "Argyronion | Miras Haritası"
-date: 2025-12-25T04:44:21+03:00
+title: "Argyronion"
+date: "2025-12-25T04:44:21+03:00"
 slug: "argyronion"
 description: "## Argyronion: Eski Yunanistan'ın Gizemli Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.076268,41.165174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Argyronion: Eski Yunanistan'ın Gizemli Arkeolojik Sitesi

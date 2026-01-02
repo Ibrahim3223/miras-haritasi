@@ -1,18 +1,17 @@
 ---
-title: "Laodikeia Kuzey Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:21+03:00
+title: "Laodikeia Kuzey Tiyatrosu"
+date: "2025-12-25T04:14:21+03:00"
 slug: "laodikeia-kuzey-tiyatrosu"
 description: "# Laodikeia Kuzey Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Laodikeia_Kuzey_Tiyatrosu_01_-_2019.jpg/1200px-Laodikeia_Kuzey_Tiyatrosu_01_-_2019.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.111035,37.837757"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Laodikeia Kuzey Tiyatrosu

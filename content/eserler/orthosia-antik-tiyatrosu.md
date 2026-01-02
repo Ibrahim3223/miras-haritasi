@@ -1,18 +1,17 @@
 ---
-title: "Orthosia Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:21:20+03:00
+title: "Orthosia Antik Tiyatrosu"
+date: "2025-12-25T16:21:20+03:00"
 slug: "orthosia-antik-tiyatrosu"
 description: "## Orthosia Antik Tiyatrosu: Aydın'ın Yenipazar'daki Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.2288876,37.8237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orthosia Antik Tiyatrosu: Aydın'ın Yenipazar'daki Kültürel Mirası

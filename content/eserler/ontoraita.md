@@ -1,18 +1,17 @@
 ---
-title: "Ontoraita | Miras Haritası"
-date: 2025-12-25T05:13:46+03:00
+title: "Ontoraita"
+date: "2025-12-25T05:13:46+03:00"
 slug: "ontoraita"
 description: "# Ontoraita..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.5374015,40.2644105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ontoraita

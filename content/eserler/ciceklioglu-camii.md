@@ -1,18 +1,17 @@
 ---
-title: "Çiçeklioğlu Camii | Miras Haritası"
-date: 2025-12-24T22:34:04+03:00
+title: "Çiçeklioğlu Camii"
+date: "2025-12-24T22:34:04+03:00"
 slug: "ciceklioglu-camii"
 description: "## Çiçeklioğlu Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8655357,39.9345436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiçeklioğlu Camii

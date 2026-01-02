@@ -1,18 +1,17 @@
 ---
-title: "Kurt Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:17+03:00
+title: "Kurt Köprüsü"
+date: "2025-12-25T02:15:17+03:00"
 slug: "kurt-koprusu"
 description: "## Kurt Köprüsü: Havza'daki Tarihi Bir Miras..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Havza"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.610081,41.103458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurt Köprüsü: Havza'daki Tarihi Bir Miras

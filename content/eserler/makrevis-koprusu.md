@@ -1,18 +1,17 @@
 ---
-title: "Makrevis Köprüsü | Miras Haritası"
-date: 2025-12-25T02:01:10+03:00
+title: "Makrevis Köprüsü"
+date: "2025-12-25T02:01:10+03:00"
 slug: "makrevis-koprusu"
 description: "## Makrevis Köprüsü: Çamlıhemşin'in Tarihi Bir Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0079533,41.0334982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Makrevis Köprüsü: Çamlıhemşin'in Tarihi Bir Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Gülgün Hatun Hamamı | Miras Haritası"
-date: 2025-12-25T16:32:02+03:00
+title: "Gülgün Hatun Hamamı"
+date: "2025-12-25T16:32:02+03:00"
 slug: "gulgun-hatun-hamami"
 description: "### Gülgün Hatun Hamamı: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4227594,38.6061048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gülgün Hatun Hamamı: Manisa'nın Tarihi Bir Mirası

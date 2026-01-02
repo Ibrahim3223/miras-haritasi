@@ -1,18 +1,17 @@
 ---
-title: "Gelebeç Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:13+03:00
+title: "Gelebeç Köprüsü"
+date: "2025-12-25T02:15:13+03:00"
 slug: "gelebec-koprusu"
 description: "## Gelebeç Köprüsü: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.3045826,37.6567268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gelebeç Köprüsü: Aydın'ın Tarihî Mirası

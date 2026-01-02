@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Gümüşhane | Miras Haritası"
-date: 2025-12-25T02:47:27+03:00
+title: "Taş Köprü, Gümüşhane"
+date: "2025-12-25T02:47:27+03:00"
 slug: "tas-kopru-gumushane"
 description: "**Taş Köprü, Gümüşhane: Tarihi ve Kültürel Mirasın Bir Örneği**..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.4658051,40.4617958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Taş Köprü, Gümüşhane: Tarihi ve Kültürel Mirasın Bir Örneği**

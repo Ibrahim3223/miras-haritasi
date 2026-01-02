@@ -1,18 +1,17 @@
 ---
-title: "Çuhadarlı Kalesi | Miras Haritası"
-date: 2025-12-25T01:29:28+03:00
+title: "Çuhadarlı Kalesi"
+date: "2025-12-25T01:29:28+03:00"
 slug: "cuhadarli-kalesi"
 description: "**Çuhadarlı Kalesi: Kahramanmaraş'ın Gizli Ören Yeri**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Andırın"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.4511185,37.558918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çuhadarlı Kalesi: Kahramanmaraş'ın Gizli Ören Yeri**

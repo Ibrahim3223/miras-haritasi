@@ -1,18 +1,17 @@
 ---
-title: "Türk Tarih Kurumu | Miras Haritası"
-date: 2025-12-25T17:46:37+03:00
+title: "Türk Tarih Kurumu"
+date: "2025-12-25T17:46:37+03:00"
 slug: "turk-tarih-kurumu"
 description: "## Türk Tarih Kurumu Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk Tarih Kurumu Kütüphanesi

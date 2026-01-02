@@ -1,18 +1,17 @@
 ---
-title: "Legeita | Miras Haritası"
-date: 2025-12-25T05:08:28+03:00
+title: "Legeita"
+date: "2025-12-25T05:08:28+03:00"
 slug: "legeita"
 description: "## Legeita Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.356445,37.682053"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Legeita Arkeolojik Sit

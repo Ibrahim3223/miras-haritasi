@@ -1,18 +1,17 @@
 ---
-title: "Patrikhane Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:17+03:00
+title: "Patrikhane Çeşmesi"
+date: "2025-12-25T10:41:17+03:00"
 slug: "patrikhane-cesmesi"
 description: "**Patrikhane Çeşmesi: Fatih'in Gizli Mihenk Noktası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Patrikhane_Fountain_2.jpg/1200px-Patrikhane_Fountain_2.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.95223,41.02897"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Patrikhane Çeşmesi: Fatih'in Gizli Mihenk Noktası**

@@ -1,18 +1,17 @@
 ---
-title: "Pazar Camii | Miras Haritası"
-date: 2025-12-25T01:07:38+03:00
+title: "Pazar Camii"
+date: "2025-12-25T01:07:38+03:00"
 slug: "pazar-camii"
 description: "### Pazar Camii..."
 featured_image: ""
 province: "İlkadım"
-iller: ["İlkadım"]
+iller: '["İlkadım"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.331722222,41.2945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pazar Camii

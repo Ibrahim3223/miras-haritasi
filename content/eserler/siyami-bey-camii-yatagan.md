@@ -1,18 +1,17 @@
 ---
-title: "Siyami Bey Camii (Yatağan) | Miras Haritası"
-date: 2025-12-24T23:07:12+03:00
+title: "Siyami Bey Camii (Yatağan)"
+date: "2025-12-24T23:07:12+03:00"
 slug: "siyami-bey-camii-yatagan"
 description: "## Siyami Bey Camii (Yatağan)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1337643,37.2927208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siyami Bey Camii (Yatağan)

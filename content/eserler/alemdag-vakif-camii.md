@@ -1,18 +1,17 @@
 ---
-title: "Alemdağ Vakıf Camii | Miras Haritası"
-date: 2025-12-25T01:00:01+03:00
+title: "Alemdağ Vakıf Camii"
+date: "2025-12-25T01:00:01+03:00"
 slug: "alemdag-vakif-camii"
 description: "### Alemdağ Vakıf Camii: Tarihi ve Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çekmeköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2361469,41.0496712"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alemdağ Vakıf Camii: Tarihi ve Özellikleri

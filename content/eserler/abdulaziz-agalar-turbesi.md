@@ -1,18 +1,17 @@
 ---
-title: "Abdülaziz Ağalar Türbesi | Miras Haritası"
-date: 2025-12-25T15:35:12+03:00
+title: "Abdülaziz Ağalar Türbesi"
+date: "2025-12-25T15:35:12+03:00"
 slug: "abdulaziz-agalar-turbesi"
 description: "# Abdülaziz Ağalar Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7837486,37.3155174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdülaziz Ağalar Türbesi

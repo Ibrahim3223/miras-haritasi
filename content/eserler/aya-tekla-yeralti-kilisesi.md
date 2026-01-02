@@ -1,18 +1,17 @@
 ---
-title: "Aya Tekla Yeraltı Kilisesi | Miras Haritası"
-date: 2025-12-25T06:52:19+03:00
+title: "Aya Tekla Yeraltı Kilisesi"
+date: "2025-12-25T06:52:19+03:00"
 slug: "aya-tekla-yeralti-kilisesi"
 description: "# Aya Tekla Yeraltı Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ayatekla.jpg/1200px-Ayatekla.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.93111111,36.36333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Aya Tekla Yeraltı Kilisesi

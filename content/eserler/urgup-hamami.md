@@ -1,18 +1,17 @@
 ---
-title: "Ürgüp Hamamı | Miras Haritası"
-date: 2025-12-25T17:14:44+03:00
+title: "Ürgüp Hamamı"
+date: "2025-12-25T17:14:44+03:00"
 slug: "urgup-hamami"
 description: "### Ürgüp Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.909668,38.6299438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ürgüp Hamamı: Tarihi ve Kültürel Miras

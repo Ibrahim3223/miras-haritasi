@@ -1,18 +1,17 @@
 ---
-title: "Hacet Tepesi Höyük | Miras Haritası"
-date: 2025-12-25T06:15:36+03:00
+title: "Hacet Tepesi Höyük"
+date: "2025-12-25T06:15:36+03:00"
 slug: "hacet-tepesi-hoyuk"
 description: "# Hacet Tepesi Höyük: Konya'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.138693782,39.112686208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacet Tepesi Höyük: Konya'nın Gizli Hazineleri

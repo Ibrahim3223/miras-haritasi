@@ -1,18 +1,17 @@
 ---
-title: "Claudiopolis Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:25:29+03:00
+title: "Claudiopolis Antik Tiyatrosu"
+date: "2025-12-25T08:25:29+03:00"
 slug: "claudiopolis-antik-tiyatrosu"
 description: "**Claudiopolis Antik Tiyatrosu**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.44165,36.651672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Claudiopolis Antik Tiyatrosu**

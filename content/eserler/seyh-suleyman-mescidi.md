@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Süleyman Mescidi | Miras Haritası"
-date: 2025-12-24T21:52:56+03:00
+title: "Şeyh Süleyman Mescidi"
+date: "2025-12-24T21:52:56+03:00"
 slug: "seyh-suleyman-mescidi"
 description: "## Şeyh Süleyman Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bibliothiki_tou_Pantokratoros.jpg/1200px-Bibliothiki_tou_Pantokratoros.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9554,41.0192"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyh Süleyman Mescidi

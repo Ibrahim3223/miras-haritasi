@@ -1,18 +1,17 @@
 ---
-title: "Gazi Sığla Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:48+03:00
+title: "Gazi Sığla Bey Türbesi"
+date: "2025-12-25T14:53:48+03:00"
 slug: "gazi-sigla-bey-turbesi"
 description: "## Gazi Sığla Bey Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3679619,37.9477539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazi Sığla Bey Türbesi

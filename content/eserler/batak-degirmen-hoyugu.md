@@ -1,18 +1,17 @@
 ---
-title: "Batak Değirmen Höyüğü | Miras Haritası"
-date: 2025-12-25T06:13:05+03:00
+title: "Batak Değirmen Höyüğü"
+date: "2025-12-25T06:13:05+03:00"
 slug: "batak-degirmen-hoyugu"
 description: "## Batak Değirmen Höyüğü: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4697189,41.6274529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Batak Değirmen Höyüğü: Kırklareli'nin Gizli Anıtı

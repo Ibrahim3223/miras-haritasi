@@ -1,18 +1,17 @@
 ---
-title: "Koyunpazarı Mescidi | Miras Haritası"
-date: 2025-12-25T00:45:44+03:00
+title: "Koyunpazarı Mescidi"
+date: "2025-12-25T00:45:44+03:00"
 slug: "koyunpazari-mescidi"
 description: "### Koyunpazarı Mescidi: Ankara'nın Tarihi Bir Öreni..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8630219,39.9354057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koyunpazarı Mescidi: Ankara'nın Tarihi Bir Öreni

@@ -1,18 +1,17 @@
 ---
-title: "Andaval Örenyeri | Miras Haritası"
-date: 2025-12-25T03:38:24+03:00
+title: "Andaval Örenyeri"
+date: "2025-12-25T03:38:24+03:00"
 slug: "andaval-orenyeri"
 description: "## Andaval Örenyeri: Niğde'nin Tarihî Mirasının Bir Parçası..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andaval Örenyeri: Niğde'nin Tarihî Mirasının Bir Parçası

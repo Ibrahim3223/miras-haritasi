@@ -1,18 +1,17 @@
 ---
-title: "Küçük Piyale Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:23+03:00
+title: "Küçük Piyale Hamamı"
+date: "2025-12-25T17:03:23+03:00"
 slug: "kucuk-piyale-hamami"
 description: "## Küçük Piyale Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9683189,41.0353584"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Piyale Hamamı

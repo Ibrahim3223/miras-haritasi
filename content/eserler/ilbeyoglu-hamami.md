@@ -1,18 +1,17 @@
 ---
-title: "İlbeyoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:36+03:00
+title: "İlbeyoğlu Hamamı"
+date: "2025-12-25T16:25:36+03:00"
 slug: "ilbeyoglu-hamami"
 description: "## İlbeyoğlu Hamamı: Kars'ta Bir Tarihî Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Muradiyyə_hamamı.jpg/1200px-Muradiyyə_hamamı.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "43.0884141,40.6119418"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İlbeyoğlu Hamamı: Kars'ta Bir Tarihî Miras

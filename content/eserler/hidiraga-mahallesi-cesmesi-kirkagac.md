@@ -1,18 +1,17 @@
 ---
-title: "Hıdırağa Mahallesi Çeşmesi, Kırkağaç | Miras Haritası"
-date: 2025-12-25T12:23:10+03:00
+title: "Hıdırağa Mahallesi Çeşmesi, Kırkağaç"
+date: "2025-12-25T12:23:10+03:00"
 slug: "hidiraga-mahallesi-cesmesi-kirkagac"
 description: "## Hıdırağa Mahallesi Çeşmesi: Kırkağaç'ta Bir Tarihsel Çeşme..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.667942,39.1014557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hıdırağa Mahallesi Çeşmesi: Kırkağaç'ta Bir Tarihsel Çeşme

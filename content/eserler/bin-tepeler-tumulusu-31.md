@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 31 | Miras Haritası"
-date: 2025-12-25T07:16:41+03:00
+title: "Bin Tepeler Tümülüsü 31"
+date: "2025-12-25T07:16:41+03:00"
 slug: "bin-tepeler-tumulusu-31"
 description: "## Bin Tepeler Tümülüsü 31..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.01469,38.590382"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bin Tepeler Tümülüsü 31

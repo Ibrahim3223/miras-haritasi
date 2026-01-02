@@ -1,18 +1,17 @@
 ---
-title: "Otlukbeli Muharebesi Şehitleri Anıtı | Miras Haritası"
-date: 2025-12-25T14:15:50+03:00
+title: "Otlukbeli Muharebesi Şehitleri Anıtı"
+date: "2025-12-25T14:15:50+03:00"
 slug: "otlukbeli-muharebesi-sehitleri-aniti"
 description: "## Otlukbeli Muharebesi Şehitleri Anıtı..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Otlukbeli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.9798,40.0187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Otlukbeli Muharebesi Şehitleri Anıtı

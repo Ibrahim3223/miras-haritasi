@@ -1,18 +1,17 @@
 ---
-title: "Kıllıoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:49:33+03:00
+title: "Kıllıoğlu Hamamı"
+date: "2025-12-25T16:49:33+03:00"
 slug: "killioglu-hamami"
 description: "## Kıllıoğlu Hamamı: İzmir'in Tarihi Bir Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1422119,38.4204483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kıllıoğlu Hamamı: İzmir'in Tarihi Bir Hamamı

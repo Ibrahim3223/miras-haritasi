@@ -1,18 +1,17 @@
 ---
-title: "Kandili Güzel Camii | Miras Haritası"
-date: 2025-12-24T23:21:24+03:00
+title: "Kandili Güzel Camii"
+date: "2025-12-24T23:21:24+03:00"
 slug: "kandili-guzel-camii"
 description: "## Kandili Güzel Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.954746,41.025101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kandili Güzel Camii: İstanbul'un Gizli Cenneti

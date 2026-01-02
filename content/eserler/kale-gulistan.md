@@ -1,18 +1,17 @@
 ---
-title: "Kale, Gülistan | Miras Haritası"
-date: 2025-12-25T01:39:56+03:00
+title: "Kale, Gülistan"
+date: "2025-12-25T01:39:56+03:00"
 slug: "kale-gulistan"
 description: "## Kale, Gülistan: Ardahan'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Göle"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.78336,40.846333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale, Gülistan: Ardahan'ın Tarihi ve Kültürel Mirası

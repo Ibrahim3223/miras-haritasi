@@ -1,18 +1,17 @@
 ---
-title: "Meletderesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:56+03:00
+title: "Meletderesi Köprüsü"
+date: "2025-12-25T02:21:56+03:00"
 slug: "meletderesi-koprusu"
 description: "### Meletderesi Köprüsü: Malatya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Doğanşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.0223579,38.1482201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Meletderesi Köprüsü: Malatya'nın Tarihî Mirası

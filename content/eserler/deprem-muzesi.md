@@ -1,18 +1,17 @@
 ---
-title: "Deprem Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:43+03:00
+title: "Deprem Müzesi"
+date: "2025-12-25T03:19:43+03:00"
 slug: "deprem-muzesi"
 description: "## Deprem Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/TR_Sakarya_asv2021-10_img08_Earthquake_Museum.jpg/1200px-TR_Sakarya_asv2021-10_img08_Earthquake_Museum.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sakarya"
+province: "Sakarya"
+iller: '["Sakarya"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.402187,40.776962"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Deprem Müzesi

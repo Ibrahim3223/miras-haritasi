@@ -1,18 +1,17 @@
 ---
-title: "Fahri Korutürk Büstü | Miras Haritası"
-date: 2025-12-25T15:48:28+03:00
+title: "Fahri Korutürk Büstü"
+date: "2025-12-25T15:48:28+03:00"
 slug: "fahri-koruturk-bustu"
 description: "## Fahri Korutürk Büstü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0211582,40.9812813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fahri Korutürk Büstü

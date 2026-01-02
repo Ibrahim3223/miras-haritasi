@@ -1,18 +1,17 @@
 ---
-title: "Çadır Köşkü | Miras Haritası"
-date: 2025-12-25T13:12:58+03:00
+title: "Çadır Köşkü"
+date: "2025-12-25T13:12:58+03:00"
 slug: "cadir-kosku"
 description: "**Çadır Köşkü: İstanbul'un Gizli Çehresini Kendine Saklayabilen Bir Saray**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kağıthane"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.963722219,41.07158333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çadır Köşkü: İstanbul'un Gizli Çehresini Kendine Saklayabilen Bir Saray**

@@ -1,18 +1,17 @@
 ---
-title: "Külhöyük | Miras Haritası"
-date: 2025-12-25T05:29:59+03:00
+title: "Külhöyük"
+date: "2025-12-25T05:29:59+03:00"
 slug: "kulhoyuk"
 description: "## Külhöyük: Eskişehir'in Gizemi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.9611,39.661833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Külhöyük: Eskişehir'in Gizemi

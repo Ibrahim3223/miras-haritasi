@@ -1,18 +1,17 @@
 ---
-title: "Güngörmez Mescidi | Miras Haritası"
-date: 2025-12-24T22:53:34+03:00
+title: "Güngörmez Mescidi"
+date: "2025-12-24T22:53:34+03:00"
 slug: "gungormez-mescidi"
 description: "## Güngörmez Mescidi; Fatih Devri'nin Efsanevi Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9764748,41.0044937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güngörmez Mescidi; Fatih Devri'nin Efsanevi Camii

@@ -1,18 +1,17 @@
 ---
-title: "Oğul Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:19+03:00
+title: "Oğul Paşa Türbesi"
+date: "2025-12-25T15:03:19+03:00"
 slug: "ogul-pasa-turbesi"
 description: "## Oğul Paşa Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bigadiç"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.1718636,39.4909782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oğul Paşa Türbesi

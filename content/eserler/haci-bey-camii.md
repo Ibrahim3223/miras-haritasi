@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bey Camii | Miras Haritası"
-date: 2025-12-25T00:45:28+03:00
+title: "Hacı Bey Camii"
+date: "2025-12-25T00:45:28+03:00"
 slug: "haci-bey-camii"
 description: "## Hacı Bey Camii: Köyceğiz'in Tarihi Çandırı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.688242,36.9566231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Bey Camii: Köyceğiz'in Tarihi Çandırı

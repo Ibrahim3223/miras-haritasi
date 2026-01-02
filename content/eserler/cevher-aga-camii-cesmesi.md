@@ -1,18 +1,17 @@
 ---
-title: "Cevher Ağa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:29+03:00
+title: "Cevher Ağa Camii Çeşmesi"
+date: "2025-12-25T11:17:29+03:00"
 slug: "cevher-aga-camii-cesmesi"
 description: "## Cevher Ağa Camii Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Ümraniye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0909373,41.0251144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevher Ağa Camii Çeşmesi: İstanbul'un Gizli Çeşmesi

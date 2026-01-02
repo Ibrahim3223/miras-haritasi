@@ -1,18 +1,17 @@
 ---
-title: "Andızlı Camii | Miras Haritası"
-date: 2025-12-24T21:44:42+03:00
+title: "Andızlı Camii"
+date: "2025-12-24T21:44:42+03:00"
 slug: "andizli-camii"
 description: "## Andızlı Camii: Alanya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.997611111,36.53475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andızlı Camii: Alanya'nın Tarihi Bir Mirası

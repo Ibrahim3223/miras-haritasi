@@ -1,18 +1,17 @@
 ---
-title: "Kaban Mescidi | Miras Haritası"
-date: 2025-12-24T23:38:52+03:00
+title: "Kaban Mescidi"
+date: "2025-12-24T23:38:52+03:00"
 slug: "kaban-mescidi"
 description: "## Kaban Mescidi: Bölümlü, Of'un Gizli Çehresi..."
 featured_image: ""
 province: "Of (ilçe)"
-iller: ["Of (ilçe)"]
+iller: '["Of (ilçe)"]'
 district: "Bölümlü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2801018,40.823101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaban Mescidi: Bölümlü, Of'un Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Karaağaç Köyü Büyük Camii | Miras Haritası"
-date: 2025-12-24T23:40:40+03:00
+title: "Karaağaç Köyü Büyük Camii"
+date: "2025-12-24T23:40:40+03:00"
 slug: "karaagac-koyu-buyuk-camii"
 description: "### Karaağaç Köyü Büyük Camii..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.1528339,40.2314224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaağaç Köyü Büyük Camii

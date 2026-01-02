@@ -1,18 +1,17 @@
 ---
-title: "Kilise Mescidi Amasra | Miras Haritası"
-date: 2025-12-24T23:21:20+03:00
+title: "Kilise Mescidi Amasra"
+date: "2025-12-24T23:21:20+03:00"
 slug: "kilise-mescidi-amasra"
 description: "## Kilise Mescidi Amasra: Bartın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Amasra"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.3883514,41.7493629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilise Mescidi Amasra: Bartın'ın Tarihî Mirası

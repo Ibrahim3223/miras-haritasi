@@ -1,18 +1,17 @@
 ---
-title: "Başur Höyük | Miras Haritası"
-date: 2025-12-25T07:08:57+03:00
+title: "Başur Höyük"
+date: "2025-12-25T07:08:57+03:00"
 slug: "basur-hoyuk"
 description: "**Başur Höyük: Siirt'te Bir Arkeolojik Sit**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Siirt"
+province: "Siirt"
+iller: '["Siirt"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.779,37.98"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Başur Höyük: Siirt'te Bir Arkeolojik Sit**

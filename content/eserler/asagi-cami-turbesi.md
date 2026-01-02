@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Cami Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:33+03:00
+title: "Aşağı Cami Türbesi"
+date: "2025-12-25T15:28:33+03:00"
 slug: "asagi-cami-turbesi"
 description: "## Aşağı Cami Türbesi: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.8475971,38.3209152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Cami Türbesi: Denizli'nin Gizli Cenneti

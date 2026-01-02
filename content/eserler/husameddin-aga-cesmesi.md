@@ -1,18 +1,17 @@
 ---
-title: "Hüsameddin Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:12:15+03:00
+title: "Hüsameddin Ağa Çeşmesi"
+date: "2025-12-25T11:12:15+03:00"
 slug: "husameddin-aga-cesmesi"
 description: "## Hüsameddin Ağa Çeşmesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Valide-i Atik"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.027525,41.016701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsameddin Ağa Çeşmesi

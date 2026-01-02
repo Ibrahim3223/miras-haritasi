@@ -1,18 +1,17 @@
 ---
-title: "Osmanlı Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:17:03+03:00
+title: "Osmanlı Tiyatrosu"
+date: "2025-12-25T16:17:03+03:00"
 slug: "osmanli-tiyatrosu"
 description: "## Osmanlı Tiyatrosu: İstanbul'un Gizli Tiyatro Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmanlı Tiyatrosu: İstanbul'un Gizli Tiyatro Mirası

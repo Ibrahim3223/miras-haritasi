@@ -1,18 +1,17 @@
 ---
-title: "Arpacı Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:21+03:00
+title: "Arpacı Dede Türbesi"
+date: "2025-12-25T15:29:21+03:00"
 slug: "arpaci-dede-turbesi"
 description: "## Arpacı Dede Türbesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3277245,36.9811516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arpacı Dede Türbesi

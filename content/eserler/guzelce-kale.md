@@ -1,18 +1,17 @@
 ---
-title: "Güzelce Kale | Miras Haritası"
-date: 2025-12-25T01:20:34+03:00
+title: "Güzelce Kale"
+date: "2025-12-25T01:20:34+03:00"
 slug: "guzelce-kale"
 description: "## Güzelce Kale: Ankara'nın Gizli Tarihi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Haymana"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.7207985,39.3104362"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzelce Kale: Ankara'nın Gizli Tarihi

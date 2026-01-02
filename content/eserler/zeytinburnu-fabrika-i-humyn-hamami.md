@@ -1,18 +1,17 @@
 ---
-title: "Zeytinburnu Fabrika-i Hümâyûn Hamamı | Miras Haritası"
-date: 2025-12-25T16:55:38+03:00
+title: "Zeytinburnu Fabrika-i Hümâyûn Hamamı"
+date: "2025-12-25T16:55:38+03:00"
 slug: "zeytinburnu-fabrika-i-humyn-hamami"
 description: "## Zeytinburnu Fabrika-i Hümâyûn Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9055176,40.9818611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeytinburnu Fabrika-i Hümâyûn Hamamı: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Soğmatar | Miras Haritası"
-date: 2025-12-25T06:12:16+03:00
+title: "Soğmatar"
+date: "2025-12-25T06:12:16+03:00"
 slug: "sogmatar"
 description: "### Soğmatar: Şanlıurfa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.3394623,36.9960823"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Soğmatar: Şanlıurfa'nın Gizli Cenneti

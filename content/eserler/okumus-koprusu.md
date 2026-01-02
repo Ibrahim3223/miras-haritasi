@@ -1,18 +1,17 @@
 ---
-title: "Okumuş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:00:11+03:00
+title: "Okumuş Köprüsü"
+date: "2025-12-25T02:00:11+03:00"
 slug: "okumus-koprusu"
 description: "## Okumuş Köprüsü: Ardeşen'in Tarihî Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.1771,41.1309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Okumuş Köprüsü: Ardeşen'in Tarihî Mirası

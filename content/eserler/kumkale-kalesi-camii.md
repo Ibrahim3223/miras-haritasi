@@ -1,18 +1,17 @@
 ---
-title: "Kumkale Kalesi Camii | Miras Haritası"
-date: 2025-12-25T00:12:01+03:00
+title: "Kumkale Kalesi Camii"
+date: "2025-12-25T00:12:01+03:00"
 slug: "kumkale-kalesi-camii"
 description: "## Kumkale Kalesi Camii..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.2003708,40.0061455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumkale Kalesi Camii

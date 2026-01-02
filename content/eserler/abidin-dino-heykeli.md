@@ -1,18 +1,17 @@
 ---
-title: "Abidin Dino Heykeli | Miras Haritası"
-date: 2025-12-25T16:08:11+03:00
+title: "Abidin Dino Heykeli"
+date: "2025-12-25T16:08:11+03:00"
 slug: "abidin-dino-heykeli"
 description: "## Abidin Dino Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0551872,40.9793167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abidin Dino Heykeli

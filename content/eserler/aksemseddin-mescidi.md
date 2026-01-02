@@ -1,18 +1,17 @@
 ---
-title: "Akşemseddin Mescidi | Miras Haritası"
-date: 2025-12-24T22:44:32+03:00
+title: "Akşemseddin Mescidi"
+date: "2025-12-24T22:44:32+03:00"
 slug: "aksemseddin-mescidi"
 description: "### Akşemseddin Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Akşemseddin_Mescidi.jpg/1200px-Akşemseddin_Mescidi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.940155,41.021586"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Akşemseddin Mescidi

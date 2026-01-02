@@ -1,18 +1,17 @@
 ---
-title: "Athena Tapınağı (Assos) | Miras Haritası"
-date: 2025-12-25T08:23:06+03:00
+title: "Athena Tapınağı (Assos)"
+date: "2025-12-25T08:23:06+03:00"
 slug: "athena-tapinagi-assos"
 description: "## Athena Tapınağı (Assos)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Assos_(1995)_19_(7902773580).jpg/1200px-Assos_(1995)_19_(7902773580).jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.336944444,39.490833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Athena Tapınağı (Assos)

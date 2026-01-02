@@ -1,18 +1,17 @@
 ---
-title: "Yoncalıöz Höyüğü | Miras Haritası"
-date: 2025-12-25T06:01:19+03:00
+title: "Yoncalıöz Höyüğü"
+date: "2025-12-25T06:01:19+03:00"
 slug: "yoncalioz-hoyugu"
 description: "## Yoncalıöz Höyüğü: Tarih ve Kültür Mirasının Gizemli Yerleri..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Muş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.3480263,38.8686371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yoncalıöz Höyüğü: Tarih ve Kültür Mirasının Gizemli Yerleri

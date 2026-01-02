@@ -1,18 +1,17 @@
 ---
-title: "Gürcü Mehmet Paşa Çeşmesi, Akşemsettin | Miras Haritası"
-date: 2025-12-25T12:14:17+03:00
+title: "Gürcü Mehmet Paşa Çeşmesi, Akşemsettin"
+date: "2025-12-25T12:14:17+03:00"
 slug: "gurcu-mehmet-pasa-cesmesi-aksemsettin"
 description: "## Gürcü Mehmet Paşa Çeşmesi: Fatih'ten Bir Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.94383,41.015839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gürcü Mehmet Paşa Çeşmesi: Fatih'ten Bir Kültürel Miras

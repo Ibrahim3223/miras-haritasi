@@ -1,18 +1,17 @@
 ---
-title: "Numan Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:52:57+03:00
+title: "Numan Efendi Çeşmesi"
+date: "2025-12-25T12:52:57+03:00"
 slug: "numan-efendi-cesmesi"
 description: "## Numan Efendi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6466293,38.2241707"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Numan Efendi Çeşmesi

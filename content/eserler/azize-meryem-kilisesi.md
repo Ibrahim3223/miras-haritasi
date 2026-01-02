@@ -1,18 +1,17 @@
 ---
-title: "Azize Meryem Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:30+03:00
+title: "Azize Meryem Kilisesi"
+date: "2025-12-25T09:40:30+03:00"
 slug: "azize-meryem-kilisesi"
 description: "## Azize Meryem Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.3703785,37.2208405"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Azize Meryem Kilisesi

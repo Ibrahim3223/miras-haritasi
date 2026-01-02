@@ -1,18 +1,17 @@
 ---
-title: "Zile Kalesi | Miras Haritası"
-date: 2025-12-25T01:17:32+03:00
+title: "Zile Kalesi"
+date: "2025-12-25T01:17:32+03:00"
 slug: "zile-kalesi"
 description: "## Zile Kalesi: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.890049,40.3040886"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zile Kalesi: Tokat'ın Tarihi ve Kültürel Mirası

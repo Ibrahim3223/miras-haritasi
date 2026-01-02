@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ahmed Çeşmesi, Balıkesir | Miras Haritası"
-date: 2025-12-25T12:31:34+03:00
+title: "Şeyh Ahmed Çeşmesi, Balıkesir"
+date: "2025-12-25T12:31:34+03:00"
 slug: "seyh-ahmed-cesmesi-balikesir"
 description: "## Şeyh Ahmed Çeşmesi, Balıkesir: Tarihi Bir Anıt..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.879914593,39.646113032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Ahmed Çeşmesi, Balıkesir: Tarihi Bir Anıt

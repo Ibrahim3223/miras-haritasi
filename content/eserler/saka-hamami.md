@@ -1,18 +1,17 @@
 ---
-title: "Saka Hamamı | Miras Haritası"
-date: 2025-12-25T16:59:03+03:00
+title: "Saka Hamamı"
+date: "2025-12-25T16:59:03+03:00"
 slug: "saka-hamami"
 description: "## Saka Hamamı: Antakya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.1661263,36.2034607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saka Hamamı: Antakya'nın Tarihî Bir Mirası

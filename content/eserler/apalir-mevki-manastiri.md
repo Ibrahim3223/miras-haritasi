@@ -1,18 +1,17 @@
 ---
-title: "Apalir Mevki Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:54+03:00
+title: "Apalir Mevki Manastırı"
+date: "2025-12-25T09:52:54+03:00"
 slug: "apalir-mevki-manastiri"
 description: "## Apalir Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.8470325,40.1912575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apalir Mevki Manastırı

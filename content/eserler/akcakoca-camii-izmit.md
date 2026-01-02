@@ -1,18 +1,17 @@
 ---
-title: "Akçakoca Camii, İzmit | Miras Haritası"
-date: 2025-12-24T23:59:15+03:00
+title: "Akçakoca Camii, İzmit"
+date: "2025-12-24T23:59:15+03:00"
 slug: "akcakoca-camii-izmit"
 description: "## Akçakoca Camii: İzmit'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9210472,40.7670097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçakoca Camii: İzmit'in Tarihi Bir Mirası

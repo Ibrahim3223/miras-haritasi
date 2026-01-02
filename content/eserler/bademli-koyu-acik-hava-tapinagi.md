@@ -1,18 +1,17 @@
 ---
-title: "Bademli Köyü Açık Hava Tapınağı | Miras Haritası"
-date: 2025-12-25T08:38:23+03:00
+title: "Bademli Köyü Açık Hava Tapınağı"
+date: "2025-12-25T08:38:23+03:00"
 slug: "bademli-koyu-acik-hava-tapinagi"
 description: "## Bademli Köyü Açık Hava Tapınağı: Gökçeada'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.8830185,40.2144394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bademli Köyü Açık Hava Tapınağı: Gökçeada'nın Gizli Çeşmesi

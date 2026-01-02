@@ -1,18 +1,17 @@
 ---
-title: "Uzun Hacıoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:16:41+03:00
+title: "Uzun Hacıoğlu Camii"
+date: "2025-12-24T23:16:41+03:00"
 slug: "uzun-hacioglu-camii"
 description: "## Uzun Hacıoğlu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sivas"
+province: "Sivas"
+iller: '["Sivas"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0104179,39.7471123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzun Hacıoğlu Camii

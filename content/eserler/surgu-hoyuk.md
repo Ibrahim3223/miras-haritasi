@@ -1,18 +1,17 @@
 ---
-title: "Sürgü Höyük | Miras Haritası"
-date: 2025-12-25T06:07:32+03:00
+title: "Sürgü Höyük"
+date: "2025-12-25T06:07:32+03:00"
 slug: "surgu-hoyuk"
 description: "### Sürgü Höyük: Malatya'nın Tarihi Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Doğanşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9611435,38.0033913"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sürgü Höyük: Malatya'nın Tarihi Mirası

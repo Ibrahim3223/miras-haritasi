@@ -1,18 +1,17 @@
 ---
-title: "Alem Bey Camii | Miras Haritası"
-date: 2025-12-24T22:45:56+03:00
+title: "Alem Bey Camii"
+date: "2025-12-24T22:45:56+03:00"
 slug: "alem-bey-camii"
 description: "## Alem Bey Camii: Fatih'te Bir Ölümsüz Miras..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Kemalpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9537315,41.0101662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alem Bey Camii: Fatih'te Bir Ölümsüz Miras

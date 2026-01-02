@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Bozkurt, 427 Sokak | Miras Haritası"
-date: 2025-12-25T12:57:03+03:00
+title: "Çeşme – Bozkurt, 427 Sokak"
+date: "2025-12-25T12:57:03+03:00"
 slug: "cesme-bozkurt-427-sokak"
 description: "## Çeşme – Bozkurt, 427 Sokak: İzmirlinin Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.132,38.414299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Bozkurt, 427 Sokak: İzmirlinin Kültürel Mirası

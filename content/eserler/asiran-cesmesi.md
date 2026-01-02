@@ -1,18 +1,17 @@
 ---
-title: "Aşiran Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:42:47+03:00
+title: "Aşiran Çeşmesi"
+date: "2025-12-25T10:42:47+03:00"
 slug: "asiran-cesmesi"
 description: "## Aşiran Çeşmesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.2209778,37.1754341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşiran Çeşmesi

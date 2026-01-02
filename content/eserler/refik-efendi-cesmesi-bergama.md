@@ -1,18 +1,17 @@
 ---
-title: "Refik Efendi Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:48:06+03:00
+title: "Refik Efendi Çeşmesi, Bergama"
+date: "2025-12-25T12:48:06+03:00"
 slug: "refik-efendi-cesmesi-bergama"
 description: "## Refik Efendi Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1796608,39.122345"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Refik Efendi Çeşmesi, Bergama

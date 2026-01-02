@@ -1,18 +1,17 @@
 ---
-title: "Müze Gazhane | Miras Haritası"
-date: 2025-12-25T03:35:20+03:00
+title: "Müze Gazhane"
+date: "2025-12-25T03:35:20+03:00"
 slug: "muze-gazhane"
 description: "# Müze Gazhane: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Müze_Gazhane_(11).jpg/1200px-Müze_Gazhane_(11).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.043333333,40.9975"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Müze Gazhane: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

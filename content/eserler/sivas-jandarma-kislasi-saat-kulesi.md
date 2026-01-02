@@ -1,18 +1,17 @@
 ---
-title: "Sivas Jandarma Kışlası Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:18+03:00
+title: "Sivas Jandarma Kışlası Saat Kulesi"
+date: "2025-12-25T17:21:18+03:00"
 slug: "sivas-jandarma-kislasi-saat-kulesi"
 description: "# Sivas Jandarma Kışlası Saat Kulesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "37.0144683,39.7506174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sivas Jandarma Kışlası Saat Kulesi

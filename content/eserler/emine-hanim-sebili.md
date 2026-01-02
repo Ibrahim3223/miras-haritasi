@@ -1,18 +1,17 @@
 ---
-title: "Emine Hanım Sebili | Miras Haritası"
-date: 2025-12-25T13:08:25+03:00
+title: "Emine Hanım Sebili"
+date: "2025-12-25T13:08:25+03:00"
 slug: "emine-hanim-sebili"
 description: "## Emine Hanım Sebili: Fatih'te Bir Çeşmenin Tarihi ve Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9283237,41.0033073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emine Hanım Sebili: Fatih'te Bir Çeşmenin Tarihi ve Özellikleri

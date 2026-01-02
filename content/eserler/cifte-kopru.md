@@ -1,18 +1,17 @@
 ---
-title: "Çifte Köprü | Miras Haritası"
-date: 2025-12-25T01:56:24+03:00
+title: "Çifte Köprü"
+date: "2025-12-25T01:56:24+03:00"
 slug: "cifte-kopru"
 description: "### Çifte Köprü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Artvin-2611076.jpg/1200px-Artvin-2611076.jpg"
 province: "Arhavi ilçesi"
-iller: ["Arhavi ilçesi"]
+iller: '["Arhavi ilçesi"]'
 district: "Arhavi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.37598,41.27653"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çifte Köprü

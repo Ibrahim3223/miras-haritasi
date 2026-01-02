@@ -1,18 +1,17 @@
 ---
-title: "Tekkale Camii | Miras Haritası"
-date: 2025-12-25T00:20:37+03:00
+title: "Tekkale Camii"
+date: "2025-12-25T00:20:37+03:00"
 slug: "tekkale-camii"
 description: "## Tekkale Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.507847,40.780318"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekkale Camii

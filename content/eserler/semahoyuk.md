@@ -1,18 +1,17 @@
 ---
-title: "Semahöyük | Miras Haritası"
-date: 2025-12-25T06:58:01+03:00
+title: "Semahöyük"
+date: "2025-12-25T06:58:01+03:00"
 slug: "semahoyuk"
 description: "### Semahöyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Semahöyük: Tarih ve Kültür Mirasının Gizemi

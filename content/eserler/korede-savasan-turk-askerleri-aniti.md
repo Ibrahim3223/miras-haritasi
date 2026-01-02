@@ -1,18 +1,17 @@
 ---
-title: "Kore'de Savaşan Türk Askerleri Anıtı | Miras Haritası"
-date: 2025-12-25T15:39:59+03:00
+title: "Kore'de Savaşan Türk Askerleri Anıtı"
+date: "2025-12-25T15:39:59+03:00"
 slug: "korede-savasan-turk-askerleri-aniti"
 description: "## Kore'de Savaşan Türk Askerleri Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kore_Savaşı_Anıtı,_Ankara.jpg/1200px-Kore_Savaşı_Anıtı,_Ankara.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.84161667,39.93901111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kore'de Savaşan Türk Askerleri Anıtı

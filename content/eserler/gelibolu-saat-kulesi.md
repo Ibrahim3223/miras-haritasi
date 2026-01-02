@@ -1,18 +1,17 @@
 ---
-title: "Gelibolu Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:47+03:00
+title: "Gelibolu Saat Kulesi"
+date: "2025-12-25T17:19:47+03:00"
 slug: "gelibolu-saat-kulesi"
 description: "## Gelibolu Saat Kulesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "26.671388888,40.407083333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gelibolu Saat Kulesi

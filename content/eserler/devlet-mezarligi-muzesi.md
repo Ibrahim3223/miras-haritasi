@@ -1,18 +1,17 @@
 ---
-title: "Devlet Mezarlığı Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:18+03:00
+title: "Devlet Mezarlığı Müzesi"
+date: "2025-12-25T03:58:18+03:00"
 slug: "devlet-mezarligi-muzesi"
 description: "## Devlet Mezarlığı Müzesi: Türkiye'nin Tarihsel Mirasının Gizemi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8069229,39.9368973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Devlet Mezarlığı Müzesi: Türkiye'nin Tarihsel Mirasının Gizemi

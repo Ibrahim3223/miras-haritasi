@@ -1,18 +1,17 @@
 ---
-title: "Cevher Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:51+03:00
+title: "Cevher Paşa Hamamı"
+date: "2025-12-25T17:03:51+03:00"
 slug: "cevher-pasa-hamami"
 description: "### Cevher Paşa Hamamı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Kale"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.8441639,37.4330902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cevher Paşa Hamamı

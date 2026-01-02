@@ -1,18 +1,17 @@
 ---
-title: "Abdullah Gül Kütüphanesi | Miras Haritası"
-date: 2025-12-25T03:44:01+03:00
+title: "Abdullah Gül Kütüphanesi"
+date: "2025-12-25T03:44:01+03:00"
 slug: "abdullah-gul-kutuphanesi"
 description: "## Abdullah Gül Kütüphanesi: Kayseri'nin Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Abdullah_Gül_Museum_and_Library_(2).jpg/1200px-Abdullah_Gül_Museum_and_Library_(2).jpg"
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.472929,38.738379"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Abdullah Gül Kütüphanesi: Kayseri'nin Kültür Mirası

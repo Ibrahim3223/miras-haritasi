@@ -1,18 +1,17 @@
 ---
-title: "Gelebeç Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:12+03:00
+title: "Gelebeç Çeşmesi"
+date: "2025-12-25T10:31:12+03:00"
 slug: "gelebec-cesmesi"
 description: "## Gelebeç Çeşmesi: Aydın'ın Zümrütlü Köyü'ndeki Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3123665,37.6686287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gelebeç Çeşmesi: Aydın'ın Zümrütlü Köyü'ndeki Tarihi Bir Çeşme

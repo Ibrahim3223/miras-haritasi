@@ -1,18 +1,17 @@
 ---
-title: "Kayseri Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:17:16+03:00
+title: "Kayseri Arkeoloji Müzesi"
+date: "2025-12-25T03:17:16+03:00"
 slug: "kayseri-arkeoloji-muzesi"
 description: "## Kayseri Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kayseri_Herakles_Lahdi_1.JPG/1200px-Kayseri_Herakles_Lahdi_1.JPG"
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kayseri"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.488611111,38.721388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kayseri Arkeoloji Müzesi

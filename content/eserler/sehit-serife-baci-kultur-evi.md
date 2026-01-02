@@ -1,18 +1,17 @@
 ---
-title: "Şehit Şerife Bacı Kültür Evi | Miras Haritası"
-date: 2025-12-25T04:06:33+03:00
+title: "Şehit Şerife Bacı Kültür Evi"
+date: "2025-12-25T04:06:33+03:00"
 slug: "sehit-serife-baci-kultur-evi"
 description: "## Şehit Şerife Bacı Kültür Evi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Seydiler"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.7183113,41.6174698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehit Şerife Bacı Kültür Evi

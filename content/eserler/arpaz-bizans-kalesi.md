@@ -1,18 +1,17 @@
 ---
-title: "Arpaz Bizans Kalesi | Miras Haritası"
-date: 2025-12-25T01:24:59+03:00
+title: "Arpaz Bizans Kalesi"
+date: "2025-12-25T01:24:59+03:00"
 slug: "arpaz-bizans-kalesi"
 description: "## Arpaz Bizans Kalesi: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.352747,37.8022385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arpaz Bizans Kalesi: Aydın'ın Gizli Cenneti

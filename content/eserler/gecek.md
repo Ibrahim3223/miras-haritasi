@@ -1,18 +1,17 @@
 ---
-title: "Gecek | Miras Haritası"
-date: 2025-12-25T05:36:14+03:00
+title: "Gecek"
+date: "2025-12-25T05:36:14+03:00"
 slug: "gecek"
 description: "## Gecek Arkeolojik Sit..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.067317,39.083833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gecek Arkeolojik Sit

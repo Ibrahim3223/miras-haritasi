@@ -1,18 +1,17 @@
 ---
-title: "Hisarönü Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:43+03:00
+title: "Hisarönü Mahallesi Çeşmesi"
+date: "2025-12-25T10:26:43+03:00"
 slug: "hisaronu-mahallesi-cesmesi"
 description: "### Hisarönü Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8598633,39.940918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hisarönü Mahallesi Çeşmesi

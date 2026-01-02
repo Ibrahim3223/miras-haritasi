@@ -1,18 +1,17 @@
 ---
-title: "Aziz Basil Şapeli | Miras Haritası"
-date: 2025-12-25T09:43:25+03:00
+title: "Aziz Basil Şapeli"
+date: "2025-12-25T09:43:25+03:00"
 slug: "aziz-basil-sapeli"
 description: "## Aziz Basil Şapeli..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.845178127,38.638905548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Basil Şapeli

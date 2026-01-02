@@ -1,18 +1,17 @@
 ---
-title: "Perkote | Miras Haritası"
-date: 2025-12-25T04:30:11+03:00
+title: "Perkote"
+date: "2025-12-25T04:30:11+03:00"
 slug: "perkote"
 description: "## Perkote Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Lapseki"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.588806,40.273913"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perkote Arkeolojik Sit

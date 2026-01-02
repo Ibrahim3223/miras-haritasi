@@ -1,18 +1,17 @@
 ---
-title: "Firuz Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:37:57+03:00
+title: "Firuz Ağa Camii"
+date: "2025-12-24T21:37:57+03:00"
 slug: "firuz-aga-camii"
 description: "## Firuz Ağa Camii: İstanbul'un Eski Şehir Merkezi'ndeki Bir Gizem..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Firuz_Ağa_Camii.jpg/1200px-Firuz_Ağa_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.97629,41.007708"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Firuz Ağa Camii: İstanbul'un Eski Şehir Merkezi'ndeki Bir Gizem

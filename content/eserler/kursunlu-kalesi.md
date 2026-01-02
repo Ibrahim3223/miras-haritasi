@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Kalesi | Miras Haritası"
-date: 2025-12-25T01:17:24+03:00
+title: "Kurşunlu Kalesi"
+date: "2025-12-25T01:17:24+03:00"
 slug: "kursunlu-kalesi"
 description: "**Kurşunlu Kalesi**..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Sarayönü"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.4340324,38.1538124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kurşunlu Kalesi**

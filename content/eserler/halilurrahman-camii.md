@@ -1,18 +1,17 @@
 ---
-title: "Halilürrahman Camii | Miras Haritası"
-date: 2025-12-24T23:33:10+03:00
+title: "Halilürrahman Camii"
+date: "2025-12-24T23:33:10+03:00"
 slug: "halilurrahman-camii"
 description: "### Halilürrahman Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Halilnur_rahman_cami.jpg/1200px-Halilnur_rahman_cami.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7837906,37.1476402"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Halilürrahman Camii

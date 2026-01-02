@@ -1,18 +1,17 @@
 ---
-title: "Ebu’l Fütuh Camii | Miras Haritası"
-date: 2025-12-24T22:35:22+03:00
+title: "Ebu’l Fütuh Camii"
+date: "2025-12-24T22:35:22+03:00"
 slug: "ebul-futuh-camii"
 description: "# Ebu'l Fütuh Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.9785309,36.0836716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ebu'l Fütuh Camii

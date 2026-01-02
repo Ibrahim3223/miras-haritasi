@@ -1,18 +1,17 @@
 ---
-title: "Karatepe Katliamı | Miras Haritası"
-date: 2025-12-25T15:44:49+03:00
+title: "Karatepe Katliamı"
+date: "2025-12-25T15:44:49+03:00"
 slug: "karatepe-katliami"
 description: "## Karatepe Katliamı Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Köşk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.0832214,37.9201393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karatepe Katliamı Anıtı

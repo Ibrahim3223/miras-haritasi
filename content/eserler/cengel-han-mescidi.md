@@ -1,18 +1,17 @@
 ---
-title: "Çengel Han Mescidi | Miras Haritası"
-date: 2025-12-25T00:47:40+03:00
+title: "Çengel Han Mescidi"
+date: "2025-12-25T00:47:40+03:00"
 slug: "cengel-han-mescidi"
 description: "# Çengel Han Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8635597,39.9369049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çengel Han Mescidi

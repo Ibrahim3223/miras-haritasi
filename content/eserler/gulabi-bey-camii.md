@@ -1,18 +1,17 @@
 ---
-title: "Gülabi Bey Camii | Miras Haritası"
-date: 2025-12-24T23:25:28+03:00
+title: "Gülabi Bey Camii"
+date: "2025-12-24T23:25:28+03:00"
 slug: "gulabi-bey-camii"
 description: "## Gülabi Bey Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.3184929,37.756813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülabi Bey Camii

@@ -1,18 +1,17 @@
 ---
-title: "Tarım ve Biyoçeşitlilik Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:44+03:00
+title: "Tarım ve Biyoçeşitlilik Müzesi"
+date: "2025-12-25T04:05:44+03:00"
 slug: "tarim-ve-biyocesitlilik-muzesi"
 description: "## Tarım ve Biyoçeşitlilik Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.745440065,39.89934514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarım ve Biyoçeşitlilik Müzesi

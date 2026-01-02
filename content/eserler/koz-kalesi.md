@@ -1,18 +1,17 @@
 ---
-title: "Koz Kalesi | Miras Haritası"
-date: 2025-12-25T01:12:13+03:00
+title: "Koz Kalesi"
+date: "2025-12-25T01:12:13+03:00"
 slug: "koz-kalesi"
 description: "## Koz Kalesi: Altınözü'ndeki Bir Tarih Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kozkalesi.jpg/1200px-Kozkalesi.jpg"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Altınözü"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.19277778,36.10388889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Koz Kalesi: Altınözü'ndeki Bir Tarih Öreni

@@ -1,18 +1,17 @@
 ---
-title: "Rabi Medresesi Avlu Çeşmeleri | Miras Haritası"
-date: 2025-12-25T12:39:18+03:00
+title: "Rabi Medresesi Avlu Çeşmeleri"
+date: "2025-12-25T12:39:18+03:00"
 slug: "rabi-medresesi-avlu-cesmeleri"
 description: "## Rabi Medresesi Avlu Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9654617,41.0160561"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rabi Medresesi Avlu Çeşmeleri

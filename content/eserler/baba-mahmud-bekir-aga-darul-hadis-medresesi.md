@@ -1,18 +1,17 @@
 ---
-title: "Baba Mahmud Bekir Ağa Darü’l-Hadis Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:31+03:00
+title: "Baba Mahmud Bekir Ağa Darü’l-Hadis Medresesi"
+date: "2025-12-25T17:44:31+03:00"
 slug: "baba-mahmud-bekir-aga-darul-hadis-medresesi"
 description: "## Baba Mahmud Bekir Ağa Darü'l-Hadis Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9523506,41.0137939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baba Mahmud Bekir Ağa Darü'l-Hadis Medresesi

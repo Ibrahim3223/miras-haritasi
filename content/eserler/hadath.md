@@ -1,18 +1,17 @@
 ---
-title: "Hadath | Miras Haritası"
-date: 2025-12-25T04:30:55+03:00
+title: "Hadath"
+date: "2025-12-25T04:30:55+03:00"
 slug: "hadath"
 description: "### Hadath Arkeolojik Sit: Türkiye'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.46,37.707"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hadath Arkeolojik Sit: Türkiye'nin Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şekerli Camii | Miras Haritası"
-date: 2025-12-24T23:10:38+03:00
+title: "Şekerli Camii"
+date: "2025-12-24T23:10:38+03:00"
 slug: "sekerli-camii"
 description: "## Şekerli Camii: Kahramanmaraş'ta Bir Tarihî Cennet..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9308319,37.583374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şekerli Camii: Kahramanmaraş'ta Bir Tarihî Cennet

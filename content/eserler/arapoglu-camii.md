@@ -1,18 +1,17 @@
 ---
-title: "Arapoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:15:13+03:00
+title: "Arapoğlu Camii"
+date: "2025-12-24T22:15:13+03:00"
 slug: "arapoglu-camii"
 description: "## Arapoğlu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2203369,37.1795845"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arapoğlu Camii

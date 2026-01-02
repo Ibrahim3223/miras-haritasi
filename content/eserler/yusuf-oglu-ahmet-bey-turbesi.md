@@ -1,18 +1,17 @@
 ---
-title: "Yusuf Oğlu Ahmet Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:30:18+03:00
+title: "Yusuf Oğlu Ahmet Bey Türbesi"
+date: "2025-12-25T15:30:18+03:00"
 slug: "yusuf-oglu-ahmet-bey-turbesi"
 description: "## Yusuf Oğlu Ahmet Bey Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.920304525,38.707209655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuf Oğlu Ahmet Bey Türbesi

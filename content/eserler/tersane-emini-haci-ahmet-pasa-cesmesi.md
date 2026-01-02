@@ -1,18 +1,17 @@
 ---
-title: "Tersane Emini Hacı Ahmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:35:34+03:00
+title: "Tersane Emini Hacı Ahmet Paşa Çeşmesi"
+date: "2025-12-25T10:35:34+03:00"
 slug: "tersane-emini-haci-ahmet-pasa-cesmesi"
 description: "## Tersane Emini Hacı Ahmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9641457,41.0333481"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tersane Emini Hacı Ahmet Paşa Çeşmesi

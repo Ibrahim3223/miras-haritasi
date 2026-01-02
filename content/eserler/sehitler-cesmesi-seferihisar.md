@@ -1,18 +1,17 @@
 ---
-title: "Şehitler Çeşmesi, Seferihisar | Miras Haritası"
-date: 2025-12-25T12:53:41+03:00
+title: "Şehitler Çeşmesi, Seferihisar"
+date: "2025-12-25T12:53:41+03:00"
 slug: "sehitler-cesmesi-seferihisar"
 description: "### Şehitler Çeşmesi, Seferihisar..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.8352432,38.1950722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şehitler Çeşmesi, Seferihisar

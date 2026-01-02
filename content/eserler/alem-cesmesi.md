@@ -1,18 +1,17 @@
 ---
-title: "Alem Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:43+03:00
+title: "Alem Çeşmesi"
+date: "2025-12-25T10:44:43+03:00"
 slug: "alem-cesmesi"
 description: "## Alem Çeşmesi: Eskişehir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5263615,39.7625542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alem Çeşmesi: Eskişehir'in Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayanlar | Miras Haritası"
-date: 2025-12-25T06:07:12+03:00
+title: "Ayanlar"
+date: "2025-12-25T06:07:12+03:00"
 slug: "ayanlar"
 description: "## Ayanlar: Şanlıurfa'daki bir Arkeolojik Sit..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Karaköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.5607338,37.1853104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayanlar: Şanlıurfa'daki bir Arkeolojik Sit

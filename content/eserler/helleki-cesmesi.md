@@ -1,18 +1,17 @@
 ---
-title: "Helleki Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:01:08+03:00
+title: "Helleki Çeşmesi"
+date: "2025-12-25T12:01:08+03:00"
 slug: "helleki-cesmesi"
 description: "## Helleki Çeşmesi: Çeşme'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3192081,38.3198776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Helleki Çeşmesi: Çeşme'nin Tarihi Bir Mirası

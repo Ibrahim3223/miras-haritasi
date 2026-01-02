@@ -1,18 +1,17 @@
 ---
-title: "Kalaba Tümülüsü, Akyurt | Miras Haritası"
-date: 2025-12-25T07:22:57+03:00
+title: "Kalaba Tümülüsü, Akyurt"
+date: "2025-12-25T07:22:57+03:00"
 slug: "kalaba-tumulusu-akyurt"
 description: "## Kalaba Tümülüsü: Akyurt'taki Antik Mirasın Gizemi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Akyurt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.0783691,40.147049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalaba Tümülüsü: Akyurt'taki Antik Mirasın Gizemi

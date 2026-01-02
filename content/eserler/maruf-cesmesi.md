@@ -1,18 +1,17 @@
 ---
-title: "Maruf Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:20+03:00
+title: "Maruf Çeşmesi"
+date: "2025-12-25T10:23:20+03:00"
 slug: "maruf-cesmesi"
 description: "## Maruf Çeşmesi: Kütahya'nın Görsel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9731121,39.4211159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maruf Çeşmesi: Kütahya'nın Görsel Mirası

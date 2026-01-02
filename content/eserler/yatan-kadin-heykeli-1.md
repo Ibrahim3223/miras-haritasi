@@ -1,18 +1,17 @@
 ---
-title: "Yatan Kadın Heykeli 1 | Miras Haritası"
-date: 2025-12-25T12:08:54+03:00
+title: "Yatan Kadın Heykeli 1"
+date: "2025-12-25T12:08:54+03:00"
 slug: "yatan-kadin-heykeli-1"
 description: "### Yatan Kadın Heykeli 1: Konak, İzmir'deki Tarihi Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Izmir_Sculpture_in_Kültürpark_6202.jpg/1200px-Izmir_Sculpture_in_Kültürpark_6202.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.144916666,38.429166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yatan Kadın Heykeli 1: Konak, İzmir'deki Tarihi Bir Çeşme

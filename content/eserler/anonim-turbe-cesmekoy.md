@@ -1,18 +1,17 @@
 ---
-title: "Anonim Türbe, Çeşmeköy | Miras Haritası"
-date: 2025-12-25T15:33:22+03:00
+title: "Anonim Türbe, Çeşmeköy"
+date: "2025-12-25T15:33:22+03:00"
 slug: "anonim-turbe-cesmekoy"
 description: "## Anonim Türbe, Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3288364,38.3068237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anonim Türbe, Çeşme

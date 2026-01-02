@@ -1,18 +1,17 @@
 ---
-title: "Kurt Dere Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:53+03:00
+title: "Kurt Dere Tümülüsü"
+date: "2025-12-25T08:04:53+03:00"
 slug: "kurt-dere-tumulusu"
 description: "## Kurt Dere Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8627625,41.2610016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurt Dere Tümülüsü: Edirne'nin Gizli Mirası

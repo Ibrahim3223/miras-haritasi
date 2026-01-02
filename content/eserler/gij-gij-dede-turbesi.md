@@ -1,18 +1,17 @@
 ---
-title: "Gıj Gıj Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:16+03:00
+title: "Gıj Gıj Dede Türbesi"
+date: "2025-12-25T14:26:16+03:00"
 slug: "gij-gij-dede-turbesi"
 description: "**Gıj Gıj Dede Türbesi**..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.568837,40.314819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gıj Gıj Dede Türbesi**

@@ -1,18 +1,17 @@
 ---
-title: "Church of Living Water, Istanbul | Miras Haritası"
-date: 2025-12-25T08:45:16+03:00
+title: "Church of Living Water, Istanbul"
+date: "2025-12-25T08:45:16+03:00"
 slug: "church-of-living-water-istanbul"
 description: "### Church of Living Water, İstanbul..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Church of Living Water, İstanbul

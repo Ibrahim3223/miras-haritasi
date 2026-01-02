@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs S-2 | Miras Haritası"
-date: 2025-12-25T07:57:55+03:00
+title: "Gordion Tümülüs S-2"
+date: "2025-12-25T07:57:55+03:00"
 slug: "gordion-tumulus-s-2"
 description: "## Gordion Tümülüs S-2: Polatlı'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.990137,39.636902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gordion Tümülüs S-2: Polatlı'nın Gizli Hazineleri

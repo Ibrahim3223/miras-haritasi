@@ -1,18 +1,17 @@
 ---
-title: "Cık Cık Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:28+03:00
+title: "Cık Cık Hamamı"
+date: "2025-12-25T16:40:28+03:00"
 slug: "cik-cik-hamami"
 description: "## Cık Cık Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0215721,40.2025414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cık Cık Hamamı

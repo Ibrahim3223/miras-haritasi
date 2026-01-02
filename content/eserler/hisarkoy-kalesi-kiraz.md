@@ -1,18 +1,17 @@
 ---
-title: "Hisarköy Kalesi, Kiraz | Miras Haritası"
-date: 2025-12-25T01:35:10+03:00
+title: "Hisarköy Kalesi, Kiraz"
+date: "2025-12-25T01:35:10+03:00"
 slug: "hisarkoy-kalesi-kiraz"
 description: "## Hisarköy Kalesi, Kiraz: İzmir'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kiraz"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.189995,38.242183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hisarköy Kalesi, Kiraz: İzmir'in Gizli Çehresini Keşfedin

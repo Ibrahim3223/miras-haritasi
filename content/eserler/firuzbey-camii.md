@@ -1,18 +1,17 @@
 ---
-title: "Firuzbey Camii | Miras Haritası"
-date: 2025-12-24T21:39:31+03:00
+title: "Firuzbey Camii"
+date: "2025-12-24T21:39:31+03:00"
 slug: "firuzbey-camii"
 description: "### Firuzbey Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Milas_Firuz_Paşa_Camii_5205.jpg/1200px-Milas_Firuz_Paşa_Camii_5205.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.780083333,37.317888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Firuzbey Camii Tanıtımı

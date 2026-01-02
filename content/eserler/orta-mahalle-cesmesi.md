@@ -1,18 +1,17 @@
 ---
-title: "Orta Mahalle Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:33+03:00
+title: "Orta Mahalle Çeşmesi"
+date: "2025-12-25T10:27:33+03:00"
 slug: "orta-mahalle-cesmesi"
 description: "### Orta Mahalle Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.85289,37.8449326"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Orta Mahalle Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi

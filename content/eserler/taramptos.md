@@ -1,18 +1,17 @@
 ---
-title: "Taramptos | Miras Haritası"
-date: 2025-12-25T05:23:28+03:00
+title: "Taramptos"
+date: "2025-12-25T05:23:28+03:00"
 slug: "taramptos"
 description: "# Taramptos: Muğla'nın Gizli Çırağı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.49,37.141111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Taramptos: Muğla'nın Gizli Çırağı

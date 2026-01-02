@@ -1,18 +1,17 @@
 ---
-title: "Magastara | Miras Haritası"
-date: 2025-12-25T05:10:12+03:00
+title: "Magastara"
+date: "2025-12-25T05:10:12+03:00"
 slug: "magastara"
 description: "## Magastara: Burdur'un Gizli Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Burdur"
+province: "Burdur"
+iller: '["Burdur"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.388773,37.716197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Magastara: Burdur'un Gizli Harikası

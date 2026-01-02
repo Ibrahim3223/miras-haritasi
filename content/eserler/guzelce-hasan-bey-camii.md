@@ -1,18 +1,17 @@
 ---
-title: "Güzelce Hasan Bey Camii | Miras Haritası"
-date: 2025-12-24T23:27:04+03:00
+title: "Güzelce Hasan Bey Camii"
+date: "2025-12-24T23:27:04+03:00"
 slug: "guzelce-hasan-bey-camii"
 description: "### Güzelce Hasan Bey Camii: Hayrabolu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Hayrabolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1061306,41.2146187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güzelce Hasan Bey Camii: Hayrabolu'nun Tarihi ve Kültürel Mirası

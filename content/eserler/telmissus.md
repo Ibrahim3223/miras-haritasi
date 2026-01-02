@@ -1,18 +1,17 @@
 ---
-title: "Telmissus | Miras Haritası"
-date: 2025-12-25T08:08:03+03:00
+title: "Telmissus"
+date: "2025-12-25T08:08:03+03:00"
 slug: "telmissus"
 description: "### Telmissus: Bodrum'un Eski Kenti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.319,37.0488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Telmissus: Bodrum'un Eski Kenti

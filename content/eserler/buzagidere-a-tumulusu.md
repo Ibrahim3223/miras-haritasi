@@ -1,18 +1,17 @@
 ---
-title: "Buzağıdere A Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:02:00+03:00
+title: "Buzağıdere A Tümülüsü"
+date: "2025-12-25T08:02:00+03:00"
 slug: "buzagidere-a-tumulusu"
 description: "## Buzağıdere A Tümülüsü: Tarihî Mirasın Gizemli Yeri..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7828541,41.5462265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Buzağıdere A Tümülüsü: Tarihî Mirasın Gizemli Yeri

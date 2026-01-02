@@ -1,18 +1,17 @@
 ---
-title: "Hacı Şeyh Camii, İkizdere | Miras Haritası"
-date: 2025-12-24T23:59:00+03:00
+title: "Hacı Şeyh Camii, İkizdere"
+date: "2025-12-24T23:59:00+03:00"
 slug: "haci-seyh-camii-ikizdere"
 description: "## Hacı Şeyh Camii: İkizdere'nin Tarihi Zirvesi..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.473954,40.8252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Şeyh Camii: İkizdere'nin Tarihi Zirvesi

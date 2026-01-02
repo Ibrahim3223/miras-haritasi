@@ -1,18 +1,17 @@
 ---
-title: "Kemal Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:55+03:00
+title: "Kemal Baba Türbesi"
+date: "2025-12-25T15:19:55+03:00"
 slug: "kemal-baba-turbesi"
 description: "## Kemal Baba Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.030863,38.372437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemal Baba Türbesi

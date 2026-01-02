@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Bey Mescidi, Edirne | Miras Haritası"
-date: 2025-12-25T00:39:02+03:00
+title: "İbrahim Bey Mescidi, Edirne"
+date: "2025-12-25T00:39:02+03:00"
 slug: "ibrahim-bey-mescidi-edirne"
 description: "## İbrahim Bey Mescidi: Edirne'nin Tarihi Bir Camisi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5531368,41.6773224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Bey Mescidi: Edirne'nin Tarihi Bir Camisi

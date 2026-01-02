@@ -1,18 +1,17 @@
 ---
-title: "İkiztepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:16:10+03:00
+title: "İkiztepe Tümülüsü"
+date: "2025-12-25T07:16:10+03:00"
 slug: "ikiztepe-tumulusu"
 description: "**İkiztepe Tümülüsü: İzmir'in Gizli Anıtı**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.17222,39.10552"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İkiztepe Tümülüsü: İzmir'in Gizli Anıtı**

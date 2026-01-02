@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Altıntepe | Miras Haritası"
-date: 2025-12-25T03:01:02+03:00
+title: "Roma Köprüsü, Altıntepe"
+date: "2025-12-25T03:01:02+03:00"
 slug: "roma-koprusu-altintepe"
 description: "## Roma Köprüsü, Altıntepe..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menderes"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.1631104,38.2301349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Altıntepe

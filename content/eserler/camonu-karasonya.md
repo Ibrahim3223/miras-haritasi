@@ -1,18 +1,17 @@
 ---
-title: "Çamönü (Karasonya) | Miras Haritası"
-date: 2025-12-25T05:45:34+03:00
+title: "Çamönü (Karasonya)"
+date: "2025-12-25T05:45:34+03:00"
 slug: "camonu-karasonya"
 description: "## Çamönü (Karasonya): Akhisar'ın Gizli Çehresi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.889702,38.971108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamönü (Karasonya): Akhisar'ın Gizli Çehresi

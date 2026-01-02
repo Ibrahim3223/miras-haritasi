@@ -1,18 +1,17 @@
 ---
-title: "Mor Efrem Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:38+03:00
+title: "Mor Efrem Kilisesi"
+date: "2025-12-25T09:40:38+03:00"
 slug: "mor-efrem-kilisesi"
 description: "## Mor Efrem Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.7287979,37.3137741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mor Efrem Kilisesi

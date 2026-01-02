@@ -1,18 +1,17 @@
 ---
-title: "İmam Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T11:59:20+03:00
+title: "İmam Çeşmesi, Çeşme"
+date: "2025-12-25T11:59:20+03:00"
 slug: "imam-cesmesi-cesme"
 description: "### İmam Çeşmesi: Çeşme'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3078003,38.3120804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İmam Çeşmesi: Çeşme'nin Tarihi Bir Mirası

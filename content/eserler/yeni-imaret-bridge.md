@@ -1,18 +1,17 @@
 ---
-title: "Yeni Imaret Bridge | Miras Haritası"
-date: 2025-12-25T01:58:09+03:00
+title: "Yeni Imaret Bridge"
+date: "2025-12-25T01:58:09+03:00"
 slug: "yeni-imaret-bridge"
 description: "## Yeni Imaret Köprüsü: Edirne'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Imaret Köprüsü: Edirne'nin Tarihi ve Kültürel Mirası

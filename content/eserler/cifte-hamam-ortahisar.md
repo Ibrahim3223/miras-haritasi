@@ -1,18 +1,17 @@
 ---
-title: "Çifte Hamam, Ortahisar | Miras Haritası"
-date: 2025-12-25T17:05:36+03:00
+title: "Çifte Hamam, Ortahisar"
+date: "2025-12-25T17:05:36+03:00"
 slug: "cifte-hamam-ortahisar"
 description: "## Çifte Hamam, Ortahisar: Trabzon'un Tarihi Bir Zenginliği..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.7202263,41.0056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çifte Hamam, Ortahisar: Trabzon'un Tarihi Bir Zenginliği

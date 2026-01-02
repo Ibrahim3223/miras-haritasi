@@ -1,18 +1,17 @@
 ---
-title: "Pekmez Höyüğü, Geyre | Miras Haritası"
-date: 2025-12-25T05:57:58+03:00
+title: "Pekmez Höyüğü, Geyre"
+date: "2025-12-25T05:57:58+03:00"
 slug: "pekmez-hoyugu-geyre"
 description: "## Pekmez Höyüğü, Geyre: Aydın'ın Eski Uygarlık Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.7246132,37.7071266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pekmez Höyüğü, Geyre: Aydın'ın Eski Uygarlık Mirası

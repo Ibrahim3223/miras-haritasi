@@ -1,18 +1,17 @@
 ---
-title: "Gerger Kalesi | Miras Haritası"
-date: 2025-12-25T01:14:59+03:00
+title: "Gerger Kalesi"
+date: "2025-12-25T01:14:59+03:00"
 slug: "gerger-kalesi"
 description: "## Gerger Kalesi: Güneydoğu Anadolu Bölgesi'nin Gizli Çehresi..."
 featured_image: ""
 province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
+iller: '["Güneydoğu Anadolu Bölgesi"]'
 district: "Gerger"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.016335,37.957209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gerger Kalesi: Güneydoğu Anadolu Bölgesi'nin Gizli Çehresi

@@ -1,18 +1,17 @@
 ---
-title: "Damat İbrahim Paşa Çeşmesi, İskenderpaşa | Miras Haritası"
-date: 2025-12-25T12:16:04+03:00
+title: "Damat İbrahim Paşa Çeşmesi, İskenderpaşa"
+date: "2025-12-25T12:16:04+03:00"
 slug: "damat-ibrahim-pasa-cesmesi-iskenderpasa"
 description: "## Damat İbrahim Paşa Çeşmesi, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.946936,41.014957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damat İbrahim Paşa Çeşmesi, İskenderpaşa

@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:19:40+03:00
+title: "Yeni Cami Sokak Çeşmesi"
+date: "2025-12-25T10:19:40+03:00"
 slug: "yeni-cami-sokak-cesmesi"
 description: "### Yeni Cami Sokak Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Akçaabat"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.5666809,41.0209579"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeni Cami Sokak Çeşmesi

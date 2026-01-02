@@ -1,18 +1,17 @@
 ---
-title: "III. Osman Taşlığı Çeşmeleri | Miras Haritası"
-date: 2025-12-25T12:38:25+03:00
+title: "III. Osman Taşlığı Çeşmeleri"
+date: "2025-12-25T12:38:25+03:00"
 slug: "iii-osman-tasligi-cesmeleri"
 description: "## III. Osman Taşlığı Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9830189,41.0135612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## III. Osman Taşlığı Çeşmeleri

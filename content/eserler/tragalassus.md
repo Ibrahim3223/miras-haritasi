@@ -1,18 +1,17 @@
 ---
-title: "Tragalassus | Miras Haritası"
-date: 2025-12-25T05:40:26+03:00
+title: "Tragalassus"
+date: "2025-12-25T05:40:26+03:00"
 slug: "tragalassus"
 description: "## Tragalassus: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.8459,36.3189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tragalassus: Tarihî Bir Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Büyük Höyük, Kırıkhan | Miras Haritası"
-date: 2025-12-25T13:45:06+03:00
+title: "Büyük Höyük, Kırıkhan"
+date: "2025-12-25T13:45:06+03:00"
 slug: "buyuk-hoyuk-kirikhan"
 description: "# Büyük Höyük, Kırıkhan..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.3922304,36.5643201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Büyük Höyük, Kırıkhan

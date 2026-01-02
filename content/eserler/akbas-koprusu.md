@@ -1,18 +1,17 @@
 ---
-title: "Akbaş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:45+03:00
+title: "Akbaş Köprüsü"
+date: "2025-12-25T02:16:45+03:00"
 slug: "akbas-koprusu"
 description: "## Akbaş Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çerkeş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.8316035,40.9054944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akbaş Köprüsü: Tarihi ve Kültürel Bir Miras

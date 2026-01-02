@@ -1,18 +1,17 @@
 ---
-title: "Pirili Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:59+03:00
+title: "Pirili Köyü Çeşmesi"
+date: "2025-12-25T10:15:59+03:00"
 slug: "pirili-koyu-cesmesi"
 description: "### Pirili Köyü Çeşmesi: Alucra'nın Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Alucra"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.787663,40.323902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pirili Köyü Çeşmesi: Alucra'nın Değerli Kültürel Mirası

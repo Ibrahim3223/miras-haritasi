@@ -1,18 +1,17 @@
 ---
-title: "Albay Lake Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:26+03:00
+title: "Albay Lake Köprüsü"
+date: "2025-12-25T02:30:26+03:00"
 slug: "albay-lake-koprusu"
 description: "## Albay Lake Köprüsü..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "43.09928,40.62229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Albay Lake Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Melik Mehmet Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:38+03:00
+title: "Melik Mehmet Gazi Türbesi"
+date: "2025-12-25T14:17:38+03:00"
 slug: "melik-mehmet-gazi-turbesi"
 description: "## Melik Mehmet Gazi Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4857368,38.7196045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Melik Mehmet Gazi Türbesi

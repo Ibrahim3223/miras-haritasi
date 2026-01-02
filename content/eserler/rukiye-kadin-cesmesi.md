@@ -1,18 +1,17 @@
 ---
-title: "Rukiye Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:57+03:00
+title: "Rukiye Kadın Çeşmesi"
+date: "2025-12-25T10:33:57+03:00"
 slug: "rukiye-kadin-cesmesi"
 description: "## Rukiye Kadın Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Hobyar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.972185,41.016125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rukiye Kadın Çeşmesi

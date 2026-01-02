@@ -1,18 +1,17 @@
 ---
-title: "Hekatomnos Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:09:12+03:00
+title: "Hekatomnos Anıt Mezarı"
+date: "2025-12-25T14:09:12+03:00"
 slug: "hekatomnos-anit-mezari"
 description: "### Hekatomnos Anıt Mezarı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.78275,37.315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hekatomnos Anıt Mezarı

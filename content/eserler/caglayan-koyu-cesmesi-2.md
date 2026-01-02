@@ -1,18 +1,17 @@
 ---
-title: "Çağlayan Köyü Çeşmesi (2) | Miras Haritası"
-date: 2025-12-25T10:16:04+03:00
+title: "Çağlayan Köyü Çeşmesi (2)"
+date: "2025-12-25T10:16:04+03:00"
 slug: "caglayan-koyu-cesmesi-2"
 description: "## Çağlayan Köyü Çeşmesi (2): Yağlıdere'de Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.6075974,40.728611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlayan Köyü Çeşmesi (2): Yağlıdere'de Bir Önemli Kültürel Miras

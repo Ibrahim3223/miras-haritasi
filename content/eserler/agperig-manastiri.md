@@ -1,18 +1,17 @@
 ---
-title: "Ağperig Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:24+03:00
+title: "Ağperig Manastırı"
+date: "2025-12-25T09:51:24+03:00"
 slug: "agperig-manastiri"
 description: "### Ağperig Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Aghperig_Monastery_in_the_Sasun_Mountains,_East_Anatolia_03.jpg/1200px-Aghperig_Monastery_in_the_Sasun_Mountains,_East_Anatolia_03.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.598077,38.578456"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ağperig Manastırı

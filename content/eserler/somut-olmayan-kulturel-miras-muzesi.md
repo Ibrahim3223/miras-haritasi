@@ -1,18 +1,17 @@
 ---
-title: "Somut Olmayan Kültürel Miras Müzesi | Miras Haritası"
-date: 2025-12-25T04:11:11+03:00
+title: "Somut Olmayan Kültürel Miras Müzesi"
+date: "2025-12-25T04:11:11+03:00"
 slug: "somut-olmayan-kulturel-miras-muzesi"
 description: "## Somut Olmayan Kültürel Miras Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.864126,39.934205"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Somut Olmayan Kültürel Miras Müzesi

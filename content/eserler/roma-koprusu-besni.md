@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Besni | Miras Haritası"
-date: 2025-12-25T02:53:08+03:00
+title: "Roma Köprüsü, Besni"
+date: "2025-12-25T02:53:08+03:00"
 slug: "roma-koprusu-besni"
 description: "## Roma Köprüsü, Besni..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Besni"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.8655891,37.6718559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Besni

@@ -1,18 +1,17 @@
 ---
-title: "Çeribaşı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:02+03:00
+title: "Çeribaşı Camii Çeşmesi"
+date: "2025-12-25T11:15:02+03:00"
 slug: "ceribasi-camii-cesmesi"
 description: "## Çeribaşı Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.935594,41.046692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeribaşı Camii Çeşmesi

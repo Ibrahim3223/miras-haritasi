@@ -1,18 +1,17 @@
 ---
-title: "Soğuksu Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:38+03:00
+title: "Soğuksu Tümülüsü"
+date: "2025-12-25T08:03:38+03:00"
 slug: "soguksu-tumulusu"
 description: "### Soğuksu Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.928875,41.1744308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Soğuksu Tümülüsü: Edirne'nin Gizli Tarihi

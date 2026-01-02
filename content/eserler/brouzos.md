@@ -1,18 +1,17 @@
 ---
-title: "Brouzos | Miras Haritası"
-date: 2025-12-25T05:57:30+03:00
+title: "Brouzos"
+date: "2025-12-25T05:57:30+03:00"
 slug: "brouzos"
 description: "### Brouzos: Sandıklı'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.172544,38.528919"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Brouzos: Sandıklı'nın Gizli Ören Yeri

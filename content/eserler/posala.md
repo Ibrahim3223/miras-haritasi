@@ -1,18 +1,17 @@
 ---
-title: "Posala | Miras Haritası"
-date: 2025-12-25T05:12:05+03:00
+title: "Posala"
+date: "2025-12-25T05:12:05+03:00"
 slug: "posala"
 description: "### Posala: Geçmişe Yolculuk..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.877545,37.251463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Posala: Geçmişe Yolculuk

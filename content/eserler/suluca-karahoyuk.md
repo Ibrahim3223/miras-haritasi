@@ -1,18 +1,17 @@
 ---
-title: "Suluca Karahöyük | Miras Haritası"
-date: 2025-12-25T05:54:59+03:00
+title: "Suluca Karahöyük"
+date: "2025-12-25T05:54:59+03:00"
 slug: "suluca-karahoyuk"
 description: "## Suluca Karahöyük: Geçmişin Ölümsüz Anıtları..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.561405,38.946934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Suluca Karahöyük: Geçmişin Ölümsüz Anıtları

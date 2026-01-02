@@ -1,18 +1,17 @@
 ---
-title: "Milli Saraylar İstanbul Resim Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:44+03:00
+title: "Milli Saraylar İstanbul Resim Müzesi"
+date: "2025-12-25T03:49:44+03:00"
 slug: "milli-saraylar-istanbul-resim-muzesi"
 description: "## Milli Saraylar İstanbul Resim Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dolmabahçe_Palace_Crown_Prince’s_Apartment_in_2015_5930.jpg/1200px-Dolmabahçe_Palace_Crown_Prince’s_Apartment_in_2015_5930.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0026608,41.0396271"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Milli Saraylar İstanbul Resim Müzesi

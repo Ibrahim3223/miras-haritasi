@@ -1,18 +1,17 @@
 ---
-title: "Dengere Camii | Miras Haritası"
-date: 2025-12-24T22:37:23+03:00
+title: "Dengere Camii"
+date: "2025-12-24T22:37:23+03:00"
 slug: "dengere-camii"
 description: "### Dengere Camii: Burdur'un Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Çavdır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.776474,37.1102829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dengere Camii: Burdur'un Tarihi Bir Anıtı

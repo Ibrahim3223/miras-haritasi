@@ -1,18 +1,17 @@
 ---
-title: "Agios Yorgis Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:49+03:00
+title: "Agios Yorgis Manastırı"
+date: "2025-12-25T09:51:49+03:00"
 slug: "agios-yorgis-manastiri"
 description: "## Agios Yorgis Manastırı: Ayvalık'taki Bir Geçmiş Eser..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Patriça_Bay.JPG/1200px-Patriça_Bay.JPG"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "26.631831,39.369084"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Agios Yorgis Manastırı: Ayvalık'taki Bir Geçmiş Eser

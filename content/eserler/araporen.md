@@ -1,18 +1,17 @@
 ---
-title: "Arapören | Miras Haritası"
-date: 2025-12-25T05:31:36+03:00
+title: "Arapören"
+date: "2025-12-25T05:31:36+03:00"
 slug: "araporen"
 description: "## Arapören Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.844967,39.552867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arapören Arkeolojik Sit

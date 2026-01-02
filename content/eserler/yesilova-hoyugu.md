@@ -1,18 +1,17 @@
 ---
-title: "Yeşilova Höyüğü | Miras Haritası"
-date: 2025-12-25T07:10:35+03:00
+title: "Yeşilova Höyüğü"
+date: "2025-12-25T07:10:35+03:00"
 slug: "yesilova-hoyugu"
 description: "## Yeşilova Höyüğü: İzmir'nin Gizli Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Yeşilova_Höyüğü_01.png/1200px-Yeşilova_Höyüğü_01.png"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.214722222,38.441388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yeşilova Höyüğü: İzmir'nin Gizli Tarihî Mirası

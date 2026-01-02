@@ -1,18 +1,17 @@
 ---
-title: "Küçük Cami, Gümüşhane | Miras Haritası"
-date: 2025-12-25T01:06:32+03:00
+title: "Küçük Cami, Gümüşhane"
+date: "2025-12-25T01:06:32+03:00"
 slug: "kucuk-cami-gumushane"
 description: "## Küçük Cami, Gümüşhane..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.4529343,40.451931"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Cami, Gümüşhane

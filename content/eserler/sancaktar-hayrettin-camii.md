@@ -1,18 +1,18 @@
 ---
-title: "Sancaktar Hayrettin Camii | Miras Haritası"
-date: 2025-12-24T15:11:40+03:00
+title: "Sancaktar Hayrettin Camii"
+date: "2025-12-24T15:11:40+03:00"
 slug: "sancaktar-hayrettin-camii"
 description: "## Sancaktar Hayrettin Camii..."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sancaktar_Hayrettin_Mosque_6207.jpg/1200px-Sancaktar_Hayrettin_Mosque_6207.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.93466667,41.00275"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sancaktar_Hayrettin_Mosque_6207.jpg/1200px-Sancaktar_Hayrettin_Mosque_6207.jpg"
 ---
 
 ## Sancaktar Hayrettin Camii

@@ -1,18 +1,17 @@
 ---
-title: "Kayışdağı Suyu Çeşmesi, Acıbadem | Miras Haritası"
-date: 2025-12-25T11:57:07+03:00
+title: "Kayışdağı Suyu Çeşmesi, Acıbadem"
+date: "2025-12-25T11:57:07+03:00"
 slug: "kayisdagi-suyu-cesmesi-acibadem"
 description: "## Kayışdağı Suyu Çeşmesi, Acıbadem: Kadıköy'de Bir Çeşme Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.040666,40.999565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayışdağı Suyu Çeşmesi, Acıbadem: Kadıköy'de Bir Çeşme Mirası

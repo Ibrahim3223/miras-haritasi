@@ -1,18 +1,17 @@
 ---
-title: "Temple of Athena Latmia | Miras Haritası"
-date: 2025-12-25T08:12:43+03:00
+title: "Temple of Athena Latmia"
+date: "2025-12-25T08:12:43+03:00"
 slug: "temple-of-athena-latmia"
 description: "## Temple of Athena Latmia: Kapıkırı'daki Eski Yunan Mirası..."
 featured_image: ""
 province: "Milas"
-iller: ["Milas"]
+iller: '["Milas"]'
 district: "Kapıkırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5248,37.502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Temple of Athena Latmia: Kapıkırı'daki Eski Yunan Mirası

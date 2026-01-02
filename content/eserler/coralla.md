@@ -1,18 +1,17 @@
 ---
-title: "Coralla | Miras Haritası"
-date: 2025-12-25T04:50:34+03:00
+title: "Coralla"
+date: "2025-12-25T04:50:34+03:00"
 slug: "coralla"
 description: "## Coralla Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.165352,41.075138"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Coralla Arkeolojik Sit

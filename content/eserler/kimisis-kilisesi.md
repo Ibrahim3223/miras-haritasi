@@ -1,18 +1,17 @@
 ---
-title: "Kimisis Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:03+03:00
+title: "Kimisis Kilisesi"
+date: "2025-12-25T09:39:03+03:00"
 slug: "kimisis-kilisesi"
 description: "**Kimisis Kilisesi**..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.9073009,40.2220001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kimisis Kilisesi**

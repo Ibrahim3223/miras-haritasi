@@ -1,18 +1,17 @@
 ---
-title: "Beodizo | Miras Haritası"
-date: 2025-12-25T04:48:25+03:00
+title: "Beodizo"
+date: "2025-12-25T04:48:25+03:00"
 slug: "beodizo"
 description: "## Beodizo Arkeolojik Sit..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.824805,41.087065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beodizo Arkeolojik Sit

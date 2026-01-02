@@ -1,18 +1,17 @@
 ---
-title: "Bendehor Kalesi | Miras Haritası"
-date: 2025-12-25T01:43:00+03:00
+title: "Bendehor Kalesi"
+date: "2025-12-25T01:43:00+03:00"
 slug: "bendehor-kalesi"
 description: "## Bendehor Kalesi: Giresun'un Tarihî Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Piraziz"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.1120834,40.9363518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bendehor Kalesi: Giresun'un Tarihî Mirası

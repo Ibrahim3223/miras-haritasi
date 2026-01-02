@@ -1,18 +1,17 @@
 ---
-title: "TCDD İzmir Müze ve Sanat Galerisi | Miras Haritası"
-date: 2025-12-25T03:55:03+03:00
+title: "TCDD İzmir Müze ve Sanat Galerisi"
+date: "2025-12-25T03:55:03+03:00"
 slug: "tcdd-izmir-muze-ve-sanat-galerisi"
 description: "## TCDD İzmir Müze ve Sanat Galerisi: İzmir'in Tarihini ve Günceliği Bir Arada..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.14737,38.438416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## TCDD İzmir Müze ve Sanat Galerisi: İzmir'in Tarihini ve Günceliği Bir Arada

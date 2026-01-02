@@ -1,18 +1,17 @@
 ---
-title: "Görmeli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:14+03:00
+title: "Görmeli Köprüsü"
+date: "2025-12-25T02:09:14+03:00"
 slug: "gormeli-koprusu"
 description: "# Görmeli Köprüsü..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ermenek"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.955744,36.561669"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Görmeli Köprüsü

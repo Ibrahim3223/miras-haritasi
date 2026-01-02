@@ -1,18 +1,17 @@
 ---
-title: "Ağa Camii, Adapazarı | Miras Haritası"
-date: 2025-12-24T23:49:07+03:00
+title: "Ağa Camii, Adapazarı"
+date: "2025-12-24T23:49:07+03:00"
 slug: "aga-camii-adapazari"
 description: "**Ağa Camii: Adapazarı'nın Tarihi ve Kültürel Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ağa_Camii.jpg/1200px-Ağa_Camii.jpg"
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.4006481,40.7802315"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ağa Camii: Adapazarı'nın Tarihi ve Kültürel Mirası**

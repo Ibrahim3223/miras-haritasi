@@ -1,18 +1,17 @@
 ---
-title: "Vani Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:24:30+03:00
+title: "Vani Efendi Camii"
+date: "2025-12-24T22:24:30+03:00"
 slug: "vani-efendi-camii"
 description: "## Vani Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Erzurum_Unidentified_mosque_in_2006_3147.jpg/1200px-Erzurum_Unidentified_mosque_in_2006_3147.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.271888888,39.903333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Vani Efendi Camii

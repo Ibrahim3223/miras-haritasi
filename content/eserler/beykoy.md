@@ -1,18 +1,17 @@
 ---
-title: "Beyköy | Miras Haritası"
-date: 2025-12-25T05:35:49+03:00
+title: "Beyköy"
+date: "2025-12-25T05:35:49+03:00"
 slug: "beykoy"
 description: "# Beyköy Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.46095,39.02435"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Beyköy Arkeolojik Sit

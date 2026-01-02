@@ -1,18 +1,17 @@
 ---
-title: "Kayalı Tepeler Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:51:29+03:00
+title: "Kayalı Tepeler Tümülüsü"
+date: "2025-12-25T07:51:29+03:00"
 slug: "kayali-tepeler-tumulusu"
 description: "### Kayalı Tepeler Tümülüsü: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0734539,41.7719307"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kayalı Tepeler Tümülüsü: Kırklareli'nin Gizli Cenneti

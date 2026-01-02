@@ -1,18 +1,17 @@
 ---
-title: "Niksar Müzesi | Miras Haritası"
-date: 2025-12-25T03:48:05+03:00
+title: "Niksar Müzesi"
+date: "2025-12-25T03:48:05+03:00"
 slug: "niksar-muzesi"
 description: "### Niksar Müzesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.9515533,40.5901375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Niksar Müzesi

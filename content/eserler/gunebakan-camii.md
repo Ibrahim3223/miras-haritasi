@@ -1,18 +1,17 @@
 ---
-title: "Günebakan Camii | Miras Haritası"
-date: 2025-12-24T23:26:36+03:00
+title: "Günebakan Camii"
+date: "2025-12-24T23:26:36+03:00"
 slug: "gunebakan-camii"
 description: "### Günebakan Camii: Trabzon'un Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Trabzon"
+province: "Trabzon"
+iller: '["Trabzon"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.198005,40.783486"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Günebakan Camii: Trabzon'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, Edremit | Miras Haritası"
-date: 2025-12-25T01:07:50+03:00
+title: "Kurşunlu Camii, Edremit"
+date: "2025-12-25T01:07:50+03:00"
 slug: "kursunlu-camii-edremit"
 description: "## Kurşunlu Camii, Edremit..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0210876,39.5958138"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Camii, Edremit

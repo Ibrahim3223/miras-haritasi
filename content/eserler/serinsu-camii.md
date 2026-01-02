@@ -1,18 +1,17 @@
 ---
-title: "Serinsu Camii | Miras Haritası"
-date: 2025-12-25T00:18:29+03:00
+title: "Serinsu Camii"
+date: "2025-12-25T00:18:29+03:00"
 slug: "serinsu-camii"
 description: "## Serinsu Camii: Artvin'in Zengin Kültür Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5745999,41.0252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Serinsu Camii: Artvin'in Zengin Kültür Mirası

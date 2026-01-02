@@ -1,18 +1,17 @@
 ---
-title: "Hoynat Kalesi | Miras Haritası"
-date: 2025-12-25T01:45:58+03:00
+title: "Hoynat Kalesi"
+date: "2025-12-25T01:45:58+03:00"
 slug: "hoynat-kalesi"
 description: "### Hoynat Kalesi: Perşembe'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Perşembe"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.7288818,41.1178322"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hoynat Kalesi: Perşembe'nin Tarihi ve Kültürel Mirası

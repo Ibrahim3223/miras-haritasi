@@ -1,18 +1,17 @@
 ---
-title: "Sebastapolis Antik Kenti | Miras Haritası"
-date: 2025-12-25T04:40:01+03:00
+title: "Sebastapolis Antik Kenti"
+date: "2025-12-25T04:40:01+03:00"
 slug: "sebastapolis-antik-kenti"
 description: "**Sebastapolis Antik Kenti**..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Sulusaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.083369477,39.997391048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sebastapolis Antik Kenti**

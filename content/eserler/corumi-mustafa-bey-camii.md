@@ -1,18 +1,17 @@
 ---
-title: "Çorumi Mustafa Bey Camii | Miras Haritası"
-date: 2025-12-24T22:33:33+03:00
+title: "Çorumi Mustafa Bey Camii"
+date: "2025-12-24T22:33:33+03:00"
 slug: "corumi-mustafa-bey-camii"
 description: "## Çorumi Mustafa Bey Camii: Tekirdağ'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1066704,41.2129745"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çorumi Mustafa Bey Camii: Tekirdağ'ın Tarihi Bir Mirası

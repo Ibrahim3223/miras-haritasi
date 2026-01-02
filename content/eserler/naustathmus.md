@@ -1,18 +1,17 @@
 ---
-title: "Naustathmus | Miras Haritası"
-date: 2025-12-25T04:50:46+03:00
+title: "Naustathmus"
+date: "2025-12-25T04:50:46+03:00"
 slug: "naustathmus"
 description: "**Naustathmus: Samsun'un Tarihî Mirası**..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "19 Mayıs"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.116602,41.497628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Naustathmus: Samsun'un Tarihî Mirası**

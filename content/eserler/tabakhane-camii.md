@@ -1,18 +1,17 @@
 ---
-title: "Tabakhane Camii | Miras Haritası"
-date: 2025-12-24T23:54:05+03:00
+title: "Tabakhane Camii"
+date: "2025-12-24T23:54:05+03:00"
 slug: "tabakhane-camii"
 description: "## Tabakhane Camii..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8602104,39.9425659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabakhane Camii

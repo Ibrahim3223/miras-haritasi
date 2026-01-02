@@ -1,18 +1,17 @@
 ---
-title: "Mağras Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:38+03:00
+title: "Mağras Kalesi"
+date: "2025-12-25T01:33:38+03:00"
 slug: "magras-kalesi"
 description: "# Mağras Kalesi: Mut, Mersin'deki Tarih Öreni..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.271365,36.7329"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mağras Kalesi: Mut, Mersin'deki Tarih Öreni

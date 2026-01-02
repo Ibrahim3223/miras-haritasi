@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kasım Camii | Miras Haritası"
-date: 2025-12-24T23:30:23+03:00
+title: "Hacı Kasım Camii"
+date: "2025-12-24T23:30:23+03:00"
 slug: "haci-kasim-camii"
 description: "## Hacı Kasım Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.724321,41.003784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kasım Camii

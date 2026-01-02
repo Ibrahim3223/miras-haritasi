@@ -1,18 +1,17 @@
 ---
-title: "Doyran Manastırı | Miras Haritası"
-date: 2025-12-25T09:57:46+03:00
+title: "Doyran Manastırı"
+date: "2025-12-25T09:57:46+03:00"
 slug: "doyran-manastiri"
 description: "## Doyran Manastırı: Konyaaltı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "30.5141563,36.9147415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Doyran Manastırı: Konyaaltı'nın Gizli Cenneti

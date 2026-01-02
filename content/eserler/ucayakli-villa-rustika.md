@@ -1,18 +1,17 @@
 ---
-title: "Üçayaklı villa rustika | Miras Haritası"
-date: 2025-12-25T07:10:19+03:00
+title: "Üçayaklı villa rustika"
+date: "2025-12-25T07:10:19+03:00"
 slug: "ucayakli-villa-rustika"
 description: "## Üçayaklı Villa Rustika: Erdemli'nin Gizli Çehresini Açığa Çıkaran Bir Arkeolojik Harikalar Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Üçayak_Küstüllü_ruins,_Mersin_Province.jpg/1200px-Üçayak_Küstüllü_ruins,_Mersin_Province.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.1,36.6833"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Üçayaklı Villa Rustika: Erdemli'nin Gizli Çehresini Açığa Çıkaran Bir Arkeolojik Harikalar Evi

@@ -1,18 +1,17 @@
 ---
-title: "Patara Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:12:10+03:00
+title: "Patara Tiyatrosu"
+date: "2025-12-25T04:12:10+03:00"
 slug: "patara-tiyatrosu"
 description: "## Patara Tiyatrosu: Antik Çağın Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Das_große_Theater_von_Patara.JPG/1200px-Das_große_Theater_von_Patara.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.31431,36.26008"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Patara Tiyatrosu: Antik Çağın Efsanesi

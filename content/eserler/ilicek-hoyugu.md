@@ -1,18 +1,17 @@
 ---
-title: "İlicek Höyüğü | Miras Haritası"
-date: 2025-12-25T06:32:08+03:00
+title: "İlicek Höyüğü"
+date: "2025-12-25T06:32:08+03:00"
 slug: "ilicek-hoyugu"
 description: "### İlicek Höyüğü: Nevşehir'in Gizli Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6325474,39.0125331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İlicek Höyüğü: Nevşehir'in Gizli Mirası

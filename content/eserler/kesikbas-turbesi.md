@@ -1,18 +1,17 @@
 ---
-title: "Kesikbaş Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:17+03:00
+title: "Kesikbaş Türbesi"
+date: "2025-12-25T14:42:17+03:00"
 slug: "kesikbas-turbesi"
 description: "## Kesikbaş Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kesikbaş_Türbesi,_Ankara,_Türkiye,_2023.jpg/1200px-Kesikbaş_Türbesi,_Ankara,_Türkiye,_2023.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8653259,39.9375153"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kesikbaş Türbesi

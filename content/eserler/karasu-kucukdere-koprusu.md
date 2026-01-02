@@ -1,18 +1,17 @@
 ---
-title: "Karasu Küçükdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:25+03:00
+title: "Karasu Küçükdere Köprüsü"
+date: "2025-12-25T02:09:25+03:00"
 slug: "karasu-kucukdere-koprusu"
 description: "## Karasu Küçükdere Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.562267,40.898933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karasu Küçükdere Köprüsü

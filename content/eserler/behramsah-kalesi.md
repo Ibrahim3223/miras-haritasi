@@ -1,18 +1,17 @@
 ---
-title: "Behramşah Kalesi | Miras Haritası"
-date: 2025-12-25T01:41:10+03:00
+title: "Behramşah Kalesi"
+date: "2025-12-25T01:41:10+03:00"
 slug: "behramsah-kalesi"
 description: "# Behramşah Kalesi: Yozgat'ın Gizli Çarpıcılığı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Akdağmadeni"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.8377135,39.7425208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Behramşah Kalesi: Yozgat'ın Gizli Çarpıcılığı

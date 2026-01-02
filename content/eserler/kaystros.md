@@ -1,18 +1,17 @@
 ---
-title: "Kaystros | Miras Haritası"
-date: 2025-12-25T05:10:07+03:00
+title: "Kaystros"
+date: "2025-12-25T05:10:07+03:00"
 slug: "kaystros"
 description: "### Kaystros Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.329506,36.236294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaystros Arkeolojik Sit

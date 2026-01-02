@@ -1,18 +1,17 @@
 ---
-title: "Hamza Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:01:06+03:00
+title: "Hamza Paşa Türbesi"
+date: "2025-12-25T15:01:06+03:00"
 slug: "hamza-pasa-turbesi"
 description: "### Hamza Paşa Türbesi: Trabzon'un Önemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamza_Paşa_Türbesi.jpg/1200px-Hamza_Paşa_Türbesi.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.7131042,41.0044098"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hamza Paşa Türbesi: Trabzon'un Önemli Anıtı

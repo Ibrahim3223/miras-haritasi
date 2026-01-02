@@ -1,18 +1,17 @@
 ---
-title: "Sakarya Kemalettin Sami Paşa Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:47:50+03:00
+title: "Sakarya Kemalettin Sami Paşa Halk Kütüphanesi"
+date: "2025-12-25T17:47:50+03:00"
 slug: "sakarya-kemalettin-sami-pasa-halk-kutuphanesi"
 description: "## Sakarya Kemalettin Sami Paşa Halk Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarya Kemalettin Sami Paşa Halk Kütüphanesi

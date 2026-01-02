@@ -1,18 +1,17 @@
 ---
-title: "Abarank Surp Khaç Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:36+03:00
+title: "Abarank Surp Khaç Manastırı"
+date: "2025-12-25T09:55:36+03:00"
 slug: "abarank-surp-khac-manastiri"
 description: "## Abarank Surp Khaç Manastırı..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Hizan"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.6252556,38.0240822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abarank Surp Khaç Manastırı

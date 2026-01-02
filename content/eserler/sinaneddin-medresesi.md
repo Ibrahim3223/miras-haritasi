@@ -1,18 +1,17 @@
 ---
-title: "Sinaneddin Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:43+03:00
+title: "Sinaneddin Medresesi"
+date: "2025-12-25T17:41:43+03:00"
 slug: "sinaneddin-medresesi"
 description: "## Sinaneddin Medresesi: Antalya'nın Gizli Çehresi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Korkuteli"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "30.1686401,37.0810394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinaneddin Medresesi: Antalya'nın Gizli Çehresi

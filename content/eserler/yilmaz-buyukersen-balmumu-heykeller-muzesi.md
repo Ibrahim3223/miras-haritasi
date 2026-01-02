@@ -1,18 +1,17 @@
 ---
-title: "Yılmaz Büyükerşen Balmumu Heykeller Müzesi | Miras Haritası"
-date: 2025-12-25T03:12:39+03:00
+title: "Yılmaz Büyükerşen Balmumu Heykeller Müzesi"
+date: "2025-12-25T03:12:39+03:00"
 slug: "yilmaz-buyukersen-balmumu-heykeller-muzesi"
 description: "### Yılmaz Büyükerşen Balmumu Heykeller Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/YılmazBüyükerşenWaxMuseum_(2).jpg/1200px-YılmazBüyükerşenWaxMuseum_(2).jpg"
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Eskişehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.522166666,39.765138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yılmaz Büyükerşen Balmumu Heykeller Müzesi

@@ -62,7 +62,15 @@
             <a href="{{ .Permalink }}" class="card-img-wrap">
                 {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
                 {{ if $img }}
-                <img src="{{ $img }}" alt="{{ .Title }}" class="card-img" loading="lazy">
+                {{ $thumb := $img }}
+                {{ if and (findRE "wikimedia.org" $img) (findRE "/commons/" $img) }}
+                {{ $thumb = replace $img "/commons/" "/commons/thumb/" }}
+                {{ $fileName := index (last 1 (split $img "/")) 0 }}
+                {{ $thumb = printf "%s/800px-%s" $thumb $fileName }}
+                {{ if eq (path.Ext $img) ".svg" }}{{ $thumb = $img }}{{ end }}
+                {{ end }}
+                <img src="{{ $thumb }}" alt="{{ .Title }}" class="card-img" loading="lazy" width="800" height="533"
+                    style="aspect-ratio: 3/2; object-fit: cover;">
                 {{ else }}
                 <div
                     style="width: 100%; height: 100%; background: linear-gradient(135deg, var(--primary-light), var(--primary)); display: flex; align-items: center; justify-content: center; color: white; font-size: 2rem;">
@@ -88,22 +96,44 @@
     </div>
 
     <!-- Pagination -->
-    {{ if gt .Paginator.TotalPages 1 }}
-    <div style="margin-top: 50px; display: flex; justify-content: center; gap: 10px;">
-        {{ if .Paginator.HasPrev }}
-        <a href="{{ .Paginator.Prev.URL }}" class="btn btn-outline"
-            style="color: var(--primary); border-color: var(--border);">« Önceki</a>
+    {{ $paginator := .Paginator }}
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination" style="margin-top: 50px; display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="pagination-btn" style="padding: 10px 18px; border: 1px solid var(--border); border-radius: 6px; color: var(--primary); font-weight: 600; background: white;">« Önceki</a>
         {{ end }}
 
-        <span style="display: flex; align-items: center; padding: 0 15px; font-weight: 600;">
-            {{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}
-        </span>
+        {{ $currentPage := $paginator.PageNumber }}
+        {{ $totalPages := $paginator.TotalPages }}
 
-        {{ if .Paginator.HasNext }}
-        <a href="{{ .Paginator.Next.URL }}" class="btn btn-outline"
-            style="color: var(--primary); border-color: var(--border);">Sonraki »</a>
+        {{/* Show first page */}}
+        {{ if gt $currentPage 3 }}
+        <a href="{{ $paginator.First.URL }}" class="pagination-num" style="padding: 10px 14px; border: 1px solid var(--border); border-radius: 6px; color: var(--text-light); background: white;">1</a>
+        {{ if gt $currentPage 4 }}<span style="color: var(--text-light);">...</span>{{ end }}
         {{ end }}
-    </div>
+
+        {{/* Show surrounding pages */}}
+        {{ range $paginator.Pagers }}
+        {{ $distance := sub .PageNumber $currentPage }}
+        {{ if and (ge $distance -2) (le $distance 2) }}
+        {{ if eq .PageNumber $currentPage }}
+        <span class="pagination-num active" style="padding: 10px 14px; border: 2px solid var(--accent); border-radius: 6px; color: var(--primary); font-weight: 700; background: #fff8e1;">{{ .PageNumber }}</span>
+        {{ else }}
+        <a href="{{ .URL }}" class="pagination-num" style="padding: 10px 14px; border: 1px solid var(--border); border-radius: 6px; color: var(--text-light); background: white;">{{ .PageNumber }}</a>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+
+        {{/* Show last page */}}
+        {{ if lt $currentPage (sub $totalPages 2) }}
+        {{ if lt $currentPage (sub $totalPages 3) }}<span style="color: var(--text-light);">...</span>{{ end }}
+        <a href="{{ $paginator.Last.URL }}" class="pagination-num" style="padding: 10px 14px; border: 1px solid var(--border); border-radius: 6px; color: var(--text-light); background: white;">{{ $totalPages }}</a>
+        {{ end }}
+
+        {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="pagination-btn" style="padding: 10px 18px; border: 1px solid var(--border); border-radius: 6px; color: var(--primary); font-weight: 600; background: white;">Sonraki »</a>
+        {{ end }}
+    </nav>
     {{ end }}
 </div>
 {{ end }}

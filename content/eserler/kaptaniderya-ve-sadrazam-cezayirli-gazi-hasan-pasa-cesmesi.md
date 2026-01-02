@@ -1,18 +1,17 @@
 ---
-title: "Kaptanıderya Ve Sadrazam Cezayirli Gazi Hasan Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:46+03:00
+title: "Kaptanıderya Ve Sadrazam Cezayirli Gazi Hasan Paşa Çeşmesi"
+date: "2025-12-25T11:44:46+03:00"
 slug: "kaptaniderya-ve-sadrazam-cezayirli-gazi-hasan-pasa-cesmesi"
 description: "**Kaptanıderya Ve Sadrazam Cezayirli Gazi Hasan Paşa Çeşmesi**..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Yıldız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0185604,41.047081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kaptanıderya Ve Sadrazam Cezayirli Gazi Hasan Paşa Çeşmesi**

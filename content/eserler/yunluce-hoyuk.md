@@ -1,18 +1,17 @@
 ---
-title: "Yünlüce Höyük | Miras Haritası"
-date: 2025-12-25T06:11:32+03:00
+title: "Yünlüce Höyük"
+date: "2025-12-25T06:11:32+03:00"
 slug: "yunluce-hoyuk"
 description: "## Yünlüce Höyük: Sivas'taki Tarihî Bir Miras..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Akıncılar ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3524642,40.0299804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yünlüce Höyük: Sivas'taki Tarihî Bir Miras

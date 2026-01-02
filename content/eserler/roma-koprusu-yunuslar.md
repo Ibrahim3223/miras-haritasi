@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Yunuslar | Miras Haritası"
-date: 2025-12-25T02:54:59+03:00
+title: "Roma Köprüsü, Yunuslar"
+date: "2025-12-25T02:54:59+03:00"
 slug: "roma-koprusu-yunuslar"
 description: "## Roma Köprüsü, Yunuslar: Beyşehir'in Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.941416,37.911526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Yunuslar: Beyşehir'in Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kandilli İskele Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:44+03:00
+title: "Kandilli İskele Çeşmesi"
+date: "2025-12-25T11:03:44+03:00"
 slug: "kandilli-iskele-cesmesi"
 description: "### Kandilli İskele Çeşmesi: Üsküdar'da Bir Ölümsüz Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.058329,41.074329"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kandilli İskele Çeşmesi: Üsküdar'da Bir Ölümsüz Çeşme

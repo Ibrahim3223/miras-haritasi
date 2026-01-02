@@ -1,18 +1,17 @@
 ---
-title: "Hafız İnce Karar Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:23+03:00
+title: "Hafız İnce Karar Caddesi Çeşmesi"
+date: "2025-12-25T10:51:23+03:00"
 slug: "hafiz-ince-karar-caddesi-cesmesi"
 description: "## Hafız İnce Karar Caddesi Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7154617,38.6181984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafız İnce Karar Caddesi Çeşmesi

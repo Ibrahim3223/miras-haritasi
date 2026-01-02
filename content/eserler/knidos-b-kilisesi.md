@@ -1,18 +1,17 @@
 ---
-title: "Knidos B Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:21+03:00
+title: "Knidos B Kilisesi"
+date: "2025-12-25T09:36:21+03:00"
 slug: "knidos-b-kilisesi"
 description: "### Knidos B Kilisesi: Datça'nın Gizli Çehresi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.3743267,36.6871109"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Knidos B Kilisesi: Datça'nın Gizli Çehresi

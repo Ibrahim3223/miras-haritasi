@@ -1,18 +1,17 @@
 ---
-title: "Çimdin Kale | Miras Haritası"
-date: 2025-12-25T01:45:16+03:00
+title: "Çimdin Kale"
+date: "2025-12-25T01:45:16+03:00"
 slug: "cimdin-kale"
 description: "## Çimdin Kale: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Viranşehir"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.4704857,37.1626015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çimdin Kale: Şanlıurfa'nın Gizli Mirası

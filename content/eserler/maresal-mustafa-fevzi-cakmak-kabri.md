@@ -1,18 +1,17 @@
 ---
-title: "Mareşal Mustafa Fevzi Çakmak Kabri | Miras Haritası"
-date: 2025-12-25T13:27:11+03:00
+title: "Mareşal Mustafa Fevzi Çakmak Kabri"
+date: "2025-12-25T13:27:11+03:00"
 slug: "maresal-mustafa-fevzi-cakmak-kabri"
 description: "## Mareşal Mustafa Fevzi Çakmak Kabri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fevzi_Çakmak_kabir.jpg/1200px-Fevzi_Çakmak_kabir.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9330959,41.0499268"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mareşal Mustafa Fevzi Çakmak Kabri

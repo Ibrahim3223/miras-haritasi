@@ -1,18 +1,17 @@
 ---
-title: "Şehit Müftü Mustafa Bey Kabri | Miras Haritası"
-date: 2025-12-25T16:01:47+03:00
+title: "Şehit Müftü Mustafa Bey Kabri"
+date: "2025-12-25T16:01:47+03:00"
 slug: "sehit-muftu-mustafa-bey-kabri"
 description: "## Şehit Müftü Mustafa Bey Kabri..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Vezirköprü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4560127,41.1424637"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehit Müftü Mustafa Bey Kabri

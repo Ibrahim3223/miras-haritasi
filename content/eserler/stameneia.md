@@ -1,18 +1,17 @@
 ---
-title: "Stameneia | Miras Haritası"
-date: 2025-12-25T05:22:13+03:00
+title: "Stameneia"
+date: "2025-12-25T05:22:13+03:00"
 slug: "stameneia"
 description: "## Stameneia: Perşembe'nin Gizemli Arkeolojik Sit'i..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Perşembe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.704166666,41.112777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Stameneia: Perşembe'nin Gizemli Arkeolojik Sit'i

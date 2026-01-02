@@ -1,18 +1,17 @@
 ---
-title: "Kethüda Mustafa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:08+03:00
+title: "Kethüda Mustafa Ağa Çeşmesi"
+date: "2025-12-25T10:31:08+03:00"
 slug: "kethuda-mustafa-aga-cesmesi"
 description: "### Kethüda Mustafa Ağa Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2546005,37.8566017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kethüda Mustafa Ağa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Şekerci Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:56:40+03:00
+title: "Şekerci Çeşmesi, Çeşme"
+date: "2025-12-25T12:56:40+03:00"
 slug: "sekerci-cesmesi-cesme"
 description: "## Şekerci Çeşmesi: Çeşme'nin Birinci Sınıf Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3048706,38.3225365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şekerci Çeşmesi: Çeşme'nin Birinci Sınıf Tarihi Bir Çeşmesi

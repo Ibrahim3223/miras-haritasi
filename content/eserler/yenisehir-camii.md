@@ -1,18 +1,17 @@
 ---
-title: "Yenişehir Camii | Miras Haritası"
-date: 2025-12-25T00:29:34+03:00
+title: "Yenişehir Camii"
+date: "2025-12-25T00:29:34+03:00"
 slug: "yenisehir-camii"
 description: "## Yenişehir Camii: Hatay'ın Tarihî Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5664864,36.2418137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenişehir Camii: Hatay'ın Tarihî Mirası

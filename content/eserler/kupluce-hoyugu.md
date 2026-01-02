@@ -1,18 +1,17 @@
 ---
-title: "Küplüce Höyüğü | Miras Haritası"
-date: 2025-12-25T06:27:38+03:00
+title: "Küplüce Höyüğü"
+date: "2025-12-25T06:27:38+03:00"
 slug: "kupluce-hoyugu"
 description: "## Küplüce Höyüğü: Şanlıurfa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Harran"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.023809,36.8139907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küplüce Höyüğü: Şanlıurfa'nın Gizli Kahramanı

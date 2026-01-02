@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhammed Kesikbaş Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:43+03:00
+title: "Şeyh Muhammed Kesikbaş Türbesi"
+date: "2025-12-25T15:29:43+03:00"
 slug: "seyh-muhammed-kesikbas-turbesi"
 description: "### Şeyh Muhammed Kesikbaş Türbesi: Cizre'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.1878433,37.3243332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Muhammed Kesikbaş Türbesi: Cizre'nin Tarihi ve Kültürel Mirası

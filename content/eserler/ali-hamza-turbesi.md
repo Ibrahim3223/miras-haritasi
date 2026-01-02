@@ -1,18 +1,17 @@
 ---
-title: "Ali Hamza Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:41+03:00
+title: "Ali Hamza Türbesi"
+date: "2025-12-25T14:18:41+03:00"
 slug: "ali-hamza-turbesi"
 description: "## Ali Hamza Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.150621,40.903333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Hamza Türbesi

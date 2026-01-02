@@ -1,18 +1,17 @@
 ---
-title: "Koraia | Miras Haritası"
-date: 2025-12-25T04:55:32+03:00
+title: "Koraia"
+date: "2025-12-25T04:55:32+03:00"
 slug: "koraia"
 description: "## Koraia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.006457,37.343724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koraia Arkeolojik Sit

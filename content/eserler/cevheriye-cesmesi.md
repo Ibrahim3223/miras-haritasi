@@ -1,18 +1,17 @@
 ---
-title: "Cevheriye Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:26:23+03:00
+title: "Cevheriye Çeşmesi"
+date: "2025-12-25T12:26:23+03:00"
 slug: "cevheriye-cesmesi"
 description: "## Cevheriye Çeşmesi: Mardin'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.737406,37.312407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevheriye Çeşmesi: Mardin'in Tarihi Bir Anıtı

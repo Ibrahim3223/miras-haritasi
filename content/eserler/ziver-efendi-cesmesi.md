@@ -1,18 +1,17 @@
 ---
-title: "Ziver Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:58+03:00
+title: "Ziver Efendi Çeşmesi"
+date: "2025-12-25T11:05:58+03:00"
 slug: "ziver-efendi-cesmesi"
 description: "## Ziver Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.97309,41.034305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ziver Efendi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Agios Ioannis Sten Alygaria Kilisesi | Miras Haritası"
-date: 2025-12-25T09:20:43+03:00
+title: "Agios Ioannis Sten Alygaria Kilisesi"
+date: "2025-12-25T09:20:43+03:00"
 slug: "agios-ioannis-sten-alygaria-kilisesi"
 description: "### Agios Ioannis Sten Alygaria Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.1536007,38.4291115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Agios Ioannis Sten Alygaria Kilisesi

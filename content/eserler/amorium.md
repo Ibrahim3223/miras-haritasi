@@ -1,18 +1,17 @@
 ---
-title: "Amorium | Miras Haritası"
-date: 2025-12-25T04:15:36+03:00
+title: "Amorium"
+date: "2025-12-25T04:15:36+03:00"
 slug: "amorium"
 description: "## Amorium: Afyonkarahisar'ın Gizli Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Amorion,_Unterstadt.jpg/1200px-Amorion,_Unterstadt.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.295,39.0225"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Amorium: Afyonkarahisar'ın Gizli Ören Yeri

@@ -1,18 +1,17 @@
 ---
-title: "Dabaketili Kilisesi | Miras Haritası"
-date: 2025-12-25T09:06:14+03:00
+title: "Dabaketili Kilisesi"
+date: "2025-12-25T09:06:14+03:00"
 slug: "dabaketili-kilisesi"
 description: "### Dabaketili Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Yaşarköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.367719444,41.289308333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dabaketili Kilisesi: Tarihi ve Kültürel Miras

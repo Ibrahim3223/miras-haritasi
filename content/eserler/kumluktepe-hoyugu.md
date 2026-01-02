@@ -1,18 +1,17 @@
 ---
-title: "Kumluktepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:02:29+03:00
+title: "Kumluktepe Höyüğü"
+date: "2025-12-25T07:02:29+03:00"
 slug: "kumluktepe-hoyugu"
 description: "### Kumluktepe Höyüğü: Bir Eski Medeniyetin Kalıntıları..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kumluktepe Höyüğü: Bir Eski Medeniyetin Kalıntıları

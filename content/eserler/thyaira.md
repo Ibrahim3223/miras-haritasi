@@ -1,18 +1,17 @@
 ---
-title: "Thyaira | Miras Haritası"
-date: 2025-12-25T04:56:57+03:00
+title: "Thyaira"
+date: "2025-12-25T04:56:57+03:00"
 slug: "thyaira"
 description: "## Thyaira: Eski Yunanistan'ın Gizli Kahramanı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.744117,38.085927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Thyaira: Eski Yunanistan'ın Gizli Kahramanı

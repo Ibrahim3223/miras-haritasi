@@ -1,18 +1,17 @@
 ---
-title: "Kocaeli Bilim Merkezi | Miras Haritası"
-date: 2025-12-25T03:23:25+03:00
+title: "Kocaeli Bilim Merkezi"
+date: "2025-12-25T03:23:25+03:00"
 slug: "kocaeli-bilim-merkezi"
 description: "## Kocaeli Bilim Merkezi: Eğitim ve Eğlenme Merkezinde Bilimin Güçleri..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9085814,40.761755274"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocaeli Bilim Merkezi: Eğitim ve Eğlenme Merkezinde Bilimin Güçleri

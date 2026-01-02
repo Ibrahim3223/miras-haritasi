@@ -1,18 +1,17 @@
 ---
-title: "Tahir Paşa Konağı Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:55+03:00
+title: "Tahir Paşa Konağı Kent Müzesi"
+date: "2025-12-25T03:13:55+03:00"
 slug: "tahir-pasa-konagi-kent-muzesi"
 description: "## Tahir Paşa Konağı Kent Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mudanya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.881815,40.376334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahir Paşa Konağı Kent Müzesi

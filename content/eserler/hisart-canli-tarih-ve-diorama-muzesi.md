@@ -1,18 +1,17 @@
 ---
-title: "Hisart Canlı Tarih ve Diorama Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:39+03:00
+title: "Hisart Canlı Tarih ve Diorama Müzesi"
+date: "2025-12-25T03:51:39+03:00"
 slug: "hisart-canli-tarih-ve-diorama-muzesi"
 description: "## Hisart Canlı Tarih ve Diorama Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.983349,41.071339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hisart Canlı Tarih ve Diorama Müzesi

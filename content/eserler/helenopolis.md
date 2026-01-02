@@ -1,18 +1,17 @@
 ---
-title: "Helenopolis | Miras Haritası"
-date: 2025-12-25T04:25:15+03:00
+title: "Helenopolis"
+date: "2025-12-25T04:25:15+03:00"
 slug: "helenopolis"
 description: "### Helenopolis: Yalova'da Bir İmparatorluk Kenti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yalova"
+province: "Yalova"
+iller: '["Yalova"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.5,40.72"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Helenopolis: Yalova'da Bir İmparatorluk Kenti

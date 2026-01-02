@@ -1,18 +1,17 @@
 ---
-title: "Nuri Yamut Anıtı, Sığındere | Miras Haritası"
-date: 2025-12-25T04:02:19+03:00
+title: "Nuri Yamut Anıtı, Sığındere"
+date: "2025-12-25T04:02:19+03:00"
 slug: "nuri-yamut-aniti-sigindere"
 description: "### Nuri Yamut Anıtı: Sığındere'nin Gizli Çehresi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.2111168,40.1015282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nuri Yamut Anıtı: Sığındere'nin Gizli Çehresi

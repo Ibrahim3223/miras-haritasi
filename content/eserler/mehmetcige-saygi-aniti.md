@@ -1,18 +1,17 @@
 ---
-title: "Mehmetçiğe Saygı Anıtı | Miras Haritası"
-date: 2025-12-25T14:13:25+03:00
+title: "Mehmetçiğe Saygı Anıtı"
+date: "2025-12-25T14:13:25+03:00"
 slug: "mehmetcige-saygi-aniti"
 description: "## Mehmetçiğe Saygı Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Respect_to_Mehmetçik.JPG/1200px-Respect_to_Mehmetçik.JPG"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.284985,40.220059"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mehmetçiğe Saygı Anıtı

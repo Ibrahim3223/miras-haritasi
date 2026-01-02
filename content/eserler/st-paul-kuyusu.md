@@ -1,18 +1,17 @@
 ---
-title: "St. Paul Kuyusu | Miras Haritası"
-date: 2025-12-25T03:40:50+03:00
+title: "St. Paul Kuyusu"
+date: "2025-12-25T03:40:50+03:00"
 slug: "st-paul-kuyusu"
 description: "# St. Paul Kuyusu: Tarsus'un Gizli Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # St. Paul Kuyusu: Tarsus'un Gizli Mirası

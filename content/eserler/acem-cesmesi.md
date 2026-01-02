@@ -1,18 +1,17 @@
 ---
-title: "Acem Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:47:45+03:00
+title: "Acem Çeşmesi"
+date: "2025-12-25T10:47:45+03:00"
 slug: "acem-cesmesi"
 description: "## Acem Çeşmesi: Sivrihisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.5389557,39.4512787"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acem Çeşmesi: Sivrihisar'ın Tarihi Bir Çeşmesi

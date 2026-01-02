@@ -1,18 +1,17 @@
 ---
-title: "Ulukonak Miltepe Güney Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:22+03:00
+title: "Ulukonak Miltepe Güney Tümülüsü"
+date: "2025-12-25T07:47:22+03:00"
 slug: "ulukonak-miltepe-guney-tumulusu"
 description: "### Ulukonak Miltepe Güney Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9974613,41.6328392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ulukonak Miltepe Güney Tümülüsü

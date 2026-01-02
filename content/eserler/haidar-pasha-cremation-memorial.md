@@ -1,18 +1,17 @@
 ---
-title: "Haidar Pasha Cremation Memorial | Miras Haritası"
-date: 2025-12-25T14:01:46+03:00
+title: "Haidar Pasha Cremation Memorial"
+date: "2025-12-25T14:01:46+03:00"
 slug: "haidar-pasha-cremation-memorial"
 description: "### Haidar Pasha Cremation Memorial..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.02018,40.9997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haidar Pasha Cremation Memorial

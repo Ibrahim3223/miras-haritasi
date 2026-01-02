@@ -1,18 +1,17 @@
 ---
-title: "Üçler Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:46+03:00
+title: "Üçler Dede Türbesi"
+date: "2025-12-25T15:33:46+03:00"
 slug: "ucler-dede-turbesi"
 description: "## Üçler Dede Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.022665,39.5996094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üçler Dede Türbesi

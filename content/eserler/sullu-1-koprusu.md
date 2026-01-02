@@ -1,18 +1,17 @@
 ---
-title: "Süllü 1 Köprüsü | Miras Haritası"
-date: 2025-12-25T02:34:57+03:00
+title: "Süllü 1 Köprüsü"
+date: "2025-12-25T02:34:57+03:00"
 slug: "sullu-1-koprusu"
 description: "## Süllü 1 Köprüsü: Giresun'un Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Dereli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.346687,40.654749"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süllü 1 Köprüsü: Giresun'un Gizli Çehresini Keşfedin

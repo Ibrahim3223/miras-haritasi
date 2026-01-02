@@ -1,18 +1,17 @@
 ---
-title: "Sakar Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:01:13+03:00
+title: "Sakar Baba Türbesi"
+date: "2025-12-25T15:01:13+03:00"
 slug: "sakar-baba-turbesi"
 description: "## Sakar Baba Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4036198,40.7544899"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakar Baba Türbesi

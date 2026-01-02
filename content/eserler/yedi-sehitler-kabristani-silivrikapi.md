@@ -1,18 +1,17 @@
 ---
-title: "Yedi Şehitler Kabristanı, Silivrikapı | Miras Haritası"
-date: 2025-12-25T16:06:07+03:00
+title: "Yedi Şehitler Kabristanı, Silivrikapı"
+date: "2025-12-25T16:06:07+03:00"
 slug: "yedi-sehitler-kabristani-silivrikapi"
 description: "### Yedi Şehitler Kabristanı, Silivrikapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9254551,41.0038414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yedi Şehitler Kabristanı, Silivrikapı

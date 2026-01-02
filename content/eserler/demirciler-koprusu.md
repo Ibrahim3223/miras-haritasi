@@ -1,18 +1,17 @@
 ---
-title: "Demirciler Köprüsü | Miras Haritası"
-date: 2025-12-25T02:06:04+03:00
+title: "Demirciler Köprüsü"
+date: "2025-12-25T02:06:04+03:00"
 slug: "demirciler-koprusu"
 description: "## Demirciler Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.219639,41.43301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirciler Köprüsü

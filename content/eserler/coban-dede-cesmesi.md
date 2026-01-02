@@ -1,18 +1,17 @@
 ---
-title: "Çoban Dede Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:57:07+03:00
+title: "Çoban Dede Çeşmesi"
+date: "2025-12-25T10:57:07+03:00"
 slug: "coban-dede-cesmesi"
 description: "### Çoban Dede Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7983456,41.1557388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çoban Dede Çeşmesi

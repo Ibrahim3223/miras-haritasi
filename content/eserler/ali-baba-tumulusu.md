@@ -1,18 +1,17 @@
 ---
-title: "Ali Baba Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:05:31+03:00
+title: "Ali Baba Tümülüsü"
+date: "2025-12-25T08:05:31+03:00"
 slug: "ali-baba-tumulusu"
 description: "**Ali Baba Tümülüsü: Kırklareli'nin Gizemli Arkeolojik Sit**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7472401,41.5255699"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ali Baba Tümülüsü: Kırklareli'nin Gizemli Arkeolojik Sit**

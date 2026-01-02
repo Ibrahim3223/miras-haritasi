@@ -1,18 +1,17 @@
 ---
-title: "Sagalassos Tiberian Kapısı | Miras Haritası"
-date: 2025-12-25T13:18:24+03:00
+title: "Sagalassos Tiberian Kapısı"
+date: "2025-12-25T13:18:24+03:00"
 slug: "sagalassos-tiberian-kapisi"
 description: "## Sagalassos Tiberian Kapısı: Ağlasun'un Gizli Özdü..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Ağlasun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.518116,37.675331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sagalassos Tiberian Kapısı: Ağlasun'un Gizli Özdü

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mustafa Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:12+03:00
+title: "Şeyh Mustafa Türbesi"
+date: "2025-12-25T14:26:12+03:00"
 slug: "seyh-mustafa-turbesi"
 description: "## Şeyh Mustafa Türbesi: Turhal'ın Öncü Değerleri..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Turhal"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.0887,40.3853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Mustafa Türbesi: Turhal'ın Öncü Değerleri

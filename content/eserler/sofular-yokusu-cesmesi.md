@@ -1,18 +1,17 @@
 ---
-title: "Sofular Yokuşu Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:09:12+03:00
+title: "Sofular Yokuşu Çeşmesi"
+date: "2025-12-25T12:09:12+03:00"
 slug: "sofular-yokusu-cesmesi"
 description: "# Sofular Yokuşu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9317379,41.0448761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sofular Yokuşu Çeşmesi

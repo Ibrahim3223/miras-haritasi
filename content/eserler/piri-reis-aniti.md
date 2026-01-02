@@ -1,18 +1,17 @@
 ---
-title: "Piri Reis Anıtı | Miras Haritası"
-date: 2025-12-25T15:50:46+03:00
+title: "Piri Reis Anıtı"
+date: "2025-12-25T15:50:46+03:00"
 slug: "piri-reis-aniti"
 description: "## Piri Reis Anıtı..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.4086113,40.1542549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Piri Reis Anıtı

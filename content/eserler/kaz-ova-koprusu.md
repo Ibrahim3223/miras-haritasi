@@ -1,18 +1,17 @@
 ---
-title: "Kaz Ova Köprüsü | Miras Haritası"
-date: 2025-12-25T03:04:31+03:00
+title: "Kaz Ova Köprüsü"
+date: "2025-12-25T03:04:31+03:00"
 slug: "kaz-ova-koprusu"
 description: "## Kaz Ova Köprüsü: Edirne'nin Tarihi Bir Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6308784,41.3621368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaz Ova Köprüsü: Edirne'nin Tarihi Bir Köprüsü

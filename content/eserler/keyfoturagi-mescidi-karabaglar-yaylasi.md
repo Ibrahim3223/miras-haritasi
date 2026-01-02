@@ -1,18 +1,17 @@
 ---
-title: "Keyfoturağı Mescidi, Karabağlar Yaylası | Miras Haritası"
-date: 2025-12-25T00:47:25+03:00
+title: "Keyfoturağı Mescidi, Karabağlar Yaylası"
+date: "2025-12-25T00:47:25+03:00"
 slug: "keyfoturagi-mescidi-karabaglar-yaylasi"
 description: "## Keyfoturağı Mescidi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.4004002,37.1898003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keyfoturağı Mescidi: Tarihi ve Kültürel Miras

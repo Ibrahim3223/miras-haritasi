@@ -1,18 +1,17 @@
 ---
-title: "Nur-i Osmaniye Library | Miras Haritası"
-date: 2025-12-25T17:58:21+03:00
+title: "Nur-i Osmaniye Library"
+date: "2025-12-25T17:58:21+03:00"
 slug: "nur-i-osmaniye-library"
 description: "### Nur-i Osmaniye Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nur-i Osmaniye Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Çıplak Köyü Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:20:16+03:00
+title: "Çıplak Köyü Meydan Çeşmesi"
+date: "2025-12-25T10:20:16+03:00"
 slug: "ciplak-koyu-meydan-cesmesi"
 description: "**Çıplak Köyü Meydan Çeşmesi**..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.2614326,39.951313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çıplak Köyü Meydan Çeşmesi**

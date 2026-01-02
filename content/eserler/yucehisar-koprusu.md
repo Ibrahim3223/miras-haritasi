@@ -1,18 +1,17 @@
 ---
-title: "Yücehisar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:38+03:00
+title: "Yücehisar Köprüsü"
+date: "2025-12-25T02:04:38+03:00"
 slug: "yucehisar-koprusu"
 description: "### Yücehisar Köprüsü: Pazar, Rize'de Bir Tarihî Köprü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9018823,41.1173489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yücehisar Köprüsü: Pazar, Rize'de Bir Tarihî Köprü

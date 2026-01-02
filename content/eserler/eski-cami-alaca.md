@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami, Alaca | Miras Haritası"
-date: 2025-12-24T23:50:45+03:00
+title: "Eski Cami, Alaca"
+date: "2025-12-24T23:50:45+03:00"
 slug: "eski-cami-alaca"
 description: "### Eski Cami, Alaca Tanıtımı..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8409386,40.1696739"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Cami, Alaca Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Uzunhacı Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:17:45+03:00
+title: "Uzunhacı Köyü Camii"
+date: "2025-12-24T23:17:45+03:00"
 slug: "uzunhaci-koyu-camii"
 description: "# Uzunhacı Köyü Camii: Tekirdağ'ın Tarihi ve Kültürel Mirasının Gizli Çekevi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8356724,41.34478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Uzunhacı Köyü Camii: Tekirdağ'ın Tarihi ve Kültürel Mirasının Gizli Çekevi

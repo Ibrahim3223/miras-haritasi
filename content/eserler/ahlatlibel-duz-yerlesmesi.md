@@ -1,18 +1,17 @@
 ---
-title: "Ahlatlıbel Düz Yerleşmesi | Miras Haritası"
-date: 2025-12-25T08:15:38+03:00
+title: "Ahlatlıbel Düz Yerleşmesi"
+date: "2025-12-25T08:15:38+03:00"
 slug: "ahlatlibel-duz-yerlesmesi"
 description: "## Ahlatlıbel Düz Yerleşmesi: Ankara'nın Gizli Arkeolojik Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.810222222,39.839805555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahlatlıbel Düz Yerleşmesi: Ankara'nın Gizli Arkeolojik Harikası

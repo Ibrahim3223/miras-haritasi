@@ -1,18 +1,17 @@
 ---
-title: "Hüyük Tepesi | Miras Haritası"
-date: 2025-12-25T05:34:42+03:00
+title: "Hüyük Tepesi"
+date: "2025-12-25T05:34:42+03:00"
 slug: "huyuk-tepesi"
 description: "# Hüyük Tepesi Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Şuhut"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.555001,38.509754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hüyük Tepesi Arkeolojik Sit

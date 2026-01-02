@@ -1,18 +1,17 @@
 ---
-title: "Skamandriya | Miras Haritası"
-date: 2025-12-25T05:03:51+03:00
+title: "Skamandriya"
+date: "2025-12-25T05:03:51+03:00"
 slug: "skamandriya"
 description: "## Skamandriya: Ezine'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.364872,39.83749"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Skamandriya: Ezine'nin Tarihi ve Kültürel Mirası

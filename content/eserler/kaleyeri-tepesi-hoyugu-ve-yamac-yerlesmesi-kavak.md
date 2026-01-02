@@ -1,18 +1,17 @@
 ---
-title: "Kaleyeri Tepesi Höyüğü Ve Yamaç Yerleşmesi, Kavak | Miras Haritası"
-date: 2025-12-25T13:48:47+03:00
+title: "Kaleyeri Tepesi Höyüğü Ve Yamaç Yerleşmesi, Kavak"
+date: "2025-12-25T13:48:47+03:00"
 slug: "kaleyeri-tepesi-hoyugu-ve-yamac-yerlesmesi-kavak"
 description: "## Kaleyeri Tepesi Höyüğü Ve Yamaç Yerleşmesi, Kavak..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.105743,41.142554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleyeri Tepesi Höyüğü Ve Yamaç Yerleşmesi, Kavak

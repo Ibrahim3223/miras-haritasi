@@ -1,18 +1,17 @@
 ---
-title: "Arzular Kuyusu Arkeolojik Yerleşimi, Çine | Miras Haritası"
-date: 2025-12-25T06:03:28+03:00
+title: "Arzular Kuyusu Arkeolojik Yerleşimi, Çine"
+date: "2025-12-25T06:03:28+03:00"
 slug: "arzular-kuyusu-arkeolojik-yerlesimi-cine"
 description: "# Arzular Kuyusu Arkeolojik Yerleşimi, Çine..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9606266,37.726223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arzular Kuyusu Arkeolojik Yerleşimi, Çine

@@ -1,18 +1,17 @@
 ---
-title: "Afife Jale Büstü | Miras Haritası"
-date: 2025-12-25T15:49:16+03:00
+title: "Afife Jale Büstü"
+date: "2025-12-25T15:49:16+03:00"
 slug: "afife-jale-bustu"
 description: "### Afife Jale Büstü: Kadıköy'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0269356,40.9874001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Afife Jale Büstü: Kadıköy'ün Tarihi ve Kültürel Mirası

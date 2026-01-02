@@ -1,18 +1,17 @@
 ---
-title: "Divanı Ali Camii | Miras Haritası"
-date: 2025-12-24T22:51:11+03:00
+title: "Divanı Ali Camii"
+date: "2025-12-24T22:51:11+03:00"
 slug: "divani-ali-camii"
 description: "### Divanı Ali Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mimar Hayrettin"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.96752,41.007656"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Divanı Ali Camii

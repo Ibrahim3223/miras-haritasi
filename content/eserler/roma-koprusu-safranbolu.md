@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü Safranbolu | Miras Haritası"
-date: 2025-12-25T02:29:43+03:00
+title: "Roma Köprüsü Safranbolu"
+date: "2025-12-25T02:29:43+03:00"
 slug: "roma-koprusu-safranbolu"
 description: "## Roma Köprüsü Safranbolu: Karabük'ün Tarihi Taş Köprüsü..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.699547,41.247787"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü Safranbolu: Karabük'ün Tarihi Taş Köprüsü

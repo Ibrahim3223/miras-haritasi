@@ -1,18 +1,17 @@
 ---
-title: "Çiçekdağı Höyüğü | Miras Haritası"
-date: 2025-12-25T07:02:01+03:00
+title: "Çiçekdağı Höyüğü"
+date: "2025-12-25T07:02:01+03:00"
 slug: "cicekdagi-hoyugu"
 description: "# Çiçekdağı Höyüğü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çiçekdağı Höyüğü

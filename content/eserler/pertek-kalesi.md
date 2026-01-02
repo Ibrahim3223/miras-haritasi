@@ -1,18 +1,17 @@
 ---
-title: "Pertek Kalesi | Miras Haritası"
-date: 2025-12-25T01:13:51+03:00
+title: "Pertek Kalesi"
+date: "2025-12-25T01:13:51+03:00"
 slug: "pertek-kalesi"
 description: "### Pertek Kalesi: Tunceli'nin Gizli Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pertek_Burg1.jpg/1200px-Pertek_Burg1.jpg"
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Pertek"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.27166748,38.84444427"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Pertek Kalesi: Tunceli'nin Gizli Öreni

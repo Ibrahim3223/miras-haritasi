@@ -1,18 +1,17 @@
 ---
-title: "Kaledibi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:14+03:00
+title: "Kaledibi Kilisesi"
+date: "2025-12-25T09:00:14+03:00"
 slug: "kaledibi-kilisesi"
 description: "## Kaledibi Kilisesi: Trabzon'un İhtişamlı Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kaledibi_Kilisesi_1.jpg/1200px-Kaledibi_Kilisesi_1.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.7150142,41.0078703"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kaledibi Kilisesi: Trabzon'un İhtişamlı Kilisesi

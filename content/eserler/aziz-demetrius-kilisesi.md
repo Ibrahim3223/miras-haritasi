@@ -1,18 +1,17 @@
 ---
-title: "Aziz Demetrius Kilisesi | Miras Haritası"
-date: 2025-12-25T09:13:43+03:00
+title: "Aziz Demetrius Kilisesi"
+date: "2025-12-25T09:13:43+03:00"
 slug: "aziz-demetrius-kilisesi"
 description: "## Aziz Demetrius Kilisesi: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aziz_Demetrius_Kilisesi,_Şirince_08.jpg/1200px-Aziz_Demetrius_Kilisesi,_Şirince_08.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.4316483,37.9435387"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Demetrius Kilisesi: Tarih ve Kültür Mirasının Gizemi

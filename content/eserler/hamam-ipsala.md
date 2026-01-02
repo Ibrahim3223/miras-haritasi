@@ -1,18 +1,17 @@
 ---
-title: "Hamam, İpsala | Miras Haritası"
-date: 2025-12-25T17:07:31+03:00
+title: "Hamam, İpsala"
+date: "2025-12-25T17:07:31+03:00"
 slug: "hamam-ipsala"
 description: "## İpsala Hamamı: Bir Tarihî Yapının Geri Baksışı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "İpsala"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.3845177,40.9235458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İpsala Hamamı: Bir Tarihî Yapının Geri Baksışı

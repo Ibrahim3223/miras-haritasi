@@ -1,18 +1,17 @@
 ---
-title: "Agora (Trakya) | Miras Haritası"
-date: 2025-12-25T04:27:57+03:00
+title: "Agora (Trakya)"
+date: "2025-12-25T04:27:57+03:00"
 slug: "agora-trakya"
 description: "## Agora (Trakya): Tarih ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Thracische_Chersonesos.png/1200px-Thracische_Chersonesos.png"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.786353,40.513545"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Agora (Trakya): Tarih ve Kültür Mirası

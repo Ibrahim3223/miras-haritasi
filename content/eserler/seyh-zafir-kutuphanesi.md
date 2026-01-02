@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Zafir Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:44+03:00
+title: "Şeyh Zafir Kütüphanesi"
+date: "2025-12-25T17:51:44+03:00"
 slug: "seyh-zafir-kutuphanesi"
 description: "# Şeyh Zafir Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.0084743,41.0455208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyh Zafir Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Nevşehirli Damat İbrahim Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:06:47+03:00
+title: "Nevşehirli Damat İbrahim Paşa Çeşmesi"
+date: "2025-12-25T10:06:47+03:00"
 slug: "nevsehirli-damat-ibrahim-pasa-cesmesi"
 description: "## Nevşehirli Damat İbrahim Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nevşehirli_Damat_İbrahim_Paşa_Çeşmesi.jpg/1200px-Nevşehirli_Damat_İbrahim_Paşa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.012451,41.024388"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nevşehirli Damat İbrahim Paşa Çeşmesi

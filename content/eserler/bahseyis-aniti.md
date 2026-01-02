@@ -1,18 +1,17 @@
 ---
-title: "Bahşeyiş Anıtı | Miras Haritası"
-date: 2025-12-25T15:50:34+03:00
+title: "Bahşeyiş Anıtı"
+date: "2025-12-25T15:50:34+03:00"
 slug: "bahseyis-aniti"
 description: "## Bahşeyiş Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5751858,39.1530724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahşeyiş Anıtı

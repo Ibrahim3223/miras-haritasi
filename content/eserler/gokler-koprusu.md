@@ -1,18 +1,17 @@
 ---
-title: "Gökler Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:52+03:00
+title: "Gökler Köprüsü"
+date: "2025-12-25T02:43:52+03:00"
 slug: "gokler-koprusu"
 description: "# Gökler Köprüsü: Silifke'nin Tarihi Bir Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.9446144,36.7325783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gökler Köprüsü: Silifke'nin Tarihi Bir Köprüsü

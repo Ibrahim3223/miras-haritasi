@@ -1,18 +1,17 @@
 ---
-title: "Su Perilerinin Dansı Heykeli | Miras Haritası"
-date: 2025-12-25T15:48:25+03:00
+title: "Su Perilerinin Dansı Heykeli"
+date: "2025-12-25T15:48:25+03:00"
 slug: "su-perilerinin-dansi-heykeli"
 description: "## Su Perilerinin Dansı Heykeli..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8594742,39.9006538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Su Perilerinin Dansı Heykeli

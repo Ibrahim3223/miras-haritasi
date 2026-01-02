@@ -1,18 +1,17 @@
 ---
-title: "İlyas Bey Camii, Gebze | Miras Haritası"
-date: 2025-12-25T01:11:31+03:00
+title: "İlyas Bey Camii, Gebze"
+date: "2025-12-25T01:11:31+03:00"
 slug: "ilyas-bey-camii-gebze"
 description: "## İlyas Bey Camii, Gebze..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4404812,40.7996292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlyas Bey Camii, Gebze

@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Çarşı Merkez Camii | Miras Haritası"
-date: 2025-12-24T23:27:13+03:00
+title: "Yukarı Çarşı Merkez Camii"
+date: "2025-12-24T23:27:13+03:00"
 slug: "yukari-carsi-merkez-camii"
 description: "## Yukarı Çarşı Merkez Camii - İzmir'in Tarihi bir Çaprazı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8878269,38.3569565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Çarşı Merkez Camii - İzmir'in Tarihi bir Çaprazı

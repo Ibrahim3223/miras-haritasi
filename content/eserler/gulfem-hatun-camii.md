@@ -1,18 +1,17 @@
 ---
-title: "Gülfem Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:52:29+03:00
+title: "Gülfem Hatun Camii"
+date: "2025-12-24T22:52:29+03:00"
 slug: "gulfem-hatun-camii"
 description: "## Gülfem Hatun Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0151155,41.0236574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülfem Hatun Camii

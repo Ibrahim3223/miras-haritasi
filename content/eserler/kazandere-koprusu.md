@@ -1,18 +1,17 @@
 ---
-title: "Kazandere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:17:49+03:00
+title: "Kazandere Köprüsü"
+date: "2025-12-25T02:17:49+03:00"
 slug: "kazandere-koprusu"
 description: "## Kazandere Köprüsü: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3793163,37.6221352"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazandere Köprüsü: Aydın'ın Tarihi Bir Mirası

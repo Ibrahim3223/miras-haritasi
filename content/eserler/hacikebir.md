@@ -1,18 +1,17 @@
 ---
-title: "Hacıkebir | Miras Haritası"
-date: 2025-12-25T05:35:19+03:00
+title: "Hacıkebir"
+date: "2025-12-25T05:35:19+03:00"
 slug: "hacikebir"
 description: "## Hacıkebir: Kütahya'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Çavdarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.651033,39.221333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıkebir: Kütahya'nın Gizli Çiçeği

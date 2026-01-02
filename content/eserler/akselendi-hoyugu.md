@@ -1,18 +1,17 @@
 ---
-title: "Akselendi Höyüğü | Miras Haritası"
-date: 2025-12-25T06:09:16+03:00
+title: "Akselendi Höyüğü"
+date: "2025-12-25T06:09:16+03:00"
 slug: "akselendi-hoyugu"
 description: "## Akselendi Höyüğü: Tarihî Bir Mirasın Geri Baksı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8866062,38.774395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akselendi Höyüğü: Tarihî Bir Mirasın Geri Baksı

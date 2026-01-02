@@ -1,18 +1,17 @@
 ---
-title: "Gorbeus | Miras Haritası"
-date: 2025-12-25T05:09:16+03:00
+title: "Gorbeus"
+date: "2025-12-25T05:09:16+03:00"
 slug: "gorbeus"
 description: "## Gorbeus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.87447,39.69484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gorbeus Arkeolojik Sit

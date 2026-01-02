@@ -1,18 +1,17 @@
 ---
-title: "Dikmetaş Höyüğü | Miras Haritası"
-date: 2025-12-25T06:46:13+03:00
+title: "Dikmetaş Höyüğü"
+date: "2025-12-25T06:46:13+03:00"
 slug: "dikmetas-hoyugu"
 description: "## Dikmetaş Höyüğü..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.7962115,40.0179676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dikmetaş Höyüğü

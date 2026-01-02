@@ -1,18 +1,17 @@
 ---
-title: "Ali Kuşçu Camii | Miras Haritası"
-date: 2025-12-25T01:04:50+03:00
+title: "Ali Kuşçu Camii"
+date: "2025-12-25T01:04:50+03:00"
 slug: "ali-kuscu-camii"
 description: "## Ali Kuşçu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ali_Kuşçu_Cami.jpg/1200px-Ali_Kuşçu_Cami.jpg"
-province: "Arnavutköy"
-iller: ["Arnavutköy"]
-district: "İmrahor"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Arnavutköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.745583349,41.253636917"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ali Kuşçu Camii

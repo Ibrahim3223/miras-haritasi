@@ -1,18 +1,17 @@
 ---
-title: "Hırka Höyüğü | Miras Haritası"
-date: 2025-12-25T06:41:04+03:00
+title: "Hırka Höyüğü"
+date: "2025-12-25T06:41:04+03:00"
 slug: "hirka-hoyugu"
 description: "## Hırka Höyüğü: Kayseri'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.4386584,38.9593483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hırka Höyüğü: Kayseri'nin Gizli Anıtı

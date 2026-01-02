@@ -1,18 +1,17 @@
 ---
-title: "Fadıloğlu Camii | Miras Haritası"
-date: 2025-12-24T23:02:16+03:00
+title: "Fadıloğlu Camii"
+date: "2025-12-24T23:02:16+03:00"
 slug: "fadiloglu-camii"
 description: "### Fadıloğlu Camii..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.746788,38.0893784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fadıloğlu Camii

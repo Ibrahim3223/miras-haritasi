@@ -1,18 +1,17 @@
 ---
-title: "Ezger Sinagogu | Miras Haritası"
-date: 2025-12-25T16:11:26+03:00
+title: "Ezger Sinagogu"
+date: "2025-12-25T16:11:26+03:00"
 slug: "ezger-sinagogu"
 description: "## Ezger Sinagogu: Beyoğlu'ndaki Yörük Sinagogu..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Keçeci Piri"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.951138888,41.039277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ezger Sinagogu: Beyoğlu'ndaki Yörük Sinagogu

@@ -1,18 +1,17 @@
 ---
-title: "İskele Höyük | Miras Haritası"
-date: 2025-12-25T05:36:42+03:00
+title: "İskele Höyük"
+date: "2025-12-25T05:36:42+03:00"
 slug: "iskele-hoyuk"
 description: "## İskele Höyük: Isparta'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Gelendost"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.950833,38.046517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskele Höyük: Isparta'nın Gizli Hazineleri

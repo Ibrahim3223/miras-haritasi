@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ali Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:35+03:00
+title: "Mehmet Ali Paşa Çeşmesi"
+date: "2025-12-25T11:21:35+03:00"
 slug: "mehmet-ali-pasa-cesmesi"
 description: "## Mehmet Ali Paşa Çeşmesi..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Anadolu Hisarı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.068928,41.08365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ali Paşa Çeşmesi

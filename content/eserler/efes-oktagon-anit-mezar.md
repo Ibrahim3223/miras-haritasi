@@ -1,18 +1,17 @@
 ---
-title: "Efes Oktagon Anıt Mezar | Miras Haritası"
-date: 2025-12-25T14:04:46+03:00
+title: "Efes Oktagon Anıt Mezar"
+date: "2025-12-25T14:04:46+03:00"
 slug: "efes-oktagon-anit-mezar"
 description: "## Efes Oktagon Anıt Mezar..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.341465,37.9386482"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Efes Oktagon Anıt Mezar

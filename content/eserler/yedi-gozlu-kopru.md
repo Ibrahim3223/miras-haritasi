@@ -1,18 +1,17 @@
 ---
-title: "Yedi Gözlü Köprü | Miras Haritası"
-date: 2025-12-25T02:25:00+03:00
+title: "Yedi Gözlü Köprü"
+date: "2025-12-25T02:25:00+03:00"
 slug: "yedi-gozlu-kopru"
 description: "### Yedi Gözlü Köprü: İzmirlinin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.5231513,38.4494489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yedi Gözlü Köprü: İzmirlinin Gizli Çehresini Keşfetmek

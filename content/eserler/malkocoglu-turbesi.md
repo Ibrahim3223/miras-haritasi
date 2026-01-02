@@ -1,18 +1,17 @@
 ---
-title: "Malkoçoğlu Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:32+03:00
+title: "Malkoçoğlu Türbesi"
+date: "2025-12-25T15:00:32+03:00"
 slug: "malkocoglu-turbesi"
 description: "## Malkoçoğlu Türbesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.431303,40.797821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malkoçoğlu Türbesi

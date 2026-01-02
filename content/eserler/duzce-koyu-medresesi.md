@@ -1,18 +1,17 @@
 ---
-title: "Düzce Köyü Medresesi | Miras Haritası"
-date: 2025-12-25T17:42:32+03:00
+title: "Düzce Köyü Medresesi"
+date: "2025-12-25T17:42:32+03:00"
 slug: "duzce-koyu-medresesi"
 description: "## Düzce Köyü Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "26.8160725,38.2428436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düzce Köyü Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Doğanköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:39:17+03:00
+title: "Doğanköy Köprüsü"
+date: "2025-12-25T02:39:17+03:00"
 slug: "dogankoy-koprusu"
 description: "## Doğanköy Köprüsü: Türkiye'nin Tarihi Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Akçaabat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.475269,40.902868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Doğanköy Köprüsü: Türkiye'nin Tarihi Mirası

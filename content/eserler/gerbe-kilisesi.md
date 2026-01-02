@@ -1,18 +1,17 @@
 ---
-title: "Gerbe Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:51+03:00
+title: "Gerbe Kilisesi"
+date: "2025-12-25T09:32:51+03:00"
 slug: "gerbe-kilisesi"
 description: "## Gerbe Kilisesi: Marmaris'in Tarihî Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.2667999,36.7343559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gerbe Kilisesi: Marmaris'in Tarihî Mirası

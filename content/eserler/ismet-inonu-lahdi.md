@@ -1,18 +1,17 @@
 ---
-title: "İsmet İnönü Lahdi | Miras Haritası"
-date: 2025-12-25T14:06:09+03:00
+title: "İsmet İnönü Lahdi"
+date: "2025-12-25T14:06:09+03:00"
 slug: "ismet-inonu-lahdi"
 description: "## İsmet İnönü Lahdi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8363419,39.9246292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmet İnönü Lahdi

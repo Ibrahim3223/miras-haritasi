@@ -1,18 +1,17 @@
 ---
-title: "Selim Sırrı Paşa Konağı | Miras Haritası"
-date: 2025-12-25T04:07:19+03:00
+title: "Selim Sırrı Paşa Konağı"
+date: "2025-12-25T04:07:19+03:00"
 slug: "selim-sirri-pasa-konagi"
 description: "## Selim Sırrı Paşa Konağı: İzmit'in Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Selim_Sırrı_Paşa_Konağı_(3)_01.jpg/1200px-Selim_Sırrı_Paşa_Konağı_(3)_01.jpg"
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.920684387,40.765384606"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Selim Sırrı Paşa Konağı: İzmit'in Tarihi Mirası

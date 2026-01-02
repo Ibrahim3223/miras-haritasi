@@ -1,18 +1,17 @@
 ---
-title: "Laodicea Agorası | Miras Haritası"
-date: 2025-12-25T08:27:59+03:00
+title: "Laodicea Agorası"
+date: "2025-12-25T08:27:59+03:00"
 slug: "laodicea-agorasi"
 description: "## Laodicea Agorası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Laodicea_Central-Agora_20240929_094815.jpg/1200px-Laodicea_Central-Agora_20240929_094815.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1084895,37.8359637"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Laodicea Agorası

@@ -1,18 +1,17 @@
 ---
-title: "Hafız Ahmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:23:40+03:00
+title: "Hafız Ahmet Paşa Camii"
+date: "2025-12-24T23:23:40+03:00"
 slug: "hafiz-ahmet-pasa-camii"
 description: "## Hafız Ahmet Paşa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.94756,41.021718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafız Ahmet Paşa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Kleitai | Miras Haritası"
-date: 2025-12-25T04:40:31+03:00
+title: "Kleitai"
+date: "2025-12-25T04:40:31+03:00"
 slug: "kleitai"
 description: "## Kleitai: Bartın'ın Gizli Gölleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bartın"
+province: "Bartın"
+iller: '["Bartın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.5,41.6"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kleitai: Bartın'ın Gizli Gölleri

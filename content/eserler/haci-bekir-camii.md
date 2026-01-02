@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bekir Camii | Miras Haritası"
-date: 2025-12-24T23:26:13+03:00
+title: "Hacı Bekir Camii"
+date: "2025-12-24T23:26:13+03:00"
 slug: "haci-bekir-camii"
 description: "## Hacı Bekir Camii: Malatya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Malatya"
+province: "Malatya"
+iller: '["Malatya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.318821,38.1436272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Bekir Camii: Malatya'nın Tarihi ve Kültürel Mirası

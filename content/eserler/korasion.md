@@ -1,18 +1,17 @@
 ---
-title: "Korasion | Miras Haritası"
-date: 2025-12-25T07:10:51+03:00
+title: "Korasion"
+date: "2025-12-25T07:10:51+03:00"
 slug: "korasion"
 description: "## Korasion: Silifke'nin Gizli İhtişamı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.07638889,36.40888889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Korasion: Silifke'nin Gizli İhtişamı

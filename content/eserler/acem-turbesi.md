@@ -1,18 +1,17 @@
 ---
-title: "Acem Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:46+03:00
+title: "Acem Türbesi"
+date: "2025-12-25T15:20:46+03:00"
 slug: "acem-turbesi"
 description: "## Acem Türbesi: Köyceğiz'in Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.7109604,36.9292488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acem Türbesi: Köyceğiz'in Gizli Cenneti

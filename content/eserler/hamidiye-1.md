@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye 1 | Miras Haritası"
-date: 2025-12-25T05:27:27+03:00
+title: "Hamidiye 1"
+date: "2025-12-25T05:27:27+03:00"
 slug: "hamidiye-1"
 description: "## Hamidiye 1: Eskişehir'in Tarihî Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.918333,39.5702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye 1: Eskişehir'in Tarihî Mirası

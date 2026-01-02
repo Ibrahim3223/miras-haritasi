@@ -1,18 +1,17 @@
 ---
-title: "Beypınar Muhtar Tepesi Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:50:25+03:00
+title: "Beypınar Muhtar Tepesi Tümülüsü"
+date: "2025-12-25T07:50:25+03:00"
 slug: "beypinar-muhtar-tepesi-tumulusu"
 description: "# Beypınar Muhtar Tepesi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5053349,41.781826"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Beypınar Muhtar Tepesi Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Saatli Kule Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:31:30+03:00
+title: "Saatli Kule Çeşmesi"
+date: "2025-12-25T11:31:30+03:00"
 slug: "saatli-kule-cesmesi"
 description: "## Saatli Kule Çeşmesi: Muğla'nın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3656807,37.2178459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saatli Kule Çeşmesi: Muğla'nın Tarihî Bir Çeşmesi

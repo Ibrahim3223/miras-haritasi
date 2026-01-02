@@ -1,18 +1,17 @@
 ---
-title: "Özdoyuran Cami Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:23+03:00
+title: "Özdoyuran Cami Çeşmesi"
+date: "2025-12-25T10:54:23+03:00"
 slug: "ozdoyuran-cami-cesmesi"
 description: "## Özdoyuran Cami Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5092945,40.9756775"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özdoyuran Cami Çeşmesi

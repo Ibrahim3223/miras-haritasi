@@ -1,18 +1,17 @@
 ---
-title: "Höyücektepe / Kaymaktepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:59:31+03:00
+title: "Höyücektepe / Kaymaktepe Höyüğü"
+date: "2025-12-25T06:59:31+03:00"
 slug: "hoyucektepe-kaymaktepe-hoyugu"
 description: "## Höyücektepe / Kaymaktepe Höyüğü: Balıkesir'in Eski İnsanının Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Höyücektepe / Kaymaktepe Höyüğü: Balıkesir'in Eski İnsanının Mirası

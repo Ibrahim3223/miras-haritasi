@@ -1,18 +1,17 @@
 ---
-title: "Bigadiç Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:43+03:00
+title: "Bigadiç Kalesi"
+date: "2025-12-25T01:44:43+03:00"
 slug: "bigadic-kalesi"
 description: "## Bigadiç Kalesi: Tarihçesi ve Özellikleri..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bigadiç"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.1354599,39.3958092"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bigadiç Kalesi: Tarihçesi ve Özellikleri

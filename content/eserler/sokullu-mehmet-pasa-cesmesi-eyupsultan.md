@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Çeşmesi, Eyüpsultan | Miras Haritası"
-date: 2025-12-25T12:11:21+03:00
+title: "Sokullu Mehmet Paşa Çeşmesi, Eyüpsultan"
+date: "2025-12-25T12:11:21+03:00"
 slug: "sokullu-mehmet-pasa-cesmesi-eyupsultan"
 description: "## Sokullu Mehmet Paşa Çeşmesi: Eyüpsultan'ın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eyüpsultan_Sokullu_Mehmet_Paşa_Fountain_1.jpg/1200px-Eyüpsultan_Sokullu_Mehmet_Paşa_Fountain_1.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.933673,41.04672"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sokullu Mehmet Paşa Çeşmesi: Eyüpsultan'ın Gizli Çeşmesi

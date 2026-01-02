@@ -1,18 +1,17 @@
 ---
-title: "Kınalıada Metamorfosis Manastırı | Miras Haritası"
-date: 2025-12-25T09:49:55+03:00
+title: "Kınalıada Metamorfosis Manastırı"
+date: "2025-12-25T09:49:55+03:00"
 slug: "kinaliada-metamorfosis-manastiri"
 description: "## Kınalıada Metamorfosis Manastırı: Eine Tarihî Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Christo_Monastery.jpg/1200px-Christo_Monastery.jpg"
-province: "Adalar"
-iller: ["Adalar"]
-district: "Kınalıada"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Adalar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.050243,40.905869"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kınalıada Metamorfosis Manastırı: Eine Tarihî Miras

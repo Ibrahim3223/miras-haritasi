@@ -1,18 +1,17 @@
 ---
-title: "İlyaszade Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:21:20+03:00
+title: "İlyaszade Çeşmesi, Çeşme"
+date: "2025-12-25T12:21:20+03:00"
 slug: "ilyaszade-cesmesi-cesme"
 description: "## İlyaszade Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3066349,38.3225975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlyaszade Çeşmesi

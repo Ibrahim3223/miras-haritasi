@@ -1,18 +1,17 @@
 ---
-title: "Derviş Ali Camii | Miras Haritası"
-date: 2025-12-24T22:50:23+03:00
+title: "Derviş Ali Camii"
+date: "2025-12-24T22:50:23+03:00"
 slug: "dervis-ali-camii"
 description: "### Derviş Ali Camii: Fatih'in Gizli Çeşmesi'nin Yeri..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Derviş Ali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9428787,41.0275116"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Derviş Ali Camii: Fatih'in Gizli Çeşmesi'nin Yeri

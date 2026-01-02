@@ -1,18 +1,17 @@
 ---
-title: "Ulucak Höyüğü | Miras Haritası"
-date: 2025-12-25T05:46:08+03:00
+title: "Ulucak Höyüğü"
+date: "2025-12-25T05:46:08+03:00"
 slug: "ulucak-hoyugu"
 description: "## Ulucak Höyüğü: İzmir'in Gizli Tarihi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3521595,38.4666557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulucak Höyüğü: İzmir'in Gizli Tarihi

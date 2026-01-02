@@ -1,18 +1,17 @@
 ---
-title: "Hristos Manastırı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:45:32+03:00
+title: "Hristos Manastırı Çeşmesi"
+date: "2025-12-25T11:45:32+03:00"
 slug: "hristos-manastiri-cesmesi"
 description: "## Hristos Manastırı Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.124012,40.8645706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hristos Manastırı Çeşmesi: İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hamam Karahisar | Miras Haritası"
-date: 2025-12-25T05:26:59+03:00
+title: "Hamam Karahisar"
+date: "2025-12-25T05:26:59+03:00"
 slug: "hamam-karahisar"
 description: "**Hamam Karahisar: Sivrihisar'ın Gizli Cenneti**..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.7239,39.442317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hamam Karahisar: Sivrihisar'ın Gizli Cenneti**

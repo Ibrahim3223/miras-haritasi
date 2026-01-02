@@ -1,18 +1,17 @@
 ---
-title: "Yoğun Burç | Miras Haritası"
-date: 2025-12-25T01:47:01+03:00
+title: "Yoğun Burç"
+date: "2025-12-25T01:47:01+03:00"
 slug: "yogun-burc"
 description: "## Yoğun Burç: Kayseri'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.4918709,38.7182465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yoğun Burç: Kayseri'nin Tarihî Mirası

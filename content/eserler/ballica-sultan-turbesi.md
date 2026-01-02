@@ -1,18 +1,17 @@
 ---
-title: "Ballıca Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:01+03:00
+title: "Ballıca Sultan Türbesi"
+date: "2025-12-25T15:29:01+03:00"
 slug: "ballica-sultan-turbesi"
 description: "### Ballıca Sultan Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Balıkesir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8788548,39.6436081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ballıca Sultan Türbesi

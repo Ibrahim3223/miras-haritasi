@@ -1,18 +1,17 @@
 ---
-title: "Alaaddin Hamamı | Miras Haritası"
-date: 2025-12-25T16:52:08+03:00
+title: "Alaaddin Hamamı"
+date: "2025-12-25T16:52:08+03:00"
 slug: "alaaddin-hamami"
 description: "### Alaaddin Hamamı..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.1477089,42.0261765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alaaddin Hamamı

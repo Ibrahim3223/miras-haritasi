@@ -1,18 +1,17 @@
 ---
-title: "Otantika Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:55:53+03:00
+title: "Otantika Etnografya Müzesi"
+date: "2025-12-25T03:55:53+03:00"
 slug: "otantika-etnografya-muzesi"
 description: "## Otantika Etnografya Müzesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.426145,37.765777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Otantika Etnografya Müzesi

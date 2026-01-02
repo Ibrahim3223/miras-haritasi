@@ -1,18 +1,17 @@
 ---
-title: "Umurbey Camii | Miras Haritası"
-date: 2025-12-24T22:19:18+03:00
+title: "Umurbey Camii"
+date: "2025-12-24T22:19:18+03:00"
 slug: "umurbey-camii"
 description: "## Umurbey Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Umurbey_Camii,_Balıkesir,_2023.jpg/1200px-Umurbey_Camii,_Balıkesir,_2023.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.884529,39.647041"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Umurbey Camii Tanıtımı

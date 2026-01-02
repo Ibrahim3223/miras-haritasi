@@ -1,18 +1,17 @@
 ---
-title: "Hermokapelia | Miras Haritası"
-date: 2025-12-25T04:41:58+03:00
+title: "Hermokapelia"
+date: "2025-12-25T04:41:58+03:00"
 slug: "hermokapelia"
 description: "## Hermokapelia: Manisa'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.614993,38.921548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hermokapelia: Manisa'nın Gizemli Arkeolojik Sitleri

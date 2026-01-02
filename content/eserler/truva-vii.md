@@ -1,18 +1,17 @@
 ---
-title: "Truva VII | Miras Haritası"
-date: 2025-12-25T06:49:45+03:00
+title: "Truva VII"
+date: "2025-12-25T06:49:45+03:00"
 slug: "truva-vii"
 description: "## Truva VII: Efsanevi Kentin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Troy_walls_VII_and_IX.jpg/1200px-Troy_walls_VII_and_IX.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.239,39.956417"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Truva VII: Efsanevi Kentin İzleri

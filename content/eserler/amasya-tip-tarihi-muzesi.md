@@ -1,18 +1,17 @@
 ---
-title: "Amasya Tıp Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:47:55+03:00
+title: "Amasya Tıp Tarihi Müzesi"
+date: "2025-12-25T03:47:55+03:00"
 slug: "amasya-tip-tarihi-muzesi"
 description: "# Amasya Tıp Tarihi Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Amasya Tıp Tarihi Müzesi

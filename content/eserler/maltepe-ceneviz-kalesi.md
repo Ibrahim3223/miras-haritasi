@@ -1,18 +1,17 @@
 ---
-title: "Maltepe Ceneviz Kalesi | Miras Haritası"
-date: 2025-12-25T01:42:01+03:00
+title: "Maltepe Ceneviz Kalesi"
+date: "2025-12-25T01:42:01+03:00"
 slug: "maltepe-ceneviz-kalesi"
 description: "## Maltepe Ceneviz Kalesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.1565361,40.9574509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltepe Ceneviz Kalesi

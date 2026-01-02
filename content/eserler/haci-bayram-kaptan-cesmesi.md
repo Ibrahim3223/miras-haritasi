@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bayram Kaptan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:43+03:00
+title: "Hacı Bayram Kaptan Çeşmesi"
+date: "2025-12-25T11:05:43+03:00"
 slug: "haci-bayram-kaptan-cesmesi"
 description: "## Hacı Bayram Kaptan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hacı_Bayram_Kaptan_Çeşmesi.jpg/1200px-Hacı_Bayram_Kaptan_Çeşmesi.jpg"
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "İstinye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.058063,41.114914"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Bayram Kaptan Çeşmesi

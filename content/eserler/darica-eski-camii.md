@@ -1,18 +1,17 @@
 ---
-title: "Darıca Eski Camii | Miras Haritası"
-date: 2025-12-24T22:33:52+03:00
+title: "Darıca Eski Camii"
+date: "2025-12-24T22:33:52+03:00"
 slug: "darica-eski-camii"
 description: "## Darıca Eski Camii: Kocaeli'nin Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.3825111,40.7590866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darıca Eski Camii: Kocaeli'nin Tarihî Mirası

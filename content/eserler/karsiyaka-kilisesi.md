@@ -1,18 +1,17 @@
 ---
-title: "Karşıyaka Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:48+03:00
+title: "Karşıyaka Kilisesi"
+date: "2025-12-25T09:25:48+03:00"
 slug: "karsiyaka-kilisesi"
 description: "## Karşıyaka Kilisesi: Balıkesir'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.0007095,40.4418068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karşıyaka Kilisesi: Balıkesir'in Gizli Cenneti

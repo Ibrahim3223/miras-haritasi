@@ -1,18 +1,17 @@
 ---
-title: "Ballıkkaya Bizans Kilisesi | Miras Haritası"
-date: 2025-12-25T09:18:26+03:00
+title: "Ballıkkaya Bizans Kilisesi"
+date: "2025-12-25T09:18:26+03:00"
 slug: "ballikkaya-bizans-kilisesi"
 description: "### Ballıkkaya Bizans Kilisesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.4904003,37.5522003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ballıkkaya Bizans Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Mescit Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:32:18+03:00
+title: "Mescit Sokak Çeşmesi"
+date: "2025-12-25T10:32:18+03:00"
 slug: "mescit-sokak-cesmesi"
 description: "## Mescit Sokak Çeşmesi: Aydın'ın Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuyucak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.463644,37.9152565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mescit Sokak Çeşmesi: Aydın'ın Tarihi Bir Çeşme

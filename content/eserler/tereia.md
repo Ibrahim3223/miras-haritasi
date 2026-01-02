@@ -1,18 +1,17 @@
 ---
-title: "Tereia | Miras Haritası"
-date: 2025-12-25T04:37:29+03:00
+title: "Tereia"
+date: "2025-12-25T04:37:29+03:00"
 slug: "tereia"
 description: "## Tereia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tereia Arkeolojik Sit

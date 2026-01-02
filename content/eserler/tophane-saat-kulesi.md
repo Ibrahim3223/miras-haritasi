@@ -1,18 +1,17 @@
 ---
-title: "Tophane Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:20:06+03:00
+title: "Tophane Saat Kulesi"
+date: "2025-12-25T17:20:06+03:00"
 slug: "tophane-saat-kulesi"
 description: "## Tophane Saat Kulesi: Bursa'nın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Clock_Tower,_Bursa.jpg/1200px-Clock_Tower,_Bursa.jpg"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "29.0575,40.1875"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tophane Saat Kulesi: Bursa'nın Tarihî Mirası

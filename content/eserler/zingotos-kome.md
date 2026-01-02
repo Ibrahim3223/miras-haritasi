@@ -1,18 +1,17 @@
 ---
-title: "Zingotos Kome | Miras Haritası"
-date: 2025-12-25T05:20:11+03:00
+title: "Zingotos Kome"
+date: "2025-12-25T05:20:11+03:00"
 slug: "zingotos-kome"
 description: "## Zingotos Kome: Türkiye'nin Antikçağından Bir İhtişam..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.097667,39.218945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zingotos Kome: Türkiye'nin Antikçağından Bir İhtişam

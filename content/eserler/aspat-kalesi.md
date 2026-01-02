@@ -1,18 +1,17 @@
 ---
-title: "Aspat Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:34+03:00
+title: "Aspat Kalesi"
+date: "2025-12-25T01:23:34+03:00"
 slug: "aspat-kalesi"
 description: "## Aspat Kalesi: Bodrum'un Gizli Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.317522643,36.980547199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aspat Kalesi: Bodrum'un Gizli Anıtı

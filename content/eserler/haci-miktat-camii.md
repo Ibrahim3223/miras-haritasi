@@ -1,18 +1,17 @@
 ---
-title: "Hacı Miktat Camii | Miras Haritası"
-date: 2025-12-24T23:30:11+03:00
+title: "Hacı Miktat Camii"
+date: "2025-12-24T23:30:11+03:00"
 slug: "haci-miktat-camii"
 description: "### Hacı Miktat Camii: Giresun'un Tarihsel Öncüleri..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.383022,40.916852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Miktat Camii: Giresun'un Tarihsel Öncüleri

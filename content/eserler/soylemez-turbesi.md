@@ -1,18 +1,17 @@
 ---
-title: "Söylemez Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:54+03:00
+title: "Söylemez Türbesi"
+date: "2025-12-25T14:58:54+03:00"
 slug: "soylemez-turbesi"
 description: "## Söylemez Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4894638,37.8653374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söylemez Türbesi

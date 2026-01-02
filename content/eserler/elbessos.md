@@ -1,18 +1,17 @@
 ---
-title: "Elbessos | Miras Haritası"
-date: 2025-12-25T04:55:09+03:00
+title: "Elbessos"
+date: "2025-12-25T04:55:09+03:00"
 slug: "elbessos"
 description: "### Elbessos: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.641536,36.689489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Elbessos: Antik Bir Kentin İzleri

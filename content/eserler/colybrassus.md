@@ -1,18 +1,17 @@
 ---
-title: "Colybrassus | Miras Haritası"
-date: 2025-12-25T04:18:32+03:00
+title: "Colybrassus"
+date: "2025-12-25T04:18:32+03:00"
 slug: "colybrassus"
 description: "## Colybrassus: Antalya'nın Eski Dünya Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Colybrassus_ayasofya_2.jpg/1200px-Colybrassus_ayasofya_2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.9754,36.7316"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Colybrassus: Antalya'nın Eski Dünya Mirası

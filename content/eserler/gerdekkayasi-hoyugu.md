@@ -1,18 +1,17 @@
 ---
-title: "Gerdekkayası Höyüğü | Miras Haritası"
-date: 2025-12-25T06:09:52+03:00
+title: "Gerdekkayası Höyüğü"
+date: "2025-12-25T06:09:52+03:00"
 slug: "gerdekkayasi-hoyugu"
 description: "## Gerdekkayası Höyüğü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0849628,38.6610146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gerdekkayası Höyüğü

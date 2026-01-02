@@ -1,18 +1,17 @@
 ---
-title: "İkinciler Höyüğü | Miras Haritası"
-date: 2025-12-25T06:04:22+03:00
+title: "İkinciler Höyüğü"
+date: "2025-12-25T06:04:22+03:00"
 slug: "ikinciler-hoyugu"
 description: "**İkinciler Höyüğü: Malatya'nın Önemli Arkeolojik Mirası**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9510994,38.2943459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İkinciler Höyüğü: Malatya'nın Önemli Arkeolojik Mirası**

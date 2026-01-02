@@ -1,18 +1,17 @@
 ---
-title: "Devletşah Mescidi | Miras Haritası"
-date: 2025-12-25T01:01:48+03:00
+title: "Devletşah Mescidi"
+date: "2025-12-25T01:01:48+03:00"
 slug: "devletsah-mescidi"
 description: "## Devletşah Mescidi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5522022,41.6840363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Devletşah Mescidi: Edirne'nin Gizli Cenneti

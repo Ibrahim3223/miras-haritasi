@@ -1,18 +1,17 @@
 ---
-title: "Antakya Sirki | Miras Haritası"
-date: 2025-12-25T06:56:51+03:00
+title: "Antakya Sirki"
+date: "2025-12-25T06:56:51+03:00"
 slug: "antakya-sirki"
 description: "### Antakya Sirki..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antiochia_su_Oronte.PNG/1200px-Antiochia_su_Oronte.PNG"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.171743,36.226691"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Antakya Sirki

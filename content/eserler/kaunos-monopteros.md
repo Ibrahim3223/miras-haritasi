@@ -1,18 +1,17 @@
 ---
-title: "Kaunos Monopteros | Miras Haritası"
-date: 2025-12-25T14:05:11+03:00
+title: "Kaunos Monopteros"
+date: "2025-12-25T14:05:11+03:00"
 slug: "kaunos-monopteros"
 description: "**Kaunos Monopteros: Köyceğiz'in Gizli Gözdelerinden Birini Keşfetmek**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.6209087,36.8234482"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kaunos Monopteros: Köyceğiz'in Gizli Gözdelerinden Birini Keşfetmek**

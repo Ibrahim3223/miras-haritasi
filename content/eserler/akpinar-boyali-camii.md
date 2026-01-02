@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Boyalı Camii | Miras Haritası"
-date: 2025-12-24T22:57:58+03:00
+title: "Akpınar Boyalı Camii"
+date: "2025-12-24T22:57:58+03:00"
 slug: "akpinar-boyali-camii"
 description: "### Akpınar Boyalı Camii: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çameli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1399002,37.0027008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akpınar Boyalı Camii: Tarihî Bir Mirasın Gizemi

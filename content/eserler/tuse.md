@@ -1,18 +1,17 @@
 ---
-title: "Tüse | Miras Haritası"
-date: 2025-12-25T08:31:43+03:00
+title: "Tüse"
+date: "2025-12-25T08:31:43+03:00"
 slug: "tuse"
 description: "## Tüse: Kaş'ın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.751492,36.267252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tüse: Kaş'ın Gizli Cenneti

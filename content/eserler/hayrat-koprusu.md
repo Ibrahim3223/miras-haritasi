@@ -1,18 +1,17 @@
 ---
-title: "Hayrat Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:06+03:00
+title: "Hayrat Köprüsü"
+date: "2025-12-25T02:36:06+03:00"
 slug: "hayrat-koprusu"
 description: "# Hayrat Köprüsü: Trabzon'un tarihi ve kültürel mirasının bir parçası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Hayrat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.367595,40.888556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hayrat Köprüsü: Trabzon'un tarihi ve kültürel mirasının bir parçası

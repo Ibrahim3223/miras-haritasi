@@ -1,18 +1,17 @@
 ---
-title: "Hoca Mahmut Camii | Miras Haritası"
-date: 2025-12-24T23:35:37+03:00
+title: "Hoca Mahmut Camii"
+date: "2025-12-24T23:35:37+03:00"
 slug: "hoca-mahmut-camii"
 description: "### Karaman'da Tarih ve Güzellik: Hoca Mahmut Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2238159,37.1797333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaman'da Tarih ve Güzellik: Hoca Mahmut Camii

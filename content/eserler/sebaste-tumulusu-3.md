@@ -1,18 +1,17 @@
 ---
-title: "Sebaste Tümülüsü 3 | Miras Haritası"
-date: 2025-12-25T07:53:43+03:00
+title: "Sebaste Tümülüsü 3"
+date: "2025-12-25T07:53:43+03:00"
 slug: "sebaste-tumulusu-3"
 description: "## Sebaste Tümülüsü 3: Uşak'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Sivaslı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.653333726,38.48979809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sebaste Tümülüsü 3: Uşak'ın Gizli Hazineleri

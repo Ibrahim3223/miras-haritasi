@@ -1,18 +1,17 @@
 ---
-title: "Tirebolu Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:29+03:00
+title: "Tirebolu Hamamı"
+date: "2025-12-25T16:25:29+03:00"
 slug: "tirebolu-hamami"
 description: "## Tirebolu Hamamı: Giresun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.815222222,41.006888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tirebolu Hamamı: Giresun'un Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Yazır Köyü Eski Camii (Ankara) | Miras Haritası"
-date: 2025-12-25T00:35:58+03:00
+title: "Yazır Köyü Eski Camii (Ankara)"
+date: "2025-12-25T00:35:58+03:00"
 slug: "yazir-koyu-eski-camii-ankara"
 description: "### Yazır Köyü Eski Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.975111429,40.185289169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yazır Köyü Eski Camii: Ankara'nın Tarihi Bir Mirası

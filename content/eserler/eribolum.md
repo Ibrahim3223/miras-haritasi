@@ -1,18 +1,17 @@
 ---
-title: "Eribolum | Miras Haritası"
-date: 2025-12-25T04:47:19+03:00
+title: "Eribolum"
+date: "2025-12-25T04:47:19+03:00"
 slug: "eribolum"
 description: "**Eribolum Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.8944,40.6939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Eribolum Arkeolojik Sit**

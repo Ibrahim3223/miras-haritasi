@@ -1,18 +1,17 @@
 ---
-title: "Abdülhalim Camii | Miras Haritası"
-date: 2025-12-24T22:44:24+03:00
+title: "Abdülhalim Camii"
+date: "2025-12-24T22:44:24+03:00"
 slug: "abdulhalim-camii"
 description: "## Abdülhalim Camii: Kozyatağı, Kadıköy'un Tarihi Bir Câmii..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Kozyatağı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0952833,40.9715031"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdülhalim Camii: Kozyatağı, Kadıköy'un Tarihi Bir Câmii

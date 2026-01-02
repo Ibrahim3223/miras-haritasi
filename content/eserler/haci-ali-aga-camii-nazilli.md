@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ali Ağa Camii, Nazilli | Miras Haritası"
-date: 2025-12-25T00:25:13+03:00
+title: "Hacı Ali Ağa Camii, Nazilli"
+date: "2025-12-25T00:25:13+03:00"
 slug: "haci-ali-aga-camii-nazilli"
 description: "## Hacı Ali Ağa Camii: Nazilli'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3220673,37.9034882"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ali Ağa Camii: Nazilli'nin Gizli Çeşmesi

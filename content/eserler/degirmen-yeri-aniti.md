@@ -1,18 +1,17 @@
 ---
-title: "Değirmen Yeri Anıtı | Miras Haritası"
-date: 2025-12-25T15:43:08+03:00
+title: "Değirmen Yeri Anıtı"
+date: "2025-12-25T15:43:08+03:00"
 slug: "degirmen-yeri-aniti"
 description: "# Değirmen Yeri Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.537994059,39.031550709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Değirmen Yeri Anıtı

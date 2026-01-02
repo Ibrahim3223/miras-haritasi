@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme, Fenerköy | Miras Haritası"
-date: 2025-12-25T12:47:53+03:00
+title: "Havuzlu Çeşme, Fenerköy"
+date: "2025-12-25T12:47:53+03:00"
 slug: "havuzlu-cesme-fenerkoy"
 description: "## Havuzlu Çeşme, Fenerköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2380924,41.1503067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Çeşme, Fenerköy

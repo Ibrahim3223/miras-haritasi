@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Seramik Müzesi | Miras Haritası"
-date: 2025-12-25T16:49:13+03:00
+title: "Çanakkale Seramik Müzesi"
+date: "2025-12-25T16:49:13+03:00"
 slug: "canakkale-seramik-muzesi"
 description: "## Çanakkale Seramik Müzesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.4123287,40.1570473"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale Seramik Müzesi

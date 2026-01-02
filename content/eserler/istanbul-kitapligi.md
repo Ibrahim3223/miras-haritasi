@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Kitaplığı | Miras Haritası"
-date: 2025-12-25T17:49:15+03:00
+title: "İstanbul Kitaplığı"
+date: "2025-12-25T17:49:15+03:00"
 slug: "istanbul-kitapligi"
 description: "## İstanbul Kitaplığı: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.9798145,41.0096779"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Kitaplığı: Tarihi ve Kültürel Mirası

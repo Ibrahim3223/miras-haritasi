@@ -1,18 +1,17 @@
 ---
-title: "Kilise Kalıntısı, Vezneciler | Miras Haritası"
-date: 2025-12-25T09:43:09+03:00
+title: "Kilise Kalıntısı, Vezneciler"
+date: "2025-12-25T09:43:09+03:00"
 slug: "kilise-kalintisi-vezneciler"
 description: "## Kilise Kalıntısı, Vezneciler..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9598351,41.0117683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilise Kalıntısı, Vezneciler

@@ -1,18 +1,17 @@
 ---
-title: "Samancıoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:43:23+03:00
+title: "Samancıoğlu Camii"
+date: "2025-12-24T22:43:23+03:00"
 slug: "samancioglu-camii"
 description: "## Samancıoğlu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1340218,38.2476807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samancıoğlu Camii

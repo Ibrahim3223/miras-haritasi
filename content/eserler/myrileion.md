@@ -1,18 +1,17 @@
 ---
-title: "Myrileion | Miras Haritası"
-date: 2025-12-25T04:50:54+03:00
+title: "Myrileion"
+date: "2025-12-25T04:50:54+03:00"
 slug: "myrileion"
 description: "### Myrileion: İstanbul'un Gizli Harikalılarından BİRİ..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.108786,41.214643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Myrileion: İstanbul'un Gizli Harikalılarından BİRİ

@@ -1,18 +1,17 @@
 ---
-title: "Reisdere Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:22:59+03:00
+title: "Reisdere Çeşmesi, Çeşme"
+date: "2025-12-25T12:22:59+03:00"
 slug: "reisdere-cesmesi-cesme"
 description: "## Reisdere Çeşmesi: Çeşme'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.4229393,38.3298035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Reisdere Çeşmesi: Çeşme'nin Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Caca Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:17+03:00
+title: "Caca Bey Türbesi"
+date: "2025-12-25T14:16:17+03:00"
 slug: "caca-bey-turbesi"
 description: "## Caca Bey Türbesi: Kırşehir'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1615791,39.145237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Caca Bey Türbesi: Kırşehir'in Tarihi Bir Anıtı

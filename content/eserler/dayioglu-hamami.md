@@ -1,18 +1,17 @@
 ---
-title: "Dayıoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:02+03:00
+title: "Dayıoğlu Hamamı"
+date: "2025-12-25T16:35:02+03:00"
 slug: "dayioglu-hamami"
 description: "## Dayıoğlu Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0729294,40.1849022"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dayıoğlu Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Bursa Ermeni Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:36+03:00
+title: "Bursa Ermeni Katolik Kilisesi"
+date: "2025-12-25T09:32:36+03:00"
 slug: "bursa-ermeni-katolik-kilisesi"
 description: "### Bursa Ermeni Katolik Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0714684,40.1801834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bursa Ermeni Katolik Kilisesi

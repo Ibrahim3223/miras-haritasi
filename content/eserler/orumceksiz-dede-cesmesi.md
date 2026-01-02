@@ -1,18 +1,17 @@
 ---
-title: "Örümceksiz Dede Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:05+03:00
+title: "Örümceksiz Dede Çeşmesi"
+date: "2025-12-25T10:59:05+03:00"
 slug: "orumceksiz-dede-cesmesi"
 description: "## Örümceksiz Dede Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.926567,41.013386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Örümceksiz Dede Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Bozhöyük, Kurtalan | Miras Haritası"
-date: 2025-12-25T06:24:39+03:00
+title: "Bozhöyük, Kurtalan"
+date: "2025-12-25T06:24:39+03:00"
 slug: "bozhoyuk-kurtalan"
 description: "## Bozhöyük Arkeolojik Sit: Kurtalan, Siirt..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Kurtalan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.4120918,37.9813311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozhöyük Arkeolojik Sit: Kurtalan, Siirt

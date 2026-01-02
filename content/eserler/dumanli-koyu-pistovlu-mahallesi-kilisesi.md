@@ -1,18 +1,17 @@
 ---
-title: "Dumanlı Köyü Piştovlu Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:13+03:00
+title: "Dumanlı Köyü Piştovlu Mahallesi Kilisesi"
+date: "2025-12-25T09:17:13+03:00"
 slug: "dumanli-koyu-pistovlu-mahallesi-kilisesi"
 description: "## Dumanlı Köyü Piştovlu Mahallesi Kilisesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.80002,40.653238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumanlı Köyü Piştovlu Mahallesi Kilisesi

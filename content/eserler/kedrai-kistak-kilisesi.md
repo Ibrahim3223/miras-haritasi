@@ -1,18 +1,17 @@
 ---
-title: "Kedrai Kıstak Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:28+03:00
+title: "Kedrai Kıstak Kilisesi"
+date: "2025-12-25T09:36:28+03:00"
 slug: "kedrai-kistak-kilisesi"
 description: "## Kedrai Kıstak Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.2045441,36.9941711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kedrai Kıstak Kilisesi

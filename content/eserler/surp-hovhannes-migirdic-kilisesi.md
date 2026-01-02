@@ -1,18 +1,17 @@
 ---
-title: "Surp Hovhannes Mıgırdiç Kilisesi | Miras Haritası"
-date: 2025-12-25T08:53:07+03:00
+title: "Surp Hovhannes Mıgırdiç Kilisesi"
+date: "2025-12-25T08:53:07+03:00"
 slug: "surp-hovhannes-migirdic-kilisesi"
 description: "## Surp Hovhannes Mıgırdiç Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.07,41.125278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Hovhannes Mıgırdiç Kilisesi

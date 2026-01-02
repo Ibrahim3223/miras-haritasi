@@ -1,18 +1,17 @@
 ---
-title: "Çamur Köyü Türbe Kelkit | Miras Haritası"
-date: 2025-12-25T09:15:38+03:00
+title: "Çamur Köyü Türbe Kelkit"
+date: "2025-12-25T09:15:38+03:00"
 slug: "camur-koyu-turbe-kelkit"
 description: "## Çamur Köyü Türbe Kelkit: Tarihi Bir Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kelkit"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.681576,39.980303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamur Köyü Türbe Kelkit: Tarihi Bir Miras

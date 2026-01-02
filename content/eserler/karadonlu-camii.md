@@ -1,18 +1,17 @@
 ---
-title: "Karadonlu Camii | Miras Haritası"
-date: 2025-12-24T23:40:57+03:00
+title: "Karadonlu Camii"
+date: "2025-12-24T23:40:57+03:00"
 slug: "karadonlu-camii"
 description: "### Karadonlu Camii: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kütahya"
+province: "Kütahya"
+iller: '["Kütahya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.977417,39.4212914"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karadonlu Camii: Kütahya'nın Tarihi Bir Mirası

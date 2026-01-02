@@ -1,18 +1,17 @@
 ---
-title: "Çınardibi Menzili Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:57+03:00
+title: "Çınardibi Menzili Çeşmesi"
+date: "2025-12-25T11:07:57+03:00"
 slug: "cinardibi-menzili-cesmesi"
 description: "### Çınardibi Menzili Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.078421,40.971616"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çınardibi Menzili Çeşmesi

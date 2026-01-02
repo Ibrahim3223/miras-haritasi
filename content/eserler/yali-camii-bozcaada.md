@@ -1,18 +1,17 @@
 ---
-title: "Yalı Camii (Bozcaada) | Miras Haritası"
-date: 2025-12-24T23:56:53+03:00
+title: "Yalı Camii (Bozcaada)"
+date: "2025-12-24T23:56:53+03:00"
 slug: "yali-camii-bozcaada"
 description: "## Yalı Camii: Bozcaada'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bozcaada"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.0717468,39.8337936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalı Camii: Bozcaada'nın Tarihi Bir Mirası

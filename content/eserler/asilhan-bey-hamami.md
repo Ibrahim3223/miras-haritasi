@@ -1,18 +1,17 @@
 ---
-title: "Asılhan Bey Hamamı | Miras Haritası"
-date: 2025-12-25T16:58:52+03:00
+title: "Asılhan Bey Hamamı"
+date: "2025-12-25T16:58:52+03:00"
 slug: "asilhan-bey-hamami"
 description: "## Asılhan Bey Hamamı..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.2354088,39.7593155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asılhan Bey Hamamı

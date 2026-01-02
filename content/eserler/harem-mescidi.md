@@ -1,18 +1,17 @@
 ---
-title: "Harem Mescidi | Miras Haritası"
-date: 2025-12-25T00:46:23+03:00
+title: "Harem Mescidi"
+date: "2025-12-25T00:46:23+03:00"
 slug: "harem-mescidi"
 description: "### Harem Mescidi: İstanbul'un Gizli Çehresinde Bir Tarihi Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.983998638,41.013195129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Harem Mescidi: İstanbul'un Gizli Çehresinde Bir Tarihi Cami

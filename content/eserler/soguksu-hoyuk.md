@@ -1,18 +1,17 @@
 ---
-title: "Soğuksu Höyük | Miras Haritası"
-date: 2025-12-25T06:35:45+03:00
+title: "Soğuksu Höyük"
+date: "2025-12-25T06:35:45+03:00"
 slug: "soguksu-hoyuk"
 description: "## Soğuksu Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.318005,36.464561"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğuksu Höyük: Tarihî Mirasın Gizemi

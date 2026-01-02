@@ -1,18 +1,17 @@
 ---
-title: "Çamlıdere Tarım Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:33+03:00
+title: "Çamlıdere Tarım Müzesi"
+date: "2025-12-25T04:01:33+03:00"
 slug: "camlidere-tarim-muzesi"
 description: "### Çamlıdere Tarım Müzesi: Türkiye'nin Tarımsal Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çamlıdere"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.475899467,40.490444267"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çamlıdere Tarım Müzesi: Türkiye'nin Tarımsal Mirası

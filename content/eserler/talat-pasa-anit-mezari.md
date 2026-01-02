@@ -1,18 +1,17 @@
 ---
-title: "Talat Paşa Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:07:55+03:00
+title: "Talat Paşa Anıt Mezarı"
+date: "2025-12-25T14:07:55+03:00"
 slug: "talat-pasa-anit-mezari"
 description: "# Talat Paşa Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.981515,41.067967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Talat Paşa Anıt Mezarı

@@ -1,18 +1,17 @@
 ---
-title: "Badalan Dede Mescidi | Miras Haritası"
-date: 2025-12-25T00:50:05+03:00
+title: "Badalan Dede Mescidi"
+date: "2025-12-25T00:50:05+03:00"
 slug: "badalan-dede-mescidi"
 description: "## Badalan Dede Mescidi: Urla'da Tarihi Bir Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7691174,38.3246765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Badalan Dede Mescidi: Urla'da Tarihi Bir Miras

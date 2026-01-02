@@ -1,18 +1,17 @@
 ---
-title: "Suluhan Mescidi | Miras Haritası"
-date: 2025-12-25T00:46:16+03:00
+title: "Suluhan Mescidi"
+date: "2025-12-25T00:46:16+03:00"
 slug: "suluhan-mescidi"
 description: "## Suluhan Mescidi: Altındağ'ın Önemli Tarihi Eserlerinden Birisi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8583794,39.9396553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Suluhan Mescidi: Altındağ'ın Önemli Tarihi Eserlerinden Birisi

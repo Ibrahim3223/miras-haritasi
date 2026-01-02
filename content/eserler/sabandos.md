@@ -1,18 +1,17 @@
 ---
-title: "Sabandos | Miras Haritası"
-date: 2025-12-25T04:58:29+03:00
+title: "Sabandos"
+date: "2025-12-25T04:58:29+03:00"
 slug: "sabandos"
 description: "## Sabandos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.994451,36.302265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sabandos Arkeolojik Sit

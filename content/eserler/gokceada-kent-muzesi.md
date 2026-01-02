@@ -1,18 +1,17 @@
 ---
-title: "Gökçeada Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:05+03:00
+title: "Gökçeada Kent Müzesi"
+date: "2025-12-25T03:53:05+03:00"
 slug: "gokceada-kent-muzesi"
 description: "## Gökçeada Kent Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "25.9037189,40.1941338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökçeada Kent Müzesi

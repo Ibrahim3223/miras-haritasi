@@ -1,18 +1,17 @@
 ---
-title: "Bilkent Odeon | Miras Haritası"
-date: 2025-12-25T16:16:02+03:00
+title: "Bilkent Odeon"
+date: "2025-12-25T16:16:02+03:00"
 slug: "bilkent-odeon"
 description: "## Bilkent Odeon: Antik Tiyatro Unutulmaz Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.752874635,39.875525696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bilkent Odeon: Antik Tiyatro Unutulmaz Mirası

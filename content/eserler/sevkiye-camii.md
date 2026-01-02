@@ -1,18 +1,17 @@
 ---
-title: "Şevkiye Camii | Miras Haritası"
-date: 2025-12-24T23:11:59+03:00
+title: "Şevkiye Camii"
+date: "2025-12-24T23:11:59+03:00"
 slug: "sevkiye-camii"
 description: "# Şevkiye Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9768143,40.3551483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şevkiye Camii

@@ -1,18 +1,17 @@
 ---
-title: "Iasos Kıstak Kalesi | Miras Haritası"
-date: 2025-12-25T01:15:07+03:00
+title: "Iasos Kıstak Kalesi"
+date: "2025-12-25T01:15:07+03:00"
 slug: "iasos-kistak-kalesi"
 description: "## Iasos Kıstak Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5847073,37.2805252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Iasos Kıstak Kalesi: Tarihî Bir Mirasın Gizemi

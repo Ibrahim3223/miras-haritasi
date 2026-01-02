@@ -1,18 +1,17 @@
 ---
-title: "Ali Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:59+03:00
+title: "Ali Paşa Medresesi"
+date: "2025-12-25T17:24:59+03:00"
 slug: "ali-pasa-medresesi"
 description: "## Ali Paşa Medresesi: Diyarbakır'ın Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "40.2302399,37.9057655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Paşa Medresesi: Diyarbakır'ın Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şamlıoğlu Mustafa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:33:51+03:00
+title: "Şamlıoğlu Mustafa Çeşmesi"
+date: "2025-12-25T11:33:51+03:00"
 slug: "samlioglu-mustafa-cesmesi"
 description: "## Şamlıoğlu Mustafa Çeşmesi: Safranbolu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Şamlıoğlu_Mustafa_Çeşmesi.jpg/1200px-Şamlıoğlu_Mustafa_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6985741,41.2457428"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şamlıoğlu Mustafa Çeşmesi: Safranbolu'nun Tarihi ve Kültürel Mirası

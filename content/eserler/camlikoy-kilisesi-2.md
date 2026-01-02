@@ -1,18 +1,17 @@
 ---
-title: "Çamlıköy Kilisesi 2 | Miras Haritası"
-date: 2025-12-25T09:14:57+03:00
+title: "Çamlıköy Kilisesi 2"
+date: "2025-12-25T09:14:57+03:00"
 slug: "camlikoy-kilisesi-2"
 description: "## Çamlıköy Kilisesi 2: Geçmişten Bugüne Geçen Bir Tarihi Eser..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.521338,40.397263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamlıköy Kilisesi 2: Geçmişten Bugüne Geçen Bir Tarihi Eser

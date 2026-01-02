@@ -1,18 +1,17 @@
 ---
-title: "Ahi Emir Ahmet Zencani Türbesi, Bayburt | Miras Haritası"
-date: 2025-12-25T13:57:19+03:00
+title: "Ahi Emir Ahmet Zencani Türbesi, Bayburt"
+date: "2025-12-25T13:57:19+03:00"
 slug: "ahi-emir-ahmet-zencani-turbesi-bayburt"
 description: "## Ahi Emir Ahmet Zencani Türbesi, Bayburt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ahi_Emir_Ahmet_Zencani_Türbesi,_Bayburt_IMG_7533.jpg/1200px-Ahi_Emir_Ahmet_Zencani_Türbesi,_Bayburt_IMG_7533.jpg"
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2240295,40.2585411"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahi Emir Ahmet Zencani Türbesi, Bayburt

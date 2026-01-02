@@ -1,18 +1,17 @@
 ---
-title: "Anıtkabir Mozole | Miras Haritası"
-date: 2025-12-25T14:03:42+03:00
+title: "Anıtkabir Mozole"
+date: "2025-12-25T14:03:42+03:00"
 slug: "anitkabir-mozole"
 description: "## Anıtkabir Mozole..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8379135,39.925499"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Anıtkabir Mozole

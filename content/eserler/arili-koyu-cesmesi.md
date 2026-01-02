@@ -1,18 +1,17 @@
 ---
-title: "Arılı Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:11:57+03:00
+title: "Arılı Köyü Çeşmesi"
+date: "2025-12-25T10:11:57+03:00"
 slug: "arili-koyu-cesmesi"
 description: "## Arılı Köyü Çeşmesi: Tarihi ve Kültürel Mirasın Eski Şöhreti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.3155403,40.4505043"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arılı Köyü Çeşmesi: Tarihi ve Kültürel Mirasın Eski Şöhreti

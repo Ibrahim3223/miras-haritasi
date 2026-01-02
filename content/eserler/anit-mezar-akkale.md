@@ -1,18 +1,17 @@
 ---
-title: "Anıt mezar, Akkale | Miras Haritası"
-date: 2025-12-25T14:03:49+03:00
+title: "Anıt mezar, Akkale"
+date: "2025-12-25T14:03:49+03:00"
 slug: "anit-mezar-akkale"
 description: "## Anıt Mezar, Akkale: Mersin'in Tarihî Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.2224808,36.5288773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anıt Mezar, Akkale: Mersin'in Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Şaban-ı Veli Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:06+03:00
+title: "Şeyh Şaban-ı Veli Türbesi"
+date: "2025-12-25T14:34:06+03:00"
 slug: "seyh-saban-i-veli-turbesi"
 description: "## Şeyh Şaban-ı Veli Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7646294,41.3745193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Şaban-ı Veli Türbesi

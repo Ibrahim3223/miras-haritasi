@@ -1,18 +1,17 @@
 ---
-title: "Dikilitaş, Bakırköy | Miras Haritası"
-date: 2025-12-25T14:32:52+03:00
+title: "Dikilitaş, Bakırköy"
+date: "2025-12-25T14:32:52+03:00"
 slug: "dikilitas-bakirkoy"
 description: "## Dikilitaş, Bakırköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.8699436,40.9919052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dikilitaş, Bakırköy

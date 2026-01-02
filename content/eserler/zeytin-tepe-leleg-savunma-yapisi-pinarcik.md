@@ -1,18 +1,17 @@
 ---
-title: "Zeytin Tepe Leleg Savunma Yapısı, Pınarcık | Miras Haritası"
-date: 2025-12-25T01:19:31+03:00
+title: "Zeytin Tepe Leleg Savunma Yapısı, Pınarcık"
+date: "2025-12-25T01:19:31+03:00"
 slug: "zeytin-tepe-leleg-savunma-yapisi-pinarcik"
 description: "### Zeytin Tepe Leleg Savunma Yapısı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5015011,37.4686546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zeytin Tepe Leleg Savunma Yapısı

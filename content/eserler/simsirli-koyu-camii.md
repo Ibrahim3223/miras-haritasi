@@ -1,18 +1,17 @@
 ---
-title: "Şimşirli Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:12:03+03:00
+title: "Şimşirli Köyü Camii"
+date: "2025-12-24T23:12:03+03:00"
 slug: "simsirli-koyu-camii"
 description: "# Şimşirli Köyü Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.485385,40.80778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şimşirli Köyü Camii: Rize'nin Tarihi Bir Mirası

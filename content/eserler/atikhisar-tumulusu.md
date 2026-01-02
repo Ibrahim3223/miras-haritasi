@@ -1,18 +1,17 @@
 ---
-title: "Atikhisar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:18:35+03:00
+title: "Atikhisar Tümülüsü"
+date: "2025-12-25T07:18:35+03:00"
 slug: "atikhisar-tumulusu"
 description: "## Atikhisar Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Çanakkale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.5095253,40.1289215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atikhisar Tümülüsü

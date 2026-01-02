@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Kapısı | Miras Haritası"
-date: 2025-12-25T15:39:36+03:00
+title: "Sokullu Kapısı"
+date: "2025-12-25T15:39:36+03:00"
 slug: "sokullu-kapisi"
 description: "## Sokullu Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sokullu_Kapısı_2025.jpg/1200px-Sokullu_Kapısı_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9782925,41.0112724"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sokullu Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Ayios Nikolas Ayazması, Balat | Miras Haritası"
-date: 2025-12-25T12:35:13+03:00
+title: "Ayios Nikolas Ayazması, Balat"
+date: "2025-12-25T12:35:13+03:00"
 slug: "ayios-nikolas-ayazmasi-balat"
 description: "## Ayios Nikolas Ayazması, Balat..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9450607,41.0319214"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Nikolas Ayazması, Balat

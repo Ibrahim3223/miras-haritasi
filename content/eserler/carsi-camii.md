@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii | Miras Haritası"
-date: 2025-12-24T22:50:07+03:00
+title: "Çarşı Camii"
+date: "2025-12-24T22:50:07+03:00"
 slug: "carsi-camii"
 description: "## Çarşı Camii: Bakırköy'ün Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Çarşı_Camii.jpg/1200px-Çarşı_Camii.jpg"
-province: "Bakırköy"
-iller: ["Bakırköy"]
-district: "Cevizlik"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bakırköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8751087,40.9788284"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çarşı Camii: Bakırköy'ün Tarihi Bir Mirası

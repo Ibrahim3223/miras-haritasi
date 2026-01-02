@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Kastabala Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:20:35+03:00
+title: "Hierapolis Kastabala Antik Tiyatrosu"
+date: "2025-12-25T16:20:35+03:00"
 slug: "hierapolis-kastabala-antik-tiyatrosu"
 description: "### Hierapolis Kastabala Antik Tiyatrosu..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Osmaniye"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "36.188754,37.176336"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hierapolis Kastabala Antik Tiyatrosu

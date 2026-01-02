@@ -1,18 +1,17 @@
 ---
-title: "Sedir Adası | Miras Haritası"
-date: 2025-12-25T06:59:24+03:00
+title: "Sedir Adası"
+date: "2025-12-25T06:59:24+03:00"
 slug: "sedir-adasi"
 description: "## Sedir Adası: Muğla'nın Yemyeşil Şöleni..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.206111111,36.993055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sedir Adası: Muğla'nın Yemyeşil Şöleni

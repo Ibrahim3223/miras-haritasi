@@ -1,18 +1,17 @@
 ---
-title: "Yeltepe Garnizon Yerleşimi, Karacasu | Miras Haritası"
-date: 2025-12-25T01:18:32+03:00
+title: "Yeltepe Garnizon Yerleşimi, Karacasu"
+date: "2025-12-25T01:18:32+03:00"
 slug: "yeltepe-garnizon-yerlesimi-karacasu"
 description: "# Yeltepe Garnizon Yerleşimi, Karacasu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.7324715,37.6235123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yeltepe Garnizon Yerleşimi, Karacasu

@@ -1,18 +1,17 @@
 ---
-title: "Miralem Halil Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:14:54+03:00
+title: "Miralem Halil Ağa Çeşmesi"
+date: "2025-12-25T11:14:54+03:00"
 slug: "miralem-halil-aga-cesmesi"
 description: "## Miralem Halil Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Miralem_Halil_Ağa_Fountain.jpg/1200px-Miralem_Halil_Ağa_Fountain.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9768677,41.0284309"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Miralem Halil Ağa Çeşmesi

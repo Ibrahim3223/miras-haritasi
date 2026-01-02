@@ -1,18 +1,17 @@
 ---
-title: "Hamzabali Namazgahı | Miras Haritası"
-date: 2025-12-25T00:47:55+03:00
+title: "Hamzabali Namazgahı"
+date: "2025-12-25T00:47:55+03:00"
 slug: "hamzabali-namazgahi"
 description: "**Hamzabali Namazgahı: Aydın'ın Gizli Cenneti**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1282005,37.8055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hamzabali Namazgahı: Aydın'ın Gizli Cenneti**

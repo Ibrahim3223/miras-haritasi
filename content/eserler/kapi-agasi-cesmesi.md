@@ -1,18 +1,17 @@
 ---
-title: "Kapı Ağası Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:14:17+03:00
+title: "Kapı Ağası Çeşmesi"
+date: "2025-12-25T11:14:17+03:00"
 slug: "kapi-agasi-cesmesi"
 description: "## Kapı Ağası Çeşmesi: Sultanahmet'te Bir İhtişam..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9768937,41.003207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapı Ağası Çeşmesi: Sultanahmet'te Bir İhtişam

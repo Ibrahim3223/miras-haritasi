@@ -1,18 +1,17 @@
 ---
-title: "Nisanoğlu Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:31+03:00
+title: "Nisanoğlu Türbesi"
+date: "2025-12-25T15:22:31+03:00"
 slug: "nisanoglu-turbesi"
 description: "## Nisanoğlu Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Eğil"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.0772438,38.2536659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nisanoğlu Türbesi

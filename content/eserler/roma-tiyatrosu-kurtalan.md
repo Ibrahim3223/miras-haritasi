@@ -1,18 +1,17 @@
 ---
-title: "Roma Tiyatrosu, Kurtalan | Miras Haritası"
-date: 2025-12-25T04:15:20+03:00
+title: "Roma Tiyatrosu, Kurtalan"
+date: "2025-12-25T04:15:20+03:00"
 slug: "roma-tiyatrosu-kurtalan"
 description: "## Roma Tiyatrosu, Kurtalan..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Kurtalan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.3849144,37.977951"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Tiyatrosu, Kurtalan

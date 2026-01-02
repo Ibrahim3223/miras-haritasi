@@ -1,18 +1,17 @@
 ---
-title: "Nasrullah Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:20+03:00
+title: "Nasrullah Camii Şadırvanı"
+date: "2025-12-25T10:02:20+03:00"
 slug: "nasrullah-camii-sadirvani"
 description: "### Nasrullah Camii Şadırvanı: Kastamonu'nun Güzeli..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.775309913,41.377534649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nasrullah Camii Şadırvanı: Kastamonu'nun Güzeli

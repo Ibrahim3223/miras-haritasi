@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İbrahim Türbesi, Alanşeyhi | Miras Haritası"
-date: 2025-12-25T14:46:30+03:00
+title: "Şeyh İbrahim Türbesi, Alanşeyhi"
+date: "2025-12-25T14:46:30+03:00"
 slug: "seyh-ibrahim-turbesi-alanseyhi"
 description: "## Şeyh İbrahim Türbesi, Alanşeyhi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Vezirköprü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1263428,41.1053467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh İbrahim Türbesi, Alanşeyhi

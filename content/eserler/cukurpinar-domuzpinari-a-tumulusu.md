@@ -1,18 +1,17 @@
 ---
-title: "Çukurpınar Domuzpınarı A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:46+03:00
+title: "Çukurpınar Domuzpınarı A Tümülüsü"
+date: "2025-12-25T07:52:46+03:00"
 slug: "cukurpinar-domuzpinari-a-tumulusu"
 description: "### Çukurpınar Domuzpınarı A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4408207,41.8489342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çukurpınar Domuzpınarı A Tümülüsü

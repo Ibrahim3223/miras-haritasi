@@ -1,18 +1,17 @@
 ---
-title: "Tavşanburuntepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:10:09+03:00
+title: "Tavşanburuntepe Höyüğü"
+date: "2025-12-25T06:10:09+03:00"
 slug: "tavsanburuntepe-hoyugu"
 description: "### Tavşanburuntepe Höyüğü: Malatya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yeşilyurt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1065521,38.284935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tavşanburuntepe Höyüğü: Malatya'nın Gizli Tarihi

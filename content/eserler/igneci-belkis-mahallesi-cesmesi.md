@@ -1,18 +1,17 @@
 ---
-title: "İğneci Belkıs Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:43+03:00
+title: "İğneci Belkıs Mahallesi Çeşmesi"
+date: "2025-12-25T10:24:43+03:00"
 slug: "igneci-belkis-mahallesi-cesmesi"
 description: "### İğneci Belkıs Mahallesi Çeşmesi: Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8538132,39.9439354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İğneci Belkıs Mahallesi Çeşmesi: Bir Osmanlı Dönemi Eseri

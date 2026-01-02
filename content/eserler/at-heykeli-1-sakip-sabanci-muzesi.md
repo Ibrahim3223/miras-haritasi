@@ -1,18 +1,17 @@
 ---
-title: "At Heykeli 1 (Sakıp Sabancı Müzesi) | Miras Haritası"
-date: 2025-12-25T16:09:26+03:00
+title: "At Heykeli 1 (Sakıp Sabancı Müzesi)"
+date: "2025-12-25T16:09:26+03:00"
 slug: "at-heykeli-1-sakip-sabanci-muzesi"
 description: "## At Heykeli 1 (Sakıp Sabancı Müzesi)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0563354,41.1062775"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## At Heykeli 1 (Sakıp Sabancı Müzesi)

@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Devlet Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:19:14+03:00
+title: "Gaziantep Devlet Tiyatrosu"
+date: "2025-12-25T16:19:14+03:00"
 slug: "gaziantep-devlet-tiyatrosu"
 description: "## Gaziantep Devlet Tiyatrosu: Bir Antik Tiyatro Tarihçesindeki Özellikleri ve Önemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaziantep Devlet Tiyatrosu: Bir Antik Tiyatro Tarihçesindeki Özellikleri ve Önemi

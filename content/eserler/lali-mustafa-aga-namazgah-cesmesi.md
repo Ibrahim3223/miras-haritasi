@@ -1,18 +1,17 @@
 ---
-title: "La’li Mustafa Ağa Namazgah Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:09:43+03:00
+title: "La’li Mustafa Ağa Namazgah Çeşmesi"
+date: "2025-12-25T12:09:43+03:00"
 slug: "lali-mustafa-aga-namazgah-cesmesi"
 description: "## La'li Mustafa Ağa Namazgah Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/La’li_Mustafa_Ağa_Namazgah_Çeşmesi.jpg/1200px-La’li_Mustafa_Ağa_Namazgah_Çeşmesi.jpg"
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Defterdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.933268,41.032558"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## La'li Mustafa Ağa Namazgah Çeşmesi

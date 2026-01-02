@@ -1,18 +1,17 @@
 ---
-title: "Halı Pazarı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:13:41+03:00
+title: "Halı Pazarı Köprüsü"
+date: "2025-12-25T02:13:41+03:00"
 slug: "hali-pazari-koprusu"
 description: "## Halı Pazarı Köprüsü: Uşak'ta Bir Kültür Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.4067211,38.6797829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halı Pazarı Köprüsü: Uşak'ta Bir Kültür Mirası

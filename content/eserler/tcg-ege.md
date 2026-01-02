@@ -1,18 +1,17 @@
 ---
-title: "TCG Ege | Miras Haritası"
-date: 2025-12-25T03:08:46+03:00
+title: "TCG Ege"
+date: "2025-12-25T03:08:46+03:00"
 slug: "tcg-ege"
 description: "## TCG Ege Müzesi: İzmir'in Tarihsel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/USS_Ainsworth_(FF-1090)_underway_off_Augusta_Bay,_Sicily,_Italy,_on_17_October_1987_(6452192).jpg/1200px-USS_Ainsworth_(FF-1090)_underway_off_Augusta_Bay,_Sicily,_Italy,_on_17_October_1987_(6452192).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.0347,38.4125"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## TCG Ege Müzesi: İzmir'in Tarihsel Mirası

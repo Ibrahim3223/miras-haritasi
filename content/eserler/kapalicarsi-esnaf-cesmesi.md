@@ -1,18 +1,17 @@
 ---
-title: "Kapalıçarşı Esnaf Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:51+03:00
+title: "Kapalıçarşı Esnaf Çeşmesi"
+date: "2025-12-25T11:22:51+03:00"
 slug: "kapalicarsi-esnaf-cesmesi"
 description: "## Kapalıçarşı Esnaf Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Beyazıt"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.968693,41.011056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapalıçarşı Esnaf Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hamamdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:27+03:00
+title: "Hamamdere Köprüsü"
+date: "2025-12-25T02:33:27+03:00"
 slug: "hamamdere-koprusu"
 description: "## Hamamdere Köprüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.2147675,41.6087685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamamdere Köprüsü

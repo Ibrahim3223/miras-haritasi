@@ -1,18 +1,17 @@
 ---
-title: "Maghasberd | Miras Haritası"
-date: 2025-12-25T07:14:14+03:00
+title: "Maghasberd"
+date: "2025-12-25T07:14:14+03:00"
 slug: "maghasberd"
 description: "## Maghasberd: Kars'ın Gizli Arkeolojik Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MAGHASBERD.jpg/1200px-MAGHASBERD.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.5385,40.4718"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Maghasberd: Kars'ın Gizli Arkeolojik Mirası

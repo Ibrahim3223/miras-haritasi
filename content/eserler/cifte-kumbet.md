@@ -1,18 +1,17 @@
 ---
-title: "Çifte Kümbet | Miras Haritası"
-date: 2025-12-25T13:53:30+03:00
+title: "Çifte Kümbet"
+date: "2025-12-25T13:53:30+03:00"
 slug: "cifte-kumbet"
 description: "### Çifte Kümbet: Bir Anıtın Tarihî Özellikleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.5304645,38.7338568"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çifte Kümbet: Bir Anıtın Tarihî Özellikleri

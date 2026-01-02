@@ -1,18 +1,17 @@
 ---
-title: "Pancarcı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:52:16+03:00
+title: "Pancarcı Çeşmesi"
+date: "2025-12-25T10:52:16+03:00"
 slug: "pancarci-cesmesi"
 description: "## Pancarcı Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9076576,38.632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pancarcı Çeşmesi

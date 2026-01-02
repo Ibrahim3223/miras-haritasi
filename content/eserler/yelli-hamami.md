@@ -1,18 +1,17 @@
 ---
-title: "Yelli Hamamı | Miras Haritası"
-date: 2025-12-25T16:52:28+03:00
+title: "Yelli Hamamı"
+date: "2025-12-25T16:52:28+03:00"
 slug: "yelli-hamami"
 description: "## Yelli Hamamı: Milas'ın Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.7914181,37.2695274"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yelli Hamamı: Milas'ın Tarihi ve Kültürel Mirasının Gizemi

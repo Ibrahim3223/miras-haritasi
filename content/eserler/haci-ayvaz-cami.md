@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ayvaz Cami | Miras Haritası"
-date: 2025-12-24T23:25:18+03:00
+title: "Hacı Ayvaz Cami"
+date: "2025-12-24T23:25:18+03:00"
 slug: "haci-ayvaz-cami"
 description: "## Hacı Ayvaz Cami: Kocaeli'nin Değerli Tarihi Bir Eseri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9232922,40.7675285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ayvaz Cami: Kocaeli'nin Değerli Tarihi Bir Eseri

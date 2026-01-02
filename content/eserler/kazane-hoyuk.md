@@ -1,18 +1,17 @@
 ---
-title: "Kazane Höyük | Miras Haritası"
-date: 2025-12-25T07:08:33+03:00
+title: "Kazane Höyük"
+date: "2025-12-25T07:08:33+03:00"
 slug: "kazane-hoyuk"
 description: "### Kazane Höyük: Şanlıurfa'nın Eski Uygarlık Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Haliliye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.8468514,37.1194574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kazane Höyük: Şanlıurfa'nın Eski Uygarlık Mirası

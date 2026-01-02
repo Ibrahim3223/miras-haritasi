@@ -1,18 +1,17 @@
 ---
-title: "Yeşiltepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:07:28+03:00
+title: "Yeşiltepe Höyüğü"
+date: "2025-12-25T06:07:28+03:00"
 slug: "yesiltepe-hoyugu"
 description: "## Yeşiltepe Höyüğü: Silopi'nin Gizli Örenleri..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Silopi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "42.4713097,37.248127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşiltepe Höyüğü: Silopi'nin Gizli Örenleri

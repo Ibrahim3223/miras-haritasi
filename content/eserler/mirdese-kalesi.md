@@ -1,18 +1,17 @@
 ---
-title: "Mirdese Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:36+03:00
+title: "Mirdese Kalesi"
+date: "2025-12-25T01:37:36+03:00"
 slug: "mirdese-kalesi"
 description: "### Mirdese Kalesi: Tarihî Bir Kahraman'ın Kalıntıları..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Hasankeyf"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.249165,37.728906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mirdese Kalesi: Tarihî Bir Kahraman'ın Kalıntıları

@@ -1,18 +1,17 @@
 ---
-title: "Kırcaoğlu Höyüğü | Miras Haritası"
-date: 2025-12-25T06:36:26+03:00
+title: "Kırcaoğlu Höyüğü"
+date: "2025-12-25T06:36:26+03:00"
 slug: "kircaoglu-hoyugu"
 description: "### Kırcaoğlu Höyüğü..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Kumlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.529969,36.378504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırcaoğlu Höyüğü

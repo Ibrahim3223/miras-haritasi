@@ -1,18 +1,17 @@
 ---
-title: "Belentepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:44:48+03:00
+title: "Belentepe Höyüğü"
+date: "2025-12-25T06:44:48+03:00"
 slug: "belentepe-hoyugu"
 description: "### Belentepe Höyükü: Musabeyli'nin Tarihsel Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Musabeyli İlçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.0607504,36.9579103"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Belentepe Höyükü: Musabeyli'nin Tarihsel Mirası

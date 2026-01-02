@@ -1,18 +1,17 @@
 ---
-title: "Derinkuyu Park Camii | Miras Haritası"
-date: 2025-12-24T21:45:02+03:00
+title: "Derinkuyu Park Camii"
+date: "2025-12-24T21:45:02+03:00"
 slug: "derinkuyu-park-camii"
 description: "## Derinkuyu Park Camii..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.734555555,38.370444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derinkuyu Park Camii

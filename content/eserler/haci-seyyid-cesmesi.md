@@ -1,18 +1,17 @@
 ---
-title: "Hacı Seyyid Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:55+03:00
+title: "Hacı Seyyid Çeşmesi"
+date: "2025-12-25T10:24:55+03:00"
 slug: "haci-seyyid-cesmesi"
 description: "# Hacı Seyyid Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8642197,39.932457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Seyyid Çeşmesi

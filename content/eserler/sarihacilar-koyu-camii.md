@@ -1,18 +1,17 @@
 ---
-title: "Sarıhacılar Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:41:01+03:00
+title: "Sarıhacılar Köyü Camii"
+date: "2025-12-24T22:41:01+03:00"
 slug: "sarihacilar-koyu-camii"
 description: "Sarıhacılar Köyü Camii..."
 featured_image: ""
 province: "Akseki (ilçe)"
-iller: ["Akseki (ilçe)"]
+iller: '["Akseki (ilçe)"]'
 district: "Sarıhacılar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.7716599,37.0182076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 Sarıhacılar Köyü Camii

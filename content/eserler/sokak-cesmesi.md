@@ -1,18 +1,17 @@
 ---
-title: "Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:46:26+03:00
+title: "Sokak Çeşmesi"
+date: "2025-12-25T10:46:26+03:00"
 slug: "sokak-cesmesi"
 description: "## Sokak Çeşmesi: Eskişehir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.8625317,39.1552696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sokak Çeşmesi: Eskişehir'in Gizli Çeşmesi

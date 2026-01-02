@@ -1,18 +1,17 @@
 ---
-title: "Kadıoğlu Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:47+03:00
+title: "Kadıoğlu Medresesi"
+date: "2025-12-25T17:41:47+03:00"
 slug: "kadioglu-medresesi"
 description: "## Kadıoğlu Medresesi: Aksaray'ın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "34.0235748,38.3700523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadıoğlu Medresesi: Aksaray'ın Gizli Çehresini Keşfetmek

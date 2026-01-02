@@ -1,18 +1,17 @@
 ---
-title: "V Beach Mezarlığı | Miras Haritası"
-date: 2025-12-25T16:05:47+03:00
+title: "V Beach Mezarlığı"
+date: "2025-12-25T16:05:47+03:00"
 slug: "v-beach-mezarligi"
 description: "## V Beach Mezarlığı: Seddülbahir'deki Savaşın Kalıntıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/V_Beach_at_Gallipoli.JPG/1200px-V_Beach_at_Gallipoli.JPG"
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Seddülbahir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.18371,40.04356"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## V Beach Mezarlığı: Seddülbahir'deki Savaşın Kalıntıları

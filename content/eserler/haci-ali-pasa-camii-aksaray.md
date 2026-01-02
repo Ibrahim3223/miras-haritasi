@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ali Paşa Camii, Aksaray | Miras Haritası"
-date: 2025-12-25T00:30:03+03:00
+title: "Hacı Ali Paşa Camii, Aksaray"
+date: "2025-12-25T00:30:03+03:00"
 slug: "haci-ali-pasa-camii-aksaray"
 description: "### Hacı Ali Paşa Camii: Aksaray'da Bir Görsel Harikadan Konuşalım..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ortaköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.0403595,38.736824"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Ali Paşa Camii: Aksaray'da Bir Görsel Harikadan Konuşalım

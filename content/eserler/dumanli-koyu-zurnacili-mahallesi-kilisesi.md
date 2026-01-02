@@ -1,18 +1,17 @@
 ---
-title: "Dumanlı Köyü Zurnacılı Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:14:16+03:00
+title: "Dumanlı Köyü Zurnacılı Mahallesi Kilisesi"
+date: "2025-12-25T09:14:16+03:00"
 slug: "dumanli-koyu-zurnacili-mahallesi-kilisesi"
 description: "### Dumanlı Köyü Zurnacılı Mahallesi Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Gümüşhane"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.811546,40.666966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dumanlı Köyü Zurnacılı Mahallesi Kilisesi

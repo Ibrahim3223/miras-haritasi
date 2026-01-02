@@ -1,18 +1,17 @@
 ---
-title: "Çeşmeönü Çeşmesi Beşikdüzü | Miras Haritası"
-date: 2025-12-25T10:21:25+03:00
+title: "Çeşmeönü Çeşmesi Beşikdüzü"
+date: "2025-12-25T10:21:25+03:00"
 slug: "cesmeonu-cesmesi-besikduzu"
 description: "## Çeşmeönü Çeşmesi Beşikdüzü..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Beşikdüzü"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.208091,41.065374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşmeönü Çeşmesi Beşikdüzü

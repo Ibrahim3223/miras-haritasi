@@ -1,18 +1,17 @@
 ---
-title: "Kalecik Köprüsü | Miras Haritası"
-date: 2025-12-25T03:06:23+03:00
+title: "Kalecik Köprüsü"
+date: "2025-12-25T03:06:23+03:00"
 slug: "kalecik-koprusu"
 description: "## Kalecik Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kalecik_Brücke.JPG/1200px-Kalecik_Brücke.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.4440538,40.0414437"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kalecik Köprüsü

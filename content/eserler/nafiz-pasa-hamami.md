@@ -1,18 +1,17 @@
 ---
-title: "Nafiz Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:56:44+03:00
+title: "Nafiz Paşa Hamamı"
+date: "2025-12-25T16:56:44+03:00"
 slug: "nafiz-pasa-hamami"
 description: "## Nafiz Paşa Hamamı..."
 featured_image: ""
-province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: "Erzurum Vilayeti"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.4931068,39.7215691"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nafiz Paşa Hamamı

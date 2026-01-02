@@ -1,18 +1,17 @@
 ---
-title: "Kotanlı Kalesi | Miras Haritası"
-date: 2025-12-25T01:39:40+03:00
+title: "Kotanlı Kalesi"
+date: "2025-12-25T01:39:40+03:00"
 slug: "kotanli-kalesi"
 description: "## Kotanlı Kalesi: Ardahan'ın Gizli Çehresini Tanıtan Bir Ölümsüz..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Çıldır"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.044338,41.154037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kotanlı Kalesi: Ardahan'ın Gizli Çehresini Tanıtan Bir Ölümsüz

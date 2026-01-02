@@ -1,18 +1,17 @@
 ---
-title: "Emir Mehmet Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:50+03:00
+title: "Emir Mehmet Türbesi"
+date: "2025-12-25T14:43:50+03:00"
 slug: "emir-mehmet-turbesi"
 description: "## Emir Mehmet Türbesi: Trabzon'un Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Emir_Mehmet_Türbesi.jpg/1200px-Emir_Mehmet_Türbesi.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.7105103,41.0042343"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Emir Mehmet Türbesi: Trabzon'un Gizemli Anıtı

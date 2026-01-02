@@ -1,18 +1,17 @@
 ---
-title: "Eski Cami, Tekirdağ | Miras Haritası"
-date: 2025-12-25T00:28:15+03:00
+title: "Eski Cami, Tekirdağ"
+date: "2025-12-25T00:28:15+03:00"
 slug: "eski-cami-tekirdag"
 description: "# Eski Cami, Tekirdağ: Tarih ve Kültürel Miras..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5133171,40.9778404"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Eski Cami, Tekirdağ: Tarih ve Kültürel Miras

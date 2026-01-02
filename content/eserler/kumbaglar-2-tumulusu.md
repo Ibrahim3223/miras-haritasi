@@ -1,18 +1,17 @@
 ---
-title: "Kumbağlar 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:04+03:00
+title: "Kumbağlar 2 Tümülüsü"
+date: "2025-12-25T08:03:04+03:00"
 slug: "kumbaglar-2-tumulusu"
 description: "## Kumbağlar 2 Tümülüsü: Şarköy'ün Gizemi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1773033,40.7964363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumbağlar 2 Tümülüsü: Şarköy'ün Gizemi

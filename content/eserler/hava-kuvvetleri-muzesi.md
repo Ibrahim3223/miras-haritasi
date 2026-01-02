@@ -1,18 +1,17 @@
 ---
-title: "Hava Kuvvetleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:11:40+03:00
+title: "Hava Kuvvetleri Müzesi"
+date: "2025-12-25T03:11:40+03:00"
 slug: "hava-kuvvetleri-muzesi"
 description: "### Hava Kuvvetleri Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hava Kuvvetleri Müzesi

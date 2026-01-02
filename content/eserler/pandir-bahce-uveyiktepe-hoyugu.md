@@ -1,18 +1,17 @@
 ---
-title: "Pandır Bahçe / Üveyiktepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:00:59+03:00
+title: "Pandır Bahçe / Üveyiktepe Höyüğü"
+date: "2025-12-25T07:00:59+03:00"
 slug: "pandir-bahce-uveyiktepe-hoyugu"
 description: "# Pandır Bahçe / Üveyiktepe Höyüğü: Edirne'nin Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pandır Bahçe / Üveyiktepe Höyüğü: Edirne'nin Gizemi

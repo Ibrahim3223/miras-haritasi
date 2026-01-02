@@ -1,18 +1,17 @@
 ---
-title: "Pergamon Roma Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:05+03:00
+title: "Pergamon Roma Tiyatrosu"
+date: "2025-12-25T04:14:05+03:00"
 slug: "pergamon-roma-tiyatrosu"
 description: "### Pergamon Roma Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.17489,39.122987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pergamon Roma Tiyatrosu

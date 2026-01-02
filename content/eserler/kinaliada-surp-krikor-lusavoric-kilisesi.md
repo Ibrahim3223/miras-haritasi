@@ -1,18 +1,17 @@
 ---
-title: "Kınalıada Surp Krikor Lusavoriç Kilisesi | Miras Haritası"
-date: 2025-12-25T08:49:59+03:00
+title: "Kınalıada Surp Krikor Lusavoriç Kilisesi"
+date: "2025-12-25T08:49:59+03:00"
 slug: "kinaliada-surp-krikor-lusavoric-kilisesi"
 description: "### Kınalıada Surp Krikor Lusavoriç Kilisesi..."
 featured_image: ""
-province: "Adalar"
-iller: ["Adalar"]
-district: "Kınalıada"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Adalar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.053027777,40.909305555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kınalıada Surp Krikor Lusavoriç Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Mimar Sinan Heykeli, Azapkapı | Miras Haritası"
-date: 2025-12-25T15:54:23+03:00
+title: "Mimar Sinan Heykeli, Azapkapı"
+date: "2025-12-25T15:54:23+03:00"
 slug: "mimar-sinan-heykeli-azapkapi"
 description: "# Mimar Sinan Heykeli, Azapkapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9689579,41.0240631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mimar Sinan Heykeli, Azapkapı

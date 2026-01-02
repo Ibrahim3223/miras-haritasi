@@ -1,18 +1,17 @@
 ---
-title: "Pur Tepesi | Miras Haritası"
-date: 2025-12-25T06:28:14+03:00
+title: "Pur Tepesi"
+date: "2025-12-25T06:28:14+03:00"
 slug: "pur-tepesi"
 description: "## Pur Tepesi: Sivas'taki Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Ulaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.1055978,39.3927401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pur Tepesi: Sivas'taki Bir Arkeolojik Harikası

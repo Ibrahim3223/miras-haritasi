@@ -1,18 +1,17 @@
 ---
-title: "St. Helena Şapeli | Miras Haritası"
-date: 2025-12-25T09:42:21+03:00
+title: "St. Helena Şapeli"
+date: "2025-12-25T09:42:21+03:00"
 slug: "st-helena-sapeli"
 description: "## St. Helena Şapeli..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kamer Hatun"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9755344,41.0336876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## St. Helena Şapeli

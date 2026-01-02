@@ -1,18 +1,17 @@
 ---
-title: "Ali Ağa Camii, Aliağa | Miras Haritası"
-date: 2025-12-24T23:49:23+03:00
+title: "Ali Ağa Camii, Aliağa"
+date: "2025-12-24T23:49:23+03:00"
 slug: "ali-aga-camii-aliaga"
 description: "# Ali Ağa Camii, Aliağa..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Aliağa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0187912,38.7749901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ali Ağa Camii, Aliağa

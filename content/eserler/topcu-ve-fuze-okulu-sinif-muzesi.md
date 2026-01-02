@@ -1,18 +1,17 @@
 ---
-title: "Topçu ve Füze Okulu Sınıf Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:16+03:00
+title: "Topçu ve Füze Okulu Sınıf Müzesi"
+date: "2025-12-25T03:30:16+03:00"
 slug: "topcu-ve-fuze-okulu-sinif-muzesi"
 description: "## Topçu ve Füze Okulu Sınıf Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.1508675,39.5839615"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topçu ve Füze Okulu Sınıf Müzesi

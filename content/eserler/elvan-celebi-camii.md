@@ -1,18 +1,17 @@
 ---
-title: "Elvan Çelebi Camii | Miras Haritası"
-date: 2025-12-24T22:53:30+03:00
+title: "Elvan Çelebi Camii"
+date: "2025-12-24T22:53:30+03:00"
 slug: "elvan-celebi-camii"
 description: "## Elvan Çelebi Camii: Fatih'te Gizlenmiş bir Cennet..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Hocapaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.979187,41.0151176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elvan Çelebi Camii: Fatih'te Gizlenmiş bir Cennet

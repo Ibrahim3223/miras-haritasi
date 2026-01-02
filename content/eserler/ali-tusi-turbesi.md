@@ -1,18 +1,17 @@
 ---
-title: "Ali Tusi Türbesi | Miras Haritası"
-date: 2025-12-25T15:09:13+03:00
+title: "Ali Tusi Türbesi"
+date: "2025-12-25T15:09:13+03:00"
 slug: "ali-tusi-turbesi"
 description: "## Ali Tusi Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.5479758,40.3158022"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Tusi Türbesi

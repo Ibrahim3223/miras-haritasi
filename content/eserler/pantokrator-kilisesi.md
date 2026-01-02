@@ -1,18 +1,17 @@
 ---
-title: "Pantokrator Kilisesi | Miras Haritası"
-date: 2025-12-25T08:41:53+03:00
+title: "Pantokrator Kilisesi"
+date: "2025-12-25T08:41:53+03:00"
 slug: "pantokrator-kilisesi"
 description: "## Pantokrator Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/J22_203_Pandokratorkirche.jpg/1200px-J22_203_Pandokratorkirche.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.8453726,38.6382477"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pantokrator Kilisesi

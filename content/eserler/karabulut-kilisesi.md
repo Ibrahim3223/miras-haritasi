@@ -1,18 +1,17 @@
 ---
-title: "Karabulut Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:04+03:00
+title: "Karabulut Kilisesi"
+date: "2025-12-25T09:10:04+03:00"
 slug: "karabulut-kilisesi"
 description: "## Karabulut Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.817111492,38.616384257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabulut Kilisesi: Tarihî Bir Mirasın Gizemi

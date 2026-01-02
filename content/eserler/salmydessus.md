@@ -1,18 +1,17 @@
 ---
-title: "Salmydessus | Miras Haritası"
-date: 2025-12-25T04:48:52+03:00
+title: "Salmydessus"
+date: "2025-12-25T04:48:52+03:00"
 slug: "salmydessus"
 description: "## Salmydessus: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.091144,41.637244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salmydessus: Kırklareli'nin Gizli Cenneti

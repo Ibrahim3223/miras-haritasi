@@ -1,18 +1,17 @@
 ---
-title: "Kumköy Camii | Miras Haritası"
-date: 2025-12-25T00:28:54+03:00
+title: "Kumköy Camii"
+date: "2025-12-25T00:28:54+03:00"
 slug: "kumkoy-camii"
 description: "### Kumköy Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pehlivanköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9241428,41.4041176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kumköy Camii

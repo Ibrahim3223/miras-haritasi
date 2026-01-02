@@ -1,18 +1,17 @@
 ---
-title: "Koçhisar Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:06:17+03:00
+title: "Koçhisar Ulu Camii"
+date: "2025-12-24T22:06:17+03:00"
 slug: "kochisar-ulu-camii"
 description: "**Koçhisar Ulu Camii**..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.582888888,37.189722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Koçhisar Ulu Camii**

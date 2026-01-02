@@ -1,18 +1,17 @@
 ---
-title: "Düzorman Beştepeler D Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:50:46+03:00
+title: "Düzorman Beştepeler D Tümülüsü"
+date: "2025-12-25T07:50:46+03:00"
 slug: "duzorman-bestepeler-d-tumulusu"
 description: "## Düzorman Beştepeler D Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3664341,41.8699493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düzorman Beştepeler D Tümülüsü

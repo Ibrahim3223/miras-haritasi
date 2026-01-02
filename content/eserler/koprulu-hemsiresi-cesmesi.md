@@ -1,18 +1,17 @@
 ---
-title: "Köprülü Hemşiresi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:09+03:00
+title: "Köprülü Hemşiresi Çeşmesi"
+date: "2025-12-25T11:03:09+03:00"
 slug: "koprulu-hemsiresi-cesmesi"
 description: "## Köprülü Hemşiresi Çeşmesi: Tarihin Sütunlarından Bekleyen Bir Çeşme..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Kuruçeşme"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.037479,41.061308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprülü Hemşiresi Çeşmesi: Tarihin Sütunlarından Bekleyen Bir Çeşme

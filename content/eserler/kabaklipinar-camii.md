@@ -1,18 +1,17 @@
 ---
-title: "Kabaklıpınar Camii | Miras Haritası"
-date: 2025-12-25T00:38:30+03:00
+title: "Kabaklıpınar Camii"
+date: "2025-12-25T00:38:30+03:00"
 slug: "kabaklipinar-camii"
 description: "## Kabaklıpınar Camii: Tekirdağ'ın Tarih Özellikli Camisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kapaklı_-_Kabaklıpınar_Camii_-_20250602142951.jpg/1200px-Kapaklı_-_Kabaklıpınar_Camii_-_20250602142951.jpg"
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Kapaklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.974513351,41.329877408"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kabaklıpınar Camii: Tekirdağ'ın Tarih Özellikli Camisi

@@ -1,18 +1,17 @@
 ---
-title: "Muratazaköy Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:40+03:00
+title: "Muratazaköy Kalesi"
+date: "2025-12-25T01:36:40+03:00"
 slug: "muratazakoy-kalesi"
 description: "# Muratazaköy Kalesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Altunhisar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.6016998,38.1743011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Muratazaköy Kalesi

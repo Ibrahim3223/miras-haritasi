@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ebul Vefa Camii | Miras Haritası"
-date: 2025-12-25T00:11:28+03:00
+title: "Şeyh Ebul Vefa Camii"
+date: "2025-12-25T00:11:28+03:00"
 slug: "seyh-ebul-vefa-camii"
 description: "## Şeyh Ebul Vefa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.420933263,37.855065532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Ebul Vefa Camii

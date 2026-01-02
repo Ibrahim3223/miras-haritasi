@@ -1,18 +1,17 @@
 ---
-title: "Şebsafa Kadın Camii Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:19:02+03:00
+title: "Şebsafa Kadın Camii Çeşmeleri"
+date: "2025-12-25T11:19:02+03:00"
 slug: "sebsafa-kadin-camii-cesmeleri"
 description: "## Şebsafa Kadın Camii Çeşmeleri: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Hacı Kadın"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.958563,41.019274"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şebsafa Kadın Camii Çeşmeleri: Fatih'in Gizli Çeşmesi

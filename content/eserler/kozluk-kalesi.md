@@ -1,18 +1,17 @@
 ---
-title: "Kozluk Kalesi | Miras Haritası"
-date: 2025-12-25T01:41:29+03:00
+title: "Kozluk Kalesi"
+date: "2025-12-25T01:41:29+03:00"
 slug: "kozluk-kalesi"
 description: "### Kozluk Kalesi: Batman'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.4895444,38.1954502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kozluk Kalesi: Batman'ın Tarihi Bir Anıtı

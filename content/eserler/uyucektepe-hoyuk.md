@@ -1,18 +1,17 @@
 ---
-title: "Üyücektepe Höyük | Miras Haritası"
-date: 2025-12-25T05:50:25+03:00
+title: "Üyücektepe Höyük"
+date: "2025-12-25T05:50:25+03:00"
 slug: "uyucektepe-hoyuk"
 description: "### Üyücektepe Höyük..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Savaştepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.621767,39.340352"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üyücektepe Höyük

@@ -1,18 +1,17 @@
 ---
-title: "Bozatlıpaşa Narlı Mescidi | Miras Haritası"
-date: 2025-12-24T22:27:05+03:00
+title: "Bozatlıpaşa Narlı Mescidi"
+date: "2025-12-24T22:27:05+03:00"
 slug: "bozatlipasa-narli-mescidi"
 description: "## Bozatlıpaşa Narlı Mescidi: Kayseri'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.480175,38.7202072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozatlıpaşa Narlı Mescidi: Kayseri'nin Tarihi Bir Mirası

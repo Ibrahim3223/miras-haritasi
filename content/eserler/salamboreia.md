@@ -1,18 +1,17 @@
 ---
-title: "Salamboreia | Miras Haritası"
-date: 2025-12-25T05:15:32+03:00
+title: "Salamboreia"
+date: "2025-12-25T05:15:32+03:00"
 slug: "salamboreia"
 description: "### Salamboreia: Geçmişin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.0340025,38.120083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Salamboreia: Geçmişin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Hamzabeyli Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:34:39+03:00
+title: "Hamzabeyli Sınır Kapısı"
+date: "2025-12-25T08:34:39+03:00"
 slug: "hamzabeyli-sinir-kapisi"
 description: "## Hamzabeyli Sınır Kapısı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "26.61056,41.9593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamzabeyli Sınır Kapısı

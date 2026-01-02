@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Orman Çiftliği Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:00+03:00
+title: "Atatürk Orman Çiftliği Köprüsü"
+date: "2025-12-25T02:44:00+03:00"
 slug: "ataturk-orman-ciftligi-koprusu"
 description: "## Atatürk Orman Çiftliği Köprüsü..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.7920227,39.949337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Orman Çiftliği Köprüsü

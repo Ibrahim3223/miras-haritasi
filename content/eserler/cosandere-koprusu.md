@@ -1,18 +1,17 @@
 ---
-title: "Coşandere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:31+03:00
+title: "Coşandere Köprüsü"
+date: "2025-12-25T02:31:31+03:00"
 slug: "cosandere-koprusu"
 description: "## Coşandere Köprüsü: Trabzon'un Eski Çağın Gizemi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.6069031,40.7678108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Coşandere Köprüsü: Trabzon'un Eski Çağın Gizemi

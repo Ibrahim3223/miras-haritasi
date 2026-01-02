@@ -1,18 +1,17 @@
 ---
-title: "Moukaporis | Miras Haritası"
-date: 2025-12-25T04:45:43+03:00
+title: "Moukaporis"
+date: "2025-12-25T04:45:43+03:00"
 slug: "moukaporis"
 description: "## Moukaporis: Kıbrıs'ın Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.082421,41.138794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Moukaporis: Kıbrıs'ın Gizli Mirası

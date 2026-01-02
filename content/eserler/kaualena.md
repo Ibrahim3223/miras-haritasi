@@ -1,18 +1,17 @@
 ---
-title: "Kaualena | Miras Haritası"
-date: 2025-12-25T05:05:52+03:00
+title: "Kaualena"
+date: "2025-12-25T05:05:52+03:00"
 slug: "kaualena"
 description: "## Kaualena Arkeolojik Sit..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Elmacık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.384641,38.596028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaualena Arkeolojik Sit

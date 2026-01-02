@@ -1,18 +1,17 @@
 ---
-title: "Şenyuva Köyü Çeşmesi, Çamlıhemşin | Miras Haritası"
-date: 2025-12-25T12:56:04+03:00
+title: "Şenyuva Köyü Çeşmesi, Çamlıhemşin"
+date: "2025-12-25T12:56:04+03:00"
 slug: "senyuva-koyu-cesmesi-camlihemsin"
 description: "## Şenyuva Köyü Çeşmesi: Çamlıhemşin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.972032757,40.999420235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şenyuva Köyü Çeşmesi: Çamlıhemşin'in Gizli Çeşmesi

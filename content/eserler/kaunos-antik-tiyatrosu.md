@@ -1,18 +1,17 @@
 ---
-title: "Kaunos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:22:17+03:00
+title: "Kaunos Antik Tiyatrosu"
+date: "2025-12-25T08:22:17+03:00"
 slug: "kaunos-antik-tiyatrosu"
 description: "## Kaunos Antik Tiyatrosu: Köyceğiz'in Gizli Hazineleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/DALYAN-KAUNOS_-_panoramio.jpg/1200px-DALYAN-KAUNOS_-_panoramio.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.623435,36.825307"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kaunos Antik Tiyatrosu: Köyceğiz'in Gizli Hazineleri

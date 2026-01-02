@@ -1,18 +1,17 @@
 ---
-title: "Antakya Nakip Camii Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:56:05+03:00
+title: "Antakya Nakip Camii Kütüphanesi"
+date: "2025-12-25T17:56:05+03:00"
 slug: "antakya-nakip-camii-kutuphanesi"
 description: "## Antakya Nakip Camii Kütüphanesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "36.1630135,36.2007713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antakya Nakip Camii Kütüphanesi

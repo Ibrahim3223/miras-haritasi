@@ -1,18 +1,17 @@
 ---
-title: "Kayserili Ahmet Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:57+03:00
+title: "Kayserili Ahmet Paşa Camii Çeşmesi"
+date: "2025-12-25T10:22:57+03:00"
 slug: "kayserili-ahmet-pasa-camii-cesmesi"
 description: "## Kayserili Ahmet Paşa Camii Çeşmesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.4047184,40.1427917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayserili Ahmet Paşa Camii Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Monasteri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:05+03:00
+title: "Monasteri Kilisesi"
+date: "2025-12-25T09:02:05+03:00"
 slug: "monasteri-kilisesi"
 description: "## Monasteri Kilisesi..."
 featured_image: ""
 province: "Borçka"
-iller: ["Borçka"]
+iller: '["Borçka"]'
 district: "Yeşilköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.655722222,41.421666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Monasteri Kilisesi

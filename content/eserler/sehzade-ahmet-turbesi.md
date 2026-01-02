@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Ahmet Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:36+03:00
+title: "Şehzade Ahmet Türbesi"
+date: "2025-12-25T14:41:36+03:00"
 slug: "sehzade-ahmet-turbesi"
 description: "## Bursa'da Gizli Bir Öykü: Şehzade Ahmet Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Shezade_Ahmet_tomb_7873.jpg/1200px-Shezade_Ahmet_tomb_7873.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0462627,40.1906395"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bursa'da Gizli Bir Öykü: Şehzade Ahmet Türbesi

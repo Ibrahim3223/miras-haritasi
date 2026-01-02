@@ -1,18 +1,17 @@
 ---
-title: "Adatepe Zeytinyağı Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:06+03:00
+title: "Adatepe Zeytinyağı Müzesi"
+date: "2025-12-25T03:31:06+03:00"
 slug: "adatepe-zeytinyagi-muzesi"
 description: "## Adatepe Zeytinyağı Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.60111111,39.5475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adatepe Zeytinyağı Müzesi

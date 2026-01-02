@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 61 | Miras Haritası"
-date: 2025-12-25T07:33:05+03:00
+title: "Bin Tepeler Tümülüsü 61"
+date: "2025-12-25T07:33:05+03:00"
 slug: "bin-tepeler-tumulusu-61"
 description: "## Bin Tepeler Tümülüsü 61: Manisa'nın Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Ahmetli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9260254,38.5923462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bin Tepeler Tümülüsü 61: Manisa'nın Gizemli Arkeolojik Mirası

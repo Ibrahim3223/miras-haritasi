@@ -1,18 +1,17 @@
 ---
-title: "Hilmi Nakipoğlu Fotoğraf Makineleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:19+03:00
+title: "Hilmi Nakipoğlu Fotoğraf Makineleri Müzesi"
+date: "2025-12-25T03:51:19+03:00"
 slug: "hilmi-nakipoglu-fotograf-makineleri-muzesi"
 description: "## Hilmi Nakipoğlu Fotoğraf Makineleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.879082,40.994015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hilmi Nakipoğlu Fotoğraf Makineleri Müzesi

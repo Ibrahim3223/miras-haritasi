@@ -1,18 +1,17 @@
 ---
-title: "Kamhisi Kilisesi | Miras Haritası"
-date: 2025-12-25T08:54:18+03:00
+title: "Kamhisi Kilisesi"
+date: "2025-12-25T08:54:18+03:00"
 slug: "kamhisi-kilisesi"
 description: "### Kamhisi Kilisesi..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Yanıkkaval"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.269194444,40.712527777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kamhisi Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Kara Halil Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:02:18+03:00
+title: "Kara Halil Bey Türbesi"
+date: "2025-12-25T15:02:18+03:00"
 slug: "kara-halil-bey-turbesi"
 description: "### Kara Halil Bey Türbesi: Kiraz'ın Tarihsel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kiraz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.2990608,38.1839371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kara Halil Bey Türbesi: Kiraz'ın Tarihsel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Samur Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:42:53+03:00
+title: "Samur Merkez Camii"
+date: "2025-12-24T22:42:53+03:00"
 slug: "samur-merkez-camii"
 description: "## Samur Merkez Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ordu"
+province: "Ordu"
+iller: '["Ordu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.261523,40.87301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samur Merkez Camii

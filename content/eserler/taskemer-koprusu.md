@@ -1,18 +1,17 @@
 ---
-title: "Taşkemer Köprüsü | Miras Haritası"
-date: 2025-12-25T02:13:52+03:00
+title: "Taşkemer Köprüsü"
+date: "2025-12-25T02:13:52+03:00"
 slug: "taskemer-koprusu"
 description: "## Taşkemer Köprüsü: Turgutlu'nun Gizli Mimari Harikası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.8194486,38.4662257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşkemer Köprüsü: Turgutlu'nun Gizli Mimari Harikası

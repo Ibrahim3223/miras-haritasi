@@ -1,18 +1,17 @@
 ---
-title: "İhsan Bey Camii | Miras Haritası"
-date: 2025-12-24T23:37:11+03:00
+title: "İhsan Bey Camii"
+date: "2025-12-24T23:37:11+03:00"
 slug: "ihsan-bey-camii"
 description: "## İhsan Bey Camii: Gaziantep'in Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3914375,37.0576973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İhsan Bey Camii: Gaziantep'in Tarihi ve Kültürel Bir Mirası

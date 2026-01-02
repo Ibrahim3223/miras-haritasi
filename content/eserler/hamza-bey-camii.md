@@ -1,18 +1,17 @@
 ---
-title: "Hamza  Bey Camii | Miras Haritası"
-date: 2025-12-25T00:28:50+03:00
+title: "Hamza  Bey Camii"
+date: "2025-12-25T00:28:50+03:00"
 slug: "hamza-bey-camii"
 description: "## Hamza Bey Camii..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0417709,40.1922035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamza Bey Camii

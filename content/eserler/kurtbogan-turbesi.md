@@ -1,18 +1,17 @@
 ---
-title: "Kurtboğan Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:33+03:00
+title: "Kurtboğan Türbesi"
+date: "2025-12-25T15:12:33+03:00"
 slug: "kurtbogan-turbesi"
 description: "## Kurtboğan Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.813591,40.6542168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurtboğan Türbesi

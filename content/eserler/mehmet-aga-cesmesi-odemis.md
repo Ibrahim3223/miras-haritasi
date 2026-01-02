@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Çeşmesi, Ödemiş | Miras Haritası"
-date: 2025-12-25T12:01:59+03:00
+title: "Mehmet Ağa Çeşmesi, Ödemiş"
+date: "2025-12-25T12:01:59+03:00"
 slug: "mehmet-aga-cesmesi-odemis"
 description: "## Mehmet Ağa Çeşmesi, Ödemiş..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.968689,38.233078"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ağa Çeşmesi, Ödemiş

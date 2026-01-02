@@ -1,18 +1,17 @@
 ---
-title: "Abdülaziz Han Çeşmesi, Pürtelaş Hasan Efendi | Miras Haritası"
-date: 2025-12-25T12:04:47+03:00
+title: "Abdülaziz Han Çeşmesi, Pürtelaş Hasan Efendi"
+date: "2025-12-25T12:04:47+03:00"
 slug: "abdulaziz-han-cesmesi-purtelas-hasan-efendi"
 description: "# Abdülaziz Han Çeşmesi, Pürtelaş Hasan Efendi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.987524,41.0294189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdülaziz Han Çeşmesi, Pürtelaş Hasan Efendi

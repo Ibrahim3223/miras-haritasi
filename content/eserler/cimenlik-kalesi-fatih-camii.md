@@ -1,18 +1,17 @@
 ---
-title: "Çimenlik Kalesi Fatih Camii | Miras Haritası"
-date: 2025-12-24T22:32:18+03:00
+title: "Çimenlik Kalesi Fatih Camii"
+date: "2025-12-24T22:32:18+03:00"
 slug: "cimenlik-kalesi-fatih-camii"
 description: "### Çimenlik Kalesi Fatih Camii: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3992729,40.1466599"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çimenlik Kalesi Fatih Camii: Çanakkale'nin Tarihi ve Kültürel Mirası

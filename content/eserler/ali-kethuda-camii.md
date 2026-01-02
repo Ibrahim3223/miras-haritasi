@@ -1,18 +1,17 @@
 ---
-title: "Ali Kethüda Camii | Miras Haritası"
-date: 2025-12-24T22:24:41+03:00
+title: "Ali Kethüda Camii"
+date: "2025-12-24T22:24:41+03:00"
 slug: "ali-kethuda-camii"
 description: "## Ali Kethüda Camii: İstanbul'un Gizli Çehresinde Bir İhtişam..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ali_Kethüda_Mosque,_Sarıyer,_İstanbul.jpg/1200px-Ali_Kethüda_Mosque,_Sarıyer,_İstanbul.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.057833333,41.169027777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ali Kethüda Camii: İstanbul'un Gizli Çehresinde Bir İhtişam

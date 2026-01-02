@@ -1,18 +1,17 @@
 ---
-title: "Eski Bayır Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:08+03:00
+title: "Eski Bayır Çeşmesi"
+date: "2025-12-25T11:37:08+03:00"
 slug: "eski-bayir-cesmesi"
 description: "## Eski Bayır Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2637978,37.2669716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Bayır Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Kocahöyük Tümülüsü, Yolageldi | Miras Haritası"
-date: 2025-12-25T07:34:49+03:00
+title: "Kocahöyük Tümülüsü, Yolageldi"
+date: "2025-12-25T07:34:49+03:00"
 slug: "kocahoyuk-tumulusu-yolageldi"
 description: "## Kocahöyük Tümülüsü, Yolageldi: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9437122,41.5560722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocahöyük Tümülüsü, Yolageldi: Edirne'nin Gizli Anıtı

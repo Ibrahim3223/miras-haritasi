@@ -1,18 +1,17 @@
 ---
-title: "Ambar Çayı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:02:11+03:00
+title: "Ambar Çayı Köprüsü"
+date: "2025-12-25T02:02:11+03:00"
 slug: "ambar-cayi-koprusu"
 description: "### Ambar Çayı Köprüsü: Diyarbakır'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.4601098,38.2648327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ambar Çayı Köprüsü: Diyarbakır'ın Tarihi ve Kültürel Mirası

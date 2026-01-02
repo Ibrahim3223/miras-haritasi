@@ -1,18 +1,17 @@
 ---
-title: "Sadrazam Halil Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:05:48+03:00
+title: "Sadrazam Halil Paşa Sebili"
+date: "2025-12-25T13:05:48+03:00"
 slug: "sadrazam-halil-pasa-sebili"
 description: "## Sadrazam Halil Paşa Sebili: Üsküdar'ın Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sadrazam_Halil_Paşa_Sebili.jpg/1200px-Sadrazam_Halil_Paşa_Sebili.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.01526,41.021798"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sadrazam Halil Paşa Sebili: Üsküdar'ın Tarihi Çeşmesi

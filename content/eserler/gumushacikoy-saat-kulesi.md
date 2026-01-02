@@ -1,18 +1,17 @@
 ---
-title: "Gümüşhacıköy Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:09+03:00
+title: "Gümüşhacıköy Saat Kulesi"
+date: "2025-12-25T17:19:09+03:00"
 slug: "gumushacikoy-saat-kulesi"
 description: "### Gümüşhacıköy Saat Kulesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Gümüşhacıköy"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "35.216694444,40.873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşhacıköy Saat Kulesi

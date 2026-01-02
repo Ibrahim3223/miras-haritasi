@@ -1,18 +1,17 @@
 ---
-title: "Sarıkız Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:21:47+03:00
+title: "Sarıkız Çeşmesi, Hekimhan"
+date: "2025-12-25T12:21:47+03:00"
 slug: "sarikiz-cesmesi-hekimhan"
 description: "## Sarıkız Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.843516495,38.845013869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıkız Çeşmesi, Hekimhan

@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Horzumembelli | Miras Haritası"
-date: 2025-12-25T02:46:10+03:00
+title: "Taş Köprü, Horzumembelli"
+date: "2025-12-25T02:46:10+03:00"
 slug: "tas-kopru-horzumembelli"
 description: "## Taş Köprü, Horzumembelli: Alaşehir'in Tarihi Çekeçisi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.4046993,38.3683014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Köprü, Horzumembelli: Alaşehir'in Tarihi Çekeçisi

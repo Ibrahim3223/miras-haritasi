@@ -1,18 +1,17 @@
 ---
-title: "Çevreli Camii | Miras Haritası"
-date: 2025-12-25T00:57:23+03:00
+title: "Çevreli Camii"
+date: "2025-12-25T00:57:23+03:00"
 slug: "cevreli-camii"
 description: "## Çevreli Camii: Artvin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.46349,40.766723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çevreli Camii: Artvin'in Tarihî ve Kültürel Mirası

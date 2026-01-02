@@ -1,18 +1,17 @@
 ---
-title: "Tuzla Köprüsü, Ayvacık | Miras Haritası"
-date: 2025-12-25T02:45:10+03:00
+title: "Tuzla Köprüsü, Ayvacık"
+date: "2025-12-25T02:45:10+03:00"
 slug: "tuzla-koprusu-ayvacik"
 description: "**Tuzla Köprüsü, Ayvacık: Bir Geçit Köprüsüün Tarihi ve Mimari Özellikleri**..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.1589699,39.5583496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tuzla Köprüsü, Ayvacık: Bir Geçit Köprüsüün Tarihi ve Mimari Özellikleri**

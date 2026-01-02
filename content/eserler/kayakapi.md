@@ -1,18 +1,17 @@
 ---
-title: "Kayakapı | Miras Haritası"
-date: 2025-12-25T08:15:14+03:00
+title: "Kayakapı"
+date: "2025-12-25T08:15:14+03:00"
 slug: "kayakapi"
 description: "## Kayakapı: Ürgüp'te Bir Arkeolojik Sitin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kayakapı_(Panorama).jpg/1200px-Kayakapı_(Panorama).jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.905869,38.634634"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kayakapı: Ürgüp'te Bir Arkeolojik Sitin Gizemi

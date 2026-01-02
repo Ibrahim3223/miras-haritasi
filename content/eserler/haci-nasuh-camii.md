@@ -1,18 +1,17 @@
 ---
-title: "Hacı Nasuh Camii | Miras Haritası"
-date: 2025-12-24T23:28:40+03:00
+title: "Hacı Nasuh Camii"
+date: "2025-12-24T23:28:40+03:00"
 slug: "haci-nasuh-camii"
 description: "### Hacı Nasuh Camii: Afyonkarahisar'ın Tarihi Bir Örgülü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5432491,38.750824"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Nasuh Camii: Afyonkarahisar'ın Tarihi Bir Örgülü

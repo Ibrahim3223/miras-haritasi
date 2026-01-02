@@ -1,18 +1,17 @@
 ---
-title: "Kemhük Köprüsü | Miras Haritası"
-date: 2025-12-25T02:28:40+03:00
+title: "Kemhük Köprüsü"
+date: "2025-12-25T02:28:40+03:00"
 slug: "kemhuk-koprusu"
 description: "### Kemhük Köprüsü: Silvan'ın Tarihi Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9049492,38.3453751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kemhük Köprüsü: Silvan'ın Tarihi Mirası

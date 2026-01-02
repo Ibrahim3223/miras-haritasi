@@ -1,18 +1,17 @@
 ---
-title: "Sofular Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:45:55+03:00
+title: "Sofular Çeşmesi"
+date: "2025-12-25T11:45:55+03:00"
 slug: "sofular-cesmesi"
 description: "## Sofular Çeşmesi: Vize'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.71725,41.641861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sofular Çeşmesi: Vize'nin Gizli Çeşmesi

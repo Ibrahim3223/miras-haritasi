@@ -1,18 +1,17 @@
 ---
-title: "Altınlı Köprü | Miras Haritası"
-date: 2025-12-25T01:53:20+03:00
+title: "Altınlı Köprü"
+date: "2025-12-25T01:53:20+03:00"
 slug: "altinli-kopru"
 description: "# Altınlı Köprü: Adıyaman'ın Gizli Cenneti..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Gölbaşı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.635212,37.830209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Altınlı Köprü: Adıyaman'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Demirdöğen Sineminte Camii | Miras Haritası"
-date: 2025-12-25T01:05:05+03:00
+title: "Demirdöğen Sineminte Camii"
+date: "2025-12-25T01:05:05+03:00"
 slug: "demirdogen-sineminte-camii"
 description: "**Demirdöğen Sineminte Camii**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2679,40.8693"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Demirdöğen Sineminte Camii**

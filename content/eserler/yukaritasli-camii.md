@@ -1,18 +1,17 @@
 ---
-title: "Yukarıtaslı Camii | Miras Haritası"
-date: 2025-12-24T23:47:03+03:00
+title: "Yukarıtaslı Camii"
+date: "2025-12-24T23:47:03+03:00"
 slug: "yukaritasli-camii"
 description: "## Yukarıtaslı Camii: Çorum'un Gizli Şarkısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.4762154,40.7381935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarıtaslı Camii: Çorum'un Gizli Şarkısı

@@ -1,18 +1,17 @@
 ---
-title: "Bathys Rhyax | Miras Haritası"
-date: 2025-12-25T05:00:13+03:00
+title: "Bathys Rhyax"
+date: "2025-12-25T05:00:13+03:00"
 slug: "bathys-rhyax"
 description: "### Bathys Rhyax: Antik Yunanistan'ın Gizli Kahramanı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.7011285,39.836743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bathys Rhyax: Antik Yunanistan'ın Gizli Kahramanı

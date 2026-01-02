@@ -1,18 +1,17 @@
 ---
-title: "Ortadeğirmen | Miras Haritası"
-date: 2025-12-25T05:36:34+03:00
+title: "Ortadeğirmen"
+date: "2025-12-25T05:36:34+03:00"
 slug: "ortadegirmen"
 description: "## Ortadağırmen: Edirne'nin Gizli Harikası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.897382,41.726023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortadağırmen: Edirne'nin Gizli Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Sanki Yedim Camii | Miras Haritası"
-date: 2025-12-24T21:48:50+03:00
+title: "Sanki Yedim Camii"
+date: "2025-12-24T21:48:50+03:00"
 slug: "sanki-yedim-camii"
 description: "## Sanki Yedim Camii: Zeyrek'teki Bir Gizem..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Zeyrek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.953194444,41.018694444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sanki Yedim Camii: Zeyrek'teki Bir Gizem

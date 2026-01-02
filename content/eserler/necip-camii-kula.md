@@ -1,18 +1,17 @@
 ---
-title: "Necip Camii, Kula | Miras Haritası"
-date: 2025-12-25T00:05:54+03:00
+title: "Necip Camii, Kula"
+date: "2025-12-25T00:05:54+03:00"
 slug: "necip-camii-kula"
 description: "## Necip Camii, Kula..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6471996,38.5439987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Necip Camii, Kula

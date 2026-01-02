@@ -1,18 +1,17 @@
 ---
-title: "Aya Stefanos Kilisesi (Yeşilköy) | Miras Haritası"
-date: 2025-12-25T09:45:00+03:00
+title: "Aya Stefanos Kilisesi (Yeşilköy)"
+date: "2025-12-25T09:45:00+03:00"
 slug: "aya-stefanos-kilisesi-yesilkoy"
 description: "**Aya Stefanos Kilisesi: Yeşilköy'ün Tarihi Güzelliği**..."
 featured_image: ""
-province: "Bakırköy"
-iller: ["Bakırköy"]
-district: "Yeşilköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bakırköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.8215,40.957055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Aya Stefanos Kilisesi: Yeşilköy'ün Tarihi Güzelliği**

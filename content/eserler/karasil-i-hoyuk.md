@@ -1,18 +1,17 @@
 ---
-title: "Karasıl I Höyük | Miras Haritası"
-date: 2025-12-25T05:30:31+03:00
+title: "Karasıl I Höyük"
+date: "2025-12-25T05:30:31+03:00"
 slug: "karasil-i-hoyuk"
 description: "### Karasıl I Höyük: Bursa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.581017,40.22312"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karasıl I Höyük: Bursa'nın Gizli Kahramanı

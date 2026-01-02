@@ -1,18 +1,17 @@
 ---
-title: "Vakvak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:24:16+03:00
+title: "Vakvak Çeşmesi"
+date: "2025-12-25T11:24:16+03:00"
 slug: "vakvak-cesmesi"
 description: "### Vakvak Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.427454,38.6078339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Vakvak Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi

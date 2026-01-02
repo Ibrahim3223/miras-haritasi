@@ -1,18 +1,17 @@
 ---
-title: "Lycae | Miras Haritası"
-date: 2025-12-25T04:54:01+03:00
+title: "Lycae"
+date: "2025-12-25T04:54:01+03:00"
 slug: "lycae"
 description: "## Lycae Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.12998,36.738576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lycae Arkeolojik Sit

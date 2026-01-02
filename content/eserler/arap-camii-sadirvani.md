@@ -1,18 +1,17 @@
 ---
-title: "Arap Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:12+03:00
+title: "Arap Camii Şadırvanı"
+date: "2025-12-25T10:02:12+03:00"
 slug: "arap-camii-sadirvani"
 description: "## Arap Camii Şadırvanı: Beyoğlu'nun Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Arap_Camii_Şadırvanı.jpg/1200px-Arap_Camii_Şadırvanı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971271066,41.024419784"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Arap Camii Şadırvanı: Beyoğlu'nun Tarihi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Trabzon Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:39+03:00
+title: "Trabzon Müzesi"
+date: "2025-12-25T03:13:39+03:00"
 slug: "trabzon-muzesi"
 description: "# Trabzon Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Trabzon_museum.jpg/1200px-Trabzon_museum.jpg"
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Trabzon"
+province: "Trabzon"
+iller: '["Trabzon"]'
+district: "Trabzon Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.72657,41.00505"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Trabzon Müzesi

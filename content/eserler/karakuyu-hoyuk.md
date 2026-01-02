@@ -1,18 +1,17 @@
 ---
-title: "Karakuyu Höyük | Miras Haritası"
-date: 2025-12-25T13:44:10+03:00
+title: "Karakuyu Höyük"
+date: "2025-12-25T13:44:10+03:00"
 slug: "karakuyu-hoyuk"
 description: "### Karakuyu Höyük: Dinar'ın Gizli Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.260733,38.069667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karakuyu Höyük: Dinar'ın Gizli Anıtı

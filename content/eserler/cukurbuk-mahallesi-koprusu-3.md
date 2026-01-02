@@ -1,18 +1,17 @@
 ---
-title: "Çukurbük Mahallesi Köprüsü 3 | Miras Haritası"
-date: 2025-12-25T02:38:54+03:00
+title: "Çukurbük Mahallesi Köprüsü 3"
+date: "2025-12-25T02:38:54+03:00"
 slug: "cukurbuk-mahallesi-koprusu-3"
 description: "## Çukurbük Mahallesi Köprüsü 3: Samsun'un Tarihî Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.150691,41.075516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukurbük Mahallesi Köprüsü 3: Samsun'un Tarihî Mirası

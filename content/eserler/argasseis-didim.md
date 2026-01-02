@@ -1,18 +1,17 @@
 ---
-title: "Argasseis, Didim | Miras Haritası"
-date: 2025-12-25T08:30:13+03:00
+title: "Argasseis, Didim"
+date: "2025-12-25T08:30:13+03:00"
 slug: "argasseis-didim"
 description: "## Argasseis, Didim: Aydın'ın Zengin Tarih Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3384476,37.3727837"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Argasseis, Didim: Aydın'ın Zengin Tarih Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sobiad Atıf Dizini | Miras Haritası"
-date: 2025-12-25T17:56:12+03:00
+title: "Sobiad Atıf Dizini"
+date: "2025-12-25T17:56:12+03:00"
 slug: "sobiad-atif-dizini"
 description: "## Sobiad Atıf Dizini..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sobiad Atıf Dizini

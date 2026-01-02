@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Camii, Edirne | Miras Haritası"
-date: 2025-12-25T00:37:38+03:00
+title: "Mehmet Ağa Camii, Edirne"
+date: "2025-12-25T00:37:38+03:00"
 slug: "mehmet-aga-camii-edirne"
 description: "**Mehmet Ağa Camii: Edirne'nin Gizli Çehresinde Bir Kıymetli Cami**..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.557431732,41.672816164"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mehmet Ağa Camii: Edirne'nin Gizli Çehresinde Bir Kıymetli Cami**

@@ -1,18 +1,17 @@
 ---
-title: "Peygamber Camii, Şanlıurfa | Miras Haritası"
-date: 2025-12-25T00:05:46+03:00
+title: "Peygamber Camii, Şanlıurfa"
+date: "2025-12-25T00:05:46+03:00"
 slug: "peygamber-camii-sanliurfa"
 description: "### Peygamber Camii, Şanlıurfa..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Haliliye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7945061,37.158474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Peygamber Camii, Şanlıurfa

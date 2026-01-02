@@ -1,18 +1,17 @@
 ---
-title: "Cidalcı Ahmet Camii | Miras Haritası"
-date: 2025-12-25T00:44:18+03:00
+title: "Cidalcı Ahmet Camii"
+date: "2025-12-25T00:44:18+03:00"
 slug: "cidalci-ahmet-camii"
 description: "### Cidalcı Ahmet Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Araç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.331303,41.240333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cidalcı Ahmet Camii

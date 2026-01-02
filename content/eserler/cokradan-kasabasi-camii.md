@@ -1,18 +1,17 @@
 ---
-title: "Çokradan Kasabası Camii | Miras Haritası"
-date: 2025-12-25T00:34:02+03:00
+title: "Çokradan Kasabası Camii"
+date: "2025-12-25T00:34:02+03:00"
 slug: "cokradan-kasabasi-camii"
 description: "# Çokayran Kasabası Camii: Yozgat'ta Bir Önemli Cami..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Çayıralan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.575569098,39.331621253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çokayran Kasabası Camii: Yozgat'ta Bir Önemli Cami

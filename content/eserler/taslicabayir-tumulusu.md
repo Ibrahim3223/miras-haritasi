@@ -1,18 +1,17 @@
 ---
-title: "Taşlıcabayır Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:46:16+03:00
+title: "Taşlıcabayır Tümülüsü"
+date: "2025-12-25T07:46:16+03:00"
 slug: "taslicabayir-tumulusu"
 description: "## Taşlıcabayır Tümülüsü: Kırklareli'nin Gizli İhtişamı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.243206,41.674633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlıcabayır Tümülüsü: Kırklareli'nin Gizli İhtişamı

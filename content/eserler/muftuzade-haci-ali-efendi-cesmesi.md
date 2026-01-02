@@ -1,18 +1,17 @@
 ---
-title: "Müftüzade Hacı Ali Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:04:17+03:00
+title: "Müftüzade Hacı Ali Efendi Çeşmesi"
+date: "2025-12-25T12:04:17+03:00"
 slug: "muftuzade-haci-ali-efendi-cesmesi"
 description: "## Müftüzade Hacı Ali Efendi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7390995,38.0844994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müftüzade Hacı Ali Efendi Çeşmesi

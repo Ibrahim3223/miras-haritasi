@@ -1,18 +1,17 @@
 ---
-title: "Turan Emeksiz Anıtı | Miras Haritası"
-date: 2025-12-25T15:42:17+03:00
+title: "Turan Emeksiz Anıtı"
+date: "2025-12-25T15:42:17+03:00"
 slug: "turan-emeksiz-aniti"
 description: "## Turan Emeksiz Anıtı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.963138888,41.009638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turan Emeksiz Anıtı

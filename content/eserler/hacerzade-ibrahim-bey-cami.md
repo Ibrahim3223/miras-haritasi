@@ -1,18 +1,17 @@
 ---
-title: "Hacerzade İbrahim Bey Cami | Miras Haritası"
-date: 2025-12-24T23:25:32+03:00
+title: "Hacerzade İbrahim Bey Cami"
+date: "2025-12-24T23:25:32+03:00"
 slug: "hacerzade-ibrahim-bey-cami"
 description: "## Hacerzade İbrahim Bey Cami..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Malkara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9018002,40.8917198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacerzade İbrahim Bey Cami

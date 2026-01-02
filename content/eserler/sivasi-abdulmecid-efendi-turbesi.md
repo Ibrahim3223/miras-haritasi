@@ -1,18 +1,17 @@
 ---
-title: "Sivasi Abdülmecid Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:51+03:00
+title: "Sivasi Abdülmecid Efendi Türbesi"
+date: "2025-12-25T14:22:51+03:00"
 slug: "sivasi-abdulmecid-efendi-turbesi"
 description: "## Sivasi Abdülmecid Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9303608,41.0418701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivasi Abdülmecid Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Bayır Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:07+03:00
+title: "Bayır Köyü Çeşmesi"
+date: "2025-12-25T10:18:07+03:00"
 slug: "bayir-koyu-cesmesi"
 description: "## Bayır Köyü Çeşmesi: Giresun'un Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çamoluk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.569519,40.109027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayır Köyü Çeşmesi: Giresun'un Tarihî Bir Çeşmesi

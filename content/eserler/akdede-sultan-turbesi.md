@@ -1,18 +1,17 @@
 ---
-title: "Akdede Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:30+03:00
+title: "Akdede Sultan Türbesi"
+date: "2025-12-25T15:17:30+03:00"
 slug: "akdede-sultan-turbesi"
 description: "## Akdede Sultan Türbesi: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Akdede_Sultan_Shrine.jpg/1200px-Akdede_Sultan_Shrine.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.83976,39.853527"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akdede Sultan Türbesi: Ankara'nın Tarihi ve Kültürel Mirası

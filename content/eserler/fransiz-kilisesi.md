@@ -1,18 +1,17 @@
 ---
-title: "Fransız Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:37+03:00
+title: "Fransız Kilisesi"
+date: "2025-12-25T09:38:37+03:00"
 slug: "fransiz-kilisesi"
 description: "## Fransız Kilisesi: İzmit'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.923872,40.7639618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fransız Kilisesi: İzmit'in Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ahmed Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:27+03:00
+title: "Şeyh Ahmed Türbesi"
+date: "2025-12-25T15:03:27+03:00"
 slug: "seyh-ahmed-turbesi"
 description: "## Şeyh Ahmed Türbesi: Eyüpsultan'ın Gizli Azizleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9361134,41.0534172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Ahmed Türbesi: Eyüpsultan'ın Gizli Azizleri

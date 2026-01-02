@@ -1,18 +1,17 @@
 ---
-title: "Rhodiapolis Asklepion | Miras Haritası"
-date: 2025-12-25T17:55:31+03:00
+title: "Rhodiapolis Asklepion"
+date: "2025-12-25T17:55:31+03:00"
 slug: "rhodiapolis-asklepion"
 description: "## Rhodiapolis Asklepion: Geçmişe Yolculuk..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.2654552,36.3866234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rhodiapolis Asklepion: Geçmişe Yolculuk

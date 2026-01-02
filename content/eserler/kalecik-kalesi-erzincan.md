@@ -1,18 +1,17 @@
 ---
-title: "Kalecik Kalesi, Erzincan | Miras Haritası"
-date: 2025-12-25T01:21:42+03:00
+title: "Kalecik Kalesi, Erzincan"
+date: "2025-12-25T01:21:42+03:00"
 slug: "kalecik-kalesi-erzincan"
 description: "## Kalecik Kalesi: Erzincan'ın Tarihi Esmeri..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.736702,39.5668716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalecik Kalesi: Erzincan'ın Tarihi Esmeri

@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:28+03:00
+title: "Yeniköy Köprüsü"
+date: "2025-12-25T02:35:28+03:00"
 slug: "yenikoy-koprusu"
 description: "## Yeniköy Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Espiye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.760726,40.776303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeniköy Köprüsü: Tarihi ve Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Yakuphasan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:31:10+03:00
+title: "Yakuphasan Çeşmesi"
+date: "2025-12-25T12:31:10+03:00"
 slug: "yakuphasan-cesmesi"
 description: "## Yakuphasan Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.820561671,40.229887586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yakuphasan Çeşmesi

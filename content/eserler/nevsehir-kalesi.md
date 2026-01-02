@@ -1,18 +1,17 @@
 ---
-title: "Nevşehir Kalesi | Miras Haritası"
-date: 2025-12-25T01:49:37+03:00
+title: "Nevşehir Kalesi"
+date: "2025-12-25T01:49:37+03:00"
 slug: "nevsehir-kalesi"
 description: "### Nevşehir Kalesi: Tarihî Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/NevsehirKalesi.jpg/1200px-NevsehirKalesi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Nevşehir"
+province: "Nevşehir"
+iller: '["Nevşehir"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.7130512,38.6199022"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Nevşehir Kalesi: Tarihî Bir Miras

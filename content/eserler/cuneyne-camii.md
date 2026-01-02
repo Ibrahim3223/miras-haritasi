@@ -1,18 +1,17 @@
 ---
-title: "Cüneyne Camii | Miras Haritası"
-date: 2025-12-24T22:29:07+03:00
+title: "Cüneyne Camii"
+date: "2025-12-24T22:29:07+03:00"
 slug: "cuneyne-camii"
 description: "## Cüneyne Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.1187515,36.7143211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cüneyne Camii

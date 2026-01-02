@@ -1,18 +1,17 @@
 ---
-title: "Çizmecibaşı Bedreddin Mahmud Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:36:36+03:00
+title: "Çizmecibaşı Bedreddin Mahmud Ağa Kabri"
+date: "2025-12-25T13:36:36+03:00"
 slug: "cizmecibasi-bedreddin-mahmud-aga-kabri"
 description: "## Çizmecibaşı Bedreddin Mahmud Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.991814,41.033429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çizmecibaşı Bedreddin Mahmud Ağa Kabri

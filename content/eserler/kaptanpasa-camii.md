@@ -1,18 +1,17 @@
 ---
-title: "Kaptanpaşa Camii | Miras Haritası"
-date: 2025-12-24T21:45:15+03:00
+title: "Kaptanpaşa Camii"
+date: "2025-12-24T21:45:15+03:00"
 slug: "kaptanpasa-camii"
 description: "### Kaptanpaşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Istanbul_asv2021-11_img19_Kaptanpaşa_Mosque.jpg/1200px-Istanbul_asv2021-11_img19_Kaptanpaşa_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.936611111,41.047194444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kaptanpaşa Camii

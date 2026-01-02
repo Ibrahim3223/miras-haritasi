@@ -1,18 +1,17 @@
 ---
-title: "Çokören Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:06+03:00
+title: "Çokören Çeşmesi"
+date: "2025-12-25T10:27:06+03:00"
 slug: "cokoren-cesmesi"
 description: "## Çokören Çeşmesi: Sincan'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.439682,39.6618423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çokören Çeşmesi: Sincan'ın Tarihi Bir Çeşmesi

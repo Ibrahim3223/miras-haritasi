@@ -1,18 +1,17 @@
 ---
-title: "Kül Höyüğü, Altınyayla | Miras Haritası"
-date: 2025-12-25T05:52:14+03:00
+title: "Kül Höyüğü, Altınyayla"
+date: "2025-12-25T05:52:14+03:00"
 slug: "kul-hoyugu-altinyayla"
 description: "## Kül Höyükleri: Altınyayla'daki Eski Kent Kalıntıları..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Altınyayla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8460121,39.3069305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kül Höyükleri: Altınyayla'daki Eski Kent Kalıntıları

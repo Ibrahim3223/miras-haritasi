@@ -1,18 +1,17 @@
 ---
-title: "Hibetullah Valide Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:43+03:00
+title: "Hibetullah Valide Sultan Çeşmesi"
+date: "2025-12-25T11:02:43+03:00"
 slug: "hibetullah-valide-sultan-cesmesi"
 description: "## Hibetullah Valide Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hibetullah_Sultan_Çeşmesi_Genel_Görüntüsü.jpg/1200px-Hibetullah_Sultan_Çeşmesi_Genel_Görüntüsü.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.014128,41.013229"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hibetullah Valide Sultan Çeşmesi

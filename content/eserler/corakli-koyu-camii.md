@@ -1,18 +1,17 @@
 ---
-title: "Çoraklı Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:19:50+03:00
+title: "Çoraklı Köyü Camii"
+date: "2025-12-24T22:19:50+03:00"
 slug: "corakli-koyu-camii"
 description: "## Çoraklı Köyü Camii..."
 featured_image: ""
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Çoraklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.358,41.365027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoraklı Köyü Camii

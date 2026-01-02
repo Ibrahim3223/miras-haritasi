@@ -1,18 +1,17 @@
 ---
-title: "Kimista | Miras Haritası"
-date: 2025-12-25T05:06:44+03:00
+title: "Kimista"
+date: "2025-12-25T05:06:44+03:00"
 slug: "kimista"
 description: "## Kimista Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.585455,40.98429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kimista Arkeolojik Sit

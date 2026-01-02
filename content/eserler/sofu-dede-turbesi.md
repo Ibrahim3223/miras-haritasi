@@ -1,18 +1,17 @@
 ---
-title: "Sofu Dede Türbesi | Miras Haritası"
-date: 2025-12-25T13:59:56+03:00
+title: "Sofu Dede Türbesi"
+date: "2025-12-25T13:59:56+03:00"
 slug: "sofu-dede-turbesi"
 description: "## Sofu Dede Türbesi: Şile'nin Tarihî Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.7914333,41.1407013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sofu Dede Türbesi: Şile'nin Tarihî Anıtı

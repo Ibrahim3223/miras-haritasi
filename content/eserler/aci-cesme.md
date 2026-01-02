@@ -1,18 +1,17 @@
 ---
-title: "Acı Çeşme | Miras Haritası"
-date: 2025-12-25T10:14:37+03:00
+title: "Acı Çeşme"
+date: "2025-12-25T10:14:37+03:00"
 slug: "aci-cesme"
 description: "### Acı Çeşme: Altındağ'daki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.860388888,39.936611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Acı Çeşme: Altındağ'daki Bir Tarihi Çeşme

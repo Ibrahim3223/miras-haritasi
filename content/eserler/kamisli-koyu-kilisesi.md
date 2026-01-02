@@ -1,18 +1,17 @@
 ---
-title: "Kamışlı Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:15:46+03:00
+title: "Kamışlı Köyü Kilisesi"
+date: "2025-12-25T09:15:46+03:00"
 slug: "kamisli-koyu-kilisesi"
 description: "## Kamışlı Köyü Kilisesi: Giresun'un Gizemleri..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Alucra"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.769477,40.309496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kamışlı Köyü Kilisesi: Giresun'un Gizemleri

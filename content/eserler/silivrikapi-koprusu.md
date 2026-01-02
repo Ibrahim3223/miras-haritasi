@@ -1,18 +1,17 @@
 ---
-title: "Silivrikapı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:45+03:00
+title: "Silivrikapı Köprüsü"
+date: "2025-12-25T02:18:45+03:00"
 slug: "silivrikapi-koprusu"
 description: "## Silivrikapı Köprüsü: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9212742,41.0060196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Silivrikapı Köprüsü: İstanbul'un Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Gümüşdamla Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:59+03:00
+title: "Gümüşdamla Köprüsü"
+date: "2025-12-25T02:35:59+03:00"
 slug: "gumusdamla-koprusu"
 description: "### Gümüşdamla Köprüsü..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Aydıntepe"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.1745338,40.4187317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gümüşdamla Köprüsü

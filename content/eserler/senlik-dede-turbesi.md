@@ -1,18 +1,17 @@
 ---
-title: "Şenlik Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:04+03:00
+title: "Şenlik Dede Türbesi"
+date: "2025-12-25T15:03:04+03:00"
 slug: "senlik-dede-turbesi"
 description: "## Şenlik Dede Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9990463,41.0447159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şenlik Dede Türbesi

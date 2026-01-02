@@ -1,18 +1,17 @@
 ---
-title: "İslahiye Küçükdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:05:35+03:00
+title: "İslahiye Küçükdere Köprüsü"
+date: "2025-12-25T02:05:35+03:00"
 slug: "islahiye-kucukdere-koprusu"
 description: "## İslahiye Küçükdere Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Güneysu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.645583,40.983117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İslahiye Küçükdere Köprüsü

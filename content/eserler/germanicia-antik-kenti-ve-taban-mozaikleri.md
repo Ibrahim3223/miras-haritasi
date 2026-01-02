@@ -1,18 +1,17 @@
 ---
-title: "Germanicia Antik Kenti ve Taban Mozaikleri | Miras Haritası"
-date: 2025-12-25T03:41:33+03:00
+title: "Germanicia Antik Kenti ve Taban Mozaikleri"
+date: "2025-12-25T03:41:33+03:00"
 slug: "germanicia-antik-kenti-ve-taban-mozaikleri"
 description: "## Germanicia Antik Kenti ve Taban Mozaikleri..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.9455986,37.5760994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Germanicia Antik Kenti ve Taban Mozaikleri

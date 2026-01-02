@@ -1,18 +1,17 @@
 ---
-title: "Kaman Kalehöyük Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:46:44+03:00
+title: "Kaman Kalehöyük Arkeoloji Müzesi"
+date: "2025-12-25T03:46:44+03:00"
 slug: "kaman-kalehoyuk-arkeoloji-muzesi"
 description: "## Kaman Kalehöyük Arkeoloji Müzesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kaman"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.7913399,39.34589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaman Kalehöyük Arkeoloji Müzesi

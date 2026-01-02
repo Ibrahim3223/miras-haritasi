@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Hekimhan | Miras Haritası"
-date: 2025-12-25T02:51:15+03:00
+title: "Roma Köprüsü, Hekimhan"
+date: "2025-12-25T02:51:15+03:00"
 slug: "roma-koprusu-hekimhan"
 description: "### Roma Köprüsü, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.8590317,38.9756851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Hekimhan

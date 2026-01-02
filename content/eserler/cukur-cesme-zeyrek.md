@@ -1,18 +1,17 @@
 ---
-title: "Çukur Çeşme, Zeyrek | Miras Haritası"
-date: 2025-12-25T12:52:14+03:00
+title: "Çukur Çeşme, Zeyrek"
+date: "2025-12-25T12:52:14+03:00"
 slug: "cukur-cesme-zeyrek"
 description: "## Çukur Çeşme, Zeyrek: İstanbul'un Tarihi Çeşmesinde Bir Yolculuk..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9567165,41.0196304"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukur Çeşme, Zeyrek: İstanbul'un Tarihi Çeşmesinde Bir Yolculuk

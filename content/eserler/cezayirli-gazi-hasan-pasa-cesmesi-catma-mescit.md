@@ -1,18 +1,17 @@
 ---
-title: "Cezayirli Gazi Hasan Paşa Çeşmesi, Çatma Mescit | Miras Haritası"
-date: 2025-12-25T10:37:31+03:00
+title: "Cezayirli Gazi Hasan Paşa Çeşmesi, Çatma Mescit"
+date: "2025-12-25T10:37:31+03:00"
 slug: "cezayirli-gazi-hasan-pasa-cesmesi-catma-mescit"
 description: "### Cezayirli Gazi Hasan Paşa Çeşmesi, Çatma Mescit: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cezayirli_Gazi_Hasan_Paşa_Çeşmesi,_Çatma_Mescit_01.jpg/1200px-Cezayirli_Gazi_Hasan_Paşa_Çeşmesi,_Çatma_Mescit_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.968833333,41.03225"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Cezayirli Gazi Hasan Paşa Çeşmesi, Çatma Mescit: İstanbul'un Gizli Çeşmesi

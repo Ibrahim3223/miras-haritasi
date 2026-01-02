@@ -1,18 +1,17 @@
 ---
-title: "Araplar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:38:12+03:00
+title: "Araplar Höyüğü"
+date: "2025-12-25T06:38:12+03:00"
 slug: "araplar-hoyugu"
 description: "## Araplar Höyüğü: Ankara'nın Gizli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.9445648,39.9302673"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Araplar Höyüğü: Ankara'nın Gizli Mirası

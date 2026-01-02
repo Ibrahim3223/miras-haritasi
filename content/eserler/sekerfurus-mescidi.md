@@ -1,18 +1,17 @@
 ---
-title: "Şekerfüruş Mescidi | Miras Haritası"
-date: 2025-12-24T23:09:19+03:00
+title: "Şekerfüruş Mescidi"
+date: "2025-12-24T23:09:19+03:00"
 slug: "sekerfurus-mescidi"
 description: "### Şekerfüruş Mescidi: Konya'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.492588,37.8689461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şekerfüruş Mescidi: Konya'nın Gizli Cenneti

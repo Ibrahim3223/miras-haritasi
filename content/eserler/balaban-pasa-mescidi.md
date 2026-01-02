@@ -1,18 +1,17 @@
 ---
-title: "Balaban Paşa Mescidi | Miras Haritası"
-date: 2025-12-24T23:49:11+03:00
+title: "Balaban Paşa Mescidi"
+date: "2025-12-24T23:49:11+03:00"
 slug: "balaban-pasa-mescidi"
 description: "## Balaban Paşa Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Balaban_Paşa_Camii_-_2025_-_2c.jpg/1200px-Balaban_Paşa_Camii_-_2025_-_2c.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.553711,41.66921"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Balaban Paşa Mescidi

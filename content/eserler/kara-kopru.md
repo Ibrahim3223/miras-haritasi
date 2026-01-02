@@ -1,18 +1,17 @@
 ---
-title: "Kara Köprü | Miras Haritası"
-date: 2025-12-25T01:59:28+03:00
+title: "Kara Köprü"
+date: "2025-12-25T01:59:28+03:00"
 slug: "kara-kopru"
 description: "## Kara Köprü: Diyarbakır'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.2731018,37.8091965"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Köprü: Diyarbakır'ın Tarihi Bir Mirası

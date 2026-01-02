@@ -1,18 +1,17 @@
 ---
-title: "Papaz Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:34+03:00
+title: "Papaz Çeşmesi"
+date: "2025-12-25T10:51:34+03:00"
 slug: "papaz-cesmesi"
 description: "### Papaz Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Bünyan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.8551445,38.8479805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Papaz Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Burgaz Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:34:38+03:00
+title: "Burgaz Çeşmesi"
+date: "2025-12-25T11:34:38+03:00"
 slug: "burgaz-cesmesi"
 description: "## Burgaz Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7789001,37.3171997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burgaz Çeşmesi

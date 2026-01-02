@@ -1,18 +1,17 @@
 ---
-title: "Şabanoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:53+03:00
+title: "Şabanoğlu Çeşmesi"
+date: "2025-12-25T10:54:53+03:00"
 slug: "sabanoglu-cesmesi"
 description: "### Şabanoğlu Çeşmesi: Aydoğdu'da Bir Çağdaş Taş Çeşme..."
 featured_image: ""
 province: "Süleymanpaşa"
-iller: ["Süleymanpaşa"]
+iller: '["Süleymanpaşa"]'
 district: "Aydoğdu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5093784,40.9786224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şabanoğlu Çeşmesi: Aydoğdu'da Bir Çağdaş Taş Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "I. Mahmut Çeşmesi, Babıali | Miras Haritası"
-date: 2025-12-25T11:55:43+03:00
+title: "I. Mahmut Çeşmesi, Babıali"
+date: "2025-12-25T11:55:43+03:00"
 slug: "i-mahmut-cesmesi-babiali"
 description: "## I. Mahmut Çeşmesi, Babıali: Tarihi ve Görsel Zenginliği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.975748,41.010394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## I. Mahmut Çeşmesi, Babıali: Tarihi ve Görsel Zenginliği

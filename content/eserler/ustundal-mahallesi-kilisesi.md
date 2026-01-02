@@ -1,18 +1,17 @@
 ---
-title: "Üstündal Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:46:18+03:00
+title: "Üstündal Mahallesi Kilisesi"
+date: "2025-12-25T09:46:18+03:00"
 slug: "ustundal-mahallesi-kilisesi"
 description: "## Üstündal Mahallesi Kilisesi: Sürmene'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Sürmene"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.116577,40.877045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üstündal Mahallesi Kilisesi: Sürmene'nin Gizli Mücevheri

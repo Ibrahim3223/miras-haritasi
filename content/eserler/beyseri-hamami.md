@@ -1,18 +1,17 @@
 ---
-title: "Beyseri Hamamı | Miras Haritası"
-date: 2025-12-25T16:54:38+03:00
+title: "Beyseri Hamamı"
+date: "2025-12-25T16:54:38+03:00"
 slug: "beyseri-hamami"
 description: "## Beyseri Hamamı: Antakya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.1641273,36.2001839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyseri Hamamı: Antakya'nın Tarihi ve Kültürel Mirası

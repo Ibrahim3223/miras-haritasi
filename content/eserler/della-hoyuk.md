@@ -1,18 +1,17 @@
 ---
-title: "Della Höyük | Miras Haritası"
-date: 2025-12-25T06:05:31+03:00
+title: "Della Höyük"
+date: "2025-12-25T06:05:31+03:00"
 slug: "della-hoyuk"
 description: "### Della Höyük: Türkiye'nin Gizli Tarihi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Beşiri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.3360596,37.9282379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Della Höyük: Türkiye'nin Gizli Tarihi

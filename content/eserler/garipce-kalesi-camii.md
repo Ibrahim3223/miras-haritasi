@@ -1,18 +1,17 @@
 ---
-title: "Garipçe Kalesi Camii | Miras Haritası"
-date: 2025-12-25T00:37:16+03:00
+title: "Garipçe Kalesi Camii"
+date: "2025-12-25T00:37:16+03:00"
 slug: "garipce-kalesi-camii"
 description: "## Garipçe Kalesi Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.109958218,41.214422811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Garipçe Kalesi Camii

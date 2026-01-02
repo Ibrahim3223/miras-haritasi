@@ -1,18 +1,17 @@
 ---
-title: "Gümüş Sokak Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T11:34:18+03:00
+title: "Gümüş Sokak Çeşmesi 2"
+date: "2025-12-25T11:34:18+03:00"
 slug: "gumus-sokak-cesmesi-2"
 description: "## Gümüş Sokak Çeşmesi 2: Safranbolu'nun Değerli Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gümüş_Sokak_Çeşmesi_2.jpg/1200px-Gümüş_Sokak_Çeşmesi_2.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6900558,41.2507706"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gümüş Sokak Çeşmesi 2: Safranbolu'nun Değerli Kültürel Mirası

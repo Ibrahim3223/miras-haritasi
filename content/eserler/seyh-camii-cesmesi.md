@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:11:21+03:00
+title: "Şeyh Camii Çeşmesi"
+date: "2025-12-25T10:11:21+03:00"
 slug: "seyh-camii-cesmesi"
 description: "## Şeyh Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Şeyh_Camii_Fountain.jpg/1200px-Şeyh_Camii_Fountain.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.01800366,41.025119167"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyh Camii Çeşmesi

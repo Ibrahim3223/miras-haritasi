@@ -1,18 +1,17 @@
 ---
-title: "Artace (Misya) | Miras Haritası"
-date: 2025-12-25T04:33:48+03:00
+title: "Artace (Misya)"
+date: "2025-12-25T04:33:48+03:00"
 slug: "artace-misya"
 description: "## Artace (Misya): Erdek'teki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.796268,40.402952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Artace (Misya): Erdek'teki Gizemli Arkeolojik Sit

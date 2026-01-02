@@ -1,18 +1,17 @@
 ---
-title: "Kurtdereli Heykeli | Miras Haritası"
-date: 2025-12-25T16:10:05+03:00
+title: "Kurtdereli Heykeli"
+date: "2025-12-25T16:10:05+03:00"
 slug: "kurtdereli-heykeli"
 description: "### Kurtdereli Heykeli: Balıkesir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8830795,39.6448097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurtdereli Heykeli: Balıkesir'in Gizli Kahramanı

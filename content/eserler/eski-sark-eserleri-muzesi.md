@@ -1,18 +1,17 @@
 ---
-title: "Eski Şark Eserleri Müzesi | Miras Haritası"
-date: 2025-12-25T04:07:30+03:00
+title: "Eski Şark Eserleri Müzesi"
+date: "2025-12-25T04:07:30+03:00"
 slug: "eski-sark-eserleri-muzesi"
 description: "## Eski Şark Eserleri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/İstanbul_-_Sanayi-i_Nefise_Mektebi_(Mimar_Sinan_Güzel_Sanatlar_Üniversitesi)_r2_-_Mart_2013.JPG/1200px-İstanbul_-_Sanayi-i_Nefise_Mektebi_(Mimar_Sinan_Güzel_Sanatlar_Üniversitesi)_r2_-_Mart_2013.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9804363,41.0113182"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eski Şark Eserleri Müzesi

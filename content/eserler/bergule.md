@@ -1,18 +1,17 @@
 ---
-title: "Bergule | Miras Haritası"
-date: 2025-12-25T05:04:10+03:00
+title: "Bergule"
+date: "2025-12-25T05:04:10+03:00"
 slug: "bergule"
 description: "### Bergule Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.36121,41.41621"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bergule Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Niğde Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:28+03:00
+title: "Niğde Saat Kulesi"
+date: "2025-12-25T17:19:28+03:00"
 slug: "nigde-saat-kulesi"
 description: "### Niğde Saat Kulesi: Tarihi ve Kültürel Mirasın En Güzel Örnekleri Arasındaki Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Niğde_saat_kulesi.jpg/1200px-Niğde_saat_kulesi.jpg"
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "34.6793709,37.9683571"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Niğde Saat Kulesi: Tarihi ve Kültürel Mirasın En Güzel Örnekleri Arasındaki Yer

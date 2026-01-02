@@ -1,18 +1,17 @@
 ---
-title: "Zeytinburnu Fabrika-i Hümâyûn Komutanlık Binası | Miras Haritası"
-date: 2025-12-25T08:38:07+03:00
+title: "Zeytinburnu Fabrika-i Hümâyûn Komutanlık Binası"
+date: "2025-12-25T08:38:07+03:00"
 slug: "zeytinburnu-fabrika-i-humyn-komutanlik-binasi"
 description: "## Zeytinburnu Fabrika-i Hümâyûn Komutanlık Binası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "28.9045734,40.9833908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeytinburnu Fabrika-i Hümâyûn Komutanlık Binası

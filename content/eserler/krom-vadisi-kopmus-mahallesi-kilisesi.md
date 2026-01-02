@@ -1,18 +1,17 @@
 ---
-title: "Krom Vadisi Kopmuş Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:14:49+03:00
+title: "Krom Vadisi Kopmuş Mahallesi Kilisesi"
+date: "2025-12-25T09:14:49+03:00"
 slug: "krom-vadisi-kopmus-mahallesi-kilisesi"
 description: "## Gümüşhane'nin Gizemli Kilisesi: Krom Vadisi Kopmuş Mahallesi Kilisesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.590193,40.553875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüşhane'nin Gizemli Kilisesi: Krom Vadisi Kopmuş Mahallesi Kilisesi

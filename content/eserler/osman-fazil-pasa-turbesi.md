@@ -1,18 +1,17 @@
 ---
-title: "Osman Fazıl Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:10+03:00
+title: "Osman Fazıl Paşa Türbesi"
+date: "2025-12-25T14:37:10+03:00"
 slug: "osman-fazil-pasa-turbesi"
 description: "## Osman Fazıl Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Osman_Fazıl_Paşa_Türbesi.jpg/1200px-Osman_Fazıl_Paşa_Türbesi.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8579903,39.9440384"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Osman Fazıl Paşa Türbesi

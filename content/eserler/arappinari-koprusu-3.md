@@ -1,18 +1,17 @@
 ---
-title: "Arappınarı Köprüsü 3 | Miras Haritası"
-date: 2025-12-25T02:12:56+03:00
+title: "Arappınarı Köprüsü 3"
+date: "2025-12-25T02:12:56+03:00"
 slug: "arappinari-koprusu-3"
 description: "## Arappınarı Köprüsü 3: Tire'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7390614,38.0803452"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arappınarı Köprüsü 3: Tire'nin Tarihî ve Kültürel Mirası

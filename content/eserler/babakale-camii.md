@@ -1,18 +1,17 @@
 ---
-title: "Babakale Camii | Miras Haritası"
-date: 2025-12-24T22:11:16+03:00
+title: "Babakale Camii"
+date: "2025-12-24T22:11:16+03:00"
 slug: "babakale-camii"
 description: "### Babakale Camii: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.0653,39.4796982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Babakale Camii: Tarihi ve Kültürel Bir Miras

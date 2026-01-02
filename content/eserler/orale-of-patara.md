@@ -1,18 +1,17 @@
 ---
-title: "Orale of Patara | Miras Haritası"
-date: 2025-12-25T08:13:11+03:00
+title: "Orale of Patara"
+date: "2025-12-25T08:13:11+03:00"
 slug: "orale-of-patara"
 description: "## Orales of Patara: Antik Bir Kentin Kalıntıları..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orales of Patara: Antik Bir Kentin Kalıntıları

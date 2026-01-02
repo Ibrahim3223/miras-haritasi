@@ -1,18 +1,17 @@
 ---
-title: "Andaval Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:24+03:00
+title: "Andaval Kilisesi"
+date: "2025-12-25T08:57:24+03:00"
 slug: "andaval-kilisesi"
 description: "## Andaval Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Aktaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.740888888,38.01875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andaval Kilisesi: Tarihi ve Kültürel Miras

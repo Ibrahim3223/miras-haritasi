@@ -1,18 +1,17 @@
 ---
-title: "Karahallı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:20:24+03:00
+title: "Karahallı Çeşmesi"
+date: "2025-12-25T10:20:24+03:00"
 slug: "karahalli-cesmesi"
 description: "## Karahallı Çeşmesi: Uşak'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2180996,38.4301033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karahallı Çeşmesi: Uşak'ın Tarihi ve Kültürel Mirası

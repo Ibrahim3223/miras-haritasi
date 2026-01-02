@@ -1,18 +1,17 @@
 ---
-title: "Midaion | Miras Haritası"
-date: 2025-12-25T05:30:16+03:00
+title: "Midaion"
+date: "2025-12-25T05:30:16+03:00"
 slug: "midaion"
 description: "## Midaion Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.854833,39.792833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Midaion Arkeolojik Sit

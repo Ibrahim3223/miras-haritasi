@@ -1,18 +1,17 @@
 ---
-title: "Güzelbeyli Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:42:54+03:00
+title: "Güzelbeyli Tümülüsü"
+date: "2025-12-25T07:42:54+03:00"
 slug: "guzelbeyli-tumulusu"
 description: "## Güzelbeyli Tümülüsü: Aydın'ın Karacasu'nda Gizemli Bir Miras..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.682045,37.7104836"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzelbeyli Tümülüsü: Aydın'ın Karacasu'nda Gizemli Bir Miras

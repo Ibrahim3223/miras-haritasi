@@ -1,18 +1,17 @@
 ---
-title: "Üçpınar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:43+03:00
+title: "Üçpınar Çeşmesi"
+date: "2025-12-25T10:45:43+03:00"
 slug: "ucpinar-cesmesi"
 description: "### Üçpınar Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.5290432,39.4542732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üçpınar Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Asmalı Hatip Sultan Camii | Miras Haritası"
-date: 2025-12-24T22:14:54+03:00
+title: "Asmalı Hatip Sultan Camii"
+date: "2025-12-24T22:14:54+03:00"
 slug: "asmali-hatip-sultan-camii"
 description: "## Asmalı Hatip Sultan Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5056,37.8719902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asmalı Hatip Sultan Camii

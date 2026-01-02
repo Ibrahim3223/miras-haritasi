@@ -1,18 +1,17 @@
 ---
-title: "Kalabantia | Miras Haritası"
-date: 2025-12-25T04:53:41+03:00
+title: "Kalabantia"
+date: "2025-12-25T04:53:41+03:00"
 slug: "kalabantia"
 description: "## Kalabantia: Boğaziçi'nin Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Seydikemer"
-iller: ["Seydikemer"]
+iller: '["Seydikemer"]'
 district: "Boğaziçi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.134034521,36.42974603"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalabantia: Boğaziçi'nin Gizemli Arkeolojik Sitleri

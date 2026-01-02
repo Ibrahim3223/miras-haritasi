@@ -1,18 +1,17 @@
 ---
-title: "The Moving Museum | Miras Haritası"
-date: 2025-12-25T03:24:22+03:00
+title: "The Moving Museum"
+date: "2025-12-25T03:24:22+03:00"
 slug: "the-moving-museum"
 description: "## The Moving Museum..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## The Moving Museum

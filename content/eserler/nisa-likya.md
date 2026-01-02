@@ -1,18 +1,17 @@
 ---
-title: "Nisa (Likya) | Miras Haritası"
-date: 2025-12-25T04:26:17+03:00
+title: "Nisa (Likya)"
+date: "2025-12-25T04:26:17+03:00"
 slug: "nisa-likya"
 description: "## Nisa Antik Kenti: Likya'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.64222222,36.44138889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nisa Antik Kenti: Likya'nın Gizli Hazineleri

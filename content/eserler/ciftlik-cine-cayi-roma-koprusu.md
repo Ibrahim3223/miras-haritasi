@@ -1,18 +1,17 @@
 ---
-title: "Çiftlik Çine Çayı Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:15+03:00
+title: "Çiftlik Çine Çayı Roma Köprüsü"
+date: "2025-12-25T02:44:15+03:00"
 slug: "ciftlik-cine-cayi-roma-koprusu"
 description: "## Çiftlik Çine Çayı Roma Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.8363514,37.762394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiftlik Çine Çayı Roma Köprüsü

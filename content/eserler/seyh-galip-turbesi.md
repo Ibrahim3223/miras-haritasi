@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Galip Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:28+03:00
+title: "Şeyh Galip Türbesi"
+date: "2025-12-25T14:49:28+03:00"
 slug: "seyh-galip-turbesi"
 description: "## Şeyh Galip Türbesi: Beyoğlu'ndaki Bir Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9746399,41.0282288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Galip Türbesi: Beyoğlu'ndaki Bir Kültürel Miras

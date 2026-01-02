@@ -1,18 +1,17 @@
 ---
-title: "Fethullah Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:42+03:00
+title: "Fethullah Dede Türbesi"
+date: "2025-12-25T15:33:42+03:00"
 slug: "fethullah-dede-turbesi"
 description: "### Fethullah Dede Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0749016,40.1791153"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fethullah Dede Türbesi

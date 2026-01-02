@@ -1,18 +1,17 @@
 ---
-title: "Alemdar Camii | Miras Haritası"
-date: 2025-12-24T22:09:06+03:00
+title: "Alemdar Camii"
+date: "2025-12-24T22:09:06+03:00"
 slug: "alemdar-camii"
 description: "## Alemdar Camii: Bitlis'in Tarihsel ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.1056824,38.398613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alemdar Camii: Bitlis'in Tarihsel ve Kültürel Mirası

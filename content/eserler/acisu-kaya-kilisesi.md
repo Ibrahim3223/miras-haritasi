@@ -1,18 +1,17 @@
 ---
-title: "Acısu Kaya Kilisesi | Miras Haritası"
-date: 2025-12-25T09:15:34+03:00
+title: "Acısu Kaya Kilisesi"
+date: "2025-12-25T09:15:34+03:00"
 slug: "acisu-kaya-kilisesi"
 description: "## Acısu Kaya Kilisesi: Bulancak'taki Tarihî Bir Çıplak..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Bulancak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.2085,40.925131"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acısu Kaya Kilisesi: Bulancak'taki Tarihî Bir Çıplak

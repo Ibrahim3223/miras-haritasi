@@ -1,18 +1,17 @@
 ---
-title: "Phlara | Miras Haritası"
-date: 2025-12-25T05:15:56+03:00
+title: "Phlara"
+date: "2025-12-25T05:15:56+03:00"
 slug: "phlara"
 description: "## Phlara: Türkiye'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.594603,39.864116"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phlara: Türkiye'nin Gizli Arkeolojik Harikası

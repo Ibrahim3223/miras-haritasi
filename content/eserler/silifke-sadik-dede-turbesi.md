@@ -1,18 +1,17 @@
 ---
-title: "Silifke Sadık Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:53+03:00
+title: "Silifke Sadık Dede Türbesi"
+date: "2025-12-25T15:12:53+03:00"
 slug: "silifke-sadik-dede-turbesi"
 description: "**Silifke Sadık Dede Türbesi: Bir Ziyaretçi İçin Keşfedilmesi Gereken Tarihi Anıt**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.942059,36.3705411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Silifke Sadık Dede Türbesi: Bir Ziyaretçi İçin Keşfedilmesi Gereken Tarihi Anıt**

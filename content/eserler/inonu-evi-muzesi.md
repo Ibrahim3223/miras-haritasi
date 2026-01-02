@@ -1,18 +1,17 @@
 ---
-title: "İnönü Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:31+03:00
+title: "İnönü Evi Müzesi"
+date: "2025-12-25T03:54:31+03:00"
 slug: "inonu-evi-muzesi"
 description: "## İnönü Evi Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.132916,38.414901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnönü Evi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Kasımzade Ahmet Sofi Camii | Miras Haritası"
-date: 2025-12-24T23:44:41+03:00
+title: "Kasımzade Ahmet Sofi Camii"
+date: "2025-12-24T23:44:41+03:00"
 slug: "kasimzade-ahmet-sofi-camii"
 description: "## Kasımzade Ahmet Sofi Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.115865,41.139585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasımzade Ahmet Sofi Camii

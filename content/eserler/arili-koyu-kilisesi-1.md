@@ -1,18 +1,17 @@
 ---
-title: "Arılı Köyü Kilisesi 1 | Miras Haritası"
-date: 2025-12-25T09:17:17+03:00
+title: "Arılı Köyü Kilisesi 1"
+date: "2025-12-25T09:17:17+03:00"
 slug: "arili-koyu-kilisesi-1"
 description: "# Arılı Köyü Kilisesi 1: Gümüşhane'nin Gizli Öyküsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.316951,40.45045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arılı Köyü Kilisesi 1: Gümüşhane'nin Gizli Öyküsü

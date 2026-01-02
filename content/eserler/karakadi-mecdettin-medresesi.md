@@ -1,18 +1,17 @@
 ---
-title: "Karakadı Mecdettin Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:51+03:00
+title: "Karakadı Mecdettin Medresesi"
+date: "2025-12-25T17:41:51+03:00"
 slug: "karakadi-mecdettin-medresesi"
 description: "## Karakadı Mecdettin Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.7422237,38.0886497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakadı Mecdettin Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk ve Çocuk Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:47+03:00
+title: "Atatürk ve Çocuk Müzesi"
+date: "2025-12-25T03:54:47+03:00"
 slug: "ataturk-ve-cocuk-muzesi"
 description: "### Atatürk ve Çocuk Müzesi..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Yalova"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.247816906,40.658073414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Atatürk ve Çocuk Müzesi

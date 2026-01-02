@@ -1,18 +1,17 @@
 ---
-title: "Gazi Gündüz Alp Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:24+03:00
+title: "Gazi Gündüz Alp Türbesi"
+date: "2025-12-25T15:21:24+03:00"
 slug: "gazi-gunduz-alp-turbesi"
 description: "### Gazi Gündüz Alp Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.7557163,40.1951103"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Gündüz Alp Türbesi

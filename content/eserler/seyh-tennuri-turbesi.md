@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Tennuri Türbesi | Miras Haritası"
-date: 2025-12-25T13:56:50+03:00
+title: "Şeyh Tennuri Türbesi"
+date: "2025-12-25T13:56:50+03:00"
 slug: "seyh-tennuri-turbesi"
 description: "**Şeyh Tennuri Türbesi**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4896698,38.7182159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Tennuri Türbesi**

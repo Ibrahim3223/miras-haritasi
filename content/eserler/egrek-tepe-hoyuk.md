@@ -1,18 +1,17 @@
 ---
-title: "Eğrek Tepe Höyük | Miras Haritası"
-date: 2025-12-25T06:02:35+03:00
+title: "Eğrek Tepe Höyük"
+date: "2025-12-25T06:02:35+03:00"
 slug: "egrek-tepe-hoyuk"
 description: "# Eğrek Tepe Höyük: Çankırı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.0407219,40.523468"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Eğrek Tepe Höyük: Çankırı'nın Gizli Cenneti

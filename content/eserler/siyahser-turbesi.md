@@ -1,18 +1,17 @@
 ---
-title: "Siyahser Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:03+03:00
+title: "Siyahser Türbesi"
+date: "2025-12-25T15:11:03+03:00"
 slug: "siyahser-turbesi"
 description: "## Siyahser Türbesi: Karaman'ın Tarihi bir Anıtı..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.2185631,37.1723785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siyahser Türbesi: Karaman'ın Tarihi bir Anıtı

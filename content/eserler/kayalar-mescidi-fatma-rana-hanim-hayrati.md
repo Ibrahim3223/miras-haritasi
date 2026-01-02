@@ -1,18 +1,17 @@
 ---
-title: "Kayalar Mescidi Fatma Rana Hanım Hayratı | Miras Haritası"
-date: 2025-12-25T11:45:02+03:00
+title: "Kayalar Mescidi Fatma Rana Hanım Hayratı"
+date: "2025-12-25T11:45:02+03:00"
 slug: "kayalar-mescidi-fatma-rana-hanim-hayrati"
 description: "### Kayalar Mescidi Fatma Rana Hanım Hayratı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kayalar_Mescidi_Fatma_Rana_Hanım_Hayratı.jpg/1200px-Kayalar_Mescidi_Fatma_Rana_Hanım_Hayratı.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Bebek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0525112,41.0803871"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kayalar Mescidi Fatma Rana Hanım Hayratı

@@ -1,18 +1,17 @@
 ---
-title: "Davut Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:04:27+03:00
+title: "Davut Paşa Çeşmesi"
+date: "2025-12-25T11:04:27+03:00"
 slug: "davut-pasa-cesmesi"
 description: "## Davut Paşa Çeşmesi: Cerrahpaşa'nın Tarihî Bir Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cerrahpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.937393,41.006923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Davut Paşa Çeşmesi: Cerrahpaşa'nın Tarihî Bir Çeşmesi

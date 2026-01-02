@@ -1,18 +1,17 @@
 ---
-title: "Günaltı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:22:26+03:00
+title: "Günaltı Höyüğü"
+date: "2025-12-25T06:22:26+03:00"
 slug: "gunalti-hoyugu"
 description: "# Günaltı Höyüğü: Nizip'in Gizli Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Nizip"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9163111,37.0093942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Günaltı Höyüğü: Nizip'in Gizli Mirası

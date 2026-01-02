@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Köprü | Miras Haritası"
-date: 2025-12-25T02:28:48+03:00
+title: "Kavaklı Köprü"
+date: "2025-12-25T02:28:48+03:00"
 slug: "kavakli-kopru"
 description: "## Kavaklı Köprü: Çivril'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.640409,38.156738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavaklı Köprü: Çivril'in Tarihî Bir Mirası

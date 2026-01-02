@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmet Camii, Konak | Miras Haritası"
-date: 2025-12-25T00:03:34+03:00
+title: "Hacı Mehmet Camii, Konak"
+date: "2025-12-25T00:03:34+03:00"
 slug: "haci-mehmet-camii-konak"
 description: "## Hacı Mehmet Camii: Konak'ta Bir Geçmişe Sahip Anıt..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1331158,38.4146843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mehmet Camii: Konak'ta Bir Geçmişe Sahip Anıt

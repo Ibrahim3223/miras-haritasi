@@ -1,18 +1,17 @@
 ---
-title: "Belbaşı | Miras Haritası"
-date: 2025-12-25T06:55:45+03:00
+title: "Belbaşı"
+date: "2025-12-25T06:55:45+03:00"
 slug: "belbasi"
 description: "## Belbaşı Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.97055556,36.5775"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belbaşı Arkeolojik Sit

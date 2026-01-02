@@ -1,18 +1,17 @@
 ---
-title: "Asartepe | Miras Haritası"
-date: 2025-12-25T05:40:34+03:00
+title: "Asartepe"
+date: "2025-12-25T05:40:34+03:00"
 slug: "asartepe"
 description: "## Asartepe: Gölmarmara'nın Tarihî Zirvesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.993306,38.692809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asartepe: Gölmarmara'nın Tarihî Zirvesi

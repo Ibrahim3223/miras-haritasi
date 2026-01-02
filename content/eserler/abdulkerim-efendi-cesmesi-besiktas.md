@@ -1,18 +1,17 @@
 ---
-title: "Abdülkerim Efendi Çeşmesi (Beşiktaş) | Miras Haritası"
-date: 2025-12-25T12:19:39+03:00
+title: "Abdülkerim Efendi Çeşmesi (Beşiktaş)"
+date: "2025-12-25T12:19:39+03:00"
 slug: "abdulkerim-efendi-cesmesi-besiktas"
 description: "## Abdülkerim Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0238667,41.0489655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdülkerim Efendi Çeşmesi

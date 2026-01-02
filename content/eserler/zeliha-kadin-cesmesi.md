@@ -1,18 +1,17 @@
 ---
-title: "Zeliha Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:43:57+03:00
+title: "Zeliha Kadın Çeşmesi"
+date: "2025-12-25T10:43:57+03:00"
 slug: "zeliha-kadin-cesmesi"
 description: "## Zeliha Kadın Çeşmesi: İzmit'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9203129,40.7650223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeliha Kadın Çeşmesi: İzmit'in Tarihi ve Kültürel Mirası

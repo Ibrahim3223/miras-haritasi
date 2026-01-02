@@ -1,18 +1,17 @@
 ---
-title: "Ayios Atanasios Ayazması, Kurtuluş | Miras Haritası"
-date: 2025-12-25T12:44:03+03:00
+title: "Ayios Atanasios Ayazması, Kurtuluş"
+date: "2025-12-25T12:44:03+03:00"
 slug: "ayios-atanasios-ayazmasi-kurtulus"
 description: "## Ayios Atanasios Ayazması, Kurtuluş: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9749584,41.0455894"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Atanasios Ayazması, Kurtuluş: İstanbul'un Gizli Çeşmesi

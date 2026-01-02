@@ -1,18 +1,17 @@
 ---
-title: "Kelainai | Miras Haritası"
-date: 2025-12-25T04:23:06+03:00
+title: "Kelainai"
+date: "2025-12-25T04:23:06+03:00"
 slug: "kelainai"
 description: "## Kelainai: Afyonkarahisar'ın Gizli İnsiyeti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.16555556,38.07166667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kelainai: Afyonkarahisar'ın Gizli İnsiyeti

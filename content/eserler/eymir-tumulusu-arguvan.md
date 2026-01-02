@@ -1,18 +1,17 @@
 ---
-title: "Eymir Tümülüsü, Arguvan | Miras Haritası"
-date: 2025-12-25T07:38:16+03:00
+title: "Eymir Tümülüsü, Arguvan"
+date: "2025-12-25T07:38:16+03:00"
 slug: "eymir-tumulusu-arguvan"
 description: "**Eymir Tümülüsü, Arguvan**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.2326355,38.8582687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Eymir Tümülüsü, Arguvan**

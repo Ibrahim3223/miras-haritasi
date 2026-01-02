@@ -1,18 +1,17 @@
 ---
-title: "Kydramos Tümülüs III | Miras Haritası"
-date: 2025-12-25T08:01:52+03:00
+title: "Kydramos Tümülüs III"
+date: "2025-12-25T08:01:52+03:00"
 slug: "kydramos-tumulus-iii"
 description: "## Kydramos Tümülüs III: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.129975459,37.345799385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kydramos Tümülüs III: Tarihi ve Kültürel Mirasın Gizemi

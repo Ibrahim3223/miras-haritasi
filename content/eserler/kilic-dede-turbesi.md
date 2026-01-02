@@ -1,18 +1,17 @@
 ---
-title: "Kılıç Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:50+03:00
+title: "Kılıç Dede Türbesi"
+date: "2025-12-25T14:34:50+03:00"
 slug: "kilic-dede-turbesi"
 description: "### Kılıç Dede Türbesi: Merzifon'un Tarihi bir Anıtı..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.459672,40.875744"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kılıç Dede Türbesi: Merzifon'un Tarihi bir Anıtı

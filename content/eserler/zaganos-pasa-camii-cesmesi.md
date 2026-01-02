@@ -1,18 +1,17 @@
 ---
-title: "Zağanos Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:24:42+03:00
+title: "Zağanos Paşa Camii Çeşmesi"
+date: "2025-12-25T11:24:42+03:00"
 slug: "zaganos-pasa-camii-cesmesi"
 description: "### Zağanos Paşa Camii Çeşmesi: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: ["Marmara Bölgesi"]
+iller: '["Marmara Bölgesi"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8801575,39.6489182"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zağanos Paşa Camii Çeşmesi: Tarihi ve Kültürel Bir Miras

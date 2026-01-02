@@ -1,18 +1,17 @@
 ---
-title: "Pir-i Sanî Camii | Miras Haritası"
-date: 2025-12-24T22:39:17+03:00
+title: "Pir-i Sanî Camii"
+date: "2025-12-24T22:39:17+03:00"
 slug: "pir-i-san-camii"
 description: "## Pir-i Sanî Camii..."
 featured_image: ""
-province: "İç Anadolu Bölgesi"
-iller: ["İç Anadolu Bölgesi"]
-district: "Çankırı"
+province: "Çankırı"
+iller: '["Çankırı"]'
+district: "İç Anadolu Bölgesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8941193,40.8139381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pir-i Sanî Camii

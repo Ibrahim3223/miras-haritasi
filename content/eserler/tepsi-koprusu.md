@@ -1,18 +1,17 @@
 ---
-title: "Tepsi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:37+03:00
+title: "Tepsi Köprüsü"
+date: "2025-12-25T02:36:37+03:00"
 slug: "tepsi-koprusu"
 description: "# Tepsi Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Yağlıdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.591278,40.651289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tepsi Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 20 | Miras Haritası"
-date: 2025-12-25T07:30:57+03:00
+title: "Bin Tepeler Tümülüsü 20"
+date: "2025-12-25T07:30:57+03:00"
 slug: "bin-tepeler-tumulusu-20"
 description: "## Bin Tepeler Tümülüsü 20: Salihli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.005911,38.571293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bin Tepeler Tümülüsü 20: Salihli'nin Gizli Cenneti

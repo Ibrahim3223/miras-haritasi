@@ -1,18 +1,17 @@
 ---
-title: "Yolkıyı Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:18:46+03:00
+title: "Yolkıyı Köyü Camii"
+date: "2025-12-25T00:18:46+03:00"
 slug: "yolkiyi-koyu-camii"
 description: "## Yolkıyı Köyü Camii: Rize'nin Çamlıhemşin İlçesindeki Bir Önemli Cami..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.992538044,41.019903195"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yolkıyı Köyü Camii: Rize'nin Çamlıhemşin İlçesindeki Bir Önemli Cami

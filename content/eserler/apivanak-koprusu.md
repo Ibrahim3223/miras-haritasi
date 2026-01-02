@@ -1,18 +1,17 @@
 ---
-title: "Apivanak Köprüsü | Miras Haritası"
-date: 2025-12-25T02:02:24+03:00
+title: "Apivanak Köprüsü"
+date: "2025-12-25T02:02:24+03:00"
 slug: "apivanak-koprusu"
 description: "## Apivanak Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Apivanak_Köprüsü.jpg/1200px-Apivanak_Köprüsü.jpg"
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0986556,40.8391911"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Apivanak Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası

@@ -1,18 +1,17 @@
 ---
-title: "Bana Mağara Kilisesi | Miras Haritası"
-date: 2025-12-25T09:30:01+03:00
+title: "Bana Mağara Kilisesi"
+date: "2025-12-25T09:30:01+03:00"
 slug: "bana-magara-kilisesi"
 description: "## Bana Mağara Kilisesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Şenkaya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.3025017,40.6536903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bana Mağara Kilisesi

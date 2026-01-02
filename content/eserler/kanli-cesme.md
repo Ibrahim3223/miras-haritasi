@@ -1,18 +1,17 @@
 ---
-title: "Kanlı Çeşme | Miras Haritası"
-date: 2025-12-25T10:39:43+03:00
+title: "Kanlı Çeşme"
+date: "2025-12-25T10:39:43+03:00"
 slug: "kanli-cesme"
 description: "## Kanlı Çeşme: Kastamonu'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7814674,41.3793297"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanlı Çeşme: Kastamonu'da Bir Tarihî Çeşme

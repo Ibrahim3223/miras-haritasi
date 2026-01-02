@@ -1,18 +1,17 @@
 ---
-title: "Özer Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:11+03:00
+title: "Özer Hamamı"
+date: "2025-12-25T17:02:11+03:00"
 slug: "ozer-hamami"
 description: "## Özer Hamamı: Uşak'taki Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.4031792,38.6781006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özer Hamamı: Uşak'taki Tarihi ve Kültürel Bir Miras

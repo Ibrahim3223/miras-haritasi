@@ -1,18 +1,17 @@
 ---
-title: "Kurusaha Camii | Miras Haritası"
-date: 2025-12-25T00:23:15+03:00
+title: "Kurusaha Camii"
+date: "2025-12-25T00:23:15+03:00"
 slug: "kurusaha-camii"
 description: "## Kurusaha Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.5612,40.7771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurusaha Camii: Rize'nin Tarihi Bir Mirası

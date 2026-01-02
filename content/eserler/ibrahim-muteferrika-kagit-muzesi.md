@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Müteferrika Kağıt Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:28+03:00
+title: "İbrahim Müteferrika Kağıt Müzesi"
+date: "2025-12-25T03:26:28+03:00"
 slug: "ibrahim-muteferrika-kagit-muzesi"
 description: "## İbrahim Müteferrika Kağıt Müzesi..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Yalova"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.2624073,40.6514206"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Müteferrika Kağıt Müzesi

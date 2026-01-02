@@ -1,18 +1,17 @@
 ---
-title: "Attariye Camii | Miras Haritası"
-date: 2025-12-24T22:16:11+03:00
+title: "Attariye Camii"
+date: "2025-12-24T22:16:11+03:00"
 slug: "attariye-camii"
 description: "## Attariye Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2159996,37.1819992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Attariye Camii

@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Lazlar Camisi | Miras Haritası"
-date: 2025-12-24T22:25:14+03:00
+title: "Kavaklı Lazlar Camisi"
+date: "2025-12-24T22:25:14+03:00"
 slug: "kavakli-lazlar-camisi"
 description: "### Kavaklı Lazlar Camisi: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Akçaabat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kavaklı Lazlar Camisi: Trabzon'un Gizli Cenneti

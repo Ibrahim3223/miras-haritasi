@@ -1,18 +1,17 @@
 ---
-title: "Chyraous | Miras Haritası"
-date: 2025-12-25T01:38:55+03:00
+title: "Chyraous"
+date: "2025-12-25T01:38:55+03:00"
 slug: "chyraous"
 description: "### Chyraous Kalesi: Altıeylül'ün Gizli Değerleri..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Altıeylül"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.940367,39.49242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Chyraous Kalesi: Altıeylül'ün Gizli Değerleri

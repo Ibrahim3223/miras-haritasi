@@ -1,18 +1,17 @@
 ---
-title: "Olympos Köprüsü | Miras Haritası"
-date: 2025-12-25T02:28:44+03:00
+title: "Olympos Köprüsü"
+date: "2025-12-25T02:28:44+03:00"
 slug: "olympos-koprusu"
 description: "## Olympos Köprüsü: Antalya'nın Tarihi ve Kültürel Mirasının Gizli Çehresini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Olympos_Köprüsü_yıkıntıları_2.jpg/1200px-Olympos_Köprüsü_yıkıntıları_2.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.4745073,36.3960806"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Olympos Köprüsü: Antalya'nın Tarihi ve Kültürel Mirasının Gizli Çehresini Keşfedin

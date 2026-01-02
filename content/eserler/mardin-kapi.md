@@ -1,18 +1,17 @@
 ---
-title: "Mardin Kapı | Miras Haritası"
-date: 2025-12-25T13:41:39+03:00
+title: "Mardin Kapı"
+date: "2025-12-25T13:41:39+03:00"
 slug: "mardin-kapi"
 description: "## Mardin Kapısının Gizemi ve Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Diyarbakır_Outside_walls_at_Mardin_Kapı_2616_in_2005.jpg/1200px-Diyarbakır_Outside_walls_at_Mardin_Kapı_2616_in_2005.jpg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2356339,37.9060707"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mardin Kapısının Gizemi ve Tarihi

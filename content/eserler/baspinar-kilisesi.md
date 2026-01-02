@@ -1,18 +1,17 @@
 ---
-title: "Başpınar Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:53+03:00
+title: "Başpınar Kilisesi"
+date: "2025-12-25T09:19:53+03:00"
 slug: "baspinar-kilisesi"
 description: "### Başpınar Kilisesi: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.3749008,38.3265495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Başpınar Kilisesi: İzmir'in Gizli Cenneti

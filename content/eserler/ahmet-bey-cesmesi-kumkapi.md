@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Bey Çeşmesi, Kumkapı | Miras Haritası"
-date: 2025-12-25T11:52:36+03:00
+title: "Ahmet Bey Çeşmesi, Kumkapı"
+date: "2025-12-25T11:52:36+03:00"
 slug: "ahmet-bey-cesmesi-kumkapi"
 description: "## Ahmet Bey Çeşmesi, Kumkapı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ahmet_Bey_Çeşmesi,_Kumkapı.jpg/1200px-Ahmet_Bey_Çeşmesi,_Kumkapı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.962944,41.003609"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahmet Bey Çeşmesi, Kumkapı

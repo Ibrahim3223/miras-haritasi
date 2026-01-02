@@ -1,18 +1,17 @@
 ---
-title: "Salat Cami Yanı | Miras Haritası"
-date: 2025-12-25T08:14:31+03:00
+title: "Salat Cami Yanı"
+date: "2025-12-25T08:14:31+03:00"
 slug: "salat-cami-yani"
 description: "## Salat Cami Yanı: Bismil'in Gizli Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.9016953,37.8395767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salat Cami Yanı: Bismil'in Gizli Mirası

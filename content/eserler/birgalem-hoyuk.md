@@ -1,18 +1,17 @@
 ---
-title: "Birgalem Höyük | Miras Haritası"
-date: 2025-12-25T06:21:19+03:00
+title: "Birgalem Höyük"
+date: "2025-12-25T06:21:19+03:00"
 slug: "birgalem-hoyuk"
 description: "### Birgalem Höyük: Geçmişin İzleri Çiçekdağı'nda..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3179711,39.5000402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Birgalem Höyük: Geçmişin İzleri Çiçekdağı'nda

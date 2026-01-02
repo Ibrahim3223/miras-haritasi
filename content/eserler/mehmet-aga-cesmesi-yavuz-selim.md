@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Çeşmesi, Yavuz Selim | Miras Haritası"
-date: 2025-12-25T12:49:43+03:00
+title: "Mehmet Ağa Çeşmesi, Yavuz Selim"
+date: "2025-12-25T12:49:43+03:00"
 slug: "mehmet-aga-cesmesi-yavuz-selim"
 description: "## Mehmet Ağa Çeşmesi, Yavuz Selim..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9479904,41.0253944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ağa Çeşmesi, Yavuz Selim

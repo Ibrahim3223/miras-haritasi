@@ -1,18 +1,17 @@
 ---
-title: "Telli Hacı Halil Camii | Miras Haritası"
-date: 2025-12-24T23:14:26+03:00
+title: "Telli Hacı Halil Camii"
+date: "2025-12-24T23:14:26+03:00"
 slug: "telli-haci-halil-camii"
 description: "### Telli Hacı Halil Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8654823,39.9351654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Telli Hacı Halil Camii

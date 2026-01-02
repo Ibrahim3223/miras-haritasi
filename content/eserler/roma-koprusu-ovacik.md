@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Ovacık | Miras Haritası"
-date: 2025-12-25T02:56:52+03:00
+title: "Roma Köprüsü, Ovacık"
+date: "2025-12-25T02:56:52+03:00"
 slug: "roma-koprusu-ovacik"
 description: "## Roma Köprüsü, Ovacık..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.4861794,36.6005821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Ovacık

@@ -1,18 +1,17 @@
 ---
-title: "Meryem Ana Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:34:11+03:00
+title: "Meryem Ana Mahallesi Köprüsü"
+date: "2025-12-25T02:34:11+03:00"
 slug: "meryem-ana-mahallesi-koprusu"
 description: "## Meryem Ana Mahallesi Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kürtün"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.988695,40.510247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meryem Ana Mahallesi Köprüsü

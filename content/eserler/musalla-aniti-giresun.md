@@ -1,18 +1,17 @@
 ---
-title: "Musalla Anıtı, Giresun | Miras Haritası"
-date: 2025-12-25T15:51:25+03:00
+title: "Musalla Anıtı, Giresun"
+date: "2025-12-25T15:51:25+03:00"
 slug: "musalla-aniti-giresun"
 description: "### Musalla Anıtı: Giresun'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.396141,40.916889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Musalla Anıtı: Giresun'un Tarihî ve Kültürel Mirası

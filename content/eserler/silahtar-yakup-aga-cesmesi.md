@@ -1,18 +1,17 @@
 ---
-title: "Silahtar Yakup Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:39:36+03:00
+title: "Silahtar Yakup Ağa Çeşmesi"
+date: "2025-12-25T10:39:36+03:00"
 slug: "silahtar-yakup-aga-cesmesi"
 description: "### Silahtar Yakup Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Silahtar_Yakup_Ağa_Fountain.jpg/1200px-Silahtar_Yakup_Ağa_Fountain.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.970847,41.033478"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Silahtar Yakup Ağa Çeşmesi

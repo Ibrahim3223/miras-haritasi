@@ -1,18 +1,17 @@
 ---
-title: "Hamzalı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:21+03:00
+title: "Hamzalı Köprüsü"
+date: "2025-12-25T02:37:21+03:00"
 slug: "hamzali-koprusu"
 description: "# Hamzalı Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.08482,40.958263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamzalı Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Saint Ohan Church (Baberd) | Miras Haritası"
-date: 2025-12-25T08:52:36+03:00
+title: "Saint Ohan Church (Baberd)"
+date: "2025-12-25T08:52:36+03:00"
 slug: "saint-ohan-church-baberd"
 description: "## Saint Ohan Church (Baberd)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saint Ohan Church (Baberd)

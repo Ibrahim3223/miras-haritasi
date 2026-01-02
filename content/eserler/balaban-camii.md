@@ -1,18 +1,17 @@
 ---
-title: "Balaban Camii | Miras Haritası"
-date: 2025-12-24T23:52:09+03:00
+title: "Balaban Camii"
+date: "2025-12-24T23:52:09+03:00"
 slug: "balaban-camii"
 description: "## Balaban Camii..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8587151,39.9421577"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balaban Camii

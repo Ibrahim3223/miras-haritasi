@@ -1,18 +1,17 @@
 ---
-title: "Müftü Camii, Kırkağaç | Miras Haritası"
-date: 2025-12-25T00:03:30+03:00
+title: "Müftü Camii, Kırkağaç"
+date: "2025-12-25T00:03:30+03:00"
 slug: "muftu-camii-kirkagac"
 description: "### Müftü Camii: Kırkağaç'ta Bir Önemli Tarihi Eser..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6690273,39.1055336"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Müftü Camii: Kırkağaç'ta Bir Önemli Tarihi Eser

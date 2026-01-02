@@ -1,18 +1,17 @@
 ---
-title: "Yassıhöyük | Miras Haritası"
-date: 2025-12-25T07:04:47+03:00
+title: "Yassıhöyük"
+date: "2025-12-25T07:04:47+03:00"
 slug: "yassihoyuk"
 description: "### Yassıhöyük: Kırşehir'in Eski Bir Eseri..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.075498925,39.319135311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yassıhöyük: Kırşehir'in Eski Bir Eseri

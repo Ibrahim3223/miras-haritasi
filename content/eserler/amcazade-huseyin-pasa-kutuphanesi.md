@@ -1,18 +1,17 @@
 ---
-title: "Amcazade Hüseyin Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:12+03:00
+title: "Amcazade Hüseyin Paşa Kütüphanesi"
+date: "2025-12-25T17:55:12+03:00"
 slug: "amcazade-huseyin-pasa-kutuphanesi"
 description: "## Amcazade Hüseyin Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.952023,41.015427"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amcazade Hüseyin Paşa Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Kavsar Baba Camii | Miras Haritası"
-date: 2025-12-24T22:18:17+03:00
+title: "Mustafa Kavsar Baba Camii"
+date: "2025-12-24T22:18:17+03:00"
 slug: "mustafa-kavsar-baba-camii"
 description: "## Mustafa Kavsar Baba Camii: Üsküdar'ın Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Mustafa_Kavsar_Baba_Mosque.jpg/1200px-Mustafa_Kavsar_Baba_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.020936376,41.019642704"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mustafa Kavsar Baba Camii: Üsküdar'ın Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Koca Mehmed Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:23:37+03:00
+title: "Koca Mehmed Paşa Camii"
+date: "2025-12-24T22:23:37+03:00"
 slug: "koca-mehmed-pasa-camii"
 description: "## Koca Mehmed Paşa Camii: Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Mehmed Paşa Camii: Bir Osmanlı Dönemi Eseri

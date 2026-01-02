@@ -1,18 +1,17 @@
 ---
-title: "Sinan Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:47:50+03:00
+title: "Sinan Ağa Çeşmesi"
+date: "2025-12-25T12:47:50+03:00"
 slug: "sinan-aga-cesmesi"
 description: "## Sinan Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9575329,41.0088272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Ağa Çeşmesi

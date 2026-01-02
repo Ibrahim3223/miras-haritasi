@@ -1,18 +1,17 @@
 ---
-title: "Emine Sultan Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:22+03:00
+title: "Emine Sultan Meydan Çeşmesi"
+date: "2025-12-25T10:40:22+03:00"
 slug: "emine-sultan-meydan-cesmesi"
 description: "**Emine Sultan Meydan Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Istanbul_Emine_Sultan_Çeşmesi_3471.jpg/1200px-Istanbul_Emine_Sultan_Çeşmesi_3471.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Şehremini"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.927777777,41.014777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Emine Sultan Meydan Çeşmesi**

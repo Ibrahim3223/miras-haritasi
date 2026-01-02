@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Müzesi | Miras Haritası"
-date: 2025-12-25T03:36:32+03:00
+title: "Elmalı Müzesi"
+date: "2025-12-25T03:36:32+03:00"
 slug: "elmali-muzesi"
 description: "### Elmalı Müzesi: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9168873,36.7400894"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Elmalı Müzesi: Antalya'nın Gizli Cenneti

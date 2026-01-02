@@ -1,18 +1,17 @@
 ---
-title: "Damyeri Kale Yerleşimi, Çanakkale | Miras Haritası"
-date: 2025-12-25T01:45:50+03:00
+title: "Damyeri Kale Yerleşimi, Çanakkale"
+date: "2025-12-25T01:45:50+03:00"
 slug: "damyeri-kale-yerlesimi-canakkale"
 description: "## Damyeri Kale Yerleşimi: Çanakkale'nin Gizli Kahramanları..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.5546398,40.1742897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damyeri Kale Yerleşimi: Çanakkale'nin Gizli Kahramanları

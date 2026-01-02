@@ -1,18 +1,17 @@
 ---
-title: "Yeni Hamam, Zile | Miras Haritası"
-date: 2025-12-25T17:08:00+03:00
+title: "Yeni Hamam, Zile"
+date: "2025-12-25T17:08:00+03:00"
 slug: "yeni-hamam-zile"
 description: "## Yeni Hamam, Zile..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.8853531,40.300766"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Hamam, Zile

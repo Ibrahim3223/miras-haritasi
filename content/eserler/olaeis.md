@@ -1,18 +1,17 @@
 ---
-title: "Olaeis | Miras Haritası"
-date: 2025-12-25T08:07:28+03:00
+title: "Olaeis"
+date: "2025-12-25T08:07:28+03:00"
 slug: "olaeis"
 description: "## Olaeis: Antik Kentin Efsanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.333333333,37.083333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olaeis: Antik Kentin Efsanesi

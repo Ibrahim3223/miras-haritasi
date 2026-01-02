@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Büyük Hamam | Miras Haritası"
-date: 2025-12-25T16:30:35+03:00
+title: "Hierapolis Büyük Hamam"
+date: "2025-12-25T16:30:35+03:00"
 slug: "hierapolis-buyuk-hamam"
 description: "## Hierapolis Büyük Hamam: Pamukkale'nin Gizemi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.1240368,37.9252357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hierapolis Büyük Hamam: Pamukkale'nin Gizemi

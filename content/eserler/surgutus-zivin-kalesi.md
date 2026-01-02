@@ -1,18 +1,17 @@
 ---
-title: "Sürgütüs Zivin Kalesi | Miras Haritası"
-date: 2025-12-25T01:35:23+03:00
+title: "Sürgütüs Zivin Kalesi"
+date: "2025-12-25T01:35:23+03:00"
 slug: "surgutus-zivin-kalesi"
 description: "## Sürgütüs Zivin Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Sarıkamış"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.275434,40.234624"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sürgütüs Zivin Kalesi: Tarihî Bir Mirasın Gizemi

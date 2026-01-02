@@ -1,18 +1,17 @@
 ---
-title: "Mahpeyker Hatice Hatun Camii | Miras Haritası"
-date: 2025-12-25T00:08:35+03:00
+title: "Mahpeyker Hatice Hatun Camii"
+date: "2025-12-25T00:08:35+03:00"
 slug: "mahpeyker-hatice-hatun-camii"
 description: "### Mahpeyker Hatice Hatun Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.6974297,38.8704071"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mahpeyker Hatice Hatun Camii

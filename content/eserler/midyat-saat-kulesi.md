@@ -1,18 +1,17 @@
 ---
-title: "Midyat Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:06+03:00
+title: "Midyat Saat Kulesi"
+date: "2025-12-25T17:21:06+03:00"
 slug: "midyat-saat-kulesi"
 description: "## Mardin'in Örenleri Arasındaki Bir Dilek: Midyat Saat Kulesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "41.3733864,37.4152985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mardin'in Örenleri Arasındaki Bir Dilek: Midyat Saat Kulesi

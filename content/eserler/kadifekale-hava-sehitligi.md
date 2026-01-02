@@ -1,18 +1,17 @@
 ---
-title: "Kadifekale Hava Şehitliği | Miras Haritası"
-date: 2025-12-25T15:59:24+03:00
+title: "Kadifekale Hava Şehitliği"
+date: "2025-12-25T15:59:24+03:00"
 slug: "kadifekale-hava-sehitligi"
 description: "## Kadifekale Hava Şehitliği..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1420898,38.412487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadifekale Hava Şehitliği

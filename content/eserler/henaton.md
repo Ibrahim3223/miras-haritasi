@@ -1,18 +1,17 @@
 ---
-title: "Henaton | Miras Haritası"
-date: 2025-12-25T04:53:29+03:00
+title: "Henaton"
+date: "2025-12-25T04:53:29+03:00"
 slug: "henaton"
 description: "### Henaton: Antik Lübnan'ın Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.830716,40.975888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Henaton: Antik Lübnan'ın Gizli Harikası

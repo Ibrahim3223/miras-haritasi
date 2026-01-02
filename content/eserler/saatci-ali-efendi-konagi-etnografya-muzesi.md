@@ -1,18 +1,17 @@
 ---
-title: "Saatçi Ali Efendi Konağı Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:07+03:00
+title: "Saatçi Ali Efendi Konağı Etnografya Müzesi"
+date: "2025-12-25T03:49:07+03:00"
 slug: "saatci-ali-efendi-konagi-etnografya-muzesi"
 description: "### Saatçi Ali Efendi Konağı Etnografya Müzesi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.924538,40.768323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saatçi Ali Efendi Konağı Etnografya Müzesi

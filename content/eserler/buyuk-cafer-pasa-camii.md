@@ -1,18 +1,17 @@
 ---
-title: "Büyük Cafer Paşa Camii | Miras Haritası"
-date: 2025-12-25T00:17:40+03:00
+title: "Büyük Cafer Paşa Camii"
+date: "2025-12-25T00:17:40+03:00"
 slug: "buyuk-cafer-pasa-camii"
 description: "## Büyük Cafer Paşa Camii: Çayeli'nin Gözde Tarihi Eseri..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.679526642,41.074672866"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Cafer Paşa Camii: Çayeli'nin Gözde Tarihi Eseri

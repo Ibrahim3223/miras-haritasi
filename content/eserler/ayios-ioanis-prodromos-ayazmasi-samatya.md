@@ -1,18 +1,17 @@
 ---
-title: "Ayios Ioanis Prodromos Ayazması, Samatya | Miras Haritası"
-date: 2025-12-25T12:39:59+03:00
+title: "Ayios Ioanis Prodromos Ayazması, Samatya"
+date: "2025-12-25T12:39:59+03:00"
 slug: "ayios-ioanis-prodromos-ayazmasi-samatya"
 description: "## Ayios Ioanis Prodromos Ayazması, Samatya..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9330692,41.0020218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Ioanis Prodromos Ayazması, Samatya

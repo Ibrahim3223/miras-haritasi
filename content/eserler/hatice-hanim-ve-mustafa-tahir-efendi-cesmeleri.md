@@ -1,18 +1,17 @@
 ---
-title: "Hatice Hanım ve Mustafa Tahir Efendi Çeşmeleri | Miras Haritası"
-date: 2025-12-25T13:00:31+03:00
+title: "Hatice Hanım ve Mustafa Tahir Efendi Çeşmeleri"
+date: "2025-12-25T13:00:31+03:00"
 slug: "hatice-hanim-ve-mustafa-tahir-efendi-cesmeleri"
 description: "## Hatice Hanım ve Mustafa Tahir Efendi Çeşmeleri..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Çengelköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.058715,41.051117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Hanım ve Mustafa Tahir Efendi Çeşmeleri

@@ -1,18 +1,17 @@
 ---
-title: "Hasan Gedik Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:08+03:00
+title: "Hasan Gedik Hamamı"
+date: "2025-12-25T16:34:08+03:00"
 slug: "hasan-gedik-hamami"
 description: "## Hasan Gedik Hamamı: Suşehri'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Suşehri"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.0915868,40.1635825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Gedik Hamamı: Suşehri'nin Tarihi Bir Mirası

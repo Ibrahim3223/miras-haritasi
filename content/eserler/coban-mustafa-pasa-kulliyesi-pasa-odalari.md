@@ -1,18 +1,17 @@
 ---
-title: "Çoban Mustafa Paşa Külliyesi Paşa Odaları | Miras Haritası"
-date: 2025-12-25T17:35:13+03:00
+title: "Çoban Mustafa Paşa Külliyesi Paşa Odaları"
+date: "2025-12-25T17:35:13+03:00"
 slug: "coban-mustafa-pasa-kulliyesi-pasa-odalari"
 description: "### Çoban Mustafa Paşa Külliyesi Paşa Odaları..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.4309692,40.7997284"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çoban Mustafa Paşa Külliyesi Paşa Odaları

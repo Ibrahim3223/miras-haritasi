@@ -1,18 +1,17 @@
 ---
-title: "Kraliçe Aba Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:08:53+03:00
+title: "Kraliçe Aba Anıt Mezarı"
+date: "2025-12-25T14:08:53+03:00"
 slug: "kralice-aba-anit-mezari"
 description: "## Kraliçe Aba Anıt Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.177139768,36.5273425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kraliçe Aba Anıt Mezarı

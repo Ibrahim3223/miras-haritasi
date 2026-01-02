@@ -1,18 +1,17 @@
 ---
-title: "Marmaris Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:55+03:00
+title: "Marmaris Müzesi"
+date: "2025-12-25T03:35:55+03:00"
 slug: "marmaris-muzesi"
 description: "### Marmaris Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.274374,36.8506622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Marmaris Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Mormi Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:05+03:00
+title: "Mormi Camii Çeşmesi"
+date: "2025-12-25T11:37:05+03:00"
 slug: "mormi-camii-cesmesi"
 description: "## Mormi Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.413414,37.9276352"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mormi Camii Çeşmesi

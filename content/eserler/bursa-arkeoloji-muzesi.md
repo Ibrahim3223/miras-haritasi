@@ -1,18 +1,17 @@
 ---
-title: "Bursa Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:12:57+03:00
+title: "Bursa Arkeoloji Müzesi"
+date: "2025-12-25T03:12:57+03:00"
 slug: "bursa-arkeoloji-muzesi"
 description: "### Bursa Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bursa_Arkeoloji_Müzesi_(3).jpg/1200px-Bursa_Arkeoloji_Müzesi_(3).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.041111111,40.195833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bursa Arkeoloji Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Mahmud Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:42+03:00
+title: "Mahmud Türbesi"
+date: "2025-12-25T14:26:42+03:00"
 slug: "mahmud-turbesi"
 description: "## Mahmud Türbesi: Niğde'nin Tarihî Anıtı..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.677995,37.97038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmud Türbesi: Niğde'nin Tarihî Anıtı

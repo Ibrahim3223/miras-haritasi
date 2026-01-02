@@ -1,18 +1,17 @@
 ---
-title: "Yeni Hamam, Beçin | Miras Haritası"
-date: 2025-12-25T17:07:07+03:00
+title: "Yeni Hamam, Beçin"
+date: "2025-12-25T17:07:07+03:00"
 slug: "yeni-hamam-becin"
 description: "### Milas'ta bir Tarih Öreni: Yeni Hamam, Beçin..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.7875576,37.2745628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Milas'ta bir Tarih Öreni: Yeni Hamam, Beçin

@@ -1,18 +1,17 @@
 ---
-title: "Karnıyarık Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:15:24+03:00
+title: "Karnıyarık Tepe Tümülüsü"
+date: "2025-12-25T07:15:24+03:00"
 slug: "karniyarik-tepe-tumulusu"
 description: "## Karnıyarık Tepe Tümülüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0072231,38.5801659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karnıyarık Tepe Tümülüsü

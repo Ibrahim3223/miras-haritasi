@@ -1,18 +1,17 @@
 ---
-title: "Manavgat Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:36+03:00
+title: "Manavgat Köprüsü"
+date: "2025-12-25T02:22:36+03:00"
 slug: "manavgat-koprusu"
 description: "# Manavgat Köprüsü: Antalya'nın Tarihi ve Mimari Değerleri Arasındaki Bir Örnek..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.4479027,36.7870255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Manavgat Köprüsü: Antalya'nın Tarihi ve Mimari Değerleri Arasındaki Bir Örnek

@@ -1,18 +1,17 @@
 ---
-title: "Kadılar Höyük | Miras Haritası"
-date: 2025-12-25T06:02:02+03:00
+title: "Kadılar Höyük"
+date: "2025-12-25T06:02:02+03:00"
 slug: "kadilar-hoyuk"
 description: "## Kadılar Höyük..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Yahyalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.362636521,38.132871819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadılar Höyük

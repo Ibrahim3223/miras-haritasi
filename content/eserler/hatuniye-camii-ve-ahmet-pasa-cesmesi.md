@@ -1,18 +1,17 @@
 ---
-title: "Hatuniye Camii ve Ahmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-24T22:56:05+03:00
+title: "Hatuniye Camii ve Ahmet Paşa Çeşmesi"
+date: "2025-12-24T22:56:05+03:00"
 slug: "hatuniye-camii-ve-ahmet-pasa-cesmesi"
 description: "# Hatuniye Camii ve Ahmet Paşa Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.988876,41.030873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hatuniye Camii ve Ahmet Paşa Çeşmesi

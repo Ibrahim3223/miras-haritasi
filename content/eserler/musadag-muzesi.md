@@ -1,18 +1,17 @@
 ---
-title: "Musadağ Müzesi | Miras Haritası"
-date: 2025-12-25T03:47:02+03:00
+title: "Musadağ Müzesi"
+date: "2025-12-25T03:47:02+03:00"
 slug: "musadag-muzesi"
 description: "## Musadağ Müzesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.9748497,36.1157684"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Musadağ Müzesi

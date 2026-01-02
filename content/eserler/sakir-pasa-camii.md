@@ -1,18 +1,17 @@
 ---
-title: "Şakir Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:09:34+03:00
+title: "Şakir Paşa Camii"
+date: "2025-12-24T23:09:34+03:00"
 slug: "sakir-pasa-camii"
 description: "### Şakir Paşa Camii..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.5022087,39.0445595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şakir Paşa Camii

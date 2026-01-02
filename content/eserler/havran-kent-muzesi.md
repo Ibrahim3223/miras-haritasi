@@ -1,18 +1,17 @@
 ---
-title: "Havran Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:57+03:00
+title: "Havran Kent Müzesi"
+date: "2025-12-25T03:52:57+03:00"
 slug: "havran-kent-muzesi"
 description: "## Havran Kent Müzesi: Balıkesir'in Tarihini Yaşamak..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Havran"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.0981293,39.5570564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havran Kent Müzesi: Balıkesir'in Tarihini Yaşamak

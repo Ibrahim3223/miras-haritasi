@@ -1,18 +1,17 @@
 ---
-title: "Sarıçay Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:31+03:00
+title: "Sarıçay Köprüsü"
+date: "2025-12-25T02:27:31+03:00"
 slug: "saricay-koprusu"
 description: "## Sarıçay Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7288917,37.3437008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıçay Köprüsü

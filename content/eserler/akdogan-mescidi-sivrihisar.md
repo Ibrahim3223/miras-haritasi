@@ -1,18 +1,17 @@
 ---
-title: "Akdoğan Mescidi, Sivrihisar | Miras Haritası"
-date: 2025-12-25T00:51:06+03:00
+title: "Akdoğan Mescidi, Sivrihisar"
+date: "2025-12-25T00:51:06+03:00"
 slug: "akdogan-mescidi-sivrihisar"
 description: "## Akdoğan Mescidi: Sivrihisar'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5378265,39.4535255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akdoğan Mescidi: Sivrihisar'ın Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Alıncık Köyü Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:06+03:00
+title: "Alıncık Köyü Türbesi"
+date: "2025-12-25T14:51:06+03:00"
 slug: "alincik-koyu-turbesi"
 description: "## Alıncık Köyü Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Altıntaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.8740788,39.0482979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alıncık Köyü Türbesi

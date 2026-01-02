@@ -1,18 +1,17 @@
 ---
-title: "Karacaoğlan ve Karaca Kız Anıtı | Miras Haritası"
-date: 2025-12-25T15:49:27+03:00
+title: "Karacaoğlan ve Karaca Kız Anıtı"
+date: "2025-12-25T15:49:27+03:00"
 slug: "karacaoglan-ve-karaca-kiz-aniti"
 description: "## Karacaoğlan ve Karaca Kız Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Yenişehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.5639915,36.7693825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karacaoğlan ve Karaca Kız Anıtı

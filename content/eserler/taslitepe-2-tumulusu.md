@@ -1,18 +1,17 @@
 ---
-title: "Taşlıtepe 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:45:46+03:00
+title: "Taşlıtepe 2 Tümülüsü"
+date: "2025-12-25T07:45:46+03:00"
 slug: "taslitepe-2-tumulusu"
 description: "## Taşlıtepe 2 Tümülüsü: Kırklareli'nin Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1265564,41.9212761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlıtepe 2 Tümülüsü: Kırklareli'nin Gizemli Arkeolojik Mirası

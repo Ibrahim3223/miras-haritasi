@@ -1,18 +1,17 @@
 ---
-title: "Nevşehir underground city | Miras Haritası"
-date: 2025-12-25T08:24:01+03:00
+title: "Nevşehir underground city"
+date: "2025-12-25T08:24:01+03:00"
 slug: "nevsehir-underground-city"
 description: "### Nevşehir Yeraltı Şehri: Tarihî ve Kültürel Mirasımızın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nevşehir Yeraltı Şehri: Tarihî ve Kültürel Mirasımızın Gizemi

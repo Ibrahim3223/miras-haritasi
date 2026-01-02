@@ -1,18 +1,17 @@
 ---
-title: "Şehinşah Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:22:09+03:00
+title: "Şehinşah Kaya Mezarı"
+date: "2025-12-25T13:22:09+03:00"
 slug: "sehinsah-kaya-mezari"
 description: "### Şehinşah Kaya Mezarı..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7780991,41.3835068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şehinşah Kaya Mezarı

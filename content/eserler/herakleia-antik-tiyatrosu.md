@@ -1,18 +1,17 @@
 ---
-title: "Herakleia Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:20:27+03:00
+title: "Herakleia Antik Tiyatrosu"
+date: "2025-12-25T16:20:27+03:00"
 slug: "herakleia-antik-tiyatrosu"
 description: "# Herakleia Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "27.5290051,37.5040855"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Herakleia Antik Tiyatrosu

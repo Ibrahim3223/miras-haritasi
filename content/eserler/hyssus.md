@@ -1,18 +1,17 @@
 ---
-title: "Hyssus | Miras Haritası"
-date: 2025-12-25T05:00:53+03:00
+title: "Hyssus"
+date: "2025-12-25T05:00:53+03:00"
 slug: "hyssus"
 description: "## Hyssus: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.039388,40.942435"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hyssus: Antik Çağın Gizemi

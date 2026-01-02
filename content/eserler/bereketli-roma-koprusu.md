@@ -1,18 +1,17 @@
 ---
-title: "Bereketli Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:39:44+03:00
+title: "Bereketli Roma Köprüsü"
+date: "2025-12-25T02:39:44+03:00"
 slug: "bereketli-roma-koprusu"
 description: "### Bereketli Roma Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Altıeylül"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.8809509,39.4355698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bereketli Roma Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Avram Kamondo Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:09:01+03:00
+title: "Avram Kamondo Anıt Mezarı"
+date: "2025-12-25T14:09:01+03:00"
 slug: "avram-kamondo-anit-mezari"
 description: "### Avram Kamondo Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.950763,41.052258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Avram Kamondo Anıt Mezarı

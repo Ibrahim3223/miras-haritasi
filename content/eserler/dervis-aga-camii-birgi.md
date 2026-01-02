@@ -1,18 +1,17 @@
 ---
-title: "Derviş Ağa Camii (Birgi) | Miras Haritası"
-date: 2025-12-25T00:29:22+03:00
+title: "Derviş Ağa Camii (Birgi)"
+date: "2025-12-25T00:29:22+03:00"
 slug: "dervis-aga-camii-birgi"
 description: "## Derviş Ağa Camii: Bir Ödemiş Efsanesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0642128,38.2533646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derviş Ağa Camii: Bir Ödemiş Efsanesi

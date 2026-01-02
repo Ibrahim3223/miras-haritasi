@@ -1,18 +1,17 @@
 ---
-title: "Gülustu Kadın Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:30:59+03:00
+title: "Gülustu Kadın Efendi Türbesi"
+date: "2025-12-25T14:30:59+03:00"
 slug: "gulustu-kadin-efendi-turbesi"
 description: "## Gülustu Kadın Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.951148,41.018595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülustu Kadın Efendi Türbesi

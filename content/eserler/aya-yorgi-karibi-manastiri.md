@@ -1,18 +1,17 @@
 ---
-title: "Aya Yorgi Karibi Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:52+03:00
+title: "Aya Yorgi Karibi Manastırı"
+date: "2025-12-25T09:55:52+03:00"
 slug: "aya-yorgi-karibi-manastiri"
 description: "### Aya Yorgi Karibi Manastırı: Adalar'ın Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.0640411,40.884491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Yorgi Karibi Manastırı: Adalar'ın Gizli Çehresi

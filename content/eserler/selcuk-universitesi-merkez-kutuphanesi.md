@@ -1,18 +1,17 @@
 ---
-title: "Selçuk Üniversitesi Merkez Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:46:56+03:00
+title: "Selçuk Üniversitesi Merkez Kütüphanesi"
+date: "2025-12-25T17:46:56+03:00"
 slug: "selcuk-universitesi-merkez-kutuphanesi"
 description: "## Selçuk Üniversitesi Merkez Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selçuk Üniversitesi Merkez Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Serçeler Köyü Tepetarla Yerleşimi, Çanakkale | Miras Haritası"
-date: 2025-12-25T13:48:39+03:00
+title: "Serçeler Köyü Tepetarla Yerleşimi, Çanakkale"
+date: "2025-12-25T13:48:39+03:00"
 slug: "serceler-koyu-tepetarla-yerlesimi-canakkale"
 description: "## Serçeler Köyü Tepetarla Yerleşimi: Çanakkale'nin Gizli Anıtı..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.572237,40.046257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Serçeler Köyü Tepetarla Yerleşimi: Çanakkale'nin Gizli Anıtı

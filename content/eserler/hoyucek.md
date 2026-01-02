@@ -1,18 +1,17 @@
 ---
-title: "Höyücek | Miras Haritası"
-date: 2025-12-25T06:55:37+03:00
+title: "Höyücek"
+date: "2025-12-25T06:55:37+03:00"
 slug: "hoyucek"
 description: "## Höyücek Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Höyücek Arkeolojik Sit

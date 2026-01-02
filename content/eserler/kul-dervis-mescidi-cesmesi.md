@@ -1,18 +1,17 @@
 ---
-title: "Kul Derviş Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:20+03:00
+title: "Kul Derviş Mescidi Çeşmesi"
+date: "2025-12-25T10:26:20+03:00"
 slug: "kul-dervis-mescidi-cesmesi"
 description: "## Kul Derviş Mescidi Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8623009,39.9317589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kul Derviş Mescidi Çeşmesi

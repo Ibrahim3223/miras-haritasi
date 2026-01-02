@@ -1,18 +1,17 @@
 ---
-title: "Hafız Hatip Ali Camii | Miras Haritası"
-date: 2025-12-25T00:09:37+03:00
+title: "Hafız Hatip Ali Camii"
+date: "2025-12-25T00:09:37+03:00"
 slug: "hafiz-hatip-ali-camii"
 description: "### Hafız Hatip Ali Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hafız_Hatip_Ali_Camii_03.jpg/1200px-Hafız_Hatip_Ali_Camii_03.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.4060822,38.3602638"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hafız Hatip Ali Camii

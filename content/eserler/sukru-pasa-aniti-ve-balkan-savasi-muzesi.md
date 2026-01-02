@@ -1,18 +1,17 @@
 ---
-title: "Şükrü Paşa Anıtı ve Balkan Savaşı Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:40+03:00
+title: "Şükrü Paşa Anıtı ve Balkan Savaşı Müzesi"
+date: "2025-12-25T04:01:40+03:00"
 slug: "sukru-pasa-aniti-ve-balkan-savasi-muzesi"
 description: "# Şükrü Paşa Anıtı ve Balkan Savaşı Müzesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.575599,41.675155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şükrü Paşa Anıtı ve Balkan Savaşı Müzesi

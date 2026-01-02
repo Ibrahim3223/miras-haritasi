@@ -1,18 +1,17 @@
 ---
-title: "Gökgöz Kale | Miras Haritası"
-date: 2025-12-25T01:19:15+03:00
+title: "Gökgöz Kale"
+date: "2025-12-25T01:19:15+03:00"
 slug: "gokgoz-kale"
 description: "## Gökgöz Kale: Eskişehir'in Gizli Tarihi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.7250214,39.2202339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökgöz Kale: Eskişehir'in Gizli Tarihi

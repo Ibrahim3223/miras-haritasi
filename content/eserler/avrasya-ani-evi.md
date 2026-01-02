@@ -1,18 +1,17 @@
 ---
-title: "Avrasya Anı Evi | Miras Haritası"
-date: 2025-12-25T04:11:19+03:00
+title: "Avrasya Anı Evi"
+date: "2025-12-25T04:11:19+03:00"
 slug: "avrasya-ani-evi"
 description: "## Avrasya Anı Evi: İzmir'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.1175,38.409166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avrasya Anı Evi: İzmir'in Tarihî ve Kültürel Mirası

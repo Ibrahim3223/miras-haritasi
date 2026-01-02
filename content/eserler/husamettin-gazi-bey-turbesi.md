@@ -1,18 +1,17 @@
 ---
-title: "Hüsamettin Gazi Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:29+03:00
+title: "Hüsamettin Gazi Bey Türbesi"
+date: "2025-12-25T15:13:29+03:00"
 slug: "husamettin-gazi-bey-turbesi"
 description: "## Hüsamettin Gazi Bey Türbesi: Baklan'ın Tarihi Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Baklan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.610635,37.979008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsamettin Gazi Bey Türbesi: Baklan'ın Tarihi Mirası

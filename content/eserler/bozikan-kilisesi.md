@@ -1,18 +1,17 @@
 ---
-title: "Bozıkan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:20+03:00
+title: "Bozıkan Kilisesi"
+date: "2025-12-25T09:26:20+03:00"
 slug: "bozikan-kilisesi"
 description: "### Bozıkan Kilisesi: Batman'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.4549904,38.4773216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bozıkan Kilisesi: Batman'ın Tarihî ve Kültürel Mirası

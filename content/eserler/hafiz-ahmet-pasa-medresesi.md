@@ -1,18 +1,17 @@
 ---
-title: "Hafız Ahmet Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:26:33+03:00
+title: "Hafız Ahmet Paşa Medresesi"
+date: "2025-12-25T17:26:33+03:00"
 slug: "hafiz-ahmet-pasa-medresesi"
 description: "## Hafız Ahmet Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.947366,41.021867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafız Ahmet Paşa Medresesi

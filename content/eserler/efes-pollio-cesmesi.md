@@ -1,18 +1,17 @@
 ---
-title: "Efes Pollio Çeşmesi | Miras Haritası"
-date: 2025-12-25T08:22:26+03:00
+title: "Efes Pollio Çeşmesi"
+date: "2025-12-25T08:22:26+03:00"
 slug: "efes-pollio-cesmesi"
 description: "## Efes Pollio Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.343404129,37.936700534"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Efes Pollio Çeşmesi

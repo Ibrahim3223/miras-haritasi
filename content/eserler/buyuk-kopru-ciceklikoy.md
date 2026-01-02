@@ -1,18 +1,17 @@
 ---
-title: "Büyük Köprü, Çiçekliköy | Miras Haritası"
-date: 2025-12-25T02:55:29+03:00
+title: "Büyük Köprü, Çiçekliköy"
+date: "2025-12-25T02:55:29+03:00"
 slug: "buyuk-kopru-ciceklikoy"
 description: "## Büyük Köprü, Çiçekliköy..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.2963505,38.4939003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Köprü, Çiçekliköy

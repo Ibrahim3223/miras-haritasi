@@ -1,18 +1,17 @@
 ---
-title: "Hattuşa Sfenksli Kapı | Miras Haritası"
-date: 2025-12-25T13:41:47+03:00
+title: "Hattuşa Sfenksli Kapı"
+date: "2025-12-25T13:41:47+03:00"
 slug: "hattusa-sfenksli-kapi"
 description: "## Hattuşa Sfenksli Kapı: Boğazkale'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sphinx_Gate,_Hattusa_01.jpg/1200px-Sphinx_Gate,_Hattusa_01.jpg"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Boğazkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6166763,40.0061798"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hattuşa Sfenksli Kapı: Boğazkale'nin Gizemi

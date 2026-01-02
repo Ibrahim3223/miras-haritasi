@@ -1,18 +1,17 @@
 ---
-title: "Mestan Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:54+03:00
+title: "Mestan Hamamı"
+date: "2025-12-25T16:29:54+03:00"
 slug: "mestan-hamami"
 description: "# Mestan Hamamı: Seyhan'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.324814,36.9859385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mestan Hamamı: Seyhan'ın Tarihi Bir Mirası

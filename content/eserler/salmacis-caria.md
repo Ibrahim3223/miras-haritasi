@@ -1,18 +1,17 @@
 ---
-title: "Salmacis (Caria) | Miras Haritası"
-date: 2025-12-25T04:37:07+03:00
+title: "Salmacis (Caria)"
+date: "2025-12-25T04:37:07+03:00"
 slug: "salmacis-caria"
 description: "## Salmacis (Caria)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salmacis (Caria)

@@ -1,18 +1,17 @@
 ---
-title: "Merdivenli Kapı | Miras Haritası"
-date: 2025-12-25T15:37:53+03:00
+title: "Merdivenli Kapı"
+date: "2025-12-25T15:37:53+03:00"
 slug: "merdivenli-kapi"
 description: "## Merdivenli Kapı: İstanbul'un Tarihî Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.96875,41.0098419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merdivenli Kapı: İstanbul'un Tarihî Harikası

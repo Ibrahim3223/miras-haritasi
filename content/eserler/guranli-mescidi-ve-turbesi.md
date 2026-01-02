@@ -1,18 +1,17 @@
 ---
-title: "Güranlı Mescidi ve Türbesi | Miras Haritası"
-date: 2025-12-25T01:01:31+03:00
+title: "Güranlı Mescidi ve Türbesi"
+date: "2025-12-25T01:01:31+03:00"
 slug: "guranli-mescidi-ve-turbesi"
 description: "## Güranlı Mescidi ve Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0540104,40.1830826"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güranlı Mescidi ve Türbesi

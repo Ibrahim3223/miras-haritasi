@@ -1,18 +1,17 @@
 ---
-title: "Nenek Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:34:30+03:00
+title: "Nenek Köyü Camii"
+date: "2025-12-25T00:34:30+03:00"
 slug: "nenek-koyu-camii"
 description: "### Nenek Köyü Camii: Mamak'taki Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.032361188,39.960451513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nenek Köyü Camii: Mamak'taki Bir Geçmişin İzleri

@@ -1,18 +1,17 @@
 ---
-title: "Bıçakçı Alaaddin Kabri | Miras Haritası"
-date: 2025-12-25T13:52:19+03:00
+title: "Bıçakçı Alaaddin Kabri"
+date: "2025-12-25T13:52:19+03:00"
 slug: "bicakci-alaaddin-kabri"
 description: "## Bıçakçı Alaaddin Kabri: İstanbul'un Hayalet Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9573803,41.0218964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bıçakçı Alaaddin Kabri: İstanbul'un Hayalet Anıtı

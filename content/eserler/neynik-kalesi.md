@@ -1,18 +1,17 @@
 ---
-title: "Neynik Kalesi | Miras Haritası"
-date: 2025-12-25T01:25:34+03:00
+title: "Neynik Kalesi"
+date: "2025-12-25T01:25:34+03:00"
 slug: "neynik-kalesi"
 description: "## Neynik Kalesi: Bulanık, Muş'ta Bir Geçmişin Tanıklığı..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Bulanık"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.0775642,38.9278374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neynik Kalesi: Bulanık, Muş'ta Bir Geçmişin Tanıklığı

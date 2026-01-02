@@ -1,18 +1,17 @@
 ---
-title: "Kagari Kilisesi | Miras Haritası"
-date: 2025-12-25T09:06:42+03:00
+title: "Kagari Kilisesi"
+date: "2025-12-25T09:06:42+03:00"
 slug: "kagari-kilisesi"
 description: "### Kagari Kilisesi: Taron Nehri'nin Eski Kilisesi..."
 featured_image: ""
 province: "Arpaçay"
-iller: ["Arpaçay"]
+iller: '["Arpaçay"]'
 district: "Kakaç"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.344186111,41.090872222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kagari Kilisesi: Taron Nehri'nin Eski Kilisesi

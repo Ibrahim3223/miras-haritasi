@@ -1,18 +1,17 @@
 ---
-title: "Dalboyunoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:32:49+03:00
+title: "Dalboyunoğlu Hamamı"
+date: "2025-12-25T16:32:49+03:00"
 slug: "dalboyunoglu-hamami"
 description: "**Dalboyunoğlu Hamamı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isparta;_Hamam_von_1694.jpg/1200px-Isparta;_Hamam_von_1694.jpg"
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5559887,37.7631932"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Dalboyunoğlu Hamamı**

@@ -1,18 +1,17 @@
 ---
-title: "Kurttepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:16:10+03:00
+title: "Kurttepe Tümülüsü"
+date: "2025-12-25T08:16:10+03:00"
 slug: "kurttepe-tumulusu"
 description: "## Kurttepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8047562,41.5782623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurttepe Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Çimpe Kalesi | Miras Haritası"
-date: 2025-12-25T01:13:39+03:00
+title: "Çimpe Kalesi"
+date: "2025-12-25T01:13:39+03:00"
 slug: "cimpe-kalesi"
 description: "## Çimpe Kalesi: Çanakkale'nin Gizli Zirvesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.0113297,40.6444473"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çimpe Kalesi: Çanakkale'nin Gizli Zirvesi

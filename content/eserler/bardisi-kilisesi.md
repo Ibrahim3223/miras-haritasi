@@ -1,18 +1,17 @@
 ---
-title: "Bardisi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:41+03:00
+title: "Bardisi Kilisesi"
+date: "2025-12-25T09:03:41+03:00"
 slug: "bardisi-kilisesi"
 description: "## Bardisi Kilisesi: Tarihi ve Mücevher..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Gaziler"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.344777777,40.427472222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bardisi Kilisesi: Tarihi ve Mücevher

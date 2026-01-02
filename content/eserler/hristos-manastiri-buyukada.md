@@ -1,18 +1,17 @@
 ---
-title: "Hristos Manastırı (Büyükada) | Miras Haritası"
-date: 2025-12-25T09:56:00+03:00
+title: "Hristos Manastırı (Büyükada)"
+date: "2025-12-25T09:56:00+03:00"
 slug: "hristos-manastiri-buyukada"
 description: "### Hristos Manastırı: Büyükada'nın Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.1235733,40.8641815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hristos Manastırı: Büyükada'nın Gizli Çehresi

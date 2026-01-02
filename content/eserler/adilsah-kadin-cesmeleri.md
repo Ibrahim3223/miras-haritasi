@@ -1,18 +1,17 @@
 ---
-title: "Adilşah Kadın Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:13:50+03:00
+title: "Adilşah Kadın Çeşmeleri"
+date: "2025-12-25T11:13:50+03:00"
 slug: "adilsah-kadin-cesmeleri"
 description: "## Adilşah Kadın Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.956087,41.0098264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adilşah Kadın Çeşmeleri

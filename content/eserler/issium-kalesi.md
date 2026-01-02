@@ -1,18 +1,17 @@
 ---
-title: "Issium Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:47+03:00
+title: "Issium Kalesi"
+date: "2025-12-25T01:32:47+03:00"
 slug: "issium-kalesi"
 description: "## Issium Kalesi: Demre'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.036718,36.282509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Issium Kalesi: Demre'nin Tarihî Bir Mirası

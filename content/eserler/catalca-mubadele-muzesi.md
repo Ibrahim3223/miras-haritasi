@@ -1,18 +1,17 @@
 ---
-title: "Çatalca Mübadele Müzesi | Miras Haritası"
-date: 2025-12-25T03:42:36+03:00
+title: "Çatalca Mübadele Müzesi"
+date: "2025-12-25T03:42:36+03:00"
 slug: "catalca-mubadele-muzesi"
 description: "### Çatalca Mübadele Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Çatalca_Mübadele_Müzesi_Ön_Cephe.jpg/1200px-Çatalca_Mübadele_Müzesi_Ön_Cephe.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.457227546,41.143786696"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çatalca Mübadele Müzesi

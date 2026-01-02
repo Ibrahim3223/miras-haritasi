@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahman Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:41+03:00
+title: "Abdurrahman Sultan Türbesi"
+date: "2025-12-25T15:18:41+03:00"
 slug: "abdurrahman-sultan-turbesi"
 description: "### Abdurrahman Sultan Türbesi: Başmakçı'nın Gizli Çağı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Başmakçı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0187,37.8922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdurrahman Sultan Türbesi: Başmakçı'nın Gizli Çağı

@@ -1,18 +1,17 @@
 ---
-title: "Halit Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:32+03:00
+title: "Halit Paşa Çeşmesi"
+date: "2025-12-25T10:56:32+03:00"
 slug: "halit-pasa-cesmesi"
 description: "### Halit Paşa Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5206985,40.9812584"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halit Paşa Çeşmesi

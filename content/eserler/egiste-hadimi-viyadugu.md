@@ -1,18 +1,17 @@
 ---
-title: "Eğiste Hadimi Viyadüğü | Miras Haritası"
-date: 2025-12-25T03:05:22+03:00
+title: "Eğiste Hadimi Viyadüğü"
+date: "2025-12-25T03:05:22+03:00"
 slug: "egiste-hadimi-viyadugu"
 description: "### Eğiste Hadimi Viyadüğü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Bozkır"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.46481,37.1068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eğiste Hadimi Viyadüğü

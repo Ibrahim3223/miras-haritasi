@@ -1,18 +1,17 @@
 ---
-title: "Çatalca Teknoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:29:36+03:00
+title: "Çatalca Teknoloji Müzesi"
+date: "2025-12-25T03:29:36+03:00"
 slug: "catalca-teknoloji-muzesi"
 description: "## Çatalca Teknoloji Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.51112,41.099934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatalca Teknoloji Müzesi

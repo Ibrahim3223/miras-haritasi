@@ -1,18 +1,17 @@
 ---
-title: "Aziz Vasil Kilisesi | Miras Haritası"
-date: 2025-12-25T09:42:37+03:00
+title: "Aziz Vasil Kilisesi"
+date: "2025-12-25T09:42:37+03:00"
 slug: "aziz-vasil-kilisesi"
 description: "## Aziz Vasil Kilisesi: Yeniköy'de Bir Tarihi Harikalar Diyarı..."
 featured_image: ""
-province: "Şile"
-iller: ["Şile"]
-district: "Yeniköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Şile"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.6566696,41.1181908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Vasil Kilisesi: Yeniköy'de Bir Tarihi Harikalar Diyarı

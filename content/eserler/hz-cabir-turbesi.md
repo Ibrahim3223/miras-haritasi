@@ -1,18 +1,17 @@
 ---
-title: "Hz. Cabir Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:20+03:00
+title: "Hz. Cabir Türbesi"
+date: "2025-12-25T14:26:20+03:00"
 slug: "hz-cabir-turbesi"
 description: "## Hz. Cabir Türbesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.944044,41.038641"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hz. Cabir Türbesi: İstanbul'un Gizli Cenneti

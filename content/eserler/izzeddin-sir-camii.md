@@ -1,18 +1,17 @@
 ---
-title: "İzzeddin Şir Camii | Miras Haritası"
-date: 2025-12-25T00:33:29+03:00
+title: "İzzeddin Şir Camii"
+date: "2025-12-25T00:33:29+03:00"
 slug: "izzeddin-sir-camii"
 description: "## İzzeddin Şir Camii: Van'ın Gevaş'taki Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gevaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.112364134,38.311603572"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzzeddin Şir Camii: Van'ın Gevaş'taki Tarihi ve Kültürel Mirası

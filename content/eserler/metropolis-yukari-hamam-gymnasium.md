@@ -1,18 +1,17 @@
 ---
-title: "Metropolis Yukarı Hamam Gymnasium | Miras Haritası"
-date: 2025-12-25T16:50:50+03:00
+title: "Metropolis Yukarı Hamam Gymnasium"
+date: "2025-12-25T16:50:50+03:00"
 slug: "metropolis-yukari-hamam-gymnasium"
 description: "## Metropolis Yukarı Hamam Gymnasium: Bir Önemli Kültürel Mirasın Tanıtımı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.3242321,38.1258812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metropolis Yukarı Hamam Gymnasium: Bir Önemli Kültürel Mirasın Tanıtımı

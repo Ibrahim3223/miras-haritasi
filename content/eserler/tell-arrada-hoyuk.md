@@ -1,18 +1,17 @@
 ---
-title: "Tell Arrada Höyük | Miras Haritası"
-date: 2025-12-25T06:16:36+03:00
+title: "Tell Arrada Höyük"
+date: "2025-12-25T06:16:36+03:00"
 slug: "tell-arrada-hoyuk"
 description: "## Tell Arrada Höyük: Mardin'in Gizli Kahramanı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.412385225,37.019819821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tell Arrada Höyük: Mardin'in Gizli Kahramanı

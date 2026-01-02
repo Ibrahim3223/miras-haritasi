@@ -1,18 +1,17 @@
 ---
-title: "Camili Han Mescidi | Miras Haritası"
-date: 2025-12-25T00:08:23+03:00
+title: "Camili Han Mescidi"
+date: "2025-12-25T00:08:23+03:00"
 slug: "camili-han-mescidi"
 description: "## Camili Han Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9664822,41.0106773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Camili Han Mescidi

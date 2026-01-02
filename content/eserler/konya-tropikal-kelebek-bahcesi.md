@@ -1,18 +1,17 @@
 ---
-title: "Konya Tropikal Kelebek Bahçesi | Miras Haritası"
-date: 2025-12-25T03:11:17+03:00
+title: "Konya Tropikal Kelebek Bahçesi"
+date: "2025-12-25T03:11:17+03:00"
 slug: "konya-tropikal-kelebek-bahcesi"
 description: "### Konya Tropikal Kelebek Bahçesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Konya_Tropical_Butterfly_Garden_6.jpg/1200px-Konya_Tropical_Butterfly_Garden_6.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.461944444,37.948611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Konya Tropikal Kelebek Bahçesi

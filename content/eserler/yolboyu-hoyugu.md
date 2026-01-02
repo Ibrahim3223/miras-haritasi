@@ -1,18 +1,17 @@
 ---
-title: "Yolboyu Höyüğü | Miras Haritası"
-date: 2025-12-25T06:01:35+03:00
+title: "Yolboyu Höyüğü"
+date: "2025-12-25T06:01:35+03:00"
 slug: "yolboyu-hoyugu"
 description: "**Yolboyu Höyüğü: Aydın'ın Gizli Ören Yeri**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0215645,37.634285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yolboyu Höyüğü: Aydın'ın Gizli Ören Yeri**

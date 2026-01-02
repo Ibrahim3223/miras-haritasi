@@ -1,18 +1,17 @@
 ---
-title: "Dedetepe Höyüğü, Alaçam | Miras Haritası"
-date: 2025-12-25T13:49:47+03:00
+title: "Dedetepe Höyüğü, Alaçam"
+date: "2025-12-25T13:49:47+03:00"
 slug: "dedetepe-hoyugu-alacam"
 description: "## Dedetepe Höyüğü, Alaçam: Türklerin En Eski Kenti..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Alaçam"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.698892,41.608386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedetepe Höyüğü, Alaçam: Türklerin En Eski Kenti

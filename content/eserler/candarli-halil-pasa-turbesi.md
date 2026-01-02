@@ -1,18 +1,17 @@
 ---
-title: "Çandarlı Halil Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:30:36+03:00
+title: "Çandarlı Halil Paşa Türbesi"
+date: "2025-12-25T15:30:36+03:00"
 slug: "candarli-halil-pasa-turbesi"
 description: "## Çandarlı Halil Paşa Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.7254601,40.4292068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çandarlı Halil Paşa Türbesi

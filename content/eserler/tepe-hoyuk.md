@@ -1,18 +1,17 @@
 ---
-title: "Tepe Höyük | Miras Haritası"
-date: 2025-12-25T13:44:02+03:00
+title: "Tepe Höyük"
+date: "2025-12-25T13:44:02+03:00"
 slug: "tepe-hoyuk"
 description: "**Tepe Höyük: Afyonkarahisar'ın Gizli Özellisi**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.211583,38.155317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tepe Höyük: Afyonkarahisar'ın Gizli Özellisi**

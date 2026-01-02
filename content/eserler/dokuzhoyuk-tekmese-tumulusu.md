@@ -1,18 +1,17 @@
 ---
-title: "Dokuzhöyük Tekmeşe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:09+03:00
+title: "Dokuzhöyük Tekmeşe Tümülüsü"
+date: "2025-12-25T07:47:09+03:00"
 slug: "dokuzhoyuk-tekmese-tumulusu"
 description: "## Dokuzhöyük Tekmeşe Tümülüsü: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0499554,41.6474876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokuzhöyük Tekmeşe Tümülüsü: Kırklareli'nin Gizli Anıtı

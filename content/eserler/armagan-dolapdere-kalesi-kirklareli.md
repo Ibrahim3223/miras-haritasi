@@ -1,18 +1,17 @@
 ---
-title: "Armağan Dolapdere Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:49:57+03:00
+title: "Armağan Dolapdere Kalesi, Kırklareli"
+date: "2025-12-25T01:49:57+03:00"
 slug: "armagan-dolapdere-kalesi-kirklareli"
 description: "# Armağan Dolapdere Kalesi: Kırklareli'nin Gizli Güzelliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4034977,41.8673935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Armağan Dolapdere Kalesi: Kırklareli'nin Gizli Güzelliği

@@ -1,18 +1,17 @@
 ---
-title: "Küplü Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:42+03:00
+title: "Küplü Ortodoks Kilisesi"
+date: "2025-12-25T09:21:42+03:00"
 slug: "kuplu-ortodoks-kilisesi"
 description: "## Küplü Ortodoks Kilisesi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.0022869,40.0985565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küplü Ortodoks Kilisesi

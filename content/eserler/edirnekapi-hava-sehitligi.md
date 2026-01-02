@@ -1,18 +1,17 @@
 ---
-title: "Edirnekapı Hava Şehitliği | Miras Haritası"
-date: 2025-12-25T15:57:09+03:00
+title: "Edirnekapı Hava Şehitliği"
+date: "2025-12-25T15:57:09+03:00"
 slug: "edirnekapi-hava-sehitligi"
 description: "# Edirnekapı Hava Şehitliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Edirnekapı_Hava_Şehitliği_01.jpg/1200px-Edirnekapı_Hava_Şehitliği_01.jpg"
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Defterdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.926361416,41.035439188"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Edirnekapı Hava Şehitliği

@@ -1,18 +1,17 @@
 ---
-title: "Balavca Köprüsü 1 | Miras Haritası"
-date: 2025-12-25T02:11:52+03:00
+title: "Balavca Köprüsü 1"
+date: "2025-12-25T02:11:52+03:00"
 slug: "balavca-koprusu-1"
 description: "### Balavca Köprüsü 1..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7843494,37.3154411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balavca Köprüsü 1

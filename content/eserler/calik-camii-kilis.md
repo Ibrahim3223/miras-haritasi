@@ -1,18 +1,17 @@
 ---
-title: "Çalık Camii, Kilis | Miras Haritası"
-date: 2025-12-25T00:04:54+03:00
+title: "Çalık Camii, Kilis"
+date: "2025-12-25T00:04:54+03:00"
 slug: "calik-camii-kilis"
 description: "## Çalık Camii: Kilis'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.1184502,36.7175407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çalık Camii: Kilis'in Tarihi Bir Mirası

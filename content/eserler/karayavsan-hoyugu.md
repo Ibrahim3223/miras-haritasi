@@ -1,18 +1,17 @@
 ---
-title: "Karayavşan Höyüğü | Miras Haritası"
-date: 2025-12-25T06:43:52+03:00
+title: "Karayavşan Höyüğü"
+date: "2025-12-25T06:43:52+03:00"
 slug: "karayavsan-hoyugu"
 description: "# Karayavşan Höyüğü: Polatlı'da Gizli Bir Tarih..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.3472744,39.4870271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karayavşan Höyüğü: Polatlı'da Gizli Bir Tarih

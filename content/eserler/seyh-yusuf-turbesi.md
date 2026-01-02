@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Yusuf Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:46+03:00
+title: "Şeyh Yusuf Türbesi"
+date: "2025-12-25T14:58:46+03:00"
 slug: "seyh-yusuf-turbesi"
 description: "### Şeyh Yusuf Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2293587,37.9115906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Yusuf Türbesi

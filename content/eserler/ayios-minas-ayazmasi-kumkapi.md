@@ -1,18 +1,17 @@
 ---
-title: "Ayios Minas Ayazması, Kumkapı | Miras Haritası"
-date: 2025-12-25T12:39:15+03:00
+title: "Ayios Minas Ayazması, Kumkapı"
+date: "2025-12-25T12:39:15+03:00"
 slug: "ayios-minas-ayazmasi-kumkapi"
 description: "### Ayios Minas Ayazması, Kumkapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9320869,41.0005608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Minas Ayazması, Kumkapı

@@ -1,18 +1,17 @@
 ---
-title: "Gevher Sultan Sebili | Miras Haritası"
-date: 2025-12-25T13:03:48+03:00
+title: "Gevher Sultan Sebili"
+date: "2025-12-25T13:03:48+03:00"
 slug: "gevher-sultan-sebili"
 description: "## Gevher Sultan Sebili: İstanbul'un Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9573364,41.0132523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gevher Sultan Sebili: İstanbul'un Tarihi Çeşmesi

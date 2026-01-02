@@ -1,18 +1,17 @@
 ---
-title: "Edirne Sarayı | Miras Haritası"
-date: 2025-12-25T07:00:55+03:00
+title: "Edirne Sarayı"
+date: "2025-12-25T07:00:55+03:00"
 slug: "edirne-sarayi"
 description: "## Edirne Sarayı: Osmanlı İmparatorluğu'nun Gizli Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CihannümaKasrıEdirne.JPG/1200px-CihannümaKasrıEdirne.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.55572222,41.69111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Edirne Sarayı: Osmanlı İmparatorluğu'nun Gizli Kalesi

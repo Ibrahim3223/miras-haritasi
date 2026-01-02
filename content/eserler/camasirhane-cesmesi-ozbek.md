@@ -1,18 +1,17 @@
 ---
-title: "Çamaşırhane Çeşmesi, Özbek | Miras Haritası"
-date: 2025-12-25T11:58:57+03:00
+title: "Çamaşırhane Çeşmesi, Özbek"
+date: "2025-12-25T11:58:57+03:00"
 slug: "camasirhane-cesmesi-ozbek"
 description: "## Çamaşırhane Çeşmesi: Urla'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7042007,38.3644981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamaşırhane Çeşmesi: Urla'nın Tarihi Bir Çeşmesi

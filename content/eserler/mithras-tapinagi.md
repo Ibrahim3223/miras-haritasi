@@ -1,18 +1,17 @@
 ---
-title: "Mithras Tapınağı | Miras Haritası"
-date: 2025-12-25T05:41:35+03:00
+title: "Mithras Tapınağı"
+date: "2025-12-25T05:41:35+03:00"
 slug: "mithras-tapinagi"
 description: "## Mithras Tapınağı: Diyarbakır'ın Gizemi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.4987078,37.6098135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mithras Tapınağı: Diyarbakır'ın Gizemi

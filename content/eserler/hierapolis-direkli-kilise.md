@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Direkli Kilise | Miras Haritası"
-date: 2025-12-25T09:19:49+03:00
+title: "Hierapolis Direkli Kilise"
+date: "2025-12-25T09:19:49+03:00"
 slug: "hierapolis-direkli-kilise"
 description: "### Hierapolis Direkli Kilise..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1266651,37.9250412"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hierapolis Direkli Kilise

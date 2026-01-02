@@ -1,18 +1,17 @@
 ---
-title: "Şeyhülislam Mehmet Efendi Camii | Miras Haritası"
-date: 2025-12-25T00:02:03+03:00
+title: "Şeyhülislam Mehmet Efendi Camii"
+date: "2025-12-25T00:02:03+03:00"
 slug: "seyhulislam-mehmet-efendi-camii"
 description: "# Şeyhülislam Mehmet Efendi Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ladik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8991089,40.9332085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyhülislam Mehmet Efendi Camii

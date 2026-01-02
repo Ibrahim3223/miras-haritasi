@@ -1,18 +1,17 @@
 ---
-title: "Darphane Kapısı | Miras Haritası"
-date: 2025-12-25T15:39:20+03:00
+title: "Darphane Kapısı"
+date: "2025-12-25T15:39:20+03:00"
 slug: "darphane-kapisi"
 description: "# Darphane Kapısı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.981405,41.010262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Darphane Kapısı: İstanbul'un Tarihi ve Kültürel Mirası

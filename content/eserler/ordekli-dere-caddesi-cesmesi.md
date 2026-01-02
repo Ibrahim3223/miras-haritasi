@@ -1,18 +1,17 @@
 ---
-title: "Ördekli Dere Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:57:43+03:00
+title: "Ördekli Dere Caddesi Çeşmesi"
+date: "2025-12-25T10:57:43+03:00"
 slug: "ordekli-dere-caddesi-cesmesi"
 description: "## Ördekli Dere Caddesi Çeşmesi..."
 featured_image: ""
 province: "Süleymanpaşa"
-iller: ["Süleymanpaşa"]
+iller: '["Süleymanpaşa"]'
 district: "Ortacami"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5179157,40.9810257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ördekli Dere Caddesi Çeşmesi

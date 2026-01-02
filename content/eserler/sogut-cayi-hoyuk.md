@@ -1,18 +1,17 @@
 ---
-title: "Söğüt Çayı Höyük | Miras Haritası"
-date: 2025-12-25T05:46:37+03:00
+title: "Söğüt Çayı Höyük"
+date: "2025-12-25T05:46:37+03:00"
 slug: "sogut-cayi-hoyuk"
 description: "### Söğüt Çayı Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.708217,38.533233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Söğüt Çayı Höyük: Tarihî Bir Mirasın İzleri

@@ -1,18 +1,17 @@
 ---
-title: "Sardes Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:31+03:00
+title: "Sardes Kilisesi"
+date: "2025-12-25T09:25:31+03:00"
 slug: "sardes-kilisesi"
 description: "### Sardes Kilisesi: İncil'in Kaynağı ve Ege'nin Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.0317364,38.4788132"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sardes Kilisesi: İncil'in Kaynağı ve Ege'nin Gizemi

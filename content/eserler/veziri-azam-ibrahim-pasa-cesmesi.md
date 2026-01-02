@@ -1,18 +1,17 @@
 ---
-title: "Veziri Azam İbrahim Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:18:20+03:00
+title: "Veziri Azam İbrahim Paşa Çeşmesi"
+date: "2025-12-25T11:18:20+03:00"
 slug: "veziri-azam-ibrahim-pasa-cesmesi"
 description: "## Veziri Azam İbrahim Paşa Çeşmesi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Defterdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.935239,41.039072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veziri Azam İbrahim Paşa Çeşmesi

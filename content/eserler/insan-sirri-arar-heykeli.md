@@ -1,18 +1,17 @@
 ---
-title: "İnsan Sırrı Arar Heykeli | Miras Haritası"
-date: 2025-12-25T16:09:30+03:00
+title: "İnsan Sırrı Arar Heykeli"
+date: "2025-12-25T16:09:30+03:00"
 slug: "insan-sirri-arar-heykeli"
 description: "## İnsan Sırrı Arar Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0230846,40.9813614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnsan Sırrı Arar Heykeli

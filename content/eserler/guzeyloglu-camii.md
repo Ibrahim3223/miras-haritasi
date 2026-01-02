@@ -1,18 +1,17 @@
 ---
-title: "Güzeyloğlu Camii | Miras Haritası"
-date: 2025-12-24T23:26:17+03:00
+title: "Güzeyloğlu Camii"
+date: "2025-12-24T23:26:17+03:00"
 slug: "guzeyloglu-camii"
 description: "**Güzeyloğlu Camii: Tarsus'un Gizli Çeşmesi**..."
 featured_image: ""
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.9011612,36.9196777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Güzeyloğlu Camii: Tarsus'un Gizli Çeşmesi**

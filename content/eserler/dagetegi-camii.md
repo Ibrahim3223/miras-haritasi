@@ -1,18 +1,17 @@
 ---
-title: "Dağeteği Camii | Miras Haritası"
-date: 2025-12-25T01:05:01+03:00
+title: "Dağeteği Camii"
+date: "2025-12-25T01:05:01+03:00"
 slug: "dagetegi-camii"
 description: "# Dağeteği Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7757,40.705"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dağeteği Camii

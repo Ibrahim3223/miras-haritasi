@@ -1,18 +1,17 @@
 ---
-title: "Eski Köprü, Baltalimanı | Miras Haritası"
-date: 2025-12-25T02:48:53+03:00
+title: "Eski Köprü, Baltalimanı"
+date: "2025-12-25T02:48:53+03:00"
 slug: "eski-kopru-baltalimani"
 description: "## Eski Köprü, Baltalimanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0324497,41.0985451"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Köprü, Baltalimanı

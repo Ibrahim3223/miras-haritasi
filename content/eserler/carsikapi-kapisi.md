@@ -1,18 +1,17 @@
 ---
-title: "Çarşıkapı Kapısı | Miras Haritası"
-date: 2025-12-25T15:38:21+03:00
+title: "Çarşıkapı Kapısı"
+date: "2025-12-25T15:38:21+03:00"
 slug: "carsikapi-kapisi"
 description: "## Çarşıkapı Kapısı: Fatih'te Bir İmza..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.967428,41.009857"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşıkapı Kapısı: Fatih'te Bir İmza

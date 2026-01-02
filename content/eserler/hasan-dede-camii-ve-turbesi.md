@@ -1,18 +1,17 @@
 ---
-title: "Hasan Dede Camii ve Türbesi | Miras Haritası"
-date: 2025-12-24T23:31:02+03:00
+title: "Hasan Dede Camii ve Türbesi"
+date: "2025-12-24T23:31:02+03:00"
 slug: "hasan-dede-camii-ve-turbesi"
 description: "## Hasan Dede Camii ve Türbesi..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Kırıkkale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5130692,39.7619171"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Dede Camii ve Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Kelenderis Kilise | Miras Haritası"
-date: 2025-12-25T09:31:22+03:00
+title: "Kelenderis Kilise"
+date: "2025-12-25T09:31:22+03:00"
 slug: "kelenderis-kilise"
 description: "## Kelenderis Kilisesi: Bir Roma-Orta Çağ Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Aydıncık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "33.3231697,36.1440353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kelenderis Kilisesi: Bir Roma-Orta Çağ Mirası

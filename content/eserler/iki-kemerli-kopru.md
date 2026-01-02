@@ -1,18 +1,17 @@
 ---
-title: "İki Kemerli Köprü | Miras Haritası"
-date: 2025-12-25T02:22:55+03:00
+title: "İki Kemerli Köprü"
+date: "2025-12-25T02:22:55+03:00"
 slug: "iki-kemerli-kopru"
 description: "## İki Kemerli Köprü: Bingöl'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bingöl"
-iller: ["Bingöl"]
+iller: '["Bingöl"]'
 district: "Karlıova"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.7630348,39.3855286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İki Kemerli Köprü: Bingöl'ün Tarihi ve Kültürel Mirası

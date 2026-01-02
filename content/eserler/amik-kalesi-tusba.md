@@ -1,18 +1,17 @@
 ---
-title: "Amik Kalesi, Tuşba | Miras Haritası"
-date: 2025-12-25T01:51:53+03:00
+title: "Amik Kalesi, Tuşba"
+date: "2025-12-25T01:51:53+03:00"
 slug: "amik-kalesi-tusba"
 description: "## Amik Kalesi, Tuşba: Van'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Tuşba"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.2924004,38.8072014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amik Kalesi, Tuşba: Van'ın Tarihi Bir Mirası

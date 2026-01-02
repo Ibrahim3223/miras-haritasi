@@ -1,18 +1,17 @@
 ---
-title: "Oğlanlar Tekkesi Sebili | Miras Haritası"
-date: 2025-12-25T13:08:06+03:00
+title: "Oğlanlar Tekkesi Sebili"
+date: "2025-12-25T13:08:06+03:00"
 slug: "oglanlar-tekkesi-sebili"
 description: "## Oğlanlar Tekkesi Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.948466,41.010459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oğlanlar Tekkesi Sebili

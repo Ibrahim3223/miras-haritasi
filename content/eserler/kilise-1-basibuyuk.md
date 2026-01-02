@@ -1,18 +1,17 @@
 ---
-title: "Kilise 1, Başıbüyük | Miras Haritası"
-date: 2025-12-25T09:41:39+03:00
+title: "Kilise 1, Başıbüyük"
+date: "2025-12-25T09:41:39+03:00"
 slug: "kilise-1-basibuyuk"
 description: "## Başıbüyük Kilisesi: İstanbul'un Gizli Çehresinde Bir İkona..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1561546,40.9560127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başıbüyük Kilisesi: İstanbul'un Gizli Çehresinde Bir İkona

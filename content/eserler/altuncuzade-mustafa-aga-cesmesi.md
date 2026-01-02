@@ -1,18 +1,17 @@
 ---
-title: "Altuncuzade Mustafa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:41+03:00
+title: "Altuncuzade Mustafa Ağa Çeşmesi"
+date: "2025-12-25T11:00:41+03:00"
 slug: "altuncuzade-mustafa-aga-cesmesi"
 description: "### Altuncuzade Mustafa Ağa Çeşmesi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Düğmeciler"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.926872,41.048229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Altuncuzade Mustafa Ağa Çeşmesi

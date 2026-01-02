@@ -1,18 +1,17 @@
 ---
-title: "Surp Marinos Manastırı | Miras Haritası"
-date: 2025-12-25T09:50:51+03:00
+title: "Surp Marinos Manastırı"
+date: "2025-12-25T09:50:51+03:00"
 slug: "surp-marinos-manastiri"
 description: "## Surp Marinos Manastırı..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gürpınar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.356671012,38.345607585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Marinos Manastırı

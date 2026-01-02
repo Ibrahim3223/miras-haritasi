@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Armutlu | Miras Haritası"
-date: 2025-12-25T02:50:55+03:00
+title: "Taş Köprü, Armutlu"
+date: "2025-12-25T02:50:55+03:00"
 slug: "tas-kopru-armutlu"
 description: "### Taş Köprü, Armutlu..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Armutlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.8282528,40.5195503"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taş Köprü, Armutlu

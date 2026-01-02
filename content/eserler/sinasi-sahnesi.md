@@ -1,18 +1,17 @@
 ---
-title: "Şinasi Sahnesi | Miras Haritası"
-date: 2025-12-25T16:17:23+03:00
+title: "Şinasi Sahnesi"
+date: "2025-12-25T16:17:23+03:00"
 slug: "sinasi-sahnesi"
 description: "## Şinasi Sahnesi: Ankara'nın Tarihî Tiyatro Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Şinasi_Sahnesi,_Ankara_Devlet_Tiyatrosu,_2021_01.jpg/1200px-Şinasi_Sahnesi,_Ankara_Devlet_Tiyatrosu,_2021_01.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.8595,39.903916666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şinasi Sahnesi: Ankara'nın Tarihî Tiyatro Mirası

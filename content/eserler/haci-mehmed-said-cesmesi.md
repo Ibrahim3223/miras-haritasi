@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmed Said Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:33:43+03:00
+title: "Hacı Mehmed Said Çeşmesi"
+date: "2025-12-25T11:33:43+03:00"
 slug: "haci-mehmed-said-cesmesi"
 description: "# Hacı Mehmed Said Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6933994,37.3572998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Mehmed Said Çeşmesi

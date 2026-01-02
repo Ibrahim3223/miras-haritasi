@@ -1,18 +1,17 @@
 ---
-title: "Conk Bayırı Yeni Zelanda Anıtı | Miras Haritası"
-date: 2025-12-25T14:14:16+03:00
+title: "Conk Bayırı Yeni Zelanda Anıtı"
+date: "2025-12-25T14:14:16+03:00"
 slug: "conk-bayiri-yeni-zelanda-aniti"
 description: "## Conk Bayırı Yeni Zelanda Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Architect_Sketch_Chunuk_Bair_NZ_Memorial_(20349856792).jpg/1200px-Architect_Sketch_Chunuk_Bair_NZ_Memorial_(20349856792).jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.30821,40.25225"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Conk Bayırı Yeni Zelanda Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Aulae (Likya) | Miras Haritası"
-date: 2025-12-25T04:58:49+03:00
+title: "Aulae (Likya)"
+date: "2025-12-25T04:58:49+03:00"
 slug: "aulae-likya"
 description: "## Aulae (Likya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.134462,36.760796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aulae (Likya) Arkeolojik Sit

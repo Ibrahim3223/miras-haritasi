@@ -1,18 +1,17 @@
 ---
-title: "Astragon (Karya) | Miras Haritası"
-date: 2025-12-25T04:40:35+03:00
+title: "Astragon (Karya)"
+date: "2025-12-25T04:40:35+03:00"
 slug: "astragon-karya"
 description: "### Astragon (Karya)..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.217488,37.381718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Astragon (Karya)

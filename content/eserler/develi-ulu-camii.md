@@ -1,18 +1,17 @@
 ---
-title: "Develi Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:03:47+03:00
+title: "Develi Ulu Camii"
+date: "2025-12-24T22:03:47+03:00"
 slug: "develi-ulu-camii"
 description: "## Develi Ulu Camii: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.491626,38.360934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Develi Ulu Camii: Kayseri'nin Tarihi ve Kültürel Mirası

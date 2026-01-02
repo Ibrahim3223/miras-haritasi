@@ -1,18 +1,17 @@
 ---
-title: "Adatepe Yolu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:33+03:00
+title: "Adatepe Yolu Çeşmesi"
+date: "2025-12-25T10:23:33+03:00"
 slug: "adatepe-yolu-cesmesi"
 description: "## Adatepe Yolu Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6146908,39.5600433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adatepe Yolu Çeşmesi

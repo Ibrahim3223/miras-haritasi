@@ -1,18 +1,17 @@
 ---
-title: "Çukuriçi Höyüğü | Miras Haritası"
-date: 2025-12-25T05:47:38+03:00
+title: "Çukuriçi Höyüğü"
+date: "2025-12-25T05:47:38+03:00"
 slug: "cukurici-hoyugu"
 description: "## Çukuriçi Höyüğü: İzmirlinin Eski Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/01_Cukurici_Höyük.tif/1200px-01_Cukurici_Höyük.tif"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3594,37.9292"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çukuriçi Höyüğü: İzmirlinin Eski Mirası

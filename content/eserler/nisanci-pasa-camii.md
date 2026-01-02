@@ -1,18 +1,17 @@
 ---
-title: "Nişancı Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:17:40+03:00
+title: "Nişancı Paşa Camii"
+date: "2025-12-24T23:17:40+03:00"
 slug: "nisanci-pasa-camii"
 description: "### Nişancı Paşa Camii: Manisa'nın Tarihi Mimarisi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4369812,38.6129646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nişancı Paşa Camii: Manisa'nın Tarihi Mimarisi

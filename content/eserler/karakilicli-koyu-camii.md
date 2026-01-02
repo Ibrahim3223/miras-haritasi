@@ -1,18 +1,17 @@
 ---
-title: "Karakılıçlı Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:41:09+03:00
+title: "Karakılıçlı Köyü Camii"
+date: "2025-12-24T23:41:09+03:00"
 slug: "karakilicli-koyu-camii"
 description: "## Karakılıçlı Köyü Camii: Manisa'nın Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3432007,38.775238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakılıçlı Köyü Camii: Manisa'nın Tarihî Bir Mirası

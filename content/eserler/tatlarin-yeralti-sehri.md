@@ -1,18 +1,17 @@
 ---
-title: "Tatlarin Yeraltı Şehri | Miras Haritası"
-date: 2025-12-25T03:41:46+03:00
+title: "Tatlarin Yeraltı Şehri"
+date: "2025-12-25T03:41:46+03:00"
 slug: "tatlarin-yeralti-sehri"
 description: "## Tatlarin Yeraltı Şehri: Nevşehir'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Tatlarin_01.jpg/1200px-Tatlarin_01.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.46487,38.62947"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tatlarin Yeraltı Şehri: Nevşehir'in Gizli Mirası

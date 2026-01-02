@@ -1,18 +1,17 @@
 ---
-title: "Kapıkule Tren İstasyonu | Miras Haritası"
-date: 2025-12-25T08:36:07+03:00
+title: "Kapıkule Tren İstasyonu"
+date: "2025-12-25T08:36:07+03:00"
 slug: "kapikule-tren-istasyonu"
 description: "## Kapıkule Tren İstasyonu: Edirne'nin Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kapikule_railway_station_building.JPG/1200px-Kapikule_railway_station_building.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "26.361411106,41.71899973"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kapıkule Tren İstasyonu: Edirne'nin Tarihî Bir Mirası

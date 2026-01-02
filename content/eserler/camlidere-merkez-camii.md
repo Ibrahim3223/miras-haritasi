@@ -1,18 +1,17 @@
 ---
-title: "Çamlıdere Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:31:51+03:00
+title: "Çamlıdere Merkez Camii"
+date: "2025-12-24T22:31:51+03:00"
 slug: "camlidere-merkez-camii"
 description: "## Çamlıdere Merkez Camii: Ankara'da tarihi bir güzellik..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4754562,40.4905472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamlıdere Merkez Camii: Ankara'da tarihi bir güzellik

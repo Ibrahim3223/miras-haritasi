@@ -1,18 +1,17 @@
 ---
-title: "Cennet ve Cehennem | Miras Haritası"
-date: 2025-12-25T03:07:05+03:00
+title: "Cennet ve Cehennem"
+date: "2025-12-25T03:07:05+03:00"
 slug: "cennet-ve-cehennem"
 description: "### Cennet ve Cehennem: Silifke'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/023_Cennetobrugu.07.2006_resize.JPG/1200px-023_Cennetobrugu.07.2006_resize.JPG"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.105555555,36.4525"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Cennet ve Cehennem: Silifke'nin Gizemi

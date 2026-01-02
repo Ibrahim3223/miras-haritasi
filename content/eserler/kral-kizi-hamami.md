@@ -1,18 +1,17 @@
 ---
-title: "Kral Kızı Hamamı | Miras Haritası"
-date: 2025-12-25T05:27:11+03:00
+title: "Kral Kızı Hamamı"
+date: "2025-12-25T05:27:11+03:00"
 slug: "kral-kizi-hamami"
 description: "### Kral Kızı Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sarıkaya_Roma_Hamamı_4.jpg/1200px-Sarıkaya_Roma_Hamamı_4.jpg"
-province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: "Ankara Vilayeti"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.3763111,39.4948656"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kral Kızı Hamamı

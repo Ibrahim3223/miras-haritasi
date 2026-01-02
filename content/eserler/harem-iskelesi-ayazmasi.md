@@ -1,18 +1,17 @@
 ---
-title: "Harem İskelesi Ayazması | Miras Haritası"
-date: 2025-12-25T12:41:26+03:00
+title: "Harem İskelesi Ayazması"
+date: "2025-12-25T12:41:26+03:00"
 slug: "harem-iskelesi-ayazmasi"
 description: "### Harem İskelesi Ayazması: Üsküdar'da Eski Çağın Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.012681714,41.009063226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Harem İskelesi Ayazması: Üsküdar'da Eski Çağın Mirası

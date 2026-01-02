@@ -1,18 +1,17 @@
 ---
-title: "Hatice Ana Türbesi, Urla | Miras Haritası"
-date: 2025-12-25T15:33:49+03:00
+title: "Hatice Ana Türbesi, Urla"
+date: "2025-12-25T15:33:49+03:00"
 slug: "hatice-ana-turbesi-urla"
 description: "### Hatice Ana Türbesi: Urla'da Bir Tarihî Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.769756,38.319564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hatice Ana Türbesi: Urla'da Bir Tarihî Miras

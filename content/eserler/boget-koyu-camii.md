@@ -1,18 +1,17 @@
 ---
-title: "Böğet Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:28:08+03:00
+title: "Böğet Köyü Camii"
+date: "2025-12-24T22:28:08+03:00"
 slug: "boget-koyu-camii"
 description: "## Böğet Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.453125,38.3192482"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Böğet Köyü Camii

@@ -1,18 +1,17 @@
 ---
-title: "Kula Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:46+03:00
+title: "Kula Şehitliği"
+date: "2025-12-25T16:00:46+03:00"
 slug: "kula-sehitligi"
 description: "## Kula Şehitliği..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.6419258,38.5444107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kula Şehitliği

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(python -c:*)",
+      "Bash(xargs:*)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash(python scripts/fix_existing_content.py:*)",
+      "Bash(hugo:*)",
+      "Bash(head:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

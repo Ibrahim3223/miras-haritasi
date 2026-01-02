@@ -1,18 +1,17 @@
 ---
-title: "Doğu Gymnasionu'ndaki Bazilika | Miras Haritası"
-date: 2025-12-25T08:19:17+03:00
+title: "Doğu Gymnasionu'ndaki Bazilika"
+date: "2025-12-25T08:19:17+03:00"
 slug: "dogu-gymnasionundaki-bazilika"
 description: "# Doğu Gymnasionu'ndaki Bazilika: İzmirlinin Geç Antik Dönem Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.350533604,37.934951165"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Doğu Gymnasionu'ndaki Bazilika: İzmirlinin Geç Antik Dönem Mirası

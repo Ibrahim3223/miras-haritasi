@@ -1,18 +1,17 @@
 ---
-title: "Erzen Hatun Kümbeti | Miras Haritası"
-date: 2025-12-25T14:01:50+03:00
+title: "Erzen Hatun Kümbeti"
+date: "2025-12-25T14:01:50+03:00"
 slug: "erzen-hatun-kumbeti"
 description: "## Erzen Hatun Kümbeti: Ahlat'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.4993834,38.7575918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erzen Hatun Kümbeti: Ahlat'ın Gizli Hazinesi

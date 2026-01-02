@@ -1,18 +1,17 @@
 ---
-title: "Yatan Kadın Heykeli 2 | Miras Haritası"
-date: 2025-12-25T12:08:43+03:00
+title: "Yatan Kadın Heykeli 2"
+date: "2025-12-25T12:08:43+03:00"
 slug: "yatan-kadin-heykeli-2"
 description: "## Yatan Kadın Heykeli 2: İzmir'in Tarihî Çeşmesindeki Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Swimming_pool_with_girls_in_the_Kültürpark.jpg/1200px-Swimming_pool_with_girls_in_the_Kültürpark.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.144972222,38.429361111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yatan Kadın Heykeli 2: İzmir'in Tarihî Çeşmesindeki Gizemi

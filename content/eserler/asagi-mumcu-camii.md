@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Mumcu Camii | Miras Haritası"
-date: 2025-12-24T22:14:43+03:00
+title: "Aşağı Mumcu Camii"
+date: "2025-12-24T22:14:43+03:00"
 slug: "asagi-mumcu-camii"
 description: "## Aşağı Mumcu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2699318,39.9083672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Mumcu Camii

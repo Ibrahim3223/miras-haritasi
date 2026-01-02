@@ -1,18 +1,17 @@
 ---
-title: "Küçük Bezirganlı Höyük | Miras Haritası"
-date: 2025-12-25T06:20:32+03:00
+title: "Küçük Bezirganlı Höyük"
+date: "2025-12-25T06:20:32+03:00"
 slug: "kucuk-bezirganli-hoyuk"
 description: "## Küçük Bezirganlı Höyük: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9589361,38.955496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Bezirganlı Höyük: Aksaray'ın Gizli Mirası

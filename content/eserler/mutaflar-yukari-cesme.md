@@ -1,18 +1,17 @@
 ---
-title: "Mutaflar Yukarı Çeşme | Miras Haritası"
-date: 2025-12-25T10:12:05+03:00
+title: "Mutaflar Yukarı Çeşme"
+date: "2025-12-25T10:12:05+03:00"
 slug: "mutaflar-yukari-cesme"
 description: "# Mutaflar Yukarı Çeşme..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4632988,40.7332497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mutaflar Yukarı Çeşme

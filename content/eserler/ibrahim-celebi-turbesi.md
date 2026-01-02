@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:26:53+03:00
+title: "İbrahim Çelebi Türbesi"
+date: "2025-12-25T14:26:53+03:00"
 slug: "ibrahim-celebi-turbesi"
 description: "### İbrahim Çelebi Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.423645,38.6101875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İbrahim Çelebi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Ereğli Ulu Cami | Miras Haritası"
-date: 2025-12-24T22:05:01+03:00
+title: "Ereğli Ulu Cami"
+date: "2025-12-24T22:05:01+03:00"
 slug: "eregli-ulu-cami"
 description: "## Ereğli Ulu Cami..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ereğli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.04967,37.51385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ereğli Ulu Cami

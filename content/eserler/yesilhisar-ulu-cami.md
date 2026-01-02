@@ -1,18 +1,17 @@
 ---
-title: "Yeşilhisar Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:07:48+03:00
+title: "Yeşilhisar Ulu Cami"
+date: "2025-12-24T23:07:48+03:00"
 slug: "yesilhisar-ulu-cami"
 description: "## Yeşilhisar Ulu Camii: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.0832214,38.3503838"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşilhisar Ulu Camii: Kayseri'nin Gizli Cenneti

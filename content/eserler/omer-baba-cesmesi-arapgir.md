@@ -1,18 +1,17 @@
 ---
-title: "Ömer Baba Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:24:41+03:00
+title: "Ömer Baba Çeşmesi, Arapgir"
+date: "2025-12-25T12:24:41+03:00"
 slug: "omer-baba-cesmesi-arapgir"
 description: "## Ömer Baba Çeşmesi: Arapgir'de Bir Kentin Yüzyıllar Boyu Yaşamasının İzleri..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.492458436,39.04850467"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömer Baba Çeşmesi: Arapgir'de Bir Kentin Yüzyıllar Boyu Yaşamasının İzleri

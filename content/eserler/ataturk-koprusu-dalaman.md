@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Köprüsü, Dalaman | Miras Haritası"
-date: 2025-12-25T02:50:27+03:00
+title: "Atatürk Köprüsü, Dalaman"
+date: "2025-12-25T02:50:27+03:00"
 slug: "ataturk-koprusu-dalaman"
 description: "## Atatürk Köprüsü, Dalaman..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Dalaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.7945232,36.8345337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Köprüsü, Dalaman

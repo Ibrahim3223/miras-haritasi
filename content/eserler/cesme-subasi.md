@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Subaşı | Miras Haritası"
-date: 2025-12-25T12:46:46+03:00
+title: "Çeşme, Subaşı"
+date: "2025-12-25T12:46:46+03:00"
 slug: "cesme-subasi"
 description: "## Çatalca Subaşı Çeşmesi: Tarihçesi ve Mimari Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4587803,41.2284546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatalca Subaşı Çeşmesi: Tarihçesi ve Mimari Özellikleri

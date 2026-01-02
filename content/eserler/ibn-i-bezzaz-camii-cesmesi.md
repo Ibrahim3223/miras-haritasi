@@ -1,18 +1,17 @@
 ---
-title: "İbn-i Bezzaz Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:47+03:00
+title: "İbn-i Bezzaz Camii Çeşmesi"
+date: "2025-12-25T10:53:47+03:00"
 slug: "ibn-i-bezzaz-camii-cesmesi"
 description: "### İbn-i Bezzaz Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0793571,40.1835709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İbn-i Bezzaz Camii Çeşmesi

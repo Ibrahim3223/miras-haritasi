@@ -1,18 +1,17 @@
 ---
-title: "Yeniçeşme Camii | Miras Haritası"
-date: 2025-12-24T22:56:36+03:00
+title: "Yeniçeşme Camii"
+date: "2025-12-24T22:56:36+03:00"
 slug: "yenicesme-camii"
 description: "## Yeniçeşme Camii: Mimar Sinan'ın Üsküdar'ında Bıraktığı Miras..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Mimar Sinan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0162515,41.0219253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeniçeşme Camii: Mimar Sinan'ın Üsküdar'ında Bıraktığı Miras

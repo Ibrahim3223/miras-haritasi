@@ -1,18 +1,17 @@
 ---
-title: "Hasan Paşa Hanı | Miras Haritası"
-date: 2025-12-25T13:38:35+03:00
+title: "Hasan Paşa Hanı"
+date: "2025-12-25T13:38:35+03:00"
 slug: "hasan-pasa-hani"
 description: "## Hasan Paşa Hanı: Diyarbakır'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hasan_Pasha_Inn.jpg/1200px-Hasan_Pasha_Inn.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.237166666,37.912722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hasan Paşa Hanı: Diyarbakır'ın Tarihi ve Kültürel Mirası

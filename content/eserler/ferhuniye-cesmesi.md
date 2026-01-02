@@ -1,18 +1,17 @@
 ---
-title: "Ferhuniye Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:25+03:00
+title: "Ferhuniye Çeşmesi"
+date: "2025-12-25T11:35:25+03:00"
 slug: "ferhuniye-cesmesi"
 description: "## Ferhuniye Çeşmesi: Konya'nın Selçuklu Dönemine Ait Bir Harikası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4900093,37.8763885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferhuniye Çeşmesi: Konya'nın Selçuklu Dönemine Ait Bir Harikası

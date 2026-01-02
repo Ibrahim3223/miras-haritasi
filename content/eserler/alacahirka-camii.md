@@ -1,18 +1,17 @@
 ---
-title: "Alacahırka Camii | Miras Haritası"
-date: 2025-12-24T22:09:42+03:00
+title: "Alacahırka Camii"
+date: "2025-12-24T22:09:42+03:00"
 slug: "alacahirka-camii"
 description: "**Alacahırka Camii: Bursa'nın Tarihi ve Kültürel Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0479679,40.1836777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Alacahırka Camii: Bursa'nın Tarihi ve Kültürel Mirası**

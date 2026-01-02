@@ -1,18 +1,17 @@
 ---
-title: "Bayrampaşa Kalesi | Miras Haritası"
-date: 2025-12-25T01:45:31+03:00
+title: "Bayrampaşa Kalesi"
+date: "2025-12-25T01:45:31+03:00"
 slug: "bayrampasa-kalesi"
 description: "### Bayrampaşa Kalesi..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Demirözü"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.8321495,40.1846466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayrampaşa Kalesi

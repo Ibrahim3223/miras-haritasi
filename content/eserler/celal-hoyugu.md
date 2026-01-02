@@ -1,18 +1,17 @@
 ---
-title: "Celal Höyüğü | Miras Haritası"
-date: 2025-12-25T06:45:39+03:00
+title: "Celal Höyüğü"
+date: "2025-12-25T06:45:39+03:00"
 slug: "celal-hoyugu"
 description: "## Celal Höyüğü: Yozgat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.6315011,39.5642995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Celal Höyüğü: Yozgat'ın Tarihî Mirası

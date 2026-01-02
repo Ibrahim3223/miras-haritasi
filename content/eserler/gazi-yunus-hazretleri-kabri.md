@@ -1,18 +1,17 @@
 ---
-title: "Gazi Yunus Hazretleri Kabri | Miras Haritası"
-date: 2025-12-25T13:25:17+03:00
+title: "Gazi Yunus Hazretleri Kabri"
+date: "2025-12-25T13:25:17+03:00"
 slug: "gazi-yunus-hazretleri-kabri"
 description: "### Gazi Yunus Hazretleri Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0837917,41.1382179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Yunus Hazretleri Kabri

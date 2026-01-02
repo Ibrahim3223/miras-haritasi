@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Paşa Hamamı, Bilecik | Miras Haritası"
-date: 2025-12-25T17:10:52+03:00
+title: "Süleyman Paşa Hamamı, Bilecik"
+date: "2025-12-25T17:10:52+03:00"
 slug: "suleyman-pasa-hamami-bilecik"
 description: "## Süleyman Paşa Hamamı, Bilecik: Tarihi ve Kültürel Mirasının Gizli Çeşmesi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9874191,40.142601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Paşa Hamamı, Bilecik: Tarihi ve Kültürel Mirasının Gizli Çeşmesi

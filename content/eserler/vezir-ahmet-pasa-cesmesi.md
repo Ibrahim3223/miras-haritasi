@@ -1,18 +1,17 @@
 ---
-title: "Vezir Ahmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:59+03:00
+title: "Vezir Ahmet Paşa Çeşmesi"
+date: "2025-12-25T11:44:59+03:00"
 slug: "vezir-ahmet-pasa-cesmesi"
 description: "## Vezir Ahmet Paşa Çeşmesi: Fatih'ten Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9557686,41.0135956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vezir Ahmet Paşa Çeşmesi: Fatih'ten Bir Tarihi Çeşme

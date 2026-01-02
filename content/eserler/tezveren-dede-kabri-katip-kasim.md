@@ -1,18 +1,17 @@
 ---
-title: "Tezveren Dede Kabri, Katip Kasım | Miras Haritası"
-date: 2025-12-25T13:52:31+03:00
+title: "Tezveren Dede Kabri, Katip Kasım"
+date: "2025-12-25T13:52:31+03:00"
 slug: "tezveren-dede-kabri-katip-kasim"
 description: "**Tezveren Dede Kabri, Katip Kasım: İstanbul'un Eski Yerleşim Biriminin Gizemi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9572563,41.0068817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tezveren Dede Kabri, Katip Kasım: İstanbul'un Eski Yerleşim Biriminin Gizemi**

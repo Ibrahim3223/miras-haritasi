@@ -1,18 +1,17 @@
 ---
-title: "Koca Camii, Zeytindağ | Miras Haritası"
-date: 2025-12-24T23:57:01+03:00
+title: "Koca Camii, Zeytindağ"
+date: "2025-12-24T23:57:01+03:00"
 slug: "koca-camii-zeytindag"
 description: "## Koca Camii: Bergama'da Bir Tarihi Harikalar..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0732002,38.969101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Camii: Bergama'da Bir Tarihi Harikalar

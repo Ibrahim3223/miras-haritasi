@@ -1,18 +1,17 @@
 ---
-title: "Feyzullah Camii, Atabey | Miras Haritası"
-date: 2025-12-24T23:56:12+03:00
+title: "Feyzullah Camii, Atabey"
+date: "2025-12-24T23:56:12+03:00"
 slug: "feyzullah-camii-atabey"
 description: "### Feyzullah Camii, Atabey..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Atabey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.6456146,37.9511871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Feyzullah Camii, Atabey

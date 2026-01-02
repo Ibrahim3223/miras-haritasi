@@ -1,18 +1,17 @@
 ---
-title: "Gürgen Köprüsü Güneysu | Miras Haritası"
-date: 2025-12-25T02:06:27+03:00
+title: "Gürgen Köprüsü Güneysu"
+date: "2025-12-25T02:06:27+03:00"
 slug: "gurgen-koprusu-guneysu"
 description: "## Gürgen Köprüsü Güneysu: Rize'nin Tarihi İmkânı..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Güneysu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.6586,40.952067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gürgen Köprüsü Güneysu: Rize'nin Tarihi İmkânı

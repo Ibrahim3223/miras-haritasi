@@ -1,18 +1,17 @@
 ---
-title: "Yaprakhisar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:50+03:00
+title: "Yaprakhisar Köprüsü"
+date: "2025-12-25T02:25:50+03:00"
 slug: "yaprakhisar-koprusu"
 description: "### Yaprakhisar Köprüsü: Aksaray'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Güzelyurt"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.268814,38.296772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yaprakhisar Köprüsü: Aksaray'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Melikgazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:05+03:00
+title: "Melikgazi Türbesi"
+date: "2025-12-25T15:05:05+03:00"
 slug: "melikgazi-turbesi"
 description: "## Melikgazi Türbesi: Niksar'da Bir Önemli Anıt..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.96539,40.591142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Melikgazi Türbesi: Niksar'da Bir Önemli Anıt

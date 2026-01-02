@@ -1,18 +1,17 @@
 ---
-title: "Felâhoğlu Nureddin Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:04+03:00
+title: "Felâhoğlu Nureddin Türbesi"
+date: "2025-12-25T15:27:04+03:00"
 slug: "felhoglu-nureddin-turbesi"
 description: "## Felâhoğlu Nureddin Türbesi..."
 featured_image: ""
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.9010315,36.9195938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Felâhoğlu Nureddin Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Kavurmacılar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:34+03:00
+title: "Kavurmacılar Çeşmesi"
+date: "2025-12-25T10:28:34+03:00"
 slug: "kavurmacilar-cesmesi"
 description: "## Kavurmacılar Çeşmesi: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6044502,37.7263641"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavurmacılar Çeşmesi: Aydın'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Yoncaaltı Camii | Miras Haritası"
-date: 2025-12-24T23:46:59+03:00
+title: "Yoncaaltı Camii"
+date: "2025-12-24T23:46:59+03:00"
 slug: "yoncaalti-camii"
 description: "## Yoncaaltı Camii: Afyonkarahisar'ın Gizli Çehresi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5388279,38.7544632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yoncaaltı Camii: Afyonkarahisar'ın Gizli Çehresi

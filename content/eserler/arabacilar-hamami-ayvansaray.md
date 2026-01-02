@@ -1,18 +1,17 @@
 ---
-title: "Arabacılar Hamamı Ayvansaray | Miras Haritası"
-date: 2025-12-25T16:31:43+03:00
+title: "Arabacılar Hamamı Ayvansaray"
+date: "2025-12-25T16:31:43+03:00"
 slug: "arabacilar-hamami-ayvansaray"
 description: "### Arabacılar Hamamı Ayvansaray: İstanbul'un Tarihsel Bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.942435,41.035997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arabacılar Hamamı Ayvansaray: İstanbul'un Tarihsel Bir Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Hasan Rıza Paşa Çeşmesi, Rami | Miras Haritası"
-date: 2025-12-25T11:53:30+03:00
+title: "Hasan Rıza Paşa Çeşmesi, Rami"
+date: "2025-12-25T11:53:30+03:00"
 slug: "hasan-riza-pasa-cesmesi-rami"
 description: "**Hasan Rıza Paşa Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.915758,41.052277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hasan Rıza Paşa Çeşmesi**

@@ -1,18 +1,17 @@
 ---
-title: "Türkmen Karahöyük | Miras Haritası"
-date: 2025-12-25T05:56:39+03:00
+title: "Türkmen Karahöyük"
+date: "2025-12-25T05:56:39+03:00"
 slug: "turkmen-karahoyuk"
 description: "### Türkmen Karahöyük: Tarihî Miras ve Arkeolojik Büyüklük..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.0294,37.623299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Türkmen Karahöyük: Tarihî Miras ve Arkeolojik Büyüklük

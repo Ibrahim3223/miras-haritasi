@@ -1,18 +1,17 @@
 ---
-title: "Akbıyık Sultan Ahmet Şemsettin Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:36+03:00
+title: "Akbıyık Sultan Ahmet Şemsettin Türbesi"
+date: "2025-12-25T14:49:36+03:00"
 slug: "akbiyik-sultan-ahmet-semsettin-turbesi"
 description: "## Akbıyık Sultan Ahmet Şemsettin Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.6749878,40.1171494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akbıyık Sultan Ahmet Şemsettin Türbesi

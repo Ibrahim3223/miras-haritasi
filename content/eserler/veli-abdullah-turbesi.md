@@ -1,18 +1,17 @@
 ---
-title: "Veli Abdullah Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:58+03:00
+title: "Veli Abdullah Türbesi"
+date: "2025-12-25T15:18:58+03:00"
 slug: "veli-abdullah-turbesi"
 description: "**Veli Abdullah Türbesi**..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.836195,40.654746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Veli Abdullah Türbesi**

@@ -1,18 +1,17 @@
 ---
-title: "Aydınkaya Höyük | Miras Haritası"
-date: 2025-12-25T13:46:18+03:00
+title: "Aydınkaya Höyük"
+date: "2025-12-25T13:46:18+03:00"
 slug: "aydinkaya-hoyuk"
 description: "### Aydınkaya Höyük: Tarihî Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.5266948,36.8337715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aydınkaya Höyük: Tarihî Bir Anıtın Gizemi

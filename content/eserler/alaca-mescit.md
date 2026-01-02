@@ -1,18 +1,17 @@
 ---
-title: "Alaca Mescit | Miras Haritası"
-date: 2025-12-24T22:45:20+03:00
+title: "Alaca Mescit"
+date: "2025-12-24T22:45:20+03:00"
 slug: "alaca-mescit"
 description: "### Alaca Mescit: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9693584,41.0250206"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alaca Mescit: İstanbul'un Gizli Cenneti

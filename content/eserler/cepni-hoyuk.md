@@ -1,18 +1,17 @@
 ---
-title: "Çepni Höyük | Miras Haritası"
-date: 2025-12-25T06:32:19+03:00
+title: "Çepni Höyük"
+date: "2025-12-25T06:32:19+03:00"
 slug: "cepni-hoyuk"
 description: "### Çepni Höyük: Tarihî bir Mirasın İzleri..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3978299,39.6401495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çepni Höyük: Tarihî bir Mirasın İzleri

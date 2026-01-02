@@ -1,18 +1,17 @@
 ---
-title: "Antik Nekropol Alanı, Dağbeli | Miras Haritası"
-date: 2025-12-25T14:03:19+03:00
+title: "Antik Nekropol Alanı, Dağbeli"
+date: "2025-12-25T14:03:19+03:00"
 slug: "antik-nekropol-alani-dagbeli"
 description: "## Antik Nekropol Alanı, Dağbeli..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.547297468,37.213155905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antik Nekropol Alanı, Dağbeli

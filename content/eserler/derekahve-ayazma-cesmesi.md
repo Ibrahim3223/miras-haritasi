@@ -1,18 +1,17 @@
 ---
-title: "Derekahve Ayazma Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:45:53+03:00
+title: "Derekahve Ayazma Çeşmesi"
+date: "2025-12-25T12:45:53+03:00"
 slug: "derekahve-ayazma-cesmesi"
 description: "## Derekahve Ayazma Çeşmesi: İzmirlinin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7391758,38.0809174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derekahve Ayazma Çeşmesi: İzmirlinin Gizli Çeşmesi

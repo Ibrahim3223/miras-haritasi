@@ -1,18 +1,17 @@
 ---
-title: "Fransız Konsolosluğu, Beyoğlu | Miras Haritası"
-date: 2025-12-25T13:13:20+03:00
+title: "Fransız Konsolosluğu, Beyoğlu"
+date: "2025-12-25T13:13:20+03:00"
 slug: "fransiz-konsoloslugu-beyoglu"
 description: "### Fransız Konsolosluğu, Beyoğlu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.9837303,41.0364647"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fransız Konsolosluğu, Beyoğlu

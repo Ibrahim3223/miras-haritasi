@@ -1,18 +1,17 @@
 ---
-title: "Geneği Mescidi | Miras Haritası"
-date: 2025-12-24T23:02:47+03:00
+title: "Geneği Mescidi"
+date: "2025-12-24T23:02:47+03:00"
 slug: "genegi-mescidi"
 description: "## Geneği Mescidi: Altındağ'da Tarihi Bir Miras..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8655701,39.9360008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Geneği Mescidi: Altındağ'da Tarihi Bir Miras

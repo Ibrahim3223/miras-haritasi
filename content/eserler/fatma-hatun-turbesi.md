@@ -1,18 +1,17 @@
 ---
-title: "Fatma Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:46+03:00
+title: "Fatma Hatun Türbesi"
+date: "2025-12-25T14:43:46+03:00"
 slug: "fatma-hatun-turbesi"
 description: "## Fatma Hatun Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5048027,37.8705292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatma Hatun Türbesi

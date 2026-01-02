@@ -1,18 +1,17 @@
 ---
-title: "Hacı Abdullah Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:11+03:00
+title: "Hacı Abdullah Çeşmesi"
+date: "2025-12-25T10:45:11+03:00"
 slug: "haci-abdullah-cesmesi"
 description: "### Hacı Abdullah Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7731743,41.3793564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Abdullah Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Feriköy Protestan Mezarlığı Şapeli | Miras Haritası"
-date: 2025-12-25T09:42:46+03:00
+title: "Feriköy Protestan Mezarlığı Şapeli"
+date: "2025-12-25T09:42:46+03:00"
 slug: "ferikoy-protestan-mezarligi-sapeli"
 description: "# Feriköy Protestan Mezarlığı Şapeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9853878,41.0532722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Feriköy Protestan Mezarlığı Şapeli

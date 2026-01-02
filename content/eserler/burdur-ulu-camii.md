@@ -1,18 +1,17 @@
 ---
-title: "Burdur Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:01:01+03:00
+title: "Burdur Ulu Camii"
+date: "2025-12-24T22:01:01+03:00"
 slug: "burdur-ulu-camii"
 description: "## Burdur Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Burdur;_Ulu_Cami;_erbaut_1300.jpg/1200px-Burdur;_Ulu_Cami;_erbaut_1300.jpg"
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.286333333,37.717416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Burdur Ulu Camii

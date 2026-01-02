@@ -1,18 +1,17 @@
 ---
-title: "Yahyalı Ulu Cami | Miras Haritası"
-date: 2025-12-25T00:43:35+03:00
+title: "Yahyalı Ulu Cami"
+date: "2025-12-25T00:43:35+03:00"
 slug: "yahyali-ulu-cami"
 description: "## Yahyalı Ulu Cami: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Yahyalı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.360775766,38.098665846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahyalı Ulu Cami: Tarihi ve Kültürel Miras

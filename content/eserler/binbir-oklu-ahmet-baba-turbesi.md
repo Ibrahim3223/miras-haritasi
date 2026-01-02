@@ -1,18 +1,17 @@
 ---
-title: "Binbir Oklu Ahmet Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:37+03:00
+title: "Binbir Oklu Ahmet Baba Türbesi"
+date: "2025-12-25T15:28:37+03:00"
 slug: "binbir-oklu-ahmet-baba-turbesi"
 description: "### Binbir Oklu Ahmet Baba Türbesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.5697899,41.6273003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Binbir Oklu Ahmet Baba Türbesi

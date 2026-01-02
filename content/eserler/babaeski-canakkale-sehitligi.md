@@ -1,18 +1,17 @@
 ---
-title: "Babaeski Çanakkale Şehitliği | Miras Haritası"
-date: 2025-12-25T16:01:38+03:00
+title: "Babaeski Çanakkale Şehitliği"
+date: "2025-12-25T16:01:38+03:00"
 slug: "babaeski-canakkale-sehitligi"
 description: "## Babaeski Çanakkale Şehitliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.08938506,41.433288036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Babaeski Çanakkale Şehitliği

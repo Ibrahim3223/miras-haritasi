@@ -1,18 +1,17 @@
 ---
-title: "Kalos Agros | Miras Haritası"
-date: 2025-12-25T04:48:44+03:00
+title: "Kalos Agros"
+date: "2025-12-25T04:48:44+03:00"
 slug: "kalos-agros"
 description: "## Kalos Agros: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.036633,41.155348"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalos Agros: Antik Çağın Gizemi

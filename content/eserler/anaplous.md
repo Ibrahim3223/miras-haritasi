@@ -1,18 +1,17 @@
 ---
-title: "Anaplous | Miras Haritası"
-date: 2025-12-25T05:00:01+03:00
+title: "Anaplous"
+date: "2025-12-25T05:00:01+03:00"
 slug: "anaplous"
 description: "### Anaplous: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.043018,41.067883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Anaplous: Antik Çağın Gizemi

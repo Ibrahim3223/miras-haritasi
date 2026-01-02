@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ahmed Camii | Miras Haritası"
-date: 2025-12-24T22:21:45+03:00
+title: "Hacı Ahmed Camii"
+date: "2025-12-24T22:21:45+03:00"
 slug: "haci-ahmed-camii"
 description: "## Hacı Ahmed Camii: Beyoğlu'nun Gizli Cenneti..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Hacıahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.973833333,41.040861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ahmed Camii: Beyoğlu'nun Gizli Cenneti

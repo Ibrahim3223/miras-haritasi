@@ -1,18 +1,17 @@
 ---
-title: "Gümüşköy Roma Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:47+03:00
+title: "Gümüşköy Roma Hamamı"
+date: "2025-12-25T17:03:47+03:00"
 slug: "gumuskoy-roma-hamami"
 description: "## Gümüşköy Roma Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4848995,37.8606987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümüşköy Roma Hamamı

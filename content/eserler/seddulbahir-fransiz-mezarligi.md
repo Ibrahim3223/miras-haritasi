@@ -1,18 +1,17 @@
 ---
-title: "Seddülbahir Fransız Mezarlığı | Miras Haritası"
-date: 2025-12-25T16:05:24+03:00
+title: "Seddülbahir Fransız Mezarlığı"
+date: "2025-12-25T16:05:24+03:00"
 slug: "seddulbahir-fransiz-mezarligi"
 description: "## Seddülbahir Fransız Mezarlığı: Eceabat'taki Tarihî Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Morto_Bay_French_National_Cemetery.jpg/1200px-Morto_Bay_French_National_Cemetery.jpg"
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Seddülbahir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.211111111,40.0575"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Seddülbahir Fransız Mezarlığı: Eceabat'taki Tarihî Bir Anıt

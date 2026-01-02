@@ -1,18 +1,17 @@
 ---
-title: "Bozdağ Hamamı | Miras Haritası"
-date: 2025-12-25T16:59:11+03:00
+title: "Bozdağ Hamamı"
+date: "2025-12-25T16:59:11+03:00"
 slug: "bozdag-hamami"
 description: "# Bozdağ Hamamı: Ödemiş'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.0741005,38.3392982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bozdağ Hamamı: Ödemiş'in Tarihi Bir Mirası

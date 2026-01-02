@@ -1,18 +1,17 @@
 ---
-title: "Kalehisar Medresesi | Miras Haritası"
-date: 2025-12-25T17:35:06+03:00
+title: "Kalehisar Medresesi"
+date: "2025-12-25T17:35:06+03:00"
 slug: "kalehisar-medresesi"
 description: "### Kalehisar Medresesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "34.7132492,40.2678986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kalehisar Medresesi

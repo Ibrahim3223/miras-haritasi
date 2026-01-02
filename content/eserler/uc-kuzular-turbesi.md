@@ -1,18 +1,17 @@
 ---
-title: "Üç Kuzular Türbesi | Miras Haritası"
-date: 2025-12-25T14:14:56+03:00
+title: "Üç Kuzular Türbesi"
+date: "2025-12-25T14:14:56+03:00"
 slug: "uc-kuzular-turbesi"
 description: "## Üç Kuzular Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.056778,40.177104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üç Kuzular Türbesi

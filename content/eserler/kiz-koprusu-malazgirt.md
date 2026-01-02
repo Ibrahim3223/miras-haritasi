@@ -1,18 +1,17 @@
 ---
-title: "Kız Köprüsü, Malazgirt | Miras Haritası"
-date: 2025-12-25T02:45:26+03:00
+title: "Kız Köprüsü, Malazgirt"
+date: "2025-12-25T02:45:26+03:00"
 slug: "kiz-koprusu-malazgirt"
 description: "# Kız Köprüsü, Malazgirt..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Malazgirt"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.5479546,39.1300278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kız Köprüsü, Malazgirt

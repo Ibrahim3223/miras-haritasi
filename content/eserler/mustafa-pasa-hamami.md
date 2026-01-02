@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:27:13+03:00
+title: "Mustafa Paşa Hamamı"
+date: "2025-12-25T16:27:13+03:00"
 slug: "mustafa-pasa-hamami"
 description: "### Mustafa Paşa Hamamı: Tokat'ta Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.5461909,40.3163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mustafa Paşa Hamamı: Tokat'ta Bir Osmanlı Dönemi Eseri

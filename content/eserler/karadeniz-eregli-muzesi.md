@@ -1,18 +1,17 @@
 ---
-title: "Karadeniz Ereğli Müzesi | Miras Haritası"
-date: 2025-12-25T03:15:57+03:00
+title: "Karadeniz Ereğli Müzesi"
+date: "2025-12-25T03:15:57+03:00"
 slug: "karadeniz-eregli-muzesi"
 description: "## Karadeniz Ereğli Müzesi: Karadeniz'in En Güzel Müzeleri Arasındaki Bir Çanak..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Karadeniz Ereğli"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.418333333,41.280833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadeniz Ereğli Müzesi: Karadeniz'in En Güzel Müzeleri Arasındaki Bir Çanak

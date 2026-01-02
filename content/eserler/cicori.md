@@ -1,18 +1,17 @@
 ---
-title: "Cicori | Miras Haritası"
-date: 2025-12-25T08:56:23+03:00
+title: "Cicori"
+date: "2025-12-25T08:56:23+03:00"
 slug: "cicori"
 description: "# Cicori Kilisesi..."
 featured_image: ""
 province: "Göle"
-iller: ["Göle"]
+iller: '["Göle"]'
 district: "Budaklı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.535833333,40.960833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Cicori Kilisesi

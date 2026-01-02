@@ -1,18 +1,17 @@
 ---
-title: "Antalya Oyuncak Müzesi | Miras Haritası"
-date: 2025-12-25T03:09:44+03:00
+title: "Antalya Oyuncak Müzesi"
+date: "2025-12-25T03:09:44+03:00"
 slug: "antalya-oyuncak-muzesi"
 description: "## Antalya Oyuncak Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Antalya_Toy_Museum_feb_2015_5552.jpg/1200px-Antalya_Toy_Museum_feb_2015_5552.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.7022,36.885494"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Antalya Oyuncak Müzesi

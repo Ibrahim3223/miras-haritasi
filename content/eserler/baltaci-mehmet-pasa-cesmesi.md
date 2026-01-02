@@ -1,18 +1,17 @@
 ---
-title: "Baltacı Mehmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:15+03:00
+title: "Baltacı Mehmet Paşa Çeşmesi"
+date: "2025-12-25T10:15:15+03:00"
 slug: "baltaci-mehmet-pasa-cesmesi"
 description: "## Baltacı Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Osmancık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7984314,40.9727821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baltacı Mehmet Paşa Çeşmesi

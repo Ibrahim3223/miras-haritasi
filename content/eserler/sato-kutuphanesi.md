@@ -1,18 +1,17 @@
 ---
-title: "Şato Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:45:50+03:00
+title: "Şato Kütüphanesi"
+date: "2025-12-25T17:45:50+03:00"
 slug: "sato-kutuphanesi"
 description: "## Şato Kütüphanesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.125722222,38.413722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şato Kütüphanesi

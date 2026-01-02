@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Salih Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:07+03:00
+title: "Şeyh Salih Türbesi"
+date: "2025-12-25T14:45:07+03:00"
 slug: "seyh-salih-turbesi"
 description: "## Şeyh Salih Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.743689,37.310246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Salih Türbesi

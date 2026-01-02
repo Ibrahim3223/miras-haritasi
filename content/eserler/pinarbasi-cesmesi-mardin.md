@@ -1,18 +1,17 @@
 ---
-title: "Pınarbaşı Çeşmesi, Mardin | Miras Haritası"
-date: 2025-12-25T12:26:30+03:00
+title: "Pınarbaşı Çeşmesi, Mardin"
+date: "2025-12-25T12:26:30+03:00"
 slug: "pinarbasi-cesmesi-mardin"
 description: "## Pınarbaşı Çeşmesi: Mardin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.745944,37.314914"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pınarbaşı Çeşmesi: Mardin'in Tarihi ve Kültürel Mirası

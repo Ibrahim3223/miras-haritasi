@@ -1,18 +1,17 @@
 ---
-title: "Muhammed Kattali Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:13+03:00
+title: "Muhammed Kattali Türbesi"
+date: "2025-12-25T14:19:13+03:00"
 slug: "muhammed-kattali-turbesi"
 description: "### Muhammed Kattali Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Maden"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.614771,38.566466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muhammed Kattali Türbesi

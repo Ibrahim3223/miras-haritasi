@@ -1,18 +1,17 @@
 ---
-title: "Erturan Evi Çeşmesi, Battalgazi | Miras Haritası"
-date: 2025-12-25T12:27:54+03:00
+title: "Erturan Evi Çeşmesi, Battalgazi"
+date: "2025-12-25T12:27:54+03:00"
 slug: "erturan-evi-cesmesi-battalgazi"
 description: "### Erturan Evi Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.369489311,38.418906702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Erturan Evi Çeşmesi

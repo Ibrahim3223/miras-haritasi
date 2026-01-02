@@ -1,18 +1,17 @@
 ---
-title: "Merkez Efendi Ayazması | Miras Haritası"
-date: 2025-12-25T12:41:49+03:00
+title: "Merkez Efendi Ayazması"
+date: "2025-12-25T12:41:49+03:00"
 slug: "merkez-efendi-ayazmasi"
 description: "### Merkez Efendi Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9203014,41.0159874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Merkez Efendi Ayazması

@@ -1,18 +1,17 @@
 ---
-title: "Zülali Camii | Miras Haritası"
-date: 2025-12-24T23:48:28+03:00
+title: "Zülali Camii"
+date: "2025-12-24T23:48:28+03:00"
 slug: "zulali-camii"
 description: "## Zülali Camii: Afyonkarahisar'ın Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5377884,38.756218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zülali Camii: Afyonkarahisar'ın Tarihî Mirası

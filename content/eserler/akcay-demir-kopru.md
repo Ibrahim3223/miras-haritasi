@@ -1,18 +1,17 @@
 ---
-title: "Akçay Demir Köprü | Miras Haritası"
-date: 2025-12-25T02:19:13+03:00
+title: "Akçay Demir Köprü"
+date: "2025-12-25T02:19:13+03:00"
 slug: "akcay-demir-kopru"
 description: "## Akçay Demir Köprü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.4424877,37.6197815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçay Demir Köprü

@@ -1,18 +1,17 @@
 ---
-title: "Pamukçular Kalesi, Yusufeli | Miras Haritası"
-date: 2025-12-25T01:38:18+03:00
+title: "Pamukçular Kalesi, Yusufeli"
+date: "2025-12-25T01:38:18+03:00"
 slug: "pamukcular-kalesi-yusufeli"
 description: "### Pamukçular Kalesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.8395767,40.7849388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pamukçular Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "Kırklar Tekkesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:59+03:00
+title: "Kırklar Tekkesi Çeşmesi"
+date: "2025-12-25T10:56:59+03:00"
 slug: "kirklar-tekkesi-cesmesi"
 description: "# Kırklar Tekkesi Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.510006,40.9819336"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kırklar Tekkesi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayvalık Çeşme | Miras Haritası"
-date: 2025-12-25T11:24:19+03:00
+title: "Ayvalık Çeşme"
+date: "2025-12-25T11:24:19+03:00"
 slug: "ayvalik-cesme"
 description: "## Ayvalık Çeşme: Ayvalık'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6952686,39.3186798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayvalık Çeşme: Ayvalık'ın Tarihî ve Kültürel Mirası

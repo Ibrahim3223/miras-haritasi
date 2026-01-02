@@ -1,18 +1,17 @@
 ---
-title: "Yedi Kızlar Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:48+03:00
+title: "Yedi Kızlar Türbesi"
+date: "2025-12-25T14:24:48+03:00"
 slug: "yedi-kizlar-turbesi"
 description: "### Yedi Kızlar Türbesi: Manisa'nın Ölümsüz Kahramanları..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4235497,38.6062889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yedi Kızlar Türbesi: Manisa'nın Ölümsüz Kahramanları

@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Çağdaş Sanatlar Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:32+03:00
+title: "Eskişehir Çağdaş Sanatlar Müzesi"
+date: "2025-12-25T03:58:32+03:00"
 slug: "eskisehir-cagdas-sanatlar-muzesi"
 description: "## Eskişehir Çağdaş Sanatlar Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.497401,39.790469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir Çağdaş Sanatlar Müzesi

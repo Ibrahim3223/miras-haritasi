@@ -1,18 +1,17 @@
 ---
-title: "Timbrias | Miras Haritası"
-date: 2025-12-25T04:28:13+03:00
+title: "Timbrias"
+date: "2025-12-25T04:28:13+03:00"
 slug: "timbrias"
 description: "## Timbrias Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.02,37.82"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Timbrias Arkeolojik Sitesi

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Eğitim Müzesi | Miras Haritası"
-date: 2025-12-25T03:33:01+03:00
+title: "Atatürk Eğitim Müzesi"
+date: "2025-12-25T03:33:01+03:00"
 slug: "ataturk-egitim-muzesi"
 description: "## Atatürk Eğitim Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.825964,39.937196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Eğitim Müzesi

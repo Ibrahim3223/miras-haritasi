@@ -1,18 +1,17 @@
 ---
-title: "Çandır Küçük Höyük | Miras Haritası"
-date: 2025-12-25T05:53:58+03:00
+title: "Çandır Küçük Höyük"
+date: "2025-12-25T05:53:58+03:00"
 slug: "candir-kucuk-hoyuk"
 description: "## Çandır Küçük Höyük: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.98815,38.183383"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çandır Küçük Höyük: Denizli'nin Gizli Cenneti

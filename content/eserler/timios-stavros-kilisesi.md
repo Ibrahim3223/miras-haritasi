@@ -1,18 +1,17 @@
 ---
-title: "Timios Stavros Kilisesi | Miras Haritası"
-date: 2025-12-25T09:14:12+03:00
+title: "Timios Stavros Kilisesi"
+date: "2025-12-25T09:14:12+03:00"
 slug: "timios-stavros-kilisesi"
 description: "## Timios Stavros Kilisesi: Gümüşhane'nin Gizli Cenneti..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.456332,40.451289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Timios Stavros Kilisesi: Gümüşhane'nin Gizli Cenneti

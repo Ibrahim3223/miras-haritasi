@@ -1,18 +1,17 @@
 ---
-title: "Ünalan Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:15:10+03:00
+title: "Ünalan Mahallesi Kilisesi"
+date: "2025-12-25T09:15:10+03:00"
 slug: "unalan-mahallesi-kilisesi"
 description: "## Ünalan Mahallesi Kilisesi: Gümüşhane'nin Gizli Cenneti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.131281,40.565244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ünalan Mahallesi Kilisesi: Gümüşhane'nin Gizli Cenneti

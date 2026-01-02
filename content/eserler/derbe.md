@@ -1,18 +1,18 @@
 ---
-title: "Derbe | Miras Haritası"
-date: 2025-12-25T06:13:21+03:00
+title: "Derbe"
+date: "2025-12-25T06:13:21+03:00"
 slug: "derbe"
 description: "## Derbe: Karaman'ın Tarihi ve Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/DAVIS(1879)_p329_SITE_OF_DERBE,_KARAJH_DAGH_MOUNTAINS_IN_THE_DISTANCE.jpg/1200px-DAVIS(1879)_p329_SITE_OF_DERBE,_KARAJH_DAGH_MOUNTAINS_IN_THE_DISTANCE.jpg"
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.3617,37.3492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/DAVIS(1879)_p329_SITE_OF_DERBE,_KARAJH_DAGH_MOUNTAINS_IN_THE_DISTANCE.jpg/1200px-DAVIS(1879)_p329_SITE_OF_DERBE,_KARAJH_DAGH_MOUNTAINS_IN_THE_DISTANCE.jpg"
 ---
 
 ## Derbe: Karaman'ın Tarihi ve Kültürel Mirası

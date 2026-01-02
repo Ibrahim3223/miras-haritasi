@@ -1,18 +1,17 @@
 ---
-title: "Ballıkaya Tümülüsü, Hekimhan | Miras Haritası"
-date: 2025-12-25T07:43:09+03:00
+title: "Ballıkaya Tümülüsü, Hekimhan"
+date: "2025-12-25T07:43:09+03:00"
 slug: "ballikaya-tumulusu-hekimhan"
 description: "### Ballıkaya Tümülüsü: Hekimhan'ın Gizemli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1384621,38.843338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ballıkaya Tümülüsü: Hekimhan'ın Gizemli Mirası

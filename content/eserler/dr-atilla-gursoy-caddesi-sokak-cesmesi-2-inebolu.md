@@ -1,18 +1,17 @@
 ---
-title: "Dr. Atilla Gürsoy Caddesi Sokak Çeşmesi 2, İnebolu | Miras Haritası"
-date: 2025-12-25T12:58:19+03:00
+title: "Dr. Atilla Gürsoy Caddesi Sokak Çeşmesi 2, İnebolu"
+date: "2025-12-25T12:58:19+03:00"
 slug: "dr-atilla-gursoy-caddesi-sokak-cesmesi-2-inebolu"
 description: "### Dr. Atilla Gürsoy Sokak Çeşmesi 2: İnebolu'nun Gizli Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.763663637,41.974748981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dr. Atilla Gürsoy Sokak Çeşmesi 2: İnebolu'nun Gizli Çeşmesi

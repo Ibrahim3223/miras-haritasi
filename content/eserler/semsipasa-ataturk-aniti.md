@@ -1,18 +1,17 @@
 ---
-title: "Şemsipaşa Atatürk Anıtı | Miras Haritası"
-date: 2025-12-25T15:54:42+03:00
+title: "Şemsipaşa Atatürk Anıtı"
+date: "2025-12-25T15:54:42+03:00"
 slug: "semsipasa-ataturk-aniti"
 description: "## Şemsipaşa Atatürk Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0091152,41.025219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şemsipaşa Atatürk Anıtı

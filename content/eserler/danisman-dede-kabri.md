@@ -1,18 +1,17 @@
 ---
-title: "Danışman Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:28:55+03:00
+title: "Danışman Dede Kabri"
+date: "2025-12-25T13:28:55+03:00"
 slug: "danisman-dede-kabri"
 description: "# Danışman Dede Kabri: Silivri'nin Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.2439995,41.0736237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Danışman Dede Kabri: Silivri'nin Gizli Anıtı

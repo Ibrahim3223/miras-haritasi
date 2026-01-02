@@ -1,18 +1,17 @@
 ---
-title: "Akören Kara Hasan Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:58:30+03:00
+title: "Akören Kara Hasan Tümülüsü"
+date: "2025-12-25T07:58:30+03:00"
 slug: "akoren-kara-hasan-tumulusu"
 description: "### Akören Kara Hasan Tümülüsü ..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5634327,41.7070236"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akören Kara Hasan Tümülüsü 

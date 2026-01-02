@@ -1,18 +1,17 @@
 ---
-title: "Lidar Höyük | Miras Haritası"
-date: 2025-12-25T06:55:53+03:00
+title: "Lidar Höyük"
+date: "2025-12-25T06:55:53+03:00"
 slug: "lidar-hoyuk"
 description: "### Lidar Höyük: Eski Çağın Gizli Şehirleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Urfa_museum_Lidar_cemetery_-_Bronze_age_4855_02.jpg/1200px-Urfa_museum_Lidar_cemetery_-_Bronze_age_4855_02.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.600333,37.562283"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Lidar Höyük: Eski Çağın Gizli Şehirleri

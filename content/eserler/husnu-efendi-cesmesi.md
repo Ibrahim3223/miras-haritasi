@@ -1,18 +1,17 @@
 ---
-title: "Hüsnü Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:19:20+03:00
+title: "Hüsnü Efendi Çeşmesi"
+date: "2025-12-25T10:19:20+03:00"
 slug: "husnu-efendi-cesmesi"
 description: "## Hüsnü Efendi Çeşmesi: Trabzon'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Akçaabat"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.5623245,41.0197411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsnü Efendi Çeşmesi: Trabzon'un Gizli Çeşmesi

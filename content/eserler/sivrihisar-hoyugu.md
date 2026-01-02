@@ -1,18 +1,17 @@
 ---
-title: "Sivrihisar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:39:47+03:00
+title: "Sivrihisar Höyüğü"
+date: "2025-12-25T06:39:47+03:00"
 slug: "sivrihisar-hoyugu"
 description: "# Sivrihisar Höyüğü..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.539555193,39.43974974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sivrihisar Höyüğü

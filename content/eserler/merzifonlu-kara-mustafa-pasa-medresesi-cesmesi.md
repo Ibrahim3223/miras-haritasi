@@ -1,18 +1,17 @@
 ---
-title: "Merzifonlu Kara Mustafa Paşa Medresesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:10:09+03:00
+title: "Merzifonlu Kara Mustafa Paşa Medresesi Çeşmesi"
+date: "2025-12-25T12:10:09+03:00"
 slug: "merzifonlu-kara-mustafa-pasa-medresesi-cesmesi"
 description: "### Merzifonlu Kara Mustafa Paşa Medresesi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mimar Hayrettin"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9677272,41.0085161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Merzifonlu Kara Mustafa Paşa Medresesi Çeşmesi

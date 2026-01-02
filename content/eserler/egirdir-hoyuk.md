@@ -1,18 +1,17 @@
 ---
-title: "Eğirdir Höyük | Miras Haritası"
-date: 2025-12-25T05:32:54+03:00
+title: "Eğirdir Höyük"
+date: "2025-12-25T05:32:54+03:00"
 slug: "egirdir-hoyuk"
 description: "## Eğirdir Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.819083,37.889583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eğirdir Höyük: Tarihî Bir Mirasın İzleri

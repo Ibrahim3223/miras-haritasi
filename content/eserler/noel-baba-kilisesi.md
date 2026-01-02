@@ -1,18 +1,17 @@
 ---
-title: "Noel Baba Kilisesi | Miras Haritası"
-date: 2025-12-25T03:14:32+03:00
+title: "Noel Baba Kilisesi"
+date: "2025-12-25T03:14:32+03:00"
 slug: "noel-baba-kilisesi"
 description: "## Noel Baba Kilisesi: Demre'nin Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Myra_St.Nikolas-Church_20240930_123237.jpg/1200px-Myra_St.Nikolas-Church_20240930_123237.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.985555555,36.244722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Noel Baba Kilisesi: Demre'nin Gizli Çehresini Keşfetmek

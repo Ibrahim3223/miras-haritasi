@@ -1,18 +1,17 @@
 ---
-title: "Veled-i Vezir Camii | Miras Haritası"
-date: 2025-12-24T23:17:21+03:00
+title: "Veled-i Vezir Camii"
+date: "2025-12-24T23:17:21+03:00"
 slug: "veled-i-vezir-camii"
 description: "## Veled-i Vezir Camii: Bursa'nın Gizli Çehresini keşfedin..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0583553,40.1820412"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veled-i Vezir Camii: Bursa'nın Gizli Çehresini keşfedin

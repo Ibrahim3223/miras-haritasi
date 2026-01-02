@@ -1,18 +1,17 @@
 ---
-title: "Çukur Çeşme 2 | Miras Haritası"
-date: 2025-12-25T11:24:23+03:00
+title: "Çukur Çeşme 2"
+date: "2025-12-25T11:24:23+03:00"
 slug: "cukur-cesme-2"
 description: "## Çukur Çeşme 2..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6489429,38.5476952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukur Çeşme 2

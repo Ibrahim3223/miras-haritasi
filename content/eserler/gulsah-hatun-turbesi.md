@@ -1,18 +1,17 @@
 ---
-title: "Gülşah Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:09:44+03:00
+title: "Gülşah Hatun Türbesi"
+date: "2025-12-25T15:09:44+03:00"
 slug: "gulsah-hatun-turbesi"
 description: "## Gülşah Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/GÜLŞAH_HATUN_TÜRBESİ_FATİHİN_ZEVCESİ_KÜNDEKARİ_KAPISI_-_panoramio_(6).jpg/1200px-GÜLŞAH_HATUN_TÜRBESİ_FATİHİN_ZEVCESİ_KÜNDEKARİ_KAPISI_-_panoramio_(6).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.045621,40.190224"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gülşah Hatun Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs T35 – KY | Miras Haritası"
-date: 2025-12-25T07:55:12+03:00
+title: "Gordion Tümülüs T35 – KY"
+date: "2025-12-25T07:55:12+03:00"
 slug: "gordion-tumulus-t35-ky"
 description: "### Gordion Tümülüs T35 – KY: Ankara'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.99391,39.652786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gordion Tümülüs T35 – KY: Ankara'nın Gizli Kahramanı

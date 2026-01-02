@@ -1,18 +1,17 @@
 ---
-title: "Dabakhane Camii | Miras Haritası"
-date: 2025-12-24T22:33:12+03:00
+title: "Dabakhane Camii"
+date: "2025-12-24T22:33:12+03:00"
 slug: "dabakhane-camii"
 description: "### Dabakhane Camii: Şanlıurfa'nın Gizli Çehresinde Bir İmparatorluk Örneği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7913399,37.148037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dabakhane Camii: Şanlıurfa'nın Gizli Çehresinde Bir İmparatorluk Örneği

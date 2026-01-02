@@ -1,18 +1,17 @@
 ---
-title: "Paşam Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:10+03:00
+title: "Paşam Sultan Türbesi"
+date: "2025-12-25T14:25:10+03:00"
 slug: "pasam-sultan-turbesi"
 description: "### Paşam Sultan Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9751339,39.4182472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Paşam Sultan Türbesi

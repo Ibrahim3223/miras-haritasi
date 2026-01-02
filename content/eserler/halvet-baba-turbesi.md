@@ -1,18 +1,17 @@
 ---
-title: "Halvet Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:36+03:00
+title: "Halvet Baba Türbesi"
+date: "2025-12-25T14:56:36+03:00"
 slug: "halvet-baba-turbesi"
 description: "## Halvet Baba Türbesi: Diyarbakır'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2416763,37.9143257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halvet Baba Türbesi: Diyarbakır'ın Tarihi Bir Anıtı

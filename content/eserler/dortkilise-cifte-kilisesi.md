@@ -1,18 +1,17 @@
 ---
-title: "Dörtkilise Çifte Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:26+03:00
+title: "Dörtkilise Çifte Kilisesi"
+date: "2025-12-25T09:02:26+03:00"
 slug: "dortkilise-cifte-kilisesi"
 description: "## Dörtkilise Çifte Kilisesi: Göle'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Göle"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.463241666,40.932458333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dörtkilise Çifte Kilisesi: Göle'nin Tarihi ve Kültürel Mirası

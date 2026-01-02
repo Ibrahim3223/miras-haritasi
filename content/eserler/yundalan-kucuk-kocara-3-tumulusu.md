@@ -1,18 +1,17 @@
 ---
-title: "Yündalan Küçük Koçara 3 Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:14:58+03:00
+title: "Yündalan Küçük Koçara 3 Tümülüsü"
+date: "2025-12-25T08:14:58+03:00"
 slug: "yundalan-kucuk-kocara-3-tumulusu"
 description: "# Yündalan Küçük Koçara 3 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.342329,41.7545967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yündalan Küçük Koçara 3 Tümülüsü

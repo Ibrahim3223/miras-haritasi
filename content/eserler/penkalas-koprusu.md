@@ -1,18 +1,17 @@
 ---
-title: "Penkalas Köprüsü | Miras Haritası"
-date: 2025-12-25T01:55:32+03:00
+title: "Penkalas Köprüsü"
+date: "2025-12-25T01:55:32+03:00"
 slug: "penkalas-koprusu"
 description: "### Penkalas Köprüsü: Çavdarhisar'ın Tarihi Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AizanoiBrücke.jpg/1200px-AizanoiBrücke.jpg"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Çavdarhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.6123,39.20076"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Penkalas Köprüsü: Çavdarhisar'ın Tarihi Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "St.Jean Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:10+03:00
+title: "St.Jean Ortodoks Kilisesi"
+date: "2025-12-25T09:23:10+03:00"
 slug: "stjean-ortodoks-kilisesi"
 description: "## St. Jean Ortodoks Kilisesi: Manisa'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.4331512,38.6178513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## St. Jean Ortodoks Kilisesi: Manisa'nın Gizli Çehresini Keşfetmek

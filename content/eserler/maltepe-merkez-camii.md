@@ -1,18 +1,17 @@
 ---
-title: "Maltepe Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:11:25+03:00
+title: "Maltepe Merkez Camii"
+date: "2025-12-25T00:11:25+03:00"
 slug: "maltepe-merkez-camii"
 description: "## Maltepe Merkez Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1305714,40.9245453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltepe Merkez Camii

@@ -1,18 +1,17 @@
 ---
-title: "Osman Hamdi Bey Müzesi | Miras Haritası"
-date: 2025-12-25T03:36:28+03:00
+title: "Osman Hamdi Bey Müzesi"
+date: "2025-12-25T03:36:28+03:00"
 slug: "osman-hamdi-bey-muzesi"
 description: "## Osman Hamdi Bey Müzesi: Tarihi ve Kültürel Mirası Tanımlamak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Osman_hamdi_bey_müze_evi_(1)_03.jpg/1200px-Osman_hamdi_bey_müze_evi_(1)_03.jpg"
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.426793,40.769354"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Osman Hamdi Bey Müzesi: Tarihi ve Kültürel Mirası Tanımlamak

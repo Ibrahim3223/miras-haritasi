@@ -1,18 +1,17 @@
 ---
-title: "Nikopolis (Kilikya) | Miras Haritası"
-date: 2025-12-25T05:10:04+03:00
+title: "Nikopolis (Kilikya)"
+date: "2025-12-25T05:10:04+03:00"
 slug: "nikopolis-kilikya"
 description: "### Nikopolis (Kilikya)..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "İslahiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.633389,37.027158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nikopolis (Kilikya)

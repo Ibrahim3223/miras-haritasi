@@ -1,18 +1,17 @@
 ---
-title: "Çayırlık Höyük | Miras Haritası"
-date: 2025-12-25T13:45:50+03:00
+title: "Çayırlık Höyük"
+date: "2025-12-25T13:45:50+03:00"
 slug: "cayirlik-hoyuk"
 description: "## Çayırlık Höyük: Boğazlıyan'ın Gizli Anıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.2093228,39.3364633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayırlık Höyük: Boğazlıyan'ın Gizli Anıtı

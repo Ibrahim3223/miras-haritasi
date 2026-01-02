@@ -1,18 +1,17 @@
 ---
-title: "Palamutluk Köprüsü | Miras Haritası"
-date: 2025-12-25T03:03:51+03:00
+title: "Palamutluk Köprüsü"
+date: "2025-12-25T03:03:51+03:00"
 slug: "palamutluk-koprusu"
 description: "### Palamutluk Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.4155998,38.3182755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Palamutluk Köprüsü

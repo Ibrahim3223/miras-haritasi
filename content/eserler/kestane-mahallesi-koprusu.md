@@ -1,18 +1,17 @@
 ---
-title: "Kestane Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:32+03:00
+title: "Kestane Mahallesi Köprüsü"
+date: "2025-12-25T02:35:32+03:00"
 slug: "kestane-mahallesi-koprusu"
 description: "## Kestane Mahallesi Köprüsü..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Gülyalı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.06558,40.917619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kestane Mahallesi Köprüsü

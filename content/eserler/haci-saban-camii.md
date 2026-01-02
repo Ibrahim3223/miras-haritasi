@@ -1,18 +1,17 @@
 ---
-title: "Hacı Şaban Camii | Miras Haritası"
-date: 2025-12-24T22:56:09+03:00
+title: "Hacı Şaban Camii"
+date: "2025-12-24T22:56:09+03:00"
 slug: "haci-saban-camii"
 description: "## Hacı Şaban Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9528694,41.0439987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Şaban Camii: İstanbul'un Gizli Cenneti

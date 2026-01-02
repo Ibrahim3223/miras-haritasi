@@ -1,18 +1,17 @@
 ---
-title: "Barlaham Manastırı | Miras Haritası"
-date: 2025-12-25T08:45:40+03:00
+title: "Barlaham Manastırı"
+date: "2025-12-25T08:45:40+03:00"
 slug: "barlaham-manastiri"
 description: "## Barlaham Manastırı..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Yayladağı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.9933,35.9478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Barlaham Manastırı

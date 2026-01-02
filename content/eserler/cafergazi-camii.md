@@ -1,18 +1,17 @@
 ---
-title: "Cafergazi Camii | Miras Haritası"
-date: 2025-12-24T22:27:01+03:00
+title: "Cafergazi Camii"
+date: "2025-12-24T22:27:01+03:00"
 slug: "cafergazi-camii"
 description: "## Cafergazi Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.4657249,40.7382431"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cafergazi Camii Tanıtımı

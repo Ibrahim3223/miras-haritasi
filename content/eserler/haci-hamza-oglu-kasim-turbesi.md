@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hamza Oğlu Kasım Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:30+03:00
+title: "Hacı Hamza Oğlu Kasım Türbesi"
+date: "2025-12-25T15:18:30+03:00"
 slug: "haci-hamza-oglu-kasim-turbesi"
 description: "## Hacı Hamza Oğlu Kasım Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.6578,40.6957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hamza Oğlu Kasım Türbesi

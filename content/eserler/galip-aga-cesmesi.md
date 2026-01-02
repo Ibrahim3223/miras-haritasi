@@ -1,18 +1,17 @@
 ---
-title: "Galip Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:49:32+03:00
+title: "Galip Ağa Çeşmesi"
+date: "2025-12-25T10:49:32+03:00"
 slug: "galip-aga-cesmesi"
 description: "## Galip Ağa Çeşmesi: Darıca'nın Tarihi Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Darıca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.383707,40.7588272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Galip Ağa Çeşmesi: Darıca'nın Tarihi Çeşmesi

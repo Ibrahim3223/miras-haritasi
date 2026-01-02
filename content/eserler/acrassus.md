@@ -1,18 +1,17 @@
 ---
-title: "Acrassus | Miras Haritası"
-date: 2025-12-25T05:21:07+03:00
+title: "Acrassus"
+date: "2025-12-25T05:21:07+03:00"
 slug: "acrassus"
 description: "## Acrassus: Antik Çağın Gizemli Kenti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acrassus: Antik Çağın Gizemli Kenti

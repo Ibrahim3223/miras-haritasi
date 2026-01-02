@@ -1,18 +1,17 @@
 ---
-title: "Abaza Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:14:30+03:00
+title: "Abaza Çeşmesi"
+date: "2025-12-25T10:14:30+03:00"
 slug: "abaza-cesmesi"
 description: "## Abaza Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9586067,40.5480804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abaza Çeşmesi

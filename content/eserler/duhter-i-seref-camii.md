@@ -1,18 +1,17 @@
 ---
-title: "Duhter-i Şeref Camii | Miras Haritası"
-date: 2025-12-24T22:35:14+03:00
+title: "Duhter-i Şeref Camii"
+date: "2025-12-24T22:35:14+03:00"
 slug: "duhter-i-seref-camii"
 description: "**Duhter-i Şeref Camii: Bursa'nın Gizli Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Duhter-i_şeref_camii_bursa_-_panoramio_(1).jpg/1200px-Duhter-i_şeref_camii_bursa_-_panoramio_(1).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.059906,40.1817398"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Duhter-i Şeref Camii: Bursa'nın Gizli Çeşmesi**

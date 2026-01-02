@@ -1,18 +1,17 @@
 ---
-title: "Karyağdı Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:30:25+03:00
+title: "Karyağdı Baba Kabri"
+date: "2025-12-25T13:30:25+03:00"
 slug: "karyagdi-baba-kabri"
 description: "## Karyağdı Baba Kabri: Eyüpsultan'daki Bir Anıtın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.933904669,41.054854431"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karyağdı Baba Kabri: Eyüpsultan'daki Bir Anıtın Gizemi

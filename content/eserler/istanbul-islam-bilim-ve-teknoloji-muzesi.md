@@ -1,18 +1,17 @@
 ---
-title: "İstanbul İslam, Bilim ve Teknoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:15:07+03:00
+title: "İstanbul İslam, Bilim ve Teknoloji Müzesi"
+date: "2025-12-25T03:15:07+03:00"
 slug: "istanbul-islam-bilim-ve-teknoloji-muzesi"
 description: "### İstanbul İslam, Bilim ve Teknoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Istanbul_Museum_of_The_History_of_Science_and_Technology_in_Islam.jpg/1200px-Istanbul_Museum_of_The_History_of_Science_and_Technology_in_Islam.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9796,41.0138"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İstanbul İslam, Bilim ve Teknoloji Müzesi

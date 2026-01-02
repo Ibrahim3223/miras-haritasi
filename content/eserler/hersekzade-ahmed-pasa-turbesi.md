@@ -1,18 +1,17 @@
 ---
-title: "Hersekzade Ahmed Paşa Türbesi | Miras Haritası"
-date: 2025-12-24T23:35:02+03:00
+title: "Hersekzade Ahmed Paşa Türbesi"
+date: "2025-12-24T23:35:02+03:00"
 slug: "hersekzade-ahmed-pasa-turbesi"
 description: "## Hersekzade Ahmed Paşa Türbesi..."
 featured_image: ""
 province: "Altınova"
-iller: ["Altınova"]
+iller: '["Altınova"]'
 district: "Hersek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.504591,40.7231789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hersekzade Ahmed Paşa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Erzen | Miras Haritası"
-date: 2025-12-25T06:58:35+03:00
+title: "Erzen"
+date: "2025-12-25T06:58:35+03:00"
 slug: "erzen"
 description: "## Erzen: Siirt'te Gizli bir Tarih..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Travels_in_Kurdistan_-_1._Plan_of_the_Ruins_of_Arzen_(Emporium_Arzanenorum).png/1200px-Travels_in_Kurdistan_-_1._Plan_of_the_Ruins_of_Arzen_(Emporium_Arzanenorum).png"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Siirt"
+province: "Siirt"
+iller: '["Siirt"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.3842642,37.9777203"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Erzen: Siirt'te Gizli bir Tarih

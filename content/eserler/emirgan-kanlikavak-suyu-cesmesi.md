@@ -1,18 +1,17 @@
 ---
-title: "Emirgan Kanlıkavak Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:25+03:00
+title: "Emirgan Kanlıkavak Suyu Çeşmesi"
+date: "2025-12-25T11:15:25+03:00"
 slug: "emirgan-kanlikavak-suyu-cesmesi"
 description: "## Emirgan Kanlıkavak Suyu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.053721,41.099295"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emirgan Kanlıkavak Suyu Çeşmesi

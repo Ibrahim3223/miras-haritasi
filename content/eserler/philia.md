@@ -1,18 +1,17 @@
 ---
-title: "Philia | Miras Haritası"
-date: 2025-12-25T04:52:15+03:00
+title: "Philia"
+date: "2025-12-25T04:52:15+03:00"
 slug: "philia"
 description: "## Philia: Geçmişin Işığında Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.6766806,41.3381803"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Philia: Geçmişin Işığında Bir Arkeolojik Sit

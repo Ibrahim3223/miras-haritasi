@@ -1,18 +1,17 @@
 ---
-title: "Hudra Manastırı | Miras Haritası"
-date: 2025-12-25T09:56:49+03:00
+title: "Hudra Manastırı"
+date: "2025-12-25T09:56:49+03:00"
 slug: "hudra-manastiri"
 description: "# Hudra Manastırı..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "39.479229,40.4395218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hudra Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Ağa Çeşmesi, İncirköy | Miras Haritası"
-date: 2025-12-25T12:15:14+03:00
+title: "Mustafa Ağa Çeşmesi, İncirköy"
+date: "2025-12-25T12:15:14+03:00"
 slug: "mustafa-aga-cesmesi-incirkoy"
 description: "## Mustafa Ağa Çeşmesi, İncirköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mustafa_Ağa_Çeşmesi2,_İncirköy,_Beykoz,_İstanbul_2025.jpg/1200px-Mustafa_Ağa_Çeşmesi2,_İncirköy,_Beykoz,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.098856,41.118046"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mustafa Ağa Çeşmesi, İncirköy

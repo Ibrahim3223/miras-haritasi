@@ -1,18 +1,17 @@
 ---
-title: "Haseki Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:16+03:00
+title: "Haseki Hamamı"
+date: "2025-12-25T16:25:16+03:00"
 slug: "haseki-hamami"
 description: "## Haseki Hamamı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bath_of_Roxelane_Istanbul_2007.jpg/1200px-Bath_of_Roxelane_Istanbul_2007.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.979088,41.007147"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Haseki Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

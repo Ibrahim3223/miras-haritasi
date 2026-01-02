@@ -1,18 +1,17 @@
 ---
-title: "Kapan Camii | Miras Haritası"
-date: 2025-12-25T00:05:13+03:00
+title: "Kapan Camii"
+date: "2025-12-25T00:05:13+03:00"
 slug: "kapan-camii"
 description: "## Kapan Camii: Kırklareli'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kirklareli_kapan_camii_01.jpg/1200px-Kirklareli_kapan_camii_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2253761,41.7341652"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kapan Camii: Kırklareli'nin Tarihi ve Kültürel Mirası

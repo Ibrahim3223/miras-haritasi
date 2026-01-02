@@ -1,18 +1,17 @@
 ---
-title: "Ziyarettepesi Höyüğü | Miras Haritası"
-date: 2025-12-25T06:37:55+03:00
+title: "Ziyarettepesi Höyüğü"
+date: "2025-12-25T06:37:55+03:00"
 slug: "ziyarettepesi-hoyugu"
 description: "## Ziyarettepesi Höyüğü: İmranlı'nın Gizli Anıtı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "İmranlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0620636,39.8815216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ziyarettepesi Höyüğü: İmranlı'nın Gizli Anıtı

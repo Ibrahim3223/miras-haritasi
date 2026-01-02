@@ -1,18 +1,17 @@
 ---
-title: "Arap Baba Mescidi ve Türbesi | Miras Haritası"
-date: 2025-12-24T23:24:17+03:00
+title: "Arap Baba Mescidi ve Türbesi"
+date: "2025-12-24T23:24:17+03:00"
 slug: "arap-baba-mescidi-ve-turbesi"
 description: "## Arap Baba Mescidi ve Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.252334,38.703781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arap Baba Mescidi ve Türbesi

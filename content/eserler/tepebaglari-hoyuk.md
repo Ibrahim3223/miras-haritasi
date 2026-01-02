@@ -1,18 +1,17 @@
 ---
-title: "Tepebağları Höyük | Miras Haritası"
-date: 2025-12-25T07:00:20+03:00
+title: "Tepebağları Höyük"
+date: "2025-12-25T07:00:20+03:00"
 slug: "tepebaglari-hoyuk"
 description: "**Tepebağları Höyük: Niğde'nin Gizli Anıtı**..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6345895,37.9591804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tepebağları Höyük: Niğde'nin Gizli Anıtı**

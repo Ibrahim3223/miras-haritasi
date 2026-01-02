@@ -1,18 +1,17 @@
 ---
-title: "Fethiye Kalesi | Miras Haritası"
-date: 2025-12-25T01:46:57+03:00
+title: "Fethiye Kalesi"
+date: "2025-12-25T01:46:57+03:00"
 slug: "fethiye-kalesi"
 description: "## Fethiye Kalesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.1134682,36.6187515"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fethiye Kalesi

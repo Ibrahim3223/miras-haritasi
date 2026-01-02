@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Su Kültürü Açık Teşhiri | Miras Haritası"
-date: 2025-12-25T13:03:15+03:00
+title: "Topkapı Sarayı Su Kültürü Açık Teşhiri"
+date: "2025-12-25T13:03:15+03:00"
 slug: "topkapi-sarayi-su-kulturu-acik-teshiri"
 description: "## Topkapı Sarayı Su Kültürü Açık Teşhiri: İstanbul'un Gizemli Çeşmesinde Bir Seyahat..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9829273,41.0108719"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Su Kültürü Açık Teşhiri: İstanbul'un Gizemli Çeşmesinde Bir Seyahat

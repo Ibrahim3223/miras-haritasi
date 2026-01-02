@@ -1,18 +1,17 @@
 ---
-title: "Glauke | Miras Haritası"
-date: 2025-12-25T04:54:29+03:00
+title: "Glauke"
+date: "2025-12-25T04:54:29+03:00"
 slug: "glauke"
 description: "### Glauke: Kuşadası'nın Antik Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0096,37.661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Glauke: Kuşadası'nın Antik Mirası

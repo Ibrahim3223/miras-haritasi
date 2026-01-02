@@ -1,18 +1,17 @@
 ---
-title: "Edirnekapı Aya Yorgi Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:03+03:00
+title: "Edirnekapı Aya Yorgi Kilisesi"
+date: "2025-12-25T08:51:03+03:00"
 slug: "edirnekapi-aya-yorgi-kilisesi"
 description: "## Edirnekapı Aya Yorgi Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Edirnekapı_Aya_Yorgi_Kilisesi_01.jpg/1200px-Edirnekapı_Aya_Yorgi_Kilisesi_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.93583333,41.03027778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Edirnekapı Aya Yorgi Kilisesi

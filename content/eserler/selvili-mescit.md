@@ -1,18 +1,17 @@
 ---
-title: "Selvili Mescit | Miras Haritası"
-date: 2025-12-24T22:41:17+03:00
+title: "Selvili Mescit"
+date: "2025-12-24T22:41:17+03:00"
 slug: "selvili-mescit"
 description: "### Selvili Mescit: İzmir'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1464882,38.4190216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selvili Mescit: İzmir'in Tarihî ve Kültürel Mirası

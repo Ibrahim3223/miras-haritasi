@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Camii Çeşmesi, Balıkesir | Miras Haritası"
-date: 2025-12-25T12:33:08+03:00
+title: "Yıldırım Camii Çeşmesi, Balıkesir"
+date: "2025-12-25T12:33:08+03:00"
 slug: "yildirim-camii-cesmesi-balikesir"
 description: "## Yıldırım Camii Çeşmesi, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.882812475,39.650310162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldırım Camii Çeşmesi, Balıkesir

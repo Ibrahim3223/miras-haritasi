@@ -1,18 +1,17 @@
 ---
-title: "Deniz ve Su Ürünleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:10+03:00
+title: "Deniz ve Su Ürünleri Müzesi"
+date: "2025-12-25T03:52:10+03:00"
 slug: "deniz-ve-su-urunleri-muzesi"
 description: "## Deniz ve Su Ürünleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.098641,41.125172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deniz ve Su Ürünleri Müzesi

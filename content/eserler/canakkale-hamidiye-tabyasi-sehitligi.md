@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Hamidiye Tabyası Şehitliği | Miras Haritası"
-date: 2025-12-25T16:02:44+03:00
+title: "Çanakkale Hamidiye Tabyası Şehitliği"
+date: "2025-12-25T16:02:44+03:00"
 slug: "canakkale-hamidiye-tabyasi-sehitligi"
 description: "## Çanakkale Hamidiye Tabyası Şehitliği..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.4063091,40.1338081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale Hamidiye Tabyası Şehitliği

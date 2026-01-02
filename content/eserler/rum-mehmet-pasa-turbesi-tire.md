@@ -1,18 +1,17 @@
 ---
-title: "Rum Mehmet Paşa Türbesi, Tire | Miras Haritası"
-date: 2025-12-25T13:53:58+03:00
+title: "Rum Mehmet Paşa Türbesi, Tire"
+date: "2025-12-25T13:53:58+03:00"
 slug: "rum-mehmet-pasa-turbesi-tire"
 description: "## Rum Mehmet Paşa Türbesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7506886,38.0829048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rum Mehmet Paşa Türbesi: Tarihi ve Kültürel Miras

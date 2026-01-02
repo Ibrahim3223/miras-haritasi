@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Alaçam | Miras Haritası"
-date: 2025-12-24T23:50:12+03:00
+title: "Çarşı Camii, Alaçam"
+date: "2025-12-24T23:50:12+03:00"
 slug: "carsi-camii-alacam"
 description: "## Çarşı Camii, Alaçam: Samsun'un Gözdesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Alaçam"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.596479,41.60681"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Alaçam: Samsun'un Gözdesi

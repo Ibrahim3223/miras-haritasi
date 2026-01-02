@@ -1,18 +1,17 @@
 ---
-title: "Pazar Camii, Şanlıurfa | Miras Haritası"
-date: 2025-12-25T01:08:41+03:00
+title: "Pazar Camii, Şanlıurfa"
+date: "2025-12-25T01:08:41+03:00"
 slug: "pazar-camii-sanliurfa"
 description: "## Pazar Camii: Şanlıurfa'nın Ölümsüz Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.790451,37.1487999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazar Camii: Şanlıurfa'nın Ölümsüz Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Esekapı Medresesi | Miras Haritası"
-date: 2025-12-25T17:29:58+03:00
+title: "Esekapı Medresesi"
+date: "2025-12-25T17:29:58+03:00"
 slug: "esekapi-medresesi"
 description: "# Esekapı Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.936498,41.004764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Esekapı Medresesi

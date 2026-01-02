@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Lübban Camii | Miras Haritası"
-date: 2025-12-25T00:41:09+03:00
+title: "Şeyh Lübban Camii"
+date: "2025-12-25T00:41:09+03:00"
 slug: "seyh-lubban-camii"
 description: "## Şeyh Lübban Camii: Mardin'in TarihSEL Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.747593,37.317453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Lübban Camii: Mardin'in TarihSEL Mirası

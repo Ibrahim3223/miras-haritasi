@@ -1,18 +1,17 @@
 ---
-title: "Pisilis | Miras Haritası"
-date: 2025-12-25T04:42:49+03:00
+title: "Pisilis"
+date: "2025-12-25T04:42:49+03:00"
 slug: "pisilis"
 description: "## Pisilis Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ortaca (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.697899,36.7030025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pisilis Arkeolojik Sit

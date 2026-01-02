@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmet Camii, Bilecik | Miras Haritası"
-date: 2025-12-24T23:57:52+03:00
+title: "Hacı Mehmet Camii, Bilecik"
+date: "2025-12-24T23:57:52+03:00"
 slug: "haci-mehmet-camii-bilecik"
 description: "## Hacı Mehmet Camii, Bilecik..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0043411,40.0890808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mehmet Camii, Bilecik

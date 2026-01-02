@@ -1,18 +1,17 @@
 ---
-title: "Sarma Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:05+03:00
+title: "Sarma Kalesi"
+date: "2025-12-25T01:37:05+03:00"
 slug: "sarma-kalesi"
 description: "### Sarma Kalesi: Göle'nin Tarihî Kalesi..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Göle"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.5957036,40.9119245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarma Kalesi: Göle'nin Tarihî Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "Suadiye Camii Sebili | Miras Haritası"
-date: 2025-12-25T13:05:52+03:00
+title: "Suadiye Camii Sebili"
+date: "2025-12-25T13:05:52+03:00"
 slug: "suadiye-camii-sebili"
 description: "### Suadiye Camii Sebili: Kadıköy'ün Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0797036,40.962306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Suadiye Camii Sebili: Kadıköy'ün Tarihi Bir Çeşmesi

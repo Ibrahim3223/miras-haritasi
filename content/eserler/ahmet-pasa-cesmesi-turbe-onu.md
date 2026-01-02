@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Paşa Çeşmesi, Türbe Önü | Miras Haritası"
-date: 2025-12-25T12:19:46+03:00
+title: "Ahmet Paşa Çeşmesi, Türbe Önü"
+date: "2025-12-25T12:19:46+03:00"
 slug: "ahmet-pasa-cesmesi-turbe-onu"
 description: "**Ahmet Paşa Çeşmesi, Türbe Önü**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9506092,41.0192947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ahmet Paşa Çeşmesi, Türbe Önü**

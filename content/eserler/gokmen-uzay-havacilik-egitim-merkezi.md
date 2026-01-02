@@ -1,18 +1,17 @@
 ---
-title: "Gökmen Uzay Havacılık Eğitim Merkezi | Miras Haritası"
-date: 2025-12-25T04:09:01+03:00
+title: "Gökmen Uzay Havacılık Eğitim Merkezi"
+date: "2025-12-25T04:09:01+03:00"
 slug: "gokmen-uzay-havacilik-egitim-merkezi"
 description: "## Gökmen Uzay Havacılık Eğitim Merkezi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Bursa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökmen Uzay Havacılık Eğitim Merkezi

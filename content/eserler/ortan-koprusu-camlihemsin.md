@@ -1,18 +1,17 @@
 ---
-title: "Ortan Köprüsü, Çamlıhemşin | Miras Haritası"
-date: 2025-12-25T02:56:04+03:00
+title: "Ortan Köprüsü, Çamlıhemşin"
+date: "2025-12-25T02:56:04+03:00"
 slug: "ortan-koprusu-camlihemsin"
 description: "## Ortan Köprüsü: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.013066,41.071275"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortan Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Çift Anıtlı Kutsal Alan | Miras Haritası"
-date: 2025-12-25T08:12:38+03:00
+title: "Çift Anıtlı Kutsal Alan"
+date: "2025-12-25T08:12:38+03:00"
 slug: "cift-anitli-kutsal-alan"
 description: "## Çift Anıtlı Kutsal Alan: İzmir'in Gizli Gölleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ephesus18.jpg/1200px-Ephesus18.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.344436714,37.936959116"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çift Anıtlı Kutsal Alan: İzmir'in Gizli Gölleri

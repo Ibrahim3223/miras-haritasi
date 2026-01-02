@@ -1,18 +1,17 @@
 ---
-title: "Mehdi Abbas Türbesi | Miras Haritası"
-date: 2025-12-25T13:55:44+03:00
+title: "Mehdi Abbas Türbesi"
+date: "2025-12-25T13:55:44+03:00"
 slug: "mehdi-abbas-turbesi"
 description: "## Mehdi Abbas Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2795067,39.9047813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehdi Abbas Türbesi

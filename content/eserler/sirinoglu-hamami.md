@@ -1,18 +1,17 @@
 ---
-title: "Şirinoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:46+03:00
+title: "Şirinoğlu Hamamı"
+date: "2025-12-25T17:02:46+03:00"
 slug: "sirinoglu-hamami"
 description: "## Şirinoğlu Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.0164032,39.7555122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şirinoğlu Hamamı

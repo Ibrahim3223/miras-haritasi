@@ -1,18 +1,17 @@
 ---
-title: "Harmankaşı Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:46:50+03:00
+title: "Harmankaşı Sokak Çeşmesi"
+date: "2025-12-25T10:46:50+03:00"
 slug: "harmankasi-sokak-cesmesi"
 description: "### Harmankaşı Sokak Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7770538,41.3856735"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Harmankaşı Sokak Çeşmesi

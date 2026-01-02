@@ -1,18 +1,17 @@
 ---
-title: "Arga Tepesi | Miras Haritası"
-date: 2025-12-25T06:06:53+03:00
+title: "Arga Tepesi"
+date: "2025-12-25T06:06:53+03:00"
 slug: "arga-tepesi"
 description: "## Arga Tepesi: Akçadağ'ın Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9720039,38.3456459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arga Tepesi: Akçadağ'ın Gizemli Arkeolojik Sit

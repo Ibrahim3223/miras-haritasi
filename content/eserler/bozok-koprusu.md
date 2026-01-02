@@ -1,18 +1,17 @@
 ---
-title: "Bozok Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:58+03:00
+title: "Bozok Köprüsü"
+date: "2025-12-25T02:09:58+03:00"
 slug: "bozok-koprusu"
 description: "## Bozok Köprüsü..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.79306,39.782743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozok Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Amasya Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:56:08+03:00
+title: "Amasya Ulu Camii"
+date: "2025-12-24T21:56:08+03:00"
 slug: "amasya-ulu-camii"
 description: "# Amasya Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amasya-Mosque-06.JPG/1200px-Amasya-Mosque-06.JPG"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8324,40.6501"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Amasya Ulu Camii

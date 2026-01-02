@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ayvaz Camii | Miras Haritası"
-date: 2025-12-24T23:25:05+03:00
+title: "Hacı Ayvaz Camii"
+date: "2025-12-24T23:25:05+03:00"
 slug: "haci-ayvaz-camii"
 description: "## Hacı Ayvaz Camii: Ankara'nın Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.863842,39.9348488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ayvaz Camii: Ankara'nın Tarihî Mirası

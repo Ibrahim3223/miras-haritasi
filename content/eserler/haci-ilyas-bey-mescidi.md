@@ -1,18 +1,17 @@
 ---
-title: "Hacı İlyas Bey Mescidi | Miras Haritası"
-date: 2025-12-25T00:49:53+03:00
+title: "Hacı İlyas Bey Mescidi"
+date: "2025-12-25T00:49:53+03:00"
 slug: "haci-ilyas-bey-mescidi"
 description: "## Hacı İlyas Bey Mescidi: Manisa'nın Güzeli..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.426096,38.6083527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı İlyas Bey Mescidi: Manisa'nın Güzeli

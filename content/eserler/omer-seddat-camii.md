@@ -1,18 +1,17 @@
 ---
-title: "Ömer Şeddat Camii | Miras Haritası"
-date: 2025-12-24T22:08:08+03:00
+title: "Ömer Şeddat Camii"
+date: "2025-12-24T22:08:08+03:00"
 slug: "omer-seddat-camii"
 description: "## Ömer Şeddat Camii: Diyarbakır'ın Eseri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.235504,37.90647"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömer Şeddat Camii: Diyarbakır'ın Eseri

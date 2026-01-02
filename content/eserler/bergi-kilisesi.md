@@ -1,18 +1,17 @@
 ---
-title: "Bergi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:49+03:00
+title: "Bergi Kilisesi"
+date: "2025-12-25T09:04:49+03:00"
 slug: "bergi-kilisesi"
 description: "## Bergi Kilisesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Hanak"
-iller: ["Hanak"]
+iller: '["Hanak"]'
 district: "Börk"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.967536111,41.20345"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bergi Kilisesi: Tarihi ve Kültürel Mirasın Bir Parçası

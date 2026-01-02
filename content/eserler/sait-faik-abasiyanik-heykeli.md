@@ -1,18 +1,17 @@
 ---
-title: "Sait Faik Abasıyanık Heykeli | Miras Haritası"
-date: 2025-12-25T16:08:52+03:00
+title: "Sait Faik Abasıyanık Heykeli"
+date: "2025-12-25T16:08:52+03:00"
 slug: "sait-faik-abasiyanik-heykeli"
 description: "## Sait Faik Abasıyanık Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0697479,40.8812523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sait Faik Abasıyanık Heykeli

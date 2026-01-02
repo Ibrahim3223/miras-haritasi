@@ -1,18 +1,17 @@
 ---
-title: "Hypaipa | Miras Haritası"
-date: 2025-12-25T04:27:25+03:00
+title: "Hypaipa"
+date: "2025-12-25T04:27:25+03:00"
 slug: "hypaipa"
 description: "### Hypaipa: Ödemiş'in Gizli Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.954166666,38.276111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hypaipa: Ödemiş'in Gizli Mirası

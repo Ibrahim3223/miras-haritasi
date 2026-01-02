@@ -1,18 +1,17 @@
 ---
-title: "Canfeda Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:48:51+03:00
+title: "Canfeda Hatun Camii"
+date: "2025-12-24T22:48:51+03:00"
 slug: "canfeda-hatun-camii"
 description: "## Canfeda Hatun Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Canfeda_Hatun_Mosque,_Karagümrük.jpg/1200px-Canfeda_Hatun_Mosque,_Karagümrük.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Derviş Ali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.941178,41.026421"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Canfeda Hatun Camii

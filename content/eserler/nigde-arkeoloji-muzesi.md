@@ -1,18 +1,17 @@
 ---
-title: "Niğde Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:09:13+03:00
+title: "Niğde Arkeoloji Müzesi"
+date: "2025-12-25T03:09:13+03:00"
 slug: "nigde-arkeoloji-muzesi"
 description: "## Niğde Arkeoloji Müzesi: Türkiye'nin Tarihi Efsanesini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NigdeMuseum1.jpg/1200px-NigdeMuseum1.jpg"
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.6725,37.96833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Niğde Arkeoloji Müzesi: Türkiye'nin Tarihi Efsanesini Keşfetmek

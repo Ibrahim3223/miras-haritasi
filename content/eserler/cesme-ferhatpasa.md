@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Ferhatpaşa | Miras Haritası"
-date: 2025-12-25T12:48:28+03:00
+title: "Çeşme, Ferhatpaşa"
+date: "2025-12-25T12:48:28+03:00"
 slug: "cesme-ferhatpasa"
 description: "## Çeşme, Ferhatpaşa: İstanbul'un Saklı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4658794,41.1385841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Ferhatpaşa: İstanbul'un Saklı Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Esat Paşa Cami Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:40:11+03:00
+title: "Esat Paşa Cami Çeşmeleri"
+date: "2025-12-25T11:40:11+03:00"
 slug: "esat-pasa-cami-cesmeleri"
 description: "## Esat Paşa Cami Çeşmeleri..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2745972,39.9078255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esat Paşa Cami Çeşmeleri

@@ -1,18 +1,17 @@
 ---
-title: "Kızılhöyük | Miras Haritası"
-date: 2025-12-25T06:18:37+03:00
+title: "Kızılhöyük"
+date: "2025-12-25T06:18:37+03:00"
 slug: "kizilhoyuk"
 description: "### Kızılhöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.399167,39.3948262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızılhöyük Arkeolojik Sit

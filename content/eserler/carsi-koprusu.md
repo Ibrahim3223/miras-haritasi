@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:05+03:00
+title: "Çarşı Köprüsü"
+date: "2025-12-25T02:37:05+03:00"
 slug: "carsi-koprusu"
 description: "## Çarşı Köprüsü: Gümüşhane'nin Tarihî Bir Mirası..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.455494,40.450701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Köprüsü: Gümüşhane'nin Tarihî Bir Mirası

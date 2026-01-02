@@ -1,18 +1,17 @@
 ---
-title: "Adliye Kale | Miras Haritası"
-date: 2025-12-25T01:24:08+03:00
+title: "Adliye Kale"
+date: "2025-12-25T01:24:08+03:00"
 slug: "adliye-kale"
 description: "## Adliye Kale..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Geyve"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.3591309,40.6522522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adliye Kale

@@ -1,18 +1,17 @@
 ---
-title: "Alişir-Beşir-Nezir Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T14:59:05+03:00
+title: "Alişir-Beşir-Nezir Gazi Türbesi"
+date: "2025-12-25T14:59:05+03:00"
 slug: "alisir-besir-nezir-gazi-turbesi"
 description: "## Alişir-Beşir-Nezir Gazi Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2189121,38.4677544"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alişir-Beşir-Nezir Gazi Türbesi

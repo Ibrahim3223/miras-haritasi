@@ -1,18 +1,17 @@
 ---
-title: "Kara İmam Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:49:40+03:00
+title: "Kara İmam Çeşmesi"
+date: "2025-12-25T10:49:40+03:00"
 slug: "kara-imam-cesmesi"
 description: "## Kara İmam Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.479435,38.7186852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara İmam Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası

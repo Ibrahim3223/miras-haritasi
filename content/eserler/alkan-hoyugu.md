@@ -1,18 +1,17 @@
 ---
-title: "Alkan Höyüğü | Miras Haritası"
-date: 2025-12-25T06:27:18+03:00
+title: "Alkan Höyüğü"
+date: "2025-12-25T06:27:18+03:00"
 slug: "alkan-hoyugu"
 description: "## Alkan Höyüğü: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.7795043,38.2965867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alkan Höyüğü: Aksaray'ın Gizli Kahramanı

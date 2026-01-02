@@ -1,18 +1,17 @@
 ---
-title: "Sakandoz Camii | Miras Haritası"
-date: 2025-12-25T00:21:06+03:00
+title: "Sakandoz Camii"
+date: "2025-12-25T00:21:06+03:00"
 slug: "sakandoz-camii"
 description: "## Sakandoz Camii: İkizdere'nin Gizli Çehresini Açıklayın..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.543636554,40.671338707"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakandoz Camii: İkizdere'nin Gizli Çehresini Açıklayın

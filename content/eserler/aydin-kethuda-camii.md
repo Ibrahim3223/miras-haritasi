@@ -1,18 +1,17 @@
 ---
-title: "Aydın Kethüda Camii | Miras Haritası"
-date: 2025-12-24T22:48:12+03:00
+title: "Aydın Kethüda Camii"
+date: "2025-12-24T22:48:12+03:00"
 slug: "aydin-kethuda-camii"
 description: "# Aydın Kethüda Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9278049,41.0119095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aydın Kethüda Camii

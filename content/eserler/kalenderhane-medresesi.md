@@ -1,18 +1,17 @@
 ---
-title: "Kalenderhane Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:56+03:00
+title: "Kalenderhane Medresesi"
+date: "2025-12-25T17:44:56+03:00"
 slug: "kalenderhane-medresesi"
 description: "## Kalenderhane Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9602356,41.0128441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalenderhane Medresesi

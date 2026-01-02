@@ -1,18 +1,17 @@
 ---
-title: "Alatepe | Miras Haritası"
-date: 2025-12-25T05:33:06+03:00
+title: "Alatepe"
+date: "2025-12-25T05:33:06+03:00"
 slug: "alatepe"
 description: "## Alatepe: Edirne'nin Gizli Mimari Harikası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.52758,41.759111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alatepe: Edirne'nin Gizli Mimari Harikası

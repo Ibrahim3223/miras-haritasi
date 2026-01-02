@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Bağlar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:39:17+03:00
+title: "Tarihi Bağlar Çeşmesi"
+date: "2025-12-25T10:39:17+03:00"
 slug: "tarihi-baglar-cesmesi"
 description: "## Tarihi Bağlar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Esenyurt"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6772652,41.0341873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Bağlar Çeşmesi

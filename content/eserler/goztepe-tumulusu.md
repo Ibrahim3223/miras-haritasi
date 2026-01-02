@@ -1,18 +1,17 @@
 ---
-title: "Göztepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:33:01+03:00
+title: "Göztepe Tümülüsü"
+date: "2025-12-25T07:33:01+03:00"
 slug: "goztepe-tumulusu"
 description: "## Göztepe Tümülüsü..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.791354059,40.069062879"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göztepe Tümülüsü

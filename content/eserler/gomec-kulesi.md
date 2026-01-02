@@ -1,18 +1,17 @@
 ---
-title: "Gömeç Kulesi | Miras Haritası"
-date: 2025-12-25T07:11:53+03:00
+title: "Gömeç Kulesi"
+date: "2025-12-25T07:11:53+03:00"
 slug: "gomec-kulesi"
 description: "### Gömeç Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gömec1.jpg/1200px-Gömec1.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.135540182,36.490084579"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Gömeç Kulesi

@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Beypınar Yolu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:50:17+03:00
+title: "Üsküp Beypınar Yolu Tümülüsü"
+date: "2025-12-25T07:50:17+03:00"
 slug: "uskup-beypinar-yolu-tumulusu"
 description: "## Üsküp Beypınar Yolu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4377537,41.7520485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üsküp Beypınar Yolu Tümülüsü

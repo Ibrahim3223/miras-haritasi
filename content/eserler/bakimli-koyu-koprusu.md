@@ -1,18 +1,17 @@
 ---
-title: "Bakımlı Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:59+03:00
+title: "Bakımlı Köyü Köprüsü"
+date: "2025-12-25T02:30:59+03:00"
 slug: "bakimli-koyu-koprusu"
 description: "## Bakımlı Köyü Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çanakçı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.0059471,40.8850098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakımlı Köyü Köprüsü

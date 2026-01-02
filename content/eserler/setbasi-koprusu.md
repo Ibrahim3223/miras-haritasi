@@ -1,18 +1,17 @@
 ---
-title: "Setbaşı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:52+03:00
+title: "Setbaşı Köprüsü"
+date: "2025-12-25T02:22:52+03:00"
 slug: "setbasi-koprusu"
 description: "## Setbaşı Köprüsü: Bursa'nın Tarihi ve Mimari Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Setbaşı_Köprüsü_(2025).jpg/1200px-Setbaşı_Köprüsü_(2025).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.069622,40.1809616"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Setbaşı Köprüsü: Bursa'nın Tarihi ve Mimari Mirası

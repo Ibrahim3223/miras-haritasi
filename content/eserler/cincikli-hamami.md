@@ -1,18 +1,17 @@
 ---
-title: "Cincıklı Hamamı | Miras Haritası"
-date: 2025-12-25T16:26:29+03:00
+title: "Cincıklı Hamamı"
+date: "2025-12-25T16:26:29+03:00"
 slug: "cincikli-hamami"
 description: "### Cincıklı Hamamı: Diyarbakır'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "40.238361111,37.912861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cincıklı Hamamı: Diyarbakır'ın Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Alabanda Merkezi Hamam | Miras Haritası"
-date: 2025-12-25T16:57:43+03:00
+title: "Alabanda Merkezi Hamam"
+date: "2025-12-25T16:57:43+03:00"
 slug: "alabanda-merkezi-hamam"
 description: "### Alabanda Merkezi Hamam..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.9824944,37.5947189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alabanda Merkezi Hamam

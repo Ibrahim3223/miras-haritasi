@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Yaylalar | Miras Haritası"
-date: 2025-12-25T03:01:38+03:00
+title: "Roma Köprüsü, Yaylalar"
+date: "2025-12-25T03:01:38+03:00"
 slug: "roma-koprusu-yaylalar"
 description: "## Roma Köprüsü, Yaylalar..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.2761409,40.8719517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Yaylalar

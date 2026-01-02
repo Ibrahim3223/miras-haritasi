@@ -1,18 +1,17 @@
 ---
-title: "Veled-i Enbiya Camii | Miras Haritası"
-date: 2025-12-24T23:20:03+03:00
+title: "Veled-i Enbiya Camii"
+date: "2025-12-24T23:20:03+03:00"
 slug: "veled-i-enbiya-camii"
 description: "**Veled-i Enbiya Camii**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0620155,40.1865082"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Veled-i Enbiya Camii**

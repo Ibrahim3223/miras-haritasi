@@ -1,18 +1,17 @@
 ---
-title: "Av Köşkü Saray Müzesi | Miras Haritası"
-date: 2025-12-25T03:17:20+03:00
+title: "Av Köşkü Saray Müzesi"
+date: "2025-12-25T03:17:20+03:00"
 slug: "av-kosku-saray-muzesi"
 description: "## Av Köşkü Saray Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kasrı_Hümayun_(1)_06.jpg/1200px-Kasrı_Hümayun_(1)_06.jpg"
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.920535,40.7631"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Av Köşkü Saray Müzesi

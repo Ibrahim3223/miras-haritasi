@@ -1,18 +1,17 @@
 ---
-title: "Hürriyet Abidesi, Tekirdağ | Miras Haritası"
-date: 2025-12-25T15:51:48+03:00
+title: "Hürriyet Abidesi, Tekirdağ"
+date: "2025-12-25T15:51:48+03:00"
 slug: "hurriyet-abidesi-tekirdag"
 description: "### Hürriyet Abidesi, Tekirdağ..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.5168571,40.9786835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hürriyet Abidesi, Tekirdağ

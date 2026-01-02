@@ -1,18 +1,17 @@
 ---
-title: "Abdülmecit Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:56:06+03:00
+title: "Abdülmecit Han Çeşmesi"
+date: "2025-12-25T11:56:06+03:00"
 slug: "abdulmecit-han-cesmesi"
 description: "### Abdülmecit Han Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9808865,41.0385323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdülmecit Han Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "İndere Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:37:42+03:00
+title: "İndere Köyü Camii"
+date: "2025-12-24T23:37:42+03:00"
 slug: "indere-koyu-camii"
 description: "## İndere Köyü Camii..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.2493439,37.8077316"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İndere Köyü Camii

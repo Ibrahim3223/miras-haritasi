@@ -1,18 +1,17 @@
 ---
-title: "Kyme | Miras Haritası"
-date: 2025-12-25T06:47:58+03:00
+title: "Kyme"
+date: "2025-12-25T06:47:58+03:00"
 slug: "kyme"
 description: "**Kyme Arkeolojik Sit**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ancient_City_Cyme-12.jpg/1200px-Ancient_City_Cyme-12.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Aliağa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.936388888,38.759166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Kyme Arkeolojik Sit**

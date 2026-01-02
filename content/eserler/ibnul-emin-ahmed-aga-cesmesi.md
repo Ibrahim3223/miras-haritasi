@@ -1,18 +1,17 @@
 ---
-title: "İbnü'l-Emin Ahmed Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:06:51+03:00
+title: "İbnü'l-Emin Ahmed Ağa Çeşmesi"
+date: "2025-12-25T10:06:51+03:00"
 slug: "ibnul-emin-ahmed-aga-cesmesi"
 description: "## İbnü'l-Emin Ahmed Ağa Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/İbn'ül_Emin_Ahmet_Ağa_Çeşmesi.JPG/1200px-İbn'ül_Emin_Ahmet_Ağa_Çeşmesi.JPG"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Ahmediye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.017722222,41.017916666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İbnü'l-Emin Ahmed Ağa Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi

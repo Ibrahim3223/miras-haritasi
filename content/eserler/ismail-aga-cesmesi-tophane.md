@@ -1,18 +1,17 @@
 ---
-title: "İsmail Ağa Çeşmesi, Tophane | Miras Haritası"
-date: 2025-12-25T13:10:37+03:00
+title: "İsmail Ağa Çeşmesi, Tophane"
+date: "2025-12-25T13:10:37+03:00"
 slug: "ismail-aga-cesmesi-tophane"
 description: "# İsmail Ağa Çeşmesi, Tophane..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9805698,41.0297699"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İsmail Ağa Çeşmesi, Tophane

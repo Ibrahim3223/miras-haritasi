@@ -1,18 +1,17 @@
 ---
-title: "Karadonlu Camii Çeşmeleri | Miras Haritası"
-date: 2025-12-25T10:16:57+03:00
+title: "Karadonlu Camii Çeşmeleri"
+date: "2025-12-25T10:16:57+03:00"
 slug: "karadonlu-camii-cesmeleri"
 description: "## Karadonlu Camii Çeşmeleri..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9775391,39.4212227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadonlu Camii Çeşmeleri

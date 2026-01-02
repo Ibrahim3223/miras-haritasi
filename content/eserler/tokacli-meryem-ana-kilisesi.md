@@ -1,18 +1,17 @@
 ---
-title: "Tokaçlı Meryem Ana Kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:35+03:00
+title: "Tokaçlı Meryem Ana Kilisesi"
+date: "2025-12-25T08:58:35+03:00"
 slug: "tokacli-meryem-ana-kilisesi"
 description: "### Tokaçlı Meryem Ana Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TOKAÇLI_MARİA_ANA_RUM_ORTODOKS_KİLİSESİ1.jpg/1200px-TOKAÇLI_MARİA_ANA_RUM_ORTODOKS_KİLİSESİ1.jpg"
 province: "Altınözü (ilçe)"
-iller: ["Altınözü (ilçe)"]
+iller: '["Altınözü (ilçe)"]'
 district: "Tokaçlı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.259701098,36.101590617"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Tokaçlı Meryem Ana Kilisesi

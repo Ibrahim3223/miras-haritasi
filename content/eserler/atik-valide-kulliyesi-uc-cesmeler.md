@@ -1,18 +1,17 @@
 ---
-title: "Atik Valide Külliyesi Üç Çeşmeler | Miras Haritası"
-date: 2025-12-25T11:05:28+03:00
+title: "Atik Valide Külliyesi Üç Çeşmeler"
+date: "2025-12-25T11:05:28+03:00"
 slug: "atik-valide-kulliyesi-uc-cesmeler"
 description: "## Atik Valide Külliyesi Üç Çeşmeler..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Valide-i Atik"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.023586,41.018566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atik Valide Külliyesi Üç Çeşmeler

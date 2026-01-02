@@ -1,18 +1,17 @@
 ---
-title: "Kınalı Köprü Höyüğü | Miras Haritası"
-date: 2025-12-25T06:03:57+03:00
+title: "Kınalı Köprü Höyüğü"
+date: "2025-12-25T06:03:57+03:00"
 slug: "kinali-kopru-hoyugu"
 description: "### Kınalı Köprü Höyüğü: Silivri'nin Gizli Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.1003647,41.0664177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kınalı Köprü Höyüğü: Silivri'nin Gizli Tarihî Mirası

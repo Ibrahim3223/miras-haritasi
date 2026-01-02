@@ -1,18 +1,17 @@
 ---
-title: "Lukas Mezarı | Miras Haritası"
-date: 2025-12-25T08:18:08+03:00
+title: "Lukas Mezarı"
+date: "2025-12-25T08:18:08+03:00"
 slug: "lukas-mezari"
 description: "## Lukas Mezarı: Selçuk'un Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.346374172,37.934697201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lukas Mezarı: Selçuk'un Gizli Kahramanı

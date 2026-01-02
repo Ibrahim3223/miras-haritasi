@@ -1,18 +1,17 @@
 ---
-title: "Ahırkapı Feneri Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:56+03:00
+title: "Ahırkapı Feneri Çeşmesi"
+date: "2025-12-25T10:29:56+03:00"
 slug: "ahirkapi-feneri-cesmesi"
 description: "### Ahırkapı Feneri Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.986357,41.008442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahırkapı Feneri Çeşmesi

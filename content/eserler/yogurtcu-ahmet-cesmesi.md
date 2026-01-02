@@ -1,18 +1,17 @@
 ---
-title: "Yoğurtçu Ahmet Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:55:31+03:00
+title: "Yoğurtçu Ahmet Çeşmesi"
+date: "2025-12-25T12:55:31+03:00"
 slug: "yogurtcu-ahmet-cesmesi"
 description: "## Yoğurtçu Ahmet Çeşmesi: İzmir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1336975,38.4162903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yoğurtçu Ahmet Çeşmesi: İzmir'in Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Erimli Mevkii | Miras Haritası"
-date: 2025-12-25T05:34:46+03:00
+title: "Erimli Mevkii"
+date: "2025-12-25T05:34:46+03:00"
 slug: "erimli-mevkii"
 description: "## Erimli Mevkii: Afyonkarahisar'ın Gizli Harikası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Şuhut"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.626883,38.4849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erimli Mevkii: Afyonkarahisar'ın Gizli Harikası

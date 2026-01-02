@@ -1,18 +1,17 @@
 ---
-title: "Hardal Köyü Camii, Şarkışla | Miras Haritası"
-date: 2025-12-25T00:09:41+03:00
+title: "Hardal Köyü Camii, Şarkışla"
+date: "2025-12-25T00:09:41+03:00"
 slug: "hardal-koyu-camii-sarkisla"
 description: "## Hardal Köyü Camii, Şarkışla..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Şarkışla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.2558479,39.4798927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hardal Köyü Camii, Şarkışla

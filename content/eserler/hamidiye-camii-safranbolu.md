@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Safranbolu | Miras Haritası"
-date: 2025-12-25T01:08:54+03:00
+title: "Hamidiye Camii, Safranbolu"
+date: "2025-12-25T01:08:54+03:00"
 slug: "hamidiye-camii-safranbolu"
 description: "**Hamidiye Camii, Safranbolu**..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.69176627,41.247124829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hamidiye Camii, Safranbolu**

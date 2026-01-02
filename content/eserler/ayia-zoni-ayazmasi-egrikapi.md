@@ -1,18 +1,17 @@
 ---
-title: "Ayia Zoni Ayazması, Eğrikapı | Miras Haritası"
-date: 2025-12-25T12:39:33+03:00
+title: "Ayia Zoni Ayazması, Eğrikapı"
+date: "2025-12-25T12:39:33+03:00"
 slug: "ayia-zoni-ayazmasi-egrikapi"
 description: "**Ayia Zoni Ayazması: İstanbul'un Gizli Cezvesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9399529,41.0366287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayia Zoni Ayazması: İstanbul'un Gizli Cezvesi**

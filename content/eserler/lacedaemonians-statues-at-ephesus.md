@@ -1,18 +1,17 @@
 ---
-title: "Lacedaemonians, statues at Ephesus | Miras Haritası"
-date: 2025-12-25T13:40:39+03:00
+title: "Lacedaemonians, statues at Ephesus"
+date: "2025-12-25T13:40:39+03:00"
 slug: "lacedaemonians-statues-at-ephesus"
 description: "## Lacedaemonians, Ephesos'taki Heykeller: Tarihi Bir Anıt..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3637,37.9497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lacedaemonians, Ephesos'taki Heykeller: Tarihi Bir Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Trimilinda | Miras Haritası"
-date: 2025-12-25T04:58:02+03:00
+title: "Trimilinda"
+date: "2025-12-25T04:58:02+03:00"
 slug: "trimilinda"
 description: "## Trimilinda Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Trimilinda Arkeolojik Sit

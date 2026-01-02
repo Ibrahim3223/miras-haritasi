@@ -1,18 +1,17 @@
 ---
-title: "Musalla Mescidi, Urla | Miras Haritası"
-date: 2025-12-25T00:52:10+03:00
+title: "Musalla Mescidi, Urla"
+date: "2025-12-25T00:52:10+03:00"
 slug: "musalla-mescidi-urla"
 description: "## Musalla Mescidi, Urla..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.768528,38.3179436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Musalla Mescidi, Urla

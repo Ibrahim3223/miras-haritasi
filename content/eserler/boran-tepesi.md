@@ -1,18 +1,17 @@
 ---
-title: "Boran Tepesi | Miras Haritası"
-date: 2025-12-25T06:20:00+03:00
+title: "Boran Tepesi"
+date: "2025-12-25T06:20:00+03:00"
 slug: "boran-tepesi"
 description: "# Boran Tepesi: Sivas'ın Gizli Arkeolojik Sırı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Ulaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8208155,39.4177226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Boran Tepesi: Sivas'ın Gizli Arkeolojik Sırı

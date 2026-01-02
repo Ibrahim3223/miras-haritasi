@@ -1,18 +1,17 @@
 ---
-title: "Eski Saray Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:15:45+03:00
+title: "Eski Saray Çeşmeleri"
+date: "2025-12-25T11:15:45+03:00"
 slug: "eski-saray-cesmeleri"
 description: "### Eski Saray Çeşmeleri..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Süleymaniye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.96582,41.012661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Saray Çeşmeleri

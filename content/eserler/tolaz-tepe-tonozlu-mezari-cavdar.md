@@ -1,18 +1,17 @@
 ---
-title: "Tolaz Tepe Tonozlu Mezarı, Çavdar | Miras Haritası"
-date: 2025-12-25T14:06:13+03:00
+title: "Tolaz Tepe Tonozlu Mezarı, Çavdar"
+date: "2025-12-25T14:06:13+03:00"
 slug: "tolaz-tepe-tonozlu-mezari-cavdar"
 description: "## Tolaz Tepe Tonozlu Mezarı: Bir Tarih Öncesi Anıtının Öyküsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.6345005,37.6220016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tolaz Tepe Tonozlu Mezarı: Bir Tarih Öncesi Anıtının Öyküsü

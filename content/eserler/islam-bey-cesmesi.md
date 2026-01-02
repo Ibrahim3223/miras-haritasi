@@ -1,18 +1,17 @@
 ---
-title: "İslam Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:31+03:00
+title: "İslam Bey Çeşmesi"
+date: "2025-12-25T11:08:31+03:00"
 slug: "islam-bey-cesmesi"
 description: "## İslam Bey Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.926747,41.051436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İslam Bey Çeşmesi

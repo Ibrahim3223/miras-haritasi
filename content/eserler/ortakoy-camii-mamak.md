@@ -1,18 +1,17 @@
 ---
-title: "Ortaköy Camii (Mamak) | Miras Haritası"
-date: 2025-12-25T00:35:50+03:00
+title: "Ortaköy Camii (Mamak)"
+date: "2025-12-25T00:35:50+03:00"
 slug: "ortakoy-camii-mamak"
 description: "## Ortaköy Camii: Mamak'taki Bir Önemli Cami..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.021055733,39.930813161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaköy Camii: Mamak'taki Bir Önemli Cami

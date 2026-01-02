@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Ada Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:20+03:00
+title: "Tarihi Ada Köprüsü"
+date: "2025-12-25T02:24:20+03:00"
 slug: "tarihi-ada-koprusu"
 description: "# Tarihi Ada Köprüsü..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Tavşanlı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.4848939,39.5364204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tarihi Ada Köprüsü

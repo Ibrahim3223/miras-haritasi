@@ -1,18 +1,17 @@
 ---
-title: "Merenisi Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:09+03:00
+title: "Merenisi Kilisesi"
+date: "2025-12-25T08:57:09+03:00"
 slug: "merenisi-kilisesi"
 description: "## Merenisi Kilisesi: Yukarıbakraçlı Şehrinin Eski ve Gizli Zenginliği..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Yukarıbakraçlı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.238305555,40.603638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merenisi Kilisesi: Yukarıbakraçlı Şehrinin Eski ve Gizli Zenginliği

@@ -1,18 +1,17 @@
 ---
-title: "Arap Şeyh Camii, Diyarbakır | Miras Haritası"
-date: 2025-12-25T00:31:20+03:00
+title: "Arap Şeyh Camii, Diyarbakır"
+date: "2025-12-25T00:31:20+03:00"
 slug: "arap-seyh-camii-diyarbakir"
 description: "## Arap Şeyh Camii, Diyarbakır..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2434006,37.9093971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arap Şeyh Camii, Diyarbakır

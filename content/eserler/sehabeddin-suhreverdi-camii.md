@@ -1,18 +1,17 @@
 ---
-title: "Şehabeddin Sühreverdi Camii | Miras Haritası"
-date: 2025-12-25T01:02:40+03:00
+title: "Şehabeddin Sühreverdi Camii"
+date: "2025-12-25T01:02:40+03:00"
 slug: "sehabeddin-suhreverdi-camii"
 description: "## Şehabeddin Sühreverdi Camii..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehabeddin Sühreverdi Camii

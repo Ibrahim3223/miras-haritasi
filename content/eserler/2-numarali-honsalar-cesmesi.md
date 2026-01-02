@@ -1,18 +1,17 @@
 ---
-title: "2 numaralı Honsalar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:46:58+03:00
+title: "2 numaralı Honsalar Çeşmesi"
+date: "2025-12-25T10:46:58+03:00"
 slug: "2-numarali-honsalar-cesmesi"
 description: "# 2 Numaralı Honsalar Çeşmesi: Kastamonu'nun Tarihî bir Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7703323,41.3801308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # 2 Numaralı Honsalar Çeşmesi: Kastamonu'nun Tarihî bir Çeşmesi

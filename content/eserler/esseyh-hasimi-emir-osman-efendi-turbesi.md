@@ -1,18 +1,17 @@
 ---
-title: "Eşşeyh Haşimi Emir Osman Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T17:16:09+03:00
+title: "Eşşeyh Haşimi Emir Osman Efendi Türbesi"
+date: "2025-12-25T17:16:09+03:00"
 slug: "esseyh-hasimi-emir-osman-efendi-turbesi"
 description: "## Eşşeyh Haşimi Emir Osman Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "28.9637585,41.0366745"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eşşeyh Haşimi Emir Osman Efendi Türbesi

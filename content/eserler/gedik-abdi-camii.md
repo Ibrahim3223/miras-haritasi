@@ -1,18 +1,17 @@
 ---
-title: "Gedik Abdi Camii | Miras Haritası"
-date: 2025-12-24T22:54:14+03:00
+title: "Gedik Abdi Camii"
+date: "2025-12-24T22:54:14+03:00"
 slug: "gedik-abdi-camii"
 description: "# Gedik Abdi Paşa Camii..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kaptanpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.965898,41.037319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gedik Abdi Paşa Camii

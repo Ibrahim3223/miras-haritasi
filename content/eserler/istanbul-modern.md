@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Modern | Miras Haritası"
-date: 2025-12-25T04:10:52+03:00
+title: "İstanbul Modern"
+date: "2025-12-25T04:10:52+03:00"
 slug: "istanbul-modern"
 description: "## İstanbul Modern..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Outside_view_of_the_Istanbul_Modern,_2022.jpg/1200px-Outside_view_of_the_Istanbul_Modern,_2022.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.982944,41.026"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İstanbul Modern

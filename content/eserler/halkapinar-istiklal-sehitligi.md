@@ -1,18 +1,17 @@
 ---
-title: "Halkapınar İstiklal Şehitliği | Miras Haritası"
-date: 2025-12-25T15:59:11+03:00
+title: "Halkapınar İstiklal Şehitliği"
+date: "2025-12-25T15:59:11+03:00"
 slug: "halkapinar-istiklal-sehitligi"
 description: "### Halkapınar İstiklal Şehitliği..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1647053,38.4353027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halkapınar İstiklal Şehitliği

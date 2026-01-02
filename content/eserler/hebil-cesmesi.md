@@ -1,18 +1,17 @@
 ---
-title: "Hebil Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:21:03+03:00
+title: "Hebil Çeşmesi"
+date: "2025-12-25T10:21:03+03:00"
 slug: "hebil-cesmesi"
 description: "## Hebil Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4020748,38.68116"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hebil Çeşmesi

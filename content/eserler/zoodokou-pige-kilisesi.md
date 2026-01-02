@@ -1,18 +1,17 @@
 ---
-title: "Zoodokou Pige Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:20+03:00
+title: "Zoodokou Pige Kilisesi"
+date: "2025-12-25T09:21:20+03:00"
 slug: "zoodokou-pige-kilisesi"
 description: "## Zoodokou Pige Kilisesi: Karacabey'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.5645943,40.2690849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zoodokou Pige Kilisesi: Karacabey'in Tarihi Bir Mirası

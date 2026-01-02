@@ -1,18 +1,17 @@
 ---
-title: "Helvacı Baba Mukaddes Suyu | Miras Haritası"
-date: 2025-12-25T14:19:37+03:00
+title: "Helvacı Baba Mukaddes Suyu"
+date: "2025-12-25T14:19:37+03:00"
 slug: "helvaci-baba-mukaddes-suyu"
 description: "## Helvacı Baba Mukaddes Suyu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1733,39.1264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Helvacı Baba Mukaddes Suyu

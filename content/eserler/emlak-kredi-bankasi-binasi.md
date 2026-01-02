@@ -1,18 +1,17 @@
 ---
-title: "Emlak Kredi Bankası Binası | Miras Haritası"
-date: 2025-12-25T03:59:55+03:00
+title: "Emlak Kredi Bankası Binası"
+date: "2025-12-25T03:59:55+03:00"
 slug: "emlak-kredi-bankasi-binasi"
 description: "### Emlak Kredi Bankası Binası: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8545761,39.9382057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Emlak Kredi Bankası Binası: Ankara'nın Tarihi ve Kültürel Mirası

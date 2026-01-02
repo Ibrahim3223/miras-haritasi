@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Anzaf Kalesi | Miras Haritası"
-date: 2025-12-25T01:30:30+03:00
+title: "Aşağı Anzaf Kalesi"
+date: "2025-12-25T01:30:30+03:00"
 slug: "asagi-anzaf-kalesi"
 description: "## Aşağı Anzaf Kalesi: Van'ın Eski Çağlarından Kalma Gizemi..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "İpekyolu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.464532,38.567965"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Anzaf Kalesi: Van'ın Eski Çağlarından Kalma Gizemi

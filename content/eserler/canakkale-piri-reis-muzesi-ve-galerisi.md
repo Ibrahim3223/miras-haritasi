@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Piri Reis Müzesi ve Galerisi | Miras Haritası"
-date: 2025-12-25T03:08:03+03:00
+title: "Çanakkale Piri Reis Müzesi ve Galerisi"
+date: "2025-12-25T03:08:03+03:00"
 slug: "canakkale-piri-reis-muzesi-ve-galerisi"
 description: "## Çanakkale Piri Reis Müzesi ve Galerisi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.4072418,40.1524811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale Piri Reis Müzesi ve Galerisi

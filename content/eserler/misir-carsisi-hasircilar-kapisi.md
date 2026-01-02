@@ -1,18 +1,17 @@
 ---
-title: "Mısır Çarşısı Hasırcılar Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:25+03:00
+title: "Mısır Çarşısı Hasırcılar Kapısı"
+date: "2025-12-25T15:37:25+03:00"
 slug: "misir-carsisi-hasircilar-kapisi"
 description: "## Mısır Çarşısı Hasırcılar Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Spice_Bazaar,_Istanbul_-_2014.10.23_(1).JPG/1200px-Spice_Bazaar,_Istanbul_-_2014.10.23_(1).JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.970373,41.0165"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mısır Çarşısı Hasırcılar Kapısı

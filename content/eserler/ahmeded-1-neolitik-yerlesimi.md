@@ -1,18 +1,17 @@
 ---
-title: "Ahmeded 1 Neolitik Yerleşimi | Miras Haritası"
-date: 2025-12-25T08:29:13+03:00
+title: "Ahmeded 1 Neolitik Yerleşimi"
+date: "2025-12-25T08:29:13+03:00"
 slug: "ahmeded-1-neolitik-yerlesimi"
 description: "**Ahmeded 1 Neolitik Yerleşimi: Bilecik'teki Eski Bir Köy**..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0958195,40.1399918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ahmeded 1 Neolitik Yerleşimi: Bilecik'teki Eski Bir Köy**

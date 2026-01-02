@@ -1,18 +1,17 @@
 ---
-title: "Kleopatra Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:39+03:00
+title: "Kleopatra Hamamı"
+date: "2025-12-25T17:02:39+03:00"
 slug: "kleopatra-hamami"
 description: "### Kleopatra Hamamı: Bergama'nın Antik Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1527996,39.101799"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kleopatra Hamamı: Bergama'nın Antik Mirası

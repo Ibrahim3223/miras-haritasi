@@ -1,18 +1,17 @@
 ---
-title: "Kale Camii, Sivas | Miras Haritası"
-date: 2025-12-25T00:26:34+03:00
+title: "Kale Camii, Sivas"
+date: "2025-12-25T00:26:34+03:00"
 slug: "kale-camii-sivas"
 description: "## Kale Camii, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.014392,39.748999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Camii, Sivas

@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Hamdi Tanpınar Edebiyat Müze Kütüphanesi | Miras Haritası"
-date: 2025-12-25T03:09:59+03:00
+title: "Ahmet Hamdi Tanpınar Edebiyat Müze Kütüphanesi"
+date: "2025-12-25T03:09:59+03:00"
 slug: "ahmet-hamdi-tanpinar-edebiyat-muze-kutuphanesi"
 description: "### Ahmet Hamdi Tanpınar Edebiyat Müze Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Alay_Köşkü_(2).JPG/1200px-Alay_Köşkü_(2).JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.97827,41.01098"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ahmet Hamdi Tanpınar Edebiyat Müze Kütüphanesi

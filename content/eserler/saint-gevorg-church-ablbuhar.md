@@ -1,18 +1,17 @@
 ---
-title: "Saint Gevorg Church (Ablbuhar) | Miras Haritası"
-date: 2025-12-25T08:48:51+03:00
+title: "Saint Gevorg Church (Ablbuhar)"
+date: "2025-12-25T08:48:51+03:00"
 slug: "saint-gevorg-church-ablbuhar"
 description: "## Saint Gevorg Church (Ablbuhar)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saint Gevorg Church (Ablbuhar)

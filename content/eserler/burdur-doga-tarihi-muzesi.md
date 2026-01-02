@@ -1,18 +1,17 @@
 ---
-title: "Burdur Doğa Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:51+03:00
+title: "Burdur Doğa Tarihi Müzesi"
+date: "2025-12-25T03:37:51+03:00"
 slug: "burdur-doga-tarihi-muzesi"
 description: "## Burdur Doğa Tarihi Müzesi..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.2811127,37.7140274"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burdur Doğa Tarihi Müzesi

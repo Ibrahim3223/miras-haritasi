@@ -1,18 +1,17 @@
 ---
-title: "Peygamber Camii, Isparta | Miras Haritası"
-date: 2025-12-24T23:59:34+03:00
+title: "Peygamber Camii, Isparta"
+date: "2025-12-24T23:59:34+03:00"
 slug: "peygamber-camii-isparta"
 description: "### Peygamber Camii, Isparta: Isparta'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5541058,37.7624626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Peygamber Camii, Isparta: Isparta'nın Tarihi ve Kültürel Mirası

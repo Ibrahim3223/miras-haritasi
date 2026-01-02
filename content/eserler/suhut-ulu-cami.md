@@ -1,18 +1,17 @@
 ---
-title: "Şuhut Ulu Cami | Miras Haritası"
-date: 2025-12-24T21:59:18+03:00
+title: "Şuhut Ulu Cami"
+date: "2025-12-24T21:59:18+03:00"
 slug: "suhut-ulu-cami"
 description: "## Şuhut Ulu Cami..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Şuhut"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.543555555,38.532611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şuhut Ulu Cami

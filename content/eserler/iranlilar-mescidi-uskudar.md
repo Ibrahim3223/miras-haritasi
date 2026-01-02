@@ -1,18 +1,17 @@
 ---
-title: "İranlılar Mescidi, Üsküdar | Miras Haritası"
-date: 2025-12-25T00:43:59+03:00
+title: "İranlılar Mescidi, Üsküdar"
+date: "2025-12-25T00:43:59+03:00"
 slug: "iranlilar-mescidi-uskudar"
 description: "## İranlılar Mescidi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0304222,41.009903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İranlılar Mescidi, Üsküdar

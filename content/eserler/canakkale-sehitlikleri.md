@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Şehitlikleri | Miras Haritası"
-date: 2025-12-25T16:00:27+03:00
+title: "Çanakkale Şehitlikleri"
+date: "2025-12-25T16:00:27+03:00"
 slug: "canakkale-sehitlikleri"
 description: "**Çanakkale Şehitlikleri: Tarihimizin Anıtlarından Biri**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Çanakkaleden.JPG/1200px-Çanakkaleden.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Çanakkale Şehitlikleri: Tarihimizin Anıtlarından Biri**

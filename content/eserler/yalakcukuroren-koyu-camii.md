@@ -1,18 +1,17 @@
 ---
-title: "Yalakçukurören Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:15:46+03:00
+title: "Yalakçukurören Köyü Camii"
+date: "2025-12-25T00:15:46+03:00"
 slug: "yalakcukuroren-koyu-camii"
 description: "## Yalakçukurören Köyü Camii: Çerkeş'te Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çerkeş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.019268,40.7308807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalakçukurören Köyü Camii: Çerkeş'te Bir Geçmişin İzleri

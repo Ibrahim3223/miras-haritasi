@@ -1,18 +1,17 @@
 ---
-title: "Meydan Çeşmesi, Ahmetli | Miras Haritası"
-date: 2025-12-25T12:00:30+03:00
+title: "Meydan Çeşmesi, Ahmetli"
+date: "2025-12-25T12:00:30+03:00"
 slug: "meydan-cesmesi-ahmetli"
 description: "## Meydan Çeşmesi: Torbalı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3557167,38.0828094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meydan Çeşmesi: Torbalı'nın Tarihi ve Kültürel Mirası

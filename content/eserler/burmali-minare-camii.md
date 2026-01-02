@@ -1,18 +1,17 @@
 ---
-title: "Burmalı Minare Camii | Miras Haritası"
-date: 2025-12-24T21:43:26+03:00
+title: "Burmalı Minare Camii"
+date: "2025-12-24T21:43:26+03:00"
 slug: "burmali-minare-camii"
 description: "# Burmalı Minare Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amasya-Mosque-06.JPG/1200px-Amasya-Mosque-06.JPG"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.832438,40.65025"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Burmalı Minare Camii

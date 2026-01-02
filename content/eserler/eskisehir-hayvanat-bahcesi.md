@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Hayvanat Bahçesi | Miras Haritası"
-date: 2025-12-25T03:07:32+03:00
+title: "Eskişehir Hayvanat Bahçesi"
+date: "2025-12-25T03:07:32+03:00"
 slug: "eskisehir-hayvanat-bahcesi"
 description: "### Eskişehir Hayvanat Bahçesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Eskisehir_hayvanat_bahcesi.JPG/1200px-Eskisehir_hayvanat_bahcesi.JPG"
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Eskişehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.476388888,39.768055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Eskişehir Hayvanat Bahçesi

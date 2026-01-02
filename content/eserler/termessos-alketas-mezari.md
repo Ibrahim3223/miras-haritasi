@@ -1,18 +1,17 @@
 ---
-title: "Termessos Alketas Mezarı | Miras Haritası"
-date: 2025-12-25T14:06:56+03:00
+title: "Termessos Alketas Mezarı"
+date: "2025-12-25T14:06:56+03:00"
 slug: "termessos-alketas-mezari"
 description: "### Termessos Alketas Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4605999,36.9850998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Termessos Alketas Mezarı

@@ -1,18 +1,17 @@
 ---
-title: "Kibyra (Pamfilya) | Miras Haritası"
-date: 2025-12-25T06:56:14+03:00
+title: "Kibyra (Pamfilya)"
+date: "2025-12-25T06:56:14+03:00"
 slug: "kibyra-pamfilya"
 description: "## Kibyra (Pamfilya)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.67138889,36.65"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kibyra (Pamfilya)

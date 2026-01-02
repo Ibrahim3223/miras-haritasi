@@ -1,18 +1,17 @@
 ---
-title: "Çanakçar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:35+03:00
+title: "Çanakçar Köprüsü"
+date: "2025-12-25T02:44:35+03:00"
 slug: "canakcar-koprusu"
 description: "## Çanakçar Köprüsü..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Ulus"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.5894012,41.4939995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakçar Köprüsü

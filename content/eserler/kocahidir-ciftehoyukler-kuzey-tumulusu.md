@@ -1,18 +1,17 @@
 ---
-title: "Kocahıdır Çiftehöyükler Kuzey Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:46:58+03:00
+title: "Kocahıdır Çiftehöyükler Kuzey Tümülüsü"
+date: "2025-12-25T07:46:58+03:00"
 slug: "kocahidir-ciftehoyukler-kuzey-tumulusu"
 description: "## Kocahıdır Çiftehöyükler Kuzey Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9456978,41.6538887"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocahıdır Çiftehöyükler Kuzey Tümülüsü

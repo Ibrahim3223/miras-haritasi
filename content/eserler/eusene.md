@@ -1,18 +1,17 @@
 ---
-title: "Eusene | Miras Haritası"
-date: 2025-12-25T04:48:28+03:00
+title: "Eusene"
+date: "2025-12-25T04:48:28+03:00"
 slug: "eusene"
 description: "## Eusene Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.23131,41.373045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eusene Arkeolojik Sit

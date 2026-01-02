@@ -1,18 +1,17 @@
 ---
-title: "Acı Kuyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:21:10+03:00
+title: "Acı Kuyu Çeşmesi"
+date: "2025-12-25T10:21:10+03:00"
 slug: "aci-kuyu-cesmesi"
 description: "### Acı Kuyu Çeşmesi: Ulubey'in Tarihî Bir Güzelliği..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.3908539,38.4129601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Acı Kuyu Çeşmesi: Ulubey'in Tarihî Bir Güzelliği

@@ -1,18 +1,17 @@
 ---
-title: "Fikret Mualla Heykeli | Miras Haritası"
-date: 2025-12-25T16:08:42+03:00
+title: "Fikret Mualla Heykeli"
+date: "2025-12-25T16:08:42+03:00"
 slug: "fikret-mualla-heykeli"
 description: "### Fikret Mualla Heykeli: Kadıköy'ün Simge Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fikret_Mualla_Heykeli_01.jpg/1200px-Fikret_Mualla_Heykeli_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0331707,40.9835129"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Fikret Mualla Heykeli: Kadıköy'ün Simge Heykeli

@@ -1,18 +1,17 @@
 ---
-title: "Şehren Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:26:11+03:00
+title: "Şehren Çeşmesi, Arapgir"
+date: "2025-12-25T12:26:11+03:00"
 slug: "sehren-cesmesi-arapgir"
 description: "## Şehren Çeşmesi: Arapgir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.470621594,39.057474386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehren Çeşmesi: Arapgir'in Tarihî Bir Mirası

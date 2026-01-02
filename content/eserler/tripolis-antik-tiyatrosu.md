@@ -1,18 +1,17 @@
 ---
-title: "Tripolis Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:15:23+03:00
+title: "Tripolis Antik Tiyatrosu"
+date: "2025-12-25T04:15:23+03:00"
 slug: "tripolis-antik-tiyatrosu"
 description: "## Tripolis Antik Tiyatrosu..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Buldan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.949337,38.039873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tripolis Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Kemankeş Kara Mustafa Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:37+03:00
+title: "Kemankeş Kara Mustafa Paşa Çeşmesi"
+date: "2025-12-25T11:50:37+03:00"
 slug: "kemankes-kara-mustafa-pasa-cesmesi"
 description: "## Kemankeş Kara Mustafa Paşa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9485874,41.0165024"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemankeş Kara Mustafa Paşa Çeşmesi

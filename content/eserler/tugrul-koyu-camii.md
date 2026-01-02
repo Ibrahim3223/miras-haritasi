@@ -1,18 +1,17 @@
 ---
-title: "Tuğrul Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:17:14+03:00
+title: "Tuğrul Köyü Camii"
+date: "2025-12-24T23:17:14+03:00"
 slug: "tugrul-koyu-camii"
 description: "## Tuğrul Köyü Camii..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5563087,36.5364494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tuğrul Köyü Camii

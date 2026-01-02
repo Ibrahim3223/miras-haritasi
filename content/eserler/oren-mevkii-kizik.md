@@ -1,18 +1,17 @@
 ---
-title: "Ören Mevkii, Kızık | Miras Haritası"
-date: 2025-12-25T05:35:11+03:00
+title: "Ören Mevkii, Kızık"
+date: "2025-12-25T05:35:11+03:00"
 slug: "oren-mevkii-kizik"
 description: "## Ören Mevkii: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.2597,38.517967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ören Mevkii: Afyonkarahisar'ın Gizli Cenneti

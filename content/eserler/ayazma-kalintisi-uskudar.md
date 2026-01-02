@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Kalıntısı, Üsküdar | Miras Haritası"
-date: 2025-12-25T12:40:47+03:00
+title: "Ayazma Kalıntısı, Üsküdar"
+date: "2025-12-25T12:40:47+03:00"
 slug: "ayazma-kalintisi-uskudar"
 description: "## Ayazma Kalıntısı, Üsküdar..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ayazma_Kalıntısı,_Üsküdar.jpg/1200px-Ayazma_Kalıntısı,_Üsküdar.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0093307,41.0227089"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayazma Kalıntısı, Üsküdar

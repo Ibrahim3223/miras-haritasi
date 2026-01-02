@@ -1,18 +1,17 @@
 ---
-title: "Keissia | Miras Haritası"
-date: 2025-12-25T05:06:10+03:00
+title: "Keissia"
+date: "2025-12-25T05:06:10+03:00"
 slug: "keissia"
 description: "### Keissia: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.245066,38.516817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Keissia: Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "İzmir Tarih ve Sanat Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:47+03:00
+title: "İzmir Tarih ve Sanat Müzesi"
+date: "2025-12-25T03:19:47+03:00"
 slug: "izmir-tarih-ve-sanat-muzesi"
 description: "## İzmir Tarih ve Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/İzmir_Tarih_ve_Sanat_Müzesi.jpg/1200px-İzmir_Tarih_ve_Sanat_Müzesi.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.142694444,38.427444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İzmir Tarih ve Sanat Müzesi

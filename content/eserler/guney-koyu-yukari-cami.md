@@ -1,18 +1,17 @@
 ---
-title: "Güney Köyü Yukarı Cami | Miras Haritası"
-date: 2025-12-25T00:12:17+03:00
+title: "Güney Köyü Yukarı Cami"
+date: "2025-12-25T00:12:17+03:00"
 slug: "guney-koyu-yukari-cami"
 description: "## Güney Köyü Yukarı Cami: Yeşilova'nın Güzeli..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Yeşilova"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5550995,37.4991035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güney Köyü Yukarı Cami: Yeşilova'nın Güzeli

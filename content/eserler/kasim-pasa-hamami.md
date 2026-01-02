@@ -1,18 +1,17 @@
 ---
-title: "Kasım Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:14+03:00
+title: "Kasım Paşa Hamamı"
+date: "2025-12-25T16:50:14+03:00"
 slug: "kasim-pasa-hamami"
 description: "### Kasım Paşa Hamamı..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.0364227,39.9059601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kasım Paşa Hamamı

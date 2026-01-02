@@ -1,18 +1,17 @@
 ---
-title: "Kesikbaş Türbesi, Kastamonu | Miras Haritası"
-date: 2025-12-25T14:47:13+03:00
+title: "Kesikbaş Türbesi, Kastamonu"
+date: "2025-12-25T14:47:13+03:00"
 slug: "kesikbas-turbesi-kastamonu"
 description: "## Kesikbaş Türbesi, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7710114,41.3792496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kesikbaş Türbesi, Kastamonu

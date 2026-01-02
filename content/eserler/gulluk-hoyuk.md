@@ -1,18 +1,17 @@
 ---
-title: "Güllük Höyük | Miras Haritası"
-date: 2025-12-25T06:21:12+03:00
+title: "Güllük Höyük"
+date: "2025-12-25T06:21:12+03:00"
 slug: "gulluk-hoyuk"
 description: "### Güllük Höyük: Sivas'ta Bir Arkeolojik Miras..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.1557698,39.6020303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güllük Höyük: Sivas'ta Bir Arkeolojik Miras

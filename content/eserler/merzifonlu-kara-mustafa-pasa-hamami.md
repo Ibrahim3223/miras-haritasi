@@ -1,18 +1,17 @@
 ---
-title: "Merzifonlu Kara Mustafa Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:28:40+03:00
+title: "Merzifonlu Kara Mustafa Paşa Hamamı"
+date: "2025-12-25T16:28:40+03:00"
 slug: "merzifonlu-kara-mustafa-pasa-hamami"
 description: "## Merzifonlu Kara Mustafa Paşa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Merzifonlu_Kara_Mustafa_Paşa_Hamamı_(1).jpg/1200px-Merzifonlu_Kara_Mustafa_Paşa_Hamamı_(1).jpg"
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.464118853,40.8765473"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Merzifonlu Kara Mustafa Paşa Hamamı

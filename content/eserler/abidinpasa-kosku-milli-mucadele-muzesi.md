@@ -1,18 +1,17 @@
 ---
-title: "Abidinpaşa Köşkü Milli Mücadele Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:03+03:00
+title: "Abidinpaşa Köşkü Milli Mücadele Müzesi"
+date: "2025-12-25T04:03:03+03:00"
 slug: "abidinpasa-kosku-milli-mucadele-muzesi"
 description: "## Abidinpaşa Köşkü Milli Mücadele Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.88265687,39.927636526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abidinpaşa Köşkü Milli Mücadele Müzesi

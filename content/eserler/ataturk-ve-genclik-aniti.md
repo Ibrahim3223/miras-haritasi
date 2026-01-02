@@ -1,18 +1,17 @@
 ---
-title: "Atatürk ve Gençlik Anıtı | Miras Haritası"
-date: 2025-12-25T15:44:12+03:00
+title: "Atatürk ve Gençlik Anıtı"
+date: "2025-12-25T15:44:12+03:00"
 slug: "ataturk-ve-genclik-aniti"
 description: "## Atatürk ve Gençlik Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_Atatürk_ve_Gençlik_Anıtı,_2018.jpg/1200px-Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_Atatürk_ve_Gençlik_Anıtı,_2018.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.736222222,39.868083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Atatürk ve Gençlik Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Şeref Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:20+03:00
+title: "Şeyh Şeref Türbesi"
+date: "2025-12-25T14:49:20+03:00"
 slug: "seyh-seref-turbesi"
 description: "### Şeyh Şeref Türbesi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Hasankeyf"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.408226,37.711483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Şeref Türbesi

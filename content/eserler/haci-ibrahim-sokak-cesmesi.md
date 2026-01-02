@@ -1,18 +1,17 @@
 ---
-title: "Hacı İbrahim Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:05+03:00
+title: "Hacı İbrahim Sokak Çeşmesi"
+date: "2025-12-25T10:23:05+03:00"
 slug: "haci-ibrahim-sokak-cesmesi"
 description: "# Hacı İbrahim Sokak Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9749813,39.4228783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı İbrahim Sokak Çeşmesi

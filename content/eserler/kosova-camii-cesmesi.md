@@ -1,18 +1,17 @@
 ---
-title: "Kosova Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:35+03:00
+title: "Kosova Camii Çeşmesi"
+date: "2025-12-25T11:38:35+03:00"
 slug: "kosova-camii-cesmesi"
 description: "## Kosova Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4993324,37.8617439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kosova Camii Çeşmesi

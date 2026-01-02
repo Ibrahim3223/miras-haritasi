@@ -1,18 +1,17 @@
 ---
-title: "İstinye İskele Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:47+03:00
+title: "İstinye İskele Çeşmesi"
+date: "2025-12-25T11:03:47+03:00"
 slug: "istinye-iskele-cesmesi"
 description: "## İstinye İskele Çeşmesi: Sarıyer'in İhtişamlı Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/İstinye_İskele_Çeşmesi_IMG_7422.jpg/1200px-İstinye_İskele_Çeşmesi_IMG_7422.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.061449,41.11348"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İstinye İskele Çeşmesi: Sarıyer'in İhtişamlı Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Murat Paşa Camii Yanındaki Sarnıç | Miras Haritası"
-date: 2025-12-25T13:17:04+03:00
+title: "Murat Paşa Camii Yanındaki Sarnıç"
+date: "2025-12-25T13:17:04+03:00"
 slug: "murat-pasa-camii-yanindaki-sarnic"
 description: "# Murat Paşa Camii Yanındaki Sarnıç..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.949323181,41.009850746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Murat Paşa Camii Yanındaki Sarnıç

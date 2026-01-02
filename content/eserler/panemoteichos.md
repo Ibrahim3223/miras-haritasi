@@ -1,18 +1,17 @@
 ---
-title: "Panemoteichos | Miras Haritası"
-date: 2025-12-25T05:02:36+03:00
+title: "Panemoteichos"
+date: "2025-12-25T05:02:36+03:00"
 slug: "panemoteichos"
 description: "## Panemoteichos: Antik Bir Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panemoteichos: Antik Bir Kentin Mirası

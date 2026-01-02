@@ -1,18 +1,17 @@
 ---
-title: "Bekir Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:42+03:00
+title: "Bekir Dede Türbesi"
+date: "2025-12-25T15:22:42+03:00"
 slug: "bekir-dede-turbesi"
 description: "## Bekir Dede Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.062767,40.1879501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekir Dede Türbesi

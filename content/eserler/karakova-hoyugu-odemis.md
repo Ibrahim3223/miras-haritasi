@@ -1,18 +1,17 @@
 ---
-title: "Karakova Höyüğü, Ödemiş | Miras Haritası"
-date: 2025-12-25T05:49:29+03:00
+title: "Karakova Höyüğü, Ödemiş"
+date: "2025-12-25T05:49:29+03:00"
 slug: "karakova-hoyugu-odemis"
 description: "## Karakova Höyüğü: Ödemiş'in Gizli Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.940867,38.17535"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakova Höyüğü: Ödemiş'in Gizli Mirası

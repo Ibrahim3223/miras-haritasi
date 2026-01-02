@@ -1,18 +1,17 @@
 ---
-title: "Çakırca Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:54+03:00
+title: "Çakırca Roma Köprüsü"
+date: "2025-12-25T02:23:54+03:00"
 slug: "cakirca-roma-koprusu"
 description: "### Çakırca Roma Köprüsü: İznik'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.6923973,40.4615408"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çakırca Roma Köprüsü: İznik'in Tarihi Bir Mirası

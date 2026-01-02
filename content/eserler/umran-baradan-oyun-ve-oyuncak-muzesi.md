@@ -1,18 +1,17 @@
 ---
-title: "Ümran Baradan Oyun ve Oyuncak Müzesi | Miras Haritası"
-date: 2025-12-25T03:11:13+03:00
+title: "Ümran Baradan Oyun ve Oyuncak Müzesi"
+date: "2025-12-25T03:11:13+03:00"
 slug: "umran-baradan-oyun-ve-oyuncak-muzesi"
 description: "### Ümran Baradan Oyun ve Oyuncak Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/İzmir_Toy_Museum.JPG/1200px-İzmir_Toy_Museum.JPG"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.126944444,38.413333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ümran Baradan Oyun ve Oyuncak Müzesi

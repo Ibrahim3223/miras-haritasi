@@ -1,18 +1,17 @@
 ---
-title: "Karakadı Camii | Miras Haritası"
-date: 2025-12-25T00:27:51+03:00
+title: "Karakadı Camii"
+date: "2025-12-25T00:27:51+03:00"
 slug: "karakadi-camii"
 description: "## Karakadı Camii..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0680599,40.184803"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakadı Camii

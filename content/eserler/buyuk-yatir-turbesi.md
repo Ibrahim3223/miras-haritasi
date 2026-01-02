@@ -1,18 +1,17 @@
 ---
-title: "Büyük Yatır Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:05+03:00
+title: "Büyük Yatır Türbesi"
+date: "2025-12-25T15:16:05+03:00"
 slug: "buyuk-yatir-turbesi"
 description: "## Büyük Yatır Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.617728,40.704428"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Yatır Türbesi

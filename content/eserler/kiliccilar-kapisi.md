@@ -1,18 +1,17 @@
 ---
-title: "Kılıççılar Kapısı | Miras Haritası"
-date: 2025-12-25T15:36:03+03:00
+title: "Kılıççılar Kapısı"
+date: "2025-12-25T15:36:03+03:00"
 slug: "kiliccilar-kapisi"
 description: "### Kılıççılar Kapısı: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9698505,41.0106087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kılıççılar Kapısı: İstanbul'un Gizli Mirası

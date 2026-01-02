@@ -1,18 +1,17 @@
 ---
-title: "Çakrak Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:15+03:00
+title: "Çakrak Köyü Çeşmesi"
+date: "2025-12-25T10:16:15+03:00"
 slug: "cakrak-koyu-cesmesi"
 description: "## Çakrak Köyü Çeşmesi: Alucra'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Alucra"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.603552,40.529807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakrak Köyü Çeşmesi: Alucra'nın Tarihi ve Kültürel Mirası

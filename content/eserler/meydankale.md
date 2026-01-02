@@ -1,18 +1,17 @@
 ---
-title: "Meydankale | Miras Haritası"
-date: 2025-12-25T07:14:11+03:00
+title: "Meydankale"
+date: "2025-12-25T07:14:11+03:00"
 slug: "meydankale"
 description: "# Meydankale..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Meydankale,_Mersin,_Turkey.JPG/1200px-Meydankale,_Mersin,_Turkey.JPG"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9692,36.4472"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Meydankale

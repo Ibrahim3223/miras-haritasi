@@ -1,18 +1,17 @@
 ---
-title: "Esenpınar Camii | Miras Haritası"
-date: 2025-12-24T23:01:03+03:00
+title: "Esenpınar Camii"
+date: "2025-12-24T23:01:03+03:00"
 slug: "esenpinar-camii"
 description: "## Esenpınar Camii: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.1116638,36.5910492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esenpınar Camii: Mersin'in Tarihi ve Kültürel Mirası

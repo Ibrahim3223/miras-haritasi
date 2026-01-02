@@ -1,18 +1,17 @@
 ---
-title: "Daskyleion Tümülüsü 1 | Miras Haritası"
-date: 2025-12-25T07:31:52+03:00
+title: "Daskyleion Tümülüsü 1"
+date: "2025-12-25T07:31:52+03:00"
 slug: "daskyleion-tumulusu-1"
 description: "## Daskyleion Tümülüsü 1: Bandırma'da Bir Antik Miras..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0514717,40.1116219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daskyleion Tümülüsü 1: Bandırma'da Bir Antik Miras

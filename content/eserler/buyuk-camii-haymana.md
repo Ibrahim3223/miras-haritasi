@@ -1,18 +1,17 @@
 ---
-title: "Büyük Camii, Haymana | Miras Haritası"
-date: 2025-12-25T01:06:35+03:00
+title: "Büyük Camii, Haymana"
+date: "2025-12-25T01:06:35+03:00"
 slug: "buyuk-camii-haymana"
 description: "## Büyük Camii, Haymana..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Haymana"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4942741,39.4331856"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Camii, Haymana

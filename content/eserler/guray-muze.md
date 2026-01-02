@@ -1,18 +1,17 @@
 ---
-title: "Güray Müze | Miras Haritası"
-date: 2025-12-25T03:21:29+03:00
+title: "Güray Müze"
+date: "2025-12-25T03:21:29+03:00"
 slug: "guray-muze"
 description: "## Güray Müzesi: Avanos'un Kültür Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.834923825,38.710437781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güray Müzesi: Avanos'un Kültür Mirası

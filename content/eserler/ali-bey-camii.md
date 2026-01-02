@@ -1,18 +1,17 @@
 ---
-title: "Ali Bey Camii | Miras Haritası"
-date: 2025-12-24T21:43:02+03:00
+title: "Ali Bey Camii"
+date: "2025-12-24T21:43:02+03:00"
 slug: "ali-bey-camii"
 description: "## Ali Bey Camii: Çankırı'nın Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.612833333,40.603166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Bey Camii: Çankırı'nın Gizli Çehresini Açığa Çıkaran Bir Miras

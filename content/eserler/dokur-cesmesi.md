@@ -1,18 +1,17 @@
 ---
-title: "Dokur Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:00+03:00
+title: "Dokur Çeşmesi"
+date: "2025-12-25T11:26:00+03:00"
 slug: "dokur-cesmesi"
 description: "## Dokur Çeşmesi: Manisa'nın Tarihi bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4150944,38.6077843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokur Çeşmesi: Manisa'nın Tarihi bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kemalettin Camii | Miras Haritası"
-date: 2025-12-24T22:55:29+03:00
+title: "Hacı Kemalettin Camii"
+date: "2025-12-24T22:55:29+03:00"
 slug: "haci-kemalettin-camii"
 description: "## Hacı Kemalettin Camii: Rumelihisarı'nın Gizli Cenneti..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Rumelihisarı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0567627,41.0870628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kemalettin Camii: Rumelihisarı'nın Gizli Cenneti

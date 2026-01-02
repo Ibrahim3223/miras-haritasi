@@ -1,18 +1,17 @@
 ---
-title: "Panormus | Miras Haritası"
-date: 2025-12-25T04:42:18+03:00
+title: "Panormus"
+date: "2025-12-25T04:42:18+03:00"
 slug: "panormus"
 description: "## Panormus: Kıbrıs'ın Antik Kenti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.286,37.983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panormus: Kıbrıs'ın Antik Kenti

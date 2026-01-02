@@ -1,18 +1,17 @@
 ---
-title: "Pirinççi İbrahim Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:06+03:00
+title: "Pirinççi İbrahim Efendi Çeşmesi"
+date: "2025-12-25T11:02:06+03:00"
 slug: "pirincci-ibrahim-efendi-cesmesi"
 description: "## Pirinççi İbrahim Efendi Çeşmesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Firuzağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979483,41.029881"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pirinççi İbrahim Efendi Çeşmesi

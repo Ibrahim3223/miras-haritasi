@@ -1,18 +1,17 @@
 ---
-title: "Caferpaşa Külliyesi Türbe ve Tevhidhanesi | Miras Haritası"
-date: 2025-12-25T14:30:56+03:00
+title: "Caferpaşa Külliyesi Türbe ve Tevhidhanesi"
+date: "2025-12-25T14:30:56+03:00"
 slug: "caferpasa-kulliyesi-turbe-ve-tevhidhanesi"
 description: "## Caferpaşa Külliyesi Türbe ve Tevhidhanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.934506,41.046335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Caferpaşa Külliyesi Türbe ve Tevhidhanesi

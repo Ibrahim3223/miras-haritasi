@@ -1,18 +1,17 @@
 ---
-title: "Molla Fenari Türbesi | Miras Haritası"
-date: 2025-12-25T14:11:17+03:00
+title: "Molla Fenari Türbesi"
+date: "2025-12-25T14:11:17+03:00"
 slug: "molla-fenari-turbesi"
 description: "### Molla Fenari Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.05902,40.176997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Molla Fenari Türbesi

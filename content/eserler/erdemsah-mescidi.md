@@ -1,18 +1,17 @@
 ---
-title: "Erdemşah Mescidi | Miras Haritası"
-date: 2025-12-24T23:01:12+03:00
+title: "Erdemşah Mescidi"
+date: "2025-12-24T23:01:12+03:00"
 slug: "erdemsah-mescidi"
 description: "## Erdemşah Mescidi: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4956932,37.8701439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erdemşah Mescidi: Konya'nın Tarihi ve Kültürel Mirası

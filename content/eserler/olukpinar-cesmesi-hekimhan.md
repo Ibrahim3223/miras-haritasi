@@ -1,18 +1,17 @@
 ---
-title: "Olukpınar Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:21:31+03:00
+title: "Olukpınar Çeşmesi, Hekimhan"
+date: "2025-12-25T12:21:31+03:00"
 slug: "olukpinar-cesmesi-hekimhan"
 description: "## Olukpınar Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.915964795,38.759310523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olukpınar Çeşmesi, Hekimhan

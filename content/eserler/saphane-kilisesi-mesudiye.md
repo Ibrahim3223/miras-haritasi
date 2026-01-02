@@ -1,18 +1,17 @@
 ---
-title: "Şaphane Kilisesi Mesudiye | Miras Haritası"
-date: 2025-12-25T09:45:45+03:00
+title: "Şaphane Kilisesi Mesudiye"
+date: "2025-12-25T09:45:45+03:00"
 slug: "saphane-kilisesi-mesudiye"
 description: "## Şaphane Kilisesi Mesudiye: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Mesudiye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.806577,40.615668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şaphane Kilisesi Mesudiye: Tarihi ve Kültürel Mirasın Bir Parçası

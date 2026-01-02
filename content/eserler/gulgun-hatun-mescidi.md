@@ -1,18 +1,17 @@
 ---
-title: "Gülgün Hatun Mescidi | Miras Haritası"
-date: 2025-12-25T00:46:08+03:00
+title: "Gülgün Hatun Mescidi"
+date: "2025-12-25T00:46:08+03:00"
 slug: "gulgun-hatun-mescidi"
 description: "## Gülgün Hatun Mescidi: Manisa'nın Gizli Çeşm-i Büyüklüğü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.422858755,38.605903221"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülgün Hatun Mescidi: Manisa'nın Gizli Çeşm-i Büyüklüğü

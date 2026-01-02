@@ -1,18 +1,17 @@
 ---
-title: "Veysel Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:00+03:00
+title: "Veysel Dede Türbesi"
+date: "2025-12-25T15:14:00+03:00"
 slug: "veysel-dede-turbesi"
 description: "## Veysel Dede Türbesi: Sakarya'nın Tarihi Çarıklarının Yansıması..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Erenler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5023568,40.765962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veysel Dede Türbesi: Sakarya'nın Tarihi Çarıklarının Yansıması

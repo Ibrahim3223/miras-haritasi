@@ -1,18 +1,17 @@
 ---
-title: "Kuşkayası Anıtı | Miras Haritası"
-date: 2025-12-25T13:42:15+03:00
+title: "Kuşkayası Anıtı"
+date: "2025-12-25T13:42:15+03:00"
 slug: "kuskayasi-aniti"
 description: "### Kuşkayası Anıtı: Amasra'nın Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Amasra_134.JPG/1200px-Amasra_134.JPG"
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Amasra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.365066,41.723308"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kuşkayası Anıtı: Amasra'nın Tarihi Mirası

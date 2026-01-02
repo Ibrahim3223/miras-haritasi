@@ -1,18 +1,17 @@
 ---
-title: "Dolmabahçe Sarayı Hazine Kapısı | Miras Haritası"
-date: 2025-12-25T15:38:37+03:00
+title: "Dolmabahçe Sarayı Hazine Kapısı"
+date: "2025-12-25T15:38:37+03:00"
 slug: "dolmabahce-sarayi-hazine-kapisi"
 description: "### Dolmabahçe Sarayı Hazine Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/20180114_Dolmabahce_6891_(26273261388).jpg/1200px-20180114_Dolmabahce_6891_(26273261388).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.997156,41.038127"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Dolmabahçe Sarayı Hazine Kapısı

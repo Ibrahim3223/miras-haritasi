@@ -1,18 +1,17 @@
 ---
-title: "Gazanfer Ağa Medresesi Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:00:51+03:00
+title: "Gazanfer Ağa Medresesi Şadırvanı"
+date: "2025-12-25T10:00:51+03:00"
 slug: "gazanfer-aga-medresesi-sadirvani"
 description: "## Gazanfer Ağa Medresesi Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9554234,41.016304"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazanfer Ağa Medresesi Şadırvanı

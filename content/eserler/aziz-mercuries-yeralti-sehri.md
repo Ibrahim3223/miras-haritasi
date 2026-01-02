@@ -1,18 +1,17 @@
 ---
-title: "Aziz Mercuries Yeraltı Şehri | Miras Haritası"
-date: 2025-12-25T03:36:16+03:00
+title: "Aziz Mercuries Yeraltı Şehri"
+date: "2025-12-25T03:36:16+03:00"
 slug: "aziz-mercuries-yeralti-sehri"
 description: "## Aziz Mercuries Yeraltı Şehri: Bir Keşif Hakkında..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Gülağaç"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Mercuries Yeraltı Şehri: Bir Keşif Hakkında

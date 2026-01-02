@@ -1,18 +1,17 @@
 ---
-title: "Mehmed Şemseddin Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:23+03:00
+title: "Mehmed Şemseddin Efendi Türbesi"
+date: "2025-12-25T14:31:23+03:00"
 slug: "mehmed-semseddin-efendi-turbesi"
 description: "## Mehmed Şemseddin Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.939404,41.021695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmed Şemseddin Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Çiftehanlar Camii | Miras Haritası"
-date: 2025-12-24T22:32:02+03:00
+title: "Çiftehanlar Camii"
+date: "2025-12-24T22:32:02+03:00"
 slug: "ciftehanlar-camii"
 description: "# Çiftehanlar Camii: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6728783,39.1026917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çiftehanlar Camii: Manisa'nın Tarihi ve Kültürel Mirası

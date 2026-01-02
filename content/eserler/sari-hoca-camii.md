@@ -1,18 +1,17 @@
 ---
-title: "Sarı Hoca Camii | Miras Haritası"
-date: 2025-12-24T22:42:44+03:00
+title: "Sarı Hoca Camii"
+date: "2025-12-24T22:42:44+03:00"
 slug: "sari-hoca-camii"
 description: "## Sarı Hoca Camii: Kırkağaç'taki Bir Tarihsel Çanı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6680336,39.1002083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarı Hoca Camii: Kırkağaç'taki Bir Tarihsel Çanı

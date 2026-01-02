@@ -1,18 +1,17 @@
 ---
-title: "Ahi Durmuş Baba Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:22+03:00
+title: "Ahi Durmuş Baba Çeşmesi"
+date: "2025-12-25T11:01:22+03:00"
 slug: "ahi-durmus-baba-cesmesi"
 description: "## Ahi Durmuş Baba Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.968969,41.011391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Durmuş Baba Çeşmesi

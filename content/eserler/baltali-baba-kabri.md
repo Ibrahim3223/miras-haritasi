@@ -1,18 +1,17 @@
 ---
-title: "Baltalı Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:31:15+03:00
+title: "Baltalı Baba Kabri"
+date: "2025-12-25T13:31:15+03:00"
 slug: "baltali-baba-kabri"
 description: "**Baltalı Baba Kabri**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9328136,41.0205612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Baltalı Baba Kabri**

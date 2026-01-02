@@ -1,18 +1,17 @@
 ---
-title: "Drizipara | Miras Haritası"
-date: 2025-12-25T04:22:30+03:00
+title: "Drizipara"
+date: "2025-12-25T04:22:30+03:00"
 slug: "drizipara"
 description: "## Drizipara Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.607128,41.3082"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Drizipara Arkeolojik Sit

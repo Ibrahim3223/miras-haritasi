@@ -1,18 +1,17 @@
 ---
-title: "Boruktol Höyüğü | Miras Haritası"
-date: 2025-12-25T06:15:24+03:00
+title: "Boruktol Höyüğü"
+date: "2025-12-25T06:15:24+03:00"
 slug: "boruktol-hoyugu"
 description: "## Boruktol Höyüğü: Konya'nın Gizli Mimari Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.52513,37.69152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boruktol Höyüğü: Konya'nın Gizli Mimari Anıtı

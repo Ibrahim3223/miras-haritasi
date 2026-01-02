@@ -1,18 +1,17 @@
 ---
-title: "Huysuz Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:07+03:00
+title: "Huysuz Baba Türbesi"
+date: "2025-12-25T14:55:07+03:00"
 slug: "huysuz-baba-turbesi"
 description: "## Huysuz Baba Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5635166,41.6671333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Huysuz Baba Türbesi

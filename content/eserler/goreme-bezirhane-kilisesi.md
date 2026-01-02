@@ -1,18 +1,17 @@
 ---
-title: "Göreme Bezirhane Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:28+03:00
+title: "Göreme Bezirhane Kilisesi"
+date: "2025-12-25T09:25:28+03:00"
 slug: "goreme-bezirhane-kilisesi"
 description: "### Göreme Bezirhane Kilisesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.8248558,38.6449547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Göreme Bezirhane Kilisesi

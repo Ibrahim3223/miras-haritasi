@@ -1,18 +1,17 @@
 ---
-title: "İshak Ağa Çeşmesi, Kireçburnu | Miras Haritası"
-date: 2025-12-25T12:13:45+03:00
+title: "İshak Ağa Çeşmesi, Kireçburnu"
+date: "2025-12-25T12:13:45+03:00"
 slug: "ishak-aga-cesmesi-kirecburnu"
 description: "## İshak Ağa Çeşmesi, Kireçburnu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.045836,41.14813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İshak Ağa Çeşmesi, Kireçburnu

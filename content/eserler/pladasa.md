@@ -1,18 +1,17 @@
 ---
-title: "Pladasa | Miras Haritası"
-date: 2025-12-25T04:39:00+03:00
+title: "Pladasa"
+date: "2025-12-25T04:39:00+03:00"
 slug: "pladasa"
 description: "## Pladasa: Türkiye'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.079785,37.087317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pladasa: Türkiye'nin Gizli Arkeolojik Harikası

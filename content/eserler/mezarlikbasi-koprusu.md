@@ -1,18 +1,17 @@
 ---
-title: "Mezarlıkbaşı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:36+03:00
+title: "Mezarlıkbaşı Köprüsü"
+date: "2025-12-25T02:43:36+03:00"
 slug: "mezarlikbasi-koprusu"
 description: "## Mezarlıkbaşı Köprüsü: Aydın'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.160202,37.9627838"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mezarlıkbaşı Köprüsü: Aydın'ın Tarihî Bir Mirası

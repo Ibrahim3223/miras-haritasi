@@ -1,18 +1,17 @@
 ---
-title: "Geçkinli Şehitlik Anıtı | Miras Haritası"
-date: 2025-12-25T14:08:46+03:00
+title: "Geçkinli Şehitlik Anıtı"
+date: "2025-12-25T14:08:46+03:00"
 slug: "geckinli-sehitlik-aniti"
 description: "### Geçkinli Şehitlik Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.843792,41.7411385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Geçkinli Şehitlik Anıtı

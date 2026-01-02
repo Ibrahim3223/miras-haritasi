@@ -1,18 +1,17 @@
 ---
-title: "Yazır Höyük (Eskişehir) | Miras Haritası"
-date: 2025-12-25T07:08:17+03:00
+title: "Yazır Höyük (Eskişehir)"
+date: "2025-12-25T07:08:17+03:00"
 slug: "yazir-hoyuk-eskisehir"
 description: "## Yazır Höyük (Eskişehir)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yazır Höyük (Eskişehir)

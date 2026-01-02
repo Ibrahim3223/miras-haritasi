@@ -1,18 +1,17 @@
 ---
-title: "Baş Çeşme Camii | Miras Haritası"
-date: 2025-12-24T22:12:04+03:00
+title: "Baş Çeşme Camii"
+date: "2025-12-24T22:12:04+03:00"
 slug: "bas-cesme-camii"
 description: "# Baş Çeşme Camii: Afyonkarahisar'ın Tarihsel Bir Değerini Keşfedin..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5340214,38.7581406"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Baş Çeşme Camii: Afyonkarahisar'ın Tarihsel Bir Değerini Keşfedin

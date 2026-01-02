@@ -1,18 +1,17 @@
 ---
-title: "Lokman Zaviyesi, Beçin | Miras Haritası"
-date: 2025-12-25T00:11:01+03:00
+title: "Lokman Zaviyesi, Beçin"
+date: "2025-12-25T00:11:01+03:00"
 slug: "lokman-zaviyesi-becin"
 description: "# Lokman Zaviyesi, Beçin..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7812004,37.2748146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Lokman Zaviyesi, Beçin

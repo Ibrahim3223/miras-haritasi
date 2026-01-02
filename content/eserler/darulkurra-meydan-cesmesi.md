@@ -1,18 +1,17 @@
 ---
-title: "Darülkurra Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:53:15+03:00
+title: "Darülkurra Meydan Çeşmesi"
+date: "2025-12-25T12:53:15+03:00"
 slug: "darulkurra-meydan-cesmesi"
 description: "## Darülkurra Meydan Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6460476,38.2268105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darülkurra Meydan Çeşmesi

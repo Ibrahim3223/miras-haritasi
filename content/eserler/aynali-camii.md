@@ -1,18 +1,17 @@
 ---
-title: "Aynalı Camii | Miras Haritası"
-date: 2025-12-25T01:03:07+03:00
+title: "Aynalı Camii"
+date: "2025-12-25T01:03:07+03:00"
 slug: "aynali-camii"
 description: "### Aynalı Camii: Manisa'nın Tarihî Bir Cenneti..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.843178,38.923894"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aynalı Camii: Manisa'nın Tarihî Bir Cenneti

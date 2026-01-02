@@ -1,18 +1,17 @@
 ---
-title: "Kitanaura | Miras Haritası"
-date: 2025-12-25T07:11:10+03:00
+title: "Kitanaura"
+date: "2025-12-25T07:11:10+03:00"
 slug: "kitanaura"
 description: "## Kitanaura Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.36638889,36.6475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kitanaura Arkeolojik Sit

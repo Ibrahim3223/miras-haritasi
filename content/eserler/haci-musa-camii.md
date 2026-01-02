@@ -1,18 +1,17 @@
 ---
-title: "Hacı Musa Camii | Miras Haritası"
-date: 2025-12-24T23:28:05+03:00
+title: "Hacı Musa Camii"
+date: "2025-12-24T23:28:05+03:00"
 slug: "haci-musa-camii"
 description: "## Hacı Musa Camii: Aksaray'ın Tarihi Ören Yeri..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.0271683,38.376461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Musa Camii: Aksaray'ın Tarihi Ören Yeri

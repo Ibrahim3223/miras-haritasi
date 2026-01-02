@@ -1,18 +1,17 @@
 ---
-title: "Phokaia Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:21:23+03:00
+title: "Phokaia Antik Tiyatrosu"
+date: "2025-12-25T16:21:23+03:00"
 slug: "phokaia-antik-tiyatrosu"
 description: "## Phokaia Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "26.759011,38.669892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phokaia Antik Tiyatrosu

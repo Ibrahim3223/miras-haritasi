@@ -1,18 +1,17 @@
 ---
-title: "Kızıldeli Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:35+03:00
+title: "Kızıldeli Sultan Türbesi"
+date: "2025-12-25T15:21:35+03:00"
 slug: "kizildeli-sultan-turbesi"
 description: "# Kızıldeli Sultan Türbesi: Malatya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yazıhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.1085358,38.6156502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kızıldeli Sultan Türbesi: Malatya'nın Gizli Kahramanı

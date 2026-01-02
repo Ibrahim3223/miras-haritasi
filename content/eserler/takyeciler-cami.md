@@ -1,18 +1,17 @@
 ---
-title: "Takyeciler Cami | Miras Haritası"
-date: 2025-12-24T21:53:56+03:00
+title: "Takyeciler Cami"
+date: "2025-12-24T21:53:56+03:00"
 slug: "takyeciler-cami"
 description: "### Takyeciler Cami'nin Gizemi: Tokat'ta Bir Tarihî Harikası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.546305555,40.316083333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Takyeciler Cami'nin Gizemi: Tokat'ta Bir Tarihî Harikası

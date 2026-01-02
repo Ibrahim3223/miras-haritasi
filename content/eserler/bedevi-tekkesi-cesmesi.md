@@ -1,18 +1,17 @@
 ---
-title: "Bedevi Tekkesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:06+03:00
+title: "Bedevi Tekkesi Çeşmesi"
+date: "2025-12-25T11:10:06+03:00"
 slug: "bedevi-tekkesi-cesmesi"
 description: "## Bedevi Tekkesi Çeşmesi: Üsküdar'ın Gizli Cenneti..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Beylerbeyi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.045621,41.040288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bedevi Tekkesi Çeşmesi: Üsküdar'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Kırk Çeşme | Miras Haritası"
-date: 2025-12-25T11:40:54+03:00
+title: "Kırk Çeşme"
+date: "2025-12-25T11:40:54+03:00"
 slug: "kirk-cesme"
 description: "### Kırk Çeşme: Erzurum'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2748375,39.9087601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırk Çeşme: Erzurum'un Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Krom Vadisi Mohara Kilisesi | Miras Haritası"
-date: 2025-12-25T09:14:38+03:00
+title: "Krom Vadisi Mohara Kilisesi"
+date: "2025-12-25T09:14:38+03:00"
 slug: "krom-vadisi-mohara-kilisesi"
 description: "## Krom Vadisi Mohara Kilisesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.606971,40.551093"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Krom Vadisi Mohara Kilisesi: Tarihi ve Kültürel Mirasımız

@@ -1,18 +1,17 @@
 ---
-title: "Hatibiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:52+03:00
+title: "Hatibiye Medresesi"
+date: "2025-12-25T17:37:52+03:00"
 slug: "hatibiye-medresesi"
 description: "## Hatibiye Medresesi..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Bitlis"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "42.1063461,38.3984528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatibiye Medresesi

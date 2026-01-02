@@ -1,18 +1,17 @@
 ---
-title: "Safiye Hatun Camii | Miras Haritası"
-date: 2025-12-25T00:37:00+03:00
+title: "Safiye Hatun Camii"
+date: "2025-12-25T00:37:00+03:00"
 slug: "safiye-hatun-camii"
 description: "## Safiye Hatun Camii: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.441836744,38.820547283"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Safiye Hatun Camii: Kayseri'nin Gizli Cenneti

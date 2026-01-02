@@ -1,18 +1,17 @@
 ---
-title: "Toptepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:58:53+03:00
+title: "Toptepe Tümülüsü"
+date: "2025-12-25T07:58:53+03:00"
 slug: "toptepe-tumulusu"
 description: "## Toptepe Tümülüsü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Merkez (Uşak)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.121983422,38.676142091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toptepe Tümülüsü

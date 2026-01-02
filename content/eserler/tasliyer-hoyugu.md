@@ -1,18 +1,17 @@
 ---
-title: "Taşlıyer Höyüğü | Miras Haritası"
-date: 2025-12-25T06:28:45+03:00
+title: "Taşlıyer Höyüğü"
+date: "2025-12-25T06:28:45+03:00"
 slug: "tasliyer-hoyugu"
 description: "## Taşlıyer Höyüğü: Aksaray'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8685697,38.5059806"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlıyer Höyüğü: Aksaray'ın Gizli Zirvesi

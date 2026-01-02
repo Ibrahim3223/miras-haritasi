@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Sultandağı | Miras Haritası"
-date: 2025-12-25T00:27:08+03:00
+title: "Çarşı Camii, Sultandağı"
+date: "2025-12-25T00:27:08+03:00"
 slug: "carsi-camii-sultandagi"
 description: "## Çarşı Camii, Sultandağı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sultandağı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.2281322,38.5321198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Sultandağı

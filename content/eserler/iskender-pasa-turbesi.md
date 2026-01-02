@@ -1,18 +1,17 @@
 ---
-title: "İskender Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:20+03:00
+title: "İskender Paşa Türbesi"
+date: "2025-12-25T14:35:20+03:00"
 slug: "iskender-pasa-turbesi"
 description: "## İskender Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.976713,41.004209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskender Paşa Türbesi

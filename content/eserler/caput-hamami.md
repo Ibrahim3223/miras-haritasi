@@ -1,18 +1,17 @@
 ---
-title: "Çaput Hamamı | Miras Haritası"
-date: 2025-12-25T16:43:54+03:00
+title: "Çaput Hamamı"
+date: "2025-12-25T16:43:54+03:00"
 slug: "caput-hamami"
 description: "## Çaput Hamamı: Gümüşhane'de Bir Tarihî Miras..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.4568634,40.4514008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaput Hamamı: Gümüşhane'de Bir Tarihî Miras

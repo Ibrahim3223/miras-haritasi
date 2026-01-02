@@ -1,18 +1,17 @@
 ---
-title: "Priene Bouleuterionu | Miras Haritası"
-date: 2025-12-25T08:34:02+03:00
+title: "Priene Bouleuterionu"
+date: "2025-12-25T08:34:02+03:00"
 slug: "priene-bouleuterionu"
 description: "**Priene Bouleuterionu: Aydın'ın Tarihi Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Priene_Bouleuterion_20240927_093723.jpg/1200px-Priene_Bouleuterion_20240927_093723.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "27.2981318,37.6591231"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Priene Bouleuterionu: Aydın'ın Tarihi Mirası**

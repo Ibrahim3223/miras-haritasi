@@ -1,18 +1,17 @@
 ---
-title: "Hacılar Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:31+03:00
+title: "Hacılar Camii Çeşmesi"
+date: "2025-12-25T10:54:31+03:00"
 slug: "hacilar-camii-cesmesi"
 description: "### Hacılar Camii Çeşmesi..."
 featured_image: ""
 province: "Orhangazi (ilçe)"
-iller: ["Orhangazi (ilçe)"]
+iller: '["Orhangazi (ilçe)"]'
 district: "Hocaalizade"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0662136,40.1818733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacılar Camii Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Yerköylü Ahmed Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:36:27+03:00
+title: "Yerköylü Ahmed Ağa Çeşmesi"
+date: "2025-12-25T10:36:27+03:00"
 slug: "yerkoylu-ahmed-aga-cesmesi"
 description: "## Yerköylü Ahmed Ağa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.955341,41.028152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yerköylü Ahmed Ağa Çeşmesi

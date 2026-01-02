@@ -1,18 +1,17 @@
 ---
-title: "Eğlenhoca Camii | Miras Haritası"
-date: 2025-12-24T22:36:01+03:00
+title: "Eğlenhoca Camii"
+date: "2025-12-24T22:36:01+03:00"
 slug: "eglenhoca-camii"
 description: "### Eğlenhoca Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5695724,38.5425606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eğlenhoca Camii: İzmir'in Tarihi Bir Mirası

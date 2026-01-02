@@ -1,18 +1,17 @@
 ---
-title: "Tilkiburnu Höyüğü | Miras Haritası"
-date: 2025-12-25T07:05:18+03:00
+title: "Tilkiburnu Höyüğü"
+date: "2025-12-25T07:05:18+03:00"
 slug: "tilkiburnu-hoyugu"
 description: "## Tilkiburnu Höyüğü: Kırklareli'nin Gizli Mücevheri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tilkiburnu Höyüğü: Kırklareli'nin Gizli Mücevheri

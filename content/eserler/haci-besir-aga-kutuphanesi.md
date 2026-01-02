@@ -1,18 +1,17 @@
 ---
-title: "Hacı Beşir Ağa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:52:25+03:00
+title: "Hacı Beşir Ağa Kütüphanesi"
+date: "2025-12-25T17:52:25+03:00"
 slug: "haci-besir-aga-kutuphanesi"
 description: "## Hacı Beşir Ağa Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hacı_Beşir_Ağa_Kütüphanesi_06.jpg/1200px-Hacı_Beşir_Ağa_Kütüphanesi_06.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.977286,41.010574"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Beşir Ağa Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Akören Kalesi, Aladağ | Miras Haritası"
-date: 2025-12-25T01:36:00+03:00
+title: "Akören Kalesi, Aladağ"
+date: "2025-12-25T01:36:00+03:00"
 slug: "akoren-kalesi-aladag"
 description: "**Akören Kalesi: Aladağ'ın Tarihî ve Kültürel Mirası**..."
 featured_image: ""
 province: "Akdeniz Bölgesi"
-iller: ["Akdeniz Bölgesi"]
+iller: '["Akdeniz Bölgesi"]'
 district: "Aladağ"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.4596329,37.4483566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akören Kalesi: Aladağ'ın Tarihî ve Kültürel Mirası**

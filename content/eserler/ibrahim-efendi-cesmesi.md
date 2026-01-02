@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:14:09+03:00
+title: "İbrahim Efendi Çeşmesi"
+date: "2025-12-25T12:14:09+03:00"
 slug: "ibrahim-efendi-cesmesi"
 description: "## İbrahim Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.020129,41.019945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Efendi Çeşmesi

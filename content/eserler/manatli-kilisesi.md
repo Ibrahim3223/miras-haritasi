@@ -1,18 +1,17 @@
 ---
-title: "Manatlı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:31+03:00
+title: "Manatlı Kilisesi"
+date: "2025-12-25T09:33:31+03:00"
 slug: "manatli-kilisesi"
 description: "### Manatlı Kilisesi: Torul'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.4997902,40.5855026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Manatlı Kilisesi: Torul'un Tarihî Bir Mirası

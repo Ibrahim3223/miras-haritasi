@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Ağa Sebili, Mollafenari | Miras Haritası"
-date: 2025-12-25T13:03:41+03:00
+title: "Mustafa Ağa Sebili, Mollafenari"
+date: "2025-12-25T13:03:41+03:00"
 slug: "mustafa-aga-sebili-mollafenari"
 description: "## Mustafa Ağa Sebili, Mollafenari..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971655042,41.011514446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Ağa Sebili, Mollafenari

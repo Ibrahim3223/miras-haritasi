@@ -1,18 +1,17 @@
 ---
-title: "Ahi Muhyiddin Zaviyesi | Miras Haritası"
-date: 2025-12-25T14:45:58+03:00
+title: "Ahi Muhyiddin Zaviyesi"
+date: "2025-12-25T14:45:58+03:00"
 slug: "ahi-muhyiddin-zaviyesi"
 description: "## Ahi Muhyiddin Zaviyesi: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.5543976,40.3079491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Muhyiddin Zaviyesi: Tokat'ın Tarihi ve Kültürel Mirası

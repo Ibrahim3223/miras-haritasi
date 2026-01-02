@@ -1,18 +1,17 @@
 ---
-title: "Yeniceköy Camii | Miras Haritası"
-date: 2025-12-24T23:47:59+03:00
+title: "Yeniceköy Camii"
+date: "2025-12-24T23:47:59+03:00"
 slug: "yenicekoy-camii"
 description: "## Yeniceköy Camii: İzmir'in Doğal Güzelliği ile Birlikte Bir Önemli Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7276249,38.0843277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeniceköy Camii: İzmir'in Doğal Güzelliği ile Birlikte Bir Önemli Cami

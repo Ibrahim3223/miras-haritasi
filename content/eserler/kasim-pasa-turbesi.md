@@ -1,18 +1,17 @@
 ---
-title: "Kasım Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:26+03:00
+title: "Kasım Paşa Türbesi"
+date: "2025-12-25T14:37:26+03:00"
 slug: "kasim-pasa-turbesi"
 description: "### Kasım Paşa Türbesi: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5387,38.7609"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kasım Paşa Türbesi: Afyonkarahisar'ın Gizli Cenneti

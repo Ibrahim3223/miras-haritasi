@@ -1,18 +1,17 @@
 ---
-title: "Ardanyak Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:59+03:00
+title: "Ardanyak Kalesi"
+date: "2025-12-25T01:37:59+03:00"
 slug: "ardanyak-kalesi"
 description: "## Ardanyak Kalesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
-province: "Çıldır eyaleti"
-iller: ["Çıldır eyaleti"]
-district: "Ardahan"
+province: "Ardahan"
+iller: '["Ardahan"]'
+district: "Çıldır eyaleti"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.43948,41.054436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ardanyak Kalesi: Tarihi ve Kültürel Mirasımız

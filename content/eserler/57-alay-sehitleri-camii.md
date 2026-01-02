@@ -1,18 +1,17 @@
 ---
-title: "57. Alay Şehitleri Camii | Miras Haritası"
-date: 2025-12-24T21:58:03+03:00
+title: "57. Alay Şehitleri Camii"
+date: "2025-12-24T21:58:03+03:00"
 slug: "57-alay-sehitleri-camii"
 description: "## 57. Alay Şehitleri Camii: Adana'nın Değerli Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/57._Alay_Şehitleri_Camii,_Adana_05.jpg/1200px-57._Alay_Şehitleri_Camii,_Adana_05.jpg"
-province: "Adana Vilayeti"
-iller: ["Adana Vilayeti"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: "Adana Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.365138888,37.060666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## 57. Alay Şehitleri Camii: Adana'nın Değerli Camii

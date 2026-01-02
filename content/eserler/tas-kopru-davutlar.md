@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Davutlar | Miras Haritası"
-date: 2025-12-25T02:49:31+03:00
+title: "Taş Köprü, Davutlar"
+date: "2025-12-25T02:49:31+03:00"
 slug: "tas-kopru-davutlar"
 description: "### Taş Köprü, Davutlar: Manisa'nın Eski Bir Harikası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.3570995,38.7909012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taş Köprü, Davutlar: Manisa'nın Eski Bir Harikası

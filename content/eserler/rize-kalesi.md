@@ -1,18 +1,17 @@
 ---
-title: "Rize Kalesi | Miras Haritası"
-date: 2025-12-25T01:14:16+03:00
+title: "Rize Kalesi"
+date: "2025-12-25T01:14:16+03:00"
 slug: "rize-kalesi"
 description: "# Rize Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Entrance_of_the_Castle_of_Rize,_Rize,_Turkey.JPG/1200px-Entrance_of_the_Castle_of_Rize,_Rize,_Turkey.JPG"
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.51018,41.02756"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Rize Kalesi

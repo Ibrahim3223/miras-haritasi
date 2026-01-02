@@ -1,18 +1,17 @@
 ---
-title: "Abdi Subaşı Camii | Miras Haritası"
-date: 2025-12-24T22:46:00+03:00
+title: "Abdi Subaşı Camii"
+date: "2025-12-24T22:46:00+03:00"
 slug: "abdi-subasi-camii"
 description: "## Abdi Subaşı Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.951519,41.028868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdi Subaşı Camii

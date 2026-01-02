@@ -1,18 +1,17 @@
 ---
-title: "Servili Cami | Miras Haritası"
-date: 2025-12-24T23:55:28+03:00
+title: "Servili Cami"
+date: "2025-12-24T23:55:28+03:00"
 slug: "servili-cami"
 description: "**Servili Cami**..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1648674,36.204422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Servili Cami**

@@ -1,18 +1,17 @@
 ---
-title: "Attar Hacı Halil Mescidi | Miras Haritası"
-date: 2025-12-25T00:06:59+03:00
+title: "Attar Hacı Halil Mescidi"
+date: "2025-12-25T00:06:59+03:00"
 slug: "attar-haci-halil-mescidi"
 description: "## Attar Hacı Halil Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5505867,41.6718712"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Attar Hacı Halil Mescidi

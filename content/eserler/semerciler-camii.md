@@ -1,18 +1,17 @@
 ---
-title: "Semerciler Camii | Miras Haritası"
-date: 2025-12-25T00:24:09+03:00
+title: "Semerciler Camii"
+date: "2025-12-25T00:24:09+03:00"
 slug: "semerciler-camii"
 description: "# Semerciler Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1631851,36.2031136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Semerciler Camii

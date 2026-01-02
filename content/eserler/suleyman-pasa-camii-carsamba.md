@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Paşa Camii, Çarşamba | Miras Haritası"
-date: 2025-12-24T23:09:22+03:00
+title: "Süleyman Paşa Camii, Çarşamba"
+date: "2025-12-24T23:09:22+03:00"
 slug: "suleyman-pasa-camii-carsamba"
 description: "### Süleyman Paşa Camii, Çarşamba..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Çarşamba"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.728699,41.194752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Süleyman Paşa Camii, Çarşamba

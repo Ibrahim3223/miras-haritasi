@@ -1,18 +1,17 @@
 ---
-title: "Lebissos | Miras Haritası"
-date: 2025-12-25T08:30:05+03:00
+title: "Lebissos"
+date: "2025-12-25T08:30:05+03:00"
 slug: "lebissos"
 description: "# Lebissos: Muğla'nın Gizli Arkeolojik Şehri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0678501,36.5538445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Lebissos: Muğla'nın Gizli Arkeolojik Şehri

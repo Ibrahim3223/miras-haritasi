@@ -1,18 +1,17 @@
 ---
-title: "Patara Anıt Mezar | Miras Haritası"
-date: 2025-12-25T14:04:35+03:00
+title: "Patara Anıt Mezar"
+date: "2025-12-25T14:04:35+03:00"
 slug: "patara-anit-mezar"
 description: "## Patara Anıt Mezarı: Kaş'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.3126812,36.2593498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Patara Anıt Mezarı: Kaş'ın Gizli Mücevheri

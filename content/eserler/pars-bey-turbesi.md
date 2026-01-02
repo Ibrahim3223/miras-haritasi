@@ -1,18 +1,17 @@
 ---
-title: "Pars Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:43+03:00
+title: "Pars Bey Türbesi"
+date: "2025-12-25T14:50:43+03:00"
 slug: "pars-bey-turbesi"
 description: "## Pars Bey Türbesi: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0607719,40.1874428"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pars Bey Türbesi: Bursa'nın Tarihi ve Kültürel Mirası

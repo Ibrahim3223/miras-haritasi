@@ -1,18 +1,17 @@
 ---
-title: "Mengencik Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:06+03:00
+title: "Mengencik Sultan Türbesi"
+date: "2025-12-25T14:16:06+03:00"
 slug: "mengencik-sultan-turbesi"
 description: "## Mengencik Sultan Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Kaynaşlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.241693,40.779078"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mengencik Sultan Türbesi

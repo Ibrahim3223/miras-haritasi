@@ -1,18 +1,17 @@
 ---
-title: "Tlos (Karya) | Miras Haritası"
-date: 2025-12-25T04:54:13+03:00
+title: "Tlos (Karya)"
+date: "2025-12-25T04:54:13+03:00"
 slug: "tlos-karya"
 description: "## Tlos (Karya): Antik Bir Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.077022,36.601967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tlos (Karya): Antik Bir Kentin Mirası

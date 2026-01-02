@@ -1,18 +1,17 @@
 ---
-title: "Top Kapısı | Miras Haritası"
-date: 2025-12-25T13:17:00+03:00
+title: "Top Kapısı"
+date: "2025-12-25T13:17:00+03:00"
 slug: "top-kapisi"
 description: "## Top Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.926355,41.021606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Top Kapısı

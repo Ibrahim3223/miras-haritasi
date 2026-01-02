@@ -1,18 +1,17 @@
 ---
-title: "Özgüven Camii | Miras Haritası"
-date: 2025-12-25T00:22:09+03:00
+title: "Özgüven Camii"
+date: "2025-12-25T00:22:09+03:00"
 slug: "ozguven-camii"
 description: "## Özgüven Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.3962999,41.0251"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özgüven Camii

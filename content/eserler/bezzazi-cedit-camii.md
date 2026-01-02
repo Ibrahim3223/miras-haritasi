@@ -1,18 +1,17 @@
 ---
-title: "Bezzazı Cedit Camii | Miras Haritası"
-date: 2025-12-24T22:46:10+03:00
+title: "Bezzazı Cedit Camii"
+date: "2025-12-24T22:46:10+03:00"
 slug: "bezzazi-cedit-camii"
 description: "## Bezzazı Cedit Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mercan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9671631,41.0145035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bezzazı Cedit Camii

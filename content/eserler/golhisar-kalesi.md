@@ -1,18 +1,17 @@
 ---
-title: "Gölhisar Kalesi | Miras Haritası"
-date: 2025-12-25T01:46:54+03:00
+title: "Gölhisar Kalesi"
+date: "2025-12-25T01:46:54+03:00"
 slug: "golhisar-kalesi"
 description: "## Gölhisar Kalesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.9139805,37.7917137"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gölhisar Kalesi: Aydın'ın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kırklareli Şehitliği | Miras Haritası"
-date: 2025-12-25T16:01:22+03:00
+title: "Kırklareli Şehitliği"
+date: "2025-12-25T16:01:22+03:00"
 slug: "kirklareli-sehitligi"
 description: "**Kırklareli Şehitliği**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kırklareli_-_Kırklareli_Martyrs_Cemetery_-_20250602074322.jpg/1200px-Kırklareli_-_Kırklareli_Martyrs_Cemetery_-_20250602074322.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2311783,41.7340126"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Kırklareli Şehitliği**

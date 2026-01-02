@@ -1,18 +1,17 @@
 ---
-title: "Kabadayı Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:21:05+03:00
+title: "Kabadayı Çeşmesi, Çeşme"
+date: "2025-12-25T12:21:05+03:00"
 slug: "kabadayi-cesmesi-cesme"
 description: "## Kabadayı Çeşmesi: Çeşme'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3070984,38.3202248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabadayı Çeşmesi: Çeşme'nin Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Alaybeyi Höyük | Miras Haritası"
-date: 2025-12-25T05:47:00+03:00
+title: "Alaybeyi Höyük"
+date: "2025-12-25T05:47:00+03:00"
 slug: "alaybeyi-hoyuk"
 description: "## Alaybeyi Höyük: Erzurum'un Gizli İncisi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Aziziye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.046082,40.010723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaybeyi Höyük: Erzurum'un Gizli İncisi

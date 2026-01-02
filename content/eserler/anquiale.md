@@ -1,18 +1,17 @@
 ---
-title: "Anquiale | Miras Haritası"
-date: 2025-12-25T04:33:07+03:00
+title: "Anquiale"
+date: "2025-12-25T04:33:07+03:00"
 slug: "anquiale"
 description: "## Anquiale: Antik Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.77007,36.814311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anquiale: Antik Bir Arkeolojik Sit

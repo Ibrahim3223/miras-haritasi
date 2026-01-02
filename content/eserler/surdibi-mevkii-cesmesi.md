@@ -1,18 +1,17 @@
 ---
-title: "Surdibi Mevkii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:27:18+03:00
+title: "Surdibi Mevkii Çeşmesi"
+date: "2025-12-25T12:27:18+03:00"
 slug: "surdibi-mevkii-cesmesi"
 description: "## Surdibi Mevkii Çeşmesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.992964761,36.534278337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surdibi Mevkii Çeşmesi

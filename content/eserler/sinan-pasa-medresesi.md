@@ -1,18 +1,17 @@
 ---
-title: "Sinan Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:16+03:00
+title: "Sinan Paşa Medresesi"
+date: "2025-12-25T17:37:16+03:00"
 slug: "sinan-pasa-medresesi"
 description: "## Sinan Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0060177,41.0424919"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan Paşa Medresesi

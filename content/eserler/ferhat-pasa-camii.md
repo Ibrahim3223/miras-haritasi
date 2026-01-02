@@ -1,18 +1,17 @@
 ---
-title: "Ferhat Paşa Camii | Miras Haritası"
-date: 2025-12-25T00:03:47+03:00
+title: "Ferhat Paşa Camii"
+date: "2025-12-25T00:03:47+03:00"
 slug: "ferhat-pasa-camii"
 description: "## Ferhat Paşa Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7790947,41.3780708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferhat Paşa Camii

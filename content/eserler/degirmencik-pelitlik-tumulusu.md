@@ -1,18 +1,17 @@
 ---
-title: "Değirmencik Pelitlik Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:19+03:00
+title: "Değirmencik Pelitlik Tümülüsü"
+date: "2025-12-25T07:52:19+03:00"
 slug: "degirmencik-pelitlik-tumulusu"
 description: "## Değirmencik Pelitlik Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2219105,41.6340523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmencik Pelitlik Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Katarlı Camii | Miras Haritası"
-date: 2025-12-25T00:19:32+03:00
+title: "Katarlı Camii"
+date: "2025-12-25T00:19:32+03:00"
 slug: "katarli-camii"
 description: "### Katarlı Camii: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.41946165,37.153951871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Katarlı Camii: Mardin'in Gizli Cenneti

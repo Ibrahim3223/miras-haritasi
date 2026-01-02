@@ -1,18 +1,17 @@
 ---
-title: "Çandır Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:52:24+03:00
+title: "Çandır Camii Çeşmesi"
+date: "2025-12-25T10:52:24+03:00"
 slug: "candir-camii-cesmesi"
 description: "## Çandır Camii Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4816551,38.7260475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çandır Camii Çeşmesi

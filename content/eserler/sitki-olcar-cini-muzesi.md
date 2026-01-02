@@ -1,18 +1,17 @@
 ---
-title: "Sıtkı Olçar Çini Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:20+03:00
+title: "Sıtkı Olçar Çini Müzesi"
+date: "2025-12-25T03:53:20+03:00"
 slug: "sitki-olcar-cini-muzesi"
 description: "## Sıtkı Olçar Çini Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9788418,39.4216194"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sıtkı Olçar Çini Müzesi

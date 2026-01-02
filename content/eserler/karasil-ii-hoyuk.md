@@ -1,18 +1,17 @@
 ---
-title: "Karasıl II Höyük | Miras Haritası"
-date: 2025-12-25T05:27:19+03:00
+title: "Karasıl II Höyük"
+date: "2025-12-25T05:27:19+03:00"
 slug: "karasil-ii-hoyuk"
 description: "## Karasıl II Höyük: Bursa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.561667,40.215183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karasıl II Höyük: Bursa'nın Tarihî Mirası

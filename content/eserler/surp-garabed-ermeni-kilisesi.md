@@ -1,18 +1,17 @@
 ---
-title: "Surp Garabed Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:50+03:00
+title: "Surp Garabed Ermeni Kilisesi"
+date: "2025-12-25T09:39:50+03:00"
 slug: "surp-garabed-ermeni-kilisesi"
 description: "### Surp Garabed Ermeni Kilisesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Hafik"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.3383331,39.7532616"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Garabed Ermeni Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Zeynelzade Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:45:54+03:00
+title: "Zeynelzade Kütüphanesi"
+date: "2025-12-25T17:45:54+03:00"
 slug: "zeynelzade-kutuphanesi"
 description: "## Zeynelzade Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zeynelzade_Library,_Akhisar,_Manisa,_Türkiye_(2025).jpg/1200px-Zeynelzade_Library,_Akhisar,_Manisa,_Türkiye_(2025).jpg"
 province: "Akhisar (ilçe)"
-iller: ["Akhisar (ilçe)"]
+iller: '["Akhisar (ilçe)"]'
 district: "Hashoca"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.846033771,38.919736234"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zeynelzade Kütüphanesi

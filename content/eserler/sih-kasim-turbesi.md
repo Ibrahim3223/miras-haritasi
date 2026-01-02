@@ -1,18 +1,17 @@
 ---
-title: "Şıh Kasım Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:58+03:00
+title: "Şıh Kasım Türbesi"
+date: "2025-12-25T14:41:58+03:00"
 slug: "sih-kasim-turbesi"
 description: "## Şıh Kasım Türbesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.6164465,40.6032657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şıh Kasım Türbesi

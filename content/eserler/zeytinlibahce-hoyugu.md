@@ -1,18 +1,17 @@
 ---
-title: "Zeytinlibahçe Höyüğü | Miras Haritası"
-date: 2025-12-25T05:52:07+03:00
+title: "Zeytinlibahçe Höyüğü"
+date: "2025-12-25T05:52:07+03:00"
 slug: "zeytinlibahce-hoyugu"
 description: "## Zeytinlibahçe Höyüğü: Şanlıurfa'da Bir Arkeolojik Gizem..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9777895,36.9956068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeytinlibahçe Höyüğü: Şanlıurfa'da Bir Arkeolojik Gizem

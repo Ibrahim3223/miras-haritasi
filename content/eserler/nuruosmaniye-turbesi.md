@@ -1,18 +1,17 @@
 ---
-title: "Nuruosmaniye Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:06+03:00
+title: "Nuruosmaniye Türbesi"
+date: "2025-12-25T14:38:06+03:00"
 slug: "nuruosmaniye-turbesi"
 description: "### Nuruosmaniye Türbesi: Fatih'in Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9709473,41.0105703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nuruosmaniye Türbesi: Fatih'in Gizli Çehresi

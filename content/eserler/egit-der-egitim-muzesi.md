@@ -1,18 +1,17 @@
 ---
-title: "Eğit-Der Eğitim Müzesi | Miras Haritası"
-date: 2025-12-25T03:55:30+03:00
+title: "Eğit-Der Eğitim Müzesi"
+date: "2025-12-25T03:55:30+03:00"
 slug: "egit-der-egitim-muzesi"
 description: "## Eğit-Der Eğitim Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.837082,39.885212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eğit-Der Eğitim Müzesi

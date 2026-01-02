@@ -1,18 +1,17 @@
 ---
-title: "Gözpınar Şehitliği | Miras Haritası"
-date: 2025-12-25T15:58:47+03:00
+title: "Gözpınar Şehitliği"
+date: "2025-12-25T15:58:47+03:00"
 slug: "gozpinar-sehitligi"
 description: "## Gözpınar Şehitliği: Aydın'ın Anıtsal Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8041,37.9140282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gözpınar Şehitliği: Aydın'ın Anıtsal Mirası

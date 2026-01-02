@@ -1,18 +1,17 @@
 ---
-title: "Cezayirli Ali Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:27:49+03:00
+title: "Cezayirli Ali Paşa Camii"
+date: "2025-12-24T22:27:49+03:00"
 slug: "cezayirli-ali-pasa-camii"
 description: "**Cezayirli Ali Paşa Camii**..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1620445,42.0254517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Cezayirli Ali Paşa Camii**

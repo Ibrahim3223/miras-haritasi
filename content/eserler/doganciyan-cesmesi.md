@@ -1,18 +1,17 @@
 ---
-title: "Doğancıyan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:47:16+03:00
+title: "Doğancıyan Çeşmesi"
+date: "2025-12-25T12:47:16+03:00"
 slug: "doganciyan-cesmesi"
 description: "### Doğancıyan Çeşmesi: İzmir'in Tarihi Bir Ögesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7409821,38.083786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doğancıyan Çeşmesi: İzmir'in Tarihi Bir Ögesi

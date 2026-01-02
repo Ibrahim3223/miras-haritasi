@@ -1,18 +1,17 @@
 ---
-title: "İsmail Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:01+03:00
+title: "İsmail Ağa Çeşmesi"
+date: "2025-12-25T11:35:01+03:00"
 slug: "ismail-aga-cesmesi"
 description: "## İsmail Ağa Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.505825,37.8675385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmail Ağa Çeşmesi

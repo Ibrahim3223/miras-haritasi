@@ -1,18 +1,17 @@
 ---
-title: "Hamza Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:33:07+03:00
+title: "Hamza Paşa Camii"
+date: "2025-12-24T23:33:07+03:00"
 slug: "hamza-pasa-camii"
 description: "## Hamza Paşa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.0886612,38.3495789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamza Paşa Camii

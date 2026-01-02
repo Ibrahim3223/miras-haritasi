@@ -1,18 +1,17 @@
 ---
-title: "Esendere - Sero border post | Miras Haritası"
-date: 2025-12-25T08:34:52+03:00
+title: "Esendere - Sero border post"
+date: "2025-12-25T08:34:52+03:00"
 slug: "esendere-sero-border-post"
 description: "## Esendere - Sero Border Post: Tarihi ve Kültürel Bir Kervansaray..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "44.622259,37.716689097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esendere - Sero Border Post: Tarihi ve Kültürel Bir Kervansaray

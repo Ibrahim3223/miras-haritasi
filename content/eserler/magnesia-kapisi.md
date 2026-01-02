@@ -1,18 +1,17 @@
 ---
-title: "Magnesia Kapısı | Miras Haritası"
-date: 2025-12-25T08:19:32+03:00
+title: "Magnesia Kapısı"
+date: "2025-12-25T08:19:32+03:00"
 slug: "magnesia-kapisi"
 description: "## Magnesia Kapısı: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.350560002,37.934548246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Magnesia Kapısı: İzmir'in Gizli Cenneti

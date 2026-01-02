@@ -1,18 +1,17 @@
 ---
-title: "Alimezarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:33:38+03:00
+title: "Alimezarı Çeşmesi"
+date: "2025-12-25T10:33:38+03:00"
 slug: "alimezari-cesmesi"
 description: "## Alimezarı Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3719997,37.7750015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alimezarı Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi

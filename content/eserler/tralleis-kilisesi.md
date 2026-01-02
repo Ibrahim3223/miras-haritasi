@@ -1,18 +1,17 @@
 ---
-title: "Tralleis Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:47+03:00
+title: "Tralleis Kilisesi"
+date: "2025-12-25T09:33:47+03:00"
 slug: "tralleis-kilisesi"
 description: "### Tralleis Kilisesi: Aydın'ın Eski Kentinde Gizli Bir Miras..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.8311634,37.859745"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tralleis Kilisesi: Aydın'ın Eski Kentinde Gizli Bir Miras

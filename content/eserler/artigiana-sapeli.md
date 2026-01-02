@@ -1,18 +1,17 @@
 ---
-title: "Artigiana Şapeli | Miras Haritası"
-date: 2025-12-25T08:43:51+03:00
+title: "Artigiana Şapeli"
+date: "2025-12-25T08:43:51+03:00"
 slug: "artigiana-sapeli"
 description: "## Artigiana Şapeli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.986798976,41.048299372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Artigiana Şapeli

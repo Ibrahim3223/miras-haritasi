@@ -1,18 +1,17 @@
 ---
-title: "Seyfullah Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:39+03:00
+title: "Seyfullah Dede Türbesi"
+date: "2025-12-25T14:47:39+03:00"
 slug: "seyfullah-dede-turbesi"
 description: "## Seyfullah Dede Türbesi: Eğirdir'in Yüce Zengini..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.848659595,37.871507399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyfullah Dede Türbesi: Eğirdir'in Yüce Zengini

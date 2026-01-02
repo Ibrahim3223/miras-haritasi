@@ -1,18 +1,17 @@
 ---
-title: "Yağmalı Höyük | Miras Haritası"
-date: 2025-12-25T05:54:55+03:00
+title: "Yağmalı Höyük"
+date: "2025-12-25T05:54:55+03:00"
 slug: "yagmali-hoyuk"
 description: "### Yağmalı Höyük: Kahramanmaraş'taki Geç Neolitik Dönemi'nin Gizemi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.021606,37.455666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yağmalı Höyük: Kahramanmaraş'taki Geç Neolitik Dönemi'nin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Kumocağı/Bağlıkarkası | Miras Haritası"
-date: 2025-12-25T05:34:07+03:00
+title: "Kumocağı/Bağlıkarkası"
+date: "2025-12-25T05:34:07+03:00"
 slug: "kumocagibaglikarkasi"
 description: "## Kumocağı/Bağlıkarkası: Havsa'da Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.865033,41.662771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumocağı/Bağlıkarkası: Havsa'da Gizli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Sarıdanişment C Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:15+03:00
+title: "Sarıdanişment C Tümülüsü"
+date: "2025-12-25T07:40:15+03:00"
 slug: "saridanisment-c-tumulusu"
 description: "## Sarıdanişment C Tümülüsü: Edirne'nin Gizli Klasikliği..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.811882,41.8764114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıdanişment C Tümülüsü: Edirne'nin Gizli Klasikliği

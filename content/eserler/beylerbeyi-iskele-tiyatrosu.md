@@ -1,18 +1,17 @@
 ---
-title: "Beylerbeyi İskele Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:18:26+03:00
+title: "Beylerbeyi İskele Tiyatrosu"
+date: "2025-12-25T16:18:26+03:00"
 slug: "beylerbeyi-iskele-tiyatrosu"
 description: "### Beylerbeyi İskele Tiyatrosu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "29.0452175,41.0448723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beylerbeyi İskele Tiyatrosu

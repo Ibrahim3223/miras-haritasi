@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:33:05+03:00
+title: "İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi"
+date: "2025-12-25T03:33:05+03:00"
 slug: "istanbul-universitesi-cerrahpasa-jeoloji-muzesi"
 description: "# İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Avcılar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.7226739,40.9891042"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi

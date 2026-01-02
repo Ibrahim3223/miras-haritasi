@@ -1,18 +1,17 @@
 ---
-title: "Ahmetbey Mahmutçuk Yolu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:24:31+03:00
+title: "Ahmetbey Mahmutçuk Yolu Tümülüsü"
+date: "2025-12-25T07:24:31+03:00"
 slug: "ahmetbey-mahmutcuk-yolu-tumulusu"
 description: "### Ahmetbey Mahmutçuk Yolu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.59659,41.461422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmetbey Mahmutçuk Yolu Tümülüsü

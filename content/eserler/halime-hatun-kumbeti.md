@@ -1,18 +1,17 @@
 ---
-title: "Halime Hatun Kümbeti | Miras Haritası"
-date: 2025-12-25T13:25:25+03:00
+title: "Halime Hatun Kümbeti"
+date: "2025-12-25T13:25:25+03:00"
 slug: "halime-hatun-kumbeti"
 description: "## Halime Hatun Kümbeti: Van'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Halime_hatun_kümbeti.jpg/1200px-Halime_hatun_kümbeti.jpg"
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gevaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.11725,38.310638888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Halime Hatun Kümbeti: Van'ın Gizli Cenneti

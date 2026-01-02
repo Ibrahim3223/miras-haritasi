@@ -1,18 +1,17 @@
 ---
-title: "Gelendost Höyük | Miras Haritası"
-date: 2025-12-25T05:36:17+03:00
+title: "Gelendost Höyük"
+date: "2025-12-25T05:36:17+03:00"
 slug: "gelendost-hoyuk"
 description: "## Gelendost Höyük: Isparta'nın Gizli Kâse..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Gelendost"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.01385,38.103908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gelendost Höyük: Isparta'nın Gizli Kâse

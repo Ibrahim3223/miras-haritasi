@@ -1,18 +1,17 @@
 ---
-title: "Meçhul Futbolcu Heykeli | Miras Haritası"
-date: 2025-12-25T16:09:10+03:00
+title: "Meçhul Futbolcu Heykeli"
+date: "2025-12-25T16:09:10+03:00"
 slug: "mechul-futbolcu-heykeli"
 description: "## Meçhul Futbolcu Heykeli: Kadıköy, İstanbul'un Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Meçhul_Futbolcu_Heykeli.jpg/1200px-Meçhul_Futbolcu_Heykeli.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0376263,40.9694405"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Meçhul Futbolcu Heykeli: Kadıköy, İstanbul'un Gizemli Anıtı

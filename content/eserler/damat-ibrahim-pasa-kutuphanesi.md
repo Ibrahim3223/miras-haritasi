@@ -1,18 +1,17 @@
 ---
-title: "Damat İbrahim Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:00+03:00
+title: "Damat İbrahim Paşa Kütüphanesi"
+date: "2025-12-25T17:55:00+03:00"
 slug: "damat-ibrahim-pasa-kutuphanesi"
 description: "## Damat İbrahim Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.9581642,41.0132828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damat İbrahim Paşa Kütüphanesi

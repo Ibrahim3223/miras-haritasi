@@ -1,18 +1,17 @@
 ---
-title: "Walker's Ridge Mezarlığı | Miras Haritası"
-date: 2025-12-25T16:06:19+03:00
+title: "Walker's Ridge Mezarlığı"
+date: "2025-12-25T16:06:19+03:00"
 slug: "walkers-ridge-mezarligi"
 description: "## Walker's Ridge Mezarlığı: Çanakkale'nin Gizli Çatısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Allied_graves_at_Walker's_Ridge_cemetery,_Gallipoli_Peninsula_(16981591559).jpg/1200px-Allied_graves_at_Walker's_Ridge_cemetery,_Gallipoli_Peninsula_(16981591559).jpg"
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.28822,40.24168"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Walker's Ridge Mezarlığı: Çanakkale'nin Gizli Çatısı

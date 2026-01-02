@@ -1,18 +1,17 @@
 ---
-title: "Ancon (Pontus) | Miras Haritası"
-date: 2025-12-25T04:51:18+03:00
+title: "Ancon (Pontus)"
+date: "2025-12-25T04:51:18+03:00"
 slug: "ancon-pontus"
 description: "## Ancon (Pontus) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.631607,41.373977"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ancon (Pontus) Arkeolojik Sit

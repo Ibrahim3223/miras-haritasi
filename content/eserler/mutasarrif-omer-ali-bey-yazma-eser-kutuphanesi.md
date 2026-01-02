@@ -1,18 +1,17 @@
 ---
-title: "Mutasarrıf Ömer Ali Bey Yazma Eser Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:08+03:00
+title: "Mutasarrıf Ömer Ali Bey Yazma Eser Kütüphanesi"
+date: "2025-12-25T17:55:08+03:00"
 slug: "mutasarrif-omer-ali-bey-yazma-eser-kutuphanesi"
 description: "## Mutasarrıf Ömer Ali Bey Yazma Eser Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mutasarrıf_Ömer_Ali_Bey_Yazma_Eser_Kütüphanesi1,_Balıkesir,_2023.jpg/1200px-Mutasarrıf_Ömer_Ali_Bey_Yazma_Eser_Kütüphanesi1,_Balıkesir,_2023.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.8791695,39.6454773"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mutasarrıf Ömer Ali Bey Yazma Eser Kütüphanesi

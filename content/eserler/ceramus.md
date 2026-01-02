@@ -1,18 +1,17 @@
 ---
-title: "Ceramus | Miras Haritası"
-date: 2025-12-25T04:21:32+03:00
+title: "Ceramus"
+date: "2025-12-25T04:21:32+03:00"
 slug: "ceramus"
 description: "## Ceramus..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ören_(Milas),_röm._Ruinen_von_Keramos.JPG/1200px-Ören_(Milas),_röm._Ruinen_von_Keramos.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.951332,37.042418"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ceramus

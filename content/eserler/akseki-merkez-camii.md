@@ -1,18 +1,17 @@
 ---
-title: "Akseki Merkez Camii | Miras Haritası"
-date: 2025-12-24T23:49:15+03:00
+title: "Akseki Merkez Camii"
+date: "2025-12-24T23:49:15+03:00"
 slug: "akseki-merkez-camii"
 description: "**Akseki Merkez Camii: Demirciler Köyünün Yüzyıllardır Bakımlı Tarihi Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Akseki_Central_Mosque_2.jpg/1200px-Akseki_Central_Mosque_2.jpg"
 province: "Akseki (ilçe)"
-iller: ["Akseki (ilçe)"]
+iller: '["Akseki (ilçe)"]'
 district: "Demirciler (Akseki)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.789999848,37.047720795"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Akseki Merkez Camii: Demirciler Köyünün Yüzyıllardır Bakımlı Tarihi Mirası**

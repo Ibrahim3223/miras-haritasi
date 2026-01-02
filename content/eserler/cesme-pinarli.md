@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Pınarlı | Miras Haritası"
-date: 2025-12-25T12:49:07+03:00
+title: "Çeşme, Pınarlı"
+date: "2025-12-25T12:49:07+03:00"
 slug: "cesme-pinarli"
 description: "## Çeşme, Pınarlı: Aydın'ın Bozdoğan'ında Bir Ölümsüz Miras..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3011894,37.7048912"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Pınarlı: Aydın'ın Bozdoğan'ında Bir Ölümsüz Miras

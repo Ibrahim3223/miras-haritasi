@@ -1,18 +1,17 @@
 ---
-title: "Habibullah Camii | Miras Haritası"
-date: 2025-12-24T23:25:45+03:00
+title: "Habibullah Camii"
+date: "2025-12-24T23:25:45+03:00"
 slug: "habibullah-camii"
 description: "**Habibullah Camii: İhtişamlı Bir Miras**..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9690971,40.3519363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Habibullah Camii: İhtişamlı Bir Miras**

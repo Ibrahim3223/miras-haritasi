@@ -1,18 +1,17 @@
 ---
-title: "Ambar Höyük | Miras Haritası"
-date: 2025-12-25T06:09:01+03:00
+title: "Ambar Höyük"
+date: "2025-12-25T06:09:01+03:00"
 slug: "ambar-hoyuk"
 description: "## Ambar Höyük: Diyarbakır'ın Gizli Kâseleme Şehri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Kocaköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.4568329,38.2662888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ambar Höyük: Diyarbakır'ın Gizli Kâseleme Şehri

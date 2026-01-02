@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hekim Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:50:03+03:00
+title: "Hacı Hekim Camii Çeşmesi"
+date: "2025-12-25T12:50:03+03:00"
 slug: "haci-hekim-camii-cesmesi"
 description: "## Hacı Hekim Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1792107,39.1211395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hekim Camii Çeşmesi

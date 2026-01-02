@@ -1,18 +1,17 @@
 ---
-title: "Çorlulu Ali Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:27+03:00
+title: "Çorlulu Ali Paşa Medresesi"
+date: "2025-12-25T17:36:27+03:00"
 slug: "corlulu-ali-pasa-medresesi"
 description: "**Çorlulu Ali Paşa Medresesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9683514,41.009037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çorlulu Ali Paşa Medresesi**

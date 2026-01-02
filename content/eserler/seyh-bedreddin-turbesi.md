@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Bedreddin Türbesi | Miras Haritası"
-date: 2025-12-25T13:54:09+03:00
+title: "Şeyh Bedreddin Türbesi"
+date: "2025-12-25T13:54:09+03:00"
 slug: "seyh-bedreddin-turbesi"
 description: "## Şeyh Bedreddin Türbesi: İlginin Merkezi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ilgın"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.9223557,38.2807541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Bedreddin Türbesi: İlginin Merkezi

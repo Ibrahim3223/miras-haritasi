@@ -1,18 +1,17 @@
 ---
-title: "Emete Hatun Kabri | Miras Haritası"
-date: 2025-12-25T13:59:14+03:00
+title: "Emete Hatun Kabri"
+date: "2025-12-25T13:59:14+03:00"
 slug: "emete-hatun-kabri"
 description: "## Emete Hatun Kabri: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9286919,41.0203705"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emete Hatun Kabri: İstanbul'un Tarihi ve Kültürel Mirası

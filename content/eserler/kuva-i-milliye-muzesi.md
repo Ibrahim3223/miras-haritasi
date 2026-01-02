@@ -1,18 +1,17 @@
 ---
-title: "Kuva-i Milliye Müzesi | Miras Haritası"
-date: 2025-12-25T04:10:17+03:00
+title: "Kuva-i Milliye Müzesi"
+date: "2025-12-25T04:10:17+03:00"
 slug: "kuva-i-milliye-muzesi"
 description: "### Kuva-i Milliye Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuva-i Milliye Müzesi

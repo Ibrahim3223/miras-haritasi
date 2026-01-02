@@ -1,18 +1,17 @@
 ---
-title: "Domus Aurea | Miras Haritası"
-date: 2025-12-25T08:42:29+03:00
+title: "Domus Aurea"
+date: "2025-12-25T08:42:29+03:00"
 slug: "domus-aurea"
 description: "## Domus Aurea: Antakya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Domus Aurea: Antakya'nın Gizli Cenneti

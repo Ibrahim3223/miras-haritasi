@@ -1,18 +1,17 @@
 ---
-title: "Dara Mahallesi Camii | Miras Haritası"
-date: 2025-12-25T00:40:50+03:00
+title: "Dara Mahallesi Camii"
+date: "2025-12-25T00:40:50+03:00"
 slug: "dara-mahallesi-camii"
 description: "## Dara Mahallesi Camii: Mardin'in Tarihî Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.954185,37.178456"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dara Mahallesi Camii: Mardin'in Tarihî Mirası

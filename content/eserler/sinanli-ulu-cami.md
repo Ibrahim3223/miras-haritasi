@@ -1,18 +1,17 @@
 ---
-title: "Sinanlı Ulu Cami | Miras Haritası"
-date: 2025-12-25T00:36:07+03:00
+title: "Sinanlı Ulu Cami"
+date: "2025-12-25T00:36:07+03:00"
 slug: "sinanli-ulu-cami"
 description: "**Sinanlı Ulu Cami: Tarihi ve Kültürel Mirasın Parçaları**..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
+iller: '["Ankara Vilayeti"]'
 district: "Ayaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.290614,39.995649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sinanlı Ulu Cami: Tarihi ve Kültürel Mirasın Parçaları**

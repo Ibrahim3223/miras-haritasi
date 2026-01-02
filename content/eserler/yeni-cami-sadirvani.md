@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:04:10+03:00
+title: "Yeni Cami Şadırvanı"
+date: "2025-12-25T10:04:10+03:00"
 slug: "yeni-cami-sadirvani"
 description: "## Yeni Cami Şadırvanı: İstanbul'un Tarihî Kısmına Dikkat Çeken Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9718323,41.0170898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Cami Şadırvanı: İstanbul'un Tarihî Kısmına Dikkat Çeken Bir Çeşme

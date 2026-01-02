@@ -1,18 +1,17 @@
 ---
-title: "Ankara Frig Tümülüsü 2, Yücetepe | Miras Haritası"
-date: 2025-12-25T07:28:56+03:00
+title: "Ankara Frig Tümülüsü 2, Yücetepe"
+date: "2025-12-25T07:28:56+03:00"
 slug: "ankara-frig-tumulusu-2-yucetepe"
 description: "### Ankara Frig Tümülüsü 2, Yücetepe..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.838768,39.928318"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ankara Frig Tümülüsü 2, Yücetepe

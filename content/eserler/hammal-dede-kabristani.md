@@ -1,18 +1,17 @@
 ---
-title: "Hammal Dede Kabristanı | Miras Haritası"
-date: 2025-12-25T16:07:21+03:00
+title: "Hammal Dede Kabristanı"
+date: "2025-12-25T16:07:21+03:00"
 slug: "hammal-dede-kabristani"
 description: "**Hammal Dede Kabristanı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.94815,41.01218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hammal Dede Kabristanı**

@@ -1,18 +1,17 @@
 ---
-title: "Sarı Güzel Hamamı | Miras Haritası"
-date: 2025-12-25T17:01:34+03:00
+title: "Sarı Güzel Hamamı"
+date: "2025-12-25T17:01:34+03:00"
 slug: "sari-guzel-hamami"
 description: "## Sarı Güzel Hamamı: Fatih, İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9466572,41.017765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarı Güzel Hamamı: Fatih, İstanbul'un Gizli Çeşmesi

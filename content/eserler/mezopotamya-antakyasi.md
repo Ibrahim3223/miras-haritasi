@@ -1,18 +1,17 @@
 ---
-title: "Mezopotamya Antakyası | Miras Haritası"
-date: 2025-12-25T04:31:07+03:00
+title: "Mezopotamya Antakyası"
+date: "2025-12-25T04:31:07+03:00"
 slug: "mezopotamya-antakyasi"
 description: "## Mezopotamya Antakyası: Şanlıurfa'nın Gizli Güzelliği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.755832,37.229021"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mezopotamya Antakyası: Şanlıurfa'nın Gizli Güzelliği

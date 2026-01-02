@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Camii | Miras Haritası"
-date: 2025-12-24T22:58:50+03:00
+title: "Akpınar Camii"
+date: "2025-12-24T22:58:50+03:00"
 slug: "akpinar-camii"
 description: "## Akpınar Camii: Kocaeli'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.8377094,40.9379768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akpınar Camii: Kocaeli'nin Tarihi Bir Mirası

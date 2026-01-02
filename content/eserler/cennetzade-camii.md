@@ -1,18 +1,17 @@
 ---
-title: "Cennetzade Camii | Miras Haritası"
-date: 2025-12-24T22:28:38+03:00
+title: "Cennetzade Camii"
+date: "2025-12-24T22:28:38+03:00"
 slug: "cennetzade-camii"
 description: "### Cennetzade Camii: Erzurum'un Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2757721,39.9041786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cennetzade Camii: Erzurum'un Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Çeşmesi, Foça | Miras Haritası"
-date: 2025-12-25T11:57:38+03:00
+title: "Cumhuriyet Çeşmesi, Foça"
+date: "2025-12-25T11:57:38+03:00"
 slug: "cumhuriyet-cesmesi-foca"
 description: "### Cumhuriyet Çeşmesi, Foça..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7528896,38.6675529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cumhuriyet Çeşmesi, Foça

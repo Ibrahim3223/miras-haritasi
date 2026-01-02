@@ -1,18 +1,17 @@
 ---
-title: "Dede Korkut Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:52+03:00
+title: "Dede Korkut Türbesi"
+date: "2025-12-25T14:44:52+03:00"
 slug: "dede-korkut-turbesi"
 description: "### Dede Korkut Türbesi..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.569767,40.1974716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dede Korkut Türbesi

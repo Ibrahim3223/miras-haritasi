@@ -1,18 +1,17 @@
 ---
-title: "Yalınayak Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:48+03:00
+title: "Yalınayak Dede Türbesi"
+date: "2025-12-25T15:16:48+03:00"
 slug: "yalinayak-dede-turbesi"
 description: "## Yalınayak Dede Türbesi: Dikili'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.957816,38.968504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalınayak Dede Türbesi: Dikili'nin Gizli Çehresini Keşfetmek

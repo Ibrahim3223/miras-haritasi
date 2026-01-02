@@ -1,18 +1,17 @@
 ---
-title: "Sille Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:12+03:00
+title: "Sille Köprüsü"
+date: "2025-12-25T02:27:12+03:00"
 slug: "sille-koprusu"
 description: "## Sille Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Konya_sille_köprü.jpg/1200px-Konya_sille_köprü.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.4159422,37.9266061"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sille Köprüsü

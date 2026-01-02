@@ -1,18 +1,17 @@
 ---
-title: "Zeynep Sultan Medresesi | Miras Haritası"
-date: 2025-12-25T17:39:43+03:00
+title: "Zeynep Sultan Medresesi"
+date: "2025-12-25T17:39:43+03:00"
 slug: "zeynep-sultan-medresesi"
 description: "## Zeynep Sultan Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.978281,41.0099602"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeynep Sultan Medresesi

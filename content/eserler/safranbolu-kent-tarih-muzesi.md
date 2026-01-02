@@ -1,18 +1,17 @@
 ---
-title: "Safranbolu Kent Tarih Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:36+03:00
+title: "Safranbolu Kent Tarih Müzesi"
+date: "2025-12-25T04:01:36+03:00"
 slug: "safranbolu-kent-tarih-muzesi"
 description: "## Safranbolu Kent Tarih Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Safranbolu_kent_tarihi_müzesi.jpg/1200px-Safranbolu_kent_tarihi_müzesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.6904585,41.2455886"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Safranbolu Kent Tarih Müzesi

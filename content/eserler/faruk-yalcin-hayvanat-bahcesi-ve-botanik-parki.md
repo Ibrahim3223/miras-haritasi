@@ -1,18 +1,17 @@
 ---
-title: "Faruk Yalçın Hayvanat Bahçesi ve Botanik Parkı | Miras Haritası"
-date: 2025-12-25T03:09:24+03:00
+title: "Faruk Yalçın Hayvanat Bahçesi ve Botanik Parkı"
+date: "2025-12-25T03:09:24+03:00"
 slug: "faruk-yalcin-hayvanat-bahcesi-ve-botanik-parki"
 description: "## Faruk Yalçın Hayvanat Bahçesi ve Botanik Parkı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.36861111,40.785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Faruk Yalçın Hayvanat Bahçesi ve Botanik Parkı

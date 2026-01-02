@@ -1,18 +1,17 @@
 ---
-title: "Benlizade Ahmet Reşid Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:11+03:00
+title: "Benlizade Ahmet Reşid Efendi Türbesi"
+date: "2025-12-25T14:24:11+03:00"
 slug: "benlizade-ahmet-resid-efendi-turbesi"
 description: "## Benlizade Ahmet Reşid Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.948703,41.023587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Benlizade Ahmet Reşid Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Toklu Dede Mescidi | Miras Haritası"
-date: 2025-12-24T21:50:43+03:00
+title: "Toklu Dede Mescidi"
+date: "2025-12-24T21:50:43+03:00"
 slug: "toklu-dede-mescidi"
 description: "## Toklu Dede Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Naos_tis_Hagias_Theklis.jpg/1200px-Naos_tis_Hagias_Theklis.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.942472222,41.039527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Toklu Dede Mescidi

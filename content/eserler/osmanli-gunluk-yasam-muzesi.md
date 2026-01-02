@@ -1,18 +1,17 @@
 ---
-title: "Osmanlı Günlük Yaşam Müzesi | Miras Haritası"
-date: 2025-12-25T03:40:29+03:00
+title: "Osmanlı Günlük Yaşam Müzesi"
+date: "2025-12-25T03:40:29+03:00"
 slug: "osmanli-gunluk-yasam-muzesi"
 description: "## Osmanlı Günlük Yaşam Müzesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Kartepe"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.112833,40.7009354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmanlı Günlük Yaşam Müzesi

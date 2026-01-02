@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Onikişubat | Miras Haritası"
-date: 2025-12-25T02:53:50+03:00
+title: "Roma Köprüsü, Onikişubat"
+date: "2025-12-25T02:53:50+03:00"
 slug: "roma-koprusu-onikisubat"
 description: "# Roma Köprüsü, Onikişatürk..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.8959999,37.5269012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Roma Köprüsü, Onikişatürk

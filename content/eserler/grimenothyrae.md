@@ -1,18 +1,17 @@
 ---
-title: "Grimenothyrae | Miras Haritası"
-date: 2025-12-25T05:19:05+03:00
+title: "Grimenothyrae"
+date: "2025-12-25T05:19:05+03:00"
 slug: "grimenothyrae"
 description: "## Grimenothyrae: Antik Bir Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Grimenothyrae: Antik Bir Sitin Gizemi

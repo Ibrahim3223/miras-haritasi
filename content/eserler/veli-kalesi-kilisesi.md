@@ -1,18 +1,17 @@
 ---
-title: "Veli Kalesi Kilisesi | Miras Haritası"
-date: 2025-12-25T08:39:29+03:00
+title: "Veli Kalesi Kilisesi"
+date: "2025-12-25T08:39:29+03:00"
 slug: "veli-kalesi-kilisesi"
 description: "## Veli Kalesi Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Hanak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.978244444,41.155869444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veli Kalesi Kilisesi: Tarihi ve Kültürel Miras

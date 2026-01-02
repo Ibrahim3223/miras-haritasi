@@ -1,18 +1,17 @@
 ---
-title: "Tarhana Camii | Miras Haritası"
-date: 2025-12-24T23:16:11+03:00
+title: "Tarhana Camii"
+date: "2025-12-24T23:16:11+03:00"
 slug: "tarhana-camii"
 description: "## Tarhana Camii..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0206985,39.7449722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarhana Camii

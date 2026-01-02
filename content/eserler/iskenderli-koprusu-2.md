@@ -1,18 +1,17 @@
 ---
-title: "İskenderli Köprüsü 2 | Miras Haritası"
-date: 2025-12-25T02:36:53+03:00
+title: "İskenderli Köprüsü 2"
+date: "2025-12-25T02:36:53+03:00"
 slug: "iskenderli-koprusu-2"
 description: "## İskenderli Köprüsü 2..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Tonya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.237692,40.930293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskenderli Köprüsü 2

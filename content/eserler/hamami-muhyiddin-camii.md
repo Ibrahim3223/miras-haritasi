@@ -1,18 +1,17 @@
 ---
-title: "Hamamı Muhyiddin Camii | Miras Haritası"
-date: 2025-12-24T22:54:31+03:00
+title: "Hamamı Muhyiddin Camii"
+date: "2025-12-24T22:54:31+03:00"
 slug: "hamami-muhyiddin-camii"
 description: "## Hamamı Muhyiddin Camii: Ayvansaray'ın Gizli Çeşmidi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9430847,41.0312767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamamı Muhyiddin Camii: Ayvansaray'ın Gizli Çeşmidi

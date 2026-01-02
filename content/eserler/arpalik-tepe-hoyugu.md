@@ -1,18 +1,17 @@
 ---
-title: "Arpalık Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:59:55+03:00
+title: "Arpalık Tepe Höyüğü"
+date: "2025-12-25T06:59:55+03:00"
 slug: "arpalik-tepe-hoyugu"
 description: "## Arpalık Tepe Höyüğü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arpalık Tepe Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Sandaraca | Miras Haritası"
-date: 2025-12-25T05:39:07+03:00
+title: "Sandaraca"
+date: "2025-12-25T05:39:07+03:00"
 slug: "sandaraca"
 description: "## Sandaraca Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.786666666,41.456666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sandaraca Arkeolojik Sit

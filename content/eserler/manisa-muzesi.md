@@ -1,18 +1,17 @@
 ---
-title: "Manisa Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:42+03:00
+title: "Manisa Müzesi"
+date: "2025-12-25T03:14:42+03:00"
 slug: "manisa-muzesi"
 description: "## Manisa Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Archaeological_Museum_of_Manisa,_Turkey_(31282853424).jpg/1200px-Archaeological_Museum_of_Manisa,_Turkey_(31282853424).jpg"
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.40077771,38.614753923"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Manisa Müzesi

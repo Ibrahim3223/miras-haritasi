@@ -1,18 +1,17 @@
 ---
-title: "İskenderun Süryani Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:18:50+03:00
+title: "İskenderun Süryani Katolik Kilisesi"
+date: "2025-12-25T09:18:50+03:00"
 slug: "iskenderun-suryani-katolik-kilisesi"
 description: "## İskenderun Süryani Katolik Kilisesi: Tarih ve Şöhret..."
 featured_image: ""
 province: "İskenderun Sancağı"
-iller: ["İskenderun Sancağı"]
+iller: '["İskenderun Sancağı"]'
 district: "İskenderun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.1689873,36.5896454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskenderun Süryani Katolik Kilisesi: Tarih ve Şöhret

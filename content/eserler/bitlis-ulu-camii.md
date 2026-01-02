@@ -1,18 +1,17 @@
 ---
-title: "Bitlis Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:00:00+03:00
+title: "Bitlis Ulu Camii"
+date: "2025-12-24T22:00:00+03:00"
 slug: "bitlis-ulu-camii"
 description: "## Bitlis Ulu Camii..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Bitlis"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.109138888,38.400861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bitlis Ulu Camii

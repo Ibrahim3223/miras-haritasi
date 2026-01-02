@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Selim Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:47+03:00
+title: "Şehzade Selim Türbesi"
+date: "2025-12-25T14:44:47+03:00"
 slug: "sehzade-selim-turbesi"
 description: "### Şehzade Selim Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5597324,41.6777496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şehzade Selim Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Çerkez Camii | Miras Haritası"
-date: 2025-12-24T22:29:23+03:00
+title: "Çerkez Camii"
+date: "2025-12-24T22:29:23+03:00"
 slug: "cerkez-camii"
 description: "## Çerkez Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0691853,38.6059723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çerkez Camii: İzmir'in Tarihi Bir Mirası

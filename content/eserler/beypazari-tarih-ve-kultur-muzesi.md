@@ -1,18 +1,17 @@
 ---
-title: "Beypazarı Tarih ve Kültür Müzesi | Miras Haritası"
-date: 2025-12-25T03:29:40+03:00
+title: "Beypazarı Tarih ve Kültür Müzesi"
+date: "2025-12-25T03:29:40+03:00"
 slug: "beypazari-tarih-ve-kultur-muzesi"
 description: "## Beypazarı Tarih ve Kültür Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.916234,40.169696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beypazarı Tarih ve Kültür Müzesi

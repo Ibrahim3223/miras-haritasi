@@ -1,18 +1,17 @@
 ---
-title: "Artsvaber Manastırı | Miras Haritası"
-date: 2025-12-25T09:41:05+03:00
+title: "Artsvaber Manastırı"
+date: "2025-12-25T09:41:05+03:00"
 slug: "artsvaber-manastiri"
 description: "## Artsvaber Manastırı: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "Erciş district"
-iller: ["Erciş district"]
+iller: '["Erciş district"]'
 district: "Çelebibağı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.434166666,39.048055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Artsvaber Manastırı: Tarihi ve Kültürel Mirası Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Altınordu | Miras Haritası"
-date: 2025-12-25T15:50:30+03:00
+title: "Atatürk Anıtı, Altınordu"
+date: "2025-12-25T15:50:30+03:00"
 slug: "ataturk-aniti-altinordu"
 description: "**Atatürk Anıtı, Altınordu**..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.883364,40.985024"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Atatürk Anıtı, Altınordu**

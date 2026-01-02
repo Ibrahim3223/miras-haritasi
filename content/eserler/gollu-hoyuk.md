@@ -1,18 +1,17 @@
 ---
-title: "Göllü Höyük | Miras Haritası"
-date: 2025-12-25T06:40:26+03:00
+title: "Göllü Höyük"
+date: "2025-12-25T06:40:26+03:00"
 slug: "gollu-hoyuk"
 description: "## Göllü Höyük: Kahramanmaraş'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.894206504,37.379517103"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göllü Höyük: Kahramanmaraş'ın Tarihî ve Kültürel Mirası

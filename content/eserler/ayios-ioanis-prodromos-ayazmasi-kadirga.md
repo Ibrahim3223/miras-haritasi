@@ -1,18 +1,17 @@
 ---
-title: "Ayios Ioanis Prodromos Ayazması, Kadırga | Miras Haritası"
-date: 2025-12-25T12:35:36+03:00
+title: "Ayios Ioanis Prodromos Ayazması, Kadırga"
+date: "2025-12-25T12:35:36+03:00"
 slug: "ayios-ioanis-prodromos-ayazmasi-kadirga"
 description: "### Ayios Ioanis Prodromos Ayazması, Kadırga..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9668407,41.0045204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Ioanis Prodromos Ayazması, Kadırga

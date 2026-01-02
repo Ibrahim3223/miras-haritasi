@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Muslihiddin Kabri | Miras Haritası"
-date: 2025-12-25T13:29:47+03:00
+title: "Mustafa Muslihiddin Kabri"
+date: "2025-12-25T13:29:47+03:00"
 slug: "mustafa-muslihiddin-kabri"
 description: "## Mustafa Muslihiddin Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9523907,41.0227203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Muslihiddin Kabri

@@ -1,18 +1,17 @@
 ---
-title: "Ancoz | Miras Haritası"
-date: 2025-12-25T07:27:38+03:00
+title: "Ancoz"
+date: "2025-12-25T07:27:38+03:00"
 slug: "ancoz"
 description: "**Ancoz: Adıyaman'ın Gizli Öreni**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adıyaman"
+province: "Adıyaman"
+iller: '["Adıyaman"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.766838,37.686273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ancoz: Adıyaman'ın Gizli Öreni**

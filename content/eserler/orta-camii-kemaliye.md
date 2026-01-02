@@ -1,18 +1,17 @@
 ---
-title: "Orta Camii (Kemaliye) | Miras Haritası"
-date: 2025-12-25T00:01:39+03:00
+title: "Orta Camii (Kemaliye)"
+date: "2025-12-25T00:01:39+03:00"
 slug: "orta-camii-kemaliye"
 description: "## Orta Camii (Kemaliye)..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemaliye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.4933472,39.2626724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Camii (Kemaliye)

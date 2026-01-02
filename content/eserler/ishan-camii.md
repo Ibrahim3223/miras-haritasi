@@ -1,18 +1,17 @@
 ---
-title: "İşhan Camii | Miras Haritası"
-date: 2025-12-25T00:16:06+03:00
+title: "İşhan Camii"
+date: "2025-12-25T00:16:06+03:00"
 slug: "ishan-camii"
 description: "## İşhan Camii: Artvin'in Gizli Çeşmesinde Yükselen Bir Mimari Harikası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7401,40.7511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İşhan Camii: Artvin'in Gizli Çeşmesinde Yükselen Bir Mimari Harikası

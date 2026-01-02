@@ -1,18 +1,17 @@
 ---
-title: "Kestel Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:11+03:00
+title: "Kestel Kalesi"
+date: "2025-12-25T01:33:11+03:00"
 slug: "kestel-kalesi"
 description: "## Kestel Kalesi: Bursa'nın Tarihi Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Kestel"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.215584,40.201805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kestel Kalesi: Bursa'nın Tarihi Mirası

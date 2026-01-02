@@ -1,18 +1,17 @@
 ---
-title: "Erythrai (İyonya) | Miras Haritası"
-date: 2025-12-25T04:53:33+03:00
+title: "Erythrai (İyonya)"
+date: "2025-12-25T04:53:33+03:00"
 slug: "erythrai-iyonya"
 description: "**Erythrai: İyonya'nın Gizli Mirası**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.514014,38.167325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Erythrai: İyonya'nın Gizli Mirası**

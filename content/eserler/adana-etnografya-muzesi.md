@@ -1,18 +1,17 @@
 ---
-title: "Adana Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:06+03:00
+title: "Adana Etnografya Müzesi"
+date: "2025-12-25T03:14:06+03:00"
 slug: "adana-etnografya-muzesi"
 description: "## Adana Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Adana_ethnographic_museum_(33592701583).jpg/1200px-Adana_ethnographic_museum_(33592701583).jpg"
-province: "Adana Vilayeti"
-iller: ["Adana Vilayeti"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: "Adana Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.323056,36.989444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Adana Etnografya Müzesi

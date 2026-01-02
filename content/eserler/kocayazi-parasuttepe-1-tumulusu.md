@@ -1,18 +1,17 @@
 ---
-title: "Kocayazı Paraşuttepe 1 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:44:31+03:00
+title: "Kocayazı Paraşuttepe 1 Tümülüsü"
+date: "2025-12-25T07:44:31+03:00"
 slug: "kocayazi-parasuttepe-1-tumulusu"
 description: "### Kocayazı Paraşuttepe 1 Tümülüsü: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2093334,41.9693146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kocayazı Paraşuttepe 1 Tümülüsü: Kırklareli'nin Gizli Anıtı

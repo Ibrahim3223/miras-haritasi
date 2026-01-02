@@ -1,18 +1,17 @@
 ---
-title: "Bostan Dede Türbesi | Miras Haritası"
-date: 2025-12-25T13:33:08+03:00
+title: "Bostan Dede Türbesi"
+date: "2025-12-25T13:33:08+03:00"
 slug: "bostan-dede-turbesi"
 description: "# Bostan Dede Türbesi: Eyüp'ün Gizli Çiçeği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9296646,41.0520897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bostan Dede Türbesi: Eyüp'ün Gizli Çiçeği

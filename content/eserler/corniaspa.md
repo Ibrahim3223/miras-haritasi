@@ -1,18 +1,17 @@
 ---
-title: "Corniaspa | Miras Haritası"
-date: 2025-12-25T05:39:51+03:00
+title: "Corniaspa"
+date: "2025-12-25T05:39:51+03:00"
 slug: "corniaspa"
 description: "**Corniaspa: Antik Çağ'ın Gizemi**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.76749,39.869697"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Corniaspa: Antik Çağ'ın Gizemi**

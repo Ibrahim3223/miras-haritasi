@@ -1,18 +1,17 @@
 ---
-title: "Atabey Gazi Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T10:41:32+03:00
+title: "Atabey Gazi Çeşmesi 2"
+date: "2025-12-25T10:41:32+03:00"
 slug: "atabey-gazi-cesmesi-2"
 description: "## Atabey Gazi Çeşmesi 2: Kastamonu'da Bir Kültür Mirası ..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7710686,41.3752518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atabey Gazi Çeşmesi 2: Kastamonu'da Bir Kültür Mirası 

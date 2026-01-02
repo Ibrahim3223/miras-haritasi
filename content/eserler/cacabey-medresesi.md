@@ -1,18 +1,17 @@
 ---
-title: "Cacabey Medresesi | Miras Haritası"
-date: 2025-12-25T17:23:41+03:00
+title: "Cacabey Medresesi"
+date: "2025-12-25T17:23:41+03:00"
 slug: "cacabey-medresesi"
 description: "## Cacabey Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cacabey.jpg/1200px-Cacabey.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırşehir"
+province: "Kırşehir"
+iller: '["Kırşehir"]'
+district: ""
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "34.1613464,39.1451645"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cacabey Medresesi

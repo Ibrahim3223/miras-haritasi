@@ -1,18 +1,17 @@
 ---
-title: "Başkillik Höyük | Miras Haritası"
-date: 2025-12-25T06:27:10+03:00
+title: "Başkillik Höyük"
+date: "2025-12-25T06:27:10+03:00"
 slug: "baskillik-hoyuk"
 description: "## Başkillik Höyük: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9542948,38.2416504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başkillik Höyük: Aksaray'ın Gizli Mirası

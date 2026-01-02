@@ -1,18 +1,17 @@
 ---
-title: "Karaoğlan Höyüğü | Miras Haritası"
-date: 2025-12-25T14:00:23+03:00
+title: "Karaoğlan Höyüğü"
+date: "2025-12-25T14:00:23+03:00"
 slug: "karaoglan-hoyugu"
 description: "### Karaoğlan Höyüğü: Ankara'nın Gizli Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Gölbaşı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8334355,39.7346914"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaoğlan Höyüğü: Ankara'nın Gizli Anıtı

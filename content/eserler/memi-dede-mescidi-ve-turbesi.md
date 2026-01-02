@@ -1,18 +1,17 @@
 ---
-title: "Memi Dede Mescidi ve Türbesi | Miras Haritası"
-date: 2025-12-25T01:07:13+03:00
+title: "Memi Dede Mescidi ve Türbesi"
+date: "2025-12-25T01:07:13+03:00"
 slug: "memi-dede-mescidi-ve-turbesi"
 description: "## Memi Dede Mescidi ve Türbesi..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Bitlis"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.1062088,38.3983002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Memi Dede Mescidi ve Türbesi

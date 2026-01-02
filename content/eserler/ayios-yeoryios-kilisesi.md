@@ -1,18 +1,17 @@
 ---
-title: "Ayios Yeoryios Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:40+03:00
+title: "Ayios Yeoryios Kilisesi"
+date: "2025-12-25T09:35:40+03:00"
 slug: "ayios-yeoryios-kilisesi"
 description: "### Ayios Yeoryios Kilisesi: Bakırköy'ün Gizli Şehirden Kalan Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.874958,40.977354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Yeoryios Kilisesi: Bakırköy'ün Gizli Şehirden Kalan Bir Mirası

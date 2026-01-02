@@ -1,18 +1,17 @@
 ---
-title: "18 Mart Hatime Ana Ulu Camii | Miras Haritası"
-date: 2025-12-25T01:05:09+03:00
+title: "18 Mart Hatime Ana Ulu Camii"
+date: "2025-12-25T01:05:09+03:00"
 slug: "18-mart-hatime-ana-ulu-camii"
 description: "## 18 Mart Hatime Ana Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/18_Mart_Hatime_Ana_Ulu_Camii_Mosque,_Çanakkale,_viewed_from_the_Dardanelles_Strait,_2024.jpg/1200px-18_Mart_Hatime_Ana_Ulu_Camii_Mosque,_Çanakkale,_viewed_from_the_Dardanelles_Strait,_2024.jpg"
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.409160861,40.110525328"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## 18 Mart Hatime Ana Ulu Camii

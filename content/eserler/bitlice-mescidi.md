@@ -1,18 +1,17 @@
 ---
-title: "Bitlice Mescidi | Miras Haritası"
-date: 2025-12-25T00:41:55+03:00
+title: "Bitlice Mescidi"
+date: "2025-12-25T00:41:55+03:00"
 slug: "bitlice-mescidi"
 description: "### Bitlice Mescidi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9445019,41.0261612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bitlice Mescidi Tanıtımı

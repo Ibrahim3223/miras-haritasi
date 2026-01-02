@@ -1,18 +1,17 @@
 ---
-title: "Medrese, Zeyrek | Miras Haritası"
-date: 2025-12-25T17:26:13+03:00
+title: "Medrese, Zeyrek"
+date: "2025-12-25T17:26:13+03:00"
 slug: "medrese-zeyrek"
 description: "### Medrese, Zeyrek: İstanbul'un Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.951172,41.022872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Medrese, Zeyrek: İstanbul'un Gizli Çehresini Keşfetmek

@@ -1,18 +1,17 @@
 ---
-title: "Kadı Ali Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:57:55+03:00
+title: "Kadı Ali Camii Çeşmesi"
+date: "2025-12-25T12:57:55+03:00"
 slug: "kadi-ali-camii-cesmesi"
 description: "### Kadı Ali Camii Çeşmesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.347538664,41.407551279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadı Ali Camii Çeşmesi

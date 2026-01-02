@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye I. Medresesi | Miras Haritası"
-date: 2025-12-25T17:26:48+03:00
+title: "Süleymaniye I. Medresesi"
+date: "2025-12-25T17:26:48+03:00"
 slug: "suleymaniye-i-medresesi"
 description: "## Süleymaniye I. Medresesi: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.96311,41.015404"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Süleymaniye I. Medresesi: İstanbul'un Tarihi Bir Mirası

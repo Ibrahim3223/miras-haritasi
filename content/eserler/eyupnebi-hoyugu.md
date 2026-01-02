@@ -1,18 +1,17 @@
 ---
-title: "Eyüpnebi Höyüğü | Miras Haritası"
-date: 2025-12-25T06:45:50+03:00
+title: "Eyüpnebi Höyüğü"
+date: "2025-12-25T06:45:50+03:00"
 slug: "eyupnebi-hoyugu"
 description: "## Eyüpnebi Höyüğü: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Viranşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.6432332,37.3610874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eyüpnebi Höyüğü: Şanlıurfa'nın Gizli Mirası

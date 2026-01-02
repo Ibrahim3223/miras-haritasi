@@ -1,18 +1,17 @@
 ---
-title: "Syneta (Karya) | Miras Haritası"
-date: 2025-12-25T05:18:02+03:00
+title: "Syneta (Karya)"
+date: "2025-12-25T05:18:02+03:00"
 slug: "syneta-karya"
 description: "# Syneta (Karya): Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.73706,37.907299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Syneta (Karya): Antik Çağın Gizemi

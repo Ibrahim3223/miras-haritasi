@@ -1,18 +1,17 @@
 ---
-title: "Yenice Camii | Miras Haritası"
-date: 2025-12-24T23:47:07+03:00
+title: "Yenice Camii"
+date: "2025-12-24T23:47:07+03:00"
 slug: "yenice-camii"
 description: "## Yenice Camii: Sivrihisar'ın Tarihi Bir Örneği..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.531517,39.4517059"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenice Camii: Sivrihisar'ın Tarihi Bir Örneği

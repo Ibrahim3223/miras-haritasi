@@ -1,18 +1,17 @@
 ---
-title: "Güzelhisar Kalesi, Köprüköy | Miras Haritası"
-date: 2025-12-25T01:34:25+03:00
+title: "Güzelhisar Kalesi, Köprüköy"
+date: "2025-12-25T01:34:25+03:00"
 slug: "guzelhisar-kalesi-koprukoy"
 description: "## Güzelhisar Kalesi, Köprüköy..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Köprüköy"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.982772222,39.830044444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzelhisar Kalesi, Köprüköy

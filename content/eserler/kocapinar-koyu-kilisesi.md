@@ -1,18 +1,17 @@
 ---
-title: "Kocapınar Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:16:36+03:00
+title: "Kocapınar Köyü Kilisesi"
+date: "2025-12-25T09:16:36+03:00"
 slug: "kocapinar-koyu-kilisesi"
 description: "## Kocapınar Köyü Kilisesi: Gümüşhane'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.596656,40.476909"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocapınar Köyü Kilisesi: Gümüşhane'nin Gizli Çehresini Keşfetmek

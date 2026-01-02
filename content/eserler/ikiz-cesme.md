@@ -1,18 +1,17 @@
 ---
-title: "İkiz Çeşme | Miras Haritası"
-date: 2025-12-25T11:39:02+03:00
+title: "İkiz Çeşme"
+date: "2025-12-25T11:39:02+03:00"
 slug: "ikiz-cesme"
 description: "### İkiz Çeşme..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5178261,37.8816223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İkiz Çeşme

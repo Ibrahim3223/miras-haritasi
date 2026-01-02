@@ -1,18 +1,17 @@
 ---
-title: "Behiç Erkin Kabri ve Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T13:23:44+03:00
+title: "Behiç Erkin Kabri ve Anıt Mezarı"
+date: "2025-12-25T13:23:44+03:00"
 slug: "behic-erkin-kabri-ve-anit-mezari"
 description: "# Behiç Erkin Kabri ve Anıt Mezarı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4849987,39.7753029"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Behiç Erkin Kabri ve Anıt Mezarı

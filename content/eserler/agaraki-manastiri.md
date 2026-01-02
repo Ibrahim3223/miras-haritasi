@@ -1,18 +1,17 @@
 ---
-title: "Agaraki Manastırı | Miras Haritası"
-date: 2025-12-25T08:59:18+03:00
+title: "Agaraki Manastırı"
+date: "2025-12-25T08:59:18+03:00"
 slug: "agaraki-manastiri"
 description: "### Agaraki Manastırı..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Sındıran"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.358277777,40.622972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Agaraki Manastırı

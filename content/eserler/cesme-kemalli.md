@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Kemallı | Miras Haritası"
-date: 2025-12-25T12:37:05+03:00
+title: "Çeşme, Kemallı"
+date: "2025-12-25T12:37:05+03:00"
 slug: "cesme-kemalli"
 description: "**Kemallı Çeşmesi: Ezine'nin Tarihi Güzelliği**..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.233950905,39.759074854"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kemallı Çeşmesi: Ezine'nin Tarihi Güzelliği**

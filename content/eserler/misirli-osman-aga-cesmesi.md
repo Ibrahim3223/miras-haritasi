@@ -1,18 +1,17 @@
 ---
-title: "Mısırlı Osman Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:11:12+03:00
+title: "Mısırlı Osman Ağa Çeşmesi"
+date: "2025-12-25T10:11:12+03:00"
 slug: "misirli-osman-aga-cesmesi"
 description: "## Mısırlı Osman Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mısırlı_Osman_Ağa_Çeşmesi,_Kadıköy-2.jpg/1200px-Mısırlı_Osman_Ağa_Çeşmesi,_Kadıköy-2.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.026736111,40.991074111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mısırlı Osman Ağa Çeşmesi

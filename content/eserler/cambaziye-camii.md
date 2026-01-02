@@ -1,18 +1,17 @@
 ---
-title: "Cambaziye Camii | Miras Haritası"
-date: 2025-12-24T22:49:23+03:00
+title: "Cambaziye Camii"
+date: "2025-12-24T22:49:23+03:00"
 slug: "cambaziye-camii"
 description: "## Cambaziye Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9281521,41.005249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cambaziye Camii

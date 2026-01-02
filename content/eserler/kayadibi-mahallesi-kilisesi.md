@@ -1,18 +1,17 @@
 ---
-title: "Kayadibi Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:15:06+03:00
+title: "Kayadibi Mahallesi Kilisesi"
+date: "2025-12-25T09:15:06+03:00"
 slug: "kayadibi-mahallesi-kilisesi"
 description: "**Kayadibi Mahallesi Kilisesi**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.147001,40.564665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kayadibi Mahallesi Kilisesi**

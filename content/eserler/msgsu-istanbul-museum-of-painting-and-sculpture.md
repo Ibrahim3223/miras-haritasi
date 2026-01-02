@@ -1,18 +1,17 @@
 ---
-title: "MSGSU Istanbul Museum Of Painting And Sculpture | Miras Haritası"
-date: 2025-12-25T04:11:31+03:00
+title: "MSGSU Istanbul Museum Of Painting And Sculpture"
+date: "2025-12-25T04:11:31+03:00"
 slug: "msgsu-istanbul-museum-of-painting-and-sculpture"
 description: "## MSGSU İstanbul Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## MSGSU İstanbul Müzesi

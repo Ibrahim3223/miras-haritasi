@@ -1,18 +1,17 @@
 ---
-title: "Karanlık Kapı, Kurtpınar | Miras Haritası"
-date: 2025-12-25T15:46:56+03:00
+title: "Karanlık Kapı, Kurtpınar"
+date: "2025-12-25T15:46:56+03:00"
 slug: "karanlik-kapi-kurtpinar"
 description: "## Karanlık Kapı, Kurtpınar..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Ceyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.9663925,36.9209633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karanlık Kapı, Kurtpınar

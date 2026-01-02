@@ -1,18 +1,17 @@
 ---
-title: "Tios Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:26:13+03:00
+title: "Tios Antik Tiyatrosu"
+date: "2025-12-25T08:26:13+03:00"
 slug: "tios-antik-tiyatrosu"
 description: "## Tios Antik Tiyatrosu: Çaycuma'da Tarihçenin Gizemi..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Çaycuma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.03442,41.56813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tios Antik Tiyatrosu: Çaycuma'da Tarihçenin Gizemi

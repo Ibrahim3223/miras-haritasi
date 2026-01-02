@@ -1,18 +1,17 @@
 ---
-title: "Selimiye Camii | Miras Haritası"
-date: 2025-12-24T20:37:55+03:00
+title: "Selimiye Camii"
+date: "2025-12-24T20:37:55+03:00"
 slug: "selimiye-camii"
 description: "## Selimiye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Selimiye_Mosque_-_Selimiye_Camii,_Konya.jpg/1200px-Selimiye_Mosque_-_Selimiye_Camii,_Konya.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.504111111,37.870416666"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Selimiye Camii

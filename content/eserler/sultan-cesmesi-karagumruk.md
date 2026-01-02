@@ -1,18 +1,17 @@
 ---
-title: "Sultan Çeşmesi, Karagümrük | Miras Haritası"
-date: 2025-12-25T12:15:45+03:00
+title: "Sultan Çeşmesi, Karagümrük"
+date: "2025-12-25T12:15:45+03:00"
 slug: "sultan-cesmesi-karagumruk"
 description: "## Sultan Çeşmesi, Karagümrük..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.933354,41.026515"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Çeşmesi, Karagümrük

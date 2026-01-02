@@ -1,18 +1,17 @@
 ---
-title: "Yalvaçlı Medresesi | Miras Haritası"
-date: 2025-12-25T17:43:16+03:00
+title: "Yalvaçlı Medresesi"
+date: "2025-12-25T17:43:16+03:00"
 slug: "yalvacli-medresesi"
 description: "### Yalvaçlı Medresesi: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0853081,37.7759094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yalvaçlı Medresesi: Tarihi ve Kültürel Mirasın Gizemi

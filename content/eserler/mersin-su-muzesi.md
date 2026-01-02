@@ -1,18 +1,17 @@
 ---
-title: "Mersin Su Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:31+03:00
+title: "Mersin Su Müzesi"
+date: "2025-12-25T03:28:31+03:00"
 slug: "mersin-su-muzesi"
 description: "## Mersin Su Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mersin_Water_Museum_ventilation.jpg/1200px-Mersin_Water_Museum_ventilation.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.6045,36.8141"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mersin Su Müzesi

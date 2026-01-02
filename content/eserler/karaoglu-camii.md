@@ -1,18 +1,17 @@
 ---
-title: "Karaoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:44:37+03:00
+title: "Karaoğlu Camii"
+date: "2025-12-24T23:44:37+03:00"
 slug: "karaoglu-camii"
 description: "## Karaoğlu Camii: Bir Ödemiş Kentinin Gizli Cenneti..."
 featured_image: ""
 province: "Ödemiş"
-iller: ["Ödemiş"]
+iller: '["Ödemiş"]'
 district: "Birgi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.066206,38.2547569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaoğlu Camii: Bir Ödemiş Kentinin Gizli Cenneti

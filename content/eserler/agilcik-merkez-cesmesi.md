@@ -1,18 +1,17 @@
 ---
-title: "Ağılcık Merkez Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:34:29+03:00
+title: "Ağılcık Merkez Çeşmesi"
+date: "2025-12-25T12:34:29+03:00"
 slug: "agilcik-merkez-cesmesi"
 description: "### Ağılcık Merkez Çeşmesi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.982392983,40.226150154"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağılcık Merkez Çeşmesi: Ankara'nın Gizli Cenneti

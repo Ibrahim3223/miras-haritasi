@@ -1,18 +1,17 @@
 ---
-title: "Küçük Vank Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:10+03:00
+title: "Küçük Vank Kilisesi"
+date: "2025-12-25T09:03:10+03:00"
 slug: "kucuk-vank-kilisesi"
 description: "## Küçük Vank Kilisesi: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Timurkışla"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.306166666,40.544194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Vank Kilisesi: Tarihi ve Kültürel Mirasın Gizemi

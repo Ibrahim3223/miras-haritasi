@@ -1,18 +1,17 @@
 ---
-title: "Işıldak Tepe, Çanakkale | Miras Haritası"
-date: 2025-12-25T05:45:38+03:00
+title: "Işıldak Tepe, Çanakkale"
+date: "2025-12-25T05:45:38+03:00"
 slug: "isildak-tepe-canakkale"
 description: "# Işıldak Tepe Arkeolojik Sit, Çanakkale..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.28995,40.005233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Işıldak Tepe Arkeolojik Sit, Çanakkale

@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Ağa Camii, Balıkesir | Miras Haritası"
-date: 2025-12-24T23:59:58+03:00
+title: "İbrahim Ağa Camii, Balıkesir"
+date: "2025-12-24T23:59:58+03:00"
 slug: "ibrahim-aga-camii-balikesir"
 description: "## İbrahim Ağa Camii, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8823624,39.6447754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Ağa Camii, Balıkesir

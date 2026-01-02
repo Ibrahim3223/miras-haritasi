@@ -1,18 +1,17 @@
 ---
-title: "Cihanoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:29:27+03:00
+title: "Cihanoğlu Camii"
+date: "2025-12-24T22:29:27+03:00"
 slug: "cihanoglu-camii"
 description: "**Cihanoğlu Camii: Aydın'ın Birinci Derece Tarihi Eseri**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5701008,37.7341003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Cihanoğlu Camii: Aydın'ın Birinci Derece Tarihi Eseri**

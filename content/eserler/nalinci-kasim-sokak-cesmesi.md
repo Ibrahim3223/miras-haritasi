@@ -1,18 +1,17 @@
 ---
-title: "Nalıncı Kasım Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:38:28+03:00
+title: "Nalıncı Kasım Sokak Çeşmesi"
+date: "2025-12-25T10:38:28+03:00"
 slug: "nalinci-kasim-sokak-cesmesi"
 description: "## Nalıncı Kasım Sokak Çeşmesi: Fatih'te Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Nalıncı_Kasım_Sokak_Çeşmesi_02.jpg/1200px-Nalıncı_Kasım_Sokak_Çeşmesi_02.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.958013125,41.025446419"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nalıncı Kasım Sokak Çeşmesi: Fatih'te Bir Ölümsüz

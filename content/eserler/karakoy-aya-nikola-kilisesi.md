@@ -1,18 +1,17 @@
 ---
-title: "Karaköy Aya Nikola Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:11+03:00
+title: "Karaköy Aya Nikola Kilisesi"
+date: "2025-12-25T08:51:11+03:00"
 slug: "karakoy-aya-nikola-kilisesi"
 description: "## Karaköy Aya Nikola Kilisesi: İstanbul'un Tarihi ve Kültürel Mirasından Bir Parça..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/St.-Nikolaus-Kirche.jpg/1200px-St.-Nikolaus-Kirche.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.978138888,41.025194444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karaköy Aya Nikola Kilisesi: İstanbul'un Tarihi ve Kültürel Mirasından Bir Parça

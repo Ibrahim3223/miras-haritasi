@@ -1,18 +1,17 @@
 ---
-title: "Metropolis Aşağı Hamam Palaestra | Miras Haritası"
-date: 2025-12-25T17:12:40+03:00
+title: "Metropolis Aşağı Hamam Palaestra"
+date: "2025-12-25T17:12:40+03:00"
 slug: "metropolis-asagi-hamam-palaestra"
 description: "## Metropolis Aşağı Hamam Palaestra: Tarihî Bir Eserin Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.3258057,38.1259232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metropolis Aşağı Hamam Palaestra: Tarihî Bir Eserin Gizemi

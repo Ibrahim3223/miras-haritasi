@@ -1,18 +1,17 @@
 ---
-title: "Tur-i Sina Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:20+03:00
+title: "Tur-i Sina Kilisesi"
+date: "2025-12-25T09:10:20+03:00"
 slug: "tur-i-sina-kilisesi"
 description: "## Tur-i Sina Kilisesi: İstanbul'un Gizli Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.94776,41.03341"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tur-i Sina Kilisesi: İstanbul'un Gizli Gizemi

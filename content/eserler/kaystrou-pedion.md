@@ -1,18 +1,17 @@
 ---
-title: "Kaystrou Pedion | Miras Haritası"
-date: 2025-12-25T05:21:18+03:00
+title: "Kaystrou Pedion"
+date: "2025-12-25T05:21:18+03:00"
 slug: "kaystrou-pedion"
 description: "## Kaystrou Pedion: Antik Yunanistan'ın Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaystrou Pedion: Antik Yunanistan'ın Gizli Harikası

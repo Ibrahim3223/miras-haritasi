@@ -1,18 +1,17 @@
 ---
-title: "Eski Gördes Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:57+03:00
+title: "Eski Gördes Köprüsü"
+date: "2025-12-25T02:14:57+03:00"
 slug: "eski-gordes-koprusu"
 description: "**Eski Gördes Köprüsü: Geçmişin Gizemi**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gördes"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3034477,38.9203987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Eski Gördes Köprüsü: Geçmişin Gizemi**

@@ -1,18 +1,17 @@
 ---
-title: "Beydere Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:23:32+03:00
+title: "Beydere Köyü Camii"
+date: "2025-12-24T22:23:32+03:00"
 slug: "beydere-koyu-camii"
 description: "## Beydere Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Rize"
+province: "Rize"
+iller: '["Rize"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.224757922,41.248252919"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beydere Köyü Camii

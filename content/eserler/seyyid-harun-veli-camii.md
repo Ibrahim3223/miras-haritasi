@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Harun Veli Camii | Miras Haritası"
-date: 2025-12-24T23:04:48+03:00
+title: "Seyyid Harun Veli Camii"
+date: "2025-12-24T23:04:48+03:00"
 slug: "seyyid-harun-veli-camii"
 description: "## Seyyid Harun Veli Camii..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.8464355,37.4168587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Harun Veli Camii

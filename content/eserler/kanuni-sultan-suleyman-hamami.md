@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Sultan Süleyman Hamamı | Miras Haritası"
-date: 2025-12-25T16:57:32+03:00
+title: "Kanuni Sultan Süleyman Hamamı"
+date: "2025-12-25T16:57:32+03:00"
 slug: "kanuni-sultan-suleyman-hamami"
 description: "# Kanuni Sultan Süleyman Hamamı..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Belen"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "36.1928825,36.492363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kanuni Sultan Süleyman Hamamı

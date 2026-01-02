@@ -1,18 +1,17 @@
 ---
-title: "Aya Todori Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:44+03:00
+title: "Aya Todori Kilisesi"
+date: "2025-12-25T09:32:44+03:00"
 slug: "aya-todori-kilisesi"
 description: "## Aya Todori Kilisesi: Gökçeada'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.8757095,40.1880951"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Todori Kilisesi: Gökçeada'nın Tarihî Bir Mirası

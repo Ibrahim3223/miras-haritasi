@@ -1,18 +1,17 @@
 ---
-title: "Şehit Baba Türbesi, Anadolufeneri | Miras Haritası"
-date: 2025-12-25T13:30:17+03:00
+title: "Şehit Baba Türbesi, Anadolufeneri"
+date: "2025-12-25T13:30:17+03:00"
 slug: "sehit-baba-turbesi-anadolufeneri"
 description: "## Şehit Baba Türbesi, Anadolufeneri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1540184,41.21772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehit Baba Türbesi, Anadolufeneri

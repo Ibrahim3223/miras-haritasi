@@ -1,18 +1,17 @@
 ---
-title: "Sanctuary of Osogoa at Mylasa in Caria | Miras Haritası"
-date: 2025-12-25T08:13:08+03:00
+title: "Sanctuary of Osogoa at Mylasa in Caria"
+date: "2025-12-25T08:13:08+03:00"
 slug: "sanctuary-of-osogoa-at-mylasa-in-caria"
 description: "**Sanctuary of Osogoa at Mylasa in Caria**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.78969,37.31687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sanctuary of Osogoa at Mylasa in Caria**

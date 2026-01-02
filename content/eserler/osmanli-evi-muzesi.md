@@ -1,18 +1,17 @@
 ---
-title: "Osmanlı Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:18:34+03:00
+title: "Osmanlı Evi Müzesi"
+date: "2025-12-25T03:18:34+03:00"
 slug: "osmanli-evi-muzesi"
 description: "## Osmanlı Evi Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.045691,40.191457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmanlı Evi Müzesi

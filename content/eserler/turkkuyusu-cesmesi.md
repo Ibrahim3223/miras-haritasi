@@ -1,18 +1,17 @@
 ---
-title: "Türkkuyusu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:32:25+03:00
+title: "Türkkuyusu Çeşmesi"
+date: "2025-12-25T11:32:25+03:00"
 slug: "turkkuyusu-cesmesi"
 description: "## Türkkuyusu Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.430685,37.0386124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türkkuyusu Çeşmesi

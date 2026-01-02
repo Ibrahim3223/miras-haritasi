@@ -1,18 +1,17 @@
 ---
-title: "Genç Mehmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:11:01+03:00
+title: "Genç Mehmet Paşa Çeşmesi"
+date: "2025-12-25T10:11:01+03:00"
 slug: "genc-mehmet-pasa-cesmesi"
 description: "## Genç Mehmet Paşa Çeşmesi: Üsküdar'ın Tarihi Bir Ölümsüzlüğü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hacı_Bedel_Mustafa_Efendi_Çeşmesi.jpg/1200px-Hacı_Bedel_Mustafa_Efendi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.01880746,41.0200871"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Genç Mehmet Paşa Çeşmesi: Üsküdar'ın Tarihi Bir Ölümsüzlüğü

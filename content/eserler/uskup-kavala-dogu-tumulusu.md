@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Kavala Doğu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:48:51+03:00
+title: "Üsküp Kavala Doğu Tümülüsü"
+date: "2025-12-25T07:48:51+03:00"
 slug: "uskup-kavala-dogu-tumulusu"
 description: "### Üsküp Kavala Doğu Tümülüsü: Tarihî ve Kültürel Bir Değer..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3658962,41.7794952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üsküp Kavala Doğu Tümülüsü: Tarihî ve Kültürel Bir Değer

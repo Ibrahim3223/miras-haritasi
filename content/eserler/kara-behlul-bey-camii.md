@@ -1,18 +1,17 @@
 ---
-title: "Kara Behlül Bey Camii | Miras Haritası"
-date: 2025-12-24T23:41:05+03:00
+title: "Kara Behlül Bey Camii"
+date: "2025-12-24T23:41:05+03:00"
 slug: "kara-behlul-bey-camii"
 description: "## Kara Behlül Bey Camii: Silvan'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Silvan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.0049286,38.14394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Behlül Bey Camii: Silvan'ın Tarihî Bir Mirası

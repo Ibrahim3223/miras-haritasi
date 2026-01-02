@@ -1,18 +1,17 @@
 ---
-title: "İsmet İnönü Büstü, Kadıköy | Miras Haritası"
-date: 2025-12-25T15:48:56+03:00
+title: "İsmet İnönü Büstü, Kadıköy"
+date: "2025-12-25T15:48:56+03:00"
 slug: "ismet-inonu-bustu-kadikoy"
 description: "## İsmet İnönü Büstü, Kadıköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0870342,40.979805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmet İnönü Büstü, Kadıköy

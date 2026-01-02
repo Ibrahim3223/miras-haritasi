@@ -1,18 +1,17 @@
 ---
-title: "Pogla | Miras Haritası"
-date: 2025-12-25T04:24:16+03:00
+title: "Pogla"
+date: "2025-12-25T04:24:16+03:00"
 slug: "pogla"
 description: "## Pogla Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.248,37.2903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pogla Arkeolojik Sit

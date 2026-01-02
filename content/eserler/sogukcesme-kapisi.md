@@ -1,18 +1,17 @@
 ---
-title: "Soğukçeşme Kapısı | Miras Haritası"
-date: 2025-12-25T13:15:28+03:00
+title: "Soğukçeşme Kapısı"
+date: "2025-12-25T13:15:28+03:00"
 slug: "sogukcesme-kapisi"
 description: "### Soğukçeşme Kapısı: Fatih'in Gizli Anıtı..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.978849,41.010586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Soğukçeşme Kapısı: Fatih'in Gizli Anıtı

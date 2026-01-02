@@ -1,18 +1,17 @@
 ---
-title: "Daye Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:32+03:00
+title: "Daye Hatun Türbesi"
+date: "2025-12-25T14:54:32+03:00"
 slug: "daye-hatun-turbesi"
 description: "## Daye Hatun Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9689713,41.0123405"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daye Hatun Türbesi

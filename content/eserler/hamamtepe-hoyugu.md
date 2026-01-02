@@ -1,18 +1,17 @@
 ---
-title: "Hamamtepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:34:33+03:00
+title: "Hamamtepe Höyüğü"
+date: "2025-12-25T06:34:33+03:00"
 slug: "hamamtepe-hoyugu"
 description: "# Hamamtepe Höyüğü: Gelibolu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.5062332,40.3638496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamamtepe Höyüğü: Gelibolu'nun Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "İznik Yeşil Cami | Miras Haritası"
-date: 2025-12-24T21:51:16+03:00
+title: "İznik Yeşil Cami"
+date: "2025-12-24T21:51:16+03:00"
 slug: "iznik-yesil-cami"
 description: "**İznik Yeşil Cami: Bir Önemli Kültür Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/İznik_Yeşil_Cami.JPG/1200px-İznik_Yeşil_Cami.JPG"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.72686,40.42975"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **İznik Yeşil Cami: Bir Önemli Kültür Mirası**

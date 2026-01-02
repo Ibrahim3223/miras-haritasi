@@ -1,18 +1,17 @@
 ---
-title: "Lefter Küçükandonyadis Heykeli | Miras Haritası"
-date: 2025-12-25T15:55:23+03:00
+title: "Lefter Küçükandonyadis Heykeli"
+date: "2025-12-25T15:55:23+03:00"
 slug: "lefter-kucukandonyadis-heykeli"
 description: "## Lefter Küçükandonyadis Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/LefterKüçükandonyadisStatueKadıköy01.JPG/1200px-LefterKüçükandonyadisStatueKadıköy01.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.033968,40.9873581"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lefter Küçükandonyadis Heykeli

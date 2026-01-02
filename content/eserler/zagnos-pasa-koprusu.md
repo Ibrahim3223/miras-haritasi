@@ -1,18 +1,17 @@
 ---
-title: "Zağnos Paşa Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:10+03:00
+title: "Zağnos Paşa Köprüsü"
+date: "2025-12-25T02:09:10+03:00"
 slug: "zagnos-pasa-koprusu"
 description: "## Zağnos Paşa Köprüsü: Ortahisar'ın Tarihi Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.71762,41.004488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zağnos Paşa Köprüsü: Ortahisar'ın Tarihi Mirası

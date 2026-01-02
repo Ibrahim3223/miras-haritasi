@@ -1,18 +1,17 @@
 ---
-title: "Havai Camii | Miras Haritası"
-date: 2025-12-24T23:33:15+03:00
+title: "Havai Camii"
+date: "2025-12-24T23:33:15+03:00"
 slug: "havai-camii"
 description: "## Havai Camii Tanıtımı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2746029,38.465271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havai Camii Tanıtımı

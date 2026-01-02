@@ -1,18 +1,17 @@
 ---
-title: "Nazmiye ve Ayhan Çetin Maket Köy Müzesi | Miras Haritası"
-date: 2025-12-25T03:47:14+03:00
+title: "Nazmiye ve Ayhan Çetin Maket Köy Müzesi"
+date: "2025-12-25T03:47:14+03:00"
 slug: "nazmiye-ve-ayhan-cetin-maket-koy-muzesi"
 description: "## Nazmiye ve Ayhan Çetin Maket Köy Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.3008232,37.9495392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nazmiye ve Ayhan Çetin Maket Köy Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Kara Ahmet Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:34+03:00
+title: "Kara Ahmet Bey Türbesi"
+date: "2025-12-25T14:40:34+03:00"
 slug: "kara-ahmet-bey-turbesi"
 description: "## Kara Ahmet Bey Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9880924,39.4158516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kara Ahmet Bey Türbesi

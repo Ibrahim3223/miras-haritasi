@@ -1,18 +1,17 @@
 ---
-title: "Sülüklü Çeşme, Bayındır | Miras Haritası"
-date: 2025-12-25T12:04:44+03:00
+title: "Sülüklü Çeşme, Bayındır"
+date: "2025-12-25T12:04:44+03:00"
 slug: "suluklu-cesme-bayindir"
 description: "## Sülüklü Çeşme, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6422005,38.2229996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sülüklü Çeşme, Bayındır

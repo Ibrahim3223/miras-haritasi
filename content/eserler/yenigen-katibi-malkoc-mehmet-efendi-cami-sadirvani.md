@@ -1,18 +1,17 @@
 ---
-title: "Yenigen Katibi Malkoç Mehmet Efendi Cami Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:07+03:00
+title: "Yenigen Katibi Malkoç Mehmet Efendi Cami Şadırvanı"
+date: "2025-12-25T10:02:07+03:00"
 slug: "yenigen-katibi-malkoc-mehmet-efendi-cami-sadirvani"
 description: "## Yenigen Katibi Malkoç Mehmet Efendi Cami Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9170628,41.0143471"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yenigen Katibi Malkoç Mehmet Efendi Cami Şadırvanı

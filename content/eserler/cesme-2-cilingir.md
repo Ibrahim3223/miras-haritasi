@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2, Çilingir | Miras Haritası"
-date: 2025-12-25T12:50:28+03:00
+title: "Çeşme 2, Çilingir"
+date: "2025-12-25T12:50:28+03:00"
 slug: "cesme-2-cilingir"
 description: "## Çeşme 2, Çilingir: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Çeşme_2,_Çilingir_IMG_7168.jpg/1200px-Çeşme_2,_Çilingir_IMG_7168.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Arnavutköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6798019,41.1890793"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çeşme 2, Çilingir: İstanbul'un Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Beyoğlu Aynalıçeşme Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T08:59:14+03:00
+title: "Beyoğlu Aynalıçeşme Protestan Kilisesi"
+date: "2025-12-25T08:59:14+03:00"
 slug: "beyoglu-aynalicesme-protestan-kilisesi"
 description: "# Beyoğlu Aynalıçeşme Protestan Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Armenian_Evangelical_Church,_Istanbul_(2).JPG/1200px-Armenian_Evangelical_Church,_Istanbul_(2).JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.974127684,41.036238186"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Beyoğlu Aynalıçeşme Protestan Kilisesi

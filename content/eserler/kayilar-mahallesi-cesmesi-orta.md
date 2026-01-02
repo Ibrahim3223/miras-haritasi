@@ -1,18 +1,17 @@
 ---
-title: "Kayılar Mahallesi Çeşmesi, Orta | Miras Haritası"
-date: 2025-12-25T12:33:32+03:00
+title: "Kayılar Mahallesi Çeşmesi, Orta"
+date: "2025-12-25T12:33:32+03:00"
 slug: "kayilar-mahallesi-cesmesi-orta"
 description: "## Kayılar Mahallesi Çeşmesi, Orta..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.087551217,40.537886131"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayılar Mahallesi Çeşmesi, Orta

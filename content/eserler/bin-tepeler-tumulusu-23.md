@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 23 | Miras Haritası"
-date: 2025-12-25T07:13:44+03:00
+title: "Bin Tepeler Tümülüsü 23"
+date: "2025-12-25T07:13:44+03:00"
 slug: "bin-tepeler-tumulusu-23"
 description: "### Bin Tepeler Tümülüsü 23: Manisa'nın Gizli Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.996674,38.577961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bin Tepeler Tümülüsü 23: Manisa'nın Gizli Mirası

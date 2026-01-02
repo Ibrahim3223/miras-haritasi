@@ -1,18 +1,17 @@
 ---
-title: "Kop Şehitler Anıtı, Bayburt | Miras Haritası"
-date: 2025-12-25T15:47:11+03:00
+title: "Kop Şehitler Anıtı, Bayburt"
+date: "2025-12-25T15:47:11+03:00"
 slug: "kop-sehitler-aniti-bayburt"
 description: "### Kop Şehitler Anıtı, Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.519638,40.026792"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kop Şehitler Anıtı, Bayburt

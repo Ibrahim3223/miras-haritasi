@@ -1,18 +1,17 @@
 ---
-title: "Profitis İlias Mezarlık Kilisesi | Miras Haritası"
-date: 2025-12-25T09:42:06+03:00
+title: "Profitis İlias Mezarlık Kilisesi"
+date: "2025-12-25T09:42:06+03:00"
 slug: "profitis-ilias-mezarlik-kilisesi"
 description: "## Profitis İlias Mezarlık Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.124474723,40.85271261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Profitis İlias Mezarlık Kilisesi

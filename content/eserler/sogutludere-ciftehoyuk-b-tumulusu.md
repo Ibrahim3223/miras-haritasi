@@ -1,18 +1,17 @@
 ---
-title: "Söğütlüdere Çiftehöyük B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:36:17+03:00
+title: "Söğütlüdere Çiftehöyük B Tümülüsü"
+date: "2025-12-25T07:36:17+03:00"
 slug: "sogutludere-ciftehoyuk-b-tumulusu"
 description: "## Söğütlüdere Çiftehöyük B Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8020477,41.6194458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söğütlüdere Çiftehöyük B Tümülüsü

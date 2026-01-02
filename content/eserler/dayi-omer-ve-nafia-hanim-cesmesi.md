@@ -1,18 +1,17 @@
 ---
-title: "Dayı Ömer ve Nafia Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:18:01+03:00
+title: "Dayı Ömer ve Nafia Hanım Çeşmesi"
+date: "2025-12-25T11:18:01+03:00"
 slug: "dayi-omer-ve-nafia-hanim-cesmesi"
 description: "## Dayı Ömer ve Nafia Hanım Çeşmesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cerrahpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.941354,41.003776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dayı Ömer ve Nafia Hanım Çeşmesi: Tarihi ve Kültürel Mirasın Bir Parçası

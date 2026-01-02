@@ -1,18 +1,17 @@
 ---
-title: "Melia (İyonya) | Miras Haritası"
-date: 2025-12-25T04:57:26+03:00
+title: "Melia (İyonya)"
+date: "2025-12-25T04:57:26+03:00"
 slug: "melia-iyonya"
 description: "## Melia (İyonya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.218019,37.709368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Melia (İyonya)

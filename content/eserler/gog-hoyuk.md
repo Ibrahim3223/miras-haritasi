@@ -1,18 +1,17 @@
 ---
-title: "Göğ Höyük | Miras Haritası"
-date: 2025-12-25T06:19:52+03:00
+title: "Göğ Höyük"
+date: "2025-12-25T06:19:52+03:00"
 slug: "gog-hoyuk"
 description: "## Göğ Höyük Arkeolojik Siti..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3116251,39.5137555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göğ Höyük Arkeolojik Siti

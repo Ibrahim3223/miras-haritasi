@@ -1,18 +1,17 @@
 ---
-title: "Irgandı Köprüsü | Miras Haritası"
-date: 2025-12-25T01:55:08+03:00
+title: "Irgandı Köprüsü"
+date: "2025-12-25T01:55:08+03:00"
 slug: "irgandi-koprusu"
 description: "# Irgandı Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BURSA-IRGANDI_KÖPRÜSÜ_2007_-_panoramio.jpg/1200px-BURSA-IRGANDI_KÖPRÜSÜ_2007_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.07083,40.18195"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Irgandı Köprüsü

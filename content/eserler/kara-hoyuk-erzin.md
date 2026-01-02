@@ -1,18 +1,17 @@
 ---
-title: "Kara Höyük Erzin | Miras Haritası"
-date: 2025-12-25T05:54:27+03:00
+title: "Kara Höyük Erzin"
+date: "2025-12-25T05:54:27+03:00"
 slug: "kara-hoyuk-erzin"
 description: "# Kara Höyük Erzin: Hatay'ın Gizli Kahramanları..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Erzin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.0925827,36.9336357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kara Höyük Erzin: Hatay'ın Gizli Kahramanları

@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:08+03:00
+title: "Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi"
+date: "2025-12-25T03:30:08+03:00"
 slug: "mustafa-ayaz-vakfi-plastik-sanatlar-muzesi"
 description: "## Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.82134,39.911447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi

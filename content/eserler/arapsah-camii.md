@@ -1,18 +1,17 @@
 ---
-title: "Arapşah Camii | Miras Haritası"
-date: 2025-12-24T22:13:59+03:00
+title: "Arapşah Camii"
+date: "2025-12-24T22:13:59+03:00"
 slug: "arapsah-camii"
 description: "## Arapşah Camii: Karaman'ın Göz Alıcı Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8945541,36.641346"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arapşah Camii: Karaman'ın Göz Alıcı Bir Mirası

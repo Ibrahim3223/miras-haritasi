@@ -1,18 +1,17 @@
 ---
-title: "Sığıryatağı Höyük | Miras Haritası"
-date: 2025-12-25T06:32:15+03:00
+title: "Sığıryatağı Höyük"
+date: "2025-12-25T06:32:15+03:00"
 slug: "sigiryatagi-hoyuk"
 description: "**Sığıryatağı Höyük: Kırşehir'in Gizli Anıtı**..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2832883,38.9595954"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sığıryatağı Höyük: Kırşehir'in Gizli Anıtı**

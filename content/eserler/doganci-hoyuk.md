@@ -1,18 +1,17 @@
 ---
-title: "Doğancı Höyük | Miras Haritası"
-date: 2025-12-25T05:25:58+03:00
+title: "Doğancı Höyük"
+date: "2025-12-25T05:25:58+03:00"
 slug: "doganci-hoyuk"
 description: "### Doğancı Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.976467,39.80695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doğancı Höyük: Eskişehir'in Gizli Mirası

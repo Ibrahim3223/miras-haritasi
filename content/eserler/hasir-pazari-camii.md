@@ -1,18 +1,17 @@
 ---
-title: "Hasır Pazarı Camii | Miras Haritası"
-date: 2025-12-24T23:30:31+03:00
+title: "Hasır Pazarı Camii"
+date: "2025-12-24T23:30:31+03:00"
 slug: "hasir-pazari-camii"
 description: "## Hasır Pazarı Camii..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.3285599,36.9834557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasır Pazarı Camii

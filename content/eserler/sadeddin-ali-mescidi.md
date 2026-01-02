@@ -1,18 +1,17 @@
 ---
-title: "Sadeddin Ali Mescidi | Miras Haritası"
-date: 2025-12-24T22:38:00+03:00
+title: "Sadeddin Ali Mescidi"
+date: "2025-12-24T22:38:00+03:00"
 slug: "sadeddin-ali-mescidi"
 description: "## Sadeddin Ali Mescidi: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2133865,37.1833115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sadeddin Ali Mescidi: Karaman'ın Tarihi ve Kültürel Mirası

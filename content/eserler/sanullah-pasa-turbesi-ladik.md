@@ -1,18 +1,17 @@
 ---
-title: "Sanullah Paşa Türbesi Ladik | Miras Haritası"
-date: 2025-12-25T14:53:23+03:00
+title: "Sanullah Paşa Türbesi Ladik"
+date: "2025-12-25T14:53:23+03:00"
 slug: "sanullah-pasa-turbesi-ladik"
 description: "## Sanullah Paşa Türbesi: Ladik'te Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ladik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.895316,40.910711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sanullah Paşa Türbesi: Ladik'te Bir Anıtın Öyküsü

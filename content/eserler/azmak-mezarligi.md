@@ -1,18 +1,17 @@
 ---
-title: "Azmak Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:52:37+03:00
+title: "Azmak Mezarlığı"
+date: "2025-12-25T15:52:37+03:00"
 slug: "azmak-mezarligi"
 description: "## Azmak Mezarlığı: Ege'nin Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Azmak_Cemetery,_Gallipoli_Peninsula.JPG/1200px-Azmak_Cemetery,_Gallipoli_Peninsula.JPG"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Küçükanafarta"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.27117,40.32088"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Azmak Mezarlığı: Ege'nin Gizli Anıtı

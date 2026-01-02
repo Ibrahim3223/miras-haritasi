@@ -1,18 +1,17 @@
 ---
-title: "Araplar Camii, Bursa | Miras Haritası"
-date: 2025-12-25T00:31:00+03:00
+title: "Araplar Camii, Bursa"
+date: "2025-12-25T00:31:00+03:00"
 slug: "araplar-camii-bursa"
 description: "## Araplar Camii, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0586128,40.180088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Araplar Camii, Bursa

@@ -1,18 +1,17 @@
 ---
-title: "Zal Mahmud Paşa Camii | Miras Haritası"
-date: 2025-12-24T20:38:24+03:00
+title: "Zal Mahmud Paşa Camii"
+date: "2025-12-24T20:38:24+03:00"
 slug: "zal-mahmud-pasa-camii"
 description: "## Zal Mahmud Paşa Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zal_Mahmud_Pasha_Mosque.jpg/1200px-Zal_Mahmud_Pasha_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.935822222,41.044777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zal Mahmud Paşa Camii: İstanbul'un Gizli Çeşmesi

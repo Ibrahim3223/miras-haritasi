@@ -1,18 +1,17 @@
 ---
-title: "Kabaköy (Ayasofya) Camii, Gümüşhane | Miras Haritası"
-date: 2025-12-24T23:20:48+03:00
+title: "Kabaköy (Ayasofya) Camii, Gümüşhane"
+date: "2025-12-24T23:20:48+03:00"
 slug: "kabakoy-ayasofya-camii-gumushane"
 description: "## Kabaköy (Ayasofya) Camii: Gümüşhane'nin Yüzyıllık Tarihi ve Mimari Harikası..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.695355,40.436652"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Kabaköy (Ayasofya) Camii: Gümüşhane'nin Yüzyıllık Tarihi ve Mimari Harikası

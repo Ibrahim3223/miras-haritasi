@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Kumru | Miras Haritası"
-date: 2025-12-25T15:44:20+03:00
+title: "Atatürk Anıtı, Kumru"
+date: "2025-12-25T15:44:20+03:00"
 slug: "ataturk-aniti-kumru"
 description: "## Atatürk Anıtı, Kumru: Türkiye'nin Bağımsızlığını Anımsatan Bir Eser..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Kumru"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.2687302,40.8786697"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı, Kumru: Türkiye'nin Bağımsızlığını Anımsatan Bir Eser

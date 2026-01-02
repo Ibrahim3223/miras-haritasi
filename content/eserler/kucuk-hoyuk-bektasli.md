@@ -1,18 +1,17 @@
 ---
-title: "Küçük Höyük, Bektaşlı | Miras Haritası"
-date: 2025-12-25T13:48:03+03:00
+title: "Küçük Höyük, Bektaşlı"
+date: "2025-12-25T13:48:03+03:00"
 slug: "kucuk-hoyuk-bektasli"
 description: "### Küçük Höyük: Türkiye'nin Eski Uygarlığının Gizemi..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yenifakılı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.0616967,39.2015051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küçük Höyük: Türkiye'nin Eski Uygarlığının Gizemi

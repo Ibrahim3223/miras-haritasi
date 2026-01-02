@@ -1,18 +1,17 @@
 ---
-title: "Derun-i Hisar Kalesi | Miras Haritası"
-date: 2025-12-25T01:51:02+03:00
+title: "Derun-i Hisar Kalesi"
+date: "2025-12-25T01:51:02+03:00"
 slug: "derun-i-hisar-kalesi"
 description: "## Derun-i Hisar Kalesi..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Pertek"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.299305,38.9169655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derun-i Hisar Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "Ege Manevraları Anıtı | Miras Haritası"
-date: 2025-12-25T15:44:24+03:00
+title: "Ege Manevraları Anıtı"
+date: "2025-12-25T15:44:24+03:00"
 slug: "ege-manevralari-aniti"
 description: "## Ege Manevraları Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3735847,37.7036133"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ege Manevraları Anıtı

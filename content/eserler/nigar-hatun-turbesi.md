@@ -1,18 +1,17 @@
 ---
-title: "Nigar Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:16+03:00
+title: "Nigar Hatun Türbesi"
+date: "2025-12-25T14:58:16+03:00"
 slug: "nigar-hatun-turbesi"
 description: "## Nigar Hatun Türbesi Hakkında Bilgi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.7044697,36.8868027"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nigar Hatun Türbesi Hakkında Bilgi

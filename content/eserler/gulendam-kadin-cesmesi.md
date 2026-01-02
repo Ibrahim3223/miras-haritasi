@@ -1,18 +1,17 @@
 ---
-title: "Gülendam Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:44:12+03:00
+title: "Gülendam Kadın Çeşmesi"
+date: "2025-12-25T11:44:12+03:00"
 slug: "gulendam-kadin-cesmesi"
 description: "### Gülendam Kadın Çeşmesi: Üsküdar'daki Bir Azizlik Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0483475,41.0397644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gülendam Kadın Çeşmesi: Üsküdar'daki Bir Azizlik Anıtı

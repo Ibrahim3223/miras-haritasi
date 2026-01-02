@@ -1,18 +1,17 @@
 ---
-title: "Arslanlı Çeşme | Miras Haritası"
-date: 2025-12-25T10:46:39+03:00
+title: "Arslanlı Çeşme"
+date: "2025-12-25T10:46:39+03:00"
 slug: "arslanli-cesme"
 description: "## Arslanlı Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7768135,41.3851509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arslanlı Çeşme

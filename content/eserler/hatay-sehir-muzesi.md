@@ -1,18 +1,17 @@
 ---
-title: "Hatay Şehir Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:30+03:00
+title: "Hatay Şehir Müzesi"
+date: "2025-12-25T03:37:30+03:00"
 slug: "hatay-sehir-muzesi"
 description: "## Hatay Şehir Müzesi: Antakya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatay Şehir Müzesi: Antakya'nın Tarihi ve Kültürel Mirası

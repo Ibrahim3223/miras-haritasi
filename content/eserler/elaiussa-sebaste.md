@@ -1,18 +1,17 @@
 ---
-title: "Elaiussa Sebaste | Miras Haritası"
-date: 2025-12-25T04:22:02+03:00
+title: "Elaiussa Sebaste"
+date: "2025-12-25T04:22:02+03:00"
 slug: "elaiussa-sebaste"
 description: "## Elaiussa Sebaste: Tarihî Bir Mirasın Geri Dönüşü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Elaiussa_Sebaste,_Cilicia,_Turkey_(39344774672).jpg/1200px-Elaiussa_Sebaste,_Cilicia,_Turkey_(39344774672).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.173725,36.483624"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Elaiussa Sebaste: Tarihî Bir Mirasın Geri Dönüşü

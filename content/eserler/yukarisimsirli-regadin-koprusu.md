@@ -1,18 +1,17 @@
 ---
-title: "Yukarışimşirli Regadin Köprüsü | Miras Haritası"
-date: 2025-12-25T02:05:05+03:00
+title: "Yukarışimşirli Regadin Köprüsü"
+date: "2025-12-25T02:05:05+03:00"
 slug: "yukarisimsirli-regadin-koprusu"
 description: "### Yukarışimşirli Regadin Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0639,41.019933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yukarışimşirli Regadin Köprüsü

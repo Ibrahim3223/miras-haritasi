@@ -1,18 +1,17 @@
 ---
-title: "Kaptan Hasan Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:57:25+03:00
+title: "Kaptan Hasan Paşa Camii"
+date: "2025-12-24T21:57:25+03:00"
 slug: "kaptan-hasan-pasa-camii"
 description: "## Kaptan Hasan Paşa Camii: Kadıköy'ün Gizli Çehresinde Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2021-03-14--Hasan_Pasa_Cami_69.jpg/1200px-2021-03-14--Hasan_Pasa_Cami_69.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Hasanpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0392,40.9948"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kaptan Hasan Paşa Camii: Kadıköy'ün Gizli Çehresinde Bir Miras

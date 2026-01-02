@@ -1,18 +1,17 @@
 ---
-title: "Sakızköy Küçük Tümülüs | Miras Haritası"
-date: 2025-12-25T07:26:59+03:00
+title: "Sakızköy Küçük Tümülüs"
+date: "2025-12-25T07:26:59+03:00"
 slug: "sakizkoy-kucuk-tumulus"
 description: "## Sakızköy Küçük Tümülüs..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4570541,41.443203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakızköy Küçük Tümülüs

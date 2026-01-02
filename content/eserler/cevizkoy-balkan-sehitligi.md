@@ -1,18 +1,17 @@
 ---
-title: "Cevizköy Balkan Şehitliği | Miras Haritası"
-date: 2025-12-25T16:02:17+03:00
+title: "Cevizköy Balkan Şehitliği"
+date: "2025-12-25T16:02:17+03:00"
 slug: "cevizkoy-balkan-sehitligi"
 description: "## Cevizköy Balkan Şehitliği: Kırklareli'nin Yıllarca Unutulmayan Yarasını Durduran Anıt..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.5868568,41.5578461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevizköy Balkan Şehitliği: Kırklareli'nin Yıllarca Unutulmayan Yarasını Durduran Anıt

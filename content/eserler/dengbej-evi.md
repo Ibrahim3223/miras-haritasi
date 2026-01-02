@@ -1,18 +1,17 @@
 ---
-title: "Dengbej Evi | Miras Haritası"
-date: 2025-12-25T03:38:46+03:00
+title: "Dengbej Evi"
+date: "2025-12-25T03:38:46+03:00"
 slug: "dengbej-evi"
 description: "## Dengbej Evi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "40.2341499,37.910038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dengbej Evi

@@ -1,18 +1,17 @@
 ---
-title: "Panayia Evangelistria Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:42+03:00
+title: "Panayia Evangelistria Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:39:42+03:00"
 slug: "panayia-evangelistria-rum-ortodoks-kilisesi"
 description: "### Panayia Evangelistria Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0527382,41.1013985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Panayia Evangelistria Rum Ortodoks Kilisesi

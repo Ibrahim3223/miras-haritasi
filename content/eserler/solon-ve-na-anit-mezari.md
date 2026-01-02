@@ -1,18 +1,17 @@
 ---
-title: "Solon ve Na Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:05:58+03:00
+title: "Solon ve Na Anıt Mezarı"
+date: "2025-12-25T14:05:58+03:00"
 slug: "solon-ve-na-anit-mezari"
 description: "## Solon ve Na Anıt Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4731617,36.86483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Solon ve Na Anıt Mezarı

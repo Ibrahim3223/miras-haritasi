@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Hulusi Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:12:38+03:00
+title: "Hüseyin Hulusi Efendi Türbesi"
+date: "2025-12-25T14:12:38+03:00"
 slug: "huseyin-hulusi-efendi-turbesi"
 description: "**Hüseyin Hulusi Efendi Türbesi**..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.067326,37.776532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hüseyin Hulusi Efendi Türbesi**

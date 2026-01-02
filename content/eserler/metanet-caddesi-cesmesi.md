@@ -1,18 +1,17 @@
 ---
-title: "Metanet Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:06:55+03:00
+title: "Metanet Caddesi Çeşmesi"
+date: "2025-12-25T10:06:55+03:00"
 slug: "metanet-caddesi-cesmesi"
 description: "## Metanet Caddesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/5.41-Metanet_Caddesi_ÇEşmesi-1797_01.jpg/1200px-5.41-Metanet_Caddesi_ÇEşmesi-1797_01.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.18185833,39.11641667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Metanet Caddesi Çeşmesi

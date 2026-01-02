@@ -1,18 +1,17 @@
 ---
-title: "Eğriköy Höyüğü | Miras Haritası"
-date: 2025-12-25T05:55:43+03:00
+title: "Eğriköy Höyüğü"
+date: "2025-12-25T05:55:43+03:00"
 slug: "egrikoy-hoyugu"
 description: "**Eğriköy Höyüğü: Kayseri'nin Gizli Tarihî Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.211151,38.215187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Eğriköy Höyüğü: Kayseri'nin Gizli Tarihî Mirası**

@@ -1,18 +1,17 @@
 ---
-title: "Uğurtaşı Dörtkilise Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:56+03:00
+title: "Uğurtaşı Dörtkilise Kilisesi"
+date: "2025-12-25T09:01:56+03:00"
 slug: "ugurtasi-dortkilise-kilisesi"
 description: "### Uğurtaşı Dört Kilise Kilisesi: Doğu Anadolu'nun Gizli Çatısı..."
 featured_image: ""
 province: "Göle"
-iller: ["Göle"]
+iller: '["Göle"]'
 district: "Uğurtaşı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.470625,40.933891666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uğurtaşı Dört Kilise Kilisesi: Doğu Anadolu'nun Gizli Çatısı

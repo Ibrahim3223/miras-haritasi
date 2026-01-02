@@ -1,18 +1,17 @@
 ---
-title: "Capito Hamamları | Miras Haritası"
-date: 2025-12-25T05:33:37+03:00
+title: "Capito Hamamları"
+date: "2025-12-25T05:33:37+03:00"
 slug: "capito-hamamlari"
 description: "## Capito Hamamları: Didim'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Miletus_Capito_Baths_in_2015_3346.jpg/1200px-Miletus_Capito_Baths_in_2015_3346.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.281111111,37.529444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Capito Hamamları: Didim'in Gizli Cenneti

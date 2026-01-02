@@ -1,18 +1,17 @@
 ---
-title: "Agios Theodoros Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:38+03:00
+title: "Agios Theodoros Kilisesi"
+date: "2025-12-25T09:22:38+03:00"
 slug: "agios-theodoros-kilisesi"
 description: "## Agios Theodoros Kilisesi: Karacabey'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.4284306,40.2486687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Agios Theodoros Kilisesi: Karacabey'in Gizli Çehresini Keşfedin

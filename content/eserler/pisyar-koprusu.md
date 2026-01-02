@@ -1,18 +1,17 @@
 ---
-title: "Pisyar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:19+03:00
+title: "Pisyar Köprüsü"
+date: "2025-12-25T02:27:19+03:00"
 slug: "pisyar-koprusu"
 description: "**Pisyar Köprüsü**..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.520695,38.193405"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Pisyar Köprüsü**

@@ -1,18 +1,17 @@
 ---
-title: "Sveti Ivan Rilski Kilisesi | Miras Haritası"
-date: 2025-12-25T09:29:15+03:00
+title: "Sveti Ivan Rilski Kilisesi"
+date: "2025-12-25T09:29:15+03:00"
 slug: "sveti-ivan-rilski-kilisesi"
 description: "## Sveti Ivan Rilski Kilisesi: İstanbul'un Gizli Çiçeği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9864674,41.0578499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sveti Ivan Rilski Kilisesi: İstanbul'un Gizli Çiçeği

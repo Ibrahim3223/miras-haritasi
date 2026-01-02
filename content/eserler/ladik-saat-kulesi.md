@@ -1,18 +1,17 @@
 ---
-title: "Ladik Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:19:52+03:00
+title: "Ladik Saat Kulesi"
+date: "2025-12-25T17:19:52+03:00"
 slug: "ladik-saat-kulesi"
 description: "### Ladik Saat Kulesi: Samsun'un Tarihi Güzelliği..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ladik"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "35.89575,40.912916666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ladik Saat Kulesi: Samsun'un Tarihi Güzelliği

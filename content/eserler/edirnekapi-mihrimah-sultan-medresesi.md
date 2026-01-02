@@ -1,18 +1,17 @@
 ---
-title: "Edirnekapı Mihrimah Sultan Medresesi | Miras Haritası"
-date: 2025-12-25T17:28:59+03:00
+title: "Edirnekapı Mihrimah Sultan Medresesi"
+date: "2025-12-25T17:28:59+03:00"
 slug: "edirnekapi-mihrimah-sultan-medresesi"
 description: "### Edirnekapı Mihrimah Sultan Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.935705,41.029751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Edirnekapı Mihrimah Sultan Medresesi

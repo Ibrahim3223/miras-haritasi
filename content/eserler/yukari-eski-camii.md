@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Eski Camii | Miras Haritası"
-date: 2025-12-24T23:45:32+03:00
+title: "Yukarı Eski Camii"
+date: "2025-12-24T23:45:32+03:00"
 slug: "yukari-eski-camii"
 description: "## Yukarı Eski Camii..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.2439194,39.1953506"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Eski Camii

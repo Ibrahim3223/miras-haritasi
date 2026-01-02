@@ -1,18 +1,17 @@
 ---
-title: "Daye Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:39+03:00
+title: "Daye Kadın Çeşmesi"
+date: "2025-12-25T11:02:39+03:00"
 slug: "daye-kadin-cesmesi"
 description: "## Daye Kadın Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.015282,41.011921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daye Kadın Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Smyrna Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:58:36+03:00
+title: "Smyrna Roma Hamamı"
+date: "2025-12-25T16:58:36+03:00"
 slug: "smyrna-roma-hamami"
 description: "### Smyrna Roma Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Smyrna_Antik_Kenti_ii.jpg/1200px-Smyrna_Antik_Kenti_ii.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1371975,38.4192276"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Smyrna Roma Hamamı

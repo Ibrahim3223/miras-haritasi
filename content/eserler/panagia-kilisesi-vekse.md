@@ -1,18 +1,17 @@
 ---
-title: "Panagia Kilisesi (Vekse) | Miras Haritası"
-date: 2025-12-25T09:33:22+03:00
+title: "Panagia Kilisesi (Vekse)"
+date: "2025-12-25T09:33:22+03:00"
 slug: "panagia-kilisesi-vekse"
 description: "### Panagia Kilisesi (Vekse): Kayseri'nin Hristiyan Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.672444,38.804334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Panagia Kilisesi (Vekse): Kayseri'nin Hristiyan Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Siyavuş Paşa Hamamı Kalıntısı | Miras Haritası"
-date: 2025-12-25T16:48:23+03:00
+title: "Siyavuş Paşa Hamamı Kalıntısı"
+date: "2025-12-25T16:48:23+03:00"
 slug: "siyavus-pasa-hamami-kalintisi"
 description: "## Siyavuş Paşa Hamamı Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bahçelievler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.8518009,41.0009995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siyavuş Paşa Hamamı Kalıntısı

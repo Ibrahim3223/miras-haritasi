@@ -1,18 +1,17 @@
 ---
-title: "Bursa Yenişehir Şemaki Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:18:42+03:00
+title: "Bursa Yenişehir Şemaki Evi Müzesi"
+date: "2025-12-25T03:18:42+03:00"
 slug: "bursa-yenisehir-semaki-evi-muzesi"
 description: "## Bursa Yenişehir Şemaki Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Şemaki_Evi_Müzesi.jpg/1200px-Şemaki_Evi_Müzesi.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.651528,40.262561"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bursa Yenişehir Şemaki Evi Müzesi

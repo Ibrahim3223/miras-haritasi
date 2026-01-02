@@ -1,18 +1,17 @@
 ---
-title: "Misis | Miras Haritası"
-date: 2025-12-25T06:49:25+03:00
+title: "Misis"
+date: "2025-12-25T06:49:25+03:00"
 slug: "misis"
 description: "## Misis..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/MisisBrücke.jpg/1200px-MisisBrücke.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.619478,36.95778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Misis

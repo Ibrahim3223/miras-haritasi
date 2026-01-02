@@ -1,18 +1,17 @@
 ---
-title: "Beyazıd Camii, Ankara | Miras Haritası"
-date: 2025-12-24T23:52:39+03:00
+title: "Beyazıd Camii, Ankara"
+date: "2025-12-24T23:52:39+03:00"
 slug: "beyazid-camii-ankara"
 description: "**Beyazıt Camii: Ankara'nın Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8650894,39.9355621"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Beyazıt Camii: Ankara'nın Tarihi ve Kültürel Mirası**

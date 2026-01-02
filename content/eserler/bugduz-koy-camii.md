@@ -1,18 +1,17 @@
 ---
-title: "Büğdüz Köy Camii | Miras Haritası"
-date: 2025-12-24T22:28:50+03:00
+title: "Büğdüz Köy Camii"
+date: "2025-12-24T22:28:50+03:00"
 slug: "bugduz-koy-camii"
 description: "## Büğdüz Köy Camii: Eskişehir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0844212,39.8525009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büğdüz Köy Camii: Eskişehir'in Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Agora of Priene | Miras Haritası"
-date: 2025-12-25T08:26:52+03:00
+title: "Agora of Priene"
+date: "2025-12-25T08:26:52+03:00"
 slug: "agora-of-priene"
 description: "## Agora of Priene: Bir Antik Kentin Kalıntıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Agora_of_Priene.jpg/1200px-Agora_of_Priene.jpg"
 province: "Söke İlçesi"
-iller: ["Söke İlçesi"]
+iller: '["Söke İlçesi"]'
 district: "Güllübahçe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2977521,37.6586316"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Agora of Priene: Bir Antik Kentin Kalıntıları

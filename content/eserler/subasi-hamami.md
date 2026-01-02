@@ -1,18 +1,17 @@
 ---
-title: "Subaşı Hamamı | Miras Haritası"
-date: 2025-12-25T16:45:14+03:00
+title: "Subaşı Hamamı"
+date: "2025-12-25T16:45:14+03:00"
 slug: "subasi-hamami"
 description: "## Subaşı Hamamı: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Suba_Hamam_2025-07-07_1761322619.jpg/1200px-Suba_Hamam_2025-07-07_1761322619.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.413372,37.9244461"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Subaşı Hamamı: Konya'nın Tarihi ve Kültürel Mirası

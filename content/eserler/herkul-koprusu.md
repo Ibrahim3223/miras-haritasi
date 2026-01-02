@@ -1,18 +1,17 @@
 ---
-title: "Herkül Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:34+03:00
+title: "Herkül Köprüsü"
+date: "2025-12-25T02:25:34+03:00"
 slug: "herkul-koprusu"
 description: "# Herkül Köprüsü: Alanya'nın Tarihçesi ve Mimari Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.2425243,36.468441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Herkül Köprüsü: Alanya'nın Tarihçesi ve Mimari Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Paşa Çeşmesi, Düğmeciler | Miras Haritası"
-date: 2025-12-25T12:18:08+03:00
+title: "Mehmet Paşa Çeşmesi, Düğmeciler"
+date: "2025-12-25T12:18:08+03:00"
 slug: "mehmet-pasa-cesmesi-dugmeciler"
 description: "### Mehmet Paşa Çeşmesi, Düğmeciler..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.927854,41.04849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehmet Paşa Çeşmesi, Düğmeciler

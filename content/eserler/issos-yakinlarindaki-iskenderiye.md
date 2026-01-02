@@ -1,18 +1,17 @@
 ---
-title: "İssos Yakınlarındaki İskenderiye | Miras Haritası"
-date: 2025-12-25T04:33:02+03:00
+title: "İssos Yakınlarındaki İskenderiye"
+date: "2025-12-25T04:33:02+03:00"
 slug: "issos-yakinlarindaki-iskenderiye"
 description: "## İssos Yakınlarındaki İskenderiye: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.28055556,36.97138889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İssos Yakınlarındaki İskenderiye: Antik Kentin Gizemi

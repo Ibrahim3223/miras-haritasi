@@ -1,18 +1,17 @@
 ---
-title: "Selge Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:29+03:00
+title: "Selge Antik Tiyatrosu"
+date: "2025-12-25T04:14:29+03:00"
 slug: "selge-antik-tiyatrosu"
 description: "**Selge Antik Tiyatrosu**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.12722,37.229309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Selge Antik Tiyatrosu**

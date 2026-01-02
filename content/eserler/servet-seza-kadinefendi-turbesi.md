@@ -1,18 +1,17 @@
 ---
-title: "Servet Seza Kadınefendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:21+03:00
+title: "Servet Seza Kadınefendi Türbesi"
+date: "2025-12-25T15:28:21+03:00"
 slug: "servet-seza-kadinefendi-turbesi"
 description: "## Servet Seza Kadınefendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9519691,41.0264282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Servet Seza Kadınefendi Türbesi

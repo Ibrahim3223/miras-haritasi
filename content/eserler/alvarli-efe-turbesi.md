@@ -1,18 +1,17 @@
 ---
-title: "Alvarlı Efe Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:49+03:00
+title: "Alvarlı Efe Türbesi"
+date: "2025-12-25T14:18:49+03:00"
 slug: "alvarli-efe-turbesi"
 description: "## Alvarlı Efe Türbesi: Pasinler'in Gizli Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Pasinler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.6087,39.9396"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alvarlı Efe Türbesi: Pasinler'in Gizli Anıtı

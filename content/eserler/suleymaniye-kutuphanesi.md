@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:45:42+03:00
+title: "Süleymaniye Kütüphanesi"
+date: "2025-12-25T17:45:42+03:00"
 slug: "suleymaniye-kutuphanesi"
 description: "## Süleymaniye Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.962860595,41.01573279"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Süleymaniye Kütüphanesi

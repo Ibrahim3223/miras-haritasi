@@ -1,18 +1,17 @@
 ---
-title: "Halide Edip Adıvar ve Kadın Kahramanlar Müzesi | Miras Haritası"
-date: 2025-12-25T03:43:45+03:00
+title: "Halide Edip Adıvar ve Kadın Kahramanlar Müzesi"
+date: "2025-12-25T03:43:45+03:00"
 slug: "halide-edip-adivar-ve-kadin-kahramanlar-muzesi"
 description: "## Halide Edip Adıvar ve Kadın Kahramanlar Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.0764809,39.5028534"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halide Edip Adıvar ve Kadın Kahramanlar Müzesi

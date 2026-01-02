@@ -1,18 +1,17 @@
 ---
-title: "Arslan Bey Türbesi, Tavşanlı | Miras Haritası"
-date: 2025-12-25T15:34:56+03:00
+title: "Arslan Bey Türbesi, Tavşanlı"
+date: "2025-12-25T15:34:56+03:00"
 slug: "arslan-bey-turbesi-tavsanli"
 description: "## Arslan Bey Türbesi: Tavşanlı'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Tavşanlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.492123,39.545459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arslan Bey Türbesi: Tavşanlı'nın Gizli Mücevheri

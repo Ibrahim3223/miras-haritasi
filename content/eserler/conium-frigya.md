@@ -1,18 +1,17 @@
 ---
-title: "Conium (Frigya) | Miras Haritası"
-date: 2025-12-25T05:01:47+03:00
+title: "Conium (Frigya)"
+date: "2025-12-25T05:01:47+03:00"
 slug: "conium-frigya"
 description: "### Conium (Frigya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.05891,38.947498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Conium (Frigya)

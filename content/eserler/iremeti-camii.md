@@ -1,18 +1,17 @@
 ---
-title: "İremeti Camii | Miras Haritası"
-date: 2025-12-24T22:21:21+03:00
+title: "İremeti Camii"
+date: "2025-12-24T22:21:21+03:00"
 slug: "iremeti-camii"
 description: "## İremeti Camii: Borçka'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/İremit_Mosque_05.png/1200px-İremit_Mosque_05.png"
 province: "Borçka"
-iller: ["Borçka"]
+iller: '["Borçka"]'
 district: "Maralköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.926638888,41.483166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İremeti Camii: Borçka'nın Tarihi Bir Mirası

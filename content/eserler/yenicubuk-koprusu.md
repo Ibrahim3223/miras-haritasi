@@ -1,18 +1,17 @@
 ---
-title: "Yeniçubuk Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:31+03:00
+title: "Yeniçubuk Köprüsü"
+date: "2025-12-25T02:33:31+03:00"
 slug: "yenicubuk-koprusu"
 description: "### Yeniçubuk Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Gemerek"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.0929604,39.2041969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeniçubuk Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Salur Höyük | Miras Haritası"
-date: 2025-12-25T06:00:31+03:00
+title: "Salur Höyük"
+date: "2025-12-25T06:00:31+03:00"
 slug: "salur-hoyuk"
 description: "## Salur Höyük: Karaman'ın Gizli Tarihi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.328499,37.303398"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salur Höyük: Karaman'ın Gizli Tarihi

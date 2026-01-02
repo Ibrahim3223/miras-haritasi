@@ -1,18 +1,17 @@
 ---
-title: "Sığacık Mescidi | Miras Haritası"
-date: 2025-12-25T00:47:44+03:00
+title: "Sığacık Mescidi"
+date: "2025-12-25T00:47:44+03:00"
 slug: "sigacik-mescidi"
 description: "### Sığacık Mescidi: Seferihisar'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7847366,38.1941032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sığacık Mescidi: Seferihisar'ın Tarihî Bir Mirası

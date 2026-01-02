@@ -1,18 +1,17 @@
 ---
-title: "Panormos (Halikarnas) | Miras Haritası"
-date: 2025-12-25T04:42:02+03:00
+title: "Panormos (Halikarnas)"
+date: "2025-12-25T04:42:02+03:00"
 slug: "panormos-halikarnas"
 description: "## Panormos (Halikarnas) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.266667,37.116667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panormos (Halikarnas) Arkeolojik Sit

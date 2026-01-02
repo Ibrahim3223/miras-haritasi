@@ -1,18 +1,17 @@
 ---
-title: "Devr-i Cedid Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:46+03:00
+title: "Devr-i Cedid Çeşmesi"
+date: "2025-12-25T11:37:46+03:00"
 slug: "devr-i-cedid-cesmesi"
 description: "## Devr-i Cedid Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.48703,37.874279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Devr-i Cedid Çeşmesi

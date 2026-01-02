@@ -1,18 +1,17 @@
 ---
-title: "Kül Höyük | Miras Haritası"
-date: 2025-12-25T06:24:01+03:00
+title: "Kül Höyük"
+date: "2025-12-25T06:24:01+03:00"
 slug: "kul-hoyuk"
 description: "## Kül Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Şarkışla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.2192819,39.2850959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kül Höyük: Tarihî Bir Mirasın İzleri

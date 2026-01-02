@@ -1,18 +1,17 @@
 ---
-title: "Şapel, Aydos Kalesi | Miras Haritası"
-date: 2025-12-25T09:42:33+03:00
+title: "Şapel, Aydos Kalesi"
+date: "2025-12-25T09:42:33+03:00"
 slug: "sapel-aydos-kalesi"
 description: "## Şapel, Aydos Kalesi: İstanbul'un Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sultanbeyli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.2585812,40.9497643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şapel, Aydos Kalesi: İstanbul'un Gizli Kahramanı

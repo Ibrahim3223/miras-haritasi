@@ -1,18 +1,17 @@
 ---
-title: "Silifke Garip Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:37+03:00
+title: "Silifke Garip Dede Türbesi"
+date: "2025-12-25T15:12:37+03:00"
 slug: "silifke-garip-dede-turbesi"
 description: "## Silifke Garip Dede Türbesi: Bir Ziyaretçi Cenneti..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9248631,36.373417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Silifke Garip Dede Türbesi: Bir Ziyaretçi Cenneti

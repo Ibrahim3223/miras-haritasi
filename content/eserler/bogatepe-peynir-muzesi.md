@@ -1,18 +1,17 @@
 ---
-title: "Boğatepe Peynir Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:03+03:00
+title: "Boğatepe Peynir Müzesi"
+date: "2025-12-25T03:24:03+03:00"
 slug: "bogatepe-peynir-muzesi"
 description: "### Boğatepe Peynir Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "42.9,40.8"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boğatepe Peynir Müzesi

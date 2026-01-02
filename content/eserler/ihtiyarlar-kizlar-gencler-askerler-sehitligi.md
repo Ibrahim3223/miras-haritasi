@@ -1,18 +1,17 @@
 ---
-title: "İhtiyarlar, Kızlar, Gençler, Askerler Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:50+03:00
+title: "İhtiyarlar, Kızlar, Gençler, Askerler Şehitliği"
+date: "2025-12-25T16:00:50+03:00"
 slug: "ihtiyarlar-kizlar-gencler-askerler-sehitligi"
 description: "## İhtiyarlar, Kızlar, Gençler, Askerler Şehitliği..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Palandöken"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.3090324,39.9138794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İhtiyarlar, Kızlar, Gençler, Askerler Şehitliği

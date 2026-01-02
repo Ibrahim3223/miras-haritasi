@@ -1,18 +1,17 @@
 ---
-title: "Zincirli Camii | Miras Haritası"
-date: 2025-12-24T22:08:05+03:00
+title: "Zincirli Camii"
+date: "2025-12-24T22:08:05+03:00"
 slug: "zincirli-camii"
 description: "## Zincirli Camii: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Zincirli_Cami,_2019_04.jpg/1200px-Zincirli_Cami,_2019_04.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.856361111,39.942027777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zincirli Camii: Ankara'nın Tarihi ve Kültürel Mirası

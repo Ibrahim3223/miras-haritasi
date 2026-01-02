@@ -1,18 +1,17 @@
 ---
-title: "Karkın Kasabası Köprüsü | Miras Haritası"
-date: 2025-12-25T02:39:25+03:00
+title: "Karkın Kasabası Köprüsü"
+date: "2025-12-25T02:39:25+03:00"
 slug: "karkin-kasabasi-koprusu"
 description: "## Karkın Kasabası Köprüsü: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.88184,37.67753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karkın Kasabası Köprüsü: Tarih ve Kültür Mirası

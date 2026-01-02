@@ -1,18 +1,17 @@
 ---
-title: "Barış Manço Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:49+03:00
+title: "Barış Manço Müzesi"
+date: "2025-12-25T03:52:49+03:00"
 slug: "baris-manco-muzesi"
 description: "## Barış Manço Müzesi: Kadıköy'ün İkonik Yerleşimi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0251217,40.981739"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Barış Manço Müzesi: Kadıköy'ün İkonik Yerleşimi

@@ -1,18 +1,17 @@
 ---
-title: "Aşık Paşazade Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:27+03:00
+title: "Aşık Paşazade Türbesi"
+date: "2025-12-25T14:31:27+03:00"
 slug: "asik-pasazade-turbesi"
 description: "## Aşık Paşazade Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.956458,41.024006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşık Paşazade Türbesi

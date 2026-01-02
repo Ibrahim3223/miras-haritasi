@@ -1,18 +1,17 @@
 ---
-title: "Tülüce Camii | Miras Haritası"
-date: 2025-12-25T00:37:53+03:00
+title: "Tülüce Camii"
+date: "2025-12-25T00:37:53+03:00"
 slug: "tuluce-camii"
 description: "## Tülüce Camii: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8571167,39.9429665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tülüce Camii: Ankara'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "İskele Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:20:43+03:00
+title: "İskele Çeşmesi, Çeşme"
+date: "2025-12-25T12:20:43+03:00"
 slug: "iskele-cesmesi-cesme"
 description: "## İskele Çeşmesi: Çeşme'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.2961006,38.3218956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskele Çeşmesi: Çeşme'nin Tarihi Bir Anıtı

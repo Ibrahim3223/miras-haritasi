@@ -1,18 +1,17 @@
 ---
-title: "Bakkal Piri Camii | Miras Haritası"
-date: 2025-12-24T22:12:20+03:00
+title: "Bakkal Piri Camii"
+date: "2025-12-24T22:12:20+03:00"
 slug: "bakkal-piri-camii"
 description: "**Bakkal Piri Camii**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0881996,40.5021019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bakkal Piri Camii**

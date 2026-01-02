@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Devri Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:03+03:00
+title: "Cumhuriyet Devri Müzesi"
+date: "2025-12-25T03:58:03+03:00"
 slug: "cumhuriyet-devri-muzesi"
 description: "## Cumhuriyet Devri Müzesi: Ankara'nın Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.840474,39.943568"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumhuriyet Devri Müzesi: Ankara'nın Kültür Mirası

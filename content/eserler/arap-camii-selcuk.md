@@ -1,18 +1,17 @@
 ---
-title: "Arap Camii (Selçuk) | Miras Haritası"
-date: 2025-12-24T22:42:57+03:00
+title: "Arap Camii (Selçuk)"
+date: "2025-12-24T22:42:57+03:00"
 slug: "arap-camii-selcuk"
 description: "### Arap Camii (Selçuk)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1781158,39.1225357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arap Camii (Selçuk)

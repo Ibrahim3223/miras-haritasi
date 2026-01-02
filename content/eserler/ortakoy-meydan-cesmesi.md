@@ -1,18 +1,17 @@
 ---
-title: "Ortaköy Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:35:24+03:00
+title: "Ortaköy Meydan Çeşmesi"
+date: "2025-12-25T12:35:24+03:00"
 slug: "ortakoy-meydan-cesmesi"
 description: "## Ortaköy Meydan Çeşmesi: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.026396239,41.047520163"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaköy Meydan Çeşmesi: Tarihi ve Kültürel Mirası

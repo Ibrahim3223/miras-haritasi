@@ -1,18 +1,17 @@
 ---
-title: "Ahoti Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:13+03:00
+title: "Ahoti Kilisesi"
+date: "2025-12-25T09:03:13+03:00"
 slug: "ahoti-kilisesi"
 description: "### Ahoti Kilisesi..."
 featured_image: ""
 province: "Yusufeli"
-iller: ["Yusufeli"]
+iller: '["Yusufeli"]'
 district: "Kömürlü"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.658,40.883722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahoti Kilisesi

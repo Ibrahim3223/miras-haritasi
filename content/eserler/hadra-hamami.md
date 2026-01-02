@@ -1,18 +1,17 @@
 ---
-title: "Hadra Hamamı | Miras Haritası"
-date: 2025-12-25T16:58:44+03:00
+title: "Hadra Hamamı"
+date: "2025-12-25T16:58:44+03:00"
 slug: "hadra-hamami"
 description: "## Hadra Hamamı: Akdeniz'in Gizli Cenneti..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.6221352,36.7940292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadra Hamamı: Akdeniz'in Gizli Cenneti

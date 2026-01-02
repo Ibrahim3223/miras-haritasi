@@ -1,18 +1,17 @@
 ---
-title: "Tuz Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:32:56+03:00
+title: "Tuz Baba Türbesi"
+date: "2025-12-25T14:32:56+03:00"
 slug: "tuz-baba-turbesi"
 description: "## Tuz Baba Türbesi: Beşiktaş'ın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.003934,41.046246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tuz Baba Türbesi: Beşiktaş'ın Tarihî Bir Anıtı

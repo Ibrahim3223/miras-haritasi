@@ -1,18 +1,17 @@
 ---
-title: "Yazıbaşı Höyüğü, Torbalı | Miras Haritası"
-date: 2025-12-25T05:55:35+03:00
+title: "Yazıbaşı Höyüğü, Torbalı"
+date: "2025-12-25T05:55:35+03:00"
 slug: "yazibasi-hoyugu-torbali"
 description: "## Yazıbaşı Höyüğü, Torbalı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3010006,38.2136002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yazıbaşı Höyüğü, Torbalı

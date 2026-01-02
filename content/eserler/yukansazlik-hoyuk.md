@@ -1,18 +1,17 @@
 ---
-title: "Yukansazlık Höyük | Miras Haritası"
-date: 2025-12-25T06:07:20+03:00
+title: "Yukansazlık Höyük"
+date: "2025-12-25T06:07:20+03:00"
 slug: "yukansazlik-hoyuk"
 description: "## Yukansazlık Höyük: Şefaatli'deki Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.789865302,39.412155101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukansazlık Höyük: Şefaatli'deki Bir Arkeolojik Sit

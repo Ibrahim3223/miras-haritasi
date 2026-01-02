@@ -1,18 +1,17 @@
 ---
-title: "Sarıveliler Hacı Salih Camii | Miras Haritası"
-date: 2025-12-24T22:41:46+03:00
+title: "Sarıveliler Hacı Salih Camii"
+date: "2025-12-24T22:41:46+03:00"
 slug: "sariveliler-haci-salih-camii"
 description: "**Sarıveliler Hacı Salih Camii: Karaman'ın Gizli Cenneti**..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Sarıveliler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.616478,36.6919594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sarıveliler Hacı Salih Camii: Karaman'ın Gizli Cenneti**

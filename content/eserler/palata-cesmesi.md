@@ -1,18 +1,17 @@
 ---
-title: "Palata Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:28:41+03:00
+title: "Palata Çeşmesi"
+date: "2025-12-25T12:28:41+03:00"
 slug: "palata-cesmesi"
 description: "## Palata Çeşmesi: Erdek'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.792016921,40.405632253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palata Çeşmesi: Erdek'in Tarihi Bir Çeşmesi

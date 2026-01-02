@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ömer Camii, Sinop | Miras Haritası"
-date: 2025-12-25T00:29:09+03:00
+title: "Hacı Ömer Camii, Sinop"
+date: "2025-12-25T00:29:09+03:00"
 slug: "haci-omer-camii-sinop"
 description: "## Hacı Ömer Camii, Sinop..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1482773,42.0243607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ömer Camii, Sinop

@@ -1,18 +1,17 @@
 ---
-title: "Kürkçübaşı Külhanı Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:02+03:00
+title: "Kürkçübaşı Külhanı Sokak Çeşmesi"
+date: "2025-12-25T11:03:02+03:00"
 slug: "kurkcubasi-kulhani-sokak-cesmesi"
 description: "# Kürkçübaşı Külhanı Sokak Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.947256,41.007679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kürkçübaşı Külhanı Sokak Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ahi Emir Ahmet Türbesi, Sivas | Miras Haritası"
-date: 2025-12-25T13:56:23+03:00
+title: "Ahi Emir Ahmet Türbesi, Sivas"
+date: "2025-12-25T13:56:23+03:00"
 slug: "ahi-emir-ahmet-turbesi-sivas"
 description: "## Ahi Emir Ahmet Türbesi: Sivas'ta Bir Geçmişin Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0205879,39.7464447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Emir Ahmet Türbesi: Sivas'ta Bir Geçmişin Mirası

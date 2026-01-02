@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Paşa Külliyesi | Miras Haritası"
-date: 2025-12-24T22:45:49+03:00
+title: "Rüstem Paşa Külliyesi"
+date: "2025-12-24T22:45:49+03:00"
 slug: "rustem-pasa-kulliyesi"
 description: "## Rüstem Paşa Külliyesi: Tekirdağ'ın Tarihi Mirası..."
 featured_image: ""
-province: "Edirne Vilayeti"
-iller: ["Edirne Vilayeti"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: "Edirne Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5163,40.9777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rüstem Paşa Külliyesi: Tekirdağ'ın Tarihi Mirası

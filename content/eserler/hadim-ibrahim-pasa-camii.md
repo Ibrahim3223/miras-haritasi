@@ -1,18 +1,17 @@
 ---
-title: "Hadım İbrahim Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:51:57+03:00
+title: "Hadım İbrahim Paşa Camii"
+date: "2025-12-24T21:51:57+03:00"
 slug: "hadim-ibrahim-pasa-camii"
 description: "# Hadım İbrahim Paşa Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hadim_Ibrahim_Mosque_9219.jpg/1200px-Hadim_Ibrahim_Mosque_9219.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.923,41.006"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hadım İbrahim Paşa Camii: İstanbul'un Gizli Çeşmesi

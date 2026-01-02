@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Türk ve İslam Eserleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:42:40+03:00
+title: "Erzurum Türk ve İslam Eserleri Müzesi"
+date: "2025-12-25T03:42:40+03:00"
 slug: "erzurum-turk-ve-islam-eserleri-muzesi"
 description: "**Erzurum Türk ve İslam Eserleri Müzesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Erzurum Türk ve İslam Eserleri Müzesi**

@@ -1,18 +1,17 @@
 ---
-title: "Setbaşı Camii | Miras Haritası"
-date: 2025-12-24T23:07:08+03:00
+title: "Setbaşı Camii"
+date: "2025-12-24T23:07:08+03:00"
 slug: "setbasi-camii"
 description: "## Setbaşı Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0702515,40.1808014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Setbaşı Camii: Bursa'nın Tarihi Bir Mirası

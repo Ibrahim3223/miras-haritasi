@@ -1,18 +1,17 @@
 ---
-title: "Gülnuş Emetullah Valide Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:30+03:00
+title: "Gülnuş Emetullah Valide Sultan Türbesi"
+date: "2025-12-25T14:31:30+03:00"
 slug: "gulnus-emetullah-valide-sultan-turbesi"
 description: "**Gülnuş Emetullah Valide Sultan Türbesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Gülnuş_Emetullah_Valide_Sultan_Mezarı.jpg/1200px-Gülnuş_Emetullah_Valide_Sultan_Mezarı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.015503,41.024717"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Gülnuş Emetullah Valide Sultan Türbesi**

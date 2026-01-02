@@ -1,18 +1,17 @@
 ---
-title: "Oluk Çeşme, Bayındır | Miras Haritası"
-date: 2025-12-25T12:03:58+03:00
+title: "Oluk Çeşme, Bayındır"
+date: "2025-12-25T12:03:58+03:00"
 slug: "oluk-cesme-bayindir"
 description: "# Oluk Çeşme, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6438007,38.2251015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Oluk Çeşme, Bayındır

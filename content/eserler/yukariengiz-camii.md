@@ -1,18 +1,17 @@
 ---
-title: "Yukarıengiz Camii | Miras Haritası"
-date: 2025-12-24T23:46:00+03:00
+title: "Yukarıengiz Camii"
+date: "2025-12-24T23:46:00+03:00"
 slug: "yukariengiz-camii"
 description: "## Yukarıengiz Camii: Samsun'un Tarihi Bir Çanak..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "19 Mayıs"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.0653992,41.4852982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarıengiz Camii: Samsun'un Tarihi Bir Çanak

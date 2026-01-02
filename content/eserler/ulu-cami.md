@@ -1,18 +1,17 @@
 ---
-title: "Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:02:24+03:00
+title: "Ulu Cami"
+date: "2025-12-24T23:02:24+03:00"
 slug: "ulu-cami"
 description: "## Ulu Cami: Manisa'nın Tarihi Bir Zenginliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ulu_Cami,_Akhisar,_Manisa.JPG/1200px-Ulu_Cami,_Akhisar,_Manisa.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8410721,38.9249191"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ulu Cami: Manisa'nın Tarihi Bir Zenginliği

@@ -1,18 +1,17 @@
 ---
-title: "Emirler Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:16+03:00
+title: "Emirler Çeşmesi"
+date: "2025-12-25T10:12:16+03:00"
 slug: "emirler-cesmesi"
 description: "## Emirler Çeşmesi: Torul'un Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.1954079,40.5165062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emirler Çeşmesi: Torul'un Tarihî Bir Çeşmesi

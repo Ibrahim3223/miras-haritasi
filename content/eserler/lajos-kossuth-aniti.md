@@ -1,18 +1,17 @@
 ---
-title: "Lajos Kossuth Anıtı | Miras Haritası"
-date: 2025-12-25T15:47:31+03:00
+title: "Lajos Kossuth Anıtı"
+date: "2025-12-25T15:47:31+03:00"
 slug: "lajos-kossuth-aniti"
 description: "## Lajos Kossuth Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.973772,39.4164734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lajos Kossuth Anıtı

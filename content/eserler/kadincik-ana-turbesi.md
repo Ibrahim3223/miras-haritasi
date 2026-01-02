@@ -1,18 +1,17 @@
 ---
-title: "Kadıncık Ana Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:08+03:00
+title: "Kadıncık Ana Türbesi"
+date: "2025-12-25T14:40:08+03:00"
 slug: "kadincik-ana-turbesi"
 description: "### Kadıncık Ana Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.6943741,39.4421616"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadıncık Ana Türbesi

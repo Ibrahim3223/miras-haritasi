@@ -1,18 +1,17 @@
 ---
-title: "Kandilli Deprem Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:59+03:00
+title: "Kandilli Deprem Müzesi"
+date: "2025-12-25T03:13:59+03:00"
 slug: "kandilli-deprem-muzesi"
 description: "## Kandilli Deprem Müzesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Kandilli"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.05991,41.06383"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kandilli Deprem Müzesi

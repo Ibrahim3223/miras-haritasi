@@ -1,18 +1,17 @@
 ---
-title: "Horhor Hamamı | Miras Haritası"
-date: 2025-12-25T16:36:14+03:00
+title: "Horhor Hamamı"
+date: "2025-12-25T16:36:14+03:00"
 slug: "horhor-hamami"
 description: "# Horhor Hamamı: İstanbul'un Fethi ile Geçirdiği Dönemden Kalan Bir Tarihi Çıkın..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.95064,41.011446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Horhor Hamamı: İstanbul'un Fethi ile Geçirdiği Dönemden Kalan Bir Tarihi Çıkın

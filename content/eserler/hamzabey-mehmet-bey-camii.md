@@ -1,18 +1,17 @@
 ---
-title: "Hamzabey Mehmet Bey Camii | Miras Haritası"
-date: 2025-12-24T23:32:30+03:00
+title: "Hamzabey Mehmet Bey Camii"
+date: "2025-12-24T23:32:30+03:00"
 slug: "hamzabey-mehmet-bey-camii"
 description: "### Hamzabey Mehmet Bey Camii: Bursa'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5258389,40.1338882"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamzabey Mehmet Bey Camii: Bursa'nın Gizli Cenneti

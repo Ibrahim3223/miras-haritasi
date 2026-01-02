@@ -1,18 +1,17 @@
 ---
-title: "İtalyan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:48+03:00
+title: "İtalyan Köprüsü"
+date: "2025-12-25T02:07:48+03:00"
 slug: "italyan-koprusu"
 description: "### İtalyan Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0569572,37.6159668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İtalyan Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kızılcageren Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:28:21+03:00
+title: "Kızılcageren Kalesi, Kırklareli"
+date: "2025-12-25T01:28:21+03:00"
 slug: "kizilcageren-kalesi-kirklareli"
 description: "## Kızılcageren Kalesi: Kırklareli'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3429012,41.8081856"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılcageren Kalesi: Kırklareli'nin Tarihî Bir Mirası

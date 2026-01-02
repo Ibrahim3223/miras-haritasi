@@ -1,18 +1,17 @@
 ---
-title: "Menet Ada Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:24+03:00
+title: "Menet Ada Kilisesi"
+date: "2025-12-25T09:26:24+03:00"
 slug: "menet-ada-kilisesi"
 description: "## Menet Ada Kilisesi: Aydın'ın Gizli Çehresini Aydınlatacak Bir Anıtsal Kilise..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.4652405,37.509285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Menet Ada Kilisesi: Aydın'ın Gizli Çehresini Aydınlatacak Bir Anıtsal Kilise

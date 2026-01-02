@@ -1,18 +1,17 @@
 ---
-title: "Alpsarı Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:17:03+03:00
+title: "Alpsarı Köyü Camii"
+date: "2025-12-25T00:17:03+03:00"
 slug: "alpsari-koyu-camii"
 description: "## Alpsarı Köyü Camii: Korgun, Çankırı'da Bir Kültür Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Korgun"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5314331,40.6855888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alpsarı Köyü Camii: Korgun, Çankırı'da Bir Kültür Mirası

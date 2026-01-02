@@ -1,18 +1,17 @@
 ---
-title: "Hasan Padişah Kümbeti | Miras Haritası"
-date: 2025-12-25T13:57:26+03:00
+title: "Hasan Padişah Kümbeti"
+date: "2025-12-25T13:57:26+03:00"
 slug: "hasan-padisah-kumbeti"
 description: "## Hasan Padişah Kümbeti..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.4521103,38.7458839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Padişah Kümbeti

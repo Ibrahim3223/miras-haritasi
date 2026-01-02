@@ -1,18 +1,17 @@
 ---
-title: "Akçasu Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:30:11+03:00
+title: "Akçasu Sokak Çeşmesi"
+date: "2025-12-25T11:30:11+03:00"
 slug: "akcasu-sokak-cesmesi"
 description: "### Akçasu Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Akçasu_Sokak_Çeşmesi.jpg/1200px-Akçasu_Sokak_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6973,41.2463875"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Akçasu Sokak Çeşmesi

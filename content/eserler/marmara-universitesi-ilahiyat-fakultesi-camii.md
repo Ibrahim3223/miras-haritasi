@@ -1,18 +1,17 @@
 ---
-title: "Marmara Üniversitesi İlahiyat Fakültesi Camii | Miras Haritası"
-date: 2025-12-24T21:57:13+03:00
+title: "Marmara Üniversitesi İlahiyat Fakültesi Camii"
+date: "2025-12-24T21:57:13+03:00"
 slug: "marmara-universitesi-ilahiyat-fakultesi-camii"
 description: "### Marmara Üniversitesi İlahiyat Fakültesi Camii: Üsküdar'ın Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Marmara_İlahiyat_Camii_-_Ağustos_2015.jpeg/1200px-Marmara_İlahiyat_Camii_-_Ağustos_2015.jpeg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0376002,41.0208532"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Marmara Üniversitesi İlahiyat Fakültesi Camii: Üsküdar'ın Kültürel Mirası

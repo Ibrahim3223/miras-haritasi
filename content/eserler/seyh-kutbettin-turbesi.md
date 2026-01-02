@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Kutbettin Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:58+03:00
+title: "Şeyh Kutbettin Türbesi"
+date: "2025-12-25T15:15:58+03:00"
 slug: "seyh-kutbettin-turbesi"
 description: "# Şeyh Kutbettin Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.7262,40.4299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyh Kutbettin Türbesi

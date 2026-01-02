@@ -1,18 +1,17 @@
 ---
-title: "Kürekçioğlu Ali Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:00:58+03:00
+title: "Kürekçioğlu Ali Ağa Çeşmesi"
+date: "2025-12-25T13:00:58+03:00"
 slug: "kurekcioglu-ali-aga-cesmesi"
 description: "### Kürekçioğlu Ali Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kürekçioğlu_Ali_Ağa_Çeşmesi.jpg/1200px-Kürekçioğlu_Ali_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Tuzla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.3271217,40.8697433"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kürekçioğlu Ali Ağa Çeşmesi

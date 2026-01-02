@@ -1,18 +1,17 @@
 ---
-title: "Oğul Paşa Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:32+03:00
+title: "Oğul Paşa Köprüsü"
+date: "2025-12-25T02:23:32+03:00"
 slug: "ogul-pasa-koprusu"
 description: "## Oğul Paşa Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.7482529,41.573444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oğul Paşa Köprüsü

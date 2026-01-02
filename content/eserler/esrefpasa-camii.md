@@ -1,18 +1,17 @@
 ---
-title: "Eşrefpaşa Camii | Miras Haritası"
-date: 2025-12-24T22:01:29+03:00
+title: "Eşrefpaşa Camii"
+date: "2025-12-24T22:01:29+03:00"
 slug: "esrefpasa-camii"
 description: "## Eşrefpaşa Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.129166666,38.408611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eşrefpaşa Camii: İzmir'in Tarihi ve Kültürel Mirası

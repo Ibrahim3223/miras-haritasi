@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Şüca Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:10+03:00
+title: "Şeyh Şüca Türbesi"
+date: "2025-12-25T14:54:10+03:00"
 slug: "seyh-suca-turbesi"
 description: "### Şeyh Şüca Türbesi: Antalya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.7158108,36.8882294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Şüca Türbesi: Antalya'nın Kültürel Mirası

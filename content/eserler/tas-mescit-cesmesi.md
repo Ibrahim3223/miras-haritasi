@@ -1,18 +1,17 @@
 ---
-title: "Taş Mescit Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:01+03:00
+title: "Taş Mescit Çeşmesi"
+date: "2025-12-25T11:38:01+03:00"
 slug: "tas-mescit-cesmesi"
 description: "### Taş Mescit Çeşmesi: Konya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.493885,37.8649559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taş Mescit Çeşmesi: Konya'nın Tarihî Mirası

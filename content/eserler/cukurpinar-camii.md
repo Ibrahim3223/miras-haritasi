@@ -1,18 +1,17 @@
 ---
-title: "Çukurpınar Camii | Miras Haritası"
-date: 2025-12-24T22:32:44+03:00
+title: "Çukurpınar Camii"
+date: "2025-12-24T22:32:44+03:00"
 slug: "cukurpinar-camii"
 description: "## Çukurpınar Camii: Sivas'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0195312,39.7451744"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukurpınar Camii: Sivas'ın Tarihi Bir Anıtı

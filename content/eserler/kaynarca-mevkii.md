@@ -1,18 +1,17 @@
 ---
-title: "Kaynarca Mevkii | Miras Haritası"
-date: 2025-12-25T07:00:12+03:00
+title: "Kaynarca Mevkii"
+date: "2025-12-25T07:00:12+03:00"
 slug: "kaynarca-mevkii"
 description: "## Kaynarca Mevkii Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6152382,40.3797684"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaynarca Mevkii Arkeolojik Sit

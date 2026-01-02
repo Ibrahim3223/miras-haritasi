@@ -1,18 +1,17 @@
 ---
-title: "Akça Höyük | Miras Haritası"
-date: 2025-12-25T06:14:49+03:00
+title: "Akça Höyük"
+date: "2025-12-25T06:14:49+03:00"
 slug: "akca-hoyuk"
 description: "## Akça Höyük: Kerkük'ün Öncüsü..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.445760081,37.197016961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akça Höyük: Kerkük'ün Öncüsü

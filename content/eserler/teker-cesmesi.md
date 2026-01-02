@@ -1,18 +1,17 @@
 ---
-title: "Teker Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:25:37+03:00
+title: "Teker Çeşmesi"
+date: "2025-12-25T12:25:37+03:00"
 slug: "teker-cesmesi"
 description: "## Teker Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.74149,37.3115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Teker Çeşmesi

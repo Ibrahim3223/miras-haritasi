@@ -1,18 +1,17 @@
 ---
-title: "Mesih Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-25T01:10:41+03:00
+title: "Mesih Mehmet Paşa Camii"
+date: "2025-12-25T01:10:41+03:00"
 slug: "mesih-mehmet-pasa-camii"
 description: "## Mesih Mehmet Paşa Camii: Tarihî Bir Güzellik..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.939488,41.025542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mesih Mehmet Paşa Camii: Tarihî Bir Güzellik

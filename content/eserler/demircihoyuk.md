@@ -1,18 +1,17 @@
 ---
-title: "Demircihöyük | Miras Haritası"
-date: 2025-12-25T07:04:36+03:00
+title: "Demircihöyük"
+date: "2025-12-25T07:04:36+03:00"
 slug: "demircihoyuk"
 description: "## Demircihöyük: Eskişehir'in Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.27052,39.85035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demircihöyük: Eskişehir'in Gizli Anıtı

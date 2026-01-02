@@ -1,18 +1,17 @@
 ---
-title: "Gevher Nesibe Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:47:56+03:00
+title: "Gevher Nesibe Çeşmesi"
+date: "2025-12-25T10:47:56+03:00"
 slug: "gevher-nesibe-cesmesi"
 description: "### Gevher Nesibe Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4836311,38.7238045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gevher Nesibe Çeşmesi

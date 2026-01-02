@@ -1,18 +1,17 @@
 ---
-title: "İpekyolu, Van'da cami | Miras Haritası"
-date: 2025-12-24T21:59:11+03:00
+title: "İpekyolu, Van'da cami"
+date: "2025-12-24T21:59:11+03:00"
 slug: "ipekyolu-vanda-cami"
 description: "### İpekyolu Cami: Van'ın Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/OTAltVanOsmanMoschee.jpg/1200px-OTAltVanOsmanMoschee.jpg"
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "İpekyolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.338694444,38.498111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İpekyolu Cami: Van'ın Tarihî Bir Mirası

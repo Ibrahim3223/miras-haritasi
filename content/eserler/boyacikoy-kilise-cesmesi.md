@@ -1,18 +1,17 @@
 ---
-title: "Boyacıköy Kilise Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:43+03:00
+title: "Boyacıköy Kilise Çeşmesi"
+date: "2025-12-25T11:16:43+03:00"
 slug: "boyacikoy-kilise-cesmesi"
 description: "## Boyacıköy Kilise Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.052497,41.101523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boyacıköy Kilise Çeşmesi

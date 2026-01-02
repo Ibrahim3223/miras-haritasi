@@ -1,18 +1,17 @@
 ---
-title: "Genç Osman Camii | Miras Haritası"
-date: 2025-12-24T22:53:10+03:00
+title: "Genç Osman Camii"
+date: "2025-12-24T22:53:10+03:00"
 slug: "genc-osman-camii"
 description: "## Genç Osman Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8739738,41.0269241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Genç Osman Camii

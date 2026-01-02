@@ -1,18 +1,17 @@
 ---
-title: "Parpariotai | Miras Haritası"
-date: 2025-12-25T08:07:19+03:00
+title: "Parpariotai"
+date: "2025-12-25T08:07:19+03:00"
 slug: "parpariotai"
 description: "# Parpariotai: Ege Denizi'ndeki Antik Bir Şehirdir..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3,37.35"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Parpariotai: Ege Denizi'ndeki Antik Bir Şehirdir

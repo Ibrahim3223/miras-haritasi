@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muslihittin Türbesi | Miras Haritası"
-date: 2025-12-25T14:48:33+03:00
+title: "Şeyh Muslihittin Türbesi"
+date: "2025-12-25T14:48:33+03:00"
 slug: "seyh-muslihittin-turbesi"
 description: "## Şeyh Muslihittin Türbesi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.8675156,37.8838005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Muslihittin Türbesi

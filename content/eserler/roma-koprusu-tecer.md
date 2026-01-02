@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Tecer | Miras Haritası"
-date: 2025-12-25T02:52:37+03:00
+title: "Roma Köprüsü, Tecer"
+date: "2025-12-25T02:52:37+03:00"
 slug: "roma-koprusu-tecer"
 description: "## Roma Köprüsü, Tecer: Sivas'ta Geçmişin Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Ulaş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.08823,39.406277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Tecer: Sivas'ta Geçmişin Gizemi

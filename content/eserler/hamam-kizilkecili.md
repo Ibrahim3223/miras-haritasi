@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Kızılkeçili | Miras Haritası"
-date: 2025-12-25T17:14:24+03:00
+title: "Hamam, Kızılkeçili"
+date: "2025-12-25T17:14:24+03:00"
 slug: "hamam-kizilkecili"
 description: "## Hamam, Kızılkeçili..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.595852691,40.205678061"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamam, Kızılkeçili

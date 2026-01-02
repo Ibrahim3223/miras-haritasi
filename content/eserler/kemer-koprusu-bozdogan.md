@@ -1,18 +1,17 @@
 ---
-title: "Kemer Köprüsü, Bozdoğan | Miras Haritası"
-date: 2025-12-25T02:46:21+03:00
+title: "Kemer Köprüsü, Bozdoğan"
+date: "2025-12-25T02:46:21+03:00"
 slug: "kemer-koprusu-bozdogan"
 description: "## Kemer Köprüsü, Bozdoğan..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.5371838,37.5589218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemer Köprüsü, Bozdoğan

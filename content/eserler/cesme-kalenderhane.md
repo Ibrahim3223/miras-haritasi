@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Kalenderhane | Miras Haritası"
-date: 2025-12-25T12:03:17+03:00
+title: "Çeşme, Kalenderhane"
+date: "2025-12-25T12:03:17+03:00"
 slug: "cesme-kalenderhane"
 description: "## Çeşme, Kalenderhane..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9597626,41.01231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Kalenderhane

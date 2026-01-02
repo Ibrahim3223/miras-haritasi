@@ -1,18 +1,17 @@
 ---
-title: "Özdemir Köyü Höyük ve Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:38:29+03:00
+title: "Özdemir Köyü Höyük ve Yerleşimi"
+date: "2025-12-25T06:38:29+03:00"
 slug: "ozdemir-koyu-hoyuk-ve-yerlesimi"
 description: "## Özdemir Köyü Höyük ve Yerleşimi..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Patnos"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "42.7246857,39.0383606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özdemir Köyü Höyük ve Yerleşimi

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ömer Mescidi, Aydın | Miras Haritası"
-date: 2025-12-25T00:46:56+03:00
+title: "Hacı Ömer Mescidi, Aydın"
+date: "2025-12-25T00:46:56+03:00"
 slug: "haci-omer-mescidi-aydin"
 description: "## Hacı Ömer Mescidi: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8428993,37.8405991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ömer Mescidi: Aydın'ın Tarihi Bir Mirası

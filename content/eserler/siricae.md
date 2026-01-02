@@ -1,18 +1,17 @@
 ---
-title: "Siricae | Miras Haritası"
-date: 2025-12-25T05:16:03+03:00
+title: "Siricae"
+date: "2025-12-25T05:16:03+03:00"
 slug: "siricae"
 description: "## Siricae Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.458778,38.204189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siricae Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Yavaşça Şahin Mescidi | Miras Haritası"
-date: 2025-12-24T22:56:32+03:00
+title: "Yavaşça Şahin Mescidi"
+date: "2025-12-24T22:56:32+03:00"
 slug: "yavasca-sahin-mescidi"
 description: "## Yavaşça Şahin Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.967702,41.015851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yavaşça Şahin Mescidi: İstanbul'un Gizli Cenneti

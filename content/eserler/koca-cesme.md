@@ -1,18 +1,17 @@
 ---
-title: "Koca Çeşme | Miras Haritası"
-date: 2025-12-25T10:24:20+03:00
+title: "Koca Çeşme"
+date: "2025-12-25T10:24:20+03:00"
 slug: "koca-cesme"
 description: "## Koca Çeşme: Ulubey'de Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2819805,38.5443192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Çeşme: Ulubey'de Bir Tarihi Çeşme

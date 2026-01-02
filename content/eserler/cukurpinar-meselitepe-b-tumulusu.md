@@ -1,18 +1,17 @@
 ---
-title: "Çukurpınar Meşelitepe B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:59+03:00
+title: "Çukurpınar Meşelitepe B Tümülüsü"
+date: "2025-12-25T07:47:59+03:00"
 slug: "cukurpinar-meselitepe-b-tumulusu"
 description: "### Çukurpınar Meşelitepe B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4694405,41.8406601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çukurpınar Meşelitepe B Tümülüsü

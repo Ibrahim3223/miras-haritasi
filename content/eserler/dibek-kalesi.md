@@ -1,18 +1,17 @@
 ---
-title: "Dibek Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:08+03:00
+title: "Dibek Kalesi"
+date: "2025-12-25T01:40:08+03:00"
 slug: "dibek-kalesi"
 description: "## Dibek Kalesi: Konya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Halkapınar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.188065,37.399654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dibek Kalesi: Konya'nın Gizli Kahramanı

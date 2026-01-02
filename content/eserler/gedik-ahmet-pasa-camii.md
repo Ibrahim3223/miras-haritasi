@@ -1,18 +1,17 @@
 ---
-title: "Gedik Ahmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:50:07+03:00
+title: "Gedik Ahmet Paşa Camii"
+date: "2025-12-24T23:50:07+03:00"
 slug: "gedik-ahmet-pasa-camii"
 description: "## Gedik Ahmet Paşa Camii: Afyonkarahisar'ın Tarihî Bir Çeşidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Gedik_Ahmet_Pasha_İmaret_Mosque,_2016_2.jpg/1200px-Gedik_Ahmet_Pasha_İmaret_Mosque,_2016_2.jpg"
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.540420776,38.753551818"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gedik Ahmet Paşa Camii: Afyonkarahisar'ın Tarihî Bir Çeşidi

@@ -1,18 +1,17 @@
 ---
-title: "Hepkebirler Çeşmesi, Kastamonu | Miras Haritası"
-date: 2025-12-25T12:21:09+03:00
+title: "Hepkebirler Çeşmesi, Kastamonu"
+date: "2025-12-25T12:21:09+03:00"
 slug: "hepkebirler-cesmesi-kastamonu"
 description: "## Hepkebirler Çeşmesi: Kastamonu'da Bir Altın Değer..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.773230856,41.375287433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hepkebirler Çeşmesi: Kastamonu'da Bir Altın Değer

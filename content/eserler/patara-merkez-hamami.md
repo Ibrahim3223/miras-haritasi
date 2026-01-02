@@ -1,18 +1,17 @@
 ---
-title: "Patara Merkez Hamamı | Miras Haritası"
-date: 2025-12-25T16:52:59+03:00
+title: "Patara Merkez Hamamı"
+date: "2025-12-25T16:52:59+03:00"
 slug: "patara-merkez-hamami"
 description: "### Patara Merkez Hamamı: Antik Çağın Gizemli Hamamı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.316198,36.262527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Patara Merkez Hamamı: Antik Çağın Gizemli Hamamı

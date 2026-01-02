@@ -1,18 +1,17 @@
 ---
-title: "Lyrbe Hamam | Miras Haritası"
-date: 2025-12-25T16:49:02+03:00
+title: "Lyrbe Hamam"
+date: "2025-12-25T16:49:02+03:00"
 slug: "lyrbe-hamam"
 description: "## Lyrbe Hamamı: Tarihi ve Kültürel Kıymeti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.4722366,36.8728447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lyrbe Hamamı: Tarihi ve Kültürel Kıymeti

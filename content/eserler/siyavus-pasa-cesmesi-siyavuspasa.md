@@ -1,18 +1,17 @@
 ---
-title: "Siyavuş Paşa Çeşmesi, Siyavuşpaşa | Miras Haritası"
-date: 2025-12-25T11:51:10+03:00
+title: "Siyavuş Paşa Çeşmesi, Siyavuşpaşa"
+date: "2025-12-25T11:51:10+03:00"
 slug: "siyavus-pasa-cesmesi-siyavuspasa"
 description: "### Siyavuş Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Siyavuş_Paşa_Çeşmesi,_Siyavuşpaşa_IMG_3498.jpg/1200px-Siyavuş_Paşa_Çeşmesi,_Siyavuşpaşa_IMG_3498.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bahçelievler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.8520317,41.0009842"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Siyavuş Paşa Çeşmesi

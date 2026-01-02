@@ -1,18 +1,17 @@
 ---
-title: "Amcazade Hüseyin Paşa Külliyesi Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:01:19+03:00
+title: "Amcazade Hüseyin Paşa Külliyesi Şadırvanı"
+date: "2025-12-25T10:01:19+03:00"
 slug: "amcazade-huseyin-pasa-kulliyesi-sadirvani"
 description: "## Amcazade Hüseyin Paşa Külliyesi Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9521122,41.0152588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amcazade Hüseyin Paşa Külliyesi Şadırvanı

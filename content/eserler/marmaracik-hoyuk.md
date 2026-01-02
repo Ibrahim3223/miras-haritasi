@@ -1,18 +1,17 @@
 ---
-title: "Marmaracık Höyük | Miras Haritası"
-date: 2025-12-25T05:28:37+03:00
+title: "Marmaracık Höyük"
+date: "2025-12-25T05:28:37+03:00"
 slug: "marmaracik-hoyuk"
 description: "### Marmaracık Höyük: Bursa'nın Gizli Tarihi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.429007,40.235282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Marmaracık Höyük: Bursa'nın Gizli Tarihi

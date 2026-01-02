@@ -1,18 +1,17 @@
 ---
-title: "Sultan II. Bayezid Külliyesi Sağlık Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:42+03:00
+title: "Sultan II. Bayezid Külliyesi Sağlık Müzesi"
+date: "2025-12-25T03:10:42+03:00"
 slug: "sultan-ii-bayezid-kulliyesi-saglik-muzesi"
 description: "# Sultan II. Bayezid Külliyesi Sağlık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Edirne_7349_Nevit.JPG/1200px-Edirne_7349_Nevit.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.54361111,41.68583333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Sultan II. Bayezid Külliyesi Sağlık Müzesi

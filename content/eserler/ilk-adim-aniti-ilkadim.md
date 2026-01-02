@@ -1,18 +1,17 @@
 ---
-title: "İlk Adım Anıtı İlkadım | Miras Haritası"
-date: 2025-12-25T15:50:38+03:00
+title: "İlk Adım Anıtı İlkadım"
+date: "2025-12-25T15:50:38+03:00"
 slug: "ilk-adim-aniti-ilkadim"
 description: "## İlkadım Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.335499,41.292237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlkadım Anıtı

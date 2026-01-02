@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Ağa Çeşmesi, Büyükçekmece | Miras Haritası"
-date: 2025-12-25T12:20:50+03:00
+title: "Süleyman Ağa Çeşmesi, Büyükçekmece"
+date: "2025-12-25T12:20:50+03:00"
 slug: "suleyman-aga-cesmesi-buyukcekmece"
 description: "## Süleyman Ağa Çeşmesi: Büyükçekmece'nin Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.579859,41.023708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Ağa Çeşmesi: Büyükçekmece'nin Tarihi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Karagöl Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:35+03:00
+title: "Karagöl Kalesi"
+date: "2025-12-25T01:44:35+03:00"
 slug: "karagol-kalesi"
 description: "## Karagöl Kalesi: Konya'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karapınar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.7684326,37.7483063"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagöl Kalesi: Konya'nın Gizli Çiçeği

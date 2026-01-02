@@ -1,18 +1,17 @@
 ---
-title: "Bahadırlı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:28:27+03:00
+title: "Bahadırlı Höyüğü"
+date: "2025-12-25T06:28:27+03:00"
 slug: "bahadirli-hoyugu"
 description: "## Bahadırlı Höyüğü: Konya'nın Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.1278589,39.0405009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahadırlı Höyüğü: Konya'nın Gizli Tarihî Mirası

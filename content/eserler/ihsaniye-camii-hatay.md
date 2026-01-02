@@ -1,18 +1,17 @@
 ---
-title: "İhsaniye Camii, Hatay | Miras Haritası"
-date: 2025-12-24T23:54:47+03:00
+title: "İhsaniye Camii, Hatay"
+date: "2025-12-24T23:54:47+03:00"
 slug: "ihsaniye-camii-hatay"
 description: "## İhsaniye Camii, Hatay: Bir Tarihî Mirasın Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Antakya_Unidentified_Mosque_B_in_2004_07.jpg/1200px-Antakya_Unidentified_Mosque_B_in_2004_07.jpg"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1624451,36.2035065"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İhsaniye Camii, Hatay: Bir Tarihî Mirasın Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Yarıkkaya Kalesi | Miras Haritası"
-date: 2025-12-25T01:24:15+03:00
+title: "Yarıkkaya Kalesi"
+date: "2025-12-25T01:24:15+03:00"
 slug: "yarikkaya-kalesi"
 description: "**Yarıkkaya Kalesi: Adana'nın Gizli Kalesi**..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.908165,37.526783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yarıkkaya Kalesi: Adana'nın Gizli Kalesi**

@@ -1,18 +1,17 @@
 ---
-title: "Göçerler Cami | Miras Haritası"
-date: 2025-12-24T23:02:09+03:00
+title: "Göçerler Cami"
+date: "2025-12-24T23:02:09+03:00"
 slug: "gocerler-cami"
 description: "## Göçerler Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7365894,41.3365402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göçerler Cami

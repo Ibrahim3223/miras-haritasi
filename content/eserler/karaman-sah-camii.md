@@ -1,18 +1,17 @@
 ---
-title: "Karaman Şah Camii | Miras Haritası"
-date: 2025-12-24T23:45:04+03:00
+title: "Karaman Şah Camii"
+date: "2025-12-24T23:45:04+03:00"
 slug: "karaman-sah-camii"
 description: "## Karaman Şah Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2123337,37.1830902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaman Şah Camii

@@ -1,18 +1,17 @@
 ---
-title: "South Necropolis (Pergamon) | Miras Haritası"
-date: 2025-12-25T05:28:49+03:00
+title: "South Necropolis (Pergamon)"
+date: "2025-12-25T05:28:49+03:00"
 slug: "south-necropolis-pergamon"
 description: "## Güney Mezarlığı (Pergamon)..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1805,39.1155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güney Mezarlığı (Pergamon)

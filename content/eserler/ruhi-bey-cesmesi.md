@@ -1,18 +1,17 @@
 ---
-title: "Ruhi Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:09:27+03:00
+title: "Ruhi Bey Çeşmesi"
+date: "2025-12-25T11:09:27+03:00"
 slug: "ruhi-bey-cesmesi"
 description: "## Ruhi Bey Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.954854,41.026046"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ruhi Bey Çeşmesi: İstanbul'un Gizli Çeşmesi

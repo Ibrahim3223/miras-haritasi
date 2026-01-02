@@ -1,18 +1,17 @@
 ---
-title: "Barış Anıtı | Miras Haritası"
-date: 2025-12-25T14:08:11+03:00
+title: "Barış Anıtı"
+date: "2025-12-25T14:08:11+03:00"
 slug: "baris-aniti"
 description: "## Barış Anıtı..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.656055555,40.806833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Barış Anıtı

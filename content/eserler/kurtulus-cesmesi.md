@@ -1,18 +1,17 @@
 ---
-title: "Kurtuluş Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:12+03:00
+title: "Kurtuluş Çeşmesi"
+date: "2025-12-25T10:58:12+03:00"
 slug: "kurtulus-cesmesi"
 description: "### Kurtuluş Çeşmesi..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: ["Marmara Bölgesi"]
+iller: '["Marmara Bölgesi"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.881176,39.6484795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurtuluş Çeşmesi

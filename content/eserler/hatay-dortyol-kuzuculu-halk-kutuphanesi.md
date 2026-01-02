@@ -1,18 +1,17 @@
 ---
-title: "Hatay Dörtyol Kuzuculu Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:49:55+03:00
+title: "Hatay Dörtyol Kuzuculu Halk Kütüphanesi"
+date: "2025-12-25T17:49:55+03:00"
 slug: "hatay-dortyol-kuzuculu-halk-kutuphanesi"
 description: "### Hatay Dörtyol Kuzuculu Halk Kütüphanesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Dörtyol"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "36.229225389,36.879179464"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hatay Dörtyol Kuzuculu Halk Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "İcadiye Şehitliği, Elazığ | Miras Haritası"
-date: 2025-12-25T15:58:42+03:00
+title: "İcadiye Şehitliği, Elazığ"
+date: "2025-12-25T15:58:42+03:00"
 slug: "icadiye-sehitligi-elazig"
 description: "**İcadiye Şehitliği: Elazığ'ın Onuruna Yükselen Anıt**..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.2290535,38.6778297"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İcadiye Şehitliği: Elazığ'ın Onuruna Yükselen Anıt**

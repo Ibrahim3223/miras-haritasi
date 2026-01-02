@@ -1,18 +1,17 @@
 ---
-title: "Kenesset Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:13+03:00
+title: "Kenesset Sinagogu"
+date: "2025-12-25T16:12:13+03:00"
 slug: "kenesset-sinagogu"
 description: "### Kenesset Sinagogu: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Galata"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.972194444,41.027194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kenesset Sinagogu: İstanbul'un Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Üç Kurnalı Camii | Miras Haritası"
-date: 2025-12-24T23:16:29+03:00
+title: "Üç Kurnalı Camii"
+date: "2025-12-24T23:16:29+03:00"
 slug: "uc-kurnali-camii"
 description: "## Üç Kurnalı Camii..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0574207,40.1819763"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üç Kurnalı Camii

@@ -1,18 +1,17 @@
 ---
-title: "Alyattes Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:14:29+03:00
+title: "Alyattes Tümülüsü"
+date: "2025-12-25T07:14:29+03:00"
 slug: "alyattes-tumulusu"
 description: "## Alyattes Tümülüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0455685,38.5722847"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alyattes Tümülüsü

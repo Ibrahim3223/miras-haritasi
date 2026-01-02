@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Halk Fırkası Mirali Ocağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:53:56+03:00
+title: "Cumhuriyet Halk Fırkası Mirali Ocağı Çeşmesi"
+date: "2025-12-25T12:53:56+03:00"
 slug: "cumhuriyet-halk-firkasi-mirali-ocagi-cesmesi"
 description: "### Cumhuriyet Halk Fırkası Mirali Ocağı Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1463528,38.4190979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cumhuriyet Halk Fırkası Mirali Ocağı Çeşmesi

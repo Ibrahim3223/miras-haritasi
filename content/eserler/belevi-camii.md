@@ -1,18 +1,17 @@
 ---
-title: "Belevi Camii | Miras Haritası"
-date: 2025-12-24T22:25:46+03:00
+title: "Belevi Camii"
+date: "2025-12-24T22:25:46+03:00"
 slug: "belevi-camii"
 description: "## Belevi Camii: Denizli'nin Tarihi Bir Çanak..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4036999,37.9165001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belevi Camii: Denizli'nin Tarihi Bir Çanak

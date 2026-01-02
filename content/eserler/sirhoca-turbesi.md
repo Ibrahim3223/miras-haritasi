@@ -1,18 +1,17 @@
 ---
-title: "Sırhoca Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:31+03:00
+title: "Sırhoca Türbesi"
+date: "2025-12-25T14:53:31+03:00"
 slug: "sirhoca-turbesi"
 description: "### Sırhoca Türbesi: Sakarya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Söğütlü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.2043991,40.0241013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sırhoca Türbesi: Sakarya'nın Gizli Cenneti

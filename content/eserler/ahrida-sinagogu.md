@@ -1,18 +1,17 @@
 ---
-title: "Ahrida Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:16+03:00
+title: "Ahrida Sinagogu"
+date: "2025-12-25T16:12:16+03:00"
 slug: "ahrida-sinagogu"
 description: "**Ahrida Sinagogu: İstanbul'un Gizli Tarihi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ahrida_Synagogue.jpg/1200px-Ahrida_Synagogue.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.945513,41.032897"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ahrida Sinagogu: İstanbul'un Gizli Tarihi**

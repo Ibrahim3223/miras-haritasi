@@ -1,18 +1,17 @@
 ---
-title: "Arslanlı Höyük | Miras Haritası"
-date: 2025-12-25T06:43:06+03:00
+title: "Arslanlı Höyük"
+date: "2025-12-25T06:43:06+03:00"
 slug: "arslanli-hoyuk"
 description: "### Arslanlı Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.0356125,39.2032978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arslanlı Höyük: Eskişehir'in Gizli Mirası

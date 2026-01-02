@@ -1,18 +1,17 @@
 ---
-title: "Çorum Sinan Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:22:28+03:00
+title: "Çorum Sinan Paşa Camii"
+date: "2025-12-24T22:22:28+03:00"
 slug: "corum-sinan-pasa-camii"
 description: "## Çorum Sinan Paşa Camii: Tarihî Mirasın Gizli Çehresini Keşfettik..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çorum Sinan Paşa Camii: Tarihî Mirasın Gizli Çehresini Keşfettik

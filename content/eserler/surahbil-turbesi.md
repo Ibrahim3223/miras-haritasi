@@ -1,18 +1,17 @@
 ---
-title: "Şurahbil Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:57+03:00
+title: "Şurahbil Türbesi"
+date: "2025-12-25T14:51:57+03:00"
 slug: "surahbil-turbesi"
 description: "## Şurahbil Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.1225128,36.7225342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şurahbil Türbesi

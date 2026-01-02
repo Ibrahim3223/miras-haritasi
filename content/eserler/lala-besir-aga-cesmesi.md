@@ -1,18 +1,17 @@
 ---
-title: "Lala Beşir Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:57+03:00
+title: "Lala Beşir Ağa Çeşmesi"
+date: "2025-12-25T11:15:57+03:00"
 slug: "lala-besir-aga-cesmesi"
 description: "### Lala Beşir Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.973803,41.030525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Lala Beşir Ağa Çeşmesi

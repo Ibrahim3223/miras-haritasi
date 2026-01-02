@@ -1,18 +1,17 @@
 ---
-title: "Arapzade Abdurrahman Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:53+03:00
+title: "Arapzade Abdurrahman Efendi Çeşmesi"
+date: "2025-12-25T11:00:53+03:00"
 slug: "arapzade-abdurrahman-efendi-cesmesi"
 description: "### Arapzade Abdurrahman Efendi Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Şehsuvar Bey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9653283,41.004379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arapzade Abdurrahman Efendi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "ODTÜ Jeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:34+03:00
+title: "ODTÜ Jeoloji Müzesi"
+date: "2025-12-25T03:10:34+03:00"
 slug: "odtu-jeoloji-muzesi"
 description: "# ODTÜ Jeoloji Müzesi: Doğanın Gizemlerini Açıklama..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # ODTÜ Jeoloji Müzesi: Doğanın Gizemlerini Açıklama

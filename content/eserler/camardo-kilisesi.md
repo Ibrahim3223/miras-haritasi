@@ -1,18 +1,17 @@
 ---
-title: "Çamardo Kilisesi | Miras Haritası"
-date: 2025-12-25T08:59:36+03:00
+title: "Çamardo Kilisesi"
+date: "2025-12-25T08:59:36+03:00"
 slug: "camardo-kilisesi"
 description: "## Çamardo Kilisesi: Tarihi ve Kültürel Mirasın İyice Tanımlanması..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Akdarı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.152083333,41.278722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamardo Kilisesi: Tarihi ve Kültürel Mirasın İyice Tanımlanması

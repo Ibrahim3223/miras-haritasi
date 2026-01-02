@@ -1,18 +1,17 @@
 ---
-title: "Sugören Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:41+03:00
+title: "Sugören Köprüsü"
+date: "2025-12-25T02:42:41+03:00"
 slug: "sugoren-koprusu"
 description: "### Sugören Köprüsü: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Şalpazarı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.17323,40.942747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sugören Köprüsü: Trabzon'un Gizli Cenneti

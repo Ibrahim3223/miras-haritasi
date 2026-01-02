@@ -1,18 +1,17 @@
 ---
-title: "Damat İbrahim Paşa Çeşmesi, Çubuklu | Miras Haritası"
-date: 2025-12-25T12:13:50+03:00
+title: "Damat İbrahim Paşa Çeşmesi, Çubuklu"
+date: "2025-12-25T12:13:50+03:00"
 slug: "damat-ibrahim-pasa-cesmesi-cubuklu"
 description: "### Damat İbrahim Paşa Çeşmesi, Çubuklu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Damat_İbrahim_Paşa_Çeşmesi,_Çubuklu_IMG_3436.jpg/1200px-Damat_İbrahim_Paşa_Çeşmesi,_Çubuklu_IMG_3436.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0825405,41.1070747"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Damat İbrahim Paşa Çeşmesi, Çubuklu

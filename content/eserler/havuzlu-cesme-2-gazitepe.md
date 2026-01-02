@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme 2, Gazitepe | Miras Haritası"
-date: 2025-12-25T12:48:59+03:00
+title: "Havuzlu Çeşme 2, Gazitepe"
+date: "2025-12-25T12:48:59+03:00"
 slug: "havuzlu-cesme-2-gazitepe"
 description: "## Havuzlu Çeşme 2, Gazitepe..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3233299,41.1285095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Çeşme 2, Gazitepe

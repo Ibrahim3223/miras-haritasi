@@ -1,18 +1,17 @@
 ---
-title: "Türk-İslam Eserleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:20:18+03:00
+title: "Türk-İslam Eserleri Müzesi"
+date: "2025-12-25T03:20:18+03:00"
 slug: "turk-islam-eserleri-muzesi"
 description: "## Türk-İslam Eserleri Müzesi..."
 featured_image: ""
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0732,40.1816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk-İslam Eserleri Müzesi

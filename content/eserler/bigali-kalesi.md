@@ -1,18 +1,17 @@
 ---
-title: "Bigalı Kalesi | Miras Haritası"
-date: 2025-12-25T01:47:59+03:00
+title: "Bigalı Kalesi"
+date: "2025-12-25T01:47:59+03:00"
 slug: "bigali-kalesi"
 description: "### Bigalı Kalesi: Eceabat'ta Gizli Bir Geçmişi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.389263,40.213398"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bigalı Kalesi: Eceabat'ta Gizli Bir Geçmişi

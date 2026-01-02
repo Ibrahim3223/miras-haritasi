@@ -1,18 +1,17 @@
 ---
-title: "Üzümlü Kilise | Miras Haritası"
-date: 2025-12-25T08:55:06+03:00
+title: "Üzümlü Kilise"
+date: "2025-12-25T08:55:06+03:00"
 slug: "uzumlu-kilise"
 description: "**Üzümlü Kilise: Nevşehir'in Gizli Cenneti**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Nevşehir"
+province: "Nevşehir"
+iller: '["Nevşehir"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Üzümlü Kilise: Nevşehir'in Gizli Cenneti**

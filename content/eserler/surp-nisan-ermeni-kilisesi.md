@@ -1,18 +1,17 @@
 ---
-title: "Surp Nışan Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T08:47:21+03:00
+title: "Surp Nışan Ermeni Kilisesi"
+date: "2025-12-25T08:47:21+03:00"
 slug: "surp-nisan-ermeni-kilisesi"
 description: "### Surp Nışan Ermeni Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Surp_Nışan_Ermeni_Kilisesi.jpg/1200px-Surp_Nışan_Ermeni_Kilisesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1876,40.89"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Surp Nışan Ermeni Kilisesi

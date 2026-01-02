@@ -1,18 +1,17 @@
 ---
-title: "Mardin Milliye Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:27:06+03:00
+title: "Mardin Milliye Çeşmesi"
+date: "2025-12-25T12:27:06+03:00"
 slug: "mardin-milliye-cesmesi"
 description: "## Mardin Milliye Çeşmesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.743174,37.312928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mardin Milliye Çeşmesi: Tarihi ve Kültürel Mirasın Bir Parçası

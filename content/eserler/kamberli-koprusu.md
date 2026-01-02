@@ -1,18 +1,17 @@
 ---
-title: "Kamberli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:34:49+03:00
+title: "Kamberli Köprüsü"
+date: "2025-12-25T02:34:49+03:00"
 slug: "kamberli-koprusu"
 description: "## Kamberli Köprüsü: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.462482,40.482873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kamberli Köprüsü: Tarihi ve Kültürel Mirasın Gizemi

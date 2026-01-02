@@ -1,18 +1,17 @@
 ---
-title: "İsfendiyar Bey Camii | Miras Haritası"
-date: 2025-12-24T23:37:19+03:00
+title: "İsfendiyar Bey Camii"
+date: "2025-12-24T23:37:19+03:00"
 slug: "isfendiyar-bey-camii"
 description: "## İsfendiyar Bey Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7768326,41.3743439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsfendiyar Bey Camii

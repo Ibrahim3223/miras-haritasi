@@ -1,18 +1,17 @@
 ---
-title: "Yolüstü Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:19:53+03:00
+title: "Yolüstü Tümülüsü"
+date: "2025-12-25T07:19:53+03:00"
 slug: "yolustu-tumulusu"
 description: "## Yolüstü Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.5622349,41.7954407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yolüstü Tümülüsü: Edirne'nin Gizli Mirası

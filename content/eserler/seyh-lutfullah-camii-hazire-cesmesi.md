@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Lütfullah Camii Hazire Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:35:20+03:00
+title: "Şeyh Lütfullah Camii Hazire Çeşmesi"
+date: "2025-12-25T12:35:20+03:00"
 slug: "seyh-lutfullah-camii-hazire-cesmesi"
 description: "## Şeyh Lütfullah Camii Hazire Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.886058874,39.648127469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Lütfullah Camii Hazire Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Balıklıgöl | Miras Haritası"
-date: 2025-12-25T15:06:10+03:00
+title: "Balıklıgöl"
+date: "2025-12-25T15:06:10+03:00"
 slug: "balikligol"
 description: "# Balıklıgöl: Şanlıurfa'nın Kutsal Yerleri arasında Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Balıklıgöl_Urfa2.jpg/1200px-Balıklıgöl_Urfa2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.78444444,37.14777778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Balıklıgöl: Şanlıurfa'nın Kutsal Yerleri arasında Bir Anıt

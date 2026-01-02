@@ -1,18 +1,17 @@
 ---
-title: "Dilkaya Höyüğü | Miras Haritası"
-date: 2025-12-25T07:05:37+03:00
+title: "Dilkaya Höyüğü"
+date: "2025-12-25T07:05:37+03:00"
 slug: "dilkaya-hoyugu"
 description: "## Dilkaya Höyüğü: Van'ın Gizli Mirası..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "Edremit"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.1413803,38.3597107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dilkaya Höyüğü: Van'ın Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Trajan Tapınağı | Miras Haritası"
-date: 2025-12-25T06:56:47+03:00
+title: "Trajan Tapınağı"
+date: "2025-12-25T06:56:47+03:00"
 slug: "trajan-tapinagi"
 description: "## Trajan Tapınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pergamon_6.jpg/1200px-Pergamon_6.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.18322222,39.133"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Trajan Tapınağı

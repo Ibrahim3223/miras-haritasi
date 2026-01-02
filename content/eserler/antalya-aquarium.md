@@ -1,18 +1,17 @@
 ---
-title: "Antalya Aquarium | Miras Haritası"
-date: 2025-12-25T03:12:27+03:00
+title: "Antalya Aquarium"
+date: "2025-12-25T03:12:27+03:00"
 slug: "antalya-aquarium"
 description: "**Antalya Akvaryum: Su ve Yaşamın Gizemi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Antalya_Aquarium.jpg/1200px-Antalya_Aquarium.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.660675,36.878907"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Antalya Akvaryum: Su ve Yaşamın Gizemi**

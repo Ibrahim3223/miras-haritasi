@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Çapa Fen Lisesi | Miras Haritası"
-date: 2025-12-25T12:00:49+03:00
+title: "Çeşme, Çapa Fen Lisesi"
+date: "2025-12-25T12:00:49+03:00"
 slug: "cesme-capa-fen-lisesi"
 description: "# Çeşme, Çapa Fen Lisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9360409,41.0142403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çeşme, Çapa Fen Lisesi

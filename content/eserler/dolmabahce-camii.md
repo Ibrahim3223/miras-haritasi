@@ -1,18 +1,17 @@
 ---
-title: "Dolmabahçe Camii | Miras Haritası"
-date: 2025-12-24T21:35:48+03:00
+title: "Dolmabahçe Camii"
+date: "2025-12-24T21:35:48+03:00"
 slug: "dolmabahce-camii"
 description: "## Dolmabahçe Camii: İstanbul'un Yüzyıllık Tarihi ve Mimarisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dolmabahçe_Mosque_Mars_2013.jpg/1200px-Dolmabahçe_Mosque_Mars_2013.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.99528889,41.03672778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dolmabahçe Camii: İstanbul'un Yüzyıllık Tarihi ve Mimarisi

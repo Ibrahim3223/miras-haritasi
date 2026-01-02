@@ -1,18 +1,17 @@
 ---
-title: "Kale Çeşmesi, Çandarlı | Miras Haritası"
-date: 2025-12-25T11:59:05+03:00
+title: "Kale Çeşmesi, Çandarlı"
+date: "2025-12-25T11:59:05+03:00"
 slug: "kale-cesmesi-candarli"
 description: "### Kale Çeşmesi, Çandarlı: Dikili'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.9330845,38.9338531"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kale Çeşmesi, Çandarlı: Dikili'nin Tarihi ve Kültürel Mirası

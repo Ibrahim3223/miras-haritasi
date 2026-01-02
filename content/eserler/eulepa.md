@@ -1,18 +1,17 @@
 ---
-title: "Eulepa | Miras Haritası"
-date: 2025-12-25T05:06:35+03:00
+title: "Eulepa"
+date: "2025-12-25T05:06:35+03:00"
 slug: "eulepa"
 description: "## Eulepa Arkeolojik Sit: Ege Bölgesi'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.870839,39.02792"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eulepa Arkeolojik Sit: Ege Bölgesi'nin Gizli Cenneti

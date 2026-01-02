@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mimi Camii | Miras Haritası"
-date: 2025-12-24T22:54:34+03:00
+title: "Hacı Mimi Camii"
+date: "2025-12-24T22:54:34+03:00"
 slug: "haci-mimi-camii"
 description: "### Hacı Mimi Camii: Beyoğlu'ndaki Gizemli Bir Cami..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Hacımimi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9773636,41.0277443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Mimi Camii: Beyoğlu'ndaki Gizemli Bir Cami

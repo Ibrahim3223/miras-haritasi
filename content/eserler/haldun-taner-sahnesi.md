@@ -1,18 +1,17 @@
 ---
-title: "Haldun Taner Sahnesi | Miras Haritası"
-date: 2025-12-25T16:17:49+03:00
+title: "Haldun Taner Sahnesi"
+date: "2025-12-25T16:17:49+03:00"
 slug: "haldun-taner-sahnesi"
 description: "## Haldun Taner Sahnesi: Kadıköy'ün Tarihi Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hâldun_Taner_Sahnesi.JPG/1200px-Hâldun_Taner_Sahnesi.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "29.0232,40.9918"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Haldun Taner Sahnesi: Kadıköy'ün Tarihi Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Amber Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:43+03:00
+title: "Amber Ağa Çeşmesi"
+date: "2025-12-25T13:01:43+03:00"
 slug: "amber-aga-cesmesi"
 description: "## Amber Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amber_Ağa_Çeşmesi.jpg/1200px-Amber_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9983425,41.0449409"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Amber Ağa Çeşmesi

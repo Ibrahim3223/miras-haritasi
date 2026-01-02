@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Dördüncü Avlu Vaftiz Teknesi | Miras Haritası"
-date: 2025-12-25T10:03:50+03:00
+title: "Topkapı Sarayı Dördüncü Avlu Vaftiz Teknesi"
+date: "2025-12-25T10:03:50+03:00"
 slug: "topkapi-sarayi-dorduncu-avlu-vaftiz-teknesi"
 description: "## Topkapı Sarayı Dördüncü Avlu Vaftiz Teknesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.984777777,41.013722222"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Dördüncü Avlu Vaftiz Teknesi

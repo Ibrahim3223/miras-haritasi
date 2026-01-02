@@ -1,18 +1,17 @@
 ---
-title: "Yaprakhisar Kaya Camii | Miras Haritası"
-date: 2025-12-24T23:45:13+03:00
+title: "Yaprakhisar Kaya Camii"
+date: "2025-12-24T23:45:13+03:00"
 slug: "yaprakhisar-kaya-camii"
 description: "## Yaprakhisar Kaya Camii: Aksaray'ın Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.2654762,38.2942734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yaprakhisar Kaya Camii: Aksaray'ın Tarihî Bir Mirası

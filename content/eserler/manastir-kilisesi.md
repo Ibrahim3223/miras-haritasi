@@ -1,18 +1,17 @@
 ---
-title: "Manastır Kilisesi | Miras Haritası"
-date: 2025-12-25T09:51:12+03:00
+title: "Manastır Kilisesi"
+date: "2025-12-25T09:51:12+03:00"
 slug: "manastir-kilisesi"
 description: "### Manastır Kilisesi: Kürtün'un Gizli Cenneti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kürtün"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "38.993627,40.506359"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Manastır Kilisesi: Kürtün'un Gizli Cenneti

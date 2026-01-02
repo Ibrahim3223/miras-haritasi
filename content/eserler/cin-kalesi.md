@@ -1,18 +1,17 @@
 ---
-title: "Cin Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:04+03:00
+title: "Cin Kalesi"
+date: "2025-12-25T01:26:04+03:00"
 slug: "cin-kalesi"
 description: "## Cin Kalesi: Akçadağ'ın Tarihî Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.7157707,38.2580719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cin Kalesi: Akçadağ'ın Tarihî Mirası

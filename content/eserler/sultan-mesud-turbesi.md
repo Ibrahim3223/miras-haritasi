@@ -1,18 +1,17 @@
 ---
-title: "Sultan Mesud Türbesi | Miras Haritası"
-date: 2025-12-25T15:08:57+03:00
+title: "Sultan Mesud Türbesi"
+date: "2025-12-25T15:08:57+03:00"
 slug: "sultan-mesud-turbesi"
 description: "### Sultan Mesud Türbesi: Amasya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.824416666,40.649333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultan Mesud Türbesi: Amasya'nın Tarihi ve Kültürel Mirası
