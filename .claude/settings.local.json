@@ -9,7 +9,9 @@
       "Bash(python scripts/fix_existing_content.py:*)",
       "Bash(hugo:*)",
       "Bash(head:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(Miras Haritası\" suffix\\)\n- Fixed 4,363 province/district data issues\n- Added 46 missing images from eserler.json\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nRemove 2,961 Çeşme \\(fountain\\) pages to meet Cloudflare Pages 20k limit\n\n- Deleted all type: \"Çeşme\" content files\n- New page count: 18,081 pages \\(under 20k limit\\)\n- Remaining content: 15,639 files\n- Previous: 21,421 pages \\(over limit\\)\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
