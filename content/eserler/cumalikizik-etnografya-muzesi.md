@@ -1,18 +1,17 @@
 ---
-title: "Cumalıkızık Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:45+03:00
+title: "Cumalıkızık Etnografya Müzesi"
+date: "2025-12-25T03:24:45+03:00"
 slug: "cumalikizik-etnografya-muzesi"
 description: "## Cumalıkızık Etnografya Müzesi..."
 featured_image: ""
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.171904,40.175058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumalıkızık Etnografya Müzesi

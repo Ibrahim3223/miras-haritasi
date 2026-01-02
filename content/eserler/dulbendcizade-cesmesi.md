@@ -1,18 +1,17 @@
 ---
-title: "Dülbendcizade Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:35:10+03:00
+title: "Dülbendcizade Çeşmesi"
+date: "2025-12-25T10:35:10+03:00"
 slug: "dulbendcizade-cesmesi"
 description: "## Dülbendcizade Çeşmesi: Yedikule'nin Tarihî Bir Hatırası..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yedikule"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.928551,40.995331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dülbendcizade Çeşmesi: Yedikule'nin Tarihî Bir Hatırası

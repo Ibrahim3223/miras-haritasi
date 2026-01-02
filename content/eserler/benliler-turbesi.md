@@ -1,18 +1,17 @@
 ---
-title: "Benliler Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:05+03:00
+title: "Benliler Türbesi"
+date: "2025-12-25T15:24:05+03:00"
 slug: "benliler-turbesi"
 description: "### Benliler Türbesi: Köyceğiz'in Gizli Çağı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.6714725,36.9772415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Benliler Türbesi: Köyceğiz'in Gizli Çağı

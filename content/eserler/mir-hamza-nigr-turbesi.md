@@ -1,18 +1,17 @@
 ---
-title: "Mir Hamza Nigârî Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:24+03:00
+title: "Mir Hamza Nigârî Türbesi"
+date: "2025-12-25T14:58:24+03:00"
 slug: "mir-hamza-nigr-turbesi"
 description: "## Mir Hamza Nigârî Türbesi: Amasya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8379936,40.6565247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mir Hamza Nigârî Türbesi: Amasya'nın Kültürel Mirası

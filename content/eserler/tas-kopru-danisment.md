@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Danişment | Miras Haritası"
-date: 2025-12-25T02:48:05+03:00
+title: "Taş Köprü, Danişment"
+date: "2025-12-25T02:48:05+03:00"
 slug: "tas-kopru-danisment"
 description: "## Taş Köprü, Danişment: Bir Geçit Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.5856686,37.4231949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Köprü, Danişment: Bir Geçit Köprüsü

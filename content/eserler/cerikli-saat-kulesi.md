@@ -1,18 +1,17 @@
 ---
-title: "Çerikli Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:56+03:00
+title: "Çerikli Saat Kulesi"
+date: "2025-12-25T17:21:56+03:00"
 slug: "cerikli-saat-kulesi"
 description: "## Çerikli Saat Kulesi: Kırıkkale'de Tarihi Bir Ölümsüzlük..."
 featured_image: ""
 province: "Kırıkkale"
-iller: ["Kırıkkale"]
+iller: '["Kırıkkale"]'
 district: "Çerikli"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "34.000583333,39.894222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çerikli Saat Kulesi: Kırıkkale'de Tarihi Bir Ölümsüzlük

@@ -1,18 +1,17 @@
 ---
-title: "Ali Bey Çeşmesi, Yıldız | Miras Haritası"
-date: 2025-12-25T11:52:00+03:00
+title: "Ali Bey Çeşmesi, Yıldız"
+date: "2025-12-25T11:52:00+03:00"
 slug: "ali-bey-cesmesi-yildiz"
 description: "**Ali Bey Çeşmesi, Yıldız**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ali_Bey_Çeşmesi,_Yıldız_IMG_8237.jpg/1200px-Ali_Bey_Çeşmesi,_Yıldız_IMG_8237.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.006844,41.04874"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ali Bey Çeşmesi, Yıldız**

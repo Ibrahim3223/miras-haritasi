@@ -1,18 +1,17 @@
 ---
-title: "Tapınak Çeşmesi | Miras Haritası"
-date: 2025-12-25T05:40:52+03:00
+title: "Tapınak Çeşmesi"
+date: "2025-12-25T05:40:52+03:00"
 slug: "tapinak-cesmesi"
 description: "# Tapınak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/The_Temple_Nymphaeum,_a_two-story_fountain_with_a_U-shaped_plan,_Hierapolis,_Phrygia,_Turkey_(32221015932).jpg/1200px-The_Temple_Nymphaeum,_a_two-story_fountain_with_a_U-shaped_plan,_Hierapolis,_Phrygia,_Turkey_(32221015932).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1263062,37.92693"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Tapınak Çeşmesi

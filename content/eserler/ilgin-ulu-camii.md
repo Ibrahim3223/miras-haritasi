@@ -1,18 +1,17 @@
 ---
-title: "Ilgın Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:05:10+03:00
+title: "Ilgın Ulu Camii"
+date: "2025-12-24T22:05:10+03:00"
 slug: "ilgin-ulu-camii"
 description: "## Ilgın Ulu Camii: Konya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ilgın"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.918027777,38.2815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ilgın Ulu Camii: Konya'nın Tarihi Bir Mirası

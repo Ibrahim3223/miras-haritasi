@@ -1,18 +1,17 @@
 ---
-title: "Ramazanoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:22:36+03:00
+title: "Ramazanoğlu Camii"
+date: "2025-12-24T22:22:36+03:00"
 slug: "ramazanoglu-camii"
 description: "**Ramazanoğlu Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ramazanoğlu_Cami_03.jpg/1200px-Ramazanoğlu_Cami_03.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Çukurova"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.292222222,37.0475"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Ramazanoğlu Camii**

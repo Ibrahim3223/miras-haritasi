@@ -1,18 +1,17 @@
 ---
-title: "Apgar Kilisesi | Miras Haritası"
-date: 2025-12-25T08:47:45+03:00
+title: "Apgar Kilisesi"
+date: "2025-12-25T08:47:45+03:00"
 slug: "apgar-kilisesi"
 description: "## Apgar Kilisesi: Şanlıurfa'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.78396112,37.14565557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apgar Kilisesi: Şanlıurfa'nın Gizli Cenneti

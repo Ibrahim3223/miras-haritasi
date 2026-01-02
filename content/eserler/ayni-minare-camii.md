@@ -1,18 +1,17 @@
 ---
-title: "Ayni Minare Camii | Miras Haritası"
-date: 2025-12-24T22:10:40+03:00
+title: "Ayni Minare Camii"
+date: "2025-12-24T22:10:40+03:00"
 slug: "ayni-minare-camii"
 description: "## Ayni Minare Camii: Diyarbakır'ın Tarihî Mirasının Gizli Çehresi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.234024,37.9081459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayni Minare Camii: Diyarbakır'ın Tarihî Mirasının Gizli Çehresi

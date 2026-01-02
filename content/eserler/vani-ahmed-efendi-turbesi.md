@@ -1,18 +1,17 @@
 ---
-title: "Vani Ahmed Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T13:37:07+03:00
+title: "Vani Ahmed Efendi Türbesi"
+date: "2025-12-25T13:37:07+03:00"
 slug: "vani-ahmed-efendi-turbesi"
 description: "## Vani Ahmed Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.928706,41.00825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vani Ahmed Efendi Türbesi

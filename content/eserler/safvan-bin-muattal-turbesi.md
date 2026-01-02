@@ -1,18 +1,17 @@
 ---
-title: "Safvan Bin Muattal Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:14+03:00
+title: "Safvan Bin Muattal Türbesi"
+date: "2025-12-25T15:12:14+03:00"
 slug: "safvan-bin-muattal-turbesi"
 description: "## Safvan Bin Muattal Türbesi: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Samsat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.517381,37.6390581"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Safvan Bin Muattal Türbesi: Tarihî ve Kültürel Bir Miras

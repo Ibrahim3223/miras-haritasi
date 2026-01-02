@@ -1,18 +1,17 @@
 ---
-title: "Hüyük Mevkii, Kabaklı | Miras Haritası"
-date: 2025-12-25T05:32:42+03:00
+title: "Hüyük Mevkii, Kabaklı"
+date: "2025-12-25T05:32:42+03:00"
 slug: "huyuk-mevkii-kabakli"
 description: "## Hüyük Mevkii, Kabaklı: Afyonkarahisar'ın Eski Çağ Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.085667,38.1308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüyük Mevkii, Kabaklı: Afyonkarahisar'ın Eski Çağ Mirası

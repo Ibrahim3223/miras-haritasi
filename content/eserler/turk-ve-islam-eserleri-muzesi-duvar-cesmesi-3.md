@@ -1,18 +1,17 @@
 ---
-title: "Türk ve İslam Eserleri Müzesi Duvar Çeşmesi 3 | Miras Haritası"
-date: 2025-12-25T11:45:21+03:00
+title: "Türk ve İslam Eserleri Müzesi Duvar Çeşmesi 3"
+date: "2025-12-25T11:45:21+03:00"
 slug: "turk-ve-islam-eserleri-muzesi-duvar-cesmesi-3"
 description: "## Türk ve İslam Eserleri Müzesi Duvar Çeşmesi 3..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9744434,41.0060883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk ve İslam Eserleri Müzesi Duvar Çeşmesi 3

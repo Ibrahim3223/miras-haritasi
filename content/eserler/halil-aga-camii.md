@@ -1,18 +1,17 @@
 ---
-title: "Halil Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:53:53+03:00
+title: "Halil Ağa Camii"
+date: "2025-12-24T23:53:53+03:00"
 slug: "halil-aga-camii"
 description: "**Halil Ağa Camii: Antakya'nın Gizli Pearli**..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1663513,36.1979256"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Halil Ağa Camii: Antakya'nın Gizli Pearli**

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Yuva | Miras Haritası"
-date: 2025-12-25T02:52:11+03:00
+title: "Roma Köprüsü, Yuva"
+date: "2025-12-25T02:52:11+03:00"
 slug: "roma-koprusu-yuva"
 description: "## Roma Köprüsü, Yuva: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Kemaliye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.504868,39.247608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Yuva: Tarihi ve Kültürel Miras

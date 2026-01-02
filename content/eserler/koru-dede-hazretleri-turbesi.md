@@ -1,18 +1,17 @@
 ---
-title: "Koru Dede Hazretleri Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:24+03:00
+title: "Koru Dede Hazretleri Türbesi"
+date: "2025-12-25T15:00:24+03:00"
 slug: "koru-dede-hazretleri-turbesi"
 description: "### Koru Dede Hazretleri Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Cumayeri"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.9745579,40.8546028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koru Dede Hazretleri Türbesi

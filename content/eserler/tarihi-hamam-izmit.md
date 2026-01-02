@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Hamam, İzmit | Miras Haritası"
-date: 2025-12-25T17:05:23+03:00
+title: "Tarihi Hamam, İzmit"
+date: "2025-12-25T17:05:23+03:00"
 slug: "tarihi-hamam-izmit"
 description: "## Tarihi Hamam, İzmit..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9260101,40.7652664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Hamam, İzmit

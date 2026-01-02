@@ -1,18 +1,17 @@
 ---
-title: "Dursun Fakih Camii | Miras Haritası"
-date: 2025-12-24T22:34:55+03:00
+title: "Dursun Fakih Camii"
+date: "2025-12-24T22:34:55+03:00"
 slug: "dursun-fakih-camii"
 description: "### Dursun Fakih Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4910622,37.8699112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dursun Fakih Camii

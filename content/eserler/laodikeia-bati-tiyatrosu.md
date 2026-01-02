@@ -1,18 +1,17 @@
 ---
-title: "Laodikeia Batı Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:15:15+03:00
+title: "Laodikeia Batı Tiyatrosu"
+date: "2025-12-25T04:15:15+03:00"
 slug: "laodikeia-bati-tiyatrosu"
 description: "# Laodiceia Batı Tiyatrosu..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.107824,37.838647"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Laodiceia Batı Tiyatrosu

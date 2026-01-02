@@ -1,18 +1,17 @@
 ---
-title: "Tbeti Manastırı | Miras Haritası"
-date: 2025-12-25T08:38:35+03:00
+title: "Tbeti Manastırı"
+date: "2025-12-25T08:38:35+03:00"
 slug: "tbeti-manastiri"
 description: "## Tbeti Manastırı: Şavşat'ta Bir Tarihî Harika..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tbethi.jpg/1200px-Tbethi.jpg"
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Cevizli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.389333333,41.304416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tbeti Manastırı: Şavşat'ta Bir Tarihî Harika

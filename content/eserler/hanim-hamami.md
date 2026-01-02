@@ -1,18 +1,17 @@
 ---
-title: "Hanım Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:05+03:00
+title: "Hanım Hamamı"
+date: "2025-12-25T17:09:05+03:00"
 slug: "hanim-hamami"
 description: "## Hanım Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "41.2748566,39.9073715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hanım Hamamı

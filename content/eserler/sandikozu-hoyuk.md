@@ -1,18 +1,17 @@
 ---
-title: "Sandıközü Höyük | Miras Haritası"
-date: 2025-12-25T05:29:24+03:00
+title: "Sandıközü Höyük"
+date: "2025-12-25T05:29:24+03:00"
 slug: "sandikozu-hoyuk"
 description: "## Sandıközü Höyük: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.35785,39.390133"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sandıközü Höyük: Eskişehir'in Gizli Cenneti

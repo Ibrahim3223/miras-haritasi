@@ -1,18 +1,17 @@
 ---
-title: "Küçük Karatay Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:43+03:00
+title: "Küçük Karatay Medresesi"
+date: "2025-12-25T17:36:43+03:00"
 slug: "kucuk-karatay-medresesi"
 description: "### Küçük Karatay Medresesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "32.493515,37.8750229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küçük Karatay Medresesi

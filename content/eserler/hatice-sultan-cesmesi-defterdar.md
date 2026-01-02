@@ -1,18 +1,17 @@
 ---
-title: "Hatice Sultan Çeşmesi, Defterdar | Miras Haritası"
-date: 2025-12-25T11:55:24+03:00
+title: "Hatice Sultan Çeşmesi, Defterdar"
+date: "2025-12-25T11:55:24+03:00"
 slug: "hatice-sultan-cesmesi-defterdar"
 description: "## Hatice Sultan Çeşmesi, Defterdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9403934,41.0411148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Sultan Çeşmesi, Defterdar

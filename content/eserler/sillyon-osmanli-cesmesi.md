@@ -1,18 +1,17 @@
 ---
-title: "Sillyon Osmanlı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:59:06+03:00
+title: "Sillyon Osmanlı Çeşmesi"
+date: "2025-12-25T12:59:06+03:00"
 slug: "sillyon-osmanli-cesmesi"
 description: "## Sillyon Osmanlı Çeşmesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.984977925,36.988672536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sillyon Osmanlı Çeşmesi

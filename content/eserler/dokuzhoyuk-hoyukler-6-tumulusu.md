@@ -1,18 +1,17 @@
 ---
-title: "Dokuzhöyük Höyükler 6 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:57+03:00
+title: "Dokuzhöyük Höyükler 6 Tümülüsü"
+date: "2025-12-25T07:52:57+03:00"
 slug: "dokuzhoyuk-hoyukler-6-tumulusu"
 description: "## Dokuzhöyük Höyükler 6 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0660362,41.6483803"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokuzhöyük Höyükler 6 Tümülüsü

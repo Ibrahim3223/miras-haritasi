@@ -1,18 +1,17 @@
 ---
-title: "Los Forasteros Sinagogu | Miras Haritası"
-date: 2025-12-25T16:15:29+03:00
+title: "Los Forasteros Sinagogu"
+date: "2025-12-25T16:15:29+03:00"
 slug: "los-forasteros-sinagogu"
 description: "## Los Forasteros Sinagogu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.135777777,38.420138888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Los Forasteros Sinagogu

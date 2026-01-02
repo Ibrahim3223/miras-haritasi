@@ -1,18 +1,17 @@
 ---
-title: "Mor Aho Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:14+03:00
+title: "Mor Aho Kilisesi"
+date: "2025-12-25T09:19:14+03:00"
 slug: "mor-aho-kilisesi"
 description: "**Mor Aho Kilisesi**..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Dargeçit"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.6096649,37.5613174"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mor Aho Kilisesi**

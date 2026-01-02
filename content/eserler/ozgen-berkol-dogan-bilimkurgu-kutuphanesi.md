@@ -1,18 +1,17 @@
 ---
-title: "Özgen Berkol Doğan Bilimkurgu Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:57+03:00
+title: "Özgen Berkol Doğan Bilimkurgu Kütüphanesi"
+date: "2025-12-25T17:48:57+03:00"
 slug: "ozgen-berkol-dogan-bilimkurgu-kutuphanesi"
 description: "## Özgen Berkol Doğan Bilimkurgu Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özgen Berkol Doğan Bilimkurgu Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Ula (Karya) | Miras Haritası"
-date: 2025-12-25T04:58:42+03:00
+title: "Ula (Karya)"
+date: "2025-12-25T04:58:42+03:00"
 slug: "ula-karya"
 description: "## Ula (Karya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.374145,37.10105"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ula (Karya) Arkeolojik Sit

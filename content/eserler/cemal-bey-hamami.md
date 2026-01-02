@@ -1,18 +1,17 @@
 ---
-title: "Cemal Bey Hamamı | Miras Haritası"
-date: 2025-12-25T16:52:11+03:00
+title: "Cemal Bey Hamamı"
+date: "2025-12-25T16:52:11+03:00"
 slug: "cemal-bey-hamami"
 description: "## Cemal Bey Hamamı: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.8415489,37.8519897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cemal Bey Hamamı: Aydın'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Pinara | Miras Haritası"
-date: 2025-12-25T04:18:51+03:00
+title: "Pinara"
+date: "2025-12-25T04:18:51+03:00"
 slug: "pinara"
 description: "## Pinara: Muğla'nın Efsanevi Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pinara_Amphitheatre_Fethiye_Mugla_Turkiye.JPG/1200px-Pinara_Amphitheatre_Fethiye_Mugla_Turkiye.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.25835,36.48915"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pinara: Muğla'nın Efsanevi Arkeolojik Sitesi

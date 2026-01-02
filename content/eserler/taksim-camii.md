@@ -1,18 +1,17 @@
 ---
-title: "Taksim Camii | Miras Haritası"
-date: 2025-12-24T22:00:07+03:00
+title: "Taksim Camii"
+date: "2025-12-24T22:00:07+03:00"
 slug: "taksim-camii"
 description: "## Taksim Camii: İstanbul'un Kalbine Yönelik Bir Tarihî Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Taksim_Mosque,_2021_(2)_(cropped).jpg/1200px-Taksim_Mosque,_2021_(2)_(cropped).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.984111111,41.037"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Taksim Camii: İstanbul'un Kalbine Yönelik Bir Tarihî Miras

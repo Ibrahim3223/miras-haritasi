@@ -1,18 +1,17 @@
 ---
-title: "Karabaş Hazretleri Türbesi | Miras Haritası"
-date: 2025-12-25T13:32:32+03:00
+title: "Karabaş Hazretleri Türbesi"
+date: "2025-12-25T13:32:32+03:00"
 slug: "karabas-hazretleri-turbesi"
 description: "## Karabaş Hazretleri Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9803371,41.0271797"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabaş Hazretleri Türbesi

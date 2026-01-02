@@ -1,18 +1,17 @@
 ---
-title: "Hacı Fettah Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:23+03:00
+title: "Hacı Fettah Camii Çeşmesi"
+date: "2025-12-25T11:38:23+03:00"
 slug: "haci-fettah-camii-cesmesi"
 description: "### Hacı Fettah Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4963303,37.864151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Fettah Camii Çeşmesi

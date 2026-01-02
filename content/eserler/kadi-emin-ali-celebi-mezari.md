@@ -1,18 +1,17 @@
 ---
-title: "Kadı Emin Ali Çelebi Mezarı | Miras Haritası"
-date: 2025-12-25T13:37:49+03:00
+title: "Kadı Emin Ali Çelebi Mezarı"
+date: "2025-12-25T13:37:49+03:00"
 slug: "kadi-emin-ali-celebi-mezari"
 description: "### Kadı Emin Ali Çelebi Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kirklareli_kadi_ali_cesmesi_03.jpg/1200px-Kirklareli_kadi_ali_cesmesi_03.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.225660945,41.736469758"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kadı Emin Ali Çelebi Mezarı

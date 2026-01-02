@@ -1,18 +1,17 @@
 ---
-title: "Gebe Kilise | Miras Haritası"
-date: 2025-12-25T09:27:18+03:00
+title: "Gebe Kilise"
+date: "2025-12-25T09:27:18+03:00"
 slug: "gebe-kilise"
 description: "## Gebe Kilise: Marmaris'in Gizli Çiçeği..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.2243481,36.7000999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gebe Kilise: Marmaris'in Gizli Çiçeği

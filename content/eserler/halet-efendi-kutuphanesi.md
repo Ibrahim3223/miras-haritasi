@@ -1,18 +1,17 @@
 ---
-title: "Halet Efendi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:52:52+03:00
+title: "Halet Efendi Kütüphanesi"
+date: "2025-12-25T17:52:52+03:00"
 slug: "halet-efendi-kutuphanesi"
 description: "## Halet Efendi Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.9744854,41.0282516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halet Efendi Kütüphanesi

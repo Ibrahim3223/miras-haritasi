@@ -1,18 +1,17 @@
 ---
-title: "Yuvacık Taş Köprü | Miras Haritası"
-date: 2025-12-25T02:18:00+03:00
+title: "Yuvacık Taş Köprü"
+date: "2025-12-25T02:18:00+03:00"
 slug: "yuvacik-tas-kopru"
 description: "### Yuvacık Taş Köprü..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Başiskele"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.9420967,40.6423721"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yuvacık Taş Köprü

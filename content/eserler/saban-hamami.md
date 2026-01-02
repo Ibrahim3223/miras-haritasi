@@ -1,18 +1,17 @@
 ---
-title: "Şaban Hamamı | Miras Haritası"
-date: 2025-12-25T16:53:25+03:00
+title: "Şaban Hamamı"
+date: "2025-12-25T16:53:25+03:00"
 slug: "saban-hamami"
 description: "## Şaban Hamamı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.7900543,37.1474037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şaban Hamamı

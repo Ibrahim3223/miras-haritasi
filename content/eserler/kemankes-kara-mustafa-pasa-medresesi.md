@@ -1,18 +1,17 @@
 ---
-title: "Kemankeş Kara Mustafa Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:32+03:00
+title: "Kemankeş Kara Mustafa Paşa Medresesi"
+date: "2025-12-25T17:37:32+03:00"
 slug: "kemankes-kara-mustafa-pasa-medresesi"
 description: "### Kemankeş Kara Mustafa Paşa Medresesi: Fatih'te Eğitime Öncülük Eden Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9673538,41.0089645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kemankeş Kara Mustafa Paşa Medresesi: Fatih'te Eğitime Öncülük Eden Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "İstanbul | Miras Haritası"
-date: 2025-12-25T04:16:19+03:00
+title: "İstanbul"
+date: "2025-12-25T04:16:19+03:00"
 slug: "istanbul"
 description: "## İstanbul: Bir İmparatorlukın Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Istanbul_Montage_2016.png/1200px-Istanbul_Montage_2016.png"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.960277777,41.01"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İstanbul: Bir İmparatorlukın Mirası

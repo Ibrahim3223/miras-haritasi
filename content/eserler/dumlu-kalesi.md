@@ -1,18 +1,17 @@
 ---
-title: "Dumlu Kalesi | Miras Haritası"
-date: 2025-12-25T01:50:21+03:00
+title: "Dumlu Kalesi"
+date: "2025-12-25T01:50:21+03:00"
 slug: "dumlu-kalesi"
 description: "## Dumlu Kalesi: Ceyhan'ın Tarihi Şerefine..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Ceyhan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.7014519,37.1502735"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumlu Kalesi: Ceyhan'ın Tarihi Şerefine

@@ -1,18 +1,17 @@
 ---
-title: "Hatice Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:42+03:00
+title: "Hatice Sultan Türbesi"
+date: "2025-12-25T14:40:42+03:00"
 slug: "hatice-sultan-turbesi"
 description: "## Hatice Sultan Türbesi: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0368881,40.1984901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Sultan Türbesi: Bursa'nın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Karaca Ahmet Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:26+03:00
+title: "Karaca Ahmet Sultan Türbesi"
+date: "2025-12-25T15:18:26+03:00"
 slug: "karaca-ahmet-sultan-turbesi"
 description: "## Karaca Ahmet Sultan Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.3468,39.0301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaca Ahmet Sultan Türbesi

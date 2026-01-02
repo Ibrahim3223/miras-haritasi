@@ -1,18 +1,17 @@
 ---
-title: "Anonim Çeşme | Miras Haritası"
-date: 2025-12-25T10:27:22+03:00
+title: "Anonim Çeşme"
+date: "2025-12-25T10:27:22+03:00"
 slug: "anonim-cesme"
 description: "**Anonim Çeşme: Aydın'ın Kuytu Yerlerinde bir Değer**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6284809,37.7573738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Anonim Çeşme: Aydın'ın Kuytu Yerlerinde bir Değer**

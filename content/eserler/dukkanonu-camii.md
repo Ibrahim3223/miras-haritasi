@@ -1,18 +1,17 @@
 ---
-title: "Dükkanönü Camii | Miras Haritası"
-date: 2025-12-24T22:35:26+03:00
+title: "Dükkanönü Camii"
+date: "2025-12-24T22:35:26+03:00"
 slug: "dukkanonu-camii"
 description: "### Dükkanönü Camii: Aydın'ın Gizli Çarıklarından Bir Zenginlik..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8497944,37.8480263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dükkanönü Camii: Aydın'ın Gizli Çarıklarından Bir Zenginlik

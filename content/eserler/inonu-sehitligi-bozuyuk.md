@@ -1,18 +1,17 @@
 ---
-title: "İnönü Şehitliği, Bozüyük | Miras Haritası"
-date: 2025-12-25T16:02:13+03:00
+title: "İnönü Şehitliği, Bozüyük"
+date: "2025-12-25T16:02:13+03:00"
 slug: "inonu-sehitligi-bozuyuk"
 description: "## İnönü Şehitliği, Bozüyük..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0990276,39.8793945"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnönü Şehitliği, Bozüyük

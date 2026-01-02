@@ -1,18 +1,17 @@
 ---
-title: "Ameletos | Miras Haritası"
-date: 2025-12-25T04:51:47+03:00
+title: "Ameletos"
+date: "2025-12-25T04:51:47+03:00"
 slug: "ameletos"
 description: "## Ameletos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.386266,41.105749"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ameletos Arkeolojik Sit

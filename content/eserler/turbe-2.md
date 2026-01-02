@@ -1,18 +1,17 @@
 ---
-title: "Türbe 2 | Miras Haritası"
-date: 2025-12-25T15:03:51+03:00
+title: "Türbe 2"
+date: "2025-12-25T15:03:51+03:00"
 slug: "turbe-2"
 description: "## Türbe 2: Germencik, Aydın'daki Bir Hicri Anıt..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.5155487,37.9274483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türbe 2: Germencik, Aydın'daki Bir Hicri Anıt

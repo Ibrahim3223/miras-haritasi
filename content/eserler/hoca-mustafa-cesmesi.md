@@ -1,18 +1,17 @@
 ---
-title: "Hoca Mustafa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:25:25+03:00
+title: "Hoca Mustafa Çeşmesi"
+date: "2025-12-25T10:25:25+03:00"
 slug: "hoca-mustafa-cesmesi"
 description: "## Hoca Mustafa Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8556137,39.9383316"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Mustafa Çeşmesi

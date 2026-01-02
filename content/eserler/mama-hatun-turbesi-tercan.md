@@ -1,18 +1,17 @@
 ---
-title: "Mama Hatun Türbesi, Tercan | Miras Haritası"
-date: 2025-12-25T13:56:12+03:00
+title: "Mama Hatun Türbesi, Tercan"
+date: "2025-12-25T13:56:12+03:00"
 slug: "mama-hatun-turbesi-tercan"
 description: "### Mama Hatun Türbesi: Tercan'daki Bir Kültür Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Tercan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.386641,39.777762"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mama Hatun Türbesi: Tercan'daki Bir Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şatberdi Manastırı | Miras Haritası"
-date: 2025-12-25T09:47:10+03:00
+title: "Şatberdi Manastırı"
+date: "2025-12-25T09:47:10+03:00"
 slug: "satberdi-manastiri"
 description: "# Şatberdi Manastırı: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Okumuşlar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.919861111,41.095027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şatberdi Manastırı: Artvin'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Çubuklu Mescidi | Miras Haritası"
-date: 2025-12-25T00:47:11+03:00
+title: "Çubuklu Mescidi"
+date: "2025-12-25T00:47:11+03:00"
 slug: "cubuklu-mescidi"
 description: "**Çubuklu Mescidi: Altındağ'un Tarihî Bir Örneği**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8704338,39.9377785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çubuklu Mescidi: Altındağ'un Tarihî Bir Örneği**

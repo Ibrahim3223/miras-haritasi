@@ -1,18 +1,17 @@
 ---
-title: "Ağlı Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:24+03:00
+title: "Ağlı Kalesi"
+date: "2025-12-25T01:26:24+03:00"
 slug: "agli-kalesi"
 description: "### Ağlı Kalesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Ağlı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.5265388,41.6817703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağlı Kalesi

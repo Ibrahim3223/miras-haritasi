@@ -1,18 +1,17 @@
 ---
-title: "Gergis (Troya) | Miras Haritası"
-date: 2025-12-25T04:13:57+03:00
+title: "Gergis (Troya)"
+date: "2025-12-25T04:13:57+03:00"
 slug: "gergis-troya"
 description: "## Gergis: Troya'nın Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.609255,39.898491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gergis: Troya'nın Gizli Mirası

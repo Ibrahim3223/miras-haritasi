@@ -1,18 +1,17 @@
 ---
-title: "Kocadere Hastane Şehitliği Çanakkale | Miras Haritası"
-date: 2025-12-25T16:03:03+03:00
+title: "Kocadere Hastane Şehitliği Çanakkale"
+date: "2025-12-25T16:03:03+03:00"
 slug: "kocadere-hastane-sehitligi-canakkale"
 description: "## Kocadere Hastane Şehitliği Çanakkale: Çanakkale Savaşları'nın Gizli Kahramanları..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3187618,40.2255669"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocadere Hastane Şehitliği Çanakkale: Çanakkale Savaşları'nın Gizli Kahramanları

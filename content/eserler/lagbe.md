@@ -1,18 +1,17 @@
 ---
-title: "Lagbe | Miras Haritası"
-date: 2025-12-25T05:18:28+03:00
+title: "Lagbe"
+date: "2025-12-25T05:18:28+03:00"
 slug: "lagbe"
 description: "# Lagbe: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.924947,37.142961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Lagbe: Türkiye'nin Gizli Arkeolojik Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Köprübaşı Tümülüsü 2 | Miras Haritası"
-date: 2025-12-25T07:38:00+03:00
+title: "Köprübaşı Tümülüsü 2"
+date: "2025-12-25T07:38:00+03:00"
 slug: "koprubasi-tumulusu-2"
 description: "## Köprübaşı Tümülüsü 2: Bünyan'ın Gizli Gözdeleri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Bünyan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.0384598,38.6848221"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprübaşı Tümülüsü 2: Bünyan'ın Gizli Gözdeleri

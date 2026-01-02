@@ -1,18 +1,17 @@
 ---
-title: "Kaleiçi Camii | Miras Haritası"
-date: 2025-12-25T00:02:54+03:00
+title: "Kaleiçi Camii"
+date: "2025-12-25T00:02:54+03:00"
 slug: "kaleici-camii"
 description: "## Kaleiçi Camii..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2579136,37.8599091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleiçi Camii

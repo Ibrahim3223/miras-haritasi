@@ -1,18 +1,17 @@
 ---
-title: "Batpazarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:41:38+03:00
+title: "Batpazarı Çeşmesi"
+date: "2025-12-25T11:41:38+03:00"
 slug: "batpazari-cesmesi"
 description: "**Batpazarı Çeşmesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2774086,39.9089355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Batpazarı Çeşmesi**

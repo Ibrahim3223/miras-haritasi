@@ -1,18 +1,17 @@
 ---
-title: "Sırahöyükler F Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:42:58+03:00
+title: "Sırahöyükler F Tümülüsü"
+date: "2025-12-25T07:42:58+03:00"
 slug: "sirahoyukler-f-tumulusu"
 description: "## Sırahöyükler F Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7896214,41.8340874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sırahöyükler F Tümülüsü: Edirne'nin Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Vehhab-i Ümmi Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:54+03:00
+title: "Vehhab-i Ümmi Türbesi"
+date: "2025-12-25T15:18:54+03:00"
 slug: "vehhab-i-ummi-turbesi"
 description: "### Vehhab-i Ümmi Türbesi: Elmalı'dan Bir Anıt..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9105,36.7488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Vehhab-i Ümmi Türbesi: Elmalı'dan Bir Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Kara Mustafa Paşa Köprüsü | Miras Haritası"
-date: 2025-12-25T02:44:07+03:00
+title: "Kara Mustafa Paşa Köprüsü"
+date: "2025-12-25T02:44:07+03:00"
 slug: "kara-mustafa-pasa-koprusu"
 description: "### Kara Mustafa Paşa Köprüsü: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Çorlu_-_Kara_Mustafa_Pasha_Bridge_-_20250531112133.jpg/1200px-Çorlu_-_Kara_Mustafa_Pasha_Bridge_-_20250531112133.jpg"
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6943226,41.2431755"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kara Mustafa Paşa Köprüsü: Türkiye'nin Tarihi ve Kültürel Mirası

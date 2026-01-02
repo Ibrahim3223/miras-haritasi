@@ -1,18 +1,17 @@
 ---
-title: "Bayrampaşa Derviş Hücreleri | Miras Haritası"
-date: 2025-12-25T17:27:04+03:00
+title: "Bayrampaşa Derviş Hücreleri"
+date: "2025-12-25T17:27:04+03:00"
 slug: "bayrampasa-dervis-hucreleri"
 description: "## Bayrampaşa Derviş Hücreleri: Fatih'te Bir Tarihî Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.942513,41.008373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayrampaşa Derviş Hücreleri: Fatih'te Bir Tarihî Miras

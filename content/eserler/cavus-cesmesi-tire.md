@@ -1,18 +1,17 @@
 ---
-title: "Çavuş Çeşmesi, Tire | Miras Haritası"
-date: 2025-12-25T12:03:54+03:00
+title: "Çavuş Çeşmesi, Tire"
+date: "2025-12-25T12:03:54+03:00"
 slug: "cavus-cesmesi-tire"
 description: "## Çavuş Çeşmesi: Tire'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6616001,38.0749016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuş Çeşmesi: Tire'nin Tarihi ve Kültürel Mirası

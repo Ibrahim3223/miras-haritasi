@@ -1,18 +1,17 @@
 ---
-title: "Kozkalesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:26+03:00
+title: "Kozkalesi Köprüsü"
+date: "2025-12-25T02:25:26+03:00"
 slug: "kozkalesi-koprusu"
 description: "### Kozkalesi Köprüsü: Altınözü'nün Gizli Çehresini Açan Bir Miras..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Altınözü"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.1984913,36.0974176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kozkalesi Köprüsü: Altınözü'nün Gizli Çehresini Açan Bir Miras

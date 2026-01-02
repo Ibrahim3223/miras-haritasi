@@ -1,18 +1,17 @@
 ---
-title: "Yivdincik Köyü Kemer Köprüsü | Miras Haritası"
-date: 2025-12-25T02:35:05+03:00
+title: "Yivdincik Köyü Kemer Köprüsü"
+date: "2025-12-25T02:35:05+03:00"
 slug: "yivdincik-koyu-kemer-koprusu"
 description: "### Yivdincik Köyü Kemer Köprüsü: Giresun'un Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Keşap"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.548204,40.857419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yivdincik Köyü Kemer Köprüsü: Giresun'un Gizli Cenneti

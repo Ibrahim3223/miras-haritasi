@@ -1,18 +1,17 @@
 ---
-title: "Darphane Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:56+03:00
+title: "Darphane Çeşmesi"
+date: "2025-12-25T11:16:56+03:00"
 slug: "darphane-cesmesi"
 description: "## Darphane Çeşmesi: Cankurtaran'da Bir Tarihi Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.981305,41.010159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Darphane Çeşmesi: Cankurtaran'da Bir Tarihi Çeşme

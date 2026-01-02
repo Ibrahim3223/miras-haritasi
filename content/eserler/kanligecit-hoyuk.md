@@ -1,18 +1,17 @@
 ---
-title: "Kanlıgeçit Höyük | Miras Haritası"
-date: 2025-12-25T08:15:02+03:00
+title: "Kanlıgeçit Höyük"
+date: "2025-12-25T08:15:02+03:00"
 slug: "kanligecit-hoyuk"
 description: "## Kanlıgeçit Höyük: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2211437,41.7176552"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanlıgeçit Höyük: Kırklareli'nin Gizli Anıtı

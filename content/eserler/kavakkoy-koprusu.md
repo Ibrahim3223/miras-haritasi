@@ -1,18 +1,17 @@
 ---
-title: "Kavakköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:50:15+03:00
+title: "Kavakköy Köprüsü"
+date: "2025-12-25T02:50:15+03:00"
 slug: "kavakkoy-koprusu"
 description: "## Kavakköy Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.8857861,40.6232796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavakköy Köprüsü

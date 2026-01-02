@@ -1,18 +1,17 @@
 ---
-title: "Ahi Evran Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:59+03:00
+title: "Ahi Evran Sultan Türbesi"
+date: "2025-12-25T14:25:59+03:00"
 slug: "ahi-evran-sultan-turbesi"
 description: "## Ahi Evran Sultan Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.971664,39.417658"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Evran Sultan Türbesi

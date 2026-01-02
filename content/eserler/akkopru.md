@@ -1,18 +1,17 @@
 ---
-title: "Akköprü | Miras Haritası"
-date: 2025-12-25T01:53:47+03:00
+title: "Akköprü"
+date: "2025-12-25T01:53:47+03:00"
 slug: "akkopru"
 description: "# Akköprü: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Granicus_River.jpg/1200px-Granicus_River.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.31008333,40.37252778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Akköprü: Çanakkale'nin Tarihi ve Kültürel Mirası

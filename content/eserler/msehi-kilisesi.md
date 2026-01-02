@@ -1,18 +1,17 @@
 ---
-title: "Mşehi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:05:17+03:00
+title: "Mşehi Kilisesi"
+date: "2025-12-25T09:05:17+03:00"
 slug: "msehi-kilisesi"
 description: "## Mşehi Kilisesi: Ermeni Kilisesi ve Tarihi Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.509775,40.714869444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mşehi Kilisesi: Ermeni Kilisesi ve Tarihi Mirası

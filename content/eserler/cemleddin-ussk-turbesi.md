@@ -1,18 +1,17 @@
 ---
-title: "Cemâleddin Uşşâkî Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:38+03:00
+title: "Cemâleddin Uşşâkî Türbesi"
+date: "2025-12-25T14:24:38+03:00"
 slug: "cemleddin-ussk-turbesi"
 description: "## Cemâleddin Uşşâkî Türbesi: Eyüpsultan'ın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.938332,41.035931"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cemâleddin Uşşâkî Türbesi: Eyüpsultan'ın Gizli Cenneti

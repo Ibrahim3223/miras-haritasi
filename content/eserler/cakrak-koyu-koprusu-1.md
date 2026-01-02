@@ -1,18 +1,17 @@
 ---
-title: "Çakrak Köyü Köprüsü (1) | Miras Haritası"
-date: 2025-12-25T02:39:02+03:00
+title: "Çakrak Köyü Köprüsü (1)"
+date: "2025-12-25T02:39:02+03:00"
 slug: "cakrak-koyu-koprusu-1"
 description: "## Çakrak Köyü Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Alucra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.604034,40.530276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakrak Köyü Köprüsü

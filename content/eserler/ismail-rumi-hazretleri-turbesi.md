@@ -1,18 +1,17 @@
 ---
-title: "İsmail Rumi Hazretleri Türbesi | Miras Haritası"
-date: 2025-12-25T13:32:09+03:00
+title: "İsmail Rumi Hazretleri Türbesi"
+date: "2025-12-25T13:32:09+03:00"
 slug: "ismail-rumi-hazretleri-turbesi"
 description: "## İsmail Rumi Hazretleri Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9811192,41.0297432"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmail Rumi Hazretleri Türbesi

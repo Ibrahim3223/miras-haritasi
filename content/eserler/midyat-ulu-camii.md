@@ -1,18 +1,17 @@
 ---
-title: "Midyat Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:03:44+03:00
+title: "Midyat Ulu Camii"
+date: "2025-12-24T22:03:44+03:00"
 slug: "midyat-ulu-camii"
 description: "## Midyat Ulu Camii: Tarih ve Kültürün Birleştiği Nokta..."
 featured_image: ""
 province: "Midyat"
-iller: ["Midyat"]
+iller: '["Midyat"]'
 district: "Midyat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.37325,37.414277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Midyat Ulu Camii: Tarih ve Kültürün Birleştiği Nokta

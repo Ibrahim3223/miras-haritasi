@@ -1,18 +1,17 @@
 ---
-title: "SEKA Kağıt Fabrikası | Miras Haritası"
-date: 2025-12-25T03:39:33+03:00
+title: "SEKA Kağıt Fabrikası"
+date: "2025-12-25T03:39:33+03:00"
 slug: "seka-kagit-fabrikasi"
 description: "## SEKA Kağıt Fabrikası: İzmit'in Gizli Mirası..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9086266,40.7618217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## SEKA Kağıt Fabrikası: İzmit'in Gizli Mirası

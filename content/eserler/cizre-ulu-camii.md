@@ -1,18 +1,17 @@
 ---
-title: "Cizre Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:02:18+03:00
+title: "Cizre Ulu Camii"
+date: "2025-12-24T22:02:18+03:00"
 slug: "cizre-ulu-camii"
 description: "## Cizre Ulu Camii: Şırnak'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mizgefta_Mezin_a_Cizîra_Botan_2009_2.JPG/1200px-Mizgefta_Mezin_a_Cizîra_Botan_2009_2.JPG"
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.19125,37.321555555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cizre Ulu Camii: Şırnak'ın Tarihi ve Kültürel Mirası

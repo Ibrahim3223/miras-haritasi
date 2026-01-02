@@ -1,18 +1,17 @@
 ---
-title: "İzmir Resim ve Heykel Müzesi | Miras Haritası"
-date: 2025-12-25T04:09:56+03:00
+title: "İzmir Resim ve Heykel Müzesi"
+date: "2025-12-25T04:09:56+03:00"
 slug: "izmir-resim-ve-heykel-muzesi"
 description: "### İzmir Resim ve Heykel Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/İzmir_Art_and_Sculpture_Museum.JPG/1200px-İzmir_Art_and_Sculpture_Museum.JPG"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.148086564,38.436056074"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İzmir Resim ve Heykel Müzesi

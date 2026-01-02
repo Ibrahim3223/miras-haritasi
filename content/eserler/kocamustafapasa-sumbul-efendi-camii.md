@@ -1,18 +1,17 @@
 ---
-title: "Kocamustafapaşa Sümbül Efendi Camii | Miras Haritası"
-date: 2025-12-24T21:38:47+03:00
+title: "Kocamustafapaşa Sümbül Efendi Camii"
+date: "2025-12-24T21:38:47+03:00"
 slug: "kocamustafapasa-sumbul-efendi-camii"
 description: "# Kocamustafapaşa Sümbül Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KocaMustafaPashaMosque20072812_03.jpg/1200px-KocaMustafaPashaMosque20072812_03.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9286,41.0034"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kocamustafapaşa Sümbül Efendi Camii

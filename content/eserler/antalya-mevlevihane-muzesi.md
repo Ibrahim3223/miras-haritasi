@@ -1,18 +1,17 @@
 ---
-title: "Antalya Mevlevihane Müzesi | Miras Haritası"
-date: 2025-12-25T03:36:40+03:00
+title: "Antalya Mevlevihane Müzesi"
+date: "2025-12-25T03:36:40+03:00"
 slug: "antalya-mevlevihane-muzesi"
 description: "### Antalya Mevlevihane Müzesi: Kültür Mirasının Gizemli Yerleri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Antalya Mevlevihane Müzesi: Kültür Mirasının Gizemli Yerleri

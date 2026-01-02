@@ -1,18 +1,17 @@
 ---
-title: "Börükçü | Miras Haritası"
-date: 2025-12-25T06:06:03+03:00
+title: "Börükçü"
+date: "2025-12-25T06:06:03+03:00"
 slug: "borukcu"
 description: "## Börükçü Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0506287,37.3377113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Börükçü Arkeolojik Sit

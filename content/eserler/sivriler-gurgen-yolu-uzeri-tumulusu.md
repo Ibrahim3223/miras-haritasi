@@ -1,18 +1,17 @@
 ---
-title: "Sivriler Gürgen Yolu Üzeri Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:39:44+03:00
+title: "Sivriler Gürgen Yolu Üzeri Tümülüsü"
+date: "2025-12-25T07:39:44+03:00"
 slug: "sivriler-gurgen-yolu-uzeri-tumulusu"
 description: "## Sivriler Gürgen Yolu Üzeri Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9548473,41.8085022"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivriler Gürgen Yolu Üzeri Tümülüsü

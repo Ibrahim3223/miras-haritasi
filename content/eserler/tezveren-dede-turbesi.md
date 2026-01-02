@@ -1,18 +1,17 @@
 ---
-title: "Tezveren Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:20+03:00
+title: "Tezveren Dede Türbesi"
+date: "2025-12-25T14:56:20+03:00"
 slug: "tezveren-dede-turbesi"
 description: "### Tezveren Dede Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9723511,41.0087471"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tezveren Dede Türbesi

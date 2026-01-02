@@ -1,18 +1,17 @@
 ---
-title: "Dilucu Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:35:24+03:00
+title: "Dilucu Sınır Kapısı"
+date: "2025-12-25T08:35:24+03:00"
 slug: "dilucu-sinir-kapisi"
 description: "## Dilucu Sınır Kapısı: Bir Kervansarayın Gizemi..."
 featured_image: ""
 province: "Sürmeli uyezdi"
-iller: ["Sürmeli uyezdi"]
+iller: '["Sürmeli uyezdi"]'
 district: "Aralık"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "44.797778,39.655556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dilucu Sınır Kapısı: Bir Kervansarayın Gizemi

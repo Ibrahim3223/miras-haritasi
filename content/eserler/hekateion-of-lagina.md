@@ -1,18 +1,17 @@
 ---
-title: "Hekateion of Lagina | Miras Haritası"
-date: 2025-12-25T08:26:48+03:00
+title: "Hekateion of Lagina"
+date: "2025-12-25T08:26:48+03:00"
 slug: "hekateion-of-lagina"
 description: "## Hekateion of Lagina: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.03948,37.3785444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hekateion of Lagina: Antik Çağın Gizemi

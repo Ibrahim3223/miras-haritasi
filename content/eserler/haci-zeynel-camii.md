@@ -1,18 +1,17 @@
 ---
-title: "Hacı Zeynel Camii | Miras Haritası"
-date: 2025-12-24T23:31:42+03:00
+title: "Hacı Zeynel Camii"
+date: "2025-12-24T23:31:42+03:00"
 slug: "haci-zeynel-camii"
 description: "## Hacı Zeynel Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7150593,38.505806"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Zeynel Camii: Manisa'nın Tarihi Bir Mirası

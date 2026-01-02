@@ -1,18 +1,17 @@
 ---
-title: "Zekere Höyüğü | Miras Haritası"
-date: 2025-12-25T06:22:22+03:00
+title: "Zekere Höyüğü"
+date: "2025-12-25T06:22:22+03:00"
 slug: "zekere-hoyugu"
 description: "## Zekere Höyüğü: Kırşehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4961182,39.3759136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zekere Höyüğü: Kırşehir'in Gizli Kahramanı

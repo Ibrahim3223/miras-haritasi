@@ -1,18 +1,17 @@
 ---
-title: "Şemsi Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:33:55+03:00
+title: "Şemsi Paşa Medresesi"
+date: "2025-12-25T17:33:55+03:00"
 slug: "semsi-pasa-medresesi"
 description: "# Şemsi Paşa Medresesi: Üsküdar'ın Eski ve Güçlü Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Şemsi_Paşa_Medresesi.jpg/1200px-Şemsi_Paşa_Medresesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0110493,41.0259514"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Şemsi Paşa Medresesi: Üsküdar'ın Eski ve Güçlü Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Adilcevaz Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:59:07+03:00
+title: "Adilcevaz Ulu Camii"
+date: "2025-12-24T21:59:07+03:00"
 slug: "adilcevaz-ulu-camii"
 description: "### Adilcevaz Ulu Camii..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Adilcevaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.730222222,38.799944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Adilcevaz Ulu Camii

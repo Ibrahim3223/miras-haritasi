@@ -1,18 +1,17 @@
 ---
-title: "Burunkışla Höyüğü | Miras Haritası"
-date: 2025-12-25T06:28:18+03:00
+title: "Burunkışla Höyüğü"
+date: "2025-12-25T06:28:18+03:00"
 slug: "burunkisla-hoyugu"
 description: "### Burunkışla Höyüğü..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.2244005,39.4458568"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Burunkışla Höyüğü

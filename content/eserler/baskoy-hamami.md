@@ -1,18 +1,17 @@
 ---
-title: "Başköy Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:35+03:00
+title: "Başköy Hamamı"
+date: "2025-12-25T16:46:35+03:00"
 slug: "baskoy-hamami"
 description: "## Başköy Hamamı: Bilecik'te Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.0119228,40.0911903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başköy Hamamı: Bilecik'te Bir Osmanlı Dönemi Eseri

@@ -1,18 +1,17 @@
 ---
-title: "Arslan Kaya | Miras Haritası"
-date: 2025-12-25T08:30:43+03:00
+title: "Arslan Kaya"
+date: "2025-12-25T08:30:43+03:00"
 slug: "arslan-kaya"
 description: "## Arslan Kaya: İhsaniye'nin Efsanevi Arkeolojik Sit..."
 featured_image: ""
 province: "İhsaniye"
-iller: ["İhsaniye"]
+iller: '["İhsaniye"]'
 district: "Üçlerkayası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.4277634,39.1067195"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arslan Kaya: İhsaniye'nin Efsanevi Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "İskenderun Latin Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T08:38:18+03:00
+title: "İskenderun Latin Katolik Kilisesi"
+date: "2025-12-25T08:38:18+03:00"
 slug: "iskenderun-latin-katolik-kilisesi"
 description: "## İskenderun Latin Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Iskenderun_Roman_Catholic_church_6687.jpg/1200px-Iskenderun_Roman_Catholic_church_6687.jpg"
 province: "İskenderun Sancağı"
-iller: ["İskenderun Sancağı"]
+iller: '["İskenderun Sancağı"]'
 district: "İskenderun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.16527778,36.58694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İskenderun Latin Katolik Kilisesi

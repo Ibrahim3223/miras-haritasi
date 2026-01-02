@@ -1,18 +1,17 @@
 ---
-title: "Köprücü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:05:19+03:00
+title: "Köprücü Köprüsü"
+date: "2025-12-25T02:05:19+03:00"
 slug: "koprucu-koprusu"
 description: "## Köprücü Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Hopa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.548719444,41.473730555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprücü Köprüsü

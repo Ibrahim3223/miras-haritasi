@@ -1,18 +1,17 @@
 ---
-title: "Harmanaltı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:18:22+03:00
+title: "Harmanaltı Höyüğü"
+date: "2025-12-25T06:18:22+03:00"
 slug: "harmanalti-hoyugu"
 description: "## Harmanaltı Höyüğü..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3015078,39.3709831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harmanaltı Höyüğü

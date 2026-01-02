@@ -1,18 +1,17 @@
 ---
-title: "Kadyanda | Miras Haritası"
-date: 2025-12-25T04:25:46+03:00
+title: "Kadyanda"
+date: "2025-12-25T04:25:46+03:00"
 slug: "kadyanda"
 description: "### Kadyanda: Antik Çağın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kadyanda_Theatre_7563.jpg/1200px-Kadyanda_Theatre_7563.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.23589,36.7154"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kadyanda: Antik Çağın Gizemi

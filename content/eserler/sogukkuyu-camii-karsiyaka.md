@@ -1,18 +1,17 @@
 ---
-title: "Soğukkuyu Camii (Karşıyaka) | Miras Haritası"
-date: 2025-12-24T23:06:21+03:00
+title: "Soğukkuyu Camii (Karşıyaka)"
+date: "2025-12-24T23:06:21+03:00"
 slug: "sogukkuyu-camii-karsiyaka"
 description: "## Soğukkuyu Camii: İzmir'in Tarihi ve Kültür Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1159477,38.4669876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğukkuyu Camii: İzmir'in Tarihi ve Kültür Mirası

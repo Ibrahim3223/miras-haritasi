@@ -1,18 +1,17 @@
 ---
-title: "Büyük Kayaş Camii | Miras Haritası"
-date: 2025-12-25T00:11:36+03:00
+title: "Büyük Kayaş Camii"
+date: "2025-12-25T00:11:36+03:00"
 slug: "buyuk-kayas-camii"
 description: "## Büyük Kayaş Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.9681015,39.9141922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Kayaş Camii: Tarihi ve Kültürel Mirasımız

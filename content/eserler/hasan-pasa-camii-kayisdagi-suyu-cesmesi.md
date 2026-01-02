@@ -1,18 +1,17 @@
 ---
-title: "Hasan Paşa Camii Kayışdağı Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:14:41+03:00
+title: "Hasan Paşa Camii Kayışdağı Suyu Çeşmesi"
+date: "2025-12-25T10:14:41+03:00"
 slug: "hasan-pasa-camii-kayisdagi-suyu-cesmesi"
 description: "# Hasan Paşa Camii Kayışdağı Suyu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hasan_Paşa_Camii_Kayışdağı_Suyu_Çeşmesi.jpg/1200px-Hasan_Paşa_Camii_Kayışdağı_Suyu_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.039354035,40.994819117"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hasan Paşa Camii Kayışdağı Suyu Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Mescitaltı Mescidi | Miras Haritası"
-date: 2025-12-25T00:45:48+03:00
+title: "Mescitaltı Mescidi"
+date: "2025-12-25T00:45:48+03:00"
 slug: "mescitalti-mescidi"
 description: "## Mescitaltı Mescidi: Bergama'nın Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1784,39.1217995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mescitaltı Mescidi: Bergama'nın Gizli Cenneti

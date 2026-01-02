@@ -1,18 +1,17 @@
 ---
-title: "Cape Helles Anıtı | Miras Haritası"
-date: 2025-12-25T14:01:00+03:00
+title: "Cape Helles Anıtı"
+date: "2025-12-25T14:01:00+03:00"
 slug: "cape-helles-aniti"
 description: "## Cape Helles Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ephesus_06_28_09_0419.jpg/1200px-Ephesus_06_28_09_0419.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Seddülbahir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.1792,40.0458"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cape Helles Anıtı

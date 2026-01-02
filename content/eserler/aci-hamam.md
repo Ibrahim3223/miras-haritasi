@@ -1,18 +1,17 @@
 ---
-title: "Acı Hamam | Miras Haritası"
-date: 2025-12-25T16:37:41+03:00
+title: "Acı Hamam"
+date: "2025-12-25T16:37:41+03:00"
 slug: "aci-hamam"
 description: "## Acı Hamam: Fatih'te Bir Tarihi Hamamın Gizemleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.975496,41.008409"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Acı Hamam: Fatih'te Bir Tarihi Hamamın Gizemleri

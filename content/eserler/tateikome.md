@@ -1,18 +1,17 @@
 ---
-title: "Tateikome | Miras Haritası"
-date: 2025-12-25T05:19:55+03:00
+title: "Tateikome"
+date: "2025-12-25T05:19:55+03:00"
 slug: "tateikome"
 description: "# Tateikome: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.745098,38.440559"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tateikome: Bir Arkeolojik Sitin Gizemi

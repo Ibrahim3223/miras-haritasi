@@ -1,18 +1,17 @@
 ---
-title: "Milet Büyük Kilise | Miras Haritası"
-date: 2025-12-25T09:28:06+03:00
+title: "Milet Büyük Kilise"
+date: "2025-12-25T09:28:06+03:00"
 slug: "milet-buyuk-kilise"
 description: "### Milet Büyük Kilise: İyonya'nın Gizli Çehresi..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.2805328,37.5282936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Milet Büyük Kilise: İyonya'nın Gizli Çehresi

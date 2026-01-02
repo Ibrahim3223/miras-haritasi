@@ -1,18 +1,17 @@
 ---
-title: "Beğendik Köprüsü | Miras Haritası"
-date: 2025-12-25T01:56:15+03:00
+title: "Beğendik Köprüsü"
+date: "2025-12-25T01:56:15+03:00"
 slug: "begendik-koprusu"
 description: "### Beğendik Köprüsü: Pervari'nin Tarihi bir Kalesi..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Pervari"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.649166666,37.964722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beğendik Köprüsü: Pervari'nin Tarihi bir Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "Arpalık Mevkii | Miras Haritası"
-date: 2025-12-25T05:33:52+03:00
+title: "Arpalık Mevkii"
+date: "2025-12-25T05:33:52+03:00"
 slug: "arpalik-mevkii"
 description: "### Arpalık Mevkii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Şuhut"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.677667,38.417917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arpalık Mevkii

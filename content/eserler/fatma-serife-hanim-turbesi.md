@@ -1,18 +1,17 @@
 ---
-title: "Fatma Şerife Hanım Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:57+03:00
+title: "Fatma Şerife Hanım Türbesi"
+date: "2025-12-25T14:58:57+03:00"
 slug: "fatma-serife-hanim-turbesi"
 description: "## Fatma Şerife Hanım Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9352283,41.0481873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatma Şerife Hanım Türbesi

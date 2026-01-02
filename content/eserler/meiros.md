@@ -1,18 +1,17 @@
 ---
-title: "Meiros | Miras Haritası"
-date: 2025-12-25T05:15:52+03:00
+title: "Meiros"
+date: "2025-12-25T05:15:52+03:00"
 slug: "meiros"
 description: "### Meiros Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.376179,39.2051885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Meiros Arkeolojik Sit

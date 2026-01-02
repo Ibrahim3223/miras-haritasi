@@ -1,18 +1,17 @@
 ---
-title: "Muhtesip İskender Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:58:59+03:00
+title: "Muhtesip İskender Ağa Kabri"
+date: "2025-12-25T13:58:59+03:00"
 slug: "muhtesip-iskender-aga-kabri"
 description: "## Muhtesip İskender Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9396553,41.022934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muhtesip İskender Ağa Kabri

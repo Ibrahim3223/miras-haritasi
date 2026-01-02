@@ -1,18 +1,17 @@
 ---
-title: "Bakacak Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:11:32+03:00
+title: "Bakacak Köyü Camii"
+date: "2025-12-25T00:11:32+03:00"
 slug: "bakacak-koyu-camii"
 description: "## Bakacak Köyü Camii: Biga'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0835991,40.2043419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakacak Köyü Camii: Biga'nın Gizli Çeşmesi

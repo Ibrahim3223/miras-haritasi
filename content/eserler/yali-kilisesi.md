@@ -1,18 +1,17 @@
 ---
-title: "Yalı Kilisesi | Miras Haritası"
-date: 2025-12-25T08:59:06+03:00
+title: "Yalı Kilisesi"
+date: "2025-12-25T08:59:06+03:00"
 slug: "yali-kilisesi"
 description: "## Yalı Kilisesi: Ünye'nin Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Ünye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.28783975,41.135258339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalı Kilisesi: Ünye'nin Tarihi ve Kültürel Bir Mirası

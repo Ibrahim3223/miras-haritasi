@@ -1,18 +1,17 @@
 ---
-title: "Derviş Ağa Darülhadisi | Miras Haritası"
-date: 2025-12-25T17:38:09+03:00
+title: "Derviş Ağa Darülhadisi"
+date: "2025-12-25T17:38:09+03:00"
 slug: "dervis-aga-darulhadisi"
 description: "## Derviş Ağa Darülhadisi: Ödemiş'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.0654659,38.2540627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derviş Ağa Darülhadisi: Ödemiş'in Tarihi ve Kültürel Mirası

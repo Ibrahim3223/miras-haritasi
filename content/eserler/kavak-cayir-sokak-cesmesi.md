@@ -1,18 +1,17 @@
 ---
-title: "Kavak Çayır Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:11:32+03:00
+title: "Kavak Çayır Sokak Çeşmesi"
+date: "2025-12-25T11:11:32+03:00"
 slug: "kavak-cayir-sokak-cesmesi"
 description: "## Kavak Çayır Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kavak_Çayır_Sokak_Çeşmesi_IMG_7175.jpg/1200px-Kavak_Çayır_Sokak_Çeşmesi_IMG_7175.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.071578,41.181622"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kavak Çayır Sokak Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hoca Hamamı | Miras Haritası"
-date: 2025-12-25T16:41:12+03:00
+title: "Hoca Hamamı"
+date: "2025-12-25T16:41:12+03:00"
 slug: "hoca-hamami"
 description: "## Hoca Hamamı: Kilis'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.1186256,36.716301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Hamamı: Kilis'in Tarihi Bir Mirası

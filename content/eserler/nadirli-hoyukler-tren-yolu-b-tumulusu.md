@@ -1,18 +1,17 @@
 ---
-title: "Nadırlı Höyükler Tren Yolu B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:37:26+03:00
+title: "Nadırlı Höyükler Tren Yolu B Tümülüsü"
+date: "2025-12-25T07:37:26+03:00"
 slug: "nadirli-hoyukler-tren-yolu-b-tumulusu"
 description: "### Nadırlı Höyükler Tren Yolu B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0882645,41.3648834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nadırlı Höyükler Tren Yolu B Tümülüsü

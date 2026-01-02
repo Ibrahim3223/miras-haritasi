@@ -1,18 +1,17 @@
 ---
-title: "Karagöz Camii, Gaziantep | Miras Haritası"
-date: 2025-12-25T00:30:42+03:00
+title: "Karagöz Camii, Gaziantep"
+date: "2025-12-25T00:30:42+03:00"
 slug: "karagoz-camii-gaziantep"
 description: "## Karagöz Camii: Gaziantep'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.38377,37.063385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagöz Camii: Gaziantep'in Tarihi Bir Mirası

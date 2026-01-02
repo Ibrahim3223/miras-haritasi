@@ -1,18 +1,17 @@
 ---
-title: "Taşkaracalar Camii | Miras Haritası"
-date: 2025-12-25T00:16:18+03:00
+title: "Taşkaracalar Camii"
+date: "2025-12-25T00:16:18+03:00"
 slug: "taskaracalar-camii"
 description: "## Taşkaracalar Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.2727814,40.7148895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşkaracalar Camii

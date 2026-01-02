@@ -1,18 +1,17 @@
 ---
-title: "Kana | Miras Haritası"
-date: 2025-12-25T08:31:07+03:00
+title: "Kana"
+date: "2025-12-25T08:31:07+03:00"
 slug: "kana"
 description: "## Kana Arkeolojik Sit..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.2176,37.8802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kana Arkeolojik Sit

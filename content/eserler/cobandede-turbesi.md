@@ -1,18 +1,17 @@
 ---
-title: "Çobandede Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:25+03:00
+title: "Çobandede Türbesi"
+date: "2025-12-25T15:12:25+03:00"
 slug: "cobandede-turbesi"
 description: "### Çobandede Türbesi: Adana'nın Gizli Anıtı..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Çukurova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3011098,37.0622781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çobandede Türbesi: Adana'nın Gizli Anıtı

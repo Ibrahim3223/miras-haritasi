@@ -1,18 +1,17 @@
 ---
-title: "Hasan Hüsnü Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:54:41+03:00
+title: "Hasan Hüsnü Paşa Kütüphanesi"
+date: "2025-12-25T17:54:41+03:00"
 slug: "hasan-husnu-pasa-kutuphanesi"
 description: "## Hasan Hüsnü Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.9356003,41.0481453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Hüsnü Paşa Kütüphanesi

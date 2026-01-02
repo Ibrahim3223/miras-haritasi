@@ -1,18 +1,17 @@
 ---
-title: "Sarıveliler rock relief | Miras Haritası"
-date: 2025-12-25T13:40:20+03:00
+title: "Sarıveliler rock relief"
+date: "2025-12-25T13:40:20+03:00"
 slug: "sariveliler-rock-relief"
 description: "## Sarıveliler Rock Relief: Mersin'in Gizli Bir Çağı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıveliler Rock Relief: Mersin'in Gizli Bir Çağı

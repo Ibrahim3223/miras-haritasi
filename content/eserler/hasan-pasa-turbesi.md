@@ -1,18 +1,17 @@
 ---
-title: "Hasan Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:13+03:00
+title: "Hasan Paşa Türbesi"
+date: "2025-12-25T14:41:13+03:00"
 slug: "hasan-pasa-turbesi"
 description: "## Hasan Paşa Türbesi: Konya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.504921,37.8705215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Paşa Türbesi: Konya'nın Tarihî Mirası

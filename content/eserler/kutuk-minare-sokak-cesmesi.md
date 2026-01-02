@@ -1,18 +1,17 @@
 ---
-title: "Kütük Minare Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:59:39+03:00
+title: "Kütük Minare Sokak Çeşmesi"
+date: "2025-12-25T11:59:39+03:00"
 slug: "kutuk-minare-sokak-cesmesi"
 description: "# Kütük Minare Sokak Çeşmesi: Urla'nın Ölümsüz Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7717285,38.3218956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kütük Minare Sokak Çeşmesi: Urla'nın Ölümsüz Mirası

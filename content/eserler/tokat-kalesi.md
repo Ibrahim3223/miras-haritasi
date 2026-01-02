@@ -1,18 +1,17 @@
 ---
-title: "Tokat Kalesi | Miras Haritası"
-date: 2025-12-25T01:14:04+03:00
+title: "Tokat Kalesi"
+date: "2025-12-25T01:14:04+03:00"
 slug: "tokat-kalesi"
 description: "## Tokat Kalesi: Tarihî Bir Kahramanlık Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tokat_Merkez.jpg/1200px-Tokat_Merkez.jpg"
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.54805556,40.3175"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tokat Kalesi: Tarihî Bir Kahramanlık Eseri

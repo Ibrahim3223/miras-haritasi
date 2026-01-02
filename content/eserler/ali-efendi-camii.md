@@ -1,18 +1,17 @@
 ---
-title: "Ali Efendi Camii | Miras Haritası"
-date: 2025-12-25T01:00:13+03:00
+title: "Ali Efendi Camii"
+date: "2025-12-25T01:00:13+03:00"
 slug: "ali-efendi-camii"
 description: "### Ali Efendi Camii..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Serinhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2627289,37.5827151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Efendi Camii

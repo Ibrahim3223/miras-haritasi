@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Denircik | Miras Haritası"
-date: 2025-12-25T02:56:56+03:00
+title: "Roma Köprüsü, Denircik"
+date: "2025-12-25T02:56:56+03:00"
 slug: "roma-koprusu-denircik"
 description: "### Roma Köprüsü, Denircik..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.43597,37.152859"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Denircik

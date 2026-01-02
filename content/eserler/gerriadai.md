@@ -1,18 +1,17 @@
 ---
-title: "Gerriadai | Miras Haritası"
-date: 2025-12-25T04:54:25+03:00
+title: "Gerriadai"
+date: "2025-12-25T04:54:25+03:00"
 slug: "gerriadai"
 description: "# Gerriadai: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.788552,38.195953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gerriadai: Antik Çağın Gizemi

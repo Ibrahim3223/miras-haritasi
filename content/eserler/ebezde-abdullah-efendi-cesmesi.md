@@ -1,18 +1,17 @@
 ---
-title: "Ebezâde Abdullah Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:46+03:00
+title: "Ebezâde Abdullah Efendi Çeşmesi"
+date: "2025-12-25T11:01:46+03:00"
 slug: "ebezde-abdullah-efendi-cesmesi"
 description: "## Ebezâde Abdullah Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ebezâde_Abdullah_Efendi_Çeşmesi_Yan_Cephe_14012025.jpg/1200px-Ebezâde_Abdullah_Efendi_Çeşmesi_Yan_Cephe_14012025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.94567961,41.023956546"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ebezâde Abdullah Efendi Çeşmesi

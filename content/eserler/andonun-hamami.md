@@ -1,18 +1,17 @@
 ---
-title: "Andon’un Hamamı | Miras Haritası"
-date: 2025-12-25T17:11:22+03:00
+title: "Andon’un Hamamı"
+date: "2025-12-25T17:11:22+03:00"
 slug: "andonun-hamami"
 description: "## Andon’un Hamamı: Menteşe'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.3711319,37.2203522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andon’un Hamamı: Menteşe'nin Tarihi ve Kültürel Mirası

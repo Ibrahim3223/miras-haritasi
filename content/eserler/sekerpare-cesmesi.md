@@ -1,18 +1,17 @@
 ---
-title: "Şekerpare Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:04+03:00
+title: "Şekerpare Çeşmesi"
+date: "2025-12-25T11:05:04+03:00"
 slug: "sekerpare-cesmesi"
 description: "## Şekerpare Çeşmesi: Beyoğlu'ndaki Bir Çeşme Eseri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.979297,41.025773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şekerpare Çeşmesi: Beyoğlu'ndaki Bir Çeşme Eseri

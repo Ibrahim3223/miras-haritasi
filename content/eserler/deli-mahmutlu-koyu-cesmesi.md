@@ -1,18 +1,17 @@
 ---
-title: "Deli Mahmutlu Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:49:36+03:00
+title: "Deli Mahmutlu Köyü Çeşmesi"
+date: "2025-12-25T10:49:36+03:00"
 slug: "deli-mahmutlu-koyu-cesmesi"
 description: "## Deli Mahmutlu Köyü Çeşmesi: Körfez'in Tarihi Bir Ölümsüzü..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Körfez"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.8135471,40.8782234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deli Mahmutlu Köyü Çeşmesi: Körfez'in Tarihi Bir Ölümsüzü

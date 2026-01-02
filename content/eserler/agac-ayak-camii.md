@@ -1,18 +1,17 @@
 ---
-title: "Ağaç Ayak Camii | Miras Haritası"
-date: 2025-12-25T01:07:06+03:00
+title: "Ağaç Ayak Camii"
+date: "2025-12-25T01:07:06+03:00"
 slug: "agac-ayak-camii"
 description: "## Ağaç Ayak Camii: Ankara'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.866361111,39.935694444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağaç Ayak Camii: Ankara'nın Tarihî ve Kültürel Mirası

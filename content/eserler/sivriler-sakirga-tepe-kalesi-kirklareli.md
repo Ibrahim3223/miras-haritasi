@@ -1,18 +1,17 @@
 ---
-title: "Sivriler Sakırga Tepe Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:46:11+03:00
+title: "Sivriler Sakırga Tepe Kalesi, Kırklareli"
+date: "2025-12-25T01:46:11+03:00"
 slug: "sivriler-sakirga-tepe-kalesi-kirklareli"
 description: "## Sivriler Sakırga Tepe Kalesi: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.9262924,41.807354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivriler Sakırga Tepe Kalesi: Kırklareli'nin Gizli Cenneti

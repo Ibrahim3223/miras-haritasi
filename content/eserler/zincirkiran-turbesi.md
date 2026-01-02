@@ -1,18 +1,17 @@
 ---
-title: "Zincirkıran Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:13+03:00
+title: "Zincirkıran Türbesi"
+date: "2025-12-25T14:57:13+03:00"
 slug: "zincirkiran-turbesi"
 description: "### Zincirkıran Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2416,37.9132309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zincirkıran Türbesi

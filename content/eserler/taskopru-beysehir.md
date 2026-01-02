@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü, Beyşehir | Miras Haritası"
-date: 2025-12-25T03:04:59+03:00
+title: "Taşköprü, Beyşehir"
+date: "2025-12-25T03:04:59+03:00"
 slug: "taskopru-beysehir"
 description: "## Taşköprü, Beyşehir..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tas_Kopru2.JPG/1200px-Tas_Kopru2.JPG"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.72277778,37.68069444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Taşköprü, Beyşehir

@@ -1,18 +1,17 @@
 ---
-title: "Akyamaç Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:20+03:00
+title: "Akyamaç Köprüsü"
+date: "2025-12-25T02:11:20+03:00"
 slug: "akyamac-koprusu"
 description: "## Akyamaç Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Hemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.919483,41.044267"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akyamaç Köprüsü

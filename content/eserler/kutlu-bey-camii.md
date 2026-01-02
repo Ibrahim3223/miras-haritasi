@@ -1,18 +1,17 @@
 ---
-title: "Kutlu Bey Camii | Miras Haritası"
-date: 2025-12-24T22:07:13+03:00
+title: "Kutlu Bey Camii"
+date: "2025-12-24T22:07:13+03:00"
 slug: "kutlu-bey-camii"
 description: "## Kutlu Bey Camii: Isparta'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kutlubey_Mosque_(Isparta_Ulu_Mosque).jpg/1200px-Kutlubey_Mosque_(Isparta_Ulu_Mosque).jpg"
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.556830457,37.763523685"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kutlu Bey Camii: Isparta'nın Tarihi ve Kültürel Mirası

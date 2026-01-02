@@ -1,18 +1,17 @@
 ---
-title: "Cimşit Paşa Külliyesi | Miras Haritası"
-date: 2025-12-24T22:28:35+03:00
+title: "Cimşit Paşa Külliyesi"
+date: "2025-12-24T22:28:35+03:00"
 slug: "cimsit-pasa-kulliyesi"
 description: "## Cimşit Paşa Külliyesi: Palu'da Bir Kentin Ruhunu Koruyan Bir Miras..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Palu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.9459534,38.7039833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cimşit Paşa Külliyesi: Palu'da Bir Kentin Ruhunu Koruyan Bir Miras

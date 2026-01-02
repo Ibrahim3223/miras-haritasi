@@ -1,18 +1,17 @@
 ---
-title: "Faklı Höyük | Miras Haritası"
-date: 2025-12-25T06:42:23+03:00
+title: "Faklı Höyük"
+date: "2025-12-25T06:42:23+03:00"
 slug: "fakli-hoyuk"
 description: "## Faklı Höyük Tanıtımı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.7434983,39.184061"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Faklı Höyük Tanıtımı

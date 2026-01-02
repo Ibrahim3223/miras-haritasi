@@ -1,18 +1,17 @@
 ---
-title: "Kimisis Teodoku Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:09+03:00
+title: "Kimisis Teodoku Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:02:09+03:00"
 slug: "kimisis-teodoku-rum-ortodoks-kilisesi"
 description: "## Kimisis Teodoku Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bozcaada_(31072023)_-_53083805462.jpg/1200px-Bozcaada_(31072023)_-_53083805462.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bozcaada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.069055555,39.83525"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kimisis Teodoku Rum Ortodoks Kilisesi

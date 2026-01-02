@@ -1,18 +1,17 @@
 ---
-title: "Aşıklı Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:43+03:00
+title: "Aşıklı Sultan Türbesi"
+date: "2025-12-25T14:17:43+03:00"
 slug: "asikli-sultan-turbesi"
 description: "### Aşıklı Sultan Türbesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.773312,41.379712"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşıklı Sultan Türbesi: Tarihi ve Kültürel Miras

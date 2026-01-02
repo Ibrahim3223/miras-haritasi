@@ -1,18 +1,17 @@
 ---
-title: "Feyzullah Efendi Çeşmesi, Fatih | Miras Haritası"
-date: 2025-12-25T12:13:33+03:00
+title: "Feyzullah Efendi Çeşmesi, Fatih"
+date: "2025-12-25T12:13:33+03:00"
 slug: "feyzullah-efendi-cesmesi-fatih"
 description: "## Feyzullah Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9497985,41.0171766"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Feyzullah Efendi Çeşmesi

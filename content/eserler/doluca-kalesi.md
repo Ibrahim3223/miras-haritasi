@@ -1,18 +1,17 @@
 ---
-title: "Doluca Kalesi | Miras Haritası"
-date: 2025-12-25T01:29:52+03:00
+title: "Doluca Kalesi"
+date: "2025-12-25T01:29:52+03:00"
 slug: "doluca-kalesi"
 description: "### Doluca Kalesi: Kahramanmaraş'taki Tarihi Bir Kale..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Türkoğlu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.7031708,37.3956718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doluca Kalesi: Kahramanmaraş'taki Tarihi Bir Kale

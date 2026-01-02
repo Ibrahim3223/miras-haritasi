@@ -1,18 +1,17 @@
 ---
-title: "Smyrna Athena Tapınağı | Miras Haritası"
-date: 2025-12-25T08:12:09+03:00
+title: "Smyrna Athena Tapınağı"
+date: "2025-12-25T08:12:09+03:00"
 slug: "smyrna-athena-tapinagi"
 description: "### Smyrna Athena Tapınağı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.169833333,38.4645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Smyrna Athena Tapınağı

@@ -1,18 +1,17 @@
 ---
-title: "Pulur / Sakyol Höyük | Miras Haritası"
-date: 2025-12-25T07:03:45+03:00
+title: "Pulur / Sakyol Höyük"
+date: "2025-12-25T07:03:45+03:00"
 slug: "pulur-sakyol-hoyuk"
 description: "### Pulur / Sakyol Höyük..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tunceli"
+province: "Tunceli"
+iller: '["Tunceli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.862854,38.9032974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pulur / Sakyol Höyük

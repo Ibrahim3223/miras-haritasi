@@ -1,18 +1,17 @@
 ---
-title: "Fatma Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:10+03:00
+title: "Fatma Sultan Çeşmesi"
+date: "2025-12-25T11:15:10+03:00"
 slug: "fatma-sultan-cesmesi"
 description: "## Fatma Sultan Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Seyyid Ömer"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.929172,41.008979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatma Sultan Çeşmesi

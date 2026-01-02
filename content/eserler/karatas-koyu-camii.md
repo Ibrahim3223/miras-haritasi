@@ -1,18 +1,17 @@
 ---
-title: "Karataş Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:35:05+03:00
+title: "Karataş Köyü Camii"
+date: "2025-12-25T00:35:05+03:00"
 slug: "karatas-koyu-camii"
 description: "## Karataş Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.837162682,40.280790537"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karataş Köyü Camii: Ankara'nın Gizli Cenneti

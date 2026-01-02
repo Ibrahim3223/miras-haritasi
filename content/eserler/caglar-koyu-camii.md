@@ -1,18 +1,17 @@
 ---
-title: "Çağlar Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:30:48+03:00
+title: "Çağlar Köyü Camii"
+date: "2025-12-24T22:30:48+03:00"
 slug: "caglar-koyu-camii"
 description: "### Çağlar Köyü Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Çatalzeytin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.1861229,41.9049339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çağlar Köyü Camii

@@ -1,18 +1,17 @@
 ---
-title: "Ani | Miras Haritası"
-date: 2025-12-25T04:16:44+03:00
+title: "Ani"
+date: "2025-12-25T04:16:44+03:00"
 slug: "ani"
 description: "## Ani: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ani_Archeological_Site,_March_2020_1.jpg/1200px-Ani_Archeological_Site,_March_2020_1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.572777777,40.5075"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ani: Türkiye'nin Tarihi ve Kültürel Mirası

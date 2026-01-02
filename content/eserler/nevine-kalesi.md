@@ -1,18 +1,17 @@
 ---
-title: "Nevine Kalesi | Miras Haritası"
-date: 2025-12-25T01:19:54+03:00
+title: "Nevine Kalesi"
+date: "2025-12-25T01:19:54+03:00"
 slug: "nevine-kalesi"
 description: "## Nevine Kalesi: Konya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Sarayönü"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.4462128,38.1534119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nevine Kalesi: Konya'nın Gizli Tarihi

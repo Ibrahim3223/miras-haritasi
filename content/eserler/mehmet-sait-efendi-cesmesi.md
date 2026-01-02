@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Sait Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:18:23+03:00
+title: "Mehmet Sait Efendi Çeşmesi"
+date: "2025-12-25T12:18:23+03:00"
 slug: "mehmet-sait-efendi-cesmesi"
 description: "## Mehmet Sait Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.058161,41.068436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Sait Efendi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Son Kurşun Anıtı | Miras Haritası"
-date: 2025-12-25T14:04:19+03:00
+title: "Son Kurşun Anıtı"
+date: "2025-12-25T14:04:19+03:00"
 slug: "son-kursun-aniti"
 description: "## Son Kurşun Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Son_Kurşun_Anıtı–GOPR0744_04.jpg/1200px-Son_Kurşun_Anıtı–GOPR0744_04.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.910277777,40.358333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Son Kurşun Anıtı

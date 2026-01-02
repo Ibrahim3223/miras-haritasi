@@ -1,18 +1,17 @@
 ---
-title: "Osman Kayası | Miras Haritası"
-date: 2025-12-25T08:20:21+03:00
+title: "Osman Kayası"
+date: "2025-12-25T08:20:21+03:00"
 slug: "osman-kayasi"
 description: "### Osman Kayası: Çorum'un Tarihî Bir Şehri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.62731,40.02403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Osman Kayası: Çorum'un Tarihî Bir Şehri

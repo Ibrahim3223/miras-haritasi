@@ -1,18 +1,17 @@
 ---
-title: "Abbas Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:43:46+03:00
+title: "Abbas Ağa Çeşmesi"
+date: "2025-12-25T10:43:46+03:00"
 slug: "abbas-aga-cesmesi"
 description: "**Abbas Ağa Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Abbas_Ağa_Çeşmesi_IMG_8312.jpg/1200px-Abbas_Ağa_Çeşmesi_IMG_8312.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Abbasağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.005916666,41.045027777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Abbas Ağa Çeşmesi**

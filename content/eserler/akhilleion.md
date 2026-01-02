@@ -1,18 +1,17 @@
 ---
-title: "Akhilleion | Miras Haritası"
-date: 2025-12-25T08:08:53+03:00
+title: "Akhilleion"
+date: "2025-12-25T08:08:53+03:00"
 slug: "akhilleion"
 description: "## Akhilleion: Korfu Adasındaki Gizemli Saray..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akhilleion: Korfu Adasındaki Gizemli Saray

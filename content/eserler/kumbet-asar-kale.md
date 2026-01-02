@@ -1,18 +1,17 @@
 ---
-title: "Kümbet Asar Kale | Miras Haritası"
-date: 2025-12-25T01:45:43+03:00
+title: "Kümbet Asar Kale"
+date: "2025-12-25T01:45:43+03:00"
 slug: "kumbet-asar-kale"
 description: "## Kümbet Asar Kale: Eskişehir'in Gizli Kalesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.6179199,39.2260208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kümbet Asar Kale: Eskişehir'in Gizli Kalesi

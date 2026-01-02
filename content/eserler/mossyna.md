@@ -1,18 +1,17 @@
 ---
-title: "Mossyna | Miras Haritası"
-date: 2025-12-25T06:53:53+03:00
+title: "Mossyna"
+date: "2025-12-25T06:53:53+03:00"
 slug: "mossyna"
 description: "### Mossyna: Denizli'nin Gizli İhtişamı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.298552,38.095586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mossyna: Denizli'nin Gizli İhtişamı

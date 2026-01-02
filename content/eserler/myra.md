@@ -1,18 +1,17 @@
 ---
-title: "Myra | Miras Haritası"
-date: 2025-12-25T04:19:39+03:00
+title: "Myra"
+date: "2025-12-25T04:19:39+03:00"
 slug: "myra"
 description: "## Myra: Antik Bir Kentin Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Myra_theatre.jpg/1200px-Myra_theatre.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.985277777,36.259166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Myra: Antik Bir Kentin Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ertuğrul Tekke Camii | Miras Haritası"
-date: 2025-12-24T21:36:16+03:00
+title: "Ertuğrul Tekke Camii"
+date: "2025-12-24T21:36:16+03:00"
 slug: "ertugrul-tekke-camii"
 description: "## Ertuğrul Tekke Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ertuğrul_Tekke_Camii_.jpg/1200px-Ertuğrul_Tekke_Camii_.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.00861111,41.04555556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ertuğrul Tekke Camii: İstanbul'un Gizli Cenneti

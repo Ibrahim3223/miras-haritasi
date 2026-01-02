@@ -1,18 +1,17 @@
 ---
-title: "Cucusos | Miras Haritası"
-date: 2025-12-25T04:38:09+03:00
+title: "Cucusos"
+date: "2025-12-25T04:38:09+03:00"
 slug: "cucusos"
 description: "### Cucusos: Göksun'un Gizemi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Göksun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.49834,38.0315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cucusos: Göksun'un Gizemi

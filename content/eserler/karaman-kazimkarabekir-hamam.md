@@ -1,18 +1,17 @@
 ---
-title: "Karaman Kazımkarabekir Hamam | Miras Haritası"
-date: 2025-12-25T16:41:08+03:00
+title: "Karaman Kazımkarabekir Hamam"
+date: "2025-12-25T16:41:08+03:00"
 slug: "karaman-kazimkarabekir-hamam"
 description: "## Karaman Kazımkarabekir Hamam..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Kazımkarabekir"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.9570732,37.2261162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaman Kazımkarabekir Hamam

@@ -1,18 +1,17 @@
 ---
-title: "Eğni Kalesi, Aladağ | Miras Haritası"
-date: 2025-12-25T01:39:10+03:00
+title: "Eğni Kalesi, Aladağ"
+date: "2025-12-25T01:39:10+03:00"
 slug: "egni-kalesi-aladag"
 description: "## Eğni Kalesi, Aladağ..."
 featured_image: ""
 province: "Akdeniz Bölgesi"
-iller: ["Akdeniz Bölgesi"]
+iller: '["Akdeniz Bölgesi"]'
 district: "Aladağ"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.1257401,37.5973167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eğni Kalesi, Aladağ

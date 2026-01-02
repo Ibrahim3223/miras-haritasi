@@ -1,18 +1,17 @@
 ---
-title: "Bıçakçızade Çeşmesi, Birgi | Miras Haritası"
-date: 2025-12-25T12:51:27+03:00
+title: "Bıçakçızade Çeşmesi, Birgi"
+date: "2025-12-25T12:51:27+03:00"
 slug: "bicakcizade-cesmesi-birgi"
 description: "## Bıçakçızade Çeşmesi, Birgi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0637913,38.2537498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bıçakçızade Çeşmesi, Birgi

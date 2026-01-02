@@ -1,18 +1,17 @@
 ---
-title: "Kumsuyu Özgür Sokak Çeşmesi ve Su Terazisi | Miras Haritası"
-date: 2025-12-25T12:54:03+03:00
+title: "Kumsuyu Özgür Sokak Çeşmesi ve Su Terazisi"
+date: "2025-12-25T12:54:03+03:00"
 slug: "kumsuyu-ozgur-sokak-cesmesi-ve-su-terazisi"
 description: "## Kumsuyu Özgür Sokak Çeşmesi ve Su Terazisi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0634751,41.1244453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumsuyu Özgür Sokak Çeşmesi ve Su Terazisi

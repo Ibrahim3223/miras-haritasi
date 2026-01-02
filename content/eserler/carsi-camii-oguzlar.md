@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Oğuzlar | Miras Haritası"
-date: 2025-12-25T00:25:47+03:00
+title: "Çarşı Camii, Oğuzlar"
+date: "2025-12-25T00:25:47+03:00"
 slug: "carsi-camii-oguzlar"
 description: "## Çarşı Camii, Oğuzlar..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Oğuzlar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.7049904,40.7543335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Oğuzlar

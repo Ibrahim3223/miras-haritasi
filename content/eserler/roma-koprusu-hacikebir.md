@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Hacıkebir | Miras Haritası"
-date: 2025-12-25T02:58:28+03:00
+title: "Roma Köprüsü, Hacıkebir"
+date: "2025-12-25T02:58:28+03:00"
 slug: "roma-koprusu-hacikebir"
 description: "## Roma Köprüsü, Hacıkebir..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Çavdarhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.675359,39.2371003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Hacıkebir

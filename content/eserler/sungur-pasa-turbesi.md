@@ -1,18 +1,17 @@
 ---
-title: "Sungur Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:04+03:00
+title: "Sungur Paşa Türbesi"
+date: "2025-12-25T14:52:04+03:00"
 slug: "sungur-pasa-turbesi"
 description: "### Sungur Paşa Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4858742,40.1835632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sungur Paşa Türbesi

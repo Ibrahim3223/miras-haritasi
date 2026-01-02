@@ -1,18 +1,17 @@
 ---
-title: "Aliler Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:20+03:00
+title: "Aliler Kalesi"
+date: "2025-12-25T01:16:20+03:00"
 slug: "aliler-kalesi"
 description: "### Aliler Kalesi: Tuşba'daki Tarihi Bir Miras..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Tuşba"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.486572,38.854545"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aliler Kalesi: Tuşba'daki Tarihi Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "Madenli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:45+03:00
+title: "Madenli Köprüsü"
+date: "2025-12-25T02:07:45+03:00"
 slug: "madenli-koprusu"
 description: "## Madenli Köprüsü: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.777183,41.032433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Madenli Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

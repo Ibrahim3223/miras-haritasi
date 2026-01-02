@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Bozkır | Miras Haritası"
-date: 2025-12-25T02:57:14+03:00
+title: "Roma Köprüsü, Bozkır"
+date: "2025-12-25T02:57:14+03:00"
 slug: "roma-koprusu-bozkir"
 description: "## Roma Köprüsü, Bozkır..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Bozkır"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.3209934,37.1279449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Bozkır

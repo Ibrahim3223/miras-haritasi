@@ -1,18 +1,17 @@
 ---
-title: "Konarı Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:28:33+03:00
+title: "Konarı Roma Köprüsü"
+date: "2025-12-25T02:28:33+03:00"
 slug: "konari-roma-koprusu"
 description: "# Konarı Roma Köprüsü..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.785282,41.2352187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Konarı Roma Köprüsü

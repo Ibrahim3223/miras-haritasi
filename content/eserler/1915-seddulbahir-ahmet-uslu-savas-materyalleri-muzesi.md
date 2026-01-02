@@ -1,18 +1,17 @@
 ---
-title: "1915 Seddülbahir Ahmet Uslu, Savaş Materyalleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:55+03:00
+title: "1915 Seddülbahir Ahmet Uslu, Savaş Materyalleri Müzesi"
+date: "2025-12-25T03:51:55+03:00"
 slug: "1915-seddulbahir-ahmet-uslu-savas-materyalleri-muzesi"
 description: "## 1915 Seddülbahir Ahmet Uslu, Savaş Materyalleri Müzesi: Türkiye'nin Tarihini Anlamak..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.1886272,40.0455132"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 1915 Seddülbahir Ahmet Uslu, Savaş Materyalleri Müzesi: Türkiye'nin Tarihini Anlamak

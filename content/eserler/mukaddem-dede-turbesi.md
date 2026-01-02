@@ -1,18 +1,17 @@
 ---
-title: "Mukaddem Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:06+03:00
+title: "Mukaddem Dede Türbesi"
+date: "2025-12-25T15:12:06+03:00"
 slug: "mukaddem-dede-turbesi"
 description: "## Mukaddem Dede Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9277382,36.3711048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mukaddem Dede Türbesi

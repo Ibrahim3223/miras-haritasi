@@ -1,18 +1,17 @@
 ---
-title: "Charadrus | Miras Haritası"
-date: 2025-12-25T04:41:18+03:00
+title: "Charadrus"
+date: "2025-12-25T04:41:18+03:00"
 slug: "charadrus"
 description: "## Charadrus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.569805,36.109886"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Charadrus Arkeolojik Sit

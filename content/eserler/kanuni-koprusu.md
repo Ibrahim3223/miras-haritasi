@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:01+03:00
+title: "Kanuni Köprüsü"
+date: "2025-12-25T01:59:01+03:00"
 slug: "kanuni-koprusu"
 description: "## Kanuni Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/KanuniBridge_(3).JPG/1200px-KanuniBridge_(3).JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.559,41.6867"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kanuni Köprüsü

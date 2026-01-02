@@ -1,18 +1,17 @@
 ---
-title: "Perestû Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:24+03:00
+title: "Perestû Kadın Çeşmesi"
+date: "2025-12-25T10:29:24+03:00"
 slug: "perest-kadin-cesmesi"
 description: "## Perestû Kadın Çeşmesi: Silivrikapı'da Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Perestû_Kadın_Çeşmesi,_Fatih,_İstanbul_2025.jpg/1200px-Perestû_Kadın_Çeşmesi,_Fatih,_İstanbul_2025.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Silivrikapı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.923664,41.008053"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Perestû Kadın Çeşmesi: Silivrikapı'da Bir Ölümsüz

@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Rum Kilisesi | Miras Haritası"
-date: 2025-12-25T09:11:48+03:00
+title: "Kavaklı Rum Kilisesi"
+date: "2025-12-25T09:11:48+03:00"
 slug: "kavakli-rum-kilisesi"
 description: "## Kavaklı Rum Kilisesi: Burdur'un Gizli Cenneti..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.2815304,37.7142334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavaklı Rum Kilisesi: Burdur'un Gizli Cenneti

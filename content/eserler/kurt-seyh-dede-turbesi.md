@@ -1,18 +1,17 @@
 ---
-title: "Kurt Şeyh Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:17+03:00
+title: "Kurt Şeyh Dede Türbesi"
+date: "2025-12-25T15:29:17+03:00"
 slug: "kurt-seyh-dede-turbesi"
 description: "## Kurt Şeyh Dede Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Devrekani"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.8474121,41.603569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurt Şeyh Dede Türbesi

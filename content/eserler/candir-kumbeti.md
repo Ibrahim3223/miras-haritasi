@@ -1,18 +1,17 @@
 ---
-title: "Çandır Kümbeti | Miras Haritası"
-date: 2025-12-25T13:55:51+03:00
+title: "Çandır Kümbeti"
+date: "2025-12-25T13:55:51+03:00"
 slug: "candir-kumbeti"
 description: "## Çandır Kümbeti: Yozgat'ın Gizli Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Çandır"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.5110241,39.2409264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çandır Kümbeti: Yozgat'ın Gizli Mirası

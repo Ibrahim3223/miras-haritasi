@@ -1,18 +1,17 @@
 ---
-title: "Pydnai | Miras Haritası"
-date: 2025-12-25T04:34:49+03:00
+title: "Pydnai"
+date: "2025-12-25T04:34:49+03:00"
 slug: "pydnai"
 description: "### Pydnai: Muğla'nın Eski Yunanistan'a Ait Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pydnae2.jpg/1200px-Pydnae2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.231701,36.333176"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Pydnai: Muğla'nın Eski Yunanistan'a Ait Gizemi

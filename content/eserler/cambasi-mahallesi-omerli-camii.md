@@ -1,18 +1,17 @@
 ---
-title: "Çambaşı Mahallesi Ömerli Camii | Miras Haritası"
-date: 2025-12-25T00:40:34+03:00
+title: "Çambaşı Mahallesi Ömerli Camii"
+date: "2025-12-25T00:40:34+03:00"
 slug: "cambasi-mahallesi-omerli-camii"
 description: "## Çambaşı Mahallesi Ömerli Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Çaykara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.249575835,40.695895444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çambaşı Mahallesi Ömerli Camii

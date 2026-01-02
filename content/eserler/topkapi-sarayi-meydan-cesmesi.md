@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:13:58+03:00
+title: "Topkapı Sarayı Meydan Çeşmesi"
+date: "2025-12-25T11:13:58+03:00"
 slug: "topkapi-sarayi-meydan-cesmesi"
 description: "## Topkapı Sarayı Meydan Çeşmesi: Bir İmparatorlukun Yansıması..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.982893,41.0115585"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Meydan Çeşmesi: Bir İmparatorlukun Yansıması

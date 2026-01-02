@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Çaltı | Miras Haritası"
-date: 2025-12-25T12:04:09+03:00
+title: "Çeşme, Çaltı"
+date: "2025-12-25T12:04:09+03:00"
 slug: "cesme-calti"
 description: "## Çaltı Çeşmesi: Aydın'ın Efsanevi Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0312996,37.6525002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaltı Çeşmesi: Aydın'ın Efsanevi Çeşmesi

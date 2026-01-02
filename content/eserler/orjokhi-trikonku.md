@@ -1,18 +1,17 @@
 ---
-title: "Orjokhi Trikonku | Miras Haritası"
-date: 2025-12-25T08:56:56+03:00
+title: "Orjokhi Trikonku"
+date: "2025-12-25T08:56:56+03:00"
 slug: "orjokhi-trikonku"
 description: "## Orjokhi Trikonku: Antik Kilise..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.8038,40.5144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orjokhi Trikonku: Antik Kilise

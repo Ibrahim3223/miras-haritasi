@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmud Han Çeşmesi, Emin Sinan | Miras Haritası"
-date: 2025-12-25T11:53:38+03:00
+title: "II. Mahmud Han Çeşmesi, Emin Sinan"
+date: "2025-12-25T11:53:38+03:00"
 slug: "ii-mahmud-han-cesmesi-emin-sinan"
 description: "## II. Mahmud Han Çeşmesi, Emin Sinan..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9693031,41.0065308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## II. Mahmud Han Çeşmesi, Emin Sinan

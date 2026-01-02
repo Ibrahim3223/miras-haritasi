@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Höyük | Miras Haritası"
-date: 2025-12-25T05:26:56+03:00
+title: "Kurşunlu Höyük"
+date: "2025-12-25T05:26:56+03:00"
 slug: "kursunlu-hoyuk"
 description: "### Kurşunlu Höyük: Bursa'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.637467,40.049983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurşunlu Höyük: Bursa'nın Gizli Ören Yeri

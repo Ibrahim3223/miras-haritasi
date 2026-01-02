@@ -1,18 +1,17 @@
 ---
-title: "Ergenli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:17:36+03:00
+title: "Ergenli Köprüsü"
+date: "2025-12-25T02:17:36+03:00"
 slug: "ergenli-koprusu"
 description: "# Ergenli Köprüsü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6898994,38.2415009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ergenli Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

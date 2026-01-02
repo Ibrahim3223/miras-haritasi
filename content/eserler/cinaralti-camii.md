@@ -1,18 +1,17 @@
 ---
-title: "Çınaraltı Camii | Miras Haritası"
-date: 2025-12-24T22:34:40+03:00
+title: "Çınaraltı Camii"
+date: "2025-12-24T22:34:40+03:00"
 slug: "cinaralti-camii"
 description: "## Çınaraltı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.4086456,38.3554764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çınaraltı Camii

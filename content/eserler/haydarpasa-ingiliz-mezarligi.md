@@ -1,18 +1,17 @@
 ---
-title: "Haydarpaşa İngiliz Mezarlığı | Miras Haritası"
-date: 2025-12-25T16:08:07+03:00
+title: "Haydarpaşa İngiliz Mezarlığı"
+date: "2025-12-25T16:08:07+03:00"
 slug: "haydarpasa-ingiliz-mezarligi"
 description: "## Haydarpaşa İngiliz Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/İstanbul_6079.jpg/1200px-İstanbul_6079.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.02005,40.99981"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Haydarpaşa İngiliz Mezarlığı

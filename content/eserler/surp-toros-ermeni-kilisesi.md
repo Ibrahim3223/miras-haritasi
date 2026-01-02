@@ -1,18 +1,17 @@
 ---
-title: "Surp Toros Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:50+03:00
+title: "Surp Toros Ermeni Kilisesi"
+date: "2025-12-25T09:36:50+03:00"
 slug: "surp-toros-ermeni-kilisesi"
 description: "## Surp Toros Ermeni Kilisesi: Kayseri'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.5736255,38.7161595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Toros Ermeni Kilisesi: Kayseri'nin Gizli Hazinesi

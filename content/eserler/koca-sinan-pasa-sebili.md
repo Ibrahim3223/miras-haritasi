@@ -1,18 +1,17 @@
 ---
-title: "Koca Sinan Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:05:09+03:00
+title: "Koca Sinan Paşa Sebili"
+date: "2025-12-25T13:05:09+03:00"
 slug: "koca-sinan-pasa-sebili"
 description: "## Koca Sinan Paşa Sebili: Fatih'in Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.968548,41.008808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Sinan Paşa Sebili: Fatih'in Tarihi Çeşmesi

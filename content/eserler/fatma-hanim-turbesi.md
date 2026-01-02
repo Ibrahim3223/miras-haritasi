@@ -1,18 +1,17 @@
 ---
-title: "Fatma Hanım Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:02+03:00
+title: "Fatma Hanım Türbesi"
+date: "2025-12-25T15:33:02+03:00"
 slug: "fatma-hanim-turbesi"
 description: "# Fatma Hanım Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Fatma_Hanım_Türbesi.jpg/1200px-Fatma_Hanım_Türbesi.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5700474,41.6687279"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Fatma Hanım Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayvalı Kahve Mescidi, Karabağlar Yaylası | Miras Haritası"
-date: 2025-12-25T00:47:04+03:00
+title: "Ayvalı Kahve Mescidi, Karabağlar Yaylası"
+date: "2025-12-25T00:47:04+03:00"
 slug: "ayvali-kahve-mescidi-karabaglar-yaylasi"
 description: "## Ayvalı Kahve Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.4001007,37.1955986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayvalı Kahve Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Çehresini Keşfetmek

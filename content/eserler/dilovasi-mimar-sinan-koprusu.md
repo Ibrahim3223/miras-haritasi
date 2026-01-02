@@ -1,18 +1,17 @@
 ---
-title: "Dilovası Mimar Sinan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:36+03:00
+title: "Dilovası Mimar Sinan Köprüsü"
+date: "2025-12-25T02:15:36+03:00"
 slug: "dilovasi-mimar-sinan-koprusu"
 description: "## Dilovası Mimar Sinan Köprüsü..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Dilovası"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.5300808,40.7887154"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dilovası Mimar Sinan Köprüsü

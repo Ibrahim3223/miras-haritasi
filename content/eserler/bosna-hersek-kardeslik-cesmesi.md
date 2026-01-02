@@ -1,18 +1,17 @@
 ---
-title: "Bosna-Hersek Kardeşlik Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:52:45+03:00
+title: "Bosna-Hersek Kardeşlik Çeşmesi"
+date: "2025-12-25T12:52:45+03:00"
 slug: "bosna-hersek-kardeslik-cesmesi"
 description: "## Bosna-Hersek Kardeşlik Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.864627883,39.93394571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bosna-Hersek Kardeşlik Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ahmed Bican Türbesi | Miras Haritası"
-date: 2025-12-25T14:12:05+03:00
+title: "Ahmed Bican Türbesi"
+date: "2025-12-25T14:12:05+03:00"
 slug: "ahmed-bican-turbesi"
 description: "## Ahmed Bican Türbesi: Gelibolu'nun Efsanevi Kahramanı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6773,40.4088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmed Bican Türbesi: Gelibolu'nun Efsanevi Kahramanı

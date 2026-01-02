@@ -1,18 +1,17 @@
 ---
-title: "Burgaç Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:08:45+03:00
+title: "Burgaç Hatun Türbesi"
+date: "2025-12-25T15:08:45+03:00"
 slug: "burgac-hatun-turbesi"
 description: "### Burgaç Hatun Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.550638888,40.314527777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Burgaç Hatun Türbesi

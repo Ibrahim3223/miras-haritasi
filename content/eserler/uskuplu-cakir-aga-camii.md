@@ -1,18 +1,17 @@
 ---
-title: "Üsküplü Çakır Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:42:14+03:00
+title: "Üsküplü Çakır Ağa Camii"
+date: "2025-12-24T21:42:14+03:00"
 slug: "uskuplu-cakir-aga-camii"
 description: "### Üsküplü Çakır Ağa Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Üsküplü_Çakır_Ağa_Camii_17.jpg/1200px-Üsküplü_Çakır_Ağa_Camii_17.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.958722222,41.024388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Üsküplü Çakır Ağa Camii Tanıtımı

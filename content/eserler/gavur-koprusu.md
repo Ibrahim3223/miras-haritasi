@@ -1,18 +1,17 @@
 ---
-title: "Gavur Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:41+03:00
+title: "Gavur Köprüsü"
+date: "2025-12-25T02:16:41+03:00"
 slug: "gavur-koprusu"
 description: "## Gavur Köprüsü: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3583832,38.4665337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gavur Köprüsü: Manisa'nın Tarihi Bir Mirası

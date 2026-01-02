@@ -1,18 +1,17 @@
 ---
-title: "Külhüyük | Miras Haritası"
-date: 2025-12-25T05:58:21+03:00
+title: "Külhüyük"
+date: "2025-12-25T05:58:21+03:00"
 slug: "kulhuyuk"
 description: "## Külhüyük Arkeolojik Sitesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Gölbaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.65472,39.527222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Külhüyük Arkeolojik Sitesi

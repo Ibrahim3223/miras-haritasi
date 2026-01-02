@@ -1,18 +1,17 @@
 ---
-title: "Pıra Kurt Köprüsü | Miras Haritası"
-date: 2025-12-25T02:28:06+03:00
+title: "Pıra Kurt Köprüsü"
+date: "2025-12-25T02:28:06+03:00"
 slug: "pira-kurt-koprusu"
 description: "## Pıra Kurt Köprüsü: Tarihi ve Kültürel Özellikleri..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.2399139,38.2218323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pıra Kurt Köprüsü: Tarihi ve Kültürel Özellikleri

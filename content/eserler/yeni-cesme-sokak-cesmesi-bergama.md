@@ -1,18 +1,17 @@
 ---
-title: "Yeni Çeşme Sokak Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:46:38+03:00
+title: "Yeni Çeşme Sokak Çeşmesi, Bergama"
+date: "2025-12-25T12:46:38+03:00"
 slug: "yeni-cesme-sokak-cesmesi-bergama"
 description: "## Yeni Çeşme Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1868,39.1231003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Çeşme Sokak Çeşmesi, Bergama

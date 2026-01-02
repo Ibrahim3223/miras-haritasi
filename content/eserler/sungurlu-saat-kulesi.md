@@ -1,18 +1,17 @@
 ---
-title: "Sungurlu Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:49+03:00
+title: "Sungurlu Saat Kulesi"
+date: "2025-12-25T17:18:49+03:00"
 slug: "sungurlu-saat-kulesi"
 description: "## Sungurlu Saat Kulesi: Çorum'un Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Çorum_Sungurlu_saat_kulesi.jpg/1200px-Çorum_Sungurlu_saat_kulesi.jpg"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Sungurlu"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "34.374138888,40.162527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sungurlu Saat Kulesi: Çorum'un Tarihi Mirası

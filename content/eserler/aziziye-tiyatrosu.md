@@ -1,18 +1,17 @@
 ---
-title: "Aziziye Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:17:58+03:00
+title: "Aziziye Tiyatrosu"
+date: "2025-12-25T16:17:58+03:00"
 slug: "aziziye-tiyatrosu"
 description: "## Aziziye Tiyatrosu: Üsküdar'ın Kültürel Mirası..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "İcadiye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "29.037861111,41.026388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziziye Tiyatrosu: Üsküdar'ın Kültürel Mirası

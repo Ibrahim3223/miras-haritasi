@@ -1,18 +1,17 @@
 ---
-title: "Selçuklu Hamamı | Miras Haritası"
-date: 2025-12-25T16:42:36+03:00
+title: "Selçuklu Hamamı"
+date: "2025-12-25T16:42:36+03:00"
 slug: "selcuklu-hamami"
 description: "## Selçuklu Hamamı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.8400478,39.4887199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selçuklu Hamamı

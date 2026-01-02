@@ -1,18 +1,17 @@
 ---
-title: "Bayındır Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:39:07+03:00
+title: "Bayındır Kent Müzesi"
+date: "2025-12-25T03:39:07+03:00"
 slug: "bayindir-kent-muzesi"
 description: "## Bayındır Kent Müzesi: Geçmişten Bugüne İznik Seramik Sanatı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.6445694,38.2227211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayındır Kent Müzesi: Geçmişten Bugüne İznik Seramik Sanatı

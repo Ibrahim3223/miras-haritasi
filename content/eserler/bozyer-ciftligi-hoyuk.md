@@ -1,18 +1,17 @@
 ---
-title: "Bozyer Çiftliği Höyük | Miras Haritası"
-date: 2025-12-25T05:46:52+03:00
+title: "Bozyer Çiftliği Höyük"
+date: "2025-12-25T05:46:52+03:00"
 slug: "bozyer-ciftligi-hoyuk"
 description: "## Bozyer Çiftliği Höyük: Demirci, Manisa'da Bir Arkeolojik Dev..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Demirci"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.77428,38.899486"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozyer Çiftliği Höyük: Demirci, Manisa'da Bir Arkeolojik Dev

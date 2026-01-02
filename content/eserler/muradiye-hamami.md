@@ -1,18 +1,17 @@
 ---
-title: "Muradiye Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:54+03:00
+title: "Muradiye Hamamı"
+date: "2025-12-25T16:34:54+03:00"
 slug: "muradiye-hamami"
 description: "### Muradiye Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0450325,40.1908798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muradiye Hamamı

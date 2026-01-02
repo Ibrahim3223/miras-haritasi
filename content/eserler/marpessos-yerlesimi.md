@@ -1,18 +1,17 @@
 ---
-title: "Marpessos Yerleşimi | Miras Haritası"
-date: 2025-12-25T05:52:51+03:00
+title: "Marpessos Yerleşimi"
+date: "2025-12-25T05:52:51+03:00"
 slug: "marpessos-yerlesimi"
 description: "## Marpessos Yerleşimi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.5202789,39.8802795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marpessos Yerleşimi

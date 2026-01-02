@@ -1,18 +1,17 @@
 ---
-title: "Sarı Selim Camii (Payas) | Miras Haritası"
-date: 2025-12-24T22:42:01+03:00
+title: "Sarı Selim Camii (Payas)"
+date: "2025-12-24T22:42:01+03:00"
 slug: "sari-selim-camii-payas"
 description: "## Sarı Selim Camii (Payas)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Sarı_selim_camii.jpg/1200px-Sarı_selim_camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.2032089,36.7537384"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sarı Selim Camii (Payas)

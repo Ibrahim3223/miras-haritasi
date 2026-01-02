@@ -1,18 +1,17 @@
 ---
-title: "Orhan Hamamı | Miras Haritası"
-date: 2025-12-25T16:45:07+03:00
+title: "Orhan Hamamı"
+date: "2025-12-25T16:45:07+03:00"
 slug: "orhan-hamami"
 description: "## Orhan Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.7205925,40.421524"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orhan Hamamı

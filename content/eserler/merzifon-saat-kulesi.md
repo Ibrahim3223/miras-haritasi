@@ -1,18 +1,17 @@
 ---
-title: "Merzifon Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:29+03:00
+title: "Merzifon Saat Kulesi"
+date: "2025-12-25T17:18:29+03:00"
 slug: "merzifon-saat-kulesi"
 description: "## Merzifon Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Merzifon_Medresesi_ve_saat_kulesi.jpg/1200px-Merzifon_Medresesi_ve_saat_kulesi.jpg"
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "35.461767976,40.874088299"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Merzifon Saat Kulesi

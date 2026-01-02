@@ -1,18 +1,17 @@
 ---
-title: "ODTÜ Tarih Müzesi | Miras Haritası"
-date: 2025-12-25T03:15:28+03:00
+title: "ODTÜ Tarih Müzesi"
+date: "2025-12-25T03:15:28+03:00"
 slug: "odtu-tarih-muzesi"
 description: "## ODTÜ Tarih Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.78252778,39.89697222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## ODTÜ Tarih Müzesi

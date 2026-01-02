@@ -1,18 +1,17 @@
 ---
-title: "Kanlıdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:57+03:00
+title: "Kanlıdere Köprüsü"
+date: "2025-12-25T02:16:57+03:00"
 slug: "kanlidere-koprusu"
 description: "**Kanlıdere Köprüsü: İzmirlinin Klasik Bir Mirası**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6452084,38.2267685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kanlıdere Köprüsü: İzmirlinin Klasik Bir Mirası**

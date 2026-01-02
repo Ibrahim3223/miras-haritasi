@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:48:29+03:00
+title: "İstanbul Kent Müzesi"
+date: "2025-12-25T03:48:29+03:00"
 slug: "istanbul-kent-muzesi"
 description: "## İstanbul Kent Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9187145,41.0182266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Kent Müzesi

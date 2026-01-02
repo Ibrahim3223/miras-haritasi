@@ -1,18 +1,17 @@
 ---
-title: "Çine Arıcılık Müzesi | Miras Haritası"
-date: 2025-12-25T03:59:59+03:00
+title: "Çine Arıcılık Müzesi"
+date: "2025-12-25T03:59:59+03:00"
 slug: "cine-aricilik-muzesi"
 description: "## Çine Arıcılık Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.058746272,37.57843604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çine Arıcılık Müzesi

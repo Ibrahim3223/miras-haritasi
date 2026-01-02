@@ -1,18 +1,17 @@
 ---
-title: "Çayırlar Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:48:19+03:00
+title: "Çayırlar Kalesi, Kırklareli"
+date: "2025-12-25T01:48:19+03:00"
 slug: "cayirlar-kalesi-kirklareli"
 description: "## Çayırlar Kalesi: Kırklareli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.1487446,41.7668686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayırlar Kalesi: Kırklareli'nin Tarihi ve Kültürel Mirası

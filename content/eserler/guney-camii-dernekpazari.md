@@ -1,18 +1,17 @@
 ---
-title: "Güney Camii (Dernekpazarı) | Miras Haritası"
-date: 2025-12-25T00:41:32+03:00
+title: "Güney Camii (Dernekpazarı)"
+date: "2025-12-25T00:41:32+03:00"
 slug: "guney-camii-dernekpazari"
 description: "## Güney Camii (Dernekpazarı)..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Dernekpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.240519075,40.795566814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güney Camii (Dernekpazarı)

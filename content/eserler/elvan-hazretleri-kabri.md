@@ -1,18 +1,17 @@
 ---
-title: "Elvan Hazretleri Kabri | Miras Haritası"
-date: 2025-12-25T13:31:50+03:00
+title: "Elvan Hazretleri Kabri"
+date: "2025-12-25T13:31:50+03:00"
 slug: "elvan-hazretleri-kabri"
 description: "## Elvan Hazretleri Kabri: İstanbul'un Tarihsel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.954586,41.0255203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elvan Hazretleri Kabri: İstanbul'un Tarihsel Mirası

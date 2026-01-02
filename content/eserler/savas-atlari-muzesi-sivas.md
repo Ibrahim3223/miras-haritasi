@@ -1,18 +1,17 @@
 ---
-title: "Savaş Atları Müzesi, Sivas | Miras Haritası"
-date: 2025-12-25T03:41:38+03:00
+title: "Savaş Atları Müzesi, Sivas"
+date: "2025-12-25T03:41:38+03:00"
 slug: "savas-atlari-muzesi-sivas"
 description: "## Savaş Atları Müzesi, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.9285469,39.7218971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Savaş Atları Müzesi, Sivas

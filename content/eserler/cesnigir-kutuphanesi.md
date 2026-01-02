@@ -1,18 +1,17 @@
 ---
-title: "Çeşnigir Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:52:06+03:00
+title: "Çeşnigir Kütüphanesi"
+date: "2025-12-25T17:52:06+03:00"
 slug: "cesnigir-kutuphanesi"
 description: "**Çeşnigir Kütüphanesi: Manisa'nın Gizli Çeşme Kütüphanesi**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.433076556,38.611241924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çeşnigir Kütüphanesi: Manisa'nın Gizli Çeşme Kütüphanesi**

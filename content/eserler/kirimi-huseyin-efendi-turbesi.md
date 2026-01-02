@@ -1,18 +1,17 @@
 ---
-title: "Kırımi Hüseyin Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:04+03:00
+title: "Kırımi Hüseyin Efendi Türbesi"
+date: "2025-12-25T14:33:04+03:00"
 slug: "kirimi-huseyin-efendi-turbesi"
 description: "### Kırımi Hüseyin Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.934275,41.038186"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırımi Hüseyin Efendi Türbesi

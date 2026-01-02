@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Murat Köprüsü | Miras Haritası"
-date: 2025-12-25T03:06:35+03:00
+title: "Tarihi Murat Köprüsü"
+date: "2025-12-25T03:06:35+03:00"
 slug: "tarihi-murat-koprusu"
 description: "## Tarihi Murat Köprüsü: Muş'un Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Սուլուխ_կամուրջ-5.JPG/1200px-Սուլուխ_կամուրջ-5.JPG"
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Muş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.512661,38.8627411"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tarihi Murat Köprüsü: Muş'un Tarihi Bir Mirası

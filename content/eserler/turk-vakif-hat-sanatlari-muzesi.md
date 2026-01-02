@@ -1,18 +1,17 @@
 ---
-title: "Türk Vakıf Hat Sanatları Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:32+03:00
+title: "Türk Vakıf Hat Sanatları Müzesi"
+date: "2025-12-25T03:26:32+03:00"
 slug: "turk-vakif-hat-sanatlari-muzesi"
 description: "## Türk Vakıf Hat Sanatları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Caligraphy_museum_-İstanbul_-_panoramio.jpg/1200px-Caligraphy_museum_-İstanbul_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9632,41.01"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Türk Vakıf Hat Sanatları Müzesi

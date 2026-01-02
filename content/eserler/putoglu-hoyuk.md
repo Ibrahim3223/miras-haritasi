@@ -1,18 +1,17 @@
 ---
-title: "Putoğlu Höyük | Miras Haritası"
-date: 2025-12-25T06:38:41+03:00
+title: "Putoğlu Höyük"
+date: "2025-12-25T06:38:41+03:00"
 slug: "putoglu-hoyuk"
 description: "## Putoğlu Höyük: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.531685,36.289387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Putoğlu Höyük: Bir Arkeolojik Sitin Gizemi

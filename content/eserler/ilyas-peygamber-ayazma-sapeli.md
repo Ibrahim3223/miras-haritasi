@@ -1,18 +1,17 @@
 ---
-title: "İlyas Peygamber Ayazma Şapeli | Miras Haritası"
-date: 2025-12-25T12:42:01+03:00
+title: "İlyas Peygamber Ayazma Şapeli"
+date: "2025-12-25T12:42:01+03:00"
 slug: "ilyas-peygamber-ayazma-sapeli"
 description: "### İlyas Peygamber Ayazma Şapeli: Şile'nin Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.6539154,41.1225281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İlyas Peygamber Ayazma Şapeli: Şile'nin Gizli Cenneti

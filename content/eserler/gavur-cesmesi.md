@@ -1,18 +1,17 @@
 ---
-title: "Gavur Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:27:34+03:00
+title: "Gavur Çeşmesi"
+date: "2025-12-25T11:27:34+03:00"
 slug: "gavur-cesmesi"
 description: "## Gavur Çeşmesi: Ayvalık'ta Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6975403,39.3185616"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gavur Çeşmesi: Ayvalık'ta Bir Tarihi Çeşme

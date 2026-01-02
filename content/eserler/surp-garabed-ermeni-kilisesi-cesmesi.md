@@ -1,18 +1,17 @@
 ---
-title: "Surp Garabed Ermeni Kilisesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:31+03:00
+title: "Surp Garabed Ermeni Kilisesi Çeşmesi"
+date: "2025-12-25T11:19:31+03:00"
 slug: "surp-garabed-ermeni-kilisesi-cesmesi"
 description: "## Surp Garabed Ermeni Kilisesi Çeşmesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Muratreis"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.031079,41.02103"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Garabed Ermeni Kilisesi Çeşmesi

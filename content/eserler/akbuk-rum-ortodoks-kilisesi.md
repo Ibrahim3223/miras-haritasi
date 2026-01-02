@@ -1,18 +1,17 @@
 ---
-title: "Akbük Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:11+03:00
+title: "Akbük Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:22:11+03:00"
 slug: "akbuk-rum-ortodoks-kilisesi"
 description: "## Akbük Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.432024,37.3887596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akbük Rum Ortodoks Kilisesi

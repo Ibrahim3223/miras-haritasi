@@ -1,18 +1,17 @@
 ---
-title: "Evci Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:00:19+03:00
+title: "Evci Köyü Camii"
+date: "2025-12-24T23:00:19+03:00"
 slug: "evci-koyu-camii"
 description: "## Evci Köyü Camii..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8215103,40.0669937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evci Köyü Camii

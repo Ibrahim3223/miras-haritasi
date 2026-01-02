@@ -1,18 +1,17 @@
 ---
-title: "Hoca Hasan Mescidi | Miras Haritası"
-date: 2025-12-24T22:22:55+03:00
+title: "Hoca Hasan Mescidi"
+date: "2025-12-24T22:22:55+03:00"
 slug: "hoca-hasan-mescidi"
 description: "## Hoca Hasan Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Konya_Hoca_Hasan_mosque_4659.jpg/1200px-Konya_Hoca_Hasan_mosque_4659.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.486221653,37.870251415"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hoca Hasan Mescidi

@@ -1,18 +1,17 @@
 ---
-title: "Merkez Camii (Ahırlı) | Miras Haritası"
-date: 2025-12-25T00:32:20+03:00
+title: "Merkez Camii (Ahırlı)"
+date: "2025-12-25T00:32:20+03:00"
 slug: "merkez-camii-ahirli"
 description: "**Merkez Camii (Ahırlı)**..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ahırlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.120551433,37.239226765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Merkez Camii (Ahırlı)**

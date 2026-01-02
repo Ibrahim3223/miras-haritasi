@@ -1,18 +1,17 @@
 ---
-title: "Samsun Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:55+03:00
+title: "Samsun Protestan Kilisesi"
+date: "2025-12-25T08:50:55+03:00"
 slug: "samsun-protestan-kilisesi"
 description: "## Samsun Protestan Kilisesi: Tarihi ve Kültürel Mirasın Parıldayışı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samsun Protestan Kilisesi: Tarihi ve Kültürel Mirasın Parıldayışı

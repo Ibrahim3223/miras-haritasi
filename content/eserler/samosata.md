@@ -1,18 +1,17 @@
 ---
-title: "Samosata | Miras Haritası"
-date: 2025-12-25T04:19:19+03:00
+title: "Samosata"
+date: "2025-12-25T04:19:19+03:00"
 slug: "samosata"
 description: "## Samosata Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samosata_Philipp_II_Rv.JPG/1200px-Samosata_Philipp_II_Rv.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adıyaman"
+province: "Adıyaman"
+iller: '["Adıyaman"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.481316666,37.57955"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Samosata Arkeolojik Sit

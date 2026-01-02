@@ -1,18 +1,17 @@
 ---
-title: "Uğur Mumcu Parkı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:43:41+03:00
+title: "Uğur Mumcu Parkı Çeşmesi"
+date: "2025-12-25T11:43:41+03:00"
 slug: "ugur-mumcu-parki-cesmesi"
 description: "**Uğur Mumcu Parkı Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Uğur_Mumcu_Parkı_Çeşmesi,_Beşiktaş,_İstanbul.jpg/1200px-Uğur_Mumcu_Parkı_Çeşmesi,_Beşiktaş,_İstanbul.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Sinanpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0056229,41.0421829"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Uğur Mumcu Parkı Çeşmesi**

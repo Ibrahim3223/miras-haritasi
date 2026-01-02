@@ -1,18 +1,17 @@
 ---
-title: "Nesos | Miras Haritası"
-date: 2025-12-25T08:32:00+03:00
+title: "Nesos"
+date: "2025-12-25T08:32:00+03:00"
 slug: "nesos"
 description: "## Nesos Arkeolojik Sit..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.683166781,39.341858851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nesos Arkeolojik Sit

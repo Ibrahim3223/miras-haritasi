@@ -1,18 +1,17 @@
 ---
-title: "Üçtepe Tümülüsleri I, II, III | Miras Haritası"
-date: 2025-12-25T08:16:47+03:00
+title: "Üçtepe Tümülüsleri I, II, III"
+date: "2025-12-25T08:16:47+03:00"
 slug: "uctepe-tumulusleri-i-ii-iii"
 description: "# Üçtepe Tümülüsleri I, II, III: Malatya'da Gizemli Geçmişin İzleri..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yeşilyurt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1042366,38.3807373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Üçtepe Tümülüsleri I, II, III: Malatya'da Gizemli Geçmişin İzleri

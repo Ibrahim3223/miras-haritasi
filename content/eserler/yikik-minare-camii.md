@@ -1,18 +1,17 @@
 ---
-title: "Yıkık Minare Camii | Miras Haritası"
-date: 2025-12-24T22:21:01+03:00
+title: "Yıkık Minare Camii"
+date: "2025-12-24T22:21:01+03:00"
 slug: "yikik-minare-camii"
 description: "## Yıkık Minare Camii: Bornova, İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.223361932,38.469049472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıkık Minare Camii: Bornova, İzmir'in Gizli Cenneti

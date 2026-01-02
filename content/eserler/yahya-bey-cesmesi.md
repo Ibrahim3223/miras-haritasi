@@ -1,18 +1,17 @@
 ---
-title: "Yahya Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:11+03:00
+title: "Yahya Bey Çeşmesi"
+date: "2025-12-25T11:42:11+03:00"
 slug: "yahya-bey-cesmesi"
 description: "## Yahya Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Yahya_Bey_Çeşmesi,_Edirne_22.JPG/1200px-Yahya_Bey_Çeşmesi,_Edirne_22.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.5632896,41.676815"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yahya Bey Çeşmesi

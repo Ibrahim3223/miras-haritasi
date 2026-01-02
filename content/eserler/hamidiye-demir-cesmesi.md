@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Demir Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:02:28+03:00
+title: "Hamidiye Demir Çeşmesi"
+date: "2025-12-25T13:02:28+03:00"
 slug: "hamidiye-demir-cesmesi"
 description: "## Hamidiye Demir Çeşmesi: Beşiktaş'ta Bir İmparatorluk Mirası..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Yıldız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.009685,41.049504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Demir Çeşmesi: Beşiktaş'ta Bir İmparatorluk Mirası

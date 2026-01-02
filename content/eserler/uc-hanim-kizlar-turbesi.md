@@ -1,18 +1,17 @@
 ---
-title: "Üç Hanım Kızlar Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:59+03:00
+title: "Üç Hanım Kızlar Türbesi"
+date: "2025-12-25T14:56:59+03:00"
 slug: "uc-hanim-kizlar-turbesi"
 description: "## Üç Hanım Kızlar Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/HANIM_KIZLAR_TÜRBESİ_-_panoramio_(1).jpg/1200px-HANIM_KIZLAR_TÜRBESİ_-_panoramio_(1).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0472431,40.1873894"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Üç Hanım Kızlar Türbesi

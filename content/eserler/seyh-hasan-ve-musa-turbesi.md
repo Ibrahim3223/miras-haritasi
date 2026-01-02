@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hasan ve Musa Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:10+03:00
+title: "Şeyh Hasan ve Musa Türbesi"
+date: "2025-12-25T15:24:10+03:00"
 slug: "seyh-hasan-ve-musa-turbesi"
 description: "## Şeyh Hasan ve Musa Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6184654,36.7920685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Hasan ve Musa Türbesi

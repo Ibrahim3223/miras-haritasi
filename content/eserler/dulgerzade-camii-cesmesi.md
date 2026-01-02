@@ -1,18 +1,17 @@
 ---
-title: "Dülgerzade Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:21+03:00
+title: "Dülgerzade Camii Çeşmesi"
+date: "2025-12-25T11:02:21+03:00"
 slug: "dulgerzade-camii-cesmesi"
 description: "### Dülgerzade Camii Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.951502,41.015903"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dülgerzade Camii Çeşmesi

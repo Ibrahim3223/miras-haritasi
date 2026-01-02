@@ -1,18 +1,17 @@
 ---
-title: "Azebler Hamamı | Miras Haritası"
-date: 2025-12-25T17:15:29+03:00
+title: "Azebler Hamamı"
+date: "2025-12-25T17:15:29+03:00"
 slug: "azebler-hamami"
 description: "## Azebler Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.959478738,41.021440017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Azebler Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Gizli Çehresi

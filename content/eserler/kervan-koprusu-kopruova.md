@@ -1,18 +1,17 @@
 ---
-title: "Kervan Köprüsü, Köprüova | Miras Haritası"
-date: 2025-12-25T02:52:34+03:00
+title: "Kervan Köprüsü, Köprüova"
+date: "2025-12-25T02:52:34+03:00"
 slug: "kervan-koprusu-kopruova"
 description: "## Kervan Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7586861,37.9546127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kervan Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "İkizhöyük I II III | Miras Haritası"
-date: 2025-12-25T05:51:02+03:00
+title: "İkizhöyük I II III"
+date: "2025-12-25T05:51:02+03:00"
 slug: "ikizhoyuk-i-ii-iii"
 description: "## İkizhöyük I II III: Tarihî Bir Mirasın Geri Dönüşü..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.965633,38.193833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkizhöyük I II III: Tarihî Bir Mirasın Geri Dönüşü

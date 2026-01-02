@@ -1,18 +1,18 @@
 ---
-title: "Ayasofya | Miras Haritası"
-date: 2025-12-24T15:11:53+03:00
+title: "Ayasofya"
+date: "2025-12-24T15:11:53+03:00"
 slug: "ayasofya"
 description: "**Ayasofya: İnsanlığa Bir Miras**..."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1200px-Hagia_Sophia_Mars_2013.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.98,41.008333333"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1200px-Hagia_Sophia_Mars_2013.jpg"
 ---
 
 **Ayasofya: İnsanlığa Bir Miras**

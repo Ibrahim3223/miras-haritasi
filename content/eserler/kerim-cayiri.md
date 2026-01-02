@@ -1,18 +1,17 @@
 ---
-title: "Kerim Çayırı | Miras Haritası"
-date: 2025-12-25T13:44:06+03:00
+title: "Kerim Çayırı"
+date: "2025-12-25T13:44:06+03:00"
 slug: "kerim-cayiri"
 description: "## Kerim Çayırı: Afyonkarahisar'ın Gizli Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.2534,38.2069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kerim Çayırı: Afyonkarahisar'ın Gizli Anıtı

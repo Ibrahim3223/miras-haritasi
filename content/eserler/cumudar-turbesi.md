@@ -1,18 +1,17 @@
 ---
-title: "Cumudar Türbesi | Miras Haritası"
-date: 2025-12-25T13:57:15+03:00
+title: "Cumudar Türbesi"
+date: "2025-12-25T13:57:15+03:00"
 slug: "cumudar-turbesi"
 description: "## Cumudar Türbesi: Amasya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8325,40.6502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumudar Türbesi: Amasya'nın Gizli Anıtı

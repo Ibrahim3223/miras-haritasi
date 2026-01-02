@@ -1,18 +1,17 @@
 ---
-title: "Doğanbey Köyü Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:32:30+03:00
+title: "Doğanbey Köyü Meydan Çeşmesi"
+date: "2025-12-25T10:32:30+03:00"
 slug: "doganbey-koyu-meydan-cesmesi"
 description: "### Doğanbey Köyü Meydan Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1784306,37.6329384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doğanbey Köyü Meydan Çeşmesi

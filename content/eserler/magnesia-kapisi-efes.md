@@ -1,18 +1,17 @@
 ---
-title: "Magnesia Kapısı (Efes) | Miras Haritası"
-date: 2025-12-25T13:15:39+03:00
+title: "Magnesia Kapısı (Efes)"
+date: "2025-12-25T13:15:39+03:00"
 slug: "magnesia-kapisi-efes"
 description: "## Magnesia Kapısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.342111944,37.940246111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Magnesia Kapısı

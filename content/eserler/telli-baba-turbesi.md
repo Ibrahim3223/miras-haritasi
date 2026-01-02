@@ -1,18 +1,17 @@
 ---
-title: "Telli Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:36:07+03:00
+title: "Telli Baba Türbesi"
+date: "2025-12-25T14:36:07+03:00"
 slug: "telli-baba-turbesi"
 description: "## Telli Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.071639,41.175236"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Telli Baba Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Poyracı Mescidi | Miras Haritası"
-date: 2025-12-25T00:22:29+03:00
+title: "Poyracı Mescidi"
+date: "2025-12-25T00:22:29+03:00"
 slug: "poyraci-mescidi"
 description: "### Poyracı Mescidi: Altındağ'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.861557,39.9317932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Poyracı Mescidi: Altındağ'ın Tarihi Bir Mirası

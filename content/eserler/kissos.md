@@ -1,18 +1,17 @@
 ---
-title: "Kissos | Miras Haritası"
-date: 2025-12-25T04:35:18+03:00
+title: "Kissos"
+date: "2025-12-25T04:35:18+03:00"
 slug: "kissos"
 description: "### Kissos Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kissos Arkeolojik Sit

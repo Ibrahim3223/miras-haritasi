@@ -1,18 +1,17 @@
 ---
-title: "Hayrettin Çavuş Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:14+03:00
+title: "Hayrettin Çavuş Türbesi"
+date: "2025-12-25T15:06:14+03:00"
 slug: "hayrettin-cavus-turbesi"
 description: "### Hayrettin Çavuş Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hayrettin_Çavuş_Türbesi_1.jpg/1200px-Hayrettin_Çavuş_Türbesi_1.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.018194444,41.019555555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hayrettin Çavuş Türbesi

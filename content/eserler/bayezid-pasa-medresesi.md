@@ -1,18 +1,17 @@
 ---
-title: "Bayezid Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:16+03:00
+title: "Bayezid Paşa Medresesi"
+date: "2025-12-25T17:27:16+03:00"
 slug: "bayezid-pasa-medresesi"
 description: "### Bayezid Paşa Medresesi..."
 featured_image: ""
 province: "Yıldırım"
-iller: ["Yıldırım"]
+iller: '["Yıldırım"]'
 district: "Hocataşkın"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0770149,40.1813278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayezid Paşa Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Bahçe Höyük | Miras Haritası"
-date: 2025-12-25T06:41:56+03:00
+title: "Bahçe Höyük"
+date: "2025-12-25T06:41:56+03:00"
 slug: "bahce-hoyuk"
 description: "# Bahçe Höyük: Şanlıurfa'da bir Arkeolojik Sit..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9651853,36.9992303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bahçe Höyük: Şanlıurfa'da bir Arkeolojik Sit

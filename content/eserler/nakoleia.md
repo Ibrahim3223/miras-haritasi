@@ -1,18 +1,17 @@
 ---
-title: "Nakoleia | Miras Haritası"
-date: 2025-12-25T05:16:52+03:00
+title: "Nakoleia"
+date: "2025-12-25T05:16:52+03:00"
 slug: "nakoleia"
 description: "## Nakoleia: Eskişehir'in Gizli Zenginliği..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.693888888,39.445555555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nakoleia: Eskişehir'in Gizli Zenginliği

@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Cami 2 | Miras Haritası"
-date: 2025-12-24T22:15:59+03:00
+title: "Aşağı Cami 2"
+date: "2025-12-24T22:15:59+03:00"
 slug: "asagi-cami-2"
 description: "## Aşağı Cami 2: Çorum'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Bayat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.3515968,40.6445198"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Cami 2: Çorum'un Tarihi Bir Mirası

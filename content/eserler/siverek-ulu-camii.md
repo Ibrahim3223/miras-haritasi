@@ -1,18 +1,17 @@
 ---
-title: "Siverek Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:05:51+03:00
+title: "Siverek Ulu Camii"
+date: "2025-12-24T22:05:51+03:00"
 slug: "siverek-ulu-camii"
 description: "### Siverek Ulu Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.319111111,37.75325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Siverek Ulu Camii

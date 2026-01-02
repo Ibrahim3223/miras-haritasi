@@ -1,18 +1,17 @@
 ---
-title: "Taşçı Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:37:18+03:00
+title: "Taşçı Dede Kabri"
+date: "2025-12-25T13:37:18+03:00"
 slug: "tasci-dede-kabri"
 description: "## Taşçı Dede Kabri: Fatih, İstanbul'da Eski Zeminlerin Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.937357,41.02752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşçı Dede Kabri: Fatih, İstanbul'da Eski Zeminlerin Gizemi

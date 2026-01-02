@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Höyük Tepe | Miras Haritası"
-date: 2025-12-25T06:32:23+03:00
+title: "Akpınar Höyük Tepe"
+date: "2025-12-25T06:32:23+03:00"
 slug: "akpinar-hoyuk-tepe"
 description: "**Akpınar Höyük Tepe: Kahramanmaraş'ın Gizli Kahramanı**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Ekinözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.2119553,38.111638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akpınar Höyük Tepe: Kahramanmaraş'ın Gizli Kahramanı**

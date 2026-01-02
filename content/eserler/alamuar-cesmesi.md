@@ -1,18 +1,17 @@
 ---
-title: "Alamuar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:18:46+03:00
+title: "Alamuar Çeşmesi"
+date: "2025-12-25T12:18:46+03:00"
 slug: "alamuar-cesmesi"
 description: "## Alamuar Çeşmesi: Kaş'ın Kırmızı Taş Çeşmesi..."
 featured_image: ""
 province: "Kaş ilçesi"
-iller: ["Kaş ilçesi"]
+iller: '["Kaş ilçesi"]'
 district: "Kaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.6766,36.3545"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alamuar Çeşmesi: Kaş'ın Kırmızı Taş Çeşmesi

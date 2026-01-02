@@ -1,18 +1,17 @@
 ---
-title: "Emir Sultan Camii | Miras Haritası"
-date: 2025-12-24T15:11:44+03:00
+title: "Emir Sultan Camii"
+date: "2025-12-24T15:11:44+03:00"
 slug: "emir-sultan-camii"
 description: "Emir Sultan Camii: Bursa'nın Tarihi Bir Camisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Emir_Sultan_Camii_7067.jpg/1200px-Emir_Sultan_Camii_7067.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.081,40.181111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Emir Sultan Camii: Bursa'nın Tarihi Bir Camisi

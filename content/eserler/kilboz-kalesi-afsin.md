@@ -1,18 +1,17 @@
 ---
-title: "Kilboz Kalesi Afşin | Miras Haritası"
-date: 2025-12-25T01:40:28+03:00
+title: "Kilboz Kalesi Afşin"
+date: "2025-12-25T01:40:28+03:00"
 slug: "kilboz-kalesi-afsin"
 description: "## Kilboz Kalesi Afşin: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.0488014,38.5379753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilboz Kalesi Afşin: Tarihi ve Kültürel Miras

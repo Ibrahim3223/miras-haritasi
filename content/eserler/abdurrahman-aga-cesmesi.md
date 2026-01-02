@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahman Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:11:18+03:00
+title: "Abdurrahman Ağa Çeşmesi"
+date: "2025-12-25T13:11:18+03:00"
 slug: "abdurrahman-aga-cesmesi"
 description: "### Abdurrahman Ağa Çeşmesi: İskilip'te Bir Ölümsüz Miras..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4712563,40.7328949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdurrahman Ağa Çeşmesi: İskilip'te Bir Ölümsüz Miras

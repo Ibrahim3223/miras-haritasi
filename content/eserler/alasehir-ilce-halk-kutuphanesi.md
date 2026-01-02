@@ -1,18 +1,17 @@
 ---
-title: "Alaşehir İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:29+03:00
+title: "Alaşehir İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:51:29+03:00"
 slug: "alasehir-ilce-halk-kutuphanesi"
 description: "## Alaşehir İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Alaşehir"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.5155945,38.349575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaşehir İlçe Halk Kütüphanesi

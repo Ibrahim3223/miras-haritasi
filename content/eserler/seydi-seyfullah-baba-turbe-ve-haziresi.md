@@ -1,18 +1,17 @@
 ---
-title: "Seydi Seyfullah Baba Türbe ve Haziresi | Miras Haritası"
-date: 2025-12-25T16:07:26+03:00
+title: "Seydi Seyfullah Baba Türbe ve Haziresi"
+date: "2025-12-25T16:07:26+03:00"
 slug: "seydi-seyfullah-baba-turbe-ve-haziresi"
 description: "# Seydi Seyfullah Baba Türbe ve Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9313335,41.0096626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Seydi Seyfullah Baba Türbe ve Haziresi

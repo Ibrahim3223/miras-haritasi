@@ -1,18 +1,17 @@
 ---
-title: "Yağlı Höyük | Miras Haritası"
-date: 2025-12-25T13:47:02+03:00
+title: "Yağlı Höyük"
+date: "2025-12-25T13:47:02+03:00"
 slug: "yagli-hoyuk"
 description: "## Yağlı Höyük: Ağaçören'in Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ağaçören ilçesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9135638,38.8626932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yağlı Höyük: Ağaçören'in Gizli Mirası

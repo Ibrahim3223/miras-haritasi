@@ -1,18 +1,17 @@
 ---
-title: "Güvem Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:52+03:00
+title: "Güvem Köprüsü"
+date: "2025-12-25T02:32:52+03:00"
 slug: "guvem-koprusu"
 description: "## Güvem Köprüsü..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çerkeş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.8445206,40.904747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güvem Köprüsü

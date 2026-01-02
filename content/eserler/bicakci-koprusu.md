@@ -1,18 +1,17 @@
 ---
-title: "Bıçakçı Köprüsü | Miras Haritası"
-date: 2025-12-25T01:57:17+03:00
+title: "Bıçakçı Köprüsü"
+date: "2025-12-25T01:57:17+03:00"
 slug: "bicakci-koprusu"
 description: "# Bıçakçı Köprüsü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.039,36.9473"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bıçakçı Köprüsü

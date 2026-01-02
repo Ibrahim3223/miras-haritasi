@@ -1,18 +1,17 @@
 ---
-title: "Araukome | Miras Haritası"
-date: 2025-12-25T05:11:28+03:00
+title: "Araukome"
+date: "2025-12-25T05:11:28+03:00"
 slug: "araukome"
 description: "## Araukome Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.040127,39.154577"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Araukome Arkeolojik Sit

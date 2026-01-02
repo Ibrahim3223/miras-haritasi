@@ -1,18 +1,17 @@
 ---
-title: "Moda Camii | Miras Haritası"
-date: 2025-12-24T21:38:54+03:00
+title: "Moda Camii"
+date: "2025-12-24T21:38:54+03:00"
 slug: "moda-camii"
 description: "## Moda Camii: Kadıköy'ün Eski ve Şirin Camisi..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Caferağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.025583333,40.982583333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Moda Camii: Kadıköy'ün Eski ve Şirin Camisi

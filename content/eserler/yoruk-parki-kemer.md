@@ -1,18 +1,17 @@
 ---
-title: "Yörük Parkı, Kemer | Miras Haritası"
-date: 2025-12-25T04:11:46+03:00
+title: "Yörük Parkı, Kemer"
+date: "2025-12-25T04:11:46+03:00"
 slug: "yoruk-parki-kemer"
 description: "## Yörük Parkı: Antalya'nın Göçmen Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.576,36.6005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yörük Parkı: Antalya'nın Göçmen Mirası

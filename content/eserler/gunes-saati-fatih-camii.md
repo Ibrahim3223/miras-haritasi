@@ -1,18 +1,17 @@
 ---
-title: "Güneş Saati, Fatih Camii | Miras Haritası"
-date: 2025-12-25T13:41:59+03:00
+title: "Güneş Saati, Fatih Camii"
+date: "2025-12-25T13:41:59+03:00"
 slug: "gunes-saati-fatih-camii"
 description: "## Güneş Saati: Fatih Camii'nin Gizli Şarkısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Güneş_Saati_Detay,_Fatih_Camii.jpg/1200px-Güneş_Saati_Detay,_Fatih_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9494934,41.019577"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Güneş Saati: Fatih Camii'nin Gizli Şarkısı

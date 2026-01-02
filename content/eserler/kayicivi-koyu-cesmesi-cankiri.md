@@ -1,18 +1,17 @@
 ---
-title: "Kayıçivi Köyü Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:59:29+03:00
+title: "Kayıçivi Köyü Çeşmesi, Çankırı"
+date: "2025-12-25T12:59:29+03:00"
 slug: "kayicivi-koyu-cesmesi-cankiri"
 description: "## Kayıçivi Köyü Çeşmesi, Çankırı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Korgun ilçesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.463131,40.6988144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayıçivi Köyü Çeşmesi, Çankırı

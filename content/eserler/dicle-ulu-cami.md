@@ -1,18 +1,17 @@
 ---
-title: "Dicle Ulu Cami | Miras Haritası"
-date: 2025-12-24T22:36:59+03:00
+title: "Dicle Ulu Cami"
+date: "2025-12-24T22:36:59+03:00"
 slug: "dicle-ulu-cami"
 description: "## Dicle Ulu Cami: Dicle'nin Gizli Çehresi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Dicle"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.0725555,38.3750343"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dicle Ulu Cami: Dicle'nin Gizli Çehresi

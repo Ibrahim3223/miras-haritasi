@@ -1,18 +1,17 @@
 ---
-title: "Hepkebirler Camii | Miras Haritası"
-date: 2025-12-24T23:33:23+03:00
+title: "Hepkebirler Camii"
+date: "2025-12-24T23:33:23+03:00"
 slug: "hepkebirler-camii"
 description: "## Hepkebirler Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kastamonu"
+province: "Kastamonu"
+iller: '["Kastamonu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7731667,41.375061"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hepkebirler Camii Tanıtımı

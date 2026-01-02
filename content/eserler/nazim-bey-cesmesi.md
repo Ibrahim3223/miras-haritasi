@@ -1,18 +1,17 @@
 ---
-title: "Nazım Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:17:47+03:00
+title: "Nazım Bey Çeşmesi"
+date: "2025-12-25T12:17:47+03:00"
 slug: "nazim-bey-cesmesi"
 description: "## Nazım Bey Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.918346,41.051889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nazım Bey Çeşmesi

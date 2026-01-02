@@ -1,18 +1,17 @@
 ---
-title: "Neonteichos | Miras Haritası"
-date: 2025-12-25T04:53:06+03:00
+title: "Neonteichos"
+date: "2025-12-25T04:53:06+03:00"
 slug: "neonteichos"
 description: "## Neonteichos: Kıbrıs'ta Bir Antik Kent..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.824531,41.017925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neonteichos: Kıbrıs'ta Bir Antik Kent

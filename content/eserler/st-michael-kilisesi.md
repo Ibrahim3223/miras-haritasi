@@ -1,18 +1,17 @@
 ---
-title: "St. Michael Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:10+03:00
+title: "St. Michael Kilisesi"
+date: "2025-12-25T09:40:10+03:00"
 slug: "st-michael-kilisesi"
 description: "## St. Michael Kilisesi: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Akçaabat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.561587,41.019072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## St. Michael Kilisesi: Trabzon'un Gizli Cenneti

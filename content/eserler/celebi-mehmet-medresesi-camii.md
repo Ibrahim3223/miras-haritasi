@@ -1,18 +1,17 @@
 ---
-title: "Çelebi Mehmet Medresesi Camii | Miras Haritası"
-date: 2025-12-25T01:08:25+03:00
+title: "Çelebi Mehmet Medresesi Camii"
+date: "2025-12-25T01:08:25+03:00"
 slug: "celebi-mehmet-medresesi-camii"
 description: "### Çelebi Mehmet Medresesi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Çelebi_Sultan_Mehmet_Medresesi_Camii.jpg/1200px-Çelebi_Sultan_Mehmet_Medresesi_Camii.jpg"
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.461861111,40.873833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çelebi Mehmet Medresesi Camii

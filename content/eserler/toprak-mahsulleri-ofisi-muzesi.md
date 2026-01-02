@@ -1,18 +1,17 @@
 ---
-title: "Toprak Mahsulleri Ofisi Müzesi | Miras Haritası"
-date: 2025-12-25T04:07:11+03:00
+title: "Toprak Mahsulleri Ofisi Müzesi"
+date: "2025-12-25T04:07:11+03:00"
 slug: "toprak-mahsulleri-ofisi-muzesi"
 description: "## Toprak Mahsulleri Ofisi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toprak Mahsulleri Ofisi Müzesi

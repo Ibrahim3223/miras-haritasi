@@ -1,18 +1,17 @@
 ---
-title: "Balcı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T13:32:36+03:00
+title: "Balcı Baba Türbesi"
+date: "2025-12-25T13:32:36+03:00"
 slug: "balci-baba-turbesi"
 description: "## Balcı Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0210724,41.0170746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balcı Baba Türbesi

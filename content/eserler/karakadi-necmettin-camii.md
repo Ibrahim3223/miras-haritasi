@@ -1,18 +1,17 @@
 ---
-title: "Karakadı Necmettin Camii | Miras Haritası"
-date: 2025-12-24T22:44:52+03:00
+title: "Karakadı Necmettin Camii"
+date: "2025-12-24T22:44:52+03:00"
 slug: "karakadi-necmettin-camii"
 description: "## Karakadı Necmettin Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tire_Karakadı_Camii_4132.jpg/1200px-Tire_Karakadı_Camii_4132.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7425,38.088416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karakadı Necmettin Camii Tanıtımı

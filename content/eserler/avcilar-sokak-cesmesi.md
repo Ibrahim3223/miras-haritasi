@@ -1,18 +1,17 @@
 ---
-title: "Avcılar Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:28+03:00
+title: "Avcılar Sokak Çeşmesi"
+date: "2025-12-25T10:15:28+03:00"
 slug: "avcilar-sokak-cesmesi"
 description: "## Avcılar Sokak Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9780655,39.4229279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avcılar Sokak Çeşmesi

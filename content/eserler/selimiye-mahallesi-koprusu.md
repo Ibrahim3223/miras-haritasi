@@ -1,18 +1,17 @@
 ---
-title: "Selimiye Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:38:38+03:00
+title: "Selimiye Mahallesi Köprüsü"
+date: "2025-12-25T02:38:38+03:00"
 slug: "selimiye-mahallesi-koprusu"
 description: "## Selimiye Mahallesi Köprüsü..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.87874,40.980778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selimiye Mahallesi Köprüsü

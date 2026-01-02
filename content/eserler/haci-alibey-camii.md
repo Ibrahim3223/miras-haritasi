@@ -1,18 +1,17 @@
 ---
-title: "Hacı Alibey Camii | Miras Haritası"
-date: 2025-12-24T22:53:26+03:00
+title: "Hacı Alibey Camii"
+date: "2025-12-24T22:53:26+03:00"
 slug: "haci-alibey-camii"
 description: "## Hacı Alibey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hacı_Alibey_Camii.jpg/1200px-Hacı_Alibey_Camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0875921,41.138792"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Alibey Camii

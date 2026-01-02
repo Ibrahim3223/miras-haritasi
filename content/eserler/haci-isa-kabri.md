@@ -1,18 +1,17 @@
 ---
-title: "Hacı İsa Kabri | Miras Haritası"
-date: 2025-12-25T13:35:20+03:00
+title: "Hacı İsa Kabri"
+date: "2025-12-25T13:35:20+03:00"
 slug: "haci-isa-kabri"
 description: "## Hacı İsa Kabri: İstanbul'un Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9448338,41.0331955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı İsa Kabri: İstanbul'un Tarihî Mirası

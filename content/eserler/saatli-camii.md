@@ -1,18 +1,17 @@
 ---
-title: "Saatli Camii | Miras Haritası"
-date: 2025-12-24T21:44:26+03:00
+title: "Saatli Camii"
+date: "2025-12-24T21:44:26+03:00"
 slug: "saatli-camii"
 description: "### Ayvalık'ta Tarihi Bir Miras: Saatli Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ayvalık_la_Mosquée_Saatli_(Turquie).JPG/1200px-Ayvalık_la_Mosquée_Saatli_(Turquie).JPG"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.69412,39.31897"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ayvalık'ta Tarihi Bir Miras: Saatli Camii

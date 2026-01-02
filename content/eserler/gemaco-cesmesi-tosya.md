@@ -1,18 +1,17 @@
 ---
-title: "Gemaco Çeşmesi, Tosya | Miras Haritası"
-date: 2025-12-25T12:59:14+03:00
+title: "Gemaco Çeşmesi, Tosya"
+date: "2025-12-25T12:59:14+03:00"
 slug: "gemaco-cesmesi-tosya"
 description: "## Gemaco Çeşmesi: Tosya'nın tarihi bir simgesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Tosya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.033296252,41.021311009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gemaco Çeşmesi: Tosya'nın tarihi bir simgesi

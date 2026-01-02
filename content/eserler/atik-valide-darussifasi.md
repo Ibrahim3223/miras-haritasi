@@ -1,18 +1,17 @@
 ---
-title: "Atik Valide Darüşşifası | Miras Haritası"
-date: 2025-12-25T17:28:28+03:00
+title: "Atik Valide Darüşşifası"
+date: "2025-12-25T17:28:28+03:00"
 slug: "atik-valide-darussifasi"
 description: "# Atik Valide Darüşşifası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.022638,41.018539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Atik Valide Darüşşifası

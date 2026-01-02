@@ -1,18 +1,17 @@
 ---
-title: "Eymirli Höyüğü | Miras Haritası"
-date: 2025-12-25T06:12:32+03:00
+title: "Eymirli Höyüğü"
+date: "2025-12-25T06:12:32+03:00"
 slug: "eymirli-hoyugu"
 description: "### Eymirli Höyüğü: Mardin'in Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.685982368,37.170768414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eymirli Höyüğü: Mardin'in Gizemli Arkeolojik Mirası

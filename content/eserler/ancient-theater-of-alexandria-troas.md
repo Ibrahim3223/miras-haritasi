@@ -1,18 +1,17 @@
 ---
-title: "Ancient Theater of Alexandria Troas | Miras Haritası"
-date: 2025-12-25T04:12:47+03:00
+title: "Ancient Theater of Alexandria Troas"
+date: "2025-12-25T04:12:47+03:00"
 slug: "ancient-theater-of-alexandria-troas"
 description: "## Antik Alexandria Troas Tiyatrosu..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.158184,39.746922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antik Alexandria Troas Tiyatrosu

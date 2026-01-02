@@ -1,18 +1,17 @@
 ---
-title: "Panz | Miras Haritası"
-date: 2025-12-25T01:17:28+03:00
+title: "Panz"
+date: "2025-12-25T01:17:28+03:00"
 slug: "panz"
 description: "## Panz Kalesi..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Tuşba"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.5434,38.911665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panz Kalesi

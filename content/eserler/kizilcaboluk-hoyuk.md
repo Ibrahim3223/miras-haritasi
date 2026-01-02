@@ -1,18 +1,17 @@
 ---
-title: "Kızılcabölük Höyük | Miras Haritası"
-date: 2025-12-25T06:01:08+03:00
+title: "Kızılcabölük Höyük"
+date: "2025-12-25T06:01:08+03:00"
 slug: "kizilcaboluk-hoyuk"
 description: "## Kızılcabölük Höyük: Tavas'ta Gizlenen Tarih..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0214996,37.5839996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılcabölük Höyük: Tavas'ta Gizlenen Tarih

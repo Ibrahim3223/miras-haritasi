@@ -1,18 +1,17 @@
 ---
-title: "Ağaçköy Şehitliği II | Miras Haritası"
-date: 2025-12-25T14:08:16+03:00
+title: "Ağaçköy Şehitliği II"
+date: "2025-12-25T14:08:16+03:00"
 slug: "agackoy-sehitligi-ii"
 description: "## Ağaçköy Şehitliği II..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Dumlupınar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9753036,38.9083748"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağaçköy Şehitliği II

@@ -1,18 +1,17 @@
 ---
-title: "Boztepe Höyük | Miras Haritası"
-date: 2025-12-25T06:15:01+03:00
+title: "Boztepe Höyük"
+date: "2025-12-25T06:15:01+03:00"
 slug: "boztepe-hoyuk"
 description: "### Boztepe Höyük: Antik Çağın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9938011,36.769455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boztepe Höyük: Antik Çağın Gizemi

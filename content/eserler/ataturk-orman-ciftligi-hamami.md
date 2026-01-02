@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Orman Çiftliği Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:00+03:00
+title: "Atatürk Orman Çiftliği Hamamı"
+date: "2025-12-25T16:50:00+03:00"
 slug: "ataturk-orman-ciftligi-hamami"
 description: "## Atatürk Orman Çiftliği Hamamı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.7967644,39.9389153"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Orman Çiftliği Hamamı

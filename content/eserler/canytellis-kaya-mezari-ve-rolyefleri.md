@@ -1,18 +1,17 @@
 ---
-title: "Canytellis Kaya Mezarı ve Rölyefleri | Miras Haritası"
-date: 2025-12-25T13:21:53+03:00
+title: "Canytellis Kaya Mezarı ve Rölyefleri"
+date: "2025-12-25T13:21:53+03:00"
 slug: "canytellis-kaya-mezari-ve-rolyefleri"
 description: "### Canytellis Kaya Mezarı ve Rölyefleri..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Erdemli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1740723,36.5233078"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Canytellis Kaya Mezarı ve Rölyefleri

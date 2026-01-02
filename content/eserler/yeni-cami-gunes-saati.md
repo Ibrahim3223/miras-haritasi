@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:42:35+03:00
+title: "Yeni Cami Güneş Saati"
+date: "2025-12-25T13:42:35+03:00"
 slug: "yeni-cami-gunes-saati"
 description: "### Yeni Cami Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9715271,41.0170975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeni Cami Güneş Saati

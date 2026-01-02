@@ -1,18 +1,17 @@
 ---
-title: "Sındı Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:33+03:00
+title: "Sındı Köprüsü"
+date: "2025-12-25T03:02:33+03:00"
 slug: "sindi-koprusu"
 description: "### Sındı Köprüsü: Datça'nın Tarihi ve Kıymetli Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.5132465,36.7055626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sındı Köprüsü: Datça'nın Tarihi ve Kıymetli Köprüsü

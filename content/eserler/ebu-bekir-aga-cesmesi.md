@@ -1,18 +1,17 @@
 ---
-title: "Ebu Bekir Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:37+03:00
+title: "Ebu Bekir Ağa Çeşmesi"
+date: "2025-12-25T10:58:37+03:00"
 slug: "ebu-bekir-aga-cesmesi"
 description: "### Ebu Bekir Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.936174,41.054344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ebu Bekir Ağa Çeşmesi

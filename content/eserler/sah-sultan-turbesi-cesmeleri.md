@@ -1,18 +1,17 @@
 ---
-title: "Şah Sultan Türbesi Çeşmeleri | Miras Haritası"
-date: 2025-12-25T12:10:39+03:00
+title: "Şah Sultan Türbesi Çeşmeleri"
+date: "2025-12-25T12:10:39+03:00"
 slug: "sah-sultan-turbesi-cesmeleri"
 description: "## Şah Sultan Türbesi Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9364339,41.0444043"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şah Sultan Türbesi Çeşmeleri

@@ -1,18 +1,17 @@
 ---
-title: "Hanyeri Kabartması | Miras Haritası"
-date: 2025-12-25T13:43:35+03:00
+title: "Hanyeri Kabartması"
+date: "2025-12-25T13:43:35+03:00"
 slug: "hanyeri-kabartmasi"
 description: "### Hanyeri Kabartması: Adana'nın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hanyeri.jpg/1200px-Hanyeri.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Tufanbeyli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.01494444,38.21341667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hanyeri Kabartması: Adana'nın Gizli Anıtı

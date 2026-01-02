@@ -1,18 +1,17 @@
 ---
-title: "Kabataş Akpınar Camii | Miras Haritası"
-date: 2025-12-25T00:42:57+03:00
+title: "Kabataş Akpınar Camii"
+date: "2025-12-25T00:42:57+03:00"
 slug: "kabatas-akpinar-camii"
 description: "## Kabataş Akpınar Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Çaykara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.267758468,40.759798751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabataş Akpınar Camii

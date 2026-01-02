@@ -1,18 +1,17 @@
 ---
-title: "Şehit Kubilay Anıtı | Miras Haritası"
-date: 2025-12-25T14:02:59+03:00
+title: "Şehit Kubilay Anıtı"
+date: "2025-12-25T14:02:59+03:00"
 slug: "sehit-kubilay-aniti"
 description: "## Şehit Kubilay Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Şehit_Kubilay_Anıtı.JPG/1200px-Şehit_Kubilay_Anıtı.JPG"
 province: "Menemen (ilçe)"
-iller: ["Menemen (ilçe)"]
+iller: '["Menemen (ilçe)"]'
 district: "Menemen"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.070305555,38.600805555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehit Kubilay Anıtı

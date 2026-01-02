@@ -1,18 +1,17 @@
 ---
-title: "Ayvansaray Panayia Balino Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:43+03:00
+title: "Ayvansaray Panayia Balino Kilisesi"
+date: "2025-12-25T08:50:43+03:00"
 slug: "ayvansaray-panayia-balino-kilisesi"
 description: "## Ayvansaray Panayia Balino Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Panayia_Balinu_Kilisesi.jpg/1200px-Panayia_Balinu_Kilisesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.945261,41.035816"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayvansaray Panayia Balino Kilisesi

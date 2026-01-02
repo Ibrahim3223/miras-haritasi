@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Kanara Gırka Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:43:29+03:00
+title: "Aşağı Kanara Gırka Tepe Tümülüsü"
+date: "2025-12-25T07:43:29+03:00"
 slug: "asagi-kanara-girka-tepe-tumulusu"
 description: "## Aşağı Kanara Gırka Tepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0214977,42.0066414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Kanara Gırka Tepe Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Merhum Ali Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:30:07+03:00
+title: "Merhum Ali Dede Türbesi"
+date: "2025-12-25T15:30:07+03:00"
 slug: "merhum-ali-dede-turbesi"
 description: "## Merhum Ali Dede Türbesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3261909,36.9815636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merhum Ali Dede Türbesi

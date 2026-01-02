@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Köprüsü | Miras Haritası"
-date: 2025-12-25T02:28:52+03:00
+title: "Yıldız Köprüsü"
+date: "2025-12-25T02:28:52+03:00"
 slug: "yildiz-koprusu"
 description: "## Yıldız Köprüsü: Sivas'ta Bir Tarihi Miras..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Yıldızeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.765102,39.75863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldız Köprüsü: Sivas'ta Bir Tarihi Miras

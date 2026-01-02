@@ -1,18 +1,17 @@
 ---
-title: "All Saints Moda Kilisesi | Miras Haritası"
-date: 2025-12-25T08:48:19+03:00
+title: "All Saints Moda Kilisesi"
+date: "2025-12-25T08:48:19+03:00"
 slug: "all-saints-moda-kilisesi"
 description: "## All Saints Moda Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Allsaintsmoda_front_05_08_2016.JPG/1200px-Allsaintsmoda_front_05_08_2016.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.025,40.98194444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## All Saints Moda Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Bayramiç | Miras Haritası"
-date: 2025-12-25T02:57:37+03:00
+title: "Taş Köprü, Bayramiç"
+date: "2025-12-25T02:57:37+03:00"
 slug: "tas-kopru-bayramic"
 description: "## Taş Köprü, Bayramiç..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6123468,39.8080614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Köprü, Bayramiç

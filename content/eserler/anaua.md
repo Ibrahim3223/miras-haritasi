@@ -1,18 +1,17 @@
 ---
-title: "Anaua | Miras Haritası"
-date: 2025-12-25T05:17:11+03:00
+title: "Anaua"
+date: "2025-12-25T05:17:11+03:00"
 slug: "anaua"
 description: "## Anaua: Afyonkarahisar'daki Gizemli Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.8094275,37.8891725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anaua: Afyonkarahisar'daki Gizemli Arkeolojik Sit

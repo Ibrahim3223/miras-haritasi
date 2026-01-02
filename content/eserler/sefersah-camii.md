@@ -1,18 +1,17 @@
 ---
-title: "Seferşah Camii | Miras Haritası"
-date: 2025-12-24T22:43:14+03:00
+title: "Seferşah Camii"
+date: "2025-12-24T22:43:14+03:00"
 slug: "sefersah-camii"
 description: "## Seferşah Camii: Çanakkale'nin Gözdeleri Arasındaki Öne Çıkan Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3366795,39.7867088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seferşah Camii: Çanakkale'nin Gözdeleri Arasındaki Öne Çıkan Camii

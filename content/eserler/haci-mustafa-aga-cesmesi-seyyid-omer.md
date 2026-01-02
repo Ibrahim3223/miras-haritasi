@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mustafa Ağa Çeşmesi, Seyyid Ömer | Miras Haritası"
-date: 2025-12-25T12:47:09+03:00
+title: "Hacı Mustafa Ağa Çeşmesi, Seyyid Ömer"
+date: "2025-12-25T12:47:09+03:00"
 slug: "haci-mustafa-aga-cesmesi-seyyid-omer"
 description: "## Hacı Mustafa Ağa Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9319229,41.0098038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mustafa Ağa Çeşmesi: Fatih'in Gizli Çeşmesi

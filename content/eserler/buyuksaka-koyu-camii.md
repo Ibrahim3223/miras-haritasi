@@ -1,18 +1,17 @@
 ---
-title: "Büyüksaka Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:27:17+03:00
+title: "Büyüksaka Köyü Camii"
+date: "2025-12-24T22:27:17+03:00"
 slug: "buyuksaka-koyu-camii"
 description: "### Büyüksaka Köyü Camii: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kütahya"
+province: "Kütahya"
+iller: '["Kütahya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.1365662,39.3699379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Büyüksaka Köyü Camii: Kütahya'nın Tarihi Bir Mirası

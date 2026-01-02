@@ -1,18 +1,17 @@
 ---
-title: "Can Hasan 1 | Miras Haritası"
-date: 2025-12-25T06:57:23+03:00
+title: "Can Hasan 1"
+date: "2025-12-25T06:57:23+03:00"
 slug: "can-hasan-1"
 description: "## Can Hasan 1 Arkeolojik Sitesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.3313,37.263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Can Hasan 1 Arkeolojik Sitesi

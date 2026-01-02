@@ -1,18 +1,17 @@
 ---
-title: "Hacı İzzet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:55+03:00
+title: "Hacı İzzet Paşa Türbesi"
+date: "2025-12-25T14:56:55+03:00"
 slug: "haci-izzet-pasa-turbesi"
 description: "### Hacı İzzet Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hacı_İzzet_Paşa_Türbesi.jpg/1200px-Hacı_İzzet_Paşa_Türbesi.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5540295,41.6782074"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hacı İzzet Paşa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Mamatsminda Kilisesi | Miras Haritası"
-date: 2025-12-25T08:48:35+03:00
+title: "Mamatsminda Kilisesi"
+date: "2025-12-25T08:48:35+03:00"
 slug: "mamatsminda-kilisesi"
 description: "**Mamatsminda Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Mamatsminda_Church,_1888_by_Pavlinov.jpg/1200px-Mamatsminda_Church,_1888_by_Pavlinov.jpg"
-province: "Kutaisi Guberniyası"
-iller: ["Kutaisi Guberniyası"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: "Kutaisi Guberniyası"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.7174687,41.3332693"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Mamatsminda Kilisesi**

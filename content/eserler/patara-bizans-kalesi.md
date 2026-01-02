@@ -1,18 +1,17 @@
 ---
-title: "Patara Bizans Kalesi | Miras Haritası"
-date: 2025-12-25T01:49:08+03:00
+title: "Patara Bizans Kalesi"
+date: "2025-12-25T01:49:08+03:00"
 slug: "patara-bizans-kalesi"
 description: "## Patara Bizans Kalesi: Kaş'ın Tarihi Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.3140068,36.2637367"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Patara Bizans Kalesi: Kaş'ın Tarihi Mirası

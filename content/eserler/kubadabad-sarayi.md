@@ -1,18 +1,17 @@
 ---
-title: "Kubadabad Sarayı | Miras Haritası"
-date: 2025-12-25T13:11:43+03:00
+title: "Kubadabad Sarayı"
+date: "2025-12-25T13:11:43+03:00"
 slug: "kubadabad-sarayi"
 description: "## Kubadabad Sarayı: Konya'nın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kubadabad_general_view.jpg/1200px-Kubadabad_general_view.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "31.438837,37.7433337"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kubadabad Sarayı: Konya'nın Gizli Anıtı

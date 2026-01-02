@@ -1,18 +1,17 @@
 ---
-title: "Moryokuş Höyük | Miras Haritası"
-date: 2025-12-25T13:47:47+03:00
+title: "Moryokuş Höyük"
+date: "2025-12-25T13:47:47+03:00"
 slug: "moryokus-hoyuk"
 description: "## Moryokuş Höyük: Şereflikoçhisar'ın Gizli Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Şereflikoçhisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7707764,38.7986099"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Moryokuş Höyük: Şereflikoçhisar'ın Gizli Anıtı

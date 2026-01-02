@@ -1,18 +1,17 @@
 ---
-title: "Ihlara Vadisi | Miras Haritası"
-date: 2025-12-25T07:16:25+03:00
+title: "Ihlara Vadisi"
+date: "2025-12-25T07:16:25+03:00"
 slug: "ihlara-vadisi"
 description: "## Ihlara Vadisi: Kutsal Bir Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ihlara.jpg/1200px-Ihlara.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.295277777,38.2575"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ihlara Vadisi: Kutsal Bir Yer

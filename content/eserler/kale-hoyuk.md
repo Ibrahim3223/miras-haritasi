@@ -1,18 +1,17 @@
 ---
-title: "Kale Höyük | Miras Haritası"
-date: 2025-12-25T06:36:52+03:00
+title: "Kale Höyük"
+date: "2025-12-25T06:36:52+03:00"
 slug: "kale-hoyuk"
 description: "### Kale Höyük: Kayseri'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Felahiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.566723,39.093811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kale Höyük: Kayseri'nin Tarihî Mirası

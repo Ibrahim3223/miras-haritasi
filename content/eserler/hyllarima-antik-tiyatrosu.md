@@ -1,18 +1,17 @@
 ---
-title: "Hyllarima Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:20:19+03:00
+title: "Hyllarima Antik Tiyatrosu"
+date: "2025-12-25T16:20:19+03:00"
 slug: "hyllarima-antik-tiyatrosu"
 description: "## Hyllarima Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Kavaklıdere"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.349778,37.505015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hyllarima Antik Tiyatrosu

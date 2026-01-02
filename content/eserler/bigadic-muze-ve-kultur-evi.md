@@ -1,18 +1,17 @@
 ---
-title: "Bigadiç Müze Ve Kültür Evi | Miras Haritası"
-date: 2025-12-25T03:57:44+03:00
+title: "Bigadiç Müze Ve Kültür Evi"
+date: "2025-12-25T03:57:44+03:00"
 slug: "bigadic-muze-ve-kultur-evi"
 description: "### Bigadiç Müze Ve Kültür Evi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bigadiç"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.132809,39.3916"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bigadiç Müze Ve Kültür Evi

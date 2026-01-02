@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2, Alhan | Miras Haritası"
-date: 2025-12-25T11:57:18+03:00
+title: "Çeşme 2, Alhan"
+date: "2025-12-25T11:57:18+03:00"
 slug: "cesme-2-alhan"
 description: "## Çeşme 2, Alhan: Aydın'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.1677113,37.8088188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 2, Alhan: Aydın'ın Tarihi Bir Anıtı

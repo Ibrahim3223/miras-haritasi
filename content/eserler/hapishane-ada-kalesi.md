@@ -1,18 +1,17 @@
 ---
-title: "Hapishane Ada Kalesi | Miras Haritası"
-date: 2025-12-25T01:43:16+03:00
+title: "Hapishane Ada Kalesi"
+date: "2025-12-25T01:43:16+03:00"
 slug: "hapishane-ada-kalesi"
 description: "## Hapishane Ada Kalesi: Köyceğiz'in Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.6378822,36.9234772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hapishane Ada Kalesi: Köyceğiz'in Gizli Kahramanı

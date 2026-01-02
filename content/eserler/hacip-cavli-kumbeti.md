@@ -1,18 +1,17 @@
 ---
-title: "Hacip Çavlı Kümbeti | Miras Haritası"
-date: 2025-12-25T13:55:32+03:00
+title: "Hacip Çavlı Kümbeti"
+date: "2025-12-25T13:55:32+03:00"
 slug: "hacip-cavli-kumbeti"
 description: "## Hacip Çavlı Kümbeti..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4905608,38.7249795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacip Çavlı Kümbeti

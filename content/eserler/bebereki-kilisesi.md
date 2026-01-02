@@ -1,18 +1,17 @@
 ---
-title: "Bebereki Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:17+03:00
+title: "Bebereki Kilisesi"
+date: "2025-12-25T09:02:17+03:00"
 slug: "bebereki-kilisesi"
 description: "## Bebereki Kilisesi: Ardahan'ın Gizli Cenneti..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Çetinsu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.522638888,41.140111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bebereki Kilisesi: Ardahan'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Yolcuzade Hacı Ömer Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:11+03:00
+title: "Yolcuzade Hacı Ömer Efendi Türbesi"
+date: "2025-12-25T14:50:11+03:00"
 slug: "yolcuzade-haci-omer-efendi-turbesi"
 description: "### Yolcuzade Hacı Ömer Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9696484,41.0264053"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yolcuzade Hacı Ömer Efendi Türbesi

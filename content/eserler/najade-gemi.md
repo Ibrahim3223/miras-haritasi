@@ -1,18 +1,17 @@
 ---
-title: "Najade (gemi) | Miras Haritası"
-date: 2025-12-25T08:33:46+03:00
+title: "Najade (gemi)"
+date: "2025-12-25T08:33:46+03:00"
 slug: "najade-gemi"
 description: "## Najade (Gemi)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5667,40.5667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Najade (Gemi)

@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Reisköy | Miras Haritası"
-date: 2025-12-25T11:59:09+03:00
+title: "Çeşme, Reisköy"
+date: "2025-12-25T11:59:09+03:00"
 slug: "cesme-reiskoy"
 description: "## Çeşme, Reisköy: Aydın'ın Germencik'te Gizli Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5916805,37.8473167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Reisköy: Aydın'ın Germencik'te Gizli Bir Çeşme

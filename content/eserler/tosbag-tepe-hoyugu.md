@@ -1,18 +1,17 @@
 ---
-title: "Tosbağ Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:38:21+03:00
+title: "Tosbağ Tepe Höyüğü"
+date: "2025-12-25T06:38:21+03:00"
 slug: "tosbag-tepe-hoyugu"
 description: "## Tosbağ Tepe Höyüğü: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Muş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.5509796,38.869957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tosbağ Tepe Höyüğü: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi

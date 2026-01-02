@@ -1,18 +1,17 @@
 ---
-title: "Kilikya'daki Roma yolu | Miras Haritası"
-date: 2025-12-25T07:09:49+03:00
+title: "Kilikya'daki Roma yolu"
+date: "2025-12-25T07:09:49+03:00"
 slug: "kilikyadaki-roma-yolu"
 description: "### Kilikya'daki Roma Yolu: Tarsus'un Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Römerstraße_Sağlıklı_06.jpg/1200px-Römerstraße_Sağlıklı_06.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.9,37.05"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kilikya'daki Roma Yolu: Tarsus'un Gizli Mirası

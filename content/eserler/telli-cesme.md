@@ -1,18 +1,17 @@
 ---
-title: "Telli Çeşme | Miras Haritası"
-date: 2025-12-25T10:20:59+03:00
+title: "Telli Çeşme"
+date: "2025-12-25T10:20:59+03:00"
 slug: "telli-cesme"
 description: "## Telli Çeşme: Gelibolu'nun Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6753635,40.4092178"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Telli Çeşme: Gelibolu'nun Tarihi Bir Çeşmesi

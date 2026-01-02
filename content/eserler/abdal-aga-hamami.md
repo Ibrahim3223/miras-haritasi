@@ -1,18 +1,17 @@
 ---
-title: "Abdal Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:29+03:00
+title: "Abdal Ağa Hamamı"
+date: "2025-12-25T17:10:29+03:00"
 slug: "abdal-aga-hamami"
 description: "### Abdal Ağa Hamamı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.3177223,37.7542458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdal Ağa Hamamı

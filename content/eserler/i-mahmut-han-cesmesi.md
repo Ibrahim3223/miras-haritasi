@@ -1,18 +1,17 @@
 ---
-title: "I. Mahmut Han Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:15+03:00
+title: "I. Mahmut Han Çeşmesi"
+date: "2025-12-25T11:06:15+03:00"
 slug: "i-mahmut-han-cesmesi"
 description: "## I. Mahmut Han Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.05854,41.073924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## I. Mahmut Han Çeşmesi

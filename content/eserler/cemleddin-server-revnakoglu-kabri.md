@@ -1,18 +1,17 @@
 ---
-title: "Cemâleddin Server Revnakoğlu Kabri | Miras Haritası"
-date: 2025-12-25T13:33:27+03:00
+title: "Cemâleddin Server Revnakoğlu Kabri"
+date: "2025-12-25T13:33:27+03:00"
 slug: "cemleddin-server-revnakoglu-kabri"
 description: "## Cemâleddin Server Revnakoğlu Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9333744,41.0298653"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cemâleddin Server Revnakoğlu Kabri

@@ -1,18 +1,17 @@
 ---
-title: "Lysinia | Miras Haritası"
-date: 2025-12-25T04:24:55+03:00
+title: "Lysinia"
+date: "2025-12-25T04:24:55+03:00"
 slug: "lysinia"
 description: "## Lysinia: Antik Bir Kentin Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Burdur"
+province: "Burdur"
+iller: '["Burdur"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.06666667,37.7"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lysinia: Antik Bir Kentin Mirası

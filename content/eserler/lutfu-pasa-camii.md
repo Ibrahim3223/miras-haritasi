@@ -1,18 +1,17 @@
 ---
-title: "Lütfü Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:44:44+03:00
+title: "Lütfü Paşa Camii"
+date: "2025-12-24T22:44:44+03:00"
 slug: "lutfu-pasa-camii"
 description: "## Lütfü Paşa Camii: Türkiye'nin İnci..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Tire_Lütfü_Paşa_Camii_4146.jpg/1200px-Tire_Lütfü_Paşa_Camii_4146.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.733333333,38.088333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lütfü Paşa Camii: Türkiye'nin İnci

@@ -1,18 +1,17 @@
 ---
-title: "Ayın Biri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:18:01+03:00
+title: "Ayın Biri Kilisesi"
+date: "2025-12-25T09:18:01+03:00"
 slug: "ayin-biri-kilisesi"
 description: "## Ayın Biri Kilisesi: İstanbul'un Gizemli Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9588184,41.0181808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayın Biri Kilisesi: İstanbul'un Gizemli Kilisesi

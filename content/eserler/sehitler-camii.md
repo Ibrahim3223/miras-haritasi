@@ -1,18 +1,17 @@
 ---
-title: "Şehitler Camii | Miras Haritası"
-date: 2025-12-24T23:08:08+03:00
+title: "Şehitler Camii"
+date: "2025-12-24T23:08:08+03:00"
 slug: "sehitler-camii"
 description: "## Şehitler Camii: Samsun'un Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Salıpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.7853432,40.9513702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehitler Camii: Samsun'un Tarihi ve Kültürel Bir Mirası

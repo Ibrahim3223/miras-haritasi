@@ -1,18 +1,17 @@
 ---
-title: "Naendria Kalesi | Miras Haritası"
-date: 2025-12-25T01:31:10+03:00
+title: "Naendria Kalesi"
+date: "2025-12-25T01:31:10+03:00"
 slug: "naendria-kalesi"
 description: "### Naendria Kalesi: Ezine'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.272082,39.713047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Naendria Kalesi: Ezine'nin Tarihi ve Kültürel Mirası

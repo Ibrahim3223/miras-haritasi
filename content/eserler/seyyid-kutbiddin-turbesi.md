@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Kutbiddin Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:02+03:00
+title: "Seyyid Kutbiddin Türbesi"
+date: "2025-12-25T14:50:02+03:00"
 slug: "seyyid-kutbiddin-turbesi"
 description: "## Seyyid Kutbiddin Türbesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.326242,41.294494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Kutbiddin Türbesi

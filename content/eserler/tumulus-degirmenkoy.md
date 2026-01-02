@@ -1,18 +1,17 @@
 ---
-title: "Tümülüs, Değirmenköy | Miras Haritası"
-date: 2025-12-25T07:25:34+03:00
+title: "Tümülüs, Değirmenköy"
+date: "2025-12-25T07:25:34+03:00"
 slug: "tumulus-degirmenkoy"
 description: "## Tümülüs, Değirmenköy: Silivri'nin Gizli Hazineleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0034809,41.1113319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tümülüs, Değirmenköy: Silivri'nin Gizli Hazineleri

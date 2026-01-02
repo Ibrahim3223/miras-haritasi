@@ -1,18 +1,17 @@
 ---
-title: "Keramos Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:25+03:00
+title: "Keramos Hamamı"
+date: "2025-12-25T17:10:25+03:00"
 slug: "keramos-hamami"
 description: "## Keramos Hamamı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.955020495,37.041567849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keramos Hamamı

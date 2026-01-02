@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Şehitliği Kulaksız | Miras Haritası"
-date: 2025-12-25T16:01:54+03:00
+title: "Hamidiye Şehitliği Kulaksız"
+date: "2025-12-25T16:01:54+03:00"
 slug: "hamidiye-sehitligi-kulaksiz"
 description: "## Hamidiye Şehitliği Kulaksız: İstanbul'un Anıtsal Özellisi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9606075,41.0409012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Şehitliği Kulaksız: İstanbul'un Anıtsal Özellisi

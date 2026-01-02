@@ -1,18 +1,17 @@
 ---
-title: "Hacı Rahmi Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:59+03:00
+title: "Hacı Rahmi Sultan Türbesi"
+date: "2025-12-25T15:17:59+03:00"
 slug: "haci-rahmi-sultan-turbesi"
 description: "### Hacı Rahmi Sultan Türbesi..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.282166,37.712907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Rahmi Sultan Türbesi

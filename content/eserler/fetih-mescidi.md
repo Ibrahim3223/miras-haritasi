@@ -1,18 +1,17 @@
 ---
-title: "Fetih Mescidi | Miras Haritası"
-date: 2025-12-25T00:49:07+03:00
+title: "Fetih Mescidi"
+date: "2025-12-25T00:49:07+03:00"
 slug: "fetih-mescidi"
 description: "**Fetih Mescidi**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.429623671,38.606833676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Fetih Mescidi**

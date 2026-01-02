@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Çinili Cami | Miras Haritası"
-date: 2025-12-24T21:56:04+03:00
+title: "Kütahya Çinili Cami"
+date: "2025-12-24T21:56:04+03:00"
 slug: "kutahya-cinili-cami"
 description: "## Kütahya Çinili Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kütahya_çinili_cami.JPG/1200px-Kütahya_çinili_cami.JPG"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9902973,39.4117775"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kütahya Çinili Cami

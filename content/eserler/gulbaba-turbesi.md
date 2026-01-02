@@ -1,18 +1,17 @@
 ---
-title: "Gülbaba Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:17+03:00
+title: "Gülbaba Türbesi"
+date: "2025-12-25T14:39:17+03:00"
 slug: "gulbaba-turbesi"
 description: "**Gülbaba Türbesi**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2319927,42.029892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gülbaba Türbesi**

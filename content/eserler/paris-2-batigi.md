@@ -1,18 +1,17 @@
 ---
-title: "Paris 2 Batığı | Miras Haritası"
-date: 2025-12-25T08:32:57+03:00
+title: "Paris 2 Batığı"
+date: "2025-12-25T08:32:57+03:00"
 slug: "paris-2-batigi"
 description: "### Paris 2 Batığı: Kemer'de Yüzyıllar Öncesinden Kalan Gizemli Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.5863705,36.6022415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Paris 2 Batığı: Kemer'de Yüzyıllar Öncesinden Kalan Gizemli Sit

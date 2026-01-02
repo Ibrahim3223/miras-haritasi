@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Şehitleri Anıtı | Miras Haritası"
-date: 2025-12-25T14:11:01+03:00
+title: "Çanakkale Şehitleri Anıtı"
+date: "2025-12-25T14:11:01+03:00"
 slug: "canakkale-sehitleri-aniti"
 description: "## Çanakkale Şehitleri Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Onderkokturk-canakkale01.jpg/1200px-Onderkokturk-canakkale01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.21928,40.050164"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çanakkale Şehitleri Anıtı

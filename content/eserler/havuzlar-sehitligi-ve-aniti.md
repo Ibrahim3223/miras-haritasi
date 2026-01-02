@@ -1,18 +1,17 @@
 ---
-title: "Havuzlar Şehitliği ve Anıtı | Miras Haritası"
-date: 2025-12-25T15:58:59+03:00
+title: "Havuzlar Şehitliği ve Anıtı"
+date: "2025-12-25T15:58:59+03:00"
 slug: "havuzlar-sehitligi-ve-aniti"
 description: "## Havuzlar Şehitliği ve Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3557911,40.1322403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlar Şehitliği ve Anıtı

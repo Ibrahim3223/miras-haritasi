@@ -1,18 +1,17 @@
 ---
-title: "Ebe Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:48+03:00
+title: "Ebe Çeşmesi"
+date: "2025-12-25T11:42:48+03:00"
 slug: "ebe-cesmesi"
 description: "### Ebe Çeşmesi: Edirne'nin Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ebe_Çeşmesi.jpg/1200px-Ebe_Çeşmesi.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.5632057,41.6687431"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ebe Çeşmesi: Edirne'nin Gizli Çeşmesi

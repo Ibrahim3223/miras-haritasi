@@ -1,18 +1,17 @@
 ---
-title: "Karşıyaka Dedesi Türbesi | Miras Haritası"
-date: 2025-12-25T14:27:12+03:00
+title: "Karşıyaka Dedesi Türbesi"
+date: "2025-12-25T14:27:12+03:00"
 slug: "karsiyaka-dedesi-turbesi"
 description: "### Karşıyaka Dedesi Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Simav"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.982331,39.08333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karşıyaka Dedesi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Tahtalı Camii, Ulubey | Miras Haritası"
-date: 2025-12-24T23:16:53+03:00
+title: "Tahtalı Camii, Ulubey"
+date: "2025-12-24T23:16:53+03:00"
 slug: "tahtali-camii-ulubey"
 description: "## Tahtalı Camii, Ulubey..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2916279,38.421402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahtalı Camii, Ulubey

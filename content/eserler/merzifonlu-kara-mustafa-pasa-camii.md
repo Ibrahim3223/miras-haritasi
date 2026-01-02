@@ -1,18 +1,17 @@
 ---
-title: "Merzifonlu Kara Mustafa Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:54:08+03:00
+title: "Merzifonlu Kara Mustafa Paşa Camii"
+date: "2025-12-24T21:54:08+03:00"
 slug: "merzifonlu-kara-mustafa-pasa-camii"
 description: "## Merzifonlu Kara Mustafa Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kara_Mustafa_Pasa_Mosque.jpg/1200px-Kara_Mustafa_Pasa_Mosque.jpg"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.463888888,40.872694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Merzifonlu Kara Mustafa Paşa Camii

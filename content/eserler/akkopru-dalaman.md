@@ -1,18 +1,17 @@
 ---
-title: "Akköprü, Dalaman | Miras Haritası"
-date: 2025-12-25T03:03:48+03:00
+title: "Akköprü, Dalaman"
+date: "2025-12-25T03:03:48+03:00"
 slug: "akkopru-dalaman"
 description: "### Akköprü, Dalaman: Bir Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Dalaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.939705,36.91954"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akköprü, Dalaman: Bir Tarihi ve Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Gevher Nesibe Hatun Kümbeti | Miras Haritası"
-date: 2025-12-25T13:58:11+03:00
+title: "Gevher Nesibe Hatun Kümbeti"
+date: "2025-12-25T13:58:11+03:00"
 slug: "gevher-nesibe-hatun-kumbeti"
 description: "### Gevher Nesibe Hatun Kümbeti..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.484436,38.7241402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gevher Nesibe Hatun Kümbeti

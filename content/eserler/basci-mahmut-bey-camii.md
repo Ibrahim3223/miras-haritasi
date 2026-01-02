@@ -1,18 +1,17 @@
 ---
-title: "Başçı Mahmut Bey Camii | Miras Haritası"
-date: 2025-12-24T22:47:14+03:00
+title: "Başçı Mahmut Bey Camii"
+date: "2025-12-24T22:47:14+03:00"
 slug: "basci-mahmut-bey-camii"
 description: "## Başçı Mahmut Bey Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.940667,41.009629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başçı Mahmut Bey Camii

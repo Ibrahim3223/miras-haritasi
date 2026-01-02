@@ -1,18 +1,17 @@
 ---
-title: "Beşkilise | Miras Haritası"
-date: 2025-12-25T09:47:21+03:00
+title: "Beşkilise"
+date: "2025-12-25T09:47:21+03:00"
 slug: "beskilise"
 description: "## Beşkilise: Kars'ta Bir Manastırın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Khtzkonk_Monastery.jpg/1200px-Khtzkonk_Monastery.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.376389,40.380556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Beşkilise: Kars'ta Bir Manastırın Gizemi

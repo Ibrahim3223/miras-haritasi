@@ -1,18 +1,17 @@
 ---
-title: "Sancaktar Baba Hasan Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:52:11+03:00
+title: "Sancaktar Baba Hasan Ağa Kabri"
+date: "2025-12-25T13:52:11+03:00"
 slug: "sancaktar-baba-hasan-aga-kabri"
 description: "## Sancaktar Baba Hasan Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9521389,41.0129204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sancaktar Baba Hasan Ağa Kabri

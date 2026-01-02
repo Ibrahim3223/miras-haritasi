@@ -1,18 +1,17 @@
 ---
-title: "Efes Roma Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:58:28+03:00
+title: "Efes Roma Çeşmesi"
+date: "2025-12-25T11:58:28+03:00"
 slug: "efes-roma-cesmesi"
 description: "## Efes Roma Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3443737,37.9356461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Efes Roma Çeşmesi

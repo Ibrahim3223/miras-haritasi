@@ -1,18 +1,17 @@
 ---
-title: "Orduyeri Köprüsü | Miras Haritası"
-date: 2025-12-25T02:20:30+03:00
+title: "Orduyeri Köprüsü"
+date: "2025-12-25T02:20:30+03:00"
 slug: "orduyeri-koprusu"
 description: "## Orduyeri Köprüsü: Bartın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Bartın"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.3428345,41.6402397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orduyeri Köprüsü: Bartın'ın Tarihi ve Kültürel Mirası

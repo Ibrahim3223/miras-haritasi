@@ -1,18 +1,17 @@
 ---
-title: "Hıdırbaba Höyüğü | Miras Haritası"
-date: 2025-12-25T06:08:24+03:00
+title: "Hıdırbaba Höyüğü"
+date: "2025-12-25T06:08:24+03:00"
 slug: "hidirbaba-hoyugu"
 description: "### Hıdırbaba Höyüğü..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.9575729,38.7762947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hıdırbaba Höyüğü

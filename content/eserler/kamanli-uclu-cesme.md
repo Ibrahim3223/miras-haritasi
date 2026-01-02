@@ -1,18 +1,17 @@
 ---
-title: "Kamanlı Üçlü Çeşme | Miras Haritası"
-date: 2025-12-25T12:19:20+03:00
+title: "Kamanlı Üçlü Çeşme"
+date: "2025-12-25T12:19:20+03:00"
 slug: "kamanli-uclu-cesme"
 description: "## Kamanlı Üçlü Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7769737,38.3214722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kamanlı Üçlü Çeşme

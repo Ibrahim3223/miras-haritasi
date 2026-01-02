@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Erikli | Miras Haritası"
-date: 2025-12-25T03:01:22+03:00
+title: "Roma Köprüsü, Erikli"
+date: "2025-12-25T03:01:22+03:00"
 slug: "roma-koprusu-erikli"
 description: "## Roma Köprüsü, Erikli..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Araklı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.9510095,40.6069794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Erikli

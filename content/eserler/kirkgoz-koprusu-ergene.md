@@ -1,18 +1,17 @@
 ---
-title: "Kırkgöz Köprüsü, Ergene | Miras Haritası"
-date: 2025-12-25T02:59:13+03:00
+title: "Kırkgöz Köprüsü, Ergene"
+date: "2025-12-25T02:59:13+03:00"
 slug: "kirkgoz-koprusu-ergene"
 description: "# Kırkgöz Köprüsü: Ergene'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Ergene"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.662811,41.24231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kırkgöz Köprüsü: Ergene'nin Tarihi Bir Anıtı

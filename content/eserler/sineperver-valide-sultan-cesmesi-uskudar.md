@@ -1,18 +1,17 @@
 ---
-title: "Sineperver Valide Sultan Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T11:51:21+03:00
+title: "Sineperver Valide Sultan Çeşmesi, Üsküdar"
+date: "2025-12-25T11:51:21+03:00"
 slug: "sineperver-valide-sultan-cesmesi-uskudar"
 description: "### Sineperver Valide Sultan Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.014431,41.025223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sineperver Valide Sultan Çeşmesi, Üsküdar

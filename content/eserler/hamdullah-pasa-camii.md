@@ -1,18 +1,17 @@
 ---
-title: "Hamdullah Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:55:54+03:00
+title: "Hamdullah Paşa Camii"
+date: "2025-12-24T22:55:54+03:00"
 slug: "hamdullah-pasa-camii"
 description: "### Hamdullah Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hamdullah_Paşa_Camii_IMG_3756.jpg/1200px-Hamdullah_Paşa_Camii_IMG_3756.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0528983,41.05012"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hamdullah Paşa Camii

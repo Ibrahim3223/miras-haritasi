@@ -1,18 +1,17 @@
 ---
-title: "Gevherhan Sultan Medresesi | Miras Haritası"
-date: 2025-12-25T17:29:46+03:00
+title: "Gevherhan Sultan Medresesi"
+date: "2025-12-25T17:29:46+03:00"
 slug: "gevherhan-sultan-medresesi"
 description: "### Gevherhan Sultan Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9444997,41.0080001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gevherhan Sultan Medresesi

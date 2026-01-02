@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Yunus Emre Türbesi | Miras Haritası"
-date: 2025-12-25T13:38:04+03:00
+title: "Şeyh Yunus Emre Türbesi"
+date: "2025-12-25T13:38:04+03:00"
 slug: "seyh-yunus-emre-turbesi"
 description: "## Şeyh Yunus Emre Türbesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.243611111,41.119416666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Yunus Emre Türbesi

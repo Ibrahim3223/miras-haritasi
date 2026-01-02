@@ -1,18 +1,17 @@
 ---
-title: "Fethiye Höyük | Miras Haritası"
-date: 2025-12-25T06:08:43+03:00
+title: "Fethiye Höyük"
+date: "2025-12-25T06:08:43+03:00"
 slug: "fethiye-hoyuk"
 description: "## Fethiye Höyük..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yazıhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1330109,38.625309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fethiye Höyük

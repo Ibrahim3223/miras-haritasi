@@ -1,18 +1,17 @@
 ---
-title: "Hz. Zülkifl Türbesi | Miras Haritası"
-date: 2025-12-25T14:14:52+03:00
+title: "Hz. Zülkifl Türbesi"
+date: "2025-12-25T14:14:52+03:00"
 slug: "hz-zulkifl-turbesi"
 description: "## Hz. Zülkifl Türbesi: Diyarbakır'ın Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Eğil"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.0989,38.253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hz. Zülkifl Türbesi: Diyarbakır'ın Kültürel Mirasının Gizemi

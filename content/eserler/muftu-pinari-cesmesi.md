@@ -1,18 +1,17 @@
 ---
-title: "Müftü Pınarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:33:25+03:00
+title: "Müftü Pınarı Çeşmesi"
+date: "2025-12-25T11:33:25+03:00"
 slug: "muftu-pinari-cesmesi"
 description: "## Müftü Pınarı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Müftü_Pınarı_Çeşmesi.jpg/1200px-Müftü_Pınarı_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6701164,41.2618942"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Müftü Pınarı Çeşmesi

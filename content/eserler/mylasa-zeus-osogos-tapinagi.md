@@ -1,18 +1,17 @@
 ---
-title: "Mylasa Zeus Osogos Tapınağı | Miras Haritası"
-date: 2025-12-25T08:40:37+03:00
+title: "Mylasa Zeus Osogos Tapınağı"
+date: "2025-12-25T08:40:37+03:00"
 slug: "mylasa-zeus-osogos-tapinagi"
 description: "## Mylasa Zeus Osogos Tapınağı: Milas'taki Antik Bir Miras..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.7757969,37.3120995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mylasa Zeus Osogos Tapınağı: Milas'taki Antik Bir Miras

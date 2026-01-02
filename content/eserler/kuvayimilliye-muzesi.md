@@ -1,18 +1,17 @@
 ---
-title: "Kuvayımilliye Müzesi | Miras Haritası"
-date: 2025-12-25T03:41:14+03:00
+title: "Kuvayımilliye Müzesi"
+date: "2025-12-25T03:41:14+03:00"
 slug: "kuvayimilliye-muzesi"
 description: "## Kuvayımilliye Müzesi: Aydın'ın Kültür ve Tarih Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.0648746,37.6093597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuvayımilliye Müzesi: Aydın'ın Kültür ve Tarih Mirası

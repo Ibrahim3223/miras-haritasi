@@ -1,18 +1,17 @@
 ---
-title: "Zeytinlik Camii | Miras Haritası"
-date: 2025-12-25T00:48:15+03:00
+title: "Zeytinlik Camii"
+date: "2025-12-25T00:48:15+03:00"
 slug: "zeytinlik-camii"
 description: "## Zeytinlik Camii..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeytinlik Camii

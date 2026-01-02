@@ -1,18 +1,17 @@
 ---
-title: "Siyavuş Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T13:57:07+03:00
+title: "Siyavuş Sultan Türbesi"
+date: "2025-12-25T13:57:07+03:00"
 slug: "siyavus-sultan-turbesi"
 description: "## Siyavuş Sultan Türbesi: Karatay'ın Gizli Çekeci..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5020828,37.8690567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siyavuş Sultan Türbesi: Karatay'ın Gizli Çekeci

@@ -1,18 +1,17 @@
 ---
-title: "Müzadere Kilisesi Mesudiye | Miras Haritası"
-date: 2025-12-25T09:44:16+03:00
+title: "Müzadere Kilisesi Mesudiye"
+date: "2025-12-25T09:44:16+03:00"
 slug: "muzadere-kilisesi-mesudiye"
 description: "## Müzadere Kilisesi Mesudiye..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Mesudiye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.794985,40.598056"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müzadere Kilisesi Mesudiye

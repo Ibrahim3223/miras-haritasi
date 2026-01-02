@@ -1,18 +1,17 @@
 ---
-title: "Milet Türk Hamamı | Miras Haritası"
-date: 2025-12-25T16:58:20+03:00
+title: "Milet Türk Hamamı"
+date: "2025-12-25T16:58:20+03:00"
 slug: "milet-turk-hamami"
 description: "## Milet Türk Hamamı: Efsanevi Bir Mirasın Gerçek Yüzü..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.2805233,37.5295753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milet Türk Hamamı: Efsanevi Bir Mirasın Gerçek Yüzü

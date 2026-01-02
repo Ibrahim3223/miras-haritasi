@@ -1,18 +1,17 @@
 ---
-title: "Canbaziye Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:49:24+03:00
+title: "Canbaziye Camii Çeşmesi"
+date: "2025-12-25T11:49:24+03:00"
 slug: "canbaziye-camii-cesmesi"
 description: "## Canbaziye Camii Çeşmesi: Aksaray'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9432507,41.0073814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canbaziye Camii Çeşmesi: Aksaray'ın Tarihi ve Kültürel Mirası

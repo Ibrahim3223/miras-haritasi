@@ -1,18 +1,17 @@
 ---
-title: "Partenium (Mysia) | Miras Haritası"
-date: 2025-12-25T04:38:49+03:00
+title: "Partenium (Mysia)"
+date: "2025-12-25T04:38:49+03:00"
 slug: "partenium-mysia"
 description: "## Partenium (Mysia): Tarihi Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.335,39.218055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Partenium (Mysia): Tarihi Mirasın Gizemi

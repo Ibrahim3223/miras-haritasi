@@ -1,18 +1,17 @@
 ---
-title: "Edirne Türk-İslam Eserleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:39:54+03:00
+title: "Edirne Türk-İslam Eserleri Müzesi"
+date: "2025-12-25T03:39:54+03:00"
 slug: "edirne-turk-islam-eserleri-muzesi"
 description: "## Edirne Türk-İslam Eserleri Müzesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Edirne Türk-İslam Eserleri Müzesi

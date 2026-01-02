@@ -1,18 +1,17 @@
 ---
-title: "Halıdere Yalı Camii | Miras Haritası"
-date: 2025-12-24T23:31:19+03:00
+title: "Halıdere Yalı Camii"
+date: "2025-12-24T23:31:19+03:00"
 slug: "halidere-yali-camii"
 description: "### Halıdere Yalı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.7576771,40.716629"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halıdere Yalı Camii

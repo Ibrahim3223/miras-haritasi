@@ -1,18 +1,17 @@
 ---
-title: "Thyssanus | Miras Haritası"
-date: 2025-12-25T04:53:53+03:00
+title: "Thyssanus"
+date: "2025-12-25T04:53:53+03:00"
 slug: "thyssanus"
 description: "## Thyssanus: Antik Uygarlığının İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.10694,36.65475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Thyssanus: Antik Uygarlığının İzleri

@@ -1,18 +1,17 @@
 ---
-title: "Reisler Camii ve Türbesi, Demirci | Miras Haritası"
-date: 2025-12-25T00:08:10+03:00
+title: "Reisler Camii ve Türbesi, Demirci"
+date: "2025-12-25T00:08:10+03:00"
 slug: "reisler-camii-ve-turbesi-demirci"
 description: "## Reisler Camii ve Türbesi, Demirci..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Demirci"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6372261,39.0044403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Reisler Camii ve Türbesi, Demirci

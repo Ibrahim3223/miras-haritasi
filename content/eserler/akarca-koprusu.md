@@ -1,18 +1,17 @@
 ---
-title: "Akarca Köprüsü | Miras Haritası"
-date: 2025-12-25T02:11:11+03:00
+title: "Akarca Köprüsü"
+date: "2025-12-25T02:11:11+03:00"
 slug: "akarca-koprusu"
 description: "### Akarca Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.922027777,41.335222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akarca Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Taşkın Paşa Kümbeti | Miras Haritası"
-date: 2025-12-25T13:52:39+03:00
+title: "Taşkın Paşa Kümbeti"
+date: "2025-12-25T13:52:39+03:00"
 slug: "taskin-pasa-kumbeti"
 description: "### Taşkın Paşa Kümbeti..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.947113,38.4918747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taşkın Paşa Kümbeti

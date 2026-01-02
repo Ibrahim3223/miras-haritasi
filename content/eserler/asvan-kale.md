@@ -1,18 +1,17 @@
 ---
-title: "Aşvan Kale | Miras Haritası"
-date: 2025-12-25T07:02:18+03:00
+title: "Aşvan Kale"
+date: "2025-12-25T07:02:18+03:00"
 slug: "asvan-kale"
 description: "# Aşvan Kale..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aşvan Kale

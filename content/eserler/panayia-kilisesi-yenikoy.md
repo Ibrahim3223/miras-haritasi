@@ -1,18 +1,17 @@
 ---
-title: "Panayia Kilisesi (Yeniköy) | Miras Haritası"
-date: 2025-12-25T08:55:56+03:00
+title: "Panayia Kilisesi (Yeniköy)"
+date: "2025-12-25T08:55:56+03:00"
 slug: "panayia-kilisesi-yenikoy"
 description: "## Panayia Kilisesi (Yeniköy)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.070583333,41.122805555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panayia Kilisesi (Yeniköy)

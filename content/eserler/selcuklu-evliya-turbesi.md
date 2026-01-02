@@ -1,18 +1,17 @@
 ---
-title: "Selçuklu Evliya Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:03+03:00
+title: "Selçuklu Evliya Türbesi"
+date: "2025-12-25T15:20:03+03:00"
 slug: "selcuklu-evliya-turbesi"
 description: "## Selçuklu Evliya Türbesi: Kars'ta Bir Türk Tarihinin Eşiğindeki Anıtsal Yapı..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.9597168,40.5556183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selçuklu Evliya Türbesi: Kars'ta Bir Türk Tarihinin Eşiğindeki Anıtsal Yapı

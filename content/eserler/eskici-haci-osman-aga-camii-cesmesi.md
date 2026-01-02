@@ -1,18 +1,17 @@
 ---
-title: "Eskici Hacı Osman Ağa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:01+03:00
+title: "Eskici Hacı Osman Ağa Camii Çeşmesi"
+date: "2025-12-25T11:37:01+03:00"
 slug: "eskici-haci-osman-aga-camii-cesmesi"
 description: "### Eskici Hacı Osman Ağa Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5165215,37.8743286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eskici Hacı Osman Ağa Camii Çeşmesi

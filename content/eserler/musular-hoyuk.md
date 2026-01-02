@@ -1,18 +1,17 @@
 ---
-title: "Musular Höyük | Miras Haritası"
-date: 2025-12-25T06:30:41+03:00
+title: "Musular Höyük"
+date: "2025-12-25T06:30:41+03:00"
 slug: "musular-hoyuk"
 description: "### Musular Höyük: Aksaray'da Gizli Bir Geçmiş..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.2262872,38.3472475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Musular Höyük: Aksaray'da Gizli Bir Geçmiş

@@ -1,18 +1,17 @@
 ---
-title: "Firuz Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T16:39:15+03:00
+title: "Firuz Ağa Hamamı"
+date: "2025-12-25T16:39:15+03:00"
 slug: "firuz-aga-hamami"
 description: "## Firuz Ağa Hamamı: İstanbulluğun Gizli Çehresini Açığa Çıkaran Tarihi Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.979533,41.030388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Firuz Ağa Hamamı: İstanbulluğun Gizli Çehresini Açığa Çıkaran Tarihi Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "Gölcükler Camii | Miras Haritası"
-date: 2025-12-24T23:02:55+03:00
+title: "Gölcükler Camii"
+date: "2025-12-24T23:02:55+03:00"
 slug: "golcukler-camii"
 description: "### Gölcükler Camii: İzmir'in Tarihi ve Mimari Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.143961,38.261158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gölcükler Camii: İzmir'in Tarihi ve Mimari Mirası

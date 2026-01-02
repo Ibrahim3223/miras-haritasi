@@ -1,18 +1,17 @@
 ---
-title: "Kahramanmaraş Abdülhamid Han Camii | Miras Haritası"
-date: 2025-12-24T21:41:37+03:00
+title: "Kahramanmaraş Abdülhamid Han Camii"
+date: "2025-12-24T21:41:37+03:00"
 slug: "kahramanmaras-abdulhamid-han-camii"
 description: "## Kahramanmaraş Abdülhamid Han Camii..."
 featured_image: ""
 province: "Onikişubat"
-iller: ["Onikişubat"]
+iller: '["Onikişubat"]'
 district: "Abdülhamid Han"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.909666666,37.581027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kahramanmaraş Abdülhamid Han Camii

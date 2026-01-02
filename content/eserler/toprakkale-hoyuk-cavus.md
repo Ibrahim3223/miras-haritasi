@@ -1,18 +1,17 @@
 ---
-title: "Toprakkale Höyük, Çavuş | Miras Haritası"
-date: 2025-12-25T06:11:36+03:00
+title: "Toprakkale Höyük, Çavuş"
+date: "2025-12-25T06:11:36+03:00"
 slug: "toprakkale-hoyuk-cavus"
 description: "### Toprakkale Höyük: Erzincan'da Bir Tarih Ören Yeri..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Refahiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.6654091,39.9725227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Toprakkale Höyük: Erzincan'da Bir Tarih Ören Yeri

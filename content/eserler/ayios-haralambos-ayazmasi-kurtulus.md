@@ -1,18 +1,17 @@
 ---
-title: "Ayios Haralambos Ayazması, Kurtuluş | Miras Haritası"
-date: 2025-12-25T12:42:34+03:00
+title: "Ayios Haralambos Ayazması, Kurtuluş"
+date: "2025-12-25T12:42:34+03:00"
 slug: "ayios-haralambos-ayazmasi-kurtulus"
 description: "## Ayios Haralambos Ayazması, Kurtuluş..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9773216,41.0446663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Haralambos Ayazması, Kurtuluş

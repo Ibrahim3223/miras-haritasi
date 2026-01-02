@@ -1,18 +1,17 @@
 ---
-title: "Uzunköprü Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:36:46+03:00
+title: "Uzunköprü Sınır Kapısı"
+date: "2025-12-25T08:36:46+03:00"
 slug: "uzunkopru-sinir-kapisi"
 description: "## Uzunköprü Sınır Kapısı: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "26.63102,41.36209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzunköprü Sınır Kapısı: Tarihi ve Kültürel Mirası

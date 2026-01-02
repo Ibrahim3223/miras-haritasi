@@ -1,18 +1,17 @@
 ---
-title: "İlhan Selçuk Heykeli | Miras Haritası"
-date: 2025-12-25T16:09:41+03:00
+title: "İlhan Selçuk Heykeli"
+date: "2025-12-25T16:09:41+03:00"
 slug: "ilhan-selcuk-heykeli"
 description: "## İlhan Selçuk Heykeli: Kadıköy'ün Yürekli Yarası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0537853,40.9792747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlhan Selçuk Heykeli: Kadıköy'ün Yürekli Yarası

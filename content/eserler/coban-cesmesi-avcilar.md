@@ -1,18 +1,17 @@
 ---
-title: "Çoban Çeşmesi (Avcılar) | Miras Haritası"
-date: 2025-12-25T11:53:23+03:00
+title: "Çoban Çeşmesi (Avcılar)"
+date: "2025-12-25T11:53:23+03:00"
 slug: "coban-cesmesi-avcilar"
 description: "### Çoban Çeşmesi (Avcılar)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Avcılar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.744547,40.98297"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çoban Çeşmesi (Avcılar)

@@ -1,18 +1,17 @@
 ---
-title: "Trarium | Miras Haritası"
-date: 2025-12-25T05:00:36+03:00
+title: "Trarium"
+date: "2025-12-25T05:00:36+03:00"
 slug: "trarium"
 description: "### Trarium: Bergama'nın Gizli Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Trarium: Bergama'nın Gizli Mirası

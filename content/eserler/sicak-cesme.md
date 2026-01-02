@@ -1,18 +1,17 @@
 ---
-title: "Sıcak Çeşme | Miras Haritası"
-date: 2025-12-25T10:19:55+03:00
+title: "Sıcak Çeşme"
+date: "2025-12-25T10:19:55+03:00"
 slug: "sicak-cesme"
 description: "**Sıcak Çeşme: Kütahya'nın Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9754143,39.4162827"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sıcak Çeşme: Kütahya'nın Tarihi ve Kültürel Mirası**

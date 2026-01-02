@@ -1,18 +1,17 @@
 ---
-title: "Ağa Kuşçusu Nevşehirli Yusuf Ağa ve Dergâh-ı Âli Çavuşlarından Salih Ağa Kabirleri | Miras Haritası"
-date: 2025-12-25T13:29:58+03:00
+title: "Ağa Kuşçusu Nevşehirli Yusuf Ağa ve Dergâh-ı Âli Çavuşlarından Salih Ağa Kabirleri"
+date: "2025-12-25T13:29:58+03:00"
 slug: "aga-kuscusu-nevsehirli-yusuf-aga-ve-dergh-i-li-cavuslarindan-salih-aga-kabirleri"
 description: "### Ağa Kuşçusu Nevşehirli Yusuf Ağa ve Dergâh-ı Âli Çavuşlarından Salih Ağa Kabirleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0306377,40.9981956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağa Kuşçusu Nevşehirli Yusuf Ağa ve Dergâh-ı Âli Çavuşlarından Salih Ağa Kabirleri

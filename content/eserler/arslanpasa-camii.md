@@ -1,18 +1,17 @@
 ---
-title: "Arslanpaşa Camii | Miras Haritası"
-date: 2025-12-24T22:14:26+03:00
+title: "Arslanpaşa Camii"
+date: "2025-12-24T22:14:26+03:00"
 slug: "arslanpasa-camii"
 description: "## Arslanpaşa Camii: Erzurum'un Tarihi Bir Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.996891,40.5446358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arslanpaşa Camii: Erzurum'un Tarihi Bir Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Çifte Minareli Medrese Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:28+03:00
+title: "Çifte Minareli Medrese Çeşmesi"
+date: "2025-12-25T11:42:28+03:00"
 slug: "cifte-minareli-medrese-cesmesi"
 description: "## Çifte Minareli Medrese Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2784691,39.9058914"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çifte Minareli Medrese Çeşmesi

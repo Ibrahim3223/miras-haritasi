@@ -1,18 +1,17 @@
 ---
-title: "Maiboza/Julia | Miras Haritası"
-date: 2025-12-25T08:30:00+03:00
+title: "Maiboza/Julia"
+date: "2025-12-25T08:30:00+03:00"
 slug: "maibozajulia"
 description: "## Maiboza/Julia: Gölmarmara'nın Gizli Klasığı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9285,38.6811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maiboza/Julia: Gölmarmara'nın Gizli Klasığı

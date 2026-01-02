@@ -1,18 +1,17 @@
 ---
-title: "On Sekiz Sekbanlar Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:42+03:00
+title: "On Sekiz Sekbanlar Şehitliği"
+date: "2025-12-25T16:03:42+03:00"
 slug: "on-sekiz-sekbanlar-sehitligi"
 description: "## On Sekiz Sekbanlar Şehitliği: Fatih'te Bir Anıtın Tarihi Öyküsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.956005,41.012941"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## On Sekiz Sekbanlar Şehitliği: Fatih'te Bir Anıtın Tarihi Öyküsü

@@ -1,18 +1,17 @@
 ---
-title: "Hisarköy, Kiraz | Miras Haritası"
-date: 2025-12-25T05:54:35+03:00
+title: "Hisarköy, Kiraz"
+date: "2025-12-25T05:54:35+03:00"
 slug: "hisarkoy-kiraz"
 description: "### Hisarköy, Kiraz: İzmir'in Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kiraz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.190317,38.241817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hisarköy, Kiraz: İzmir'in Gizli Arkeolojik Harikası

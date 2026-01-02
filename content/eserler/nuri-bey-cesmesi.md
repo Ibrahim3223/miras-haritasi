@@ -1,18 +1,17 @@
 ---
-title: "Nuri Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:23+03:00
+title: "Nuri Bey Çeşmesi"
+date: "2025-12-25T11:20:23+03:00"
 slug: "nuri-bey-cesmesi"
 description: "## Nuri Bey Çeşmesi: Beşiktaş'ta Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nuri_Bey_Fountain_2,_Beşiktaş,_İstanbul_2023.jpg/1200px-Nuri_Bey_Fountain_2,_Beşiktaş,_İstanbul_2023.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.010587,41.045351"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nuri Bey Çeşmesi: Beşiktaş'ta Bir Ölümsüz

@@ -1,18 +1,17 @@
 ---
-title: "Belsöğüt Köyü Çeşmesi, Ilgaz | Miras Haritası"
-date: 2025-12-25T12:30:54+03:00
+title: "Belsöğüt Köyü Çeşmesi, Ilgaz"
+date: "2025-12-25T12:30:54+03:00"
 slug: "belsogut-koyu-cesmesi-ilgaz"
 description: "## Belsöğüt Köyü Çeşmesi: Ilgaz'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Ilgaz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.601531942,40.947357801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belsöğüt Köyü Çeşmesi: Ilgaz'ın Tarihi ve Kültürel Mirası

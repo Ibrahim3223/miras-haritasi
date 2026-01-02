@@ -1,18 +1,17 @@
 ---
-title: "II. Abdülhamit Çeşmesi, Kağıthane | Miras Haritası"
-date: 2025-12-25T11:51:53+03:00
+title: "II. Abdülhamit Çeşmesi, Kağıthane"
+date: "2025-12-25T11:51:53+03:00"
 slug: "ii-abdulhamit-cesmesi-kagithane"
 description: "### II. Abdülhamit Çeşmesi, Kağıthane..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kağıthane"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.975224,41.079594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### II. Abdülhamit Çeşmesi, Kağıthane

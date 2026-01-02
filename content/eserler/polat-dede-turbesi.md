@@ -1,18 +1,17 @@
 ---
-title: "Polat Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:07+03:00
+title: "Polat Dede Türbesi"
+date: "2025-12-25T14:18:07+03:00"
 slug: "polat-dede-turbesi"
 description: "## Polat Dede Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.3913,37.0574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Polat Dede Türbesi

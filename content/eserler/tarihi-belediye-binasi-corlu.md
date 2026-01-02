@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Belediye Binası, Çorlu | Miras Haritası"
-date: 2025-12-25T03:39:58+03:00
+title: "Tarihi Belediye Binası, Çorlu"
+date: "2025-12-25T03:39:58+03:00"
 slug: "tarihi-belediye-binasi-corlu"
 description: "## Tarihi Belediye Binası, Çorlu..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.7990093,41.1626587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Belediye Binası, Çorlu

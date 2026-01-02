@@ -1,18 +1,17 @@
 ---
-title: "Horum Höyük | Miras Haritası"
-date: 2025-12-25T07:07:15+03:00
+title: "Horum Höyük"
+date: "2025-12-25T07:07:15+03:00"
 slug: "horum-hoyuk"
 description: "### Horum Höyük: Geçmişten Günümüze Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Horum Höyük: Geçmişten Günümüze Bir Arkeolojik Sit

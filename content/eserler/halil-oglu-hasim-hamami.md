@@ -1,18 +1,17 @@
 ---
-title: "Halil Oğlu Haşim Hamamı | Miras Haritası"
-date: 2025-12-25T16:49:45+03:00
+title: "Halil Oğlu Haşim Hamamı"
+date: "2025-12-25T16:49:45+03:00"
 slug: "halil-oglu-hasim-hamami"
 description: "## Halil Oğlu Haşim Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.9182014,38.7041397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Oğlu Haşim Hamamı

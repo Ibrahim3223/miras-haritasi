@@ -1,18 +1,17 @@
 ---
-title: "Kars Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:06:37+03:00
+title: "Kars Ulu Camii"
+date: "2025-12-24T22:06:37+03:00"
 slug: "kars-ulu-camii"
 description: "## Kars Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kars,_veduta_dal_torrente_kars_verso_ulu_camii.jpg/1200px-Kars,_veduta_dal_torrente_kars_verso_ulu_camii.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.092055555,40.612027777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kars Ulu Camii

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Tekeli | Miras Haritası"
-date: 2025-12-25T03:00:59+03:00
+title: "Roma Köprüsü, Tekeli"
+date: "2025-12-25T03:00:59+03:00"
 slug: "roma-koprusu-tekeli"
 description: "## Roma Köprüsü, Tekeli: Tarihî Bir Mirasın İncelemesi..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Kadirli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.914932,37.236008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Tekeli: Tarihî Bir Mirasın İncelemesi

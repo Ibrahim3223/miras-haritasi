@@ -1,18 +1,17 @@
 ---
-title: "Göllüce Köyü Çeşmesi, Kurşunlu | Miras Haritası"
-date: 2025-12-25T12:33:01+03:00
+title: "Göllüce Köyü Çeşmesi, Kurşunlu"
+date: "2025-12-25T12:33:01+03:00"
 slug: "golluce-koyu-cesmesi-kursunlu"
 description: "## Göllüce Köyü Çeşmesi: Kurşunlu'daki Bir Önemli Tarihi Anıt..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.406824239,40.814599422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göllüce Köyü Çeşmesi: Kurşunlu'daki Bir Önemli Tarihi Anıt

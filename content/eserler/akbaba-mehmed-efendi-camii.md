@@ -1,18 +1,17 @@
 ---
-title: "Akbaba Mehmed Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:22:32+03:00
+title: "Akbaba Mehmed Efendi Camii"
+date: "2025-12-24T22:22:32+03:00"
 slug: "akbaba-mehmed-efendi-camii"
 description: "## Akbaba Mehmed Efendi Camii: Fatih'in Gizli Çehresini Keşfeden Bir Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Akbaba_mehmed_efendi_cami.jpg/1200px-Akbaba_mehmed_efendi_cami.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Seyyid Ömer"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.937888888,41.010277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akbaba Mehmed Efendi Camii: Fatih'in Gizli Çehresini Keşfeden Bir Cami

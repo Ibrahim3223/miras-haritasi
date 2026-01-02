@@ -1,18 +1,17 @@
 ---
-title: "Asartepe Castle,  Atburgazı, Söke | Miras Haritası"
-date: 2025-12-25T01:19:03+03:00
+title: "Asartepe Castle,  Atburgazı, Söke"
+date: "2025-12-25T01:19:03+03:00"
 slug: "asartepe-castle-atburgazi-soke"
 description: "### Asartepe Kalesi: Söke'nin Tarihi Eşiği..."
 featured_image: ""
 province: "Söke İlçesi"
-iller: ["Söke İlçesi"]
+iller: '["Söke İlçesi"]'
 district: "Atburgazı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Asartepe Kalesi: Söke'nin Tarihi Eşiği

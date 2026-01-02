@@ -1,18 +1,17 @@
 ---
-title: "Meydan Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:22:13+03:00
+title: "Meydan Köyü Camii"
+date: "2025-12-25T00:22:13+03:00"
 slug: "meydan-koyu-camii"
 description: "**Meydan Köyü Camii: Tarihi ve Kültürel Mirasımız**..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.929863632,40.891650318"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Meydan Köyü Camii: Tarihi ve Kültürel Mirasımız**

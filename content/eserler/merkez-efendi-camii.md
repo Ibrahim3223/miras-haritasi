@@ -1,18 +1,17 @@
 ---
-title: "Merkez Efendi Camii | Miras Haritası"
-date: 2025-12-24T21:47:49+03:00
+title: "Merkez Efendi Camii"
+date: "2025-12-24T21:47:49+03:00"
 slug: "merkez-efendi-camii"
 description: "## Merkez Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Merkez_Efendi_Cami.jpg/1200px-Merkez_Efendi_Cami.jpg"
-province: "Zeytinburnu"
-iller: ["Zeytinburnu"]
-district: "Merkezefendi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Zeytinburnu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.92025,41.015833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Merkez Efendi Camii

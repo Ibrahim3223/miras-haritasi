@@ -1,18 +1,17 @@
 ---
-title: "Kızılin Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:34+03:00
+title: "Kızılin Köprüsü"
+date: "2025-12-25T02:30:34+03:00"
 slug: "kizilin-koprusu"
 description: "## Kızılin Köprüsü: Adıyaman'ın Eski ve Gizemli Köprüsü..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.16325,37.44608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılin Köprüsü: Adıyaman'ın Eski ve Gizemli Köprüsü

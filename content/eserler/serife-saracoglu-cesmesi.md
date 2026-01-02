@@ -1,18 +1,17 @@
 ---
-title: "Şerife Saraçoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:05:49+03:00
+title: "Şerife Saraçoğlu Çeşmesi"
+date: "2025-12-25T12:05:49+03:00"
 slug: "serife-saracoglu-cesmesi"
 description: "## Şerife Saraçoğlu Çeşmesi: Ödemiş'in Tarihi Büyüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.9652004,38.2238007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şerife Saraçoğlu Çeşmesi: Ödemiş'in Tarihi Büyüsü

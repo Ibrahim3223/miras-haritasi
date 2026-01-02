@@ -1,18 +1,17 @@
 ---
-title: "Çaldıratmaz Mevkii | Miras Haritası"
-date: 2025-12-25T05:32:26+03:00
+title: "Çaldıratmaz Mevkii"
+date: "2025-12-25T05:32:26+03:00"
 slug: "caldiratmaz-mevkii"
 description: "## Çaldıratmaz Mevkii: Afyonkarahisar'ın Gizli Zenginliği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bolvadin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.081349,38.722353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaldıratmaz Mevkii: Afyonkarahisar'ın Gizli Zenginliği

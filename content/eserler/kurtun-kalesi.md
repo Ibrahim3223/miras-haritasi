@@ -1,18 +1,17 @@
 ---
-title: "Kürtün Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:51+03:00
+title: "Kürtün Kalesi"
+date: "2025-12-25T01:26:51+03:00"
 slug: "kurtun-kalesi"
 description: "**Kürtün Kalesi: Gümüşhane'nin Gizli Cenneti**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kürtün"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.1194458,40.7008324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kürtün Kalesi: Gümüşhane'nin Gizli Cenneti**

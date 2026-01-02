@@ -1,18 +1,17 @@
 ---
-title: "Adam Mickiewicz Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:58+03:00
+title: "Adam Mickiewicz Müzesi"
+date: "2025-12-25T03:14:58+03:00"
 slug: "adam-mickiewicz-muzesi"
 description: "## Adam Mickiewicz Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Musée_Adam_Mickiewicz_à_Istanbul.jpg/1200px-Musée_Adam_Mickiewicz_à_Istanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9771,41.038777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Adam Mickiewicz Müzesi

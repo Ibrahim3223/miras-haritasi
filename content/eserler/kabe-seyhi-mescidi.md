@@ -1,18 +1,17 @@
 ---
-title: "Kabe Şeyhi Mescidi | Miras Haritası"
-date: 2025-12-24T23:38:17+03:00
+title: "Kabe Şeyhi Mescidi"
+date: "2025-12-24T23:38:17+03:00"
 slug: "kabe-seyhi-mescidi"
 description: "### Kabe Şeyhi Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2737808,39.9102554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kabe Şeyhi Mescidi

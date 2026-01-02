@@ -1,18 +1,17 @@
 ---
-title: "Kapılıkaya Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T08:13:51+03:00
+title: "Kapılıkaya Kaya Mezarı"
+date: "2025-12-25T08:13:51+03:00"
 slug: "kapilikaya-kaya-mezari"
 description: "## Kapılıkaya Kaya Mezarı: Çorum'da Bir Ölümsüz Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kırkdilim_kapılıkaya.jpg/1200px-Kırkdilim_kapılıkaya.jpg"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Laçin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.9104274,40.7565548"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kapılıkaya Kaya Mezarı: Çorum'da Bir Ölümsüz Miras

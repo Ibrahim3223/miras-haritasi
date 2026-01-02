@@ -1,18 +1,17 @@
 ---
-title: "Mettius Modestus takı | Miras Haritası"
-date: 2025-12-25T08:24:45+03:00
+title: "Mettius Modestus takı"
+date: "2025-12-25T08:24:45+03:00"
 slug: "mettius-modestus-taki"
 description: "## Mettius Modestus Takı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MettiusModestusArch.jpg/1200px-MettiusModestusArch.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.318528,36.265578"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mettius Modestus Takı

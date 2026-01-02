@@ -1,18 +1,17 @@
 ---
-title: "Uzun Yusuf Kabri | Miras Haritası"
-date: 2025-12-25T13:26:36+03:00
+title: "Uzun Yusuf Kabri"
+date: "2025-12-25T13:26:36+03:00"
 slug: "uzun-yusuf-kabri"
 description: "## Uzun Yusuf Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9280853,41.0104713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzun Yusuf Kabri

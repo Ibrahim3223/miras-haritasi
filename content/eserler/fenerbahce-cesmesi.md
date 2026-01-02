@@ -1,18 +1,17 @@
 ---
-title: "Fenerbahçe Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:17+03:00
+title: "Fenerbahçe Çeşmesi"
+date: "2025-12-25T11:15:17+03:00"
 slug: "fenerbahce-cesmesi"
 description: "# Fenerbahçe Çeşmesi..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Fenerbahçe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.036466,40.96931"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Fenerbahçe Çeşmesi

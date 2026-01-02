@@ -1,18 +1,17 @@
 ---
-title: "Kılıç Ali Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:56:48+03:00
+title: "Kılıç Ali Paşa Kütüphanesi"
+date: "2025-12-25T17:56:48+03:00"
 slug: "kilic-ali-pasa-kutuphanesi"
 description: "## Kılıç Ali Paşa Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılıç Ali Paşa Kütüphanesi

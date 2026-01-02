@@ -1,18 +1,17 @@
 ---
-title: "Battalgazi Köprüsü | Miras Haritası"
-date: 2025-12-25T01:57:57+03:00
+title: "Battalgazi Köprüsü"
+date: "2025-12-25T01:57:57+03:00"
 slug: "battalgazi-koprusu"
 description: "## Battalgazi Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.3505,38.2711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Battalgazi Köprüsü: Tarihi ve Kültürel Miras

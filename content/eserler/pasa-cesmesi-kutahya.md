@@ -1,18 +1,17 @@
 ---
-title: "Paşa Çeşmesi, Kütahya | Miras Haritası"
-date: 2025-12-25T12:22:19+03:00
+title: "Paşa Çeşmesi, Kütahya"
+date: "2025-12-25T12:22:19+03:00"
 slug: "pasa-cesmesi-kutahya"
 description: "## Paşa Çeşmesi, Kütahya..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9873562,39.4175377"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Çeşmesi, Kütahya

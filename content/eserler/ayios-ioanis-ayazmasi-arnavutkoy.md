@@ -1,18 +1,17 @@
 ---
-title: "Ayios Ioanis Ayazması, Arnavutköy | Miras Haritası"
-date: 2025-12-25T12:44:18+03:00
+title: "Ayios Ioanis Ayazması, Arnavutköy"
+date: "2025-12-25T12:44:18+03:00"
 slug: "ayios-ioanis-ayazmasi-arnavutkoy"
 description: "## Ayios Ioanis Ayazması, Arnavutköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0402107,41.0632019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Ioanis Ayazması, Arnavutköy

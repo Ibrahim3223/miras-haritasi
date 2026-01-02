@@ -1,18 +1,17 @@
 ---
-title: "Yüksek Kilise | Miras Haritası"
-date: 2025-12-25T08:45:36+03:00
+title: "Yüksek Kilise"
+date: "2025-12-25T08:45:36+03:00"
 slug: "yuksek-kilise"
 description: "## Yüksek Kilise: Güzelyurt'un Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/YüksekKilise.jpg/1200px-YüksekKilise.jpg"
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Güzelyurt"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.3504416,38.2734295"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yüksek Kilise: Güzelyurt'un Kültürel Mirası

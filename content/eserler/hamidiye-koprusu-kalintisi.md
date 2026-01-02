@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Köprüsü Kalıntısı | Miras Haritası"
-date: 2025-12-25T03:02:01+03:00
+title: "Hamidiye Köprüsü Kalıntısı"
+date: "2025-12-25T03:02:01+03:00"
 slug: "hamidiye-koprusu-kalintisi"
 description: "## Hamidiye Köprüsü Kalıntısı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.9207611,40.5765648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Köprüsü Kalıntısı

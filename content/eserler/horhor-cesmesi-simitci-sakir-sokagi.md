@@ -1,18 +1,17 @@
 ---
-title: "Horhor Çeşmesi (Simitçi Şakir Sokağı) | Miras Haritası"
-date: 2025-12-25T10:11:25+03:00
+title: "Horhor Çeşmesi (Simitçi Şakir Sokağı)"
+date: "2025-12-25T10:11:25+03:00"
 slug: "horhor-cesmesi-simitci-sakir-sokagi"
 description: "## Horhor Çeşmesi (Simitçi Şakir Sokağı)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Horhor_Fountain,_Simitçi_Şakir_Street.jpg/1200px-Horhor_Fountain,_Simitçi_Şakir_Street.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.947746,41.011280305"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Horhor Çeşmesi (Simitçi Şakir Sokağı)

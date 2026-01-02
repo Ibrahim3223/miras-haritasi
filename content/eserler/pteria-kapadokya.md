@@ -1,18 +1,17 @@
 ---
-title: "Pteria (Kapadokya) | Miras Haritası"
-date: 2025-12-25T04:27:08+03:00
+title: "Pteria (Kapadokya)"
+date: "2025-12-25T04:27:08+03:00"
 slug: "pteria-kapadokya"
 description: "## Pteria (Kapadokya): Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.06565,39.74827"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Pteria (Kapadokya): Türkiye'nin Gizli Cenneti

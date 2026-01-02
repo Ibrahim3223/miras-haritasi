@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Bey Türbesi Kalıntısı, Şavşat | Miras Haritası"
-date: 2025-12-25T14:47:43+03:00
+title: "Mustafa Bey Türbesi Kalıntısı, Şavşat"
+date: "2025-12-25T14:47:43+03:00"
 slug: "mustafa-bey-turbesi-kalintisi-savsat"
 description: "# Mustafa Bey Türbesi Kalıntısı, Şavşat..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.4445,41.2686996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mustafa Bey Türbesi Kalıntısı, Şavşat

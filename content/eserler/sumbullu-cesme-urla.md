@@ -1,18 +1,17 @@
 ---
-title: "Sümbüllü Çeşme, Urla | Miras Haritası"
-date: 2025-12-25T11:57:53+03:00
+title: "Sümbüllü Çeşme, Urla"
+date: "2025-12-25T11:57:53+03:00"
 slug: "sumbullu-cesme-urla"
 description: "## Sümbüllü Çeşme: Urla'nın Tarihi Bir Ziraat Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7676697,38.3198814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sümbüllü Çeşme: Urla'nın Tarihi Bir Ziraat Çeşmesi

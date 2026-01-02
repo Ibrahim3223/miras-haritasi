@@ -1,18 +1,17 @@
 ---
-title: "Böcü İnleri Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:59+03:00
+title: "Böcü İnleri Kilisesi"
+date: "2025-12-25T09:12:59+03:00"
 slug: "bocu-inleri-kilisesi"
 description: "# Böcü İnleri Kilisesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.69509,39.0455506"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Böcü İnleri Kilisesi

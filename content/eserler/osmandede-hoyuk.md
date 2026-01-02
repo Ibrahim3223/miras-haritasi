@@ -1,18 +1,17 @@
 ---
-title: "Osmandede Höyük | Miras Haritası"
-date: 2025-12-25T06:27:14+03:00
+title: "Osmandede Höyük"
+date: "2025-12-25T06:27:14+03:00"
 slug: "osmandede-hoyuk"
 description: "## Osmandede Höyük: Kahramanmaraş'taki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Pazarcık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.0981593,37.3258268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmandede Höyük: Kahramanmaraş'taki Gizemli Arkeolojik Sit

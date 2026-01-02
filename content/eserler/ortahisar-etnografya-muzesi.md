@@ -1,18 +1,17 @@
 ---
-title: "Ortahisar Etnoğrafya Müzesi | Miras Haritası"
-date: 2025-12-25T03:20:56+03:00
+title: "Ortahisar Etnoğrafya Müzesi"
+date: "2025-12-25T03:20:56+03:00"
 slug: "ortahisar-etnografya-muzesi"
 description: "# Ortahisar Etnoğrafya Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Nevşehir"
+province: "Nevşehir"
+iller: '["Nevşehir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.8649,38.6212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ortahisar Etnoğrafya Müzesi

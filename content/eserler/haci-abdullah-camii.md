@@ -1,18 +1,17 @@
 ---
-title: "Hacı Abdullah Camii | Miras Haritası"
-date: 2025-12-24T23:27:08+03:00
+title: "Hacı Abdullah Camii"
+date: "2025-12-24T23:27:08+03:00"
 slug: "haci-abdullah-camii"
 description: "### Hacı Abdullah Camii..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2892475,37.7129135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Abdullah Camii

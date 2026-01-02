@@ -1,18 +1,17 @@
 ---
-title: "Çelebi Sultan Mehmed Camii | Miras Haritası"
-date: 2025-12-25T00:30:07+03:00
+title: "Çelebi Sultan Mehmed Camii"
+date: "2025-12-25T00:30:07+03:00"
 slug: "celebi-sultan-mehmed-camii"
 description: "# Çelebi Sultan Mehmed Camii..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Söğütlü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.1834145,40.0136261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çelebi Sultan Mehmed Camii

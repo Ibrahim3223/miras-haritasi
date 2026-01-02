@@ -1,18 +1,17 @@
 ---
-title: "Karyanda | Miras Haritası"
-date: 2025-12-25T04:30:18+03:00
+title: "Karyanda"
+date: "2025-12-25T04:30:18+03:00"
 slug: "karyanda"
 description: "**Karyanda: Muğla'nın Eski Deniz Limanı**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.383333,37.133333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karyanda: Muğla'nın Eski Deniz Limanı**

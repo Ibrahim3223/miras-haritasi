@@ -1,18 +1,17 @@
 ---
-title: "Gagae | Miras Haritası"
-date: 2025-12-25T06:56:26+03:00
+title: "Gagae"
+date: "2025-12-25T06:56:26+03:00"
 slug: "gagae"
 description: "### Gagae Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.3548,36.299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gagae Arkeolojik Sit

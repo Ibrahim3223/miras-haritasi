@@ -1,18 +1,17 @@
 ---
-title: "Meteoroloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:48+03:00
+title: "Meteoroloji Müzesi"
+date: "2025-12-25T03:31:48+03:00"
 slug: "meteoroloji-muzesi"
 description: "## Meteoroloji Müzesi: Keçiören, Ankara'da Bir Ünlü Müze..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Keçiören"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.862694444,39.971555555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meteoroloji Müzesi: Keçiören, Ankara'da Bir Ünlü Müze

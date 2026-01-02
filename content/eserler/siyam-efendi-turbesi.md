@@ -1,18 +1,17 @@
 ---
-title: "Siyam Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:28+03:00
+title: "Siyam Efendi Türbesi"
+date: "2025-12-25T14:58:28+03:00"
 slug: "siyam-efendi-turbesi"
 description: "## Siyam Efendi Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Taşkent"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.7218361,36.8614006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Siyam Efendi Türbesi

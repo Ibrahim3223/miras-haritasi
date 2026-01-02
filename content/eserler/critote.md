@@ -1,18 +1,17 @@
 ---
-title: "Critote | Miras Haritası"
-date: 2025-12-25T04:26:26+03:00
+title: "Critote"
+date: "2025-12-25T04:26:26+03:00"
 slug: "critote"
 description: "### Critote: Gelibolu'nun Gizli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.651664,40.406725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Critote: Gelibolu'nun Gizli Anıtı

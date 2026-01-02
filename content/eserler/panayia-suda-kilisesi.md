@@ -1,18 +1,17 @@
 ---
-title: "Panayia Suda Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:41+03:00
+title: "Panayia Suda Kilisesi"
+date: "2025-12-25T09:01:41+03:00"
 slug: "panayia-suda-kilisesi"
 description: "## Panayia Suda Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Panayia_Suda_Kilisesi_01.jpg/1200px-Panayia_Suda_Kilisesi_01.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.939964,41.036791"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Panayia Suda Kilisesi

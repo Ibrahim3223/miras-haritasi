@@ -1,18 +1,17 @@
 ---
-title: "Bebek Rum Ortodoks Mezarlığı Aya Yani Şapeli ve Ayazması | Miras Haritası"
-date: 2025-12-25T12:44:11+03:00
+title: "Bebek Rum Ortodoks Mezarlığı Aya Yani Şapeli ve Ayazması"
+date: "2025-12-25T12:44:11+03:00"
 slug: "bebek-rum-ortodoks-mezarligi-aya-yani-sapeli-ve-ayazmasi"
 description: "## Bebek Rum Ortodoks Mezarlığı Aya Yani Şapeli ve Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0355988,41.0781517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bebek Rum Ortodoks Mezarlığı Aya Yani Şapeli ve Ayazması

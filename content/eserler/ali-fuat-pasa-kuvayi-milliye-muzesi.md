@@ -1,18 +1,17 @@
 ---
-title: "Ali Fuat Paşa Kuvayı Milliye Müzesi | Miras Haritası"
-date: 2025-12-25T03:25:09+03:00
+title: "Ali Fuat Paşa Kuvayı Milliye Müzesi"
+date: "2025-12-25T03:25:09+03:00"
 slug: "ali-fuat-pasa-kuvayi-milliye-muzesi"
 description: "## Ali Fuat Paşa Kuvayı Milliye Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ali_Fuat_Cebesoy_Müzesi.jpg/1200px-Ali_Fuat_Cebesoy_Müzesi.jpg"
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Geyve"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.29602,40.535499"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ali Fuat Paşa Kuvayı Milliye Müzesi

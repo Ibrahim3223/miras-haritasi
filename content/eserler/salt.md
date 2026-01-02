@@ -1,18 +1,17 @@
 ---
-title: "SALT | Miras Haritası"
-date: 2025-12-25T04:11:00+03:00
+title: "SALT"
+date: "2025-12-25T04:11:00+03:00"
 slug: "salt"
 description: "## SALT Müzesi: Türkiye'nin Kültür ve Sanat Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ottoman_Bank_head_office,_now_SALT_Galata,_İstanbul,_12967651205.jpg/1200px-Ottoman_Bank_head_office,_now_SALT_Galata,_İstanbul,_12967651205.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.973487,41.023918"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## SALT Müzesi: Türkiye'nin Kültür ve Sanat Mirası

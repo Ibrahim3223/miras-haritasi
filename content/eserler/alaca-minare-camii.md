@@ -1,18 +1,17 @@
 ---
-title: "Alaca Minare Camii | Miras Haritası"
-date: 2025-12-24T22:45:04+03:00
+title: "Alaca Minare Camii"
+date: "2025-12-24T22:45:04+03:00"
 slug: "alaca-minare-camii"
 description: "## Alaca Minare Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.027092,41.0167847"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaca Minare Camii

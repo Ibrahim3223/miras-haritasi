@@ -1,18 +1,17 @@
 ---
-title: "Nalıncılar Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:07+03:00
+title: "Nalıncılar Hamamı"
+date: "2025-12-25T16:46:07+03:00"
 slug: "nalincilar-hamami"
 description: "### Nalıncılar Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0667763,40.1845055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nalıncılar Hamamı

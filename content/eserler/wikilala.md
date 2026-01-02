@@ -1,18 +1,17 @@
 ---
-title: "Wikilala | Miras Haritası"
-date: 2025-12-25T17:57:58+03:00
+title: "Wikilala"
+date: "2025-12-25T17:57:58+03:00"
 slug: "wikilala"
 description: "## Wikilala: Fas'ın Klasik Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Wikilala: Fas'ın Klasik Kütüphanesi

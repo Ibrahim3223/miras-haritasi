@@ -1,18 +1,17 @@
 ---
-title: "Sarıköy Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:17+03:00
+title: "Sarıköy Hamamı"
+date: "2025-12-25T17:10:17+03:00"
 slug: "sarikoy-hamami"
 description: "## Sarıköy Hamamı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gönen"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.6004677,40.2081871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıköy Hamamı

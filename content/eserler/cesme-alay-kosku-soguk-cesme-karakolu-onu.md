@@ -1,18 +1,17 @@
 ---
-title: "Çeşme (Alay Köşkü Soğuk Çeşme Karakolu önü) | Miras Haritası"
-date: 2025-12-25T12:08:29+03:00
+title: "Çeşme (Alay Köşkü Soğuk Çeşme Karakolu önü)"
+date: "2025-12-25T12:08:29+03:00"
 slug: "cesme-alay-kosku-soguk-cesme-karakolu-onu"
 description: "### Çeşme: Alay Köşkü Soğuk Çeşme Karakolu Önü, Fatih, İstanbul..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9783916,41.0110435"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme: Alay Köşkü Soğuk Çeşme Karakolu Önü, Fatih, İstanbul

@@ -1,18 +1,17 @@
 ---
-title: "Sanyaprak Höyüğü | Miras Haritası"
-date: 2025-12-25T06:23:34+03:00
+title: "Sanyaprak Höyüğü"
+date: "2025-12-25T06:23:34+03:00"
 slug: "sanyaprak-hoyugu"
 description: "## Sanyaprak Höyüğü: Yozgat'ın Eski Uygarlığının İzleri..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yerköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6329403,39.6467912"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sanyaprak Höyüğü: Yozgat'ın Eski Uygarlığının İzleri

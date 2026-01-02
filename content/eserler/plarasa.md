@@ -1,18 +1,17 @@
 ---
-title: "Plarasa | Miras Haritası"
-date: 2025-12-25T05:15:05+03:00
+title: "Plarasa"
+date: "2025-12-25T05:15:05+03:00"
 slug: "plarasa"
 description: "## Plarasa..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.634407,37.623843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Plarasa

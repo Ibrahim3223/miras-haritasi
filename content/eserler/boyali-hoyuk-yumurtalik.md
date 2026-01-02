@@ -1,18 +1,17 @@
 ---
-title: "Boyalı Höyük, Yumurtalık | Miras Haritası"
-date: 2025-12-25T05:54:02+03:00
+title: "Boyalı Höyük, Yumurtalık"
+date: "2025-12-25T05:54:02+03:00"
 slug: "boyali-hoyuk-yumurtalik"
 description: "# Boyalı Höyük, Yumurtalık..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Yumurtalık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.8969231,36.8963928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Boyalı Höyük, Yumurtalık

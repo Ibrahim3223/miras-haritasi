@@ -1,18 +1,17 @@
 ---
-title: "Syderos | Miras Haritası"
-date: 2025-12-25T05:13:22+03:00
+title: "Syderos"
+date: "2025-12-25T05:13:22+03:00"
 slug: "syderos"
 description: "## Syderos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.975664,40.414489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Syderos Arkeolojik Sit

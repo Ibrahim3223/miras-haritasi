@@ -1,18 +1,17 @@
 ---
-title: "Kumrulu Mescit | Miras Haritası"
-date: 2025-12-24T23:20:23+03:00
+title: "Kumrulu Mescit"
+date: "2025-12-24T23:20:23+03:00"
 slug: "kumrulu-mescit"
 description: "### Kumrulu Mescit: İstanbul'un Fethinin Ardından Yükselen Bir Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.94648,41.02369"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kumrulu Mescit: İstanbul'un Fethinin Ardından Yükselen Bir Cami

@@ -1,18 +1,17 @@
 ---
-title: "Doruk Höyük | Miras Haritası"
-date: 2025-12-25T13:45:46+03:00
+title: "Doruk Höyük"
+date: "2025-12-25T13:45:46+03:00"
 slug: "doruk-hoyuk"
 description: "### Doruk Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.7920621,37.7034089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doruk Höyük: Tarihî Mirasın Gizemi

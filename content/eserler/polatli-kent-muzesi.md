@@ -1,18 +1,17 @@
 ---
-title: "Polatlı Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:56:09+03:00
+title: "Polatlı Kent Müzesi"
+date: "2025-12-25T03:56:09+03:00"
 slug: "polatli-kent-muzesi"
 description: "### Polatlı Kent Müzesi: Ankara'nın Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.1436043,39.5864487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Polatlı Kent Müzesi: Ankara'nın Kültür Mirası

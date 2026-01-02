@@ -1,18 +1,17 @@
 ---
-title: "Sülüm Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T10:39:28+03:00
+title: "Sülüm Çeşmesi 2"
+date: "2025-12-25T10:39:28+03:00"
 slug: "sulum-cesmesi-2"
 description: "### Sülüm Çeşmesi 2: Afyonkarahisar'ın Tarihî Çeşmesinde Gizlenen Güzellik..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5359249,38.7594223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sülüm Çeşmesi 2: Afyonkarahisar'ın Tarihî Çeşmesinde Gizlenen Güzellik

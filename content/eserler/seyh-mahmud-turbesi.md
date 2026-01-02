@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mahmud Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:34+03:00
+title: "Şeyh Mahmud Türbesi"
+date: "2025-12-25T14:22:34+03:00"
 slug: "seyh-mahmud-turbesi"
 description: "## Şeyh Mahmud Türbesi: Pazar, Tokat'un Gizli Cenneti..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Pazar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.292954,40.267367"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Mahmud Türbesi: Pazar, Tokat'un Gizli Cenneti

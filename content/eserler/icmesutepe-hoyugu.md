@@ -1,18 +1,17 @@
 ---
-title: "İçmesutepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:05:36+03:00
+title: "İçmesutepe Höyüğü"
+date: "2025-12-25T06:05:36+03:00"
 slug: "icmesutepe-hoyugu"
 description: "## İçmesutepe Höyüğü..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.5749168,38.3493462"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İçmesutepe Höyüğü

@@ -1,18 +1,17 @@
 ---
-title: "Fatih Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:12+03:00
+title: "Fatih Paşa Türbesi"
+date: "2025-12-25T14:58:12+03:00"
 slug: "fatih-pasa-turbesi"
 description: "## Fatih Paşa Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2414589,37.9113045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Paşa Türbesi

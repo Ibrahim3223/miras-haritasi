@@ -1,18 +1,17 @@
 ---
-title: "Salarama | Miras Haritası"
-date: 2025-12-25T05:13:26+03:00
+title: "Salarama"
+date: "2025-12-25T05:13:26+03:00"
 slug: "salarama"
 description: "## Salarama..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.8104235,38.008246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salarama

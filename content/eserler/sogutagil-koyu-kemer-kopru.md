@@ -1,18 +1,17 @@
 ---
-title: "Söğütağıl Köyü Kemer Köprü | Miras Haritası"
-date: 2025-12-25T02:29:35+03:00
+title: "Söğütağıl Köyü Kemer Köprü"
+date: "2025-12-25T02:29:35+03:00"
 slug: "sogutagil-koyu-kemer-kopru"
 description: "### Söğütağıl Köyü Kemer Köprü..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.77044,40.44451"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Söğütağıl Köyü Kemer Köprü

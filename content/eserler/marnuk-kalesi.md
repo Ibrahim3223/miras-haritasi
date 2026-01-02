@@ -1,18 +1,17 @@
 ---
-title: "Marnuk Kalesi | Miras Haritası"
-date: 2025-12-25T01:47:09+03:00
+title: "Marnuk Kalesi"
+date: "2025-12-25T01:47:09+03:00"
 slug: "marnuk-kalesi"
 description: "## Marnuk Kalesi..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Bulanık"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.0009193,38.9071579"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marnuk Kalesi

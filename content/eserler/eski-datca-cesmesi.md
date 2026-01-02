@@ -1,18 +1,17 @@
 ---
-title: "Eski Datça Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:34:54+03:00
+title: "Eski Datça Çeşmesi"
+date: "2025-12-25T11:34:54+03:00"
 slug: "eski-datca-cesmesi"
 description: "### Eski Datça Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6659107,36.7391815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eski Datça Çeşmesi

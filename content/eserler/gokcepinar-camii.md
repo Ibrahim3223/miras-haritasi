@@ -1,18 +1,17 @@
 ---
-title: "Gökçepınar Camii | Miras Haritası"
-date: 2025-12-25T00:14:33+03:00
+title: "Gökçepınar Camii"
+date: "2025-12-25T00:14:33+03:00"
 slug: "gokcepinar-camii"
 description: "### Gökçepınar Camii: Serik'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.104447,36.917399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökçepınar Camii: Serik'in Tarihi ve Kültürel Mirası

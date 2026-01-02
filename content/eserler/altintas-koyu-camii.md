@@ -1,18 +1,17 @@
 ---
-title: "Altıntaş Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:10:31+03:00
+title: "Altıntaş Köyü Camii"
+date: "2025-12-24T22:10:31+03:00"
 slug: "altintas-koyu-camii"
 description: "### Altıntaş Köyü Camii: Tarihi Bir Miras..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1318092,40.0348053"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Altıntaş Köyü Camii: Tarihi Bir Miras

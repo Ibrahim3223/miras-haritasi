@@ -1,18 +1,17 @@
 ---
-title: "Osmaniye Kuştepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:34:45+03:00
+title: "Osmaniye Kuştepe Tümülüsü"
+date: "2025-12-25T07:34:45+03:00"
 slug: "osmaniye-kustepe-tumulusu"
 description: "## Osmaniye Kuştepe Tümülüsü: Babaeski'nin Gizli Hazineleri..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1309319,41.4539299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmaniye Kuştepe Tümülüsü: Babaeski'nin Gizli Hazineleri

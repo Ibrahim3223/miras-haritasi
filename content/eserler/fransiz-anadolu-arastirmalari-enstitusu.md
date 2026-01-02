@@ -1,18 +1,17 @@
 ---
-title: "Fransız Anadolu Araştırmaları Enstitüsü | Miras Haritası"
-date: 2025-12-25T17:46:10+03:00
+title: "Fransız Anadolu Araştırmaları Enstitüsü"
+date: "2025-12-25T17:46:10+03:00"
 slug: "fransiz-anadolu-arastirmalari-enstitusu"
 description: "## Fransız Anadolu Araştırmaları Enstitüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Palace_of_France,_Istanbul_(16034968799).jpg/1200px-Palace_of_France,_Istanbul_(16034968799).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.977293393,41.031519936"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fransız Anadolu Araştırmaları Enstitüsü

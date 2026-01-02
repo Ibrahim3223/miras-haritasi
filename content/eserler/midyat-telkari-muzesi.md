@@ -1,18 +1,17 @@
 ---
-title: "Midyat Telkari Müzesi | Miras Haritası"
-date: 2025-12-25T04:12:05+03:00
+title: "Midyat Telkari Müzesi"
+date: "2025-12-25T04:12:05+03:00"
 slug: "midyat-telkari-muzesi"
 description: "## Midyat Telkari Müzesi: Mardin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "41.3757,37.41541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Midyat Telkari Müzesi: Mardin'in Tarihî ve Kültürel Mirası

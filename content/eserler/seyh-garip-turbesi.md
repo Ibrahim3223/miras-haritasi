@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Garip Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:12+03:00
+title: "Şeyh Garip Türbesi"
+date: "2025-12-25T15:00:12+03:00"
 slug: "seyh-garip-turbesi"
 description: "## Şeyh Garip Türbesi: Bitlis'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.1071739,38.3984108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Garip Türbesi: Bitlis'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kyzikos | Miras Haritası"
-date: 2025-12-25T04:21:36+03:00
+title: "Kyzikos"
+date: "2025-12-25T04:21:36+03:00"
 slug: "kyzikos"
 description: "## Kyzikos: Antik Kentin Efsanevi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandirma_Cyzicus_2874.jpg/1200px-Bandirma_Cyzicus_2874.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.870555555,40.387777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kyzikos: Antik Kentin Efsanevi Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Balıkpazarı İskele Mescidi | Miras Haritası"
-date: 2025-12-24T22:46:42+03:00
+title: "Balıkpazarı İskele Mescidi"
+date: "2025-12-24T22:46:42+03:00"
 slug: "balikpazari-iskele-mescidi"
 description: "## Balıkpazarı İskele Mescidi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.971611,41.01802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balıkpazarı İskele Mescidi

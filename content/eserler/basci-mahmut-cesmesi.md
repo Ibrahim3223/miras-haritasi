@@ -1,18 +1,17 @@
 ---
-title: "Başçı Mahmut Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:59+03:00
+title: "Başçı Mahmut Çeşmesi"
+date: "2025-12-25T10:31:59+03:00"
 slug: "basci-mahmut-cesmesi"
 description: "## Başçı Mahmut Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Başçı_Mahmut_Çeşmesi.jpg/1200px-Başçı_Mahmut_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9408463,41.009461"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Başçı Mahmut Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Yassıdağ Höyüğü | Miras Haritası"
-date: 2025-12-25T06:01:54+03:00
+title: "Yassıdağ Höyüğü"
+date: "2025-12-25T06:01:54+03:00"
 slug: "yassidag-hoyugu"
 description: "**Yassıdağ Höyüğü: Kayseri'nin Gizemli Arkeolojik Sit**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Sarıoğlan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.899263767,39.01488747"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yassıdağ Höyüğü: Kayseri'nin Gizemli Arkeolojik Sit**

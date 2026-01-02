@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Emin Ağa Sebili Haziresi | Miras Haritası"
-date: 2025-12-25T12:08:40+03:00
+title: "Mehmet Emin Ağa Sebili Haziresi"
+date: "2025-12-25T12:08:40+03:00"
 slug: "mehmet-emin-aga-sebili-haziresi"
 description: "## Mehmet Emin Ağa Sebili Haziresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Haci_Mehmet_Emin_Aga_Sebil_complex_DSCF5216.jpg/1200px-Haci_Mehmet_Emin_Aga_Sebil_complex_DSCF5216.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.994805555,41.037138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mehmet Emin Ağa Sebili Haziresi

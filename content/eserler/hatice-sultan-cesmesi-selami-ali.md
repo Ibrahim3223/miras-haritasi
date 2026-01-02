@@ -1,18 +1,17 @@
 ---
-title: "Hatice Sultan Çeşmesi, Selami Ali | Miras Haritası"
-date: 2025-12-25T12:01:01+03:00
+title: "Hatice Sultan Çeşmesi, Selami Ali"
+date: "2025-12-25T12:01:01+03:00"
 slug: "hatice-sultan-cesmesi-selami-ali"
 description: "# Hatice Sultan Çeşmesi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0225449,41.0262184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hatice Sultan Çeşmesi: Üsküdar'ın Gizli Çeşmesi

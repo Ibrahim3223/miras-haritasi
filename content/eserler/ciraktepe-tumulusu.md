@@ -1,18 +1,17 @@
 ---
-title: "Çıraktepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:21+03:00
+title: "Çıraktepe Tümülüsü"
+date: "2025-12-25T07:35:21+03:00"
 slug: "ciraktepe-tumulusu"
 description: "# Çıraktepe Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7994747,40.5522537"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çıraktepe Tümülüsü

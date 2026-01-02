@@ -1,18 +1,17 @@
 ---
-title: "Pithoi | Miras Haritası"
-date: 2025-12-25T05:15:59+03:00
+title: "Pithoi"
+date: "2025-12-25T05:15:59+03:00"
 slug: "pithoi"
 description: "## Pithoi: Antik Çağın Gizemli Vazo Eserleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.213204,38.240292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pithoi: Antik Çağın Gizemli Vazo Eserleri

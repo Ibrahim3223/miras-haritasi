@@ -1,18 +1,17 @@
 ---
-title: "Gaysunizade Mehmet Efendi Kabri | Miras Haritası"
-date: 2025-12-25T13:24:00+03:00
+title: "Gaysunizade Mehmet Efendi Kabri"
+date: "2025-12-25T13:24:00+03:00"
 slug: "gaysunizade-mehmet-efendi-kabri"
 description: "## Gaysunizade Mehmet Efendi Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.942507526,41.048664722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaysunizade Mehmet Efendi Kabri

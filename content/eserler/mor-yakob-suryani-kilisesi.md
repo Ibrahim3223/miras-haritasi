@@ -1,18 +1,17 @@
 ---
-title: "Mor Yakob Süryani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:24:34+03:00
+title: "Mor Yakob Süryani Kilisesi"
+date: "2025-12-25T09:24:34+03:00"
 slug: "mor-yakob-suryani-kilisesi"
 description: "## Mor Yakob Süryani Kilisesi..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Gercüş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.4449081,37.5101891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mor Yakob Süryani Kilisesi

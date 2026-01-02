@@ -1,18 +1,17 @@
 ---
-title: "Akkent Kalesi | Miras Haritası"
-date: 2025-12-25T01:21:29+03:00
+title: "Akkent Kalesi"
+date: "2025-12-25T01:21:29+03:00"
 slug: "akkent-kalesi"
 description: "## Akkent Kalesi..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Bulanık"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.047123,38.9234505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akkent Kalesi

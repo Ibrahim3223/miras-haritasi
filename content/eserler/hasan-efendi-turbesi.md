@@ -1,18 +1,17 @@
 ---
-title: "Hasan Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:06+03:00
+title: "Hasan Efendi Türbesi"
+date: "2025-12-25T14:23:06+03:00"
 slug: "hasan-efendi-turbesi"
 description: "## Hasan Efendi Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Demirci"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.654935,39.04532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Efendi Türbesi

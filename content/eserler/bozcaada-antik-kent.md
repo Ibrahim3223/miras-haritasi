@@ -1,18 +1,17 @@
 ---
-title: "Bozcaada (antik kent) | Miras Haritası"
-date: 2025-12-25T08:09:10+03:00
+title: "Bozcaada (antik kent)"
+date: "2025-12-25T08:09:10+03:00"
 slug: "bozcaada-antik-kent"
 description: "### Bozcaada Antik Kenti: Bir Tarihî Eserin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.049722222,39.827777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bozcaada Antik Kenti: Bir Tarihî Eserin Gizemi

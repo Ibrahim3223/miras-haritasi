@@ -1,18 +1,17 @@
 ---
-title: "Karaman Camii | Miras Haritası"
-date: 2025-12-24T23:43:02+03:00
+title: "Karaman Camii"
+date: "2025-12-24T23:43:02+03:00"
 slug: "karaman-camii"
 description: "## Karaman Camii: Afyonkarahisar'ın Güzeli..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5388699,38.7593536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaman Camii: Afyonkarahisar'ın Güzeli

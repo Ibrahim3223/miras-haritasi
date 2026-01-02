@@ -1,18 +1,17 @@
 ---
-title: "Georgios Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:14+03:00
+title: "Georgios Kilisesi"
+date: "2025-12-25T09:40:14+03:00"
 slug: "georgios-kilisesi"
 description: "### Georgios Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.3825035,41.4504852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Georgios Kilisesi

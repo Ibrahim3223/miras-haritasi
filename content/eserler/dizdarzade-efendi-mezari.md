@@ -1,18 +1,17 @@
 ---
-title: "Dizdarzade Efendi Mezarı | Miras Haritası"
-date: 2025-12-25T13:27:33+03:00
+title: "Dizdarzade Efendi Mezarı"
+date: "2025-12-25T13:27:33+03:00"
 slug: "dizdarzade-efendi-mezari"
 description: "# Dizdarzade Efendi Mezarı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.563161,41.676805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dizdarzade Efendi Mezarı

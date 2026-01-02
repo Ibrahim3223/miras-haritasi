@@ -1,18 +1,17 @@
 ---
-title: "Naip Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:16+03:00
+title: "Naip Kalesi"
+date: "2025-12-25T01:26:16+03:00"
 slug: "naip-kalesi"
 description: "## Naip Kalesi: Tekirdağ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4127369,40.8497887"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Naip Kalesi: Tekirdağ'ın Tarihi ve Kültürel Mirası

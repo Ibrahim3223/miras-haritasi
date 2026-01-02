@@ -1,18 +1,17 @@
 ---
-title: "Çayözü Höyük | Miras Haritası"
-date: 2025-12-25T13:47:52+03:00
+title: "Çayözü Höyük"
+date: "2025-12-25T13:47:52+03:00"
 slug: "cayozu-hoyuk"
 description: "### Çayözü Höyük: Türkiye'nin Eski Çağ Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sorgun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.2059647,39.717658"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çayözü Höyük: Türkiye'nin Eski Çağ Mirası

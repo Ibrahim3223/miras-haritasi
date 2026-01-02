@@ -1,18 +1,17 @@
 ---
-title: "Bilal Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:38+03:00
+title: "Bilal Ağa Çeşmesi"
+date: "2025-12-25T10:59:38+03:00"
 slug: "bilal-aga-cesmesi"
 description: "## Bilal Ağa Çeşmesi: Hacımimi'de Gizlenen Bir Çeşme..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Hacımimi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.978535,41.026997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bilal Ağa Çeşmesi: Hacımimi'de Gizlenen Bir Çeşme

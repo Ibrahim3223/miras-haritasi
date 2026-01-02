@@ -1,18 +1,17 @@
 ---
-title: "Zengibar Kalesi, Darende | Miras Haritası"
-date: 2025-12-25T01:31:31+03:00
+title: "Zengibar Kalesi, Darende"
+date: "2025-12-25T01:31:31+03:00"
 slug: "zengibar-kalesi-darende"
 description: "### Zengibar Kalesi, Darende..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Darende"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.4915009,38.5720787"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zengibar Kalesi, Darende

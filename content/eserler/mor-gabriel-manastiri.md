@@ -1,18 +1,17 @@
 ---
-title: "Mor Gabriel Manastırı | Miras Haritası"
-date: 2025-12-25T09:46:38+03:00
+title: "Mor Gabriel Manastırı"
+date: "2025-12-25T09:46:38+03:00"
 slug: "mor-gabriel-manastiri"
 description: "## Mor Gabriel Manastırı: Doğu Anadolu'nun En Eski ve Önemli Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mor_gabriel_portal_inscriptions.jpg/1200px-Mor_gabriel_portal_inscriptions.jpg"
 province: "Midyat"
-iller: ["Midyat"]
+iller: '["Midyat"]'
 district: "Midyat"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.5385,37.321777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mor Gabriel Manastırı: Doğu Anadolu'nun En Eski ve Önemli Manastırı

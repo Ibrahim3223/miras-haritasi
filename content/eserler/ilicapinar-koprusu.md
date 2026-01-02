@@ -1,18 +1,17 @@
 ---
-title: "Ilıcapınar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:11+03:00
+title: "Ilıcapınar Köprüsü"
+date: "2025-12-25T02:41:11+03:00"
 slug: "ilicapinar-koprusu"
 description: "## Ilıcapınar Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Taşkent"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.54209,36.93898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ilıcapınar Köprüsü

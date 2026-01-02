@@ -1,18 +1,17 @@
 ---
-title: "Sururi Mehmet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:32:50+03:00
+title: "Sururi Mehmet Efendi Türbesi"
+date: "2025-12-25T15:32:50+03:00"
 slug: "sururi-mehmet-efendi-turbesi"
 description: "### Sururi Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.972275677,41.035162551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sururi Mehmet Efendi Türbesi

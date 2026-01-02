@@ -1,18 +1,17 @@
 ---
-title: "Sultan Murat Şehitliği | Miras Haritası"
-date: 2025-12-25T16:01:02+03:00
+title: "Sultan Murat Şehitliği"
+date: "2025-12-25T16:01:02+03:00"
 slug: "sultan-murat-sehitligi"
 description: "## Sultan Murat Şehitliği: Trabzon'un Anıtsal Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Çaykara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.1441002,40.6325531"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Murat Şehitliği: Trabzon'un Anıtsal Mirası

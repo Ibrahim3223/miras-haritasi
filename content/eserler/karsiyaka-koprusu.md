@@ -1,18 +1,17 @@
 ---
-title: "Karşıyaka Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:52+03:00
+title: "Karşıyaka Köprüsü"
+date: "2025-12-25T02:15:52+03:00"
 slug: "karsiyaka-koprusu"
 description: "## Karşıyaka Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.6064663,37.7261429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karşıyaka Köprüsü

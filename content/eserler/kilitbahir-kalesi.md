@@ -1,18 +1,17 @@
 ---
-title: "Kilitbahir Kalesi | Miras Haritası"
-date: 2025-12-25T01:11:51+03:00
+title: "Kilitbahir Kalesi"
+date: "2025-12-25T01:11:51+03:00"
 slug: "kilitbahir-kalesi"
 description: "# Kilitbahir Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eceabat_Kilitbahir_Fortress.JPG/1200px-Eceabat_Kilitbahir_Fortress.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.379565,40.147656"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kilitbahir Kalesi

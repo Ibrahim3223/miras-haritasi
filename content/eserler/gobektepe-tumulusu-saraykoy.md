@@ -1,18 +1,17 @@
 ---
-title: "Göbektepe Tümülüsü, Sarayköy | Miras Haritası"
-date: 2025-12-25T07:59:01+03:00
+title: "Göbektepe Tümülüsü, Sarayköy"
+date: "2025-12-25T07:59:01+03:00"
 slug: "gobektepe-tumulusu-saraykoy"
 description: "# Göbektepe Tümülüsü, Sarayköy..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Sarayköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.9615002,37.9020996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Göbektepe Tümülüsü, Sarayköy

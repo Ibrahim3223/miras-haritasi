@@ -1,18 +1,17 @@
 ---
-title: "Pirno (Karya) | Miras Haritası"
-date: 2025-12-25T07:11:38+03:00
+title: "Pirno (Karya)"
+date: "2025-12-25T07:11:38+03:00"
 slug: "pirno-karya"
 description: "## Pirno (Karya): Marmaris'in Gizli Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.445529,36.885007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pirno (Karya): Marmaris'in Gizli Anıtı

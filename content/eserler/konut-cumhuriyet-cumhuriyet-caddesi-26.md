@@ -1,18 +1,17 @@
 ---
-title: "Konut - Cumhuriyet, Cumhuriyet Caddesi, 26 | Miras Haritası"
-date: 2025-12-25T17:54:37+03:00
+title: "Konut - Cumhuriyet, Cumhuriyet Caddesi, 26"
+date: "2025-12-25T17:54:37+03:00"
 slug: "konut-cumhuriyet-cumhuriyet-caddesi-26"
 description: "## Vize Kütüphanesi: Cumhuriyet Caddesi'ndeki Tarihi Bir Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.0955029,41.6337433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vize Kütüphanesi: Cumhuriyet Caddesi'ndeki Tarihi Bir Miras

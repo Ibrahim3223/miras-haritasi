@@ -1,18 +1,17 @@
 ---
-title: "Bolvadin Çarşı Camii | Miras Haritası"
-date: 2025-12-24T22:28:01+03:00
+title: "Bolvadin Çarşı Camii"
+date: "2025-12-24T22:28:01+03:00"
 slug: "bolvadin-carsi-camii"
 description: "## Bolvadin Çarşı Camii: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bolvadin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0480118,38.7108688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bolvadin Çarşı Camii: Tarihi ve Kültürel Mirasın Bir Parçası

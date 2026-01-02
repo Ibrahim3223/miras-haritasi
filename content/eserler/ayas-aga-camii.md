@@ -1,18 +1,17 @@
 ---
-title: "Ayas Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:15:55+03:00
+title: "Ayas Ağa Camii"
+date: "2025-12-24T22:15:55+03:00"
 slug: "ayas-aga-camii"
 description: "### Ayas Ağa Camii..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8332214,40.658741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayas Ağa Camii

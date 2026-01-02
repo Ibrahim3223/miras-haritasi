@@ -1,18 +1,17 @@
 ---
-title: "Isparta Entomoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:29:23+03:00
+title: "Isparta Entomoloji Müzesi"
+date: "2025-12-25T03:29:23+03:00"
 slug: "isparta-entomoloji-muzesi"
 description: "### Isparta Entomoloji Müzesi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Isparta Entomoloji Müzesi

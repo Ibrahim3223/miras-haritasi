@@ -1,18 +1,17 @@
 ---
-title: "Citharizon | Miras Haritası"
-date: 2025-12-25T04:21:41+03:00
+title: "Citharizon"
+date: "2025-12-25T04:21:41+03:00"
 slug: "citharizon"
 description: "# Citharizon: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.642,38.874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Citharizon: Bir Arkeolojik Sitin Gizemi

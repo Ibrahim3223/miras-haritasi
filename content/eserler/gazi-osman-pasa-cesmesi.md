@@ -1,18 +1,17 @@
 ---
-title: "Gazi Osman Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:55+03:00
+title: "Gazi Osman Paşa Çeşmesi"
+date: "2025-12-25T11:05:55+03:00"
 slug: "gazi-osman-pasa-cesmesi"
 description: "## Gazi Osman Paşa Çeşmesi: Yıldız'da Bir İhtişam..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Yıldız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.010231,41.045853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazi Osman Paşa Çeşmesi: Yıldız'da Bir İhtişam

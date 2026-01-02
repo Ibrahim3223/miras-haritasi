@@ -1,18 +1,17 @@
 ---
-title: "Bünyamin Ayaşi Camii | Miras Haritası"
-date: 2025-12-24T22:27:57+03:00
+title: "Bünyamin Ayaşi Camii"
+date: "2025-12-24T22:27:57+03:00"
 slug: "bunyamin-ayasi-camii"
 description: "## Bünyamin Ayaşi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.3341637,40.0157967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bünyamin Ayaşi Camii

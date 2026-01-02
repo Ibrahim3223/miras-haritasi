@@ -1,18 +1,17 @@
 ---
-title: "Boğaziçi Eski Cami | Miras Haritası"
-date: 2025-12-24T22:26:06+03:00
+title: "Boğaziçi Eski Cami"
+date: "2025-12-24T22:26:06+03:00"
 slug: "bogazici-eski-cami"
 description: "### Boğaziçi Eski Cami..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Baklan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5493603,37.93536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Boğaziçi Eski Cami

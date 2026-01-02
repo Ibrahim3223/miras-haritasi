@@ -1,18 +1,17 @@
 ---
-title: "Sarpi border post | Miras Haritası"
-date: 2025-12-25T08:34:14+03:00
+title: "Sarpi border post"
+date: "2025-12-25T08:34:14+03:00"
 slug: "sarpi-border-post"
 description: "## Sarpi Sınır Postu: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "41.547546,41.520660097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarpi Sınır Postu: Tarihi ve Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Sütlüce Hamamı | Miras Haritası"
-date: 2025-12-25T16:37:00+03:00
+title: "Sütlüce Hamamı"
+date: "2025-12-25T16:37:00+03:00"
 slug: "sutluce-hamami"
 description: "### Sütlüce Hamamı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.940996,41.048122"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sütlüce Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

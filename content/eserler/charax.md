@@ -1,18 +1,17 @@
 ---
-title: "Charax | Miras Haritası"
-date: 2025-12-25T05:03:07+03:00
+title: "Charax"
+date: "2025-12-25T05:03:07+03:00"
 slug: "charax"
 description: "# Charax..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Charax

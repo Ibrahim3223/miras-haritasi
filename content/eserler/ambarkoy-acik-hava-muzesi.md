@@ -1,18 +1,17 @@
 ---
-title: "Ambarköy Açık Hava Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:14+03:00
+title: "Ambarköy Açık Hava Müzesi"
+date: "2025-12-25T03:31:14+03:00"
 slug: "ambarkoy-acik-hava-muzesi"
 description: "## Ambarköy Açık Hava Müzesi: Samsun'un Eski Köy Evinin Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ladik"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.899662,40.933342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ambarköy Açık Hava Müzesi: Samsun'un Eski Köy Evinin Mirası

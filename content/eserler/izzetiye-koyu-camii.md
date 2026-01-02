@@ -1,18 +1,17 @@
 ---
-title: "İzzetiye Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:37:07+03:00
+title: "İzzetiye Köyü Camii"
+date: "2025-12-24T23:37:07+03:00"
 slug: "izzetiye-koyu-camii"
 description: "## İzzetiye Köyü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6464367,40.8124466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzzetiye Köyü Camii

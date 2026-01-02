@@ -1,18 +1,17 @@
 ---
-title: "Böget Höyüğü | Miras Haritası"
-date: 2025-12-25T05:45:14+03:00
+title: "Böget Höyüğü"
+date: "2025-12-25T05:45:14+03:00"
 slug: "boget-hoyugu"
 description: "### Böget Höyüğü: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Eskil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.4548149,38.3206673"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Böget Höyüğü: Aksaray'ın Gizli Kahramanı

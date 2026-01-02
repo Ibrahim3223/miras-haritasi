@@ -1,18 +1,17 @@
 ---
-title: "Meydan Anıtı, Kemalpaşa | Miras Haritası"
-date: 2025-12-25T15:45:36+03:00
+title: "Meydan Anıtı, Kemalpaşa"
+date: "2025-12-25T15:45:36+03:00"
 slug: "meydan-aniti-kemalpasa"
 description: "## Meydan Anıtı, Kemalpaşa..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4164772,38.4275627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meydan Anıtı, Kemalpaşa

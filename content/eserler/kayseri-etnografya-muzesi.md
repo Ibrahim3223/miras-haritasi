@@ -1,18 +1,17 @@
 ---
-title: "Kayseri Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:48+03:00
+title: "Kayseri Etnografya Müzesi"
+date: "2025-12-25T03:24:48+03:00"
 slug: "kayseri-etnografya-muzesi"
 description: "## Kayseri Etnografya Müzesi: Geçmişten Günümüze Kültür Mirasının Yansıması..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kayseri"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayseri Etnografya Müzesi: Geçmişten Günümüze Kültür Mirasının Yansıması

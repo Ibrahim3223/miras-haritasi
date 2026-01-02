@@ -1,18 +1,17 @@
 ---
-title: "Çimelihöyük | Miras Haritası"
-date: 2025-12-25T06:26:41+03:00
+title: "Çimelihöyük"
+date: "2025-12-25T06:26:41+03:00"
 slug: "cimelihoyuk"
 description: "## Çimelihöyük: Aksaray'da Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8104022,38.5265136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çimelihöyük: Aksaray'da Bir Arkeolojik Sit

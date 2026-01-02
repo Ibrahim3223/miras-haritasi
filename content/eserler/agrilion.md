@@ -1,18 +1,17 @@
 ---
-title: "Agrilion | Miras Haritası"
-date: 2025-12-25T04:31:31+03:00
+title: "Agrilion"
+date: "2025-12-25T04:31:31+03:00"
 slug: "agrilion"
 description: "## Agrilion Arkeolojik Sit..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9377441,40.1328239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Agrilion Arkeolojik Sit

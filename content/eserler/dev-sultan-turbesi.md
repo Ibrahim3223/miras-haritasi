@@ -1,18 +1,17 @@
 ---
-title: "Dev Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:26+03:00
+title: "Dev Sultan Türbesi"
+date: "2025-12-25T15:17:26+03:00"
 slug: "dev-sultan-turbesi"
 description: "## Dev Sultan Türbesi: Polatlı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.1347,39.5798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dev Sultan Türbesi: Polatlı'nın Tarihi Bir Mirası

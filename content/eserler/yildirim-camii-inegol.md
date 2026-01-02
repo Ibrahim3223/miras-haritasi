@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Camii (İnegöl) | Miras Haritası"
-date: 2025-12-25T00:00:13+03:00
+title: "Yıldırım Camii (İnegöl)"
+date: "2025-12-25T00:00:13+03:00"
 slug: "yildirim-camii-inegol"
 description: "## Yıldırım Camii: İnegöl'ün Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5117302,40.0790749"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldırım Camii: İnegöl'ün Tarihi Bir Mirası

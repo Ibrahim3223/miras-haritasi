@@ -1,18 +1,17 @@
 ---
-title: "Envar-ül Hamit Camii | Miras Haritası"
-date: 2025-12-24T23:01:25+03:00
+title: "Envar-ül Hamit Camii"
+date: "2025-12-24T23:01:25+03:00"
 slug: "envar-ul-hamit-camii"
 description: "## Envar-ül Hamit Camii: Osmaniye'nin Göbeğinde Bir Özenli Mimarlık Eseri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Osmaniye"
+province: "Osmaniye"
+iller: '["Osmaniye"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.251461,37.0725746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Envar-ül Hamit Camii: Osmaniye'nin Göbeğinde Bir Özenli Mimarlık Eseri

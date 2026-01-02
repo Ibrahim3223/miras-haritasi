@@ -1,18 +1,17 @@
 ---
-title: "Nezihe Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:24:47+03:00
+title: "Nezihe Hanım Çeşmesi"
+date: "2025-12-25T10:24:47+03:00"
 slug: "nezihe-hanim-cesmesi"
 description: "### Nezihe Hanım Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8578987,39.9438705"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nezihe Hanım Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Panayia (Meryem Ana) Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:30+03:00
+title: "Panayia (Meryem Ana) Kilisesi"
+date: "2025-12-25T09:31:30+03:00"
 slug: "panayia-meryem-ana-kilisesi"
 description: "## Panayia (Meryem Ana) Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.129118,40.874218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panayia (Meryem Ana) Kilisesi

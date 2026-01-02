@@ -1,18 +1,17 @@
 ---
-title: "Kuşadası Özer Arabul Kültür Merkezi ve Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:11+03:00
+title: "Kuşadası Özer Arabul Kültür Merkezi ve Kent Müzesi"
+date: "2025-12-25T03:54:11+03:00"
 slug: "kusadasi-ozer-arabul-kultur-merkezi-ve-kent-muzesi"
 description: "## Kuşadası Özer Arabul Kültür Merkezi ve Kent Müzesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.2567501,37.8567886"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuşadası Özer Arabul Kültür Merkezi ve Kent Müzesi

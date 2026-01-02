@@ -1,18 +1,17 @@
 ---
-title: "Manastır, Pendik | Miras Haritası"
-date: 2025-12-25T10:00:13+03:00
+title: "Manastır, Pendik"
+date: "2025-12-25T10:00:13+03:00"
 slug: "manastir-pendik"
 description: "## Pendik Manastırı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Pendik"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.239572912,40.890882989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pendik Manastırı: Tarihi ve Kültürel Miras

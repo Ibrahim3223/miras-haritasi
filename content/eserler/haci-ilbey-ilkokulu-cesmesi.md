@@ -1,18 +1,17 @@
 ---
-title: "Hacı İlbey İlkokulu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:57:19+03:00
+title: "Hacı İlbey İlkokulu Çeşmesi"
+date: "2025-12-25T10:57:19+03:00"
 slug: "haci-ilbey-ilkokulu-cesmesi"
 description: "**Hacı İlbey İlkokulu Çeşmesi**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5229034,40.9822273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hacı İlbey İlkokulu Çeşmesi**

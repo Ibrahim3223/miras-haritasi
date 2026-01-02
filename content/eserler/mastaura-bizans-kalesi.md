@@ -1,18 +1,17 @@
 ---
-title: "Mastaura Bizans Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:46+03:00
+title: "Mastaura Bizans Kalesi"
+date: "2025-12-25T01:26:46+03:00"
 slug: "mastaura-bizans-kalesi"
 description: "## Mastaura Bizans Kalesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.3510838,37.9571953"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mastaura Bizans Kalesi: Aydın'ın Tarihi ve Kültürel Mirası

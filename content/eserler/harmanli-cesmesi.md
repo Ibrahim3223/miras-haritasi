@@ -1,18 +1,17 @@
 ---
-title: "Harmanlı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:41+03:00
+title: "Harmanlı Çeşmesi"
+date: "2025-12-25T10:23:41+03:00"
 slug: "harmanli-cesmesi"
 description: "**Harmanlı Çeşmesi: Trabzon'un Gizli Cenneti**..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Arsin"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.9085464,40.928215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Harmanlı Çeşmesi: Trabzon'un Gizli Cenneti**

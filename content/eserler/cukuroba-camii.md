@@ -1,18 +1,17 @@
 ---
-title: "Çukuroba Camii | Miras Haritası"
-date: 2025-12-24T22:33:36+03:00
+title: "Çukuroba Camii"
+date: "2025-12-24T22:33:36+03:00"
 slug: "cukuroba-camii"
 description: "**Çukuroba Camii**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9308319,37.5872765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çukuroba Camii**

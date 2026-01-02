@@ -1,18 +1,17 @@
 ---
-title: "İnay Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:08+03:00
+title: "İnay Köprüsü"
+date: "2025-12-25T02:12:08+03:00"
 slug: "inay-koprusu"
 description: "## İnay Köprüsü: Uşak'ın Tarihi Ölümsüzlüğü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.2169819,38.4295731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnay Köprüsü: Uşak'ın Tarihi Ölümsüzlüğü

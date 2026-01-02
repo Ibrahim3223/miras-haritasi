@@ -1,18 +1,17 @@
 ---
-title: "Okçular Köyü Türbesi | Miras Haritası"
-date: 2025-12-25T15:30:27+03:00
+title: "Okçular Köyü Türbesi"
+date: "2025-12-25T15:30:27+03:00"
 slug: "okcular-koyu-turbesi"
 description: "## Okçular Köyü Türbesi: Tarihi ve Kültürel Mirasın Örnekleri Arasından Bir..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.039751495,40.379998706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Okçular Köyü Türbesi: Tarihi ve Kültürel Mirasın Örnekleri Arasından Bir

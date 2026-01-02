@@ -1,18 +1,17 @@
 ---
-title: "Dereboğaz Kalesi | Miras Haritası"
-date: 2025-12-25T01:24:23+03:00
+title: "Dereboğaz Kalesi"
+date: "2025-12-25T01:24:23+03:00"
 slug: "derebogaz-kalesi"
 description: "# Dereboğaz Kalesi: Tarihi ve Ünlü Yerinin Gizemi..."
 featured_image: ""
 province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
+iller: '["Bitlis Vilayeti"]'
 district: "Malazgirt"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.4801674,39.1058655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dereboğaz Kalesi: Tarihi ve Ünlü Yerinin Gizemi

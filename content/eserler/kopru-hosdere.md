@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Hoşdere | Miras Haritası"
-date: 2025-12-25T02:53:16+03:00
+title: "Köprü, Hoşdere"
+date: "2025-12-25T02:53:16+03:00"
 slug: "kopru-hosdere"
 description: "### Hoşdere Köprüsü: Esenyurt'taki Tarihi bir Ölümsüz..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Esenyurt"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.6455498,41.0800514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hoşdere Köprüsü: Esenyurt'taki Tarihi bir Ölümsüz

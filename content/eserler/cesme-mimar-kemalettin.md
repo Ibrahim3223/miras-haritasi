@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Mimar Kemalettin | Miras Haritası"
-date: 2025-12-25T12:02:38+03:00
+title: "Çeşme, Mimar Kemalettin"
+date: "2025-12-25T12:02:38+03:00"
 slug: "cesme-mimar-kemalettin"
 description: "## Çeşme, Mimar Kemalettin: Fatih, İstanbul'un Eski Meydanı'nın Yıldızlarından biri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9656887,41.0087395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Mimar Kemalettin: Fatih, İstanbul'un Eski Meydanı'nın Yıldızlarından biri

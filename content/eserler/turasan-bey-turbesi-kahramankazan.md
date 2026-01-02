@@ -1,18 +1,17 @@
 ---
-title: "Turasan Bey Türbesi, Kahramankazan | Miras Haritası"
-date: 2025-12-25T13:54:52+03:00
+title: "Turasan Bey Türbesi, Kahramankazan"
+date: "2025-12-25T13:54:52+03:00"
 slug: "turasan-bey-turbesi-kahramankazan"
 description: "### Turasan Bey Türbesi: Kahramankazan'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kahramankazan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.572319,40.2781563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Turasan Bey Türbesi: Kahramankazan'ın Tarihi Bir Anıtı

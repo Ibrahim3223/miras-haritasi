@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmet Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:25:53+03:00
+title: "Hacı Mehmet Çeşmesi"
+date: "2025-12-25T10:25:53+03:00"
 slug: "haci-mehmet-cesmesi"
 description: "**Hacı Mehmet Çeşmesi: Altındağ'un Tarihî Çeşmesi**..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8718834,39.9365425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hacı Mehmet Çeşmesi: Altındağ'un Tarihî Çeşmesi**

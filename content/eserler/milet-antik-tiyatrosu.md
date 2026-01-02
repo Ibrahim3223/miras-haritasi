@@ -1,18 +1,17 @@
 ---
-title: "Milet Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:10:30+03:00
+title: "Milet Antik Tiyatrosu"
+date: "2025-12-25T08:10:30+03:00"
 slug: "milet-antik-tiyatrosu"
 description: "### Milet Antik Tiyatrosu: Tarih, Kültür ve Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Antikes_Theater_in_Milet_(Türkei),_Orchestra_und_Zuschauerraum.JPG/1200px-Antikes_Theater_in_Milet_(Türkei),_Orchestra_und_Zuschauerraum.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.27574,37.53059"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Milet Antik Tiyatrosu: Tarih, Kültür ve Miras

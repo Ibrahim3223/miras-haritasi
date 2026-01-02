@@ -1,18 +1,17 @@
 ---
-title: "Lohzade Mehmed Emin Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:54+03:00
+title: "Lohzade Mehmed Emin Çeşmesi"
+date: "2025-12-25T10:45:54+03:00"
 slug: "lohzade-mehmed-emin-cesmesi"
 description: "## Lohzade Mehmed Emin Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5188084,39.763279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lohzade Mehmed Emin Çeşmesi

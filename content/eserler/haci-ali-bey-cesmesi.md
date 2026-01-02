@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ali Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:13:06+03:00
+title: "Hacı Ali Bey Çeşmesi"
+date: "2025-12-25T10:13:06+03:00"
 slug: "haci-ali-bey-cesmesi"
 description: "### Hacı Ali Bey Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4720497,40.7324638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Ali Bey Çeşmesi

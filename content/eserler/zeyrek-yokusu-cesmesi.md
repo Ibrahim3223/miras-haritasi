@@ -1,18 +1,17 @@
 ---
-title: "Zeyrek Yokuşu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:11:13+03:00
+title: "Zeyrek Yokuşu Çeşmesi"
+date: "2025-12-25T11:11:13+03:00"
 slug: "zeyrek-yokusu-cesmesi"
 description: "## Zeyrek Yokuşu Çeşmesi: Tarihî Bir Eserin İzleri..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Zeyrek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.957676,41.018935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeyrek Yokuşu Çeşmesi: Tarihî Bir Eserin İzleri

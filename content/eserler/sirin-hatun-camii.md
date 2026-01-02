@@ -1,18 +1,17 @@
 ---
-title: "Şirin Hatun Camii | Miras Haritası"
-date: 2025-12-24T23:12:27+03:00
+title: "Şirin Hatun Camii"
+date: "2025-12-24T23:12:27+03:00"
 slug: "sirin-hatun-camii"
 description: "# Şirin Hatun Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.7194138,41.002861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şirin Hatun Camii

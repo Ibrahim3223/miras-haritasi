@@ -1,18 +1,17 @@
 ---
-title: "Magabula | Miras Haritası"
-date: 2025-12-25T04:35:42+03:00
+title: "Magabula"
+date: "2025-12-25T04:35:42+03:00"
 slug: "magabula"
 description: "### Magabula..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.039089,40.383948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Magabula

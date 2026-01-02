@@ -1,18 +1,17 @@
 ---
-title: "Çadırcı Hamamı | Miras Haritası"
-date: 2025-12-25T16:55:50+03:00
+title: "Çadırcı Hamamı"
+date: "2025-12-25T16:55:50+03:00"
 slug: "cadirci-hamami"
 description: "### Çadırcı Hamamı: Erzincan'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: "Erzurum Vilayeti"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.4906006,39.7230988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çadırcı Hamamı: Erzincan'ın Tarihi Bir Mirası

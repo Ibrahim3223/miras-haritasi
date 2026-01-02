@@ -1,18 +1,17 @@
 ---
-title: "Kınıklar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:54:49+03:00
+title: "Kınıklar Tümülüsü"
+date: "2025-12-25T07:54:49+03:00"
 slug: "kiniklar-tumulusu"
 description: "## Kınıklar Tümülüsü: Tekirdağ'ın Gizemi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1887321,40.9179192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kınıklar Tümülüsü: Tekirdağ'ın Gizemi

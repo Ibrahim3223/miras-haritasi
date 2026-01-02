@@ -1,18 +1,17 @@
 ---
-title: "Hasan Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:55+03:00
+title: "Hasan Paşa Çeşmesi"
+date: "2025-12-25T10:41:55+03:00"
 slug: "hasan-pasa-cesmesi"
 description: "### Hasan Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hasan_Paşa_Çeşmesi,_Aksaray.jpg/1200px-Hasan_Paşa_Çeşmesi,_Aksaray.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.951277777,41.011222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hasan Paşa Çeşmesi

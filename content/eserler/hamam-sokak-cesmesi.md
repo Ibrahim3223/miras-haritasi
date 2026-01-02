@@ -1,18 +1,17 @@
 ---
-title: "Hamam Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:09:58+03:00
+title: "Hamam Sokak Çeşmesi"
+date: "2025-12-25T12:09:58+03:00"
 slug: "hamam-sokak-cesmesi"
 description: "### Hamam Sokak Çeşmesi: Üsküdar'da Tarihi Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hamam_Sokak_Çeşmesi.jpg/1200px-Hamam_Sokak_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.016588,41.010771"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hamam Sokak Çeşmesi: Üsküdar'da Tarihi Bir Çeşme

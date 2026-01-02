@@ -1,18 +1,17 @@
 ---
-title: "Yigma Tepe Tumulus | Miras Haritası"
-date: 2025-12-25T07:17:00+03:00
+title: "Yigma Tepe Tumulus"
+date: "2025-12-25T07:17:00+03:00"
 slug: "yigma-tepe-tumulus"
 description: "### Yigma Tepe Tumulus: İzmir'in Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.18096,39.10437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yigma Tepe Tumulus: İzmir'in Gizli Mirası

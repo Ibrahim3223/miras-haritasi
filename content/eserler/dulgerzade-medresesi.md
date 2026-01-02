@@ -1,18 +1,17 @@
 ---
-title: "Dülgerzade Medresesi | Miras Haritası"
-date: 2025-12-25T17:31:13+03:00
+title: "Dülgerzade Medresesi"
+date: "2025-12-25T17:31:13+03:00"
 slug: "dulgerzade-medresesi"
 description: "### Dülgerzade Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.951349,41.016094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dülgerzade Medresesi

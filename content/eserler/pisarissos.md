@@ -1,18 +1,17 @@
 ---
-title: "Pisarissos | Miras Haritası"
-date: 2025-12-25T04:49:06+03:00
+title: "Pisarissos"
+date: "2025-12-25T04:49:06+03:00"
 slug: "pisarissos"
 description: "## Pisarissos: Türkiye'nin Gizli Ören Yeri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.728062,36.660868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pisarissos: Türkiye'nin Gizli Ören Yeri

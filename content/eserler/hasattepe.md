@@ -1,18 +1,17 @@
 ---
-title: "Haşattepe | Miras Haritası"
-date: 2025-12-25T05:58:38+03:00
+title: "Haşattepe"
+date: "2025-12-25T05:58:38+03:00"
 slug: "hasattepe"
 description: "### Haşattepe: Aydın'ın Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5618,37.8765984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haşattepe: Aydın'ın Gizli Arkeolojik Harikası

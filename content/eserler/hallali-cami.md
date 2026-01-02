@@ -1,18 +1,17 @@
 ---
-title: "Hallalı Cami | Miras Haritası"
-date: 2025-12-24T23:31:58+03:00
+title: "Hallalı Cami"
+date: "2025-12-24T23:31:58+03:00"
 slug: "hallali-cami"
 description: "### Hallalı Cami: Balıkesir'in Tarihî Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6289234,39.5836563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hallalı Cami: Balıkesir'in Tarihî Bir Mirası

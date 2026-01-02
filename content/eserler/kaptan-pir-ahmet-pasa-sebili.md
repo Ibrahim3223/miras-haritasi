@@ -1,18 +1,17 @@
 ---
-title: "Kaptan Pir Ahmet Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:08:53+03:00
+title: "Kaptan Pir Ahmet Paşa Sebili"
+date: "2025-12-25T13:08:53+03:00"
 slug: "kaptan-pir-ahmet-pasa-sebili"
 description: "### Kaptan Pir Ahmet Paşa Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.947709,41.021694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaptan Pir Ahmet Paşa Sebili

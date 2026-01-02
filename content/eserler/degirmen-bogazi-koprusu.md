@@ -1,18 +1,17 @@
 ---
-title: "Değirmen Boğazı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:47:38+03:00
+title: "Değirmen Boğazı Köprüsü"
+date: "2025-12-25T02:47:38+03:00"
 slug: "degirmen-bogazi-koprusu"
 description: "## Değirmen Boğazı Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Altıeylül"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.966032399,39.69724454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmen Boğazı Köprüsü

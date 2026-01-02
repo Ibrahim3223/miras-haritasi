@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Bedreddin Türbe Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:33:39+03:00
+title: "Şeyh Bedreddin Türbe Çeşmesi"
+date: "2025-12-25T11:33:39+03:00"
 slug: "seyh-bedreddin-turbe-cesmesi"
 description: "**Şeyh Bedreddin Türbe Çeşmesi**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6065292,37.4393616"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Bedreddin Türbe Çeşmesi**

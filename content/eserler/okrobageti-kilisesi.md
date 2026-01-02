@@ -1,18 +1,17 @@
 ---
-title: "Okrobageti Kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:46+03:00
+title: "Okrobageti Kilisesi"
+date: "2025-12-25T08:58:46+03:00"
 slug: "okrobageti-kilisesi"
 description: "## Okrobageti Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.445916666,41.266722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Okrobageti Kilisesi

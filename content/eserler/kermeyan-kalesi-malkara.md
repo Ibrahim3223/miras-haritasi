@@ -1,18 +1,17 @@
 ---
-title: "Kermeyan Kalesi, Malkara | Miras Haritası"
-date: 2025-12-25T01:27:42+03:00
+title: "Kermeyan Kalesi, Malkara"
+date: "2025-12-25T01:27:42+03:00"
 slug: "kermeyan-kalesi-malkara"
 description: "## Kermeyan Kalesi: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: ["İstanbul Vilayeti"]
+iller: '["İstanbul Vilayeti"]'
 district: "Malkara"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.1017151,40.9285011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kermeyan Kalesi: Türkiye'nin Tarihi ve Kültürel Mirası

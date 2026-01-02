@@ -1,18 +1,17 @@
 ---
-title: "Saray Hamamı, Kütahya | Miras Haritası"
-date: 2025-12-25T17:07:56+03:00
+title: "Saray Hamamı, Kütahya"
+date: "2025-12-25T17:07:56+03:00"
 slug: "saray-hamami-kutahya"
 description: "## Saray Hamamı, Kütahya..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.9835129,39.4171753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saray Hamamı, Kütahya

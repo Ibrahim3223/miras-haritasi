@@ -1,18 +1,17 @@
 ---
-title: "Sururi Mehmet Efendi Camii | Miras Haritası"
-date: 2025-12-25T00:34:17+03:00
+title: "Sururi Mehmet Efendi Camii"
+date: "2025-12-25T00:34:17+03:00"
 slug: "sururi-mehmet-efendi-camii"
 description: "## Sururi Mehmet Efendi Camii: Beyoğlu'ndaki Bir Önemli Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.972173425,41.035173015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sururi Mehmet Efendi Camii: Beyoğlu'ndaki Bir Önemli Cami

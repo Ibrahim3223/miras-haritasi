@@ -1,18 +1,17 @@
 ---
-title: "Tekeli III Höyüğü | Miras Haritası"
-date: 2025-12-25T06:23:46+03:00
+title: "Tekeli III Höyüğü"
+date: "2025-12-25T06:23:46+03:00"
 slug: "tekeli-iii-hoyugu"
 description: "### Tekeli III Höyüğü..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.229355,38.9169977"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tekeli III Höyüğü

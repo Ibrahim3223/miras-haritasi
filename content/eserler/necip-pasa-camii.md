@@ -1,18 +1,17 @@
 ---
-title: "Necip Paşa Camii | Miras Haritası"
-date: 2025-12-25T00:07:58+03:00
+title: "Necip Paşa Camii"
+date: "2025-12-25T00:07:58+03:00"
 slug: "necip-pasa-camii"
 description: "## Necip Paşa Camii..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.410030629,40.156621848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Necip Paşa Camii

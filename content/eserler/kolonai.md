@@ -1,18 +1,17 @@
 ---
-title: "Kolonai | Miras Haritası"
-date: 2025-12-25T04:24:00+03:00
+title: "Kolonai"
+date: "2025-12-25T04:24:00+03:00"
 slug: "kolonai"
 description: "## Kolonai: Tarihî Mirasın Gizemli Kalıntıları..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.16333333,39.68972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kolonai: Tarihî Mirasın Gizemli Kalıntıları

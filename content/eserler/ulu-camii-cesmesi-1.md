@@ -1,18 +1,17 @@
 ---
-title: "Ulu Camii Çeşmesi (1) | Miras Haritası"
-date: 2025-12-25T11:28:56+03:00
+title: "Ulu Camii Çeşmesi (1)"
+date: "2025-12-25T11:28:56+03:00"
 slug: "ulu-camii-cesmesi-1"
 description: "## Ulu Camii Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.429985,38.6082764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulu Camii Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Dikilitaş, Mersin | Miras Haritası"
-date: 2025-12-25T07:12:41+03:00
+title: "Dikilitaş, Mersin"
+date: "2025-12-25T07:12:41+03:00"
 slug: "dikilitas-mersin"
 description: "### Dikilitaş, Mersin..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.65,36.85"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dikilitaş, Mersin

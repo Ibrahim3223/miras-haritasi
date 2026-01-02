@@ -1,18 +1,17 @@
 ---
-title: "Serçe Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:19+03:00
+title: "Serçe Hamamı"
+date: "2025-12-25T17:02:19+03:00"
 slug: "serce-hamami"
 description: "### Serçe Hamamı: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.7885361,37.1552391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Serçe Hamamı: Şanlıurfa'nın Tarihi Bir Mirası

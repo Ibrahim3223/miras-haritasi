@@ -1,18 +1,17 @@
 ---
-title: "Saint Bartholomew's Church (Albayrak) | Miras Haritası"
-date: 2025-12-25T08:47:33+03:00
+title: "Saint Bartholomew's Church (Albayrak)"
+date: "2025-12-25T08:47:33+03:00"
 slug: "saint-bartholomews-church-albayrak"
 description: "## Saint Bartholomew's Church (Albayrak)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saint Bartholomew's Church (Albayrak)

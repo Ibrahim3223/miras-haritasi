@@ -1,18 +1,17 @@
 ---
-title: "Emre Mevkii | Miras Haritası"
-date: 2025-12-25T05:49:16+03:00
+title: "Emre Mevkii"
+date: "2025-12-25T05:49:16+03:00"
 slug: "emre-mevkii"
 description: "### Emre Mevkii Arkeolojik Sit..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Altıeylül"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.01885,39.588333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Emre Mevkii Arkeolojik Sit

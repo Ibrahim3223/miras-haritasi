@@ -1,18 +1,17 @@
 ---
-title: "Ali Ağa Camii, Kars | Miras Haritası"
-date: 2025-12-25T00:02:22+03:00
+title: "Ali Ağa Camii, Kars"
+date: "2025-12-25T00:02:22+03:00"
 slug: "ali-aga-camii-kars"
 description: "### Ali Ağa Camii, Kars: Tarihi ve Kültürel Mirasın Parçaları..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.0917358,40.6097832"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Ağa Camii, Kars: Tarihi ve Kültürel Mirasın Parçaları

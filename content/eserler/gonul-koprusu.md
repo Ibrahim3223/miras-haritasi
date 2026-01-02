@@ -1,18 +1,17 @@
 ---
-title: "Gönül Köprüsü | Miras Haritası"
-date: 2025-12-25T01:58:29+03:00
+title: "Gönül Köprüsü"
+date: "2025-12-25T01:58:29+03:00"
 slug: "gonul-koprusu"
 description: "### Gönül Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ayvalik_bridge.png/1200px-Ayvalik_bridge.png"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.68444444,39.34388889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Gönül Köprüsü

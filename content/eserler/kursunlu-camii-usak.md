@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, Uşak | Miras Haritası"
-date: 2025-12-24T23:21:29+03:00
+title: "Kurşunlu Camii, Uşak"
+date: "2025-12-24T23:21:29+03:00"
 slug: "kursunlu-camii-usak"
 description: "## Kurşunlu Camii: Uşak'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4079323,38.6820183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Camii: Uşak'ın Tarihi Bir Mirası

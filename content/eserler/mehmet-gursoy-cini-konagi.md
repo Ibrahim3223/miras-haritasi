@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Gürsoy Çini Konağı | Miras Haritası"
-date: 2025-12-25T03:53:17+03:00
+title: "Mehmet Gürsoy Çini Konağı"
+date: "2025-12-25T03:53:17+03:00"
 slug: "mehmet-gursoy-cini-konagi"
 description: "**Mehmet Gürsoy Çini Konağı: Kütahya'nın Gizli Müzesi**..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9790554,39.4218407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mehmet Gürsoy Çini Konağı: Kütahya'nın Gizli Müzesi**

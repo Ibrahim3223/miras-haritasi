@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mahmut Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:27:41+03:00
+title: "Hacı Mahmut Ağa Camii"
+date: "2025-12-24T23:27:41+03:00"
 slug: "haci-mahmut-aga-camii"
 description: "## Hacı Mahmut Ağa Camii: Adana'nın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.3304901,36.9820404"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mahmut Ağa Camii: Adana'nın Tarihi Bir Mirası

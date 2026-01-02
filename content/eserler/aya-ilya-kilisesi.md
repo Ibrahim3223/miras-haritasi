@@ -1,18 +1,17 @@
 ---
-title: "Aya İlya Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:53+03:00
+title: "Aya İlya Kilisesi"
+date: "2025-12-25T09:37:53+03:00"
 slug: "aya-ilya-kilisesi"
 description: "### Aya İlya Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.1838703,41.7502937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya İlya Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Kızlık Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:25:48+03:00
+title: "Kızlık Çeşmesi"
+date: "2025-12-25T12:25:48+03:00"
 slug: "kizlik-cesmesi"
 description: "### Kızlık Çeşmesi: Mardin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.74149,37.311506"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızlık Çeşmesi: Mardin'in Gizli Çeşmesi

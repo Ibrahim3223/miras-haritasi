@@ -1,18 +1,17 @@
 ---
-title: "Alangüllü Kaplıcası | Miras Haritası"
-date: 2025-12-25T16:52:35+03:00
+title: "Alangüllü Kaplıcası"
+date: "2025-12-25T16:52:35+03:00"
 slug: "alangullu-kaplicasi"
 description: "## Alangüllü Kaplıcası: Aydın'ın Tarihi Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.6244678,37.9331703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alangüllü Kaplıcası: Aydın'ın Tarihi Hamamı

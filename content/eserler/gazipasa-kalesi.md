@@ -1,18 +1,17 @@
 ---
-title: "Gazipaşa Kalesi | Miras Haritası"
-date: 2025-12-25T01:37:12+03:00
+title: "Gazipaşa Kalesi"
+date: "2025-12-25T01:37:12+03:00"
 slug: "gazipasa-kalesi"
 description: "## Gazipaşa Kalesi: Tarihî Bir Mirasın Tanıtımı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Gazipaşa"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.2827492,36.2584496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gazipaşa Kalesi: Tarihî Bir Mirasın Tanıtımı

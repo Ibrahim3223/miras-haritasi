@@ -1,18 +1,17 @@
 ---
-title: "Kale Çeşmesi (Vize) | Miras Haritası"
-date: 2025-12-25T11:47:40+03:00
+title: "Kale Çeşmesi (Vize)"
+date: "2025-12-25T11:47:40+03:00"
 slug: "kale-cesmesi-vize"
 description: "## Kale Çeşmesi (Vize)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kale_Fountain_(Vize)_-_20250602105359.jpg/1200px-Kale_Fountain_(Vize)_-_20250602105359.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.765912,41.57645"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kale Çeşmesi (Vize)

@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Akif Ersoy Müze Evi | Miras Haritası"
-date: 2025-12-25T03:22:36+03:00
+title: "Mehmet Akif Ersoy Müze Evi"
+date: "2025-12-25T03:22:36+03:00"
 slug: "mehmet-akif-ersoy-muze-evi"
 description: "# Mehmet Akif Ersoy Müze Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mehmet_Akif_Ersoy_müze_evi.JPG/1200px-Mehmet_Akif_Ersoy_müze_evi.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.864798,39.932666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Mehmet Akif Ersoy Müze Evi

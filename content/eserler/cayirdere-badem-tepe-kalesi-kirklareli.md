@@ -1,18 +1,17 @@
 ---
-title: "Çayırdere Badem Tepe Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:49:45+03:00
+title: "Çayırdere Badem Tepe Kalesi, Kırklareli"
+date: "2025-12-25T01:49:45+03:00"
 slug: "cayirdere-badem-tepe-kalesi-kirklareli"
 description: "# Çayırdere Badem Tepe Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5146809,41.6949272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çayırdere Badem Tepe Kalesi, Kırklareli

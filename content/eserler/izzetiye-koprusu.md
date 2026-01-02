@@ -1,18 +1,17 @@
 ---
-title: "İzzetiye Köprüsü | Miras Haritası"
-date: 2025-12-25T03:02:12+03:00
+title: "İzzetiye Köprüsü"
+date: "2025-12-25T03:02:12+03:00"
 slug: "izzetiye-koprusu"
 description: "## İzzetiye Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6467037,40.8094673"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzzetiye Köprüsü

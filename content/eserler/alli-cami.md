@@ -1,18 +1,17 @@
 ---
-title: "Allı Cami | Miras Haritası"
-date: 2025-12-24T22:07:52+03:00
+title: "Allı Cami"
+date: "2025-12-24T22:07:52+03:00"
 slug: "alli-cami"
 description: "## Allı Cami: Denizli'nin Tarihi ve Kültürel Mirasları Arasındaki Devasa Bir Ören..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.093523,37.7688217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Allı Cami: Denizli'nin Tarihi ve Kültürel Mirasları Arasındaki Devasa Bir Ören

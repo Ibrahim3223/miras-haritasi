@@ -1,18 +1,17 @@
 ---
-title: "Evlice Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:30:52+03:00
+title: "Evlice Baba Kabri"
+date: "2025-12-25T13:30:52+03:00"
 slug: "evlice-baba-kabri"
 description: "## Evlice Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9294014,41.0528145"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evlice Baba Kabri

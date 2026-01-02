@@ -1,18 +1,17 @@
 ---
-title: "Yörük Dede Türbesi, Altındağ | Miras Haritası"
-date: 2025-12-25T13:55:59+03:00
+title: "Yörük Dede Türbesi, Altındağ"
+date: "2025-12-25T13:55:59+03:00"
 slug: "yoruk-dede-turbesi-altindag"
 description: "# Yörük Dede Türbesi, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8709869,39.935215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yörük Dede Türbesi, Altındağ

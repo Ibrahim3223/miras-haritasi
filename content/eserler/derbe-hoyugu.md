@@ -1,18 +1,17 @@
 ---
-title: "Derbe Höyüğü | Miras Haritası"
-date: 2025-12-25T14:01:15+03:00
+title: "Derbe Höyüğü"
+date: "2025-12-25T14:01:15+03:00"
 slug: "derbe-hoyugu"
 description: "**Derbe Höyüğü: Karaman'ın Gizli Kahramanı**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.3618736,37.349179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Derbe Höyüğü: Karaman'ın Gizli Kahramanı**

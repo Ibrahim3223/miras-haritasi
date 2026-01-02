@@ -1,18 +1,17 @@
 ---
-title: "Hazinedar Camii, Sivrihisar | Miras Haritası"
-date: 2025-12-25T00:32:07+03:00
+title: "Hazinedar Camii, Sivrihisar"
+date: "2025-12-25T00:32:07+03:00"
 slug: "hazinedar-camii-sivrihisar"
 description: "**Hazinedar Camii: Sivrihisar'ın Büyüleyici Mimari Çağı**..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5348606,39.4496841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hazinedar Camii: Sivrihisar'ın Büyüleyici Mimari Çağı**

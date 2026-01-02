@@ -1,18 +1,17 @@
 ---
-title: "Akköy Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:58:37+03:00
+title: "Akköy Köyü Camii"
+date: "2025-12-24T22:58:37+03:00"
 slug: "akkoy-koyu-camii"
 description: "### Akköy Köyü Camii: Giresun'un Tarihî Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çanakçı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.008714,40.90044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akköy Köyü Camii: Giresun'un Tarihî Mirası

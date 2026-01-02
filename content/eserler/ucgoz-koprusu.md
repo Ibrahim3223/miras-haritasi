@@ -1,18 +1,17 @@
 ---
-title: "Üçgöz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:45:34+03:00
+title: "Üçgöz Köprüsü"
+date: "2025-12-25T02:45:34+03:00"
 slug: "ucgoz-koprusu"
 description: "# Üçgöz Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gönen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.68545974,40.152687337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Üçgöz Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Tavaklı Sakar Dağı Kalesi | Miras Haritası"
-date: 2025-12-25T01:43:08+03:00
+title: "Tavaklı Sakar Dağı Kalesi"
+date: "2025-12-25T01:43:08+03:00"
 slug: "tavakli-sakar-dagi-kalesi"
 description: "## Tavaklı Sakar Dağı Kalesi..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.2064362,39.6639709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavaklı Sakar Dağı Kalesi

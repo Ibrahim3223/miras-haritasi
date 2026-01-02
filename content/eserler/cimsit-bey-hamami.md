@@ -1,18 +1,17 @@
 ---
-title: "Cimşit Bey Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:42+03:00
+title: "Cimşit Bey Hamamı"
+date: "2025-12-25T16:34:42+03:00"
 slug: "cimsit-bey-hamami"
 description: "## Cimşit Bey Hamamı..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.2526283,38.7045937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cimşit Bey Hamamı

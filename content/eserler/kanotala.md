@@ -1,18 +1,17 @@
 ---
-title: "Kanotala | Miras Haritası"
-date: 2025-12-25T05:05:04+03:00
+title: "Kanotala"
+date: "2025-12-25T05:05:04+03:00"
 slug: "kanotala"
 description: "### Kanotala: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.346773,38.301338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kanotala: Aksaray'ın Gizli Kahramanı

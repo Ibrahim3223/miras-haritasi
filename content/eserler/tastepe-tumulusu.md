@@ -1,18 +1,17 @@
 ---
-title: "Taştepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:41:26+03:00
+title: "Taştepe Tümülüsü"
+date: "2025-12-25T07:41:26+03:00"
 slug: "tastepe-tumulusu"
 description: "## Taştepe Tümülüsü: Edirne'nin Gizli Tarihî Harikası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.631974731,41.945403718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taştepe Tümülüsü: Edirne'nin Gizli Tarihî Harikası

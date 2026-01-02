@@ -1,18 +1,17 @@
 ---
-title: "Selymbria Kenti Nekropolü | Miras Haritası"
-date: 2025-12-25T05:43:08+03:00
+title: "Selymbria Kenti Nekropolü"
+date: "2025-12-25T05:43:08+03:00"
 slug: "selymbria-kenti-nekropolu"
 description: "## Selymbria Kenti Nekropolü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.253603,41.0701141"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selymbria Kenti Nekropolü

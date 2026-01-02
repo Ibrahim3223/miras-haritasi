@@ -1,18 +1,17 @@
 ---
-title: "Poemanon | Miras Haritası"
-date: 2025-12-25T04:43:58+03:00
+title: "Poemanon"
+date: "2025-12-25T04:43:58+03:00"
 slug: "poemanon"
 description: "## Poemanen Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.892299,40.07897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Poemanen Arkeolojik Sitesi

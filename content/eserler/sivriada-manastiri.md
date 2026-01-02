@@ -1,18 +1,17 @@
 ---
-title: "Sivriada Manastırı | Miras Haritası"
-date: 2025-12-25T09:59:22+03:00
+title: "Sivriada Manastırı"
+date: "2025-12-25T09:59:22+03:00"
 slug: "sivriada-manastiri"
 description: "## Sivriada Manastırı: Adalar'ın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "28.9732227,40.8753395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivriada Manastırı: Adalar'ın Gizli Cenneti

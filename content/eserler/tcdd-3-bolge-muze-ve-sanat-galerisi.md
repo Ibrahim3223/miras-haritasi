@@ -1,18 +1,17 @@
 ---
-title: "TCDD 3. Bölge Müze ve Sanat Galerisi | Miras Haritası"
-date: 2025-12-25T03:11:21+03:00
+title: "TCDD 3. Bölge Müze ve Sanat Galerisi"
+date: "2025-12-25T03:11:21+03:00"
 slug: "tcdd-3-bolge-muze-ve-sanat-galerisi"
 description: "### TCDD 3. Bölge Müze ve Sanat Galerisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/TCDD_3._Bölge_Müze_ve_Sanat_Galerisi.jpg/1200px-TCDD_3._Bölge_Müze_ve_Sanat_Galerisi.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.147349607,38.438375717"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### TCDD 3. Bölge Müze ve Sanat Galerisi

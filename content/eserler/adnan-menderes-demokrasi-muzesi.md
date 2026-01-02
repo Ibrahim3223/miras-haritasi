@@ -1,18 +1,17 @@
 ---
-title: "Adnan Menderes Demokrasi Müzesi | Miras Haritası"
-date: 2025-12-25T04:01:14+03:00
+title: "Adnan Menderes Demokrasi Müzesi"
+date: "2025-12-25T04:01:14+03:00"
 slug: "adnan-menderes-demokrasi-muzesi"
 description: "## Adnan Menderes Demokrasi Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.834152,37.762262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adnan Menderes Demokrasi Müzesi

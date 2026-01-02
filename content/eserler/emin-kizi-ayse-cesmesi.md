@@ -1,18 +1,17 @@
 ---
-title: "Emin Kızı Ayşe Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:00+03:00
+title: "Emin Kızı Ayşe Çeşmesi"
+date: "2025-12-25T10:28:00+03:00"
 slug: "emin-kizi-ayse-cesmesi"
 description: "**Emin Kızı Ayşe Çeşmesi: Aydın'ın Zekice Tasarlanmış Çeşmesi**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6293278,37.7572708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Emin Kızı Ayşe Çeşmesi: Aydın'ın Zekice Tasarlanmış Çeşmesi**

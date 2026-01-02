@@ -1,18 +1,17 @@
 ---
-title: "Nazif Paşa Köşkü Hamamı Kalıntısı | Miras Haritası"
-date: 2025-12-25T17:12:04+03:00
+title: "Nazif Paşa Köşkü Hamamı Kalıntısı"
+date: "2025-12-25T17:12:04+03:00"
 slug: "nazif-pasa-kosku-hamami-kalintisi"
 description: "## Nazif Paşa Köşkü Hamamı Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.053072,41.0239944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nazif Paşa Köşkü Hamamı Kalıntısı

@@ -1,18 +1,17 @@
 ---
-title: "Damasei | Miras Haritası"
-date: 2025-12-25T04:54:09+03:00
+title: "Damasei"
+date: "2025-12-25T04:54:09+03:00"
 slug: "damasei"
 description: "**Damasei Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.983386,36.29873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Damasei Arkeolojik Sit**

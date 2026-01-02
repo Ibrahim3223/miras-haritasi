@@ -1,18 +1,17 @@
 ---
-title: "Emirali Tepe Antik Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:03:36+03:00
+title: "Emirali Tepe Antik Yerleşimi"
+date: "2025-12-25T06:03:36+03:00"
 slug: "emirali-tepe-antik-yerlesimi"
 description: "## Emirali Tepe Antik Yerleşimi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9514713,39.0236969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emirali Tepe Antik Yerleşimi

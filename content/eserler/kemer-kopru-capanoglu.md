@@ -1,18 +1,17 @@
 ---
-title: "Kemer Köprü, Çapanoğlu | Miras Haritası"
-date: 2025-12-25T02:47:15+03:00
+title: "Kemer Köprü, Çapanoğlu"
+date: "2025-12-25T02:47:15+03:00"
 slug: "kemer-kopru-capanoglu"
 description: "## Kemer Köprü, Çapanoğlu..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.8006859,39.7752037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemer Köprü, Çapanoğlu

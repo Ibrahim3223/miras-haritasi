@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Medresesi | Miras Haritası"
-date: 2025-12-25T17:42:16+03:00
+title: "Yıldırım Medresesi"
+date: "2025-12-25T17:42:16+03:00"
 slug: "yildirim-medresesi"
 description: "### Yıldırım Medresesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.8830814,39.6507835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yıldırım Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Anabura (Pisidya) | Miras Haritası"
-date: 2025-12-25T05:10:46+03:00
+title: "Anabura (Pisidya)"
+date: "2025-12-25T05:10:46+03:00"
 slug: "anabura-pisidya"
 description: "# Anabura (Pisidya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.285104,37.990797"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Anabura (Pisidya)

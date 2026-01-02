@@ -1,18 +1,17 @@
 ---
-title: "Azep Bey Camii | Miras Haritası"
-date: 2025-12-24T23:49:31+03:00
+title: "Azep Bey Camii"
+date: "2025-12-24T23:49:31+03:00"
 slug: "azep-bey-camii"
 description: "## Azep Bey Camii: Bursa'nın Tarihî ve Kültürel Mirasının Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/AZERBEY_CAMİSİ_-_panoramio_(1).jpg/1200px-AZERBEY_CAMİSİ_-_panoramio_(1).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0449257,40.1886406"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Azep Bey Camii: Bursa'nın Tarihî ve Kültürel Mirasının Bir Parçası

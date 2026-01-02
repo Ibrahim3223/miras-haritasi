@@ -1,18 +1,17 @@
 ---
-title: "Eski Çine Kalesi | Miras Haritası"
-date: 2025-12-25T01:51:21+03:00
+title: "Eski Çine Kalesi"
+date: "2025-12-25T01:51:21+03:00"
 slug: "eski-cine-kalesi"
 description: "## Eski Çine Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.0706005,37.5383987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Çine Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "Hamza Bey Camii, Tokat | Miras Haritası"
-date: 2025-12-24T23:18:02+03:00
+title: "Hamza Bey Camii, Tokat"
+date: "2025-12-24T23:18:02+03:00"
 slug: "hamza-bey-camii-tokat"
 description: "### Hamza Bey Camii, Tokat..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5562782,40.3176498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamza Bey Camii, Tokat

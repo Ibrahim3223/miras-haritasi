@@ -1,18 +1,17 @@
 ---
-title: "Taşgun Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:49+03:00
+title: "Taşgun Baba Türbesi"
+date: "2025-12-25T15:28:49+03:00"
 slug: "tasgun-baba-turbesi"
 description: "## Taşgun Baba Türbesi: Altınekin'in Gizli Çağı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Altınekin"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.7124901,38.331234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşgun Baba Türbesi: Altınekin'in Gizli Çağı

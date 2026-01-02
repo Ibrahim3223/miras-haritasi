@@ -1,18 +1,17 @@
 ---
-title: "Buğdaypazarı Camii | Miras Haritası"
-date: 2025-12-24T22:26:50+03:00
+title: "Buğdaypazarı Camii"
+date: "2025-12-24T22:26:50+03:00"
 slug: "bugdaypazari-camii"
 description: "**Buğdaypazarı Camii**..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.6192207,40.6010437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Buğdaypazarı Camii**

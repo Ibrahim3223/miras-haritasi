@@ -1,18 +1,17 @@
 ---
-title: "Koç Üniversitesi Suna Kıraç Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:23+03:00
+title: "Koç Üniversitesi Suna Kıraç Kütüphanesi"
+date: "2025-12-25T17:50:23+03:00"
 slug: "koc-universitesi-suna-kirac-kutuphanesi"
 description: "## Koç Üniversitesi Suna Kıraç Kütüphanesi: İstanbul'un İleri Düzeyli Eğitim Merkezinde Bir İhtişam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.0706473,41.20548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koç Üniversitesi Suna Kıraç Kütüphanesi: İstanbul'un İleri Düzeyli Eğitim Merkezinde Bir İhtişam

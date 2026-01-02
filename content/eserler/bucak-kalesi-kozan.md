@@ -1,18 +1,17 @@
 ---
-title: "Bucak Kalesi, Kozan | Miras Haritası"
-date: 2025-12-25T01:39:44+03:00
+title: "Bucak Kalesi, Kozan"
+date: "2025-12-25T01:39:44+03:00"
 slug: "bucak-kalesi-kozan"
 description: "## Bucak Kalesi, Kozan..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.9244003,37.4477158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bucak Kalesi, Kozan

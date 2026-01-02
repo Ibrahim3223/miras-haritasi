@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Güllük Camii | Miras Haritası"
-date: 2025-12-24T23:48:04+03:00
+title: "Yukarı Güllük Camii"
+date: "2025-12-24T23:48:04+03:00"
 slug: "yukari-gulluk-camii"
 description: "# Yukarı Güllük Camii: Karaman'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8976135,36.6376114"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yukarı Güllük Camii: Karaman'ın Tarihi Bir Mirası

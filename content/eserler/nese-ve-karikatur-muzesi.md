@@ -1,18 +1,17 @@
 ---
-title: "Neşe ve Karikatür Müzesi | Miras Haritası"
-date: 2025-12-25T03:33:24+03:00
+title: "Neşe ve Karikatür Müzesi"
+date: "2025-12-25T03:33:24+03:00"
 slug: "nese-ve-karikatur-muzesi"
 description: "## Neşe ve Karikatür Müzesi: İşte İzmir'in Komik Çehresi!..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.143724655,38.437950347"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neşe ve Karikatür Müzesi: İşte İzmir'in Komik Çehresi!

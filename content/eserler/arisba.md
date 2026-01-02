@@ -1,18 +1,17 @@
 ---
-title: "Arisba | Miras Haritası"
-date: 2025-12-25T04:30:03+03:00
+title: "Arisba"
+date: "2025-12-25T04:30:03+03:00"
 slug: "arisba"
 description: "## Arisba: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Çanakkale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.542314,40.199817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arisba: Çanakkale'nin Gizli Mirası

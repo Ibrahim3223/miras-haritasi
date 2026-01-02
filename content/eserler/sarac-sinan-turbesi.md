@@ -1,18 +1,17 @@
 ---
-title: "Saraç Sinan Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:21+03:00
+title: "Saraç Sinan Türbesi"
+date: "2025-12-25T14:54:21+03:00"
 slug: "sarac-sinan-turbesi"
 description: "### Saraç Sinan Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8686142,39.9378777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saraç Sinan Türbesi

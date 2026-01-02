@@ -1,18 +1,17 @@
 ---
-title: "Zenburi Camii | Miras Haritası"
-date: 2025-12-24T23:48:24+03:00
+title: "Zenburi Camii"
+date: "2025-12-24T23:48:24+03:00"
 slug: "zenburi-camii"
 description: "## Zenburi Camii: Konya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4982948,37.8746643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zenburi Camii: Konya'nın Tarihi Bir Mirası

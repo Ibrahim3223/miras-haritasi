@@ -1,18 +1,17 @@
 ---
-title: "Sinope | Miras Haritası"
-date: 2025-12-25T05:17:36+03:00
+title: "Sinope"
+date: "2025-12-25T05:17:36+03:00"
 slug: "sinope"
 description: "## Sinop: Türkiye'nin Tarihî ve Kültürel Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sinop"
+province: "Sinop"
+iller: '["Sinop"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.143,42.025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinop: Türkiye'nin Tarihî ve Kültürel Bir Mirası

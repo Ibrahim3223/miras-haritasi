@@ -1,18 +1,17 @@
 ---
-title: "Bulgurlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:51+03:00
+title: "Bulgurlu Hamamı"
+date: "2025-12-25T16:35:51+03:00"
 slug: "bulgurlu-hamami"
 description: "## Bulgurlu Hamamı: Üsküdar'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bulgurlu_Hamamı.jpg/1200px-Bulgurlu_Hamamı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.070892,41.018736"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bulgurlu Hamamı: Üsküdar'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Karura | Miras Haritası"
-date: 2025-12-25T04:28:37+03:00
+title: "Karura"
+date: "2025-12-25T04:28:37+03:00"
 slug: "karura"
 description: "## Karura Arkeolojik Sit..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Sarayköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.822929,37.940338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karura Arkeolojik Sit

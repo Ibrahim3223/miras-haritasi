@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Cami | Miras Haritası"
-date: 2025-12-24T23:45:51+03:00
+title: "Yukarı Cami"
+date: "2025-12-24T23:45:51+03:00"
 slug: "yukari-cami"
 description: "## Yukarı Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.7712002,37.7100983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Cami

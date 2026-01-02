@@ -1,18 +1,17 @@
 ---
-title: "Karacaoğlan Edebiyat Müze Kütüphanesi | Miras Haritası"
-date: 2025-12-25T03:42:28+03:00
+title: "Karacaoğlan Edebiyat Müze Kütüphanesi"
+date: "2025-12-25T03:42:28+03:00"
 slug: "karacaoglan-edebiyat-muze-kutuphanesi"
 description: "## Karacaoğlan Edebiyat Müze Kütüphanesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.3295174,36.9797478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karacaoğlan Edebiyat Müze Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Arpa Emini Mescidi | Miras Haritası"
-date: 2025-12-24T22:22:52+03:00
+title: "Arpa Emini Mescidi"
+date: "2025-12-24T22:22:52+03:00"
 slug: "arpa-emini-mescidi"
 description: "### Arpa Emini Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arpa_Emini_Mescidi.jpg/1200px-Arpa_Emini_Mescidi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.931946365,41.0204373"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Arpa Emini Mescidi

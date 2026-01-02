@@ -1,18 +1,17 @@
 ---
-title: "Tevfikiye Camii (İnebolu) | Miras Haritası"
-date: 2025-12-24T23:58:28+03:00
+title: "Tevfikiye Camii (İnebolu)"
+date: "2025-12-24T23:58:28+03:00"
 slug: "tevfikiye-camii-inebolu"
 description: "## Tevfikiye Camii: İnebolu'nun Tarihî ve Mimarî Harikası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7600594,41.9765663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tevfikiye Camii: İnebolu'nun Tarihî ve Mimarî Harikası

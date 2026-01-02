@@ -1,18 +1,17 @@
 ---
-title: "Kilidbahir Namazgah Tabyası Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:39+03:00
+title: "Kilidbahir Namazgah Tabyası Müzesi"
+date: "2025-12-25T03:54:39+03:00"
 slug: "kilidbahir-namazgah-tabyasi-muzesi"
 description: "## Kilidbahir Namazgah Tabyası Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.38005,40.1461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilidbahir Namazgah Tabyası Müzesi

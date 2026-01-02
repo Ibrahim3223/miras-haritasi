@@ -1,18 +1,17 @@
 ---
-title: "Bademgediği Höyüğü, Torbalı | Miras Haritası"
-date: 2025-12-25T05:45:26+03:00
+title: "Bademgediği Höyüğü, Torbalı"
+date: "2025-12-25T05:45:26+03:00"
 slug: "bademgedigi-hoyugu-torbali"
 description: "## Bademgediği Höyüğü, Torbalı: İzmir'in Gizli Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.30915,38.180317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bademgediği Höyüğü, Torbalı: İzmir'in Gizli Mirası

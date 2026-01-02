@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Müzesi (İstanbul) | Miras Haritası"
-date: 2025-12-25T03:40:09+03:00
+title: "Cumhuriyet Müzesi (İstanbul)"
+date: "2025-12-25T03:40:09+03:00"
 slug: "cumhuriyet-muzesi-istanbul"
 description: "## Cumhuriyet Müzesi: İstanbul'un Tarihini ve Kültürünü Canlandıran Bir Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/20240915_Cumhuriyet_Müzesi_(Taksim_Maksemi).jpg/1200px-20240915_Cumhuriyet_Müzesi_(Taksim_Maksemi).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.974511212,41.005328621"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cumhuriyet Müzesi: İstanbul'un Tarihini ve Kültürünü Canlandıran Bir Yer

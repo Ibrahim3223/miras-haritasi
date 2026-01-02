@@ -1,18 +1,17 @@
 ---
-title: "Karaosmanoğlu Hamamı | Miras Haritası"
-date: 2025-12-25T16:55:34+03:00
+title: "Karaosmanoğlu Hamamı"
+date: "2025-12-25T16:55:34+03:00"
 slug: "karaosmanoglu-hamami"
 description: "### Karaosmanoğlu Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.677681,38.9926949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaosmanoğlu Hamamı

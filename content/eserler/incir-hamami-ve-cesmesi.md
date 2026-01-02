@@ -1,18 +1,17 @@
 ---
-title: "İncir Hamamı ve Çeşmesi | Miras Haritası"
-date: 2025-12-25T16:43:43+03:00
+title: "İncir Hamamı ve Çeşmesi"
+date: "2025-12-25T16:43:43+03:00"
 slug: "incir-hamami-ve-cesmesi"
 description: "## İncir Hamamı ve Çeşmesi: Bir Tarihsel ve Kültürel Miras..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5347824,37.4772377"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncir Hamamı ve Çeşmesi: Bir Tarihsel ve Kültürel Miras

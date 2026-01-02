@@ -1,18 +1,17 @@
 ---
-title: "Derinkuyu Cumhuriyet Camii | Miras Haritası"
-date: 2025-12-24T22:21:41+03:00
+title: "Derinkuyu Cumhuriyet Camii"
+date: "2025-12-24T22:21:41+03:00"
 slug: "derinkuyu-cumhuriyet-camii"
 description: "## Derinkuyu Cumhuriyet Camii..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Derinkuyu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.734666666,38.376333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derinkuyu Cumhuriyet Camii

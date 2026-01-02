@@ -1,18 +1,17 @@
 ---
-title: "ASBÜ Hazine Müzesi | Miras Haritası"
-date: 2025-12-25T03:39:22+03:00
+title: "ASBÜ Hazine Müzesi"
+date: "2025-12-25T03:39:22+03:00"
 slug: "asbu-hazine-muzesi"
 description: "### ASBÜ Hazine Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.854908,39.9431229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### ASBÜ Hazine Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Tahtalı Minare Camii | Miras Haritası"
-date: 2025-12-24T23:11:35+03:00
+title: "Tahtalı Minare Camii"
+date: "2025-12-24T23:11:35+03:00"
 slug: "tahtali-minare-camii"
 description: "## Tahtalı Minare Camii..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.3060112,38.3456535"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahtalı Minare Camii

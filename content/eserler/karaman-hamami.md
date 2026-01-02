@@ -1,18 +1,17 @@
 ---
-title: "Karaman Hamamı | Miras Haritası"
-date: 2025-12-25T17:00:59+03:00
+title: "Karaman Hamamı"
+date: "2025-12-25T17:00:59+03:00"
 slug: "karaman-hamami"
 description: "## Karaman Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9478264,41.0206299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaman Hamamı: İstanbul'un Gizli Cenneti

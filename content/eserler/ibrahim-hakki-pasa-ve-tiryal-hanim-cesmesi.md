@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Hakkı Paşa ve Tiryal Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:42:51+03:00
+title: "İbrahim Hakkı Paşa ve Tiryal Hanım Çeşmesi"
+date: "2025-12-25T10:42:51+03:00"
 slug: "ibrahim-hakki-pasa-ve-tiryal-hanim-cesmesi"
 description: "## İbrahim Hakkı Paşa ve Tiryal Hanım Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.949833333,41.009194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Hakkı Paşa ve Tiryal Hanım Çeşmesi

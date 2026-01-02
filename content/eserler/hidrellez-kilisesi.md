@@ -1,18 +1,17 @@
 ---
-title: "Hıdrellez Kilisesi | Miras Haritası"
-date: 2025-12-25T08:44:07+03:00
+title: "Hıdrellez Kilisesi"
+date: "2025-12-25T08:44:07+03:00"
 slug: "hidrellez-kilisesi"
 description: "### Hıdrellez Kilisesi: Antalya'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "31.9755,36.570666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hıdrellez Kilisesi: Antalya'nın Gizli Cenneti

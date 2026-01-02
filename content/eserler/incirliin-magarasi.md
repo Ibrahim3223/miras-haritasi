@@ -1,18 +1,17 @@
 ---
-title: "İncirliin Mağarası | Miras Haritası"
-date: 2025-12-25T08:07:32+03:00
+title: "İncirliin Mağarası"
+date: "2025-12-25T08:07:32+03:00"
 slug: "incirliin-magarasi"
 description: "## İncirliin Mağarası: Muğla'nun Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Gokcelerdamlatasrakip1305_15.JPG/1200px-Gokcelerdamlatasrakip1305_15.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.76194444,37.18972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İncirliin Mağarası: Muğla'nun Gizli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Ferhatlar Camii | Miras Haritası"
-date: 2025-12-25T00:39:34+03:00
+title: "Ferhatlar Camii"
+date: "2025-12-25T00:39:34+03:00"
 slug: "ferhatlar-camii"
 description: "## Ferhatlar Camii: Safranbolu'nun Tarihi bir Mirası..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.779534118,41.230993776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferhatlar Camii: Safranbolu'nun Tarihi bir Mirası

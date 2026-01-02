@@ -1,18 +1,17 @@
 ---
-title: "Sarıabat Höyük | Miras Haritası"
-date: 2025-12-25T06:02:56+03:00
+title: "Sarıabat Höyük"
+date: "2025-12-25T06:02:56+03:00"
 slug: "sariabat-hoyuk"
 description: "# Sarıabat Höyük: Tarihin Gizemli Hazinesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1805,37.6208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sarıabat Höyük: Tarihin Gizemli Hazinesi

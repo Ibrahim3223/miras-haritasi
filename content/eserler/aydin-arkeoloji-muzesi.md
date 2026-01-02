@@ -1,18 +1,17 @@
 ---
-title: "Aydın Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:16:40+03:00
+title: "Aydın Arkeoloji Müzesi"
+date: "2025-12-25T03:16:40+03:00"
 slug: "aydin-arkeoloji-muzesi"
 description: "## Aydın Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AydınArchaeologicalMuseum_(1).JPG/1200px-AydınArchaeologicalMuseum_(1).JPG"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.8625,37.846666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aydın Arkeoloji Müzesi

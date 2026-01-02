@@ -1,18 +1,17 @@
 ---
-title: "Mecidiye Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:10:57+03:00
+title: "Mecidiye Çeşmesi"
+date: "2025-12-25T10:10:57+03:00"
 slug: "mecidiye-cesmesi"
 description: "## Mecidiye Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.855472222,39.944194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mecidiye Çeşmesi

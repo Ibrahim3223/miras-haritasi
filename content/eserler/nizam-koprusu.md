@@ -1,18 +1,17 @@
 ---
-title: "Nizam Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:21+03:00
+title: "Nizam Köprüsü"
+date: "2025-12-25T02:21:21+03:00"
 slug: "nizam-koprusu"
 description: "## Nizam Köprüsü: İstanbul'un Eski Köprüleri Arasındaki Bir Kıymetli Eser..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.1163273,40.8638573"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nizam Köprüsü: İstanbul'un Eski Köprüleri Arasındaki Bir Kıymetli Eser

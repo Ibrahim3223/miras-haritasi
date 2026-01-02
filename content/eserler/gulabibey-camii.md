@@ -1,18 +1,17 @@
 ---
-title: "Gülabibey Camii | Miras Haritası"
-date: 2025-12-24T22:18:40+03:00
+title: "Gülabibey Camii"
+date: "2025-12-24T22:18:40+03:00"
 slug: "gulabibey-camii"
 description: "### Gülabibey Camii: Erzincan'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemah"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.03619,39.60224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gülabibey Camii: Erzincan'ın Tarihi ve Kültürel Mirası

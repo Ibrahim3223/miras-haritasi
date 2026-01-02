@@ -1,18 +1,17 @@
 ---
-title: "Daye Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:51:19+03:00
+title: "Daye Hatun Camii"
+date: "2025-12-24T22:51:19+03:00"
 slug: "daye-hatun-camii"
 description: "## Daye Hatun Camii: İstanbul'un Gizli Çağı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.972064,41.080713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daye Hatun Camii: İstanbul'un Gizli Çağı

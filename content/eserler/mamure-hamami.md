@@ -1,18 +1,17 @@
 ---
-title: "Mamure Hamamı | Miras Haritası"
-date: 2025-12-25T16:49:56+03:00
+title: "Mamure Hamamı"
+date: "2025-12-25T16:49:56+03:00"
 slug: "mamure-hamami"
 description: "## Mamure Hamamı: Tarihî Bir Eğlence Merkezini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Anamur_Turkish_bath_7468.jpg/1200px-Anamur_Turkish_bath_7468.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8938332,36.0822296"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mamure Hamamı: Tarihî Bir Eğlence Merkezini Keşfedin

@@ -1,18 +1,17 @@
 ---
-title: "Söğütlü Çeşme | Miras Haritası"
-date: 2025-12-25T10:23:01+03:00
+title: "Söğütlü Çeşme"
+date: "2025-12-25T10:23:01+03:00"
 slug: "sogutlu-cesme"
 description: "## Söğütlü Çeşme: Ulubey, Uşak'da Bir Ölümsüz..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2176151,38.4305344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söğütlü Çeşme: Ulubey, Uşak'da Bir Ölümsüz

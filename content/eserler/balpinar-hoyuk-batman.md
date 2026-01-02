@@ -1,18 +1,17 @@
 ---
-title: "Balpınar Höyük, Batman | Miras Haritası"
-date: 2025-12-25T13:50:14+03:00
+title: "Balpınar Höyük, Batman"
+date: "2025-12-25T13:50:14+03:00"
 slug: "balpinar-hoyuk-batman"
 description: "## Balpınar Höyük: Batman'ın Gizemli Eseri..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.0529976,37.8656273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balpınar Höyük: Batman'ın Gizemli Eseri

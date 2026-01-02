@@ -1,18 +1,17 @@
 ---
-title: "Argiza | Miras Haritası"
-date: 2025-12-25T04:59:24+03:00
+title: "Argiza"
+date: "2025-12-25T04:59:24+03:00"
 slug: "argiza"
 description: "## Argiza Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.409336,39.843503"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Argiza Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Ambartarla Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:10:49+03:00
+title: "Ambartarla Yerleşimi"
+date: "2025-12-25T06:10:49+03:00"
 slug: "ambartarla-yerlesimi"
 description: "## Ambartarla Yerleşimi: Çanakkale'nin Gizli Tarihi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Çanakkale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.475956,40.1253357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ambartarla Yerleşimi: Çanakkale'nin Gizli Tarihi

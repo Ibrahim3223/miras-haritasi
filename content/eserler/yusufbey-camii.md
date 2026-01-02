@@ -1,18 +1,17 @@
 ---
-title: "Yusufbey Camii | Miras Haritası"
-date: 2025-12-24T23:50:25+03:00
+title: "Yusufbey Camii"
+date: "2025-12-24T23:50:25+03:00"
 slug: "yusufbey-camii"
 description: "## Yusufbey Camii: Sakarya'da Bir Önemli Cami..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Taraklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.4939919,40.3925743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusufbey Camii: Sakarya'da Bir Önemli Cami

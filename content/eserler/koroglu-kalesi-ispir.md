@@ -1,18 +1,17 @@
 ---
-title: "Köroğlu Kalesi, İspir | Miras Haritası"
-date: 2025-12-25T01:15:41+03:00
+title: "Köroğlu Kalesi, İspir"
+date: "2025-12-25T01:15:41+03:00"
 slug: "koroglu-kalesi-ispir"
 description: "### Köroğlu Kalesi, İspir: Tarih ve Kültürel Mirasın Parıltısı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "İspir"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.0969162,40.40868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köroğlu Kalesi, İspir: Tarih ve Kültürel Mirasın Parıltısı

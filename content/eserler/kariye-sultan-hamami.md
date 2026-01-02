@@ -1,18 +1,17 @@
 ---
-title: "Kariye Sultan Hamamı | Miras Haritası"
-date: 2025-12-25T16:37:12+03:00
+title: "Kariye Sultan Hamamı"
+date: "2025-12-25T16:37:12+03:00"
 slug: "kariye-sultan-hamami"
 description: "**Kariye Sultan Hamamı: İstanbul'un Gizli Cenneti**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.940886,41.03162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kariye Sultan Hamamı: İstanbul'un Gizli Cenneti**

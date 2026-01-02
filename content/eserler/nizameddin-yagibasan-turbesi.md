@@ -1,18 +1,17 @@
 ---
-title: "Nizameddin Yağıbasan Türbesi | Miras Haritası"
-date: 2025-12-25T15:09:37+03:00
+title: "Nizameddin Yağıbasan Türbesi"
+date: "2025-12-25T15:09:37+03:00"
 slug: "nizameddin-yagibasan-turbesi"
 description: "## Nizameddin Yağıbasan Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.9547006,40.5915292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nizameddin Yağıbasan Türbesi

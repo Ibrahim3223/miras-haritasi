@@ -1,18 +1,17 @@
 ---
-title: "Kel Hasan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:16+03:00
+title: "Kel Hasan Çeşmesi"
+date: "2025-12-25T11:37:16+03:00"
 slug: "kel-hasan-cesmesi"
 description: "## Kel Hasan Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5006008,37.4525986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kel Hasan Çeşmesi

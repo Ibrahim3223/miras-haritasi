@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Ağa Mescidi, Tarsus | Miras Haritası"
-date: 2025-12-25T01:06:20+03:00
+title: "Mustafa Ağa Mescidi, Tarsus"
+date: "2025-12-25T01:06:20+03:00"
 slug: "mustafa-aga-mescidi-tarsus"
 description: "### Mustafa Ağa Mescidi, Tarsus..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8973999,36.9167633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mustafa Ağa Mescidi, Tarsus

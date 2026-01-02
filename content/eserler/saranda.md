@@ -1,18 +1,17 @@
 ---
-title: "Saranda | Miras Haritası"
-date: 2025-12-25T08:28:22+03:00
+title: "Saranda"
+date: "2025-12-25T08:28:22+03:00"
 slug: "saranda"
 description: "### Muğla'nın Gizli Cenneti: Saranda Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Muğla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.10694,36.65475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muğla'nın Gizli Cenneti: Saranda Arkeolojik Sit

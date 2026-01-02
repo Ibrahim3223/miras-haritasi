@@ -1,18 +1,17 @@
 ---
-title: "Düğmecibaşı Mescidi | Miras Haritası"
-date: 2025-12-24T22:50:59+03:00
+title: "Düğmecibaşı Mescidi"
+date: "2025-12-24T22:50:59+03:00"
 slug: "dugmecibasi-mescidi"
 description: "## Düğmecibaşı Mescidi: Eyüpsultan'ın Gizli Çehresini Keşfetmek..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Düğmeciler"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.927136,41.047259"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düğmecibaşı Mescidi: Eyüpsultan'ın Gizli Çehresini Keşfetmek

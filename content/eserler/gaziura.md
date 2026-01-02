@@ -1,18 +1,17 @@
 ---
-title: "Gaziura | Miras Haritası"
-date: 2025-12-25T04:29:52+03:00
+title: "Gaziura"
+date: "2025-12-25T04:29:52+03:00"
 slug: "gaziura"
 description: "# Gaziura Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.059111,40.404051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gaziura Arkeolojik Sit

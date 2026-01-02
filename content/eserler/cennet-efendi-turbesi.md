@@ -1,18 +1,17 @@
 ---
-title: "Cennet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:46+03:00
+title: "Cennet Efendi Türbesi"
+date: "2025-12-25T14:23:46+03:00"
 slug: "cennet-efendi-turbesi"
 description: "## Cennet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0146389,41.0224533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cennet Efendi Türbesi

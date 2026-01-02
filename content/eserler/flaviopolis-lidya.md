@@ -1,18 +1,17 @@
 ---
-title: "Flaviopolis (Lidya) | Miras Haritası"
-date: 2025-12-25T05:06:01+03:00
+title: "Flaviopolis (Lidya)"
+date: "2025-12-25T05:06:01+03:00"
 slug: "flaviopolis-lidya"
 description: "## Flaviopolis (Lidya)..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gördes"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.111299,38.846465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Flaviopolis (Lidya)

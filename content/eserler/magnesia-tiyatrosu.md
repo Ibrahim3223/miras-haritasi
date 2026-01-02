@@ -1,18 +1,17 @@
 ---
-title: "Magnesia tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:19:13+03:00
+title: "Magnesia tiyatrosu"
+date: "2025-12-25T08:19:13+03:00"
 slug: "magnesia-tiyatrosu"
 description: "### Magnesia Tiyatrosu..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.525833333,37.850277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Magnesia Tiyatrosu

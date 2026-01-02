@@ -1,18 +1,17 @@
 ---
-title: "Kağıthane Mezarlığı Altındaki Çeşme | Miras Haritası"
-date: 2025-12-25T11:13:28+03:00
+title: "Kağıthane Mezarlığı Altındaki Çeşme"
+date: "2025-12-25T11:13:28+03:00"
 slug: "kagithane-mezarligi-altindaki-cesme"
 description: "## Kağıthane Mezarlığı Altındaki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kağıthane"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.967933,41.0794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kağıthane Mezarlığı Altındaki Çeşme

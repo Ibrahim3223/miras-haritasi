@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Vekse | Miras Haritası"
-date: 2025-12-25T03:01:18+03:00
+title: "Roma Köprüsü, Vekse"
+date: "2025-12-25T03:01:18+03:00"
 slug: "roma-koprusu-vekse"
 description: "## Roma Köprüsü, Vekse..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.6705733,38.8070813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Vekse

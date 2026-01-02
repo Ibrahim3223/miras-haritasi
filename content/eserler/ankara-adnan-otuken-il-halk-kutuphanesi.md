@@ -1,18 +1,17 @@
 ---
-title: "Ankara Adnan Ötüken İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:49:01+03:00
+title: "Ankara Adnan Ötüken İl Halk Kütüphanesi"
+date: "2025-12-25T17:49:01+03:00"
 slug: "ankara-adnan-otuken-il-halk-kutuphanesi"
 description: "### Ankara Adnan Ötüken İl Halk Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Adnan_Ötüken_İl_Halk_Kütüphanesi,_2021_03.jpg/1200px-Adnan_Ötüken_İl_Halk_Kütüphanesi,_2021_03.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "32.850435162,39.919599361"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ankara Adnan Ötüken İl Halk Kütüphanesi

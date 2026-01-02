@@ -1,18 +1,17 @@
 ---
-title: "Sivas Meydan Camii | Miras Haritası"
-date: 2025-12-24T23:07:21+03:00
+title: "Sivas Meydan Camii"
+date: "2025-12-24T23:07:21+03:00"
 slug: "sivas-meydan-camii"
 description: "## Sivas Meydan Camii..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.0203896,39.7493858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivas Meydan Camii

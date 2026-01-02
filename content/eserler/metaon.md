@@ -1,18 +1,17 @@
 ---
-title: "Metaon | Miras Haritası"
-date: 2025-12-25T05:04:22+03:00
+title: "Metaon"
+date: "2025-12-25T05:04:22+03:00"
 slug: "metaon"
 description: "### Metaon..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.452732,38.984588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Metaon

@@ -1,18 +1,17 @@
 ---
-title: "Edirne Askeri Hastanesi Camii | Miras Haritası"
-date: 2025-12-25T00:33:55+03:00
+title: "Edirne Askeri Hastanesi Camii"
+date: "2025-12-25T00:33:55+03:00"
 slug: "edirne-askeri-hastanesi-camii"
 description: "### Edirne Askeri Hastanesi Camii..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.534841442,41.702450564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Edirne Askeri Hastanesi Camii

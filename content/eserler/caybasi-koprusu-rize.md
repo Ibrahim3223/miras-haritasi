@@ -1,18 +1,17 @@
 ---
-title: "Çaybaşı Köprüsü, Rize | Miras Haritası"
-date: 2025-12-25T02:52:44+03:00
+title: "Çaybaşı Köprüsü, Rize"
+date: "2025-12-25T02:52:44+03:00"
 slug: "caybasi-koprusu-rize"
 description: "## Çaybaşı Köprüsü: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.5484314,40.9211121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çaybaşı Köprüsü: Rize'nin Tarihi Bir Mirası

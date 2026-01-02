@@ -1,18 +1,17 @@
 ---
-title: "Kuleli Askeri Lise Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:54+03:00
+title: "Kuleli Askeri Lise Çeşmesi"
+date: "2025-12-25T11:21:54+03:00"
 slug: "kuleli-askeri-lise-cesmesi"
 description: "## Kuleli Askeri Lise Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.053319,41.058396"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuleli Askeri Lise Çeşmesi

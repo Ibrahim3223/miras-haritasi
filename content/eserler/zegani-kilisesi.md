@@ -1,18 +1,17 @@
 ---
-title: "Zegani Kilisesi | Miras Haritası"
-date: 2025-12-25T08:53:26+03:00
+title: "Zegani Kilisesi"
+date: "2025-12-25T08:53:26+03:00"
 slug: "zegani-kilisesi"
 description: "## Zegani Kilisesi: Tarihi ve Kültürel Mirasın Işığında..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Çıldır"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.087083333,41.266666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zegani Kilisesi: Tarihi ve Kültürel Mirasın Işığında

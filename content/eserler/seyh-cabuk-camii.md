@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Çabuk Camii | Miras Haritası"
-date: 2025-12-24T23:12:10+03:00
+title: "Şeyh Çabuk Camii"
+date: "2025-12-24T23:12:10+03:00"
 slug: "seyh-cabuk-camii"
 description: "## Şeyh Çabuk Camii: Mardin'in Gizli Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mardin"
+province: "Mardin"
+iller: '["Mardin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.731823,37.3129387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Çabuk Camii: Mardin'in Gizli Çeşmesi

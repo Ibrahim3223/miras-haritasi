@@ -1,18 +1,17 @@
 ---
-title: "Neandreia | Miras Haritası"
-date: 2025-12-25T04:24:39+03:00
+title: "Neandreia"
+date: "2025-12-25T04:24:39+03:00"
 slug: "neandreia"
 description: "## Neandreia: Ezine'nin Kültürel Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.273117,39.7236265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neandreia: Ezine'nin Kültürel Mirası

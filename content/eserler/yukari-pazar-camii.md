@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Pazar Camii | Miras Haritası"
-date: 2025-12-24T23:47:47+03:00
+title: "Yukarı Pazar Camii"
+date: "2025-12-24T23:47:47+03:00"
 slug: "yukari-pazar-camii"
 description: "## Yukarı Pazar Camii: Afyonkarahisar'ın Tarihi bir Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5308895,38.7542534"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Pazar Camii: Afyonkarahisar'ın Tarihi bir Anıtı

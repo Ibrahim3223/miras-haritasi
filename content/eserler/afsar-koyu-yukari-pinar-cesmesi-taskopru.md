@@ -1,18 +1,17 @@
 ---
-title: "Afşar Köyü Yukarı Pınar Çeşmesi, Taşköprü | Miras Haritası"
-date: 2025-12-25T12:57:59+03:00
+title: "Afşar Köyü Yukarı Pınar Çeşmesi, Taşköprü"
+date: "2025-12-25T12:57:59+03:00"
 slug: "afsar-koyu-yukari-pinar-cesmesi-taskopru"
 description: "**Afşar Köyü Yukarı Pınar Çeşmesi: Taşköprü'deki Tarihi Bir Çeşme**..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Taşköprü"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.134317541,41.576016232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Afşar Köyü Yukarı Pınar Çeşmesi: Taşköprü'deki Tarihi Bir Çeşme**

@@ -1,18 +1,17 @@
 ---
-title: "Gölbelen Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:19:54+03:00
+title: "Gölbelen Köyü Camii"
+date: "2025-12-24T22:19:54+03:00"
 slug: "golbelen-koyu-camii"
 description: "## Gölbelen Köyü Camii: Ardahan'ın Değerli Tarihi..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Çıldır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.118777777,41.073777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gölbelen Köyü Camii: Ardahan'ın Değerli Tarihi

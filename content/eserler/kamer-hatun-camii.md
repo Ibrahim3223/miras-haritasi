@@ -1,18 +1,17 @@
 ---
-title: "Kamer Hatun Camii | Miras Haritası"
-date: 2025-12-24T21:45:48+03:00
+title: "Kamer Hatun Camii"
+date: "2025-12-24T21:45:48+03:00"
 slug: "kamer-hatun-camii"
 description: "## Kamer Hatun Camii: İstanbul'un Gizli Gözdeleri Arasındaki Bir Kahraman..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kamer_Hatun_Camii.jpg/1200px-Kamer_Hatun_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.974957639,41.035135112"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kamer Hatun Camii: İstanbul'un Gizli Gözdeleri Arasındaki Bir Kahraman

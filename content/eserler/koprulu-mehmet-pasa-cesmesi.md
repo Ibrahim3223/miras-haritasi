@@ -1,18 +1,17 @@
 ---
-title: "Köprülü Mehmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:13:26+03:00
+title: "Köprülü Mehmet Paşa Çeşmesi"
+date: "2025-12-25T10:13:26+03:00"
 slug: "koprulu-mehmet-pasa-cesmesi"
 description: "### Köprülü Mehmet Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Köprülü_Mehmet_Paşa_Fountain.jpg/1200px-Köprülü_Mehmet_Paşa_Fountain.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971677135,41.008331958"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Köprülü Mehmet Paşa Çeşmesi

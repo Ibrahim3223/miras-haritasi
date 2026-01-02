@@ -1,18 +1,17 @@
 ---
-title: "Shell Green İngiliz Milletler Topluluğu Savaş Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:53:48+03:00
+title: "Shell Green İngiliz Milletler Topluluğu Savaş Mezarlığı"
+date: "2025-12-25T15:53:48+03:00"
 slug: "shell-green-ingiliz-milletler-toplulugu-savas-mezarligi"
 description: "### Shell Green İngiliz Milletler Topluluğu Savaş Mezarlığı..."
 featured_image: ""
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.28012,40.22598"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Shell Green İngiliz Milletler Topluluğu Savaş Mezarlığı

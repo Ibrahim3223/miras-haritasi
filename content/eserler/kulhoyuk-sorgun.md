@@ -1,18 +1,17 @@
 ---
-title: "Külhöyük, Sorgun | Miras Haritası"
-date: 2025-12-25T06:24:54+03:00
+title: "Külhöyük, Sorgun"
+date: "2025-12-25T06:24:54+03:00"
 slug: "kulhoyuk-sorgun"
 description: "## Külhöyük: Sorgun'un Gizli Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sorgun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.1386011,39.9155329"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Külhöyük: Sorgun'un Gizli Mirası

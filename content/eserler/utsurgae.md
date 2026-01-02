@@ -1,18 +1,17 @@
 ---
-title: "Utsurgae | Miras Haritası"
-date: 2025-12-25T04:49:14+03:00
+title: "Utsurgae"
+date: "2025-12-25T04:49:14+03:00"
 slug: "utsurgae"
 description: "## Utsurgae: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8761295,41.5136078"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Utsurgae: Antik Kentin Gizemi

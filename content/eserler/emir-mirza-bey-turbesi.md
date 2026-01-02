@@ -1,18 +1,17 @@
 ---
-title: "Emir Mirza Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:59+03:00
+title: "Emir Mirza Bey Türbesi"
+date: "2025-12-25T14:39:59+03:00"
 slug: "emir-mirza-bey-turbesi"
 description: "## Emir Mirza Bey Türbesi..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
+iller: '["Trabzon Vilayeti"]'
 district: "Bafra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.9259567,41.6102715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Mirza Bey Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Servet Han Altındaki Roma Hamamı | Miras Haritası"
-date: 2025-12-25T17:00:27+03:00
+title: "Servet Han Altındaki Roma Hamamı"
+date: "2025-12-25T17:00:27+03:00"
 slug: "servet-han-altindaki-roma-hamami"
 description: "## Servet Han Altındaki Roma Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9731808,41.0062294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Servet Han Altındaki Roma Hamamı

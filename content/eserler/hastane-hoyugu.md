@@ -1,18 +1,17 @@
 ---
-title: "Hastane Höyüğü | Miras Haritası"
-date: 2025-12-25T05:46:25+03:00
+title: "Hastane Höyüğü"
+date: "2025-12-25T05:46:25+03:00"
 slug: "hastane-hoyugu"
 description: "**Hastane Höyüğü: Manisa'nın Gizli Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hastane_Höyüğü_Kazı_Evi_5.jpg/1200px-Hastane_Höyüğü_Kazı_Evi_5.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.837328,38.923384"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Hastane Höyüğü: Manisa'nın Gizli Mirası**

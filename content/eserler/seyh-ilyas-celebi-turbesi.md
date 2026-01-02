@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İlyas Çelebi Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:27+03:00
+title: "Şeyh İlyas Çelebi Türbesi"
+date: "2025-12-25T14:22:27+03:00"
 slug: "seyh-ilyas-celebi-turbesi"
 description: "### Şeyh İlyas Çelebi Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.845915,38.921967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh İlyas Çelebi Türbesi

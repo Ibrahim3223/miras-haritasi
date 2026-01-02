@@ -1,18 +1,17 @@
 ---
-title: "Phaselis Büyük Hamam | Miras Haritası"
-date: 2025-12-25T17:11:30+03:00
+title: "Phaselis Büyük Hamam"
+date: "2025-12-25T17:11:30+03:00"
 slug: "phaselis-buyuk-hamam"
 description: "## Phaselis Büyük Hamam: Antik Çağın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5520172,36.5244293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Phaselis Büyük Hamam: Antik Çağın Gizemi

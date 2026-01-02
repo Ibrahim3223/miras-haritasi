@@ -1,18 +1,17 @@
 ---
-title: "Uluborlu Alaaddin Camii | Miras Haritası"
-date: 2025-12-24T22:04:26+03:00
+title: "Uluborlu Alaaddin Camii"
+date: "2025-12-24T22:04:26+03:00"
 slug: "uluborlu-alaaddin-camii"
 description: "## Uluborlu Alaaddin Camii..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Uluborlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.468611111,38.071333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uluborlu Alaaddin Camii

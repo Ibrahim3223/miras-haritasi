@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Şehit Kamil Bilgi Yılı İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:42+03:00
+title: "Gaziantep Şehit Kamil Bilgi Yılı İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:48:42+03:00"
 slug: "gaziantep-sehit-kamil-bilgi-yili-ilce-halk-kutuphanesi"
 description: "## Gaziantep Şehit Kamil Bilgi Yılı İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şehitkâmil"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaziantep Şehit Kamil Bilgi Yılı İlçe Halk Kütüphanesi

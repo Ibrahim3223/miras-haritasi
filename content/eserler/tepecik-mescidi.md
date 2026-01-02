@@ -1,18 +1,17 @@
 ---
-title: "Tepecik Mescidi | Miras Haritası"
-date: 2025-12-25T00:40:30+03:00
+title: "Tepecik Mescidi"
+date: "2025-12-25T00:40:30+03:00"
 slug: "tepecik-mescidi"
 description: "**Tepecik Mescidi: Kayseri'nin Tarihi ve Kültürel Mirasının Bir Parçası**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.482730334,38.716244324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tepecik Mescidi: Kayseri'nin Tarihi ve Kültürel Mirasının Bir Parçası**

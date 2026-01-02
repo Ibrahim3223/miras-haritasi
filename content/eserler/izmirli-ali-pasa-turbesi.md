@@ -1,18 +1,17 @@
 ---
-title: "İzmirli Ali Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T13:32:49+03:00
+title: "İzmirli Ali Paşa Türbesi"
+date: "2025-12-25T13:32:49+03:00"
 slug: "izmirli-ali-pasa-turbesi"
 description: "## İzmirli Ali Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/İzmirli_Ali_Paşa_Türbesi.jpg/1200px-İzmirli_Ali_Paşa_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0120029,41.0192795"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İzmirli Ali Paşa Türbesi

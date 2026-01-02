@@ -1,18 +1,17 @@
 ---
-title: "Ğvime Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:50+03:00
+title: "Ğvime Kilisesi"
+date: "2025-12-25T09:00:50+03:00"
 slug: "gvime-kilisesi"
 description: "## Ğvime Kilisesi: Bir Geçmişi ve Etkileyici Mimarisine Sahip Tarihi Bir Ölümsüz..."
 featured_image: ""
 province: "Posof"
-iller: ["Posof"]
+iller: '["Posof"]'
 district: "Kumlukoz"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.780611111,41.569555555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ğvime Kilisesi: Bir Geçmişi ve Etkileyici Mimarisine Sahip Tarihi Bir Ölümsüz

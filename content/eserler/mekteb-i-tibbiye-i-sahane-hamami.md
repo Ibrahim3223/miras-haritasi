@@ -1,18 +1,17 @@
 ---
-title: "Mekteb-i Tıbbiye-i Şahane Hamamı | Miras Haritası"
-date: 2025-12-25T16:39:02+03:00
+title: "Mekteb-i Tıbbiye-i Şahane Hamamı"
+date: "2025-12-25T16:39:02+03:00"
 slug: "mekteb-i-tibbiye-i-sahane-hamami"
 description: "### Mekteb-i Tıbbiye-i Şahane Hamamı: İstanbul'un Gizli Çehresini Açığa Çıkaran Bir Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.021,41.003235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mekteb-i Tıbbiye-i Şahane Hamamı: İstanbul'un Gizli Çehresini Açığa Çıkaran Bir Hamam

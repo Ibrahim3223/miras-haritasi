@@ -1,18 +1,17 @@
 ---
-title: "Arkeoloji Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:19+03:00
+title: "Arkeoloji Kütüphanesi"
+date: "2025-12-25T17:57:19+03:00"
 slug: "arkeoloji-kutuphanesi"
 description: "## Arkeoloji Kütüphanesi: Türkiye'nin Kültür Mirasının Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arkeoloji Kütüphanesi: Türkiye'nin Kültür Mirasının Gizemi

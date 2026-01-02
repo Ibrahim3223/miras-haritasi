@@ -1,18 +1,17 @@
 ---
-title: "Abdüssadık Amir İbn Same Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:58+03:00
+title: "Abdüssadık Amir İbn Same Türbesi"
+date: "2025-12-25T14:31:58+03:00"
 slug: "abdussadik-amir-ibn-same-turbesi"
 description: "## Abdüssadık Amir İbn Same Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.93912,41.036391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdüssadık Amir İbn Same Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "İzmir Hükûmet Konağı | Miras Haritası"
-date: 2025-12-25T08:37:36+03:00
+title: "İzmir Hükûmet Konağı"
+date: "2025-12-25T08:37:36+03:00"
 slug: "izmir-hukmet-konagi"
 description: "## İzmir Hükûmet Konağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Konak_Square,_Izmir.jpg/1200px-Konak_Square,_Izmir.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "27.129722222,38.418611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İzmir Hükûmet Konağı

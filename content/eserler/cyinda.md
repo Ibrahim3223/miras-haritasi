@@ -1,18 +1,17 @@
 ---
-title: "Cyinda | Miras Haritası"
-date: 2025-12-25T04:29:00+03:00
+title: "Cyinda"
+date: "2025-12-25T04:29:00+03:00"
 slug: "cyinda"
 description: "## Cyinda: Geçmişi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cyinda: Geçmişi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Selçuk Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:39+03:00
+title: "Selçuk Hatun Türbesi"
+date: "2025-12-25T14:35:39+03:00"
 slug: "selcuk-hatun-turbesi"
 description: "### Selçuk Hatun Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9657947,41.0098376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selçuk Hatun Türbesi

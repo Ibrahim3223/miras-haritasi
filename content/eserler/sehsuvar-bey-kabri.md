@@ -1,18 +1,17 @@
 ---
-title: "Şehsuvar Bey Kabri | Miras Haritası"
-date: 2025-12-25T13:32:06+03:00
+title: "Şehsuvar Bey Kabri"
+date: "2025-12-25T13:32:06+03:00"
 slug: "sehsuvar-bey-kabri"
 description: "## Şehsuvar Bey Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9685383,41.0030594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehsuvar Bey Kabri

@@ -1,18 +1,17 @@
 ---
-title: "Kartal Belediyesi Masal Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:12+03:00
+title: "Kartal Belediyesi Masal Müzesi"
+date: "2025-12-25T03:30:12+03:00"
 slug: "kartal-belediyesi-masal-muzesi"
 description: "## Kartal Belediyesi Masal Müzesi: İstanbul'un Gizli Çehresini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/20250306_Kartal_Masal_Müzesi_01.jpg/1200px-20250306_Kartal_Masal_Müzesi_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.2202644,40.9168777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kartal Belediyesi Masal Müzesi: İstanbul'un Gizli Çehresini Keşfedin

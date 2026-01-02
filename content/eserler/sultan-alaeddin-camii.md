@@ -1,18 +1,17 @@
 ---
-title: "Sultan Alaeddin Camii | Miras Haritası"
-date: 2025-12-24T21:50:52+03:00
+title: "Sultan Alaeddin Camii"
+date: "2025-12-24T21:50:52+03:00"
 slug: "sultan-alaeddin-camii"
 description: "## Sultan Alaeddin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ankara_asv2021-10_img34_Sultan_Alaeddin_Mosque.jpg/1200px-Ankara_asv2021-10_img34_Sultan_Alaeddin_Mosque.jpg"
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.864333333,39.939138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sultan Alaeddin Camii

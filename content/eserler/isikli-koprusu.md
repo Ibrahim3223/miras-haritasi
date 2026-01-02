@@ -1,18 +1,17 @@
 ---
-title: "Işıklı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:42:15+03:00
+title: "Işıklı Köprüsü"
+date: "2025-12-25T02:42:15+03:00"
 slug: "isikli-koprusu"
 description: "## Işıklı Köprüsü: Enez'in Şanslı Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Enez"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.3115387,40.7166328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Işıklı Köprüsü: Enez'in Şanslı Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Bey Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:54+03:00
+title: "İbrahim Bey Hamamı"
+date: "2025-12-25T16:50:54+03:00"
 slug: "ibrahim-bey-hamami"
 description: "# İbrahim Bey Hamamı: Didim'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.278162,37.5292816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İbrahim Bey Hamamı: Didim'in Tarihî ve Kültürel Mirası

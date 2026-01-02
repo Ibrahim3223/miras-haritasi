@@ -1,18 +1,17 @@
 ---
-title: "Samsun - Atatürk Müzesi | Miras Haritası"
-date: 2025-12-25T04:09:08+03:00
+title: "Samsun - Atatürk Müzesi"
+date: "2025-12-25T04:09:08+03:00"
 slug: "samsun-ataturk-muzesi"
 description: "## Samsun - Atatürk Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Samsun"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samsun - Atatürk Müzesi

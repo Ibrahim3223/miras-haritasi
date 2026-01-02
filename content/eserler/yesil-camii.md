@@ -1,18 +1,17 @@
 ---
-title: "Yeşil Camii | Miras Haritası"
-date: 2025-12-24T21:36:50+03:00
+title: "Yeşil Camii"
+date: "2025-12-24T21:36:50+03:00"
 slug: "yesil-camii"
 description: "## Yeşil Camii: Bursa'nın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Green_Mosque_in_Bursa.jpg/1200px-Green_Mosque_in_Bursa.jpg"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.074611111,40.182194444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yeşil Camii: Bursa'nın Tarihî ve Kültürel Mirası

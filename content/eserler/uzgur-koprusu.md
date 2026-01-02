@@ -1,18 +1,17 @@
 ---
-title: "Uzgur Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:01+03:00
+title: "Uzgur Köprüsü"
+date: "2025-12-25T02:16:01+03:00"
 slug: "uzgur-koprusu"
 description: "### Uzgur Köprüsü: Tarihi ve Kültürel Mirası Anlatmak..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6556664,37.9954872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uzgur Köprüsü: Tarihi ve Kültürel Mirası Anlatmak

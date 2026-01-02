@@ -1,18 +1,17 @@
 ---
-title: "Saray Çeşmesi, Mardin | Miras Haritası"
-date: 2025-12-25T12:28:52+03:00
+title: "Saray Çeşmesi, Mardin"
+date: "2025-12-25T12:28:52+03:00"
 slug: "saray-cesmesi-mardin"
 description: "## Saray Çeşmesi, Mardin..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.740125,37.312368"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saray Çeşmesi, Mardin

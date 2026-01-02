@@ -1,18 +1,17 @@
 ---
-title: "Kadıköy Aya Triada Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:23+03:00
+title: "Kadıköy Aya Triada Rum Ortodoks Kilisesi"
+date: "2025-12-25T08:51:23+03:00"
 slug: "kadikoy-aya-triada-rum-ortodoks-kilisesi"
 description: "## Kadıköy Aya Triada Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ayatriada_front_05_08_2016.JPG/1200px-Ayatriada_front_05_08_2016.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.027777777,40.985833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kadıköy Aya Triada Rum Ortodoks Kilisesi

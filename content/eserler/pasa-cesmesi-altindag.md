@@ -1,18 +1,17 @@
 ---
-title: "Paşa Çeşmesi, Altındağ | Miras Haritası"
-date: 2025-12-25T12:39:22+03:00
+title: "Paşa Çeşmesi, Altındağ"
+date: "2025-12-25T12:39:22+03:00"
 slug: "pasa-cesmesi-altindag"
 description: "### Paşa Çeşmesi, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8677177,39.9338913"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Paşa Çeşmesi, Altındağ

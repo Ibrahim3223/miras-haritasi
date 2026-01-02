@@ -1,18 +1,17 @@
 ---
-title: "Bigalı Köyü Atatürk Karargah Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:51+03:00
+title: "Bigalı Köyü Atatürk Karargah Müzesi"
+date: "2025-12-25T03:51:51+03:00"
 slug: "bigali-koyu-ataturk-karargah-muzesi"
 description: "## Bigalı Köyü Atatürk Karargah Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.358849,40.236796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bigalı Köyü Atatürk Karargah Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Yüzbaşı Şekip Efendi Şehitliği | Miras Haritası"
-date: 2025-12-25T14:08:57+03:00
+title: "Yüzbaşı Şekip Efendi Şehitliği"
+date: "2025-12-25T14:08:57+03:00"
 slug: "yuzbasi-sekip-efendi-sehitligi"
 description: "## Yüzbaşı Şekip Efendi Şehitliği..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Altıntaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0589294,38.9253883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yüzbaşı Şekip Efendi Şehitliği

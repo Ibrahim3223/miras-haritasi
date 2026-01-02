@@ -1,18 +1,17 @@
 ---
-title: "Aya Troitsa Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:28+03:00
+title: "Aya Troitsa Kilisesi"
+date: "2025-12-25T09:34:28+03:00"
 slug: "aya-troitsa-kilisesi"
 description: "## Aya Troitsa Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.3636494,41.932518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Troitsa Kilisesi

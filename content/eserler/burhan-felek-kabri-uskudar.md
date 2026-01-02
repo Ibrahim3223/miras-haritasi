@@ -1,18 +1,17 @@
 ---
-title: "Burhan Felek Kabri, Üsküdar | Miras Haritası"
-date: 2025-12-25T13:31:38+03:00
+title: "Burhan Felek Kabri, Üsküdar"
+date: "2025-12-25T13:31:38+03:00"
 slug: "burhan-felek-kabri-uskudar"
 description: "## Burhan Felek Kabri, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0170345,41.0137138"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burhan Felek Kabri, Üsküdar

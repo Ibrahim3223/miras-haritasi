@@ -1,18 +1,17 @@
 ---
-title: "Yamalı Hamam | Miras Haritası"
-date: 2025-12-25T17:10:13+03:00
+title: "Yamalı Hamam"
+date: "2025-12-25T17:10:13+03:00"
 slug: "yamali-hamam"
 description: "## Yamalı Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9796371,41.0267944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yamalı Hamam

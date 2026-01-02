@@ -1,18 +1,17 @@
 ---
-title: "Damgacı Camii | Miras Haritası"
-date: 2025-12-24T22:33:28+03:00
+title: "Damgacı Camii"
+date: "2025-12-24T22:33:28+03:00"
 slug: "damgaci-camii"
 description: "## Damgacı Camii: Soma'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Soma"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6037769,39.1781387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damgacı Camii: Soma'nın Tarihi Bir Mirası

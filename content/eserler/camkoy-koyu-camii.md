@@ -1,18 +1,17 @@
 ---
-title: "Çamköy Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:14:49+03:00
+title: "Çamköy Köyü Camii"
+date: "2025-12-25T00:14:49+03:00"
 slug: "camkoy-koyu-camii"
 description: "## Çamköy Köyü Camii: Ayvacık'ta Bir Tarihi Örnek..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.22015,39.5647926"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamköy Köyü Camii: Ayvacık'ta Bir Tarihi Örnek

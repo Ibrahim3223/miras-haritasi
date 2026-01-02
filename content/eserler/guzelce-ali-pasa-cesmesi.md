@@ -1,18 +1,17 @@
 ---
-title: "Güzelce Ali Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:39:02+03:00
+title: "Güzelce Ali Paşa Çeşmesi"
+date: "2025-12-25T10:39:02+03:00"
 slug: "guzelce-ali-pasa-cesmesi"
 description: "## Güzelce Ali Paşa Çeşmesi: Beyoğlu'nun Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Güzelce_Ali_Paşa_Çeşmesi_IMG_7739.jpg/1200px-Güzelce_Ali_Paşa_Çeşmesi_IMG_7739.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kulaksız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.963777777,41.036694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Güzelce Ali Paşa Çeşmesi: Beyoğlu'nun Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Şirince Köyü | Miras Haritası"
-date: 2025-12-25T12:04:40+03:00
+title: "Çeşme, Şirince Köyü"
+date: "2025-12-25T12:04:40+03:00"
 slug: "cesme-sirince-koyu"
 description: "### Çeşme, Şirince Köyü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4326363,37.9442749"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme, Şirince Köyü

@@ -1,18 +1,17 @@
 ---
-title: "Mattheys Köşkü | Miras Haritası"
-date: 2025-12-25T03:45:45+03:00
+title: "Mattheys Köşkü"
+date: "2025-12-25T03:45:45+03:00"
 slug: "mattheys-kosku"
 description: "### Mattheys Köşkü: İzmir'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mattheys_Köşkü_-_2.jpg/1200px-Mattheys_Köşkü_-_2.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.221162152,38.463139396"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mattheys Köşkü: İzmir'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Mülazım Höyük | Miras Haritası"
-date: 2025-12-25T06:17:11+03:00
+title: "Mülazım Höyük"
+date: "2025-12-25T06:17:11+03:00"
 slug: "mulazim-hoyuk"
 description: "## Mülazım Höyük: Şefaatli'nin Gizemi..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6020412,39.4680794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mülazım Höyük: Şefaatli'nin Gizemi

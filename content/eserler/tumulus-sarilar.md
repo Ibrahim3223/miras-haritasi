@@ -1,18 +1,17 @@
 ---
-title: "Tümülüs, Sarılar | Miras Haritası"
-date: 2025-12-25T07:36:13+03:00
+title: "Tümülüs, Sarılar"
+date: "2025-12-25T07:36:13+03:00"
 slug: "tumulus-sarilar"
 description: "**Tümülüs, Sarılar: Çorlu'nun Gizli Şecerini**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.682272,41.1394157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tümülüs, Sarılar: Çorlu'nun Gizli Şecerini**

@@ -1,18 +1,17 @@
 ---
-title: "Tardequeia | Miras Haritası"
-date: 2025-12-25T05:17:27+03:00
+title: "Tardequeia"
+date: "2025-12-25T05:17:27+03:00"
 slug: "tardequeia"
 description: "## Tardequeia: Türkiye'nin Gizli Şehri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.88579,36.93717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tardequeia: Türkiye'nin Gizli Şehri

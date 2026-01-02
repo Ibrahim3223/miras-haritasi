@@ -1,18 +1,17 @@
 ---
-title: "Acıçeşme Höyüğü | Miras Haritası"
-date: 2025-12-25T05:55:32+03:00
+title: "Acıçeşme Höyüğü"
+date: "2025-12-25T05:55:32+03:00"
 slug: "acicesme-hoyugu"
 description: "### Acıçeşme Höyüğü: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6967316,38.8829994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Acıçeşme Höyüğü: Türkiye'nin Gizli Kahramanı

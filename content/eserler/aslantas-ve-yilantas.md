@@ -1,18 +1,17 @@
 ---
-title: "Aslantaş ve Yılantaş | Miras Haritası"
-date: 2025-12-25T14:10:11+03:00
+title: "Aslantaş ve Yılantaş"
+date: "2025-12-25T14:10:11+03:00"
 slug: "aslantas-ve-yilantas"
 description: "## Aslantaş ve Yılantaş: Afyonkarahisar'ın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Aslantas_from_NE_(1993)_04.jpg/1200px-Aslantas_from_NE_(1993)_04.jpg"
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.52333333,39.04833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aslantaş ve Yılantaş: Afyonkarahisar'ın Gizli Anıtı

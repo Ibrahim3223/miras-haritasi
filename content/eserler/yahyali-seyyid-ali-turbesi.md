@@ -1,18 +1,17 @@
 ---
-title: "Yahyalı Seyyid Ali Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:34+03:00
+title: "Yahyalı Seyyid Ali Türbesi"
+date: "2025-12-25T15:33:34+03:00"
 slug: "yahyali-seyyid-ali-turbesi"
 description: "## Yahyalı Seyyid Ali Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Yahyalı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.357477635,38.09820129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahyalı Seyyid Ali Türbesi

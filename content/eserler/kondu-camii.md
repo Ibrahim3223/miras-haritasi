@@ -1,18 +1,17 @@
 ---
-title: "Kondu Camii | Miras Haritası"
-date: 2025-12-25T00:42:34+03:00
+title: "Kondu Camii"
+date: "2025-12-25T00:42:34+03:00"
 slug: "kondu-camii"
 description: "## Kondu Camii: Trabzon'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Dernekpazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.231321981,40.801036235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kondu Camii: Trabzon'un Tarihî Bir Mirası

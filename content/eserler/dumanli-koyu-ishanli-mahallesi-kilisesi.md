@@ -1,18 +1,17 @@
 ---
-title: "Dumanlı Köyü İşhanlı Mahallesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:15:42+03:00
+title: "Dumanlı Köyü İşhanlı Mahallesi Kilisesi"
+date: "2025-12-25T09:15:42+03:00"
 slug: "dumanli-koyu-ishanli-mahallesi-kilisesi"
 description: "### Dumanlı Köyü İşhanlı Mahallesi Kilisesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.798713,40.671029"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dumanlı Köyü İşhanlı Mahallesi Kilisesi

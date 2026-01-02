@@ -1,18 +1,17 @@
 ---
-title: "İki Oluklu Camii | Miras Haritası"
-date: 2025-12-24T23:37:04+03:00
+title: "İki Oluklu Camii"
+date: "2025-12-24T23:37:04+03:00"
 slug: "iki-oluklu-camii"
 description: "## İki Oluklu Camii: Kuşadası'nın Gizli Cenneti..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2562752,37.8567009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İki Oluklu Camii: Kuşadası'nın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Hozat Höyüğü | Miras Haritası"
-date: 2025-12-25T06:42:04+03:00
+title: "Hozat Höyüğü"
+date: "2025-12-25T06:42:04+03:00"
 slug: "hozat-hoyugu"
 description: "## Hozat Höyüğü: Isparta'nın Gizli Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Şarkikaraağaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.3186708,37.9437974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hozat Höyüğü: Isparta'nın Gizli Mirası

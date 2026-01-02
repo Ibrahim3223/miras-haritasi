@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hasanoğulları Camii | Miras Haritası"
-date: 2025-12-25T00:33:48+03:00
+title: "Hacı Hasanoğulları Camii"
+date: "2025-12-25T00:33:48+03:00"
 slug: "haci-hasanogullari-camii"
 description: "## Hacı Hasanoğulları Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.370116717,38.800734431"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hasanoğulları Camii

@@ -1,18 +1,17 @@
 ---
-title: "Yamaçlı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:17+03:00
+title: "Yamaçlı Köprüsü"
+date: "2025-12-25T02:26:17+03:00"
 slug: "yamacli-koprusu"
 description: "### Yamaçlı Köprüsü: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.7052,38.554871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yamaçlı Köprüsü: Kayseri'nin Tarihi ve Kültürel Mirası

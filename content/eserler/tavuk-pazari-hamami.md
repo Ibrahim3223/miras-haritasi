@@ -1,18 +1,17 @@
 ---
-title: "Tavuk Pazarı Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:01+03:00
+title: "Tavuk Pazarı Hamamı"
+date: "2025-12-25T17:09:01+03:00"
 slug: "tavuk-pazari-hamami"
 description: "### Tavuk Pazarı Hamamı: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0609131,40.1858711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tavuk Pazarı Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

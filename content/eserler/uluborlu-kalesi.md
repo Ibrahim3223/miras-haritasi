@@ -1,18 +1,17 @@
 ---
-title: "Uluborlu Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:14+03:00
+title: "Uluborlu Kalesi"
+date: "2025-12-25T01:34:14+03:00"
 slug: "uluborlu-kalesi"
 description: "## Uluborlu Kalesi: Isparta'nın Tarihî Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Uluborlu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.469841,38.07269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uluborlu Kalesi: Isparta'nın Tarihî Mirası

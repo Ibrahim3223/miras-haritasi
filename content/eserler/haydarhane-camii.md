@@ -1,18 +1,17 @@
 ---
-title: "Haydarhane Camii | Miras Haritası"
-date: 2025-12-25T00:32:45+03:00
+title: "Haydarhane Camii"
+date: "2025-12-25T00:32:45+03:00"
 slug: "haydarhane-camii"
 description: "## Haydarhane Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.951828,41.0138741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haydarhane Camii

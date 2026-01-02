@@ -1,18 +1,17 @@
 ---
-title: "Güzelce Kasım Paşa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:02:35+03:00
+title: "Güzelce Kasım Paşa Camii Şadırvanı"
+date: "2025-12-25T10:02:35+03:00"
 slug: "guzelce-kasim-pasa-camii-sadirvani"
 description: "## Güzelce Kasım Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9683132,41.0331459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzelce Kasım Paşa Camii Şadırvanı

@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Uğurlugüme | Miras Haritası"
-date: 2025-12-25T02:58:36+03:00
+title: "Roma Köprüsü, Uğurlugüme"
+date: "2025-12-25T02:58:36+03:00"
 slug: "roma-koprusu-ugurlugume"
 description: "# Roma Köprüsü, Uğurlugüme..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Şaphane"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.1928,38.9691"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Roma Köprüsü, Uğurlugüme

@@ -1,18 +1,17 @@
 ---
-title: "Mucizeler Manastırı | Miras Haritası"
-date: 2025-12-25T09:49:59+03:00
+title: "Mucizeler Manastırı"
+date: "2025-12-25T09:49:59+03:00"
 slug: "mucizeler-manastiri"
 description: "## Mucizeler Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Monastery_of_the_Miracles.jpg/1200px-Monastery_of_the_Miracles.jpg"
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Adilcevaz"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.712083333,38.830666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mucizeler Manastırı

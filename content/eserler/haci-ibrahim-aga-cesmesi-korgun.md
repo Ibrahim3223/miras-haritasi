@@ -1,18 +1,17 @@
 ---
-title: "Hacı İbrahim Ağa Çeşmesi, Korgun | Miras Haritası"
-date: 2025-12-25T12:34:21+03:00
+title: "Hacı İbrahim Ağa Çeşmesi, Korgun"
+date: "2025-12-25T12:34:21+03:00"
 slug: "haci-ibrahim-aga-cesmesi-korgun"
 description: "**Hacı İbrahim Ağa Çeşmesi, Korgun**..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Korgan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.525586521,40.789671761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hacı İbrahim Ağa Çeşmesi, Korgun**

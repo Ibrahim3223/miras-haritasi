@@ -1,18 +1,17 @@
 ---
-title: "Hayreddin-i Tokadî Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:50+03:00
+title: "Hayreddin-i Tokadî Efendi Türbesi"
+date: "2025-12-25T15:20:50+03:00"
 slug: "hayreddin-i-tokad-efendi-turbesi"
 description: "## Hayreddin-i Tokadî Efendi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.4696178,40.7314148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hayreddin-i Tokadî Efendi Türbesi

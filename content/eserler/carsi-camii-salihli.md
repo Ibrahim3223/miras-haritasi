@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Salihli | Miras Haritası"
-date: 2025-12-25T00:28:46+03:00
+title: "Çarşı Camii, Salihli"
+date: "2025-12-25T00:28:46+03:00"
 slug: "carsi-camii-salihli"
 description: "## Çarşı Camii, Salihli..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1413822,38.4867172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Salihli

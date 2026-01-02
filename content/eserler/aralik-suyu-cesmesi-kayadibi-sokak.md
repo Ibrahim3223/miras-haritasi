@@ -1,18 +1,17 @@
 ---
-title: "Aralık Suyu Çeşmesi, Kayadibi Sokak | Miras Haritası"
-date: 2025-12-25T12:16:51+03:00
+title: "Aralık Suyu Çeşmesi, Kayadibi Sokak"
+date: "2025-12-25T12:16:51+03:00"
 slug: "aralik-suyu-cesmesi-kayadibi-sokak"
 description: "# Aralık Suyu Çeşmesi: Sarıyer'in Tarihî Mekânı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aralık_Suyu_Çeşmesi,_Kayadibi_Sokak.jpg/1200px-Aralık_Suyu_Çeşmesi,_Kayadibi_Sokak.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.05623,41.168185"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Aralık Suyu Çeşmesi: Sarıyer'in Tarihî Mekânı

@@ -1,18 +1,17 @@
 ---
-title: "Gökçeada Metropolithanesi | Miras Haritası"
-date: 2025-12-25T09:26:55+03:00
+title: "Gökçeada Metropolithanesi"
+date: "2025-12-25T09:26:55+03:00"
 slug: "gokceada-metropolithanesi"
 description: "## Gökçeada Metropolithanesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.904356,40.1949883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gökçeada Metropolithanesi: Tarihi ve Kültürel Mirasımız

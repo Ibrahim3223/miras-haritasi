@@ -1,18 +1,17 @@
 ---
-title: "I.İzzeddin Keykavus Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:19+03:00
+title: "I.İzzeddin Keykavus Türbesi"
+date: "2025-12-25T14:53:19+03:00"
 slug: "iizzeddin-keykavus-turbesi"
 description: "## I.İzzeddin Keykavus Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.49263,37.8734398"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## I.İzzeddin Keykavus Türbesi

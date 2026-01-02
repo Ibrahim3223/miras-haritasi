@@ -1,18 +1,17 @@
 ---
-title: "Tatlar Mahallesi Camii | Miras Haritası"
-date: 2025-12-25T00:34:06+03:00
+title: "Tatlar Mahallesi Camii"
+date: "2025-12-25T00:34:06+03:00"
 slug: "tatlar-mahallesi-camii"
 description: "## Tatlar Mahallesi Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.994450223,39.993746765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatlar Mahallesi Camii: Ankara'nın Gizli Cenneti

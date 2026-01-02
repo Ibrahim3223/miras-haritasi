@@ -1,18 +1,17 @@
 ---
-title: "Gölbağı Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:10+03:00
+title: "Gölbağı Ermeni Kilisesi"
+date: "2025-12-25T09:19:10+03:00"
 slug: "golbagi-ermeni-kilisesi"
 description: "### Gölbağı Ermeni Kilisesi..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Mazgirt"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.6055984,39.0225983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gölbağı Ermeni Kilisesi

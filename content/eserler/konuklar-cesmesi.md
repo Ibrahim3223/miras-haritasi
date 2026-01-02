@@ -1,18 +1,17 @@
 ---
-title: "Konuklar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:33:25+03:00
+title: "Konuklar Çeşmesi"
+date: "2025-12-25T12:33:25+03:00"
 slug: "konuklar-cesmesi"
 description: "### Konuklar Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.857497055,39.939181278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Konuklar Çeşmesi

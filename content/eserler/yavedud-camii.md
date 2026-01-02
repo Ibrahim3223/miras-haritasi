@@ -1,18 +1,17 @@
 ---
-title: "Yavedüd Camii | Miras Haritası"
-date: 2025-12-24T22:03:07+03:00
+title: "Yavedüd Camii"
+date: "2025-12-24T22:03:07+03:00"
 slug: "yavedud-camii"
 description: "# Yavedüd Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ya_Vedud_Mosque_01.jpg/1200px-Ya_Vedud_Mosque_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.940666666,41.040722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Yavedüd Camii

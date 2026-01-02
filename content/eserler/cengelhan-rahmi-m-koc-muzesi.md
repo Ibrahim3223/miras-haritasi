@@ -1,18 +1,17 @@
 ---
-title: "Çengelhan Rahmi M. Koç Müzesi | Miras Haritası"
-date: 2025-12-25T04:09:23+03:00
+title: "Çengelhan Rahmi M. Koç Müzesi"
+date: "2025-12-25T04:09:23+03:00"
 slug: "cengelhan-rahmi-m-koc-muzesi"
 description: "## Çengelhan Rahmi M. Koç Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rahmi_M._Koç_Museum,_Ankara.jpg/1200px-Rahmi_M._Koç_Museum,_Ankara.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.99722222,39.9375"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çengelhan Rahmi M. Koç Müzesi

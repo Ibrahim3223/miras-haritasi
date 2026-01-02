@@ -1,18 +1,17 @@
 ---
-title: "Antalya Kültür Merkezi | Miras Haritası"
-date: 2025-12-25T16:18:53+03:00
+title: "Antalya Kültür Merkezi"
+date: "2025-12-25T16:18:53+03:00"
 slug: "antalya-kultur-merkezi"
 description: "## Antalya Kültür Merkezi: Antik Tiyatro'nun Gerçek Bir Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "30.66846,36.8859"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antalya Kültür Merkezi: Antik Tiyatro'nun Gerçek Bir Harikası

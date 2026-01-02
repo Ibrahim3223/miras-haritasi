@@ -1,18 +1,17 @@
 ---
-title: "Hamza-i Kebir Camii | Miras Haritası"
-date: 2025-12-24T23:32:43+03:00
+title: "Hamza-i Kebir Camii"
+date: "2025-12-24T23:32:43+03:00"
 slug: "hamza-i-kebir-camii"
 description: "# Hamza-i Kebir Camii: Tarihi ve Kültürel Mirasın Ihtişamı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.7509537,37.3163948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamza-i Kebir Camii: Tarihi ve Kültürel Mirasın Ihtişamı

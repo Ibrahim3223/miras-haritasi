@@ -1,18 +1,17 @@
 ---
-title: "Lengerhane | Miras Haritası"
-date: 2025-12-25T03:40:25+03:00
+title: "Lengerhane"
+date: "2025-12-25T03:40:25+03:00"
 slug: "lengerhane"
 description: "## Lengerhane: Beyoğlu'ndaki Tarihi Bir Müze..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9495487,41.0426331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lengerhane: Beyoğlu'ndaki Tarihi Bir Müze

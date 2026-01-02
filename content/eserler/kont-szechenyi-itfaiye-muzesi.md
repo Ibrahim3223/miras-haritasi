@@ -1,18 +1,17 @@
 ---
-title: "Kont Szechenyi İtfaiye Müzesi | Miras Haritası"
-date: 2025-12-25T03:32:40+03:00
+title: "Kont Szechenyi İtfaiye Müzesi"
+date: "2025-12-25T03:32:40+03:00"
 slug: "kont-szechenyi-itfaiye-muzesi"
 description: "### Kont Szechenyi İtfaiye Müzesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.011561,41.043906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kont Szechenyi İtfaiye Müzesi: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Yeğenağa Çeşmesi, Tire | Miras Haritası"
-date: 2025-12-25T12:46:54+03:00
+title: "Yeğenağa Çeşmesi, Tire"
+date: "2025-12-25T12:46:54+03:00"
 slug: "yegenaga-cesmesi-tire"
 description: "## Yeğenağa Çeşmesi: Tire'de Bir Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7400169,38.0895042"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeğenağa Çeşmesi: Tire'de Bir Kültürel Miras

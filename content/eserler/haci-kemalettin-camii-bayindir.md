@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kemalettin Camii, Bayındır | Miras Haritası"
-date: 2025-12-24T23:54:52+03:00
+title: "Hacı Kemalettin Camii, Bayındır"
+date: "2025-12-24T23:54:52+03:00"
 slug: "haci-kemalettin-camii-bayindir"
 description: "## Hacı Kemalettin Camii, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6514626,38.2241898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kemalettin Camii, Bayındır

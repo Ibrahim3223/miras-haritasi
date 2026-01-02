@@ -1,18 +1,17 @@
 ---
-title: "İdyma | Miras Haritası"
-date: 2025-12-25T07:10:39+03:00
+title: "İdyma"
+date: "2025-12-25T07:10:39+03:00"
 slug: "idyma"
 description: "## İdyma: Muğla'nın Ege Denizi'ndeki Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.367319,37.059443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İdyma: Muğla'nın Ege Denizi'ndeki Gizli Kahramanı

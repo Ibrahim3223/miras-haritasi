@@ -1,18 +1,17 @@
 ---
-title: "Ataköy A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:54:26+03:00
+title: "Ataköy A Tümülüsü"
+date: "2025-12-25T07:54:26+03:00"
 slug: "atakoy-a-tumulusu"
 description: "## Ataköy A Tümülüsü: Pınarhisar'daki Antik Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.455822,41.6004677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ataköy A Tümülüsü: Pınarhisar'daki Antik Miras

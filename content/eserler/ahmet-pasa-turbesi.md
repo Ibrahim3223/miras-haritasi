@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:16+03:00
+title: "Ahmet Paşa Türbesi"
+date: "2025-12-25T15:11:16+03:00"
 slug: "ahmet-pasa-turbesi"
 description: "## Ahmet Paşa Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.2101181,37.174349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Paşa Türbesi

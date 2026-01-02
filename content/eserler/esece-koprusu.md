@@ -1,18 +1,17 @@
 ---
-title: "Esece Köprüsü | Miras Haritası"
-date: 2025-12-25T02:17:09+03:00
+title: "Esece Köprüsü"
+date: "2025-12-25T02:17:09+03:00"
 slug: "esece-koprusu"
 description: "## Esece Köprüsü: Akhisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0048447,39.1237488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esece Köprüsü: Akhisar'ın Tarihi ve Kültürel Mirası

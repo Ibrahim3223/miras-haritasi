@@ -1,18 +1,17 @@
 ---
-title: "Temnos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:20:11+03:00
+title: "Temnos Antik Tiyatrosu"
+date: "2025-12-25T16:20:11+03:00"
 slug: "temnos-antik-tiyatrosu"
 description: "### Temnos Antik Tiyatrosu: Eski Bir Kültür Mirası..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: ["Menemen (ilçe)"]
+iller: '["Menemen (ilçe)"]'
 district: "Menemen"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "27.17669,38.678448"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Temnos Antik Tiyatrosu: Eski Bir Kültür Mirası

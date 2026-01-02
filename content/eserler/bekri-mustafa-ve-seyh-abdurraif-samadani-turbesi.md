@@ -1,18 +1,17 @@
 ---
-title: "Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:59+03:00
+title: "Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi"
+date: "2025-12-25T14:23:59+03:00"
 slug: "bekri-mustafa-ve-seyh-abdurraif-samadani-turbesi"
 description: "## Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.96885,41.018884"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi

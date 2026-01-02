@@ -1,18 +1,17 @@
 ---
-title: "Behzat Camii | Miras Haritası"
-date: 2025-12-24T22:23:28+03:00
+title: "Behzat Camii"
+date: "2025-12-24T22:23:28+03:00"
 slug: "behzat-camii"
 description: "## Behzat Camii: Tokat'ın Tarihi Anıtları Arasındaki Değerli Taş..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5535736,40.3110619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Behzat Camii: Tokat'ın Tarihi Anıtları Arasındaki Değerli Taş

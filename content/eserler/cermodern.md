@@ -1,18 +1,17 @@
 ---
-title: "CerModern | Miras Haritası"
-date: 2025-12-25T04:09:12+03:00
+title: "CerModern"
+date: "2025-12-25T04:09:12+03:00"
 slug: "cermodern"
 description: "## CerModern: Ankara'nın Sanat ve Kültür Merkezleri Arasındaki Bir Yıldız..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CerModern_02.jpg/1200px-CerModern_02.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8500366,39.931644476"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## CerModern: Ankara'nın Sanat ve Kültür Merkezleri Arasındaki Bir Yıldız

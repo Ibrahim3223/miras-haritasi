@@ -1,18 +1,17 @@
 ---
-title: "Apasa | Miras Haritası"
-date: 2025-12-25T04:29:19+03:00
+title: "Apasa"
+date: "2025-12-25T04:29:19+03:00"
 slug: "apasa"
 description: "## Apasa: Eski Bir Şehir ve Tarihin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apasa: Eski Bir Şehir ve Tarihin Gizemi

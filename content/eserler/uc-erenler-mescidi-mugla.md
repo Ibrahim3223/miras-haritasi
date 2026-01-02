@@ -1,18 +1,17 @@
 ---
-title: "Üç Erenler Mescidi, Muğla | Miras Haritası"
-date: 2025-12-25T00:50:08+03:00
+title: "Üç Erenler Mescidi, Muğla"
+date: "2025-12-25T00:50:08+03:00"
 slug: "uc-erenler-mescidi-mugla"
 description: "**Three Erenler Mosque, Muğla**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3614426,37.2179756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Three Erenler Mosque, Muğla**

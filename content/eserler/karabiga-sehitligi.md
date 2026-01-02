@@ -1,18 +1,17 @@
 ---
-title: "Karabiga Şehitliği | Miras Haritası"
-date: 2025-12-25T16:01:09+03:00
+title: "Karabiga Şehitliği"
+date: "2025-12-25T16:01:09+03:00"
 slug: "karabiga-sehitligi"
 description: "## Karabiga Şehitliği..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.300930134,40.402419158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabiga Şehitliği

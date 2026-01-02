@@ -1,18 +1,17 @@
 ---
-title: "Örnek Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:23:31+03:00
+title: "Örnek Köyü Camii"
+date: "2025-12-25T00:23:31+03:00"
 slug: "ornek-koyu-camii"
 description: "## Örnek Köyü Camii: Pazar, Rize'nin Değerli Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.7901,41.1371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Örnek Köyü Camii: Pazar, Rize'nin Değerli Mirası

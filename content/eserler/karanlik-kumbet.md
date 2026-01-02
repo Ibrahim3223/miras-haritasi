@@ -1,18 +1,17 @@
 ---
-title: "Karanlık Kümbet | Miras Haritası"
-date: 2025-12-25T13:52:47+03:00
+title: "Karanlık Kümbet"
+date: "2025-12-25T13:52:47+03:00"
 slug: "karanlik-kumbet"
 description: "## Karanlık Kümbet: Yakutiye'nin Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sadreddin_Konevi_Türbesi_2972.jpg/1200px-Sadreddin_Konevi_Türbesi_2972.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2788246,39.9106567"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karanlık Kümbet: Yakutiye'nin Gizemli Anıtı

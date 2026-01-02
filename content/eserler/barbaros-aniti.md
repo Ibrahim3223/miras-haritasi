@@ -1,18 +1,17 @@
 ---
-title: "Barbaros Anıtı | Miras Haritası"
-date: 2025-12-25T15:41:38+03:00
+title: "Barbaros Anıtı"
+date: "2025-12-25T15:41:38+03:00"
 slug: "barbaros-aniti"
 description: "## Barbaros Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Barbaros_Park_Statue.jpg/1200px-Barbaros_Park_Statue.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.00636111,41.04163889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Barbaros Anıtı

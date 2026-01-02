@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Kızılcaköy | Miras Haritası"
-date: 2025-12-25T13:10:11+03:00
+title: "Çeşme, Kızılcaköy"
+date: "2025-12-25T13:10:11+03:00"
 slug: "cesme-kizilcakoy"
 description: "## Çeşme, Kızılcaköy: Aydın'ın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.774559,37.8708763"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Kızılcaköy: Aydın'ın Tarihî Bir Çeşmesi

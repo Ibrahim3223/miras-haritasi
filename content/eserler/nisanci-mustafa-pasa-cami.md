@@ -1,18 +1,17 @@
 ---
-title: "Nişancı Mustafa Paşa Cami | Miras Haritası"
-date: 2025-12-24T23:51:46+03:00
+title: "Nişancı Mustafa Paşa Cami"
+date: "2025-12-24T23:51:46+03:00"
 slug: "nisanci-mustafa-pasa-cami"
 description: "## Nişancı Mustafa Paşa Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.930804761,41.040712711"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nişancı Mustafa Paşa Cami

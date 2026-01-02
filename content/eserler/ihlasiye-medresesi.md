@@ -1,18 +1,17 @@
 ---
-title: "İhlasiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:49+03:00
+title: "İhlasiye Medresesi"
+date: "2025-12-25T17:27:49+03:00"
 slug: "ihlasiye-medresesi"
 description: "## İhlasiye Medresesi: Bitlis'in Tarihsel Bir Mirası..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "42.1065445,38.4064636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İhlasiye Medresesi: Bitlis'in Tarihsel Bir Mirası

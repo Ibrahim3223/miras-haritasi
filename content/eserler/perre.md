@@ -1,18 +1,17 @@
 ---
-title: "Perre | Miras Haritası"
-date: 2025-12-25T04:23:31+03:00
+title: "Perre"
+date: "2025-12-25T04:23:31+03:00"
 slug: "perre"
 description: "## Perre Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Perrhe1.jpg/1200px-Perrhe1.jpg"
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.30111111,37.79166667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Perre Arkeolojik Sit

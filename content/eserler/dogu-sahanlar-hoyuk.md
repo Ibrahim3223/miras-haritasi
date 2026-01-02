@@ -1,18 +1,17 @@
 ---
-title: "Doğu Şahanlar Höyük | Miras Haritası"
-date: 2025-12-25T05:53:36+03:00
+title: "Doğu Şahanlar Höyük"
+date: "2025-12-25T05:53:36+03:00"
 slug: "dogu-sahanlar-hoyuk"
 description: "# Doğu Şahanlar Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.852275,38.201089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Doğu Şahanlar Höyük: Tarihî Mirasın Gizemi

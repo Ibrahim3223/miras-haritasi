@@ -1,18 +1,17 @@
 ---
-title: "Tahta Köprü | Miras Haritası"
-date: 2025-12-25T02:13:07+03:00
+title: "Tahta Köprü"
+date: "2025-12-25T02:13:07+03:00"
 slug: "tahta-kopru"
 description: "## Tahta Köprü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.460453,38.6394157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahta Köprü

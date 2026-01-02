@@ -1,18 +1,17 @@
 ---
-title: "Zağanos Paşa Mescidi | Miras Haritası"
-date: 2025-12-25T00:09:14+03:00
+title: "Zağanos Paşa Mescidi"
+date: "2025-12-25T00:09:14+03:00"
 slug: "zaganos-pasa-mescidi"
 description: "# Zağanos Paşa Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5521049,41.6804314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Zağanos Paşa Mescidi

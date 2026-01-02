@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Zafir Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:27+03:00
+title: "Şeyh Zafir Türbesi"
+date: "2025-12-25T14:28:27+03:00"
 slug: "seyh-zafir-turbesi"
 description: "## Şeyh Zafir Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Turbe_of_Sheikh_Zafir_Effendi_01.jpg/1200px-Turbe_of_Sheikh_Zafir_Effendi_01.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Cihannüma"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.008439,41.045537"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şeyh Zafir Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Veled-i Yaniç Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:15+03:00
+title: "Veled-i Yaniç Camii Çeşmesi"
+date: "2025-12-25T10:54:15+03:00"
 slug: "veled-i-yanic-camii-cesmesi"
 description: "## Veled-i Yaniç Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0564938,40.1850929"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veled-i Yaniç Camii Çeşmesi

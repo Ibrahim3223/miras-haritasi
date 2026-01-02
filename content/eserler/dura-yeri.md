@@ -1,18 +1,17 @@
 ---
-title: "Dura Yeri | Miras Haritası"
-date: 2025-12-25T05:38:08+03:00
+title: "Dura Yeri"
+date: "2025-12-25T05:38:08+03:00"
 slug: "dura-yeri"
 description: "## Dura Yeri: Tarihin Eşiğinde Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bolvadin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.973615,38.68982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dura Yeri: Tarihin Eşiğinde Bir Arkeolojik Sit

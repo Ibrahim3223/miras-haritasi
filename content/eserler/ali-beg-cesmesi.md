@@ -1,18 +1,17 @@
 ---
-title: "Ali Beğ Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:24:50+03:00
+title: "Ali Beğ Çeşmesi"
+date: "2025-12-25T11:24:50+03:00"
 slug: "ali-beg-cesmesi"
 description: "### Ali Beğ Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Marmara"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5548897,40.5857582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Beğ Çeşmesi

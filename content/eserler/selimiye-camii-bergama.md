@@ -1,18 +1,17 @@
 ---
-title: "Selimiye Camii (Bergama) | Miras Haritası"
-date: 2025-12-24T23:55:07+03:00
+title: "Selimiye Camii (Bergama)"
+date: "2025-12-24T23:55:07+03:00"
 slug: "selimiye-camii-bergama"
 description: "## Selimiye Camii (Bergama)..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1734943,39.1184044"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Selimiye Camii (Bergama)

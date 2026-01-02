@@ -1,18 +1,17 @@
 ---
-title: "Helvacılar Mescidi | Miras Haritası"
-date: 2025-12-25T00:51:17+03:00
+title: "Helvacılar Mescidi"
+date: "2025-12-25T00:51:17+03:00"
 slug: "helvacilar-mescidi"
 description: "## Helvacılar Mescidi: Altındağ'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8649483,39.9346504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Helvacılar Mescidi: Altındağ'ın Tarihi Bir Mirası

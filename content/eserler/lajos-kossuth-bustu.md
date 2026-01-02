@@ -1,18 +1,17 @@
 ---
-title: "Lajos Kossuth Büstü | Miras Haritası"
-date: 2025-12-25T15:49:12+03:00
+title: "Lajos Kossuth Büstü"
+date: "2025-12-25T15:49:12+03:00"
 slug: "lajos-kossuth-bustu"
 description: "## Lajos Kossuth Büstü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Balçova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.0709248,38.405529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lajos Kossuth Büstü: İzmir'in Tarihi ve Kültürel Mirası

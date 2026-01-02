@@ -1,18 +1,17 @@
 ---
-title: "Alaca Mescit, Kastamonu | Miras Haritası"
-date: 2025-12-25T00:03:59+03:00
+title: "Alaca Mescit, Kastamonu"
+date: "2025-12-25T00:03:59+03:00"
 slug: "alaca-mescit-kastamonu"
 description: "# Alaca Mescit, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7730026,41.3769455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alaca Mescit, Kastamonu

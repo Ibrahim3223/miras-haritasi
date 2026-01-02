@@ -1,18 +1,17 @@
 ---
-title: "Zağanos Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:43:47+03:00
+title: "Zağanos Paşa Camii"
+date: "2025-12-24T21:43:47+03:00"
 slug: "zaganos-pasa-camii"
 description: "### Giriş..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Zağanos_Paşa_Mosque_outside,_Balıkesir,_Turkiye_2023.jpg/1200px-Zağanos_Paşa_Mosque_outside,_Balıkesir,_Turkiye_2023.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Balıkesir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.87972222,39.64861111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Giriş

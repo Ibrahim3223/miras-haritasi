@@ -1,18 +1,17 @@
 ---
-title: "Kastamonu Kent Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:35+03:00
+title: "Kastamonu Kent Tarihi Müzesi"
+date: "2025-12-25T03:51:35+03:00"
 slug: "kastamonu-kent-tarihi-muzesi"
 description: "## Kastamonu Kent Tarihi Müzesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.7789116,41.376091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kastamonu Kent Tarihi Müzesi

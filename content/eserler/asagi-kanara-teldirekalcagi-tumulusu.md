@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Kanara Teldirekalçağı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:43:41+03:00
+title: "Aşağı Kanara Teldirekalçağı Tümülüsü"
+date: "2025-12-25T07:43:41+03:00"
 slug: "asagi-kanara-teldirekalcagi-tumulusu"
 description: "## Aşağı Kanara Teldirekalçağı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0324306,42.01091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Kanara Teldirekalçağı Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Alaaddin Camii | Miras Haritası"
-date: 2025-12-24T21:46:08+03:00
+title: "Eskişehir Alaaddin Camii"
+date: "2025-12-24T21:46:08+03:00"
 slug: "eskisehir-alaaddin-camii"
 description: "Eskişehir Alaaddin Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.52388889,39.76666667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 Eskişehir Alaaddin Camii

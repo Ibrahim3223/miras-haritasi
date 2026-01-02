@@ -1,18 +1,17 @@
 ---
-title: "Türbe (Yazırlı Mahallesi) | Miras Haritası"
-date: 2025-12-25T15:01:17+03:00
+title: "Türbe (Yazırlı Mahallesi)"
+date: "2025-12-25T15:01:17+03:00"
 slug: "turbe-yazirli-mahallesi"
 description: "## Türbe (Yazırlı Mahallesi)..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.3742733,37.8513641"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türbe (Yazırlı Mahallesi)

@@ -1,18 +1,17 @@
 ---
-title: "Kuyubaşı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:13+03:00
+title: "Kuyubaşı Çeşmesi"
+date: "2025-12-25T10:17:13+03:00"
 slug: "kuyubasi-cesmesi"
 description: "# Kuyubaşı Çeşmesi: Tarihî Bir Çeşmenin Gizemi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.811049,41.005883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kuyubaşı Çeşmesi: Tarihî Bir Çeşmenin Gizemi

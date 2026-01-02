@@ -1,18 +1,17 @@
 ---
-title: "Hasanaliler Kilisesi | Miras Haritası"
-date: 2025-12-25T08:54:50+03:00
+title: "Hasanaliler Kilisesi"
+date: "2025-12-25T08:54:50+03:00"
 slug: "hasanaliler-kilisesi"
 description: "### Hasanaliler Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hasanaliler1.jpg/1200px-Hasanaliler1.jpg"
 province: "Silifke (ilçe)"
-iller: ["Silifke (ilçe)"]
+iller: '["Silifke (ilçe)"]'
 district: "Narlıkuyu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.086027777,36.463944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hasanaliler Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Bostancı Camii, Gaziantep | Miras Haritası"
-date: 2025-12-25T00:27:59+03:00
+title: "Bostancı Camii, Gaziantep"
+date: "2025-12-25T00:27:59+03:00"
 slug: "bostanci-camii-gaziantep"
 description: "### Bostancı Camii: Gaziantep'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3869591,37.0676079"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bostancı Camii: Gaziantep'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kızılaliler Kilisesi | Miras Haritası"
-date: 2025-12-25T09:26:35+03:00
+title: "Kızılaliler Kilisesi"
+date: "2025-12-25T09:26:35+03:00"
 slug: "kizilaliler-kilisesi"
 description: "**Kızılaliler Kilisesi**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.774231,36.0641975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kızılaliler Kilisesi**

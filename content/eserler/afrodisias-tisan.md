@@ -1,18 +1,17 @@
 ---
-title: "Afrodisias (Tisan) | Miras Haritası"
-date: 2025-12-25T08:07:15+03:00
+title: "Afrodisias (Tisan)"
+date: "2025-12-25T08:07:15+03:00"
 slug: "afrodisias-tisan"
 description: "## Afrodisias (Tisan): Mersin'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.690555555,36.1575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Afrodisias (Tisan): Mersin'in Gizli Cenneti

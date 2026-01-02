@@ -1,18 +1,17 @@
 ---
-title: "Kabia | Miras Haritası"
-date: 2025-12-25T04:51:22+03:00
+title: "Kabia"
+date: "2025-12-25T04:51:22+03:00"
 slug: "kabia"
 description: "## Kabia: Sakarya'nın Gizli Arkeolojik Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sakarya"
+province: "Sakarya"
+iller: '["Sakarya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.299985,40.500052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabia: Sakarya'nın Gizli Arkeolojik Mirası

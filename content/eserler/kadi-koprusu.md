@@ -1,18 +1,17 @@
 ---
-title: "Kadı Köprüsü | Miras Haritası"
-date: 2025-12-25T03:04:16+03:00
+title: "Kadı Köprüsü"
+date: "2025-12-25T03:04:16+03:00"
 slug: "kadi-koprusu"
 description: "## Kadı Köprüsü..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Serdivan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.3647366,40.7356262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Zeğrep Höyük | Miras Haritası"
-date: 2025-12-25T06:18:54+03:00
+title: "Zeğrep Höyük"
+date: "2025-12-25T06:18:54+03:00"
 slug: "zegrep-hoyuk"
 description: "## Zeğrep Höyük: Tarihî Bir Mirasın Öyküsü..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.5070186,39.858918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeğrep Höyük: Tarihî Bir Mirasın Öyküsü

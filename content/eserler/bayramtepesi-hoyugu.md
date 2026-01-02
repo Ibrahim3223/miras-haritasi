@@ -1,18 +1,17 @@
 ---
-title: "Bayramtepesi Höyüğü | Miras Haritası"
-date: 2025-12-25T06:05:48+03:00
+title: "Bayramtepesi Höyüğü"
+date: "2025-12-25T06:05:48+03:00"
 slug: "bayramtepesi-hoyugu"
 description: "### Bayramtepesi Höyüğü: Malatya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.166729,38.4692345"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayramtepesi Höyüğü: Malatya'nın Gizli Kahramanı

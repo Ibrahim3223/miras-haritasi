@@ -1,18 +1,17 @@
 ---
-title: "Tavşan Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:21+03:00
+title: "Tavşan Dede Türbesi"
+date: "2025-12-25T14:19:21+03:00"
 slug: "tavsan-dede-turbesi"
 description: "## Tavşan Dede Türbesi: Akçakoca'da Bir İnanç Eseri..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.115478,41.082007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavşan Dede Türbesi: Akçakoca'da Bir İnanç Eseri

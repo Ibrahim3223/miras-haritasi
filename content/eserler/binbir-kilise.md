@@ -1,18 +1,17 @@
 ---
-title: "Binbir Kilise | Miras Haritası"
-date: 2025-12-25T13:44:14+03:00
+title: "Binbir Kilise"
+date: "2025-12-25T13:44:14+03:00"
 slug: "binbir-kilise"
 description: "## Binbir Kilise..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.1674004,37.4383888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Binbir Kilise

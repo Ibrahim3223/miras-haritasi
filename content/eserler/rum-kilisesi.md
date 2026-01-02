@@ -1,18 +1,17 @@
 ---
-title: "Rum Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:51+03:00
+title: "Rum Kilisesi"
+date: "2025-12-25T09:38:51+03:00"
 slug: "rum-kilisesi"
 description: "# Rum Kilisesi: Ortahisar'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.734145,41.003133"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Rum Kilisesi: Ortahisar'da Bir Tarihî Miras

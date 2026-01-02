@@ -1,18 +1,17 @@
 ---
-title: "Mevlana Külliyesi Meydan-ı Şerif | Miras Haritası"
-date: 2025-12-25T17:34:11+03:00
+title: "Mevlana Külliyesi Meydan-ı Şerif"
+date: "2025-12-25T17:34:11+03:00"
 slug: "mevlana-kulliyesi-meydan-i-serif"
 description: "### Mevlana Külliyesi Meydan-ı Şerif..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "32.5044975,37.8704529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mevlana Külliyesi Meydan-ı Şerif

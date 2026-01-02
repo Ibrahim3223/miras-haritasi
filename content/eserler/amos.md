@@ -1,18 +1,17 @@
 ---
-title: "Amos | Miras Haritası"
-date: 2025-12-25T04:17:04+03:00
+title: "Amos"
+date: "2025-12-25T04:17:04+03:00"
 slug: "amos"
 description: "### Amos Arkeolojik Sit: Muğla'nın Gizli Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amos_theatre.jpg/1200px-Amos_theatre.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.26889444,36.75755556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Amos Arkeolojik Sit: Muğla'nın Gizli Güzelliği

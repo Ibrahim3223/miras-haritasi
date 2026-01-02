@@ -1,18 +1,17 @@
 ---
-title: "Kemal Sunal Müzesi | Miras Haritası"
-date: 2025-12-25T04:02:26+03:00
+title: "Kemal Sunal Müzesi"
+date: "2025-12-25T04:02:26+03:00"
 slug: "kemal-sunal-muzesi"
 description: "## Kemal Sunal Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kemal_Sunal_Müzesi_2024.05.jpg/1200px-Kemal_Sunal_Müzesi_2024.05.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0578079,40.9709167"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kemal Sunal Müzesi

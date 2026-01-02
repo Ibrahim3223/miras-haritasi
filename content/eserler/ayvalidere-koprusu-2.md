@@ -1,18 +1,17 @@
 ---
-title: "Ayvalıdere Köprüsü 2 | Miras Haritası"
-date: 2025-12-25T02:50:34+03:00
+title: "Ayvalıdere Köprüsü 2"
+date: "2025-12-25T02:50:34+03:00"
 slug: "ayvalidere-koprusu-2"
 description: "# Ayvalıdere Köprüsü 2: Bir Zamanların Kutsal Yolu..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Nilüfer"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.918355641,40.241370438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ayvalıdere Köprüsü 2: Bir Zamanların Kutsal Yolu

@@ -1,18 +1,17 @@
 ---
-title: "Kumkapı Surp Harutyun Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:34+03:00
+title: "Kumkapı Surp Harutyun Kilisesi"
+date: "2025-12-25T08:50:34+03:00"
 slug: "kumkapi-surp-harutyun-kilisesi"
 description: "### Kumkapı Surp Harutyun Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Surp-Harutjun-Kirche.jpg/1200px-Surp-Harutjun-Kirche.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Şehsuvar Bey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.966055555,41.003666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kumkapı Surp Harutyun Kilisesi

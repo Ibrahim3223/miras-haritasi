@@ -1,18 +1,17 @@
 ---
-title: "Zeugma | Miras Haritası"
-date: 2025-12-25T04:17:31+03:00
+title: "Zeugma"
+date: "2025-12-25T04:17:31+03:00"
 slug: "zeugma"
 description: "## Zeugma: Gaziantep'in Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zeugma.jpg/1200px-Zeugma.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.86583333,37.05861111"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Zeugma: Gaziantep'in Gizli Kahramanı

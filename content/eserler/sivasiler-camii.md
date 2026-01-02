@@ -1,18 +1,17 @@
 ---
-title: "Sivasiler Camii | Miras Haritası"
-date: 2025-12-24T23:06:49+03:00
+title: "Sivasiler Camii"
+date: "2025-12-24T23:06:49+03:00"
 slug: "sivasiler-camii"
 description: "## Sivasiler Camii: Bursa'nın Tarihi bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0648613,40.1787415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivasiler Camii: Bursa'nın Tarihi bir Mirası

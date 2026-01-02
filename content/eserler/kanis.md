@@ -1,18 +1,17 @@
 ---
-title: "Kaniş | Miras Haritası"
-date: 2025-12-25T08:10:48+03:00
+title: "Kaniş"
+date: "2025-12-25T08:10:48+03:00"
 slug: "kanis"
 description: "### Kaniş: Tarihî Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kanis_03.jpg/1200px-Kanis_03.jpg"
 province: "Melikgazi"
-iller: ["Melikgazi"]
+iller: '["Melikgazi"]'
 district: "Kültepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.634261,38.851389"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kaniş: Tarihî Bir Arkeolojik Sit

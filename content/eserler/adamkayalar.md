@@ -1,18 +1,17 @@
 ---
-title: "Adamkayalar | Miras Haritası"
-date: 2025-12-25T06:58:50+03:00
+title: "Adamkayalar"
+date: "2025-12-25T06:58:50+03:00"
 slug: "adamkayalar"
 description: "# Adamkayalar: Mersin'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Adamkayalar1.jpg/1200px-Adamkayalar1.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.05416667,36.525"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Adamkayalar: Mersin'in Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kağnıcıoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:39:20+03:00
+title: "Kağnıcıoğlu Camii"
+date: "2025-12-24T23:39:20+03:00"
 slug: "kagnicioglu-camii"
 description: "## Kağnıcıoğlu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8577843,39.9345703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kağnıcıoğlu Camii

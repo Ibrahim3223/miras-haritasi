@@ -1,18 +1,17 @@
 ---
-title: "Gerzile Kalesi | Miras Haritası"
-date: 2025-12-25T01:18:44+03:00
+title: "Gerzile Kalesi"
+date: "2025-12-25T01:18:44+03:00"
 slug: "gerzile-kalesi"
 description: "## Gerzile Kalesi: Kayseri'nin Gizli Zirvesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.3512154,38.0347595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gerzile Kalesi: Kayseri'nin Gizli Zirvesi

@@ -1,18 +1,17 @@
 ---
-title: "Çukur Çeşme Camii | Miras Haritası"
-date: 2025-12-24T22:32:14+03:00
+title: "Çukur Çeşme Camii"
+date: "2025-12-24T22:32:14+03:00"
 slug: "cukur-cesme-camii"
 description: "## Çukur Çeşme Camii: Kütahya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9725723,39.4150124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukur Çeşme Camii: Kütahya'nın Tarihî Mirası

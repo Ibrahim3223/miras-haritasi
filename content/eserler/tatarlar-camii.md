@@ -1,18 +1,17 @@
 ---
-title: "Tatarlar Camii | Miras Haritası"
-date: 2025-12-24T23:14:34+03:00
+title: "Tatarlar Camii"
+date: "2025-12-24T23:14:34+03:00"
 slug: "tatarlar-camii"
 description: "### Tatarlar Camii: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0761967,40.1848488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tatarlar Camii: Bursa'nın Tarihi ve Kültürel Mirası

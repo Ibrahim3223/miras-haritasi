@@ -1,18 +1,17 @@
 ---
-title: "Ortahöyük C Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:50+03:00
+title: "Ortahöyük C Tümülüsü"
+date: "2025-12-25T08:03:50+03:00"
 slug: "ortahoyuk-c-tumulusu"
 description: "# Ortahöyük C Tümülüsü: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9110184,41.7545128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ortahöyük C Tümülüsü: Edirne'nin Gizli Cenneti

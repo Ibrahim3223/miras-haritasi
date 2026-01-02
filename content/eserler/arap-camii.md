@@ -1,18 +1,17 @@
 ---
-title: "Arap Camii | Miras Haritası"
-date: 2025-12-24T20:38:16+03:00
+title: "Arap Camii"
+date: "2025-12-24T20:38:16+03:00"
 slug: "arap-camii"
 description: "### Arap Camii: İstanbul'un Gizli Ceziresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Arap_Mosque_-_Beyoğlu.jpg/1200px-Arap_Mosque_-_Beyoğlu.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.97083333,41.02444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Arap Camii: İstanbul'un Gizli Ceziresi

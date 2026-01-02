@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Emin Sinan | Miras Haritası"
-date: 2025-12-25T12:05:19+03:00
+title: "Çeşme, Emin Sinan"
+date: "2025-12-25T12:05:19+03:00"
 slug: "cesme-emin-sinan"
 description: "## Çeşme, Emin Sinan: Fatih'ten Bir Örnek..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9683323,41.0058937"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Emin Sinan: Fatih'ten Bir Örnek

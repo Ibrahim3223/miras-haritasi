@@ -1,18 +1,17 @@
 ---
-title: "Çırağbey Camii | Miras Haritası"
-date: 2025-12-24T22:33:24+03:00
+title: "Çırağbey Camii"
+date: "2025-12-24T22:33:24+03:00"
 slug: "ciragbey-camii"
 description: "### Çırağbey Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0558929,40.1838875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çırağbey Camii

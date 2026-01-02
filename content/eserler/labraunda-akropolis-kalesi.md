@@ -1,18 +1,17 @@
 ---
-title: "Labraunda Akropolis Kalesi | Miras Haritası"
-date: 2025-12-25T05:24:36+03:00
+title: "Labraunda Akropolis Kalesi"
+date: "2025-12-25T05:24:36+03:00"
 slug: "labraunda-akropolis-kalesi"
 description: "## Labraunda Akropolis Kalesi: Milas'ın Gizli Öncülü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8196468,37.4214439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Labraunda Akropolis Kalesi: Milas'ın Gizli Öncülü

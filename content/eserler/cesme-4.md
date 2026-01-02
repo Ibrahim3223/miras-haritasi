@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 4 | Miras Haritası"
-date: 2025-12-25T10:21:30+03:00
+title: "Çeşme 4"
+date: "2025-12-25T10:21:30+03:00"
 slug: "cesme-4"
 description: "## Çeşme 4: Ayvacık'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6195965,39.5695305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 4: Ayvacık'ın Tarihi Bir Çeşmesi

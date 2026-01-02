@@ -1,18 +1,17 @@
 ---
-title: "Çınarlı Çeşme, Kuruçeşme | Miras Haritası"
-date: 2025-12-25T12:14:33+03:00
+title: "Çınarlı Çeşme, Kuruçeşme"
+date: "2025-12-25T12:14:33+03:00"
 slug: "cinarli-cesme-kurucesme"
 description: "## Çınarlı Çeşme, Kuruçeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.03517,41.0608428"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çınarlı Çeşme, Kuruçeşme

@@ -1,18 +1,17 @@
 ---
-title: "Kasapbaşı Demirhan Kabri | Miras Haritası"
-date: 2025-12-25T13:27:56+03:00
+title: "Kasapbaşı Demirhan Kabri"
+date: "2025-12-25T13:27:56+03:00"
 slug: "kasapbasi-demirhan-kabri"
 description: "## Kasapbaşı Demirhan Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9574146,41.0206871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasapbaşı Demirhan Kabri: İstanbul'un Gizli Anıtı

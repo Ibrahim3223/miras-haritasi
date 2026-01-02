@@ -1,18 +1,17 @@
 ---
-title: "Hafsa Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:45+03:00
+title: "Hafsa Hatun Türbesi"
+date: "2025-12-25T14:45:45+03:00"
 slug: "hafsa-hatun-turbesi"
 description: "## Hafsa Hatun Türbesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafsa Hatun Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "İtalya Büyükelçiliği Çeşmeleri | Miras Haritası"
-date: 2025-12-25T10:26:47+03:00
+title: "İtalya Büyükelçiliği Çeşmeleri"
+date: "2025-12-25T10:26:47+03:00"
 slug: "italya-buyukelciligi-cesmeleri"
 description: "### İtalya Büyükelçiliği Çeşmeleri..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8582153,39.9044724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İtalya Büyükelçiliği Çeşmeleri

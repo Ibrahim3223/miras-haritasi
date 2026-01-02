@@ -1,18 +1,17 @@
 ---
-title: "Yelki Aşağı Camii | Miras Haritası"
-date: 2025-12-24T23:46:51+03:00
+title: "Yelki Aşağı Camii"
+date: "2025-12-24T23:46:51+03:00"
 slug: "yelki-asagi-camii"
 description: "## Yelki Aşağı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8729954,38.3414268"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yelki Aşağı Camii

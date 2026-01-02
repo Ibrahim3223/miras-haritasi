@@ -1,18 +1,17 @@
 ---
-title: "Hapsiyaş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:27+03:00
+title: "Hapsiyaş Köprüsü"
+date: "2025-12-25T02:04:27+03:00"
 slug: "hapsiyas-koprusu"
 description: "## Hapsiyaş Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hapsiyaş_Köprüsü.jpg/1200px-Hapsiyaş_Köprüsü.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Of"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.2658,40.81919"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hapsiyaş Köprüsü

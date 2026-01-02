@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Hazine Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:04+03:00
+title: "Anemurium Hazine Kilisesi"
+date: "2025-12-25T09:31:04+03:00"
 slug: "anemurium-hazine-kilisesi"
 description: "## Anemurium Hazine Kilisesi: Mersin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.8037415,36.0245781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anemurium Hazine Kilisesi: Mersin'in Tarihî ve Kültürel Mirası

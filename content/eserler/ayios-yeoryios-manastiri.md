@@ -1,18 +1,17 @@
 ---
-title: "Ayios Yeoryios Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:58+03:00
+title: "Ayios Yeoryios Manastırı"
+date: "2025-12-25T09:52:58+03:00"
 slug: "ayios-yeoryios-manastiri"
 description: "## Ayios Yeoryios Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.09879,40.871778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Yeoryios Manastırı

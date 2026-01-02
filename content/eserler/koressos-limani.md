@@ -1,18 +1,17 @@
 ---
-title: "Koressos Limanı | Miras Haritası"
-date: 2025-12-25T08:17:55+03:00
+title: "Koressos Limanı"
+date: "2025-12-25T08:17:55+03:00"
 slug: "koressos-limani"
 description: "## Koressos Limanı: Ege'nin Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3335,37.9435"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koressos Limanı: Ege'nin Gizemli Arkeolojik Sitleri

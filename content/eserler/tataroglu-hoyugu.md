@@ -1,18 +1,17 @@
 ---
-title: "Tataroğlu Höyüğü | Miras Haritası"
-date: 2025-12-25T06:27:59+03:00
+title: "Tataroğlu Höyüğü"
+date: "2025-12-25T06:27:59+03:00"
 slug: "tataroglu-hoyugu"
 description: "## Tataroğlu Höyüğü: Tarih ve Kültür Mirasının Gizli Harikası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.0601277,39.2215817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tataroğlu Höyüğü: Tarih ve Kültür Mirasının Gizli Harikası

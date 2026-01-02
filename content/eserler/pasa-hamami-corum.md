@@ -1,18 +1,17 @@
 ---
-title: "Paşa Hamamı (Çorum) | Miras Haritası"
-date: 2025-12-25T16:27:39+03:00
+title: "Paşa Hamamı (Çorum)"
+date: "2025-12-25T16:27:39+03:00"
 slug: "pasa-hamami-corum"
 description: "## Paşa Hamamı: Çorum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "34.9516536,40.5505642"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Hamamı: Çorum'un Tarihi ve Kültürel Mirası

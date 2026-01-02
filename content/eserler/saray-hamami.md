@@ -1,18 +1,17 @@
 ---
-title: "Saray Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:15+03:00
+title: "Saray Hamamı"
+date: "2025-12-25T16:29:15+03:00"
 slug: "saray-hamami"
 description: "## Saray Hamamı: Ünye'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Ünye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.285222222,41.132777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saray Hamamı: Ünye'nin Gizli Çeşmesi

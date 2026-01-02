@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Bey Kümbeti | Miras Haritası"
-date: 2025-12-25T13:53:07+03:00
+title: "Rüstem Bey Kümbeti"
+date: "2025-12-25T13:53:07+03:00"
 slug: "rustem-bey-kumbeti"
 description: "## Rüstem Bey Kümbeti: Seydişehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.846410289,37.416965358"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rüstem Bey Kümbeti: Seydişehir'in Tarihi ve Kültürel Mirası

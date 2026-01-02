@@ -1,18 +1,17 @@
 ---
-title: "Osmanpaşa Çeşmesi, Arapgir | Miras Haritası"
-date: 2025-12-25T12:25:33+03:00
+title: "Osmanpaşa Çeşmesi, Arapgir"
+date: "2025-12-25T12:25:33+03:00"
 slug: "osmanpasa-cesmesi-arapgir"
 description: "## Osmanpaşa Çeşmesi: Arapgir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.471544851,39.05736326"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osmanpaşa Çeşmesi: Arapgir'in Tarihi Bir Çeşmesi

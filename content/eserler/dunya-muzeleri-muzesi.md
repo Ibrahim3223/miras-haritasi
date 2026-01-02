@@ -1,18 +1,17 @@
 ---
-title: "Dünya Müzeleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:25:25+03:00
+title: "Dünya Müzeleri Müzesi"
+date: "2025-12-25T03:25:25+03:00"
 slug: "dunya-muzeleri-muzesi"
 description: "## Dünya Müzeleri Müzesi: Eskişehir'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/DMM_anlatm.JPG/1200px-DMM_anlatm.JPG"
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Eskişehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.5273,39.7795"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dünya Müzeleri Müzesi: Eskişehir'in Tarihî Mirası

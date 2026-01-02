@@ -1,18 +1,17 @@
 ---
-title: "İmamzade El-Hac Mustafa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:02:52+03:00
+title: "İmamzade El-Hac Mustafa Çeşmesi"
+date: "2025-12-25T13:02:52+03:00"
 slug: "imamzade-el-hac-mustafa-cesmesi"
 description: "## İmamzade El-Hac Mustafa Çeşmesi: Pendik'in Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mamzade_El-Hac_Mustafa_emesi_1761580666.jpg/1200px-Mamzade_El-Hac_Mustafa_emesi_1761580666.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Pendik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2577705,40.9020157"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İmamzade El-Hac Mustafa Çeşmesi: Pendik'in Tarihi Bir Çeşmesi

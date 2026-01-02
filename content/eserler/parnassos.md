@@ -1,18 +1,17 @@
 ---
-title: "Parnassos | Miras Haritası"
-date: 2025-12-25T04:25:07+03:00
+title: "Parnassos"
+date: "2025-12-25T04:25:07+03:00"
 slug: "parnassos"
 description: "### Parnassos: Şereflikoçhisar'ın Gizli Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Şereflikoçhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.586931,39.05445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Parnassos: Şereflikoçhisar'ın Gizli Anıtı

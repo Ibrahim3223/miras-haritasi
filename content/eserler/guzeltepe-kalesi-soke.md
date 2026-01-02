@@ -1,18 +1,17 @@
 ---
-title: "Güzeltepe Kalesi, Söke | Miras Haritası"
-date: 2025-12-25T01:16:29+03:00
+title: "Güzeltepe Kalesi, Söke"
+date: "2025-12-25T01:16:29+03:00"
 slug: "guzeltepe-kalesi-soke"
 description: "### Güzeltepe Kalesi, Söke..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.562748,37.6230659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güzeltepe Kalesi, Söke

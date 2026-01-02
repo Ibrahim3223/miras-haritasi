@@ -1,18 +1,17 @@
 ---
-title: "Zahide Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:28:53+03:00
+title: "Zahide Hanım Çeşmesi"
+date: "2025-12-25T11:28:53+03:00"
 slug: "zahide-hanim-cesmesi"
 description: "## Zahide Hanım Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4333344,38.6106148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zahide Hanım Çeşmesi

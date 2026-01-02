@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Reşit Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:38+03:00
+title: "Mustafa Reşit Paşa Türbesi"
+date: "2025-12-25T14:33:38+03:00"
 slug: "mustafa-resit-pasa-turbesi"
 description: "### Mustafa Reşit Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9653629,41.0096291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mustafa Reşit Paşa Türbesi

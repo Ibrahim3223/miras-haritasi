@@ -1,18 +1,17 @@
 ---
-title: "Göynük Kent Müzesi | Miras Haritası"
-date: 2025-12-25T04:07:38+03:00
+title: "Göynük Kent Müzesi"
+date: "2025-12-25T04:07:38+03:00"
 slug: "goynuk-kent-muzesi"
 description: "### Göynük Kent Müzesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Göynük"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.7873173,40.3984413"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Göynük Kent Müzesi

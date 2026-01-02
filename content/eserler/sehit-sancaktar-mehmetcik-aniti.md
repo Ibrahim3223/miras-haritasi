@@ -1,18 +1,17 @@
 ---
-title: "Şehit Sancaktar Mehmetçik Anıtı | Miras Haritası"
-date: 2025-12-25T15:45:48+03:00
+title: "Şehit Sancaktar Mehmetçik Anıtı"
+date: "2025-12-25T15:45:48+03:00"
 slug: "sehit-sancaktar-mehmetcik-aniti"
 description: "## Şehit Sancaktar Mehmetçik Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Şehit_Sancaktar_Mehmetçik_Anıtı.jpg/1200px-Şehit_Sancaktar_Mehmetçik_Anıtı.jpg"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Altıntaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.048777777,38.915472222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehit Sancaktar Mehmetçik Anıtı

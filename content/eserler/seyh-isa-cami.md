@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İsa Cami | Miras Haritası"
-date: 2025-12-24T23:12:23+03:00
+title: "Şeyh İsa Cami"
+date: "2025-12-24T23:12:23+03:00"
 slug: "seyh-isa-cami"
 description: "### Şeyh İsa Cami: Osmanlı Dönemi'nin Bir Mirası..."
 featured_image: ""
 province: "Akhisar (ilçe)"
-iller: ["Akhisar (ilçe)"]
+iller: '["Akhisar (ilçe)"]'
 district: "Şeyhisa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8461685,38.9219475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh İsa Cami: Osmanlı Dönemi'nin Bir Mirası

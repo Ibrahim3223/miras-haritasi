@@ -1,18 +1,17 @@
 ---
-title: "Kars Kalesi | Miras Haritası"
-date: 2025-12-25T01:12:39+03:00
+title: "Kars Kalesi"
+date: "2025-12-25T01:12:39+03:00"
 slug: "kars-kalesi"
 description: "**Kars Kalesi: Tarih ve Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kars,_castello,_veduta_01.jpg/1200px-Kars,_castello,_veduta_01.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.089722222,40.613611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Kars Kalesi: Tarih ve Miras**

@@ -1,18 +1,17 @@
 ---
-title: "Alaiye Şehitliği | Miras Haritası"
-date: 2025-12-25T15:59:43+03:00
+title: "Alaiye Şehitliği"
+date: "2025-12-25T15:59:43+03:00"
 slug: "alaiye-sehitligi"
 description: "## Alaiye Şehitliği: Tarih ve Anlamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.513176,41.2739258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaiye Şehitliği: Tarih ve Anlamı

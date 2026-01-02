@@ -1,18 +1,17 @@
 ---
-title: "Kısıklı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:32+03:00
+title: "Kısıklı Çeşmesi"
+date: "2025-12-25T11:03:32+03:00"
 slug: "kisikli-cesmesi"
 description: "## Kısıklı Çeşmesi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.063953,41.022034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kısıklı Çeşmesi: Üsküdar'ın Gizli Çeşmesi

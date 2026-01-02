@@ -1,18 +1,17 @@
 ---
-title: "Yeşilyurt Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:16:19+03:00
+title: "Yeşilyurt Köyü Camii"
+date: "2025-12-24T22:16:19+03:00"
 slug: "yesilyurt-koyu-camii"
 description: "## Yeşilyurt Köyü Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Yeşilyurt_Köy_Camii.jpg/1200px-Yeşilyurt_Köy_Camii.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Çanakkale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.569875,39.556958"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yeşilyurt Köyü Camii

@@ -1,18 +1,17 @@
 ---
-title: "Sultan Dîvânî Mevlevîhâne Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:30+03:00
+title: "Sultan Dîvânî Mevlevîhâne Müzesi"
+date: "2025-12-25T03:24:30+03:00"
 slug: "sultan-dvn-mevlevhne-muzesi"
 description: "## Sultan Dîvânî Mevlevîhâne Müzesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.533531,38.753661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Dîvânî Mevlevîhâne Müzesi

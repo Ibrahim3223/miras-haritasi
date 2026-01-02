@@ -1,18 +1,17 @@
 ---
-title: "Uğurlubağ Kalesi | Miras Haritası"
-date: 2025-12-25T01:25:51+03:00
+title: "Uğurlubağ Kalesi"
+date: "2025-12-25T01:25:51+03:00"
 slug: "ugurlubag-kalesi"
 description: "### Uğurlubağ Kalesi: Feke'nin Gizli Şehri..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Feke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.936032726,37.73053438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uğurlubağ Kalesi: Feke'nin Gizli Şehri

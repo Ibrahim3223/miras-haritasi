@@ -1,18 +1,17 @@
 ---
-title: "Sebilhane-i Sultan Beyazıt | Miras Haritası"
-date: 2025-12-25T13:09:42+03:00
+title: "Sebilhane-i Sultan Beyazıt"
+date: "2025-12-25T13:09:42+03:00"
 slug: "sebilhane-i-sultan-beyazit"
 description: "### Sebilhane-i Sultan Beyazıt: Fatih'te Bir Çarpıcı Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Istanbul_Oct_2019_12_32_40_349000.jpeg/1200px-Istanbul_Oct_2019_12_32_40_349000.jpeg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9640675,41.0109863"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sebilhane-i Sultan Beyazıt: Fatih'te Bir Çarpıcı Çeşme

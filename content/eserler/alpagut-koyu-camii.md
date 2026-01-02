@@ -1,18 +1,17 @@
 ---
-title: "Alpagut Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:09:21+03:00
+title: "Alpagut Köyü Camii"
+date: "2025-12-24T22:09:21+03:00"
 slug: "alpagut-koyu-camii"
 description: "## Alpagut Köyü Camii: Bilecik'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bilecik"
+province: "Bilecik"
+iller: '["Bilecik"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.8166676,40.1986313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alpagut Köyü Camii: Bilecik'in Tarihi ve Kültürel Mirası

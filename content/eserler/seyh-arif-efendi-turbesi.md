@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Arif Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T13:32:45+03:00
+title: "Şeyh Arif Efendi Türbesi"
+date: "2025-12-25T13:32:45+03:00"
 slug: "seyh-arif-efendi-turbesi"
 description: "### Şeyh Arif Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9426289,41.0185051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Arif Efendi Türbesi

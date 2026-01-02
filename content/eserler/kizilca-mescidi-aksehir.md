@@ -1,18 +1,17 @@
 ---
-title: "Kızılca Mescidi, Akşehir | Miras Haritası"
-date: 2025-12-25T00:32:03+03:00
+title: "Kızılca Mescidi, Akşehir"
+date: "2025-12-25T00:32:03+03:00"
 slug: "kizilca-mescidi-aksehir"
 description: "## Kızılca Mescidi, Akşehir: Bir Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kızılca_Mescidi,_Akşehir_05.jpg/1200px-Kızılca_Mescidi,_Akşehir_05.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.4109306,38.3523064"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kızılca Mescidi, Akşehir: Bir Tarihi ve Kültürel Miras

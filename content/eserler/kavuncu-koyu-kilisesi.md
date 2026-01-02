@@ -1,18 +1,17 @@
 ---
-title: "Kavuncu Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:08+03:00
+title: "Kavuncu Köyü Kilisesi"
+date: "2025-12-25T09:10:08+03:00"
 slug: "kavuncu-koyu-kilisesi"
 description: "## Kavuncu Köyü Kilisesi..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Şırnak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.2192192,37.4753494"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavuncu Köyü Kilisesi

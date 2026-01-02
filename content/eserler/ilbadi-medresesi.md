@@ -1,18 +1,17 @@
 ---
-title: "İlbadı Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:28+03:00
+title: "İlbadı Medresesi"
+date: "2025-12-25T17:37:28+03:00"
 slug: "ilbadi-medresesi"
 description: "## İlbadı Medresesi: Merkezi Efsane..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0777855,37.7899818"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlbadı Medresesi: Merkezi Efsane

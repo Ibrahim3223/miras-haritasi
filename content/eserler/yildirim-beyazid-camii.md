@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Beyazıd Camii | Miras Haritası"
-date: 2025-12-24T23:47:15+03:00
+title: "Yıldırım Beyazıd Camii"
+date: "2025-12-24T23:47:15+03:00"
 slug: "yildirim-beyazid-camii"
 description: "## Yıldırım Beyazıt Camii: Bilecik'teki Tarihi Bir Çanakkale Kahramanının Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bilecik"
+province: "Bilecik"
+iller: '["Bilecik"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0118961,40.3566628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldırım Beyazıt Camii: Bilecik'teki Tarihi Bir Çanakkale Kahramanının Anıtı

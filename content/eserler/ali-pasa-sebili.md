@@ -1,18 +1,17 @@
 ---
-title: "Ali Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:06:00+03:00
+title: "Ali Paşa Sebili"
+date: "2025-12-25T13:06:00+03:00"
 slug: "ali-pasa-sebili"
 description: "## Ali Paşa Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.966067,41.01269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Paşa Sebili

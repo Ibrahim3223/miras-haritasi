@@ -1,18 +1,17 @@
 ---
-title: "Eşrefzade Camii | Miras Haritası"
-date: 2025-12-24T23:01:21+03:00
+title: "Eşrefzade Camii"
+date: "2025-12-24T23:01:21+03:00"
 slug: "esrefzade-camii"
 description: "## Eşrefzade Camii: Bursa'nın Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.7233364,40.4299541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eşrefzade Camii: Bursa'nın Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Çırpı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:29+03:00
+title: "Çırpı Köprüsü"
+date: "2025-12-25T02:12:29+03:00"
 slug: "cirpi-koprusu"
 description: "### Çırpı Köprüsü: Bayındır'da Tarih ve Mimarinin Birleşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.5033092,38.1598434"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çırpı Köprüsü: Bayındır'da Tarih ve Mimarinin Birleşmesi

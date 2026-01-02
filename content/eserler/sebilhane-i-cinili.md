@@ -1,18 +1,17 @@
 ---
-title: "Sebilhane-i Çinili | Miras Haritası"
-date: 2025-12-25T13:08:37+03:00
+title: "Sebilhane-i Çinili"
+date: "2025-12-25T13:08:37+03:00"
 slug: "sebilhane-i-cinili"
 description: "## Sebilhane-i Çinili: Fatih'te Bir Çeşme Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9563313,41.0180702"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sebilhane-i Çinili: Fatih'te Bir Çeşme Mirası

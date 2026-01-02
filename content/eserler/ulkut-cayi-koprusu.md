@@ -1,18 +1,17 @@
 ---
-title: "Ülküt Çayı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:15+03:00
+title: "Ülküt Çayı Köprüsü"
+date: "2025-12-25T02:23:15+03:00"
 slug: "ulkut-cayi-koprusu"
 description: "## Ülküt Çayı Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Kavaklıdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3192787,37.5082664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ülküt Çayı Köprüsü

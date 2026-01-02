@@ -1,18 +1,17 @@
 ---
-title: "İskeletepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:08:57+03:00
+title: "İskeletepe Höyüğü"
+date: "2025-12-25T06:08:57+03:00"
 slug: "iskeletepe-hoyugu"
 description: "### İskeletepe Höyüğü: Malatya'da Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9873734,38.2352448"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İskeletepe Höyüğü: Malatya'da Bir Arkeolojik Sitin Gizemi

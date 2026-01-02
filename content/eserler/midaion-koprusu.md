@@ -1,18 +1,17 @@
 ---
-title: "Midaion Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:14+03:00
+title: "Midaion Köprüsü"
+date: "2025-12-25T02:25:14+03:00"
 slug: "midaion-koprusu"
 description: "## Midaion Köprüsü: Eskişehir'in Tarihi Görseli..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.843901,39.799469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Midaion Köprüsü: Eskişehir'in Tarihi Görseli

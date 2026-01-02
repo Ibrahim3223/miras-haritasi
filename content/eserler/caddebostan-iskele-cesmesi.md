@@ -1,18 +1,17 @@
 ---
-title: "Caddebostan İskele Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:47:37+03:00
+title: "Caddebostan İskele Çeşmesi"
+date: "2025-12-25T11:47:37+03:00"
 slug: "caddebostan-iskele-cesmesi"
 description: "## Caddebostan İskele Çeşmesi..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Caddebostan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0659924,40.9648094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Caddebostan İskele Çeşmesi

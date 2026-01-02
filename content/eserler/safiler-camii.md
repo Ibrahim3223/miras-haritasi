@@ -1,18 +1,17 @@
 ---
-title: "Şafiler Camii | Miras Haritası"
-date: 2025-12-24T23:10:30+03:00
+title: "Şafiler Camii"
+date: "2025-12-24T23:10:30+03:00"
 slug: "safiler-camii"
 description: "## Şafiler Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2783966,39.9075241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şafiler Camii Tanıtımı

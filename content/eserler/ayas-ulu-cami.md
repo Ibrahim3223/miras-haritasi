@@ -1,18 +1,17 @@
 ---
-title: "Ayaş Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:02:31+03:00
+title: "Ayaş Ulu Cami"
+date: "2025-12-24T23:02:31+03:00"
 slug: "ayas-ulu-cami"
 description: "## Ayaş Ulu Cami: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.3325996,40.0153389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayaş Ulu Cami: Ankara'nın Tarihi ve Kültürel Mirası

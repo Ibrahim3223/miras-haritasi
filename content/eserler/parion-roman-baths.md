@@ -1,18 +1,17 @@
 ---
-title: "Parion, Roman baths | Miras Haritası"
-date: 2025-12-25T05:34:50+03:00
+title: "Parion, Roman baths"
+date: "2025-12-25T05:34:50+03:00"
 slug: "parion-roman-baths"
 description: "## Parion, Roma Hamamları..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.067709,40.42577"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parion, Roma Hamamları

@@ -1,18 +1,17 @@
 ---
-title: "Saint George Kilisesi | Miras Haritası"
-date: 2025-12-25T08:56:04+03:00
+title: "Saint George Kilisesi"
+date: "2025-12-25T08:56:04+03:00"
 slug: "saint-george-kilisesi"
 description: "## Saint George Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Diyarbakir-St._George_Church_ruine.jpeg/1200px-Diyarbakir-St._George_Church_ruine.jpeg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.2423945,37.9159757"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Saint George Kilisesi

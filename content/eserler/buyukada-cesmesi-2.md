@@ -1,18 +1,17 @@
 ---
-title: "Büyükada Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T11:16:52+03:00
+title: "Büyükada Çeşmesi 2"
+date: "2025-12-25T11:16:52+03:00"
 slug: "buyukada-cesmesi-2"
 description: "## Büyükada Çeşmesi 2: İbrahim Hakkı Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.117371,40.860651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükada Çeşmesi 2: İbrahim Hakkı Efendi Çeşmesi

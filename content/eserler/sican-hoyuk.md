@@ -1,18 +1,17 @@
 ---
-title: "Sıçan Höyük | Miras Haritası"
-date: 2025-12-25T06:39:36+03:00
+title: "Sıçan Höyük"
+date: "2025-12-25T06:39:36+03:00"
 slug: "sican-hoyuk"
 description: "## Sıçan Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9480246,39.0585626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sıçan Höyük: Tarihî Mirasın Gizemi

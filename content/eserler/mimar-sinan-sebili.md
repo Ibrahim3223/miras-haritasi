@@ -1,18 +1,17 @@
 ---
-title: "Mimar Sinan Sebili | Miras Haritası"
-date: 2025-12-25T13:07:14+03:00
+title: "Mimar Sinan Sebili"
+date: "2025-12-25T13:07:14+03:00"
 slug: "mimar-sinan-sebili"
 description: "### Mimar Sinan Sebili:İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.963878,41.017291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mimar Sinan Sebili:İstanbul'un Tarihi ve Kültürel Mirası

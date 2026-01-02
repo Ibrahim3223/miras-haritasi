@@ -1,18 +1,17 @@
 ---
-title: "Kethüda Ahmet Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:48:02+03:00
+title: "Kethüda Ahmet Efendi Çeşmesi"
+date: "2025-12-25T12:48:02+03:00"
 slug: "kethuda-ahmet-efendi-cesmesi"
 description: "## Kethüda Ahmet Efendi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7450275,38.0861931"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kethüda Ahmet Efendi Çeşmesi

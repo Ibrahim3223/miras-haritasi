@@ -1,18 +1,17 @@
 ---
-title: "Sökmen Höyüğü, Çivril | Miras Haritası"
-date: 2025-12-25T06:09:05+03:00
+title: "Sökmen Höyüğü, Çivril"
+date: "2025-12-25T06:09:05+03:00"
 slug: "sokmen-hoyugu-civril"
 description: "# Sökmen Höyüğü, Çivril..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.7483788,38.2516212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sökmen Höyüğü, Çivril

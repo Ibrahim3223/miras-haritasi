@@ -1,18 +1,17 @@
 ---
-title: "Sagalassos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:12:35+03:00
+title: "Sagalassos Antik Tiyatrosu"
+date: "2025-12-25T04:12:35+03:00"
 slug: "sagalassos-antik-tiyatrosu"
 description: "### Sagalassos Antik Tiyatrosu: Ağlasun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Ağlasun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.521832,37.678272"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sagalassos Antik Tiyatrosu: Ağlasun'un Tarihi ve Kültürel Mirası

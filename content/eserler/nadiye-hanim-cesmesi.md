@@ -1,18 +1,17 @@
 ---
-title: "Nadiye Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:54+03:00
+title: "Nadiye Hanım Çeşmesi"
+date: "2025-12-25T10:26:54+03:00"
 slug: "nadiye-hanim-cesmesi"
 description: "## Nadiye Hanım Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8650055,39.9347191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nadiye Hanım Çeşmesi

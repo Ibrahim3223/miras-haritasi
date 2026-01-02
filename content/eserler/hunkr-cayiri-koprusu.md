@@ -1,18 +1,17 @@
 ---
-title: "Hünkâr Çayırı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:07+03:00
+title: "Hünkâr Çayırı Köprüsü"
+date: "2025-12-25T02:08:07+03:00"
 slug: "hunkr-cayiri-koprusu"
 description: "## Hünkâr Çayırı Köprüsü: Kocaeli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.343302,40.814183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hünkâr Çayırı Köprüsü: Kocaeli'nin Tarihi ve Kültürel Mirası

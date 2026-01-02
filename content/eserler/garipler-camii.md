@@ -1,18 +1,17 @@
 ---
-title: "Garipler Camii | Miras Haritası"
-date: 2025-12-24T23:04:27+03:00
+title: "Garipler Camii"
+date: "2025-12-24T23:04:27+03:00"
 slug: "garipler-camii"
 description: "## Garipler Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5501289,40.3204956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Garipler Camii

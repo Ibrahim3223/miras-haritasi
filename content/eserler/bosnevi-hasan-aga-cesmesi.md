@@ -1,18 +1,17 @@
 ---
-title: "Bosnevi Hasan Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:01:10+03:00
+title: "Bosnevi Hasan Ağa Çeşmesi"
+date: "2025-12-25T13:01:10+03:00"
 slug: "bosnevi-hasan-aga-cesmesi"
 description: "## Bosnevi Hasan Ağa Çeşmesi: Fatih'te Bir Örenlik..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Molla Gürani"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9451837,41.0120906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bosnevi Hasan Ağa Çeşmesi: Fatih'te Bir Örenlik

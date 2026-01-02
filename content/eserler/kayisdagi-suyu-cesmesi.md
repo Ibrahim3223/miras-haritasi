@@ -1,18 +1,17 @@
 ---
-title: "Kayışdağı Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:39:05+03:00
+title: "Kayışdağı Suyu Çeşmesi"
+date: "2025-12-25T10:39:05+03:00"
 slug: "kayisdagi-suyu-cesmesi"
 description: "### Kayışdağı Suyu Çeşmesi: Kadıköy'ün Klasik Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kayışdağı_Suyu_Çeşmesi.jpg/1200px-Kayışdağı_Suyu_Çeşmesi.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Osmanağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.030222222,40.99325"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kayışdağı Suyu Çeşmesi: Kadıköy'ün Klasik Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Cuğo Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:41+03:00
+title: "Cuğo Kilisesi"
+date: "2025-12-25T09:04:41+03:00"
 slug: "cugo-kilisesi"
 description: "## Cuğo Kilisesi: Ardanuç'ta Bir Tarihî Eser..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Soğanlı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.032222222,41.159333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cuğo Kilisesi: Ardanuç'ta Bir Tarihî Eser

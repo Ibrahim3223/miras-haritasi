@@ -1,18 +1,17 @@
 ---
-title: "Selimiye Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:00+03:00
+title: "Selimiye Kütüphanesi"
+date: "2025-12-25T17:50:00+03:00"
 slug: "selimiye-kutuphanesi"
 description: "# Selimiye Kütüphanesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Selimiye Kütüphanesi

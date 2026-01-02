@@ -1,18 +1,17 @@
 ---
-title: "Bulgur Palas | Miras Haritası"
-date: 2025-12-25T17:49:19+03:00
+title: "Bulgur Palas"
+date: "2025-12-25T17:49:19+03:00"
 slug: "bulgur-palas"
 description: "## Bulgur Palas: İstanbul'un Farklı Bir Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bulgur_Palace,_Cerrahpaşa,_İstanbul_(12965606524).jpg/1200px-Bulgur_Palace,_Cerrahpaşa,_İstanbul_(12965606524).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.943888888,41.006944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bulgur Palas: İstanbul'un Farklı Bir Kütüphanesi

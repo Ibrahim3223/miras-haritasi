@@ -1,18 +1,17 @@
 ---
-title: "Derbent Şehitlik Anıtı | Miras Haritası"
-date: 2025-12-25T15:44:04+03:00
+title: "Derbent Şehitlik Anıtı"
+date: "2025-12-25T15:44:04+03:00"
 slug: "derbent-sehitlik-aniti"
 description: "## Derbent Şehitlik Anıtı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Ilgaz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7436905,41.0642662"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derbent Şehitlik Anıtı

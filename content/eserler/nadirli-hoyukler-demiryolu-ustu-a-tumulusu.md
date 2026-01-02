@@ -1,18 +1,17 @@
 ---
-title: "Nadırlı Höyükler Demiryolu Üstü A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:38:04+03:00
+title: "Nadırlı Höyükler Demiryolu Üstü A Tümülüsü"
+date: "2025-12-25T07:38:04+03:00"
 slug: "nadirli-hoyukler-demiryolu-ustu-a-tumulusu"
 description: "### Nadırlı Höyükler Demiryolu Üstü A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0875835,41.3648491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nadırlı Höyükler Demiryolu Üstü A Tümülüsü

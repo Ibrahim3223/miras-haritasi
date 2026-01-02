@@ -1,18 +1,17 @@
 ---
-title: "Taş Basamak Sokaktaki Çeşme | Miras Haritası"
-date: 2025-12-25T11:18:35+03:00
+title: "Taş Basamak Sokaktaki Çeşme"
+date: "2025-12-25T11:18:35+03:00"
 slug: "tas-basamak-sokaktaki-cesme"
 description: "## Taş Basamak Sokaktaki Çeşme: Beşiktaş'ta Bir Ölümsüz..."
 featured_image: ""
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Mecidiye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.023078,41.049714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Basamak Sokaktaki Çeşme: Beşiktaş'ta Bir Ölümsüz

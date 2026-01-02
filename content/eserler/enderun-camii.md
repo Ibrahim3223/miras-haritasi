@@ -1,18 +1,17 @@
 ---
-title: "Enderun Camii | Miras Haritası"
-date: 2025-12-25T01:00:58+03:00
+title: "Enderun Camii"
+date: "2025-12-25T01:00:58+03:00"
 slug: "enderun-camii"
 description: "### Enderun Camii: Osmanlı İmparatorluğu'nun Gizli Yerlerindendir..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Enderun Camii: Osmanlı İmparatorluğu'nun Gizli Yerlerindendir

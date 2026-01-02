@@ -1,18 +1,17 @@
 ---
-title: "Kendirli Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:58+03:00
+title: "Kendirli Kilisesi"
+date: "2025-12-25T09:22:58+03:00"
 slug: "kendirli-kilisesi"
 description: "## Kendirli Kilisesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.3756828,37.0627899"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kendirli Kilisesi

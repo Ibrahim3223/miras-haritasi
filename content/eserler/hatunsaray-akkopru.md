@@ -1,18 +1,17 @@
 ---
-title: "Hatunsaray Akköprü | Miras Haritası"
-date: 2025-12-25T02:25:03+03:00
+title: "Hatunsaray Akköprü"
+date: "2025-12-25T02:25:03+03:00"
 slug: "hatunsaray-akkopru"
 description: "## Hatunsaray Akköprü: Konya'nın Tarihi Bir Harikası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.3513618,37.5963038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatunsaray Akköprü: Konya'nın Tarihi Bir Harikası

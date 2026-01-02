@@ -1,18 +1,17 @@
 ---
-title: "Baradendromia | Miras Haritası"
-date: 2025-12-25T05:43:47+03:00
+title: "Baradendromia"
+date: "2025-12-25T05:43:47+03:00"
 slug: "baradendromia"
 description: "### Baradendromia: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.026045,40.98169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Baradendromia: Tarihi ve Kültürel Miras

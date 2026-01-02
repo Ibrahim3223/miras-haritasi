@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:10+03:00
+title: "Çanakkale Saat Kulesi"
+date: "2025-12-25T17:21:10+03:00"
 slug: "canakkale-saat-kulesi"
 description: "## Çanakkale Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Çanakkale_saat_kulesi.jpg/1200px-Çanakkale_saat_kulesi.jpg"
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "26.402047,40.149618"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çanakkale Saat Kulesi

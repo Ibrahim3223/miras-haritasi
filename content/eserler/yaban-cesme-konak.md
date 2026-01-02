@@ -1,18 +1,17 @@
 ---
-title: "Yaban Çeşme, Konak | Miras Haritası"
-date: 2025-12-25T12:55:35+03:00
+title: "Yaban Çeşme, Konak"
+date: "2025-12-25T12:55:35+03:00"
 slug: "yaban-cesme-konak"
 description: "# Yaban Çeşme: İzmir'in Eğriçeşme Köyü'ndeki Gizemli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1363068,38.4144363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yaban Çeşme: İzmir'in Eğriçeşme Köyü'ndeki Gizemli Çeşmesi

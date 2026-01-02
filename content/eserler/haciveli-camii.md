@@ -1,18 +1,17 @@
 ---
-title: "Hacıveli Camii | Miras Haritası"
-date: 2025-12-25T00:43:05+03:00
+title: "Hacıveli Camii"
+date: "2025-12-25T00:43:05+03:00"
 slug: "haciveli-camii"
 description: "## Hacıveli Camii: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Abana"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.048129295,41.979847033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıveli Camii: Kastamonu'nun Tarihi ve Kültürel Mirası

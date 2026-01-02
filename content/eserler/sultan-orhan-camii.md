@@ -1,18 +1,17 @@
 ---
-title: "Sultan Orhan Camii | Miras Haritası"
-date: 2025-12-24T23:10:11+03:00
+title: "Sultan Orhan Camii"
+date: "2025-12-24T23:10:11+03:00"
 slug: "sultan-orhan-camii"
 description: "## Sultan Orhan Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4377804,40.7981377"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Orhan Camii

@@ -1,18 +1,17 @@
 ---
-title: "Süt Pınarı Ayazması, Urla | Miras Haritası"
-date: 2025-12-25T12:51:30+03:00
+title: "Süt Pınarı Ayazması, Urla"
+date: "2025-12-25T12:51:30+03:00"
 slug: "sut-pinari-ayazmasi-urla"
 description: "**Süt Pınarı Ayazması, Urla**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7646465,38.3200035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Süt Pınarı Ayazması, Urla**

@@ -1,18 +1,17 @@
 ---
-title: "Nilüfer Hatun Köprüsü | Miras Haritası"
-date: 2025-12-25T02:28:02+03:00
+title: "Nilüfer Hatun Köprüsü"
+date: "2025-12-25T02:28:02+03:00"
 slug: "nilufer-hatun-koprusu"
 description: "## Nilüfer Hatun Köprüsü..."
 featured_image: ""
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.91952,40.27465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nilüfer Hatun Köprüsü

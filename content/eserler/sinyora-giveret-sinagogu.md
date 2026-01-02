@@ -1,18 +1,17 @@
 ---
-title: "Sinyora Giveret Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:30+03:00
+title: "Sinyora Giveret Sinagogu"
+date: "2025-12-25T16:14:30+03:00"
 slug: "sinyora-giveret-sinagogu"
 description: "# Sinyora Giveret Sinagogu: İzmirlinin Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Signora_Giveret_Synagogue_exterior.jpg/1200px-Signora_Giveret_Synagogue_exterior.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.135583333,38.420055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Sinyora Giveret Sinagogu: İzmirlinin Gizli Tarihi

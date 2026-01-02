@@ -1,18 +1,17 @@
 ---
-title: "Tabak Hamamı | Miras Haritası"
-date: 2025-12-25T16:51:25+03:00
+title: "Tabak Hamamı"
+date: "2025-12-25T16:51:25+03:00"
 slug: "tabak-hamami"
 description: "## Tabak Hamamı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.3853264,37.0668983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabak Hamamı

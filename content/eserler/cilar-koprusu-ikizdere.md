@@ -1,18 +1,17 @@
 ---
-title: "Çilar Köprüsü, İkizdere | Miras Haritası"
-date: 2025-12-25T02:51:59+03:00
+title: "Çilar Köprüsü, İkizdere"
+date: "2025-12-25T02:51:59+03:00"
 slug: "cilar-koprusu-ikizdere"
 description: "## Çilar Köprüsü: Tarihi ve Kültürel Mirasının Özellikleri..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.4749451,40.8188286"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çilar Köprüsü: Tarihi ve Kültürel Mirasının Özellikleri

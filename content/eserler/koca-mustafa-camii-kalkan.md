@@ -1,18 +1,17 @@
 ---
-title: "Koca Mustafa Camii, Kalkan | Miras Haritası"
-date: 2025-12-25T00:03:02+03:00
+title: "Koca Mustafa Camii, Kalkan"
+date: "2025-12-25T00:03:02+03:00"
 slug: "koca-mustafa-camii-kalkan"
 description: "## Koca Mustafa Camii: Kaş'taki Bir Ören..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4147072,36.2632713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Mustafa Camii: Kaş'taki Bir Ören

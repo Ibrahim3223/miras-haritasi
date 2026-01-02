@@ -1,18 +1,17 @@
 ---
-title: "Pir Emir Türbesi | Miras Haritası"
-date: 2025-12-25T14:11:04+03:00
+title: "Pir Emir Türbesi"
+date: "2025-12-25T14:11:04+03:00"
 slug: "pir-emir-turbesi"
 description: "## Pir Emir Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PİREMİR_TÜRBESİ_-_panoramio_(2).jpg/1200px-PİREMİR_TÜRBESİ_-_panoramio_(2).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.085522,40.175761"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pir Emir Türbesi

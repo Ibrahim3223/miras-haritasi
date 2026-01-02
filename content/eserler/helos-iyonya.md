@@ -1,18 +1,17 @@
 ---
-title: "Helos (İyonya) | Miras Haritası"
-date: 2025-12-25T04:56:03+03:00
+title: "Helos (İyonya)"
+date: "2025-12-25T04:56:03+03:00"
 slug: "helos-iyonya"
 description: "# Helos (İyonya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.361312,38.574035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Helos (İyonya)

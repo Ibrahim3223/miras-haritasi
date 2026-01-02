@@ -1,18 +1,17 @@
 ---
-title: "Meydan Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:27+03:00
+title: "Meydan Medresesi"
+date: "2025-12-25T17:32:27+03:00"
 slug: "meydan-medresesi"
 description: "**Meydan Medresesi: Hakkâri'nin Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Hakkari"
-iller: ["Hakkari"]
+iller: '["Hakkari"]'
 district: "Hakkâri"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "43.7439041,37.5674515"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Meydan Medresesi: Hakkâri'nin Tarihi Bir Mirası**

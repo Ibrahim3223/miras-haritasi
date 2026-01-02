@@ -1,18 +1,17 @@
 ---
-title: "Hagios Contantinos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:42+03:00
+title: "Hagios Contantinos Kilisesi"
+date: "2025-12-25T09:31:42+03:00"
 slug: "hagios-contantinos-kilisesi"
 description: "## Hagios Contantinos Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "31.9975624,36.5332832"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hagios Contantinos Kilisesi

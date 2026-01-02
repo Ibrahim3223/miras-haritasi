@@ -1,18 +1,17 @@
 ---
-title: "Şadırvanaltı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:55:07+03:00
+title: "Şadırvanaltı Camii Çeşmesi"
+date: "2025-12-25T12:55:07+03:00"
 slug: "sadirvanalti-camii-cesmesi"
 description: "## Şadırvanaltı Camii Çeşmesi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1350727,38.4210281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şadırvanaltı Camii Çeşmesi: İzmir'in Tarihi ve Kültürel Mirası

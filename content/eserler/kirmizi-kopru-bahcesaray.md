@@ -1,18 +1,17 @@
 ---
-title: "Kırmızı Köprü, Bahçesaray | Miras Haritası"
-date: 2025-12-25T03:02:25+03:00
+title: "Kırmızı Köprü, Bahçesaray"
+date: "2025-12-25T03:02:25+03:00"
 slug: "kirmizi-kopru-bahcesaray"
 description: "## Kırmızı Köprü, Bahçesaray..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "Bahçesaray"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.796522,38.091176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırmızı Köprü, Bahçesaray

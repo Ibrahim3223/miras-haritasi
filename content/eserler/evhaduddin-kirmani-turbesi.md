@@ -1,18 +1,17 @@
 ---
-title: "Evhaduddin Kirmani Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:37+03:00
+title: "Evhaduddin Kirmani Türbesi"
+date: "2025-12-25T14:39:37+03:00"
 slug: "evhaduddin-kirmani-turbesi"
 description: "## Evhaduddin Kirmani Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4957657,37.8842926"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evhaduddin Kirmani Türbesi

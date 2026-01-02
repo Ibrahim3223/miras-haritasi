@@ -1,18 +1,17 @@
 ---
-title: "Tekke Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:31+03:00
+title: "Tekke Hamamı"
+date: "2025-12-25T17:03:31+03:00"
 slug: "tekke-hamami"
 description: "### Tekke Hamamı..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.8892212,40.3020554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tekke Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Asklepion | Miras Haritası"
-date: 2025-12-25T03:36:36+03:00
+title: "Asklepion"
+date: "2025-12-25T03:36:36+03:00"
 slug: "asklepion"
 description: "## Asklepion: Bergama'nın Gizemli Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asklepion: Bergama'nın Gizemli Mirası

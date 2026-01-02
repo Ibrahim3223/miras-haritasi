@@ -1,18 +1,17 @@
 ---
-title: "Belediye Hamamı | Miras Haritası"
-date: 2025-12-25T16:24:00+03:00
+title: "Belediye Hamamı"
+date: "2025-12-25T16:24:00+03:00"
 slug: "belediye-hamami"
 description: "## Belediye Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.2575998,37.8583402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belediye Hamamı

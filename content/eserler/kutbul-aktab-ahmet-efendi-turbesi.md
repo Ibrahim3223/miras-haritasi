@@ -1,18 +1,17 @@
 ---
-title: "Kutbul Aktab Ahmet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:23+03:00
+title: "Kutbul Aktab Ahmet Efendi Türbesi"
+date: "2025-12-25T15:11:23+03:00"
 slug: "kutbul-aktab-ahmet-efendi-turbesi"
 description: "## Kutbul Aktab Ahmet Efendi Türbesi: Başyayla'daki Zengin Tarihçenin Evi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Başyayla"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.691494,36.7475373"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kutbul Aktab Ahmet Efendi Türbesi: Başyayla'daki Zengin Tarihçenin Evi

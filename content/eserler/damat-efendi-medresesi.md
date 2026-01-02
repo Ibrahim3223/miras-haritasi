@@ -1,18 +1,17 @@
 ---
-title: "Damat Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:31:25+03:00
+title: "Damat Efendi Medresesi"
+date: "2025-12-25T17:31:25+03:00"
 slug: "damat-efendi-medresesi"
 description: "## Damat Efendi Medresesi: İstanbul'un Tarihi ve Kültürel Mirasının Değerlerindendir..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.954131,41.022391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damat Efendi Medresesi: İstanbul'un Tarihi ve Kültürel Mirasının Değerlerindendir

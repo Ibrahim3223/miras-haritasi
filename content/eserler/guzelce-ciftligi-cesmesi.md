@@ -1,18 +1,17 @@
 ---
-title: "Güzelce Çiftliği Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:49:48+03:00
+title: "Güzelce Çiftliği Çeşmesi"
+date: "2025-12-25T11:49:48+03:00"
 slug: "guzelce-ciftligi-cesmesi"
 description: "### Güzelce Çiftliği Çeşmesi: Büyükçekmece'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.5118275,41.001049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güzelce Çiftliği Çeşmesi: Büyükçekmece'nin Tarihi Bir Çeşmesi

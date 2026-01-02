@@ -1,18 +1,17 @@
 ---
-title: "Aynalıkavak Kasrı | Miras Haritası"
-date: 2025-12-25T13:13:07+03:00
+title: "Aynalıkavak Kasrı"
+date: "2025-12-25T13:13:07+03:00"
 slug: "aynalikavak-kasri"
 description: "### Aynalıkavak Kasrı: İstanbul'un Gizli Çehresini Tanıtan Bir Saray..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Istanbul_asv2021-11_img66_Aynalıkavak_Pavilion.jpg/1200px-Istanbul_asv2021-11_img66_Aynalıkavak_Pavilion.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.95531944,41.03791667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Aynalıkavak Kasrı: İstanbul'un Gizli Çehresini Tanıtan Bir Saray

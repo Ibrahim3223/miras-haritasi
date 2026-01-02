@@ -1,18 +1,17 @@
 ---
-title: "Göktürk Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:53:06+03:00
+title: "Göktürk Merkez Camii"
+date: "2025-12-24T22:53:06+03:00"
 slug: "gokturk-merkez-camii"
 description: "## Göktürk Merkez Camii: Eyüp Sultan'da Bir Altın Çağın Mirası..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Göktürk Merkez"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.8899326,41.178688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Göktürk Merkez Camii: Eyüp Sultan'da Bir Altın Çağın Mirası

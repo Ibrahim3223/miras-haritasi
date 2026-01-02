@@ -1,18 +1,17 @@
 ---
-title: "Çatören Höyük | Miras Haritası"
-date: 2025-12-25T05:26:40+03:00
+title: "Çatören Höyük"
+date: "2025-12-25T05:26:40+03:00"
 slug: "catoren-hoyuk"
 description: "## Çatören Höyük: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.624633,39.320533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatören Höyük: Eskişehir'in Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Yüksekkaldırım Aşkenaz Sinagogu | Miras Haritası"
-date: 2025-12-25T16:15:46+03:00
+title: "Yüksekkaldırım Aşkenaz Sinagogu"
+date: "2025-12-25T16:15:46+03:00"
 slug: "yuksekkaldirim-askenaz-sinagogu"
 description: "# Yüksekkaldırım Aşkenaz Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.97521,41.024508"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yüksekkaldırım Aşkenaz Sinagogu

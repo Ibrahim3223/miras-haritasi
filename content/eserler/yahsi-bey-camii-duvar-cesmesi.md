@@ -1,18 +1,17 @@
 ---
-title: "Yahşi Bey Camii Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:45:49+03:00
+title: "Yahşi Bey Camii Duvar Çeşmesi"
+date: "2025-12-25T12:45:49+03:00"
 slug: "yahsi-bey-camii-duvar-cesmesi"
 description: "### Yahşi Bey Camii Duvar Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7336464,38.08564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yahşi Bey Camii Duvar Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Kemer Köprü, Bartın | Miras Haritası"
-date: 2025-12-25T02:56:33+03:00
+title: "Kemer Köprü, Bartın"
+date: "2025-12-25T02:56:33+03:00"
 slug: "kemer-kopru-bartin"
 description: "## Kemer Köprü, Bartın: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kemer_Köprü,_Bartın.jpg/1200px-Kemer_Köprü,_Bartın.jpg"
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Bartın"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.3368568,41.6287117"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kemer Köprü, Bartın: Tarihi ve Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Kuşhane Yanındaki Çeşme | Miras Haritası"
-date: 2025-12-25T11:21:27+03:00
+title: "Kuşhane Yanındaki Çeşme"
+date: "2025-12-25T11:21:27+03:00"
 slug: "kushane-yanindaki-cesme"
 description: "### Kuşhane Yanındaki Çeşme: Cankurtaran'da Bir Keşif..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9838428,41.0128517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuşhane Yanındaki Çeşme: Cankurtaran'da Bir Keşif

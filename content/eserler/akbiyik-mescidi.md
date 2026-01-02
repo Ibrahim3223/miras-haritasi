@@ -1,18 +1,17 @@
 ---
-title: "Akbıyık Mescidi | Miras Haritası"
-date: 2025-12-24T22:43:56+03:00
+title: "Akbıyık Mescidi"
+date: "2025-12-24T22:43:56+03:00"
 slug: "akbiyik-mescidi"
 description: "## Akbıyık Mescidi: Sultanahmet'te Tarih ve Kültür..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Istanbul_(10777753456).jpg/1200px-Istanbul_(10777753456).jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.979372,41.003271"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akbıyık Mescidi: Sultanahmet'te Tarih ve Kültür

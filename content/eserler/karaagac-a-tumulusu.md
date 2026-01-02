@@ -1,18 +1,17 @@
 ---
-title: "Karaağaç A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:22:05+03:00
+title: "Karaağaç A Tümülüsü"
+date: "2025-12-25T07:22:05+03:00"
 slug: "karaagac-a-tumulusu"
 description: "## Karaağaç A Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.5315742,41.6432381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaağaç A Tümülüsü: Edirne'nin Gizli Tarihi

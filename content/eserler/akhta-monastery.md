@@ -1,18 +1,17 @@
 ---
-title: "Akhta monastery | Miras Haritası"
-date: 2025-12-25T09:50:19+03:00
+title: "Akhta monastery"
+date: "2025-12-25T09:50:19+03:00"
 slug: "akhta-monastery"
 description: "## Akhta Manastırı: Diyarbakır'da Bir Eski Manastırın Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akhta Manastırı: Diyarbakır'da Bir Eski Manastırın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Beşe Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:24:29+03:00
+title: "Beşe Dede Türbesi"
+date: "2025-12-25T15:24:29+03:00"
 slug: "bese-dede-turbesi"
 description: "## Beşe Dede Türbesi: Bergama'nın Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3040009,39.2190018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşe Dede Türbesi: Bergama'nın Tarihî Mirası

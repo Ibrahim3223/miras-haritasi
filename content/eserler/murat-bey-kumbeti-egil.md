@@ -1,18 +1,17 @@
 ---
-title: "Murat Bey Kümbeti, Eğil | Miras Haritası"
-date: 2025-12-25T14:01:19+03:00
+title: "Murat Bey Kümbeti, Eğil"
+date: "2025-12-25T14:01:19+03:00"
 slug: "murat-bey-kumbeti-egil"
 description: "# Murat Bey Kümbeti, Eğil..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Eğil"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.0776901,38.1468544"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Murat Bey Kümbeti, Eğil

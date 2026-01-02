@@ -1,18 +1,17 @@
 ---
-title: "Akoğlan Camii | Miras Haritası"
-date: 2025-12-24T22:57:49+03:00
+title: "Akoğlan Camii"
+date: "2025-12-24T22:57:49+03:00"
 slug: "akoglan-camii"
 description: "## Akoğlan Camii: Eskişehir'in Tarihsel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Akoğlan_Camii.jpg/1200px-Akoğlan_Camii.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Eskişehir"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5303841,39.766243"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akoğlan Camii: Eskişehir'in Tarihsel Mirası

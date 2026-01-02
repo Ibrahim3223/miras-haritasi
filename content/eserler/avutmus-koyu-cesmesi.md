@@ -1,18 +1,17 @@
 ---
-title: "Avutmuş Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:29+03:00
+title: "Avutmuş Köyü Çeşmesi"
+date: "2025-12-25T10:17:29+03:00"
 slug: "avutmus-koyu-cesmesi"
 description: "### Avutmuş Köyü Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.4595184,40.3054848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Avutmuş Köyü Çeşmesi

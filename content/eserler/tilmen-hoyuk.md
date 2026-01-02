@@ -1,18 +1,17 @@
 ---
-title: "Tilmen Höyük | Miras Haritası"
-date: 2025-12-25T06:52:54+03:00
+title: "Tilmen Höyük"
+date: "2025-12-25T06:52:54+03:00"
 slug: "tilmen-hoyuk"
 description: "### Tilmen Höyük: İslahiye'nin Gizemli Arkeolojik Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tilmen4.jpg/1200px-Tilmen4.jpg"
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "İslahiye"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.704226,37.03006"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Tilmen Höyük: İslahiye'nin Gizemli Arkeolojik Mirası

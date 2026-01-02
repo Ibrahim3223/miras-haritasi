@@ -1,18 +1,17 @@
 ---
-title: "Dicle Üniversitesi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:16+03:00
+title: "Dicle Üniversitesi Kütüphanesi"
+date: "2025-12-25T17:50:16+03:00"
 slug: "dicle-universitesi-kutuphanesi"
 description: "## Dicle Üniversitesi Kütüphanesi: Diyarbakır'ın Kültür Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Dicle"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dicle Üniversitesi Kütüphanesi: Diyarbakır'ın Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Çamlıdere Doğa ve Hayvan Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:15+03:00
+title: "Çamlıdere Doğa ve Hayvan Müzesi"
+date: "2025-12-25T03:37:15+03:00"
 slug: "camlidere-doga-ve-hayvan-muzesi"
 description: "## Çamlıdere Doğa ve Hayvan Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Çamlıdere_Doğa_ve_Hayvan_Müzesi.jpg/1200px-Çamlıdere_Doğa_ve_Hayvan_Müzesi.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.476024135,40.490973727"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çamlıdere Doğa ve Hayvan Müzesi

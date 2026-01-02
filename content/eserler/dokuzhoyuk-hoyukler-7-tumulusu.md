@@ -1,18 +1,17 @@
 ---
-title: "Dokuzhöyük Höyükler 7 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:52:50+03:00
+title: "Dokuzhöyük Höyükler 7 Tümülüsü"
+date: "2025-12-25T07:52:50+03:00"
 slug: "dokuzhoyuk-hoyukler-7-tumulusu"
 description: "## Dokuzhöyük Höyükler 7 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0675106,41.6483917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokuzhöyük Höyükler 7 Tümülüsü

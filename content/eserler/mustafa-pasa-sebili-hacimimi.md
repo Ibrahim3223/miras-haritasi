@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Paşa Sebili, Hacımimi | Miras Haritası"
-date: 2025-12-25T13:04:51+03:00
+title: "Mustafa Paşa Sebili, Hacımimi"
+date: "2025-12-25T13:04:51+03:00"
 slug: "mustafa-pasa-sebili-hacimimi"
 description: "## Mustafa Paşa Sebili, Hacımimi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9801922,41.0269394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Paşa Sebili, Hacımimi

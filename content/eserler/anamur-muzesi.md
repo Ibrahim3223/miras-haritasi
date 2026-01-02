@@ -1,18 +1,17 @@
 ---
-title: "Anamur Müzesi | Miras Haritası"
-date: 2025-12-25T03:16:04+03:00
+title: "Anamur Müzesi"
+date: "2025-12-25T03:16:04+03:00"
 slug: "anamur-muzesi"
 description: "### Anamur Müzesi: Mersin'in Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.865833333,36.07"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Anamur Müzesi: Mersin'in Tarihi ve Kültürel Mirasının Bir Parçası

@@ -1,18 +1,17 @@
 ---
-title: "Sultan Melik Türbesi, Kemah | Miras Haritası"
-date: 2025-12-25T13:54:56+03:00
+title: "Sultan Melik Türbesi, Kemah"
+date: "2025-12-25T13:54:56+03:00"
 slug: "sultan-melik-turbesi-kemah"
 description: "## Sultan Melik Türbesi, Kemah..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemah"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.0327301,39.6084175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Melik Türbesi, Kemah

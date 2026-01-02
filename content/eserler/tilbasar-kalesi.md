@@ -1,18 +1,17 @@
 ---
-title: "Tilbaşar Kalesi | Miras Haritası"
-date: 2025-12-25T06:52:51+03:00
+title: "Tilbaşar Kalesi"
+date: "2025-12-25T06:52:51+03:00"
 slug: "tilbasar-kalesi"
 description: "**Tilbaşar Kalesi: Gaziantep'in Tarihî Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.55888889,36.87416667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tilbaşar Kalesi: Gaziantep'in Tarihî Mirası**

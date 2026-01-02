@@ -1,18 +1,17 @@
 ---
-title: "Sahip Ata Camii | Miras Haritası"
-date: 2025-12-24T22:38:37+03:00
+title: "Sahip Ata Camii"
+date: "2025-12-24T22:38:37+03:00"
 slug: "sahip-ata-camii"
 description: "# Sahip Ata Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4942818,37.8679466"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sahip Ata Camii

@@ -1,18 +1,17 @@
 ---
-title: "Salman Höyük | Miras Haritası"
-date: 2025-12-25T06:10:34+03:00
+title: "Salman Höyük"
+date: "2025-12-25T06:10:34+03:00"
 slug: "salman-hoyuk"
 description: "#### Salman Höyük: Türkiye'nin Gizli Tarihi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Ilgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.6502647,40.914238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 #### Salman Höyük: Türkiye'nin Gizli Tarihi

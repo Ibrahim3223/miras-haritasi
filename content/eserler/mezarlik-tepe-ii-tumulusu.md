@@ -1,18 +1,17 @@
 ---
-title: "Mezarlık Tepe II Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:44:58+03:00
+title: "Mezarlık Tepe II Tümülüsü"
+date: "2025-12-25T07:44:58+03:00"
 slug: "mezarlik-tepe-ii-tumulusu"
 description: "## Mezarlık Tepe II Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.4936733,41.0653038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mezarlık Tepe II Tümülüsü

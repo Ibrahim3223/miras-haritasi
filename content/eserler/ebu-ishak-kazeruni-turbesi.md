@@ -1,18 +1,17 @@
 ---
-title: "Ebu İshak Kazeruni Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:55+03:00
+title: "Ebu İshak Kazeruni Türbesi"
+date: "2025-12-25T14:17:55+03:00"
 slug: "ebu-ishak-kazeruni-turbesi"
 description: "## Ebu İshak Kazeruni Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2783,39.9065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebu İshak Kazeruni Türbesi

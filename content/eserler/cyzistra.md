@@ -1,18 +1,17 @@
 ---
-title: "Cyzistra | Miras Haritası"
-date: 2025-12-25T05:08:44+03:00
+title: "Cyzistra"
+date: "2025-12-25T05:08:44+03:00"
 slug: "cyzistra"
 description: "## Cyzistra: Antik Bir Şehirin Kalıntıları..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.9572705,38.3508285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cyzistra: Antik Bir Şehirin Kalıntıları

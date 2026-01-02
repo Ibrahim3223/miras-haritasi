@@ -1,18 +1,17 @@
 ---
-title: "Dibekli Çeşme | Miras Haritası"
-date: 2025-12-25T11:50:53+03:00
+title: "Dibekli Çeşme"
+date: "2025-12-25T11:50:53+03:00"
 slug: "dibekli-cesme"
 description: "## Dibekli Çeşme: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9543114,41.0125732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dibekli Çeşme: İstanbul'un Gizli Çeşmesi

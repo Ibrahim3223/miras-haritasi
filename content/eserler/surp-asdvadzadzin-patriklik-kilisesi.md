@@ -1,18 +1,17 @@
 ---
-title: "Surp Asdvadzadzin Patriklik Kilisesi | Miras Haritası"
-date: 2025-12-25T08:43:24+03:00
+title: "Surp Asdvadzadzin Patriklik Kilisesi"
+date: "2025-12-25T08:43:24+03:00"
 slug: "surp-asdvadzadzin-patriklik-kilisesi"
 description: "## Surp Asdvadzadzin Patriklik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Armenian_Church_in_Istanbul_-_P1040058.JPG/1200px-Armenian_Church_in_Istanbul_-_P1040058.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.96083333,41.00472222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Asdvadzadzin Patriklik Kilisesi

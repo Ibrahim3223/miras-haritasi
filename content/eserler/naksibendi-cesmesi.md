@@ -1,18 +1,17 @@
 ---
-title: "Nakşibendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:02+03:00
+title: "Nakşibendi Çeşmesi"
+date: "2025-12-25T10:27:02+03:00"
 slug: "naksibendi-cesmesi"
 description: "### Nakşibendi Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8618851,39.9343452"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nakşibendi Çeşmesi

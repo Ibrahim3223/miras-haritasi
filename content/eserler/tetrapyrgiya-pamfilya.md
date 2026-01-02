@@ -1,18 +1,17 @@
 ---
-title: "Tetrapyrgiya (Pamfilya) | Miras Haritası"
-date: 2025-12-25T04:52:25+03:00
+title: "Tetrapyrgiya (Pamfilya)"
+date: "2025-12-25T04:52:25+03:00"
 slug: "tetrapyrgiya-pamfilya"
 description: "## Tetrapyrgiya: Pamfilya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.849722222,36.889166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tetrapyrgiya: Pamfilya'nın Gizemli Arkeolojik Sitleri

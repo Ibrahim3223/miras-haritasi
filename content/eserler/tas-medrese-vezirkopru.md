@@ -1,18 +1,17 @@
 ---
-title: "Taş Medrese, Vezirköprü | Miras Haritası"
-date: 2025-12-25T17:53:07+03:00
+title: "Taş Medrese, Vezirköprü"
+date: "2025-12-25T17:53:07+03:00"
 slug: "tas-medrese-vezirkopru"
 description: "## Taş Medrese, Vezirköprü..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Vezirköprü"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "35.4583015,41.1439171"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Medrese, Vezirköprü

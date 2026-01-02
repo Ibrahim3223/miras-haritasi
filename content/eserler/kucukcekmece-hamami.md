@@ -1,18 +1,17 @@
 ---
-title: "Küçükçekmece Hamamı | Miras Haritası"
-date: 2025-12-25T16:38:38+03:00
+title: "Küçükçekmece Hamamı"
+date: "2025-12-25T16:38:38+03:00"
 slug: "kucukcekmece-hamami"
 description: "## Küçükçekmece Hamamı: İstanbul'un Gizli Gizemli Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.772126,40.991965"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçükçekmece Hamamı: İstanbul'un Gizli Gizemli Hamamı

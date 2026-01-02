@@ -1,18 +1,17 @@
 ---
-title: "Elmalık Camii | Miras Haritası"
-date: 2025-12-24T22:37:44+03:00
+title: "Elmalık Camii"
+date: "2025-12-24T22:37:44+03:00"
 slug: "elmalik-camii"
 description: "## Bursa'nın Tarihi Bir Mirası: Elmalık Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0657864,40.1866531"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bursa'nın Tarihi Bir Mirası: Elmalık Camii

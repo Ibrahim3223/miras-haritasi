@@ -1,18 +1,17 @@
 ---
-title: "Enbiya Bey Camii | Miras Haritası"
-date: 2025-12-24T22:59:54+03:00
+title: "Enbiya Bey Camii"
+date: "2025-12-24T22:59:54+03:00"
 slug: "enbiya-bey-camii"
 description: "## Enbiya Bey Camii..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Kemaliye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.4924622,39.2407417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Enbiya Bey Camii

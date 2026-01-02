@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2 | Miras Haritası"
-date: 2025-12-25T10:20:03+03:00
+title: "Çeşme 2"
+date: "2025-12-25T10:20:03+03:00"
 slug: "cesme-2"
 description: "## Çeşme 2: Eceabat'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.1891003,40.0435982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 2: Eceabat'ın Gizli Çeşmesi

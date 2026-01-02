@@ -1,18 +1,17 @@
 ---
-title: "Arap Şeyhi Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:39+03:00
+title: "Arap Şeyhi Türbesi"
+date: "2025-12-25T14:53:39+03:00"
 slug: "arap-seyhi-turbesi"
 description: "## Arap Şeyhi Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0195923,39.7465057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arap Şeyhi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Gazi Atik Ali Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:17+03:00
+title: "Gazi Atik Ali Paşa Türbesi"
+date: "2025-12-25T15:13:17+03:00"
 slug: "gazi-atik-ali-pasa-turbesi"
 description: "**Gazi Atik Ali Paşa Türbesi**..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8137979,40.654186"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gazi Atik Ali Paşa Türbesi**

@@ -1,18 +1,17 @@
 ---
-title: "Ophis | Miras Haritası"
-date: 2025-12-25T04:52:42+03:00
+title: "Ophis"
+date: "2025-12-25T04:52:42+03:00"
 slug: "ophis"
 description: "## Ophis: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.264282,40.937952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ophis: Antik Çağın Gizemi

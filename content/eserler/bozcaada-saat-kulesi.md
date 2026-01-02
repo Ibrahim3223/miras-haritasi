@@ -1,18 +1,17 @@
 ---
-title: "Bozcaada Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:20:49+03:00
+title: "Bozcaada Saat Kulesi"
+date: "2025-12-25T17:20:49+03:00"
 slug: "bozcaada-saat-kulesi"
 description: "## Bozcaada Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bozcaada_-_panoramio_(21).jpg/1200px-Bozcaada_-_panoramio_(21).jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bozcaada"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "26.068905,39.835316"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bozcaada Saat Kulesi

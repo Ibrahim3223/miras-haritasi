@@ -1,18 +1,17 @@
 ---
-title: "Hacı Halil Çeşmesi, Gökçen | Miras Haritası"
-date: 2025-12-25T12:06:13+03:00
+title: "Hacı Halil Çeşmesi, Gökçen"
+date: "2025-12-25T12:06:13+03:00"
 slug: "haci-halil-cesmesi-gokcen"
 description: "## Hacı Halil Çeşmesi: Gökçen, Tire'nin Yüzyıllar Önceki Kuytu Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8729,38.1106987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Halil Çeşmesi: Gökçen, Tire'nin Yüzyıllar Önceki Kuytu Çeşmesi

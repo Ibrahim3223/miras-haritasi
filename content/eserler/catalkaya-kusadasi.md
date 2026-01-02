@@ -1,18 +1,17 @@
 ---
-title: "Çatalkaya, Kuşadası | Miras Haritası"
-date: 2025-12-25T05:40:37+03:00
+title: "Çatalkaya, Kuşadası"
+date: "2025-12-25T05:40:37+03:00"
 slug: "catalkaya-kusadasi"
 description: "# Çatalkaya Arkeolojik Sit, Kuşadası..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.334211,37.825908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çatalkaya Arkeolojik Sit, Kuşadası

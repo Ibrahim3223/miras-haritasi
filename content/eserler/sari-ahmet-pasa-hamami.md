@@ -1,18 +1,17 @@
 ---
-title: "Sarı Ahmet Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:45:25+03:00
+title: "Sarı Ahmet Paşa Hamamı"
+date: "2025-12-25T16:45:25+03:00"
 slug: "sari-ahmet-pasa-hamami"
 description: "## Sarı Ahmet Paşa Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.9168777,38.7081871"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarı Ahmet Paşa Hamamı

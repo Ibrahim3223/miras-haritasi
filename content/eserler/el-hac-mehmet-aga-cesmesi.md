@@ -1,18 +1,17 @@
 ---
-title: "El Hac Mehmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:08:41+03:00
+title: "El Hac Mehmet Ağa Çeşmesi"
+date: "2025-12-25T10:08:41+03:00"
 slug: "el-hac-mehmet-aga-cesmesi"
 description: "### El Hac Mehmet Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/El_Hac_Mehmet_Ağa_Çeşmesi.jpg/1200px-El_Hac_Mehmet_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.020148953,41.019929449"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### El Hac Mehmet Ağa Çeşmesi

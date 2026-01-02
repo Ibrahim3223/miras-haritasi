@@ -1,18 +1,17 @@
 ---
-title: "Halime Hatun Medresesi | Miras Haritası"
-date: 2025-12-25T17:33:23+03:00
+title: "Halime Hatun Medresesi"
+date: "2025-12-25T17:33:23+03:00"
 slug: "halime-hatun-medresesi"
 description: "### Halime Hatun Medresesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.9142952,38.7107849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halime Hatun Medresesi

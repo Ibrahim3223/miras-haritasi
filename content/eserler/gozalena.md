@@ -1,18 +1,17 @@
 ---
-title: "Gozalena | Miras Haritası"
-date: 2025-12-25T05:06:48+03:00
+title: "Gozalena"
+date: "2025-12-25T05:06:48+03:00"
 slug: "gozalena"
 description: "## Gozalena: Türkiye'nin Gizli Öreni..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.044125,40.582908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gozalena: Türkiye'nin Gizli Öreni

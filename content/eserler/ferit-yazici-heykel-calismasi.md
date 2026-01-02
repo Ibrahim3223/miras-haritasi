@@ -1,18 +1,17 @@
 ---
-title: "Ferit Yazıcı Heykel Çalışması | Miras Haritası"
-date: 2025-12-25T15:48:01+03:00
+title: "Ferit Yazıcı Heykel Çalışması"
+date: "2025-12-25T15:48:01+03:00"
 slug: "ferit-yazici-heykel-calismasi"
 description: "## Ferit Yazıcı Heykel Çalışması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.04326,41.068509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferit Yazıcı Heykel Çalışması

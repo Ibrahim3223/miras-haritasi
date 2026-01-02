@@ -1,18 +1,17 @@
 ---
-title: "Kuru Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:47:33+03:00
+title: "Kuru Paşa Çeşmesi"
+date: "2025-12-25T11:47:33+03:00"
 slug: "kuru-pasa-cesmesi"
 description: "## Kuru Paşa Çeşmesi: Kırklareli'nin Tarihi Şöleni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kirklareli_kuru_pasa_cesmesi_01.jpg/1200px-Kirklareli_kuru_pasa_cesmesi_01.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.226333333,41.733527777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kuru Paşa Çeşmesi: Kırklareli'nin Tarihi Şöleni

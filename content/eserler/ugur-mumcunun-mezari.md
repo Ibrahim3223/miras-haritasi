@@ -1,18 +1,17 @@
 ---
-title: "Uğur Mumcu'nun mezarı | Miras Haritası"
-date: 2025-12-25T13:27:22+03:00
+title: "Uğur Mumcu'nun mezarı"
+date: "2025-12-25T13:27:22+03:00"
 slug: "ugur-mumcunun-mezari"
 description: "## Uğur Mumcu'nun Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Uğur_Mumcu'nun_29._ölüm_yıl_dönümündeki_mezarı.jpg/1200px-Uğur_Mumcu'nun_29._ölüm_yıl_dönümündeki_mezarı.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Uğur Mumcu'nun Mezarı

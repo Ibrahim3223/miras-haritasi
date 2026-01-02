@@ -1,18 +1,17 @@
 ---
-title: "Ağalar Camii, Tavşanlı | Miras Haritası"
-date: 2025-12-24T23:18:05+03:00
+title: "Ağalar Camii, Tavşanlı"
+date: "2025-12-24T23:18:05+03:00"
 slug: "agalar-camii-tavsanli"
 description: "## Ağalar Camii: Tavşanlı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Tavşanlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4931526,39.5443497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağalar Camii: Tavşanlı'nın Tarihi ve Kültürel Mirası

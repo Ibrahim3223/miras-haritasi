@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Mehmet Camii Dördüz Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:26+03:00
+title: "Şehzade Mehmet Camii Dördüz Çeşmesi"
+date: "2025-12-25T11:20:26+03:00"
 slug: "sehzade-mehmet-camii-dorduz-cesmesi"
 description: "# Şehzade Mehmet Camii Dördüz Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Kalenderhane"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.958074,41.013631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şehzade Mehmet Camii Dördüz Çeşmesi

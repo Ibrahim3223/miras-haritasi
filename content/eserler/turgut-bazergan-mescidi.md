@@ -1,18 +1,17 @@
 ---
-title: "Turgut Bazergan Mescidi | Miras Haritası"
-date: 2025-12-25T01:08:58+03:00
+title: "Turgut Bazergan Mescidi"
+date: "2025-12-25T01:08:58+03:00"
 slug: "turgut-bazergan-mescidi"
 description: "## Turgut Bazergan Mescidi: Edirne'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.561555184,41.671904998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turgut Bazergan Mescidi: Edirne'nin Tarihi ve Kültürel Mirası

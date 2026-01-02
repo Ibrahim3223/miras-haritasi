@@ -1,18 +1,17 @@
 ---
-title: "Saraçlar Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:36:20+03:00
+title: "Saraçlar Mescidi Çeşmesi"
+date: "2025-12-25T12:36:20+03:00"
 slug: "saraclar-mescidi-cesmesi"
 description: "## Saraçlar Mescidi Çeşmesi: Ankara'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8621559,39.9366226"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraçlar Mescidi Çeşmesi: Ankara'nın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Sankt Thaddäus und Bartholomäus Kirche (Istanbul) | Miras Haritası"
-date: 2025-12-25T09:09:28+03:00
+title: "Sankt Thaddäus und Bartholomäus Kirche (Istanbul)"
+date: "2025-12-25T09:09:28+03:00"
 slug: "sankt-thaddus-und-bartholomus-kirche-istanbul"
 description: "## Sankt Thaddäus und Bartholomäus Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Eingang_Sankt-Thaddäus-Bartholomäus-Kirche.jpg/1200px-Eingang_Sankt-Thaddäus-Bartholomäus-Kirche.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.95144,41.00329"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sankt Thaddäus und Bartholomäus Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Alaca Minare Camii, Merzifon | Miras Haritası"
-date: 2025-12-25T00:25:44+03:00
+title: "Alaca Minare Camii, Merzifon"
+date: "2025-12-25T00:25:44+03:00"
 slug: "alaca-minare-camii-merzifon"
 description: "## Alaca Minare Camii: Merzifon'un Tarihi Bir Çarı..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4648666,40.8760147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaca Minare Camii: Merzifon'un Tarihi Bir Çarı

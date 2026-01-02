@@ -1,18 +1,17 @@
 ---
-title: "Borualan Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:34:27+03:00
+title: "Borualan Sınır Kapısı"
+date: "2025-12-25T08:34:27+03:00"
 slug: "borualan-sinir-kapisi"
 description: "### Borualan Sınır Kapısı: Iğdır'in Gizli Çehresi..."
 featured_image: ""
 province: "Iğdır"
-iller: ["Iğdır"]
+iller: '["Iğdır"]'
 district: "Aralık"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "44.61351,39.781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Borualan Sınır Kapısı: Iğdır'in Gizli Çehresi

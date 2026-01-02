@@ -1,18 +1,17 @@
 ---
-title: "Yitirmez Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:22+03:00
+title: "Yitirmez Köyü Kilisesi"
+date: "2025-12-25T09:27:22+03:00"
 slug: "yitirmez-koyu-kilisesi"
 description: "## Yitirmez Köyü Kilisesi..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.6748695,40.4524345"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yitirmez Köyü Kilisesi

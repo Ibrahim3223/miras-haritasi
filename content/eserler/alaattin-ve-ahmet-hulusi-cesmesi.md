@@ -1,18 +1,17 @@
 ---
-title: "Alaattin ve Ahmet Hulusi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:13:46+03:00
+title: "Alaattin ve Ahmet Hulusi Çeşmesi"
+date: "2025-12-25T11:13:46+03:00"
 slug: "alaattin-ve-ahmet-hulusi-cesmesi"
 description: "## Alaattin ve Ahmet Hulusi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.928794,41.011888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alaattin ve Ahmet Hulusi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ali Çavuş Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:05:51+03:00
+title: "Ali Çavuş Çeşmesi"
+date: "2025-12-25T10:05:51+03:00"
 slug: "ali-cavus-cesmesi"
 description: "## Ali Çavuş Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/144.98-Sokak_Çeşmesi-1914_01.jpg/1200px-144.98-Sokak_Çeşmesi-1914_01.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.17969444,39.11815278"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ali Çavuş Çeşmesi

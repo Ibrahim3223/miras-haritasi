@@ -1,18 +1,17 @@
 ---
-title: "Ortaköy Mahallesi Tümülüs | Miras Haritası"
-date: 2025-12-25T07:24:47+03:00
+title: "Ortaköy Mahallesi Tümülüs"
+date: "2025-12-25T07:24:47+03:00"
 slug: "ortakoy-mahallesi-tumulus"
 description: "## Ortaköy Mahallesi Tümülüs..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3919811,41.0907173"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaköy Mahallesi Tümülüs

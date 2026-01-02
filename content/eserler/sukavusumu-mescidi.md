@@ -1,18 +1,17 @@
 ---
-title: "Sukavuşumu Mescidi | Miras Haritası"
-date: 2025-12-25T00:20:25+03:00
+title: "Sukavuşumu Mescidi"
+date: "2025-12-25T00:20:25+03:00"
 slug: "sukavusumu-mescidi"
 description: "## Sukavuşumu Mescidi: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5270654,40.8106038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sukavuşumu Mescidi: Artvin'in Gizli Cenneti

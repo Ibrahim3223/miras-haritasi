@@ -1,18 +1,17 @@
 ---
-title: "Dökmeciler Hamamı | Miras Haritası"
-date: 2025-12-25T16:24:21+03:00
+title: "Dökmeciler Hamamı"
+date: "2025-12-25T16:24:21+03:00"
 slug: "dokmeciler-hamami"
 description: "### Dökmeciler Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Süleymaniye_Hammam_from_outside,_2024.jpg/1200px-Süleymaniye_Hammam_from_outside,_2024.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9658,41.0159"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Dökmeciler Hamamı

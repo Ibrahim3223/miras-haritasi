@@ -1,18 +1,17 @@
 ---
-title: "Alemdar Camii, Adana | Miras Haritası"
-date: 2025-12-25T00:32:52+03:00
+title: "Alemdar Camii, Adana"
+date: "2025-12-25T00:32:52+03:00"
 slug: "alemdar-camii-adana"
 description: "## Alemdar Camii: Adana'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.328846,36.9806252"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alemdar Camii: Adana'nın Tarihi Bir Mirası

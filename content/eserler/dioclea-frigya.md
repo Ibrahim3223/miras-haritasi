@@ -1,18 +1,17 @@
 ---
-title: "Dioclea (Frigya) | Miras Haritası"
-date: 2025-12-25T05:41:09+03:00
+title: "Dioclea (Frigya)"
+date: "2025-12-25T05:41:09+03:00"
 slug: "dioclea-frigya"
 description: "## Dioclea (Frigya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.88814,38.6638015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dioclea (Frigya) Arkeolojik Sit

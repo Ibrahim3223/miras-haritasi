@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Koçali | Miras Haritası"
-date: 2025-12-25T12:39:26+03:00
+title: "Çeşme, Koçali"
+date: "2025-12-25T12:39:26+03:00"
 slug: "cesme-kocali"
 description: "## Çeşme, Koçali: Ezine'nin Eğrelti Çeşmesi..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.2505569,39.739048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Koçali: Ezine'nin Eğrelti Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Büyük Camii | Miras Haritası"
-date: 2025-12-24T22:16:38+03:00
+title: "Büyük Camii"
+date: "2025-12-24T22:16:38+03:00"
 slug: "buyuk-camii"
 description: "# Büyük Camii: İlkadım'daki Bir Özerklik Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Büyük_Camii.jpg/1200px-Büyük_Camii.jpg"
 province: "İlkadım"
-iller: ["İlkadım"]
+iller: '["İlkadım"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.332915,41.294392"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Büyük Camii: İlkadım'daki Bir Özerklik Eseri

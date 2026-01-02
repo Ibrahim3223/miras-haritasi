@@ -1,18 +1,17 @@
 ---
-title: "Subaşı Kurbu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:41:23+03:00
+title: "Subaşı Kurbu Çeşmesi"
+date: "2025-12-25T11:41:23+03:00"
 slug: "subasi-kurbu-cesmesi"
 description: "### Subaşı Kurbu Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2702637,39.909935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Subaşı Kurbu Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Profesör Doktor Ülker Muncuk Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:51+03:00
+title: "Profesör Doktor Ülker Muncuk Müzesi"
+date: "2025-12-25T03:26:51+03:00"
 slug: "profesor-doktor-ulker-muncuk-muzesi"
 description: "## Profesör Doktor Ülker Muncuk Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.823725,39.935552"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Profesör Doktor Ülker Muncuk Müzesi

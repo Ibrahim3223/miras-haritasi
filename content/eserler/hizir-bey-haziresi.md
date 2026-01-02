@@ -1,18 +1,17 @@
 ---
-title: "Hızır Bey Haziresi | Miras Haritası"
-date: 2025-12-25T16:06:31+03:00
+title: "Hızır Bey Haziresi"
+date: "2025-12-25T16:06:31+03:00"
 slug: "hizir-bey-haziresi"
 description: "### Hızır Bey Haziresi: Fatih'teki bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9585361,41.0184708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hızır Bey Haziresi: Fatih'teki bir Anıt

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ali Ağa Mescidi Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:56:52+03:00
+title: "Hacı Ali Ağa Mescidi Duvar Çeşmesi"
+date: "2025-12-25T11:56:52+03:00"
 slug: "haci-ali-aga-mescidi-duvar-cesmesi"
 description: "## Hacı Ali Ağa Mescidi Duvar Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.9325428,38.935154"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ali Ağa Mescidi Duvar Çeşmesi

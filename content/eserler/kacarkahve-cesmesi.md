@@ -1,18 +1,17 @@
 ---
-title: "Kacarkahve Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:30:56+03:00
+title: "Kacarkahve Çeşmesi"
+date: "2025-12-25T10:30:56+03:00"
 slug: "kacarkahve-cesmesi"
 description: "## Kacarkahve Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.1243343,37.8894958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kacarkahve Çeşmesi

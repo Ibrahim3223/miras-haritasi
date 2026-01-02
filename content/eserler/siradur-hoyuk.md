@@ -1,18 +1,17 @@
 ---
-title: "Sıradur Höyük | Miras Haritası"
-date: 2025-12-25T05:59:23+03:00
+title: "Sıradur Höyük"
+date: "2025-12-25T05:59:23+03:00"
 slug: "siradur-hoyuk"
 description: "## Sıradur Höyük: Sivas'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Suşehri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.2276192,40.1626778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sıradur Höyük: Sivas'ın Tarihi ve Kültürel Mirası

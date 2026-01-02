@@ -1,18 +1,17 @@
 ---
-title: "Kızılcahamam Sey Hamamı | Miras Haritası"
-date: 2025-12-25T16:37:17+03:00
+title: "Kızılcahamam Sey Hamamı"
+date: "2025-12-25T16:37:17+03:00"
 slug: "kizilcahamam-sey-hamami"
 description: "### Kızılcahamam Sey Hamamı: Tarih, Mimarî ve Kültürel Miras..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kızılcahamam"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.6442375,40.5996628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızılcahamam Sey Hamamı: Tarih, Mimarî ve Kültürel Miras

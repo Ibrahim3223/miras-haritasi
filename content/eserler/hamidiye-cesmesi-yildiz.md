@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Çeşmesi, Yıldız | Miras Haritası"
-date: 2025-12-25T11:55:21+03:00
+title: "Hamidiye Çeşmesi, Yıldız"
+date: "2025-12-25T11:55:21+03:00"
 slug: "hamidiye-cesmesi-yildiz"
 description: "## Hamidiye Çeşmesi: Yıldız'ın Büyülü Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Hamidiye_Fountain,_Yıldız,_Beşiktaş,_2023.jpg/1200px-Hamidiye_Fountain,_Yıldız,_Beşiktaş,_2023.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.007311,41.050461"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hamidiye Çeşmesi: Yıldız'ın Büyülü Bir Parçası

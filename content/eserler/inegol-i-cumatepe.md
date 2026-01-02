@@ -1,18 +1,17 @@
 ---
-title: "İnegöl I, Cumatepe | Miras Haritası"
-date: 2025-12-25T05:29:16+03:00
+title: "İnegöl I, Cumatepe"
+date: "2025-12-25T05:29:16+03:00"
 slug: "inegol-i-cumatepe"
 description: "## İnegöl I, Cumatepe Arkeolojik Sit..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.510233,40.079883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnegöl I, Cumatepe Arkeolojik Sit

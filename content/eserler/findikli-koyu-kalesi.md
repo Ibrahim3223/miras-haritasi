@@ -1,18 +1,17 @@
 ---
-title: "Fındıklı Köyü Kalesi | Miras Haritası"
-date: 2025-12-25T01:43:44+03:00
+title: "Fındıklı Köyü Kalesi"
+date: "2025-12-25T01:43:44+03:00"
 slug: "findikli-koyu-kalesi"
 description: "## Fındıklı Köyü Kalesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.611897,41.380532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fındıklı Köyü Kalesi

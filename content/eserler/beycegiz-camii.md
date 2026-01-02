@@ -1,18 +1,17 @@
 ---
-title: "Beyceğiz Camii | Miras Haritası"
-date: 2025-12-24T22:47:30+03:00
+title: "Beyceğiz Camii"
+date: "2025-12-24T22:47:30+03:00"
 slug: "beycegiz-camii"
 description: "## Beyceğiz Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9463654,41.0258942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyceğiz Camii

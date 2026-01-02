@@ -1,18 +1,17 @@
 ---
-title: "Kalem Adası Kalıntıları, Bademli | Miras Haritası"
-date: 2025-12-25T13:50:22+03:00
+title: "Kalem Adası Kalıntıları, Bademli"
+date: "2025-12-25T13:50:22+03:00"
 slug: "kalem-adasi-kalintilari-bademli"
 description: "## Kalem Adası Kalıntıları, Bademli: Dikili, İzmir..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.795936111,39.008777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalem Adası Kalıntıları, Bademli: Dikili, İzmir

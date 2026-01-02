@@ -1,18 +1,17 @@
 ---
-title: "Orni | Miras Haritası"
-date: 2025-12-25T05:00:28+03:00
+title: "Orni"
+date: "2025-12-25T05:00:28+03:00"
 slug: "orni"
 description: "## Orni Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.280325,40.914314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orni Arkeolojik Sit

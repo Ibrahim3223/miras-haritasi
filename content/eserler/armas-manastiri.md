@@ -1,18 +1,17 @@
 ---
-title: "Armaş Manastırı | Miras Haritası"
-date: 2025-12-25T09:48:42+03:00
+title: "Armaş Manastırı"
+date: "2025-12-25T09:48:42+03:00"
 slug: "armas-manastiri"
 description: "### Armaş Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Monastery_of_Armash.png/1200px-Monastery_of_Armash.png"
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "İzmit"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "30.194909,40.847247"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Armaş Manastırı

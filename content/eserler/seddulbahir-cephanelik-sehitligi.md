@@ -1,18 +1,17 @@
 ---
-title: "Seddülbahir Cephanelik Şehitliği | Miras Haritası"
-date: 2025-12-25T16:04:28+03:00
+title: "Seddülbahir Cephanelik Şehitliği"
+date: "2025-12-25T16:04:28+03:00"
 slug: "seddulbahir-cephanelik-sehitligi"
 description: "### Seddülbahir Cephanelik Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.1889992,40.042038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seddülbahir Cephanelik Şehitliği

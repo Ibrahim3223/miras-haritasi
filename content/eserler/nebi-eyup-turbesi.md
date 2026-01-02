@@ -1,18 +1,17 @@
 ---
-title: "Nebi Eyüp Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:20+03:00
+title: "Nebi Eyüp Türbesi"
+date: "2025-12-25T15:21:20+03:00"
 slug: "nebi-eyup-turbesi"
 description: "## Nebi Eyüp Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6229744,36.7993469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nebi Eyüp Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Panormus Kaya Mezarları | Miras Haritası"
-date: 2025-12-25T13:23:25+03:00
+title: "Panormus Kaya Mezarları"
+date: "2025-12-25T13:23:25+03:00"
 slug: "panormus-kaya-mezarlari"
 description: "## Panormus Kaya Mezarları..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2813206,37.1273842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panormus Kaya Mezarları

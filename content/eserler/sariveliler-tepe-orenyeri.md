@@ -1,18 +1,17 @@
 ---
-title: "Sarıveliler Tepe Örenyeri | Miras Haritası"
-date: 2025-12-25T14:07:29+03:00
+title: "Sarıveliler Tepe Örenyeri"
+date: "2025-12-25T14:07:29+03:00"
 slug: "sariveliler-tepe-orenyeri"
 description: "## Sarıveliler Tepe Örenyeri..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Sarıveliler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.6094818,36.7685928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıveliler Tepe Örenyeri

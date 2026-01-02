@@ -1,18 +1,17 @@
 ---
-title: "Taşlıbakar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:32:59+03:00
+title: "Taşlıbakar Höyüğü"
+date: "2025-12-25T06:32:59+03:00"
 slug: "taslibakar-hoyugu"
 description: "**Taşlıbakar Höyüğü: Kilis'te Bir Arkeolojik Çıkın**..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Elbeyli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.4037793,36.7036782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Taşlıbakar Höyüğü: Kilis'te Bir Arkeolojik Çıkın**

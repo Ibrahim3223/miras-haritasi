@@ -1,18 +1,17 @@
 ---
-title: "Çelebi Mehmet Camii | Miras Haritası"
-date: 2025-12-24T23:52:48+03:00
+title: "Çelebi Mehmet Camii"
+date: "2025-12-24T23:52:48+03:00"
 slug: "celebi-mehmet-camii"
 description: "## Çelebi Mehmet Camii: Ankara'nın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8678741,39.9311295"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çelebi Mehmet Camii: Ankara'nın Tarihî Mirası

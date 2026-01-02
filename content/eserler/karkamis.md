@@ -1,18 +1,17 @@
 ---
-title: "Karkamış | Miras Haritası"
-date: 2025-12-25T06:46:38+03:00
+title: "Karkamış"
+date: "2025-12-25T06:46:38+03:00"
 slug: "karkamis"
 description: "## Karkamış Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Museum_of_Anatolian_Civilizations091.jpg/1200px-Museum_of_Anatolian_Civilizations091.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.015,36.829722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karkamış Arkeolojik Sit

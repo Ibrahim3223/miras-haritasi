@@ -1,18 +1,17 @@
 ---
-title: "Terice Merkez Camii | Miras Haritası"
-date: 2025-12-24T23:16:18+03:00
+title: "Terice Merkez Camii"
+date: "2025-12-24T23:16:18+03:00"
 slug: "terice-merkez-camii"
 description: "### Terice Merkez Camii: Ayvacık'ta Bir Tarihsel Özellik..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ayvacık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5387993,40.9835014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Terice Merkez Camii: Ayvacık'ta Bir Tarihsel Özellik

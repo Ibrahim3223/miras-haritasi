@@ -1,18 +1,17 @@
 ---
-title: "Hamam Kalıntısı | Miras Haritası"
-date: 2025-12-25T16:43:00+03:00
+title: "Hamam Kalıntısı"
+date: "2025-12-25T16:43:00+03:00"
 slug: "hamam-kalintisi"
 description: "## Hamam Kalıntısı: Fatih, İstanbul'un Gizli Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9606762,41.0072479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamam Kalıntısı: Fatih, İstanbul'un Gizli Bir Mirası

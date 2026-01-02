@@ -1,18 +1,17 @@
 ---
-title: "Kaleköy Kilisesi | Miras Haritası"
-date: 2025-12-25T09:28:18+03:00
+title: "Kaleköy Kilisesi"
+date: "2025-12-25T09:28:18+03:00"
 slug: "kalekoy-kilisesi"
 description: "## Kaleköy Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.8991928,40.2334023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleköy Kilisesi

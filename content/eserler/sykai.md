@@ -1,18 +1,17 @@
 ---
-title: "Sykai | Miras Haritası"
-date: 2025-12-25T04:49:35+03:00
+title: "Sykai"
+date: "2025-12-25T04:49:35+03:00"
 slug: "sykai"
 description: "## Sykai Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.972982,41.023019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sykai Arkeolojik Sit

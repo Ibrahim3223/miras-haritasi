@@ -1,18 +1,17 @@
 ---
-title: "Asartepe Höyük, Urganlı | Miras Haritası"
-date: 2025-12-25T05:48:22+03:00
+title: "Asartepe Höyük, Urganlı"
+date: "2025-12-25T05:48:22+03:00"
 slug: "asartepe-hoyuk-urganli"
 description: "## Asartepe Höyük, Urganlı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.844933,38.555483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asartepe Höyük, Urganlı

@@ -1,18 +1,17 @@
 ---
-title: "Doğuluşah Asarkaya | Miras Haritası"
-date: 2025-12-25T01:21:25+03:00
+title: "Doğuluşah Asarkaya"
+date: "2025-12-25T01:21:25+03:00"
 slug: "dogulusah-asarkaya"
 description: "## Doğuluşah Asarkaya: Kütahya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.1817493,39.5398064"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Doğuluşah Asarkaya: Kütahya'nın Gizli Kahramanı

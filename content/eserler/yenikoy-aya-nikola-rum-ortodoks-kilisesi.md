@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Aya Nikola Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T08:52:55+03:00
+title: "Yeniköy Aya Nikola Rum Ortodoks Kilisesi"
+date: "2025-12-25T08:52:55+03:00"
 slug: "yenikoy-aya-nikola-rum-ortodoks-kilisesi"
 description: "## Yeniköy Aya Nikola Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.06805556,41.12027778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeniköy Aya Nikola Rum Ortodoks Kilisesi

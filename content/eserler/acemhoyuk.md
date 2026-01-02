@@ -1,18 +1,17 @@
 ---
-title: "Acemhöyük | Miras Haritası"
-date: 2025-12-25T07:09:53+03:00
+title: "Acemhöyük"
+date: "2025-12-25T07:09:53+03:00"
 slug: "acemhoyuk"
 description: "## Acemhöyük: Türkiye'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sites_hittites.svg/1200px-Sites_hittites.svg.png"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aksaray"
+province: "Aksaray"
+iller: '["Aksaray"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.83548333,38.41158889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Acemhöyük: Türkiye'nin Gizemi

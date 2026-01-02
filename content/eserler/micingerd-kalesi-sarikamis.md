@@ -1,18 +1,17 @@
 ---
-title: "Micingerd Kalesi, Sarıkamış | Miras Haritası"
-date: 2025-12-25T01:38:10+03:00
+title: "Micingerd Kalesi, Sarıkamış"
+date: "2025-12-25T01:38:10+03:00"
 slug: "micingerd-kalesi-sarikamis"
 description: "## Micingerd Kalesi: Sarıkamış'taki Tarihi Bir Miras..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Sarıkamış"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.3692398,40.1947212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Micingerd Kalesi: Sarıkamış'taki Tarihi Bir Miras

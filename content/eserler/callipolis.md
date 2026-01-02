@@ -1,18 +1,17 @@
 ---
-title: "Callipolis | Miras Haritası"
-date: 2025-12-25T08:28:15+03:00
+title: "Callipolis"
+date: "2025-12-25T08:28:15+03:00"
 slug: "callipolis"
 description: "### Callipolis Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.043055555,41.067777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Callipolis Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Zeynep Dudu Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:09:17+03:00
+title: "Zeynep Dudu Çeşmesi"
+date: "2025-12-25T12:09:17+03:00"
 slug: "zeynep-dudu-cesmesi"
 description: "### Zeynep Dudu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.580087,41.0214"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zeynep Dudu Çeşmesi

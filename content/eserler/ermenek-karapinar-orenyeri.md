@@ -1,18 +1,17 @@
 ---
-title: "Ermenek Karapınar Örenyeri | Miras Haritası"
-date: 2025-12-25T05:38:34+03:00
+title: "Ermenek Karapınar Örenyeri"
+date: "2025-12-25T05:38:34+03:00"
 slug: "ermenek-karapinar-orenyeri"
 description: "## Ermenek Karapınar Örenyeri..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ermenek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.9567528,36.4918365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ermenek Karapınar Örenyeri

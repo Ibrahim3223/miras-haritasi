@@ -1,18 +1,17 @@
 ---
-title: "Vize Çömlek Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:10:57+03:00
+title: "Vize Çömlek Tepe Höyüğü"
+date: "2025-12-25T06:10:57+03:00"
 slug: "vize-comlek-tepe-hoyugu"
 description: "### Vize Çömlek Tepe Höyüğü: Kırklareli'nin Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vize_-_Vize_Çömlek_Tepe_Höyüğü_-_20250602113928.jpg/1200px-Vize_-_Vize_Çömlek_Tepe_Höyüğü_-_20250602113928.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.770647,41.5745773"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Vize Çömlek Tepe Höyüğü: Kırklareli'nin Gizli Harikası

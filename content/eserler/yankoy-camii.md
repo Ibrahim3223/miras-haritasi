@@ -1,18 +1,17 @@
 ---
-title: "Yanköy Camii | Miras Haritası"
-date: 2025-12-25T00:56:44+03:00
+title: "Yanköy Camii"
+date: "2025-12-25T00:56:44+03:00"
 slug: "yankoy-camii"
 description: "### Yanköy Camii: Serik'in Tarihi Çanakkalesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0014159,37.004667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yanköy Camii: Serik'in Tarihi Çanakkalesi

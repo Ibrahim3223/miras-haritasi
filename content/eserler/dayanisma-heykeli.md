@@ -1,18 +1,17 @@
 ---
-title: "Dayanışma Heykeli | Miras Haritası"
-date: 2025-12-25T16:10:54+03:00
+title: "Dayanışma Heykeli"
+date: "2025-12-25T16:10:54+03:00"
 slug: "dayanisma-heykeli"
 description: "## Dayanışma Heykeli: İstanbul'un sembolü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9954853,41.0437126"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dayanışma Heykeli: İstanbul'un sembolü

@@ -1,18 +1,17 @@
 ---
-title: "Balpınar Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:43+03:00
+title: "Balpınar Sokak Çeşmesi"
+date: "2025-12-25T10:15:43+03:00"
 slug: "balpinar-sokak-cesmesi"
 description: "### Balpınar Sokak Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9714565,39.4225426"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balpınar Sokak Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası

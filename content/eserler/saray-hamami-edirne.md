@@ -1,18 +1,17 @@
 ---
-title: "Saray Hamamı, Edirne | Miras Haritası"
-date: 2025-12-25T17:05:11+03:00
+title: "Saray Hamamı, Edirne"
+date: "2025-12-25T17:05:11+03:00"
 slug: "saray-hamami-edirne"
 description: "### Saray Hamamı, Edirne..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Saray_Hamamı,_Edirne.jpg/1200px-Saray_Hamamı,_Edirne.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.5595016,41.6790352"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Saray Hamamı, Edirne

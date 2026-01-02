@@ -1,18 +1,17 @@
 ---
-title: "Mazı Çayı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:20:50+03:00
+title: "Mazı Çayı Köprüsü"
+date: "2025-12-25T02:20:50+03:00"
 slug: "mazi-cayi-koprusu"
 description: "## Mazı Çayı Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6066933,37.1774864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mazı Çayı Köprüsü

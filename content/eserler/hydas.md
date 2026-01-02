@@ -1,18 +1,17 @@
 ---
-title: "Hydas | Miras Haritası"
-date: 2025-12-25T04:28:33+03:00
+title: "Hydas"
+date: "2025-12-25T04:28:33+03:00"
 slug: "hydas"
 description: "## Hydas Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.092803,36.706086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hydas Arkeolojik Sit

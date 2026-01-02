@@ -1,18 +1,17 @@
 ---
-title: "Yanivat Köprüsü | Miras Haritası"
-date: 2025-12-25T02:01:02+03:00
+title: "Yanivat Köprüsü"
+date: "2025-12-25T02:01:02+03:00"
 slug: "yanivat-koprusu"
 description: "## Yanıvt Köprüsü: Ardeşen'in Tarihi Göllerin Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0935074,41.1249927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yanıvt Köprüsü: Ardeşen'in Tarihi Göllerin Köprüsü

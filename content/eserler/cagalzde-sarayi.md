@@ -1,18 +1,17 @@
 ---
-title: "Cağalzâde Sarayı | Miras Haritası"
-date: 2025-12-25T13:14:42+03:00
+title: "Cağalzâde Sarayı"
+date: "2025-12-25T13:14:42+03:00"
 slug: "cagalzde-sarayi"
 description: "### Cağalzâde Sarayı: Fatih'in Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.973649,41.012447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cağalzâde Sarayı: Fatih'in Gizli Kahramanı

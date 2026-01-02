@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Külliyesi Sebili 7 | Miras Haritası"
-date: 2025-12-25T13:04:07+03:00
+title: "Sultan Ahmet Külliyesi Sebili 7"
+date: "2025-12-25T13:04:07+03:00"
 slug: "sultan-ahmet-kulliyesi-sebili-7"
 description: "## Sultan Ahmet Külliyesi Sebili 7: İstanbul'un Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.977354,41.0068741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Ahmet Külliyesi Sebili 7: İstanbul'un Tarihi Çeşmesi

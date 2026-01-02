@@ -1,18 +1,17 @@
 ---
-title: "Akçakaya Höyük | Miras Haritası"
-date: 2025-12-25T05:31:24+03:00
+title: "Akçakaya Höyük"
+date: "2025-12-25T05:31:24+03:00"
 slug: "akcakaya-hoyuk"
 description: "## Akçakaya Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.457883,39.59485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçakaya Höyük: Eskişehir'in Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Dev Ali Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:52+03:00
+title: "Dev Ali Türbesi"
+date: "2025-12-25T14:17:52+03:00"
 slug: "dev-ali-turbesi"
 description: "## Dev Ali Türbesi: Kayseri'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.493842,38.363516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dev Ali Türbesi: Kayseri'nin Gizli Anıtı

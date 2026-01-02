@@ -1,18 +1,17 @@
 ---
-title: "Uranios (Karya) | Miras Haritası"
-date: 2025-12-25T04:39:04+03:00
+title: "Uranios (Karya)"
+date: "2025-12-25T04:39:04+03:00"
 slug: "uranios-karya"
 description: "### Uranios (Karya): Bodrum'un Gizli Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8611,37.0429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Uranios (Karya): Bodrum'un Gizli Harikası

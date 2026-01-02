@@ -1,18 +1,17 @@
 ---
-title: "Ağa Camii Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:47+03:00
+title: "Ağa Camii Meydan Çeşmesi"
+date: "2025-12-25T10:31:47+03:00"
 slug: "aga-camii-meydan-cesmesi"
 description: "# Ağa Camii Meydan Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3248062,37.9033127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ağa Camii Meydan Çeşmesi

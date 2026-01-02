@@ -1,18 +1,17 @@
 ---
-title: "Titiopolis Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:10+03:00
+title: "Titiopolis Hamamı"
+date: "2025-12-25T16:46:10+03:00"
 slug: "titiopolis-hamami"
 description: "## Titiopolis Hamamı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8101463,36.0920067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Titiopolis Hamamı

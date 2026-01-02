@@ -1,18 +1,17 @@
 ---
-title: "Aşağıtaslı Camii | Miras Haritası"
-date: 2025-12-24T22:15:40+03:00
+title: "Aşağıtaslı Camii"
+date: "2025-12-24T22:15:40+03:00"
 slug: "asagitasli-camii"
 description: "# Aşağıtaslı Camii: Çorum'un Önemli Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.4771423,40.7374306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aşağıtaslı Camii: Çorum'un Önemli Tarihi Mirası

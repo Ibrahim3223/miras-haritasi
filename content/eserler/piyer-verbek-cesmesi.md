@@ -1,18 +1,17 @@
 ---
-title: "Piyer Verbek Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:00:19+03:00
+title: "Piyer Verbek Çeşmesi"
+date: "2025-12-25T12:00:19+03:00"
 slug: "piyer-verbek-cesmesi"
 description: "## Piyer Verbek Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1560097,38.4380302"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Piyer Verbek Çeşmesi

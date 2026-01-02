@@ -1,18 +1,17 @@
 ---
-title: "Karkabo | Miras Haritası"
-date: 2025-12-25T04:58:38+03:00
+title: "Karkabo"
+date: "2025-12-25T04:58:38+03:00"
 slug: "karkabo"
 description: "**Karkabho: Tarihi ve Kültürel Bir Miras**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.00221,36.32915"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karkabho: Tarihi ve Kültürel Bir Miras**

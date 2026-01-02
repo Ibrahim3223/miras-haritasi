@@ -1,18 +1,17 @@
 ---
-title: "Perge | Miras Haritası"
-date: 2025-12-25T04:19:07+03:00
+title: "Perge"
+date: "2025-12-25T04:19:07+03:00"
 slug: "perge"
 description: "## Perge: Antik Kentin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Perge_city_overview.jpg/1200px-Perge_city_overview.jpg"
 province: "Akdeniz Bölgesi"
-iller: ["Akdeniz Bölgesi"]
+iller: '["Akdeniz Bölgesi"]'
 district: "Aksu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.853686,36.960353"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Perge: Antik Kentin Gizemi

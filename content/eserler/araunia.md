@@ -1,18 +1,17 @@
 ---
-title: "Araunia | Miras Haritası"
-date: 2025-12-25T04:48:55+03:00
+title: "Araunia"
+date: "2025-12-25T04:48:55+03:00"
 slug: "araunia"
 description: "## Araunia: Antik Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.782408,40.0337215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Araunia: Antik Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Koyun Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:12+03:00
+title: "Koyun Baba Türbesi"
+date: "2025-12-25T14:43:12+03:00"
 slug: "koyun-baba-turbesi"
 description: "## Koyun Baba Türbesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Osmancık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.7933617,40.9799728"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koyun Baba Türbesi

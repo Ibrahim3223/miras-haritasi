@@ -1,18 +1,17 @@
 ---
-title: "Büyük Tekke Türbesi | Miras Haritası"
-date: 2025-12-25T15:03:46+03:00
+title: "Büyük Tekke Türbesi"
+date: "2025-12-25T15:03:46+03:00"
 slug: "buyuk-tekke-turbesi"
 description: "# Büyük Tekke Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Buldan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9358635,38.0422173"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Büyük Tekke Türbesi

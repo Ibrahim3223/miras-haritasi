@@ -1,18 +1,17 @@
 ---
-title: "Soğukkuyu Camii (Kula) | Miras Haritası"
-date: 2025-12-24T23:06:37+03:00
+title: "Soğukkuyu Camii (Kula)"
+date: "2025-12-24T23:06:37+03:00"
 slug: "sogukkuyu-camii-kula"
 description: "## Soğukkuyu Camii: Manisa'nın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6521149,38.5446091"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğukkuyu Camii: Manisa'nın Gizli Cenneti

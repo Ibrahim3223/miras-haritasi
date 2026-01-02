@@ -1,18 +1,17 @@
 ---
-title: "Derinçay Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:59+03:00
+title: "Derinçay Köprüsü"
+date: "2025-12-25T02:08:59+03:00"
 slug: "derincay-koprusu"
 description: "## Derinçay Köprüsü: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.326232,36.724989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derinçay Köprüsü: Mersin'in Tarihi ve Kültürel Mirası

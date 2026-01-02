@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ahmet Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:25:14+03:00
+title: "Hacı Ahmet Ağa Camii"
+date: "2025-12-24T23:25:14+03:00"
 slug: "haci-ahmet-aga-camii"
 description: "## Hacı Ahmet Ağa Camii: Zonguldak'ta Bir Kültür Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Zonguldak"
+province: "Zonguldak"
+iller: '["Zonguldak"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9538536,41.2186813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ahmet Ağa Camii: Zonguldak'ta Bir Kültür Mirası

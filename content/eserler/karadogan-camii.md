@@ -1,18 +1,17 @@
 ---
-title: "Karadoğan Camii | Miras Haritası"
-date: 2025-12-24T23:40:05+03:00
+title: "Karadoğan Camii"
+date: "2025-12-24T23:40:05+03:00"
 slug: "karadogan-camii"
 description: "## Karadoğan Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9109859,38.247757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadoğan Camii: İzmir'in Tarihi Bir Mirası

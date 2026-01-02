@@ -1,18 +1,17 @@
 ---
-title: "Kömürcüler Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:20+03:00
+title: "Kömürcüler Camii Çeşmesi"
+date: "2025-12-25T11:37:20+03:00"
 slug: "komurculer-camii-cesmesi"
 description: "### Kömürcüler Camii Çeşmesi: Konya'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4967232,37.8664093"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kömürcüler Camii Çeşmesi: Konya'nın Gizli Çeşmesi

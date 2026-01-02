@@ -1,18 +1,17 @@
 ---
-title: "Kırıklı Köyü Kemer Köprü | Miras Haritası"
-date: 2025-12-25T02:29:24+03:00
+title: "Kırıklı Köyü Kemer Köprü"
+date: "2025-12-25T02:29:24+03:00"
 slug: "kirikli-koyu-kemer-kopru"
 description: "## Kırıklı Köyü Kemer Köprü..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.55988,40.35138"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırıklı Köyü Kemer Köprü

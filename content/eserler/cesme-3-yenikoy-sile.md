@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 3, Yeniköy-Şile | Miras Haritası"
-date: 2025-12-25T12:00:57+03:00
+title: "Çeşme 3, Yeniköy-Şile"
+date: "2025-12-25T12:00:57+03:00"
 slug: "cesme-3-yenikoy-sile"
 description: "## Çeşme 3, Yeniköy-Şile: Tarihî Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şile"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.6495743,41.1246414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 3, Yeniköy-Şile: Tarihî Bir Çeşme

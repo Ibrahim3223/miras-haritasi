@@ -1,18 +1,17 @@
 ---
-title: "Ilıca Köprüsü | Miras Haritası"
-date: 2025-12-25T02:22:40+03:00
+title: "Ilıca Köprüsü"
+date: "2025-12-25T02:22:40+03:00"
 slug: "ilica-koprusu"
 description: "## Ilıca Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6229992,37.9331017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ilıca Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Darıca Esbek Camii | Miras Haritası"
-date: 2025-12-25T01:03:34+03:00
+title: "Darıca Esbek Camii"
+date: "2025-12-25T01:03:34+03:00"
 slug: "darica-esbek-camii"
 description: "**Darıca Esbek Camii**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.7952001,40.7322"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Darıca Esbek Camii**

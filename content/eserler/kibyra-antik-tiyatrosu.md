@@ -1,18 +1,17 @@
 ---
-title: "Kibyra Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:24:09+03:00
+title: "Kibyra Antik Tiyatrosu"
+date: "2025-12-25T08:24:09+03:00"
 slug: "kibyra-antik-tiyatrosu"
 description: "### Kibyra Antik Tiyatrosu: Gölhisar'ın Gizli Öreni..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Gölhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.488914,37.160555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kibyra Antik Tiyatrosu: Gölhisar'ın Gizli Öreni

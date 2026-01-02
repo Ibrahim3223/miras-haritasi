@@ -1,18 +1,17 @@
 ---
-title: "Yeni Çeşme, Kanlıca | Miras Haritası"
-date: 2025-12-25T12:12:31+03:00
+title: "Yeni Çeşme, Kanlıca"
+date: "2025-12-25T12:12:31+03:00"
 slug: "yeni-cesme-kanlica"
 description: "## Eski Çeşme, Kanlıca: Beykoz'un Zeytinlik Köyü'ndeki Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.066501,41.09882"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Çeşme, Kanlıca: Beykoz'un Zeytinlik Köyü'ndeki Tarihi Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Bakire Meryem Kilisesi | Miras Haritası"
-date: 2025-12-25T09:24:41+03:00
+title: "Bakire Meryem Kilisesi"
+date: "2025-12-25T09:24:41+03:00"
 slug: "bakire-meryem-kilisesi"
 description: "## Bakire Meryem Kilisesi: Bozcaada'da Bir Kıbrıs Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bozcaada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.0689564,39.8352966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakire Meryem Kilisesi: Bozcaada'da Bir Kıbrıs Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Hadrianoi | Miras Haritası"
-date: 2025-12-25T06:55:32+03:00
+title: "Hadrianoi"
+date: "2025-12-25T06:55:32+03:00"
 slug: "hadrianoi"
 description: "## Hadrianoi: Roma Dönemi'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.998851,39.906135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadrianoi: Roma Dönemi'nin Gizli Mirası

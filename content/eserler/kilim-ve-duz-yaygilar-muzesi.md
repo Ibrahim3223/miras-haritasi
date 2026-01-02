@@ -1,18 +1,17 @@
 ---
-title: "Kilim ve Düz Yaygılar Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:54+03:00
+title: "Kilim ve Düz Yaygılar Müzesi"
+date: "2025-12-25T03:52:54+03:00"
 slug: "kilim-ve-duz-yaygilar-muzesi"
 description: "## Kilim ve Düz Yaygılar Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9774208,41.0055084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilim ve Düz Yaygılar Müzesi

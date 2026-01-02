@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 44 | Miras Haritası"
-date: 2025-12-25T07:29:31+03:00
+title: "Bin Tepeler Tümülüsü 44"
+date: "2025-12-25T07:29:31+03:00"
 slug: "bin-tepeler-tumulusu-44"
 description: "**Bin Tepeler Tümülüsü 44: Manisa'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.039551,38.558201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bin Tepeler Tümülüsü 44: Manisa'nın Gizli Cenneti**

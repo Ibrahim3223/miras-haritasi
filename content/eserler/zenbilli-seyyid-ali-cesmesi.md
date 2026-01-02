@@ -1,18 +1,17 @@
 ---
-title: "Zenbilli Seyyid Ali Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:57+03:00
+title: "Zenbilli Seyyid Ali Çeşmesi"
+date: "2025-12-25T11:00:57+03:00"
 slug: "zenbilli-seyyid-ali-cesmesi"
 description: "**Zenbilli Seyyid Ali Çeşmesi**..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sururi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971239,41.013081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Zenbilli Seyyid Ali Çeşmesi**

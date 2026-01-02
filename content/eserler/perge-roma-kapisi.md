@@ -1,18 +1,17 @@
 ---
-title: "Perge Roma Kapısı | Miras Haritası"
-date: 2025-12-25T15:36:26+03:00
+title: "Perge Roma Kapısı"
+date: "2025-12-25T15:36:26+03:00"
 slug: "perge-roma-kapisi"
 description: "## Perge Roma Kapısı: Antik Şehirin Giriş Kapısı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Aksu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.8540878,36.9605446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perge Roma Kapısı: Antik Şehirin Giriş Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Hazreti Ali Camii | Miras Haritası"
-date: 2025-12-25T01:01:06+03:00
+title: "Hazreti Ali Camii"
+date: "2025-12-25T01:01:06+03:00"
 slug: "hazreti-ali-camii"
 description: "## Hazreti Ali Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mosque_in_Istanbul_00.JPG/1200px-Mosque_in_Istanbul_00.JPG"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Burhaniye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.047899211,41.024875314"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hazreti Ali Camii

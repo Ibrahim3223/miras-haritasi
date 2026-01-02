@@ -1,18 +1,17 @@
 ---
-title: "Kurtdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:02+03:00
+title: "Kurtdere Köprüsü"
+date: "2025-12-25T02:32:02+03:00"
 slug: "kurtdere-koprusu"
 description: "## Kurtdere Köprüsü: Pınarhisar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.4375916,41.6943359"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurtdere Köprüsü: Pınarhisar'ın Tarihî Mirası

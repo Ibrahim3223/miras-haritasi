@@ -1,18 +1,17 @@
 ---
-title: "Bağlimanı Mevkii Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:38:20+03:00
+title: "Bağlimanı Mevkii Tümülüsü"
+date: "2025-12-25T07:38:20+03:00"
 slug: "baglimani-mevkii-tumulusu"
 description: "### Bağlimanı Mevkii Tümülüsü..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.1620064,39.8881645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bağlimanı Mevkii Tümülüsü

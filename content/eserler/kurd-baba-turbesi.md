@@ -1,18 +1,17 @@
 ---
-title: "Kurd Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:57+03:00
+title: "Kurd Baba Türbesi"
+date: "2025-12-25T14:18:57+03:00"
 slug: "kurd-baba-turbesi"
 description: "## Kurd Baba Türbesi: Edirne'nin Gizemli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.559127,41.673639"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurd Baba Türbesi: Edirne'nin Gizemli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Pulur Höyüğü, Sivas | Miras Haritası"
-date: 2025-12-25T05:49:52+03:00
+title: "Pulur Höyüğü, Sivas"
+date: "2025-12-25T05:49:52+03:00"
 slug: "pulur-hoyugu-sivas"
 description: "### Pulur Höyüğü, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.0226326,39.7451515"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pulur Höyüğü, Sivas

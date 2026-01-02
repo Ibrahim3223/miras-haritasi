@@ -1,18 +1,17 @@
 ---
-title: "İskele Caddesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:28+03:00
+title: "İskele Caddesi Çeşmesi"
+date: "2025-12-25T11:22:28+03:00"
 slug: "iskele-caddesi-cesmesi"
 description: "### İskele Caddesi Çeşmesi: Rumelikavağı'ndaki Bir Kültür Mirası..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Rumelikavağı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.073643,41.182315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İskele Caddesi Çeşmesi: Rumelikavağı'ndaki Bir Kültür Mirası

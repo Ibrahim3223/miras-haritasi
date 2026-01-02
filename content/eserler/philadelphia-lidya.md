@@ -1,18 +1,17 @@
 ---
-title: "Philadelphia (Lidya) | Miras Haritası"
-date: 2025-12-25T04:31:15+03:00
+title: "Philadelphia (Lidya)"
+date: "2025-12-25T04:31:15+03:00"
 slug: "philadelphia-lidya"
 description: "## Philadelphia (Lidya)..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.51666667,38.35"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Philadelphia (Lidya)

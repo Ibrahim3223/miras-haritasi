@@ -1,18 +1,17 @@
 ---
-title: "Güdük Minare Hamamı | Miras Haritası"
-date: 2025-12-25T16:52:51+03:00
+title: "Güdük Minare Hamamı"
+date: "2025-12-25T16:52:51+03:00"
 slug: "guduk-minare-hamami"
 description: "## Güdük Minare Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.8397999,38.1986008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güdük Minare Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Tepecik – Çiftlik Höyüğü | Miras Haritası"
-date: 2025-12-25T14:02:09+03:00
+title: "Tepecik – Çiftlik Höyüğü"
+date: "2025-12-25T14:02:09+03:00"
 slug: "tepecik-ciftlik-hoyugu"
 description: "## Tepecik – Çiftlik Höyüğü: Niğde'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Çiftlik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.49361111,38.17194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepecik – Çiftlik Höyüğü: Niğde'nin Gizli Kahramanı

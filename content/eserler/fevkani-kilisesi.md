@@ -1,18 +1,17 @@
 ---
-title: "Fevkani Kilisesi | Miras Haritası"
-date: 2025-12-25T08:55:18+03:00
+title: "Fevkani Kilisesi"
+date: "2025-12-25T08:55:18+03:00"
 slug: "fevkani-kilisesi"
 description: "## Fevkani Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nizip_2008_7431.jpg/1200px-Nizip_2008_7431.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.7873,37.0118"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fevkani Kilisesi

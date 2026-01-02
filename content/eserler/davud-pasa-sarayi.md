@@ -1,18 +1,17 @@
 ---
-title: "Davud Paşa Sarayı | Miras Haritası"
-date: 2025-12-25T13:12:51+03:00
+title: "Davud Paşa Sarayı"
+date: "2025-12-25T13:12:51+03:00"
 slug: "davud-pasa-sarayi"
 description: "### Davud Paşa Sarayı Tanıtımı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Davud Paşa Sarayı Tanıtımı

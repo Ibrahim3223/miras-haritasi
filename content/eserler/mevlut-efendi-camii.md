@@ -1,18 +1,17 @@
 ---
-title: "Mevlüt Efendi Camii | Miras Haritası"
-date: 2025-12-24T21:47:53+03:00
+title: "Mevlüt Efendi Camii"
+date: "2025-12-24T21:47:53+03:00"
 slug: "mevlut-efendi-camii"
 description: "### Mevlüt Efendi Camii: Ardahan'ın Gizli Cenneti..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Ardahan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.699888888,41.117972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mevlüt Efendi Camii: Ardahan'ın Gizli Cenneti

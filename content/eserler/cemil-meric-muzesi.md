@@ -1,18 +1,17 @@
 ---
-title: "Cemil Meriç Müzesi | Miras Haritası"
-date: 2025-12-25T04:07:15+03:00
+title: "Cemil Meriç Müzesi"
+date: "2025-12-25T04:07:15+03:00"
 slug: "cemil-meric-muzesi"
 description: "## Cemil Meriç Müzesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.5716629,36.2667427"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cemil Meriç Müzesi

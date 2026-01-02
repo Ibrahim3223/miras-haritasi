@@ -1,18 +1,17 @@
 ---
-title: "Koyuncu Hüyük | Miras Haritası"
-date: 2025-12-25T08:06:28+03:00
+title: "Koyuncu Hüyük"
+date: "2025-12-25T08:06:28+03:00"
 slug: "koyuncu-huyuk"
 description: "### Koyuncu Hüyük: Tarihini ve Kültürel Mirasını Keşfedin..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.390833333,36.503055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koyuncu Hüyük: Tarihini ve Kültürel Mirasını Keşfedin

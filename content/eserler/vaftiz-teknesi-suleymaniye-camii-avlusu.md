@@ -1,18 +1,17 @@
 ---
-title: "Vaftiz Teknesi, Süleymaniye Camii Avlusu | Miras Haritası"
-date: 2025-12-25T10:02:28+03:00
+title: "Vaftiz Teknesi, Süleymaniye Camii Avlusu"
+date: "2025-12-25T10:02:28+03:00"
 slug: "vaftiz-teknesi-suleymaniye-camii-avlusu"
 description: "### Vaftiz Teknesi, Süleymaniye Camii Avlusu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.963224112,41.015943314"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Vaftiz Teknesi, Süleymaniye Camii Avlusu

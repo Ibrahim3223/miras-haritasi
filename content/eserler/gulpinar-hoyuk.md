@@ -1,18 +1,17 @@
 ---
-title: "Gülpınar Höyük | Miras Haritası"
-date: 2025-12-25T06:39:08+03:00
+title: "Gülpınar Höyük"
+date: "2025-12-25T06:39:08+03:00"
 slug: "gulpinar-hoyuk"
 description: "**Gülpınar Höyük: Yozgat'ın Gizli Öyküsü**..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.2338771,39.474441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gülpınar Höyük: Yozgat'ın Gizli Öyküsü**

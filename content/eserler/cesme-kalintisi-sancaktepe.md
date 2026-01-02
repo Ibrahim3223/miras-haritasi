@@ -1,18 +1,17 @@
 ---
-title: "Çeşme Kalıntısı, Sancaktepe | Miras Haritası"
-date: 2025-12-25T12:07:28+03:00
+title: "Çeşme Kalıntısı, Sancaktepe"
+date: "2025-12-25T12:07:28+03:00"
 slug: "cesme-kalintisi-sancaktepe"
 description: "## Çeşme Kalıntısı, Sancaktepe..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sancaktepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.2266827,40.984436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme Kalıntısı, Sancaktepe

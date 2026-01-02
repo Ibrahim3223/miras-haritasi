@@ -1,18 +1,17 @@
 ---
-title: "Bedri Rahmi Eyüboğlu Müze Evi | Miras Haritası"
-date: 2025-12-25T04:00:36+03:00
+title: "Bedri Rahmi Eyüboğlu Müze Evi"
+date: "2025-12-25T04:00:36+03:00"
 slug: "bedri-rahmi-eyuboglu-muze-evi"
 description: "### Bedri Rahmi Eyüboğlu Müze Evi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.043127657,40.978198096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bedri Rahmi Eyüboğlu Müze Evi

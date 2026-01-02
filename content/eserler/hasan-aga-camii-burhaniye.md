@@ -1,18 +1,17 @@
 ---
-title: "Hasan Ağa Camii, Burhaniye | Miras Haritası"
-date: 2025-12-25T00:13:42+03:00
+title: "Hasan Ağa Camii, Burhaniye"
+date: "2025-12-25T00:13:42+03:00"
 slug: "hasan-aga-camii-burhaniye"
 description: "## Hasan Ağa Camii, Burhaniye..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: ["Burhaniye (ilçe)"]
+iller: '["Burhaniye (ilçe)"]'
 district: "Burhaniye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9848671,39.499939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Ağa Camii, Burhaniye

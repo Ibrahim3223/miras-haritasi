@@ -1,18 +1,17 @@
 ---
-title: "Kokar Kilise (Aksaray) | Miras Haritası"
-date: 2025-12-25T08:45:20+03:00
+title: "Kokar Kilise (Aksaray)"
+date: "2025-12-25T08:45:20+03:00"
 slug: "kokar-kilise-aksaray"
 description: "### Kokar Kilisesi: Aksaray'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kokar_Kilise_(10).jpg/1200px-Kokar_Kilise_(10).jpg"
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Güzelyurt"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.307889,38.2529284"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kokar Kilisesi: Aksaray'ın Gizli Cenneti

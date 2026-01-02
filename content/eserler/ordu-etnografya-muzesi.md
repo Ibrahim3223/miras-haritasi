@@ -1,18 +1,17 @@
 ---
-title: "Ordu Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:26+03:00
+title: "Ordu Etnografya Müzesi"
+date: "2025-12-25T03:24:26+03:00"
 slug: "ordu-etnografya-muzesi"
 description: "## Ordu Etnografya Müzesi: Türkiye'nin Doğu Karadeniz Bölgesi'nin Gerçek Yüzünü Görme Fırsatı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ordu"
+province: "Ordu"
+iller: '["Ordu"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.875277777,40.982777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ordu Etnografya Müzesi: Türkiye'nin Doğu Karadeniz Bölgesi'nin Gerçek Yüzünü Görme Fırsatı

@@ -1,18 +1,17 @@
 ---
-title: "Ecobriga | Miras Haritası"
-date: 2025-12-25T04:43:36+03:00
+title: "Ecobriga"
+date: "2025-12-25T04:43:36+03:00"
 slug: "ecobriga"
 description: "## Ecobriga Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırıkkale"
+province: "Kırıkkale"
+iller: '["Kırıkkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.75215186,40.03836488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ecobriga Arkeolojik Sit

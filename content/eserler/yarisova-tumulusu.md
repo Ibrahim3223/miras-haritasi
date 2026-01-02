@@ -1,18 +1,17 @@
 ---
-title: "Yarışova Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:07+03:00
+title: "Yarışova Tümülüsü"
+date: "2025-12-25T07:40:07+03:00"
 slug: "yarisova-tumulusu"
 description: "## Yarışova Tümülüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuyucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.6515999,37.9047012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarışova Tümülüsü

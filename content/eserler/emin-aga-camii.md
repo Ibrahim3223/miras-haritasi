@@ -1,18 +1,17 @@
 ---
-title: "Emin Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:35:53+03:00
+title: "Emin Ağa Camii"
+date: "2025-12-24T22:35:53+03:00"
 slug: "emin-aga-camii"
 description: "**Emin Ağa Camii**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8781776,39.6509781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Emin Ağa Camii**

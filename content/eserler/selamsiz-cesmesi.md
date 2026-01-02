@@ -1,18 +1,17 @@
 ---
-title: "Selamsız Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:44+03:00
+title: "Selamsız Çeşmesi"
+date: "2025-12-25T11:06:44+03:00"
 slug: "selamsiz-cesmesi"
 description: "## Selamsız Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.031544,41.020653"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selamsız Çeşmesi

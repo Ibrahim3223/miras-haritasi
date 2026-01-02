@@ -1,18 +1,17 @@
 ---
-title: "Naregavank | Miras Haritası"
-date: 2025-12-25T09:47:34+03:00
+title: "Naregavank"
+date: "2025-12-25T09:47:34+03:00"
 slug: "naregavank"
 description: "## Naregavank Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Narekavank.jpg/1200px-Narekavank.jpg"
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gevaş"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.9281893,38.2967993"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Naregavank Manastırı

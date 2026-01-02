@@ -1,18 +1,17 @@
 ---
-title: "Alsancak Garı Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:22:36+03:00
+title: "Alsancak Garı Saat Kulesi"
+date: "2025-12-25T17:22:36+03:00"
 slug: "alsancak-gari-saat-kulesi"
 description: "## Alsancak Garı Saat Kulesi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Alsancak_Garı_Saat_Kulesi.jpg/1200px-Alsancak_Garı_Saat_Kulesi.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "27.147728,38.4377861"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alsancak Garı Saat Kulesi: İzmir'in Tarihi ve Kültürel Mirası

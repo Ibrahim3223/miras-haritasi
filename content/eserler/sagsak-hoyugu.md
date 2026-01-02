@@ -1,18 +1,17 @@
 ---
-title: "Sağsak Höyüğü | Miras Haritası"
-date: 2025-12-25T06:14:42+03:00
+title: "Sağsak Höyüğü"
+date: "2025-12-25T06:14:42+03:00"
 slug: "sagsak-hoyugu"
 description: "## Sağsak Höyüğü: Çumra'nın Tarihi Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.58803,37.60809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sağsak Höyüğü: Çumra'nın Tarihi Mirası

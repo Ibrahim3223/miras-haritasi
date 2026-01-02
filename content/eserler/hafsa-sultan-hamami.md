@@ -1,18 +1,17 @@
 ---
-title: "Hafsa Sultan Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:13+03:00
+title: "Hafsa Sultan Hamamı"
+date: "2025-12-25T17:09:13+03:00"
 slug: "hafsa-sultan-hamami"
 description: "## Hafsa Sultan Hamamı: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4270802,38.6115456"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hafsa Sultan Hamamı: Manisa'nın Tarihi Bir Mirası

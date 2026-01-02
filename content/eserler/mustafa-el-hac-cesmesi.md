@@ -1,18 +1,17 @@
 ---
-title: "Mustafa El Hac Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:49+03:00
+title: "Mustafa El Hac Çeşmesi"
+date: "2025-12-25T10:40:49+03:00"
 slug: "mustafa-el-hac-cesmesi"
 description: "## Mustafa El Hac Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mustafa_El_Hac_Çesmesi.jpg/1200px-Mustafa_El_Hac_Çesmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.949361111,41.016"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mustafa El Hac Çeşmesi: Fatih'in Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Gaziemir | Miras Haritası"
-date: 2025-12-25T11:59:46+03:00
+title: "Çeşme, Gaziemir"
+date: "2025-12-25T11:59:46+03:00"
 slug: "cesme-gaziemir"
 description: "**Çeşme, Gaziemir: Bir Tarihi Örneğin Gizemi**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Gaziemir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.125206,38.3198051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çeşme, Gaziemir: Bir Tarihi Örneğin Gizemi**

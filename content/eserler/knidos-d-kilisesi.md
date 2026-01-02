@@ -1,18 +1,17 @@
 ---
-title: "Knidos D Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:10+03:00
+title: "Knidos D Kilisesi"
+date: "2025-12-25T09:27:10+03:00"
 slug: "knidos-d-kilisesi"
 description: "### Knidos D Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.3728218,36.6867867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Knidos D Kilisesi

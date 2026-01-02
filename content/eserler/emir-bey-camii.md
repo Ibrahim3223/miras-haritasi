@@ -1,18 +1,17 @@
 ---
-title: "Emir Bey Camii | Miras Haritası"
-date: 2025-12-24T23:00:10+03:00
+title: "Emir Bey Camii"
+date: "2025-12-24T23:00:10+03:00"
 slug: "emir-bey-camii"
 description: "## Emir Bey Camii: Çorum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Bayat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.2556877,40.6448441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Bey Camii: Çorum'un Tarihi ve Kültürel Mirası

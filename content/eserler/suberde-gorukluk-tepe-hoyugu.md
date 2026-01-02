@@ -1,18 +1,17 @@
 ---
-title: "Süberde / Görüklük Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:23:38+03:00
+title: "Süberde / Görüklük Tepe Höyüğü"
+date: "2025-12-25T06:23:38+03:00"
 slug: "suberde-gorukluk-tepe-hoyugu"
 description: "**Görüklük Tepe Höyüğü: Bir Geçmişin İzleri**..."
 featured_image: ""
 province: "Seydişehir"
-iller: ["Seydişehir"]
+iller: '["Seydişehir"]'
 district: "Gölyüzü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.9452782,37.3497238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Görüklük Tepe Höyüğü: Bir Geçmişin İzleri**

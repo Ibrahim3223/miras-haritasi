@@ -1,18 +1,17 @@
 ---
-title: "Haznedar Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:37:33+03:00
+title: "Haznedar Tümülüsü"
+date: "2025-12-25T07:37:33+03:00"
 slug: "haznedar-tumulusu"
 description: "### Haznedar Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0144253,41.572052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haznedar Tümülüsü: Kırklareli'nin Gizli Mirası

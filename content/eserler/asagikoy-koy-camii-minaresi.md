@@ -1,18 +1,17 @@
 ---
-title: "Aşağıköy Köy Camii Minaresi | Miras Haritası"
-date: 2025-12-24T22:15:43+03:00
+title: "Aşağıköy Köy Camii Minaresi"
+date: "2025-12-24T22:15:43+03:00"
 slug: "asagikoy-koy-camii-minaresi"
 description: "### Aşağıköy Köy Camii Minaresi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bilecik"
+province: "Bilecik"
+iller: '["Bilecik"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0058994,40.1155014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşağıköy Köy Camii Minaresi

@@ -1,18 +1,17 @@
 ---
-title: "Dursunludağ Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:57+03:00
+title: "Dursunludağ Köprüsü"
+date: "2025-12-25T02:27:57+03:00"
 slug: "dursunludag-koprusu"
 description: "## Dursunludağ Köprüsü: Hatay'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Defne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.159042,36.176216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dursunludağ Köprüsü: Hatay'ın Tarihi Bir Mirası

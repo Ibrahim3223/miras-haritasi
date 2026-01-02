@@ -1,18 +1,17 @@
 ---
-title: "Titus Tüneli | Miras Haritası"
-date: 2025-12-25T13:38:00+03:00
+title: "Titus Tüneli"
+date: "2025-12-25T13:38:00+03:00"
 slug: "titus-tuneli"
 description: "### Titus Tüneli: Hatay'ın Tarihî Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Samandag4.JPG/1200px-Samandag4.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.92916667,36.12277778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Titus Tüneli: Hatay'ın Tarihî Bir Anıtı

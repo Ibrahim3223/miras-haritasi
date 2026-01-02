@@ -1,18 +1,17 @@
 ---
-title: "Şah Sultan Külliye Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:10:13+03:00
+title: "Şah Sultan Külliye Çeşmesi"
+date: "2025-12-25T12:10:13+03:00"
 slug: "sah-sultan-kulliye-cesmesi"
 description: "## Şah Sultan Külliye Çeşmesi..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9361442,41.0444316"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şah Sultan Külliye Çeşmesi

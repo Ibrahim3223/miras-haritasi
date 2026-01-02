@@ -1,18 +1,17 @@
 ---
-title: "Gre Amer Höyüğü | Miras Haritası"
-date: 2025-12-25T06:41:00+03:00
+title: "Gre Amer Höyüğü"
+date: "2025-12-25T06:41:00+03:00"
 slug: "gre-amer-hoyugu"
 description: "## Gre Amer Höyüğü..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Beşiri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.4331356,37.8754551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gre Amer Höyüğü

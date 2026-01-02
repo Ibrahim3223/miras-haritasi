@@ -1,18 +1,17 @@
 ---
-title: "Hocazade Çeşmesi, Mordoğan | Miras Haritası"
-date: 2025-12-25T12:31:57+03:00
+title: "Hocazade Çeşmesi, Mordoğan"
+date: "2025-12-25T12:31:57+03:00"
 slug: "hocazade-cesmesi-mordogan"
 description: "## Hocazade Çeşmesi, Mordoğan: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karaburun"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.625614,38.518626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hocazade Çeşmesi, Mordoğan: İzmir'in Gizli Cenneti

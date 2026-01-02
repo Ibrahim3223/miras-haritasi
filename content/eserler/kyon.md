@@ -1,18 +1,17 @@
 ---
-title: "Kyon | Miras Haritası"
-date: 2025-12-25T08:31:11+03:00
+title: "Kyon"
+date: "2025-12-25T08:31:11+03:00"
 slug: "kyon"
 description: "### Kyon Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Kavaklıdere"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.460502,37.411146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kyon Arkeolojik Sit

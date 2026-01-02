@@ -1,18 +1,17 @@
 ---
-title: "Defne Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:03+03:00
+title: "Defne Sokak Çeşmesi"
+date: "2025-12-25T11:17:03+03:00"
 slug: "defne-sokak-cesmesi"
 description: "## Defne Sokak Çeşmesi: Sarıyer'in Tarihi Bir Semt Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.051951,41.138981"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Defne Sokak Çeşmesi: Sarıyer'in Tarihi Bir Semt Çeşmesi

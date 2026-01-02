@@ -1,18 +1,17 @@
 ---
-title: "Beșiktaș Palace | Miras Haritası"
-date: 2025-12-25T13:14:12+03:00
+title: "Beșiktaș Palace"
+date: "2025-12-25T13:14:12+03:00"
 slug: "beikta-palace"
 description: "## Beșiktaș Palace: Istanbul'un Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beșiktaș Palace: Istanbul'un Gizli Mirası

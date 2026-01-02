@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Ziyaretli | Miras Haritası"
-date: 2025-12-25T12:06:06+03:00
+title: "Çeşme, Ziyaretli"
+date: "2025-12-25T12:06:06+03:00"
 slug: "cesme-ziyaretli"
 description: "## Çeşme, Ziyaretli: Bozdoğan, Aydın'da Bir Öne Çıkan Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2971077,37.6844978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Ziyaretli: Bozdoğan, Aydın'da Bir Öne Çıkan Çeşme

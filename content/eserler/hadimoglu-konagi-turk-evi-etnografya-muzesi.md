@@ -1,18 +1,17 @@
 ---
-title: "Hadımoğlu Konağı Türk Evi Etnoğrafya Müzesi | Miras Haritası"
-date: 2025-12-25T03:56:25+03:00
+title: "Hadımoğlu Konağı Türk Evi Etnoğrafya Müzesi"
+date: "2025-12-25T03:56:25+03:00"
 slug: "hadimoglu-konagi-turk-evi-etnografya-muzesi"
 description: "## Hadımoğlu Konağı Türk Evi Etnoğrafya Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.611705,39.810317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadımoğlu Konağı Türk Evi Etnoğrafya Müzesi

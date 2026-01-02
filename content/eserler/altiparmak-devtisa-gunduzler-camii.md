@@ -1,18 +1,17 @@
 ---
-title: "Altıparmak Devtisa Gündüzler Camii | Miras Haritası"
-date: 2025-12-25T00:54:23+03:00
+title: "Altıparmak Devtisa Gündüzler Camii"
+date: "2025-12-25T00:54:23+03:00"
 slug: "altiparmak-devtisa-gunduzler-camii"
 description: "## Altıparmak Devtisa Gündüzler Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4876491,40.9596074"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altıparmak Devtisa Gündüzler Camii

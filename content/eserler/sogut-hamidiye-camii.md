@@ -1,18 +1,17 @@
 ---
-title: "Söğüt Hamidiye Camii | Miras Haritası"
-date: 2025-12-24T23:09:30+03:00
+title: "Söğüt Hamidiye Camii"
+date: "2025-12-24T23:09:30+03:00"
 slug: "sogut-hamidiye-camii"
 description: "## Söğüt Hamidiye Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bilecik"
+province: "Bilecik"
+iller: '["Bilecik"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.1815662,40.0158577"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söğüt Hamidiye Camii

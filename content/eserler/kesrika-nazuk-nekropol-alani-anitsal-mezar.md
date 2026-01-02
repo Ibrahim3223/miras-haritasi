@@ -1,18 +1,17 @@
 ---
-title: "Kesrika Nazukê Nekropol Alanı Anıtsal Mezar | Miras Haritası"
-date: 2025-12-25T14:04:27+03:00
+title: "Kesrika Nazukê Nekropol Alanı Anıtsal Mezar"
+date: "2025-12-25T14:04:27+03:00"
 slug: "kesrika-nazuk-nekropol-alani-anitsal-mezar"
 description: "## Kesrika Nazukê Nekropol Alanı Anıtsal Mezar..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Savur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.915799742,37.639766576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kesrika Nazukê Nekropol Alanı Anıtsal Mezar

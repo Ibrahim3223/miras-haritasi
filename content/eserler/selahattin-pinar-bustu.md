@@ -1,18 +1,17 @@
 ---
-title: "Selahattin Pınar Büstü | Miras Haritası"
-date: 2025-12-25T15:47:19+03:00
+title: "Selahattin Pınar Büstü"
+date: "2025-12-25T15:47:19+03:00"
 slug: "selahattin-pinar-bustu"
 description: "### Selahattin Pınar Büstü: Kadıköy'ün Tarihi Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0416279,40.9768333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selahattin Pınar Büstü: Kadıköy'ün Tarihi Anıtı

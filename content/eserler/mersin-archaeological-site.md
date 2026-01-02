@@ -1,18 +1,17 @@
 ---
-title: "Mersin archaeological site | Miras Haritası"
-date: 2025-12-25T08:19:29+03:00
+title: "Mersin archaeological site"
+date: "2025-12-25T08:19:29+03:00"
 slug: "mersin-archaeological-site"
 description: "## Mersin Arkeolojik Alanı: Geçmişin İzleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mersin Arkeolojik Alanı: Geçmişin İzleri

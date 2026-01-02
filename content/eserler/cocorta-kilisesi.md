@@ -1,18 +1,17 @@
 ---
-title: "Cocorta Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:21+03:00
+title: "Cocorta Kilisesi"
+date: "2025-12-25T09:02:21+03:00"
 slug: "cocorta-kilisesi"
 description: "## Cocorta Kilisesi: Kayabeyi'ndeki Bir Geçmişe Dönük Anıt..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Kayabeyi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.094777777,41.219777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cocorta Kilisesi: Kayabeyi'ndeki Bir Geçmişe Dönük Anıt

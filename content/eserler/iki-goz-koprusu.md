@@ -1,18 +1,17 @@
 ---
-title: "İki Göz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:51+03:00
+title: "İki Göz Köprüsü"
+date: "2025-12-25T02:31:51+03:00"
 slug: "iki-goz-koprusu"
 description: "## İki Göz Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Şuhut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.5326653,38.5336876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İki Göz Köprüsü: Tarihi ve Kültürel Bir Miras

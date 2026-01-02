@@ -1,18 +1,17 @@
 ---
-title: "Bathonea | Miras Haritası"
-date: 2025-12-25T06:52:43+03:00
+title: "Bathonea"
+date: "2025-12-25T06:52:43+03:00"
 slug: "bathonea"
 description: "## Bathonea: İstanbul'un Eski Bir Yerleşim Merkezi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.733,41.036389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bathonea: İstanbul'un Eski Bir Yerleşim Merkezi

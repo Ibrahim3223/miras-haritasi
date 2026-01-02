@@ -1,18 +1,17 @@
 ---
-title: "Dede Sokak Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:03:39+03:00
+title: "Dede Sokak Çeşmesi, Bergama"
+date: "2025-12-25T12:03:39+03:00"
 slug: "dede-sokak-cesmesi-bergama"
 description: "**Dede Sokak Çeşmesi, Bergama**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1831913,39.1232414"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Dede Sokak Çeşmesi, Bergama**

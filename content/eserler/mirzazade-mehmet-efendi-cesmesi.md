@@ -1,18 +1,17 @@
 ---
-title: "Mirzazade Mehmet Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:16+03:00
+title: "Mirzazade Mehmet Efendi Çeşmesi"
+date: "2025-12-25T11:21:16+03:00"
 slug: "mirzazade-mehmet-efendi-cesmesi"
 description: "## Mirzazade Mehmet Efendi Çeşmesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Sultantepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.021401,41.027687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mirzazade Mehmet Efendi Çeşmesi

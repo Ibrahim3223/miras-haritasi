@@ -1,18 +1,17 @@
 ---
-title: "Batıayaz Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:48+03:00
+title: "Batıayaz Ermeni Kilisesi"
+date: "2025-12-25T09:32:48+03:00"
 slug: "batiayaz-ermeni-kilisesi"
 description: "## Batıayaz Ermeni Kilisesi: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Samandağ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.988903,36.1667557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Batıayaz Ermeni Kilisesi: Tarihî Bir Mirasın İzleri

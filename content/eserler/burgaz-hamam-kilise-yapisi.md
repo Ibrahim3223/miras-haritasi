@@ -1,18 +1,17 @@
 ---
-title: "Burgaz Hamam Kilise Yapısı | Miras Haritası"
-date: 2025-12-25T17:07:15+03:00
+title: "Burgaz Hamam Kilise Yapısı"
+date: "2025-12-25T17:07:15+03:00"
 slug: "burgaz-hamam-kilise-yapisi"
 description: "## Burgaz Hamam Kilise Yapısı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.694242445,36.732057399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burgaz Hamam Kilise Yapısı

@@ -1,18 +1,17 @@
 ---
-title: "II. Selim Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:40:19+03:00
+title: "II. Selim Çeşmesi"
+date: "2025-12-25T11:40:19+03:00"
 slug: "ii-selim-cesmesi"
 description: "### II. Selim Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.5633087,41.673893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### II. Selim Çeşmesi

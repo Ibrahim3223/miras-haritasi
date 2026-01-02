@@ -1,18 +1,17 @@
 ---
-title: "Bergama Ulu Cami | Miras Haritası"
-date: 2025-12-24T21:59:03+03:00
+title: "Bergama Ulu Cami"
+date: "2025-12-24T21:59:03+03:00"
 slug: "bergama-ulu-cami"
 description: "## Bergama Ulu Cami: Tarihi ve Kültürel Değeri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.179472222,39.125027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bergama Ulu Cami: Tarihi ve Kültürel Değeri

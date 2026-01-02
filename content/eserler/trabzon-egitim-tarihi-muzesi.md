@@ -1,18 +1,17 @@
 ---
-title: "Trabzon Eğitim Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:32:36+03:00
+title: "Trabzon Eğitim Tarihi Müzesi"
+date: "2025-12-25T03:32:36+03:00"
 slug: "trabzon-egitim-tarihi-muzesi"
 description: "### Trabzon Eğitim Tarihi Müzesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.7084458,41.0057218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Trabzon Eğitim Tarihi Müzesi

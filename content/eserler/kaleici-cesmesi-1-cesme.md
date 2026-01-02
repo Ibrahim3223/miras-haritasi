@@ -1,18 +1,17 @@
 ---
-title: "Kaleiçi Çeşmesi 1, Çeşme | Miras Haritası"
-date: 2025-12-25T12:01:31+03:00
+title: "Kaleiçi Çeşmesi 1, Çeşme"
+date: "2025-12-25T12:01:31+03:00"
 slug: "kaleici-cesmesi-1-cesme"
 description: "## Kaleiçi Çeşmesi 1: Çeşme'nin Tarihi ve Kültürel Miraslarından Birisi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3035507,38.3233566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleiçi Çeşmesi 1: Çeşme'nin Tarihi ve Kültürel Miraslarından Birisi

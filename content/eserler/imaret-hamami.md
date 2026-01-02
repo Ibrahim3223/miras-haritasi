@@ -1,18 +1,17 @@
 ---
-title: "İmaret Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:28+03:00
+title: "İmaret Hamamı"
+date: "2025-12-25T17:09:28+03:00"
 slug: "imaret-hamami"
 description: "## İmaret Hamamı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.5403824,38.7540321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmaret Hamamı

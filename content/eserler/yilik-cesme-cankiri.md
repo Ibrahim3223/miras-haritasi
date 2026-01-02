@@ -1,18 +1,17 @@
 ---
-title: "Yılık Çeşme, Çankırı | Miras Haritası"
-date: 2025-12-25T12:33:44+03:00
+title: "Yılık Çeşme, Çankırı"
+date: "2025-12-25T12:33:44+03:00"
 slug: "yilik-cesme-cankiri"
 description: "### Yılık Çeşme: Çankırı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.622639236,40.601473898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yılık Çeşme: Çankırı'nın Tarihi ve Kültürel Mirası

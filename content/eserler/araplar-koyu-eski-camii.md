@@ -1,18 +1,17 @@
 ---
-title: "Araplar Köyü Eski Camii | Miras Haritası"
-date: 2025-12-25T00:35:31+03:00
+title: "Araplar Köyü Eski Camii"
+date: "2025-12-25T00:35:31+03:00"
 slug: "araplar-koyu-eski-camii"
 description: "## Araplar Köyü Eski Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.943596326,39.924104542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Araplar Köyü Eski Camii: Ankara'nın Gizli Cenneti

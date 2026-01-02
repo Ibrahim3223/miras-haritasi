@@ -1,18 +1,17 @@
 ---
-title: "Hacı İlyas Camii | Miras Haritası"
-date: 2025-12-24T22:54:54+03:00
+title: "Hacı İlyas Camii"
+date: "2025-12-24T22:54:54+03:00"
 slug: "haci-ilyas-camii"
 description: "### Hacı İlyas Camii: Yedikule'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yedikule"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9255924,40.9933777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı İlyas Camii: Yedikule'nin Tarihi ve Kültürel Mirası

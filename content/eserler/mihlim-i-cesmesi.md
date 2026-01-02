@@ -1,18 +1,17 @@
 ---
-title: "Mıhlım I Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:50:00+03:00
+title: "Mıhlım I Çeşmesi"
+date: "2025-12-25T10:50:00+03:00"
 slug: "mihlim-i-cesmesi"
 description: "# Mıhlım I Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4914246,38.7250977"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mıhlım I Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası

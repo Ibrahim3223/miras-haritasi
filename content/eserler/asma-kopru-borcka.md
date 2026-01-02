@@ -1,18 +1,17 @@
 ---
-title: "Asma Köprü, Borçka | Miras Haritası"
-date: 2025-12-25T02:55:21+03:00
+title: "Asma Köprü, Borçka"
+date: "2025-12-25T02:55:21+03:00"
 slug: "asma-kopru-borcka"
 description: "## Asma Köprü, Borçka: Doğu Karadeniz'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.903687,41.092071"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asma Köprü, Borçka: Doğu Karadeniz'in Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Düden Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:21+03:00
+title: "Düden Köprüsü"
+date: "2025-12-25T02:07:21+03:00"
 slug: "duden-koprusu"
 description: "## Düden Köprüsü: Antalya'nın Görsel Köprüsü..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Aksu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.767169,36.903543"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düden Köprüsü: Antalya'nın Görsel Köprüsü

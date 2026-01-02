@@ -1,18 +1,17 @@
 ---
-title: "Sofular Abdullah Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:07:32+03:00
+title: "Sofular Abdullah Paşa Camii"
+date: "2025-12-24T23:07:32+03:00"
 slug: "sofular-abdullah-pasa-camii"
 description: "## Sofular Abdullah Paşa Camii..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8370667,40.651947"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sofular Abdullah Paşa Camii

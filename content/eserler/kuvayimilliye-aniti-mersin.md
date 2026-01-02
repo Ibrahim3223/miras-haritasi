@@ -1,18 +1,17 @@
 ---
-title: "Kuvayımilliye Anıtı, Mersin | Miras Haritası"
-date: 2025-12-25T15:44:40+03:00
+title: "Kuvayımilliye Anıtı, Mersin"
+date: "2025-12-25T15:44:40+03:00"
 slug: "kuvayimilliye-aniti-mersin"
 description: "**Kuvayımilliye Anıtı, Mersin**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Toroslar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6103821,36.8207626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kuvayımilliye Anıtı, Mersin**

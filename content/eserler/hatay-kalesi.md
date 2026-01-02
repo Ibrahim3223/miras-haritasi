@@ -1,18 +1,17 @@
 ---
-title: "Hatay Kalesi | Miras Haritası"
-date: 2025-12-25T01:14:40+03:00
+title: "Hatay Kalesi"
+date: "2025-12-25T01:14:40+03:00"
 slug: "hatay-kalesi"
 description: "# Hatay Kalesi: Tarih ve Kültür Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.181778,36.2043266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hatay Kalesi: Tarih ve Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Bakırtepe Çayıriçi Camii | Miras Haritası"
-date: 2025-12-25T01:00:18+03:00
+title: "Bakırtepe Çayıriçi Camii"
+date: "2025-12-25T01:00:18+03:00"
 slug: "bakirtepe-cayirici-camii"
 description: "## Bakırtepe Çayıriçi Camii: Artvin'in Gizli Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5011,40.8459999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bakırtepe Çayıriçi Camii: Artvin'in Gizli Mirası

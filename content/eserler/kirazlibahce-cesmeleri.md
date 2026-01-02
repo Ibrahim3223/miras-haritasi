@@ -1,18 +1,17 @@
 ---
-title: "Kirazlıbahçe Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:48:24+03:00
+title: "Kirazlıbahçe Çeşmeleri"
+date: "2025-12-25T11:48:24+03:00"
 slug: "kirazlibahce-cesmeleri"
 description: "### Kirazlıbahçe Çeşmeleri: Sarıyer'in Tarihi ve Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kirazlıbahçe_Çeşmeleri_2.jpg/1200px-Kirazlıbahçe_Çeşmeleri_2.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0283852,41.1951103"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kirazlıbahçe Çeşmeleri: Sarıyer'in Tarihi ve Güzelliği

@@ -1,18 +1,17 @@
 ---
-title: "Anonim Hamam | Miras Haritası"
-date: 2025-12-25T16:53:48+03:00
+title: "Anonim Hamam"
+date: "2025-12-25T16:53:48+03:00"
 slug: "anonim-hamam"
 description: "## Bodrum'un Gizli Çeşmesi: Anonim Hamam..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4232559,37.0367622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bodrum'un Gizli Çeşmesi: Anonim Hamam

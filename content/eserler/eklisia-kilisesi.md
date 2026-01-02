@@ -1,18 +1,17 @@
 ---
-title: "Eklisia Kilisesi | Miras Haritası"
-date: 2025-12-25T09:18:38+03:00
+title: "Eklisia Kilisesi"
+date: "2025-12-25T09:18:38+03:00"
 slug: "eklisia-kilisesi"
 description: "## Eklisia Kilisesi: Bodrum'un Gizli Çarpıntısı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.236721,37.0538826"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eklisia Kilisesi: Bodrum'un Gizli Çarpıntısı

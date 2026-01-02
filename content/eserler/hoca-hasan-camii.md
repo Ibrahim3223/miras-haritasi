@@ -1,18 +1,17 @@
 ---
-title: "Hoca Hasan Camii | Miras Haritası"
-date: 2025-12-25T00:40:02+03:00
+title: "Hoca Hasan Camii"
+date: "2025-12-25T00:40:02+03:00"
 slug: "hoca-hasan-camii"
 description: "## Hoca Hasan Camii: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.482279423,38.721598611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Hasan Camii: Kayseri'nin Tarihi ve Kültürel Mirası

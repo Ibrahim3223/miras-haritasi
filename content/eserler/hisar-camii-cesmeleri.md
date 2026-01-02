@@ -1,18 +1,17 @@
 ---
-title: "Hisar Camii Çeşmeleri | Miras Haritası"
-date: 2025-12-25T12:51:38+03:00
+title: "Hisar Camii Çeşmeleri"
+date: "2025-12-25T12:51:38+03:00"
 slug: "hisar-camii-cesmeleri"
 description: "### Hisar Camii Çeşmeleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.133604,38.4216003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hisar Camii Çeşmeleri

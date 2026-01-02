@@ -1,18 +1,17 @@
 ---
-title: "Bostancıbaşı Ali Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:48:20+03:00
+title: "Bostancıbaşı Ali Ağa Camii"
+date: "2025-12-24T22:48:20+03:00"
 slug: "bostancibasi-ali-aga-camii"
 description: "## Bostancıbaşı Ali Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.970164,41.004955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bostancıbaşı Ali Ağa Camii

@@ -1,18 +1,17 @@
 ---
-title: "İğneli Belkıs Camii | Miras Haritası"
-date: 2025-12-24T23:36:02+03:00
+title: "İğneli Belkıs Camii"
+date: "2025-12-24T23:36:02+03:00"
 slug: "igneli-belkis-camii"
 description: "## İğneli Belkıs Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8548546,39.9440269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İğneli Belkıs Camii

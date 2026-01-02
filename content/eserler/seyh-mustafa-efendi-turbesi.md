@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mustafa Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:01:54+03:00
+title: "Şeyh Mustafa Efendi Türbesi"
+date: "2025-12-25T15:01:54+03:00"
 slug: "seyh-mustafa-efendi-turbesi"
 description: "## Şeyh Mustafa Efendi Türbesi: Turhal'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Turhal"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.0883255,40.3852577"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Mustafa Efendi Türbesi: Turhal'ın Tarihi Bir Mirası

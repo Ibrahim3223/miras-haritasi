@@ -1,18 +1,17 @@
 ---
-title: "Atlanbaç Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:28+03:00
+title: "Atlanbaç Çeşmesi"
+date: "2025-12-25T10:41:28+03:00"
 slug: "atlanbac-cesmesi"
 description: "# Atlanbaç Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.771595,41.3744431"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Atlanbaç Çeşmesi

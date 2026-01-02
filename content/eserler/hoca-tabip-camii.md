@@ -1,18 +1,17 @@
 ---
-title: "Hoca Tabip Camii | Miras Haritası"
-date: 2025-12-24T23:36:18+03:00
+title: "Hoca Tabip Camii"
+date: "2025-12-24T23:36:18+03:00"
 slug: "hoca-tabip-camii"
 description: "## Hoca Tabip Camii: Bursa'nın Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0689316,40.1818314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Tabip Camii: Bursa'nın Tarihi Mirası

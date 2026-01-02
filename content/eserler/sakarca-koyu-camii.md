@@ -1,18 +1,17 @@
 ---
-title: "Sakarca Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:13:16+03:00
+title: "Sakarca Köyü Camii"
+date: "2025-12-25T00:13:16+03:00"
 slug: "sakarca-koyu-camii"
 description: "## Sakarca Köyü Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kızılırmak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.0383797,40.3880081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarca Köyü Camii

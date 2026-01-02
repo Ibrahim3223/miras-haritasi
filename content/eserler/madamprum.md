@@ -1,18 +1,17 @@
 ---
-title: "Madamprum | Miras Haritası"
-date: 2025-12-25T05:23:32+03:00
+title: "Madamprum"
+date: "2025-12-25T05:23:32+03:00"
 slug: "madamprum"
 description: "### Madamprum Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.8536,37.12157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Madamprum Arkeolojik Sit

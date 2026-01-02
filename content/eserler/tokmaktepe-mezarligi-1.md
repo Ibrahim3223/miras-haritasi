@@ -1,18 +1,17 @@
 ---
-title: "Tokmaktepe Mezarlığı 1 | Miras Haritası"
-date: 2025-12-25T16:07:34+03:00
+title: "Tokmaktepe Mezarlığı 1"
+date: "2025-12-25T16:07:34+03:00"
 slug: "tokmaktepe-mezarligi-1"
 description: "## Tokmaktepe Mezarlığı 1: Eyüpsultan'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tokmaktepe_Mezarlığı_1_(2).jpg/1200px-Tokmaktepe_Mezarlığı_1_(2).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9373856,41.0363426"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tokmaktepe Mezarlığı 1: Eyüpsultan'ın Tarihi ve Kültürel Mirası

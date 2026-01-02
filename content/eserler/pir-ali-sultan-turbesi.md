@@ -1,18 +1,17 @@
 ---
-title: "Pir Ali Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:35+03:00
+title: "Pir Ali Sultan Türbesi"
+date: "2025-12-25T15:15:35+03:00"
 slug: "pir-ali-sultan-turbesi"
 description: "# Pir Ali Sultan Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.0227,38.3697"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pir Ali Sultan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Baba Haydar Camii | Miras Haritası"
-date: 2025-12-24T23:23:05+03:00
+title: "Baba Haydar Camii"
+date: "2025-12-24T23:23:05+03:00"
 slug: "baba-haydar-camii"
 description: "## Baba Haydar Camii: Eyüpsultan'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.933636,41.042023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baba Haydar Camii: Eyüpsultan'ın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Avni Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:35:02+03:00
+title: "Hüseyin Avni Paşa Çeşmesi"
+date: "2025-12-25T10:35:02+03:00"
 slug: "huseyin-avni-pasa-cesmesi"
 description: "## Hüseyin Avni Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hüseyin_Avni_Paşa_Çeşmesi.jpg/1200px-Hüseyin_Avni_Paşa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0224527,41.031868"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hüseyin Avni Paşa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Neapolis (Doyran) | Miras Haritası"
-date: 2025-12-25T05:24:43+03:00
+title: "Neapolis (Doyran)"
+date: "2025-12-25T05:24:43+03:00"
 slug: "neapolis-doyran"
 description: "## Neapolis (Doyran): Antalya'nın Gizli Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.513888888,36.914722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neapolis (Doyran): Antalya'nın Gizli Mirası

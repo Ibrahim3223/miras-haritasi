@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Kınık | Miras Haritası"
-date: 2025-12-25T00:01:12+03:00
+title: "Çarşı Camii, Kınık"
+date: "2025-12-25T00:01:12+03:00"
 slug: "carsi-camii-kinik"
 description: "## Çarşı Camii, Kınık..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kınık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3829727,39.0847626"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Kınık

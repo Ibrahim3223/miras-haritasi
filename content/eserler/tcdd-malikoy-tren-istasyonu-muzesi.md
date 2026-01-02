@@ -1,18 +1,17 @@
 ---
-title: "TCDD Malıköy Tren İstasyonu Müzesi | Miras Haritası"
-date: 2025-12-25T03:09:56+03:00
+title: "TCDD Malıköy Tren İstasyonu Müzesi"
+date: "2025-12-25T03:09:56+03:00"
 slug: "tcdd-malikoy-tren-istasyonu-muzesi"
 description: "# TCDD Malıköy Tren İstasyonu Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Battle_of_Sakarya_National_Historic_Park,_Polatlı-Haymana,_Ankara,_Turkey_-_Murat_Özsoy_33.jpg/1200px-Battle_of_Sakarya_National_Historic_Park,_Polatlı-Haymana,_Ankara,_Turkey_-_Murat_Özsoy_33.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.387636,39.785069"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # TCDD Malıköy Tren İstasyonu Müzesi

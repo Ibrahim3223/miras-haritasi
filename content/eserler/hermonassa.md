@@ -1,18 +1,17 @@
 ---
-title: "Hermonassa | Miras Haritası"
-date: 2025-12-25T04:49:17+03:00
+title: "Hermonassa"
+date: "2025-12-25T04:49:17+03:00"
 slug: "hermonassa"
 description: "## Hermonassa: Trabzon'un Antik Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Trabzon"
+province: "Trabzon"
+iller: '["Trabzon"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.553424,41.034159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hermonassa: Trabzon'un Antik Mirası

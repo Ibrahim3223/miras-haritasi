@@ -1,18 +1,17 @@
 ---
-title: "Emir Kemarettin Kümbeti, Divriği | Miras Haritası"
-date: 2025-12-25T13:56:07+03:00
+title: "Emir Kemarettin Kümbeti, Divriği"
+date: "2025-12-25T13:56:07+03:00"
 slug: "emir-kemarettin-kumbeti-divrigi"
 description: "## Emir Kemarettin Kümbeti: Divriği'nin Işığında Geç Orta Çağ'ın Altın Çağı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.1195412,39.371521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Kemarettin Kümbeti: Divriği'nin Işığında Geç Orta Çağ'ın Altın Çağı

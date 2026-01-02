@@ -1,18 +1,17 @@
 ---
-title: "Eynebey Hamamı | Miras Haritası"
-date: 2025-12-25T16:24:40+03:00
+title: "Eynebey Hamamı"
+date: "2025-12-25T16:24:40+03:00"
 slug: "eynebey-hamami"
 description: "### Eynebey Hamamı: Ankara'nın Tarihi bir Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eynebey_Hamamı02.jpg/1200px-Eynebey_Hamamı02.jpg"
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.857659564,39.937143219"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Eynebey Hamamı: Ankara'nın Tarihi bir Hamamı

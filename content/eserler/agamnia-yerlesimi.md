@@ -1,18 +1,17 @@
 ---
-title: "Agamnia Yerleşimi | Miras Haritası"
-date: 2025-12-25T08:30:09+03:00
+title: "Agamnia Yerleşimi"
+date: "2025-12-25T08:30:09+03:00"
 slug: "agamnia-yerlesimi"
 description: "## Agamnia Yerleşimi: Ezine'nin Gizli Tarihi..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.1685505,39.9623299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Agamnia Yerleşimi: Ezine'nin Gizli Tarihi

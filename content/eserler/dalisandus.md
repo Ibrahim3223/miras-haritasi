@@ -1,18 +1,17 @@
 ---
-title: "Dalisandus | Miras Haritası"
-date: 2025-12-25T04:31:00+03:00
+title: "Dalisandus"
+date: "2025-12-25T04:31:00+03:00"
 slug: "dalisandus"
 description: "## Dalisandus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.480075,36.677695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dalisandus Arkeolojik Sit

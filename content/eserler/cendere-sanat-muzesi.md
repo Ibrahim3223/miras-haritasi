@@ -1,18 +1,17 @@
 ---
-title: "Cendere Sanat Müzesi | Miras Haritası"
-date: 2025-12-25T03:45:18+03:00
+title: "Cendere Sanat Müzesi"
+date: "2025-12-25T03:45:18+03:00"
 slug: "cendere-sanat-muzesi"
 description: "## Cendere Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cendere_Art_Museum_(5).jpg/1200px-Cendere_Art_Museum_(5).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.989237499,41.108640316"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cendere Sanat Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Karacaoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:41:01+03:00
+title: "Karacaoğlu Camii"
+date: "2025-12-24T23:41:01+03:00"
 slug: "karacaoglu-camii"
 description: "## Karacaoğlu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4807205,38.7118607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karacaoğlu Camii

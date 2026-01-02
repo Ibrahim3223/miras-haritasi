@@ -1,18 +1,17 @@
 ---
-title: "Türbe Camii, Gölmarmara | Miras Haritası"
-date: 2025-12-25T01:09:37+03:00
+title: "Türbe Camii, Gölmarmara"
+date: "2025-12-25T01:09:37+03:00"
 slug: "turbe-camii-golmarmara"
 description: "## Türbe Camii, Gölmarmara..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9181442,38.7038193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türbe Camii, Gölmarmara

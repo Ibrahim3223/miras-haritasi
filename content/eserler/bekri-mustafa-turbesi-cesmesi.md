@@ -1,18 +1,17 @@
 ---
-title: "Bekri Mustafa Türbesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:50+03:00
+title: "Bekri Mustafa Türbesi Çeşmesi"
+date: "2025-12-25T11:48:50+03:00"
 slug: "bekri-mustafa-turbesi-cesmesi"
 description: "### Bekri Mustafa Türbesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9688492,41.0188828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bekri Mustafa Türbesi Çeşmesi

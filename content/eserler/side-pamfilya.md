@@ -1,18 +1,17 @@
 ---
-title: "Side (Pamfilya) | Miras Haritası"
-date: 2025-12-25T05:22:42+03:00
+title: "Side (Pamfilya)"
+date: "2025-12-25T05:22:42+03:00"
 slug: "side-pamfilya"
 description: "## Side: Pamfilya'nın Muhteşem Kenti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.39138889,36.76833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Side: Pamfilya'nın Muhteşem Kenti

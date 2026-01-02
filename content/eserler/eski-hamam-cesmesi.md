@@ -1,18 +1,17 @@
 ---
-title: "Eski Hamam Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:53+03:00
+title: "Eski Hamam Çeşmesi"
+date: "2025-12-25T10:59:53+03:00"
 slug: "eski-hamam-cesmesi"
 description: "## Eski Hamam Çeşmesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Aziz Mahmut Hüdayi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.012308,41.024071"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Hamam Çeşmesi

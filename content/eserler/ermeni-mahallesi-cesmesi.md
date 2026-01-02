@@ -1,18 +1,17 @@
 ---
-title: "Ermeni Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:51+03:00
+title: "Ermeni Mahallesi Çeşmesi"
+date: "2025-12-25T11:08:51+03:00"
 slug: "ermeni-mahallesi-cesmesi"
 description: "## Ermeni Mahallesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.927356,41.050288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ermeni Mahallesi Çeşmesi

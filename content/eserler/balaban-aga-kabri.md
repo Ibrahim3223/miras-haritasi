@@ -1,18 +1,17 @@
 ---
-title: "Balaban Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:25:52+03:00
+title: "Balaban Ağa Kabri"
+date: "2025-12-25T13:25:52+03:00"
 slug: "balaban-aga-kabri"
 description: "### Balaban Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9582977,41.0115242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balaban Ağa Kabri

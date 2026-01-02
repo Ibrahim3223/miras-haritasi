@@ -1,18 +1,17 @@
 ---
-title: "Yokuş Çeşme | Miras Haritası"
-date: 2025-12-25T12:12:04+03:00
+title: "Yokuş Çeşme"
+date: "2025-12-25T12:12:04+03:00"
 slug: "yokus-cesme"
 description: "### Yokuş Çeşme: Aksaray'ın Tarihi Bir Özelliliği..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.942583,41.005757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yokuş Çeşme: Aksaray'ın Tarihi Bir Özelliliği

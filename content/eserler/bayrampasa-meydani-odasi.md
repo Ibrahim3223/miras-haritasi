@@ -1,18 +1,17 @@
 ---
-title: "Bayrampaşa Meydanı Odası | Miras Haritası"
-date: 2025-12-25T17:28:55+03:00
+title: "Bayrampaşa Meydanı Odası"
+date: "2025-12-25T17:28:55+03:00"
 slug: "bayrampasa-meydani-odasi"
 description: "## Bayrampaşa Meydanı Odası: Fatih'te Bir Medrese'nin Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.942263,41.008271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayrampaşa Meydanı Odası: Fatih'te Bir Medrese'nin Gizemi

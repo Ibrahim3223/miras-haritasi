@@ -1,18 +1,17 @@
 ---
-title: "Cafergazi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:14:34+03:00
+title: "Cafergazi Çeşmesi"
+date: "2025-12-25T10:14:34+03:00"
 slug: "cafergazi-cesmesi"
 description: "## Cafergazi Çeşmesi: İskilip'te Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4658051,40.7383461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cafergazi Çeşmesi: İskilip'te Bir Tarihî Çeşme

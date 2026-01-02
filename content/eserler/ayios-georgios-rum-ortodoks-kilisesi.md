@@ -1,18 +1,17 @@
 ---
-title: "Ayios Georgios Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:30+03:00
+title: "Ayios Georgios Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:37:30+03:00"
 slug: "ayios-georgios-rum-ortodoks-kilisesi"
 description: "### Ayios Georgios Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.6271744,36.7981911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayios Georgios Rum Ortodoks Kilisesi

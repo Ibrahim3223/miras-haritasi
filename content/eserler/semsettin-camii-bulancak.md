@@ -1,18 +1,17 @@
 ---
-title: "Şemsettin Camii (Bulancak) | Miras Haritası"
-date: 2025-12-24T23:56:01+03:00
+title: "Şemsettin Camii (Bulancak)"
+date: "2025-12-24T23:56:01+03:00"
 slug: "semsettin-camii-bulancak"
 description: "## Şemsettin Camii (Bulancak)..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Bulancak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.232749,40.914403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şemsettin Camii (Bulancak)

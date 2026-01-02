@@ -1,18 +1,17 @@
 ---
-title: "Haydar Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:36:19+03:00
+title: "Haydar Paşa Çeşmesi"
+date: "2025-12-25T10:36:19+03:00"
 slug: "haydar-pasa-cesmesi"
 description: "## Haydar Paşa Çeşmesi: Cibali'nin Tarihî Bir Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cibali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.95586,41.02177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haydar Paşa Çeşmesi: Cibali'nin Tarihî Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Üftade Türbesi | Miras Haritası"
-date: 2025-12-25T14:13:03+03:00
+title: "Üftade Türbesi"
+date: "2025-12-25T14:13:03+03:00"
 slug: "uftade-turbesi"
 description: "## Üftade Türbesi: Bursa'nın Tarihi ve Kültürel Miraslarından Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MEHMED_MUHYİDDiN_ÜFTADE_K.S_HAZRETLERİ_TÜRBESİ_-_panoramio_(4).jpg/1200px-MEHMED_MUHYİDDiN_ÜFTADE_K.S_HAZRETLERİ_TÜRBESİ_-_panoramio_(4).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.057976,40.182988"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Üftade Türbesi: Bursa'nın Tarihi ve Kültürel Miraslarından Bir Örnek

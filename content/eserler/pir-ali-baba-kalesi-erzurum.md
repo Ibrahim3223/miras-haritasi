@@ -1,18 +1,17 @@
 ---
-title: "Pir Ali Baba Kalesi, Erzurum | Miras Haritası"
-date: 2025-12-25T01:40:32+03:00
+title: "Pir Ali Baba Kalesi, Erzurum"
+date: "2025-12-25T01:40:32+03:00"
 slug: "pir-ali-baba-kalesi-erzurum"
 description: "## Pir Ali Baba Kalesi, Erzurum..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Palandöken"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.2030869,39.8486938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pir Ali Baba Kalesi, Erzurum

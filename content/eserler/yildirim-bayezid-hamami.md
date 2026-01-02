@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Bayezid Hamamı | Miras Haritası"
-date: 2025-12-25T16:39:43+03:00
+title: "Yıldırım Bayezid Hamamı"
+date: "2025-12-25T16:39:43+03:00"
 slug: "yildirim-bayezid-hamami"
 description: "## Yıldırım Bayezid Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0814209,40.1869202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldırım Bayezid Hamamı

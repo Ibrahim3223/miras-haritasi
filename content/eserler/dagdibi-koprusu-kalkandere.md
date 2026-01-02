@@ -1,18 +1,17 @@
 ---
-title: "Dağdibi Köprüsü Kalkandere | Miras Haritası"
-date: 2025-12-25T02:06:31+03:00
+title: "Dağdibi Köprüsü Kalkandere"
+date: "2025-12-25T02:06:31+03:00"
 slug: "dagdibi-koprusu-kalkandere"
 description: "## Dağdibi Köprüsü Kalkandere: Bir Tarihî Eğlence Yerinin Gizli Çehresi..."
 featured_image: ""
 province: "Kalkandere"
-iller: ["Kalkandere"]
+iller: '["Kalkandere"]'
 district: "Kalkandere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.4521,40.919817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dağdibi Köprüsü Kalkandere: Bir Tarihî Eğlence Yerinin Gizli Çehresi

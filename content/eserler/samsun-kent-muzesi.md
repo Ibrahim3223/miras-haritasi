@@ -1,18 +1,17 @@
 ---
-title: "Samsun Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:24+03:00
+title: "Samsun Kent Müzesi"
+date: "2025-12-25T03:14:24+03:00"
 slug: "samsun-kent-muzesi"
 description: "## Samsun Kent Müzesi ..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.339994,41.286409"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samsun Kent Müzesi 

@@ -1,18 +1,17 @@
 ---
-title: "Kadıoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:37:27+03:00
+title: "Kadıoğlu Camii"
+date: "2025-12-24T23:37:27+03:00"
 slug: "kadioglu-camii"
 description: "### Kadıoğlu Camii: Şanlıurfa'nın Tarihî Bir Çağına İnanın..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7891083,37.1540833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadıoğlu Camii: Şanlıurfa'nın Tarihî Bir Çağına İnanın

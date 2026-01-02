@@ -1,18 +1,17 @@
 ---
-title: "Ay Yıldız Karargâhı | Miras Haritası"
-date: 2025-12-25T08:37:48+03:00
+title: "Ay Yıldız Karargâhı"
+date: "2025-12-25T08:37:48+03:00"
 slug: "ay-yildiz-kararghi"
 description: "**Ay Yıldız Karargâhı: Etimesgut'ta Bir Tarih Öreni**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Etimesgut"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "32.687222222,39.924444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ay Yıldız Karargâhı: Etimesgut'ta Bir Tarih Öreni**

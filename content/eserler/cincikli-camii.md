@@ -1,18 +1,17 @@
 ---
-title: "Cıncıklı Camii | Miras Haritası"
-date: 2025-12-24T22:27:29+03:00
+title: "Cıncıklı Camii"
+date: "2025-12-24T22:27:29+03:00"
 slug: "cincikli-camii"
 description: "## Cıncıklı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4908066,38.7190475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cıncıklı Camii

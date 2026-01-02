@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:47+03:00
+title: "Sultan Ahmet Türbesi"
+date: "2025-12-25T14:35:47+03:00"
 slug: "sultan-ahmet-turbesi"
 description: "## Sultan Ahmet Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sultanahmet_square_-_panoramio.jpg/1200px-Sultanahmet_square_-_panoramio.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9771914,41.0070141"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sultan Ahmet Türbesi

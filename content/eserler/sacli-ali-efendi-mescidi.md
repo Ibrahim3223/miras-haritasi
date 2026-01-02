@@ -1,18 +1,17 @@
 ---
-title: "Saçlı Ali Efendi Mescidi | Miras Haritası"
-date: 2025-12-25T01:09:14+03:00
+title: "Saçlı Ali Efendi Mescidi"
+date: "2025-12-25T01:09:14+03:00"
 slug: "sacli-ali-efendi-mescidi"
 description: "## Saçlı Ali Efendi Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.54390908,41.677823597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saçlı Ali Efendi Mescidi

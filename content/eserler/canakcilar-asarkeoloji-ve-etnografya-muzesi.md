@@ -1,18 +1,17 @@
 ---
-title: "Çanakçılar A.Ş.Arkeoloji ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:41+03:00
+title: "Çanakçılar A.Ş.Arkeoloji ve Etnografya Müzesi"
+date: "2025-12-25T03:49:41+03:00"
 slug: "canakcilar-asarkeoloji-ve-etnografya-muzesi"
 description: "## Çanakçılar A.Ş. Arkeoloji ve Etnografya Müzesi..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Gökçebey"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.14016,41.304922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakçılar A.Ş. Arkeoloji ve Etnografya Müzesi

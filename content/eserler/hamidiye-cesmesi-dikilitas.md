@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Çeşmesi, Dikilitaş | Miras Haritası"
-date: 2025-12-25T12:12:40+03:00
+title: "Hamidiye Çeşmesi, Dikilitaş"
+date: "2025-12-25T12:12:40+03:00"
 slug: "hamidiye-cesmesi-dikilitas"
 description: "### Hamidiye Çeşmesi, Dikilitaş..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.006245,41.056488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamidiye Çeşmesi, Dikilitaş

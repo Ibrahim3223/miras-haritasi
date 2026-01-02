@@ -1,18 +1,17 @@
 ---
-title: "Sarıtepe Şehitliği | Miras Haritası"
-date: 2025-12-25T15:59:32+03:00
+title: "Sarıtepe Şehitliği"
+date: "2025-12-25T15:59:32+03:00"
 slug: "saritepe-sehitligi"
 description: "### Sarıtepe Şehitliği: Türkiye'nin Çanakkale Savaşı'nın Kayıtlarını Taşıyan Önemli Bir Anıt..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2092857,40.0950241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarıtepe Şehitliği: Türkiye'nin Çanakkale Savaşı'nın Kayıtlarını Taşıyan Önemli Bir Anıt

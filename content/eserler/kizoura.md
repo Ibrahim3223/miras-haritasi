@@ -1,18 +1,17 @@
 ---
-title: "Kizoura | Miras Haritası"
-date: 2025-12-25T04:49:39+03:00
+title: "Kizoura"
+date: "2025-12-25T04:49:39+03:00"
 slug: "kizoura"
 description: "## Kizoura: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.2556,40.469524"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kizoura: Türkiye'nin Gizli Harabeleri

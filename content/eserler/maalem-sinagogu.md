@@ -1,18 +1,17 @@
 ---
-title: "Maalem Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:49+03:00
+title: "Maalem Sinagogu"
+date: "2025-12-25T16:12:49+03:00"
 slug: "maalem-sinagogu"
 description: "## Maalem Sinagogu: İstanbul'un Gizli İncisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Maalem_sinagog2.jpg/1200px-Maalem_sinagog2.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.95361111,41.04055556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Maalem Sinagogu: İstanbul'un Gizli İncisi

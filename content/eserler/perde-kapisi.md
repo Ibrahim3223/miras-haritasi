@@ -1,18 +1,17 @@
 ---
-title: "Perde Kapısı | Miras Haritası"
-date: 2025-12-25T15:38:01+03:00
+title: "Perde Kapısı"
+date: "2025-12-25T15:38:01+03:00"
 slug: "perde-kapisi"
 description: "## Perde Kapısı: Fatih'in Gizemli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.982523,41.0126076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perde Kapısı: Fatih'in Gizemli Anıtı

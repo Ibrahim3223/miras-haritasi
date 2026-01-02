@@ -1,18 +1,17 @@
 ---
-title: "Söke Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:05+03:00
+title: "Söke Kalesi"
+date: "2025-12-25T01:44:05+03:00"
 slug: "soke-kalesi"
 description: "## Söke Kalesi: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4429836,37.7866058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söke Kalesi: Aydın'ın Tarihi Bir Mirası

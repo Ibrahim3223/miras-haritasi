@@ -1,18 +1,17 @@
 ---
-title: "Kadı Hasan Camii | Miras Haritası"
-date: 2025-12-24T23:36:57+03:00
+title: "Kadı Hasan Camii"
+date: "2025-12-24T23:36:57+03:00"
 slug: "kadi-hasan-camii"
 description: "## Kadı Hasan Camii: Tokat'taki Bir Klasik Cami Anıt..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5443993,40.3151283"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Hasan Camii: Tokat'taki Bir Klasik Cami Anıt

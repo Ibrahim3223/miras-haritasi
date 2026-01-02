@@ -1,18 +1,17 @@
 ---
-title: "Bulucu Höyük | Miras Haritası"
-date: 2025-12-25T05:35:45+03:00
+title: "Bulucu Höyük"
+date: "2025-12-25T05:35:45+03:00"
 slug: "bulucu-hoyuk"
 description: "## Bulucu Höyük: Tarihî Bir Miras..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.087983,38.447417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bulucu Höyük: Tarihî Bir Miras

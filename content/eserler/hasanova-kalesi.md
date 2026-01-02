@@ -1,18 +1,17 @@
 ---
-title: "Hasanova Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:18+03:00
+title: "Hasanova Kalesi"
+date: "2025-12-25T01:22:18+03:00"
 slug: "hasanova-kalesi"
 description: "## Hasanova Kalesi: Karayazı'nın Tarihî Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Karayazı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.2740021,39.622963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasanova Kalesi: Karayazı'nın Tarihî Mirası

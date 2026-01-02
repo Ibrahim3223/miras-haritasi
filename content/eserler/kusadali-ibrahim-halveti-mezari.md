@@ -1,18 +1,17 @@
 ---
-title: "Kuşadalı İbrahim Halveti Mezarı | Miras Haritası"
-date: 2025-12-25T15:16:24+03:00
+title: "Kuşadalı İbrahim Halveti Mezarı"
+date: "2025-12-25T15:16:24+03:00"
 slug: "kusadali-ibrahim-halveti-mezari"
 description: "## Kuşadalı İbrahim Halveti Mezarı..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2485619,37.8635063"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuşadalı İbrahim Halveti Mezarı

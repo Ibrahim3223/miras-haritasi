@@ -1,18 +1,17 @@
 ---
-title: "Alaca Mescit, Kocaeli | Miras Haritası"
-date: 2025-12-24T23:58:20+03:00
+title: "Alaca Mescit, Kocaeli"
+date: "2025-12-24T23:58:20+03:00"
 slug: "alaca-mescit-kocaeli"
 description: "### Alaca Mescit, Kocaeli..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "İzmit"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9252777,40.7677269"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alaca Mescit, Kocaeli

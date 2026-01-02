@@ -1,18 +1,17 @@
 ---
-title: "Kelami Tekkesi Mezarı | Miras Haritası"
-date: 2025-12-25T13:31:42+03:00
+title: "Kelami Tekkesi Mezarı"
+date: "2025-12-25T13:31:42+03:00"
 slug: "kelami-tekkesi-mezari"
 description: "**Kelami Tekkesi Mezarı: İstanbul'un Gizli Tarihi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.930048,41.0115547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kelami Tekkesi Mezarı: İstanbul'un Gizli Tarihi**

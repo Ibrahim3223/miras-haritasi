@@ -1,18 +1,17 @@
 ---
-title: "Çapanoğlu Camii, Saray | Miras Haritası"
-date: 2025-12-24T23:22:16+03:00
+title: "Çapanoğlu Camii, Saray"
+date: "2025-12-24T23:22:16+03:00"
 slug: "capanoglu-camii-saray"
 description: "**Çapanoğlu Camii: Yozgat'ın Zirvesinde Bir Kent Camisi**..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yerköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6534345,39.6918839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çapanoğlu Camii: Yozgat'ın Zirvesinde Bir Kent Camisi**

@@ -1,18 +1,17 @@
 ---
-title: "Aynalıçeşme Alman Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:29+03:00
+title: "Aynalıçeşme Alman Protestan Kilisesi"
+date: "2025-12-25T09:23:29+03:00"
 slug: "aynalicesme-alman-protestan-kilisesi"
 description: "## Aynalıçeşme Alman Protestan Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.973877,41.036129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aynalıçeşme Alman Protestan Kilisesi

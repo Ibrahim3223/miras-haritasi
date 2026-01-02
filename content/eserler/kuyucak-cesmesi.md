@@ -1,18 +1,17 @@
 ---
-title: "Kuyucak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:11+03:00
+title: "Kuyucak Çeşmesi"
+date: "2025-12-25T10:28:11+03:00"
 slug: "kuyucak-cesmesi"
 description: "### Kuyucak Çeşmesi: Sincan'da Bir Osmanlı Dönemi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.3154755,39.7781563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuyucak Çeşmesi: Sincan'da Bir Osmanlı Dönemi Çeşmesi

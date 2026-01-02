@@ -1,18 +1,17 @@
 ---
-title: "Abdal Kalesi | Miras Haritası"
-date: 2025-12-25T05:56:43+03:00
+title: "Abdal Kalesi"
+date: "2025-12-25T05:56:43+03:00"
 slug: "abdal-kalesi"
 description: "# Abdal Kalesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.660965,38.880455"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdal Kalesi

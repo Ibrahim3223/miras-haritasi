@@ -1,18 +1,17 @@
 ---
-title: "Manisa Garnizon Şehitliği | Miras Haritası"
-date: 2025-12-25T15:57:40+03:00
+title: "Manisa Garnizon Şehitliği"
+date: "2025-12-25T15:57:40+03:00"
 slug: "manisa-garnizon-sehitligi"
 description: "## Manisa Garnizon Şehitliği..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4440079,38.6147423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manisa Garnizon Şehitliği

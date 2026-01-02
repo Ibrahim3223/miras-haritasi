@@ -1,18 +1,17 @@
 ---
-title: "Abbas Ağa Sebili, İskenderpaşa | Miras Haritası"
-date: 2025-12-25T13:03:30+03:00
+title: "Abbas Ağa Sebili, İskenderpaşa"
+date: "2025-12-25T13:03:30+03:00"
 slug: "abbas-aga-sebili-iskenderpasa"
 description: "## Abbas Ağa Sebili, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9530067,41.0121994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abbas Ağa Sebili, İskenderpaşa

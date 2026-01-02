@@ -1,18 +1,17 @@
 ---
-title: "Kocaçam Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:39:58+03:00
+title: "Kocaçam Köyü Camii"
+date: "2025-12-25T00:39:58+03:00"
 slug: "kocacam-koyu-camii"
 description: "## Kocaçam Köyü Camii: Bozkurt, Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Bozkurt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.97296186,41.92003501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kocaçam Köyü Camii: Bozkurt, Kastamonu'nun Tarihi Bir Mirası

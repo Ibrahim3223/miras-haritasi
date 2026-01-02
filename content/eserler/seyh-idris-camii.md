@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İdris Camii | Miras Haritası"
-date: 2025-12-24T23:12:35+03:00
+title: "Şeyh İdris Camii"
+date: "2025-12-24T23:12:35+03:00"
 slug: "seyh-idris-camii"
 description: "## Şeyh İdris Camii..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Piraziz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.100399,40.9034538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh İdris Camii

@@ -1,18 +1,17 @@
 ---
-title: "IMM Open Data portal | Miras Haritası"
-date: 2025-12-25T17:50:04+03:00
+title: "IMM Open Data portal"
+date: "2025-12-25T17:50:04+03:00"
 slug: "imm-open-data-portal"
 description: "# IMM Open Data Portal..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # IMM Open Data Portal

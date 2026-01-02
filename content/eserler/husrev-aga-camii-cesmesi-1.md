@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Ağa Camii Çeşmesi-1 | Miras Haritası"
-date: 2025-12-25T11:28:41+03:00
+title: "Hüsrev Ağa Camii Çeşmesi-1"
+date: "2025-12-25T11:28:41+03:00"
 slug: "husrev-aga-camii-cesmesi-1"
 description: "## Hüsrev Ağa Camii Çeşmesi-1: Manisa'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4376888,38.6152267"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsrev Ağa Camii Çeşmesi-1: Manisa'nın Tarihi Bir Çeşmesi

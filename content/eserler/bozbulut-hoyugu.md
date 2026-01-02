@@ -1,18 +1,17 @@
 ---
-title: "Bozbulut Höyüğü | Miras Haritası"
-date: 2025-12-25T06:34:01+03:00
+title: "Bozbulut Höyüğü"
+date: "2025-12-25T06:34:01+03:00"
 slug: "bozbulut-hoyugu"
 description: "### Bozbulut Höyüğü: Muş'un Gizli Kahramanı..."
 featured_image: ""
 province: "Muş"
-iller: ["Muş"]
+iller: '["Muş"]'
 district: "Muş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.4436455,38.8506088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bozbulut Höyüğü: Muş'un Gizli Kahramanı

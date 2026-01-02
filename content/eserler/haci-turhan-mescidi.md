@@ -1,18 +1,17 @@
 ---
-title: "Hacı Turhan Mescidi | Miras Haritası"
-date: 2025-12-25T00:23:58+03:00
+title: "Hacı Turhan Mescidi"
+date: "2025-12-25T00:23:58+03:00"
 slug: "haci-turhan-mescidi"
 description: "## Hacı Turhan Mescidi: Tokat'ın Zümrütü..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5460434,40.3151703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Turhan Mescidi: Tokat'ın Zümrütü

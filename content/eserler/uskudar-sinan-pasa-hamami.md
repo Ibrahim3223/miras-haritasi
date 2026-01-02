@@ -1,18 +1,17 @@
 ---
-title: "Üsküdar Sinan Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T17:11:26+03:00
+title: "Üsküdar Sinan Paşa Hamamı"
+date: "2025-12-25T17:11:26+03:00"
 slug: "uskudar-sinan-pasa-hamami"
 description: "### Üsküdar Sinan Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.010419831,41.018143231"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üsküdar Sinan Paşa Hamamı

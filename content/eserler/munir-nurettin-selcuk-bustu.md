@@ -1,18 +1,17 @@
 ---
-title: "Münir Nurettin Selçuk Büstü | Miras Haritası"
-date: 2025-12-25T15:48:48+03:00
+title: "Münir Nurettin Selçuk Büstü"
+date: "2025-12-25T15:48:48+03:00"
 slug: "munir-nurettin-selcuk-bustu"
 description: "## Münir Nurettin Selçuk Büstü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Münir_Nurettin_Selçuk_Büstü_01.jpg/1200px-Münir_Nurettin_Selçuk_Büstü_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0386868,40.9801559"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Münir Nurettin Selçuk Büstü

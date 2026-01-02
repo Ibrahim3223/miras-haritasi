@@ -1,18 +1,17 @@
 ---
-title: "Çivizade Mescidi | Miras Haritası"
-date: 2025-12-24T21:45:07+03:00
+title: "Çivizade Mescidi"
+date: "2025-12-24T21:45:07+03:00"
 slug: "civizade-mescidi"
 description: "**Çivizade Mescidi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.926638888,41.017194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çivizade Mescidi**

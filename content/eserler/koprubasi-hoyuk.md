@@ -1,18 +1,17 @@
 ---
-title: "Köprübaşı Höyük | Miras Haritası"
-date: 2025-12-25T05:30:23+03:00
+title: "Köprübaşı Höyük"
+date: "2025-12-25T05:30:23+03:00"
 slug: "koprubasi-hoyuk"
 description: "### Köprübaşı Höyük: Alpu, Eskişehir'de Bir Arkeolojik Miras..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.002283,39.757606"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köprübaşı Höyük: Alpu, Eskişehir'de Bir Arkeolojik Miras

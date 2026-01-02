@@ -1,18 +1,17 @@
 ---
-title: "Kınık Kilisesi | Miras Haritası"
-date: 2025-12-25T09:30:18+03:00
+title: "Kınık Kilisesi"
+date: "2025-12-25T09:30:18+03:00"
 slug: "kinik-kilisesi"
 description: "# Kınık Kilisesi: İzmir'in Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kınık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.386055,39.0863113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kınık Kilisesi: İzmir'in Gizli Kahramanı

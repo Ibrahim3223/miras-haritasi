@@ -1,18 +1,17 @@
 ---
-title: "Daba Manastırı | Miras Haritası"
-date: 2025-12-25T08:56:08+03:00
+title: "Daba Manastırı"
+date: "2025-12-25T08:56:08+03:00"
 slug: "daba-manastiri"
 description: "## Daba Manastırı..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Çimenli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.983388888,41.1975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Daba Manastırı

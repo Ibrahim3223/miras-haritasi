@@ -1,18 +1,17 @@
 ---
-title: "Alaaddin Savcı Bey Türbesi, Niksar | Miras Haritası"
-date: 2025-12-25T03:57:12+03:00
+title: "Alaaddin Savcı Bey Türbesi, Niksar"
+date: "2025-12-25T03:57:12+03:00"
 slug: "alaaddin-savci-bey-turbesi-niksar"
 description: "### Alaaddin Savcı Bey Türbesi, Niksar..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.9643974,40.5910225"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alaaddin Savcı Bey Türbesi, Niksar

@@ -1,18 +1,17 @@
 ---
-title: "Emir Sultan Mescidi | Miras Haritası"
-date: 2025-12-25T00:43:32+03:00
+title: "Emir Sultan Mescidi"
+date: "2025-12-25T00:43:32+03:00"
 slug: "emir-sultan-mescidi"
 description: "### Emir Sultan Mescidi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.489447023,38.717821551"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Emir Sultan Mescidi: Kayseri'nin Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Bend-i Mahi Köprüsü | Miras Haritası"
-date: 2025-12-25T01:57:26+03:00
+title: "Bend-i Mahi Köprüsü"
+date: "2025-12-25T01:57:26+03:00"
 slug: "bend-i-mahi-koprusu"
 description: "## Bend-i Mahi Köprüsü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "43.6832392,38.943339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bend-i Mahi Köprüsü

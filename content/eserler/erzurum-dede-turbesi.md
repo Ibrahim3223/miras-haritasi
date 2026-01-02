@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:47:32+03:00
+title: "Erzurum Dede Türbesi"
+date: "2025-12-25T14:47:32+03:00"
 slug: "erzurum-dede-turbesi"
 description: "## Eskişehir Erzurum Dede Türbesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.9330063,40.5328636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir Erzurum Dede Türbesi

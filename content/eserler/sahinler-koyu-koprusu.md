@@ -1,18 +1,17 @@
 ---
-title: "Şahinler Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:45:45+03:00
+title: "Şahinler Köyü Köprüsü"
+date: "2025-12-25T02:45:45+03:00"
 slug: "sahinler-koyu-koprusu"
 description: "## Şahinler Köyü Köprüsü..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: ["Burhaniye (ilçe)"]
+iller: '["Burhaniye (ilçe)"]'
 district: "Burhaniye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.95554,39.436068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şahinler Köyü Köprüsü

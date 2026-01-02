@@ -1,18 +1,17 @@
 ---
-title: "Aya Marina Kilisesi | Miras Haritası"
-date: 2025-12-25T09:30:52+03:00
+title: "Aya Marina Kilisesi"
+date: "2025-12-25T09:30:52+03:00"
 slug: "aya-marina-kilisesi"
 description: "## Aya Marina Kilisesi: Gökçeada'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.8946991,40.2327003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Marina Kilisesi: Gökçeada'nın Tarihi Bir Mirası

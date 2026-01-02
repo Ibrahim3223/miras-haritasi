@@ -1,18 +1,17 @@
 ---
-title: "Taşkent Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:14+03:00
+title: "Taşkent Baba Türbesi"
+date: "2025-12-25T14:21:14+03:00"
 slug: "taskent-baba-turbesi"
 description: "### Taşkent Baba Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.559117,41.673649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taşkent Baba Türbesi

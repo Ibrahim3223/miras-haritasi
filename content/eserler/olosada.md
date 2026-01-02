@@ -1,18 +1,17 @@
 ---
-title: "Olosada | Miras Haritası"
-date: 2025-12-25T05:14:04+03:00
+title: "Olosada"
+date: "2025-12-25T05:14:04+03:00"
 slug: "olosada"
 description: "## Olosada Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.589417,36.891587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olosada Arkeolojik Sit

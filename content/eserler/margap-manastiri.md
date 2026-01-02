@@ -1,18 +1,17 @@
 ---
-title: "Margap Manastırı | Miras Haritası"
-date: 2025-12-25T09:58:45+03:00
+title: "Margap Manastırı"
+date: "2025-12-25T09:58:45+03:00"
 slug: "margap-manastiri"
 description: "# Margap Manastırı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "38.3894691,38.3900337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Margap Manastırı

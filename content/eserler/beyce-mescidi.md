@@ -1,18 +1,17 @@
 ---
-title: "Beyce Mescidi | Miras Haritası"
-date: 2025-12-25T01:03:37+03:00
+title: "Beyce Mescidi"
+date: "2025-12-25T01:03:37+03:00"
 slug: "beyce-mescidi"
 description: "## Beyce Mescidi: Edirne'nin Gizli Çeşmidi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5535278,41.6826057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyce Mescidi: Edirne'nin Gizli Çeşmidi

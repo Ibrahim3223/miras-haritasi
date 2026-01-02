@@ -1,18 +1,17 @@
 ---
-title: "Bayburtlu Mustafa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:17+03:00
+title: "Bayburtlu Mustafa Ağa Çeşmesi"
+date: "2025-12-25T11:22:17+03:00"
 slug: "bayburtlu-mustafa-aga-cesmesi"
 description: "**Bayburtlu Mustafa Ağa Çeşmesi**..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Düğmeciler"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.929205,41.046594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bayburtlu Mustafa Ağa Çeşmesi**

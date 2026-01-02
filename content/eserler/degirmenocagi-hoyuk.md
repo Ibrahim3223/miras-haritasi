@@ -1,18 +1,17 @@
 ---
-title: "Değirmenocağı Höyük | Miras Haritası"
-date: 2025-12-25T06:24:47+03:00
+title: "Değirmenocağı Höyük"
+date: "2025-12-25T06:24:47+03:00"
 slug: "degirmenocagi-hoyuk"
 description: "### Değirmenocağı Höyük: Mucur'un Yüzyıllarca Eski Tarihi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3114361,39.0999172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Değirmenocağı Höyük: Mucur'un Yüzyıllarca Eski Tarihi

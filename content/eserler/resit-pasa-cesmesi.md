@@ -1,18 +1,17 @@
 ---
-title: "Reşit Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:32+03:00
+title: "Reşit Paşa Çeşmesi"
+date: "2025-12-25T11:05:32+03:00"
 slug: "resit-pasa-cesmesi"
 description: "### Reşit Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.046655,41.102966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Reşit Paşa Çeşmesi

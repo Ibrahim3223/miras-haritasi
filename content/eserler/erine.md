@@ -1,18 +1,17 @@
 ---
-title: "Erine | Miras Haritası"
-date: 2025-12-25T04:55:17+03:00
+title: "Erine"
+date: "2025-12-25T04:55:17+03:00"
 slug: "erine"
 description: "## Erine: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erine: Antik Çağın Gizemi

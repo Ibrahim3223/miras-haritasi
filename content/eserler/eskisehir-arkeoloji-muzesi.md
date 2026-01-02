@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:13+03:00
+title: "Eskişehir Arkeoloji Müzesi"
+date: "2025-12-25T03:14:13+03:00"
 slug: "eskisehir-arkeoloji-muzesi"
 description: "## Eskişehir Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Eskişehir_Eti_Archaeology_Museum_building.jpg/1200px-Eskişehir_Eti_Archaeology_Museum_building.jpg"
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.513284463,39.765923478"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eskişehir Arkeoloji Müzesi

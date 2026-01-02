@@ -1,18 +1,17 @@
 ---
-title: "Tarla Höyük | Miras Haritası"
-date: 2025-12-25T06:42:34+03:00
+title: "Tarla Höyük"
+date: "2025-12-25T06:42:34+03:00"
 slug: "tarla-hoyuk"
 description: "## Tarla Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.5447574,39.4108698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarla Höyük: Tarihî Mirasın Gizemi

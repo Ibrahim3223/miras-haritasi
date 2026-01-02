@@ -1,18 +1,17 @@
 ---
-title: "Libum | Miras Haritası"
-date: 2025-12-25T04:47:02+03:00
+title: "Libum"
+date: "2025-12-25T04:47:02+03:00"
 slug: "libum"
 description: "## Libum: İhtişamlı Geç Antik Çağ'ın Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.686075,40.631587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Libum: İhtişamlı Geç Antik Çağ'ın Mirası

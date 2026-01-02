@@ -1,18 +1,17 @@
 ---
-title: "Bahçeağıl Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:12:13+03:00
+title: "Bahçeağıl Köyü Camii"
+date: "2025-12-24T22:12:13+03:00"
 slug: "bahceagil-koyu-camii"
 description: "### Bahçeağıl Köyü Camii: Tekirdağ'ın Tarihî Bir Çağına Tanıklık Eden Ölümsüz Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Kapaklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8841457,41.3489037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bahçeağıl Köyü Camii: Tekirdağ'ın Tarihî Bir Çağına Tanıklık Eden Ölümsüz Mirası

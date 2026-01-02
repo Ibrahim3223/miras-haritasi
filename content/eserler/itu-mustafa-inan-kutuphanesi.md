@@ -1,18 +1,17 @@
 ---
-title: "İTÜ Mustafa İnan Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:45:27+03:00
+title: "İTÜ Mustafa İnan Kütüphanesi"
+date: "2025-12-25T17:45:27+03:00"
 slug: "itu-mustafa-inan-kutuphanesi"
 description: "### İTÜ Mustafa İnan Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mustafa_Inan_Library4.jpg/1200px-Mustafa_Inan_Library4.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.021,41.103694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### İTÜ Mustafa İnan Kütüphanesi

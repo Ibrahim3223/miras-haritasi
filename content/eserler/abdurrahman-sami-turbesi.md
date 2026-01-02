@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahman Şami Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:07+03:00
+title: "Abdurrahman Şami Türbesi"
+date: "2025-12-25T14:25:07+03:00"
 slug: "abdurrahman-sami-turbesi"
 description: "## Abdurrahman Şami Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.979186,41.006797"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdurrahman Şami Türbesi

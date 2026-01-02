@@ -1,18 +1,17 @@
 ---
-title: "Dolmabahçe Sarayı Valide Kapısı | Miras Haritası"
-date: 2025-12-25T15:39:08+03:00
+title: "Dolmabahçe Sarayı Valide Kapısı"
+date: "2025-12-25T15:39:08+03:00"
 slug: "dolmabahce-sarayi-valide-kapisi"
 description: "## Dolmabahçe Sarayı Valide Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0015697,41.0407333"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Dolmabahçe Sarayı Valide Kapısı

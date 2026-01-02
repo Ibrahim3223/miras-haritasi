@@ -1,18 +1,17 @@
 ---
-title: "Belen Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:59:51+03:00
+title: "Belen Tepe Höyüğü"
+date: "2025-12-25T06:59:51+03:00"
 slug: "belen-tepe-hoyugu"
 description: "### Belen Tepe Höyüğü: Bursa'nın Gizli Kültür Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Belen Tepe Höyüğü: Bursa'nın Gizli Kültür Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sahip Ata Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:51+03:00
+title: "Sahip Ata Türbesi"
+date: "2025-12-25T15:26:51+03:00"
 slug: "sahip-ata-turbesi"
 description: "## Sahip Ata Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4942474,37.8675613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sahip Ata Türbesi

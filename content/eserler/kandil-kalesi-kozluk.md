@@ -1,18 +1,17 @@
 ---
-title: "Kandil Kalesi, Kozluk | Miras Haritası"
-date: 2025-12-25T01:46:28+03:00
+title: "Kandil Kalesi, Kozluk"
+date: "2025-12-25T01:46:28+03:00"
 slug: "kandil-kalesi-kozluk"
 description: "### Kandil Kalesi: Batman'ın Efsanevi Kaleleri Arasındaki Bir Örnek..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Kozluk"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.4194221,38.2189445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kandil Kalesi: Batman'ın Efsanevi Kaleleri Arasındaki Bir Örnek

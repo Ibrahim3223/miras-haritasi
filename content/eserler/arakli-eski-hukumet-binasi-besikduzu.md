@@ -1,18 +1,17 @@
 ---
-title: "Araklı Eski Hükümet Binası, Beşikdüzü | Miras Haritası"
-date: 2025-12-25T17:52:13+03:00
+title: "Araklı Eski Hükümet Binası, Beşikdüzü"
+date: "2025-12-25T17:52:13+03:00"
 slug: "arakli-eski-hukumet-binasi-besikduzu"
 description: "### Araklı Eski Hükümet Binası: Beşikdüzü'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Beşikdüzü"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "39.2319527,41.0518837"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Araklı Eski Hükümet Binası: Beşikdüzü'nin Tarihi Bir Mirası

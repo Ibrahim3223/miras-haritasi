@@ -1,18 +1,17 @@
 ---
-title: "Gümrük Camii | Miras Haritası"
-date: 2025-12-24T23:27:32+03:00
+title: "Gümrük Camii"
+date: "2025-12-24T23:27:32+03:00"
 slug: "gumruk-camii"
 description: "## Gümrük Camii: Erzurum'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2807198,39.9130554"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gümrük Camii: Erzurum'un Tarihî ve Kültürel Mirası

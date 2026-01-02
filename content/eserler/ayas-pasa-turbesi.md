@@ -1,18 +1,17 @@
 ---
-title: "Ayas Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:09:17+03:00
+title: "Ayas Paşa Türbesi"
+date: "2025-12-25T15:09:17+03:00"
 slug: "ayas-pasa-turbesi"
 description: "## Ayas Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ayas_Mehmed_Paşa_Mezar_Taşı.jpg/1200px-Ayas_Mehmed_Paşa_Mezar_Taşı.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ayas Paşa Türbesi

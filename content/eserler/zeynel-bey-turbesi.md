@@ -1,18 +1,17 @@
 ---
-title: "Zeynel Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:21+03:00
+title: "Zeynel Bey Türbesi"
+date: "2025-12-25T15:05:21+03:00"
 slug: "zeynel-bey-turbesi"
 description: "# Zeynel Bey Türbesi: Batman'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zeynel_Bey_Mausoleum,_Hasankeyf.jpg/1200px-Zeynel_Bey_Mausoleum,_Hasankeyf.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.422694444,37.724972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Zeynel Bey Türbesi: Batman'ın Tarihî Mirası

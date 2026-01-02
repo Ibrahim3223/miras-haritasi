@@ -1,18 +1,17 @@
 ---
-title: "Porsuk Höyük 1 | Miras Haritası"
-date: 2025-12-25T05:26:51+03:00
+title: "Porsuk Höyük 1"
+date: "2025-12-25T05:26:51+03:00"
 slug: "porsuk-hoyuk-1"
 description: "# Porsuk Höyük 1: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.054443,39.71757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Porsuk Höyük 1: Eskişehir'in Gizli Mirası

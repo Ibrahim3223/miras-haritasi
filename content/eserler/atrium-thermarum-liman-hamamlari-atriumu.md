@@ -1,18 +1,17 @@
 ---
-title: "Atrium Thermarum (Liman Hamamları Atriumu) | Miras Haritası"
-date: 2025-12-25T08:20:59+03:00
+title: "Atrium Thermarum (Liman Hamamları Atriumu)"
+date: "2025-12-25T08:20:59+03:00"
 slug: "atrium-thermarum-liman-hamamlari-atriumu"
 description: "## Atrium Thermarum: Liman Hamamları Atriumu..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.337835942,37.942760328"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atrium Thermarum: Liman Hamamları Atriumu

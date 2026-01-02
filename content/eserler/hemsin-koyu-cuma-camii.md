@@ -1,18 +1,17 @@
 ---
-title: "Hemşin Köyü Cuma Camii | Miras Haritası"
-date: 2025-12-24T23:36:09+03:00
+title: "Hemşin Köyü Cuma Camii"
+date: "2025-12-24T23:36:09+03:00"
 slug: "hemsin-koyu-cuma-camii"
 description: "## Hemşin Köyü Cuma Camii: Düzce'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0238075,41.0255165"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hemşin Köyü Cuma Camii: Düzce'nin Tarihi Bir Mirası

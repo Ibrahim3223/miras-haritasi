@@ -1,18 +1,17 @@
 ---
-title: "Ramazan Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:20+03:00
+title: "Ramazan Dede Türbesi"
+date: "2025-12-25T15:15:20+03:00"
 slug: "ramazan-dede-turbesi"
 description: "## Ramazan Dede Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Gerede"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.194,40.8063"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ramazan Dede Türbesi

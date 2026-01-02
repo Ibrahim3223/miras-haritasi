@@ -1,18 +1,17 @@
 ---
-title: "Faustinopolis | Miras Haritası"
-date: 2025-12-25T04:15:50+03:00
+title: "Faustinopolis"
+date: "2025-12-25T04:15:50+03:00"
 slug: "faustinopolis"
 description: "## Faustinopolis: Niğde'nin Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Niğde"
+province: "Niğde"
+iller: '["Niğde"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.72361111,37.65833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Faustinopolis: Niğde'nin Gizli Mirası

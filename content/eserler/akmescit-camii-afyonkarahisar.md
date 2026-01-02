@@ -1,18 +1,17 @@
 ---
-title: "Akmescit Camii, Afyonkarahisar | Miras Haritası"
-date: 2025-12-24T23:51:04+03:00
+title: "Akmescit Camii, Afyonkarahisar"
+date: "2025-12-24T23:51:04+03:00"
 slug: "akmescit-camii-afyonkarahisar"
 description: "## Akmescit Camii: Afyonkarahisar'ın Tarihi Bir Öznelliği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5348663,38.7531242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akmescit Camii: Afyonkarahisar'ın Tarihi Bir Öznelliği

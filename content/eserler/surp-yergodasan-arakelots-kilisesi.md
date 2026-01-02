@@ -1,18 +1,17 @@
 ---
-title: "Surp Yergodasan Arakelots Kilisesi | Miras Haritası"
-date: 2025-12-25T08:50:30+03:00
+title: "Surp Yergodasan Arakelots Kilisesi"
+date: "2025-12-25T08:50:30+03:00"
 slug: "surp-yergodasan-arakelots-kilisesi"
 description: "## Surp Yergodasan Arakelots Kilisesi: İstanbul'un Gizli Çarpızlarından Birini..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.060313,41.071861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Yergodasan Arakelots Kilisesi: İstanbul'un Gizli Çarpızlarından Birini

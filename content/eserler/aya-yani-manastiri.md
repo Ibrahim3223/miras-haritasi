@@ -1,18 +1,17 @@
 ---
-title: "Aya Yani Manastırı | Miras Haritası"
-date: 2025-12-25T09:58:25+03:00
+title: "Aya Yani Manastırı"
+date: "2025-12-25T09:58:25+03:00"
 slug: "aya-yani-manastiri"
 description: "## Aya Yani Manastırı: Gökçeada'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.8157005,40.1498985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Yani Manastırı: Gökçeada'nın Gizli Cenneti

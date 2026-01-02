@@ -1,18 +1,17 @@
 ---
-title: "Balkaynak Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:30+03:00
+title: "Balkaynak Köprüsü"
+date: "2025-12-25T02:36:30+03:00"
 slug: "balkaynak-koprusu"
 description: "### Balkaynak Köprüsü: Tarihi Bir Miras..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.9032822,40.3577309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balkaynak Köprüsü: Tarihi Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "Anneler Günü Anıtı | Miras Haritası"
-date: 2025-12-25T15:48:41+03:00
+title: "Anneler Günü Anıtı"
+date: "2025-12-25T15:48:41+03:00"
 slug: "anneler-gunu-aniti"
 description: "## Anneler Günü Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0485439,40.9856949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anneler Günü Anıtı

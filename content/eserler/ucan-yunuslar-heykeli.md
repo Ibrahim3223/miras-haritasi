@@ -1,18 +1,17 @@
 ---
-title: "Uçan Yunuslar Heykeli | Miras Haritası"
-date: 2025-12-25T12:08:35+03:00
+title: "Uçan Yunuslar Heykeli"
+date: "2025-12-25T12:08:35+03:00"
 slug: "ucan-yunuslar-heykeli"
 description: "# Uçan Yunuslar Heykeli: Karşıyaka'nın Simgesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Dolphin_sculpture.JPG/1200px-Dolphin_sculpture.JPG"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karşıyaka"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.103722222,38.451222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Uçan Yunuslar Heykeli: Karşıyaka'nın Simgesi

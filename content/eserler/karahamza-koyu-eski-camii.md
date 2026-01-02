@@ -1,18 +1,17 @@
 ---
-title: "Karahamza Köyü Eski Camii | Miras Haritası"
-date: 2025-12-25T00:08:39+03:00
+title: "Karahamza Köyü Eski Camii"
+date: "2025-12-25T00:08:39+03:00"
 slug: "karahamza-koyu-eski-camii"
 description: "**Karahamza Köyü Eski Camii: Kırklareli'de Bir Önemli Kültür Mirası**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0140877,41.8725395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Karahamza Köyü Eski Camii: Kırklareli'de Bir Önemli Kültür Mirası**

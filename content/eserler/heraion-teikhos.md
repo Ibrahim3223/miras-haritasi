@@ -1,18 +1,17 @@
 ---
-title: "Heraion-Teikhos | Miras Haritası"
-date: 2025-12-25T04:31:51+03:00
+title: "Heraion-Teikhos"
+date: "2025-12-25T04:31:51+03:00"
 slug: "heraion-teikhos"
 description: "## Heraion-Teikhos: Marmara Ereğlisi'nin Gizli Çeşidi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Marmaraereğlisi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6898813,41.0049212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Heraion-Teikhos: Marmara Ereğlisi'nin Gizli Çeşidi

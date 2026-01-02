@@ -1,18 +1,17 @@
 ---
-title: "Selçuk Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:20+03:00
+title: "Selçuk Hamamı"
+date: "2025-12-25T16:25:20+03:00"
 slug: "selcuk-hamami"
 description: "**Selçuk Hamamı: Tarihi ve Kültürel Miras**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.371457,37.95151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Selçuk Hamamı: Tarihi ve Kültürel Miras**

@@ -1,18 +1,17 @@
 ---
-title: "Cevizlik | Miras Haritası"
-date: 2025-12-25T05:33:30+03:00
+title: "Cevizlik"
+date: "2025-12-25T05:33:30+03:00"
 slug: "cevizlik"
 description: "### Cevizlik Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.85993,41.629818"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cevizlik Arkeolojik Sit

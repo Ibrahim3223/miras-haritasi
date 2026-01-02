@@ -1,18 +1,17 @@
 ---
-title: "Ağayeri Topçukumu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:39:55+03:00
+title: "Ağayeri Topçukumu Tümülüsü"
+date: "2025-12-25T07:39:55+03:00"
 slug: "agayeri-topcukumu-tumulusu"
 description: "### Ağayeri Topçukumu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9491215,41.451046"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağayeri Topçukumu Tümülüsü

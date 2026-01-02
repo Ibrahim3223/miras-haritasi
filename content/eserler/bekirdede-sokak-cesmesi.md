@@ -1,18 +1,17 @@
 ---
-title: "Bekirdede Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:42+03:00
+title: "Bekirdede Sokak Çeşmesi"
+date: "2025-12-25T10:54:42+03:00"
 slug: "bekirdede-sokak-cesmesi"
 description: "### Bekirdede Sokak Çeşmesi: Osmangazi, Bursa'da Bir Çağdaş Anıtsal Çeşme..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0632133,40.1868896"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bekirdede Sokak Çeşmesi: Osmangazi, Bursa'da Bir Çağdaş Anıtsal Çeşme

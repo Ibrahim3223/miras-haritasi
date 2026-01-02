@@ -1,18 +1,17 @@
 ---
-title: "Muratlı Atatürk Evi – Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:30+03:00
+title: "Muratlı Atatürk Evi – Etnografya Müzesi"
+date: "2025-12-25T03:49:30+03:00"
 slug: "muratli-ataturk-evi-etnografya-muzesi"
 description: "**Muratlı Atatürk Evi – Etnografya Müzesi**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Muratlı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4993,41.1710014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Muratlı Atatürk Evi – Etnografya Müzesi**

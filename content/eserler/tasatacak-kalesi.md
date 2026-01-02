@@ -1,18 +1,17 @@
 ---
-title: "Taşatacak Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:16+03:00
+title: "Taşatacak Kalesi"
+date: "2025-12-25T01:16:16+03:00"
 slug: "tasatacak-kalesi"
 description: "## Taşatacak Kalesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4458008,38.0779991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşatacak Kalesi

@@ -1,18 +1,17 @@
 ---
-title: "Eski Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:39:46+03:00
+title: "Eski Katolik Kilisesi"
+date: "2025-12-25T09:39:46+03:00"
 slug: "eski-katolik-kilisesi"
 description: "## Eski Katolik Kilisesi: Giresun'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.391045,40.917533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Katolik Kilisesi: Giresun'un Tarihî Bir Mirası

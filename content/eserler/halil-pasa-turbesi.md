@@ -1,18 +1,17 @@
 ---
-title: "Halil Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:06+03:00
+title: "Halil Paşa Türbesi"
+date: "2025-12-25T14:29:06+03:00"
 slug: "halil-pasa-turbesi"
 description: "## Halil Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.015153,41.021812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Paşa Türbesi

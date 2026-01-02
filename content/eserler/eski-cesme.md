@@ -1,18 +1,17 @@
 ---
-title: "Eski Çeşme | Miras Haritası"
-date: 2025-12-25T10:19:17+03:00
+title: "Eski Çeşme"
+date: "2025-12-25T10:19:17+03:00"
 slug: "eski-cesme"
 description: "## Eski Çeşme: Eşme'nin Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Eşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.8988304,38.5771446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Çeşme: Eşme'nin Tarihî Bir Çeşmesi

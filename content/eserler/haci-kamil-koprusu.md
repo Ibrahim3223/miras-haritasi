@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kamil Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:05+03:00
+title: "Hacı Kamil Köprüsü"
+date: "2025-12-25T02:14:05+03:00"
 slug: "haci-kamil-koprusu"
 description: "## Hacı Kamil Köprüsü: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Haliliye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.7923813,37.157032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kamil Köprüsü: Şanlıurfa'nın Tarihi Bir Mirası

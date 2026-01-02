@@ -1,18 +1,17 @@
 ---
-title: "Aynalıkavak Kasrı Hamamı | Miras Haritası"
-date: 2025-12-25T17:04:14+03:00
+title: "Aynalıkavak Kasrı Hamamı"
+date: "2025-12-25T17:04:14+03:00"
 slug: "aynalikavak-kasri-hamami"
 description: "## Aynalıkavak Kasrı Hamamı Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9539642,41.0380402"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aynalıkavak Kasrı Hamamı Tanıtımı

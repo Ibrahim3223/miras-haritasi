@@ -1,18 +1,17 @@
 ---
-title: "Karatekin Köyü Çeşmesi, Korgun | Miras Haritası"
-date: 2025-12-25T12:31:29+03:00
+title: "Karatekin Köyü Çeşmesi, Korgun"
+date: "2025-12-25T12:31:29+03:00"
 slug: "karatekin-koyu-cesmesi-korgun"
 description: "## Karatekin Köyü Çeşmesi: Korgun'un Tarihi Bir Zirvesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Korgun ilçesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.51023927,40.666680768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karatekin Köyü Çeşmesi: Korgun'un Tarihi Bir Zirvesi

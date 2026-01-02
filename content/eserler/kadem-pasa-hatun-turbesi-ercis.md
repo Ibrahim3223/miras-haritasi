@@ -1,18 +1,17 @@
 ---
-title: "Kadem Paşa Hatun Türbesi, Erciş | Miras Haritası"
-date: 2025-12-25T13:55:14+03:00
+title: "Kadem Paşa Hatun Türbesi, Erciş"
+date: "2025-12-25T13:55:14+03:00"
 slug: "kadem-pasa-hatun-turbesi-ercis"
 description: "**Kadem Paşa Hatun Türbesi, Erciş**..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Erciş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.3855247,39.0175095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kadem Paşa Hatun Türbesi, Erciş**

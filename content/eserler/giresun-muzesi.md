@@ -1,18 +1,17 @@
 ---
-title: "Giresun Müzesi | Miras Haritası"
-date: 2025-12-25T03:18:11+03:00
+title: "Giresun Müzesi"
+date: "2025-12-25T03:18:11+03:00"
 slug: "giresun-muzesi"
 description: "## Giresun Müzesi: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.393888888,40.919444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Giresun Müzesi: Giresun'un Tarihi ve Kültürel Mirası

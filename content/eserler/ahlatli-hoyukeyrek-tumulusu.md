@@ -1,18 +1,17 @@
 ---
-title: "Ahlatlı Höyükeyrek Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:43:01+03:00
+title: "Ahlatlı Höyükeyrek Tümülüsü"
+date: "2025-12-25T07:43:01+03:00"
 slug: "ahlatli-hoyukeyrek-tumulusu"
 description: "# Ahlatlı Höyükeyrek Tümülüsü: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2709885,42.0953789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ahlatlı Höyükeyrek Tümülüsü: Tarihî Bir Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Arslan Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:10:53+03:00
+title: "Arslan Dede Türbesi"
+date: "2025-12-25T14:10:53+03:00"
 slug: "arslan-dede-turbesi"
 description: "## Arslan Dede Türbesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.405,40.1481"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arslan Dede Türbesi

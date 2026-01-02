@@ -1,18 +1,17 @@
 ---
-title: "Theangela | Miras Haritası"
-date: 2025-12-25T04:31:39+03:00
+title: "Theangela"
+date: "2025-12-25T04:31:39+03:00"
 slug: "theangela"
 description: "## Theangela: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.59493,37.044491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Theangela: Türkiye'nin Gizli Arkeolojik Mirası

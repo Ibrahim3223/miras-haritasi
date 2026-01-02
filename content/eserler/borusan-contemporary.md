@@ -1,18 +1,17 @@
 ---
-title: "Borusan Contemporary | Miras Haritası"
-date: 2025-12-25T03:46:09+03:00
+title: "Borusan Contemporary"
+date: "2025-12-25T03:46:09+03:00"
 slug: "borusan-contemporary"
 description: "## Borusan Contemporary: İstanbul'un Çağdaş Sanat Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0566292,41.0890427"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Borusan Contemporary: İstanbul'un Çağdaş Sanat Mirası

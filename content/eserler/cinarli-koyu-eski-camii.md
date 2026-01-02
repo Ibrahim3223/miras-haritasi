@@ -1,18 +1,17 @@
 ---
-title: "Çınarlı Köyü Eski Camii | Miras Haritası"
-date: 2025-12-25T00:33:20+03:00
+title: "Çınarlı Köyü Eski Camii"
+date: "2025-12-25T00:33:20+03:00"
 slug: "cinarli-koyu-eski-camii"
 description: "## Çınarlı Köyü Eski Camii..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.388453747,40.052525089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çınarlı Köyü Eski Camii

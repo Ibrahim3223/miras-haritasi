@@ -1,18 +1,17 @@
 ---
-title: "Mor Hadbşabo Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:08+03:00
+title: "Mor Hadbşabo Kilisesi"
+date: "2025-12-25T09:34:08+03:00"
 slug: "mor-hadbsabo-kilisesi"
 description: "### Mor Hadbşabo Kilisesi: Mardin'in Tarihi Bir Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mor_Hadbşabo_Kilisesi_1.jpg/1200px-Mor_Hadbşabo_Kilisesi_1.jpg"
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.4843597,37.408989"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mor Hadbşabo Kilisesi: Mardin'in Tarihi Bir Harikası

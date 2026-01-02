@@ -1,18 +1,17 @@
 ---
-title: "Mihrişah Valide Sultan Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T11:52:33+03:00
+title: "Mihrişah Valide Sultan Çeşmesi, Üsküdar"
+date: "2025-12-25T11:52:33+03:00"
 slug: "mihrisah-valide-sultan-cesmesi-uskudar"
 description: "## Mihrişah Valide Sultan Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.020979,41.013191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi, Üsküdar

@@ -1,18 +1,17 @@
 ---
-title: "Bozoğlu Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:13:20+03:00
+title: "Bozoğlu Köyü Camii"
+date: "2025-12-25T00:13:20+03:00"
 slug: "bozoglu-koyu-camii"
 description: "## Bozoğlu Köyü Camii Tanıtımı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çerkeş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.9200401,40.7843628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozoğlu Köyü Camii Tanıtımı

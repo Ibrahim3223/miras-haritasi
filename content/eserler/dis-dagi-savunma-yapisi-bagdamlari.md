@@ -1,18 +1,17 @@
 ---
-title: "Diş Dağı Savunma Yapısı, Bağdamları | Miras Haritası"
-date: 2025-12-25T01:29:20+03:00
+title: "Diş Dağı Savunma Yapısı, Bağdamları"
+date: "2025-12-25T01:29:20+03:00"
 slug: "dis-dagi-savunma-yapisi-bagdamlari"
 description: "# Diş Dağı Savunma Yapısı, Bağdamları..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.8492947,37.1353035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Diş Dağı Savunma Yapısı, Bağdamları

@@ -1,18 +1,17 @@
 ---
-title: "Tadinin Höyüğü | Miras Haritası"
-date: 2025-12-25T06:36:40+03:00
+title: "Tadinin Höyüğü"
+date: "2025-12-25T06:36:40+03:00"
 slug: "tadinin-hoyugu"
 description: "## Tadinin Höyüğü: Gelibolu'nun Gizli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8356991,40.6412315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tadinin Höyüğü: Gelibolu'nun Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Ovacık Kilise Camii | Miras Haritası"
-date: 2025-12-25T00:06:18+03:00
+title: "Ovacık Kilise Camii"
+date: "2025-12-25T00:06:18+03:00"
 slug: "ovacik-kilise-camii"
 description: "## Ovacık Kilise Camii: Niğde'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8176498,38.0728035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ovacık Kilise Camii: Niğde'nin Gizli Çeşmesi

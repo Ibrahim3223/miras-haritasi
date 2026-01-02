@@ -1,18 +1,17 @@
 ---
-title: "Avanos, Nevşehir'de cami | Miras Haritası"
-date: 2025-12-24T22:06:12+03:00
+title: "Avanos, Nevşehir'de cami"
+date: "2025-12-24T22:06:12+03:00"
 slug: "avanos-nevsehirde-cami"
 description: "# Avanos, Nevşehir'de Bir Cami: Kültür Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8473,38.7191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Avanos, Nevşehir'de Bir Cami: Kültür Mirası

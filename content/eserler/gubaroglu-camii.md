@@ -1,18 +1,17 @@
 ---
-title: "Gubaroğlu Camii | Miras Haritası"
-date: 2025-12-24T23:04:59+03:00
+title: "Gubaroğlu Camii"
+date: "2025-12-24T23:04:59+03:00"
 slug: "gubaroglu-camii"
 description: "## Gubaroğlu Camii: Kayseri'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kayseri_Unknown_Mosque_2135.jpg/1200px-Kayseri_Unknown_Mosque_2135.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4802818,38.7166748"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gubaroğlu Camii: Kayseri'nin Tarihi Bir Mirası

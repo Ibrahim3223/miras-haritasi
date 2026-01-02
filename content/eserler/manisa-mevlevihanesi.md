@@ -1,18 +1,17 @@
 ---
-title: "Manisa Mevlevihanesi | Miras Haritası"
-date: 2025-12-25T03:22:29+03:00
+title: "Manisa Mevlevihanesi"
+date: "2025-12-25T03:22:29+03:00"
 slug: "manisa-mevlevihanesi"
 description: "## Manisa Mevlevihanesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.439916666,38.608416666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manisa Mevlevihanesi

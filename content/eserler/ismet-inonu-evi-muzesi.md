@@ -1,18 +1,17 @@
 ---
-title: "İsmet İnönü Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:26:59+03:00
+title: "İsmet İnönü Evi Müzesi"
+date: "2025-12-25T03:26:59+03:00"
 slug: "ismet-inonu-evi-muzesi"
 description: "## İsmet İnönü Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Adalar_6949.jpg/1200px-Adalar_6949.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.09333333,40.87805556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İsmet İnönü Evi Müzesi

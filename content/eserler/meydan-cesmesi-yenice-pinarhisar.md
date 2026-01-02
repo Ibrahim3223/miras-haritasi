@@ -1,18 +1,17 @@
 ---
-title: "Meydan Çeşmesi (Yenice, Pınarhisar) | Miras Haritası"
-date: 2025-12-25T11:47:11+03:00
+title: "Meydan Çeşmesi (Yenice, Pınarhisar)"
+date: "2025-12-25T11:47:11+03:00"
 slug: "meydan-cesmesi-yenice-pinarhisar"
 description: "## Meydan Çeşmesi (Yenice, Pınarhisar)..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.637555555,41.735861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meydan Çeşmesi (Yenice, Pınarhisar)

@@ -1,18 +1,17 @@
 ---
-title: "Dalkoz Köyü Çeşmesi, Bayramören | Miras Haritası"
-date: 2025-12-25T12:30:06+03:00
+title: "Dalkoz Köyü Çeşmesi, Bayramören"
+date: "2025-12-25T12:30:06+03:00"
 slug: "dalkoz-koyu-cesmesi-bayramoren"
 description: "### Dalkoz Köyü Çeşmesi, Bayramören: Bir Örgü Çeşmesinin Gizemi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Bayramören"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.236621344,40.94690991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dalkoz Köyü Çeşmesi, Bayramören: Bir Örgü Çeşmesinin Gizemi

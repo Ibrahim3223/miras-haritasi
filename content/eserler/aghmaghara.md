@@ -1,18 +1,17 @@
 ---
-title: "Aghmaghara | Miras Haritası"
-date: 2025-12-25T08:53:23+03:00
+title: "Aghmaghara"
+date: "2025-12-25T08:53:23+03:00"
 slug: "aghmaghara"
 description: "## Aghmaghara Kilisesi: Kars'taki Bir Geçmişe Dokunan Eser..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aghmaghara Kilisesi: Kars'taki Bir Geçmişe Dokunan Eser

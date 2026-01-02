@@ -1,18 +1,17 @@
 ---
-title: "Bulancak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:26+03:00
+title: "Bulancak Çeşmesi"
+date: "2025-12-25T10:16:26+03:00"
 slug: "bulancak-cesmesi"
 description: "### Bulancak Çeşmesi: Giresun'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Bulancak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.2310181,40.9388657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bulancak Çeşmesi: Giresun'un Gizli Çeşmesi

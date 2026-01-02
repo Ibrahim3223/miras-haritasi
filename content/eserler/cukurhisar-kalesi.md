@@ -1,18 +1,17 @@
 ---
-title: "Çukurhisar Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:10+03:00
+title: "Çukurhisar Kalesi"
+date: "2025-12-25T01:23:10+03:00"
 slug: "cukurhisar-kalesi"
 description: "**Çukurhisar Kalesi**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.5571556,37.8213387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çukurhisar Kalesi**

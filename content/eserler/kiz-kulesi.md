@@ -1,18 +1,17 @@
 ---
-title: "Kız Kulesi | Miras Haritası"
-date: 2025-12-25T15:40:03+03:00
+title: "Kız Kulesi"
+date: "2025-12-25T15:40:03+03:00"
 slug: "kiz-kulesi"
 description: "## Kız Kulesi: Üsküdar'ın Gizli Çiçeği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Istanbul_asv2020-02_img53_Maiden's_Tower.jpg/1200px-Istanbul_asv2020-02_img53_Maiden's_Tower.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.00416667,41.02111111"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Kız Kulesi: Üsküdar'ın Gizli Çiçeği

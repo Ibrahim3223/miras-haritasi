@@ -1,18 +1,17 @@
 ---
-title: "İzzetpaşa Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:03+03:00
+title: "İzzetpaşa Sokak Çeşmesi"
+date: "2025-12-25T11:50:03+03:00"
 slug: "izzetpasa-sokak-cesmesi"
 description: "## İzzetpaşa Sokak Çeşmesi: Şişli'nin Gizli Çeşmesi..."
 featured_image: ""
-province: "Şişli"
-iller: ["Şişli"]
-district: "Cumhuriyet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Şişli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9866123,41.0554352"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzzetpaşa Sokak Çeşmesi: Şişli'nin Gizli Çeşmesi

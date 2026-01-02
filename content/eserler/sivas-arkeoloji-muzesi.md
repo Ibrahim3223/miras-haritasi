@@ -1,18 +1,17 @@
 ---
-title: "Sivas Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:07+03:00
+title: "Sivas Arkeoloji Müzesi"
+date: "2025-12-25T03:24:07+03:00"
 slug: "sivas-arkeoloji-muzesi"
 description: "### Sivas Arkeoloji Müzesi: Türk Kültür Mirasının Öncüleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sivas_Museum_01.jpg/1200px-Sivas_Museum_01.jpg"
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.011528,39.755389"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sivas Arkeoloji Müzesi: Türk Kültür Mirasının Öncüleri

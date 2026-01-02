@@ -1,18 +1,17 @@
 ---
-title: "Burdur Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:17:23+03:00
+title: "Burdur Saat Kulesi"
+date: "2025-12-25T17:17:23+03:00"
 slug: "burdur-saat-kulesi"
 description: "# Burdur Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burdur_Clock_tower_3232.jpg/1200px-Burdur_Clock_tower_3232.jpg"
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "30.28627,37.71762"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Burdur Saat Kulesi

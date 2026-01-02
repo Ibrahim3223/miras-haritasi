@@ -1,18 +1,17 @@
 ---
-title: "Baltalıkapı | Miras Haritası"
-date: 2025-12-25T06:56:35+03:00
+title: "Baltalıkapı"
+date: "2025-12-25T06:56:35+03:00"
 slug: "baltalikapi"
 description: "## Baltalıkapı: Milas'ın Gizemli Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Milas_Baltalı_Kapı_4949.jpg/1200px-Milas_Baltalı_Kapı_4949.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7855206,37.3162498"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Baltalıkapı: Milas'ın Gizemli Arkeolojik Sitesi

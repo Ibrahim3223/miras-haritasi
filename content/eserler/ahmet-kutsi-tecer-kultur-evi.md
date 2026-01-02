@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Kutsi Tecer Kültür Evi | Miras Haritası"
-date: 2025-12-25T03:46:13+03:00
+title: "Ahmet Kutsi Tecer Kültür Evi"
+date: "2025-12-25T03:46:13+03:00"
 slug: "ahmet-kutsi-tecer-kultur-evi"
 description: "### Ahmet Kutsi Tecer Kültür Evi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemaliye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.5037231,39.2405281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Kutsi Tecer Kültür Evi

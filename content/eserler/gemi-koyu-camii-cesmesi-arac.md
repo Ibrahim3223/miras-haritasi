@@ -1,18 +1,17 @@
 ---
-title: "Gemi Köyü Camii Çeşmesi, Araç | Miras Haritası"
-date: 2025-12-25T12:57:37+03:00
+title: "Gemi Köyü Camii Çeşmesi, Araç"
+date: "2025-12-25T12:57:37+03:00"
 slug: "gemi-koyu-camii-cesmesi-arac"
 description: "## Gemi Köyü Camii Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Araç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.366418684,41.275820581"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gemi Köyü Camii Çeşmesi

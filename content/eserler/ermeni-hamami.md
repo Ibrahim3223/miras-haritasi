@@ -1,18 +1,17 @@
 ---
-title: "Ermeni Hamamı | Miras Haritası"
-date: 2025-12-25T17:08:29+03:00
+title: "Ermeni Hamamı"
+date: "2025-12-25T17:08:29+03:00"
 slug: "ermeni-hamami"
 description: "# Ermeni Hamamı: Sivrihisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.5325489,39.4540558"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ermeni Hamamı: Sivrihisar'ın Tarihi ve Kültürel Mirası

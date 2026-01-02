@@ -1,18 +1,17 @@
 ---
-title: "Bozkurt Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:28:05+03:00
+title: "Bozkurt Merkez Camii"
+date: "2025-12-24T22:28:05+03:00"
 slug: "bozkurt-merkez-camii"
 description: "## Bozkurt Merkez Camii: Kastamonu'nun Tarihi Bir Çatısı..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Bozkurt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.0122681,41.957695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozkurt Merkez Camii: Kastamonu'nun Tarihi Bir Çatısı

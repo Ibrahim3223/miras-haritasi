@@ -1,18 +1,17 @@
 ---
-title: "Yalınayak Hamamı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:45:21+03:00
+title: "Yalınayak Hamamı Çeşmesi"
+date: "2025-12-25T12:45:21+03:00"
 slug: "yalinayak-hamami-cesmesi"
 description: "## Yalınayak Hamamı Çeşmesi: Tarihî Bir Ziyaret Günü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7318954,38.083313"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalınayak Hamamı Çeşmesi: Tarihî Bir Ziyaret Günü

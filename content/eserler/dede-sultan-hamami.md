@@ -1,18 +1,17 @@
 ---
-title: "Dede Sultan Hamamı | Miras Haritası"
-date: 2025-12-25T16:32:53+03:00
+title: "Dede Sultan Hamamı"
+date: "2025-12-25T16:32:53+03:00"
 slug: "dede-sultan-hamami"
 description: "## Dede Sultan Hamamı: Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.7760449,41.3719164"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dede Sultan Hamamı: Kastamonu'nun Tarihi Bir Mirası

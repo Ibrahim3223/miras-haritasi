@@ -1,18 +1,17 @@
 ---
-title: "Bakırlı Çeşme, Tire | Miras Haritası"
-date: 2025-12-25T12:46:30+03:00
+title: "Bakırlı Çeşme, Tire"
+date: "2025-12-25T12:46:30+03:00"
 slug: "bakirli-cesme-tire"
 description: "**Bakırlı Çeşme: Tire'nin Tarihi Bir Çeşmesi**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.738451,38.0841179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bakırlı Çeşme: Tire'nin Tarihi Bir Çeşmesi**

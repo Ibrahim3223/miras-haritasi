@@ -1,18 +1,17 @@
 ---
-title: "Mor Sobo Kilisesi | Miras Haritası"
-date: 2025-12-25T09:41:13+03:00
+title: "Mor Sobo Kilisesi"
+date: "2025-12-25T09:41:13+03:00"
 slug: "mor-sobo-kilisesi"
 description: "## Mor Sobo Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.610027777,37.4765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mor Sobo Kilisesi

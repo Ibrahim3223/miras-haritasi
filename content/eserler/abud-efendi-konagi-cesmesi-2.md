@@ -1,18 +1,17 @@
 ---
-title: "Abud Efendi Konağı Çeşmesi – 2 | Miras Haritası"
-date: 2025-12-25T11:50:18+03:00
+title: "Abud Efendi Konağı Çeşmesi – 2"
+date: "2025-12-25T11:50:18+03:00"
 slug: "abud-efendi-konagi-cesmesi-2"
 description: "## Abud Efendi Konağı Çeşmesi - 2: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Alemdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9784336,41.0090942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abud Efendi Konağı Çeşmesi - 2: Fatih'in Gizli Çeşmesi

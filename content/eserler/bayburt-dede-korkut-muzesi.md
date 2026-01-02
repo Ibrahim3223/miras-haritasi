@@ -1,18 +1,17 @@
 ---
-title: "Bayburt Dede Korkut Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:14+03:00
+title: "Bayburt Dede Korkut Müzesi"
+date: "2025-12-25T03:19:14+03:00"
 slug: "bayburt-dede-korkut-muzesi"
 description: "## Bayburt Dede Korkut Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayburt Dede Korkut Müzesi

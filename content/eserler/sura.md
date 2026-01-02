@@ -1,18 +1,17 @@
 ---
-title: "Sura | Miras Haritası"
-date: 2025-12-25T04:23:22+03:00
+title: "Sura"
+date: "2025-12-25T04:23:22+03:00"
 slug: "sura"
 description: "## Sura Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.94480556,36.24402778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sura Arkeolojik Sit

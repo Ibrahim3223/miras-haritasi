@@ -1,18 +1,17 @@
 ---
-title: "Reyhaniye Camii | Miras Haritası"
-date: 2025-12-24T22:37:53+03:00
+title: "Reyhaniye Camii"
+date: "2025-12-24T22:37:53+03:00"
 slug: "reyhaniye-camii"
 description: "## Reyhaniye Camii: Mardin'in Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mardin"
+province: "Mardin"
+iller: '["Mardin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.7419281,37.3134766"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Reyhaniye Camii: Mardin'in Kültürel Mirası

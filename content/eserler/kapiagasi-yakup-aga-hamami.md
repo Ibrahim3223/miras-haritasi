@@ -1,18 +1,17 @@
 ---
-title: "Kapıağası Yakup Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:00+03:00
+title: "Kapıağası Yakup Ağa Hamamı"
+date: "2025-12-25T16:40:00+03:00"
 slug: "kapiagasi-yakup-aga-hamami"
 description: "## Kapıağası Yakup Ağa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.93391,41.001499"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapıağası Yakup Ağa Hamamı

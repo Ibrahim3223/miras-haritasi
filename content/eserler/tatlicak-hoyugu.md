@@ -1,18 +1,17 @@
 ---
-title: "Tatlıcak Höyüğü | Miras Haritası"
-date: 2025-12-25T13:43:47+03:00
+title: "Tatlıcak Höyüğü"
+date: "2025-12-25T13:43:47+03:00"
 slug: "tatlicak-hoyugu"
 description: "## Tatlıcak Höyüğü: Sivas'ta Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.83667,39.58988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatlıcak Höyüğü: Sivas'ta Bir Anıtın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Ziya Gökalp’in Mezarı | Miras Haritası"
-date: 2025-12-25T13:34:55+03:00
+title: "Ziya Gökalp’in Mezarı"
+date: "2025-12-25T13:34:55+03:00"
 slug: "ziya-gokalpin-mezari"
 description: "# Ziya Gökalp'in Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9728528,41.0086872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ziya Gökalp'in Mezarı

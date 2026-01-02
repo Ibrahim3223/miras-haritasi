@@ -1,18 +1,17 @@
 ---
-title: "Büyüktepe Höyük ve Nekropolü | Miras Haritası"
-date: 2025-12-25T06:16:55+03:00
+title: "Büyüktepe Höyük ve Nekropolü"
+date: "2025-12-25T06:16:55+03:00"
 slug: "buyuktepe-hoyuk-ve-nekropolu"
 description: "### Büyüktepe Höyük ve Nekropolü..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.4352226,40.5688057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Büyüktepe Höyük ve Nekropolü

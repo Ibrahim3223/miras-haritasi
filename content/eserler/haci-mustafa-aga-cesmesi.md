@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mustafa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:30:03+03:00
+title: "Hacı Mustafa Ağa Çeşmesi"
+date: "2025-12-25T10:30:03+03:00"
 slug: "haci-mustafa-aga-cesmesi"
 description: "### Hacı Mustafa Ağa Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6083336,37.7251511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Mustafa Ağa Çeşmesi

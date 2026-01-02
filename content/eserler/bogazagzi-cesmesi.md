@@ -1,18 +1,17 @@
 ---
-title: "Boğazağzı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:27+03:00
+title: "Boğazağzı Çeşmesi"
+date: "2025-12-25T10:48:27+03:00"
 slug: "bogazagzi-cesmesi"
 description: "## Boğazağzı Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Acıgöl"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4846001,38.6348"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boğazağzı Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Choria | Miras Haritası"
-date: 2025-12-25T05:03:47+03:00
+title: "Choria"
+date: "2025-12-25T05:03:47+03:00"
 slug: "choria"
 description: "## Choria: Geçmişin Eseri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.87828,38.77591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Choria: Geçmişin Eseri

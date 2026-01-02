@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Yaka – Bozdoğan | Miras Haritası"
-date: 2025-12-25T11:56:56+03:00
+title: "Çeşme, Yaka – Bozdoğan"
+date: "2025-12-25T11:56:56+03:00"
 slug: "cesme-yaka-bozdogan"
 description: "## Bozdoğan Çeşme: Tarihi ve Zenginliği..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3614788,37.6370506"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozdoğan Çeşme: Tarihi ve Zenginliği

@@ -1,18 +1,17 @@
 ---
-title: "Karahayıt Büyük Hamam | Miras Haritası"
-date: 2025-12-25T16:56:21+03:00
+title: "Karahayıt Büyük Hamam"
+date: "2025-12-25T16:56:21+03:00"
 slug: "karahayit-buyuk-hamam"
 description: "# Karahayıt Büyük Hamamı: Pamukkale'nin Gizemli Hamamı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.1022758,37.9605331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karahayıt Büyük Hamamı: Pamukkale'nin Gizemli Hamamı

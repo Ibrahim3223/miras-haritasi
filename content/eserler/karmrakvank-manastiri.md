@@ -1,18 +1,17 @@
 ---
-title: "Karmrakvank Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:46+03:00
+title: "Karmrakvank Manastırı"
+date: "2025-12-25T09:53:46+03:00"
 slug: "karmrakvank-manastiri"
 description: "## Karmrakvank Manastırı..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gevaş"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.904281,38.372315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karmrakvank Manastırı

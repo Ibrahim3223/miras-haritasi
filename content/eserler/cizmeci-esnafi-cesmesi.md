@@ -1,18 +1,17 @@
 ---
-title: "Çizmeci Esnafı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:52:18+03:00
+title: "Çizmeci Esnafı Çeşmesi"
+date: "2025-12-25T12:52:18+03:00"
 slug: "cizmeci-esnafi-cesmesi"
 description: "## Çizmeci Esnafı Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1784992,39.1216011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çizmeci Esnafı Çeşmesi

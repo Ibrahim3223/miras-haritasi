@@ -1,18 +1,17 @@
 ---
-title: "Balgatia | Miras Haritası"
-date: 2025-12-25T04:59:00+03:00
+title: "Balgatia"
+date: "2025-12-25T04:59:00+03:00"
 slug: "balgatia"
 description: "### Balgatia Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.612625,40.151738"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balgatia Arkeolojik Sitesi

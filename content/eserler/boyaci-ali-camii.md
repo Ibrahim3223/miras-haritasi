@@ -1,18 +1,17 @@
 ---
-title: "Boyacı Ali Camii | Miras Haritası"
-date: 2025-12-24T22:28:23+03:00
+title: "Boyacı Ali Camii"
+date: "2025-12-24T22:28:23+03:00"
 slug: "boyaci-ali-camii"
 description: "## Boyacı Ali Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.0475006,37.5157509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boyacı Ali Camii

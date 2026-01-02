@@ -1,18 +1,17 @@
 ---
-title: "Archalla | Miras Haritası"
-date: 2025-12-25T05:09:36+03:00
+title: "Archalla"
+date: "2025-12-25T05:09:36+03:00"
 slug: "archalla"
 description: "### Archalla Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.295289,38.83458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Archalla Arkeolojik Sit

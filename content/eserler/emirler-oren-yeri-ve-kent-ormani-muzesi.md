@@ -1,18 +1,17 @@
 ---
-title: "Emirler Ören Yeri ve Kent Ormanı Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:44+03:00
+title: "Emirler Ören Yeri ve Kent Ormanı Müzesi"
+date: "2025-12-25T03:31:44+03:00"
 slug: "emirler-oren-yeri-ve-kent-ormani-muzesi"
 description: "## Emirler Ören Yeri ve Kent Ormanı Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emirler Ören Yeri ve Kent Ormanı Müzesi

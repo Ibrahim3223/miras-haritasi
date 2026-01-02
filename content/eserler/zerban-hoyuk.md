@@ -1,18 +1,17 @@
 ---
-title: "Zerban Höyük | Miras Haritası"
-date: 2025-12-25T06:16:21+03:00
+title: "Zerban Höyük"
+date: "2025-12-25T06:16:21+03:00"
 slug: "zerban-hoyuk"
 description: "## Zerban Höyük: Tarih ve Mirası..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Çelikhan ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.180032144,38.027334719"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zerban Höyük: Tarih ve Mirası

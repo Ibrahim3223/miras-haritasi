@@ -1,18 +1,17 @@
 ---
-title: "Üç Bacılar Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:28+03:00
+title: "Üç Bacılar Türbesi"
+date: "2025-12-25T15:27:28+03:00"
 slug: "uc-bacilar-turbesi"
 description: "## Üç Bacılar Türbesi..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.1065254,38.4061089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üç Bacılar Türbesi

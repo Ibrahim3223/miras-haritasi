@@ -1,18 +1,17 @@
 ---
-title: "Haştırın Kalesi | Miras Haritası"
-date: 2025-12-25T01:29:47+03:00
+title: "Haştırın Kalesi"
+date: "2025-12-25T01:29:47+03:00"
 slug: "hastirin-kalesi"
 description: "## Haştırın Kalesi: Kahramanmaraş'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Andırın"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.363987,37.5280228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haştırın Kalesi: Kahramanmaraş'ın Tarihi Bir Mirası

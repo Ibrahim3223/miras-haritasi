@@ -1,18 +1,17 @@
 ---
-title: "Akçaova Höyüğü | Miras Haritası"
-date: 2025-12-25T06:29:01+03:00
+title: "Akçaova Höyüğü"
+date: "2025-12-25T06:29:01+03:00"
 slug: "akcaova-hoyugu"
 description: "### Akçaova Höyüğü: Ankara'nın Gizli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Balâ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.2572241,39.6295863"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçaova Höyüğü: Ankara'nın Gizli Mirası

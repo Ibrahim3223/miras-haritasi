@@ -1,18 +1,17 @@
 ---
-title: "Bab-ı Ali Alay Köşkü Kapısı | Miras Haritası"
-date: 2025-12-25T15:36:46+03:00
+title: "Bab-ı Ali Alay Köşkü Kapısı"
+date: "2025-12-25T15:36:46+03:00"
 slug: "bab-i-ali-alay-kosku-kapisi"
 description: "### Bab-ı Ali Alay Köşkü Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.978018,41.01115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bab-ı Ali Alay Köşkü Kapısı

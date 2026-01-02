@@ -1,18 +1,17 @@
 ---
-title: "Aliçerçi Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:25:29+03:00
+title: "Aliçerçi Köyü Çeşmesi"
+date: "2025-12-25T12:25:29+03:00"
 slug: "alicerci-koyu-cesmesi"
 description: "### Aliçerçi Köyü Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ahırlı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.144110908,37.254788348"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aliçerçi Köyü Çeşmesi

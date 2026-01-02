@@ -1,18 +1,17 @@
 ---
-title: "Ariarathia | Miras Haritası"
-date: 2025-12-25T04:34:08+03:00
+title: "Ariarathia"
+date: "2025-12-25T04:34:08+03:00"
 slug: "ariarathia"
 description: "## Ariarathia: Kayseri'nin Gizemli Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.391,38.722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ariarathia: Kayseri'nin Gizemli Arkeolojik Sit

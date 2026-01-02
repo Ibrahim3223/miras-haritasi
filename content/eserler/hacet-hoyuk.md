@@ -1,18 +1,17 @@
 ---
-title: "Hacet Höyük | Miras Haritası"
-date: 2025-12-25T05:57:08+03:00
+title: "Hacet Höyük"
+date: "2025-12-25T05:57:08+03:00"
 slug: "hacet-hoyuk"
 description: "# Hacet Höyük: Mucur'un Gizli Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4630203,39.1445732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacet Höyük: Mucur'un Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Topraktepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:00:36+03:00
+title: "Topraktepe Tümülüsü"
+date: "2025-12-25T08:00:36+03:00"
 slug: "topraktepe-tumulusu"
 description: "## Topraktepe Tümülüsü: Manisa'nın Gizli Kutsal Alanı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7451458,38.5705299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topraktepe Tümülüsü: Manisa'nın Gizli Kutsal Alanı

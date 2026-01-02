@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Bey Cami | Miras Haritası"
-date: 2025-12-24T21:54:05+03:00
+title: "Mahmut Bey Cami"
+date: "2025-12-24T21:54:05+03:00"
 slug: "mahmut-bey-cami"
 description: "# Mahmut Bey Camii: Kastamonu'da Bir Osmanlı Dönemi Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mahmut_Bey_Mosque_1642.jpg/1200px-Mahmut_Bey_Mosque_1642.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kastamonu"
+province: "Kastamonu"
+iller: '["Kastamonu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.688017,41.480531"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Mahmut Bey Camii: Kastamonu'da Bir Osmanlı Dönemi Eseri

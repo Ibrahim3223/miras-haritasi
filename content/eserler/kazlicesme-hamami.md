@@ -1,18 +1,17 @@
 ---
-title: "Kazlıçeşme Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:15+03:00
+title: "Kazlıçeşme Hamamı"
+date: "2025-12-25T16:35:15+03:00"
 slug: "kazlicesme-hamami"
 description: "## Kazlıçeşme Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.915554,40.990661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazlıçeşme Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Hamam Sokak Çeşmesi, Urla | Miras Haritası"
-date: 2025-12-25T12:00:03+03:00
+title: "Hamam Sokak Çeşmesi, Urla"
+date: "2025-12-25T12:00:03+03:00"
 slug: "hamam-sokak-cesmesi-urla"
 description: "# Hamam Sokak Çeşmesi, Urla..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7658691,38.3232193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamam Sokak Çeşmesi, Urla

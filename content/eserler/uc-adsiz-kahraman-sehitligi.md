@@ -1,18 +1,17 @@
 ---
-title: "Üç Adsız Kahraman Şehitliği | Miras Haritası"
-date: 2025-12-25T16:02:40+03:00
+title: "Üç Adsız Kahraman Şehitliği"
+date: "2025-12-25T16:02:40+03:00"
 slug: "uc-adsiz-kahraman-sehitligi"
 description: "## Üç Adsız Kahraman Şehitliği..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5583477,41.6829491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üç Adsız Kahraman Şehitliği

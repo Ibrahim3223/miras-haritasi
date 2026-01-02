@@ -1,18 +1,17 @@
 ---
-title: "Galata İtalyan Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:59+03:00
+title: "Galata İtalyan Sinagogu"
+date: "2025-12-25T16:14:59+03:00"
 slug: "galata-italyan-sinagogu"
 description: "### Galata İtalyan Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.972615,41.025423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Galata İtalyan Sinagogu

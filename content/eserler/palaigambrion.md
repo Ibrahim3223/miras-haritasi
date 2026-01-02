@@ -1,18 +1,17 @@
 ---
-title: "Palaigambrion | Miras Haritası"
-date: 2025-12-25T05:11:03+03:00
+title: "Palaigambrion"
+date: "2025-12-25T05:11:03+03:00"
 slug: "palaigambrion"
 description: "## Palaigambrion: Kıbrıs'ta Eski Bir Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palaigambrion: Kıbrıs'ta Eski Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "Kayyumoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:46:02+03:00
+title: "Kayyumoğlu Çeşmesi"
+date: "2025-12-25T11:46:02+03:00"
 slug: "kayyumoglu-cesmesi"
 description: "## Kayyumoğlu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kayyumoğlu_Çeşmesi_02.jpg/1200px-Kayyumoğlu_Çeşmesi_02.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.22925,41.734305555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kayyumoğlu Çeşmesi

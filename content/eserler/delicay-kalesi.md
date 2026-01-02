@@ -1,18 +1,17 @@
 ---
-title: "Deliçay Kalesi | Miras Haritası"
-date: 2025-12-25T01:17:08+03:00
+title: "Deliçay Kalesi"
+date: "2025-12-25T01:17:08+03:00"
 slug: "delicay-kalesi"
 description: "## Deliçay Kalesi: Erciş'in Tarihî Bir Çehresini..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: ["Van Vilayeti"]
+iller: '["Van Vilayeti"]'
 district: "Erciş"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.472196,39.000814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deliçay Kalesi: Erciş'in Tarihî Bir Çehresini

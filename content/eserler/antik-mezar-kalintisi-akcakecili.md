@@ -1,18 +1,17 @@
 ---
-title: "Antik Mezar Kalıntısı, Akçakeçili | Miras Haritası"
-date: 2025-12-25T14:03:57+03:00
+title: "Antik Mezar Kalıntısı, Akçakeçili"
+date: "2025-12-25T14:03:57+03:00"
 slug: "antik-mezar-kalintisi-akcakecili"
 description: "## Antik Mezar Kalıntısı, Akçakeçili..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.165434435,39.697977727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antik Mezar Kalıntısı, Akçakeçili

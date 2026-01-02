@@ -1,18 +1,17 @@
 ---
-title: "Milet Capito Hamamı | Miras Haritası"
-date: 2025-12-25T16:56:48+03:00
+title: "Milet Capito Hamamı"
+date: "2025-12-25T16:56:48+03:00"
 slug: "milet-capito-hamami"
 description: "## Milet Capito Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.2811356,37.5292244"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milet Capito Hamamı: Tarihi ve Kültürel Miras

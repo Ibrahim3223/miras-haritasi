@@ -1,18 +1,17 @@
 ---
-title: "Düğümlü Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:34:22+03:00
+title: "Düğümlü Baba Kabri"
+date: "2025-12-25T13:34:22+03:00"
 slug: "dugumlu-baba-kabri"
 description: "## Düğümlü Baba Kabri: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.976955261,41.006928164"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düğümlü Baba Kabri: İstanbul'un Tarihi Bir Mirası

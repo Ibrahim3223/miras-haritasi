@@ -1,18 +1,17 @@
 ---
-title: "Ebussuud Efendi Mezarı | Miras Haritası"
-date: 2025-12-25T13:27:48+03:00
+title: "Ebussuud Efendi Mezarı"
+date: "2025-12-25T13:27:48+03:00"
 slug: "ebussuud-efendi-mezari"
 description: "## Ebussuud Efendi Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Şeyhülislam_Ebussuud_Efendi_Mezar_Taşı.jpg/1200px-Şeyhülislam_Ebussuud_Efendi_Mezar_Taşı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.934038769,41.047340787"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ebussuud Efendi Mezarı

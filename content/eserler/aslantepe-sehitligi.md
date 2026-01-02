@@ -1,18 +1,17 @@
 ---
-title: "Aslantepe Şehitliği | Miras Haritası"
-date: 2025-12-25T16:04:52+03:00
+title: "Aslantepe Şehitliği"
+date: "2025-12-25T16:04:52+03:00"
 slug: "aslantepe-sehitligi"
 description: "## Aslantepe Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2731037,40.3340454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aslantepe Şehitliği

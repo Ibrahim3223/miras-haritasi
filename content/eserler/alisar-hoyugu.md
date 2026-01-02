@@ -1,18 +1,17 @@
 ---
-title: "Alişar Höyüğü | Miras Haritası"
-date: 2025-12-25T05:54:43+03:00
+title: "Alişar Höyüğü"
+date: "2025-12-25T05:54:43+03:00"
 slug: "alisar-hoyugu"
 description: "### Alişar Höyüğü: Yozgat'ın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Alişar_Höyük_02.jpg/1200px-Alişar_Höyük_02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.26138889,39.60611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Alişar Höyüğü: Yozgat'ın Gizli Mirası

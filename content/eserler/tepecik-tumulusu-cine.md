@@ -1,18 +1,17 @@
 ---
-title: "Tepecik Tümülüsü, Çine | Miras Haritası"
-date: 2025-12-25T07:39:48+03:00
+title: "Tepecik Tümülüsü, Çine"
+date: "2025-12-25T07:39:48+03:00"
 slug: "tepecik-tumulusu-cine"
 description: "## Tepecik Tümülüsü: Aydın'ın Gizli Tarihi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0006008,37.5917015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepecik Tümülüsü: Aydın'ın Gizli Tarihi

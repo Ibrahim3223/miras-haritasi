@@ -1,18 +1,17 @@
 ---
-title: "Metroon | Miras Haritası"
-date: 2025-12-25T05:39:20+03:00
+title: "Metroon"
+date: "2025-12-25T05:39:20+03:00"
 slug: "metroon"
 description: "# Metroon: Zonguldak'ta Geç Antik Dönem'in Gizemi..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Buruncuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.481666666,41.346666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Metroon: Zonguldak'ta Geç Antik Dönem'in Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Çeribaşı Camii | Miras Haritası"
-date: 2025-12-24T22:50:52+03:00
+title: "Çeribaşı Camii"
+date: "2025-12-24T22:50:52+03:00"
 slug: "ceribasi-camii"
 description: "## Çeribaşı Camii: İstanbul'un Gizli Çarpıcılarından Birisi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.93553,41.046822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeribaşı Camii: İstanbul'un Gizli Çarpıcılarından Birisi

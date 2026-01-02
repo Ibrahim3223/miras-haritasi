@@ -1,18 +1,17 @@
 ---
-title: "Haznedarlı Camii | Miras Haritası"
-date: 2025-12-24T23:34:15+03:00
+title: "Haznedarlı Camii"
+date: "2025-12-24T23:34:15+03:00"
 slug: "haznedarli-camii"
 description: "## Haznedarlı Camii: Kahramanmaraş'taki Tarihî Bir Cennet..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9433365,37.5837555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haznedarlı Camii: Kahramanmaraş'taki Tarihî Bir Cennet

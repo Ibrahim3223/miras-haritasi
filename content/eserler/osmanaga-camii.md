@@ -1,18 +1,17 @@
 ---
-title: "Osmanağa Camii | Miras Haritası"
-date: 2025-12-24T21:40:45+03:00
+title: "Osmanağa Camii"
+date: "2025-12-24T21:40:45+03:00"
 slug: "osmanaga-camii"
 description: "## Osmanağa Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2021-04-04_Osmanaga-camii-Kadikoy.jpg/1200px-2021-04-04_Osmanaga-camii-Kadikoy.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.02618,40.99086"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Osmanağa Camii: İstanbul'un Gizli Çeşmesi

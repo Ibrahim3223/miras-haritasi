@@ -1,18 +1,17 @@
 ---
-title: "Abdi Kadı Mescidi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:43:10+03:00
+title: "Abdi Kadı Mescidi Çeşmesi"
+date: "2025-12-25T10:43:10+03:00"
 slug: "abdi-kadi-mescidi-cesmesi"
 description: "### Abdi Kadı Mescidi Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5369396,38.7606049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdi Kadı Mescidi Çeşmesi

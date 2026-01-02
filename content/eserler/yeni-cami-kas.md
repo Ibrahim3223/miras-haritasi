@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami (Kaş) | Miras Haritası"
-date: 2025-12-24T23:51:37+03:00
+title: "Yeni Cami (Kaş)"
+date: "2025-12-24T23:51:37+03:00"
 slug: "yeni-cami-kas"
 description: "## Yeni Cami (Kaş)..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.6376858,36.1999321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Cami (Kaş)

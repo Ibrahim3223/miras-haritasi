@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Kayaışık | Miras Haritası"
-date: 2025-12-25T02:53:42+03:00
+title: "Roma Köprüsü, Kayaışık"
+date: "2025-12-25T02:53:42+03:00"
 slug: "roma-koprusu-kayaisik"
 description: "**Roma Köprüsü, Kayaışık**..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Simav"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9919354,38.8728205"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Roma Köprüsü, Kayaışık**

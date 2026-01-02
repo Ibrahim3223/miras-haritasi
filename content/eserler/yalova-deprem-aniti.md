@@ -1,18 +1,17 @@
 ---
-title: "Yalova Deprem Anıtı | Miras Haritası"
-date: 2025-12-25T15:40:38+03:00
+title: "Yalova Deprem Anıtı"
+date: "2025-12-25T15:40:38+03:00"
 slug: "yalova-deprem-aniti"
 description: "## Yalova Deprem Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/YalovaEarthquakeMonument_(3).JPG/1200px-YalovaEarthquakeMonument_(3).JPG"
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Yalova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.25333333,40.65777778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yalova Deprem Anıtı

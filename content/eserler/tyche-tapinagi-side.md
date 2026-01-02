@@ -1,18 +1,17 @@
 ---
-title: "Tyche Tapınağı (Side) | Miras Haritası"
-date: 2025-12-25T08:26:24+03:00
+title: "Tyche Tapınağı (Side)"
+date: "2025-12-25T08:26:24+03:00"
 slug: "tyche-tapinagi-side"
 description: "## Tyche Tapınağı: Side'deki Antik Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Side_Handelsagora.jpg/1200px-Side_Handelsagora.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.391189395,36.768358391"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tyche Tapınağı: Side'deki Antik Bir Miras

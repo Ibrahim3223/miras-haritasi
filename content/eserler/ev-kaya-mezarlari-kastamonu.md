@@ -1,18 +1,17 @@
 ---
-title: "Ev Kaya Mezarları, Kastamonu | Miras Haritası"
-date: 2025-12-25T13:21:00+03:00
+title: "Ev Kaya Mezarları, Kastamonu"
+date: "2025-12-25T13:21:00+03:00"
 slug: "ev-kaya-mezarlari-kastamonu"
 description: "### Ev Kaya Mezarları, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7698174,41.3699722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ev Kaya Mezarları, Kastamonu

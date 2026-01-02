@@ -1,18 +1,17 @@
 ---
-title: "Bezmialem Valide Sultan Çeşmesi, Maltepe | Miras Haritası"
-date: 2025-12-25T11:51:25+03:00
+title: "Bezmialem Valide Sultan Çeşmesi, Maltepe"
+date: "2025-12-25T11:51:25+03:00"
 slug: "bezmialem-valide-sultan-cesmesi-maltepe"
 description: "## Bezmialem Valide Sultan Çeşmesi: İstanbul'un Gizli Cevheri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.926237,41.022667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bezmialem Valide Sultan Çeşmesi: İstanbul'un Gizli Cevheri

@@ -1,18 +1,17 @@
 ---
-title: "Yoğuntaş Sabuncu Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:50:42+03:00
+title: "Yoğuntaş Sabuncu Tümülüsü"
+date: "2025-12-25T07:50:42+03:00"
 slug: "yoguntas-sabuncu-tumulusu"
 description: "### Yoğuntaş Sabuncu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0226421,41.8046913"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yoğuntaş Sabuncu Tümülüsü

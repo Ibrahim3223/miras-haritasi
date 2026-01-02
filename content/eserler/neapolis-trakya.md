@@ -1,18 +1,17 @@
 ---
-title: "Neapolis (Trakya) | Miras Haritası"
-date: 2025-12-25T04:26:21+03:00
+title: "Neapolis (Trakya)"
+date: "2025-12-25T04:26:21+03:00"
 slug: "neapolis-trakya"
 description: "## Neapolis (Trakya) Arkeolojik Sit..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.181904,40.636065"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Neapolis (Trakya) Arkeolojik Sit

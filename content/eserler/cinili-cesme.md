@@ -1,18 +1,17 @@
 ---
-title: "Çinili Çeşme | Miras Haritası"
-date: 2025-12-25T10:16:50+03:00
+title: "Çinili Çeşme"
+date: "2025-12-25T10:16:50+03:00"
 slug: "cinili-cesme"
 description: "### Çinili Çeşme: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9769917,39.4174652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çinili Çeşme: Kütahya'nın Tarihi ve Kültürel Mirası

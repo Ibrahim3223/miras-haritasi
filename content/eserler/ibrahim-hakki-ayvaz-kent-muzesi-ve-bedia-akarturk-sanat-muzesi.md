@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Hakkı Ayvaz Kent Müzesi ve Bedia Akartürk Sanat Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:42+03:00
+title: "İbrahim Hakkı Ayvaz Kent Müzesi ve Bedia Akartürk Sanat Müzesi"
+date: "2025-12-25T04:06:42+03:00"
 slug: "ibrahim-hakki-ayvaz-kent-muzesi-ve-bedia-akarturk-sanat-muzesi"
 description: "### İbrahim Hakkı Ayvaz Kent Müzesi ve Bedia Akartürk Sanat Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.9669704,38.2266426"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İbrahim Hakkı Ayvaz Kent Müzesi ve Bedia Akartürk Sanat Müzesi

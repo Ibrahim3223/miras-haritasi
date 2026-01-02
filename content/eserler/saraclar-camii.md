@@ -1,18 +1,17 @@
 ---
-title: "Saraçlar Camii | Miras Haritası"
-date: 2025-12-24T22:42:21+03:00
+title: "Saraçlar Camii"
+date: "2025-12-24T22:42:21+03:00"
 slug: "saraclar-camii"
 description: "### Saraçlar Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8622589,39.9366188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saraçlar Camii

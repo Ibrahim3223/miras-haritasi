@@ -1,18 +1,17 @@
 ---
-title: "Analıca Camii | Miras Haritası"
-date: 2025-12-24T22:14:50+03:00
+title: "Analıca Camii"
+date: "2025-12-24T22:14:50+03:00"
 slug: "analica-camii"
 description: "### Analıca Camii..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9769039,39.4185066"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Analıca Camii

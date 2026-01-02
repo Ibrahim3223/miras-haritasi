@@ -1,18 +1,17 @@
 ---
-title: "Pisidialı Meryem Ana Kilisesi | Miras Haritası"
-date: 2025-12-25T08:54:22+03:00
+title: "Pisidialı Meryem Ana Kilisesi"
+date: "2025-12-25T08:54:22+03:00"
 slug: "pisidiali-meryem-ana-kilisesi"
 description: "## Pisidialı Meryem Ana Kilisesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.152020045,36.498047635"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pisidialı Meryem Ana Kilisesi

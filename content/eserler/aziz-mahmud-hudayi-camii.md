@@ -1,18 +1,17 @@
 ---
-title: "Aziz Mahmud Hüdayi Camii | Miras Haritası"
-date: 2025-12-24T21:55:37+03:00
+title: "Aziz Mahmud Hüdayi Camii"
+date: "2025-12-24T21:55:37+03:00"
 slug: "aziz-mahmud-hudayi-camii"
 description: "## Aziz Mahmud Hüdayi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aziz_Mahmud_Hüdayi_Camii_2.jpg/1200px-Aziz_Mahmud_Hüdayi_Camii_2.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0144308,41.0222667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Mahmud Hüdayi Camii

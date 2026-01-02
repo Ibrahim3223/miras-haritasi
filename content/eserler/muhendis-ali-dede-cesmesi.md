@@ -1,18 +1,17 @@
 ---
-title: "Mühendis Ali Dede Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:12:30+03:00
+title: "Mühendis Ali Dede Çeşmesi"
+date: "2025-12-25T11:12:30+03:00"
 slug: "muhendis-ali-dede-cesmesi"
 description: "## Mühendis Ali Dede Çeşmesi: Nişancı'daki Bir Geçit Akan Su Anıtı..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.934408,41.03906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mühendis Ali Dede Çeşmesi: Nişancı'daki Bir Geçit Akan Su Anıtı

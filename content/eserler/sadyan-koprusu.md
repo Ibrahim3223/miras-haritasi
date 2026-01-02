@@ -1,18 +1,17 @@
 ---
-title: "Şadyan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:48+03:00
+title: "Şadyan Köprüsü"
+date: "2025-12-25T02:14:48+03:00"
 slug: "sadyan-koprusu"
 description: "## Şadyan Köprüsü..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Maden"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.6213455,38.4146233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şadyan Köprüsü

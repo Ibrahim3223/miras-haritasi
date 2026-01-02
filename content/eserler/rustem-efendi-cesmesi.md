@@ -1,18 +1,17 @@
 ---
-title: "Rüstem Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:52+03:00
+title: "Rüstem Efendi Çeşmesi"
+date: "2025-12-25T10:56:52+03:00"
 slug: "rustem-efendi-cesmesi"
 description: "## Rüstem Efendi Çeşmesi: Tekirdağ'ın Kültürel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5157585,40.9763756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rüstem Efendi Çeşmesi: Tekirdağ'ın Kültürel Mirası

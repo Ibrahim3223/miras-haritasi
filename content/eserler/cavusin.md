@@ -1,18 +1,17 @@
 ---
-title: "Çavuşin | Miras Haritası"
-date: 2025-12-25T03:33:36+03:00
+title: "Çavuşin"
+date: "2025-12-25T03:33:36+03:00"
 slug: "cavusin"
 description: "## Çavuşin: Göbeklitepe'nin Öncüsü, Anadolu'nun Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuşin: Göbeklitepe'nin Öncüsü, Anadolu'nun Gizemi

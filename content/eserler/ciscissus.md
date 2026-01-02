@@ -1,18 +1,17 @@
 ---
-title: "Ciscissus | Miras Haritası"
-date: 2025-12-25T05:03:12+03:00
+title: "Ciscissus"
+date: "2025-12-25T05:03:12+03:00"
 slug: "ciscissus"
 description: "# Ciscissus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.786827,38.15395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ciscissus Arkeolojik Sit

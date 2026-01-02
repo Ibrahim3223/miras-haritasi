@@ -1,18 +1,17 @@
 ---
-title: "Zahruddin Ali Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:47+03:00
+title: "Zahruddin Ali Türbesi"
+date: "2025-12-25T14:52:47+03:00"
 slug: "zahruddin-ali-turbesi"
 description: "## Zahruddin Ali Türbesi: Konya'nın Tarihi Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4281006,37.8335648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zahruddin Ali Türbesi: Konya'nın Tarihi Mirası

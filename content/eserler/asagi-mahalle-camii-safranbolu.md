@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Mahalle Camii (Safranbolu) | Miras Haritası"
-date: 2025-12-25T00:41:05+03:00
+title: "Aşağı Mahalle Camii (Safranbolu)"
+date: "2025-12-25T00:41:05+03:00"
 slug: "asagi-mahalle-camii-safranbolu"
 description: "## Aşağı Mahalle Camii: Safranbolu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.795630065,41.223317749"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Mahalle Camii: Safranbolu'nun Tarihî Mirası

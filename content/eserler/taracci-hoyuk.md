@@ -1,18 +1,17 @@
 ---
-title: "Taraççı Höyük | Miras Haritası"
-date: 2025-12-25T14:00:27+03:00
+title: "Taraççı Höyük"
+date: "2025-12-25T14:00:27+03:00"
 slug: "taracci-hoyuk"
 description: "## Taraççı Höyük: Balıkesir'in Gizli Anıtı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.639541625,40.233674005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taraççı Höyük: Balıkesir'in Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Koressos'taki Plateia (Tiyatro) Caddesi | Miras Haritası"
-date: 2025-12-25T08:21:57+03:00
+title: "Koressos'taki Plateia (Tiyatro) Caddesi"
+date: "2025-12-25T08:21:57+03:00"
 slug: "koressostaki-plateia-tiyatro-caddesi"
 description: "## Koressos'taki Plateia (Tiyatro) Caddesi: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koressos'taki Plateia (Tiyatro) Caddesi: İzmir'in Gizli Cenneti

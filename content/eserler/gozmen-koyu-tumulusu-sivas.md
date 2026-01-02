@@ -1,18 +1,17 @@
 ---
-title: "Gözmen Köyü Tümülüsü, Sivas | Miras Haritası"
-date: 2025-12-25T07:24:35+03:00
+title: "Gözmen Köyü Tümülüsü, Sivas"
+date: "2025-12-25T07:24:35+03:00"
 slug: "gozmen-koyu-tumulusu-sivas"
 description: "### Gözmen Köyü Tümülüsü, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.6531487,39.5239182"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gözmen Köyü Tümülüsü, Sivas

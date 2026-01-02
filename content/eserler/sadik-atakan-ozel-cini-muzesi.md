@@ -1,18 +1,17 @@
 ---
-title: "Sadık Atakan Özel Çini Müzesi | Miras Haritası"
-date: 2025-12-25T03:16:43+03:00
+title: "Sadık Atakan Özel Çini Müzesi"
+date: "2025-12-25T03:16:43+03:00"
 slug: "sadik-atakan-ozel-cini-muzesi"
 description: "### Sadık Atakan Özel Çini Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sadık Atakan Özel Çini Müzesi

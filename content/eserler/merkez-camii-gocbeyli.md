@@ -1,18 +1,17 @@
 ---
-title: "Merkez Camii (Göçbeyli) | Miras Haritası"
-date: 2025-12-24T23:57:41+03:00
+title: "Merkez Camii (Göçbeyli)"
+date: "2025-12-24T23:57:41+03:00"
 slug: "merkez-camii-gocbeyli"
 description: "## Merkez Camii (Göçbeyli)..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4045601,39.2228546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merkez Camii (Göçbeyli)

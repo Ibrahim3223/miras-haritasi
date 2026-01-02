@@ -1,18 +1,17 @@
 ---
-title: "Hamaxitus | Miras Haritası"
-date: 2025-12-25T05:02:32+03:00
+title: "Hamaxitus"
+date: "2025-12-25T05:02:32+03:00"
 slug: "hamaxitus"
 description: "## Hamaxitus: Antik Çağ'ın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamaxitus: Antik Çağ'ın Gizemi

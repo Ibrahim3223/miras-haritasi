@@ -1,18 +1,17 @@
 ---
-title: "Karanlık Kilise | Miras Haritası"
-date: 2025-12-25T08:41:01+03:00
+title: "Karanlık Kilise"
+date: "2025-12-25T08:41:01+03:00"
 slug: "karanlik-kilise"
 description: "## Karanlık Kilise: Göreme'nin Gizemli Çağından Kalan Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dark_Church_(Karanlık_Kilise)_in_Cappadocia,_Göreme.jpg/1200px-Dark_Church_(Karanlık_Kilise)_in_Cappadocia,_Göreme.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.846267,38.6387"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karanlık Kilise: Göreme'nin Gizemli Çağından Kalan Bir Miras

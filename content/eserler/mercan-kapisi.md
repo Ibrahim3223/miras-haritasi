@@ -1,18 +1,17 @@
 ---
-title: "Mercan Kapısı | Miras Haritası"
-date: 2025-12-25T15:39:40+03:00
+title: "Mercan Kapısı"
+date: "2025-12-25T15:39:40+03:00"
 slug: "mercan-kapisi"
 description: "## Mercan Kapısı: Fatih'te Gerçekleşen Bir Mimari Harikadan Kalma..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.968695,41.011423"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mercan Kapısı: Fatih'te Gerçekleşen Bir Mimari Harikadan Kalma

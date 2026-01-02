@@ -1,18 +1,17 @@
 ---
-title: "Deh Kubbe Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:08+03:00
+title: "Deh Kubbe Türbesi"
+date: "2025-12-25T15:29:08+03:00"
 slug: "deh-kubbe-turbesi"
 description: "## Deh Kubbe Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.9673767,37.0355225"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deh Kubbe Türbesi

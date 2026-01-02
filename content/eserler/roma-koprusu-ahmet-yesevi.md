@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Ahmet Yesevi | Miras Haritası"
-date: 2025-12-25T02:58:55+03:00
+title: "Roma Köprüsü, Ahmet Yesevi"
+date: "2025-12-25T02:58:55+03:00"
 slug: "roma-koprusu-ahmet-yesevi"
 description: "## Roma Köprüsü, Ahmet Yesevi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Tercan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.487427,39.80806"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Ahmet Yesevi

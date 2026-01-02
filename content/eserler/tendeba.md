@@ -1,18 +1,17 @@
 ---
-title: "Tendeba | Miras Haritası"
-date: 2025-12-25T04:55:21+03:00
+title: "Tendeba"
+date: "2025-12-25T04:55:21+03:00"
 slug: "tendeba"
 description: "## Tendeba: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.221031,37.277111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tendeba: Türkiye'nin Gizli Kahramanı

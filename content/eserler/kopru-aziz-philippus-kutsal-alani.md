@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Aziz Philippus Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T02:55:45+03:00
+title: "Köprü, Aziz Philippus Kutsal Alanı"
+date: "2025-12-25T02:55:45+03:00"
 slug: "kopru-aziz-philippus-kutsal-alani"
 description: "### Köprü, Aziz Philippus Kutsal Alanı: Pamukkale'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.1294556,37.9300308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köprü, Aziz Philippus Kutsal Alanı: Pamukkale'nin Gizli Çiçeği

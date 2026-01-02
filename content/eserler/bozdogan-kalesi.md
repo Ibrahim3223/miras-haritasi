@@ -1,18 +1,17 @@
 ---
-title: "Bozdoğan Kalesi | Miras Haritası"
-date: 2025-12-25T01:50:49+03:00
+title: "Bozdoğan Kalesi"
+date: "2025-12-25T01:50:49+03:00"
 slug: "bozdogan-kalesi"
 description: "## Bozdoğan Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.2991943,37.6723824"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozdoğan Kalesi

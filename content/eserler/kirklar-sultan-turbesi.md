@@ -1,18 +1,17 @@
 ---
-title: "Kırklar Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:07+03:00
+title: "Kırklar Sultan Türbesi"
+date: "2025-12-25T14:28:07+03:00"
 slug: "kirklar-sultan-turbesi"
 description: "### Kırklar Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.127497,41.150755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırklar Sultan Türbesi

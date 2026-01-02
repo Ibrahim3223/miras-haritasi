@@ -1,18 +1,17 @@
 ---
-title: "Edirnekapı Kara Şehitliği | Miras Haritası"
-date: 2025-12-25T15:59:47+03:00
+title: "Edirnekapı Kara Şehitliği"
+date: "2025-12-25T15:59:47+03:00"
 slug: "edirnekapi-kara-sehitligi"
 description: "## Edirnekapı Kara Şehitliği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9280815,41.0336113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Edirnekapı Kara Şehitliği

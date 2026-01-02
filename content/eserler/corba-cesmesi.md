@@ -1,18 +1,17 @@
 ---
-title: "Çorba Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:06:44+03:00
+title: "Çorba Çeşmesi"
+date: "2025-12-25T10:06:44+03:00"
 slug: "corba-cesmesi"
 description: "## Çorba Çeşmesi: Ankara'nın Tarihi ve Kültürel Miraslarından Bir Örnek..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çorba Çeşmesi: Ankara'nın Tarihi ve Kültürel Miraslarından Bir Örnek

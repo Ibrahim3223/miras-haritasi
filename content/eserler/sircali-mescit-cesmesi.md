@@ -1,18 +1,17 @@
 ---
-title: "Sırçalı Mescit Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:39:09+03:00
+title: "Sırçalı Mescit Çeşmesi"
+date: "2025-12-25T11:39:09+03:00"
 slug: "sircali-mescit-cesmesi"
 description: "## Sırçalı Mescit Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5022736,37.8743439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sırçalı Mescit Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Antalya Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:38:30+03:00
+title: "Antalya Etnografya Müzesi"
+date: "2025-12-25T03:38:30+03:00"
 slug: "antalya-etnografya-muzesi"
 description: "## Antalya Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Antalya_Etnografya_Museum.jpg/1200px-Antalya_Etnografya_Museum.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.70396,36.88328"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Antalya Etnografya Müzesi

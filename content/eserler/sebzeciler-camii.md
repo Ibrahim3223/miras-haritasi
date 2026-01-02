@@ -1,18 +1,17 @@
 ---
-title: "Sebzeciler Camii | Miras Haritası"
-date: 2025-12-25T00:23:47+03:00
+title: "Sebzeciler Camii"
+date: "2025-12-25T00:23:47+03:00"
 slug: "sebzeciler-camii"
 description: "## Sebzeciler Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.6725,40.8422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sebzeciler Camii: Artvin'in Tarihi Bir Mirası

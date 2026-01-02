@@ -1,18 +1,17 @@
 ---
-title: "Hayriye Camii | Miras Haritası"
-date: 2025-12-24T23:34:31+03:00
+title: "Hayriye Camii"
+date: "2025-12-24T23:34:31+03:00"
 slug: "hayriye-camii"
 description: "## Hayriye Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.3145905,37.7590332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hayriye Camii

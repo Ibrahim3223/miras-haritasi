@@ -1,18 +1,17 @@
 ---
-title: "Hamda Höyüğü | Miras Haritası"
-date: 2025-12-25T06:14:37+03:00
+title: "Hamda Höyüğü"
+date: "2025-12-25T06:14:37+03:00"
 slug: "hamda-hoyugu"
 description: "### Hamda Höyük: Hatay'ın Gizli Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.4785954,36.2225668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hamda Höyük: Hatay'ın Gizli Mirası

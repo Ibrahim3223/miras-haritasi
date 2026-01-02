@@ -1,18 +1,17 @@
 ---
-title: "Keçi Kalesi, Gümüşhane | Miras Haritası"
-date: 2025-12-25T01:30:54+03:00
+title: "Keçi Kalesi, Gümüşhane"
+date: "2025-12-25T01:30:54+03:00"
 slug: "keci-kalesi-gumushane"
 description: "## Keçi Kalesi, Gümüşhane..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.699558,40.385904"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keçi Kalesi, Gümüşhane

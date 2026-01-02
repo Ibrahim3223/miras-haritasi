@@ -1,18 +1,17 @@
 ---
-title: "İskenderli Köprüsü 1 | Miras Haritası"
-date: 2025-12-25T02:42:38+03:00
+title: "İskenderli Köprüsü 1"
+date: "2025-12-25T02:42:38+03:00"
 slug: "iskenderli-koprusu-1"
 description: "## İskenderli Köprüsü 1: Tonya'nın Tarihi Çatısı..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Tonya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.236957,40.941042"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskenderli Köprüsü 1: Tonya'nın Tarihi Çatısı

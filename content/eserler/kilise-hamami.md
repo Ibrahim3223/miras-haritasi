@@ -1,18 +1,17 @@
 ---
-title: "Kilise Hamamı | Miras Haritası"
-date: 2025-12-25T16:51:48+03:00
+title: "Kilise Hamamı"
+date: "2025-12-25T16:51:48+03:00"
 slug: "kilise-hamami"
 description: "## Kilise Hamamı: İncil Bayanların Ruhlarını Temizleyen Bir Ortam..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.6493053,38.2245026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kilise Hamamı: İncil Bayanların Ruhlarını Temizleyen Bir Ortam

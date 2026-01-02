@@ -1,18 +1,17 @@
 ---
-title: "Künk Dağı Yerleşimi | Miras Haritası"
-date: 2025-12-25T08:31:35+03:00
+title: "Künk Dağı Yerleşimi"
+date: "2025-12-25T08:31:35+03:00"
 slug: "kunk-dagi-yerlesimi"
 description: "## Künk Dağı Yerleşimi: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8051872,39.9138985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Künk Dağı Yerleşimi: Çanakkale'nin Gizli Mirası

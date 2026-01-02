@@ -1,18 +1,17 @@
 ---
-title: "Amyzon | Miras Haritası"
-date: 2025-12-25T08:07:11+03:00
+title: "Amyzon"
+date: "2025-12-25T08:07:11+03:00"
 slug: "amyzon"
 description: "**Amyzon Arkeolojik Sit**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.711,37.6087"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Amyzon Arkeolojik Sit**

@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Hisar Camii | Miras Haritası"
-date: 2025-12-24T22:14:30+03:00
+title: "Aşağı Hisar Camii"
+date: "2025-12-24T22:14:30+03:00"
 slug: "asagi-hisar-camii"
 description: "## Aşağı Hisar Camii: Kütahya'nın Büyüleyici Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kütahya"
+province: "Kütahya"
+iller: '["Kütahya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9706154,39.4218025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Hisar Camii: Kütahya'nın Büyüleyici Camii

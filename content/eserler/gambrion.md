@@ -1,18 +1,17 @@
 ---
-title: "Gambrion | Miras Haritası"
-date: 2025-12-25T06:58:53+03:00
+title: "Gambrion"
+date: "2025-12-25T06:58:53+03:00"
 slug: "gambrion"
 description: "# Gambrion Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.351043,39.087569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gambrion Arkeolojik Sit

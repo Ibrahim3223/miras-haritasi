@@ -1,18 +1,17 @@
 ---
-title: "Çukur Çeşme, Sarıyer | Miras Haritası"
-date: 2025-12-25T12:16:47+03:00
+title: "Çukur Çeşme, Sarıyer"
+date: "2025-12-25T12:16:47+03:00"
 slug: "cukur-cesme-sariyer"
 description: "### Çukur Çeşme: Sarıyer'in Tarihî Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Çukur_Çeşme,_Sarıyer.jpg/1200px-Çukur_Çeşme,_Sarıyer.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.057234,41.170279"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çukur Çeşme: Sarıyer'in Tarihî Bir Çeşmesi

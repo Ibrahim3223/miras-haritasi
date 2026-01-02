@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhammed Bedevi Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:53+03:00
+title: "Şeyh Muhammed Bedevi Türbesi"
+date: "2025-12-25T14:19:53+03:00"
 slug: "seyh-muhammed-bedevi-turbesi"
 description: "## Şeyh Muhammed Bedevi Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.089456,36.711837"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Muhammed Bedevi Türbesi

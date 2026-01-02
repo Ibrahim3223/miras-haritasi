@@ -1,18 +1,17 @@
 ---
-title: "Mahmutpaşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:06+03:00
+title: "Mahmutpaşa Hamamı"
+date: "2025-12-25T16:35:06+03:00"
 slug: "mahmutpasa-hamami"
 description: "## Mahmutpaşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.970233,41.012059"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmutpaşa Hamamı

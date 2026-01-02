@@ -1,18 +1,17 @@
 ---
-title: "Halilviran Köprüsü | Miras Haritası"
-date: 2025-12-25T02:01:39+03:00
+title: "Halilviran Köprüsü"
+date: "2025-12-25T02:01:39+03:00"
 slug: "halilviran-koprusu"
 description: "## Halilviran Köprüsü: Yenişehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Yenişehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.2080498,38.1038742"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halilviran Köprüsü: Yenişehir'in Tarihi Bir Mirası

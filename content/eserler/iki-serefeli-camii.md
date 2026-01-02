@@ -1,18 +1,17 @@
 ---
-title: "İki Şerefeli Camii | Miras Haritası"
-date: 2025-12-24T23:35:53+03:00
+title: "İki Şerefeli Camii"
+date: "2025-12-24T23:35:53+03:00"
 slug: "iki-serefeli-camii"
 description: "## İki Şerefeli Camii: Altındağ'un Kültürel Çağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/İki_Şerefeli_Camii.jpg/1200px-İki_Şerefeli_Camii.jpg"
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8666992,39.9368668"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İki Şerefeli Camii: Altındağ'un Kültürel Çağı

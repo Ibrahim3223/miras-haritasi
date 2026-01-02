@@ -1,18 +1,17 @@
 ---
-title: "Surp Toros Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:23+03:00
+title: "Surp Toros Kilisesi"
+date: "2025-12-25T09:35:23+03:00"
 slug: "surp-toros-kilisesi"
 description: "### Surp Toros Kilisesi: Kayseri'nin Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.486741,38.382015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Toros Kilisesi: Kayseri'nin Gizli Çehresini Keşfedin

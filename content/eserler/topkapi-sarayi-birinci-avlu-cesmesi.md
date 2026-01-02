@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Birinci Avlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:08+03:00
+title: "Topkapı Sarayı Birinci Avlu Çeşmesi"
+date: "2025-12-25T10:58:08+03:00"
 slug: "topkapi-sarayi-birinci-avlu-cesmesi"
 description: "## Topkapı Sarayı Birinci Avlu Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.982382,41.010345"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Birinci Avlu Çeşmesi

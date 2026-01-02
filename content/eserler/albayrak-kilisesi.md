@@ -1,18 +1,17 @@
 ---
-title: "Albayrak Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:55+03:00
+title: "Albayrak Kilisesi"
+date: "2025-12-25T09:10:55+03:00"
 slug: "albayrak-kilisesi"
 description: "### Albayrak Kilisesi: Van'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Başkale"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "44.2102718,38.1449948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Albayrak Kilisesi: Van'ın Gizli Mücevheri

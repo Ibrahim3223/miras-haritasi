@@ -1,18 +1,17 @@
 ---
-title: "Ayakcaklı Mescit | Miras Haritası"
-date: 2025-12-25T00:43:47+03:00
+title: "Ayakcaklı Mescit"
+date: "2025-12-25T00:43:47+03:00"
 slug: "ayakcakli-mescit"
 description: "## Ayakcaklı Mescit: Melikgazi'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.484975401,38.71476932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayakcaklı Mescit: Melikgazi'nin Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Mahmudiye Caddesi | Miras Haritası"
-date: 2025-12-25T12:48:14+03:00
+title: "Çeşme, Mahmudiye Caddesi"
+date: "2025-12-25T12:48:14+03:00"
 slug: "cesme-mahmudiye-caddesi"
 description: "## Çeşme, Mahmudiye Caddesi: Eyüpsultan'daki Tarihi Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9232998,41.0502014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Mahmudiye Caddesi: Eyüpsultan'daki Tarihi Bir Çeşme

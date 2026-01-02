@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Rasimpaşa | Miras Haritası"
-date: 2025-12-25T02:46:40+03:00
+title: "Köprü, Rasimpaşa"
+date: "2025-12-25T02:46:40+03:00"
 slug: "kopru-rasimpasa"
 description: "### Rasimpaşa Köprüsü: Kadıköy'de Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0287914,41.0008469"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rasimpaşa Köprüsü: Kadıköy'de Tarihi ve Kültürel Miras

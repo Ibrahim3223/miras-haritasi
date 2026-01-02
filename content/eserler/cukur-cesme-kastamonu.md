@@ -1,18 +1,17 @@
 ---
-title: "Çukur Çeşme, Kastamonu | Miras Haritası"
-date: 2025-12-25T12:23:57+03:00
+title: "Çukur Çeşme, Kastamonu"
+date: "2025-12-25T12:23:57+03:00"
 slug: "cukur-cesme-kastamonu"
 description: "### Çukur Çeşme: Kastamonu'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.768864065,41.378166849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çukur Çeşme: Kastamonu'da Bir Tarihî Çeşme

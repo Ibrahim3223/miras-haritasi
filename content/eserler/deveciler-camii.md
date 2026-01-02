@@ -1,18 +1,17 @@
 ---
-title: "Deveciler Camii | Miras Haritası"
-date: 2025-12-24T22:37:36+03:00
+title: "Deveciler Camii"
+date: "2025-12-24T22:37:36+03:00"
 slug: "deveciler-camii"
 description: "## Deveciler Camii: Kastamonu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7816391,41.3793068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deveciler Camii: Kastamonu'nun Tarihî Mirası

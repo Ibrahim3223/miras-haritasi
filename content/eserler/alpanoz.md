@@ -1,18 +1,17 @@
 ---
-title: "Alpanoz | Miras Haritası"
-date: 2025-12-25T05:27:49+03:00
+title: "Alpanoz"
+date: "2025-12-25T05:27:49+03:00"
 slug: "alpanoz"
 description: "## Alpanoz: Seyitgazi'nin Gizli Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.628148,39.556237"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alpanoz: Seyitgazi'nin Gizli Anıtı

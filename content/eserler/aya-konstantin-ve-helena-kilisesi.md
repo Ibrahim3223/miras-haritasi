@@ -1,18 +1,17 @@
 ---
-title: "Aya Konstantin ve Helena Kilisesi | Miras Haritası"
-date: 2025-12-25T09:34:00+03:00
+title: "Aya Konstantin ve Helena Kilisesi"
+date: "2025-12-25T09:34:00+03:00"
 slug: "aya-konstantin-ve-helena-kilisesi"
 description: "## Aya Konstantin ve Helena Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.20784,41.8554459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Konstantin ve Helena Kilisesi

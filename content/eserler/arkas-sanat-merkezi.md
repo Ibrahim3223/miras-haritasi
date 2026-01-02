@@ -1,18 +1,17 @@
 ---
-title: "Arkas Sanat Merkezi | Miras Haritası"
-date: 2025-12-25T04:09:04+03:00
+title: "Arkas Sanat Merkezi"
+date: "2025-12-25T04:09:04+03:00"
 slug: "arkas-sanat-merkezi"
 description: "## Arkas Sanat Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ASM_Night.jpg/1200px-ASM_Night.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.136805555,38.432083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Arkas Sanat Merkezi

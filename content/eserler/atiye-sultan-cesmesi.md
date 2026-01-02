@@ -1,18 +1,17 @@
 ---
-title: "Atiye Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:49:55+03:00
+title: "Atiye Sultan Çeşmesi"
+date: "2025-12-25T11:49:55+03:00"
 slug: "atiye-sultan-cesmesi"
 description: "### Atiye Sultan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9375744,41.0280495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Atiye Sultan Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Skarebi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:05:30+03:00
+title: "Skarebi Kilisesi"
+date: "2025-12-25T09:05:30+03:00"
 slug: "skarebi-kilisesi"
 description: "## Skarebi Kilisesi: Kotanlı, Çıldır'in Gizli Çehresini Açığa Çıkaran Tarihi Bir Kilise..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Kotanlı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.039044444,41.160638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Skarebi Kilisesi: Kotanlı, Çıldır'in Gizli Çehresini Açığa Çıkaran Tarihi Bir Kilise

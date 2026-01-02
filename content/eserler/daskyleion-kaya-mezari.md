@@ -1,18 +1,17 @@
 ---
-title: "Daskyleion Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:23:04+03:00
+title: "Daskyleion Kaya Mezarı"
+date: "2025-12-25T13:23:04+03:00"
 slug: "daskyleion-kaya-mezari"
 description: "### Daskyleion Kaya Mezarı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.0657597,40.1296654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Daskyleion Kaya Mezarı

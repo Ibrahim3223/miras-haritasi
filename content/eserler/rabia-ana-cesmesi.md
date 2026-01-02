@@ -1,18 +1,17 @@
 ---
-title: "Rabia Ana Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:40:35+03:00
+title: "Rabia Ana Çeşmesi"
+date: "2025-12-25T11:40:35+03:00"
 slug: "rabia-ana-cesmesi"
 description: "## Rabia Ana Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2792511,39.9024315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rabia Ana Çeşmesi

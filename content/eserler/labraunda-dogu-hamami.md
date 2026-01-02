@@ -1,18 +1,17 @@
 ---
-title: "Labraunda Doğu Hamamı | Miras Haritası"
-date: 2025-12-25T16:48:46+03:00
+title: "Labraunda Doğu Hamamı"
+date: "2025-12-25T16:48:46+03:00"
 slug: "labraunda-dogu-hamami"
 description: "**Labraunda Doğu Hamamı**..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.8207417,37.4185219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Labraunda Doğu Hamamı**

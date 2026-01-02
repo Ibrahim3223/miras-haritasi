@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Sarı Saltık Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:40+03:00
+title: "Şeyh Sarı Saltık Türbesi"
+date: "2025-12-25T15:16:40+03:00"
 slug: "seyh-sari-saltik-turbesi"
 description: "### Şeyh Sarı Saltık Türbesi: Türkiye'nin Tarihi ve Kültürel Mirasının Öncüleri Arasındaki Bir Figürün Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Bolvadin"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.04811,38.484958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Sarı Saltık Türbesi: Türkiye'nin Tarihi ve Kültürel Mirasının Öncüleri Arasındaki Bir Figürün Anıtı

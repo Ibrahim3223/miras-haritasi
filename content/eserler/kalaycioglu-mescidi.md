@@ -1,18 +1,17 @@
 ---
-title: "Kalaycıoğlu Mescidi | Miras Haritası"
-date: 2025-12-25T00:22:50+03:00
+title: "Kalaycıoğlu Mescidi"
+date: "2025-12-25T00:22:50+03:00"
 slug: "kalaycioglu-mescidi"
 description: "## Kalaycıoğlu Mescidi Tanıtımı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.484211,38.724678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalaycıoğlu Mescidi Tanıtımı

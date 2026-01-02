@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii Çeşmesi, Balıkesir | Miras Haritası"
-date: 2025-12-25T12:32:15+03:00
+title: "Hamidiye Camii Çeşmesi, Balıkesir"
+date: "2025-12-25T12:32:15+03:00"
 slug: "hamidiye-camii-cesmesi-balikesir"
 description: "# Hamidiye Camii Çeşmesi, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.888530913,39.650504235"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamidiye Camii Çeşmesi, Balıkesir

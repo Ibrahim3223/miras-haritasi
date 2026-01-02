@@ -1,18 +1,17 @@
 ---
-title: "Ayn Tokmak Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:27:38+03:00
+title: "Ayn Tokmak Çeşmesi"
+date: "2025-12-25T12:27:38+03:00"
 slug: "ayn-tokmak-cesmesi"
 description: "## Ayn Tokmak Çeşmesi: Mardin'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.747853,37.315637"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayn Tokmak Çeşmesi: Mardin'in Tarihi Bir Çeşmesi

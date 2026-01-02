@@ -1,18 +1,17 @@
 ---
-title: "Yılanlıtepe Höyük | Miras Haritası"
-date: 2025-12-25T06:18:10+03:00
+title: "Yılanlıtepe Höyük"
+date: "2025-12-25T06:18:10+03:00"
 slug: "yilanlitepe-hoyuk"
 description: "### Yılanlıtepe Höyük: Yozgat'ın Eski Kültür Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.7424616,39.8938553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yılanlıtepe Höyük: Yozgat'ın Eski Kültür Mirası

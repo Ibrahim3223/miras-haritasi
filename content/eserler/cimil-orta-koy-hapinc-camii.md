@@ -1,18 +1,17 @@
 ---
-title: "Cimil Orta Köy Hapinç Camii | Miras Haritası"
-date: 2025-12-25T00:23:02+03:00
+title: "Cimil Orta Köy Hapinç Camii"
+date: "2025-12-25T00:23:02+03:00"
 slug: "cimil-orta-koy-hapinc-camii"
 description: "# Cimil Orta Köy Hapinç Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.763090402,40.73714207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Cimil Orta Köy Hapinç Camii

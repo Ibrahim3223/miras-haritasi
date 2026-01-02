@@ -1,18 +1,17 @@
 ---
-title: "Çamlıbel Köprüsü | Miras Haritası"
-date: 2025-12-25T02:13:19+03:00
+title: "Çamlıbel Köprüsü"
+date: "2025-12-25T02:13:19+03:00"
 slug: "camlibel-koprusu"
 description: "## Çamlıbel Köprüsü: Uşak'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.2179928,38.303299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çamlıbel Köprüsü: Uşak'ın Tarihî Bir Mirası

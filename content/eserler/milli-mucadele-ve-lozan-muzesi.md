@@ -1,18 +1,17 @@
 ---
-title: "Milli Mücadele ve Lozan Müzesi | Miras Haritası"
-date: 2025-12-25T04:08:22+03:00
+title: "Milli Mücadele ve Lozan Müzesi"
+date: "2025-12-25T04:08:22+03:00"
 slug: "milli-mucadele-ve-lozan-muzesi"
 description: "**Milli Mücadele ve Lozan Müzesi**..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.5225735,41.6520348"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Milli Mücadele ve Lozan Müzesi**

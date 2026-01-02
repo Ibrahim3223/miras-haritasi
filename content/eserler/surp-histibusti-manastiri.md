@@ -1,18 +1,17 @@
 ---
-title: "Surp Histibusti Manastırı | Miras Haritası"
-date: 2025-12-25T09:41:09+03:00
+title: "Surp Histibusti Manastırı"
+date: "2025-12-25T09:41:09+03:00"
 slug: "surp-histibusti-manastiri"
 description: "### Surp Histibusti Manastırı: Bir Geç Dönem Ermeni Kilisesi'nin Gizemi..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Q16381543"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.300555555,38.467222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Histibusti Manastırı: Bir Geç Dönem Ermeni Kilisesi'nin Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Hatuniye Camii, Kütahya | Miras Haritası"
-date: 2025-12-25T00:01:35+03:00
+title: "Hatuniye Camii, Kütahya"
+date: "2025-12-25T00:01:35+03:00"
 slug: "hatuniye-camii-kutahya"
 description: "## Hatuniye Camii, Kütahya..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9805412,39.4159698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatuniye Camii, Kütahya

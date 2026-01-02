@@ -1,18 +1,17 @@
 ---
-title: "Faselis | Miras Haritası"
-date: 2025-12-25T06:48:06+03:00
+title: "Faselis"
+date: "2025-12-25T06:48:06+03:00"
 slug: "faselis"
 description: "## Faselis: Antik Liman Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Phaselis_axb01.jpg/1200px-Phaselis_axb01.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer district (Antalya)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.552222,36.523611"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Faselis: Antik Liman Kenti

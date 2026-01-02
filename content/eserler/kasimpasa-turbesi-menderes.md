@@ -1,18 +1,17 @@
 ---
-title: "Kasımpaşa Türbesi, Menderes | Miras Haritası"
-date: 2025-12-25T15:31:47+03:00
+title: "Kasımpaşa Türbesi, Menderes"
+date: "2025-12-25T15:31:47+03:00"
 slug: "kasimpasa-turbesi-menderes"
 description: "# Kasımpaşa Türbesi: İzmirlinin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menderes"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1292572,38.2531357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kasımpaşa Türbesi: İzmirlinin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Yusuf Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:02:20+03:00
+title: "Hacı Yusuf Ağa Çeşmesi"
+date: "2025-12-25T12:02:20+03:00"
 slug: "haci-yusuf-aga-cesmesi"
 description: "### Hacı Yusuf Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9523983,41.0115929"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Yusuf Ağa Çeşmesi

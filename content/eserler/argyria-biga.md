@@ -1,18 +1,17 @@
 ---
-title: "Argyria (Biga) | Miras Haritası"
-date: 2025-12-25T04:46:38+03:00
+title: "Argyria (Biga)"
+date: "2025-12-25T04:46:38+03:00"
 slug: "argyria-biga"
 description: "## Argyria (Biga): Çanakkale'nin Gizli Kahramanları..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Yenice (Çanakkale)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.222332,39.750179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Argyria (Biga): Çanakkale'nin Gizli Kahramanları

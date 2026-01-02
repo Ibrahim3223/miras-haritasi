@@ -1,18 +1,17 @@
 ---
-title: "Söğütlüdere A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:36:54+03:00
+title: "Söğütlüdere A Tümülüsü"
+date: "2025-12-25T07:36:54+03:00"
 slug: "sogutludere-a-tumulusu"
 description: "## Söğütlüdere A Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.798624,41.6455498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Söğütlüdere A Tümülüsü

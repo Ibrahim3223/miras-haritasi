@@ -1,18 +1,17 @@
 ---
-title: "Yalıhüyük Höyük | Miras Haritası"
-date: 2025-12-25T06:12:24+03:00
+title: "Yalıhüyük Höyük"
+date: "2025-12-25T06:12:24+03:00"
 slug: "yalihuyuk-hoyuk"
 description: "## Yalıhüyük Höyük: Tarihî ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Yalıhüyük"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.0897102,37.3015442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalıhüyük Höyük: Tarihî ve Kültürel Mirasımız

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Ankara Milli Mücadele Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:12+03:00
+title: "Atatürk Ankara Milli Mücadele Müzesi"
+date: "2025-12-25T04:04:12+03:00"
 slug: "ataturk-ankara-milli-mucadele-muzesi"
 description: "## Atatürk Ankara Milli Mücadele Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.864509685,39.966201023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Ankara Milli Mücadele Müzesi

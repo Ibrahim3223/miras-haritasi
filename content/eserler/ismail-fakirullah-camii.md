@@ -1,18 +1,17 @@
 ---
-title: "İsmail Fakirullah Camii | Miras Haritası"
-date: 2025-12-24T23:39:00+03:00
+title: "İsmail Fakirullah Camii"
+date: "2025-12-24T23:39:00+03:00"
 slug: "ismail-fakirullah-camii"
 description: "## İsmail Fakirullah Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Smail_Fakirullah_Camii_1761630126.jpg/1200px-Smail_Fakirullah_Camii_1761630126.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Siirt"
+province: "Siirt"
+iller: '["Siirt"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.0117607,37.9487152"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İsmail Fakirullah Camii

@@ -1,18 +1,17 @@
 ---
-title: "Orta Mahalle Camii, Artvin | Miras Haritası"
-date: 2025-12-24T23:52:44+03:00
+title: "Orta Mahalle Camii, Artvin"
+date: "2025-12-24T23:52:44+03:00"
 slug: "orta-mahalle-camii-artvin"
 description: "## Orta Mahalle Camii, Artvin..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Artvin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.826528,41.181497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Mahalle Camii, Artvin

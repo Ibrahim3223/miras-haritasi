@@ -1,18 +1,17 @@
 ---
-title: "Hacı Beşir Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:39+03:00
+title: "Hacı Beşir Ağa Çeşmesi"
+date: "2025-12-25T10:41:39+03:00"
 slug: "haci-besir-aga-cesmesi"
 description: "## Hacı Beşir Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Milion-.jpg/1200px-Milion-.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.978227777,41.007911111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Beşir Ağa Çeşmesi

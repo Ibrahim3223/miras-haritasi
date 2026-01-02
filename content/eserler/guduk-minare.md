@@ -1,18 +1,17 @@
 ---
-title: "Güdük Minare | Miras Haritası"
-date: 2025-12-24T23:04:55+03:00
+title: "Güdük Minare"
+date: "2025-12-24T23:04:55+03:00"
 slug: "guduk-minare"
 description: "## Güdük Minare: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.496357,37.8741417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güdük Minare: Konya'nın Tarihi ve Kültürel Mirası

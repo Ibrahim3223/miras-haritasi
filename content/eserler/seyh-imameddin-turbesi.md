@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İmameddin Türbesi | Miras Haritası"
-date: 2025-12-25T14:46:07+03:00
+title: "Şeyh İmameddin Türbesi"
+date: "2025-12-25T14:46:07+03:00"
 slug: "seyh-imameddin-turbesi"
 description: "### Şeyh İmameddin Türbesi: Mardin'in Gizli Çehresi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.748047534,37.313736004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh İmameddin Türbesi: Mardin'in Gizli Çehresi

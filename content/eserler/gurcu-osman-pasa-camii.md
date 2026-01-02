@@ -1,18 +1,17 @@
 ---
-title: "Gürcü Osman Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:27:25+03:00
+title: "Gürcü Osman Paşa Camii"
+date: "2025-12-24T23:27:25+03:00"
 slug: "gurcu-osman-pasa-camii"
 description: "## Gürcü Osman Paşa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4877472,38.7227821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gürcü Osman Paşa Camii

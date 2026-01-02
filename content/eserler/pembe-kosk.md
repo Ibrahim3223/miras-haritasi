@@ -1,18 +1,17 @@
 ---
-title: "Pembe Köşk | Miras Haritası"
-date: 2025-12-25T03:20:33+03:00
+title: "Pembe Köşk"
+date: "2025-12-25T03:20:33+03:00"
 slug: "pembe-kosk"
 description: "## Pembe Köşk: Ankara'nın Zirvesinde Bir Müze..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ankara_Pink_Villa.JPG/1200px-Ankara_Pink_Villa.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.860903,39.894843"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Pembe Köşk: Ankara'nın Zirvesinde Bir Müze

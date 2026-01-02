@@ -1,18 +1,17 @@
 ---
-title: "Karaköy Camii | Miras Haritası"
-date: 2025-12-24T21:56:36+03:00
+title: "Karaköy Camii"
+date: "2025-12-24T21:56:36+03:00"
 slug: "karakoy-camii"
 description: "## Karaköy Camii: İstanbul'un Gizli Çarşısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Karaköy_Mosque,_Istanbul_(16033721110).jpg/1200px-Karaköy_Mosque,_Istanbul_(16033721110).jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kemankeş Karamustafapaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.975194444,41.022027777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karaköy Camii: İstanbul'un Gizli Çarşısı

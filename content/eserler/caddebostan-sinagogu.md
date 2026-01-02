@@ -1,18 +1,17 @@
 ---
-title: "Caddebostan Sinagogu | Miras Haritası"
-date: 2025-12-25T16:11:10+03:00
+title: "Caddebostan Sinagogu"
+date: "2025-12-25T16:11:10+03:00"
 slug: "caddebostan-sinagogu"
 description: "## Caddebostan Sinagogu: Kadıköy'de Bir Tarihi Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.0634,40.9741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Caddebostan Sinagogu: Kadıköy'de Bir Tarihi Miras

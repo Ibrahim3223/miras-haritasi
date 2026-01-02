@@ -1,18 +1,17 @@
 ---
-title: "Derviş Ağa Çeşmesi, Gökçeyurt | Miras Haritası"
-date: 2025-12-25T11:56:18+03:00
+title: "Derviş Ağa Çeşmesi, Gökçeyurt"
+date: "2025-12-25T11:56:18+03:00"
 slug: "dervis-aga-cesmesi-gokceyurt"
 description: "## Derviş Ağa Çeşmesi: Gökçeyurt'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6847534,38.43367"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derviş Ağa Çeşmesi: Gökçeyurt'un Tarihi Bir Çeşmesi

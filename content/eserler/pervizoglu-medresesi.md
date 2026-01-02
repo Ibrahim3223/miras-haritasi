@@ -1,18 +1,17 @@
 ---
-title: "Pervizoğlu Medresesi | Miras Haritası"
-date: 2025-12-25T17:40:27+03:00
+title: "Pervizoğlu Medresesi"
+date: "2025-12-25T17:40:27+03:00"
 slug: "pervizoglu-medresesi"
 description: "### Pervizoğlu Medresesi: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "41.2745171,39.9093819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pervizoğlu Medresesi: Erzurum'un Tarihi ve Kültürel Mirası

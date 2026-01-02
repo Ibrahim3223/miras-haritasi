@@ -1,18 +1,17 @@
 ---
-title: "Manatlı Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:38:58+03:00
+title: "Manatlı Mahallesi Köprüsü"
+date: "2025-12-25T02:38:58+03:00"
 slug: "manatli-mahallesi-koprusu"
 description: "## Manatlı Mahallesi Köprüsü: Gümüşhane'nin Gizli Harikası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.500805,40.583906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manatlı Mahallesi Köprüsü: Gümüşhane'nin Gizli Harikası

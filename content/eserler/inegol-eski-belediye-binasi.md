@@ -1,18 +1,17 @@
 ---
-title: "İnegöl Eski Belediye Binası | Miras Haritası"
-date: 2025-12-25T03:59:12+03:00
+title: "İnegöl Eski Belediye Binası"
+date: "2025-12-25T03:59:12+03:00"
 slug: "inegol-eski-belediye-binasi"
 description: "## İnegöl Eski Belediye Binası: Bursa'nın Tarihi Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.5125523,40.078289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnegöl Eski Belediye Binası: Bursa'nın Tarihi Mirası

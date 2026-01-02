@@ -1,18 +1,17 @@
 ---
-title: "Bahriye Mektebi Camii | Miras Haritası"
-date: 2025-12-24T22:47:26+03:00
+title: "Bahriye Mektebi Camii"
+date: "2025-12-24T22:47:26+03:00"
 slug: "bahriye-mektebi-camii"
 description: "### Bahriye Mektebi Camii..."
 featured_image: ""
-province: "Adalar"
-iller: ["Adalar"]
-district: "Heybeliada"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Adalar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.1015339,40.8758202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bahriye Mektebi Camii

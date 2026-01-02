@@ -1,18 +1,17 @@
 ---
-title: "Ferruh Şad Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:12:22+03:00
+title: "Ferruh Şad Bey Türbesi"
+date: "2025-12-25T15:12:22+03:00"
 slug: "ferruh-sad-bey-turbesi"
 description: "## Ferruh Şad Bey Türbesi..."
 featured_image: ""
 province: "Tunceli"
-iller: ["Tunceli"]
+iller: '["Tunceli"]'
 district: "Çemişgezek"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.0516014,39.0291405"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferruh Şad Bey Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Demirciler Camii | Miras Haritası"
-date: 2025-12-25T00:16:34+03:00
+title: "Demirciler Camii"
+date: "2025-12-25T00:16:34+03:00"
 slug: "demirciler-camii"
 description: "## Demirciler Camii: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.059428,37.224019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirciler Camii: Antalya'nın Gizli Cenneti

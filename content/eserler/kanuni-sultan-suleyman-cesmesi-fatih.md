@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Sultan Süleyman Çeşmesi, Fatih | Miras Haritası"
-date: 2025-12-25T12:21:12+03:00
+title: "Kanuni Sultan Süleyman Çeşmesi, Fatih"
+date: "2025-12-25T12:21:12+03:00"
 slug: "kanuni-sultan-suleyman-cesmesi-fatih"
 description: "## Kanuni Sultan Süleyman Çeşmesi: Fatih'te Tarih ve Güzellik..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9484901,41.0131378"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanuni Sultan Süleyman Çeşmesi: Fatih'te Tarih ve Güzellik

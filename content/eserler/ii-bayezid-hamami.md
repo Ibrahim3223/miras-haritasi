@@ -1,18 +1,17 @@
 ---
-title: "II. Bayezid Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:54+03:00
+title: "II. Bayezid Hamamı"
+date: "2025-12-25T17:02:54+03:00"
 slug: "ii-bayezid-hamami"
 description: "### II. Bayezid Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.5428066,41.6860847"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### II. Bayezid Hamamı

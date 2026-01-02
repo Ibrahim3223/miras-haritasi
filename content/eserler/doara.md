@@ -1,18 +1,17 @@
 ---
-title: "Doara | Miras Haritası"
-date: 2025-12-25T05:38:26+03:00
+title: "Doara"
+date: "2025-12-25T05:38:26+03:00"
 slug: "doara"
 description: "## Doara Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4655,38.2046"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Doara Arkeolojik Sit

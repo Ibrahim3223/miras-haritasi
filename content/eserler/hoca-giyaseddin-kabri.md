@@ -1,18 +1,17 @@
 ---
-title: "Hoca Gıyaseddin Kabri | Miras Haritası"
-date: 2025-12-25T13:24:53+03:00
+title: "Hoca Gıyaseddin Kabri"
+date: "2025-12-25T13:24:53+03:00"
 slug: "hoca-giyaseddin-kabri"
 description: "### Hoca Gıyaseddin Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9618492,41.0187187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hoca Gıyaseddin Kabri

@@ -1,18 +1,17 @@
 ---
-title: "Porsuk Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:49+03:00
+title: "Porsuk Köprüsü"
+date: "2025-12-25T02:36:49+03:00"
 slug: "porsuk-koprusu"
 description: "## Porsuk Köprüsü: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.904778,40.969862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Porsuk Köprüsü: Tarihi ve Kültürel Mirasımız

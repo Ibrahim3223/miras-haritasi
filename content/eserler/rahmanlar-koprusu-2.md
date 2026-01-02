@@ -1,18 +1,17 @@
 ---
-title: "Rahmanlar Köprüsü 2 | Miras Haritası"
-date: 2025-12-25T02:19:20+03:00
+title: "Rahmanlar Köprüsü 2"
+date: "2025-12-25T02:19:20+03:00"
 slug: "rahmanlar-koprusu-2"
 description: "## Rahmanlar Köprüsü 2: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3743992,38.0481987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rahmanlar Köprüsü 2: Aydın'ın Tarihi Bir Mirası

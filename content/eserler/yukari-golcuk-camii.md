@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Gölcük Camii | Miras Haritası"
-date: 2025-12-24T23:46:20+03:00
+title: "Yukarı Gölcük Camii"
+date: "2025-12-24T23:46:20+03:00"
 slug: "yukari-golcuk-camii"
 description: "# Yukarı Gölcük Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.2474995,37.1733017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yukarı Gölcük Camii

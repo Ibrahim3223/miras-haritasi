@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Manastırı | Miras Haritası"
-date: 2025-12-25T09:54:42+03:00
+title: "Ayazma Manastırı"
+date: "2025-12-25T09:54:42+03:00"
 slug: "ayazma-manastiri"
 description: "## Ayazma Manastırı: Bozcaada'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bozcaada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "26.0146999,39.8136787"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayazma Manastırı: Bozcaada'nın Gizli Çeşmesi

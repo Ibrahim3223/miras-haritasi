@@ -1,18 +1,17 @@
 ---
-title: "Monastery of St. John of Petra | Miras Haritası"
-date: 2025-12-25T09:59:45+03:00
+title: "Monastery of St. John of Petra"
+date: "2025-12-25T09:59:45+03:00"
 slug: "monastery-of-st-john-of-petra"
 description: "### Monastery of St. John of Petra: İstanbul'un Gizli Tarihi Birlikte..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul Büyükşehir Belediyesi"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Monastery of St. John of Petra: İstanbul'un Gizli Tarihi Birlikte

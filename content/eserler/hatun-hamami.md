@@ -1,18 +1,17 @@
 ---
-title: "Hatun Hamamı | Miras Haritası"
-date: 2025-12-25T16:44:03+03:00
+title: "Hatun Hamamı"
+date: "2025-12-25T16:44:03+03:00"
 slug: "hatun-hamami"
 description: "## Hatun Hamamı: Karaman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.207119,37.1806679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatun Hamamı: Karaman'ın Tarihi Bir Mirası

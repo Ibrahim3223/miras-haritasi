@@ -1,18 +1,17 @@
 ---
-title: "Elmalı Camii | Miras Haritası"
-date: 2025-12-24T22:36:47+03:00
+title: "Elmalı Camii"
+date: "2025-12-24T22:36:47+03:00"
 slug: "elmali-camii"
 description: "**Eskişehir'in Şirin Köyü'nde Bulunan Elmalı Camii: Tarih, Mimarisi ve Ziyaret Guide**..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5331402,39.4497337"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Eskişehir'in Şirin Köyü'nde Bulunan Elmalı Camii: Tarih, Mimarisi ve Ziyaret Guide**

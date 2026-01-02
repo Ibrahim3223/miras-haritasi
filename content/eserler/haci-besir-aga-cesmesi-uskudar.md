@@ -1,18 +1,17 @@
 ---
-title: "Hacı Beşir Ağa Çeşmesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T12:06:03+03:00
+title: "Hacı Beşir Ağa Çeşmesi, Üsküdar"
+date: "2025-12-25T12:06:03+03:00"
 slug: "haci-besir-aga-cesmesi-uskudar"
 description: "## Hacı Beşir Ağa Çeşmesi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0198822,41.0195389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Beşir Ağa Çeşmesi: Üsküdar'ın Gizli Çeşmesi

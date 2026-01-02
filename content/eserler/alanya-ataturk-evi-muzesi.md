@@ -1,18 +1,17 @@
 ---
-title: "Alanya Atatürk Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:17:31+03:00
+title: "Alanya Atatürk Evi Müzesi"
+date: "2025-12-25T03:17:31+03:00"
 slug: "alanya-ataturk-evi-muzesi"
 description: "## Alanya Atatürk Evi Müzesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alanya Atatürk Evi Müzesi

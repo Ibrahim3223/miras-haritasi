@@ -1,18 +1,17 @@
 ---
-title: "Bekdemir Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:19:44+03:00
+title: "Bekdemir Köyü Çeşmesi"
+date: "2025-12-25T10:19:44+03:00"
 slug: "bekdemir-koyu-cesmesi"
 description: "## Bekdemir Köyü Çeşmesi: Ulubey'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.3845768,38.5117416"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekdemir Köyü Çeşmesi: Ulubey'in Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ağa Camii, Harput | Miras Haritası"
-date: 2025-12-25T01:09:57+03:00
+title: "Ağa Camii, Harput"
+date: "2025-12-25T01:09:57+03:00"
 slug: "aga-camii-harput"
 description: "## Ağa Camii, Harput..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.2498474,38.7036095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağa Camii, Harput

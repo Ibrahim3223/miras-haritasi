@@ -1,18 +1,17 @@
 ---
-title: "Mesudiye Kalesi | Miras Haritası"
-date: 2025-12-25T01:36:36+03:00
+title: "Mesudiye Kalesi"
+date: "2025-12-25T01:36:36+03:00"
 slug: "mesudiye-kalesi"
 description: "**Mesudiye Kalesi**..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Mesudiye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.7456117,40.4959991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mesudiye Kalesi**

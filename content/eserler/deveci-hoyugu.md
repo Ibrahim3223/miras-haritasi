@@ -1,18 +1,17 @@
 ---
-title: "Deveci Höyüğü | Miras Haritası"
-date: 2025-12-25T06:20:57+03:00
+title: "Deveci Höyüğü"
+date: "2025-12-25T06:20:57+03:00"
 slug: "deveci-hoyugu"
 description: "### Deveci Höyüğü: Kırşehir'in Gizli Tarihi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Akpınar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.0180948,39.4683444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Deveci Höyüğü: Kırşehir'in Gizli Tarihi

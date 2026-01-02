@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Güney | Miras Haritası"
-date: 2025-12-25T02:55:14+03:00
+title: "Roma Köprüsü, Güney"
+date: "2025-12-25T02:55:14+03:00"
 slug: "roma-koprusu-guney"
 description: "## Roma Köprüsü, Güney..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Güney"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.0564499,38.119915"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Güney

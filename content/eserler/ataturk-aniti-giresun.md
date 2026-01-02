@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Giresun | Miras Haritası"
-date: 2025-12-25T15:48:37+03:00
+title: "Atatürk Anıtı, Giresun"
+date: "2025-12-25T15:48:37+03:00"
 slug: "ataturk-aniti-giresun"
 description: "## Atatürk Anıtı, Giresun..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.384096,40.917663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı, Giresun

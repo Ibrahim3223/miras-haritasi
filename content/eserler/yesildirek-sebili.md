@@ -1,18 +1,17 @@
 ---
-title: "Yeşildirek Sebili | Miras Haritası"
-date: 2025-12-25T13:08:22+03:00
+title: "Yeşildirek Sebili"
+date: "2025-12-25T13:08:22+03:00"
 slug: "yesildirek-sebili"
 description: "## Yeşildirek Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.969315,41.025356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşildirek Sebili: İstanbul'un Gizli Çeşmesi

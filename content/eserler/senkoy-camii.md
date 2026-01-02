@@ -1,18 +1,17 @@
 ---
-title: "Şenköy Camii | Miras Haritası"
-date: 2025-12-24T23:11:55+03:00
+title: "Şenköy Camii"
+date: "2025-12-24T23:11:55+03:00"
 slug: "senkoy-camii"
 description: "## Şenköy Camii: Çamlıhemşin'in Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.960768,40.945688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şenköy Camii: Çamlıhemşin'in Kültürel Mirası

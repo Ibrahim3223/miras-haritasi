@@ -1,18 +1,17 @@
 ---
-title: "Sarı Saltuk Türbesi, Rumelifeneri | Miras Haritası"
-date: 2025-12-25T13:37:15+03:00
+title: "Sarı Saltuk Türbesi, Rumelifeneri"
+date: "2025-12-25T13:37:15+03:00"
 slug: "sari-saltuk-turbesi-rumelifeneri"
 description: "### Sarı Saltuk Türbesi, Rumelifeneri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.112258,41.234181"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarı Saltuk Türbesi, Rumelifeneri

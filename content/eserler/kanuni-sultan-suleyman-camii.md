@@ -1,18 +1,17 @@
 ---
-title: "Kanuni Sultan Süleyman Camii | Miras Haritası"
-date: 2025-12-25T00:03:19+03:00
+title: "Kanuni Sultan Süleyman Camii"
+date: "2025-12-25T00:03:19+03:00"
 slug: "kanuni-sultan-suleyman-camii"
 description: "## Kanuni Sultan Süleyman Camii: Hatay'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Belen"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1930237,36.4923134"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanuni Sultan Süleyman Camii: Hatay'ın Tarihî ve Kültürel Mirası

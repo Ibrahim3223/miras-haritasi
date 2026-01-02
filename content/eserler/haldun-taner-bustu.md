@@ -1,18 +1,17 @@
 ---
-title: "Haldun Taner Büstü | Miras Haritası"
-date: 2025-12-25T15:46:52+03:00
+title: "Haldun Taner Büstü"
+date: "2025-12-25T15:46:52+03:00"
 slug: "haldun-taner-bustu"
 description: "## Haldun Taner Büstü: Kadıköy'ün Değerli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0213032,40.9859047"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haldun Taner Büstü: Kadıköy'ün Değerli Anıtı

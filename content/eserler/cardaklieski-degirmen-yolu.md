@@ -1,18 +1,17 @@
 ---
-title: "Çardaklı/Eski Değirmen Yolu | Miras Haritası"
-date: 2025-12-25T05:36:22+03:00
+title: "Çardaklı/Eski Değirmen Yolu"
+date: "2025-12-25T05:36:22+03:00"
 slug: "cardaklieski-degirmen-yolu"
 description: "# Çardaklı/Eski Değirmen Yolu Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.529844,41.710283"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çardaklı/Eski Değirmen Yolu Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Arbissos | Miras Haritası"
-date: 2025-12-25T08:29:37+03:00
+title: "Arbissos"
+date: "2025-12-25T08:29:37+03:00"
 slug: "arbissos"
 description: "## Arbissos: Kahramanmaraş'ın Gizemi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.9172707,38.2437897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arbissos: Kahramanmaraş'ın Gizemi

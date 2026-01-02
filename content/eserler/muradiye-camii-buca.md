@@ -1,18 +1,17 @@
 ---
-title: "Muradiye Camii (Buca) | Miras Haritası"
-date: 2025-12-25T00:17:24+03:00
+title: "Muradiye Camii (Buca)"
+date: "2025-12-25T00:17:24+03:00"
 slug: "muradiye-camii-buca"
 description: "## Muradiye Camii (Buca)..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Buca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.173727,38.3855095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muradiye Camii (Buca)

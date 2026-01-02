@@ -1,18 +1,17 @@
 ---
-title: "Germuş Kilisesi | Miras Haritası"
-date: 2025-12-25T08:56:00+03:00
+title: "Germuş Kilisesi"
+date: "2025-12-25T08:56:00+03:00"
 slug: "germus-kilisesi"
 description: "### Germuş Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Germuş_kilisesi_-şanlıurfa.jpg/1200px-Germuş_kilisesi_-şanlıurfa.jpg"
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Haliliye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.85096,37.20152"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Germuş Kilisesi

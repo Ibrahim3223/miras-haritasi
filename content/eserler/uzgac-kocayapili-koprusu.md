@@ -1,18 +1,17 @@
 ---
-title: "Uzgaç Kocayapılı Köprüsü | Miras Haritası"
-date: 2025-12-25T03:04:20+03:00
+title: "Uzgaç Kocayapılı Köprüsü"
+date: "2025-12-25T03:04:20+03:00"
 slug: "uzgac-kocayapili-koprusu"
 description: "## Uzgaç Kocayapılı Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.4290447,41.8129654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzgaç Kocayapılı Köprüsü

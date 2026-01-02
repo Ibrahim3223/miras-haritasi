@@ -1,18 +1,17 @@
 ---
-title: "Tyanollos | Miras Haritası"
-date: 2025-12-25T04:39:37+03:00
+title: "Tyanollos"
+date: "2025-12-25T04:39:37+03:00"
 slug: "tyanollos"
 description: "## Tyanollos: Manisa'nın Gizli Mabeti..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.72601,38.74342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tyanollos: Manisa'nın Gizli Mabeti

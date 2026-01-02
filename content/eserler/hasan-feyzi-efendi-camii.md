@@ -1,18 +1,17 @@
 ---
-title: "Hasan Feyzi Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:33:00+03:00
+title: "Hasan Feyzi Efendi Camii"
+date: "2025-12-24T23:33:00+03:00"
 slug: "hasan-feyzi-efendi-camii"
 description: "## Hasan Feyzi Efendi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0823116,37.7641335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Feyzi Efendi Camii

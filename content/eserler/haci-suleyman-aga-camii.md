@@ -1,18 +1,17 @@
 ---
-title: "Hacı Süleyman Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:28:53+03:00
+title: "Hacı Süleyman Ağa Camii"
+date: "2025-12-24T23:28:53+03:00"
 slug: "haci-suleyman-aga-camii"
 description: "## Hacı Süleyman Ağa Camii Tanıtımı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9153996,36.7463989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Süleyman Ağa Camii Tanıtımı

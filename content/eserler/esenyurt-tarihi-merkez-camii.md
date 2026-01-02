@@ -1,18 +1,17 @@
 ---
-title: "Esenyurt Tarihi Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:53:46+03:00
+title: "Esenyurt Tarihi Merkez Camii"
+date: "2025-12-24T22:53:46+03:00"
 slug: "esenyurt-tarihi-merkez-camii"
 description: "## Esenyurt Tarihi Merkez Camii..."
 featured_image: ""
-province: "Esenyurt"
-iller: ["Esenyurt"]
-district: "Bağlarçeşme"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Esenyurt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6781502,41.0347557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esenyurt Tarihi Merkez Camii

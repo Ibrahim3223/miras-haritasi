@@ -1,18 +1,17 @@
 ---
-title: "Avanos Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:31:25+03:00
+title: "Avanos Tümülüsü"
+date: "2025-12-25T07:31:25+03:00"
 slug: "avanos-tumulusu"
 description: "# Avanos Tümülüsü: Tarihi ve Kültürel Mirasın Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8541794,38.7813148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Avanos Tümülüsü: Tarihi ve Kültürel Mirasın Anıtı

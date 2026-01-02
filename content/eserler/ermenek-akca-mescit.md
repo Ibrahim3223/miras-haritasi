@@ -1,18 +1,17 @@
 ---
-title: "Ermenek Akça Mescit | Miras Haritası"
-date: 2025-12-24T23:00:31+03:00
+title: "Ermenek Akça Mescit"
+date: "2025-12-24T23:00:31+03:00"
 slug: "ermenek-akca-mescit"
 description: "### Ermenek Akça Mescit: Karaman'ın Gizli Çehresinde Bir Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8874435,36.6411934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ermenek Akça Mescit: Karaman'ın Gizli Çehresinde Bir Cami

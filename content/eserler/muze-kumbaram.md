@@ -1,18 +1,17 @@
 ---
-title: "Müze Kumbaram | Miras Haritası"
-date: 2025-12-25T04:05:48+03:00
+title: "Müze Kumbaram"
+date: "2025-12-25T04:05:48+03:00"
 slug: "muze-kumbaram"
 description: "## Ankara Müze Kumbaram..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.722751374,39.812249593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Müze Kumbaram

@@ -1,18 +1,17 @@
 ---
-title: "Altınoluk Merkez Camii | Miras Haritası"
-date: 2025-12-24T21:54:00+03:00
+title: "Altınoluk Merkez Camii"
+date: "2025-12-24T21:54:00+03:00"
 slug: "altinoluk-merkez-camii"
 description: "### Altınoluk Merkez Camii: Edremit'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edremit (Balıkesir) ilçesi"
-iller: ["Edremit (Balıkesir) ilçesi"]
+iller: '["Edremit (Balıkesir) ilçesi"]'
 district: "Altınoluk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7383097,39.5798076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Altınoluk Merkez Camii: Edremit'in Tarihi Bir Mirası

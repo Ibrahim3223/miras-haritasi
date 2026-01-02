@@ -1,18 +1,17 @@
 ---
-title: "Muharrem Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:02+03:00
+title: "Muharrem Efendi Türbesi"
+date: "2025-12-25T14:23:02+03:00"
 slug: "muharrem-efendi-turbesi"
 description: "### Muharrem Efendi Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8872,40.297"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muharrem Efendi Türbesi

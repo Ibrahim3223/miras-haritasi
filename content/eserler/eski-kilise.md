@@ -1,18 +1,17 @@
 ---
-title: "Eski Kilise | Miras Haritası"
-date: 2025-12-25T09:39:27+03:00
+title: "Eski Kilise"
+date: "2025-12-25T09:39:27+03:00"
 slug: "eski-kilise"
 description: "## Eski Kilise: Alanya'nın Gizli Çehresini İncelemek İçin Bir Keşif..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "31.9905415,36.5333672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Kilise: Alanya'nın Gizli Çehresini İncelemek İçin Bir Keşif

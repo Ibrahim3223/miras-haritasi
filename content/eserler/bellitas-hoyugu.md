@@ -1,18 +1,17 @@
 ---
-title: "Bellitaş Höyüğü | Miras Haritası"
-date: 2025-12-25T06:26:30+03:00
+title: "Bellitaş Höyüğü"
+date: "2025-12-25T06:26:30+03:00"
 slug: "bellitas-hoyugu"
 description: "# Bellitaş Höyüğü..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Harran"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.1248646,36.9167016"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bellitaş Höyüğü

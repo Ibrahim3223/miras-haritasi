@@ -1,18 +1,17 @@
 ---
-title: "Baklankuyucak Camii | Miras Haritası"
-date: 2025-12-24T22:12:32+03:00
+title: "Baklankuyucak Camii"
+date: "2025-12-24T22:12:32+03:00"
 slug: "baklankuyucak-camii"
 description: "### Baklankuyucak Camii: Denizli'nin Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.5412006,37.8927994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Baklankuyucak Camii: Denizli'nin Gizli Cenneti

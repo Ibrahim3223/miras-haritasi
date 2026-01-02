@@ -1,18 +1,17 @@
 ---
-title: "Direkli Camii | Miras Haritası"
-date: 2025-12-24T22:36:55+03:00
+title: "Direkli Camii"
+date: "2025-12-24T22:36:55+03:00"
 slug: "direkli-camii"
 description: "## Direkli Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8696976,39.9385681"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Direkli Camii

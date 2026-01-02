@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Mansur Simati Türbesi | Miras Haritası"
-date: 2025-12-25T14:22:03+03:00
+title: "Şeyh Mansur Simati Türbesi"
+date: "2025-12-25T14:22:03+03:00"
 slug: "seyh-mansur-simati-turbesi"
 description: "**Şeyh Mansur Simati Türbesi**..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.125949,36.695579"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyh Mansur Simati Türbesi**

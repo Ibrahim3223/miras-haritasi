@@ -1,18 +1,17 @@
 ---
-title: "Işıldaklı Geçidi Çeşmesi, Bayındır | Miras Haritası"
-date: 2025-12-25T12:56:55+03:00
+title: "Işıldaklı Geçidi Çeşmesi, Bayındır"
+date: "2025-12-25T12:56:55+03:00"
 slug: "isildakli-gecidi-cesmesi-bayindir"
 description: "### Işıldaklı Geçidi Çeşmesi, Bayındır: Tarihi Bir Anıt..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6443214,38.2238121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Işıldaklı Geçidi Çeşmesi, Bayındır: Tarihi Bir Anıt

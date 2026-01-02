@@ -1,18 +1,17 @@
 ---
-title: "Dört Tepeler D Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:16:18+03:00
+title: "Dört Tepeler D Tümülüsü"
+date: "2025-12-25T08:16:18+03:00"
 slug: "dort-tepeler-d-tumulusu"
 description: "### Dört Tepeler D Tümülüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7069492,41.4635849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dört Tepeler D Tümülüsü

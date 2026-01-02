@@ -1,18 +1,17 @@
 ---
-title: "Reşit Bey Anıtı | Miras Haritası"
-date: 2025-12-25T15:43:28+03:00
+title: "Reşit Bey Anıtı"
+date: "2025-12-25T15:43:28+03:00"
 slug: "resit-bey-aniti"
 description: "## Reşit Bey Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.385891,41.7081375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Reşit Bey Anıtı

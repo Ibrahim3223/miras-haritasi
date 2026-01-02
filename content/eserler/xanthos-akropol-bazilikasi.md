@@ -1,18 +1,17 @@
 ---
-title: "Xanthos Akropol Bazilikası | Miras Haritası"
-date: 2025-12-25T09:26:31+03:00
+title: "Xanthos Akropol Bazilikası"
+date: "2025-12-25T09:26:31+03:00"
 slug: "xanthos-akropol-bazilikasi"
 description: "# Xanthos Akropol Bazilikası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.32052,36.359032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Xanthos Akropol Bazilikası

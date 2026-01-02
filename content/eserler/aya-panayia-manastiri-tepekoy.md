@@ -1,18 +1,17 @@
 ---
-title: "Aya Panayia Manastırı (Tepeköy) | Miras Haritası"
-date: 2025-12-25T09:58:37+03:00
+title: "Aya Panayia Manastırı (Tepeköy)"
+date: "2025-12-25T09:58:37+03:00"
 slug: "aya-panayia-manastiri-tepekoy"
 description: "### Aya Panayia Manastırı (Tepeköy): Gökçeada'nın Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.8204002,40.1533012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Panayia Manastırı (Tepeköy): Gökçeada'nın Gizli Çehresini Keşfedin

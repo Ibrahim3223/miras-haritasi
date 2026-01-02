@@ -1,18 +1,17 @@
 ---
-title: "Surp Andon Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:34+03:00
+title: "Surp Andon Kilisesi"
+date: "2025-12-25T08:51:34+03:00"
 slug: "surp-andon-kilisesi"
 description: "## Surp Andon Kilisesi: İstanbul'un Gizli Çarşılarını Geri Getiren Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Tarabya_Surp_Andon_Ermeni_Katolik_kilisesi.jpg/1200px-Tarabya_Surp_Andon_Ermeni_Katolik_kilisesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.05444444,41.14027778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Andon Kilisesi: İstanbul'un Gizli Çarşılarını Geri Getiren Bir Örnek

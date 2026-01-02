@@ -1,18 +1,17 @@
 ---
-title: "Balıklısu Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:13:04+03:00
+title: "Balıklısu Köyü Camii"
+date: "2025-12-24T22:13:04+03:00"
 slug: "baliklisu-koyu-camii"
 description: "### Balıklısu Köyü Camii: Giresun'un Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Giresun"
+province: "Giresun"
+iller: '["Giresun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.588536,40.905679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balıklısu Köyü Camii: Giresun'un Tarihi Mirası

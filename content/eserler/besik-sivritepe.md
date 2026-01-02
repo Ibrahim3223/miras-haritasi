@@ -1,18 +1,17 @@
 ---
-title: "Beşik - Sivritepe | Miras Haritası"
-date: 2025-12-25T07:07:27+03:00
+title: "Beşik - Sivritepe"
+date: "2025-12-25T07:07:27+03:00"
 slug: "besik-sivritepe"
 description: "# Beşik - Sivritepe Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Beşik - Sivritepe Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Besni Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:01:33+03:00
+title: "Besni Ulu Camii"
+date: "2025-12-24T22:01:33+03:00"
 slug: "besni-ulu-camii"
 description: "## Besni Ulu Camii: Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Besni"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.864305555,37.674638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Besni Ulu Camii: Bir Osmanlı Dönemi Mirası

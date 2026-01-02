@@ -1,18 +1,17 @@
 ---
-title: "Erenler Tavşanhisar Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:49:29+03:00
+title: "Erenler Tavşanhisar Kalesi, Kırklareli"
+date: "2025-12-25T01:49:29+03:00"
 slug: "erenler-tavsanhisar-kalesi-kirklareli"
 description: "### Erenler Tavşanhisar Kalesi: Kırklareli'nin Gizli Çehresi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5658989,41.6298561"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Erenler Tavşanhisar Kalesi: Kırklareli'nin Gizli Çehresi

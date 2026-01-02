@@ -1,18 +1,17 @@
 ---
-title: "Anadolu Medeniyetleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:18:39+03:00
+title: "Anadolu Medeniyetleri Müzesi"
+date: "2025-12-25T03:18:39+03:00"
 slug: "anadolu-medeniyetleri-muzesi"
 description: "### Anadolu Medeniyetleri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Museum_of_Anatolian_Civilizations_Phrygian_Small_table_fom_tomb_of_Midas_in_2014_04.jpg/1200px-Museum_of_Anatolian_Civilizations_Phrygian_Small_table_fom_tomb_of_Midas_in_2014_04.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.861944,39.938333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Anadolu Medeniyetleri Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Aynül Hayat Hatun Mescidi | Miras Haritası"
-date: 2025-12-25T00:32:40+03:00
+title: "Aynül Hayat Hatun Mescidi"
+date: "2025-12-25T00:32:40+03:00"
 slug: "aynul-hayat-hatun-mescidi"
 description: "## Aynül Hayat Hatun Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.96804,41.004204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aynül Hayat Hatun Mescidi

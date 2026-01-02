@@ -1,18 +1,17 @@
 ---
-title: "Ortayol Kocataş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:10:55+03:00
+title: "Ortayol Kocataş Köprüsü"
+date: "2025-12-25T02:10:55+03:00"
 slug: "ortayol-kocatas-koprusu"
 description: "### Ortayol Kocataş Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.9177,41.092567"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ortayol Kocataş Köprüsü

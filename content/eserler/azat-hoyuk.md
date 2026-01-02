@@ -1,18 +1,17 @@
 ---
-title: "Azat Höyük | Miras Haritası"
-date: 2025-12-25T05:59:47+03:00
+title: "Azat Höyük"
+date: "2025-12-25T05:59:47+03:00"
 slug: "azat-hoyuk"
 description: "## Azat Höyük: Kars'ın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.1126785,40.530159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Azat Höyük: Kars'ın Gizemli Arkeolojik Sitleri

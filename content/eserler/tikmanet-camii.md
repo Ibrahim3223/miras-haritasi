@@ -1,18 +1,17 @@
 ---
-title: "Tikmanet Camii | Miras Haritası"
-date: 2025-12-24T22:21:13+03:00
+title: "Tikmanet Camii"
+date: "2025-12-24T22:21:13+03:00"
 slug: "tikmanet-camii"
 description: "## Tikmanet Camii..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Bereket"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.982277777,41.06675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tikmanet Camii

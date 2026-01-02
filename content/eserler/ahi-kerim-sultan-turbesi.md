@@ -1,18 +1,17 @@
 ---
-title: "Ahi Kerim Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:51+03:00
+title: "Ahi Kerim Sultan Türbesi"
+date: "2025-12-25T14:50:51+03:00"
 slug: "ahi-kerim-sultan-turbesi"
 description: "# Ahi Kerim Sultan Türbesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4660568,40.8713417"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ahi Kerim Sultan Türbesi

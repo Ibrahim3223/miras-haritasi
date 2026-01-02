@@ -1,18 +1,17 @@
 ---
-title: "Karabucak Mozolesi | Miras Haritası"
-date: 2025-12-25T14:06:37+03:00
+title: "Karabucak Mozolesi"
+date: "2025-12-25T14:06:37+03:00"
 slug: "karabucak-mozolesi"
 description: "# Karabucak Mozolesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9681263,36.2523308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karabucak Mozolesi

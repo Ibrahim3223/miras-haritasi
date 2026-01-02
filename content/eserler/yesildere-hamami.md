@@ -1,18 +1,17 @@
 ---
-title: "Yeşildere Hamamı | Miras Haritası"
-date: 2025-12-25T17:12:48+03:00
+title: "Yeşildere Hamamı"
+date: "2025-12-25T17:12:48+03:00"
 slug: "yesildere-hamami"
 description: "### Yeşildere Hamamı..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.511832496,37.155249186"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeşildere Hamamı

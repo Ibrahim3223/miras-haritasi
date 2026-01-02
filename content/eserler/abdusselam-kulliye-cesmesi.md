@@ -1,18 +1,17 @@
 ---
-title: "Abdüsselam Külliye Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:34+03:00
+title: "Abdüsselam Külliye Çeşmesi"
+date: "2025-12-25T11:07:34+03:00"
 slug: "abdusselam-kulliye-cesmesi"
 description: "## Abdüsselam Külliye Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Küçükçekmece_-_Abdüsselam_Social_Complex_Fountain_-_20241129172312.jpg/1200px-Küçükçekmece_-_Abdüsselam_Social_Complex_Fountain_-_20241129172312.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.7720805,40.9915931"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Abdüsselam Külliye Çeşmesi

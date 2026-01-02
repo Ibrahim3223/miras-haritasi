@@ -1,18 +1,17 @@
 ---
-title: "Zeki Müren Sanat Müzesi | Miras Haritası"
-date: 2025-12-25T03:25:50+03:00
+title: "Zeki Müren Sanat Müzesi"
+date: "2025-12-25T03:25:50+03:00"
 slug: "zeki-muren-sanat-muzesi"
 description: "## Zeki Müren Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zeki_Müren_Sanat_Müzesi_04.jpg/1200px-Zeki_Müren_Sanat_Müzesi_04.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4398289,37.0302582"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zeki Müren Sanat Müzesi

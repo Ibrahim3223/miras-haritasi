@@ -1,18 +1,17 @@
 ---
-title: "Biyoçeşitlilik Müzesi (Biyosfer Müze) | Miras Haritası"
-date: 2025-12-25T04:04:57+03:00
+title: "Biyoçeşitlilik Müzesi (Biyosfer Müze)"
+date: "2025-12-25T04:04:57+03:00"
 slug: "biyocesitlilik-muzesi-biyosfer-muze"
 description: "## Biyoçeşitlilik Müzesi (Biyosfer Müze)..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.732569842,39.893736578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Biyoçeşitlilik Müzesi (Biyosfer Müze)

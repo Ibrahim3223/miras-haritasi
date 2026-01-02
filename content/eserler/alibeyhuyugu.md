@@ -1,18 +1,17 @@
 ---
-title: "Alibeyhüyüğü | Miras Haritası"
-date: 2025-12-25T06:08:11+03:00
+title: "Alibeyhüyüğü"
+date: "2025-12-25T06:08:11+03:00"
 slug: "alibeyhuyugu"
 description: "# Alibeyhüyüğü Arkeolojik Sit..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.6657143,37.5352631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alibeyhüyüğü Arkeolojik Sit

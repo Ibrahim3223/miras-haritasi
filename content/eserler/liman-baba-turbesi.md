@@ -1,18 +1,17 @@
 ---
-title: "Liman Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:16+03:00
+title: "Liman Baba Türbesi"
+date: "2025-12-25T14:20:16+03:00"
 slug: "liman-baba-turbesi"
 description: "## Liman Baba Türbesi: Demirköy'ün Kültürel Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.029948,41.887666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Liman Baba Türbesi: Demirköy'ün Kültürel Mirası

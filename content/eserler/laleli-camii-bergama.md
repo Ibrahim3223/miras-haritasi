@@ -1,18 +1,17 @@
 ---
-title: "Laleli Camii, Bergama | Miras Haritası"
-date: 2025-12-24T23:57:22+03:00
+title: "Laleli Camii, Bergama"
+date: "2025-12-24T23:57:22+03:00"
 slug: "laleli-camii-bergama"
 description: "### Laleli Camii, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1742954,39.1215363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Laleli Camii, Bergama

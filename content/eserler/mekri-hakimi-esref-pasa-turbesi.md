@@ -1,18 +1,17 @@
 ---
-title: "Mekri Hakimi Eşref Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:00:28+03:00
+title: "Mekri Hakimi Eşref Paşa Türbesi"
+date: "2025-12-25T15:00:28+03:00"
 slug: "mekri-hakimi-esref-pasa-turbesi"
 description: "## Mekri Hakimi Eşref Paşa Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.6624641,36.8040695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mekri Hakimi Eşref Paşa Türbesi

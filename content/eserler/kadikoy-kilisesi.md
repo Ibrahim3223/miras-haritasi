@@ -1,18 +1,17 @@
 ---
-title: "Kadıköy Kilisesi | Miras Haritası"
-date: 2025-12-25T09:46:05+03:00
+title: "Kadıköy Kilisesi"
+date: "2025-12-25T09:46:05+03:00"
 slug: "kadikoy-kilisesi"
 description: "### Kadıköy Kilisesi: Erzincan'ın Gizemli Tarihi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Refahiye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.4535713,39.9468575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kadıköy Kilisesi: Erzincan'ın Gizemli Tarihi

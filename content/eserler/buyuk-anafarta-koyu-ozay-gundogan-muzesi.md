@@ -1,18 +1,17 @@
 ---
-title: "Büyük Anafarta Köyü Özay Gündoğan Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:30+03:00
+title: "Büyük Anafarta Köyü Özay Gündoğan Müzesi"
+date: "2025-12-25T03:52:30+03:00"
 slug: "buyuk-anafarta-koyu-ozay-gundogan-muzesi"
 description: "## Büyük Anafarta Köyü Özay Gündoğan Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.328484,40.281709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Anafarta Köyü Özay Gündoğan Müzesi

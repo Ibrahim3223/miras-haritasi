@@ -1,18 +1,17 @@
 ---
-title: "Ane Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:05+03:00
+title: "Ane Hatun Türbesi"
+date: "2025-12-25T15:07:05+03:00"
 slug: "ane-hatun-turbesi"
 description: "## Ane Hatun Türbesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.270027777,39.904222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ane Hatun Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Ahi Yusuf Camii ve Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:08+03:00
+title: "Ahi Yusuf Camii ve Türbesi"
+date: "2025-12-25T15:15:08+03:00"
 slug: "ahi-yusuf-camii-ve-turbesi"
 description: "## Ahi Yusuf Camii ve Türbesi: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.704,36.8835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Yusuf Camii ve Türbesi: Antalya'nın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Ostreodes | Miras Haritası"
-date: 2025-12-25T04:52:33+03:00
+title: "Ostreodes"
+date: "2025-12-25T04:52:33+03:00"
 slug: "ostreodes"
 description: "## Ostreodes Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.976566,41.023812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ostreodes Arkeolojik Sit

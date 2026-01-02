@@ -1,18 +1,17 @@
 ---
-title: "Çeltikçi Tümülüsü, Denizli | Miras Haritası"
-date: 2025-12-25T07:58:23+03:00
+title: "Çeltikçi Tümülüsü, Denizli"
+date: "2025-12-25T07:58:23+03:00"
 slug: "celtikci-tumulusu-denizli"
 description: "## Çeltikçi Tümülüsü: Denizli'nin Gizli Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0919991,37.8633003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeltikçi Tümülüsü: Denizli'nin Gizli Mirası

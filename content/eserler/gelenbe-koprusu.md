@@ -1,18 +1,17 @@
 ---
-title: "Gelenbe Köprüsü | Miras Haritası"
-date: 2025-12-25T02:24:32+03:00
+title: "Gelenbe Köprüsü"
+date: "2025-12-25T02:24:32+03:00"
 slug: "gelenbe-koprusu"
 description: "## Gelenbe Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.8417756,39.1653907"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gelenbe Köprüsü

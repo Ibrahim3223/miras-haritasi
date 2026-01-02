@@ -1,18 +1,17 @@
 ---
-title: "İzmir Fuarı Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:22:05+03:00
+title: "İzmir Fuarı Saat Kulesi"
+date: "2025-12-25T17:22:05+03:00"
 slug: "izmir-fuari-saat-kulesi"
 description: "# İzmir Fuarı Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pakistan_Pavilion_Clock_Tower_1.jpg/1200px-Pakistan_Pavilion_Clock_Tower_1.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "27.1431561,38.4299278"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # İzmir Fuarı Saat Kulesi

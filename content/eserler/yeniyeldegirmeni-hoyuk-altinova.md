@@ -1,18 +1,17 @@
 ---
-title: "Yeniyeldeğirmeni Höyük, Altınova | Miras Haritası"
-date: 2025-12-25T13:50:03+03:00
+title: "Yeniyeldeğirmeni Höyük, Altınova"
+date: "2025-12-25T13:50:03+03:00"
 slug: "yeniyeldegirmeni-hoyuk-altinova"
 description: "### Yeniyeldeğirmeni Höyük, Altınova: Ayvalık'taki Tarihi Bir Anıt..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.765484,39.210465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeniyeldeğirmeni Höyük, Altınova: Ayvalık'taki Tarihi Bir Anıt

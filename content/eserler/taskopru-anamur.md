@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü, Anamur | Miras Haritası"
-date: 2025-12-25T02:46:01+03:00
+title: "Taşköprü, Anamur"
+date: "2025-12-25T02:46:01+03:00"
 slug: "taskopru-anamur"
 description: "## Taşköprü, Anamur: Kıbrıs'ın Efsanevi Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.8046417,36.0644569"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşköprü, Anamur: Kıbrıs'ın Efsanevi Köprüsü

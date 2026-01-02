@@ -1,18 +1,17 @@
 ---
-title: "Mustafa Ertuğrul Aker Anıtı | Miras Haritası"
-date: 2025-12-25T15:47:22+03:00
+title: "Mustafa Ertuğrul Aker Anıtı"
+date: "2025-12-25T15:47:22+03:00"
 slug: "mustafa-ertugrul-aker-aniti"
 description: "## Mustafa Ertuğrul Aker Anıtı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.6876678,36.8841858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mustafa Ertuğrul Aker Anıtı

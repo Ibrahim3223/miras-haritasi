@@ -1,18 +1,17 @@
 ---
-title: "Salihli Şehitliği ve Şehit Mehmetçik Anıtı | Miras Haritası"
-date: 2025-12-25T15:58:31+03:00
+title: "Salihli Şehitliği ve Şehit Mehmetçik Anıtı"
+date: "2025-12-25T15:58:31+03:00"
 slug: "salihli-sehitligi-ve-sehit-mehmetcik-aniti"
 description: "## Salihli Şehitliği ve Şehit Mehmetçik Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.1279488,38.4832802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salihli Şehitliği ve Şehit Mehmetçik Anıtı

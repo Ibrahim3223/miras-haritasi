@@ -1,18 +1,17 @@
 ---
-title: "Gre Virike Höyüğü | Miras Haritası"
-date: 2025-12-25T08:13:38+03:00
+title: "Gre Virike Höyüğü"
+date: "2025-12-25T08:13:38+03:00"
 slug: "gre-virike-hoyugu"
 description: "**Gre Virike Höyüğü: Şanlıurfa'nın Gizli Anıtı**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0154,36.922745"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gre Virike Höyüğü: Şanlıurfa'nın Gizli Anıtı**

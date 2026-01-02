@@ -1,18 +1,17 @@
 ---
-title: "Paşa Camii, Kula | Miras Haritası"
-date: 2025-12-25T00:03:11+03:00
+title: "Paşa Camii, Kula"
+date: "2025-12-25T00:03:11+03:00"
 slug: "pasa-camii-kula"
 description: "## Paşa Camii, Kula..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6467438,38.5474777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Camii, Kula

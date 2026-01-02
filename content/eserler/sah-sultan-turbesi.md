@@ -1,18 +1,18 @@
 ---
-title: "Şah Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:09+03:00
+title: "Şah Sultan Türbesi"
+date: "2025-12-25T14:41:09+03:00"
 slug: "sah-sultan-turbesi"
 description: "## Şah Sultan Türbesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tomb_complex_of_Şah_Sultan_in_2018_7245.jpg/1200px-Tomb_complex_of_Şah_Sultan_in_2018_7245.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9364204,41.0444069"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tomb_complex_of_Şah_Sultan_in_2018_7245.jpg/1200px-Tomb_complex_of_Şah_Sultan_in_2018_7245.jpg"
 ---
 
 ## Şah Sultan Türbesi

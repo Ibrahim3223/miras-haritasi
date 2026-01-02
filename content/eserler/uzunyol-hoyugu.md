@@ -1,18 +1,17 @@
 ---
-title: "Uzunyol Höyüğü | Miras Haritası"
-date: 2025-12-25T06:28:38+03:00
+title: "Uzunyol Höyüğü"
+date: "2025-12-25T06:28:38+03:00"
 slug: "uzunyol-hoyugu"
 description: "## Uzunyol Höyüğü: Harran'ın Gizemli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Harran"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.9845944,36.8066166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzunyol Höyüğü: Harran'ın Gizemli Mirası

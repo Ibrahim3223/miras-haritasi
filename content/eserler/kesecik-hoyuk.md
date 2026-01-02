@@ -1,18 +1,17 @@
 ---
-title: "Kesecik Höyük | Miras Haritası"
-date: 2025-12-25T06:12:08+03:00
+title: "Kesecik Höyük"
+date: "2025-12-25T06:12:08+03:00"
 slug: "kesecik-hoyuk"
 description: "## Kesecik Höyük: Türkiye'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.9280777,37.411438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kesecik Höyük: Türkiye'nin Gizli Mücevheri

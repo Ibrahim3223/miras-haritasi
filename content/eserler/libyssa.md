@@ -1,18 +1,17 @@
 ---
-title: "Libyssa | Miras Haritası"
-date: 2025-12-25T05:02:56+03:00
+title: "Libyssa"
+date: "2025-12-25T05:02:56+03:00"
 slug: "libyssa"
 description: "### Libyssa: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.539812,40.769562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Libyssa: Antik Kentin Gizemi

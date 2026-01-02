@@ -1,18 +1,17 @@
 ---
-title: "Sultan Selim (I) Hamamı | Miras Haritası"
-date: 2025-12-25T17:02:43+03:00
+title: "Sultan Selim (I) Hamamı"
+date: "2025-12-25T17:02:43+03:00"
 slug: "sultan-selim-i-hamami"
 description: "### Sultan Selim (I) Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9487934,41.0252495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultan Selim (I) Hamamı

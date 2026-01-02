@@ -1,18 +1,17 @@
 ---
-title: "Oleatrium Zeytin ve Zeytinyağı Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:52+03:00
+title: "Oleatrium Zeytin ve Zeytinyağı Tarihi Müzesi"
+date: "2025-12-25T03:44:52+03:00"
 slug: "oleatrium-zeytin-ve-zeytinyagi-tarihi-muzesi"
 description: "### Oleatrium Zeytin ve Zeytinyağı Tarihi Müzesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.2894897,37.7593002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Oleatrium Zeytin ve Zeytinyağı Tarihi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Seydi Mahmut Hayrani Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:33+03:00
+title: "Seydi Mahmut Hayrani Türbesi"
+date: "2025-12-25T15:06:33+03:00"
 slug: "seydi-mahmut-hayrani-turbesi"
 description: "## Seydi Mahmut Hayrani Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tomb_of_Seydi_Mahmut.jpg/1200px-Tomb_of_Seydi_Mahmut.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.407322222,38.355416666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Seydi Mahmut Hayrani Türbesi

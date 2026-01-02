@@ -1,18 +1,17 @@
 ---
-title: "Çorlulu Ali Paşa Çeşmesi, Seyyid Ömer | Miras Haritası"
-date: 2025-12-25T12:23:34+03:00
+title: "Çorlulu Ali Paşa Çeşmesi, Seyyid Ömer"
+date: "2025-12-25T12:23:34+03:00"
 slug: "corlulu-ali-pasa-cesmesi-seyyid-omer"
 description: "## Çorlulu Ali Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/İstanbul_Fatih_Seyit_Ömer_Çorlulu_Ali_Paşa_Çeşmesi.jpg/1200px-İstanbul_Fatih_Seyit_Ömer_Çorlulu_Ali_Paşa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.932518,41.0106812"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çorlulu Ali Paşa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Felezade Süleyman Çavuş Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:51+03:00
+title: "Felezade Süleyman Çavuş Türbesi"
+date: "2025-12-25T14:42:51+03:00"
 slug: "felezade-suleyman-cavus-turbesi"
 description: "### Felezade Süleyman Çavuş Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5370541,38.7545853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Felezade Süleyman Çavuş Türbesi

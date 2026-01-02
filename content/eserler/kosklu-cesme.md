@@ -1,18 +1,17 @@
 ---
-title: "Köşklü Çeşme | Miras Haritası"
-date: 2025-12-25T10:44:17+03:00
+title: "Köşklü Çeşme"
+date: "2025-12-25T10:44:17+03:00"
 slug: "kosklu-cesme"
 description: "## Köşklü Çeşme: Gebze'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4144669,40.7961464"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köşklü Çeşme: Gebze'nin Tarihi Bir Çeşmesi

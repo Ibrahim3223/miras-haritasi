@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Paşa Camii, Erzurum | Miras Haritası"
-date: 2025-12-24T23:21:49+03:00
+title: "İbrahim Paşa Camii, Erzurum"
+date: "2025-12-24T23:21:49+03:00"
 slug: "ibrahim-pasa-camii-erzurum"
 description: "## İbrahim Paşa Camii, Erzurum..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2744102,39.9048958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Paşa Camii, Erzurum

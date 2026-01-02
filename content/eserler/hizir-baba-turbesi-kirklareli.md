@@ -1,18 +1,17 @@
 ---
-title: "Hızır Baba Türbesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T15:31:39+03:00
+title: "Hızır Baba Türbesi, Kırklareli"
+date: "2025-12-25T15:31:39+03:00"
 slug: "hizir-baba-turbesi-kirklareli"
 description: "## Hızır Baba Türbesi, Kırklareli: Tarihî Bir Anıtın Gerçekleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hızır_Baba_Türbesi_01.jpg/1200px-Hızır_Baba_Türbesi_01.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.222753,41.736713"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hızır Baba Türbesi, Kırklareli: Tarihî Bir Anıtın Gerçekleri

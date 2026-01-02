@@ -1,18 +1,17 @@
 ---
-title: "Çukur Çeşme, Caddebostan | Miras Haritası"
-date: 2025-12-25T11:45:51+03:00
+title: "Çukur Çeşme, Caddebostan"
+date: "2025-12-25T11:45:51+03:00"
 slug: "cukur-cesme-caddebostan"
 description: "## Caddebostan'daki Çukur Çeşme: Bir Çeşmenin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Caddebostan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0646248,40.9691391"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Caddebostan'daki Çukur Çeşme: Bir Çeşmenin Tarihi ve Kültürel Mirası

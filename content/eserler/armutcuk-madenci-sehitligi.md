@@ -1,18 +1,17 @@
 ---
-title: "Armutçuk Madenci Şehitliği | Miras Haritası"
-date: 2025-12-25T15:57:36+03:00
+title: "Armutçuk Madenci Şehitliği"
+date: "2025-12-25T15:57:36+03:00"
 slug: "armutcuk-madenci-sehitligi"
 description: "### Armutçuk Madenci Şehitliği..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Karadeniz Ereğli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.5031471,41.3490334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Armutçuk Madenci Şehitliği

@@ -1,18 +1,17 @@
 ---
-title: "Çıksalın Sinagogu | Miras Haritası"
-date: 2025-12-25T16:11:53+03:00
+title: "Çıksalın Sinagogu"
+date: "2025-12-25T16:11:53+03:00"
 slug: "ciksalin-sinagogu"
 description: "## Çıksalın Sinagogu: İstanbul'un Gizli Mirası..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Halıcıoğlu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.949833333,41.050166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çıksalın Sinagogu: İstanbul'un Gizli Mirası

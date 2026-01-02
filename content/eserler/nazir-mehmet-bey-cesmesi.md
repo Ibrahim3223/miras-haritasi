@@ -1,18 +1,17 @@
 ---
-title: "Nazır Mehmet Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:42:07+03:00
+title: "Nazır Mehmet Bey Çeşmesi"
+date: "2025-12-25T11:42:07+03:00"
 slug: "nazir-mehmet-bey-cesmesi"
 description: "## Nazır Mehmet Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nazır_Mehmet_Bey_Çeşmesi_Sol.jpg/1200px-Nazır_Mehmet_Bey_Çeşmesi_Sol.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.5685043,41.6694221"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nazır Mehmet Bey Çeşmesi

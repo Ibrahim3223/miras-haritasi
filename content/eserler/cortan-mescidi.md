@@ -1,18 +1,17 @@
 ---
-title: "Çortan Mescidi | Miras Haritası"
-date: 2025-12-24T22:34:36+03:00
+title: "Çortan Mescidi"
+date: "2025-12-24T22:34:36+03:00"
 slug: "cortan-mescidi"
 description: "# Çortan Mescidi: Erzurum'un Tarihi Şarkısı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2725677,39.909771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çortan Mescidi: Erzurum'un Tarihi Şarkısı

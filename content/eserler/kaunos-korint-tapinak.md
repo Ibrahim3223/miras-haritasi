@@ -1,18 +1,17 @@
 ---
-title: "Kaunos Korint Tapınak | Miras Haritası"
-date: 2025-12-25T08:39:22+03:00
+title: "Kaunos Korint Tapınak"
+date: "2025-12-25T08:39:22+03:00"
 slug: "kaunos-korint-tapinak"
 description: "## Kaunos Korint Tapınak: Köyceğiz'in Gizli Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.6212502,36.8278389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaunos Korint Tapınak: Köyceğiz'in Gizli Mirası

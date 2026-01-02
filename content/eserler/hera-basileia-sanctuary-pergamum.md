@@ -1,18 +1,17 @@
 ---
-title: "Hera Basileia sanctuary, Pergamum | Miras Haritası"
-date: 2025-12-25T08:10:14+03:00
+title: "Hera Basileia sanctuary, Pergamum"
+date: "2025-12-25T08:10:14+03:00"
 slug: "hera-basileia-sanctuary-pergamum"
 description: "### Hera Basileia Tapınağı, Pergamon..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hera Basileia Tapınağı, Pergamon

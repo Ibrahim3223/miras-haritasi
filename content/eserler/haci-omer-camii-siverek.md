@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ömer Camii, Siverek | Miras Haritası"
-date: 2025-12-25T00:29:54+03:00
+title: "Hacı Ömer Camii, Siverek"
+date: "2025-12-25T00:29:54+03:00"
 slug: "haci-omer-camii-siverek"
 description: "## Hacı Ömer Camii: Siverek'in Yüzyılın Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.3220367,37.7553253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ömer Camii: Siverek'in Yüzyılın Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Destari Mustafa Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:13+03:00
+title: "Destari Mustafa Paşa Çeşmesi"
+date: "2025-12-25T11:22:13+03:00"
 slug: "destari-mustafa-pasa-cesmesi"
 description: "## Destari Mustafa Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.961004,41.017483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Destari Mustafa Paşa Çeşmesi

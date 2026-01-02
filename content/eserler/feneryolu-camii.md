@@ -1,18 +1,17 @@
 ---
-title: "Feneryolu Camii | Miras Haritası"
-date: 2025-12-24T21:38:20+03:00
+title: "Feneryolu Camii"
+date: "2025-12-24T21:38:20+03:00"
 slug: "feneryolu-camii"
 description: "## Feneryolu Camii: Kadıköy'ün Tarihî Mirası..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Feneryolu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.047472222,40.979861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Feneryolu Camii: Kadıköy'ün Tarihî Mirası

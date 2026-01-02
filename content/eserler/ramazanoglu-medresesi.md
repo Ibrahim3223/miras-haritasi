@@ -1,18 +1,17 @@
 ---
-title: "Ramazanoğlu Medresesi | Miras Haritası"
-date: 2025-12-25T17:34:41+03:00
+title: "Ramazanoğlu Medresesi"
+date: "2025-12-25T17:34:41+03:00"
 slug: "ramazanoglu-medresesi"
 description: "## Ramazanoğlu Medresesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.331356,36.9847984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ramazanoğlu Medresesi

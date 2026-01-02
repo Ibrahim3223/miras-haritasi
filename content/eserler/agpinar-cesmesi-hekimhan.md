@@ -1,18 +1,17 @@
 ---
-title: "Ağpınar Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:28:48+03:00
+title: "Ağpınar Çeşmesi, Hekimhan"
+date: "2025-12-25T12:28:48+03:00"
 slug: "agpinar-cesmesi-hekimhan"
 description: "### Ağpınar Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.099398556,38.851022911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağpınar Çeşmesi, Hekimhan

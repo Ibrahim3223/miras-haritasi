@@ -1,18 +1,17 @@
 ---
-title: "Mayor Sinagogu (İstanbul) | Miras Haritası"
-date: 2025-12-25T16:14:15+03:00
+title: "Mayor Sinagogu (İstanbul)"
+date: "2025-12-25T16:14:15+03:00"
 slug: "mayor-sinagogu-istanbul"
 description: "## Mayor Sinagogu: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mayor_Synagogue_street.jpg/1200px-Mayor_Synagogue_street.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.95138889,41.03972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mayor Sinagogu: İstanbul'un Tarihi ve Kültürel Mirası

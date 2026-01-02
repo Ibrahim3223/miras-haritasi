@@ -1,18 +1,17 @@
 ---
-title: "Bazgireti Kilisesi | Miras Haritası"
-date: 2025-12-25T09:06:33+03:00
+title: "Bazgireti Kilisesi"
+date: "2025-12-25T09:06:33+03:00"
 slug: "bazgireti-kilisesi"
 description: "## Bazgireti Kilisesi..."
 featured_image: ""
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Madenköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.116802777,41.370727777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bazgireti Kilisesi

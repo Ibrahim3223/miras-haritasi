@@ -1,18 +1,17 @@
 ---
-title: "Yeniyapan Höyüğü | Miras Haritası"
-date: 2025-12-25T06:22:57+03:00
+title: "Yeniyapan Höyüğü"
+date: "2025-12-25T06:22:57+03:00"
 slug: "yeniyapan-hoyugu"
 description: "## Yeniyapan Höyüğü: Kaman'da Gizlenen Geçmiş..."
 featured_image: ""
 province: "Kaman (ilçe)"
-iller: ["Kaman (ilçe)"]
+iller: '["Kaman (ilçe)"]'
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8303923,39.4232942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeniyapan Höyüğü: Kaman'da Gizlenen Geçmiş

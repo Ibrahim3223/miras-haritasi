@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Mescit, Edirne | Miras Haritası"
-date: 2025-12-25T01:08:10+03:00
+title: "Kavaklı Mescit, Edirne"
+date: "2025-12-25T01:08:10+03:00"
 slug: "kavakli-mescit-edirne"
 description: "## Kavaklı Mescit: Edirne'nin Zengin Cami Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.556419723,41.668318401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kavaklı Mescit: Edirne'nin Zengin Cami Mirası

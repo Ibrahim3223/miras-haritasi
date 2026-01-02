@@ -1,18 +1,17 @@
 ---
-title: "Çömlekçiler Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:55+03:00
+title: "Çömlekçiler Hamamı"
+date: "2025-12-25T16:35:55+03:00"
 slug: "comlekciler-hamami"
 description: "## Çömlekçiler Hamamı: Eyüpsultan'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.935821,41.042971"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çömlekçiler Hamamı: Eyüpsultan'ın Gizli Çeşmesi

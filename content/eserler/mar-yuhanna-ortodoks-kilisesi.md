@@ -1,18 +1,17 @@
 ---
-title: "Mar Yuhanna Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:24:29+03:00
+title: "Mar Yuhanna Ortodoks Kilisesi"
+date: "2025-12-25T09:24:29+03:00"
 slug: "mar-yuhanna-ortodoks-kilisesi"
 description: "## Mar Yuhanna Ortodoks Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Arsuz"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.8865509,36.4131165"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mar Yuhanna Ortodoks Kilisesi

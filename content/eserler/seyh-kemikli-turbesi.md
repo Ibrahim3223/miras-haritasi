@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Kemikli Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:11+03:00
+title: "Şeyh Kemikli Türbesi"
+date: "2025-12-25T14:31:11+03:00"
 slug: "seyh-kemikli-turbesi"
 description: "## Şeyh Kemikli Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Pendik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.2747288,40.8597374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Kemikli Türbesi

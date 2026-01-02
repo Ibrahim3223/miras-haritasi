@@ -1,18 +1,17 @@
 ---
-title: "Haki Baba Camii | Miras Haritası"
-date: 2025-12-24T23:32:10+03:00
+title: "Haki Baba Camii"
+date: "2025-12-24T23:32:10+03:00"
 slug: "haki-baba-camii"
 description: "## Haki Baba Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4128304,38.607338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haki Baba Camii: Manisa'nın Tarihi Bir Mirası

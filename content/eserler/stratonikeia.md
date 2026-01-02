@@ -1,18 +1,17 @@
 ---
-title: "Stratonikeia | Miras Haritası"
-date: 2025-12-25T04:20:46+03:00
+title: "Stratonikeia"
+date: "2025-12-25T04:20:46+03:00"
 slug: "stratonikeia"
 description: "# Stratonikeia: Muğla'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Stratonicee_Sebasteion.JPG/1200px-Stratonicee_Sebasteion.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.06416667,37.31305556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Stratonikeia: Muğla'nın Tarihi ve Kültürel Mirası

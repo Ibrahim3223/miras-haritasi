@@ -1,18 +1,17 @@
 ---
-title: "Kahraman Mescidi, Konak | Miras Haritası"
-date: 2025-12-25T00:48:47+03:00
+title: "Kahraman Mescidi, Konak"
+date: "2025-12-25T00:48:47+03:00"
 slug: "kahraman-mescidi-konak"
 description: "### Kahraman Mescidi: Bir Geçmişin Evi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1336403,38.4158516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kahraman Mescidi: Bir Geçmişin Evi

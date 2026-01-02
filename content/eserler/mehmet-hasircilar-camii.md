@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Hasırcılar Camii | Miras Haritası"
-date: 2025-12-25T01:04:16+03:00
+title: "Mehmet Hasırcılar Camii"
+date: "2025-12-25T01:04:16+03:00"
 slug: "mehmet-hasircilar-camii"
 description: "## Mehmet Hasırcılar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fatih_University_Mehmet_Hasircilar_Mosque_-_Sept_2013d.jpg/1200px-Fatih_University_Mehmet_Hasircilar_Mosque_-_Sept_2013d.jpg"
-province: "Büyükçekmece"
-iller: ["Büyükçekmece"]
-district: "Karaağaç"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Büyükçekmece"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.619923477,41.092262049"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mehmet Hasırcılar Camii

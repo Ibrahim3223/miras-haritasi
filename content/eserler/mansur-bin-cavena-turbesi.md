@@ -1,18 +1,17 @@
 ---
-title: "Mansur Bin Cavena Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:31+03:00
+title: "Mansur Bin Cavena Türbesi"
+date: "2025-12-25T15:21:31+03:00"
 slug: "mansur-bin-cavena-turbesi"
 description: "## Mansur Bin Cavena Türbesi..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.2777672,37.7612877"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mansur Bin Cavena Türbesi

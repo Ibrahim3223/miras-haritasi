@@ -1,18 +1,17 @@
 ---
-title: "Küçük Mescit, Adana | Miras Haritası"
-date: 2025-12-25T00:13:04+03:00
+title: "Küçük Mescit, Adana"
+date: "2025-12-25T00:13:04+03:00"
 slug: "kucuk-mescit-adana"
 description: "## Küçük Mescit: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.331313986,36.98482333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçük Mescit: Adana'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Vezirhan Camii | Miras Haritası"
-date: 2025-12-25T00:53:06+03:00
+title: "Vezirhan Camii"
+date: "2025-12-25T00:53:06+03:00"
 slug: "vezirhan-camii"
 description: "## Vezirhan Camii: Bilecik'te Bir İkinci Roma'nin Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.0223026,40.2434502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vezirhan Camii: Bilecik'te Bir İkinci Roma'nin Mirası

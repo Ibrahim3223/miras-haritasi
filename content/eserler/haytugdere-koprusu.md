@@ -1,18 +1,17 @@
 ---
-title: "Haytuğdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:34:53+03:00
+title: "Haytuğdere Köprüsü"
+date: "2025-12-25T02:34:53+03:00"
 slug: "haytugdere-koprusu"
 description: "### Haytuğdere Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Görele"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.090822,41.002632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Haytuğdere Köprüsü

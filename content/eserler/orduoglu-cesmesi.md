@@ -1,18 +1,17 @@
 ---
-title: "Orduoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:18:30+03:00
+title: "Orduoğlu Çeşmesi"
+date: "2025-12-25T10:18:30+03:00"
 slug: "orduoglu-cesmesi"
 description: "## Orduoğlu Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.898258,41.006306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orduoğlu Çeşmesi

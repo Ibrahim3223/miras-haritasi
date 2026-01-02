@@ -1,18 +1,17 @@
 ---
-title: "Kennez I Höyüğü | Miras Haritası"
-date: 2025-12-25T05:33:14+03:00
+title: "Kennez I Höyüğü"
+date: "2025-12-25T05:33:14+03:00"
 slug: "kennez-i-hoyugu"
 description: "## Kennez I Höyüğü: Akhisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.860771,38.846196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kennez I Höyüğü: Akhisar'ın Gizli Cenneti

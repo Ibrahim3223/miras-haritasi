@@ -1,18 +1,17 @@
 ---
-title: "Nakip Mosque | Miras Haritası"
-date: 2025-12-24T21:50:36+03:00
+title: "Nakip Mosque"
+date: "2025-12-24T21:50:36+03:00"
 slug: "nakip-mosque"
 description: "## Nakip Camii: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nakip Camii: Tarihi ve Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Tuvağın Tömeği Höyük 2 | Miras Haritası"
-date: 2025-12-25T06:21:16+03:00
+title: "Tuvağın Tömeği Höyük 2"
+date: "2025-12-25T06:21:16+03:00"
 slug: "tuvagin-tomegi-hoyuk-2"
 description: "### Tuvağın Tömeği Höyük 2: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9099321,38.3946475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tuvağın Tömeği Höyük 2: Aksaray'ın Gizli Mirası

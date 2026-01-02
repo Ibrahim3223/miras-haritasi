@@ -1,18 +1,17 @@
 ---
-title: "Terzili Köyü Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:50+03:00
+title: "Terzili Köyü Ermeni Kilisesi"
+date: "2025-12-25T09:22:50+03:00"
 slug: "terzili-koyu-ermeni-kilisesi"
 description: "## Terzili Köyü Ermeni Kilisesi..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.361969,39.5537109"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terzili Köyü Ermeni Kilisesi

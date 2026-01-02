@@ -1,18 +1,17 @@
 ---
-title: "Soli | Miras Haritası"
-date: 2025-12-25T06:48:10+03:00
+title: "Soli"
+date: "2025-12-25T06:48:10+03:00"
 slug: "soli"
 description: "## Soli: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ViransehirSäulen.jpg/1200px-ViransehirSäulen.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.54,36.741944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Soli: Mersin'in Tarihi ve Kültürel Mirası

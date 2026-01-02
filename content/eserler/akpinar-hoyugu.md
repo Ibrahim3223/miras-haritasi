@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:26:19+03:00
+title: "Akpınar Höyüğü"
+date: "2025-12-25T06:26:19+03:00"
 slug: "akpinar-hoyugu"
 description: "## Akpınar Höyüğü: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.1785875,38.7593918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akpınar Höyüğü: Aksaray'ın Gizli Mirası

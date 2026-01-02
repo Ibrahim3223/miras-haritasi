@@ -1,18 +1,17 @@
 ---
-title: "Hızır Çavuş Kabri | Miras Haritası"
-date: 2025-12-25T13:33:24+03:00
+title: "Hızır Çavuş Kabri"
+date: "2025-12-25T13:33:24+03:00"
 slug: "hizir-cavus-kabri"
 description: "## Hızır Çavuş Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9464073,41.0318527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hızır Çavuş Kabri

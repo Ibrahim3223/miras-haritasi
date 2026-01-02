@@ -1,18 +1,17 @@
 ---
-title: "Musalla Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:55+03:00
+title: "Musalla Medresesi"
+date: "2025-12-25T17:32:55+03:00"
 slug: "musalla-medresesi"
 description: "## Musalla Medresesi: İstanbul'un Gizli Çandırı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9572105,41.0067902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Musalla Medresesi: İstanbul'un Gizli Çandırı

@@ -1,18 +1,17 @@
 ---
-title: "Ramazanoğlu Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:17+03:00
+title: "Ramazanoğlu Türbesi"
+date: "2025-12-25T15:14:17+03:00"
 slug: "ramazanoglu-turbesi"
 description: "# Ramazanoğlu Türbesi..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.331043,36.9846612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ramazanoğlu Türbesi

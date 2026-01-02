@@ -1,18 +1,17 @@
 ---
-title: "Abuzittin Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:19+03:00
+title: "Abuzittin Bey Çeşmesi"
+date: "2025-12-25T10:31:19+03:00"
 slug: "abuzittin-bey-cesmesi"
 description: "## Abuzittin Bey Çeşmesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2567711,37.8596764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abuzittin Bey Çeşmesi

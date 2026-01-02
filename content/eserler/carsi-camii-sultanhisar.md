@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Sultanhisar | Miras Haritası"
-date: 2025-12-25T00:30:26+03:00
+title: "Çarşı Camii, Sultanhisar"
+date: "2025-12-25T00:30:26+03:00"
 slug: "carsi-camii-sultanhisar"
 description: "## Çarşı Camii, Sultanhisar: Aydın'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1543064,37.8904076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Sultanhisar: Aydın'ın Tarihî Bir Mirası

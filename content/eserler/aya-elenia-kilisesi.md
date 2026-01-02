@@ -1,18 +1,17 @@
 ---
-title: "Aya Elenia Kilisesi | Miras Haritası"
-date: 2025-12-25T09:06:58+03:00
+title: "Aya Elenia Kilisesi"
+date: "2025-12-25T09:06:58+03:00"
 slug: "aya-elenia-kilisesi"
 description: "### Aya Elenia Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sille_Hagia_Eleni_Church_4672.jpg/1200px-Sille_Hagia_Eleni_Church_4672.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.413859483,37.925437838"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Aya Elenia Kilisesi

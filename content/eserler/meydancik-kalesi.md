@@ -1,18 +1,17 @@
 ---
-title: "Meydancık Kalesi | Miras Haritası"
-date: 2025-12-25T01:13:19+03:00
+title: "Meydancık Kalesi"
+date: "2025-12-25T01:13:19+03:00"
 slug: "meydancik-kalesi"
 description: "### Meydancık Kalesi: Mersin'in Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Meydancık_Castle,_Mersin_Province.jpg/1200px-Meydancık_Castle,_Mersin_Province.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Gülnar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.441111,36.273333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Meydancık Kalesi: Mersin'in Gizli Kahramanı

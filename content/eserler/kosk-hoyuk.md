@@ -1,18 +1,17 @@
 ---
-title: "Köşk Höyük | Miras Haritası"
-date: 2025-12-25T06:53:37+03:00
+title: "Köşk Höyük"
+date: "2025-12-25T06:53:37+03:00"
 slug: "kosk-hoyuk"
 description: "## Köşk Höyük: Niğde'de Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/KöskHüyük1.jpg/1200px-KöskHüyük1.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Niğde"
+province: "Niğde"
+iller: '["Niğde"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.612222,37.8475"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Köşk Höyük: Niğde'de Bir Arkeolojik Sit

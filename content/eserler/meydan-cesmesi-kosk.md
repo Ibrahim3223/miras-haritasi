@@ -1,18 +1,17 @@
 ---
-title: "Meydan Çeşmesi – Köşk | Miras Haritası"
-date: 2025-12-25T11:31:38+03:00
+title: "Meydan Çeşmesi – Köşk"
+date: "2025-12-25T11:31:38+03:00"
 slug: "meydan-cesmesi-kosk"
 description: "## Meydan Çeşmesi – Köşk: Milas'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6920853,37.353756"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meydan Çeşmesi – Köşk: Milas'ın Tarihi Bir Çeşmesi

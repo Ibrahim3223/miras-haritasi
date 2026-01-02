@@ -1,18 +1,17 @@
 ---
-title: "Alinda Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:21:28+03:00
+title: "Alinda Antik Tiyatrosu"
+date: "2025-12-25T16:21:28+03:00"
 slug: "alinda-antik-tiyatrosu"
 description: "# Alinda Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karpuzlu"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "27.82713,37.558714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alinda Antik Tiyatrosu

@@ -1,18 +1,17 @@
 ---
-title: "Kemal Köy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:44+03:00
+title: "Kemal Köy Köprüsü"
+date: "2025-12-25T02:40:44+03:00"
 slug: "kemal-koy-koprusu"
 description: "### Kemal Köy Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.4037781,41.7351456"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kemal Köy Köprüsü

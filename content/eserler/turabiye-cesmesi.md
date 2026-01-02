@@ -1,18 +1,17 @@
 ---
-title: "Turabiye Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:29:11+03:00
+title: "Turabiye Çeşmesi"
+date: "2025-12-25T12:29:11+03:00"
 slug: "turabiye-cesmesi"
 description: "## Turabiye Çeşmesi: Seferihisar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.843381149,38.199217591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turabiye Çeşmesi: Seferihisar'ın Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Elmacık Höyük | Miras Haritası"
-date: 2025-12-25T05:39:39+03:00
+title: "Elmacık Höyük"
+date: "2025-12-25T05:39:39+03:00"
 slug: "elmacik-hoyuk"
 description: "# Elmacık Höyük: Uşak'taki Antik Bir Yerleşim..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.396089,38.579203"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Elmacık Höyük: Uşak'taki Antik Bir Yerleşim

@@ -1,18 +1,17 @@
 ---
-title: "Sarı Musa Kabri | Miras Haritası"
-date: 2025-12-25T13:25:06+03:00
+title: "Sarı Musa Kabri"
+date: "2025-12-25T13:25:06+03:00"
 slug: "sari-musa-kabri"
 description: "# Sarı Musa Kabri: İstanbul'un Gizli Anısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9432278,41.0107613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sarı Musa Kabri: İstanbul'un Gizli Anısı

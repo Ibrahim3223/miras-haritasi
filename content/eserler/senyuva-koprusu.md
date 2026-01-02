@@ -1,18 +1,17 @@
 ---
-title: "Şenyuva Köprüsü | Miras Haritası"
-date: 2025-12-25T01:56:35+03:00
+title: "Şenyuva Köprüsü"
+date: "2025-12-25T01:56:35+03:00"
 slug: "senyuva-koprusu"
 description: "## Şenyuva Köprüsü: Çamlıhemşin'in Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Firtina_Deresi_@_CamliHemsin.JPG/1200px-Firtina_Deresi_@_CamliHemsin.JPG"
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.975024402,40.997490806"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şenyuva Köprüsü: Çamlıhemşin'in Tarihi Mirası

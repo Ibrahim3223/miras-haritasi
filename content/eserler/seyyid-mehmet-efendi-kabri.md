@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Mehmet Efendi Kabri | Miras Haritası"
-date: 2025-12-25T13:52:04+03:00
+title: "Seyyid Mehmet Efendi Kabri"
+date: "2025-12-25T13:52:04+03:00"
 slug: "seyyid-mehmet-efendi-kabri"
 description: "## Seyyid Mehmet Efendi Kabri: Fatih'te Bir Önemli Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9403763,41.0246201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Mehmet Efendi Kabri: Fatih'te Bir Önemli Anıt

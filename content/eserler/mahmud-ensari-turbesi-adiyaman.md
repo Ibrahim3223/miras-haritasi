@@ -1,18 +1,17 @@
 ---
-title: "Mahmud Ensari Türbesi Adıyaman | Miras Haritası"
-date: 2025-12-25T15:12:49+03:00
+title: "Mahmud Ensari Türbesi Adıyaman"
+date: "2025-12-25T15:12:49+03:00"
 slug: "mahmud-ensari-turbesi-adiyaman"
 description: "## Mahmud Ensari Türbesi Adıyaman..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.3555054,37.7560776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmud Ensari Türbesi Adıyaman

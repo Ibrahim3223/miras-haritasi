@@ -1,18 +1,17 @@
 ---
-title: "Düzgeçit Köprüsü | Miras Haritası"
-date: 2025-12-25T02:10:44+03:00
+title: "Düzgeçit Köprüsü"
+date: "2025-12-25T02:10:44+03:00"
 slug: "duzgecit-koprusu"
 description: "## Düzgeçit Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.793567,41.0736"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düzgeçit Köprüsü

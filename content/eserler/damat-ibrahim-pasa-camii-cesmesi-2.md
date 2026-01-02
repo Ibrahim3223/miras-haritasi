@@ -1,18 +1,17 @@
 ---
-title: "Damat İbrahim Paşa Camii Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T10:48:58+03:00
+title: "Damat İbrahim Paşa Camii Çeşmesi 2"
+date: "2025-12-25T10:48:58+03:00"
 slug: "damat-ibrahim-pasa-camii-cesmesi-2"
 description: "## Damat İbrahim Paşa Camii Çeşmesi 2..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.715313,38.6217842"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damat İbrahim Paşa Camii Çeşmesi 2

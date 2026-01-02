@@ -1,18 +1,17 @@
 ---
-title: "Ahalşeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:05+03:00
+title: "Ahalşeni Kilisesi"
+date: "2025-12-25T09:04:05+03:00"
 slug: "ahalseni-kilisesi"
 description: "### Ahalşeni Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Hanak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.953359,41.288686"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahalşeni Kilisesi

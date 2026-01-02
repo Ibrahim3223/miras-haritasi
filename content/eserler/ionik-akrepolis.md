@@ -1,18 +1,17 @@
 ---
-title: "İonik Akrepolis | Miras Haritası"
-date: 2025-12-25T08:22:21+03:00
+title: "İonik Akrepolis"
+date: "2025-12-25T08:22:21+03:00"
 slug: "ionik-akrepolis"
 description: "## İonik Akrepolis: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.342307371,37.945600636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İonik Akrepolis: İzmir'in Gizli Cenneti

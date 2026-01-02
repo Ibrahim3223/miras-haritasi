@@ -1,18 +1,17 @@
 ---
-title: "İnadiye Mezarlık Çeşmesi (Zeynepkamil) | Miras Haritası"
-date: 2025-12-25T12:11:52+03:00
+title: "İnadiye Mezarlık Çeşmesi (Zeynepkamil)"
+date: "2025-12-25T12:11:52+03:00"
 slug: "inadiye-mezarlik-cesmesi-zeynepkamil"
 description: "## İnadiye Mezarlık Çeşmesi (Zeynepkamil)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.020644,41.013457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İnadiye Mezarlık Çeşmesi (Zeynepkamil)

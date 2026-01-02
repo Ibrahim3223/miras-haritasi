@@ -1,18 +1,17 @@
 ---
-title: "İmadüddin Vakfı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:28:22+03:00
+title: "İmadüddin Vakfı Çeşmesi"
+date: "2025-12-25T11:28:22+03:00"
 slug: "imaduddin-vakfi-cesmesi"
 description: "### İmadüddin Vakfı Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4329262,38.6089058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İmadüddin Vakfı Çeşmesi

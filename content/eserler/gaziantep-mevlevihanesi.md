@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Mevlevihanesi | Miras Haritası"
-date: 2025-12-24T23:22:12+03:00
+title: "Gaziantep Mevlevihanesi"
+date: "2025-12-24T23:22:12+03:00"
 slug: "gaziantep-mevlevihanesi"
 description: "## Gaziantep Mevlevihanesi: Bir Kültür Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.388011,37.0612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gaziantep Mevlevihanesi: Bir Kültür Mirası

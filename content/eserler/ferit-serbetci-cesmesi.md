@@ -1,18 +1,17 @@
 ---
-title: "Ferit Şerbetci Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:06+03:00
+title: "Ferit Şerbetci Çeşmesi"
+date: "2025-12-25T11:15:06+03:00"
 slug: "ferit-serbetci-cesmesi"
 description: "## Ferit Şerbetci Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ferit_erbetci_emesi_1761583378.jpg/1200px-Ferit_erbetci_emesi_1761583378.jpg"
-province: "Kartal"
-iller: ["Kartal"]
-district: "Yakacık Çarşı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kartal"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.225358,40.917246"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ferit Şerbetci Çeşmesi

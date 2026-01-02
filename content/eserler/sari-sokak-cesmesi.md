@@ -1,18 +1,17 @@
 ---
-title: "Sarı Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:43+03:00
+title: "Sarı Sokak Çeşmesi"
+date: "2025-12-25T10:29:43+03:00"
 slug: "sari-sokak-cesmesi"
 description: "## Sarı Sokak Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2579994,37.8563538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarı Sokak Çeşmesi

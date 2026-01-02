@@ -1,18 +1,17 @@
 ---
-title: "Tohma Köprüsü | Miras Haritası"
-date: 2025-12-25T03:06:10+03:00
+title: "Tohma Köprüsü"
+date: "2025-12-25T03:06:10+03:00"
 slug: "tohma-koprusu"
 description: "## Tohma Köprüsü..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.23863,38.50483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tohma Köprüsü

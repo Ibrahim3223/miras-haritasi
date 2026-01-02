@@ -1,18 +1,17 @@
 ---
-title: "Palas Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:06:57+03:00
+title: "Palas Ulu Cami"
+date: "2025-12-24T23:06:57+03:00"
 slug: "palas-ulu-cami"
 description: "### Palas Ulu Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8655701,39.0257263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Palas Ulu Cami

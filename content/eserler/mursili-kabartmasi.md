@@ -1,18 +1,17 @@
 ---
-title: "Murşili Kabartması | Miras Haritası"
-date: 2025-12-25T13:41:55+03:00
+title: "Murşili Kabartması"
+date: "2025-12-25T13:41:55+03:00"
 slug: "mursili-kabartmasi"
 description: "## Murşili Kabartması..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sirkeli_entferntes_Relief1.jpg/1200px-Sirkeli_entferntes_Relief1.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Ceyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Murşili Kabartması

@@ -1,18 +1,17 @@
 ---
-title: "Ümran Baradan Güzel Sanatlar Müzesi | Miras Haritası"
-date: 2025-12-25T03:46:48+03:00
+title: "Ümran Baradan Güzel Sanatlar Müzesi"
+date: "2025-12-25T03:46:48+03:00"
 slug: "umran-baradan-guzel-sanatlar-muzesi"
 description: "## Ümran Baradan Güzel Sanatlar Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.4448528,38.4027596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ümran Baradan Güzel Sanatlar Müzesi

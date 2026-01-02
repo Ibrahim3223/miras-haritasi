@@ -1,18 +1,17 @@
 ---
-title: "Aslanlı Çeşme, Emirgan | Miras Haritası"
-date: 2025-12-25T13:10:22+03:00
+title: "Aslanlı Çeşme, Emirgan"
+date: "2025-12-25T13:10:22+03:00"
 slug: "aslanli-cesme-emirgan"
 description: "# Aslanlı Çeşme, Emirgan..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0558414,41.1047363"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aslanlı Çeşme, Emirgan

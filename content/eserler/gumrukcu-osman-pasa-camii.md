@@ -1,18 +1,17 @@
 ---
-title: "Gümrükçü Osman Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:25:57+03:00
+title: "Gümrükçü Osman Paşa Camii"
+date: "2025-12-24T23:25:57+03:00"
 slug: "gumrukcu-osman-pasa-camii"
 description: "# Gümrükçü Osman Paşa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Malatya"
+province: "Malatya"
+iller: '["Malatya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.4710083,39.0562668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gümrükçü Osman Paşa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Esençay Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:32+03:00
+title: "Esençay Köprüsü"
+date: "2025-12-25T02:21:32+03:00"
 slug: "esencay-koprusu"
 description: "**Esençay Köprüsü: Aydın'ın Tarihî Mirası**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.5841198,37.7933006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Esençay Köprüsü: Aydın'ın Tarihî Mirası**

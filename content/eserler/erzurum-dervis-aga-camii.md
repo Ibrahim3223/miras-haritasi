@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Derviş Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:42:23+03:00
+title: "Erzurum Derviş Ağa Camii"
+date: "2025-12-24T21:42:23+03:00"
 slug: "erzurum-dervis-aga-camii"
 description: "## Erzurum Derviş Ağa Camii: Tarih, Mimarisi ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Erzurum_Dervişağa_Camii.jpg/1200px-Erzurum_Dervişağa_Camii.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.278888888,39.910083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Erzurum Derviş Ağa Camii: Tarih, Mimarisi ve Kültür Mirası

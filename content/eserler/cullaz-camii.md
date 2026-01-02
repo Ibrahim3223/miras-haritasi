@@ -1,18 +1,17 @@
 ---
-title: "Cullaz Camii | Miras Haritası"
-date: 2025-12-24T22:30:52+03:00
+title: "Cullaz Camii"
+date: "2025-12-24T22:30:52+03:00"
 slug: "cullaz-camii"
 description: "## Cullaz Camii: Niğde'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6768036,37.9668007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cullaz Camii: Niğde'nin Tarihi Bir Mirası

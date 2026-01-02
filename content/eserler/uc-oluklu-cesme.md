@@ -1,18 +1,17 @@
 ---
-title: "Üç Oluklu Çeşme | Miras Haritası"
-date: 2025-12-25T11:24:31+03:00
+title: "Üç Oluklu Çeşme"
+date: "2025-12-25T11:24:31+03:00"
 slug: "uc-oluklu-cesme"
 description: "**Üç Oluklu Çeşme**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4394379,38.6256714"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Üç Oluklu Çeşme**

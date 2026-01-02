@@ -1,18 +1,17 @@
 ---
-title: "Karagöz Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:51+03:00
+title: "Karagöz Müzesi"
+date: "2025-12-25T03:30:51+03:00"
 slug: "karagoz-muzesi"
 description: "## Karagöz Müzesi: Bursa'nın Gizli Çehresini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Karagöz_Müzesi.jpg/1200px-Karagöz_Müzesi.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.02714,40.202029"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karagöz Müzesi: Bursa'nın Gizli Çehresini Keşfedin

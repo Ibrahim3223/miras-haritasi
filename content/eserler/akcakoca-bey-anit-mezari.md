@@ -1,18 +1,17 @@
 ---
-title: "Akçakoca Bey Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:05:34+03:00
+title: "Akçakoca Bey Anıt Mezarı"
+date: "2025-12-25T14:05:34+03:00"
 slug: "akcakoca-bey-anit-mezari"
 description: "### Akçakoca Bey Anıt Mezarı..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Kandıra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1912727,41.1142197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akçakoca Bey Anıt Mezarı

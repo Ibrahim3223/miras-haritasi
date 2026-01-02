@@ -1,18 +1,17 @@
 ---
-title: "Hocahasan Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:16:22+03:00
+title: "Hocahasan Köyü Camii"
+date: "2025-12-25T00:16:22+03:00"
 slug: "hocahasan-koyu-camii"
 description: "## Hocahasan Köyü Camii: Tarihi ve Kültürel Mirasın Bir Örneği..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.344326,40.7849197"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hocahasan Köyü Camii: Tarihi ve Kültürel Mirasın Bir Örneği

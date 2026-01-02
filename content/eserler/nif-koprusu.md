@@ -1,18 +1,17 @@
 ---
-title: "Nif Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:53+03:00
+title: "Nif Köprüsü"
+date: "2025-12-25T02:18:53+03:00"
 slug: "nif-koprusu"
 description: "## Nif Köprüsü: Manisa'nın Tarihi ve Güçlü Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.6164742,38.5052681"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nif Köprüsü: Manisa'nın Tarihi ve Güçlü Bir Mirası

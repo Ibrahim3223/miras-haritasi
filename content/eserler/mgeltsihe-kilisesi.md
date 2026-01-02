@@ -1,18 +1,17 @@
 ---
-title: "Mgeltsihe Kilisesi | Miras Haritası"
-date: 2025-12-25T09:06:05+03:00
+title: "Mgeltsihe Kilisesi"
+date: "2025-12-25T09:06:05+03:00"
 slug: "mgeltsihe-kilisesi"
 description: "### Mgeltsihe Kilisesi: Kurtkale'de Bir Tarihî Miras..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Kurtkale"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.133105555,41.263675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mgeltsihe Kilisesi: Kurtkale'de Bir Tarihî Miras

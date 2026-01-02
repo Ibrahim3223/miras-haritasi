@@ -1,18 +1,17 @@
 ---
-title: "Kaymakçı Höyüğü | Miras Haritası"
-date: 2025-12-25T05:44:22+03:00
+title: "Kaymakçı Höyüğü"
+date: "2025-12-25T05:44:22+03:00"
 slug: "kaymakci-hoyugu"
 description: "### Kaymakçı Höyüğü: Manisa'nın Gizli Klasik Çağ Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9313,38.6234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaymakçı Höyüğü: Manisa'nın Gizli Klasik Çağ Mirası

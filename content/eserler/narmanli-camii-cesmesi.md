@@ -1,18 +1,17 @@
 ---
-title: "Narmanlı Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:19+03:00
+title: "Narmanlı Camii Çeşmesi"
+date: "2025-12-25T11:38:19+03:00"
 slug: "narmanli-camii-cesmesi"
 description: "## Narmanlı Camii Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.279583,39.9060326"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Narmanlı Camii Çeşmesi

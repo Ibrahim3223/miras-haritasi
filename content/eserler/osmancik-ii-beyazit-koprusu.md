@@ -1,18 +1,17 @@
 ---
-title: "Osmancık II. Beyazıt Köprüsü | Miras Haritası"
-date: 2025-12-25T01:54:44+03:00
+title: "Osmancık II. Beyazıt Köprüsü"
+date: "2025-12-25T01:54:44+03:00"
 slug: "osmancik-ii-beyazit-koprusu"
 description: "## Osmancık II. Beyazıt Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Osmancık1.jpg/1200px-Osmancık1.jpg"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Osmancık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.80056,40.97017"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Osmancık II. Beyazıt Köprüsü

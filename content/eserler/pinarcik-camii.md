@@ -1,18 +1,17 @@
 ---
-title: "Pınarcık Camii | Miras Haritası"
-date: 2025-12-25T00:56:04+03:00
+title: "Pınarcık Camii"
+date: "2025-12-25T00:56:04+03:00"
 slug: "pinarcik-camii"
 description: "### Pınarcık Camii: Serik'in Tarihi bir Çanak..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.104447,36.917399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pınarcık Camii: Serik'in Tarihi bir Çanak

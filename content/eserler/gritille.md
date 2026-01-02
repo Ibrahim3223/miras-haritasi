@@ -1,18 +1,17 @@
 ---
-title: "Gritille | Miras Haritası"
-date: 2025-12-25T07:06:05+03:00
+title: "Gritille"
+date: "2025-12-25T07:06:05+03:00"
 slug: "gritille"
 description: "## Gritille: Tarihin Eseri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.579479319,37.574464703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gritille: Tarihin Eseri

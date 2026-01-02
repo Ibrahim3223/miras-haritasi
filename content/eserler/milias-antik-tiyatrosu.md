@@ -1,18 +1,17 @@
 ---
-title: "Milias Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:25:13+03:00
+title: "Milias Antik Tiyatrosu"
+date: "2025-12-25T08:25:13+03:00"
 slug: "milias-antik-tiyatrosu"
 description: "## Milias Antik Tiyatrosu: Bir Zemin ve Tiyatroyla Gerçekleştirilen Tarihî Bir Miras..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.750059,37.308909"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milias Antik Tiyatrosu: Bir Zemin ve Tiyatroyla Gerçekleştirilen Tarihî Bir Miras

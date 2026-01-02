@@ -1,18 +1,17 @@
 ---
-title: "Bahçecik II, Kızılay | Miras Haritası"
-date: 2025-12-25T05:31:15+03:00
+title: "Bahçecik II, Kızılay"
+date: "2025-12-25T05:31:15+03:00"
 slug: "bahcecik-ii-kizilay"
 description: "## Bahçecik II, Kızılay: Odunpazarı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.835967,39.8224"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahçecik II, Kızılay: Odunpazarı'nın Gizli Çeşmesi

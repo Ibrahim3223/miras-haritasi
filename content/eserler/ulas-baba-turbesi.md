@@ -1,18 +1,17 @@
 ---
-title: "Ulaş Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:05:59+03:00
+title: "Ulaş Baba Türbesi"
+date: "2025-12-25T15:05:59+03:00"
 slug: "ulas-baba-turbesi"
 description: "## Ulaş Baba Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4913597,37.8796997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulaş Baba Türbesi

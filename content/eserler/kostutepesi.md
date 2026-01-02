@@ -1,18 +1,17 @@
 ---
-title: "Köstütepesi | Miras Haritası"
-date: 2025-12-25T05:48:19+03:00
+title: "Köstütepesi"
+date: "2025-12-25T05:48:19+03:00"
 slug: "kostutepesi"
 description: "## Köstütepesi Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Günyüzü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.8166224,39.3792911"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köstütepesi Arkeolojik Sit

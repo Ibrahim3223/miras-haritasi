@@ -1,18 +1,17 @@
 ---
-title: "Samsa Çavuş Camii | Miras Haritası"
-date: 2025-12-24T22:43:27+03:00
+title: "Samsa Çavuş Camii"
+date: "2025-12-24T22:43:27+03:00"
 slug: "samsa-cavus-camii"
 description: "## Samsa Çavuş Camii: Bolu'nun Tarihi ve Mimari Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bolu"
+province: "Bolu"
+iller: '["Bolu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.0100861,40.4942055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Samsa Çavuş Camii: Bolu'nun Tarihi ve Mimari Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Halk Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:39+03:00
+title: "Anemurium Halk Hamamı"
+date: "2025-12-25T17:03:39+03:00"
 slug: "anemurium-halk-hamami"
 description: "## Anemurium Halk Hamamı: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8020325,36.0216751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anemurium Halk Hamamı: Tarihî Bir Mirasın Gizemi

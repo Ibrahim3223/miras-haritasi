@@ -1,18 +1,17 @@
 ---
-title: "Taksiarki Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:49+03:00
+title: "Taksiarki Kilisesi"
+date: "2025-12-25T09:37:49+03:00"
 slug: "taksiarki-kilisesi"
 description: "### Taksiarki Kilisesi: Trabzon'un Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.5516815,40.766449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Taksiarki Kilisesi: Trabzon'un Gizli Çehresini Keşfedin

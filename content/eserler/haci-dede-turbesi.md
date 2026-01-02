@@ -1,18 +1,17 @@
 ---
-title: "Hacı Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:30:10+03:00
+title: "Hacı Dede Türbesi"
+date: "2025-12-25T15:30:10+03:00"
 slug: "haci-dede-turbesi"
 description: "# Hacı Dede Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7731438,41.3707886"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hacı Dede Türbesi

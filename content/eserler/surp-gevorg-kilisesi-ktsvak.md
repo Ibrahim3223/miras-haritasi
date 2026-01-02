@@ -1,18 +1,17 @@
 ---
-title: "Surp Gevorg Kilisesi (Ktsvak) | Miras Haritası"
-date: 2025-12-25T09:40:57+03:00
+title: "Surp Gevorg Kilisesi (Ktsvak)"
+date: "2025-12-25T09:40:57+03:00"
 slug: "surp-gevorg-kilisesi-ktsvak"
 description: "## Surp Gevorg Kilisesi (Ktsvak)..."
 featured_image: ""
 province: "Tatvan"
-iller: ["Tatvan"]
+iller: '["Tatvan"]'
 district: "Kıyıdüzü"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.3810586,38.5758919"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Gevorg Kilisesi (Ktsvak)

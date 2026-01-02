@@ -1,18 +1,17 @@
 ---
-title: "Leylekli Yılanlı Köprü | Miras Haritası"
-date: 2025-12-25T02:05:48+03:00
+title: "Leylekli Yılanlı Köprü"
+date: "2025-12-25T02:05:48+03:00"
 slug: "leylekli-yilanli-kopru"
 description: "### Leylekli Yılanlı Köprü..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.95518,40.58952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Leylekli Yılanlı Köprü

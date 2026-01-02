@@ -1,18 +1,17 @@
 ---
-title: "Molla Arap Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:14+03:00
+title: "Molla Arap Medresesi"
+date: "2025-12-25T17:41:14+03:00"
 slug: "molla-arap-medresesi"
 description: "## Molla Arap Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.713398,38.0958633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Arap Medresesi

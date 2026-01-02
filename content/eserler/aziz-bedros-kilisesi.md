@@ -1,18 +1,17 @@
 ---
-title: "Aziz Bedros Kilisesi | Miras Haritası"
-date: 2025-12-25T08:45:32+03:00
+title: "Aziz Bedros Kilisesi"
+date: "2025-12-25T08:45:32+03:00"
 slug: "aziz-bedros-kilisesi"
 description: "## Aziz Bedros Kilisesi: Gaziantep'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Aziz_Bedros_Ermeni_kilisesi-Gaziantep_-_panoramio.jpg/1200px-Aziz_Bedros_Ermeni_kilisesi-Gaziantep_-_panoramio.jpg"
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.376272,37.058688"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Bedros Kilisesi: Gaziantep'in Tarihi Bir Mirası

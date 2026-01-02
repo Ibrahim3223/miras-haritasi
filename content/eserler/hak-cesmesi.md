@@ -1,18 +1,17 @@
 ---
-title: "Hak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:46:54+03:00
+title: "Hak Çeşmesi"
+date: "2025-12-25T10:46:54+03:00"
 slug: "hak-cesmesi"
 description: "## Hak Çeşmesi: Eskişehir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5256481,39.7655487"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hak Çeşmesi: Eskişehir'in Tarihi Bir Çeşmesi

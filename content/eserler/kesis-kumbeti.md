@@ -1,18 +1,17 @@
 ---
-title: "Keşiş Kümbeti | Miras Haritası"
-date: 2025-12-25T13:56:03+03:00
+title: "Keşiş Kümbeti"
+date: "2025-12-25T13:56:03+03:00"
 slug: "kesis-kumbeti"
 description: "## Keşiş Kümbeti: Ahlat'ın Gizli Anıtı..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.4683342,38.7491684"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keşiş Kümbeti: Ahlat'ın Gizli Anıtı

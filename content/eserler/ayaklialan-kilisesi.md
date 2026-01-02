@@ -1,18 +1,17 @@
 ---
-title: "Ayaklıalan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:45:12+03:00
+title: "Ayaklıalan Kilisesi"
+date: "2025-12-25T09:45:12+03:00"
 slug: "ayaklialan-kilisesi"
 description: "**Ayaklıalan Kilisesi: Samsun'un Gizli Cenneti**..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Asarcık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.362577,41.001595"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayaklıalan Kilisesi: Samsun'un Gizli Cenneti**

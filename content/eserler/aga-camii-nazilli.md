@@ -1,18 +1,17 @@
 ---
-title: "Ağa Camii, Nazilli | Miras Haritası"
-date: 2025-12-25T00:25:02+03:00
+title: "Ağa Camii, Nazilli"
+date: "2025-12-25T00:25:02+03:00"
 slug: "aga-camii-nazilli"
 description: "### Ağa Camii, Nazilli..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3243999,37.9035988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ağa Camii, Nazilli

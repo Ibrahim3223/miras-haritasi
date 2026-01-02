@@ -1,18 +1,17 @@
 ---
-title: "Yeşil Cami, Kütahya | Miras Haritası"
-date: 2025-12-25T00:02:50+03:00
+title: "Yeşil Cami, Kütahya"
+date: "2025-12-25T00:02:50+03:00"
 slug: "yesil-cami-kutahya"
 description: "## Yeşil Cami: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9825134,39.4173317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşil Cami: Kütahya'nın Tarihi ve Kültürel Mirası

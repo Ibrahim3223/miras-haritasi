@@ -1,18 +1,17 @@
 ---
-title: "Yertepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:43:13+03:00
+title: "Yertepe Tümülüsü"
+date: "2025-12-25T07:43:13+03:00"
 slug: "yertepe-tumulusu"
 description: "### Yertepe Tümülüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.7403202,38.5739822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yertepe Tümülüsü

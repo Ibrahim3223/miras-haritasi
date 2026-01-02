@@ -1,18 +1,17 @@
 ---
-title: "Tavukçu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:50+03:00
+title: "Tavukçu Köprüsü"
+date: "2025-12-25T02:23:50+03:00"
 slug: "tavukcu-koprusu"
 description: "### Tavukçu Köprüsü: Tokat'ın Tarihî Bir Çanak Çömleği..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Turhal"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.307716,40.287441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tavukçu Köprüsü: Tokat'ın Tarihî Bir Çanak Çömleği

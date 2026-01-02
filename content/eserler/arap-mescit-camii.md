@@ -1,18 +1,17 @@
 ---
-title: "Arap Mescit Camii | Miras Haritası"
-date: 2025-12-24T23:21:42+03:00
+title: "Arap Mescit Camii"
+date: "2025-12-24T23:21:42+03:00"
 slug: "arap-mescit-camii"
 description: "## Arap Mescit Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5354,38.7565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arap Mescit Camii

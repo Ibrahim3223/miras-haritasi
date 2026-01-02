@@ -1,18 +1,17 @@
 ---
-title: "Beyazıt Bestami Camii | Miras Haritası"
-date: 2025-12-24T22:20:57+03:00
+title: "Beyazıt Bestami Camii"
+date: "2025-12-24T22:20:57+03:00"
 slug: "beyazit-bestami-camii"
 description: "## Beyazıt Bestami Camii..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Zile"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.891083333,40.302194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyazıt Bestami Camii

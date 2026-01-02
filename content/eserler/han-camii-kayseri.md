@@ -1,18 +1,17 @@
 ---
-title: "Han Camii, Kayseri | Miras Haritası"
-date: 2025-12-25T00:02:34+03:00
+title: "Han Camii, Kayseri"
+date: "2025-12-25T00:02:34+03:00"
 slug: "han-camii-kayseri"
 description: "# Han Camii, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4930573,38.7171478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Han Camii, Kayseri

@@ -1,18 +1,17 @@
 ---
-title: "Şah Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:25:31+03:00
+title: "Şah Bey Türbesi"
+date: "2025-12-25T14:25:31+03:00"
 slug: "sah-bey-turbesi"
 description: "### Şah Bey Türbesi: Bafra'nın Gizli Güzelliği..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
+iller: '["Trabzon Vilayeti"]'
 district: "Bafra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.0877,41.525156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şah Bey Türbesi: Bafra'nın Gizli Güzelliği

@@ -1,18 +1,17 @@
 ---
-title: "Kürkçü Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:52:26+03:00
+title: "Kürkçü Çeşmesi"
+date: "2025-12-25T12:52:26+03:00"
 slug: "kurkcu-cesmesi"
 description: "## Kürkçü Çeşmesi: Fatih'te Bir Örnek Osmanlı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9279175,41.0187187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kürkçü Çeşmesi: Fatih'te Bir Örnek Osmanlı Çeşmesi

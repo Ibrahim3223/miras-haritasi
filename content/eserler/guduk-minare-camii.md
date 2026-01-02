@@ -1,18 +1,17 @@
 ---
-title: "Güdük Minare Camii | Miras Haritası"
-date: 2025-12-24T23:06:29+03:00
+title: "Güdük Minare Camii"
+date: "2025-12-24T23:06:29+03:00"
 slug: "guduk-minare-camii"
 description: "## Güdük Minare Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8393745,38.198513"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güdük Minare Camii

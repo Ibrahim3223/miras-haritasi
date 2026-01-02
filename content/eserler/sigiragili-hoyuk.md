@@ -1,18 +1,17 @@
 ---
-title: "Sığırağılı Höyük | Miras Haritası"
-date: 2025-12-25T06:18:46+03:00
+title: "Sığırağılı Höyük"
+date: "2025-12-25T06:18:46+03:00"
 slug: "sigiragili-hoyuk"
 description: "# Sığırağılı Höyük: Tarihçenin Gözbebeği..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3674928,39.349461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sığırağılı Höyük: Tarihçenin Gözbebeği

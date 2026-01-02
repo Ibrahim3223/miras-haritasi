@@ -1,18 +1,17 @@
 ---
-title: "Abdullah Hamamı | Miras Haritası"
-date: 2025-12-25T17:10:48+03:00
+title: "Abdullah Hamamı"
+date: "2025-12-25T17:10:48+03:00"
 slug: "abdullah-hamami"
 description: "# Abdullah Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.556777777,41.670888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdullah Hamamı

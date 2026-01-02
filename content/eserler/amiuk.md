@@ -1,18 +1,17 @@
 ---
-title: "Amiuk | Miras Haritası"
-date: 2025-12-25T01:11:38+03:00
+title: "Amiuk"
+date: "2025-12-25T01:11:38+03:00"
 slug: "amiuk"
 description: "## Amiuk: Van'ın Eski Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Van_Lake,_Side_of_Amik_Castle.jpg/1200px-Van_Lake,_Side_of_Amik_Castle.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.132767,39.106408"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Amiuk: Van'ın Eski Kenti

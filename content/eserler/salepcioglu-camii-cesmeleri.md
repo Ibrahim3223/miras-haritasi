@@ -1,18 +1,17 @@
 ---
-title: "Salepçioğlu Camii Çeşmeleri | Miras Haritası"
-date: 2025-12-25T12:45:38+03:00
+title: "Salepçioğlu Camii Çeşmeleri"
+date: "2025-12-25T12:45:38+03:00"
 slug: "salepcioglu-camii-cesmeleri"
 description: "## Salepçioğlu Camii Çeşmeleri..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1324177,38.4170609"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salepçioğlu Camii Çeşmeleri

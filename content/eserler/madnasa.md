@@ -1,18 +1,17 @@
 ---
-title: "Madnasa | Miras Haritası"
-date: 2025-12-25T04:43:28+03:00
+title: "Madnasa"
+date: "2025-12-25T04:43:28+03:00"
 slug: "madnasa"
 description: "### Madnasa: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3693,37.1143"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Madnasa: Türkiye'nin Gizli Arkeolojik Mirası

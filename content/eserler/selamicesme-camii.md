@@ -1,18 +1,17 @@
 ---
-title: "Selamiçeşme Camii | Miras Haritası"
-date: 2025-12-25T01:01:15+03:00
+title: "Selamiçeşme Camii"
+date: "2025-12-25T01:01:15+03:00"
 slug: "selamicesme-camii"
 description: "### Selamiçeşme Camii: Kadıköy'ün Tarihi Bir Mirası..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Fenerbahçe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.052447344,40.974553979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selamiçeşme Camii: Kadıköy'ün Tarihi Bir Mirası

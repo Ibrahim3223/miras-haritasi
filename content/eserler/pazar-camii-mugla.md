@@ -1,18 +1,17 @@
 ---
-title: "Pazar Camii, Muğla | Miras Haritası"
-date: 2025-12-25T00:25:06+03:00
+title: "Pazar Camii, Muğla"
+date: "2025-12-25T00:25:06+03:00"
 slug: "pazar-camii-mugla"
 description: "## Pazar Camii, Muğla..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3642998,37.218399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazar Camii, Muğla

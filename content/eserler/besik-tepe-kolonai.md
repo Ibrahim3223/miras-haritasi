@@ -1,18 +1,17 @@
 ---
-title: "Beşik Tepe (Kolonai) | Miras Haritası"
-date: 2025-12-25T05:45:02+03:00
+title: "Beşik Tepe (Kolonai)"
+date: "2025-12-25T05:45:02+03:00"
 slug: "besik-tepe-kolonai"
 description: "## Beşik Tepe (Kolonai): Ezine'nin Gizli Cenneti..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.159917,39.70885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşik Tepe (Kolonai): Ezine'nin Gizli Cenneti

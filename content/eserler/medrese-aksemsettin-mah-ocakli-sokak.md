@@ -1,18 +1,17 @@
 ---
-title: "Medrese (Akşemsettin Mah. Ocaklı Sokak) | Miras Haritası"
-date: 2025-12-25T17:25:44+03:00
+title: "Medrese (Akşemsettin Mah. Ocaklı Sokak)"
+date: "2025-12-25T17:25:44+03:00"
 slug: "medrese-aksemsettin-mah-ocakli-sokak"
 description: "## Medrese (Akşemsettin Mah. Ocaklı Sokak): Fatih'teki Bir Geçmişe Sahip Medrese..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.947404,41.018489"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Medrese (Akşemsettin Mah. Ocaklı Sokak): Fatih'teki Bir Geçmişe Sahip Medrese

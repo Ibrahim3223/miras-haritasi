@@ -1,18 +1,17 @@
 ---
-title: "Çatma Camii | Miras Haritası"
-date: 2025-12-25T00:12:57+03:00
+title: "Çatma Camii"
+date: "2025-12-25T00:12:57+03:00"
 slug: "catma-camii"
 description: "## Çatma Camii: Serik'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.042519,36.906864"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatma Camii: Serik'in Tarihi Bir Mirası

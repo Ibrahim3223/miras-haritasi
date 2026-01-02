@@ -1,18 +1,17 @@
 ---
-title: "Abdülahad Nuri Sivasi Türbesi | Miras Haritası"
-date: 2025-12-25T14:38:45+03:00
+title: "Abdülahad Nuri Sivasi Türbesi"
+date: "2025-12-25T14:38:45+03:00"
 slug: "abdulahad-nuri-sivasi-turbesi"
 description: "### Abdülahad Nuri Sivasi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.930306,41.042035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdülahad Nuri Sivasi Türbesi

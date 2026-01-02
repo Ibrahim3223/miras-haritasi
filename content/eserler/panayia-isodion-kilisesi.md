@@ -1,18 +1,17 @@
 ---
-title: "Panayia İsodion Kilisesi | Miras Haritası"
-date: 2025-12-25T08:53:03+03:00
+title: "Panayia İsodion Kilisesi"
+date: "2025-12-25T08:53:03+03:00"
 slug: "panayia-isodion-kilisesi"
 description: "## Panayia İsodion Kilisesi: Beyoğlu, İstanbul'da bir İkonoklastik Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20131208_Istanbul_037.jpg/1200px-20131208_Istanbul_037.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.97583333,41.03277778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Panayia İsodion Kilisesi: Beyoğlu, İstanbul'da bir İkonoklastik Miras

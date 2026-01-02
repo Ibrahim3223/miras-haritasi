@@ -1,18 +1,17 @@
 ---
-title: "Yemenici Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:04:53+03:00
+title: "Yemenici Çeşmesi"
+date: "2025-12-25T11:04:53+03:00"
 slug: "yemenici-cesmesi"
 description: "## Yemenici Çeşmesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Evliya Çelebi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9730873,41.0296516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yemenici Çeşmesi

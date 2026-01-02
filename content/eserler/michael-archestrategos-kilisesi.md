@@ -1,18 +1,17 @@
 ---
-title: "Michael Archestrategos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:24:45+03:00
+title: "Michael Archestrategos Kilisesi"
+date: "2025-12-25T09:24:45+03:00"
 slug: "michael-archestrategos-kilisesi"
 description: "## Michael Archestrategos Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Karacabey"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.4395161,40.2033691"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Michael Archestrategos Kilisesi

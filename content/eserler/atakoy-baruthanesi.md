@@ -1,18 +1,17 @@
 ---
-title: "Ataköy Baruthanesi | Miras Haritası"
-date: 2025-12-25T04:01:07+03:00
+title: "Ataköy Baruthanesi"
+date: "2025-12-25T04:01:07+03:00"
 slug: "atakoy-baruthanesi"
 description: "## Ataköy Baruthanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.860113,40.975678"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ataköy Baruthanesi

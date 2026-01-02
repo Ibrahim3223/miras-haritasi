@@ -1,18 +1,17 @@
 ---
-title: "Şekerci Osman Ağa Konağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:58:20+03:00
+title: "Şekerci Osman Ağa Konağı Çeşmesi"
+date: "2025-12-25T11:58:20+03:00"
 slug: "sekerci-osman-aga-konagi-cesmesi"
 description: "### Şekerci Osman Ağa Konağı Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.30546,38.3229218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şekerci Osman Ağa Konağı Çeşmesi

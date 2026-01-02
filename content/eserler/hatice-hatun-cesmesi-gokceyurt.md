@@ -1,18 +1,17 @@
 ---
-title: "Hatice Hatun Çeşmesi, Gökçeyurt | Miras Haritası"
-date: 2025-12-25T12:32:57+03:00
+title: "Hatice Hatun Çeşmesi, Gökçeyurt"
+date: "2025-12-25T12:32:57+03:00"
 slug: "hatice-hatun-cesmesi-gokceyurt"
 description: "### Hatice Hatun Çeşmesi, Gökçeyurt..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.032409648,39.960318889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hatice Hatun Çeşmesi, Gökçeyurt

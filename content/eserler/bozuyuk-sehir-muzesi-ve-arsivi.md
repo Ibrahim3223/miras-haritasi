@@ -1,18 +1,17 @@
 ---
-title: "Bozüyük Şehir Müzesi ve Arşivi | Miras Haritası"
-date: 2025-12-25T04:07:23+03:00
+title: "Bozüyük Şehir Müzesi ve Arşivi"
+date: "2025-12-25T04:07:23+03:00"
 slug: "bozuyuk-sehir-muzesi-ve-arsivi"
 description: "## Bozüyük Şehir Müzesi ve Arşivi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.0270634,39.9115906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bozüyük Şehir Müzesi ve Arşivi

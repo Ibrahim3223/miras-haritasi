@@ -1,18 +1,17 @@
 ---
-title: "İğneci Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:16:55+03:00
+title: "İğneci Baba Türbesi"
+date: "2025-12-25T15:16:55+03:00"
 slug: "igneci-baba-turbesi"
 description: "## İğneci Baba Türbesi: Amasya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.832828,40.651927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İğneci Baba Türbesi: Amasya'nın Kültürel Mirası

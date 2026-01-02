@@ -1,18 +1,17 @@
 ---
-title: "Labraunda Güney Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:22+03:00
+title: "Labraunda Güney Hamamı"
+date: "2025-12-25T16:46:22+03:00"
 slug: "labraunda-guney-hamami"
 description: "### Labraunda Güney Hamamı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.8195076,37.4185219"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Labraunda Güney Hamamı

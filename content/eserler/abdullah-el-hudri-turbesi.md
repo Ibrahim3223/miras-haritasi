@@ -1,18 +1,17 @@
 ---
-title: "Abdullah El-Hudri Türbesi | Miras Haritası"
-date: 2025-12-25T14:32:02+03:00
+title: "Abdullah El-Hudri Türbesi"
+date: "2025-12-25T14:32:02+03:00"
 slug: "abdullah-el-hudri-turbesi"
 description: "# Abdullah El-Hudri Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.93975,41.037802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdullah El-Hudri Türbesi

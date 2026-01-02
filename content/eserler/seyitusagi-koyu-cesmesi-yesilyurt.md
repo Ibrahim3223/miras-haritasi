@@ -1,18 +1,17 @@
 ---
-title: "Seyituşağı Köyü Çeşmesi, Yeşilyurt | Miras Haritası"
-date: 2025-12-25T12:19:31+03:00
+title: "Seyituşağı Köyü Çeşmesi, Yeşilyurt"
+date: "2025-12-25T12:19:31+03:00"
 slug: "seyitusagi-koyu-cesmesi-yesilyurt"
 description: "### Seyituşağı Köyü Çeşmesi: Yeşilyurt'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Yeşilyurt"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.174534861,38.263316217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyituşağı Köyü Çeşmesi: Yeşilyurt'un Tarihi Bir Çeşmesi

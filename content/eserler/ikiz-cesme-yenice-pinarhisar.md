@@ -1,18 +1,17 @@
 ---
-title: "İkiz Çeşme (Yenice, Pınarhisar) | Miras Haritası"
-date: 2025-12-25T11:46:45+03:00
+title: "İkiz Çeşme (Yenice, Pınarhisar)"
+date: "2025-12-25T11:46:45+03:00"
 slug: "ikiz-cesme-yenice-pinarhisar"
 description: "## İkiz Çeşme (Yenice, Pınarhisar)..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.639055555,41.736222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İkiz Çeşme (Yenice, Pınarhisar)

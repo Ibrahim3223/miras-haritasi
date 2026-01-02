@@ -1,18 +1,17 @@
 ---
-title: "Boğazkesen Camii | Miras Haritası"
-date: 2025-12-24T22:26:54+03:00
+title: "Boğazkesen Camii"
+date: "2025-12-24T22:26:54+03:00"
 slug: "bogazkesen-camii"
 description: "## Boğazkesen Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9271393,37.586113"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boğazkesen Camii

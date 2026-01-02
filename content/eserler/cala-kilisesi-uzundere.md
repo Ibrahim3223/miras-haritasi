@@ -1,18 +1,17 @@
 ---
-title: "Çala Kilisesi (Uzundere) | Miras Haritası"
-date: 2025-12-25T09:05:01+03:00
+title: "Çala Kilisesi (Uzundere)"
+date: "2025-12-25T09:05:01+03:00"
 slug: "cala-kilisesi-uzundere"
 description: "## Çala Kilisesi (Uzundere): Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Uzundere"
-iller: ["Uzundere"]
+iller: '["Uzundere"]'
 district: "Çaybaşı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.548863888,40.560372222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çala Kilisesi (Uzundere): Tarihi ve Kültürel Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Mecidiye Höyük | Miras Haritası"
-date: 2025-12-25T05:44:18+03:00
+title: "Mecidiye Höyük"
+date: "2025-12-25T05:44:18+03:00"
 slug: "mecidiye-hoyuk"
 description: "### Mecidiye Höyük: Akhisar'ın Tarihi Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.67405,38.888267"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mecidiye Höyük: Akhisar'ın Tarihi Mirası

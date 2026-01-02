@@ -1,18 +1,17 @@
 ---
-title: "Pomak Hasan Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:15:05+03:00
+title: "Pomak Hasan Tümülüsü"
+date: "2025-12-25T08:15:05+03:00"
 slug: "pomak-hasan-tumulusu"
 description: "### Pomak Hasan Tümülüsü: Kırklareli'nin Gizli Mimari Harikası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7609882,41.5521927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pomak Hasan Tümülüsü: Kırklareli'nin Gizli Mimari Harikası

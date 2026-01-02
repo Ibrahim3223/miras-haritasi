@@ -1,18 +1,17 @@
 ---
-title: "Sinan-ı Erdebilî Türbesi | Miras Haritası"
-date: 2025-12-25T15:21:09+03:00
+title: "Sinan-ı Erdebilî Türbesi"
+date: "2025-12-25T15:21:09+03:00"
 slug: "sinan-i-erdebil-turbesi"
 description: "## Sinan-ı Erdebilî Türbesi: İstanbul'un Gizli Mücevheri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9223289,41.019989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan-ı Erdebilî Türbesi: İstanbul'un Gizli Mücevheri

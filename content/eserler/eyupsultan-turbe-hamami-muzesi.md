@@ -1,18 +1,17 @@
 ---
-title: "Eyüpsultan Türbe Hamamı Müzesi | Miras Haritası"
-date: 2025-12-25T03:46:51+03:00
+title: "Eyüpsultan Türbe Hamamı Müzesi"
+date: "2025-12-25T03:46:51+03:00"
 slug: "eyupsultan-turbe-hamami-muzesi"
 description: "## Eyüpsultan Türbe Hamamı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Eyüpsultan_Tomb_Bath_Museum_1.jpg/1200px-Eyüpsultan_Tomb_Bath_Museum_1.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.932772059,41.047920683"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eyüpsultan Türbe Hamamı Müzesi

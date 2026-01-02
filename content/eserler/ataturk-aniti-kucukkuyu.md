@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Küçükkuyu | Miras Haritası"
-date: 2025-12-25T15:45:53+03:00
+title: "Atatürk Anıtı, Küçükkuyu"
+date: "2025-12-25T15:45:53+03:00"
 slug: "ataturk-aniti-kucukkuyu"
 description: "## Atatürk Anıtı, Küçükkuyu: Çanakkale'nin Kahraman Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Ayvacık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6051674,39.545475"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı, Küçükkuyu: Çanakkale'nin Kahraman Anıtı

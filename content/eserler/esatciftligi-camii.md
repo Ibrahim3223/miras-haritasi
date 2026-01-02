@@ -1,18 +1,17 @@
 ---
-title: "Esatçiftliği Camii | Miras Haritası"
-date: 2025-12-24T23:00:35+03:00
+title: "Esatçiftliği Camii"
+date: "2025-12-24T23:00:35+03:00"
 slug: "esatciftligi-camii"
 description: "### Esatçiftliği Camii: Samsun'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.8484993,40.9892998"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Esatçiftliği Camii: Samsun'un Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Koyun Dede Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:52:13+03:00
+title: "Koyun Dede Sultan Türbesi"
+date: "2025-12-25T14:52:13+03:00"
 slug: "koyun-dede-sultan-turbesi"
 description: "### Koyun Dede Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9718761,41.0223274"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Koyun Dede Sultan Türbesi

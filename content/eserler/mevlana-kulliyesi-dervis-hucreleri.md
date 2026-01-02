@@ -1,18 +1,17 @@
 ---
-title: "Mevlana Külliyesi Derviş Hücreleri | Miras Haritası"
-date: 2025-12-25T17:35:21+03:00
+title: "Mevlana Külliyesi Derviş Hücreleri"
+date: "2025-12-25T17:35:21+03:00"
 slug: "mevlana-kulliyesi-dervis-hucreleri"
 description: "## Mevlana Külliyesi Derviş Hüceleleri: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mevlana_Klliyesi_Dervi_Hcreleri_1761416624.jpg/1200px-Mevlana_Klliyesi_Dervi_Hcreleri_1761416624.jpg"
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "32.5044594,37.8708458"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mevlana Külliyesi Derviş Hüceleleri: Konya'nın Tarihi ve Kültürel Mirası

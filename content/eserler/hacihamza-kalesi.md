@@ -1,18 +1,17 @@
 ---
-title: "Hacıhamza Kalesi | Miras Haritası"
-date: 2025-12-25T01:17:56+03:00
+title: "Hacıhamza Kalesi"
+date: "2025-12-25T01:17:56+03:00"
 slug: "hacihamza-kalesi"
 description: "**Hacıhamza Kalesi: Tarihi ve Kültürel Miras**..."
 featured_image: ""
 province: "Kargı"
-iller: ["Kargı"]
+iller: '["Kargı"]'
 district: "Hacıhamza"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.449337,41.0763283"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hacıhamza Kalesi: Tarihi ve Kültürel Miras**

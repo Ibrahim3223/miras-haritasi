@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2, Balatçık | Miras Haritası"
-date: 2025-12-25T11:59:01+03:00
+title: "Çeşme 2, Balatçık"
+date: "2025-12-25T11:59:01+03:00"
 slug: "cesme-2-balatcik"
 description: "# Çeşme 2, Balatçık: Aydın'ın Germencik İlçesindeki Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4916668,37.9096375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çeşme 2, Balatçık: Aydın'ın Germencik İlçesindeki Tarihi Bir Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Yedi Kızlar Türbesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:27:51+03:00
+title: "Yedi Kızlar Türbesi Çeşmesi"
+date: "2025-12-25T11:27:51+03:00"
 slug: "yedi-kizlar-turbesi-cesmesi"
 description: "## Yedi Kızlar Türbesi Çeşmesi: Manisa'nın Eski Şövalyesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4236774,38.6062241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yedi Kızlar Türbesi Çeşmesi: Manisa'nın Eski Şövalyesi

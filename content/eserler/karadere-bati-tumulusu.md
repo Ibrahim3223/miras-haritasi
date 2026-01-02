@@ -1,18 +1,17 @@
 ---
-title: "Karadere Batı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:20:54+03:00
+title: "Karadere Batı Tümülüsü"
+date: "2025-12-25T07:20:54+03:00"
 slug: "karadere-bati-tumulusu"
 description: "## Karadere Batı Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4196339,41.9326477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadere Batı Tümülüsü: Kırklareli'nin Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Profesör Doktor Metin Aktaş Zooloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:32:57+03:00
+title: "Profesör Doktor Metin Aktaş Zooloji Müzesi"
+date: "2025-12-25T03:32:57+03:00"
 slug: "profesor-doktor-metin-aktas-zooloji-muzesi"
 description: "## Profesör Doktor Metin Aktaş Zooloji Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Profesör Doktor Metin Aktaş Zooloji Müzesi

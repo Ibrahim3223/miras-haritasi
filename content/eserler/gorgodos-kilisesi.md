@@ -1,18 +1,17 @@
 ---
-title: "Gorgodos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:15:14+03:00
+title: "Gorgodos Kilisesi"
+date: "2025-12-25T09:15:14+03:00"
 slug: "gorgodos-kilisesi"
 description: "## Gorgodos Kilisesi: Torul'un Gizli Değerleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.2660751,40.5104485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gorgodos Kilisesi: Torul'un Gizli Değerleri

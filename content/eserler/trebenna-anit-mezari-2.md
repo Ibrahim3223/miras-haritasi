@@ -1,18 +1,17 @@
 ---
-title: "Trebenna Anıt Mezarı 2 | Miras Haritası"
-date: 2025-12-25T14:04:08+03:00
+title: "Trebenna Anıt Mezarı 2"
+date: "2025-12-25T14:04:08+03:00"
 slug: "trebenna-anit-mezari-2"
 description: "### Trebenna Anıt Mezarı 2: Antalya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Konyaaltı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.4728184,36.8643684"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Trebenna Anıt Mezarı 2: Antalya'nın Tarihî Mirası

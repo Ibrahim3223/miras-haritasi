@@ -1,18 +1,17 @@
 ---
-title: "Yüzbaşı Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:40+03:00
+title: "Yüzbaşı Suyu Çeşmesi"
+date: "2025-12-25T10:15:40+03:00"
 slug: "yuzbasi-suyu-cesmesi"
 description: "## Yüzbaşı Suyu Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.388475,40.90977"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yüzbaşı Suyu Çeşmesi

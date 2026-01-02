@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Pınar (Aşağı Mahalle) Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:25:08+03:00
+title: "Aşağı Pınar (Aşağı Mahalle) Çeşmesi"
+date: "2025-12-25T12:25:08+03:00"
 slug: "asagi-pinar-asagi-mahalle-cesmesi"
 description: "## Aşağı Pınar (Aşağı Mahalle) Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.505835369,39.015041267"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Pınar (Aşağı Mahalle) Çeşmesi

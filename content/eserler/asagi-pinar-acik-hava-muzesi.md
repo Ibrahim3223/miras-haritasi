@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Pınar Açık Hava Müzesi | Miras Haritası"
-date: 2025-12-25T03:52:41+03:00
+title: "Aşağı Pınar Açık Hava Müzesi"
+date: "2025-12-25T03:52:41+03:00"
 slug: "asagi-pinar-acik-hava-muzesi"
 description: "# Aşağı Pınar Açık Hava Müzesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.2259502,41.7209625"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aşağı Pınar Açık Hava Müzesi

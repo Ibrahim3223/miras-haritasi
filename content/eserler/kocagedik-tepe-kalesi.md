@@ -1,18 +1,17 @@
 ---
-title: "Kocagedik Tepe Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:45+03:00
+title: "Kocagedik Tepe Kalesi"
+date: "2025-12-25T01:23:45+03:00"
 slug: "kocagedik-tepe-kalesi"
 description: "### Kocagedik Tepe Kalesi: Demre'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.9225311,36.2689285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kocagedik Tepe Kalesi: Demre'nin Gizli Kahramanı

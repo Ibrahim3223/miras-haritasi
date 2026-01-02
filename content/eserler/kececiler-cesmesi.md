@@ -1,18 +1,17 @@
 ---
-title: "Keçeciler Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:02:47+03:00
+title: "Keçeciler Çeşmesi"
+date: "2025-12-25T11:02:47+03:00"
 slug: "kececiler-cesmesi"
 description: "## Keçeciler Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.936056,41.022038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keçeciler Çeşmesi

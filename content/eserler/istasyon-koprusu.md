@@ -1,18 +1,17 @@
 ---
-title: "İstasyon Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:21+03:00
+title: "İstasyon Köprüsü"
+date: "2025-12-25T01:59:21+03:00"
 slug: "istasyon-koprusu"
 description: "## İstasyon Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/İstasyon_Köprüsü,_Amasya_01.jpg/1200px-İstasyon_Köprüsü,_Amasya_01.jpg"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.8229425,40.6520248"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İstasyon Köprüsü

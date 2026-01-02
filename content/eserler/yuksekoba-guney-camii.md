@@ -1,18 +1,17 @@
 ---
-title: "Yüksekoba Güney Camii | Miras Haritası"
-date: 2025-12-25T00:20:45+03:00
+title: "Yüksekoba Güney Camii"
+date: "2025-12-25T00:20:45+03:00"
 slug: "yuksekoba-guney-camii"
 description: "## Yüksekoba Güney Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4558,41.0665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yüksekoba Güney Camii

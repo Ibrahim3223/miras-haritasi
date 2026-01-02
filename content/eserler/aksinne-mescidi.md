@@ -1,18 +1,17 @@
 ---
-title: "Aksinne Mescidi | Miras Haritası"
-date: 2025-12-24T22:57:45+03:00
+title: "Aksinne Mescidi"
+date: "2025-12-24T22:57:45+03:00"
 slug: "aksinne-mescidi"
 description: "# Aksinne Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4920654,37.8630409"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aksinne Mescidi

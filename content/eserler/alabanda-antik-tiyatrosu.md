@@ -1,18 +1,17 @@
 ---
-title: "Alabanda Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:12:43+03:00
+title: "Alabanda Antik Tiyatrosu"
+date: "2025-12-25T04:12:43+03:00"
 slug: "alabanda-antik-tiyatrosu"
 description: "### Alabanda Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.985177,37.59176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alabanda Antik Tiyatrosu

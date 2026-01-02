@@ -1,18 +1,17 @@
 ---
-title: "Ahi Evren Camii, Ortahisar | Miras Haritası"
-date: 2025-12-25T00:24:29+03:00
+title: "Ahi Evren Camii, Ortahisar"
+date: "2025-12-25T00:24:29+03:00"
 slug: "ahi-evren-camii-ortahisar"
 description: "## Ahi Evren Camii, Ortahisar..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.735114,40.996853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Evren Camii, Ortahisar

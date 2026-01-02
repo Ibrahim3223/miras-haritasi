@@ -1,18 +1,17 @@
 ---
-title: "Abdi Bey Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:40+03:00
+title: "Abdi Bey Sultan Türbesi"
+date: "2025-12-25T15:29:40+03:00"
 slug: "abdi-bey-sultan-turbesi"
 description: "**Abdi Bey Sultan Türbesi**..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Serinhisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.3718586,37.5673943"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Abdi Bey Sultan Türbesi**

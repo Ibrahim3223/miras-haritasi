@@ -1,18 +1,17 @@
 ---
-title: "Tümülüs 1, Karabağ | Miras Haritası"
-date: 2025-12-25T07:44:03+03:00
+title: "Tümülüs 1, Karabağ"
+date: "2025-12-25T07:44:03+03:00"
 slug: "tumulus-1-karabag"
 description: "## Tümülüs 1, Karabağ: Aydın'ın Gizli Şehri..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "İncirliova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7108364,37.8798904"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tümülüs 1, Karabağ: Aydın'ın Gizli Şehri

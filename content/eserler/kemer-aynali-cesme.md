@@ -1,18 +1,17 @@
 ---
-title: "Kemer Aynalı Çeşme | Miras Haritası"
-date: 2025-12-25T10:11:41+03:00
+title: "Kemer Aynalı Çeşme"
+date: "2025-12-25T10:11:41+03:00"
 slug: "kemer-aynali-cesme"
 description: "**Kemer Aynalı Çeşme: İznik Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.958898,41.016766"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kemer Aynalı Çeşme: İznik Mirası**

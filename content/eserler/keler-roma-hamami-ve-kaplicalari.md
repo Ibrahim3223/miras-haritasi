@@ -1,18 +1,17 @@
 ---
-title: "Keler Roma Hamamı ve Kaplıcaları | Miras Haritası"
-date: 2025-12-25T16:52:47+03:00
+title: "Keler Roma Hamamı ve Kaplıcaları"
+date: "2025-12-25T16:52:47+03:00"
 slug: "keler-roma-hamami-ve-kaplicalari"
 description: "## Keler Roma Hamamı ve Kaplıcaları: Tarihin Gizli Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menderes"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.0592842,38.1736526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keler Roma Hamamı ve Kaplıcaları: Tarihin Gizli Harikası

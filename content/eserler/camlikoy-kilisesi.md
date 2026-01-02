@@ -1,18 +1,17 @@
 ---
-title: "Çamlıköy Kilisesi | Miras Haritası"
-date: 2025-12-25T09:14:30+03:00
+title: "Çamlıköy Kilisesi"
+date: "2025-12-25T09:14:30+03:00"
 slug: "camlikoy-kilisesi"
 description: "# Çamlıköy Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.448932,40.389276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çamlıköy Kilisesi: Tarihî Bir Mirasın Gizemi

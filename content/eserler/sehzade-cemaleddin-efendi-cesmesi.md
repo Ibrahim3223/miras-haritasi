@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Cemaleddin Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:46:59+03:00
+title: "Şehzade Cemaleddin Efendi Çeşmesi"
+date: "2025-12-25T11:46:59+03:00"
 slug: "sehzade-cemaleddin-efendi-cesmesi"
 description: "## Şehzade Cemaleddin Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Şehzade_Cemaleddin_Efendi_Fountain_-_20250531171157.jpg/1200px-Şehzade_Cemaleddin_Efendi_Fountain_-_20250531171157.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.35375,41.405944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehzade Cemaleddin Efendi Çeşmesi

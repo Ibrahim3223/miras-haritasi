@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Rahmi Gürpınar Müze Evi | Miras Haritası"
-date: 2025-12-25T03:49:00+03:00
+title: "Hüseyin Rahmi Gürpınar Müze Evi"
+date: "2025-12-25T03:49:00+03:00"
 slug: "huseyin-rahmi-gurpinar-muze-evi"
 description: "**Hüseyin Rahmi Gürpınar Müze Evi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0920963,40.8771362"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hüseyin Rahmi Gürpınar Müze Evi**

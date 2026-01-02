@@ -1,18 +1,17 @@
 ---
-title: "Adranos Kalesi | Miras Haritası"
-date: 2025-12-25T01:19:19+03:00
+title: "Adranos Kalesi"
+date: "2025-12-25T01:19:19+03:00"
 slug: "adranos-kalesi"
 description: "## Adranos Kalesi: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Orhaneli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.9695721,39.9287415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adranos Kalesi: Bursa'nın Gizli Mirası

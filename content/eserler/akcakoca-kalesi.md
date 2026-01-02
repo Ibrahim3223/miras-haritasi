@@ -1,18 +1,17 @@
 ---
-title: "Akçakoca Kalesi | Miras Haritası"
-date: 2025-12-25T01:17:51+03:00
+title: "Akçakoca Kalesi"
+date: "2025-12-25T01:17:51+03:00"
 slug: "akcakoca-kalesi"
 description: "## Akçakoca Kalesi: Düzce'nin Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Akçakoca_Ceneviz_Kalesi_mesire_yeri.jpeg/1200px-Akçakoca_Ceneviz_Kalesi_mesire_yeri.jpeg"
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "31.0928,41.0861"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akçakoca Kalesi: Düzce'nin Tarihi Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Kravga Köprüsü | Miras Haritası"
-date: 2025-12-25T01:58:12+03:00
+title: "Kravga Köprüsü"
+date: "2025-12-25T01:58:12+03:00"
 slug: "kravga-koprusu"
 description: "## Kravga Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.185,36.782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kravga Köprüsü

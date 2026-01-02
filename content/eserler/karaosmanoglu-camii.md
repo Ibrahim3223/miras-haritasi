@@ -1,18 +1,17 @@
 ---
-title: "Karaosmanoğlu Camii | Miras Haritası"
-date: 2025-12-24T23:43:49+03:00
+title: "Karaosmanoğlu Camii"
+date: "2025-12-24T23:43:49+03:00"
 slug: "karaosmanoglu-camii"
 description: "### Karaosmanoğlu Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.671011,39.1048584"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaosmanoğlu Camii

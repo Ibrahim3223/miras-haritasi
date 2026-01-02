@@ -1,18 +1,17 @@
 ---
-title: "Mormonda | Miras Haritası"
-date: 2025-12-25T05:01:08+03:00
+title: "Mormonda"
+date: "2025-12-25T05:01:08+03:00"
 slug: "mormonda"
 description: "# Mormonda Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.199185,38.527464"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mormonda Arkeolojik Sit

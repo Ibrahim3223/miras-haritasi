@@ -1,18 +1,17 @@
 ---
-title: "Kırmızı Minare Camii | Miras Haritası"
-date: 2025-12-24T21:50:20+03:00
+title: "Kırmızı Minare Camii"
+date: "2025-12-24T21:50:20+03:00"
 slug: "kirmizi-minare-camii"
 description: "## Kırmızı Minare Camii: Beyoğlu'ndaki Tarihi Bir Miras..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Piripaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.95083333,41.04194444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırmızı Minare Camii: Beyoğlu'ndaki Tarihi Bir Miras

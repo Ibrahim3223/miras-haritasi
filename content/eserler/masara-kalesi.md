@@ -1,18 +1,17 @@
 ---
-title: "Masara Kalesi | Miras Haritası"
-date: 2025-12-25T01:38:22+03:00
+title: "Masara Kalesi"
+date: "2025-12-25T01:38:22+03:00"
 slug: "masara-kalesi"
 description: "## Masara Kalesi Tanıtımı..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Baskil"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.3683968,38.6148872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Masara Kalesi Tanıtımı

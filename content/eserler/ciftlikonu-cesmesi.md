@@ -1,18 +1,17 @@
 ---
-title: "Çiftlikönü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:01+03:00
+title: "Çiftlikönü Çeşmesi"
+date: "2025-12-25T10:58:01+03:00"
 slug: "ciftlikonu-cesmesi"
 description: "## Çiftlikönü Çeşmesi: Tekirdağ'ın Eski Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5227051,40.9813576"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiftlikönü Çeşmesi: Tekirdağ'ın Eski Mirası

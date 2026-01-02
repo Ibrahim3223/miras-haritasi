@@ -1,18 +1,17 @@
 ---
-title: "Küçük Mustafa Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:26:10+03:00
+title: "Küçük Mustafa Paşa Hamamı"
+date: "2025-12-25T16:26:10+03:00"
 slug: "kucuk-mustafa-pasa-hamami"
 description: "### Küçük Mustafa Paşa Hamamı: İstanbul'un Eski Günleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Küçük_Mustafa_Paşa_Hamamı_01.jpg/1200px-Küçük_Mustafa_Paşa_Hamamı_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.956334784,41.026173707"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Küçük Mustafa Paşa Hamamı: İstanbul'un Eski Günleri

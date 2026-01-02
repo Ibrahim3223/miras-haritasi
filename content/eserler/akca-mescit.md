@@ -1,18 +1,17 @@
 ---
-title: "Akça Mescit | Miras Haritası"
-date: 2025-12-24T22:58:25+03:00
+title: "Akça Mescit"
+date: "2025-12-24T22:58:25+03:00"
 slug: "akca-mescit"
 description: "**Akça Mescit: Adana'nın Tarihî Bir Mirası**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.3302994,36.985527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akça Mescit: Adana'nın Tarihî Bir Mirası**

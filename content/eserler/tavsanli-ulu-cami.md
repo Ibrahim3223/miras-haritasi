@@ -1,18 +1,17 @@
 ---
-title: "Tavşanlı Ulu Cami | Miras Haritası"
-date: 2025-12-24T22:03:15+03:00
+title: "Tavşanlı Ulu Cami"
+date: "2025-12-24T22:03:15+03:00"
 slug: "tavsanli-ulu-cami"
 description: "## Tavşanlı Ulu Cami: Kütahya'nın Önemli Camisi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Tavşanlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.491916666,39.545444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tavşanlı Ulu Cami: Kütahya'nın Önemli Camisi

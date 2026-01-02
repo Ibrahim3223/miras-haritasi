@@ -1,18 +1,17 @@
 ---
-title: "Demir Kapı | Miras Haritası"
-date: 2025-12-25T15:37:45+03:00
+title: "Demir Kapı"
+date: "2025-12-25T15:37:45+03:00"
 slug: "demir-kapi"
 description: "## Demir Kapı: Fatih'te Bir Anıtsal Yapı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9798698,41.0148659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demir Kapı: Fatih'te Bir Anıtsal Yapı

@@ -1,18 +1,17 @@
 ---
-title: "Uşakizade Köşkü Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:55:03+03:00
+title: "Uşakizade Köşkü Çeşmesi"
+date: "2025-12-25T12:55:03+03:00"
 slug: "usakizade-kosku-cesmesi"
 description: "## Uşakizade Köşkü Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.0985432,38.4029541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uşakizade Köşkü Çeşmesi

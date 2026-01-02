@@ -1,18 +1,17 @@
 ---
-title: "Sura Apollon Tapınağı | Miras Haritası"
-date: 2025-12-25T08:12:05+03:00
+title: "Sura Apollon Tapınağı"
+date: "2025-12-25T08:12:05+03:00"
 slug: "sura-apollon-tapinagi"
 description: "### Sura Apollon Tapınağı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9398,36.24116"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sura Apollon Tapınağı

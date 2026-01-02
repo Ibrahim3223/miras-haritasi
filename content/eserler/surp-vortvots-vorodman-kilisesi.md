@@ -1,18 +1,17 @@
 ---
-title: "Surp Vortvots Vorodman Kilisesi | Miras Haritası"
-date: 2025-12-25T09:25:23+03:00
+title: "Surp Vortvots Vorodman Kilisesi"
+date: "2025-12-25T09:25:23+03:00"
 slug: "surp-vortvots-vorodman-kilisesi"
 description: "### Surp Vortvots Vorodman Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9611454,41.0043716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Vortvots Vorodman Kilisesi

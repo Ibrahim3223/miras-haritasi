@@ -1,18 +1,17 @@
 ---
-title: "Sebeterias Kale Kalıntısı | Miras Haritası"
-date: 2025-12-25T01:22:55+03:00
+title: "Sebeterias Kale Kalıntısı"
+date: "2025-12-25T01:22:55+03:00"
 slug: "sebeterias-kale-kalintisi"
 description: "### Sebeterias Kale Kalıntısı..."
 featured_image: ""
 province: "Bingöl"
-iller: ["Bingöl"]
+iller: '["Bingöl"]'
 district: "Genç"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.5278435,38.751667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sebeterias Kale Kalıntısı

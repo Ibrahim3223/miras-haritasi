@@ -1,18 +1,17 @@
 ---
-title: "Kırımlı Hacı İsmail Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:49:05+03:00
+title: "Kırımlı Hacı İsmail Çeşmesi"
+date: "2025-12-25T10:49:05+03:00"
 slug: "kirimli-haci-ismail-cesmesi"
 description: "**Kırımlı Hacı İsmail Çeşmesi**..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Dilovası"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.5549812,40.8460655"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kırımlı Hacı İsmail Çeşmesi**

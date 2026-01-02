@@ -1,18 +1,17 @@
 ---
-title: "Karaçay Camii | Miras Haritası"
-date: 2025-12-25T00:59:50+03:00
+title: "Karaçay Camii"
+date: "2025-12-25T00:59:50+03:00"
 slug: "karacay-camii"
 description: "### Karaçay Camii: Honaz'daki Gizemli Bir Miras..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.052847,37.809243"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaçay Camii: Honaz'daki Gizemli Bir Miras

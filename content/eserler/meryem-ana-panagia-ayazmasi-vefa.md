@@ -1,18 +1,17 @@
 ---
-title: "Meryem Ana (Panagia) Ayazması, Vefa | Miras Haritası"
-date: 2025-12-25T12:41:42+03:00
+title: "Meryem Ana (Panagia) Ayazması, Vefa"
+date: "2025-12-25T12:41:42+03:00"
 slug: "meryem-ana-panagia-ayazmasi-vefa"
 description: "# Meryem Ana (Panagia) Ayazması, Vefa..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9589195,41.018074"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Meryem Ana (Panagia) Ayazması, Vefa

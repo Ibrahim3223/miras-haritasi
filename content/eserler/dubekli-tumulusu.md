@@ -1,18 +1,17 @@
 ---
-title: "Dübekli Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:16:56+03:00
+title: "Dübekli Tümülüsü"
+date: "2025-12-25T07:16:56+03:00"
 slug: "dubekli-tumulusu"
 description: "## Dübekli Tümülüsü: Bozüyük'ün Gizemi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.1685925,39.8841782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dübekli Tümülüsü: Bozüyük'ün Gizemi

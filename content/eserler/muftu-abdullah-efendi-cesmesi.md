@@ -1,18 +1,17 @@
 ---
-title: "Müftü Abdullah Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:06+03:00
+title: "Müftü Abdullah Efendi Çeşmesi"
+date: "2025-12-25T11:35:06+03:00"
 slug: "muftu-abdullah-efendi-cesmesi"
 description: "### Müftü Abdullah Efendi Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5057602,37.8743019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Müftü Abdullah Efendi Çeşmesi

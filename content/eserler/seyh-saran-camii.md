@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Şaran Camii | Miras Haritası"
-date: 2025-12-25T00:42:10+03:00
+title: "Şeyh Şaran Camii"
+date: "2025-12-25T00:42:10+03:00"
 slug: "seyh-saran-camii"
 description: "### Şeyh Şaran Camii..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.749769,37.314657"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Şaran Camii

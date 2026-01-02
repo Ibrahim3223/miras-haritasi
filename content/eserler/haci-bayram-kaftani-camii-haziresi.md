@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bayram Kaftani Camii Haziresi | Miras Haritası"
-date: 2025-12-25T16:06:34+03:00
+title: "Hacı Bayram Kaftani Camii Haziresi"
+date: "2025-12-25T16:06:34+03:00"
 slug: "haci-bayram-kaftani-camii-haziresi"
 description: "## Hacı Bayram Kaftani Camii Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.94663817,41.009519322"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Bayram Kaftani Camii Haziresi

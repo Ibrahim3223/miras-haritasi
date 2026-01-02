@@ -1,18 +1,17 @@
 ---
-title: "Toktamış Camii | Miras Haritası"
-date: 2025-12-25T00:10:40+03:00
+title: "Toktamış Camii"
+date: "2025-12-25T00:10:40+03:00"
 slug: "toktamis-camii"
 description: "## Toktamış Camii: Adıyaman'ın Önemli Camii..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Besni"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.8663979,37.678215"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toktamış Camii: Adıyaman'ın Önemli Camii

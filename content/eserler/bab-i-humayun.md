@@ -1,18 +1,17 @@
 ---
-title: "Bab-ı Hümayun | Miras Haritası"
-date: 2025-12-25T13:16:22+03:00
+title: "Bab-ı Hümayun"
+date: "2025-12-25T13:16:22+03:00"
 slug: "bab-i-humayun"
 description: "## Bab-ı Hümayun: İstanbul'un Tarihî Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bab-ı_Hümayun_(1).jpg/1200px-Bab-ı_Hümayun_(1).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.98147,41.008606"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bab-ı Hümayun: İstanbul'un Tarihî Bir Anıtı

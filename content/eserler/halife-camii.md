@@ -1,18 +1,17 @@
 ---
-title: "Halife Camii | Miras Haritası"
-date: 2025-12-25T00:41:17+03:00
+title: "Halife Camii"
+date: "2025-12-25T00:41:17+03:00"
 slug: "halife-camii"
 description: "## Halife Camii: Mardin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.728505,37.312521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halife Camii: Mardin'in Tarihî ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Büklü Baba Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:29+03:00
+title: "Büklü Baba Sultan Türbesi"
+date: "2025-12-25T14:19:29+03:00"
 slug: "buklu-baba-sultan-turbesi"
 description: "## Büklü Baba Sultan Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Sarıveliler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.627006,36.622839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büklü Baba Sultan Türbesi

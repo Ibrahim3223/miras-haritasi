@@ -1,18 +1,17 @@
 ---
-title: "Şehzade Seyfettin Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:10:13+03:00
+title: "Şehzade Seyfettin Çeşmesi"
+date: "2025-12-25T10:10:13+03:00"
 slug: "sehzade-seyfettin-cesmesi"
 description: "## Şehzade Seyfettin Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Şehzade_Seyfettin_Fountain,_Üsküdar,_İstanbul.jpg/1200px-Şehzade_Seyfettin_Fountain,_Üsküdar,_İstanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.012639006,41.023121561"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şehzade Seyfettin Çeşmesi

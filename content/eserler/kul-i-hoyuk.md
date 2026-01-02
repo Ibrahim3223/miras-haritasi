@@ -1,18 +1,17 @@
 ---
-title: "Kül I Höyük | Miras Haritası"
-date: 2025-12-25T06:19:56+03:00
+title: "Kül I Höyük"
+date: "2025-12-25T06:19:56+03:00"
 slug: "kul-i-hoyuk"
 description: "# Kül I Höyük: Türkiye'nin Eski Medeniyetin Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Kozaklı ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8247531,39.3037591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kül I Höyük: Türkiye'nin Eski Medeniyetin Gizemi

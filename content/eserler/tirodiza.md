@@ -1,18 +1,17 @@
 ---
-title: "Tirodiza | Miras Haritası"
-date: 2025-12-25T04:34:44+03:00
+title: "Tirodiza"
+date: "2025-12-25T04:34:44+03:00"
 slug: "tirodiza"
 description: "## Tirodiza Arkeolojik Sit: Şarköy'ün Tarihi Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.114093,40.617746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tirodiza Arkeolojik Sit: Şarköy'ün Tarihi Mirası

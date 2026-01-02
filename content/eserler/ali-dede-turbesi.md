@@ -1,18 +1,17 @@
 ---
-title: "Ali Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:59+03:00
+title: "Ali Dede Türbesi"
+date: "2025-12-25T14:21:59+03:00"
 slug: "ali-dede-turbesi"
 description: "### Ali Dede Türbesi: Akçakoca'da Bir Tarihî Anıt..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.110991,41.056017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Dede Türbesi: Akçakoca'da Bir Tarihî Anıt

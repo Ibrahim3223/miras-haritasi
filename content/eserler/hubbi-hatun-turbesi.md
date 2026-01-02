@@ -1,18 +1,17 @@
 ---
-title: "Hubbi Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:11+03:00
+title: "Hubbi Hatun Türbesi"
+date: "2025-12-25T14:33:11+03:00"
 slug: "hubbi-hatun-turbesi"
 description: "## Hubbi Hatun Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.935664,41.046309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hubbi Hatun Türbesi

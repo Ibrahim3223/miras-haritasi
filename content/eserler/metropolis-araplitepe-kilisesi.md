@@ -1,18 +1,17 @@
 ---
-title: "Metropolis Araplıtepe Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:55+03:00
+title: "Metropolis Araplıtepe Kilisesi"
+date: "2025-12-25T09:36:55+03:00"
 slug: "metropolis-araplitepe-kilisesi"
 description: "## Metropolis Araplıtepe Kilisesi: Tarihî Bir Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.3250198,38.1273575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metropolis Araplıtepe Kilisesi: Tarihî Bir Miras

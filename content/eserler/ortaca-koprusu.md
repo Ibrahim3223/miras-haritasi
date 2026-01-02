@@ -1,18 +1,17 @@
 ---
-title: "Ortaca Köprüsü | Miras Haritası"
-date: 2025-12-25T02:47:46+03:00
+title: "Ortaca Köprüsü"
+date: "2025-12-25T02:47:46+03:00"
 slug: "ortaca-koprusu"
 description: "## Ortaca Köprüsü: Bir Geçit Olarak Tarih..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6232567,40.0517845"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaca Köprüsü: Bir Geçit Olarak Tarih

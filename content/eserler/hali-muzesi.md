@@ -1,18 +1,17 @@
 ---
-title: "Halı Müzesi | Miras Haritası"
-date: 2025-12-25T03:23:56+03:00
+title: "Halı Müzesi"
+date: "2025-12-25T03:23:56+03:00"
 slug: "hali-muzesi"
 description: "## Halı Müzesi: İnsanların Görsel İlimi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.981096,41.008583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halı Müzesi: İnsanların Görsel İlimi

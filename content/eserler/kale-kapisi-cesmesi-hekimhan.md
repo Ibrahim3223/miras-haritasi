@@ -1,18 +1,17 @@
 ---
-title: "Kale Kapısı Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:26:46+03:00
+title: "Kale Kapısı Çeşmesi, Hekimhan"
+date: "2025-12-25T12:26:46+03:00"
 slug: "kale-kapisi-cesmesi-hekimhan"
 description: "### Kale Kapısı Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.934009332,38.815732045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kale Kapısı Çeşmesi, Hekimhan

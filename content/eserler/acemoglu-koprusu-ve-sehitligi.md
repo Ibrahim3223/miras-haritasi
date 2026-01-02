@@ -1,18 +1,17 @@
 ---
-title: "Acemoğlu Köprüsü ve Şehitliği | Miras Haritası"
-date: 2025-12-25T02:21:51+03:00
+title: "Acemoğlu Köprüsü ve Şehitliği"
+date: "2025-12-25T02:21:51+03:00"
 slug: "acemoglu-koprusu-ve-sehitligi"
 description: "**Acemoğlu Köprüsü ve Şehitliği**..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemah"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.1586914,39.6098022"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Acemoğlu Köprüsü ve Şehitliği**

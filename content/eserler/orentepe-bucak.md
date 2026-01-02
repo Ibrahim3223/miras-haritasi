@@ -1,18 +1,17 @@
 ---
-title: "Örentepe, Bucak | Miras Haritası"
-date: 2025-12-25T08:32:37+03:00
+title: "Örentepe, Bucak"
+date: "2025-12-25T08:32:37+03:00"
 slug: "orentepe-bucak"
 description: "## Örentepe, Bucak: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.486346403,37.265652994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Örentepe, Bucak: Bir Arkeolojik Sitin Gizemi

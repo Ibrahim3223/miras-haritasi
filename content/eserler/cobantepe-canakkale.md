@@ -1,18 +1,17 @@
 ---
-title: "Çobantepe, Çanakkale | Miras Haritası"
-date: 2025-12-25T05:47:42+03:00
+title: "Çobantepe, Çanakkale"
+date: "2025-12-25T05:47:42+03:00"
 slug: "cobantepe-canakkale"
 description: "## Çobantepe: Çanakkale'nin Gizli Zirvesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.258,40.000717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çobantepe: Çanakkale'nin Gizli Zirvesi

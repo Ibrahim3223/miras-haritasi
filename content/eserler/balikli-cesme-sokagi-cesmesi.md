@@ -1,18 +1,17 @@
 ---
-title: "Balıklı Çeşme Sokağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:10+03:00
+title: "Balıklı Çeşme Sokağı Çeşmesi"
+date: "2025-12-25T11:35:10+03:00"
 slug: "balikli-cesme-sokagi-cesmesi"
 description: "### Balıklı Çeşme Sokağı Çeşmesi: Konya'da Bir Öykü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.497715,37.8678246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balıklı Çeşme Sokağı Çeşmesi: Konya'da Bir Öykü

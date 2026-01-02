@@ -1,18 +1,17 @@
 ---
-title: "Çivi Höyük | Miras Haritası"
-date: 2025-12-25T06:04:06+03:00
+title: "Çivi Höyük"
+date: "2025-12-25T06:04:06+03:00"
 slug: "civi-hoyuk"
 description: "## Çivi Höyük: Çankırı'nın Gizli Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.7317314,40.6290665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çivi Höyük: Çankırı'nın Gizli Mirası

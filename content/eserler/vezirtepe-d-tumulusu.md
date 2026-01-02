@@ -1,18 +1,17 @@
 ---
-title: "Vezirtepe D Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:04:21+03:00
+title: "Vezirtepe D Tümülüsü"
+date: "2025-12-25T08:04:21+03:00"
 slug: "vezirtepe-d-tumulusu"
 description: "### Vezirtepe D Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.078598,41.6333275"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Vezirtepe D Tümülüsü

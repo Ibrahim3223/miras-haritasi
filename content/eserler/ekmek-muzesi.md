@@ -1,18 +1,17 @@
 ---
-title: "Ekmek Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:36+03:00
+title: "Ekmek Müzesi"
+date: "2025-12-25T03:31:36+03:00"
 slug: "ekmek-muzesi"
 description: "# Ekmek Müzesi: Türkiye'nin Unutulmaz Ekmek Kültürü..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.770107,39.956724"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ekmek Müzesi: Türkiye'nin Unutulmaz Ekmek Kültürü

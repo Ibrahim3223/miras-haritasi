@@ -1,18 +1,17 @@
 ---
-title: "Hatipoğlu Cami | Miras Haritası"
-date: 2025-12-24T23:32:18+03:00
+title: "Hatipoğlu Cami"
+date: "2025-12-24T23:32:18+03:00"
 slug: "hatipoglu-cami"
 description: "## Hatipoğlu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0894737,37.7752991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatipoğlu Camii

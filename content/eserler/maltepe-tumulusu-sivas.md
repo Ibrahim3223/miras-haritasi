@@ -1,18 +1,17 @@
 ---
-title: "Maltepe Tümülüsü, Sivas | Miras Haritası"
-date: 2025-12-25T07:26:48+03:00
+title: "Maltepe Tümülüsü, Sivas"
+date: "2025-12-25T07:26:48+03:00"
 slug: "maltepe-tumulusu-sivas"
 description: "## Maltepe Tümülüsü: Sivas'ta Bir İhtişam..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.1013412,39.7874413"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltepe Tümülüsü: Sivas'ta Bir İhtişam

@@ -1,18 +1,17 @@
 ---
-title: "Surp Asdvadzadzin Ermeni-Süryani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:51+03:00
+title: "Surp Asdvadzadzin Ermeni-Süryani Kilisesi"
+date: "2025-12-25T09:12:51+03:00"
 slug: "surp-asdvadzadzin-ermeni-suryani-kilisesi"
 description: "## Surp Asdvadzadzin Ermeni-Süryani Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.977944,41.03654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Asdvadzadzin Ermeni-Süryani Kilisesi

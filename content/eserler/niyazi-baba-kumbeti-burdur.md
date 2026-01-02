@@ -1,18 +1,17 @@
 ---
-title: "Niyazi Baba Kümbeti, Burdur | Miras Haritası"
-date: 2025-12-25T13:55:36+03:00
+title: "Niyazi Baba Kümbeti, Burdur"
+date: "2025-12-25T13:55:36+03:00"
 slug: "niyazi-baba-kumbeti-burdur"
 description: "## Niyazi Baba Kümbeti: Burdur'un Gizli Cenneti..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Yeşilova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.730505,37.4727592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Niyazi Baba Kümbeti: Burdur'un Gizli Cenneti

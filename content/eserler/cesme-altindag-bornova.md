@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Altındağ, Bornova | Miras Haritası"
-date: 2025-12-25T12:00:22+03:00
+title: "Çeşme – Altındağ, Bornova"
+date: "2025-12-25T12:00:22+03:00"
 slug: "cesme-altindag-bornova"
 description: "## Çeşme – Altındağ, Bornova..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2007694,38.4169273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Altındağ, Bornova

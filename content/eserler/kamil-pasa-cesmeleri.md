@@ -1,18 +1,17 @@
 ---
-title: "Kamil Paşa Çeşmeleri | Miras Haritası"
-date: 2025-12-25T10:35:52+03:00
+title: "Kamil Paşa Çeşmeleri"
+date: "2025-12-25T10:35:52+03:00"
 slug: "kamil-pasa-cesmeleri"
 description: "## Kamil Paşa Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.935141,41.027119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kamil Paşa Çeşmeleri

@@ -1,18 +1,17 @@
 ---
-title: "Hagios Spyridon Kilisesi | Miras Haritası"
-date: 2025-12-25T09:44:12+03:00
+title: "Hagios Spyridon Kilisesi"
+date: "2025-12-25T09:44:12+03:00"
 slug: "hagios-spyridon-kilisesi"
 description: "### Hagios Spyridon Kilisesi: Silivri'nin Gizli Çiçeği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.2459431,41.0728035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hagios Spyridon Kilisesi: Silivri'nin Gizli Çiçeği

@@ -1,18 +1,17 @@
 ---
-title: "Synnada | Miras Haritası"
-date: 2025-12-25T06:48:18+03:00
+title: "Synnada"
+date: "2025-12-25T06:48:18+03:00"
 slug: "synnada"
 description: "### Synnada: Antik Kentin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dioniso,_I-II_secolo_dc.,_da_synnada_(shuhut)_01.jpg/1200px-Dioniso,_I-II_secolo_dc.,_da_synnada_(shuhut)_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.55,38.53333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Synnada: Antik Kentin Gizemi

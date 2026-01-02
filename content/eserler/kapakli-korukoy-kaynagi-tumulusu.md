@@ -1,18 +1,17 @@
 ---
-title: "Kapaklı Koruköy Kaynağı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:48:15+03:00
+title: "Kapaklı Koruköy Kaynağı Tümülüsü"
+date: "2025-12-25T07:48:15+03:00"
 slug: "kapakli-korukoy-kaynagi-tumulusu"
 description: "## Kapaklı Koruköy Kaynağı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3481045,41.8804474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapaklı Koruköy Kaynağı Tümülüsü

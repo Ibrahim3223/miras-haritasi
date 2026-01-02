@@ -1,18 +1,17 @@
 ---
-title: "Trapezopolis | Miras Haritası"
-date: 2025-12-25T04:20:29+03:00
+title: "Trapezopolis"
+date: "2025-12-25T04:20:29+03:00"
 slug: "trapezopolis"
 description: "## Trapezopolis: Denizli'nin Gizli Mimari Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.932258333,37.855905555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Trapezopolis: Denizli'nin Gizli Mimari Mirası

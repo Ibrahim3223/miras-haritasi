@@ -1,18 +1,17 @@
 ---
-title: "Saadettin Camii | Miras Haritası"
-date: 2025-12-24T22:39:48+03:00
+title: "Saadettin Camii"
+date: "2025-12-24T22:39:48+03:00"
 slug: "saadettin-camii"
 description: "### Saadettin Camii..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9763203,39.4202728"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saadettin Camii

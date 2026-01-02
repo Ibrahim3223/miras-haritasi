@@ -1,18 +1,17 @@
 ---
-title: "Hadım Hafız Ahmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:00:01+03:00
+title: "Hadım Hafız Ahmet Paşa Çeşmesi"
+date: "2025-12-25T13:00:01+03:00"
 slug: "hadim-hafiz-ahmet-pasa-cesmesi"
 description: "### Hadım Hafız Ahmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.947232,41.021743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hadım Hafız Ahmet Paşa Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Koloe (Lidya) | Miras Haritası"
-date: 2025-12-25T05:05:07+03:00
+title: "Koloe (Lidya)"
+date: "2025-12-25T05:05:07+03:00"
 slug: "koloe-lidya"
 description: "# Koloe (Lidya)..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kiraz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.208011,38.22593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Koloe (Lidya)

@@ -1,18 +1,17 @@
 ---
-title: "Toprakkale Tepesi | Miras Haritası"
-date: 2025-12-25T06:19:18+03:00
+title: "Toprakkale Tepesi"
+date: "2025-12-25T06:19:18+03:00"
 slug: "toprakkale-tepesi"
 description: "### Toprakkale Tepesi: Altınyayla'daki Antik Şehir..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Altınyayla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.6826897,39.2732407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Toprakkale Tepesi: Altınyayla'daki Antik Şehir

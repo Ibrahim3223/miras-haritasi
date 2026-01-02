@@ -1,18 +1,17 @@
 ---
-title: "Yenimahalle | Miras Haritası"
-date: 2025-12-25T06:05:19+03:00
+title: "Yenimahalle"
+date: "2025-12-25T06:05:19+03:00"
 slug: "yenimahalle"
 description: "### Yenimahalle: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Şanlıurfa"
+province: "Şanlıurfa"
+iller: '["Şanlıurfa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.784996,37.148716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yenimahalle: Şanlıurfa'nın Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Piyale Paşa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:03:38+03:00
+title: "Piyale Paşa Camii Şadırvanı"
+date: "2025-12-25T10:03:38+03:00"
 slug: "piyale-pasa-camii-sadirvani"
 description: "## Piyale Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9655857,41.0448074"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Piyale Paşa Camii Şadırvanı

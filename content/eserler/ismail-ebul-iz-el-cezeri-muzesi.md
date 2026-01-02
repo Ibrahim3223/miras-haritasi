@@ -1,18 +1,17 @@
 ---
-title: "İsmail Ebul-iz El Cezeri Müzesi | Miras Haritası"
-date: 2025-12-25T03:57:21+03:00
+title: "İsmail Ebul-iz El Cezeri Müzesi"
+date: "2025-12-25T03:57:21+03:00"
 slug: "ismail-ebul-iz-el-cezeri-muzesi"
 description: "**İsmail Ebul-iz El Cezeri Müzesi**..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "42.185589,37.332126"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İsmail Ebul-iz El Cezeri Müzesi**

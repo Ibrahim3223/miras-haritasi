@@ -1,18 +1,17 @@
 ---
-title: "Sasalı Mescidi, Birgi | Miras Haritası"
-date: 2025-12-25T00:48:51+03:00
+title: "Sasalı Mescidi, Birgi"
+date: "2025-12-25T00:48:51+03:00"
 slug: "sasali-mescidi-birgi"
 description: "## Sasalı Mescidi, Birgi: Tarihî ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0699501,38.2574348"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sasalı Mescidi, Birgi: Tarihî ve Kültürel Miras

@@ -1,18 +1,17 @@
 ---
-title: "Erimtan Arkeoloji ve Sanat Müzesi | Miras Haritası"
-date: 2025-12-25T04:09:48+03:00
+title: "Erimtan Arkeoloji ve Sanat Müzesi"
+date: "2025-12-25T04:09:48+03:00"
 slug: "erimtan-arkeoloji-ve-sanat-muzesi"
 description: "## Erimtan Arkeoloji ve Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Erimtan.jpg/1200px-Erimtan.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.863055555,39.938055555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Erimtan Arkeoloji ve Sanat Müzesi

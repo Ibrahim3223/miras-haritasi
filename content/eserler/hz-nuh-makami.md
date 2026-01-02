@@ -1,18 +1,17 @@
 ---
-title: "Hz. Nuh Makamı | Miras Haritası"
-date: 2025-12-25T14:23:25+03:00
+title: "Hz. Nuh Makamı"
+date: "2025-12-25T14:23:25+03:00"
 slug: "hz-nuh-makami"
 description: "## Hz. Nuh Makamı..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.188221,37.3241158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hz. Nuh Makamı

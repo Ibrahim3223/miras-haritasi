@@ -1,18 +1,17 @@
 ---
-title: "Çeşme Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:43:09+03:00
+title: "Çeşme Kent Müzesi"
+date: "2025-12-25T03:43:09+03:00"
 slug: "cesme-kent-muzesi"
 description: "## Çeşme Kent Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.3024006,38.3241005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme Kent Müzesi

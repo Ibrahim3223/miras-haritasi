@@ -1,18 +1,17 @@
 ---
-title: "Ouerbe | Miras Haritası"
-date: 2025-12-25T05:09:13+03:00
+title: "Ouerbe"
+date: "2025-12-25T05:09:13+03:00"
 slug: "ouerbe"
 description: "## Ouerbe Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.266414,37.239357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ouerbe Arkeolojik Sit

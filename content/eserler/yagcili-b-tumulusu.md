@@ -1,18 +1,17 @@
 ---
-title: "Yağcılı B Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:02:36+03:00
+title: "Yağcılı B Tümülüsü"
+date: "2025-12-25T08:02:36+03:00"
 slug: "yagcili-b-tumulusu"
 description: "# Yağcılı B Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8398323,41.7814026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yağcılı B Tümülüsü: Edirne'nin Gizli Mirası

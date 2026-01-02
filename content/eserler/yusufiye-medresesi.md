@@ -1,18 +1,17 @@
 ---
-title: "Yusufiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:38:41+03:00
+title: "Yusufiye Medresesi"
+date: "2025-12-25T17:38:41+03:00"
 slug: "yusufiye-medresesi"
 description: "# Yusufiye Medresesi: Bitlis'in Gizli Çehresi..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: "Bitlis Vilayeti"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "42.111351,38.3995171"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yusufiye Medresesi: Bitlis'in Gizli Çehresi

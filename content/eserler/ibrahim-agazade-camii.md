@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Ağazade Camii | Miras Haritası"
-date: 2025-12-24T23:33:35+03:00
+title: "İbrahim Ağazade Camii"
+date: "2025-12-24T23:33:35+03:00"
 slug: "ibrahim-agazade-camii"
 description: "## İbrahim Ağazade Camii..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kınık (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3849812,39.0832672"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İbrahim Ağazade Camii

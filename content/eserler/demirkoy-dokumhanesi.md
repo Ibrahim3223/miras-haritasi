@@ -1,18 +1,17 @@
 ---
-title: "Demirköy Dökümhanesi | Miras Haritası"
-date: 2025-12-25T07:13:51+03:00
+title: "Demirköy Dökümhanesi"
+date: "2025-12-25T07:13:51+03:00"
 slug: "demirkoy-dokumhanesi"
 description: "# Demirköy Dökümhanesi: Tarihî Bir Sanayi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DupnisaCave.JPG/1200px-DupnisaCave.JPG"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.81416667,41.8175"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Demirköy Dökümhanesi: Tarihî Bir Sanayi Mirası

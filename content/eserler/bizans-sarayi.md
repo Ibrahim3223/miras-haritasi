@@ -1,18 +1,17 @@
 ---
-title: "Bizans Sarayı | Miras Haritası"
-date: 2025-12-25T06:59:12+03:00
+title: "Bizans Sarayı"
+date: "2025-12-25T06:59:12+03:00"
 slug: "bizans-sarayi"
 description: "## Bizans Sarayı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3425,37.9449"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bizans Sarayı

@@ -1,18 +1,17 @@
 ---
-title: "Charonion | Miras Haritası"
-date: 2025-12-25T13:42:08+03:00
+title: "Charonion"
+date: "2025-12-25T13:42:08+03:00"
 slug: "charonion"
 description: "### Charonion: Antik Anıtın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/The_so-called_Charonion,_a_carved_stone_bust_on_the_mountainside_above_Antioch,_it_dates_from_the_time_of_King_Antiochus_in_the_Seleucid_era_(3rd_century_BC),_Antioch_on_the_Orontes,_Antakya,_Turkey_(35430722713).jpg/1200px-The_so-called_Charonion,_a_carved_stone_bust_on_the_mountainside_above_Antioch,_it_dates_from_the_time_of_King_Antiochus_in_the_Seleucid_era_(3rd_century_BC),_Antioch_on_the_Orontes,_Antakya,_Turkey_(35430722713).jpg"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Charonion: Antik Anıtın Gizemi

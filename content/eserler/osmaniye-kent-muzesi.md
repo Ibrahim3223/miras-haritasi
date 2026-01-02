@@ -1,18 +1,17 @@
 ---
-title: "Osmaniye Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:43+03:00
+title: "Osmaniye Kent Müzesi"
+date: "2025-12-25T03:13:43+03:00"
 slug: "osmaniye-kent-muzesi"
 description: "### Osmaniye Kent Müzesi..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Osmaniye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.246944444,37.073055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Osmaniye Kent Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Cami 1 | Miras Haritası"
-date: 2025-12-24T22:15:35+03:00
+title: "Aşağı Cami 1"
+date: "2025-12-24T22:15:35+03:00"
 slug: "asagi-cami-1"
 description: "## Aşağı Cami 1: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5149994,38.4023018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Cami 1: İzmir'in Tarihi Bir Mirası

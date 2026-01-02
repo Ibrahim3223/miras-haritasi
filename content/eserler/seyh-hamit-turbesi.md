@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hamit Türbesi | Miras Haritası"
-date: 2025-12-25T14:45:34+03:00
+title: "Şeyh Hamit Türbesi"
+date: "2025-12-25T14:45:34+03:00"
 slug: "seyh-hamit-turbesi"
 description: "## Şeyh Hamit Türbesi: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.756413,37.31718"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Hamit Türbesi: Mardin'in Gizli Cenneti

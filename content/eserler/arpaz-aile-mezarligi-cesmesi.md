@@ -1,18 +1,17 @@
 ---
-title: "Arpaz Aile Mezarlığı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:29:54+03:00
+title: "Arpaz Aile Mezarlığı Çeşmesi"
+date: "2025-12-25T12:29:54+03:00"
 slug: "arpaz-aile-mezarligi-cesmesi"
 description: "### Arpaz Aile Mezarlığı Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.347093345,37.808160739"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arpaz Aile Mezarlığı Çeşmesi

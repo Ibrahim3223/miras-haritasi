@@ -1,18 +1,17 @@
 ---
-title: "Sekizgen Hamam | Miras Haritası"
-date: 2025-12-25T16:55:03+03:00
+title: "Sekizgen Hamam"
+date: "2025-12-25T16:55:03+03:00"
 slug: "sekizgen-hamam"
 description: "## Sekizgen Hamam Tanıtımı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.1294765,37.930336"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sekizgen Hamam Tanıtımı

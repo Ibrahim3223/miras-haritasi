@@ -1,18 +1,17 @@
 ---
-title: "Kyllandos | Miras Haritası"
-date: 2025-12-25T04:38:17+03:00
+title: "Kyllandos"
+date: "2025-12-25T04:38:17+03:00"
 slug: "kyllandos"
 description: "# Kyllandos Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.442249,37.067654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kyllandos Arkeolojik Sit

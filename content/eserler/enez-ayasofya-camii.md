@@ -1,18 +1,17 @@
 ---
-title: "Enez Ayasofya Camii | Miras Haritası"
-date: 2025-12-25T00:56:12+03:00
+title: "Enez Ayasofya Camii"
+date: "2025-12-25T00:56:12+03:00"
 slug: "enez-ayasofya-camii"
 description: "## Enez Ayasofya Camii: Edirne'nin Gizli Çağından Kalmış Bir Değer..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Enez"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.0815735,40.7235909"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Enez Ayasofya Camii: Edirne'nin Gizli Çağından Kalmış Bir Değer

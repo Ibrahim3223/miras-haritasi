@@ -1,18 +1,17 @@
 ---
-title: "Teşvikiye Camii | Miras Haritası"
-date: 2025-12-24T21:52:36+03:00
+title: "Teşvikiye Camii"
+date: "2025-12-24T21:52:36+03:00"
 slug: "tesvikiye-camii"
 description: "## Teşvikiye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Teskmosque.jpg/1200px-Teskmosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.99416667,41.04944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Teşvikiye Camii

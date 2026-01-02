@@ -1,18 +1,17 @@
 ---
-title: "Üyük, Gölpazarı | Miras Haritası"
-date: 2025-12-25T13:44:22+03:00
+title: "Üyük, Gölpazarı"
+date: "2025-12-25T13:44:22+03:00"
 slug: "uyuk-golpazari"
 description: "## Üyük Anıtı: Gölpazarı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Gölpazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.109741,40.249765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üyük Anıtı: Gölpazarı'nın Tarihi ve Kültürel Mirası

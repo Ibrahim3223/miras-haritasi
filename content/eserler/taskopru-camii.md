@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü Camii | Miras Haritası"
-date: 2025-12-24T23:53:16+03:00
+title: "Taşköprü Camii"
+date: "2025-12-24T23:53:16+03:00"
 slug: "taskopru-camii"
 description: "### Taşköprü Camii: Çanakkale'nin Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bayramiç_Taş_Köprü_Camii_(28072023)_-_53077224920.jpg/1200px-Bayramiç_Taş_Köprü_Camii_(28072023)_-_53077224920.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6121864,39.8078804"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Taşköprü Camii: Çanakkale'nin Gizli Çeşmesi

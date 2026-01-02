@@ -1,18 +1,17 @@
 ---
-title: "Sadrazam Ahmet Cevat Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:46+03:00
+title: "Sadrazam Ahmet Cevat Paşa Türbesi"
+date: "2025-12-25T14:31:46+03:00"
 slug: "sadrazam-ahmet-cevat-pasa-turbesi"
 description: "## Sadrazam Ahmet Cevat Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.946172,41.019944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sadrazam Ahmet Cevat Paşa Türbesi

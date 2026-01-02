@@ -1,18 +1,17 @@
 ---
-title: "KALE | Miras Haritası"
-date: 2025-12-25T08:37:32+03:00
+title: "KALE"
+date: "2025-12-25T08:37:32+03:00"
 slug: "kale"
 description: "## Etimesgut Kale'si: Tarihin ve Kültürün Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Etimesgut"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "32.666944444,39.906388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Etimesgut Kale'si: Tarihin ve Kültürün Mirası

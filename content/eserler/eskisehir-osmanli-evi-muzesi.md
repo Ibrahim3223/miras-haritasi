@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Osmanlı Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:39+03:00
+title: "Eskişehir Osmanlı Evi Müzesi"
+date: "2025-12-25T03:58:39+03:00"
 slug: "eskisehir-osmanli-evi-muzesi"
 description: "## Eskişehir Osmanlı Evi Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.526478,39.76212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir Osmanlı Evi Müzesi

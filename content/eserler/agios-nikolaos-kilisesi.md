@@ -1,18 +1,17 @@
 ---
-title: "Agios Nikolaos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:42+03:00
+title: "Agios Nikolaos Kilisesi"
+date: "2025-12-25T09:10:42+03:00"
 slug: "agios-nikolaos-kilisesi"
 description: "## Agios Nikolaos Kilisesi: Ayvalık'ta Bir Önemli Kilise..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.655711,39.338618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Agios Nikolaos Kilisesi: Ayvalık'ta Bir Önemli Kilise

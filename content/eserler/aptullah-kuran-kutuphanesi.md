@@ -1,18 +1,17 @@
 ---
-title: "Aptullah Kuran Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:47:57+03:00
+title: "Aptullah Kuran Kütüphanesi"
+date: "2025-12-25T17:47:57+03:00"
 slug: "aptullah-kuran-kutuphanesi"
 description: "## Aptullah Kuran Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bogazici_Kuzey2.jpg/1200px-Bogazici_Kuzey2.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.04425,41.085444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aptullah Kuran Kütüphanesi

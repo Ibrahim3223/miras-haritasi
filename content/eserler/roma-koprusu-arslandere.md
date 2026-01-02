@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Arslandere | Miras Haritası"
-date: 2025-12-25T02:59:36+03:00
+title: "Roma Köprüsü, Arslandere"
+date: "2025-12-25T02:59:36+03:00"
 slug: "roma-koprusu-arslandere"
 description: "## Roma Köprüsü, Arslandere..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Fındıklı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.247787,41.247787"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Arslandere

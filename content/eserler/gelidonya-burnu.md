@@ -1,18 +1,17 @@
 ---
-title: "Gelidonya Burnu | Miras Haritası"
-date: 2025-12-25T06:53:22+03:00
+title: "Gelidonya Burnu"
+date: "2025-12-25T06:53:22+03:00"
 slug: "gelidonya-burnu"
 description: "## Gelidonya Burnu: Antalya'nın Gizli Çarpıcılığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Gelidonya_lighthouse.jpg/1200px-Gelidonya_lighthouse.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.557222222,36.636111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gelidonya Burnu: Antalya'nın Gizli Çarpıcılığı

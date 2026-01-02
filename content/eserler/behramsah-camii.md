@@ -1,18 +1,17 @@
 ---
-title: "Behramşah Camii | Miras Haritası"
-date: 2025-12-24T22:24:18+03:00
+title: "Behramşah Camii"
+date: "2025-12-24T22:24:18+03:00"
 slug: "behramsah-camii"
 description: "### Behramşah Camii: Şebinkarahisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.4699135,40.3116188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Behramşah Camii: Şebinkarahisar'ın Tarihi Bir Mirası

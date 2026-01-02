@@ -1,18 +1,17 @@
 ---
-title: "Savat Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:11+03:00
+title: "Savat Çeşmesi"
+date: "2025-12-25T10:48:11+03:00"
 slug: "savat-cesmesi"
 description: "## Savat Çeşmesi: Hacıbektaş'ta Tarihi Bir Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.5641174,38.9462357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Savat Çeşmesi: Hacıbektaş'ta Tarihi Bir Miras

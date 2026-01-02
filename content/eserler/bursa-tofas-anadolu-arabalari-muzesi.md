@@ -1,18 +1,17 @@
 ---
-title: "Bursa Tofaş Anadolu Arabaları Müzesi | Miras Haritası"
-date: 2025-12-25T03:07:36+03:00
+title: "Bursa Tofaş Anadolu Arabaları Müzesi"
+date: "2025-12-25T03:07:36+03:00"
 slug: "bursa-tofas-anadolu-arabalari-muzesi"
 description: "### Bursa Tofaş Anadolu Arabaları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TofasMuze3.JPG/1200px-TofasMuze3.JPG"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.071388888,40.176944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bursa Tofaş Anadolu Arabaları Müzesi

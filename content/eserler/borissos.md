@@ -1,18 +1,17 @@
 ---
-title: "Borissos | Miras Haritası"
-date: 2025-12-25T05:03:58+03:00
+title: "Borissos"
+date: "2025-12-25T05:03:58+03:00"
 slug: "borissos"
 description: "## Borissos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.442649,38.348831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Borissos Arkeolojik Sit

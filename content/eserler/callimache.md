@@ -1,18 +1,17 @@
 ---
-title: "Callimache | Miras Haritası"
-date: 2025-12-25T04:58:21+03:00
+title: "Callimache"
+date: "2025-12-25T04:58:21+03:00"
 slug: "callimache"
 description: "## Callimache: Geçmişin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.946779,36.756324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Callimache: Geçmişin Gizemi

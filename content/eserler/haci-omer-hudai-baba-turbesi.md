@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ömer Hüdai Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:48+03:00
+title: "Hacı Ömer Hüdai Baba Türbesi"
+date: "2025-12-25T14:51:48+03:00"
 slug: "haci-omer-hudai-baba-turbesi"
 description: "## Hacı Ömer Hüdai Baba Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.3567543,38.5793877"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ömer Hüdai Baba Türbesi

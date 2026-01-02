@@ -1,18 +1,17 @@
 ---
-title: "Avni-Jale Özken Marmara Adalar Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:53+03:00
+title: "Avni-Jale Özken Marmara Adalar Müzesi"
+date: "2025-12-25T04:06:53+03:00"
 slug: "avni-jale-ozken-marmara-adalar-muzesi"
 description: "### Avni-Jale Özken Marmara Adalar Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Marmara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.5596657,40.5860939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Avni-Jale Özken Marmara Adalar Müzesi

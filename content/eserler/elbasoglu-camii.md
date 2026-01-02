@@ -1,18 +1,17 @@
 ---
-title: "Elbaşoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:19:46+03:00
+title: "Elbaşoğlu Camii"
+date: "2025-12-24T22:19:46+03:00"
 slug: "elbasoglu-camii"
 description: "## Elbaşoğlu Camii..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elbaşoğlu Camii

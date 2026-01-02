@@ -1,18 +1,17 @@
 ---
-title: "Osmanınağılı | Miras Haritası"
-date: 2025-12-25T06:43:44+03:00
+title: "Osmanınağılı"
+date: "2025-12-25T06:43:44+03:00"
 slug: "osmaninagili"
 description: "### Osmanınağılı Arkeolojik Sit..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.196981,39.0889288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Osmanınağılı Arkeolojik Sit

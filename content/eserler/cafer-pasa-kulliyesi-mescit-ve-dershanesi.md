@@ -1,18 +1,17 @@
 ---
-title: "Cafer Paşa Külliyesi Mescit ve Dershanesi | Miras Haritası"
-date: 2025-12-24T22:49:28+03:00
+title: "Cafer Paşa Külliyesi Mescit ve Dershanesi"
+date: "2025-12-24T22:49:28+03:00"
 slug: "cafer-pasa-kulliyesi-mescit-ve-dershanesi"
 description: "## Cafer Paşa Külliyesi Mescit ve Dershanesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.934782,41.046534"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cafer Paşa Külliyesi Mescit ve Dershanesi

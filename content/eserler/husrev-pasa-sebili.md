@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:05:36+03:00
+title: "Hüsrev Paşa Sebili"
+date: "2025-12-25T13:05:36+03:00"
 slug: "husrev-pasa-sebili"
 description: "## Hüsrev Paşa Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9427013,41.0187073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsrev Paşa Sebili: İstanbul'un Gizli Çeşmesi

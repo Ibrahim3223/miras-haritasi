@@ -1,18 +1,17 @@
 ---
-title: "Yörük Ali Efe Müzesi | Miras Haritası"
-date: 2025-12-25T03:22:08+03:00
+title: "Yörük Ali Efe Müzesi"
+date: "2025-12-25T03:22:08+03:00"
 slug: "yoruk-ali-efe-muzesi"
 description: "## Yörük Ali Efe Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Yörük_Ali_Efe_Müzesi.JPG/1200px-Yörük_Ali_Efe_Müzesi.JPG"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.1901779,37.8221321"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yörük Ali Efe Müzesi

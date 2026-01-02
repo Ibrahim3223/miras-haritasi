@@ -1,18 +1,17 @@
 ---
-title: "Hunat Hatun Medresesi | Miras Haritası"
-date: 2025-12-25T17:34:00+03:00
+title: "Hunat Hatun Medresesi"
+date: "2025-12-25T17:34:00+03:00"
 slug: "hunat-hatun-medresesi"
 description: "## Hunat Hatun Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hunat_Hatun_Külliyesi_02.jpg/1200px-Hunat_Hatun_Külliyesi_02.jpg"
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.4909248,38.7211266"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hunat Hatun Medresesi

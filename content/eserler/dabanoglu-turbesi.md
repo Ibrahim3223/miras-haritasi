@@ -1,18 +1,17 @@
 ---
-title: "Dabanoğlu Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:33+03:00
+title: "Dabanoğlu Türbesi"
+date: "2025-12-25T14:57:33+03:00"
 slug: "dabanoglu-turbesi"
 description: "## Dabanoğlu Türbesi: Diyarbakır'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2407303,37.9130287"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dabanoğlu Türbesi: Diyarbakır'ın Tarihi Bir Mirası

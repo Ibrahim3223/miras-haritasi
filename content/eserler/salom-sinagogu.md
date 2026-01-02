@@ -1,18 +1,17 @@
 ---
-title: "Şalom Sinagogu | Miras Haritası"
-date: 2025-12-25T16:15:14+03:00
+title: "Şalom Sinagogu"
+date: "2025-12-25T16:15:14+03:00"
 slug: "salom-sinagogu"
 description: "# Şalom Sinagogu: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.136,38.420416666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şalom Sinagogu: İzmir'in Tarihi Bir Mirası

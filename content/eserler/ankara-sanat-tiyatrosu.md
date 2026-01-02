@@ -1,18 +1,17 @@
 ---
-title: "Ankara Sanat Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:18:06+03:00
+title: "Ankara Sanat Tiyatrosu"
+date: "2025-12-25T16:18:06+03:00"
 slug: "ankara-sanat-tiyatrosu"
 description: "## Ankara Sanat Tiyatrosu: Ankara'nın Antik Tiyatro Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/AST_entrance.JPG/1200px-AST_entrance.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.8535487,39.9237945"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ankara Sanat Tiyatrosu: Ankara'nın Antik Tiyatro Mirası

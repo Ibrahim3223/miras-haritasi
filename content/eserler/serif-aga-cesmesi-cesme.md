@@ -1,18 +1,17 @@
 ---
-title: "Şerif Ağa Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T11:56:22+03:00
+title: "Şerif Ağa Çeşmesi, Çeşme"
+date: "2025-12-25T11:56:22+03:00"
 slug: "serif-aga-cesmesi-cesme"
 description: "### Şerif Ağa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3080997,38.3064003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şerif Ağa Çeşmesi

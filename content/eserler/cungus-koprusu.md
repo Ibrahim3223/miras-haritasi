@@ -1,18 +1,17 @@
 ---
-title: "Çüngüş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:00:18+03:00
+title: "Çüngüş Köprüsü"
+date: "2025-12-25T02:00:18+03:00"
 slug: "cungus-koprusu"
 description: "## Çüngüş Köprüsü: Geçmişi ve Özellikleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Diyarbakır"
+province: "Diyarbakır"
+iller: '["Diyarbakır"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.287964,38.2124966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çüngüş Köprüsü: Geçmişi ve Özellikleri

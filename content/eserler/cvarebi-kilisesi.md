@@ -1,18 +1,17 @@
 ---
-title: "Cvarebi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:10+03:00
+title: "Cvarebi Kilisesi"
+date: "2025-12-25T09:07:10+03:00"
 slug: "cvarebi-kilisesi"
 description: "## Cvarebi Kilisesi..."
 featured_image: ""
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Şalcı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.338786111,41.351416666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cvarebi Kilisesi

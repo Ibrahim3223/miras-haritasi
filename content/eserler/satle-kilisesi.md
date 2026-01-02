@@ -1,18 +1,17 @@
 ---
-title: "Satle Kilisesi | Miras Haritası"
-date: 2025-12-25T08:52:17+03:00
+title: "Satle Kilisesi"
+date: "2025-12-25T08:52:17+03:00"
 slug: "satle-kilisesi"
 description: "# Satle Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Şavşat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.331166666,41.259277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Satle Kilisesi

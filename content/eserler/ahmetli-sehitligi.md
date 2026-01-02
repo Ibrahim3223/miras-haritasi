@@ -1,18 +1,17 @@
 ---
-title: "Ahmetli Şehitliği | Miras Haritası"
-date: 2025-12-25T15:58:06+03:00
+title: "Ahmetli Şehitliği"
+date: "2025-12-25T15:58:06+03:00"
 slug: "ahmetli-sehitligi"
 description: "### Ahmetli Şehitliği: Tarihî Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Ahmetli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.9376736,38.5145035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmetli Şehitliği: Tarihî Bir Anıtın Öyküsü

@@ -1,18 +1,17 @@
 ---
-title: "Pancar Höyük, Korkuteli | Miras Haritası"
-date: 2025-12-25T05:59:18+03:00
+title: "Pancar Höyük, Korkuteli"
+date: "2025-12-25T05:59:18+03:00"
 slug: "pancar-hoyuk-korkuteli"
 description: "### Pancar Höyük, Korkuteli: Tarih Öncesi Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.3124027,37.2751083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pancar Höyük, Korkuteli: Tarih Öncesi Mirası

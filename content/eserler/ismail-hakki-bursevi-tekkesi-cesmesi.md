@@ -1,18 +1,17 @@
 ---
-title: "İsmail Hakkı Bursevi Tekkesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:11+03:00
+title: "İsmail Hakkı Bursevi Tekkesi Çeşmesi"
+date: "2025-12-25T10:56:11+03:00"
 slug: "ismail-hakki-bursevi-tekkesi-cesmesi"
 description: "### İsmail Hakkı Bursevi Tekkesi Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0655861,40.1862679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsmail Hakkı Bursevi Tekkesi Çeşmesi

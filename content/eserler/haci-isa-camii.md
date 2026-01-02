@@ -1,18 +1,17 @@
 ---
-title: "Hacı İsa Camii | Miras Haritası"
-date: 2025-12-24T22:17:19+03:00
+title: "Hacı İsa Camii"
+date: "2025-12-24T22:17:19+03:00"
 slug: "haci-isa-camii"
 description: "## Hacı İsa Camii: Fatih'in Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hacı_İsa_Mosque1.jpg/1200px-Hacı_İsa_Mosque1.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.944849,41.033264"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı İsa Camii: Fatih'in Gizli Çehresi

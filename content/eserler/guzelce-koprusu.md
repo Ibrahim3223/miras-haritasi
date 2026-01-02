@@ -1,18 +1,17 @@
 ---
-title: "Güzelce Köprüsü | Miras Haritası"
-date: 2025-12-25T03:04:55+03:00
+title: "Güzelce Köprüsü"
+date: "2025-12-25T03:04:55+03:00"
 slug: "guzelce-koprusu"
 description: "### Güzelce Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.052820009,40.261733818"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güzelce Köprüsü

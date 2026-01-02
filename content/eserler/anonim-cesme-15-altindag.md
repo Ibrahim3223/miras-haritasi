@@ -1,18 +1,17 @@
 ---
-title: "Anonim Çeşme-15, Altındağ | Miras Haritası"
-date: 2025-12-25T12:36:05+03:00
+title: "Anonim Çeşme-15, Altındağ"
+date: "2025-12-25T12:36:05+03:00"
 slug: "anonim-cesme-15-altindag"
 description: "**Anonim Çeşme-15: Ankara'nın Eski Eserleri Arasındaki Bir Örgün**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.859379315,39.933144948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Anonim Çeşme-15: Ankara'nın Eski Eserleri Arasındaki Bir Örgün**

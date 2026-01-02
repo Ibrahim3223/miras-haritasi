@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmet Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:29:52+03:00
+title: "Hacı Mehmet Ağa Camii"
+date: "2025-12-24T23:29:52+03:00"
 slug: "haci-mehmet-aga-camii"
 description: "### Hacı Mehmet Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3062916,38.3219604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Mehmet Ağa Camii

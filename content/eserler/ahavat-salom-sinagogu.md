@@ -1,18 +1,17 @@
 ---
-title: "Ahavat Şalom Sinagogu | Miras Haritası"
-date: 2025-12-25T16:15:22+03:00
+title: "Ahavat Şalom Sinagogu"
+date: "2025-12-25T16:15:22+03:00"
 slug: "ahavat-salom-sinagogu"
 description: "## Ahavat Şalom Sinagogu: İzmirlinin Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ahavat_Şalom_Sinagogu_(Kaal_Kadoş).jpg/1200px-Ahavat_Şalom_Sinagogu_(Kaal_Kadoş).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karşıyaka"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.1235,38.4575"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahavat Şalom Sinagogu: İzmirlinin Tarihî ve Kültürel Mirası

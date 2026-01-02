@@ -1,18 +1,17 @@
 ---
-title: "Hadımköy Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:58+03:00
+title: "Hadımköy Şehitliği"
+date: "2025-12-25T16:03:58+03:00"
 slug: "hadimkoy-sehitligi"
 description: "## Hadımköy Şehitliği..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Arnavutköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.6150703,41.1580696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hadımköy Şehitliği

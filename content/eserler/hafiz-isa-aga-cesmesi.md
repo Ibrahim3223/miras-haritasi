@@ -1,18 +1,17 @@
 ---
-title: "Hafız İsa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:00:39+03:00
+title: "Hafız İsa Ağa Çeşmesi"
+date: "2025-12-25T13:00:39+03:00"
 slug: "hafiz-isa-aga-cesmesi"
 description: "# Hafız İsa Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hafız_İsa_Ağa_Çeşmesi.jpg/1200px-Hafız_İsa_Ağa_Çeşmesi.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Salacak"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0134315,41.0156364"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hafız İsa Ağa Çeşmesi

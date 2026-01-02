@@ -1,18 +1,17 @@
 ---
-title: "Baba Ali Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:47+03:00
+title: "Baba Ali Çeşmesi"
+date: "2025-12-25T11:17:47+03:00"
 slug: "baba-ali-cesmesi"
 description: "### Baba Ali Çeşmesi..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Kanlıca"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.067039,41.102843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Baba Ali Çeşmesi

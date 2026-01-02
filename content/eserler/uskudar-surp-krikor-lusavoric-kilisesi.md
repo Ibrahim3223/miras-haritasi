@@ -1,18 +1,17 @@
 ---
-title: "Üsküdar Surp Krikor Lusavoriç Kilisesi | Miras Haritası"
-date: 2025-12-25T08:56:35+03:00
+title: "Üsküdar Surp Krikor Lusavoriç Kilisesi"
+date: "2025-12-25T08:56:35+03:00"
 slug: "uskudar-surp-krikor-lusavoric-kilisesi"
 description: "## Üsküdar Surp Krikor Lusavoriç Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Surp_Krikor_Lusaveriç_Church_and_Kuzguncuk_Mosque_in_Kuzguncuk,_Üsküdar_2.JPG/1200px-Surp_Krikor_Lusaveriç_Church_and_Kuzguncuk_Mosque_in_Kuzguncuk,_Üsküdar_2.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.030277777,41.036666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Üsküdar Surp Krikor Lusavoriç Kilisesi: İstanbul'un Gizli Cenneti

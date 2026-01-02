@@ -1,18 +1,17 @@
 ---
-title: "Demirhane Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:57+03:00
+title: "Demirhane Tümülüsü"
+date: "2025-12-25T07:35:57+03:00"
 slug: "demirhane-tumulusu"
 description: "## Demirhane Tümülüsü: Tarihî Bir Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.788662,41.820179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirhane Tümülüsü: Tarihî Bir Miras

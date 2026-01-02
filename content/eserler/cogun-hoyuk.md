@@ -1,18 +1,17 @@
 ---
-title: "Çoğun Höyük | Miras Haritası"
-date: 2025-12-25T13:45:02+03:00
+title: "Çoğun Höyük"
+date: "2025-12-25T13:45:02+03:00"
 slug: "cogun-hoyuk"
 description: "## Çoğun Höyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1139252,39.3040236"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoğun Höyük: Tarih ve Kültür Mirasının Gizemi

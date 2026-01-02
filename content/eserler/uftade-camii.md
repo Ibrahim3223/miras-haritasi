@@ -1,18 +1,17 @@
 ---
-title: "Üftade Camii | Miras Haritası"
-date: 2025-12-24T23:19:45+03:00
+title: "Üftade Camii"
+date: "2025-12-24T23:19:45+03:00"
 slug: "uftade-camii"
 description: "### Üftade Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/ÜFTADE_CAMİİ_BURSA_-_panoramio.jpg/1200px-ÜFTADE_CAMİİ_BURSA_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0578041,40.1829453"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Üftade Camii

@@ -1,18 +1,17 @@
 ---
-title: "Kırımi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:04+03:00
+title: "Kırımi Çeşmesi"
+date: "2025-12-25T10:34:04+03:00"
 slug: "kirimi-cesmesi"
 description: "### Kırımi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kırımi_Çeşmesi.jpg/1200px-Kırımi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.936359,41.037022"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kırımi Çeşmesi

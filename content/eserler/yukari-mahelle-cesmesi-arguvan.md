@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Mahelle Çeşmesi, Arguvan | Miras Haritası"
-date: 2025-12-25T12:28:56+03:00
+title: "Yukarı Mahelle Çeşmesi, Arguvan"
+date: "2025-12-25T12:28:56+03:00"
 slug: "yukari-mahelle-cesmesi-arguvan"
 description: "## Yukarı Mahalle Çeşmesi, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.326163551,38.755910366"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarı Mahalle Çeşmesi, Arguvan

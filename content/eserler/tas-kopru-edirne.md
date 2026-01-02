@@ -1,18 +1,17 @@
 ---
-title: "Taş Köprü, Edirne | Miras Haritası"
-date: 2025-12-25T02:49:43+03:00
+title: "Taş Köprü, Edirne"
+date: "2025-12-25T02:49:43+03:00"
 slug: "tas-kopru-edirne"
 description: "## Taş Köprü, Edirne: Bir Ölümsüz Mabedi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.5654564,41.6821938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taş Köprü, Edirne: Bir Ölümsüz Mabedi

@@ -1,18 +1,17 @@
 ---
-title: "Mylasa Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:21:35+03:00
+title: "Mylasa Antik Tiyatrosu"
+date: "2025-12-25T08:21:35+03:00"
 slug: "mylasa-antik-tiyatrosu"
 description: "## Mylasa Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7898521,37.3166199"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mylasa Antik Tiyatrosu

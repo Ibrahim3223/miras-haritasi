@@ -1,18 +1,17 @@
 ---
-title: "Karakadı Hamamı | Miras Haritası"
-date: 2025-12-25T16:51:44+03:00
+title: "Karakadı Hamamı"
+date: "2025-12-25T16:51:44+03:00"
 slug: "karakadi-hamami"
 description: "### Karakadı Hamamı: Tarihî ve Mimari Bir Çıkın..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: ["Menemen (ilçe)"]
+iller: '["Menemen (ilçe)"]'
 district: "Menemen"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.0667,38.6081009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karakadı Hamamı: Tarihî ve Mimari Bir Çıkın

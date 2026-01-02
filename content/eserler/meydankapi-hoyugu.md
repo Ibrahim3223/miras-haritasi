@@ -1,18 +1,17 @@
 ---
-title: "Meydankapı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:25:07+03:00
+title: "Meydankapı Höyüğü"
+date: "2025-12-25T06:25:07+03:00"
 slug: "meydankapi-hoyugu"
 description: "## Meydankapı Höyüğü: Harran'ın Tarihî Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Harran"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.1578493,36.7849233"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meydankapı Höyüğü: Harran'ın Tarihî Mirası

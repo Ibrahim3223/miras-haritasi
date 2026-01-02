@@ -1,18 +1,17 @@
 ---
-title: "Işıklı Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:39:10+03:00
+title: "Işıklı Köyü Camii"
+date: "2025-12-25T00:39:10+03:00"
 slug: "isikli-koyu-camii"
 description: "# Işıklı Köyü Camii: Rize'nin Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.045501463,41.210503398"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Işıklı Köyü Camii: Rize'nin Kültürel Mirası

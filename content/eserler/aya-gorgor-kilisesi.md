@@ -1,18 +1,17 @@
 ---
-title: "Aya Ğorğor Kilisesi | Miras Haritası"
-date: 2025-12-25T09:12:16+03:00
+title: "Aya Ğorğor Kilisesi"
+date: "2025-12-25T09:12:16+03:00"
 slug: "aya-gorgor-kilisesi"
 description: "## Aya Ğorğor Kilisesi: Trabzon'un Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Maçka"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.6165203,40.7747628"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Ğorğor Kilisesi: Trabzon'un Gizli Çehresini Keşfetmek

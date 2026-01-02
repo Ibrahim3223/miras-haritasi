@@ -1,18 +1,17 @@
 ---
-title: "Aigiroessa | Miras Haritası"
-date: 2025-12-25T08:08:19+03:00
+title: "Aigiroessa"
+date: "2025-12-25T08:08:19+03:00"
 slug: "aigiroessa"
 description: "## Aigiroessa: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aigiroessa: Tarihi ve Kültürel Mirasın Gizemi

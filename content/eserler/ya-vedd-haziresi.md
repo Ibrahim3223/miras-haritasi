@@ -1,18 +1,17 @@
 ---
-title: "Ya Vedûd Haziresi | Miras Haritası"
-date: 2025-12-25T16:05:51+03:00
+title: "Ya Vedûd Haziresi"
+date: "2025-12-25T16:05:51+03:00"
 slug: "ya-vedd-haziresi"
 description: "### Ya Vedûd Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9402351,41.0404816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ya Vedûd Haziresi

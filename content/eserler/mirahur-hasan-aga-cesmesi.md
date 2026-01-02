@@ -1,18 +1,17 @@
 ---
-title: "Mirahur Hasan Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:10:54+03:00
+title: "Mirahur Hasan Ağa Çeşmesi"
+date: "2025-12-25T11:10:54+03:00"
 slug: "mirahur-hasan-aga-cesmesi"
 description: "### Mirahur Hasan Ağa Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mercan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.967045,41.015067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mirahur Hasan Ağa Çeşmesi

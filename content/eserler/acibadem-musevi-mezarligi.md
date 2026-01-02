@@ -1,18 +1,17 @@
 ---
-title: "Acıbadem Musevi Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:58:19+03:00
+title: "Acıbadem Musevi Mezarlığı"
+date: "2025-12-25T15:58:19+03:00"
 slug: "acibadem-musevi-mezarligi"
 description: "### Acıbadem Musevi Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Acıbadem_Jewish_Cemetery.jpg/1200px-Acıbadem_Jewish_Cemetery.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.04559,41.00038"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Acıbadem Musevi Mezarlığı

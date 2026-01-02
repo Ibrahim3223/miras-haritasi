@@ -1,18 +1,17 @@
 ---
-title: "Büyük İhsaniye Camii | Miras Haritası"
-date: 2025-12-24T22:26:58+03:00
+title: "Büyük İhsaniye Camii"
+date: "2025-12-24T22:26:58+03:00"
 slug: "buyuk-ihsaniye-camii"
 description: "## Büyük İhsaniye Camii..."
 featured_image: ""
 province: "Konak (ilçe)"
-iller: ["Konak (ilçe)"]
+iller: '["Konak (ilçe)"]'
 district: "Zafertepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1283989,38.4062767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük İhsaniye Camii

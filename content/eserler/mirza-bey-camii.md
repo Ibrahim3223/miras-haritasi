@@ -1,18 +1,17 @@
 ---
-title: "Mirza Bey Camii | Miras Haritası"
-date: 2025-12-25T00:13:24+03:00
+title: "Mirza Bey Camii"
+date: "2025-12-25T00:13:24+03:00"
 slug: "mirza-bey-camii"
 description: "## Mirza Bey Camii: Çerkeş'te Bir Ölümsüz Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çerkeş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8558388,40.7792816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mirza Bey Camii: Çerkeş'te Bir Ölümsüz Miras

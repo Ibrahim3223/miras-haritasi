@@ -1,18 +1,17 @@
 ---
-title: "Profitis İlias Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:13+03:00
+title: "Profitis İlias Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:38:13+03:00"
 slug: "profitis-ilias-rum-ortodoks-kilisesi"
 description: "## Profitis İlias Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0338631,41.0728683"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Profitis İlias Rum Ortodoks Kilisesi

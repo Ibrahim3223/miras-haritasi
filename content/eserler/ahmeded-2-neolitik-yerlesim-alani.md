@@ -1,18 +1,17 @@
 ---
-title: "Ahmeded 2 Neolitik Yerleşim Alanı | Miras Haritası"
-date: 2025-12-25T08:29:09+03:00
+title: "Ahmeded 2 Neolitik Yerleşim Alanı"
+date: "2025-12-25T08:29:09+03:00"
 slug: "ahmeded-2-neolitik-yerlesim-alani"
 description: "## Ahmeded 2 Neolitik Yerleşim Alanı..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0963707,40.1401596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmeded 2 Neolitik Yerleşim Alanı

@@ -1,18 +1,17 @@
 ---
-title: "Araç Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:02+03:00
+title: "Araç Kalesi"
+date: "2025-12-25T01:22:02+03:00"
 slug: "arac-kalesi"
 description: "**Araç Kalesi: Tarihi ve Kültürel Mirasının Gizli Gizemi**..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Araç"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.3230324,41.2401733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Araç Kalesi: Tarihi ve Kültürel Mirasının Gizli Gizemi**

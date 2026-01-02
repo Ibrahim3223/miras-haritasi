@@ -1,18 +1,17 @@
 ---
-title: "Pityaia | Miras Haritası"
-date: 2025-12-25T08:31:27+03:00
+title: "Pityaia"
+date: "2025-12-25T08:31:27+03:00"
 slug: "pityaia"
 description: "## Pityaia Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8171,38.9758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pityaia Arkeolojik Sit

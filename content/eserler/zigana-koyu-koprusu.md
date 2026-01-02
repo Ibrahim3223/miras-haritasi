@@ -1,18 +1,17 @@
 ---
-title: "Zigana Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:17+03:00
+title: "Zigana Köyü Köprüsü"
+date: "2025-12-25T02:37:17+03:00"
 slug: "zigana-koyu-koprusu"
 description: "## Zigana Köyü Köprüsü: Torul'un Gizli Harikası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.357814,40.607041"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zigana Köyü Köprüsü: Torul'un Gizli Harikası

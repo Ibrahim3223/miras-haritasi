@@ -1,18 +1,17 @@
 ---
-title: "Kodrigai | Miras Haritası"
-date: 2025-12-25T15:45:09+03:00
+title: "Kodrigai"
+date: "2025-12-25T15:45:09+03:00"
 slug: "kodrigai"
 description: "## Kodriga Anıtı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kodriga Anıtı

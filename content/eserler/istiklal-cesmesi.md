@@ -1,18 +1,17 @@
 ---
-title: "İstiklal Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:54+03:00
+title: "İstiklal Çeşmesi"
+date: "2025-12-25T10:16:54+03:00"
 slug: "istiklal-cesmesi"
 description: "# İstiklal Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.423674,40.288741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İstiklal Çeşmesi

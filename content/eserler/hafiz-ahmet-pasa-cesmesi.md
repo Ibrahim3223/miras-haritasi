@@ -1,18 +1,17 @@
 ---
-title: "Hafız Ahmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:39+03:00
+title: "Hafız Ahmet Paşa Çeşmesi"
+date: "2025-12-25T10:34:39+03:00"
 slug: "hafiz-ahmet-pasa-cesmesi"
 description: "## Hafız Ahmet Paşa Çeşmesi: Cihangir'in Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hafız_Ahmet_Paşa_Çeşmesi_IMG_5155.jpg/1200px-Hafız_Ahmet_Paşa_Çeşmesi_IMG_5155.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Cihangir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9857607,41.0353517"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hafız Ahmet Paşa Çeşmesi: Cihangir'in Gizli Çeşmesi

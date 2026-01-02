@@ -1,18 +1,17 @@
 ---
-title: "Sultan Halil Fevzi Meriç K.S. Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:40+03:00
+title: "Sultan Halil Fevzi Meriç K.S. Türbesi"
+date: "2025-12-25T14:16:40+03:00"
 slug: "sultan-halil-fevzi-meric-ks-turbesi"
 description: "## Sultan Halil Fevzi Meriç K.S. Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.1725,40.8292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Halil Fevzi Meriç K.S. Türbesi

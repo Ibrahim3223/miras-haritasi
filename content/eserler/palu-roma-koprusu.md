@@ -1,18 +1,17 @@
 ---
-title: "Palu Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:10+03:00
+title: "Palu Roma Köprüsü"
+date: "2025-12-25T02:26:10+03:00"
 slug: "palu-roma-koprusu"
 description: "## Palu Roma Köprüsü..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Palu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.9604972,38.6978734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palu Roma Köprüsü

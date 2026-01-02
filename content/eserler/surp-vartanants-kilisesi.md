@@ -1,18 +1,17 @@
 ---
-title: "Surp Vartanants Kilisesi | Miras Haritası"
-date: 2025-12-25T08:47:08+03:00
+title: "Surp Vartanants Kilisesi"
+date: "2025-12-25T08:47:08+03:00"
 slug: "surp-vartanants-kilisesi"
 description: "**Surp Vartanants Kilisesi: Ermeni Tarihinin Bir Parçası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Surp_Vartanants_Kilisesi.jpg/1200px-Surp_Vartanants_Kilisesi.jpg"
-province: "Şişli"
-iller: ["Şişli"]
-district: "Duatepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Şişli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.981027777,41.05375"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Surp Vartanants Kilisesi: Ermeni Tarihinin Bir Parçası**

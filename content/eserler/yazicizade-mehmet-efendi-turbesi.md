@@ -1,18 +1,17 @@
 ---
-title: "Yazıcızade Mehmet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:56:40+03:00
+title: "Yazıcızade Mehmet Efendi Türbesi"
+date: "2025-12-25T14:56:40+03:00"
 slug: "yazicizade-mehmet-efendi-turbesi"
 description: "## Yazıcızade Mehmet Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mehmet-i_Bican_Efendi_Türbesi_içerisi.jpg/1200px-Mehmet-i_Bican_Efendi_Türbesi_içerisi.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6772118,40.408886"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yazıcızade Mehmet Efendi Türbesi

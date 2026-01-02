@@ -1,18 +1,17 @@
 ---
-title: "Fatih Küçük Camii, Ortahisar | Miras Haritası"
-date: 2025-12-25T00:24:33+03:00
+title: "Fatih Küçük Camii, Ortahisar"
+date: "2025-12-25T00:24:33+03:00"
 slug: "fatih-kucuk-camii-ortahisar"
 description: "## Fatih Küçük Camii: Ortahisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.717225,40.993578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Küçük Camii: Ortahisar'ın Tarihi Bir Mirası

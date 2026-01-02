@@ -1,18 +1,17 @@
 ---
-title: "Kalebalta Kalesi | Miras Haritası"
-date: 2025-12-25T01:15:57+03:00
+title: "Kalebalta Kalesi"
+date: "2025-12-25T01:15:57+03:00"
 slug: "kalebalta-kalesi"
 description: "### Kalebalta Kalesi: Aksaray'ın Efsanevi Kalesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.1884346,38.5882797"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kalebalta Kalesi: Aksaray'ın Efsanevi Kalesi

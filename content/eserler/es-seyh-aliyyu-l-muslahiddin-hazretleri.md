@@ -1,18 +1,17 @@
 ---
-title: "Eş Şeyh Aliyyü-l Müslahiddin Hazretleri | Miras Haritası"
-date: 2025-12-25T15:23:19+03:00
+title: "Eş Şeyh Aliyyü-l Müslahiddin Hazretleri"
+date: "2025-12-25T15:23:19+03:00"
 slug: "es-seyh-aliyyu-l-muslahiddin-hazretleri"
 description: "## Eş Şeyh Aliyyü-l Müslahiddin Hazretleri Anıtı..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Çilimli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.9958649,40.8805389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eş Şeyh Aliyyü-l Müslahiddin Hazretleri Anıtı

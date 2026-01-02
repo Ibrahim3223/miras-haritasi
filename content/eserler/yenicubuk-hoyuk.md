@@ -1,18 +1,17 @@
 ---
-title: "Yeniçubuk Höyük | Miras Haritası"
-date: 2025-12-25T06:21:58+03:00
+title: "Yeniçubuk Höyük"
+date: "2025-12-25T06:21:58+03:00"
 slug: "yenicubuk-hoyuk"
 description: "# Yeniçubuk Höyük: Sivas'taki Antik Bir Miras..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Gemerek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.0879395,39.2021961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yeniçubuk Höyük: Sivas'taki Antik Bir Miras

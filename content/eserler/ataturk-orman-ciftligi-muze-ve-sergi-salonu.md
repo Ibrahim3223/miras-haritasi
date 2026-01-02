@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Orman Çiftliği Müze ve Sergi Salonu | Miras Haritası"
-date: 2025-12-25T03:47:10+03:00
+title: "Atatürk Orman Çiftliği Müze ve Sergi Salonu"
+date: "2025-12-25T03:47:10+03:00"
 slug: "ataturk-orman-ciftligi-muze-ve-sergi-salonu"
 description: "## Atatürk Orman Çiftliği Müze ve Sergi Salonu..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.7951927,39.9449463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Orman Çiftliği Müze ve Sergi Salonu

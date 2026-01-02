@@ -1,18 +1,17 @@
 ---
-title: "Alaca Mustafa Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:58:33+03:00
+title: "Alaca Mustafa Paşa Camii"
+date: "2025-12-24T22:58:33+03:00"
 slug: "alaca-mustafa-pasa-camii"
 description: "### Alaca Mustafa Paşa Camii: Edirne'nin Gizli Çehresi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3832684,40.9216347"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alaca Mustafa Paşa Camii: Edirne'nin Gizli Çehresi

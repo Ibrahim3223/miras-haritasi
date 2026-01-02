@@ -1,18 +1,17 @@
 ---
-title: "Patara Tapınak Mezar | Miras Haritası"
-date: 2025-12-25T14:07:32+03:00
+title: "Patara Tapınak Mezar"
+date: "2025-12-25T14:07:32+03:00"
 slug: "patara-tapinak-mezar"
 description: "## Patara Tapınak Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Patara_Temple_tomb_in_2013_4730.jpg/1200px-Patara_Temple_tomb_in_2013_4730.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.318327,36.2702217"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Patara Tapınak Mezarı

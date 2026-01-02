@@ -1,18 +1,17 @@
 ---
-title: "Ak Medrese | Miras Haritası"
-date: 2025-12-25T17:34:24+03:00
+title: "Ak Medrese"
+date: "2025-12-25T17:34:24+03:00"
 slug: "ak-medrese"
 description: "## Ak Medrese: Niğde'de Bir Geç Klasik Dönem Medresesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "34.674881,37.9664726"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ak Medrese: Niğde'de Bir Geç Klasik Dönem Medresesi

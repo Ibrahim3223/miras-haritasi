@@ -1,18 +1,17 @@
 ---
-title: "Hattuşa | Miras Haritası"
-date: 2025-12-25T06:48:50+03:00
+title: "Hattuşa"
+date: "2025-12-25T06:48:50+03:00"
 slug: "hattusa"
 description: "## Hattuşa: Geçmişe Yolculuk Eden Boğazkale'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lion_Gate,_Hattusa_01.jpg/1200px-Lion_Gate,_Hattusa_01.jpg"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Boğazkale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.615277777,40.019722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hattuşa: Geçmişe Yolculuk Eden Boğazkale'nin Gizemi

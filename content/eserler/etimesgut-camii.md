@@ -1,18 +1,17 @@
 ---
-title: "Etimesgut Camii | Miras Haritası"
-date: 2025-12-24T22:18:25+03:00
+title: "Etimesgut Camii"
+date: "2025-12-24T22:18:25+03:00"
 slug: "etimesgut-camii"
 description: "## Etimesgut Camii: Etimesgut'un Tarihî Bir Cephesi..."
 featured_image: ""
 province: "Etimesgut"
-iller: ["Etimesgut"]
+iller: '["Etimesgut"]'
 district: "Erler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.708638888,39.917055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Etimesgut Camii: Etimesgut'un Tarihî Bir Cephesi

@@ -1,18 +1,17 @@
 ---
-title: "Arap Alanı Camii | Miras Haritası"
-date: 2025-12-24T22:15:09+03:00
+title: "Arap Alanı Camii"
+date: "2025-12-24T22:15:09+03:00"
 slug: "arap-alani-camii"
 description: "# Arap Alanı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4169083,38.6068764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arap Alanı Camii

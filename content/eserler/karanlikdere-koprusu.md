@@ -1,18 +1,17 @@
 ---
-title: "Karanlıkdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:18+03:00
+title: "Karanlıkdere Köprüsü"
+date: "2025-12-25T02:18:18+03:00"
 slug: "karanlikdere-koprusu"
 description: "### Karanlıkdere Köprüsü..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.0625191,38.3392181"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karanlıkdere Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Gülfem Hatun Camii Önündeki Çeşme | Miras Haritası"
-date: 2025-12-25T11:09:38+03:00
+title: "Gülfem Hatun Camii Önündeki Çeşme"
+date: "2025-12-25T11:09:38+03:00"
 slug: "gulfem-hatun-camii-onundeki-cesme"
 description: "## Gülfem Hatun Camii Önündeki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.015146,41.023742"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülfem Hatun Camii Önündeki Çeşme

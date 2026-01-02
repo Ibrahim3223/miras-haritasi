@@ -1,18 +1,17 @@
 ---
-title: "İçerenköy Camii | Miras Haritası"
-date: 2025-12-24T21:38:27+03:00
+title: "İçerenköy Camii"
+date: "2025-12-24T21:38:27+03:00"
 slug: "icerenkoy-camii"
 description: "## İçerenköy Camii: Atatürk'ün Kış Konakları'nın Ortak Kullanımı İçin Yaptırılan Tarihi Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/İçerenköy_Camii.jpg/1200px-İçerenköy_Camii.jpg"
-province: "Ataşehir"
-iller: ["Ataşehir"]
-district: "İçerenköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Ataşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.111277777,40.969972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İçerenköy Camii: Atatürk'ün Kış Konakları'nın Ortak Kullanımı İçin Yaptırılan Tarihi Bir Miras

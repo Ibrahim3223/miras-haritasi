@@ -1,18 +1,17 @@
 ---
-title: "Şems-i Tebrizi Camii | Miras Haritası"
-date: 2025-12-24T23:13:00+03:00
+title: "Şems-i Tebrizi Camii"
+date: "2025-12-24T23:13:00+03:00"
 slug: "sems-i-tebrizi-camii"
 description: "## Şems-i Tebrizi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4976006,37.8736992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şems-i Tebrizi Camii

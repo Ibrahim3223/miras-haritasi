@@ -1,18 +1,17 @@
 ---
-title: "Durasıl Kalesi | Miras Haritası"
-date: 2025-12-25T01:28:05+03:00
+title: "Durasıl Kalesi"
+date: "2025-12-25T01:28:05+03:00"
 slug: "durasil-kalesi"
 description: "# Durasıl Kalesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.9285126,38.9117393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Durasıl Kalesi

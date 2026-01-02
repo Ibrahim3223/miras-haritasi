@@ -1,18 +1,17 @@
 ---
-title: "Demiryolu Köprüsü, Mamak | Miras Haritası"
-date: 2025-12-25T02:42:06+03:00
+title: "Demiryolu Köprüsü, Mamak"
+date: "2025-12-25T02:42:06+03:00"
 slug: "demiryolu-koprusu-mamak"
 description: "# Demiryolu Köprüsü, Mamak..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Mamak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.897706355,39.935028758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Demiryolu Köprüsü, Mamak

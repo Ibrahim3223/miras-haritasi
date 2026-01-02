@@ -1,18 +1,17 @@
 ---
-title: "Nafinin Höyük | Miras Haritası"
-date: 2025-12-25T06:20:11+03:00
+title: "Nafinin Höyük"
+date: "2025-12-25T06:20:11+03:00"
 slug: "nafinin-hoyuk"
 description: "### Nafinin Höyük: Kırşehir'in Gizli Hazineleri..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.87759,39.2106302"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Nafinin Höyük: Kırşehir'in Gizli Hazineleri

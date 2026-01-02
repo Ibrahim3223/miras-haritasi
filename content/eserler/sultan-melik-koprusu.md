@@ -1,18 +1,17 @@
 ---
-title: "Sultan Melik Köprüsü | Miras Haritası"
-date: 2025-12-25T02:07:56+03:00
+title: "Sultan Melik Köprüsü"
+date: "2025-12-25T02:07:56+03:00"
 slug: "sultan-melik-koprusu"
 description: "## Sultan Melik Köprüsü..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemah"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.033855,39.608883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Melik Köprüsü

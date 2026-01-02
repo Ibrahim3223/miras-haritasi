@@ -1,18 +1,17 @@
 ---
-title: "Bulgurlu Mescidi | Miras Haritası"
-date: 2025-12-24T22:48:31+03:00
+title: "Bulgurlu Mescidi"
+date: "2025-12-24T22:48:31+03:00"
 slug: "bulgurlu-mescidi"
 description: "## Bulgurlu Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bulgurlu_Mescidi.jpg/1200px-Bulgurlu_Mescidi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.071455,41.018607"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bulgurlu Mescidi

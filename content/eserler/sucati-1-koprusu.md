@@ -1,18 +1,17 @@
 ---
-title: "Suçatı 1 Köprüsü | Miras Haritası"
-date: 2025-12-25T02:01:17+03:00
+title: "Suçatı 1 Köprüsü"
+date: "2025-12-25T02:01:17+03:00"
 slug: "sucati-1-koprusu"
 description: "### Suçatı 1 Köprüsü: Rize'nin Tarihi Yüzyıllarını Geçen Bir Köprü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.8953552,41.1004124"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Suçatı 1 Köprüsü: Rize'nin Tarihi Yüzyıllarını Geçen Bir Köprü

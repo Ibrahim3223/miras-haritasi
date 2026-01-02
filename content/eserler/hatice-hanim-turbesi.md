@@ -1,18 +1,17 @@
 ---
-title: "Hatice Hanım Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:04+03:00
+title: "Hatice Hanım Türbesi"
+date: "2025-12-25T14:43:04+03:00"
 slug: "hatice-hanim-turbesi"
 description: "## Hatice Hanım Türbesi: Ardanuç'un Tarihi Bir Ziyareti..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Ardanuç"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.057975,41.128005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Hanım Türbesi: Ardanuç'un Tarihi Bir Ziyareti

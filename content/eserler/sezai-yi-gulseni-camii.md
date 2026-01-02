@@ -1,18 +1,17 @@
 ---
-title: "Sezai-yi Gülşeni Camii | Miras Haritası"
-date: 2025-12-25T01:05:37+03:00
+title: "Sezai-yi Gülşeni Camii"
+date: "2025-12-25T01:05:37+03:00"
 slug: "sezai-yi-gulseni-camii"
 description: "## Sezai-yi Gülşeni Camii: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sezai-yi Gülşeni Camii: Edirne'nin Gizli Cenneti

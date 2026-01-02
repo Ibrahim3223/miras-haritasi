@@ -1,18 +1,17 @@
 ---
-title: "Defter Emini Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:35+03:00
+title: "Defter Emini Çeşmesi"
+date: "2025-12-25T10:34:35+03:00"
 slug: "defter-emini-cesmesi"
 description: "## Defter Emini Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Defter_Emini_Fountain_01.jpg/1200px-Defter_Emini_Fountain_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.981846,41.028786"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Defter Emini Çeşmesi

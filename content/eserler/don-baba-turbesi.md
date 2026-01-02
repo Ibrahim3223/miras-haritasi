@@ -1,18 +1,17 @@
 ---
-title: "Don Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:34:33+03:00
+title: "Don Baba Türbesi"
+date: "2025-12-25T15:34:33+03:00"
 slug: "don-baba-turbesi"
 description: "### Don Baba Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.2927914,37.462532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Don Baba Türbesi

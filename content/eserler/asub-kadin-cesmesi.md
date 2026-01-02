@@ -1,18 +1,17 @@
 ---
-title: "Aşub Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:02:24+03:00
+title: "Aşub Kadın Çeşmesi"
+date: "2025-12-25T13:02:24+03:00"
 slug: "asub-kadin-cesmesi"
 description: "### Aşub Kadın Çeşmesi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9636059,41.0098228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşub Kadın Çeşmesi Tanıtımı

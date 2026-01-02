@@ -1,18 +1,17 @@
 ---
-title: "Strobilos | Miras Haritası"
-date: 2025-12-25T04:46:03+03:00
+title: "Strobilos"
+date: "2025-12-25T04:46:03+03:00"
 slug: "strobilos"
 description: "# Strobilos: Yalova'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Yalova"
-iller: ["Yalova"]
+iller: '["Yalova"]'
 district: "Çiftlikköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.335621,40.654483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Strobilos: Yalova'nın Gizli Kahramanı

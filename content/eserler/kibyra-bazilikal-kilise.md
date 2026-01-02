@@ -1,18 +1,17 @@
 ---
-title: "Kibyra Bazilikal Kilise | Miras Haritası"
-date: 2025-12-25T09:31:10+03:00
+title: "Kibyra Bazilikal Kilise"
+date: "2025-12-25T09:31:10+03:00"
 slug: "kibyra-bazilikal-kilise"
 description: "### Kibyra Bazilikal Kilise..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Gölhisar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.4956093,37.1584549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kibyra Bazilikal Kilise

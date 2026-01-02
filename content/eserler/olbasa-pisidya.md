@@ -1,18 +1,17 @@
 ---
-title: "Olbasa (Pisidya) | Miras Haritası"
-date: 2025-12-25T04:51:10+03:00
+title: "Olbasa (Pisidya)"
+date: "2025-12-25T04:51:10+03:00"
 slug: "olbasa-pisidya"
 description: "## Olbasa (Pisidya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9957318,37.3045498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olbasa (Pisidya) Arkeolojik Sit

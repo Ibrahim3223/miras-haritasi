@@ -1,18 +1,17 @@
 ---
-title: "Haidar Pasha Memorial | Miras Haritası"
-date: 2025-12-25T14:00:55+03:00
+title: "Haidar Pasha Memorial"
+date: "2025-12-25T14:00:55+03:00"
 slug: "haidar-pasha-memorial"
 description: "## Haidar Pasha Anısı: İstanbul'un Tarihî Anıtlarından Bir İsim..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0208,40.99987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haidar Pasha Anısı: İstanbul'un Tarihî Anıtlarından Bir İsim

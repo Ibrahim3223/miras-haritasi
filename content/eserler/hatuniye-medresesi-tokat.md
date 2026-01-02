@@ -1,18 +1,17 @@
 ---
-title: "Hatuniye Medresesi (Tokat) | Miras Haritası"
-date: 2025-12-25T17:25:03+03:00
+title: "Hatuniye Medresesi (Tokat)"
+date: "2025-12-25T17:25:03+03:00"
 slug: "hatuniye-medresesi-tokat"
 description: "## Hatuniye Medresesi: Tokat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "36.553561937,40.31847422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatuniye Medresesi: Tokat'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Köyü Köprüsü 2 | Miras Haritası"
-date: 2025-12-25T02:34:18+03:00
+title: "Yıldız Köyü Köprüsü 2"
+date: "2025-12-25T02:34:18+03:00"
 slug: "yildiz-koyu-koprusu-2"
 description: "## Yıldız Köyü Köprüsü 2: Gümüşhane'nin Tarihi Bir Mihenk Taşı..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.160222,40.488679"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldız Köyü Köprüsü 2: Gümüşhane'nin Tarihi Bir Mihenk Taşı

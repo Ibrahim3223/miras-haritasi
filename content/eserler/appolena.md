@@ -1,18 +1,17 @@
 ---
-title: "Appolena | Miras Haritası"
-date: 2025-12-25T05:10:24+03:00
+title: "Appolena"
+date: "2025-12-25T05:10:24+03:00"
 slug: "appolena"
 description: "## Appolena Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.147865,38.959452"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Appolena Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Ahi Evren Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:28:04+03:00
+title: "Ahi Evren Dede Türbesi"
+date: "2025-12-25T14:28:04+03:00"
 slug: "ahi-evren-dede-turbesi"
 description: "## Ahi Evren Dede Türbesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.735204,40.996787"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahi Evren Dede Türbesi

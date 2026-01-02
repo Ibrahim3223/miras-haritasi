@@ -1,18 +1,17 @@
 ---
-title: "Sille Karataş Camii | Miras Haritası"
-date: 2025-12-24T23:05:15+03:00
+title: "Sille Karataş Camii"
+date: "2025-12-24T23:05:15+03:00"
 slug: "sille-karatas-camii"
 description: "### Sille Karataş Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4150391,37.928936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sille Karataş Camii

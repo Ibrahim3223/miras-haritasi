@@ -1,18 +1,17 @@
 ---
-title: "Kazancılar Mescidi | Miras Haritası"
-date: 2025-12-25T00:23:54+03:00
+title: "Kazancılar Mescidi"
+date: "2025-12-25T00:23:54+03:00"
 slug: "kazancilar-mescidi"
 description: "### Kazancılar Mescidi: Tokat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.547568507,40.315644816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kazancılar Mescidi: Tokat'ın Tarihi Bir Mirası

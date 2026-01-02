@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Nurettin Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:24+03:00
+title: "Şeyh Nurettin Efendi Türbesi"
+date: "2025-12-25T15:27:24+03:00"
 slug: "seyh-nurettin-efendi-turbesi"
 description: "## Şeyh Nurettin Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9285049,41.0036354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Nurettin Efendi Türbesi

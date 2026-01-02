@@ -1,18 +1,17 @@
 ---
-title: "Cestrus | Miras Haritası"
-date: 2025-12-25T05:16:31+03:00
+title: "Cestrus"
+date: "2025-12-25T05:16:31+03:00"
 slug: "cestrus"
 description: "### Cestrus: Eski Roma Dönemi'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.329444444,36.236388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cestrus: Eski Roma Dönemi'nin Gizli Mirası

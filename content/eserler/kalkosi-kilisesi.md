@@ -1,18 +1,17 @@
 ---
-title: "Kalkosi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:07:26+03:00
+title: "Kalkosi Kilisesi"
+date: "2025-12-25T09:07:26+03:00"
 slug: "kalkosi-kilisesi"
 description: "## Kalkosi Kilisesi: Bir Doğu Anadolu'nun Gizli Çehresini İleri Sürleyen Tarihî Eser..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "İkizpınar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.342533333,40.608836111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalkosi Kilisesi: Bir Doğu Anadolu'nun Gizli Çehresini İleri Sürleyen Tarihî Eser

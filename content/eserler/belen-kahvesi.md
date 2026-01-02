@@ -1,18 +1,17 @@
 ---
-title: "Belen Kahvesi | Miras Haritası"
-date: 2025-12-25T03:38:54+03:00
+title: "Belen Kahvesi"
+date: "2025-12-25T03:38:54+03:00"
 slug: "belen-kahvesi"
 description: "### Belen Kahvesi Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.1380787,37.2416191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Belen Kahvesi Müzesi

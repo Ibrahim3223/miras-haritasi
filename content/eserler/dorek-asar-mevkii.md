@@ -1,18 +1,17 @@
 ---
-title: "Dörek Asar Mevkii | Miras Haritası"
-date: 2025-12-25T05:35:07+03:00
+title: "Dörek Asar Mevkii"
+date: "2025-12-25T05:35:07+03:00"
 slug: "dorek-asar-mevkii"
 description: "## Dörek Asar Mevkii: Sivaslı'nın Gizli Öreni..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Sivaslı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.5681,38.4803"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dörek Asar Mevkii: Sivaslı'nın Gizli Öreni

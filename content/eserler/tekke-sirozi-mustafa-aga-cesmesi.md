@@ -1,18 +1,17 @@
 ---
-title: "Tekke Sirozi Mustafa Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:57:23+03:00
+title: "Tekke Sirozi Mustafa Ağa Çeşmesi"
+date: "2025-12-25T10:57:23+03:00"
 slug: "tekke-sirozi-mustafa-aga-cesmesi"
 description: "## Tekke Sirozi Mustafa Ağa Çeşmesi: Aydoğdu'daki Değerli Çeşme..."
 featured_image: ""
 province: "Süleymanpaşa"
-iller: ["Süleymanpaşa"]
+iller: '["Süleymanpaşa"]'
 district: "Aydoğdu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5089149,40.9773026"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekke Sirozi Mustafa Ağa Çeşmesi: Aydoğdu'daki Değerli Çeşme

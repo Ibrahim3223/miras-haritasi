@@ -1,18 +1,17 @@
 ---
-title: "Hekim Hamamı | Miras Haritası"
-date: 2025-12-25T16:25:12+03:00
+title: "Hekim Hamamı"
+date: "2025-12-25T16:25:12+03:00"
 slug: "hekim-hamami"
 description: "## Hekim Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.7385445,38.0832127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hekim Hamamı: Tarihi ve Kültürel Miras

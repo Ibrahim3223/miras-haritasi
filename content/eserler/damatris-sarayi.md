@@ -1,18 +1,17 @@
 ---
-title: "Damatris Sarayı | Miras Haritası"
-date: 2025-12-25T13:12:31+03:00
+title: "Damatris Sarayı"
+date: "2025-12-25T13:12:31+03:00"
 slug: "damatris-sarayi"
 description: "## Damatris Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "29.2279396,40.9851761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damatris Sarayı

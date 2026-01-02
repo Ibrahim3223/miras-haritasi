@@ -1,18 +1,17 @@
 ---
-title: "Cromna | Miras Haritası"
-date: 2025-12-25T04:33:36+03:00
+title: "Cromna"
+date: "2025-12-25T04:33:36+03:00"
 slug: "cromna"
 description: "### Cromna Arkeolojik Sit..."
 featured_image: ""
 province: "Bartın"
-iller: ["Bartın"]
+iller: '["Bartın"]'
 district: "Kurucaşile"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.6709,41.8296"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cromna Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Hasdümen Camii | Miras Haritası"
-date: 2025-12-25T00:12:37+03:00
+title: "Hasdümen Camii"
+date: "2025-12-25T00:12:37+03:00"
 slug: "hasdumen-camii"
 description: "## Hasdümen Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.999254,37.238862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasdümen Camii

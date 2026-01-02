@@ -1,18 +1,17 @@
 ---
-title: "Kirdeci Mescidi | Miras Haritası"
-date: 2025-12-25T00:51:25+03:00
+title: "Kirdeci Mescidi"
+date: "2025-12-25T00:51:25+03:00"
 slug: "kirdeci-mescidi"
 description: "## Kirdeci Mescidi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4238911,38.6089401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kirdeci Mescidi

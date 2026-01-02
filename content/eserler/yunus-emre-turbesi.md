@@ -1,18 +1,17 @@
 ---
-title: "Yunus Emre Türbesi | Miras Haritası"
-date: 2025-12-25T14:36:43+03:00
+title: "Yunus Emre Türbesi"
+date: "2025-12-25T14:36:43+03:00"
 slug: "yunus-emre-turbesi"
 description: "## Yunus Emre Türbesi: Bir Şairin Anıtsal Mezarı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Mihalıççık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.4863663,39.711216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yunus Emre Türbesi: Bir Şairin Anıtsal Mezarı

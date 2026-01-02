@@ -1,18 +1,17 @@
 ---
-title: "Ağa Çeşmesi, Hamzabali | Miras Haritası"
-date: 2025-12-25T12:49:31+03:00
+title: "Ağa Çeşmesi, Hamzabali"
+date: "2025-12-25T12:49:31+03:00"
 slug: "aga-cesmesi-hamzabali"
 description: "## Ağa Çeşmesi, Hamzabali: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.1293564,37.8054428"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağa Çeşmesi, Hamzabali: Aydın'ın Tarihi Bir Çeşmesi

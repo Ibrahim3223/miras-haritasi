@@ -1,18 +1,17 @@
 ---
-title: "Osman Ağa Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:31:06+03:00
+title: "Osman Ağa Çeşmesi, Çankırı"
+date: "2025-12-25T12:31:06+03:00"
 slug: "osman-aga-cesmesi-cankiri"
 description: "**Osman Ağa Çeşmesi: Çankırı'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Bayramören"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.155352038,40.945901908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Osman Ağa Çeşmesi: Çankırı'nın Gizli Cenneti**

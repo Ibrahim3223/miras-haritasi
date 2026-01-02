@@ -1,18 +1,17 @@
 ---
-title: "Kurudere Çadırlar Deresi Güney Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:56:52+03:00
+title: "Kurudere Çadırlar Deresi Güney Tümülüsü"
+date: "2025-12-25T07:56:52+03:00"
 slug: "kurudere-cadirlar-deresi-guney-tumulusu"
 description: "**Kurudere Çadırlar Deresi Güney Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.5369205,41.7876587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kurudere Çadırlar Deresi Güney Tümülüsü**

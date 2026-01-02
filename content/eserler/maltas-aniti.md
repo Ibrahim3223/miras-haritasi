@@ -1,18 +1,17 @@
 ---
-title: "Maltaş Anıtı | Miras Haritası"
-date: 2025-12-25T15:53:05+03:00
+title: "Maltaş Anıtı"
+date: "2025-12-25T15:53:05+03:00"
 slug: "maltas-aniti"
 description: "## Maltaş Anıtı: Afyonkarahisar'ın Gizli Çağı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İhsaniye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.5184288,39.0429802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltaş Anıtı: Afyonkarahisar'ın Gizli Çağı

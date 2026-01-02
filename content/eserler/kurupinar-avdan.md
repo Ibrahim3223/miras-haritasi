@@ -1,18 +1,17 @@
 ---
-title: "Kurupınar Avdan | Miras Haritası"
-date: 2025-12-25T05:31:11+03:00
+title: "Kurupınar Avdan"
+date: "2025-12-25T05:31:11+03:00"
 slug: "kurupinar-avdan"
 description: "### Kurupınar Avdan: Odunpazarı'nın Gizli İncisi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.495667,39.5555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurupınar Avdan: Odunpazarı'nın Gizli İncisi

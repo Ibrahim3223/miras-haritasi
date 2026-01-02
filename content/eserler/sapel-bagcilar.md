@@ -1,18 +1,17 @@
 ---
-title: "Şapel, Bağcılar | Miras Haritası"
-date: 2025-12-25T12:40:51+03:00
+title: "Şapel, Bağcılar"
+date: "2025-12-25T12:40:51+03:00"
 slug: "sapel-bagcilar"
 description: "## Şapel, Bağcılar: İstanbul'un Gizli Çeşme Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bağcılar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.8244667,41.031208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şapel, Bağcılar: İstanbul'un Gizli Çeşme Mirası

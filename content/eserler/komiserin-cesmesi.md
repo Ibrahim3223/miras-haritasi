@@ -1,18 +1,17 @@
 ---
-title: "Komiserin Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:47+03:00
+title: "Komiserin Çeşmesi"
+date: "2025-12-25T10:12:47+03:00"
 slug: "komiserin-cesmesi"
 description: "## Komiserin Çeşmesi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.453765,40.449217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Komiserin Çeşmesi

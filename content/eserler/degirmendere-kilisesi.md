@@ -1,18 +1,17 @@
 ---
-title: "Değirmendere Kilisesi | Miras Haritası"
-date: 2025-12-25T09:20:51+03:00
+title: "Değirmendere Kilisesi"
+date: "2025-12-25T09:20:51+03:00"
 slug: "degirmendere-kilisesi"
 description: "## Değirmendere Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.0233555,37.2907066"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmendere Kilisesi

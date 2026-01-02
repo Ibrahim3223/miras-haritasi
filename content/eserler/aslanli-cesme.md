@@ -1,18 +1,17 @@
 ---
-title: "Aslanlı Çeşme | Miras Haritası"
-date: 2025-12-25T10:54:07+03:00
+title: "Aslanlı Çeşme"
+date: "2025-12-25T10:54:07+03:00"
 slug: "aslanli-cesme"
 description: "## Aslanlı Çeşme..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.5623131,38.9424858"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aslanlı Çeşme

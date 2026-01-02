@@ -1,18 +1,17 @@
 ---
-title: "Cevri Kalfa Camii | Miras Haritası"
-date: 2025-12-24T22:49:36+03:00
+title: "Cevri Kalfa Camii"
+date: "2025-12-24T22:49:36+03:00"
 slug: "cevri-kalfa-camii"
 description: "## Cevri Kalfa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.027578,41.015298"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevri Kalfa Camii

@@ -1,18 +1,17 @@
 ---
-title: "Aldıran Asarı | Miras Haritası"
-date: 2025-12-25T01:29:32+03:00
+title: "Aldıran Asarı"
+date: "2025-12-25T01:29:32+03:00"
 slug: "aldiran-asari"
 description: "# Aldıran Asarı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.2681484,37.2275543"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aldıran Asarı

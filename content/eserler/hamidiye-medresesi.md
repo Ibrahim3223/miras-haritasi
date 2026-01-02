@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:04+03:00
+title: "Hamidiye Medresesi"
+date: "2025-12-25T17:37:04+03:00"
 slug: "hamidiye-medresesi"
 description: "## Hamidiye Medresesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9737263,41.0155525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Medresesi: İstanbul'un Gizli Cenneti

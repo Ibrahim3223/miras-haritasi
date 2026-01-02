@@ -1,18 +1,17 @@
 ---
-title: "Kılıçoğlu Postane Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:43+03:00
+title: "Kılıçoğlu Postane Çeşmesi"
+date: "2025-12-25T10:53:43+03:00"
 slug: "kilicoglu-postane-cesmesi"
 description: "## Kılıçoğlu Postane Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.5199108,40.9791603"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılıçoğlu Postane Çeşmesi

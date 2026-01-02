@@ -1,18 +1,17 @@
 ---
-title: "İbrahim Efendi Çeşmesi, Beyoğlu | Miras Haritası"
-date: 2025-12-25T12:01:42+03:00
+title: "İbrahim Efendi Çeşmesi, Beyoğlu"
+date: "2025-12-25T12:01:42+03:00"
 slug: "ibrahim-efendi-cesmesi-beyoglu"
 description: "## İbrahim Efendi Çeşmesi: Beyoğlu'ndaki Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/İbrahim_Efendi_Çeşmesi,_Beyoğlu_IMG_0868.jpg/1200px-İbrahim_Efendi_Çeşmesi,_Beyoğlu_IMG_0868.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9735374,41.0231552"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İbrahim Efendi Çeşmesi: Beyoğlu'ndaki Bir Örnek

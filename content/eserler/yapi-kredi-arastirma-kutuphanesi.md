@@ -1,18 +1,17 @@
 ---
-title: "Yapı Kredi Araştırma Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:19+03:00
+title: "Yapı Kredi Araştırma Kütüphanesi"
+date: "2025-12-25T17:50:19+03:00"
 slug: "yapi-kredi-arastirma-kutuphanesi"
 description: "## Yapı Kredi Araştırma Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.977571026,41.033195816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yapı Kredi Araştırma Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Taşbulak Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:04+03:00
+title: "Taşbulak Kalesi"
+date: "2025-12-25T01:16:04+03:00"
 slug: "tasbulak-kalesi"
 description: "## Taşbulak Kalesi..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemah"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.9395714,39.6412277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşbulak Kalesi

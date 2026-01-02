@@ -1,18 +1,17 @@
 ---
-title: "Bağlık Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:28+03:00
+title: "Bağlık Çeşmesi"
+date: "2025-12-25T10:29:28+03:00"
 slug: "baglik-cesmesi"
 description: "## Bağlık Çeşmesi: Aydın'ın Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4661007,37.7925987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağlık Çeşmesi: Aydın'ın Değerli Kültürel Mirası

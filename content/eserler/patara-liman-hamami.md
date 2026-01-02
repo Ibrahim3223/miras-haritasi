@@ -1,18 +1,17 @@
 ---
-title: "Patara Liman Hamamı | Miras Haritası"
-date: 2025-12-25T16:41:36+03:00
+title: "Patara Liman Hamamı"
+date: "2025-12-25T16:41:36+03:00"
 slug: "patara-liman-hamami"
 description: "## Patara Liman Hamamı: Antik Çağın Gizli Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.3175449,36.2647324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Patara Liman Hamamı: Antik Çağın Gizli Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Keçe Pazarı Camii | Miras Haritası"
-date: 2025-12-24T23:58:08+03:00
+title: "Keçe Pazarı Camii"
+date: "2025-12-24T23:58:08+03:00"
 slug: "kece-pazari-camii"
 description: "## Keçe Pazarı Camii: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.5360336,38.7557526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keçe Pazarı Camii: Afyonkarahisar'ın Gizli Cenneti

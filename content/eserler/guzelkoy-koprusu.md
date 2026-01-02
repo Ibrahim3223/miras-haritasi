@@ -1,18 +1,17 @@
 ---
-title: "Güzelköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:20:26+03:00
+title: "Güzelköy Köprüsü"
+date: "2025-12-25T02:20:26+03:00"
 slug: "guzelkoy-koprusu"
 description: "## Güzelköy Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.2929401,40.7445068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzelköy Köprüsü

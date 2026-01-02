@@ -1,18 +1,17 @@
 ---
-title: "Sinan Paşa Camii (Sinanpaşa) | Miras Haritası"
-date: 2025-12-24T23:23:48+03:00
+title: "Sinan Paşa Camii (Sinanpaşa)"
+date: "2025-12-24T23:23:48+03:00"
 slug: "sinan-pasa-camii-sinanpasa"
 description: "# Sinan Paşa Camii (Sinanpaşa)..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sinanpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2458477,38.7446251"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sinan Paşa Camii (Sinanpaşa)

@@ -1,18 +1,17 @@
 ---
-title: "Apollonia, Soma | Miras Haritası"
-date: 2025-12-25T06:14:16+03:00
+title: "Apollonia, Soma"
+date: "2025-12-25T06:14:16+03:00"
 slug: "apollonia-soma"
 description: "## Apollonia, Soma: Tarihî bir Mirasın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Soma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4945736,39.2023277"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Apollonia, Soma: Tarihî bir Mirasın Gizemi

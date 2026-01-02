@@ -1,18 +1,17 @@
 ---
-title: "Alpullu Şeker Fabrikası Ergene Köşkü | Miras Haritası"
-date: 2025-12-25T03:41:49+03:00
+title: "Alpullu Şeker Fabrikası Ergene Köşkü"
+date: "2025-12-25T03:41:49+03:00"
 slug: "alpullu-seker-fabrikasi-ergene-kosku"
 description: "## Alpullu Şeker Fabrikası Ergene Köşkü: Kırklareli'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.149559374,41.366586278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alpullu Şeker Fabrikası Ergene Köşkü: Kırklareli'nin Gizli Çehresini Keşfetmek

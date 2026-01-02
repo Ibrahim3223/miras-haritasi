@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hüsrev Camii | Miras Haritası"
-date: 2025-12-24T22:55:21+03:00
+title: "Hacı Hüsrev Camii"
+date: "2025-12-24T22:55:21+03:00"
 slug: "haci-husrev-camii"
 description: "## Hacı Hüsrev Camii: Eyüpsultan'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Defterdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9383392,41.0382653"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hüsrev Camii: Eyüpsultan'ın Tarihi Bir Mirası

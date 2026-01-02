@@ -1,18 +1,17 @@
 ---
-title: "Akköprü, Çivril | Miras Haritası"
-date: 2025-12-25T02:57:30+03:00
+title: "Akköprü, Çivril"
+date: "2025-12-25T02:57:30+03:00"
 slug: "akkopru-civril"
 description: "### Akköprü, Çivril..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.730408,38.179974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akköprü, Çivril

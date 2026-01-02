@@ -1,18 +1,17 @@
 ---
-title: "Tilmen Höyüğü | Miras Haritası"
-date: 2025-12-25T06:37:00+03:00
+title: "Tilmen Höyüğü"
+date: "2025-12-25T06:37:00+03:00"
 slug: "tilmen-hoyugu"
 description: "## Tilmen Höyük: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Karaköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.6589629,37.2950179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tilmen Höyük: Şanlıurfa'nın Gizli Mirası

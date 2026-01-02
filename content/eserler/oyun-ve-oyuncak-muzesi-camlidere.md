@@ -1,18 +1,17 @@
 ---
-title: "Oyun ve Oyuncak Müzesi, Çamlıdere | Miras Haritası"
-date: 2025-12-25T04:07:01+03:00
+title: "Oyun ve Oyuncak Müzesi, Çamlıdere"
+date: "2025-12-25T04:07:01+03:00"
 slug: "oyun-ve-oyuncak-muzesi-camlidere"
 description: "## Oyun ve Oyuncak Müzesi, Çamlıdere..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çamlıdere"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.4685822,40.4891968"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oyun ve Oyuncak Müzesi, Çamlıdere

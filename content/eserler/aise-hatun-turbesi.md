@@ -1,18 +1,17 @@
 ---
-title: "Aişe Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:28+03:00
+title: "Aişe Hatun Türbesi"
+date: "2025-12-25T15:14:28+03:00"
 slug: "aise-hatun-turbesi"
 description: "### Aişe Hatun Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8328,40.6592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aişe Hatun Türbesi

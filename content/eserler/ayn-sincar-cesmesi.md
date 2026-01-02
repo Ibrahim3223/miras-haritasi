@@ -1,18 +1,17 @@
 ---
-title: "Ayn Sincar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:25:16+03:00
+title: "Ayn Sincar Çeşmesi"
+date: "2025-12-25T12:25:16+03:00"
 slug: "ayn-sincar-cesmesi"
 description: "# Ayn Sincar Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.74567,37.312549"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ayn Sincar Çeşmesi

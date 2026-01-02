@@ -1,18 +1,17 @@
 ---
-title: "Sarımiye Camii | Miras Haritası"
-date: 2025-12-24T22:21:49+03:00
+title: "Sarımiye Camii"
+date: "2025-12-24T22:21:49+03:00"
 slug: "sarimiye-camii"
 description: "## Sarımiye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Antakya_Sarimiye_Mosque_Minaret_in_2011_03.jpg/1200px-Antakya_Sarimiye_Mosque_Minaret_in_2011_03.jpg"
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.163722222,36.19975"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sarımiye Camii

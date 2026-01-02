@@ -1,18 +1,17 @@
 ---
-title: "Bursa Yazma ve Eski Basma Eserler Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:47:18+03:00
+title: "Bursa Yazma ve Eski Basma Eserler Kütüphanesi"
+date: "2025-12-25T17:47:18+03:00"
 slug: "bursa-yazma-ve-eski-basma-eserler-kutuphanesi"
 description: "## Bursa Yazma ve Eski Basma Eserler Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bursa Yazma ve Eski Basma Eserler Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Xanthos Yazıtlı Dikme | Miras Haritası"
-date: 2025-12-25T15:54:46+03:00
+title: "Xanthos Yazıtlı Dikme"
+date: "2025-12-25T15:54:46+03:00"
 slug: "xanthos-yazitli-dikme"
 description: "## Xanthos Yazıtlı Dikme: Antik bir Anıtın Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Xanthos1_by_schopar.jpg/1200px-Xanthos1_by_schopar.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.3186169,36.3572617"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Xanthos Yazıtlı Dikme: Antik bir Anıtın Efsanesi

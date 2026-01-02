@@ -1,18 +1,17 @@
 ---
-title: "Atavlusu Kalesi | Miras Haritası"
-date: 2025-12-25T01:23:41+03:00
+title: "Atavlusu Kalesi"
+date: "2025-12-25T01:23:41+03:00"
 slug: "atavlusu-kalesi"
 description: "## Atavlusu Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karpuzlu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.7727947,37.5069695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atavlusu Kalesi

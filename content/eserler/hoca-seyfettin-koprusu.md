@@ -1,18 +1,17 @@
 ---
-title: "Hoca Seyfettin Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:21+03:00
+title: "Hoca Seyfettin Köprüsü"
+date: "2025-12-25T02:40:21+03:00"
 slug: "hoca-seyfettin-koprusu"
 description: "## Hoca Seyfettin Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kula"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.7145061,38.6273155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Seyfettin Köprüsü

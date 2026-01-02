@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Çeşmesi (Fatih) | Miras Haritası"
-date: 2025-12-25T12:12:00+03:00
+title: "Mehmet Ağa Çeşmesi (Fatih)"
+date: "2025-12-25T12:12:00+03:00"
 slug: "mehmet-aga-cesmesi-fatih"
 description: "## Mehmet Ağa Çeşmesi (Fatih)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.968905,41.016927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ağa Çeşmesi (Fatih)

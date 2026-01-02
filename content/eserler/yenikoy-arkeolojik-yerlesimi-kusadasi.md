@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Arkeolojik Yerleşimi, Kuşadası | Miras Haritası"
-date: 2025-12-25T06:02:06+03:00
+title: "Yeniköy Arkeolojik Yerleşimi, Kuşadası"
+date: "2025-12-25T06:02:06+03:00"
 slug: "yenikoy-arkeolojik-yerlesimi-kusadasi"
 description: "### Yeniköy Arkeolojik Yerleşimi, Kuşadası..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3559475,37.8608017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeniköy Arkeolojik Yerleşimi, Kuşadası

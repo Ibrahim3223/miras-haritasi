@@ -1,18 +1,17 @@
 ---
-title: "Cafer Subaşı Camii | Miras Haritası"
-date: 2025-12-24T22:49:11+03:00
+title: "Cafer Subaşı Camii"
+date: "2025-12-24T22:49:11+03:00"
 slug: "cafer-subasi-camii"
 description: "## Cafer Subaşı Camii: Balat'ta Bir Keşif..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Balat"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9504128,41.0283928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cafer Subaşı Camii: Balat'ta Bir Keşif

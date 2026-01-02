@@ -1,18 +1,17 @@
 ---
-title: "Eyüpsultan Surp Asdvadzadzin Kilisesi | Miras Haritası"
-date: 2025-12-25T08:46:37+03:00
+title: "Eyüpsultan Surp Asdvadzadzin Kilisesi"
+date: "2025-12-25T08:46:37+03:00"
 slug: "eyupsultan-surp-asdvadzadzin-kilisesi"
 description: "## Eyüpsultan Surp Asdvadzadzin Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.927611111,41.049944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eyüpsultan Surp Asdvadzadzin Kilisesi

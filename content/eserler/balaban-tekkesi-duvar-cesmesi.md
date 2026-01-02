@@ -1,18 +1,17 @@
 ---
-title: "Balaban Tekkesi Duvar Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:09:40+03:00
+title: "Balaban Tekkesi Duvar Çeşmesi"
+date: "2025-12-25T12:09:40+03:00"
 slug: "balaban-tekkesi-duvar-cesmesi"
 description: "## Balaban Tekkesi Duvar Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Balaban_Tekkesi_Duvar_Çeşmesi.jpg/1200px-Balaban_Tekkesi_Duvar_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0137692,41.0251708"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Balaban Tekkesi Duvar Çeşmesi: İstanbul'un Gizli Çeşmesi

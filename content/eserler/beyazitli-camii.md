@@ -1,18 +1,17 @@
 ---
-title: "Beyazıtlı Camii | Miras Haritası"
-date: 2025-12-24T22:25:58+03:00
+title: "Beyazıtlı Camii"
+date: "2025-12-24T22:25:58+03:00"
 slug: "beyazitli-camii"
 description: "## Beyazıtlı Camii: Kahramanmaraş'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Onikişubat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.925087,37.5899734"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyazıtlı Camii: Kahramanmaraş'ın Tarihî ve Kültürel Mirası

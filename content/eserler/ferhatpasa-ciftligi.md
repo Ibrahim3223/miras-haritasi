@@ -1,18 +1,17 @@
 ---
-title: "Ferhatpaşa Çiftliği | Miras Haritası"
-date: 2025-12-25T13:38:15+03:00
+title: "Ferhatpaşa Çiftliği"
+date: "2025-12-25T13:38:15+03:00"
 slug: "ferhatpasa-ciftligi"
 description: "## Ferhatpaşa Çiftliği: İstanbul'un Gizli Tarihi Eseri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.88863212,41.039777571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferhatpaşa Çiftliği: İstanbul'un Gizli Tarihi Eseri

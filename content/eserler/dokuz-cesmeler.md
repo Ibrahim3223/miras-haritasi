@@ -1,18 +1,17 @@
 ---
-title: "Dokuz Çeşmeler | Miras Haritası"
-date: 2025-12-25T12:24:10+03:00
+title: "Dokuz Çeşmeler"
+date: "2025-12-25T12:24:10+03:00"
 slug: "dokuz-cesmeler"
 description: "## Dokuz Çeşmeler: Bir Çeşmenin Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Buca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1798973,38.3864136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dokuz Çeşmeler: Bir Çeşmenin Mirası

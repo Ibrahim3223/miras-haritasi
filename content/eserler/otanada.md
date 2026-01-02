@@ -1,18 +1,17 @@
 ---
-title: "Otanada | Miras Haritası"
-date: 2025-12-25T05:15:24+03:00
+title: "Otanada"
+date: "2025-12-25T05:15:24+03:00"
 slug: "otanada"
 description: "## Otanada Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.91155,36.673397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Otanada Arkeolojik Sit

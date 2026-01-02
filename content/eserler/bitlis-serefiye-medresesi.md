@@ -1,18 +1,17 @@
 ---
-title: "Bitlis Şerefiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:47+03:00
+title: "Bitlis Şerefiye Medresesi"
+date: "2025-12-25T17:32:47+03:00"
 slug: "bitlis-serefiye-medresesi"
 description: "## Bitlis Şerefiye Medresesi: Bir İhtişamın Kalıntısı..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Bitlis"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "42.1073532,38.3993454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bitlis Şerefiye Medresesi: Bir İhtişamın Kalıntısı

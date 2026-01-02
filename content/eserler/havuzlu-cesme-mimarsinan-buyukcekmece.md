@@ -1,18 +1,17 @@
 ---
-title: "Havuzlu Çeşme, Mimarsinan (Büyükçekmece) | Miras Haritası"
-date: 2025-12-25T11:58:43+03:00
+title: "Havuzlu Çeşme, Mimarsinan (Büyükçekmece)"
+date: "2025-12-25T11:58:43+03:00"
 slug: "havuzlu-cesme-mimarsinan-buyukcekmece"
 description: "## Havuzlu Çeşme, Mimarsinan (Büyükçekmece)..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.5600014,41.0148773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Havuzlu Çeşme, Mimarsinan (Büyükçekmece)

@@ -1,18 +1,17 @@
 ---
-title: "Orta Çeşme | Miras Haritası"
-date: 2025-12-25T12:47:58+03:00
+title: "Orta Çeşme"
+date: "2025-12-25T12:47:58+03:00"
 slug: "orta-cesme"
 description: "## Orta Çeşme: Esenyurt'ta Bir Tarihi Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Esenyurt"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6469021,41.0365372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Çeşme: Esenyurt'ta Bir Tarihi Harikası

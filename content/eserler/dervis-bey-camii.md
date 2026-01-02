@@ -1,18 +1,17 @@
 ---
-title: "Derviş Bey Camii | Miras Haritası"
-date: 2025-12-24T21:43:50+03:00
+title: "Derviş Bey Camii"
+date: "2025-12-24T21:43:50+03:00"
 slug: "dervis-bey-camii"
 description: "## Derviş Bey Camii..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Ardahan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.703694444,41.115027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Derviş Bey Camii

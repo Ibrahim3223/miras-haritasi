@@ -1,18 +1,17 @@
 ---
-title: "Ahmet ve Mehmet Efendiler Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:38+03:00
+title: "Ahmet ve Mehmet Efendiler Türbesi"
+date: "2025-12-25T15:18:38+03:00"
 slug: "ahmet-ve-mehmet-efendiler-turbesi"
 description: "### Ahmet ve Mehmet Efendiler Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.530146,38.755209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet ve Mehmet Efendiler Türbesi

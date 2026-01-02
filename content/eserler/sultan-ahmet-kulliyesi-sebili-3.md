@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Külliyesi Sebili 3 | Miras Haritası"
-date: 2025-12-25T13:04:04+03:00
+title: "Sultan Ahmet Külliyesi Sebili 3"
+date: "2025-12-25T13:04:04+03:00"
 slug: "sultan-ahmet-kulliyesi-sebili-3"
 description: "## Sultan Ahmet Külliyesi Sebili 3: İstanbul'un Tarihî Esintileri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9783726,41.0054169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Ahmet Külliyesi Sebili 3: İstanbul'un Tarihî Esintileri

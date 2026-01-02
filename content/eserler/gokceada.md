@@ -1,18 +1,17 @@
 ---
-title: "Gökçeada | Miras Haritası"
-date: 2025-12-25T08:08:23+03:00
+title: "Gökçeada"
+date: "2025-12-25T08:08:23+03:00"
 slug: "gokceada"
 description: "**Gökçeada: Ege Denizi'nin Yemyeşil Adası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gokceada5.JPG/1200px-Gokceada5.JPG"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "25.8289,40.1626"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Gökçeada: Ege Denizi'nin Yemyeşil Adası**

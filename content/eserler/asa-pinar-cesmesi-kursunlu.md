@@ -1,18 +1,17 @@
 ---
-title: "Asa Pınar Çeşmesi, Kurşunlu | Miras Haritası"
-date: 2025-12-25T12:32:54+03:00
+title: "Asa Pınar Çeşmesi, Kurşunlu"
+date: "2025-12-25T12:32:54+03:00"
 slug: "asa-pinar-cesmesi-kursunlu"
 description: "## Asa Pınar Çeşmesi, Kurşunlu..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.286623373,40.779372633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asa Pınar Çeşmesi, Kurşunlu

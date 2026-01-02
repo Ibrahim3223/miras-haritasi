@@ -1,18 +1,17 @@
 ---
-title: "Çokçapınar Höyüğü | Miras Haritası"
-date: 2025-12-25T13:49:08+03:00
+title: "Çokçapınar Höyüğü"
+date: "2025-12-25T13:49:08+03:00"
 slug: "cokcapinar-hoyugu"
 description: "# Çokçapınar Höyüğü: Bilecik'in Tarihî Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9678612,39.7807541"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çokçapınar Höyüğü: Bilecik'in Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Uzunkaya Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:36:15+03:00
+title: "Uzunkaya Köyü Camii"
+date: "2025-12-25T00:36:15+03:00"
 slug: "uzunkaya-koyu-camii"
 description: "## Uzunkaya Köyü Camii: Rize'nin Değerli Tarihi Eserleri Arasındaki Bir Diye..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Derepazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.45049006,41.025122575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzunkaya Köyü Camii: Rize'nin Değerli Tarihi Eserleri Arasındaki Bir Diye

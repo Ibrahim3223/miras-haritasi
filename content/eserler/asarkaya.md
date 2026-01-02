@@ -1,18 +1,17 @@
 ---
-title: "Asarkaya | Miras Haritası"
-date: 2025-12-25T01:48:35+03:00
+title: "Asarkaya"
+date: "2025-12-25T01:48:35+03:00"
 slug: "asarkaya"
 description: "## Asarkaya: Bir Tarihi Kale'nin Gizemi..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: ["Burhaniye (ilçe)"]
+iller: '["Burhaniye (ilçe)"]'
 district: "Burhaniye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.134131,39.450086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asarkaya: Bir Tarihi Kale'nin Gizemi

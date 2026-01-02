@@ -1,18 +1,17 @@
 ---
-title: "Bursa Yaşam Kültürü Müzesi | Miras Haritası"
-date: 2025-12-25T03:45:37+03:00
+title: "Bursa Yaşam Kültürü Müzesi"
+date: "2025-12-25T03:45:37+03:00"
 slug: "bursa-yasam-kulturu-muzesi"
 description: "## Bursa Yaşam Kültürü Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0580921,40.1808853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bursa Yaşam Kültürü Müzesi

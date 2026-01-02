@@ -1,18 +1,17 @@
 ---
-title: "İskenderun Rum Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:29:35+03:00
+title: "İskenderun Rum Katolik Kilisesi"
+date: "2025-12-25T09:29:35+03:00"
 slug: "iskenderun-rum-katolik-kilisesi"
 description: "## İskenderun Rum Katolik Kilisesi..."
 featured_image: ""
 province: "İskenderun Sancağı"
-iller: ["İskenderun Sancağı"]
+iller: '["İskenderun Sancağı"]'
 district: "İskenderun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.1697083,36.5904121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İskenderun Rum Katolik Kilisesi

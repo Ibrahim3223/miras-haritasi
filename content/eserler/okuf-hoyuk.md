@@ -1,18 +1,17 @@
 ---
-title: "Okuf Höyük | Miras Haritası"
-date: 2025-12-25T05:30:35+03:00
+title: "Okuf Höyük"
+date: "2025-12-25T05:30:35+03:00"
 slug: "okuf-hoyuk"
 description: "### Okuf Höyük: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.551617,40.187617"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Okuf Höyük: Bursa'nın Gizli Mirası

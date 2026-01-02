@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Muslugüme | Miras Haritası"
-date: 2025-12-25T02:45:30+03:00
+title: "Roma Köprüsü, Muslugüme"
+date: "2025-12-25T02:45:30+03:00"
 slug: "roma-koprusu-muslugume"
 description: "## Roma Köprüsü, Muslugüme..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Kale"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.6293716,37.458374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Muslugüme

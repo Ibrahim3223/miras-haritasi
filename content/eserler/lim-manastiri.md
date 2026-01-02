@@ -1,18 +1,17 @@
 ---
-title: "Lim Manastırı | Miras Haritası"
-date: 2025-12-25T09:50:12+03:00
+title: "Lim Manastırı"
+date: "2025-12-25T09:50:12+03:00"
 slug: "lim-manastiri"
 description: "## Lim Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lim_Island.png/1200px-Lim_Island.png"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "43.352,38.864877"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lim Manastırı

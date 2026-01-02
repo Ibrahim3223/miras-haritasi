@@ -1,18 +1,17 @@
 ---
-title: "Mersin Devlet Resim Heykel Müzesi ve Galerisi | Miras Haritası"
-date: 2025-12-25T03:54:07+03:00
+title: "Mersin Devlet Resim Heykel Müzesi ve Galerisi"
+date: "2025-12-25T03:54:07+03:00"
 slug: "mersin-devlet-resim-heykel-muzesi-ve-galerisi"
 description: "## Mersin Devlet Resim Heykel Müzesi ve Galerisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mersin_Devlet_Resim_Heykel_Mzesi_ve_Galerisi_2021-10-20_1760387742.jpeg/1200px-Mersin_Devlet_Resim_Heykel_Mzesi_ve_Galerisi_2021-10-20_1760387742.jpeg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.6246986,36.7940331"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mersin Devlet Resim Heykel Müzesi ve Galerisi

@@ -1,18 +1,17 @@
 ---
-title: "Yeşil İmaret Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:47:42+03:00
+title: "Yeşil İmaret Camii Çeşmesi"
+date: "2025-12-25T12:47:42+03:00"
 slug: "yesil-imaret-camii-cesmesi"
 description: "### Yeşil İmaret Camii Çeşmesi: Tarihi ve Kültürel Mirasın Parçası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7335186,38.0857086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeşil İmaret Camii Çeşmesi: Tarihi ve Kültürel Mirasın Parçası

@@ -1,18 +1,17 @@
 ---
-title: "Katip Muslihiddin Camii | Miras Haritası"
-date: 2025-12-24T22:16:50+03:00
+title: "Katip Muslihiddin Camii"
+date: "2025-12-24T22:16:50+03:00"
 slug: "katip-muslihiddin-camii"
 description: "### Katip Muslihiddin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Katip_Muslihiddin_Yazıcı_Mosque_(1).jpg/1200px-Katip_Muslihiddin_Yazıcı_Mosque_(1).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9456596,41.0305939"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Katip Muslihiddin Camii

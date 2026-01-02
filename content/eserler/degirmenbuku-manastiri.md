@@ -1,18 +1,17 @@
 ---
-title: "Değirmenbükü Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:33+03:00
+title: "Değirmenbükü Manastırı"
+date: "2025-12-25T09:51:33+03:00"
 slug: "degirmenbuku-manastiri"
 description: "## Değirmenbükü Manastırı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "27.4113007,36.7041283"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmenbükü Manastırı

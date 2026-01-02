@@ -1,18 +1,17 @@
 ---
-title: "Hristos Rum Manastırı | Miras Haritası"
-date: 2025-12-25T09:54:11+03:00
+title: "Hristos Rum Manastırı"
+date: "2025-12-25T09:54:11+03:00"
 slug: "hristos-rum-manastiri"
 description: "### Hristos Rum Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.0500126,40.9059944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hristos Rum Manastırı

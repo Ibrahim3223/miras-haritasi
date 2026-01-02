@@ -1,18 +1,17 @@
 ---
-title: "Andriake Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:22+03:00
+title: "Andriake Sinagogu"
+date: "2025-12-25T16:14:22+03:00"
 slug: "andriake-sinagogu"
 description: "## Andriake Sinagogu: Geçmişteki Gizemi Koruyan Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ruins_in_Andriake,_Myra,_Turkey.jpg/1200px-Ruins_in_Andriake,_Myra,_Turkey.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.9585,36.229611"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Andriake Sinagogu: Geçmişteki Gizemi Koruyan Efsanesi

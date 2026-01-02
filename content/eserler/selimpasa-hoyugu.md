@@ -1,18 +1,17 @@
 ---
-title: "Selimpaşa Höyüğü | Miras Haritası"
-date: 2025-12-25T07:01:11+03:00
+title: "Selimpaşa Höyüğü"
+date: "2025-12-25T07:01:11+03:00"
 slug: "selimpasa-hoyugu"
 description: "## Selimpaşa Höyüğü: İstanbul'un Eski Yerleşim Yeri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selimpaşa Höyüğü: İstanbul'un Eski Yerleşim Yeri

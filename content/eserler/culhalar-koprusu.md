@@ -1,18 +1,17 @@
 ---
-title: "Çulhalar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:10:37+03:00
+title: "Çulhalar Köprüsü"
+date: "2025-12-25T02:10:37+03:00"
 slug: "culhalar-koprusu"
 description: "## Çulhalar Köprüsü: Aydın'ın Tarihi Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.1490326,37.6893005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çulhalar Köprüsü: Aydın'ın Tarihi Mirası

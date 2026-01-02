@@ -1,18 +1,17 @@
 ---
-title: "Hamza Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:21:14+03:00
+title: "Hamza Paşa Camii Çeşmesi"
+date: "2025-12-25T10:21:14+03:00"
 slug: "hamza-pasa-camii-cesmesi"
 description: "### Hamza Paşa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hamza_Paşa_Camii_Çeşmesi.jpg/1200px-Hamza_Paşa_Camii_Çeşmesi.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.7130089,41.0046272"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hamza Paşa Camii Çeşmesi

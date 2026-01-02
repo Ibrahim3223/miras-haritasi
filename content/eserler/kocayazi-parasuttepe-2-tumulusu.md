@@ -1,18 +1,17 @@
 ---
-title: "Kocayazı Paraşuttepe 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:42:45+03:00
+title: "Kocayazı Paraşuttepe 2 Tümülüsü"
+date: "2025-12-25T07:42:45+03:00"
 slug: "kocayazi-parasuttepe-2-tumulusu"
 description: "### Kocayazı Paraşuttepe 2 Tümülüsü: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2100506,41.9690819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kocayazı Paraşuttepe 2 Tümülüsü: Tarih ve Kültür Mirasının Gizemi

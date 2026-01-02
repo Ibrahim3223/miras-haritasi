@@ -1,18 +1,17 @@
 ---
-title: "Tokatlı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:20+03:00
+title: "Tokatlı Köprüsü"
+date: "2025-12-25T02:23:20+03:00"
 slug: "tokatli-koprusu"
 description: "## Tokatlı Köprüsü..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.6840134,41.2669258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tokatlı Köprüsü

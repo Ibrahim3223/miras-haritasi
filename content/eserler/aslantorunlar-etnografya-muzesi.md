@@ -1,18 +1,17 @@
 ---
-title: "Aslantorunlar Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:35:40+03:00
+title: "Aslantorunlar Etnografya Müzesi"
+date: "2025-12-25T03:35:40+03:00"
 slug: "aslantorunlar-etnografya-muzesi"
 description: "## Aslantorunlar Etnografya Müzesi: Sinop'ta Bir Kültürel Miras..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aslantorunlar Etnografya Müzesi: Sinop'ta Bir Kültürel Miras

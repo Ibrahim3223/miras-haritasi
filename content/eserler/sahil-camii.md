@@ -1,18 +1,17 @@
 ---
-title: "Sahil Camii | Miras Haritası"
-date: 2025-12-24T22:40:00+03:00
+title: "Sahil Camii"
+date: "2025-12-24T22:40:00+03:00"
 slug: "sahil-camii"
 description: "### Sahil Camii - Sinop'un Tarihi Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sinop"
+province: "Sinop"
+iller: '["Sinop"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.5831947,41.9471474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sahil Camii - Sinop'un Tarihi Mirası

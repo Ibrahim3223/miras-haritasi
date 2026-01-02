@@ -1,18 +1,17 @@
 ---
-title: "Erbeyli Camii | Miras Haritası"
-date: 2025-12-24T23:00:38+03:00
+title: "Erbeyli Camii"
+date: "2025-12-24T23:00:38+03:00"
 slug: "erbeyli-camii"
 description: "## Erbeyli Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6800003,37.8674507"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Erbeyli Camii

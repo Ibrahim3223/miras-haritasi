@@ -1,18 +1,17 @@
 ---
-title: "Halki Aya Yorgi Manastırı | Miras Haritası"
-date: 2025-12-25T09:49:02+03:00
+title: "Halki Aya Yorgi Manastırı"
+date: "2025-12-25T09:49:02+03:00"
 slug: "halki-aya-yorgi-manastiri"
 description: "## Halkı Aya Yorgi Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.098556004,40.871688121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halkı Aya Yorgi Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Havva Kadın Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:33:05+03:00
+title: "Havva Kadın Çeşmesi"
+date: "2025-12-25T11:33:05+03:00"
 slug: "havva-kadin-cesmesi"
 description: "## Bodrum'un Gizli Cenneti: Havva Kadın Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3449993,37.087101"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bodrum'un Gizli Cenneti: Havva Kadın Çeşmesi

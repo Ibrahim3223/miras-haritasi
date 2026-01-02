@@ -1,18 +1,17 @@
 ---
-title: "Kağıthane Açık Hava Müzesi | Miras Haritası"
-date: 2025-12-25T03:47:19+03:00
+title: "Kağıthane Açık Hava Müzesi"
+date: "2025-12-25T03:47:19+03:00"
 slug: "kagithane-acik-hava-muzesi"
 description: "## Kağıthane Açık Hava Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kağıthane"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9650249,41.0717354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kağıthane Açık Hava Müzesi

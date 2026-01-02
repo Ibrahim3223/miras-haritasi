@@ -1,18 +1,17 @@
 ---
-title: "Aşağımaden Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:14:10+03:00
+title: "Aşağımaden Köyü Camii"
+date: "2025-12-24T22:14:10+03:00"
 slug: "asagimaden-koyu-camii"
 description: "### Aşağımaden Köyü Camii: Artvin'in Değerli Camii Mirası..."
 featured_image: ""
-province: "Kutaisi Guberniyası"
-iller: ["Kutaisi Guberniyası"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: "Kutaisi Guberniyası"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.836387016,40.992353633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşağımaden Köyü Camii: Artvin'in Değerli Camii Mirası

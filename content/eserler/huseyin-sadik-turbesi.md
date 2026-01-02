@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Sadık Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:13+03:00
+title: "Hüseyin Sadık Türbesi"
+date: "2025-12-25T14:34:13+03:00"
 slug: "huseyin-sadik-turbesi"
 description: "## Hüseyin Sadık Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hüseyin_Sadık_Türbesi2.jpg/1200px-Hüseyin_Sadık_Türbesi2.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9485408,41.0316102"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hüseyin Sadık Türbesi

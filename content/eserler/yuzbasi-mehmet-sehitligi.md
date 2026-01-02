@@ -1,18 +1,17 @@
 ---
-title: "Yüzbaşı Mehmet Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:18+03:00
+title: "Yüzbaşı Mehmet Şehitliği"
+date: "2025-12-25T16:00:18+03:00"
 slug: "yuzbasi-mehmet-sehitligi"
 description: "## Yüzbaşı Mehmet Şehitliği: Eceabat'ın Onuruna Yapılmış Anıt..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2917709,40.237957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yüzbaşı Mehmet Şehitliği: Eceabat'ın Onuruna Yapılmış Anıt

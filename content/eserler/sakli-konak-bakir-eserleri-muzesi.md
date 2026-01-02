@@ -1,18 +1,17 @@
 ---
-title: "Saklı Konak Bakır Eserleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:55:08+03:00
+title: "Saklı Konak Bakır Eserleri Müzesi"
+date: "2025-12-25T03:55:08+03:00"
 slug: "sakli-konak-bakir-eserleri-muzesi"
 description: "## Saklı Konak Bakır Eserleri Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.382416,37.068784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saklı Konak Bakır Eserleri Müzesi

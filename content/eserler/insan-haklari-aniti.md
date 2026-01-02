@@ -1,18 +1,17 @@
 ---
-title: "İnsan Hakları Anıtı | Miras Haritası"
-date: 2025-12-25T15:40:49+03:00
+title: "İnsan Hakları Anıtı"
+date: "2025-12-25T15:40:49+03:00"
 slug: "insan-haklari-aniti"
 description: "## İnsan Hakları Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kskinsanlık.jpg/1200px-Kskinsanlık.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karşıyaka"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.110833333,38.449444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İnsan Hakları Anıtı

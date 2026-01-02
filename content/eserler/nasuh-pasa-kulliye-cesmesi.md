@@ -1,18 +1,17 @@
 ---
-title: "Nasuh Paşa Külliye Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:24+03:00
+title: "Nasuh Paşa Külliye Çeşmesi"
+date: "2025-12-25T10:31:24+03:00"
 slug: "nasuh-pasa-kulliye-cesmesi"
 description: "## Nasuh Paşa Külliye Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8407173,37.8525009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nasuh Paşa Külliye Çeşmesi

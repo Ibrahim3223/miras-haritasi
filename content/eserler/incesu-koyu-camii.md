@@ -1,18 +1,17 @@
 ---
-title: "İncesu Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:38:41+03:00
+title: "İncesu Köyü Camii"
+date: "2025-12-24T23:38:41+03:00"
 slug: "incesu-koyu-camii"
 description: "## İncesu Köyü Camii: Isparta'nın Kıymetli Bir Camisi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Keçiborlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2814674,38.0292397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İncesu Köyü Camii: Isparta'nın Kıymetli Bir Camisi

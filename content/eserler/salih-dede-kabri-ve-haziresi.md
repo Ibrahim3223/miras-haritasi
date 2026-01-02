@@ -1,18 +1,17 @@
 ---
-title: "Salih Dede Kabri ve Haziresi | Miras Haritası"
-date: 2025-12-25T16:06:54+03:00
+title: "Salih Dede Kabri ve Haziresi"
+date: "2025-12-25T16:06:54+03:00"
 slug: "salih-dede-kabri-ve-haziresi"
 description: "## Salih Dede Kabri ve Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.074724295,41.078706891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salih Dede Kabri ve Haziresi

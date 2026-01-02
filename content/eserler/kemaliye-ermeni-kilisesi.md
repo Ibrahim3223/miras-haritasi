@@ -1,18 +1,17 @@
 ---
-title: "Kemaliye Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T08:44:15+03:00
+title: "Kemaliye Ermeni Kilisesi"
+date: "2025-12-25T08:44:15+03:00"
 slug: "kemaliye-ermeni-kilisesi"
 description: "## Kemaliye Ermeni Kilisesi..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Kemaliye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.4982,39.26"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemaliye Ermeni Kilisesi

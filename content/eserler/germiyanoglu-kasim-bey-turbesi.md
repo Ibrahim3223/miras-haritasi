@@ -1,18 +1,17 @@
 ---
-title: "Germiyanoğlu Kasım Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:57+03:00
+title: "Germiyanoğlu Kasım Bey Türbesi"
+date: "2025-12-25T15:13:57+03:00"
 slug: "germiyanoglu-kasim-bey-turbesi"
 description: "**Germiyanoğlu Kasım Bey Türbesi**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.4243293,37.9476112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Germiyanoğlu Kasım Bey Türbesi**

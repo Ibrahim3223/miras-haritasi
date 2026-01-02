@@ -1,18 +1,17 @@
 ---
-title: "Ege Üniversitesi Kağıt ve Kitap Sanatları Müzesi | Miras Haritası"
-date: 2025-12-25T03:46:21+03:00
+title: "Ege Üniversitesi Kağıt ve Kitap Sanatları Müzesi"
+date: "2025-12-25T03:46:21+03:00"
 slug: "ege-universitesi-kagit-ve-kitap-sanatlari-muzesi"
 description: "## Ege Üniversitesi Kağıt ve Kitap Sanatları Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.2185154,38.4620361"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ege Üniversitesi Kağıt ve Kitap Sanatları Müzesi

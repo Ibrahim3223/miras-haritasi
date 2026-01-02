@@ -1,18 +1,17 @@
 ---
-title: "Ayayani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:01+03:00
+title: "Ayayani Kilisesi"
+date: "2025-12-25T09:38:01+03:00"
 slug: "ayayani-kilisesi"
 description: "## Ayayani Kilisesi: Kırklareli'nin Gizli Çehresini Açan Kıymetli Bir Eser..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.2215576,41.7327805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayayani Kilisesi: Kırklareli'nin Gizli Çehresini Açan Kıymetli Bir Eser

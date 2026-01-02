@@ -1,18 +1,17 @@
 ---
-title: "Mor Dimet Kilisesi | Miras Haritası"
-date: 2025-12-25T09:20:27+03:00
+title: "Mor Dimet Kilisesi"
+date: "2025-12-25T09:20:27+03:00"
 slug: "mor-dimet-kilisesi"
 description: "## Mor Dimet Kilisesi: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.5384369,37.5126381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mor Dimet Kilisesi: Mardin'in Gizli Cenneti

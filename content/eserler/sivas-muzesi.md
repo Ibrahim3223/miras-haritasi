@@ -1,18 +1,17 @@
 ---
-title: "Sivas Müzesi | Miras Haritası"
-date: 2025-12-25T03:48:41+03:00
+title: "Sivas Müzesi"
+date: "2025-12-25T03:48:41+03:00"
 slug: "sivas-muzesi"
 description: "## Sivas Müzesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.015255,39.7490692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivas Müzesi

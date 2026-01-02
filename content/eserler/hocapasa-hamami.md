@@ -1,18 +1,17 @@
 ---
-title: "Hocapaşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:36:42+03:00
+title: "Hocapaşa Hamamı"
+date: "2025-12-25T16:36:42+03:00"
 slug: "hocapasa-hamami"
 description: "**Hocapaşa Hamamı: İstanbul'un Tarihî Hamamlarından Bir Örnek**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.975748,41.01405"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hocapaşa Hamamı: İstanbul'un Tarihî Hamamlarından Bir Örnek**

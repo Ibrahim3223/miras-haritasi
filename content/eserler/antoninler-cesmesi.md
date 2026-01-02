@@ -1,18 +1,17 @@
 ---
-title: "Antoninler Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:07:00+03:00
+title: "Antoninler Çeşmesi"
+date: "2025-12-25T10:07:00+03:00"
 slug: "antoninler-cesmesi"
 description: "### Antoninler Çeşmesi: Ağlasun'un Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Antoninler_Cesmesi_2.JPG/1200px-Antoninler_Cesmesi_2.JPG"
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Ağlasun"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.517777777,37.677388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Antoninler Çeşmesi: Ağlasun'un Tarihi Bir Mirası

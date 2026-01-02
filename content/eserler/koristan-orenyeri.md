@@ -1,18 +1,17 @@
 ---
-title: "Köristan Örenyeri | Miras Haritası"
-date: 2025-12-25T14:09:40+03:00
+title: "Köristan Örenyeri"
+date: "2025-12-25T14:09:40+03:00"
 slug: "koristan-orenyeri"
 description: "## Köristan Örenyeri: Karaman'ın Gizli Anıtı..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Sarıveliler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5923157,36.5934792"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köristan Örenyeri: Karaman'ın Gizli Anıtı

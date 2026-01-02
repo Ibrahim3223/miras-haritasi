@@ -1,18 +1,17 @@
 ---
-title: "Ahi Çelebi Camii | Miras Haritası"
-date: 2025-12-24T21:51:08+03:00
+title: "Ahi Çelebi Camii"
+date: "2025-12-24T21:51:08+03:00"
 slug: "ahi-celebi-camii"
 description: "## Ahi Çelebi Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/AhiCelebiCamii.jpg/1200px-AhiCelebiCamii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.968372,41.018993"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ahi Çelebi Camii: İstanbul'un Gizli Cenneti

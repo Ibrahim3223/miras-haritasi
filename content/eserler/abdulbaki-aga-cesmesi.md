@@ -1,18 +1,17 @@
 ---
-title: "Abdulbaki Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:12:38+03:00
+title: "Abdulbaki Ağa Çeşmesi"
+date: "2025-12-25T11:12:38+03:00"
 slug: "abdulbaki-aga-cesmesi"
 description: "### Abdulbaki Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Abdulbaki_Ağa_Çeşmesi_IMG_0259.jpg/1200px-Abdulbaki_Ağa_Çeşmesi_IMG_0259.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Sururi Mehmet Efendi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971981,41.035127"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Abdulbaki Ağa Çeşmesi

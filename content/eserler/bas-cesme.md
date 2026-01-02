@@ -1,18 +1,17 @@
 ---
-title: "Baş Çeşme | Miras Haritası"
-date: 2025-12-25T10:39:40+03:00
+title: "Baş Çeşme"
+date: "2025-12-25T10:39:40+03:00"
 slug: "bas-cesme"
 description: "## Baş Çeşme: Afyonkarahisar'ın Şirin Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5339851,38.7579765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baş Çeşme: Afyonkarahisar'ın Şirin Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Han Mahmut Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:22+03:00
+title: "Han Mahmut Köprüsü"
+date: "2025-12-25T02:25:22+03:00"
 slug: "han-mahmut-koprusu"
 description: "**Han Mahmut Köprüsü**..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Şırnak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.179295,37.39809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Han Mahmut Köprüsü**

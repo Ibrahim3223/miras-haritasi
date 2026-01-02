@@ -1,18 +1,17 @@
 ---
-title: "Horos Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:51:53+03:00
+title: "Horos Dede Kabri"
+date: "2025-12-25T13:51:53+03:00"
 slug: "horos-dede-kabri"
 description: "## Horos Dede Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9621658,41.0215263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Horos Dede Kabri: Fatih'in Gizli Anıtı

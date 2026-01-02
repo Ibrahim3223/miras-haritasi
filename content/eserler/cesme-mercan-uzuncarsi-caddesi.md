@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Mercan – Uzunçarşı Caddesi | Miras Haritası"
-date: 2025-12-25T12:14:59+03:00
+title: "Çeşme, Mercan – Uzunçarşı Caddesi"
+date: "2025-12-25T12:14:59+03:00"
 slug: "cesme-mercan-uzuncarsi-caddesi"
 description: "## Mercan – Uzunçarşı Caddesi Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.967399,41.013832"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mercan – Uzunçarşı Caddesi Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

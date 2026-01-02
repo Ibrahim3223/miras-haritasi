@@ -1,18 +1,17 @@
 ---
-title: "Yarlı Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:23:52+03:00
+title: "Yarlı Köyü Çeşmesi"
+date: "2025-12-25T10:23:52+03:00"
 slug: "yarli-koyu-cesmesi"
 description: "## Yarlı Köyü Çeşmesi: Trabzon'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Hayrat"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.3384514,40.9033089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarlı Köyü Çeşmesi: Trabzon'un Gizli Çeşmesi

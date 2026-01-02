@@ -1,18 +1,17 @@
 ---
-title: "Surp Hreşdagabet Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:43+03:00
+title: "Surp Hreşdagabet Kilisesi"
+date: "2025-12-25T09:27:43+03:00"
 slug: "surp-hresdagabet-kilisesi"
 description: "### Surp Hreşdagabet Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9615536,41.0046539"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Hreşdagabet Kilisesi

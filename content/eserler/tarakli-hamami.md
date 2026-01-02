@@ -1,18 +1,17 @@
 ---
-title: "Taraklı Hamamı | Miras Haritası"
-date: 2025-12-25T16:48:42+03:00
+title: "Taraklı Hamamı"
+date: "2025-12-25T16:48:42+03:00"
 slug: "tarakli-hamami"
 description: "**Taraklı Hamamı**..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Taraklı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.4923286,40.3963127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Taraklı Hamamı**

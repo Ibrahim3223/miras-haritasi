@@ -1,18 +1,17 @@
 ---
-title: "Karakaya Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:11+03:00
+title: "Karakaya Kalesi"
+date: "2025-12-25T01:26:11+03:00"
 slug: "karakaya-kalesi"
 description: "### Karakaya Kalesi: Aydın'ın Fethedilmiş Bir Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5507088,37.5699959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karakaya Kalesi: Aydın'ın Fethedilmiş Bir Anıtı

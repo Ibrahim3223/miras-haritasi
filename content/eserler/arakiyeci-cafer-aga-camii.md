@@ -1,18 +1,17 @@
 ---
-title: "Arakiyeci Cafer Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:47:38+03:00
+title: "Arakiyeci Cafer Ağa Camii"
+date: "2025-12-24T22:47:38+03:00"
 slug: "arakiyeci-cafer-aga-camii"
 description: "# Arakiyeci Cafer Ağa Camii..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Nişancı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.935489,41.040881"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arakiyeci Cafer Ağa Camii

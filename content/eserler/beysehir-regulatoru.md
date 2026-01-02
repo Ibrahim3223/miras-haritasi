@@ -1,18 +1,17 @@
 ---
-title: "Beyşehir Regülatörü | Miras Haritası"
-date: 2025-12-25T02:45:01+03:00
+title: "Beyşehir Regülatörü"
+date: "2025-12-25T02:45:01+03:00"
 slug: "beysehir-regulatoru"
 description: "## Beyşehir Regülatörü: Konya'nın Tarihi Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.722778,37.680517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyşehir Regülatörü: Konya'nın Tarihi Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Hüsnüabad Höyük | Miras Haritası"
-date: 2025-12-25T06:03:04+03:00
+title: "Hüsnüabad Höyük"
+date: "2025-12-25T06:03:04+03:00"
 slug: "husnuabad-hoyuk"
 description: "# Hüsnüabad Höyük: Eskişehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.8215904,39.4341125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hüsnüabad Höyük: Eskişehir'in Gizli Kahramanı

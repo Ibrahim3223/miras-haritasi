@@ -1,18 +1,17 @@
 ---
-title: "Dilsiz Süleyman Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:55:14+03:00
+title: "Dilsiz Süleyman Ağa Çeşmesi"
+date: "2025-12-25T11:55:14+03:00"
 slug: "dilsiz-suleyman-aga-cesmesi"
 description: "## Dilsiz Süleyman Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.932686,41.039696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dilsiz Süleyman Ağa Çeşmesi

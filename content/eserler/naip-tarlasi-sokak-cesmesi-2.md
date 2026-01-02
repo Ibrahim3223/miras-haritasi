@@ -1,18 +1,17 @@
 ---
-title: "Naip Tarlası Sokak Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T11:33:13+03:00
+title: "Naip Tarlası Sokak Çeşmesi 2"
+date: "2025-12-25T11:33:13+03:00"
 slug: "naip-tarlasi-sokak-cesmesi-2"
 description: "## Naip Tarlası Sokak Çeşmesi 2: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6946831,41.2446136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Naip Tarlası Sokak Çeşmesi 2: Safranbolu'nun Tarihi Bir Çeşmesi

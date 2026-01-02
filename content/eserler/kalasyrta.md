@@ -1,18 +1,17 @@
 ---
-title: "Kalasyrta | Miras Haritası"
-date: 2025-12-25T04:44:40+03:00
+title: "Kalasyrta"
+date: "2025-12-25T04:44:40+03:00"
 slug: "kalasyrta"
 description: "## Kalasyrta: Antik Çağın Gizemli Kaleleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.026371,40.785278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalasyrta: Antik Çağın Gizemli Kaleleri

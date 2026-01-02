@@ -1,18 +1,17 @@
 ---
-title: "Laodikeia | Miras Haritası"
-date: 2025-12-25T04:19:52+03:00
+title: "Laodikeia"
+date: "2025-12-25T04:19:52+03:00"
 slug: "laodikeia"
 description: "## Laodikeia: Tarihî Mirasın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sütun.jpg/1200px-Sütun.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1075,37.835833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Laodikeia: Tarihî Mirasın Gizli Cenneti

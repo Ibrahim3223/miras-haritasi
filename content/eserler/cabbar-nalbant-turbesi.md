@@ -1,18 +1,17 @@
 ---
-title: "Cabbar Nalbant Türbesi | Miras Haritası"
-date: 2025-12-25T15:02:32+03:00
+title: "Cabbar Nalbant Türbesi"
+date: "2025-12-25T15:02:32+03:00"
 slug: "cabbar-nalbant-turbesi"
 description: "### Cabbar Nalbant Türbesi: Düzce'nin Tarihî Mirası..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.2255058,40.863533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cabbar Nalbant Türbesi: Düzce'nin Tarihî Mirası

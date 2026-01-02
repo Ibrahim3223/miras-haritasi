@@ -1,18 +1,17 @@
 ---
-title: "Benlizade Ahmet Raşit Efendi Çeşmesi (Sarıyer) | Miras Haritası"
-date: 2025-12-25T12:17:15+03:00
+title: "Benlizade Ahmet Raşit Efendi Çeşmesi (Sarıyer)"
+date: "2025-12-25T12:17:15+03:00"
 slug: "benlizade-ahmet-rasit-efendi-cesmesi-sariyer"
 description: "## Benlizade Ahmet Raşit Efendi Çeşmesi (Sarıyer)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Benlizade_Ahmet_Raşit_Efendi_Çeşmesi_(Sarıyer).jpg/1200px-Benlizade_Ahmet_Raşit_Efendi_Çeşmesi_(Sarıyer).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0566769,41.0871315"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Benlizade Ahmet Raşit Efendi Çeşmesi (Sarıyer)

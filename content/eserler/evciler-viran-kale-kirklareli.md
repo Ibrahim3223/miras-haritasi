@@ -1,18 +1,17 @@
 ---
-title: "Evciler Viran Kale, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:49:32+03:00
+title: "Evciler Viran Kale, Kırklareli"
+date: "2025-12-25T01:49:32+03:00"
 slug: "evciler-viran-kale-kirklareli"
 description: "### Evciler Viran Kale: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.5794353,41.7282562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Evciler Viran Kale: Kırklareli'nin Gizli Kahramanı

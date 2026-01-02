@@ -1,18 +1,17 @@
 ---
-title: "Marpessos | Miras Haritası"
-date: 2025-12-25T06:53:42+03:00
+title: "Marpessos"
+date: "2025-12-25T06:53:42+03:00"
 slug: "marpessos"
 description: "## Marpessos: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: "Bayramiç (ilçe)"
-iller: ["Bayramiç (ilçe)"]
+iller: '["Bayramiç (ilçe)"]'
 district: "Zerdalilik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.52027778,39.88027778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marpessos: Antik Bir Kentin İzleri

@@ -1,18 +1,17 @@
 ---
-title: "Surp Tateos – Surp Partoğomeos Kilisesi | Miras Haritası"
-date: 2025-12-25T08:48:38+03:00
+title: "Surp Tateos – Surp Partoğomeos Kilisesi"
+date: "2025-12-25T08:48:38+03:00"
 slug: "surp-tateos-surp-partogomeos-kilisesi"
 description: "## Surp Tateos – Surp Partoğomeos Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sankt-Thaddäus-Bartholomäus-Kirche.jpg/1200px-Sankt-Thaddäus-Bartholomäus-Kirche.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.951444444,41.003361111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Tateos – Surp Partoğomeos Kilisesi

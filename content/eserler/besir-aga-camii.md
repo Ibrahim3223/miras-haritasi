@@ -1,18 +1,17 @@
 ---
-title: "Beşir Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:47:51+03:00
+title: "Beşir Ağa Camii"
+date: "2025-12-24T22:47:51+03:00"
 slug: "besir-aga-camii"
 description: "## Beşir Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Palais_de_Topkapı_(48985985312).jpg/1200px-Palais_de_Topkapı_(48985985312).jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.982325,41.011845"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Beşir Ağa Camii

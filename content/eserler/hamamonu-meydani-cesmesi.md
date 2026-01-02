@@ -1,18 +1,17 @@
 ---
-title: "Hamamönü Meydanı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:07+03:00
+title: "Hamamönü Meydanı Çeşmesi"
+date: "2025-12-25T10:28:07+03:00"
 slug: "hamamonu-meydani-cesmesi"
 description: "## Hamamönü Meydanı Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8665466,39.9332581"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamamönü Meydanı Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Balıkesir | Miras Haritası"
-date: 2025-12-25T00:01:24+03:00
+title: "Hamidiye Camii, Balıkesir"
+date: "2025-12-25T00:01:24+03:00"
 slug: "hamidiye-camii-balikesir"
 description: "## Hamidiye Camii, Balıkesir..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: ["Marmara Bölgesi"]
+iller: '["Marmara Bölgesi"]'
 district: "Karesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8884983,39.6505966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Camii, Balıkesir

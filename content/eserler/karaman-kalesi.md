@@ -1,18 +1,17 @@
 ---
-title: "Karaman Kalesi | Miras Haritası"
-date: 2025-12-25T01:47:43+03:00
+title: "Karaman Kalesi"
+date: "2025-12-25T01:47:43+03:00"
 slug: "karaman-kalesi"
 description: "### Karaman Kalesi: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/KaramanKale1.jpg/1200px-KaramanKale1.jpg"
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.206027777,37.182"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Karaman Kalesi: Karaman'ın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Niğde’nin Tarihi Anıtları | Miras Haritası"
-date: 2025-12-25T15:52:04+03:00
+title: "Niğde’nin Tarihi Anıtları"
+date: "2025-12-25T15:52:04+03:00"
 slug: "nigdenin-tarihi-anitlari"
 description: "## Niğde'nin Tarihi Anıtları..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6791534,37.9668083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Niğde'nin Tarihi Anıtları

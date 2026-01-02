@@ -1,18 +1,17 @@
 ---
-title: "Küçük Altın Kapı | Miras Haritası"
-date: 2025-12-25T13:18:08+03:00
+title: "Küçük Altın Kapı"
+date: "2025-12-25T13:18:08+03:00"
 slug: "kucuk-altin-kapi"
 description: "## Küçük Altın Kapı: İstanbul'un Gizli Çağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Küçük_Altın_Kapı.jpg/1200px-Küçük_Altın_Kapı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.922121,40.9929085"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Küçük Altın Kapı: İstanbul'un Gizli Çağı

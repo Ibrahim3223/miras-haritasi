@@ -1,18 +1,17 @@
 ---
-title: "Cibali Haydar Çıkmazı Hamam Kalıntısı | Miras Haritası"
-date: 2025-12-25T16:55:06+03:00
+title: "Cibali Haydar Çıkmazı Hamam Kalıntısı"
+date: "2025-12-25T16:55:06+03:00"
 slug: "cibali-haydar-cikmazi-hamam-kalintisi"
 description: "## Cibali Haydar Çıkmazı Hamam Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9569569,41.0247688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cibali Haydar Çıkmazı Hamam Kalıntısı

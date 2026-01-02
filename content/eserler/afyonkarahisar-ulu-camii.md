@@ -1,18 +1,17 @@
 ---
-title: "Afyonkarahisar Ulu Camii | Miras Haritası"
-date: 2025-12-24T21:58:32+03:00
+title: "Afyonkarahisar Ulu Camii"
+date: "2025-12-24T21:58:32+03:00"
 slug: "afyonkarahisar-ulu-camii"
 description: "## Afyonkarahisar Ulu Camii: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Afyonkarahisar_Ulu_Camii_Exterior_1881.jpg/1200px-Afyonkarahisar_Ulu_Camii_Exterior_1881.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.529444444,38.755"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Afyonkarahisar Ulu Camii: Türkiye'nin Tarihi ve Kültürel Mirası

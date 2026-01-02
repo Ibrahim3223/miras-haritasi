@@ -1,18 +1,17 @@
 ---
-title: "Ali Bey Mescidi | Miras Haritası"
-date: 2025-12-25T00:47:15+03:00
+title: "Ali Bey Mescidi"
+date: "2025-12-25T00:47:15+03:00"
 slug: "ali-bey-mescidi"
 description: "## Ali Bey Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8552666,39.9404793"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Bey Mescidi

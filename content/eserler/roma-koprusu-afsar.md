@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Afşar | Miras Haritası"
-date: 2025-12-25T02:59:47+03:00
+title: "Roma Köprüsü, Afşar"
+date: "2025-12-25T02:59:47+03:00"
 slug: "roma-koprusu-afsar"
 description: "## Roma Köprüsü, Afşar..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Gelendost"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.9716644,38.1296463"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Afşar

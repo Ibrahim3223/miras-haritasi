@@ -1,18 +1,17 @@
 ---
-title: "İskele Camii, Amasra | Miras Haritası"
-date: 2025-12-24T23:54:40+03:00
+title: "İskele Camii, Amasra"
+date: "2025-12-24T23:54:40+03:00"
 slug: "iskele-camii-amasra"
 description: "### İskele Camii, Amasra: Bir Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Amasra İlçesi"
-iller: ["Amasra İlçesi"]
+iller: '["Amasra İlçesi"]'
 district: "Amasra"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.3873558,41.7487106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İskele Camii, Amasra: Bir Tarihi ve Kültürel Miras

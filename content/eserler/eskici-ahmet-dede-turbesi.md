@@ -1,18 +1,17 @@
 ---
-title: "Eskici Ahmet Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:19:46+03:00
+title: "Eskici Ahmet Dede Türbesi"
+date: "2025-12-25T14:19:46+03:00"
 slug: "eskici-ahmet-dede-turbesi"
 description: "## Eskici Ahmet Dede Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Akçakoca"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.101421,41.068573"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskici Ahmet Dede Türbesi

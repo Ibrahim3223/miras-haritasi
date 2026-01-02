@@ -1,18 +1,17 @@
 ---
-title: "Zincirli Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:18+03:00
+title: "Zincirli Camii Çeşmesi"
+date: "2025-12-25T10:27:18+03:00"
 slug: "zincirli-camii-cesmesi"
 description: "### Zincirli Camii Çeşmesi: Altındağ'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8561516,39.941906"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zincirli Camii Çeşmesi: Altındağ'un Tarihi Bir Çeşmesi

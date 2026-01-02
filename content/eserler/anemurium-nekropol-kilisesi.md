@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Nekropol Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:49+03:00
+title: "Anemurium Nekropol Kilisesi"
+date: "2025-12-25T09:23:49+03:00"
 slug: "anemurium-nekropol-kilisesi"
 description: "## Anemurium Nekropol Kilisesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.8028488,36.0255394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anemurium Nekropol Kilisesi

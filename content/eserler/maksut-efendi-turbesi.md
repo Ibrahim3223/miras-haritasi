@@ -1,18 +1,17 @@
 ---
-title: "Maksut Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:23:08+03:00
+title: "Maksut Efendi Türbesi"
+date: "2025-12-25T15:23:08+03:00"
 slug: "maksut-efendi-turbesi"
 description: "## Maksut Efendi Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Palandöken"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.3303642,39.8968544"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maksut Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Karabulduk Eski Camii | Miras Haritası"
-date: 2025-12-24T23:40:32+03:00
+title: "Karabulduk Eski Camii"
+date: "2025-12-24T23:40:32+03:00"
 slug: "karabulduk-eski-camii"
 description: "## Karabulduk Eski Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Giresun"
+province: "Giresun"
+iller: '["Giresun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.561981,40.830755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabulduk Eski Camii

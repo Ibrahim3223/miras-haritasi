@@ -1,18 +1,17 @@
 ---
-title: "Taşağıl Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:16:03+03:00
+title: "Taşağıl Köyü Camii"
+date: "2025-12-24T23:16:03+03:00"
 slug: "tasagil-koyu-camii"
 description: "## Taşağıl Köyü Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1235771,41.5226479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşağıl Köyü Camii

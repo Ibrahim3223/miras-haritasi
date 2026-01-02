@@ -1,18 +1,17 @@
 ---
-title: "Talat Göktepe Anıtı | Miras Haritası"
-date: 2025-12-25T15:51:41+03:00
+title: "Talat Göktepe Anıtı"
+date: "2025-12-25T15:51:41+03:00"
 slug: "talat-goktepe-aniti"
 description: "## Talat Göktepe Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3025665,40.2472115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Talat Göktepe Anıtı

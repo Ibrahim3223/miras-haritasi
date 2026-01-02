@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Güzelköy | Miras Haritası"
-date: 2025-12-25T02:57:44+03:00
+title: "Roma Köprüsü, Güzelköy"
+date: "2025-12-25T02:57:44+03:00"
 slug: "roma-koprusu-guzelkoy"
 description: "## Roma Köprüsü, Güzelköy..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.670231,38.770798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Güzelköy

@@ -1,18 +1,17 @@
 ---
-title: "Türk Telekom Telekomünikasyon Müzesi | Miras Haritası"
-date: 2025-12-25T03:30:34+03:00
+title: "Türk Telekom Telekomünikasyon Müzesi"
+date: "2025-12-25T03:30:34+03:00"
 slug: "turk-telekom-telekomunikasyon-muzesi"
 description: "## Türk Telekom Telekomünikasyon Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.866523,39.958607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk Telekom Telekomünikasyon Müzesi

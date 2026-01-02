@@ -1,18 +1,17 @@
 ---
-title: "Güngören Tümülüs 2, Arguvan | Miras Haritası"
-date: 2025-12-25T07:30:25+03:00
+title: "Güngören Tümülüs 2, Arguvan"
+date: "2025-12-25T07:30:25+03:00"
 slug: "gungoren-tumulus-2-arguvan"
 description: "### Güngören Tümülüs 2, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.2393684,38.8963814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güngören Tümülüs 2, Arguvan

@@ -1,18 +1,17 @@
 ---
-title: "Tahir ile Zühre Mescidi ve Türbesi | Miras Haritası"
-date: 2025-12-25T00:52:58+03:00
+title: "Tahir ile Zühre Mescidi ve Türbesi"
+date: "2025-12-25T00:52:58+03:00"
 slug: "tahir-ile-zuhre-mescidi-ve-turbesi"
 description: "## Tahir ile Zühre Mescidi ve Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4854584,37.8698692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tahir ile Zühre Mescidi ve Türbesi

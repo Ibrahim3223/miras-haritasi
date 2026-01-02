@@ -1,18 +1,17 @@
 ---
-title: "Tülbentçi Mehmet Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:43:35+03:00
+title: "Tülbentçi Mehmet Efendi Medresesi"
+date: "2025-12-25T17:43:35+03:00"
 slug: "tulbentci-mehmet-efendi-medresesi"
 description: "### Tülbentçi Mehmet Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9277725,41.0178223"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tülbentçi Mehmet Efendi Medresesi

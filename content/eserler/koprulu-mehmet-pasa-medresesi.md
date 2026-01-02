@@ -1,18 +1,17 @@
 ---
-title: "Köprülü Mehmet Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:52+03:00
+title: "Köprülü Mehmet Paşa Medresesi"
+date: "2025-12-25T17:36:52+03:00"
 slug: "koprulu-mehmet-pasa-medresesi"
 description: "## Köprülü Mehmet Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.972023,41.0081253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprülü Mehmet Paşa Medresesi

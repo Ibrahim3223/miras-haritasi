@@ -1,18 +1,17 @@
 ---
-title: "Savi Höyük | Miras Haritası"
-date: 2025-12-25T06:39:58+03:00
+title: "Savi Höyük"
+date: "2025-12-25T06:39:58+03:00"
 slug: "savi-hoyuk"
 description: "## Savi Höyük: Şanlıurfa'nın Gizli Çanak Çömleği..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0105339,36.9417263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Savi Höyük: Şanlıurfa'nın Gizli Çanak Çömleği

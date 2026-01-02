@@ -1,18 +1,17 @@
 ---
-title: "Okul Önü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:49:56+03:00
+title: "Okul Önü Çeşmesi"
+date: "2025-12-25T10:49:56+03:00"
 slug: "okul-onu-cesmesi"
 description: "### Okul Önü Çeşmesi: Ürgüp'te Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9112434,38.6336479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Okul Önü Çeşmesi: Ürgüp'te Bir Tarihî Çeşme

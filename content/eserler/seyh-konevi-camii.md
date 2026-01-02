@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Konevi Camii | Miras Haritası"
-date: 2025-12-24T23:13:40+03:00
+title: "Şeyh Konevi Camii"
+date: "2025-12-24T23:13:40+03:00"
 slug: "seyh-konevi-camii"
 description: "# Şeyh Konevi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0572186,40.1786461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyh Konevi Camii

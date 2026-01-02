@@ -1,18 +1,17 @@
 ---
-title: "Nasuh Bey Mescidi | Miras Haritası"
-date: 2025-12-25T17:32:11+03:00
+title: "Nasuh Bey Mescidi"
+date: "2025-12-25T17:32:11+03:00"
 slug: "nasuh-bey-mescidi"
 description: "## Nasuh Bey Mescidi: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "32.4899673,37.8701515"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nasuh Bey Mescidi: Konya'nın Gizli Cenneti

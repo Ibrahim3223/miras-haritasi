@@ -1,18 +1,17 @@
 ---
-title: "Peynirli Camii | Miras Haritası"
-date: 2025-12-24T22:38:15+03:00
+title: "Peynirli Camii"
+date: "2025-12-24T22:38:15+03:00"
 slug: "peynirli-camii"
 description: "## Peynirli Camii: Kayseri'nin Gizli Çehresini Açığa Çıkaran Bir Örnek..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4794769,38.715519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Peynirli Camii: Kayseri'nin Gizli Çehresini Açığa Çıkaran Bir Örnek

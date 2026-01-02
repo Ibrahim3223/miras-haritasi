@@ -1,18 +1,17 @@
 ---
-title: "Ak Cami | Miras Haritası"
-date: 2025-12-24T22:59:23+03:00
+title: "Ak Cami"
+date: "2025-12-24T22:59:23+03:00"
 slug: "ak-cami"
 description: "### Ak Cami Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ŞAZİBEY_CAMİ_(akcami)_-_panoramio.jpg/1200px-ŞAZİBEY_CAMİ_(akcami)_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4912033,37.8743782"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ak Cami Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Ayşe Sıdıka Erke Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:16:21+03:00
+title: "Ayşe Sıdıka Erke Etnografya Müzesi"
+date: "2025-12-25T03:16:21+03:00"
 slug: "ayse-sidika-erke-etnografya-muzesi"
 description: "## Ayşe Sıdıka Erke Etnografya Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.0199686,39.5915839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayşe Sıdıka Erke Etnografya Müzesi

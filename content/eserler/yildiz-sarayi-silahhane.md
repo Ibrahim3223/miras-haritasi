@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Sarayı Silahhane | Miras Haritası"
-date: 2025-12-25T17:56:01+03:00
+title: "Yıldız Sarayı Silahhane"
+date: "2025-12-25T17:56:01+03:00"
 slug: "yildiz-sarayi-silahhane"
 description: "## Yıldız Sarayı Silahhane..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.0111504,41.0492401"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldız Sarayı Silahhane

@@ -1,18 +1,17 @@
 ---
-title: "Fındıkpınar Kalesi | Miras Haritası"
-date: 2025-12-25T01:29:25+03:00
+title: "Fındıkpınar Kalesi"
+date: "2025-12-25T01:29:25+03:00"
 slug: "findikpinar-kalesi"
 description: "# Fındıkpınar Kalesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mezitli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.3823318,36.9259453"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Fındıkpınar Kalesi

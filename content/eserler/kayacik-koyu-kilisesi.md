@@ -1,18 +1,17 @@
 ---
-title: "Kayacık Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:15:59+03:00
+title: "Kayacık Köyü Kilisesi"
+date: "2025-12-25T09:15:59+03:00"
 slug: "kayacik-koyu-kilisesi"
 description: "# Kayacık Köyü Kilisesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çamoluk"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.806914,40.205851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kayacık Köyü Kilisesi

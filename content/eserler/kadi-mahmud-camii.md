@@ -1,18 +1,17 @@
 ---
-title: "Kadı Mahmud Camii | Miras Haritası"
-date: 2025-12-24T23:41:57+03:00
+title: "Kadı Mahmud Camii"
+date: "2025-12-24T23:41:57+03:00"
 slug: "kadi-mahmud-camii"
 description: "## Kadı Mahmud Camii: Tarihî Bir Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.4752681,38.7406963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Mahmud Camii: Tarihî Bir Miras

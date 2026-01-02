@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Mahalle Çeşmesi, Yörük | Miras Haritası"
-date: 2025-12-25T12:29:03+03:00
+title: "Aşağı Mahalle Çeşmesi, Yörük"
+date: "2025-12-25T12:29:03+03:00"
 slug: "asagi-mahalle-cesmesi-yoruk"
 description: "## Aşağı Mahalle Çeşmesi, Yörük: Safranbolu'nun Gizli Çeşmesi..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.795432243,41.222875715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Mahalle Çeşmesi, Yörük: Safranbolu'nun Gizli Çeşmesi

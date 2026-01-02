@@ -1,18 +1,17 @@
 ---
-title: "Kırık Köprü | Miras Haritası"
-date: 2025-12-25T02:13:15+03:00
+title: "Kırık Köprü"
+date: "2025-12-25T02:13:15+03:00"
 slug: "kirik-kopru"
 description: "### Kırık Köprü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Siirt"
+province: "Siirt"
+iller: '["Siirt"]'
+district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.8469238,37.8127861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kırık Köprü: Tarihi ve Kültürel Bir Miras

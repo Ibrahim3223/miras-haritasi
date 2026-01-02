@@ -1,18 +1,17 @@
 ---
-title: "Müezzin Sultan Mezarı | Miras Haritası"
-date: 2025-12-25T13:27:18+03:00
+title: "Müezzin Sultan Mezarı"
+date: "2025-12-25T13:27:18+03:00"
 slug: "muezzin-sultan-mezari"
 description: "## Müezzin Sultan Mezarı: Edirne'nin Gizli Güzelliği..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.553196,41.678046"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müezzin Sultan Mezarı: Edirne'nin Gizli Güzelliği

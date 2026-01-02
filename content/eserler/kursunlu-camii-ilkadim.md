@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, İlkadım | Miras Haritası"
-date: 2025-12-24T23:59:04+03:00
+title: "Kurşunlu Camii, İlkadım"
+date: "2025-12-24T23:59:04+03:00"
 slug: "kursunlu-camii-ilkadim"
 description: "## Kurşunlu Camii: İlkadım'ın Yüzyıllar Önce İnşa Edilen Tarihi Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.3289757,41.2932854"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Camii: İlkadım'ın Yüzyıllar Önce İnşa Edilen Tarihi Bir Mirası

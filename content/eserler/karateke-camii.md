@@ -1,18 +1,17 @@
 ---
-title: "Karateke Camii | Miras Haritası"
-date: 2025-12-25T00:58:39+03:00
+title: "Karateke Camii"
+date: "2025-12-25T00:58:39+03:00"
 slug: "karateke-camii"
 description: "### Karateke Camii: Honaz'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Honaz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.218972,37.758897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karateke Camii: Honaz'da Bir Tarihî Miras

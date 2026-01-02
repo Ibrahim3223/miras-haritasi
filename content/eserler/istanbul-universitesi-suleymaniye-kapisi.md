@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Üniversitesi Süleymaniye Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:11+03:00
+title: "İstanbul Üniversitesi Süleymaniye Kapısı"
+date: "2025-12-25T15:37:11+03:00"
 slug: "istanbul-universitesi-suleymaniye-kapisi"
 description: "## İstanbul Üniversitesi Süleymaniye Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.964014,41.015038"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## İstanbul Üniversitesi Süleymaniye Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Türkistanlı Mencik Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:14+03:00
+title: "Türkistanlı Mencik Baba Türbesi"
+date: "2025-12-25T15:26:14+03:00"
 slug: "turkistanli-mencik-baba-turbesi"
 description: "## Türkistanlı Mencik Baba Türbesi..."
 featured_image: ""
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.9007797,36.9160767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türkistanlı Mencik Baba Türbesi

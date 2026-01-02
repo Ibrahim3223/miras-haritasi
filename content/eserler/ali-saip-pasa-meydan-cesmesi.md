@@ -1,18 +1,17 @@
 ---
-title: "Ali Saip Paşa Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:43+03:00
+title: "Ali Saip Paşa Meydan Çeşmesi"
+date: "2025-12-25T10:48:43+03:00"
 slug: "ali-saip-pasa-meydan-cesmesi"
 description: "## Ali Saip Paşa Meydan Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Talas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.558342,38.6870155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Saip Paşa Meydan Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası

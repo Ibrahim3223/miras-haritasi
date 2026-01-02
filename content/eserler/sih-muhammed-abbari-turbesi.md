@@ -1,18 +1,17 @@
 ---
-title: "Şıh Muhammed Abbari Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:07+03:00
+title: "Şıh Muhammed Abbari Türbesi"
+date: "2025-12-25T15:20:07+03:00"
 slug: "sih-muhammed-abbari-turbesi"
 description: "## Şıh Muhammed Abbari Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6215668,36.7979546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şıh Muhammed Abbari Türbesi

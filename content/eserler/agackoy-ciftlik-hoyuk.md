@@ -1,18 +1,17 @@
 ---
-title: "Ağaçköy Çiftlik Höyük | Miras Haritası"
-date: 2025-12-25T05:48:08+03:00
+title: "Ağaçköy Çiftlik Höyük"
+date: "2025-12-25T05:48:08+03:00"
 slug: "agackoy-ciftlik-hoyuk"
 description: "## Ağaçköy Çiftlik Höyük: Bayramiç'in Gizli Tarihi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.57035,39.815733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağaçköy Çiftlik Höyük: Bayramiç'in Gizli Tarihi

@@ -1,18 +1,17 @@
 ---
-title: "Gündoğdu Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:48:47+03:00
+title: "Gündoğdu Sokak Çeşmesi"
+date: "2025-12-25T10:48:47+03:00"
 slug: "gundogdu-sokak-cesmesi"
 description: "# Gündoğdu Sokak Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9546661,40.7942162"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gündoğdu Sokak Çeşmesi

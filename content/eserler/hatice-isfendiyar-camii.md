@@ -1,18 +1,17 @@
 ---
-title: "Hatice İsfendiyar Camii | Miras Haritası"
-date: 2025-12-24T23:34:23+03:00
+title: "Hatice İsfendiyar Camii"
+date: "2025-12-24T23:34:23+03:00"
 slug: "hatice-isfendiyar-camii"
 description: "# Hatice İsfendiyar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/20250408_Hatice_Isfendiyar_Camii_2.jpg/1200px-20250408_Hatice_Isfendiyar_Camii_2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0750542,40.1856308"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hatice İsfendiyar Camii

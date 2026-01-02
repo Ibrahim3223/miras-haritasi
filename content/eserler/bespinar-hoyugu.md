@@ -1,18 +1,17 @@
 ---
-title: "Beşpınar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:45:28+03:00
+title: "Beşpınar Höyüğü"
+date: "2025-12-25T06:45:28+03:00"
 slug: "bespinar-hoyugu"
 description: "## Beşpınar Höyüğü: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.8463776,40.0372654"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşpınar Höyüğü: Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Havuz-Aslantaş | Miras Haritası"
-date: 2025-12-25T08:30:59+03:00
+title: "Havuz-Aslantaş"
+date: "2025-12-25T08:30:59+03:00"
 slug: "havuz-aslantas"
 description: "## Havuz-Aslantaş: Kangal'ın Eski Çağ Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Havuz-Aslantaş.jpg/1200px-Havuz-Aslantaş.jpg"
 province: "Kangal"
-iller: ["Kangal"]
+iller: '["Kangal"]'
 district: "Havuz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.113688877,39.175799726"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Havuz-Aslantaş: Kangal'ın Eski Çağ Mirası

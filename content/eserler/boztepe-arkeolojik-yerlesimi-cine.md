@@ -1,18 +1,17 @@
 ---
-title: "Boztepe Arkeolojik Yerleşimi, Çine | Miras Haritası"
-date: 2025-12-25T06:06:06+03:00
+title: "Boztepe Arkeolojik Yerleşimi, Çine"
+date: "2025-12-25T06:06:06+03:00"
 slug: "boztepe-arkeolojik-yerlesimi-cine"
 description: "## Boztepe Arkeolojik Yerleşimi: Aydın'ın Gizli Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0078201,37.7128563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boztepe Arkeolojik Yerleşimi: Aydın'ın Gizli Mirası

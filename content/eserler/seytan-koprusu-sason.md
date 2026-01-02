@@ -1,18 +1,17 @@
 ---
-title: "Şeytan Köprüsü, Sason | Miras Haritası"
-date: 2025-12-25T02:51:06+03:00
+title: "Şeytan Köprüsü, Sason"
+date: "2025-12-25T02:51:06+03:00"
 slug: "seytan-koprusu-sason"
 description: "## Şeytan Köprüsü, Sason..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.338974,38.464111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeytan Köprüsü, Sason

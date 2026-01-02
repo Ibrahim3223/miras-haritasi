@@ -1,18 +1,17 @@
 ---
-title: "Kedrai Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:21:44+03:00
+title: "Kedrai Antik Tiyatrosu"
+date: "2025-12-25T16:21:44+03:00"
 slug: "kedrai-antik-tiyatrosu"
 description: "## Kedrai Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.205996,36.992607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kedrai Antik Tiyatrosu

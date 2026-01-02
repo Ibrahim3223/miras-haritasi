@@ -1,18 +1,17 @@
 ---
-title: "Abdülmümin Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:48:27+03:00
+title: "Abdülmümin Ağa Çeşmesi"
+date: "2025-12-25T11:48:27+03:00"
 slug: "abdulmumin-aga-cesmesi"
 description: "### Abdülmümin Ağa Çeşmesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Hacımimi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9757786,41.0272636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdülmümin Ağa Çeşmesi

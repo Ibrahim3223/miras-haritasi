@@ -1,18 +1,17 @@
 ---
-title: "Büyükada Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:18:04+03:00
+title: "Büyükada Çeşmesi"
+date: "2025-12-25T11:18:04+03:00"
 slug: "buyukada-cesmesi"
 description: "## Büyükada Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.115883,40.862083"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükada Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Değirmendere Gözlem Kulesi | Miras Haritası"
-date: 2025-12-25T01:37:24+03:00
+title: "Değirmendere Gözlem Kulesi"
+date: "2025-12-25T01:37:24+03:00"
 slug: "degirmendere-gozlem-kulesi"
 description: "## Değirmendere Gözlem Kulesi: Osmaniye'nin Gizli Çehresini İnceleyin..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Kadirli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.2389755,37.6548042"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmendere Gözlem Kulesi: Osmaniye'nin Gizli Çehresini İnceleyin

@@ -1,18 +1,17 @@
 ---
-title: "Şehit Madam Erika Mezarı | Miras Haritası"
-date: 2025-12-25T13:25:37+03:00
+title: "Şehit Madam Erika Mezarı"
+date: "2025-12-25T13:25:37+03:00"
 slug: "sehit-madam-erika-mezari"
 description: "# Şehit Madam Erika Mezarı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.4051247,40.2606659"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şehit Madam Erika Mezarı

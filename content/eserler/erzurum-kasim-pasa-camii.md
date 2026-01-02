@@ -1,18 +1,17 @@
 ---
-title: "Erzurum Kasım Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:44:14+03:00
+title: "Erzurum Kasım Paşa Camii"
+date: "2025-12-24T21:44:14+03:00"
 slug: "erzurum-kasim-pasa-camii"
 description: "# Erzurum Kasım Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Erzurum_Kasım_Paşa_Camii.jpg/1200px-Erzurum_Kasım_Paşa_Camii.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.276972222,39.910694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Erzurum Kasım Paşa Camii

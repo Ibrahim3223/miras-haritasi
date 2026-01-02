@@ -1,18 +1,17 @@
 ---
-title: "Emir Yavaşgel Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:52+03:00
+title: "Emir Yavaşgel Türbesi"
+date: "2025-12-25T14:57:52+03:00"
 slug: "emir-yavasgel-turbesi"
 description: "## Emir Yavaşgel Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.5676842,38.2683182"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Yavaşgel Türbesi

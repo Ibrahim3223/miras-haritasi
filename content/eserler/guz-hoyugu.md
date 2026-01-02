@@ -1,18 +1,17 @@
 ---
-title: "Güz höyüğü | Miras Haritası"
-date: 2025-12-25T13:47:21+03:00
+title: "Güz höyüğü"
+date: "2025-12-25T13:47:21+03:00"
 slug: "guz-hoyugu"
 description: "## Güz Höyüğü..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sorgun"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.2058226,39.7816111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güz Höyüğü

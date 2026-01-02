@@ -1,18 +1,17 @@
 ---
-title: "Hızırbey Camii, Sivrihisar | Miras Haritası"
-date: 2025-12-25T00:09:18+03:00
+title: "Hızırbey Camii, Sivrihisar"
+date: "2025-12-25T00:09:18+03:00"
 slug: "hizirbey-camii-sivrihisar"
 description: "### Hızırbey Camii Tanıtımı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.538105,39.4518509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hızırbey Camii Tanıtımı

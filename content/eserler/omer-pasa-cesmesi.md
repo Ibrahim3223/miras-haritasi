@@ -1,18 +1,17 @@
 ---
-title: "Ömer Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:41:15+03:00
+title: "Ömer Paşa Çeşmesi"
+date: "2025-12-25T11:41:15+03:00"
 slug: "omer-pasa-cesmesi"
 description: "### Ömer Paşa Çeşmesi: Yakutiye'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2705994,39.9020004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ömer Paşa Çeşmesi: Yakutiye'nin Tarihi Bir Çeşmesi

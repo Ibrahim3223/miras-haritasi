@@ -1,18 +1,17 @@
 ---
-title: "Kaykubadiye | Miras Haritası"
-date: 2025-12-25T13:11:36+03:00
+title: "Kaykubadiye"
+date: "2025-12-25T13:11:36+03:00"
 slug: "kaykubadiye"
 description: "## Kaykubadiye Sarayı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "35.419064,38.758166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaykubadiye Sarayı

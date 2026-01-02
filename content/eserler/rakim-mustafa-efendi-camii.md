@@ -1,18 +1,17 @@
 ---
-title: "Rakım Mustafa Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:52:33+03:00
+title: "Rakım Mustafa Efendi Camii"
+date: "2025-12-24T22:52:33+03:00"
 slug: "rakim-mustafa-efendi-camii"
 description: "## Rakım Mustafa Efendi Camii: Zeyrek'teki Bir Tarihi Çıkın..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Zeyrek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9506912,41.021843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rakım Mustafa Efendi Camii: Zeyrek'teki Bir Tarihi Çıkın

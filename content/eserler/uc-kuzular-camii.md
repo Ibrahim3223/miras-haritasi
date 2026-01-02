@@ -1,18 +1,17 @@
 ---
-title: "Üç Kuzular Camii | Miras Haritası"
-date: 2025-12-24T23:19:41+03:00
+title: "Üç Kuzular Camii"
+date: "2025-12-24T23:19:41+03:00"
 slug: "uc-kuzular-camii"
 description: "## Üç Kuzular Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.056633,40.1770935"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üç Kuzular Camii Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Herakleia Hamam ve Gymnasion Kompleksi | Miras Haritası"
-date: 2025-12-25T16:47:22+03:00
+title: "Herakleia Hamam ve Gymnasion Kompleksi"
+date: "2025-12-25T16:47:22+03:00"
 slug: "herakleia-hamam-ve-gymnasion-kompleksi"
 description: "## Herakleia Hamam ve Gymnasion Kompleksi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.527586,37.5028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Herakleia Hamam ve Gymnasion Kompleksi

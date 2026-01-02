@@ -1,18 +1,17 @@
 ---
-title: "Murat Höyük | Miras Haritası"
-date: 2025-12-25T06:01:15+03:00
+title: "Murat Höyük"
+date: "2025-12-25T06:01:15+03:00"
 slug: "murat-hoyuk"
 description: "## Murat Höyük: Bingöl'un Gizli Çarpıntısı..."
 featured_image: ""
 province: "Bingöl"
-iller: ["Bingöl"]
+iller: '["Bingöl"]'
 district: "Solhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.9619522,38.8904877"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Murat Höyük: Bingöl'un Gizli Çarpıntısı

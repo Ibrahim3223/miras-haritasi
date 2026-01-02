@@ -1,18 +1,17 @@
 ---
-title: "Selime Kalesi | Miras Haritası"
-date: 2025-12-25T01:45:23+03:00
+title: "Selime Kalesi"
+date: "2025-12-25T01:45:23+03:00"
 slug: "selime-kalesi"
 description: "### Selime Kalesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Güzelyurt"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.2597466,38.3027916"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Selime Kalesi: Tarihi ve Kültürel Mirasımız

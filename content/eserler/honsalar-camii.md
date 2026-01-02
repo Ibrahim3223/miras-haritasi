@@ -1,18 +1,17 @@
 ---
-title: "Honsalar Camii | Miras Haritası"
-date: 2025-12-24T23:34:39+03:00
+title: "Honsalar Camii"
+date: "2025-12-24T23:34:39+03:00"
 slug: "honsalar-camii"
 description: "## Honsalar Camii: Kastamonu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7710266,41.3798676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Honsalar Camii: Kastamonu'nun Tarihî Mirası

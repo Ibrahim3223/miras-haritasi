@@ -1,18 +1,17 @@
 ---
-title: "Hoca Bali Camii | Miras Haritası"
-date: 2025-12-25T01:10:54+03:00
+title: "Hoca Bali Camii"
+date: "2025-12-25T01:10:54+03:00"
 slug: "hoca-bali-camii"
 description: "## Hoca Bali Camii: Edirne'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5587177,41.6688271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Bali Camii: Edirne'nin Gizli Mücevheri

@@ -1,18 +1,17 @@
 ---
-title: "Aktaş Mevkii Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:13+03:00
+title: "Aktaş Mevkii Tümülüsü"
+date: "2025-12-25T07:35:13+03:00"
 slug: "aktas-mevkii-tumulusu"
 description: "### Aktaş Mevkii Tümülüsü: Ezine'nin Gizli Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.157876865,39.728144934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aktaş Mevkii Tümülüsü: Ezine'nin Gizli Mirası

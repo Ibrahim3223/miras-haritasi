@@ -1,18 +1,17 @@
 ---
-title: "Kasystes | Miras Haritası"
-date: 2025-12-25T04:57:13+03:00
+title: "Kasystes"
+date: "2025-12-25T04:57:13+03:00"
 slug: "kasystes"
 description: "## Kasystes: Urla'nın Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.556854,38.148389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasystes: Urla'nın Gizli Kahramanı

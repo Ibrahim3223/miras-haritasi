@@ -1,18 +1,17 @@
 ---
-title: "Ali Cafer Kümbeti | Miras Haritası"
-date: 2025-12-25T14:01:38+03:00
+title: "Ali Cafer Kümbeti"
+date: "2025-12-25T14:01:38+03:00"
 slug: "ali-cafer-kumbeti"
 description: "### Ali Cafer Kümbeti: Tarih Öncesi'nden Günümüze Bir Anıt..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Cafer Kümbeti: Tarih Öncesi'nden Günümüze Bir Anıt

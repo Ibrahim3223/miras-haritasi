@@ -1,18 +1,17 @@
 ---
-title: "Akhkos Monastery | Miras Haritası"
-date: 2025-12-25T09:50:27+03:00
+title: "Akhkos Monastery"
+date: "2025-12-25T09:50:27+03:00"
 slug: "akhkos-monastery"
 description: "## Akhkos Manastırı: Kars'taki Bir Kıpti Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akhkos Manastırı: Kars'taki Bir Kıpti Mirası

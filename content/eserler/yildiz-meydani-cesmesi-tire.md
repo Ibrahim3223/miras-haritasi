@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Meydanı Çeşmesi, Tire | Miras Haritası"
-date: 2025-12-25T12:50:31+03:00
+title: "Yıldız Meydanı Çeşmesi, Tire"
+date: "2025-12-25T12:50:31+03:00"
 slug: "yildiz-meydani-cesmesi-tire"
 description: "## Yıldız Meydanı Çeşmesi: Tire'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7353935,38.0876312"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıldız Meydanı Çeşmesi: Tire'nin Tarihi ve Kültürel Mirası

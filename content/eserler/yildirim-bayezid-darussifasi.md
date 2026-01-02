@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Bayezid Darüşşifası | Miras Haritası"
-date: 2025-12-25T17:31:45+03:00
+title: "Yıldırım Bayezid Darüşşifası"
+date: "2025-12-25T17:31:45+03:00"
 slug: "yildirim-bayezid-darussifasi"
 description: "# Yıldırım Bayezid Darüşşifası: Bursa'nın Ölümsüz Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0856018,40.1862488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yıldırım Bayezid Darüşşifası: Bursa'nın Ölümsüz Mirası

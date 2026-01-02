@@ -1,18 +1,17 @@
 ---
-title: "Domitiopolis | Miras Haritası"
-date: 2025-12-25T05:23:17+03:00
+title: "Domitiopolis"
+date: "2025-12-25T05:23:17+03:00"
 slug: "domitiopolis"
 description: "## Domitiopolis: Eski Anadolu'nın Gizli Yerleri Arasında Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.753914,36.750884"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Domitiopolis: Eski Anadolu'nın Gizli Yerleri Arasında Bir Arkeolojik Sit

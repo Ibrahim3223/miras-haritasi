@@ -1,18 +1,17 @@
 ---
-title: "Eskişehir Ticaret ve Sanayi Müzesi | Miras Haritası"
-date: 2025-12-25T04:08:15+03:00
+title: "Eskişehir Ticaret ve Sanayi Müzesi"
+date: "2025-12-25T04:08:15+03:00"
 slug: "eskisehir-ticaret-ve-sanayi-muzesi"
 description: "## Eskişehir Ticaret ve Sanayi Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.523222,39.7648239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir Ticaret ve Sanayi Müzesi

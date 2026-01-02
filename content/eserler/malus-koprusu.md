@@ -1,18 +1,17 @@
 ---
-title: "Malus Köprüsü | Miras Haritası"
-date: 2025-12-25T02:28:37+03:00
+title: "Malus Köprüsü"
+date: "2025-12-25T02:28:37+03:00"
 slug: "malus-koprusu"
 description: "**Malus Köprüsü**..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Yumurtalık"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.486836,36.757771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Malus Köprüsü**

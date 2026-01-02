@@ -1,18 +1,17 @@
 ---
-title: "Saimbeyli Merkez Camii | Miras Haritası"
-date: 2025-12-24T22:40:57+03:00
+title: "Saimbeyli Merkez Camii"
+date: "2025-12-24T22:40:57+03:00"
 slug: "saimbeyli-merkez-camii"
 description: "**Saimbeyli Merkez Camii: Adana'nın Gözdelerinden Bir Örnek**..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Saimbeyli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.0888824,37.9855309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Saimbeyli Merkez Camii: Adana'nın Gözdelerinden Bir Örnek**

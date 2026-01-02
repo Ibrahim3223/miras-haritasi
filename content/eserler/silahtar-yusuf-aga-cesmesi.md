@@ -1,18 +1,17 @@
 ---
-title: "Silahtar Yusuf Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:09:01+03:00
+title: "Silahtar Yusuf Ağa Çeşmesi"
+date: "2025-12-25T12:09:01+03:00"
 slug: "silahtar-yusuf-aga-cesmesi"
 description: "### Silahtar Yusuf Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.952244,41.08384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Silahtar Yusuf Ağa Çeşmesi

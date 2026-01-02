@@ -1,18 +1,17 @@
 ---
-title: "Pınarlı Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:38:08+03:00
+title: "Pınarlı Köyü Camii"
+date: "2025-12-24T22:38:08+03:00"
 slug: "pinarli-koyu-camii"
 description: "## Pınarlı Köyü Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.4640923,41.3554306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pınarlı Köyü Camii: Artvin'in Tarihi Bir Mirası

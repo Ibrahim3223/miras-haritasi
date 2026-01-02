@@ -1,18 +1,17 @@
 ---
-title: "Veli Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:35:05+03:00
+title: "Veli Dede Türbesi"
+date: "2025-12-25T14:35:05+03:00"
 slug: "veli-dede-turbesi"
 description: "## Veli Dede Türbesi: Çankırı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.621476,40.602501"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veli Dede Türbesi: Çankırı'nın Gizli Cenneti

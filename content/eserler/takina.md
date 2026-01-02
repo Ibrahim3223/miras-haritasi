@@ -1,18 +1,17 @@
 ---
-title: "Takina | Miras Haritası"
-date: 2025-12-25T05:17:24+03:00
+title: "Takina"
+date: "2025-12-25T05:17:24+03:00"
 slug: "takina"
 description: "## Takina: Bir Arkeolojik Sitin Gizemi ve Özellikleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.9341495,37.596278"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Takina: Bir Arkeolojik Sitin Gizemi ve Özellikleri

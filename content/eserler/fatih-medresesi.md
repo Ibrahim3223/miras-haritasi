@@ -1,18 +1,17 @@
 ---
-title: "Fatih Medresesi | Miras Haritası"
-date: 2025-12-25T17:42:04+03:00
+title: "Fatih Medresesi"
+date: "2025-12-25T17:42:04+03:00"
 slug: "fatih-medresesi"
 description: "## Fatih Medresesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "39.7198257,41.0047798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatih Medresesi

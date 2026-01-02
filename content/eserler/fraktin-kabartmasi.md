@@ -1,18 +1,17 @@
 ---
-title: "Fraktin Kabartması | Miras Haritası"
-date: 2025-12-25T13:41:36+03:00
+title: "Fraktin Kabartması"
+date: "2025-12-25T13:41:36+03:00"
 slug: "fraktin-kabartmasi"
 description: "## Fraktin Kabartması: Kayseri'nin Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Felsrelief_von_Firaktin.jpg/1200px-Felsrelief_von_Firaktin.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.63166667,38.27166667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fraktin Kabartması: Kayseri'nin Gizli Anıtı

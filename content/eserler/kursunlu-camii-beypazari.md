@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, Beypazarı | Miras Haritası"
-date: 2025-12-24T23:57:18+03:00
+title: "Kurşunlu Camii, Beypazarı"
+date: "2025-12-24T23:57:18+03:00"
 slug: "kursunlu-camii-beypazari"
 description: "## Kurşunlu Camii, Beypazarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Beypazari_Tasmektep_06065.JPG/1200px-Beypazari_Tasmektep_06065.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9187965,40.1695938"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kurşunlu Camii, Beypazarı

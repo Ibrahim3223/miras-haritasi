@@ -1,18 +1,17 @@
 ---
-title: "Kadı Fazlullah Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:47+03:00
+title: "Kadı Fazlullah Efendi Türbesi"
+date: "2025-12-25T15:29:47+03:00"
 slug: "kadi-fazlullah-efendi-turbesi"
 description: "## Kadı Fazlullah Efendi Türbesi: Kocaeli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4397545,40.797142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Fazlullah Efendi Türbesi: Kocaeli'nin Gizli Cenneti

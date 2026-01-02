@@ -1,18 +1,17 @@
 ---
-title: "Kale Kapısı, Kuşadası | Miras Haritası"
-date: 2025-12-25T13:15:54+03:00
+title: "Kale Kapısı, Kuşadası"
+date: "2025-12-25T13:15:54+03:00"
 slug: "kale-kapisi-kusadasi"
 description: "## Kuşadası'nın Gizli Çehresi: Kale Kapısı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2582703,37.859108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuşadası'nın Gizli Çehresi: Kale Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Hoca Köyü Sahil Camii | Miras Haritası"
-date: 2025-12-24T23:34:47+03:00
+title: "Hüseyin Hoca Köyü Sahil Camii"
+date: "2025-12-24T23:34:47+03:00"
 slug: "huseyin-hoca-koyu-sahil-camii"
 description: "## Hüseyin Hoca Köyü Sahil Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Kalkandere"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.420567,40.905359"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Hoca Köyü Sahil Camii

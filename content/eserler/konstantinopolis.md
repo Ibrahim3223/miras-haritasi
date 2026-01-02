@@ -1,18 +1,17 @@
 ---
-title: "Konstantinopolis | Miras Haritası"
-date: 2025-12-25T04:18:44+03:00
+title: "Konstantinopolis"
+date: "2025-12-25T04:18:44+03:00"
 slug: "konstantinopolis"
 description: "## Konstantinopolis: Tarihî Bir Kentin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Byzantine_Constantinople-en.png/1200px-Byzantine_Constantinople-en.png"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.98,41.0125"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Konstantinopolis: Tarihî Bir Kentin İzleri

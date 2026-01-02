@@ -1,18 +1,17 @@
 ---
-title: "Kızbacı Tepesi | Miras Haritası"
-date: 2025-12-25T05:38:46+03:00
+title: "Kızbacı Tepesi"
+date: "2025-12-25T05:38:46+03:00"
 slug: "kizbaci-tepesi"
 description: "### Kızbacı Tepesi: Salihli'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.088271,38.657327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızbacı Tepesi: Salihli'nin Gizli Hazinesi

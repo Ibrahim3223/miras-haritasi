@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Kavaklıdere | Miras Haritası"
-date: 2025-12-25T03:00:32+03:00
+title: "Roma Köprüsü, Kavaklıdere"
+date: "2025-12-25T03:00:32+03:00"
 slug: "roma-koprusu-kavaklidere"
 description: "## Roma Köprüsü, Kavaklıdere..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Alucra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.814579,40.398392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Kavaklıdere

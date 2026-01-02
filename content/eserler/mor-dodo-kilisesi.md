@@ -1,18 +1,17 @@
 ---
-title: "Mor Dodo Kilisesi | Miras Haritası"
-date: 2025-12-25T09:09:56+03:00
+title: "Mor Dodo Kilisesi"
+date: "2025-12-25T09:09:56+03:00"
 slug: "mor-dodo-kilisesi"
 description: "## Mor Dodo Kilisesi: Şırnak'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "İdil"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.6189156,37.3091774"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mor Dodo Kilisesi: Şırnak'ın Tarihi Bir Mirası

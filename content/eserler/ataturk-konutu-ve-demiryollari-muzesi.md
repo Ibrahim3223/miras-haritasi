@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Konutu ve Demiryolları Müzesi | Miras Haritası"
-date: 2025-12-25T03:10:50+03:00
+title: "Atatürk Konutu ve Demiryolları Müzesi"
+date: "2025-12-25T03:10:50+03:00"
 slug: "ataturk-konutu-ve-demiryollari-muzesi"
 description: "## Atatürk Konutu ve Demiryolları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ataturk's_Coach_Ankara.JPG/1200px-Ataturk's_Coach_Ankara.JPG"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.84457,39.93546"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Atatürk Konutu ve Demiryolları Müzesi

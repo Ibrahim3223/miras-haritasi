@@ -1,18 +1,17 @@
 ---
-title: "Ağzıkaraca Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:25+03:00
+title: "Ağzıkaraca Kalesi"
+date: "2025-12-25T01:40:25+03:00"
 slug: "agzikaraca-kalesi"
 description: "**Ağzıkaraca Kalesi: Adana'nın Gizli Kahramanı**..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "İmamoğlu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.6599744,37.3356746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ağzıkaraca Kalesi: Adana'nın Gizli Kahramanı**

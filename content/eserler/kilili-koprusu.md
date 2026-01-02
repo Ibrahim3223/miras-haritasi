@@ -1,18 +1,17 @@
 ---
-title: "Kılılı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:31:06+03:00
+title: "Kılılı Köprüsü"
+date: "2025-12-25T02:31:06+03:00"
 slug: "kilili-koprusu"
 description: "### Kılılı Köprüsü..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Türkoğlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.89584,37.41471"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kılılı Köprüsü

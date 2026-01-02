@@ -1,18 +1,17 @@
 ---
-title: "Assos (Samian Ware Discovery Site) | Miras Haritası"
-date: 2025-12-25T05:25:06+03:00
+title: "Assos (Samian Ware Discovery Site)"
+date: "2025-12-25T05:25:06+03:00"
 slug: "assos-samian-ware-discovery-site"
 description: "### Assos (Samian Ware Discovery Site)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.31,39.5"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Assos (Samian Ware Discovery Site)

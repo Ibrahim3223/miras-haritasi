@@ -1,18 +1,17 @@
 ---
-title: "Karaabalar Ağaçsızhöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:45:22+03:00
+title: "Karaabalar Ağaçsızhöyük Tümülüsü"
+date: "2025-12-25T07:45:22+03:00"
 slug: "karaabalar-agacsizhoyuk-tumulusu"
 description: "## Karaabalar Ağaçsızhöyük Tümülüsü: Kırklareli'nin Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2940369,42.0712166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaabalar Ağaçsızhöyük Tümülüsü: Kırklareli'nin Gizemi

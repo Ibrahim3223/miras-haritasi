@@ -1,18 +1,17 @@
 ---
-title: "Zara Büyük Tarihi Hamam | Miras Haritası"
-date: 2025-12-25T16:30:40+03:00
+title: "Zara Büyük Tarihi Hamam"
+date: "2025-12-25T16:30:40+03:00"
 slug: "zara-buyuk-tarihi-hamam"
 description: "# Zara Büyük Tarihi Hamam: Sivas'ın Değerli Mimari Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Zara"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.7590262,39.8981074"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Zara Büyük Tarihi Hamam: Sivas'ın Değerli Mimari Mirası

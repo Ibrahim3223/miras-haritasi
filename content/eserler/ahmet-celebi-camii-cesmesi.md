@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Çelebi Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:12:42+03:00
+title: "Ahmet Çelebi Camii Çeşmesi"
+date: "2025-12-25T11:12:42+03:00"
 slug: "ahmet-celebi-camii-cesmesi"
 description: "## Ahmet Çelebi Camii Çeşmesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Aziz Mahmut Hüdayi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.013354,41.021709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Çelebi Camii Çeşmesi

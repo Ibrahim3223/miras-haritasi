@@ -1,18 +1,17 @@
 ---
-title: "Gökyurt Köprüsü | Miras Haritası"
-date: 2025-12-25T02:25:10+03:00
+title: "Gökyurt Köprüsü"
+date: "2025-12-25T02:25:10+03:00"
 slug: "gokyurt-koprusu"
 description: "### Gökyurt Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.206955,37.661968"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökyurt Köprüsü

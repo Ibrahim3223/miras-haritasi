@@ -1,18 +1,17 @@
 ---
-title: "Azize Euphemia Kilisesi | Miras Haritası"
-date: 2025-12-25T09:10:51+03:00
+title: "Azize Euphemia Kilisesi"
+date: "2025-12-25T09:10:51+03:00"
 slug: "azize-euphemia-kilisesi"
 description: "# Azize Euphemia Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.975029,41.007335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Azize Euphemia Kilisesi

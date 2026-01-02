@@ -1,18 +1,17 @@
 ---
-title: "Sinagog Kalıntısı | Miras Haritası"
-date: 2025-12-25T16:14:42+03:00
+title: "Sinagog Kalıntısı"
+date: "2025-12-25T16:14:42+03:00"
 slug: "sinagog-kalintisi"
 description: "### Sinagog Kalıntısı: Beyoğlu'ndaki Tarihi Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.952633105,41.041863251"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sinagog Kalıntısı: Beyoğlu'ndaki Tarihi Bir Miras

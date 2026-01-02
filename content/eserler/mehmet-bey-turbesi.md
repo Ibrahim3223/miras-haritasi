@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:42+03:00
+title: "Mehmet Bey Türbesi"
+date: "2025-12-25T14:39:42+03:00"
 slug: "mehmet-bey-turbesi"
 description: "## Mehmet Bey Türbesi: Karatay, Konya'da Bir Anıtın Tarihi ve Eğlenceli Hikayesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5053215,37.8705254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Bey Türbesi: Karatay, Konya'da Bir Anıtın Tarihi ve Eğlenceli Hikayesi

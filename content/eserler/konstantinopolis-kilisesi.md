@@ -1,18 +1,17 @@
 ---
-title: "Konstantinopolis Kilisesi | Miras Haritası"
-date: 2025-12-25T08:43:20+03:00
+title: "Konstantinopolis Kilisesi"
+date: "2025-12-25T08:43:20+03:00"
 slug: "konstantinopolis-kilisesi"
 description: "### Konstantinopolis Kilisesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Konstantinopolis Kilisesi

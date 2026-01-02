@@ -1,18 +1,17 @@
 ---
-title: "Züveroğlu Camii ve Çeşmesi | Miras Haritası"
-date: 2025-12-24T23:48:12+03:00
+title: "Züveroğlu Camii ve Çeşmesi"
+date: "2025-12-24T23:48:12+03:00"
 slug: "zuveroglu-camii-ve-cesmesi"
 description: "# Züveroğlu Camii ve Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1686325,36.2029228"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Züveroğlu Camii ve Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii | Miras Haritası"
-date: 2025-12-24T21:58:56+03:00
+title: "Hamidiye Camii"
+date: "2025-12-24T21:58:56+03:00"
 slug: "hamidiye-camii"
 description: "### Hamidiye Camii: İzmir'in Görsel Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hamidiye_Mosque.jpg/1200px-Hamidiye_Mosque.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.106805555,38.407194444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hamidiye Camii: İzmir'in Görsel Bir Mirası

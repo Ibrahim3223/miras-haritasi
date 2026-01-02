@@ -1,18 +1,17 @@
 ---
-title: "Diyarbakır Çermik İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:46+03:00
+title: "Diyarbakır Çermik İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:48:46+03:00"
 slug: "diyarbakir-cermik-ilce-halk-kutuphanesi"
 description: "# Diyarbakır Çermik İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çermik"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "39.461533728,38.135994141"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Diyarbakır Çermik İlçe Halk Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Yahşibey Köyü Eski Cami | Miras Haritası"
-date: 2025-12-24T23:44:24+03:00
+title: "Yahşibey Köyü Eski Cami"
+date: "2025-12-24T23:44:24+03:00"
 slug: "yahsibey-koyu-eski-cami"
 description: "### Yahşibey Köyü Eski Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.840681,39.031437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yahşibey Köyü Eski Cami

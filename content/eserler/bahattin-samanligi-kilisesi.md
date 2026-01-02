@@ -1,18 +1,17 @@
 ---
-title: "Bahattin Samanlığı Kilisesi | Miras Haritası"
-date: 2025-12-25T08:44:19+03:00
+title: "Bahattin Samanlığı Kilisesi"
+date: "2025-12-25T08:44:19+03:00"
 slug: "bahattin-samanligi-kilisesi"
 description: "## Bahattin Samanlığı Kilisesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahattin Samanlığı Kilisesi

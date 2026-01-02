@@ -1,18 +1,17 @@
 ---
-title: "Nilüfer Belediyesi Dr. Hüseyin Parkan Sanlıkol Müzik Enstrümanları Müzesi | Miras Haritası"
-date: 2025-12-25T03:11:48+03:00
+title: "Nilüfer Belediyesi Dr. Hüseyin Parkan Sanlıkol Müzik Enstrümanları Müzesi"
+date: "2025-12-25T03:11:48+03:00"
 slug: "nilufer-belediyesi-dr-huseyin-parkan-sanlikol-muzik-enstrumanlari-muzesi"
 description: "### Nilüfer Belediyesi Dr. Hüseyin Parkan Sanlıkol Müzik Enstrümanları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/H._Parkan_Sanlıkol_Müzesi-1,_2021.jpg/1200px-H._Parkan_Sanlıkol_Müzesi-1,_2021.jpg"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.998539871,40.210145538"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Nilüfer Belediyesi Dr. Hüseyin Parkan Sanlıkol Müzik Enstrümanları Müzesi

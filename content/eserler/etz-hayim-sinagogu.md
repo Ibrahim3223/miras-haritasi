@@ -1,18 +1,17 @@
 ---
-title: "Etz Hayim Sinagogu | Miras Haritası"
-date: 2025-12-25T16:14:18+03:00
+title: "Etz Hayim Sinagogu"
+date: "2025-12-25T16:14:18+03:00"
 slug: "etz-hayim-sinagogu"
 description: "# Etz Hayim Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Synagogue_Etz_Hahaim_-_alternatively_Etz_Haim_(Tree_of_Life),_circa_1700,_Izmir_(3439235934).jpg/1200px-Synagogue_Etz_Hahaim_-_alternatively_Etz_Haim_(Tree_of_Life),_circa_1700,_Izmir_(3439235934).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.136277777,38.419916666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Etz Hayim Sinagogu

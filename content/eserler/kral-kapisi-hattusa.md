@@ -1,18 +1,17 @@
 ---
-title: "Kral Kapısı, Hattuşa | Miras Haritası"
-date: 2025-12-25T13:17:17+03:00
+title: "Kral Kapısı, Hattuşa"
+date: "2025-12-25T13:17:17+03:00"
 slug: "kral-kapisi-hattusa"
 description: "## Kral Kapısı, Hattuşa..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/King's_Gate,_Hattusa.jpg/1200px-King's_Gate,_Hattusa.jpg"
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Boğazkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.622611,40.00925"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kral Kapısı, Hattuşa

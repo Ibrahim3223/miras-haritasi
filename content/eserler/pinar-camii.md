@@ -1,18 +1,17 @@
 ---
-title: "Pinar Camii | Miras Haritası"
-date: 2025-12-24T22:38:45+03:00
+title: "Pinar Camii"
+date: "2025-12-24T22:38:45+03:00"
 slug: "pinar-camii"
 description: "## Pinar Camii: Milas'ta Bir Önemli Cami Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9652157,37.0931168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pinar Camii: Milas'ta Bir Önemli Cami Mirası

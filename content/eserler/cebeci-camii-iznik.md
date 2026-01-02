@@ -1,18 +1,17 @@
 ---
-title: "Cebeci Camii, İznik | Miras Haritası"
-date: 2025-12-24T23:59:38+03:00
+title: "Cebeci Camii, İznik"
+date: "2025-12-24T23:59:38+03:00"
 slug: "cebeci-camii-iznik"
 description: "## Cebeci Camii: İznik'te Bir Örnek Osmanlı Mimarisi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.7161598,40.4317665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cebeci Camii: İznik'te Bir Örnek Osmanlı Mimarisi

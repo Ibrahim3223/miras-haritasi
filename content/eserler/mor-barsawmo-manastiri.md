@@ -1,18 +1,17 @@
 ---
-title: "Mor Barsawmo Manastırı | Miras Haritası"
-date: 2025-12-25T09:46:54+03:00
+title: "Mor Barsawmo Manastırı"
+date: "2025-12-25T09:46:54+03:00"
 slug: "mor-barsawmo-manastiri"
 description: "# Mor Barsawmo Manastırı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Malatya"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "38.7982,38.0623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mor Barsawmo Manastırı

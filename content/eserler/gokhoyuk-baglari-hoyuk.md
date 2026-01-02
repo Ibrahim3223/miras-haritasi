@@ -1,18 +1,17 @@
 ---
-title: "Gökhöyük Bağları Höyük | Miras Haritası"
-date: 2025-12-25T06:15:44+03:00
+title: "Gökhöyük Bağları Höyük"
+date: "2025-12-25T06:15:44+03:00"
 slug: "gokhoyuk-baglari-hoyuk"
 description: "### Gökhöyük Bağları Höyük: Seydişehir'in Gizli Mücevheri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.955719,37.4126282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gökhöyük Bağları Höyük: Seydişehir'in Gizli Mücevheri

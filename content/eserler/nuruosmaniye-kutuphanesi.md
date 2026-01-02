@@ -1,18 +1,17 @@
 ---
-title: "Nuruosmaniye Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:45:24+03:00
+title: "Nuruosmaniye Kütüphanesi"
+date: "2025-12-25T17:45:24+03:00"
 slug: "nuruosmaniye-kutuphanesi"
 description: "## Nuruosmaniye Kütüphanesi: İstanbul'un Eski Kentinde Gizli Bir İyilik..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.970873,41.010761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nuruosmaniye Kütüphanesi: İstanbul'un Eski Kentinde Gizli Bir İyilik

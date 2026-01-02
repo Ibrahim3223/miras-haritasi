@@ -1,18 +1,17 @@
 ---
-title: "Büyük Hamam, Gümüşhacıköy | Miras Haritası"
-date: 2025-12-25T16:51:14+03:00
+title: "Büyük Hamam, Gümüşhacıköy"
+date: "2025-12-25T16:51:14+03:00"
 slug: "buyuk-hamam-gumushacikoy"
 description: "# Büyük Hamam, Gümüşhacıköy..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Gümüşhacıköy"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.2172737,40.8729897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Büyük Hamam, Gümüşhacıköy

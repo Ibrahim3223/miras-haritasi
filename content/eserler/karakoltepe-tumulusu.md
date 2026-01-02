@@ -1,18 +1,17 @@
 ---
-title: "Karakoltepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:40:24+03:00
+title: "Karakoltepe Tümülüsü"
+date: "2025-12-25T07:40:24+03:00"
 slug: "karakoltepe-tumulusu"
 description: "## Karakoltepe Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7268066,41.9185257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakoltepe Tümülüsü

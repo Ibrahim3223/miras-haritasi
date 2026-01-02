@@ -1,18 +1,17 @@
 ---
-title: "Potamonion | Miras Haritası"
-date: 2025-12-25T04:46:54+03:00
+title: "Potamonion"
+date: "2025-12-25T04:46:54+03:00"
 slug: "potamonion"
 description: "## Potamonion: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.067005,41.082172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Potamonion: Tarihi ve Kültürel Mirasın Bir Parçası

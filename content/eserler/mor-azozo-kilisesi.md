@@ -1,18 +1,17 @@
 ---
-title: "Mor Azozo Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:00+03:00
+title: "Mor Azozo Kilisesi"
+date: "2025-12-25T09:21:00+03:00"
 slug: "mor-azozo-kilisesi"
 description: "### Mor Azazo Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.5280266,37.4436989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mor Azazo Kilisesi

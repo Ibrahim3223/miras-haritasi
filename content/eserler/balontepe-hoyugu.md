@@ -1,18 +1,17 @@
 ---
-title: "Balontepe Höyüğü | Miras Haritası"
-date: 2025-12-25T06:13:29+03:00
+title: "Balontepe Höyüğü"
+date: "2025-12-25T06:13:29+03:00"
 slug: "balontepe-hoyugu"
 description: "## Balontepe Höyüğü: Tarihî ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.335818411,39.79284152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balontepe Höyüğü: Tarihî ve Kültürel Mirasın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Hoca Ahmet Tûrânî Kabri | Miras Haritası"
-date: 2025-12-25T13:34:14+03:00
+title: "Hoca Ahmet Tûrânî Kabri"
+date: "2025-12-25T13:34:14+03:00"
 slug: "hoca-ahmet-trn-kabri"
 description: "## Hoca Ahmet Tûrânî Kabri: Beşiktaş'taki Bir Tarihsel Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0004902,41.0396729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hoca Ahmet Tûrânî Kabri: Beşiktaş'taki Bir Tarihsel Anıt

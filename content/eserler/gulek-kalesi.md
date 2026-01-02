@@ -1,18 +1,17 @@
 ---
-title: "Gülek Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:13+03:00
+title: "Gülek Kalesi"
+date: "2025-12-25T01:16:13+03:00"
 slug: "gulek-kalesi"
 description: "**Gülekkalesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gülek_Castle_gate.jpg/1200px-Gülek_Castle_gate.jpg"
 province: "Tarsus (ilçe)"
-iller: ["Tarsus (ilçe)"]
+iller: '["Tarsus (ilçe)"]'
 district: "Gülek"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.791389,37.27"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Gülekkalesi**

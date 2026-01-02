@@ -1,18 +1,17 @@
 ---
-title: "Ali Bey Çeşmesi, Silivri | Miras Haritası"
-date: 2025-12-25T12:17:06+03:00
+title: "Ali Bey Çeşmesi, Silivri"
+date: "2025-12-25T12:17:06+03:00"
 slug: "ali-bey-cesmesi-silivri"
 description: "## Ali Bey Çeşmesi, Silivri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2490225,41.0746928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Bey Çeşmesi, Silivri

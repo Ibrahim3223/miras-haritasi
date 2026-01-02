@@ -1,18 +1,17 @@
 ---
-title: "Dingilkalecik Tepe Höyük, Kavak | Miras Haritası"
-date: 2025-12-25T13:49:43+03:00
+title: "Dingilkalecik Tepe Höyük, Kavak"
+date: "2025-12-25T13:49:43+03:00"
 slug: "dingilkalecik-tepe-hoyuk-kavak"
 description: "## Dingilkalecik Tepe Höyük: Samsun'un Gizli Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.128115,41.025758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dingilkalecik Tepe Höyük: Samsun'un Gizli Anıtı

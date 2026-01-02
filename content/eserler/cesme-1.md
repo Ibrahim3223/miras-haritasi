@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 1 | Miras Haritası"
-date: 2025-12-25T10:33:21+03:00
+title: "Çeşme 1"
+date: "2025-12-25T10:33:21+03:00"
 slug: "cesme-1"
 description: "## Çeşme 1: Germencik'teki Bir Kültür Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Germencik"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4907417,37.90942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 1: Germencik'teki Bir Kültür Mirası

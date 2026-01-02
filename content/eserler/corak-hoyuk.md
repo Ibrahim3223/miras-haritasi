@@ -1,18 +1,17 @@
 ---
-title: "Çorak Höyük | Miras Haritası"
-date: 2025-12-25T06:33:26+03:00
+title: "Çorak Höyük"
+date: "2025-12-25T06:33:26+03:00"
 slug: "corak-hoyuk"
 description: "### Çorak Höyük: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.416015,39.6068195"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çorak Höyük: Türkiye'nin Gizli Kahramanı

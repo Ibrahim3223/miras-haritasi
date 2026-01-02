@@ -1,18 +1,17 @@
 ---
-title: "Büyük Sinan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:29+03:00
+title: "Büyük Sinan Çeşmesi"
+date: "2025-12-25T11:35:29+03:00"
 slug: "buyuk-sinan-cesmesi"
 description: "## Büyük Sinan Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5074806,37.8890038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Sinan Çeşmesi

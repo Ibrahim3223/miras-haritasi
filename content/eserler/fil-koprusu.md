@@ -1,18 +1,17 @@
 ---
-title: "Fil Köprüsü | Miras Haritası"
-date: 2025-12-25T01:57:49+03:00
+title: "Fil Köprüsü"
+date: "2025-12-25T01:57:49+03:00"
 slug: "fil-koprusu"
 description: "## Fil Köprüsü: İstanbul'un Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fil_köprüsü_-_panoramio_-_Allen_Turner_(1).jpg/1200px-Fil_köprüsü_-_panoramio_-_Allen_Turner_(1).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.94336,41.06917"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fil Köprüsü: İstanbul'un Gizli Mirası

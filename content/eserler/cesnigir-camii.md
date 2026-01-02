@@ -1,18 +1,17 @@
 ---
-title: "Çeşnigir Camii | Miras Haritası"
-date: 2025-12-24T21:39:51+03:00
+title: "Çeşnigir Camii"
+date: "2025-12-24T21:39:51+03:00"
 slug: "cesnigir-camii"
 description: "## Çeşnigir Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Manisa_Çesnigir_Camii_6160.jpg/1200px-Manisa_Çesnigir_Camii_6160.jpg"
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.432944444,38.611138888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çeşnigir Camii: Manisa'nın Tarihi Bir Mirası

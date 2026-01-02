@@ -1,18 +1,17 @@
 ---
-title: "Baş Pınar Höyük | Miras Haritası"
-date: 2025-12-25T05:57:21+03:00
+title: "Baş Pınar Höyük"
+date: "2025-12-25T05:57:21+03:00"
 slug: "bas-pinar-hoyuk"
 description: "## Baş Pınar Höyük..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.5033989,36.4812927"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baş Pınar Höyük

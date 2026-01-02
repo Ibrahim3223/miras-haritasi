@@ -1,18 +1,17 @@
 ---
-title: "Dereağzı Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:56+03:00
+title: "Dereağzı Kalesi"
+date: "2025-12-25T01:32:56+03:00"
 slug: "dereagzi-kalesi"
 description: "## Dereağzı Kalesi: Kaş'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.814996,36.334807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dereağzı Kalesi: Kaş'ın Gizli Kahramanı

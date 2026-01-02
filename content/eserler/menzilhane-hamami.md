@@ -1,18 +1,17 @@
 ---
-title: "Menzilhane Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:43+03:00
+title: "Menzilhane Hamamı"
+date: "2025-12-25T17:03:43+03:00"
 slug: "menzilhane-hamami"
 description: "## Menzilhane Hamamı: Gebze'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.4379883,40.7977867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Menzilhane Hamamı: Gebze'nin Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Beldeğirmen Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:43:40+03:00
+title: "Beldeğirmen Köyü Camii"
+date: "2025-12-25T00:43:40+03:00"
 slug: "beldegirmen-koyu-camii"
 description: "## Beldeğirmen Köyü Camii: Kastamonu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Bozkurt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.909907148,41.973427649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beldeğirmen Köyü Camii: Kastamonu'nun Gizli Cenneti

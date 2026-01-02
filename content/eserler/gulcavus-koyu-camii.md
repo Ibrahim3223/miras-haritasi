@@ -1,18 +1,17 @@
 ---
-title: "Gülçavuş Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:26:48+03:00
+title: "Gülçavuş Köyü Camii"
+date: "2025-12-24T23:26:48+03:00"
 slug: "gulcavus-koyu-camii"
 description: "### Gülçavuş Köyü Camii: Enez'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Enez"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.1680546,40.6226807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gülçavuş Köyü Camii: Enez'in Tarihî Bir Mirası

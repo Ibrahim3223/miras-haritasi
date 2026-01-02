@@ -1,18 +1,17 @@
 ---
-title: "Edirne Atatürk Anıtı | Miras Haritası"
-date: 2025-12-25T15:43:41+03:00
+title: "Edirne Atatürk Anıtı"
+date: "2025-12-25T15:43:41+03:00"
 slug: "edirne-ataturk-aniti"
 description: "## Edirne Atatürk Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.553527777,41.676777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Edirne Atatürk Anıtı

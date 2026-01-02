@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs T32 | Miras Haritası"
-date: 2025-12-25T07:59:55+03:00
+title: "Gordion Tümülüs T32"
+date: "2025-12-25T07:59:55+03:00"
 slug: "gordion-tumulus-t32"
 description: "**Gordion Tümülüs T32: Polatlı'da Antik Mirasın Gizemi**..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.995258,39.651447"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Gordion Tümülüs T32: Polatlı'da Antik Mirasın Gizemi**

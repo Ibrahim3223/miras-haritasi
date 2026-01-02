@@ -1,18 +1,17 @@
 ---
-title: "Fetih Baba Mescidi | Miras Haritası"
-date: 2025-12-24T23:01:44+03:00
+title: "Fetih Baba Mescidi"
+date: "2025-12-24T23:01:44+03:00"
 slug: "fetih-baba-mescidi"
 description: "## Fetih Baba Mescidi..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.1505623,42.0265121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fetih Baba Mescidi

@@ -1,18 +1,17 @@
 ---
-title: "Diacopa | Miras Haritası"
-date: 2025-12-25T05:40:11+03:00
+title: "Diacopa"
+date: "2025-12-25T05:40:11+03:00"
 slug: "diacopa"
 description: "## Diacopa: Bir Antik Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.200313,40.88652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Diacopa: Bir Antik Kentin İzleri

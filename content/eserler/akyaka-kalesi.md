@@ -1,18 +1,17 @@
 ---
-title: "Akyaka Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:52+03:00
+title: "Akyaka Kalesi"
+date: "2025-12-25T01:44:52+03:00"
 slug: "akyaka-kalesi"
 description: "# Akyaka Kalesi: Muğla'nın Gizli Çehresindeki Bir Harikadır..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Ula"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.3400269,37.0557404"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Akyaka Kalesi: Muğla'nın Gizli Çehresindeki Bir Harikadır

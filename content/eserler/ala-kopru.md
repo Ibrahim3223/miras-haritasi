@@ -1,18 +1,17 @@
 ---
-title: "Ala Köprü | Miras Haritası"
-date: 2025-12-25T02:28:18+03:00
+title: "Ala Köprü"
+date: "2025-12-25T02:28:18+03:00"
 slug: "ala-kopru"
 description: "**Ala Köprü: Mersin'in Tarihî ve Kültürel Mirası**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.894772,36.175109"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ala Köprü: Mersin'in Tarihî ve Kültürel Mirası**

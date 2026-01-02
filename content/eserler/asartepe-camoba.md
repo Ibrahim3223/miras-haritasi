@@ -1,18 +1,17 @@
 ---
-title: "Asartepe, Çamoba | Miras Haritası"
-date: 2025-12-25T01:49:03+03:00
+title: "Asartepe, Çamoba"
+date: "2025-12-25T01:49:03+03:00"
 slug: "asartepe-camoba"
 description: "## Asartepe, Çamoba: Ayvalık'ın Eski Kaleleri Arasından İlgi Çeken Bir Örneği..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.877466,39.300754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asartepe, Çamoba: Ayvalık'ın Eski Kaleleri Arasından İlgi Çeken Bir Örneği

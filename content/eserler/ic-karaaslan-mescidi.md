@@ -1,18 +1,17 @@
 ---
-title: "İç Karaaslan Mescidi | Miras Haritası"
-date: 2025-12-24T23:34:55+03:00
+title: "İç Karaaslan Mescidi"
+date: "2025-12-24T23:34:55+03:00"
 slug: "ic-karaaslan-mescidi"
 description: "## İç Karaaslan Mescidi: Konya'nın Gizli Bir Çağı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4996605,37.8743324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İç Karaaslan Mescidi: Konya'nın Gizli Bir Çağı

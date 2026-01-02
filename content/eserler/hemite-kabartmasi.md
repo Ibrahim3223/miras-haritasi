@@ -1,18 +1,17 @@
 ---
-title: "Hemite Kabartması | Miras Haritası"
-date: 2025-12-25T13:43:07+03:00
+title: "Hemite Kabartması"
+date: "2025-12-25T13:43:07+03:00"
 slug: "hemite-kabartmasi"
 description: "## Hemite Kabartması: Osmaniye'nin Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hemite4.jpg/1200px-Hemite4.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Osmaniye"
+province: "Osmaniye"
+iller: '["Osmaniye"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hemite Kabartması: Osmaniye'nin Gizli Anıtı

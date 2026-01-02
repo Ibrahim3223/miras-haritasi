@@ -1,18 +1,17 @@
 ---
-title: "Kaya Otel Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:50:55+03:00
+title: "Kaya Otel Çeşmesi"
+date: "2025-12-25T10:50:55+03:00"
 slug: "kaya-otel-cesmesi"
 description: "## Kaya Otel Çeşmesi: Ürgüp'te Bir Çağdaş Çeşme Eseri..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Ürgüp"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.9094124,38.6326523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaya Otel Çeşmesi: Ürgüp'te Bir Çağdaş Çeşme Eseri

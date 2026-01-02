@@ -1,18 +1,17 @@
 ---
-title: "Hacı Bayram-ı Kaftani Camii | Miras Haritası"
-date: 2025-12-24T22:55:58+03:00
+title: "Hacı Bayram-ı Kaftani Camii"
+date: "2025-12-24T22:55:58+03:00"
 slug: "haci-bayram-i-kaftani-camii"
 description: "## Hacı Bayram-ı Veli Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9465866,41.0095062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Bayram-ı Veli Camii

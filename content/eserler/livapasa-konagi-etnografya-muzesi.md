@@ -1,18 +1,17 @@
 ---
-title: "Livapaşa Konağı Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:23:00+03:00
+title: "Livapaşa Konağı Etnografya Müzesi"
+date: "2025-12-25T03:23:00+03:00"
 slug: "livapasa-konagi-etnografya-muzesi"
 description: "### Livapaşa Konağı Etnografya Müzesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.7755061,41.3750635"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Livapaşa Konağı Etnografya Müzesi

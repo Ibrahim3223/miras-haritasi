@@ -1,18 +1,17 @@
 ---
-title: "Taştepe Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:57+03:00
+title: "Taştepe Mahallesi Köprüsü"
+date: "2025-12-25T02:36:57+03:00"
 slug: "tastepe-mahallesi-koprusu"
 description: "## Taştepe Mahallesi Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Araklı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.9812,40.781664"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taştepe Mahallesi Köprüsü

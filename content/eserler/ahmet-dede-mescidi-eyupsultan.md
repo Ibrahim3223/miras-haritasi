@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Dede Mescidi, Eyüpsultan | Miras Haritası"
-date: 2025-12-25T00:07:29+03:00
+title: "Ahmet Dede Mescidi, Eyüpsultan"
+date: "2025-12-25T00:07:29+03:00"
 slug: "ahmet-dede-mescidi-eyupsultan"
 description: "### Ahmet Dede Mescidi, Eyüpsultan..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9315357,41.053566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Dede Mescidi, Eyüpsultan

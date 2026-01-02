@@ -1,18 +1,17 @@
 ---
-title: "Yavşan Camii | Miras Haritası"
-date: 2025-12-24T23:47:39+03:00
+title: "Yavşan Camii"
+date: "2025-12-24T23:47:39+03:00"
 slug: "yavsan-camii"
 description: "# Yavşan Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ordu"
+province: "Ordu"
+iller: '["Ordu"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.913874,40.47538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yavşan Camii

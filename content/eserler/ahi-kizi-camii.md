@@ -1,18 +1,17 @@
 ---
-title: "Ahi Kızı Camii | Miras Haritası"
-date: 2025-12-25T01:09:22+03:00
+title: "Ahi Kızı Camii"
+date: "2025-12-25T01:09:22+03:00"
 slug: "ahi-kizi-camii"
 description: "**Ahi Kızı Camii: Antalya'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.7038593,36.885498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ahi Kızı Camii: Antalya'nın Gizli Cenneti**

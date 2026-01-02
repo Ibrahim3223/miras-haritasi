@@ -1,18 +1,17 @@
 ---
-title: "ÇOMÜ Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:46:52+03:00
+title: "ÇOMÜ Kütüphanesi"
+date: "2025-12-25T17:46:52+03:00"
 slug: "comu-kutuphanesi"
 description: "### ÇOMÜ Kütüphanesi: Türkiye'nin Kültür ve Öğrenim Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "26.402731,40.145991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### ÇOMÜ Kütüphanesi: Türkiye'nin Kültür ve Öğrenim Mirası

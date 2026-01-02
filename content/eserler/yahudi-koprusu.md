@@ -1,18 +1,17 @@
 ---
-title: "Yahudi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:12:04+03:00
+title: "Yahudi Köprüsü"
+date: "2025-12-25T02:12:04+03:00"
 slug: "yahudi-koprusu"
 description: "## Yahudi Köprüsü: İstanbul'un Gizli Çehresinde Bir Köprü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9455681,41.0419807"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahudi Köprüsü: İstanbul'un Gizli Çehresinde Bir Köprü

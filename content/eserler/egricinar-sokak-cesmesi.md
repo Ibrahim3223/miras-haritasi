@@ -1,18 +1,17 @@
 ---
-title: "Eğriçınar Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:49+03:00
+title: "Eğriçınar Sokak Çeşmesi"
+date: "2025-12-25T11:50:49+03:00"
 slug: "egricinar-sokak-cesmesi"
 description: "## Eğriçınar Sokak Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0122299,41.0467796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eğriçınar Sokak Çeşmesi

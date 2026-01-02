@@ -1,18 +1,17 @@
 ---
-title: "Vaşlobi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:00+03:00
+title: "Vaşlobi Kilisesi"
+date: "2025-12-25T09:00:00+03:00"
 slug: "vaslobi-kilisesi"
 description: "### Vaşlobi Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Çıldır"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.159833333,41.270972222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Vaşlobi Kilisesi: Tarihî Bir Mirasın Gizemi

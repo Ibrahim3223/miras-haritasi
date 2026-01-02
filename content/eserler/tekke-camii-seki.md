@@ -1,18 +1,17 @@
 ---
-title: "Tekke Camii, Seki | Miras Haritası"
-date: 2025-12-25T00:29:42+03:00
+title: "Tekke Camii, Seki"
+date: "2025-12-25T00:29:42+03:00"
 slug: "tekke-camii-seki"
 description: "## Tekke Camii, Seki: Muğla'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.6621723,36.8041153"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tekke Camii, Seki: Muğla'nın Tarihi Bir Mirası

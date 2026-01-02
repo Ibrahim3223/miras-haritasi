@@ -1,18 +1,17 @@
 ---
-title: "Alarahan | Miras Haritası"
-date: 2025-12-25T13:37:53+03:00
+title: "Alarahan"
+date: "2025-12-25T13:37:53+03:00"
 slug: "alarahan"
 description: "### Alarahan Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tuerk40.jpg/1200px-Tuerk40.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.72361111,36.69222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Alarahan Anıtı

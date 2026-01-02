@@ -1,18 +1,17 @@
 ---
-title: "Tek Gözlü Köprü | Miras Haritası"
-date: 2025-12-25T02:10:40+03:00
+title: "Tek Gözlü Köprü"
+date: "2025-12-25T02:10:40+03:00"
 slug: "tek-gozlu-kopru"
 description: "## Tek Gözlü Köprü: Ardanuç'un Gizli Çehresini Keşfettik..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Ardanuç"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.976871,41.161306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tek Gözlü Köprü: Ardanuç'un Gizli Çehresini Keşfettik

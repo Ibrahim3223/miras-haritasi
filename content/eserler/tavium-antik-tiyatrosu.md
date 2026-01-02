@@ -1,18 +1,17 @@
 ---
-title: "Tavium Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:14:54+03:00
+title: "Tavium Antik Tiyatrosu"
+date: "2025-12-25T04:14:54+03:00"
 slug: "tavium-antik-tiyatrosu"
 description: "**Tavium Antik Tiyatrosu: Yozgat'ta Tarih ve Kültür**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.5071472,39.8583931"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tavium Antik Tiyatrosu: Yozgat'ta Tarih ve Kültür**

@@ -1,18 +1,17 @@
 ---
-title: "Niğdeli Şehit Ethem Onbaşı Anıtı | Miras Haritası"
-date: 2025-12-25T15:42:49+03:00
+title: "Niğdeli Şehit Ethem Onbaşı Anıtı"
+date: "2025-12-25T15:42:49+03:00"
 slug: "nigdeli-sehit-ethem-onbasi-aniti"
 description: "**Niğdeli Şehit Ethem Onbaşı Anıtı**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.197337913,41.748861503"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Niğdeli Şehit Ethem Onbaşı Anıtı**

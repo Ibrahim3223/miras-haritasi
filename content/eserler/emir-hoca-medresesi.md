@@ -1,18 +1,17 @@
 ---
-title: "Emir Hoca Medresesi | Miras Haritası"
-date: 2025-12-25T17:16:33+03:00
+title: "Emir Hoca Medresesi"
+date: "2025-12-25T17:16:33+03:00"
 slug: "emir-hoca-medresesi"
 description: "## Emir Hoca Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Türbe"
-turler: ["Türbe"]
+turler: '["Türbe"]'
 coords: "28.9602814,41.0142822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emir Hoca Medresesi

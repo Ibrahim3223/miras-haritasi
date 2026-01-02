@@ -1,18 +1,17 @@
 ---
-title: "Çetenli Köyü Kurganı | Miras Haritası"
-date: 2025-12-25T13:18:51+03:00
+title: "Çetenli Köyü Kurganı"
+date: "2025-12-25T13:18:51+03:00"
 slug: "cetenli-koyu-kurgani"
 description: "**Çetenli Köyü Kurganı**..."
 featured_image: ""
 province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
+iller: '["Erzurum Vilayeti"]'
 district: "Doğubayazıt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "44.0126724,39.4597511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çetenli Köyü Kurganı**

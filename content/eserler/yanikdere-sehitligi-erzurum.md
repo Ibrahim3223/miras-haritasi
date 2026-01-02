@@ -1,18 +1,17 @@
 ---
-title: "Yanıkdere Şehitliği, Erzurum | Miras Haritası"
-date: 2025-12-25T16:02:57+03:00
+title: "Yanıkdere Şehitliği, Erzurum"
+date: "2025-12-25T16:02:57+03:00"
 slug: "yanikdere-sehitligi-erzurum"
 description: "### Yanıkdere Şehitliği, Erzurum..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2936974,39.9278717"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yanıkdere Şehitliği, Erzurum

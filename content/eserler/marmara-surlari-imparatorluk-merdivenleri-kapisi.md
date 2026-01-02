@@ -1,18 +1,17 @@
 ---
-title: "Marmara Surları: İmparatorluk Merdivenleri Kapısı | Miras Haritası"
-date: 2025-12-25T13:16:06+03:00
+title: "Marmara Surları: İmparatorluk Merdivenleri Kapısı"
+date: "2025-12-25T13:16:06+03:00"
 slug: "marmara-surlari-imparatorluk-merdivenleri-kapisi"
 description: "### Marmara Surları: İmparatorluk Merdivenleri Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9756527,41.0023422"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Marmara Surları: İmparatorluk Merdivenleri Kapısı

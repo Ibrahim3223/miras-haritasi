@@ -1,18 +1,17 @@
 ---
-title: "Fenerbahçe Çeşmeleri | Miras Haritası"
-date: 2025-12-25T10:13:37+03:00
+title: "Fenerbahçe Çeşmeleri"
+date: "2025-12-25T10:13:37+03:00"
 slug: "fenerbahce-cesmeleri"
 description: "## Fenerbahçe Çeşmeleri: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fenerbahçe_Çeşmeleri.jpg/1200px-Fenerbahçe_Çeşmeleri.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.036472222,40.969305555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fenerbahçe Çeşmeleri: Tarihî Bir Mirasın Gizemi

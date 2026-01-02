@@ -1,18 +1,17 @@
 ---
-title: "Yörgüç Paşa Camii (Amasya) | Miras Haritası"
-date: 2025-12-24T23:57:05+03:00
+title: "Yörgüç Paşa Camii (Amasya)"
+date: "2025-12-24T23:57:05+03:00"
 slug: "yorguc-pasa-camii-amasya"
 description: "## Yörgüç Paşa Camii: Amasya'nın Tarihi Bir Ögesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8203278,40.6505127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yörgüç Paşa Camii: Amasya'nın Tarihi Bir Ögesi

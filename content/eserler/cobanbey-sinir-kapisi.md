@@ -1,18 +1,17 @@
 ---
-title: "Çobanbey Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:35:52+03:00
+title: "Çobanbey Sınır Kapısı"
+date: "2025-12-25T08:35:52+03:00"
 slug: "cobanbey-sinir-kapisi"
 description: "### Çobanbey Sınır Kapısı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "37.469999806,36.633973788"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çobanbey Sınır Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Beş Çeşmeler | Miras Haritası"
-date: 2025-12-25T11:00:21+03:00
+title: "Beş Çeşmeler"
+date: "2025-12-25T11:00:21+03:00"
 slug: "bes-cesmeler"
 description: "### Beş Çeşmeler: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Beş_Çeşmeler_1.jpg/1200px-Beş_Çeşmeler_1.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.12895,40.922031"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Beş Çeşmeler: İstanbul'un Tarihi ve Kültürel Mirası

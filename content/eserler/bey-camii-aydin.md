@@ -1,18 +1,17 @@
 ---
-title: "Bey Camii, Aydın | Miras Haritası"
-date: 2025-12-25T01:11:27+03:00
+title: "Bey Camii, Aydın"
+date: "2025-12-25T01:11:27+03:00"
 slug: "bey-camii-aydin"
 description: "## Bey Camii, Aydın..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8434219,37.84758"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bey Camii, Aydın

@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:34:43+03:00
+title: "Hüseyin Efendi Camii"
+date: "2025-12-24T23:34:43+03:00"
 slug: "huseyin-efendi-camii"
 description: "## Hüseyin Efendi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sivas"
+province: "Sivas"
+iller: '["Sivas"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.3057747,39.7703209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Efendi Camii

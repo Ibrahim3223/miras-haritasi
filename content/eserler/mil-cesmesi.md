@@ -1,18 +1,17 @@
 ---
-title: "Mil Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:58+03:00
+title: "Mil Çeşmesi"
+date: "2025-12-25T10:26:58+03:00"
 slug: "mil-cesmesi"
 description: "## Mil Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8720131,39.9350967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mil Çeşmesi

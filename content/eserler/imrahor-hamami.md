@@ -1,18 +1,17 @@
 ---
-title: "İmrahor Hamamı | Miras Haritası"
-date: 2025-12-25T16:58:40+03:00
+title: "İmrahor Hamamı"
+date: "2025-12-25T16:58:40+03:00"
 slug: "imrahor-hamami"
 description: "## İmrahor Hamamı: İstanbul'un Eski Kentini Yansıtan Bir Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9530659,41.0071335"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmrahor Hamamı: İstanbul'un Eski Kentini Yansıtan Bir Hamam

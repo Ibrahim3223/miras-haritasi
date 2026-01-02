@@ -1,18 +1,17 @@
 ---
-title: "Tepedoğan Höyük | Miras Haritası"
-date: 2025-12-25T13:47:39+03:00
+title: "Tepedoğan Höyük"
+date: "2025-12-25T13:47:39+03:00"
 slug: "tepedogan-hoyuk"
 description: "### Tepedoğan Höyük: Yozgat'ın Gizli Anıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Sarıkaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3150555,39.4161208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tepedoğan Höyük: Yozgat'ın Gizli Anıtı

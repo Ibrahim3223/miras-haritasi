@@ -1,18 +1,17 @@
 ---
-title: "Ballı Pınar Çeşmesi, Orta | Miras Haritası"
-date: 2025-12-25T12:30:17+03:00
+title: "Ballı Pınar Çeşmesi, Orta"
+date: "2025-12-25T12:30:17+03:00"
 slug: "balli-pinar-cesmesi-orta"
 description: "### Ballı Pınar Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Orta"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.987571569,40.600425248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ballı Pınar Çeşmesi

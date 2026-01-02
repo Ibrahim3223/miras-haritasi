@@ -1,18 +1,17 @@
 ---
-title: "Güneş Saati, İzmir Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T13:42:50+03:00
+title: "Güneş Saati, İzmir Arkeoloji Müzesi"
+date: "2025-12-25T13:42:50+03:00"
 slug: "gunes-saati-izmir-arkeoloji-muzesi"
 description: "### Güneş Saati, İzmir Arkeoloji Müzesi: Tarihi ve Kültürel Mirasın Parçası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1284313,38.4139214"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güneş Saati, İzmir Arkeoloji Müzesi: Tarihi ve Kültürel Mirasın Parçası

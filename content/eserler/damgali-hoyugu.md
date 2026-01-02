@@ -1,18 +1,17 @@
 ---
-title: "Damgalı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:42:45+03:00
+title: "Damgalı Höyüğü"
+date: "2025-12-25T06:42:45+03:00"
 slug: "damgali-hoyugu"
 description: "## Damgalı Höyüğü: İncilü bir Arkeolojik Sit..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Yüreğir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.4438203,36.9365386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Damgalı Höyüğü: İncilü bir Arkeolojik Sit

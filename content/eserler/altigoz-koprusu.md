@@ -1,18 +1,17 @@
 ---
-title: "Altıgöz Köprüsü | Miras Haritası"
-date: 2025-12-25T01:55:00+03:00
+title: "Altıgöz Köprüsü"
+date: "2025-12-25T01:55:00+03:00"
 slug: "altigoz-koprusu"
 description: "# Altıgöz Köprüsü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.54867363,38.76972961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Altıgöz Köprüsü

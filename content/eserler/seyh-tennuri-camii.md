@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Tennuri Camii | Miras Haritası"
-date: 2025-12-24T23:12:39+03:00
+title: "Şeyh Tennuri Camii"
+date: "2025-12-24T23:12:39+03:00"
 slug: "seyh-tennuri-camii"
 description: "### Şeyh Tennuri Camii: Kayseri'nin Görsel Bir Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kayseri_Şeyh_camii_Exterior_in_2005_008.jpg/1200px-Kayseri_Şeyh_camii_Exterior_in_2005_008.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4897766,38.7183151"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Şeyh Tennuri Camii: Kayseri'nin Görsel Bir Harikası

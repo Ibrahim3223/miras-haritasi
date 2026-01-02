@@ -1,18 +1,17 @@
 ---
-title: "Pervane Medresesi | Miras Haritası"
-date: 2025-12-25T17:23:05+03:00
+title: "Pervane Medresesi"
+date: "2025-12-25T17:23:05+03:00"
 slug: "pervane-medresesi"
 description: "### Pervane Medresesi Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pervane_Medresesi.JPG/1200px-Pervane_Medresesi.JPG"
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.14831,42.02693"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Pervane Medresesi Tanıtımı

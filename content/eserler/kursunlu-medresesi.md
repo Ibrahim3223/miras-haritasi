@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Medresesi | Miras Haritası"
-date: 2025-12-25T17:34:36+03:00
+title: "Kurşunlu Medresesi"
+date: "2025-12-25T17:34:36+03:00"
 slug: "kursunlu-medresesi"
 description: "## Kurşunlu Medresesi: Erzurum'un Gizli Cenneti..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "41.2756767,39.9086304"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kurşunlu Medresesi: Erzurum'un Gizli Cenneti

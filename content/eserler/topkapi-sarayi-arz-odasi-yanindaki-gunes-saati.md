@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Arz Odası Yanındaki Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:42:04+03:00
+title: "Topkapı Sarayı Arz Odası Yanındaki Güneş Saati"
+date: "2025-12-25T13:42:04+03:00"
 slug: "topkapi-sarayi-arz-odasi-yanindaki-gunes-saati"
 description: "## Topkapı Sarayı Arz Odası Yanındaki Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9847107,41.0127411"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Arz Odası Yanındaki Güneş Saati

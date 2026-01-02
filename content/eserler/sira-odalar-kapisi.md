@@ -1,18 +1,17 @@
 ---
-title: "Sıra Odalar Kapısı | Miras Haritası"
-date: 2025-12-25T15:38:44+03:00
+title: "Sıra Odalar Kapısı"
+date: "2025-12-25T15:38:44+03:00"
 slug: "sira-odalar-kapisi"
 description: "### Sıra Odalar Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.969696,41.0113525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sıra Odalar Kapısı

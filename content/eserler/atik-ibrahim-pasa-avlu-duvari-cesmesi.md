@@ -1,18 +1,17 @@
 ---
-title: "Atik İbrahim Paşa Avlu Duvarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:11:59+03:00
+title: "Atik İbrahim Paşa Avlu Duvarı Çeşmesi"
+date: "2025-12-25T11:11:59+03:00"
 slug: "atik-ibrahim-pasa-avlu-duvari-cesmesi"
 description: "## Atik İbrahim Paşa Avlu Duvarı Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Mercan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.967718,41.014676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atik İbrahim Paşa Avlu Duvarı Çeşmesi

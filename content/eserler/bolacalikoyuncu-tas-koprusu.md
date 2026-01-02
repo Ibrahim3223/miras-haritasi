@@ -1,18 +1,17 @@
 ---
-title: "Bolacalıkoyuncu Taş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:18:15+03:00
+title: "Bolacalıkoyuncu Taş Köprüsü"
+date: "2025-12-25T02:18:15+03:00"
 slug: "bolacalikoyuncu-tas-koprusu"
 description: "## Bolacalıkoyuncu Taş Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.9018974,36.3361816"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bolacalıkoyuncu Taş Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Çiftlik Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:24:18+03:00
+title: "Çiftlik Meydan Çeşmesi"
+date: "2025-12-25T12:24:18+03:00"
 slug: "ciftlik-meydan-cesmesi"
 description: "## Çiftlik Meydan Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.2783718,38.2908592"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çiftlik Meydan Çeşmesi

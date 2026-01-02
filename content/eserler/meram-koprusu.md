@@ -1,18 +1,17 @@
 ---
-title: "Meram Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:05+03:00
+title: "Meram Köprüsü"
+date: "2025-12-25T02:43:05+03:00"
 slug: "meram-koprusu"
 description: "## Meram Köprüsü: Bir Tarihî Köprünin Gizemi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.4211655,37.8530884"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meram Köprüsü: Bir Tarihî Köprünin Gizemi

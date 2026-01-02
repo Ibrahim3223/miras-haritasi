@@ -1,18 +1,17 @@
 ---
-title: "Çapalıbağ | Miras Haritası"
-date: 2025-12-25T06:05:15+03:00
+title: "Çapalıbağ"
+date: "2025-12-25T06:05:15+03:00"
 slug: "capalibag"
 description: "## Çapalıbağ: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0468731,37.3683395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çapalıbağ: Muğla'nın Gizli Cenneti

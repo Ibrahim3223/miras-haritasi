@@ -1,18 +1,17 @@
 ---
-title: "Alibey | Miras Haritası"
-date: 2025-12-25T05:32:33+03:00
+title: "Alibey"
+date: "2025-12-25T05:32:33+03:00"
 slug: "alibey"
 description: "## Alibey Arkeolojik Sit..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.159367,39.078767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alibey Arkeolojik Sit

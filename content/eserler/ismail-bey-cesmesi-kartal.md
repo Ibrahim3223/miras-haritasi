@@ -1,18 +1,17 @@
 ---
-title: "İsmail Bey Çeşmesi, Kartal | Miras Haritası"
-date: 2025-12-25T11:57:04+03:00
+title: "İsmail Bey Çeşmesi, Kartal"
+date: "2025-12-25T11:57:04+03:00"
 slug: "ismail-bey-cesmesi-kartal"
 description: "## İsmail Bey Çeşmesi: Kartal'da Bir Altın Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Smail_Bey_emesi_Kartal_1761583722.jpg/1200px-Smail_Bey_emesi_Kartal_1761583722.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.225942,40.919455"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İsmail Bey Çeşmesi: Kartal'da Bir Altın Çeşme

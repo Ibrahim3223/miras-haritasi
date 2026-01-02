@@ -1,18 +1,17 @@
 ---
-title: "Arykanda | Miras Haritası"
-date: 2025-12-25T04:21:11+03:00
+title: "Arykanda"
+date: "2025-12-25T04:21:11+03:00"
 slug: "arykanda"
 description: "## Arykanda: Antalya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Arykanda_Thermen.jpg/1200px-Arykanda_Thermen.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.06,36.51388889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Arykanda: Antalya'nın Gizli Cenneti

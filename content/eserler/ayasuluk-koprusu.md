@@ -1,18 +1,17 @@
 ---
-title: "Ayasuluk Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:21+03:00
+title: "Ayasuluk Köprüsü"
+date: "2025-12-25T02:16:21+03:00"
 slug: "ayasuluk-koprusu"
 description: "## Ayasuluk Köprüsü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.3825455,37.9790192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayasuluk Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

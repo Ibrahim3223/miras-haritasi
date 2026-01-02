@@ -1,18 +1,17 @@
 ---
-title: "Agios Yeorgios Kilisesi | Miras Haritası"
-date: 2025-12-25T09:08:14+03:00
+title: "Agios Yeorgios Kilisesi"
+date: "2025-12-25T09:08:14+03:00"
 slug: "agios-yeorgios-kilisesi"
 description: "# Agios Yeorgios Kilisesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.66744,38.767062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Agios Yeorgios Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Yeşil Türbe, Sinop | Miras Haritası"
-date: 2025-12-25T14:47:24+03:00
+title: "Yeşil Türbe, Sinop"
+date: "2025-12-25T14:47:24+03:00"
 slug: "yesil-turbe-sinop"
 description: "## Yeşil Türbe: Sinop'un Gizli Anıtı..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.148892,42.02632"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşil Türbe: Sinop'un Gizli Anıtı

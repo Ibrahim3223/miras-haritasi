@@ -1,18 +1,17 @@
 ---
-title: "Kalamış Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:56:36+03:00
+title: "Kalamış Çeşmesi"
+date: "2025-12-25T10:56:36+03:00"
 slug: "kalamis-cesmesi"
 description: "## Kalamış Çeşmesi: Şarköy'ün Tarihi ve Güzel Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2042999,40.6661987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalamış Çeşmesi: Şarköy'ün Tarihi ve Güzel Çeşmesi

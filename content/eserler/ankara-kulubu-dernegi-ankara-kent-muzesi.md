@@ -1,18 +1,17 @@
 ---
-title: "Ankara Kulübü Derneği Ankara Kent Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:08+03:00
+title: "Ankara Kulübü Derneği Ankara Kent Müzesi"
+date: "2025-12-25T04:04:08+03:00"
 slug: "ankara-kulubu-dernegi-ankara-kent-muzesi"
 description: "## Ankara Kent Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.779779108,39.957962043"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara Kent Müzesi

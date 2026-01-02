@@ -1,18 +1,17 @@
 ---
-title: "Sinekli Köprü | Miras Haritası"
-date: 2025-12-25T02:38:51+03:00
+title: "Sinekli Köprü"
+date: "2025-12-25T02:38:51+03:00"
 slug: "sinekli-kopru"
 description: "## Sinekli Köprü: Gülyalı, Ordu'nun Tarihî Esrarı..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Gülyalı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.05894,40.918875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinekli Köprü: Gülyalı, Ordu'nun Tarihî Esrarı

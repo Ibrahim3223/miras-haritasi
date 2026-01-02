@@ -1,18 +1,17 @@
 ---
-title: "Eski Bayır Köprü Kalıntısı | Miras Haritası"
-date: 2025-12-25T02:18:30+03:00
+title: "Eski Bayır Köprü Kalıntısı"
+date: "2025-12-25T02:18:30+03:00"
 slug: "eski-bayir-kopru-kalintisi"
 description: "## Eski Bayır Köprü Kalıntısı: Muğla'nın Tarihi bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2625217,37.2682457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Bayır Köprü Kalıntısı: Muğla'nın Tarihi bir Mirası

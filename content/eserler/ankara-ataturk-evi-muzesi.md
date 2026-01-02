@@ -1,18 +1,17 @@
 ---
-title: "Ankara Atatürk Evi Müzesi | Miras Haritası"
-date: 2025-12-25T03:32:27+03:00
+title: "Ankara Atatürk Evi Müzesi"
+date: "2025-12-25T03:32:27+03:00"
 slug: "ankara-ataturk-evi-muzesi"
 description: "## Ankara Atatürk Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/AOÇ_Atatürk_evi_müzesi.JPG/1200px-AOÇ_Atatürk_evi_müzesi.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.798068,39.936122"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ankara Atatürk Evi Müzesi

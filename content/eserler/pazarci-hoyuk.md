@@ -1,18 +1,17 @@
 ---
-title: "Pazarcı Höyük | Miras Haritası"
-date: 2025-12-25T13:47:34+03:00
+title: "Pazarcı Höyük"
+date: "2025-12-25T13:47:34+03:00"
 slug: "pazarci-hoyuk"
 description: "## Pazarcı Höyük..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.7561288,39.0525495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazarcı Höyük

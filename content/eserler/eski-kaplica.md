@@ -1,18 +1,17 @@
 ---
-title: "Eski Kaplıca | Miras Haritası"
-date: 2025-12-25T16:23:16+03:00
+title: "Eski Kaplıca"
+date: "2025-12-25T16:23:16+03:00"
 slug: "eski-kaplica"
 description: "## Eski Kaplıca: Bursa'nın Tarihsel Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bursa,_Eski_Kaplıca,_general_view_from_east.jpg/1200px-Bursa,_Eski_Kaplıca,_general_view_from_east.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.023333333,40.202305555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eski Kaplıca: Bursa'nın Tarihsel Hamamı

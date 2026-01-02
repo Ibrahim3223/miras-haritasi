@@ -1,18 +1,17 @@
 ---
-title: "Gözlükule Höyüğü | Miras Haritası"
-date: 2025-12-25T04:13:33+03:00
+title: "Gözlükule Höyüğü"
+date: "2025-12-25T04:13:33+03:00"
 slug: "gozlukule-hoyugu"
 description: "## Gözlükule Höyüğü: Mersin'in Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.89444444,36.91277778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gözlükule Höyüğü: Mersin'in Gizli Mirası

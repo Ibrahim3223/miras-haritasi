@@ -1,18 +1,17 @@
 ---
-title: "İslambeyli Taşköprü Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:54:01+03:00
+title: "İslambeyli Taşköprü Tümülüsü"
+date: "2025-12-25T07:54:01+03:00"
 slug: "islambeyli-taskopru-tumulusu"
 description: "## İslambeyli Taşköprü Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6280212,41.7117081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İslambeyli Taşköprü Tümülüsü

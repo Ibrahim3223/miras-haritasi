@@ -1,18 +1,17 @@
 ---
-title: "Sultan IV. Murat Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:15:21+03:00
+title: "Sultan IV. Murat Çeşmesi"
+date: "2025-12-25T11:15:21+03:00"
 slug: "sultan-iv-murat-cesmesi"
 description: "### Sultan IV. Murat Çeşmesi..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Eğitim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.044191,40.993957"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sultan IV. Murat Çeşmesi

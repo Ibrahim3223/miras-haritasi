@@ -1,18 +1,17 @@
 ---
-title: "Küçükçekmece Hamidiye Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:09:46+03:00
+title: "Küçükçekmece Hamidiye Çeşmesi"
+date: "2025-12-25T10:09:46+03:00"
 slug: "kucukcekmece-hamidiye-cesmesi"
 description: "### Küçükçekmece Hamidiye Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Küçükçekmece_-_Kucukcekmece_Hamidiye_Fountain_-_20250621121427.jpg/1200px-Küçükçekmece_-_Kucukcekmece_Hamidiye_Fountain_-_20250621121427.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.771966,40.990308"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Küçükçekmece Hamidiye Çeşmesi

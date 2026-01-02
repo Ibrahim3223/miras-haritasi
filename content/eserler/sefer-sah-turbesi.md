@@ -1,18 +1,17 @@
 ---
-title: "Sefer Şah Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:42+03:00
+title: "Sefer Şah Türbesi"
+date: "2025-12-25T14:58:42+03:00"
 slug: "sefer-sah-turbesi"
 description: "### Sefer Şah Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5439014,41.6764374"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sefer Şah Türbesi

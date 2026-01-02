@@ -1,18 +1,17 @@
 ---
-title: "Soklai | Miras Haritası"
-date: 2025-12-25T04:57:59+03:00
+title: "Soklai"
+date: "2025-12-25T04:57:59+03:00"
 slug: "soklai"
 description: "## **Soklai Arkeolojik Sitesi**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## **Soklai Arkeolojik Sitesi**

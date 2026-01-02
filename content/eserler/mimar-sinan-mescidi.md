@@ -1,18 +1,17 @@
 ---
-title: "Mimar Sinan Mescidi | Miras Haritası"
-date: 2025-12-24T21:44:06+03:00
+title: "Mimar Sinan Mescidi"
+date: "2025-12-24T21:44:06+03:00"
 slug: "mimar-sinan-mescidi"
 description: "**Mimar Sinan Mescidi: İstanbul'un İhtişamlı Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mimar_Sinan_Mescidi_02012025.jpg/1200px-Mimar_Sinan_Mescidi_02012025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.940804,41.019465"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Mimar Sinan Mescidi: İstanbul'un İhtişamlı Camii**

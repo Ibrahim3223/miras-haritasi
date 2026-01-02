@@ -1,18 +1,17 @@
 ---
-title: "Nakilbend Camii | Miras Haritası"
-date: 2025-12-24T22:17:38+03:00
+title: "Nakilbend Camii"
+date: "2025-12-24T22:17:38+03:00"
 slug: "nakilbend-camii"
 description: "## Nakilbend Camii: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2013-01-03_Istanbul_90.jpg/1200px-2013-01-03_Istanbul_90.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.974805555,41.003972222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nakilbend Camii: İstanbul'un Tarihi ve Kültürel Mirası

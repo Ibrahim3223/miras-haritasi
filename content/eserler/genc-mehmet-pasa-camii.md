@@ -1,18 +1,17 @@
 ---
-title: "Genç Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:03:14+03:00
+title: "Genç Mehmet Paşa Camii"
+date: "2025-12-24T23:03:14+03:00"
 slug: "genc-mehmet-pasa-camii"
 description: "## Genç Mehmet Paşa Camii: Tokat'ın Tarihî bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5582733,40.3186951"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Genç Mehmet Paşa Camii: Tokat'ın Tarihî bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Leksori Manastırı | Miras Haritası"
-date: 2025-12-25T09:56:53+03:00
+title: "Leksori Manastırı"
+date: "2025-12-25T09:56:53+03:00"
 slug: "leksori-manastiri"
 description: "### Leksori Manastırı: Birkaç Yüzyıllık Geçmişi ve Etkileyici Mimarisine Sahip Bir Manastır..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: ["Şenkaya İlçesi"]
+iller: '["Şenkaya İlçesi"]'
 district: "Sındıran"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "42.326297222,40.618013888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Leksori Manastırı: Birkaç Yüzyıllık Geçmişi ve Etkileyici Mimarisine Sahip Bir Manastır

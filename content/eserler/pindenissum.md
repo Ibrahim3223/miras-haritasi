@@ -1,18 +1,17 @@
 ---
-title: "Pindenissum | Miras Haritası"
-date: 2025-12-25T04:32:43+03:00
+title: "Pindenissum"
+date: "2025-12-25T04:32:43+03:00"
 slug: "pindenissum"
 description: "### Pindenissum: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pindenissum: Antik Bir Kentin İzleri

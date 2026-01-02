@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye Darülkurrası | Miras Haritası"
-date: 2025-12-25T17:29:03+03:00
+title: "Süleymaniye Darülkurrası"
+date: "2025-12-25T17:29:03+03:00"
 slug: "suleymaniye-darulkurrasi"
 description: "## Süleymaniye Darülkurrası: İstanbul'un Gizli Tarihini Açığa Çıkaran Medrese..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9648,41.015434"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Süleymaniye Darülkurrası: İstanbul'un Gizli Tarihini Açığa Çıkaran Medrese

@@ -1,18 +1,17 @@
 ---
-title: "Panayia Belgradu Kilisesi | Miras Haritası"
-date: 2025-12-25T08:43:12+03:00
+title: "Panayia Belgradu Kilisesi"
+date: "2025-12-25T08:43:12+03:00"
 slug: "panayia-belgradu-kilisesi"
 description: "## Panayia Belgradu Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Église_Notre-Dame_de_Belgrade_d'Istanbul.jpg/1200px-Église_Notre-Dame_de_Belgrade_d'Istanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.921859,41.000197"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Panayia Belgradu Kilisesi

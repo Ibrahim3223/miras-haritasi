@@ -1,18 +1,17 @@
 ---
-title: "Çıplak Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:35:42+03:00
+title: "Çıplak Köyü Camii"
+date: "2025-12-25T00:35:42+03:00"
 slug: "ciplak-koyu-camii"
 description: "## Çıplak Köyü Camii: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.261981756,39.95179331"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çıplak Köyü Camii: Çanakkale'nin Gizli Cenneti

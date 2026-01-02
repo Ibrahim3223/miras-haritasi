@@ -1,18 +1,17 @@
 ---
-title: "Uzun Şüca Kabri ve Haziresi | Miras Haritası"
-date: 2025-12-25T16:05:09+03:00
+title: "Uzun Şüca Kabri ve Haziresi"
+date: "2025-12-25T16:05:09+03:00"
 slug: "uzun-suca-kabri-ve-haziresi"
 description: "## Uzun Şüca Kabri ve Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9730053,41.0063667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzun Şüca Kabri ve Haziresi

@@ -1,18 +1,17 @@
 ---
-title: "Eirakla | Miras Haritası"
-date: 2025-12-25T05:39:03+03:00
+title: "Eirakla"
+date: "2025-12-25T05:39:03+03:00"
 slug: "eirakla"
 description: "### Eirakla Arkeolojik Siti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.180503,40.33761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eirakla Arkeolojik Siti

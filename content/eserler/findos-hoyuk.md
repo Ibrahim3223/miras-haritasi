@@ -1,18 +1,17 @@
 ---
-title: "Findos Höyük | Miras Haritası"
-date: 2025-12-25T05:33:10+03:00
+title: "Findos Höyük"
+date: "2025-12-25T05:33:10+03:00"
 slug: "findos-hoyuk"
 description: "**Findos Höyük: Isparta'nın Gizli Mirası**..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.70935,37.877517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Findos Höyük: Isparta'nın Gizli Mirası**

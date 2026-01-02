@@ -1,18 +1,17 @@
 ---
-title: "Blaundos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:21:46+03:00
+title: "Blaundos Antik Tiyatrosu"
+date: "2025-12-25T08:21:46+03:00"
 slug: "blaundos-antik-tiyatrosu"
 description: "## Blaundos Antik Tiyatrosu..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.2108688,38.3579445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Blaundos Antik Tiyatrosu

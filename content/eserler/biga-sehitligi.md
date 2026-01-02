@@ -1,18 +1,17 @@
 ---
-title: "Biga Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:14+03:00
+title: "Biga Şehitliği"
+date: "2025-12-25T16:00:14+03:00"
 slug: "biga-sehitligi"
 description: "## Biga Şehitliği: Bir Kahramanların Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.2372589,40.2290306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Biga Şehitliği: Bir Kahramanların Anıtı

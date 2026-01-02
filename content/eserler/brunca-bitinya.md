@@ -1,18 +1,17 @@
 ---
-title: "Brunca (Bitinya) | Miras Haritası"
-date: 2025-12-25T04:48:20+03:00
+title: "Brunca (Bitinya)"
+date: "2025-12-25T04:48:20+03:00"
 slug: "brunca-bitinya"
 description: "## Brunca (Bitinya): Tarihî bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.701046,40.777757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Brunca (Bitinya): Tarihî bir Arkeolojik Sit

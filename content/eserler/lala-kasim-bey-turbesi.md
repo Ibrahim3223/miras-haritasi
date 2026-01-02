@@ -1,18 +1,17 @@
 ---
-title: "Lala Kasım Bey Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:23+03:00
+title: "Lala Kasım Bey Türbesi"
+date: "2025-12-25T15:22:23+03:00"
 slug: "lala-kasim-bey-turbesi"
 description: "## Lala Kasım Bey Türbesi: Diyarbakır'ın Tarihi Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2308235,37.9095306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lala Kasım Bey Türbesi: Diyarbakır'ın Tarihi Mirası

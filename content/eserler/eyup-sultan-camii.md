@@ -1,18 +1,17 @@
 ---
-title: "Eyüp Sultan Camii | Miras Haritası"
-date: 2025-12-24T21:36:43+03:00
+title: "Eyüp Sultan Camii"
+date: "2025-12-24T21:36:43+03:00"
 slug: "eyup-sultan-camii"
 description: "## Eyüp Sultan Camii: Tarihi ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/İstanbul_5999.jpg/1200px-İstanbul_5999.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.933786111,41.047947222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eyüp Sultan Camii: Tarihi ve Kültürel Bir Miras

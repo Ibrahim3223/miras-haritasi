@@ -1,18 +1,17 @@
 ---
-title: "Miletopolis Kalıntıları | Miras Haritası"
-date: 2025-12-25T16:46:39+03:00
+title: "Miletopolis Kalıntıları"
+date: "2025-12-25T16:46:39+03:00"
 slug: "miletopolis-kalintilari"
 description: "## Miletopolis Kalıntıları: Tarihçesi ve Mimari Özellikleri..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mustafakemalpaşa"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.3642426,40.0582504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Miletopolis Kalıntıları: Tarihçesi ve Mimari Özellikleri

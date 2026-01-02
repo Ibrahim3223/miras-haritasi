@@ -1,18 +1,17 @@
 ---
-title: "Dascusa | Miras Haritası"
-date: 2025-12-25T05:20:33+03:00
+title: "Dascusa"
+date: "2025-12-25T05:20:33+03:00"
 slug: "dascusa"
 description: "# Dascusa Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.7333,38.93785"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dascusa Arkeolojik Sitesi

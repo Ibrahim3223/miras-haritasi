@@ -1,18 +1,17 @@
 ---
-title: "Ural Ataman Klasik Otomobil Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:59+03:00
+title: "Ural Ataman Klasik Otomobil Müzesi"
+date: "2025-12-25T03:49:59+03:00"
 slug: "ural-ataman-klasik-otomobil-muzesi"
 description: "**Ural Ataman Klasik Otomobil Müzesi: Sarıyer'de Klasik Otomobillerin Anıtlığı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.047912,41.128107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ural Ataman Klasik Otomobil Müzesi: Sarıyer'de Klasik Otomobillerin Anıtlığı**

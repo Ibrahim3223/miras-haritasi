@@ -1,18 +1,17 @@
 ---
-title: "Anadolu Oyuncak Müzesi | Miras Haritası"
-date: 2025-12-25T03:11:01+03:00
+title: "Anadolu Oyuncak Müzesi"
+date: "2025-12-25T03:11:01+03:00"
 slug: "anadolu-oyuncak-muzesi"
 description: "## Anadolu Oyuncak Müzesi: Kepez'in Tarihsel Bir Çılgınlığı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kepez"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.676914102,36.912785768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anadolu Oyuncak Müzesi: Kepez'in Tarihsel Bir Çılgınlığı

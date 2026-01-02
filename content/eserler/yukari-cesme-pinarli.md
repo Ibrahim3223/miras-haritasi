@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Çeşme, Pınarlı | Miras Haritası"
-date: 2025-12-25T12:00:07+03:00
+title: "Yukarı Çeşme, Pınarlı"
+date: "2025-12-25T12:00:07+03:00"
 slug: "yukari-cesme-pinarli"
 description: "### Yukarı Çeşme, Pınarlı: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3018417,37.7045822"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yukarı Çeşme, Pınarlı: Aydın'ın Gizli Çeşmesi

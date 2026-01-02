@@ -1,18 +1,17 @@
 ---
-title: "Telli Hacı Halil Camisi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:40:10+03:00
+title: "Telli Hacı Halil Camisi Çeşmesi"
+date: "2025-12-25T12:40:10+03:00"
 slug: "telli-haci-halil-camisi-cesmesi"
 description: "### Telli Hacı Halil Camisi Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8654747,39.9350853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Telli Hacı Halil Camisi Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirasının Bir Parçası

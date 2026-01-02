@@ -1,18 +1,17 @@
 ---
-title: "Kazım Karabekir Caddesi Sokak Çeşmesi, İnebolu | Miras Haritası"
-date: 2025-12-25T12:58:35+03:00
+title: "Kazım Karabekir Caddesi Sokak Çeşmesi, İnebolu"
+date: "2025-12-25T12:58:35+03:00"
 slug: "kazim-karabekir-caddesi-sokak-cesmesi-inebolu"
 description: "# Kazım Karabekir Caddesi Sokak Çeşmesi, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.777270911,41.972646663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kazım Karabekir Caddesi Sokak Çeşmesi, İnebolu

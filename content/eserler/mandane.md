@@ -1,18 +1,17 @@
 ---
-title: "Mandane | Miras Haritası"
-date: 2025-12-25T04:35:37+03:00
+title: "Mandane"
+date: "2025-12-25T04:35:37+03:00"
 slug: "mandane"
 description: "## Mandane Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.11213,36.12732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mandane Arkeolojik Sit

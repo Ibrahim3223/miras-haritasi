@@ -1,18 +1,17 @@
 ---
-title: "Öküz Mehmet Paşa Çeşmesi, Ulukışla | Miras Haritası"
-date: 2025-12-25T12:27:01+03:00
+title: "Öküz Mehmet Paşa Çeşmesi, Ulukışla"
+date: "2025-12-25T12:27:01+03:00"
 slug: "okuz-mehmet-pasa-cesmesi-ulukisla"
 description: "### Öküz Mehmet Paşa Çeşmesi: Ulukışla'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Ulukışla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.481772578,37.547802649"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Öküz Mehmet Paşa Çeşmesi: Ulukışla'nın Tarihi Bir Çeşmesi

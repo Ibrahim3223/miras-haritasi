@@ -1,18 +1,17 @@
 ---
-title: "Aidesim Örenyeri | Miras Haritası"
-date: 2025-12-25T03:36:07+03:00
+title: "Aidesim Örenyeri"
+date: "2025-12-25T03:36:07+03:00"
 slug: "aidesim-orenyeri"
 description: "## Aidesim Örenyeri: Kilis'in Gizli Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: ["Kilis"]
+iller: '["Kilis"]'
 district: "Kilis"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aidesim Örenyeri: Kilis'in Gizli Mirası

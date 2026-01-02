@@ -1,18 +1,17 @@
 ---
-title: "Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu | Miras Haritası"
-date: 2025-12-25T13:22:01+03:00
+title: "Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu"
+date: "2025-12-25T13:22:01+03:00"
 slug: "kaya-mezari-3-delikkaya-mahallesi-altinordu"
 description: "## Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu: Bir Tarih Öreni..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.848975,40.901166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu: Bir Tarih Öreni

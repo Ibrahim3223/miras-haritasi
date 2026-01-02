@@ -1,18 +1,17 @@
 ---
-title: "TRT Yayıncılık Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:32:20+03:00
+title: "TRT Yayıncılık Tarihi Müzesi"
+date: "2025-12-25T03:32:20+03:00"
 slug: "trt-yayincilik-tarihi-muzesi"
 description: "# TRT Yayıncılık Tarihi Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.842608,39.844542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # TRT Yayıncılık Tarihi Müzesi

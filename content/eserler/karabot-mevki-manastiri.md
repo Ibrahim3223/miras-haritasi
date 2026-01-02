@@ -1,18 +1,17 @@
 ---
-title: "Karabot Mevki Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:27+03:00
+title: "Karabot Mevki Manastırı"
+date: "2025-12-25T09:52:27+03:00"
 slug: "karabot-mevki-manastiri"
 description: "## Karabot Mevki Manastırı: Gökçeada'nın Eski Bir Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.7737179,40.1573486"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabot Mevki Manastırı: Gökçeada'nın Eski Bir Manastırı

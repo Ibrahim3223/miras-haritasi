@@ -1,18 +1,17 @@
 ---
-title: "Büyükmandıra Hürriyet Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:45+03:00
+title: "Büyükmandıra Hürriyet Tümülüsü"
+date: "2025-12-25T07:35:45+03:00"
 slug: "buyukmandira-hurriyet-tumulusu"
 description: "## Büyükmandıra Hürriyet Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1073647,41.355587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükmandıra Hürriyet Tümülüsü

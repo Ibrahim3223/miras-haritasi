@@ -1,18 +1,17 @@
 ---
-title: "Kayalıdere Kalesi | Miras Haritası"
-date: 2025-12-25T08:28:34+03:00
+title: "Kayalıdere Kalesi"
+date: "2025-12-25T08:28:34+03:00"
 slug: "kayalidere-kalesi"
 description: "### Kayalıdere Kalesi: Muş'un Gizli Kahramanı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muş"
+province: "Muş"
+iller: '["Muş"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.56064,39.07157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kayalıdere Kalesi: Muş'un Gizli Kahramanı

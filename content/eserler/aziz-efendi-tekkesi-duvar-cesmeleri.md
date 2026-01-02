@@ -1,18 +1,17 @@
 ---
-title: "Aziz Efendi Tekkesi Duvar Çeşmeleri | Miras Haritası"
-date: 2025-12-25T11:10:58+03:00
+title: "Aziz Efendi Tekkesi Duvar Çeşmeleri"
+date: "2025-12-25T11:10:58+03:00"
 slug: "aziz-efendi-tekkesi-duvar-cesmeleri"
 description: "### Aziz Efendi Tekkesi Duvar Çeşmeleri..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sultan Ahmet"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.97741,41.004131"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aziz Efendi Tekkesi Duvar Çeşmeleri

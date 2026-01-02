@@ -1,18 +1,17 @@
 ---
-title: "Şerbetçi Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:29:51+03:00
+title: "Şerbetçi Baba Türbesi"
+date: "2025-12-25T15:29:51+03:00"
 slug: "serbetci-baba-turbesi"
 description: "## Şerbetçi Baba Türbesi: Gelibolu'nun Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Şerbetçi_Baba_Türbesi_2.jpg/1200px-Şerbetçi_Baba_Türbesi_2.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6768875,40.4090195"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şerbetçi Baba Türbesi: Gelibolu'nun Gizli Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Yündalan Büyük Kale, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:50:41+03:00
+title: "Yündalan Büyük Kale, Kırklareli"
+date: "2025-12-25T01:50:41+03:00"
 slug: "yundalan-buyuk-kale-kirklareli"
 description: "## Yündalan Büyük Kale: Kırklareli'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3048153,41.7594795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yündalan Büyük Kale: Kırklareli'nin Tarihî Mirası

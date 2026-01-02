@@ -1,18 +1,17 @@
 ---
-title: "Ayazma Kapısı | Miras Haritası"
-date: 2025-12-25T15:36:58+03:00
+title: "Ayazma Kapısı"
+date: "2025-12-25T15:36:58+03:00"
 slug: "ayazma-kapisi"
 description: "### Ayazma Kapısı: Fatih, İstanbul'un Gizli Bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9786015,41.0123978"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayazma Kapısı: Fatih, İstanbul'un Gizli Bir Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Charax (Bitinya) | Miras Haritası"
-date: 2025-12-25T06:56:43+03:00
+title: "Charax (Bitinya)"
+date: "2025-12-25T06:56:43+03:00"
 slug: "charax-bitinya"
 description: "## Charax (Bitinya): İzmit'in Gizli Harikası..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "İzmit"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.613672,40.788976"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Charax (Bitinya): İzmit'in Gizli Harikası

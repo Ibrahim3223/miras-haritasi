@@ -1,18 +1,17 @@
 ---
-title: "Canbaz Mustafa Kabri | Miras Haritası"
-date: 2025-12-25T14:00:04+03:00
+title: "Canbaz Mustafa Kabri"
+date: "2025-12-25T14:00:04+03:00"
 slug: "canbaz-mustafa-kabri"
 description: "## Canbaz Mustafa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.928048231,41.005203614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Canbaz Mustafa Kabri

@@ -1,18 +1,17 @@
 ---
-title: "Ilgaz Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:31+03:00
+title: "Ilgaz Hamamı"
+date: "2025-12-25T16:35:31+03:00"
 slug: "ilgaz-hamami"
 description: "### Ilgaz Hamamı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Ilgaz"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.6237335,40.9252472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ilgaz Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Cevizaltı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:42:44+03:00
+title: "Cevizaltı Çeşmesi"
+date: "2025-12-25T10:42:44+03:00"
 slug: "cevizalti-cesmesi"
 description: "## Cevizaltı Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5414562,38.7535667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cevizaltı Çeşmesi

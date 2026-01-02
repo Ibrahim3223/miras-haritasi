@@ -1,18 +1,17 @@
 ---
-title: "Zeynel Arap Türbesi | Miras Haritası"
-date: 2025-12-25T14:13:42+03:00
+title: "Zeynel Arap Türbesi"
+date: "2025-12-25T14:13:42+03:00"
 slug: "zeynel-arap-turbesi"
 description: "### Zeynel Arap Türbesi: Gelibolu'nun Gizli Mücevheri..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6769,40.4121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zeynel Arap Türbesi: Gelibolu'nun Gizli Mücevheri

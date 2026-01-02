@@ -1,18 +1,17 @@
 ---
-title: "Macellum (Sagalassos) | Miras Haritası"
-date: 2025-12-25T04:12:39+03:00
+title: "Macellum (Sagalassos)"
+date: "2025-12-25T04:12:39+03:00"
 slug: "macellum-sagalassos"
 description: "## Macellum (Sagalassos)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.518452535,37.676779349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Macellum (Sagalassos)

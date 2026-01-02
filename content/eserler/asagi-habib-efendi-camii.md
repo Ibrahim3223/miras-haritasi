@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Habib Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:13:51+03:00
+title: "Aşağı Habib Efendi Camii"
+date: "2025-12-24T22:13:51+03:00"
 slug: "asagi-habib-efendi-camii"
 description: "## Aşağı Habib Efendi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2808495,39.906765"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Habib Efendi Camii

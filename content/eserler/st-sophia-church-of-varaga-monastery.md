@@ -1,18 +1,17 @@
 ---
-title: "St. Sophia Church of Varaga Monastery | Miras Haritası"
-date: 2025-12-25T09:41:17+03:00
+title: "St. Sophia Church of Varaga Monastery"
+date: "2025-12-25T09:41:17+03:00"
 slug: "st-sophia-church-of-varaga-monastery"
 description: "## St. Sophia Church of Varaga Monastery: Van'ın Ölümsüz Kilisesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## St. Sophia Church of Varaga Monastery: Van'ın Ölümsüz Kilisesi

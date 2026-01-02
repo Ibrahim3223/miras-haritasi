@@ -1,18 +1,17 @@
 ---
-title: "Asartepe Kale Yerleşimi | Miras Haritası"
-date: 2025-12-25T01:46:37+03:00
+title: "Asartepe Kale Yerleşimi"
+date: "2025-12-25T01:46:37+03:00"
 slug: "asartepe-kale-yerlesimi"
 description: "## Asartepe Kale Yerleşimi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.7595005,39.9648018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Asartepe Kale Yerleşimi

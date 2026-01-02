@@ -1,18 +1,17 @@
 ---
-title: "Poyrazlı Höyük | Miras Haritası"
-date: 2025-12-25T13:44:43+03:00
+title: "Poyrazlı Höyük"
+date: "2025-12-25T13:44:43+03:00"
 slug: "poyrazli-hoyuk"
 description: "### Poyrazlı Höyük: Boğazlıyan'ın Gizli Kâsabı..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.0917777,39.3978939"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Poyrazlı Höyük: Boğazlıyan'ın Gizli Kâsabı

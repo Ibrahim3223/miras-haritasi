@@ -1,18 +1,17 @@
 ---
-title: "Rum Ortodoks Hagios Nikolas Kilisesi | Miras Haritası"
-date: 2025-12-25T09:37:22+03:00
+title: "Rum Ortodoks Hagios Nikolas Kilisesi"
+date: "2025-12-25T09:37:22+03:00"
 slug: "rum-ortodoks-hagios-nikolas-kilisesi"
 description: "## Rum Ortodoks Hagios Nikolas Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Maltepe"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1297512,40.9202614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rum Ortodoks Hagios Nikolas Kilisesi

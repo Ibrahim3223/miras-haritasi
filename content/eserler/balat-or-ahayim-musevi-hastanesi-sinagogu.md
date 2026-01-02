@@ -1,18 +1,17 @@
 ---
-title: "Balat Or-Ahayim Musevi Hastanesi Sinagogu | Miras Haritası"
-date: 2025-12-25T16:15:06+03:00
+title: "Balat Or-Ahayim Musevi Hastanesi Sinagogu"
+date: "2025-12-25T16:15:06+03:00"
 slug: "balat-or-ahayim-musevi-hastanesi-sinagogu"
 description: "## Balat Or-Ahayim Musevi Hastanesi Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.9457455,41.0385361"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balat Or-Ahayim Musevi Hastanesi Sinagogu

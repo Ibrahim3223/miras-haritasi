@@ -1,18 +1,17 @@
 ---
-title: "Sığırlık-I Kalesi | Miras Haritası"
-date: 2025-12-25T01:27:50+03:00
+title: "Sığırlık-I Kalesi"
+date: "2025-12-25T01:27:50+03:00"
 slug: "sigirlik-i-kalesi"
 description: "## Sığırlık-I Kalesi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Sütçüler"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.8518734,37.520504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sığırlık-I Kalesi

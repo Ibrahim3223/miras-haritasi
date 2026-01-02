@@ -1,18 +1,17 @@
 ---
-title: "Fatıpınar Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:27:47+03:00
+title: "Fatıpınar Çeşmesi"
+date: "2025-12-25T11:27:47+03:00"
 slug: "fatipinar-cesmesi"
 description: "## Fatıpınar Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8783112,39.6420898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fatıpınar Çeşmesi

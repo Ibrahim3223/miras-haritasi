@@ -1,18 +1,17 @@
 ---
-title: "Boyacıköy Kanlıkavak Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:06:59+03:00
+title: "Boyacıköy Kanlıkavak Suyu Çeşmesi"
+date: "2025-12-25T11:06:59+03:00"
 slug: "boyacikoy-kanlikavak-suyu-cesmesi"
 description: "### Boyacıköy Kanlıkavak Suyu Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Boyacıköy_Kanlıkavak_Suyu_Çeşmesi.jpg/1200px-Boyacıköy_Kanlıkavak_Suyu_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.054906,41.101418"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Boyacıköy Kanlıkavak Suyu Çeşmesi: İstanbul'un Gizli Çeşmesi

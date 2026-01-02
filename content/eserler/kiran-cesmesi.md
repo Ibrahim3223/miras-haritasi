@@ -1,18 +1,17 @@
 ---
-title: "Kıran Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:32+03:00
+title: "Kıran Çeşmesi"
+date: "2025-12-25T10:15:32+03:00"
 slug: "kiran-cesmesi"
 description: "### Kıran Çeşmesi: Eynesil'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Eynesil"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.1461868,41.0163956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kıran Çeşmesi: Eynesil'in Tarihi ve Kültürel Mirası

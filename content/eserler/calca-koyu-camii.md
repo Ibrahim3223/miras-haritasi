@@ -1,18 +1,17 @@
 ---
-title: "Çalca Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:31:16+03:00
+title: "Çalca Köyü Camii"
+date: "2025-12-24T22:31:16+03:00"
 slug: "calca-koyu-camii"
 description: "## Çalca Köyü Camii: Giresun'un Gizli Çehresine Bir Öykü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Dereli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.4740143,40.7788315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çalca Köyü Camii: Giresun'un Gizli Çehresine Bir Öykü

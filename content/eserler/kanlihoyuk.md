@@ -1,18 +1,17 @@
 ---
-title: "Kanlıhöyük | Miras Haritası"
-date: 2025-12-25T06:46:17+03:00
+title: "Kanlıhöyük"
+date: "2025-12-25T06:46:17+03:00"
 slug: "kanlihoyuk"
 description: "## Kanlıhöyük: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.94842,39.6663456"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kanlıhöyük: Tarih ve Kültür Mirası

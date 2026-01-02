@@ -1,18 +1,17 @@
 ---
-title: "Keramet Ilıcası | Miras Haritası"
-date: 2025-12-25T16:32:35+03:00
+title: "Keramet Ilıcası"
+date: "2025-12-25T16:32:35+03:00"
 slug: "keramet-ilicasi"
 description: "## Keramet Ilıcası: Bursa'nın Tarihi Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Orhangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.4763992,40.4982695"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keramet Ilıcası: Bursa'nın Tarihi Hamamı

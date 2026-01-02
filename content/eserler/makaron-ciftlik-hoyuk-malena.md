@@ -1,18 +1,17 @@
 ---
-title: "Makaron Çiftlik Höyük, Malena | Miras Haritası"
-date: 2025-12-25T05:50:41+03:00
+title: "Makaron Çiftlik Höyük, Malena"
+date: "2025-12-25T05:50:41+03:00"
 slug: "makaron-ciftlik-hoyuk-malena"
 description: "### Makaron Çiftlik Höyük, Malena..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.844602777,39.136086111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Makaron Çiftlik Höyük, Malena

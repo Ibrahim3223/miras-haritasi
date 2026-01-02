@@ -1,18 +1,17 @@
 ---
-title: "Kınalıada Hamam Kalıntısı | Miras Haritası"
-date: 2025-12-25T17:00:36+03:00
+title: "Kınalıada Hamam Kalıntısı"
+date: "2025-12-25T17:00:36+03:00"
 slug: "kinaliada-hamam-kalintisi"
 description: "## Kınalıada Hamam Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0541725,40.9087715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kınalıada Hamam Kalıntısı

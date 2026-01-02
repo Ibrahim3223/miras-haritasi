@@ -1,18 +1,17 @@
 ---
-title: "Darüssaade Ağası Mehmet Ağa Sebili | Miras Haritası"
-date: 2025-12-25T13:06:47+03:00
+title: "Darüssaade Ağası Mehmet Ağa Sebili"
+date: "2025-12-25T13:06:47+03:00"
 slug: "darussaade-agasi-mehmet-aga-sebili"
 description: "### Darüssaade Ağası Mehmet Ağa Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9739666,41.0082893"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Darüssaade Ağası Mehmet Ağa Sebili

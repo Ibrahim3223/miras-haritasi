@@ -1,18 +1,17 @@
 ---
-title: "Daskyleion Tümülüsü 5 | Miras Haritası"
-date: 2025-12-25T07:32:41+03:00
+title: "Daskyleion Tümülüsü 5"
+date: "2025-12-25T07:32:41+03:00"
 slug: "daskyleion-tumulusu-5"
 description: "### Daskyleion Tümülüsü 5: Balıkesir'in Gizli Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8906879,40.2295761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Daskyleion Tümülüsü 5: Balıkesir'in Gizli Mirası

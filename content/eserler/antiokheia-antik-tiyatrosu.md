@@ -1,18 +1,17 @@
 ---
-title: "Antiokheia Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:23:34+03:00
+title: "Antiokheia Antik Tiyatrosu"
+date: "2025-12-25T08:23:34+03:00"
 slug: "antiokheia-antik-tiyatrosu"
 description: "## Antiokheia Antik Tiyatrosu..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Yalvaç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.18828,38.30485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antiokheia Antik Tiyatrosu

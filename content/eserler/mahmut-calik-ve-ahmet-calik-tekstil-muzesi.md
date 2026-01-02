@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Çalık ve Ahmet Çalık Tekstil Müzesi | Miras Haritası"
-date: 2025-12-25T04:02:34+03:00
+title: "Mahmut Çalık ve Ahmet Çalık Tekstil Müzesi"
+date: "2025-12-25T04:02:34+03:00"
 slug: "mahmut-calik-ve-ahmet-calik-tekstil-muzesi"
 description: "## Malatya'nın Tekstil Mirası: Mahmut Çalık ve Ahmet Çalık Tekstil Müzesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Malatya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malatya'nın Tekstil Mirası: Mahmut Çalık ve Ahmet Çalık Tekstil Müzesi

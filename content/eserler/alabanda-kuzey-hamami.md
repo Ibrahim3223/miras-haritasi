@@ -1,18 +1,17 @@
 ---
-title: "Alabanda Kuzey Hamamı | Miras Haritası"
-date: 2025-12-25T17:11:37+03:00
+title: "Alabanda Kuzey Hamamı"
+date: "2025-12-25T17:11:37+03:00"
 slug: "alabanda-kuzey-hamami"
 description: "## Alabanda Kuzey Hamamı: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.983700553,37.598732434"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alabanda Kuzey Hamamı: Aydın'ın Gizli Cenneti

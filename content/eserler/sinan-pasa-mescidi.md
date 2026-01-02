@@ -1,18 +1,17 @@
 ---
-title: "Sinan Paşa Mescidi | Miras Haritası"
-date: 2025-12-24T21:57:21+03:00
+title: "Sinan Paşa Mescidi"
+date: "2025-12-24T21:57:21+03:00"
 slug: "sinan-pasa-mescidi"
 description: "## Sinan Paşa Mescidi: Fatih'in Gizli Çehresinden Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sinan_pasa.jpg/1200px-Sinan_pasa.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yavuz Sultan Selim"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.954696991,41.02755624"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sinan Paşa Mescidi: Fatih'in Gizli Çehresinden Bir Örnek

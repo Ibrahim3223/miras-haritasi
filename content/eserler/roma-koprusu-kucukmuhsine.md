@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Küçükmuhsine | Miras Haritası"
-date: 2025-12-25T02:55:56+03:00
+title: "Roma Köprüsü, Küçükmuhsine"
+date: "2025-12-25T02:55:56+03:00"
 slug: "roma-koprusu-kucukmuhsine"
 description: "## Roma Köprüsü, Küçükmuhsine: Konya'nın Gizli Çehresi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.2687362,37.9232227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Küçükmuhsine: Konya'nın Gizli Çehresi

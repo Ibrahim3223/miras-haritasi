@@ -1,18 +1,17 @@
 ---
-title: "Gediz Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:06:57+03:00
+title: "Gediz Ulu Camii"
+date: "2025-12-24T22:06:57+03:00"
 slug: "gediz-ulu-camii"
 description: "## Gediz Ulu Camii: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Gediz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.413166666,39.041388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gediz Ulu Camii: Tarihi ve Kültürel Mirası Tanıtımı

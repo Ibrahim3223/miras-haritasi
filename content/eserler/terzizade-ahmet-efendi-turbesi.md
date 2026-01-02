@@ -1,18 +1,17 @@
 ---
-title: "Terzizade Ahmet Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:58+03:00
+title: "Terzizade Ahmet Efendi Türbesi"
+date: "2025-12-25T14:53:58+03:00"
 slug: "terzizade-ahmet-efendi-turbesi"
 description: "## Terzizade Ahmet Efendi Türbesi: Manisa'nın Gizli Çehresini İnziva Ettiği Bir Anıt..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4362087,38.6119843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Terzizade Ahmet Efendi Türbesi: Manisa'nın Gizli Çehresini İnziva Ettiği Bir Anıt

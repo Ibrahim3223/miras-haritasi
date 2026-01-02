@@ -1,18 +1,17 @@
 ---
-title: "Aşık Merdiveni Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:44:01+03:00
+title: "Aşık Merdiveni Çeşmesi"
+date: "2025-12-25T10:44:01+03:00"
 slug: "asik-merdiveni-cesmesi"
 description: "## Aşık Merdiveni Çeşmesi: İzmit'in Tarihi Bir Ziyaretçi..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.9215908,40.7656479"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşık Merdiveni Çeşmesi: İzmit'in Tarihi Bir Ziyaretçi

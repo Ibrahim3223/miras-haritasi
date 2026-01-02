@@ -1,18 +1,17 @@
 ---
-title: "Toraman Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:01+03:00
+title: "Toraman Camii Çeşmesi"
+date: "2025-12-25T11:36:01+03:00"
 slug: "toraman-camii-cesmesi"
 description: "### Toraman Camii Çeşmesi: Karatay, Konya'daki Bir Zenginlik..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5111465,37.8749084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Toraman Camii Çeşmesi: Karatay, Konya'daki Bir Zenginlik

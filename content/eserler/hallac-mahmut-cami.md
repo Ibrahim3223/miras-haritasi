@@ -1,18 +1,17 @@
 ---
-title: "Hallaç Mahmut Cami | Miras Haritası"
-date: 2025-12-25T01:05:49+03:00
+title: "Hallaç Mahmut Cami"
+date: "2025-12-25T01:05:49+03:00"
 slug: "hallac-mahmut-cami"
 description: "## Hallaç Mahmut Cami: Ankara'nın Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hallaç_Mahmut_Camii,_2019.jpg/1200px-Hallaç_Mahmut_Camii,_2019.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.857,39.940777777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hallaç Mahmut Cami: Ankara'nın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Arıl Höyük | Miras Haritası"
-date: 2025-12-25T05:55:20+03:00
+title: "Arıl Höyük"
+date: "2025-12-25T05:55:20+03:00"
 slug: "aril-hoyuk"
 description: "### Arıl Höyük: Gaziantep'in Tarihî Mirası..."
 featured_image: ""
 province: "Gaziantep alt bölgesi"
-iller: ["Gaziantep alt bölgesi"]
+iller: '["Gaziantep alt bölgesi"]'
 district: "Şehitkâmil"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.6020241,37.1087379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arıl Höyük: Gaziantep'in Tarihî Mirası

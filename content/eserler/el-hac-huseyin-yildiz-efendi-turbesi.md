@@ -1,18 +1,17 @@
 ---
-title: "El Hac Hüseyin Yıldız Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:33+03:00
+title: "El Hac Hüseyin Yıldız Efendi Türbesi"
+date: "2025-12-25T15:04:33+03:00"
 slug: "el-hac-huseyin-yildiz-efendi-turbesi"
 description: "## El Hac Hüseyin Yıldız Efendi Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.1754723,40.8274574"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## El Hac Hüseyin Yıldız Efendi Türbesi

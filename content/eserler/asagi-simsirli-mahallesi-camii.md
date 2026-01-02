@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Şimşirli Mahallesi Camii | Miras Haritası"
-date: 2025-12-25T00:17:43+03:00
+title: "Aşağı Şimşirli Mahallesi Camii"
+date: "2025-12-25T00:17:43+03:00"
 slug: "asagi-simsirli-mahallesi-camii"
 description: "## Aşağı Şimşirli Mahallesi Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.040792089,41.024460028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Şimşirli Mahallesi Camii

@@ -1,18 +1,18 @@
 ---
-title: "Gavur Hamamı | Miras Haritası"
-date: 2025-12-25T16:38:01+03:00
+title: "Gavur Hamamı"
+date: "2025-12-25T16:38:01+03:00"
 slug: "gavur-hamami"
 description: "## Gavur Hamamı: Kütahya'nın Tarihi Bir Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gavur_Hamamı_(Akşehir)_04.jpg/1200px-Gavur_Hamamı_(Akşehir)_04.jpg"
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.967514,39.424263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Gavur_Hamamı_(Akşehir)_04.jpg/1200px-Gavur_Hamamı_(Akşehir)_04.jpg"
 ---
 
 ## Gavur Hamamı: Kütahya'nın Tarihi Bir Mirası

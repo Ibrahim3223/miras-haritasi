@@ -1,18 +1,17 @@
 ---
-title: "Hızırbey Hamamı | Miras Haritası"
-date: 2025-12-25T16:23:47+03:00
+title: "Hızırbey Hamamı"
+date: "2025-12-25T16:23:47+03:00"
 slug: "hizirbey-hamami"
 description: "### Hızırbey Hamamı: Kırklareli'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Kirklareli_hizirbey_bedesteni_ve_hamami.jpg/1200px-Kirklareli_hizirbey_bedesteni_ve_hamami.jpg"
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.223944444,41.735611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hızırbey Hamamı: Kırklareli'nin Tarihi Bir Mirası

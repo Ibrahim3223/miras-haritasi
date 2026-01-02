@@ -1,18 +1,17 @@
 ---
-title: "Kızlar Kalesi, Erzincan | Miras Haritası"
-date: 2025-12-25T01:21:05+03:00
+title: "Kızlar Kalesi, Erzincan"
+date: "2025-12-25T01:21:05+03:00"
 slug: "kizlar-kalesi-erzincan"
 description: "### Kızlar Kalesi: Erzincan'ın Tarihsel Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.5860023,39.7869492"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kızlar Kalesi: Erzincan'ın Tarihsel Mirası

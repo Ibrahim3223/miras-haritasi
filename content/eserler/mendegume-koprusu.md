@@ -1,18 +1,17 @@
 ---
-title: "Mendegüme Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:12+03:00
+title: "Mendegüme Köprüsü"
+date: "2025-12-25T02:16:12+03:00"
 slug: "mendegume-koprusu"
 description: "## Mendegüme Köprüsü: Ödemiş'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.9970989,38.009407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mendegüme Köprüsü: Ödemiş'in Tarihi ve Kültürel Mirası

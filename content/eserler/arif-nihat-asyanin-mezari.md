@@ -1,18 +1,17 @@
 ---
-title: "Arif Nihat Asya'nın mezarı | Miras Haritası"
-date: 2025-12-25T13:27:30+03:00
+title: "Arif Nihat Asya'nın mezarı"
+date: "2025-12-25T13:27:30+03:00"
 slug: "arif-nihat-asyanin-mezari"
 description: "**Arif Nihat Asya'nın Mezarı: Ankara'nın En Güzel Anıtlarından Biri**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arif_Nihat_Asya'nın_mezarı.jpg/1200px-Arif_Nihat_Asya'nın_mezarı.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Arif Nihat Asya'nın Mezarı: Ankara'nın En Güzel Anıtlarından Biri**

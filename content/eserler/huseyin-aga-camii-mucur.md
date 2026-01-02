@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Ağa Camii, Mucur | Miras Haritası"
-date: 2025-12-25T00:26:18+03:00
+title: "Hüseyin Ağa Camii, Mucur"
+date: "2025-12-25T00:26:18+03:00"
 slug: "huseyin-aga-camii-mucur"
 description: "## Hüseyin Ağa Camii, Mucur..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.3728561,39.0596962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Ağa Camii, Mucur

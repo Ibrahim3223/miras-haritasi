@@ -1,18 +1,17 @@
 ---
-title: "Aspendos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:13:29+03:00
+title: "Aspendos Antik Tiyatrosu"
+date: "2025-12-25T04:13:29+03:00"
 slug: "aspendos-antik-tiyatrosu"
 description: "## Aspendos Antik Tiyatrosu: Tarihçenin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aspendos_teatro_romano_-_panoramio.jpg/1200px-Aspendos_teatro_romano_-_panoramio.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.172222,36.938889"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Aspendos Antik Tiyatrosu: Tarihçenin Gizemi

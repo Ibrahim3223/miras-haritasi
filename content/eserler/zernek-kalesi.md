@@ -1,18 +1,17 @@
 ---
-title: "Zernek Kalesi | Miras Haritası"
-date: 2025-12-25T01:35:15+03:00
+title: "Zernek Kalesi"
+date: "2025-12-25T01:35:15+03:00"
 slug: "zernek-kalesi"
 description: "## Zernek Kalesi: Van'ın Tarihî Mirası..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gürpınar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.6289,38.345661111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zernek Kalesi: Van'ın Tarihî Mirası

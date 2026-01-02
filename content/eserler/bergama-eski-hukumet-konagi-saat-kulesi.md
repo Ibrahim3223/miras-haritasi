@@ -1,18 +1,17 @@
 ---
-title: "Bergama Eski Hükümet Konağı Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:22:49+03:00
+title: "Bergama Eski Hükümet Konağı Saat Kulesi"
+date: "2025-12-25T17:22:49+03:00"
 slug: "bergama-eski-hukumet-konagi-saat-kulesi"
 description: "### Bergama Eski Hükümet Konağı Saat Kulesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "27.1767882,39.1180665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bergama Eski Hükümet Konağı Saat Kulesi

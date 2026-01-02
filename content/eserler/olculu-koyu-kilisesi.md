@@ -1,18 +1,17 @@
 ---
-title: "Ölçülü Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:24:17+03:00
+title: "Ölçülü Köyü Kilisesi"
+date: "2025-12-25T09:24:17+03:00"
 slug: "olculu-koyu-kilisesi"
 description: "### Ölçülü Köyü Kilisesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.2546616,40.5681229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ölçülü Köyü Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Hundi Hoca Camii | Miras Haritası"
-date: 2025-12-24T23:35:58+03:00
+title: "Hundi Hoca Camii"
+date: "2025-12-24T23:35:58+03:00"
 slug: "hundi-hoca-camii"
 description: "**Hundi Hoca Camii: Altındağ'da Bir Geç Osmanlı Dönemi Eseri**..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacı Bayram"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8607941,39.9347839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hundi Hoca Camii: Altındağ'da Bir Geç Osmanlı Dönemi Eseri**

@@ -1,18 +1,17 @@
 ---
-title: "Polat Hacı Mehmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:16+03:00
+title: "Polat Hacı Mehmet Ağa Çeşmesi"
+date: "2025-12-25T11:26:16+03:00"
 slug: "polat-haci-mehmet-aga-cesmesi"
 description: "## Polat Hacı Mehmet Ağa Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4327335,38.6127472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Polat Hacı Mehmet Ağa Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi

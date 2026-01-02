@@ -1,18 +1,17 @@
 ---
-title: "Murat Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:27+03:00
+title: "Murat Baba Türbesi"
+date: "2025-12-25T14:53:27+03:00"
 slug: "murat-baba-turbesi"
 description: "## Murat Baba Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.2495956,38.7032051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Murat Baba Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Mahmud Vehbi Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:45+03:00
+title: "Mahmud Vehbi Efendi Türbesi"
+date: "2025-12-25T14:18:45+03:00"
 slug: "mahmud-vehbi-efendi-turbesi"
 description: "## Mahmud Vehbi Efendi Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Pasinler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.765,39.9818"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmud Vehbi Efendi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Narin Camii (Tire) | Miras Haritası"
-date: 2025-12-25T00:58:58+03:00
+title: "Narin Camii (Tire)"
+date: "2025-12-25T00:58:58+03:00"
 slug: "narin-camii-tire"
 description: "## Narin Camii: Tire'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.736208,38.0820808"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Narin Camii: Tire'nin Tarihi Bir Mirası

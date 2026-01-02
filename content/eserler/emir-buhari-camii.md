@@ -1,18 +1,17 @@
 ---
-title: "Emir Buhari Camii | Miras Haritası"
-date: 2025-12-24T21:39:03+03:00
+title: "Emir Buhari Camii"
+date: "2025-12-24T21:39:03+03:00"
 slug: "emir-buhari-camii"
 description: "## Emir Buhari Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Istanbul_Ahmed_Emir_Buhari_Mescidi_in_2015_8686.jpg/1200px-Istanbul_Ahmed_Emir_Buhari_Mescidi_in_2015_8686.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Akşemsettin"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.946361111,41.020083333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Emir Buhari Camii

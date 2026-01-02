@@ -1,18 +1,17 @@
 ---
-title: "Çimenlik Kalesi Camii | Miras Haritası"
-date: 2025-12-24T22:32:11+03:00
+title: "Çimenlik Kalesi Camii"
+date: "2025-12-24T22:32:11+03:00"
 slug: "cimenlik-kalesi-camii"
 description: "## Çimenlik Kalesi Camii: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.3989086,40.1460533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çimenlik Kalesi Camii: Çanakkale'nin Gizli Cenneti

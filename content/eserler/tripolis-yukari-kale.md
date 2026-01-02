@@ -1,18 +1,17 @@
 ---
-title: "Tripolis Yukarı Kale | Miras Haritası"
-date: 2025-12-25T01:19:42+03:00
+title: "Tripolis Yukarı Kale"
+date: "2025-12-25T01:19:42+03:00"
 slug: "tripolis-yukari-kale"
 description: "## Tripolis Yukarı Kale: Denizli'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Buldan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.952795,38.0490952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tripolis Yukarı Kale: Denizli'nin Tarihî Bir Mirası

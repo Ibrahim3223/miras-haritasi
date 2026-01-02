@@ -1,18 +1,17 @@
 ---
-title: "Sakarya Meydan Muharebesi Müzesi, Haymana | Miras Haritası"
-date: 2025-12-25T03:48:17+03:00
+title: "Sakarya Meydan Muharebesi Müzesi, Haymana"
+date: "2025-12-25T03:48:17+03:00"
 slug: "sakarya-meydan-muharebesi-muzesi-haymana"
 description: "## Sakarya Meydan Muharebesi Müzesi: Türkiye'nin Köklü Tarihine Yönelik Bir Yolculuk..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Haymana"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.49617,39.4324036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarya Meydan Muharebesi Müzesi: Türkiye'nin Köklü Tarihine Yönelik Bir Yolculuk

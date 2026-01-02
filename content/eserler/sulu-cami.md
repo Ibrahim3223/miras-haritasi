@@ -1,18 +1,17 @@
 ---
-title: "Sulu Cami | Miras Haritası"
-date: 2025-12-24T23:08:12+03:00
+title: "Sulu Cami"
+date: "2025-12-24T23:08:12+03:00"
 slug: "sulu-cami"
 description: "## Sulu Cami: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.3176613,37.7536812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sulu Cami: Şanlıurfa'nın Tarihi Bir Mirası

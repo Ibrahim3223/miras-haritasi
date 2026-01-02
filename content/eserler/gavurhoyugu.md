@@ -1,18 +1,17 @@
 ---
-title: "Gavurhöyüğü | Miras Haritası"
-date: 2025-12-25T06:28:22+03:00
+title: "Gavurhöyüğü"
+date: "2025-12-25T06:28:22+03:00"
 slug: "gavurhoyugu"
 description: "# Gavurhöyüğü Arkeolojik Sit..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.4100902,38.91009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gavurhöyüğü Arkeolojik Sit

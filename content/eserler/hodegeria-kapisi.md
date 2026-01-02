@@ -1,18 +1,17 @@
 ---
-title: "Hodegeria Kapısı | Miras Haritası"
-date: 2025-12-25T13:18:28+03:00
+title: "Hodegeria Kapısı"
+date: "2025-12-25T13:18:28+03:00"
 slug: "hodegeria-kapisi"
 description: "## Hodegeria Kapısı: İstanbul'un Gerçek Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.986462,41.008575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hodegeria Kapısı: İstanbul'un Gerçek Bir Anıt

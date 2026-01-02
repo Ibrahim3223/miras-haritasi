@@ -1,18 +1,17 @@
 ---
-title: "Yenikale Şehitliği | Miras Haritası"
-date: 2025-12-25T16:00:54+03:00
+title: "Yenikale Şehitliği"
+date: "2025-12-25T16:00:54+03:00"
 slug: "yenikale-sehitligi"
 description: "# Yenikale Şehitliği..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Narlıdere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.0180492,38.4108315"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yenikale Şehitliği

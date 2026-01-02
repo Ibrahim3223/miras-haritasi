@@ -1,18 +1,17 @@
 ---
-title: "Çeşmelisebil Höyük | Miras Haritası"
-date: 2025-12-25T06:08:50+03:00
+title: "Çeşmelisebil Höyük"
+date: "2025-12-25T06:08:50+03:00"
 slug: "cesmelisebil-hoyuk"
 description: "# Çeşmelisebil Höyük: Konya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Sarayönü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.550045,38.6239128"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çeşmelisebil Höyük: Konya'nın Gizli Anıtı

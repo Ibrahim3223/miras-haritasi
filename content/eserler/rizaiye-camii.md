@@ -1,18 +1,17 @@
 ---
-title: "Rızaiye Camii | Miras Haritası"
-date: 2025-12-24T22:39:13+03:00
+title: "Rızaiye Camii"
+date: "2025-12-24T22:39:13+03:00"
 slug: "rizaiye-camii"
 description: "## Rızaiye Camii: Sındırgı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Sındırgı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.1763382,39.234436"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rızaiye Camii: Sındırgı'nın Tarihi ve Kültürel Mirası

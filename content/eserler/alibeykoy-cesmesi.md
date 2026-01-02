@@ -1,18 +1,17 @@
 ---
-title: "Alibeyköy Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:25+03:00
+title: "Alibeyköy Çeşmesi"
+date: "2025-12-25T11:17:25+03:00"
 slug: "alibeykoy-cesmesi"
 description: "### Alibeyköy Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hatice_Sultan_Mosque_20220601_155700.jpg/1200px-Hatice_Sultan_Mosque_20220601_155700.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.946931,41.076762"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Alibeyköy Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Şarköy Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:10+03:00
+title: "Şarköy Etnografya Müzesi"
+date: "2025-12-25T03:51:10+03:00"
 slug: "sarkoy-etnografya-muzesi"
 description: "## Şarköy Etnografya Müzesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.113678,40.6151085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şarköy Etnografya Müzesi

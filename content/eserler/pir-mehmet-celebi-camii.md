@@ -1,18 +1,17 @@
 ---
-title: "Pir Mehmet Çelebi Camii | Miras Haritası"
-date: 2025-12-24T22:39:25+03:00
+title: "Pir Mehmet Çelebi Camii"
+date: "2025-12-24T22:39:25+03:00"
 slug: "pir-mehmet-celebi-camii"
 description: "### Pir Mehmet Çelebi Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pir_Mehmet_Çelebi_Camii,_Amasya_02.jpg/1200px-Pir_Mehmet_Çelebi_Camii,_Amasya_02.jpg"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8340302,40.6515503"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Pir Mehmet Çelebi Camii Tanıtımı

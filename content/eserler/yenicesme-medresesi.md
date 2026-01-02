@@ -1,18 +1,17 @@
 ---
-title: "Yeniçeşme Medresesi | Miras Haritası"
-date: 2025-12-25T17:28:41+03:00
+title: "Yeniçeşme Medresesi"
+date: "2025-12-25T17:28:41+03:00"
 slug: "yenicesme-medresesi"
 description: "# Yeniçeşme Medresesi: İstanbul'un Eski Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Yeniçeşme_Medresesi_(inşaat).JPG/1200px-Yeniçeşme_Medresesi_(inşaat).JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.950333333,41.022833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Yeniçeşme Medresesi: İstanbul'un Eski Medresesi

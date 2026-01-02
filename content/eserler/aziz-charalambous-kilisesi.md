@@ -1,18 +1,17 @@
 ---
-title: "Aziz Charalambous Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:52+03:00
+title: "Aziz Charalambous Kilisesi"
+date: "2025-12-25T09:01:52+03:00"
 slug: "aziz-charalambous-kilisesi"
 description: "## Aziz Charalambous Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Charalambous Kilisesi

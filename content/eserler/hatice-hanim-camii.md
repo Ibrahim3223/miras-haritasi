@@ -1,18 +1,17 @@
 ---
-title: "Hatice Hanım Camii | Miras Haritası"
-date: 2025-12-24T23:31:06+03:00
+title: "Hatice Hanım Camii"
+date: "2025-12-24T23:31:06+03:00"
 slug: "hatice-hanim-camii"
 description: "## Hatice Hanım Camii: Kuşadası'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2595005,37.8582001"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatice Hanım Camii: Kuşadası'nın Tarihi ve Kültürel Mirası

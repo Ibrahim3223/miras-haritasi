@@ -1,18 +1,17 @@
 ---
-title: "Eyyuhum Ahmet Çelebi Camii | Miras Haritası"
-date: 2025-12-24T22:53:50+03:00
+title: "Eyyuhum Ahmet Çelebi Camii"
+date: "2025-12-24T22:53:50+03:00"
 slug: "eyyuhum-ahmet-celebi-camii"
 description: "### Eyyûhum Ahmet Çelebi Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9725399,41.0382156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eyyûhum Ahmet Çelebi Camii: İstanbul'un Gizli Cenneti

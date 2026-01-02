@@ -1,18 +1,17 @@
 ---
-title: "Merkez Efendi Darülkurrası | Miras Haritası"
-date: 2025-12-25T17:31:56+03:00
+title: "Merkez Efendi Darülkurrası"
+date: "2025-12-25T17:31:56+03:00"
 slug: "merkez-efendi-darulkurrasi"
 description: "### Merkez Efendi Darülkurrası: Zeytinburnu'nun Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Merkez_efendi_darülkurrası.jpg/1200px-Merkez_efendi_darülkurrası.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9199276,41.0159683"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Merkez Efendi Darülkurrası: Zeytinburnu'nun Tarihi Mirası

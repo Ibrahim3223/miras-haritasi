@@ -1,18 +1,17 @@
 ---
-title: "Yarıktepe A Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:02:44+03:00
+title: "Yarıktepe A Tümülüsü"
+date: "2025-12-25T08:02:44+03:00"
 slug: "yariktepe-a-tumulusu"
 description: "## Yarıktepe A Tümülüsü: Vize'nin Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7603531,41.5440483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarıktepe A Tümülüsü: Vize'nin Gizemi

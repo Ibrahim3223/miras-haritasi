@@ -1,18 +1,17 @@
 ---
-title: "Akdoğan Höyük | Miras Haritası"
-date: 2025-12-25T06:42:11+03:00
+title: "Akdoğan Höyük"
+date: "2025-12-25T06:42:11+03:00"
 slug: "akdogan-hoyuk"
 description: "**Akdoğan Höyük: Konya'nın Gizli Mirası**..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Sarayönü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.4845606,38.2185301"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Akdoğan Höyük: Konya'nın Gizli Mirası**

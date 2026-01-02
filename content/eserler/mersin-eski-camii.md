@@ -1,18 +1,17 @@
 ---
-title: "Mersin Eski Camii | Miras Haritası"
-date: 2025-12-24T21:53:15+03:00
+title: "Mersin Eski Camii"
+date: "2025-12-24T21:53:15+03:00"
 slug: "mersin-eski-camii"
 description: "## Mersin Eski Camii: Akdeniz'in Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Old_Mosque_of_Mersin.jpg/1200px-Old_Mosque_of_Mersin.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Akdeniz"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.630218,36.798377"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mersin Eski Camii: Akdeniz'in Tarihi Bir Anıtı

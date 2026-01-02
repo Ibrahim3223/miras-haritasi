@@ -1,18 +1,17 @@
 ---
-title: "Tamzara Hamamı | Miras Haritası"
-date: 2025-12-25T16:41:44+03:00
+title: "Tamzara Hamamı"
+date: "2025-12-25T16:41:44+03:00"
 slug: "tamzara-hamami"
 description: "# Tamzara Hamamı..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "38.435387,40.326984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tamzara Hamamı

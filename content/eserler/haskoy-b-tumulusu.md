@@ -1,18 +1,17 @@
 ---
-title: "Hasköy B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:39:52+03:00
+title: "Hasköy B Tümülüsü"
+date: "2025-12-25T07:39:52+03:00"
 slug: "haskoy-b-tumulusu"
 description: "## Hasköy B Tümülüsü: Tarihî Bir Eserin Gizemi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8539143,41.6382484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasköy B Tümülüsü: Tarihî Bir Eserin Gizemi

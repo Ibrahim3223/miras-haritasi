@@ -1,18 +1,17 @@
 ---
-title: "Osmanlı Camii (Arnavutköy) | Miras Haritası"
-date: 2025-12-24T21:49:09+03:00
+title: "Osmanlı Camii (Arnavutköy)"
+date: "2025-12-24T21:49:09+03:00"
 slug: "osmanli-camii-arnavutkoy"
 description: "# Osmanlı Camii (Arnavutköy)..."
 featured_image: ""
-province: "Arnavutköy"
-iller: ["Arnavutköy"]
-district: "İslambey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Arnavutköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.742027777,41.188277777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Osmanlı Camii (Arnavutköy)

@@ -1,18 +1,17 @@
 ---
-title: "Nevşehirli Damat İbrahim Paşa Çeşmesi, Topkapı Sarayı | Miras Haritası"
-date: 2025-12-25T12:16:20+03:00
+title: "Nevşehirli Damat İbrahim Paşa Çeşmesi, Topkapı Sarayı"
+date: "2025-12-25T12:16:20+03:00"
 slug: "nevsehirli-damat-ibrahim-pasa-cesmesi-topkapi-sarayi"
 description: "## Nevşehirli Damat İbrahim Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9829981,41.0114727"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Nevşehirli Damat İbrahim Paşa Çeşmesi

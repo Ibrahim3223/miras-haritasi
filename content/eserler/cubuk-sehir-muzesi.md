@@ -1,18 +1,17 @@
 ---
-title: "Çubuk Şehir Müzesi | Miras Haritası"
-date: 2025-12-25T03:22:51+03:00
+title: "Çubuk Şehir Müzesi"
+date: "2025-12-25T03:22:51+03:00"
 slug: "cubuk-sehir-muzesi"
 description: "## Çubuk Şehir Müzesi: Ankara'da Kültür ve Tarih Mirasının Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Çubuk_Şehir_Müzesi_11.jpg/1200px-Çubuk_Şehir_Müzesi_11.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.031195,40.238713"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çubuk Şehir Müzesi: Ankara'da Kültür ve Tarih Mirasının Merkezi

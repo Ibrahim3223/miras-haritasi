@@ -1,18 +1,17 @@
 ---
-title: "Ali Paşa Camii, Altınekin | Miras Haritası"
-date: 2025-12-25T00:08:15+03:00
+title: "Ali Paşa Camii, Altınekin"
+date: "2025-12-25T00:08:15+03:00"
 slug: "ali-pasa-camii-altinekin"
 description: "## Ali Paşa Camii, Altınekin: Bir Geçiş Döneminin Mimari Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Altınekin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.868851633,38.307803111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Paşa Camii, Altınekin: Bir Geçiş Döneminin Mimari Mirası

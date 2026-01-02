@@ -1,18 +1,17 @@
 ---
-title: "Castabus | Miras Haritası"
-date: 2025-12-25T04:31:43+03:00
+title: "Castabus"
+date: "2025-12-25T04:31:43+03:00"
 slug: "castabus"
 description: "## Castabus: Muğla'nın Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.15674,36.78458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Castabus: Muğla'nın Gizli Arkeolojik Mirası

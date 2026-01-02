@@ -1,18 +1,17 @@
 ---
-title: "Soğukkuyu Mescidi | Miras Haritası"
-date: 2025-12-25T00:44:49+03:00
+title: "Soğukkuyu Mescidi"
+date: "2025-12-25T00:44:49+03:00"
 slug: "sogukkuyu-mescidi"
 description: "## Soğukkuyu Mescidi: Nallıhan'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Nallıhan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.026710511,40.089660468"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğukkuyu Mescidi: Nallıhan'ın Tarihi Bir Mirası

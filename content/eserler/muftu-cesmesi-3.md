@@ -1,18 +1,17 @@
 ---
-title: "Müftü Çeşmesi 3 | Miras Haritası"
-date: 2025-12-25T10:17:44+03:00
+title: "Müftü Çeşmesi 3"
+date: "2025-12-25T10:17:44+03:00"
 slug: "muftu-cesmesi-3"
 description: "## Müftü Çeşmesi 3: Şebinkarahisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.420785,40.284895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müftü Çeşmesi 3: Şebinkarahisar'ın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Ali Fakih Camii | Miras Haritası"
-date: 2025-12-24T22:45:15+03:00
+title: "Ali Fakih Camii"
+date: "2025-12-24T22:45:15+03:00"
 slug: "ali-fakih-camii"
 description: "## Ali Fakih Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ali_Faki_Mosque_in_2007_0774.jpg/1200px-Ali_Faki_Mosque_in_2007_0774.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.92665,41.001564"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ali Fakih Camii

@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale ve Gelibolu 1. Dünya Savaşı Alanları | Miras Haritası"
-date: 2025-12-25T16:01:14+03:00
+title: "Çanakkale ve Gelibolu 1. Dünya Savaşı Alanları"
+date: "2025-12-25T16:01:14+03:00"
 slug: "canakkale-ve-gelibolu-1-dunya-savasi-alanlari"
 description: "## Çanakkale ve Gelibolu 1. Dünya Savaşı Alanları..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.1771202,40.0446815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale ve Gelibolu 1. Dünya Savaşı Alanları

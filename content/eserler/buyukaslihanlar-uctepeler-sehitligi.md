@@ -1,18 +1,17 @@
 ---
-title: "Büyükaslıhanlar Üçtepeler Şehitliği | Miras Haritası"
-date: 2025-12-25T14:09:52+03:00
+title: "Büyükaslıhanlar Üçtepeler Şehitliği"
+date: "2025-12-25T14:09:52+03:00"
 slug: "buyukaslihanlar-uctepeler-sehitligi"
 description: "## Büyükaslıhanlar Üçtepeler Şehitliği..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Dumlupınar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.007082,38.8990059"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükaslıhanlar Üçtepeler Şehitliği

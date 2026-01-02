@@ -1,18 +1,17 @@
 ---
-title: "Alanbaşı Aslanlı Camii | Miras Haritası"
-date: 2025-12-25T00:55:03+03:00
+title: "Alanbaşı Aslanlı Camii"
+date: "2025-12-25T00:55:03+03:00"
 slug: "alanbasi-aslanli-camii"
 description: "### Alanbaşı Aslanlı Camii: Artvin'in Gizli Örlü..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.4106,40.6898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alanbaşı Aslanlı Camii: Artvin'in Gizli Örlü

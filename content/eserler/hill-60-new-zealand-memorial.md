@@ -1,18 +1,17 @@
 ---
-title: "Hill 60 (New Zealand) Memorial | Miras Haritası"
-date: 2025-12-25T14:01:30+03:00
+title: "Hill 60 (New Zealand) Memorial"
+date: "2025-12-25T14:01:30+03:00"
 slug: "hill-60-new-zealand-memorial"
 description: "### Hill 60 (Yeni Zelanda) Anıtı..."
 featured_image: ""
 province: "Eceabat"
-iller: ["Eceabat"]
+iller: '["Eceabat"]'
 district: "Büyükanafarta"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2933,40.27273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hill 60 (Yeni Zelanda) Anıtı

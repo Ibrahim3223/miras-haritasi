@@ -1,18 +1,17 @@
 ---
-title: "Hasan Bey Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:16+03:00
+title: "Hasan Bey Medresesi"
+date: "2025-12-25T17:36:16+03:00"
 slug: "hasan-bey-medresesi"
 description: "## Hasan Bey Medresesi..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gürpınar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "43.7973251,38.3175621"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Bey Medresesi

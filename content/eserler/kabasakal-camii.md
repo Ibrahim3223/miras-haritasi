@@ -1,18 +1,17 @@
 ---
-title: "Kabasakal Camii | Miras Haritası"
-date: 2025-12-24T23:36:46+03:00
+title: "Kabasakal Camii"
+date: "2025-12-24T23:36:46+03:00"
 slug: "kabasakal-camii"
 description: "## Kabasakal Camii: Menteşe'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.2840118,37.1370354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabasakal Camii: Menteşe'nin Tarihi Bir Mirası

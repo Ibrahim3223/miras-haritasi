@@ -1,18 +1,17 @@
 ---
-title: "İsmail Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:10+03:00
+title: "İsmail Bey Türbesi"
+date: "2025-12-25T14:42:10+03:00"
 slug: "ismail-bey-turbesi"
 description: "# İsmail Bey Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7773018,41.3839645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # İsmail Bey Türbesi

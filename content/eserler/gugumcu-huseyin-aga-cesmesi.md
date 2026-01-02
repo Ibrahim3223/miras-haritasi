@@ -1,18 +1,17 @@
 ---
-title: "Güğümcü Hüseyin Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:26:19+03:00
+title: "Güğümcü Hüseyin Ağa Çeşmesi"
+date: "2025-12-25T12:26:19+03:00"
 slug: "gugumcu-huseyin-aga-cesmesi"
 description: "## Güğümcü Hüseyin Ağa Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arapgir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.506843314,39.015943376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güğümcü Hüseyin Ağa Çeşmesi

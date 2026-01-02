@@ -1,18 +1,17 @@
 ---
-title: "Tokalaşma Steli | Miras Haritası"
-date: 2025-12-25T14:12:55+03:00
+title: "Tokalaşma Steli"
+date: "2025-12-25T14:12:55+03:00"
 slug: "tokalasma-steli"
 description: "**Tokalaşma Steli**..."
 featured_image: ""
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Adıyaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tokalaşma Steli**

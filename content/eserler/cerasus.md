@@ -1,18 +1,17 @@
 ---
-title: "Cerasus | Miras Haritası"
-date: 2025-12-25T08:09:15+03:00
+title: "Cerasus"
+date: "2025-12-25T08:09:15+03:00"
 slug: "cerasus"
 description: "## Cerasus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.319029,41.05814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cerasus Arkeolojik Sit

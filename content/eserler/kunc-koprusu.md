@@ -1,18 +1,17 @@
 ---
-title: "Kunç Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:21+03:00
+title: "Kunç Köprüsü"
+date: "2025-12-25T02:43:21+03:00"
 slug: "kunc-koprusu"
 description: "### Amasya'nın Gizli Çehresinin Kuytu Noktası: Kunç Köprüsü..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "35.8353424,40.6578865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Amasya'nın Gizli Çehresinin Kuytu Noktası: Kunç Köprüsü

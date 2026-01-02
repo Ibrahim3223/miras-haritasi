@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ahmet Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:26:23+03:00
+title: "Hacı Ahmet Çeşmesi"
+date: "2025-12-25T11:26:23+03:00"
 slug: "haci-ahmet-cesmesi"
 description: "## Hacı Ahmet Çeşmesi: Kırkağaç'ta Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Kırkağaç"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.6686153,39.1013794"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ahmet Çeşmesi: Kırkağaç'ta Bir Tarihi Çeşme

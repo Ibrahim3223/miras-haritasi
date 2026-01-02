@@ -1,18 +1,17 @@
 ---
-title: "Hasankeyf Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:24+03:00
+title: "Hasankeyf Kalesi"
+date: "2025-12-25T01:32:24+03:00"
 slug: "hasankeyf-kalesi"
 description: "## Hasankeyf Kalesi: Geçmişten Geleceğe Bir Kahraman..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Hasankeyf"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.410094,37.711979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasankeyf Kalesi: Geçmişten Geleceğe Bir Kahraman

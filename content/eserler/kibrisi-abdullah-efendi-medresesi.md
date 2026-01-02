@@ -1,18 +1,17 @@
 ---
-title: "Kıbrısi Abdullah Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:25:47+03:00
+title: "Kıbrısi Abdullah Efendi Medresesi"
+date: "2025-12-25T17:25:47+03:00"
 slug: "kibrisi-abdullah-efendi-medresesi"
 description: "## Kıbrısi Abdullah Efendi Medresesi: İstanbul'un Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.951966,41.023081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kıbrısi Abdullah Efendi Medresesi: İstanbul'un Gizli Çehresi

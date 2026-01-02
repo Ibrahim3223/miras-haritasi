@@ -1,18 +1,18 @@
 ---
-title: "Ali Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:21:54+03:00
+title: "Ali Ağa Çeşmesi"
+date: "2025-12-25T10:21:54+03:00"
 slug: "ali-aga-cesmesi"
 description: "## Ali Ağa Çeşmesi: Uşak'ta Bir Kültür Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ali_Aa_emesi_1761589686.jpg/1200px-Ali_Aa_emesi_1761589686.jpg"
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.4026432,38.6807861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ali_Aa_emesi_1761589686.jpg/1200px-Ali_Aa_emesi_1761589686.jpg"
 ---
 
 ## Ali Ağa Çeşmesi: Uşak'ta Bir Kültür Mirası

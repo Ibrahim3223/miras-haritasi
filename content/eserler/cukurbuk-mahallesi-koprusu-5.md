@@ -1,18 +1,17 @@
 ---
-title: "Çukurbük Mahallesi Köprüsü 5 | Miras Haritası"
-date: 2025-12-25T02:35:17+03:00
+title: "Çukurbük Mahallesi Köprüsü 5"
+date: "2025-12-25T02:35:17+03:00"
 slug: "cukurbuk-mahallesi-koprusu-5"
 description: "## Çukurbük Mahallesi Köprüsü 5..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.165996,41.093726"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çukurbük Mahallesi Köprüsü 5

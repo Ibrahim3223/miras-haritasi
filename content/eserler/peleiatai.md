@@ -1,18 +1,17 @@
 ---
-title: "Peleiatai | Miras Haritası"
-date: 2025-12-25T05:22:09+03:00
+title: "Peleiatai"
+date: "2025-12-25T05:22:09+03:00"
 slug: "peleiatai"
 description: "## Peleiatai Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "http://www.wikidata.org/.well-known/genid/93e9bff232737c5d976df174bd9e9d14"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Peleiatai Arkeolojik Sitesi

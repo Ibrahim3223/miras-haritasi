@@ -1,18 +1,17 @@
 ---
-title: "Balaban Camii, Sivrihisar | Miras Haritası"
-date: 2025-12-25T00:27:56+03:00
+title: "Balaban Camii, Sivrihisar"
+date: "2025-12-25T00:27:56+03:00"
 slug: "balaban-camii-sivrihisar"
 description: "## Balaban Camii, Sivrihisar: Eskişehir'in Tarihi bir Öreni..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.5420704,39.4496384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Balaban Camii, Sivrihisar: Eskişehir'in Tarihi bir Öreni

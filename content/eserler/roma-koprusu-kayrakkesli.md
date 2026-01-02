@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Kayrakkeşli | Miras Haritası"
-date: 2025-12-25T02:57:03+03:00
+title: "Roma Köprüsü, Kayrakkeşli"
+date: "2025-12-25T02:57:03+03:00"
 slug: "roma-koprusu-kayrakkesli"
 description: "## Roma Köprüsü, Kayrakkeşli: Toroslar'ın Gizli Cüzdanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kızılasma_Köprüsü.jpg/1200px-Kızılasma_Köprüsü.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Toroslar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.484055,36.949623"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Roma Köprüsü, Kayrakkeşli: Toroslar'ın Gizli Cüzdanı

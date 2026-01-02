@@ -1,18 +1,17 @@
 ---
-title: "Tenba | Miras Haritası"
-date: 2025-12-25T05:39:47+03:00
+title: "Tenba"
+date: "2025-12-25T05:39:47+03:00"
 slug: "tenba"
 description: "## Tenba Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.0199,41.13172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tenba Arkeolojik Sit

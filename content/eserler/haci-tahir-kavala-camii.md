@@ -1,18 +1,17 @@
 ---
-title: "Hacı Tahir Kavala Camii | Miras Haritası"
-date: 2025-12-24T23:29:44+03:00
+title: "Hacı Tahir Kavala Camii"
+date: "2025-12-24T23:29:44+03:00"
 slug: "haci-tahir-kavala-camii"
 description: "## Hacı Tahir Kavala Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.3864326,40.757843"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Tahir Kavala Camii

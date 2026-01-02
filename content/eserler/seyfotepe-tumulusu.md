@@ -1,18 +1,17 @@
 ---
-title: "Seyfotepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:26:21+03:00
+title: "Seyfotepe Tümülüsü"
+date: "2025-12-25T07:26:21+03:00"
 slug: "seyfotepe-tumulusu"
 description: "## Seyfotepe Tümülüsü: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.0537224,38.3050995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyfotepe Tümülüsü: Malatya'nın Gizli Mirası

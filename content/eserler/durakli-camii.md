@@ -1,18 +1,17 @@
 ---
-title: "Duraklı Camii | Miras Haritası"
-date: 2025-12-24T22:36:15+03:00
+title: "Duraklı Camii"
+date: "2025-12-24T22:36:15+03:00"
 slug: "durakli-camii"
 description: "## Duraklı Camii: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.9372482,37.584362"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Duraklı Camii: Tarihi ve Kültürel Mirasının Bir Parçası

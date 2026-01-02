@@ -1,18 +1,17 @@
 ---
-title: "Şahpaz Köyü Cami | Miras Haritası"
-date: 2025-12-24T23:07:55+03:00
+title: "Şahpaz Köyü Cami"
+date: "2025-12-24T23:07:55+03:00"
 slug: "sahpaz-koyu-cami"
 description: "## Şahpaz Köyü Cami..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8789825,41.0828857"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şahpaz Köyü Cami

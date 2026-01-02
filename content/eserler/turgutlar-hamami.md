@@ -1,18 +1,17 @@
 ---
-title: "Turgutlar Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:56+03:00
+title: "Turgutlar Hamamı"
+date: "2025-12-25T16:40:56+03:00"
 slug: "turgutlar-hamami"
 description: "## Turgutlar Hamamı..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.1466637,42.0249901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turgutlar Hamamı

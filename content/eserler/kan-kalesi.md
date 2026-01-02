@@ -1,18 +1,17 @@
 ---
-title: "Kan Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:40+03:00
+title: "Kan Kalesi"
+date: "2025-12-25T01:40:40+03:00"
 slug: "kan-kalesi"
 description: "## Kan Kalesi: Ardahan'ın Tarihî Mirası..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Çıldır"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "43.2266452,41.0145545"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kan Kalesi: Ardahan'ın Tarihî Mirası

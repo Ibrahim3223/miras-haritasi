@@ -1,18 +1,17 @@
 ---
-title: "Sahne Tozu Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:19:43+03:00
+title: "Sahne Tozu Tiyatrosu"
+date: "2025-12-25T16:19:43+03:00"
 slug: "sahne-tozu-tiyatrosu"
 description: "### Sahne Tozu Tiyatrosu: İzmir'in Antik Tiyatro Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sahne_Tozu_Tiyatrosu,_2019-04-27.jpg/1200px-Sahne_Tozu_Tiyatrosu,_2019-04-27.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sahne Tozu Tiyatrosu: İzmir'in Antik Tiyatro Harikası

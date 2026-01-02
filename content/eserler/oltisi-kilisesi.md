@@ -1,18 +1,17 @@
 ---
-title: "Oltisi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:13+03:00
+title: "Oltisi Kilisesi"
+date: "2025-12-25T09:01:13+03:00"
 slug: "oltisi-kilisesi"
 description: "## Oltusi Kilisesi: Erzurum'un Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Oltu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.993361111,40.543388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oltusi Kilisesi: Erzurum'un Tarihi Bir Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Çeşmedamı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:57:52+03:00
+title: "Çeşmedamı Çeşmesi"
+date: "2025-12-25T12:57:52+03:00"
 slug: "cesmedami-cesmesi"
 description: "## Çeşmedamı Çeşmesi..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.2843704,37.717186"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşmedamı Çeşmesi

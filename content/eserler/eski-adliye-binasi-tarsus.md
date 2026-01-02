@@ -1,18 +1,17 @@
 ---
-title: "Eski Adliye Binası, Tarsus | Miras Haritası"
-date: 2025-12-25T04:00:51+03:00
+title: "Eski Adliye Binası, Tarsus"
+date: "2025-12-25T04:00:51+03:00"
 slug: "eski-adliye-binasi-tarsus"
 description: "**Eski Adliye Binası, Tarsus**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.8920631,36.9170456"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Eski Adliye Binası, Tarsus**

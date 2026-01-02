@@ -1,18 +1,17 @@
 ---
-title: "Arap Seyyid Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:43+03:00
+title: "Arap Seyyid Sultan Türbesi"
+date: "2025-12-25T14:24:43+03:00"
 slug: "arap-seyyid-sultan-turbesi"
 description: "## Arap Seyyid Sultan Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.437654,38.617663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arap Seyyid Sultan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Harran antik kenti | Miras Haritası"
-date: 2025-12-25T03:34:48+03:00
+title: "Harran antik kenti"
+date: "2025-12-25T03:34:48+03:00"
 slug: "harran-antik-kenti"
 description: "### Harran Antik Kenti: Mezopotamya'nın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ancient_city_of_Harran_Ruins_-_Sanliurfa.jpg/1200px-Ancient_city_of_Harran_Ruins_-_Sanliurfa.jpg"
 province: "Part İmparatorluğu"
-iller: ["Part İmparatorluğu"]
+iller: '["Part İmparatorluğu"]'
 district: "Harran"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Harran Antik Kenti: Mezopotamya'nın Gizli Anıtı

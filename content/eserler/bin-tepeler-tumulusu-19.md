@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü 19 | Miras Haritası"
-date: 2025-12-25T07:13:47+03:00
+title: "Bin Tepeler Tümülüsü 19"
+date: "2025-12-25T07:13:47+03:00"
 slug: "bin-tepeler-tumulusu-19"
 description: "## Bin Tepeler Tümülüsü 19: Salihli'de Bir Arkeolojik Büyü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.006769,38.57156"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bin Tepeler Tümülüsü 19: Salihli'de Bir Arkeolojik Büyü

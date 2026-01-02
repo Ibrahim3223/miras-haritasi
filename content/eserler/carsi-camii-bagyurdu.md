@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Bağyurdu | Miras Haritası"
-date: 2025-12-25T00:04:22+03:00
+title: "Çarşı Camii, Bağyurdu"
+date: "2025-12-25T00:04:22+03:00"
 slug: "carsi-camii-bagyurdu"
 description: "## Çarşı Camii, Bağyurdu: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6362305,38.4145432"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Bağyurdu: İzmir'in Gizli Cenneti

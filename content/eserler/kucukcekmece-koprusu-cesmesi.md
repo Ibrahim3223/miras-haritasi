@@ -1,18 +1,17 @@
 ---
-title: "Küçükçekmece Köprüsü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:08:52+03:00
+title: "Küçükçekmece Köprüsü Çeşmesi"
+date: "2025-12-25T10:08:52+03:00"
 slug: "kucukcekmece-koprusu-cesmesi"
 description: "## Küçükçekmece Köprüsü Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Küçükçekmece"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.770106,40.990149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Küçükçekmece Köprüsü Çeşmesi

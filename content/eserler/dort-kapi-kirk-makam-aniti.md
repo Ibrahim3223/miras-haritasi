@@ -1,18 +1,17 @@
 ---
-title: "Dört Kapı Kırk Makam Anıtı | Miras Haritası"
-date: 2025-12-25T15:44:08+03:00
+title: "Dört Kapı Kırk Makam Anıtı"
+date: "2025-12-25T15:44:08+03:00"
 slug: "dort-kapi-kirk-makam-aniti"
 description: "### Dört Kapı Kırk Makam Anıtı: Bornova, İzmir'nin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dört Kapı Kırk Makam Anıtı: Bornova, İzmir'nin Gizli Cenneti

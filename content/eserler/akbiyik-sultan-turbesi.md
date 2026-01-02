@@ -1,18 +1,17 @@
 ---
-title: "Akbıyık Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:54+03:00
+title: "Akbıyık Sultan Türbesi"
+date: "2025-12-25T14:33:54+03:00"
 slug: "akbiyik-sultan-turbesi"
 description: "### Akbıyık Sultan Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.062472,40.182028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akbıyık Sultan Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Tralleis Hamam Gymnasium Yapıları | Miras Haritası"
-date: 2025-12-25T16:59:36+03:00
+title: "Tralleis Hamam Gymnasium Yapıları"
+date: "2025-12-25T16:59:36+03:00"
 slug: "tralleis-hamam-gymnasium-yapilari"
 description: "### Tralleis Hamam Gymnasium Yapıları..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.8347855,37.8599319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tralleis Hamam Gymnasium Yapıları

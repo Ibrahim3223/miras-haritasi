@@ -1,18 +1,17 @@
 ---
-title: "Murat Reis Camii | Miras Haritası"
-date: 2025-12-24T21:45:39+03:00
+title: "Murat Reis Camii"
+date: "2025-12-24T21:45:39+03:00"
 slug: "murat-reis-camii"
 description: "## Murat Reis Camii: Üsküdar'da Bir Tarihi Örnek..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Valide-i Atik"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.027611111,41.018444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Murat Reis Camii: Üsküdar'da Bir Tarihi Örnek

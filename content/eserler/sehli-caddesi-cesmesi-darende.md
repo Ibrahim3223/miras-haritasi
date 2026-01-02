@@ -1,18 +1,17 @@
 ---
-title: "Şehli Caddesi Çeşmesi, Darende | Miras Haritası"
-date: 2025-12-25T12:28:37+03:00
+title: "Şehli Caddesi Çeşmesi, Darende"
+date: "2025-12-25T12:28:37+03:00"
 slug: "sehli-caddesi-cesmesi-darende"
 description: "## Şehli Caddesi Çeşmesi, Darende..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Darende"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.58507158,38.466719819"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehli Caddesi Çeşmesi, Darende

@@ -1,18 +1,17 @@
 ---
-title: "Demirtaş Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:16+03:00
+title: "Demirtaş Paşa Hamamı"
+date: "2025-12-25T16:34:16+03:00"
 slug: "demirtas-pasa-hamami"
 description: "## Demirtaş Paşa Hamamı: Bursa'nın Bir Güzelliği..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0710904,40.1883152"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demirtaş Paşa Hamamı: Bursa'nın Bir Güzelliği

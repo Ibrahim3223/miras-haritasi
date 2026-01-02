@@ -1,18 +1,17 @@
 ---
-title: "Devegeçidi Köprüsü | Miras Haritası"
-date: 2025-12-25T01:58:41+03:00
+title: "Devegeçidi Köprüsü"
+date: "2025-12-25T01:58:41+03:00"
 slug: "devegecidi-koprusu"
 description: "## Devegeçidi Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Kayapınar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.06925,38.05333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Devegeçidi Köprüsü: Tarihi ve Kültürel Miras

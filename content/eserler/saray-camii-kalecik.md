@@ -1,18 +1,17 @@
 ---
-title: "Saray Camii, Kalecik | Miras Haritası"
-date: 2025-12-24T23:59:50+03:00
+title: "Saray Camii, Kalecik"
+date: "2025-12-24T23:59:50+03:00"
 slug: "saray-camii-kalecik"
 description: "## Saray Camii, Kalecik..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kalecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.4089355,40.0993309"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saray Camii, Kalecik

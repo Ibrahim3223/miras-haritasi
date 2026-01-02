@@ -1,18 +1,17 @@
 ---
-title: "Şehabeddin Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:10:27+03:00
+title: "Şehabeddin Paşa Camii"
+date: "2025-12-24T23:10:27+03:00"
 slug: "sehabeddin-pasa-camii"
 description: "**Şehabeddin Paşa Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Şehabeddin_Paşa_Camii_*1c.jpg/1200px-Şehabeddin_Paşa_Camii_*1c.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5582352,41.6794586"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Şehabeddin Paşa Camii**

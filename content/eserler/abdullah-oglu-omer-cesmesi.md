@@ -1,18 +1,17 @@
 ---
-title: "Abdullah Oğlu Ömer Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:35:37+03:00
+title: "Abdullah Oğlu Ömer Çeşmesi"
+date: "2025-12-25T11:35:37+03:00"
 slug: "abdullah-oglu-omer-cesmesi"
 description: "## Abdullah Oğlu Ömer Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.4389877,36.7037888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdullah Oğlu Ömer Çeşmesi

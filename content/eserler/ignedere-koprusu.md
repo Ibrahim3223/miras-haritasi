@@ -1,18 +1,17 @@
 ---
-title: "İğnedere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:33+03:00
+title: "İğnedere Köprüsü"
+date: "2025-12-25T02:14:33+03:00"
 slug: "ignedere-koprusu"
 description: "## İğnedere Köprüsü: Menemen'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menemen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.1591682,38.6564598"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İğnedere Köprüsü: Menemen'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Üsgebi Höyüğü, Bozdoğan | Miras Haritası"
-date: 2025-12-25T05:56:18+03:00
+title: "Üsgebi Höyüğü, Bozdoğan"
+date: "2025-12-25T05:56:18+03:00"
 slug: "usgebi-hoyugu-bozdogan"
 description: "### Üsgebi Höyüğü, Bozdoğan..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.3664417,37.6527023"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Üsgebi Höyüğü, Bozdoğan

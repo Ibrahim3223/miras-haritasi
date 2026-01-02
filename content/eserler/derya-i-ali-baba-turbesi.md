@@ -1,18 +1,17 @@
 ---
-title: "Derya-i Ali Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:32:44+03:00
+title: "Derya-i Ali Baba Türbesi"
+date: "2025-12-25T14:32:44+03:00"
 slug: "derya-i-ali-baba-turbesi"
 description: "# Derya-i Ali Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Derya-i_Ali_Baba_Türbesi.jpg/1200px-Derya-i_Ali_Baba_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.915709,40.990971"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Derya-i Ali Baba Türbesi

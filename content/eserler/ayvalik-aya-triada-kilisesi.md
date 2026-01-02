@@ -1,18 +1,17 @@
 ---
-title: "Ayvalık Aya Triada Kilisesi | Miras Haritası"
-date: 2025-12-25T08:54:11+03:00
+title: "Ayvalık Aya Triada Kilisesi"
+date: "2025-12-25T08:54:11+03:00"
 slug: "ayvalik-aya-triada-kilisesi"
 description: "### Ayvalık Aya Triada Kilisesi: Bir Geçmişin Eski Ayvalık'ın Kalıntıları..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.695175,39.313588"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayvalık Aya Triada Kilisesi: Bir Geçmişin Eski Ayvalık'ın Kalıntıları

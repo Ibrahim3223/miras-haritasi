@@ -1,18 +1,17 @@
 ---
-title: "Kurşunlu Camii, Harput | Miras Haritası"
-date: 2025-12-25T01:09:18+03:00
+title: "Kurşunlu Camii, Harput"
+date: "2025-12-25T01:09:18+03:00"
 slug: "kursunlu-camii-harput"
 description: "### Kurşunlu Camii: Elazığ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.2514381,38.7040367"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kurşunlu Camii: Elazığ'ın Tarihi ve Kültürel Mirası

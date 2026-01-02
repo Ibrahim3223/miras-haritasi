@@ -1,18 +1,17 @@
 ---
-title: "Haseki Camii, İstanbul | Miras Haritası"
-date: 2025-12-24T21:47:33+03:00
+title: "Haseki Camii, İstanbul"
+date: "2025-12-24T21:47:33+03:00"
 slug: "haseki-camii-istanbul"
 description: "## Haseki Camii: İstanbul'da bir Osmanlı Çağı Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fatih,_Nevbahar,_İstanbul_(16112023).jpg/1200px-Fatih,_Nevbahar,_İstanbul_(16112023).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.941944444,41.008666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Haseki Camii: İstanbul'da bir Osmanlı Çağı Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Arslanköy Kalesi | Miras Haritası"
-date: 2025-12-25T01:25:55+03:00
+title: "Arslanköy Kalesi"
+date: "2025-12-25T01:25:55+03:00"
 slug: "arslankoy-kalesi"
 description: "# Arslanköy Kalesi: Mersin'in Gizli Kahramanı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Toroslar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.2900047,36.9919472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arslanköy Kalesi: Mersin'in Gizli Kahramanı

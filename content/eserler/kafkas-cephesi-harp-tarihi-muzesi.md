@@ -1,18 +1,17 @@
 ---
-title: "Kafkas Cephesi Harp Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:38:15+03:00
+title: "Kafkas Cephesi Harp Tarihi Müzesi"
+date: "2025-12-25T03:38:15+03:00"
 slug: "kafkas-cephesi-harp-tarihi-muzesi"
 description: "## Kafkas Cephesi Harp Tarihi Müzesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kafkas Cephesi Harp Tarihi Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Demircili Yukarı Anıt Mezar | Miras Haritası"
-date: 2025-12-25T14:08:50+03:00
+title: "Demircili Yukarı Anıt Mezar"
+date: "2025-12-25T14:08:50+03:00"
 slug: "demircili-yukari-anit-mezar"
 description: "## Demircili Yukarı Anıt Mezar..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9592133,36.4470406"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Demircili Yukarı Anıt Mezar

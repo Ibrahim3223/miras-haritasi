@@ -1,18 +1,17 @@
 ---
-title: "Knidos | Miras Haritası"
-date: 2025-12-25T06:47:17+03:00
+title: "Knidos"
+date: "2025-12-25T06:47:17+03:00"
 slug: "knidos"
 description: "# Knidos: Muğla'nın Gizemli Arkeolojik Sitleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Knidos-Häfen.jpg/1200px-Knidos-Häfen.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.375,36.685833"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Knidos: Muğla'nın Gizemli Arkeolojik Sitleri

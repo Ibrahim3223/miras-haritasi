@@ -1,18 +1,17 @@
 ---
-title: "Turhal Kalesi | Miras Haritası"
-date: 2025-12-25T01:41:18+03:00
+title: "Turhal Kalesi"
+date: "2025-12-25T01:41:18+03:00"
 slug: "turhal-kalesi"
 description: "### Turhal Kalesi: Tokat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Turhal"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.0924911,40.3883781"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Turhal Kalesi: Tokat'ın Tarihî Mirası

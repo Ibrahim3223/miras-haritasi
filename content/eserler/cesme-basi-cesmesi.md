@@ -1,18 +1,17 @@
 ---
-title: "Çeşme Başı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:29:04+03:00
+title: "Çeşme Başı Çeşmesi"
+date: "2025-12-25T10:29:04+03:00"
 slug: "cesme-basi-cesmesi"
 description: "## Çeşme Başı Çeşmesi: Kuşadası'nın Eski Şöminesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuşadası"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.2540493,37.8579636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme Başı Çeşmesi: Kuşadası'nın Eski Şöminesi

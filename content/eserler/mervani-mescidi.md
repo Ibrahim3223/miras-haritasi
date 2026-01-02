@@ -1,18 +1,17 @@
 ---
-title: "Mervani Mescidi | Miras Haritası"
-date: 2025-12-25T00:31:51+03:00
+title: "Mervani Mescidi"
+date: "2025-12-25T00:31:51+03:00"
 slug: "mervani-mescidi"
 description: "### Mervani Mescidi: Diyarbakır'ın Gizli Cenneti..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2366562,37.9162521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mervani Mescidi: Diyarbakır'ın Gizli Cenneti

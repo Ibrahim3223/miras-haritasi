@@ -1,18 +1,17 @@
 ---
-title: "Tell Turlu | Miras Haritası"
-date: 2025-12-25T07:15:04+03:00
+title: "Tell Turlu"
+date: "2025-12-25T07:15:04+03:00"
 slug: "tell-turlu"
 description: "## Tell Turlu Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tell Turlu Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Rahmi M. Koç Müzesi | Miras Haritası"
-date: 2025-12-25T03:07:55+03:00
+title: "Rahmi M. Koç Müzesi"
+date: "2025-12-25T03:07:55+03:00"
 slug: "rahmi-m-koc-muzesi"
 description: "### Rahmi M. Koç Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Istanbul_asv2021-11_img15_Rahmi_Koç_Museum.jpg/1200px-Istanbul_asv2021-11_img15_Rahmi_Koç_Museum.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Hasköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.94926,41.04227"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Rahmi M. Koç Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Sanctuary of Klêdones outside Smyrna | Miras Haritası"
-date: 2025-12-25T08:11:30+03:00
+title: "Sanctuary of Klêdones outside Smyrna"
+date: "2025-12-25T08:11:30+03:00"
 slug: "sanctuary-of-kldones-outside-smyrna"
 description: "## Sanctuary of Klêdones outside Smyrna: Bir Kentin Tanrılarına Adanmış Bir Yer..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1383,38.4191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sanctuary of Klêdones outside Smyrna: Bir Kentin Tanrılarına Adanmış Bir Yer

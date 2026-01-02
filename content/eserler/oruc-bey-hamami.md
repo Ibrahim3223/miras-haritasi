@@ -1,18 +1,17 @@
 ---
-title: "Oruç Bey Hamamı | Miras Haritası"
-date: 2025-12-25T16:48:19+03:00
+title: "Oruç Bey Hamamı"
+date: "2025-12-25T16:48:19+03:00"
 slug: "oruc-bey-hamami"
 description: "## Oruç Bey Hamamı: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0540714,40.1847687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oruç Bey Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

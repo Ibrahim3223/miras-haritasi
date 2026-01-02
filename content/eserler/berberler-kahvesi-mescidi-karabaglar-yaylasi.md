@@ -1,18 +1,17 @@
 ---
-title: "Berberler Kahvesi Mescidi, Karabağlar Yaylası | Miras Haritası"
-date: 2025-12-25T00:46:20+03:00
+title: "Berberler Kahvesi Mescidi, Karabağlar Yaylası"
+date: "2025-12-25T00:46:20+03:00"
 slug: "berberler-kahvesi-mescidi-karabaglar-yaylasi"
 description: "## Berberler Kahvesi Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.3964996,37.1912003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Berberler Kahvesi Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti

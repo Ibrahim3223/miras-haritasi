@@ -1,18 +1,17 @@
 ---
-title: "Adalet Cami | Miras Haritası"
-date: 2025-12-25T00:15:42+03:00
+title: "Adalet Cami"
+date: "2025-12-25T00:15:42+03:00"
 slug: "adalet-cami"
 description: "## Adalet Camii: Adana'nın Tarihî Bir Zenginliği..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.2999779,36.9604762"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adalet Camii: Adana'nın Tarihî Bir Zenginliği

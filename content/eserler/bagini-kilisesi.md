@@ -1,18 +1,17 @@
 ---
-title: "Bagini Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:33+03:00
+title: "Bagini Kilisesi"
+date: "2025-12-25T09:04:33+03:00"
 slug: "bagini-kilisesi"
 description: "### Bagini Kilisesi..."
 featured_image: ""
 province: "Borçka"
-iller: ["Borçka"]
+iller: '["Borçka"]'
 district: "Balcı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.873944444,41.314583333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bagini Kilisesi

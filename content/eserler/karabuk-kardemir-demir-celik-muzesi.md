@@ -1,18 +1,17 @@
 ---
-title: "Karabük Kardemir Demir-Çelik Müzesi | Miras Haritası"
-date: 2025-12-25T03:28:03+03:00
+title: "Karabük Kardemir Demir-Çelik Müzesi"
+date: "2025-12-25T03:28:03+03:00"
 slug: "karabuk-kardemir-demir-celik-muzesi"
 description: "## Karabük Kardemir Demir-Çelik Müzesi..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Karabük"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.633333333,41.183333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karabük Kardemir Demir-Çelik Müzesi

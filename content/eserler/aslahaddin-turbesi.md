@@ -1,18 +1,17 @@
 ---
-title: "Aslahaddin Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:24+03:00
+title: "Aslahaddin Türbesi"
+date: "2025-12-25T15:14:24+03:00"
 slug: "aslahaddin-turbesi"
 description: "## Aslahaddin Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Bolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.6118,40.7333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aslahaddin Türbesi

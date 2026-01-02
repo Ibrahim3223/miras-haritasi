@@ -1,18 +1,17 @@
 ---
-title: "Kasaplar Camii | Miras Haritası"
-date: 2025-12-24T23:43:41+03:00
+title: "Kasaplar Camii"
+date: "2025-12-24T23:43:41+03:00"
 slug: "kasaplar-camii"
 description: "## Kasaplar Camii: Balıkesir'in Tarihi Bir İmzası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8810844,39.6430969"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasaplar Camii: Balıkesir'in Tarihi Bir İmzası

@@ -1,18 +1,17 @@
 ---
-title: "Edirne Kent Müzesi | Miras Haritası"
-date: 2025-12-25T04:08:11+03:00
+title: "Edirne Kent Müzesi"
+date: "2025-12-25T04:08:11+03:00"
 slug: "edirne-kent-muzesi"
 description: "## Edirne Kent Müzesi: Edirne'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.5579453,41.6789856"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Edirne Kent Müzesi: Edirne'nin Tarihi ve Kültürel Mirası

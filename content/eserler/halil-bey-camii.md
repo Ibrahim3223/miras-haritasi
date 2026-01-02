@@ -1,18 +1,17 @@
 ---
-title: "Halil Bey Camii | Miras Haritası"
-date: 2025-12-24T22:19:38+03:00
+title: "Halil Bey Camii"
+date: "2025-12-24T22:19:38+03:00"
 slug: "halil-bey-camii"
 description: "## Halil Bey Camii..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halil Bey Camii

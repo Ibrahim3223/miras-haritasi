@@ -1,18 +1,17 @@
 ---
-title: "Kayabey Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:27:18+03:00
+title: "Kayabey Camii Çeşmesi"
+date: "2025-12-25T11:27:18+03:00"
 slug: "kayabey-camii-cesmesi"
 description: "### Kayabey Camii Çeşmesi: Balıkesir'in Zengin Tarihi Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8790684,39.6525764"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kayabey Camii Çeşmesi: Balıkesir'in Zengin Tarihi Mirası

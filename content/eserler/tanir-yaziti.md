@@ -1,18 +1,17 @@
 ---
-title: "Tanır Yazıtı | Miras Haritası"
-date: 2025-12-25T13:43:30+03:00
+title: "Tanır Yazıtı"
+date: "2025-12-25T13:43:30+03:00"
 slug: "tanir-yaziti"
 description: "## Tanır Yazıtı..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: ["Kahramanmaraş"]
+iller: '["Kahramanmaraş"]'
 district: "Afşin"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.9199607,38.4212342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tanır Yazıtı

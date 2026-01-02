@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Saraycık | Miras Haritası"
-date: 2025-12-25T03:00:13+03:00
+title: "Roma Köprüsü, Saraycık"
+date: "2025-12-25T03:00:13+03:00"
 slug: "roma-koprusu-saraycik"
 description: "## Roma Köprüsü, Saraycık: Sivas'ta Bir Tarihî Mirasın Tanımı..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Suşehri"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.1916135,40.0981038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Saraycık: Sivas'ta Bir Tarihî Mirasın Tanımı

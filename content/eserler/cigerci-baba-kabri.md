@@ -1,18 +1,17 @@
 ---
-title: "Ciğerci Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:23:56+03:00
+title: "Ciğerci Baba Kabri"
+date: "2025-12-25T13:23:56+03:00"
 slug: "cigerci-baba-kabri"
 description: "**Ciğerci Baba Kabri: Fatih'in Gizli Anıtı**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.92317452,41.016730872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ciğerci Baba Kabri: Fatih'in Gizli Anıtı**

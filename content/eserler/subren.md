@@ -1,18 +1,17 @@
 ---
-title: "Sübren | Miras Haritası"
-date: 2025-12-25T05:29:20+03:00
+title: "Sübren"
+date: "2025-12-25T05:29:20+03:00"
 slug: "subren"
 description: "## Sübren Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.50815,39.631433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sübren Arkeolojik Sit

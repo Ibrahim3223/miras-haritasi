@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Ağa Hamamı | Miras Haritası"
-date: 2025-12-25T16:42:00+03:00
+title: "Hüsrev Ağa Hamamı"
+date: "2025-12-25T16:42:00+03:00"
 slug: "husrev-aga-hamami"
 description: "# Hüsrev Ağa Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4379692,38.6153526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hüsrev Ağa Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Akcurun Camii | Miras Haritası"
-date: 2025-12-24T22:57:33+03:00
+title: "Akcurun Camii"
+date: "2025-12-24T22:57:33+03:00"
 slug: "akcurun-camii"
 description: "## Akçurun Camii: Kilis'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.1177635,36.7187271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçurun Camii: Kilis'in Tarihi ve Kültürel Mirası

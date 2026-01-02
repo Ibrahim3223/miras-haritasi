@@ -1,18 +1,17 @@
 ---
-title: "Çarxapan Surp Asdvadzadzin Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:33+03:00
+title: "Çarxapan Surp Asdvadzadzin Manastırı"
+date: "2025-12-25T09:55:33+03:00"
 slug: "carxapan-surp-asdvadzadzin-manastiri"
 description: "## Çarxapan Surp Asdvadzadzin Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Monastery_of_Armash.png/1200px-Monastery_of_Armash.png"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "30.196111111,40.848333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çarxapan Surp Asdvadzadzin Manastırı

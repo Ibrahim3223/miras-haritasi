@@ -1,18 +1,17 @@
 ---
-title: "Mor Kuryakos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:18:43+03:00
+title: "Mor Kuryakos Kilisesi"
+date: "2025-12-25T09:18:43+03:00"
 slug: "mor-kuryakos-kilisesi"
 description: "**Mor Kuryakos Kilisesi**..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.4583359,37.4567032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mor Kuryakos Kilisesi**

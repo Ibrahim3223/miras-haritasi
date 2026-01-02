@@ -1,18 +1,17 @@
 ---
-title: "Midas Şehri | Miras Haritası"
-date: 2025-12-25T08:28:43+03:00
+title: "Midas Şehri"
+date: "2025-12-25T08:28:43+03:00"
 slug: "midas-sehri"
 description: "## Midas Şehri..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.7131958,39.199482"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Midas Şehri

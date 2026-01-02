@@ -1,18 +1,17 @@
 ---
-title: "Taşkale Taş Camii | Miras Haritası"
-date: 2025-12-24T23:14:30+03:00
+title: "Taşkale Taş Camii"
+date: "2025-12-24T23:14:30+03:00"
 slug: "taskale-tas-camii"
 description: "# Taşkale Taş Camii: Karaman'ın Gizli Ödülleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.6098824,37.1420441"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Taşkale Taş Camii: Karaman'ın Gizli Ödülleri

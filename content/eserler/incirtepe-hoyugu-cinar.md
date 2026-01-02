@@ -1,18 +1,17 @@
 ---
-title: "İncirtepe Höyüğü, Çınar | Miras Haritası"
-date: 2025-12-25T06:06:34+03:00
+title: "İncirtepe Höyüğü, Çınar"
+date: "2025-12-25T06:06:34+03:00"
 slug: "incirtepe-hoyugu-cinar"
 description: "**İncirtepe Höyüğü: Diyarbakır'ın Eski Tarihi**..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.5016785,37.7086525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İncirtepe Höyüğü: Diyarbakır'ın Eski Tarihi**

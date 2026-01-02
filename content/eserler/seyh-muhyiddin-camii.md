@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Muhyiddin Camii | Miras Haritası"
-date: 2025-12-24T23:56:57+03:00
+title: "Şeyh Muhyiddin Camii"
+date: "2025-12-24T23:56:57+03:00"
 slug: "seyh-muhyiddin-camii"
 description: "### Şeyh Muhyiddin Camii..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: ["Ankara Vilayeti"]
+iller: '["Ankara Vilayeti"]'
 district: "Ayaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.333149,40.0145988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Muhyiddin Camii

@@ -1,18 +1,17 @@
 ---
-title: "Abbas Ağa Çeşmesi, Ahmediye | Miras Haritası"
-date: 2025-12-25T10:06:21+03:00
+title: "Abbas Ağa Çeşmesi, Ahmediye"
+date: "2025-12-25T10:06:21+03:00"
 slug: "abbas-aga-cesmesi-ahmediye"
 description: "## Abbas Ağa Çeşmesi, Ahmediye..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abbas_Ağa_Çeşmesi_1.jpg/1200px-Abbas_Ağa_Çeşmesi_1.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Mimar Sinan"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.018139385,41.021811505"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Abbas Ağa Çeşmesi, Ahmediye

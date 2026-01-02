@@ -1,18 +1,17 @@
 ---
-title: "Andriake E Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:27+03:00
+title: "Andriake E Kilisesi"
+date: "2025-12-25T09:33:27+03:00"
 slug: "andriake-e-kilisesi"
 description: "## Andriake E Kilisesi: Antik Çağ'ın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.9519081,36.2287598"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andriake E Kilisesi: Antik Çağ'ın Gizemi

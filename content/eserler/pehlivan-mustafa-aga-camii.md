@@ -1,18 +1,17 @@
 ---
-title: "Pehlivan Mustafa Ağa Camii | Miras Haritası"
-date: 2025-12-25T00:13:49+03:00
+title: "Pehlivan Mustafa Ağa Camii"
+date: "2025-12-25T00:13:49+03:00"
 slug: "pehlivan-mustafa-aga-camii"
 description: "### Pehlivan Mustafa Ağa Camii: Kırklareli'nin Güzeli..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2290154,41.7343521"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pehlivan Mustafa Ağa Camii: Kırklareli'nin Güzeli

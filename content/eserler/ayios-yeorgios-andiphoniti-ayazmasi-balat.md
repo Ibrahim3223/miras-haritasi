@@ -1,18 +1,17 @@
 ---
-title: "Ayios Yeorgios Andiphoniti Ayazması, Balat | Miras Haritası"
-date: 2025-12-25T12:44:25+03:00
+title: "Ayios Yeorgios Andiphoniti Ayazması, Balat"
+date: "2025-12-25T12:44:25+03:00"
 slug: "ayios-yeorgios-andiphoniti-ayazmasi-balat"
 description: "## Ayios Yeorgios Andiphoniti Ayazması, Balat..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9471798,41.0282288"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Yeorgios Andiphoniti Ayazması, Balat

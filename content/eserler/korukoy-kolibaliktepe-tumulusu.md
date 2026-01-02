@@ -1,18 +1,17 @@
 ---
-title: "Koruköy Kolibalıktepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:51:21+03:00
+title: "Koruköy Kolibalıktepe Tümülüsü"
+date: "2025-12-25T07:51:21+03:00"
 slug: "korukoy-kolibaliktepe-tumulusu"
 description: "## Koruköy Kolibalıktepe Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3474426,41.8722115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koruköy Kolibalıktepe Tümülüsü: Kırklareli'nin Gizli Mirası

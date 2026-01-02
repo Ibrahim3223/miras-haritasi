@@ -1,18 +1,17 @@
 ---
-title: "Yığmatepe Tümülüsü 2, Arguvan | Miras Haritası"
-date: 2025-12-25T07:31:12+03:00
+title: "Yığmatepe Tümülüsü 2, Arguvan"
+date: "2025-12-25T07:31:12+03:00"
 slug: "yigmatepe-tumulusu-2-arguvan"
 description: "**Yığmatepe Tümülüsü 2: Arguvan'ın Gizli Mirası**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.1524696,38.8240204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yığmatepe Tümülüsü 2: Arguvan'ın Gizli Mirası**

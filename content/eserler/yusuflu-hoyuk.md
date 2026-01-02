@@ -1,18 +1,17 @@
 ---
-title: "Yusuflu Höyük | Miras Haritası"
-date: 2025-12-25T06:35:56+03:00
+title: "Yusuflu Höyük"
+date: "2025-12-25T06:35:56+03:00"
 slug: "yusuflu-hoyuk"
 description: "## Yusuflu Höyük: Türk Tarihinin Gizli Kahramanı..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.431816,36.576553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yusuflu Höyük: Türk Tarihinin Gizli Kahramanı

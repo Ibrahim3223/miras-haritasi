@@ -1,18 +1,17 @@
 ---
-title: "Ambarderesi Anıtı | Miras Haritası"
-date: 2025-12-25T15:55:38+03:00
+title: "Ambarderesi Anıtı"
+date: "2025-12-25T15:55:38+03:00"
 slug: "ambarderesi-aniti"
 description: "# Ambarderesi Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Halkapınar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.1645813,37.4015732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ambarderesi Anıtı

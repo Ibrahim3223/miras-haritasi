@@ -1,18 +1,17 @@
 ---
-title: "Celal Kattani Camii | Miras Haritası"
-date: 2025-12-24T22:27:33+03:00
+title: "Celal Kattani Camii"
+date: "2025-12-24T22:27:33+03:00"
 slug: "celal-kattani-camii"
 description: "## Celal Kattani Camii: Altındağ'un Tarihi Çağı..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8625145,39.9357262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Celal Kattani Camii: Altındağ'un Tarihi Çağı

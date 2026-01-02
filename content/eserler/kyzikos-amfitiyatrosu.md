@@ -1,18 +1,17 @@
 ---
-title: "Kyzikos Amfitiyatrosu | Miras Haritası"
-date: 2025-12-25T08:23:17+03:00
+title: "Kyzikos Amfitiyatrosu"
+date: "2025-12-25T08:23:17+03:00"
 slug: "kyzikos-amfitiyatrosu"
 description: "**Kyzikos Amfitiyatrosu**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cyzicus_amphitheatre_31.jpg/1200px-Cyzicus_amphitheatre_31.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.884,40.398"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Kyzikos Amfitiyatrosu**

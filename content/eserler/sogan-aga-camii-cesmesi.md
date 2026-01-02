@@ -1,18 +1,17 @@
 ---
-title: "Soğan Ağa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:20:07+03:00
+title: "Soğan Ağa Camii Çeşmesi"
+date: "2025-12-25T11:20:07+03:00"
 slug: "sogan-aga-camii-cesmesi"
 description: "## Soğan Ağa Camii Çeşmesi: Tarihî Bir Ziyaretçi Merkezi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.962899,41.007966"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğan Ağa Camii Çeşmesi: Tarihî Bir Ziyaretçi Merkezi

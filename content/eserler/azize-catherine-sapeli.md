@@ -1,18 +1,17 @@
 ---
-title: "Azize Catherine Şapeli | Miras Haritası"
-date: 2025-12-25T08:42:45+03:00
+title: "Azize Catherine Şapeli"
+date: "2025-12-25T08:42:45+03:00"
 slug: "azize-catherine-sapeli"
 description: "## Azize Catherine Şapeli: Göreme'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/J22_230_Agia_Katharina.jpg/1200px-J22_230_Agia_Katharina.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.8460344,38.6387425"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Azize Catherine Şapeli: Göreme'nin Gizli Cenneti

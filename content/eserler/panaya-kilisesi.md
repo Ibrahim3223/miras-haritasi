@@ -1,18 +1,17 @@
 ---
-title: "Panaya Kilisesi | Miras Haritası"
-date: 2025-12-25T08:59:02+03:00
+title: "Panaya Kilisesi"
+date: "2025-12-25T08:59:02+03:00"
 slug: "panaya-kilisesi"
 description: "## Panaya Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sketch_of_the_Panagia_Church,_Cunda.jpg/1200px-Sketch_of_the_Panagia_Church,_Cunda.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.661555555,39.336"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Panaya Kilisesi

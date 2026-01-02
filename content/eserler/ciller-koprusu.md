@@ -1,18 +1,17 @@
 ---
-title: "Çiller Köprüsü | Miras Haritası"
-date: 2025-12-25T02:27:04+03:00
+title: "Çiller Köprüsü"
+date: "2025-12-25T02:27:04+03:00"
 slug: "ciller-koprusu"
 description: "### Çiller Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ereğli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.095917,37.605175"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çiller Köprüsü

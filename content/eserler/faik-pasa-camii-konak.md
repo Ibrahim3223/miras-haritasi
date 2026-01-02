@@ -1,18 +1,17 @@
 ---
-title: "Faik Paşa Camii, Konak | Miras Haritası"
-date: 2025-12-25T00:05:01+03:00
+title: "Faik Paşa Camii, Konak"
+date: "2025-12-25T00:05:01+03:00"
 slug: "faik-pasa-camii-konak"
 description: "# Faik Paşa Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1445351,38.419342"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Faik Paşa Camii: İzmir'in Tarihi ve Kültürel Mirası

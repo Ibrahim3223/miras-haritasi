@@ -1,18 +1,17 @@
 ---
-title: "Zengibar Kalesi | Miras Haritası"
-date: 2025-12-25T08:20:43+03:00
+title: "Zengibar Kalesi"
+date: "2025-12-25T08:20:43+03:00"
 slug: "zengibar-kalesi"
 description: "# Zengibar Kalesi: Konya'nın Gizli Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.344039,37.184291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Zengibar Kalesi: Konya'nın Gizli Mirası

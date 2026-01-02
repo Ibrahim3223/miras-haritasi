@@ -1,18 +1,17 @@
 ---
-title: "Sürmeli Ali Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:31+03:00
+title: "Sürmeli Ali Paşa Çeşmesi"
+date: "2025-12-25T10:12:31+03:00"
 slug: "surmeli-ali-pasa-cesmesi"
 description: "## Sürmeli Ali Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sürmeli_Ali_Paşa_Fountain.jpg/1200px-Sürmeli_Ali_Paşa_Fountain.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.025069444,40.990558333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sürmeli Ali Paşa Çeşmesi

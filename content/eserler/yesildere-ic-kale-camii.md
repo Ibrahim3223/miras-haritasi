@@ -1,18 +1,17 @@
 ---
-title: "Yeşildere İç Kale Camii | Miras Haritası"
-date: 2025-12-24T23:47:26+03:00
+title: "Yeşildere İç Kale Camii"
+date: "2025-12-24T23:47:26+03:00"
 slug: "yesildere-ic-kale-camii"
 description: "## Yeşildere İç Kale Camii: Karaman'ın Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5142136,37.1561089"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşildere İç Kale Camii: Karaman'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Bezmialem Valide Sultan Çeşmesi, Topkapı | Miras Haritası"
-date: 2025-12-25T11:55:31+03:00
+title: "Bezmialem Valide Sultan Çeşmesi, Topkapı"
+date: "2025-12-25T11:55:31+03:00"
 slug: "bezmialem-valide-sultan-cesmesi-topkapi"
 description: "## Bezmialem Valide Sultan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.934618,41.017834"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Bezmialem Valide Sultan Çeşmesi

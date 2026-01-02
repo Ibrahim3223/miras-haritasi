@@ -1,18 +1,17 @@
 ---
-title: "Mudanya Mütareke Evi | Miras Haritası"
-date: 2025-12-25T03:22:32+03:00
+title: "Mudanya Mütareke Evi"
+date: "2025-12-25T03:22:32+03:00"
 slug: "mudanya-mutareke-evi"
 description: "**Mudanya Mütareke Evi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MudanyaMütareke2016.jpg/1200px-MudanyaMütareke2016.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mudanya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.881666666,40.379722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Mudanya Mütareke Evi**

@@ -1,18 +1,17 @@
 ---
-title: "Petra'daki Sanctus Angelus Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:12+03:00
+title: "Petra'daki Sanctus Angelus Manastırı"
+date: "2025-12-25T09:52:12+03:00"
 slug: "petradaki-sanctus-angelus-manastiri"
 description: "# Petra'daki Sanctus Angelus Manastırı Nedir?..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Molla_Zeyrek_Camii.jpg/1200px-Molla_Zeyrek_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "28.957222222,41.019722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Petra'daki Sanctus Angelus Manastırı Nedir?

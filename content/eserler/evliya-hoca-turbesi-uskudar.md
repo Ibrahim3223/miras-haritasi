@@ -1,18 +1,17 @@
 ---
-title: "Evliya Hoca Türbesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T13:30:55+03:00
+title: "Evliya Hoca Türbesi, Üsküdar"
+date: "2025-12-25T13:30:55+03:00"
 slug: "evliya-hoca-turbesi-uskudar"
 description: "## Evliya Hoca Türbesi: Üsküdar'daki Tarihi Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0183735,41.0225258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evliya Hoca Türbesi: Üsküdar'daki Tarihi Bir Anıt

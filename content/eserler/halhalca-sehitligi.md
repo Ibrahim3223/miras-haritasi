@@ -1,18 +1,17 @@
 ---
-title: "Halhalca Şehitliği | Miras Haritası"
-date: 2025-12-25T15:56:45+03:00
+title: "Halhalca Şehitliği"
+date: "2025-12-25T15:56:45+03:00"
 slug: "halhalca-sehitligi"
 description: "# Halhalca Şehitliği..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4353199,40.1612778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Halhalca Şehitliği

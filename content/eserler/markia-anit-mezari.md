@@ -1,18 +1,17 @@
 ---
-title: "Markia Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:07:08+03:00
+title: "Markia Anıt Mezarı"
+date: "2025-12-25T14:07:08+03:00"
 slug: "markia-anit-mezari"
 description: "## Markia Anıt Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.3176498,36.2686005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Markia Anıt Mezarı

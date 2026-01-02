@@ -1,18 +1,17 @@
 ---
-title: "Kocaeli Basın Müzesi | Miras Haritası"
-date: 2025-12-25T03:44:59+03:00
+title: "Kocaeli Basın Müzesi"
+date: "2025-12-25T03:44:59+03:00"
 slug: "kocaeli-basin-muzesi"
 description: "# Kocaeli Basın Müzesi..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: ["Anadolu eyaleti"]
+iller: '["Anadolu eyaleti"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.9198265,40.76474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kocaeli Basın Müzesi

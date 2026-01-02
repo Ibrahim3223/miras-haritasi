@@ -1,18 +1,17 @@
 ---
-title: "Mansur Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:50+03:00
+title: "Mansur Baba Türbesi"
+date: "2025-12-25T14:37:50+03:00"
 slug: "mansur-baba-turbesi"
 description: "### Mansur Baba Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.2536316,38.7063375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mansur Baba Türbesi

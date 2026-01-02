@@ -1,18 +1,17 @@
 ---
-title: "Tyberissos | Miras Haritası"
-date: 2025-12-25T04:29:27+03:00
+title: "Tyberissos"
+date: "2025-12-25T04:29:27+03:00"
 slug: "tyberissos"
 description: "## Tyberissos: Demre'nin Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.8564,36.21537"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tyberissos: Demre'nin Gizli Cenneti

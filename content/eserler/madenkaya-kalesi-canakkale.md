@@ -1,18 +1,17 @@
 ---
-title: "Madenkaya Kalesi, Çanakkale | Miras Haritası"
-date: 2025-12-25T01:46:24+03:00
+title: "Madenkaya Kalesi, Çanakkale"
+date: "2025-12-25T01:46:24+03:00"
 slug: "madenkaya-kalesi-canakkale"
 description: "### Madenkaya Kalesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "26.5606136,40.0469894"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Madenkaya Kalesi

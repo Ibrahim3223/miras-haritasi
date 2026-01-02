@@ -1,18 +1,17 @@
 ---
-title: "Azize Meryem Ana Kilisesi | Miras Haritası"
-date: 2025-12-25T08:40:34+03:00
+title: "Azize Meryem Ana Kilisesi"
+date: "2025-12-25T08:40:34+03:00"
 slug: "azize-meryem-ana-kilisesi"
 description: "## Azize Meryem Ana Kilisesi: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Adana_Armenian_Protestant_Church.jpg/1200px-Adana_Armenian_Protestant_Church.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adana"
+province: "Adana"
+iller: '["Adana"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.3275,36.986111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Azize Meryem Ana Kilisesi: Adana'nın Tarihi ve Kültürel Mirası

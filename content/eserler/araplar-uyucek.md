@@ -1,18 +1,17 @@
 ---
-title: "Araplar Üyücek | Miras Haritası"
-date: 2025-12-25T05:52:10+03:00
+title: "Araplar Üyücek"
+date: "2025-12-25T05:52:10+03:00"
 slug: "araplar-uyucek"
 description: "# Araplar Üyücek Arkeolojik Sit..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.981983,39.591967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Araplar Üyücek Arkeolojik Sit

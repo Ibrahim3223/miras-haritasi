@@ -1,18 +1,17 @@
 ---
-title: "Rahmaniye Camii | Miras Haritası"
-date: 2025-12-24T22:39:21+03:00
+title: "Rahmaniye Camii"
+date: "2025-12-24T22:39:21+03:00"
 slug: "rahmaniye-camii"
 description: "### Rahmaniye Camii..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.6795692,37.9676933"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rahmaniye Camii

@@ -1,18 +1,17 @@
 ---
-title: "Ortaköy Surp Krikor Lusavoriç Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:15+03:00
+title: "Ortaköy Surp Krikor Lusavoriç Kilisesi"
+date: "2025-12-25T08:51:15+03:00"
 slug: "ortakoy-surp-krikor-lusavoric-kilisesi"
 description: "## Ortaköy Surp Krikor Lusavoriç Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.024194,41.052111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaköy Surp Krikor Lusavoriç Kilisesi

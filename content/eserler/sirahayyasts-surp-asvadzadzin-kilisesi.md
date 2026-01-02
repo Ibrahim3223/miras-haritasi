@@ -1,18 +1,17 @@
 ---
-title: "Sırahayyasts Surp Asvadzadzin Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:54+03:00
+title: "Sırahayyasts Surp Asvadzadzin Kilisesi"
+date: "2025-12-25T09:27:54+03:00"
 slug: "sirahayyasts-surp-asvadzadzin-kilisesi"
 description: "## Sırahayyasts Surp Asvadzadzin Kilisesi..."
 featured_image: ""
 province: "Çüngüş"
-iller: ["Çüngüş"]
+iller: '["Çüngüş"]'
 district: "Çüngüş"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.2966919,38.2132835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sırahayyasts Surp Asvadzadzin Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Çit Deresi Köprüsü Torul | Miras Haritası"
-date: 2025-12-25T02:27:42+03:00
+title: "Çit Deresi Köprüsü Torul"
+date: "2025-12-25T02:27:42+03:00"
 slug: "cit-deresi-koprusu-torul"
 description: "## Çit Deresi Köprüsü Torul: Gümüşhane'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.2918355,40.5408835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çit Deresi Köprüsü Torul: Gümüşhane'nin Tarihi ve Kültürel Mirasının Bir Parçası

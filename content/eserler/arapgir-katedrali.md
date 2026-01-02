@@ -1,18 +1,17 @@
 ---
-title: "Arapgir Katedrali | Miras Haritası"
-date: 2025-12-25T08:38:42+03:00
+title: "Arapgir Katedrali"
+date: "2025-12-25T08:38:42+03:00"
 slug: "arapgir-katedrali"
 description: "### Arapgir Katedrali: Türkiye'nin Gizli Kutsal Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Arapgir_church2.png/1200px-Arapgir_church2.png"
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Arapgir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.483345,39.043433"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Arapgir Katedrali: Türkiye'nin Gizli Kutsal Anıtı

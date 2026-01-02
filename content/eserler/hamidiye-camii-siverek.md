@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Siverek | Miras Haritası"
-date: 2025-12-25T00:29:46+03:00
+title: "Hamidiye Camii, Siverek"
+date: "2025-12-25T00:29:46+03:00"
 slug: "hamidiye-camii-siverek"
 description: "## Hamidiye Camii: Siverek'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Siverek"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.317688,37.7596207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Camii: Siverek'in Tarihi Bir Mirası

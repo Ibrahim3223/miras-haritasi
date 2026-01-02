@@ -1,18 +1,17 @@
 ---
-title: "Necip Paşa Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:53+03:00
+title: "Necip Paşa Kütüphanesi"
+date: "2025-12-25T17:48:53+03:00"
 slug: "necip-pasa-kutuphanesi"
 description: "## Necip Paşa Kütüphanesi: Tire'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.732456696,38.086366905"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Necip Paşa Kütüphanesi: Tire'nin Tarihi ve Kültürel Mirası

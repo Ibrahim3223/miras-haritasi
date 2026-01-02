@@ -1,18 +1,17 @@
 ---
-title: "Eynesil Kalesi | Miras Haritası"
-date: 2025-12-25T01:30:38+03:00
+title: "Eynesil Kalesi"
+date: "2025-12-25T01:30:38+03:00"
 slug: "eynesil-kalesi"
 description: "## Eynesil Kalesi: Giresun'un Tarihî Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Eynesil"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.16347,41.078251"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eynesil Kalesi: Giresun'un Tarihî Mirası

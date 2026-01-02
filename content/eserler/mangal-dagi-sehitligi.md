@@ -1,18 +1,17 @@
 ---
-title: "Mangal Dağı Şehitliği | Miras Haritası"
-date: 2025-12-25T14:09:05+03:00
+title: "Mangal Dağı Şehitliği"
+date: "2025-12-25T14:09:05+03:00"
 slug: "mangal-dagi-sehitligi"
 description: "## Mangal Dağı Şehitliği..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Haymana"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4567261,39.2159119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mangal Dağı Şehitliği

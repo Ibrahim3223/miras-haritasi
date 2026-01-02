@@ -1,18 +1,17 @@
 ---
-title: "Denizli Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:35:41+03:00
+title: "Denizli Köyü Camii"
+date: "2025-12-24T22:35:41+03:00"
 slug: "denizli-koyu-camii"
 description: "### Denizli Köyü Camii: Tarihe ve Kültür Mirasına Dair Bir Kâse..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.7394333,38.3794594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Denizli Köyü Camii: Tarihe ve Kültür Mirasına Dair Bir Kâse

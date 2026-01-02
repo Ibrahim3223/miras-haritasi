@@ -1,18 +1,17 @@
 ---
-title: "Kserigordos | Miras Haritası"
-date: 2025-12-25T01:12:59+03:00
+title: "Kserigordos"
+date: "2025-12-25T01:12:59+03:00"
 slug: "kserigordos"
 description: "**Kserigordos: Eski Yunanistan'ın Gizli Kaleyi**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.804166666,40.3925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kserigordos: Eski Yunanistan'ın Gizli Kaleyi**

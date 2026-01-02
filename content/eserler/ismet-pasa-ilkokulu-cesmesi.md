@@ -1,18 +1,17 @@
 ---
-title: "İsmet Paşa İlkokulu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:04+03:00
+title: "İsmet Paşa İlkokulu Çeşmesi"
+date: "2025-12-25T11:36:04+03:00"
 slug: "ismet-pasa-ilkokulu-cesmesi"
 description: "## İsmet Paşa İlkokulu Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5014229,37.8747826"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmet Paşa İlkokulu Çeşmesi

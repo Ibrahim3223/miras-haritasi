@@ -1,18 +1,17 @@
 ---
-title: "Hagios Aberkios Manastırı | Miras Haritası"
-date: 2025-12-25T09:57:21+03:00
+title: "Hagios Aberkios Manastırı"
+date: "2025-12-25T09:57:21+03:00"
 slug: "hagios-aberkios-manastiri"
 description: "### Hagios Aberkios Manastırı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Gemlik"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.0264568,40.3617516"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hagios Aberkios Manastırı

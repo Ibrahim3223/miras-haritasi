@@ -1,18 +1,17 @@
 ---
-title: "Magydos | Miras Haritası"
-date: 2025-12-25T04:24:12+03:00
+title: "Magydos"
+date: "2025-12-25T04:24:12+03:00"
 slug: "magydos"
 description: "## Magydos: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.793611111,36.852777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Magydos: Antalya'nın Gizli Cenneti

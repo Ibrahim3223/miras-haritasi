@@ -1,18 +1,17 @@
 ---
-title: "Eriklice 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:46:26+03:00
+title: "Eriklice 2 Tümülüsü"
+date: "2025-12-25T07:46:26+03:00"
 slug: "eriklice-2-tumulusu"
 description: "## Eriklice 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1750374,41.7473412"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eriklice 2 Tümülüsü

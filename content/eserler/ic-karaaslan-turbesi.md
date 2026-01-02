@@ -1,18 +1,17 @@
 ---
-title: "İç Karaaslan Türbesi | Miras Haritası"
-date: 2025-12-25T13:52:35+03:00
+title: "İç Karaaslan Türbesi"
+date: "2025-12-25T13:52:35+03:00"
 slug: "ic-karaaslan-turbesi"
 description: "## İç Karaaslan Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4997139,37.8737144"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İç Karaaslan Türbesi

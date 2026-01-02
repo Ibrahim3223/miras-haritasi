@@ -1,18 +1,17 @@
 ---
-title: "Pendik Kavakpınar Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:49:52+03:00
+title: "Pendik Kavakpınar Kütüphanesi"
+date: "2025-12-25T17:49:52+03:00"
 slug: "pendik-kavakpinar-kutuphanesi"
 description: "### Pendik Kavakpınar Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kavakpınar_Kütüphanesi.jpg/1200px-Kavakpınar_Kütüphanesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Pendik"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.28237722,40.881214522"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Pendik Kavakpınar Kütüphanesi

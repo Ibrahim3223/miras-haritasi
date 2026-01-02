@@ -1,18 +1,17 @@
 ---
-title: "Borçka Şehitliği | Miras Haritası"
-date: 2025-12-25T16:01:35+03:00
+title: "Borçka Şehitliği"
+date: "2025-12-25T16:01:35+03:00"
 slug: "borcka-sehitligi"
 description: "**Borçka Şehitliği**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.6763916,41.3598518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Borçka Şehitliği**

@@ -1,18 +1,17 @@
 ---
-title: "Güzelköy Camii (Güzelköy) | Miras Haritası"
-date: 2025-12-24T23:25:21+03:00
+title: "Güzelköy Camii (Güzelköy)"
+date: "2025-12-24T23:25:21+03:00"
 slug: "guzelkoy-camii-guzelkoy"
 description: "### Güzelköy Camii: Şarköy'deki Bir Ölümsüz..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Şarköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2952957,40.7443542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güzelköy Camii: Şarköy'deki Bir Ölümsüz

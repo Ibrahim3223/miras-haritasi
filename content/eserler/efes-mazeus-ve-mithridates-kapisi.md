@@ -1,18 +1,17 @@
 ---
-title: "Efes Mazeus ve Mithridates Kapısı | Miras Haritası"
-date: 2025-12-25T15:37:37+03:00
+title: "Efes Mazeus ve Mithridates Kapısı"
+date: "2025-12-25T15:37:37+03:00"
 slug: "efes-mazeus-ve-mithridates-kapisi"
 description: "## Efes Mazeus ve Mithridates Kapısı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3410797,37.9392815"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Efes Mazeus ve Mithridates Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Taşpınar Mahallesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:20+03:00
+title: "Taşpınar Mahallesi Çeşmesi"
+date: "2025-12-25T10:41:20+03:00"
 slug: "taspinar-mahallesi-cesmesi"
 description: "**Taşpınar Mahallesi Çeşmesi: Afyonkarahisar'ın Değerli Kültürel Mirası**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5251026,38.7544556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Taşpınar Mahallesi Çeşmesi: Afyonkarahisar'ın Değerli Kültürel Mirası**

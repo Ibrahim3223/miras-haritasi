@@ -1,18 +1,17 @@
 ---
-title: "Güzelce Ali Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:08:54+03:00
+title: "Güzelce Ali Paşa Türbesi"
+date: "2025-12-25T15:08:54+03:00"
 slug: "guzelce-ali-pasa-turbesi"
 description: "### Güzelce Ali Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tomb_of_Güzelce_Ali_Paşa_01.jpg/1200px-Tomb_of_Güzelce_Ali_Paşa_01.jpg"
-province: "Beşiktaş"
-iller: ["Beşiktaş"]
-district: "Yıldız"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.01804,41.04569"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Güzelce Ali Paşa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Fezahat Usta Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:29+03:00
+title: "Fezahat Usta Çeşmesi"
+date: "2025-12-25T10:40:29+03:00"
 slug: "fezahat-usta-cesmesi"
 description: "## Fezahat Usta Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ottoman_fountain_-_سبيل_عثماني_-_fontaine_ottomane_photo1.jpg/1200px-Ottoman_fountain_-_سبيل_عثماني_-_fontaine_ottomane_photo1.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Küçük Piyale"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.970277777,41.035694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fezahat Usta Çeşmesi

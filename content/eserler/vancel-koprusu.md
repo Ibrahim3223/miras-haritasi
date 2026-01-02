@@ -1,18 +1,17 @@
 ---
-title: "Vancel Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:07+03:00
+title: "Vancel Köprüsü"
+date: "2025-12-25T02:09:07+03:00"
 slug: "vancel-koprusu"
 description: "# Vancel Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İkizdere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.47475,40.819033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Vancel Köprüsü

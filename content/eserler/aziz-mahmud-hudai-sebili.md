@@ -1,18 +1,17 @@
 ---
-title: "Aziz Mahmud Hüdai Sebili | Miras Haritası"
-date: 2025-12-25T13:08:10+03:00
+title: "Aziz Mahmud Hüdai Sebili"
+date: "2025-12-25T13:08:10+03:00"
 slug: "aziz-mahmud-hudai-sebili"
 description: "## Aziz Mahmud Hüdai Sebili: Üsküdar'ın Büyüleyici Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.014415,41.02248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Mahmud Hüdai Sebili: Üsküdar'ın Büyüleyici Çeşmesi

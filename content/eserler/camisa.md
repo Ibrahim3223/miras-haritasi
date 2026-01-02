@@ -1,18 +1,17 @@
 ---
-title: "Camisa | Miras Haritası"
-date: 2025-12-25T05:00:20+03:00
+title: "Camisa"
+date: "2025-12-25T05:00:20+03:00"
 slug: "camisa"
 description: "## Camisa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.401155,39.845769"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Camisa Arkeolojik Sit

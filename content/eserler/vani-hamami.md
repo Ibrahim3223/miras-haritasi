@@ -1,18 +1,17 @@
 ---
-title: "Vani Hamamı | Miras Haritası"
-date: 2025-12-25T17:08:25+03:00
+title: "Vani Hamamı"
+date: "2025-12-25T17:08:25+03:00"
 slug: "vani-hamami"
 description: "## Vani Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Kestel"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.2136955,40.2001915"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vani Hamamı

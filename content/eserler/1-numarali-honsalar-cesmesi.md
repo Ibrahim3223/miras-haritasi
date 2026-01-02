@@ -1,18 +1,17 @@
 ---
-title: "1 numaralı Honsalar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:39:32+03:00
+title: "1 numaralı Honsalar Çeşmesi"
+date: "2025-12-25T10:39:32+03:00"
 slug: "1-numarali-honsalar-cesmesi"
 description: "## 1 Numaralı Honsalar Çeşmesi: Kastamonu'nun Kültürel Miraslarından biri..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7706909,41.3798828"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 1 Numaralı Honsalar Çeşmesi: Kastamonu'nun Kültürel Miraslarından biri

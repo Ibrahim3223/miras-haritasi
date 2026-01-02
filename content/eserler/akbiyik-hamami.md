@@ -1,18 +1,17 @@
 ---
-title: "Akbıyık Hamamı | Miras Haritası"
-date: 2025-12-25T16:35:46+03:00
+title: "Akbıyık Hamamı"
+date: "2025-12-25T16:35:46+03:00"
 slug: "akbiyik-hamami"
 description: "## Akbıyık Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.979616,41.003493"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akbıyık Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

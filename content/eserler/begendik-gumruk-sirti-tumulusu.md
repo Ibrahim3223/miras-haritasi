@@ -1,18 +1,17 @@
 ---
-title: "Beğendik Gümrük Sırtı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:39:23+03:00
+title: "Beğendik Gümrük Sırtı Tümülüsü"
+date: "2025-12-25T07:39:23+03:00"
 slug: "begendik-gumruk-sirti-tumulusu"
 description: "## Beğendik Gümrük Sırtı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0277653,41.9677925"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beğendik Gümrük Sırtı Tümülüsü

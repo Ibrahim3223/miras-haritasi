@@ -1,18 +1,17 @@
 ---
-title: "Çırçır Camii | Miras Haritası"
-date: 2025-12-24T22:34:32+03:00
+title: "Çırçır Camii"
+date: "2025-12-24T22:34:32+03:00"
 slug: "circir-camii"
 description: "## Çırçır Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.2738304,39.901413"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çırçır Camii

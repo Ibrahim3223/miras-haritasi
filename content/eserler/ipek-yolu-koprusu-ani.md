@@ -1,18 +1,17 @@
 ---
-title: "İpek Yolu Köprüsü, Ani | Miras Haritası"
-date: 2025-12-25T01:54:07+03:00
+title: "İpek Yolu Köprüsü, Ani"
+date: "2025-12-25T01:54:07+03:00"
 slug: "ipek-yolu-koprusu-ani"
 description: "## İpek Yolu Köprüsü, Ani..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ani_-_bridge.jpg/1200px-Ani_-_bridge.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "43.5728,40.5044"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İpek Yolu Köprüsü, Ani

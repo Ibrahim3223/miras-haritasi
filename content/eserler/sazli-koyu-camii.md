@@ -1,18 +1,17 @@
 ---
-title: "Sazlı Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:42:40+03:00
+title: "Sazlı Köyü Camii"
+date: "2025-12-24T22:42:40+03:00"
 slug: "sazli-koyu-camii"
 description: "## Sazlı Köyü Camii: Sinop'un Gizli Cenneti..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8695412,41.7193985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sazlı Köyü Camii: Sinop'un Gizli Cenneti

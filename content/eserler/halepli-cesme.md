@@ -1,18 +1,17 @@
 ---
-title: "Halepli Çeşme | Miras Haritası"
-date: 2025-12-25T11:05:36+03:00
+title: "Halepli Çeşme"
+date: "2025-12-25T11:05:36+03:00"
 slug: "halepli-cesme"
 description: "## Halepli Çeşme: Beykoz'un Kültürel Mirası..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Kanlıca"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.065388,41.098665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halepli Çeşme: Beykoz'un Kültürel Mirası

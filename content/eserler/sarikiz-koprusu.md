@@ -1,18 +1,17 @@
 ---
-title: "Sarıkız Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:40+03:00
+title: "Sarıkız Köprüsü"
+date: "2025-12-25T02:41:40+03:00"
 slug: "sarikiz-koprusu"
 description: "## Sarıkız Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Keşan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.6309929,40.8372955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarıkız Köprüsü

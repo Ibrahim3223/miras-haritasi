@@ -1,18 +1,17 @@
 ---
-title: "Yozgat Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:02+03:00
+title: "Yozgat Müzesi"
+date: "2025-12-25T03:27:02+03:00"
 slug: "yozgat-muzesi"
 description: "## Yozgat Müzesi: Tarih, Kültür ve Mirasın Birleştiği Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/YOZGAT_NİZAMOĞLU_KONAĞI_ETNOĞRAFYA_MÜZESİ.jpg/1200px-YOZGAT_NİZAMOĞLU_KONAĞI_ETNOĞRAFYA_MÜZESİ.jpg"
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.805,39.823333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yozgat Müzesi: Tarih, Kültür ve Mirasın Birleştiği Yer

@@ -1,18 +1,17 @@
 ---
-title: "Andriake Helenistik Garnizon | Miras Haritası"
-date: 2025-12-25T01:29:09+03:00
+title: "Andriake Helenistik Garnizon"
+date: "2025-12-25T01:29:09+03:00"
 slug: "andriake-helenistik-garnizon"
 description: "## Andriake Helenistik Garnizonu: Demre'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.9464512,36.2230873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andriake Helenistik Garnizonu: Demre'nin Gizli Kahramanı

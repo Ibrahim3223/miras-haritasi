@@ -1,18 +1,17 @@
 ---
-title: "Kumluca Rum Kilisesi | Miras Haritası"
-date: 2025-12-25T09:24:26+03:00
+title: "Kumluca Rum Kilisesi"
+date: "2025-12-25T09:24:26+03:00"
 slug: "kumluca-rum-kilisesi"
 description: "## Kumluca Rum Kilisesi: Niğde'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.6515236,37.9768982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumluca Rum Kilisesi: Niğde'nin Tarihi Bir Mirası

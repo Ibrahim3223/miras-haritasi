@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Mahmut Çağırgan Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:44:59+03:00
+title: "Seyyid Mahmut Çağırgan Baba Türbesi"
+date: "2025-12-25T14:44:59+03:00"
 slug: "seyyid-mahmut-cagirgan-baba-turbesi"
 description: "## Seyyid Mahmut Çağırgan Baba Türbesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Alucra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.902334,40.372562"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Mahmut Çağırgan Baba Türbesi

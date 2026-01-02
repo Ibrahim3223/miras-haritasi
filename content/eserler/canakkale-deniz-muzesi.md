@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale Deniz Müzesi | Miras Haritası"
-date: 2025-12-25T03:07:01+03:00
+title: "Çanakkale Deniz Müzesi"
+date: "2025-12-25T03:07:01+03:00"
 slug: "canakkale-deniz-muzesi"
 description: "## Çanakkale Deniz Müzesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.399722222,40.148055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale Deniz Müzesi

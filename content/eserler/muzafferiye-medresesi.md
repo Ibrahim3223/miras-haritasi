@@ -1,18 +1,17 @@
 ---
-title: "Muzafferiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:41:56+03:00
+title: "Muzafferiye Medresesi"
+date: "2025-12-25T17:41:56+03:00"
 slug: "muzafferiye-medresesi"
 description: "### Muzafferiye Medresesi: Burdur'un Tarihi ve Kültürel Mirasının Yeri..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "30.2868824,37.7176247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muzafferiye Medresesi: Burdur'un Tarihi ve Kültürel Mirasının Yeri

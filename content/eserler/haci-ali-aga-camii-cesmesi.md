@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ali Ağa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:16+03:00
+title: "Hacı Ali Ağa Camii Çeşmesi"
+date: "2025-12-25T10:31:16+03:00"
 slug: "haci-ali-aga-camii-cesmesi"
 description: "**Hacı Ali Ağa Camii Çeşmesi**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3222122,37.9032249"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hacı Ali Ağa Camii Çeşmesi**

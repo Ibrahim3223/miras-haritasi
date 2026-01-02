@@ -1,18 +1,17 @@
 ---
-title: "Surp Sarkis Anıt Mezar Şapeli | Miras Haritası"
-date: 2025-12-25T09:41:25+03:00
+title: "Surp Sarkis Anıt Mezar Şapeli"
+date: "2025-12-25T09:41:25+03:00"
 slug: "surp-sarkis-anit-mezar-sapeli"
 description: "## Surp Sarkis Anıt Mezar Şapeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Balıklı_Ermeni_Kilisesi.JPG/1200px-Balıklı_Ermeni_Kilisesi.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.915305555,41.007111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Sarkis Anıt Mezar Şapeli

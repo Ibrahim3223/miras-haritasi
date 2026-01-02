@@ -1,18 +1,17 @@
 ---
-title: "Abdurrahman Paşa Camii, Kangal | Miras Haritası"
-date: 2025-12-25T00:00:10+03:00
+title: "Abdurrahman Paşa Camii, Kangal"
+date: "2025-12-25T00:00:10+03:00"
 slug: "abdurrahman-pasa-camii-kangal"
 description: "## Abdurrahman Paşa Camii: Kangal'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.3914223,39.2353821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdurrahman Paşa Camii: Kangal'ın Tarihi Bir Mirası

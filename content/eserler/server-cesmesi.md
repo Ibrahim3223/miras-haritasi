@@ -1,18 +1,17 @@
 ---
-title: "Server Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:41:35+03:00
+title: "Server Çeşmesi"
+date: "2025-12-25T10:41:35+03:00"
 slug: "server-cesmesi"
 description: "### Server Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.7705688,41.378685"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Server Çeşmesi

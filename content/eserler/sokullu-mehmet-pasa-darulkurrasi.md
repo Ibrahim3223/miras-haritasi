@@ -1,18 +1,17 @@
 ---
-title: "Sokullu Mehmet Paşa Darülkurrası | Miras Haritası"
-date: 2025-12-25T17:24:16+03:00
+title: "Sokullu Mehmet Paşa Darülkurrası"
+date: "2025-12-25T17:24:16+03:00"
 slug: "sokullu-mehmet-pasa-darulkurrasi"
 description: "## Sokullu Mehmet Paşa Darülkurrası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sokullu_Mehmet_Paşa_Daru'l_Kurrası.jpg/1200px-Sokullu_Mehmet_Paşa_Daru'l_Kurrası.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9346027,41.0472412"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sokullu Mehmet Paşa Darülkurrası

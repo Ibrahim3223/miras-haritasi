@@ -1,18 +1,17 @@
 ---
-title: "İncili Hanım Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:42+03:00
+title: "İncili Hanım Türbesi"
+date: "2025-12-25T14:43:42+03:00"
 slug: "incili-hanim-turbesi"
 description: "### İncili Hanım Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.0116158,39.7549973"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İncili Hanım Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "İki Şerefeli Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:15+03:00
+title: "İki Şerefeli Camii Çeşmesi"
+date: "2025-12-25T10:28:15+03:00"
 slug: "iki-serefeli-camii-cesmesi"
 description: "## İki Şerefeli Camii Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8668747,39.9368248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İki Şerefeli Camii Çeşmesi

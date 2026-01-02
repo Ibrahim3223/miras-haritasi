@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:56:12+03:00
+title: "Hüseyin Ağa Camii"
+date: "2025-12-24T21:56:12+03:00"
 slug: "huseyin-aga-camii"
 description: "## Hüseyin Ağa Camii: Beyoğlu'ndaki Bir Ünlü Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hüseyin_Ağa_Cami.jpg/1200px-Hüseyin_Ağa_Cami.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Şehit Muhtar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.980694444,41.035111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hüseyin Ağa Camii: Beyoğlu'ndaki Bir Ünlü Cami

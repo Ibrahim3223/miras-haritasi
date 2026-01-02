@@ -1,18 +1,17 @@
 ---
-title: "Güvenç Abdal Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:30+03:00
+title: "Güvenç Abdal Türbesi"
+date: "2025-12-25T15:33:30+03:00"
 slug: "guvenc-abdal-turbesi"
 description: "## Güvenç Abdal Türbesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.562233,38.942997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güvenç Abdal Türbesi

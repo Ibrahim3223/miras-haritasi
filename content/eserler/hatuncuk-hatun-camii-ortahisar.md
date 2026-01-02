@@ -1,18 +1,17 @@
 ---
-title: "Hatuncuk Hatun Camii, Ortahisar | Miras Haritası"
-date: 2025-12-25T00:52:30+03:00
+title: "Hatuncuk Hatun Camii, Ortahisar"
+date: "2025-12-25T00:52:30+03:00"
 slug: "hatuncuk-hatun-camii-ortahisar"
 description: "## Hatuncuk Hatun Camii: Ortahisar'daki Bir Kıymetli Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hatuncuk_Hatun_Mosque_(Ortahisar).jpg/1200px-Hatuncuk_Hatun_Mosque_(Ortahisar).jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.710128,41.004144"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hatuncuk Hatun Camii: Ortahisar'daki Bir Kıymetli Cami

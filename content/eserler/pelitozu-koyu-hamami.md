@@ -1,18 +1,17 @@
 ---
-title: "Pelitözü Köyü Hamamı | Miras Haritası"
-date: 2025-12-25T16:49:29+03:00
+title: "Pelitözü Köyü Hamamı"
+date: "2025-12-25T16:49:29+03:00"
 slug: "pelitozu-koyu-hamami"
 description: "### Pelitözü Köyü Hamamı: Tarihî Bir Mirasın Öyküsü..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.0509491,40.2942696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pelitözü Köyü Hamamı: Tarihî Bir Mirasın Öyküsü

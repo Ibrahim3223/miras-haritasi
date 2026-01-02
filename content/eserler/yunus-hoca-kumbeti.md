@@ -1,18 +1,17 @@
 ---
-title: "Yunus Hoca Kümbeti | Miras Haritası"
-date: 2025-12-25T00:31:47+03:00
+title: "Yunus Hoca Kümbeti"
+date: "2025-12-25T00:31:47+03:00"
 slug: "yunus-hoca-kumbeti"
 description: "## Yunus Hoca Kümbeti: Eskişehir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.536644,39.4476013"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yunus Hoca Kümbeti: Eskişehir'in Tarihî Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Akif Ersoy Heykeli | Miras Haritası"
-date: 2025-12-25T16:09:48+03:00
+title: "Mehmet Akif Ersoy Heykeli"
+date: "2025-12-25T16:09:48+03:00"
 slug: "mehmet-akif-ersoy-heykeli"
 description: "## Mehmet Akif Ersoy Heykeli..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8663826,39.9333763"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Akif Ersoy Heykeli

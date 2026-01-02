@@ -1,18 +1,17 @@
 ---
-title: "Amasya Saraydüzü Kışlası | Miras Haritası"
-date: 2025-12-25T03:38:19+03:00
+title: "Amasya Saraydüzü Kışlası"
+date: "2025-12-25T03:38:19+03:00"
 slug: "amasya-sarayduzu-kislasi"
 description: "**Amasya Saraydüzü Kışlası: Tarih ve Kültür Mirası**..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Amasya Saraydüzü Kışlası: Tarih ve Kültür Mirası**

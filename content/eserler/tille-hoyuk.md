@@ -1,18 +1,17 @@
 ---
-title: "Tille Höyük | Miras Haritası"
-date: 2025-12-25T07:05:26+03:00
+title: "Tille Höyük"
+date: "2025-12-25T07:05:26+03:00"
 slug: "tille-hoyuk"
 description: "## Tille Höyük: Türkiye'nin Eski Uygarlığının İzleri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Adıyaman"
+province: "Adıyaman"
+iller: '["Adıyaman"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.8833,37.7333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tille Höyük: Türkiye'nin Eski Uygarlığının İzleri

@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Söğütlü Camii | Miras Haritası"
-date: 2025-12-24T22:16:03+03:00
+title: "Aşağı Söğütlü Camii"
+date: "2025-12-24T22:16:03+03:00"
 slug: "asagi-sogutlu-camii"
 description: "### Aşağı Söğütlü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.8828011,41.2262993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşağı Söğütlü Camii

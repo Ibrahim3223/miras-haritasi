@@ -1,18 +1,17 @@
 ---
-title: "Akıncılar Kurudere Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:13:58+03:00
+title: "Akıncılar Kurudere Tümülüsü"
+date: "2025-12-25T08:13:58+03:00"
 slug: "akincilar-kurudere-tumulusu"
 description: "## Akıncılar Kurudere Tümülüsü: Kırklareli'deki Antik Bir Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6585369,41.4550514"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akıncılar Kurudere Tümülüsü: Kırklareli'deki Antik Bir Miras

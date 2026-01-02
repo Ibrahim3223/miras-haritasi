@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Mehmed Said Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:32:53+03:00
+title: "Seyyid Mehmed Said Ağa Çeşmesi"
+date: "2025-12-25T11:32:53+03:00"
 slug: "seyyid-mehmed-said-aga-cesmesi"
 description: "## Seyyid Mehmed Said Ağa Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.7813873,37.3168716"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Mehmed Said Ağa Çeşmesi

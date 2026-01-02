@@ -1,18 +1,17 @@
 ---
-title: "Çakmaktepe, Bandırma | Miras Haritası"
-date: 2025-12-25T06:40:05+03:00
+title: "Çakmaktepe, Bandırma"
+date: "2025-12-25T06:40:05+03:00"
 slug: "cakmaktepe-bandirma"
 description: "## Çakmaktepe, Bandırma: Eski Yunanistan'ın İzleri Balıkesir'de..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.117508137,40.173153677"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakmaktepe, Bandırma: Eski Yunanistan'ın İzleri Balıkesir'de

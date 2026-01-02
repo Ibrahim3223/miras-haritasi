@@ -1,18 +1,17 @@
 ---
-title: "Mimar Acem Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:04:03+03:00
+title: "Mimar Acem Camii Şadırvanı"
+date: "2025-12-25T10:04:03+03:00"
 slug: "mimar-acem-camii-sadirvani"
 description: "## Mimar Acem Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9266396,41.0136261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mimar Acem Camii Şadırvanı

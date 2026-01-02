@@ -1,18 +1,17 @@
 ---
-title: "Sillyon Kent Kapısı | Miras Haritası"
-date: 2025-12-25T13:15:06+03:00
+title: "Sillyon Kent Kapısı"
+date: "2025-12-25T13:15:06+03:00"
 slug: "sillyon-kent-kapisi"
 description: "## Sillyon Kent Kapısı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.984905868,36.988950295"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sillyon Kent Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Tesderamoska | Miras Haritası"
-date: 2025-12-25T04:46:07+03:00
+title: "Tesderamoska"
+date: "2025-12-25T04:46:07+03:00"
 slug: "tesderamoska"
 description: "# Tesderamoska: Türkiye'nin Değerli Arkeolojik Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.724963,40.83924"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tesderamoska: Türkiye'nin Değerli Arkeolojik Mirası

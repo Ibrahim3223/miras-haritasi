@@ -1,18 +1,17 @@
 ---
-title: "Abdülmecit Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:11+03:00
+title: "Abdülmecit Meydan Çeşmesi"
+date: "2025-12-25T11:01:11+03:00"
 slug: "abdulmecit-meydan-cesmesi"
 description: "## Abdülmecit Meydan Çeşmesi: Üsküdar'da Bir Gizli Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.014477,41.00972"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abdülmecit Meydan Çeşmesi: Üsküdar'da Bir Gizli Çeşme

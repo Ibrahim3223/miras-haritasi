@@ -1,18 +1,17 @@
 ---
-title: "Hacı Ali Ağa Mescidi | Miras Haritası"
-date: 2025-12-24T23:26:09+03:00
+title: "Hacı Ali Ağa Mescidi"
+date: "2025-12-24T23:26:09+03:00"
 slug: "haci-ali-aga-mescidi"
 description: "## Hacı Ali Ağa Mescidi..."
 featured_image: ""
 province: "Dikili (ilçe)"
-iller: ["Dikili (ilçe)"]
+iller: '["Dikili (ilçe)"]'
 district: "Çandarlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9325333,38.935112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Ali Ağa Mescidi

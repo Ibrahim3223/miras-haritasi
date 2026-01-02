@@ -1,18 +1,17 @@
 ---
-title: "Hançerli Fatma Sultan Camii | Miras Haritası"
-date: 2025-12-24T23:30:58+03:00
+title: "Hançerli Fatma Sultan Camii"
+date: "2025-12-24T23:30:58+03:00"
 slug: "hancerli-fatma-sultan-camii"
 description: "## Hançerli Fatma Sultan Camii: İnegöl'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İnegöl"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.6656418,40.034687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hançerli Fatma Sultan Camii: İnegöl'ün Tarihi ve Kültürel Mirası

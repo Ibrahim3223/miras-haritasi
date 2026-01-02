@@ -1,18 +1,17 @@
 ---
-title: "V. Murat Av Köşkü Hamamı | Miras Haritası"
-date: 2025-12-25T16:59:51+03:00
+title: "V. Murat Av Köşkü Hamamı"
+date: "2025-12-25T16:59:51+03:00"
 slug: "v-murat-av-kosku-hamami"
 description: "## V. Murat Av Köşkü Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0532856,40.9875755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## V. Murat Av Köşkü Hamamı

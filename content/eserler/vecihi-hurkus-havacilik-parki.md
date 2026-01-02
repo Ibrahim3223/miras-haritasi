@@ -1,18 +1,17 @@
 ---
-title: "Vecihi Hürkuş Havacılık Parkı | Miras Haritası"
-date: 2025-12-25T03:08:07+03:00
+title: "Vecihi Hürkuş Havacılık Parkı"
+date: "2025-12-25T03:08:07+03:00"
 slug: "vecihi-hurkus-havacilik-parki"
 description: "### Vecihi Hürkuş Havacılık Parkı: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Eskişehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.50055556,39.78666667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Vecihi Hürkuş Havacılık Parkı: Eskişehir'in Gizli Cenneti

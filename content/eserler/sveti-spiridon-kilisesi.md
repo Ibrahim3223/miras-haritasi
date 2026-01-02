@@ -1,18 +1,17 @@
 ---
-title: "Sveti Spiridon Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:46+03:00
+title: "Sveti Spiridon Kilisesi"
+date: "2025-12-25T09:36:46+03:00"
 slug: "sveti-spiridon-kilisesi"
 description: "### Sveti Spiridon Kilisesi: Kırklareli'nin İhtişamı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.2227478,41.741291"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sveti Spiridon Kilisesi: Kırklareli'nin İhtişamı

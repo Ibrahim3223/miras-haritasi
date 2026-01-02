@@ -1,18 +1,17 @@
 ---
-title: "Nevşehir Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:02+03:00
+title: "Nevşehir Saat Kulesi"
+date: "2025-12-25T17:18:02+03:00"
 slug: "nevsehir-saat-kulesi"
 description: "## Nevşehir Saat Kulesi: Tarihi ve Ünlü Saat Kulesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "34.7085,38.622805555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nevşehir Saat Kulesi: Tarihi ve Ünlü Saat Kulesi

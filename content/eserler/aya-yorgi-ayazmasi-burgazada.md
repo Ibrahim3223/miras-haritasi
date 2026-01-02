@@ -1,18 +1,17 @@
 ---
-title: "Aya Yorgi Ayazması, Burgazada | Miras Haritası"
-date: 2025-12-25T12:41:38+03:00
+title: "Aya Yorgi Ayazması, Burgazada"
+date: "2025-12-25T12:41:38+03:00"
 slug: "aya-yorgi-ayazmasi-burgazada"
 description: "## Aya Yorgi Ayazması, Burgazada..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0638905,40.88451"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Yorgi Ayazması, Burgazada

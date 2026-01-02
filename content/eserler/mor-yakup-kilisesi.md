@@ -1,18 +1,17 @@
 ---
-title: "Mor Yakup Kilisesi | Miras Haritası"
-date: 2025-12-25T08:41:57+03:00
+title: "Mor Yakup Kilisesi"
+date: "2025-12-25T08:41:57+03:00"
 slug: "mor-yakup-kilisesi"
 description: "# Mor Yakup Kilisesi: Nusaybin'in Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mar_Jacob_Church,_Nisibis.jpg/1200px-Mar_Jacob_Church,_Nisibis.jpg"
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Nusaybin"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.2152,37.067"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Mor Yakup Kilisesi: Nusaybin'in Tarihî ve Kültürel Mirası

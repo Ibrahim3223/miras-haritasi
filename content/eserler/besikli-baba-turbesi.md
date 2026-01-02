@@ -1,18 +1,17 @@
 ---
-title: "Beşikli Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:29+03:00
+title: "Beşikli Baba Türbesi"
+date: "2025-12-25T14:18:29+03:00"
 slug: "besikli-baba-turbesi"
 description: "## Beşikli Baba Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Elazığ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.25,38.7017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşikli Baba Türbesi

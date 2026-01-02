@@ -1,18 +1,17 @@
 ---
-title: "Rosalado Mevki Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:27+03:00
+title: "Rosalado Mevki Kilisesi"
+date: "2025-12-25T09:32:27+03:00"
 slug: "rosalado-mevki-kilisesi"
 description: "### Rosalado Mevki Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "25.8703995,40.1941986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Rosalado Mevki Kilisesi

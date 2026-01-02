@@ -1,18 +1,17 @@
 ---
-title: "Niyazi Efendi Mescidi | Miras Haritası"
-date: 2025-12-25T01:06:05+03:00
+title: "Niyazi Efendi Mescidi"
+date: "2025-12-25T01:06:05+03:00"
 slug: "niyazi-efendi-mescidi"
 description: "## Niyazi Efendi Mescidi..."
 featured_image: ""
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8953629,36.9201698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Niyazi Efendi Mescidi

@@ -1,18 +1,17 @@
 ---
-title: "Maltepe Höyük | Miras Haritası"
-date: 2025-12-25T06:12:57+03:00
+title: "Maltepe Höyük"
+date: "2025-12-25T06:12:57+03:00"
 slug: "maltepe-hoyuk"
 description: "## Maltepe Höyük: Sivas'ta Bir Arkeolojik SİT..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Zara"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.774094,39.8650121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Maltepe Höyük: Sivas'ta Bir Arkeolojik SİT

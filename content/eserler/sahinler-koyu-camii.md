@@ -1,18 +1,17 @@
 ---
-title: "Şahinler Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:08:05+03:00
+title: "Şahinler Köyü Camii"
+date: "2025-12-24T23:08:05+03:00"
 slug: "sahinler-koyu-camii"
 description: "## Şahinler Köyü Camii..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Burhaniye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9485397,39.4391136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şahinler Köyü Camii

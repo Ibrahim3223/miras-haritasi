@@ -1,18 +1,17 @@
 ---
-title: "Odabaşı Behruz Ağa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:04:31+03:00
+title: "Odabaşı Behruz Ağa Camii Şadırvanı"
+date: "2025-12-25T10:04:31+03:00"
 slug: "odabasi-behruz-aga-camii-sadirvani"
 description: "## Odabaşı Behruz Ağa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9310188,41.0121155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Odabaşı Behruz Ağa Camii Şadırvanı

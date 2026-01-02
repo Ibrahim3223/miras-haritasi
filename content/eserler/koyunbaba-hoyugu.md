@@ -1,18 +1,17 @@
 ---
-title: "Koyunbaba Höyüğü | Miras Haritası"
-date: 2025-12-25T06:13:10+03:00
+title: "Koyunbaba Höyüğü"
+date: "2025-12-25T06:13:10+03:00"
 slug: "koyunbaba-hoyugu"
 description: "## Koyunbaba Höyüğü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1024094,41.7275276"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koyunbaba Höyüğü

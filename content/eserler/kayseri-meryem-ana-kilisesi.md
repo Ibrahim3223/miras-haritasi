@@ -1,18 +1,17 @@
 ---
-title: "Kayseri Meryem Ana Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:34+03:00
+title: "Kayseri Meryem Ana Kilisesi"
+date: "2025-12-25T09:02:34+03:00"
 slug: "kayseri-meryem-ana-kilisesi"
 description: "## Kayseri Meryem Ana Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kayseri_Meryem_Ana_Kilisesi_002.jpg/1200px-Kayseri_Meryem_Ana_Kilisesi_002.jpg"
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kayseri"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.489703,38.717494"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kayseri Meryem Ana Kilisesi

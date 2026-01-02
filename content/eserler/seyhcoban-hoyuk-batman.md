@@ -1,18 +1,17 @@
 ---
-title: "Şeyhçoban Höyük, Batman | Miras Haritası"
-date: 2025-12-25T13:48:23+03:00
+title: "Şeyhçoban Höyük, Batman"
+date: "2025-12-25T13:48:23+03:00"
 slug: "seyhcoban-hoyuk-batman"
 description: "**Şeyhçoban Höyük: Batman'ın Gizemli Anıtı**..."
 featured_image: ""
-province: "Güneydoğu Anadolu Bölgesi"
-iller: ["Güneydoğu Anadolu Bölgesi"]
-district: "Batman"
+province: "Batman"
+iller: '["Batman"]'
+district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.0334854,37.8330116"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şeyhçoban Höyük: Batman'ın Gizemli Anıtı**

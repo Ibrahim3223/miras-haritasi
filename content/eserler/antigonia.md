@@ -1,18 +1,17 @@
 ---
-title: "Antigonia | Miras Haritası"
-date: 2025-12-25T04:31:28+03:00
+title: "Antigonia"
+date: "2025-12-25T04:31:28+03:00"
 slug: "antigonia"
 description: "## Antigonia: Hatay'ın Antik Dönemden Kalma Gizemi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.20516667,36.25391667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Antigonia: Hatay'ın Antik Dönemden Kalma Gizemi

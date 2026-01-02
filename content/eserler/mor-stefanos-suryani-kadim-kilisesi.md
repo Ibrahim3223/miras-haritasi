@@ -1,18 +1,17 @@
 ---
-title: "Mor Stefanos Süryani Kadim Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:14+03:00
+title: "Mor Stefanos Süryani Kadim Kilisesi"
+date: "2025-12-25T09:27:14+03:00"
 slug: "mor-stefanos-suryani-kadim-kilisesi"
 description: "### Mor Stefanos Süryani Kadim Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.5538101,37.3179207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mor Stefanos Süryani Kadim Kilisesi

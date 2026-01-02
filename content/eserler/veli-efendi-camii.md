@@ -1,18 +1,17 @@
 ---
-title: "Veli Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:16:33+03:00
+title: "Veli Efendi Camii"
+date: "2025-12-24T23:16:33+03:00"
 slug: "veli-efendi-camii"
 description: "**Veli Efendi Camii**..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.3720322,39.0610123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Veli Efendi Camii**

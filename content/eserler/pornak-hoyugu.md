@@ -1,18 +1,17 @@
 ---
-title: "Pornak Höyüğü | Miras Haritası"
-date: 2025-12-25T06:35:21+03:00
+title: "Pornak Höyüğü"
+date: "2025-12-25T06:35:21+03:00"
 slug: "pornak-hoyugu"
 description: "## Pornak Höyüğü: Diyarbakır'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.3790743,37.7968755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pornak Höyüğü: Diyarbakır'ın Gizli Hazinesi

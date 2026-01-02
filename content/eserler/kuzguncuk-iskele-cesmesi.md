@@ -1,18 +1,17 @@
 ---
-title: "Kuzguncuk İskele Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:05+03:00
+title: "Kuzguncuk İskele Çeşmesi"
+date: "2025-12-25T11:22:05+03:00"
 slug: "kuzguncuk-iskele-cesmesi"
 description: "## Kuzguncuk İskele Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.029276,41.036563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuzguncuk İskele Çeşmesi

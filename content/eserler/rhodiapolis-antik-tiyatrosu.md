@@ -1,18 +1,17 @@
 ---
-title: "Rhodiapolis Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:24:21+03:00
+title: "Rhodiapolis Antik Tiyatrosu"
+date: "2025-12-25T08:24:21+03:00"
 slug: "rhodiapolis-antik-tiyatrosu"
 description: "## Rhodiapolis Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.265692,36.387474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rhodiapolis Antik Tiyatrosu

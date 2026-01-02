@@ -1,18 +1,17 @@
 ---
-title: "Mimar Ahmet Oğlu Mehmet Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:14+03:00
+title: "Mimar Ahmet Oğlu Mehmet Türbesi"
+date: "2025-12-25T15:04:14+03:00"
 slug: "mimar-ahmet-oglu-mehmet-turbesi"
 description: "### Mimar Ahmet Oğlu Mehmet Türbesi: Çeşme'nin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3075008,38.3209991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mimar Ahmet Oğlu Mehmet Türbesi: Çeşme'nin Gizli Cenneti

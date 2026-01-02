@@ -1,18 +1,17 @@
 ---
-title: "Medusa Cam Eserler Müzesi | Miras Haritası"
-date: 2025-12-25T03:17:35+03:00
+title: "Medusa Cam Eserler Müzesi"
+date: "2025-12-25T03:17:35+03:00"
 slug: "medusa-cam-eserler-muzesi"
 description: "## Medusa Cam Eserler Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.381815,37.066942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Medusa Cam Eserler Müzesi

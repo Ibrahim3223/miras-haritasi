@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hamdi Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:33+03:00
+title: "Şeyh Hamdi Efendi Türbesi"
+date: "2025-12-25T15:20:33+03:00"
 slug: "seyh-hamdi-efendi-turbesi"
 description: "## Şeyh Hamdi Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9627399,41.0415993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Hamdi Efendi Türbesi

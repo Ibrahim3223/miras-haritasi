@@ -1,18 +1,17 @@
 ---
-title: "Selçuklu Müzesi | Miras Haritası"
-date: 2025-12-25T03:42:55+03:00
+title: "Selçuklu Müzesi"
+date: "2025-12-25T03:42:55+03:00"
 slug: "selcuklu-muzesi"
 description: "## Selçuklu Müzesi: Kayseri'nin İhtişamlı Tarihsel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.4841309,38.7239265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selçuklu Müzesi: Kayseri'nin İhtişamlı Tarihsel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Nasuh Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:08:33+03:00
+title: "Nasuh Paşa Camii"
+date: "2025-12-24T22:08:33+03:00"
 slug: "nasuh-pasa-camii"
 description: "## Nasuh Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nasuh_Paşa_Camisi.png/1200px-Nasuh_Paşa_Camisi.png"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.241623,37.913442"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nasuh Paşa Camii

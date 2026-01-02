@@ -1,18 +1,17 @@
 ---
-title: "Karaabalar Petre Tepesi Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:42:13+03:00
+title: "Karaabalar Petre Tepesi Tümülüsü"
+date: "2025-12-25T07:42:13+03:00"
 slug: "karaabalar-petre-tepesi-tumulusu"
 description: "## Karaabalar Petre Tepesi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2768555,42.0589676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaabalar Petre Tepesi Tümülüsü

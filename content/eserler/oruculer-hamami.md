@@ -1,18 +1,17 @@
 ---
-title: "Örücüler Hamamı | Miras Haritası"
-date: 2025-12-25T16:39:55+03:00
+title: "Örücüler Hamamı"
+date: "2025-12-25T16:39:55+03:00"
 slug: "oruculer-hamami"
 description: "### Örücüler Hamamı Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.967192,41.012349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Örücüler Hamamı Tanıtımı

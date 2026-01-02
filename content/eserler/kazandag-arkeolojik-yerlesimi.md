@@ -1,18 +1,17 @@
 ---
-title: "Kazandağ Arkeolojik Yerleşimi | Miras Haritası"
-date: 2025-12-25T06:05:52+03:00
+title: "Kazandağ Arkeolojik Yerleşimi"
+date: "2025-12-25T06:05:52+03:00"
 slug: "kazandag-arkeolojik-yerlesimi"
 description: "## Kazandağ Arkeolojik Yerleşimi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karpuzlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8197002,37.5685005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kazandağ Arkeolojik Yerleşimi

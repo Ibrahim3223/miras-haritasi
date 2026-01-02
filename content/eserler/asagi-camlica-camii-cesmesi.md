@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Çamlıca Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:46:26+03:00
+title: "Aşağı Çamlıca Camii Çeşmesi"
+date: "2025-12-25T11:46:26+03:00"
 slug: "asagi-camlica-camii-cesmesi"
 description: "## Aşağı Çamlıca Camii Çeşmesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Rize"
+province: "Rize"
+iller: '["Rize"]'
+district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.000774,41.056055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Çamlıca Camii Çeşmesi

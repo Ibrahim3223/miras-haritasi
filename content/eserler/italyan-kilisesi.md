@@ -1,18 +1,17 @@
 ---
-title: "İtalyan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:26+03:00
+title: "İtalyan Kilisesi"
+date: "2025-12-25T09:40:26+03:00"
 slug: "italyan-kilisesi"
 description: "## İtalyan Kilisesi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.5505428,41.6747704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İtalyan Kilisesi: Edirne'nin Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Cafer Paşa Camii, Adana | Miras Haritası"
-date: 2025-12-25T00:29:38+03:00
+title: "Cafer Paşa Camii, Adana"
+date: "2025-12-25T00:29:38+03:00"
 slug: "cafer-pasa-camii-adana"
 description: "## Cafer Paşa Camii..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.3331032,36.9857712"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cafer Paşa Camii

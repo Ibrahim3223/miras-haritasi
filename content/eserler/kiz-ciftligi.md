@@ -1,18 +1,17 @@
 ---
-title: "Kız Çiftliği | Miras Haritası"
-date: 2025-12-25T06:15:05+03:00
+title: "Kız Çiftliği"
+date: "2025-12-25T06:15:05+03:00"
 slug: "kiz-ciftligi"
 description: "## Kız Çiftliği: Balıkesir'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gömeç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8034449,39.3880894"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kız Çiftliği: Balıkesir'in Gizli Cenneti

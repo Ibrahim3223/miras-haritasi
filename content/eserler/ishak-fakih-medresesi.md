@@ -1,18 +1,17 @@
 ---
-title: "İshak Fakih Medresesi | Miras Haritası"
-date: 2025-12-25T17:34:03+03:00
+title: "İshak Fakih Medresesi"
+date: "2025-12-25T17:34:03+03:00"
 slug: "ishak-fakih-medresesi"
 description: "## İshak Fakih Medresesi: Kütahya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.9747486,39.4196701"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İshak Fakih Medresesi: Kütahya'nın Kültürel Mirası

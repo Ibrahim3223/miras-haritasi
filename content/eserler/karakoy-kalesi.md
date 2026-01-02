@@ -1,18 +1,17 @@
 ---
-title: "Karaköy Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:15+03:00
+title: "Karaköy Kalesi"
+date: "2025-12-25T01:32:15+03:00"
 slug: "karakoy-kalesi"
 description: "### Karaköy Kalesi: Konya'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ilgın"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.050258,38.311267"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karaköy Kalesi: Konya'nın Gizli Mücevheri

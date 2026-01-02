@@ -1,18 +1,17 @@
 ---
-title: "Laodikeia Doğu Bizans Kapısı ve Kuleleri | Miras Haritası"
-date: 2025-12-25T13:18:16+03:00
+title: "Laodikeia Doğu Bizans Kapısı ve Kuleleri"
+date: "2025-12-25T13:18:16+03:00"
 slug: "laodikeia-dogu-bizans-kapisi-ve-kuleleri"
 description: "### Laodikeia Doğu Bizans Kapısı ve Kuleleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Laodikeia_antik_kenti.jpg/1200px-Laodikeia_antik_kenti.jpg"
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1111946,37.8351746"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Laodikeia Doğu Bizans Kapısı ve Kuleleri

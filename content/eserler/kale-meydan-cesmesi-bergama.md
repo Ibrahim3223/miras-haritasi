@@ -1,18 +1,17 @@
 ---
-title: "Kale Meydan Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:48:10+03:00
+title: "Kale Meydan Çeşmesi, Bergama"
+date: "2025-12-25T12:48:10+03:00"
 slug: "kale-meydan-cesmesi-bergama"
 description: "### Kale Meydan Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1877995,39.1241989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kale Meydan Çeşmesi, Bergama

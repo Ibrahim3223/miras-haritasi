@@ -1,18 +1,17 @@
 ---
-title: "Kırım Kilisesi | Miras Haritası"
-date: 2025-12-25T08:45:48+03:00
+title: "Kırım Kilisesi"
+date: "2025-12-25T08:45:48+03:00"
 slug: "kirim-kilisesi"
 description: "## Kırım Kilisesi: İstanbul'un Gizli Çarıtsı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Crimea_Memorial_Church_(Kırım_Kilisesi)_Beyoğlu,_İstanbul_-_Mart_2013.JPG/1200px-Crimea_Memorial_Church_(Kırım_Kilisesi)_Beyoğlu,_İstanbul_-_Mart_2013.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9771,41.0277"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kırım Kilisesi: İstanbul'un Gizli Çarıtsı

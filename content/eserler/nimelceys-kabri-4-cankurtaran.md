@@ -1,18 +1,17 @@
 ---
-title: "Nimelceyş Kabri 4, Cankurtaran | Miras Haritası"
-date: 2025-12-25T13:33:01+03:00
+title: "Nimelceyş Kabri 4, Cankurtaran"
+date: "2025-12-25T13:33:01+03:00"
 slug: "nimelceys-kabri-4-cankurtaran"
 description: "# Nimelceyş Kabri 4, Cankurtaran: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9808025,41.0046196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Nimelceyş Kabri 4, Cankurtaran: İstanbul'un Gizli Anıtı

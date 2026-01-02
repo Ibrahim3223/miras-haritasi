@@ -1,18 +1,17 @@
 ---
-title: "Krom Kalesi | Miras Haritası"
-date: 2025-12-25T01:20:58+03:00
+title: "Krom Kalesi"
+date: "2025-12-25T01:20:58+03:00"
 slug: "krom-kalesi"
 description: "## Krom Kalesi..."
 featured_image: ""
-province: "Trabzon Eyaleti"
-iller: ["Trabzon Eyaleti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Eyaleti"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.5785408,40.5673752"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Krom Kalesi

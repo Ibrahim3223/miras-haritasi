@@ -1,18 +1,17 @@
 ---
-title: "Ayakapı Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:11+03:00
+title: "Ayakapı Hamamı"
+date: "2025-12-25T16:40:11+03:00"
 slug: "ayakapi-hamami"
 description: "## Ayakapı Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.955577,41.028049"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayakapı Hamamı

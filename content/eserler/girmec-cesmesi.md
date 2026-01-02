@@ -1,18 +1,17 @@
 ---
-title: "Girmeç Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:25:10+03:00
+title: "Girmeç Çeşmesi"
+date: "2025-12-25T10:25:10+03:00"
 slug: "girmec-cesmesi"
 description: "## Girmeç Çeşmesi: Ankara'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.2785339,39.815094"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Girmeç Çeşmesi: Ankara'nın Gizli Çeşmesi

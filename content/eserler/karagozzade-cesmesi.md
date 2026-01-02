@@ -1,18 +1,17 @@
 ---
-title: "Karagözzade Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:06+03:00
+title: "Karagözzade Çeşmesi"
+date: "2025-12-25T11:50:06+03:00"
 slug: "karagozzade-cesmesi"
 description: "## Karagözzade Çeşmesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Halıcıoğlu"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9492302,41.0477066"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagözzade Çeşmesi

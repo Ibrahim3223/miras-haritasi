@@ -1,18 +1,17 @@
 ---
-title: "Kalukkaraçukur Camii | Miras Haritası"
-date: 2025-12-24T23:41:25+03:00
+title: "Kalukkaraçukur Camii"
+date: "2025-12-24T23:41:25+03:00"
 slug: "kalukkaracukur-camii"
 description: "### Kalukkaraçukur Camii: Alaçam'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Alaçam"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.550499,41.5203018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kalukkaraçukur Camii: Alaçam'ın Tarihi ve Kültürel Mirası

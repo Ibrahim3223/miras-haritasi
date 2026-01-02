@@ -1,18 +1,17 @@
 ---
-title: "Stele of Kuttamuwa | Miras Haritası"
-date: 2025-12-25T14:15:43+03:00
+title: "Stele of Kuttamuwa"
+date: "2025-12-25T14:15:43+03:00"
 slug: "stele-of-kuttamuwa"
 description: "## Stele of Kuttamuwa: İncil döneminin en önemli anıtlarından biri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg/1200px-Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Stele of Kuttamuwa: İncil döneminin en önemli anıtlarından biri

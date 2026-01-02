@@ -1,18 +1,17 @@
 ---
-title: "Veyis Efendi Camii | Miras Haritası"
-date: 2025-12-24T23:45:01+03:00
+title: "Veyis Efendi Camii"
+date: "2025-12-24T23:45:01+03:00"
 slug: "veyis-efendi-camii"
 description: "# Veyis Efendi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzurum"
+province: "Erzurum"
+iller: '["Erzurum"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.284523,39.9089241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Veyis Efendi Camii

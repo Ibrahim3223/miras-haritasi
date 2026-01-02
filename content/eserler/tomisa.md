@@ -1,18 +1,17 @@
 ---
-title: "Tomisa | Miras Haritası"
-date: 2025-12-25T04:32:46+03:00
+title: "Tomisa"
+date: "2025-12-25T04:32:46+03:00"
 slug: "tomisa"
 description: "## Tomisa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tomisa Arkeolojik Sit

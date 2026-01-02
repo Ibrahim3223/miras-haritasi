@@ -1,18 +1,17 @@
 ---
-title: "Ericek Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T03:04:08+03:00
+title: "Ericek Köyü Köprüsü"
+date: "2025-12-25T03:04:08+03:00"
 slug: "ericek-koyu-koprusu"
 description: "**Ericek Köyü Köprüsü**..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Espiye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.7180176,40.7144623"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ericek Köyü Köprüsü**

@@ -1,18 +1,17 @@
 ---
-title: "Alibar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:07:47+03:00
+title: "Alibar Höyüğü"
+date: "2025-12-25T06:07:47+03:00"
 slug: "alibar-hoyugu"
 description: "### Alibar Höyüğü: Yozgat'taki Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.750286808,39.407159802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Alibar Höyüğü: Yozgat'taki Bir Arkeolojik Sit

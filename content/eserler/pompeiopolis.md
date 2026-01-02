@@ -1,18 +1,17 @@
 ---
-title: "Pompeiopolis | Miras Haritası"
-date: 2025-12-25T06:55:10+03:00
+title: "Pompeiopolis"
+date: "2025-12-25T06:55:10+03:00"
 slug: "pompeiopolis"
 description: "## Pompeiopolis: Türkiye'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kastamonu"
+province: "Kastamonu"
+iller: '["Kastamonu"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.76138889,41.97805556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pompeiopolis: Türkiye'nin Gizli Arkeolojik Harikası

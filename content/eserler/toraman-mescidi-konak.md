@@ -1,18 +1,17 @@
 ---
-title: "Toraman Mescidi, Konak | Miras Haritası"
-date: 2025-12-25T00:46:04+03:00
+title: "Toraman Mescidi, Konak"
+date: "2025-12-25T00:46:04+03:00"
 slug: "toraman-mescidi-konak"
 description: "## Toraman Mescidi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1362686,38.4153519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toraman Mescidi: İzmir'in Tarihi ve Kültürel Mirası

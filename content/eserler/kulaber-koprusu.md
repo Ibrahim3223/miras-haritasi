@@ -1,18 +1,17 @@
 ---
-title: "Kulaber Köprüsü | Miras Haritası"
-date: 2025-12-25T02:01:44+03:00
+title: "Kulaber Köprüsü"
+date: "2025-12-25T02:01:44+03:00"
 slug: "kulaber-koprusu"
 description: "## Kulaber Köprüsü: Ardeşen'in Görsel Mührü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0816998,41.1154266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kulaber Köprüsü: Ardeşen'in Görsel Mührü

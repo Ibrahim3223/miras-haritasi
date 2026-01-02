@@ -1,18 +1,17 @@
 ---
-title: "Hemdat İsrael Sinagogu | Miras Haritası"
-date: 2025-12-25T16:12:41+03:00
+title: "Hemdat İsrael Sinagogu"
+date: "2025-12-25T16:12:41+03:00"
 slug: "hemdat-israel-sinagogu"
 description: "## Hemdat Israel Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Istanbul_asv2021-11_img01_Hemdat_Israel_Synagogue.jpg/1200px-Istanbul_asv2021-11_img01_Hemdat_Israel_Synagogue.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.0273,40.9948"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hemdat Israel Sinagogu

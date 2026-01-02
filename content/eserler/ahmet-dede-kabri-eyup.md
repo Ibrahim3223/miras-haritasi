@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Dede Kabri, Eyüp | Miras Haritası"
-date: 2025-12-25T13:28:32+03:00
+title: "Ahmet Dede Kabri, Eyüp"
+date: "2025-12-25T13:28:32+03:00"
 slug: "ahmet-dede-kabri-eyup"
 description: "## Ahmet Dede Kabri, Eyüp..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.923821,41.046608"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Dede Kabri, Eyüp

@@ -1,18 +1,17 @@
 ---
-title: "III. Selim Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:07:59+03:00
+title: "III. Selim Çeşmesi"
+date: "2025-12-25T10:07:59+03:00"
 slug: "iii-selim-cesmesi"
 description: "## III. Selim Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/III._Selim_Çeşmesi,_Üsküdar,_İstanbul.jpg/1200px-III._Selim_Çeşmesi,_Üsküdar,_İstanbul.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.017290691,41.013266241"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## III. Selim Çeşmesi

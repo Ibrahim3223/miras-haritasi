@@ -1,18 +1,17 @@
 ---
-title: "Burmahancı Camii | Miras Haritası"
-date: 2025-12-25T00:12:28+03:00
+title: "Burmahancı Camii"
+date: "2025-12-25T00:12:28+03:00"
 slug: "burmahanci-camii"
 description: "## Burmahancı Camii..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.067293,36.948025"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Burmahancı Camii

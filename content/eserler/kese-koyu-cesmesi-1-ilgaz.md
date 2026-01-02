@@ -1,18 +1,17 @@
 ---
-title: "Kese Köyü Çeşmesi 1, Ilgaz | Miras Haritası"
-date: 2025-12-25T12:32:34+03:00
+title: "Kese Köyü Çeşmesi 1, Ilgaz"
+date: "2025-12-25T12:32:34+03:00"
 slug: "kese-koyu-cesmesi-1-ilgaz"
 description: "## Kese Köyü Çeşmesi 1, Ilgaz..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Ilgaz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.62327114,40.949558478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kese Köyü Çeşmesi 1, Ilgaz

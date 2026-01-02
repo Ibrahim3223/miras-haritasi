@@ -1,18 +1,17 @@
 ---
-title: "Hızırilyas Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:45+03:00
+title: "Hızırilyas Köprüsü"
+date: "2025-12-25T02:36:45+03:00"
 slug: "hizirilyas-koprusu"
 description: "### Hızırilyas Köprüsü..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.455513,40.449666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hızırilyas Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Cududil Valide Sultan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:34:00+03:00
+title: "Cududil Valide Sultan Çeşmesi"
+date: "2025-12-25T10:34:00+03:00"
 slug: "cududil-valide-sultan-cesmesi"
 description: "**Cududil Valide Sultan Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cududil_Valide_Sultan_Çeşmesi.jpg/1200px-Cududil_Valide_Sultan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9708252,41.0262527"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Cududil Valide Sultan Çeşmesi**

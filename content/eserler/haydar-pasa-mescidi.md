@@ -1,18 +1,17 @@
 ---
-title: "Haydar Paşa Mescidi | Miras Haritası"
-date: 2025-12-25T00:50:22+03:00
+title: "Haydar Paşa Mescidi"
+date: "2025-12-25T00:50:22+03:00"
 slug: "haydar-pasa-mescidi"
 description: "## Haydar Paşa Mescidi: Fatih'te Bir Altın Çağın Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9566803,41.0222168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haydar Paşa Mescidi: Fatih'te Bir Altın Çağın Mirası

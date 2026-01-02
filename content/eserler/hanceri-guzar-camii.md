@@ -1,18 +1,17 @@
 ---
-title: "Hançeri Güzar Camii | Miras Haritası"
-date: 2025-12-24T23:32:02+03:00
+title: "Hançeri Güzar Camii"
+date: "2025-12-24T23:32:02+03:00"
 slug: "hanceri-guzar-camii"
 description: "## Hançeri Güzar Camii: Diyarbakır'ın Tarihî Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.2295341,37.908474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hançeri Güzar Camii: Diyarbakır'ın Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Anıtı, Adana | Miras Haritası"
-date: 2025-12-25T15:45:28+03:00
+title: "Atatürk Anıtı, Adana"
+date: "2025-12-25T15:45:28+03:00"
 slug: "ataturk-aniti-adana"
 description: "## Atatürk Anıtı, Adana..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3239365,36.9974556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atatürk Anıtı, Adana

@@ -1,18 +1,17 @@
 ---
-title: "Berberkaya Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:04:43+03:00
+title: "Berberkaya Anıt Mezarı"
+date: "2025-12-25T14:04:43+03:00"
 slug: "berberkaya-anit-mezari"
 description: "## Berberkaya Anıt Mezarı: İznik'in Tarihi Gözdelerinden BİRİ..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.7406006,40.4272003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Berberkaya Anıt Mezarı: İznik'in Tarihi Gözdelerinden BİRİ

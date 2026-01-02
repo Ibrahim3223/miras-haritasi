@@ -1,18 +1,17 @@
 ---
-title: "Avdancık Camii | Miras Haritası"
-date: 2025-12-25T00:09:29+03:00
+title: "Avdancık Camii"
+date: "2025-12-25T00:09:29+03:00"
 slug: "avdancik-camii"
 description: "## Avdancık Camii: Beyşehir'in Gizli Mücevheri..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.775862223,37.697125792"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avdancık Camii: Beyşehir'in Gizli Mücevheri

@@ -1,18 +1,17 @@
 ---
-title: "Avgunlu Medresesi | Miras Haritası"
-date: 2025-12-25T17:28:00+03:00
+title: "Avgunlu Medresesi"
+date: "2025-12-25T17:28:00+03:00"
 slug: "avgunlu-medresesi"
 description: "## Avgunlu Medresesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.483295,38.7236208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Avgunlu Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Mihrişah Valide Sultan Çeşmesi, Yeniköy | Miras Haritası"
-date: 2025-12-25T12:10:31+03:00
+title: "Mihrişah Valide Sultan Çeşmesi, Yeniköy"
+date: "2025-12-25T12:10:31+03:00"
 slug: "mihrisah-valide-sultan-cesmesi-yenikoy"
 description: "## Mihrişah Valide Sultan Çeşmesi, Yeniköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mihrişah_Valide_Sultan_Çeşmesi,_Yeniköy_IMG_7384.jpg/1200px-Mihrişah_Valide_Sultan_Çeşmesi,_Yeniköy_IMG_7384.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0650272,41.1174049"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi, Yeniköy

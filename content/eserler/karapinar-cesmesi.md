@@ -1,18 +1,17 @@
 ---
-title: "Karapınar Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:30:40+03:00
+title: "Karapınar Çeşmesi"
+date: "2025-12-25T10:30:40+03:00"
 slug: "karapinar-cesmesi"
 description: "## Karapınar Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Kuyucak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4949093,37.8698158"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karapınar Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası

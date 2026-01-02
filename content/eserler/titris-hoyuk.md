@@ -1,18 +1,17 @@
 ---
-title: "Titriş Höyük | Miras Haritası"
-date: 2025-12-25T05:50:00+03:00
+title: "Titriş Höyük"
+date: "2025-12-25T05:50:00+03:00"
 slug: "titris-hoyuk"
 description: "**Titriş Höyük**..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Karaköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.6772881,37.4763015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Titriş Höyük**

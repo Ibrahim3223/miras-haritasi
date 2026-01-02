@@ -1,18 +1,17 @@
 ---
-title: "Dakibyza | Miras Haritası"
-date: 2025-12-25T04:58:53+03:00
+title: "Dakibyza"
+date: "2025-12-25T04:58:53+03:00"
 slug: "dakibyza"
 description: "## Dakibyza Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.433368,40.799732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dakibyza Arkeolojik Sit

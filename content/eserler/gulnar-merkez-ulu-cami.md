@@ -1,18 +1,17 @@
 ---
-title: "Gülnar Merkez Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:06:01+03:00
+title: "Gülnar Merkez Ulu Cami"
+date: "2025-12-24T23:06:01+03:00"
 slug: "gulnar-merkez-ulu-cami"
 description: "## Gülnar Merkez Ulu Cami: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.4005623,36.3381348"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülnar Merkez Ulu Cami: Mersin'in Tarihi ve Kültürel Mirası

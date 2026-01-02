@@ -1,18 +1,17 @@
 ---
-title: "Ariaramneia | Miras Haritası"
-date: 2025-12-25T04:38:05+03:00
+title: "Ariaramneia"
+date: "2025-12-25T04:38:05+03:00"
 slug: "ariaramneia"
 description: "## Ariaramneia: Antik Çağın Gizemli Yerleşimi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.165436,38.124885"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ariaramneia: Antik Çağın Gizemli Yerleşimi

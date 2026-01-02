@@ -1,18 +1,17 @@
 ---
-title: "Fethiye Camii | Miras Haritası"
-date: 2025-12-24T20:38:07+03:00
+title: "Fethiye Camii"
+date: "2025-12-24T20:38:07+03:00"
 slug: "fethiye-camii"
 description: "## Fethiye Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2014_Pammakaristos_Church_(1).jpg/1200px-2014_Pammakaristos_Church_(1).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.946388888,41.029166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fethiye Camii: İstanbul'un Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "İshaklı Kervansarayı | Miras Haritası"
-date: 2025-12-25T13:38:51+03:00
+title: "İshaklı Kervansarayı"
+date: "2025-12-25T13:38:51+03:00"
 slug: "ishakli-kervansarayi"
 description: "## İshaklı Kervansarayı: Afyonkarahisar'ın Gizli Çehresi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Afyonkarahisar"
+province: "Afyonkarahisar"
+iller: '["Afyonkarahisar"]'
+district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.22833333,38.53277778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İshaklı Kervansarayı: Afyonkarahisar'ın Gizli Çehresi

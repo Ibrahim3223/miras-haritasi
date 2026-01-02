@@ -1,18 +1,17 @@
 ---
-title: "Eğil Kaya Mezarları | Miras Haritası"
-date: 2025-12-25T13:21:21+03:00
+title: "Eğil Kaya Mezarları"
+date: "2025-12-25T13:21:21+03:00"
 slug: "egil-kaya-mezarlari"
 description: "## Eğil Kaya Mezarları..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Eğil"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.0966415,38.2573853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eğil Kaya Mezarları

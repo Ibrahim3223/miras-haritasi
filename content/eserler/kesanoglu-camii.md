@@ -1,18 +1,17 @@
 ---
-title: "Keşanoğlu Camii | Miras Haritası"
-date: 2025-12-25T00:17:27+03:00
+title: "Keşanoğlu Camii"
+date: "2025-12-25T00:17:27+03:00"
 slug: "kesanoglu-camii"
 description: "# Keşanoğlu Camii: Gelibolu'nun Tarihi Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.8846207,40.6662102"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Keşanoğlu Camii: Gelibolu'nun Tarihi Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Ağa Çayırı Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:52:30+03:00
+title: "Ağa Çayırı Çeşmesi"
+date: "2025-12-25T12:52:30+03:00"
 slug: "aga-cayiri-cesmesi"
 description: "## Ağa Çayırı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9245129,41.0036736"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağa Çayırı Çeşmesi

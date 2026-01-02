@@ -1,18 +1,17 @@
 ---
-title: "Köseli Mahallesi Tümülüsü Kavak | Miras Haritası"
-date: 2025-12-25T07:16:18+03:00
+title: "Köseli Mahallesi Tümülüsü Kavak"
+date: "2025-12-25T07:16:18+03:00"
 slug: "koseli-mahallesi-tumulusu-kavak"
 description: "### Köseli Mahallesi Tümülüsü Kavak..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.10484,41.036733"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köseli Mahallesi Tümülüsü Kavak

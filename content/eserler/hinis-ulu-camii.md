@@ -1,18 +1,17 @@
 ---
-title: "Hınıs Ulu Camii | Miras Haritası"
-date: 2025-12-25T01:10:26+03:00
+title: "Hınıs Ulu Camii"
+date: "2025-12-25T01:10:26+03:00"
 slug: "hinis-ulu-camii"
 description: "## Hınıs Ulu Camii..."
 featured_image: ""
 province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
+iller: '["Erzurum Vilayeti"]'
 district: "Hınıs"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.695444444,39.358777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hınıs Ulu Camii

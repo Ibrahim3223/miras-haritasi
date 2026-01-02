@@ -1,18 +1,17 @@
 ---
-title: "Alman Protestan Kilisesi | Miras Haritası"
-date: 2025-12-25T08:55:49+03:00
+title: "Alman Protestan Kilisesi"
+date: "2025-12-25T08:55:49+03:00"
 slug: "alman-protestan-kilisesi"
 description: "## Alman Protestan Kilisesi: Tarihi ve Mimari Özellikleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Deutsche_Evangelische_Kirche_(Alman_Kilisesi),_Istanbul_(1).JPG/1200px-Deutsche_Evangelische_Kirche_(Alman_Kilisesi),_Istanbul_(1).JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9739,41.036104"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alman Protestan Kilisesi: Tarihi ve Mimari Özellikleri

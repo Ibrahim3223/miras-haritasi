@@ -1,18 +1,17 @@
 ---
-title: "Burgazada Sinagogu | Miras Haritası"
-date: 2025-12-25T16:11:30+03:00
+title: "Burgazada Sinagogu"
+date: "2025-12-25T16:11:30+03:00"
 slug: "burgazada-sinagogu"
 description: "**Burgazada Sinagogu**..."
 featured_image: ""
-province: "Adalar"
-iller: ["Adalar"]
-district: "Burgaz Adası"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Adalar"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.069138888,40.880666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Burgazada Sinagogu**

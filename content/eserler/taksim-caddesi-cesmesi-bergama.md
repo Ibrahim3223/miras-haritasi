@@ -1,18 +1,17 @@
 ---
-title: "Taksim Caddesi Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:49:11+03:00
+title: "Taksim Caddesi Çeşmesi, Bergama"
+date: "2025-12-25T12:49:11+03:00"
 slug: "taksim-caddesi-cesmesi-bergama"
 description: "## Taksim Caddesi Çeşmesi: Bergama'nın Tarihi Bir Cezbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1856995,39.1232986"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taksim Caddesi Çeşmesi: Bergama'nın Tarihi Bir Cezbesi

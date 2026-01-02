@@ -1,18 +1,17 @@
 ---
-title: "Yoncatepe Yerleşimi | Miras Haritası"
-date: 2025-12-25T05:54:47+03:00
+title: "Yoncatepe Yerleşimi"
+date: "2025-12-25T05:54:47+03:00"
 slug: "yoncatepe-yerlesimi"
 description: "## Yoncatepe Yerleşimi: Van'ın Tarihi Mirası..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "İpekyolu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.4508247,38.4364014"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yoncatepe Yerleşimi: Van'ın Tarihi Mirası

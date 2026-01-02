@@ -1,18 +1,17 @@
 ---
-title: "Apsarı Höyük | Miras Haritası"
-date: 2025-12-25T05:57:35+03:00
+title: "Apsarı Höyük"
+date: "2025-12-25T05:57:35+03:00"
 slug: "apsari-hoyuk"
 description: "### Apsarı Höyük Arkeolojik Sit..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.5406265,38.3964157"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Apsarı Höyük Arkeolojik Sit

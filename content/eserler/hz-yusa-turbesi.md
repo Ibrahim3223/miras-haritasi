@@ -1,18 +1,17 @@
 ---
-title: "Hz. Yuşa Türbesi | Miras Haritası"
-date: 2025-12-25T13:35:15+03:00
+title: "Hz. Yuşa Türbesi"
+date: "2025-12-25T13:35:15+03:00"
 slug: "hz-yusa-turbesi"
 description: "## Hz. Yuşa Türbesi..."
 featured_image: ""
-province: "Beykoz"
-iller: ["Beykoz"]
-district: "Anadolu Kavağı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beykoz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.084795258,41.162260021"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hz. Yuşa Türbesi

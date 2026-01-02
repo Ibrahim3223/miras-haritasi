@@ -1,18 +1,17 @@
 ---
-title: "Karskapı Şehitliği, Erzurum | Miras Haritası"
-date: 2025-12-25T16:02:32+03:00
+title: "Karskapı Şehitliği, Erzurum"
+date: "2025-12-25T16:02:32+03:00"
 slug: "karskapi-sehitligi-erzurum"
 description: "### Karskapı Şehitliği: Anıtsal Bir Anıtın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.2937927,39.9058533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karskapı Şehitliği: Anıtsal Bir Anıtın Tarihi ve Kültürel Mirası

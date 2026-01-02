@@ -1,18 +1,18 @@
 ---
-title: "Santa Maria Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T08:49:42+03:00
+title: "Santa Maria Katolik Kilisesi"
+date: "2025-12-25T08:49:42+03:00"
 slug: "santa-maria-katolik-kilisesi"
 description: "### Santa Maria Katolik Kilisesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Santa_Maria_Katolik_Kilisesi.jpg/1200px-Santa_Maria_Katolik_Kilisesi.jpg"
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.732027777,41.00725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Santa_Maria_Katolik_Kilisesi.jpg/1200px-Santa_Maria_Katolik_Kilisesi.jpg"
 ---
 
 ### Santa Maria Katolik Kilisesi

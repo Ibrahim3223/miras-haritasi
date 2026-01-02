@@ -1,18 +1,17 @@
 ---
-title: "Hatice Hatun Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:07:25+03:00
+title: "Hatice Hatun Çeşmesi"
+date: "2025-12-25T10:07:25+03:00"
 slug: "hatice-hatun-cesmesi"
 description: "# Hatice Hatun Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/28.24-Hatice_Hatun_Çeşmesi-1878_01.jpg/1200px-28.24-Hatice_Hatun_Çeşmesi-1878_01.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.179025,39.116125"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hatice Hatun Çeşmesi

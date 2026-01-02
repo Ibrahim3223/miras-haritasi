@@ -1,18 +1,17 @@
 ---
-title: "Salur Höyüğü | Miras Haritası"
-date: 2025-12-25T06:14:01+03:00
+title: "Salur Höyüğü"
+date: "2025-12-25T06:14:01+03:00"
 slug: "salur-hoyugu"
 description: "**Salur Höyüğü: Tarihî Mirasın Gizemi**..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.82145,37.70289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Salur Höyüğü: Tarihî Mirasın Gizemi**

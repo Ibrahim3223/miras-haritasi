@@ -1,18 +1,17 @@
 ---
-title: "Hacı Saliha Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:55:19+03:00
+title: "Hacı Saliha Çeşmesi, Çeşme"
+date: "2025-12-25T12:55:19+03:00"
 slug: "haci-saliha-cesmesi-cesme"
 description: "## Hacı Saliha Çeşmesi: Çeşme'nin Yüzyıllık Tarihi Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3029785,38.3225708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Saliha Çeşmesi: Çeşme'nin Yüzyıllık Tarihi Mirası

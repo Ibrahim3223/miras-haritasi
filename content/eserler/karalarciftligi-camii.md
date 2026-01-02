@@ -1,18 +1,17 @@
 ---
-title: "Karalarçiftliği Camii | Miras Haritası"
-date: 2025-12-25T00:20:58+03:00
+title: "Karalarçiftliği Camii"
+date: "2025-12-25T00:20:58+03:00"
 slug: "karalarciftligi-camii"
 description: "## Karalarçiftliği Camii..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gönen"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.620603791,40.109533987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karalarçiftliği Camii

@@ -1,18 +1,17 @@
 ---
-title: "Salkım Söğüt Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:59:00+03:00
+title: "Salkım Söğüt Çeşmesi"
+date: "2025-12-25T10:59:00+03:00"
 slug: "salkim-sogut-cesmesi"
 description: "### Salkım Söğüt Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Salkım_Söğüt_Çeşmesi.jpg/1200px-Salkım_Söğüt_Çeşmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9785576,41.0122604"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Salkım Söğüt Çeşmesi

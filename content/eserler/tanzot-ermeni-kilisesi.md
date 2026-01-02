@@ -1,18 +1,17 @@
 ---
-title: "Tanzot Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:38+03:00
+title: "Tanzot Ermeni Kilisesi"
+date: "2025-12-25T09:00:38+03:00"
 slug: "tanzot-ermeni-kilisesi"
 description: "# Tanzot Ermeni Kilisesi..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Aydınköy"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.095027777,41.042777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Tanzot Ermeni Kilisesi

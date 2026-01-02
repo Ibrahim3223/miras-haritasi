@@ -1,18 +1,17 @@
 ---
-title: "Olenus | Miras Haritası"
-date: 2025-12-25T04:42:06+03:00
+title: "Olenus"
+date: "2025-12-25T04:42:06+03:00"
 slug: "olenus"
 description: "## Olenus: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olenus: Antik Çağın Gizemi

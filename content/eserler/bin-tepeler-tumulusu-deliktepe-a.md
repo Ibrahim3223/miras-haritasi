@@ -1,18 +1,17 @@
 ---
-title: "Bin Tepeler Tümülüsü Deliktepe A | Miras Haritası"
-date: 2025-12-25T07:14:22+03:00
+title: "Bin Tepeler Tümülüsü Deliktepe A"
+date: "2025-12-25T07:14:22+03:00"
 slug: "bin-tepeler-tumulusu-deliktepe-a"
 description: "## Bin Tepeler Tümülüsü Deliktepe A..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.035526,38.571613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bin Tepeler Tümülüsü Deliktepe A

@@ -1,18 +1,17 @@
 ---
-title: "Azize Barbara Kilisesi | Miras Haritası"
-date: 2025-12-25T08:42:05+03:00
+title: "Azize Barbara Kilisesi"
+date: "2025-12-25T08:42:05+03:00"
 slug: "azize-barbara-kilisesi"
 description: "## Azize Barbara Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cappadocia_Göreme_Barbara-Chapel_20241003_142924.jpg/1200px-Cappadocia_Göreme_Barbara-Chapel_20241003_142924.jpg"
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Göreme"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.8451292,38.6387322"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Azize Barbara Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "İslampaşa Kurşunlu Camii | Miras Haritası"
-date: 2025-12-25T01:08:02+03:00
+title: "İslampaşa Kurşunlu Camii"
+date: "2025-12-25T01:08:02+03:00"
 slug: "islampasa-kursunlu-camii"
 description: "## İslampaşa Kurşunlu Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.560771,41.034883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İslampaşa Kurşunlu Camii

@@ -1,18 +1,17 @@
 ---
-title: "Ebul Hasan Harakani Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:54+03:00
+title: "Ebul Hasan Harakani Türbesi"
+date: "2025-12-25T14:20:54+03:00"
 slug: "ebul-hasan-harakani-turbesi"
 description: "## Ebul Hasan Harakani Türbesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.092,40.6106"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ebul Hasan Harakani Türbesi

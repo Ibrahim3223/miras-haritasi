@@ -1,18 +1,17 @@
 ---
-title: "Milet Aziz Mihail Kilisesi ve Dionysos Tapınağı | Miras Haritası"
-date: 2025-12-25T09:41:32+03:00
+title: "Milet Aziz Mihail Kilisesi ve Dionysos Tapınağı"
+date: "2025-12-25T09:41:32+03:00"
 slug: "milet-aziz-mihail-kilisesi-ve-dionysos-tapinagi"
 description: "## Milet Aziz Mihail Kilisesi ve Dionysos Tapınağı..."
 featured_image: ""
 province: "İyonya"
-iller: ["İyonya"]
+iller: '["İyonya"]'
 district: "Didim"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.2783909,37.5297279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Milet Aziz Mihail Kilisesi ve Dionysos Tapınağı

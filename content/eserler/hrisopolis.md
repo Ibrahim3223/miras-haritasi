@@ -1,18 +1,17 @@
 ---
-title: "Hrisopolis | Miras Haritası"
-date: 2025-12-25T04:31:47+03:00
+title: "Hrisopolis"
+date: "2025-12-25T04:31:47+03:00"
 slug: "hrisopolis"
 description: "## Hrisopolis: Türkiye'nin Gizli Şehri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.01777778,41.02638889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hrisopolis: Türkiye'nin Gizli Şehri

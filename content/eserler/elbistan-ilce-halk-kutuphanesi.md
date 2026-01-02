@@ -1,18 +1,17 @@
 ---
-title: "Elbistan İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:56:16+03:00
+title: "Elbistan İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:56:16+03:00"
 slug: "elbistan-ilce-halk-kutuphanesi"
 description: "## Elbistan İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elbistan İlçe Halk Kütüphanesi

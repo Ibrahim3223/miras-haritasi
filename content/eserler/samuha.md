@@ -1,18 +1,17 @@
 ---
-title: "Samuha | Miras Haritası"
-date: 2025-12-25T06:47:50+03:00
+title: "Samuha"
+date: "2025-12-25T06:47:50+03:00"
 slug: "samuha"
 description: "## Samuha: Tarihi ve Kültürel Mirasının Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kayalıpınar_01.jpg/1200px-Kayalıpınar_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sivas"
+province: "Sivas"
+iller: '["Sivas"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.52815016,39.61967189"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Samuha: Tarihi ve Kültürel Mirasının Gizli Çehresi

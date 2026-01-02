@@ -1,18 +1,17 @@
 ---
-title: "Kastabos Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:19:30+03:00
+title: "Kastabos Antik Tiyatrosu"
+date: "2025-12-25T16:19:30+03:00"
 slug: "kastabos-antik-tiyatrosu"
 description: "## Kastabos Antik Tiyatrosu: Marmaris'in Gizli Çehresi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.1538506,36.7834663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kastabos Antik Tiyatrosu: Marmaris'in Gizli Çehresi

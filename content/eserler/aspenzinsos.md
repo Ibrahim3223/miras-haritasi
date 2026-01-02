@@ -1,18 +1,17 @@
 ---
-title: "Aspenzinsos | Miras Haritası"
-date: 2025-12-25T05:10:20+03:00
+title: "Aspenzinsos"
+date: "2025-12-25T05:10:20+03:00"
 slug: "aspenzinsos"
 description: "## Aspenzinsos: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.453369,37.998563"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aspenzinsos: Tarihi ve Kültürel Mirası

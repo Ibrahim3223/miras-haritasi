@@ -1,18 +1,17 @@
 ---
-title: "Kasımpaşa Tuz Ambarı | Miras Haritası"
-date: 2025-12-25T13:38:40+03:00
+title: "Kasımpaşa Tuz Ambarı"
+date: "2025-12-25T13:38:40+03:00"
 slug: "kasimpasa-tuz-ambari"
 description: "## Kasımpaşa Tuz Ambarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kasımpaşa_Tuz_Ambarı_01.jpg/1200px-Kasımpaşa_Tuz_Ambarı_01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.968812612,41.030014477"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kasımpaşa Tuz Ambarı

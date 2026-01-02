@@ -1,18 +1,17 @@
 ---
-title: "Şeyh İdris Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:03+03:00
+title: "Şeyh İdris Türbesi"
+date: "2025-12-25T15:26:03+03:00"
 slug: "seyh-idris-turbesi"
 description: "### Şeyh İdris Türbesi: Piraziz'in Zümrüdü Anıtı..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Piraziz"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.100132,40.9034195"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh İdris Türbesi: Piraziz'in Zümrüdü Anıtı

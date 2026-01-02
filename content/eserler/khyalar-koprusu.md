@@ -1,18 +1,17 @@
 ---
-title: "Kâhyalar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:01+03:00
+title: "Kâhyalar Köprüsü"
+date: "2025-12-25T02:14:01+03:00"
 slug: "khyalar-koprusu"
 description: "## Kâhyalar Köprüsü: Bir Antik Köprüün Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Gazipaşa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.291832,36.2909241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kâhyalar Köprüsü: Bir Antik Köprüün Gizemi

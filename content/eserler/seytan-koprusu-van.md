@@ -1,18 +1,17 @@
 ---
-title: "Şeytan Köprüsü, Van | Miras Haritası"
-date: 2025-12-25T02:58:48+03:00
+title: "Şeytan Köprüsü, Van"
+date: "2025-12-25T02:58:48+03:00"
 slug: "seytan-koprusu-van"
 description: "# Şeytan Köprüsü: Van'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Muradiye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "43.747307,39.022614"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeytan Köprüsü: Van'ın Gizli Hazineleri

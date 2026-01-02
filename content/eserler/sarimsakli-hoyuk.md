@@ -1,18 +1,17 @@
 ---
-title: "Sarımsaklı Höyük | Miras Haritası"
-date: 2025-12-25T06:44:40+03:00
+title: "Sarımsaklı Höyük"
+date: "2025-12-25T06:44:40+03:00"
 slug: "sarimsakli-hoyuk"
 description: "## Sarımsaklı Höyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Sultandağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.2860208,38.669709"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarımsaklı Höyük: Tarih ve Kültür Mirasının Gizemi

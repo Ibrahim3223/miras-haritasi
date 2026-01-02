@@ -1,18 +1,17 @@
 ---
-title: "Meleksima Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:38+03:00
+title: "Meleksima Çeşmesi"
+date: "2025-12-25T11:01:38+03:00"
 slug: "meleksima-cesmesi"
 description: "## Meleksima Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Kısıklı"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.070463,41.020058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meleksima Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

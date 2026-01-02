@@ -1,18 +1,17 @@
 ---
-title: "Dara Barajı | Miras Haritası"
-date: 2025-12-25T08:33:05+03:00
+title: "Dara Barajı"
+date: "2025-12-25T08:33:05+03:00"
 slug: "dara-baraji"
 description: "## Dara Barajı: Türkiye'nin Efsanevi Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.95122222,37.18297222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dara Barajı: Türkiye'nin Efsanevi Arkeolojik Sit

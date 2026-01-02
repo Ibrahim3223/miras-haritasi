@@ -1,18 +1,17 @@
 ---
-title: "Hani Ulu Camii | Miras Haritası"
-date: 2025-12-25T01:08:22+03:00
+title: "Hani Ulu Camii"
+date: "2025-12-25T01:08:22+03:00"
 slug: "hani-ulu-camii"
 description: "**Hani Ulu Camii Tanıtımı**..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Hani"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.391138888,38.412833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hani Ulu Camii Tanıtımı**

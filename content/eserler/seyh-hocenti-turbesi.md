@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hocenti Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:57+03:00
+title: "Şeyh Hocenti Türbesi"
+date: "2025-12-25T15:33:57+03:00"
 slug: "seyh-hocenti-turbesi"
 description: "## Şeyh Hocenti Türbesi: Çumra'da Bir Ziyaretçi Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.596960954,37.496798729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Hocenti Türbesi: Çumra'da Bir Ziyaretçi Cenneti

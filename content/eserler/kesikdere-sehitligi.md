@@ -1,18 +1,17 @@
 ---
-title: "Kesikdere Şehitliği | Miras Haritası"
-date: 2025-12-25T15:56:29+03:00
+title: "Kesikdere Şehitliği"
+date: "2025-12-25T15:56:29+03:00"
 slug: "kesikdere-sehitligi"
 description: "## Kesikdere Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.292881,40.2395782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kesikdere Şehitliği

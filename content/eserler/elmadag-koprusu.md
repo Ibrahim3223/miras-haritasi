@@ -1,18 +1,17 @@
 ---
-title: "Elmadağ Köprüsü | Miras Haritası"
-date: 2025-12-25T03:04:44+03:00
+title: "Elmadağ Köprüsü"
+date: "2025-12-25T03:04:44+03:00"
 slug: "elmadag-koprusu"
 description: "**Elmadağ Köprüsü: Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.4153247,39.869811"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Elmadağ Köprüsü: Tarihi ve Kültürel Mirası**

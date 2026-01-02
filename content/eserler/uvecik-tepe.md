@@ -1,18 +1,17 @@
 ---
-title: "Üvecik Tepe | Miras Haritası"
-date: 2025-12-25T07:17:12+03:00
+title: "Üvecik Tepe"
+date: "2025-12-25T07:17:12+03:00"
 slug: "uvecik-tepe"
 description: "# Üvecik Tepe: Ezine'nin Gizli Tarihi..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.199306,39.900234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Üvecik Tepe: Ezine'nin Gizli Tarihi

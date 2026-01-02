@@ -1,18 +1,17 @@
 ---
-title: "Muhammed Seydullah Camii | Miras Haritası"
-date: 2025-12-25T00:42:18+03:00
+title: "Muhammed Seydullah Camii"
+date: "2025-12-25T00:42:18+03:00"
 slug: "muhammed-seydullah-camii"
 description: "### Muhammed Seydullah Camii: Mardin'in Tarihi Bir Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.733728,37.314379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Muhammed Seydullah Camii: Mardin'in Tarihi Bir Cenneti

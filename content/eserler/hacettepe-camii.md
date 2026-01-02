@@ -1,18 +1,17 @@
 ---
-title: "Hacettepe Camii | Miras Haritası"
-date: 2025-12-24T23:25:24+03:00
+title: "Hacettepe Camii"
+date: "2025-12-24T23:25:24+03:00"
 slug: "hacettepe-camii"
 description: "## Hacettepe Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8672981,39.9302826"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacettepe Camii: Ankara'nın Gizli Cenneti

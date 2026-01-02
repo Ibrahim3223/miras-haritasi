@@ -1,18 +1,17 @@
 ---
-title: "Hamdibey Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:36:43+03:00
+title: "Hamdibey Tümülüsü"
+date: "2025-12-25T07:36:43+03:00"
 slug: "hamdibey-tumulusu"
 description: "# Hamdibey Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7253151,41.8567848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamdibey Tümülüsü

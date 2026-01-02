@@ -1,18 +1,17 @@
 ---
-title: "Mezitbey Çukur Hamamı | Miras Haritası"
-date: 2025-12-25T16:33:19+03:00
+title: "Mezitbey Çukur Hamamı"
+date: "2025-12-25T16:33:19+03:00"
 slug: "mezitbey-cukur-hamami"
 description: "## Mezitbey Çukur Hamamı: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.5568637,41.6766944"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mezitbey Çukur Hamamı: Edirne'nin Tarihi Bir Mirası

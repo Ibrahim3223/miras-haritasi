@@ -1,18 +1,17 @@
 ---
-title: "Özel Hamam | Miras Haritası"
-date: 2025-12-25T16:57:55+03:00
+title: "Özel Hamam"
+date: "2025-12-25T16:57:55+03:00"
 slug: "ozel-hamam"
 description: "## Özel Hamam..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.7848644,37.314743"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Özel Hamam

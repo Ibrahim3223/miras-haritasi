@@ -1,18 +1,17 @@
 ---
-title: "Elaeus (Caria) | Miras Haritası"
-date: 2025-12-25T04:42:42+03:00
+title: "Elaeus (Caria)"
+date: "2025-12-25T04:42:42+03:00"
 slug: "elaeus-caria"
 description: "## Elaeus (Caria): Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Elaeus (Caria): Antik Kentin Gizemi

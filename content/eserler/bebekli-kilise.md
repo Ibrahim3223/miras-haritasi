@@ -1,18 +1,17 @@
 ---
-title: "Bebekli Kilise | Miras Haritası"
-date: 2025-12-25T08:48:11+03:00
+title: "Bebekli Kilise"
+date: "2025-12-25T08:48:11+03:00"
 slug: "bebekli-kilise"
 description: "## Bebekli Kilise: Adana'nın Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Adana_Saint_Paul_Catholic_Church.jpg/1200px-Adana_Saint_Paul_Catholic_Church.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.325833,36.9875"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bebekli Kilise: Adana'nın Tarihî Bir Mirası

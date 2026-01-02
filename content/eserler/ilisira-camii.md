@@ -1,18 +1,17 @@
 ---
-title: "İlisıra Camii | Miras Haritası"
-date: 2025-12-24T23:39:04+03:00
+title: "İlisıra Camii"
+date: "2025-12-24T23:39:04+03:00"
 slug: "ilisira-camii"
 description: "## İlisu Camii: Karaman'ın Tarihî Ören Yeri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Karaman"
+province: "Karaman"
+iller: '["Karaman"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.02845,37.1953583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İlisu Camii: Karaman'ın Tarihî Ören Yeri

@@ -1,18 +1,17 @@
 ---
-title: "Gıcan Kalesi | Miras Haritası"
-date: 2025-12-25T01:44:28+03:00
+title: "Gıcan Kalesi"
+date: "2025-12-25T01:44:28+03:00"
 slug: "gican-kalesi"
 description: "### Gıcan Kalesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karapınar"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.8403702,37.8186073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gıcan Kalesi

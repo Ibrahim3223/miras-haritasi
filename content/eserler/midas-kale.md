@@ -1,18 +1,17 @@
 ---
-title: "Midas Kale | Miras Haritası"
-date: 2025-12-25T01:24:55+03:00
+title: "Midas Kale"
+date: "2025-12-25T01:24:55+03:00"
 slug: "midas-kale"
 description: "### Midas Kale: Eskişehir'in Gizli Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Han"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.7135582,39.1992378"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Midas Kale: Eskişehir'in Gizli Anıtı

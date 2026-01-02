@@ -1,18 +1,17 @@
 ---
-title: "Sarıgazi Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:35+03:00
+title: "Sarıgazi Türbesi"
+date: "2025-12-25T14:58:35+03:00"
 slug: "sarigazi-turbesi"
 description: "## Sarıgazi Türbesi: İstanbul'un Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sargazi_Trbesi_1761587059.jpg/1200px-Sargazi_Trbesi_1761587059.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sancaktepe"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.2111359,41.0060921"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sarıgazi Türbesi: İstanbul'un Gizli Anıtı

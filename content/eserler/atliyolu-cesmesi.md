@@ -1,18 +1,17 @@
 ---
-title: "Atlıyolu Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:47+03:00
+title: "Atlıyolu Çeşmesi"
+date: "2025-12-25T10:15:47+03:00"
 slug: "atliyolu-cesmesi"
 description: "## Atlıyolu Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.821165,41.00387"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atlıyolu Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası

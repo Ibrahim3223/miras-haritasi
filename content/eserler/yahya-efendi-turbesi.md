@@ -1,18 +1,17 @@
 ---
-title: "Yahya Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:06:03+03:00
+title: "Yahya Efendi Türbesi"
+date: "2025-12-25T15:06:03+03:00"
 slug: "yahya-efendi-turbesi"
 description: "### Yahya Efendi Türbesi: Beşiktaş'ta Bir Önemli Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tomb_of_Yahya_Efendi_08.jpg/1200px-Tomb_of_Yahya_Efendi_08.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.01781,41.04574"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yahya Efendi Türbesi: Beşiktaş'ta Bir Önemli Anıt

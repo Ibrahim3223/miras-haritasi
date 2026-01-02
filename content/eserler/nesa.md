@@ -1,18 +1,17 @@
 ---
-title: "Nesa | Miras Haritası"
-date: 2025-12-25T06:55:20+03:00
+title: "Nesa"
+date: "2025-12-25T06:55:20+03:00"
 slug: "nesa"
 description: "## Nesa Arkeolojik Sit: Kayseri'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nesza_06.jpg/1200px-Nesza_06.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.633333,38.85"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nesa Arkeolojik Sit: Kayseri'nin Gizli Cenneti

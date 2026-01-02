@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:03+03:00
+title: "Hüsrev Paşa Türbesi"
+date: "2025-12-25T14:31:03+03:00"
 slug: "husrev-pasa-turbesi"
 description: "### Hüsrev Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hüsrev_Paşa_Türbesi,_Viki_Mezarları_Buluyor_2024.jpg/1200px-Hüsrev_Paşa_Türbesi,_Viki_Mezarları_Buluyor_2024.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.942739,41.01862"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hüsrev Paşa Türbesi

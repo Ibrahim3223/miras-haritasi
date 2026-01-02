@@ -1,18 +1,17 @@
 ---
-title: "Semehrek Kalesi | Miras Haritası"
-date: 2025-12-25T01:39:06+03:00
+title: "Semehrek Kalesi"
+date: "2025-12-25T01:39:06+03:00"
 slug: "semehrek-kalesi"
 description: "# Semehrek Kalesi: İspir'in Efsanevi Kale Merkezi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "İspir"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.856514,40.4461365"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Semehrek Kalesi: İspir'in Efsanevi Kale Merkezi

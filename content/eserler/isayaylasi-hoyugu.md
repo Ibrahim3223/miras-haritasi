@@ -1,18 +1,17 @@
 ---
-title: "İsayaylası Höyüğü | Miras Haritası"
-date: 2025-12-25T06:27:26+03:00
+title: "İsayaylası Höyüğü"
+date: "2025-12-25T06:27:26+03:00"
 slug: "isayaylasi-hoyugu"
 description: "## İsayaylası Höyüğü: Aksaray'ın Gizli Tarihi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.8912854,38.6545037"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsayaylası Höyüğü: Aksaray'ın Gizli Tarihi

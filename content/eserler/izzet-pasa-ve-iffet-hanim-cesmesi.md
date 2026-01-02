@@ -1,18 +1,17 @@
 ---
-title: "İzzet Paşa ve İffet Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:51:07+03:00
+title: "İzzet Paşa ve İffet Hanım Çeşmesi"
+date: "2025-12-25T11:51:07+03:00"
 slug: "izzet-pasa-ve-iffet-hanim-cesmesi"
 description: "## İzzet Paşa ve İffet Hanım Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Balabanağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9593086,41.0110283"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İzzet Paşa ve İffet Hanım Çeşmesi

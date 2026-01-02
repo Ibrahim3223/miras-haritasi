@@ -1,18 +1,17 @@
 ---
-title: "Hüdavendigar Camii, Bursa | Miras Haritası"
-date: 2025-12-24T21:55:41+03:00
+title: "Hüdavendigar Camii, Bursa"
+date: "2025-12-24T21:55:41+03:00"
 slug: "hudavendigar-camii-bursa"
 description: "### Hüdavendigar Camii: Bursa'nın Tarihi Örenliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hudavendigar_Mosque_6044.jpg/1200px-Hudavendigar_Mosque_6044.jpg"
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0211449,40.2024155"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hüdavendigar Camii: Bursa'nın Tarihi Örenliği

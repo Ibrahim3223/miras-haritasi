@@ -1,18 +1,17 @@
 ---
-title: "Bekir Bey Hamamı | Miras Haritası"
-date: 2025-12-25T17:14:32+03:00
+title: "Bekir Bey Hamamı"
+date: "2025-12-25T17:14:32+03:00"
 slug: "bekir-bey-hamami"
 description: "### Bekir Bey Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bekirbey_hamamı.jpg/1200px-Bekirbey_hamamı.jpg"
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Besni"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "37.8651772,37.6748009"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bekir Bey Hamamı

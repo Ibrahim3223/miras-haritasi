@@ -1,18 +1,17 @@
 ---
-title: "Akçay 1 | Miras Haritası"
-date: 2025-12-25T07:02:51+03:00
+title: "Akçay 1"
+date: "2025-12-25T07:02:51+03:00"
 slug: "akcay-1"
 description: "## Akçay 1: Antik Çağın Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçay 1: Antik Çağın Gizli Mirası

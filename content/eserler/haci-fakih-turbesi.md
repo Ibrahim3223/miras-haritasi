@@ -1,18 +1,17 @@
 ---
-title: "Hacı Fakih Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:06+03:00
+title: "Hacı Fakih Türbesi"
+date: "2025-12-25T14:57:06+03:00"
 slug: "haci-fakih-turbesi"
 description: "## Hacı Fakih Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7485676,38.0866928"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Fakih Türbesi

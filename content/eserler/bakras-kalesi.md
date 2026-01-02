@@ -1,18 +1,17 @@
 ---
-title: "Bakras Kalesi | Miras Haritası"
-date: 2025-12-25T01:14:55+03:00
+title: "Bakras Kalesi"
+date: "2025-12-25T01:14:55+03:00"
 slug: "bakras-kalesi"
 description: "**Bakras Kalesi: Hatay'ın Tarihi Kalesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Baghras2.jpg/1200px-Baghras2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.225,36.426944444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Bakras Kalesi: Hatay'ın Tarihi Kalesi**

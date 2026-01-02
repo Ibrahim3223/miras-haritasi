@@ -1,18 +1,17 @@
 ---
-title: "Kyaneai Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T04:12:27+03:00
+title: "Kyaneai Antik Tiyatrosu"
+date: "2025-12-25T04:12:27+03:00"
 slug: "kyaneai-antik-tiyatrosu"
 description: "# Kyaneai Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.815052,36.246036"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kyaneai Antik Tiyatrosu

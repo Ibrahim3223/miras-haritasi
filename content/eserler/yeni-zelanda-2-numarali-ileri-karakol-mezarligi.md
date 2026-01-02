@@ -1,18 +1,17 @@
 ---
-title: "Yeni Zelanda 2 Numaralı İleri Karakol Mezarlığı | Miras Haritası"
-date: 2025-12-25T15:52:53+03:00
+title: "Yeni Zelanda 2 Numaralı İleri Karakol Mezarlığı"
+date: "2025-12-25T15:52:53+03:00"
 slug: "yeni-zelanda-2-numarali-ileri-karakol-mezarligi"
 description: "### Yeni Zelanda 2 Numaralı İleri Karakol Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/New_Zealand_No.2_Outpost_Commonwealth_War_Graves_Commission_Cemetery.jpg/1200px-New_Zealand_No.2_Outpost_Commonwealth_War_Graves_Commission_Cemetery.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Kocadere"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2808,40.2531"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yeni Zelanda 2 Numaralı İleri Karakol Mezarlığı

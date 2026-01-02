@@ -1,18 +1,17 @@
 ---
-title: "Çandarlı Kara Halil Hayrettin Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:15:42+03:00
+title: "Çandarlı Kara Halil Hayrettin Paşa Türbesi"
+date: "2025-12-25T15:15:42+03:00"
 slug: "candarli-kara-halil-hayrettin-pasa-turbesi"
 description: "### Çandarlı Kara Halil Hayrettin Paşa Türbesi: İznik'in Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Çandarlı_Hayrettin_Paşa_Türbesi,_İznik,_Bursa,_Türkiye.jpg/1200px-Çandarlı_Hayrettin_Paşa_Türbesi,_İznik,_Bursa,_Türkiye.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.7316,40.429"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çandarlı Kara Halil Hayrettin Paşa Türbesi: İznik'in Gizli Çehresini Keşfetmek

@@ -1,18 +1,17 @@
 ---
-title: "Karakadı Mecdettin Türbesi | Miras Haritası"
-date: 2025-12-25T14:18:03+03:00
+title: "Karakadı Mecdettin Türbesi"
+date: "2025-12-25T14:18:03+03:00"
 slug: "karakadi-mecdettin-turbesi"
 description: "## Karakadı Mecdettin Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7426357,38.0885201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakadı Mecdettin Türbesi

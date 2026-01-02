@@ -1,18 +1,17 @@
 ---
-title: "Roma Mezarı, Kayseri | Miras Haritası"
-date: 2025-12-25T14:07:58+03:00
+title: "Roma Mezarı, Kayseri"
+date: "2025-12-25T14:07:58+03:00"
 slug: "roma-mezari-kayseri"
 description: "## Roma Mezarı, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4866447,38.7239151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Mezarı, Kayseri

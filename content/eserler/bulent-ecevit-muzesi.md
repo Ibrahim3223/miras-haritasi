@@ -1,18 +1,17 @@
 ---
-title: "Bülent Ecevit Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:29+03:00
+title: "Bülent Ecevit Müzesi"
+date: "2025-12-25T04:05:29+03:00"
 slug: "bulent-ecevit-muzesi"
 description: "## Bülent Ecevit Müzesi: Adana'nın Tarihini ve Kültür Mirasını Tanıtan Bir Öykü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bülent_ecevit_müzesi_10.jpg/1200px-Bülent_ecevit_müzesi_10.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.330835,36.988496"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bülent Ecevit Müzesi: Adana'nın Tarihini ve Kültür Mirasını Tanıtan Bir Öykü

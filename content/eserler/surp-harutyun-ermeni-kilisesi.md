@@ -1,18 +1,17 @@
 ---
-title: "Surp Harutyun Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:42+03:00
+title: "Surp Harutyun Ermeni Kilisesi"
+date: "2025-12-25T09:40:42+03:00"
 slug: "surp-harutyun-ermeni-kilisesi"
 description: "## Surp Harutyun Ermeni Kilisesi: Malatya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.3185616,38.3506889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Harutyun Ermeni Kilisesi: Malatya'nın Gizli Cenneti

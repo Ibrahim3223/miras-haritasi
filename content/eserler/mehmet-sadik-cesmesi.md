@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Sadık Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:23:03+03:00
+title: "Mehmet Sadık Çeşmesi"
+date: "2025-12-25T12:23:03+03:00"
 slug: "mehmet-sadik-cesmesi"
 description: "### Mehmet Sadık Çeşmesi: Beşiktaş'ta Tarihi Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0223618,41.0497704"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehmet Sadık Çeşmesi: Beşiktaş'ta Tarihi Bir Çeşme

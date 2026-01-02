@@ -1,18 +1,17 @@
 ---
-title: "Mihrişah Valide Sultan Çeşmesi, Köybaşı Caddesi | Miras Haritası"
-date: 2025-12-25T12:02:42+03:00
+title: "Mihrişah Valide Sultan Çeşmesi, Köybaşı Caddesi"
+date: "2025-12-25T12:02:42+03:00"
 slug: "mihrisah-valide-sultan-cesmesi-koybasi-caddesi"
 description: "### Mihrişah Valide Sultan Çeşmesi, Köybaşı Caddesi: Sarıyer'in Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0701084,41.1215591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mihrişah Valide Sultan Çeşmesi, Köybaşı Caddesi: Sarıyer'in Tarihî Bir Çeşmesi

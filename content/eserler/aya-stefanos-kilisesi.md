@@ -1,18 +1,17 @@
 ---
-title: "Aya Stefanos Kilisesi | Miras Haritası"
-date: 2025-12-25T08:41:48+03:00
+title: "Aya Stefanos Kilisesi"
+date: "2025-12-25T08:41:48+03:00"
 slug: "aya-stefanos-kilisesi"
 description: "## Aya Stefanos Kilisesi: Eğirdir'in Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aya_Stefanos_Kilisesi_(Hagia_Stefanos_Church),_Eğirdir,_March_2024_03.jpg/1200px-Aya_Stefanos_Kilisesi_(Hagia_Stefanos_Church),_Eğirdir,_March_2024_03.jpg"
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.86880345,37.884038024"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aya Stefanos Kilisesi: Eğirdir'in Gizemli Anıtı

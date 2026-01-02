@@ -1,18 +1,17 @@
 ---
-title: "Tevfik Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:10:00+03:00
+title: "Tevfik Bey Çeşmesi"
+date: "2025-12-25T10:10:00+03:00"
 slug: "tevfik-bey-cesmesi"
 description: "## Tevfik Bey Çeşmesi: Fatih'in Saksı Çeşmesinde Bir Çeşme Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tevfik_Bey_Fountain,_Fatih,_Istanbul.jpg/1200px-Tevfik_Bey_Fountain,_Fatih,_Istanbul.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Küçük Ayasofya"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.972586,41.004204"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tevfik Bey Çeşmesi: Fatih'in Saksı Çeşmesinde Bir Çeşme Örneği

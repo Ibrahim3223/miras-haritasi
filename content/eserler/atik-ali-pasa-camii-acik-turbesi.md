@@ -1,18 +1,17 @@
 ---
-title: "Atik Ali Paşa Camii Açık Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:15+03:00
+title: "Atik Ali Paşa Camii Açık Türbesi"
+date: "2025-12-25T15:33:15+03:00"
 slug: "atik-ali-pasa-camii-acik-turbesi"
 description: "# Atik Ali Paşa Camii Açık Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.970802,41.008694"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Atik Ali Paşa Camii Açık Türbesi

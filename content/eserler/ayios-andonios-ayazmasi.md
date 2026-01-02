@@ -1,18 +1,17 @@
 ---
-title: "Ayios Andonios Ayazması | Miras Haritası"
-date: 2025-12-25T12:44:34+03:00
+title: "Ayios Andonios Ayazması"
+date: "2025-12-25T12:44:34+03:00"
 slug: "ayios-andonios-ayazmasi"
 description: "## Ayios Andonios Ayazması: Beyoğlu'nun Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9789791,41.0251007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Andonios Ayazması: Beyoğlu'nun Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Akşemseddin Camii | Miras Haritası"
-date: 2025-12-24T21:46:58+03:00
+title: "Akşemseddin Camii"
+date: "2025-12-24T21:46:58+03:00"
 slug: "aksemseddin-camii"
 description: "## Akşemseddin Camii..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akşemseddin Camii

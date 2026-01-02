@@ -1,18 +1,17 @@
 ---
-title: "İplik Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:26:31+03:00
+title: "İplik Çeşmesi"
+date: "2025-12-25T10:26:31+03:00"
 slug: "iplik-cesmesi"
 description: "## İplik Çeşmesi: Sincan'ın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4812012,40.0870476"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İplik Çeşmesi: Sincan'ın Tarihî Mirası

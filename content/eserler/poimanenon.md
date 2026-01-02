@@ -1,18 +1,17 @@
 ---
-title: "Poimanenon | Miras Haritası"
-date: 2025-12-25T05:21:53+03:00
+title: "Poimanenon"
+date: "2025-12-25T05:21:53+03:00"
 slug: "poimanenon"
 description: "## Poimanenon: Manyas'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Manyas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0534248,40.0032883"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Poimanenon: Manyas'ın Gizli Kahramanı

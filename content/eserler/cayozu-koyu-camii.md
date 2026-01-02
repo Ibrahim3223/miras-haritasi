@@ -1,18 +1,17 @@
 ---
-title: "Çayözü Köyü Camii | Miras Haritası"
-date: 2025-12-24T22:31:43+03:00
+title: "Çayözü Köyü Camii"
+date: "2025-12-24T22:31:43+03:00"
 slug: "cayozu-koyu-camii"
 description: "## Çayözü Köyü Camii: Kastamonu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Daday"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5144997,41.5996017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayözü Köyü Camii: Kastamonu'nun Gizli Cenneti

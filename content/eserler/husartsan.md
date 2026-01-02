@@ -1,18 +1,17 @@
 ---
-title: "Huşartsan | Miras Haritası"
-date: 2025-12-25T14:01:26+03:00
+title: "Huşartsan"
+date: "2025-12-25T14:01:26+03:00"
 slug: "husartsan"
 description: "### Huşartsan Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Istanbul_Armenian_Genocide_memorial.jpg/1200px-Istanbul_Armenian_Genocide_memorial.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.987666666,41.041694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Huşartsan Anıtı

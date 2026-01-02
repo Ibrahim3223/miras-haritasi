@@ -1,18 +1,17 @@
 ---
-title: "Kutuören Camii | Miras Haritası"
-date: 2025-12-25T00:35:12+03:00
+title: "Kutuören Camii"
+date: "2025-12-25T00:35:12+03:00"
 slug: "kutuoren-camii"
 description: "## Kutuören Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çubuk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.929052944,40.198654979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kutuören Camii: Ankara'nın Tarihi Bir Mirası

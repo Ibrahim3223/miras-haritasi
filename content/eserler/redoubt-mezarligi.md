@@ -1,18 +1,17 @@
 ---
-title: "Redoubt Mezarlığı | Miras Haritası"
-date: 2025-12-25T16:07:50+03:00
+title: "Redoubt Mezarlığı"
+date: "2025-12-25T16:07:50+03:00"
 slug: "redoubt-mezarligi"
 description: "## Redoubt Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Redoubt_Cemetery.jpg/1200px-Redoubt_Cemetery.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.21403,40.07807"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Redoubt Mezarlığı

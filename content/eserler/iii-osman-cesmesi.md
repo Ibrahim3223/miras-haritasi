@@ -1,18 +1,17 @@
 ---
-title: "III. Osman Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:13:00+03:00
+title: "III. Osman Çeşmesi"
+date: "2025-12-25T11:13:00+03:00"
 slug: "iii-osman-cesmesi"
 description: "### III. Osman Çeşmesi: Fatih'te Bir Altın Çeşme..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Molla Fenari"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9699898,41.0100403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### III. Osman Çeşmesi: Fatih'te Bir Altın Çeşme

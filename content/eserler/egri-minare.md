@@ -1,18 +1,17 @@
 ---
-title: "Eğri Minare | Miras Haritası"
-date: 2025-12-24T22:20:29+03:00
+title: "Eğri Minare"
+date: "2025-12-24T22:20:29+03:00"
 slug: "egri-minare"
 description: "## Eğri Minare: Aksaray'ın Tarihi Bir Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aksaray_Leaning_Minaret_3114.jpg/1200px-Aksaray_Leaning_Minaret_3114.jpg"
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.029388888,38.376888888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eğri Minare: Aksaray'ın Tarihi Bir Öreni

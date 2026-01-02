@@ -1,18 +1,17 @@
 ---
-title: "Akkale | Miras Haritası"
-date: 2025-12-25T01:17:00+03:00
+title: "Akkale"
+date: "2025-12-25T01:17:00+03:00"
 slug: "akkale"
 description: "### Akkale: Ankara'nın Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Castillo_de_Ankara,_Ankara,_Turquía,_2024-10-02,_DD_11-13_HDR.jpg/1200px-Castillo_de_Ankara,_Ankara,_Turquía,_2024-10-02,_DD_11-13_HDR.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.865611111,39.94175"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Akkale: Ankara'nın Tarihi Mirası

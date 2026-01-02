@@ -1,18 +1,17 @@
 ---
-title: "Akdoğan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:45:50+03:00
+title: "Akdoğan Çeşmesi"
+date: "2025-12-25T10:45:50+03:00"
 slug: "akdogan-cesmesi"
 description: "## Akdoğan Çeşmesi: Sivrihisar'ın Tarihi Ögesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.5385265,39.4533234"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akdoğan Çeşmesi: Sivrihisar'ın Tarihi Ögesi

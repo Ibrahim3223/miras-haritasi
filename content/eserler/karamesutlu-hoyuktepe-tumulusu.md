@@ -1,18 +1,17 @@
 ---
-title: "Karamesutlu Höyüktepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:37:41+03:00
+title: "Karamesutlu Höyüktepe Tümülüsü"
+date: "2025-12-25T07:37:41+03:00"
 slug: "karamesutlu-hoyuktepe-tumulusu"
 description: "### Karamesutlu Höyüktepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0821342,41.4915504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karamesutlu Höyüktepe Tümülüsü

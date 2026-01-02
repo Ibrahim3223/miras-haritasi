@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Tahir Efendi Çeşmesi, Selimiye | Miras Haritası"
-date: 2025-12-25T12:54:22+03:00
+title: "Mehmet Tahir Efendi Çeşmesi, Selimiye"
+date: "2025-12-25T12:54:22+03:00"
 slug: "mehmet-tahir-efendi-cesmesi-selimiye"
 description: "## Mehmet Tahir Efendi Çeşmesi, Selimiye..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0124989,41.0091438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Tahir Efendi Çeşmesi, Selimiye

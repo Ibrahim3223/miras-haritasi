@@ -1,18 +1,17 @@
 ---
-title: "Taksim Maksemi Çeşmesi 2 | Miras Haritası"
-date: 2025-12-25T13:02:32+03:00
+title: "Taksim Maksemi Çeşmesi 2"
+date: "2025-12-25T13:02:32+03:00"
 slug: "taksim-maksemi-cesmesi-2"
 description: "## Taksim Maksemi Çeşmesi 2: Beyoğlu'ndaki Tarihi Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Taksim_Maksemi_Çeşmesi_IMG_5125.jpg/1200px-Taksim_Maksemi_Çeşmesi_IMG_5125.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Kocatepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9842682,41.036377"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Taksim Maksemi Çeşmesi 2: Beyoğlu'ndaki Tarihi Bir Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Bey Hamamı | Miras Haritası"
-date: 2025-12-25T17:04:26+03:00
+title: "Hüseyin Bey Hamamı"
+date: "2025-12-25T17:04:26+03:00"
 slug: "huseyin-bey-hamami"
 description: "## Hüseyin Bey Hamamı: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.4865646,38.7233505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Bey Hamamı: Kayseri'nin Gizli Cenneti

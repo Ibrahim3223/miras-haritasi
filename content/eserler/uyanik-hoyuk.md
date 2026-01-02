@@ -1,18 +1,17 @@
 ---
-title: "Uyanık Höyük | Miras Haritası"
-date: 2025-12-25T06:30:54+03:00
+title: "Uyanık Höyük"
+date: "2025-12-25T06:30:54+03:00"
 slug: "uyanik-hoyuk"
 description: "## Uyanık Höyük: Afyonkarahisar'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Çay"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.0595662,38.6054771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uyanık Höyük: Afyonkarahisar'ın Gizli Mücevheri

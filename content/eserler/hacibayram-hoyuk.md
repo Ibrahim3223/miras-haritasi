@@ -1,18 +1,17 @@
 ---
-title: "Hacıbayram Höyük | Miras Haritası"
-date: 2025-12-25T13:47:55+03:00
+title: "Hacıbayram Höyük"
+date: "2025-12-25T13:47:55+03:00"
 slug: "hacibayram-hoyuk"
 description: "## Hacıbayram Höyük: Tarihî Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.7088227,38.92689"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacıbayram Höyük: Tarihî Bir Anıtın Gizemi

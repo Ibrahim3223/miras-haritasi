@@ -1,18 +1,17 @@
 ---
-title: "Kocatas İlkokul Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:09+03:00
+title: "Kocatas İlkokul Çeşmesi"
+date: "2025-12-25T11:22:09+03:00"
 slug: "kocatas-ilkokul-cesmesi"
 description: "### Kocatas İlkokul Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.037432,41.164661"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kocatas İlkokul Çeşmesi: İstanbul'un Gizli Çeşmesi

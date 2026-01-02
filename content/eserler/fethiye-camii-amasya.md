@@ -1,18 +1,17 @@
 ---
-title: "Fethiye Camii, Amasya | Miras Haritası"
-date: 2025-12-24T23:57:26+03:00
+title: "Fethiye Camii, Amasya"
+date: "2025-12-24T23:57:26+03:00"
 slug: "fethiye-camii-amasya"
 description: "## Fethiye Camii, Amasya: Tarihî Bir Yapı..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.8345337,40.6474571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fethiye Camii, Amasya: Tarihî Bir Yapı

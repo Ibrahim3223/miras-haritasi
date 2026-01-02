@@ -1,18 +1,17 @@
 ---
-title: "Songrus Höyük | Miras Haritası"
-date: 2025-12-25T06:09:37+03:00
+title: "Songrus Höyük"
+date: "2025-12-25T06:09:37+03:00"
 slug: "songrus-hoyuk"
 description: "### Songrus Höyük..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Nurdağı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8960571,37.2133217"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Songrus Höyük

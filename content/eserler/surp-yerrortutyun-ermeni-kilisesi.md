@@ -1,18 +1,17 @@
 ---
-title: "Surp Yerrortutyun Ermeni Kilisesi | Miras Haritası"
-date: 2025-12-25T09:46:22+03:00
+title: "Surp Yerrortutyun Ermeni Kilisesi"
+date: "2025-12-25T09:46:22+03:00"
 slug: "surp-yerrortutyun-ermeni-kilisesi"
 description: "## Surp Yerrortutyun Ermeni Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Surp_Yerortutyun_Ermeni_Kilisesi.jpg/1200px-Surp_Yerortutyun_Ermeni_Kilisesi.jpg"
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Tepebaşı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.5191345,39.7771873"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Surp Yerrortutyun Ermeni Kilisesi

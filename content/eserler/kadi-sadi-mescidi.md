@@ -1,18 +1,17 @@
 ---
-title: "Kadı Sadi Mescidi | Miras Haritası"
-date: 2025-12-25T00:32:16+03:00
+title: "Kadı Sadi Mescidi"
+date: "2025-12-25T00:32:16+03:00"
 slug: "kadi-sadi-mescidi"
 description: "## Kadı Sadi Mescidi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9441795,41.031044"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadı Sadi Mescidi Tanıtımı

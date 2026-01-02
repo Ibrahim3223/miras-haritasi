@@ -1,18 +1,17 @@
 ---
-title: "Mher Kapısı | Miras Haritası"
-date: 2025-12-25T04:13:40+03:00
+title: "Mher Kapısı"
+date: "2025-12-25T04:13:40+03:00"
 slug: "mher-kapisi"
 description: "## Mher Kapısı: Van'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mhera_Door.jpg/1200px-Mhera_Door.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.390203,38.516659"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mher Kapısı: Van'ın Tarihî Mirası

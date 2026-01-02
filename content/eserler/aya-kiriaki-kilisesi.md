@@ -1,18 +1,17 @@
 ---
-title: "Aya Kiriaki Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:31+03:00
+title: "Aya Kiriaki Kilisesi"
+date: "2025-12-25T09:36:31+03:00"
 slug: "aya-kiriaki-kilisesi"
 description: "## Aya Kiriaki Kilisesi: Kırklareli'nin Gizli Bir Cezvesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.0697765,41.8323059"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Kiriaki Kilisesi: Kırklareli'nin Gizli Bir Cezvesi

@@ -1,18 +1,17 @@
 ---
-title: "Melik Mehemmed Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T14:48:06+03:00
+title: "Melik Mehemmed Gazi Türbesi"
+date: "2025-12-25T14:48:06+03:00"
 slug: "melik-mehemmed-gazi-turbesi"
 description: "### Melik Mehemmed Gazi Türbesi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Akkuş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.149896,40.826897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Melik Mehemmed Gazi Türbesi

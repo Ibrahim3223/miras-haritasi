@@ -1,18 +1,17 @@
 ---
-title: "Oluklu Höyük | Miras Haritası"
-date: 2025-12-25T05:36:06+03:00
+title: "Oluklu Höyük"
+date: "2025-12-25T05:36:06+03:00"
 slug: "oluklu-hoyuk"
 description: "## Oluklu Höyük: Sakarya'daki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Söğütlü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.224483,39.889917"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Oluklu Höyük: Sakarya'daki Gizemli Arkeolojik Sit

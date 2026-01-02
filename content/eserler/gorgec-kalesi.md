@@ -1,18 +1,17 @@
 ---
-title: "Görgeç Kalesi | Miras Haritası"
-date: 2025-12-25T01:50:34+03:00
+title: "Görgeç Kalesi"
+date: "2025-12-25T01:50:34+03:00"
 slug: "gorgec-kalesi"
 description: "## Görgeç Kalesi: Bingöl'un Gizemli Kaleleri Arasındaki Birincisi..."
 featured_image: ""
 province: "Bingöl"
-iller: ["Bingöl"]
+iller: '["Bingöl"]'
 district: "Kiğı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.3755302,39.3261604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Görgeç Kalesi: Bingöl'un Gizemli Kaleleri Arasındaki Birincisi

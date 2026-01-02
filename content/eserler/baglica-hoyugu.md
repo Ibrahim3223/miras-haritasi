@@ -1,18 +1,17 @@
 ---
-title: "Bağlıca Höyüğü | Miras Haritası"
-date: 2025-12-25T06:32:30+03:00
+title: "Bağlıca Höyüğü"
+date: "2025-12-25T06:32:30+03:00"
 slug: "baglica-hoyugu"
 description: "## Bağlıca Höyüğü: Emirdağ'ın Eski Sütunları..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Emirdağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.067807,39.1716258"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağlıca Höyüğü: Emirdağ'ın Eski Sütunları

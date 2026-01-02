@@ -1,18 +1,17 @@
 ---
-title: "Kuyruklu Kale, Milas | Miras Haritası"
-date: 2025-12-25T01:42:13+03:00
+title: "Kuyruklu Kale, Milas"
+date: "2025-12-25T01:42:13+03:00"
 slug: "kuyruklu-kale-milas"
 description: "## Kuyruklu Kale, Milas..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.8337765,37.3094597"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuyruklu Kale, Milas

@@ -1,18 +1,17 @@
 ---
-title: "Mersin Müzesi | Miras Haritası"
-date: 2025-12-25T03:13:24+03:00
+title: "Mersin Müzesi"
+date: "2025-12-25T03:13:24+03:00"
 slug: "mersin-muzesi"
 description: "## Mersin Müzesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mersin_Archaeological_Museum.jpg/1200px-Mersin_Archaeological_Museum.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.601345226,36.78170999"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mersin Müzesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

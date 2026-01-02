@@ -1,18 +1,17 @@
 ---
-title: "Merkez Hastane 4. Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:28:18+03:00
+title: "Merkez Hastane 4. Sokak Çeşmesi"
+date: "2025-12-25T11:28:18+03:00"
 slug: "merkez-hastane-4-sokak-cesmesi"
 description: "### Merkez Hastane 4. Sokak Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.6922207,39.3129959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Merkez Hastane 4. Sokak Çeşmesi

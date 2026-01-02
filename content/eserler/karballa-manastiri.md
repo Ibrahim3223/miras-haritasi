@@ -1,18 +1,17 @@
 ---
-title: "Karballa Manastırı | Miras Haritası"
-date: 2025-12-25T09:51:53+03:00
+title: "Karballa Manastırı"
+date: "2025-12-25T09:51:53+03:00"
 slug: "karballa-manastiri"
 description: "## Karballa Manastırı: Aksaray'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Güzelyurt"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "34.372986,38.2782706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karballa Manastırı: Aksaray'ın Gizli Cenneti

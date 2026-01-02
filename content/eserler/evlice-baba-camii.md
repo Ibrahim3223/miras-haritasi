@@ -1,18 +1,17 @@
 ---
-title: "Evlice Baba Camii | Miras Haritası"
-date: 2025-12-24T22:52:55+03:00
+title: "Evlice Baba Camii"
+date: "2025-12-24T22:52:55+03:00"
 slug: "evlice-baba-camii"
 description: "## Evlice Baba Camii: İslambey'in Gizli Cenneti..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "İslambey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9296131,41.0527458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Evlice Baba Camii: İslambey'in Gizli Cenneti

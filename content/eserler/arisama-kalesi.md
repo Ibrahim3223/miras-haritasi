@@ -1,18 +1,17 @@
 ---
-title: "Arısama Kalesi | Miras Haritası"
-date: 2025-12-25T01:40:20+03:00
+title: "Arısama Kalesi"
+date: "2025-12-25T01:40:20+03:00"
 slug: "arisama-kalesi"
 description: "## Arısama Kalesi: Konya'nın Gizli Çarığı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Emirgazi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.8563576,37.9291801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arısama Kalesi: Konya'nın Gizli Çarığı

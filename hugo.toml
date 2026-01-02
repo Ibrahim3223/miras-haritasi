@@ -3,10 +3,10 @@ languageCode = 'tr-tr'
 title = 'Miras Haritası'
 theme = []
 disableAliases = true
-disableKinds = ["RSS"]
+enableRobotsTXT = false
 
 [pagination]
-  pagerSize = 250
+  pagerSize = 24
 
 [permalinks]
   eserler = "/eserler/:slug/"
@@ -23,6 +23,23 @@ disableKinds = ["RSS"]
 [outputs]
   home = ["HTML", "JSON"]
 
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[minify]
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = false
+      keepEndTags = true
+    [minify.tdewolff.css]
+      precision = 0
+    [minify.tdewolff.js]
+      precision = 0
+
 [params]
   description = "Türkiye'nin tarihi ve kültürel mirası haritası. Camiler, kaleler, müzeler ve daha fazlası."
   author = "Miras Haritası"
+  ogImage = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1200px-Hagia_Sophia_Mars_2013.jpg"

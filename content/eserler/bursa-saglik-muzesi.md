@@ -1,18 +1,17 @@
 ---
-title: "Bursa Sağlık Müzesi | Miras Haritası"
-date: 2025-12-25T03:17:39+03:00
+title: "Bursa Sağlık Müzesi"
+date: "2025-12-25T03:17:39+03:00"
 slug: "bursa-saglik-muzesi"
 description: "## Bursa Sağlık Müzesi: Türk Sağlık Tarihinin En Önemli Miraslarından biri..."
 featured_image: ""
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bursa Sağlık Müzesi: Türk Sağlık Tarihinin En Önemli Miraslarından biri

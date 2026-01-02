@@ -1,18 +1,17 @@
 ---
-title: "Çit Deresi Köprüsü (Büyük) | Miras Haritası"
-date: 2025-12-25T02:28:14+03:00
+title: "Çit Deresi Köprüsü (Büyük)"
+date: "2025-12-25T02:28:14+03:00"
 slug: "cit-deresi-koprusu-buyuk"
 description: "## Çit Deresi Köprüsü (Büyük)..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.2101352,40.5114349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çit Deresi Köprüsü (Büyük)

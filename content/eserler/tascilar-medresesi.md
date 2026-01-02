@@ -1,18 +1,17 @@
 ---
-title: "Taşçılar Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:04+03:00
+title: "Taşçılar Medresesi"
+date: "2025-12-25T17:32:04+03:00"
 slug: "tascilar-medresesi"
 description: "## Taşçılar Medresesi: Trabzon'un Gizli Çehresi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Dernekpazarı"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "40.211246,40.771898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşçılar Medresesi: Trabzon'un Gizli Çehresi

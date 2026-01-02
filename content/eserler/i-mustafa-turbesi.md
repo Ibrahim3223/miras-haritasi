@@ -1,18 +1,17 @@
 ---
-title: "I. Mustafa Türbesi | Miras Haritası"
-date: 2025-12-25T15:35:04+03:00
+title: "I. Mustafa Türbesi"
+date: "2025-12-25T15:35:04+03:00"
 slug: "i-mustafa-turbesi"
 description: "# I. Mustafa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.979322955,41.008271548"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # I. Mustafa Türbesi

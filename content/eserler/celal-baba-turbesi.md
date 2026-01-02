@@ -1,18 +1,17 @@
 ---
-title: "Celal Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:26+03:00
+title: "Celal Baba Türbesi"
+date: "2025-12-25T14:17:26+03:00"
 slug: "celal-baba-turbesi"
 description: "## Celal Baba Türbesi: Kars'ta Bir Zihniyetin Mirası..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.089698,40.61355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Celal Baba Türbesi: Kars'ta Bir Zihniyetin Mirası

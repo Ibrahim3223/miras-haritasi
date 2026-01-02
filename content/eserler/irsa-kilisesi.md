@@ -1,18 +1,17 @@
 ---
-title: "İrsa Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:06+03:00
+title: "İrsa Kilisesi"
+date: "2025-12-25T09:03:06+03:00"
 slug: "irsa-kilisesi"
 description: "## İrsa Kilisesi: Artvin'in Gizli Mücevheri..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Erenler"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.789513888,41.274091666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İrsa Kilisesi: Artvin'in Gizli Mücevheri

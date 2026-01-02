@@ -1,18 +1,17 @@
 ---
-title: "Emen Köyü Köprüsü | Miras Haritası"
-date: 2025-12-25T02:43:16+03:00
+title: "Emen Köyü Köprüsü"
+date: "2025-12-25T02:43:16+03:00"
 slug: "emen-koyu-koprusu"
 description: "## Emen Köyü Köprüsü: Beyşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Beyşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.776013896,37.801859229"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emen Köyü Köprüsü: Beyşehir'in Gizli Cenneti

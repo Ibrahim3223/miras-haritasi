@@ -1,18 +1,17 @@
 ---
-title: "Nizip Uluyatır Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:02+03:00
+title: "Nizip Uluyatır Halk Kütüphanesi"
+date: "2025-12-25T17:51:02+03:00"
 slug: "nizip-uluyatir-halk-kutuphanesi"
 description: "## Nizip Uluyatır Halk Kütüphanesi: Gaziantep'te Kültür ve Bilgi Merkezi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "37.694191209,36.96267645"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nizip Uluyatır Halk Kütüphanesi: Gaziantep'te Kültür ve Bilgi Merkezi

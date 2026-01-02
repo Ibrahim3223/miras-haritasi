@@ -1,18 +1,17 @@
 ---
-title: "Andraklos Anıtı | Miras Haritası"
-date: 2025-12-25T08:11:27+03:00
+title: "Andraklos Anıtı"
+date: "2025-12-25T08:11:27+03:00"
 slug: "andraklos-aniti"
 description: "## Andraklos Anıtı: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Andraklos Anıtı: Tarih ve Kültür Mirası

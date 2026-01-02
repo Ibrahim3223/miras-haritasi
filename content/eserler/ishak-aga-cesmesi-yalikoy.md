@@ -1,18 +1,17 @@
 ---
-title: "İshak Ağa Çeşmesi, Yalıköy | Miras Haritası"
-date: 2025-12-25T12:15:38+03:00
+title: "İshak Ağa Çeşmesi, Yalıköy"
+date: "2025-12-25T12:15:38+03:00"
 slug: "ishak-aga-cesmesi-yalikoy"
 description: "## İshak Ağa Çeşmesi, Yalıköy: Beykoz'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/İshak_Ağa_Çeşmesi,_Yalıköy_IMG_8700.jpg/1200px-İshak_Ağa_Çeşmesi,_Yalıköy_IMG_8700.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.085671,41.137688"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İshak Ağa Çeşmesi, Yalıköy: Beykoz'un Gizli Çeşmesi

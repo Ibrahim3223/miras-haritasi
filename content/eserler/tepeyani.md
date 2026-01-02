@@ -1,18 +1,17 @@
 ---
-title: "Tepeyanı | Miras Haritası"
-date: 2025-12-25T05:36:26+03:00
+title: "Tepeyanı"
+date: "2025-12-25T05:36:26+03:00"
 slug: "tepeyani"
 description: "## Tepeyanı Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8882,41.701575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tepeyanı Arkeolojik Sit

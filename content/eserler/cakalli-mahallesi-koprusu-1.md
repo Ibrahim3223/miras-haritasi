@@ -1,18 +1,17 @@
 ---
-title: "Çakallı Mahallesi Köprüsü 1 | Miras Haritası"
-date: 2025-12-25T02:35:13+03:00
+title: "Çakallı Mahallesi Köprüsü 1"
+date: "2025-12-25T02:35:13+03:00"
 slug: "cakalli-mahallesi-koprusu-1"
 description: "## Çakallı Mahallesi Köprüsü 1: Samsun'un Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.080492,41.120204"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakallı Mahallesi Köprüsü 1: Samsun'un Tarihi Bir Anıtı

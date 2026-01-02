@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hasan Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:58:53+03:00
+title: "Hacı Hasan Camii Çeşmesi"
+date: "2025-12-25T10:58:53+03:00"
 slug: "haci-hasan-camii-cesmesi"
 description: "## Hacı Hasan Camii Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Zeyrek"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.954758,41.021149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hasan Camii Çeşmesi

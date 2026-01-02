@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Apollon Kutsal Alanı | Miras Haritası"
-date: 2025-12-25T08:39:14+03:00
+title: "Hierapolis Apollon Kutsal Alanı"
+date: "2025-12-25T08:39:14+03:00"
 slug: "hierapolis-apollon-kutsal-alani"
 description: "## Hierapolis Apollon Kutsal Alanı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.1265373,37.9268837"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hierapolis Apollon Kutsal Alanı

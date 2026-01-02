@@ -1,18 +1,17 @@
 ---
-title: "İsa Bey Fenari Camii | Miras Haritası"
-date: 2025-12-24T23:37:23+03:00
+title: "İsa Bey Fenari Camii"
+date: "2025-12-24T23:37:23+03:00"
 slug: "isa-bey-fenari-camii"
 description: "## İsa Bey Fenari Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0506344,40.1863861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsa Bey Fenari Camii

@@ -1,18 +1,17 @@
 ---
-title: "Çevreli Köyü Kalesi | Miras Haritası"
-date: 2025-12-25T01:46:46+03:00
+title: "Çevreli Köyü Kalesi"
+date: "2025-12-25T01:46:46+03:00"
 slug: "cevreli-koyu-kalesi"
 description: "**Çevreli Köyü Kalesi**..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.477518,40.74155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çevreli Köyü Kalesi**

@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami Hacı Ali Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:13:46+03:00
+title: "Yeni Cami Hacı Ali Çeşmesi"
+date: "2025-12-25T10:13:46+03:00"
 slug: "yeni-cami-haci-ali-cesmesi"
 description: "### Yeni Cami Hacı Ali Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.4691277,40.732872"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yeni Cami Hacı Ali Çeşmesi

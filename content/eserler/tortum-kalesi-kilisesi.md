@@ -1,18 +1,17 @@
 ---
-title: "Tortum Kalesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:05:53+03:00
+title: "Tortum Kalesi Kilisesi"
+date: "2025-12-25T09:05:53+03:00"
 slug: "tortum-kalesi-kilisesi"
 description: "### Tortum Kalesi Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Tortum ilçesi"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.469888888,40.34055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tortum Kalesi Kilisesi: Tarihi ve Kültürel Miras

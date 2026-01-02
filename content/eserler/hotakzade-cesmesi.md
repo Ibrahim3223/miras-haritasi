@@ -1,18 +1,17 @@
 ---
-title: "Hotakzade Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:38:27+03:00
+title: "Hotakzade Çeşmesi"
+date: "2025-12-25T11:38:27+03:00"
 slug: "hotakzade-cesmesi"
 description: "# Hotakzade Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.513752,37.8750191"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hotakzade Çeşmesi

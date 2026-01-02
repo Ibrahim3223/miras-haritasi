@@ -1,18 +1,17 @@
 ---
-title: "Hekimoğlu Ali Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:35:30+03:00
+title: "Hekimoğlu Ali Paşa Çeşmesi"
+date: "2025-12-25T10:35:30+03:00"
 slug: "hekimoglu-ali-pasa-cesmesi"
 description: "## Hekimoğlu Ali Paşa Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hekimoglu_Ali_Pasha_Fountain_DSCF5183.jpg/1200px-Hekimoglu_Ali_Pasha_Fountain_DSCF5183.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.991911,41.033221"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hekimoğlu Ali Paşa Çeşmesi: İstanbul'un Gizli Çeşmesi

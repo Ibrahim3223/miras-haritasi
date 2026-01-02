@@ -1,18 +1,17 @@
 ---
-title: "Aliağa Camii, Uşak | Miras Haritası"
-date: 2025-12-24T23:24:00+03:00
+title: "Aliağa Camii, Uşak"
+date: "2025-12-24T23:24:00+03:00"
 slug: "aliaga-camii-usak"
 description: "### Aliağa Camii: Uşak'ın Tarihi Bir Cenneti..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.4025478,38.6805954"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aliağa Camii: Uşak'ın Tarihi Bir Cenneti

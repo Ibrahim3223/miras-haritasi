@@ -1,18 +1,17 @@
 ---
-title: "Astra Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:21:16+03:00
+title: "Astra Antik Tiyatrosu"
+date: "2025-12-25T16:21:16+03:00"
 slug: "astra-antik-tiyatrosu"
 description: "### Astra Antik Tiyatrosu..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Hadim"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "32.4025002,37.0382652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Astra Antik Tiyatrosu

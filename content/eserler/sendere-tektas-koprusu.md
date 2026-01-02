@@ -1,18 +1,17 @@
 ---
-title: "Şendere-Tektaş Köprüsü | Miras Haritası"
-date: 2025-12-25T02:01:21+03:00
+title: "Şendere-Tektaş Köprüsü"
+date: "2025-12-25T02:01:21+03:00"
 slug: "sendere-tektas-koprusu"
 description: "## Şendere-Tektaş Köprüsü: Pazar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Pazar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.814115111,41.116520388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şendere-Tektaş Köprüsü: Pazar'ın Tarihi ve Kültürel Mirası

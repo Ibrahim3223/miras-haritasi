@@ -1,18 +1,17 @@
 ---
-title: "Teos | Miras Haritası"
-date: 2025-12-25T04:15:43+03:00
+title: "Teos"
+date: "2025-12-25T04:15:43+03:00"
 slug: "teos"
 description: "## Teos: İzmir'in Başkenti Olarak Tarihine Sahip Eski Kent..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Teos,_Sığacık.jpg/1200px-Teos,_Sığacık.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.785,38.177222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Teos: İzmir'in Başkenti Olarak Tarihine Sahip Eski Kent

@@ -1,18 +1,17 @@
 ---
-title: "Kassam Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:22+03:00
+title: "Kassam Çeşmesi"
+date: "2025-12-25T11:07:22+03:00"
 slug: "kassam-cesmesi"
 description: "## Kassam Çeşmesi: İstanbul'un Üsküdar semtinde Gizemli Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kassam_Çeşmesi.jpg/1200px-Kassam_Çeşmesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.01802,41.023273"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kassam Çeşmesi: İstanbul'un Üsküdar semtinde Gizemli Bir Çeşme

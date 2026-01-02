@@ -1,18 +1,17 @@
 ---
-title: "Hasan Hoca Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:51:07+03:00
+title: "Hasan Hoca Camii Çeşmesi"
+date: "2025-12-25T12:51:07+03:00"
 slug: "hasan-hoca-camii-cesmesi"
 description: "## Hasan Hoca Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1378403,38.4204483"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasan Hoca Camii Çeşmesi

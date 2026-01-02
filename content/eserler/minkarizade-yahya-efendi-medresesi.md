@@ -1,18 +1,17 @@
 ---
-title: "Minkarizade Yahya Efendi Medresesi | Miras Haritası"
-date: 2025-12-25T17:29:55+03:00
+title: "Minkarizade Yahya Efendi Medresesi"
+date: "2025-12-25T17:29:55+03:00"
 slug: "minkarizade-yahya-efendi-medresesi"
 description: "## Minkarizade Yahya Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.013287,41.021437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Minkarizade Yahya Efendi Medresesi

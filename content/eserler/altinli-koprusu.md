@@ -1,18 +1,17 @@
 ---
-title: "Altınlı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:36:33+03:00
+title: "Altınlı Köprüsü"
+date: "2025-12-25T02:36:33+03:00"
 slug: "altinli-koprusu"
 description: "## Altınlı Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Eynesil"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.158317,41.069643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altınlı Köprüsü

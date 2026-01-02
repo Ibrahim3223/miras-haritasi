@@ -1,18 +1,17 @@
 ---
-title: "Aşağı Cami 3 | Miras Haritası"
-date: 2025-12-24T22:14:57+03:00
+title: "Aşağı Cami 3"
+date: "2025-12-24T22:14:57+03:00"
 slug: "asagi-cami-3"
 description: "## Aşağı Cami 3: Muğla'nın Tarihi Bir Anıt..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7626762,37.1641426"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağı Cami 3: Muğla'nın Tarihi Bir Anıt

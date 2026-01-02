@@ -1,18 +1,17 @@
 ---
-title: "Dedeli Höyük | Miras Haritası"
-date: 2025-12-25T06:17:37+03:00
+title: "Dedeli Höyük"
+date: "2025-12-25T06:17:37+03:00"
 slug: "dedeli-hoyuk"
 description: "## Dedeli Höyük: Kırşehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.0995803,38.871076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedeli Höyük: Kırşehir'in Gizli Kahramanı

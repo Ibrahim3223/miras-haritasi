@@ -1,18 +1,17 @@
 ---
-title: "Danişment Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:55+03:00
+title: "Danişment Köprüsü"
+date: "2025-12-25T02:41:55+03:00"
 slug: "danisment-koprusu"
 description: "## Danişment Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.8427353,37.8840408"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Danişment Köprüsü

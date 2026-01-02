@@ -1,18 +1,17 @@
 ---
-title: "Molla Beyzade İsabey Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:44:54+03:00
+title: "Molla Beyzade İsabey Çeşmesi"
+date: "2025-12-25T12:44:54+03:00"
 slug: "molla-beyzade-isabey-cesmesi"
 description: "## Molla Beyzade İsabey Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1819,39.1165009"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molla Beyzade İsabey Çeşmesi

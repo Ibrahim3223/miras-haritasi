@@ -1,18 +1,17 @@
 ---
-title: "Selçuklu Sultanları Türbesi | Miras Haritası"
-date: 2025-12-25T13:57:59+03:00
+title: "Selçuklu Sultanları Türbesi"
+date: "2025-12-25T13:57:59+03:00"
 slug: "selcuklu-sultanlari-turbesi"
 description: "**Selçuklu Sultanları Türbesi**..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.492775,37.8733673"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Selçuklu Sultanları Türbesi**

@@ -1,18 +1,17 @@
 ---
-title: "Haburman Köprüsü | Miras Haritası"
-date: 2025-12-25T01:59:05+03:00
+title: "Haburman Köprüsü"
+date: "2025-12-25T01:59:05+03:00"
 slug: "haburman-koprusu"
 description: "## Haburman Köprüsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çermik"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.442492,38.131241"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haburman Köprüsü

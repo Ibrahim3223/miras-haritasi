@@ -1,18 +1,17 @@
 ---
-title: "Sulutepe Höyük | Miras Haritası"
-date: 2025-12-25T06:26:50+03:00
+title: "Sulutepe Höyük"
+date: "2025-12-25T06:26:50+03:00"
 slug: "sulutepe-hoyuk"
 description: "### Sulutepe Höyük: Aksaray'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.0989117,38.4181952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sulutepe Höyük: Aksaray'ın Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Karga Höyüğü | Miras Haritası"
-date: 2025-12-25T06:17:07+03:00
+title: "Karga Höyüğü"
+date: "2025-12-25T06:17:07+03:00"
 slug: "karga-hoyugu"
 description: "### Karga Höyüğü: Eski Kentin Kalıntıları ve Tarihî Mirası..."
 featured_image: ""
 province: "Kaman (ilçe)"
-iller: ["Kaman (ilçe)"]
+iller: '["Kaman (ilçe)"]'
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.9160421,39.3502824"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karga Höyüğü: Eski Kentin Kalıntıları ve Tarihî Mirası

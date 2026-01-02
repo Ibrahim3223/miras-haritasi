@@ -1,18 +1,17 @@
 ---
-title: "Kesmetaş Mahallesi Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:19:45+03:00
+title: "Kesmetaş Mahallesi Merkez Camii"
+date: "2025-12-25T00:19:45+03:00"
 slug: "kesmetas-mahallesi-merkez-camii"
 description: "## Kesmetaş Mahallesi Merkez Camii: Çayeli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çayeli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.731387089,41.085555038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kesmetaş Mahallesi Merkez Camii: Çayeli'nin Tarihi Bir Mirası

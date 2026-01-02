@@ -1,18 +1,17 @@
 ---
-title: "Beylerhan Köprüsü | Miras Haritası"
-date: 2025-12-25T01:53:38+03:00
+title: "Beylerhan Köprüsü"
+date: "2025-12-25T01:53:38+03:00"
 slug: "beylerhan-koprusu"
 description: "# Beylerhan Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.16441,38.69522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Beylerhan Köprüsü

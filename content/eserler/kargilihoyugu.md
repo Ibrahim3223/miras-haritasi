@@ -1,18 +1,17 @@
 ---
-title: "Kargılıhöyüğü | Miras Haritası"
-date: 2025-12-25T06:31:27+03:00
+title: "Kargılıhöyüğü"
+date: "2025-12-25T06:31:27+03:00"
 slug: "kargilihoyugu"
 description: "## Kargılıhöyüğü: Hatay'ın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Hassa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.4838733,36.6696477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kargılıhöyüğü: Hatay'ın Gizemli Arkeolojik Sitleri

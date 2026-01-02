@@ -1,18 +1,17 @@
 ---
-title: "Kemerarası Köprüsü | Miras Haritası"
-date: 2025-12-25T01:53:51+03:00
+title: "Kemerarası Köprüsü"
+date: "2025-12-25T01:53:51+03:00"
 slug: "kemerarasi-koprusu"
 description: "## Kemerarası Köprüsü: Muğla'nın Tarihi Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Muğla"
+province: "Muğla"
+iller: '["Muğla"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.56194444,36.82527778"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemerarası Köprüsü: Muğla'nın Tarihi Cenneti

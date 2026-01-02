@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Sebili | Miras Haritası"
-date: 2025-12-25T13:05:17+03:00
+title: "Mehmet Ağa Sebili"
+date: "2025-12-25T13:05:17+03:00"
 slug: "mehmet-aga-sebili"
 description: "## Mehmet Ağa Sebili: Beyazıt'ta Bir Çelenek..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Beyazıt"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.966465,41.0094376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ağa Sebili: Beyazıt'ta Bir Çelenek

@@ -1,18 +1,17 @@
 ---
-title: "Deyr Yakup Manastırı | Miras Haritası"
-date: 2025-12-25T09:53:42+03:00
+title: "Deyr Yakup Manastırı"
+date: "2025-12-25T09:53:42+03:00"
 slug: "deyr-yakup-manastiri"
 description: "## Deyr Yakup Manastırı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Eyyübiye"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "38.7748337,37.1213303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Deyr Yakup Manastırı

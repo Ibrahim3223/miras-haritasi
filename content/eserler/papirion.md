@@ -1,18 +1,17 @@
 ---
-title: "Papirion | Miras Haritası"
-date: 2025-12-25T05:15:01+03:00
+title: "Papirion"
+date: "2025-12-25T05:15:01+03:00"
 slug: "papirion"
 description: "### Papirion: Türkiye'nin Gizli Arkeolojik Şansı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.840915,36.9189005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Papirion: Türkiye'nin Gizli Arkeolojik Şansı

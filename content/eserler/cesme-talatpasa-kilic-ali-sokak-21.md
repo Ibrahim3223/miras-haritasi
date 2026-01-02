@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Talatpaşa, Kılıç Ali Sokak, 21 | Miras Haritası"
-date: 2025-12-25T12:48:55+03:00
+title: "Çeşme – Talatpaşa, Kılıç Ali Sokak, 21"
+date: "2025-12-25T12:48:55+03:00"
 slug: "cesme-talatpasa-kilic-ali-sokak-21"
 description: "## Çeşme – Talatpaşa: Bergama'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1844006,39.1236992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Talatpaşa: Bergama'nın Tarihi Bir Çeşmesi

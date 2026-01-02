@@ -1,18 +1,17 @@
 ---
-title: "Akçakoca Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:06+03:00
+title: "Akçakoca Saat Kulesi"
+date: "2025-12-25T17:18:06+03:00"
 slug: "akcakoca-saat-kulesi"
 description: "## Akçakoca Saat Kulesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Düzce"
+province: "Düzce"
+iller: '["Düzce"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "31.124333333,41.089361111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akçakoca Saat Kulesi

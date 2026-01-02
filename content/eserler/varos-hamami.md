@@ -1,18 +1,17 @@
 ---
-title: "Varoş Hamamı | Miras Haritası"
-date: 2025-12-25T16:59:23+03:00
+title: "Varoş Hamamı"
+date: "2025-12-25T16:59:23+03:00"
 slug: "varos-hamami"
 description: "## Varoş Hamamı: Sinop'un Tarihi bir Hamamı..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.1556435,42.0233307"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Varoş Hamamı: Sinop'un Tarihi bir Hamamı

@@ -1,18 +1,17 @@
 ---
-title: "Küçükçalönü Höyük | Miras Haritası"
-date: 2025-12-25T06:14:33+03:00
+title: "Küçükçalönü Höyük"
+date: "2025-12-25T06:14:33+03:00"
 slug: "kucukcalonu-hoyuk"
 description: "### Küçükçalönü Höyük: Geçmişin Gizemi..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.333271,40.6298218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küçükçalönü Höyük: Geçmişin Gizemi

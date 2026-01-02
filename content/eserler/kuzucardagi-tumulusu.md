@@ -1,18 +1,17 @@
 ---
-title: "Kuzuçardağı Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:35:09+03:00
+title: "Kuzuçardağı Tümülüsü"
+date: "2025-12-25T07:35:09+03:00"
 slug: "kuzucardagi-tumulusu"
 description: "### Kuzuçardağı Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0720539,41.5455627"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kuzuçardağı Tümülüsü: Kırklareli'nin Gizli Mirası

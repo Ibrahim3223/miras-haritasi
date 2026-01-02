@@ -1,18 +1,17 @@
 ---
-title: "Apostol Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:07+03:00
+title: "Apostol Kilisesi"
+date: "2025-12-25T09:40:07+03:00"
 slug: "apostol-kilisesi"
 description: "### Apostol Kilisesi: Bodrum'un Kıbrıslı Ruhuna Sahip Gizemli Bir Kilise..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.3711433,37.1654205"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Apostol Kilisesi: Bodrum'un Kıbrıslı Ruhuna Sahip Gizemli Bir Kilise

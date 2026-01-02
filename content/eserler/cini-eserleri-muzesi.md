@@ -1,18 +1,17 @@
 ---
-title: "Çini Eserleri Müzesi | Miras Haritası"
-date: 2025-12-25T03:36:12+03:00
+title: "Çini Eserleri Müzesi"
+date: "2025-12-25T03:36:12+03:00"
 slug: "cini-eserleri-muzesi"
 description: "### Çini Eserleri Müzesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çini Eserleri Müzesi

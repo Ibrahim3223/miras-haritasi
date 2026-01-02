@@ -1,18 +1,17 @@
 ---
-title: "Boione | Miras Haritası"
-date: 2025-12-25T04:37:14+03:00
+title: "Boione"
+date: "2025-12-25T04:37:14+03:00"
 slug: "boione"
 description: "## Boione Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Boione Arkeolojik Sit

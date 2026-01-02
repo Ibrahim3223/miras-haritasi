@@ -1,18 +1,17 @@
 ---
-title: "Süleymaniye Şifahanesi | Miras Haritası"
-date: 2025-12-25T17:29:07+03:00
+title: "Süleymaniye Şifahanesi"
+date: "2025-12-25T17:29:07+03:00"
 slug: "suleymaniye-sifahanesi"
 description: "### Süleymaniye Şifahanesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9617902,41.0162715"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ### Süleymaniye Şifahanesi: İstanbul'un Gizli Cenneti

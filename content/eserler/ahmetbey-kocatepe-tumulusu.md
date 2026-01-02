@@ -1,18 +1,17 @@
 ---
-title: "Ahmetbey Kocatepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:25:19+03:00
+title: "Ahmetbey Kocatepe Tümülüsü"
+date: "2025-12-25T07:25:19+03:00"
 slug: "ahmetbey-kocatepe-tumulusu"
 description: "### Ahmetbey Kocatepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6280251,41.4968033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmetbey Kocatepe Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Umurca Tümülüsü 5 | Miras Haritası"
-date: 2025-12-25T07:22:41+03:00
+title: "Umurca Tümülüsü 5"
+date: "2025-12-25T07:22:41+03:00"
 slug: "umurca-tumulusu-5"
 description: "## Umurca Tümülüsü 5: Lüleburgaz'ın Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3970356,41.4195786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Umurca Tümülüsü 5: Lüleburgaz'ın Gizli Mirası

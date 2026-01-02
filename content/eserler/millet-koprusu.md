@@ -1,18 +1,17 @@
 ---
-title: "Millet Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:44+03:00
+title: "Millet Köprüsü"
+date: "2025-12-25T02:15:44+03:00"
 slug: "millet-koprusu"
 description: "### Millet Köprüsü..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Haliliye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "38.7872963,37.1566658"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Millet Köprüsü

@@ -1,18 +1,17 @@
 ---
-title: "Küçük Hanımefendi Film Seti Heykelleri | Miras Haritası"
-date: 2025-12-25T16:10:36+03:00
+title: "Küçük Hanımefendi Film Seti Heykelleri"
+date: "2025-12-25T16:10:36+03:00"
 slug: "kucuk-hanimefendi-film-seti-heykelleri"
 description: "## Küçük Hanımefendi Film Seti Heykelleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Küçük_Hanımefendi_Film_Seti_Heykelleri.jpg/1200px-Küçük_Hanımefendi_Film_Seti_Heykelleri.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0367908,40.9695244"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Küçük Hanımefendi Film Seti Heykelleri

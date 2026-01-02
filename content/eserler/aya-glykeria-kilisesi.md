@@ -1,18 +1,17 @@
 ---
-title: "Aya Glykeria Kilisesi | Miras Haritası"
-date: 2025-12-25T09:29:11+03:00
+title: "Aya Glykeria Kilisesi"
+date: "2025-12-25T09:29:11+03:00"
 slug: "aya-glykeria-kilisesi"
 description: "### Aya Glykeria Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Tuzla"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.2731571,40.7911682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Glykeria Kilisesi

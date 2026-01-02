@@ -1,18 +1,17 @@
 ---
-title: "Saray Cami Sokak Çeşmesi, Kastamonu | Miras Haritası"
-date: 2025-12-25T12:19:08+03:00
+title: "Saray Cami Sokak Çeşmesi, Kastamonu"
+date: "2025-12-25T12:19:08+03:00"
 slug: "saray-cami-sokak-cesmesi-kastamonu"
 description: "## Saray Cami Sokak Çeşmesi: Kastamonu'nun Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.779620452,41.376412768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saray Cami Sokak Çeşmesi: Kastamonu'nun Tarihi ve Kültür Mirası

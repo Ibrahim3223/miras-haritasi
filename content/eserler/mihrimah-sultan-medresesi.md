@@ -1,18 +1,17 @@
 ---
-title: "Mihrimah Sultan Medresesi | Miras Haritası"
-date: 2025-12-25T17:29:19+03:00
+title: "Mihrimah Sultan Medresesi"
+date: "2025-12-25T17:29:19+03:00"
 slug: "mihrimah-sultan-medresesi"
 description: "### Mihrimah Sultan Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mihrimah_Sultan_Mosque_(Üsküdar)_exterior_inside_medrese_in_2006_0440.jpg/1200px-Mihrimah_Sultan_Mosque_(Üsküdar)_exterior_inside_medrese_in_2006_0440.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.016325,41.027229"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Mihrimah Sultan Medresesi

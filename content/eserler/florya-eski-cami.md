@@ -1,18 +1,17 @@
 ---
-title: "Florya Eski Cami | Miras Haritası"
-date: 2025-12-25T00:57:47+03:00
+title: "Florya Eski Cami"
+date: "2025-12-25T00:57:47+03:00"
 slug: "florya-eski-cami"
 description: "## Florya Eski Cami: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Bakırköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.7954178,40.9807892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Florya Eski Cami: İstanbul'un Gizli Cenneti

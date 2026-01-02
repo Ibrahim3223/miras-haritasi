@@ -1,18 +1,17 @@
 ---
-title: "Odabaşı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:07+03:00
+title: "Odabaşı Köprüsü"
+date: "2025-12-25T02:41:07+03:00"
 slug: "odabasi-koprusu"
 description: "### Odabaşı Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Başakşehir"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.7433891,41.0637169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Odabaşı Köprüsü

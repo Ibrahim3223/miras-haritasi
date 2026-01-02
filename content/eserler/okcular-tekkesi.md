@@ -1,18 +1,17 @@
 ---
-title: "Okçular Tekkesi | Miras Haritası"
-date: 2025-12-25T04:03:22+03:00
+title: "Okçular Tekkesi"
+date: "2025-12-25T04:03:22+03:00"
 slug: "okcular-tekkesi"
 description: "**Okçular Tekkesi - İstanbul'un Gizli Çehresini Keşfetmek**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.959865771,41.041289985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Okçular Tekkesi - İstanbul'un Gizli Çehresini Keşfetmek**

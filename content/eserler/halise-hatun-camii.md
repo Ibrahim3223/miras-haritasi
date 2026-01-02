@@ -1,18 +1,17 @@
 ---
-title: "Halise Hatun Camii | Miras Haritası"
-date: 2025-12-24T23:30:42+03:00
+title: "Halise Hatun Camii"
+date: "2025-12-24T23:30:42+03:00"
 slug: "halise-hatun-camii"
 description: "## Halise Hatun Camii: Edirne'nin Gizli Çehresini Açıklama..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6848202,41.2662926"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halise Hatun Camii: Edirne'nin Gizli Çehresini Açıklama

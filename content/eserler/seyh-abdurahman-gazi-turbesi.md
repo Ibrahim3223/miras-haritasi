@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Abdurahman Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:11:00+03:00
+title: "Şeyh Abdurahman Gazi Türbesi"
+date: "2025-12-25T15:11:00+03:00"
 slug: "seyh-abdurahman-gazi-turbesi"
 description: "## Şeyh Abdurahman Gazi Türbesi..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "İpekyolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.3446958,38.5022332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Abdurahman Gazi Türbesi

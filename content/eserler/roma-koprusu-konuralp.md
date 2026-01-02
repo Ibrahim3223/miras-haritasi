@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Konuralp | Miras Haritası"
-date: 2025-12-25T02:47:42+03:00
+title: "Roma Köprüsü, Konuralp"
+date: "2025-12-25T02:47:42+03:00"
 slug: "roma-koprusu-konuralp"
 description: "### Roma Köprüsü, Konuralp..."
 featured_image: ""
 province: "Düzce"
-iller: ["Düzce"]
+iller: '["Düzce"]'
 district: "Düzce"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.1419678,40.9067421"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Konuralp

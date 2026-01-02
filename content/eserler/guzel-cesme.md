@@ -1,18 +1,17 @@
 ---
-title: "Güzel Çeşme | Miras Haritası"
-date: 2025-12-25T12:57:20+03:00
+title: "Güzel Çeşme"
+date: "2025-12-25T12:57:20+03:00"
 slug: "guzel-cesme"
 description: "## Güzel Çeşme: Söke'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.383908176,37.561890031"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzel Çeşme: Söke'nin Tarihi Bir Çeşmesi

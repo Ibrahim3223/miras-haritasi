@@ -1,18 +1,17 @@
 ---
-title: "Biga Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:07:01+03:00
+title: "Biga Ulu Cami"
+date: "2025-12-24T23:07:01+03:00"
 slug: "biga-ulu-cami"
 description: "## Biga Ulu Camii: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2392406,40.2271461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Biga Ulu Camii: Çanakkale'nin Tarihi ve Kültürel Mirası

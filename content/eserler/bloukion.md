@@ -1,18 +1,17 @@
 ---
-title: "Bloukion | Miras Haritası"
-date: 2025-12-25T05:23:47+03:00
+title: "Bloukion"
+date: "2025-12-25T05:23:47+03:00"
 slug: "bloukion"
 description: "## Bloukion Arkeolojik Sit..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kahramankazan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.5935593,40.2007713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bloukion Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Mahmut Han II Çeşmesi, İcadiye | Miras Haritası"
-date: 2025-12-25T12:13:13+03:00
+title: "Mahmut Han II Çeşmesi, İcadiye"
+date: "2025-12-25T12:13:13+03:00"
 slug: "mahmut-han-ii-cesmesi-icadiye"
 description: "## Mahmut Han II Çeşmesi, İcadiye..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.033256,41.027012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmut Han II Çeşmesi, İcadiye

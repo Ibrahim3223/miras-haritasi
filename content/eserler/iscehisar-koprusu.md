@@ -1,18 +1,17 @@
 ---
-title: "İscehisar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:41+03:00
+title: "İscehisar Köprüsü"
+date: "2025-12-25T02:32:41+03:00"
 slug: "iscehisar-koprusu"
 description: "## İscehisar Köprüsü: Tarihimizin Gizli Çehresini Açığa Çıkaran Bir Ölümsüz..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "İscehisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "30.7497559,38.8622589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İscehisar Köprüsü: Tarihimizin Gizli Çehresini Açığa Çıkaran Bir Ölümsüz

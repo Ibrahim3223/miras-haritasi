@@ -1,18 +1,17 @@
 ---
-title: "Arymaxa | Miras Haritası"
-date: 2025-12-25T05:20:45+03:00
+title: "Arymaxa"
+date: "2025-12-25T05:20:45+03:00"
 slug: "arymaxa"
 description: "**Arymaxa: Kapukargın'ın Gizli Mirası**..."
 featured_image: ""
 province: "Dalaman"
-iller: ["Dalaman"]
+iller: '["Dalaman"]'
 district: "Kapukargın"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.855,36.64"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Arymaxa: Kapukargın'ın Gizli Mirası**

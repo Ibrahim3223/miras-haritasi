@@ -1,18 +1,17 @@
 ---
-title: "Satala | Miras Haritası"
-date: 2025-12-25T04:28:17+03:00
+title: "Satala"
+date: "2025-12-25T04:28:17+03:00"
 slug: "satala"
 description: "## Satala: Kelkit'in Tarihî Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kelkit"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.59055556,40.02611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Satala: Kelkit'in Tarihî Mirası

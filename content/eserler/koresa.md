@@ -1,18 +1,17 @@
 ---
-title: "Koresa | Miras Haritası"
-date: 2025-12-25T08:18:52+03:00
+title: "Koresa"
+date: "2025-12-25T08:18:52+03:00"
 slug: "koresa"
 description: "# Koresa..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.585778,38.624086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Koresa

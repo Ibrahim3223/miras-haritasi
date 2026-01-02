@@ -1,18 +1,17 @@
 ---
-title: "Sivas Kalesi | Miras Haritası"
-date: 2025-12-25T01:33:50+03:00
+title: "Sivas Kalesi"
+date: "2025-12-25T01:33:50+03:00"
 slug: "sivas-kalesi"
 description: "## Sivas Kalesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.013425,39.743974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sivas Kalesi

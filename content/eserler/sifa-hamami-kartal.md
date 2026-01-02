@@ -1,18 +1,17 @@
 ---
-title: "Şifa Hamamı Kartal | Miras Haritası"
-date: 2025-12-25T16:39:35+03:00
+title: "Şifa Hamamı Kartal"
+date: "2025-12-25T16:39:35+03:00"
 slug: "sifa-hamami-kartal"
 description: "## Şifa Hamamı Kartal: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.185991,40.889067"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şifa Hamamı Kartal: İstanbul'un Tarihi ve Kültürel Mirası

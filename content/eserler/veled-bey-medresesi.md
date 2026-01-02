@@ -1,18 +1,17 @@
 ---
-title: "Veled Bey Medresesi | Miras Haritası"
-date: 2025-12-25T17:32:59+03:00
+title: "Veled Bey Medresesi"
+date: "2025-12-25T17:32:59+03:00"
 slug: "veled-bey-medresesi"
 description: "## Veled Bey Medresesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.4344387,38.6115303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veled Bey Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Bayezid Paşa Camii | Miras Haritası"
-date: 2025-12-24T21:38:39+03:00
+title: "Bayezid Paşa Camii"
+date: "2025-12-24T21:38:39+03:00"
 slug: "bayezid-pasa-camii"
 description: "### Bayezid Paşa Camii..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.836888888,40.658027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayezid Paşa Camii

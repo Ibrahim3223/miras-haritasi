@@ -1,18 +1,17 @@
 ---
-title: "Sarayköy-Yalıköy Cami Köprüsü | Miras Haritası"
-date: 2025-12-25T02:06:58+03:00
+title: "Sarayköy-Yalıköy Cami Köprüsü"
+date: "2025-12-25T02:06:58+03:00"
 slug: "saraykoy-yalikoy-cami-koprusu"
 description: "### Sarayköy-Yalıköy Cami Köprüsü: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İyidere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.3777,41.021533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sarayköy-Yalıköy Cami Köprüsü: Tarihi ve Kültürel Mirası

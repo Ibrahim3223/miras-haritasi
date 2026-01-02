@@ -1,18 +1,17 @@
 ---
-title: "Molla Arap Camii, Tire | Miras Haritası"
-date: 2025-12-25T00:58:15+03:00
+title: "Molla Arap Camii, Tire"
+date: "2025-12-25T00:58:15+03:00"
 slug: "molla-arap-camii-tire"
 description: "### Molla Arap Camii: Tire'de Bir Tarihi Övgü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7134628,38.095829"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Molla Arap Camii: Tire'de Bir Tarihi Övgü

@@ -1,18 +1,17 @@
 ---
-title: "Pteleon (İyonya) | Miras Haritası"
-date: 2025-12-25T04:35:57+03:00
+title: "Pteleon (İyonya)"
+date: "2025-12-25T04:35:57+03:00"
 slug: "pteleon-iyonya"
 description: "## Pteleon: İyonya'nın Gizemli Yerleşimi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Karaburun"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.416666666,38.483333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pteleon: İyonya'nın Gizemli Yerleşimi

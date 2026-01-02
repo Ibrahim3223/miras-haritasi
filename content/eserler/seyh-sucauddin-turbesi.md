@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Şücaüddin Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:06+03:00
+title: "Şeyh Şücaüddin Türbesi"
+date: "2025-12-25T14:42:06+03:00"
 slug: "seyh-sucauddin-turbesi"
 description: "### Şeyh Şücaüddin Türbesi: Eskişehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.6139927,39.450882"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Şücaüddin Türbesi: Eskişehir'in Tarihi ve Kültürel Mirası

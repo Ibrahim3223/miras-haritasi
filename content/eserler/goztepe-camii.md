@@ -1,18 +1,17 @@
 ---
-title: "Göztepe Camii | Miras Haritası"
-date: 2025-12-24T21:40:10+03:00
+title: "Göztepe Camii"
+date: "2025-12-24T21:40:10+03:00"
 slug: "goztepe-camii"
 description: "### Göztepe Camii: Kadıköy'ün Tarihi Bir Mirası..."
 featured_image: ""
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Göztepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.066194444,40.978888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Göztepe Camii: Kadıköy'ün Tarihi Bir Mirası

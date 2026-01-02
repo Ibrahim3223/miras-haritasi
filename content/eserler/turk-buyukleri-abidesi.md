@@ -1,18 +1,17 @@
 ---
-title: "Türk Büyükleri Abidesi | Miras Haritası"
-date: 2025-12-25T15:47:27+03:00
+title: "Türk Büyükleri Abidesi"
+date: "2025-12-25T15:47:27+03:00"
 slug: "turk-buyukleri-abidesi"
 description: "# Türk Büyükleri Abidesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Söğütlü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1811543,40.0256538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Türk Büyükleri Abidesi

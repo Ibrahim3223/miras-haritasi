@@ -1,18 +1,17 @@
 ---
-title: "Aperlai Roma Köprüsü | Miras Haritası"
-date: 2025-12-25T02:28:21+03:00
+title: "Aperlai Roma Köprüsü"
+date: "2025-12-25T02:28:21+03:00"
 slug: "aperlai-roma-koprusu"
 description: "## Aperlai Roma Köprüsü: Türkiye'nin Eski Bir Ruhu..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.780449,36.15876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aperlai Roma Köprüsü: Türkiye'nin Eski Bir Ruhu

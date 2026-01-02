@@ -1,18 +1,17 @@
 ---
-title: "Balbura | Miras Haritası"
-date: 2025-12-25T04:20:54+03:00
+title: "Balbura"
+date: "2025-12-25T04:20:54+03:00"
 slug: "balbura"
 description: "### Balbura: Bir Mitolojik Şehirin Kalıntıları..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.57913889,36.95236111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balbura: Bir Mitolojik Şehirin Kalıntıları

@@ -1,18 +1,17 @@
 ---
-title: "Garanti Galeri | Miras Haritası"
-date: 2025-12-25T04:08:50+03:00
+title: "Garanti Galeri"
+date: "2025-12-25T04:08:50+03:00"
 slug: "garanti-galeri"
 description: "### Garanti Galeri: İstanbul'un Sanat ve Kültür Merkezi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Garanti Galeri: İstanbul'un Sanat ve Kültür Merkezi

@@ -1,18 +1,17 @@
 ---
-title: "Gaziantep Hayvanat Bahçesi | Miras Haritası"
-date: 2025-12-25T03:07:29+03:00
+title: "Gaziantep Hayvanat Bahçesi"
+date: "2025-12-25T03:07:29+03:00"
 slug: "gaziantep-hayvanat-bahcesi"
 description: "# Gaziantep Hayvanat Bahçesi: Türünün En Önemli Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gaziantep_zoo.jpg/1200px-Gaziantep_zoo.jpg"
-province: "Antep Sancağı"
-iller: ["Antep Sancağı"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: "Antep Sancağı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "37.29526944,37.03967778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Gaziantep Hayvanat Bahçesi: Türünün En Önemli Örneği

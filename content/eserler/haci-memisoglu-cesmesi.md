@@ -1,18 +1,17 @@
 ---
-title: "Hacı Memişoğlu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:32:21+03:00
+title: "Hacı Memişoğlu Çeşmesi"
+date: "2025-12-25T11:32:21+03:00"
 slug: "haci-memisoglu-cesmesi"
 description: "## Hacı Memişoğlu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hacı_Memişoğlu_Çeşmesi.jpg/1200px-Hacı_Memişoğlu_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6725273,41.263443"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Memişoğlu Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Bekçitepe Höyük | Miras Haritası"
-date: 2025-12-25T06:35:29+03:00
+title: "Bekçitepe Höyük"
+date: "2025-12-25T06:35:29+03:00"
 slug: "bekcitepe-hoyuk"
 description: "# Bekçitepe Höyük: Niğde'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Bor"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.624323203,37.774556384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bekçitepe Höyük: Niğde'nin Gizli Hazinesi

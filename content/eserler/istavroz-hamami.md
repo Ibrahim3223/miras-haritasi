@@ -1,18 +1,17 @@
 ---
-title: "Istavroz Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:59+03:00
+title: "Istavroz Hamamı"
+date: "2025-12-25T17:03:59+03:00"
 slug: "istavroz-hamami"
 description: "### Istavroz Hamamı: Üsküdar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.0430965,41.0428123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Istavroz Hamamı: Üsküdar'ın Tarihi ve Kültürel Mirası

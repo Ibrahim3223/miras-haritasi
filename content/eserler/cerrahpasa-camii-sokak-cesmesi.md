@@ -1,18 +1,17 @@
 ---
-title: "Cerrahpaşa Camii Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:10:45+03:00
+title: "Cerrahpaşa Camii Sokak Çeşmesi"
+date: "2025-12-25T10:10:45+03:00"
 slug: "cerrahpasa-camii-sokak-cesmesi"
 description: "## Cerrahpaşa Camii Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cerrahpaşa_Camii_Sokak_Çeşmesi.jpg/1200px-Cerrahpaşa_Camii_Sokak_Çeşmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cerrahpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.945547,41.007336"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cerrahpaşa Camii Sokak Çeşmesi

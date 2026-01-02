@@ -1,18 +1,17 @@
 ---
-title: "Höyüklüyurt Höyük | Miras Haritası"
-date: 2025-12-25T06:29:54+03:00
+title: "Höyüklüyurt Höyük"
+date: "2025-12-25T06:29:54+03:00"
 slug: "hoyukluyurt-hoyuk"
 description: "## Höyüklüyurt Höyük..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.1348707,39.278959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Höyüklüyurt Höyük

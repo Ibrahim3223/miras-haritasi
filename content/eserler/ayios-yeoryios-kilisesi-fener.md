@@ -1,18 +1,17 @@
 ---
-title: "Ayios Yeoryios Kilisesi, Fener | Miras Haritası"
-date: 2025-12-25T09:42:17+03:00
+title: "Ayios Yeoryios Kilisesi, Fener"
+date: "2025-12-25T09:42:17+03:00"
 slug: "ayios-yeoryios-kilisesi-fener"
 description: "Ayios Yeoryios Kilisesi, Fener..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9515858,41.0293159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 Ayios Yeoryios Kilisesi, Fener

@@ -1,18 +1,17 @@
 ---
-title: "Bilal-i Habeşi Mescidi | Miras Haritası"
-date: 2025-12-24T21:59:34+03:00
+title: "Bilal-i Habeşi Mescidi"
+date: "2025-12-24T21:59:34+03:00"
 slug: "bilal-i-habesi-mescidi"
 description: "## Bilal-i Habeşi Mescidi: Tarsus'ün İslami Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bilal_Habeşi_mescit,_Tarsus.jpg/1200px-Bilal_Habeşi_mescit,_Tarsus.jpg"
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.896944444,36.915277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bilal-i Habeşi Mescidi: Tarsus'ün İslami Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Hasanbeyli Höyüğü | Miras Haritası"
-date: 2025-12-25T06:44:19+03:00
+title: "Hasanbeyli Höyüğü"
+date: "2025-12-25T06:44:19+03:00"
 slug: "hasanbeyli-hoyugu"
 description: "**Hasanbeyli Höyüğü: Osmaniye'nin Gizli Mirası**..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Hasanbeyli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.5631973,37.1316547"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hasanbeyli Höyüğü: Osmaniye'nin Gizli Mirası**

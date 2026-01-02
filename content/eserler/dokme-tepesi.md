@@ -1,18 +1,17 @@
 ---
-title: "Dökme Tepesi | Miras Haritası"
-date: 2025-12-25T06:24:21+03:00
+title: "Dökme Tepesi"
+date: "2025-12-25T06:24:21+03:00"
 slug: "dokme-tepesi"
 description: "### Dökme Tepesi: Tokat'ta Bir Arkeolojik Çıkış Yeri..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Pazar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.1267949,40.2581294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dökme Tepesi: Tokat'ta Bir Arkeolojik Çıkış Yeri

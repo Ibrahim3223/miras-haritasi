@@ -1,18 +1,17 @@
 ---
-title: "Gordion Tümülüs T31 | Miras Haritası"
-date: 2025-12-25T07:54:34+03:00
+title: "Gordion Tümülüs T31"
+date: "2025-12-25T07:54:34+03:00"
 slug: "gordion-tumulus-t31"
 description: "### Gordion Tümülüs T31..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.992512,39.651703"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gordion Tümülüs T31

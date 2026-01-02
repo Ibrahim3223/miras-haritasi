@@ -1,18 +1,17 @@
 ---
-title: "Beyazıt Kapısı | Miras Haritası"
-date: 2025-12-25T15:35:43+03:00
+title: "Beyazıt Kapısı"
+date: "2025-12-25T15:35:43+03:00"
 slug: "beyazit-kapisi"
 description: "## Beyazıt Kapısı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.966563,41.009814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyazıt Kapısı: İstanbul'un Tarihi ve Kültürel Mirası

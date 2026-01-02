@@ -1,18 +1,17 @@
 ---
-title: "Başdeğirmen Köprüsü | Miras Haritası"
-date: 2025-12-25T02:14:45+03:00
+title: "Başdeğirmen Köprüsü"
+date: "2025-12-25T02:14:45+03:00"
 slug: "basdegirmen-koprusu"
 description: "## Başdeğirmen Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Köşk"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0159206,37.9333992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Başdeğirmen Köprüsü

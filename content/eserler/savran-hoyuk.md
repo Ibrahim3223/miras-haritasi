@@ -1,18 +1,17 @@
 ---
-title: "Savran Höyük | Miras Haritası"
-date: 2025-12-25T13:49:55+03:00
+title: "Savran Höyük"
+date: "2025-12-25T13:49:55+03:00"
 slug: "savran-hoyuk"
 description: "## Savran Höyük..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Ayrancı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7266731,37.4082184"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Savran Höyük

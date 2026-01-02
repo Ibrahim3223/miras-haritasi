@@ -1,18 +1,17 @@
 ---
-title: "Mezarlık Kilisesi (Tirilye) | Miras Haritası"
-date: 2025-12-25T09:00:26+03:00
+title: "Mezarlık Kilisesi (Tirilye)"
+date: "2025-12-25T09:00:26+03:00"
 slug: "mezarlik-kilisesi-tirilye"
 description: "**Mezarlık Kilisesi (Tirilye)**..."
 featured_image: ""
 province: "Mudanya"
-iller: ["Mudanya"]
+iller: '["Mudanya"]'
 district: "Tirilye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.789583333,40.3865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mezarlık Kilisesi (Tirilye)**

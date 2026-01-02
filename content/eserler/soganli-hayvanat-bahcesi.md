@@ -1,18 +1,17 @@
 ---
-title: "Soğanlı Hayvanat Bahçesi | Miras Haritası"
-date: 2025-12-25T03:06:54+03:00
+title: "Soğanlı Hayvanat Bahçesi"
+date: "2025-12-25T03:06:54+03:00"
 slug: "soganli-hayvanat-bahcesi"
 description: "**Soğanlı Hayvanat Bahçesi**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.047089,40.218525"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Soğanlı Hayvanat Bahçesi**

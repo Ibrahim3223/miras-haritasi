@@ -1,18 +1,17 @@
 ---
-title: "Posacızade Camii | Miras Haritası"
-date: 2025-12-24T22:39:33+03:00
+title: "Posacızade Camii"
+date: "2025-12-24T22:39:33+03:00"
 slug: "posacizade-camii"
 description: "## Posacızade Camii: Aydın'ın Tarihi Bir Öncü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.0076008,37.7937012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Posacızade Camii: Aydın'ın Tarihi Bir Öncü

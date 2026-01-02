@@ -1,18 +1,17 @@
 ---
-title: "Araban Köprüsü | Miras Haritası"
-date: 2025-12-25T02:30:30+03:00
+title: "Araban Köprüsü"
+date: "2025-12-25T02:30:30+03:00"
 slug: "araban-koprusu"
 description: "## Araban Köprüsü..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Araban"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "37.89522,37.43285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Araban Köprüsü

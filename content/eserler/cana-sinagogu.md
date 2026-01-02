@@ -1,18 +1,17 @@
 ---
-title: "Çana Sinagogu | Miras Haritası"
-date: 2025-12-25T16:13:29+03:00
+title: "Çana Sinagogu"
+date: "2025-12-25T16:13:29+03:00"
 slug: "cana-sinagogu"
 description: "### Çana Sinagogu Tanıtımı..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Balat"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "28.947194444,41.032777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çana Sinagogu Tanıtımı

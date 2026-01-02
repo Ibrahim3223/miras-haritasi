@@ -1,18 +1,17 @@
 ---
-title: "Debbağlar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:39:37+03:00
+title: "Debbağlar Köprüsü"
+date: "2025-12-25T02:39:37+03:00"
 slug: "debbaglar-koprusu"
 description: "## Debbağlar Köprüsü: Aksaray'ın Eski İmparatorluk Geçişatı..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.023262,38.3730698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Debbağlar Köprüsü: Aksaray'ın Eski İmparatorluk Geçişatı

@@ -1,18 +1,17 @@
 ---
-title: "Kestanepazarı Camii | Miras Haritası"
-date: 2025-12-24T21:49:21+03:00
+title: "Kestanepazarı Camii"
+date: "2025-12-24T21:49:21+03:00"
 slug: "kestanepazari-camii"
 description: "### Kestanepazarı Camii: İzmir'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/IzİzmirH10.jpg/1200px-IzİzmirH10.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.135,38.42"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kestanepazarı Camii: İzmir'in Gizli Cenneti

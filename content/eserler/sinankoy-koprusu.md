@@ -1,18 +1,17 @@
 ---
-title: "Sinanköy Köprüsü | Miras Haritası"
-date: 2025-12-25T02:10:14+03:00
+title: "Sinanköy Köprüsü"
+date: "2025-12-25T02:10:14+03:00"
 slug: "sinankoy-koprusu"
 description: "## Sinanköy Köprüsü: Ardeşen'in Ölümsüz Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.0925,41.104633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinanköy Köprüsü: Ardeşen'in Ölümsüz Köprüsü

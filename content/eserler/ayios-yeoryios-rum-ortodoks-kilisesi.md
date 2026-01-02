@@ -1,18 +1,17 @@
 ---
-title: "Ayios Yeoryios Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:11:52+03:00
+title: "Ayios Yeoryios Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:11:52+03:00"
 slug: "ayios-yeoryios-rum-ortodoks-kilisesi"
 description: "## Ayios Yeoryios Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.069462,41.122031"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Yeoryios Rum Ortodoks Kilisesi

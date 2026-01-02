@@ -1,18 +1,17 @@
 ---
-title: "Karaca Ahmet Camii | Miras Haritası"
-date: 2025-12-24T23:40:48+03:00
+title: "Karaca Ahmet Camii"
+date: "2025-12-24T23:40:48+03:00"
 slug: "karaca-ahmet-camii"
 description: "## Karaca Ahmet Camii: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Edirne"
+province: "Edirne"
+iller: '["Edirne"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.571867,41.6799545"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaca Ahmet Camii: Edirne'nin Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Mezgitkale | Miras Haritası"
-date: 2025-12-25T06:53:49+03:00
+title: "Mezgitkale"
+date: "2025-12-25T06:53:49+03:00"
 slug: "mezgitkale"
 description: "## Mezgitkale: Silifke'nin Gizli Çanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Mezgitkale,_Mersin_Province,_Turkey.jpg/1200px-Mezgitkale,_Mersin_Province,_Turkey.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.03333333,36.46666667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mezgitkale: Silifke'nin Gizli Çanı

@@ -1,18 +1,17 @@
 ---
-title: "Çanakkale İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:01+03:00
+title: "Çanakkale İl Halk Kütüphanesi"
+date: "2025-12-25T17:48:01+03:00"
 slug: "canakkale-il-halk-kutuphanesi"
 description: "## Çanakkale İl Halk Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakkale İl Halk Kütüphanesi

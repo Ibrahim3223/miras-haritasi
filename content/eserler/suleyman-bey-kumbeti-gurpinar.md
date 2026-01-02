@@ -1,18 +1,17 @@
 ---
-title: "Süleyman Bey Kümbeti, Gürpınar | Miras Haritası"
-date: 2025-12-25T13:57:45+03:00
+title: "Süleyman Bey Kümbeti, Gürpınar"
+date: "2025-12-25T13:57:45+03:00"
 slug: "suleyman-bey-kumbeti-gurpinar"
 description: "## Süleyman Bey Kümbeti, Gürpınar..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Gürpınar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.8011742,38.3146477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Süleyman Bey Kümbeti, Gürpınar

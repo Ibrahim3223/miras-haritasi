@@ -1,18 +1,17 @@
 ---
-title: "Cemilli Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:08+03:00
+title: "Cemilli Kalesi"
+date: "2025-12-25T01:16:08+03:00"
 slug: "cemilli-kalesi"
 description: "## Cemilli Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cemilli_Castle.JPG/1200px-Cemilli_Castle.JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mersin"
+province: "Mersin"
+iller: '["Mersin"]'
+district: ""
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "34.4555551,36.8103112"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cemilli Kalesi: Tarihî Bir Mirasın Gizemi

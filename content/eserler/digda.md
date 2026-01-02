@@ -1,18 +1,17 @@
 ---
-title: "Digda | Miras Haritası"
-date: 2025-12-25T06:58:08+03:00
+title: "Digda"
+date: "2025-12-25T06:58:08+03:00"
 slug: "digda"
 description: "## Digda: Türkiye'nin Eski Kenti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.020833333,38.106111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Digda: Türkiye'nin Eski Kenti

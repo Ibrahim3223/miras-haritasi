@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Karaköy | Miras Haritası"
-date: 2025-12-25T02:54:26+03:00
+title: "Roma Köprüsü, Karaköy"
+date: "2025-12-25T02:54:26+03:00"
 slug: "roma-koprusu-karakoy"
 description: "## Roma Köprüsü, Karaköy..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Aliağa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.0619937,38.7940349"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Karaköy

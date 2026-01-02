@@ -1,18 +1,17 @@
 ---
-title: "Yıldırım Bayezid Medresesi | Miras Haritası"
-date: 2025-12-25T17:35:45+03:00
+title: "Yıldırım Bayezid Medresesi"
+date: "2025-12-25T17:35:45+03:00"
 slug: "yildirim-bayezid-medresesi"
 description: "# Yıldırım Bayezid Medresesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0817528,40.1877022"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yıldırım Bayezid Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Karagöl Köprüsü | Miras Haritası"
-date: 2025-12-25T02:21:18+03:00
+title: "Karagöl Köprüsü"
+date: "2025-12-25T02:21:18+03:00"
 slug: "karagol-koprusu"
 description: "## Karagöl Köprüsü..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Kale"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.7096004,37.5348015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagöl Köprüsü

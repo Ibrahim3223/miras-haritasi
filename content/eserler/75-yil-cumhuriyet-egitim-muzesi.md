@@ -1,18 +1,17 @@
 ---
-title: "75. Yıl Cumhuriyet Eğitim Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:03+03:00
+title: "75. Yıl Cumhuriyet Eğitim Müzesi"
+date: "2025-12-25T03:54:03+03:00"
 slug: "75-yil-cumhuriyet-egitim-muzesi"
 description: "## 75. Yıl Cumhuriyet Eğitim Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.8487778,39.9263077"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 75. Yıl Cumhuriyet Eğitim Müzesi

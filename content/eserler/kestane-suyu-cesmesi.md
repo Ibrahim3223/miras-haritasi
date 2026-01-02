@@ -1,18 +1,17 @@
 ---
-title: "Kestane Suyu Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:21:31+03:00
+title: "Kestane Suyu Çeşmesi"
+date: "2025-12-25T11:21:31+03:00"
 slug: "kestane-suyu-cesmesi"
 description: "## Kestane Suyu Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Kazım Karabekir Paşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.026968,41.163523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kestane Suyu Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi

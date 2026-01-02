@@ -1,18 +1,17 @@
 ---
-title: "Yeldeğirmenitepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:44:15+03:00
+title: "Yeldeğirmenitepe Tümülüsü"
+date: "2025-12-25T07:44:15+03:00"
 slug: "yeldegirmenitepe-tumulusu"
 description: "## Yeldeğirmenitepe Tümülüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Köprübaşı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.4450836,38.762207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeldeğirmenitepe Tümülüsü

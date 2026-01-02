@@ -1,18 +1,17 @@
 ---
-title: "MKE Sanayi ve Teknoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:22+03:00
+title: "MKE Sanayi ve Teknoloji Müzesi"
+date: "2025-12-25T03:27:22+03:00"
 slug: "mke-sanayi-ve-teknoloji-muzesi"
 description: "## MKE Sanayi ve Teknoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MKE_Sanayi_ve_Teknoloji_Müzesi.jpg/1200px-MKE_Sanayi_ve_Teknoloji_Müzesi.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Ankara"
+province: "Ankara"
+iller: '["Ankara"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.837801,39.938582"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## MKE Sanayi ve Teknoloji Müzesi

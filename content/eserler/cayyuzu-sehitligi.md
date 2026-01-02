@@ -1,18 +1,17 @@
 ---
-title: "Çayyüzü Şehitliği | Miras Haritası"
-date: 2025-12-25T15:58:54+03:00
+title: "Çayyüzü Şehitliği"
+date: "2025-12-25T15:58:54+03:00"
 slug: "cayyuzu-sehitligi"
 description: "## Çayyüzü Şehitliği..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.9756603,37.8865356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayyüzü Şehitliği

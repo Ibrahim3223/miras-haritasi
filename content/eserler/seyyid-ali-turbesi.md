@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Ali Türbesi | Miras Haritası"
-date: 2025-12-25T14:54:02+03:00
+title: "Seyyid Ali Türbesi"
+date: "2025-12-25T14:54:02+03:00"
 slug: "seyyid-ali-turbesi"
 description: "## Seyyid Ali Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8670807,39.9367676"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Ali Türbesi

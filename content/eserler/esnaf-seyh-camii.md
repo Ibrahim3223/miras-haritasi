@@ -1,18 +1,17 @@
 ---
-title: "Esnaf Şeyh Camii | Miras Haritası"
-date: 2025-12-24T23:01:33+03:00
+title: "Esnaf Şeyh Camii"
+date: "2025-12-24T23:01:33+03:00"
 slug: "esnaf-seyh-camii"
 description: "## Esnaf Şeyh Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1327972,38.4159012"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esnaf Şeyh Camii: İzmir'in Tarihi ve Kültürel Mirası

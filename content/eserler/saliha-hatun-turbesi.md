@@ -1,18 +1,17 @@
 ---
-title: "Saliha Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:33:53+03:00
+title: "Saliha Hatun Türbesi"
+date: "2025-12-25T15:33:53+03:00"
 slug: "saliha-hatun-turbesi"
 description: "### Saliha Hatun Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.93265219,38.46173171"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Saliha Hatun Türbesi

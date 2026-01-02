@@ -1,18 +1,17 @@
 ---
-title: "Balım Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:10:07+03:00
+title: "Balım Sultan Türbesi"
+date: "2025-12-25T15:10:07+03:00"
 slug: "balim-sultan-turbesi"
 description: "### Balım Sultan Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7074135,38.0676096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Balım Sultan Türbesi

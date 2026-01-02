@@ -1,18 +1,17 @@
 ---
-title: "Arcosoliumlu Kaya Mezarı, Sason | Miras Haritası"
-date: 2025-12-25T13:21:29+03:00
+title: "Arcosoliumlu Kaya Mezarı, Sason"
+date: "2025-12-25T13:21:29+03:00"
 slug: "arcosoliumlu-kaya-mezari-sason"
 description: "# Arcosoliumlu Kaya Mezarı, Sason..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.3127098,38.3161392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Arcosoliumlu Kaya Mezarı, Sason

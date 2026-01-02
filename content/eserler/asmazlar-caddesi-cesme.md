@@ -1,18 +1,17 @@
 ---
-title: "Asmazlar Caddesi Çeşme | Miras Haritası"
-date: 2025-12-25T11:31:26+03:00
+title: "Asmazlar Caddesi Çeşme"
+date: "2025-12-25T11:31:26+03:00"
 slug: "asmazlar-caddesi-cesme"
 description: "## Asmazlar Caddesi Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Asmazlar_Caddesi_Çeşmesi.jpg/1200px-Asmazlar_Caddesi_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6937103,41.2477722"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Asmazlar Caddesi Çeşme

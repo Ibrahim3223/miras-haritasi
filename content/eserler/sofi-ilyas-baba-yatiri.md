@@ -1,18 +1,17 @@
 ---
-title: "Sofi İlyas Baba Yatırı | Miras Haritası"
-date: 2025-12-25T13:28:04+03:00
+title: "Sofi İlyas Baba Yatırı"
+date: "2025-12-25T13:28:04+03:00"
 slug: "sofi-ilyas-baba-yatiri"
 description: "### Sofi İlyas Baba Yatırı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.55805349,41.68243167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sofi İlyas Baba Yatırı

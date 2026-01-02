@@ -1,18 +1,17 @@
 ---
-title: "Cezayirli Gazi Hasan Paşa Çeşmesi, Garipçe | Miras Haritası"
-date: 2025-12-25T12:05:04+03:00
+title: "Cezayirli Gazi Hasan Paşa Çeşmesi, Garipçe"
+date: "2025-12-25T12:05:04+03:00"
 slug: "cezayirli-gazi-hasan-pasa-cesmesi-garipce"
 description: "## Cezayirli Gazi Hasan Paşa Çeşmesi, Garipçe..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1002789,41.2061195"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cezayirli Gazi Hasan Paşa Çeşmesi, Garipçe

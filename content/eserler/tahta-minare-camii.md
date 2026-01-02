@@ -1,18 +1,17 @@
 ---
-title: "Tahta Minare Camii | Miras Haritası"
-date: 2025-12-24T22:04:57+03:00
+title: "Tahta Minare Camii"
+date: "2025-12-24T22:04:57+03:00"
 slug: "tahta-minare-camii"
 description: "## Tahta Minare Camii: Balat'taki Bir Tarihî Eser..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tahta_Minare_Mosque_(2).jpg/1200px-Tahta_Minare_Mosque_(2).jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Balat"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.948423042,41.031714638"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tahta Minare Camii: Balat'taki Bir Tarihî Eser

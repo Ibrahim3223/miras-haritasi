@@ -1,18 +1,17 @@
 ---
-title: "Hacınebi Höyüğü | Miras Haritası"
-date: 2025-12-25T05:46:13+03:00
+title: "Hacınebi Höyüğü"
+date: "2025-12-25T05:46:13+03:00"
 slug: "hacinebi-hoyugu"
 description: "## Hacınebi Höyüğü: Şanlıurfa'nın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Hacinebi1.jpg/1200px-Hacinebi1.jpg"
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.9750263,37.059638"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacınebi Höyüğü: Şanlıurfa'nın Gizli Mirası

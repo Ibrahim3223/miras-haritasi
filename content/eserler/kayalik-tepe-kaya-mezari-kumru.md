@@ -1,18 +1,17 @@
 ---
-title: "Kayalık Tepe Kaya Mezarı, Kumru | Miras Haritası"
-date: 2025-12-25T13:23:29+03:00
+title: "Kayalık Tepe Kaya Mezarı, Kumru"
+date: "2025-12-25T13:23:29+03:00"
 slug: "kayalik-tepe-kaya-mezari-kumru"
 description: "## Kayalık Tepe Kaya Mezarı: Kumru'nun Gizemli Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Kumru"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.27892,40.835854"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kayalık Tepe Kaya Mezarı: Kumru'nun Gizemli Mirası

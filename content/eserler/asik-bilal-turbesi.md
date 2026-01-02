@@ -1,18 +1,17 @@
 ---
-title: "Aşık Bilal Türbesi | Miras Haritası"
-date: 2025-12-25T14:57:02+03:00
+title: "Aşık Bilal Türbesi"
+date: "2025-12-25T14:57:02+03:00"
 slug: "asik-bilal-turbesi"
 description: "### Aşık Bilal Türbesi: Karacasu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.737154,37.7481651"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aşık Bilal Türbesi: Karacasu'nun Tarihî Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Tlos Büyük Hamam | Miras Haritası"
-date: 2025-12-25T17:04:10+03:00
+title: "Tlos Büyük Hamam"
+date: "2025-12-25T17:04:10+03:00"
 slug: "tlos-buyuk-hamam"
 description: "## Tlos Büyük Hamamı: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Seydikemer"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.4199905,36.5520172"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tlos Büyük Hamamı: Muğla'nın Gizli Cenneti

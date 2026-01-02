@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kılıç Camii ve Medresesi | Miras Haritası"
-date: 2025-12-25T17:35:53+03:00
+title: "Hacı Kılıç Camii ve Medresesi"
+date: "2025-12-25T17:35:53+03:00"
 slug: "haci-kilic-camii-ve-medresesi"
 description: "## Hacı Kılıç Camii ve Medresesi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.4846458,38.7266045"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kılıç Camii ve Medresesi: Kayseri'nin Tarihi ve Kültürel Mirası

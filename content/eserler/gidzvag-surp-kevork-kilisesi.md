@@ -1,18 +1,17 @@
 ---
-title: "Gıdzvag Surp Kevork Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:06+03:00
+title: "Gıdzvag Surp Kevork Kilisesi"
+date: "2025-12-25T09:23:06+03:00"
 slug: "gidzvag-surp-kevork-kilisesi"
 description: "## Gıdzvag Surp Kevork Kilisesi..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Tatvan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.3798332,38.5722084"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gıdzvag Surp Kevork Kilisesi

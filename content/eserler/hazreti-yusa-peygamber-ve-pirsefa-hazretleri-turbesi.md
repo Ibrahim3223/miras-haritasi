@@ -1,18 +1,17 @@
 ---
-title: "Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:12+03:00
+title: "Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi"
+date: "2025-12-25T15:13:12+03:00"
 slug: "hazreti-yusa-peygamber-ve-pirsefa-hazretleri-turbesi"
 description: "## Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.387111,37.062256"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi

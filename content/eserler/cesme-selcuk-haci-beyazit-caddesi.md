@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Selçuk, Hacı Beyazıt Caddesi | Miras Haritası"
-date: 2025-12-25T11:57:15+03:00
+title: "Çeşme – Selçuk, Hacı Beyazıt Caddesi"
+date: "2025-12-25T11:57:15+03:00"
 slug: "cesme-selcuk-haci-beyazit-caddesi"
 description: "## Çeşme – Selçuk, Hacı Beyazıt Caddesi: Bergama'nın Tarihi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1776276,39.1229591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Selçuk, Hacı Beyazıt Caddesi: Bergama'nın Tarihi Çeşmesi

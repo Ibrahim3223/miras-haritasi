@@ -1,18 +1,17 @@
 ---
-title: "Melatıos Kalesi | Miras Haritası"
-date: 2025-12-25T01:42:33+03:00
+title: "Melatıos Kalesi"
+date: "2025-12-25T01:42:33+03:00"
 slug: "melatios-kalesi"
 description: "### Melatıos Kalesi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Mesudiye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "37.827931,40.412697"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Melatıos Kalesi

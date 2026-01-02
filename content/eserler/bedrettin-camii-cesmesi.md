@@ -1,18 +1,17 @@
 ---
-title: "Bedrettin Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:54:35+03:00
+title: "Bedrettin Camii Çeşmesi"
+date: "2025-12-25T10:54:35+03:00"
 slug: "bedrettin-camii-cesmesi"
 description: "## Bedrettin Camii Çeşmesi: Bursa'nın Tarihî Eserleri Arasındaki Bir Harikası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0716209,40.1832161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bedrettin Camii Çeşmesi: Bursa'nın Tarihî Eserleri Arasındaki Bir Harikası

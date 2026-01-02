@@ -1,18 +1,17 @@
 ---
-title: "Güneşli Tümülüsleri I-II | Miras Haritası"
-date: 2025-12-25T07:27:06+03:00
+title: "Güneşli Tümülüsleri I-II"
+date: "2025-12-25T07:27:06+03:00"
 slug: "gunesli-tumulusleri-i-ii"
 description: "## Güneşli Tümülüsleri I-II: Akçadağ'ın Gizemi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.7194939,38.429409"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güneşli Tümülüsleri I-II: Akçadağ'ın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Kemalpaşa Camii | Miras Haritası"
-date: 2025-12-24T21:41:00+03:00
+title: "Kemalpaşa Camii"
+date: "2025-12-24T21:41:00+03:00"
 slug: "kemalpasa-camii"
 description: "## Kemalpaşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kemalpasha_mosque.jpg/1200px-Kemalpasha_mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.95527778,41.01166667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kemalpaşa Camii

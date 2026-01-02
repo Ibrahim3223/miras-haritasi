@@ -1,18 +1,17 @@
 ---
-title: "Denizli Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:53:51+03:00
+title: "Denizli Kent Müzesi"
+date: "2025-12-25T03:53:51+03:00"
 slug: "denizli-kent-muzesi"
 description: "## Denizli Kent Müzesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0852623,37.7819061"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Denizli Kent Müzesi

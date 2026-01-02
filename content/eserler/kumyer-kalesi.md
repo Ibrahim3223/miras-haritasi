@@ -1,18 +1,17 @@
 ---
-title: "Kumyer Kalesi | Miras Haritası"
-date: 2025-12-25T01:16:49+03:00
+title: "Kumyer Kalesi"
+date: "2025-12-25T01:16:49+03:00"
 slug: "kumyer-kalesi"
 description: "## Kumyer Kalesi: Tarihçenin Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.3857117,36.689518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumyer Kalesi: Tarihçenin Gizemi

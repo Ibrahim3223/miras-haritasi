@@ -1,18 +1,17 @@
 ---
-title: "Giresun Kalesi | Miras Haritası"
-date: 2025-12-25T01:12:34+03:00
+title: "Giresun Kalesi"
+date: "2025-12-25T01:12:34+03:00"
 slug: "giresun-kalesi"
 description: "### Giresun Kalesi: Tarihî Bir Mirasın İncelenmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GİRESUN_KALESİ.jpg/1200px-GİRESUN_KALESİ.jpg"
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.391831,40.921458"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Giresun Kalesi: Tarihî Bir Mirasın İncelenmesi

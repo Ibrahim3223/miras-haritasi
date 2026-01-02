@@ -1,18 +1,17 @@
 ---
-title: "Kaledibi Köyü Kalesi, Çanakçı | Miras Haritası"
-date: 2025-12-25T01:42:17+03:00
+title: "Kaledibi Köyü Kalesi, Çanakçı"
+date: "2025-12-25T01:42:17+03:00"
 slug: "kaledibi-koyu-kalesi-canakci"
 description: "### Kaledibi Köyü Kalesi: Çanakçı'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Çanakçı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.008044,40.939876"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaledibi Köyü Kalesi: Çanakçı'nın Gizli Kahramanı

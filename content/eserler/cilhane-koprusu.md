@@ -1,18 +1,17 @@
 ---
-title: "Çilhane Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:33+03:00
+title: "Çilhane Köprüsü"
+date: "2025-12-25T02:41:33+03:00"
 slug: "cilhane-koprusu"
 description: "## Çilhane Köprüsü..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Niksar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.9568558,40.5896072"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çilhane Köprüsü

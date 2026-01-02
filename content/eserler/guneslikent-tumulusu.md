@@ -1,18 +1,17 @@
 ---
-title: "Güneşlikent Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:58:27+03:00
+title: "Güneşlikent Tümülüsü"
+date: "2025-12-25T07:58:27+03:00"
 slug: "guneslikent-tumulusu"
 description: "### Güneşlikent Tümülüsü: İzmir'in Gizli Tarihi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8314037,38.137207"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Güneşlikent Tümülüsü: İzmir'in Gizli Tarihi

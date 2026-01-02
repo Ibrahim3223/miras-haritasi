@@ -1,18 +1,17 @@
 ---
-title: "Manavgat Hisar | Miras Haritası"
-date: 2025-12-25T01:23:03+03:00
+title: "Manavgat Hisar"
+date: "2025-12-25T01:23:03+03:00"
 slug: "manavgat-hisar"
 description: "## Manavgat Hisar: Antalya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "31.4466362,36.7783051"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manavgat Hisar: Antalya'nın Tarihi ve Kültürel Mirası

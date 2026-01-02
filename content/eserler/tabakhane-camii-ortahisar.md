@@ -1,18 +1,17 @@
 ---
-title: "Tabakhane Camii (Ortahisar) | Miras Haritası"
-date: 2025-12-25T00:29:13+03:00
+title: "Tabakhane Camii (Ortahisar)"
+date: "2025-12-25T00:29:13+03:00"
 slug: "tabakhane-camii-ortahisar"
 description: "## Tabakhane Camii: Ortahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.7227135,41.0051308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabakhane Camii: Ortahisar'ın Tarihi ve Kültürel Mirası

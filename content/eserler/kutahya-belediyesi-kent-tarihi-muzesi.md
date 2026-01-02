@@ -1,18 +1,17 @@
 ---
-title: "Kütahya Belediyesi Kent Tarihi Müzesi | Miras Haritası"
-date: 2025-12-25T03:54:51+03:00
+title: "Kütahya Belediyesi Kent Tarihi Müzesi"
+date: "2025-12-25T03:54:51+03:00"
 slug: "kutahya-belediyesi-kent-tarihi-muzesi"
 description: "### Kütahya Belediyesi Kent Tarihi Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.978954,39.421706"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kütahya Belediyesi Kent Tarihi Müzesi

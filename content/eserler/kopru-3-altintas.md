@@ -1,18 +1,17 @@
 ---
-title: "Köprü 3, Altıntaş | Miras Haritası"
-date: 2025-12-25T02:46:48+03:00
+title: "Köprü 3, Altıntaş"
+date: "2025-12-25T02:46:48+03:00"
 slug: "kopru-3-altintas"
 description: "## Köprü 3, Altıntaş: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.3207855,37.6096497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köprü 3, Altıntaş: Aydın'ın Tarihi Bir Mirası

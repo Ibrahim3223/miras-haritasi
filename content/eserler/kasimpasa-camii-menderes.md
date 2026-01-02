@@ -1,18 +1,17 @@
 ---
-title: "Kasımpaşa Camii, Menderes | Miras Haritası"
-date: 2025-12-25T00:04:26+03:00
+title: "Kasımpaşa Camii, Menderes"
+date: "2025-12-25T00:04:26+03:00"
 slug: "kasimpasa-camii-menderes"
 description: "## Kasımpaşa Camii: Menderes'teki Büyüleyici Cami..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menderes"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1293163,38.2533035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kasımpaşa Camii: Menderes'teki Büyüleyici Cami

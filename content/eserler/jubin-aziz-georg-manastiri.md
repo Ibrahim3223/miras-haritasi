@@ -1,18 +1,17 @@
 ---
-title: "Jubin Aziz Georg Manastırı | Miras Haritası"
-date: 2025-12-25T09:48:05+03:00
+title: "Jubin Aziz Georg Manastırı"
+date: "2025-12-25T09:48:05+03:00"
 slug: "jubin-aziz-georg-manastiri"
 description: "## Jubin Aziz Georg Manastırı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "36.15,36.2"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Jubin Aziz Georg Manastırı

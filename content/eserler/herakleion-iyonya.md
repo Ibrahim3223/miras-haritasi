@@ -1,18 +1,17 @@
 ---
-title: "Herakleion (İyonya) | Miras Haritası"
-date: 2025-12-25T04:54:21+03:00
+title: "Herakleion (İyonya)"
+date: "2025-12-25T04:54:21+03:00"
 slug: "herakleion-iyonya"
 description: "## Herakleion (İyonya) Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.16195,37.682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Herakleion (İyonya) Arkeolojik Sitesi

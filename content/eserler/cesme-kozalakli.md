@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Kozalaklı | Miras Haritası"
-date: 2025-12-25T13:11:14+03:00
+title: "Çeşme, Kozalaklı"
+date: "2025-12-25T13:11:14+03:00"
 slug: "cesme-kozalakli"
 description: "### Kozalaklı Çeşme: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.9941006,37.7921982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kozalaklı Çeşme: Aydın'ın Tarihi ve Kültürel Mirası

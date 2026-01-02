@@ -1,18 +1,17 @@
 ---
-title: "Şükriye Camii | Miras Haritası"
-date: 2025-12-24T23:11:31+03:00
+title: "Şükriye Camii"
+date: "2025-12-24T23:11:31+03:00"
 slug: "sukriye-camii"
 description: "**Şükriye Camii**..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Hacettepe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8718414,39.9392776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şükriye Camii**

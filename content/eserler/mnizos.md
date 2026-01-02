@@ -1,18 +1,17 @@
 ---
-title: "Mnizos | Miras Haritası"
-date: 2025-12-25T05:11:57+03:00
+title: "Mnizos"
+date: "2025-12-25T05:11:57+03:00"
 slug: "mnizos"
 description: "## Mnizos Arkeolojik Sit..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ayaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.2489715,40.04443"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mnizos Arkeolojik Sit

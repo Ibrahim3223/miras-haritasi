@@ -1,18 +1,17 @@
 ---
-title: "İdyros | Miras Haritası"
-date: 2025-12-25T04:39:08+03:00
+title: "İdyros"
+date: "2025-12-25T04:39:08+03:00"
 slug: "idyros"
 description: "## İdyros: Antik Yunanistan'ın Gizli Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kemer"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.573333333,36.596666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İdyros: Antik Yunanistan'ın Gizli Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Kremaste | Miras Haritası"
-date: 2025-12-25T05:04:06+03:00
+title: "Kremaste"
+date: "2025-12-25T05:04:06+03:00"
 slug: "kremaste"
 description: "## Kremaste: Antik Dönemden Kalan Gizemli Yer..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.529575,40.090314"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kremaste: Antik Dönemden Kalan Gizemli Yer

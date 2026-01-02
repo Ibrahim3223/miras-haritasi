@@ -1,18 +1,17 @@
 ---
-title: "Adil Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:53+03:00
+title: "Adil Bey Türbesi"
+date: "2025-12-25T14:40:53+03:00"
 slug: "adil-bey-turbesi"
 description: "# Adil Bey Türbesi: Kastamonu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.8114967,41.2261772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Adil Bey Türbesi: Kastamonu'nun Tarihî Mirası

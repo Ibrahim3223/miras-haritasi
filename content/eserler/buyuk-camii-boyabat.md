@@ -1,18 +1,17 @@
 ---
-title: "Büyük Camii, Boyabat | Miras Haritası"
-date: 2025-12-24T23:53:07+03:00
+title: "Büyük Camii, Boyabat"
+date: "2025-12-24T23:53:07+03:00"
 slug: "buyuk-camii-boyabat"
 description: "### Büyük Camii, Boyabat..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Boyabat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.7685165,41.466938"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Büyük Camii, Boyabat

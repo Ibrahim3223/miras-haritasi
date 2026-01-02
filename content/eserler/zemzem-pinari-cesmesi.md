@@ -1,18 +1,17 @@
 ---
-title: "Zemzem Pınarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:49:09+03:00
+title: "Zemzem Pınarı Çeşmesi"
+date: "2025-12-25T10:49:09+03:00"
 slug: "zemzem-pinari-cesmesi"
 description: "## Zemzem Pınarı Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.5784988,38.9383011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zemzem Pınarı Çeşmesi

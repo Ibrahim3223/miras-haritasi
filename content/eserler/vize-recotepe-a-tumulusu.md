@@ -1,18 +1,17 @@
 ---
-title: "Vize Recotepe A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:59:59+03:00
+title: "Vize Recotepe A Tümülüsü"
+date: "2025-12-25T07:59:59+03:00"
 slug: "vize-recotepe-a-tumulusu"
 description: "## Vize Recotepe A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.7345848,41.549633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vize Recotepe A Tümülüsü

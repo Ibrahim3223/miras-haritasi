@@ -1,18 +1,17 @@
 ---
-title: "Çayırlık Camii | Miras Haritası"
-date: 2025-12-24T22:30:20+03:00
+title: "Çayırlık Camii"
+date: "2025-12-24T22:30:20+03:00"
 slug: "cayirlik-camii"
 description: "## Çayırlık Camii: Denizli'de Bir Örnek Osmanlı Mimarisinden..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0123711,37.6111755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayırlık Camii: Denizli'de Bir Örnek Osmanlı Mimarisinden

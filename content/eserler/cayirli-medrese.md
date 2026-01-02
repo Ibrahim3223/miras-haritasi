@@ -1,18 +1,17 @@
 ---
-title: "Çayırlı Medrese | Miras Haritası"
-date: 2025-12-25T17:30:38+03:00
+title: "Çayırlı Medrese"
+date: "2025-12-25T17:30:38+03:00"
 slug: "cayirli-medrese"
 description: "## Çayırlı Medrese..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.954065,41.022999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayırlı Medrese

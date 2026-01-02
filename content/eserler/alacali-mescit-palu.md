@@ -1,18 +1,17 @@
 ---
-title: "Alacalı Mescit, Palu | Miras Haritası"
-date: 2025-12-25T01:09:50+03:00
+title: "Alacalı Mescit, Palu"
+date: "2025-12-25T01:09:50+03:00"
 slug: "alacali-mescit-palu"
 description: "## Alacalı Mescit: Palu'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Elazığ"
-iller: ["Elazığ"]
+iller: '["Elazığ"]'
 district: "Palu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.949894,38.7048759"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alacalı Mescit: Palu'da Bir Tarihî Miras

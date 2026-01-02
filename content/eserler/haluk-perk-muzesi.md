@@ -1,18 +1,17 @@
 ---
-title: "Haluk Perk Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:36+03:00
+title: "Haluk Perk Müzesi"
+date: "2025-12-25T04:05:36+03:00"
 slug: "haluk-perk-muzesi"
 description: "## Haluk Perk Müzesi..."
 featured_image: ""
-province: "Avcılar"
-iller: ["Avcılar"]
-district: "Gümüşpala"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Avcılar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.729592404,40.98187306"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Haluk Perk Müzesi

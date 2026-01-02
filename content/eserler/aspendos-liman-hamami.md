@@ -1,18 +1,17 @@
 ---
-title: "Aspendos Liman Hamamı | Miras Haritası"
-date: 2025-12-25T16:57:21+03:00
+title: "Aspendos Liman Hamamı"
+date: "2025-12-25T16:57:21+03:00"
 slug: "aspendos-liman-hamami"
 description: "# Aspendos Liman Hamamı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.1714668,36.9350319"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 # Aspendos Liman Hamamı

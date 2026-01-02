@@ -1,18 +1,17 @@
 ---
-title: "Pelitbüküsecek Camii 2 | Miras Haritası"
-date: 2025-12-24T22:39:44+03:00
+title: "Pelitbüküsecek Camii 2"
+date: "2025-12-24T22:39:44+03:00"
 slug: "pelitbukusecek-camii-2"
 description: "# Pelitbüküsecek Camii 2: Alaçam'ın Gizli Cenneti..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Alaçam"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4818993,41.4042015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Pelitbüküsecek Camii 2: Alaçam'ın Gizli Cenneti

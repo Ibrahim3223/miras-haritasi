@@ -1,18 +1,17 @@
 ---
-title: "Simena Kalesi | Miras Haritası"
-date: 2025-12-25T01:31:23+03:00
+title: "Simena Kalesi"
+date: "2025-12-25T01:31:23+03:00"
 slug: "simena-kalesi"
 description: "## Simena Kalesi: Antik Dönemin Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "29.862084,36.19133"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Simena Kalesi: Antik Dönemin Gizemi

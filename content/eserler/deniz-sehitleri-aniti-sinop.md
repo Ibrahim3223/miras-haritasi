@@ -1,18 +1,17 @@
 ---
-title: "Deniz Şehitleri Anıtı, Sinop | Miras Haritası"
-date: 2025-12-25T15:46:45+03:00
+title: "Deniz Şehitleri Anıtı, Sinop"
+date: "2025-12-25T15:46:45+03:00"
 slug: "deniz-sehitleri-aniti-sinop"
 description: "**Deniz Şehitleri Anıtı: Sinop'un Onuruna**..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Sinop"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1507149,42.027317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Deniz Şehitleri Anıtı: Sinop'un Onuruna**

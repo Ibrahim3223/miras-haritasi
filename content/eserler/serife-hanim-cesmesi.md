@@ -1,18 +1,17 @@
 ---
-title: "Şerife Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:28:45+03:00
+title: "Şerife Hanım Çeşmesi"
+date: "2025-12-25T12:28:45+03:00"
 slug: "serife-hanim-cesmesi"
 description: "### Şerife Hanım Çeşmesi: Ezine'nin Değerli Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.333712269,39.786099612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şerife Hanım Çeşmesi: Ezine'nin Değerli Mirası

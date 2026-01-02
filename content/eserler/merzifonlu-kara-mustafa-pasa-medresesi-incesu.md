@@ -1,18 +1,17 @@
 ---
-title: "Merzifonlu Kara Mustafa Paşa Medresesi İncesu | Miras Haritası"
-date: 2025-12-25T17:34:53+03:00
+title: "Merzifonlu Kara Mustafa Paşa Medresesi İncesu"
+date: "2025-12-25T17:34:53+03:00"
 slug: "merzifonlu-kara-mustafa-pasa-medresesi-incesu"
 description: "## Merzifonlu Kara Mustafa Paşa Medresesi İncesu..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "İncesu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.1802254,38.6231117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Merzifonlu Kara Mustafa Paşa Medresesi İncesu

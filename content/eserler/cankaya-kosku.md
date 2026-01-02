@@ -1,18 +1,17 @@
 ---
-title: "Çankaya Köşkü | Miras Haritası"
-date: 2025-12-25T13:12:55+03:00
+title: "Çankaya Köşkü"
+date: "2025-12-25T13:12:55+03:00"
 slug: "cankaya-kosku"
 description: "## Çankaya Köşkü: Tarihi ve Kültürel Mirasın Parçaları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Turkey._Ankara._Palace_of_Attaturk_(i.e.,_Ataturk)_LOC_matpc.16728_(Colourised).jpg/1200px-Turkey._Ankara._Palace_of_Attaturk_(i.e.,_Ataturk)_LOC_matpc.16728_(Colourised).jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "32.86444444,39.88916667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çankaya Köşkü: Tarihi ve Kültürel Mirasın Parçaları

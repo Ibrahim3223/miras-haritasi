@@ -1,18 +1,17 @@
 ---
-title: "Devduran Camii | Miras Haritası"
-date: 2025-12-24T22:37:11+03:00
+title: "Devduran Camii"
+date: "2025-12-24T22:37:11+03:00"
 slug: "devduran-camii"
 description: "### Devduran Camii: Altındağ'da Bir Ölümsüz..."
 featured_image: ""
 province: "Altındağ"
-iller: ["Altındağ"]
+iller: '["Altındağ"]'
 district: "Kale"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8639679,39.9389839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Devduran Camii: Altındağ'da Bir Ölümsüz

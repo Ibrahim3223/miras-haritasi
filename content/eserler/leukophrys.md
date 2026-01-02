@@ -1,18 +1,17 @@
 ---
-title: "Leukophrys | Miras Haritası"
-date: 2025-12-25T08:29:33+03:00
+title: "Leukophrys"
+date: "2025-12-25T08:29:33+03:00"
 slug: "leukophrys"
 description: "**Leukophrys: Aydın'ın Söke'ndeki Gizemli Arkeolojik Sit**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4969997,37.8384018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Leukophrys: Aydın'ın Söke'ndeki Gizemli Arkeolojik Sit**

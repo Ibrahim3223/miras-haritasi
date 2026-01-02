@@ -1,18 +1,17 @@
 ---
-title: "Sakarya İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:45:35+03:00
+title: "Sakarya İl Halk Kütüphanesi"
+date: "2025-12-25T17:45:35+03:00"
 slug: "sakarya-il-halk-kutuphanesi"
 description: "## Sakarya İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Sakarya"
-iller: ["Sakarya"]
+iller: '["Sakarya"]'
 district: "Adapazarı"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "30.3550254,40.7793607"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sakarya İl Halk Kütüphanesi

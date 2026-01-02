@@ -1,18 +1,17 @@
 ---
-title: "Kılıç Ali Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:05:25+03:00
+title: "Kılıç Ali Paşa Sebili"
+date: "2025-12-25T13:05:25+03:00"
 slug: "kilic-ali-pasa-sebili"
 description: "## Kılıç Ali Paşa Sebili: İstanbul'un Tarihi ve Kültürel Miraslarından Bir Örnek..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9808445,41.026741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılıç Ali Paşa Sebili: İstanbul'un Tarihi ve Kültürel Miraslarından Bir Örnek

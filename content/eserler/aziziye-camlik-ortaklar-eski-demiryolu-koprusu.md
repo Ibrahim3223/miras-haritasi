@@ -1,18 +1,17 @@
 ---
-title: "Aziziye (Çamlık) – Ortaklar Eski Demiryolu Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:32+03:00
+title: "Aziziye (Çamlık) – Ortaklar Eski Demiryolu Köprüsü"
+date: "2025-12-25T02:16:32+03:00"
 slug: "aziziye-camlik-ortaklar-eski-demiryolu-koprusu"
 description: "## Aziziye (Çamlık) – Ortaklar Eski Demiryolu Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.4346848,37.8812485"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziziye (Çamlık) – Ortaklar Eski Demiryolu Köprüsü

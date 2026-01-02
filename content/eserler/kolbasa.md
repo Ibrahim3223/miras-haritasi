@@ -1,18 +1,17 @@
 ---
-title: "Kolbasa | Miras Haritası"
-date: 2025-12-25T05:08:57+03:00
+title: "Kolbasa"
+date: "2025-12-25T05:08:57+03:00"
 slug: "kolbasa"
 description: "## Kolbasa Arkeolojik Sit..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.4107155,37.463255"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kolbasa Arkeolojik Sit

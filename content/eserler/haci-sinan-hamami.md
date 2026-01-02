@@ -1,18 +1,17 @@
 ---
-title: "Hacı Sinan Hamamı | Miras Haritası"
-date: 2025-12-25T16:48:03+03:00
+title: "Hacı Sinan Hamamı"
+date: "2025-12-25T16:48:03+03:00"
 slug: "haci-sinan-hamami"
 description: "### Hacı Sinan Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bayındır"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.6467609,38.2241096"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Sinan Hamamı

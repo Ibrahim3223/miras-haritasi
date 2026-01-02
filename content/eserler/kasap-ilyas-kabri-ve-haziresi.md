@@ -1,18 +1,17 @@
 ---
-title: "Kasap İlyas Kabri ve Haziresi | Miras Haritası"
-date: 2025-12-25T16:07:10+03:00
+title: "Kasap İlyas Kabri ve Haziresi"
+date: "2025-12-25T16:07:10+03:00"
 slug: "kasap-ilyas-kabri-ve-haziresi"
 description: "## Kasap İlyas Kabri ve Haziresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kasap_İlyas_Kabri_ve_Haziresi.jpg/1200px-Kasap_İlyas_Kabri_ve_Haziresi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9438553,41.0037498"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kasap İlyas Kabri ve Haziresi

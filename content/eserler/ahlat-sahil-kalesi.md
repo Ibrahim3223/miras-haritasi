@@ -1,18 +1,17 @@
 ---
-title: "Ahlat Sahil Kalesi | Miras Haritası"
-date: 2025-12-25T01:35:40+03:00
+title: "Ahlat Sahil Kalesi"
+date: "2025-12-25T01:35:40+03:00"
 slug: "ahlat-sahil-kalesi"
 description: "### Ahlat Sahil Kalesi: Bitlis'teki Bir Tarihi Harikadan Haber Vermek..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.474548,38.74151"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahlat Sahil Kalesi: Bitlis'teki Bir Tarihi Harikadan Haber Vermek

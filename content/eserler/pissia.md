@@ -1,18 +1,17 @@
 ---
-title: "Pissia | Miras Haritası"
-date: 2025-12-25T05:14:13+03:00
+title: "Pissia"
+date: "2025-12-25T05:14:13+03:00"
 slug: "pissia"
 description: "## Pissia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.542903,38.25813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pissia Arkeolojik Sit

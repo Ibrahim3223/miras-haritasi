@@ -1,18 +1,17 @@
 ---
-title: "Sadeddin Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:24:38+03:00
+title: "Sadeddin Efendi Çeşmesi"
+date: "2025-12-25T11:24:38+03:00"
 slug: "sadeddin-efendi-cesmesi"
 description: "### Sadeddin Efendi Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8794651,39.6440773"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sadeddin Efendi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Orta Cami, Havran | Miras Haritası"
-date: 2025-12-25T01:10:45+03:00
+title: "Orta Cami, Havran"
+date: "2025-12-25T01:10:45+03:00"
 slug: "orta-cami-havran"
 description: "## Orta Cami, Havran..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Havran"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.0966148,39.556282"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Orta Cami, Havran

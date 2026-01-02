@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hüseyin Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:16:08+03:00
+title: "Hacı Hüseyin Çeşmesi"
+date: "2025-12-25T10:16:08+03:00"
 slug: "haci-huseyin-cesmesi"
 description: "## Hacı Hüseyin Çeşmesi: Giresun'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.396288,40.916931"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hüseyin Çeşmesi: Giresun'un Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Yayladağı Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:27:46+03:00
+title: "Yayladağı Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:27:46+03:00"
 slug: "yayladagi-rum-ortodoks-kilisesi"
 description: "## Yayladağı Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Yayladağı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.0639,35.9037895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yayladağı Rum Ortodoks Kilisesi

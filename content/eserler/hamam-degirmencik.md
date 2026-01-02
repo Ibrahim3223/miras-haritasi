@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Değirmencik | Miras Haritası"
-date: 2025-12-25T17:14:03+03:00
+title: "Hamam, Değirmencik"
+date: "2025-12-25T17:14:03+03:00"
 slug: "hamam-degirmencik"
 description: "## Değirmencik Hamamı: Kırklareli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.2083321,41.6029587"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Değirmencik Hamamı: Kırklareli'nin Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Taşlık Höyük | Miras Haritası"
-date: 2025-12-25T06:21:04+03:00
+title: "Taşlık Höyük"
+date: "2025-12-25T06:21:04+03:00"
 slug: "taslik-hoyuk"
 description: "## Taşlık Höyük: Kırşehir'in Gizemli Yitik Evi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.5534558,39.3337394"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşlık Höyük: Kırşehir'in Gizemli Yitik Evi

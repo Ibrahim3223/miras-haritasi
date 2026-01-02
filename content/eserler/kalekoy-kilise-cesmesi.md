@@ -1,18 +1,17 @@
 ---
-title: "Kaleköy Kilise Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:22:18+03:00
+title: "Kaleköy Kilise Çeşmesi"
+date: "2025-12-25T10:22:18+03:00"
 slug: "kalekoy-kilise-cesmesi"
 description: "## Kaleköy Kilise Çeşmesi: Gökçeada'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "25.8990746,40.2334518"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaleköy Kilise Çeşmesi: Gökçeada'nın Gizli Çeşmesi

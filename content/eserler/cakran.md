@@ -1,18 +1,17 @@
 ---
-title: "Çakran | Miras Haritası"
-date: 2025-12-25T05:52:28+03:00
+title: "Çakran"
+date: "2025-12-25T05:52:28+03:00"
 slug: "cakran"
 description: "### Çakran Arkeolojik Sitesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Aliağa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.066783,38.881033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çakran Arkeolojik Sitesi

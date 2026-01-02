@@ -1,18 +1,17 @@
 ---
-title: "Merkez Camii (Alaplı) | Miras Haritası"
-date: 2025-12-24T23:51:57+03:00
+title: "Merkez Camii (Alaplı)"
+date: "2025-12-24T23:51:57+03:00"
 slug: "merkez-camii-alapli"
 description: "### Merkez Camii (Alaplı)..."
 featured_image: ""
 province: "Zonguldak"
-iller: ["Zonguldak"]
+iller: '["Zonguldak"]'
 district: "Alaplı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.3869534,41.1804123"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Merkez Camii (Alaplı)

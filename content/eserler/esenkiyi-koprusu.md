@@ -1,18 +1,17 @@
 ---
-title: "Esenkıyı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:05:44+03:00
+title: "Esenkıyı Köprüsü"
+date: "2025-12-25T02:05:44+03:00"
 slug: "esenkiyi-koprusu"
 description: "## Esenkıyı Köprüsü..."
 featured_image: ""
 province: "Hopa"
-iller: ["Hopa"]
+iller: '["Hopa"]'
 district: "Esenkıyı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.459888888,41.438222222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esenkıyı Köprüsü

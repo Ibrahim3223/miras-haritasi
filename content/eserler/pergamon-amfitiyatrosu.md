@@ -1,18 +1,17 @@
 ---
-title: "Pergamon Amfitiyatrosu | Miras Haritası"
-date: 2025-12-25T08:22:52+03:00
+title: "Pergamon Amfitiyatrosu"
+date: "2025-12-25T08:22:52+03:00"
 slug: "pergamon-amfitiyatrosu"
 description: "**Pergamon Amfitiyatrosu: Tarih, Kültür ve Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_remains_of_Roman_amphitheatre_(view_from_the_Acropolis),_Pergamon_(7107158993).jpg/1200px-The_remains_of_Roman_amphitheatre_(view_from_the_Acropolis),_Pergamon_(7107158993).jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.174,39.126"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Pergamon Amfitiyatrosu: Tarih, Kültür ve Miras**

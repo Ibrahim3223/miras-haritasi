@@ -1,18 +1,17 @@
 ---
-title: "Manganes Aziz Georgios Manastırı | Miras Haritası"
-date: 2025-12-25T09:47:46+03:00
+title: "Manganes Aziz Georgios Manastırı"
+date: "2025-12-25T09:47:46+03:00"
 slug: "manganes-aziz-georgios-manastiri"
 description: "## Manganes Aziz Georgios Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "28.986332,41.011812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Manganes Aziz Georgios Manastırı

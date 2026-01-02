@@ -1,18 +1,17 @@
 ---
-title: "Anemurium Merkez Hamamı | Miras Haritası"
-date: 2025-12-25T17:03:20+03:00
+title: "Anemurium Merkez Hamamı"
+date: "2025-12-25T17:03:20+03:00"
 slug: "anemurium-merkez-hamami"
 description: "## Anemurium Merkez Hamamı: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Anamur"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.8030739,36.0235901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Anemurium Merkez Hamamı: Türkiye'nin Tarihi ve Kültürel Mirası

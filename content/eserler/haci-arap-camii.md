@@ -1,18 +1,17 @@
 ---
-title: "Hacı Arap Camii | Miras Haritası"
-date: 2025-12-24T23:26:32+03:00
+title: "Hacı Arap Camii"
+date: "2025-12-24T23:26:32+03:00"
 slug: "haci-arap-camii"
 description: "## Hacı Arap Camii: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6047001,37.7238007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Arap Camii: Aydın'ın Tarihi ve Kültürel Mirası

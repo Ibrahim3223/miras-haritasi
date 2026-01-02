@@ -1,18 +1,17 @@
 ---
-title: "Norşuntepe Höyüğü | Miras Haritası"
-date: 2025-12-25T05:47:30+03:00
+title: "Norşuntepe Höyüğü"
+date: "2025-12-25T05:47:30+03:00"
 slug: "norsuntepe-hoyugu"
 description: "# Norşuntepe Höyüğü: Elazığ'ın Gizli Tarihî Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Elazığ"
+province: "Elazığ"
+iller: '["Elazığ"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.47,38.61888889"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Norşuntepe Höyüğü: Elazığ'ın Gizli Tarihî Mirası

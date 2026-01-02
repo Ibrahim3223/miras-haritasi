@@ -1,18 +1,17 @@
 ---
-title: "Müfide İlhan Anıtı | Miras Haritası"
-date: 2025-12-25T15:51:09+03:00
+title: "Müfide İlhan Anıtı"
+date: "2025-12-25T15:51:09+03:00"
 slug: "mufide-ilhan-aniti"
 description: "## Müfide İlhan Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Yenişehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.6100464,36.7816963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Müfide İlhan Anıtı

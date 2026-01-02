@@ -1,18 +1,17 @@
 ---
-title: "Salarlı Büyükhöyük Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:54+03:00
+title: "Salarlı Büyükhöyük Tümülüsü"
+date: "2025-12-25T08:03:54+03:00"
 slug: "salarli-buyukhoyuk-tumulusu"
 description: "## Salarlı Büyükhöyük Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.6363239,41.2360458"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salarlı Büyükhöyük Tümülüsü

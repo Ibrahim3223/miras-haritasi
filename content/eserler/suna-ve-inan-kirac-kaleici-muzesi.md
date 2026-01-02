@@ -1,18 +1,17 @@
 ---
-title: "Suna ve İnan Kıraç Kaleiçi Müzesi | Miras Haritası"
-date: 2025-12-25T03:59:27+03:00
+title: "Suna ve İnan Kıraç Kaleiçi Müzesi"
+date: "2025-12-25T03:59:27+03:00"
 slug: "suna-ve-inan-kirac-kaleici-muzesi"
 description: "# Suna ve İnan Kıraç Kaleiçi Müzesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.707515,36.884171"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Suna ve İnan Kıraç Kaleiçi Müzesi

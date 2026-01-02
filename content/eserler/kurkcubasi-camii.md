@@ -1,18 +1,17 @@
 ---
-title: "Kürkçübaşı Camii | Miras Haritası"
-date: 2025-12-24T22:17:54+03:00
+title: "Kürkçübaşı Camii"
+date: "2025-12-24T22:17:54+03:00"
 slug: "kurkcubasi-camii"
 description: "### Kürkçübaşı Camii: Tarihi ve Miras Değerleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kürkçübaşı_Camii,_Cerrahpaşa.jpg/1200px-Kürkçübaşı_Camii,_Cerrahpaşa.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cerrahpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9455967,41.0071907"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kürkçübaşı Camii: Tarihi ve Miras Değerleri

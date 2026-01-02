@@ -1,18 +1,17 @@
 ---
-title: "Stephane | Miras Haritası"
-date: 2025-12-25T05:00:09+03:00
+title: "Stephane"
+date: "2025-12-25T05:00:09+03:00"
 slug: "stephane"
 description: "## Stephane Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.539625,41.9522875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Stephane Arkeolojik Sit

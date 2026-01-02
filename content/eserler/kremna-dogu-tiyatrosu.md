@@ -1,18 +1,17 @@
 ---
-title: "Kremna Doğu Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:24:05+03:00
+title: "Kremna Doğu Tiyatrosu"
+date: "2025-12-25T08:24:05+03:00"
 slug: "kremna-dogu-tiyatrosu"
 description: "## Kremna Doğu Tiyatrosu..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.69408,37.498566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kremna Doğu Tiyatrosu

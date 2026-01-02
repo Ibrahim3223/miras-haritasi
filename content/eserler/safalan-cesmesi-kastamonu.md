@@ -1,18 +1,17 @@
 ---
-title: "Safalan Çeşmesi, Kastamonu | Miras Haritası"
-date: 2025-12-25T12:18:50+03:00
+title: "Safalan Çeşmesi, Kastamonu"
+date: "2025-12-25T12:18:50+03:00"
 slug: "safalan-cesmesi-kastamonu"
 description: "## Safalan Çeşmesi, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.782260839,41.384118511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Safalan Çeşmesi, Kastamonu

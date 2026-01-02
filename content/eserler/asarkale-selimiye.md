@@ -1,18 +1,17 @@
 ---
-title: "Asarkale, Selimiye | Miras Haritası"
-date: 2025-12-25T01:21:17+03:00
+title: "Asarkale, Selimiye"
+date: "2025-12-25T01:21:17+03:00"
 slug: "asarkale-selimiye"
 description: "### Asarkale, Selimiye: Marmaris'in Tarihi Bir Ören Yeri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.1372623,36.7028542"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Asarkale, Selimiye: Marmaris'in Tarihi Bir Ören Yeri

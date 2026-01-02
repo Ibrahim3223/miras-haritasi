@@ -1,18 +1,17 @@
 ---
-title: "Keykubadiye Sarayı | Miras Haritası"
-date: 2025-12-25T13:12:47+03:00
+title: "Keykubadiye Sarayı"
+date: "2025-12-25T13:12:47+03:00"
 slug: "keykubadiye-sarayi"
 description: "**Keykubadiye Sarayı**..."
 featured_image: ""
 province: "Kocasinan"
-iller: ["Kocasinan"]
+iller: '["Kocasinan"]'
 district: "Şeker"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "35.423722222,38.757888888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Keykubadiye Sarayı**

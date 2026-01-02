@@ -1,18 +1,17 @@
 ---
-title: "Anne Müzesi | Miras Haritası"
-date: 2025-12-25T04:02:55+03:00
+title: "Anne Müzesi"
+date: "2025-12-25T04:02:55+03:00"
 slug: "anne-muzesi"
 description: "**Anne Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Anne_Heykeli.jpg/1200px-Anne_Heykeli.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.871355,39.936043"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Anne Müzesi**

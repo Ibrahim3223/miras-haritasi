@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Hisarbeyli | Miras Haritası"
-date: 2025-12-25T13:09:57+03:00
+title: "Çeşme, Hisarbeyli"
+date: "2025-12-25T13:09:57+03:00"
 slug: "cesme-hisarbeyli"
 description: "### Çeşme, Hisarbeyli..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Çatalca"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.4731178,41.3671227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme, Hisarbeyli

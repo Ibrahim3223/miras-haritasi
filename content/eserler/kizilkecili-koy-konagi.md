@@ -1,18 +1,17 @@
 ---
-title: "Kızılkeçili Köy Konağı | Miras Haritası"
-date: 2025-12-25T17:51:17+03:00
+title: "Kızılkeçili Köy Konağı"
+date: "2025-12-25T17:51:17+03:00"
 slug: "kizilkecili-koy-konagi"
 description: "## Kızılkeçili Köy Konağı: Edremit'in Gizli Canlısı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "26.9208755,39.6159058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılkeçili Köy Konağı: Edremit'in Gizli Canlısı

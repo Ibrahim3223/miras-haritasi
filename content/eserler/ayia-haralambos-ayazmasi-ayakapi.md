@@ -1,18 +1,17 @@
 ---
-title: "Ayia Haralambos Ayazması, Ayakapı | Miras Haritası"
-date: 2025-12-25T12:44:29+03:00
+title: "Ayia Haralambos Ayazması, Ayakapı"
+date: "2025-12-25T12:44:29+03:00"
 slug: "ayia-haralambos-ayazmasi-ayakapi"
 description: "**Ayia Haralambos Ayazması, Ayakapı: İstanbul'un Gizli Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9568405,41.0275078"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ayia Haralambos Ayazması, Ayakapı: İstanbul'un Gizli Çeşmesi**

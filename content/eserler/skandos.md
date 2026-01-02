@@ -1,18 +1,17 @@
 ---
-title: "Skandos | Miras Haritası"
-date: 2025-12-25T05:12:29+03:00
+title: "Skandos"
+date: "2025-12-25T05:12:29+03:00"
 slug: "skandos"
 description: "## Skandos: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.400559,38.730968"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Skandos: Tarihî Bir Arkeolojik Sit

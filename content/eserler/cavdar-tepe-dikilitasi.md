@@ -1,18 +1,17 @@
 ---
-title: "Çavdar Tepe Dikilitaşı | Miras Haritası"
-date: 2025-12-25T14:05:23+03:00
+title: "Çavdar Tepe Dikilitaşı"
+date: "2025-12-25T14:05:23+03:00"
 slug: "cavdar-tepe-dikilitasi"
 description: "## Çavdar Tepe Dikilitaşı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.7596817,41.2021294"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavdar Tepe Dikilitaşı

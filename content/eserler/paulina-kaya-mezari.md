@@ -1,18 +1,17 @@
 ---
-title: "Paulina Kaya Mezarı | Miras Haritası"
-date: 2025-12-25T13:21:37+03:00
+title: "Paulina Kaya Mezarı"
+date: "2025-12-25T13:21:37+03:00"
 slug: "paulina-kaya-mezari"
 description: "### Gölpazarı'nın Gizli Cenneti: Paulina Kaya Mezarı..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Gölpazarı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.2238331,40.1940002"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gölpazarı'nın Gizli Cenneti: Paulina Kaya Mezarı

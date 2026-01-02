@@ -1,18 +1,17 @@
 ---
-title: "Pessinus Açık Hava Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:28+03:00
+title: "Pessinus Açık Hava Müzesi"
+date: "2025-12-25T03:58:28+03:00"
 slug: "pessinus-acik-hava-muzesi"
 description: "## Pessinus Açık Hava Müzesi: Eskişehir'in Gizli Çiçeği..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Sivrihisar"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.583799,39.333382"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pessinus Açık Hava Müzesi: Eskişehir'in Gizli Çiçeği

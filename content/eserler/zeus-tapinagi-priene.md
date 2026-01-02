@@ -1,18 +1,17 @@
 ---
-title: "Zeus Tapınağı (Priene) | Miras Haritası"
-date: 2025-12-25T08:12:55+03:00
+title: "Zeus Tapınağı (Priene)"
+date: "2025-12-25T08:12:55+03:00"
 slug: "zeus-tapinagi-priene"
 description: "### Zeus Tapınağı (Priene)..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.298055555,37.658611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Zeus Tapınağı (Priene)

@@ -1,18 +1,17 @@
 ---
-title: "Çağlayan Kasrı | Miras Haritası"
-date: 2025-12-25T13:13:11+03:00
+title: "Çağlayan Kasrı"
+date: "2025-12-25T13:13:11+03:00"
 slug: "caglayan-kasri"
 description: "### Çağlayan Kasrı..."
 featured_image: ""
-province: "Kağıthane"
-iller: ["Kağıthane"]
-district: "Merkez"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kağıthane"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.963722222,41.071583333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çağlayan Kasrı

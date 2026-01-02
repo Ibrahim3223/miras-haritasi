@@ -1,18 +1,17 @@
 ---
-title: "Kavaklı Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:42:53+03:00
+title: "Kavaklı Köyü Camii"
+date: "2025-12-24T23:42:53+03:00"
 slug: "kavakli-koyu-camii"
 description: "### Kavaklı Köyü Camii: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.143465,37.9283638"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kavaklı Köyü Camii: Aydın'ın Gizli Çeşmesi

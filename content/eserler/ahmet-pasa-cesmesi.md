@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:20:20+03:00
+title: "Ahmet Paşa Çeşmesi"
+date: "2025-12-25T12:20:20+03:00"
 slug: "ahmet-pasa-cesmesi"
 description: "## Ahmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9511719,41.009922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Paşa Çeşmesi

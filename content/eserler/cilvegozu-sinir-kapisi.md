@@ -1,18 +1,17 @@
 ---
-title: "Cilvegözü Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:36:11+03:00
+title: "Cilvegözü Sınır Kapısı"
+date: "2025-12-25T08:36:11+03:00"
 slug: "cilvegozu-sinir-kapisi"
 description: "## Cilvegözü Sınır Kapısı: Hatay'ın Gizli Çandırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cilvegözü_Sınır_Kapısı.jpg/1200px-Cilvegözü_Sınır_Kapısı.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Hatay"
+province: "Hatay"
+iller: '["Hatay"]'
+district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "36.67971,36.23383"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cilvegözü Sınır Kapısı: Hatay'ın Gizli Çandırı

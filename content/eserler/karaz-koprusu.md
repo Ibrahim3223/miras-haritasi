@@ -1,18 +1,17 @@
 ---
-title: "Karaz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:26:56+03:00
+title: "Karaz Köprüsü"
+date: "2025-12-25T02:26:56+03:00"
 slug: "karaz-koprusu"
 description: "# Karaz Köprüsü: Aziziye'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Aziziye"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.14761,39.967991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karaz Köprüsü: Aziziye'nin Tarihi Bir Mirası

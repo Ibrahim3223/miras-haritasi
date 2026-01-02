@@ -1,18 +1,17 @@
 ---
-title: "Harbiye Mektebi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:57+03:00
+title: "Harbiye Mektebi Çeşmesi"
+date: "2025-12-25T11:50:57+03:00"
 slug: "harbiye-mektebi-cesmesi"
 description: "## Harbiye Mektebi Çeşmesi: Şişli'nin Gizli Çeşmesi..."
 featured_image: ""
-province: "Şişli"
-iller: ["Şişli"]
-district: "Halaskargazi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Şişli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9880123,41.0477371"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Harbiye Mektebi Çeşmesi: Şişli'nin Gizli Çeşmesi

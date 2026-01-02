@@ -1,18 +1,17 @@
 ---
-title: "Yündalan Büyük Koçara Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:47:30+03:00
+title: "Yündalan Büyük Koçara Tümülüsü"
+date: "2025-12-25T07:47:30+03:00"
 slug: "yundalan-buyuk-kocara-tumulusu"
 description: "## Yündalan Büyük Koçara Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3455124,41.7599983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yündalan Büyük Koçara Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Kılıç Ali Sokak Çeşmesi, Bergama | Miras Haritası"
-date: 2025-12-25T12:44:46+03:00
+title: "Kılıç Ali Sokak Çeşmesi, Bergama"
+date: "2025-12-25T12:44:46+03:00"
 slug: "kilic-ali-sokak-cesmesi-bergama"
 description: "## Kılıç Ali Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1849003,39.1231003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kılıç Ali Sokak Çeşmesi, Bergama

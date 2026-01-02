@@ -1,18 +1,17 @@
 ---
-title: "1071'den 15 Temmuz'a Destanlar Müzesi | Miras Haritası"
-date: 2025-12-25T03:31:25+03:00
+title: "1071'den 15 Temmuz'a Destanlar Müzesi"
+date: "2025-12-25T03:31:25+03:00"
 slug: "1071den-15-temmuza-destanlar-muzesi"
 description: "## 1071'den 15 Temmuz'a Destanlar Müzesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Samsun"
+province: "Samsun"
+iller: '["Samsun"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## 1071'den 15 Temmuz'a Destanlar Müzesi

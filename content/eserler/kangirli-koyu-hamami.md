@@ -1,18 +1,17 @@
 ---
-title: "Kangırlı Köyü Hamamı | Miras Haritası"
-date: 2025-12-25T17:13:40+03:00
+title: "Kangırlı Köyü Hamamı"
+date: "2025-12-25T17:13:40+03:00"
 slug: "kangirli-koyu-hamami"
 description: "### Kangırlı Köyü Hamamı: Lapseki'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Lapseki"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.5792694,40.2302666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kangırlı Köyü Hamamı: Lapseki'nin Tarihi Bir Mirası

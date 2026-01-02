@@ -1,18 +1,17 @@
 ---
-title: "Tiryakioğlu Camii | Miras Haritası"
-date: 2025-12-24T23:15:19+03:00
+title: "Tiryakioğlu Camii"
+date: "2025-12-24T23:15:19+03:00"
 slug: "tiryakioglu-camii"
 description: "## Tiryakioğlu Camii..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Ayvacık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.5597992,40.9536018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tiryakioğlu Camii

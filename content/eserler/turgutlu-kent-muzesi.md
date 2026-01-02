@@ -1,18 +1,17 @@
 ---
-title: "Turgutlu Kent Müzesi | Miras Haritası"
-date: 2025-12-25T03:49:49+03:00
+title: "Turgutlu Kent Müzesi"
+date: "2025-12-25T03:49:49+03:00"
 slug: "turgutlu-kent-muzesi"
 description: "## Turgutlu Kent Müzesi: Manisa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.7101593,38.5021095"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turgutlu Kent Müzesi: Manisa'nın Gizli Cenneti

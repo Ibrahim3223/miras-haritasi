@@ -1,18 +1,17 @@
 ---
-title: "Medet Höyük | Miras Haritası"
-date: 2025-12-25T05:48:43+03:00
+title: "Medet Höyük"
+date: "2025-12-25T05:48:43+03:00"
 slug: "medet-hoyuk"
 description: "## Medet Höyük: Tavas'ın Gizli İncisi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.014967,37.5102"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Medet Höyük: Tavas'ın Gizli İncisi

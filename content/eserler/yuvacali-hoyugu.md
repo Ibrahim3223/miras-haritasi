@@ -1,18 +1,17 @@
 ---
-title: "Yuvacalı Höyüğü | Miras Haritası"
-date: 2025-12-25T06:39:23+03:00
+title: "Yuvacalı Höyüğü"
+date: "2025-12-25T06:39:23+03:00"
 slug: "yuvacali-hoyugu"
 description: "**Yuvacalı Höyüğü**..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Hilvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.0145,37.5560245"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yuvacalı Höyüğü**

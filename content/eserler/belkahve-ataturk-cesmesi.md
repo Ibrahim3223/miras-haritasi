@@ -1,18 +1,17 @@
 ---
-title: "Belkahve Atatürk Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:11:07+03:00
+title: "Belkahve Atatürk Çeşmesi"
+date: "2025-12-25T13:11:07+03:00"
 slug: "belkahve-ataturk-cesmesi"
 description: "## Belkahve Atatürk Çeşmesi: Bornova, İzmir'in Tarihî Bir Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bornova"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.3179321,38.4537964"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Belkahve Atatürk Çeşmesi: Bornova, İzmir'in Tarihî Bir Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Eski Bayır Köprüsü | Miras Haritası"
-date: 2025-12-25T02:20:19+03:00
+title: "Eski Bayır Köprüsü"
+date: "2025-12-25T02:20:19+03:00"
 slug: "eski-bayir-koprusu"
 description: "## Eski Bayır Köprüsü: Muğla'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.2631874,37.2695732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eski Bayır Köprüsü: Muğla'nın Gizli Kahramanı

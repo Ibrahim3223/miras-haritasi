@@ -1,18 +1,17 @@
 ---
-title: "Kumkeçi Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:07+03:00
+title: "Kumkeçi Kalesi"
+date: "2025-12-25T01:32:07+03:00"
 slug: "kumkeci-kalesi"
 description: "## Kumkeçi Kalesi: Balâ'da Tarih ve Kültür..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Balâ"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "33.50358,39.288509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumkeçi Kalesi: Balâ'da Tarih ve Kültür

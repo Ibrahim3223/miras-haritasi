@@ -1,18 +1,17 @@
 ---
-title: "İmamköy Kaplıcası | Miras Haritası"
-date: 2025-12-25T16:58:55+03:00
+title: "İmamköy Kaplıcası"
+date: "2025-12-25T16:58:55+03:00"
 slug: "imamkoy-kaplicasi"
 description: "### İmamköy Kaplıcası: Aydın'ın Tarihi Bir Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.9079952,37.8804474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İmamköy Kaplıcası: Aydın'ın Tarihi Bir Hamamı

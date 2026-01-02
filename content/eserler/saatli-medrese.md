@@ -1,18 +1,17 @@
 ---
-title: "Saatli Medrese | Miras Haritası"
-date: 2025-12-25T17:36:35+03:00
+title: "Saatli Medrese"
+date: "2025-12-25T17:36:35+03:00"
 slug: "saatli-medrese"
 description: "## Edirne'nin Gizli Çehresinde: Saatli Medrese..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Saatli_Medrese.jpg/1200px-Saatli_Medrese.jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "26.5539227,41.6784554"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Edirne'nin Gizli Çehresinde: Saatli Medrese

@@ -1,18 +1,17 @@
 ---
-title: "Behram Çavuş Camii | Miras Haritası"
-date: 2025-12-24T22:46:54+03:00
+title: "Behram Çavuş Camii"
+date: "2025-12-24T22:46:54+03:00"
 slug: "behram-cavus-camii"
 description: "## Behram Çavuş Camii..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Şehsuvar Bey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.966814,41.004317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Behram Çavuş Camii

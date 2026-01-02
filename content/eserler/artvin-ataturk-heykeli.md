@@ -1,18 +1,17 @@
 ---
-title: "Artvin Atatürk Heykeli | Miras Haritası"
-date: 2025-12-25T15:43:01+03:00
+title: "Artvin Atatürk Heykeli"
+date: "2025-12-25T15:43:01+03:00"
 slug: "artvin-ataturk-heykeli"
 description: "## Artvin Atatürk Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Atatürk_Monument_in_Artvin_as_seen_from_a_distance.jpg/1200px-Atatürk_Monument_in_Artvin_as_seen_from_a_distance.jpg"
-province: "Kutaisi Guberniyası"
-iller: ["Kutaisi Guberniyası"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: "Kutaisi Guberniyası"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.829055555,41.170833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Artvin Atatürk Heykeli

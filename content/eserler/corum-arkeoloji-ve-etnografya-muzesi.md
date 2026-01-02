@@ -1,18 +1,17 @@
 ---
-title: "Çorum Arkeoloji ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:51:27+03:00
+title: "Çorum Arkeoloji ve Etnografya Müzesi"
+date: "2025-12-25T03:51:27+03:00"
 slug: "corum-arkeoloji-ve-etnografya-muzesi"
 description: "### Çorum Arkeoloji ve Etnografya Müzesi: Türkiye'nin Kültürel Mirasının Başucu Alanlarından biri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.951126,40.542519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çorum Arkeoloji ve Etnografya Müzesi: Türkiye'nin Kültürel Mirasının Başucu Alanlarından biri

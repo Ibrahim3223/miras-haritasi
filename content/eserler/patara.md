@@ -1,18 +1,17 @@
 ---
-title: "Patara | Miras Haritası"
-date: 2025-12-25T04:18:24+03:00
+title: "Patara"
+date: "2025-12-25T04:18:24+03:00"
 slug: "patara"
 description: "### Patara: Antik Kentin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Patara_ruins.jpg/1200px-Patara_ruins.jpg"
 province: "Kaş ilçesi"
-iller: ["Kaş ilçesi"]
+iller: '["Kaş ilçesi"]'
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.314167,36.260278"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Patara: Antik Kentin Gizemi

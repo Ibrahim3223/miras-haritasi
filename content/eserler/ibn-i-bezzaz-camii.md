@@ -1,18 +1,17 @@
 ---
-title: "İbn-i Bezzaz Camii | Miras Haritası"
-date: 2025-12-24T23:36:13+03:00
+title: "İbn-i Bezzaz Camii"
+date: "2025-12-24T23:36:13+03:00"
 slug: "ibn-i-bezzaz-camii"
 description: "## İbn-i Bezzaz Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/YILDIRIM,BURSA,İBNİ,BEZZAZ,CAMİİ_-_panoramio.jpg/1200px-YILDIRIM,BURSA,İBNİ,BEZZAZ,CAMİİ_-_panoramio.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0791798,40.1835442"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İbn-i Bezzaz Camii

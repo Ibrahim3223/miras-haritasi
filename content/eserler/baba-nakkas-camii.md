@@ -1,18 +1,17 @@
 ---
-title: "Baba Nakkaş Camii | Miras Haritası"
-date: 2025-12-24T22:48:03+03:00
+title: "Baba Nakkaş Camii"
+date: "2025-12-24T22:48:03+03:00"
 slug: "baba-nakkas-camii"
 description: "**Baba Nakkaş Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Baba_Nakkaş_Camii_IMG_1441.jpg/1200px-Baba_Nakkaş_Camii_IMG_1441.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.5553761,41.1882248"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Baba Nakkaş Camii**

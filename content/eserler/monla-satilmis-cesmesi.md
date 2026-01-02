@@ -1,18 +1,17 @@
 ---
-title: "Monla Satılmış Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:27+03:00
+title: "Monla Satılmış Çeşmesi"
+date: "2025-12-25T10:28:27+03:00"
 slug: "monla-satilmis-cesmesi"
 description: "## Monla Satılmış Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Sincan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4860229,40.0474129"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Monla Satılmış Çeşmesi

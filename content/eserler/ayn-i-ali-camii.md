@@ -1,18 +1,17 @@
 ---
-title: "Ayn-i Ali Camii | Miras Haritası"
-date: 2025-12-24T22:11:24+03:00
+title: "Ayn-i Ali Camii"
+date: "2025-12-24T22:11:24+03:00"
 slug: "ayn-i-ali-camii"
 description: "## Ayn-ı Ali Camii: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.4212303,38.6126671"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayn-ı Ali Camii: Manisa'nın Tarihi ve Kültürel Mirası

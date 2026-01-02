@@ -1,18 +1,17 @@
 ---
-title: "Bodrumi Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:48+03:00
+title: "Bodrumi Camii Çeşmesi"
+date: "2025-12-25T11:16:48+03:00"
 slug: "bodrumi-camii-cesmesi"
 description: "## Bodrumi Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.067816,41.011834"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bodrumi Camii Çeşmesi

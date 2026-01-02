@@ -1,18 +1,17 @@
 ---
-title: "Arif Hikmet Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:57:23+03:00
+title: "Arif Hikmet Kütüphanesi"
+date: "2025-12-25T17:57:23+03:00"
 slug: "arif-hikmet-kutuphanesi"
 description: "## Arif Hikmet Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arif Hikmet Kütüphanesi

@@ -1,18 +1,17 @@
 ---
-title: "Kilise 2 | Miras Haritası"
-date: 2025-12-25T09:45:20+03:00
+title: "Kilise 2"
+date: "2025-12-25T09:45:20+03:00"
 slug: "kilise-2"
 description: "### Kilise 2: Enez'in Gizemi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Enez"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.0813313,40.725975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kilise 2: Enez'in Gizemi

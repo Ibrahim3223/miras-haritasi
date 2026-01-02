@@ -1,18 +1,17 @@
 ---
-title: "İlter Uzel Tıp ve Diş Hekimliği Müzesi | Miras Haritası"
-date: 2025-12-25T04:00:08+03:00
+title: "İlter Uzel Tıp ve Diş Hekimliği Müzesi"
+date: "2025-12-25T04:00:08+03:00"
 slug: "ilter-uzel-tip-ve-dis-hekimligi-muzesi"
 description: "## İlter Uzel Tıp ve Diş Hekimliği Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ilter_UZEL_Museum_of_Medicine_and_Dentistry_3.jpg/1200px-Ilter_UZEL_Museum_of_Medicine_and_Dentistry_3.jpg"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.331910404,36.983666142"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İlter Uzel Tıp ve Diş Hekimliği Müzesi

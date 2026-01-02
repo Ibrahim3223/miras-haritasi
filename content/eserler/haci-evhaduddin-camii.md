@@ -1,18 +1,17 @@
 ---
-title: "Hacı Evhadüddin Camii | Miras Haritası"
-date: 2025-12-24T22:03:36+03:00
+title: "Hacı Evhadüddin Camii"
+date: "2025-12-24T22:03:36+03:00"
 slug: "haci-evhaduddin-camii"
 description: "## Hacı Evhadüddin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Istanbul_Hacı_Evhadüddin_mosque_exterior_in_2015_0761.jpg/1200px-Istanbul_Hacı_Evhadüddin_mosque_exterior_in_2015_0761.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yedikule"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.923861111,40.996694444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Evhadüddin Camii

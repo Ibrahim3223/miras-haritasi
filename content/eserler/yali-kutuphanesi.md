@@ -1,18 +1,17 @@
 ---
-title: "Yalı Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:50:54+03:00
+title: "Yalı Kütüphanesi"
+date: "2025-12-25T17:50:54+03:00"
 slug: "yali-kutuphanesi"
 description: "## Yalı Kütüphanesi: Beykoz'un Gizli Çehresinde Bir Büyülü Kütüphane..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.093140906,41.130707529"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yalı Kütüphanesi: Beykoz'un Gizli Çehresinde Bir Büyülü Kütüphane

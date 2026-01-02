@@ -1,18 +1,17 @@
 ---
-title: "Gerga | Miras Haritası"
-date: 2025-12-25T05:04:52+03:00
+title: "Gerga"
+date: "2025-12-25T05:04:52+03:00"
 slug: "gerga"
 description: "### Gerga: Aydın'ın Gizli Çarpıntısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gergas.jpg/1200px-Gergas.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.1481545,37.5185756"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Gerga: Aydın'ın Gizli Çarpıntısı

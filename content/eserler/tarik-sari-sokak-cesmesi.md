@@ -1,18 +1,17 @@
 ---
-title: "Tarık Sarı Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:56:08+03:00
+title: "Tarık Sarı Sokak Çeşmesi"
+date: "2025-12-25T12:56:08+03:00"
 slug: "tarik-sari-sokak-cesmesi"
 description: "## Tarık Sarı Sokak Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1405239,38.4183693"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarık Sarı Sokak Çeşmesi

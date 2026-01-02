@@ -1,18 +1,17 @@
 ---
-title: "Mar Circos Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:44:19+03:00
+title: "Mar Circos Ortodoks Kilisesi"
+date: "2025-12-25T09:44:19+03:00"
 slug: "mar-circos-ortodoks-kilisesi"
 description: "## Mar Circos Ortodoks Kilisesi..."
 featured_image: ""
 province: "İskenderun Sancağı"
-iller: ["İskenderun Sancağı"]
+iller: '["İskenderun Sancağı"]'
 district: "İskenderun"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.165844,36.5800934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mar Circos Ortodoks Kilisesi

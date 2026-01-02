@@ -1,18 +1,17 @@
 ---
-title: "Uşak Atatürk ve Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:19+03:00
+title: "Uşak Atatürk ve Etnografya Müzesi"
+date: "2025-12-25T03:37:19+03:00"
 slug: "usak-ataturk-ve-etnografya-muzesi"
 description: "## Uşak Atatürk ve Etnografya Müzesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.4026546,38.6838112"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uşak Atatürk ve Etnografya Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Puruşhanda | Miras Haritası"
-date: 2025-12-25T04:19:30+03:00
+title: "Puruşhanda"
+date: "2025-12-25T04:19:30+03:00"
 slug: "purushanda"
 description: "## Puruşhanda Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.835833,38.411389"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Puruşhanda Arkeolojik Sit

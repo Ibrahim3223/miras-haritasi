@@ -1,18 +1,17 @@
 ---
-title: "Karaca Ahmet Türbesi | Miras Haritası"
-date: 2025-12-25T14:33:15+03:00
+title: "Karaca Ahmet Türbesi"
+date: "2025-12-25T14:33:15+03:00"
 slug: "karaca-ahmet-turbesi"
 description: "## Karaca Ahmet Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Karaca_Ahmet_Türbesi.jpg/1200px-Karaca_Ahmet_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.02004,41.013226"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Karaca Ahmet Türbesi

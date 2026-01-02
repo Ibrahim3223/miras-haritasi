@@ -1,18 +1,17 @@
 ---
-title: "Antalya Aziz Pavlus ve Aziz Alipiy Kilisesi | Miras Haritası"
-date: 2025-12-25T09:44:45+03:00
+title: "Antalya Aziz Pavlus ve Aziz Alipiy Kilisesi"
+date: "2025-12-25T09:44:45+03:00"
 slug: "antalya-aziz-pavlus-ve-aziz-alipiy-kilisesi"
 description: "## Antalya Aziz Pavlus ve Aziz Alipiy Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Православный_храм_прп._Алипия_и_апостола_Павла_в_Анталии.jpg/1200px-Православный_храм_прп._Алипия_и_апостола_Павла_в_Анталии.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.707027777,36.88225"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Antalya Aziz Pavlus ve Aziz Alipiy Kilisesi

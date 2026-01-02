@@ -1,18 +1,17 @@
 ---
-title: "Cumalıkızık Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:59+03:00
+title: "Cumalıkızık Camii Çeşmesi"
+date: "2025-12-25T10:53:59+03:00"
 slug: "cumalikizik-camii-cesmesi"
 description: "## Cumalıkızık Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.1721706,40.1749115"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cumalıkızık Camii Çeşmesi

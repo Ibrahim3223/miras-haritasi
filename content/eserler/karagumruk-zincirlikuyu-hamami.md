@@ -1,18 +1,17 @@
 ---
-title: "Karagümrük Zincirlikuyu Hamamı | Miras Haritası"
-date: 2025-12-25T16:37:29+03:00
+title: "Karagümrük Zincirlikuyu Hamamı"
+date: "2025-12-25T16:37:29+03:00"
 slug: "karagumruk-zincirlikuyu-hamami"
 description: "## Karagümrük Zincirlikuyu Hamamı: İstanbul'un Eski Günlerinin Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.942204,41.025437"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagümrük Zincirlikuyu Hamamı: İstanbul'un Eski Günlerinin Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Şenyuva Köyü Karşı Mahalle Camii | Miras Haritası"
-date: 2025-12-25T00:22:21+03:00
+title: "Şenyuva Köyü Karşı Mahalle Camii"
+date: "2025-12-25T00:22:21+03:00"
 slug: "senyuva-koyu-karsi-mahalle-camii"
 description: "### Şenyuva Köyü Karşı Mahalle Camii Tanıtımı..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Çamlıhemşin"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.971752459,41.001743961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şenyuva Köyü Karşı Mahalle Camii Tanıtımı

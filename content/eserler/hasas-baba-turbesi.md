@@ -1,18 +1,17 @@
 ---
-title: "Hasas Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:39:50+03:00
+title: "Hasas Baba Türbesi"
+date: "2025-12-25T14:39:50+03:00"
 slug: "hasas-baba-turbesi"
 description: "## Hasas Baba Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.0251427,38.3782196"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasas Baba Türbesi

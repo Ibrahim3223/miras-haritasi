@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Alaman Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:22+03:00
+title: "Şeyh Alaman Türbesi"
+date: "2025-12-25T14:50:22+03:00"
 slug: "seyh-alaman-turbesi"
 description: "### Şeyh Alaman Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.5137367,37.8748741"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şeyh Alaman Türbesi

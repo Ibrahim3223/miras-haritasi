@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Hasan Paşa Medresesi | Miras Haritası"
-date: 2025-12-25T17:28:37+03:00
+title: "Seyyid Hasan Paşa Medresesi"
+date: "2025-12-25T17:28:37+03:00"
 slug: "seyyid-hasan-pasa-medresesi"
 description: "## Seyyid Hasan Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9613112,41.0103874"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Hasan Paşa Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Thymena | Miras Haritası"
-date: 2025-12-25T05:42:09+03:00
+title: "Thymena"
+date: "2025-12-25T05:42:09+03:00"
 slug: "thymena"
 description: "## Thymena Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.189074,41.958253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Thymena Arkeolojik Sit

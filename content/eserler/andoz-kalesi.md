@@ -1,18 +1,17 @@
 ---
-title: "Andoz Kalesi | Miras Haritası"
-date: 2025-12-25T01:34:06+03:00
+title: "Andoz Kalesi"
+date: "2025-12-25T01:34:06+03:00"
 slug: "andoz-kalesi"
 description: "# Andoz Kalesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Espiye"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.692067,40.939209"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Andoz Kalesi

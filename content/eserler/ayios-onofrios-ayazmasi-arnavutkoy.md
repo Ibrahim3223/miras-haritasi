@@ -1,18 +1,17 @@
 ---
-title: "Ayios Onofrios Ayazması, Arnavutköy | Miras Haritası"
-date: 2025-12-25T12:40:36+03:00
+title: "Ayios Onofrios Ayazması, Arnavutköy"
+date: "2025-12-25T12:40:36+03:00"
 slug: "ayios-onofrios-ayazmasi-arnavutkoy"
 description: "## Ayios Onofrios Ayazması: Beşiktaş'taki Bir Azizin Hazine..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0394402,41.0667839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayios Onofrios Ayazması: Beşiktaş'taki Bir Azizin Hazine

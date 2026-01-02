@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Kutluca | Miras Haritası"
-date: 2025-12-25T02:57:48+03:00
+title: "Roma Köprüsü, Kutluca"
+date: "2025-12-25T02:57:48+03:00"
 slug: "roma-koprusu-kutluca"
 description: "## Roma Köprüsü, Kutluca..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Körfez"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "29.7593632,40.9173022"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Kutluca

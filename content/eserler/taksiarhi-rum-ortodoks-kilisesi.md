@@ -1,18 +1,17 @@
 ---
-title: "Taksiarhi Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:25+03:00
+title: "Taksiarhi Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:22:25+03:00"
 slug: "taksiarhi-rum-ortodoks-kilisesi"
 description: "## Taksiarhi Rum Ortodoks Kilisesi: İstanbul'un Gizli Çehresinin Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "29.0590839,41.1153336"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taksiarhi Rum Ortodoks Kilisesi: İstanbul'un Gizli Çehresinin Bir Parçası

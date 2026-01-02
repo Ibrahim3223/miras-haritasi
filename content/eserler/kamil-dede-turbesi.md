@@ -1,18 +1,17 @@
 ---
-title: "Kamil Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:36+03:00
+title: "Kamil Dede Türbesi"
+date: "2025-12-25T15:27:36+03:00"
 slug: "kamil-dede-turbesi"
 description: "### Kamil Dede Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Acıpayam"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4866257,37.515007"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kamil Dede Türbesi

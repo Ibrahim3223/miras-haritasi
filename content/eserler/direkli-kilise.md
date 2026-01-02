@@ -1,18 +1,17 @@
 ---
-title: "Direkli Kilise | Miras Haritası"
-date: 2025-12-25T08:44:50+03:00
+title: "Direkli Kilise"
+date: "2025-12-25T08:44:50+03:00"
 slug: "direkli-kilise"
 description: "## Direkli Kilise..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Direkli Kilise

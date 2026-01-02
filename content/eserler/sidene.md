@@ -1,18 +1,17 @@
 ---
-title: "Sidene | Miras Haritası"
-date: 2025-12-25T04:36:33+03:00
+title: "Sidene"
+date: "2025-12-25T04:36:33+03:00"
 slug: "sidene"
 description: "# Sidene Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sidene Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Baba Cafer Türbesi | Miras Haritası"
-date: 2025-12-25T14:29:14+03:00
+title: "Baba Cafer Türbesi"
+date: "2025-12-25T14:29:14+03:00"
 slug: "baba-cafer-turbesi"
 description: "## Baba Cafer Türbesi: Fatih'te Bir Anıtın Tarihçesi ve Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.969108,41.018802"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Baba Cafer Türbesi: Fatih'te Bir Anıtın Tarihçesi ve Özellikleri

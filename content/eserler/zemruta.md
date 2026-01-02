@@ -1,18 +1,17 @@
 ---
-title: "Zemruta | Miras Haritası"
-date: 2025-12-25T05:18:36+03:00
+title: "Zemruta"
+date: "2025-12-25T05:18:36+03:00"
 slug: "zemruta"
 description: "## Zemruta: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.9296946,38.1921715"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zemruta: Türkiye'nin Gizli Harabeleri

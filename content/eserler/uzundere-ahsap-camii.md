@@ -1,18 +1,17 @@
 ---
-title: "Uzundere Ahşap Camii | Miras Haritası"
-date: 2025-12-25T00:15:34+03:00
+title: "Uzundere Ahşap Camii"
+date: "2025-12-25T00:15:34+03:00"
 slug: "uzundere-ahsap-camii"
 description: "## Uzundere Ahşap Camii: Kocaeli'nin Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Karamürsel"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.694241,40.669612"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Uzundere Ahşap Camii: Kocaeli'nin Gizli Çehresini Açığa Çıkaran Bir Miras

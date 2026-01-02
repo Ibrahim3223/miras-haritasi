@@ -1,18 +1,17 @@
 ---
-title: "Cihanoğlu Hacı Abdülaziz Efendi Camii | Miras Haritası"
-date: 2025-12-24T22:28:27+03:00
+title: "Cihanoğlu Hacı Abdülaziz Efendi Camii"
+date: "2025-12-24T22:28:27+03:00"
 slug: "cihanoglu-haci-abdulaziz-efendi-camii"
 description: "### Cihanoğlu Hacı Abdülaziz Efendi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7583313,37.7335663"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Cihanoğlu Hacı Abdülaziz Efendi Camii

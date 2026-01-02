@@ -1,18 +1,17 @@
 ---
-title: "Koca Sinan Paşa Camii | Miras Haritası"
-date: 2025-12-25T17:23:53+03:00
+title: "Koca Sinan Paşa Camii"
+date: "2025-12-25T17:23:53+03:00"
 slug: "koca-sinan-pasa-camii"
 description: "## Koca Sinan Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sinan_paşa_tomb-İstanbul_-_panoramio.jpg/1200px-Sinan_paşa_tomb-İstanbul_-_panoramio.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.968,41.009"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Koca Sinan Paşa Camii

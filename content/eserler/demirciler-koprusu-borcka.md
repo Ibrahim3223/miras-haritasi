@@ -1,18 +1,17 @@
 ---
-title: "Demirciler Köprüsü, Borçka | Miras Haritası"
-date: 2025-12-25T03:02:45+03:00
+title: "Demirciler Köprüsü, Borçka"
+date: "2025-12-25T03:02:45+03:00"
 slug: "demirciler-koprusu-borcka"
 description: "# Demirciler Köprüsü: Artvin'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Borçka"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.623764,41.375859"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Demirciler Köprüsü: Artvin'in Tarihî Bir Mirası

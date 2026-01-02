@@ -1,18 +1,17 @@
 ---
-title: "Sultan III. Murat Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:53+03:00
+title: "Sultan III. Murat Türbesi"
+date: "2025-12-25T14:37:53+03:00"
 slug: "sultan-iii-murat-turbesi"
 description: "## Sultan III. Murat Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9793667,41.0078784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan III. Murat Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "I. Murat Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:24:52+03:00
+title: "I. Murat Çeşmesi"
+date: "2025-12-25T12:24:52+03:00"
 slug: "i-murat-cesmesi"
 description: "## I. Murat Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.020888776,40.202509456"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## I. Murat Çeşmesi

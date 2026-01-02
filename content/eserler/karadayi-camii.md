@@ -1,18 +1,17 @@
 ---
-title: "Karadayı Camii | Miras Haritası"
-date: 2025-12-25T00:56:47+03:00
+title: "Karadayı Camii"
+date: "2025-12-25T00:56:47+03:00"
 slug: "karadayi-camii"
 description: "## Karadayı Camii: Antalya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.11124,36.873325"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karadayı Camii: Antalya'nın Tarihi Bir Mirası

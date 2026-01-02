@@ -1,18 +1,17 @@
 ---
-title: "Feyzullah Baba Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:49+03:00
+title: "Feyzullah Baba Çeşmesi"
+date: "2025-12-25T10:51:49+03:00"
 slug: "feyzullah-baba-cesmesi"
 description: "# Feyzullah Baba Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.5648003,38.9407997"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Feyzullah Baba Çeşmesi

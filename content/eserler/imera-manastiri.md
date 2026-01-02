@@ -1,18 +1,17 @@
 ---
-title: "İmera Manastırı | Miras Haritası"
-date: 2025-12-25T09:54:29+03:00
+title: "İmera Manastırı"
+date: "2025-12-25T09:54:29+03:00"
 slug: "imera-manastiri"
 description: "## İmera Manastırı..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Olucak"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "39.586833333,40.535444444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmera Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Cumaönü Camii | Miras Haritası"
-date: 2025-12-24T22:29:44+03:00
+title: "Cumaönü Camii"
+date: "2025-12-24T22:29:44+03:00"
 slug: "cumaonu-camii"
 description: "### Giriş..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6085167,37.7252426"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Giriş

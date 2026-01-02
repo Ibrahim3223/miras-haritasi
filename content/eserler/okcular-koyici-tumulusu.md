@@ -1,18 +1,17 @@
 ---
-title: "Okçular Köyiçi Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:16:58+03:00
+title: "Okçular Köyiçi Tümülüsü"
+date: "2025-12-25T08:16:58+03:00"
 slug: "okcular-koyici-tumulusu"
 description: "## Okçular Köyiçi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.8236008,41.5541496"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Okçular Köyiçi Tümülüsü

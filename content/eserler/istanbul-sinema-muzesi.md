@@ -1,18 +1,17 @@
 ---
-title: "İstanbul Sinema Müzesi | Miras Haritası"
-date: 2025-12-25T03:48:02+03:00
+title: "İstanbul Sinema Müzesi"
+date: "2025-12-25T03:48:02+03:00"
 slug: "istanbul-sinema-muzesi"
 description: "## İstanbul Sinema Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9791546,41.0341988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İstanbul Sinema Müzesi

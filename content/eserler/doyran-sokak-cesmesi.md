@@ -1,18 +1,17 @@
 ---
-title: "Doyran Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:35:40+03:00
+title: "Doyran Sokak Çeşmesi"
+date: "2025-12-25T12:35:40+03:00"
 slug: "doyran-sokak-cesmesi"
 description: "## Doyran Sokak Çeşmesi: Ankara'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.863616555,39.938448817"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Doyran Sokak Çeşmesi: Ankara'nın Gizli Çeşmesi

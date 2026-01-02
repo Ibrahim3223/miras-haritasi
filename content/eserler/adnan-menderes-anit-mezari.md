@@ -1,18 +1,17 @@
 ---
-title: "Adnan Menderes Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T14:06:53+03:00
+title: "Adnan Menderes Anıt Mezarı"
+date: "2025-12-25T14:06:53+03:00"
 slug: "adnan-menderes-anit-mezari"
 description: "## Adnan Menderes Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Adnan_menderes_mezar.jpg/1200px-Adnan_menderes_mezar.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9269,41.0253"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Adnan Menderes Anıt Mezarı

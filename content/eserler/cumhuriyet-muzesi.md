@@ -1,18 +1,17 @@
 ---
-title: "Cumhuriyet Müzesi | Miras Haritası"
-date: 2025-12-25T03:21:53+03:00
+title: "Cumhuriyet Müzesi"
+date: "2025-12-25T03:21:53+03:00"
 slug: "cumhuriyet-muzesi"
 description: "## Cumhuriyet Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ankara_asv2021-10_img71_Republic_Museum.jpg/1200px-Ankara_asv2021-10_img71_Republic_Museum.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.851666666,39.941111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cumhuriyet Müzesi

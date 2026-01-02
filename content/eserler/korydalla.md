@@ -1,18 +1,17 @@
 ---
-title: "Korydalla | Miras Haritası"
-date: 2025-12-25T04:30:35+03:00
+title: "Korydalla"
+date: "2025-12-25T04:30:35+03:00"
 slug: "korydalla"
 description: "## Korydalla: Antik Çağın Gizemli Yerleşim Yeri..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.273281,36.376674"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Korydalla: Antik Çağın Gizemli Yerleşim Yeri

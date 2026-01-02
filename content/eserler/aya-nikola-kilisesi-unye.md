@@ -1,18 +1,17 @@
 ---
-title: "Aya Nikola Kilisesi (Ünye) | Miras Haritası"
-date: 2025-12-25T08:59:31+03:00
+title: "Aya Nikola Kilisesi (Ünye)"
+date: "2025-12-25T08:59:31+03:00"
 slug: "aya-nikola-kilisesi-unye"
 description: "### Aya Nikola Kilisesi: Ünye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Ünye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.280682,41.146298"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Nikola Kilisesi: Ünye'nin Tarihi ve Kültürel Mirası

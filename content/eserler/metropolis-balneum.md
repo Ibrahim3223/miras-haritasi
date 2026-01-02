@@ -1,18 +1,17 @@
 ---
-title: "Metropolis Balneum | Miras Haritası"
-date: 2025-12-25T17:13:16+03:00
+title: "Metropolis Balneum"
+date: "2025-12-25T17:13:16+03:00"
 slug: "metropolis-balneum"
 description: "## Metropolis Balneum: İzmir'in Tarihi Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.3262081,38.1265526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Metropolis Balneum: İzmir'in Tarihi Hamamı

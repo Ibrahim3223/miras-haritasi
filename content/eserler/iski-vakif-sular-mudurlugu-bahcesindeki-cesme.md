@@ -1,18 +1,17 @@
 ---
-title: "İski Vakıf Sular Müdürlüğü Bahçesindeki Çeşme | Miras Haritası"
-date: 2025-12-25T11:12:11+03:00
+title: "İski Vakıf Sular Müdürlüğü Bahçesindeki Çeşme"
+date: "2025-12-25T11:12:11+03:00"
 slug: "iski-vakif-sular-mudurlugu-bahcesindeki-cesme"
 description: "### İski Vakıf Sular Müdürlüğü Bahçesindeki Çeşme..."
 featured_image: ""
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Bahçeköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.98951,41.1810793"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İski Vakıf Sular Müdürlüğü Bahçesindeki Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Mesudiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:40+03:00
+title: "Mesudiye Medresesi"
+date: "2025-12-25T17:24:40+03:00"
 slug: "mesudiye-medresesi"
 description: "## Mesudiye Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Diyarbakır_Mesudiye_Medresesi_3694.jpg/1200px-Diyarbakır_Mesudiye_Medresesi_3694.jpg"
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "40.2360001,37.9126663"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mesudiye Medresesi

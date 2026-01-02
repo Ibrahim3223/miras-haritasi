@@ -1,18 +1,17 @@
 ---
-title: "St. George Ermeni Apostolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:23:53+03:00
+title: "St. George Ermeni Apostolik Kilisesi"
+date: "2025-12-25T09:23:53+03:00"
 slug: "st-george-ermeni-apostolik-kilisesi"
 description: "## St. George Ermeni Apostolik Kilisesi..."
 featured_image: ""
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.4032898,40.1454086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## St. George Ermeni Apostolik Kilisesi

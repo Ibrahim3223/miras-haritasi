@@ -1,18 +1,17 @@
 ---
-title: "Rouphinianai | Miras Haritası"
-date: 2025-12-25T04:46:46+03:00
+title: "Rouphinianai"
+date: "2025-12-25T04:46:46+03:00"
 slug: "rouphinianai"
 description: "## Rouphinianai: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.068587,40.964583"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Rouphinianai: Türkiye'nin Gizli Arkeolojik Mirası

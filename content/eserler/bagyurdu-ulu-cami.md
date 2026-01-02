@@ -1,18 +1,17 @@
 ---
-title: "Bağyurdu Ulu Cami | Miras Haritası"
-date: 2025-12-24T23:07:44+03:00
+title: "Bağyurdu Ulu Cami"
+date: "2025-12-24T23:07:44+03:00"
 slug: "bagyurdu-ulu-cami"
 description: "## Bağyurdu Ulu Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6392002,38.4135017"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağyurdu Ulu Cami

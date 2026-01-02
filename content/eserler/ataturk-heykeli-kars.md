@@ -1,18 +1,17 @@
 ---
-title: "Atatürk Heykeli, Kars | Miras Haritası"
-date: 2025-12-25T15:49:47+03:00
+title: "Atatürk Heykeli, Kars"
+date: "2025-12-25T15:49:47+03:00"
 slug: "ataturk-heykeli-kars"
 description: "**Atatürk Heykeli, Kars**..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Kars"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "43.0926018,40.6058846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Atatürk Heykeli, Kars**

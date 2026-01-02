@@ -1,18 +1,17 @@
 ---
-title: "Çaputçu Camii | Miras Haritası"
-date: 2025-12-24T22:31:24+03:00
+title: "Çaputçu Camii"
+date: "2025-12-24T22:31:24+03:00"
 slug: "caputcu-camii"
 description: "### Konya'da Gizli Bir Çanak..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.5017548,37.8738403"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Konya'da Gizli Bir Çanak

@@ -1,18 +1,17 @@
 ---
-title: "Örenkaya Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:17+03:00
+title: "Örenkaya Köyü Çeşmesi"
+date: "2025-12-25T10:17:17+03:00"
 slug: "orenkaya-koyu-cesmesi"
 description: "## Örenkaya Köyü Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Tirebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.8766975,40.954586"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Örenkaya Köyü Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası

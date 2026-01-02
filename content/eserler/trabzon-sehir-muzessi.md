@@ -1,18 +1,17 @@
 ---
-title: "Trabzon Şehir Müzessi | Miras Haritası"
-date: 2025-12-25T03:31:54+03:00
+title: "Trabzon Şehir Müzessi"
+date: "2025-12-25T03:31:54+03:00"
 slug: "trabzon-sehir-muzessi"
 description: "### Trabzon Şehir Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.728019,41.005942"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Trabzon Şehir Müzesi

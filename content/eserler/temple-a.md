@@ -1,18 +1,17 @@
 ---
-title: "Temple A | Miras Haritası"
-date: 2025-12-25T05:41:58+03:00
+title: "Temple A"
+date: "2025-12-25T05:41:58+03:00"
 slug: "temple-a"
 description: "## Temple A: Denizli'nin Gizemli Arkeolojik Siti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Laodicea_Temple-A_20240929_090544.jpg/1200px-Laodicea_Temple-A_20240929_090544.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.1096537,37.8362079"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Temple A: Denizli'nin Gizemli Arkeolojik Siti

@@ -1,18 +1,17 @@
 ---
-title: "Halfeti Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:05:18+03:00
+title: "Halfeti Ulu Camii"
+date: "2025-12-24T22:05:18+03:00"
 slug: "halfeti-ulu-camii"
 description: "**Halfeti Ulu Camii**..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Halfeti"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.866555555,37.246166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Halfeti Ulu Camii**

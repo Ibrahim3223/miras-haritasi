@@ -1,18 +1,17 @@
 ---
-title: "Akpınar Mevkii Tümülüsleri | Miras Haritası"
-date: 2025-12-25T07:35:29+03:00
+title: "Akpınar Mevkii Tümülüsleri"
+date: "2025-12-25T07:35:29+03:00"
 slug: "akpinar-mevkii-tumulusleri"
 description: "## Akpınar Mevkii Tümülüsleri..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.860092621,39.811675461"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akpınar Mevkii Tümülüsleri

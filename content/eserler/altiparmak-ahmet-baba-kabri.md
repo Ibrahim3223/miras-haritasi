@@ -1,18 +1,17 @@
 ---
-title: "Altıparmak Ahmet Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:26:06+03:00
+title: "Altıparmak Ahmet Baba Kabri"
+date: "2025-12-25T13:26:06+03:00"
 slug: "altiparmak-ahmet-baba-kabri"
 description: "## Altıparmak Ahmet Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.923478,40.994263"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Altıparmak Ahmet Baba Kabri

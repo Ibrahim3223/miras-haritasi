@@ -1,18 +1,18 @@
 ---
-title: "Sultan Ahmet Camii | Miras Haritası"
-date: 2025-12-24T15:11:36+03:00
+title: "Sultan Ahmet Camii"
+date: "2025-12-24T15:11:36+03:00"
 slug: "sultan-ahmet-camii"
 description: "## Sultan Ahmet Camii: İstanbul'un En Güzel Camileri Arasındaki Klasikleşmiş Örneği..."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg/1200px-Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eminönü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9768247,41.0053851"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg/1200px-Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg"
 ---
 
 ## Sultan Ahmet Camii: İstanbul'un En Güzel Camileri Arasındaki Klasikleşmiş Örneği

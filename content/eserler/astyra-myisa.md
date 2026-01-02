@@ -1,18 +1,17 @@
 ---
-title: "Astyra Myisa | Miras Haritası"
-date: 2025-12-25T05:02:24+03:00
+title: "Astyra Myisa"
+date: "2025-12-25T05:02:24+03:00"
 slug: "astyra-myisa"
 description: "### Astyra Myisa: Edremit'in Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Edremit"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.888592,39.586596"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Astyra Myisa: Edremit'in Gizli Kahramanı

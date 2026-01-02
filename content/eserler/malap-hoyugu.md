@@ -1,18 +1,17 @@
 ---
-title: "Malap Höyüğü | Miras Haritası"
-date: 2025-12-25T06:30:01+03:00
+title: "Malap Höyüğü"
+date: "2025-12-25T06:30:01+03:00"
 slug: "malap-hoyugu"
 description: "## Malap Höyüğü: Elbistan'da Bir Tarih Özetleniyor..."
 featured_image: ""
 province: "Halep Vilayeti"
-iller: ["Halep Vilayeti"]
+iller: '["Halep Vilayeti"]'
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.3879262,38.1367273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Malap Höyüğü: Elbistan'da Bir Tarih Özetleniyor

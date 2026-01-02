@@ -1,18 +1,17 @@
 ---
-title: "Yukarıdurak Köprüsü | Miras Haritası"
-date: 2025-12-25T02:02:20+03:00
+title: "Yukarıdurak Köprüsü"
+date: "2025-12-25T02:02:20+03:00"
 slug: "yukaridurak-koprusu"
 description: "### Yukarıdurak Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.100803,41.0886429"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yukarıdurak Köprüsü

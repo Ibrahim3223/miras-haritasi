@@ -1,18 +1,17 @@
 ---
-title: "Karacaören Roma Garnizonu, Karacasu | Miras Haritası"
-date: 2025-12-25T01:16:25+03:00
+title: "Karacaören Roma Garnizonu, Karacasu"
+date: "2025-12-25T01:16:25+03:00"
 slug: "karacaoren-roma-garnizonu-karacasu"
 description: "### Karacaören Roma Garnizonu: Aydın'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "28.6499004,37.8454018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karacaören Roma Garnizonu: Aydın'ın Gizli Kahramanı

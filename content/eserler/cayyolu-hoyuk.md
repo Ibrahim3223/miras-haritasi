@@ -1,18 +1,17 @@
 ---
-title: "Çayyolu Höyük | Miras Haritası"
-date: 2025-12-25T13:49:30+03:00
+title: "Çayyolu Höyük"
+date: "2025-12-25T13:49:30+03:00"
 slug: "cayyolu-hoyuk"
 description: "### Çayyolu Höyük: Ankara'nın Gizli Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.6842194,39.871727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çayyolu Höyük: Ankara'nın Gizli Anıtı

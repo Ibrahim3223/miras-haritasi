@@ -1,18 +1,17 @@
 ---
-title: "Kangelaris Ailesi Anıt Mezarı | Miras Haritası"
-date: 2025-12-25T13:32:40+03:00
+title: "Kangelaris Ailesi Anıt Mezarı"
+date: "2025-12-25T13:32:40+03:00"
 slug: "kangelaris-ailesi-anit-mezari"
 description: "## Kangelaris Ailesi Anıt Mezarı: Adalar'ın Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.098788051,40.872539446"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kangelaris Ailesi Anıt Mezarı: Adalar'ın Gizli Anıtı

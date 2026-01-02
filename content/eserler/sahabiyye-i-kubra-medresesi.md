@@ -1,18 +1,17 @@
 ---
-title: "Şahabiyye-i Kübra Medresesi | Miras Haritası"
-date: 2025-12-25T17:38:02+03:00
+title: "Şahabiyye-i Kübra Medresesi"
+date: "2025-12-25T17:38:02+03:00"
 slug: "sahabiyye-i-kubra-medresesi"
 description: "### Şahabiyye-i Kübra Medresesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "38.3670044,38.4199409"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şahabiyye-i Kübra Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Ballı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:12+03:00
+title: "Ballı Kilisesi"
+date: "2025-12-25T09:21:12+03:00"
 slug: "balli-kilisesi"
 description: "## Ballı Kilisesi..."
 featured_image: ""
 province: "Niğde"
-iller: ["Niğde"]
+iller: '["Niğde"]'
 district: "Niğde"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.6637764,38.0717239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ballı Kilisesi

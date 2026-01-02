@@ -1,18 +1,17 @@
 ---
-title: "Kindyria | Miras Haritası"
-date: 2025-12-25T05:07:46+03:00
+title: "Kindyria"
+date: "2025-12-25T05:07:46+03:00"
 slug: "kindyria"
 description: "## Kindyria Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.2139865,38.148568"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kindyria Arkeolojik Sit

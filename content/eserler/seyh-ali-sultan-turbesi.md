@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Ali Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:21:52+03:00
+title: "Şeyh Ali Sultan Türbesi"
+date: "2025-12-25T14:21:52+03:00"
 slug: "seyh-ali-sultan-turbesi"
 description: "# Şeyh Ali Sultan Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.203548,37.175908"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeyh Ali Sultan Türbesi

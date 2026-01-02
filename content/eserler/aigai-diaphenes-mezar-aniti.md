@@ -1,18 +1,17 @@
 ---
-title: "Aigai Diaphenes Mezar Anıtı | Miras Haritası"
-date: 2025-12-25T14:05:30+03:00
+title: "Aigai Diaphenes Mezar Anıtı"
+date: "2025-12-25T14:05:30+03:00"
 slug: "aigai-diaphenes-mezar-aniti"
 description: "## Aigai Diaphenes Mezar Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.1922035,38.8324432"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aigai Diaphenes Mezar Anıtı

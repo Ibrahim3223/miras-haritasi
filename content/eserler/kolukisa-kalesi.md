@@ -1,18 +1,17 @@
 ---
-title: "Kolukısa Kalesi | Miras Haritası"
-date: 2025-12-25T01:20:18+03:00
+title: "Kolukısa Kalesi"
+date: "2025-12-25T01:20:18+03:00"
 slug: "kolukisa-kalesi"
 description: "## Kolukısa Kalesi: Kadınhanı'ndaki Tarihi Bir Miras..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Kadınhanı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "32.3328934,38.4901352"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kolukısa Kalesi: Kadınhanı'ndaki Tarihi Bir Miras

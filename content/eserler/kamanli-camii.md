@@ -1,18 +1,17 @@
 ---
-title: "Kamanlı Camii | Miras Haritası"
-date: 2025-12-24T23:22:33+03:00
+title: "Kamanlı Camii"
+date: "2025-12-24T23:22:33+03:00"
 slug: "kamanli-camii"
 description: "### Kamanlı Camii: Urla'nın Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.778463,38.320768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kamanlı Camii: Urla'nın Gizli Cenneti

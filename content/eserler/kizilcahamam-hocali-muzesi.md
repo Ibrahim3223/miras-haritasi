@@ -1,18 +1,17 @@
 ---
-title: "Kızılcahamam - Hocalı Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:34+03:00
+title: "Kızılcahamam - Hocalı Müzesi"
+date: "2025-12-25T04:03:34+03:00"
 slug: "kizilcahamam-hocali-muzesi"
 description: "## Kızılcahamam - Hocalı Müzesi Tanıtımı..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.654623528,40.471553193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılcahamam - Hocalı Müzesi Tanıtımı

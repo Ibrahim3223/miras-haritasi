@@ -1,18 +1,17 @@
 ---
-title: "Sığırlık-II Kalesi | Miras Haritası"
-date: 2025-12-25T01:29:12+03:00
+title: "Sığırlık-II Kalesi"
+date: "2025-12-25T01:29:12+03:00"
 slug: "sigirlik-ii-kalesi"
 description: "### Sığırlık-II Kalesi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Sütçüler"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.8911915,37.5018425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sığırlık-II Kalesi

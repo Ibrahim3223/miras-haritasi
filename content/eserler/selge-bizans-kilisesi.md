@@ -1,18 +1,17 @@
 ---
-title: "Selge Bizans Kilisesi | Miras Haritası"
-date: 2025-12-25T09:36:24+03:00
+title: "Selge Bizans Kilisesi"
+date: "2025-12-25T09:36:24+03:00"
 slug: "selge-bizans-kilisesi"
 description: "## Selge Bizans Kilisesi: Antalya'nın Gizli Çehresi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Manavgat"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "31.1254711,37.2254639"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Selge Bizans Kilisesi: Antalya'nın Gizli Çehresi

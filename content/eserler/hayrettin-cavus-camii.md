@@ -1,18 +1,17 @@
 ---
-title: "Hayrettin Çavuş Camii | Miras Haritası"
-date: 2025-12-24T21:49:25+03:00
+title: "Hayrettin Çavuş Camii"
+date: "2025-12-24T21:49:25+03:00"
 slug: "hayrettin-cavus-camii"
 description: "## Hayrettin Çavuş Camii..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Ahmediye"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.018277777,41.019416666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hayrettin Çavuş Camii

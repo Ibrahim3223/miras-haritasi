@@ -1,18 +1,17 @@
 ---
-title: "15 Temmuz Şehitler Abidesi | Miras Haritası"
-date: 2025-12-25T15:45:05+03:00
+title: "15 Temmuz Şehitler Abidesi"
+date: "2025-12-25T15:45:05+03:00"
 slug: "15-temmuz-sehitler-abidesi"
 description: "## 15 Temmuz Şehitler Abidesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/15_Temmuz_Şehitler_Anıtı.jpg/1200px-15_Temmuz_Şehitler_Anıtı.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.801845619,39.931953175"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## 15 Temmuz Şehitler Abidesi

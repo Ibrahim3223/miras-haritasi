@@ -1,18 +1,17 @@
 ---
-title: "Ekmekçibaşı Ali Ağa Kabri, Beşiktaş | Miras Haritası"
-date: 2025-12-25T13:31:12+03:00
+title: "Ekmekçibaşı Ali Ağa Kabri, Beşiktaş"
+date: "2025-12-25T13:31:12+03:00"
 slug: "ekmekcibasi-ali-aga-kabri-besiktas"
 description: "## Ekmekçibaşı Ali Ağa Kabri: Beşiktaş'ta Bir Anıtın Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0001087,41.0435257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ekmekçibaşı Ali Ağa Kabri: Beşiktaş'ta Bir Anıtın Tarihi

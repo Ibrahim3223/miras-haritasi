@@ -1,18 +1,17 @@
 ---
-title: "Hanönü Camii | Miras Haritası"
-date: 2025-12-24T23:32:39+03:00
+title: "Hanönü Camii"
+date: "2025-12-24T23:32:39+03:00"
 slug: "hanonu-camii"
 description: "## Hanönü Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0159721,37.6141624"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hanönü Camii

@@ -1,18 +1,17 @@
 ---
-title: "Afkule Manastırı | Miras Haritası"
-date: 2025-12-25T09:54:26+03:00
+title: "Afkule Manastırı"
+date: "2025-12-25T09:54:26+03:00"
 slug: "afkule-manastiri"
 description: "## Afkule Manastırı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Q207998"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.037433,36.579593"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Afkule Manastırı

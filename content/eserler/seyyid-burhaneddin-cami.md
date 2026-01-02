@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Burhaneddin Cami | Miras Haritası"
-date: 2025-12-24T23:06:08+03:00
+title: "Seyyid Burhaneddin Cami"
+date: "2025-12-24T23:06:08+03:00"
 slug: "seyyid-burhaneddin-cami"
 description: "## Seyyid Burhaneddin Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4958611,38.7148857"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Burhaneddin Cami

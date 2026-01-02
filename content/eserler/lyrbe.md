@@ -1,18 +1,17 @@
 ---
-title: "Lyrbe | Miras Haritası"
-date: 2025-12-25T05:17:43+03:00
+title: "Lyrbe"
+date: "2025-12-25T05:17:43+03:00"
 slug: "lyrbe"
 description: "## Lyrbe: Antalya'nın Gizli Arkeolojik Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Antalya"
+province: "Antalya"
+iller: '["Antalya"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.47344,36.87477"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lyrbe: Antalya'nın Gizli Arkeolojik Harikası

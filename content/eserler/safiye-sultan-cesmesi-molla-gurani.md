@@ -1,18 +1,17 @@
 ---
-title: "Safiye Sultan Çeşmesi, Molla Gürani | Miras Haritası"
-date: 2025-12-25T12:15:33+03:00
+title: "Safiye Sultan Çeşmesi, Molla Gürani"
+date: "2025-12-25T12:15:33+03:00"
 slug: "safiye-sultan-cesmesi-molla-gurani"
 description: "## Safiye Sultan Çeşmesi: Molla Gürani'nin Gözde Yaratısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.940781,41.015018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Safiye Sultan Çeşmesi: Molla Gürani'nin Gözde Yaratısı

@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Paşa Kütüphanesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:50:41+03:00
+title: "Hüsrev Paşa Kütüphanesi Çeşmesi"
+date: "2025-12-25T11:50:41+03:00"
 slug: "husrev-pasa-kutuphanesi-cesmesi"
 description: "## Hüsrev Paşa Kütüphanesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9348564,41.0484505"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsrev Paşa Kütüphanesi Çeşmesi

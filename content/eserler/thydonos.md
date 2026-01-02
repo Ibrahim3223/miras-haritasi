@@ -1,18 +1,17 @@
 ---
-title: "Thydonos | Miras Haritası"
-date: 2025-12-25T08:07:47+03:00
+title: "Thydonos"
+date: "2025-12-25T08:07:47+03:00"
 slug: "thydonos"
 description: "# Thydonos: Kıbrıs'ın Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Thydonos: Kıbrıs'ın Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sevim ve Necdet Kent Kitaplıgı | Miras Haritası"
-date: 2025-12-25T17:57:54+03:00
+title: "Sevim ve Necdet Kent Kitaplıgı"
+date: "2025-12-25T17:57:54+03:00"
 slug: "sevim-ve-necdet-kent-kitapligi"
 description: "## Sevim ve Necdet Kent Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sevim_Necdet_Kent_Library_(Agios_Yannis_Church),_Cunda,_Ayvalık,_Balıkesir_2024.jpg/1200px-Sevim_Necdet_Kent_Library_(Agios_Yannis_Church),_Cunda,_Ayvalık,_Balıkesir_2024.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "26.659089,39.336158"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sevim ve Necdet Kent Kütüphanesi

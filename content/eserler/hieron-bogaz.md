@@ -1,18 +1,17 @@
 ---
-title: "Hieron (Boğaz) | Miras Haritası"
-date: 2025-12-25T08:28:39+03:00
+title: "Hieron (Boğaz)"
+date: "2025-12-25T08:28:39+03:00"
 slug: "hieron-bogaz"
 description: "## Hieron (Boğaz)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.093333333,41.178333333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hieron (Boğaz)

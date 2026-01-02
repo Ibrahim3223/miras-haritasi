@@ -1,18 +1,17 @@
 ---
-title: "Büyükmandıra Bağlık Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:39:04+03:00
+title: "Büyükmandıra Bağlık Tümülüsü"
+date: "2025-12-25T07:39:04+03:00"
 slug: "buyukmandira-baglik-tumulusu"
 description: "## Büyükmandıra Bağlık Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.0537796,41.3535805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyükmandıra Bağlık Tümülüsü

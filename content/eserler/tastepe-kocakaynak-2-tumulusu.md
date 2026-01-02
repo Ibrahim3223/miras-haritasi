@@ -1,18 +1,17 @@
 ---
-title: "Tastepe Kocakaynak 2 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:45:18+03:00
+title: "Tastepe Kocakaynak 2 Tümülüsü"
+date: "2025-12-25T07:45:18+03:00"
 slug: "tastepe-kocakaynak-2-tumulusu"
 description: "## Tastepe Kocakaynak 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.1441288,41.9675789"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tastepe Kocakaynak 2 Tümülüsü

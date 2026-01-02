@@ -1,18 +1,17 @@
 ---
-title: "Bellek Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:01+03:00
+title: "Bellek Müzesi"
+date: "2025-12-25T04:04:01+03:00"
 slug: "bellek-muzesi"
 description: "## Ankara'nın Bellek Müzesi: Türkiye'nin Tarihini ve Kültürünü Anlamak..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.787058971,39.911579035"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ankara'nın Bellek Müzesi: Türkiye'nin Tarihini ve Kültürünü Anlamak

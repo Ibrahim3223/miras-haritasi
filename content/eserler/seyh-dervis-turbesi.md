@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Derviş Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:12+03:00
+title: "Şeyh Derviş Türbesi"
+date: "2025-12-25T15:27:12+03:00"
 slug: "seyh-dervis-turbesi"
 description: "## Şeyh Derviş Türbesi: Yüreğir'in Tarihî Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Yüreğir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3340149,36.9598732"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Derviş Türbesi: Yüreğir'in Tarihî Mirası

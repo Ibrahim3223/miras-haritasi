@@ -1,18 +1,17 @@
 ---
-title: "Gemili Mescit, Alanya | Miras Haritası"
-date: 2025-12-25T01:06:16+03:00
+title: "Gemili Mescit, Alanya"
+date: "2025-12-25T01:06:16+03:00"
 slug: "gemili-mescit-alanya"
 description: "## Gemili Mescit: Alanya'nın Tarihi Bir Cezvesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.9951973,36.5330963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gemili Mescit: Alanya'nın Tarihi Bir Cezvesi

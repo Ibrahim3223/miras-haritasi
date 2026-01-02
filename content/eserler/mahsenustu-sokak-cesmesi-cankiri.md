@@ -1,18 +1,17 @@
 ---
-title: "Mahsenüstü Sokak Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:33:39+03:00
+title: "Mahsenüstü Sokak Çeşmesi, Çankırı"
+date: "2025-12-25T12:33:39+03:00"
 slug: "mahsenustu-sokak-cesmesi-cankiri"
 description: "### Mahsenüstü Sokak Çeşmesi, Çankırı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.618901686,40.603210696"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mahsenüstü Sokak Çeşmesi, Çankırı

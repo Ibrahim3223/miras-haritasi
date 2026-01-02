@@ -1,18 +1,17 @@
 ---
-title: "Aydoğan Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:58+03:00
+title: "Aydoğan Köprüsü"
+date: "2025-12-25T02:23:58+03:00"
 slug: "aydogan-koprusu"
 description: "## Aydoğan Köprüsü: Siirt'te Bir Geçit Yaşıtlığı..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Siirt"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.9060854,38.0234077"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aydoğan Köprüsü: Siirt'te Bir Geçit Yaşıtlığı

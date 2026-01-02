@@ -1,18 +1,17 @@
 ---
-title: "Beçi Yörükler Köyü Orhan Gazi Camii | Miras Haritası"
-date: 2025-12-24T22:24:34+03:00
+title: "Beçi Yörükler Köyü Orhan Gazi Camii"
+date: "2025-12-24T22:24:34+03:00"
 slug: "beci-yorukler-koyu-orhan-gazi-camii"
 description: "## Beçi Yörükler Köyü Orhan Gazi Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Düzce"
+province: "Düzce"
+iller: '["Düzce"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.1973305,40.8957062"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beçi Yörükler Köyü Orhan Gazi Camii

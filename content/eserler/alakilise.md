@@ -1,18 +1,17 @@
 ---
-title: "Alakilise | Miras Haritası"
-date: 2025-12-25T06:57:19+03:00
+title: "Alakilise"
+date: "2025-12-25T06:57:19+03:00"
 slug: "alakilise"
 description: "## Alakilise: Antalya'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.002555555,36.330055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alakilise: Antalya'nın Tarihî ve Kültürel Mirası

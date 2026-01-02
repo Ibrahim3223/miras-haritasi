@@ -1,18 +1,17 @@
 ---
-title: "Taşbaşı Kilisesi | Miras Haritası"
-date: 2025-12-25T08:53:51+03:00
+title: "Taşbaşı Kilisesi"
+date: "2025-12-25T08:53:51+03:00"
 slug: "tasbasi-kilisesi"
 description: "### Taşbaşı Kilisesi: Altınordu'nun Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Taşbaşı_Kilise'sinin_genel_görünümü.jpg/1200px-Taşbaşı_Kilise'sinin_genel_görünümü.jpg"
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Altınordu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.87544444,40.99186111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Taşbaşı Kilisesi: Altınordu'nun Gizli Cenneti

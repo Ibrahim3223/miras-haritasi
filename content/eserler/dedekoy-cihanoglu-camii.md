@@ -1,18 +1,17 @@
 ---
-title: "Dedeköy Cihanoğlu Camii | Miras Haritası"
-date: 2025-12-24T22:33:20+03:00
+title: "Dedeköy Cihanoğlu Camii"
+date: "2025-12-24T22:33:20+03:00"
 slug: "dedekoy-cihanoglu-camii"
 description: "## Dedeköy Cihanoğlu Camii..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.6623516,37.7619438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dedeköy Cihanoğlu Camii

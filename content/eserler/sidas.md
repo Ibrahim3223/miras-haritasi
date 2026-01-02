@@ -1,18 +1,17 @@
 ---
-title: "Sidas | Miras Haritası"
-date: 2025-12-25T04:30:47+03:00
+title: "Sidas"
+date: "2025-12-25T04:30:47+03:00"
 slug: "sidas"
 description: "## Sidas Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Demirci"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.6188388,38.7901357"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sidas Arkeolojik Sit

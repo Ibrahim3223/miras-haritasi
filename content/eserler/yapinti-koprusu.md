@@ -1,18 +1,17 @@
 ---
-title: "Yapıntı Köprüsü | Miras Haritası"
-date: 2025-12-25T03:03:00+03:00
+title: "Yapıntı Köprüsü"
+date: "2025-12-25T03:03:00+03:00"
 slug: "yapinti-koprusu"
 description: "### Yapıntı Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mut"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.4130707,36.6837692"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yapıntı Köprüsü

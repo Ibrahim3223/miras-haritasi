@@ -1,18 +1,17 @@
 ---
-title: "Tunca Köprüsü | Miras Haritası"
-date: 2025-12-25T01:58:53+03:00
+title: "Tunca Köprüsü"
+date: "2025-12-25T01:58:53+03:00"
 slug: "tunca-koprusu"
 description: "## Tunca Köprüsü: Edirne'nin İhtişamlı Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ekmekcioglu-Ahmet-Pascha-Brücke_über_den_Tundscha_Aufnahme_MEH_Bergmann.JPG/1200px-Ekmekcioglu-Ahmet-Pascha-Brücke_über_den_Tundscha_Aufnahme_MEH_Bergmann.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.554252777,41.667872222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tunca Köprüsü: Edirne'nin İhtişamlı Köprüsü

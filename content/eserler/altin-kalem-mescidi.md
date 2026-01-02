@@ -1,18 +1,17 @@
 ---
-title: "Altın Kalem Mescidi | Miras Haritası"
-date: 2025-12-25T00:45:32+03:00
+title: "Altın Kalem Mescidi"
+date: "2025-12-25T00:45:32+03:00"
 slug: "altin-kalem-mescidi"
 description: "**Altın Kalem Mescidi: Akşehir'in Gizli Çehresi**..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Akşehir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "31.4090595,38.3583946"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Altın Kalem Mescidi: Akşehir'in Gizli Çehresi**

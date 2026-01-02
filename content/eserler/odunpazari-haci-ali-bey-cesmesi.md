@@ -1,18 +1,17 @@
 ---
-title: "Odunpazarı Hacı Ali Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T13:10:48+03:00
+title: "Odunpazarı Hacı Ali Bey Çeşmesi"
+date: "2025-12-25T13:10:48+03:00"
 slug: "odunpazari-haci-ali-bey-cesmesi"
 description: "# Odunpazarı Hacı Ali Bey Çeşmesi: Çorum'un Tarihî Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "İskilip"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.472805,40.7341537"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Odunpazarı Hacı Ali Bey Çeşmesi: Çorum'un Tarihî Mirası

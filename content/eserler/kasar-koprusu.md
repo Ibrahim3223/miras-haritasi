@@ -1,18 +1,17 @@
 ---
-title: "Kasar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:06:23+03:00
+title: "Kasar Köprüsü"
+date: "2025-12-25T02:06:23+03:00"
 slug: "kasar-koprusu"
 description: "### Kasar Köprüsü: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0306873,37.7336578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kasar Köprüsü: Aydın'ın Tarihi Bir Mirası

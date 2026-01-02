@@ -1,18 +1,17 @@
 ---
-title: "Beyaz Türbe | Miras Haritası"
-date: 2025-12-25T14:59:40+03:00
+title: "Beyaz Türbe"
+date: "2025-12-25T14:59:40+03:00"
 slug: "beyaz-turbe"
 description: "### Beyaz Türbe: Diyarbakır'ın Tarihi Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2432861,37.9119873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beyaz Türbe: Diyarbakır'ın Tarihi Mirası

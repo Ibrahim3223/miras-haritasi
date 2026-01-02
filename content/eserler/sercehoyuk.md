@@ -1,18 +1,17 @@
 ---
-title: "Serçehöyük | Miras Haritası"
-date: 2025-12-25T06:42:15+03:00
+title: "Serçehöyük"
+date: "2025-12-25T06:42:15+03:00"
 slug: "sercehoyuk"
 description: "## Serçehöyük Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çorum"
+province: "Çorum"
+iller: '["Çorum"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.8480531,40.5667439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Serçehöyük Arkeolojik Sit

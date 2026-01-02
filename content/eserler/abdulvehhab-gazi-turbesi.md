@@ -1,18 +1,17 @@
 ---
-title: "Abdülvehhab Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:50+03:00
+title: "Abdülvehhab Gazi Türbesi"
+date: "2025-12-25T15:18:50+03:00"
 slug: "abdulvehhab-gazi-turbesi"
 description: "### Abdülvehhab Gazi Türbesi..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.244205,40.263407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abdülvehhab Gazi Türbesi

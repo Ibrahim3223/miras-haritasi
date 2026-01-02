@@ -1,18 +1,17 @@
 ---
-title: "İsa’nın Yükselişi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:46:09+03:00
+title: "İsa’nın Yükselişi Kilisesi"
+date: "2025-12-25T09:46:09+03:00"
 slug: "isanin-yukselisi-kilisesi"
 description: "### İsa’nın Yükselişi Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.0661602,41.6773949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsa’nın Yükselişi Kilisesi

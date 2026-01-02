@@ -1,18 +1,17 @@
 ---
-title: "Muhittin Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:31:19+03:00
+title: "Muhittin Baba Türbesi"
+date: "2025-12-25T15:31:19+03:00"
 slug: "muhittin-baba-turbesi"
 description: "## Muhittin Baba Türbesi: Tekirdağ'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.7992077,41.1600533"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muhittin Baba Türbesi: Tekirdağ'ın Tarihî Mirası

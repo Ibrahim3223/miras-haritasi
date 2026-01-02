@@ -1,18 +1,17 @@
 ---
-title: "Düzce Hamamı | Miras Haritası"
-date: 2025-12-25T16:49:25+03:00
+title: "Düzce Hamamı"
+date: "2025-12-25T16:49:25+03:00"
 slug: "duzce-hamami"
 description: "## Düzce Hamamı: Seferihisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.8174744,38.2414055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Düzce Hamamı: Seferihisar'ın Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sefertepe | Miras Haritası"
-date: 2025-12-25T05:47:08+03:00
+title: "Sefertepe"
+date: "2025-12-25T05:47:08+03:00"
 slug: "sefertepe"
 description: "## Sefertepe: Viranşehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Viranşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.4898224,37.1864319"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sefertepe: Viranşehir'in Gizli Kahramanı

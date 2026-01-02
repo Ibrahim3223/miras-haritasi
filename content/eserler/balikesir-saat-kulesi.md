@@ -1,18 +1,17 @@
 ---
-title: "Balıkesir Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:10+03:00
+title: "Balıkesir Saat Kulesi"
+date: "2025-12-25T17:18:10+03:00"
 slug: "balikesir-saat-kulesi"
 description: "## Balıkesir Saat Kulesi: Bir İlahi Görsellik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Balıkesir_Clock_Tower_front_view,_Balıkesir,_2023.jpg/1200px-Balıkesir_Clock_Tower_front_view,_Balıkesir,_2023.jpg"
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Balıkesir"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "27.87916667,39.64527778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Balıkesir Saat Kulesi: Bir İlahi Görsellik

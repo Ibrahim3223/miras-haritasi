@@ -1,18 +1,17 @@
 ---
-title: "Çoban Mustafa Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:40:30+03:00
+title: "Çoban Mustafa Paşa Türbesi"
+date: "2025-12-25T14:40:30+03:00"
 slug: "coban-mustafa-pasa-turbesi"
 description: "## Çoban Mustafa Paşa Türbesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: ["Kocaeli"]
+iller: '["Kocaeli"]'
 district: "Gebze (ilçe)"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4317455,40.7996216"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Mustafa Paşa Türbesi

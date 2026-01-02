@@ -1,18 +1,17 @@
 ---
-title: "Yatır Türbesi, Atça | Miras Haritası"
-date: 2025-12-25T13:52:00+03:00
+title: "Yatır Türbesi, Atça"
+date: "2025-12-25T13:52:00+03:00"
 slug: "yatir-turbesi-atca"
 description: "## Yatır Türbesi, Atça..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Sultanhisar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.2102776,37.8933411"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yatır Türbesi, Atça

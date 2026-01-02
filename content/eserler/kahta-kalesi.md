@@ -1,18 +1,17 @@
 ---
-title: "Kahta Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:52+03:00
+title: "Kahta Kalesi"
+date: "2025-12-25T01:32:52+03:00"
 slug: "kahta-kalesi"
 description: "# Kahta Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/1F5A2142_kopya.jpg/1200px-1F5A2142_kopya.jpg"
 province: "Adıyaman"
-iller: ["Adıyaman"]
+iller: '["Adıyaman"]'
 district: "Kâhta"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.6533203,37.9479866"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Kahta Kalesi

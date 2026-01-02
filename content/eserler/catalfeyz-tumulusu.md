@@ -1,18 +1,17 @@
 ---
-title: "Çatalfeyz Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:25:38+03:00
+title: "Çatalfeyz Tümülüsü"
+date: "2025-12-25T07:25:38+03:00"
 slug: "catalfeyz-tumulusu"
 description: "## Çatalfeyz Tümülüsü: Malatya'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.8946686,38.3240814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çatalfeyz Tümülüsü: Malatya'nın Gizli Hazineleri

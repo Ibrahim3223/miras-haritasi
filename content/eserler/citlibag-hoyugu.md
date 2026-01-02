@@ -1,18 +1,17 @@
 ---
-title: "Çitlibağ Höyüğü | Miras Haritası"
-date: 2025-12-25T06:34:21+03:00
+title: "Çitlibağ Höyüğü"
+date: "2025-12-25T06:34:21+03:00"
 slug: "citlibag-hoyugu"
 description: "# Çitlibağ Höyüğü..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "40.4914453,37.2087344"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çitlibağ Höyüğü

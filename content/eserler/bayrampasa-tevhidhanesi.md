@@ -1,18 +1,17 @@
 ---
-title: "Bayrampaşa Tevhidhanesi | Miras Haritası"
-date: 2025-12-25T17:29:31+03:00
+title: "Bayrampaşa Tevhidhanesi"
+date: "2025-12-25T17:29:31+03:00"
 slug: "bayrampasa-tevhidhanesi"
 description: "### Bayrampaşa Tevhidhanesi: Fatih'te Bir Medrese Eseri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.942371,41.00845"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayrampaşa Tevhidhanesi: Fatih'te Bir Medrese Eseri

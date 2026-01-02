@@ -1,18 +1,17 @@
 ---
-title: "Tatarköy Kocatepe A Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:46:19+03:00
+title: "Tatarköy Kocatepe A Tümülüsü"
+date: "2025-12-25T07:46:19+03:00"
 slug: "tatarkoy-kocatepe-a-tumulusu"
 description: "## Tatarköy Kocatepe A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3473186,41.4959831"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tatarköy Kocatepe A Tümülüsü

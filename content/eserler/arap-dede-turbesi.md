@@ -1,18 +1,17 @@
 ---
-title: "Arap Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:55:52+03:00
+title: "Arap Dede Türbesi"
+date: "2025-12-25T14:55:52+03:00"
 slug: "arap-dede-turbesi"
 description: "## Arap Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.9624481,37.8559952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arap Dede Türbesi

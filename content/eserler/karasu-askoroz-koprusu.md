@@ -1,18 +1,17 @@
 ---
-title: "Karasu Askoroz Köprüsü | Miras Haritası"
-date: 2025-12-25T02:08:47+03:00
+title: "Karasu Askoroz Köprüsü"
+date: "2025-12-25T02:08:47+03:00"
 slug: "karasu-askoroz-koprusu"
 description: "### Karasu Askoroz Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.562583,40.899"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karasu Askoroz Köprüsü

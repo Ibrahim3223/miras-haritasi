@@ -1,18 +1,17 @@
 ---
-title: "Sardes Hamam ve Gymnasium Kompleksi | Miras Haritası"
-date: 2025-12-25T16:45:18+03:00
+title: "Sardes Hamam ve Gymnasium Kompleksi"
+date: "2025-12-25T16:45:18+03:00"
 slug: "sardes-hamam-ve-gymnasium-kompleksi"
 description: "## Sardes Hamam ve Gymnasium Kompleksi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Salihli"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.0395985,38.4890289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sardes Hamam ve Gymnasium Kompleksi

@@ -1,18 +1,17 @@
 ---
-title: "Hişet Aziz Etienne Kilisesi | Miras Haritası"
-date: 2025-12-25T09:31:51+03:00
+title: "Hişet Aziz Etienne Kilisesi"
+date: "2025-12-25T09:31:51+03:00"
 slug: "hiset-aziz-etienne-kilisesi"
 description: "**Hişet Aziz Etienne Kilisesi**..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Çatak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.0648308,38.0070381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hişet Aziz Etienne Kilisesi**

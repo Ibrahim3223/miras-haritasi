@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Zengi Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:53+03:00
+title: "Mehmet Zengi Türbesi"
+date: "2025-12-25T15:13:53+03:00"
 slug: "mehmet-zengi-turbesi"
 description: "## Mehmet Zengi Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4987822,38.715488"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Zengi Türbesi

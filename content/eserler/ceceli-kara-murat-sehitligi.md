@@ -1,18 +1,17 @@
 ---
-title: "Çeçeli Kara Murat Şehitliği | Miras Haritası"
-date: 2025-12-25T14:09:20+03:00
+title: "Çeçeli Kara Murat Şehitliği"
+date: "2025-12-25T14:09:20+03:00"
 slug: "ceceli-kara-murat-sehitligi"
 description: "## Çeçeli Kara Murat Şehitliği..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.5544243,38.7588921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeçeli Kara Murat Şehitliği

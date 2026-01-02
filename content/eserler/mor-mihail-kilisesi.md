@@ -1,18 +1,17 @@
 ---
-title: "Mor Mihail Kilisesi | Miras Haritası"
-date: 2025-12-25T09:18:54+03:00
+title: "Mor Mihail Kilisesi"
+date: "2025-12-25T09:18:54+03:00"
 slug: "mor-mihail-kilisesi"
 description: "### Mor Mihail Kilisesi: Mardin'in Tarihi Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "40.7332687,37.3076439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mor Mihail Kilisesi: Mardin'in Tarihi Cenneti

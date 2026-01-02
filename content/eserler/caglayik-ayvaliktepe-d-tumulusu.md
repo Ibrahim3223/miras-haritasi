@@ -1,18 +1,17 @@
 ---
-title: "Çağlayık Ayvalıktepe D Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:21:05+03:00
+title: "Çağlayık Ayvalıktepe D Tümülüsü"
+date: "2025-12-25T07:21:05+03:00"
 slug: "caglayik-ayvaliktepe-d-tumulusu"
 description: "### Çağlayık Ayvalıktepe D Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3490829,41.9939995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çağlayık Ayvalıktepe D Tümülüsü

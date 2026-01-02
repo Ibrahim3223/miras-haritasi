@@ -1,18 +1,17 @@
 ---
-title: "Alan Yeri Camii | Miras Haritası"
-date: 2025-12-24T22:08:01+03:00
+title: "Alan Yeri Camii"
+date: "2025-12-24T22:08:01+03:00"
 slug: "alan-yeri-camii"
 description: "## Alan Yeri Camii..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0663185,40.1859589"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Alan Yeri Camii

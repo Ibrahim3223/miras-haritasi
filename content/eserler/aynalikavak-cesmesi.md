@@ -1,18 +1,17 @@
 ---
-title: "Aynalıkavak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:00:09+03:00
+title: "Aynalıkavak Çeşmesi"
+date: "2025-12-25T11:00:09+03:00"
 slug: "aynalikavak-cesmesi"
 description: "# Aynalıkavak Çeşmesi: Beyoğlu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Camiikebir"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.956295,41.038425"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aynalıkavak Çeşmesi: Beyoğlu'nun Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Odeki Kale Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:48+03:00
+title: "Odeki Kale Kilisesi"
+date: "2025-12-25T09:01:48+03:00"
 slug: "odeki-kale-kilisesi"
 description: "## Odeki Kale Kilisesi: Tortum'un Gizli Çağı..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: ["Tortum ilçesi"]
+iller: '["Tortum ilçesi"]'
 district: "Aşağı Serdarlı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.367111111,40.490166666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Odeki Kale Kilisesi: Tortum'un Gizli Çağı

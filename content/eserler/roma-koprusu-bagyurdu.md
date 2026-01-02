@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Bağyurdu | Miras Haritası"
-date: 2025-12-25T02:57:10+03:00
+title: "Roma Köprüsü, Bağyurdu"
+date: "2025-12-25T02:57:10+03:00"
 slug: "roma-koprusu-bagyurdu"
 description: "### Roma Köprüsü, Bağyurdu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.630976,38.444168"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Roma Köprüsü, Bağyurdu

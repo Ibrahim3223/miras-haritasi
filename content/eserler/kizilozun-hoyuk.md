@@ -1,18 +1,17 @@
 ---
-title: "Kızılözün Höyük | Miras Haritası"
-date: 2025-12-25T06:31:11+03:00
+title: "Kızılözün Höyük"
+date: "2025-12-25T06:31:11+03:00"
 slug: "kizilozun-hoyuk"
 description: "## Kızılözün Höyük: Gülşehir'de Bir Arkeolojik Ören..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.6997174,38.7669725"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızılözün Höyük: Gülşehir'de Bir Arkeolojik Ören

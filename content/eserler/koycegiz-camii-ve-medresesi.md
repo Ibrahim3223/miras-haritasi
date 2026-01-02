@@ -1,18 +1,17 @@
 ---
-title: "Köyceğiz Camii ve Medresesi | Miras Haritası"
-date: 2025-12-25T17:40:08+03:00
+title: "Köyceğiz Camii ve Medresesi"
+date: "2025-12-25T17:40:08+03:00"
 slug: "koycegiz-camii-ve-medresesi"
 description: "### Köyceğiz Camii ve Medresesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Köyceğiz"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.7091656,36.9298782"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Köyceğiz Camii ve Medresesi

@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Çeşmesi Küçükayasofya | Miras Haritası"
-date: 2025-12-25T13:00:12+03:00
+title: "Mehmet Ağa Çeşmesi Küçükayasofya"
+date: "2025-12-25T13:00:12+03:00"
 slug: "mehmet-aga-cesmesi-kucukayasofya"
 description: "## Mehmet Ağa Çeşmesi Küçükayasofya..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Küçük Ayasofya"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.970998,41.002858"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Mehmet Ağa Çeşmesi Küçükayasofya

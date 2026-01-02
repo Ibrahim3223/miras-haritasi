@@ -1,18 +1,17 @@
 ---
-title: "Kuva-yi Milliye ve Cumhuriyet Anıtı | Miras Haritası"
-date: 2025-12-25T15:42:26+03:00
+title: "Kuva-yi Milliye ve Cumhuriyet Anıtı"
+date: "2025-12-25T15:42:26+03:00"
 slug: "kuva-yi-milliye-ve-cumhuriyet-aniti"
 description: "## Kuva-yi Milliye ve Cumhuriyet Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kuva-yi_Milliye_Monument_03.jpg/1200px-Kuva-yi_Milliye_Monument_03.jpg"
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.359916666,38.603666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kuva-yi Milliye ve Cumhuriyet Anıtı

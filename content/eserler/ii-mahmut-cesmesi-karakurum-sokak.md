@@ -1,18 +1,17 @@
 ---
-title: "II. Mahmut Çeşmesi, Karakurum Sokak | Miras Haritası"
-date: 2025-12-25T11:54:47+03:00
+title: "II. Mahmut Çeşmesi, Karakurum Sokak"
+date: "2025-12-25T11:54:47+03:00"
 slug: "ii-mahmut-cesmesi-karakurum-sokak"
 description: "## II. Mahmut Çeşmesi: Beyoğlu'ndaki Bir Ören..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/II._Mahmut_Çeşmesi,_Karakurum_Sokak_IMG_6295.jpg/1200px-II._Mahmut_Çeşmesi,_Karakurum_Sokak_IMG_6295.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.978359,41.037453"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## II. Mahmut Çeşmesi: Beyoğlu'ndaki Bir Ören

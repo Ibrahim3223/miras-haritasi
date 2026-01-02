@@ -1,18 +1,17 @@
 ---
-title: "Esendere Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:37:06+03:00
+title: "Esendere Sınır Kapısı"
+date: "2025-12-25T08:37:06+03:00"
 slug: "esendere-sinir-kapisi"
 description: "## Esendere Sınır Kapısı: Tarihi Kervansaray..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "44.6202,37.7161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esendere Sınır Kapısı: Tarihi Kervansaray

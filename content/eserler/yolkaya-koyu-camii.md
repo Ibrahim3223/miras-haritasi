@@ -1,18 +1,17 @@
 ---
-title: "Yolkaya Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:13:27+03:00
+title: "Yolkaya Köyü Camii"
+date: "2025-12-25T00:13:27+03:00"
 slug: "yolkaya-koyu-camii"
 description: "### Yolkaya Köyü Camii: Çankırı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Korgun"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.4530907,40.6818008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yolkaya Köyü Camii: Çankırı'nın Tarihi Bir Mirası

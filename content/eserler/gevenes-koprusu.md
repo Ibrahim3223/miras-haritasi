@@ -1,18 +1,17 @@
 ---
-title: "Gevenes Köprüsü | Miras Haritası"
-date: 2025-12-25T02:13:37+03:00
+title: "Gevenes Köprüsü"
+date: "2025-12-25T02:13:37+03:00"
 slug: "gevenes-koprusu"
 description: "### Gevenes Köprüsü: Muğla'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.136919,37.2427902"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gevenes Köprüsü: Muğla'nın Tarihi ve Kültürel Mirası

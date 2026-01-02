@@ -1,18 +1,17 @@
 ---
-title: "Cumhurbaşkanlığı Sarayı | Miras Haritası"
-date: 2025-12-25T13:14:00+03:00
+title: "Cumhurbaşkanlığı Sarayı"
+date: "2025-12-25T13:14:00+03:00"
 slug: "cumhurbaskanligi-sarayi"
 description: "## Cumhurbaşkanlığı Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Presidential_Palace_Main.jpg/1200px-Presidential_Palace_Main.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Yenimahalle"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "32.7989,39.9311"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Cumhurbaşkanlığı Sarayı

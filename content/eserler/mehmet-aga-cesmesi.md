@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:37:12+03:00
+title: "Mehmet Ağa Çeşmesi"
+date: "2025-12-25T11:37:12+03:00"
 slug: "mehmet-aga-cesmesi"
 description: "## Mehmet Ağa Çeşmesi: Karatay, Konya'nın Tarihî Çeşme Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5022736,37.8690987"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mehmet Ağa Çeşmesi: Karatay, Konya'nın Tarihî Çeşme Anıtı

@@ -1,18 +1,17 @@
 ---
-title: "Adile Şah Kadın Camii | Miras Haritası"
-date: 2025-12-24T22:44:19+03:00
+title: "Adile Şah Kadın Camii"
+date: "2025-12-24T22:44:19+03:00"
 slug: "adile-sah-kadin-camii"
 description: "## Adile Şah Kadın Camii: Ayvansaray'da Bir Tarihî Değer..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.94104,41.034669"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adile Şah Kadın Camii: Ayvansaray'da Bir Tarihî Değer

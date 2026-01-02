@@ -1,18 +1,17 @@
 ---
-title: "Esnemez Höyük | Miras Haritası"
-date: 2025-12-25T05:27:44+03:00
+title: "Esnemez Höyük"
+date: "2025-12-25T05:27:44+03:00"
 slug: "esnemez-hoyuk"
 description: "### Esnemez Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "İnönü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.084089,39.730776"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Esnemez Höyük: Eskişehir'in Gizli Mirası

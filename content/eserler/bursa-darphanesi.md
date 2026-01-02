@@ -1,18 +1,17 @@
 ---
-title: "Bursa Darphanesi | Miras Haritası"
-date: 2025-12-25T03:45:34+03:00
+title: "Bursa Darphanesi"
+date: "2025-12-25T03:45:34+03:00"
 slug: "bursa-darphanesi"
 description: "### Bursa Darphanesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.0605946,40.1779861"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bursa Darphanesi

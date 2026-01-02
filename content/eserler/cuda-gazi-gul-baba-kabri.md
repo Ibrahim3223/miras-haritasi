@@ -1,18 +1,17 @@
 ---
-title: "Cüda Gazi Gül Baba Kabri | Miras Haritası"
-date: 2025-12-25T13:33:35+03:00
+title: "Cüda Gazi Gül Baba Kabri"
+date: "2025-12-25T13:33:35+03:00"
 slug: "cuda-gazi-gul-baba-kabri"
 description: "## Cüda Gazi Gül Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Ümraniye"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1625271,41.015873"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cüda Gazi Gül Baba Kabri

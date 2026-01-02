@@ -1,18 +1,17 @@
 ---
-title: "Amastrianum | Miras Haritası"
-date: 2025-12-25T06:58:15+03:00
+title: "Amastrianum"
+date: "2025-12-25T06:58:15+03:00"
 slug: "amastrianum"
 description: "## Amastrianum: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amastrianum: İstanbul'un Gizli Mirası

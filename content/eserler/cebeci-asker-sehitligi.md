@@ -1,18 +1,17 @@
 ---
-title: "Cebeci Askerî Şehitliği | Miras Haritası"
-date: 2025-12-25T15:57:05+03:00
+title: "Cebeci Askerî Şehitliği"
+date: "2025-12-25T15:57:05+03:00"
 slug: "cebeci-asker-sehitligi"
 description: "# Cebeci Askerî Şehitliği ..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.88938,39.93385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Cebeci Askerî Şehitliği 

@@ -1,18 +1,17 @@
 ---
-title: "Haliç Tersanesi Anıtsal Kapısı | Miras Haritası"
-date: 2025-12-25T15:39:12+03:00
+title: "Haliç Tersanesi Anıtsal Kapısı"
+date: "2025-12-25T15:39:12+03:00"
 slug: "halic-tersanesi-anitsal-kapisi"
 description: "# Haliç Tersanesi Anıtsal Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9684505,41.0266838"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Haliç Tersanesi Anıtsal Kapısı

@@ -1,18 +1,17 @@
 ---
-title: "Pertev Naili Boratav, Kültür Evi | Miras Haritası"
-date: 2025-12-25T03:42:58+03:00
+title: "Pertev Naili Boratav, Kültür Evi"
+date: "2025-12-25T03:42:58+03:00"
 slug: "pertev-naili-boratav-kultur-evi"
 description: "## Pertev Naili Boratav Kültür Evi..."
 featured_image: ""
 province: "Bolu"
-iller: ["Bolu"]
+iller: '["Bolu"]'
 district: "Mudurnu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "31.2117844,40.4647522"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pertev Naili Boratav Kültür Evi

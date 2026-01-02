@@ -1,18 +1,17 @@
 ---
-title: "Fatih Sultan Mehmet Anıtı | Miras Haritası"
-date: 2025-12-25T15:55:54+03:00
+title: "Fatih Sultan Mehmet Anıtı"
+date: "2025-12-25T15:55:54+03:00"
 slug: "fatih-sultan-mehmet-aniti"
 description: "## Fatih Sultan Mehmet Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fatih_Sultan_Mehmet_Anıtı.jpg/1200px-Fatih_Sultan_Mehmet_Anıtı.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.954198,41.015615"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fatih Sultan Mehmet Anıtı

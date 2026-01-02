@@ -1,18 +1,17 @@
 ---
-title: "Zülfikar Camii, Antakya | Miras Haritası"
-date: 2025-12-24T23:54:01+03:00
+title: "Zülfikar Camii, Antakya"
+date: "2025-12-24T23:54:01+03:00"
 slug: "zulfikar-camii-antakya"
 description: "## Zülfikar Camii: Antakya'nın Tarihsel ve Mimari Güzelliği..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1655693,36.2036247"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zülfikar Camii: Antakya'nın Tarihsel ve Mimari Güzelliği

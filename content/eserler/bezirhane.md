@@ -1,18 +1,17 @@
 ---
-title: "Bezirhane | Miras Haritası"
-date: 2025-12-25T09:34:24+03:00
+title: "Bezirhane"
+date: "2025-12-25T09:34:24+03:00"
 slug: "bezirhane"
 description: "## Bezirhane: Aksaray'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Güzelyurt"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.2890995,38.2698208"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bezirhane: Aksaray'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Gerdekkaya Mezar Anıtı | Miras Haritası"
-date: 2025-12-25T14:03:45+03:00
+title: "Gerdekkaya Mezar Anıtı"
+date: "2025-12-25T14:03:45+03:00"
 slug: "gerdekkaya-mezar-aniti"
 description: "## Gerdekkaya Mezar Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.6972809,39.2256393"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gerdekkaya Mezar Anıtı

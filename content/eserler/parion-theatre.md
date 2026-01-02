@@ -1,18 +1,17 @@
 ---
-title: "Parion, Theatre | Miras Haritası"
-date: 2025-12-25T04:12:18+03:00
+title: "Parion, Theatre"
+date: "2025-12-25T04:12:18+03:00"
 slug: "parion-theatre"
 description: "## Parion, Theatre..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.066961,40.425751"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parion, Theatre

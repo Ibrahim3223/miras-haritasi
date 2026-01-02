@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü 2, Hypaipa | Miras Haritası"
-date: 2025-12-25T02:48:26+03:00
+title: "Roma Köprüsü 2, Hypaipa"
+date: "2025-12-25T02:48:26+03:00"
 slug: "roma-koprusu-2-hypaipa"
 description: "## Roma Köprüsü 2, Hypaipa: Ödemiş'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.9549236,38.2744179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü 2, Hypaipa: Ödemiş'in Gizli Çehresini Keşfedin

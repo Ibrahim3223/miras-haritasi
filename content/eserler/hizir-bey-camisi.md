@@ -1,18 +1,17 @@
 ---
-title: "Hızır Bey Camisi | Miras Haritası"
-date: 2025-12-24T22:05:05+03:00
+title: "Hızır Bey Camisi"
+date: "2025-12-24T22:05:05+03:00"
 slug: "hizir-bey-camisi"
 description: "## Hızır Bey Camisi: Eğirdir'in Gizli Çiçeği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Eğirdir_Hızır_Bey_Camii_3010.jpg/1200px-Eğirdir_Hızır_Bey_Camii_3010.jpg"
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.850888888,37.874638888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hızır Bey Camisi: Eğirdir'in Gizli Çiçeği

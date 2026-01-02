@@ -1,18 +1,17 @@
 ---
-title: "Askeri Hastane Çeşme, Ortahisar | Miras Haritası"
-date: 2025-12-25T12:24:29+03:00
+title: "Askeri Hastane Çeşme, Ortahisar"
+date: "2025-12-25T12:24:29+03:00"
 slug: "askeri-hastane-cesme-ortahisar"
 description: "## Askeri Hastane Çeşme, Ortahisar..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.7089991,41.0010565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Askeri Hastane Çeşme, Ortahisar

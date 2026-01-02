@@ -1,18 +1,17 @@
 ---
-title: "Alâeddin Camii, Mersin | Miras Haritası"
-date: 2025-12-24T22:04:33+03:00
+title: "Alâeddin Camii, Mersin"
+date: "2025-12-24T22:04:33+03:00"
 slug: "aleddin-camii-mersin"
 description: "# Alâeddin Camii, Mersin..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.92483713,36.377936897"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Alâeddin Camii, Mersin

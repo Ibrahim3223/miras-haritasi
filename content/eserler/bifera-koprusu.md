@@ -1,18 +1,17 @@
 ---
-title: "Bifera Köprüsü | Miras Haritası"
-date: 2025-12-25T02:33:12+03:00
+title: "Bifera Köprüsü"
+date: "2025-12-25T02:33:12+03:00"
 slug: "bifera-koprusu"
 description: "### Bifera Köprüsü: Araklı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Araklı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.9994545,40.827961"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bifera Köprüsü: Araklı'nın Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "İmza Dede Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T15:26:56+03:00
+title: "İmza Dede Sultan Türbesi"
+date: "2025-12-25T15:26:56+03:00"
 slug: "imza-dede-sultan-turbesi"
 description: "## İmza Dede Sultan Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çal"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.3220806,38.2166862"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmza Dede Sultan Türbesi

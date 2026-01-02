@@ -1,18 +1,17 @@
 ---
-title: "Beylerbeyi Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:48+03:00
+title: "Beylerbeyi Türbesi"
+date: "2025-12-25T14:41:48+03:00"
 slug: "beylerbeyi-turbesi"
 description: "### Beylerbeyi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Beylerbeyi_Türbesi,_Edirne_25.JPG/1200px-Beylerbeyi_Türbesi,_Edirne_25.JPG"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.5552235,41.6831169"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Beylerbeyi Türbesi

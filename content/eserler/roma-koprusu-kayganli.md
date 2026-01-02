@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Kayganlı | Miras Haritası"
-date: 2025-12-25T03:00:08+03:00
+title: "Roma Köprüsü, Kayganlı"
+date: "2025-12-25T03:00:08+03:00"
 slug: "roma-koprusu-kayganli"
 description: "# Roma Köprüsü, Kayganlı..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.0001847,39.1207279"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Roma Köprüsü, Kayganlı

@@ -1,18 +1,17 @@
 ---
-title: "Şapinuva | Miras Haritası"
-date: 2025-12-25T06:34:42+03:00
+title: "Şapinuva"
+date: "2025-12-25T06:34:42+03:00"
 slug: "sapinuva"
 description: "## Şapinuva Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Sapinuwa3.jpg/1200px-Sapinuwa3.jpg"
 province: "Ortaköy"
-iller: ["Ortaköy"]
+iller: '["Ortaköy"]'
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.2374687,40.2550049"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Şapinuva Arkeolojik Sit

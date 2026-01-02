@@ -1,18 +1,17 @@
 ---
-title: "Valide Medresesi | Miras Haritası"
-date: 2025-12-25T17:39:12+03:00
+title: "Valide Medresesi"
+date: "2025-12-25T17:39:12+03:00"
 slug: "valide-medresesi"
 description: "## Valide Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.9478531,41.024334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Valide Medresesi

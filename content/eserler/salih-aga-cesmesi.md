@@ -1,18 +1,17 @@
 ---
-title: "Salih Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:28:56+03:00
+title: "Salih Ağa Çeşmesi"
+date: "2025-12-25T10:28:56+03:00"
 slug: "salih-aga-cesmesi"
 description: "## Salih Ağa Çeşmesi..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "İstiklal"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.970087,41.042805"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salih Ağa Çeşmesi

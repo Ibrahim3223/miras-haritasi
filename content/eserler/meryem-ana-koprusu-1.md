@@ -1,18 +1,17 @@
 ---
-title: "Meryem Ana Köprüsü 1 | Miras Haritası"
-date: 2025-12-25T02:34:22+03:00
+title: "Meryem Ana Köprüsü 1"
+date: "2025-12-25T02:34:22+03:00"
 slug: "meryem-ana-koprusu-1"
 description: "## Meryem Ana Köprüsü 1: Torul'un Efsanevi Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.227596,40.514801"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Meryem Ana Köprüsü 1: Torul'un Efsanevi Köprüsü

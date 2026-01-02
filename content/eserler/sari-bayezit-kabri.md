@@ -1,18 +1,17 @@
 ---
-title: "Sarı Bayezit Kabri | Miras Haritası"
-date: 2025-12-25T13:27:02+03:00
+title: "Sarı Bayezit Kabri"
+date: "2025-12-25T13:27:02+03:00"
 slug: "sari-bayezit-kabri"
 description: "## Sarı Bayezit Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9610271,41.0178108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sarı Bayezit Kabri

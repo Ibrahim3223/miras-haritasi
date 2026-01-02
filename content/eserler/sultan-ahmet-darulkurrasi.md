@@ -1,18 +1,17 @@
 ---
-title: "Sultan Ahmet Darülkurrası | Miras Haritası"
-date: 2025-12-25T17:30:23+03:00
+title: "Sultan Ahmet Darülkurrası"
+date: "2025-12-25T17:30:23+03:00"
 slug: "sultan-ahmet-darulkurrasi"
 description: "## Sultan Ahmet Darülkurrası: İstanbul'un Gizli Mimari Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.976972,41.006818"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sultan Ahmet Darülkurrası: İstanbul'un Gizli Mimari Harikası

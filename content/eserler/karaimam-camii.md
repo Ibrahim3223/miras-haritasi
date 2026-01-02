@@ -1,18 +1,17 @@
 ---
-title: "Karaimam Camii | Miras Haritası"
-date: 2025-12-25T00:35:09+03:00
+title: "Karaimam Camii"
+date: "2025-12-25T00:35:09+03:00"
 slug: "karaimam-camii"
 description: "## Karaimam Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4779481,38.718086879"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaimam Camii

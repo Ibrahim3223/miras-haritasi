@@ -1,18 +1,17 @@
 ---
-title: "Sürmene Kalesi | Miras Haritası"
-date: 2025-12-25T01:49:20+03:00
+title: "Sürmene Kalesi"
+date: "2025-12-25T01:49:20+03:00"
 slug: "surmene-kalesi"
 description: "## Sürmene Kalesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Sürmene"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "40.1260033,40.9033737"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sürmene Kalesi

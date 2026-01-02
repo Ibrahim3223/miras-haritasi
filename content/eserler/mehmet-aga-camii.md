@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Camii | Miras Haritası"
-date: 2025-12-24T21:47:06+03:00
+title: "Mehmet Ağa Camii"
+date: "2025-12-24T21:47:06+03:00"
 slug: "mehmet-aga-camii"
 description: "## Mehmet Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mehmed_Ağa_Cami.jpg/1200px-Mehmed_Ağa_Cami.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.945266095,41.026880818"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mehmet Ağa Camii

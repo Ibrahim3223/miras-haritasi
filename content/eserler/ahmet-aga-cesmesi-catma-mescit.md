@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Ağa Çeşmesi, Çatma Mescit | Miras Haritası"
-date: 2025-12-25T12:16:16+03:00
+title: "Ahmet Ağa Çeşmesi, Çatma Mescit"
+date: "2025-12-25T12:16:16+03:00"
 slug: "ahmet-aga-cesmesi-catma-mescit"
 description: "### Ahmet Ağa Çeşmesi: Beyoğlu'ndaki Tarihi Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ahmet_Ağa_Çeşmesi,_Çatma_Mescit_IMG_0187.jpg/1200px-Ahmet_Ağa_Çeşmesi,_Çatma_Mescit_IMG_0187.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.971731,41.031818"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ahmet Ağa Çeşmesi: Beyoğlu'ndaki Tarihi Bir Çeşme

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Selim Ağa Yazma Eser Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:12+03:00
+title: "Hacı Selim Ağa Yazma Eser Kütüphanesi"
+date: "2025-12-25T17:48:12+03:00"
 slug: "haci-selim-aga-yazma-eser-kutuphanesi"
 description: "## Hacı Selim Ağa Yazma Eser Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Selim Ağa Yazma Eser Kütüphanesi

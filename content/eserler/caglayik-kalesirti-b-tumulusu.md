@@ -1,18 +1,17 @@
 ---
-title: "Çağlayık Kalesırtı B Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:19:02+03:00
+title: "Çağlayık Kalesırtı B Tümülüsü"
+date: "2025-12-25T07:19:02+03:00"
 slug: "caglayik-kalesirti-b-tumulusu"
 description: "## Çağlayık Kalesırtı B Tümülüsü: Kırklareli'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3265858,42.0338326"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlayık Kalesırtı B Tümülüsü: Kırklareli'nin Gizli Hazinesi

@@ -1,18 +1,17 @@
 ---
-title: "Dumanlı Köyü Çeşme 2 | Miras Haritası"
-date: 2025-12-25T10:11:49+03:00
+title: "Dumanlı Köyü Çeşme 2"
+date: "2025-12-25T10:11:49+03:00"
 slug: "dumanli-koyu-cesme-2"
 description: "## Dumanlı Köyü Çeşme 2: Tarihi ve Kültürel Mirasın Bir Parçasi..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.800285,40.653303"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumanlı Köyü Çeşme 2: Tarihi ve Kültürel Mirasın Bir Parçasi

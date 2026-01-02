@@ -1,18 +1,17 @@
 ---
-title: "Halife Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:02:49+03:00
+title: "Halife Baba Türbesi"
+date: "2025-12-25T15:02:49+03:00"
 slug: "halife-baba-turbesi"
 description: "### Halife Baba Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.9780788,37.5900078"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Halife Baba Türbesi

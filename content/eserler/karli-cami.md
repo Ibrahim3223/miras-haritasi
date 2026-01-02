@@ -1,18 +1,17 @@
 ---
-title: "Karlı Cami | Miras Haritası"
-date: 2025-12-24T23:59:12+03:00
+title: "Karlı Cami"
+date: "2025-12-24T23:59:12+03:00"
 slug: "karli-cami"
 description: "# Karlı Cami: Tekirdağ'ın Gizli Cenneti..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Kapaklı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8639145,41.3709183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Karlı Cami: Tekirdağ'ın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Hagios Polieuktos Kilisesi | Miras Haritası"
-date: 2025-12-25T08:39:33+03:00
+title: "Hagios Polieuktos Kilisesi"
+date: "2025-12-25T08:39:33+03:00"
 slug: "hagios-polieuktos-kilisesi"
 description: "# Hagios Polieuktos Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Polieuktos_Kilisesi.JPG/1200px-Polieuktos_Kilisesi.JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.95305556,41.01444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Hagios Polieuktos Kilisesi

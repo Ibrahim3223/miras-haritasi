@@ -1,18 +1,17 @@
 ---
-title: "Yulaflı Köyü Cami | Miras Haritası"
-date: 2025-12-24T23:45:28+03:00
+title: "Yulaflı Köyü Cami"
+date: "2025-12-24T23:45:28+03:00"
 slug: "yulafli-koyu-cami"
 description: "### Yulaflı Köyü Cami: Tekirdağ'ın Gizli Cevheri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8328114,41.2116356"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yulaflı Köyü Cami: Tekirdağ'ın Gizli Cevheri

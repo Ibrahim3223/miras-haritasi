@@ -1,18 +1,17 @@
 ---
-title: "Alacami | Miras Haritası"
-date: 2025-12-24T21:59:43+03:00
+title: "Alacami"
+date: "2025-12-24T21:59:43+03:00"
 slug: "alacami"
 description: "## Alacami: Osmaniye'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Kadirli_Ala_Mosque.jpg/1200px-Kadirli_Ala_Mosque.jpg"
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Kadirli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1028042,37.3730519"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alacami: Osmaniye'nin Tarihi Bir Mirası

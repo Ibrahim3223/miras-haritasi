@@ -1,18 +1,17 @@
 ---
-title: "İçerenköy Mezarlık Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:14:35+03:00
+title: "İçerenköy Mezarlık Çeşmesi"
+date: "2025-12-25T11:14:35+03:00"
 slug: "icerenkoy-mezarlik-cesmesi"
 description: "## İçerenköy Mezarlık Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/İçerenköy_Mezarlık_Çeşmesi_IMG_8276.jpg/1200px-İçerenköy_Mezarlık_Çeşmesi_IMG_8276.jpg"
-province: "Ataşehir"
-iller: ["Ataşehir"]
-district: "İçerenköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Ataşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.108484,40.969181"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## İçerenköy Mezarlık Çeşmesi

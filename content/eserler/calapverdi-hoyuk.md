@@ -1,18 +1,17 @@
 ---
-title: "Çalapverdi Höyük | Miras Haritası"
-date: 2025-12-25T13:46:35+03:00
+title: "Çalapverdi Höyük"
+date: "2025-12-25T13:46:35+03:00"
 slug: "calapverdi-hoyuk"
 description: "## Çalapverdi Höyük: Boğazlıyan'ın Gizemi..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.3030688,39.2255193"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çalapverdi Höyük: Boğazlıyan'ın Gizemi

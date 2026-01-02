@@ -1,18 +1,17 @@
 ---
-title: "Scaean Gate | Miras Haritası"
-date: 2025-12-25T13:16:18+03:00
+title: "Scaean Gate"
+date: "2025-12-25T13:16:18+03:00"
 slug: "scaean-gate"
 description: "### Scaean Gate Tanıtımı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Scaean Gate Tanıtımı

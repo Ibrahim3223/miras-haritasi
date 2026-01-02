@@ -1,18 +1,17 @@
 ---
-title: "Helvacı Baba Mescidi ve Türbesi | Miras Haritası"
-date: 2025-12-25T01:09:25+03:00
+title: "Helvacı Baba Mescidi ve Türbesi"
+date: "2025-12-25T01:09:25+03:00"
 slug: "helvaci-baba-mescidi-ve-turbesi"
 description: "# Helvacı Baba Mescidi ve Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5640984,41.6746063"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Helvacı Baba Mescidi ve Türbesi

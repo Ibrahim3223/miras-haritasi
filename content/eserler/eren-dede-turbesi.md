@@ -1,18 +1,17 @@
 ---
-title: "Eren Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:23:54+03:00
+title: "Eren Dede Türbesi"
+date: "2025-12-25T14:23:54+03:00"
 slug: "eren-dede-turbesi"
 description: "### Eren Dede Türbesi: Marmaris'in Gizli Çehresini Açan Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eren_Dede_Türbesi,_Marmaris.jpg/1200px-Eren_Dede_Türbesi,_Marmaris.jpg"
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.310482,36.817708"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Eren Dede Türbesi: Marmaris'in Gizli Çehresini Açan Bir Anıt

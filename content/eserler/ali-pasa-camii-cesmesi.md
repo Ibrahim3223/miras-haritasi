@@ -1,18 +1,18 @@
 ---
-title: "Ali Paşa Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:09+03:00
+title: "Ali Paşa Camii Çeşmesi"
+date: "2025-12-25T11:36:09+03:00"
 slug: "ali-pasa-camii-cesmesi"
 description: "## Ali Paşa Camii Çeşmesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ali_Paşa_Camii_Çeşmesi.jpg/1200px-Ali_Paşa_Camii_Çeşmesi.jpg"
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2765579,39.9127731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ali_Paşa_Camii_Çeşmesi.jpg/1200px-Ali_Paşa_Camii_Çeşmesi.jpg"
 ---
 
 ## Ali Paşa Camii Çeşmesi

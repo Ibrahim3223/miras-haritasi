@@ -1,18 +1,17 @@
 ---
-title: "Arkadios Sütunu | Miras Haritası"
-date: 2025-12-25T13:19:23+03:00
+title: "Arkadios Sütunu"
+date: "2025-12-25T13:19:23+03:00"
 slug: "arkadios-sutunu"
 description: "# Arkadios Sütunu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cambridge,_Trinity_College,_ms._O.17.2_(11).jpg/1200px-Cambridge,_Trinity_College,_ms._O.17.2_(11).jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cerrahpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9431,41.0078"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Arkadios Sütunu

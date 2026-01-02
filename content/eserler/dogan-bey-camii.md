@@ -1,18 +1,17 @@
 ---
-title: "Doğan Bey Camii | Miras Haritası"
-date: 2025-12-24T22:35:10+03:00
+title: "Doğan Bey Camii"
+date: "2025-12-24T22:35:10+03:00"
 slug: "dogan-bey-camii"
 description: "### Doğan Bey Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7410679,38.0838585"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Doğan Bey Camii

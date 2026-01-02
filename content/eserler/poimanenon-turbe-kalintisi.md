@@ -1,18 +1,17 @@
 ---
-title: "Poimanenon Türbe Kalıntısı | Miras Haritası"
-date: 2025-12-25T14:47:17+03:00
+title: "Poimanenon Türbe Kalıntısı"
+date: "2025-12-25T14:47:17+03:00"
 slug: "poimanenon-turbe-kalintisi"
 description: "## Poimanenon Türbe Kalıntısı..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Manyas"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.0560875,40.0023613"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Poimanenon Türbe Kalıntısı

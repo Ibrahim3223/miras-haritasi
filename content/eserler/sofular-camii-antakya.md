@@ -1,18 +1,17 @@
 ---
-title: "Sofular Camii, Antakya | Miras Haritası"
-date: 2025-12-24T23:56:25+03:00
+title: "Sofular Camii, Antakya"
+date: "2025-12-24T23:56:25+03:00"
 slug: "sofular-camii-antakya"
 description: "## Sofular Camii: Antakya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.1691475,36.2021675"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sofular Camii: Antakya'nın Tarihi ve Kültürel Mirası

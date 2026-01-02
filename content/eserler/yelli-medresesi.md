@@ -1,18 +1,17 @@
 ---
-title: "Yelli Medresesi | Miras Haritası"
-date: 2025-12-25T17:40:44+03:00
+title: "Yelli Medresesi"
+date: "2025-12-25T17:40:44+03:00"
 slug: "yelli-medresesi"
 description: "## Yelli Medresesi: Milas'ta Bir Klasik Osmanlı Medresesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "27.7925243,37.2700729"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yelli Medresesi: Milas'ta Bir Klasik Osmanlı Medresesi

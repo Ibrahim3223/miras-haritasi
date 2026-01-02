@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri | Miras Haritası"
-date: 2025-12-25T14:34:02+03:00
+title: "Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri"
+date: "2025-12-25T14:34:02+03:00"
 slug: "seyh-sadik-ve-seyh-feyzullah-efendi-turbeleri"
 description: "## Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9410496,41.0147707"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Sadık ve Şeyh Feyzullah Efendi Türbeleri

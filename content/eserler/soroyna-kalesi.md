@@ -1,18 +1,17 @@
 ---
-title: "Soroyna Kalesi | Miras Haritası"
-date: 2025-12-25T01:27:14+03:00
+title: "Soroyna Kalesi"
+date: "2025-12-25T01:27:14+03:00"
 slug: "soroyna-kalesi"
 description: "### Soroyna Kalesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.2596054,40.445034"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Soroyna Kalesi

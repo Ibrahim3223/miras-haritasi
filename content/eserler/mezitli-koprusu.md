@@ -1,18 +1,17 @@
 ---
-title: "Mezitli Köprüsü | Miras Haritası"
-date: 2025-12-25T02:17:05+03:00
+title: "Mezitli Köprüsü"
+date: "2025-12-25T02:17:05+03:00"
 slug: "mezitli-koprusu"
 description: "## Mezitli Köprüsü: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mezitli_Köprüsü_2022-04-28.jpg/1200px-Mezitli_Köprüsü_2022-04-28.jpg"
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Mezitli"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "34.5321839,36.7505461"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mezitli Köprüsü: Mersin'in Tarihi ve Kültürel Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Yukarı Köşk Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:11:09+03:00
+title: "Yukarı Köşk Köyü Camii"
+date: "2025-12-25T00:11:09+03:00"
 slug: "yukari-kosk-koyu-camii"
 description: "**Yukarı Köşk Köyü Camii: Ağrı'nın Tarihî ve Kültürel Mirası**..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Tutak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.8489799,39.5638771"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Yukarı Köşk Köyü Camii: Ağrı'nın Tarihî ve Kültürel Mirası**

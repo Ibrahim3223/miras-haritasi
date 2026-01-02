@@ -1,18 +1,17 @@
 ---
-title: "Aquae saravenae | Miras Haritası"
-date: 2025-12-25T05:11:41+03:00
+title: "Aquae saravenae"
+date: "2025-12-25T05:11:41+03:00"
 slug: "aquae-saravenae"
 description: "## Aquae Saravenae: Roma Dönemi'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.15803,39.14591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aquae Saravenae: Roma Dönemi'nin Gizli Mirası

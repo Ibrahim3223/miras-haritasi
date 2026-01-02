@@ -1,18 +1,17 @@
 ---
-title: "Gülbahar Hatun Medresesi | Miras Haritası"
-date: 2025-12-25T17:38:57+03:00
+title: "Gülbahar Hatun Medresesi"
+date: "2025-12-25T17:38:57+03:00"
 slug: "gulbahar-hatun-medresesi"
 description: "## Gülbahar Hatun Medresesi..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "39.7164268,41.0036354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülbahar Hatun Medresesi

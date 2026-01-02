@@ -1,18 +1,17 @@
 ---
-title: "Syedra Hamamı | Miras Haritası"
-date: 2025-12-25T17:04:30+03:00
+title: "Syedra Hamamı"
+date: "2025-12-25T17:04:30+03:00"
 slug: "syedra-hamami"
 description: "### Syedra Hamamı: Alanya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "32.1482773,36.4456177"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Syedra Hamamı: Alanya'nın Tarihi ve Kültürel Mirası

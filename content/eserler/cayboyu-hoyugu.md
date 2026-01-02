@@ -1,18 +1,17 @@
 ---
-title: "Çayboyu Höyüğü | Miras Haritası"
-date: 2025-12-25T07:03:33+03:00
+title: "Çayboyu Höyüğü"
+date: "2025-12-25T07:03:33+03:00"
 slug: "cayboyu-hoyugu"
 description: "## Çayboyu Höyüğü: Türkiye'nin Gizli Özellikleri Arasındaki Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Çınar"
-iller: ["Çınar"]
+iller: '["Çınar"]'
 district: "Muratcık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayboyu Höyüğü: Türkiye'nin Gizli Özellikleri Arasındaki Bir Arkeolojik Sit

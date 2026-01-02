@@ -1,18 +1,17 @@
 ---
-title: "Çavdır Höyük | Miras Haritası"
-date: 2025-12-25T05:32:37+03:00
+title: "Çavdır Höyük"
+date: "2025-12-25T05:32:37+03:00"
 slug: "cavdir-hoyuk"
 description: "## Çavdır Höyük: Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Çavdır"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.65745,37.146767"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavdır Höyük: Bir Geçmişin İzleri

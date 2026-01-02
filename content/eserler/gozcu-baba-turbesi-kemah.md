@@ -1,18 +1,17 @@
 ---
-title: "Gözcü Baba Türbesi, Kemah | Miras Haritası"
-date: 2025-12-25T13:57:34+03:00
+title: "Gözcü Baba Türbesi, Kemah"
+date: "2025-12-25T13:57:34+03:00"
 slug: "gozcu-baba-turbesi-kemah"
 description: "### Gözcü Baba Türbesi, Kemah..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Kemah"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.0336533,39.6069946"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gözcü Baba Türbesi, Kemah

@@ -1,18 +1,17 @@
 ---
-title: "Hızır Çavuş Camii | Miras Haritası"
-date: 2025-12-24T22:17:26+03:00
+title: "Hızır Çavuş Camii"
+date: "2025-12-24T22:17:26+03:00"
 slug: "hizir-cavus-camii"
 description: "**Hızır Çavuş Camii: Fatih'in Gizli Çeşmelerinden Birini Saklayan Tarihi Bir Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hızır_Çavuş_Mosque_(1).jpg/1200px-Hızır_Çavuş_Mosque_(1).jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.946286,41.031833"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Hızır Çavuş Camii: Fatih'in Gizli Çeşmelerinden Birini Saklayan Tarihi Bir Miras**

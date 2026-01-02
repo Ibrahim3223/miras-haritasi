@@ -1,18 +1,17 @@
 ---
-title: "İsmet İnönü Heykeli, Ziraat | Miras Haritası"
-date: 2025-12-25T16:09:33+03:00
+title: "İsmet İnönü Heykeli, Ziraat"
+date: "2025-12-25T16:09:33+03:00"
 slug: "ismet-inonu-heykeli-ziraat"
 description: "## İsmet İnönü Heykeli, Ziraat..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8600578,39.9560242"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsmet İnönü Heykeli, Ziraat

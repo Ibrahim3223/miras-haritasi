@@ -1,18 +1,17 @@
 ---
-title: "Eğirdir Kalesi | Miras Haritası"
-date: 2025-12-25T01:19:28+03:00
+title: "Eğirdir Kalesi"
+date: "2025-12-25T01:19:28+03:00"
 slug: "egirdir-kalesi"
 description: "## Eğirdir Kalesi: Tarihe ve Kültür Mirasına Kanat Geren Bir Kahramanlık..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eğirdir_Castle.jpg/1200px-Eğirdir_Castle.jpg"
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Eğirdir"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "30.853333333,37.875833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Eğirdir Kalesi: Tarihe ve Kültür Mirasına Kanat Geren Bir Kahramanlık

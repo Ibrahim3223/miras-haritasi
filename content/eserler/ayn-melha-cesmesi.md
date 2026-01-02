@@ -1,18 +1,17 @@
 ---
-title: "Ayn Melha Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:28:14+03:00
+title: "Ayn Melha Çeşmesi"
+date: "2025-12-25T12:28:14+03:00"
 slug: "ayn-melha-cesmesi"
 description: "## Ayn Melha Çeşmesi: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Artuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "40.749298,37.314622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayn Melha Çeşmesi: Mardin'in Gizli Cenneti

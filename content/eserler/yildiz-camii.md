@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Camii | Miras Haritası"
-date: 2025-12-24T21:37:14+03:00
+title: "Yıldız Camii"
+date: "2025-12-24T21:37:14+03:00"
 slug: "yildiz-camii"
 description: "## Yıldız Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Istanbul_asv2021-10_img15_Yıldız_Hamidiye_Mosque.jpg/1200px-Istanbul_asv2021-10_img15_Yıldız_Hamidiye_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.00993611,41.04941111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yıldız Camii

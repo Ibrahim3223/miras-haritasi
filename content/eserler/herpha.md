@@ -1,18 +1,17 @@
 ---
-title: "Herpha | Miras Haritası"
-date: 2025-12-25T05:07:03+03:00
+title: "Herpha"
+date: "2025-12-25T05:07:03+03:00"
 slug: "herpha"
 description: "### Herpha Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.220454,38.668869"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Herpha Arkeolojik Sit

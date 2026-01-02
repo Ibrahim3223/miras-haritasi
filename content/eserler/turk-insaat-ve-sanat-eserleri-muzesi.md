@@ -1,18 +1,17 @@
 ---
-title: "Türk İnşaat ve Sanat Eserleri Müzesi | Miras Haritası"
-date: 2025-12-25T04:03:45+03:00
+title: "Türk İnşaat ve Sanat Eserleri Müzesi"
+date: "2025-12-25T04:03:45+03:00"
 slug: "turk-insaat-ve-sanat-eserleri-muzesi"
 description: "## Türk İnşaat ve Sanat Eserleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.952138704,41.015293166"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk İnşaat ve Sanat Eserleri Müzesi

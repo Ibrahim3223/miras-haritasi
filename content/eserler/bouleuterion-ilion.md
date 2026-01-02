@@ -1,18 +1,17 @@
 ---
-title: "Bouleuterion (İlion) | Miras Haritası"
-date: 2025-12-25T08:27:04+03:00
+title: "Bouleuterion (İlion)"
+date: "2025-12-25T08:27:04+03:00"
 slug: "bouleuterion-ilion"
 description: "## Bouleuterion (İlion)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Troy_Bouleuterion_7862.jpg/1200px-Troy_Bouleuterion_7862.jpg"
-province: "Çanakkale (ilçe)"
-iller: ["Çanakkale (ilçe)"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.239264,39.957005"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bouleuterion (İlion)

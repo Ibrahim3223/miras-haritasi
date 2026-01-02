@@ -1,18 +1,17 @@
 ---
-title: "Laleli Camii, İkizce | Miras Haritası"
-date: 2025-12-25T00:52:54+03:00
+title: "Laleli Camii, İkizce"
+date: "2025-12-25T00:52:54+03:00"
 slug: "laleli-camii-ikizce"
 description: "# Laleli Camii, İkizce: Ordu'nun İhtişamlı Camii..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "İkizce"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.083742,41.058891"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Laleli Camii, İkizce: Ordu'nun İhtişamlı Camii

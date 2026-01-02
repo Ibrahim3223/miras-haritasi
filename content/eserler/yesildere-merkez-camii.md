@@ -1,18 +1,17 @@
 ---
-title: "Yeşildere Merkez Camii | Miras Haritası"
-date: 2025-12-25T00:53:13+03:00
+title: "Yeşildere Merkez Camii"
+date: "2025-12-25T00:53:13+03:00"
 slug: "yesildere-merkez-camii"
 description: "## Yeşildere Merkez Camii: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.5126572,37.1566963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşildere Merkez Camii: Karaman'ın Tarihi ve Kültürel Mirası

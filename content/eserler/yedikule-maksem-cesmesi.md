@@ -1,18 +1,17 @@
 ---
-title: "Yedikule Maksem Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:12:35+03:00
+title: "Yedikule Maksem Çeşmesi"
+date: "2025-12-25T12:12:35+03:00"
 slug: "yedikule-maksem-cesmesi"
 description: "### Yedikule Maksem Çeşmesi: Bir Osmanlı Çeşmesinin Gizemi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Yedikule"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.924513,40.99362"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yedikule Maksem Çeşmesi: Bir Osmanlı Çeşmesinin Gizemi

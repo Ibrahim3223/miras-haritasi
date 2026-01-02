@@ -1,18 +1,17 @@
 ---
-title: "Mahmudiye Hamamı | Miras Haritası"
-date: 2025-12-25T17:08:09+03:00
+title: "Mahmudiye Hamamı"
+date: "2025-12-25T17:08:09+03:00"
 slug: "mahmudiye-hamami"
 description: "## Mahmudiye Hamamı: Eskişehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Mahmudiye"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.9967613,39.4952011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mahmudiye Hamamı: Eskişehir'in Tarihi ve Kültürel Mirası

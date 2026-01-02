@@ -1,18 +1,17 @@
 ---
-title: "Aşir Efendi Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:55:38+03:00
+title: "Aşir Efendi Kütüphanesi"
+date: "2025-12-25T17:55:38+03:00"
 slug: "asir-efendi-kutuphanesi"
 description: "## Aşir Efendi Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "28.971356,41.014868"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşir Efendi Kütüphanesi

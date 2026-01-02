@@ -1,18 +1,17 @@
 ---
-title: "Köprü, Aralık Köyü | Miras Haritası"
-date: 2025-12-25T02:49:47+03:00
+title: "Köprü, Aralık Köyü"
+date: "2025-12-25T02:49:47+03:00"
 slug: "kopru-aralik-koyu"
 description: "## Aralık Köyü Köprüsü: Giresun'un Tarihi Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Eynesil"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "39.1160088,41.0503273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aralık Köyü Köprüsü: Giresun'un Tarihi Mirası

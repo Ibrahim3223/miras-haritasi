@@ -1,18 +1,17 @@
 ---
-title: "Rum Mehmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:43:17+03:00
+title: "Rum Mehmet Paşa Türbesi"
+date: "2025-12-25T14:43:17+03:00"
 slug: "rum-mehmet-pasa-turbesi"
 description: "## Rum Mehmet Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rum_Mehmet_Paşa_Türbesi.jpg/1200px-Rum_Mehmet_Paşa_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0109806,41.0244446"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Rum Mehmet Paşa Türbesi

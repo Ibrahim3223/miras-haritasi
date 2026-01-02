@@ -1,18 +1,17 @@
 ---
-title: "Kızıltoprak Tepe Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:43:52+03:00
+title: "Kızıltoprak Tepe Tümülüsü"
+date: "2025-12-25T07:43:52+03:00"
 slug: "kiziltoprak-tepe-tumulusu"
 description: "## Kızıltoprak Tepe Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.5315361,40.9990311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızıltoprak Tepe Tümülüsü

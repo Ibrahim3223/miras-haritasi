@@ -1,18 +1,17 @@
 ---
-title: "Erenler Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T13:57:55+03:00
+title: "Erenler Sultan Türbesi"
+date: "2025-12-25T13:57:55+03:00"
 slug: "erenler-sultan-turbesi"
 description: "# Erenler Sultan Türbesi: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.538009516,40.315069484"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Erenler Sultan Türbesi: Tokat'ın Tarihi ve Kültürel Mirası

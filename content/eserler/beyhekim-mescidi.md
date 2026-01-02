@@ -1,18 +1,17 @@
 ---
-title: "Beyhekim Mescidi | Miras Haritası"
-date: 2025-12-24T22:24:22+03:00
+title: "Beyhekim Mescidi"
+date: "2025-12-24T22:24:22+03:00"
 slug: "beyhekim-mescidi"
 description: "## Beyhekim Mescidi: Konya'da Bir Tarihî Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.4885063,37.8717384"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beyhekim Mescidi: Konya'da Bir Tarihî Miras

@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Ağa Camii, Altınyayla | Miras Haritası"
-date: 2025-12-24T23:57:34+03:00
+title: "Ahmet Ağa Camii, Altınyayla"
+date: "2025-12-24T23:57:34+03:00"
 slug: "ahmet-aga-camii-altinyayla"
 description: "### Ahmet Ağa Camii, Altınyayla..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Altınyayla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.7512093,39.2720261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ahmet Ağa Camii, Altınyayla

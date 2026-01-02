@@ -1,18 +1,17 @@
 ---
-title: "Da Vinci Çocuk Müzesi | Miras Haritası"
-date: 2025-12-25T04:05:59+03:00
+title: "Da Vinci Çocuk Müzesi"
+date: "2025-12-25T04:05:59+03:00"
 slug: "da-vinci-cocuk-muzesi"
 description: "## Da Vinci Çocuk Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.907384728,39.928529772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Da Vinci Çocuk Müzesi

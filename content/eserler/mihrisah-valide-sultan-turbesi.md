@@ -1,18 +1,17 @@
 ---
-title: "Mihrişah Valide Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:42+03:00
+title: "Mihrişah Valide Sultan Türbesi"
+date: "2025-12-25T14:31:42+03:00"
 slug: "mihrisah-valide-sultan-turbesi"
 description: "# Mihrişah Valide Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.93423,41.048396"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Mihrişah Valide Sultan Türbesi

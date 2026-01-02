@@ -1,18 +1,17 @@
 ---
-title: "Balıklı Meryem Ana Ayazması | Miras Haritası"
-date: 2025-12-25T12:43:41+03:00
+title: "Balıklı Meryem Ana Ayazması"
+date: "2025-12-25T12:43:41+03:00"
 slug: "balikli-meryem-ana-ayazmasi"
 description: "**Balıklı Meryem Ana Ayazması**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9157257,41.0066566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Balıklı Meryem Ana Ayazması**

@@ -1,18 +1,17 @@
 ---
-title: "Dur Yolcu | Miras Haritası"
-date: 2025-12-25T14:01:34+03:00
+title: "Dur Yolcu"
+date: "2025-12-25T14:01:34+03:00"
 slug: "dur-yolcu"
 description: "### Dur Yolcu Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dur_Yolcu_-_panoramio.jpg/1200px-Dur_Yolcu_-_panoramio.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Kilitbahir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.373101301,40.156223648"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Dur Yolcu Anıt

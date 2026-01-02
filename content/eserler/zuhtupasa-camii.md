@@ -1,18 +1,17 @@
 ---
-title: "Zühtüpaşa Camii | Miras Haritası"
-date: 2025-12-24T21:41:49+03:00
+title: "Zühtüpaşa Camii"
+date: "2025-12-24T21:41:49+03:00"
 slug: "zuhtupasa-camii"
 description: "## Zühtüpaşa Camii: Kadıköy'ün Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2021-04-10_zuhtupasa-camii.jpg/1200px-2021-04-10_zuhtupasa-camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.04013,40.98399"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zühtüpaşa Camii: Kadıköy'ün Tarihi Bir Mirası

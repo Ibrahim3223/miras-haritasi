@@ -1,18 +1,17 @@
 ---
-title: "Bâli Hoca Camii | Miras Haritası"
-date: 2025-12-24T22:46:50+03:00
+title: "Bâli Hoca Camii"
+date: "2025-12-24T22:46:50+03:00"
 slug: "bli-hoca-camii"
 description: "### Bâli Hoca Camii: Eyüp'te Bir Klasik..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "İslambey"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9306984,41.0493164"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bâli Hoca Camii: Eyüp'te Bir Klasik

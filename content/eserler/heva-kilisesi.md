@@ -1,18 +1,17 @@
 ---
-title: "Heva Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:28+03:00
+title: "Heva Kilisesi"
+date: "2025-12-25T09:04:28+03:00"
 slug: "heva-kilisesi"
 description: "## Heva Kilisesi..."
 featured_image: ""
 province: "Göle"
-iller: ["Göle"]
+iller: '["Göle"]'
 district: "Sürügüden"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.630944444,40.91375"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Heva Kilisesi

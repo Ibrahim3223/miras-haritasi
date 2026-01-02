@@ -1,18 +1,17 @@
 ---
-title: "Limyra Psikopos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:12+03:00
+title: "Limyra Psikopos Kilisesi"
+date: "2025-12-25T09:33:12+03:00"
 slug: "limyra-psikopos-kilisesi"
 description: "### Limyra Psikopos Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.170716532,36.341494227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Limyra Psikopos Kilisesi

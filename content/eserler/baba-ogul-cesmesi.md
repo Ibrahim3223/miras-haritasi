@@ -1,18 +1,17 @@
 ---
-title: "Baba-Oğul Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:15:08+03:00
+title: "Baba-Oğul Çeşmesi"
+date: "2025-12-25T10:15:08+03:00"
 slug: "baba-ogul-cesmesi"
 description: "## Baba-Oğul Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Baba_Oğul_fountain,_Acıbadem,_Kadıköy,_İstanbul_2024.jpg/1200px-Baba_Oğul_fountain,_Acıbadem,_Kadıköy,_İstanbul_2024.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.040408333,41.001333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Baba-Oğul Çeşmesi

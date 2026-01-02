@@ -1,18 +1,17 @@
 ---
-title: "Levent Köprüsü | Miras Haritası"
-date: 2025-12-25T02:00:47+03:00
+title: "Levent Köprüsü"
+date: "2025-12-25T02:00:47+03:00"
 slug: "levent-koprusu"
 description: "### Levent Köprüsü: Hemşin'in Gizli Mimari Çeşidi..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Hemşin"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.8868834,41.0716535"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Levent Köprüsü: Hemşin'in Gizli Mimari Çeşidi

@@ -1,18 +1,17 @@
 ---
-title: "Karakurt Türbesi | Miras Haritası"
-date: 2025-12-25T14:42:14+03:00
+title: "Karakurt Türbesi"
+date: "2025-12-25T14:42:14+03:00"
 slug: "karakurt-turbesi"
 description: "## Karakurt Türbesi: Kırşehir'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9875412,39.1172142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karakurt Türbesi: Kırşehir'in Tarihi Bir Anıtı

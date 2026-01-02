@@ -1,18 +1,17 @@
 ---
-title: "Sağrıcı Sungur Türbesi | Miras Haritası"
-date: 2025-12-25T14:51:31+03:00
+title: "Sağrıcı Sungur Türbesi"
+date: "2025-12-25T14:51:31+03:00"
 slug: "sagrici-sungur-turbesi"
 description: "## Sağrıcı Sungur Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0604458,40.1852264"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sağrıcı Sungur Türbesi

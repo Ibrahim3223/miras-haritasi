@@ -1,18 +1,17 @@
 ---
-title: "Dumlupınar Denizaltı ve Tüm Deniz Şehitleri Anıtı | Miras Haritası"
-date: 2025-12-25T15:48:21+03:00
+title: "Dumlupınar Denizaltı ve Tüm Deniz Şehitleri Anıtı"
+date: "2025-12-25T15:48:21+03:00"
 slug: "dumlupinar-denizalti-ve-tum-deniz-sehitleri-aniti"
 description: "## Dumlupınar Denizaltı ve Tüm Deniz Şehitleri Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.6825562,40.4102135"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Dumlupınar Denizaltı ve Tüm Deniz Şehitleri Anıtı

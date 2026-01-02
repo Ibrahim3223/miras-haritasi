@@ -1,18 +1,17 @@
 ---
-title: "Yeniköy Sinagogu | Miras Haritası"
-date: 2025-12-25T16:11:58+03:00
+title: "Yeniköy Sinagogu"
+date: "2025-12-25T16:11:58+03:00"
 slug: "yenikoy-sinagogu"
 description: "## Yeniköy Sinagogu: Türkiye'nin Kültürel Mirasının Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Yenikoy_Sinagogu.JPG/1200px-Yenikoy_Sinagogu.JPG"
-province: "Sarıyer"
-iller: ["Sarıyer"]
-district: "Yeniköy"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Sarıyer"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "29.0663,41.1182"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yeniköy Sinagogu: Türkiye'nin Kültürel Mirasının Gizli Çehresini Keşfetmek

@@ -1,18 +1,17 @@
 ---
-title: "Soğulcak | Miras Haritası"
-date: 2025-12-25T05:30:27+03:00
+title: "Soğulcak"
+date: "2025-12-25T05:30:27+03:00"
 slug: "sogulcak"
 description: "### Soğulcak Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.744333,39.396967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Soğulcak Arkeolojik Sit

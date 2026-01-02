@@ -1,18 +1,17 @@
 ---
-title: "Sultanhamit Camii – Yeniköy | Miras Haritası"
-date: 2025-12-24T23:08:28+03:00
+title: "Sultanhamit Camii – Yeniköy"
+date: "2025-12-24T23:08:28+03:00"
 slug: "sultanhamit-camii-yenikoy"
 description: "# Sultanhamit Camii – Yeniköy..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3269997,38.1208992"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sultanhamit Camii – Yeniköy

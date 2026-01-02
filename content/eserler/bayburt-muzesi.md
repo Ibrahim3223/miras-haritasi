@@ -1,18 +1,17 @@
 ---
-title: "Bayburt Müzesi | Miras Haritası"
-date: 2025-12-25T03:34:10+03:00
+title: "Bayburt Müzesi"
+date: "2025-12-25T03:34:10+03:00"
 slug: "bayburt-muzesi"
 description: "## Bayburt Müzesi..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bayburt Müzesi

@@ -1,18 +1,17 @@
 ---
-title: "Gedikpaşa Tiyatrosu | Miras Haritası"
-date: 2025-12-25T16:15:54+03:00
+title: "Gedikpaşa Tiyatrosu"
+date: "2025-12-25T16:15:54+03:00"
 slug: "gedikpasa-tiyatrosu"
 description: "### Gedikpaşa Tiyatrosu..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Antik Tiyatro"
-turler: ["Antik Tiyatro"]
+turler: '["Antik Tiyatro"]'
 coords: "28.966361111,41.007861111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gedikpaşa Tiyatrosu

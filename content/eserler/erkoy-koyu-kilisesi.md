@@ -1,18 +1,17 @@
 ---
-title: "Erköy Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:17:05+03:00
+title: "Erköy Köyü Kilisesi"
+date: "2025-12-25T09:17:05+03:00"
 slug: "erkoy-koyu-kilisesi"
 description: "# Erköy Köyü Kilisesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Keşap"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "38.587695,40.721478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Erköy Köyü Kilisesi

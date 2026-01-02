@@ -1,18 +1,17 @@
 ---
-title: "Ramazan Paşa Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:29+03:00
+title: "Ramazan Paşa Köprüsü"
+date: "2025-12-25T02:40:29+03:00"
 slug: "ramazan-pasa-koprusu"
 description: "### Ramazan Paşa Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.4662819,37.7841415"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ramazan Paşa Köprüsü

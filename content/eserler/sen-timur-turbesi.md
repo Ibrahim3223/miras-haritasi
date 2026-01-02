@@ -1,18 +1,17 @@
 ---
-title: "Sen Timur Türbesi | Miras Haritası"
-date: 2025-12-25T15:07:22+03:00
+title: "Sen Timur Türbesi"
+date: "2025-12-25T15:07:22+03:00"
 slug: "sen-timur-turbesi"
 description: "## Sen Timur Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sennn.jpg/1200px-Sennn.jpg"
 province: "Tokat"
-iller: ["Tokat"]
+iller: '["Tokat"]'
 district: "Tokat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.551388,40.321819"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sen Timur Türbesi

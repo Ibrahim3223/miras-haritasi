@@ -1,18 +1,17 @@
 ---
-title: "Kumrulu Mescit, Konak | Miras Haritası"
-date: 2025-12-25T00:50:00+03:00
+title: "Kumrulu Mescit, Konak"
+date: "2025-12-25T00:50:00+03:00"
 slug: "kumrulu-mescit-konak"
 description: "## Kumrulu Mescit: İzmir'in Gizli Çatısı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.144743,38.4211731"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kumrulu Mescit: İzmir'in Gizli Çatısı

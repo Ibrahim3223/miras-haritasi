@@ -1,18 +1,17 @@
 ---
-title: "Bademağacı Höyüğü | Miras Haritası"
-date: 2025-12-25T05:45:59+03:00
+title: "Bademağacı Höyüğü"
+date: "2025-12-25T05:45:59+03:00"
 slug: "bademagaci-hoyugu"
 description: "## Bademağacı Höyüğü..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Döşemealtı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.49805556,37.22305556"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bademağacı Höyüğü

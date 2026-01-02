@@ -1,18 +1,17 @@
 ---
-title: "Diyarbakır Bismil İlçe Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:05+03:00
+title: "Diyarbakır Bismil İlçe Halk Kütüphanesi"
+date: "2025-12-25T17:51:05+03:00"
 slug: "diyarbakir-bismil-ilce-halk-kutuphanesi"
 description: "### Diyarbakır Bismil İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Bismil"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Diyarbakır Bismil İlçe Halk Kütüphanesi

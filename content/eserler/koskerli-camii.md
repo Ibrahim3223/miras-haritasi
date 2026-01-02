@@ -1,18 +1,17 @@
 ---
-title: "Köşkerli Camii | Miras Haritası"
-date: 2025-12-25T00:19:53+03:00
+title: "Köşkerli Camii"
+date: "2025-12-25T00:19:53+03:00"
 slug: "koskerli-camii"
 description: "**Köşkerli Camii**..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Develi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.489824315,38.358927445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Köşkerli Camii**

@@ -1,18 +1,17 @@
 ---
-title: "Muttakip Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:45+03:00
+title: "Muttakip Sokak Çeşmesi"
+date: "2025-12-25T11:36:45+03:00"
 slug: "muttakip-sokak-cesmesi"
 description: "## Muttakip Sokak Çeşmesi: Konya'nın Selçuklu Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4188194,37.9278984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muttakip Sokak Çeşmesi: Konya'nın Selçuklu Mirası

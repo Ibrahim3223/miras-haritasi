@@ -1,18 +1,17 @@
 ---
-title: "Mal Höyük | Miras Haritası"
-date: 2025-12-25T13:45:34+03:00
+title: "Mal Höyük"
+date: "2025-12-25T13:45:34+03:00"
 slug: "mal-hoyuk"
 description: "## Mal Höyük: Türkiye'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Boğazlıyan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.1551584,39.4649465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mal Höyük: Türkiye'nin Gizli Mücevheri

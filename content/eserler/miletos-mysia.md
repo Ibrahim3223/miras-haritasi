@@ -1,18 +1,17 @@
 ---
-title: "Miletos (Mysia) | Miras Haritası"
-date: 2025-12-25T05:04:18+03:00
+title: "Miletos (Mysia)"
+date: "2025-12-25T05:04:18+03:00"
 slug: "miletos-mysia"
 description: "## Miletos (Mysia) Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.974176,39.528399"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Miletos (Mysia) Arkeolojik Sitesi

@@ -1,18 +1,17 @@
 ---
-title: "Ayia Paraskevi Ayazması | Miras Haritası"
-date: 2025-12-25T12:40:40+03:00
+title: "Ayia Paraskevi Ayazması"
+date: "2025-12-25T12:40:40+03:00"
 slug: "ayia-paraskevi-ayazmasi"
 description: "## Ayia Paraskevi Ayazması: Kadıköy'ün Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0249882,40.9906845"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayia Paraskevi Ayazması: Kadıköy'ün Tarihi Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Karamehmetoğlu Höyüğü | Miras Haritası"
-date: 2025-12-25T06:20:49+03:00
+title: "Karamehmetoğlu Höyüğü"
+date: "2025-12-25T06:20:49+03:00"
 slug: "karamehmetoglu-hoyugu"
 description: "## Karamehmetoğlu Höyüğü: Sivas'taki Eski Eserlerin Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.8466666,39.9049526"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karamehmetoğlu Höyüğü: Sivas'taki Eski Eserlerin Gizemi

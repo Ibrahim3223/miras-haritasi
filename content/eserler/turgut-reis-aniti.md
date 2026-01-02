@@ -1,18 +1,17 @@
 ---
-title: "Turgut Reis Anıtı | Miras Haritası"
-date: 2025-12-25T15:54:27+03:00
+title: "Turgut Reis Anıtı"
+date: "2025-12-25T15:54:27+03:00"
 slug: "turgut-reis-aniti"
 description: "## Turgut Reis Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.987328,41.013532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Turgut Reis Anıtı

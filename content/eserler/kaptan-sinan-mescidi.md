@@ -1,18 +1,17 @@
 ---
-title: "Kaptan Sinan Mescidi | Miras Haritası"
-date: 2025-12-25T00:33:05+03:00
+title: "Kaptan Sinan Mescidi"
+date: "2025-12-25T00:33:05+03:00"
 slug: "kaptan-sinan-mescidi"
 description: "# Kaptan Sinan Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.939352,41.0164757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kaptan Sinan Mescidi

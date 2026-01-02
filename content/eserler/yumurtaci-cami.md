@@ -1,18 +1,17 @@
 ---
-title: "Yumurtacı Cami | Miras Haritası"
-date: 2025-12-24T22:03:04+03:00
+title: "Yumurtacı Cami"
+date: "2025-12-24T22:03:04+03:00"
 slug: "yumurtaci-cami"
 description: "## Yumurtacı Camii: Kocaeli'nin Tarihî bir Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yumurtacı_Cami_Şerifi_(1)_03.jpg/1200px-Yumurtacı_Cami_Şerifi_(1)_03.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kocaeli"
+province: "Kocaeli"
+iller: '["Kocaeli"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.921108792,40.764865145"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Yumurtacı Camii: Kocaeli'nin Tarihî bir Örneği

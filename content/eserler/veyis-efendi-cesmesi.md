@@ -1,18 +1,17 @@
 ---
-title: "Veyis Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:40:42+03:00
+title: "Veyis Efendi Çeşmesi"
+date: "2025-12-25T11:40:42+03:00"
 slug: "veyis-efendi-cesmesi"
 description: "## Veyis Efendi Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2861938,39.9069557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Veyis Efendi Çeşmesi

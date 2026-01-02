@@ -1,18 +1,17 @@
 ---
-title: "Hacı Özbek Camii | Miras Haritası"
-date: 2025-12-24T21:50:59+03:00
+title: "Hacı Özbek Camii"
+date: "2025-12-24T21:50:59+03:00"
 slug: "haci-ozbek-camii"
 description: "### Hacı Özbek Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hacı_Özbek_Camii.jpg/1200px-Hacı_Özbek_Camii.jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "İznik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.08083333,40.18111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Hacı Özbek Camii

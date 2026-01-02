@@ -1,18 +1,17 @@
 ---
-title: "Yakuplu Köyü Cami | Miras Haritası"
-date: 2025-12-24T23:44:57+03:00
+title: "Yakuplu Köyü Cami"
+date: "2025-12-24T23:44:57+03:00"
 slug: "yakuplu-koyu-cami"
 description: "## Yakuplu Köyü Cami: Tekirdağ'ın Gizli Cenneti..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tekirdağ"
+province: "Tekirdağ"
+iller: '["Tekirdağ"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9032993,41.0794983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yakuplu Köyü Cami: Tekirdağ'ın Gizli Cenneti

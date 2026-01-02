@@ -1,18 +1,17 @@
 ---
-title: "Akmescit Camii, Boyabat | Miras Haritası"
-date: 2025-12-24T23:54:56+03:00
+title: "Akmescit Camii, Boyabat"
+date: "2025-12-24T23:54:56+03:00"
 slug: "akmescit-camii-boyabat"
 description: "### Akmescit Camii, Boyabat: Tarihçesi ve Mimarı Özellikleri..."
 featured_image: ""
 province: "Sinop"
-iller: ["Sinop"]
+iller: '["Sinop"]'
 district: "Boyabat"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.7713966,41.4676895"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Akmescit Camii, Boyabat: Tarihçesi ve Mimarı Özellikleri

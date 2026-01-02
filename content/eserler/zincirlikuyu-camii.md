@@ -1,18 +1,17 @@
 ---
-title: "Zincirlikuyu Camii | Miras Haritası"
-date: 2025-12-24T22:17:49+03:00
+title: "Zincirlikuyu Camii"
+date: "2025-12-24T22:17:49+03:00"
 slug: "zincirlikuyu-camii"
 description: "# Zincirlikuyu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zincirlikuyu_Mosque.jpg/1200px-Zincirlikuyu_Mosque.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0086,41.073"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Zincirlikuyu Camii

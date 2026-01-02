@@ -1,18 +1,17 @@
 ---
-title: "Hızır Bey Türbesi | Miras Haritası"
-date: 2025-12-25T14:49:01+03:00
+title: "Hızır Bey Türbesi"
+date: "2025-12-25T14:49:01+03:00"
 slug: "hizir-bey-turbesi"
 description: "# Hızır Bey Türbesi: Bafra'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Bafra"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8311348,41.5670509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hızır Bey Türbesi: Bafra'nın Tarihi ve Kültürel Mirası

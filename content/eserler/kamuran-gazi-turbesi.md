@@ -1,18 +1,17 @@
 ---
-title: "Kamuran Gazi Türbesi | Miras Haritası"
-date: 2025-12-25T14:58:39+03:00
+title: "Kamuran Gazi Türbesi"
+date: "2025-12-25T14:58:39+03:00"
 slug: "kamuran-gazi-turbesi"
 description: "## Kamuran Gazi Türbesi..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.1725788,39.9280396"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kamuran Gazi Türbesi

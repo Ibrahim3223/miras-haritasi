@@ -1,18 +1,17 @@
 ---
-title: "Ilıpınar Höyüğü | Miras Haritası"
-date: 2025-12-25T05:44:33+03:00
+title: "Ilıpınar Höyüğü"
+date: "2025-12-25T05:44:33+03:00"
 slug: "ilipinar-hoyugu"
 description: "## Ilıpınar Höyükü: Bursa'nın Gizli Ören Yeri..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.3086395,40.4682121"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ilıpınar Höyükü: Bursa'nın Gizli Ören Yeri

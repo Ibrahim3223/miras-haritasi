@@ -1,18 +1,17 @@
 ---
-title: "Büyük Agonya Köprüsü | Miras Haritası"
-date: 2025-12-25T02:05:56+03:00
+title: "Büyük Agonya Köprüsü"
+date: "2025-12-25T02:05:56+03:00"
 slug: "buyuk-agonya-koprusu"
 description: "## Büyük Agonya Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Yenice (Çanakkale)"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.331377,39.8340149"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Agonya Köprüsü

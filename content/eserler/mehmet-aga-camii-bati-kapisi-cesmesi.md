@@ -1,18 +1,17 @@
 ---
-title: "Mehmet Ağa Camii Batı Kapısı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:08:08+03:00
+title: "Mehmet Ağa Camii Batı Kapısı Çeşmesi"
+date: "2025-12-25T11:08:08+03:00"
 slug: "mehmet-aga-camii-bati-kapisi-cesmesi"
 description: "### Mehmet Ağa Camii Batı Kapısı Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Atikali"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.94509,41.026814"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mehmet Ağa Camii Batı Kapısı Çeşmesi

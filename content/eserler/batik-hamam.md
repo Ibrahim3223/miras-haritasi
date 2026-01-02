@@ -1,18 +1,17 @@
 ---
-title: "Batık Hamam | Miras Haritası"
-date: 2025-12-25T16:59:14+03:00
+title: "Batık Hamam"
+date: "2025-12-25T16:59:14+03:00"
 slug: "batik-hamam"
 description: "## Batık Hamam..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Dalaman"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.85499,36.6402397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Batık Hamam

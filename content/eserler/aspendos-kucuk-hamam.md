@@ -1,18 +1,17 @@
 ---
-title: "Aspendos Küçük Hamam | Miras Haritası"
-date: 2025-12-25T16:57:51+03:00
+title: "Aspendos Küçük Hamam"
+date: "2025-12-25T16:57:51+03:00"
 slug: "aspendos-kucuk-hamam"
 description: "## Aspendos Küçük Hamam..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Serik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.1708202,36.9363174"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Aspendos Küçük Hamam

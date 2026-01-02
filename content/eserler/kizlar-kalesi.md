@@ -1,18 +1,17 @@
 ---
-title: "Kızlar Kalesi | Miras Haritası"
-date: 2025-12-25T07:13:59+03:00
+title: "Kızlar Kalesi"
+date: "2025-12-25T07:13:59+03:00"
 slug: "kizlar-kalesi"
 description: "## Kızlar Kalesi: Tarsus'un Gizli Harikası..."
 featured_image: ""
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.925555555,37.152777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kızlar Kalesi: Tarsus'un Gizli Harikası

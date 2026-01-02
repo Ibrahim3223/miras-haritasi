@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Kadirli | Miras Haritası"
-date: 2025-12-25T00:33:40+03:00
+title: "Hamidiye Camii, Kadirli"
+date: "2025-12-25T00:33:40+03:00"
 slug: "hamidiye-camii-kadirli"
 description: "## Hamidiye Camii, Kadirli..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Kadirli"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.098285554,37.37267321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamidiye Camii, Kadirli

@@ -1,18 +1,17 @@
 ---
-title: "Osman Bey Kabri | Miras Haritası"
-date: 2025-12-25T13:32:13+03:00
+title: "Osman Bey Kabri"
+date: "2025-12-25T13:32:13+03:00"
 slug: "osman-bey-kabri"
 description: "## Osman Bey Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0158253,41.0266762"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Osman Bey Kabri

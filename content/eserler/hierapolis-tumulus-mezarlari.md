@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Tümülüs Mezarları | Miras Haritası"
-date: 2025-12-25T07:56:05+03:00
+title: "Hierapolis Tümülüs Mezarları"
+date: "2025-12-25T07:56:05+03:00"
 slug: "hierapolis-tumulus-mezarlari"
 description: "### Hierapolis Tümülüs Mezarları..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.120882,37.9379959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hierapolis Tümülüs Mezarları

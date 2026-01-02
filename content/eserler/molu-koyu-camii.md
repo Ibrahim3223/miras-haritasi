@@ -1,18 +1,17 @@
 ---
-title: "Molu Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:35:54+03:00
+title: "Molu Köyü Camii"
+date: "2025-12-25T00:35:54+03:00"
 slug: "molu-koyu-camii"
 description: "## Molu Köyü Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.372113711,38.800607967"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Molu Köyü Camii

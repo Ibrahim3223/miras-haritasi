@@ -1,18 +1,17 @@
 ---
-title: "Yeşilli Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:21:38+03:00
+title: "Yeşilli Saat Kulesi"
+date: "2025-12-25T17:21:38+03:00"
 slug: "yesilli-saat-kulesi"
 description: "# Yeşilli Saat Kulesi: Mardin'in Eski Saat Kulesi..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Yeşilli"
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "40.820138888,37.339055555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Yeşilli Saat Kulesi: Mardin'in Eski Saat Kulesi

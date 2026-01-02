@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Şehir Hamamı | Miras Haritası"
-date: 2025-12-25T16:29:31+03:00
+title: "Tarihi Şehir Hamamı"
+date: "2025-12-25T16:29:31+03:00"
 slug: "tarihi-sehir-hamami"
 description: "## Tarihi Şehir Hamamı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çermik"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "39.4489086,38.1358959"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihi Şehir Hamamı

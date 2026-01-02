@@ -1,18 +1,17 @@
 ---
-title: "Aziz Yuhanna Katedrali | Miras Haritası"
-date: 2025-12-25T08:39:26+03:00
+title: "Aziz Yuhanna Katedrali"
+date: "2025-12-25T08:39:26+03:00"
 slug: "aziz-yuhanna-katedrali"
 description: "## Aziz Yuhanna Katedrali: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/TR_Izmir_asv2020-02_img47_StJohn's_Cathedral.jpg/1200px-TR_Izmir_asv2020-02_img47_StJohn's_Cathedral.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "İzmir"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.139666666,38.428666666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aziz Yuhanna Katedrali: İzmir'in Tarihi ve Kültürel Mirası

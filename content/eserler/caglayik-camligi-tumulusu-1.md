@@ -1,18 +1,17 @@
 ---
-title: "Çağlayık Çamlığı Tümülüsü 1 | Miras Haritası"
-date: 2025-12-25T07:48:19+03:00
+title: "Çağlayık Çamlığı Tümülüsü 1"
+date: "2025-12-25T07:48:19+03:00"
 slug: "caglayik-camligi-tumulusu-1"
 description: "## Çağlayık Çamlığı Tümülüsü 1: Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3087139,42.0407372"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çağlayık Çamlığı Tümülüsü 1: Tarihi ve Kültürel Mirasının Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Hacı Salih Camii | Miras Haritası"
-date: 2025-12-24T23:29:19+03:00
+title: "Hacı Salih Camii"
+date: "2025-12-24T23:29:19+03:00"
 slug: "haci-salih-camii"
 description: "## Hacı Salih Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: ["Trabzon"]
+iller: '["Trabzon"]'
 district: "Ortahisar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.724521,41.007797"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Salih Camii

@@ -1,18 +1,17 @@
 ---
-title: "Perge Batı Hamamı | Miras Haritası"
-date: 2025-12-25T16:56:25+03:00
+title: "Perge Batı Hamamı"
+date: "2025-12-25T16:56:25+03:00"
 slug: "perge-bati-hamami"
 description: "## Perge Batı Hamamı: Antalya'nın Tarihî Zenginliklerinin Ortaya Çıkışı..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Aksu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "30.8518047,36.9654922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Perge Batı Hamamı: Antalya'nın Tarihî Zenginliklerinin Ortaya Çıkışı

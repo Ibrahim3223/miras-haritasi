@@ -1,18 +1,17 @@
 ---
-title: "Adrasus | Miras Haritası"
-date: 2025-12-25T05:09:09+03:00
+title: "Adrasus"
+date: "2025-12-25T05:09:09+03:00"
 slug: "adrasus"
 description: "## Adrasus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.129851,36.655564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Adrasus Arkeolojik Sit

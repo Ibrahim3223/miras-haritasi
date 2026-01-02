@@ -1,18 +1,17 @@
 ---
-title: "Lale Tepe Höyük | Miras Haritası"
-date: 2025-12-25T07:31:48+03:00
+title: "Lale Tepe Höyük"
+date: "2025-12-25T07:31:48+03:00"
 slug: "lale-tepe-hoyuk"
 description: "**Lale Tepe Höyük: Manisa'nın Gizli Tarihî Mirası**..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Ahmetli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.9246483,38.5159073"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Lale Tepe Höyük: Manisa'nın Gizli Tarihî Mirası**

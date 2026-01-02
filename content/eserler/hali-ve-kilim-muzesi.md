@@ -1,18 +1,17 @@
 ---
-title: "Halı ve Kilim Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:26+03:00
+title: "Halı ve Kilim Müzesi"
+date: "2025-12-25T04:06:26+03:00"
 slug: "hali-ve-kilim-muzesi"
 description: "## Halı ve Kilim Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.976845983,41.00543386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halı ve Kilim Müzesi

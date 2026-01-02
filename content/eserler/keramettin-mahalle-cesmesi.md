@@ -1,18 +1,17 @@
 ---
-title: "Keramettin Mahalle Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:29:35+03:00
+title: "Keramettin Mahalle Çeşmesi"
+date: "2025-12-25T11:29:35+03:00"
 slug: "keramettin-mahalle-cesmesi"
 description: "## Keramettin Mahalle Çeşmesi: Muğla'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3609009,37.2204018"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Keramettin Mahalle Çeşmesi: Muğla'nın Tarihi Bir Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Zincirli Servi ve Daye Hatun Türbesi | Miras Haritası"
-date: 2025-12-25T15:28:57+03:00
+title: "Zincirli Servi ve Daye Hatun Türbesi"
+date: "2025-12-25T15:28:57+03:00"
 slug: "zincirli-servi-ve-daye-hatun-turbesi"
 description: "## Zincirli Servi ve Daye Hatun Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9285526,41.0035057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zincirli Servi ve Daye Hatun Türbesi

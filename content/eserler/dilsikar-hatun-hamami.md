@@ -1,18 +1,17 @@
 ---
-title: "Dilşikar Hatun Hamamı | Miras Haritası"
-date: 2025-12-25T16:44:46+03:00
+title: "Dilşikar Hatun Hamamı"
+date: "2025-12-25T16:44:46+03:00"
 slug: "dilsikar-hatun-hamami"
 description: "### Dilşikar Hatun Hamamı: Bir Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.4395027,38.6123085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dilşikar Hatun Hamamı: Bir Tarihî Mirasın Gizemi

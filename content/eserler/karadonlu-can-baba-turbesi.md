@@ -1,18 +1,17 @@
 ---
-title: "Karadonlu Can Baba Türbesi | Miras Haritası"
-date: 2025-12-25T15:31:28+03:00
+title: "Karadonlu Can Baba Türbesi"
+date: "2025-12-25T15:31:28+03:00"
 slug: "karadonlu-can-baba-turbesi"
 description: "### Karadonlu Can Baba Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Kütahya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9775257,39.4213104"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Karadonlu Can Baba Türbesi

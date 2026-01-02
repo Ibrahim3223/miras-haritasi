@@ -1,18 +1,17 @@
 ---
-title: "Kemerdere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:40:48+03:00
+title: "Kemerdere Köprüsü"
+date: "2025-12-25T02:40:48+03:00"
 slug: "kemerdere-koprusu"
 description: "## Kemerdere Köprüsü: Amasra'nın Tarihî Mirası..."
 featured_image: ""
 province: "Amasra İlçesi"
-iller: ["Amasra İlçesi"]
+iller: '["Amasra İlçesi"]'
 district: "Amasra"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.3854408,41.7329636"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kemerdere Köprüsü: Amasra'nın Tarihî Mirası

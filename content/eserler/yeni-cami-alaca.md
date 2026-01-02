@@ -1,18 +1,17 @@
 ---
-title: "Yeni Cami (Alaca) | Miras Haritası"
-date: 2025-12-24T23:51:08+03:00
+title: "Yeni Cami (Alaca)"
+date: "2025-12-24T23:51:08+03:00"
 slug: "yeni-cami-alaca"
 description: "## Yeni Cami (Alaca)..."
 featured_image: ""
 province: "Çorum"
-iller: ["Çorum"]
+iller: '["Çorum"]'
 district: "Alaca"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.8420219,40.1699409"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeni Cami (Alaca)

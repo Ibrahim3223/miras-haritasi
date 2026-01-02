@@ -1,18 +1,17 @@
 ---
-title: "Aydın İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:52+03:00
+title: "Aydın İl Halk Kütüphanesi"
+date: "2025-12-25T17:51:52+03:00"
 slug: "aydin-il-halk-kutuphanesi"
 description: "## Aydın İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "27.8432121,37.8466339"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aydın İl Halk Kütüphanesi

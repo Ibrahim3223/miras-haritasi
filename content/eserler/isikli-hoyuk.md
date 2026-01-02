@@ -1,18 +1,17 @@
 ---
-title: "Işıklı Höyük | Miras Haritası"
-date: 2025-12-25T05:53:07+03:00
+title: "Işıklı Höyük"
+date: "2025-12-25T05:53:07+03:00"
 slug: "isikli-hoyuk"
 description: "### Işıklı Höyük..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.860233,38.312867"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Işıklı Höyük

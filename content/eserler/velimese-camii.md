@@ -1,18 +1,17 @@
 ---
-title: "Velimeşe Camii | Miras Haritası"
-date: 2025-12-24T23:42:57+03:00
+title: "Velimeşe Camii"
+date: "2025-12-24T23:42:57+03:00"
 slug: "velimese-camii"
 description: "## Velimeşe Camii: Tekirdağ'ın Tarihi ve Kültürel Mirasının Örnekleri Arasındaki Bir Düzenek..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Çorlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8809376,41.2480392"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Velimeşe Camii: Tekirdağ'ın Tarihi ve Kültürel Mirasının Örnekleri Arasındaki Bir Düzenek

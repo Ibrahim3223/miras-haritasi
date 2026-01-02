@@ -1,18 +1,17 @@
 ---
-title: "Mem-u Zin Türbesi | Miras Haritası"
-date: 2025-12-25T15:13:04+03:00
+title: "Mem-u Zin Türbesi"
+date: "2025-12-25T15:13:04+03:00"
 slug: "mem-u-zin-turbesi"
 description: "**Mem-u Zin Türbesi**..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Cizre"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.186498,37.3219253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Mem-u Zin Türbesi**

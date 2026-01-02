@@ -1,18 +1,17 @@
 ---
-title: "Isaura | Miras Haritası"
-date: 2025-12-25T08:18:32+03:00
+title: "Isaura"
+date: "2025-12-25T08:18:32+03:00"
 slug: "isaura"
 description: "## Isaura: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Isaura_04.jpg/1200px-Isaura_04.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Isaura: Tarihi ve Kültürel Miras

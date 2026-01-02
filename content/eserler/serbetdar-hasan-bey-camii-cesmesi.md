@@ -1,18 +1,17 @@
 ---
-title: "Şerbetdar Hasan Bey Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:39:08+03:00
+title: "Şerbetdar Hasan Bey Camii Çeşmesi"
+date: "2025-12-25T12:39:08+03:00"
 slug: "serbetdar-hasan-bey-camii-cesmesi"
 description: "### Şerbetdar Hasan Bey Camii Çeşmesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Vize"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.766654666,41.57518293"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şerbetdar Hasan Bey Camii Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Soğuksu Camii | Miras Haritası"
-date: 2025-12-24T23:10:07+03:00
+title: "Soğuksu Camii"
+date: "2025-12-24T23:10:07+03:00"
 slug: "soguksu-camii"
 description: "## Soğuksu Camii: Giresun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Giresun (ilçe)"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.3881607,40.9153519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğuksu Camii: Giresun'un Tarihi Bir Mirası

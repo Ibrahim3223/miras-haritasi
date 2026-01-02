@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Zülfo Türbesi | Miras Haritası"
-date: 2025-12-25T15:19:47+03:00
+title: "Şeyh Zülfo Türbesi"
+date: "2025-12-25T15:19:47+03:00"
 slug: "seyh-zulfo-turbesi"
 description: "## Şeyh Zülfo Türbesi: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.32937,36.980117"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Zülfo Türbesi: Adana'nın Tarihi ve Kültürel Mirası

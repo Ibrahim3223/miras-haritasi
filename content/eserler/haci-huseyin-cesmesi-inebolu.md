@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hüseyin Çeşmesi, İnebolu | Miras Haritası"
-date: 2025-12-25T12:58:11+03:00
+title: "Hacı Hüseyin Çeşmesi, İnebolu"
+date: "2025-12-25T12:58:11+03:00"
 slug: "haci-huseyin-cesmesi-inebolu"
 description: "## Hacı Hüseyin Çeşmesi, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "İnebolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.759928159,41.976749846"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Hüseyin Çeşmesi, İnebolu

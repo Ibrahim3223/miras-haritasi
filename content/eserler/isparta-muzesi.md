@@ -1,18 +1,17 @@
 ---
-title: "Isparta Müzesi | Miras Haritası"
-date: 2025-12-25T03:20:22+03:00
+title: "Isparta Müzesi"
+date: "2025-12-25T03:20:22+03:00"
 slug: "isparta-muzesi"
 description: "### Isparta Müzesi..."
 featured_image: ""
 province: "Isparta"
-iller: ["Isparta"]
+iller: '["Isparta"]'
 district: "Isparta"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.558333,37.770833"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Isparta Müzesi

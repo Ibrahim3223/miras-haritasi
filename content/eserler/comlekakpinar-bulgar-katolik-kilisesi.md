@@ -1,18 +1,17 @@
 ---
-title: "Çömlekakpınar Bulgar Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:42:42+03:00
+title: "Çömlekakpınar Bulgar Katolik Kilisesi"
+date: "2025-12-25T09:42:42+03:00"
 slug: "comlekakpinar-bulgar-katolik-kilisesi"
 description: "### Çömlekakpınar Bulgar Katolik Kilisesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Lalapaşa"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "26.641566637,41.837443097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çömlekakpınar Bulgar Katolik Kilisesi

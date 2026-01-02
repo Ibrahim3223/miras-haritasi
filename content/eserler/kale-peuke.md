@@ -1,18 +1,17 @@
 ---
-title: "Kale Peuke | Miras Haritası"
-date: 2025-12-25T04:44:59+03:00
+title: "Kale Peuke"
+date: "2025-12-25T04:44:59+03:00"
 slug: "kale-peuke"
 description: "## Kale Peuke: Yenice'nin Tarihi Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Yenice (Çanakkale)"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.983187,39.793768"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kale Peuke: Yenice'nin Tarihi Mirası

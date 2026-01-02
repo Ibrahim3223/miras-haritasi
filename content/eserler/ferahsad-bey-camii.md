@@ -1,18 +1,17 @@
 ---
-title: "Ferahşad Bey Camii | Miras Haritası"
-date: 2025-12-24T23:04:07+03:00
+title: "Ferahşad Bey Camii"
+date: "2025-12-24T23:04:07+03:00"
 slug: "ferahsad-bey-camii"
 description: "## Ferahşad Bey Camii: Demirdövenlerin Şehri Bayburt'un Zihniyetini Tanıtan Bir Miras..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Demirözü"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "39.7508354,40.1334038"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ferahşad Bey Camii: Demirdövenlerin Şehri Bayburt'un Zihniyetini Tanıtan Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "Aphrodisias Tiyatro Hamamı | Miras Haritası"
-date: 2025-12-25T16:59:19+03:00
+title: "Aphrodisias Tiyatro Hamamı"
+date: "2025-12-25T16:59:19+03:00"
 slug: "aphrodisias-tiyatro-hamami"
 description: "### Aphrodisias Tiyatro Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.7254124,37.7067108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aphrodisias Tiyatro Hamamı

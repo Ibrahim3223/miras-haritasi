@@ -1,18 +1,17 @@
 ---
-title: "Ekinli Höyük | Miras Haritası"
-date: 2025-12-25T06:23:09+03:00
+title: "Ekinli Höyük"
+date: "2025-12-25T06:23:09+03:00"
 slug: "ekinli-hoyuk"
 description: "# Ekinli Höyük: Gaziantep'in Gizli Kutsalı..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Şahinbey"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.3670255,36.8204812"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ekinli Höyük: Gaziantep'in Gizli Kutsalı

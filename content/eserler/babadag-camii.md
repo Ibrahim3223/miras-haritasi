@@ -1,18 +1,17 @@
 ---
-title: "Babadağ Camii | Miras Haritası"
-date: 2025-12-24T23:22:09+03:00
+title: "Babadağ Camii"
+date: "2025-12-24T23:22:09+03:00"
 slug: "babadag-camii"
 description: "## Babadağ Camii: Bursa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0761185,40.1747856"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Babadağ Camii: Bursa'nın Tarihî Mirası

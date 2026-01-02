@@ -1,18 +1,17 @@
 ---
-title: "Aşağıpelitözü Höyüğü | Miras Haritası"
-date: 2025-12-25T06:03:08+03:00
+title: "Aşağıpelitözü Höyüğü"
+date: "2025-12-25T06:03:08+03:00"
 slug: "asagipelitozu-hoyugu"
 description: "## Aşağıpelitözü Höyüğü: Türkiye'nin Gizli Kıvılcımı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.6654701,40.4734192"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağıpelitözü Höyüğü: Türkiye'nin Gizli Kıvılcımı

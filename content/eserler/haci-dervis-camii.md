@@ -1,18 +1,17 @@
 ---
-title: "Hacı Derviş Camii | Miras Haritası"
-date: 2025-12-24T23:29:29+03:00
+title: "Hacı Derviş Camii"
+date: "2025-12-24T23:29:29+03:00"
 slug: "haci-dervis-camii"
 description: "**Kilis'te Tarihi Bir Şekilde Örenin Önindeki Hacı Derviş Camii**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kilis"
+province: "Kilis"
+iller: '["Kilis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "37.11689,36.7164993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kilis'te Tarihi Bir Şekilde Örenin Önindeki Hacı Derviş Camii**

@@ -1,18 +1,17 @@
 ---
-title: "Doğanpınar Höyük | Miras Haritası"
-date: 2025-12-25T13:46:02+03:00
+title: "Doğanpınar Höyük"
+date: "2025-12-25T13:46:02+03:00"
 slug: "doganpinar-hoyuk"
 description: "# Doğanpınar Höyük..."
 featured_image: ""
 province: "Gaziantep"
-iller: ["Gaziantep"]
+iller: '["Gaziantep"]'
 district: "Oğuzeli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.6235333,36.8414826"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Doğanpınar Höyük

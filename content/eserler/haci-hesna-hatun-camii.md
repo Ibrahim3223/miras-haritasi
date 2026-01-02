@@ -1,18 +1,17 @@
 ---
-title: "Hacı Hesna Hatun Camii | Miras Haritası"
-date: 2025-12-24T21:49:33+03:00
+title: "Hacı Hesna Hatun Camii"
+date: "2025-12-24T21:49:33+03:00"
 slug: "haci-hesna-hatun-camii"
 description: "## Hacı Hesna Hatun Camii ..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hacı_Hesna_Hatun_Mosque_outside.jpg/1200px-Hacı_Hesna_Hatun_Mosque_outside.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Sultantepe"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.019184112,41.02794557"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hacı Hesna Hatun Camii 

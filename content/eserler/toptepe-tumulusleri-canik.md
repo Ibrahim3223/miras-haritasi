@@ -1,18 +1,17 @@
 ---
-title: "Toptepe Tümülüsleri, Canik | Miras Haritası"
-date: 2025-12-25T07:24:06+03:00
+title: "Toptepe Tümülüsleri, Canik"
+date: "2025-12-25T07:24:06+03:00"
 slug: "toptepe-tumulusleri-canik"
 description: "### Toptepe Tümülüsleri: Canik'in Gizli Tarihi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Canik"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.3737488,41.2664795"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Toptepe Tümülüsleri: Canik'in Gizli Tarihi

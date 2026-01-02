@@ -1,18 +1,17 @@
 ---
-title: "Cuma Camii, Hacıbektaş | Miras Haritası"
-date: 2025-12-25T01:07:34+03:00
+title: "Cuma Camii, Hacıbektaş"
+date: "2025-12-25T01:07:34+03:00"
 slug: "cuma-camii-hacibektas"
 description: "**Cuma Camii, Hacıbektaş: Tarihî Bir Mirasın Gizemi**..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Hacıbektaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.5597687,38.9450684"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Cuma Camii, Hacıbektaş: Tarihî Bir Mirasın Gizemi**

@@ -1,18 +1,17 @@
 ---
-title: "Şerefiye Camii | Miras Haritası"
-date: 2025-12-24T23:10:58+03:00
+title: "Şerefiye Camii"
+date: "2025-12-24T23:10:58+03:00"
 slug: "serefiye-camii"
 description: "**Şerefiye Camii Tanıtımı**..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Sakarya"
+province: "Sakarya"
+iller: '["Sakarya"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.3958073,40.7776222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Şerefiye Camii Tanıtımı**

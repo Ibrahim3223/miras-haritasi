@@ -1,18 +1,17 @@
 ---
-title: "Coba Höyük | Miras Haritası"
-date: 2025-12-25T07:11:45+03:00
+title: "Coba Höyük"
+date: "2025-12-25T07:11:45+03:00"
 slug: "coba-hoyuk"
 description: "### Coba Höyük: Gaziantep'in Gizli Kahramanı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Gaziantep"
+province: "Gaziantep"
+iller: '["Gaziantep"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.89138889,37.18666667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Coba Höyük: Gaziantep'in Gizli Kahramanı

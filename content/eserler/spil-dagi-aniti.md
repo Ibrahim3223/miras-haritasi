@@ -1,18 +1,17 @@
 ---
-title: "Spil Dağı Anıtı | Miras Haritası"
-date: 2025-12-25T15:53:10+03:00
+title: "Spil Dağı Anıtı"
+date: "2025-12-25T15:53:10+03:00"
 slug: "spil-dagi-aniti"
 description: "## Spil Dağı Anıtı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.5003033,38.5975723"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Spil Dağı Anıtı: Tarihi ve Kültürel Miras

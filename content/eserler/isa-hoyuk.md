@@ -1,18 +1,17 @@
 ---
-title: "İsa Höyük | Miras Haritası"
-date: 2025-12-25T06:07:16+03:00
+title: "İsa Höyük"
+date: "2025-12-25T06:07:16+03:00"
 slug: "isa-hoyuk"
 description: "## İsa Höyük: Tarihî bir Kaya Mezarı..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.3232727,38.724575"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İsa Höyük: Tarihî bir Kaya Mezarı

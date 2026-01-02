@@ -1,18 +1,17 @@
 ---
-title: "Soğucak Mezarlığı | Miras Haritası"
-date: 2025-12-25T14:54:47+03:00
+title: "Soğucak Mezarlığı"
+date: "2025-12-25T14:54:47+03:00"
 slug: "sogucak-mezarligi"
 description: "## Soğucak Mezarlığı: Kuşadası'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Kuşadası"
-iller: ["Kuşadası"]
+iller: '["Kuşadası"]'
 district: "Kuşadası"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.3002205,37.7825546"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soğucak Mezarlığı: Kuşadası'nın Gizli Ören Yeri

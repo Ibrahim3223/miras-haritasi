@@ -1,18 +1,17 @@
 ---
-title: "Hançeri Güzar Türbesi | Miras Haritası"
-date: 2025-12-25T15:22:35+03:00
+title: "Hançeri Güzar Türbesi"
+date: "2025-12-25T15:22:35+03:00"
 slug: "hanceri-guzar-turbesi"
 description: "### Hançeri Güzar Türbesi: Diyarbakır'ın Etkileyici Anıtı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Sur"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.2296333,37.9085617"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hançeri Güzar Türbesi: Diyarbakır'ın Etkileyici Anıtı

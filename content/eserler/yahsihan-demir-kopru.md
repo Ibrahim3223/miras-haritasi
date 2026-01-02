@@ -1,18 +1,17 @@
 ---
-title: "Yahşihan Demir Köprü | Miras Haritası"
-date: 2025-12-25T01:57:45+03:00
+title: "Yahşihan Demir Köprü"
+date: "2025-12-25T01:57:45+03:00"
 slug: "yahsihan-demir-kopru"
 description: "## Yahşihan Demir Köprü..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırıkkale"
+province: "Kırıkkale"
+iller: '["Kırıkkale"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "33.447984,39.842922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yahşihan Demir Köprü

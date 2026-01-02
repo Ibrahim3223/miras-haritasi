@@ -1,18 +1,17 @@
 ---
-title: "Surp Minas Kilisesi | Miras Haritası"
-date: 2025-12-25T08:45:08+03:00
+title: "Surp Minas Kilisesi"
+date: "2025-12-25T08:45:08+03:00"
 slug: "surp-minas-kilisesi"
 description: "### Surp Minas Kilisesi: Aziziye'nin Yüce Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Aziziye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.182623531,39.922442591"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Surp Minas Kilisesi: Aziziye'nin Yüce Anıtı

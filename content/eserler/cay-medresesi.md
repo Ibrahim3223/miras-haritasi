@@ -1,18 +1,17 @@
 ---
-title: "Çay Medresesi | Miras Haritası"
-date: 2025-12-25T17:38:45+03:00
+title: "Çay Medresesi"
+date: "2025-12-25T17:38:45+03:00"
 slug: "cay-medresesi"
 description: "### Çay Medresesi: Bir Tarihî Mirasın Gerçekleri..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Çay"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "31.0224819,38.5929604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çay Medresesi: Bir Tarihî Mirasın Gerçekleri

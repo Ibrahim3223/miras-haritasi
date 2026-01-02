@@ -1,18 +1,17 @@
 ---
-title: "Koca Tarla Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:38:48+03:00
+title: "Koca Tarla Tümülüsü"
+date: "2025-12-25T07:38:48+03:00"
 slug: "koca-tarla-tumulusu"
 description: "## Koca Tarla Tümülüsü: Çanakkale'de Bir Arkeolojik Miras..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.580811944,39.731838248"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koca Tarla Tümülüsü: Çanakkale'de Bir Arkeolojik Miras

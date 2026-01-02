@@ -1,18 +1,17 @@
 ---
-title: "Abditolu Höyüğü | Miras Haritası"
-date: 2025-12-25T05:58:10+03:00
+title: "Abditolu Höyüğü"
+date: "2025-12-25T05:58:10+03:00"
 slug: "abditolu-hoyugu"
 description: "## Abditolu Höyüğü..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.737709,37.7374611"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Abditolu Höyüğü

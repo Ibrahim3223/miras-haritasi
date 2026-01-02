@@ -1,18 +1,17 @@
 ---
-title: "Cezeri Kasım Paşa Cami | Miras Haritası"
-date: 2025-12-24T22:01:37+03:00
+title: "Cezeri Kasım Paşa Cami"
+date: "2025-12-24T22:01:37+03:00"
 slug: "cezeri-kasim-pasa-cami"
 description: "# Cezeri Kasım Paşa Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cezeri_Kasım_Paşa_Cami.jpg/1200px-Cezeri_Kasım_Paşa_Cami.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.936194444,41.0435"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Cezeri Kasım Paşa Cami

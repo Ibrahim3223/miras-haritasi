@@ -1,18 +1,17 @@
 ---
-title: "Petobani Kilisesi | Miras Haritası"
-date: 2025-12-25T09:01:01+03:00
+title: "Petobani Kilisesi"
+date: "2025-12-25T09:01:01+03:00"
 slug: "petobani-kilisesi"
 description: "### Petobani Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Posof"
-iller: ["Posof"]
+iller: '["Posof"]'
 district: "Kalkankaya"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.761194444,41.567638888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Petobani Kilisesi: Tarihi ve Kültürel Miras

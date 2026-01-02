@@ -1,18 +1,17 @@
 ---
-title: "Aya Dardara Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:04+03:00
+title: "Aya Dardara Kilisesi"
+date: "2025-12-25T09:21:04+03:00"
 slug: "aya-dardara-kilisesi"
 description: "## Aya Dardara Kilisesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "35.4658813,40.8746643"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aya Dardara Kilisesi

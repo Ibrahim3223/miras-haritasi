@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Çandarlı | Miras Haritası"
-date: 2025-12-25T17:06:29+03:00
+title: "Hamam, Çandarlı"
+date: "2025-12-25T17:06:29+03:00"
 slug: "hamam-candarli"
 description: "# Hamam, Çandarlı: Tarih, Mimarlık ve Kültür..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Dikili"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.9319992,38.9356995"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hamam, Çandarlı: Tarih, Mimarlık ve Kültür

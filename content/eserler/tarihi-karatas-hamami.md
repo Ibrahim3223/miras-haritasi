@@ -1,18 +1,17 @@
 ---
-title: "Tarihi Karataş Hamamı | Miras Haritası"
-date: 2025-12-25T16:54:34+03:00
+title: "Tarihi Karataş Hamamı"
+date: "2025-12-25T16:54:34+03:00"
 slug: "tarihi-karatas-hamami"
 description: "## Tarihi Karataş Hamamı: İzmir'in Gizli Çarıklarını Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tarihi_Karataş_Hamamı.jpg/1200px-Tarihi_Karataş_Hamamı.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1210995,38.4096985"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tarihi Karataş Hamamı: İzmir'in Gizli Çarıklarını Keşfetmek

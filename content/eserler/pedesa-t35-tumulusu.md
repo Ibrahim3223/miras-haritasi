@@ -1,18 +1,17 @@
 ---
-title: "Pedesa T35 Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:37:18+03:00
+title: "Pedesa T35 Tümülüsü"
+date: "2025-12-25T07:37:18+03:00"
 slug: "pedesa-t35-tumulusu"
 description: "### Pedesa T35 Tümülüsü..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.420258059,37.063608581"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Pedesa T35 Tümülüsü

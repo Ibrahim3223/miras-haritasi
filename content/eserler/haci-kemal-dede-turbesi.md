@@ -1,18 +1,17 @@
 ---
-title: "Hacı Kemal Dede Türbesi | Miras Haritası"
-date: 2025-12-25T15:04:26+03:00
+title: "Hacı Kemal Dede Türbesi"
+date: "2025-12-25T15:04:26+03:00"
 slug: "haci-kemal-dede-turbesi"
 description: "## Hacı Kemal Dede Türbesi..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Uşak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.4058418,38.6805077"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Kemal Dede Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Godoş Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:36+03:00
+title: "Godoş Çeşmesi"
+date: "2025-12-25T10:12:36+03:00"
 slug: "godos-cesmesi"
 description: "## Godoş Çeşmesi: Kelkit'in Tarihî Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kelkit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.4345589,40.2056618"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Godoş Çeşmesi: Kelkit'in Tarihî Mirası

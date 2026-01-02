@@ -1,18 +1,17 @@
 ---
-title: "Kalealtı Camii | Miras Haritası"
-date: 2025-12-24T23:40:25+03:00
+title: "Kalealtı Camii"
+date: "2025-12-24T23:40:25+03:00"
 slug: "kalealti-camii"
 description: "## Kalealtı Camii Tanıtımı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bitlis"
+province: "Bitlis"
+iller: '["Bitlis"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "42.1063156,38.4004097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kalealtı Camii Tanıtımı

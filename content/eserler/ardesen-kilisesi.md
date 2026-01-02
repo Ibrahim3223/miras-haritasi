@@ -1,18 +1,17 @@
 ---
-title: "Ardeşen Kilisesi | Miras Haritası"
-date: 2025-12-25T08:55:37+03:00
+title: "Ardeşen Kilisesi"
+date: "2025-12-25T08:55:37+03:00"
 slug: "ardesen-kilisesi"
 description: "## Ardeşen Kilisesi: Tarihi ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ruins_of_Georgian_church_in_Ardeşen,_Rize,_Lazistan.jpg/1200px-Ruins_of_Georgian_church_in_Ardeşen,_Rize,_Lazistan.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Rize"
+province: "Rize"
+iller: '["Rize"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.001527777,41.195833333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ardeşen Kilisesi: Tarihi ve Kültürel Bir Miras

@@ -1,18 +1,17 @@
 ---
-title: "Büyük Saray | Miras Haritası"
-date: 2025-12-25T13:14:25+03:00
+title: "Büyük Saray"
+date: "2025-12-25T13:14:25+03:00"
 slug: "buyuk-saray"
 description: "# Büyük Saray: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pier_Great_Palace_Istanbul_(1).JPG/1200px-Pier_Great_Palace_Istanbul_(1).JPG"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "28.97777778,41.00638889"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Büyük Saray: İstanbul'un Tarihi ve Kültürel Mirası

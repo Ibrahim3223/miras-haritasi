@@ -1,18 +1,17 @@
 ---
-title: "Mor Loozor Manastırı | Miras Haritası"
-date: 2025-12-25T09:49:22+03:00
+title: "Mor Loozor Manastırı"
+date: "2025-12-25T09:49:22+03:00"
 slug: "mor-loozor-manastiri"
 description: "### Mor Loozor Manastırı..."
 featured_image: ""
 province: "Mardin"
-iller: ["Mardin"]
+iller: '["Mardin"]'
 district: "Midyat"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "41.3346711,37.4683201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mor Loozor Manastırı

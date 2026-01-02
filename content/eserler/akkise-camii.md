@@ -1,18 +1,17 @@
 ---
-title: "Akkise Camii | Miras Haritası"
-date: 2025-12-25T00:38:18+03:00
+title: "Akkise Camii"
+date: "2025-12-25T00:38:18+03:00"
 slug: "akkise-camii"
 description: "## Akkise Camii..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ahırlı"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.131995707,37.36580211"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akkise Camii

@@ -1,18 +1,17 @@
 ---
-title: "Yolageldi Köyü Camii | Miras Haritası"
-date: 2025-12-24T23:46:35+03:00
+title: "Yolageldi Köyü Camii"
+date: "2025-12-24T23:46:35+03:00"
 slug: "yolageldi-koyu-camii"
 description: "## Yolageldi Köyü Camii..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.9480057,41.5164566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yolageldi Köyü Camii

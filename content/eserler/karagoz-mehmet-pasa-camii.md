@@ -1,18 +1,17 @@
 ---
-title: "Karagöz Mehmet Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:23:51+03:00
+title: "Karagöz Mehmet Paşa Camii"
+date: "2025-12-24T23:23:51+03:00"
 slug: "karagoz-mehmet-pasa-camii"
 description: "## Karagöz Mehmet Paşa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.926229,41.009285"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karagöz Mehmet Paşa Camii

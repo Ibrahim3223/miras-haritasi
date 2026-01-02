@@ -1,18 +1,17 @@
 ---
-title: "Kilise Camii Güzelyurt | Miras Haritası"
-date: 2025-12-24T23:20:52+03:00
+title: "Kilise Camii Güzelyurt"
+date: "2025-12-24T23:20:52+03:00"
 slug: "kilise-camii-guzelyurt"
 description: "## Kilise Camii Güzelyurt: Bir Zengin Tarihî Mirasın Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Aksaray_Güzelyurt_Kilise_Camii_Minaresi.jpg/1200px-Aksaray_Güzelyurt_Kilise_Camii_Minaresi.jpg"
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Güzelyurt"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.371594,38.275573"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kilise Camii Güzelyurt: Bir Zengin Tarihî Mirasın Tanıtımı

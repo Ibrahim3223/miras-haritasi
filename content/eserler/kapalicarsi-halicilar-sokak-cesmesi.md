@@ -1,18 +1,17 @@
 ---
-title: "Kapalıçarşı Halıcılar Sokak Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:22:02+03:00
+title: "Kapalıçarşı Halıcılar Sokak Çeşmesi"
+date: "2025-12-25T11:22:02+03:00"
 slug: "kapalicarsi-halicilar-sokak-cesmesi"
 description: "## Kapalıçarşı Halıcılar Sokak Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Beyazıt"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.967827,41.011055"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapalıçarşı Halıcılar Sokak Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Tattaios | Miras Haritası"
-date: 2025-12-25T05:17:07+03:00
+title: "Tattaios"
+date: "2025-12-25T05:17:07+03:00"
 slug: "tattaios"
 description: "### Tattaios: Tarihi ve Kültürel Mirasın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.3429555,40.286922"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tattaios: Tarihi ve Kültürel Mirasın Gizli Çehresini Keşfetmek

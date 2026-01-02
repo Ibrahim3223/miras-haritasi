@@ -1,18 +1,17 @@
 ---
-title: "Cerrahi Aletler ve Sağlık Müzesi | Miras Haritası"
-date: 2025-12-25T03:33:16+03:00
+title: "Cerrahi Aletler ve Sağlık Müzesi"
+date: "2025-12-25T03:33:16+03:00"
 slug: "cerrahi-aletler-ve-saglik-muzesi"
 description: "## Cerrahi Aletler ve Sağlık Müzesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.349555555,41.280555555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cerrahi Aletler ve Sağlık Müzesi

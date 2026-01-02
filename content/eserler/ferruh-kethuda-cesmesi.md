@@ -1,18 +1,17 @@
 ---
-title: "Ferruh Kethüda Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:09:12+03:00
+title: "Ferruh Kethüda Çeşmesi"
+date: "2025-12-25T10:09:12+03:00"
 slug: "ferruh-kethuda-cesmesi"
 description: "## Ferruh Kethüda Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ferruh_Kethüda_Çeşmesi.jpg/1200px-Ferruh_Kethüda_Çeşmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Ayvansaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.945479,41.034592"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ferruh Kethüda Çeşmesi: Fatih'in Gizli Çeşmesi

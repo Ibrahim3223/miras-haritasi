@@ -1,18 +1,17 @@
 ---
-title: "İntikamtepe Şehitliği, Bozüyük | Miras Haritası"
-date: 2025-12-25T16:03:30+03:00
+title: "İntikamtepe Şehitliği, Bozüyük"
+date: "2025-12-25T16:03:30+03:00"
 slug: "intikamtepe-sehitligi-bozuyuk"
 description: "## İntikamtepe Şehitliği: Bozüyük'teki Anıtsal Anlamı..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bozüyük"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "30.0090809,39.8488388"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İntikamtepe Şehitliği: Bozüyük'teki Anıtsal Anlamı

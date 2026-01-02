@@ -1,18 +1,17 @@
 ---
-title: "Mescit, Milet | Miras Haritası"
-date: 2025-12-25T00:47:22+03:00
+title: "Mescit, Milet"
+date: "2025-12-25T00:47:22+03:00"
 slug: "mescit-milet"
 description: "## Mescit, Milet: Didim'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.2781601,37.5277061"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mescit, Milet: Didim'in Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Murat Paşa Camii Güneş Saati | Miras Haritası"
-date: 2025-12-25T13:40:08+03:00
+title: "Murat Paşa Camii Güneş Saati"
+date: "2025-12-25T13:40:08+03:00"
 slug: "murat-pasa-camii-gunes-saati"
 description: "### Murat Paşa Camii Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9487152,41.0102386"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Murat Paşa Camii Güneş Saati

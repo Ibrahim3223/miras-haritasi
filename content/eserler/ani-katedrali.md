@@ -1,18 +1,17 @@
 ---
-title: "Ani Katedrali | Miras Haritası"
-date: 2025-12-24T21:41:25+03:00
+title: "Ani Katedrali"
+date: "2025-12-24T21:41:25+03:00"
 slug: "ani-katedrali"
 description: "## Ani Katedrali: Tarihî Bir Mirasın Etkileyici Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Cathedral_of_Ani.jpg/1200px-The_Cathedral_of_Ani.jpg"
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "43.572777777,40.506111111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Ani Katedrali: Tarihî Bir Mirasın Etkileyici Örneği

@@ -1,18 +1,17 @@
 ---
-title: "Karapazar Höyük | Miras Haritası"
-date: 2025-12-25T05:26:02+03:00
+title: "Karapazar Höyük"
+date: "2025-12-25T05:26:02+03:00"
 slug: "karapazar-hoyuk"
 description: "## Karapazar Höyük: Odunpazarı'nı Tanıtan Tarihi Bir Miras..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.555683,39.587283"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karapazar Höyük: Odunpazarı'nı Tanıtan Tarihi Bir Miras

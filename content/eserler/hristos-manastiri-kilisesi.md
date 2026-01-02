@@ -1,18 +1,17 @@
 ---
-title: "Hristos Manastırı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:58:41+03:00
+title: "Hristos Manastırı Kilisesi"
+date: "2025-12-25T09:58:41+03:00"
 slug: "hristos-manastiri-kilisesi"
 description: "### Hristos Manastırı Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.1235161,40.8644257"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hristos Manastırı Kilisesi

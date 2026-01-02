@@ -1,18 +1,17 @@
 ---
-title: "Şahinali Camii | Miras Haritası"
-date: 2025-12-24T23:09:42+03:00
+title: "Şahinali Camii"
+date: "2025-12-24T23:09:42+03:00"
 slug: "sahinali-camii"
 description: "## Şahinali Camii: Niğde'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Niğde"
+province: "Niğde"
+iller: '["Niğde"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.681015,37.9698982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şahinali Camii: Niğde'nin Tarihi ve Kültürel Mirası

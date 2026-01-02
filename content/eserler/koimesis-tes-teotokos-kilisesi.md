@@ -1,18 +1,17 @@
 ---
-title: "Koimesis Tes Teotokos Kilisesi | Miras Haritası"
-date: 2025-12-25T09:32:15+03:00
+title: "Koimesis Tes Teotokos Kilisesi"
+date: "2025-12-25T09:32:15+03:00"
 slug: "koimesis-tes-teotokos-kilisesi"
 description: "## Koimesis Tes Teotokos Kilisesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Erdek"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.9043617,40.5055351"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koimesis Tes Teotokos Kilisesi

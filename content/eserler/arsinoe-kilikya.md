@@ -1,18 +1,17 @@
 ---
-title: "Arsinoe (Kilikya) | Miras Haritası"
-date: 2025-12-25T04:29:31+03:00
+title: "Arsinoe (Kilikya)"
+date: "2025-12-25T04:29:31+03:00"
 slug: "arsinoe-kilikya"
 description: "### Kilikya'da Antik Arsinoe: Tarih, Mimari ve Ziyaret Bilgileri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.022091,36.092495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kilikya'da Antik Arsinoe: Tarih, Mimari ve Ziyaret Bilgileri

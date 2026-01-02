@@ -1,18 +1,17 @@
 ---
-title: "Kesikbaş Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T13:37:30+03:00
+title: "Kesikbaş Sultan Türbesi"
+date: "2025-12-25T13:37:30+03:00"
 slug: "kesikbas-sultan-turbesi"
 description: "### Kesikbaş Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.939472,41.03647"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kesikbaş Sultan Türbesi

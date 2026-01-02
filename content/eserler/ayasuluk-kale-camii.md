@@ -1,18 +1,17 @@
 ---
-title: "Ayasuluk Kale Camii | Miras Haritası"
-date: 2025-12-24T22:15:31+03:00
+title: "Ayasuluk Kale Camii"
+date: "2025-12-24T22:15:31+03:00"
 slug: "ayasuluk-kale-camii"
 description: "## Ayasuluk Kale Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3680687,37.9553146"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ayasuluk Kale Camii

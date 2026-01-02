@@ -1,18 +1,17 @@
 ---
-title: "Abdüllatif Kudsi Türbesi | Miras Haritası"
-date: 2025-12-25T14:41:51+03:00
+title: "Abdüllatif Kudsi Türbesi"
+date: "2025-12-25T14:41:51+03:00"
 slug: "abdullatif-kudsi-turbesi"
 description: "# Abdüllatif Kudsi Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Yıldırım"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0833683,40.1802979"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Abdüllatif Kudsi Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Horoztepe | Miras Haritası"
-date: 2025-12-25T06:59:08+03:00
+title: "Horoztepe"
+date: "2025-12-25T06:59:08+03:00"
 slug: "horoztepe"
 description: "### Horoztepe: Tokat'taki Tarihî ve Kültürel Miras..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Tokat"
+province: "Tokat"
+iller: '["Tokat"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.545527,40.662923"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Horoztepe: Tokat'taki Tarihî ve Kültürel Miras

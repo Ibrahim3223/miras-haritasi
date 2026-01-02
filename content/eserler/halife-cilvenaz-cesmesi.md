@@ -1,18 +1,17 @@
 ---
-title: "Halife Cilvenaz Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:17:22+03:00
+title: "Halife Cilvenaz Çeşmesi"
+date: "2025-12-25T11:17:22+03:00"
 slug: "halife-cilvenaz-cesmesi"
 description: "## Halife Cilvenaz Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Beyazıt"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9674473,41.0098839"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halife Cilvenaz Çeşmesi

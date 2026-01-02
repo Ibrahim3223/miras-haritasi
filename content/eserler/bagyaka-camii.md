@@ -1,18 +1,17 @@
 ---
-title: "Bağyaka Camii | Miras Haritası"
-date: 2025-12-24T22:12:28+03:00
+title: "Bağyaka Camii"
+date: "2025-12-24T22:12:28+03:00"
 slug: "bagyaka-camii"
 description: "## Bağyaka Camii: Finike'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Finike"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.1396446,36.33955"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bağyaka Camii: Finike'nin Tarihi Bir Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Hekimbaşı Ömer Efendi Sebili | Miras Haritası"
-date: 2025-12-25T13:04:39+03:00
+title: "Hekimbaşı Ömer Efendi Sebili"
+date: "2025-12-25T13:04:39+03:00"
 slug: "hekimbasi-omer-efendi-sebili"
 description: "## Hekimbaşı Ömer Efendi Sebili: İstanbul'un Eski Şehirini Yansıtan Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9408722,41.0117188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hekimbaşı Ömer Efendi Sebili: İstanbul'un Eski Şehirini Yansıtan Bir Çeşme

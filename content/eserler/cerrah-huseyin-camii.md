@@ -1,18 +1,17 @@
 ---
-title: "Cerrah Hüseyin Camii | Miras Haritası"
-date: 2025-12-24T22:28:16+03:00
+title: "Cerrah Hüseyin Camii"
+date: "2025-12-24T22:28:16+03:00"
 slug: "cerrah-huseyin-camii"
 description: "## Cerrah Hüseyin Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.6730766,40.4072227"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cerrah Hüseyin Camii

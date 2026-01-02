@@ -1,18 +1,17 @@
 ---
-title: "Hasköy C Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:34:56+03:00
+title: "Hasköy C Tümülüsü"
+date: "2025-12-25T07:34:56+03:00"
 slug: "haskoy-c-tumulusu"
 description: "## Hasköy C Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.8506336,41.6400299"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasköy C Tümülüsü

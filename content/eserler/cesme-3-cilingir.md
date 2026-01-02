@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 3, Çilingir | Miras Haritası"
-date: 2025-12-25T12:46:50+03:00
+title: "Çeşme 3, Çilingir"
+date: "2025-12-25T12:46:50+03:00"
 slug: "cesme-3-cilingir"
 description: "## Çeşme 3: Arnavutköy'ün Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Çeşme_3,_Çilingir_IMG_7136.jpg/1200px-Çeşme_3,_Çilingir_IMG_7136.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Arnavutköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.6816578,41.1894722"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çeşme 3: Arnavutköy'ün Gizli Çeşmesi

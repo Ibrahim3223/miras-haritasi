@@ -1,18 +1,17 @@
 ---
-title: "Hayrat Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:14:25+03:00
+title: "Hayrat Çeşmesi"
+date: "2025-12-25T10:14:25+03:00"
 slug: "hayrat-cesmesi"
 description: "**Hayrat Çeşmesi**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.213866,40.512835"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hayrat Çeşmesi**

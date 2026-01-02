@@ -1,18 +1,17 @@
 ---
-title: "Sinkoti Kilisesi | Miras Haritası"
-date: 2025-12-25T08:58:22+03:00
+title: "Sinkoti Kilisesi"
+date: "2025-12-25T08:58:22+03:00"
 slug: "sinkoti-kilisesi"
 description: "**Sinkoti Kilisesi: Güncellemesiz bir Tarih Mirası**..."
 featured_image: ""
 province: "Şavşat"
-iller: ["Şavşat"]
+iller: '["Şavşat"]'
 district: "Küplüce"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.259861111,41.294944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Sinkoti Kilisesi: Güncellemesiz bir Tarih Mirası**

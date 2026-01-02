@@ -1,18 +1,17 @@
 ---
-title: "Manisa Sarayı | Miras Haritası"
-date: 2025-12-25T13:14:08+03:00
+title: "Manisa Sarayı"
+date: "2025-12-25T13:14:08+03:00"
 slug: "manisa-sarayi"
 description: "## Manisa Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Manisa_Sarayı.jpg/1200px-Manisa_Sarayı.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: "27.433489659,38.615331594"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Manisa Sarayı

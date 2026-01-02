@@ -1,18 +1,17 @@
 ---
-title: "Cihanzade Mehmet Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:27:37+03:00
+title: "Cihanzade Mehmet Bey Çeşmesi"
+date: "2025-12-25T10:27:37+03:00"
 slug: "cihanzade-mehmet-bey-cesmesi"
 description: "## Cihanzade Mehmet Bey Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8264065,37.8570633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cihanzade Mehmet Bey Çeşmesi

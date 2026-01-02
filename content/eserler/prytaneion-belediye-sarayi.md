@@ -1,18 +1,17 @@
 ---
-title: "Prytaneion (Belediye Sarayı) | Miras Haritası"
-date: 2025-12-25T06:54:46+03:00
+title: "Prytaneion (Belediye Sarayı)"
+date: "2025-12-25T06:54:46+03:00"
 slug: "prytaneion-belediye-sarayi"
 description: "### Prytaneion (Belediye Sarayı): Selçuk'ta Geç Antik Döneme Ait Bir Arkeolojik Örenlik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Prytaneion_1.jpg/1200px-Prytaneion_1.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.344249005,37.937390529"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Prytaneion (Belediye Sarayı): Selçuk'ta Geç Antik Döneme Ait Bir Arkeolojik Örenlik

@@ -1,18 +1,17 @@
 ---
-title: "Zeynep Hanım Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:07:30+03:00
+title: "Zeynep Hanım Çeşmesi"
+date: "2025-12-25T11:07:30+03:00"
 slug: "zeynep-hanim-cesmesi"
 description: "## Zeynep Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zeynep_Hanm_emesi_1761583287.jpg/1200px-Zeynep_Hanm_emesi_1761583287.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kartal"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.223397,40.917015"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zeynep Hanım Çeşmesi

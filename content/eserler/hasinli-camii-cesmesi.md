@@ -1,18 +1,17 @@
 ---
-title: "Hasinli Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:51:07+03:00
+title: "Hasinli Camii Çeşmesi"
+date: "2025-12-25T10:51:07+03:00"
 slug: "hasinli-camii-cesmesi"
 description: "# Hasinli Camii Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4902382,38.7146721"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Hasinli Camii Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Hüsrev Gerede Anıtı | Miras Haritası"
-date: 2025-12-25T15:51:01+03:00
+title: "Hüsrev Gerede Anıtı"
+date: "2025-12-25T15:51:01+03:00"
 slug: "husrev-gerede-aniti"
 description: "## Hüsrev Gerede Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Şişli"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9945049,41.0485497"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüsrev Gerede Anıtı

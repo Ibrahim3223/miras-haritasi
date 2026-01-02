@@ -1,18 +1,17 @@
 ---
-title: "Galata Mevlevihanesi Müzesi | Miras Haritası"
-date: 2025-12-25T04:06:07+03:00
+title: "Galata Mevlevihanesi Müzesi"
+date: "2025-12-25T04:06:07+03:00"
 slug: "galata-mevlevihanesi-muzesi"
 description: "### Galata Mevlevihanesi Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.9751,41.028"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Galata Mevlevihanesi Müzesi

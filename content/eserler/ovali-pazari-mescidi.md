@@ -1,18 +1,17 @@
 ---
-title: "Ovalı Pazarı Mescidi | Miras Haritası"
-date: 2025-12-25T01:08:06+03:00
+title: "Ovalı Pazarı Mescidi"
+date: "2025-12-25T01:08:06+03:00"
 slug: "ovali-pazari-mescidi"
 description: "### Ovalı Pazarı Mescidi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7733383,41.3775253"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ovalı Pazarı Mescidi

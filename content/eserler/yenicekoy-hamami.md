@@ -1,18 +1,17 @@
 ---
-title: "Yeniceköy Hamamı | Miras Haritası"
-date: 2025-12-25T16:42:48+03:00
+title: "Yeniceköy Hamamı"
+date: "2025-12-25T16:42:48+03:00"
 slug: "yenicekoy-hamami"
 description: "## Yeniceköy Hamamı: İzmirlinin Tarihi Büyüklüğü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.7272282,38.0839996"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeniceköy Hamamı: İzmirlinin Tarihi Büyüklüğü

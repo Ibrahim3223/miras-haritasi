@@ -1,18 +1,17 @@
 ---
-title: "Galatasaray Stadyum Müzesi | Miras Haritası"
-date: 2025-12-25T04:04:27+03:00
+title: "Galatasaray Stadyum Müzesi"
+date: "2025-12-25T04:04:27+03:00"
 slug: "galatasaray-stadyum-muzesi"
 description: "**Galatasaray Stadyum Müzesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.990855426,41.103368646"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Galatasaray Stadyum Müzesi**

@@ -1,18 +1,17 @@
 ---
-title: "Dura Mahallesi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:37:58+03:00
+title: "Dura Mahallesi Köprüsü"
+date: "2025-12-25T02:37:58+03:00"
 slug: "dura-mahallesi-koprusu"
 description: "# Dura Mahallesi Köprüsü..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "36.037829,41.064119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Dura Mahallesi Köprüsü

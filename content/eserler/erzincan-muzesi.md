@@ -1,18 +1,18 @@
 ---
-title: "Erzincan Müzesi | Miras Haritası"
-date: 2025-12-25T03:36:24+03:00
+title: "Erzincan Müzesi"
+date: "2025-12-25T03:36:24+03:00"
 slug: "erzincan-muzesi"
 description: "### Erzincan Müzesi: Tarih, Kültür ve Sanatın Ortalığı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Erzincanmuseum.jpg/1200px-Erzincanmuseum.jpg"
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Erzincan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "39.495577,39.749442"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Erzincanmuseum.jpg/1200px-Erzincanmuseum.jpg"
 ---
 
 ### Erzincan Müzesi: Tarih, Kültür ve Sanatın Ortalığı

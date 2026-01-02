@@ -1,18 +1,17 @@
 ---
-title: "Çeşme Kalıntısı, Paşabahçe | Miras Haritası"
-date: 2025-12-25T12:04:33+03:00
+title: "Çeşme Kalıntısı, Paşabahçe"
+date: "2025-12-25T12:04:33+03:00"
 slug: "cesme-kalintisi-pasabahce"
 description: "## Çeşme Kalıntısı, Paşabahçe: Beykoz'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0971241,41.1175232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme Kalıntısı, Paşabahçe: Beykoz'un Gizli Çeşmesi

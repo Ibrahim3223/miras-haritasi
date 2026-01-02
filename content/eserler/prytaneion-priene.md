@@ -1,18 +1,17 @@
 ---
-title: "Prytaneion (Priene) | Miras Haritası"
-date: 2025-12-25T08:34:31+03:00
+title: "Prytaneion (Priene)"
+date: "2025-12-25T08:34:31+03:00"
 slug: "prytaneion-priene"
 description: "## Prytaneion (Priene)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Priene_8.jpg/1200px-Priene_8.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Didim"
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "27.298333333,37.659166666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Prytaneion (Priene)

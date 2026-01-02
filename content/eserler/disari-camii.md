@@ -1,18 +1,17 @@
 ---
-title: "Dışarı Camii | Miras Haritası"
-date: 2025-12-24T22:35:50+03:00
+title: "Dışarı Camii"
+date: "2025-12-24T22:35:50+03:00"
 slug: "disari-camii"
 description: "### Dışarı Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Niğde"
+province: "Niğde"
+iller: '["Niğde"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.674118,37.9676323"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dışarı Camii

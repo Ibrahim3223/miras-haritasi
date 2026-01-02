@@ -1,18 +1,17 @@
 ---
-title: "Aya İrini | Miras Haritası"
-date: 2025-12-25T08:38:14+03:00
+title: "Aya İrini"
+date: "2025-12-25T08:38:14+03:00"
 slug: "aya-irini"
 description: "### Aya İrini Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hagia_Eirene,_Topkapi_Palace.JPG/1200px-Hagia_Eirene,_Topkapi_Palace.JPG"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Eminönü"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.98111,41.00972"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Aya İrini Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Halim Baba Çeşmesi, Tosya | Miras Haritası"
-date: 2025-12-25T12:59:09+03:00
+title: "Halim Baba Çeşmesi, Tosya"
+date: "2025-12-25T12:59:09+03:00"
 slug: "halim-baba-cesmesi-tosya"
 description: "#### Halim Baba Çeşmesi, Tosya..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Tosya"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.036169287,41.020039439"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 #### Halim Baba Çeşmesi, Tosya

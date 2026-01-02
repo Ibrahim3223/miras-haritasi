@@ -1,18 +1,17 @@
 ---
-title: "Aigialus | Miras Haritası"
-date: 2025-12-25T04:59:53+03:00
+title: "Aigialus"
+date: "2025-12-25T04:59:53+03:00"
 slug: "aigialus"
 description: "## Aigialus: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.002438,41.891894"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aigialus: Antik Çağın Gizemi

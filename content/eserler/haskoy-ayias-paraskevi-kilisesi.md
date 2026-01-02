@@ -1,18 +1,17 @@
 ---
-title: "Hasköy Ayias Paraskevi Kilisesi | Miras Haritası"
-date: 2025-12-25T08:51:45+03:00
+title: "Hasköy Ayias Paraskevi Kilisesi"
+date: "2025-12-25T08:51:45+03:00"
 slug: "haskoy-ayias-paraskevi-kilisesi"
 description: "## Hasköy Ayias Paraskevi Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.951138888,41.041111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasköy Ayias Paraskevi Kilisesi: İstanbul'un Gizli Cenneti

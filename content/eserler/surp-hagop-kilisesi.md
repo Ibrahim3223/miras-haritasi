@@ -1,18 +1,17 @@
 ---
-title: "Surp Hagop Kilisesi | Miras Haritası"
-date: 2025-12-25T08:49:34+03:00
+title: "Surp Hagop Kilisesi"
+date: "2025-12-25T08:49:34+03:00"
 slug: "surp-hagop-kilisesi"
 description: "## Surp Hagop Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9347,41.0081"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surp Hagop Kilisesi

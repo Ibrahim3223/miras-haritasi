@@ -1,18 +1,17 @@
 ---
-title: "Ömer Dede Türbesi, Üsküdar | Miras Haritası"
-date: 2025-12-25T13:33:12+03:00
+title: "Ömer Dede Türbesi, Üsküdar"
+date: "2025-12-25T13:33:12+03:00"
 slug: "omer-dede-turbesi-uskudar"
 description: "## Ömer Dede Türbesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0276527,41.0170631"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ömer Dede Türbesi, Üsküdar

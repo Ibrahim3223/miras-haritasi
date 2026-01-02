@@ -1,18 +1,17 @@
 ---
-title: "Talmud Tora Sinagogu | Miras Haritası"
-date: 2025-12-25T16:15:10+03:00
+title: "Talmud Tora Sinagogu"
+date: "2025-12-25T16:15:10+03:00"
 slug: "talmud-tora-sinagogu"
 description: "## Talmud Tora Sinagogu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.136083333,38.420083333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Talmud Tora Sinagogu

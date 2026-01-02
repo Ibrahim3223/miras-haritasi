@@ -1,18 +1,17 @@
 ---
-title: "Abouadeineita | Miras Haritası"
-date: 2025-12-25T05:11:12+03:00
+title: "Abouadeineita"
+date: "2025-12-25T05:11:12+03:00"
 slug: "abouadeineita"
 description: "### Abouadeineita: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.542331,39.528949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Abouadeineita: Bir Arkeolojik Sitin Gizemi

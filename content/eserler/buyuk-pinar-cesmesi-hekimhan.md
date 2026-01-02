@@ -1,18 +1,17 @@
 ---
-title: "Büyük Pınar Çeşmesi, Hekimhan | Miras Haritası"
-date: 2025-12-25T12:20:17+03:00
+title: "Büyük Pınar Çeşmesi, Hekimhan"
+date: "2025-12-25T12:20:17+03:00"
 slug: "buyuk-pinar-cesmesi-hekimhan"
 description: "**Büyük Pınar Çeşmesi, Hekimhan**..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Hekimhan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "37.890698191,38.952044148"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Büyük Pınar Çeşmesi, Hekimhan**

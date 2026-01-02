@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Orhaniye | Miras Haritası"
-date: 2025-12-25T10:27:10+03:00
+title: "Çeşme, Orhaniye"
+date: "2025-12-25T10:27:10+03:00"
 slug: "cesme-orhaniye"
 description: "## Çeşme, Orhaniye..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Kahramankazan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.671196,40.1031532"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Orhaniye

@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Aziz Philippus Mezarı | Miras Haritası"
-date: 2025-12-25T14:05:03+03:00
+title: "Hierapolis Aziz Philippus Mezarı"
+date: "2025-12-25T14:05:03+03:00"
 slug: "hierapolis-aziz-philippus-mezari"
 description: "## Hierapolis Aziz Philippus Mezarı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.1306362,37.9307594"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hierapolis Aziz Philippus Mezarı

@@ -1,18 +1,17 @@
 ---
-title: "Dibek Camii | Miras Haritası"
-date: 2025-12-24T22:51:28+03:00
+title: "Dibek Camii"
+date: "2025-12-24T22:51:28+03:00"
 slug: "dibek-camii"
 description: "### Dibek Camii: Fatih'teki Bir Kültürel Miras..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Akşemsettin"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9435921,41.0181999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Dibek Camii: Fatih'teki Bir Kültürel Miras

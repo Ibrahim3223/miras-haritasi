@@ -1,18 +1,17 @@
 ---
-title: "Pazar Camii, Turgutlu | Miras Haritası"
-date: 2025-12-24T23:18:51+03:00
+title: "Pazar Camii, Turgutlu"
+date: "2025-12-24T23:18:51+03:00"
 slug: "pazar-camii-turgutlu"
 description: "## Pazar Camii, Turgutlu..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7095509,38.4997292"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pazar Camii, Turgutlu

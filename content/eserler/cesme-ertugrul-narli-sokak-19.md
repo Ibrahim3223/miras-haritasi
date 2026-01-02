@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Ertuğrul, Narlı Sokak, 19 | Miras Haritası"
-date: 2025-12-25T12:44:50+03:00
+title: "Çeşme – Ertuğrul, Narlı Sokak, 19"
+date: "2025-12-25T12:44:50+03:00"
 slug: "cesme-ertugrul-narli-sokak-19"
 description: "## Çeşme – Ertuğrul: Bergama'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1788998,39.1167984"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme – Ertuğrul: Bergama'nın Tarihi Bir Çeşmesi

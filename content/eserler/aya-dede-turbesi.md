@@ -1,18 +1,18 @@
 ---
-title: "Aya Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:06+03:00
+title: "Aya Dede Türbesi"
+date: "2025-12-25T14:24:06+03:00"
 slug: "aya-dede-turbesi"
 description: "### Aya Dede Türbesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aya_Dede_Türbesi.jpg/1200px-Aya_Dede_Türbesi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9559669,41.0276604"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aya_Dede_Türbesi.jpg/1200px-Aya_Dede_Türbesi.jpg"
 ---
 
 ### Aya Dede Türbesi

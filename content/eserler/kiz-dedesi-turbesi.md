@@ -1,18 +1,17 @@
 ---
-title: "Kız Dedesi Türbesi | Miras Haritası"
-date: 2025-12-25T15:20:18+03:00
+title: "Kız Dedesi Türbesi"
+date: "2025-12-25T15:20:18+03:00"
 slug: "kiz-dedesi-turbesi"
 description: "## Kız Dedesi Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.8853283,39.6538849"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kız Dedesi Türbesi

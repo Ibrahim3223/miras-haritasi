@@ -1,18 +1,17 @@
 ---
-title: "Fındıklı Palace | Miras Haritası"
-date: 2025-12-25T13:14:16+03:00
+title: "Fındıklı Palace"
+date: "2025-12-25T13:14:16+03:00"
 slug: "findikli-palace"
 description: "## Fındıklı Sarayı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Saray"
-turler: ["Saray"]
+turler: '["Saray"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Fındıklı Sarayı

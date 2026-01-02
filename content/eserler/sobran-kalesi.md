@@ -1,18 +1,17 @@
 ---
-title: "Sobran Kalesi | Miras Haritası"
-date: 2025-12-25T01:26:43+03:00
+title: "Sobran Kalesi"
+date: "2025-12-25T01:26:43+03:00"
 slug: "sobran-kalesi"
 description: "## Sobran Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Söke"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.4557343,37.5333557"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sobran Kalesi

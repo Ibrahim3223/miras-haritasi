@@ -1,18 +1,17 @@
 ---
-title: "Gökgöl Mahallesi Tümülüsü, Asarcık | Miras Haritası"
-date: 2025-12-25T07:23:34+03:00
+title: "Gökgöl Mahallesi Tümülüsü, Asarcık"
+date: "2025-12-25T07:23:34+03:00"
 slug: "gokgol-mahallesi-tumulusu-asarcik"
 description: "# Gökgöl Mahallesi Tümülüsü, Asarcık..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Asarcık"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.269649,41.01746"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Gökgöl Mahallesi Tümülüsü, Asarcık

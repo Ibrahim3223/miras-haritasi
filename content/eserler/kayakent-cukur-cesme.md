@@ -1,18 +1,17 @@
 ---
-title: "Kayakent Çukur Çeşme | Miras Haritası"
-date: 2025-12-25T10:46:35+03:00
+title: "Kayakent Çukur Çeşme"
+date: "2025-12-25T10:46:35+03:00"
 slug: "kayakent-cukur-cesme"
 description: "## Eskişehir'in Gizli Çeşmesinde Bir Yolculuk: Kayakent Çukur Çeşme..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Günyüzü"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "31.80229,39.3021317"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eskişehir'in Gizli Çeşmesinde Bir Yolculuk: Kayakent Çukur Çeşme

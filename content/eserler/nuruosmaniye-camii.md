@@ -1,18 +1,17 @@
 ---
-title: "Nuruosmaniye Camii | Miras Haritası"
-date: 2025-12-24T21:36:35+03:00
+title: "Nuruosmaniye Camii"
+date: "2025-12-24T21:36:35+03:00"
 slug: "nuruosmaniye-camii"
 description: "## Nuruosmaniye Camii: İstanbul'un Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Nuruosmaniye_Camii.jpg/1200px-Nuruosmaniye_Camii.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.970277777,41.010277777"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nuruosmaniye Camii: İstanbul'un Güzelliği

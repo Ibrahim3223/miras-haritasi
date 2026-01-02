@@ -1,18 +1,17 @@
 ---
-title: "Aşağıkarahalit Köyü Şehitliği | Miras Haritası"
-date: 2025-12-25T16:02:09+03:00
+title: "Aşağıkarahalit Köyü Şehitliği"
+date: "2025-12-25T16:02:09+03:00"
 slug: "asagikarahalit-koyu-sehitligi"
 description: "# Aşağıkarahalit Köyü Şehitliği..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Tutak"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.8338928,39.4707642"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aşağıkarahalit Köyü Şehitliği

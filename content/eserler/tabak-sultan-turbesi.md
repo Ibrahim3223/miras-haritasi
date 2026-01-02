@@ -1,18 +1,17 @@
 ---
-title: "Tabak Sultan Türbesi | Miras Haritası"
-date: 2025-12-25T14:20:57+03:00
+title: "Tabak Sultan Türbesi"
+date: "2025-12-25T14:20:57+03:00"
 slug: "tabak-sultan-turbesi"
 description: "## Tabak Sultan Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.545239,41.672566"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabak Sultan Türbesi

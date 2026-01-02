@@ -1,18 +1,17 @@
 ---
-title: "Samur Tümülüsü Kumru | Miras Haritası"
-date: 2025-12-25T07:27:50+03:00
+title: "Samur Tümülüsü Kumru"
+date: "2025-12-25T07:27:50+03:00"
 slug: "samur-tumulusu-kumru"
 description: "**Samur Tümülüsü Kumru**..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Kumru"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.256181,40.875454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Samur Tümülüsü Kumru**

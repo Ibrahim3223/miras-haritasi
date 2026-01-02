@@ -1,18 +1,17 @@
 ---
-title: "Nazım Hikmet Heykeli, Kadıköy | Miras Haritası"
-date: 2025-12-25T16:10:59+03:00
+title: "Nazım Hikmet Heykeli, Kadıköy"
+date: "2025-12-25T16:10:59+03:00"
 slug: "nazim-hikmet-heykeli-kadikoy"
 description: "## Nazım Hikmet Heykeli, Kadıköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Nazım_Hikmet_Heykeli,_Kadıköy.jpg/1200px-Nazım_Hikmet_Heykeli,_Kadıköy.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.0647526,40.9675789"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Nazım Hikmet Heykeli, Kadıköy

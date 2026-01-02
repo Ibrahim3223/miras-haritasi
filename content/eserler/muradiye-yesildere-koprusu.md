@@ -1,18 +1,17 @@
 ---
-title: "Muradiye Yeşildere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:09:54+03:00
+title: "Muradiye Yeşildere Köprüsü"
+date: "2025-12-25T02:09:54+03:00"
 slug: "muradiye-yesildere-koprusu"
 description: "## Muradiye Yeşildere Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.54275,40.94975"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Muradiye Yeşildere Köprüsü

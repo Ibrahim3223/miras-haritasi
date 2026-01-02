@@ -1,18 +1,17 @@
 ---
-title: "Gazi Timurtaş Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:08:41+03:00
+title: "Gazi Timurtaş Paşa Türbesi"
+date: "2025-12-25T15:08:41+03:00"
 slug: "gazi-timurtas-pasa-turbesi"
 description: "## Gazi Timurtaş Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GAZİ_TİMURTAŞ_PAŞA_TÜRBESİ_BURSA_-_panoramio_(3).jpg/1200px-GAZİ_TİMURTAŞ_PAŞA_TÜRBESİ_BURSA_-_panoramio_(3).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.059536407,40.18464534"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Gazi Timurtaş Paşa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Necip Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:18:46+03:00
+title: "Necip Ağa Çeşmesi"
+date: "2025-12-25T11:18:46+03:00"
 slug: "necip-aga-cesmesi"
 description: "## Necip Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Necip_Ağa_Çeşmesi_IMG_0360.jpg/1200px-Necip_Ağa_Çeşmesi_IMG_0360.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0234966,41.2204208"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Necip Ağa Çeşmesi

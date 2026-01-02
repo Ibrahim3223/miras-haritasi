@@ -1,18 +1,17 @@
 ---
-title: "Silivri Fener (Fanari) Kilisesi | Miras Haritası"
-date: 2025-12-25T09:19:45+03:00
+title: "Silivri Fener (Fanari) Kilisesi"
+date: "2025-12-25T09:19:45+03:00"
 slug: "silivri-fener-fanari-kilisesi"
 description: "### Silivri Fener (Fanari) Kilisesi: Tarihî Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.2366657,41.1538353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Silivri Fener (Fanari) Kilisesi: Tarihî Bir Miras

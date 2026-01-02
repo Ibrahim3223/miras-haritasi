@@ -1,18 +1,17 @@
 ---
-title: "Afrodisias Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:34+03:00
+title: "Afrodisias Müzesi"
+date: "2025-12-25T03:24:34+03:00"
 slug: "afrodisias-muzesi"
 description: "**Afrodisias Müzesi: Aydın'ın Eski Kenti ve Kültür Mirasının Gizemi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Museum_of_Aphrodisias_in_Turkey.jpg/1200px-Museum_of_Aphrodisias_in_Turkey.jpg"
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Karacasu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.727222222,37.709444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Afrodisias Müzesi: Aydın'ın Eski Kenti ve Kültür Mirasının Gizemi**

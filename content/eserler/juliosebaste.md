@@ -1,18 +1,17 @@
 ---
-title: "Juliosebaste | Miras Haritası"
-date: 2025-12-25T05:06:40+03:00
+title: "Juliosebaste"
+date: "2025-12-25T05:06:40+03:00"
 slug: "juliosebaste"
 description: "## Juliosebaste: Antik Şehirin İzleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "32.474166666,36.177777777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Juliosebaste: Antik Şehirin İzleri

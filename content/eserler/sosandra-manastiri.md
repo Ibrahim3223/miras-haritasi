@@ -1,18 +1,17 @@
 ---
-title: "Sosandra Manastırı | Miras Haritası"
-date: 2025-12-25T09:55:00+03:00
+title: "Sosandra Manastırı"
+date: "2025-12-25T09:55:00+03:00"
 slug: "sosandra-manastiri"
 description: "## Sosandra Manastırı..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "27.25011,38.6142"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sosandra Manastırı

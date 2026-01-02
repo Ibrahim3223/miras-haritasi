@@ -1,18 +1,17 @@
 ---
-title: "Cezayirli Gazi Hasan Paşa Çeşmesi, Paşa Çeşmesi Sokak | Miras Haritası"
-date: 2025-12-25T12:16:12+03:00
+title: "Cezayirli Gazi Hasan Paşa Çeşmesi, Paşa Çeşmesi Sokak"
+date: "2025-12-25T12:16:12+03:00"
 slug: "cezayirli-gazi-hasan-pasa-cesmesi-pasa-cesmesi-sokak"
 description: "## Cezayirli Gazi Hasan Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.964828,41.032772"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cezayirli Gazi Hasan Paşa Çeşmesi

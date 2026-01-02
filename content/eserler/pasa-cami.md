@@ -1,18 +1,17 @@
 ---
-title: "Paşa Cami | Miras Haritası"
-date: 2025-12-24T23:48:56+03:00
+title: "Paşa Cami"
+date: "2025-12-24T23:48:56+03:00"
 slug: "pasa-cami"
 description: "## Paşa Cami Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pasha_Mosque,_Akhisar,_Manisa.JPG/1200px-Pasha_Mosque,_Akhisar,_Manisa.JPG"
 province: "Akhisar (ilçe)"
-iller: ["Akhisar (ilçe)"]
+iller: '["Akhisar (ilçe)"]'
 district: "Şeyhisa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.8414574,38.9226685"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Paşa Cami Tanıtımı

@@ -1,18 +1,17 @@
 ---
-title: "Hünkâr Köşkü | Miras Haritası"
-date: 2025-12-25T03:22:12+03:00
+title: "Hünkâr Köşkü"
+date: "2025-12-25T03:22:12+03:00"
 slug: "hunkr-kosku"
 description: "## Hünkâr Köşkü: Bursa'da Tarih ve Müzikin Birleştiği Yer..."
 featured_image: ""
-province: "Hüdavendigâr Vilayeti"
-iller: ["Hüdavendigâr Vilayeti"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.064904,40.174194"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hünkâr Köşkü: Bursa'da Tarih ve Müzikin Birleştiği Yer

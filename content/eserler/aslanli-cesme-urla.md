@@ -1,18 +1,17 @@
 ---
-title: "Aslanlı Çeşme, Urla | Miras Haritası"
-date: 2025-12-25T12:54:07+03:00
+title: "Aslanlı Çeşme, Urla"
+date: "2025-12-25T12:54:07+03:00"
 slug: "aslanli-cesme-urla"
 description: "## Aslanlı Çeşme, Urla..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Urla"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7682838,38.3176994"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aslanlı Çeşme, Urla

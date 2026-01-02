@@ -1,18 +1,17 @@
 ---
-title: "Ayşe Sultan Sebili | Miras Haritası"
-date: 2025-12-25T13:03:53+03:00
+title: "Ayşe Sultan Sebili"
+date: "2025-12-25T13:03:53+03:00"
 slug: "ayse-sultan-sebili"
 description: "### Ayşe Sultan Sebili: İstanbul'un Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9645004,41.009407"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayşe Sultan Sebili: İstanbul'un Tarihi Çeşmesi

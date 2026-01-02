@@ -1,18 +1,17 @@
 ---
-title: "Mektep Sokak Çeşmesi, Seferihisar | Miras Haritası"
-date: 2025-12-25T12:07:54+03:00
+title: "Mektep Sokak Çeşmesi, Seferihisar"
+date: "2025-12-25T12:07:54+03:00"
 slug: "mektep-sokak-cesmesi-seferihisar"
 description: "## Mektep Sokak Çeşmesi, Seferihisar..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Seferihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.8381996,38.2000008"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mektep Sokak Çeşmesi, Seferihisar

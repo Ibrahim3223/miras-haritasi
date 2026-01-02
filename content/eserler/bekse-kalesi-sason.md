@@ -1,18 +1,17 @@
 ---
-title: "Bekse Kalesi, Sason | Miras Haritası"
-date: 2025-12-25T01:39:02+03:00
+title: "Bekse Kalesi, Sason"
+date: "2025-12-25T01:39:02+03:00"
 slug: "bekse-kalesi-sason"
 description: "## Bekse Kalesi: Batman'ın Tarihî Mirası..."
 featured_image: ""
 province: "Batman"
-iller: ["Batman"]
+iller: '["Batman"]'
 district: "Sason"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.35238,38.367131"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bekse Kalesi: Batman'ın Tarihî Mirası

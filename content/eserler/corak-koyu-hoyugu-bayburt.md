@@ -1,18 +1,17 @@
 ---
-title: "Çorak Köyü Höyüğü, Bayburt | Miras Haritası"
-date: 2025-12-25T05:54:17+03:00
+title: "Çorak Köyü Höyüğü, Bayburt"
+date: "2025-12-25T05:54:17+03:00"
 slug: "corak-koyu-hoyugu-bayburt"
 description: "### Çorak Köyü Höyüğü, Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.973526,40.254011"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çorak Köyü Höyüğü, Bayburt

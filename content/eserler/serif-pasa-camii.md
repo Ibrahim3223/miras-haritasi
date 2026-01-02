@@ -1,18 +1,17 @@
 ---
-title: "Şerif Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:54:22+03:00
+title: "Şerif Paşa Camii"
+date: "2025-12-24T23:54:22+03:00"
 slug: "serif-pasa-camii"
 description: "### Şerif Paşa Camii..."
 featured_image: ""
 province: "Bilecik"
-iller: ["Bilecik"]
+iller: '["Bilecik"]'
 district: "Bilecik"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.9827995,40.1415901"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şerif Paşa Camii

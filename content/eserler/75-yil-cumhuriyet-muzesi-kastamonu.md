@@ -1,18 +1,17 @@
 ---
-title: "75. Yıl Cumhuriyet Müzesi, Kastamonu | Miras Haritası"
-date: 2025-12-25T03:56:21+03:00
+title: "75. Yıl Cumhuriyet Müzesi, Kastamonu"
+date: "2025-12-25T03:56:21+03:00"
 slug: "75-yil-cumhuriyet-muzesi-kastamonu"
 description: "### 75. Yıl Cumhuriyet Müzesi, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.7643051,41.3658218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### 75. Yıl Cumhuriyet Müzesi, Kastamonu

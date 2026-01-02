@@ -1,18 +1,17 @@
 ---
-title: "Draman Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:16:32+03:00
+title: "Draman Çeşmesi"
+date: "2025-12-25T12:16:32+03:00"
 slug: "draman-cesmesi"
 description: "## Draman Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.944414,41.029744"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Draman Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

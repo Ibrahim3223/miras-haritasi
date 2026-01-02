@@ -1,18 +1,17 @@
 ---
-title: "Öğretmenler Lokali Duvar Çeşmesi, Foça | Miras Haritası"
-date: 2025-12-25T11:57:00+03:00
+title: "Öğretmenler Lokali Duvar Çeşmesi, Foça"
+date: "2025-12-25T11:57:00+03:00"
 slug: "ogretmenler-lokali-duvar-cesmesi-foca"
 description: "## Öğretmenler Lokali Duvar Çeşmesi, Foça..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Foça"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.7555866,38.6700859"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Öğretmenler Lokali Duvar Çeşmesi, Foça

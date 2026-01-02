@@ -1,18 +1,17 @@
 ---
-title: "Koskinia | Miras Haritası"
-date: 2025-12-25T05:20:21+03:00
+title: "Koskinia"
+date: "2025-12-25T05:20:21+03:00"
 slug: "koskinia"
 description: "## Koskinia: Aydın'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0771713,37.7945099"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koskinia: Aydın'ın Tarihî Bir Mirası

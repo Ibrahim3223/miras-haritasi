@@ -1,18 +1,17 @@
 ---
-title: "Erkinis Kilisesi | Miras Haritası"
-date: 2025-12-25T09:02:58+03:00
+title: "Erkinis Kilisesi"
+date: "2025-12-25T09:02:58+03:00"
 slug: "erkinis-kilisesi"
 description: "**Erkinis Kilisesi**..."
 featured_image: ""
 province: "Yusufeli"
-iller: ["Yusufeli"]
+iller: '["Yusufeli"]'
 district: "Demirkent"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.802080555,40.876833333"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Erkinis Kilisesi**

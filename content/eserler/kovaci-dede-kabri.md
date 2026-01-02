@@ -1,18 +1,17 @@
 ---
-title: "Kovacı Dede Kabri | Miras Haritası"
-date: 2025-12-25T13:34:35+03:00
+title: "Kovacı Dede Kabri"
+date: "2025-12-25T13:34:35+03:00"
 slug: "kovaci-dede-kabri"
 description: "## Kovacı Dede Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.948247,41.025536"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kovacı Dede Kabri: Fatih'in Gizli Anıtı

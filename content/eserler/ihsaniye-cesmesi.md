@@ -1,18 +1,17 @@
 ---
-title: "İhsaniye Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:05:16+03:00
+title: "İhsaniye Çeşmesi"
+date: "2025-12-25T11:05:16+03:00"
 slug: "ihsaniye-cesmesi"
 description: "**İhsaniye Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.013122,41.01527"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **İhsaniye Çeşmesi**

@@ -1,18 +1,17 @@
 ---
-title: "Tiritzade Şeyh Hüseyin Efendi Türbesi | Miras Haritası"
-date: 2025-12-25T15:17:51+03:00
+title: "Tiritzade Şeyh Hüseyin Efendi Türbesi"
+date: "2025-12-25T15:17:51+03:00"
 slug: "tiritzade-seyh-huseyin-efendi-turbesi"
 description: "## Tiritzade Şeyh Hüseyin Efendi Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.8659706,39.9364853"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tiritzade Şeyh Hüseyin Efendi Türbesi

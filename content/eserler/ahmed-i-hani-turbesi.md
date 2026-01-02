@@ -1,18 +1,17 @@
 ---
-title: "Ahmed-i Hani Türbesi | Miras Haritası"
-date: 2025-12-25T15:09:48+03:00
+title: "Ahmed-i Hani Türbesi"
+date: "2025-12-25T15:09:48+03:00"
 slug: "ahmed-i-hani-turbesi"
 description: "## Ahmed-i Hani Türbesi..."
 featured_image: ""
 province: "Erzurum Vilayeti"
-iller: ["Erzurum Vilayeti"]
+iller: '["Erzurum Vilayeti"]'
 district: "Doğubayazıt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "44.1347,39.5202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmed-i Hani Türbesi

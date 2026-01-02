@@ -1,18 +1,17 @@
 ---
-title: "Sesönk | Miras Haritası"
-date: 2025-12-25T04:17:55+03:00
+title: "Sesönk"
+date: "2025-12-25T04:17:55+03:00"
 slug: "sesonk"
 description: "# Sesönk Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Sesönk Arkeolojik Sit

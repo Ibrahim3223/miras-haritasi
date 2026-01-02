@@ -1,18 +1,17 @@
 ---
-title: "Cizvit Manastırı | Miras Haritası"
-date: 2025-12-25T09:52:35+03:00
+title: "Cizvit Manastırı"
+date: "2025-12-25T09:52:35+03:00"
 slug: "cizvit-manastiri"
 description: "## Cizvit Manastırı: Kadıköy'ün Tarihi Çığırından Bir Parçacığı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.0913525,40.9538498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cizvit Manastırı: Kadıköy'ün Tarihi Çığırından Bir Parçacığı

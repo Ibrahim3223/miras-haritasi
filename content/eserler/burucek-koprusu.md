@@ -1,18 +1,17 @@
 ---
-title: "Bürücek Köprüsü | Miras Haritası"
-date: 2025-12-25T02:32:37+03:00
+title: "Bürücek Köprüsü"
+date: "2025-12-25T02:32:37+03:00"
 slug: "burucek-koprusu"
 description: "## Bürücek Köprüsü: Şırnak'ta Bir Tarihî Köprü..."
 featured_image: ""
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Şırnak"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "42.1795998,37.3845825"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bürücek Köprüsü: Şırnak'ta Bir Tarihî Köprü

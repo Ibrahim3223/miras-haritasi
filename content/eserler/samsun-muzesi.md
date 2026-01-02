@@ -1,18 +1,17 @@
 ---
-title: "Samsun Müzesi | Miras Haritası"
-date: 2025-12-25T03:14:51+03:00
+title: "Samsun Müzesi"
+date: "2025-12-25T03:14:51+03:00"
 slug: "samsun-muzesi"
 description: "# Samsun Müzesi: Tarihin ve Kültür Mirasının Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Samsun_Müzesi.jpg/1200px-Samsun_Müzesi.jpg"
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "36.333823,41.289739"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Samsun Müzesi: Tarihin ve Kültür Mirasının Merkezi

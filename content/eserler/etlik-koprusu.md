@@ -1,18 +1,17 @@
 ---
-title: "Etlik Köprüsü | Miras Haritası"
-date: 2025-12-25T02:41:37+03:00
+title: "Etlik Köprüsü"
+date: "2025-12-25T02:41:37+03:00"
 slug: "etlik-koprusu"
 description: "## Etlik Köprüsü: Keçiören'in Tarihi Yüzyıllara Sahibi Köprüsü..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Keçiören"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.8474731,39.9605179"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Etlik Köprüsü: Keçiören'in Tarihi Yüzyıllara Sahibi Köprüsü

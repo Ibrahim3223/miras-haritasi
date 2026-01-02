@@ -1,18 +1,17 @@
 ---
-title: "Sultançayır Köprüsü | Miras Haritası"
-date: 2025-12-25T01:52:58+03:00
+title: "Sultançayır Köprüsü"
+date: "2025-12-25T01:52:58+03:00"
 slug: "sultancayir-koprusu"
 description: "### Sultançayır Köprüsü: Geçmişi ve Etkisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Makestos_Bridge._Drawing_01.png/1200px-Makestos_Bridge._Drawing_01.png"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.16472222,39.86527778"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Sultançayır Köprüsü: Geçmişi ve Etkisi

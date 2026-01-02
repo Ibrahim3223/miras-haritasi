@@ -1,18 +1,17 @@
 ---
-title: "Kaberia | Miras Haritası"
-date: 2025-12-25T06:59:16+03:00
+title: "Kaberia"
+date: "2025-12-25T06:59:16+03:00"
 slug: "kaberia"
 description: "## Kaberia: Tarihçemizle Birlikte Geçmişin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.95501,40.58956"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaberia: Tarihçemizle Birlikte Geçmişin Gizemi

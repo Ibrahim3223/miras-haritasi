@@ -1,18 +1,17 @@
 ---
-title: "Kuzulu Kalesi, Kırklareli | Miras Haritası"
-date: 2025-12-25T01:48:06+03:00
+title: "Kuzulu Kalesi, Kırklareli"
+date: "2025-12-25T01:48:06+03:00"
 slug: "kuzulu-kalesi-kirklareli"
 description: "## Kuzulu Kalesi: Kırklareli'nin Gizli Çağı..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.2820969,41.901432"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kuzulu Kalesi: Kırklareli'nin Gizli Çağı

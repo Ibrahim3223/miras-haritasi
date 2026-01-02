@@ -1,18 +1,17 @@
 ---
-title: "Korakoe | Miras Haritası"
-date: 2025-12-25T05:06:23+03:00
+title: "Korakoe"
+date: "2025-12-25T05:06:23+03:00"
 slug: "korakoe"
 description: "**Korakoe**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.2576,38.46504"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Korakoe**

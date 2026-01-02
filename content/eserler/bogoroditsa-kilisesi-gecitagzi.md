@@ -1,18 +1,17 @@
 ---
-title: "Bogoroditsa Kilisesi (Geçitağzı) | Miras Haritası"
-date: 2025-12-25T09:35:11+03:00
+title: "Bogoroditsa Kilisesi (Geçitağzı)"
+date: "2025-12-25T09:35:11+03:00"
 slug: "bogoroditsa-kilisesi-gecitagzi"
 description: "**Geçitağzı'daki Bogoroditsa Kilisesi: Kırklareli'nin Kıymetli Kilisesi**..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.3170948,41.9385262"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Geçitağzı'daki Bogoroditsa Kilisesi: Kırklareli'nin Kıymetli Kilisesi**

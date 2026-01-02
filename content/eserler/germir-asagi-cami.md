@@ -1,18 +1,17 @@
 ---
-title: "Germir Aşağı Cami | Miras Haritası"
-date: 2025-12-24T23:03:06+03:00
+title: "Germir Aşağı Cami"
+date: "2025-12-24T23:03:06+03:00"
 slug: "germir-asagi-cami"
 description: "## Germir Aşağı Cami..."
 featured_image: ""
 province: "Melikgazi"
-iller: ["Melikgazi"]
+iller: '["Melikgazi"]'
 district: "Germir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.5608482,38.7397652"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Germir Aşağı Cami

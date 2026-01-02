@@ -1,18 +1,17 @@
 ---
-title: "Ormandibi Camii | Miras Haritası"
-date: 2025-12-25T00:19:13+03:00
+title: "Ormandibi Camii"
+date: "2025-12-25T00:19:13+03:00"
 slug: "ormandibi-camii"
 description: "## Ormandibi Camii..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.5677,40.7271"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ormandibi Camii

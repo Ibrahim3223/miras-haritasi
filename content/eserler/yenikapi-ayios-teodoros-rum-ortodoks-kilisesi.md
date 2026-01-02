@@ -1,18 +1,17 @@
 ---
-title: "Yenikapı Ayios Teodoros Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T08:57:06+03:00
+title: "Yenikapı Ayios Teodoros Rum Ortodoks Kilisesi"
+date: "2025-12-25T08:57:06+03:00"
 slug: "yenikapi-ayios-teodoros-rum-ortodoks-kilisesi"
 description: "# Yenikapı Ayios Teodoros Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Griechisch-Orthodoxe_Sankt-Theodor-Kirche.jpg/1200px-Griechisch-Orthodoxe_Sankt-Theodor-Kirche.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.954513888,41.006819444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 # Yenikapı Ayios Teodoros Rum Ortodoks Kilisesi

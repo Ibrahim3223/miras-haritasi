@@ -1,18 +1,17 @@
 ---
-title: "Murat Molla Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:47:11+03:00
+title: "Murat Molla Kütüphanesi"
+date: "2025-12-25T17:47:11+03:00"
 slug: "murat-molla-kutuphanesi"
 description: "## Murat Molla Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Murat Molla Kütüphanesi

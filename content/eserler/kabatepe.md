@@ -1,18 +1,17 @@
 ---
-title: "Kabatepe | Miras Haritası"
-date: 2025-12-25T03:15:03+03:00
+title: "Kabatepe"
+date: "2025-12-25T03:15:03+03:00"
 slug: "kabatepe"
 description: "### Kabatepe Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kabatepe_Müzesi.jpg/1200px-Kabatepe_Müzesi.jpg"
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.2824,40.2076"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kabatepe Müzesi

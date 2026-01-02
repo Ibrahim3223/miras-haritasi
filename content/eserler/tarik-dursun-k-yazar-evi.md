@@ -1,18 +1,17 @@
 ---
-title: "Tarık Dursun K. Yazar Evi | Miras Haritası"
-date: 2025-12-25T03:38:35+03:00
+title: "Tarık Dursun K. Yazar Evi"
+date: "2025-12-25T03:38:35+03:00"
 slug: "tarik-dursun-k-yazar-evi"
 description: "**Tarık Dursun K. Yazar Evi**..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.1140213,38.4088898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Tarık Dursun K. Yazar Evi**

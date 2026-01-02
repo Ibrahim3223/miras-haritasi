@@ -1,18 +1,17 @@
 ---
-title: "Keskin Dede Kabristanı | Miras Haritası"
-date: 2025-12-25T16:06:47+03:00
+title: "Keskin Dede Kabristanı"
+date: "2025-12-25T16:06:47+03:00"
 slug: "keskin-dede-kabristani"
 description: "### Keskin Dede Kabristanı: İstanbul'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.944645,41.024528"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Keskin Dede Kabristanı: İstanbul'un Gizli Tarihi

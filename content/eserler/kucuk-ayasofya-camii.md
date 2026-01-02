@@ -1,18 +1,17 @@
 ---
-title: "Küçük Ayasofya Camii | Miras Haritası"
-date: 2025-12-24T20:37:46+03:00
+title: "Küçük Ayasofya Camii"
+date: "2025-12-24T20:37:46+03:00"
 slug: "kucuk-ayasofya-camii"
 description: "## Küçük Ayasofya Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sergius_and_Bacchus.jpg/1200px-Sergius_and_Bacchus.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.971944,41.002778"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Küçük Ayasofya Camii

@@ -1,18 +1,17 @@
 ---
-title: "Tuz Pazarı Camii | Miras Haritası"
-date: 2025-12-24T23:19:26+03:00
+title: "Tuz Pazarı Camii"
+date: "2025-12-24T23:19:26+03:00"
 slug: "tuz-pazari-camii"
 description: "### Tuz Pazarı Camii: Bursa'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0655994,40.1849098"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tuz Pazarı Camii: Bursa'nın Tarihî ve Kültürel Mirası

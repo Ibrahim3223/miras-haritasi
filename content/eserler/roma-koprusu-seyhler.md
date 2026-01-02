@@ -1,18 +1,17 @@
 ---
-title: "Roma Köprüsü, Şeyhler | Miras Haritası"
-date: 2025-12-25T02:56:59+03:00
+title: "Roma Köprüsü, Şeyhler"
+date: "2025-12-25T02:56:59+03:00"
 slug: "roma-koprusu-seyhler"
 description: "## Roma Köprüsü, Şeyhler: Tarihî Bir Miras..."
 featured_image: ""
 province: "Karaman"
-iller: ["Karaman"]
+iller: '["Karaman"]'
 district: "Karaman"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.8074038,37.0583107"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Roma Köprüsü, Şeyhler: Tarihî Bir Miras

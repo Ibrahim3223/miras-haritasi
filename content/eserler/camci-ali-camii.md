@@ -1,18 +1,17 @@
 ---
-title: "Camcı Ali Camii | Miras Haritası"
-date: 2025-12-24T22:49:58+03:00
+title: "Camcı Ali Camii"
+date: "2025-12-24T22:49:58+03:00"
 slug: "camci-ali-camii"
 description: "**Camcı Ali Camii: Kalenderhane'nin Gizli Pearlu**..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Kalenderhane"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.960682,41.011538"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Camcı Ali Camii: Kalenderhane'nin Gizli Pearlu**

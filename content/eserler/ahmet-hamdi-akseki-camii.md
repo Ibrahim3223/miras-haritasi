@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Hamdi Akseki Camii | Miras Haritası"
-date: 2025-12-24T22:01:45+03:00
+title: "Ahmet Hamdi Akseki Camii"
+date: "2025-12-24T22:01:45+03:00"
 slug: "ahmet-hamdi-akseki-camii"
 description: "### Ahmet Hamdi Akseki Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ahmedhamdiaksekicami.jpg/1200px-Ahmedhamdiaksekicami.jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Çankaya"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.7632,39.9064"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Ahmet Hamdi Akseki Camii

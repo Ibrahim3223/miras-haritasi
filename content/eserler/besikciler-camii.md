@@ -1,18 +1,17 @@
 ---
-title: "Beşikçiler Camii | Miras Haritası"
-date: 2025-12-24T22:25:30+03:00
+title: "Beşikçiler Camii"
+date: "2025-12-24T22:25:30+03:00"
 slug: "besikciler-camii"
 description: "### Beşikçiler Camii: Bursa'nın Eski Camilerine Örnek Bir Mimarlık Harikası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0448532,40.1920929"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Beşikçiler Camii: Bursa'nın Eski Camilerine Örnek Bir Mimarlık Harikası

@@ -1,18 +1,17 @@
 ---
-title: "Büyük Cami, Armutlu | Miras Haritası"
-date: 2025-12-25T00:04:30+03:00
+title: "Büyük Cami, Armutlu"
+date: "2025-12-25T00:04:30+03:00"
 slug: "buyuk-cami-armutlu"
 description: "## Büyük Cami, Armutlu..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Kemalpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.5300179,38.403511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Büyük Cami, Armutlu

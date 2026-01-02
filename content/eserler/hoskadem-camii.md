@@ -1,18 +1,17 @@
 ---
-title: "Hoşkadem Camii | Miras Haritası"
-date: 2025-12-24T21:43:15+03:00
+title: "Hoşkadem Camii"
+date: "2025-12-24T21:43:15+03:00"
 slug: "hoskadem-camii"
 description: "## Hoşkadem Camii: Adana'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Büyük_Cami,_Kozan_01.JPG/1200px-Büyük_Cami,_Kozan_01.JPG"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Kozan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.817194444,37.445638888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hoşkadem Camii: Adana'nın Tarihi Bir Mirası

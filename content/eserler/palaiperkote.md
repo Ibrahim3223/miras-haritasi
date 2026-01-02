@@ -1,18 +1,17 @@
 ---
-title: "Palaiperkote | Miras Haritası"
-date: 2025-12-25T05:22:05+03:00
+title: "Palaiperkote"
+date: "2025-12-25T05:22:05+03:00"
 slug: "palaiperkote"
 description: "## Palaiperkote Arkeolojik Sit..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Çanakkale"
+province: "Çanakkale"
+iller: '["Çanakkale"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.686388888,40.236111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Palaiperkote Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Goraşeti Kalesi | Miras Haritası"
-date: 2025-12-25T09:05:21+03:00
+title: "Goraşeti Kalesi"
+date: "2025-12-25T09:05:21+03:00"
 slug: "goraseti-kalesi"
 description: "## Goraşeti Kalesi: Kutlu, Ardanuç'ta Gizli bir Kahramanlık..."
 featured_image: ""
 province: "Ardanuç"
-iller: ["Ardanuç"]
+iller: '["Ardanuç"]'
 district: "Kutlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.206913888,41.198552777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Goraşeti Kalesi: Kutlu, Ardanuç'ta Gizli bir Kahramanlık

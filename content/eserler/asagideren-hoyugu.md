@@ -1,18 +1,17 @@
 ---
-title: "Aşağıderen Höyüğü | Miras Haritası"
-date: 2025-12-25T05:57:00+03:00
+title: "Aşağıderen Höyüğü"
+date: "2025-12-25T05:57:00+03:00"
 slug: "asagideren-hoyugu"
 description: "# Aşağıderen Höyük: Şanlıurfa'nın Gizemi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Akçakale"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "39.0211983,36.765892"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Aşağıderen Höyük: Şanlıurfa'nın Gizemi

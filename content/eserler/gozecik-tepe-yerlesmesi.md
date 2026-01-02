@@ -1,18 +1,17 @@
 ---
-title: "Gözecik Tepe Yerleşmesi | Miras Haritası"
-date: 2025-12-25T06:00:24+03:00
+title: "Gözecik Tepe Yerleşmesi"
+date: "2025-12-25T06:00:24+03:00"
 slug: "gozecik-tepe-yerlesmesi"
 description: "## Gözecik Tepe Yerleşmesi..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.8138351,39.4226265"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gözecik Tepe Yerleşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Eflatun Mescidi | Miras Haritası"
-date: 2025-12-24T21:57:17+03:00
+title: "Eflatun Mescidi"
+date: "2025-12-24T21:57:17+03:00"
 slug: "eflatun-mescidi"
 description: "## Eflatun Mescidi: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.491805555,37.872305555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Eflatun Mescidi: Konya'nın Tarihi ve Kültürel Mirası

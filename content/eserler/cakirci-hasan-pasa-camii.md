@@ -1,18 +1,17 @@
 ---
-title: "Çakırcı Hasan Paşa Camii | Miras Haritası"
-date: 2025-12-24T22:48:39+03:00
+title: "Çakırcı Hasan Paşa Camii"
+date: "2025-12-24T22:48:39+03:00"
 slug: "cakirci-hasan-pasa-camii"
 description: "## Çakırcı Hasan Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Çakırcıbaşı_Hasan_Paşa_mosque_2018_7486.jpg/1200px-Çakırcıbaşı_Hasan_Paşa_mosque_2018_7486.jpg"
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Aziz Mahmut Hüdayi"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.012054,41.019186"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Çakırcı Hasan Paşa Camii

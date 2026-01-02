@@ -1,18 +1,17 @@
 ---
-title: "Zeynel Abidin Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:55+03:00
+title: "Zeynel Abidin Türbesi"
+date: "2025-12-25T14:16:55+03:00"
 slug: "zeynel-abidin-turbesi"
 description: "## Zeynel Abidin Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4904518,38.7219238"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Zeynel Abidin Türbesi

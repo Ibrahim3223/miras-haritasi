@@ -1,18 +1,17 @@
 ---
-title: "Surb Zoravarats Church (Anarzaba) | Miras Haritası"
-date: 2025-12-25T08:52:28+03:00
+title: "Surb Zoravarats Church (Anarzaba)"
+date: "2025-12-25T08:52:28+03:00"
 slug: "surb-zoravarats-church-anarzaba"
 description: "## Surb Zoravarats Church (Anarzaba)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Surb Zoravarats Church (Anarzaba)

@@ -1,18 +1,17 @@
 ---
-title: "Topçubaşı İlyas Ağa Kabri | Miras Haritası"
-date: 2025-12-25T13:51:49+03:00
+title: "Topçubaşı İlyas Ağa Kabri"
+date: "2025-12-25T13:51:49+03:00"
 slug: "topcubasi-ilyas-aga-kabri"
 description: "## Topçubaşı İlyas Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9420643,41.035511"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Topçubaşı İlyas Ağa Kabri

@@ -1,18 +1,17 @@
 ---
-title: "Çakırlar Köprüsü | Miras Haritası"
-date: 2025-12-25T02:49:08+03:00
+title: "Çakırlar Köprüsü"
+date: "2025-12-25T02:49:08+03:00"
 slug: "cakirlar-koprusu"
 description: "## Çakırlar Köprüsü..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.862436293,39.943004963"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakırlar Köprüsü

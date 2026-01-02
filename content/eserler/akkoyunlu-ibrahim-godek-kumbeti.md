@@ -1,18 +1,17 @@
 ---
-title: "Akkoyunlu İbrahim Gödek Kümbeti | Miras Haritası"
-date: 2025-12-25T14:46:23+03:00
+title: "Akkoyunlu İbrahim Gödek Kümbeti"
+date: "2025-12-25T14:46:23+03:00"
 slug: "akkoyunlu-ibrahim-godek-kumbeti"
 description: "## Akkoyunlu İbrahim Gödek Kümbeti..."
 featured_image: ""
 province: "Iğdır"
-iller: ["Iğdır"]
+iller: '["Iğdır"]'
 district: "Aralık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "44.608655852,39.787914188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Akkoyunlu İbrahim Gödek Kümbeti

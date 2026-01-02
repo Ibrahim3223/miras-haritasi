@@ -1,18 +1,17 @@
 ---
-title: "İmam Birgivi Mezarı | Miras Haritası"
-date: 2025-12-25T13:24:46+03:00
+title: "İmam Birgivi Mezarı"
+date: "2025-12-25T13:24:46+03:00"
 slug: "imam-birgivi-mezari"
 description: "## İmam Birgivi Mezarı..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.0702,38.2622"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmam Birgivi Mezarı

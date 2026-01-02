@@ -1,18 +1,17 @@
 ---
-title: "Ali Hoca Türbesi | Miras Haritası"
-date: 2025-12-25T13:36:28+03:00
+title: "Ali Hoca Türbesi"
+date: "2025-12-25T13:36:28+03:00"
 slug: "ali-hoca-turbesi"
 description: "## Ali Hoca Türbesi: Beyoğlu'ndaki Tarihî Bir Anıt..."
 featured_image: ""
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Asmalı Mescit"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9741402,41.0304298"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ali Hoca Türbesi: Beyoğlu'ndaki Tarihî Bir Anıt

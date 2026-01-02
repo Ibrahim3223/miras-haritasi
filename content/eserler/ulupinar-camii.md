@@ -1,18 +1,17 @@
 ---
-title: "Ulupınar Camii | Miras Haritası"
-date: 2025-12-24T23:17:33+03:00
+title: "Ulupınar Camii"
+date: "2025-12-24T23:17:33+03:00"
 slug: "ulupinar-camii"
 description: "## Ulupınar Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Manisa"
+province: "Manisa"
+iller: '["Manisa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.60116,39.1818085"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ulupınar Camii

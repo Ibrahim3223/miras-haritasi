@@ -1,18 +1,17 @@
 ---
-title: "İshak Bey Camii, Selçuk | Miras Haritası"
-date: 2025-12-25T00:30:55+03:00
+title: "İshak Bey Camii, Selçuk"
+date: "2025-12-25T00:30:55+03:00"
 slug: "ishak-bey-camii-selcuk"
 description: "## İshak Bey Camii: Selçuk'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3687859,37.9494324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İshak Bey Camii: Selçuk'un Tarihi Bir Mirası

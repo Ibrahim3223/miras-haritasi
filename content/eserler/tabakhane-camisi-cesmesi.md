@@ -1,18 +1,17 @@
 ---
-title: "Tabakhane Camisi Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:36:01+03:00
+title: "Tabakhane Camisi Çeşmesi"
+date: "2025-12-25T12:36:01+03:00"
 slug: "tabakhane-camisi-cesmesi"
 description: "### Tabakhane Camisi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.8601151,39.9424324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Tabakhane Camisi Çeşmesi

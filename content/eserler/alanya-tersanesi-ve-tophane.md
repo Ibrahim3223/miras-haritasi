@@ -1,18 +1,17 @@
 ---
-title: "Alanya Tersanesi ve Tophane | Miras Haritası"
-date: 2025-12-25T13:39:22+03:00
+title: "Alanya Tersanesi ve Tophane"
+date: "2025-12-25T13:39:22+03:00"
 slug: "alanya-tersanesi-ve-tophane"
 description: "## Alanya Tersanesi ve Tophane..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Alanya-tersane.jpg/1200px-Alanya-tersane.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Alanya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "31.9987582,36.5342477"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Alanya Tersanesi ve Tophane

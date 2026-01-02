@@ -1,18 +1,17 @@
 ---
-title: "Saliha Sultan Çeşmesi, Seyyid Ömer | Miras Haritası"
-date: 2025-12-25T11:56:14+03:00
+title: "Saliha Sultan Çeşmesi, Seyyid Ömer"
+date: "2025-12-25T11:56:14+03:00"
 slug: "saliha-sultan-cesmesi-seyyid-omer"
 description: "### Saliha Sultan Çeşmesi: Seyyid Ömer'in Özbekler için Yaptığı İlginci Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Saliha_Sultan_Çeşmesi1,_Seyyid_Ömer,_Fatih,_İstanbul_2025.jpg/1200px-Saliha_Sultan_Çeşmesi1,_Seyyid_Ömer,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.926758,41.007065"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Saliha Sultan Çeşmesi: Seyyid Ömer'in Özbekler için Yaptığı İlginci Örnek

@@ -1,18 +1,17 @@
 ---
-title: "Güllühöyük | Miras Haritası"
-date: 2025-12-25T05:29:52+03:00
+title: "Güllühöyük"
+date: "2025-12-25T05:29:52+03:00"
 slug: "gulluhoyuk"
 description: "## Güllühöyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.808938,39.612601"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güllühöyük: Eskişehir'in Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Tilantar Höyüğü | Miras Haritası"
-date: 2025-12-25T06:38:25+03:00
+title: "Tilantar Höyüğü"
+date: "2025-12-25T06:38:25+03:00"
 slug: "tilantar-hoyugu"
 description: "## Tilantar Höyüğü: Şanlıurfa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Suruç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "38.4974852,36.9177324"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tilantar Höyüğü: Şanlıurfa'nın Gizli Kahramanı

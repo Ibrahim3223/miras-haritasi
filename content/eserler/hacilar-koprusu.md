@@ -1,18 +1,17 @@
 ---
-title: "Hacılar Köprüsü | Miras Haritası"
-date: 2025-12-25T03:05:18+03:00
+title: "Hacılar Köprüsü"
+date: "2025-12-25T03:05:18+03:00"
 slug: "hacilar-koprusu"
 description: "## Hacılar Köprüsü: Ankara'nın Eski Bir Köprüsü..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "31.925282,40.170311"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacılar Köprüsü: Ankara'nın Eski Bir Köprüsü

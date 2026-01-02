@@ -1,18 +1,17 @@
 ---
-title: "Gazi Camii, Burdur | Miras Haritası"
-date: 2025-12-24T23:53:12+03:00
+title: "Gazi Camii, Burdur"
+date: "2025-12-24T23:53:12+03:00"
 slug: "gazi-camii-burdur"
 description: "### Gazi Camii, Burdur..."
 featured_image: ""
 province: "Burdur"
-iller: ["Burdur"]
+iller: '["Burdur"]'
 district: "Burdur"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "30.2847843,37.7185478"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gazi Camii, Burdur

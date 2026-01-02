@@ -1,18 +1,17 @@
 ---
-title: "Bet Hillel Sinagogu | Miras Haritası"
-date: 2025-12-25T16:15:34+03:00
+title: "Bet Hillel Sinagogu"
+date: "2025-12-25T16:15:34+03:00"
 slug: "bet-hillel-sinagogu"
 description: "## Bet Hillel Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bet_Hillel_Sinagogu.jpg/1200px-Bet_Hillel_Sinagogu.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Sinagog"
-turler: ["Sinagog"]
+turler: '["Sinagog"]'
 coords: "27.135194444,38.418305555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bet Hillel Sinagogu

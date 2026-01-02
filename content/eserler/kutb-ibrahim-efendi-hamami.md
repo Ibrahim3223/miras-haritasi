@@ -1,18 +1,17 @@
 ---
-title: "Kutb İbrahim Efendi Hamamı | Miras Haritası"
-date: 2025-12-25T16:40:24+03:00
+title: "Kutb İbrahim Efendi Hamamı"
+date: "2025-12-25T16:40:24+03:00"
 slug: "kutb-ibrahim-efendi-hamami"
 description: "## Kutb İbrahim Efendi Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.989377,41.034127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kutb İbrahim Efendi Hamamı

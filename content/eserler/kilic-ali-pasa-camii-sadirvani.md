@@ -1,18 +1,17 @@
 ---
-title: "Kılıç Ali Paşa Camii Şadırvanı | Miras Haritası"
-date: 2025-12-25T10:01:30+03:00
+title: "Kılıç Ali Paşa Camii Şadırvanı"
+date: "2025-12-25T10:01:30+03:00"
 slug: "kilic-ali-pasa-camii-sadirvani"
 description: "### Kılıç Ali Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9806194,41.0265656"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kılıç Ali Paşa Camii Şadırvanı

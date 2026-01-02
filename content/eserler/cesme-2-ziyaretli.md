@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2, Ziyaretli | Miras Haritası"
-date: 2025-12-25T12:06:17+03:00
+title: "Çeşme 2, Ziyaretli"
+date: "2025-12-25T12:06:17+03:00"
 slug: "cesme-2-ziyaretli"
 description: "## Çeşme 2: Bozdoğan'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Bozdoğan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.297369,37.6861687"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 2: Bozdoğan'ın Gizli Çeşmesi

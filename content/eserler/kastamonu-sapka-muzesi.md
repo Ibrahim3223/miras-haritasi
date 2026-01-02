@@ -1,18 +1,17 @@
 ---
-title: "Kastamonu Şapka Müzesi | Miras Haritası"
-date: 2025-12-25T04:07:04+03:00
+title: "Kastamonu Şapka Müzesi"
+date: "2025-12-25T04:07:04+03:00"
 slug: "kastamonu-sapka-muzesi"
 description: "## Kastamonu Şapka Müzesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "33.7646332,41.3660202"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kastamonu Şapka Müzesi: Tarihî Bir Mirasın Gizemi

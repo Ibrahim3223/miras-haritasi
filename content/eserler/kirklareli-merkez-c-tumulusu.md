@@ -1,18 +1,17 @@
 ---
-title: "Kırklareli Merkez C Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:51:09+03:00
+title: "Kırklareli Merkez C Tümülüsü"
+date: "2025-12-25T07:51:09+03:00"
 slug: "kirklareli-merkez-c-tumulusu"
 description: "## Kırklareli Merkez C Tümülüsü: Tarihini ve Zenginliğini Keşfedin..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.2315159,41.7198753"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırklareli Merkez C Tümülüsü: Tarihini ve Zenginliğini Keşfedin

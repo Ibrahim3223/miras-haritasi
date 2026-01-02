@@ -1,18 +1,17 @@
 ---
-title: "Bandırma Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:11:28+03:00
+title: "Bandırma Ulu Camii"
+date: "2025-12-24T22:11:28+03:00"
 slug: "bandirma-ulu-camii"
 description: "## Bandırma Ulu Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Balıkesir"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.9723721,40.3519058"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bandırma Ulu Camii

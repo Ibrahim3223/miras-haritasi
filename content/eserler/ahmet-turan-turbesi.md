@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Turan Türbesi | Miras Haritası"
-date: 2025-12-25T14:24:59+03:00
+title: "Ahmet Turan Türbesi"
+date: "2025-12-25T14:24:59+03:00"
 slug: "ahmet-turan-turbesi"
 description: "## Ahmet Turan Türbesi..."
 featured_image: ""
 province: "Malatya"
-iller: ["Malatya"]
+iller: '["Malatya"]'
 district: "Battalgazi"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "38.359385,38.416491"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ahmet Turan Türbesi

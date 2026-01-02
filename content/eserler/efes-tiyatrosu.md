@@ -1,18 +1,17 @@
 ---
-title: "Efes Tiyatrosu | Miras Haritası"
-date: 2025-12-25T07:10:23+03:00
+title: "Efes Tiyatrosu"
+date: "2025-12-25T07:10:23+03:00"
 slug: "efes-tiyatrosu"
 description: "### Efes Tiyatrosu: İyonya'nın İhtişamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Great_Theatre,_Ephesus.jpg/1200px-Great_Theatre,_Ephesus.jpg"
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.34273,37.94101"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Efes Tiyatrosu: İyonya'nın İhtişamı

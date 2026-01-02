@@ -1,18 +1,17 @@
 ---
-title: "Ortaköy Kilise Camii | Miras Haritası"
-date: 2025-12-24T22:20:37+03:00
+title: "Ortaköy Kilise Camii"
+date: "2025-12-24T22:20:37+03:00"
 slug: "ortakoy-kilise-camii"
 description: "## Ortaköy Kilise Camii..."
 featured_image: ""
-province: "Kutaisi Guberniyası"
-iller: ["Kutaisi Guberniyası"]
-district: "Artvin"
+province: "Artvin"
+iller: '["Artvin"]'
+district: "Kutaisi Guberniyası"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.982916666,41.249027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ortaköy Kilise Camii

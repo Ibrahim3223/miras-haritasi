@@ -1,18 +1,17 @@
 ---
-title: "Seraceddin Medresesi | Miras Haritası"
-date: 2025-12-25T17:37:44+03:00
+title: "Seraceddin Medresesi"
+date: "2025-12-25T17:37:44+03:00"
 slug: "seraceddin-medresesi"
 description: "## Seraceddin Medresesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "35.4924393,38.7199898"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seraceddin Medresesi

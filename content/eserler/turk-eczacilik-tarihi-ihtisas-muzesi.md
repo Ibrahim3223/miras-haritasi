@@ -1,18 +1,17 @@
 ---
-title: "Türk Eczacılık Tarihi İhtisas Müzesi | Miras Haritası"
-date: 2025-12-25T03:32:06+03:00
+title: "Türk Eczacılık Tarihi İhtisas Müzesi"
+date: "2025-12-25T03:32:06+03:00"
 slug: "turk-eczacilik-tarihi-ihtisas-muzesi"
 description: "## Türk Eczacılık Tarihi İhtisas Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.962888888,41.010944444"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türk Eczacılık Tarihi İhtisas Müzesi

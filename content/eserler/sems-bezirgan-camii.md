@@ -1,18 +1,17 @@
 ---
-title: "Şems Bezirgan Camii | Miras Haritası"
-date: 2025-12-24T23:13:36+03:00
+title: "Şems Bezirgan Camii"
+date: "2025-12-24T23:13:36+03:00"
 slug: "sems-bezirgan-camii"
 description: "## Şems Bezirgan Camii..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.1188354,39.3731155"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şems Bezirgan Camii

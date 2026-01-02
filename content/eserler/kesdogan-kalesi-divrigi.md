@@ -1,18 +1,17 @@
 ---
-title: "Kesdoğan Kalesi, Divriği | Miras Haritası"
-date: 2025-12-25T01:31:55+03:00
+title: "Kesdoğan Kalesi, Divriği"
+date: "2025-12-25T01:31:55+03:00"
 slug: "kesdogan-kalesi-divrigi"
 description: "**Kesdoğan Kalesi: Divriği'nin Tarihî ve Kültür Mirası**..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "38.129532,39.37722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kesdoğan Kalesi: Divriği'nin Tarihî ve Kültür Mirası**

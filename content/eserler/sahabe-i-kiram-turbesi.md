@@ -1,18 +1,17 @@
 ---
-title: "Sahabe-i Kiram Türbesi | Miras Haritası"
-date: 2025-12-25T14:37:19+03:00
+title: "Sahabe-i Kiram Türbesi"
+date: "2025-12-25T14:37:19+03:00"
 slug: "sahabe-i-kiram-turbesi"
 description: "### Sahabe-i Kiram Türbesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4698,40.9048"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sahabe-i Kiram Türbesi

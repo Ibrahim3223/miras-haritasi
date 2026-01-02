@@ -1,18 +1,17 @@
 ---
-title: "Malhatun Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:47:26+03:00
+title: "Malhatun Çeşmesi"
+date: "2025-12-25T10:47:26+03:00"
 slug: "malhatun-cesmesi"
 description: "# Malhatun Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "30.5257511,39.7654419"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Malhatun Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Kul Derviş Mescidi | Miras Haritası"
-date: 2025-12-25T00:51:37+03:00
+title: "Kul Derviş Mescidi"
+date: "2025-12-25T00:51:37+03:00"
 slug: "kul-dervis-mescidi"
 description: "## Kul Derviş Mescidi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "32.8625183,39.9315681"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kul Derviş Mescidi: Ankara'nın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Bayrampaşa Külliyesi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:03:05+03:00
+title: "Bayrampaşa Külliyesi Çeşmesi"
+date: "2025-12-25T11:03:05+03:00"
 slug: "bayrampasa-kulliyesi-cesmesi"
 description: "## Bayrampaşa Külliyesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bayram_Paşa_Külliyesi_Çeşmesi.jpg/1200px-Bayram_Paşa_Külliyesi_Çeşmesi.jpg"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cerrahpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.942312,41.008781"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Bayrampaşa Külliyesi Çeşmesi

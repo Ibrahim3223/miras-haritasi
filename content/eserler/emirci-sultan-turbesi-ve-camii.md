@@ -1,18 +1,17 @@
 ---
-title: "Emirci Sultan Türbesi Ve Camii | Miras Haritası"
-date: 2025-12-25T14:51:52+03:00
+title: "Emirci Sultan Türbesi Ve Camii"
+date: "2025-12-25T14:51:52+03:00"
 slug: "emirci-sultan-turbesi-ve-camii"
 description: "**Emirci Sultan Türbesi Ve Camii**..."
 featured_image: ""
 province: "Yozgat"
-iller: ["Yozgat"]
+iller: '["Yozgat"]'
 district: "Yozgat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "34.9639473,39.6254921"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Emirci Sultan Türbesi Ve Camii**

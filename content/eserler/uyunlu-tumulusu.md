@@ -1,18 +1,17 @@
 ---
-title: "Üyünlü Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:20:51+03:00
+title: "Üyünlü Tümülüsü"
+date: "2025-12-25T07:20:51+03:00"
 slug: "uyunlu-tumulusu"
 description: "# Üyünlü Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.5418663,41.8095474"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Üyünlü Tümülüsü

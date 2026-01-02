@@ -1,18 +1,17 @@
 ---
-title: "Akdamar Kilisesi | Miras Haritası"
-date: 2025-12-25T08:38:58+03:00
+title: "Akdamar Kilisesi"
+date: "2025-12-25T08:38:58+03:00"
 slug: "akdamar-kilisesi"
 description: "## Akdamar Kilisesi: Van'ın Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/00_0390_Lake_Van,_church_on_Akdamar_Island.jpg/1200px-00_0390_Lake_Van,_church_on_Akdamar_Island.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Van"
+province: "Van"
+iller: '["Van"]'
+district: ""
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.035278,38.341667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akdamar Kilisesi: Van'ın Tarihî Bir Mirası

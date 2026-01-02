@@ -1,18 +1,17 @@
 ---
-title: "Güzel Ahmet Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T14:31:14+03:00
+title: "Güzel Ahmet Paşa Türbesi"
+date: "2025-12-25T14:31:14+03:00"
 slug: "guzel-ahmet-pasa-turbesi"
 description: "## Güzel Ahmet Paşa Türbesi: İstanbul'un Fatih Bölgesi'ndeki Bir Tarihî Ören..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.935724,41.028913"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzel Ahmet Paşa Türbesi: İstanbul'un Fatih Bölgesi'ndeki Bir Tarihî Ören

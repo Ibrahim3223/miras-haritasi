@@ -1,18 +1,17 @@
 ---
-title: "Gusir Höyük | Miras Haritası"
-date: 2025-12-25T13:48:10+03:00
+title: "Gusir Höyük"
+date: "2025-12-25T13:48:10+03:00"
 slug: "gusir-hoyuk"
 description: "## Gusir Höyük: Tarihî Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Siirt"
-iller: ["Siirt"]
+iller: '["Siirt"]'
 district: "Eruh"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "41.8211517,37.7270813"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gusir Höyük: Tarihî Bir Anıtın Gizemi

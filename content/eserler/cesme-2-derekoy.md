@@ -1,18 +1,17 @@
 ---
-title: "Çeşme 2 – Dereköy | Miras Haritası"
-date: 2025-12-25T10:33:26+03:00
+title: "Çeşme 2 – Dereköy"
+date: "2025-12-25T10:33:26+03:00"
 slug: "cesme-2-derekoy"
 description: "## Çeşme 2 – Dereköy: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Efeler"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.0389862,37.7960281"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme 2 – Dereköy: Aydın'ın Gizli Çeşmesi

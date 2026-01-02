@@ -1,18 +1,17 @@
 ---
-title: "Latifiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:24:08+03:00
+title: "Latifiye Medresesi"
+date: "2025-12-25T17:24:08+03:00"
 slug: "latifiye-medresesi"
 description: "## Latifiye Medresesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Diyarbakır"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "40.2414322,37.9116974"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Latifiye Medresesi

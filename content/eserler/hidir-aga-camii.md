@@ -1,18 +1,17 @@
 ---
-title: "Hıdır Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:35:34+03:00
+title: "Hıdır Ağa Camii"
+date: "2025-12-24T23:35:34+03:00"
 slug: "hidir-aga-camii"
 description: "## Hıdır Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hıdır_ağa_camii_ve_şadırvan_(cropped).jpg/1200px-Hıdır_ağa_camii_ve_şadırvan_(cropped).jpg"
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5607681,41.6772079"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hıdır Ağa Camii

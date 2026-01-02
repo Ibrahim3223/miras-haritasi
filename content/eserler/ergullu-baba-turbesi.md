@@ -1,18 +1,17 @@
 ---
-title: "Ergüllü Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:16:21+03:00
+title: "Ergüllü Baba Türbesi"
+date: "2025-12-25T14:16:21+03:00"
 slug: "ergullu-baba-turbesi"
 description: "## Ergüllü Baba Türbesi: Safranbolu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.703985,41.26188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ergüllü Baba Türbesi: Safranbolu'nun Gizli Cenneti

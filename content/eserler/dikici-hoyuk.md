@@ -1,18 +1,17 @@
 ---
-title: "Dikici Höyük | Miras Haritası"
-date: 2025-12-25T05:34:00+03:00
+title: "Dikici Höyük"
+date: "2025-12-25T05:34:00+03:00"
 slug: "dikici-hoyuk"
 description: "**Dikici Höyük: Afyonkarahisar'ın Gizli Çağı**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: ["Afyonkarahisar"]
+iller: '["Afyonkarahisar"]'
 district: "Dinar ilçesi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.16155,38.046"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Dikici Höyük: Afyonkarahisar'ın Gizli Çağı**

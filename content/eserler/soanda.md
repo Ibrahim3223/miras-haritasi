@@ -1,18 +1,17 @@
 ---
-title: "Soanda | Miras Haritası"
-date: 2025-12-25T05:15:36+03:00
+title: "Soanda"
+date: "2025-12-25T05:15:36+03:00"
 slug: "soanda"
 description: "## Soanda Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.520165,39.299498"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Soanda Arkeolojik Sit

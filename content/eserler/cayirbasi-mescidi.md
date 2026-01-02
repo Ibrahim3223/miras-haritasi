@@ -1,18 +1,17 @@
 ---
-title: "Çayırbaşı Mescidi | Miras Haritası"
-date: 2025-12-24T22:48:27+03:00
+title: "Çayırbaşı Mescidi"
+date: "2025-12-24T22:48:27+03:00"
 slug: "cayirbasi-mescidi"
 description: "## Çayırbaşı Mescidi: Eyüpsultan'ın Gizli Çiçeği..."
 featured_image: ""
-province: "Eyüpsultan"
-iller: ["Eyüpsultan"]
-district: "Defterdar"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Eyüpsultan"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9355392,41.0356445"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çayırbaşı Mescidi: Eyüpsultan'ın Gizli Çiçeği

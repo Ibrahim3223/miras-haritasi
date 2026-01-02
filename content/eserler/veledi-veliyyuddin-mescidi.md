@@ -1,18 +1,17 @@
 ---
-title: "Veledi Veliyyuddin Mescidi | Miras Haritası"
-date: 2025-12-25T01:05:18+03:00
+title: "Veledi Veliyyuddin Mescidi"
+date: "2025-12-25T01:05:18+03:00"
 slug: "veledi-veliyyuddin-mescidi"
 description: "### Veledi Veliyyuddin Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Edirne"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.5611782,41.6829376"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Veledi Veliyyuddin Mescidi

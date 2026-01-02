@@ -1,18 +1,17 @@
 ---
-title: "Emirler Kilisesi | Miras Haritası"
-date: 2025-12-25T09:09:07+03:00
+title: "Emirler Kilisesi"
+date: "2025-12-25T09:09:07+03:00"
 slug: "emirler-kilisesi"
 description: "### Emirler Kilisesi: Gümüşhane'nin Gizli Çehresi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Torul"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "39.1910973,40.5184784"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Emirler Kilisesi: Gümüşhane'nin Gizli Çehresi

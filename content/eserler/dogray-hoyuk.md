@@ -1,18 +1,17 @@
 ---
-title: "Doğray Höyük | Miras Haritası"
-date: 2025-12-25T05:26:24+03:00
+title: "Doğray Höyük"
+date: "2025-12-25T05:26:24+03:00"
 slug: "dogray-hoyuk"
 description: "# Doğray Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Beylikova"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.303541,39.686517"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Doğray Höyük: Eskişehir'in Gizli Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Jüstinyen Sütunu | Miras Haritası"
-date: 2025-12-25T13:19:27+03:00
+title: "Jüstinyen Sütunu"
+date: "2025-12-25T13:19:27+03:00"
 slug: "justinyen-sutunu"
 description: "## Jüstinyen Sütunu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gurlitt_Justinian_column.jpg/1200px-Gurlitt_Justinian_column.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.978638888,41.007916666"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Jüstinyen Sütunu

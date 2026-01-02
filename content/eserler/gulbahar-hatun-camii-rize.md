@@ -1,18 +1,17 @@
 ---
-title: "Gülbahar Hatun Camii, Rize | Miras Haritası"
-date: 2025-12-25T00:38:42+03:00
+title: "Gülbahar Hatun Camii, Rize"
+date: "2025-12-25T00:38:42+03:00"
 slug: "gulbahar-hatun-camii-rize"
 description: "## Gülbahar Hatun Camii, Rize..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Rize"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "40.54420958,41.026700004"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gülbahar Hatun Camii, Rize

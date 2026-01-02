@@ -1,18 +1,17 @@
 ---
-title: "Yıldız Hamamı | Miras Haritası"
-date: 2025-12-25T16:34:03+03:00
+title: "Yıldız Hamamı"
+date: "2025-12-25T16:34:03+03:00"
 slug: "yildiz-hamami"
 description: "### Yıldız Hamamı: Amasya'nın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Yıldız_hamamı.jpg/1200px-Yıldız_hamamı.jpg"
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "35.8291169,40.652034"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Yıldız Hamamı: Amasya'nın Gizli Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Mantarlı Tepe Tümülüsü Kavak | Miras Haritası"
-date: 2025-12-25T07:15:40+03:00
+title: "Mantarlı Tepe Tümülüsü Kavak"
+date: "2025-12-25T07:15:40+03:00"
 slug: "mantarli-tepe-tumulusu-kavak"
 description: "### Mantarlı Tepe Tümülüsü Kavak..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Kavak"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.93027,41.142699"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Mantarlı Tepe Tümülüsü Kavak

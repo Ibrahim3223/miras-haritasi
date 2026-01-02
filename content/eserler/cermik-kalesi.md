@@ -1,18 +1,17 @@
 ---
-title: "Çermik Kalesi | Miras Haritası"
-date: 2025-12-25T01:39:47+03:00
+title: "Çermik Kalesi"
+date: "2025-12-25T01:39:47+03:00"
 slug: "cermik-kalesi"
 description: "## Çermik Kalesi: Tarihî Bir Ören..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çermik"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "39.4428749,38.1363564"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çermik Kalesi: Tarihî Bir Ören

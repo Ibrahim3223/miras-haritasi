@@ -1,18 +1,17 @@
 ---
-title: "Bulak Höyük | Miras Haritası"
-date: 2025-12-25T06:18:02+03:00
+title: "Bulak Höyük"
+date: "2025-12-25T06:18:02+03:00"
 slug: "bulak-hoyuk"
 description: "**Bulak Höyük: Sivas'ta Bir Arkeolojik Sit**..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Kangal"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "37.7423206,39.1716232"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Bulak Höyük: Sivas'ta Bir Arkeolojik Sit**

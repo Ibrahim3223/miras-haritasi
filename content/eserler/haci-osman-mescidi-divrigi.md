@@ -1,18 +1,17 @@
 ---
-title: "Hacı Osman Mescidi, Divriği | Miras Haritası"
-date: 2025-12-25T00:09:44+03:00
+title: "Hacı Osman Mescidi, Divriği"
+date: "2025-12-25T00:09:44+03:00"
 slug: "haci-osman-mescidi-divrigi"
 description: "### Hacı Osman Mescidi, Divriği..."
 featured_image: ""
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Divriği"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.1144905,39.3731308"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Hacı Osman Mescidi, Divriği

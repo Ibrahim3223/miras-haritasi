@@ -1,18 +1,17 @@
 ---
-title: "Yapı Kalıntısı, Akçakeçili | Miras Haritası"
-date: 2025-12-25T17:13:08+03:00
+title: "Yapı Kalıntısı, Akçakeçili"
+date: "2025-12-25T17:13:08+03:00"
 slug: "yapi-kalintisi-akcakecili"
 description: "## Ezine'nin Tarihi Hamamı: Akçakeçili Hamamı'nın İzleri..."
 featured_image: ""
 province: "Ezine"
-iller: ["Ezine"]
+iller: '["Ezine"]'
 district: "Ezine"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "26.1872654,39.7103958"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ezine'nin Tarihi Hamamı: Akçakeçili Hamamı'nın İzleri

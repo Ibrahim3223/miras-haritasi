@@ -1,18 +1,17 @@
 ---
-title: "Aizanoi 2. Roma Hamamı | Miras Haritası"
-date: 2025-12-25T16:48:50+03:00
+title: "Aizanoi 2. Roma Hamamı"
+date: "2025-12-25T16:48:50+03:00"
 slug: "aizanoi-2-roma-hamami"
 description: "### Aizanoi 2. Roma Hamamı: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: ["Kütahya"]
+iller: '["Kütahya"]'
 district: "Çavdarhisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.6142368,39.2014465"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aizanoi 2. Roma Hamamı: Kütahya'nın Tarihi Bir Mirası

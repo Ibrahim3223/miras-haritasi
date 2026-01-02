@@ -1,18 +1,17 @@
 ---
-title: "Çoban Kilisesi | Miras Haritası"
-date: 2025-12-25T09:21:25+03:00
+title: "Çoban Kilisesi"
+date: "2025-12-25T09:21:25+03:00"
 slug: "coban-kilisesi"
 description: "## Çoban Kilisesi: Ani'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kars"
-iller: ["Kars"]
+iller: '["Kars"]'
 district: "Ani"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.5746994,40.5133553"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Kilisesi: Ani'nin Gizli Çeşmesi

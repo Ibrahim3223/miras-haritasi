@@ -1,18 +1,17 @@
 ---
-title: "Hamza Abdullah Oğlu Hacı Hasan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:31:51+03:00
+title: "Hamza Abdullah Oğlu Hacı Hasan Çeşmesi"
+date: "2025-12-25T10:31:51+03:00"
 slug: "hamza-abdullah-oglu-haci-hasan-cesmesi"
 description: "## Hamza Abdullah Oğlu Hacı Hasan Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Yenipazar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.2732391,37.8377991"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hamza Abdullah Oğlu Hacı Hasan Çeşmesi

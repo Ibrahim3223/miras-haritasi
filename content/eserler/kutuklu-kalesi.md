@@ -1,18 +1,17 @@
 ---
-title: "Kütüklü Kalesi | Miras Haritası"
-date: 2025-12-25T01:49:12+03:00
+title: "Kütüklü Kalesi"
+date: "2025-12-25T01:49:12+03:00"
 slug: "kutuklu-kalesi"
 description: "## Kütüklü Kalesi: Tarsus'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Tarsus"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "35.0589409,37.0266266"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kütüklü Kalesi: Tarsus'un Tarihî ve Kültürel Mirası

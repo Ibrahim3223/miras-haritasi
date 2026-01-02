@@ -1,18 +1,17 @@
 ---
-title: "Yayla Kilisesi | Miras Haritası"
-date: 2025-12-25T09:38:59+03:00
+title: "Yayla Kilisesi"
+date: "2025-12-25T09:38:59+03:00"
 slug: "yayla-kilisesi"
 description: "## Yayla Kilisesi: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Yatağan"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.0339432,37.2841682"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yayla Kilisesi: Muğla'nın Gizli Cenneti

@@ -1,18 +1,17 @@
 ---
-title: "Fatma Hatun Camii | Miras Haritası"
-date: 2025-12-24T22:52:47+03:00
+title: "Fatma Hatun Camii"
+date: "2025-12-24T22:52:47+03:00"
 slug: "fatma-hatun-camii"
 description: "## Fatma Hatun Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Fatma_Hatun_Camii_1.jpg/1200px-Fatma_Hatun_Camii_1.jpg"
-province: "Beyoğlu"
-iller: ["Beyoğlu"]
-district: "Ömer Avni"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Beyoğlu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9920292,41.0363693"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Fatma Hatun Camii

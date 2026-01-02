@@ -1,18 +1,17 @@
 ---
-title: "Hamidiye Camii, Ayvalık | Miras Haritası"
-date: 2025-12-24T23:57:56+03:00
+title: "Hamidiye Camii, Ayvalık"
+date: "2025-12-24T23:57:56+03:00"
 slug: "hamidiye-camii-ayvalik"
 description: "**Hamidiye Camii: Ayvalık'ın Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Ayvalık"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.697622,39.326851"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hamidiye Camii: Ayvalık'ın Tarihi ve Kültürel Mirası**

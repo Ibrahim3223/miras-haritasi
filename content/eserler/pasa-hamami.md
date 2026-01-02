@@ -1,18 +1,17 @@
 ---
-title: "Paşa Hamamı | Miras Haritası"
-date: 2025-12-25T16:27:55+03:00
+title: "Paşa Hamamı"
+date: "2025-12-25T16:27:55+03:00"
 slug: "pasa-hamami"
 description: "### Paşa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Paşa_Hamamı,_Akhisar,_Manisa_-_2023.jpg/1200px-Paşa_Hamamı,_Akhisar,_Manisa_-_2023.jpg"
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Akhisar"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.841312651,38.922812843"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Paşa Hamamı

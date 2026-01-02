@@ -1,18 +1,17 @@
 ---
-title: "Eyice Höyük | Miras Haritası"
-date: 2025-12-25T07:02:42+03:00
+title: "Eyice Höyük"
+date: "2025-12-25T07:02:42+03:00"
 slug: "eyice-hoyuk"
 description: "### Eyice Höyük: Türkiye'nin Gizli İnsani Mirası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eyice Höyük: Türkiye'nin Gizli İnsani Mirası

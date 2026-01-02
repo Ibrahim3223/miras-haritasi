@@ -1,18 +1,17 @@
 ---
-title: "Şehit Mehmet Pehlivan Türbesi | Miras Haritası"
-date: 2025-12-25T13:29:35+03:00
+title: "Şehit Mehmet Pehlivan Türbesi"
+date: "2025-12-25T13:29:35+03:00"
 slug: "sehit-mehmet-pehlivan-turbesi"
 description: "## Şehit Mehmet Pehlivan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9705219,41.0324707"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şehit Mehmet Pehlivan Türbesi

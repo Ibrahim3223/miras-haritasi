@@ -1,18 +1,17 @@
 ---
-title: "Karafrenk Kalesi | Miras Haritası"
-date: 2025-12-25T01:48:26+03:00
+title: "Karafrenk Kalesi"
+date: "2025-12-25T01:48:26+03:00"
 slug: "karafrenk-kalesi"
 description: "## Karafrenk Kalesi: Osmaniye'nin Tarih Özellikli Yerlerindendir..."
 featured_image: ""
 province: "Osmaniye"
-iller: ["Osmaniye"]
+iller: '["Osmaniye"]'
 district: "Hasanbeyli"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "36.6021309,37.1312218"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karafrenk Kalesi: Osmaniye'nin Tarih Özellikli Yerlerindendir

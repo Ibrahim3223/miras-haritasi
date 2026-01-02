@@ -1,18 +1,17 @@
 ---
-title: "Koressos Kapısı | Miras Haritası"
-date: 2025-12-25T08:22:04+03:00
+title: "Koressos Kapısı"
+date: "2025-12-25T08:22:04+03:00"
 slug: "koressos-kapisi"
 description: "## Koressos Kapısı: Selçuk'un Eski Şehri'nin Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Koressos Kapısı: Selçuk'un Eski Şehri'nin Gizemi

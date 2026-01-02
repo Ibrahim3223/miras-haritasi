@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Esenköy | Miras Haritası"
-date: 2025-12-25T12:03:46+03:00
+title: "Çeşme, Esenköy"
+date: "2025-12-25T12:03:46+03:00"
 slug: "cesme-esenkoy"
 description: "### Çeşme, Esenköy: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Nazilli"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.3462639,37.7989616"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çeşme, Esenköy: Aydın'ın Gizli Cenneti

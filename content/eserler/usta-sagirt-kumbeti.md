@@ -1,18 +1,17 @@
 ---
-title: "Usta Şagirt Kümbeti | Miras Haritası"
-date: 2025-12-25T13:58:35+03:00
+title: "Usta Şagirt Kümbeti"
+date: "2025-12-25T13:58:35+03:00"
 slug: "usta-sagirt-kumbeti"
 description: "## Usta Şagirt Kümbeti: Ahlat'ın Gizli Mihribanı..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Ahlat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.4576416,38.7365952"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Usta Şagirt Kümbeti: Ahlat'ın Gizli Mihribanı

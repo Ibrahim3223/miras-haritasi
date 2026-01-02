@@ -1,18 +1,17 @@
 ---
-title: "Kerküşti Höyük | Miras Haritası"
-date: 2025-12-25T07:03:25+03:00
+title: "Kerküşti Höyük"
+date: "2025-12-25T07:03:25+03:00"
 slug: "kerkusti-hoyuk"
 description: "## Kerküşti Höyük: Mardin'in Gizli Kahramanı..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Mardin"
+province: "Mardin"
+iller: '["Mardin"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kerküşti Höyük: Mardin'in Gizli Kahramanı

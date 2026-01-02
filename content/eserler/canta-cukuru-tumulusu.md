@@ -1,18 +1,17 @@
 ---
-title: "Çanta Çukuru Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:34+03:00
+title: "Çanta Çukuru Tümülüsü"
+date: "2025-12-25T08:03:34+03:00"
 slug: "canta-cukuru-tumulusu"
 description: "### Çanta Çukuru Tümülüsü Tanıtımı..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.7223587,41.3141136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çanta Çukuru Tümülüsü Tanıtımı

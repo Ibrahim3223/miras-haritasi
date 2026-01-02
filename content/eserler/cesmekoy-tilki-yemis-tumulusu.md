@@ -1,18 +1,17 @@
 ---
-title: "Çeşmeköy Tilki Yemiş Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:51:56+03:00
+title: "Çeşmeköy Tilki Yemiş Tümülüsü"
+date: "2025-12-25T07:51:56+03:00"
 slug: "cesmekoy-tilki-yemis-tumulusu"
 description: "## Çeşmeköy Tilki Yemiş Tümülüsü: Kırklareli'nin Gizli Gözdeleri..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9604797,41.8846397"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşmeköy Tilki Yemiş Tümülüsü: Kırklareli'nin Gizli Gözdeleri

@@ -1,18 +1,17 @@
 ---
-title: "Hasandolu Kalesi ve Nekropolü | Miras Haritası"
-date: 2025-12-25T05:42:33+03:00
+title: "Hasandolu Kalesi ve Nekropolü"
+date: "2025-12-25T05:42:33+03:00"
 slug: "hasandolu-kalesi-ve-nekropolu"
 description: "## Hasandolu Kalesi ve Nekropolü: Ağrı'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Ağrı"
-iller: ["Ağrı"]
+iller: '["Ağrı"]'
 district: "Patnos"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "43.0464859,39.1462936"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasandolu Kalesi ve Nekropolü: Ağrı'nın Gizli Çehresini Keşfetmek

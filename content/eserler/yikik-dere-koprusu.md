@@ -1,18 +1,17 @@
 ---
-title: "Yıkık Dere Köprüsü | Miras Haritası"
-date: 2025-12-25T02:23:03+03:00
+title: "Yıkık Dere Köprüsü"
+date: "2025-12-25T02:23:03+03:00"
 slug: "yikik-dere-koprusu"
 description: "## Yıkık Dere Köprüsü: Uzunköprü, Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Uzunköprü"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "26.732193,41.3002472"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yıkık Dere Köprüsü: Uzunköprü, Edirne'nin Tarihi Bir Mirası

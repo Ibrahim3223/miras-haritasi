@@ -1,18 +1,17 @@
 ---
-title: "Valide Kethüdası Mehmet Efendi Darülhadisi | Miras Haritası"
-date: 2025-12-25T17:31:29+03:00
+title: "Valide Kethüdası Mehmet Efendi Darülhadisi"
+date: "2025-12-25T17:31:29+03:00"
 slug: "valide-kethudasi-mehmet-efendi-darulhadisi"
 description: "## Valide Kethüdası Mehmet Efendi Darülhadisi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.97376,41.023205"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Valide Kethüdası Mehmet Efendi Darülhadisi

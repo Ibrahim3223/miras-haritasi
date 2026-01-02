@@ -1,18 +1,17 @@
 ---
-title: "Sahib Ata Vakıf Hamamı | Miras Haritası"
-date: 2025-12-25T16:46:54+03:00
+title: "Sahib Ata Vakıf Hamamı"
+date: "2025-12-25T16:46:54+03:00"
 slug: "sahib-ata-vakif-hamami"
 description: "## Sahib Ata Vakıf Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Ilgın"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "31.8881207,38.2780571"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sahib Ata Vakıf Hamamı

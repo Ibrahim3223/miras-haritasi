@@ -1,18 +1,17 @@
 ---
-title: "Güzelceköy Mevki Manastırı 2 | Miras Haritası"
-date: 2025-12-25T09:57:32+03:00
+title: "Güzelceköy Mevki Manastırı 2"
+date: "2025-12-25T09:57:32+03:00"
 slug: "guzelcekoy-mevki-manastiri-2"
 description: "## Güzelceköy Mevki Manastırı 2..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gökçeada"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "25.9727993,40.1852989"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Güzelceköy Mevki Manastırı 2

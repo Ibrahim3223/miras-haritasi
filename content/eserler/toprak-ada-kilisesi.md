@@ -1,18 +1,17 @@
 ---
-title: "Toprak Ada Kilisesi | Miras Haritası"
-date: 2025-12-25T09:28:55+03:00
+title: "Toprak Ada Kilisesi"
+date: "2025-12-25T09:28:55+03:00"
 slug: "toprak-ada-kilisesi"
 description: "## Toprak Ada Kilisesi: Ege Bölgesi'ndeki Gizemli Bir Kilise..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.3665085,37.2832108"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Toprak Ada Kilisesi: Ege Bölgesi'ndeki Gizemli Bir Kilise

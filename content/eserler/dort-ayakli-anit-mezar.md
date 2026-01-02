@@ -1,18 +1,17 @@
 ---
-title: "Dört Ayaklı Anıt Mezar | Miras Haritası"
-date: 2025-12-25T14:09:44+03:00
+title: "Dört Ayaklı Anıt Mezar"
+date: "2025-12-25T14:09:44+03:00"
 slug: "dort-ayakli-anit-mezar"
 description: "**Dört Ayaklı Anıt Mezar: Aydıncık'taki Bir Antik Kahramanın Anıtı**..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Aydıncık"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.3272436,36.1485033"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Dört Ayaklı Anıt Mezar: Aydıncık'taki Bir Antik Kahramanın Anıtı**

@@ -1,18 +1,17 @@
 ---
-title: "Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği | Miras Haritası"
-date: 2025-12-25T14:07:44+03:00
+title: "Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği"
+date: "2025-12-25T14:07:44+03:00"
 slug: "yarbay-halit-bey-ve-yarbay-ziya-bey-sehitligi"
 description: "## Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3233585,40.2830353"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği

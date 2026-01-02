@@ -1,18 +1,17 @@
 ---
-title: "Şifa Hamamı Sultanahmet | Miras Haritası"
-date: 2025-12-25T16:39:31+03:00
+title: "Şifa Hamamı Sultanahmet"
+date: "2025-12-25T16:39:31+03:00"
 slug: "sifa-hamami-sultanahmet"
 description: "### Şifa Hamamı Sultanahmet..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.975518,41.004201"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Şifa Hamamı Sultanahmet

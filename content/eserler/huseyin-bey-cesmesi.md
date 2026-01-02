@@ -1,18 +1,17 @@
 ---
-title: "Hüseyin Bey Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:37:42+03:00
+title: "Hüseyin Bey Çeşmesi"
+date: "2025-12-25T10:37:42+03:00"
 slug: "huseyin-bey-cesmesi"
 description: "## Hüseyin Bey Çeşmesi: Bafra'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "Bafra"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.908775,41.568321"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hüseyin Bey Çeşmesi: Bafra'nın Tarihi Bir Çeşmesi

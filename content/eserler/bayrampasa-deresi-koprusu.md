@@ -1,18 +1,17 @@
 ---
-title: "Bayrampaşa Deresi Köprüsü | Miras Haritası"
-date: 2025-12-25T03:03:44+03:00
+title: "Bayrampaşa Deresi Köprüsü"
+date: "2025-12-25T03:03:44+03:00"
 slug: "bayrampasa-deresi-koprusu"
 description: "### Bayrampaşa Deresi Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "28.9337463,41.0213852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Bayrampaşa Deresi Köprüsü

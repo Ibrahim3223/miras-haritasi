@@ -1,18 +1,17 @@
 ---
-title: "Başçı İbrahim Camii | Miras Haritası"
-date: 2025-12-24T22:11:40+03:00
+title: "Başçı İbrahim Camii"
+date: "2025-12-24T22:11:40+03:00"
 slug: "basci-ibrahim-camii"
 description: "### Başçı İbrahim Camii: Bursa'nın Tarihi Bir Çeşidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BAŞÇI_İBRAHİM_CAMİSİ_-_panoramio_(4).jpg/1200px-BAŞÇI_İBRAHİM_CAMİSİ_-_panoramio_(4).jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0630836,40.1783943"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Başçı İbrahim Camii: Bursa'nın Tarihi Bir Çeşidi

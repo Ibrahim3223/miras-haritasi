@@ -1,18 +1,17 @@
 ---
-title: "Kırşehir Müzesi | Miras Haritası"
-date: 2025-12-25T03:18:46+03:00
+title: "Kırşehir Müzesi"
+date: "2025-12-25T03:18:46+03:00"
 slug: "kirsehir-muzesi"
 description: "## Kırşehir Müzesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "34.158611111,39.148611111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kırşehir Müzesi

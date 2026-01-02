@@ -1,18 +1,17 @@
 ---
-title: "Muradiye Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:55:14+03:00
+title: "Muradiye Camii Çeşmesi"
+date: "2025-12-25T10:55:14+03:00"
 slug: "muradiye-camii-cesmesi"
 description: "# Muradiye Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0467224,40.1912804"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Muradiye Camii Çeşmesi

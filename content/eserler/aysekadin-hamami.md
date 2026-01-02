@@ -1,18 +1,17 @@
 ---
-title: "Ayşekadın Hamamı | Miras Haritası"
-date: 2025-12-25T16:39:06+03:00
+title: "Ayşekadın Hamamı"
+date: "2025-12-25T16:39:06+03:00"
 slug: "aysekadin-hamami"
 description: "### Ayşekadın Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.961734,41.014786"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayşekadın Hamamı

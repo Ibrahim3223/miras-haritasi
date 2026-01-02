@@ -1,18 +1,17 @@
 ---
-title: "Ginc Kalesi | Miras Haritası"
-date: 2025-12-25T01:22:14+03:00
+title: "Ginc Kalesi"
+date: "2025-12-25T01:22:14+03:00"
 slug: "ginc-kalesi"
 description: "## Ginc Kalesi: Bingöl'ün Tarihi Mirası..."
 featured_image: ""
 province: "Bingöl"
-iller: ["Bingöl"]
+iller: '["Bingöl"]'
 district: "Solhan"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.0533981,38.7967949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ginc Kalesi: Bingöl'ün Tarihi Mirası

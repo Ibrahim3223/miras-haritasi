@@ -1,18 +1,17 @@
 ---
-title: "Kasım Paşa Sebili | Miras Haritası"
-date: 2025-12-25T13:06:12+03:00
+title: "Kasım Paşa Sebili"
+date: "2025-12-25T13:06:12+03:00"
 slug: "kasim-pasa-sebili"
 description: "### Kasım Paşa Sebili: İstanbul'un Çiftlikköyü'nün Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kasım_Paşa_Sebili_01.jpg/1200px-Kasım_Paşa_Sebili_01.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.968902,41.033154"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kasım Paşa Sebili: İstanbul'un Çiftlikköyü'nün Tarihi Çeşmesi

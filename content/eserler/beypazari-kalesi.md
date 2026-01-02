@@ -1,18 +1,17 @@
 ---
-title: "Beypazarı Kalesi | Miras Haritası"
-date: 2025-12-25T01:30:46+03:00
+title: "Beypazarı Kalesi"
+date: "2025-12-25T01:30:46+03:00"
 slug: "beypazari-kalesi"
 description: "## Beypazarı Kalesi: Ankara'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Beypazarı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "31.920717,40.171565"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beypazarı Kalesi: Ankara'nın Tarihî ve Kültürel Mirası

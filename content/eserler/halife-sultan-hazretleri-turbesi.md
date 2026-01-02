@@ -1,18 +1,17 @@
 ---
-title: "Halife Sultan Hazretleri Türbesi | Miras Haritası"
-date: 2025-12-25T15:27:32+03:00
+title: "Halife Sultan Hazretleri Türbesi"
+date: "2025-12-25T15:27:32+03:00"
 slug: "halife-sultan-hazretleri-turbesi"
 description: "## Halife Sultan Hazretleri Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.7750282,41.3802147"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Halife Sultan Hazretleri Türbesi

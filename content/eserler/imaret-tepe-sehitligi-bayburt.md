@@ -1,18 +1,17 @@
 ---
-title: "İmaret Tepe Şehitliği, Bayburt | Miras Haritası"
-date: 2025-12-25T15:59:36+03:00
+title: "İmaret Tepe Şehitliği, Bayburt"
+date: "2025-12-25T15:59:36+03:00"
 slug: "imaret-tepe-sehitligi-bayburt"
 description: "## İmaret Tepe Şehitliği: Bayburt'un Anıt Yeri..."
 featured_image: ""
 province: "Bayburt"
-iller: ["Bayburt"]
+iller: '["Bayburt"]'
 district: "Bayburt"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "40.224744,40.254537"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İmaret Tepe Şehitliği: Bayburt'un Anıt Yeri

@@ -1,18 +1,17 @@
 ---
-title: "Hoca Mehmet Raif Ağa Camii | Miras Haritası"
-date: 2025-12-25T00:23:39+03:00
+title: "Hoca Mehmet Raif Ağa Camii"
+date: "2025-12-25T00:23:39+03:00"
 slug: "hoca-mehmet-raif-aga-camii"
 description: "## Hoca Mehmet Raif Ağa Camii: Beşiktaş'ta Bir Geçiş Dönemi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hoca_Mehmet_Raif_Ağa_Camii_IMG_9606.jpg/1200px-Hoca_Mehmet_Raif_Ağa_Camii_IMG_9606.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.997538548,41.047111248"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hoca Mehmet Raif Ağa Camii: Beşiktaş'ta Bir Geçiş Dönemi Camii

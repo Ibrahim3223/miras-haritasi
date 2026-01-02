@@ -1,18 +1,17 @@
 ---
-title: "Veli Şemseddin Camii | Miras Haritası"
-date: 2025-12-24T23:19:50+03:00
+title: "Veli Şemseddin Camii"
+date: "2025-12-24T23:19:50+03:00"
 slug: "veli-semseddin-camii"
 description: "### Veli Şemseddin Camii..."
 featured_image: ""
 province: "Orhangazi (ilçe)"
-iller: ["Orhangazi (ilçe)"]
+iller: '["Orhangazi (ilçe)"]'
 district: "Maksem"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.063055,40.1801071"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Veli Şemseddin Camii

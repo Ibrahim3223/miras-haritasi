@@ -1,18 +1,17 @@
 ---
-title: "Hatay Cemil Meriç İl Halk Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:51:13+03:00
+title: "Hatay Cemil Meriç İl Halk Kütüphanesi"
+date: "2025-12-25T17:51:13+03:00"
 slug: "hatay-cemil-meric-il-halk-kutuphanesi"
 description: "## Hatay Cemil Meriç İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Hatay"
-iller: ["Hatay"]
+iller: '["Hatay"]'
 district: "Antakya"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "36.15589447,36.20258088"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hatay Cemil Meriç İl Halk Kütüphanesi

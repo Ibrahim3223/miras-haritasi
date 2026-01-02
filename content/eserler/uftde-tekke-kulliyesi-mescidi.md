@@ -1,18 +1,17 @@
 ---
-title: "Üftâde Tekke Külliyesi Mescidi | Miras Haritası"
-date: 2025-12-25T01:02:07+03:00
+title: "Üftâde Tekke Külliyesi Mescidi"
+date: "2025-12-25T01:02:07+03:00"
 slug: "uftde-tekke-kulliyesi-mescidi"
 description: "## Üftâde Tekke Külliyesi Mescidi: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0541916,40.1779633"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Üftâde Tekke Külliyesi Mescidi: Bursa'nın Tarihi Bir Mirası

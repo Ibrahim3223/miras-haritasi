@@ -1,18 +1,17 @@
 ---
-title: "Kabaköy Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:12:39+03:00
+title: "Kabaköy Çeşmesi"
+date: "2025-12-25T10:12:39+03:00"
 slug: "kabakoy-cesmesi"
 description: "## Kabaköy Çeşmesi: Gümüşhane'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
-district: "Gümüşhane"
+province: "Gümüşhane"
+iller: '["Gümüşhane"]'
+district: "Trabzon Vilayeti"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.695263,40.436688"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kabaköy Çeşmesi: Gümüşhane'nin Tarihi ve Kültürel Mirası

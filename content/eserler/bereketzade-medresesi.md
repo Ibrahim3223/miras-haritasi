@@ -1,18 +1,17 @@
 ---
-title: "Bereketzade Medresesi | Miras Haritası"
-date: 2025-12-25T17:43:47+03:00
+title: "Bereketzade Medresesi"
+date: "2025-12-25T17:43:47+03:00"
 slug: "bereketzade-medresesi"
 description: "# Bereketzade Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.973671,41.023086"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Bereketzade Medresesi

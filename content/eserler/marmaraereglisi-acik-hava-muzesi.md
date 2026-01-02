@@ -1,18 +1,17 @@
 ---
-title: "Marmaraereğlisi Açık Hava Müzesi | Miras Haritası"
-date: 2025-12-25T04:07:42+03:00
+title: "Marmaraereğlisi Açık Hava Müzesi"
+date: "2025-12-25T04:07:42+03:00"
 slug: "marmaraereglisi-acik-hava-muzesi"
 description: "## Marmaraereğlisi Açık Hava Müzesi: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: ["Tekirdağ"]
+iller: '["Tekirdağ"]'
 district: "Marmaraereğlisi"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.9574089,40.9692459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Marmaraereğlisi Açık Hava Müzesi: Türkiye'nin Tarihi ve Kültürel Mirası

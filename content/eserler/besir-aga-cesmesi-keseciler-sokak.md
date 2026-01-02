@@ -1,18 +1,17 @@
 ---
-title: "Beşir Ağa Çeşmesi, Keseciler Sokak | Miras Haritası"
-date: 2025-12-25T12:15:06+03:00
+title: "Beşir Ağa Çeşmesi, Keseciler Sokak"
+date: "2025-12-25T12:15:06+03:00"
 slug: "besir-aga-cesmesi-keseciler-sokak"
 description: "## Beşir Ağa Çeşmesi: Fatih, İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.967819,41.01032"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Beşir Ağa Çeşmesi: Fatih, İstanbul'un Gizli Cenneti

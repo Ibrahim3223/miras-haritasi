@@ -1,18 +1,17 @@
 ---
-title: "Bahadın Saat Kulesi | Miras Haritası"
-date: 2025-12-25T17:18:57+03:00
+title: "Bahadın Saat Kulesi"
+date: "2025-12-25T17:18:57+03:00"
 slug: "bahadin-saat-kulesi"
 description: "## Bahadın Saat Kulesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Yozgat"
+province: "Yozgat"
+iller: '["Yozgat"]'
+district: ""
 type: "Saat Kulesi"
-turler: ["Saat Kulesi"]
+turler: '["Saat Kulesi"]'
 coords: "35.304138888,39.676027777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bahadın Saat Kulesi

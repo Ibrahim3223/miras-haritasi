@@ -1,18 +1,17 @@
 ---
-title: "Lisieux'lü Azize Tereza Kilisesi | Miras Haritası"
-date: 2025-12-25T08:47:55+03:00
+title: "Lisieux'lü Azize Tereza Kilisesi"
+date: "2025-12-25T08:47:55+03:00"
 slug: "lisieuxlu-azize-tereza-kilisesi"
 description: "## Lisieux'lü Azize Tereza Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Azize_Tereza_Kilisesi_(1).jpg/1200px-Azize_Tereza_Kilisesi_(1).jpg"
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.8605,39.9355"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Lisieux'lü Azize Tereza Kilisesi

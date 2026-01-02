@@ -1,18 +1,17 @@
 ---
-title: "Hierapolis Plutoniumu | Miras Haritası"
-date: 2025-12-25T07:11:58+03:00
+title: "Hierapolis Plutoniumu"
+date: "2025-12-25T07:11:58+03:00"
 slug: "hierapolis-plutoniumu"
 description: "## Hierapolis Plutoniumu: Denizli'nin Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Plutonium-2.jpg/1200px-Plutonium-2.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Denizli"
+province: "Denizli"
+iller: '["Denizli"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.12611111,37.92666667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Hierapolis Plutoniumu: Denizli'nin Gizli Mirası

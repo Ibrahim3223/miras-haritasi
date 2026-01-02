@@ -1,18 +1,17 @@
 ---
-title: "Sahn-ı Seman | Miras Haritası"
-date: 2025-12-25T17:24:24+03:00
+title: "Sahn-ı Seman"
+date: "2025-12-25T17:24:24+03:00"
 slug: "sahn-i-seman"
 description: "## Sahn-ı Seman Medresesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sahn-ı Seman Medresesi

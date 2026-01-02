@@ -1,18 +1,17 @@
 ---
-title: "Kısmalı Köprüsü | Miras Haritası"
-date: 2025-12-25T02:15:56+03:00
+title: "Kısmalı Köprüsü"
+date: "2025-12-25T02:15:56+03:00"
 slug: "kismali-koprusu"
 description: "### Kısmalı Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Turgutlu"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "27.7056713,38.5410385"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kısmalı Köprüsü

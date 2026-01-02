@@ -1,18 +1,17 @@
 ---
-title: "Šinahuttum | Miras Haritası"
-date: 2025-12-25T06:48:42+03:00
+title: "Šinahuttum"
+date: "2025-12-25T06:48:42+03:00"
 slug: "inahuttum"
 description: "## Šinahuttum: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.615278,40.019722"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Šinahuttum: Türkiye'nin Gizli Harabeleri

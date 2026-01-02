@@ -1,18 +1,17 @@
 ---
-title: "Tzkarostavi Köyü Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:37+03:00
+title: "Tzkarostavi Köyü Kilisesi"
+date: "2025-12-25T09:03:37+03:00"
 slug: "tzkarostavi-koyu-kilisesi"
 description: "## Tzkarostavi Köyü Kilisesi..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Öncül"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.164858333,41.24005"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tzkarostavi Köyü Kilisesi

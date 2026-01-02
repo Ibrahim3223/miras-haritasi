@@ -1,18 +1,17 @@
 ---
-title: "Adana Sinema Müzesi | Miras Haritası"
-date: 2025-12-25T03:09:52+03:00
+title: "Adana Sinema Müzesi"
+date: "2025-12-25T03:09:52+03:00"
 slug: "adana-sinema-muzesi"
 description: "## Adana Sinema Müzesi: Türkiye'nin Sinema Tarihi için Değerli Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Adana_Cinema_Museum,_Turkey.JPG/1200px-Adana_Cinema_Museum,_Turkey.JPG"
 province: "Adana"
-iller: ["Adana"]
+iller: '["Adana"]'
 district: "Seyhan"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "35.32977778,36.98845556"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Adana Sinema Müzesi: Türkiye'nin Sinema Tarihi için Değerli Bir Miras

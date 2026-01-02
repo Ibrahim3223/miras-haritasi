@@ -1,18 +1,17 @@
 ---
-title: "Ayazmalı Mescit, Tire | Miras Haritası"
-date: 2025-12-25T00:50:18+03:00
+title: "Ayazmalı Mescit, Tire"
+date: "2025-12-25T00:50:18+03:00"
 slug: "ayazmali-mescit-tire"
 description: "# Ayazmalı Mescit, Tire..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Tire"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7392654,38.0810699"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ayazmalı Mescit, Tire

@@ -1,18 +1,17 @@
 ---
-title: "Üsküp Keleşin Tepe Kuzey Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:51:40+03:00
+title: "Üsküp Keleşin Tepe Kuzey Tümülüsü"
+date: "2025-12-25T07:51:40+03:00"
 slug: "uskup-kelesin-tepe-kuzey-tumulusu"
 description: "# Üsküp Keleşin Tepe Kuzey Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3842812,41.7713127"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Üsküp Keleşin Tepe Kuzey Tümülüsü

@@ -1,18 +1,17 @@
 ---
-title: "Aziz Klemens Kilisesi | Miras Haritası"
-date: 2025-12-25T08:48:59+03:00
+title: "Aziz Klemens Kilisesi"
+date: "2025-12-25T08:48:59+03:00"
 slug: "aziz-klemens-kilisesi"
 description: "## Aziz Klemens Kilisesi..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Ankara"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "32.85988889,39.93916667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aziz Klemens Kilisesi

@@ -1,18 +1,17 @@
 ---
-title: "Nisa Antik Tiyatrosu | Miras Haritası"
-date: 2025-12-25T08:23:41+03:00
+title: "Nisa Antik Tiyatrosu"
+date: "2025-12-25T08:23:41+03:00"
 slug: "nisa-antik-tiyatrosu"
 description: "## Nisa Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.627644,36.443176"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nisa Antik Tiyatrosu

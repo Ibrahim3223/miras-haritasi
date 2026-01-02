@@ -1,18 +1,17 @@
 ---
-title: "Sinan-ı Ümmi Türbesi | Miras Haritası"
-date: 2025-12-25T15:18:08+03:00
+title: "Sinan-ı Ümmi Türbesi"
+date: "2025-12-25T15:18:08+03:00"
 slug: "sinan-i-ummi-turbesi"
 description: "## Sinan-ı Ümmi Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.9103,36.7454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sinan-ı Ümmi Türbesi

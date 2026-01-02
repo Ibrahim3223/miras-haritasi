@@ -1,18 +1,17 @@
 ---
-title: "Voynuk Şüca Hamamı | Miras Haritası"
-date: 2025-12-25T16:50:21+03:00
+title: "Voynuk Şüca Hamamı"
+date: "2025-12-25T16:50:21+03:00"
 slug: "voynuk-suca-hamami"
 description: "## Voynuk Şüca Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "28.9606895,41.0154495"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Voynuk Şüca Hamamı

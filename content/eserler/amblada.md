@@ -1,18 +1,17 @@
 ---
-title: "Amblada | Miras Haritası"
-date: 2025-12-25T04:16:10+03:00
+title: "Amblada"
+date: "2025-12-25T04:16:10+03:00"
 slug: "amblada"
 description: "## Amblada Arkeolojik Sit..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.7386345,37.518578"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Amblada Arkeolojik Sit

@@ -1,18 +1,17 @@
 ---
-title: "Eruşeti Kilisesi | Miras Haritası"
-date: 2025-12-25T09:00:22+03:00
+title: "Eruşeti Kilisesi"
+date: "2025-12-25T09:00:22+03:00"
 slug: "eruseti-kilisesi"
 description: "### Eruşeti Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: ["Ardahan"]
+iller: '["Ardahan"]'
 district: "Hanak"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "42.964527777,41.256527777"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Eruşeti Kilisesi

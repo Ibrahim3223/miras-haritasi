@@ -1,18 +1,17 @@
 ---
-title: "Panayia Kamariotissa Manastırı | Miras Haritası"
-date: 2025-12-25T10:00:21+03:00
+title: "Panayia Kamariotissa Manastırı"
+date: "2025-12-25T10:00:21+03:00"
 slug: "panayia-kamariotissa-manastiri"
 description: "## Panayia Kamariotissa Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "29.086841019,40.875222289"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Panayia Kamariotissa Manastırı

@@ -1,18 +1,17 @@
 ---
-title: "Kanlıdere Şehitliği | Miras Haritası"
-date: 2025-12-25T16:03:07+03:00
+title: "Kanlıdere Şehitliği"
+date: "2025-12-25T16:03:07+03:00"
 slug: "kanlidere-sehitligi"
 description: "**Kanlıdere Şehitliği**..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.2393684,40.0872459"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kanlıdere Şehitliği**

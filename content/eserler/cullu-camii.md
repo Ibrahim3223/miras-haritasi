@@ -1,18 +1,17 @@
 ---
-title: "Çullu Camii | Miras Haritası"
-date: 2025-12-24T22:33:56+03:00
+title: "Çullu Camii"
+date: "2025-12-24T22:33:56+03:00"
 slug: "cullu-camii"
 description: "## Çullu Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "26.4953003,38.6431999"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çullu Camii: İzmir'in Tarihi Bir Mirası

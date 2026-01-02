@@ -1,18 +1,17 @@
 ---
-title: "Dolmabahçe Palace - Swans fountain | Miras Haritası"
-date: 2025-12-25T13:07:46+03:00
+title: "Dolmabahçe Palace - Swans fountain"
+date: "2025-12-25T13:07:46+03:00"
 slug: "dolmabahce-palace-swans-fountain"
 description: "## Dolmabahçe Sarayı - Kuğu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gardens_of_Dolmabahçe_Palace,_Istanbul,_Turkey_003.jpg/1200px-Gardens_of_Dolmabahçe_Palace,_Istanbul,_Turkey_003.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "İstanbul"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.998175194,41.038438086"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Dolmabahçe Sarayı - Kuğu Çeşmesi

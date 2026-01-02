@@ -1,18 +1,17 @@
 ---
-title: "Taşhelvası I Köprüsü | Miras Haritası"
-date: 2025-12-25T02:29:53+03:00
+title: "Taşhelvası I Köprüsü"
+date: "2025-12-25T02:29:53+03:00"
 slug: "tashelvasi-i-koprusu"
 description: "## Taşhelvası I Köprüsü: Diyarbakır'ın Eski Çağlardan Kalma Harikası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Çınar"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.3197021,37.7766609"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Taşhelvası I Köprüsü: Diyarbakır'ın Eski Çağlardan Kalma Harikası

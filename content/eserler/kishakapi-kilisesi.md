@@ -1,18 +1,17 @@
 ---
-title: "Kishakapı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:03:26+03:00
+title: "Kishakapı Kilisesi"
+date: "2025-12-25T09:03:26+03:00"
 slug: "kishakapi-kilisesi"
 description: "## Kishakapı Kilisesi..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: ["Tortum ilçesi"]
+iller: '["Tortum ilçesi"]'
 district: "Derekapı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.482391666,40.437755555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kishakapı Kilisesi

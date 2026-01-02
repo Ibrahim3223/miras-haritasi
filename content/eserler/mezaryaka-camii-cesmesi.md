@@ -1,18 +1,17 @@
 ---
-title: "Mezaryaka Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:36:49+03:00
+title: "Mezaryaka Camii Çeşmesi"
+date: "2025-12-25T11:36:49+03:00"
 slug: "mezaryaka-camii-cesmesi"
 description: "## Mezaryaka Camii Çeşmesi..."
 featured_image: ""
 province: "Selçuklu"
-iller: ["Selçuklu"]
+iller: '["Selçuklu"]'
 district: "Sille"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4180069,37.9284668"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Mezaryaka Camii Çeşmesi

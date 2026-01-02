@@ -1,18 +1,17 @@
 ---
-title: "Tanaitena | Miras Haritası"
-date: 2025-12-25T05:17:58+03:00
+title: "Tanaitena"
+date: "2025-12-25T05:17:58+03:00"
 slug: "tanaitena"
 description: "## Tanaitena Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.297696,39.077762"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tanaitena Arkeolojik Sitesi

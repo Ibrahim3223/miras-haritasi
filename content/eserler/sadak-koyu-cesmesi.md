@@ -1,18 +1,17 @@
 ---
-title: "Sadak Köyü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:14:21+03:00
+title: "Sadak Köyü Çeşmesi"
+date: "2025-12-25T10:14:21+03:00"
 slug: "sadak-koyu-cesmesi"
 description: "### Sadak Köyü Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: ["Gümüşhane"]
+iller: '["Gümüşhane"]'
 district: "Kelkit"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "39.5954208,40.0257187"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sadak Köyü Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Paşa Çeşmesi, Ödemiş | Miras Haritası"
-date: 2025-12-25T11:56:37+03:00
+title: "Paşa Çeşmesi, Ödemiş"
+date: "2025-12-25T11:56:37+03:00"
 slug: "pasa-cesmesi-odemis"
 description: "## Paşa Çeşmesi, Ödemiş..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Ödemiş"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.034893,38.2619934"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşa Çeşmesi, Ödemiş

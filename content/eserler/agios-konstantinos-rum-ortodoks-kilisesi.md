@@ -1,18 +1,17 @@
 ---
-title: "Agios Konstantinos Rum Ortodoks Kilisesi | Miras Haritası"
-date: 2025-12-25T09:18:46+03:00
+title: "Agios Konstantinos Rum Ortodoks Kilisesi"
+date: "2025-12-25T09:18:46+03:00"
 slug: "agios-konstantinos-rum-ortodoks-kilisesi"
 description: "## Agios Konstantinos Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Menemen"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.0676994,38.611599"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Agios Konstantinos Rum Ortodoks Kilisesi

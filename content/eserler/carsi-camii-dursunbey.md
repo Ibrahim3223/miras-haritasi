@@ -1,18 +1,17 @@
 ---
-title: "Çarşı Camii, Dursunbey | Miras Haritası"
-date: 2025-12-25T00:15:38+03:00
+title: "Çarşı Camii, Dursunbey"
+date: "2025-12-25T00:15:38+03:00"
 slug: "carsi-camii-dursunbey"
 description: "## Çarşı Camii, Dursunbey: Tarihi ve Kültürel Mirasın Bir Örneği..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Dursunbey"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.6286659,39.5853653"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarşı Camii, Dursunbey: Tarihi ve Kültürel Mirasın Bir Örneği

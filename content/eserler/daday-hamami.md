@@ -1,18 +1,17 @@
 ---
-title: "Daday Hamamı | Miras Haritası"
-date: 2025-12-25T17:13:52+03:00
+title: "Daday Hamamı"
+date: "2025-12-25T17:13:52+03:00"
 slug: "daday-hamami"
 description: "## Daday Hamamı: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Daday_Hamam_240310.jpg/1200px-Daday_Hamam_240310.jpg"
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Daday"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "33.4696503,41.4773827"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Daday Hamamı: Kastamonu'nun Tarihi ve Kültürel Mirası

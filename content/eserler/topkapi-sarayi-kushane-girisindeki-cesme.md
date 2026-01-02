@@ -1,18 +1,17 @@
 ---
-title: "Topkapı Sarayı Kuşhane Girişindeki Çeşme | Miras Haritası"
-date: 2025-12-25T11:23:10+03:00
+title: "Topkapı Sarayı Kuşhane Girişindeki Çeşme"
+date: "2025-12-25T11:23:10+03:00"
 slug: "topkapi-sarayi-kushane-girisindeki-cesme"
 description: "## Topkapı Sarayı Kuşhane Girişindeki Çeşme: İhtişam ve Edeplilikin Bir Mirası..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Cankurtaran"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9837041,41.0128746"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Topkapı Sarayı Kuşhane Girişindeki Çeşme: İhtişam ve Edeplilikin Bir Mirası

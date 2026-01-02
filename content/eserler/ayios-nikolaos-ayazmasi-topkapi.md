@@ -1,18 +1,17 @@
 ---
-title: "Ayios Nikolaos Ayazması, Topkapı | Miras Haritası"
-date: 2025-12-25T12:40:44+03:00
+title: "Ayios Nikolaos Ayazması, Topkapı"
+date: "2025-12-25T12:40:44+03:00"
 slug: "ayios-nikolaos-ayazmasi-topkapi"
 description: "**Ayios Nikolaos Ayazması: İstanbulluların Gözdesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9274597,41.0223083"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 **Ayios Nikolaos Ayazması: İstanbulluların Gözdesi**

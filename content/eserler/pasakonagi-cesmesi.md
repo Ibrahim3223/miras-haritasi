@@ -1,18 +1,17 @@
 ---
-title: "Paşakonağı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:53:08+03:00
+title: "Paşakonağı Çeşmesi"
+date: "2025-12-25T10:53:08+03:00"
 slug: "pasakonagi-cesmesi"
 description: "## Paşakonağı Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0451412,40.1874619"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Paşakonağı Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası

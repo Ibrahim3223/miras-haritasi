@@ -1,18 +1,17 @@
 ---
-title: "İyilik Kayalığı | Miras Haritası"
-date: 2025-12-25T03:43:34+03:00
+title: "İyilik Kayalığı"
+date: "2025-12-25T03:43:34+03:00"
 slug: "iyilik-kayaligi"
 description: "### İyilik Kayalığı: Marmaris'teki Büyülü Kayalık..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Marmaris"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.2690029,36.8547821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İyilik Kayalığı: Marmaris'teki Büyülü Kayalık

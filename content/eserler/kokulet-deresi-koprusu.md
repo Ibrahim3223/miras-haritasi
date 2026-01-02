@@ -1,18 +1,17 @@
 ---
-title: "Kokulet Deresi Köprüsü | Miras Haritası"
-date: 2025-12-25T02:16:16+03:00
+title: "Kokulet Deresi Köprüsü"
+date: "2025-12-25T02:16:16+03:00"
 slug: "kokulet-deresi-koprusu"
 description: "### Kokulet Deresi Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: ["Artvin"]
+iller: '["Artvin"]'
 district: "Murgul"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "41.623538,41.3093727"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kokulet Deresi Köprüsü

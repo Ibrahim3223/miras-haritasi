@@ -1,18 +1,17 @@
 ---
-title: "Yukarıpalamut Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:38:24+03:00
+title: "Yukarıpalamut Tümülüsü"
+date: "2025-12-25T07:38:24+03:00"
 slug: "yukaripalamut-tumulusu"
 description: "## Yukarıpalamut Tümülüsü: Çanakkale'nin Gizli Şehri..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.533889965,39.904104865"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yukarıpalamut Tümülüsü: Çanakkale'nin Gizli Şehri

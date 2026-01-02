@@ -1,18 +1,17 @@
 ---
-title: "Apollon Kutsal Alanı, Emecik | Miras Haritası"
-date: 2025-12-25T08:40:06+03:00
+title: "Apollon Kutsal Alanı, Emecik"
+date: "2025-12-25T08:40:06+03:00"
 slug: "apollon-kutsal-alani-emecik"
 description: "# Apollon Kutsal Alanı, Emecik..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Datça"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.801321,36.7682381"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Apollon Kutsal Alanı, Emecik

@@ -1,18 +1,17 @@
 ---
-title: "Geyikli Baba Hamamı | Miras Haritası"
-date: 2025-12-25T17:09:40+03:00
+title: "Geyikli Baba Hamamı"
+date: "2025-12-25T17:09:40+03:00"
 slug: "geyikli-baba-hamami"
 description: "**Geyikli Baba Hamamı**..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Kestel"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "29.3706379,40.1083183"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Geyikli Baba Hamamı**

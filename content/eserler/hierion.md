@@ -1,18 +1,17 @@
 ---
-title: "Hierion | Miras Haritası"
-date: 2025-12-25T04:51:06+03:00
+title: "Hierion"
+date: "2025-12-25T04:51:06+03:00"
 slug: "hierion"
 description: "## Hierion: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.975806,41.031189"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hierion: Antik Çağın Gizemi

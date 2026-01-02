@@ -1,18 +1,17 @@
 ---
-title: "Cincin Kalesi | Miras Haritası"
-date: 2025-12-25T01:32:28+03:00
+title: "Cincin Kalesi"
+date: "2025-12-25T01:32:28+03:00"
 slug: "cincin-kalesi"
 description: "## Cincin Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "27.756958,37.735019"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Cincin Kalesi

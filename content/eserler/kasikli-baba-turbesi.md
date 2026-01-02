@@ -1,18 +1,17 @@
 ---
-title: "Kaşıklı Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:11:54+03:00
+title: "Kaşıklı Baba Türbesi"
+date: "2025-12-25T14:11:54+03:00"
 slug: "kasikli-baba-turbesi"
 description: "### Kaşıklı Baba Türbesi: Eceabat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3778,40.1509"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kaşıklı Baba Türbesi: Eceabat'ın Tarihi Bir Mirası

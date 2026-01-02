@@ -1,18 +1,17 @@
 ---
-title: "Arzadeyin Höyüğü | Miras Haritası"
-date: 2025-12-25T06:20:40+03:00
+title: "Arzadeyin Höyüğü"
+date: "2025-12-25T06:20:40+03:00"
 slug: "arzadeyin-hoyugu"
 description: "## Arzadeyin Höyüğü: Kırşehir'in Gizli Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.0245536,39.2599713"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Arzadeyin Höyüğü: Kırşehir'in Gizli Mirası

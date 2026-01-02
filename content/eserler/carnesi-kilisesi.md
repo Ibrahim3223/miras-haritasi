@@ -1,18 +1,17 @@
 ---
-title: "Çarnesi Kilisesi | Miras Haritası"
-date: 2025-12-25T09:04:09+03:00
+title: "Çarnesi Kilisesi"
+date: "2025-12-25T09:04:09+03:00"
 slug: "carnesi-kilisesi"
 description: "## Çarnesi Kilisesi..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: ["Tortum ilçesi"]
+iller: '["Tortum ilçesi"]'
 district: "Kaleboynu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "41.362083333,40.419505555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çarnesi Kilisesi

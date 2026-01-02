@@ -1,18 +1,17 @@
 ---
-title: "Çanakçeşme Köprüsü | Miras Haritası"
-date: 2025-12-25T02:04:34+03:00
+title: "Çanakçeşme Köprüsü"
+date: "2025-12-25T02:04:34+03:00"
 slug: "canakcesme-koprusu"
 description: "## Çanakçeşme Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "İyidere"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "40.371567,41.007783"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çanakçeşme Köprüsü

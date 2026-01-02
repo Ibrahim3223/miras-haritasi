@@ -1,18 +1,17 @@
 ---
-title: "Konya Etnografya Müzesi | Miras Haritası"
-date: 2025-12-25T03:19:38+03:00
+title: "Konya Etnografya Müzesi"
+date: "2025-12-25T03:19:38+03:00"
 slug: "konya-etnografya-muzesi"
 description: "## Konya Etnografya Müzesi..."
 featured_image: ""
-province: "Konya Vilayeti"
-iller: ["Konya Vilayeti"]
-district: "Konya"
+province: "Konya"
+iller: '["Konya"]'
+district: "Konya Vilayeti"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "32.49138889,37.86666667"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Konya Etnografya Müzesi

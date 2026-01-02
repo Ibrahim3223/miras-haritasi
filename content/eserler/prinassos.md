@@ -1,18 +1,17 @@
 ---
-title: "Prinassos | Miras Haritası"
-date: 2025-12-25T05:22:57+03:00
+title: "Prinassos"
+date: "2025-12-25T05:22:57+03:00"
 slug: "prinassos"
 description: "## Prinassos: Geçmişin İzlerini Bulmak..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "http://www.wikidata.org/.well-known/genid/4771f35169818d7fc104a8a708cbb320"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Prinassos: Geçmişin İzlerini Bulmak

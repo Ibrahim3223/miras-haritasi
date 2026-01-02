@@ -1,18 +1,17 @@
 ---
-title: "Kapıcıbaşı İlyas Ağa Camii | Miras Haritası"
-date: 2025-12-24T23:41:42+03:00
+title: "Kapıcıbaşı İlyas Ağa Camii"
+date: "2025-12-24T23:41:42+03:00"
 slug: "kapicibasi-ilyas-aga-camii"
 description: "## Kapıcıbaşı İlyas Ağa Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Aydın"
+province: "Aydın"
+iller: '["Aydın"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.505331,37.7372665"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kapıcıbaşı İlyas Ağa Camii

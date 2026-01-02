@@ -1,18 +1,17 @@
 ---
-title: "Pamukkale Arkeoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:45:30+03:00
+title: "Pamukkale Arkeoloji Müzesi"
+date: "2025-12-25T03:45:30+03:00"
 slug: "pamukkale-arkeoloji-muzesi"
 description: "## Pamukkale Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hierapolis_Archaeology_Museum,_Turkey_(31595600163).jpg/1200px-Hierapolis_Archaeology_Museum,_Turkey_(31595600163).jpg"
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Pamukkale"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Pamukkale Arkeoloji Müzesi

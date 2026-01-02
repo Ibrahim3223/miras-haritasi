@@ -1,18 +1,17 @@
 ---
-title: "Seyfe Kale Höyük | Miras Haritası"
-date: 2025-12-25T05:58:46+03:00
+title: "Seyfe Kale Höyük"
+date: "2025-12-25T05:58:46+03:00"
 slug: "seyfe-kale-hoyuk"
 description: "## Seyfe Kale Höyük: Tarihî ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Kırşehir"
-iller: ["Kırşehir"]
+iller: '["Kırşehir"]'
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.3550339,39.1931305"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyfe Kale Höyük: Tarihî ve Kültürel Mirasın Bir Parçası

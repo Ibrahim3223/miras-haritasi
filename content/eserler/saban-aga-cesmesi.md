@@ -1,18 +1,17 @@
 ---
-title: "Şaban Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:01:30+03:00
+title: "Şaban Ağa Çeşmesi"
+date: "2025-12-25T11:01:30+03:00"
 slug: "saban-aga-cesmesi"
 description: "### Şaban Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Şaban_Ağa_Çeşmesi_IMG_5160.jpg/1200px-Şaban_Ağa_Çeşmesi_IMG_5160.jpg"
-province: "Bakırköy"
-iller: ["Bakırköy"]
-district: "Cevizlik"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Bakırköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.875063,40.978683"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Şaban Ağa Çeşmesi

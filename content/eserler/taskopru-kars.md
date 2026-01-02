@@ -1,18 +1,17 @@
 ---
-title: "Taşköprü (Kars) | Miras Haritası"
-date: 2025-12-25T03:06:19+03:00
+title: "Taşköprü (Kars)"
+date: "2025-12-25T03:06:19+03:00"
 slug: "taskopru-kars"
 description: "## Taşköprü (Kars)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20110419_Tas_Kopru_bridge_Kars_Turkey_Panorama.jpg/1200px-20110419_Tas_Kopru_bridge_Kars_Turkey_Panorama.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kars"
+province: "Kars"
+iller: '["Kars"]'
+district: ""
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "43.08861111,40.61166667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Taşköprü (Kars)

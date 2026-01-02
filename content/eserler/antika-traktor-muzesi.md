@@ -1,18 +1,17 @@
 ---
-title: "Antika Traktör Müzesi | Miras Haritası"
-date: 2025-12-25T04:00:32+03:00
+title: "Antika Traktör Müzesi"
+date: "2025-12-25T04:00:32+03:00"
 slug: "antika-traktor-muzesi"
 description: "## Antika Traktör Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Antika_Traktör_Müzesi_3.jpg/1200px-Antika_Traktör_Müzesi_3.jpg"
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Gelibolu"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "26.666838,40.407086"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Antika Traktör Müzesi

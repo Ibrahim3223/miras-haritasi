@@ -1,18 +1,17 @@
 ---
-title: "Antalya Kadın Müzesi | Miras Haritası"
-date: 2025-12-25T03:24:41+03:00
+title: "Antalya Kadın Müzesi"
+date: "2025-12-25T03:24:41+03:00"
 slug: "antalya-kadin-muzesi"
 description: "### Antalya Kadın Müzesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Antalya"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Antalya Kadın Müzesi

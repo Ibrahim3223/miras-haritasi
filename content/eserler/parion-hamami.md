@@ -1,18 +1,17 @@
 ---
-title: "Parion Hamamı | Miras Haritası"
-date: 2025-12-25T17:12:28+03:00
+title: "Parion Hamamı"
+date: "2025-12-25T17:12:28+03:00"
 slug: "parion-hamami"
 description: "## Parion Hamamı: Bir Antik Kentin Gizli Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.067759047,40.425746698"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Parion Hamamı: Bir Antik Kentin Gizli Gizemi

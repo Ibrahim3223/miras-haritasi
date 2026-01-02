@@ -1,18 +1,17 @@
 ---
-title: "Ashab-ı Kehf Camii | Miras Haritası"
-date: 2025-12-25T00:42:14+03:00
+title: "Ashab-ı Kehf Camii"
+date: "2025-12-25T00:42:14+03:00"
 slug: "ashab-i-kehf-camii"
 description: "**Ashab-ı Kehf Camii**..."
 featured_image: ""
 province: "Kilikya"
-iller: ["Kilikya"]
+iller: '["Kilikya"]'
 district: "Tarsus"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.796976,36.957798"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Ashab-ı Kehf Camii**

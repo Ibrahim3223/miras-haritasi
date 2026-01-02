@@ -1,18 +1,17 @@
 ---
-title: "Kasrik Kalesi | Miras Haritası"
-date: 2025-12-25T01:20:31+03:00
+title: "Kasrik Kalesi"
+date: "2025-12-25T01:20:31+03:00"
 slug: "kasrik-kalesi"
 description: "## Kasrik Kalesi: Şırnak'ın Tarihsel ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kasrik_Kalesi.jpg/1200px-Kasrik_Kalesi.jpg"
 province: "Şırnak"
-iller: ["Şırnak"]
+iller: '["Şırnak"]'
 district: "Şırnak"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "42.1776199,37.3953667"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kasrik Kalesi: Şırnak'ın Tarihsel ve Kültürel Mirası

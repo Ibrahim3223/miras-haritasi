@@ -1,18 +1,17 @@
 ---
-title: "Tabakhane Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:32:12+03:00
+title: "Tabakhane Çeşmesi, Çankırı"
+date: "2025-12-25T12:32:12+03:00"
 slug: "tabakhane-cesmesi-cankiri"
 description: "## Tabakhane Çeşmesi, Çankırı: Bir Çeşminin Öyküsü..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.614053337,40.602550457"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tabakhane Çeşmesi, Çankırı: Bir Çeşminin Öyküsü

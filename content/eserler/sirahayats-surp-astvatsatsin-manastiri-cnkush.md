@@ -1,18 +1,17 @@
 ---
-title: "Sirahayats Surp Astvatsatsin Manastırı (Çnkush) | Miras Haritası"
-date: 2025-12-25T09:59:17+03:00
+title: "Sirahayats Surp Astvatsatsin Manastırı (Çnkush)"
+date: "2025-12-25T09:59:17+03:00"
 slug: "sirahayats-surp-astvatsatsin-manastiri-cnkush"
 description: "## Sirahayats Surp Astvatsatsin Manastırı (Çnkush)..."
 featured_image: ""
 province: "Çüngüş"
-iller: ["Çüngüş"]
+iller: '["Çüngüş"]'
 district: "Çüngüş"
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "39.285,38.209722222"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sirahayats Surp Astvatsatsin Manastırı (Çnkush)

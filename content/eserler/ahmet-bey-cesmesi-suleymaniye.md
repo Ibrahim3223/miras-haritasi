@@ -1,18 +1,17 @@
 ---
-title: "Ahmet Bey Çeşmesi, Süleymaniye | Miras Haritası"
-date: 2025-12-25T12:11:02+03:00
+title: "Ahmet Bey Çeşmesi, Süleymaniye"
+date: "2025-12-25T12:11:02+03:00"
 slug: "ahmet-bey-cesmesi-suleymaniye"
 description: "## Ahmet Bey Çeşmesi: Süleymaniye'nin Yüzyıllardır Bakılan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.961458,41.015745"
-draft: false
-
-weight: 1
+draft: "false"
+weight: "1"
 ---
 
 ## Ahmet Bey Çeşmesi: Süleymaniye'nin Yüzyıllardır Bakılan Çeşmesi

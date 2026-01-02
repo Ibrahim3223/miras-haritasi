@@ -1,18 +1,17 @@
 ---
-title: "Antalya Karatay Medresesi | Miras Haritası"
-date: 2025-12-25T17:36:48+03:00
+title: "Antalya Karatay Medresesi"
+date: "2025-12-25T17:36:48+03:00"
 slug: "antalya-karatay-medresesi"
 description: "**Antalya Karatay Medresesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Antalya_Karatay_Medresesi_in_2011_05.jpg/1200px-Antalya_Karatay_Medresesi_in_2011_05.jpg"
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Muratpaşa"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "30.7045879,36.8856544"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Antalya Karatay Medresesi**

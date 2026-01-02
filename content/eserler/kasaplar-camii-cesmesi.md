@@ -1,18 +1,17 @@
 ---
-title: "Kasaplar Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:28:45+03:00
+title: "Kasaplar Camii Çeşmesi"
+date: "2025-12-25T11:28:45+03:00"
 slug: "kasaplar-camii-cesmesi"
 description: "### Kasaplar Camii Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Karesi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.8810482,39.6432877"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kasaplar Camii Çeşmesi

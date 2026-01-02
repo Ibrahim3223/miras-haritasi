@@ -1,18 +1,17 @@
 ---
-title: "Türbe Höyük | Miras Haritası"
-date: 2025-12-25T08:13:27+03:00
+title: "Türbe Höyük"
+date: "2025-12-25T08:13:27+03:00"
 slug: "turbe-hoyuk"
 description: "## Türbe Höyük: Siirt'in Gizli Mirası..."
 featured_image: ""
-province: "Bitlis Vilayeti"
-iller: ["Bitlis Vilayeti"]
-district: "Siirt"
+province: "Siirt"
+iller: '["Siirt"]'
+district: "Bitlis Vilayeti"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "41.8110008,37.7743988"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Türbe Höyük: Siirt'in Gizli Mirası

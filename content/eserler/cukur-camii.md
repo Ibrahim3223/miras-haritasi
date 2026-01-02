@@ -1,18 +1,17 @@
 ---
-title: "Çukur Camii | Miras Haritası"
-date: 2025-12-25T00:30:15+03:00
+title: "Çukur Camii"
+date: "2025-12-25T00:30:15+03:00"
 slug: "cukur-camii"
 description: "### Çukur Camii: Bursa'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Çukur_camii_bursa_-_panoramio_(6).jpg/1200px-Çukur_camii_bursa_-_panoramio_(6).jpg"
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0603123,40.1784172"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Çukur Camii: Bursa'nın Gizli Cenneti

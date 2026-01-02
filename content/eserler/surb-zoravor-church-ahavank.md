@@ -1,18 +1,17 @@
 ---
-title: "Surb Zoravor Church (Ahavank) | Miras Haritası"
-date: 2025-12-25T08:52:43+03:00
+title: "Surb Zoravor Church (Ahavank)"
+date: "2025-12-25T08:52:43+03:00"
 slug: "surb-zoravor-church-ahavank"
 description: "# Surb Zoravor Church (Ahavank): Van'da Bir Aziz Kilisesi..."
 featured_image: ""
 province: "Van"
-iller: ["Van"]
+iller: '["Van"]'
 district: "Q16367039"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Surb Zoravor Church (Ahavank): Van'da Bir Aziz Kilisesi

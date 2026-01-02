@@ -1,18 +1,17 @@
 ---
-title: "Haydar Baba Türbesi | Miras Haritası"
-date: 2025-12-25T14:34:46+03:00
+title: "Haydar Baba Türbesi"
+date: "2025-12-25T14:34:46+03:00"
 slug: "haydar-baba-turbesi"
 description: "# Haydar Baba Türbesi: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Elmalı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "29.915504,36.7438"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Haydar Baba Türbesi: Antalya'nın Gizli Cenneti

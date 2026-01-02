@@ -1,18 +1,17 @@
 ---
-title: "Köseömer Yediyalak Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:33:55+03:00
+title: "Köseömer Yediyalak Tümülüsü"
+date: "2025-12-25T07:33:55+03:00"
 slug: "koseomer-yediyalak-tumulusu"
 description: "## Köseömer Yediyalak Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9186687,41.5758705"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Köseömer Yediyalak Tümülüsü

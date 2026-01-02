@@ -1,18 +1,17 @@
 ---
-title: "Olympos Piskoposluk Kilisesi | Miras Haritası"
-date: 2025-12-25T09:35:52+03:00
+title: "Olympos Piskoposluk Kilisesi"
+date: "2025-12-25T09:35:52+03:00"
 slug: "olympos-piskoposluk-kilisesi"
 description: "## Olympos Piskoposluk Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: ["Antalya"]
+iller: '["Antalya"]'
 district: "Kumluca"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "30.4737339,36.3965111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Olympos Piskoposluk Kilisesi

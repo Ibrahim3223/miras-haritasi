@@ -1,18 +1,17 @@
 ---
-title: "Çoban Çavuş Camii Haziresi | Miras Haritası"
-date: 2025-12-25T16:07:55+03:00
+title: "Çoban Çavuş Camii Haziresi"
+date: "2025-12-25T16:07:55+03:00"
 slug: "coban-cavus-camii-haziresi"
 description: "## Çoban Çavuş Camii Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9592781,41.0080338"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çoban Çavuş Camii Haziresi

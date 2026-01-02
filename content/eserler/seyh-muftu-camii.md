@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Müftü Camii | Miras Haritası"
-date: 2025-12-25T00:07:22+03:00
+title: "Şeyh Müftü Camii"
+date: "2025-12-25T00:07:22+03:00"
 slug: "seyh-muftu-camii"
 description: "## Şeyh Müftü Camii: Bursa'nın Gizli Çehresinde Bir Önemli Eser..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Mustafakemalpaşa"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.4104137,40.0350761"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Müftü Camii: Bursa'nın Gizli Çehresinde Bir Önemli Eser

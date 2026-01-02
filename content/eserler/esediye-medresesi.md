@@ -1,18 +1,17 @@
 ---
-title: "Esediye Medresesi | Miras Haritası"
-date: 2025-12-25T17:38:38+03:00
+title: "Esediye Medresesi"
+date: "2025-12-25T17:38:38+03:00"
 slug: "esediye-medresesi"
 description: "## Esendiye Medresesi: Bursa'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: ["Bursa"]
+iller: '["Bursa"]'
 district: "Osmangazi"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "29.0624695,40.183754"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esendiye Medresesi: Bursa'nın Tarihî Bir Mirası

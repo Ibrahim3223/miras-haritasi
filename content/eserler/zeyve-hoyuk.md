@@ -1,18 +1,17 @@
 ---
-title: "Zeyve Höyük | Miras Haritası"
-date: 2025-12-25T05:54:22+03:00
+title: "Zeyve Höyük"
+date: "2025-12-25T05:54:22+03:00"
 slug: "zeyve-hoyuk"
 description: "## Zeyve Höyük: Niğde'nin Efsanevi Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Porsuk_Höyük02.jpg/1200px-Porsuk_Höyük02.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Niğde"
+province: "Niğde"
+iller: '["Niğde"]'
+district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "34.57944444,37.51444444"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Zeyve Höyük: Niğde'nin Efsanevi Arkeolojik Sit

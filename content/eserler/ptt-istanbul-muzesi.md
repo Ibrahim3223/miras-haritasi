@@ -1,18 +1,17 @@
 ---
-title: "PTT İstanbul Müzesi | Miras Haritası"
-date: 2025-12-25T03:25:29+03:00
+title: "PTT İstanbul Müzesi"
+date: "2025-12-25T03:25:29+03:00"
 slug: "ptt-istanbul-muzesi"
 description: "## PTT İstanbul Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/İstanbul_Sirkeci_Büyük_Postane_1.JPG/1200px-İstanbul_Sirkeci_Büyük_Postane_1.JPG"
-province: "Fatih"
-iller: ["Fatih"]
-district: "Sirkeci"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "28.97361,41.01485"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## PTT İstanbul Müzesi

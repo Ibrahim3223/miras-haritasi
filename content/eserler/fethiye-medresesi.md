@@ -1,18 +1,17 @@
 ---
-title: "Fethiye Medresesi | Miras Haritası"
-date: 2025-12-25T17:44:35+03:00
+title: "Fethiye Medresesi"
+date: "2025-12-25T17:44:35+03:00"
 slug: "fethiye-medresesi"
 description: "### Fethiye Medresesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Balat"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.945942645,41.029206848"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Fethiye Medresesi: Tarihi ve Kültürel Miras

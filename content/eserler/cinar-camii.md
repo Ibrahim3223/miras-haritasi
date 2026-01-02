@@ -1,18 +1,17 @@
 ---
-title: "Çınar Camii | Miras Haritası"
-date: 2025-12-24T22:51:36+03:00
+title: "Çınar Camii"
+date: "2025-12-24T22:51:36+03:00"
 slug: "cinar-camii"
 description: "## Çınar Camii: İstanbulluların Gözdesi..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İstanbul"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.9338512,41.0042648"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çınar Camii: İstanbulluların Gözdesi

@@ -1,18 +1,17 @@
 ---
-title: "Ertuğrul Bey Camii | Miras Haritası"
-date: 2025-12-24T23:00:43+03:00
+title: "Ertuğrul Bey Camii"
+date: "2025-12-24T23:00:43+03:00"
 slug: "ertugrul-bey-camii"
 description: "## Ertuğrul Bey Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Bursa"
+province: "Bursa"
+iller: '["Bursa"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "29.0628262,40.1856918"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ertuğrul Bey Camii

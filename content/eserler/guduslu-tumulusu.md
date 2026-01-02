@@ -1,18 +1,17 @@
 ---
-title: "Güdüşlü Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:41:52+03:00
+title: "Güdüşlü Tümülüsü"
+date: "2025-12-25T07:41:52+03:00"
 slug: "guduslu-tumulusu"
 description: "**Güdüşlü Tümülüsü**..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Koçarlı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.6214008,37.7711983"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Güdüşlü Tümülüsü**

@@ -1,18 +1,17 @@
 ---
-title: "Aya Andreas Kilisesi | Miras Haritası"
-date: 2025-12-25T09:14:04+03:00
+title: "Aya Andreas Kilisesi"
+date: "2025-12-25T09:14:04+03:00"
 slug: "aya-andreas-kilisesi"
 description: "### Aya Andreas Kilisesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.978865,41.024625"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aya Andreas Kilisesi: İstanbul'un Tarihi ve Kültürel Mirası

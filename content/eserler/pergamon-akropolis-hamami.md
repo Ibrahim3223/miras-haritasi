@@ -1,18 +1,17 @@
 ---
-title: "Pergamon Akropolis Hamamı | Miras Haritası"
-date: 2025-12-25T16:55:42+03:00
+title: "Pergamon Akropolis Hamamı"
+date: "2025-12-25T16:55:42+03:00"
 slug: "pergamon-akropolis-hamami"
 description: "## Pergamon Akropolis Hamamı: Bergama'da Bir Antik Miras..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.1832542,39.1293068"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pergamon Akropolis Hamamı: Bergama'da Bir Antik Miras

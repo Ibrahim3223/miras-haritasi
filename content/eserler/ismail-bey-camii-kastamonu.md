@@ -1,18 +1,17 @@
 ---
-title: "İsmail Bey Camii, Kastamonu | Miras Haritası"
-date: 2025-12-24T23:21:53+03:00
+title: "İsmail Bey Camii, Kastamonu"
+date: "2025-12-24T23:21:53+03:00"
 slug: "ismail-bey-camii-kastamonu"
 description: "### İsmail Bey Camii, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: ["Kastamonu"]
+iller: '["Kastamonu"]'
 district: "Kastamonu"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "33.7775917,41.3837433"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### İsmail Bey Camii, Kastamonu

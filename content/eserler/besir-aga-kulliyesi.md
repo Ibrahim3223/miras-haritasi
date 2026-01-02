@@ -1,18 +1,17 @@
 ---
-title: "Beşir Ağa Külliyesi | Miras Haritası"
-date: 2025-12-24T22:01:25+03:00
+title: "Beşir Ağa Külliyesi"
+date: "2025-12-24T22:01:25+03:00"
 slug: "besir-aga-kulliyesi"
 description: "## Beşir Ağa Külliyesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Besir_Aga_Mosque_DSCF4982.jpg/1200px-Besir_Aga_Mosque_DSCF4982.jpg"
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.977108,41.010853"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Beşir Ağa Külliyesi: Tarihi ve Kültürel Mirasımız

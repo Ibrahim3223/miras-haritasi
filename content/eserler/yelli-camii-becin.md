@@ -1,18 +1,17 @@
 ---
-title: "Yelli Camii, Beçin | Miras Haritası"
-date: 2025-12-25T00:54:36+03:00
+title: "Yelli Camii, Beçin"
+date: "2025-12-25T00:54:36+03:00"
 slug: "yelli-camii-becin"
 description: "## Yelli Camii: Beçin'in Tarihi Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.7921162,37.2698097"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yelli Camii: Beçin'in Tarihi Anıtı

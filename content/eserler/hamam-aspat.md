@@ -1,18 +1,17 @@
 ---
-title: "Hamam, Aspat | Miras Haritası"
-date: 2025-12-25T17:06:37+03:00
+title: "Hamam, Aspat"
+date: "2025-12-25T17:06:37+03:00"
 slug: "hamam-aspat"
 description: "## Bodrum'da Aspat Hamamı: Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Bodrum"
 type: "Hamam"
-turler: ["Hamam"]
+turler: '["Hamam"]'
 coords: "27.3134499,36.9808502"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Bodrum'da Aspat Hamamı: Bir Geçmişin İzleri

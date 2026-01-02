@@ -1,18 +1,17 @@
 ---
-title: "Tayfun Talipoğlu Daktilo Müzesi | Miras Haritası"
-date: 2025-12-25T03:27:44+03:00
+title: "Tayfun Talipoğlu Daktilo Müzesi"
+date: "2025-12-25T03:27:44+03:00"
 slug: "tayfun-talipoglu-daktilo-muzesi"
 description: "## Tayfun Talipoğlu Daktilo Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tayfun_Talipoğlu_wax_sculpture.jpg/1200px-Tayfun_Talipoğlu_wax_sculpture.jpg"
 province: "Eskişehir"
-iller: ["Eskişehir"]
+iller: '["Eskişehir"]'
 district: "Odunpazarı"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "30.52472222,39.76222222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Tayfun Talipoğlu Daktilo Müzesi

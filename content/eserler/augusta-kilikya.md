@@ -1,18 +1,17 @@
 ---
-title: "Augusta (Kilikya) | Miras Haritası"
-date: 2025-12-25T04:59:37+03:00
+title: "Augusta (Kilikya)"
+date: "2025-12-25T04:59:37+03:00"
 slug: "augusta-kilikya"
 description: "### Augusta (Kilikya)..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.344087,37.245212"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Augusta (Kilikya)

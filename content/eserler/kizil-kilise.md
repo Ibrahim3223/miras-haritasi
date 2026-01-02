@@ -1,18 +1,17 @@
 ---
-title: "Kızıl Kilise | Miras Haritası"
-date: 2025-12-25T08:49:46+03:00
+title: "Kızıl Kilise"
+date: "2025-12-25T08:49:46+03:00"
 slug: "kizil-kilise"
 description: "## Kızıl Kilise: Güzelyurt'taki Tarihi Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kızıl_kilise.jpg/1200px-Kızıl_kilise.jpg"
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Güzelyurt"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.4284989,38.2598295"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Kızıl Kilise: Güzelyurt'taki Tarihi Bir Miras

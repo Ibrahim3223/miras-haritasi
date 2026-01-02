@@ -1,18 +1,17 @@
 ---
-title: "Şeyh Hasan Türbesi | Miras Haritası"
-date: 2025-12-25T14:53:35+03:00
+title: "Şeyh Hasan Türbesi"
+date: "2025-12-25T14:53:35+03:00"
 slug: "seyh-hasan-turbesi"
 description: "## Şeyh Hasan Türbesi..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Aybastı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.44416,40.702332"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şeyh Hasan Türbesi

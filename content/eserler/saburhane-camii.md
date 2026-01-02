@@ -1,18 +1,17 @@
 ---
-title: "Saburhane Camii | Miras Haritası"
-date: 2025-12-24T21:42:46+03:00
+title: "Saburhane Camii"
+date: "2025-12-24T21:42:46+03:00"
 slug: "saburhane-camii"
 description: "## Saburhane Camii..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Menteşe"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.370916666,37.219666666"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saburhane Camii

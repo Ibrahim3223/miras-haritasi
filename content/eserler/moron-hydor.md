@@ -1,18 +1,17 @@
 ---
-title: "Moron Hydor | Miras Haritası"
-date: 2025-12-25T05:43:54+03:00
+title: "Moron Hydor"
+date: "2025-12-25T05:43:54+03:00"
 slug: "moron-hydor"
 description: "## Moron Hydor: Bir Arkeolojik Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "30.464609,36.299759"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Moron Hydor: Bir Arkeolojik Harikası

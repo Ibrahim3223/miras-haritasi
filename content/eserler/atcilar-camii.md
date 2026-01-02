@@ -1,18 +1,17 @@
 ---
-title: "Atçılar Camii | Miras Haritası"
-date: 2025-12-24T22:15:21+03:00
+title: "Atçılar Camii"
+date: "2025-12-24T22:15:21+03:00"
 slug: "atcilar-camii"
 description: "## Atçılar Camii..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
+province: ""
+iller: '[""]'
 district: "İzmir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.1987,38.9068985"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Atçılar Camii

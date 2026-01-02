@@ -1,18 +1,17 @@
 ---
-title: "Hanife Hatun Camii | Miras Haritası"
-date: 2025-12-24T23:31:30+03:00
+title: "Hanife Hatun Camii"
+date: "2025-12-24T23:31:30+03:00"
 slug: "hanife-hatun-camii"
 description: "**Hanife Hatun Camii: Merzifon'un Gizli Cenneti**..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: ["Merzifon İlçesi"]
+iller: '["Merzifon İlçesi"]'
 district: "Merzifon"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.4687805,40.875"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Hanife Hatun Camii: Merzifon'un Gizli Cenneti**

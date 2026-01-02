@@ -1,18 +1,17 @@
 ---
-title: "Hasbek Kadı Kümbeti | Miras Haritası"
-date: 2025-12-25T13:58:30+03:00
+title: "Hasbek Kadı Kümbeti"
+date: "2025-12-25T13:58:30+03:00"
 slug: "hasbek-kadi-kumbeti"
 description: "## Hasbek Kadı Kümbeti: Kayseri'nin Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Kocasinan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.4820109,38.7227932"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hasbek Kadı Kümbeti: Kayseri'nin Tarihî Bir Anıtı

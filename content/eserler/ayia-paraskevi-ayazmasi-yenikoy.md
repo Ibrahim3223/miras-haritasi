@@ -1,18 +1,17 @@
 ---
-title: "Ayia Paraskevi Ayazması, Yeniköy | Miras Haritası"
-date: 2025-12-25T12:41:34+03:00
+title: "Ayia Paraskevi Ayazması, Yeniköy"
+date: "2025-12-25T12:41:34+03:00"
 slug: "ayia-paraskevi-ayazmasi-yenikoy"
 description: "### Ayia Paraskevi Ayazması, Yeniköy..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Sarıyer"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0637646,41.1225395"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ayia Paraskevi Ayazması, Yeniköy

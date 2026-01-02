@@ -1,18 +1,17 @@
 ---
-title: "Hacı Mehmet Ağa Çeşmesi | Miras Haritası"
-date: 2025-12-25T12:21:59+03:00
+title: "Hacı Mehmet Ağa Çeşmesi"
+date: "2025-12-25T12:21:59+03:00"
 slug: "haci-mehmet-aga-cesmesi"
 description: "## Hacı Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3062477,38.321949"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Hacı Mehmet Ağa Çeşmesi

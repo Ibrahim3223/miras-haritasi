@@ -1,18 +1,17 @@
 ---
-title: "Kadırga Meydan Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:35:15+03:00
+title: "Kadırga Meydan Çeşmesi"
+date: "2025-12-25T10:35:15+03:00"
 slug: "kadirga-meydan-cesmesi"
 description: "## Kadırga Meydan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.969421,41.005161"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kadırga Meydan Çeşmesi

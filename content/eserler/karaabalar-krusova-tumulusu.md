@@ -1,18 +1,17 @@
 ---
-title: "Karaabalar Kruşova Tümülüsü | Miras Haritası"
-date: 2025-12-25T07:44:07+03:00
+title: "Karaabalar Kruşova Tümülüsü"
+date: "2025-12-25T07:44:07+03:00"
 slug: "karaabalar-krusova-tumulusu"
 description: "## Karaabalar Kruşova Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: ["Kırklareli"]
+iller: '["Kırklareli"]'
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.3023987,42.0425644"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Karaabalar Kruşova Tümülüsü

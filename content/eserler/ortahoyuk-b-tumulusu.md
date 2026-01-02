@@ -1,18 +1,17 @@
 ---
-title: "Ortahöyük B Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:00:11+03:00
+title: "Ortahöyük B Tümülüsü"
+date: "2025-12-25T08:00:11+03:00"
 slug: "ortahoyuk-b-tumulusu"
 description: "# Ortahöyük B Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: ["Edirne"]
+iller: '["Edirne"]'
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "26.9110851,41.7550354"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Ortahöyük B Tümülüsü

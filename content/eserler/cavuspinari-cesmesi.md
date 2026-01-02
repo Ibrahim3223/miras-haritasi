@@ -1,18 +1,17 @@
 ---
-title: "Çavuşpınarı Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:17:33+03:00
+title: "Çavuşpınarı Çeşmesi"
+date: "2025-12-25T10:17:33+03:00"
 slug: "cavuspinari-cesmesi"
 description: "## Çavuşpınarı Çeşmesi: Şebinkarahisar'ın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: ["Giresun"]
+iller: '["Giresun"]'
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "38.4347382,40.3271523"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çavuşpınarı Çeşmesi: Şebinkarahisar'ın Tarihî Bir Çeşmesi

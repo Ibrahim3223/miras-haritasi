@@ -1,18 +1,17 @@
 ---
-title: "Yedikule Kapısı İsimsiz Şehit Kabri | Miras Haritası"
-date: 2025-12-25T14:00:15+03:00
+title: "Yedikule Kapısı İsimsiz Şehit Kabri"
+date: "2025-12-25T14:00:15+03:00"
 slug: "yedikule-kapisi-isimsiz-sehit-kabri"
 description: "## Yedikule Kapısı İsimsiz Şehit Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9222088,40.9940796"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yedikule Kapısı İsimsiz Şehit Kabri

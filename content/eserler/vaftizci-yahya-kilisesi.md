@@ -1,18 +1,17 @@
 ---
-title: "Vaftizci Yahya Kilisesi | Miras Haritası"
-date: 2025-12-25T09:33:56+03:00
+title: "Vaftizci Yahya Kilisesi"
+date: "2025-12-25T09:33:56+03:00"
 slug: "vaftizci-yahya-kilisesi"
 description: "## Vaftizci Yahya Kilisesi: Avanos'un Kutsal Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Avanos"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "34.842948,38.667169"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Vaftizci Yahya Kilisesi: Avanos'un Kutsal Mirası

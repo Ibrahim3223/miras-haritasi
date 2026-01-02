@@ -1,18 +1,17 @@
 ---
-title: "Tataleti Kilisesi | Miras Haritası"
-date: 2025-12-25T08:59:41+03:00
+title: "Tataleti Kilisesi"
+date: "2025-12-25T08:59:41+03:00"
 slug: "tataleti-kilisesi"
 description: "## Tataleti Kilisesi: Eski Çağın Gizemi..."
 featured_image: ""
 province: "Çıldır"
-iller: ["Çıldır"]
+iller: '["Çıldır"]'
 district: "Baltalı"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "43.118972222,41.332805555"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tataleti Kilisesi: Eski Çağın Gizemi

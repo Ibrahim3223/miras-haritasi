@@ -1,18 +1,17 @@
 ---
-title: "Paşa Baba Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:19:54+03:00
+title: "Paşa Baba Çeşmesi"
+date: "2025-12-25T11:19:54+03:00"
 slug: "pasa-baba-cesmesi"
 description: "## Paşa Baba Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Paşa_Baba_Fountain.jpg/1200px-Paşa_Baba_Fountain.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.983855,41.033132"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Paşa Baba Çeşmesi

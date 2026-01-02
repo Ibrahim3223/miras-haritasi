@@ -1,18 +1,17 @@
 ---
-title: "Belören Köyü Çeşmesi, Çankırı | Miras Haritası"
-date: 2025-12-25T12:31:53+03:00
+title: "Belören Köyü Çeşmesi, Çankırı"
+date: "2025-12-25T12:31:53+03:00"
 slug: "beloren-koyu-cesmesi-cankiri"
 description: "# Belören Köyü Çeşmesi: Çankırı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Ilgaz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.495165744,40.861690887"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Belören Köyü Çeşmesi: Çankırı'nın Gizli Çeşmesi

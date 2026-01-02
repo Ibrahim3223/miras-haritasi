@@ -1,18 +1,17 @@
 ---
-title: "Şeytan Deresi | Miras Haritası"
-date: 2025-12-25T05:41:39+03:00
+title: "Şeytan Deresi"
+date: "2025-12-25T05:41:39+03:00"
 slug: "seytan-deresi"
 description: "# Şeytan Deresi Arkeolojik Sit..."
 featured_image: ""
 province: "Aydın"
-iller: ["Aydın"]
+iller: '["Aydın"]'
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0216389,37.5530167"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Şeytan Deresi Arkeolojik Sit

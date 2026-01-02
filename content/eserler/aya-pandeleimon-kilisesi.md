@@ -1,18 +1,17 @@
 ---
-title: "Aya Pandeleimon Kilisesi | Miras Haritası"
-date: 2025-12-25T09:40:22+03:00
+title: "Aya Pandeleimon Kilisesi"
+date: "2025-12-25T09:40:22+03:00"
 slug: "aya-pandeleimon-kilisesi"
 description: "**Aya Pandeleimon Kilisesi: İstanbul'un Gizli Cenneti**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beyoğlu"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "28.9784832,41.0247841"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Aya Pandeleimon Kilisesi: İstanbul'un Gizli Cenneti**

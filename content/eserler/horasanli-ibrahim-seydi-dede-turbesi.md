@@ -1,18 +1,17 @@
 ---
-title: "Horasanlı İbrahim Seydi Dede Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:55+03:00
+title: "Horasanlı İbrahim Seydi Dede Türbesi"
+date: "2025-12-25T14:50:55+03:00"
 slug: "horasanli-ibrahim-seydi-dede-turbesi"
 description: "## Horasanlı İbrahim Seydi Dede Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Şehzadeler"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "27.4297504,38.6085052"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Horasanlı İbrahim Seydi Dede Türbesi

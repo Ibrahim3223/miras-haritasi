@@ -1,18 +1,17 @@
 ---
-title: "Kaymakam Çeşmesi, Çeşme | Miras Haritası"
-date: 2025-12-25T12:19:54+03:00
+title: "Kaymakam Çeşmesi, Çeşme"
+date: "2025-12-25T12:19:54+03:00"
 slug: "kaymakam-cesmesi-cesme"
 description: "## Kaymakam Çeşmesi: Çeşme'nin Tarihi Ve Çeşme'nin Kalbinde Yatan Değer..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Çeşme"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "26.3030815,38.3189125"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kaymakam Çeşmesi: Çeşme'nin Tarihi Ve Çeşme'nin Kalbinde Yatan Değer

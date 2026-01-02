@@ -1,18 +1,17 @@
 ---
-title: "Lala Paşa Camii | Miras Haritası"
-date: 2025-12-24T23:21:33+03:00
+title: "Lala Paşa Camii"
+date: "2025-12-24T23:21:33+03:00"
 slug: "lala-pasa-camii"
 description: "## Lala Paşa Camii..."
 featured_image: ""
 province: "Manisa"
-iller: ["Manisa"]
+iller: '["Manisa"]'
 district: "Yunusemre"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.419054,38.6061821"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Lala Paşa Camii

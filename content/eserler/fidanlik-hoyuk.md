@@ -1,18 +1,17 @@
 ---
-title: "Fidanlık Höyük | Miras Haritası"
-date: 2025-12-25T06:01:58+03:00
+title: "Fidanlık Höyük"
+date: "2025-12-25T06:01:58+03:00"
 slug: "fidanlik-hoyuk"
 description: "# Fidanlık Höyük: Çankırı'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "33.6042671,40.6452827"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Fidanlık Höyük: Çankırı'nın Gizli Kahramanı

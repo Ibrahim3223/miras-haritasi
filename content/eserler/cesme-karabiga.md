@@ -1,18 +1,17 @@
 ---
-title: "Çeşme, Karabiga | Miras Haritası"
-date: 2025-12-25T12:34:44+03:00
+title: "Çeşme, Karabiga"
+date: "2025-12-25T12:34:44+03:00"
 slug: "cesme-karabiga"
 description: "## Çeşme, Karabiga: Biga'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.303755792,40.402885119"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çeşme, Karabiga: Biga'nın Tarihi Bir Çeşmesi

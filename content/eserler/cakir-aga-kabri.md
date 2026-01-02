@@ -1,18 +1,17 @@
 ---
-title: "Çakır Ağa Kabri | Miras Haritası"
-date: 2025-12-25T14:00:07+03:00
+title: "Çakır Ağa Kabri"
+date: "2025-12-25T14:00:07+03:00"
 slug: "cakir-aga-kabri"
 description: "## Çakır Ağa Kabri: İstanbul'un Tarihi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9389191,41.0325737"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Çakır Ağa Kabri: İstanbul'un Tarihi Mirası

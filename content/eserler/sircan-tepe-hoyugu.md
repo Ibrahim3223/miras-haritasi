@@ -1,18 +1,17 @@
 ---
-title: "Sırçan Tepe Höyüğü | Miras Haritası"
-date: 2025-12-25T07:07:35+03:00
+title: "Sırçan Tepe Höyüğü"
+date: "2025-12-25T07:07:35+03:00"
 slug: "sircan-tepe-hoyugu"
 description: "### Sırçan Tepe Höyüğü: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Sırçan Tepe Höyüğü: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi

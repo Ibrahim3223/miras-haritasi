@@ -1,18 +1,17 @@
 ---
-title: "Kırklareli Müzesi | Miras Haritası"
-date: 2025-12-25T03:11:52+03:00
+title: "Kırklareli Müzesi"
+date: "2025-12-25T03:11:52+03:00"
 slug: "kirklareli-muzesi"
 description: "### Kırklareli Müzesi: Tarih, Kültür ve Sanatın Kaynağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/KırklareliMuseum_(1).JPG/1200px-KırklareliMuseum_(1).JPG"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kırklareli"
+province: "Kırklareli"
+iller: '["Kırklareli"]'
+district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.224722222,41.733611111"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Kırklareli Müzesi: Tarih, Kültür ve Sanatın Kaynağı

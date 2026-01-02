@@ -1,18 +1,17 @@
 ---
-title: "Yenikapı Batıkları | Miras Haritası"
-date: 2025-12-25T08:33:38+03:00
+title: "Yenikapı Batıkları"
+date: "2025-12-25T08:33:38+03:00"
 slug: "yenikapi-batiklari"
 description: "### Yenikapı Batıkları..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "Aksaray"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.9521389,41.0061188"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yenikapı Batıkları

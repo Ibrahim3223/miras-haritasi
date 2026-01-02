@@ -1,18 +1,17 @@
 ---
-title: "Demircili Çifte Anıt Mezar | Miras Haritası"
-date: 2025-12-25T14:10:37+03:00
+title: "Demircili Çifte Anıt Mezar"
+date: "2025-12-25T14:10:37+03:00"
 slug: "demircili-cifte-anit-mezar"
 description: "### Demircili Çifte Anıt Mezar: Silifke'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Mersin"
-iller: ["Mersin"]
+iller: '["Mersin"]'
 district: "Silifke"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "33.9565239,36.445755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Demircili Çifte Anıt Mezar: Silifke'nin Gizli Çiçeği

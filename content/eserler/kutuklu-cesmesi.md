@@ -1,18 +1,17 @@
 ---
-title: "Kütüklü Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:49:44+03:00
+title: "Kütüklü Çeşmesi"
+date: "2025-12-25T10:49:44+03:00"
 slug: "kutuklu-cesmesi"
 description: "## Kütüklü Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: ["Nevşehir"]
+iller: '["Nevşehir"]'
 district: "Nevşehir"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "34.7084579,38.6215515"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Kütüklü Çeşmesi

@@ -1,18 +1,17 @@
 ---
-title: "Aşağıdemirci Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:17:06+03:00
+title: "Aşağıdemirci Köyü Camii"
+date: "2025-12-25T00:17:06+03:00"
 slug: "asagidemirci-koyu-camii"
 description: "## Aşağıdemirci Köyü Camii: Biga'nın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: ["Çanakkale"]
+iller: '["Çanakkale"]'
 district: "Biga"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "27.3718719,40.2446327"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Aşağıdemirci Köyü Camii: Biga'nın Tarihi Bir Anıtı

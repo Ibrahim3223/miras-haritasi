@@ -1,18 +1,17 @@
 ---
-title: "Limne | Miras Haritası"
-date: 2025-12-25T05:18:19+03:00
+title: "Limne"
+date: "2025-12-25T05:18:19+03:00"
 slug: "limne"
 description: "## Limne: Türkiye'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "http://www.wikidata.org/.well-known/genid/dafaceef8bc7421cfe83b313c443f3e3"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Limne: Türkiye'nin Gizli Arkeolojik Harikası

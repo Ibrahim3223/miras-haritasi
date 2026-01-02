@@ -1,18 +1,17 @@
 ---
-title: "Esat Muhlis Camii | Miras Haritası"
-date: 2025-12-24T22:59:47+03:00
+title: "Esat Muhlis Camii"
+date: "2025-12-24T22:59:47+03:00"
 slug: "esat-muhlis-camii"
 description: "## Esat Muhlis Camii..."
 featured_image: ""
 province: "Erzincan"
-iller: ["Erzincan"]
+iller: '["Erzincan"]'
 district: "Refahiye"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.7675896,39.8997993"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Esat Muhlis Camii

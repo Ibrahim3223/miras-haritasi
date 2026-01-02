@@ -1,18 +1,17 @@
 ---
-title: "Çankırıkapı Köprüsü | Miras Haritası"
-date: 2025-12-25T01:57:34+03:00
+title: "Çankırıkapı Köprüsü"
+date: "2025-12-25T01:57:34+03:00"
 slug: "cankirikapi-koprusu"
 description: "### Çankırıkapı Köprüsü: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: ["Ankara"]
+iller: '["Ankara"]'
 district: "Altındağ"
 type: "Köprü"
-turler: ["Köprü"]
+turler: '["Köprü"]'
 coords: "32.850195424,39.945179057"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Çankırıkapı Köprüsü: Ankara'nın Tarihi Bir Mirası

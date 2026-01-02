@@ -1,18 +1,17 @@
 ---
-title: "Çeşme – Talatpaşa, Zafer Sokak, 34 | Miras Haritası"
-date: 2025-12-25T12:50:39+03:00
+title: "Çeşme – Talatpaşa, Zafer Sokak, 34"
+date: "2025-12-25T12:50:39+03:00"
 slug: "cesme-talatpasa-zafer-sokak-34"
 description: "# Çeşme – Talatpaşa, Zafer Sokak, 34: Bergama'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Bergama"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "27.1830006,39.1245003"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Çeşme – Talatpaşa, Zafer Sokak, 34: Bergama'nın Tarihi Bir Çeşmesi

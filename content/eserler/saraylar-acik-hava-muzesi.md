@@ -1,18 +1,17 @@
 ---
-title: "Saraylar Açık Hava Müzesi | Miras Haritası"
-date: 2025-12-25T03:37:07+03:00
+title: "Saraylar Açık Hava Müzesi"
+date: "2025-12-25T03:37:07+03:00"
 slug: "saraylar-acik-hava-muzesi"
 description: "## Saraylar Açık Hava Müzesi: Balıkesir'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Marmara"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.653511,40.6531334"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Saraylar Açık Hava Müzesi: Balıkesir'in Gizli Cenneti

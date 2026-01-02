@@ -1,18 +1,17 @@
 ---
-title: "Emin Efendi Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:16:59+03:00
+title: "Emin Efendi Çeşmesi"
+date: "2025-12-25T11:16:59+03:00"
 slug: "emin-efendi-cesmesi"
 description: "## Emin Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9302788,41.0461159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Emin Efendi Çeşmesi

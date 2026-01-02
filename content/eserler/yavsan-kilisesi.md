@@ -1,18 +1,17 @@
 ---
-title: "Yavşan Kilisesi | Miras Haritası"
-date: 2025-12-25T09:46:01+03:00
+title: "Yavşan Kilisesi"
+date: "2025-12-25T09:46:01+03:00"
 slug: "yavsan-kilisesi"
 description: "## Yavşan Kilisesi: Mesudiye'nin Gizli Çehresinin Bir Parçası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Mesudiye"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "37.917484,40.460261"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yavşan Kilisesi: Mesudiye'nin Gizli Çehresinin Bir Parçası

@@ -1,18 +1,17 @@
 ---
-title: "Şarkışla Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:06:50+03:00
+title: "Şarkışla Ulu Camii"
+date: "2025-12-24T22:06:50+03:00"
 slug: "sarkisla-ulu-camii"
 description: "**Şarkışla Ulu Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Şarkışla_Ulu_Cami.jpg/1200px-Şarkışla_Ulu_Cami.jpg"
 province: "Sivas"
-iller: ["Sivas"]
+iller: '["Sivas"]'
 district: "Şarkışla"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "36.408055555,39.352555555"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 **Şarkışla Ulu Camii**

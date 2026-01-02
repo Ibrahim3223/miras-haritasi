@@ -1,18 +1,17 @@
 ---
-title: "Şanlıurfa Kurtuluş Müzesi | Miras Haritası"
-date: 2025-12-25T03:58:07+03:00
+title: "Şanlıurfa Kurtuluş Müzesi"
+date: "2025-12-25T03:58:07+03:00"
 slug: "sanliurfa-kurtulus-muzesi"
 description: "## Şanlıurfa Kurtuluş Müzesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: ["Şanlıurfa"]
+iller: '["Şanlıurfa"]'
 district: "Haliliye"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "38.788098,37.157948"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şanlıurfa Kurtuluş Müzesi

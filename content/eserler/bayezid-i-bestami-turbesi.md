@@ -1,18 +1,17 @@
 ---
-title: "Bayezid-i Bestami Türbesi | Miras Haritası"
-date: 2025-12-25T14:17:30+03:00
+title: "Bayezid-i Bestami Türbesi"
+date: "2025-12-25T14:17:30+03:00"
 slug: "bayezid-i-bestami-turbesi"
 description: "### Bayezid-i Bestami Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hatay_Kırıkhan_Bayezid-_i_Bestami_Türbesi.jpg/1200px-Hatay_Kırıkhan_Bayezid-_i_Bestami_Türbesi.jpg"
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: ["Fransız Suriye ve Lübnan Mandası"]
+iller: '["Fransız Suriye ve Lübnan Mandası"]'
 district: "Kırıkhan"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "36.3646,36.5315"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Bayezid-i Bestami Türbesi

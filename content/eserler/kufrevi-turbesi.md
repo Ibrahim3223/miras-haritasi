@@ -1,18 +1,17 @@
 ---
-title: "Küfrevi Türbesi | Miras Haritası"
-date: 2025-12-25T15:14:32+03:00
+title: "Küfrevi Türbesi"
+date: "2025-12-25T15:14:32+03:00"
 slug: "kufrevi-turbesi"
 description: "### Küfrevi Türbesi: Bitlis'in Gizli Değerleri..."
 featured_image: ""
 province: "Bitlis"
-iller: ["Bitlis"]
+iller: '["Bitlis"]'
 district: "Bitlis"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "42.1108,38.4015"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Küfrevi Türbesi: Bitlis'in Gizli Değerleri

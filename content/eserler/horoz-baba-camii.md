@@ -1,18 +1,17 @@
 ---
-title: "Horoz Baba Camii | Miras Haritası"
-date: 2025-12-24T23:33:59+03:00
+title: "Horoz Baba Camii"
+date: "2025-12-24T23:33:59+03:00"
 slug: "horoz-baba-camii"
 description: "### Aksaray'da Bir Rönesans: Horoz Baba Camii..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.0282745,38.3778076"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Aksaray'da Bir Rönesans: Horoz Baba Camii

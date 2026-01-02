@@ -1,18 +1,17 @@
 ---
-title: "Yeşilyayla Tümülüsü, Merkezefendi | Miras Haritası"
-date: 2025-12-25T07:53:39+03:00
+title: "Yeşilyayla Tümülüsü, Merkezefendi"
+date: "2025-12-25T07:53:39+03:00"
 slug: "yesilyayla-tumulusu-merkezefendi"
 description: "## Yeşilyayla Tümülüsü: Merkezefendi'nin Gizli Anıtı..."
 featured_image: ""
 province: "Denizli"
-iller: ["Denizli"]
+iller: '["Denizli"]'
 district: "Merkezefendi"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "29.0006008,37.8698006"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yeşilyayla Tümülüsü: Merkezefendi'nin Gizli Anıtı

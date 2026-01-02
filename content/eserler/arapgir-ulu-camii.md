@@ -1,18 +1,17 @@
 ---
-title: "Arapgir Ulu Camii | Miras Haritası"
-date: 2025-12-24T22:04:49+03:00
+title: "Arapgir Ulu Camii"
+date: "2025-12-24T22:04:49+03:00"
 slug: "arapgir-ulu-camii"
 description: "### Arapgir Ulu Camii: Bir Tarihi Mirasın Tanıtımı..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: ["Mamuret-ul-Aziz Vilayeti"]
+iller: '["Mamuret-ul-Aziz Vilayeti"]'
 district: "Arapgir"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "38.479305555,39.062111111"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arapgir Ulu Camii: Bir Tarihi Mirasın Tanıtımı

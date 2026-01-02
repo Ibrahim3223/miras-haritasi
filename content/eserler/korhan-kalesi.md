@@ -1,18 +1,17 @@
 ---
-title: "Korhan Kalesi | Miras Haritası"
-date: 2025-12-25T01:41:41+03:00
+title: "Korhan Kalesi"
+date: "2025-12-25T01:41:41+03:00"
 slug: "korhan-kalesi"
 description: "## Korhan Kalesi: Iğdır'ın Gizli Tarihi..."
 featured_image: ""
-province: "Sürmeli uyezdi"
-iller: ["Sürmeli uyezdi"]
-district: "Iğdır"
+province: "Iğdır"
+iller: '["Iğdır"]'
+district: "Sürmeli uyezdi"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "44.2501526,39.7954254"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Korhan Kalesi: Iğdır'ın Gizli Tarihi

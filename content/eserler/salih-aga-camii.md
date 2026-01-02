@@ -1,18 +1,17 @@
 ---
-title: "Salih Ağa Camii | Miras Haritası"
-date: 2025-12-24T22:43:47+03:00
+title: "Salih Ağa Camii"
+date: "2025-12-24T22:43:47+03:00"
 slug: "salih-aga-camii"
 description: "## Salih Ağa Camii..."
 featured_image: ""
 province: "Aksaray"
-iller: ["Aksaray"]
+iller: '["Aksaray"]'
 district: "Aksaray"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "34.025322,38.3749809"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Salih Ağa Camii

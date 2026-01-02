@@ -1,18 +1,17 @@
 ---
-title: "Seyyid Paşa Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:38:47+03:00
+title: "Seyyid Paşa Çeşmesi"
+date: "2025-12-25T10:38:47+03:00"
 slug: "seyyid-pasa-cesmesi"
 description: "## Seyyid Paşa Çeşmesi: Kadıköy'de Bir Tarihsel Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0840015,40.9704132"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Seyyid Paşa Çeşmesi: Kadıköy'de Bir Tarihsel Çeşme

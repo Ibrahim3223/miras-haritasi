@@ -1,18 +1,17 @@
 ---
-title: "Gönen Mozaik ve Açık Hava Müzesi | Miras Haritası"
-date: 2025-12-25T03:21:33+03:00
+title: "Gönen Mozaik ve Açık Hava Müzesi"
+date: "2025-12-25T03:21:33+03:00"
 slug: "gonen-mozaik-ve-acik-hava-muzesi"
 description: "## Gönen Mozaik ve Açık Hava Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: ["Balıkesir"]
+iller: '["Balıkesir"]'
 district: "Gönen"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.6503773,40.1100159"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Gönen Mozaik ve Açık Hava Müzesi

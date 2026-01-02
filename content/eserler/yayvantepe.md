@@ -1,18 +1,17 @@
 ---
-title: "Yayvantepe | Miras Haritası"
-date: 2025-12-25T13:50:10+03:00
+title: "Yayvantepe"
+date: "2025-12-25T13:50:10+03:00"
 slug: "yayvantepe"
 description: "## Yayvantepe: Tarihî Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: ["Diyarbakır"]
+iller: '["Diyarbakır"]'
 district: "Ergani"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "39.7568413,38.2177962"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Yayvantepe: Tarihî Bir Anıtın Gizemi

@@ -1,18 +1,17 @@
 ---
-title: "Peynirli Camii Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:52:13+03:00
+title: "Peynirli Camii Çeşmesi"
+date: "2025-12-25T10:52:13+03:00"
 slug: "peynirli-camii-cesmesi"
 description: "### Peynirli Camii Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.4793587,38.715519"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Peynirli Camii Çeşmesi

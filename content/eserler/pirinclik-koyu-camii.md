@@ -1,18 +1,17 @@
 ---
-title: "Pirinçlik Köyü Camii | Miras Haritası"
-date: 2025-12-25T00:34:34+03:00
+title: "Pirinçlik Köyü Camii"
+date: "2025-12-25T00:34:34+03:00"
 slug: "pirinclik-koyu-camii"
 description: "## Pirinçlik Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: ["Rize"]
+iller: '["Rize"]'
 district: "Ardeşen"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "41.001580357,41.164478582"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Pirinçlik Köyü Camii

@@ -1,18 +1,17 @@
 ---
-title: "İğdeli Köyü Kalesi | Miras Haritası"
-date: 2025-12-25T01:35:27+03:00
+title: "İğdeli Köyü Kalesi"
+date: "2025-12-25T01:35:27+03:00"
 slug: "igdeli-koyu-kalesi"
 description: "## İğdeli Köyü Kalesi..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Oltu"
 type: "Kale"
-turler: ["Kale"]
+turler: '["Kale"]'
 coords: "41.839489,40.554136"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İğdeli Köyü Kalesi

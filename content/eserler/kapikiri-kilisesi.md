@@ -1,18 +1,17 @@
 ---
-title: "Kapıkırı Kilisesi | Miras Haritası"
-date: 2025-12-25T09:22:15+03:00
+title: "Kapıkırı Kilisesi"
+date: "2025-12-25T09:22:15+03:00"
 slug: "kapikiri-kilisesi"
 description: "# Kapıkırı Kilisesi: Milas'ta Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Muğla"
-iller: ["Muğla"]
+iller: '["Muğla"]'
 district: "Milas"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "27.5209122,37.5005379"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 # Kapıkırı Kilisesi: Milas'ta Bir Geçmişin İzleri

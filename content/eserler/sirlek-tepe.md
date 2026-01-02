@@ -1,18 +1,17 @@
 ---
-title: "Şirlek Tepe | Miras Haritası"
-date: 2025-12-25T05:57:38+03:00
+title: "Şirlek Tepe"
+date: "2025-12-25T05:57:38+03:00"
 slug: "sirlek-tepe"
 description: "## Şirlek Tepe Arkeolojik Sit..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: ["Trabzon Vilayeti"]
+iller: '["Trabzon Vilayeti"]'
 district: "Bafra"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "35.864109,41.5966797"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Şirlek Tepe Arkeolojik Sit

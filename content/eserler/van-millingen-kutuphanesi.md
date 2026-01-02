@@ -1,18 +1,17 @@
 ---
-title: "Van Millingen Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:53:36+03:00
+title: "Van Millingen Kütüphanesi"
+date: "2025-12-25T17:53:36+03:00"
 slug: "van-millingen-kutuphanesi"
 description: "## Van Millingen Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beşiktaş"
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: "29.0516644,41.0831757"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Van Millingen Kütüphanesi

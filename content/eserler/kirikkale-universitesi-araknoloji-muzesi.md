@@ -1,18 +1,17 @@
 ---
-title: "Kırıkkale Üniversitesi Araknoloji Müzesi | Miras Haritası"
-date: 2025-12-25T03:12:11+03:00
+title: "Kırıkkale Üniversitesi Araknoloji Müzesi"
+date: "2025-12-25T03:12:11+03:00"
 slug: "kirikkale-universitesi-araknoloji-muzesi"
 description: "**Kırıkkale Üniversitesi Araknoloji Müzesi**..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Kırıkkale Üniversitesi Araknoloji Müzesi**

@@ -1,18 +1,17 @@
 ---
-title: "Aprank Manastırı | Miras Haritası"
-date: 2025-12-25T09:59:37+03:00
+title: "Aprank Manastırı"
+date: "2025-12-25T09:59:37+03:00"
 slug: "aprank-manastiri"
 description: "## Aprank Manastırı: Erzincan'ın Tarihi Bir Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Aprank_or_Surb_David_Monastery_Surb_Hovanes_Church01.jpg/1200px-Aprank_or_Surb_David_Monastery_Surb_Hovanes_Church01.jpg"
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Erzincan"
+province: "Erzincan"
+iller: '["Erzincan"]'
+district: ""
 type: "Manastır"
-turler: ["Manastır"]
+turler: '["Manastır"]'
 coords: "40.288888888,39.661388888"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Aprank Manastırı: Erzincan'ın Tarihi Bir Öreni

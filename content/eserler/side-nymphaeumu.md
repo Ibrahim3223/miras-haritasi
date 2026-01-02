@@ -1,18 +1,17 @@
 ---
-title: "Side Nymphaeumu | Miras Haritası"
-date: 2025-12-25T05:43:05+03:00
+title: "Side Nymphaeumu"
+date: "2025-12-25T05:43:05+03:00"
 slug: "side-nymphaeumu"
 description: "## Side Nymphaeum: Antik Side'nin Gizemi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "31.394722222,36.771388888"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Side Nymphaeum: Antik Side'nin Gizemi

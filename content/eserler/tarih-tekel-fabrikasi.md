@@ -1,18 +1,17 @@
 ---
-title: "Tarihî Tekel Fabrikası | Miras Haritası"
-date: 2025-12-25T03:44:12+03:00
+title: "Tarihî Tekel Fabrikası"
+date: "2025-12-25T03:44:12+03:00"
 slug: "tarih-tekel-fabrikasi"
 description: "## Tarihî Tekel Fabrikası: İzmir'in Eski Endüstri Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Konak"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "27.148194444,38.43625"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tarihî Tekel Fabrikası: İzmir'in Eski Endüstri Mirası

@@ -1,18 +1,17 @@
 ---
-title: "Sokollu Mehmed Paşa Camii | Miras Haritası"
-date: 2025-12-24T20:37:59+03:00
+title: "Sokollu Mehmed Paşa Camii"
+date: "2025-12-24T20:37:59+03:00"
 slug: "sokollu-mehmed-pasa-camii"
 description: "## Sokollu Mehmed Paşa Camii: Fatih'te bir Altın Çağı Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sokollu_Mehmet_Pasha_Camii_exterior.jpg/1200px-Sokollu_Mehmet_Pasha_Camii_exterior.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "28.971944444,41.004722222"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Sokollu Mehmed Paşa Camii: Fatih'te bir Altın Çağı Anıtı

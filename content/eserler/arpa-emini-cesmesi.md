@@ -1,18 +1,17 @@
 ---
-title: "Arpa Emini Çeşmesi | Miras Haritası"
-date: 2025-12-25T10:40:26+03:00
+title: "Arpa Emini Çeşmesi"
+date: "2025-12-25T10:40:26+03:00"
 slug: "arpa-emini-cesmesi"
 description: "## Arpa Emini Çeşmesi: Fatih'teki Bir Örnek Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Arpa_Emini_Çeşmesi_02.jpg/1200px-Arpa_Emini_Çeşmesi_02.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.932545124,41.020658752"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Arpa Emini Çeşmesi: Fatih'teki Bir Örnek Çeşme

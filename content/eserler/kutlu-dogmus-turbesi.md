@@ -1,18 +1,17 @@
 ---
-title: "Kutlu Doğmuş Türbesi | Miras Haritası"
-date: 2025-12-25T14:50:47+03:00
+title: "Kutlu Doğmuş Türbesi"
+date: "2025-12-25T14:50:47+03:00"
 slug: "kutlu-dogmus-turbesi"
 description: "### Kutlu Doğmuş Türbesi: Aybastı'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: ["Ordu"]
+iller: '["Ordu"]'
 district: "Aybastı"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "37.422304,40.674153"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Kutlu Doğmuş Türbesi: Aybastı'nın Tarihi Mirası

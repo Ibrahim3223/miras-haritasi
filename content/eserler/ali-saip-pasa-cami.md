@@ -1,18 +1,17 @@
 ---
-title: "Ali Saip Paşa Cami | Miras Haritası"
-date: 2025-12-24T22:09:30+03:00
+title: "Ali Saip Paşa Cami"
+date: "2025-12-24T22:09:30+03:00"
 slug: "ali-saip-pasa-cami"
 description: "### Ali Saip Paşa Cami..."
 featured_image: ""
-province: "Türkiye"
-iller: ["Türkiye"]
-district: "Kayseri"
+province: "Kayseri"
+iller: '["Kayseri"]'
+district: ""
 type: "Cami"
-turler: ["Cami"]
+turler: '["Cami"]'
 coords: "35.5584984,38.687355"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Ali Saip Paşa Cami

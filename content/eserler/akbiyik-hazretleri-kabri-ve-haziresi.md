@@ -1,18 +1,17 @@
 ---
-title: "Akbıyık Hazretleri Kabri ve Haziresi | Miras Haritası"
-date: 2025-12-25T16:06:03+03:00
+title: "Akbıyık Hazretleri Kabri ve Haziresi"
+date: "2025-12-25T16:06:03+03:00"
 slug: "akbiyik-hazretleri-kabri-ve-haziresi"
 description: "## Akbıyık Hazretleri Kabri ve Haziresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Akbıyık_Hazretleri_Kabri_ve_Haziresi.jpg/1200px-Akbıyık_Hazretleri_Kabri_ve_Haziresi.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "28.9792461,41.0031166"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Akbıyık Hazretleri Kabri ve Haziresi

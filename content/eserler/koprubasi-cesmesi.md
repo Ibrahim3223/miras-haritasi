@@ -1,18 +1,17 @@
 ---
-title: "Köprübaşı Çeşmesi | Miras Haritası"
-date: 2025-12-25T11:34:34+03:00
+title: "Köprübaşı Çeşmesi"
+date: "2025-12-25T11:34:34+03:00"
 slug: "koprubasi-cesmesi"
 description: "### Köprübaşı Çeşmesi: Safranbolu'nun Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Köprübaşı_Çeşmesi.jpg/1200px-Köprübaşı_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.689682,41.2527275"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ### Köprübaşı Çeşmesi: Safranbolu'nun Gizli Çeşmesi

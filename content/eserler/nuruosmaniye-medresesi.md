@@ -1,18 +1,17 @@
 ---
-title: "Nuruosmaniye Medresesi | Miras Haritası"
-date: 2025-12-25T17:27:08+03:00
+title: "Nuruosmaniye Medresesi"
+date: "2025-12-25T17:27:08+03:00"
 slug: "nuruosmaniye-medresesi"
 description: "## Nuruosmaniye Medresesi: İstanbul'un Gizemli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Medrese"
-turler: ["Medrese"]
+turler: '["Medrese"]'
 coords: "28.970942,41.009708"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Nuruosmaniye Medresesi: İstanbul'un Gizemli Tarihi

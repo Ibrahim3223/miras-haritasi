@@ -1,18 +1,17 @@
 ---
-title: "Yörgüç Paşa Türbesi | Miras Haritası"
-date: 2025-12-25T15:01:02+03:00
+title: "Yörgüç Paşa Türbesi"
+date: "2025-12-25T15:01:02+03:00"
 slug: "yorguc-pasa-turbesi"
 description: "### Yörgüç Paşa Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: ["Amasya"]
+iller: '["Amasya"]'
 district: "Amasya"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "35.8202782,40.6505852"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Yörgüç Paşa Türbesi

@@ -1,18 +1,17 @@
 ---
-title: "Gurgurtepe II Tümülüsü | Miras Haritası"
-date: 2025-12-25T08:03:00+03:00
+title: "Gurgurtepe II Tümülüsü"
+date: "2025-12-25T08:03:00+03:00"
 slug: "gurgurtepe-ii-tumulusu"
 description: "### Gurgurtepe II Tümülüsü..."
 featured_image: ""
 province: "İzmir"
-iller: ["İzmir"]
+iller: '["İzmir"]'
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "27.4036999,38.1727982"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Gurgurtepe II Tümülüsü

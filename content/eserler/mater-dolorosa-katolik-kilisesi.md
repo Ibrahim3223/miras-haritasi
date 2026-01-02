@@ -1,18 +1,17 @@
 ---
-title: "Mater Dolorosa Katolik Kilisesi | Miras Haritası"
-date: 2025-12-25T09:44:35+03:00
+title: "Mater Dolorosa Katolik Kilisesi"
+date: "2025-12-25T09:44:35+03:00"
 slug: "mater-dolorosa-katolik-kilisesi"
 description: "## Mater Dolorosa Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mater_Dolorosa_Osmanlı_dönemi.gif/1200px-Mater_Dolorosa_Osmanlı_dönemi.gif"
 province: "Samsun"
-iller: ["Samsun"]
+iller: '["Samsun"]'
 district: "İlkadım"
 type: "Kilise"
-turler: ["Kilise"]
+turler: '["Kilise"]'
 coords: "36.31666667,41.28333333"
-draft: false
-
-weight: 10
+draft: "false"
+weight: "10"
 ---
 
 ## Mater Dolorosa Katolik Kilisesi

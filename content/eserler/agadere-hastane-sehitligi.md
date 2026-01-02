@@ -1,18 +1,17 @@
 ---
-title: "Ağadere Hastane Şehitliği | Miras Haritası"
-date: 2025-12-25T16:01:06+03:00
+title: "Ağadere Hastane Şehitliği"
+date: "2025-12-25T16:01:06+03:00"
 slug: "agadere-hastane-sehitligi"
 description: "## Ağadere Hastane Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: ["Eceabat ilçesi"]
+iller: '["Eceabat ilçesi"]'
 district: "Eceabat"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "26.3698692,40.1591454"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Ağadere Hastane Şehitliği

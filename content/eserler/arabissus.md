@@ -1,18 +1,17 @@
 ---
-title: "Arabissus | Miras Haritası"
-date: 2025-12-25T04:16:55+03:00
+title: "Arabissus"
+date: "2025-12-25T04:16:55+03:00"
 slug: "arabissus"
 description: "### Arabissus Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "36.906,38.239"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Arabissus Arkeolojik Sitesi

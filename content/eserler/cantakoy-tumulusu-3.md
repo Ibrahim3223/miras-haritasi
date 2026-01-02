@@ -1,18 +1,17 @@
 ---
-title: "Çantaköy Tümülüsü 3 | Miras Haritası"
-date: 2025-12-25T07:26:05+03:00
+title: "Çantaköy Tümülüsü 3"
+date: "2025-12-25T07:26:05+03:00"
 slug: "cantakoy-tumulusu-3"
 description: "**Çantaköy Tümülüsü 3**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: ["Arkeolojik Sit"]
+turler: '["Arkeolojik Sit"]'
 coords: "28.0484619,41.1136246"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 **Çantaköy Tümülüsü 3**

@@ -1,18 +1,17 @@
 ---
-title: "Sederek Sınır Kapısı | Miras Haritası"
-date: 2025-12-25T08:36:03+03:00
+title: "Sederek Sınır Kapısı"
+date: "2025-12-25T08:36:03+03:00"
 slug: "sederek-sinir-kapisi"
 description: "## Sederek Sınır Kapısı: Tarihi ve Kültürel Mirasın Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kervansaray"
-turler: ["Kervansaray"]
+turler: '["Kervansaray"]'
 coords: "44.8031044,39.655266697"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Sederek Sınır Kapısı: Tarihi ve Kültürel Mirasın Gizli Cenneti

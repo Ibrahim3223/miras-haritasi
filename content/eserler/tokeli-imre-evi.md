@@ -1,18 +1,17 @@
 ---
-title: "Tökeli İmre Evi | Miras Haritası"
-date: 2025-12-25T03:50:52+03:00
+title: "Tökeli İmre Evi"
+date: "2025-12-25T03:50:52+03:00"
 slug: "tokeli-imre-evi"
 description: "## Tökeli İmre Evi Müzesi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: ["Aydın Vilayeti"]
+iller: '["Aydın Vilayeti"]'
 district: "İzmit"
 type: "Müze"
-turler: ["Müze"]
+turler: '["Müze"]'
 coords: "29.944411,40.764273"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## Tökeli İmre Evi Müzesi

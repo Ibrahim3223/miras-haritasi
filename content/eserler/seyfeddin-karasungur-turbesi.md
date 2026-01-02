@@ -1,18 +1,17 @@
 ---
-title: "Seyfeddin Karasungur Türbesi | Miras Haritası"
-date: 2025-12-25T13:53:53+03:00
+title: "Seyfeddin Karasungur Türbesi"
+date: "2025-12-25T13:53:53+03:00"
 slug: "seyfeddin-karasungur-turbesi"
 description: "### Seyfeddin Karasungur Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Anıt"
-turler: ["Anıt"]
+turler: '["Anıt"]'
 coords: "32.4955025,37.8751755"
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ### Seyfeddin Karasungur Türbesi

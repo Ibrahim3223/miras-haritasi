@@ -1,18 +1,17 @@
 ---
-title: "İYTE Kütüphanesi | Miras Haritası"
-date: 2025-12-25T17:48:05+03:00
+title: "İYTE Kütüphanesi"
+date: "2025-12-25T17:48:05+03:00"
 slug: "iyte-kutuphanesi"
 description: "## İYTE Kütüphanesi: İlim ve Kültür Merkezinde Bir Örnek..."
 featured_image: ""
 province: ""
-iller: [""]
+iller: '[""]'
 district: ""
 type: "Kütüphane"
-turler: ["Kütüphane"]
+turler: '["Kütüphane"]'
 coords: ""
-draft: false
-
-weight: 999
+draft: "false"
+weight: "999"
 ---
 
 ## İYTE Kütüphanesi: İlim ve Kültür Merkezinde Bir Örnek
