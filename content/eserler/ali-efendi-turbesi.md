@@ -3,7 +3,7 @@ title: "Ali Efendi Türbesi"
 date: "2025-12-25T15:17:19+03:00"
 slug: "ali-efendi-turbesi"
 description: "### Ali Efendi Türbesi: Afyonkarahisar'da Gizli Bir Anıt..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Fen%C3%A2%C3%AE_Ali_Efendi_T%C3%BCrbesi.jpg"
 province: "Afyonkarahisar"
 iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"

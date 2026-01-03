@@ -3,7 +3,7 @@ title: "Battalgazi Ulu Cami"
 date: "2025-12-24T23:05:12+03:00"
 slug: "battalgazi-ulu-cami"
 description: "## Battalgazi Ulu Camii: Türk İslam Edebiyatı'nın En Değerli Yapıtlarından Birini Tanıtan Malatya'nın Semahanesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Malatya_museum_Battalgazi_Ulu_Camii_Seljuk_stone_2051.jpg"
 province: "Malatya"
 iller: '["Malatya"]'
 district: "Battalgazi"

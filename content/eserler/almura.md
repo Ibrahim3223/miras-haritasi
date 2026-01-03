@@ -3,7 +3,7 @@ title: "Almura"
 date: "2025-12-25T05:08:07+03:00"
 slug: "almura"
 description: "## Almura Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Lydia_circa_50_AD_-_English_legend.jpg"
 province: ""
 iller: '[""]'
 district: "İzmir"

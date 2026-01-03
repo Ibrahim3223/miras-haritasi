@@ -3,7 +3,7 @@ title: "Aya Dimitri Kilisesi"
 date: "2025-12-25T08:49:18+03:00"
 slug: "aya-dimitri-kilisesi"
 description: "### Aya Dimitri Kilisesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/94/Istanbul_photos_by_J.Lubbock_2015_399.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Şişli"

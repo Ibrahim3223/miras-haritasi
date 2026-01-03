@@ -3,7 +3,7 @@ title: "Apros"
 date: "2025-12-25T04:29:15+03:00"
 slug: "apros"
 description: "## Apros Arkeolojik Sit: Malkara'nın Gizli Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Revue_g%C3%A9n%C3%A9rale_de_botanique._%28IA_mobot31753002598487%29.pdf"
 province: "İstanbul Vilayeti"
 iller: '["İstanbul Vilayeti"]'
 district: "Malkara"

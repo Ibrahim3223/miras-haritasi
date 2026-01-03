@@ -3,7 +3,7 @@ title: "Bergama Ulu Cami"
 date: "2025-12-24T21:59:03+03:00"
 slug: "bergama-ulu-cami"
 description: "## Bergama Ulu Cami: Tarihi ve Kültürel Değeri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Bergama_Ulu_Camii_1548.jpg"
 province: "İzmir"
 iller: '["İzmir"]'
 district: "Bergama"

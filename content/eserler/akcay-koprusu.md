@@ -3,7 +3,7 @@ title: "Akçay Köprüsü"
 date: "2025-12-25T02:09:33+03:00"
 slug: "akcay-koprusu"
 description: "### Akçay Köprüsü..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ak%C3%A7ay_ve_Ak%C3%A7ay_K%C3%B6pr%C3%BCs%C3%BC.jpg"
 province: "Aydın"
 iller: '["Aydın"]'
 district: ""

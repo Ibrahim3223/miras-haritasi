@@ -3,7 +3,7 @@ title: "Apamea Myrlea"
 date: "2025-12-25T04:19:11+03:00"
 slug: "apamea-myrlea"
 description: "### Apamea Myrlea: Bursa'nın Gizli Cenneti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Colonias_griegas_en_la_Prop%C3%B3ntide-es.svg"
 province: "Bursa"
 iller: '["Bursa"]'
 district: ""

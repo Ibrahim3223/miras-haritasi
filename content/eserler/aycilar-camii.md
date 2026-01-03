@@ -3,7 +3,7 @@ title: "Aycılar Camii"
 date: "2025-12-24T22:14:03+03:00"
 slug: "aycilar-camii"
 description: "## Aycılar Camii: Kastamonu'nun Tarihî Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Milliyet_1933_mayis_1.pdf"
 province: "Kastamonu"
 iller: '["Kastamonu"]'
 district: ""

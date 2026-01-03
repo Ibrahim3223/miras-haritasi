@@ -3,7 +3,7 @@ title: "Ambarseki Camii"
 date: "2025-12-24T22:10:15+03:00"
 slug: "ambarseki-camii"
 description: "# Ambarseki Camii: İzmir'in Gizli Cenneti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/35960_Ambarseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%285%29.jpg"
 province: ""
 iller: '[""]'
 district: "İzmir"

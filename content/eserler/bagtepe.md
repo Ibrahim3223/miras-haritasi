@@ -3,7 +3,7 @@ title: "Bağtepe"
 date: "2025-12-25T07:18:23+03:00"
 slug: "bagtepe"
 description: "## Bağtepe: Türk Tarihine Özel Bir Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Gaziantep_Zeugma_museum_Yar%C4%B1mca-Ba%C4%9Ftepemosaic_in_2019_4195b.jpg"
 province: ""
 iller: '[""]'
 district: ""

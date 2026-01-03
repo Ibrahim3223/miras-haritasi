@@ -3,7 +3,7 @@ title: "Atçılar Camii"
 date: "2025-12-24T22:15:21+03:00"
 slug: "atcilar-camii"
 description: "## Atçılar Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/27/Milliyet_1932_kanunuevvel_11.pdf"
 province: ""
 iller: '[""]'
 district: "İzmir"

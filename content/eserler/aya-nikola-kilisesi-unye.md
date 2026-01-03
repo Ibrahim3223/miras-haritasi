@@ -3,7 +3,7 @@ title: "Aya Nikola Kilisesi (Ünye)"
 date: "2025-12-25T08:59:31+03:00"
 slug: "aya-nikola-kilisesi-unye"
 description: "### Aya Nikola Kilisesi: Ünye'nin Tarihi ve Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Aya_Nikola_island%2C_%C3%9Cnye%2C_Turkey.jpg"
 province: "Ordu"
 iller: '["Ordu"]'
 district: "Ünye"

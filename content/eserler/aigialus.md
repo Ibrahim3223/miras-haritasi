@@ -3,7 +3,7 @@ title: "Aigialus"
 date: "2025-12-25T04:59:53+03:00"
 slug: "aigialus"
 description: "## Aigialus: Antik Çağın Gizemi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Aigialus_mangrovis_Borse.jpg"
 province: ""
 iller: '[""]'
 district: ""

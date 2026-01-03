@@ -3,7 +3,7 @@ title: "Akpınar"
 date: "2025-12-25T05:34:04+03:00"
 slug: "akpinar"
 description: "### Akpınar: Bir Geç Klasik Dönem Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/2021-10-12_ALBA_Berlin_gegen_Fenerbah%C3%A7e_SK_%28EuroLeague_2021-22%29_by_Sandro_Halank%E2%80%93121.jpg"
 province: "Kütahya"
 iller: '["Kütahya"]'
 district: "Çavdarhisar"

@@ -3,7 +3,7 @@ title: "Alemşah Kümbeti"
 date: "2025-12-25T13:53:26+03:00"
 slug: "alemsah-kumbeti"
 description: "## Alemşah Kümbeti: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Alem%C5%9Fah_K%C3%BCmbeti.jpg"
 province: ""
 iller: '[""]'
 district: ""

@@ -3,7 +3,7 @@ title: "Arapoğlu Camii"
 date: "2025-12-24T22:15:13+03:00"
 slug: "arapoglu-camii"
 description: "## Arapoğlu Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/37/K1PL_Berlin_2018-09-16_Female_Kumite_%E2%80%9350_kg_60.jpg"
 province: "Karaman"
 iller: '["Karaman"]'
 district: ""

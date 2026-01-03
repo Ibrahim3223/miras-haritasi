@@ -3,7 +3,7 @@ title: "Aquae saravenae"
 date: "2025-12-25T05:11:41+03:00"
 slug: "aquae-saravenae"
 description: "## Aquae Saravenae: Roma Dönemi'nin Gizli Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Murray%27s_small_classical_atlas_%28IA_murrayssmallclas00grun%29.pdf"
 province: ""
 iller: '[""]'
 district: ""

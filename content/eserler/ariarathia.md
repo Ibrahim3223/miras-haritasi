@@ -3,7 +3,7 @@ title: "Ariarathia"
 date: "2025-12-25T04:34:08+03:00"
 slug: "ariarathia"
 description: "## Ariarathia: Kayseri'nin Gizemli Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Kayseri_districts.png"
 province: "Kayseri"
 iller: '["Kayseri"]'
 district: ""

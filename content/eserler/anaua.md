@@ -3,7 +3,7 @@ title: "Anaua"
 date: "2025-12-25T05:17:11+03:00"
 slug: "anaua"
 description: "## Anaua: Afyonkarahisar'daki Gizemli Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/32/Hori_Kingi_Te_Anaua.jpg"
 province: "Afyonkarahisar"
 iller: '["Afyonkarahisar"]'
 district: ""

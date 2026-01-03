@@ -3,7 +3,7 @@ title: "Artanuci Kilisesi"
 date: "2025-12-25T08:57:48+03:00"
 slug: "artanuci-kilisesi"
 description: "## Artanuci Kilisesi: Ardanuç'un Gizli Kahramanı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ruins_of_church_in_Ardanu%C3%A7_as_viewed_from_SE_%28Marr%2C_1911%29.JPG"
 province: "Artvin"
 iller: '["Artvin"]'
 district: "Ardanuç İlçesi"

@@ -3,7 +3,7 @@ title: "Balbura"
 date: "2025-12-25T04:20:54+03:00"
 slug: "balbura"
 description: "### Balbura: Bir Mitolojik Şehirin Kalıntıları..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Balbura_intervenata.JPG"
 province: "Burdur"
 iller: '["Burdur"]'
 district: "Burdur"

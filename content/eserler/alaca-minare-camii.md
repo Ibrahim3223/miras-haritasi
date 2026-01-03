@@ -3,7 +3,7 @@ title: "Alaca Minare Camii"
 date: "2025-12-24T22:45:04+03:00"
 slug: "alaca-minare-camii"
 description: "## Alaca Minare Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Alaca_Minare_Tekkesi_Haziresi.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Üsküdar"

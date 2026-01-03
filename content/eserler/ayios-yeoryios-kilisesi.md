@@ -3,7 +3,7 @@ title: "Ayios Yeoryios Kilisesi"
 date: "2025-12-25T09:35:40+03:00"
 slug: "ayios-yeoryios-kilisesi"
 description: "### Ayios Yeoryios Kilisesi: Bakırköy'ün Gizli Şehirden Kalan Bir Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ayios_Yeoryios_Kilisesi.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Bakırköy"

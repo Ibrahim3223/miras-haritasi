@@ -3,7 +3,7 @@ title: "Alaca Mescit, Balıkesir"
 date: "2025-12-25T00:03:06+03:00"
 slug: "alaca-mescit-balikesir"
 description: "# Alaca Mescit, Balıkesir..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Alaca_mescid.JPG"
 province: "Balıkesir"
 iller: '["Balıkesir"]'
 district: "Karesi"

@@ -3,7 +3,7 @@ title: "Armene"
 date: "2025-12-25T08:28:06+03:00"
 slug: "armene"
 description: "## Armene: Sinop'un Gizli Harikası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Armene_pusilla_Baikonur_01_02.jpg"
 province: "Sinop"
 iller: '["Sinop"]'
 district: "Sinop"

@@ -3,7 +3,7 @@ title: "Antiochia ad Pyramum"
 date: "2025-12-25T04:29:59+03:00"
 slug: "antiochia-ad-pyramum"
 description: "# Antiochia ad Pyramum: Adana'nın Eski Şehri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ceyhan_nehri_-_Ceyhan_River.jpg"
 province: "Adana"
 iller: '["Adana"]'
 district: ""

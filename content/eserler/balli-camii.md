@@ -3,7 +3,7 @@ title: "Ballı Camii"
 date: "2025-12-24T22:12:00+03:00"
 slug: "balli-camii"
 description: "## Ballı Camii: Kırıkkale'nin Tarihi Örenlerinden BİRİ..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ec/Churchkhela_in_Shaki.jpg"
 province: "Kırıkkale"
 iller: '["Kırıkkale"]'
 district: "Balışeyh"

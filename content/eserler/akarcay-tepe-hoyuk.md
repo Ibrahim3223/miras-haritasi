@@ -3,7 +3,7 @@ title: "Akarçay Tepe Höyük"
 date: "2025-12-25T05:44:14+03:00"
 slug: "akarcay-tepe-hoyuk"
 description: "## Akarçay Tepe Höyük: Bir Arkeolojik Sitin Gerçekleri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Excav_catalanes_a_siria.png"
 province: "Şanlıurfa"
 iller: '["Şanlıurfa"]'
 district: "Birecik"

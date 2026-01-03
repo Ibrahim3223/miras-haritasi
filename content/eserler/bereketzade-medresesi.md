@@ -3,7 +3,7 @@ title: "Bereketzade Medresesi"
 date: "2025-12-25T17:43:47+03:00"
 slug: "bereketzade-medresesi"
 description: "# Bereketzade Medresesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/In_Between_-_panoramio.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Beyoğlu"

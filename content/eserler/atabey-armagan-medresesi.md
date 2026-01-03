@@ -3,7 +3,7 @@ title: "Atabey Armağan Medresesi"
 date: "2025-12-25T17:36:13+03:00"
 slug: "atabey-armagan-medresesi"
 description: "### Atabey Armağan Medresesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Atabey_Arma%C4%9Fan_Medresesi.JPG"
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Muratpaşa"

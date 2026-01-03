@@ -3,7 +3,7 @@ title: "Akıncılar Camii"
 date: "2025-12-24T22:57:41+03:00"
 slug: "akincilar-camii"
 description: "## Akıncılar Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Sivas_Ak%C4%B1nc%C4%B1lar_Onar%C4%B1_K%C3%B6y%C3%BC.jpg"
 province: ""
 iller: '[""]'
 district: "İzmir"

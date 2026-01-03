@@ -3,7 +3,7 @@ title: "Anadolu Protestan Kilisesi"
 date: "2025-12-25T09:21:58+03:00"
 slug: "anadolu-protestan-kilisesi"
 description: "**Anadolu Protestan Kilisesi**..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Anadolu_protestan_kilisesi.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Kadıköy"

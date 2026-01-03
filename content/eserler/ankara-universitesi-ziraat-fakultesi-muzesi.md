@@ -3,7 +3,7 @@ title: "Ankara Üniversitesi Ziraat Fakültesi Müzesi"
 date: "2025-12-25T04:08:34+03:00"
 slug: "ankara-universitesi-ziraat-fakultesi-muzesi"
 description: "## Ankara Üniversitesi Ziraat Fakültesi Müzesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ankara_%C3%9Cniversitesi_Ziraat_Fak%C3%BCltesi.jpg"
 province: "Ankara"
 iller: '["Ankara"]'
 district: ""

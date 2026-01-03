@@ -3,7 +3,7 @@ title: "Alemdar İbrahim Efendi Kabri"
 date: "2025-12-25T13:29:39+03:00"
 slug: "alemdar-ibrahim-efendi-kabri"
 description: "### Alemdar İbrahim Efendi Kabri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Alemdar_%C4%B0brahim_Efendi_Kabri_2.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

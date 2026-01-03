@@ -3,7 +3,7 @@ title: "Baş Çeşme Camii"
 date: "2025-12-24T22:12:04+03:00"
 slug: "bas-cesme-camii"
 description: "# Baş Çeşme Camii: Afyonkarahisar'ın Tarihsel Bir Değerini Keşfedin..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Afyonkarahisar_%C3%87e%C5%9Fme.jpg"
 province: "Afyonkarahisar"
 iller: '["Afyonkarahisar"]'
 district: "Afyonkarahisar"

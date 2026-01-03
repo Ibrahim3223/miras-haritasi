@@ -3,7 +3,7 @@ title: "Ayakapı Hamamı"
 date: "2025-12-25T16:40:11+03:00"
 slug: "ayakapi-hamami"
 description: "## Ayakapı Hamamı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ayakap%C4%B1_Hamam%C4%B1.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

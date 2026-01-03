@@ -3,7 +3,7 @@ title: "Aspat Kalesi"
 date: "2025-12-25T01:23:34+03:00"
 slug: "aspat-kalesi"
 description: "## Aspat Kalesi: Bodrum'un Gizli Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/47/Getty_Research_Institute_%28IA_ofcommitteesociet00soci%29.pdf"
 province: "Muğla"
 iller: '["Muğla"]'
 district: "Bodrum"

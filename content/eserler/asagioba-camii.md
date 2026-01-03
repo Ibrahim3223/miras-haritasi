@@ -3,7 +3,7 @@ title: "Aşağıoba Camii"
 date: "2025-12-25T00:44:26+03:00"
 slug: "asagioba-camii"
 description: "## Aşağıoba Camii: Serik'te Bir Geçmişin İzleri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/NEW_HATAY_AIRPORT_-_panoramio.jpg"
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Serik"

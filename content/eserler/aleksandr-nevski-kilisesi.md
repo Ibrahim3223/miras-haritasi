@@ -3,7 +3,7 @@ title: "Aleksandr Nevski Kilisesi"
 date: "2025-12-25T09:12:08+03:00"
 slug: "aleksandr-nevski-kilisesi"
 description: "# Aleksandr Nevski Kilisesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Sv.A.Nevskii.jpg"
 province: "Erzurum"
 iller: '["Erzurum"]'
 district: "Oltu"

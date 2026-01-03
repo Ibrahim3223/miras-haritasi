@@ -3,7 +3,7 @@ title: "Balalan Camii"
 date: "2025-12-25T00:57:55+03:00"
 slug: "balalan-camii"
 description: "## Balalan Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/FamagustaDistrictPlatanissos.png"
 province: "Artvin"
 iller: '["Artvin"]'
 district: "Yusufeli İlçesi"

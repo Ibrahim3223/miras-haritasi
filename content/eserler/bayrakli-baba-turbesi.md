@@ -3,7 +3,7 @@ title: "Bayraklı Baba Türbesi"
 date: "2025-12-25T14:15:00+03:00"
 slug: "bayrakli-baba-turbesi"
 description: "## Bayraklı Baba Türbesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Bayrakl%C4%B1_Baba_T%C3%BCrbesi_yukar%C4%B1dan_giri%C5%9F.jpg"
 province: "Çanakkale"
 iller: '["Çanakkale"]'
 district: "Gelibolu"

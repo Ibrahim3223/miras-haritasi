@@ -3,7 +3,7 @@ title: "Barış Anıtı"
 date: "2025-12-25T14:08:11+03:00"
 slug: "baris-aniti"
 description: "## Barış Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/83/Abdi_%C4%B0pek%C3%A7i_An%C4%B1t%C4%B1_%282%29.JPG"
 province: "Trabzon"
 iller: '["Trabzon"]'
 district: "Maçka (ilçe)"

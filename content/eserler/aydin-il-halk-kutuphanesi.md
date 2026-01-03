@@ -3,7 +3,7 @@ title: "Aydın İl Halk Kütüphanesi"
 date: "2025-12-25T17:51:52+03:00"
 slug: "aydin-il-halk-kutuphanesi"
 description: "## Aydın İl Halk Kütüphanesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Ayd%C4%B1n_%C4%B0l_Halk_K%C3%BCt%C3%BCphanesi.jpg"
 province: "Aydın"
 iller: '["Aydın"]'
 district: "Efeler"

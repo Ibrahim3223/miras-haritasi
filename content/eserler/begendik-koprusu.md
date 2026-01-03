@@ -3,7 +3,7 @@ title: "Beğendik Köprüsü"
 date: "2025-12-25T01:56:15+03:00"
 slug: "begendik-koprusu"
 description: "### Beğendik Köprüsü: Pervari'nin Tarihi bir Kalesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Be%C4%9FendikBridgePlan.png"
 province: "Siirt"
 iller: '["Siirt"]'
 district: "Pervari"

@@ -3,7 +3,7 @@ title: "Aya Yorgi Kilisesi"
 date: "2025-12-25T09:39:54+03:00"
 slug: "aya-yorgi-kilisesi"
 description: "## Aya Yorgi Kilisesi: Gökçeada'nın Gizli Çehresi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Edirnekap%C4%B1_Aya_Yorgi_Kilisesi_01.jpg"
 province: "Çanakkale"
 iller: '["Çanakkale"]'
 district: "Gökçeada"

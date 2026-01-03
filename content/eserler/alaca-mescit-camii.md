@@ -3,7 +3,7 @@ title: "Alaca Mescit Camii"
 date: "2025-12-24T22:22:00+03:00"
 slug: "alaca-mescit-camii"
 description: "### Alaca Mescit Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Alaca_Mescit_Camii_2025_-_i%C3%A7_pan2.jpg"
 province: "Çorum"
 iller: '["Çorum"]'
 district: "Alaca"

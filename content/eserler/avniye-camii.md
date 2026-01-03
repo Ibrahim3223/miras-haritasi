@@ -3,7 +3,7 @@ title: "Avniye Camii"
 date: "2025-12-24T22:14:46+03:00"
 slug: "avniye-camii"
 description: "**Avniye Camii: Mersin'in Tarihi ve Kültürel Mirası**..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Milliyet_1933_tesrinievvel_14.pdf"
 province: "Mersin"
 iller: '["Mersin"]'
 district: ""

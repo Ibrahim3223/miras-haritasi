@@ -3,7 +3,7 @@ title: "Ancoz"
 date: "2025-12-25T07:27:38+03:00"
 slug: "ancoz"
 description: "**Ancoz: Adıyaman'ın Gizli Öreni**..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Ancoz9-3.jpg"
 province: "Adıyaman"
 iller: '["Adıyaman"]'
 district: ""

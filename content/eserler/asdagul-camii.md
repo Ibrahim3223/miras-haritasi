@@ -3,7 +3,7 @@ title: "Aşdağul Camii"
 date: "2025-12-24T22:13:43+03:00"
 slug: "asdagul-camii"
 description: "### Aşdağul Camii: Çorum'un Tarihi Ve Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/%C3%87orum_in_Turkey.svg"
 province: "Çorum"
 iller: '["Çorum"]'
 district: "Ortaköy"

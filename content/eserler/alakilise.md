@@ -3,7 +3,7 @@ title: "Alakilise"
 date: "2025-12-25T06:57:19+03:00"
 slug: "alakilise"
 description: "## Alakilise: Antalya'nın Tarihî ve Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Poppy_flowers_blooming_in_archaeological_site_at_Pella%2C_Macedonia%2C_Greece.jpg"
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Demre"

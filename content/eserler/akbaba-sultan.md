@@ -3,7 +3,7 @@ title: "Akbaba Sultan"
 date: "2025-12-25T15:05:34+03:00"
 slug: "akbaba-sultan"
 description: "## Akbaba Sultan Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/AkbabaSultan02.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Beykoz"

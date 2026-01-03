@@ -3,7 +3,7 @@ title: "Ali Efendi Camii"
 date: "2025-12-25T01:00:13+03:00"
 slug: "ali-efendi-camii"
 description: "### Ali Efendi Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Bereketzade_Ali_Efendi_Camii_i%C3%A7_mekan_1.jpg"
 province: "Denizli"
 iller: '["Denizli"]'
 district: "Serinhisar"

@@ -3,7 +3,7 @@ title: "Ala Köprü"
 date: "2025-12-25T02:28:18+03:00"
 slug: "ala-kopru"
 description: "**Ala Köprü: Mersin'in Tarihî ve Kültürel Mirası**..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Anamur_15_05_1997_Alak%C3%B6pr%C3%BC.jpg"
 province: "Mersin"
 iller: '["Mersin"]'
 district: "Anamur"

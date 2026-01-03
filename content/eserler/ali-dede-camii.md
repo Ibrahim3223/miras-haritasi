@@ -3,7 +3,7 @@ title: "Ali Dede Camii"
 date: "2025-12-24T22:08:25+03:00"
 slug: "ali-dede-camii"
 description: "# Ali Dede Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Cumhuriyet_1931_subat_9.pdf"
 province: "Adana"
 iller: '["Adana"]'
 district: "Seyhan"

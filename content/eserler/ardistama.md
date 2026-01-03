@@ -3,7 +3,7 @@ title: "Ardistama"
 date: "2025-12-25T05:09:51+03:00"
 slug: "ardistama"
 description: "## Ardıçlı Dağı (Ardistama)..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Proceedings_%28IA_proceedings27soci%29.pdf"
 province: ""
 iller: '[""]'
 district: ""

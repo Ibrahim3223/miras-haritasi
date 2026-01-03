@@ -3,7 +3,7 @@ title: "Akmescit"
 date: "2025-12-25T05:37:43+03:00"
 slug: "akmescit"
 description: "## Akmescit: Isparta'nın Gizli Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/%D0%A1%D1%83%D0%B2%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B5%D0%BB%D1%8C%D0%B4%D1%88%D0%B0%D0%BD%D0%B5%D1%86_%D0%B2_%D0%90%D0%BA-%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D0%B8.jpg"
 province: "Isparta"
 iller: '["Isparta"]'
 district: "Gelendost"

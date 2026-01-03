@@ -3,7 +3,7 @@ title: "Aktopraklık Höyüğü"
 date: "2025-12-25T14:00:19+03:00"
 slug: "aktopraklik-hoyugu"
 description: "## Aktopraklık Höyüğü: Bursa'nın Gizli Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Arkeopark.jpg"
 province: "Bursa"
 iller: '["Bursa"]'
 district: ""

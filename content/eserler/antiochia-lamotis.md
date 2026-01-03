@@ -3,7 +3,7 @@ title: "Antiochia Lamotis"
 date: "2025-12-25T04:28:40+03:00"
 slug: "antiochia-lamotis"
 description: "## Antiochia Lamotis: Erdemli'nin Gizli Tarihi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/LANGLOIS%281861%29_p283_-_VUE_DES_RUINES_D%27_LAMAS.jpg"
 province: "Mersin"
 iller: '["Mersin"]'
 district: "Erdemli"

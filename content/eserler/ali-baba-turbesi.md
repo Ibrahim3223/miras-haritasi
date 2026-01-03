@@ -3,7 +3,7 @@ title: "Ali Baba Türbesi"
 date: "2025-12-25T14:16:29+03:00"
 slug: "ali-baba-turbesi"
 description: "**Ali Baba Türbesi**..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Aksaray_K%C3%BClhani_Ali_Baba_Mausoleum_3088.jpg"
 province: "Malatya"
 iller: '["Malatya"]'
 district: "Battalgazi"

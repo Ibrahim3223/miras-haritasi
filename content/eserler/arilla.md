@@ -3,7 +3,7 @@ title: "Arilla"
 date: "2025-12-25T05:08:03+03:00"
 slug: "arilla"
 description: "### Arilla: Manisa'nın Gizli Tarihi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Jose_Luis_Arilla_y_Manolo_Santana.jpg"
 province: "Manisa"
 iller: '["Manisa"]'
 district: ""

@@ -3,7 +3,7 @@ title: "Amcazade Hüseyin Paşa Medresesi"
 date: "2025-12-25T17:40:51+03:00"
 slug: "amcazade-huseyin-pasa-medresesi"
 description: "# Amcazade Hüseyin Paşa Medresesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amcazade_H%C3%BCseyin_Pa%C5%9Fa_Madrasah%2C_%C4%B0stanbul_%2812966886464%29.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

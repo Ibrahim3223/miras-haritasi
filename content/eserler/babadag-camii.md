@@ -3,7 +3,7 @@ title: "Babadağ Camii"
 date: "2025-12-24T23:22:09+03:00"
 slug: "babadag-camii"
 description: "## Babadağ Camii: Bursa'nın Tarihî Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Denizli_districts.png"
 province: "Bursa"
 iller: '["Bursa"]'
 district: "Yıldırım"

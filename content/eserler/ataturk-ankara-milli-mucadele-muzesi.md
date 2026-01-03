@@ -3,7 +3,7 @@ title: "Atatürk Ankara Milli Mücadele Müzesi"
 date: "2025-12-25T04:04:12+03:00"
 slug: "ataturk-ankara-milli-mucadele-muzesi"
 description: "## Atatürk Ankara Milli Mücadele Müzesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Eski_Coban_Mektebi_2_1759333087.jpg"
 province: "Ankara"
 iller: '["Ankara"]'
 district: "Ankara"

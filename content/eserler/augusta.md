@@ -3,7 +3,7 @@ title: "Augusta"
 date: "2025-12-25T08:28:51+03:00"
 slug: "augusta"
 description: "## Augusta Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Augusta_Georgia_Broad_Street_Lamar_Building.jpg"
 province: "Adana"
 iller: '["Adana"]'
 district: "Sarıçam"

@@ -3,7 +3,7 @@ title: "Amelas"
 date: "2025-12-25T04:35:53+03:00"
 slug: "amelas"
 description: "### Amelas..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Monnaies_grecques_%28IA_monnaiesgrecques00imho%29.pdf"
 province: ""
 iller: '[""]'
 district: ""

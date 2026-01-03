@@ -3,7 +3,7 @@ title: "Alaeddin Bey Camii"
 date: "2025-12-24T22:05:42+03:00"
 slug: "alaeddin-bey-camii"
 description: "## Alaeddin Bey Camii: Muş'un Tarihi Bir Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Mush_Alaeddin_Pasha_Camii_3650.jpg"
 province: "Muş"
 iller: '["Muş"]'
 district: "Muş"

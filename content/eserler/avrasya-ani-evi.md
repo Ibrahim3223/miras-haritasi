@@ -3,7 +3,7 @@ title: "Avrasya Anı Evi"
 date: "2025-12-25T04:11:19+03:00"
 slug: "avrasya-ani-evi"
 description: "## Avrasya Anı Evi: İzmir'in Tarihî ve Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Dario_Moreno_street%2C_%C4%B0zmir.jpg"
 province: "İzmir"
 iller: '["İzmir"]'
 district: "Konak"

@@ -3,7 +3,7 @@ title: "Ayvalı Kilise"
 date: "2025-12-25T09:08:31+03:00"
 slug: "ayvali-kilise"
 description: "# Ayvalı Kilisesi: Göbeklitepe'nin Yakınında Gizli Bir Anıtlar..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Ayval%C4%B1%2C_Sar%C4%B1%C3%A7am_01.jpg"
 province: "Nevşehir"
 iller: '["Nevşehir"]'
 district: "Avanos"

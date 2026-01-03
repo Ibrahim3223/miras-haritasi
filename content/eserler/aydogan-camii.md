@@ -3,7 +3,7 @@ title: "Aydoğan Camii"
 date: "2025-12-24T22:12:41+03:00"
 slug: "aydogan-camii"
 description: "## Aydoğan Camii: Sivas'taki Bir Örenlik..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Oya_Aydo%C4%9Fan_%28cropped%29.jpg"
 province: "Sivas"
 iller: '["Sivas"]'
 district: "Sivas"

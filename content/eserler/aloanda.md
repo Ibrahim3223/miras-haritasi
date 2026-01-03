@@ -3,7 +3,7 @@ title: "Aloanda"
 date: "2025-12-25T04:28:29+03:00"
 slug: "aloanda"
 description: "## Aloanda Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/65/Rela%C3%A7am_vniuersal_do_que_succedeo_em_Portugal%2C_%26_mais_prouincias_do_Occidente_%26_Oriente%2C_de_mar%C3%A7o_de_625._at%C3%A8_todo_setembro_de_626._-_Contem_muitas_particularidades_%26_curiosidades._%28IA_relaamvniuersa00fari%29.pdf"
 province: "Seydikemer"
 iller: '["Seydikemer"]'
 district: "Kabaağaç"

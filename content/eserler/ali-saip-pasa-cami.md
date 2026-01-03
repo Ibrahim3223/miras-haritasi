@@ -3,7 +3,7 @@ title: "Ali Saip Paşa Cami"
 date: "2025-12-24T22:09:30+03:00"
 slug: "ali-saip-pasa-cami"
 description: "### Ali Saip Paşa Cami..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Ali_Saip_Pa%C5%9Fa.JPG"
 province: "Kayseri"
 iller: '["Kayseri"]'
 district: ""

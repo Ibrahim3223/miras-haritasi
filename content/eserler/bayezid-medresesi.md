@@ -3,7 +3,7 @@ title: "Bayezid Medresesi"
 date: "2025-12-25T17:25:11+03:00"
 slug: "bayezid-medresesi"
 description: "## Bayezid Medresesi: Fatih'te Bir Geç Klasik Medrese..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Beyazid_II_madrasa_Istanbul_DSCF2217.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

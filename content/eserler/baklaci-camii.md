@@ -3,7 +3,7 @@ title: "Baklacı Camii"
 date: "2025-12-25T00:36:55+03:00"
 slug: "baklaci-camii"
 description: "## Baklacı Camii: Ankara'nın Tarihî Bir Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Manisa_location_Ala%C5%9Fehir.svg"
 province: "Ankara"
 iller: '["Ankara"]'
 district: "Altındağ"

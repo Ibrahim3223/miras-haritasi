@@ -3,7 +3,7 @@ title: "Amnista"
 date: "2025-12-25T04:56:19+03:00"
 slug: "amnista"
 description: "## Amnista: Marmaris'in Gizli Şehri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Razones_por_qu%C3%A9_debemos_apoyar_la_candidatura_de_Theodore_Roosevelt%3B_%28IA_razonesporqudebe00lati%29.pdf"
 province: "Muğla"
 iller: '["Muğla"]'
 district: "Marmaris (ilçe)"

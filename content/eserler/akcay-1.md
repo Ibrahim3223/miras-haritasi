@@ -3,7 +3,7 @@ title: "Akçay 1"
 date: "2025-12-25T07:02:51+03:00"
 slug: "akcay-1"
 description: "## Akçay 1: Antik Çağın Gizli Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/9c/An%C4%B1tkabir_Project_No._24_by_K._S%C3%B6ylemezo%C4%9Flu%2C_K._Ahmet_Aru_and_R._Ak%C3%A7ay_%281%29.jpg"
 province: ""
 iller: '[""]'
 district: ""

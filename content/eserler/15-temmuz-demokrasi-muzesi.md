@@ -3,7 +3,7 @@ title: "15 Temmuz Demokrasi Müzesi"
 date: "2025-12-25T03:35:12+03:00"
 slug: "15-temmuz-demokrasi-muzesi"
 description: "### 15 Temmuz Demokrasi Müzesi..."
-featured_image: ""
+featured_image: "https://yuzuncuyilgalerisi.eba.gov.tr/uploads/themes/b2df19932ccfd2bcacd557b57b0e9f9b.jpg"
 province: "Ankara"
 iller: '["Ankara"]'
 district: "Altındağ"

@@ -3,7 +3,7 @@ title: "Akner Manastırı"
 date: "2025-12-25T09:47:37+03:00"
 slug: "akner-manastiri"
 description: "## Akner Manastırı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Vartanantz.jpg"
 province: "Aladağ"
 iller: '["Aladağ"]'
 district: "Eğner"

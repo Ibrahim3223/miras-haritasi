@@ -3,7 +3,7 @@ title: "Allı Cami"
 date: "2025-12-24T22:07:52+03:00"
 slug: "alli-cami"
 description: "## Allı Cami: Denizli'nin Tarihi ve Kültürel Mirasları Arasındaki Devasa Bir Ören..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Staten_Island_Lantern_Festival_%2851937%29.jpg"
 province: "Denizli"
 iller: '["Denizli"]'
 district: ""

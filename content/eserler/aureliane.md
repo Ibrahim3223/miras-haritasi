@@ -3,7 +3,7 @@ title: "Aureliane"
 date: "2025-12-25T04:49:55+03:00"
 slug: "aureliane"
 description: "## Aureliane: Roma'nın Altın Çağının Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/31/Celio_-_le_mura_tra_porta_san_Sebastiano_e_porta_Ardeatina_1974.JPG"
 province: ""
 iller: '[""]'
 district: ""

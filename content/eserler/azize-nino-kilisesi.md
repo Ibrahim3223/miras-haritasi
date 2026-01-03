@@ -3,7 +3,7 @@ title: "Azize Nino Kilisesi"
 date: "2025-12-25T08:59:53+03:00"
 slug: "azize-nino-kilisesi"
 description: "## Azize Nino Kilisesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/%E1%83%90%E1%83%A6%E1%83%90%E1%83%98%E1%83%90%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%9C%E1%83%98%E1%83%9C%E1%83%9D%E1%83%AC%E1%83%9B%E1%83%98%E1%83%9C%E1%83%93%E1%83%98%E1%83%A1_%E1%83%94%E1%83%99%E1%83%9A%E1%83%94%E1%83%A1%E1%83%98%E1%83%90.jpg"
 province: "Ürgüp"
 iller: '["Ürgüp"]'
 district: "Ortahisar"

@@ -3,7 +3,7 @@ title: "Astakos"
 date: "2025-12-25T04:30:22+03:00"
 slug: "astakos"
 description: "# Astakos: Kocaeli'nin Gizli Arkeolojik Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Astakos0197.jpg"
 province: "Kocaeli"
 iller: '["Kocaeli"]'
 district: ""

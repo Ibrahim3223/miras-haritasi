@@ -21,6 +21,11 @@ PROGRESS_FILE = Path("scripts/wikimedia_search_progress.json")
 # Wikimedia Commons API
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
 
+# User-Agent header (required by Wikimedia)
+HEADERS = {
+    'User-Agent': 'MirasHaritasi/1.0 (Turkish Heritage Map; educational project)'
+}
+
 def load_progress():
     """Load progress"""
     if PROGRESS_FILE.exists():
@@ -59,7 +64,7 @@ def search_commons_image(title, province=None):
                 'format': 'json'
             }
 
-            response = requests.get(COMMONS_API, params=params, timeout=10)
+            response = requests.get(COMMONS_API, params=params, headers=HEADERS, timeout=10)
 
             if response.status_code == 200:
                 data = response.json()
@@ -77,7 +82,7 @@ def search_commons_image(title, province=None):
                         'format': 'json'
                     }
 
-                    img_response = requests.get(COMMONS_API, params=img_params, timeout=10)
+                    img_response = requests.get(COMMONS_API, params=img_params, headers=HEADERS, timeout=10)
 
                     if img_response.status_code == 200:
                         img_data = img_response.json()
@@ -150,11 +155,11 @@ def main():
     print(f"   To process: {len(to_process)}")
 
     if not to_process:
-        print("\n✅ All files have been processed!")
+        print("\n[OK] All files have been processed!")
         return
 
     # Ask for batch size
-    print(f"\n⚠️  Note: This will make HTTP requests to Wikimedia Commons")
+    print(f"\n[!] Note: This will make HTTP requests to Wikimedia Commons")
     batch_size = int(input(f"How many files to process? (recommended: 50-200): ") or "100")
     batch_size = min(batch_size, len(to_process))
 
@@ -209,8 +214,8 @@ def main():
     print(f"    Found: {len(progress['found'])}")
     print(f"    Remaining: {len(to_process) - batch_size}")
     print("=" * 70)
-    print("\n💡 Tip: Run again to process more files (progress is saved)")
-    print("💡 Expected success rate: 15-30% for Turkish heritage items")
+    print("\n[TIP] Run again to process more files (progress is saved)")
+    print("[TIP] Expected success rate: 15-30% for Turkish heritage items")
 
 if __name__ == "__main__":
     main()

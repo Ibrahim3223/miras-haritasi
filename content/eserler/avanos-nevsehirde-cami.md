@@ -3,7 +3,7 @@ title: "Avanos, Nevşehir'de cami"
 date: "2025-12-24T22:06:12+03:00"
 slug: "avanos-nevsehirde-cami"
 description: "# Avanos, Nevşehir'de Bir Cami: Kültür Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/%C5%9Eairler.png"
 province: "Nevşehir"
 iller: '["Nevşehir"]'
 district: "Avanos"

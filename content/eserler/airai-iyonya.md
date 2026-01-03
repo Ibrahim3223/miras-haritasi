@@ -3,7 +3,7 @@ title: "Airai (İyonya)"
 date: "2025-12-25T08:09:23+03:00"
 slug: "airai-iyonya"
 description: "## Airai: İyonya'nın Gizemli Arkeolojik Sitleri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/MapaTopogr%C3%A1ficoDeAsiaMenor-jonia.svg"
 province: ""
 iller: '[""]'
 district: ""

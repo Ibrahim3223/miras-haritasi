@@ -3,7 +3,7 @@ title: "Akçaşehir Camii"
 date: "2025-12-24T22:58:29+03:00"
 slug: "akcasehir-camii"
 description: "## Akçaşehir Camii: Karaman'ın Tarihî Bir Çeşidi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/27/35900_Ak%C3%A7a%C5%9Fehir-Tire-%C4%B0zmir%2C_Turkey_-_panoramio_-_ggfahri.jpg"
 province: "Karaman"
 iller: '["Karaman"]'
 district: ""

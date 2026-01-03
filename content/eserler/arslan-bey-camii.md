@@ -3,7 +3,7 @@ title: "Arslan Bey Camii"
 date: "2025-12-24T22:14:34+03:00"
 slug: "arslan-bey-camii"
 description: "## Arslan Bey Camii: Kütahya'nın Tarihi Bir Ölümsüz..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Arslan_Bey_Toguz.jpg"
 province: "Kütahya"
 iller: '["Kütahya"]'
 district: "Kütahya"

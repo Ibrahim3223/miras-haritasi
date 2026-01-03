@@ -3,7 +3,7 @@ title: "Alacami Camii"
 date: "2025-12-25T00:14:13+03:00"
 slug: "alacami-camii"
 description: "## Alacami Camii: Serik'in Tarihî Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ku%C5%9F_yuvas%C4%B1_-_panoramio.jpg"
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Serik"

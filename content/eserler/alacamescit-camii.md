@@ -3,7 +3,7 @@ title: "Alacamescit Camii"
 date: "2025-12-24T22:08:53+03:00"
 slug: "alacamescit-camii"
 description: "## Alacamescit Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Osmangazi%2C_Alacamescit_%2820220701%29.jpg"
 province: "Çankırı"
 iller: '["Çankırı"]'
 district: ""

@@ -3,7 +3,7 @@ title: "Ali Dede Türbesi"
 date: "2025-12-25T14:21:59+03:00"
 slug: "ali-dede-turbesi"
 description: "### Ali Dede Türbesi: Akçakoca'da Bir Tarihî Anıt..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/%C5%9Eanl%C4%B1urfa_%C5%9Eeyh_Ali_Dede_T%C3%BCrbesi_3480.jpg"
 province: "Düzce"
 iller: '["Düzce"]'
 district: "Akçakoca"

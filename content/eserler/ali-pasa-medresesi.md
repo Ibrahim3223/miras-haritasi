@@ -3,7 +3,7 @@ title: "Ali Paşa Medresesi"
 date: "2025-12-25T17:24:59+03:00"
 slug: "ali-pasa-medresesi"
 description: "## Ali Paşa Medresesi: Diyarbakır'ın Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/42/%C3%87orlulu_Ali_Pa%C5%9Fa_Medresesi_i%C3%A7i.jpg"
 province: "Diyarbakır"
 iller: '["Diyarbakır"]'
 district: "Diyarbakır"

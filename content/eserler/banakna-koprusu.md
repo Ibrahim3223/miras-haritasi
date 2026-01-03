@@ -3,7 +3,7 @@ title: "Banakna Köprüsü"
 date: "2025-12-25T02:04:55+03:00"
 slug: "banakna-koprusu"
 description: "## Banakna Köprüsü..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Banakna_Bridge3.jpg"
 province: "Artvin"
 iller: '["Artvin"]'
 district: "Borçka ilçesi"

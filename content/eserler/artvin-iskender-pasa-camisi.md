@@ -3,7 +3,7 @@ title: "Artvin İskender Paşa Camisi"
 date: "2025-12-24T22:19:09+03:00"
 slug: "artvin-iskender-pasa-camisi"
 description: "# Artvin İskender Paşa Camisi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/A_fragment_of_the_Georgian_inscription_from_a_ruined_church_in_Ardanu%C3%A7_%28Marr%2C_1911%29.JPG"
 province: "Kars Oblastı"
 iller: '["Kars Oblastı"]'
 district: "Ardanuç"

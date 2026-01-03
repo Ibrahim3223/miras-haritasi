@@ -3,7 +3,7 @@ title: "Babakale Camii"
 date: "2025-12-24T22:11:16+03:00"
 slug: "babakale-camii"
 description: "### Babakale Camii: Tarihi ve Kültürel Bir Miras..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/04/BabakaleBurg.jpg"
 province: "Çanakkale"
 iller: '["Çanakkale"]'
 district: ""

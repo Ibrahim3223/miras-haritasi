@@ -3,7 +3,7 @@ title: "Atlamataşı Camii"
 date: "2025-12-24T22:47:54+03:00"
 slug: "atlamatasi-camii"
 description: "# Atlamataşı Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Pervititch-Maps_of_Istanbul-Kas%C4%B1mpa%C5%9Fa%2C_Atlamata%C5%9F%C4%B1-19.jpg"
 province: ""
 iller: '[""]'
 district: "İstanbul"

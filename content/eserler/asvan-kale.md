@@ -3,7 +3,7 @@ title: "Aşvan Kale"
 date: "2025-12-25T07:02:18+03:00"
 slug: "asvan-kale"
 description: "# Aşvan Kale..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/11/ZooMS_confirms_geometric_morphometrics_species_identification_of_ancient_sheep_and_goat.pdf"
 province: ""
 iller: '[""]'
 district: ""

@@ -3,7 +3,7 @@ title: "Bathonea"
 date: "2025-12-25T06:52:43+03:00"
 slug: "bathonea"
 description: "## Bathonea: İstanbul'un Eski Bir Yerleşim Merkezi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_MunicipalityFlag.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "İstanbul"

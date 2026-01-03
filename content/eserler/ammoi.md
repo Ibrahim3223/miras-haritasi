@@ -3,7 +3,7 @@ title: "Ammoi"
 date: "2025-12-25T04:53:25+03:00"
 slug: "ammoi"
 description: "## Ammoi: Türkiye'nin Gizli Şehri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Report_of_program_activities-_National_Institute_of_Allergy_and_Infectious_Diseases_%28IA_reportofprograma1958na%29.pdf"
 province: ""
 iller: '[""]'
 district: ""

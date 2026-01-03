@@ -3,7 +3,7 @@ title: "Aşağımollahasan Höyüğü"
 date: "2025-12-25T07:25:26+03:00"
 slug: "asagimollahasan-hoyugu"
 description: "## Aşağımollahasan Höyüğü..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Influencedurartu1.PNG"
 province: "Van"
 iller: '["Van"]'
 district: "Özalp"

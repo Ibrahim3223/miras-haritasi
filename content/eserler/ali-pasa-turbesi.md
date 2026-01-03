@@ -3,7 +3,7 @@ title: "Ali Paşa Türbesi"
 date: "2025-12-25T14:44:03+03:00"
 slug: "ali-pasa-turbesi"
 description: "## Ali Paşa Türbesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tomb_of_G%C3%BCzelce_Ali_Pa%C5%9Fa_03.jpg"
 province: "Artvin"
 iller: '["Artvin"]'
 district: "Ardanuç"

@@ -3,7 +3,7 @@ title: "Attariye Camii"
 date: "2025-12-24T22:16:11+03:00"
 slug: "attariye-camii"
 description: "## Attariye Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Karaman_Attariye_Camii_2178.jpg"
 province: "Karaman"
 iller: '["Karaman"]'
 district: ""

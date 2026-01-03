@@ -3,7 +3,7 @@ title: "Altıparmak Camii"
 date: "2025-12-24T22:08:16+03:00"
 slug: "altiparmak-camii"
 description: "## Altıparmak Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mehmet_Alt%C4%B1parmak.jpg"
 province: "Bursa"
 iller: '["Bursa"]'
 district: "Osmangazi"

@@ -3,7 +3,7 @@ title: "Akbük Rum Ortodoks Kilisesi"
 date: "2025-12-25T09:22:11+03:00"
 slug: "akbuk-rum-ortodoks-kilisesi"
 description: "## Akbük Rum Ortodoks Kilisesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/AKB%C3%9CK_RUM_K%C4%B0L%C4%B0SES%C4%B0%2CYEN%C4%B0_K%C3%9CLT%C3%9CR_MERKEZ%C4%B0Birle%C5%9F_11.jpg"
 province: "Aydın"
 iller: '["Aydın"]'
 district: "Didim"

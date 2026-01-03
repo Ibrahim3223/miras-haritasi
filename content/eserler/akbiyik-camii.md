@@ -3,7 +3,7 @@ title: "Akbıyık Camii"
 date: "2025-12-24T22:57:53+03:00"
 slug: "akbiyik-camii"
 description: "# Akbıyık Camii: Bir Tarihi Mirasın Öyküsü..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Istanbul_PB096357raw_%284117815435%29.jpg"
 province: "Orhangazi (ilçe)"
 iller: '["Orhangazi (ilçe)"]'
 district: "Nalbantoğlu"

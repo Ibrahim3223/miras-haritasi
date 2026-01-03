@@ -3,7 +3,7 @@ title: "Arap Baba Mescidi ve Türbesi"
 date: "2025-12-24T23:24:17+03:00"
 slug: "arap-baba-mescidi-ve-turbesi"
 description: "## Arap Baba Mescidi ve Türbesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Harput_88.jpg"
 province: "Elazığ"
 iller: '["Elazığ"]'
 district: "Elazığ"

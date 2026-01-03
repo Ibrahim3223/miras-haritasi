@@ -3,7 +3,7 @@ title: "Beğlevan Köprüsü"
 date: "2025-12-25T02:24:05+03:00"
 slug: "beglevan-koprusu"
 description: "## Beğlevan Köprüsü..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8e/G%C3%BCre%C5%9Fen_K%C3%B6y%C3%BC_Tarihi_Ta%C5%9F_K%C3%B6pr%C3%BC.jpg"
 province: "Artvin"
 iller: '["Artvin"]'
 district: ""

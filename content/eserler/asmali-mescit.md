@@ -3,7 +3,7 @@ title: "Asmalı Mescit"
 date: "2025-12-24T22:47:18+03:00"
 slug: "asmali-mescit"
 description: "## Asmalı Mescit: İstanbul'un Tarihi ve Eğlence Merkezi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Asmal%C4%B1_mescid_sokak.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

@@ -3,7 +3,7 @@ title: "Arslanpaşa Camii"
 date: "2025-12-24T22:14:26+03:00"
 slug: "arslanpasa-camii"
 description: "## Arslanpaşa Camii: Erzurum'un Tarihi Bir Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Adana_location_Kozan.svg"
 province: "Erzurum"
 iller: '["Erzurum"]'
 district: ""

@@ -3,7 +3,7 @@ title: "10. Yıl Anıtı, Giresun"
 date: "2025-12-25T15:49:36+03:00"
 slug: "10-yil-aniti-giresun"
 description: "### 10. Yıl Anıtı, Giresun..."
-featured_image: ""
+featured_image: "https://karadeniz.gov.tr///d_galeri/381x518/10-YIL-ANITI-IMG_5328.JPG"
 province: "Giresun"
 iller: '["Giresun"]'
 district: "Giresun"

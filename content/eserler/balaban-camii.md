@@ -3,7 +3,7 @@ title: "Balaban Camii"
 date: "2025-12-24T23:52:09+03:00"
 slug: "balaban-camii"
 description: "## Balaban Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Bob_Balaban_2012_Shankbone.JPG"
 province: "Ankara"
 iller: '["Ankara"]'
 district: "Altındağ"

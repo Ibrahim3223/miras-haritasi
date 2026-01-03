@@ -3,7 +3,7 @@ title: "Balıklı Hamamı"
 date: "2025-12-25T16:29:26+03:00"
 slug: "balikli-hamami"
 description: "### Balıklı Hamamı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bal%C4%B1kl%C4%B1_hamam%C4%B1_kap%C4%B1.JPG"
 province: "Kütahya"
 iller: '["Kütahya"]'
 district: "Kütahya"

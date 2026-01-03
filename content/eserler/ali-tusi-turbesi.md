@@ -3,7 +3,7 @@ title: "Ali Tusi Türbesi"
 date: "2025-12-25T15:09:13+03:00"
 slug: "ali-tusi-turbesi"
 description: "## Ali Tusi Türbesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Tokat_Ali_Tusi_T%C3%BCrbesi_2416.jpg"
 province: "Tokat"
 iller: '["Tokat"]'
 district: "Tokat"

@@ -3,7 +3,7 @@ title: "Akpara Kale"
 date: "2025-12-25T01:19:49+03:00"
 slug: "akpara-kale"
 description: "## Akpara Kale: Eskişehir'in Gizli Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Midas_City_view_looking_N_%281993%29.jpg"
 province: "Eskişehir"
 iller: '["Eskişehir"]'
 district: "Han"

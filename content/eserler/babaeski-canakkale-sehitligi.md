@@ -3,7 +3,7 @@ title: "Babaeski Çanakkale Şehitliği"
 date: "2025-12-25T16:01:38+03:00"
 slug: "babaeski-canakkale-sehitligi"
 description: "## Babaeski Çanakkale Şehitliği..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Babaeski_-_Babaeski_%C3%87anakkale_Martyrs_Cemetery_-_20250531192159.jpg"
 province: "Kırklareli"
 iller: '["Kırklareli"]'
 district: "Babaeski"

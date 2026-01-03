@@ -3,7 +3,7 @@ title: "Atatürk Müze Köşkü"
 date: "2025-12-25T04:09:16+03:00"
 slug: "ataturk-muze-kosku"
 description: "## Atatürk Müze Köşkü..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_President%27s_Mansion_in_the_Angora_Suburbs.jpg"
 province: "Çankaya"
 iller: '["Çankaya"]'
 district: "Çankaya"

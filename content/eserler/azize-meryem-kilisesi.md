@@ -3,7 +3,7 @@ title: "Azize Meryem Kilisesi"
 date: "2025-12-25T09:40:30+03:00"
 slug: "azize-meryem-kilisesi"
 description: "## Azize Meryem Kilisesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/98/Santa_Mar%C3%ADa_de_los_Mongoles8.jpg"
 province: "Muğla"
 iller: '["Muğla"]'
 district: "Menteşe"

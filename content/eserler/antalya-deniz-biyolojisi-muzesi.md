@@ -3,7 +3,7 @@ title: "Antalya Deniz Biyolojisi Müzesi"
 date: "2025-12-25T03:50:41+03:00"
 slug: "antalya-deniz-biyolojisi-muzesi"
 description: "## Antalya Deniz Biyolojisi Müzesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya_Deniz_Biyolojisi_M%C3%BCzesi_%282%29.JPG"
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Muratpaşa"

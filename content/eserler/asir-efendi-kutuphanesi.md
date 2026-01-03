@@ -3,7 +3,7 @@ title: "Aşir Efendi Kütüphanesi"
 date: "2025-12-25T17:55:38+03:00"
 slug: "asir-efendi-kutuphanesi"
 description: "## Aşir Efendi Kütüphanesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Building_in_Fatih.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

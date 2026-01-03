@@ -3,7 +3,7 @@ title: "Ahmetli Köyü Camii"
 date: "2025-12-24T22:57:37+03:00"
 slug: "ahmetli-koyu-camii"
 description: "### Ahmetli Köyü Camii: Giresun'un Tarihî Bir Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/78/Ahmediye_Ge%C3%A7idi..._-_panoramio.jpg"
 province: "Giresun"
 iller: '["Giresun"]'
 district: ""

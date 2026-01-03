@@ -3,7 +3,7 @@ title: "Arapören"
 date: "2025-12-25T05:31:36+03:00"
 slug: "araporen"
 description: "## Arapören Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Milliyet_1932_eylul_19.pdf"
 province: "Eskişehir"
 iller: '["Eskişehir"]'
 district: "Mahmudiye"

@@ -3,7 +3,7 @@ title: "Akağalar Kapısı"
 date: "2025-12-25T15:38:52+03:00"
 slug: "akagalar-kapisi"
 description: "### Akağalar Kapısı: Edirne'nin Tarihi Bir Anıtı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Ads%C4%B1z_tasar%C4%B1m_%2845%29.png"
 province: "Edirne"
 iller: '["Edirne"]'
 district: "Edirne"

@@ -3,7 +3,7 @@ title: "Behzat Camii"
 date: "2025-12-24T22:23:28+03:00"
 slug: "behzat-camii"
 description: "## Behzat Camii: Tokat'ın Tarihi Anıtları Arasındaki Değerli Taş..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Capture_d%E2%80%99%C3%A9cran_2018-05-18_%C3%A0_14.58.36.png"
 province: "Tokat"
 iller: '["Tokat"]'
 district: "Tokat"

@@ -3,7 +3,7 @@ title: "Ali Nacar Camii"
 date: "2025-12-24T22:09:34+03:00"
 slug: "ali-nacar-camii"
 description: "### Ali Nacar Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gaziantrep_Ali_Nacar_camii_in_2004_8271.jpg"
 province: "Gaziantep"
 iller: '["Gaziantep"]'
 district: "Şahinbey"

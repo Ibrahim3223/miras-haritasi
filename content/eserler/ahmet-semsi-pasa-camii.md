@@ -3,7 +3,7 @@ title: "Ahmet Şemsi Paşa Camii"
 date: "2025-12-24T22:58:02+03:00"
 slug: "ahmet-semsi-pasa-camii"
 description: "### Ahmet Şemsi Paşa Camii: Aydın'ın Gizli Cenneti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aydin_Ahmet_Shemsi_Pasha_mosque_4627.jpg"
 province: "Aydın"
 iller: '["Aydın"]'
 district: ""

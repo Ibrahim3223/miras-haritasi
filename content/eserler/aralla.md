@@ -3,7 +3,7 @@ title: "Aralla"
 date: "2025-12-25T05:11:24+03:00"
 slug: "aralla"
 description: "# Aralla: Bir Eski Sitin Gizemi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Aralla_de_Luna_01_by-dpc.jpg"
 province: ""
 iller: '[""]'
 district: ""

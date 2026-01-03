@@ -3,7 +3,7 @@ title: "Amastrianum"
 date: "2025-12-25T06:58:15+03:00"
 slug: "amastrianum"
 description: "## Amastrianum: İstanbul'un Gizli Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Byzantine_Constantinople-el.svg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "İstanbul"

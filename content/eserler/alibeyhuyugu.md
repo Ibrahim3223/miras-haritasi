@@ -3,7 +3,7 @@ title: "Alibeyhüyüğü"
 date: "2025-12-25T06:08:11+03:00"
 slug: "alibeyhuyugu"
 description: "# Alibeyhüyüğü Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Alibey-H%C3%BCy%C3%BCk_%C4%B0%C3%A7eri%C3%A7umra_15_03_1998_Flugaufnahme.jpg"
 province: "Konya"
 iller: '["Konya"]'
 district: "Çumra"

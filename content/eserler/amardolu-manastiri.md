@@ -3,7 +3,7 @@ title: "Amardolu Manastırı"
 date: "2025-12-25T09:51:08+03:00"
 slug: "amardolu-manastiri"
 description: "## Amardolu Manastırı: Van'ın Gizli Mücevheri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Great_Armenia_location_map.png"
 province: "Van"
 iller: '["Van"]'
 district: ""

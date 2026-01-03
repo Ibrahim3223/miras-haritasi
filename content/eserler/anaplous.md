@@ -3,7 +3,7 @@ title: "Anaplous"
 date: "2025-12-25T05:00:01+03:00"
 slug: "anaplous"
 description: "### Anaplous: Antik Çağın Gizemi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Anaplous_Bosporou_1874.pdf"
 province: ""
 iller: '[""]'
 district: ""

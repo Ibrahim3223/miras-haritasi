@@ -3,7 +3,7 @@ title: "Aperlae"
 date: "2025-12-25T06:46:34+03:00"
 slug: "aperlae"
 description: "### Aperlae: Antik Çağın Gizemi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lykischer_Sarkophag.jpg"
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Antalya"

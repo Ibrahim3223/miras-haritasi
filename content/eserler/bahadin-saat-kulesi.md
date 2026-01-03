@@ -3,7 +3,7 @@ title: "Bahadın Saat Kulesi"
 date: "2025-12-25T17:18:57+03:00"
 slug: "bahadin-saat-kulesi"
 description: "## Bahadın Saat Kulesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Bahad%C4%B1n_Saat_Kulesi.jpg"
 province: "Yozgat"
 iller: '["Yozgat"]'
 district: ""

@@ -3,7 +3,7 @@ title: "Asklepion"
 date: "2025-12-25T03:36:36+03:00"
 slug: "asklepion"
 description: "## Asklepion: Bergama'nın Gizemli Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Kos_Asklepeion.jpg"
 province: "İzmir"
 iller: '["İzmir"]'
 district: "Bergama"

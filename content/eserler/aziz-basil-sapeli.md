@@ -3,7 +3,7 @@ title: "Aziz Basil Şapeli"
 date: "2025-12-25T09:43:25+03:00"
 slug: "aziz-basil-sapeli"
 description: "## Aziz Basil Şapeli..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Aziz_Basil_%C5%9Eapeli_bilgi_tabelas%C4%B1.JPG"
 province: "Nevşehir"
 iller: '["Nevşehir"]'
 district: "Göreme"

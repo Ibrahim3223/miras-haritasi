@@ -3,7 +3,7 @@ title: "Aulae"
 date: "2025-12-25T04:59:57+03:00"
 slug: "aulae"
 description: "## Aulae: Akdeniz'in Gizemi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Oxford_-_High_Street_-_Panorama_View_on_University_College_1249_02.jpg"
 province: "Mersin"
 iller: '["Mersin"]'
 district: "Akdeniz"

@@ -3,7 +3,7 @@ title: "Bahçeköy Merkez Camii"
 date: "2025-12-24T22:47:10+03:00"
 slug: "bahcekoy-merkez-camii"
 description: "## Bahçeköy Merkez Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bah%C3%A7ek%C3%B6yAqueduct_%282%29.jpg"
 province: ""
 iller: '[""]'
 district: "İstanbul"

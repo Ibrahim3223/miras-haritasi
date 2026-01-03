@@ -3,7 +3,7 @@ title: "Alacahan Camii"
 date: "2025-12-24T22:08:45+03:00"
 slug: "alacahan-camii"
 description: "## Alacahan Camii: Kangal'ın Yüceliğini Tasvir Eden Bir Miras..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Trabzon_alacahan.jpg"
 province: "Sivas"
 iller: '["Sivas"]'
 district: "Kangal"

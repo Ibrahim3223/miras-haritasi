@@ -3,7 +3,7 @@ title: "Beşiktaş Müzesi"
 date: "2025-12-25T03:21:25+03:00"
 slug: "besiktas-muzesi"
 description: "## Beşiktaş Müzesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/84/BJK_m%C3%BCze.JPG"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Beşiktaş"

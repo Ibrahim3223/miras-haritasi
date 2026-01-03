@@ -3,7 +3,7 @@ title: "Alaaddin Bey Camii"
 date: "2025-12-24T22:58:22+03:00"
 slug: "alaaddin-bey-camii"
 description: "**Alaaddin Bey Camii**..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Mu%C5%9F_Alaeddin_Bey_Camii_in_2005_1069.jpg"
 province: "Karaman"
 iller: '["Karaman"]'
 district: ""

@@ -3,7 +3,7 @@ title: "Aroma"
 date: "2025-12-25T05:10:37+03:00"
 slug: "aroma"
 description: "### Aroma Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Organolepticon.svg"
 province: "Aydın"
 iller: '["Aydın"]'
 district: "Sultanhisar"

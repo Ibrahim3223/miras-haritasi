@@ -3,7 +3,7 @@ title: "Balıkesir Ulusal Fotoğraf Müzesi"
 date: "2025-12-25T03:25:13+03:00"
 slug: "balikesir-ulusal-fotograf-muzesi"
 description: "## Balıkesir Ulusal Fotoğraf Müzesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bal%C4%B1kesir_National_Photograph_Museum.JPG"
 province: "Balıkesir"
 iller: '["Balıkesir"]'
 district: ""

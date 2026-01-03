@@ -3,7 +3,7 @@ title: "Antalya Kültür Merkezi"
 date: "2025-12-25T16:18:53+03:00"
 slug: "antalya-kultur-merkezi"
 description: "## Antalya Kültür Merkezi: Antik Tiyatro'nun Gerçek Bir Harikası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Antalya_K%C3%BClt%C3%BCr_Merkezi_Konser_Salonu.jpg"
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Antalya"

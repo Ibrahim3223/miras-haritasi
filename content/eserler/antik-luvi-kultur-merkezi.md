@@ -3,7 +3,7 @@ title: "Antik Luvi Kültür Merkezi"
 date: "2025-12-25T04:03:37+03:00"
 slug: "antik-luvi-kultur-merkezi"
 description: "## Antik Luvi Kültür Merkezi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Ancient_Luwian_Cultural_Center%2C_Seal_of_Isputashu.jpg"
 province: "Adana"
 iller: '["Adana"]'
 district: "Adana"

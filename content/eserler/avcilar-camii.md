@@ -3,7 +3,7 @@ title: "Avcılar Camii"
 date: "2025-12-25T00:59:22+03:00"
 slug: "avcilar-camii"
 description: "## Avcılar Camii: Artvin'in Gizli Cenneti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Avc%C4%B1lar_Sahili..._-_panoramio.jpg"
 province: "Artvin"
 iller: '["Artvin"]'
 district: "Yusufeli İlçesi"

@@ -3,7 +3,7 @@ title: "Andızlı Camii"
 date: "2025-12-24T21:44:42+03:00"
 slug: "andizli-camii"
 description: "## Andızlı Camii: Alanya'nın Tarihi Bir Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tophane%2C_And%C4%B1zl%C4%B1_Cami_Sk.%2C_07400_Alanya-Antalya%2C_Turkey_-_panoramio.jpg"
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Alanya"

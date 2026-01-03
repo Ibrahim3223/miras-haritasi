@@ -3,7 +3,7 @@ title: "Bahçeli Camii"
 date: "2025-12-25T00:56:28+03:00"
 slug: "bahceli-camii"
 description: "## Bahçeli Camii: Artvin'in Gizli Çarı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/%C3%9Clk%C3%BC_Ocaklar%C4%B1_%C4%B0l_Ba%C5%9Fkanl%C4%B1klar%C4%B1.png"
 province: "Artvin"
 iller: '["Artvin"]'
 district: "Yusufeli İlçesi"

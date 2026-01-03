@@ -3,7 +3,7 @@ title: "Aziziye Tiyatrosu"
 date: "2025-12-25T16:17:58+03:00"
 slug: "aziziye-tiyatrosu"
 description: "## Aziziye Tiyatrosu: Üsküdar'ın Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aziziye_Theatre_-_Jacq._Pervititch_%28cropped%29.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Üsküdar"

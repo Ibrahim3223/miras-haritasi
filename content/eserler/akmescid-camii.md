@@ -3,7 +3,7 @@ title: "Akmescid Camii"
 date: "2025-12-24T23:48:32+03:00"
 slug: "akmescid-camii"
 description: "## Akmescid Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Simferopol_Montage.png"
 province: "Edirne"
 iller: '["Edirne"]'
 district: "Edirne"

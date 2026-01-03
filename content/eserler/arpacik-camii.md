@@ -3,7 +3,7 @@ title: "Arpacık Camii"
 date: "2025-12-25T00:57:59+03:00"
 slug: "arpacik-camii"
 description: "## Arpacık Camii: Artvin'in Gizli Çeşmesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/-2019-11-22_Two_jars_of_pickled_shallots%2C_Trimingham_%281%29.JPG"
 province: "Artvin"
 iller: '["Artvin"]'
 district: "Yusufeli İlçesi"

@@ -3,7 +3,7 @@ title: "Alatepe"
 date: "2025-12-25T05:33:06+03:00"
 slug: "alatepe"
 description: "## Alatepe: Edirne'nin Gizli Mimari Harikası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Navire_tanker_ALATEPE_au_port_de_Casablanca.jpg"
 province: "Edirne"
 iller: '["Edirne"]'
 district: "Edirne"

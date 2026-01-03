@@ -3,7 +3,7 @@ title: "Alyattes Tümülüsü"
 date: "2025-12-25T07:14:29+03:00"
 slug: "alyattes-tumulusu"
 description: "## Alyattes Tümülüsü..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/23/Tomb_of_Alyattes%2C_August_2024.jpg"
 province: "Manisa"
 iller: '["Manisa"]'
 district: "Salihli"

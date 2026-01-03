@@ -3,7 +3,7 @@ title: "Bekar Sultan Türbesi"
 date: "2025-12-25T14:50:30+03:00"
 slug: "bekar-sultan-turbesi"
 description: "## Bekar Sultan Türbesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bekar_Sultan_T%C3%BCrbesi.jpg"
 province: "Aksaray"
 iller: '["Aksaray"]'
 district: "Gülağaç"

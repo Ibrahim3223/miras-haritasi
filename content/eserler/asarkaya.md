@@ -3,7 +3,7 @@ title: "Asarkaya"
 date: "2025-12-25T01:48:35+03:00"
 slug: "asarkaya"
 description: "## Asarkaya: Bir Tarihi Kale'nin Gizemi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Asarkaya_in_winter.jpg"
 province: "Burhaniye (ilçe)"
 iller: '["Burhaniye (ilçe)"]'
 district: "Burhaniye"

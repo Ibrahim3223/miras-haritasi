@@ -3,7 +3,7 @@ title: "Analıca Camii"
 date: "2025-12-24T22:14:50+03:00"
 slug: "analica-camii"
 description: "### Analıca Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Analc%C4%B1_mescid_genel.jpg"
 province: "Kütahya"
 iller: '["Kütahya"]'
 district: "Kütahya"

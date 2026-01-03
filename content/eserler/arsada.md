@@ -3,7 +3,7 @@ title: "Arsada"
 date: "2025-12-25T05:38:16+03:00"
 slug: "arsada"
 description: "## Arsada Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Arsada%2C_Turkey.jpg"
 province: "Muğla"
 iller: '["Muğla"]'
 district: "Seydikemer"

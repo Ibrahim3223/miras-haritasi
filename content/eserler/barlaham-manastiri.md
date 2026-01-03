@@ -3,7 +3,7 @@ title: "Barlaham Manastırı"
 date: "2025-12-25T08:45:40+03:00"
 slug: "barlaham-manastiri"
 description: "## Barlaham Manastırı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Image-missing.svg"
 province: "Hatay"
 iller: '["Hatay"]'
 district: "Yayladağı"

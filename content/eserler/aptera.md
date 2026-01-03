@@ -3,7 +3,7 @@ title: "Aptera"
 date: "2025-12-25T05:01:56+03:00"
 slug: "aptera"
 description: "## Aptera: Antik Yunanistan'ın Gizli Harikası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Aptera_Bath_and_cisterns.JPG"
 province: ""
 iller: '[""]'
 district: ""

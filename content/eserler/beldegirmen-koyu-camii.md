@@ -3,7 +3,7 @@ title: "Beldeğirmen Köyü Camii"
 date: "2025-12-25T00:43:40+03:00"
 slug: "beldegirmen-koyu-camii"
 description: "## Beldeğirmen Köyü Camii: Kastamonu'nun Gizli Cenneti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Dime%C3%A7ler-Belde%C4%9Firmen_k%C3%B6y%C3%BC_-_panoramio.jpg"
 province: "Kastamonu"
 iller: '["Kastamonu"]'
 district: "Bozkurt"

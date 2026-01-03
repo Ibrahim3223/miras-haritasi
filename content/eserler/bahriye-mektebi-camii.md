@@ -3,7 +3,7 @@ title: "Bahriye Mektebi Camii"
 date: "2025-12-24T22:47:26+03:00"
 slug: "bahriye-mektebi-camii"
 description: "### Bahriye Mektebi Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Milliyet_1929_haziran_3.pdf"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Adalar"

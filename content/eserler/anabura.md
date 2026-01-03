@@ -3,7 +3,7 @@ title: "Anabura"
 date: "2025-12-25T05:11:16+03:00"
 slug: "anabura"
 description: "## Anabura: Antik Çağın Gizemi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Preliminary_report_of_an_arch%C3%A6ological_journey_made_in_Asia_Minor_during_the_summer_of_1884_%28IA_preliminaryrepor00sterrich%29.pdf"
 province: ""
 iller: '[""]'
 district: ""

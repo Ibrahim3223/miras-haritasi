@@ -3,7 +3,7 @@ title: "Beşiktaş Kedi Müzesi"
 date: "2025-12-25T04:01:47+03:00"
 slug: "besiktas-kedi-muzesi"
 description: "## Beşiktaş Kedi Müzesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Istanbul_Cat_Museum_03.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "İstanbul"

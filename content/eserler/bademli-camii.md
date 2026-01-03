@@ -3,7 +3,7 @@ title: "Bademli Camii"
 date: "2025-12-24T22:12:48+03:00"
 slug: "bademli-camii"
 description: "# Bademli Camii: Dinar'ın Gizli İncisi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bademli%2C_Dikili.jpg"
 province: "Dinar ilçesi"
 iller: '["Dinar ilçesi"]'
 district: "Dinar"

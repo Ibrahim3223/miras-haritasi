@@ -3,7 +3,7 @@ title: "Ak Camii"
 date: "2025-12-24T22:57:25+03:00"
 slug: "ak-camii"
 description: "## Ak Camii Tanıtımı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Urfa_Nimetullah_Camii_Probably_one_of_three_graves_3082.jpg"
 province: "Mersin"
 iller: '["Mersin"]'
 district: ""

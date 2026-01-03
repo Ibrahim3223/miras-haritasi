@@ -3,7 +3,7 @@ title: "Bafra Asarkale ve Kaya Mezarları"
 date: "2025-12-25T14:10:15+03:00"
 slug: "bafra-asarkale-ve-kaya-mezarlari"
 description: "## Bafra Asarkale ve Kaya Mezarları..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Asarkale.jpg"
 province: "Samsun"
 iller: '["Samsun"]'
 district: "Bafra ilçesi"

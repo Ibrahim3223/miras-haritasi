@@ -3,7 +3,7 @@ title: "Aziz Mahmud Hüdai Türbesi"
 date: "2025-12-25T14:27:20+03:00"
 slug: "aziz-mahmud-hudai-turbesi"
 description: "### Aziz Mahmud Hüdai Türbesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/df/T%C3%BCrbe_Ziyareti_019_-_panoramio_%281%29.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Üsküdar"

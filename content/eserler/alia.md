@@ -3,7 +3,7 @@ title: "Alia"
 date: "2025-12-25T05:08:15+03:00"
 slug: "alia"
 description: "### Alia Arkeolojik Sitesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Chiesa_Madre_Alia.jpg"
 province: "Uşak"
 iller: '["Uşak"]'
 district: "Banaz"

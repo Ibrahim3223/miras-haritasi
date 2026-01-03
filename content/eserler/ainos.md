@@ -3,7 +3,7 @@ title: "Ainos"
 date: "2025-12-25T04:39:17+03:00"
 slug: "ainos"
 description: "### Ainos: Enez'in Tarihî Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Black_Forest_on_Winter.jpg"
 province: "Edirne"
 iller: '["Edirne"]'
 district: "Enez"

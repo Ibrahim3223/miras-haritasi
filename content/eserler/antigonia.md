@@ -3,7 +3,7 @@ title: "Antigonia"
 date: "2025-12-25T04:31:28+03:00"
 slug: "antigonia"
 description: "## Antigonia: Hatay'ın Antik Dönemden Kalma Gizemi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Antigonia_steindachneri.jpg"
 province: "Hatay"
 iller: '["Hatay"]'
 district: ""

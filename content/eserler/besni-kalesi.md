@@ -3,7 +3,7 @@ title: "Besni Kalesi"
 date: "2025-12-25T01:35:43+03:00"
 slug: "besni-kalesi"
 description: "### Besni Kalesi: Tarihin ve Mirasın Semtinde..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Eski_Besni_16_04_2004_Ulu_Cami-Minarett_mit_Burgberg.jpg"
 province: "Adıyaman"
 iller: '["Adıyaman"]'
 district: "Besni"

@@ -3,7 +3,7 @@ title: "Aslanlı Kışla Camii"
 date: "2025-12-24T22:15:24+03:00"
 slug: "aslanli-kisla-camii"
 description: "### Aslanlı Kışla Camii: Konya'nın Gizli Cenneti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mevlana_K%C3%BClt%C3%BCr_Merkezi%2C_%C3%87imenlik_Mah.%2C_Aslanl%C4%B1_K%C4%B1%C5%9Fla_Cad.%2C_Selimiye-Konya%2C_T%C3%BCrkiye_-_panoramio_%281%29.jpg"
 province: "Konya"
 iller: '["Konya"]'
 district: ""

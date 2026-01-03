@@ -3,7 +3,7 @@ title: "Arisba"
 date: "2025-12-25T04:30:03+03:00"
 slug: "arisba"
 description: "## Arisba: Çanakkale'nin Gizli Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/91/ArhopalaBirmana_AcesinaArisbaNic1891AC1.jpg"
 province: "Çanakkale"
 iller: '["Çanakkale"]'
 district: "Çanakkale"

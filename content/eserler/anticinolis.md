@@ -3,7 +3,7 @@ title: "Anticinolis"
 date: "2025-12-25T04:42:38+03:00"
 slug: "anticinolis"
 description: "## Anticinolis Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Isaaci_Vossii_Observationes_ad_Pomponium_Melam_De_situ_orbis_-_ipse_Mela_long%C3%A8_quam_antehac_emendatior_pr%C3%A6mittitur_%28IA_isaacivossiiobse00voss%29.pdf"
 province: ""
 iller: '[""]'
 district: ""

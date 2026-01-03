@@ -3,7 +3,7 @@ title: "Alibaba Camii"
 date: "2025-12-24T22:07:49+03:00"
 slug: "alibaba-camii"
 description: "## Alibaba Camii: Sivas'ta Bir Osmanlı Dönemi Eseri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Alibaba_Group_provisional_office_at_Xiong%27an_%2820180503164635%29.jpg"
 province: "Sivas"
 iller: '["Sivas"]'
 district: ""

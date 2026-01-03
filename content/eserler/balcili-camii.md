@@ -3,7 +3,7 @@ title: "Balcılı Camii"
 date: "2025-12-25T00:57:43+03:00"
 slug: "balcili-camii"
 description: "### Balcılı Camii: Artvin'in Tarihi Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Balc%C4%B1l%C4%B1_-_%E1%83%91%E1%83%90%E1%83%9A%E1%83%AE%E1%83%98.jpg"
 province: "Artvin"
 iller: '["Artvin"]'
 district: "Yusufeli İlçesi"

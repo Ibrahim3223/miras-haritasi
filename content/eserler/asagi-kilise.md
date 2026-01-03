@@ -3,7 +3,7 @@ title: "Aşağı Kilise"
 date: "2025-12-25T09:39:39+03:00"
 slug: "asagi-kilise"
 description: "## Aşağı Kilise: Divriği'nin Gizli Cenneti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Cornelius_Krieghoff%2C_Habitants_%281855%29.jpg"
 province: "Sivas"
 iller: '["Sivas"]'
 district: "Divriği"

@@ -3,7 +3,7 @@ title: "Babüsselam"
 date: "2025-12-25T13:17:40+03:00"
 slug: "babusselam"
 description: "## Babüsselam: Fatih'in Gizli Çeşmesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Osmanl%C4%B1_Saraylar%C4%B1%2CDolmabah%C3%A7e_Saray%C4%B1%2Cocak_2013.pdf"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

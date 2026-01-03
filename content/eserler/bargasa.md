@@ -3,7 +3,7 @@ title: "Bargasa"
 date: "2025-12-25T07:10:47+03:00"
 slug: "bargasa"
 description: "### Bargasa Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/MapaTopogr%C3%A1ficoDeAsiaMenor-Caria.svg"
 province: "Muğla"
 iller: '["Muğla"]'
 district: "Milas (ilçe)"

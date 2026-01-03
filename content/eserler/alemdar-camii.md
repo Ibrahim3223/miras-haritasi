@@ -3,7 +3,7 @@ title: "Alemdar Camii"
 date: "2025-12-24T22:09:06+03:00"
 slug: "alemdar-camii"
 description: "## Alemdar Camii: Bitlis'in Tarihsel ve Kültürel Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bitlis_Alemdar_Camii_3789.jpg"
 province: "Bitlis"
 iller: '["Bitlis"]'
 district: ""

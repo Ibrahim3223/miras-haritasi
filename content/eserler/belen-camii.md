@@ -3,7 +3,7 @@ title: "Belen Camii"
 date: "2025-12-24T22:23:00+03:00"
 slug: "belen-camii"
 description: "## Belen Camii: Milas'ta Bir Geç Çağdaş Camii..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Milas_Belen_Camii_4922.jpg"
 province: "Muğla"
 iller: '["Muğla"]'
 district: "Milas"

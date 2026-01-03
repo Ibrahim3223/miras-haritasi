@@ -3,7 +3,7 @@ title: "Asariye Camii"
 date: "2025-12-24T22:46:26+03:00"
 slug: "asariye-camii"
 description: "## Asariye Camii: Yıldız'ın Gizli Çehresini Keşfeden Bir Cami..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/03/Hamidiye_Fountain_%28Asariye%29%2C_Be%C5%9Fikta%C5%9F.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Beşiktaş"

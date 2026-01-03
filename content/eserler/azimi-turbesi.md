@@ -3,7 +3,7 @@ title: "Azimi Türbesi"
 date: "2025-12-25T14:55:22+03:00"
 slug: "azimi-turbesi"
 description: "## Azimi Türbesi: Altındağ, Ankara'da Bir Geçmişe Saygı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Cenabi_Ahmet_Pa%C5%9Fa_Camii.jpg"
 province: "Ankara"
 iller: '["Ankara"]'
 district: "Altındağ"

@@ -3,7 +3,7 @@ title: "Alopeconnesus"
 date: "2025-12-25T04:28:45+03:00"
 slug: "alopeconnesus"
 description: "## Alopeconnesus: Gelibolu'nun Gizli Örtüleri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ellesponto_map-Simplificado-es.svg"
 province: "Çanakkale"
 iller: '["Çanakkale"]'
 district: "Gelibolu"

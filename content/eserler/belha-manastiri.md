@@ -3,7 +3,7 @@ title: "Belha Manastırı"
 date: "2025-12-25T09:53:58+03:00"
 slug: "belha-manastiri"
 description: "### Belha Manastırı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/%C3%96zkonak_09_2001_Verfallssch%C3%A4den_H%C3%B6hlenkirche%2C_Belha_Manast%C4%B1r%C4%B1.jpg"
 province: "Nevşehir"
 iller: '["Nevşehir"]'
 district: "Avanos"

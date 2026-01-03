@@ -3,7 +3,7 @@ title: "Aigeai"
 date: "2025-12-25T08:31:51+03:00"
 slug: "aigeai"
 description: "## Aigeai: Adana Yumurtalık'taki Örenkaya'nın Gizli Kahramanı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e0/%D0%90%D1%98%D0%B3%D0%B0_%28%D0%9A%D1%83%D1%82%D0%BB%D0%B5%D1%88%29_02.jpg"
 province: "Adana"
 iller: '["Adana"]'
 district: "Yumurtalık"

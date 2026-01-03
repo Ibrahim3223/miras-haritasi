@@ -3,7 +3,7 @@ title: "Arbeila"
 date: "2025-12-25T04:44:48+03:00"
 slug: "arbeila"
 description: "## Arbeila: Geçmişin Gizemi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/10/Tuzla_Sahil.jpg"
 province: ""
 iller: '[""]'
 district: ""

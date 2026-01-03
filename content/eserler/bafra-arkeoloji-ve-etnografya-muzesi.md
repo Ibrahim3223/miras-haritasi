@@ -3,7 +3,7 @@ title: "Bafra Arkeoloji ve Etnografya Müzesi"
 date: "2025-12-25T03:29:52+03:00"
 slug: "bafra-arkeoloji-ve-etnografya-muzesi"
 description: "# Bafra Arkeoloji ve Etnografya Müzesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bafra_m%C3%BCzesi.jpg"
 province: "Trabzon Vilayeti"
 iller: '["Trabzon Vilayeti"]'
 district: "Bafra"

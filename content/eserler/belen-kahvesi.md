@@ -3,7 +3,7 @@ title: "Belen Kahvesi"
 date: "2025-12-25T03:38:54+03:00"
 slug: "belen-kahvesi"
 description: "### Belen Kahvesi Müzesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/BelenKahvesi2.jpg"
 province: "Muğla"
 iller: '["Muğla"]'
 district: "Menteşe"

@@ -3,7 +3,7 @@ title: "Alanbaşı Camii"
 date: "2025-12-25T00:55:07+03:00"
 slug: "alanbasi-camii"
 description: "## Alanbaşı Camii: Tarihi ve Kültürel Mirasın Gizli Cenneti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Vezirk%C3%B6pr%C3%BC_K%C3%B6pr%C3%BCl%C3%BC_Mehmet_Pa%C5%9Fa_Cami_-_panoramio_%281%29.jpg"
 province: "Artvin"
 iller: '["Artvin"]'
 district: "Yusufeli İlçesi"

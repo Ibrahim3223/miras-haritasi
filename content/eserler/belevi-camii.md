@@ -3,7 +3,7 @@ title: "Belevi Camii"
 date: "2025-12-24T22:25:46+03:00"
 slug: "belevi-camii"
 description: "## Belevi Camii: Denizli'nin Tarihi Bir Çanak..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Belevi1.jpg"
 province: "Denizli"
 iller: '["Denizli"]'
 district: ""

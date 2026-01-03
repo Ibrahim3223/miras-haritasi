@@ -3,7 +3,7 @@ title: "Aya Triada Manastırı"
 date: "2025-12-25T09:57:17+03:00"
 slug: "aya-triada-manastiri"
 description: "### Aya Triada Manastırı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Agia_Triada_-_Klosterhof_-_Kapelle_1.jpg"
 province: "Çanakkale"
 iller: '["Çanakkale"]'
 district: "Gökçeada"

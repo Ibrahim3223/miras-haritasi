@@ -3,7 +3,7 @@ title: "Alamadan Dede Türbesi"
 date: "2025-12-25T14:16:59+03:00"
 slug: "alamadan-dede-turbesi"
 description: "## Alamadan Dede Türbesi: Tarihi ve Kültürel Miras..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Tire_Alamadan_Dede_T%C3%BCrbesi_5481.jpg"
 province: "İzmir"
 iller: '["İzmir"]'
 district: "Tire"

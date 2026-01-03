@@ -3,7 +3,7 @@ title: "Astra"
 date: "2025-12-25T08:32:04+03:00"
 slug: "astra"
 description: "## Astra Arkeolojik Sit: Hadim, Konya'nın Gizemli Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Tov_Kvark_Myrhorod_-_traktor.jpg"
 province: "Konya"
 iller: '["Konya"]'
 district: "Hadim"

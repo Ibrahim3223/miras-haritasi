@@ -3,7 +3,7 @@ title: "Bayram Paşa Camii"
 date: "2025-12-25T14:31:54+03:00"
 slug: "bayram-pasa-camii"
 description: "# Bayram Paşa Camii: İstanbul'un Gizli Çehresini İfade Edecek Bir Anıt..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sadrazamlik-nisanlari.svg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

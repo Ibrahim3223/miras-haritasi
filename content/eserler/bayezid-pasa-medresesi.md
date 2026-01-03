@@ -3,7 +3,7 @@ title: "Bayezid Paşa Medresesi"
 date: "2025-12-25T17:27:16+03:00"
 slug: "bayezid-pasa-medresesi"
 description: "### Bayezid Paşa Medresesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/92/Ah%C5%9Fap_t%C3%BCrk_evleri_bursa_-_panoramio_%2813%29.jpg"
 province: "Yıldırım"
 iller: '["Yıldırım"]'
 district: "Hocataşkın"

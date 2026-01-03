@@ -3,7 +3,7 @@ title: "Aydoğdu Camii"
 date: "2025-12-24T22:14:14+03:00"
 slug: "aydogdu-camii"
 description: "## Aydoğdu Camii: Denizli'nin Gizli Çehresini Keşfetmek..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Soner_Aydo%C4%9Fdu_-_beIN-Sports-Reklam_%282021%29.png"
 province: "Denizli"
 iller: '["Denizli"]'
 district: ""

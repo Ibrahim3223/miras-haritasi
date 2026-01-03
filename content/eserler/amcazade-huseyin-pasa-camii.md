@@ -3,7 +3,7 @@ title: "Amcazade Hüseyin Paşa Camii"
 date: "2025-12-25T17:35:33+03:00"
 slug: "amcazade-huseyin-pasa-camii"
 description: "**Amcazade Hüseyin Paşa Camii**..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Amcazade_H%C3%BCseyin_Pa%C5%9Fa_Mansion%2C_Bosphorus%2C_%C4%B0stanbul_%2814056989580%29.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

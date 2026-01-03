@@ -3,7 +3,7 @@ title: "Appia"
 date: "2025-12-25T05:08:40+03:00"
 slug: "appia"
 description: "## Appia: Geçmişin İzleri..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Appian_Way.jpg"
 province: "Altıntaş"
 iller: '["Altıntaş"]'
 district: "Pınarcık"

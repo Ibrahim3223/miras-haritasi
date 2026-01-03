@@ -3,7 +3,7 @@ title: "Batıayaz Köprüsü"
 date: "2025-12-25T02:22:44+03:00"
 slug: "batiayaz-koprusu"
 description: "## Batıayaz Köprüsü..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hatay_bat%C4%B1ayaz_k%C3%B6pr%C3%BCs%C3%BC_manzaras%C4%B1.jpg"
 province: "Hatay"
 iller: '["Hatay"]'
 district: "Samandağ"

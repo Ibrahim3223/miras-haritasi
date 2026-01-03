@@ -3,7 +3,7 @@ title: "Arasaxa"
 date: "2025-12-25T05:08:35+03:00"
 slug: "arasaxa"
 description: "## Arasaxa Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Conspectus_chorographicus_insigniorum_locorum_e_geographia_veterum_populorum_delineatus_-_accentus_Graeci_et_syllabarum_quantitatis_diligentiore_cura_habita_-_in_usum_gymnasiorum_%28IA_conspectuschorog00schr%29.pdf"
 province: ""
 iller: '[""]'
 district: ""

@@ -3,7 +3,7 @@ title: "Amyzon"
 date: "2025-12-25T08:07:11+03:00"
 slug: "amyzon"
 description: "**Amyzon Arkeolojik Sit**..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Amyzon_aggregatum_SRIC_SR_87-33-04_img1.jpg"
 province: "Aydın"
 iller: '["Aydın"]'
 district: ""

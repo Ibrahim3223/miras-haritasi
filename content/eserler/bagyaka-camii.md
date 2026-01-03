@@ -3,7 +3,7 @@ title: "Bağyaka Camii"
 date: "2025-12-24T22:12:28+03:00"
 slug: "bagyaka-camii"
 description: "## Bağyaka Camii: Finike'nin Tarihi Bir Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Baqustan.JPG"
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Finike"

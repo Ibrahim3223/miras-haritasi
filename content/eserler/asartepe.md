@@ -3,7 +3,7 @@ title: "Asartepe"
 date: "2025-12-25T05:40:34+03:00"
 slug: "asartepe"
 description: "## Asartepe: Gölmarmara'nın Tarihî Zirvesi..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Atburgaz%C4%B1_3.jpg"
 province: "Manisa"
 iller: '["Manisa"]'
 district: "Gölmarmara"

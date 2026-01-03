@@ -3,7 +3,7 @@ title: "Aktaş Camii"
 date: "2025-12-24T22:59:11+03:00"
 slug: "aktas-camii"
 description: "## Aktaş Camii Tanıtımı..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/K1PL_Berlin_2018-09-16_Male_Kumite_%E2%80%9384_kg_12.jpg"
 province: "Ankara"
 iller: '["Ankara"]'
 district: ""

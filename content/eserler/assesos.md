@@ -3,7 +3,7 @@ title: "Assesos"
 date: "2025-12-25T04:31:03+03:00"
 slug: "assesos"
 description: "## Assos: Türkiye'nin Eski Bir Kenti..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Griechische_Geschichte_bis_zur_Schlacht_bei_Chaeroneia_Band_I.djvu"
 province: "İyonya"
 iller: '["İyonya"]'
 district: "Didim"

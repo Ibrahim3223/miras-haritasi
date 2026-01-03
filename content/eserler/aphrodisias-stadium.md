@@ -3,7 +3,7 @@ title: "Aphrodisias Stadium"
 date: "2025-12-25T08:31:31+03:00"
 slug: "aphrodisias-stadium"
 description: "### Aphrodisias Stadyumu: Antik Dönemin Altın Vuruşları..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Aphrodisias_stadium.jpg"
 province: "Aydın"
 iller: '["Aydın"]'
 district: ""

@@ -3,7 +3,7 @@ title: "Alibey"
 date: "2025-12-25T05:32:33+03:00"
 slug: "alibey"
 description: "## Alibey Arkeolojik Sit..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Alibey_River_%282%29.jpg"
 province: "Kütahya"
 iller: '["Kütahya"]'
 district: "Altıntaş"

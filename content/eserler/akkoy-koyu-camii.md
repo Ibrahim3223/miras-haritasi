@@ -3,7 +3,7 @@ title: "Akköy Köyü Camii"
 date: "2025-12-24T22:58:37+03:00"
 slug: "akkoy-koyu-camii"
 description: "### Akköy Köyü Camii: Giresun'un Tarihî Mirası..."
-featured_image: ""
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Akk%C3%B6y_K%C3%B6y%C3%BC_%28Kayseri%2C_Ye%C5%9Filhisar%29.jpg"
 province: "Giresun"
 iller: '["Giresun"]'
 district: "Çanakçı"
