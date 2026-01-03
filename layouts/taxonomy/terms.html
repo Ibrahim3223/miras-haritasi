@@ -16,10 +16,10 @@
     <!-- Terms Grid -->
     <div class="card-grid" id="termsGrid">
         {{ range .Data.Terms.ByCount }}
+        {{ $cleanTitle := .Page.Title | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
         <a href="{{ .Page.Permalink }}" class="card term-item" style="text-decoration: none; color: inherit;"
-            data-name="{{ .Page.Title | lower }}">
+            data-name="{{ $cleanTitle | lower }}">
             <div class="card-content" style="text-align: center; padding: 40px 20px;">
-                {{ $cleanTitle := .Page.Title | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
                 <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: var(--primary);">
                     {{ $cleanTitle }}
                 </h2>
