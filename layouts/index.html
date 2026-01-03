@@ -74,11 +74,13 @@
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
             {{ range first 8 .Site.Taxonomies.turler.ByCount }}
             {{ $typeName := .Page.Title | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
-            <a href="/turler/{{ .Name | urlize }}" class="category-card">
+            {{ if ne $typeName "" }}
+            <a href="/turler/{{ $typeName | urlize }}" class="category-card">
                 <div class="cat-icon">🏛️</div>
                 <h3 class="cat-title">{{ $typeName }}</h3>
                 <span class="cat-count">{{ .Count }} Eser</span>
             </a>
+            {{ end }}
             {{ end }}
         </div>
         <div style="text-align: center; margin-top: 40px;">
