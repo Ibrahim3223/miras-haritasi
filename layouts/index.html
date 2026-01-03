@@ -37,7 +37,7 @@
                 {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
                 {{ if $img }}
                 {{ $thumb := $img }}
-                {{ if and (findRE "wikimedia.org" $img) (findRE "/commons/" $img) }}
+                {{ if and (findRE "wikimedia.org" $img) (findRE "/commons/" $img) (not (findRE "/commons/thumb/" $img)) }}
                 {{ $thumb = replace $img "/commons/" "/commons/thumb/" }}
                 {{ $fileName := index (last 1 (split $img "/")) 0 }}
                 {{ $thumb = printf "%s/600px-%s" $thumb $fileName }}

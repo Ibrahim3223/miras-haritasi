@@ -23,7 +23,7 @@
 {{ end }}
 
 {{ $bgImage := .Params.image | default .Params.featured_image | default .Params.cover | default $fallback }}
-{{ if and (findRE "wikimedia.org" $bgImage) (findRE "/commons/" $bgImage) }}
+{{ if and (findRE "wikimedia.org" $bgImage) (findRE "/commons/" $bgImage) (not (findRE "/commons/thumb/" $bgImage)) }}
 {{ $bgImage = replace $bgImage "/commons/" "/commons/thumb/" }}
 {{ $fileName := index (last 1 (split $bgImage "/")) 0 }}
 {{ $bgImage = printf "%s/1200px-%s" $bgImage $fileName }}
@@ -238,7 +238,7 @@
                     {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
                     {{ if $img }}
                     {{ $thumb := $img }}
-                    {{ if and (findRE "wikimedia.org" $img) (findRE "/commons/" $img) }}
+                    {{ if and (findRE "wikimedia.org" $img) (findRE "/commons/" $img) (not (findRE "/commons/thumb/" $img)) }}
                     {{ $thumb = replace $img "/commons/" "/commons/thumb/" }}
                     {{ $fileName := index (last 1 (split $img "/")) 0 }}
                     {{ $thumb = printf "%s/400px-%s" $thumb $fileName }}
