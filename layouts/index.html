@@ -27,7 +27,11 @@
     </div>
 
     <div class="card-grid" style="margin-bottom: 80px;">
-        {{ range first 6 .Site.RegularPages.ByWeight }}
+        {{/* Filter pages: must have image AND low weight (famous items) */}}
+        {{ $featured := where .Site.RegularPages "Params.featured_image" "!=" "" }}
+        {{ $featured = $featured | first 100 }}
+        {{ $featured = $featured.ByWeight }}
+        {{ range first 6 $featured }}
         <article class="card">
             <a href="{{ .RelPermalink }}" class="card-img-wrap">
                 {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
@@ -69,9 +73,10 @@
         </div>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
             {{ range first 8 .Site.Taxonomies.turler.ByCount }}
+            {{ $typeName := .Page.Title | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
             <a href="/turler/{{ .Name | urlize }}" class="category-card">
                 <div class="cat-icon">🏛️</div>
-                <h3 class="cat-title">{{ .Name | humanize }}</h3>
+                <h3 class="cat-title">{{ $typeName }}</h3>
                 <span class="cat-count">{{ .Count }} Eser</span>
             </a>
             {{ end }}

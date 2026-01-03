@@ -228,13 +228,25 @@
         <div class="card-grid">
             {{ $nearby := where .Site.RegularPages "Params.district" .Params.district }}
             {{ $nearby = where $nearby "Permalink" "ne" .Permalink }}
+            {{/* Prioritize items with images */}}
+            {{ $withImg := where $nearby "Params.featured_image" "!=" "" }}
+            {{ $withoutImg := where $nearby "Params.featured_image" "" }}
+            {{ $nearby = $withImg | union $withoutImg }}
             {{ range first 4 $nearby }}
             <article class="card">
                 <a href="{{ .RelPermalink }}" class="card-img-wrap">
-                    {{ if .Params.featured_image }}
-                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="card-img" loading="lazy">
+                    {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
+                    {{ if $img }}
+                    {{ $thumb := $img }}
+                    {{ if and (findRE "wikimedia.org" $img) (findRE "/commons/" $img) }}
+                    {{ $thumb = replace $img "/commons/" "/commons/thumb/" }}
+                    {{ $fileName := index (last 1 (split $img "/")) 0 }}
+                    {{ $thumb = printf "%s/400px-%s" $thumb $fileName }}
+                    {{ if eq (path.Ext $img) ".svg" }}{{ $thumb = $img }}{{ end }}
+                    {{ end }}
+                    <img src="{{ $thumb }}" alt="{{ .Title }}" class="card-img" loading="lazy">
                     {{ else }}
-                    <div style="width: 100%; height: 100%; background: #eee;"></div>
+                    <div style="width: 100%; height: 100%; background: linear-gradient(135deg, #f5f5f5, #e0e0e0); display: flex; align-items: center; justify-content: center; color: #999;">🏛️</div>
                     {{ end }}
                 </a>
                 <div class="card-content" style="padding: 15px;">

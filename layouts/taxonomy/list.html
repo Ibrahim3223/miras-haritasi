@@ -55,7 +55,11 @@
 
     <!-- Grid -->
     <div class="card-grid">
-        {{ $paginator := .Paginate (.Pages.ByWeight) }}
+        {{/* Prioritize pages with images, then by weight */}}
+        {{ $withImages := where .Pages "Params.featured_image" "!=" "" }}
+        {{ $withoutImages := where .Pages "Params.featured_image" "" }}
+        {{ $sorted := $withImages.ByWeight | union ($withoutImages.ByWeight) }}
+        {{ $paginator := .Paginate $sorted }}
         {{ range $paginator.Pages }}
         <article class="card" data-title="{{ .Title | lower }}" data-city="{{ .Params.province | lower }}"
             data-district="{{ .Params.district | lower }}" data-type="{{ .Params.type | lower }}">

@@ -94,9 +94,22 @@ h6 {
     font-weight: 900;
     color: var(--primary);
     letter-spacing: -0.5px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
 }
 
-.logo span {
+.logo img {
+    height: 50px;
+    width: auto;
+    display: block;
+}
+
+.logo > span {
+    line-height: 1.2;
+}
+
+.logo > span > span {
     color: var(--secondary);
 }
 

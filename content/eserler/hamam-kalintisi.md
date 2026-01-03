@@ -3,7 +3,7 @@ title: "Hamam Kalıntısı"
 date: "2025-12-25T16:43:00+03:00"
 slug: "hamam-kalintisi"
 description: "## Hamam Kalıntısı: Fatih, İstanbul'un Gizli Bir Mirası..."
-featured_image: ""
+featured_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hamam%20Kal%C4%B1nt%C4%B1s%C4%B1.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

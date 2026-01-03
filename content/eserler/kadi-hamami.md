@@ -3,7 +3,7 @@ title: "Kadı Hamamı"
 date: "2025-12-25T16:26:40+03:00"
 slug: "kadi-hamami"
 description: "## Kadı Hamamı: Diyarbakır'ın Tarihi Bir Anıtı..."
-featured_image: ""
+featured_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kayseri%20Kad%C4%B1%20hamam%20in%202024%208381.jpg"
 province: "Diyarbakır"
 iller: '["Diyarbakır"]'
 district: "Diyarbakır"

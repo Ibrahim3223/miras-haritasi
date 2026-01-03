@@ -3,7 +3,7 @@ title: "Veli Dede Türbesi"
 date: "2025-12-25T14:35:05+03:00"
 slug: "veli-dede-turbesi"
 description: "## Veli Dede Türbesi: Çankırı'nın Gizli Cenneti..."
-featured_image: ""
+featured_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Veli%20Dede%20T%C3%BCrbesi%2C%20Edirne%2035.JPG"
 province: "Çankırı"
 iller: '["Çankırı"]'
 district: "Çankırı"

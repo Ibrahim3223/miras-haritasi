@@ -3,7 +3,7 @@ title: "Hamza Bey Türbesi"
 date: "2025-12-25T14:41:40+03:00"
 slug: "hamza-bey-turbesi"
 description: "## Hamza Bey Türbesi: Bursa'nın Tarihi Bir Mirası..."
-featured_image: ""
+featured_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hamza%20Bey%20T%C3%BCrbesi%2003.jpg"
 province: "Bursa"
 iller: '["Bursa"]'
 district: "Osmangazi"

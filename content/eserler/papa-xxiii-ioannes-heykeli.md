@@ -3,7 +3,7 @@ title: "Papa XXIII. Ioannes Heykeli"
 date: "2025-12-25T13:27:37+03:00"
 slug: "papa-xxiii-ioannes-heykeli"
 description: "## Papa XXIII. Ioannes Heykeli... "
-featured_image: ""
+featured_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Pope%20John%20XXIII%20%28%27the%20Turkish%20Pope%22%29%20in%20front%20of%20Church%20of%20St%20Anthony%20of%20Padua%2C%20Istanbul.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "İstanbul"

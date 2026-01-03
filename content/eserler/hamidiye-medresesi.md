@@ -3,7 +3,7 @@ title: "Hamidiye Medresesi"
 date: "2025-12-25T17:37:04+03:00"
 slug: "hamidiye-medresesi"
 description: "## Hamidiye Medresesi: İstanbul'un Gizli Cenneti..."
-featured_image: ""
+featured_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hamidiye%20Medresesi%20-%20d%C4%B1%C5%9F%C4%B1.jpg"
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"
