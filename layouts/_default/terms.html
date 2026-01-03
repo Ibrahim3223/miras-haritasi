@@ -23,10 +23,12 @@
     <div class="card-grid" id="termGrid">
         {{ range .Data.Terms.Alphabetical }}
         {{ $cleanTitle := .Page.Title | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
+        {{ if ne $cleanTitle "" }}
         <a href="{{ .Page.RelPermalink }}" class="term-card" data-name="{{ $cleanTitle | lower }}">
             <h3 class="term-title">{{ $cleanTitle }}</h3>
             <span class="term-count">{{ .Count }} Eser</span>
         </a>
+        {{ end }}
         {{ end }}
     </div>
 </div>

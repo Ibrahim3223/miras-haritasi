@@ -120,7 +120,10 @@
                 style="width: 100%; padding: 10px 15px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.95rem; outline: none; background: white;">
                 <option value="all">Tüm Kategoriler</option>
                 {{ range $name, $items := .Site.Taxonomies.turler }}
-                <option value="{{ $name }}">{{ $name | humanize }} ({{ $items.Count }})</option>
+                {{ $cleanName := $name | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
+                {{ if ne $cleanName "" }}
+                <option value="{{ $cleanName | lower }}">{{ $cleanName | humanize }} ({{ $items.Count }})</option>
+                {{ end }}
                 {{ end }}
             </select>
         </div>
@@ -210,9 +213,29 @@
             }
 
             searchInput.addEventListener('input', filterItems);
-            citySelect.addEventListener('change', updateDistricts);
+
+            // City select - redirect to city page for full results
+            citySelect.addEventListener('change', function() {
+                const city = this.value;
+                if (city !== 'all') {
+                    window.location.href = '/iller/' + city + '/';
+                } else {
+                    updateDistricts();
+                }
+            });
+
             districtSelect.addEventListener('change', filterItems);
-            typeSelect.addEventListener('change', filterItems);
+
+            // Type select - redirect to type page for full results
+            typeSelect.addEventListener('change', function() {
+                const type = this.value;
+                if (type !== 'all') {
+                    // Use the type value directly as the URL slug
+                    window.location.href = '/turler/' + encodeURIComponent(type) + '/';
+                } else {
+                    filterItems();
+                }
+            });
 
             resetButton.addEventListener('click', () => {
                 searchInput.value = '';

@@ -16,7 +16,9 @@
       "Bash(python scripts/sync_images_from_json.py:*)",
       "Bash(git commit:*)",
       "Bash(pip install:*)",
-      "Bash(timeout 5 cat:*)"
+      "Bash(timeout 5 cat:*)",
+      "Bash(tasklist:*)",
+      "Bash(findstr:*)"
     ]
   }
 }

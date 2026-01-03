@@ -17,6 +17,7 @@
     <div class="card-grid" id="termsGrid">
         {{ range .Data.Terms.ByCount }}
         {{ $cleanTitle := .Page.Title | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
+        {{ if ne $cleanTitle "" }}
         <a href="{{ .Page.Permalink }}" class="card term-item" style="text-decoration: none; color: inherit;"
             data-name="{{ $cleanTitle | lower }}">
             <div class="card-content" style="text-align: center; padding: 40px 20px;">
@@ -29,6 +30,7 @@
                 </div>
             </div>
         </a>
+        {{ end }}
         {{ end }}
     </div>
 

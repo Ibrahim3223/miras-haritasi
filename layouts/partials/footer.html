@@ -34,7 +34,8 @@
                 {{ if .Site.Taxonomies.turler }}
                 <ul style="columns: 2; column-gap: 20px;">
                     {{ range first 6 .Site.Taxonomies.turler.ByCount }}
-                    <li><a href="/turler/{{ .Name | urlize }}">{{ .Name | humanize }} <small style="opacity: 0.7;">({{
+                    {{ $cleanName := .Name | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
+                    <li><a href="/turler/{{ $cleanName | urlize }}">{{ $cleanName | humanize }} <small style="opacity: 0.7;">({{
                                 .Count }})</small></a></li>
                     {{ end }}
                 </ul>
