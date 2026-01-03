@@ -41,8 +41,8 @@ def update_markdown_image(file_path, image_url):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Replace featured_image line
-    pattern = r'^featured_image:\s*".*"$'
+    # Replace featured_image line (match any value, not just empty)
+    pattern = r'^featured_image:\s*"[^"]*"$'
     replacement = f'featured_image: "{image_url}"'
 
     new_content = re.sub(pattern, replacement, content, flags=re.MULTILINE)
@@ -81,29 +81,36 @@ def main():
     print("\n4. Updating images...")
     updated = 0
     skipped = 0
+    already_has_image = 0
 
     for md_file in tqdm(md_files, desc="Processing"):
         slug = md_file.stem
 
         if slug in slug_to_image:
-            # Check if file already has image
+            # Check current image status
             with open(md_file, 'r', encoding='utf-8') as f:
                 content = f.read()
 
+            # Only update if currently empty
             if 'featured_image: ""' in content:
                 # Update with image from JSON
                 update_markdown_image(md_file, slug_to_image[slug])
                 updated += 1
             else:
-                skipped += 1
+                # Already has an image
+                already_has_image += 1
         else:
             skipped += 1
 
     print("\n" + "=" * 60)
     print("RESULTS:")
-    print(f"  Total files processed: {len(md_files)}")
+    print(f"  Total files: {len(md_files)}")
     print(f"  Images updated: {updated}")
-    print(f"  Skipped: {skipped}")
+    print(f"  Already had images: {already_has_image}")
+    print(f"  No match in JSON: {skipped}")
+    print(f"\n  Image coverage:")
+    print(f"    With images: {updated + already_has_image} ({(updated + already_has_image)/len(md_files)*100:.1f}%)")
+    print(f"    Without images: {len(md_files) - updated - already_has_image} ({(len(md_files) - updated - already_has_image)/len(md_files)*100:.1f}%)")
     print("=" * 60)
 
 if __name__ == "__main__":
