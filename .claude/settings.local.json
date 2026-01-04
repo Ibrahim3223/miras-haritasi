@@ -18,7 +18,20 @@
       "Bash(pip install:*)",
       "Bash(timeout 5 cat:*)",
       "Bash(tasklist:*)",
-      "Bash(findstr:*)"
+      "Bash(findstr:*)",
+      "Bash(python scripts/wikimedia_image_search.py:*)",
+      "Bash(timeout 10 tail:*)",
+      "Bash(set GOOGLE_API_KEY=AIzaSyDrYrPPriGEzBRqetNEhjMDR4g27xAIubo)",
+      "Bash(set GOOGLE_CX=e70dd3e1776df4ad1)",
+      "Bash(python scripts/google_image_search.py:*)",
+      "Bash(setx GOOGLE_API_KEY \"AIzaSyDrYrPPriGEzBRqetNEhjMDR4g27xAIubo\")",
+      "Bash(setx:*)",
+      "Bash(cmd /c \"echo 10 && echo 75\")",
+      "Bash(python scripts/review_images.py:*)",
+      "Bash(python scripts/remove_pdf_images.py:*)",
+      "Bash(timeout 5 tail:*)",
+      "Bash(git reset:*)",
+      "Bash(python scripts/fix_taxonomy_format.py:*)"
     ]
   }
 }

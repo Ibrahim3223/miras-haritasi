@@ -13,16 +13,19 @@
     </div>
 
     <!-- Province Buttons Grid -->
-    <div id="illerGrid" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 1200px; margin: 0 auto;">
+    <div id="illerGrid" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; max-width: 1000px; margin: 0 auto;">
         {{ range .Data.Terms.Alphabetical }}
-        {{ $cleanName := .Page.Title | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
-        {{ if ne $cleanName "" }}
+        {{ $cleanName := .Page.Title }}
+        {{/* Filter out districts (İlçe) and old province names (Vilayeti) */}}
+        {{ $isDistrict := or (findRE "(?i)\\(İlçe\\)" $cleanName) (findRE "(?i)\\(ilçe\\)" $cleanName) (findRE "(?i)İlçesi" $cleanName) }}
+        {{ $isOldName := or (findRE "(?i)Vilayeti" $cleanName) (findRE "(?i)Sancağı" $cleanName) }}
+        {{ if and (ne $cleanName "") (not $isDistrict) (not $isOldName) }}
         <a href="{{ .Page.Permalink }}"
            class="il-btn"
            data-name="{{ $cleanName | lower }}"
-           style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: white; border: 2px solid var(--border); border-radius: 25px; text-decoration: none; color: var(--primary); font-weight: 600; transition: all 0.2s; box-shadow: var(--shadow-sm);">
-            <span>{{ $cleanName }}</span>
-            <span style="background: var(--secondary); color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.8rem;">{{ .Count }}</span>
+           style="min-width: 140px; padding: 14px 18px; background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%); border: 1.5px solid #e1e4e8; border-radius: 12px; text-decoration: none; color: #2c3e50; font-weight: 600; font-size: 0.95rem; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(0,0,0,0.04); display: flex; justify-content: space-between; align-items: center;">
+            <span style="flex: 1;">{{ $cleanName }}</span>
+            <span style="background: linear-gradient(135deg, var(--secondary), var(--primary)); color: white; padding: 4px 10px; border-radius: 8px; font-size: 0.8rem; font-weight: 700; margin-left: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">{{ .Count }}</span>
         </a>
         {{ end }}
         {{ end }}
@@ -36,15 +39,18 @@
 
 <style>
     .il-btn:hover {
-        background: var(--primary) !important;
+        background: linear-gradient(135deg, var(--primary), var(--secondary)) !important;
         color: white !important;
         border-color: var(--primary) !important;
-        transform: translateY(-2px);
-        box-shadow: var(--shadow-md) !important;
+        transform: translateY(-3px) scale(1.02);
+        box-shadow: 0 8px 20px rgba(13, 115, 119, 0.25) !important;
+    }
+    .il-btn:hover span:first-child {
+        color: white !important;
     }
     .il-btn:hover span:last-child {
-        background: var(--accent) !important;
-        color: var(--primary) !important;
+        background: rgba(255, 255, 255, 0.3) !important;
+        color: white !important;
     }
 </style>
 

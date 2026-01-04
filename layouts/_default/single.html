@@ -217,7 +217,7 @@
 </div>
 
 <!-- Advanced Internal Linking Strategy -->
-<div style="margin-top: 80px;">
+<div class="container" style="margin-top: 80px;">
 
     <!-- 1. Yakındaki Diğer Yapılar (Same District/City) -->
     <div style="margin-bottom: 50px;">
@@ -225,7 +225,7 @@
             style="font-size: 1.5rem; margin-bottom: 20px; border-bottom: 1px solid var(--border); padding-bottom: 10px;">
             🗺️ {{ .Params.district | default .Params.province }} Yakınındaki Diğer Yapılar
         </h3>
-        <div class="card-grid" style="grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); max-width: 1000px; margin: 0 auto;">
+        <div class="card-grid" style="grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));">
             {{ $nearby := where .Site.RegularPages "Params.district" .Params.district }}
             {{ $nearby = where $nearby "Permalink" "ne" .Permalink }}
             {{/* Prioritize items with images */}}
@@ -266,7 +266,7 @@
             🏛️ Diğer {{ .Params.type }} Örnekleri
         </h3>
         <ul
-            style="list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; max-width: 1000px; margin: 0 auto;">
+            style="list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px;">
             {{ $sameType := where .Site.RegularPages "Params.type" .Params.type }}
             {{ $sameType = where $sameType "Permalink" "ne" .Permalink }}
             {{ range first 6 $sameType }}
