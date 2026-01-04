@@ -1,18 +1,21 @@
 baseURL = 'https://mirasharitasi.com/'
-languageCode = 'tr-tr'
+languageCode = 'tr-TR'
 title = 'Miras Haritası'
 theme = []
 disableAliases = true
-enableRobotsTXT = false
+enableRobotsTXT = true
 
+# Pagination
 [pagination]
   pagerSize = 24
 
+# URL Structure
 [permalinks]
   eserler = "/eserler/:slug/"
   iller = "/iller/:slug/"
   turler = "/turler/:slug/"
 
+# Taxonomies
 [taxonomies]
   category = 'categories'
   tag = 'tags'
@@ -20,14 +23,18 @@ enableRobotsTXT = false
   district = 'ilceler'
   type = 'turler'
 
+# Output Formats (JSON for search)
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
 
+# Sitemap Configuration
 [sitemap]
   changefreq = "weekly"
-  priority = 0.5
+  priority = 0.8
   filename = "sitemap.xml"
 
+# Minification
 [minify]
   minifyOutput = true
   [minify.tdewolff]
@@ -38,8 +45,17 @@ enableRobotsTXT = false
       precision = 0
     [minify.tdewolff.js]
       precision = 0
+    [minify.tdewolff.json]
+      precision = 0
 
+# Image Processing
+[imaging]
+  quality = 85
+  resampleFilter = "Lanczos"
+
+# Site Parameters
 [params]
-  description = "Türkiye'nin tarihi ve kültürel mirası haritası. Camiler, kaleler, müzeler ve daha fazlası."
+  description = "Türkiye'nin 15,000+ kültürel mirası ve tarihi eserleri. Camiler, kaleler, müzeler, antik kentler. Detaylı bilgi, fotoğraflar ve konum bilgisi."
   author = "Miras Haritası"
+  keywords = ["tarihi yerler", "kültürel miras", "türkiye müzeleri", "osmanlı eserleri", "antik kentler"]
   ogImage = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1200px-Hagia_Sophia_Mars_2013.jpg"

@@ -1,3 +1,23 @@
+# robots.txt for Miras Haritası
+# https://mirasharitasi.com
+
 User-agent: *
 Allow: /
+
+# Sitemap
 Sitemap: https://mirasharitasi.com/sitemap.xml
+
+# Allow images for Google Image Search
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+
+# All search engines welcome
+User-agent: *
+Crawl-delay: 0
+
+# Disallow admin/private areas (if any)
+# Disallow: /admin/
