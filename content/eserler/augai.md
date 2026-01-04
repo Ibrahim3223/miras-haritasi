@@ -3,7 +3,7 @@ title: "Augai"
 date: "2025-12-25T04:50:50+03:00"
 slug: "augai"
 description: "## Augai Arkeolojik Sitinin Tanıtımı..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ueber_das_Schielen_und_die_Heilung_desselben_durch_die_Operation_%28IA_ueberdasschielen00dief%29.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

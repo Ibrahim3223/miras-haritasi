@@ -3,7 +3,7 @@ title: "Attea"
 date: "2025-12-25T05:02:08+03:00"
 slug: "attea"
 description: "### Giriş..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Project_Blue_Book_report_-_1952-07-9614993-VANNUYS-CALIF.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

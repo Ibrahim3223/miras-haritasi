@@ -3,7 +3,7 @@ title: "Apollonia (Mysia)"
 date: "2025-12-25T04:32:11+03:00"
 slug: "apollonia-mysia"
 description: "## Apollonia (Mysia): Tarihin İhtişamı..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Catalogue_of_the_collection_of_coins%2C_medals_and_numismatic_books%2C_the_property_of_the_late_Alexander_Grant%2C_Esq._C.I.E._%28IA_catalogueofcolle00sot_74n%29.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

@@ -3,7 +3,7 @@ title: "Amynanda"
 date: "2025-12-25T04:40:10+03:00"
 slug: "amynanda"
 description: "## Amynanda: Muğla'nın Gizli Anıtı..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Die_Staatshaushaltung_der_Athener_%28IA_bub_gb_EwEqAQAAIAAJ%29.pdf"
+featured_image: ""
 province: "Muğla"
 iller: '["Muğla"]'
 district: ""

@@ -1,5 +1,7 @@
 <!-- Dynamic Title -->
 {{ $cleanTitle := replaceRE " \\| Miras Haritası$" "" .Title }}
+{{ $cleanTitle = replaceRE `[\[\]"']` "" $cleanTitle }}
+{{ $cleanTitle = strings.TrimSpace $cleanTitle }}
 <title>{{ if .IsHome }}{{ .Site.Title }} | Türkiye'nin Kültürel Mirası (19.000+ Yapı){{ else if .Params.province }}{{ $cleanTitle }} | {{ .Params.province }} - Miras Haritası{{ else }}{{ $cleanTitle }} | {{ .Site.Title }}{{ end }}</title>
 
 <!-- Basic Meta -->
@@ -23,8 +25,8 @@
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ $cleanTitle }} | {{ .Params.province }} - Miras Haritası{{ end }}">
-<meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ $cleanTitle }}, {{ .Params.province }} bölgesinde ziyaret edebileceğiniz önemli bir {{ .Params.type }} yapısıdır.{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else if .Params.province }}{{ $cleanTitle }} | {{ .Params.province }} - Miras Haritası{{ else }}{{ $cleanTitle }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else if .Params.province }}{{ $cleanTitle }}, {{ .Params.province }} bölgesinde ziyaret edebileceğiniz önemli bir {{ .Params.type }} yapısıdır.{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}">
 <meta property="og:image" content="{{ $ogImage }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:locale" content="{{ .Site.LanguageCode }}">
@@ -32,7 +34,7 @@
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:url" content="{{ .Permalink }}">
-<meta name="twitter:title" content="{{ $cleanTitle }} | {{ .Site.Title }}">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ $cleanTitle }} | {{ .Site.Title }}{{ end }}">
 <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}">
 <meta name="twitter:image" content="{{ $ogImage }}">
 

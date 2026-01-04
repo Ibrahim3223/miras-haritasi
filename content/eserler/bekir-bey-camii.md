@@ -3,7 +3,7 @@ title: "Bekir Bey Camii"
 date: "2025-12-24T22:24:26+03:00"
 slug: "bekir-bey-camii"
 description: "## Bekir Bey Camii: Gaziantep'in Tarihi ve Kültürel Mirası..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Milliyet_1933_tesrinievvel_3.pdf"
+featured_image: ""
 province: "Gaziantep"
 iller: '["Gaziantep"]'
 district: "Şahinbey"

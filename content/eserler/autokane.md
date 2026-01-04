@@ -3,7 +3,7 @@ title: "Autokane"
 date: "2025-12-25T04:36:09+03:00"
 slug: "autokane"
 description: "## Balıkesir'in Gizli Cenneti: Autokane Arkeolojik Sit..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Monnaies_grecques_%28IA_monnaiesgrecques00imho%29.pdf"
+featured_image: ""
 province: "Balıkesir"
 iller: '["Balıkesir"]'
 district: ""

@@ -3,7 +3,7 @@ title: "Bathys Limen"
 date: "2025-12-25T04:44:09+03:00"
 slug: "bathys-limen"
 description: "## Bathys Limen: Turan'da Antik Kentin Eski Limanı..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/75/Murray%27s_small_classical_atlas_%28IA_murrayssmallclas00grun%29.pdf"
+featured_image: ""
 province: "Erdek ilçesi"
 iller: '["Erdek ilçesi"]'
 district: "Turan"

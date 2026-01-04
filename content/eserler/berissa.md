@@ -3,7 +3,7 @@ title: "Berissa"
 date: "2025-12-25T04:22:14+03:00"
 slug: "berissa"
 description: "## Berissa: Akdeniz'in Gizli Öreni..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/de/Catalogue_des_collections_de_sculpture_et_d%27%C3%A9pigraphie_%28IA_cataloguedescoll00muse_0%29.pdf"
+featured_image: ""
 province: "Çamlıbel"
 iller: '["Çamlıbel"]'
 district: "Aktepe"

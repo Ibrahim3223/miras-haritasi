@@ -3,7 +3,7 @@ title: "Aigiroessa"
 date: "2025-12-25T08:08:19+03:00"
 slug: "aigiroessa"
 description: "## Aigiroessa: Tarihi ve Kültürel Mirasın Gizemi..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Gottheiten_der_Aioler%2C_mit_excursen_kunstgeschichtlichen_Inhaltes%2C_auch_mit_dem_Schema_der_Geschichte_hellenischer_Philosophie_%28microform%29_%3B_%28IA_MN40026ucmf_0%29.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

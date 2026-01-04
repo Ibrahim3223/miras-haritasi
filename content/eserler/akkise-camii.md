@@ -3,7 +3,7 @@ title: "Akkise Camii"
 date: "2025-12-25T00:38:18+03:00"
 slug: "akkise-camii"
 description: "## Akkise Camii..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/66/Aksam_1935_kanunuevvel_30.pdf"
+featured_image: ""
 province: "Konya"
 iller: '["Konya"]'
 district: "Ahırlı"

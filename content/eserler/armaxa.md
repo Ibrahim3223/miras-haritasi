@@ -3,7 +3,7 @@ title: "Armaxa"
 date: "2025-12-25T05:08:20+03:00"
 slug: "armaxa"
 description: "## Armaxa: Eski Çağ'ın Gizemli Kenti..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/55/Itinerarium_provinciarvm_Antonini_Augusti._Vibius_Sequester_De_flumin%C5%A9_%26_aliarum_rerum_nominibus_in_ordinem_elementorum_digestis._P._Victor_De_regionibus_urbis_Romae._Dionysius_Afer_De_%28IA_itinerariumprovi00anto%29.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

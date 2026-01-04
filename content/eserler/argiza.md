@@ -3,7 +3,7 @@ title: "Argiza"
 date: "2025-12-25T04:59:24+03:00"
 slug: "argiza"
 description: "## Argiza Arkeolojik Sit..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/26/The_New_York_Evangelist_1839-11-23-_Vol_10_Iss_47_%28IA_sim_evangelist-and-religious-review_1839-11-23_10_47%29.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

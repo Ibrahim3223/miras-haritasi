@@ -3,7 +3,7 @@ title: "Ayasofya Kütüphanesi"
 date: "2025-12-25T17:52:36+03:00"
 slug: "ayasofya-kutuphanesi"
 description: "**Ayasofya Kütüphanesi**..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/41/T%C3%BCrk_%C5%9Eairleri_1.pdf"
+featured_image: ""
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

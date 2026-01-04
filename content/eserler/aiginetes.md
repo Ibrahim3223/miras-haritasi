@@ -3,7 +3,7 @@ title: "Aiginetes"
 date: "2025-12-25T05:39:28+03:00"
 slug: "aiginetes"
 description: "### Aiginetes: Antik Yunanistan'ın Gizemi..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Greco-Roman_and_Arabic_bronze_instruments_and_their_medico-surgical_use_%28IA_arabicgrecoroman00holtrich%29.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

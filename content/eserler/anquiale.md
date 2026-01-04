@@ -3,7 +3,7 @@ title: "Anquiale"
 date: "2025-12-25T04:33:07+03:00"
 slug: "anquiale"
 description: "## Anquiale: Antik Bir Arkeolojik Sit..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Historia_antigua_%28IA_historiaantigua00bore%29.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

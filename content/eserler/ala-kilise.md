@@ -3,7 +3,7 @@ title: "Ala Kilise"
 date: "2025-12-25T08:44:23+03:00"
 slug: "ala-kilise"
 description: "# Ala Kilisesi..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/2e/19._Y%C3%BCzy%C4%B1l%C4%B1n_%C4%B0lk_Yar%C4%B1s%C4%B1nda_Avrathisar%E2%80%99daki_Evl%C3%A2d-%C4%B1_F%C3%A2tih%C3%A2n_N%C3%BCfusu.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

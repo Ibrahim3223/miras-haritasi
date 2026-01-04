@@ -3,7 +3,7 @@ title: "Barate"
 date: "2025-12-25T05:03:44+03:00"
 slug: "barate"
 description: "**Barate Arkeolojik Sit**..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Monitorul_Oficial_al_Rom%C3%A2niei_1882-12-16%2C_nr._211.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

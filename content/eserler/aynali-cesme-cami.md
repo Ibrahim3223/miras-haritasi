@@ -3,7 +3,7 @@ title: "Aynalı Çeşme Cami"
 date: "2025-12-24T22:47:59+03:00"
 slug: "aynali-cesme-cami"
 description: "## Aynalı Çeşme Cami: Fatih'in Gizli Cenneti..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Milliyet_1932_mart_30.pdf"
+featured_image: ""
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"

@@ -3,7 +3,7 @@ title: "Alan Yeri Camii"
 date: "2025-12-24T22:08:01+03:00"
 slug: "alan-yeri-camii"
 description: "## Alan Yeri Camii..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/19/Milliyet_1930_kanunuevvel_28.pdf"
+featured_image: ""
 province: "Bursa"
 iller: '["Bursa"]'
 district: "Osmangazi"

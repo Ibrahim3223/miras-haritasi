@@ -3,7 +3,7 @@ title: "Arneai"
 date: "2025-12-25T04:21:07+03:00"
 slug: "arneai"
 description: "## Arneai Arkeolojik Sit..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Viaggi_di_La_P%C3%A9rouse_intorno_al_mondo_%28microform%29_%28IA_cihm_41166%29.pdf"
+featured_image: ""
 province: "Antalya"
 iller: '["Antalya"]'
 district: "Antalya"

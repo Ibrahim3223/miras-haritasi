@@ -3,7 +3,7 @@ title: "Ardabau"
 date: "2025-12-25T05:20:29+03:00"
 slug: "ardabau"
 description: "## Ardabau: Türkiye'nin Gizli Arkeolojik Siti..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/87/The_Christian_prophets_and_the_prophetic_Apocalypse_%28IA_christianprophet00selwiala%29.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

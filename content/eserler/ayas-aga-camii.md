@@ -3,7 +3,7 @@ title: "Ayas Ağa Camii"
 date: "2025-12-24T22:15:55+03:00"
 slug: "ayas-aga-camii"
 description: "### Ayas Ağa Camii..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/50/Ulus_1935_ilkkanun_24.pdf"
+featured_image: ""
 province: "Amasya"
 iller: '["Amasya"]'
 district: "Amasya"

@@ -3,7 +3,7 @@ title: "Azeia"
 date: "2025-12-25T04:41:13+03:00"
 slug: "azeia"
 description: "## Azeia Arkeolojik Sitesi: Antik Çağın Gizemi..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/da/Adev%C4%83rul_1890-09-07%2C_nr._0612.pdf"
+featured_image: ""
 province: ""
 iller: '[""]'
 district: ""

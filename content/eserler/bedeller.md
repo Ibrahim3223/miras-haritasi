@@ -3,7 +3,7 @@ title: "Bedeller"
 date: "2025-12-25T05:45:51+03:00"
 slug: "bedeller"
 description: "## Bedeller Arkeolojik Sit..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/00/%C4%B0%C5%9E_SAH%C4%B0B%C4%B0N%C4%B0N_BEDEL_%C3%96DEME_BORCU%2C_BORCUN_%C4%B0HLAL%C4%B0%2C_%C4%B0LAVE_%C4%B0%C5%9E_VE_%C4%B0LAVE_BA%C4%9EIMSIZ_B%C3%96L%C3%9CM_YAPILMASI.pdf"
+featured_image: ""
 province: "Manisa"
 iller: '["Manisa"]'
 district: "Saruhanlı"

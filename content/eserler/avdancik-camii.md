@@ -3,7 +3,7 @@ title: "Avdancık Camii"
 date: "2025-12-25T00:09:29+03:00"
 slug: "avdancik-camii"
 description: "## Avdancık Camii: Beyşehir'in Gizli Mücevheri..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/OJ_C_202402889_of_2024_-_BG_Bulgarian.pdf"
+featured_image: ""
 province: "Konya"
 iller: '["Konya"]'
 district: "Beyşehir"

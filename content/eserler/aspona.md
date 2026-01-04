@@ -3,7 +3,7 @@ title: "Aspona"
 date: "2025-12-25T04:41:54+03:00"
 slug: "aspona"
 description: "## Aspona: Balâ'nın Gizli Arkeolojik Harikası..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Catalogue_of_the_printed_books_and_manuscripts_in_the_John_Rylands_library%2C_Manchester_%28IA_catalogueofprint03john%29.pdf"
+featured_image: ""
 province: "Ankara"
 iller: '["Ankara"]'
 district: "Balâ"

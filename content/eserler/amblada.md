@@ -3,7 +3,7 @@ title: "Amblada"
 date: "2025-12-25T04:16:10+03:00"
 slug: "amblada"
 description: "## Amblada Arkeolojik Sit..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Preliminary_report_of_an_arch%C3%A6ological_journey_made_in_Asia_Minor_during_the_summer_of_1884_%28IA_preliminaryrepor00sterrich%29.pdf"
+featured_image: ""
 province: "Konya"
 iller: '["Konya"]'
 district: "Seydişehir"

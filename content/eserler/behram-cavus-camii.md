@@ -3,7 +3,7 @@ title: "Behram Çavuş Camii"
 date: "2025-12-24T22:46:54+03:00"
 slug: "behram-cavus-camii"
 description: "## Behram Çavuş Camii..."
-featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Milliyet_1930_mayis_28.pdf"
+featured_image: ""
 province: "İstanbul"
 iller: '["İstanbul"]'
 district: "Fatih"
